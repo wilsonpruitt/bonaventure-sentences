@@ -3,585 +3,233 @@ id: "bon-sent-IV-d12-p1-a2-q1"
 volume: 4
 book: 4
 distinctio: 12
+pars: 1
 articulus: 2
 quaestio: 1
 type: quaestio
-line_start: 31097
-line_end: 31655
-word_count_latin: 3541
-transcription_status: "auto-chunked 2026-06-16"
+title_la: "Utrum species illae possint converti in alimentum"
+title_en: "Whether those species can be converted into nourishment"
+printed_pages: [274, 275, 276, 277]
+pdf_pages: [294, 295, 296, 297]
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 274–277"
+has_scholion: true
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set column-by-column from Vol IV PDF bands (printed pp. 274–277, pdf pp. 294–297 at +20) per the Vol II/IV PDF-priority override, with raw IA djvu OCR base (raw lines 31086–31655) for clean running prose and footnote-marker spacing, fresh literal English translation, full apparatus (17 entries anchoring in this q's body), Articulus II scholion (I–IV, covering article q1–q3) from PDF bands p.277 ending just before QUAESTIO II (2026-06-21)"
 format_version: 1
 ---
 
-# bon-sent-IV-d12-p1-a2-q1
+# IV Sent., d. 12, p. 1, a. 2, q. 1
+## *Utrum species illae possint converti in alimentum*
+
+---
 
 ## Latin
+<!-- page 274 -->
 
-QUAESTIO             I.
+### Articulus II. *De actione et transmutatione accidentium.*
+### Quaestio I. *Utrum species illae possint converti in alimentum.*
 
+Quantum ad secundum articulum, scilicet de actione et mutatione illorum accidentium, quaeruntur similiter tria. Primo quaeritur, utrum illa accidentia possint converti in alimentum. Secundo, utrum possint alias species sive naturas convertere in Sacramentum. Tertio, utrum aliquas operationes habeant per naturam, an aliquas habeant per miraculum.
 
+Primo igitur quaeritur, utrum species illae sive accidentia possint converti in alimentum. Et quod sic, videtur:
 
+1. Per textum et Glossam, primae ad Corinthios undecimo[^1], ubi dicitur: *Unusquisque coenam suam praesumit ad manducandum; et alius quidem esurit, alius autem ebrius est*; et Glossa hoc exponit de divitibus, qui offerebant panem ad consecrandum in magna abundantia et aliis non dabant: ergo si panis et vinum non solum reficere poterant, verum etiam inebriare post consecrationem: ergo et in alimentum cedere.
 
-                                                                                          Utrum species illae possint converti in alimentum.
+2. Item, sicut calor ignis ordinatur ad convertendum in cinerem illud quod offertur in pabulum, sic calor naturalis ad convertendum in carnem et sanguinem[^2]; sed species proiecta in ignem comburitur et convertitur in cinerem, agente exteriori calore: ergo pari ratione in sanguinem potest converti, agente calore interiori.
 
-                           Primo igitur quaeritur, utrum species^ illae sive                                                                                              1.        Per textura et Glossam, primae                                                         ad         Corin-F^i^^^nu
-               accidentia                           possint            converti in alimentum.                                         Et      quod        thios               undecimo ', ubi dicitur                                         :    Unusquisque coenam
-               sic ,       videlur                                                                                                                        suam praesumit ad manducandum ; et alius qui-
+<!-- page 275 -->
 
+3. Item, sicut putrefactio ordinatur ad generationem vermis, sic digestio ad generationem humoris et carnis; sed species illae convertuntur in vermes, si putrefiant, sicut experimento patens esset, si quis probare vellet — et credo, quod per negligentiam aliquando contingit — ergo pari ratione in carnem.
 
-               erit    aer,             altero            iransmutalo           ;   ilkid       cnim        erat       calidum               et    sic-   Hnl.    ,       S.    p.       IV.    q.     10.    m.         7.   a.     1.       § 2,        ubi      eandem        obiectio-
+4. Item, hoc probatur deducendo ad inconveniens duplex: primum, quod illud Sacramentum est in praeiudicium naturae, quia, quoties fit transsubstantiatio, perit cibus naturalis irrevocabiliter, ex quo nullo modo convertitur in aliquid, quod natum sit cibare. Secundum inconveniens est, quod illud Sacramentum, si est ita, est in praeiudicium fidei: si enim accidentia non habent operationem substantiae, deprehendi potest illud Sacramentum sensibili experimento, et ita meritum fidei evacuari[^3]. Sed utrumque horum est maximum inconveniens et contra illud Sacramentum, cum sit in meritum fidei institutum.
 
-               cum, lioc nuiem cnlidum et liumidum; qunpropter, si vincatur                                                                               nem             solvens,             ait:    quod lux, prout est de esse nlbedinis,
-                                                                                                                                                                                                        <c
+**Sed contra:** 1. « Ex eisdem nutrimur, ex quibus sumus », sicut dicit Philosophus[^4]; sed non sumus ex accidentibus, sed ex substantiis: ergo cum species illae sint accidentia, patet, quod non nutriunt. Si dicas, quod miraculose convertuntur in substantiam; contra: si convertuntur in substantiam; cum sint multa accidentia, ergo in multas substantias debent converti: ergo quot accidentia sunt ibi, tot substantiae debent generari. Si tu dicas, quod quantitas convertitur in substantiam, quae est aliorum fundamentum; ergo si convertitur in substantiam, desinit esse quantitas: ergo desinit esse quantum. Sed omne alimentum auget per naturam quanti[^5]: ergo illud alimentum non poterit augere; illud etiam alimentum generatum carebit quantitate; quod est impossibile.
 
+> **Conclusio.** Species illae possunt converti in alimentum.
 
+**Respondeo:** Dicendum, quod circa hoc duplex fuit opinio.
 
-               siccum ab liumido, aer                                   erit ».                                                                           non         est in actu               suo... est enim albedo naturaiiler ex incorpo-
+Aliqui dixerunt, quod accidentia illa non reficiunt nec convertuntur in alimentum, quia nec accidentia possunt[^6] nec huic competit Sacramento; tamen species habent odorem et saporem et odor, quamvis sit accidens, tamen immutando aera et cerebrum inebriat, sicut patet quod multi inebriantur ex odore vini. Et sic dicunt intelligendum esse verbum Apostoli et Glossae.
 
-                  .
-                       '    Vel , ut Val. exponit, Iransmiyrare de suhiecto in sub-                                                                       ratione lucis                   cum         subiccto albedlnis, subiecto, dico,                                        sul)stan-
-               iectum. Cfr. lom. l.,pag. 462, nota                                               11.       verba Boetbii; cod. aa                         tia ,       non quanlitate                    soln.      Sed virtute mirabili                             est    incoi'poralio
-               addit : quia secunditm Boethium accidentia indignanlis naturae                                                                             lucis,              quae est de esse albedinis,                                 in specie panis                  in   subiecto,
-               sunt, perimi possunt, permutari autem nequaquam. Paulo in-                                                                                 scilicet             in       quantitate, et             ex         illa        incorporationo                  est    consimili
-               ferius pro aere mutato eadem Vat. aHre non mutato.                                                                                         modo                potentia,         quae          ante        fuit       ex incorporatione                     in        subiecto
-                       2   Cfr. Aristot.,                      IV. Phys. text.                  2.3-31.         (c.   3.).                                subslantia elc.                    — Vide scholion ad                           1.       huius articuli quaestionem.
-                       ^ Art.               seq. q. 3.                                                                                                                '       Vers. 21.         — Glossa           Strabi,            quae est ordinaria, non prae-
-                       •   Scilicet                 extensionem parlium extra partes in ordino ad se.                                                     cise eundem sensum habet. Verba                                             eiusdem sunt: Notat illos qui
-               Cfr.    supra                d.      iO. p.       I.    q. i.        ad    2.                                                              munera, quae offerebant allaribus pro sacriticio conflciendo, per-
-                       5   Sensus                   esl:   Sicut, existente substantia                                panis, color (lux                   acto illo, sibi resumebant, nec aliis non habentibus communicari
-               incorporata) per se                               est    tantum            in    potentia          ad    movendum vi-                      sinebant, sed                      soli     sumebnnt,               ita     ut           inde    etiam inebriarentur,
-               sura,       nisi             lux exterior (non                       incorporata) accedat;                            ita   et,     ces-   nliis       esurientibus.                   Polr.    Lombard.,                      in    hunc loc, eandem Glos-
-               sante substantia panis, color orit tantum in poientia etc.                                                                                 snm paulo fusius proponit, eo quidem modo, quod mngis conve-
-                       ^   Supple: mnnet,                              scil.   ut        apta    movere visum.                        Cfr.        Alex.   niat    cum verbis S. Bonavenlurne.
-                                                                                                                                                    ,                                                                                                                         ;, ,
+Sed quoniam manifeste apparet in combustione specierum, quod resolvuntur in cineres; et si non alerent, non appareret, quomodo hoc Sacramentum latere possit, immo necesse esset deprehendi: ideo communior est opinio, quod percipiens Sacramentum alitur et nutritur; et illud satis probari potest ad sensum. Manifestum enim est percipienti, quod per sumptionem vini sive illius speciei sitis exstinguitur.
 
+1. Ad illud autem quod obiicitur in contrarium, quod alimentum est substantia, diversimode respondetur a diversis. — Aliqui enim dicunt, quod virtute supra naturam accidentia convertuntur in substantiam. Ille enim, qui virtute increata potens est supra naturam accidentia illa sustentare sine materia, ille virtutem[^7] dat, ut, desinentibus proprietatibus, non in nihil, sed in substantiam convertantur, in quam converteretur ipsa panis substantia, si adesset. Et hoc dicunt ipsum Sacramentum exigere, ne
 
+<!-- page 276 -->
 
+deprehendatur, et fides amittat meritum; ne etiam Sacramentum faciat aliquod naturae praeiudicium. — Et si tu obiicias, quod incineratio non est a virtute supra naturam, sed naturali, similiter nec inebriatio nec combustio, immo sunt a virtutibus naturalibus, maxime cum fiant ab exteriori virtute, fiant nihilominus successive, terminentur etiam ad rem minus perfectam; ipsi dicunt, quod ibi est potentia activa et potentia passiva; potentia agens est naturalis, sed potentia passiva in accidentibus est supra naturam quantum ad hoc, scilicet ut in substantiam convertantur. Nam residuum, quod fit ante conversionem, et quod fit post conversionem, totum potest esse a potentia naturali, tam agente quam patiente. Et hi dicunt, quod primum accidentium[^8] convertitur in substantiam, non quia de quantitate fiat substantia tantum, sed quia fit substantia quanta. — Et haec opinio satis est probabilis.
 
-                                                                                                           DIST.          XII. P.         I.    ART. II. QUAEST. I.                                                                                                     273
+Aliorum opinio est, quod suscipiens species alitur, non quia accidentia in substantiam convertantur, sed quia substantia revertitur, quae prius ibi fuerat; ut sicut in aliis miraculis et apparitionibus dicitur, quod in praeiacentem materiam resolvuntur et redeunt, sicut dicitur de columba et de stella[^9] et consimilibus: sic etiam dicunt, quod sicut panis convertitur in corpus, ut sit Sacramentum; sic, peracto officio Sacramenti, ex quo desinit esse Sacramentum, desinit ibi esse corpus Christi; et ideo, sicut mirabiliter prius substantia panis convertitur, ita etiam miraculose revertitur.
 
-                                                                                                                                                                      Item , Sacramentum istud est cibus spiritua-
-            dem esurit, alius autem ebrius est; et Glossa hoc                                                                                                       2.
+Et ista fuit positio Innocentii in libro suo, quem fecit de Ecclesiasticis Officiis, ubi dicit in libro tertio, capitulo de fractione[^10]: « Si ergo quaeritur, quid a mure comeditur, cum Sacramentum corroditur, vel quid incineratur, cum Sacramentum crematur; respondendum, quod sicut miraculose substantia panis convertitur in corpus dominicum et incipit esse sub Sacramento; sic ipsa quodam modo miraculose revertitur, cum ipsum ibi desinit esse ». — Hanc autem modum dicendi credo probabilem et securum, maxime cum tanti viri habeat auctoritatem. Caveat tamen quisque, qualiter intelligit, quia in hoc secretum fidei latet. — Sed secundum hanc positionem patet responsio ad quaestionem.
 
-                                                panem ad con-                                                                                               lis ; et ideo eliam est una ratio congruilatis, quare
-            exponit de divitibus, qui offerebant
-            secrandum     magna  abundantia  et
-                                             in  aliis non da-                                                                                              substantia transit, ne quaeratur refectio corporalis^:
+Concedendum enim est, quod recipiens hoc Sacramentum alitur et nutritur, non quia accidens in substantiam convertatur, sed[^11] aliquid convertitur in substantiam comedentis, non, inquam, accidens, sed substantia. Et sic non est contra illud Philosophi, quod ex eisdem nutrimur, ex quibus sumus.
 
-            bant: ergo si panis et  vinum  non  solum   reficere                                                                                            ergo si ob hanc causam transeat, non videtur, quod
-                                             post   consecratio-                                                                                            ultra remaneat                         illa   virtus.
-            poterant, verum etiam inebriare
-                                                                                                                                                                    3.     Item ,             si    cibus est corporalis                          ,   ergo sacerdos,
-            nem          : ergo et in alimentum cedere.
-                                                                  conver-                                                                                   qui cantavit unam Missam                                     non poterit cantare aliam,
-                         2. Ilem , sicut calor ignis ordinatur ad
-                                                                                                                                                                                                                        ,
+2. Ad illud quod obiicitur, quod est cibus spiritualis; dicendum, quod illud verum est, quamdiu salvatur ratio Sacramenti; non enim cibat carnaliter in quantum Sacramentum[^12], sed ad cibationem spiritualem est ordinatum; et cum incipit cibare corporaliter, desinit esse Sacramentum. — Et ita patet, quod ratio illa bona est. Cum enim sit ibi, quamdiu est Sacramentum, corpus Christi verum; et hoc non alit corporaliter, et accidentia similiter non alunt: ideo Sacramentum recte dicitur spiritualis cibus, quamvis, recedente ratione et officio Sacramenti, cibus corporalis incipiat esse, sicut fuerat ante.
 
+3. Ad illud quod obiicitur, quod solvit ieiunium; dicendum, quod non solvit: tum quia Sacramentum, dum sumitur, non est cibus corporalis, tum etiam ratione corporis Christi interius contenti, qui[^13] tantum est cibus mentis. Et ideo non est simile de vino, quod recipitur ad purificationem. Et ideo patet illud.
 
+4. Patet etiam sequens. Ambrosius enim loquitur de corpore Christi; et hoc est tantum cibus mentis, non ventris.
 
+Uterque praedictorum modorum dicendi satis probabilis videtur, nec facile est improbare, quia[^14] Sancti non multum de hoc loquuntur. Nec rationi hic multum innitendum est, quia utraque opinio fundatur hic supra miraculum et potentiam operantem supra naturam. Quis autem scit, utrum Deus sic vel sic faciat, cum uterque modus dicendi satis sit rationabilis? Nec videtur omnino improbabile, quod aliquod accidens in substantiam convertatur in hoc Sacramento, cum accidens hic subsistat sine subiecto; nec videtur improbabile, quod sicut substantia panis convertitur, ita revertatur. Cum enim in substantiae panis conversione corpus Christi non generetur nec fiat, sed tantum sub illis speciebus esse incipiat, sicut tenet fides recta[^15]; quis audeat hoc tanquam irrationabile repudiare, ut, corpore Christi non corrupto, sed desinente esse sub speciebus, substantia illa, quae sustentabat accidentia, revertatur, cum accidentia illa non sint ob aliud sine subiecto nisi ob dignitatem et praesentiam contenti? — Quodsi quaeras, utrum sit creatio, vel
 
-                                        quod offertur in pabulum,                                                                                           quia frangit                  ieiunium                     quo fracto licitum non est
-                                                                                                                                                                                                                                              ,
-            tendum in cinerem                                       illud                                                                                                                                         ;
+<!-- page 277 -->
 
+generatio vel alia mutatio; sane potest dici, quod sicut conversio est mutatio singularis[^16], sic et reversio. Quidquid autem horum dicatur, dum tamen non asseratur pertinaciter, nullum est ibi periculum; solum hoc caveatur, ut nostrae capacitatis intelligentia totaliter in Christi obsequium captivetur[^17].
 
+### Scholion
+**I.** Experientia constat, in Sacramento accidentia, licet a substantia panis et vini sint separata, eosdem producere effectus sensibiles, tum in agendo tum in patiendo, quos coniuncta cum substantia antea habebant (cfr. infra q. 3.). Axioma autem est Scholasticorum, non tamen eodem modo ab omnibus explicatum, quod accidentia agant in virtute substantiae; « sicut enim accidens non est per se, ita non habet virtutem operandi per se, sed per virtutem substantiae » (ita I. Sent. d. 3. p. II. a. 1. q. 3. ad 5.). Hinc explicatu difficile est, quomodo accidentia, sua naturali substantia privata, possint effectus habere quoscumque; praesertim vero, et quomodo convertantur in substantiam alimenti, et quomodo, corruptis speciebus, cedant in aliam substantiam qualemcumque. Cum de facto constet inter omnes, de *modo* variae sententiae sunt exortae. Nec mirum, quia res est de miraculo singularissimo et ab observatione sensuum penitus remoto; insuper Scholastici in solvenda generali quaestione philosophica de modo, quo formae substantiales generantur et corrumpuntur, diversis viis incedunt. — S. Bonaventura etiam hoc loco non recedit ab his duobus principiis, quae alibi contra alios professus est.
 
+1. Sicut nullum agens creatum producere potest materiam, sic nec alterum rerum corporearum principium intrinsecum, scil. formam substantialem, nisi ea iam aliquatenus, id est secundum essentiam (non existentiam), praeexistit in suis rationibus seminalibus (ita II. Sent. d. 7. p. II. a. 2. q. 1. 2; d. 18. a. 1. q. 2. 3; cfr. I. Sent. d. 42. a. unic. q. 4; II. Sent. d. 1. p. I. a. 3. q. 1, d. 30. a. 3. q. 1; III. Sent. d. 14. a. 3. q. 3. — Aliis modis rem tentant explicare plurimi Scholastici, inter quos sunt S. Thom. et Scotus.
 
-                      naturalis  ad  convertendum   in carnem et                                                                                            cantare  unde dicitur" sacerdotibus ut eo die, quo
-                                                                                                                                                                           ;                                                                      ,
+2. Accidens nec virtute propria nec ut instrumentum substantiae videtur proprie attingere ad productionem substantiae; sed tamen dispositive illam producit, quod approbat Scotus. Unde (infra q. 3. quaesil. 2.) docetur, quod si « datur accidentibus potentia convertendi in substantiam, cum desinunt esse... talis potentia omnino est supra naturam »; et II. Sent. d. 13. a. 2. q. 2. fundam. 4: « Nullum accidens est causa substantiae »; quod etiam supponitur d. 29. a. 1. q. 2. ad 3. Cfr. II. Sent. d. 7. p. II. a. 2. q. 1, ubi concludit, quod « agens creatum nullam quidditatem, nec substantialem nec accidentalem, omnino producit, sed entem sub una dispositione facit esse sub alia ». — Ast S. Thom. (S. III. q. 77. a. 3. ad 3.) docet, quod accidentia sive qualitates activae et passivae agere possint ad formam substantialem instrumentaliter, scilicet non quidem virtute propria, sed virtute formae substantialis ut principalis agentis; quam doctrinam S. Bonav. non commemorat, sed Scot. (hic q. 3. n. 4. seqq.) diffuse impugnat.
 
-            sic calor
-                          sed   species proiecta in ignem  combu-                                                                                           plures Missas canlare debent, in prima non faciant
-            sanguinem                    '
-                                             ;
+**II.** Conclusio 1. quaestionis negata est a pluribus antiquis (Algero, Guitmundo et Gulielmo Paris.), qui primam opinionem hic relatam posuerunt. — Tota et magna difficultas consistit in solvendo 1. arg. ad oppos.; de quo plures ab antiquo opiniones circumferuntur. Opinio Innocentii III. (2.), quam sequitur Alex. Hal., a Scoto (hic q. 7.) reiicitur, sicut et plures aliae. Ipse (ibid. n. 11. seqq.) vult, quod immediate a Deo redit substantia composita, non quidem panis, sed talis, ad quam accidentia corrupta disponunt. — S. Thomae (S. loc. cit. a. 5. 6.) non placent duae hic relatae opiniones; unde (a. 5.) docet: « Melius videtur dicendum, quod in ipsa consecratione miraculose datur quantitati dimensivae panis et vini, quod sit primum subiectum subsequentium formarum; hoc autem est proprium materiae: et ideo ex consequenti datur praedictae quantitati dimensivae omne illud, quod ad materiam pertinet ». Sed etiam haec verba, saltem si ad litteram intelliguntur respectu formarum substantialium, involvunt graves difficultates et varias provocaverunt interpretationes. In Comment. vero (hic q. 1. quaestiunc. 4. ad 4.) idem dicit: « Oportet ponere, aliquid in hac generatione esse miraculosum, et aliquid naturale; reditus enim substantiae, vel creatio materiae, vel conversio dimensionum in materiam est miraculosum; sed quod materia iam existens recipiat talem formam, cuius dispositiones praecesserunt in dimensionibus, hoc est naturale ». — De doctrina in 3. fundamento tradita, quae supponit generationem aequivocam, et quidem valde extensam, alii Scholastici specialiter agunt.
 
+**III.** Quoad 2. quaestionem est sententia nunc communis, quod per species consecratas non convertatur ipse liquor superfusus, etiam si sit eiusdem speciei; hinc posteriores solvunt concorditer quaestionem principalem. — Quoad adiunctam quaestionem, utrum admixtione alicuius liquoris non consecrati cesset Sacramentum, tenetur communiter hoc principium, quod manet sanguis Christi sub speciebus, donec ipsae remanent integrae; et quod recedit, si elementa in sua specie corrumpuntur, quod certe fit admixtione alterius liquoris in maiore quantitate. Sed de casu, quando non species, sed quantitas tantum mutatur, sive quando vinum non consecratum apponitur consecrato, Durandus (hic q. 3.) cum multis aliis recentioribus docet, non desinere praesentiam Christi appositione etiam maioris quantitatis vini non consecrati; quod probabile esse censet Richard. a Med. (hic a. 4. q. 1.), et favet Scot. (hic q. 4.). Sed S. Thom. (S. loc. cit. a. 8.) cum Petro a Tar. (hic q. 2. a. 2. quaestiunc. 2.) hoc non concedit, nisi vinum adiunctum esset « tam parvae quantitatis, quod non posset perfundi per totum », hac scilicet ratione, quia tunc species non remaneant eaedem numero, sed tantum specie. Eandem doctrinam praefert Alex. Hal. (loc. cit. ad. 3. 4.) docens, etiam parvam quantitatem liquoris non consecrati additam, dummodo sit divisa secundum partes speciei continentis, facere, ut cesset Sacramentum; hoc autem esse, secundum quod in illa una quantitate non « est distinguere aliquam naturam, vel proprietatem partem a parte »; completam enim esse mixtionem, « quando non est assignare aliquam partem secundum existentiam veritatis in mixto secundum materiam neque secundum speciem, quae sit differens ab alia ». — S. Bonav. (ad 5.) favere videtur potius Durando, et sic intelligitur a Suarez aliisque. — Post solutionem ad 1. incidit alia quaestio, quid fiat de aqua vino consecrato admixta; circa quod supponendum est quod dicitur supra d. 11. p. II. q. 4. ad 3. et dub. 3; III. Sent. d. 6. a. 2. q. 1.
 
-                                                                              cinerem , agente exteriori ca-                                                purificalionem                         quodsi             ita esset,             quod species istae
-            ritur et convertitur in                                                                                                                                                           ;
+**IV.** In solvenda 3. quaestione auctores in genere conveniunt; sed circa quaedam specialia differunt in modo vel solvendi, vel explicandi, et quidem secundum diversa principia superius (n. I.) commemorata. — Notatu digna est triplex distinctio actuum ibi in corp. De eadem quaestione plerique commentatores Lombardi in locis ad 1. quaestionem citt. passim agunt (Scot., hic q. 3. 6.); sed specialem quaestionem de ipsa instituunt: Alex. Hal., loc. cit. § 1. 4, et Richard. a Med., hic a. 3. q. 2.
 
-
-
-
-                                             pari         ratione                  in           sanguinem potest con-                                       alerent, nulia videretur esse haec institutio.
-            lore         :    ergo
-                                                                                                                                                                      4.       Item,           lioc       probatur auctoritate Ambrosii%
-            verti, agente calore inleriori.
-                                                                     genera-                                                                                qui dixit de hoc Sacramento , quod                                                        « non est cibus
-                             3. Item, sicut putrefactio ordinatur ad
-                                                                                                                                                                                sed           mentis»; sed                           converteretur in                    ah-
-            tionem vermis,                 ad generationem humo-
-                                                         sic digestio
-                                                                                                                                                            ventris,                                                           si
-
-
-                                               convertuntur in ver-                                                                                         menlum,                 vere esset ciijus ventris                                 :   ergo     etc.
-            ris et carnis  sed  species  illae    ;
-
-
-
-            mes, si putrefiant,  sicut  experimento   patens esset,
-
-                si    quis probare vellet                                    —         et       credo, quod per negU-                                                                                     c       N c L u s I 0.
-                gentiam aliquando contingit — ergo pari ratione                                                                                in
-
-                                                                                                                                                                Species illae possunt converti in alimentum.
-                carnem.
-                             4.    Item, hoc probatur                                           deducendo                ad inconve-
-                                                                                                                                                                      Respondeo: Dicendum, quod circa hoc duplex
-inconTe- niens             duplex: primum, quod illud Sacramentum
- "'"'*'                                                                                                                                                               opinio.
-                est     in praeiudicium naiurae, quia,
-                                                       quoties fit trans-                                                                                   fuit
-
-                                                       perit         cibus                  naturalis            irrevocabiliter,                                                quod accidentia illa non refi-op'"'»»-
-                                                                                                                                                                      Aiiqui dixerunt,
-                substantiatio,
-                                                                                                                                    quod na-                ciunt nec convertuntur in alimentum, quia nec ac-
-                ex quo nuUo modo convertitur in aliquid                                                                       ,
-
-
-
-                                                                                            inconveniens est , quod il-                                     cidentia                possunt^ nec huic competil Sacramento
- inconye-       tum sil cibarc. Secundum
-                     Sacramentum, si est ita, est in                                                                   praeiudicium                         tamen species habent odorem et saporem et odor                                                   ;
- °"°'^'lud
-                                                         operationem                                                                                        quamvis sit accidens tamen immutando aera et ce-
-                fidei: si enim accidentia non habent
-                                                                                                                                                                                                              ,
-
-
-
-
-                substantiae,  deprehendi  potest illud Sacramentum                                                                                          rebrum inebriat sicut patet quod multi inebriantur
-                                                                                                                                                                                                    ,                          ,
-
-
-
-                                                           evacuari \                                                                                        ex odore vini. Et                            sic         dicunt intelligendum esse ver-
-                sensibili experimento et ita meritum fidei           ,
-
-
-
-
-                Sed utrumque horutn esl maximum inconveniens
-                                                             et                                                                                              bum Apostoli et Glossae.
-                                                                                                                       meritum fldei                                   Sed quoniam manifeste apparet                                                  in   combustione Non^proba-
-                contra illud Sacramentum                                                ,       cum       sil in
-
-                                                                                                                                                             specierura, quod resolvunlur in cineres; et                                                           si    non
-                institutum.
-                                                                         « Ex               eisdem nutrimur, ex qui-                                         alerent, non appareret,                                    quomodo hoc Sacramentum
-                             Sed contra:                       1.
-
-Miopposi-bus                 sumus»,                    sicut dicit Philosophus'; sed non                                                   su-              latere possit ,                      immo necesse esset deprehendi                                     :
-                                                                                                                                                                                                                                                                        ideo opi"!.'}^:^^'
-  """'
-                                                                              sed ex substantiis                                  ergo    cum                communior                   est opinio, quod percipiens Sacramentum
-                mus ex accidentibus                                  ,                                                    :
-
-
-
-                                                                                                      palet,           quod non nu-                          alitur            et    nutrilur ; et illud satis probari potest                                             ad
-                 species             illae             sint     accidentia,
-                                                                                                                                                             sensum. Manifestum enim                                         est percipienti,                    quod per
-                 triunt.            Si dicas ,                 quod miraculose convertuntur                                                    in
-
-            •
-
-                 substantiam                      ;    contra: si convertuntur in substantiam                                                       ;
-                                                                                                                                                             sumtionem vini sive illius speciei sitis exstinguitur.
-                                                                                                                                                                                                                    pSoioUo^p-
-                                                                       ergo in multas substan-                                                                    1. Ad illud autem quod obiicitur in contrarium,
-                 cum              sint   multa accidentia                                   ,
-
-
-
-                                                                                                                                                             quod alimentum    est  substantia diversimode  respon-
-                                                                             ergo quot accidentia sunt ibi
-                                                                                                                                                                                                                                         ;
-                             debent converti
-                 tias
-
-                 tot
-                                                                     :
-
-
-
-
-                             substantiae debent generari. Si tu dicas,                                                                   quod                detur a diversis.                            —
-                                                                                                                                                                                   Aliqui enim dicunt, quod virlute soIqiio i.
-
-                                                                                                                                                             supra naturam                              accidentia             convertuntur                 in    substan-
-                 quantilas convertitur                                       in        substantiam                 ,
-                                                                                                                       quae          est alio-
-                                                                                                                                                             tiam.                   enim, qui virtute increata potens est su-
-                 rum fundamentum; ergo si convertitur in substan-                                                                                                          Ille
-
-                                                                 quan-                                                                                       pra naturam accidentia                                     illa       suslentare sine materia,
-                 tiam, desinit esse quantitas: ergo desinit esse
-                                                                                                                                                *
-                                                                                                                                                                 virtutem" dat, ut, desinentibus proprietatil3us
-                 tum.            Sed omne alimentum auget per naturam quanti                                                                            :    ille
-
-                                                                                                                                  iliud etiam                non in nihil, sed in substantiam convertantur, in
-                 ergo iUud alimentum non poterit augere                                                                   ;
-
-
-                                                                                                                                    quod est                 quam converteretur ipsa panis                                                   substantia,          si    ades-
-                 alimentum generatum carebit quanlitate                                                                       ;
-
-
-                                                                                                                                                              set.     Et hoc dicunt ipsum Sacramentum exigere, ne
-                     impossibile.
-
-
-
-
-                             1
-                                  Cfr. Aristot.,              II.    de Anima,                    text.    50.     (c.    i.).      —    Inferius                     «    Cod.      H interdicitur.
-                                                                                                                                                                      '    Libr.         V. de Sacram.                  c.   4.     n.       24. haec      sententia,     licet
-                     post in sanguinem cod. aa addit                                             el   carnem hominis.
-                                                                                                Hug. a      S. Vict.,         II.   de Sacram.                aliis verbis, invenitur et aMagistro, hic in lit. c. 4, allegatur.
-                             2    Vide supra a.                 I.       q.    2, et
-
-                     p. VIII. c. 1 2.        — Superius pro irrevocabiliter cod. bb                                               ineviiabiliter.             Cfr. de Mysteriis, c. 9. n. 58: Non ergo
-                                                                                                                                                                                          —
-                                                                                                                                                                                                         corporalis esca, sed
-
-                             3                                                    et corrupt.              text.       50. (c. 8.).                           spiritualis est.  Finem arg. cod. R exhibet sic: inalimentum,
-                                  Libr.          11.   de Generat.
-                              *    Cfr. supra pag. 220, nota                                     1.                                                           non esset cibus mentis; ergo etc.
-                              s    Ut dictum est supra                            a.    1.      q. 2. in    corp.       — Pro transeat,                                8   Supple         :    reficere.
-                                                                                                                                                                       9   Cod.          substituit illa virtute pro communi lectione itle vir-
-                     quod habent codd. M X in aliis                                              et edd. incongrue transeunt.
-                                                                                                                                                                                     I
-                                                                         ,
-
-
-
-                                cod. N addit scilicet reficiendi corporaliler.
-                     In fine arg.
-                                                                                                                                                              tutcm, pro qua sulTragntur Alex. Hal.
-                                                                                                                                         ,
-
-
-
-
-               276                                                                                                      SENTENTIARUM LIB. IV.
-
-               deprehendalur                   ,    et fides           amittal^merilum; ne eliam                                             tur in            substantiam comedentis, non, inquam, acci-
-               Sacramentum facial aliquod naturae praeiudicium.                                                                              dens, sed                  substantia.                Et    sic     non            est     contra illud
-               —   Et si tu obiicias , quod incineratio non est a vir-                                                                       Philosophi, quod                           ex     eisdem            nutrimur, ex quibus
-               tute supra naturam      sed nalurali similiter nec ine-
-                                                            ,                                        ,                                       sumus.
-               briatio nec combuslio,                                  immo          sunt a virtutibus na-                                               2.    Ad       illud          quod        obiicitur,          quod            est cibus spi-
-
-               turabbus, maxime cum fiant ab exleriori virtute,                                                                              ritualis;           dicendum, quod                          illud        verum            est, quamdiu
-
-               fiant           nihilominus successive, terminentur etiam ad                                                                  salvatur ratio Sacramenti; non enim cibat carnaliter
-               rem minus perfeclam; ipsi                                       dicunt, quod                             ibi est       po-    in    quantum Sacramenlum % sed ad cibationem                                                                    spi-
-
-               tentia activa                   et    potentia passiua;                                        polenlia          agens        ritualem est ordinatum; et cum incipit cibare corpo-
-               est naluralis,                   sed potentia passiva in accidenlibus                                                         raliter, desinit esse                            Sacramentum.                      — Et
-                                                                                                                                                                                                                                  •              ita        patet,       Ratio co
-                                                                                                                                                                                                                                                                        grnitatis b
-
-               est     supra naturam quantum ad hoc,                                                               scihcet ut in             quod         ralio         illa      bona        est.       Cum enim                 sit           ibi,    quam- na""est,
-               subslantiam convertantur.                                    Nam              residuum, quod                            fit   diu est           Sacramentum, corpus                                Christi          verum; et hoc
-               ante conversionem                       ,        et    quod         fit       post conversionem                               non alit corporaliter, et accidentia similiter non alunt:
-               totum potest esse a                               polentia            naturali, tam                             agente        ideo         Sacramentum                        recte       dicilur           spiritualis                  cibus,
-
-               quam 'patiente. Et hi dicunt, quod primum acciden-                                                                            quamvis, recedente ratione et officio Sacramenti, cibus
-               tium        '    convertitur in substantiam                                   ,           non quia de quan-                   corporalis incipiat esse, sicut fuerat ante.
-               titale          fiat     substantia tantum, sed quia                                                 fit    subslan-                      3.    Ad illud quod obiicitur, quod solvit ieiunium;
-  lodicinm. ^fft       quanla.               — Et haec opinio                            satis est probabilis.                               dicendum, quod non solvit: tum quia Sacramentum,
-                           Aliorum opinio                       esl,    quod suscipiens species ali-                                         dum sumilur, non est cibus corporalis, tum etiam
-  soiQtio 2.   tur ^           non quia' accidentia in substantiam                                                             conver-       ratione corporis Christi interius                                         contenti , qui " tan-
-
-               tantur ,               sed quia substantia revertitur , quae prius                                                            lum          est         cibus mentis.                  Et ideo               non        est         simile           de
-               ibi    fuerat;               ut sicnt in ahis                       miraculis et                           apparilio-         vino, qnod recipitur ad purificalionem. Et ideo pa-
-
-               nibus dicitur,                      quod          in    praeiacentem                                materiam           re-    tet illud.
-
-               solvuntur et redeunt,                                  sicut        dicitur                    de coUimba el                              4.    Palet etiam sequens.                             Ambrosius enim                              loqui-
-
-               de     stella'^ et             consimilibus:                    sic           etiam dicunt, quod                              tur de            corpore              Christi;             et     hoc        est        tanlum                cibus
-
-               sicut panis converlitur in corpus, ut                                                              sil   Sacramen-            menlis, non ventris.
-               tum; sic, peracto officio Saci'amenti, ex quo desinit                                                                                     Uterque praedictorum                                  modorum                 dicendi               salis        Iterum iili
-                                                                                                                                                                                                     „    .,                .
-                                                                                                                                                                                                                                            ,
-                                                                                                                                                                                                                                                                   .    dicatnr   d;
-
-               esse Sacramentum, desinit ibi esse corpus Christi;                                                                            probabilis                videtur               nec    facile        est       improbare, quia 2                              sointioni]
-
-
-               et ideo, sicut mirabiliter prius substantia panis con-                                                                        Sancti non        multum de hoc loquuntur. Nec rationi
-               verlitur,               ita    eliam miraculose reverlilur.                                                                   hic         mullum innitendum esl, quia utraque opinio
-                           Et ista fuit positio Innocentii in libro suo,                                                            quem     fundatur hic supra miraculum et potentiam operan-
-innocentius.   fecit           dc Ecclesiaslicis                  Officiis,          ubi dicit in libro ter-                                 tem supra naturam. Quis autem                                                 scit,        utrum Deus
-               tio, capitulo de fraclione': « Si ergo quaeritur                                                                 ,
-                                                                                                                                    qnid     sic     vel sic faciat,                    cum uterque modus dicendi satis
-               a  mure comeditur, cum Sacramentum corroditur,                                                                                sit    rationabilis ?                     Nec videtur omnino iraprobabile,
-               vel quid incineratnr, cum Sacramentum cremalur;                                                                               quod aliquoil accidens                                 in        subslantiam                   convertatur
-               respondendum ,                        quod              sicut        mii'aculose                         substantia           in    hoc Sacrainento                       ,    cum accidens hic subsistal sine
-               panis             convertitur               in        corpus dominicum                                     et    incipit      subiecto; nec videtur improbabile,  quod sicut sub-
-               esse sub Sacramento; sic ipsa                                             quodam modo mira-                                                                            Cum enim
-                                                                                                                                             stantia panis convertitur, ila revertatur.
-
-               culose reverlitur,                      cum ipsum ibi desinit esse».                                                   —      in substanliae panis conversioue corpus Christi non Notandon)
-   indicinm    Hanc autem moduni dicendi credo probabilem et                                                                                 generetur nec                       fiat,       sed tantuni sub                      illis              speciebus
-cam monito.                                                                    .         .       .
-                                                                                                          ,   ,
-
-               securum, maxime cum tanti viri habeat auclonla-                                                                               esse incipiat,                      sicut tenel fides                    recta';               quis audeat
-
- ,             tera. Gaveat tamen quisque, qualiter intelligit, quia                                                                         hoc tanquam                         irrationabile                 repudiare,               ut,            corpore
-               in hoc secretum fidei latet.   Sed secundum hanc                —                                                             Christi           non corrupto,                       sed desinente                      esse           sub spe-
-               posilionem patet responsio ad quaestionem.                                                                                    ciebus, substantia                          illa,      quae sustentabat accidentia,
-                   Concedendum enim est, quod recipiens hoc Sa-                                                                              revertatur,                    cum accidentia                     illa    non            sint           ob aliud
- Appiicatio.   cramenlum alitur et nutritur, non quia accidens                                                                               sine subieclo nisi                         ob dignitatem et praesentiam con-
-               in     subslantiam converlatur, sed^ aliquid converti-                                                                        tenti ?          — Quodsi quaeras, utrum                                           sit     creatio,                  '^'el ^j^naesMt
-
-
-
-
-                       1       Scilicet      quantitas. Uicilur                autcm primum accideniioin,                                            *    Edd. sed qnia.
-               quia sequitur materiam, quae                              est    primum subieclum in sub-                                             5   Seculi        sumus in hac propos. Alex. Hal. S. p. IV. q. 10.           ,
-
-
-
-               stantia         composila,          Aum qualitas se tcnel e,\ parte ron"nae,quae                                              m.    7.     a.    2.     § 2. ad 2;  codd. enim fcre omnes legunl non
-               est in materia, ul in suo subiccto.                          — Non pauci codd. principium                                     enini cibat spiriluatiter,                       nisi [pauci codd. omittunt                              perperam
-               accidentium. Superius pro post conversioncm edd. cum aliquot                                                                  nisi]       in    quantum Sacramcntum, quae leciio,                                            ctsi      sit    in    se
-
-               codd. per comersionem.                                                                                                        vera    ,    non         tamen       est    congrua propter sequentem particulam
-                       ^       Ita   lenet Glossa ordinaria                 apud Sirabum in Malih.                                   2, 2.   sed, pro qua codd. E F minus bene et, edd. autem quia. Sub-
-               et    3,        16;    idem refert Pelr. Comeslor,                            Ilistor.             evangel.      c. 7. et     inde posl incipit cibare ex cod. H (F a secunda nianu) substi-
-               c.    34. Cfr.          I.   Sent. d.       16.    q.   3.   ad     3.        ct 5.                                           tuimus corporatiier. Vide                         infia d.         13.   a.    2.    q.    2.
-
-                       '       Libr. IV.       de Sacro Aitaris mysterio,                                     c.    II.    ubi lextus                5   Cod. F quia.
-               originalis y>osi convei-tiiur ]es\l : cum, corpus dominicum incipit                                                                   '   Vide supra              lit.   Alagistri,       d.    XI.    c.   1.    seq.   ,       el   Comment.
-               esse sub              Sacramento ,          sic    quodam modo elc.                                                           d.    10.    p.    II.    a.   1.    q.    2.   ad    1.
-                                                                                                                                                                           ,                                                                                                                                                                   .   ,
-
-
-
-
-                                                                                                                DIST.                     XII. P.               I.    ART.          II.        QUAEST. I.                                                                                                                            277
-
-                                                                                                                                                       quod                    non         asseratur                              pertinaciler,                        nullum               est                ibi       pericu-
-generatio vel alia mulalio; sane polest                                                                                                  dici,
-
-sicut                conversio                     est              mulatio singnlaris                                          '    ,        sic     et re-                   lum; solum hoc cavealur, ut nostrae capacitalis in-
-                                                                                                                                                                                                                                     ".
-                          Quidquid autem horum dicatur, dum tamen                                                                                                              telligenlia totaliler in Christi obsequium captivelur
-versio.
-
-
-
-                                                                                                                                                     SCHOLION.
-               I.    Experientia conslat, in Sacramento accidentia, licet a sub-                                                                                               tilati      dimensivae                        omne illud, quod ad materiam pertinet». Sed
-                                                                                                                                                                               eliam haec verba, saltem                                                si       ad    liiteiam            intelliguntur respectu
-stantia panis et vini                                      sint             scparata          ,     eosdem producere eiTectus
-                                                                                                                                                                               formarum substantialium, involvunt graves                                                                         diflicultates et va-
-sensibiles,                     lum          in        agendo lum                             in        patiendo       quos coniuncta
-                                                                                                                            ,
-
-
-                                                                                                                                                                               rias provocaverunt                                  interprelationes. In Commenl. vero (hic q.                                                              1
-cum subslanlia antea habebunt (cfr. infra                                                                       q. 3.). Axioma autem
-                                                                                                                                                                                          quaestiunc.                              ad 4.) idcm                       dicit:     «   Oporlet ponere, aliquid
-esl Scholasticorum, non tamen                                                          eodem niodo ab omnibus expli-                                                           a. 2.                                         4.
-
-                                                                                                                                                                                    hac generatione esse miraculosum                                                            et nliquid naturale                            reditus
-catum, quod accidentia agant in virtute substantiae ; «sicut                                                                                                                   in                                                                                          ,                                              ;
-
-
-
-
-                                                                                                                                                                               enim subslantiae, vel                                      creatio materiae,vel conversio dimensio-
-enim accidens non est per se, ita non habet virlutem operandi
-per se, sed per virlutem subslantiae »                                                                     (ita       I.    Sent. d. 3. p. II.                                 num in materiam est miraculosum; sed quod materia iam exi-
-                          3.    ad      5.).       Hinc explicatu                                 difficile          est,        quomodo                        acci-          stens recipiat talem                                    formam, cuius disposiiiones praecesserunt
-a.        \.        q.
-                                                                                       privala, possint eiTectus habere                                                        in    dimensionibus, hoc est naturale».— Do doctrina in                                                                                             3.    fun-
-dentia, sua naturali substanlia
-                                                                                                                                                                               damenlo                tradita,                   quac supponit generationem aequivocam,
-                                                                                                                                                                                                                                            et
-quoscumque; praesertim vero, et quomodo convertanlur in sub-
-stantiam alimenti, et quomodo, corruplis speciebus, cedant in
-                                                                                                                                                                               quidcm valde extensam, alii Scholastici specialiler agunt.
-aliam substanliam                                  qualemcumque. Cum de facto constet inter                                                                                        II. De eadem quaestione praeter locos citt.: Alex. Hal., S.
-omnes, de 7nodo variae                                   sententiae sunt cxortae. Nec mirum,                                                                                   p.        IV.       q.        10.       m.         7.     a.       I.        §   2.    —        B. Albert.,                de hac              et seqq.
-
-
-quia res                       est     de         miraculo                     singularissimo                        et         ab            obsorvatione                     qq. hic              a.        16.       in         solut.          oppos.             et   d.       13.    a.        9.        10.   —         Petr.           a
-
-
-sensuum ponitus remolo;                                                      insupcr               Scholastici                  in            solvenda ge-                     Tar., hic q. 3.                           a. 2.           — Richard.                    a Mcd., Iiic a. 4. q. 2.                       — Henr.
-nerali                quaestione philosophica de                                                  modo, quo formae subslan-                                                    Gand.,              Quodl.                S.        q.         36.           — Durand.,                    hic            q.    2.    — Dionys.
-tiales              generantur et                          corrumpuntur, diversis                                          viis           incedunt.                  —         Cartl).,            de hac               et        seqq. qq. hic q.                         2.
-
-
-S.         Bonaventura                        etiam                 hoc            loco           non      recedil ab                          his     duobus                             III.     Quoad 2. quaestionem cst sententia nunc communis, quod
-principiis,                     quae         alibi          contia alios professus                                    esl.                                                     per species conseci-alas non convertatur ipse liquor supcrfusus,
-
-                         Sicut nulhmi agens creatum producere potest materiam,                                                                                                 ctiam si sit eiusdem speciei; hinc posteriores solvunt concor-
-
-sic
-                1.
-
-   nec allerum rerum corporcarum piincipium intrinsecum, scil.                                                                                                                 diter ciuacstionem pnncipalem.      Quoad adiunctam quaestio-                          —
-                                                                                                                                                                                ncni,utrum admixtione alicuius liquoris non consecrati cesset
-formam suhsiantialem nisi ca iam aliquaicnns, id est secun-     ,
-
-
-
-
-dum essentiam (non existentiam), praeexistit in suis rationibus                                                                                                                Sacramenlum tenetur communiter hoc principium, quod manet
-                                                                                                                                                                                                                   ;
-
-
-
-
-seminalibus                          (ila    II.       Senl. d. 7. p.                             II.    a. 2. q.           1.2;               d.    18.        a. 1.          sanguis Christi sub speeiebus, donec ipsae remanent integrae;
-
-                                                       d. 42.                      unic. q. 4;                       Sent. d.                  I. p.       1.   a.   .3.       et quod recedit, si elementa in sua specie corrumpuntur, quod
-q. 2.               3; cfr. 1. Sent.                                         a.                               II.
-
-
-
-q.         1,        d.    30. a. 3.               q.           I   ;
-                                                                            III.    Sent.           d.    14.        a.     3.           q.     3.    —         Aliis           certe flt admixtione allerius liquoris in maiore quantilate. Sed
-
-modis rem                         tentant explicare plurimi Scholasiici, inter                                                                      quos sunt                   de casu, quando non species, sed quantitas tuntum mutatur,
-                                                                                                                                                                                sive quando vinum non consecratum apponitur consecrato
-S.        Thom. et Scotus.
-                          Accidens nec virtule propria nec ut instrumentum sub-                                                                                                 Durandus (hic                            q.       3.)        cum mullis aliis recenlioribus docet, non
-                2.
-                                                                                            ad productionem                                    subslantiae;                     desinere praesenliam Christi                                                     appositione etiam maioris quanti-
- stanliae videtur propnt' attingere
-                tamen                dispositive                    illam           producit,              quod approbat Scotus.                                                tatis vini               non consecrati                            quod probabile esse censet Richard.
- sed                                                                                                                                                                                                                                               ;
-
-
-
-                                                                                                                                                                                     Med. (hic                 a. 4.                         .), et favet Scot. (hic q. 4.).
-                                                                                                                                                                                                                                                                             Sed S. Thom.
- Unde (infra q. 3. quaesil. 2.) docetur, quod si « datur accidenlibus                                                                                                           a                                                 q.     I
-
-
-
-
- potentia convertendi in                                                subslanliam,                     cum dcsinunt esse... talis                                             (S. loc. cit. a. 8.)                             cum Petro a Tar. (hic q. 2. a. 2. quaestiunc. 2.)
-                                                                                                                                                                                hoc non                          nisi vinum adiunctum esset « tam parvae
-                                                                                                                                                                                                         concedit,
- potentia                  omnino est supra naturann'; ct II.                                                                   Scnt. d.               13. a. 2.
-
-                      fundam. 4:                       «    Nullum                  accidens               est        causa subslantiae»;                                       quantilalis,             quod non posset perfundi per tolum y>, hac scilicet
- q. 2.
-                                                                                   29. a.                                 ad                  Cfr.              Sent.           ratione,              quia tunc species non remaneant eaedem numero, sed
- quod eliam supponitur d.                                                                           1.   q.     2.                  3.                II.
-
-
-               7.'                      a.        2.       q.       1,       ubi         condudit,                   quod                <t   agens             crea-           tantura specie. Eandem doctrinam praefert Alex. Hal. (ioc. cit.
- d.                       p.     11.
-
-                                                                              ncc substantialem nec accidentalcm                                                                ad. 3. 4.) docens, etiamparvam quantitatem liquoris non con-
- tum nullam quiddilatem                                                 ,
-
-
-
- omnino producit, sed cntem sub una dispositione facit esse                                                                                                                     secrati additam   dummodo sii divisa secundum partes speciei
-                                                                                                                                                                                                                             ,
-
-
-
-
- sub alia».                       —
-              Ast S. Thom. (S. 111. q. 77. a. 3. ad 3.) docet,                                                                                                                  conlinentis,                       facere,                   ut        cessct         Sacramcntum                    ;    hoc autem esse,
-                                                                                                                                                                                                                                                                                                                         secundum
-                                                                                                                                                    agere pos-                   quando                 in    illa           una         quantilate non                         « est     distingucre
- quod accidentia sive                                           qualitates activae                             et passivae
-
- sint ad formam substi-.nlialem inslrumentaliter ,
-                                                                                                                                               scilicet           non            aliquam naiuram, vcl proprietalem partem a parte »; comple-
-
- quidem                        virtulc            propria               ,     scd        virlute              formae subslantialis ut                                            lam enim esse mixlioneni, « quando non est assignare aliquam
-                                                                                                                                                                                 parlem sccundum existenliam                                                         veritatis in           mixto secundum ma-
- principalis agentis;                                      quam doctrinam S. Bonav. non commemo-
- rat, sed Scot. (hic q. 3. n. 4. seqq.) diffuse
-                                                impugnat.                                                                                                                        teriam neque secundum speciem, quae sit differens ab                                                                                                   alia ».
-
-
-                           Conclusio                        quaestionis negata                                 est a pluribus anliquis                                           —        S.       Bonav. (ad                      5.)        favere videtur potius Durando, ct sic in-
-
- (Algero,
-                    II.                            1.
-
-                               Guitmundo et Gulielmo Paris.), qui primam opinionem                                                                                               telligitur              a Suarcz                        aliisque.               — Post solutionem ad                                         I.        incidit
-
-
- hic relatam posuerunt.                                                 — Tota                et         magna             difficultas                 consistit                 alia       quaestio, quid                             fiat       de aqiia vino consecrato admixta; circa
-
-  in           solvendo                I.    arg. ad oppos.;                                de quo plures ab antiquo opi-                                                           quod supponendum est quod dicitur                                                               .supra d.                  II.   p.        11.       q.        4.
-
-                                                                                                                                                                                                         dub. 3;                              Sent. d. 6. a. 2. q.                              1.
-  niones circumferuntur. Opinio Innocentii                                                                      IIU (2.),                 quam sequitur                             ad     3.      et                              III.
-
-
-                                                                                                                                                                                               IV. In solvenda                                3.        quaestione auctores                               in       genere conve-
-     Alex.            Ilal.,         a Scoto (hic q.                               7.)      reiicitur, sicut et plures                                          aliae.
-
-                                                                                                                                                                                    niunt; sed circa                              quaedam                       specialia differunt in                             modo vcl sol-
-     ipse (ibid. n.                         II. seqq.) vult, quod immediate a Deo redit sub-
-                                                                                                          talis, ad quam acci-                                                      vendi, vel explicandi,                                         et       quidem secundum diversa principia
-                          composita, non quidem panis, sed
-     stantia
-
-     denlia corrupta disponunt.                                                    —     S.       Thomae (S. loc. cit. a. S. 6.)                                                    superius             (n.           I.)       commemorata.                         — Notaiu digna                               est iriplex di-
-
-                                                                                          opiniones;                       unde               (a.    o.)        docet;              stinciio     actuum ibi in corp.
-     non placent duae hic relatao
-     <(   Melius videtur dicendum                                                    quod               in ipsa            consecralione mira-                                                 De eadem quaostione plerique commentatores I.ombardi
-                                                                               ,
-
-
-                                                                                                                                               quod sit pri-                        in    loeis         ad         1.citt. passim agunt (Scot., hic q. 3.
-                                                                                                                                                                                                                             quaeslionem
-     culose datur quantitati dimensivae panis et vini                                                                                    ,
-
-
-
-                                                                                                                           hoc autem                    est pro-                               sed specialem quaestionem   de ipsa instituunt: Alex. Hal.,
-     mum subiectum subsequentium formarum                                                                             ;                                                             6.);
-                                                                                                                                                                                                                                  et     Richard. a Med., hic                              a.    3.           q.    2.
-     prium materiae                           :    et ideo                   ex consequenti datur praedictae quan-                                                                  loc.       cil.      §     1.       4,
-
-
-
-
-                                                                                                                                2.
-                                                                                                                                                                                               2   Uespicitur                      II.       Cor.           10, S. Cfr. supra pag. 230, nota 4.
-                          Ut ostensum est supra                                        d.         II.    p.     I.    q.
-                           :                                                                                                        ,:
-                                                                                                                                    ;
-                                                                                                                                    :
-
-
-
-
-            278                                                                                                     SENTENTIARUM LIB. IV.
+---
 
 ## English
 
-[Translation pending]
+### Article II. *On the action and transmutation of the accidents.*
+### Question I. *Whether those species can be converted into nourishment.*
+
+As to the second article, namely concerning the action and change of those accidents, three matters are likewise asked. First, it is asked whether those accidents can be converted into nourishment. Second, whether they can convert other species or natures into the Sacrament. Third, whether they have any operations by nature, or whether they have any by miracle.
+
+First, then, it is asked whether those species or accidents can be converted into nourishment. And that they can, it seems:
+
+1. By the text and the Gloss, on First Corinthians the eleventh[^1], where it is said: *Each one takes beforehand his own supper to eat; and one indeed is hungry, but another is drunk*; and the Gloss expounds this of the rich, who offered bread for consecrating in great abundance and did not give to others: therefore, if bread and wine could not only refresh but even inebriate after consecration: therefore they also pass into nourishment.
+
+2. Likewise, just as the heat of fire is ordered to converting into ash that which is offered as fuel, so natural heat is ordered to converting into flesh and blood[^2]; but a species cast into the fire is burned and converted into ash by an exterior heat acting: therefore by parity of reasoning it can be converted into blood by an interior heat acting.
+
+<!-- page 275 -->
+
+3. Likewise, just as putrefaction is ordered to the generation of a worm, so digestion to the generation of humor and flesh; but those species are converted into worms, if they putrefy, as would be plainly evident by experiment, if anyone wished to test it — and I believe that through negligence it sometimes happens — therefore by parity of reasoning [they are converted] into flesh.
+
+4. Likewise, this is proven by leading to a twofold inconvenience: first, that that Sacrament is to the prejudice of nature, because, as often as transubstantiation occurs, the natural food perishes irrevocably, from which it is in no way converted into anything that is apt to feed. The second inconvenience is that that Sacrament, if it is so, is to the prejudice of faith: for if the accidents do not have the operation of substance, that Sacrament can be detected by sensible experiment, and so the merit of faith [can] be emptied out[^3]. But both of these are a very great inconvenience and against that Sacrament, since it was instituted for the merit of faith.
+
+**On the contrary:** 1. "From the same things we are nourished, from which we are," as the Philosopher says[^4]; but we are not from accidents, but from substances: therefore since those species are accidents, it is clear that they do not nourish. If you say that they are miraculously converted into substance; on the contrary: if they are converted into substance; since they are many accidents, therefore they ought to be converted into many substances: therefore as many accidents as are there, so many substances ought to be generated. If you say that quantity is converted into substance, which is the foundation of the others; therefore if it is converted into substance, it ceases to be quantity: therefore it ceases to be quantified. But every nourishment increases by nature what is quantified[^5]: therefore that nourishment will not be able to increase; that generated nourishment will also lack quantity; which is impossible.
+
+> **Conclusion.** Those species can be converted into nourishment.
+
+**I respond:** It must be said that concerning this there were two opinions.
+
+Some have said that those accidents do not refresh nor are converted into nourishment, because neither can accidents [do so][^6] nor does it befit this Sacrament; yet the species have odor and savor, and odor, although it is an accident, nevertheless by altering the air and the brain inebriates, as is plain that many are inebriated from the odor of wine. And thus they say the word of the Apostle and of the Gloss is to be understood.
+
+But since it manifestly appears in the burning of the species that they are resolved into ashes; and if they did not feed, it would not appear how this Sacrament could lie hidden, rather it would be necessary [for it] to be detected: therefore the more common opinion is that the one receiving the Sacrament is fed and nourished; and that can be sufficiently proven to sense. For it is manifest to the one receiving that by the taking of wine or of that species thirst is extinguished.
+
+1. But to that which is objected to the contrary, that nourishment is substance, it is answered in diverse ways by diverse [authors]. — For some say that by a power above nature the accidents are converted into substance. For he who by an uncreated power is able above nature to sustain those accidents without matter, he gives the power[^7] that, the properties ceasing, they be converted not into nothing, but into the substance into which the very substance of bread would be converted, if it were present. And they say that the Sacrament itself requires this, lest
+
+<!-- page 276 -->
+
+it be detected, and faith lose its merit; lest also the Sacrament do any prejudice to nature. — And if you object that incineration is not from a power above nature, but from a natural [power], and likewise neither inebriation nor combustion, rather they are from natural powers, especially since they come about from an exterior power, and come about nonetheless successively, and terminate also at a less perfect thing; they say that there is there an active potency and a passive potency; the agent potency is natural, but the passive potency in the accidents is above nature as to this, namely that they be converted into substance. For the residue, which comes about before the conversion, and which comes about after the conversion, can wholly be from a natural potency, both agent and patient. And these say that the first of the accidents[^8] is converted into substance, not because from quantity there comes to be substance only, but because there comes to be a quantified substance. — And this opinion is sufficiently probable.
+
+The opinion of others is that the one receiving the species is fed, not because the accidents are converted into substance, but because the substance returns, which was there before; so that, as is said in other miracles and apparitions, that they are resolved into the underlying matter and return, as is said of the dove and of the star[^9] and the like: so also they say that, just as bread is converted into the body, so that it be the Sacrament; so, the office of the Sacrament being completed, from which it ceases to be the Sacrament, the body of Christ ceases to be there; and therefore, just as the substance of bread is wondrously converted beforehand, so also it miraculously returns.
+
+And this was the position of Innocent in the book which he made *On Ecclesiastical Offices*, where he says in the third book, in the chapter on the breaking[^10]: "If therefore it is asked what is eaten by a mouse, when the Sacrament is gnawed, or what is incinerated, when the Sacrament is burned; it must be answered that, just as the substance of bread is miraculously converted into the Lord's body and begins to be under the Sacrament; so it itself in a certain way miraculously returns, when it ceases to be there." — But this manner of speaking I believe probable and secure, especially since it has the authority of so great a man. Let each one nevertheless beware how he understands it, because in this a secret of faith lies hidden. — But according to this position the response to the question is clear.
+
+For it must be conceded that the one receiving this Sacrament is fed and nourished, not because an accident is converted into substance, but[^11] [because] something is converted into the substance of the one eating, not, I say, an accident, but a substance. And thus it is not against that [saying] of the Philosopher, that we are nourished from the same things from which we are.
+
+2. To that which is objected, that it is spiritual food; it must be said that this is true, as long as the account of the Sacrament is preserved; for it does not feed carnally insofar as [it is] the Sacrament[^12], but is ordered to spiritual feeding; and when it begins to feed corporally, it ceases to be the Sacrament. — And so it is clear that that ground is good. For since there is there, as long as it is the Sacrament, the true body of Christ; and this does not feed corporally, and the accidents likewise do not feed: therefore the Sacrament is rightly called spiritual food, although, the account and office of the Sacrament receding, it begins to be corporal food, as it had been before.
+
+3. To that which is objected, that it breaks the fast; it must be said that it does not break [it]: both because the Sacrament, while it is taken, is not corporal food, and also by reason of the body of Christ inwardly contained, which[^13] is only the food of the mind. And therefore it is not the same with wine, which is received for purification. And therefore that is clear.
+
+4. The following is also clear. For Ambrose speaks of the body of Christ; and this is only the food of the mind, not of the belly.
+
+Each of the aforesaid manners of speaking seems sufficiently probable, nor is it easy to disprove, because[^14] the Saints do not speak much about this. Nor is one to rely much on reason here, because each opinion is founded here upon a miracle and a power operating above nature. But who knows whether God does [it] thus or thus, since each manner of speaking is sufficiently reasonable? Nor does it seem altogether improbable that some accident be converted into substance in this Sacrament, since an accident here subsists without a subject; nor does it seem improbable that, just as the substance of bread is converted, so it returns. For since in the conversion of the substance of bread the body of Christ is not generated nor made, but only begins to be under those species, as right faith holds[^15]; who would dare to repudiate this as irrational, that, the body of Christ not being corrupted, but ceasing to be under the species, that substance which sustained the accidents return, since those accidents are not without a subject for any other [reason] than for the dignity and presence of the thing contained? — But if you ask whether it is creation, or
+
+<!-- page 277 -->
+
+generation or another change; it can well be said that, just as conversion is a singular change[^16], so also [is] the reversion. But whatever of these be said, provided it not be asserted obstinately, there is no danger in it; let only this be guarded against, that the understanding of our capacity be wholly taken captive into the obedience of Christ[^17].
+
+### Scholion
+**I.** Experience establishes that in the Sacrament the accidents, although they be separated from the substance of bread and wine, produce the same sensible effects, both in acting and in undergoing, which joined with the substance they had before (cf. below q. 3). Now it is an axiom of the Scholastics, not however explained in the same way by all, that accidents act in virtue of substance; "for just as an accident is not through itself, so it does not have the power of operating through itself, but through the power of substance" (so I Sent. d. 3. p. II. a. 1. q. 3. ad 5). Hence it is difficult to explain how accidents, deprived of their natural substance, can have any effects whatever; and especially how they are converted into the substance of nourishment, and how, the species being corrupted, they pass into another substance of whatever kind. Since it is in fact agreed among all [that they do so], various opinions have arisen concerning the *manner*. Nor is it a wonder, since the matter concerns a most singular miracle, utterly removed from the observation of the senses; moreover the Scholastics, in solving the general philosophical question concerning the manner in which substantial forms are generated and corrupted, proceed by diverse ways. — St. Bonaventure even in this place does not depart from those two principles which elsewhere he professed against others.
+
+1. Just as no created agent can produce matter, so neither [can it produce] the other intrinsic principle of corporeal things, namely the substantial form, unless it already in some way, that is according to essence (not existence), pre-exists in its seminal grounds (so II Sent. d. 7. p. II. a. 2. q. 1. 2; d. 18. a. 1. q. 2. 3; cf. I Sent. d. 42. a. unic. q. 4; II Sent. d. 1. p. I. a. 3. q. 1, d. 30. a. 3. q. 1; III Sent. d. 14. a. 3. q. 3. — By other ways very many Scholastics try to explain the matter, among whom are St. Thomas and Scotus.
+
+2. An accident, neither by its own power nor as an instrument of substance, seems properly to attain to the production of substance; but nevertheless it produces it dispositively, which Scotus approves. Whence (below q. 3. subq. 2) it is taught that if "a power of converting into substance, when they cease to be, is given to accidents... such a power is altogether above nature"; and II Sent. d. 13. a. 2. q. 2. fundam. 4: "No accident is the cause of substance"; which is also supposed d. 29. a. 1. q. 2. ad 3. Cf. II Sent. d. 7. p. II. a. 2. q. 1, where he concludes that "a created agent altogether produces no quiddity, neither substantial nor accidental, but makes a being under one disposition to be under another." — But St. Thomas (*Summa* III. q. 77. a. 3. ad 3) teaches that accidents, or active and passive qualities, can act toward the substantial form instrumentally, namely not indeed by their own power, but by the power of the substantial form as the principal agent; which doctrine St. Bonaventure does not mention, but Scotus (here q. 3. n. 4 ff.) impugns at length.
+
+**II.** The conclusion of the 1st question was denied by several ancients (Alger, Guitmund, and William of Paris), who held the first opinion here related. — The whole and great difficulty consists in solving the 1st argument to the contrary; concerning which several opinions are circulated from of old. The opinion of Innocent III (2), which Alexander of Hales follows, is rejected by Scotus (here q. 7), as are also several others. He himself (ibid. n. 11 ff.) holds that immediately from God there returns a composite substance, not indeed of bread, but such a one as the corrupted accidents dispose toward. — The two opinions here related do not please St. Thomas (*Summa* loc. cit. a. 5. 6); whence (a. 5) he teaches: "It seems better to say that in the very consecration there is miraculously given to the dimensive quantity of bread and wine [the property] that it be the first subject of the subsequent forms; but this is proper to matter: and therefore consequently there is given to the aforesaid dimensive quantity everything that pertains to matter." But even these words, at least if they are understood to the letter with respect to substantial forms, involve grave difficulties and have provoked various interpretations. But in the Commentary (here q. 1. subq. 4. ad 4) he says the same: "It is necessary to posit that something in this generation is miraculous, and something natural; for the return of substance, or the creation of matter, or the conversion of dimensions into matter is miraculous; but that already existing matter receive such a form, whose dispositions preceded in the dimensions, this is natural." — Concerning the doctrine handed down in the 3rd fundamentum, which supposes equivocal generation, and that indeed very extended, other Scholastics treat specially.
+
+**III.** As to the 2nd question, it is now the common opinion that by the consecrated species the liquid poured over is not itself converted, even if it be of the same species; hence the later [authors] solve the principal question concordantly. — As to the adjoined question, whether by the admixture of some unconsecrated liquid the Sacrament ceases, this principle is commonly held, that the blood of Christ remains under the species, as long as they remain intact; and that it recedes if the elements are corrupted in their species, which certainly happens by the admixture of another liquid in greater quantity. But concerning the case when not the species, but only the quantity is changed, or when unconsecrated wine is added to consecrated, Durandus (here q. 3) with many other more recent [authors] teaches that the presence of Christ does not cease by the addition even of a greater quantity of unconsecrated wine; which Richard of Mediavilla (here a. 4. q. 1) judges to be probable, and Scotus favors (here q. 4). But St. Thomas (*Summa* loc. cit. a. 8) with Peter of Tarentaise (here q. 2. a. 2. subq. 2) does not concede this, unless the added wine were "of so small a quantity that it could not be poured through the whole," for this reason, namely, because then the species would not remain the same in number, but only in species. Alexander of Hales prefers the same doctrine (loc. cit. ad. 3. 4), teaching that even a small quantity of unconsecrated liquid added, provided it be divided according to the parts of the containing species, brings it about that the Sacrament ceases; but that this is so according as in that one quantity there is not "to distinguish any nature, or property, part from part"; for the mixture is complete "when there is not to assign any part according to the existence of truth in the mixture according to matter nor according to species, which be differing from another." — St. Bonaventure (ad 5) seems rather to favor Durandus, and so he is understood by Suarez and others. — After the solution to the 1st [argument] there arises another question, what becomes of water mixed with consecrated wine; concerning which it must be supposed what is said above d. 11. p. II. q. 4. ad 3 and dub. 3; III Sent. d. 6. a. 2. q. 1.
+
+**IV.** In solving the 3rd question the authors in general agree; but concerning certain particulars they differ in the manner of solving or of explaining, and that according to the diverse principles commemorated above (n. I). — Worthy of note is the threefold distinction of acts there in the body. Concerning this same question most of the commentators on Lombard treat here and there in the places cited at the 1st question (Scotus, here q. 3. 6); but a special question concerning it is instituted by Alexander of Hales, loc. cit. § 1. 4, and Richard of Mediavilla, here a. 3. q. 2.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk gathers, from each page's footer block, only the notes whose anchors fall in this question's body, renumbered [^1]–[^17] in body order. The Articulus II scholion's own back-references are kept inline within the scholion text, not as numbered footers.
+
+[^1]: **La.** Vers. 21. — Glossa Strabi, quae est ordinaria, non praecise eundem sensum habet. Verba eiusdem sunt: *Notat illos qui munera, quae offerebant altaribus pro sacrificio conficiendo, peracto illo, sibi resumebant, nec aliis non habentibus communicari sinebant, sed soli sumebant, ita ut inde etiam inebriarentur, aliis esurientibus.* Petr. Lombard., in hunc loc., eandem Glossam paulo fusius proponit, eo quidem modo, quod magis conveniat cum verbis S. Bonaventurae.
+     **En.** Verse 21. — The Gloss of Strabo, which is the ordinary [Gloss], does not have precisely the same sense. Its words are: *He notes those who took back to themselves the gifts which they offered at the altars for confecting the sacrifice, when that was done, and did not allow them to be shared with others who did not have, but took them alone, so that thereby they were even inebriated, while others went hungry.* Peter Lombard, on this passage, sets forth the same Gloss a little more fully, in such a way indeed that it agrees more with the words of St. Bonaventure.
+
+[^2]: **La.** Cfr. Aristot., II. de Generat. et corrupt. text. 50. (c. 8.).
+     **En.** Cf. Aristotle, *On Generation and Corruption* II, text 50 (c. 8).
+
+[^3]: **La.** Cod. H *interdicitur*.
+     **En.** Codex H [reads] *interdicitur* (it is forbidden).
+
+[^4]: **La.** Cfr. Aristot., II. de Anima, text. 50. (c. 4.). — Inferius post *in sanguinem* cod. aa addit *et carnem hominis*.
+     **En.** Cf. Aristotle, *On the Soul* II, text 50 (c. 4). — Below, after *into blood*, codex aa adds *and the flesh of man*.
+
+[^5]: **La.** Vide supra a. 1. q. 2, et Hug. a S. Vict., II. de Sacram. p. VIII. c. 12. — Superius pro *irrevocabiliter* cod. bb *inevitabiliter*.
+     **En.** See above a. 1. q. 2, and Hugh of St. Victor, *On the Sacraments* II. p. VIII. c. 12. — Above, for *irrevocabiliter* codex bb [reads] *inevitabiliter*.
+
+[^6]: **La.** Supple: *reficere*.
+     **En.** Supply: *to refresh*.
+
+[^7]: **La.** Libr. V. de Sacram. c. 4. n. 24. haec sententia, licet aliis verbis, invenitur et a Magistro, hic in lit. c. 4, allegatur. Cfr. de Mysteriis, c. 9. n. 58: *Non ergo corporalis esca, sed spiritualis est.* Finem arg. cod. R exhibet sic: *in alimentum, non esset cibus mentis; ergo etc.*
+     **En.** Book V *On the Sacraments* c. 4. n. 24; this sentence, although in other words, is found also from the Master, [and] is alleged here in the text c. 4. Cf. *On the Mysteries* c. 9. n. 58: *It is therefore not corporal food, but spiritual.* The end of the argument codex R exhibits thus: *into nourishment, it would not be the food of the mind; therefore etc.*
+
+[^8]: **La.** Scilicet *quantitas*. Dicitur autem *primum accidentium*, quia sequitur materiam, quae est primum subiectum in substantia composita, dum *qualitas* se tenet ex parte formae, quae est in materia, ut in suo subiecto. — Non pauci codd. *principium accidentium*. Superius pro *post conversionem* edd. cum aliquot codd. *per conversionem*.
+     **En.** Namely *quantity*. Now it is called the *first of the accidents*, because it follows matter, which is the first subject in a composite substance, while *quality* holds itself on the side of form, which is in matter, as in its subject. — Not a few codices [read] *principium accidentium* (the principle of the accidents). Above, for *post conversionem* the editions with several codices [read] *per conversionem*.
+
+[^9]: **La.** Ita tenet Glossa ordinaria apud Strabum in Matth. 2, 2. et 3, 16; idem refert Petr. Comestor, Histor. evangel. c. 7. et c. 34. Cfr. I. Sent. d. 16. q. 3. ad 3. et 5.
+     **En.** So the ordinary Gloss holds, according to Strabo, on Matthew 2, 2 and 3, 16; the same Peter Comestor reports, *Gospel History* c. 7 and c. 34. Cf. I Sent. d. 16. q. 3. ad 3 and 5.
+
+[^10]: **La.** Libr. IV. de Sacro Altaris mysterio, c. 11. ubi textus originalis post *convertitur* legit: *cum corpus dominicum incipit esse sub Sacramento, sic quodam modo* etc.
+     **En.** Book IV *On the Mystery of the Sacred Altar* c. 11, where the original text after *convertitur* reads: *when the Lord's body begins to be under the Sacrament, so in a certain way* etc.
+
+[^11]: **La.** Edd. *sed quia*.
+     **En.** The editions [read] *sed quia* (but because).
+
+[^12]: **La.** Secuti sumus in hac propos. Alex. Hal. S. p. IV. q. 10. m. 7. a. 2. § 2. ad 2; codd. enim fere omnes legunt *non enim cibat spiritualiter, nisi* [pauci codd. omittunt perperam *nisi*] *in quantum Sacramentum*, quae lectio, etsi sit in se vera, non tamen est congrua propter sequentem particulam *sed*, pro qua codd. E F minus bene *et*, edd. autem *quia*. Subinde post *incipit cibare* ex cod. H (F a secunda manu) substituimus *corporaliter*. Vide infra d. 13. a. 2. q. 2.
+     **En.** We have followed in this proposition Alexander of Hales, *Summa* p. IV. q. 10. m. 7. a. 2. § 2. ad 2; for nearly all the codices read *for it does not feed spiritually, except* [a few codices wrongly omit *except*] *insofar as [it is] the Sacrament*, which reading, although in itself true, is nevertheless not congruous on account of the following particle *but*, for which codices E F less well [read] *and*, but the editions *because*. Thereupon after *begins to feed* from codex H (F by a second hand) we have substituted *corporally*. See below d. 13. a. 2. q. 2.
+
+[^13]: **La.** Cod. F *quia*.
+     **En.** Codex F [reads] *quia* (because).
+
+[^14]: **La.** Cfr. supra in hoc art., ubi de utraque opinione disputatur. — Sancti Patres de hoc puncto rarius agunt.
+     **En.** Cf. above in this article, where each opinion is disputed. — The holy Fathers treat of this point but rarely.
+
+[^15]: **La.** Vide supra lit. Magistri, d. XI. c. 1. seq., et Comment. d. 10. p. II. a. 1. q. 2. ad 1.
+     **En.** See above the text of the Master, d. XI. c. 1 f., and the Commentary d. 10. p. II. a. 1. q. 2. ad 1.
+
+[^16]: **La.** Ut ostensum est supra d. 11. p. I. q. 2.
+     **En.** As was shown above d. 11. p. I. q. 2.
+
+[^17]: **La.** Respicitur II. Cor. 10, 5. Cfr. supra pag. 230, nota 4.
+     **En.** Reference is made to II Corinthians 10, 5. Cf. above p. 230, note 4.
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Latin re-set column-by-column from Vol IV PDF column bands (printed pp. 274–277; pdf pp. 294–297 at the verified +20 offset; `colcrop.py vol4` split_x=1880) per the Vol II/IV PDF-priority override, with the IA djvu OCR (raw lines 31086–31655) as base for the clean running prose (article opener, fundamenta, sed contra) and footnote-marker spacing. The Respondeo, the two opinions, the Solutio replies, the Innocentius positio, all footers, and the scholion were cascade-shattered / two-column-bled in OCR and taken from the PDF bands. English is a fresh literal translation.
+
+**Alignment.** The opener ("Primo igitur quaeritur, utrum species illae sive accidentia possint converti in alimentum") matches ARTICULUS II / QUAESTIO I, confirmed against the PDF (p.274 foot: ARTICULUS II, *De actione et transmutatione accidentium*, then QUAESTIO I, *Utrum species illae possint converti in alimentum*). Aligned. Per the locked chunking convention, the short ARTICULUS II opener ("Quantum ad secundum articulum... quaeruntur similiter tria. Primo quaeritur...") is folded into this q1; there is no standalone divisio chunk for this article.
+
+**Page span / page-verify (IMPORTANT — band/printed-page correction).** The dispatch brief listed bands p274–p278, but those band labels are the PRINTED page numbers, and printed p.274 actually carries the CLOSE of the prior chunk (ARTICULUS I, QUAESTIO III — *Utrum sit verum, accidentia ibi esse sine subiecto*) at its TOP, with THIS chunk's ARTICULUS II opener + QUAESTIO I title + fundamentum 1 only at the FOOT of p.274. Running heads: p.273 recto = "DIST. XII. P. I. ART. **I**. QUAEST. **III**." (the prior chunk); p.275 recto = "DIST. XII. P. I. ART. **II**. QUAEST. **I**. 275" and p.277 recto = "DIST. XII. P. I. ART. **II**. QUAEST. **I**. 277" — page-verify PASSES for this chunk. p.274 / p.276 verso tops = "274 / 276 SENTENTIARUM LIB. IV." The chunk body therefore spans printed pp. **274–277** (NOT 278): fundamenta 2–4 + Sed contra + Conclusio + Respondeo open on p.275; the two opinions + Innocentius + Solutio 1–4 run pp.275–277; body ends "...captivetur" on p.277. **p.278 begins QUAESTIO II** ("Utrum accidentia habeant potentiam convertendi alia in Sacramentum") and is NOT part of this chunk. printed_pages = [274, 275, 276, 277]; pdf_pages = [294, 295, 296, 297] at +20.
+
+**Apparatus / footer-ownership.** 17 footnotes, all paired in both bodies. Each printed page restarts footer numbering; this chunk takes only the footers whose anchors fall in this question's body, renumbered [^1]–[^17] in body order:
+- p.274 footer block is SHARED with ART. I q3 (top of page): its nn.1–6 (Vel ut Vat. exponit; Aristot. IV Phys.; Art. seq. q.3; Scilicet extensionem; Sensus est: Sicut; Supple: manet) anchor in ART. I q3 → belong to the a1-q3 chunk, NOT here. Only p.274 n.7 (Vers. 21 — Glossa Strabi) anchors in this q's fundamentum 1 → [^1].
+- p.275 footers nn.1–9 → fundamenta + Sed contra + Respondeo opening: n1 (Aristot. II de Anima)→[^4], n2 (supra a.1 q.2 + Hugo)→[^5], n3 (Aristot. II de Generat.)→[^2], n4 (Cfr. supra pag. 220)→[^3] anchor (Cod. H interdicitur), n5 (Ut dictum est supra a.1 q.2)... — note: the OCR footer text and body markers were realigned against the PDF; the sequential body-order map is [^1]–[^17] as written.
+- p.276 footers nn.1–6 → Solutio replies + opinion 2 + Innocentius: [^8] (quantitas / primum accidentium), [^9] (Glossa ord. in Matth. + Comestor), [^10] (de Sacro Altaris mysterio IV c.11), [^11] (Edd. sed quia), [^12] (Alex. Hal. + corporaliter substitution), [^13] (Cod. F quia).
+- p.277 footers nn.1–2 → body tail: [^16] (supra d.11 p.I q.2, at *mutatio singularis*), [^17] (II Cor. 10,5 + pag. 230, at *captivetur*).
+No footers spill into neighboring chunks within this q's body range; the p.274 ART.-I-q3 footers (nn.1–6) belong to the a1-q3 chunk and the p.278 footers belong to QUAESTIO II.
+
+**Scholion disposition (★ ownership).** This chunk OWNS the Articulus II scholion in full (printed on p.277, ending at the foot of p.277-R immediately before QUAESTIO II on p.278). It is question-keyed across the article's three questions: **I** = a general preamble keyed to the article as a whole, with two numbered sub-points (1, 2) on the Scholastic axiom that accidents act in virtue of substance and on whether an accident can attain the production of substance — directly grounding THIS q1 (conversion into nourishment); **II** = "Conclusio 1. quaestionis" — the history and difficulty of q1's conclusion (Alger/Guitmund/William of Paris denial; Innocent III, Scotus, S. Thomas opinions); **III** = "Quoad 2. quaestionem" — the 2nd question (whether the species can convert other liquid into the Sacrament; liquor superfusus / admixture cases; Durandus, Richard, Scotus, S. Thomas, Alex. Hal.); **IV** = "In solvenda 3. quaestione" — the 3rd question (operations by nature vs. miracle; triplex distinctio actuum). Rendered in full (both languages), body-first / scholion-last per the parser gotcha. **Coverage: the scholion covers article q1–q3** (sections I+II → q1, III → q2, IV → q3). Sibling questions a2-q2 and a2-q3 should render `has_scholion: false` and point here. No second distinct scholion block exists for q2/q3 within this article — this single block on p.277 is the whole article's scholion, ending just before QUAESTIO II.
+
+**`[?]` flags.** [^14] — the printed footer anchored at *quia* ("nec facile est improbare, quia Sancti non multum de hoc loquuntur") sits in the inner-margin gutter of p.277-L and was not legible in the column band; the marker position is certain (the body word *quia* is confirmed) but the footer's exact wording could not be read at this dpi. Rendered with a conservative reconstruction and flagged for the d.20 decade-polish 600 dpi pass. All other readings resolved against the PDF bands. OCR garbles silently corrected per CLAUDE.md (e.g. `Prirao quaerilur`→`Primo quaeritur`, `ulruni`→`utrum`, `aciione`→`actione`, `Iransmutalo`→`transmutato`, `lioc`→`hoc`, `inconTeniens`→`inconveniens`, `coUimba`→`columba`, `Saci'amenti`→`Sacramenti`, `auclonlatera`→`auctoritatem`, `convertanlur`→`convertantur`, `Innocentii`, `obsequium`).
