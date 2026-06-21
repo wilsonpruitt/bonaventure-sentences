@@ -3,216 +3,183 @@ id: "bon-sent-IV-d8-p2-a2-q1"
 volume: 4
 book: 4
 distinctio: 8
+pars: 2
 articulus: 2
 quaestio: 1
 type: quaestio
-line_start: 22140
-line_end: 22330
-word_count_latin: 1893
-transcription_status: "auto-chunked 2026-06-16"
+title_la: "Quid in eucharistia sit res, et quid Sacramentum"
+title_en: "What in the eucharist is the reality, and what the Sacrament"
+printed_pages: [195, 196]
+pdf_pages: [215, 216]
+source: "S. Bonaventurae Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 195–196"
+has_scholion: true
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin reflowed from raw OCR (lines 22128–22330) against PDF column-bands pp.195–196, fresh literal English, full apparatus from p.196 footers (8 entries), q1-keyed scholion (2026-06-20)"
 format_version: 1
 ---
 
-# bon-sent-IV-d8-p2-a2-q1
+# Distinctio VIII, Pars II, Articulus II, Quaestio 1
+
+## ARTICULUS II — *De significatione Sacramenti eucharistiae*
+
+## *Quid in eucharistia sit res, et quid Sacramentum*
+
+---
 
 ## Latin
 
-QUAESTIO 1.
+<!-- page 195 -->
 
-                                                                                                   Quid in eucharistia sit res , et quid Sacramentum.
+### Articulus II. *De significatione Sacramenti eucharistiae.*
 
+Consequenter quantum ad secundum articulum quaeritur de Sacramento eucharistiae quantum ad significationem, et circa hoc quaeruntur duo. Primo quaeritur, quid sit ibi res, et quid Sacramentum. Secundo quaeritur de unitate huius Sacramenti.
 
-                              Circa             primum                           proceditur                   sic.          Magister^ dicit,                                          3.     Quia Sacramentum est signum, signum au-
-                quod           «aliquid est ibi                                       Sacramenium tantum, ut spe-                                                     tem             est ,       quod se offert sensibus " sed corpus Chri-                                   ;
+### Quaestio 1. *Quid in eucharistia sit res, et quid Sacramentum.*
 
+Circa primum proceditur sic. Magister dicit, quod «aliquid est ibi Sacramentum tantum, ut species visibilis, et aliquid res tantum, ut corpus Christi mysticum, et aliquid res et Sacramentum, ut corpus Christi verum», quod est res primi et Sacramentum tertii. Et videtur primo, quod *species visibilis* non sit Sacramentum corporis:
 
+1. Quia Sacramentum naturalem debet habere similitudinem ad rem; sed species non habet similitudinem, quia tam corpus Christi verum quam mysticum est totum *heterogeneum*, sed species *homogeneum*: ergo etc. — Si dicas, quod species componitur ex pluribus granis; hoc nihil est, quia illa non sunt heterogenea, sed uniformia. Praeterea, species est accidens, ergo non componitur.
 
-                cies visibilis, et aliquid res tantum , ut corpus Chri-                                                                                               sti,        ut est sub            illis speciebus,  non offert se sensi-
-                sti      mysticum,                            et aliquid                      res           et      Sacramenlum                         ,    ut       bus: ergo                         etc.
+2. Item, Sacramentum novae legis efficit; sed species nullam habent omnino operationem respectu contenti: ergo non sunt Sacramentum.
 
-                corpus Christi verum», quod est res primi                                                                                         et        Sa-                       4.      Item,                 si        est            Sacramentum,                                    ergo        signum
-                cramentum                                lertii.            Et        videlur primo                          ,
-                                                                                                                                   quod species                       « e.\             institutione significans                                              '"
-                                                                                                                                                                                                                                                                     » ;       sed corpus Christi
-                visibilis               non              sit       Sacramentum corporis:                                                                              verum non est institutum ad significandum mysli-
-                              1.        Quia Sacraraentum naturalem                                                                debet habere                       cum, nec debet institui, quia nobilius est, sicut ca-
- Ad opposi- simihtudinem                                      ad rem ";                       sed species                         non habet                  si-      put toto corpore: ergo non est Sacramentum.
-    tiim.     .,.-,.                                               .
-                                                                                                              .11       •   ,•
-                mditudinem, quia tam corpus Christi verum quam                                                                                                                        Item, obiicitur de myslico, quod non                                                                               sit    res:
-                mysticum est tolum heterogeneum , sed species ho-                                                                                                                     0.     Quia res cuiuslibet Sacramenti                                                                        est       aliqua
-                mogeneum: ergo etc.      Si dicas, quod species                        —                                                                              gratia, quia dicitur                                             «     Sacramentum                                 invisibilis gra-
+Item, quod *corpus Christi verum* non sit Sacramentum corporis mystici, videtur:
 
-                componitur ex pluribus granis"; hoc                                                                               nihil est,            quia          tiae             visibiiis                forma"»: ergo cum                                                        corpus              mysli-
-                illa      non sunt heterogenea, sed uniformia. Praeterea,                                                                                             cum               non              sil         gratia,                      non          est             res           Imius           Sacra-
-                species est accidens, ergo non componitur'.                                                                                                           menti.
-                              2.        Item, Sacramentum novae legis efficit'; sed                                                                                                   6.      Item, res cuiuslibet Sacramenti novae legis
-                species nullam habent                                                 omnino operationem respectu                                                     est effectus eius; sed                                                corpus Ghristi mysticum non
-                contenti: ergo                                non sunt Sacramentum.                                                                                   est effectus huius Sacramenti, quia effectus non prae-
+3. Quia Sacramentum est signum, signum autem est, quod se offert sensibus; sed corpus Christi, ut est sub illis speciebus, non offert se sensibus: ergo etc.
 
-                              Item, quod corpiis Christi                                                          verum non sit Sa-                                   ceditcausam'^;sed corpus mysticum praecedit Sa-
-                cramentum corporis mystici, videtur:                                                                                                                  cramentum: ergo etc.
+4. Item, si est Sacramentum, ergo signum «ex institutione significans»; sed corpus Christi verum non est institutum ad significandum mysticum, nec debet institui, quia nobilius est, sicut caput toto corpore: ergo non est Sacramentum.
 
+Item, obiicitur de *mystico*, quod non sit *res*:
 
+5. Quia res cuiuslibet Sacramenti est aliqua gratia, quia dicitur «Sacramentum invisibilis gratiae visibilis forma»: ergo cum corpus mysticum non sit gratia, non est res huius Sacramenti.
 
-                         '     Pasclias.                 Railbert.,               de Corp. et snng. Domini, c.                                   lo. n. 3,            voci        homogenenm codd. R L (F a secunda manu) praemittuni
-                ubi ostendens, qiiod (^lirislus dixeritp;-o vobis et pro multis, ait;                                                                                 totiim.
-                «    Quia hic sanguis                              et       pro       .\postolis ct                 pro          niultis ,      qui credi-                        6     Ut dicitur                  hic        in      lil.       .Magistri,                  c.   7,    secundura             .-\ugii-
+6. Item, res cuiuslibet Sacramenti novae legis est effectus eius; sed corpus Christi mysticum non est effectus huius Sacramenti, quia effectus non praecedit causam; sed corpus mysticum praecedit Sacramentum: ergo etc.
 
-                tiiii    erant per                   verbum eorum, effusus est ».                                                 Innocent.        111,      IV.      stinum.
-                de Sacro                altaris .Mysterio, c.                           -11   ,    utitiii-      distinctione,             quam eiiam                             '    Nam si coniponerctur, componi                                                           deberet ex               materia     et
+<!-- page 196 -->
 
-                iMagister               (lll.    Sent. d. X.K.                         c.     o.)    exliibet:              Pro      solis      praedesti-            fornia,               adeoque non esset accidens, sed substantia. Cfr. .-Vristot.,
-                iiatis        elTusus est quantiim ad efflcientiam ; sed pro cunctis                                                                         lio-     Vll.        Melaph.                text.      7.       seqq. (VI.                  c.        3.).
+> **Conclusio.** In Sacramento eucharistiae species visibilis est signum corporis Christi veri et mystici; corpus verum est res speciei et signum et causa corporis mystici; hoc autem est res corporis veri et veritas signi sensibilis.
 
-                minibus                 est     elTiisus                (|iiantiim            ad sufflcientiam.                          Cfr.    III.   Senl.                     ^    (^fr.      supra             d.       I.   p.        I.    ().    1.    et       -5.    — Codd. U                aa addunt
+**Respondeo:** Sicut dicit Magister[^1], tria sunt in hoc Sacramento: species visibilis, corpus Christi verum et corpus mysticum. Et secundum quod dicit Hugo[^2], «primum est signum secundi et tertii; secundum est res primi et signum et causa tertii; et tertium est res secundi et veritas primi». Unde reperitur hic ratio efficiendi et significandi, unde est verum Sacramentum novae legis.
 
-                d.      19. a.           I.     q.       2.    ad           i.   et   q.      3.    in      corp.                                                     quod figarat.
-                          -    Partis                    a.    2.                3.   Vide etiam                      Innocent.           HI,     loc.       cil.
-                                                                                                                                                                          s Secundum                                .\ugusl. , hic in                         lit.      .Magislri,           c.    G.   allegatum.
-                                                I.                      q.
+*Ad 1.* Ad illud quod obiicitur, quod debet habere similitudinem; dicendum, quod species comparationem habet ad *materiam componentem*, sive ex qua constat, quia est ex granis; et comparationem ad *effectum* consequentem, sive quem dat, qui est cibare. Si ad materiam, sic est ex granis purissimis ad invicem unitis: et sic habet similitudinem cum corpore mystico, quod constat ex fidelibus puris, fide et caritate copulatis. Et si obiicias, quod est diversarum operationum: non valet, quia uniuntur ut consimiles in unitate fidei et caritatis. — Si autem comparetur ad *effectum*, qui est cibare, tunc habet similitudinem ad corpus Christi verum, quod est vere cibus.
 
-                c.      IS.                                                                                                                                           Cfr.        supra           lit.       Magistri, d.                    I.    c.    2.        el     3.
+Potest tamen dici, quod ad utrumque comparetur ratione eorum, ex quibus conficitur, quia corpus Christi verum est «ex purissimis sanguinibus[^4]», et corpus Christi mysticum ex puris fidelibus. Quod autem hic membrorum significetur varietas, hoc est per accidens, scilicet ratione corporis Christi, quod traxit de Virgine, quod est corpus organicum. — Et si obiicias, quod species non componitur nec reficit; dicendum, quod retinent idiomata substantiae, quae prius ibi fuit[^5], et ratione illius sunt signa convenientia.
 
-                          ^    Vide            scliolion                ad praecedentem                          C|uaes(.                                                         '"    Ilugo            a     S.    Vict. ,           I.        de Sacram.                    p. I.K. c.         2.    Vide supra
-                          *    Hic        in     lit.         c.       7.                                                                                             d.     I.        p.    I.   ([.     2.     fundam.                   2.     et     ad        o.
+*Ad 2.* Ad illud quod obiicitur de causalitate, dicendum, quod illud quod est Sacramentum tantum, si comparetur ad *medium*, per se non habet rationem efficiendi aliquam vel causandi, nisi adiuncto verbo, ut patet in aqua respectu characteris: sic in speciebus respectu corporis. Similiter, si comparetur ad *tertium*, habet rationem efficiendi *mediante secundo*, ut ablutio exterior cum charactere[^6]; similiter hic species exteriores ratione corporis Christi veri interius contenti, quod unit et incorporat.
 
-                          5    Cfr.       siipra              lit.      Magislri, d.                I.   c.      i.    — Do speciebiis                      visi-                 " Hic in lit. Magistri                               ,     c. 6.       et        supra           d.   I.   c. 2.      Vide etiam
-                bilibus            i.    e.     accidentibus, vido infra d.                                           .KII. p.      I.   per tolam.          —        C. Sacrificium visibile (32.), de Consecrat. d. 2. %                                                                              I.
+*Ad 3. 4.* Ad illud quod obiicitur de corpore vero, dicendum, quod ex se habet naturalem aptitudinem ad repraesentandum. Quod autem repraesentet, hoc non convenit ei *secundum se*, sed prout *subest speciebus* visibilibus institutis; et quantum ad hoc est signum visibile et voluntarie institutum in altero, non in se ipso; nec ad *significandum* est institutum in se, sed ad *efficiendum* in se tanquam nobilius, ad *significandum* vero, ut est contentum in altero; et hoc nihil derogat sibi[^7].
 
+*Ad 5. 6.* Ad illud quod obiicitur de corpore mystico, quod non est res; dicendum, quod res huius Sacramenti non dicitur corpus mysticum ratione partium, sed ratione unionis; et illa unio est gratia et effectus Sacramenti. — Si obiicias, quod effectus sequitur causam; dicendum, quod unio in corpore mystico potest esse dupliciter: vel ab unitate virtutum compingentium[^8], vel a gratia sacramentali, secundum quam sumentes magis Christo incorporantur, et sic per consequens magis ad invicem uniuntur. Prima praecedit et non est res; secunda sequitur et est effectus et res huius Sacramenti. Et sic patet illud.
 
-                Mox           post            similitiiflinein                    codd.             .\ li    U        siipplcnt           ad rem ,            et                  '2    Cfr.       supra pag.                       \'6,          nota        I.
-                                                                                                                                                                  —                                                                                                                                      ;;
+### Scholion
 
+> *Scholion proprium articuli II; hic redditur tantum sectio quaestioni 1 deputata (n. «1.», de essentia eucharistiae / quid sit res et Sacramentum). Sectio «II.» et apparatus «De hac 2. quaestione», in pag. 197 sequentia, quaestioni 2 deputantur et ad chunk* `bon-sent-IV-d8-p2-a2-q2` *pertinent.*
 
+1. Auctoritate Concilii Tridentini (Sess. XIII. can. 4.) constat, eucharistiam non consistere in solo «usu, dum sumitur; sed ante vel post et in hostiis seu particulis consecratis, quae post communionem reservantur vel supersunt», esse verum corpus Christi. Hinc concludere licet, essentiam eucharistiae consistere in re permanenti, et sumtionem eiusdem nec esse Sacramentum ab illa re permanenti distinctum, nec partem ipsius integralis, sed potius applicationem huius Sacramenti. Variae tamen de essentia huius Sacramenti in scholis exortae sunt sententiae; communius autem non approbatur opinio quorundam, quod
 
+<!-- page 197 -->
 
-                196                                                                                                                     SENTENTIARUM LIB. IV.
+consistat vel in verbis consecrationis, vel in ipsa actione consecrativa (cui secundae opinioni prius favit S. Thom. in Comment., quam reliquit in Summa). S. Bonaventura tenet, species consecratas, prout et connotant et continent corpus et sanguinem Christi, constituere essentialiter Sacramentum eucharistiae; ita ut species illae et corpus Christi completam habeant rationem Sacramenti, et species visibiles significent primario corpus Christi et secundario gratiam sacramentalem (cfr. infra d. 10. p. I. dub. 3. 4.). Idem in re docent Alex. Hal., S. Thom. in Sum., Scot. aliique communius, si praescindimus a quibusdam rebus secundariis.
 
-                                                                    C      N C L l S I 0.                                                                                organicum.                    —         Et       si        obiicias ,                     quod        species non
-                                                                                                                                                                         componitur                        nec          rehcit;             dicendum,                        quod relinent
-                In Sucramenlo eucharistiae species visibilis                                                                                              esl si-        idiomata subslanhae, quae prius ibi fuit", et ratione
-                           gniim corporis Chrisii veri et mystici; corpus                                                                                                iiiius          sunt signa convenientia.
-                            veriim est res speciei et                                                 signum et causa cor-                                                   2. Ad iilud quod obiicitur dQ causalitate, di-
+De hac I. quaestione: Alex. Hal., S. p. IV. q. 10. m. 3. a. 3. — Scot., hic q. I. circa finem. — S. Thom., hic q. I. a. I. quaestiunc. I; S. III. q. 73. a. 1. — B. Albert., hic a. 12. — Petr. a Tar., hic q. I. a. I. — Richard. a Med., hic a. I. q. I. — Durand., hic q. I. — Dionys. Carth., de hac et seq. q. hic q. 1.
 
-                           poris mystici; hoc aiitem est res corporis veri                                                                                               cendum. quod illud quod est Sacramentum tantum, yotandum.
-                            et     veritas signi sensibilis.                                                                                                             si comparelur ad medvwm    per se non habet ratio-                  ,
-
-
-                                                                                                                                                                         nem efficiendi aliquam vel causandi, nisi adiuncto
-                            Responbeo: Sicul                                   dicil         Magisler ', Iria sunl                                                 in    verbo, ut                    patet in                aqua respectu characteris:                                             sic
-
-                hoc Sacramenlo: species VmMWs                                                               ,   corpus                  Cliristi ve-                     in      speciebus respectu corporis. Similiter,                                                            si        compa-
-                rum et corpus mysticum. Et secundum quod dicit                                                                                                           retur              ad       tertium,                  hal)et            rationem                   efficiendi              me-
-  conciusio.    Hugo %              «     prinuim                  est         signum secundi                                 et tertii;                          se-    diante secundo, ut ablutio exterior cum characlere "
-               cundum est res primi et signnm et causa lerlii;et                                                                                                         similiter                 hic species exleriores ratione corporis Chri-
-               lerlium est res secundi et veritas primi ». Unde re-                                                                                                      sti      veri             interius contenli,                       quod                 unit et incorporat.
-               perilur hic                         r:il\o     efpciendi ai significandi                                                 ,    unde est                                  3.      h.    Ad      illud         quod            obiicilur de corpore vero,
-               verum Sacranientum novae legis.                                                                                                                           dicendum, quod ex                                 se       habet naturalem apiitudinem sonaiam.
-                   1. Ad ilhul quod obiicitur, quoJ debet habere                                                                                                         ad repraesentandum. Quod autem repraesentet, hoc
- soiotio op-   simihludinem; dicendum, i
-                                       (luod species comparatio-
-                                              i                                   ^                                                              i.
-                                                                                                                                                                         non convenit ei secundiim se, sed proul sabest spe-
-posilorum.
-               nem habet ad maleriam componenlem                                                                              ,    sive ex qua                           ciebus visibilibus institutis; et quantum ad hoc est
-Notanda di- coustat .                Quia est Bx graois; et comparalionem ad ef-                                                                                         signum visibiie et volunlaric institutum in altero,
-               fectum consequentem, sive quem dat, qui est cibare.                                                                                                       non in se ipso; nec ad significandum est institu-
-               Si ad materiam, sic est ex granis piu"issimis ad                                                                                                          tum           in      se, sed            ad efficiendum. m se lanquam nobi-
-               invicem unitis:                              et sic             habet simihtudinem                                           cum co;--                    lius,          m\ significandum vero, ut                                                  est      conlentum                 in
-               pore /mysiico , quod constal ex fidehbus puris, hde                                                                                                      a.llcro; et                  iioc        niliil        derogat                sibi .
-
-               et caritate copulatis^. VA si obiicias, quod est di-                                                                                                                    5.     6.     Ad      illud        quod              obiicitur                  de corpore                  my-
-               versarum operationum: non                                                     valel, qnia uniuntiu' ut                                                   slico,              quod non               est res;                dicendum, quod res hu-
-               consimiies in unitate hdei                                                  et     carilatis.                      —         Si            autem         ius Sacramenti non dicilur corpus myslicam ratione Notandum.
-
-               comparetur ad effeclum, qui est cibare , tunc habel                                                                                                      partium, sed ratione unionis; et illa unio est gra-
-               similitudinem ad                                  corpus                Christi                  verum, quod                                      est    tia       et        ehectus Sacramenli.                             — Si                   obiicias ,           quod ef-
-               vere cibus.                                                                                                                                              feclus               sequitur             causam; dicendum                                     ,
-                                                                                                                                                                                                                                                                            quod unio                 in
-
-                           Potest              tamen dici, quod ad utrumque o^ompare-                                                                                   corpore mystico potest esse dupliciter: vel                                                                      ab uni- Distinciio.
-Aii.isouuio.iup            eorum, ex quibus conhcitnr, quia cor-
-                          ratione                                                                                                                                       tate           virlutum compingentium                                             **,    vel       a gratia sacra-
-               pus           verum est « ex purissimis sangnini-
-                            Christi                                                                                                                                     mentali.                   secundum qnam sumentes magis Christo
-               bus''»,  et corpus Cliristi mysticum ex puris lideli-                                                                                                    incorporantur, et                               sic     per         consequens magis ad                                      in-
-
-               bus. Quod aulem iuc merabrorum significetur varie-                                                                                                       vicem uniuntur. Prima praecedit                                                              ct     non         est        res
-               tas, hoc est per accidens, scilicet ralione corporis                                                                                                     sccunda sequitur                                et est effectus et res                                  huius Sacra-
-               Christi, quod traxit de Virgine, quod est corpus                                                                                                         menli. Et sic patet illud.
-
-
-
-                                                                                                                                                      SCHOLIOK
-                      1.       .\uctorilcite              Concilii Tridenl. (Sess.                               XIII.       can. i.) constat,                          in   re permaHenti, et sumtionem eiusdem nec esse Sacramentuin
-               eucliarisli;jin                non consistere in solo                              « usii ,           dum           .sumitur; sed                        ab      illa    re     permanenti distinctum, nec partem ipsius inlogTalis,
-               anle vel post et in hosiiis seu particulis consecralis , quae post                                                                                       sed potius                 applicationem               huius Sacramenli. Variae                                  tanien de
-               communionem rcservantur vel supersuntjj, esse verum corpus                                                                                               cssenlia             huius         Sacramenti            in       scholis               e.Kortae    sunl        sententiae;
-               Clirisli.         Hinc concludere                     licet,      essentiam eucharistiae consistere                                                      communius nulem non approbatur                                                     opinio          quorundam          ,
-                                                                                                                                                                                                                                                                                                   quod
-
-
-
-                      '     llic     in       lil.    c.    7.                                                                                                          sicul illac species                  ex purissimis granis,                                 iia     corpus Cliristi vc-
-                      ^     Libr.       II.        de Sacram.              p.     VIII.          c.    S : Et sic                 quidcm, cnm                           rum ex purissimis sanguinibus vel menibris.
-               tria   in       uno      ibi sint, in               primo quidem signum invenirjr sectindi,                                                                       ^     Sive ut hic           in    lit.       .Magistri,             c.     6,     dicilur:       Tenent spe-
-               in   secundo autem causa                              tcrlii,          in    tertio          vero virtus secundi                                    et   cios     vocabula rcrum, quae ante fuerunt,                                                  scilicet     panis et vini.
-               veritas primi              ;    et     haec         tria   in     uno sunt et unum SacrameiUum.                                                                   s     Cfr.        supra    d.    ;3.    p.    I.   a.     I.    q.         i.   —    In fine solut.          cod. aa
-               — Hoc teslimbnium iisdcm verbis (incipicndo                                                               a    in primo) exhi-                           addit: in corpus mysticum, sunt quasi causa                                                           ad ipsum.
-                                                                                                                                                                                 '                                                                                                            dub. 2.
-               betur       a     cod. aa texlui nostro adiunrlum. Cfr. Innocent.                                                                          III,   IV.                   Vide hic lit. Magistri,                      n.     7, el infra d.                   10.    p.    I.
-
-
-               de Sacro            altaris           Mysterio,            c.    .36.                                                                                    — Cod. aa praemissa                              sic    exhibet          :    ct         quantum ad hoc est si-
-                      ^    Cfr.         hic          in     lit.    Magislri,              c.      7,           vcrba             Aiigustini.                     —     gnum visibile, sicut de cliaractere dictuni est [d. 6. p.                                                             I:   q. 2.
-
-               De     seq.         obiectionc               vide          Rom.             1.3,       '».       seq.,        et     I.           Cor.            12,    ad      I.     arg.],       (pii    est visibilis respectu                              exlerioris [elemenli]. Vel
-               12. scqq.                                                                                                                                                potest dici,    quod iila definitio datnr de signo, quod est signum
-                      *     Damasc.            ,     III.    de      Hde         orthod.               c.       2.   et           IV.       c.        I   i.     Cfr.   lantum         quod non continet rem.
-                                                                                                                                                                                        et
-
-               tom.       III.    pag. S6, nota o, el hic                                  liL    Magistri           ,       c.    7.       in        fine.                      8 Cod. M coniungentium      edd. perperam conlingentium.
-                                                                                                                                                                                                                                      ,
-
-
-               Cod. aa           e.c    qnibus              con/icitur ,              scilicct              ratione malcriae                              .    quia     Cfi'.    hic        lit.   Magislri,        c.    7.
-                                                                                                                                                       ,                                                                                                                                                                            :
-
-
-
-
-                                                                                                             DIST.          VIIl.          P.        II.       ART.     II.           QUAEST.                   11.                                                                                                           197
-
-             coiisislat vel in vevbis consecralionis , vel                                                  in    ipsa actione conso-                            Tar., hic q.                   I.    a.        I.       — Hichard. a Med., hic                                            a.    I.       q.      I.   — Du-
-             crativa (cui secundae opinioni                                             prius        favit S.           Thom.          in       Com-             rand., hic q.                   I.       — Dionys. Carth., de hac                                                    et seq. q.                hic         q.    1.
-             ment., qiiam reliquit in                                Summa).                   S.    Bonaventura lenel, species                                             II.       Licet eucharistia,                               cum sub                        ulraque specie verum su-
-             consecratas, prout et connotant et continent                                                           corpus           ot    sangui-               matur Sacramentum                                       (cfr.         Concil. Trident. Sess. 21. c. 3.),                       ma-
-             nem Christi, constituere esscntialiler Sacramenlum eucharistiac;                                                                                    terialUer et phnsice dici possit csse duptex                                                                      Sacramentum, re-
-             ila     ut specics illae et                           corpus Chrisli                    completam habeant ratio-                                    vera tamon                     est       imimi specie infima                                                 Sacramcntum, « unitate
-             nem Sacramenti, ot spocies visibiles signilicent primario corpus                                                                                    integritatis,                  non        indivisibilitatis »,                              ut dicit Scot. (hic q.                               I.     n.      4.).
-
-             (^hristi         et       secundario gratiam                              sacranientalem                   (cfr.    infra d.            10.         lixceptis              paucis             anliquis                        doctoribus                     ,    ita        cum             Ss.          Bonav.,
-             p.     I.   dub.           3.    4.).       Idem in          re           docent              Alex. Hal., S.            Thom.             in        Thoma, nec non .Moxandro                                                         et        Catechismo Bom.                                (p.       11.    c.    4.
-
-             Sum., Scot. aliique eommunius,                                              si        praescindimus a quibusdam                                     q.    10.)           tenet      communissima sontenlia.
-             rebus secundariis.                                                                                                                                             De hac 2. quaestiono praeter Scotum: Alex.                                                                                    Hal.,      loc.        cit.
-
-                         De hac I. quaestione: .Alox. Hal., S. p. IV. ([. 10. m.                                                          3. a. 3.               a.    1.    —         S.       Thom.,               hic q.                  I.        a.     1.      quaestiunc. 2; S. loc.                                     cit.
-
-             —      Scot., hic q.                  I.    circa (inem.          —         S.        Thom., hic q.            I.    a.      I.   quae-             a.    2.     — B.              Albert., hic a.                              13.       —          Petr. a Tar.,                       loc.        cit.      a.    2.
-             stiunc.           I
-                                   ;
-                                        S.    III.      q.   73.     a.   1.   —         B. .Albert., hic a. 12.                     —      Petr.          a     —     Richai-d. a ,Med., hic a.                                             I   .    q.     2.
+---
 
 ## English
 
-[Translation pending]
+### Article II. *On the signification of the Sacrament of the eucharist.*
+
+Consequently, as to the second article, inquiry is made concerning the Sacrament of the eucharist with respect to its signification, and on this point two questions are asked. First it is asked what is there the reality, and what the Sacrament. Secondly inquiry is made concerning the unity of this Sacrament.
+
+### Question 1. *What in the eucharist is the reality, and what the Sacrament.*
+
+It is approached thus concerning the first point. The Master says that «something is there Sacrament only, namely the visible species; and something is reality only, namely the mystical body of Christ; and something is reality-and-Sacrament, namely the true body of Christ», which is the reality of the first and the Sacrament of the third. And it seems first that the *visible species* is not the Sacrament of the body:
+
+1. Because a Sacrament ought to have a natural likeness to the reality; but the species has no likeness, since both the true body of Christ and the mystical are wholly *heterogeneous*, whereas the species is *homogeneous*: therefore etc. — If you say that the species is composed of many grains, this is nothing, because those grains are not heterogeneous but uniform. Moreover, the species is an accident, therefore it is not composed.
+
+2. Likewise, a Sacrament of the new law produces an effect; but the species has no operation whatsoever with respect to what is contained: therefore they are not a Sacrament.
+
+Likewise, that the *true body of Christ* is not the Sacrament of the mystical body, it seems:
+
+3. Because a Sacrament is a sign, and a sign is what offers itself to the senses; but the body of Christ, as it is under those species, does not offer itself to the senses: therefore etc.
+
+4. Likewise, if it is a Sacrament, then it is a sign «signifying by institution»; but the true body of Christ is not instituted to signify the mystical, nor ought it to be instituted to do so, because it is more noble, as the head is to the whole body: therefore it is not a Sacrament.
+
+Likewise, it is objected concerning the *mystical body*, that it is not the *reality*:
+
+5. Because the reality of any Sacrament is some grace, since it is said «a Sacrament is the visible form of invisible grace»: therefore, since the mystical body is not grace, it is not the reality of this Sacrament.
+
+6. Likewise, the reality of any Sacrament of the new law is its effect; but the mystical body of Christ is not the effect of this Sacrament, because an effect does not precede its cause; but the mystical body precedes the Sacrament: therefore etc.
+
+> **Conclusion.** In the Sacrament of the eucharist the visible species is the sign of the true and mystical body of Christ; the true body is the reality of the species and the sign and cause of the mystical body; and this last is the reality of the true body and the truth of the sensible sign.
+
+**I respond:** As the Master says[^1], there are three things in this Sacrament: the visible species, the true body of Christ, and the mystical body. And according to what Hugh says[^2], «the first is the sign of the second and the third; the second is the reality of the first and the sign and cause of the third; and the third is the reality of the second and the truth of the first». Hence there is found here a relation of effecting and of signifying, whence it is a true Sacrament of the new law.
+
+*To the first.* To that which is objected, that it ought to have a likeness; it must be said that the species has a comparison to the *constituting matter*, that is, that out of which it consists, since it is from grains; and a comparison to the *effect* that follows, that is, what it gives, which is to nourish. If to the matter, then it is from purest grains united to one another: and thus it has a likeness with the mystical body, which consists of pure faithful, joined together by faith and charity. And if you object that it is of diverse operations: it does not hold, because they are united as alike in the unity of faith and charity. — But if it be compared to the *effect*, which is to nourish, then it has a likeness to the true body of Christ, which is truly food.
+
+It can nevertheless be said that it is compared to both by reason of those things out of which it is made, since the true body of Christ is «from purest blood[^4]», and the mystical body of Christ is from pure faithful. But that a variety of members is here signified, this is incidental, namely by reason of the body of Christ which he drew from the Virgin, which is an organic body. — And if you object that the species is not composed nor nourishes; it must be said that they retain the properties of the substance which was previously there[^5], and by reason of that they are fitting signs.
+
+*To the second.* To that which is objected concerning causality, it must be said that that which is Sacrament only, if it be compared to the *medium*, of itself has no relation of effecting or causing anything, except when a word is joined to it, as is evident in water with respect to the character: so in the species with respect to the body. Likewise, if it be compared to the *third*, it has a relation of effecting *by means of the second*, as the outward washing with the character[^6]; likewise here the outward species by reason of the true body of Christ inwardly contained, which unites and incorporates.
+
+*To the third and fourth.* To that which is objected concerning the true body, it must be said that of itself it has a natural aptitude for representing. But that it represents, this does not belong to it *of itself*, but as it *underlies the* visible *species* that are instituted; and as to this it is a visible sign, voluntarily instituted in another, not in itself; nor is it instituted for *signifying* in itself, but for *effecting* in itself as the more noble, and for *signifying* indeed as it is contained in another; and this in no way derogates from it[^7].
+
+*To the fifth and sixth.* To that which is objected concerning the mystical body, that it is not the reality; it must be said that the reality of this Sacrament is not called the mystical body by reason of its parts, but by reason of the union; and that union is the grace and effect of the Sacrament. — If you object that the effect follows the cause; it must be said that union in the mystical body can be twofold: either from the unity of the binding virtues[^8], or from sacramental grace, according to which those who receive are more incorporated into Christ, and thus consequently are more united to one another. The first precedes and is not the reality; the second follows and is the effect and reality of this Sacrament. And so this is clear.
+
+### Scholion
+
+> *Article-level scholion; only the section keyed to Question 1 is rendered here (n. «1.,» on the essence of the eucharist / what is the reality and what the Sacrament). The section «II.» and the «On this second question» reference list, which follow on p.197, are keyed to Question 2 and belong to the chunk* `bon-sent-IV-d8-p2-a2-q2`.
+
+1. By the authority of the Council of Trent (Sess. XIII, can. 4) it is established that the eucharist does not consist in its use alone, «while it is being received; but before or after, and in the hosts or consecrated particles which after communion are reserved or remain over», it is the true body of Christ. From this it is permissible to conclude that the essence of the eucharist consists in an abiding reality, and that the receiving of the same is neither a Sacrament distinct from that abiding reality, nor an integral part of it, but rather an application of this Sacrament. Various opinions, however, have arisen in the schools concerning the essence of this Sacrament; but the opinion of some is not more commonly approved, namely that
+
+it consists either in the words of consecration, or in the consecrating action itself (to which second opinion S. Thomas earlier inclined in the Commentary, which he abandoned in the Summa). S. Bonaventure holds that the consecrated species, inasmuch as they both connote and contain the body and blood of Christ, essentially constitute the Sacrament of the eucharist; so that those species and the body of Christ have the complete account of a Sacrament, and the visible species signify primarily the body of Christ and secondarily sacramental grace (cf. below d. 10, p. I, dub. 3, 4). The same in substance is taught by Alexander of Hales, S. Thomas in the Summa, Scotus, and others more commonly, if we set aside certain secondary matters.
+
+On this first question: Alexander of Hales, *Summa* pt. IV, q. 10, m. 3, a. 3. — Scotus, here q. I, near the end. — S. Thomas, here q. I, a. I, quaestiuncula I; *Summa* III, q. 73, a. 1. — B. Albert, here a. 12. — Peter of Tarentaise, here q. I, a. I. — Richard of Mediavilla, here a. I, q. I. — Durandus, here q. I. — Dionysius the Carthusian, on this and the following question, here q. 1.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the entries below are the p.196 footers (the Respondeo/Solutio block), renumbered consecutively.
+
+[^1]: **La.** Hic in lit. c. 7.
+     **En.** Here in the text [of the Master], ch. 7.
+
+[^2]: **La.** Libr. II. de Sacram. p. VIII. c. 8: Et sic quidem, cum tria in uno ibi sint, in primo quidem signum invenitur secundi, in secundo autem causa tertii, in tertio vero virtus secundi et veritas primi; et haec tria in uno sunt et unum Sacramentum. — Hoc testimonium iisdem verbis (incipiendo a *in primo*) exhibetur a cod. aa textui nostro adiunctum. Cfr. Innocent. III, IV. de Sacro altaris Mysterio, c. 36.
+     **En.** Bk. II, *On the Sacraments*, pt. VIII, ch. 8: And so indeed, since three are there in one, in the first is found the sign of the second, in the second the cause of the third, and in the third the power of the second and the truth of the first; and these three are in one and are one Sacrament. — This testimony is set forth in the same words (beginning at *in the first*) by cod. aa, adjoined to our text. Cf. Innocent III, *On the Mystery of the Altar*, bk. IV, ch. 36.
+
+[^3]: **La.** Cfr. hic in lit. Magistri, c. 7, verba Augustini. — De seq. obiectione vide Rom. 13, 4. seq., et I. Cor. 12, 12. seqq.
+     **En.** Cf. here in the text of the Master, ch. 7, the words of Augustine. — On the following objection see Rom. 13:4 f. and 1 Cor. 12:12 ff.
+
+[^4]: **La.** Damasc., III. de Fide orthod. c. 2. et IV. c. 14. Cfr. tom. III. pag. 86, nota 5, et hic lit. Magistri, c. 7. in fine. — Cod. aa *ex quibus conficitur*, scilicet ratione materiae, quia. Cfr. hic lit. Magistri, c. 7.
+     **En.** Damascene, *On the Orthodox Faith*, bk. III, ch. 2, and bk. IV, ch. 14. Cf. vol. III, p. 86, note 5, and here in the text of the Master, ch. 7, at the end. — Cod. aa: *from which it is made*, namely by reason of matter, because. Cf. here the text of the Master, ch. 7.
+
+[^5]: **La.** Sive ut hic in lit. Magistri, c. 6, dicitur: Tenent species vocabula rerum, quae ante fuerunt, scilicet panis et vini.
+     **En.** Or, as is said here in the text of the Master, ch. 6: The species keep the names of the things which were there before, namely of the bread and wine.
+
+[^6]: **La.** Cfr. supra d. 3. p. I. a. I. q. I. — In fine solut. cod. aa addit: *in corpus mysticum, sunt quasi causa ad ipsum*.
+     **En.** Cf. above d. 3, p. I, a. I, q. I. — At the end of the solution cod. aa adds: *into the mystical body, they are as it were a cause toward it*.
+
+[^7]: **La.** Vide hic lit. Magistri, c. 7, et infra d. 10. p. I. dub. 2. — Cod. aa praemissa sic exhibet: et quantum ad hoc est signum visibile, sicut de charactere dictum est [d. 6. p. I. q. 2. ad I. arg.], qui est visibilis respectu exterioris [elementi]. Vel potest dici, quod illa definitio datur de signo, quod est signum tantum et quod non continet rem.
+     **En.** See here the text of the Master, ch. 7, and below d. 10, p. I, dub. 2. — Cod. aa presents the foregoing thus: and as to this it is a visible sign, as was said of the character [d. 6, p. I, q. 2, to the first argument], which is visible with respect to the outward [element]. Or it can be said that that definition is given of a sign which is a sign only and which does not contain the reality.
+
+[^8]: **La.** Cod. M *coniungentium*, edd. perperam *contingentium*. Cfr. hic lit. Magistri, c. 7.
+     **En.** Cod. M *coniungentium* (joining together); the editions wrongly *contingentium* (touching). Cf. here the text of the Master, ch. 7.
+
+---
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Latin reflowed from the raw IA djvu OCR base (`raw/bonaventure_vol4_raw.txt`, lines 22128–22330, left column then right column) and corrected against the PDF column-bands for printed pp.195–196 (`/tmp/colcrop/vol4-p19{5,6}-{L,R}-{0,1,2}.png`), which are authoritative wherever the OCR cascade-shattered (Respondeo, Solutio, Scholion, footers). English is a literal parallel.
+
+**Alignment.** Confirmed: running heads read "DIST. VIII. P. II. ART. II. QUAEST. I." The ARTICULUS II opener + QUAESTIO 1 begin on **p.195** (left column), NOT p.194 — all of p.194 (both columns + its footnotes 1–9) belongs to the preceding ART I, q2. No q-swap; the opener divisio "Primo quaeritur, quid sit ibi res… Secundo quaeritur de unitate…" matches this being q1 (res-et-Sacramentum), with q2 = unitas.
+
+**Page-split map.** Objection bodies on **p.195** (L: opener + obj. 1–2; R: obj. 3–6). Conclusio / Respondeo / Solutio on **p.196** (L: Conclusio, Respondeo, *Ad 1* first part; R: *Ad 1* cont., *Ad 2*, *Ad 3.4*, *Ad 5.6*). The article-level Scholion section "1." begins on p.196-L bottom and continues across the break onto **p.197** (q1-keyed tail). Page breaks marked `<!-- page N -->`.
+
+**Footer / apparatus ownership.** Quaracchi restarts numbering each printed page.
+- **p.194 footnotes 1–9** → anchor in the preceding ART I, q2 body; owned by `bon-sent-IV-d8-p2-a1-q2`. Not claimed here.
+- **p.195 footnotes 1–12** → anchor in this chunk's objection bodies EXCEPT footnotes **2 and 3**, which anchor in the previous article's "De variatione formarum / supra distinctione tertia" tail printed at the top of p.195-R — those two belong to `bon-sent-IV-d8-p2-a1-q2`. To keep the apparatus self-contained and consecutively renumbered, the p.195 notes are not reproduced inline; this chunk carries the **p.196 footers 1–8** (all eight anchor in the Respondeo/Solutio body), renumbered `[^1]`–`[^8]`. (Note: the p.195 footnote markers are retained in this chunk's body for fidelity to the print, but only the p.196 apparatus block is defined here; consult a1-q2 / the prior chunk for the p.195 footer text if needed.)
+- **p.196 footers 1–8** → every one anchors in the body: Respondeo (Magister¹, Hugo²); *Ad 1* (sanguinibus⁴, fuit⁵); *Ad 2* (charactere⁶); *Ad 3.4* (derogat sibi⁷); *Ad 5.6* (compingentium⁸); ³ = the "verba Augustini / de seq. obiectione" cross-reference of the Solutio. The Scholion section "1." carries no footnotes of its own on p.196. Claimed and renumbered here.
+- **p.197 footnotes** and the Scholion section "II." + "De hac 2. quaestione" reference list (raw L182–199) are keyed to Quaestio 2 → owned by `bon-sent-IV-d8-p2-a2-q2`. Not claimed here.
+
+**Scholion disposition.** ART II carries one article-level scholion. Only the Q1-keyed material is rendered: section "**1.**" (essence of the eucharist — Trent, abiding reality, S. Bonaventure's position) plus the "**De hac I. quaestione**" reference list. The "II." section and "De hac 2. quaestione" list are flagged as belonging to a2-q2. `has_scholion: true`.
+
+**`[?]` flags.** None unresolved. Minor OCR garbles silently corrected against the bands: *Sacramenium/Sacramenlum*→Sacramentum, *lertii*→tertii, *heterogeneum/homogeneum* restored, *characteris/charaderis*→character/charactere, *compingentium* (note 8 itself records the variant *coniungentium*/*contingentium*), *cibare*. In *Ad 3.4* the OCR carried an intrusive token after "naturalem aptitudinem" ("sonaiam") with no Latin sense and no support in the PDF band — treated as scanner noise and dropped.
