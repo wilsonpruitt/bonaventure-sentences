@@ -3,534 +3,266 @@ id: "bon-sent-IV-d15-p1-littera"
 volume: 4
 book: 4
 distinctio: 15
+pars: 1
 type: littera
-line_start: 39336
-line_end: 39846
-word_count_latin: 4218
-transcription_status: "auto-chunked 2026-06-16"
+title_la: "De satisfactione"
+title_en: "On satisfaction"
+printed_pages: [345, 346, 347, 348, 349]
+pdf_pages: [365, 366, 367, 368, 369]
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 345–349"
+has_scholion: false
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — full Lombard littera of d.XV (the Master's own Caps I–VII on satisfaction, flagella, and almsgiving). Latin re-set from IA djvu OCR (raw lines 39336–39846) with PDF column-band authority on the cascade-fragmented two-column body + footers (pp.345–349), fresh literal English, full apparatus from the per-page NOTAE blocks (p.345: 4; p.346: 10; p.347: 8; p.348: 6; p.349 littera-portion: 2 = 30 entries), no scholion, no [?] flags (2026-06-22)"
 format_version: 1
 ---
 
-# bon-sent-IV-d15-p1-littera
+# Distinctio XV — Littera Magistri
+## *De satisfactione*
+
+---
 
 ## Latin
+<!-- page 345 -->
 
-DISTINCTIO XV.
+### Cap. I. *Quod pluribus irretitus peccatis non potest vere de uno poenitere, nisi de omnibus poeniteat.*
 
+Et sicut praedictis auctoritatibus illorum error convincitur, qui poenitentiam saepius agendam non putant[^1], et per eam a lapsu peccantes frequenter surgere diffitentur; ita eisdem illorum opinio eliditur, qui pluribus irretitum peccatis asserunt de uno vere poenitere eiusdemque veniam a Domino consequi posse sine alterius poenitentia. Quod etiam auctoritatibus astruere conantur. Ait enim Propheta: *Non iudicabit Deus bis in id ipsum,* vel ut alii transtulerunt: *Non consurget duplex tribulatio.* Si ergo, inquiunt illi, aliquis sacerdoti fuerit confessus unum de duobus vel pluribus peccatis et de illo iniunctam sibi a sacerdote satisfactionem expleverit, ceteris tacitis; non pro illo peccato amplius iudicandus est, de quo satisfecit ad arbitrium sacerdotis, qui vicem Christi in Ecclesia gerit. Ideoque, si de eo iterum iudicetur, bis in id ipsum iudicat Deus, et consurget duplex tribulatio. — Sed « de his tantum oportet illud intelligi, qui praesentibus suppliciis commutantur in bonum et sic perseverant, super quos non consurget duplex tribulatio. Qui vero inter flagella duriores et deteriores fiunt, ut Pharao[^2], praesentibus aeterna connectunt, ut temporale supplicium sit eis aeternae poenae initium. Unde Augustinus: *Ignis succensus est* etc. — id est, vindicta hic incipiet — *et ardebit usque ad extremam damnationem.* Hoc contra illos notandum est, qui dicunt, illud, scilicet: *Non iudicabit Deus bis in id ipsum,* ad omnia pertinere flagella, quia quidam hic flagellis emendantur, alii hic et in aeternum puniuntur ».
 
-                                                                                                                                           Pars
+### Cap. II. *Quibus de causis contingunt flagella.*
 
+Quinque enim modis flagella contingunt: vel ut iustis merita per patientiam augeantur, ut Iob; vel ad custodiam virtutum, ne superbia tentet, ut Paulo; vel ad corrigenda peccata, ut Mariae lepra; vel ad gloriam Dei, ut de caeco nato; vel ad initium poenae, ut Herodi, quatenus hic videatur, quid in inferno sequatur, secundum illud[^3]: *Duplici contritione contere eos, Domine.* « Illa ergo auctoritas Nahum non cogit nos sentire, omnia quae temporaliter puniuntur, non ulterius a Deo punienda ».
 
-                                                                           Cap.    I.                                                             perlinere flagelia, quia quidani hic flagellis emendan-
-                                                                                                                                                  tur, alii hic et in aelernum puniuntur».
+### Cap. III. *De Aegyptiis et Sodomitis, qui temporaliter dicuntur puniri, ne in aeternum perirent.*
 
-                  Quod pluribus irretitus peccatis non potest vere
-                      deimo poenilerej nisi de omnibus poeniteat.                                                                                                                                        Cap.       II.
+Nam etsi super eundem locum Hieronymus dicat, Aegyptios et Israelitas a Deo temporaliter punitos, ne in aeternum punirentur; non est tamen de omnibus generaliter intelligendum. Ait enim sic[^4]: « Quod genus humanum diluvio, Sodomitas igne, Aegyptios mari, Israelitas in eremo perdidit, scitote ideo temporaliter pro peccatis punisse, ne in aeternum puniret », quia non iudicabit Deus bis in id ipsum. Qui ergo puniti
 
+<!-- page 346 -->
 
+sunt postea non punientur; alioquin mentitur Scriptura, quod nefas est dicere.
 
+Attende, lector, his verbis et cave, ne de omnibus generaliter intelligas, « sed de his tantum, qui inter ipsa flagella poenitentiam egerunt, credentes in Deum Hebraeorum; quam, etsi brevem et momentaneam, tamen non respuit Deus[^5] ». Quod autem qui per temporale flagellum non corriguntur post aeternaliter puniantur, ibidem ostendit, agens de fideli deprehenso in adulterio, qui decollatur; ubi ostendit, levia peccata brevi et temporali supplicio purgari, magna vero diuturnis aeternisque suppliciis reservari, ita inquiens[^6]: « Quaerat hic aliquis, si fidelis deprehensus in adulterio decolletur, quid de eo postea fiat? Aut enim punietur, et falsum est quod dicitur: *Non iudicabit Deus bis in id ipsum*; aut non punietur, et optandum est adulteris, ut hic brevi poena puniantur, ut frustrentur cruciatus aeternos. Ad quod respondemus, Deum, ut omnium rerum, ita suppliciorum quoque scire mensuras; et non praeveniri sententiam iudicis, nec illi in peccatorem exercendae dehinc poenae auferri potestatem; et magnum peccatum magnis diuturnisque lui cruciatibus. Si quis vero punitus sit, ut ille qui Israelitae maledixerat[^7], et qui in Sabbato ligna collegerat, tales postea non puniri, quia culpa levis praesenti supplicio compensata sit ». Levis enim culpa levi supplicio compensatur. — Hic satis innuit Hieronymus, gravia peccata et hic puniri gravi supplicio et in futuro punienda aeternaliter, de quibus poenitentia non agitur inter flagella; levia vero, quae hic puniuntur, levi poena compensationem recipere; quod in bonis fieri non ambigimus, et in malis forte etiam fit ita. — Satis iam apparet, quod illi de prophetia induxerunt non facere pro eis qui dicunt, ei qui crimen sibi reservat, de alio veniam praestari per poenitentiam.
 
-                      El sicul praedlclis auctorilatibus iilonun error con-                                                                                          Quibus de causis contingunt flagella.
-            vincilur, qui poenilenliam saepius agendam non piUanl,
-            et    per eani a lapsu peccantes frequenter snrgere difli-                                                                                    Quinque enim modis fiagella conlingunt:                                                                   vel   ut oubiura      -2.
+His verbis quidam vehementius inhaerentes alias quoque auctoritates inducunt. Ait enim Gregorius[^8]: « *Pluit Dominus super unam civitatem et super alteram non pluit, et eandem civitatem ex parte compluit et ex parte aridam relinquit.* Cum ille qui proximum odit, ab aliis vitiis se corrigit, una eademque civitas ex parte compluitur et ex parte arida remanet; quia sunt quidam, qui cum quaedam vitia resecent, in aliis graviter perdurant ». Item Ambrosius[^9]: « Prima consolatio est, quia non obliviscitur misereri Deus »; « secunda, per punitionem, ubi, etsi fides desit, poena satisfacit et relevat ». — Ratione quoque utuntur dicentes: Si is qui unum peccatum confitetur, altero tacito, satisfactionem a sacerdote iniunctam expleverit, nunquid et, si peccatum tacitum conversus fuerit confessus, pro utroque ei poenitentia imponetur? Longe hoc videtur a ratione et Ecclesiae consuetudine, quae pro eodem peccato, nisi reiteretur[^10], nulli bis poenitentiam imponit. Fuit ergo illa peccati condigna satisfactio, unde et peccatum deletum videtur.
 
-                                                                                                                                                                                                                                                                                     ^'
-nioerro- tentur ;                lla    eisdom                 iilorum            opinio eliditur, qui pluri-                                     iuslismerila per palientiam augeantur, ut lob vel ad                                                          ;
-                                                                                                                                                                                                                                                                                °'
+His responderi potest sic. Illud Gregorii: « *Pluit Dominus* » etc., non ad criminis veniam, sed ad operis peccati[^11] desertionem referendum est, ut ideo pars civitatis dicatur complui, quia ab actu et delectatione peccati, cui ante serviebat, modo cessat; non quod eius veniam habeat. Vocaturque pluvia illa talis continentia, qua ab opere peccati revocatur, quia ex fonte gratiae Dei id cordi instillatur, ut vel sic paulatim ad poenitentiam veniat, vel eo minus a Deo puniatur qui diuturniori delectatione et actu peccati maius sibi accumulasset tormentum. Si vero ad *indulgentiam* reatus pluvia referatur, evangelicae sententiae contraire videbitur. Si enim propter immisericordiam, qua quis proximo suo non miseretur, etiam quae dimissa sunt replicantur ad poenam; multo magis quae nondum sunt dimissa propter odium fraternum ad poenam reservari probantur. Et si ille « qui arbiter suae voluntatis constitutus est, non potest inchoare novam vitam, ut ait Augustinus[^12], nisi poeniteat eum veteris vitae; quomodo ad novitatem indulgentiae perveniet qui odii vetustatem non deposuit? » — Illud etiam quod Ambrosius ait: « Etsi fides desit, poena satisfacit » etc., non de *fide* intelligitur, qua creditur in Deum, sed de conscientia delicti. Deest enim fides, cum peccati conscientia non subest. Nam cum delicta omnia nemo intelligat, est aliquando in homine peccatum, cuius non habet conscientiam. Unde Apostolus: *Nihil mihi conscius sum, sed non in hoc iustificatus sum.* Cum igitur quis flagellatur pro peccato, cuius non est conscius, si patienter fert poenam et humiliter amplectitur cogitans, se forte peccatum habere, quod non intelligit, et pro eo puniri a Deo, poena illa satisfacit et relevat gravatum.
 
+Ad hoc autem, quod obiicitur de satisfactione illa: Si satisfactio non fuit, iterum imponenda est; si vero iterum imponenda non est, satisfactio fuit; et si satisfactio fuit, veniam impetravit; responderi potest, satisfactionem non fuisse[^13], quia ille *dignos fructus poenitentiae* non fecit. « Est enim satisfactio poenitentiae, ut ait Augustinus[^14], peccatorum causas excidere nec suggestionibus earum aditum indulgere ». Idem: « Sane qui scelerate vivunt nec curant talem vitam moresque corrigere et inter ipsa facinora sua eleemosynas frequentare non cessant, frustra ideo sibi blandiuntur, quia Dominus ait: *Date eleemosynam, et ecce omnia munda sunt vobis.* Hoc enim quam late pateat, non intelligunt ». « Multa enim sunt genera eleemosynarum, quae cum facimus, adiuvamur. Non solum enim qui dat esurienti cibum, sitienti potum et huiusmodi; sed etiam qui dat veniam petenti eleemosynam dat; et qui emendat verbere in quem potestas datur, vel coercet aliqua disciplina vel orat, ut ei dimittatur peccatum, eleemosynam dat, quia misericordiam praestat ».
 
-            bus irrelitum peccatis asserunt de uno vere poenilere                                                                                 cuslodiam virtutum, ne soperbia tenlet, ut Pnuio; vel
-            eiusdemque veniani a Domino consequi posse sine                                                                               al-     ad corrigenda                          peccata,   ut Mariae lepra   vcl ad glo-                  ;
+<!-- page 347 -->
 
+### Cap. IV. *De generibus eleemosynae.*
 
+« Multa enim bona praestantur invitis, quando eorum consulitur utilitati et non voluntati[^15] ». « Sed ea maior est, qua ex corde dimittimus quod in nobis quisque peccavit. Minus enim magnum est erga eum esse benevolum, qui tibi nihil mali fecit; illud multo grandius, ut tuum etiam inimicum diligas et ei qui tibi malum vult et, si potest, facit, semper bonum velis faciasque quod possis ». « Quod ergo Dominus ait: *Date eleemosynam, et omnia munda sunt vobis*; ita intellecturi sumus, ut non credentibus in Christum munda sint omnia, si eleemosynas istas dederint ». « Qui enim vult ordinate eleemosynam dare a se debet incipere et eam primum sibi dare ».
 
-            terius poenitentia.                            Quod eliam                       auctorilalibus                  astruere              riam Dei           ,        nt de           caeco nalo; vel ad initium poenae, Oubinm 4.
-            conanlur. Ait enim Propheta '                                               :    Non iudicabit Deus bis                               ut Herodi, qualenus hic videalur, quid in inferno se-
-obinm 1.    in id ipsum, vei ul                                     alii    Iranslulerunt           Non consuryet
-                                                                                                            :                                     qualur, secundum                                 illud \-        Dupiici contritione contere
-            duplex trihulatio.                             Si       ergo, inquiunt                         illi,   aliquis sacer-                 eos, Domine.      ergo auctoritas Nahum non cogit nos
-                                                                                                                                                                                    « Illa
+### Cap. V. *Quid sit eleemosyna.*
 
+« Est enim eleemosyna opus misericordiae, verissimeque dictum est: *Miserere animae tuae, placens Deo*[^16] ». « Non ergo se fallant qui per eleemosynas largissimas fructuum suorum vel pecuniae impunitatem se emere aestimant, in peccatis permanentes, quae ita diligunt, ut in eis optent versari. Qui vero diligit iniquitatem odit animam suam, et qui odit animam suam non est ei misericors, sed crudelis. Diligendo quippe eam secundum saeculum, odit eam secundum Deum. Si ergo vult ei dare eleemosynam, per quam fit munda, odiat eam secundum saeculum et diligat eam secundum Deum ». Hac eleemosyna, quam sibi homo primitus debet, mundantur interiora. Ad quod hortans Christus ait: *Mundate quae intus sunt. Immundis enim nihil est mundum; sed polluta sunt eorum mens et conscientia,* ut ait Apostolus. Immundi vero sunt omnes, quos non mundat fides, qua creditur in Christum; de qua scriptum est: *Mundans fide corda eorum.* « Sed ne istas eleemosynas, quae fiunt de fructibus terrae, respuere Christus videretur; *haec,* inquit, *oportuit facere,* scilicet *iudicium et caritatem Dei, et illa non omittere,* id est eleemosynas fructuum terrenorum[^17] ».
 
-            doti fuerit confessus                                   unum de duobus vel pluribus pec-                                              sentire, omnia quae temporaliter puniuntur, non ulte-
-            catis et             de     iilo          iniunctam               sibi          a saccrdote satisfactio-                              rius a       Deo punienda ».
-            nem expleverit,                               ceteris           lacitis ;            non pro             illo   peccalo
-            ainplius iudicandus est, de                                           quo salisfecit ad arbilrium
-                                                                                                                                                                                                         Cap.       III.
-            sacerdotis,                  qui              vicem Christi                     in    Ecclesia gerit. Ideo-
-            que,       si        de eo iterum iudicetur, bis                                               in   id    ipsum          iudi-
-probaiur.   cat Deus, cl consurgct duplex tribulalio.                                                                — Sed            «   dc      De Aegyptiis et SodomitiSj qui temporaliter dicuntur
-            his    tanlum oporlet illud intelligi, qui praesentibus sup-                                                                                                 punirij ne in aeternum perirml.
-                  commutantur in bonum et sic perseverant, su-
-            pliciis
+### Cap. VI. *Utrum in mortali peccato permanentes et largas eleemosynas facientes debeant dici satisfacere.*
 
-            per quos non consurget duplex tribulatio. Qui vero                                                                                            Nam etsi super eundem locum Hieronymus dicat,
-            inler flagella duriores et deleriores tiunl, ut                                                               Pharao",                Aegyplios   et Israelilas a Deo lemporaliter puoitos, ne
-            praesentibus aeterna conneclunt, ut temporale suppli-                                                                                 in  aeteruum punirentur; non esl latnen de omnibus
-            cium       sil        eis           ac.ternae              poenae               initium.            Unde Augusti-                     generaliter intelligendnm. Ait enim sic *   « Quod genus meronymas.                          :
+Ex his datur intelligi, quod in peccato mortali permanentes, etsi eleemosynas largas faciant, non tamen per eas satisfaciunt, quia inordinate agunt, dum a se non incipiunt. Nec proprie dicitur eleemosyna tale opus, dum sibi ipsis crudeles existunt, non placentes Deo. Non igitur dicenda est illa peccati satisfactio, quam quis agit pro uno peccato, dum perdurat in altero; quia « nihil prodest ieiunare et orare et alia bona agere, nisi mens revocetur a peccato[^18] »: et si aliquando conversus tacitum peccatum sacerdoti fuerit confessus, de utroque imponenda est ei satisfactio, quia de primo condigne non satisfecit.
 
+Quibusdam tamen videtur fuisse satisfactio, sed infructuosa, dum in peccato altero persistit; percipietur tamen fructus eius, incipietque proficere, cum peccati alterius poenituerit. Tunc enim utrumque dimittitur peccatum, et satisfactio praecedens vivificatur, quae fuerat mortua; sicut baptismus illi qui ficte accedit, tunc primitus valet, cum fictio a mente recedit per poenitentiam. Et in huius opinionis munimentum auctoritates inducunt. Ait enim Augustinus[^19]: « Pium est credere, et nostra fides expostulat, ut, cum gratia Christi in homine destruxerit mala priora, etiam remuneret bona; et cum destruxerit quod suum non invenit, diligit bonum, quod in peccante plantavit ». Item, Hieronymus[^20]: « Si quando videris, inter multa peccata quemquam facere aliqua iusta opera; non est tam iniustus Deus, ut propter multa mala obliviscatur paucorum bonorum; sed faciet, eum metere et in horrea congregare quae in bona terra seminavit[^21] ». — Sed haec dicta intelligimus de illo qui in caritate quodam tempore bona facit et bonus est, alio vero tempore malus est et multa peccata facit. Non ergo intelligendum est, eum inter multa peccata iusta opera fecisse, quasi simul eodemque tempore peccata fecerit et iusta opera, sed diversis temporibus utraque fecisse. Nisi enim bonus foret, quando bona fecit, non seminasse in terra diceretur bona. Destructis ergo malis post opera bona commissis, priora bona, in caritate scilicet facta, quae mala sequentia mortificaverant, poenitentia de illis malis habita vivificantur et remunerantur. Unde Apostolus[^22]: *facientes fundamentum poenitentiae ab*
 
-  Giossa.   nus:       Ignis             succensus                    est    elc.           —     id        est, vindicla hic                     humanum diluvio, Sodomitas igne, Aegyptios mari,
-            incipiel             —      et           ad extremam damnatio-
-                                                    ardebil usque                                                                                 Israelilas in eremo perdidit, scitote ideo temporaliter
-            nem.Yioc contra                    notandum est, qui dicunt, ilhul,
-                                                          illos                                                                                   pro peccatis punisse, ne                                    iu     aeternum puniret », quia
-            scilicet :           Non iudicabit Deus bis in id ipsum, ad omnia                                                                     non iudicabil Deus bis                                   in       id     ipsum. Qui ergo puniti
+<!-- page 348 -->
 
+*operibus mortuis*; opera mortua nominans, priora bona significat, quae per sequens peccatum erant mortua, quia hi peccando priora bona irrita fecerunt. Haec sicut peccando fiunt irrita, ita per poenitentiam reviviscunt et ad meritum aeternitatis prodesse incipiunt. Similiter et illud bonum amat Deus, quod plantavit in peccante, in illo scilicet, qui post illud bonum peccavit, non simul peccans et bene operans exstitit; quia talis hominis opus non diligeret Deus ad remunerationem.
 
+### Cap. VII. *Utrum bona, quae fiunt ab aliquibus malis, valeant ad meritum vitae, cum fuerint ad bonum conversi.*
 
-                   '   Vers.           1.       Cfr.      ibid.      22, 20,       ct       i.   Paralip. 2, 7.             Vide Au-              non.    —     Inferius ante                  a sacerdote cdd.                ,   e.xcepta             I, inlerserunt
-            giisl.,    Qq.        in     losue            9,    8.     Cum        codd. scribimus                     Achor, quod                 poenitcntiam,               et      pro satisfactionem ponunt satisfactione, refra-
-            secundum Hieron.. de Hebr. Nominib. ex libr. losue, significit                                                                        gnntibus codd.                ,
-                                                                                                                                                                                     quorum tnmcn cod. D hahiit poenitentiam pro
-            turbationem vel tumuUiim. Ctr. Petr. Comeslor, Histor. scliolasl.                                                                     satisfactioncm.
-            libri losue, c. 6: Poiro Achor vel Aclinr [alias Achim], fllius                                                                               2   Cfr.       Exod.           c.   7.   soq.   — Totus              hic locus suintus est                      ex
-            Charmi etc.                                                                                                                           Gratiano super C. Sunt ptures                                   (.f2.),   de Poenitentia dist. 3. §                      I,
+Potest etiam accipi de operibus bonis, quae ab aliquo fiunt, dum malus est et in peccato mortali persistit vel ad tempus, vel usque in finem; quae dicuntur remunerari a Deo et non dari oblivioni, non quia proficiant ad vitam aeternam obtinendam, sed ad tolerabilius extremi iudicii supplicium sentiendum; sicut de fide et ceteris, quae sine caritate habentur, Augustinus[^23] ait: « Si quis non habens caritatem, quae pertinet ad *unitatem spiritus et vinculum pacis,* quo Ecclesia connectitur, in aliquo schismate constitutus, ne Christum neget, patitur tribulationes, famem, persecutionem, vel flammas, vel bestias, vel ipsam crucem timore gehennae; nullo modo ista culpanda sunt, immo et haec laudanda est patientia. Non enim dicere poterimus, melius ei fuisse, ut Christum negando nihil horum pateretur, quae passus est confitendo; sed aestimandum est, fortasse tolerabilius ei futurum iudicium, quam si, Christum negando, nihil horum pateretur, ut illud quod ait Apostolus: *Si tradidero corpus meum, ita ut ardeam, caritatem autem non habuero, nihil mihi prodest,* nihil prodesse intelligatur ad regnum obtinendum, non ad extremi iudicii tolerabilius subeundum supplicium ». Et infra[^24]: « Haec propter caritatem dicta sunt, sine qua in nobis non potest esse vera poenitentia, quoniam in bonis caritas Dei est quae tolerat omnia ».
 
-                   ^   Petr.           Comestor,               Histor.        seholasl.            II.      Reg.     c.   23.    in       ad-     et   ex C. Ignis succensus est (iS.), ibid. Lociis Scriplurae                                                           est
-            ditionc         1.    ait:      Hebraeus                 dicit sic:         lam Dominus sumsit vindi-                                 Deut. 32, 22; cuius explicatio est sccundum sensum in Giossa
-            ctam de David propler mortem Uriae                                                    in       persecutione         filii     sui     ibid.   apud Lyranum, qui pro Augustino citat Gregorium, XVIII.
-            Ab.salom, sed                   nondum dc populo                            ct       jirincipibus,            qui   ei        non     Moral.      e.     22. n.          3-5.     —    Ibi   post incipiet ed.                I   addit in lacob et
-            coniradixerant; unde modo voluil vindicare conlra Isrnol, id est                                                                      cecidit in Israel (alludcns                            ad      Isai.    9,   8.).
-            conlra popiilum elc.                                                                                                                          3   ler.       17, 18.              Superius respicitur lob                         I,       12.   seqq.;       II.
+Ex his ostenditur, bona, quae sine caritate fiunt, prodesse quidem ad tolerabiliorem poenam sentiendam, sed non ad vitam obtinendam. Illa etiam, quae in caritate quis facit, si postea prolapsus fuerit nec exsurrexerit, non esse in memoria Dei, Ezechiel[^25] dicit: *Si averterit se iustus a iustitia et fecerit iniquitatem, nunquid vivet? Omnes iustitiae eius, quas fecerat, non recordabuntur; in peccato suo morietur, et non erunt in memoria iustitiae, quas fecit.* In cuius loci expositione Gregorius ait: « Hoc nobis maxime considerandum est, quia, cum mala committimus, sine causa ad memoriam transacta bona revocamus, quoniam in perpetratione malorum nulla debet esse fiducia bonorum praeteritorum ». — Intelligendum est hoc, ad vitam percipiendam bona praeterita non dare fiduciam, etsi ad mitiorem poenam alioquin praemissae auctoritati Augustini obviaret. Et bona igitur sine caritate facta, et bona in caritate facta, quae comitatur mortalis culpa, quam non delet sequens poenitentia, ad sensum mitioris poenae proficiunt, non ad vitae fructum.
 
-                   3   Cfr.       Gregor., .\XV. Moral. c. 16. n. 35.                                           — Edd. et sevcvi-                 Cor. 12,7; .Num. 12, 10; loan. 9, 3; Act. 12, 23. Haec do
-            tate. -— Idem diib. solvit B. Albert., hic a.                                        34    ;   S. Thom., hic circa lil.               quinque modis flagellorum siimta sunt ex Beda in Matlh. 9, 4.
-                                       NOTAE AD LIBR. SENTENTIARUM.                                                                                       *   Loc.       cil.       in    .Nahum;         cfr.    Gen. 7, 41;                 19,24;           E.xod. 14,
-                   '   iVahum               I
-                                                ,    9.   — Supra post ayendam codd. BD (AG                                                 a     28; i\um. II, 33. Hoc fere totum capiluliim                                                 et        iillima     propo-
-            secunda manu)                       ct ed.          I    omiliunt           non putant,                  cod.   E    omittit          silio   praecedenlis                   sumium est ex Gratiano                       ,   cil.     C.    Sunt pliires.
-                                 S. Bonav.                — Tom. IV.                                                                                                                                                                                      44
-                                                                                                                                                :
+Satis arbitror illis esse responsum, qui asserunt, de uno crimine poenitentiam agi et veniam praestari, alio in delectatione retento, vel per confessionem non exposito; qui non modo praemissis auctoritatibus confutantur, sed et subditis. Ait enim Augustinus[^26]: « Sunt plures, quos poenitet peccasse, sed tamen omnino reservantes sibi quaedam, in quibus delectentur, non animadvertentes, Dominum simul *mutum et surdum* a daemonio liberasse, per hoc docens, nos nunquam nisi de omnibus sanari. Si enim vellet peccata ex parte reservari, habenti *septem daemonia,* manente uno, proficere potuit, sex expulsis. Expulit autem septem, ut omnia crimina simul eiicienda doceret. *Legionem* vero daemonum ab alio eiiciens, nullum reliquit de omnibus, qui liberatum possideret, ostendens, quod si etiam peccata sint mille, oportet de omnibus poenitere. Nunquam aliquem sanavit Dominus, quem non omnino liberavit. Totum enim hominem sanavit in Sabbato, quia et corpus ab omni infirmitate et animam ab omni contagione; indicans, poenitentem oportere simul dolere de omni crimine. Scio enim Dominum inimicum omni criminoso. Quomodo ergo qui crimen reservat de alio reciperet veniam? Sine amore Dei consequeretur veniam, sine quo nemo unquam invenit gratiam. Hostis enim Dei est, dum offendit perseveranter. Quaedam enim impietas infidelitatis est ab illo qui iustus et iustitia est, dimidiam sperare veniam; iam enim sine vera poenitentia inveniret gratiam. Poenitentia enim vera ad baptismi puritatem conatur adducere. Recte enim poenitens, quidquid sordis post purificationem contraxit, oportet ut abluat, saltem lacrymis mentis; sed satis durus est cuius mentis dolorem oculi non declarant. Sed sciat, se culpabiliter durum, qui deflet damna temporis vel mortem amici, et dolorem peccati non ostendit in lacrymis. Quem ergo poenitet, omnino poeniteat ». Idem[^27]: « Poenitentes, si vere estis poenitentes et non estis irridentes, mutate vitam, reconciliamini Deo! Poenitentiam agis, genua figis et rides; subsannas patientiam Dei. Si poenitentiam agis, poenitet te; si non poenitet te, non es poenitens. Si ergo poenitet, cur facis quae male fecisti? Si fecisse poenitet, noli facere; si adhuc facis, certe non es poenitens ». Item Innocentius secundus[^28]: « Admonemus fratres nostros, ne falsis poenitentiis laicorum animas
 
+<!-- page 349 -->
 
+decipi et in infernum pertrahi patiantur. Falsam autem poenitentiam esse constat, cum, spretis pluribus, de uno solo poenitentia agitur; vel cum sic agitur de uno, ut non discedatur ab alio ».
 
+Ex praemissis perspicua fit notitia verae poenitentiae et satisfactionis. Illa enim vera est poenitentia, quae peccatum abolet; quod illa sola facit, quae scelus corrigit; illa vero scelus corrigit, quae odium commissi criminis et committendi cum desiderio satisfaciendi affert. Iudas enim poenituisse legitur sine assecutione veniae, quia tali poenitentia non correxit crimen. Unde Hieronymus[^29]: « Nihil Iudae profuit egisse poenitentiam, per quam scelus corrigere non potuit. Si quando frater sic peccat in fratrem, ut emendare valeat quod peccavit, potest ei dimitti; sin autem permanent opera, frustra voce assumitur poenitentia; hoc est quod de eodem infelicissimo dicitur: *Et oratio eius fiat in peccatum*; ut non solum emendare nequiverit proditionis nefas, sed proprii homicidii scelus addiderit ». — Cave, qualiter intelligas illud: « Ut emendare valeat quod peccavit » etc. Non enim *emendatio* hic intelligenda est rei demptae recompensatio, sed delicti exprobratio et abominatio cum satisfactionis desiderio. Demit enim iniuste quis alicui quod restituere non valet, ut oculum vel vitam et huiusmodi; et tamen, si poenituerit peccati cum amore condignae satisfactionis, veniam habet. Nec ideo quisquam putet, qui rem alienam iniuste abstulit, quam reddere potest, de illo peccato poenitere ac veniam consequi, nisi restituat ablatum. « Quamdiu enim res, propter quam peccatum est, non redditur, si reddi potest, non agitur poenitentia, sed fingitur[^30] ».
 
-               346                                                                                                    SENTENTIARUM LIB. IV.
-
-               sunt        poslea              iion        punienlur;                alioquin                menlilur Scri-                         spondemus, Deum,                           ut     omnium rerum, ila supplicio-
-               plura, quod nefas esl dicere.                                                                                                        rum (juoque                    scire       mensuras         ;        et   non praeveniri sen- Dnhiuil;,
-                    Altende, lector, liis verbis et cave, ne de omni-                                                                               lentiam iudicis, nec       peccatorem exerccndae de-
-                                                                                                                                                                                               illi   in
-
- Eipiicatio.   bus generaliter intelligas,                                    «   sed de his tantum, qui in-                                        hinc poenae auferri polestalem   el niagnum peccatum             ;
-
-
-
-
-               ter     ipsa          tlagella              poenilentiam egerunt,                                     credentes            in        magnis diuturnisque lui crnciatibus. Si quis vero pu-
-               Deum Hebraeorum; quam, etsi brevem et momenla-                                                                                       nitus sit, ul             ille     qui Israehlae maledixerat ', et qui in
-
-               neam, lamen                       non             respuit Deus' ».                     Quod aulem qui                                Sabbato ligna collegerat, tales poslea non puniri, quia
-               per lemporale tlagellum non corriguntur posl acterna-                                                                                culpa levis praesenti supplicio compensala sil ». Levis Dabio;
-               liler punianlur, ibidem oslendil, agens de lideli de-                                                                                enim culpa levi supplicio compensalur.     Hic salis in-                        —
-               prehenso              in     adullerio,                  qui       decoUalur              ;       ubi        ostendit,               nuit Hieronymus, gravia peccala el hic puniri gra\i
-
-               levia peccala brevi et lemporali supplicio pui-gari, ma-                                                                             supplicio et in fuluro punienda aelcrnaliler de qui-                                     ,
-
-
-
-
-            gna vero diutumis aelernisque suppliciis reservarl, ita                                                                                 bus poenilcntia non agilur iiiter flagella  levia vero,                          ;
-
-
-
-
-Hieronymus. inquiens
-                     -  «Quaerat hic aliquis, si fidelis deprehen-
-                                     :
-                                                                                                                                                    quae hic puniunlur, levi poena compensationem reci-
-            sus in adullerio decolletur, quid de eo poslea fiat?                                                                                    pei'e ;      quod        in     bonis       fieri      non ambigimus,                  et in malis
-
-               Aut enim punielur, et falsum est quod dicitur: Non                                                                                   forle       eliam        fit    ila.   —      Satis      iam apparet, quod                       illi    de
-               iudicabil Deus bis in id ipsum ; aut non punielur,                                                                                   propbelia induxerunt non facere pro                                           eis qui dicunt, ei
-
-               et oplandum est ndulteris, ut hic brevi poena pu-                                                                                    qui crimen sibi reservat, de alio veniam praestari per
-
-               nianlur, nt frustreniur cruciaUis aelernos. Ad quod re-                                                                              poenitenliam.
-
-
-
-                                                                                                                                          Pabs      II.
-
-
-
-
-                       Alias             quoque auctoritales inducunt. Ait enim Gre-                                                                cumulasset tormentum. Si vero ad indulgentiam reatus
- Gregorins.    gorius       *   :    « Plint Doniinus super unam dvilatem el su-                                                                    pluvia        referatur,               evangelicae sentenliae contraire                                  vi-
-
-               per alleram non pluit, et eandem civitatem ex parle                                                                                  debilur. Si              enim          propler          immisericordiam, qua quis
-               compluit              ct    ex parte aridam relinquit. Cuni ille qui                                                                 proximo suo non miserelur, etiam quae dimissa sunt
-               proximum                                                  una eadem-
-                                         odil, ab aliis viliis se corrigit,                                                                         replicanlur ad poenam      muilo magis quae nonduni
-                                                                                                                                                                                                      ;
-
-
-
-
-           que         civilas ex parle                            compiuilur                  et    ex parte arida re-                             sunt dimi.ssa propler odium fraternum ad poenam re-
-
-           manet; quia sunt quidam, qui cum quaedam vitia i'e-                       ,
-                                                                                                                                                    servari probantur. Et si ille « qui arbiler suae volunta-
-
-Ambrosius. seccnt, iu aliis graviter perdurant ». Item Ambrosius
-                                                                                                                                           =^
-                                                                                                                                                    tis   coustilutus est, non polest inchoare                                       novam vilam,
-           « Prima consolatio est     quia non obliviscitur misereri,
-                                                                                                                                                    ut ait Auguslinus ", nisi poeniteat                                       eum    veteris vitae; .\ugasl s
-
-            Beus »; « secunda, per punitionem, ubi, etsi fides de-                                                                                  quomodo ad novitalem indulgentiae perveniet qui odii
-            sit, poena satisfacit et relevat».    Ratione quoque                                    —                                               vetustatem non deposuit? »                              —
-                                                                                                                                                                               Illud eliam quod Ambro- Espliii
-                                                                                                                                                                                                                                                                   Aoiijros
-                               Si is qui unum peccatum confitelur,                                                                                  sius      ait :     «   Elsi fides desit,                poena            salisfacit »       elc, non
-  Ratio eo- uluntur diccntes                          :
-
-
-   '''"°'
-               altero tacito, salisfactionem a sacerdole iniunctam ex-                                                                              de fide        inlelligilur,               qua creditur in Deum, sed de con-
-               pieverit, nunquid et,                                si    peccatum                   tacilum                conversus               scientia delicli. Deest                      enim fides, cum peccali conscien-
-               fuerit        confessus,                     pro          ulroque              ei    poenitentia impone-                             tia     non subesl.               Nam cum delicta omnia nemo intelli-
-               tur? Longe hoc videlur a ratione el Ecclesiae consue-                                                                                gat, est aliquando in                         homine peccatum, cuius non ha-
-               tudine, quae pro eodem peccato, nisi reitereiur, nulli
-                                                                                                        "^
-                                                                                                                                                    bet conscientiam.                      Unde Ai)Os\Qh\s: Nihil mihi conscius
-               his poenitenliam imponit. Fuit ergo                                                    illa        peccati condi-                    smyi, sed               non in hoc iustificatus sum. Cum igilur quis
-               gna salisfactio, unde                                et    peccalum deietum videlur.                                                 flagellatur             pro peccalo, cuius                      lion est conscius,                si     pa-
-
-                       His responderi                              potesl         sic.       IlUid Gregorii                  :    «    Phiit        tienter       fL'rt      poenam et humililer ampleclitur cogilans,
-  Avcionta-    Dominus «    etc, non ad criminis veniam, sed ad ope-                                                                                sc forte peccalum habere, quod non intelligil, el pro eo
-
-                   peccali' deserlionem referendum est, ut ideo pars                                                                                puniri a De.o , poena                        illa      satisfacit et i-elevat gravatum.
-ptolfJ."^' i'is
-               civitatis dicatur complni, quia ab aclu et deleclatione                                                                                       Ad hoc autem, quod obiicitur de salisfaclione illa:                                                     Refe
-                                                                                                                                                                                                                                                                   ratio   I
-
-
-
-               peccati, cui                     ante             serviebat,          modo cessat; non quod                                          Si satisfactio                 non     fuil,      iterum imponenda est;                          si     vero dicla.
-
-                veniam habeat. Vocaturque pluvia illa talis co7i-
-               eius                                                                                                                                 iterum imponenda non est, satisfaclio fuit; et si satis-
- Daiium i. tinenlia, qua ab opere peccali revocatur, quia ex fonte                                                                                             veniam impetravit responderi polest, sa-
-                                                                                                                                                    factio fuit,                                                    ;
-
-
-
-
-               graliae Dei id cordi instiilatur, ui vel sic paulalim ad                                                                             tisfaclioncm non fuisse", qnvAxWa dignosfructus poeni-
-               poenitentiam veniat, vel eo niinus a Deo puniatur qui                                                                                tentiae       non fecit.               «   Est enim satisfaclio poenitentiae, ut Genna
-               diuturniori delectatione ct actu peccali maius sibi ac-                                                                              ait Augustinus'", peccatoruni causas cxcidere nec sugge-
-
-
-
-
-                       1    Ex C. Sunl plures, pag. 343 in noia                                              2.      cit.                                   5    Edd. 3, 7, S non bene ne; pro reilerctur edd. I, 3 ile-
-                       -    Hieron.,            loc.        cit.    parum                  Quaerat hic ali-
-                                                                                   inferius;            C.                                           rettir.     —  Kaiio a defensoribus huius erroris adducta scil. con-                        ,
-
-
-
-
-                quis (44.), ibid.                —        Ilji    post frustrentur edcl. 2, 3, 7,8 addunt                                            suctudo Ecclosiae, non constat.
-                ibi,   sed          I,    4,    .5,    9    perperam in,                     i-efragante originali.
-                                                                                                                                                            "
-                                                                                                                                                                 Vat.       cum      paucis edd. pravi.                   — Tota    seq.     inlcrpreiatio
-
-                       2    Cfr. Levit.               24,        14, et de          violationo               Sabbati         Num.         13,        ferc ad litieram excerpta est ex Gratiano super C. Quaeral kic
-                3b. Superius post punitus sii cdd.                                       ,    e.xcepla       I
-                                                                                                                 ,    addunt iempo-                  aliquis (44.), ibid. Verba « evangelicae seuientiae » respiciunt
-                raliter , refragante cliam originali.                                                                                                Mntth. 18, 32.
-                       ^    Libi'.        I.   in     Ezoch. Iiom. 10.                   n.     23; verbolenus                    C.     Piuit              Sermo 331, (alias hom. 30.) c. 2. n. 2.
-                                                                                                                                                            8                                         In sequenlibus                —
-                Domimis (40.), de Poenitentin d. 3. Locus Scriplurae est .'\mos 4,                                                                   respicitur Ps.18, 13, et Rom. 14, 23; deindo I. Cor. 4, 4.
-                7, ubi Vulgata plui pro pluit.                                                                                                            ' Vat. cum paucis codd. non ideo fuisse, aliae cdd., exce-
-
-                           5 In     Ps.        ItS. sermo 13. n. 3; respicitur Ps. 76,                                           ,10.    Soq.        ptis 1, i,ideo non.                   —
-                                                                                                                                                                             Respiciiui' Matth. 3, 8.
-
-                locus ibid. n. 2; C.                        Prima consolaiio (41.), ibid.                                        „:;,|   ,.]
-                                                                                                                                                            1"   (Gcnnad.)de Ecclesiast. Dogmatibus, c. 24; C. Satisfactio
-                                                                                                                                         ;,
-
-
-
-
-                                                                                                                           DISTINCTIO XV.                                                                                                                                             347
-
-jiinaB.   stionibus eaiMim adiliim iiKlulgere ». Idein                                                     :       «    Sane qui              qua           scriptum                       est         :    Mundans fide corda eorurn.                       « Sed
-
-          scelerale vivunt nec curant talein vitam morcsque cor-                                                                              ne istas                 eleeinosynas, quae                                         fiuiit      de fruelibus terrac,
-          rigere et inler ipsa facinora sua elecmosynas frequen-                                                                              rcspuere Christus videretur;                                                         haec, iiiquit, oporluit fa-
-
-          lare non cessant, frustra ideo sibi blandiuntur, quia                                                                               cere , scilicet iudicium et caritatem                                                                 Dei,               et     illa        non
-          Doniinus ait Dale ekemosijnmn, el ecce omnia muncla
-                                             :                                                                                                omittere, id est eleemosynas frucluuin terrenorum ^ ».
-          sunl vobis. Hoc enim quam late |)ateat, non intelli-
- m 2. gunt ».                  «   Multa enim sunt genera eleemosynarum, quae                                                                                                                                      C.\p.         VI.
-
-          cum facimns, adiuvamur. Non solum enim qui dat esu-
-          rienli            cibum,                sitienli          potum           el    huiusmodi            ;   scd etiain                          Utrum in mortali peccalo permanentes et largas
-          qui dat veniam petenti eleemosynain dat                                                      ;   et qui           emen-                          eleemosynas facientes debeant dici satisfacere.
-          dat           verbere                  in    quem             potestas datur, vel                    coercet                ali-
-
-          qua disciplina vel orat, ut ei dimitlatur peccatum
-                                                  ,                                                                                                        Ex his dalur inlelligi, quod                                                       iii    peccato                   mortali Dubinm 6.
-          eleemosynam dat, quia misericordiam praeslat».                                                                                      permancnles,                            etsi                 eleemosynas largas faciant, non                                                 la-
-
-                                                                                                                                              inen per cas .salisfaciunt, quin inordinate agunt,                                                                                      dum Dabium 7.
-                                                                        C.\p. IV.                                                             a se non iiicipiunl. Nec proprie dicitur eleemosgna tale
-                                                                                                                                              opus,          dum sibi ipsis crudeles existunt, non placentes
-                                                  De generibus eleemosynae.                                                                   Deo.          Non          igilur                        dicenda              est        illa    peccati satisfactio,
-                                                                                                                                              quam quis agit pro uno peccalo, dum perdurat in al-
-                        «   Multa cnim bona praestantur invitis, quando eo-                                                                   tero      ;
-                                                                                                                                                            quia             «       nihil                 prodest               ieiunare           et        orare et alia
-am3. i'iini             consuliturnon volunlati ' ». « Sed ea
-                                                        utilKati           et                                                                 bona agere,                        nisi                  inens rcvocetur a peccato*»:                                                  et
-tmos.           .          .....
-      maior est, qua ex corde dimitlimus quod in nobis quis-
-                                                                                                   ,   .                ...                   aliquando conversus tacitum peccalum sacerdoti fuerit
-                                                                                                                                                                                                                                                                                               si
-
-
-
-          que peccavit. Minus enim                                               magnum est erga eum esse                                     confessus,                     de             utroque                  imponenda                      est       ei           salisfactio,
-
-          benevolum, qui                                tibi       nihil mali            fecit; illud          multo gian-                    quia de primo coadigne non                                                           salisfecit.
-
-          dins, ut luum etiam iuimicum diligas ct ci qui tibi                                                                                              Quibusdam tamen videlur                                                       fuisse          satisfactio,                     sed opinio qno-
-                                                                                                                                              .   f.                             ,                 .                               ,
-                                                                                                                                                                                                                                                          .        .                  .    .         rundam.
-          malum vult et, si ])otesl, facit, semper boniini velis                                                                              infrucluosa, diim in peccalo altero persislit;                                                                                 percipie-
-          faciasque quod possis ». « Quod ergo Dominus ait:                                                                                   tur tamcn h-uclus eius, incipietque proticere, cuin pec-
-          Date eleemosynam, et omnia munda sunt vobis ; ita                                                                                   cati allcrius poenituerit. Tunc enim utrumque diinitti-
-
-          inteilecturi                   suiniis ,                 ut      non credentibus in Clirislum                                       tur peccatum, et satisfaclio praecedens vivilicaliir, quae
-
-          munda                sint              omnia,             si      eleemosynas istas dederiiit ».                                    fuerat mortua    sicut baplismus illi (iiii ficle acccdit,
-                                                                                                                                                                                      ;
-
-
-
-
-jm 4.     «    Qui eniin vuit                            ordinate cleemosynam darc a se                                               de-     tunc primitus valel, cum ticlio a mente rccedit per
-          bet incipere et                              eam primum sibi dare ».                                                                poenitentiam. Et in                                            huius           opinionis               munimentum au-
-                                                                                                                                              ctoritates inducunl. Ail eiiiin Augustinus                                                                  « Pium est Augustinas.
-                                                                                                                                                                                                                                                              ^*
-                                                                                                                                                                                                                                                                       :
-
-
-
-
-                                                                         Cap. V.                                                              credere, et noslra fides expostulal, ut, cuin gralia Chri-
-                                                                                                                                              sti     hominc deslruxeril mala priora, eliain remune-
-                                                                                                                                                       iu
-
-                                                         Quid sit eleemosyna.                                                                 ret         et cum deslruxerit quod suum uon invenit,
-                                                                                                                                                       bona        ;
-
-
-
-                                                                                                                                              dillgit bonum, quod in peccante plantavit ». Ilem, Hie-nieronymus.
-
-                        «   Est enim eleemosyiia opus misericordiae, veris-                                                                   ronymus": « Si quando vidcris, inter mulla peccala
-itinns.   simeque dictum                  est  Miserere animae tuae , placens
-                                                               :                                                                              quemquam facere aliqua iusla opera; non esl lam in-
-jm 5. Deo - ».                 «    Non ergo se fallant qui pcr eleemosynas lar-                                                              iuslus Deus, ut propier miilla inala                                                                  oi)liviscaUir                    pau-
-          gissimas                 frucluum suorum vel pccuniae impunitatem                                                                   corum bonorum                                    ;   sed faciet,                    eum inetere et in liorrea
-          se   emere aesliinanl,                                   in     peccatis perinanenles, quae ila                                     congregare                     qiiae                     in        bona            lerra      seminavit ».                       — Sed                improbaiur.
-
-          (liligunl,               ut in eis oplent                             versari.      Qui vero diligit                        ini-    liaec dicla intelligiinus                                            de       illo       qui in caritate                        quodam
-          quitatem odit animam suam, et qui odit                                                       animam suain                           tempore bona                                facit             et     boiius          cst,       alio            vero            lempore
-          non       esl ei          miscricors,                          sed crudelis. Diligendo quippe                                       malus csl et                           inulta                 peccata              facit.       Non ergo intelligen-
-          eam secunduin saeculum, odit eam secundum Deum.                                                                                     dum est, eum intcr mulla peccata iusta opera fecisse,
-          Si   ergo vult ei dare eleemosynain, per quani fit munda                                                                            qiiasi        simul codemque lempore peccala fecerit et iusta
-          odiat  eam secundum saeculum ei diligat eain secun-                                                                                 opera, sed                     diversis                        lemporibus ulraque fecissc '. Nisi
-          dum Deum ». Hac eleemosyna, quam sibi homo pri-                                                                                     enim          bonus                    foret,                 quando bona feeit, non seminasse
-          niiUis debel, inundanlur interiora. Ad quod hortans                                                                                 in lerrn        dicerelur boiia. Deslructis ergo malis posl opera
-          Ghristus ait Mundale quae intus siint. Immundis enim
-                                         :                                                                                                    bona cominissis,                    bona, in carilate scilicet fa-
-                                                                                                                                                                                                   priora
-          nihil est mundum; scd pollttta sunt eorum mens et                                                                                   cta, qiiae                     mala inortificaverant poenilenlia
-                                                                                                                                                                        scqiientia                                                                                 ,
-
-
-
-          conscienlia, ul ait Aposlolus. Immiiiuli vero sunt omnes,                                                                           de illis         malis habila vivificantur et remunerantur. Unde
-          quos non mundal fides, qua creditur                                                     in   Clirislum                  ;    de     Apostolus "                :           lacientes                     fundamentmn                       poeiiilentiae                         ab
-
-
-
-          poenitentiae              (3.),             ibiil.   Seq. locus est .\ug(ist., Encliiritl.                             c.   ~o.              3    Ibid.       c.       76. n. 20, et respicimr Luc.                                         11,          42.
-
-          n.   20, ubi citatuf Luc. 11, 41                                  ;    tertius ihU\. c. 72. n. 19, ubi re-                                   *    Can.        Nihit                  prodest             (21.),        ibid.    —       Inlerius                 inierpi-claiio
-
-          spicitur Matlti. 25,                           37. seqq.                                                                            quorundam sumla est fere ad verbuin c,\ Graiiano in C. Qurtc-
-                    '       .Vugust., ibirl.; .scq. locus ibid. c. 73. n. 19. (clV.                                       111.    Seiil.      rat hic aliquis (44.),                                       ibid.
-
-          d.   XXX. lil. Magistri); lerlius ibid. c. 7.5. n. 20; quarlus ibid.                                                                         =    De Vera etfalsa Poenitentia liiiteropera .\ugust.), c.                                                             1   1. n. 29.
-
-          c.   76. n. 20.                                                                                                                              ^    CommenL in .\ggaeum           6.                            1    ,
-
-
-
-                    -       Ibid.; soq. lociis ibid. 77. n.                         20; in prinio cilatur liccli. 30,                                  7    Codd.         BCDE et ed.                               I   cijissc.
-
-          24,       in       secundo              Ps.    10, 6.         — Etiam quao scquunlur secundum                                                8    Hebr. 6,                      I.    Inferius pro bene                        operans cod. C                        et     edd.,
-          senlenliiim ibid. c. 76. n. 20. inveniuntur, ubi cilatur                                                     .Miitlh.       23,     excepla         I,       bonuni opc.rans.                            —    'lola lioec explicatio excerpta                                    est
-
-          26, et Tit.               I,           13; deinde              .\cl.    1-5,   9.                                                   ex Graliano super C. Inter mitlentcs                                                       (19.),     de Poenilcnlia                    d.       4.
-                                                                                                                                                      ,
-
-
-
-
-               348                                                                                                SENTENTIARUM LIB. IV.
-
-               operibus              morhiis ;                     opera        morlua              nominans,                         priora              memoriam Iransacla bona revocamus, quoniam in per-
-               bona significat, quae per sequens peccalum eranl mor-                                                                                      pelralione malorum nulla dcbet esse flducia bonorum
-
-               tua, qnia lii peccando priora bona irrita fecerunt.                                                                                        praeterilorimi ».                — Inlelligcndum                 esl hoc,         ad vilam per- Dabios
-               Hacc sicut peccando fiunl irrila, ita per poenilentiam                                                                                     cipiendam bona praeterita non dare fiduciam, etsi ad
-               reviviscunt ct ad                             inerilum           aeternilatis                 prodesse                         inci-       miliorem poenam alioquin praemissae aucloritali Au-
-                                                                                                                                                                                             ;
-
-
-
-
-               piunt. Similiter et illud bonuni                                            amat Deus, quod plan-                                          guslini obviaret. Et                     bona     igitur sine carilate                          facta, et
-
-               tavit in            peccante,                 iu iilo scilicet, qui post illud                                        bonum                bona       in       caritate facla ,     quae comitatur morlalis culpa,
-               peccavit, non sinuil peccans et bene operans exstitit;                                                                                     quam non delet                    sequens poenilenlia, ad sensum mitio-
-               quia          talis       horainis opus                    non       diligerel Deus ad remune-                                             ris    poenae            ])roficiunt,          non ad vilae fructiim.
-               rationem.                                                                                                                                         Satis arbitror                  illis   esse       responsum qui asserunt,
-                                                                                                                                                                                                                                        ,
-
-
-
-                                                                                                                                                          de uno crimine poenitenliam agi                                et veniam praeslari,
-
-                                                                     Cap. vir.                                                                            alio    iii     delectalione relento, vel per confessionem                                               non
-                                                                                                                                                          exposilo; qui non                       modo praemissis auctoritatibus con-                                      Aii;
-
-               Utruni bona, quae fiimt ab aliquibus malis , valeant                                                                                       futantur, sed et subditis. Ait euiin Auguslinus ^:                                                  «Suntu3
-                    ad meritum vitae, cum fuerint ad bonum conversi.                                                                                      plures, quos poenitel peccasse, sed lamen omniuo re-
-                                                                                                                                                          servanles               sibi     quaedam, in quibus deleclenlur, nou
-                       Potest etiam accipi de                                       operibus              bonis, quae                              ab     animadverlentes,                   Dominum simul mutum et surdum
-Aiia inter-    aliquo fiunt,                 dum malus est et in peccalo mortali per-                                                                     a  daemonio liberasse, per hoc docens, nos nunquam
-Ihifi"   "' sistit           vel     ad tempus, vei usque in fincm                                            ;
-                                                                                                                      quae dicun-                         nisi de omnibus sanari. Si enim vellet peccata ex parte
-               tur remunerari a      nou dari oblivioni non quia
-                                                            Deo      et                                                    ,                              reservari liabenti septetn daemonia, manente uno, pro-
-                                                                                                                                                                              ,
-
-
-
-
-xotandam. proficiant ad vilaui  aeternam  obtinendam, sed ad to-                                                                                          ficere potuil, sex expulsis. Expulit aulem seplem, ut
-
-          lorabilius extremi iudicii supplicium sentiendum; sicut                                                                                         omnia crimina simul ciicienda docerct. Legionem vero
-               de   fide et ceieris,                             quae sine caritate liabentur, Augu-                                                      daemonum ab alio eiicieus, nullum reliquit de omni-
-ABgusiinus. slinus '               uit   :   «    Si        quis uon habens caritatem, quae per-                                                          bus, qui liberatum possideret, ostendens, quod si etiam
-               tinet acl            unitatem spiritus                          et    vinculum pacis, quo Ec-                                              peccata siiit niilie, oporlet de omnibus poenitere. Nun- Dubiu
-               clesia conneclitur, in aliquo                                         schismnte conslilulus, ne                                            quam aliquein sanavil Dominus, quein noii omnino li-
-               Chrislnm neget, palilur Iribulaliones, famem, persecu-                                                                                     beravit.            Tolum enim hominem sanavil in Sabbato, qnia
-               tionem, vel flammas, vel beslias, vel ipsam crucem                                                                                         et corpus ab omni infirmitate et animam ab omni con-
-               timore gehenuae   nullo modo ista culpanda sunt, immo
-                                                       ;
-                                                                                                                                                          tagioiie indicans, pocnitenlem oportere simul dolere
-                                                                                                                                                                          ;
-
-
-
-
-               et   haec laudanda est patienlia.                                               Non euim dicere po-                                        de omni crimine. Scio enim               Dominum inimicum omni
-               terimus, nielius                             ei     fuisse,      ut Christuni negando                                          nihil       crimiuoso.               Quomodo ergo qui crimen reservat de alio
-               horum pateretur, quae passus est confitendo                                                                      ;    sed ae-              reciperet veniam ?                       Siiie    amore Dei coiisequerctur                                ve-
-
-               stimandum est, fortasse lolerabiiius ei lliturum iudicium,                                                                                 niam, sine quo nemo unquani invenit gratiam. Hostis
-               quam si, Christuni negando, nihil horum pateretur, ut                                                                                      enim Dei est, duin olTendit perseveranter. Quaedam
-               illudquod ail Aposlolus: Si tradidero corpus meum,                                                                                         enim impietas infidelilatis est ab illo qui iustus et iu-
-               ila utardeam , carilatem autem non habuero , nihil                                                                                         stitia est, dimidiam  sperare veniam      iam euim sine                  ;
-
-
-
-
-               mihi prodest, nihil prodesse inlelligaiur ad regnum                                                                                        vera poenitentia                       inveniret          graliam.       Poenilentia                     enini DaMn
-
-               obtinendum, non ad extremi                                              iudicii            tolerabiiius                        sub-        vera       ad baptismi puritalem                               conatur       adducere. Recte
-    canon.     eundum supplicium ». Et inlra^:                                                  «   Haec propter cari-                                    enim poenitens,                        quidquid           sordis       post purincalionem
-               talem           dicta          sunt, sine qua in nobis nou                                              polest                 esse        coniraxit,               oportet ut abluat, sallem lacrymis mentis;
-               vera          poenilenlia,                        quoniam             iu        bonis caritas Dei est                                      sed satis diirus est cuius menlis dolorem oculi non de-
-               quae          toleral         omnia ».                                                                                                     claraiil. Sed sciat, se culpabililer duruin, qui deflel Dnbio
-
-                         Ex his oslenditur, bona,quae sine carilale fiunt,                                                                                damna lemporis vel morlem amici,                                         et       dolorem pec-
-               pi'ocIesse quidcm ad lolei'abiliorem poenam sentiendam,                                                                                    eati       iion         oslcndit         in    laciymis.           Quem ergo poenilet,
-DeaUisope- sed           uon ad viiam oblincndaui.                                          Illa    eliam, quae in ca-                                    omnino poenileat». Idem ^                             :    «   i'oeniienles,           si       vere estis Aagns
- " "*'         rilale quis facit, si                              posiea prolapsus fuerit nec exsur-                                                      poenilentes et non eslis irridenles,                                    mutate             vitaiii,        re-
-
-               rexerit, non esse in                                memoria                 Dei, Ezechiel ' dicil                               :   Si     conciliamini Deo                   !   Poenitentiam agis, gcnua                             figis    et ri-
-
-               averterit se itistus a iustitia el fecerit iniquitatem,                                                                        nun-        des; subsannas                     palienliam Dei.                Si   poenitcntiam                      agis,
-
-               quid vivet ? Omnes                                iustitiae eius,                quas fecerat, non re-                                     poenitet le;     non poenilet te, non es poenitens. Si
-                                                                                                                                                                                     si
-
-               cordabunlur ; in peccato suo morietur,                                                             et           non erunt                  ergo poeiiilet, cur facis quae male fecisti? Si fecisse
-               in   memoria                  iustitiae,              quas fecit. In cuius                             loci           exposi-              poenilet, noli facere; si adhuc facis, certc non es poe-
-  Gregorius.   tione Gregorius                          ait:         «   Hoc nobis maxime consider:m-                                                     nitens».                Item     Innoccnlius              secundus'":             «    Admonemus innoc
-               dum esl, quia, cum mala commillimus, siiie «ausa ad                                                                                        fratres uoslros.                  ne     falsis   poenilenliis               laicoriim animas
-
-
-
-
-                       '      Libr. de Pnlientia, c. 26. n. 23; C. Si qids aiitcm (49.), ibid.                                                            i-cspiciuntur Miirc. 7, 32; Luc. S, 30; Marc. .ii, 9; loan. 7,                                       23.—
-               d.   3.       Ibi    respicilur Eph. 4,                    3.   ot inferiiis          I.   Cor.         13,          3.    — Pio           Ibi pro habeiiti scplcm dacmonia, manente utio, proficcrc codd.
-
-               obtinendimi, non Vat.                               cum pkiribus odd. obtinendum, nisi.                                                    et edd., excepla Vai. et cd. 6, habentem scplem dacmonia
-                       ^ Ibid. c. 23.                  n.    20, ot con.            cil.   §   !,   do Cjua       intolligitur vo-                        perficcre.           Inferius post contiigione                 cum codd. et omnibus edd.,
-               cabulum             infra. Pro poenilentia in originnli .-\uguslini patimlia.                                                              excepia         Vat.      ct     cd.    6,     omisimus         Uberavit,         relVagante              vero
-                         *    Cap. 3, 20,                   clV.    33,    13; exposilio Grogorii ost                                    I.   super       originali.
-               Ezech. homil.                 II.       n.        21; C. Si averlerit                (l-S.)    et C.                 Hoc nobis                    5   Sermo 393. (alias 41. ex                        llomillis 50.)         n.       I;     C. Poeni-
-
-               (16.), ibid. d.               i.   — Inferius pro est hoc codd. ct cd.l                                                   est hic.         tentes (10.),            ibid.    — Pro subsannas codd. UD                             et ed.        I    sub-
-                         *    Da Vern             ct    falsa       Pocnilentia (inler opera Augusl.), c.                                           9.    sannans ,            originale et subsannas.
-               n.   24; C. Sunt pltires (42.), de Poenilentin d. 3. §                                             I    ;       in   quo textu                    «   Can. Fralres nostros                   (8.),    de Poeniientia             d.    .3.
-                                                                                   DIST. XV.               P.   I.   DIVISIO TEXTUS.                                                                                                         349
-
-       decipi el in infenuim perlrahi patianliir. Falsam aulem                                                         est    quod de eodem infelicissimo dicitur Et oratio eius                                      :
-
-
-
-       poenilentiam esse                   conslal,               cum, sprelis pluribiis, de                           fiat in   peccatum ; ut non solum emendare nequiverit
-       uno solo poenitenlia agilur; vel cnm sic agitur de uno,                                                         proditionis nefas, sed proprii homicidii scelus addide-
-       ut   non discedatur al)                 aJio ».                                                                 rit».       — Cave, qualilcr                                intelligas                   illud:       «   Ut emeu- Espiicatar a
-                                                                                                                                                                                                                                                      ^^'^^'
-                Ex praemissis perspicna                             fit    nolitia         verae pocni-                dare valeat quod peccavit »                                       etc.      Non                ciiim euiendatio
-Tora   lenliae et salislaclionis. Illa enim vera est poenitentia,                                                      hic intclligenda cst                             rei     demptae rccompensalio, scd
-'""
-       quae peccalum abolet; quod ilia sola lacil, quae sce-                                                           dclicti           exprobralio                  el     abominalio cum salisfaclionis de-
-       lus corrigit ; illa vero scclus corrigit, quae odium                                            com-            sidcrio.              Dcmit cnim iniusle quis                               alicui (piod rcsliluere
-       niissi    criminis et commitlendi                               cnm        desiderio          satisfa-          non valet, ul oculuui                                 vcl    vilam ct huiusmodi                             ;    et      la-
-
-       ciendi affert. ludas                enim poenituisse legitur sine asse-                                         men, si poenituerit                              peccati         cum amore condignae sa-
-       cutione veniae, quia                   tali           poenitcnlia non corrcxil cri-                             lisfactionis,      veniam habel. Nec ideo quisquam pulel,
-ymus. men.       Unde Hicronj-nius                  '    :    «   Nihil ludae profuit egisse                           qui        rem alicnam iniuste abstulit, quam reddere potest,
-       poenilenliam         ,
-                                per        quam sceUis                    corrigere         non      potuil.           de     illo       peccato pocnilcre ac veniani consequi,                                                        nisi re-
-
-       Si quando frater sic peccat in fralrem ul emendare                              ,                               slituat           ablatum.                «    Quamdiu enim                          res,          proptei'      quam Aagusiinus.
-       valeat quod peccavit, polest ei dimitti sin autem i)cr-                     ;                                   pcccatum                   esl,       non redditur,               si   rcddi polesl, non agi-
-       manent opcra, fruslra voce assumitur poenitenlia hoc                                            ;               lur poenitenlia, sed fingitur'^».
+---
 
 ## English
+<!-- page 345 -->
 
-[Translation pending]
+### Chap. I. *That one entangled in many sins cannot truly repent of one, unless he repent of all.*
+
+And just as by the aforesaid authorities the error of those is refuted who think penance is not to be done more often[^1], and who deny that those falling from a lapse rise frequently through it; so by the same is the opinion of those overthrown who assert that one entangled in many sins truly repents of one and can obtain pardon of it from the Lord without penance for another. Which also they try to establish by authorities. For the Prophet says: *God will not judge twice for the same thing,* or as others have translated it: *A double tribulation shall not arise.* If therefore, those men say, anyone has confessed to a priest one of two or more sins and has fulfilled for that one the satisfaction enjoined on him by the priest, the others being left unspoken; he is not to be judged any further for that sin of which he has made satisfaction at the judgment of the priest, who bears the place of Christ in the Church. And therefore, if he be judged again for it, God judges twice for the same thing, and a double tribulation shall arise. — But « this must be understood only of those who are converted to good by present punishments and so persevere, over whom a double tribulation shall not arise. But those who amid scourges become harder and worse, like Pharao[^2], join eternal things to present ones, so that the temporal punishment is to them the beginning of eternal punishment. Whence Augustine: *A fire is kindled* etc. — that is, vengeance shall begin here — *and shall burn unto the uttermost damnation.* This must be noted against those who say that the saying, namely: *God will not judge twice for the same thing,* pertains to all scourges, because some are corrected here by scourges, others are punished both here and in eternity ».
+
+### Chap. II. *For what causes scourges happen.*
+
+For in five ways do scourges happen: either that the merits of the just be increased through patience, as for Job; or for the guarding of virtues, lest pride tempt, as for Paul; or for the correction of sins, as the leprosy of Mary; or for the glory of God, as concerning the man born blind; or for the beginning of punishment, as for Herod, so that here may be seen what follows in hell, according to that saying[^3]: *Crush them with a double crushing, O Lord.* « That authority of Nahum, therefore, does not compel us to hold that all things which are punished temporally are not to be further punished by God ».
+
+### Chap. III. *On the Egyptians and Sodomites, who are said to be punished temporally, lest they perish eternally.*
+
+For although on the same passage Jerome says that the Egyptians and Israelites were punished temporally by God, lest they be punished eternally; yet it is not to be understood generally of all. For he says thus[^4]: « Know that He destroyed the human race by the flood, the Sodomites by fire, the Egyptians by the sea, the Israelites in the desert, and that He thus punished them temporally for their sins, lest He punish them eternally », because God will not judge twice for the same thing. Those, therefore, who have been punished
+
+<!-- page 346 -->
+
+shall not be punished afterward; otherwise the Scripture lies, which it is impious to say.
+
+Attend, reader, to these words and beware, lest thou understand them generally of all, « but only of those who amid the scourges themselves did penance, believing in the God of the Hebrews; which penance, though brief and momentary, yet God did not spurn[^5] ». But that those who are not corrected by a temporal scourge are afterward punished eternally, he shows in the same place, treating of a believer caught in adultery, who is beheaded; where he shows that light sins are purged by a brief and temporal punishment, but great ones are reserved for lasting and eternal punishments, thus saying[^6]: « Let someone here ask, if a believer caught in adultery be beheaded, what becomes of him afterward? For either he will be punished, and what is said is false: *God will not judge twice for the same thing*; or he will not be punished, and it is to be wished for adulterers that they be punished here with a brief penalty, that they may escape the eternal torments. To which we answer that God knows the measures of punishments, as of all things; and that the sentence of the judge is not anticipated, nor is the power of exercising punishment henceforth upon the sinner taken from Him; and a great sin is atoned by great and lasting torments. But if anyone has been punished, like him who had cursed the Israelite[^7], and him who had gathered wood on the Sabbath, that such are not punished afterward, because the light fault has been compensated by present punishment ». For a light fault is compensated by a light punishment. — Here Jerome sufficiently intimates that grave sins, of which penance is not done amid the scourges, are both punished here with grave punishment and are to be punished eternally in the future; but that light ones, which are punished here, receive their compensation by a light penalty; which we do not doubt is done in the case of good men, and perhaps it is so done also in the case of evil ones. — It is now sufficiently apparent that what those men adduced from the prophecy makes nothing for those who say that pardon is granted through penance to one who reserves a crime to himself, for another sin.
+
+Some, clinging too vehemently to these words, also adduce other authorities. For Gregory says[^8]: « *The Lord rained upon one city and upon another rained not, and the same city in part He rained upon and in part left dry.* When he who hates his neighbor corrects himself of other vices, one and the same city is in part rained upon and in part remains dry; because there are some who, while they cut off certain vices, grievously persist in others ». Likewise Ambrose[^9]: « The first consolation is that God forgets not to have mercy »; « the second, through punishment, where, even if faith be wanting, the penalty satisfies and relieves ». — They use a reason also, saying: If he who confesses one sin, another being left unspoken, has fulfilled the satisfaction enjoined by the priest, will not penance be imposed on him for both also, if, being converted, he has confessed the unspoken sin? This seems far from reason and the custom of the Church, which for the same sin, unless it be reiterated[^10], imposes penance on no one twice. That, therefore, was a condign satisfaction for the sin, whence the sin too seems blotted out.
+
+To these it can be answered thus. That saying of Gregory: « *The Lord rained* » etc., is to be referred not to the pardon of the crime, but to the abandonment of the act of sin[^11], so that part of the city is said to be rained upon because it now ceases from the act and delight of the sin which it before served; not that it has pardon of it. And that rain is called such continence by which one is recalled from the work of sin, because from the font of God's grace this is instilled into the heart, that thus by degrees he may either come to penance, or be the less punished by God who by longer delight and act of sin would have heaped up a greater torment for himself. But if the rain be referred to the *indulgence* of the guilt, it will seem to contradict the gospel sentence. For if, on account of the mercilessness by which one has no mercy on his neighbor, even those things which were dismissed are repeated for punishment; much more are those which are not yet dismissed shown to be reserved for punishment on account of brotherly hatred. And if he « who is constituted the arbiter of his own will cannot begin a new life, as Augustine says[^12], unless he repent of the old life; how shall he come to the newness of indulgence who has not laid aside the oldness of hatred? » — That also which Ambrose says: « Even if faith be wanting, the penalty satisfies » etc., is to be understood not of the *faith* by which one believes in God, but of the conscience of the fault. For faith is wanting when the consciousness of the sin is not present. For since no one understands all his faults, there is sometimes in a man a sin of which he has no consciousness. Whence the Apostle: *I am conscious of nothing to myself, but I am not thereby justified.* When therefore one is scourged for a sin of which he is not conscious, if he bears the penalty patiently and embraces it humbly, thinking that he perhaps has a sin which he does not understand, and is punished for it by God, that penalty satisfies and relieves the burdened man.
+
+But to that which is objected concerning that satisfaction: If satisfaction was not made, it is to be imposed again; but if it is not to be imposed again, satisfaction was made; and if satisfaction was made, he has obtained pardon; it can be answered that there was no satisfaction[^13], because that man did not produce *worthy fruits of penance.* « For the satisfaction of penance is, as Augustine says[^14], to cut off the causes of sins and not to grant their suggestions entrance ». The same: « Truly those who live wickedly and care not to correct such a life and conduct, and cease not amid their very crimes to give alms frequently, flatter themselves thereby in vain, because the Lord says: *Give alms, and behold all things are clean unto you.* For how widely this extends they understand not ». « For there are many kinds of alms which, when we do them, we are helped. For not only he who gives food to the hungry, drink to the thirsty, and the like; but also he who gives pardon to one asking gives alms; and he who corrects by a blow one over whom power is given, or restrains by some discipline, or prays that his sin be forgiven him, gives alms, because he shows mercy ».
+
+<!-- page 347 -->
+
+### Chap. IV. *On the kinds of alms.*
+
+« For many good things are bestowed on the unwilling, when their utility and not their will is consulted[^15] ». « But that is greater by which we dismiss from the heart what each one has sinned against us. For it is a less great thing to be benevolent toward him who has done thee no evil; that is much greater, that thou love even thine enemy, and to him who wishes thee evil and, if he can, does it, that thou always wish good and do what thou canst ». « Therefore that which the Lord says: *Give alms, and all things are clean unto you*; we are so to understand it, that to those not believing in Christ all things are clean, if they give those alms ». « For he who wishes to give alms in an ordered way ought to begin with himself and first give them to himself ».
+
+### Chap. V. *What alms is.*
+
+« For alms is a work of mercy, and it has been most truly said: *Have mercy on thy soul, pleasing God*[^16] ». « Let them not therefore deceive themselves who think to buy impunity by most lavish alms of their fruits or money, while remaining in sins which they so love that they desire to dwell in them. But he who loves iniquity hates his own soul, and he who hates his own soul is not merciful to it, but cruel. For by loving it according to the world, he hates it according to God. If therefore he wishes to give it the alms by which it is made clean, let him hate it according to the world and love it according to God ». By this alms, which a man owes first to himself, the inward parts are made clean. Exhorting to which Christ says: *Make clean the things that are within. For to the unclean nothing is clean; but their mind and conscience are defiled,* as the Apostle says. But all are unclean whom faith makes not clean, by which one believes in Christ; of which it is written: *Purifying their hearts by faith.* « But lest Christ should seem to spurn those alms which are made from the fruits of the earth; *these things,* he said, *it behooved to do,* namely *judgment and the charity of God, and those not to omit,* that is, the alms of earthly fruits[^17] ».
+
+### Chap. VI. *Whether those remaining in mortal sin and giving lavish alms ought to be said to make satisfaction.*
+
+From these things it is given to understand that those remaining in mortal sin, even if they give lavish alms, yet do not make satisfaction by them, because they act in a disordered way, while they do not begin with themselves. Nor is such a work properly called alms, while they are cruel to themselves, not pleasing God. That therefore is not to be called a satisfaction for sin which one makes for one sin, while he persists in another; because « it profits nothing to fast and to pray and to do the other good things, unless the mind be recalled from sin[^18] »: and if at some time, being converted, he has confessed to the priest the unspoken sin, satisfaction is to be imposed on him for both, because for the first he did not condignly make satisfaction.
+
+To some, however, it seems there was a satisfaction, but a fruitless one, while he persists in the other sin; yet its fruit will be received, and it will begin to profit, when he has repented of the other sin. For then both sins are dismissed, and the preceding satisfaction, which had been dead, is made alive; just as baptism to him who approaches feignedly then first avails when the feigning withdraws from the mind through penance. And for the support of this opinion they adduce authorities. For Augustine says[^19]: « It is pious to believe, and our faith demands it, that, when the grace of Christ has destroyed the prior evils in a man, it also rewards the good; and when it has destroyed what it did not find as its own, it loves the good which it planted in the sinner ». Likewise Jerome[^20]: « If thou shouldst ever see anyone, amid many sins, doing some just works; God is not so unjust as to forget, on account of many evils, a few goods; but He will cause him to reap and to gather into barns what he sowed in good ground[^21] ». — But these sayings we understand of him who in charity at one time does good and is good, but at another time is evil and does many sins. It is not therefore to be understood that he did just works amid many sins, as if at one and the same time he committed sins and just works, but that he did each at different times. For unless he were good when he did the good, he would not be said to have sown good things in the ground. Therefore, the evils being destroyed after the good works committed, the prior good works, namely those done in charity, which the following evils had mortified, by the penance had of those evils are made alive and rewarded. Whence the Apostle[^22]: *laying the foundation of penance from*
+
+<!-- page 348 -->
+
+*dead works*; by naming dead works, he signifies the prior good works which by the following sin had been dead, because these men by sinning made the prior good works void. As these are made void by sinning, so by penance they revive and begin to profit unto the merit of eternity. Likewise God loves that good which He planted in the sinner, in him namely who after that good sinned, and did not exist at once sinning and working well; because the work of such a man God would not love unto reward.
+
+### Chap. VII. *Whether the good works which are done by certain evil men avail unto the merit of life, when they have been converted to good.*
+
+It can also be taken of the good works which are done by someone while he is evil and persists in mortal sin either for a time, or unto the end; which are said to be rewarded by God and not given over to oblivion, not because they profit toward obtaining eternal life, but toward feeling a more tolerable punishment of the last judgment; just as concerning faith and the rest which are had without charity, Augustine[^23] says: « If anyone not having the charity which pertains to the *unity of the spirit and the bond of peace,* by which the Church is knit together, being placed in some schism, lest he deny Christ, suffers tribulations, hunger, persecution, or flames, or beasts, or the very cross, from fear of hell; these things are in no way to be blamed, nay rather this patience is to be praised. For we shall not be able to say that it had been better for him, by denying Christ, to suffer none of these things which he suffered by confessing; but it is to be reckoned that perhaps the judgment will be more tolerable for him than if, by denying Christ, he had suffered none of these things, so that what the Apostle says: *If I should deliver my body so that I burn, but have not charity, it profits me nothing,* is to be understood to profit nothing toward obtaining the kingdom, not toward undergoing more tolerably the punishment of the last judgment ». And below[^24]: « These things are said on account of charity, without which there cannot be in us true penance, since in good men there is the charity of God which bears all things ».
+
+From these things it is shown that the good works which are done without charity do indeed profit toward feeling a more tolerable punishment, but not toward obtaining life. That also which one does in charity, if he afterward fall and not rise again, is not in the memory of God, Ezekiel[^25] says: *If the just man turn himself away from his justice and do iniquity, shall he live? All his justices which he had done shall not be remembered; in his sin he shall die, and the justices which he did shall not be in memory.* In the exposition of which passage Gregory says: « This is to be most considered by us, that, when we commit evils, without cause do we recall the bygone goods to memory, since in the perpetration of evils there ought to be no confidence in the past goods ». — This is to be understood, that past goods give no confidence for receiving life, although otherwise it would be opposed to the aforesaid authority of Augustine concerning a milder punishment. And therefore both goods done without charity, and goods done in charity which a mortal fault accompanies, which the following penance does not blot out, profit toward the sense of a milder punishment, not toward the fruit of life.
+
+I think those have been sufficiently answered who assert that penance is done and pardon granted for one crime, another being retained in delight, or not disclosed by confession; who are confuted not only by the aforesaid authorities, but also by those subjoined. For Augustine says[^26]: « There are many who repent of having sinned, but yet wholly reserve to themselves certain things in which they delight, not noticing that the Lord delivered at once the *dumb and deaf* man from the demon, teaching thereby that we are never healed except of all. For if He had wished sins to be reserved in part, He could have profited the man having *seven demons,* one remaining, by casting out six. But He cast out seven, that He might teach that all crimes are to be cast out together. And casting out the *legion* of demons from another, He left none of them all that might possess the man delivered, showing that even if sins be a thousand, one must repent of all. Never did the Lord heal anyone whom He did not wholly deliver. For He healed the whole man on the Sabbath, both the body from every infirmity and the soul from every contagion; indicating that the penitent must grieve at once for every crime. For I know the Lord to be an enemy to every criminal. How then should he who reserves a crime receive pardon for another? He would obtain pardon without the love of God, without which no one ever found grace. For he is an enemy of God, while he offends perseveringly. For it is a certain impiety of unbelief from him who is just and justice itself, to hope for half a pardon; for already without true penance he would find grace. For true penance strives to bring back to the purity of baptism. For the penitent rightly must wash away whatever filth he has contracted after his purification, at least with the tears of the mind; but he is hard enough whose grief of mind the eyes do not declare. But let him know that he is culpably hard who bewails the losses of time or the death of a friend, and shows not the grief of sin in his tears. Whom therefore it repents, let him wholly repent ». The same[^27]: « Penitents, if ye are truly penitents and are not mockers, change your life, be reconciled to God! Thou doest penance, thou bendest thy knees and laughest; thou deridest the patience of God. If thou doest penance, it repents thee; if it repents thee not, thou art not penitent. If therefore it repents thee, why doest thou the things thou hast done ill? If it repents thee to have done them, do them not; if thou still doest them, surely thou art not penitent ». Likewise Innocent the Second[^28]: « We admonish our brethren, lest they suffer the souls of the laity by false penances
+
+<!-- page 349 -->
+
+to be deceived and dragged into hell. But it is established that penance is false when, many sins being despised, penance is done for one only; or when it is so done for one that one does not depart from another ».
+
+From the foregoing a clear knowledge of true penance and satisfaction is made. For that is true penance which abolishes sin; which that alone does which corrects the crime; and that corrects the crime which brings the hatred of the crime committed and of committing it, with the desire of making satisfaction. For Judas is read to have repented without the attainment of pardon, because by such penance he did not correct his crime. Whence Jerome[^29]: « It profited Judas nothing to have done penance, through which he could not correct his crime. If at some time a brother so sins against a brother, that he can amend what he sinned, it can be forgiven him; but if the deeds remain, in vain is penance assumed by word; this is what is said of that same most wretched man: *And let his prayer become sin*; so that not only could he not amend the wickedness of betrayal, but he added the crime of his own homicide ». — Beware how thou understandest that saying: « That he may amend what he sinned » etc. For *amendment* here is not to be understood as the recompense of the thing taken away, but the reproach and abomination of the fault with the desire of satisfaction. For one unjustly takes away from another what he is not able to restore, as an eye or life and the like; and yet, if he has repented of the sin with the love of condign satisfaction, he has pardon. Nor let anyone therefore think that he who unjustly took away another's property, which he can restore, can repent of that sin and obtain pardon, unless he restore what was taken. « For as long as the thing for which one has sinned is not restored, if it can be restored, penance is not done, but feigned[^30] ».
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; within this file the markers are numbered continuously `[^1]–[^30]`. Page-block split: `[^1]–[^4]` = p.345 (the *NOTAE AD LIBR. SENTENTIARUM* block); `[^5]–[^14]` = p.346 (10 notes); `[^15]–[^22]` = p.347 (8 notes); `[^23]–[^28]` = p.348 (6 notes); `[^29]–[^30]` = the littera portion of p.349, above the COMMENTARIUS.
+
+[^1]: **La.** *Nahum* 1, 9. — Supra post *agendam* codd. BD (AC a secunda manu) et ed. 1 omittunt *non putant,* cod. E omittit *non.* — Inferius ante *a sacerdote* edd., excepta 1, interserunt *poenitentiam,* et pro *satisfactionem* ponunt *satisfactione,* refragantibus codd., quorum tamen cod. D habuit *poenitentiam* pro *satisfactionem.*
+     **En.** *Nahum* 1:9. — Above, after *agendam* the codices BD (AC by a second hand) and ed. 1 omit *non putant,* cod. E omits *non.* — Below, before *a sacerdote* the editions, except 1, insert *poenitentiam,* and for *satisfactionem* put *satisfactione,* against the codices, of which however cod. D had *poenitentiam* for *satisfactionem.*
+
+[^2]: **La.** Cfr. Exod. c. 7. seq. — Totus hic locus sumtus est ex Gratiano super C. *Sunt plures* (42.), de Poenitentia dist. 3. § 1, et ex C. *Ignis succensus est* (43.), ibid. Locus Scripturae est Deut. 32, 22; cuius explicatio est secundum sensum in Glossa ibid. apud Lyranum, qui pro Augustino citat Gregorium, XVIII. Moral. c. 22. n. 3-5. — Ibi post *incipiet* ed. 1 addit *in Iacob et cecidit in Israel* (alludens ad Isai. 9, 8.).
+     **En.** Cf. Exod. c. 7 ff. — This whole passage is taken from Gratian on the canon *Sunt plures* (42), de Poenitentia, dist. 3, § 1, and from the canon *Ignis succensus est* (43), ibid. The Scripture passage is Deut. 32:22; whose explanation is according to the sense in the Gloss there in Lyra, who for Augustine cites Gregory, *Morals* bk. XVIII, c. 22, nn. 3–5. — There, after *incipiet,* ed. 1 adds *in Iacob et cecidit in Israel* (alluding to Isa. 9:8).
+
+[^3]: **La.** Ier. 17, 18. Superius respicitur Iob 1, 12. seqq.; II. Cor. 12, 7; Num. 12, 10; Ioan. 9, 3; Act. 12, 23. Haec de quinque modis flagellorum sumta sunt ex Beda in Matth. 9, 4.
+     **En.** Jer. 17:18. Above, Job 1:12 ff. is referred to; 2 Cor. 12:7; Num. 12:10; John 9:3; Acts 12:23. These things on the five modes of scourges are taken from Bede on Matt. 9:4.
+
+[^4]: **La.** Loc. cit. in Nahum; cfr. Gen. 7, 41; 19, 24; Exod. 14, 28; Num. 11, 33. Hoc fere totum capitulum et ultima propositio praecedentis sumtum est ex Gratiano, cit. C. *Sunt plures.*
+     **En.** The place cited above on Nahum; cf. Gen. 7:41; 19:24; Exod. 14:28; Num. 11:33. Almost this whole chapter and the last proposition of the preceding is taken from Gratian, the cited canon *Sunt plures.*
+
+[^5]: **La.** Ex C. *Sunt plures,* pag. 343 in nota 2. cit.
+     **En.** From the canon *Sunt plures,* cited on p. 343 in note 2.
+
+[^6]: **La.** Hieron., loc. cit. parum inferius; C. *Quaerat hic aliquis* (44.), ibid. — Ibi post *frustrentur* edd. 2, 3, 7, 8 addunt *ibi,* sed 1, 4, 5, 9 perperam *in,* refragante originali.
+     **En.** Jerome, the place cited a little below; the canon *Quaerat hic aliquis* (44), ibid. — There, after *frustrentur,* edd. 2, 3, 7, 8 add *ibi,* but 1, 4, 5, 9 wrongly *in,* against the original.
+
+[^7]: **La.** Cfr. Levit. 24, 14, et de violatione Sabbati Num. 15, 35. Superius post *punitus sit* edd., excepta 1, addunt *temporaliter,* refragante etiam originali.
+     **En.** Cf. Lev. 24:14, and on the violation of the Sabbath Num. 15:35. Above, after *punitus sit,* the editions, except 1, add *temporaliter,* against the original too.
+
+[^8]: **La.** Libr. I. in Ezech. hom. 10. n. 23; verbotenus C. *Pluit Dominus* (40.), de Poenitentia d. 3. Locus Scripturae est Amos 4, 7, ubi Vulgata *plui* pro *pluit.*
+     **En.** Bk. I *On Ezekiel,* hom. 10, n. 23; word for word the canon *Pluit Dominus* (40), de Poenitentia, d. 3. The Scripture passage is Amos 4:7, where the Vulgate has *plui* for *pluit.*
+
+[^9]: **La.** In Ps. 118. sermo 18. n. 3; respicitur Ps. 76, 10. Seq. locus ibid. n. 2; C. *Prima consolatio* (41.), ibid.
+     **En.** On Ps. 118, sermon 18, n. 3; Ps. 76:10 is referred to. The following passage is ibid., n. 2; the canon *Prima consolatio* (41), ibid.
+
+[^10]: **La.** Edd. 3, 7, 8 non bene *ne;* pro *reiteretur* edd. 1, 3 *iteretur.* — Ratio a defensoribus huius erroris adducta, scil. consuetudo Ecclesiae, non constat.
+     **En.** Edd. 3, 7, 8 not rightly *ne;* for *reiteretur* edd. 1, 3 have *iteretur.* — The reason adduced by the defenders of this error, namely the custom of the Church, is not established.
+
+[^11]: **La.** Vat. cum paucis edd. *pravi.* — Tota seq. interpretatio fere ad litteram excerpta est ex Gratiano super C. *Quaerat hic aliquis* (44.), ibid. Verba « evangelicae sententiae » respiciunt Matth. 18, 32.
+     **En.** The Vatican edition with a few editions has *pravi.* — The whole following interpretation is excerpted almost to the letter from Gratian on the canon *Quaerat hic aliquis* (44), ibid. The words « of the gospel sentence » refer to Matt. 18:32.
+
+[^12]: **La.** Sermo 351. (alias hom. 30.) c. 2. n. 2. — In sequentibus respicitur Ps. 18, 13, et Rom. 14, 23; deinde I. Cor. 4, 4.
+     **En.** Sermon 351 (otherwise hom. 30), c. 2, n. 2. — In what follows Ps. 18:13 is referred to, and Rom. 14:23; then 1 Cor. 4:4.
+
+[^13]: **La.** Vat. cum paucis codd. *non ideo fuisse,* aliae edd., exceptis 1, 4, *ideo non.* — Respicitur Matth. 3, 8.
+     **En.** The Vatican edition with a few codices has *non ideo fuisse,* the other editions, except 1, 4, *ideo non.* — Matt. 3:8 is referred to.
+
+[^14]: **La.** (Gennad.) de Ecclesiast. Dogmatibus, c. 24; C. *Satisfactio poenitentiae* (3.), ibid. Seq. locus est August., Enchirid. c. 70. n. 20, ubi citatur Luc. 11, 41; tertius ibid. c. 72. n. 19, ubi respicitur Matth. 25, 37. seqq.
+     **En.** (Gennadius) *On Ecclesiastical Dogmas,* c. 24; the canon *Satisfactio poenitentiae* (3), ibid. The following passage is Augustine, *Enchiridion,* c. 70, n. 20, where Luke 11:41 is cited; the third ibid., c. 72, n. 19, where Matt. 25:37 ff. is referred to. *(Note ¹⁰ of p.346 wraps from the p.346 R-2 band onto the p.347 L-2 band; its full text is reassembled here.)*
+
+[^15]: **La.** August., ibid.; seq. locus ibid. c. 73. n. 19. (cfr. III. Sent. d. XXX. lit. Magistri); tertius ibid. c. 75. n. 20; quartus ibid. c. 76. n. 20.
+     **En.** Augustine, ibid.; the following passage ibid., c. 73, n. 19 (cf. III Sent., d. XXX, the Master's text); the third ibid., c. 75, n. 20; the fourth ibid., c. 76, n. 20.
+
+[^16]: **La.** Ibid.; seq. locus ibid. 77. n. 20; in primo citatur Eccli. 30, 24, in secundo Ps. 10, 6. — Etiam quae sequuntur secundum sententiam ibid. c. 76. n. 20. inveniuntur, ubi citatur Matth. 23, 26, et Tit. 1, 13; deinde Act. 15, 9.
+     **En.** Ibid.; the following passage ibid., 77, n. 20; in the first Sir. 30:24 is cited, in the second Ps. 10:6. — Likewise what follows is found according to the sense ibid., c. 76, n. 20, where Matt. 23:26 is cited, and Tit. 1:13; then Acts 15:9.
+
+[^17]: **La.** Ibid. c. 76. n. 20, et respicitur Luc. 11, 42.
+     **En.** Ibid., c. 76, n. 20, and Luke 11:42 is referred to.
+
+[^18]: **La.** Can. *Nihil prodest* (21.), ibid. — Inferius interpretatio quorundam sumta est fere ad verbum ex Gratiano in C. *Quaerat hic aliquis* (44.), ibid.
+     **En.** The canon *Nihil prodest* (21), ibid. — Below, the interpretation of certain men is taken almost word for word from Gratian in the canon *Quaerat hic aliquis* (44), ibid.
+
+[^19]: **La.** De Vera et falsa Poenitentia (inter opera August.), c. 11. n. 29.
+     **En.** *On True and False Penance* (among the works of Augustine), c. 11, n. 29.
+
+[^20]: **La.** Comment. in Aggaeum 1, 6.
+     **En.** *Commentary on Haggai* 1:6.
+
+[^21]: **La.** Codd. BCDE et ed. 1 *egisse.*
+     **En.** Codd. BCDE and ed. 1 have *egisse.*
+
+[^22]: **La.** Hebr. 6, 1. Inferius pro *bene operans* cod. C et edd., excepta 1, *bonum operans.* — Tota haec explicatio excerpta est ex Gratiano super C. *Inter mittentes* (19.), de Poenitentia d. 4.
+     **En.** Heb. 6:1. Below, for *bene operans* cod. C and the editions, except 1, have *bonum operans.* — This whole explanation is excerpted from Gratian on the canon *Inter mittentes* (19), de Poenitentia, d. 4.
+
+[^23]: **La.** Libr. de Patientia, c. 26. n. 23; C. *Si quis autem* (49.), ibid. d. 3. Ibi respicitur Eph. 4, 3. et inferius I. Cor. 13, 3. — Pro *obtinendum, non* Vat. cum pluribus edd. *obtinendum, nisi.*
+     **En.** The book *On Patience,* c. 26, n. 23; the canon *Si quis autem* (49), ibid., d. 3. There Eph. 4:3 is referred to, and below 1 Cor. 13:3. — For *obtinendum, non* the Vatican edition with many editions has *obtinendum, nisi.*
+
+[^24]: **La.** Ibid. c. 23. n. 20, et can. cit. § 1, de qua intelligitur vocabulum infra. Pro *poenitentia* in originali Augustini *patientia.*
+     **En.** Ibid., c. 23, n. 20, and the cited canon, § 1, of which the word below is understood. For *poenitentia* the original of Augustine has *patientia.*
+
+[^25]: **La.** Cap. 3, 20, cfr. 33, 13; expositio Gregorii est I. super Ezech. homil. 11. n. 21; C. *Si averterit* (15.) et C. *Hoc nobis* (16.), ibid. d. 4. — Inferius pro *est hoc* codd. et ed. 1 *est hic.*
+     **En.** Chap. 3:20, cf. 33:13; the exposition of Gregory is bk. I *On Ezekiel,* hom. 11, n. 21; the canon *Si averterit* (15) and the canon *Hoc nobis* (16), ibid., d. 4. — Below, for *est hoc* the codices and ed. 1 have *est hic.*
+
+[^26]: **La.** De Vera et falsa Poenitentia (inter opera August.), c. 9. n. 24; C. *Sunt plures* (42.), de Poenitentia d. 3. § 1; in quo textu respiciuntur Marc. 7, 32; Luc. 8, 30; Marc. 16, 9; Ioan. 7, 23. — Ibi pro *habenti septem daemonia, manente uno, proficere* codd. et edd., excepta Vat. et ed. 6, *habentem septem daemonia perficere.* Inferius post *contagione* cum codd. et omnibus edd., excepta Vat. et ed. 6, omisimus *liberavit,* refragante vero originali.
+     **En.** *On True and False Penance* (among the works of Augustine), c. 9, n. 24; the canon *Sunt plures* (42), de Poenitentia, d. 3, § 1; in which text Mark 7:32; Luke 8:30; Mark 16:9; John 7:23 are referred to. — There, for *habenti septem daemonia, manente uno, proficere* the codices and editions, except the Vatican and ed. 6, have *habentem septem daemonia perficere.* Below, after *contagione,* with the codices and all editions, except the Vatican and ed. 6, we have omitted *liberavit,* against the original however.
+
+[^27]: **La.** Sermo 393. (alias 41. ex Homiliis 50.) n. 1; C. *Poenitentes* (10.), ibid. — Pro *subsannas* codd. BD et ed. 1 *subsannans,* originale et *subsannas.*
+     **En.** Sermon 393 (otherwise 41, from the *Fifty Homilies*), n. 1; the canon *Poenitentes* (10), ibid. — For *subsannas* codd. BD and ed. 1 have *subsannans,* the original also *subsannas.*
+
+[^28]: **La.** Can. *Fratres nostros* (8.), de Poenitentia d. 3.
+     **En.** The canon *Fratres nostros* (8), de Poenitentia, d. 3.
+
+[^29]: **La.** Libr. IV. Comment. in Matth. (27, 5.); C. *Nihil Iudae* (38.), de Poenitentia d. 3, ubi respicitur Ps. 108, 7. — In isto texto pro *egisse poenitentiam* Vat. et edd. 4, 6 *sera poenitentia,* quod antiquitus etiam in nonnullis codd. Hieronymi legebatur. In plerisque edd. Magistri hic et infra legitur *emendare non valeat* pro *emendare valeat,* refragantibus originali, codd. A E, edd. 1, 6, 8.
+     **En.** Bk. IV *Commentary on Matthew* (27:5); the canon *Nihil Iudae* (38), de Poenitentia, d. 3, where Ps. 108:7 is referred to. — In that text, for *egisse poenitentiam* the Vatican edition and edd. 4, 6 have *sera poenitentia,* which anciently was also read in some codices of Jerome. In most editions of the Master here and below is read *emendare non valeat* for *emendare valeat,* against the original, codd. A E, edd. 1, 6, 8.
+
+[^30]: **La.** August., Epist. 153. (alias 54.) ad Macedonium, c. 6. C. *Si res aliena* (1.), C. 14. q. 6.
+     **En.** Augustine, *Letter* 153 (otherwise 54) to Macedonius, c. 6. The canon *Si res aliena* (1), Cause 14, q. 6.
 
 ## Notes
 
-[Notes pending]
+- **Provenance.** Latin re-set from the IA djvu OCR base (`raw/bonaventure_vol4_raw.txt` lines 39336–39846), with PDF column-band reads (`/tmp/colcrop/vol4-p{345,346,347,348,349}-{L,R}-{0,1,2}.png`) authoritative on the cascade-fragmented two-column body and footers (the OCR for these pages is severely shattered — diagonal one-token-per-line fragmentation + two-column bleed). English is a fresh literal parallel. Two-column Vol IV → VOL II OVERRIDE applied. Offset pdf = printed + 20 (printed 345–349 = pdf 365–369).
+- **This is the FULL LITTERA MAGISTRI of Distinction XV** — Peter Lombard's text on *satisfaction* (*De satisfactione*). The Master divides his own treatment into **seven chapters**, all rendered here as one littera chunk:
+  - **Cap. I** (*Quod pluribus irretitus peccatis non potest vere de uno poenitere, nisi de omnibus poeniteat*) — p.345.
+  - **Cap. II** (*Quibus de causis contingunt flagella*) — p.345; the five modes of scourges.
+  - **Cap. III** (*De Aegyptiis et Sodomitis, qui temporaliter dicuntur puniri, ne in aeternum perirent*) — pp.345–346.
+  - **Cap. IV** (*De generibus eleemosynae*) — p.347.
+  - **Cap. V** (*Quid sit eleemosyna*) — p.347.
+  - **Cap. VI** (*Utrum in mortali peccato permanentes et largas eleemosynas facientes debeant dici satisfacere*) — pp.347–348.
+  - **Cap. VII** (*Utrum bona, quae fiunt ab aliquibus malis, valeant ad meritum vitae, cum fuerint ad bonum conversi*) — pp.348–349.
+- **★ The « Pars » markers are NOT the COMMENTARIUS.** The page-top « PARS I. » under the p.345 `DISTINCTIO XV.` header and the « PARS II. » divider on p.346 are part of the editorial framing; the running text beneath them is **Lombard's own littera** (Caps I–VII), continuing without break. The inline margin annotations « Dubium 1–7 », « Explicatio », « Ratio eorum », « Auctoritatum vera explicatio », etc. are Quaracchi editorial pointers to the doubts the **Master himself** raises and resolves within his own text — they do NOT signal the start of Bonaventure's commentary. The littera runs continuously through Cap. VII on p.349 and ends at « …non agitur poenitentia, sed *fingitur* ». Immediately below begins `COMMENTARIUS IN DISTINCTIONEM XV. / PARS I. / De poenitentia, specialiter contra erroneam opinionem… / DIVISIO TEXTUS` (raw ≥ 39847, lower p.349 L-column) — that is the NEXT chunk (`d15-p1-divisio`) and is EXCLUDED here.
+- **Running-head note.** The `DIST. XV. P. I. DIVISIO TEXTUS. 349` line on p.349 (R-0 band) is a **page-top running head**, not a section break — the littera body continues beneath it (the Hieronymus/Iudas material and the Augustine restitution note) until the COMMENTARIUS proper, whose big-caps title sits lower on the page.
+- **Column flow verified.** Each page reads Left column top→bottom, then Right column top→bottom. The p.345 L-column tail (« …ad omnia ») connects to the R-column head (« [perti]nere flagella »); confirmed continuous. The p.348 R-column tail (« …falsis poenitentiis laicorum animas ») connects to p.349 L-column head (« decipi et in infernum… »).
+- **Page-verify.** p.345 R-0 head reads page number `345` with running head `DISTINCTIO XV.`; the big `DISTINCTIO XV.` header + `PARS I.` sit in the L column. p.346 verso head `SENTENTIARUM LIB. IV.` + page number `346` (L-0). p.347 recto head `DISTINCTIO XV.` + page number `347` (R-0). p.348 verso head `SENTENTIARUM LIB. IV.` + page number `348` (L-0). p.349 running head `DIST. XV. P. I. DIVISIO TEXTUS.` + page number `349` (R-0). All confirm the distinction.
+- **Footer ownership / per-page split.** Each page carries a left + right footer block; the littera claims the *NOTAE AD LIBR. SENTENTIARUM* numbered series per page:
+  - **p.345** notes 1–4 → `[^1]–[^4]`. The footer block ABOVE the *NOTAE AD LIBR. SENTENTIARUM* rule on p.345 L (notes ¹²³ on Achor/Comestor/Gregor., ending the d.XIV commentary) belongs to the PRIOR `d14` commentary chunk and is excluded.
+  - **p.346** notes 1–10 → `[^5]–[^14]`. Note ¹⁰ (« (Gennad.) de Ecclesiast. Dogmatibus… ») physically WRAPS from the p.346 R-2 band onto the p.347 L-2 band (« …C. *Satisfactio* / poenitentiae (3.), ibid. Seq. locus est August., Enchirid. c. 70… ») — its full text is reassembled in `[^14]`.
+  - **p.347** notes 1–8 → `[^15]–[^22]`.
+  - **p.348** notes 1–6 → `[^23]–[^28]`.
+  - **p.349** notes 1–2 → `[^29]–[^30]` (Libr. IV Comment. in Matth. *Nihil Iudae* / August. Epist. 153 ad Macedonium *Si res aliena*). These are the two littera footers above the rule on p.349; the footers belonging to the COMMENTARIUS DIVISIO TEXTUS (the *emendare valeat* variant continuation + the divisio's own NOTAE) belong to the next chunk and are NOT double-claimed.
+- **Opening seam (p.345).** The littera opens on p.345 below the tail of d.XIV's commentary (the *figura/instructio* of David vs Absalom material) — that prior material and its NOTAE footers (Achor / Comestor / Gregor. dub.) belong to the d.XIV chunk and are excluded. No littera body text dropped at the d.XIV→d.XV seam.
+- **Cutoff / hand-off to divisio.** The littera ends at Cap. VII on p.349 (« …non agitur poenitentia, sed *fingitur* »). Hand-off to the **`d15-p1-divisio`** agent: re-derive the raw range from the `COMMENTARIUS IN DISTINCTIONEM XV.` line (raw ≥ 39847, lower p.349 L-column), NOT from any earlier skeleton start. The commentarius opens `Pars I. / De poenitentia, specialiter contra erroneam opinionem de uno peccato sine poenitentia de alio / Et sicut praedictis auctoritatibus illorum error convincitur etc. / DIVISIO TEXTUS / Supra reprobavit Magister errorem… / TRACTATIO QUAESTIONUM` (sex quaestiones: reconciliari per satisfactionem; satisfacere de uno peccato alio retento; extra caritatem abstinentem a peccatis satisfacere; opera satisfactoria extra caritatem vivificentur adveniente caritate; per talia opera aliquid mereatur; quid sit illud quod computatur). Claim the p.349 commentarius-portion footers (the *emendare valeat* note continuation + the divisio's own NOTAE) and the p.350+ footers — these are NOT the littera's.
+- **No scholion** — littera chunk.
+- **No `[?]` flags.** All 30 NOTAE footers resolve cleanly off the column bands; every body lemma keys to a numbered footer. Unambiguous OCR garbles silently corrected (e.g. `irretitus`/`convincitur`/`diffitentur`/`eliditur`/`astruere`/`commutantur`/`perseverant`/`deteriores`/`connectunt`/`damnationem`/`contingunt`/`patientiam`/`contritione`/`Aegyptiis`/`Sodomitis`/`diluvio`/`momentaneam`/`decollatur`/`compensata`/`immisericordiam`/`replicantur`/`indulgentiae`/`conscientia`/`suggestionibus`/`eleemosynam`/`impunitatem`/`crudelis`/`inordinate`/`vivificatur`/`munimentum`/`obliviscatur`/`mortificaverant`/`remunerantur`/`tribulationes`/`gehennae`/`Ezechiel`/`perpetratione`/`animadvertentes`/`contagione`/`perseveranter`/`infidelitatis`/`purificationem`/`subsannas`/`Innocentius`/`infelicissimo`/`recompensatio`/`abominatio`/`restituat`).
