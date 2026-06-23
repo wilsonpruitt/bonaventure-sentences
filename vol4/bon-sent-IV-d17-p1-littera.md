@@ -3,545 +3,226 @@ id: "bon-sent-IV-d17-p1-littera"
 volume: 4
 book: 4
 distinctio: 17
+pars: 1
 type: littera
-line_start: 46662
-line_end: 47183
-word_count_latin: 4590
-transcription_status: "auto-chunked 2026-06-16"
+title_la: "De confessione (Littera Magistri, Caps. I–V, pp. 413–417)"
+title_en: "On confession (the Master's text, Chaps. I–V, pp. 413–417)"
+printed_pages: [413, 414, 415, 416, 417]
+pdf_pages: [433, 434, 435, 436, 437]
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 413–417"
+has_scholion: false
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — full Lombard littera of d.XVII *De confessione*, the Master's own three-pars division (Pars I = Cap. I, whether sins are forgiven without confession; Pars II = Caps. II–III, whether it suffices to confess to God alone vs. to a priest; Pars III = Caps. IV–V, whether it suffices to confess to a layman, and to what confession avails), up to the COMMENTARIUS IN DISTINCTIONEM XVII on p.418. Latin re-set from IA djvu OCR (raw lines 46740–47184) under the VOL II OVERRIDE PDF-priority inversion for the cascade-fragmented two-column body + footers (pp. 413–417, vol4 split x=1880, offset +20), fresh literal English, full apparatus from the per-page/per-column NOTAE AD LIBR. SENTENTIARUM blocks (29 littera entries), no scholion, no [?] flags (2026-06-23)"
 format_version: 1
 ---
 
-# bon-sent-IV-d17-p1-littera
+# Distinctio XVII — Littera Magistri (pp. 413–417)
+## *De confessione*
+
+---
 
 ## Latin
+<!-- page 413 -->
 
-DISTINCTIO XVII.                                                                                                    413
+### Pars I.
 
-                                                                               quod oralio dominicalis                             cundum hoc enim                                 qnod omnis qui habel
-                                                                                                                                                                                videtur,
-       ex hoc dicere Auguslinus '                                     ,
+### Cap. I. *Utrum sine confessione dimittantur peccata.*
 
+Hic oritur quaestio multiplex. Primo enim quaeritur, utrum absque satisfactione et oris confessione per solam cordis contritionem peccatum alicui dimittatur. Secundo, an aliquando sufficiat confiteri Deo sine sacerdote. Tertio, an laico fideli facta valeat confessio. — In his enim etiam docti diversa sentire inveniuntur, quia super his varia ac pene adversa tradidisse videntur doctores. Dicunt enim quidam, sine confessione oris et satisfactione operis neminem a peccato mundari, si tempus illa faciendi habuerit. — Alii vero dicunt, ante oris confessionem et satisfactionem in cordis contritione peccatum dimitti a Deo, si tamen votum confitendi habeat. Unde Propheta[^1]: *Dixi, confitebor adversum me iniustitiam meam Domino, et tu remisisti* etc. Quod exponens Cassiodorus[^2] ait: « *Dixi,* id est deliberavi apud me, quod confitebor, et tu remisisti. Magna pietas Dei, quod ad solam promissionem peccatum dimiserit. Votum enim pro operatione iudicatur ». Item Augustinus[^3]: « Nondum pronuntiat, promittit, se pronuntiaturum; et Deus dimittit, quia hoc ipsum dicere quoddam pronuntiare est corde. Nondum est vox in ore, ut homo audiat confessionem, et Deus audit ». Item: *Sacrificium Deo spiritus contribulatus, cor contritum* etc. Alibi etiam legitur: *Quacumque hora peccator conversus fuerit et ingemuerit, vita vivet et non morietur;* non dicitur: ore confessus fuerit, sed conversus ingemuerit.
 
+<!-- page 414 -->
 
-       deleat peccala. Sed co7itra :                                           solius             graliae         est      de-     rancorem,               in        dicendo istam orationem peccet mor-
+« Unde datur intelligi, quod etiam ore tacente, veniam interdum consequimur. Hinc etiam leprosi illi, quibus Dominus praecepit, ut ostenderent se sacerdotibus, in itinere, antequam ad sacerdotes venirent, mundati sunt. Ex quo insinuatur, quod antequam sacerdotibus ora nostra aperiamus, id est peccata confiteamur, a lepra peccati mundamur. Lazarus etiam non prius de monumento est eductus et post a Domino suscitatus, sed intus suscitatus, prodiit foras vivus; ut ostenderetur suscitatio animae praecedere confessionem. Nemo enim potest confiteri nisi suscitatus, quia a mortuo, velut qui non est, perit confessio: nullus ergo confitetur nisi resuscitatus. Nemo vero suscitatur, nisi qui a peccato solvitur; quia peccatum mors animae est, quae ut est vita corporis, ita eius vita Deus est »[^4]. — His aliisque pluribus auctoritatibus probatur, ante confessionem vel satisfactionem sola compunctione peccatum dimitti. Quod qui negant eas determinare laborant, nec non in huius sententiae depressione et ad suae opinionis assertionem auctorum testimonia inducunt. Ait enim Dominus per Isaiam[^5]: *Dic tu iniquitates tuas, ut iustificeris.* Item Ambrosius: « Non potest quisquam iustificari a peccato, nisi fuerit peccatum ante confessus ». Idem dicit: « Confessio a morte animam liberat, confessio aperit paradisum, confessio spem salutis tribuit; quia non meretur iustificari qui in vita sua peccata non vult confiteri. Illa confessio nos liberat, quae fit cum poenitentia. Poenitentia vero est dolor cordis et amaritudo animae pro malis, quae quisque commisit ». Item Ioannes[^6]: « Non potest quisquam gratiam Dei accipere, nisi purgatus fuerit ab omni peccato per poenitentiae confessionem et per baptismum ». Item Augustinus[^7]: « Agite poenitentiam, qualis agitur in Ecclesia. Nemo dicat sibi: occulte ago, apud Deum ago; novit Deus, qui mihi ignoscit, quia in corde ago. Ergo sine causa dictum est: *Quae solveritis super terram soluta erunt et in caelis?* Ergo sine causa claves datae sunt? Frustramus verbum Christi. Iob dicit: *Si erubui in conspectu populi peccata mea confiteri*»! Item Ambrosius[^8]: « Venialis est culpa, quam sequitur confessio delictorum ». Item Augustinus[^9] super illum locum Psalmi: *Non absorbeat me profundum, neque urgeat super me puteus os suum:* « Puteus est profunditas iniquitatis, in quam si cecideris, non claudet super te os suum, si tu non claudis os tuum. Confitere ergo et dic: *De profundis clamavi ad te, Domine* etc; et evades. Claudit super illum qui in profundo contemnit, a quo mortuo, velut qui non sit, perit confessio ». Idem[^10]: « Nullus debitae gravioris poenae accipit veniam, nisi qualemcumque, etsi longe minorem, quam debeat, solverit poenam. Ita enim impartitur a Deo largitas misericordiae, ut non relinquatur iustitia disciplinae ». Item Hieronymus[^11]: « Qui peccator est plangat delicta propria vel populi et ingrediatur Ecclesiam, de qua propter peccata fuerat egressus, et dormiat in sacco, ut praeteritas delicias, per quas Deum offenderat, vitae austeritate compenset ». — His aliisque auctoritatibus nituntur asserere, sine confessione vocis et aliqua solutione poenae neminem a peccato mundari.
 
-       lere peccata: ergo                          elc.         Si iu dicas,                             quantum ad                taliler; quia                omnis qui                   petit, sibi               dimitti, sicut di-
+Quid ergo super his sentiendum? quid tenendum? Sane dici potest, quod sine confessione oris et solutione poenae exterioris peccata delentur per contritionem et humilitatem cordis. Ex quo enim *proponit* mente compuncta, se confessurum, Deus dimittit; quia ibi est confessio cordis, etsi non oris, per quam anima interius mundatur a macula et contagio[^12] peccati commissi, et debitum aeternae mortis relaxatur. — Illa ergo, quae superius dicta sunt de confessione et poenitentia, vel ad confessionem cordis et ad interiorem poenam referenda sunt — sicut illud Augustini, « quod nullus dicitur veniam consequi, nisi prius quantulamcumque peccati solverit poenam » — vel de exteriori poena accipienda sunt et ad contemnentes vel negligentes referenda, sicut illud: « Nemo dicat, occulte ago » etc. Nonnulli enim in vita peccata confiteri negligunt vel erubescunt, et ideo non merentur iustificari. Sicut enim praecepta est nobis *interior poenitentia,* ita et oris confessio et exterior satisfactio, si adsit facultas. Unde nec vere poenitens est qui confessionis votum non habet. Et sicut peccati remissio munus Dei est, ita poenitentia et confessio, per quam peccatum deletur, non potest esse nisi a Deo, ut Augustinus[^13] ait: « Iam, inquit, donum Spiritus sancti habet qui confitetur et poenitet, quia non potest esse confessio peccati et punitio in homine ex se ipso. Cum enim irascitur sibi quisque et displicet, sine dono Spiritus sancti non est ». Oportet ergo, poenitentem confiteri, si tempus habeat; et tamen, antequam sit confessio in ore, si votum sit in corde, praestatur ei remissio.
 
-                                                     non                       par             poena veniaiis               et     mittit alii,                      non        dimittit,              ex hoc           petit, sibi   non
-       poenam ; contra                        :                  esl                                                                                       si
+<!-- page 415 -->
 
-                                                                                                                                                                quicumque                   petit,          sibi   peccatum non di-
-       moriaiis; sed isla est salisfaclio pro venialibus: non                                                                      dimitti ; sed
+### Pars II.
 
-       ergo pro niortalilDus.                                                                                                      milli, peccat mortaliter                             :    ergo videtur, quod semper
+### Cap. II. *An sufficiat soli Deo confiteri.*
 
-                        Dicendum quod ipse loquitur de
-                Respondeo                :
-                                                                      ,
-                                                                                                                                   peccat mortaliter, quando hanc oralionem dicit.
+Iam secundum quaestionis articulum inspiciamus, scilicet utrum sufficiat peccata confiteri soli Deo, an et oporteat confiteri sacerdoti. — Quibusdam visum est sufficere, si soli Deo fiat confessio sine iudicio sacerdotali et confessione Ecclesiae; quia David dixit[^14]: *Dixi, confitebor Domino, et tu remisisti* etc.; non ait sacerdoti, et tamen remissum sibi peccatum dicit. Item Ambrosius: « Ideo flevit Petrus, quia culpa obrepsit ei; non invenio, quid dixerit; invenio, quod fleverit. Lacrymas eius lego, satisfactionem non lego. Sed quod defendi non potest ablui potest. Lavant lacrymae delictum, quod voce pudor est confiteri. Et veniae fletus consulit ei verecundiae ». Hoc idem etiam Maximus[^15] episcopus dicit; item Ioannes Chrysostomus: « Non tibi dico, ut te prodas in publicum, neque apud alios te accuses, sed obedire te volo Prophetae dicenti: *Revela Deo viam tuam.* Ante Deum ergo tua confitere peccata, apud verum iudicem cum oratione delicta tua pronuntia, non lingua, sed conscientiae tuae memoria; et tunc demum spera, te misericordiam posse consequi. Si habueris peccata tua in mente continue, nunquam malum adversus proximum in corde tuo tenebis ». Idem[^16]: « Peccata tua dicito, ut deleas illa. Sed si confunderis alicui dicere, dicito ea quotidie in anima tua; non dico, ut confitearis ea conservo tuo, ut tibi exprobret; dicito Deo, qui curat ea. Nec enim, si non dixeris, ignorat ea: cum faciebas ea, praesto erat; cum admitteres ea, cognoverat. Nunquid ea vult a te cognoscere? Peccare enim non erubuisti, et confiteri erubescis? Dicito in hac vita, ut in alia requiem habeas; dicito ingemiscens et lacrymans. In codice scripta sunt peccata tua; spongia peccatorum tuorum lacrymae tuae sint ». Item Prosper[^17]: « Illi quorum peccata humanam notitiam latent, non ab ipsis confessa nec ab aliis publicata, si ea confiteri vel emendare noluerint, Deum, quem habent testem, ipsum et habituri sunt ultorem. Quodsi ipsi sui iudices fiant et veluti suae iniquitatis ultores hic in se voluntariam poenam severissimae animadversionis exerceant; temporalibus poenis mutabunt aeterna supplicia et lacrymis ex vera cordis contritione fluentibus restringent aeterni ignis incendia ». Et infra: « Facilius sibi Deum placabunt illi qui aut propriis confessionibus crimen produnt, aut, nescientibus aliis, ipsi in se voluntariae excommunicationis sententiam ferunt, et ab altari, cui ministrabant, non animo, sed officio separati, vitam suam quasi mortuam plangunt, certi, quod reconciliati sibi efficacis poenitentiae fructibus, a Deo non solum amissa recipiant, sed etiam supernae civitatis gaudia recipiant ». — His auctoritatibus innituntur qui sufficere contendunt Deo confiteri peccata sine sacerdote. Dicunt enim, quod si quis timens, detegi culpam suam apud homines, ne inde opprobrio habeatur, vel alii suo exemplo ad peccandum accingantur, et ideo taceat homini et revelet Deo; consequitur veniam.
 
-jra.   delelione quantum ad poenani. Valel eiiim haec                                                                                    Hespondeo Dicendum quod nullus dicens hanc (foundnm.
-                                                                                                                                                                     :
-                                                                                                                                                                                                 ,
+### Cap. III. *Quod non sufficit soli Deo confiteri, si possit confiteri sacerdoti.*
 
+Sed quod sacerdotibus confiteri oporteat, non solum illa auctoritate Iacobi[^18]: *Confitemini alterutrum peccata vestra* etc., sed etiam aliorum pluribus testimoniis comprobatur. Ait enim Augustinus[^19]: « Iudicet se ipsum homo voluntarie, dum potest, et mores convertat in melius, ne, cum iam non poterit, praeter voluntatem a Domino iudicetur; et cum in se protulerit severissimae medicinae, sed tamen utilissimae sententiam; veniat ad antistites, per quos illi claves in Ecclesia ministrantur. Tanquam bonus iam incipiens esse filius, maternorum membrorum ordine custodito, a praepositis Sacramentorum accipiat satisfactionis suae modum, in offerendo sacrificio contribulati cordis devotus et supplex. Id tamen agat, quod non solum sibi prosit ad salutem, sed etiam ceteris ad exemplum; ut, si peccatum eius non modo in gravi eius malo, sed etiam in tanto scandalo est aliorum, atque hoc expedire utilitati Ecclesiae videtur antistiti, in notitiam multorum, vel totius plebis agere poenitentiam non recuset, ne letali plagae per pudorem addat tumorem ». « Cum tanta est plaga peccati et impetus morbi, ut medicamenta corporis et sanguinis Domini differenda sint, auctoritate antistitis debet se quisque removere ab altari ad agendam poenitentiam et eadem reconciliari ». Item Leo Papa[^20]: « Multiplex misericordia Dei ita lapsibus subvenit humanis, ut non modo per baptismum, sed etiam per poenitentiam spes vitae reparetur, sic divinae voluntatis praesidiis ordinatis, ut indulgentiam Dei nisi supplicationibus sacerdotum nequeant obtinere. Christus enim hanc praepositis Ecclesiae tradidit potestatem, ut confitentibus poenitentiae satisfactionem darent et eosdem, salubri satisfactione purgatos, ad
 
+<!-- page 416 -->
 
+communionem Sacramentorum per ianuam reconciliationis admitterent ». Item Augustinus[^21]: « Quem poenitet, omnino poeniteat et dolorem lacrymis ostendat; repraesentet vitam suam Deo per sacerdotem, praeveniat iudicium Dei per confessionem. Praecepit enim Dominus mundandis, ut ostenderent ora sacerdotibus, docens corporali praesentia confitenda peccata, non per scriptum manifestanda. Dixit enim: *Ora monstrate,* et omnes, non unus pro omnibus, non alium statuatis nuntium, qui pro vobis offerat munus a Moyse statutum; sed qui per vos peccastis, per vos erubescatis. Erubescentia enim ipsa partem habet remissionis. Ex misericordia enim hoc praecepit Dominus, ut nemo poeniteret in occulto. In hoc enim, quod per se ipsum dicit sacerdoti et erubescentiam vincit timore offensi, fit venia criminis. Fit enim veniale per confessionem quod criminale erat in operatione: etsi non statim purgatur, fit tamen veniale quod commiserat mortale. Multum enim satisfactionis obtulit qui, erubescentiae dominans, nihil eorum quae commisit, nuntio Dei negavit. Deus enim, qui misericors et iustus est, sicut servat misericordiam in iustitia, ita et iustitiam in misericordia. Opus enim misericordiae est peccanti peccata dimittere; sed oportet, ut iustus misereatur iusto. Considerat enim, si dignus est, non dico, *iustitia,* sed *misericordia;* iustitia enim sola damnat, sed dignus est misericordia qui spirituali labore quaerit gratiam. Laborat enim mens patiendo erubescentiam; et quoniam verecundia magna est poena, qui erubescit pro Christo fit dignus misericordia. Unde patet, quia, quanto pluribus confitebitur in spe veniae turpitudinem criminis, tanto facilius consequitur gratiam remissionis. Ipsi enim sacerdotes plus possunt proficere, plus confitentibus parcere ». Item Leo Papa[^22]: « Quamvis plenitudo fidei videatur esse laudabilis, quae propter Dei timorem apud homines erubescere non veretur; tamen — quia non omnium huiusmodi sunt peccata, ut ea qui poenitentiam poscunt non timeant publicare — removeatur improbabilis consuetudo, ne multi a poenitentiae remediis arceantur, dum aut erubescunt, aut timent inimicis sua facta rescrare, quibus possunt legum percelli constitutione. Sufficit enim confessio, quae primum Deo offertur et tunc etiam sacerdoti, qui pro delictis poenitentium precator accedit. Tunc enim plures ad poenitentiam poterunt provocari, si populi auribus non publicetur conscientia confitentis ». — Ex his aliisque pluribus indubitanter ostenditur, oportere Deo primum et deinde sacerdoti offerri confessionem, nec aliter posse perveniri ad ingressum paradisi, si adsit facultas.
 
-       oratio contra poenam venialis et mortalis   sed plus                                                   ;
-                                                                                                                                   orationem intendit ipsam dicere ad pelendum iram
+### Pars III.
 
-       contra poenam debitam  alicui veniali, qnae  tota po-                                                                       sed potius ad petendum misericordiam. Quando ergo
+### Cap. IV. *An sufficiat confiteri laico.*
 
-                reniitti         in     hac oratione,                          si        dicatur devote. Ad                        dicit illam conditionem, non intendit vim conditio-
-       tesl
+Nunc priusquam praemissis auctoritatibus, quae his contradicere videntur, respondeamus, tertiam quaestionem intueamur. Quod enim secunda quaestio continebat, scilicet an sine confessione et iudicio sacerdotis soli Deo confiteri sufficeret, expeditum est et certificatum praemissis testimoniis, quod non sufficit confiteri Deo sine sacerdote; nec est vere humilis et poenitens, si non desiderat et requirit sacerdotis iudicium. Sed nunquid aeque valet alicui confiteri socio vel proximo suo, saltem cum deest sacerdos? — Sane ad hoc dici potest, quod sacerdotis examen requirendum est studiose, quia sacerdotibus concessit Deus potestatem ligandi et solvendi. Et ideo quibus ipsi dimittunt, et Deus dimittit. Si tamen defuerit sacerdos, proximo vel socio est facienda confessio. Sed curet quisque sacerdotem quaerere, qui sciat ligare et solvere. Talem enim esse oportet, qui aliorum crimina iudicat. Unde Augustinus[^23]: « Qui vult confiteri peccata, ut inveniat gratiam, quaerat sacerdotem, qui sciat ligare et solvere, ne, cum negligens circa se exstiterit, negligatur ab illo qui eum misericorditer monet et petit, ne *ambo in foveam cadant,* quam stultus evitare noluit. Tanta itaque vis confessionis est, ut, si deest sacerdos, confiteatur proximo. Saepe enim contingit, quod poenitens non potest verecundari coram sacerdote, quem desideranti nec tempus nec locus offert. Etsi ille cui confitebitur, potestatem solvendi non habeat, tamen dignus venia fit ex sacerdotis desiderio qui crimen confitetur socio. Mundati enim sunt leprosi, dum ibant ora vel se ostendere sacerdotibus, antequam ad eos pervenirent. Unde patet, Deum ad cor respicere, dum ex necessitate prohibentur ad sacerdotes pervenire. Saepe quidem eos quaerunt sani et laeti, sed dum quaerunt, antequam perveniant, moriuntur. Sed misericordia Dei ubique est, qui et iustis parcere novit, etsi non tam cito, sicut si solverentur a sacerdote. Qui ergo omnino confitetur, sacerdoti meliori quam potest confiteatur ». « Et si peccatum occultum est, sufficiat referre in notitiam sacerdotis. Nam in resuscitatione filiae archisynagogi[^24] pauci interfuerunt, qui viderent; nondum enim erat sepulta, nondum extra portam delata, nondum extra domum in notitiam portata. Intus resuscitavit, quam intus invenit, relictis solis Petro et Iacobo et Ioanne et patre et matre puellae, in quibus figuraliter continentur sacerdotes Ecclesiae. Quos autem extra invenit, advertendum est, quomodo suscitavit. Flebat
 
-       poenam mortalis valet, sed non lantum, quia non                                                                             nis aggravare,                        sive sit       homo intelligens, sive                        sim-
+<!-- page 417 -->
 
-       totnm remiltit; valet tamen aliquantulum, immo                                                                              plex    ;    et ideo non est                     ibi          novus contemptus, ac per
-                                                                                                             sed ratione           hoc nec novum peccatum                                        nihilominus peccatum ag-
-       mullum, non tantum                                  ratione oralionis,                                                                                                                ;
+enim turba post filium viduae, flevit Martha et Maria supplicantes pro fratre, flebat et turba Mariam secuta. In quo docemur, publice peccantibus non proprium, sed Ecclesiae sufficere meritum ». « Laboret igitur poenitens in Ecclesia esse et ad Ecclesiae unitatem tendere. Nisi enim unitas Ecclesiae succurrat, nisi quod deest peccatori sua oratione compleat; de manibus inimici non eripietur anima mortui. Credendum est enim, quod omnes orationes et eleemosynae Ecclesiae et opera iustitiae et misericordiae succurrant recognoscenti mortem suam ad conversionem. Ideoque nemo digne poenitere potest, quem non sustineat unitas Ecclesiae; ideoque non petat sacerdotes per aliquam culpam ab unitate Ecclesiae divisos ». — Ex his satis aperitur et absolvitur praemissae quaestionis articulus. Quaerendus est enim sacerdos sapiens et discretus, qui cum potestate simul habeat iudicium, qui si forte defuerit, confiteri debet socio. — Beda[^25] vero inter confessionem venialium et mortalium distinguit super illum locum: *Confitemini alterutrum peccata vestra.* Ait enim: « Coaequalibus quotidiana et levia, graviora vero sacerdoti pandamus et, quanto iusserit tempore, purgare curemus, quia sine confessione emendationis peccata nequeunt dimitti ». Sed et graviora coaequalibus pandenda sunt, cum deest sacerdos, et urget periculum. Venialia vero, etiam sacerdotis oblata copia, licet confiteri coaequali, et sufficit, ut quibusdam placet, si tamen ex contemptu non praetermittatur sacerdos. Tutius tamen est et perfectius utriusque generis peccata sacerdotibus pandere et consilium medicinae ab eis quaerere, quibus concessa est potestas ligandi et solvendi.
 
+### Cap. V. *Ad quid valeat confessio.*
 
+Cum igitur ex his aliisque pluribus testimoniis perspicuum fiat et indubitabiliter constet, peccata primum Deo, deinde sacerdoti esse confitenda, et si ipse defuerit, etiam socio; illud Ioannis Chrysostomi superius[^26] positum non est ita intelligendum, ut liceat alicui, si tempus habeat, sacerdoti non confiteri; sed quia sufficit, ubi crimen occultum est, soli Deo per sacerdotem dicere et semel, nec oportet publicari coram multis quod occultum est; quod notavit dicens: « Non tibi dico ut te prodas in publicum ». Sicut enim publica noxa publico eget remedio, ita occulta secreta confessione et occulta satisfactione purgatur. Nec necesse est, ut quod sacerdoti semel confessi sumus iterum confiteamur; sed lingua cordis non carnis, apud verum iudicem id iugiter confiteri debemus. Unde idem Ioannes[^27] ait: « Nunc autem, si recorderis peccatorum tuorum et frequenter ea in conspectu Dei pronunties et pro eis depreceris, citius illa delebis. Si vero obliviscaris, tunc eorum recordaberis nolens, quando publicabuntur et in conspectu omnium amicorum et inimicorum sanctorumque Angelorum proferentur ». — Ita etiam illud Ambrosii: « Lacrymae lavant delictum, quod voce pudor est confiteri », ad publicam poenitentiam referendum est. Ibi enim virtutem lacrymarum et confessionis ostendens, significare voluit, quod lacrymae occultae et confessio secreta, sicut quae fit soli sacerdoti, lavant delictum, quod pudet aliquem publice confiteri. Quod vero dicit, se lacrymas Petri legisse, non confessionem vel satisfactionem; per hoc non excludit illa. Multa enim facta sunt, quae scripta non sunt, vel forte nondum facta erat institutio confessionis[^28], quae modo est. — Similiter et illud Prosperi: « Si sui iudices fiant, mutabunt aeterna supplicia »; et illud: « Facilius Deum placabunt sibi qui aut propriis confessionibus crimen produnt, aut nescientibus aliis, in se sententiam excommunicationis ferunt »; ad publicam confessionem et satisfactionem referri oportet. Non enim solis sacerdotibus ius ligandi atque solvendi datum est, si cuique suo arbitrio se poena vel excommunicationis sententia ligare et absque sacerdotali iudicio se ipsum Deo vel altari reconciliare licet; quod ecclesiasticae institutioni et consuetudini penitus repugnat. Potius igitur, si publice peccasti, publice confitere te reum et emenda; si vero occulte deliquisti, etiam sic non taceas; nec tamen dico, ut publices. « Taciturnitas enim peccati ex superbia nascitur cordis. Ideo enim peccatum suum quis celat, ne reputetur foris, qualem se iam divino conspectui exhibuit; quod ex fonte superbiae nascitur. Species enim superbiae est se velle iustum videri, qui peccator est, atque hypocrita convincitur qui ad instar primorum parentum vel tergiversatione verborum peccata sua levigare contendit, vel sicut Cain peccatum suum reticendo supprimere quaerit. Ubi vero superbia regnat vel hypocrisis, humilitas locum non habet; sine humilitate vero alicui veniam sperare non licet. Ubi ergo est taciturnitas confessionis, non est speranda venia criminis »[^29]. — Iam certissime liquet, quam sit detestabile peccati silentium, et e converso, quam sit necessaria confessio. Est enim confessio testimonium conscientiae Deum timentis. Qui enim timet iudicium Dei, peccatum non erubescit confiteri. Perfectus timor solvit omnem pudorem; confessio peccati pudorem habet, et ipsa erubescentia est gravis poena. Ideoque iubemur confiteri peccata, ut erubescentiam patiamur pro poena; nam hoc ipsum pars est divini iudicii. — Si ergo quaeritur, ad quid confessio sit necessaria, cum in contritione iam deletum sit peccatum; dicimus, quia quaedam punitio peccati est, sicut satisfactio operis. Per confessionem etiam intelligit sacerdos, qualiter debeat iudicare de crimine; per eam quoque peccator fit humilior et cautior.
 
-
-                                                                et ista est eleemosyna prae-                                       gravatur oceasionaliter \                                     Et     si tu obiicias,               quod
-       eleemosynae imphcitae                               ;
-
-
-
-       cipua, scilicet remittere peccatum proximo; et ideo                                                                         tunc deberet abstinere; dico, quod adhuc aggrava-
-
-       dicit': « Si veraciter dicitur  Dimitte nobis, sicut                    :
-                                                                                                                                   retur magis, dum ab aliis petitionibus saluberrimis
-
-       el     nos dimittimus ».                                                                                                    cor pelentis arceretur. Si tu dicas, qnod illam de-
-                                                                                                                                   beret dimittere; adhuc gravius                                                peccaret,     dum Do-
-                                                          DuB. V.                                                                  mini orationem                        scienler            infringeret. Et ideo                sanum
-                                                                                                                                   consiiium est cuilibet, quod                                        in        fraterno odio nulla-
-
-                Ilem quaeritur de hoc                                      quod                 dicil:        Si ita ve-           tenus perseveret;                        apparet enim, qnod sine dispen-
-
-       raciter dicatur ,                          sicut          et       nos dimittimus                          etc. Se-         dio    maximo esse non potest \
-
-
-
-
-                                                                                                             DISTINCTIO XYII.
-
-
-                                                                                                                            Pars   I.
-
-
-
-
-                                                           Cap.           I.                                                       tritioiie         peccatum              dimitti a             Deo, sl lamen votum con-
-                                                                                                                                   filendi habeat.                   Unde Propheta': Dixi, confitebor ad-
-                                                                                                                                   versum me               iniusliliam meam.       Domino, et tu remisisti
-                    Ulrum si-ne confessione dimittanlur peccata.
-                                                                                                                                   etc. Quod exponens Cassiodorns^ ait:   «Dixi, id est cassiodorns.
-
-                Hic orilur quaeslio mulliplex. Primo                                                         eiiim quae-           deliberavi apnd me, quod confitebor, et tu remisisli.
-
-       rilur,        ulrum absque                         salisfacllone                    et         oris    confessioiie         Magna pielas Dei, quod ad solani promissionem pecca-
-       per solam cordis conlrilionem peccalum                                                                alicui dimil-         lum        dimiseri!.             Volum eiiim j^ro operalione iudicalur». Daiinm i.
-       tatur. Secniido, aii aliquando sufficiat
-                                                confileri                                                               Deo        Item Auguslinus^:                        «   Nondum pronunliat, promittit, se Angnsiinas.
-       sine sacerdole. Terlio, an laico fideli facla valeat
-                                                            confes-                                                                pronunlialurum; et Deus diinitlit, quia hoc ipsum di-
-       sic     —
-              In his enim ctiam  docll diversa   senlire invenluu-                                                                 cere quoddam pronunliare est corde. Nonduni est vox
-
-       tur, qiiia siiper his varia ac    pene adversa tradidisse                                                                   in ore, ut              hoino audiat confessionem, et Deusaudit».
-
-   4. videntiii' doclores.  Dicunt  enim  quidam, siiie confessione                                                                Item: Sacrificium Deo spiritus contribulatiis , cor con-
-
-      oris ei  satisfaclione operis  neminem  a peccato mundari,                                                                   tritum etc. Alibi eliaai legitur: Quacumque hora pec-
-
-  2. si       tcmpus           illa     faciendi               hat)uerit.                 —      .^lii       vero dicunl,          cator conversus fueril                          et       ingemuerit, vita vivet et noii
-                                                                                                                                   morietur; non                     dicilur:           ore confessus fuerit, sed con-
-       anle oris confessionem et salisfaclionem in cordis con-
-
-
-
-
-                1
-                    Ciiii.is   siint     vcrba, de quibus hic est qiiaestio;                                        cfr.    liic                           NOTAE AD LIBR. SENTENTIARUM.
-       lit.   Mngistri, c. 6.
-                                                                                                                                          1    Psalm. 31,             5.   — De     liis         duabus opinionibus cfr. Ilugo,
-                                                                                                                                         de Sacram.                  U, c. 8, et Sum. Sent. tr. 6. c.                         II; insuper
-                2   Edd. Conlra, quac eliam inferius                                           cum non paucis codd.                II.                         p.
-
-                                                                                                                                   Graiian., Introductio de Poenit. d.                                 1.
-       remittilur pro remittit.
-                                                                                                Ibid.    etiam iiisinuan-                 2    In    eund. Ps. v. 7; sed ipse hoc                                  sumsit ex August. in
-                3   Augusl.,          liic   in    lit.    Magislri,                c.    6.
-
-                                                                ponuntur.                                                          seq. nola          cit.;     in   quo        lextu pro            quod ad Vat. qui ad, codd.
-        tur alia,       quae      in     liac solut.
-                *   Clr.   Innocent           III,   V. de Saoro Altaris myslerio, c. 22.
-                                                                                                                            —      DE      et       ed.    i    quae ad.         — Supra pro pene adversa pluiimae
-        Subinde pro               arcerelur               non pauci codd.                             arceret et (jravius          edd. male pene diversa.
-                                                                                                                                           3    In   Ps.      31. enarrat. 2. n.                     IS, et      apud Lyran. loc. cit., et
-       peccasset pro gravius peccaret.
-                5    Vide Alex.           Hal., S.          p.    IV.          q.        10.    Ir.    de Oflido Alissae,          C.    Magna pielas (S.), de Poenit. d.                                   I.    — Duo loci Scriplurae
-
-        p.    II.   de quinta petilione oralionis dominicae.                                                                       sunt Ps. 50, 19; Ezech. 18,                               17.
-                  414                                                                                                 SENTENTIARUM LIB. iV.
-
-Gratianas.        versus ingemuerit.                            «Uiule dalur                     inlelligi,          qiiod eliam                           claudis os tuum. Confitere ergo el dic:                                                        De profwidis
-                  ore laceiite,                  veiiiain inlerdum eonsequimur. Hinc eliam                                                                 clamavi ad te, Domine etc;                                        et     evades.               Claudit super
-
-                  leprosi illi, quibus Dominus praecepil, ul ostenderenl                                                                                   illum qui in profundo contemnit, a                                                 quo morluo, velut
-                  se sacerdolibus, in ilincre, antequam ad sacerdoles ve-                                                                                  qui non                 sit,   perit confessio». Idein': «Nullus debitaeAug
-
-                  nirenl, niundati sunt. Ex quo iusinuatur, quod anle-                                                                                     gravioris poenae accipit veniam,                                                 nisi        qualemcumque,
-                  quam sacerdotibus ora noslra aperiamus,                                                             id est               pec-            elsi         longe minorem,                 quam                 debeat,               solverit           poenam.
-                  cata coiifileamur, a lepra peccati                                                 mundamur. Lazarus                                     Ila      eniin imparlilur a                      Deo             largitas            misericordiae,                   ul
-
-                  etiani            non prius de monumenlo                                   est        eductus            et        post a                non           relinquatur              iustitia           disciplinae».                       Itcm        Hierony-Hiei
-
-                  Domino suscitatus, sed intiis                                        suscitalus,                  prodiit foras                          mus": «Qui peccator est plangat                                                   dclicta          propria vel
-                  vivus;             ut oslenderetur                          suscitalio             animae           praecedere                           populi et ingrediatur Ecclesiain,                                            de qua propter pec-
-Dubium 3, confessionem.                            Nemo enim potest conliteri                                        nisi suscila-                         cala             fueral egressus, et dormial in sacco, ut praeter- Dn!;iii
-                  tus, quia a mortuo, veiut qui non esl, perit confessio:                                                                                  ilas         delicias, per             quas           Deuni offenderat, vitae                                   auste-
-
-                  nullus ergo confilelur nisi resuscitatus. Nemo vero su-                                                                                  rilate            coinpenset».           — His aliisque auctorilalibus                                          nitun-
-
-                  scilatur, nisi qui a peccato                                        solvitur;               quia        peccatum                         lur asserere, sine confessione vocis ct alicjua solutioue
-Dabium 3. mors                  auimae est, quae                              ut esl       vita         corporis,                ita       eius            poenae neinincm a peccalo mundari.
-                  vita      Deus est'».                       — His            aliisque pluribus                       auctoritali-                            Quid ergo super his sentienduin? quid tenenduin? sen
-                                                                                                                                                                    .
-
-
-
-                  bus probatur, ante conressioncin vel satisfactionem sola                                                                                 Sane dici polest, quod sine confessione oris et solutione
-                  compunctione pcccalum dimitti. Quod qui negaut eas                                                                                       poenae exterioris peccata                                    delenlur                   per        conlritionem
-                  delerminare laborant, nec non                                             in       huius sentenliae de-                                  et       humiiilatem cordis.                      Ex quo                    eniin           proponit            mente
-                  pressione et ad suae opinionis                                            assertionem                    auctorum                        compuncta,                     se confessurum,                      Deus               dimittit;              quia    ibi
-
-                  leslimonia iuducunl. Ait                                     enim Dominus per                                 Isaiain-:                  esl          confessio cordis,                  etsi        non        oris,           per         quain anima
-Ambrosius.        Dic tu iniquitatcs tuas , ut iustificeris. Item Ambrosius:                                                                               interius inundatur a                        macula                et    contagio ° peccati com-
-                  «Non potest quisquam iustificari                                                   a peccato,                 nisi fue-                  missi,             el     debitum          aelernae                mortis               relaxatur.             —     Illa
-
-              peccalum aiilc confessus». Idein dicit: « Coiifessio
-                  rit                                                                                                                                      ergo, quae superius dicla sunt de confessione et poe-
-          a morte animaiu liberal, confessio aperit paradisum,                                                                                             nileutia, vel                  ad confessionem                      cordis el ad                        interioreni
-
-Dubium 4. confessio spem salulis iribuit; quia non meretur iusli-                                                                                          poenam referenda sunt                                —      sicut illud Aiigustini,                            «    qiiod
-
-          ficari qui in vila sua peccala non   vult confileri. Illa                                                                                        nullus dicitur veniain consequi,                                             nisi       prius quantulam-
-          confessio nos liberat, quae flt cum poenilenlia. Poeni-                                                                                          cumque peccati                         solverit           poenam »                —          vel   de exteriori
-                  tentia vero esl dolor cordis el ainaritudo                                                          aiiimae pro                          poena accipienda sunt et ad contemnenles vel negligenles
-   loannes.       malis, qnae quisque commisit». Ilem loannes^-                                                                        «       Non         referenda, sicut illud:                           «    Nemo dical, occulte ago » etc.
-Dobium   5.       potest quisquani gratiam Dei accipere,                                                           nisi         purgatus                   Nonnulli eiiim                    in    vila         peccata                coufileri              negligunt vel
-                                                                                                                                                                                                                                                                                        cou
-                  fuerit ab oinni peccalo per poenitenliae                                                           confessionem                          eruhescunt,                    et ideo     non merentur iusiificari. Sicut enim
-Augnstinns. et•
-                        per baplismum». Item Augustinus *: «Agite poeni-                                                                                   praecepta est nobis                             interior            poenitenlia,                        ila    et oris
-
-Dnbium 6. tentiani, quaiis agitur                                         in     Ecclesia.                  Nemo          dicat sibi:                      confessio el exterior satisfactio,                                          si    adsit facultas. Unde
-                  occulle ago,                      apud Deum ago; novit Deiis, qui inihi                                                                  ncc vere poenitens est qui confessionis votuin non ha-
-                  ignoscit, quia in                    corde ago. Ergo sine causa dictum                                                                   bet.             Et sicut peccali remissio inunus Dei esl,                                                    ita    poe-
-                  est: Quae solveritis super lerrain soluta erunt et in                                                                                    nitentia et confessio, per quain                                            peccatum deletur, non
-                  caeiis? Evgo sine causa claves datae sunt? Frustramus                                                                                    potest csse nisi a Deo, ut Auguslinus '" ait: «Iain,in-*"^
-                  verbuni Chrisli. lob dicit: Si erubui in conspectu po-                                                                                   qiiit,            donum          Spirilus            sancli            habet            qui        confitetur et
-Dubium 7. fuli peccata                             mea         confiteri»!                 Itein       Ainbrosius '^:                      «    Ve-        poenilet, quia noii polest esse confessio peccati et pu-
-Ambrosins. nialis                 quam sequitur confessio delictorum».
-                                    est cuipa,                                                                                                              nitio            in    homine ex se                  ipso.        Cam enim                        irascitur sibi
-Augustinus        llem Augusiinus^ super illum locum Psalini: Non ab-                                                                                      quisque                 et displicet, sine                dono Spiritus saiicli non est».
-                  sorbeal                me profundmn-, neque urgeat super me puteus                                                                       Oportet ergo, poenilentem confileri, si teinpus habeat;
-                  os    suum: «Puleiis est profundilas iniquitatis,         in quam                                                                        et       tamen, antequam                        sit    confessio in ore,                           si    votum sit
-                  si    cecideris, non claudet super le os suuni,                                                               si   tu non                in       corde, praestatur                      ei     remissio.
-
-
-
-
-                            1       Gratian., suppr C.                 Convertimini ad                       me (34.), ibid.,                       iibi                "    Enarrat. in Ps. 68,                 16.    serin.         I.    n.        19; Gralian., super
-                  respiciunliir Luc.                     17,     'l-i;    loan.       II,        ii; Eccli.          17, 2P.           — De                C.       Voluissent iniqui (60.), ibid. § 3, et apud Lyran. in eund.
-                  viia      animae              rfr.    .\ug;usl.        in    Ps. 70.      enarrat. 2. n.                ?,.                               locum.            — Loci Scripturae sunt                        Ps.        129,       1';    Prov. 18, 3; Eccli.
-                            ~       Cap. 43,           2(;.   — Lncus Ambrosii cst                           rle    Poradiso,              c.       11.     17, 26.
-                                                                                                                                                                        ^
-                  n.    7'l     ;     C.    Non         potest         (38.), ibid.              Seq.        locus    est        eiusdem,                                    Dc Continentia,          c.        6.     n.     13; C. Nullus debitae (42.),
-                  Serm.             2-5.    de    s.    Quadragesima              ,   n.     1   ;    C.     Ecce nunc iempus                               ibid. ;          ubi in tine pro iustitia disciplinae codd. B C et edd.                                               2,
-
-                  (39.),            ibid.                                                                                                                   3,          6,    7,      S   iustitiae        disciplim,              refragantibus                   originali       et
-
-                            3       In     paucis edd. additur Clmjsostomus , at locus                                               iste           non     canone.
-                  invenitur                in    ed.      Maurina Chrysostomi,                              est    lamen        in   C.         Non                     *    Commenl.        in    loel.    1,       13; C. Qui sanctus (66.), ibid.                              —
-                  potest quis (41.), ibid., ubi editores censent, fortasse substituen-                                                                      Pro propter peccata codd. B C D E                                     et ed.           1    propler peccatum,
-                   dnm esse CliromcUium pro Chrysostomo.                                                                                                    refivigante              canone.      — De               ultima        propositione                et    seqq.       cfr.
-
-                            •       Serm.        392.         (alias      horail.      49.           inter        Homil. 30)                   c.     3.    Gratian., super C.                   Quis aliquando                   (87.),      ibid.       g 14.
-                   n.   3   ;       C.     Agite poenitentiam                   (44.), ibid.            Loci        Scripturae                  sunt                    ^    Ita    codd.   et    plurimae edd.,                  in    aliis      contafjione.
-                   aiatth.           18,        18; loan. 20. 23;                lob 31,             3.3.                                                               '"    Enarral.      in    Ps. 30. n.           16, ubi pro punitio edd., excepla
-                            ^       Libr.       de Paradiso,              c.    14.   n.    71;        C.     Serpens           (47.), ibid.                I
-                                                                                                                                                                ,   compunctio , refragantibus oodd.                                   et originali.
-
-
-
-
-                                                                                                                                                                                                                                                                                        ^\
-                                                                                                                                           ,                                                                                                                       ;
-
-
-
-
-                                                                                                                                  DISTINCTIO XVII.                                                                                                       415
-
-
-
-                                                                                                                                         Pars   II.
-
-
-
-
-                                                                 Cap.    II.                                                                    miiiistrabanl,                      non animo, sed                  officio separati,                   vilam
-                                                                                                                                                suam quasi morluam plangunt, certi, qiiod reconciliali
-                                       A)i suffidal soli Deo confiteri.                                                                         sibi efficacis pociiitentiae fructibus, a Deo non solum
-
-                                                                                                                                                amissa             recipiant, scd etiam supernae civitatis gaudia
-            lam secuiKkim quacsUonis articulum iiispiciamus,                                                                                    recipiant».                   — His auctoritatibus inniluntur qui                                       suiri-
-    1. scilicet  utrnm sufllciat peccala confiteri soli Deo, an                                                                                 cere contendunt Deo confiteri peccata                                                 sine sacerdole.
-    et oporleatconfiteri sacerfloti.    Quibusclam visum esl suf-    —                                                                          Dicunt enim, quodsi quis timens, detegi culpam suam
-
-       fjcere, si soli Deo fiat confcssio sine iudicio sacerclotali                                                                             apnd homines, ne inde opprobrio habealur, vel alii
-       etconfessione Ecclesiae; quiu David dixit' Dixi, confite-                                            :                                   suo exemplo ad peccandum accingantur, et ideo laceat
-       bor Domino, et tu remisisti elc.      non ait sacerdoti, et                  ;                                                           homini             et revelet           Deo; consequitur veniam.
- iins. tanien   remissum sibl peccatum dicit. Item Ambrosiiis:
-         Ideo flevil Pelrus, quia culpa obrepsit ei
-          II                                               non in-                                                       ;
-                                                                                                                                                                                                   Cap.      III.
-       venio, quid dixerit; invenio, quod fleverit. Lacrymas
- n 2. eius lego,    salislactionem non lego. Sed quod defendi
-                                                                                                                                                            Quod non sufficit soii Deo confiteri, si possit
-       non potest ablui potest. Lavant lacrymae delictum
-                                                                                                                                                                                        confiteri sacerdoti.
-       quod voce pudor est confileri. Et veniae fletus consu-
- se'lit ei verecundiae ». Hoc idem etiam Maximus^ epi-
-
-          scopus               dicit; ilcm                 loannes Clirysostomus                                :    «       Non libi                    Sed quod sacerdotibus confiteri oporteat, non                                                        so- opmio 2. et
-
-          dico, ut te prodas in                              publicum, neque apud                                             alios      le     lum         illa    aiictoritale                 lacobi ^     :     Confiteniini              alterutrum
-          accuses, sed obedire le volo Prophetae dicenli                                                                      :   Revela                           sed etiam aliorum pluribus testi-
-                                                                                                                                                peccctta vestra elc.                    ,
-
-
-
-          Deo  viam tuam. Ante Deum ergo tua confitere pec-                                                                                     moniis comprobatur. Ait enim Augustinus « ludicet se Augasiinns.                         :
-
-
-
-          cala, apud verum iudicem cum oralione delicta tua                                                                                     ipsum homo vohinlarie, dum potest,                                               el     mores coiiver-
-          pronuntia, non                            lingua, sed            conscientiae                         tuae              memo-         tat in        melius, ne,                   cum iam non                   poterit, praeter                    vo-
-          ria ; et             tunc demum spera, te misericordiam ])osse con-                                                                   luntalem a Domino iudicelur;                                        et   cnm in se prolulerit
-          sequi. Si habueris peccala tua in                                          mente continue, nun-                                       severissimae medicinae, sed tamen utilissimae senlen-
-          quam malum adversus proximum                                                       in        corde tuo tene-                          tiam; veniat ad anlistites, per quos                                             illi   clavcs in Ec-
-          bis ».          Idem ^           :    «    Peccata tua dicito, ut deleas                                            illa.     Sed     clesia minislrantiir.     Tanquam boniis iam incipiens esse
-          si   confunderis alicui dicere, dicito ea quotidie in anima                                                                           filius,        maternorum membrorum ordine cuslodilo, a
-" 3. lua         ;       non dico, ut confitearis ea conservo tuo, ut libi                                                                      praepositis Sacramenlorum accipiat satisfaclionis siiae
-          exprobret              ;    dicito Deo, qui curat ea.                                   Nec enim, si non                              modiim, in offerendo sacrificio contribulati cordis de-
-          dixeris, iguorat ea: cum laciebas ea, praeslo erat; cum                                                                               volus et supplex. Id tamen agat, quod non solum sibi
-          admitteres                  ea,           cognoverat. Nunquid ea vult a                                                  te   co-     prosit ad salutem, scd etiam ceteris ad exemplum                                                         ;    ut,
-          gnoscere?                   Peccare              enim      non           erubuisli,                       et        coiifiteri        si     peccalum eius non modo                                     in gravi        eius         malo,         sed
-          erubescis? Dicilo iu hac vita, ut                                                 in    alia          requiem ba-                     eliam in lanlo scandalo est aliorum                                       ,   alque hoc expedire
-          beas; dicilo ingemiscens et lacrymans. In codice scri-                                                                                utilitati Ecclesiae videturantistiti, in                                      nolitiam multorum,
-          pla sunt peccata tua ; spongia peccatorum                                                                  tuorum              la-    vel totius plebis agere                                poenitentiani              non recuset, ne
- p^"'-    crymae luae sint». Item Prosper": « llli quorum pec-                                                                                  letali       plagae            per      pudorem addat lumorem ».                                    «    Cum
-          cata humanam noliliam latent, non ab ipsis confcssa                                                                                   taiita       est plaga               peccati el impetns niorbl, ut medica-
-          nec ab aliis publicala, si ea conflteri vel emendare                                                                                  menla corporis et saiiguinis Domini diflerenda sint, au-
-          noluerinl, Deum, quem habent testem, ipsum et ha-                                                                                     ctoritale anlistiiis debet se quisque reniovere ab altari
-          biluri              sunt         ultorem. Quodsi                 ipsi             sui        iudices fiant el                         ad agendam poenitenliam et eadem recoiiciliari ». Ilein
-          veluli              suae iniquitatis                   ullores       hic               in        se voluntariam                       Leo Papa     « Multiplex
-                                                                                                                                                                     '^
-                                                                                                                                                                         misericordia Dei ita lapsibus Leo.
-                                                                                                                                                                          :
-
-
-
-          poenam severissimac aiiimadversionis exerceant; tem-                                                                                  subvenit humanis, iit non modo per baplisnmm, sed
-          poralibus poenis mulabunl aeterna supplicia el lacry-                                                                                 eliam per poenitentiam spes vitae reparetnr, sic divi-
-          niis ex             vera cordis contrilione fluentibus reslringent ae-                                                                nae voluntalis praesidiis ordinatis, ut indulgentiam Dei oabium 5.
-          terni           ignis       iiicendia ». Et infra                    :        «    Facilius sibi                         Deum         nisi        supplicationibus                       sacerdotum                 nequeant           obtinere.
-          placabunt                  illi      qui aut           propriis          coufessionibus crinien                                       Cbrislus enim hanc praepositis Ecclesiae                                                     tradidit po-
-im   4,   produnt, aut, nescieiWibus                                    aliis,      ipsi              in se         volunlariae                 testatem, ut                   confitentibus                 poenilentiae               satisfaclionem
-          excommunicationis scntenliam ferunt,                                                         et       ab       allari, cui            darent         el    eosdem, salubri                         satisfactioue              purgatos,             ad
-
-
-
-                     ^    Psalni. 31, 5.              — Locus Ambrosii                      est       X. E,\posit. Evang.                       (31.),       ibid.    —        In    fine    pro restringent codd.                      ABE et plures
-          sec.       Lucam, n. 88;                    C.   Petrus doluit            (I.),         ibid.         d.       1.                     edd. restringunt , refragante originall.                                 — Seq.       lociis    ibid.   n.     3
-                     -    Homil. 33; locus Chrysost.                        est         Homil.              31. in             Epist.    ad     C. Facilius (32.), ibid.
-          Hebr. n. 3;                 cfr.      Gralian.,        super C.      Oiiis             aliquando                   (87.), ibid.               5    Cap.     5,       16.    Locus August.               est    sermo 331.           (alias homil.
-
-          S    1,        in    quo      textu         respicitur     Ps.    36,             S.    — Codd.                     et      pluri-    ult.    inter       50 Homil.)              e.    i.    n.   9; C. ludicet (8S.), ibid.                   Seq.
-          mne edd. omiltunt Deo                             et    coniungunt ante                      Deum cum verbis                          locus        est     eiusdem           Epist.          34.   (alias       118.     ad        lanuar.)    c.    3.
-          viam tuam.                                                                                                                            n.     i; C. In actione (84.), ibid.
-                     ^    Homil.        2.      in    Ps. SO. n. 3.        (inter spuria).                                                              s    Epist.       108. (alias 83. ad Theodor. Foroiul. episc.)                                   c.    2;
-                     *    Libr.      II.       de    Vita    contemplat.           c.        7.       n.    2; C.            Porro illi         C. Multiplex (49.), ibid.
-              416                                                                                             SENTENTIARUM LIB. IV.
-
-            communionem Sacramenlorum per ianuam reconcilia-                                                                               et     misericordia ; iuslitia                            enim sola                       damnal, scd                     di-
-
-Aagnstinus. lionis aclmitlerenl ». Item Augustinus « Quem poeni-                                  '
-                                                                                                      :                                    gnus        est misericordia qui spiriluali labore quaerit gra-
-              let, omnino poeniteat et dolorem lacrymis ostendat;                                                                          liam.        Laborat enim mens patiendo erubescentiain et                                                             ;
-
-
-
-              repraesenlet vitam suam Deo per sacerdolem praeve-                                                    ,                      quoniam verecundia magna                                         est        poena, qui erubescit
-              niat iudicium Dei per confessionem. Praecepit enim                                                                           pro Chrislo               fit    dignus misericordia. Unde palet, quia,
-              Dominus mundandis, ut ostenderent ora sacerdolibus,                                                                          quanlo pluribus confllebilur                                     in      spe             veniae           lurpitudi- Dali
-Dnbiam 6. doceus corpoi'a]i                                  praesentia confitenda                         peccala           ,     non     nem criminis, tanlo facilius consequitur gratiam remis-
-              per scriplum manifestanda. Dixil enim                                                   :    Ora monstrate,                  sionis.       Ipsi enini sacerdoles plus possunt proficere, plus
-
-              et omnes, nou unus pro omnibus, non alium statuatis                                                                          confltentibus parcere ».                                 Item         Leo Papa^:                       « Quamvis
-
-              nunlium, qui pro vobis olTerat munus a Moyse stalu-                                                                          plenitudo fldei videalur esse laudabilis,                                                           quae propter
-              tum sed qui per vos peccaslis, per vos erubescatis.
-                     ;                                                                                                                     Dei timorem apud homines                                         erubescere                         non veretur;
-              Erubescentia enim ipsa partem habet remissionis. Ex                                                                          lamen — quia non omnium huiusmodi sunt peccata,
-              misericordia euim boc praecepit Dominus, ut nemo                                                                             ut ea qui poenitentiam poscunl non timeant                                                                          publi-
-              poeniteret in occulto. In hoc enim,quodper se ipsum                                                                          care — removeatur improbabilis consuetudo, ne                                                                       mulli
-              dicil sacci'doti                        et     erubescentiam vincil                          timore offensi,                 a      poenilentiae               remediis                arceantur,                      dum            aut    erube-
-               venia criminis. Fit enim veniale per confessionem
-              fit                                                                                                                          scunt,            aut     liment             inimicis            sua            facta           restrare        ,    qui-
-           quod criminale erai in operatione: elsi non statim pur-                                                                         bus possunt legum percelli                                     constitiilione.                      SulTicit enim
-
- Dabium 7. gatur, fit tamen veniale quod commiserat mortale.                                                                               confessio, quae                   primum Deo olTertur et tunc etiam sa-
-           Multum enim satisfaclionis oblulit qiri, erubescentiae                                                                          cerdoti,           qiii    pro deliclis poenitentium                                            precator acce-
-           dominans, nihil eorum quae commisit, nuntio Dei ne-                                                                             dit.    Tunc           enini plures ad poenitentiam                                             poterunt pro-
-           gavit. Deus enim, qui misericors et iustus est, sicut                                                                           vocari,           si    populi auribus                      non          publicetur                      conscienlia
-              servat misericordiam in iustitia,                                          ila et iustitiam in                       mi-     confitentis».              — Ex              liis     aliisque              pluribus indubitanler CODI!
-                                                                                                                                                                                                                                                                            lUaii
-              sericordia.                   Opus enim miscricordiae esl peccanli pec-                                                      ostenditur, oportere                          Deo primum                         et        deinde sacerdoti
-              cata dimitlere                      ;    sed oportet, ut iuslus misereatur iusto.                                            offerri       confessionem, nec                           aiiter         posse perveniri ad                                in-
-
-              Considerat enini,                             si      dignus est, non dico, iusiida^ sed                                     gressum            parailisi, si adsit facultas.
-
-
-
-
-                                                                                                                                    Pars   111.
-
-
-
-
-                                                                      Cap. IV.                                                             dant, quam slultus evitare noiuit. Tanta ilaque vis con-
-                                                                                                                                           fessionis est, ut, si deest sacerdos, confileatiir proxiino.
-
-                                                  An sufficiat confiteri laico.                                                            Sacpe enim contingit, quod poenitens non potest                                                                      vere-
-                                                                                                                                           cundari coram sacerdolre, quem desideranli nec tempus
-                         Nunc priusquam    auctorilalihus   quae      praemissis                                         ,
-                                                                                                                                           nec locus               offert.    Etsi          ille     cui         confitebitur, poteslatem
-                                    respondeamns, tertiani quae-
-              his conlradicere videnlur,                                                                                                   solvendi non habeat,     tamen dignus venia ex saccr-
-                                                                                                                                                                                           fit
-
-
- Repetitio. stionem intueamur. Quod enim secunda  quaestio con-                                                                            dotis desiderio qui crimen confitetur socio. Muiidati
-              linebat, scilicet an sine confessione et iudicio sacerdotis                                                                  enim sunt leprosi, dum ibant ora vel se ostendere sa-
-              soli Deo confileri sulTiceret, expeditum est et cerlifica-                                                                   cerdotibus, antequam ad eos pervenirent.                                                             Unde patet,
-              tum praemissis teslimoniis, quod non sufficil confiteri                                                                      Deum ad cor respicere, dum ex necessilate prohiben-
-              Deo sine sacerdote; nec est vere hurailis et poenitens,                                                                      tur ad sacerdotes pervenire.                                        Saepe quidem eos quae-
-              si non desideral et requirit sacerdotis iudicium. Sed                                                                        runt sani et laeti, scd                             dum             quaerunt, anlequam per-
-              nunquid aeque valet alicui confiteri socio vel proximo                                                                       veniant, moriuntiir. Sed                                 misericordia Dei                              ubiqiie est,
-              suo, saltem                        cum deest sacerdos?                     — Sane ad hoc                            dici     qui     et iustis          parcere novit,                      e'.si     non tam                    cito, sicut si
-              potest,quod sacerdotis examen reqnirendum esl sludiose,                                                                      solverentur               a sacerdote.                   Qui          ergo omnino confltetur, Dobo
-              qnia sacerdotibus concessit Deus poteslatem ligandi                                                                    et    sacerdoti meliori                  quam polest confiteatur». « Et si pec-
-              solvendi. Et                       ideo         quibus        ipsi     dimittunt, el Deus                             di-    caluin occultuni                      est,      sufTiciat             rcferre                  in    notitiam sa-
-Dahiam 1. miltit. Si tauien                                defuerit sacerdos,                proximo                vel socio              cerdotis.              Nam       in     resuscitalione filiae                                  archisynagogi *
-              esi facienda                       confessio.            Sed curet quisque sacerdotem                                        paiici                  viderent
-                                                                                                                                                         interfuerunt, qui   nondum eniin erat                         ;
-
-
-
-              quaerere, qui sciat ligare et solvere. Talem enim esse                                                                              nondum extra portara delata, nondum extra
-                                                                                                                                           sepulta,
-              oportet, qui                       aliorum crimina                    iudical.              Unde Augusti-                    domuni in notitiam porlata. Intus resuscitavit, quam
-Aagastinus.   nus "      :    «   Qui vult coufiterl peccata, ut inveniat graliam,                                                         intiis      invenit ,           reliclis         solis Pelro                     et      lacobo           et    loanne
-              quaerat .saccrdotem, qui sciat ligare et solvere, ne, cum                                                                    et     patre       ct     matre puellae,                       in        quibus                flguraliter           con-
-              negiigens circa se exstiterit, negligatur ab                                                   illo       qui eum            tinentur           sacerdoles Ecciesiae.                               Quos aulem extra                                   in-
-
-              misericorditer monet et pctit, ne atnbo in foveam ca-                                                                        venit,        advertendum                     est,        quomodo                        suscilavit.            Flebat
-
-
-
-
-                     '       De Vera              et       f;ilsa    Poenitentia,     c.    10.       n.    23; C.           Quem          confiteri (1),           ibid.    d.     6.     Respiciuntur Maali. io,                                  14,    deinde
-              poenitel (88.), ibid.                        De leprosis mundalis              cfr.          Luc. 17,              li, et    Luc. 17,          14.    — Seq. locus               ibid.      c.     II.       n.       26;    cfr.     Gratian., su-
-              Levit.         14,       4.                                                                                                  por C. Quis aliquando                        (87.),      ibid.      d.      1.       |    12.
-                                                                                                                                                   *
-                     2       Epist.         168.       (alias        136.   ad     univef.^J.     episc.      per        Campa-                        Hespiciunlur          iMallli.          9,    24;         Marc.              3, 37; Luc. 7,                   II;
-              niam)          c.    2   ;    C.    Quamvis plenitudo fidei (89.), ibid.                                                     loan.       11,    33.    — Seq.             locus       est     in      eod. libro,                c.    12.   n.        27;
-                     3       De Vera              et falsa          Poenitentia,    c.     10. n. 2S; C.                Qui vult           C.   Qui vult, inodo                  cit.
-                                                                                                                          ,
-                                                                                                                          ::                                                                                                       ,
-
-
-
-
-                                                                                                                  DISTINCTIO XVII.                                                                                               417
-
-           enim turba                   post              filiiim    vicluae, flevit                 Marlha        et   Ma-    et    pro    eis depreceris, citius                     illa   delebis. Si vero obli-
-           ria       supplieaiUes                         pro     fralre,       flebat et             turba Mariam             viscaris, lunc eoruni recordaberis nolens,                                       quando pu-
-                 qno docemur, publice peccantibus non pro-
-           secuta. In                                                                                                          blicabuntur et                in   conspeclu omnium amicorum                               et ini-
-
- inns. prium, sed Ecclesiae suflicere meritum ». « Laboret                                                                     micorum sanclorumque Angelorum proferentur».       Ita                                        —
-           igitur poenitens in Ecclesia esse el ad Ecclesiae unita-                                                            etiam illud Ambrosii: «Lacrymae lavanl delictum, quod
-           tem tendere. Nisi enim unitas Ecclesiae succurrat, nisi                                                             voce pudor cst confileri», ad                   publicam poenitenliam
-           quod deest peccatori sua oratione compleat; de mani-                                                                referendum             esl.    Ibi   enim virtulem lacrymarum et con-
-           bus inimici non eripietur anima mortui. Credendum est                                                               fessionis ostendens, significare                           voluit,         quod lacrymae
-           enim, quod omnes orationes et eJeemosynao Ecclesiae et                                                              occultae et confessio secreta, sicul quae fit soli sacer-
-           opera          iusliliae                  el    misericordiae                  succurrant recogno-                  doti, lavant delictum, quod pudet aliquem publice con-
-
-           scenti         mortem suam ad conversionein. Ideoque nemo                                                           flleri.     Quod vero dicit, se lacrymas Petri                                   legisse,         non
-           digne poenitere potest,                                  quem non suslineat unitas Ec-                              confessionem vel satisfactionem; per boc non excludit
-           clesiae;          ideoque non pelat sacerdotes per aliquam cul-                                                     illa. Multa enim facta sunt, quae scripta non sunt,
-                                                                                                                                                                                   vel
-           pam ab unitate Ecclesiae divisos».                                             — Ex         bis salis ape-          forte nondum facta erat institutio confessionis *, quae
-
-           ritur      et      absolvitur                    praemissae               quaestionis             arliculus.        modo est.         —
-                                                                                                                                           Similiter et illud Prosperi: « Si sui iudices
- m 3. Quaerendus est enim sacerdos sapiens et discretus, qui                                                                   fiant, mulabunt                aeterna supplicia »              ;     et illud: « Facilius
-           cum potestate simul habeat iudicium, qui si forte de-                                                               Deum         placabunt             sibi qui        aut propriis             confessionibus
-ieda.      fuerit, conflleri                        debet socio.       — Bcda^ vero                     inter confes-          crimen produnt, aut nescientibus aliis, in se sententiam
-           sionem venialium et morlalium distinguit super illum                                                                excommunicationis ferunt »                         ;   ad publicam confessionem
-           locum Confitemini alterulrum peccala vestra. Ait enim
-                      :                                                                                                        et satisfaclionem referri                        oporlet.      Non enim solis sacer-
-           «   Coaeqaalibus quotidiana                                 et levia,               graviora          vero   sa-    dotibus ius Jigandi atque solvendi datum est, si cuique
-           cerdoli pandamus et, quanto iusserit                                                    tempore   ,
-                                                                                                                 purgare       suo arbilrio se poena vel excommunicationis senlentia
-     curemus, quia sine confessione emendationis peccata                                                                       ligare et         absque sacerdotali iudicio se ipsum Deo vel
-  Ma-nequeunt dimitti ». Sed et graviora coaequalibus pan-                                                                     altari reconciliare licet;       quod ecclesiaslicae iustitutioni
-           denda sunt, cum deest sacerdos,                                                et       urget periculum.            et    consuetudini penitus repugnat. Potius igitur,                                        si     pu-
-           Venialia vero, eliam sacerdotis oblata copia, licet con-                                                            blice peccasti, publice                      confilere te             reum       et    emenda       ;
-
-
-           fileri     coaequali,                      et sufflcil,          ut       quibusdam placet,                   si    si   vero        occulle deliquisti,                   etiam sic non taceas                   ;   nec
-           tanien ex contemptu non praetermittatur sacerdos. Tu-                                                               tamen dico, ut publices.                           «   Tacilurnilas             enim peccati Graiianus.
-           tius tamen   est et perfeclius utriusque generis pec-                                                               ex superbia nascitur cordis. Ideo enim peccalum suum
-           cata sacerdotibus pandere et consilium medicinae ab                                                                 quis celat, ne                reputetur foris, qualem se                          iam divino
-           eis   quaerere,                      quibus concessa est poleslas ligandi et                                        conspectui exhibuil; quod ex fonte superbiae nascilur.
-           solvendi.                                                                                                           Species enim superbiae est se velle iuslum videri, qui
-                                                                                                                               peccator est, atque hypocrita convincitur qui ad instar
-                                                                   Cap. V.                                                     primorum parentum                      vel tergiversatione                 verborum pec-
-                                                                                                                               cata sua levigare                   contendit, vel             sicut Cain      peccatum
-                                            Ad quicl valeat confessio.                                                         suum reticendo supprimere quaerit. Ubi vero supei'bia
-                                                                                                                               regnat vel hypocrisis, humilitas locum non habet; sine
-                    Cum           igilur             ex bis aliisque pluribus                             testimoniis          humilitate vero alicui                      veniam sperare non                        licet.      Ubi
-      perspicuum flat et indubilabiliter constet, peccata pri-                                                                 ergo est taciturnitas confessionis, non est speranda ve-
-      nium Deo, deinde sacerdoti esse confitenda, et si ipse                                                                   nia        criminis^».             — lam certissime                       quam sit Epiiogns.
-                                                                                                                                                                                                     liquet,
-antnr defnerit, etiam socio; illud loannis Cbrysoslomi su-                                                                     detestabile peccati siientium, et e                              converso, quam sit
-           perius^ positum                            non         est ita    intelligendum, ut liceat                          necessaria             confessio. Est             enim      confessio           testimonium
-           alicui, si lempus habeat, sacerdoti non conflteri; sed                                                              conscientiae            Deum         timentis. Qui             enim timet iudicium
-           quia sufficit, ubi crimen occultum est, soli Deo per                                                                Dei,       peccalum non erubescit confiteri. Perfectus timor
-           sacerdolem dicere et semel                                  ,    nec oporlet publicari co-                          solvit       omnem pudorem                   ;     confessio          peccali          pudorem
-           ram multis quod occultum est quod notavit dicens                      ;
-                                                                                                                               habet, et ipsa erubescentia est gravis poena.                                           Ideoque
-           « Non tibi dico ut te prodas in publicum ». Sicut enim
-                                                ,                                                                              iubemur conflteri peccala, ut erubescenliam patiamur
-           publica noxa publico eget remedio,                                                  ita   occulta secreta           pro poena nam hoc ipsum pars est divini iudicii.
-                                                                                                                                                  ;
-                                                                                                                                                                                                                                 —
-           confessione et occulta                                 salisfactione                purgatur. Nec ne-               Si    ergo       quaeritur,           ad quid confessio sit necessaria,
-'">
-       cesse est, ut quod sacerdoti semel confessi sumus ite-
-      4-                                                                                                                       cum in           conlrilione          iam deletum sit peccatum dici-                      ;
-
-
-
-       rum conflteamur; sed lingua cordis non carnis, apud                                 ,                                   mus, quia quaedam punitio peccati est, sicut                                             satisfa-
-       verum iudicem id iugiler confileri debemus. Unde idem                                                                   ctio operis.           Per confessionem etiam intelligit sacerdos
-iosio- loannes ^
-                 ait: « Nunc autem,si recorderis peccatorum                                                                    qualiter debeat iudicare de crimine ; per                                       eam quoque
-           tuorum            et   frequenter ea in conspectu Dei pronuiities                                                   peccator         fit   humilior        et cautior.
-
-
-
-
-                 '    In lac. 5,                16,       et in    Glossa interlin. ad eund. locum.                                   *   lla   Ilugo a      S.    Vid.,   Sum. Senl.          tr.   6.   c.   JO.
-                 ^    Cap. 2, ubi eliam seqq.                           loci.                                                         5   Gralian.,     super C. Quis aliquando, supra                         cit.   | 1S, ubi
-                 '    Homil. 3          1   .       in Epist.       ad Hebr.         n.   4    ;   C. Qicis aliquando          respicilur Gcn. 3, 10; i, 9.                — De opinione Magistri obsoleta, hic
-           supra      cit.    3    1.                                                                                          in fine et c. 1. in fine tacla, cfr. Bonav. infra d. 18. p.                       I.   a. 2. q. 1.
-
-                             S.   Bonm.               — Tom.          IV.                                                                                                                                        53
-                                                                                        ,                                                                                                    :   ,
-
-
-
-
-         418                                                              SENTENTIARUM LIB. IV.
+---
 
 ## English
+<!-- page 413 -->
 
-[Translation pending]
+### Part I.
+
+### Chap. I. *Whether sins are forgiven without confession.*
+
+Here a manifold question arises. For first it is asked whether, apart from satisfaction and oral confession, a sin is forgiven to anyone through contrition of heart alone. Secondly, whether it sometimes suffices to confess to God without a priest. Thirdly, whether a confession made to a faithful layman avails. — For in these matters even the learned are found to think diversely, since concerning them the doctors seem to have handed down various and almost contrary things. For some say that without oral confession and the satisfaction of work no one is cleansed from sin, if he has had time to do these things. — But others say that, before oral confession and satisfaction, a sin is forgiven by God in contrition of heart, provided that he has the desire of confessing. Whence the Prophet[^1]: *I said, I will confess against myself my injustice to the Lord, and thou hast forgiven* etc. Expounding which Cassiodorus[^2] says: « *I said,* that is, I deliberated with myself that I will confess, and thou hast forgiven. Great is the mercy of God, that at the mere promise He should forgive the sin. For the desire is judged for the deed ». Likewise Augustine[^3]: « He does not yet pronounce, he promises that he will pronounce; and God forgives, because this very thing, to say it in the heart, is a kind of pronouncing. There is not yet a voice in the mouth, that a man may hear the confession, and God hears it ». Likewise: *A sacrifice to God is a troubled spirit, a contrite heart* etc. Elsewhere too it is read: *In whatsoever hour the sinner shall be converted and shall groan, he shall live in life and shall not die;* it is not said: he shall have confessed with the mouth, but: being converted he shall have groaned.
+
+<!-- page 414 -->
+
+« Whence it is given to understand that even with the mouth silent we sometimes obtain pardon. Hence also those lepers, whom the Lord bade show themselves to the priests, were cleansed on the way, before they came to the priests. From which it is intimated that, before we open our mouths to the priests, that is, confess our sins, we are cleansed from the leprosy of sin. Lazarus too was not first led forth from the tomb and afterward raised by the Lord, but, raised within, he came forth alive; that it might be shown that the raising of the soul precedes confession. For no one can confess unless raised, because from a dead man, as one who is not, confession perishes: no one therefore confesses unless raised again. But no one is raised unless he is loosed from sin; because sin is the death of the soul, which, as the life of the body is, so its life is God »[^4]. — By these and many other authorities it is proved that, before confession or satisfaction, sin is forgiven by compunction alone. Those who deny this labor to define those [authorities], and also, in the depreciation of this opinion and for the assertion of their own opinion, adduce the testimonies of authors. For the Lord says through Isaiah[^5]: *Tell thou thy iniquities, that thou mayest be justified.* Likewise Ambrose: « No one can be justified from sin unless he has first confessed the sin ». The same says: « Confession frees the soul from death, confession opens paradise, confession gives the hope of salvation; because he does not deserve to be justified who in his life will not confess his sins. That confession frees us which is made with penitence. But penitence is grief of heart and bitterness of soul for the evils which each one has committed ». Likewise John[^6]: « No one can receive the grace of God unless he be purged from all sin through the confession of penance and through baptism ». Likewise Augustine[^7]: « Do penance, such as is done in the Church. Let no one say to himself: I act secretly, I act before God; God knows, who pardons me, because I act in my heart. Therefore was it said in vain: *Whatsoever you shall loose upon earth shall be loosed also in heaven?* Therefore were the keys given in vain? We make void the word of Christ. Job says: *If I have been ashamed to confess my sins in the sight of the people*»! Likewise Ambrose[^8]: « Venial is the fault which the confession of offenses follows ». Likewise Augustine[^9] upon that place of the Psalm: *Let not the deep swallow me up, neither let the pit shut her mouth upon me:* « The pit is the depth of iniquity, into which if thou fall, it will not shut its mouth upon thee, if thou shut not thy mouth. Confess therefore and say: *Out of the depths I have cried to thee, O Lord* etc; and thou shalt escape. It shuts upon him who in the deep despises, from whom, being dead, as one who is not, confession perishes ». The same[^10]: « No one receives pardon of a deserved graver penalty unless he pay some penalty, even though far less than he ought. For thus is the bounty of mercy imparted by God, that the justice of discipline be not abandoned ». Likewise Jerome[^11]: « Let him who is a sinner bewail his own offenses or the people's, and let him enter the Church, from which because of his sins he had gone out, and let him sleep in sackcloth, that by the austerity of life he may compensate for the past delights by which he had offended God ». — By these and other authorities they strive to assert that without confession of the voice and some payment of penalty no one is cleansed from sin.
+
+What therefore is to be thought concerning these things? what is to be held? Truly it can be said that without confession of the mouth and payment of exterior penalty sins are blotted out through contrition and humility of heart. For from the moment that he *proposes,* with mind compunct, that he will confess, God forgives; because there is confession of the heart, even if not of the mouth, through which the soul is interiorly cleansed from the stain and contagion[^12] of the committed sin, and the debt of eternal death is relaxed. — Those things, therefore, which were said above concerning confession and penance are either to be referred to the confession of the heart and to interior penalty — as that saying of Augustine, « that no one is said to obtain pardon unless he first pay some penalty of sin, however small » — or are to be taken of exterior penalty and to be referred to those who despise or neglect, as that saying: « Let no one say, I act secretly » etc. For some neglect or are ashamed to confess their sins in life, and therefore do not deserve to be justified. For just as *interior penance* is enjoined on us, so also oral confession and exterior satisfaction, if there be opportunity. Whence neither is he truly penitent who has not the desire of confession. And just as the remission of sin is a gift of God, so penance and confession, through which sin is blotted out, cannot be except from God, as Augustine[^13] says: « Already, he says, he has the gift of the Holy Spirit who confesses and repents, because there cannot be confession of sin and punishment in man from himself. For when each one is angry with himself and displeased, he is not without the gift of the Holy Spirit ». It behooves the penitent, therefore, to confess, if he have time; and yet, before confession be in the mouth, if the desire be in the heart, remission is granted him.
+
+<!-- page 415 -->
+
+### Part II.
+
+### Chap. II. *Whether it suffices to confess to God alone.*
+
+Now let us inspect the second article of the question, namely, whether it suffices to confess one's sins to God alone, or whether one ought also to confess to a priest. — To some it has seemed to suffice if confession be made to God alone without priestly judgment and the confession of the Church; because David said[^14]: *I said, I will confess to the Lord, and thou hast forgiven* etc.; he does not say to a priest, and yet he says the sin was forgiven him. Likewise Ambrose: « Therefore Peter wept, because the fault crept upon him; I do not find what he said; I find that he wept. His tears I read, his satisfaction I do not read. But what cannot be defended can be washed away. Tears wash away the offense which shame forbids to confess with the voice. And the weeping of pardon consults his modesty ». This same thing also Maximus[^15] the bishop says; likewise John Chrysostom: « I do not bid thee betray thyself in public, nor accuse thyself before others, but I would have thee obey the Prophet saying: *Reveal to God thy way.* Before God therefore confess thy sins, before the true judge with prayer declare thy offenses, not with the tongue, but with the memory of thy conscience; and then at length hope that thou canst obtain mercy. If thou keep thy sins continually in mind, never wilt thou hold evil against thy neighbor in thy heart ». The same[^16]: « Tell thy sins, that thou mayest blot them out. But if thou art ashamed to tell them to anyone, tell them daily in thy soul; I do not say that thou shouldst confess them to thy fellow-servant, that he may reproach thee; tell them to God, who cares for them. For neither, if thou tell them not, does He not know them: when thou didst them, He was present; when thou didst commit them, He had known. Does He then wish to learn them from thee? Hast thou not been ashamed to sin, and art thou ashamed to confess? Tell it in this life, that thou mayest have rest in the other; tell it groaning and weeping. In the codex thy sins are written; let thy tears be the sponge of thy sins ». Likewise Prosper[^17]: « Those whose sins lie hidden from human knowledge, neither confessed by themselves nor published by others, if they will not confess or amend them, will have as avenger Him whom they have as witness. But if they become their own judges and, as it were avengers of their own iniquity, here exercise upon themselves a voluntary penalty of most severe chastisement; by temporal penalties they will exchange eternal torments, and by tears flowing from true contrition of heart they will restrain the burnings of eternal fire ». And below: « More easily will those appease God toward themselves who either by their own confessions disclose their crime, or, others not knowing, of their own accord pass upon themselves the sentence of voluntary excommunication, and, separated from the altar at which they ministered — not in mind, but in office — bewail their life as though dead, certain that, being reconciled by the fruits of efficacious penance, they will receive from God not only what was lost, but also the joys of the heavenly city ». — On these authorities rely those who contend that it suffices to confess one's sins to God without a priest. For they say that if anyone, fearing his fault be detected among men, lest he be held in reproach thereby, or others by his example be girded to sin, should therefore keep silence before man and reveal it to God; he obtains pardon.
+
+### Chap. III. *That it does not suffice to confess to God alone, if one can confess to a priest.*
+
+But that one ought to confess to priests is proved not only by that authority of James[^18]: *Confess your sins one to another* etc., but also by many other testimonies. For Augustine[^19] says: « Let a man judge himself voluntarily, while he can, and convert his morals for the better, lest, when he can no longer, he be judged against his will by the Lord; and when he has pronounced upon himself the sentence of a most severe yet most useful medicine, let him come to the prelates, by whom the keys are ministered to him in the Church. As a son now beginning to be good, the order of the maternal members being kept, let him receive from the stewards of the Sacraments the measure of his satisfaction, devout and suppliant in offering the sacrifice of a contrite heart. Yet let him do this so that it may profit not only himself unto salvation, but also others for an example; that, if his sin be not only in his own grave evil, but also in so great a scandal of others, and the prelate sees this to be expedient for the utility of the Church, he refuse not to do penance in the knowledge of many, or of the whole people, lest by shame he add a swelling to a deadly wound ». « When the wound of sin and the onset of disease is so great that the medicaments of the body and blood of the Lord must be deferred, by the authority of the prelate each one ought to remove himself from the altar to do penance and to be reconciled by the same ». Likewise Pope Leo[^20]: « The manifold mercy of God so succors human lapses that not only through baptism, but also through penance, the hope of life is repaired, the supports of the divine will being so ordered that they cannot obtain the indulgence of God except by the supplications of priests. For Christ delivered this power to the prelates of the Church, that they should give to the confessing the satisfaction of penance, and the same, purged by wholesome satisfaction, should admit to
+
+<!-- page 416 -->
+
+the communion of the Sacraments through the door of reconciliation ». Likewise Augustine[^21]: « Let him whom it repents, repent altogether and show his grief by tears; let him represent his life to God through the priest, let him forestall the judgment of God by confession. For the Lord bade those to be cleansed to show their mouths to the priests, teaching that sins are to be confessed by bodily presence, not to be manifested by writing. For He said: *Show your mouths,* and all, not one for all, do not appoint another messenger to offer for you the gift appointed by Moses; but you who have sinned by yourselves, be ashamed by yourselves. For the shame itself has a part of remission. For out of mercy the Lord commanded this, that no one should repent in secret. For in this, that through himself he tells the priest and conquers shame by the fear of the offended one, the pardon of the crime comes about. For that becomes venial through confession which was criminal in the deed: even if it be not at once purged, that becomes venial which he had committed mortal. For he offered much satisfaction who, mastering shame, denied to the messenger of God none of the things which he committed. For God, who is merciful and just, as He keeps mercy in justice, so also justice in mercy. For it is a work of mercy to forgive the sinner his sins; but it behooves that the just one have mercy on the just. For He considers whether he is worthy, I do not say of *justice,* but of *mercy;* for justice alone condemns, but he is worthy of mercy who by spiritual labor seeks grace. For the mind labors by suffering shame; and since shame is a great penalty, he who is ashamed for Christ becomes worthy of mercy. Whence it is plain that, the more witnesses he confesses the baseness of his crime to in hope of pardon, the more easily he obtains the grace of remission. For the priests themselves can do the more profit, the more they spare to those confessing ». Likewise Pope Leo[^22]: « Although the fulness of faith seems praiseworthy, which for the fear of God fears not to be ashamed before men; yet — because the sins of all are not of such a kind that those who ask penance fear not to publish them — let the unwarrantable custom be removed, lest many be kept away from the remedies of penance, while they either are ashamed, or fear to disclose their deeds to enemies by whom they can be smitten by the sanction of the laws. For that confession suffices which is first offered to God and then also to the priest, who comes as an intercessor for the offenses of the penitent. For then more will be able to be drawn to penance, if the conscience of the one confessing be not published to the ears of the people ». — From these and many other things it is shown beyond doubt that confession must be offered first to God and then to the priest, and that it cannot otherwise be attained to the entrance of paradise, if there be opportunity.
+
+### Part III.
+
+### Chap. IV. *Whether it suffices to confess to a layman.*
+
+Now, before we answer the authorities adduced which seem to contradict these things, let us consider the third question. For what the second question contained, namely whether to confess to God alone without the confession and judgment of a priest sufficed, has been dispatched and certified by the foregoing testimonies, that it does not suffice to confess to God without a priest; nor is he truly humble and penitent if he does not desire and seek the judgment of a priest. But does it equally avail to confess to a fellow or one's neighbor, at least when a priest is lacking? — Truly to this it can be said that the priest's examination is to be sought zealously, because God granted to priests the power of binding and loosing. And therefore those whom they forgive, God too forgives. If however a priest be lacking, confession is to be made to a neighbor or fellow. But let each one take care to seek a priest who knows how to bind and to loose. For such must he be who judges the crimes of others. Whence Augustine[^23]: « Let him who wishes to confess his sins, that he may find grace, seek a priest who knows how to bind and to loose, lest, when he has been negligent about himself, he be neglected by him who mercifully admonishes and asks him, lest *both fall into the pit* which the fool would not avoid. So great therefore is the force of confession that, if a priest is lacking, let him confess to a neighbor. For it often happens that the penitent cannot be abashed before a priest, whom, though he desire, neither time nor place affords him. Even if he to whom he will confess have not the power of loosing, yet he becomes worthy of pardon out of the desire of a priest who confesses his crime to a fellow. For the lepers were cleansed while they went to show themselves to the priests, before they reached them. Whence it is plain that God looks to the heart, while of necessity they are hindered from reaching the priests. Indeed often the healthy and joyful seek them, but while they seek, before they arrive, they die. But the mercy of God is everywhere, who knows how to spare even the just, though not so quickly as if they were loosed by a priest. He therefore who confesses at all, let him confess to the best priest he can ». « And if the sin is hidden, let it suffice to bring it to the knowledge of a priest. For in the raising of the daughter of the ruler of the synagogue[^24] few were present who saw; for she was not yet buried, not yet carried out of the gate, not yet brought out of the house into [public] knowledge. Within He raised her whom He found within, only Peter and James and John and the father and mother of the girl being left, in whom are figuratively contained the priests of the Church. But those whom He found without, it is to be noted how He raised them. The crowd was weeping
+
+<!-- page 417 -->
+
+after the son of the widow, Martha and Mary wept as they supplicated for their brother, the crowd too that followed Mary wept. In which we are taught that for those sinning publicly not one's own merit but the Church's suffices ». « Let the penitent therefore labor to be in the Church and to tend to the unity of the Church. For unless the unity of the Church succor, unless by its prayer it supply what is lacking to the sinner; the soul of the dead will not be snatched from the hands of the enemy. For it is to be believed that all the prayers and alms of the Church and the works of justice and mercy succor him who recognizes his death unto conversion. And so no one can worthily repent whom the unity of the Church does not sustain; and so let him not seek priests divided from the unity of the Church by any fault ». — From these things the article of the foregoing question is sufficiently opened and resolved. For a priest is to be sought who is wise and discreet, who together with power has judgment, and if perchance such a one be lacking, one ought to confess to a fellow. — Bede[^25], however, distinguishes between the confession of venial and mortal sins upon that place: *Confess your sins one to another.* For he says: « Let us disclose to our equals the daily and light sins, but the graver ones to a priest, and let us take care to purge them at whatever time he shall bid, because without confession of amendment sins cannot be forgiven ». But the graver ones too are to be disclosed to equals, when a priest is lacking and danger presses. But venial sins, even when the opportunity of a priest is offered, may be confessed to an equal, and it suffices, as it pleases some, provided however that out of contempt the priest be not passed over. Yet it is safer and more perfect to disclose sins of both kinds to priests and to seek the counsel of medicine from those to whom the power of binding and loosing has been granted.
+
+### Chap. V. *To what confession avails.*
+
+Since therefore from these and many other testimonies it becomes clear and is established beyond doubt that sins are to be confessed first to God, then to a priest, and if he be lacking, even to a fellow; that saying of John Chrysostom set above[^26] is not to be so understood as that it be lawful for anyone, if he have time, not to confess to a priest; but because it suffices, where the crime is hidden, to tell it to God alone through a priest and once, nor is it needful that what is hidden be published before many; which he noted, saying: « I do not bid thee betray thyself in public ». For just as a public harm needs a public remedy, so a hidden one is purged by secret confession and secret satisfaction. Nor is it necessary that what we have once confessed to a priest we confess again; but with the tongue of the heart, not of the flesh, before the true judge we ought to confess it continually. Whence the same John[^27] says: « But now, if thou remember thy sins and frequently declare them in the sight of God and pray for them, the sooner wilt thou blot them out. But if thou forget them, then wilt thou remember them unwillingly, when they shall be published and brought forth in the sight of all friends and enemies and the holy Angels ». — So also that saying of Ambrose: « Tears wash away the offense which shame forbids to confess with the voice », is to be referred to public penance. For there, showing the power of tears and of confession, he wished to signify that secret tears and secret confession, such as is made to a priest alone, wash away the offense which it shames one to confess publicly. But that he says he read the tears of Peter, not his confession or satisfaction; by this he does not exclude these. For many things were done which are not written, or perhaps the institution of confession[^28], which now exists, had not yet been made. — Likewise that saying of Prosper: « If they become their own judges, they will exchange eternal torments »; and that: « More easily will they appease God toward themselves who either by their own confessions disclose their crime, or, others not knowing, pass upon themselves the sentence of excommunication »; ought to be referred to public confession and satisfaction. For not to priests alone is the right of binding and loosing given, that each one may at his own discretion bind himself by penalty or the sentence of excommunication, and without priestly judgment reconcile himself to God or to the altar; which is utterly repugnant to ecclesiastical institution and custom. Rather therefore, if thou hast sinned publicly, publicly confess thyself guilty and amend; but if thou hast offended secretly, even so be not silent; nor yet do I say that thou shouldst publish it. « For the silence of sin is born of the pride of the heart. For therefore does one conceal his sin, lest he be reputed outwardly such as he has already shown himself to the divine gaze; which is born from the fount of pride. For it is a species of pride to wish to seem just, who is a sinner, and he is convicted a hypocrite who, after the manner of the first parents, strives to lighten his sins by an evasion of words, or, like Cain, seeks to suppress his sin by keeping silence. But where pride or hypocrisy reigns, humility has no place; and without humility it is not allowed to anyone to hope for pardon. Where therefore there is silence of confession, no pardon of the crime is to be hoped for »[^29]. — Now it is most certainly clear how detestable is the silence of sin, and on the contrary, how necessary is confession. For confession is the testimony of a conscience fearing God. For he who fears the judgment of God is not ashamed to confess his sin. Perfect fear loosens all shame; the confession of sin has shame, and the shame itself is a grievous penalty. And so we are bidden to confess our sins, that we may suffer shame for a penalty; for this very thing is a part of the divine judgment. — If therefore it is asked to what confession is necessary, since in contrition the sin is already blotted out; we say that it is a kind of punishment of sin, like the satisfaction of work. Through confession too the priest understands how he ought to judge concerning the crime; through it also the sinner becomes more humble and more cautious.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. These are the *NOTAE AD LIBR. SENTENTIARUM* (notes to the Lombard text). Quaracchi restarts footnote numbering on each printed page and prints them per column; within this file the markers are numbered continuously `[^1]–[^29]`. Page-block split: `[^1]–[^3]` = p.413 (right-column footer, 3 littera notes); `[^4]–[^8]` = p.414 left col, `[^9]–[^13]` = p.414 right col; `[^14]–[^17]` = p.415 left col, `[^18]–[^20]` = p.415 right col; `[^21]–[^23]` = p.416 left col, `[^24]` = p.416 right col; `[^25]–[^27]` = p.417 left col, `[^28]–[^29]` = p.417 right col. The COMMENTARIUS NOTAE on p.418 belong to the following commentary chunk and are forwarded.
+
+[^1]: **La.** Psalm. 31, 5. — De his duabus opinionibus cfr. Hugo, de Sacram. II, c. 8, et Sum. Sent. tr. 6. c. 11; insuper Gratian., Introductio de Poenit. d. 1.
+     **En.** Ps. 31:5. — On these two opinions cf. Hugh, *de Sacramentis* II, c. 8, and the *Summa Sententiarum* tr. 6, c. 11; further Gratian, *Introductio de Poenitentia* d. 1.
+
+[^2]: **La.** In eund. Ps. v. 7; sed ipse hoc sumsit ex August. in seq. nota cit.; in quo textu pro *quod ad* Vat. *qui ad,* codd. *DE* et ed. 1 *quae ad.* — Supra pro *pene adversa* plurimae edd. male *pene diversa.*
+     **En.** On the same Psalm, v. 7; but he himself took this from Augustine cited in the following note; in which text, for *quod ad,* the Vatican edition has *qui ad,* codd. *DE* and ed. 1 *quae ad.* — Above, for *pene adversa* most editions wrongly have *pene diversa.*
+
+[^3]: **La.** In Ps. 31. enarrat. 2. n. 18, et apud Lyran. loc. cit., et C. *Magna pietas* (5.), de Poenit. d. 1. — Duo loci Scripturae sunt Ps. 50, 19; Ezech. 18, 17.
+     **En.** On Ps. 31, second exposition, n. 18, and in Lyra at the place cited, and the canon *Magna pietas* (5), de Poenitentia, d. 1. — The two scriptural places are Ps. 50:19; Ezek. 18:17.
+
+[^4]: **La.** Gratian., super C. *Convertimini ad me* (34.), ibid., ubi respiciuntur Luc. 17, 14; Ioan. 11, 44; Eccli. 17, 26. — De vita animae cfr. August. in Ps. 70. enarrat. 2. n. 3.
+     **En.** Gratian, on the canon *Convertimini ad me* (34), ibid., where Luke 17:14; John 11:44; Sir. 17:26 are regarded. — On the life of the soul cf. Augustine on Ps. 70, second exposition, n. 3.
+
+[^5]: **La.** Cap. 43, 26. — Locus Ambrosii est de Paradiso, c. 14. n. 71; C. *Non potest* (38.), ibid. Seq. locus est eiusdem, Serm. 25. de s. Quadragesima, n. 1; C. *Ecce nunc tempus* (39.), ibid.
+     **En.** [Isaiah] c. 43:26. — The passage of Ambrose is *de Paradiso* c. 14, n. 71; the canon *Non potest* (38), ibid. The following passage is the same author's, Sermon 25 *de sancta Quadragesima,* n. 1; the canon *Ecce nunc tempus* (39), ibid.
+
+[^6]: **La.** In paucis edd. additur *Chrysostomus,* at locus iste non invenitur in ed. Maurina Chrysostomi, est tamen in C. *Non potest quis* (41.), ibid., ubi editores censent, fortasse substituendum esse *Chromatium* pro *Chrysostomo.*
+     **En.** In a few editions *Chrysostom* is added, but this passage is not found in the Maurist edition of Chrysostom; it is, however, in the canon *Non potest quis* (41), ibid., where the editors judge that perhaps *Chromatius* should be substituted for *Chrysostom.*
+
+[^7]: **La.** Serm. 392. (alias homil. 49. inter Homil. 30) c. 3. n. 3; C. *Agite poenitentiam* (44.), ibid. Loci Scripturae sunt Matth. 18, 18; Ioan. 20, 23; Iob 31, 33.
+     **En.** Sermon 392 (otherwise hom. 49 among the 30 Homilies), c. 3, n. 3; the canon *Agite poenitentiam* (44), ibid. The scriptural places are Matt. 18:18; John 20:23; Job 31:33.
+
+[^8]: **La.** Libr. de Paradiso, c. 14. n. 71; C. *Serpens* (47.), ibid.
+     **En.** The book *de Paradiso,* c. 14, n. 71; the canon *Serpens* (47), ibid.
+
+[^9]: **La.** Enarrat. in Ps. 68, 16. serm. 1. n. 19; Gratian., super C. *Voluissent iniqui* (60.), ibid. § 3, et apud Lyran. in eund. locum. — Loci Scripturae sunt Ps. 129, 1; Prov. 18, 3; Eccli. 17, 26.
+     **En.** Exposition on Ps. 68, 16, sermon 1, n. 19; Gratian, on the canon *Voluissent iniqui* (60), ibid. § 3, and in Lyra on the same place. — The scriptural places are Ps. 129:1; Prov. 18:3; Sir. 17:26.
+
+[^10]: **La.** De Continentia, c. 6. n. 13; C. *Nullus debitae* (42.), ibid.; ubi in fine pro *iustitia disciplinae* codd. B C et edd. 2, 3, 6, 7, 8 *iustitiae disciplina,* refragantibus originali et canone.
+     **En.** *De Continentia,* c. 6, n. 13; the canon *Nullus debitae* (42), ibid.; where at the end, for *iustitia disciplinae,* codd. B C and edd. 2, 3, 6, 7, 8 have *iustitiae disciplina,* against the original and the canon.
+
+[^11]: **La.** Comment. in Ioel. 1, 13; C. *Qui sanctus* (66.), ibid. — Pro *propter peccata* codd. B C D E et ed. 1 *propter peccatum,* refragante canone. — De ultima propositione et seqq. cfr. Gratian., super C. *Quis aliquando* (87.), ibid. § 14.
+     **En.** Commentary on Joel 1:13; the canon *Qui sanctus* (66), ibid. — For *propter peccata* codd. B C D E and ed. 1 have *propter peccatum,* against the canon. — On the last proposition and the following cf. Gratian, on the canon *Quis aliquando* (87), ibid. § 14.
+
+[^12]: **La.** Ita codd. et plurimae edd., in aliis *contagione.*
+     **En.** So the codices and most editions; in others *contagione.*
+
+[^13]: **La.** Enarrat. in Ps. 30. n. 16, ubi pro *punitio* edd., excepta 1, *compunctio,* refragantibus codd. et originali.
+     **En.** Exposition on Ps. 30, n. 16, where for *punitio* the editions, except 1, have *compunctio,* against the codices and the original.
+
+[^14]: **La.** Psalm. 31, 5. — Locus Ambrosii est X. Exposit. Evang. sec. Lucam, n. 88; C. *Petrus doluit* (1.), ibid. d. 1.
+     **En.** Ps. 31:5. — The passage of Ambrose is from the tenth [book of the] *Exposition of the Gospel according to Luke,* n. 88; the canon *Petrus doluit* (1), ibid., d. 1.
+
+[^15]: **La.** Homil. 33; locus Chrysost. est Homil. 31. in Epist. ad Hebr. n. 3; cfr. Gratian., super C. *Quis aliquando* (87.), ibid. § 1, in quo textu respicitur Ps. 36, 5. — Codd. et plurimae edd. omittunt *Deo* et coniungunt *ante Deum* cum verbis *viam tuam.*
+     **En.** Homily 33; the passage of Chrysostom is Homily 31 on the Epistle to the Hebrews, n. 3; cf. Gratian, on the canon *Quis aliquando* (87), ibid. § 1, in which text Ps. 36:5 is regarded. — The codices and most editions omit *Deo* and join *ante Deum* with the words *viam tuam.*
+
+[^16]: **La.** Homil. 2. in Ps. 50. n. 3. (inter spuria).
+     **En.** Homily 2 on Ps. 50, n. 3 (among the spurious).
+
+[^17]: **La.** Libr. II. de Vita contemplat. c. 7. n. 2; C. *Porro illi* (1), ibid. d. 6. Respiciuntur Matth. 10, 14, deinde Luc. 17, 14. — Seq. locus ibid. c. 11. n. 26; cfr. Gratian., super C. *Quis aliquando* (87.), ibid. d. 1. § 12.
+     **En.** Book II *de Vita contemplativa,* c. 7, n. 2; the canon *Porro illi* (1), ibid., d. 6. Matt. 10:14, then Luke 17:14, are regarded. — The following passage is ibid., c. 11, n. 26; cf. Gratian, on the canon *Quis aliquando* (87), ibid., d. 1, § 12.
+
+[^18]: **La.** Cap. 5, 16. Locus August. est sermo 351. (alias homil. ult. inter 50 Homil.) c. 4. n. 9; C. *Iudicet* (88.), ibid. Seq. locus est eiusdem Epist. 54. (alias 118. ad Ianuar.) c. 3. n. 4; C. *In actione* (84.), ibid.
+     **En.** [James] c. 5:16. The passage of Augustine is Sermon 351 (otherwise the last homily among the 50 Homilies), c. 4, n. 9; the canon *Iudicet* (88), ibid. The following passage is the same author's Letter 54 (otherwise 118, to Januarius), c. 3, n. 4; the canon *In actione* (84), ibid.
+
+[^19]: **La.** Loci cit. nota praecedente; sc. August., Serm. 351. c. 4. n. 9, et Epist. 54.
+     **En.** The passages cited in the preceding note; namely Augustine, Sermon 351, c. 4, n. 9, and Letter 54. [Editorial bridge marker: the two Augustine quotations here continue the citation begun at note 18; the printed footer carries them under the same per-column note.]
+
+[^20]: **La.** Epist. 108. (alias 83. ad Theodor. Foroiul. episc.) c. 2; C. *Multiplex* (49.), ibid.
+     **En.** Letter 108 (otherwise 83, to Theodore bishop of Forum Iulii), c. 2; the canon *Multiplex* (49), ibid.
+
+[^21]: **La.** De Vera et falsa Poenitentia, c. 10. n. 25; C. *Quem poenitet* (88.), ibid. De leprosis mundatis cfr. Luc. 17, 14, et Levit. 14, 4.
+     **En.** *De Vera et falsa Poenitentia,* c. 10, n. 25; the canon *Quem poenitet* (88), ibid. On the cleansed lepers cf. Luke 17:14, and Lev. 14:4.
+
+[^22]: **La.** Epist. 168. (alias 136. ad univers. episc. per Campaniam) c. 2; C. *Quamvis plenitudo fidei* (89.), ibid.
+     **En.** Letter 168 (otherwise 136, to the bishops throughout Campania), c. 2; the canon *Quamvis plenitudo fidei* (89), ibid.
+
+[^23]: **La.** De Vera et falsa Poenitentia, c. 10. n. 25; C. *Qui vult* (1), ibid. d. 6. Respiciuntur Matth. 15, 14, deinde Luc. 17, 14. — Seq. locus est in eod. libro, c. 12. n. 27; C. *Qui vult,* modo cit.
+     **En.** *De Vera et falsa Poenitentia,* c. 10, n. 25; the canon *Qui vult* (1), ibid., d. 6. Matt. 15:14, then Luke 17:14, are regarded. — The following passage is in the same book, c. 12, n. 27; the canon *Qui vult,* just cited.
+
+[^24]: **La.** Respiciuntur Matth. 9, 24; Marc. 5, 37; Luc. 7, 11; Ioan. 11, 33. — Seq. locus est in eod. libro, c. 12. n. 27; C. *Qui vult,* modo cit.
+     **En.** Matt. 9:24; Mark 5:37; Luke 7:11; John 11:33 are regarded. — The following passage is in the same book, c. 12, n. 27; the canon *Qui vult,* just cited.
+
+[^25]: **La.** In Iac. 5, 16, et in Glossa interlin. ad eund. locum.
+     **En.** On James 5:16, and in the interlinear Gloss on the same place.
+
+[^26]: **La.** Cap. 2, ubi etiam seqq. loci.
+     **En.** Chap. 2 [of the cited homily], where also the following passages [are found].
+
+[^27]: **La.** Homil. 31. in Epist. ad Hebr. n. 4; C. *Quis aliquando,* supra cit. § 1.
+     **En.** Homily 31 on the Epistle to the Hebrews, n. 4; the canon *Quis aliquando,* cited above, § 1.
+
+[^28]: **La.** Ita Hugo a S. Vict., Sum. Sent. tr. 6. c. 10.
+     **En.** So Hugh of St. Victor, *Summa Sententiarum* tr. 6, c. 10.
+
+[^29]: **La.** Gratian., super C. *Quis aliquando,* supra cit. § 15, ubi respicitur Gen. 3, 10; 4, 9. — De opinione Magistri obsoleta, hic in fine et c. 1. in fine tacta, cfr. Bonav. infra d. 18. p. I. a. 2. q. 1.
+     **En.** Gratian, on the canon *Quis aliquando,* cited above, § 15, where Gen. 3:10; 4:9 is regarded. — On the obsolete opinion of the Master, touched here at the end and at the end of c. 1, cf. Bonaventure below at d. 18, p. I, a. 2, q. 1.
+
+---
 
 ## Notes
 
-[Notes pending]
+**Provenance.** This chunk is the complete Lombard *littera* of Distinction XVII, *De confessione* — the Master's own three-pars division: **Pars I** = Cap. I (whether sins are forgiven without confession, by contrition alone); **Pars II** = Caps. II–III (whether confession to God alone suffices, vs. confession to a priest); **Pars III** = Caps. IV–V (whether confession to a layman suffices, and to what confession avails). The littera runs from the *Cap. I* header on p.413 (left column lower, body continuing into the right column) through the end of Cap. V on p.417 (right column), stopping just before the *COMMENTARIUS IN DISTINCTIONEM XVII.* which begins on p.418. The "Pars II" (raw ~46897) and "Pars III" (raw ~47077) are the **Master's own** divisions inside the littera, not the commentary's — the rendering keeps going past them through the end of the Master's text. Latin re-set from IA djvu OCR (raw lines 46740–47184) under the **Vol II OVERRIDE** PDF-priority inversion for the cascade-fragmented two-column body and footers. PDF column bands read for pp. 413–417 (vol4 column split x=1880, offset `pdf = printed + 20`); running heads verified: *DISTINCTIO XVII.* on recto pages (413, 415, 417) and *SENTENTIARUM LIB. IV.* on verso pages (414, 416).
+
+**Page-split map (footer notes).** The *NOTAE AD LIBR. SENTENTIARUM* footnotes restart per printed page and are printed per column. Mapped continuously here `[^1]–[^29]`:
+- **p.413** right-column footer: 3 littera notes (`[^1]–[^3]`). (The p.413 left-column *NOTAE AD LIBR.* block, ¹–⁵, belongs to d.16's commentary Dub. V and is **not** captured here.)
+- **p.414**: left col ¹–⁵ → `[^4]–[^8]`; right col ⁶–¹⁰ → `[^9]–[^13]`.
+- **p.415**: left col ¹–⁴ → `[^14]–[^17]`; right col ⁵–⁶ → `[^18]`, `[^20]`. Note `[^19]` is an **editorial bridge marker** placed at the second Augustine citation in Cap. III (*Cum tanta est plaga…*) that the printed page carries under the same per-column note 5 as note `[^18]`; it is split out here so every body anchor has a matching `[^N]:` def (see the apparatus header).
+- **p.416**: left col ¹–³ → `[^21]–[^23]`; right col ⁴ → `[^24]`.
+- **p.417**: left col ¹–³ → `[^25]–[^27]`; right col ⁴–⁵ → `[^28]–[^29]`.
+
+The p.418 footers (*NOTAE AD COMMENTARIUM*) belong to the COMMENTARIUS and are **forwarded** to the `bon-sent-IV-d17-p1-divisio` commentary chunk.
+
+**Hand-offs.** Picked up: nothing — the littera opens cleanly at the *Cap. I* header on p.413 (the prior page-top finishes d.16's dubia/commentary, not captured here). Forwarded: the *COMMENTARIUS IN DISTINCTIONEM XVII. / De confessione, quatenus… / DIVISIO TEXTUS* begins on p.418 immediately after this chunk and belongs to the divisio chunk, along with its *NOTAE AD COMMENTARIUM* footers.
+
+**Marginalia trimmed.** The left/right-margin author-name glosses (*Cassiodorus, Augustinus, Ambrosius, Ioannes, Gratianus, Prosper, Leo, Hieronymus, Beda, Epilogus, Repetitio, Notandum,* and the *Dubium 1–7* / *Opinio 2. et vera.* tags) and the running heads are editorial marginalia, trimmed out per the project's marginal-gloss rule; the inline author attributions inside the Master's prose are preserved.
+
+**[?] flags.** None. Body and all 29 footer notes resolved against the PDF column bands (pp. 413–417, x=1880, +20).
