@@ -11,7 +11,7 @@ pdf_pages: [531, 532, 533, 534]
 source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 511–514"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — all 6 dubia (Dub. I–VI). Latin re-set from PDF column bands (Vol IV two-column PDF-priority inversion; vol4-p511..p514-{L,R}-* at split x=1880) cross-checked against IA djvu OCR raw lines 56725–57014, fresh literal English translation, full apparatus (19 entries) from raw OCR footers (p.511 footers 1–7; p.512 footers 1–9; p.513 footers 1–11; p.514's footers belong to the Distinctio XX NOTAE block, not this chunk). Chunk ends at Dub. VI close on p.514 (*…auctoritas prius posita.*) immediately before the centered DISTINCTIO XX / PARS I header (2026-06-23)"
+transcription_status: "Phase C Tier 2 complete — all 6 dubia (Dub. I–VI). Latin re-set from PDF column bands (Vol IV two-column PDF-priority inversion; vol4-p511..p514-{L,R}-* at split x=1880) cross-checked against IA djvu OCR raw lines 56725–57014, fresh literal English translation, full apparatus (20 entries) from raw OCR footers (p.511 footers 1–7; p.512 footers 1–9; p.513 footers 1–11; p.514's footers belong to the Distinctio XX NOTAE block, not this chunk). Chunk ends at Dub. VI close on p.514 (*…auctoritas prius posita.*) immediately before the centered DISTINCTIO XX / PARS I header (2026-06-23)"
 format_version: 1
 ---
 
