@@ -4,213 +4,138 @@ volume: 4
 book: 4
 distinctio: 19
 type: littera
-line_start: 55277
-line_end: 55467
-word_count_latin: 1987
-transcription_status: "auto-chunked 2026-06-16"
+title_la: "De potestate clavium et quibus dentur"
+title_en: "On the power of the keys, and to whom they are given"
+printed_pages: [497, 498, 499]
+pdf_pages: [517, 518, 519]
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 497–499"
+has_scholion: false
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR (raw lines 55277–55467+) with PDF column-band authority on the cascade-fragmented two-column body + footers (pp. 497–499), fresh literal English, full apparatus from PDF bands (p.497 NOTAE: 4 entries; p.498: 7 entries; p.499: 1 entry = 12 entries), no scholion, one [?] flag (p.497 left body marker spacing) (2026-06-23)"
 format_version: 1
 ---
 
-# bon-sent-IV-d19-littera
+# Distinctio XIX — Littera Magistri
+## *De potestate clavium et quibus dentur*
+
+---
 
 ## Latin
+<!-- page 497 -->
 
-DISTINCTIO XIX.
+### Cap. I. *Quando hae claves dantur et quibus.*
 
+Postquam ostensum est, quae sint claves apostolicae, et quis earum usus; superest investigare, quando istae claves dentur et quibus. — Dantur hae claves per ministerium episcopi alicui in promotione sacerdotii; cum enim recipit ordinem sacerdotalem, simul et has claves recipit. — Sed non videtur, quod omnes, vel soli sacerdotes has claves habeant, quia plerique ante sacram ordinationem scientiam discernendi habent, plures post consecrationem ea carent. — Sane dici potest, quod alteram clavium istarum, id est scientiam discernendi, non omnes habent sacerdotes; unde dolendum est atque lugendum. Multi enim, licet indiscreti atque scientiae, qua eminere debent[^1], exsortes, sacerdotii gradum recipere praesumunt, vita et scientia eo indigni, qui nec ante sacerdotium nec post scientiam habent discernendi, qui ligandi sint vel solvendi. Ideoque illam clavem in consecratione non recipiunt, quia semper scientia carent. Qui vero ante sacerdotium scientia discernendi praediti sunt, licet habeant discretionem, non tamen in eis clavis est, quia non valent ea claudere vel aperire; ideoque, cum promovetur in sacerdotem, clavem discretionis dicitur accipere, quia et ante habita discretio augetur et fit in eo clavis, ut ea iam valeat uti ad claudendum vel aperiendum.
 
-                                                                Gap.           I.                                                                   imilatoribus eius tantum                            ,   ut    aiunt; qui                   etiam aucto-
-                                                                                                                                                    ritatibus utunlur                      in    munimentum suae opinionis. Hoc
-                           Qiiando hae claves dantiir                                           et    quibus.                                       enim dicunt Augustinum sensisse superius", ubi ait: Augnsiinus.
-                                                                                                                                                    oRemissionem peccatorum ve! per se ipsum facil Deus,
-             Postquam oslensum est, quae siiit claves aposto-                                                                                       vel per            columbae membra                      ».     Dicit           etiam idem, pec-
-        licae, et quis earum usus; superest investigare, quando                                                                                     cata dimitli vel teneri a Sanclis. Idem super                                                    Exodum,
-        istae claves denlur ct quibus.   Dantur hae claves per                  —                                                                   ubi de lamina aurea legitur: Erat aulem lamina aurea
-        ministerium episcopi                                  alicui           in      promotione sacerdotii;                                       semper in fronte sacerdotis:                                 « Haec,            inquit, signiQcat
-        cum enini recipit ordinem sacerdotalem                                                            ,    slmul et has                         flduciam bouae vitae,                             quam qui vere perfecteque, nou
-ciave   claves recipit.                  — Sed non videlur, quod omnes                                                                ,     vel     significalione, sed verilate, sacerdos habet,                                                    solus       po-
-°'^°'so/z       sacerdotes has claves habeant, quia plerique ante                                                                                   test    peccata auferre». Item Gregorius^:                                             « Illi       soli     ha- oregorius.
-        sacram             ordinalionem                        scienliam                   discernendi                      habent                  bent in hac carue positi ligandi                                   et solvendi              potestatem,
-        plures post consecralioneni ea careut.                                                       — Sane                 dici po-                sicut sancti Apostoli, qui illorum                                       exempla simul cum
-        test,        quod alteram clavium istarum,                                                   id       est scientiam                         doctrina tenent». Item ex diclis Origenis:                                                   «   Haec po- origenes.
-        discernendi, non                           oinnes habent                           sacerdotes; unde                                do-      lestas        soli       Pelro         concessa          est        et    imitatoribus                Pelri.
-        lendum est atque lugendum. Multi enim, Hcet indiscreli                                                                                      Nam quicumque vestigia Petri imitantur, habent recte
-        atque scienliae, qua emiuere debent \ exsortes, sacer-                                                                                      ligandi et              solvendi poteslatem ». His aliisque testimo-
-        dotii gradum recipere praesumunt, vita et scientia eo                                                                                       niis innituntur qui asserunt ,                               potestatem ligandi ac sol-
-        indigni        ,
-                           qui     nec ante sacerdotium nec                                               post scienliam                            vendi         illis      solis        concessam sacerdolibus, qui                                   vila      et
-        habent (hsceruendi, qui ligandi sint vel solvendi. Ideo-                                                                                    doctrina pollent sicut Apostoli.
-        que illam cJavcm in consecralione non recipiunt, quia                                                                                               Aliis           autem videtur, quod                        et    mihi placere fateor, opinio 2. et
-        semper scientia carenf. Qui vero ante sacerdolium scien-                                                                                    cunctis sacerdotibus hanc clavem dari, sciiicet ligandi
-        tia discernendi praediti sunt, licet haheant discretio-                                                                                     et solvendi; sed                      nou eam recte ac digue habent, nisi
-        nem, uon tamen in eis clavis esl, quia non valent ea                                                                                        qui vitam et doctrinam apostolicam servant. Nec prae-
-        claudere             vel        aperire;                ideoque,                   cum promovetur                                      in   missae auctoritates malos sacerdotes hanc potestatem
-        sacerdolem, clavem discretionis dicitur accipere, quia                                                                                      habere ncgant, sed illos solos digne ac recte hac po-
-        et ante            habita discretio augetur et                                       flt     in       eo clavis, ut                         testate uti significant, qui pi-aediti sunt vila et doctrina
-        ea iam valeat uli ad   claudendum vel aperiendum.                                                                                           apostolica, quia soli Apostolorum imitatores digne                                                           re-
-                Cumque iam conslet, uon omnes sacerdotes illas                                                                                      cteque possunt ligai'e et solvere;et per Deum tantum,
-dave duas            clavcs habcre, quia scientia discerneudi j)lerique                                                                             vel     per Sanctos,                    in    quibus habitat Spiritus sanctus,
-      "carent; de altera, id est potentia ligandi et solvendi,                                                                                      digne et recte                  fit    remissio vel retentio peccatorum. Fit
-        quaeritur,utrum omnes sacerdotes eam habeant.                                                                                          —    tamen et per illos qui sancti uon sunt, sed non digne
-1. et Quidam   enini hanc potestatem putant illis solis esse                                                                                        vel recte. Dat enim Deus benedictionem digne poscent'
-      concessam, qui doctrinam simul ac vitam Apostolorum                                                                                           etiam per indignum ministrum. Quod vero hanc pote'
-      servant. Illas enim claves promisit Dominus Petro et                                                                                          statem habeant omnes sacerdotes, Hieronymus ^ lesta-
+Cumque iam constet, non omnes sacerdotes illas duas claves habere, quia scientia discernendi plerique carent; de altera, id est potentia ligandi et solvendi, quaeritur, utrum omnes sacerdotes eam habeant. — Quidam enim hanc potestatem putant illis solis esse concessam, qui doctrinam simul ac vitam Apostolorum servant. Illas enim claves promisit Dominus Petro et imitatoribus eius tantum, ut aiunt; qui etiam auctoritatibus utuntur in munimentum suae opinionis. Hoc enim dicunt Augustinum sensisse superius[^2], ubi ait: « Remissionem peccatorum vel per se ipsum facit Deus, vel per columbae membra ». Dicit etiam idem, peccata dimitti vel teneri a Sanctis. Idem super Exodum, ubi de lamina aurea legitur: *Erat autem lamina aurea semper in fronte sacerdotis:* « Haec, inquit, significat fiduciam bonae vitae, quam qui vere perfecteque, non significatione, sed veritate, sacerdos habet, solus potest peccata auferre ». Item Gregorius[^3]: « Illi soli habent in hac carne positi ligandi et solvendi potestatem, sicut sancti Apostoli, qui illorum exempla simul cum doctrina tenent ». Item ex dictis Origenis: « Haec potestas soli Petro concessa est et imitatoribus Petri. Nam quicumque vestigia Petri imitantur, habent recte ligandi et solvendi potestatem ». His aliisque testimoniis innituntur qui asserunt, potestatem ligandi ac solvendi illis solis concessam sacerdotibus, qui vita et doctrina pollent sicut Apostoli.
 
+Aliis autem videtur, quod et mihi placere fateor, cunctis sacerdotibus hanc clavem dari, scilicet ligandi et solvendi; sed non eam recte ac digne habent, nisi qui vitam et doctrinam apostolicam servant. Nec praemissae auctoritates malos sacerdotes hanc potestatem habere negant, sed illos solos digne ac recte hac potestate uti significant, qui praediti sunt vita et doctrina apostolica, quia soli Apostolorum imitatores digne recteque possunt ligare et solvere; et per Deum tantum, vel per Sanctos, in quibus habitat Spiritus sanctus, digne et recte fit remissio vel retentio peccatorum. Fit tamen et per illos qui sancti non sunt, sed non digne vel recte. Dat enim Deus benedictionem digne poscenti etiam per indignum ministrum. Quod vero hanc potestatem habeant omnes sacerdotes, Hieronymus[^4] testa-
 
+<!-- page 498 -->
 
+tur super illum locum Evangelii, ubi dixit Dominus Petro: *Tibi dabo claves regni caelorum:* « Habent, inquit, eandem iudiciariam potestatem alii Apostoli, habet et omnis Ecclesia in episcopis et presbyteris. Sed ideo Petrus eam specialiter accepit, ut omnes intelligant, quod quicumque ab unitate fidei et societate Ecclesiae se separaverit, nec a peccatis solvi nec caelum potest ingredi ».
 
-                     Ita    codd.        ElivL bb                 et       ed.        I,    Vat. hic ,           codd.           RS in                      -   Dist.       praeced.       c.    3, scil.   V. do Baptismo contra Donatist.
-        hoc,        alii   hoc (ablativus?).                                                                                                        c.    21. n. 29.          —      Secf.      locus eiusdem est             II.    Quaestion. in Pen-
-               ^     Edd. perperam mersionem.                                                                                                       tateuch. q.             120; respicitur Exod. 28, 38.
-               '      Vide supra              p.    1.    diib.        I   ;    II.     Sent.        d.       3S.         dub.        6.       —            3    Libr.      II.    Homil.        in   Evang.       homil.           26.    n.    i.     seq. ;    II.
+### Cap. II. *Utrum per indignos transfundatur gratia dignis.*
 
-        Idem dub. solvunt                     B. Alberl., hic a. 8; S. Tliom., hic q.                                            I.       a.   2;   Dialog.       c.    23; ast           verbotenus        apud Ilugon.                 a S. Vict.,          Sum.
-        Petr. a Tar., q.                2.    a.    1.        quaestiunc. 2. et circa                          lit.   ;    Richard. a               Sent.       tr.    6.    c.    14,       ubi invenitur         etiam seq. locus Origenis
-        Med., hic circa                lit.                                                                                                         Comment. in Matth. lifar. XII. n. 9.
-                                                                                                                                                         * Non invenimus in Hieron. hunc locum, sed verbolenus
-                              NOTAE AD LIBR. SENTENTIARUM.
-                                                                                                                                                    in Glossa Watth. 16, 17. et apud Rabanum V. Comment. in
-                '    Codd.       BD et ed.                1     debet           sacerdos pro debent; deinde                                         Matth. loc.          cit.,     qui primani partem sumsit ex Beda in                                  eundem
-        pro qui cod. E                 et plures               edd.        quia.           Inferius pro discretionis                                locum.        Cfr.      eliam C. Si iustits (30.), C.                     I.    q.    I.    et C.    Ut evi-
-        dicitur cod.          E et edd., excepta \                              ,     discretionis^ recte diciiur.                                  tentur (82.), ibid.
-                           S. Bonav.               — Tom. IV.                                                                                                                                                                                    63
-               498                                                                                     SENTENTIARUM LIB. IV.
+Item, quod sacerdos, etiam si malus sit, gratiam tamen transfundit[^5] pro suae dignitatis officio, Augustinus ostendit dicens: « Dictum est a Domino in Numeris ad Moysen et Aaron sacerdotes: *Vos ponite nomen meum super filios Israel, et ego Dominus benedicam eos;* ut gratiam traditio per ministerium ordinati transfundat hominibus, nec voluntas sacerdotis obesse vel prodesse possit, sed meritum benedictionem poscentis. Quanta autem sit dignitas sacerdotis officii et ordinis, hinc advertamus. Dictum est de nequissimo Caipha inter cetera: *Hoc autem a semetipso non dixit, sed, cum esset pontifex anni illius, prophetavit;* per quod ostenditur, Spiritum gratiarum non personam sequi digni vel indigni, sed ordinem traditionis; ut, quamvis aliquis boni meriti sit, non tamen possit benedicere, nisi fuerit ordinatus, ut officii ministerium exhibeat. Dei autem est effectum tribuere benedictionis ». — Hinc evidenter ostenditur ordo[^6] non privari potestate tribuendi gratiam ob ministri indignitatem. — Huic tamen Augustini sententiae videtur obviare quod ait Hesychius[^7]: « Sacerdotes, inquit, non propria virtute benedicunt, sed quia figuram Christi gerunt et propter eum, qui in ipsis est, benedictionis plenitudinem tribuunt; nec solum is qui sacerdotium sortitus est, sed quicumque Christum in se ipso habet et eius figuram gerit per conversationem bonam, sicut Moyses, idoneus est ut benedictionem praestet ». — Ecce hic habes, quod non solum sacerdos, sed omnis, in quo Christus habitat, benedictionem praestat. Sed alia est benedictio, quae solis sacerdotibus congruit, alia, quae ab omnibus bonis communiter exhibetur. Denique illi sacerdotes, in quibus Christus habitat, benedictionis plenitudinem tribuere dicuntur, non quia soli illi transfundant gratiam, sed quia illi soli licite et digne id agunt. Nec subditos mala vita sacerdotis laedit, si bona faciunt, quae ille dicit. Unde Gregorius[^8]: « Multi, dum plus vitam sacerdotum quam suam discutiunt, in erroris foveam dilabuntur, minus considerantes, quod non eos vita sacerdotum laederet, si humiliter bonis sacerdotum admonitionibus aurem accommodarent ».
 
-               tur super illuni                     locum Evangelii, ubi                        dixit      Dominus                                                                 cap.     m.
-Hieronymns. Petro :         Tibi dabo claves regni caelorum :                                        « Habenl,                in-
+### Cap. III. *Quomodo intelligendum sit: Maledicam benedictionibus vestris.*
 
-               quit,       eandem iudiciariam potestalem alii Apostoli ha-                                            ,                            Quomodo intelligendum sit: Maledicam
-               bet et omnis Ecclesia                          iu     episcopis et presbyteris. Sed                                                                benedictio7iibiis vestris.
+Praemissae vero sententiae, qua dicitur etiam per mali sacerdotis ministerium transfundi gratia benedictionis, videtur obviare quod Dominus per Malachiam[^9] prophetam malis sacerdotibus comminatur: *Maledicam benedictionibus vestris;* et alibi: *Vae his qui vivificant animas, quae non vivunt, et mortificant animas, quae non moriuntur.* Si enim maledicit Dominus benedictionibus eorum, et si animae, quas vivificant, non vivunt; quomodo per eos gratia benedictionis transfunditur? — Sed illud capitulum *Maledicam* etc. Explanantes quidam referunt ad haereticos, qui ab Ecclesia praecisi sunt, et ad excommunicatos, quorum benedictiones fiunt maledictiones his qui eorum sequuntur errores. Illud vero alterum, scilicet: *Vivificant* etc., super omnes illos sacerdotes exponunt, qui absque clave scientiae et forma bonae vitae praesumunt ligare vel solvere. Sed nullus officio sacerdotis uti debet, nisi immunis sit ab illis quae in aliis iudicat; alioquin se ipsum condemnat.
 
-               ideo Petrus              eam specialiter                     accepit, ut             omnes           intelli-
+### Cap. IV. *Qualis esse debeat iudex ecclesiasticus.*
 
-               gant,       quod quicumque ab unitate                                         fidei    et   socielate                         Praemissae vero sententiae, qua dicitur etiam per
-               Ecclesiae se separaverit, uec a peccatis solvi nec cae-                                                               mali sacerdotis ministerium                              transfundi             gratia benedi-
+Qualem autem oporteat esse qui aliorum iudex constituitur, Augustinus[^10] describit ita dicens: « Sacerdos, cui omnis offertur peccator, ante quem statuitur omnis languor, in nullo eorum sit iudicandus, quae in alio iudicare est promptus. Iudicans enim alium, qui est iudicandus, condemnat se ipsum. Cognoscat igitur se et purget in se quod alios videt sibi offerre; caveat, ut a se proiecerit, quidquid in alio damnosum reperit. Animadvertat, quod *qui sine peccato est primus in illam lapidem mittat.* Ideo enim Dominus liberavit peccatricem, quia non erat qui iuste proiiceret lapidem. Quomodo lapidaret qui se lapidandum cognosceret? Nullus enim erat sine peccato; in quo intelligitur, omnes fuisse reos. Nam venialia semper remittebantur per caerimonias; si quod ergo in eis peccatum erat, criminale erat. In hoc igitur patentissimum est crimen sacerdotum et[^11] detestabile, qui non prius se iudicant et alios alligant. — Caveat spiritualis iudex, ut, sicut non commisit crimen nequitiae, ita non careat munere scientiae; oportet, ut sciat cognoscere, quidquid debeat iudicare. Iudiciaria enim potestas hoc postulat, ut quod debet iudicare discernat. Diligens igitur investigator sapienter interroget a peccatore, quod forsitan ignoret, vel verecundia velit occultare. Cognito vero crimine, varietates eius non dubitet investigare et locum et tempus et cetera, quae supra di-
 
-               lura potest ingredi».                                                                                                 ctionis ,        videtur           obviare             quod        Dominus per Mala-
-                                                                                                                                     chiam ^ prophetam malis sacerdolibus comminatur:
-                                                                   Cap.     II.                                                      Maledicam benedictionibus vestris; et alibi: Vae his
-                                                                                                                                     qui vivificant animas, quae non vivunt, et morlificant
-                                  Utrum per indignos transfundatur                                                                   animas, quae non moriuntur. Si enim maledicit Domi-
-                                                            gratia dignis.                                                           nus benedictionibus eorum, et si animae, quas vivifi-
-                                                                                                                                     cant, non vivunt; quomodo per eos gralia benedictionis
-                Item, quod sacerdos, etiam si malus sit, graliam                                                                     transfuudilur?              —
-                                                                                                                                                       Sed iilud capitulum Maledicam etc, Expli                :
+<!-- page 499 -->
 
+ximus; quibus cognitis, adsit benevolus, paratus erigere et secum onus portare: habeat dulcedinem in affectione, discretionem in varietate, doceat perseverantiam, caveat, ne corruat, ne iuste perdat iudiciariam potestatem. Etsi enim poenitentia possit ei acquirere gratiam, non tamen mox restituit in potestatem primam. Etsi Petrus post lapsum restitutus fuerit, et saepe lapsis sacerdotibus reddita sit dignitatis potestas; non tamen est necesse, ut omnibus concedatur quasi ex auctoritate. Invenitur auctoritas, quae concedit et quasi imperat; invenitur alia, quae non concedit, sed vetat. Quae scripturae non repugnant, sed concordant. Cum enim tot sunt qui labuntur, ut pristinam dignitatem ex auctoritate defendant et quasi usum peccandi sibi faciant; recidenda est spes ista. Si vero locus est, ubi ista non concurrant, restitui possunt qui peccant ». — Ex his satis perpenditur, qualis debeat esse sacerdos, qui alios ligat et solvit, discretus scilicet et iustus; alioquin mortificat saepe animas, quae non moriuntur, et vivificat, quae non vivunt; et ita incidit in maledictionis iudicium. Illud autem Malachiae, scilicet: *Maledicam benedictionibus vestris,* sive super haereticos tantum et excommunicatos, sive super omnes sacerdotes, qui vita et scientia carentes benedicere praesumunt, dictum accipiatur, sic intelligi potest: *Maledicam benedictionibus vestris,* id est « his quae in eis benedictionibus possidetis[^12] », quia faciam ea vobis cedere in maledictionem, non in benedictionem, quia, etsi benedicunt Sanctis, non hoc faciunt ex vero corde, et ideo eorum benedictio eis vertitur in maledictionem. Vel *maledicam benedictionibus vestris,* id est « quod a vobis benedicitur a me erit maledictum », quia benedicunt inique agentibus adulanturque peccantibus, dummodo divites sint.
 
-
-
-           lamen trausfundit ' pro suae dignitatis officio, Augusti-                                                                 quidam referunt ad haereticos, qui ab Ecclesia praecisi
-Angastmns. nus ostcudit diccns: « Dictum est a Domino in Nume-                                                                       sunt, et ad excommunicatos, quorum benedictiories
-           ris ad Moysen et Aaron sacerdotes: Yosponite tiomcn                                                                       fiunt malcdictiones his qui                            eorum sequuntur                      errores.
-
-           meum super filios Israel^ et ego Dominus benedicam                                                                        Illud vero alterum, scilicet: Vivificant etc, super omnes
-
-               eos ; ut gratiam traditio per ministerium ordinati trans-                                                             illos       sacerdoles exponunt, qui     absque clave scientiae
-               lundat hominibus, nec voluntas sacerdotis obesse                                                               vel    et fornia           bonae vitae praesumunt llgare vel solvere.
-               prodesse possit, sed meritum benedictionem poscenlis.                                                                 Sed nullus               officio       sacerdotis            uti    debet, nisi immunis Dnbi
-               Quanla autem                    sit    dignitas sacerdolis                    officii    et ordinis,                  sit    ab     illis      quae      in        aliis     iudicat;          alioquin se ipsuni
-
-               hinc advertamus. Dictum est de neqiiissimo Caipha in-                                                                 condemnat.
- Dnbinm i. ler cctera             :    Hoc autem a semetipso non dixit , sed. cum
-                                                                                                                                                                                       Cap. IV.
-               csset pontifex anniilliuSj, prop/ietavit ; per        quod osten-
-               dilur, Spiritum gratiarum                                  non         personam sequi digni                                           Qualis esse debeat iudex ecclesiasticus.
-               vel indigni, sed oi'dinem traditionis; ut,                                      quamvis ali-
-               quis boni merili                      sit,   non tamen possit benedicere, nisi                                                Qualem autem oporteat                             esse           qui    aliorum iudex
-               fuerit ordinatus, ut officii ministerium e.xhibeat. Dei au-                                                           conslituilur,              Augustinus'' describit                         ila    dicens:          «   Sa-Ang
-
-               tem est effeclum iribuere benedictionis ».                                            — Hinc               evi-       cerdos, cui omnis offerlur peccator, anle quem statui-
-               denler ostenditur ordo " non privari potestate Iribuendi                                                              tur omnis languor, in niillo eorum sit iudicandiis, quaeta
-   obieciio.   gratiam ob ministri indignitalem.    Huic tamen Augu-                   —                                             in alio         iudicare est                 promptus. ludicans enim alium,Da!i
-               stini sentenliae videtur obviare quod ait Hesychius':                                                                 qui est         iudicandus,                  condemnat se ipsum. Cognoscat
- Hesyciiias.   «Sacerdolcs, inquit, non pi'opria virtute benedicunt,                                                                 igilur se           el    purget             in se quod alios videt sibi of-
-
-               sed quia figuram Chrisli gerunl et propter eum, qui                                                                   ferre;        caveat,        ut        a     se      proiecerit,          quidquid           in       alio
-
-               in ipsis est, benedictionis                               pleoiludinem tribuunt; nec                                  damnosum                 reperit.          Animadverlat, quod qui sine pec-
-               solum        is   qui sacerdotium sortitus est, sed quicumque                                                         cato est         primus in illam                        lapidem miltat. Ideo enim Doi?
-               Christum               in se         ipso      habet         et        eius   figuram gerit per                       liberavit peccatricem, quia uou erat qui iuste proiice-
-
-               conversationem bonam, sicut Moyses, idoneus est ut                                                         ,          ret     lapidem.           Quomodo                 lapidaret         qui        se       lapidandum
-               benediclionem praestet».   Ecce hic habes, quod non      —                                                            cognosceret? Nullus                          enim       erat       sine peccato ; in quo
-
-               sohim sacerdos, sed omnis,       quo Christus habitat,        in                                                      inlelligitur,            omnes fuisse                reos.     Nam             venialia      semper
-               benedictionem praestat. Sed       est benedictio, quae        alia                                                    remittebantur               per caerimonias;                       si     quod crgo           in       eis
-
-    soiutio. solis sacerdotibus congruit, alia, quae ab omnibus bonis                                                                peccatum erat, criminale erat. In hoc igitur patentis-
-               communiter exhibetiir. Denique illi sacerdotes, in qui-                                                               simum est crimen sacerdolum et ' detestabile, qui non
-               bus Christus                   habi(at,             benedictionis              plenitudinem                    tri-   prius se iudicant et alios alligant.                                 — Caveal             spiritualis
-
-               buere dicunlur, non quia soli ilii transfundant graliam,                                                              iudex, ui, sicut non commisit crimen nequitiae, ita non dis
-                                                                                                                                                                                                                                                  ^"'
-               sed quia            illi      soJi     licite       et    digne id agunt. Nec subditos                                careat        munere scientiae; oportet, ut sciat cognoscere                                             ,
-
-
-
-
-               mala        vila sacerdolis laedit, si l)ona faciunt,                                       quae               ille   quidquid debeat iudicare. ludiciaria enim potestas iioc
-  GregoriDs. dicit.  Unde Gregorius " «Multi, dum              :                             plus vilam sacer-                       poslulat, ut              quod debet iudicare                            discernat.         DiligensDai
-
-               dotum quam suam discutiunt in erroris foveam dila-                 ,                                                  igitur        investigator              sapienter           interroget               a    peccalore,
-
-               buntur, minus considerantes, quod non eos vila sacer-                                                                 quod         forsitan ignoret, vel                     verecundia               velit occultare.
-
-               dolum laederet, si humiliter bonis sacerdolum admo-                                                                   Gognito vero crimine, varietates       non dubitet iu-              eius
-
-               nitionibus aurem accommodarent ».                                                                                     vesligare el locum el lcmpus et cetera, quae supra di-
-
-
-
-
-                       '   Codd. A B D E transfundat.                             — Loous August.              est in         non            ^    Cap.     2,2, deinde Ezecli.                13,       19.   — De loco Malachiae
-               genuinis          Quaestion.            ex    veteri lestam. q. 1 1  C. Dictum est
-                                                                                                ;
-                                                                                                                                     cfr.    supra       d.   XIII.   c.    1 .    2.   —   Inferius pro fiuni maledictiones
-
-               (96.), ibid.,           ubi citatur           Num. 6, 27, et infra loan. 14, Sl.                                      ed.     1    veriuniur in maledictiones.
-                       2   Plures            edd.     ordinem ,           refraganlibus         codd.          et    ed.        1,          De Vera et falsa Poenitent. c. 20. n, 36. (inter opera); C.
-                                                                                                                                             «
-
-                                                                                                                                      Qai vuli confiieri (I.), do Poenitentia d. 6. § 2. 3.      Ibi re-
-                2, 3, 7.
-                       3   Libr.       II.    in    Levit. (9, 23.).                                                                 spiciuntur          Rom. 2,           1, deinde loan. 8, 7.
-                       *   Can. Multi saecularium (84.), ibid. Locus hic                                   ,    ut volunt                    '    Vat.     cum    paucis edd.               esse;   originale         cum canone et
-                editores,        ab alio formatus                  est    secundum Gregor.                                           cod.        E ei ultra modum detesiabile.
-                                                                                                                                                                                                ;
-
-
-
-
-                                                                         DIST. XIX. ART.           I.   QLTAEST.         I.                                                                  499
-
-     ximus; quibiis cognitis, adsit benevolus, paralus cri-                                        dos, qui alios ligat el solvit, discretus scilicet et iustus
-     gerc et sccum onus portare: habeat dulcetlinem in                                             alioquin morlificat saepe      animas,quae non moriuntur,
-     affectionc, discretionem              in    varietate, doceat perseve-                        et vivificat,     quae non vivunt; et ila incidit in maledi-
-     rantiam, caveat, ne corruat, nc                         iuste perdat iudicia-                 ctionis      iudicium. Illud autem Malachiae, scilicet: Ma-                                      ExpUcatar
-                                                                                                                                                                                                         ^*'
-     riam polestatem. Etsi enim poenitentia possit ei acqui-                                       ledicani benedictionibus veslris, sive                           super haereticos cMao.
-     rere gratiam, non          tamen       mox         restituit in           potestatem          tantum        et   excommunicatos, sive super omnes sacer-
-     primam.       Etsi Petrus       post       lapsum         restitutus fuerit, et               dotes, qui vita et scientia carentes benedicere praesu-
-     saepe lapsis sacerdotibus reddila sit dignitatis potestas;                                    munt, dictum accipiatur,                    sic     intelligi     potest: Maledi-
-     non tamen est necesse, ut omnibus                              concedatur quasi               cam benedictionibus                  vestris, id est         «    his    quae        in    eis
-
-     ex auctoritate. Invenitur              auctoritas, quae concedit et                           beuedictionibus possidetis ' », quia faciam ea vobis ce-
-     quasi imperat; invenitur alia, quae non concedit, sed                                         dere ia maledictionem, non                        in   benedictionem, quia,
-     vetat.    Quae scripturae uod repugnant, sed concordant.                                      etsi   benedicunl Sanctis, non hoc faciunt ex vero corde,
-6.   Cum enini tot sunt qui labuntur, ut pristinam dignita-                                        et ideo       eorum benedictio eis vertitur in maledictionem.
-     tem ex auctoritate delendant et quasi usnm                                  peccandi          Vel maledicam benedictionibus          vestris, id est « quod
-     sibi faciant;     recidenda est spes               ista. Si         vero locus est,           a    vobis benedicitur a              me erit maledictum », qula                          be-
-     nbi ista uon concurrant, reslitui possunt qui peccant».                                       nedicunt inique               agentibus      adulanturque peccantibus,
-     — Ex his        satis perpenditur, qualis                     debeat esse sacer-              dumraodo divites sint.
+---
 
 ## English
+<!-- page 497 -->
 
-[Translation pending]
+### Chap. I. *When these keys are given, and to whom.*
+
+After it has been shown what the apostolic keys are, and what their use is; it remains to investigate when these keys are given, and to whom. — These keys are given by the ministry of the bishop to someone in the promotion to the priesthood; for when he receives the priestly order, he receives at the same time these keys also. — But it does not seem that all, or only, priests have these keys, because many before sacred ordination have the knowledge of discerning, and many after consecration lack it. — It can soundly be said that not all priests have one of these keys, namely the knowledge of discerning; whence it is to be grieved and lamented. For many, although undiscerning and devoid of the knowledge in which they ought to excel[^1], presume to receive the grade of the priesthood, unworthy of it in life and knowledge, who neither before the priesthood nor after have the knowledge of discerning who are to be bound or loosed. And therefore they do not receive that key in consecration, because they always lack knowledge. But those who before the priesthood are endowed with the knowledge of discerning, although they have discretion, nevertheless the key is not in them, because they are not able to close or open with it; and therefore, when one is promoted to the priesthood, he is said to receive the key of discretion, because the discretion had even before is increased and becomes in him a key, so that he is now able to use it for closing or opening.
+
+And since it is now established that not all priests have those two keys, because many lack the knowledge of discerning; concerning the other, that is the power of binding and loosing, it is asked whether all priests have it. — For some suppose this power to have been granted to those alone who keep both the doctrine and the life of the Apostles. For the Lord promised those keys to Peter and to his imitators only, as they say; and they also use authorities in defense of their opinion. For they say that Augustine thought this above[^2], where he says: « God brings about the remission of sins either through himself, or through the members of the dove ». The same also says that sins are forgiven or retained by the Saints. The same on Exodus, where it is read of the golden plate: *Now there was always a golden plate on the forehead of the priest:* « This, he says, signifies the confidence of a good life, which the priest who has it truly and perfectly, not in signification but in truth, alone can take away sins ». Likewise Gregory[^3]: « They alone, placed in this flesh, have the power of binding and loosing, like the holy Apostles, who hold their examples together with their doctrine ». Likewise from the sayings of Origen: « This power was granted to Peter alone and to the imitators of Peter. For whoever imitate the footsteps of Peter rightly have the power of binding and loosing ». On these and other testimonies they rely who assert that the power of binding and loosing was granted to those priests alone who are strong in life and doctrine like the Apostles.
+
+But to others it seems — which I confess pleases me also — that this key, namely of binding and loosing, is given to all priests; but they do not have it rightly and worthily except those who keep the apostolic life and doctrine. Nor do the aforesaid authorities deny that bad priests have this power, but they signify that those alone worthily and rightly use this power who are endowed with apostolic life and doctrine, because the imitators of the Apostles alone can worthily and rightly bind and loose; and through God only, or through the Saints, in whom the Holy Spirit dwells, the remission or retention of sins is done worthily and rightly. Yet it is done also through those who are not holy, but not worthily or rightly. For God gives a blessing to one who asks worthily even through an unworthy minister. But that all priests have this power, Jerome[^4] testi-
+
+<!-- page 498 -->
+
+fies on that place of the Gospel where the Lord said to Peter: *To thee I will give the keys of the kingdom of heaven:* « The other Apostles, he says, have the same judiciary power, and the whole Church has it in bishops and presbyters. But Peter received it specially for this reason, that all may understand that whoever shall have separated himself from the unity of the faith and the society of the Church can neither be loosed from sins nor enter heaven ».
+
+### Chap. II. *Whether through the unworthy grace is transfused to the worthy.*
+
+Likewise, that a priest, even if he be bad, nevertheless transfuses grace[^5] by reason of the office of his dignity, Augustine shows, saying: « It was said by the Lord in Numbers to Moses and Aaron the priests: *Put my name upon the children of Israel, and I the Lord will bless them;* so that the handing-on may transfuse grace to men through the ministry of the ordained, and the will of the priest can neither harm nor profit, but the merit of the one asking for the blessing. But how great is the dignity of the priestly office and order, let us note from this. It was said of the most wicked Caiaphas among other things: *But this he said not of himself, but, being the high priest of that year, he prophesied;* by which it is shown that the Spirit of graces does not follow the person of the worthy or the unworthy, but the order of the handing-on; so that, although someone be of good merit, nevertheless he cannot bless unless he has been ordained, so that he may exhibit the ministry of the office. But it belongs to God to bestow the effect of the blessing ». — Hence it is evidently shown that the order[^6] is not deprived of the power of bestowing grace on account of the minister's unworthiness. — Yet to this opinion of Augustine there seems to be opposed what Hesychius[^7] says: « Priests, he says, do not bless by their own power, but because they bear the figure of Christ and on account of him who is in them they bestow the fullness of blessing; nor only he who has obtained the priesthood, but whoever has Christ in himself and bears his figure through a good manner of life, like Moses, is fit to bestow a blessing ». — Behold, here you have it, that not only the priest, but everyone in whom Christ dwells, bestows a blessing. But there is one blessing which befits priests alone, and another which is exhibited in common by all good men. Finally, those priests in whom Christ dwells are said to bestow the fullness of blessing, not because they alone transfuse grace, but because they alone do it lawfully and worthily. Nor does the bad life of the priest harm his subjects, if they do the good things which he speaks. Whence Gregory[^8]: « Many, while they examine the life of priests more than their own, slip into the pit of error, considering less that the life of priests would not harm them, if they humbly lent their ear to the good admonitions of the priests ».
+
+### Chap. III. *How it is to be understood: I will curse your blessings.*
+
+But to the aforesaid opinion, by which it is said that grace of blessing is transfused even through the ministry of a bad priest, there seems to be opposed what the Lord through Malachi[^9] the prophet threatens to bad priests: *I will curse your blessings;* and elsewhere: *Woe to those who give life to souls that do not live, and put to death souls that do not die.* For if the Lord curses their blessings, and if the souls which they vivify do not live; how is grace of blessing transfused through them? — But that chapter *I will curse* etc. some, explaining it, refer to heretics who are cut off from the Church, and to the excommunicate, whose blessings become curses to those who follow their errors. But that other, namely: *They vivify* etc., they expound of all those priests who without the key of knowledge and the form of a good life presume to bind or loose. But no one ought to use the office of priest unless he be free from those things which he judges in others; otherwise he condemns himself.
+
+### Chap. IV. *What sort the ecclesiastical judge ought to be.*
+
+But what sort he ought to be who is appointed judge of others, Augustine[^10] describes, saying thus: « The priest, to whom every sinner is presented, before whom every infirmity is set, let him in none of those things be judged in which he is prompt to judge another. For one judging another, who is himself to be judged, condemns himself. Let him therefore know himself and purge in himself what he sees others present to him; let him beware that he has cast from himself whatever he finds harmful in another. Let him take heed that *he who is without sin first cast the stone at her.* For the Lord freed the sinful woman for this reason, that there was no one who could justly cast the stone. How could he stone who knew himself to be stoned? For there was no one without sin; in which it is understood that all were guilty. For venial sins were always remitted through the ceremonies; if therefore there was any sin in them, it was criminal. In this, therefore, the crime of the priests is most manifest and[^11] detestable, who do not first judge themselves and bind others. — Let the spiritual judge beware that, as he has not committed the crime of wickedness, so he be not without the gift of knowledge; it is needful that he know how to recognize whatever he ought to judge. For the judiciary power requires this, that he discern what he ought to judge. Therefore let the diligent investigator wisely question the sinner about what he perhaps may not know, or out of shame may wish to conceal. But the crime being known, let him not hesitate to investigate its varieties and the place and the time and the rest, which we said above;
+
+<!-- page 499 -->
+
+these being known, let him be present benevolent, ready to raise up and to bear the burden with him: let him have sweetness in affection, discretion in variety, let him teach perseverance, let him beware lest he fall, lest he justly lose the judiciary power. For although penance may be able to acquire grace for him, nevertheless it does not at once restore him to the first power. Although Peter was restored after his fall, and the power of dignity has often been given back to fallen priests; nevertheless it is not necessary that it be granted to all as if by authority. There is found an authority which grants and as it were commands; there is found another which does not grant, but forbids. These scriptures do not contradict, but agree. For since there are so many who fall, so that they defend their former dignity by authority and as it were make for themselves a custom of sinning; this hope must be cut off. But if there is a place where these things do not concur, those who sin can be restored ». — From these things it is sufficiently weighed what sort a priest ought to be who binds and looses others, namely discerning and just; otherwise he often puts to death souls that do not die, and vivifies those that do not live; and thus he falls into the judgment of cursing. But that of Malachi, namely: *I will curse your blessings,* whether it be taken as said of heretics only and the excommunicate, or of all priests who, lacking life and knowledge, presume to bless, can be understood thus: *I will curse your blessings,* that is « those things which you possess by those blessings[^12] », because I will make them turn to your curse, not to a blessing, because, even if they bless the holy, they do not do this from a true heart, and therefore their blessing is turned for them into a curse. Or *I will curse your blessings,* that is « whatever is blessed by you shall be cursed by me », because they bless those who act unjustly and flatter sinners, provided they be rich.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the markers `[^1]–[^4]` belong to printed page 497 (the *NOTAE AD LIBR. SENTENTIARUM* block, the Lombard littera's own notes), `[^5]–[^11]` to printed page 498, and `[^12]` to printed page 499.
+
+[^1]: **La.** Codd. B D et ed. 1 *debet sacerdos* pro *debent;* deinde pro *qui* cod. E et plures edd. *quia.* Inferius pro *discretionis dicitur* cod. E et edd., excepta 1, *discretionis recte dicitur.*
+     **En.** Codd. B D and ed. 1 have *debet sacerdos* for *debent;* then for *qui* cod. E and several editions have *quia.* Below, for *discretionis dicitur* cod. E and the editions, except 1, have *discretionis recte dicitur.*
+
+[^2]: **La.** Dist. praeced. c. 3, scil. V. de Baptismo contra Donatist. c. 21. n. 29. — Seq. locus eiusdem est II. Quaestion. in Pentateuch. q. 120; respicitur Exod. 28, 38.
+     **En.** The preceding distinction, c. 3, namely Augustine, bk. V *On Baptism against the Donatists,* c. 21, n. 29. — The following passage is from the same, *Questions on the Pentateuch* II, q. 120; Exod. 28:38 is referred to.
+
+[^3]: **La.** Libr. II. Homil. in Evang. homil. 26. n. 4. seq.; II. Dialog. c. 23; ast verbotenus apud Hugon. a S. Vict., Sum. Sent. tr. 6. c. 14, ubi invenitur etiam seq. locus Origenis Comment. in Matth. libr. XII. n. 9.
+     **En.** Bk. II *Homilies on the Gospel,* homily 26, n. 4 f.; *Dialogues* II, c. 23; but word for word in Hugh of St. Victor, *Summa Sententiarum* tr. 6, c. 14, where is also found the following passage of Origen, *Commentary on Matthew,* bk. XII, n. 9.
+
+[^4]: **La.** Non invenimus in Hieron. hunc locum, sed verbotenus in Glossa Matth. 16, 17. et apud Rabanum V. Comment. in Matth. loc. cit., qui primam partem sumsit ex Beda in eundem locum. Cfr. etiam C. *Si iustus* (30.), C. 1. q. 1. et C. *Ut evitentur* (82.), ibid.
+     **En.** We have not found this passage in Jerome, but word for word in the Gloss on Matt. 16:17 and in Rabanus V, *Commentary on Matthew,* at the cited place, who took the first part from Bede on the same passage. Cf. also the canon *Si iustus* (30), C. 1, q. 1, and the canon *Ut evitentur* (82), ibid.
+
+[^5]: **La.** Codd. A B D E *transfundat.* — Locus August. est in non genuinis *Quaestion. ex veteri testam.* q. 11; C. *Dictum est* (96.), ibid., ubi citatur Num. 6, 27, et infra Ioan. 14, 31.
+     **En.** Codd. A B D E have *transfundat.* — The passage of Augustine is in the non-genuine *Questions on the Old Testament,* q. 11; the canon *Dictum est* (96), ibid., where Num. 6:27 is cited, and below John 14:31.
+
+[^6]: **La.** Plures edd. *ordinem,* refragantibus codd. et ed. 1, 2, 3, 7.
+     **En.** Several editions have *ordinem,* against the codices and edd. 1, 2, 3, 7.
+
+[^7]: **La.** Libr. II. in Levit. (9, 23.).
+     **En.** Bk. II on Leviticus (9, 23).
+
+[^8]: **La.** Can. *Multi saecularium* (84.), ibid. Locus hic, ut volunt editores, ab alio formatus est secundum Gregor.
+     **En.** The canon *Multi saecularium* (84), ibid. This passage, as the editors hold, was formed by another according to Gregory.
+
+[^9]: **La.** Cap. 2, 2, deinde Ezech. 13, 19. — De loco Malachiae cfr. supra d. XIII. c. 1. 2. — Inferius pro *fiunt maledictiones* ed. 1 *vertuntur in maledictiones.*
+     **En.** Chapter 2:2, then Ezek. 13:19. — On the passage of Malachi cf. above, d. XIII, c. 1, 2. — Below, for *fiunt maledictiones* ed. 1 has *vertuntur in maledictiones.*
+
+[^10]: **La.** De Vera et falsa Poenitent. c. 20. n. 36. (inter opera); C. *Qui vult confiteri* (1.), de Poenitentia d. 6. § 2. 3. — Ibi respiciuntur Rom. 2, 1, deinde Ioan. 8, 7.
+     **En.** *On True and False Penitence,* c. 20, n. 36 (among the works [of Augustine]); the canon *Qui vult confiteri* (1), *On Penitence* d. 6, § 2, 3. — There Rom. 2:1, then John 8:7, are referred to.
+
+[^11]: **La.** Vat. cum paucis edd. *esse;* originale cum canone et cod. E *et ultra modum detestabile.*
+     **En.** The Vatican edition with a few editions has *esse;* the original with the canon and cod. E has *et ultra modum detestabile.*
+
+[^12]: **La.** Hic et seq. locus est ex Hieron. in Malach. 2, 2. et in Glossa apud Lyran. ibid.
+     **En.** This and the following passage is from Jerome on Malachi 2:2 and in the Gloss in Lyra, ibid.
 
 ## Notes
 
-[Notes pending]
+- **Provenance.** Latin re-set from the IA djvu OCR base (`raw/bonaventure_vol4_raw.txt` lines 55277–55467+, where the littera body runs into the upper p.499 right column just past the briefed range), with PDF column-band reads (`/tmp/colcrop/vol4-p{497,498,499}-{L,R}-{0,1,2}.png`) authoritative on the cascade-fragmented two-column body and footers (the OCR for these pages is severely shattered — diagonal one-token-per-line fragmentation + two-column bleed). English is a fresh literal parallel. Two-column Vol IV → VOL II OVERRIDE applied. Offset pdf = printed + 20 (printed 497–499 = pdf 517–519).
+- **This is the LITTERA MAGISTRI of Distinction XIX** — Peter Lombard's chapters on the power of the keys: Cap. I (when the keys are given and to whom — the two keys of discerning-knowledge and of binding/loosing; the two opinions on whether only worthy priests have the binding power, the Master siding with the second: all priests have the key, but only the apostolic-living use it worthily); Cap. II (whether grace is transfused through unworthy ministers — Augustine yes / Hesychius nuance / Gregory); Cap. III (how *Maledicam benedictionibus vestris* is to be understood); Cap. IV (what sort the ecclesiastical judge ought to be — the long Pseudo-Augustine *De Vera et falsa Poenitentia* passage). **SINGLE-PARS distinction** — Lombard prints d.XIX as one block (Cap. I–IV); the frontmatter carries no `pars` field.
+- **Chapter list:** Cap. I (*Quando hae claves dantur et quibus*); Cap. II (*Utrum per indignos transfundatur gratia dignis*); Cap. III (*Quomodo intelligendum sit: Maledicam benedictionibus vestris*); Cap. IV (*Qualis esse debeat iudex ecclesiasticus*).
+- **Page-verify.** p.497 running head `DISTINCTIO XIX.` (top, with the d.18 dubia tail finishing in the upper columns), then `DISTINCTIO XIX. / Cap. I. / Quando hae claves dantur et quibus.`; p.498 running head `498 / SENTENTIARUM LIB. IV.`; p.499 running head `DIST. XIX. ART. I. QUAEST. I. / 499`. All three confirm the distinction.
+- **Opening seam (p.497).** The littera physically OPENS on p.497 below the tail of d.XVIII's commentary/dubia (the upper columns finish d.XVIII material on *peccatum tenebra et deformitas / macula et foetor / vinculum mortis aeternae*), then `DISTINCTIO XIX. / Cap. I.`. The prior d.XVIII material and its left-column footers (the block beginning *Ita codd. EILK… / Edd. perperam aversionem / Vide supra p.1 dub. I* and the *Idem dub. solvunt B. Albert.* reference block) belong to the d.18 commentary chunk and are EXCLUDED. No littera body text dropped at the d.XVIII→d.XIX seam.
+- **Footer ownership / two-column split.** p.497: the littera's apparatus = the *NOTAE AD LIBR. SENTENTIARUM* block, note ¹ (*Codd. BD et ed. 1 debet sacerdos*) in the LEFT footer + notes ²³⁴ in the RIGHT footer (*Dist. praeced. c.3 / Libr. II Homil. in Evang. / Non invenimus in Hieron.*) → mapped `[^1]–[^4]` (keying body markers *debent¹ / superius² / Gregorius³ / Hieronymus⁴*). The reference block *Idem dub. solvunt B. Albert., hic a. 8…* and the *Ita codd. EILK / Edd. perperam / Vide supra* notes above the NOTAE header are the Bonaventure-commentary apparatus of the prior d.18 chunk; EXCLUDED. p.498: all of p.498 is littera body → all seven footers claimed: left notes ¹²³⁴ (*Codd. ABDE transfundat / Plures edd. ordinem / Libr. II in Levit. / Can. Multi saecularium*) + right notes ⁵⁶⁷ (*Cap. 2,2 deinde Ezech / De Vera et falsa Poenitent / Vat. cum paucis edd.*) → mapped `[^5]–[^11]`. p.499: the littera ends mid-page; its single footer = the LEFT-column note ¹ (*Hic et seq. locus est ex Hieron. in Malach. 2, 2*) → mapped `[^12]`. The *NOTAE AD COMMENTARIUM* block immediately below (note ¹ *Edd. quando istae claves et quibus*) and the RIGHT-column notes (²³ *Cod. W addit servant / Cap. 28 / Textus … Luc. 11, 46*) belong to the NEXT chunk (the commentary) and are EXCLUDED.
+- **Cutoff.** The littera ends on p.499 right column with « …dummodo divites sint. » (the Cap. III *Explicatur locus Malachiae* marginal gloss). Immediately below on p.499 the `COMMENTARIUS IN DISTINCTIONEM XIX. / Quando et quibus claves dentur / … / DIVISIO TEXTUS / TRACTATIO QUAESTIONUM / ARTICULUS I. / QUAESTIO I.` begins — that is the NEXT chunk (`d19-divisio`) and is EXCLUDED. Cross-checked: no body text dropped at the littera→commentarius seam.
+- **No scholion** — littera chunk.
+- **`[?]` flags:**
+  - **p.497 `[^1]` body marker spacing (« scientiae, qua eminere debent¹ »):** the OCR renders the superscript ¹ as a stray backslash (`debent \`); the band confirms the marker sits on *debent* (the footer note ¹ glosses *debent / debet sacerdos*), so the anchor is placed there. Slight uncertainty only in the exact glyph; resolve at the d.11–d.20 decade-polish 600 dpi gate.
+  - Unambiguous OCR garbles silently corrected from the band (e.g. `oslensum`→*ostensum,* `denlur`→*dentur,* `videlur`→*videtur,* `Augnsiinus`→*Augustinum,* `Origenis`, `imitaloribus`→*imitatoribus,* `transfundit`/`transfundat,* `comminatur,* `Maledicani`→*Maledicam,* `Hesychius`, `caerimonias,* `iudiciariam,* `benedictionibus,* `possidetis,* `prophetavit`).
