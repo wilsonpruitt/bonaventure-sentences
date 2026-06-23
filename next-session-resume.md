@@ -1,6 +1,7 @@
 # Bonaventure Sentences — Next Session Resume
 
 > **Active front: VOL IV / BOOK IV** (started 2026-06-16). Vols I, II, III are COMPLETE & published.
+> **★ d.1–d.20 of Book IV now COMPLETE & Tier 2 (decade gate d.11–d.20 closed 2026-06-23, commit d141730; build 1597 translated).** NEXT FRONT = **Distinction XXI** (raw L60021). The d.11–d.20 decade-gate Pass 1 (600dpi `[?]` sweep) is catalogued + deferred non-blocking in `manual-review/vol4-d11-d20-polish-resolution-log.md`.
 > History for Vols I–III (all the superseded per-chunk "NEXT ACTION" hand-off logs) was trimmed
 > from this file on 2026-06-16 and archived to `manual-review/resume-archive-vol1-3.md`; it also
 > lives in full in the git commit history. This file now carries ONLY the active Vol IV pointer.
