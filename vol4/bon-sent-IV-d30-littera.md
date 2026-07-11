@@ -4,149 +4,122 @@ volume: 4
 book: 4
 distinctio: 30
 type: littera
+title_la: "Distinctio XXX — textus Magistri Sententiarum"
+title_en: "Distinction XXX — text of the Master of the Sentences"
 line_start: 76112
 line_end: 76238
-word_count_latin: 1346
-transcription_status: "auto-chunked 2026-06-16"
+printed_pages: [705, 706]
+pdf_pages: [725, 726]
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 705–706"
+has_scholion: false
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 76112–76238), cross-checked column-by-column against PDF pp.705–706 per the Vol IV PDF-priority inversion, fresh literal English translation, full apparatus from raw OCR/PDF (10 entries) (2026-07-10)"
 format_version: 1
 ---
 
-# bon-sent-IV-d30-littera
+# Distinctio XXX — Littera Magistri
+## *De errore, qui evacuat consensum; et de coniugio Mariae et Ioseph*
+
+---
 
 ## Latin
+<!-- page 705 -->
 
 DISTINCTIO XXX.
 
-                                                                        Gap.            I.                                                                  batur babere.                            — Error fortunae consensum non ex-                                                               Dabiam 3.
-                                                                                                                                                            cludit         —         (piae            enim           niibit               pauperi                putans, illum esse
-                             De errorej qui evacual consensnm.                                                                                              divitem, non potesl reniinliare priori condilioni, quam-
-                                                                                                                                                            vis erraverit                       — nec error  qualitatis , iit si quis ducat
-                  Nec        soliini             coaclio impeclil vel excliulit conscnsiini,                                                                uxorem meretricem,                             corruplam, quam ptilat esse
-                                                                                                                                                                                                                      vel
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; here they are renumbered continuously across pp. 705–706.
 
-ua- seil      etiam error.                             «    Non         anteni omnis error conseiisum                                                       castam, vel                        virginem, non polest eam dimillere'».
-'     iinpeciit.            Est enim error aiins juer.so^iae^ nlius /br^Mwae^
-      alius        cundilionis ,                             alins                quaUtalis:                       error         personae,                                                                                 Cap.               II.
+### Cap. I. *De errore, qui evacuat consensum.*
 
-      (|nanclo liic                        putatur esse                          ille    liomo            ,   et est <ilius;                     error
-      fortunae, cpianclo piitalnr esse dives                                                                       cjiii     panper est,                                                       De coniugio Mariae et loseph.
-      vel e        converso; error eondilionis, quanclo |)ntatur esse
-      liher qui servus est; error qualilalis, qnahclo putatnr                                                                                                             Praemissis aliquid                                   addendum                      est       de        modo illius
-      esse        bonns qui maius                                    esl.        — Error furtunae                                et qualita-                consensus, qui inler Mariam                                                        et    losepb iniercessit. Sane
-      tis     coningii consensiim non exclnclil.                                                                   Error vero                        con-   credi polest, nnn soliim Mariam, sed eliam iosepb
-      ditio?iis             coiiiuiialem                             consensum cvacuat, cle qna con-                                                        apud se disposuisse virginilatem servare, iiisi Deus
-      clilione postinoclnm                                  traclabimus. Error ({uoque personae                                                             aiiler             iuberel; eosqiie               sic consensisse in coniugalem
+Nec solum coactio impedit vel excludit consensum, sed etiam error. «Non autem omnis error consensum impedit. Est enim error alius *personae*, alius *fortunae*, alius *conditionis*, alius *qualitatis*: error *personae*, quando hic putatur esse ille homo, et est alius; error *fortunae*, quando putatur esse dives qui pauper est, vel e converso; error *conditionis*, quando putatur esse liber qui servus est; error *qualitatis*, quando putatur esse bonus qui malus est. — Error *fortunae* et *qualitatis* coniugii consensum non excludit. Error vero *conditionis* coniugalem consensum evacuat, de qua conditione postmodum tractabimus. Error quoque *personae* consensum coniugalem non admittit, ut si quis feminam nobilem in coniugium petat, et pro ea alia ignobilis tradatur ei; non est inter eos coniugium, quia non consensit vir in istam, sed in aliam; ut si quis promitteret mihi, se venditurum aurum, et pro auro offerret mihi aurichalcum, et ita me deciperet; nunquid dicerer consensisse in aurichalcum? Nunquam volui emere aurichalcum, nec ergo in illud consensi, quia consensus non nisi voluntatis est. Sicut ergo error *materiae* excludit consensum, ita et in coniugio error *personae*. — Sed obiicitur de Iacob[^1], qui pro Rachel septem annis servierat, et supposita est ei Lia; nunquid error personae exclusit coniugium, cum non in eam, sed in Rachel consenserit? Sed quod ibi factum est in mysterio gestum non improbe traditur; ibi tamen, etsi non praecessit, secutus est consensus; nec ex illo concubitu, qui consensum praecessit, fornicarii iudicantur, cum ille maritali affectu eam cognoverit, et illa uxorio affectu debitum persolverit, putans, lege primogeniturarum et paternis imperiis se illi iure copulatam. Excusatur etiam, quia Dei consilio in mysterio ita actum est. Hodie etiam excusaretur ille cui inscio uxoris soror, lectulum eius ingressa, se subiiceret; quae cum sine spe coniugii perpetuo manere censeatur, ille tamen, qui cognovit eam per ignorantiam, excusatur. Quod per simile probatur: si enim diabolus, transfigurans se in angelum lucis[^2], credatur bonus, non est error periculosus. Quod autem vir ille in illam mulierem non consenserit, ex simili ostenditur: si quis haereticus nomine Augustini vel Ambrosii alicui Catholico se offerret eumque ad suae fidei imitationem vocaret; si ille assentiret, in cuius sententiam fidei diceretur consensisse? Non in haereticorum sectam, sed in integritatem fidei, quam ille haereticus se mentiebatur habere. — Error *fortunae* consensum non excludit — quae enim nubit pauperi putans, illum esse divitem, non potest renuntiare priori conditioni, quamvis erraverit — nec error *qualitatis*, ut si quis ducat uxorem meretricem, corruptam, quam putat esse castam, vel virginem, non potest eam dimittere[^3]».
 
-    .consensum coniuiialein noii aclmittit, ut si qnis femi-                                                                                                societateni,                       iit    uterque dealtero, revelanle Spiritu san-
-     iiain nobilem in coniugium petat, et pro ea alia igno-                                                                                                 cto, inlelligcrel,                             quod virginitatem servare                                               vellet,     nisi
-      bilis       tradatur ei; non                                     esl             inter         eos coniugium, quia                                    Deiis aliler iiispirarel; sed illam voluntatem verbis iiou
-      iioii       consensit vir                            iii       islam, sed                      in       aliam; ut                  si          quis   expresserant, postea vero expresserunt                                                                      el in virginitate Onbiam             4.
+### Cap. II. *De coniugio Mariae et Ioseph.*
 
-      l)ro!nilterot milii, se                                        veiiditurnm                      auriim, et pro auro                                   permanserunt. Consensit ergo Maria                                                                    in        inaritalein so-
-      olTerret mibi                         auricbalcuin, et ila me cleciperet; nunquid                                                                     cietalein, sed                        non in carnalem copuiam, nisi de eadem
-      dicerer               consensisse in auricbalcum ?                                                            Nunquam                      volui      specialiter                        Deus praeciperet, cuius etiam consilio in
-      emere auricbalcnm,                                             iiec     ergo             iii    illiid          consensi, quia                        maritalem                      consensit                      copnlam, quia virginilalem ser-
-      consensus non                              nisi        voliiiitatis                    est.     Sicut ergo error ma-                                  vare volebat:                            et ideo               non aliler coiisensisscl in coniii-
-      teriae           excbulit                   consensum,                             ila         et       iii     coniugio error                        galem societatem,                                   iiisi          familiare Dei consilinm babnis-
-so\-perso7iae.                   — Sed obiicitur de lacob                                                     ',     qiii       pro Racbel                  set. De qua Augustinus'' sic ait: « Beala Maria propo- Augastinus.
-      septeni annis servierat, et                                                      siipposila                   est ci        Lia        ;       nuu-   suit, se servaturam  votum virginittitis iii corde, sed
-      quid error personae exclusit coniugium,                                                                              cum non                     in   i|)sum votum non expressit in ore. Subiecit se divinae
-      eam, sed in Racbei consenserit? Sed quod                                                                             ibi   factum est                 disposilioni                   ,     proposuit, se                                persciveraliiram                      virginem,
-      in myslerio gestum non                                          improbe Iraditnr; ibi lamen                                                ,   elsi   nisi          Deus aliter                     ei    revelaret.                      Commillens ergo                          virgini-     DuMum 5.
-      non praecessit, secutus est consensus; nec cx illo con-                                                                                               tatem suam divinae dispositioni, consensit in carnalem
-      cubitu, qui consensum praecessit, fornicarii iudicanlur,                                                                                              copulam, non illain appelendo, sed divinae inspiralioni
-      eum ille marilali alTecUi cam cognoveril, ct illa uxorio                                                                                              in        utroque                   obediendo; poslea                                     vero simul                   cuin       viro
-      alTectu           debitum persolverit, putans, lege primogenila-                                                                                      labiis expressit, el                                 ulerque                      in     virginitale                 permansit».
-      rum et paternis imperiis se illi                                                           iure copulatam. Excu-                                                    Inter            quos,                ut         ait           Auguslinus ", perfcclum fuit
-      satur etiam                     ,
-                                            qnia           IJei        consilio                 in        niysterio               ita        actum          coniuginm, perleclnm                                               qiiidem        non in significalione
-      est.    Hodie etiam excusaretur                                                    iiie        cui inscio uxoris so-                                  secl          in        sanetitate. Sanctiora                                       cnim sunt coniugia pari
-      ror,        lectulum eius ingressa,                                               se       subiiceret                 ;
-                                                                                                                                 quae cum                   ,voto conlinentium.Unde Aiigustinus: «Qiiod Deo pari .iagastions.
-      sine spe coniugii                                perpetuo                        nianere censeatur,                                ille         ta-   consensu voveratis, ambo perseveranter reddere de-
-      men, qui                       cognovit                    eam per ignoranliam, excusatur.                                                            buislis, a cjuo                           proi)osilo                         si    lapsus est               ille,       lu   saltem
- 4.   Qiiod per simile probatur: si eni?n diabolus, transfigu-                                                                                              persevera». «Non quia                                                   pariler             temperabalis                     a    com-
-      rans         angelum Lucis-, credatur boiius, non est
-                   se        in                                                                                                                             mixtione                  carnali, ideo                             maritus                 tuus        esse           desliterat,
-      error periculosns. Quod autem vir ille in illam mulie-                                                                                                immo vero tanto sanctiiis coniuges manebalis, quanto
-2.    reni        noii               consenseril,                       ex             simili         oslenditiir:                      si           quis   sanctiora                 concorditer                          placila                  servabatis».                   Perfectum
-      baereticus                     nomine Augustini vel Ambrosii alicui Calbo-                                                                            igitur fuit               Mariae                    el        losepb coningium                               in        sanctitate
-      lico se offerret                            eumque acl suae fidei imilationem                                                                   vo-   perfectum etiam                               fuit        secundum Iriplex bonum coningii,
-      caret;           si    ille           assentii-et,                    iii    cuius sentenliam fidei dice-                                             jidera scilicet, proleni et                                   Sacramentum. « Omne enini
-      retur consensi.sse?                                  Non              in         baereticorum                         sectam, sed                     nupliarum bonum, ut                                                ait            Auguslinus ", implelum est
-      in    integrilatem fidei                                   ,   (|nam              ille         baereticus se menlie-                                  in     illis       parentibus Cbrisli, /icfes^ ^M-o/tfs, Sacramentimi
+Praemissis aliquid addendum est de modo illius consensus, qui inter Mariam et Ioseph intercessit. Sane credi potest, non solum Mariam, sed etiam Ioseph apud se disposuisse virginitatem servare, nisi Deus aliter iuberet; eosque sic consensisse in coniugalem societatem, ut uterque de altero, revelante Spiritu sancto, intelligeret, quod virginitatem servare vellet, nisi Deus aliter inspiraret; sed illam voluntatem verbis non expresserant, postea vero expresserunt et in virginitate permanserunt. Consensit ergo Maria in maritalem societatem, sed non in carnalem copulam, nisi de eadem specialiter Deus praeciperet, cuius etiam consilio in maritalem consensit copulam, quia virginitatem servare volebat: et ideo non aliter consensisset in coniugalem societatem, nisi familiare Dei consilium habuisset. De qua Augustinus[^4] sic ait: «Beata Maria proposuit, se servaturam votum virginitatis in corde, sed ipsum votum non expressit in ore. Subiecit se divinae dispositioni, proposuit, se perseveraturam virginem, nisi Deus aliter ei revelaret. Committens ergo virginitatem suam divinae dispositioni, consensit in carnalem copulam, non illam appetendo, sed divinae inspirationi in utroque obediendo; postea vero simul cum viro labiis expressit, et uterque in virginitate permansit». Inter quos, ut ait Augustinus[^5], perfectum fuit coniugium, perfectum quidem non in significatione, sed in sanctitate. Sanctiora enim sunt coniugia pari voto continentium. Unde Augustinus: «Quod Deo pari consensu voveratis, ambo perseveranter reddere debuistis, a quo proposito si lapsus est ille, tu saltem persevera». «Non quia pariter temperabatis a commixtione carnali, ideo maritus tuus esse destiterat, immo vero tanto sanctius coniuges manebatis, quanto sanctiora concorditer placita servabatis». Perfectum igitur fuit Mariae et Ioseph coniugium in sanctitate; perfectum etiam fuit secundum triplex bonum coniugii, fidem scilicet, prolem et Sacramentum. «Omne enim nuptiarum bonum, ut ait Augustinus[^6], impletum est in illis parentibus Christi, *fidem*, *prolem*, *Sacramentum*:
+<!-- page 706 -->
+*prolem* cognoscimus ipsum Dominum; *fidem*, quia nullum adulterium; *Sacramentum*, quia nullum divortium». «Solus ibi nuptialis concubitus non fuit, quia in carne peccati fieri non poterat sine pudenda concupiscentia carnis, quae accidit ex peccato; sine qua concipi voluit qui sine peccato futurus erat». Et licet non intercesserit coniugalis concubitus, coniuges tamen vere fuerunt *mente*, non *carne*, sicut et parentes; quamvis Ambrosius[^7] dicat, perfectum fieri coniugium per carnalem copulam. «In omni, inquit, matrimonio coniunctio intelligitur spiritualis, quam confirmat et perficit coniunctorum commixtio corporalis». Sed intelligendum est, coniugium perfici commixtione corporali non quantum ad veritatem, vel sanctitatem coniugii, sed quantum ad significationem, quia perfectius unionem Christi et Ecclesiae tunc figurat.
 
+### Cap. III. *De finali causa coniugii.*
 
+Exposito, quae sit *efficiens causa* matrimonii, consequens est ostendere, *ob quam causam* soleat vel debeat contrahi matrimonium. «Est igitur *finalis causa* contrahendi matrimonii principalis procreatio prolis; propter hoc enim instituit Deus coniugium inter primos parentes, quibus dixit: *Crescite et multiplicamini*[^8] etc. Secunda est post peccatum Adae vitatio fornicationis; unde Apostolus: *Propter fornicationem unusquisque habeat uxorem suam, et unaquaeque habeat virum suum*. Sunt et aliae causae honestae, ut inimicorum reconciliatio et pacis redintegratio. Sunt etiam et aliae minus honestae causae, propter quas aliquando contrahitur, ut viri mulierisque pulcritudo, quae animos amore inflammatos saepe impellit inire coniugium, ut valeant suum explere desiderium; quaestus quoque et divitiarum possessio frequenter est causa coniugii et alia multa, quae cuique diligentiam adhibenti facile est discernere. Nec est assentiendum illis qui dicunt, non esse coniugium, quod propter has causas minus honestas contrahitur. Constat enim ex praemissis, coniugium fieri ex communi consensu, verbis de praesenti expresso, quamvis amor ad hoc attraxerit. Cuius rei documentum praestat Iacob, qui Rachel decoram facie et venusto aspectu amavit eamque diligens ait[^9]: *Serviam tibi pro Rachel septem annis*. In Deuteronomio etiam legitur: *Si videris in medio captivorum mulierem pulcram et adamaveris eam voluerisque uxorem habere, introduces eam in domum tuam*» etc.
 
-              '   Gen.               29,         24.       —         Iiiferius           pro         excusatur                   codd.           ABE                  5    Libr.          I.   de         Nuptiis ct concupisc.                             c.    II.       n.   12; Yei'botc-
-      et etJ.      1    eocr.iisantur.                                                                                                                      nus apud Gratian.                              super           C.            Institutum est                 (39.), ibid.          Seq.
-              ^ Episl.                II.    Cor.          II,        14.     —        Infi-a    pro dtwat u.vorcm codcl.                                   locus ciusd. est Epist. 262. (alias                                                     199.) ad Ecdiciam n. 3;                     C.
-      ABC, ed.                   \     et    Gratian. ducat in                               uxorem.                                                        Quod Deo (i.),                           C.        33.        q.        o.        Tertius ibid.            n.    i ,    et cit.   can.
-              ^    Hoc           I.        cap.,       nonnullis                       omissis,            quasi           verbotenus est                   %    I.   —        In    2.        loco edd.         ,    (jxcepta                 I,    pro consen.su habent voto
-      apud Gratian.                    ,    in    C.        29.        q.         1.    — De              seq.         cap.        cfr.          supra      et   consensu, refragante etiam originali                                                       et   canoup.
-      d.    2S.    c.       3.                                                                                                                                        «    Loc. dt.              c.       II.    n.       13    ;    C.       Omne itaque (10.), C. 27. q. 2.
-              *    Can. Beata                    Maria (.3.)                 ,     C. 27. q. 2.                                                             Seq. locus ibid.                         c.   12.        n.        13; Can.              cit.
+### Cap. IV. *Quod malus finis non contaminat Sacramentum.*
 
-                        S. Bonav.                      — Tom.                     IV.                                                                                                                                                                                              89
-                                                                                                                                                                                                                                       ,
+Et licet fine non bono contrahatur coniugium, quando species contrahentis movet animum, coniugium tamen bonum est, quia vita mala, vel intentio perversa alicuius Sacramentum non contaminat. — Habuit autem coniugium Mariae et Ioseph alias causas speciales, scilicet ut «Virgo solatio viri sustentaretur, et ut diabolo partus celaretur, ut Ioseph esset testis castitatis, defendens eam ab infamia suspicionis, ne ut adultera damnaretur[^10]».
 
-
-
-
-        706                                                                               SENTENTIARUM LIB. IV.
-
-        'prolem cognoscimus ipsum Domiiuim; ^rfeOT^ qiiia nul-                                                        et aliae          minus honestae causae, propter quas aliquando
-        lum adullerium; Sacramenlum , quia nullum divor-                                                              contrahitur, ul viri mulierisque pulcritudo, quae                                                            ani-
-        tium». « Solus ibi nuplialis concubilus non fuil quia                                         ,
-                                                                                                                      mos amore inflammalos saepe impellit inire coniugium,
-        iu carne peccati fieri non polerat sine pudenda con-                                                          ut valeant suum explere desiderium; quaestus quoque
-        cupiscenlia carnis, quae accidil ex peccalo; sine qua                                                         et diviliarum                     possessio frequenter est causa coniugii et
-        concipi voluil qui siiie peccato futurus erat».Et licet                                                       alia        multa,                quae cuique diligentiam adhibenti                                         facile
-
-        nou intercesserit coniugalis concui)itus, conhiges tamen                                                      est discernere. Nec est assenliendum illis qui dicunt,
-       vere fueruut menle, non ca.rne, sicut et parentes;                                                             non esse couiugium, quod propter lias causas minus
-       quamvis Ambrosius' dical, perfectum fieri coniugium                                                            honestas contrahilur. Constat enim ex praemissis, coa-
-canon. per carnalem copulam. « In omni, inquit, malrimonio                                                            iugium            fieri       ex commuiii consensu, verbis de praesenli
-        coniuuctio               inlclligiUir       spiritualis,            quain confirmat                      et   exprcsso, quamvis amor ad hoc attraxeril.                                                           Cuius      rei
-
-        perlicil        coniunclorum commixtio                            corporalis». Sed                     in-    documenlum praestat lacob, qui Rachel decoram facieni
-        lelligendum csl, coniugium perfici commixlione corpo-                                                         et venusto aspectu amavit eamque diligens ail': Ser-
-
-        rali     non quanlum ad verilalem,                            vel    sanctUalem coniu-                        viam tibi pro Rachel septeni annis. In Deuteronomio
-        gii,     sed      quautum ad significalionem , quia                                 perfectius                eliam lcgitur                     :    Si videris in medio captivorum mulie-
-        unionem Chrisli et Ecclesiae tunc figurat.                                                                    reni pu.lcra.m et acla.maveris                                    eam voluerisque uxorem
-                                                                                                                      habere , introduces eam in                                       domum tuam »                       etc.
-                                                    Cap.    III.
-
-
-                                                                                                                                                                              C.^p. IV.
-                                       De finali causa coniugii.
-
-                 Exposito, quae                 sit efji.ciens       causa matrinionii, coii-                                Quod malus finis non contaminat Sacramentum.
-        sequens          est ostendere, oh                 quam caiisam soleat vel de-
-Hago.   beat contrahi matrimonium.                              «   Est igilur finalis causa                                  Et        licet               fine    non bono             conlrahatur                  coniugiura
-        conlrahendi                   malrimonii principahs procrealio prolis;                                        quando species conlraiienlis movet animum coniugiura                                        ,
-
-
-
-
-        propler hoc enim                    inslituit      Deus coniugium                   inter             pri-    tamen bonum est, quia vila mala, vel intentio per-
-        mos parenles, quibus                         dixil:          Crescile        et   muUiplica-                  versa alicuius Sacramenlum non contaminat.      Habuit                                              —
-        •tn   ini - elc.     Secunda estposl peccatum Adae vilalio for-                                               autem coniugium Mariae et loseph alias caiisas specia-
-        nicalionis; unde Aposlolus: Propler fornicationeui unus-                                                      les, scilicet ut                        «    Virgo solatio viri suslenlaretur, etutGi
-        qiiisqne habeat                  uxorem suam,                et     unaquaeque                liabeat         diabolo parlus celarelur, ut loseph esset                                                 testis castita-
-
-        virum suum. Sunl ct aliae causae hoiieslae,                                          ul           inimi-      tis,    defendens                      eam ab infamia suspicionis, ne ut adul-
-        corum reconciliatio et pacis redintegralio. Sunl eliam                                                        lera        damnarelur * ».
+---
 
 ## English
+<!-- page 705 -->
 
-[Translation pending]
+DISTINCTION XXX.
+
+### Chap. I. *On the error which nullifies consent.*
+
+Not only coercion impedes or excludes consent, but also error. «Now not every error impedes consent. For error is of one kind regarding *person*, of another regarding *fortune*, of another regarding *condition*, of another regarding *quality*: error of *person*, when this man is thought to be that man, and is another; error of *fortune*, when a man is thought to be rich who is poor, or the reverse; error of *condition*, when one is thought to be free who is a slave; error of *quality*, when one is thought to be good who is wicked. — Error of *fortune* and of *quality* does not exclude the consent of marriage. But error of *condition* nullifies the marital consent, of which condition we shall treat afterward. Error of *person*, too, does not admit marital consent, as when someone seeks a noble woman in marriage, and another, ignoble, is given to him in her place; there is no marriage between them, because the man did not consent to this woman, but to another; as if someone should promise me that he would sell me gold, and for the gold should offer me brass, and thus deceive me; would I be said to have consented to the brass? I never wished to buy brass, and therefore I did not consent to it, because consent belongs only to the will. Just as, then, error of *matter* excludes consent, so too in marriage does error of *person*. — But an objection is raised concerning Jacob[^1], who had served seven years for Rachel, and Leah was substituted for him; did error of person, then, exclude marriage, since he consented not to her but to Rachel? But what was done there was done in a mystery, and is not related as blameworthy; there, however, even though it did not precede, consent followed; nor from that intercourse, which preceded the consent, are they judged fornicators, since he had known her with marital affection and she had rendered the debt with the affection of a wife, thinking, by the law of the firstborn and by her father's command, that she was rightly joined to him. He is excused also because it was so done by God's counsel in mystery. Today, too, that man would be excused to whom, unknown to him, his wife's sister, having entered his bed, gave herself; who, since she is judged to remain forever without hope of marriage, [is excused] though he who knew her did so through ignorance. Which is proved by a like case: for if a devil, transforming himself into an angel of light[^2], is believed to be good, this is not a dangerous error. But that the man did not consent to that woman is shown by a like case: if some heretic, under the name of Augustine or Ambrose, should offer himself to some Catholic and call him to the imitation of his faith; and if that man should assent, to whose profession of faith would he be said to have consented? Not to the sect of heretics, but to the integrity of the faith which that heretic falsely claimed to hold. — Error of *fortune* does not exclude consent — for a woman who marries a poor man thinking him rich cannot renounce the prior condition, although she erred — nor does error of *quality*, as when someone takes as wife a prostitute, corrupted, whom he thinks chaste, or a virgin, he cannot dismiss her[^3]».
+
+### Chap. II. *On the marriage of Mary and Joseph.*
+
+To what has been said something must be added concerning the manner of that consent which passed between Mary and Joseph. It may indeed be believed that not only Mary but Joseph too had resolved within himself to preserve virginity, unless God should otherwise command; and that both so consented to the marital society that each, by the Holy Spirit revealing it, understood of the other that he or she wished to preserve virginity, unless God should otherwise inspire; but they had not expressed that will in words, but afterward expressed it and remained in virginity. Mary, therefore, consented to the marital society, but not to carnal union, unless God should specifically so command for that very purpose, by whose counsel also she consented to the marital union, because she wished to preserve her virginity: and therefore she would not otherwise have consented to the marital society, unless she had had God's intimate counsel. Of whom Augustine[^4] speaks thus: «Blessed Mary resolved that she would keep the vow of virginity in her heart, but she did not express that very vow with her lips. She submitted herself to the divine disposition; she resolved that she would persevere a virgin, unless God should otherwise reveal it to her. Entrusting, then, her virginity to the divine disposition, she consented to carnal union, not seeking it for itself, but obeying the divine inspiration in both matters; afterward, together with her husband, she expressed it with her lips, and each remained in virginity». Between them, as Augustine[^5] says, the marriage was perfect, perfect indeed not in signification, but in holiness. For marriages of those joined in an equal vow are holier. Whence Augustine: «What you had vowed to God by equal consent, you both ought to render perseveringly; and if he has fallen from that resolve, do you at least persevere». «Not because you both equally abstained from carnal intercourse did your husband therefore cease to be your husband; rather, the more you kept your resolves in holy concord, the more holily you both remained spouses». Perfect, therefore, was the marriage of Mary and Joseph in holiness; it was also perfect according to the threefold good of marriage, namely fidelity, offspring, and sacrament. «For every good of marriage, as Augustine[^6] says, was fulfilled in those parents of Christ: *fidelity*, *offspring*, *sacrament*:
+<!-- page 706 -->
+*offspring*, for we recognize the Lord himself as the offspring; *fidelity*, because there was no adultery; *sacrament*, because there was no divorce». «There alone the nuptial intercourse did not take place, because it could not occur in sinful flesh without the shameful concupiscence of the flesh, which arises from sin; without which he who was to be without sin willed to be conceived». And although conjugal intercourse did not take place between them, they were nonetheless truly spouses *in mind*, not *in flesh*, just as were their own parents; although Ambrose[^7] says that marriage is made perfect through carnal union. «In every marriage, he says, a spiritual union is understood, which the bodily commingling of those joined confirms and perfects». But it must be understood that marriage is perfected by bodily commingling not as regards its truth or holiness, but as regards its signification, because it then more perfectly figures the union of Christ and the Church.
+
+### Chap. III. *On the final cause of marriage.*
+
+Having explained what the *efficient cause* of marriage is, it follows to show *for what cause* marriage is accustomed or ought to be contracted. «The *final cause*, then, of contracting marriage is principally the procreation of offspring; for on this account God instituted marriage between our first parents, to whom he said: *Increase and multiply*[^8], etc. The second cause, after Adam's sin, is the avoidance of fornication; whence the Apostle: *Because of fornication let each man have his own wife, and let each woman have her own husband*. There are also other honorable causes, such as the reconciliation of enemies and the restoration of peace. There are also other less honorable causes, on account of which marriage is sometimes contracted, such as the beauty of the man and the woman, which often, kindling their hearts with love, impels them to enter marriage so that they may fulfill their desire; gain also and the possession of riches is frequently the cause of marriage, and many other things which anyone applying diligence can easily discern. Nor is one to agree with those who say that a marriage contracted for these less honorable causes is not a marriage at all. For it is established from what has been said that marriage comes about from common consent expressed in words of the present, even though love may have drawn one to it. Of this matter Jacob furnishes a proof, who loved Rachel for her beautiful face and comely appearance, and loving her said[^9]: *I will serve you seven years for Rachel*. In Deuteronomy also it is read: *If you see among the captives a beautiful woman, and desire her, and wish to have her as wife, you shall bring her into your house*», etc.
+
+### Chap. IV. *That an evil end does not contaminate the sacrament.*
+
+And although marriage may be contracted for an end that is not good, when the appearance of the one contracting moves the mind, the marriage is nonetheless good, because the evil life or perverse intention of anyone does not contaminate the sacrament. — Now the marriage of Mary and Joseph had other special causes, namely that «the Virgin might be sustained by the comfort of her husband, and that her childbearing might be hidden from the devil, and that Joseph might be a witness to her chastity, defending her from the infamy of suspicion, lest she be condemned as an adulteress[^10]».
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+[^1]: **La.** Gen. 29, 24. — Inferius pro *excusatur* codd. ABE et ed. 1 *excusantur*.
+    **En.** Gen. 29:24. — Below, for *excusatur* ["is excused"], codd. ABE and ed. 1 read *excusantur* ["are excused"].
+
+[^2]: **La.** Epist. II. Cor. 11, 14. — Infra pro *ducat uxorem* codd. ABC, ed. 1 et Gratian. *ducat in uxorem*.
+    **En.** 2 Cor. 11:14. — Below, for *ducat uxorem* ["should take a wife"], codd. ABC, ed. 1, and Gratian read *ducat in uxorem*.
+
+[^3]: **La.** Hoc I. cap., nonnullis omissis, quasi verbotenus est apud Gratian., in C. 29. q. 1. — De seq. cap. cfr. supra d. 28. c. 3.
+    **En.** This first chapter, with a few things omitted, is found almost verbatim in Gratian, C. 29, q. 1. — On the following chapter, cf. above, d. 28, c. 3.
+
+[^4]: **La.** Can. *Beata Maria* (3.), C. 27. q. 2.
+    **En.** Canon *Beata Maria* (3), C. 27, q. 2.
+
+[^5]: **La.** Libr. I. de Nuptiis et concupisc. c. 11. n. 12; verbotenus apud Gratian. super C. *Institutum est* (39.), ibid. Seq. locus eiusd. est Epist. 262. (alias 199.) ad Ecdiciam n. 3; C. *Quod Deo* (1.), C. 33. q. 5. Tertius ibid. n. 4, et cit. can. § 1. — In 2. loco edd., excepta I, pro *consensu* habent *voto et consensu*, refragante etiam originali et canone.
+    **En.** Book I, *On Marriage and Concupiscence* c. 11, n. 12; found verbatim in Gratian on canon *Institutum est* (39), ibid. The following passage is from the same author's Letter 262 (otherwise 199) to Ecdicia, n. 3; canon *Quod Deo* (1), C. 33, q. 5. The third [citation] is ibid., n. 4, and the canon cited, § 1. — In the second place, the editions, except I, read *voto et consensu* ["by vow and consent"] for *consensu* ["by consent"], the original and the canon likewise disagreeing.
+
+[^6]: **La.** Loc. cit. c. 11. n. 13; C. *Omne itaque* (10.), C. 27. q. 2. Seq. locus ibid. c. 12. n. 13; can. cit.
+    **En.** Loc. cit., c. 11, n. 13; canon *Omne itaque* (10), C. 27, q. 2. The following passage ibid., c. 12, n. 13; canon cited.
+
+[^7]: **La.** Non est Ambrosii; vide C. *In omni matrimonio* (36.), ibid. hoc cap., omissis paucis, sumtum est ex Hug., Sum. Sent. tr. 7. c. 1.
+    **En.** It is not Ambrose's; see canon *In omni matrimonio* (36), ibid. This chapter, with a few things omitted, is taken from Hugh, *Summa Sententiarum*, tr. 7, c. 1.
+
+[^8]: **La.** Gen. 1, 28, deinde I. Cor. 7, 2.
+    **En.** Gen. 1:28, then 1 Cor. 7:2.
+
+[^9]: **La.** Gen. 29, 17. 18, deinde Deut. 21, 12, ubi Vulgata et Hugo *in numero captivorum* pro *in medio captivorum*. — Totum hoc cap., omissis paucis, sumtum est ex Hug., Sum. Sent. tr. 7. c. 1.
+    **En.** Gen. 29:17–18, then Deut. 21:12, where the Vulgate and Hugh read *in numero captivorum* ["among the number of captives"] for *in medio captivorum* ["in the midst of the captives"]. — The whole of this chapter, with a few things omitted, is taken from Hugh, *Summa Sententiarum*, tr. 7, c. 1.
+
+[^10]: **La.** Glossa in Matth. 1, 18, apud Lyranum.
+     **En.** Gloss on Matt. 1:18, in Lyra.
+
+---
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Latin re-set from the IA djvu OCR (`raw/bonaventure_vol4_raw.txt`, lines 76112–76238), cross-checked column-by-column against the PDF at 400 dpi (`/tmp/colcrop/vol4-p{705,706}-{L,R}-{0,1,2}.png`, split x≈1880) per the Vol IV PDF-priority-inversion override. The raw OCR for this chunk is heavily cascade-fragmented (diagonal one-token-per-line shattering plus two-column bleed — worse than most Vol IV chunks), so nearly every line of running prose was re-set from the PDF bands rather than lightly corrected from OCR. Offset pdf = printed + 20 (confirmed again here: printed 705 → PDF 725).
+
+**Boundary verification.** `DISTINCTIO XXX.` heading at raw line 76112 (page-top duplicate at 76107 is the running head of the facing verso). The littera ends at raw line 76238 ("...ne ut adultera damnaretur\*»."), immediately before the next chunk's heading, OCR-garbled as `COMMENTAEIUS IN DISTINCTIONEM XXX.` at line 76239 (correct reading: `COMMENTARIUS`). That garble is why the auto-chunker's regex (which looks for `COMMENTARIUS`) failed to see this exact boundary automatically, but line_end 76238 in the pre-existing skeleton was already correct.
+
+**Chapter list (Lombard's divisions).** Cap. I *De errore, qui evacuat consensum*; Cap. II *De coniugio Mariae et Ioseph*; Cap. III *De finali causa coniugii*; Cap. IV *Quod malus finis non contaminat Sacramentum*. Single pars (no pars label in the id).
+
+**Page-split map.** p.705 holds the DISTINCTIO XXX heading, all of Cap. I, and Cap. II up to "...impletum est in illis parentibus Christi, fidem, prolem, Sacramentum:" (sentence completes on p.706). p.706 holds the remainder of Cap. II, all of Cap. III, and all of Cap. IV, ending "...ne ut adultera damnaretur»" — immediately before `COMMENTARIUS IN DISTINCTIONEM XXX` (= the d30-divisio chunk, excluded from this file).
+
+**Footer-ownership / apparatus renumbering.** Quaracchi restarts footnote numbering each printed page; renumbered continuously here as [^1]–[^10].
+- p.705 footer carries Quaracchi's own 1–6, rendered as [^1]–[^6]: (1) Gen. 29:24 note on *excusatur*; (2) 2 Cor. 11:14 note on *ducat uxorem*; (3) sourcing note for Cap. I (Gratian C.29 q.1); (4) canon *Beata Maria*; (5) the long Augustine *De Nuptiis et Concupiscentia* / Epist. 262 citation (covers three successive Augustine quotations in the body: "perfectum fuit coniugium," the "Unde Augustinus: Quod Deo pari consensu" quote, and back to "impletum est," per the note's own "Tertius ibid. n.4" cross-reference — hence only two superscript markers, [^5] and [^6], are needed in the body for a three-quote span).
+- p.706 footer carries Quaracchi's own 1–4, rendered as [^7]–[^10]: (1) correction of the "Ambrosius" attribution + sourcing note that Cap. II is drawn from Hugh's *Summa Sententiarum* tr.7 c.1 (this note wraps from the left footer column into the right column, ending "...tr. 7. c. 1." immediately before note 4 begins on the same line); (2) Gen. 1:28 / 1 Cor. 7:2; (3) Gen. 29 / Deut. 21 textual variant, continuing "— Totum hoc cap...sumtum est ex Hug." (a second, separate note that Cap. III likewise draws from Hugh, tr.7 c.1 — this "Totum" clause overflows the left footer column and continues at the top of the right footer column, ahead of note 4, which is a column-overflow pattern distinct from note 1's same-line wrap; resolved with high confidence from the physical column layout, not flagged as `[?]`); (4) Glossa on Matt. 1:18. Immediately below note 4, the page footer begins a new, separate section headed `NOTAE AD COMMENTARIUM` with its own note "1. Vide II. Sent. d. 38. a. 2. q. 2." — this belongs to the **d30-divisio** chunk's apparatus (keyed to the Commentarius' DIVISIO TEXTUS discussion of "aliquid dicit voluntatis"), not to this littera, and is EXCLUDED here per the cross-chunk footer-split convention.
+
+**[?] flags.** None outstanding. The one genuine ambiguity encountered (whether the "Totum hoc cap...ex Hug." clause continues footnote [^7] or footnote [^9]) was resolved via the physical column-overflow layout of the p.706 footer (see above) rather than left unresolved.
