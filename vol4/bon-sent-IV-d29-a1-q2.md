@@ -16,7 +16,7 @@ has_apparatus: true
 line_start: 75731
 line_end: 75854
 word_count_latin: 1067
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 75731–75854), fresh literal English translation, full apparatus from raw OCR/PDF (8 entries) (2026-07-10)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 75731–75854), fresh literal English translation, full apparatus from raw OCR/PDF (9 entries) (2026-07-10, apparatus gap resolved 2026-07-10 during d.21-d.30 decade-polish gate)"
 format_version: 1
 ---
 
@@ -69,7 +69,7 @@ unus acquirit potestatem aliquam in alterum, pro eo quod in altero extremo defui
 
 *Ad 4.* Ad illud quod obiicitur, quod efficacius consentit; dicendum, quod si iste non obligetur, hoc non est propter defectum intentionis, quia non sit sufficienter intensus, sed quia non est mutuus.
 
-*Ad 5.* Ad illud quod obiicitur de vinculo caritatis, dicendum, quod caritas, prout est vinculum, quod facit unum corpus spirituale, nunquam est, quin sit in utroque extremorum, alioquin non facit unum; et in matrimonio fiunt unum sponsus et sponsa, et significatur coniunctio Dei et animae, quae nunquam claudicat: ideo nullus est consensus quantum ad vim Sacramenti, si libertatem habet in una persona et coactionem in alia.
+*Ad 5.* Ad illud quod obiicitur de vinculo caritatis, dicendum, quod caritas, prout est vinculum, quod facit unum corpus spirituale, nunquam est, quin sit in utroque extremorum, alioquin non facit unum; et in matrimonio fiunt unum sponsus et sponsa, et significatur coniunctio Dei et animae, quae nunquam claudicat: ideo nullus est consensus quantum ad vim Sacramenti, si libertatem habet in una persona et coactionem in alia[^9].
 
 ---
 
@@ -113,7 +113,7 @@ Secondly it is asked, whether he who consents to one who refuses generates for h
 
 *To 4.* To that which is objected, that he consents more effectively: it must be said that if this man is not obliged, this is not on account of a defect of intention, as though it were not sufficiently intense, but because it is not mutual.
 
-*To 5.* To that which is objected concerning the bond of charity: it must be said that charity, insofar as it is the bond which makes one spiritual body, is never such that it fails to be in both extremes, otherwise it would not make one; and in marriage husband and wife become one, and the conjunction of God and the soul is signified, which never limps: therefore there is no consent as regards the force of the Sacrament, if one person has liberty and the other coercion.
+*To 5.* To that which is objected concerning the bond of charity: it must be said that charity, insofar as it is the bond which makes one spiritual body, is never such that it fails to be in both extremes, otherwise it would not make one; and in marriage husband and wife become one, and the conjunction of God and the soul is signified, which never limps: therefore there is no consent as regards the force of the Sacrament, if one person has liberty and the other coercion[^9].
 
 ---
 
@@ -145,6 +145,9 @@ Secondly it is asked, whether he who consents to one who refuses generates for h
 [^8]: **La.** Planius codd. E L Y *tamen*.
     **En.** More clearly, codices E, L, Y [add] "however" [*tamen*].
 
+[^9]: **La.** Vide scholion ad praecedentem quaest.
+    **En.** See the scholion to the preceding question.
+
 ---
 
 ## Notes
@@ -161,4 +164,4 @@ Secondly it is asked, whether he who consents to one who refuses generates for h
 
 **[?] flags:** none. The OCR's severe column-interleaving on this raw range made line-by-line OCR correction impractical; the full re-set from the clean 300 dpi PDF page images resolved every reading without ambiguity. No hand-off was received from `d29-a1-q1` (its `## Notes` was still `[Notes pending]` at the time of this promotion).
 
-**⚠ Cross-chunk apparatus gap (open, flagged 2026-07-10 during d.29 batch reconciliation):** p.702 footer note 3 ("Vide scholion ad praecedentem quaest.") was handed off to `d29-a1-q3` here, but `d29-a1-q3`'s own promotion (done independently/concurrently) believed notes 1–3 *all* belonged to this chunk and started its own apparatus at note 4 — so note 3 is currently rendered in **neither** chunk. Logged for the d.21–d.30 decade-polish Pass 3 (cross-chunk boundary sweep) to resolve via 600dpi PDF eyes-on and insert into whichever chunk's body the anchor actually falls in.
+**✓ Cross-chunk apparatus gap RESOLVED (2026-07-10, d.21–d.30 decade-polish gate, Pass 1):** p.702 footer note 3 ("Vide scholion ad praecedentem quaest.") was initially handed off to `d29-a1-q3`, while q3 believed it belonged to q2 — so it was rendered in neither chunk. Resolved via 450dpi PDF eyes-on (`/tmp/colcrop/vol4-p702-{L,R}-0.png`): the superscript ³ anchor is visible in the printed body at the very end of **this chunk's own Ad-5 reply** ("...si libertatem habet in una persona et coactionem in alia³"), matching this chunk's existing English translation exactly ("...if one person has liberty and the other coercion"). It belongs to q2, not q3. Inserted as [^9] in both Latin and English bodies and in the Apparatus block; count updated 8→9.

@@ -165,4 +165,4 @@ Third it is asked, whether someone can be compelled to marriage by a father's pr
 
 **Hand-off forwarded to `bon-sent-IV-d29-a1-q2` (when promoted):** p.702 footer notes 1–3 belong to q2 (see cross-chunk footer split above).
 
-**⚠ Cross-chunk apparatus gap (open, flagged 2026-07-10 during d.29 batch reconciliation):** q2 was in fact promoted concurrently and only claimed p.702 notes 1–2 as its own, forwarding note 3 ("Vide scholion ad praecedentem quaest.") here — but this chunk's apparatus starts at note 4, so note 3 is currently rendered in **neither** chunk. Logged for the d.21–d.30 decade-polish Pass 3 (cross-chunk boundary sweep) to resolve via 600dpi PDF eyes-on.
+**✓ Cross-chunk apparatus gap RESOLVED (2026-07-10, d.21–d.30 decade-polish gate, Pass 1):** p.702 footer note 3 ("Vide scholion ad praecedentem quaest.") does NOT belong to this chunk. Resolved via 450dpi PDF eyes-on: the superscript ³ anchor sits at the end of `d29-a1-q2`'s own Ad-5 reply ("...coactionem in alia³"), not anywhere in this chunk's body. Inserted into `d29-a1-q2.md` as its [^9]. This chunk's apparatus (starting at note 4, rendered here as [^1]) is correct as-is.
