@@ -3,227 +3,136 @@ id: "bon-sent-IV-d21-p2-a2-q2"
 volume: 4
 book: 4
 distinctio: 21
+pars: 2
 articulus: 2
 quaestio: 2
 type: quaestio
-line_start: 60969
-line_end: 61168
-word_count_latin: 1904
-transcription_status: "auto-chunked 2026-06-16"
+title_la: "Utrum confitens possit licentiare confessarium, ut peccata revelet"
+title_en: "Whether the one confessing can license the confessor to reveal his sins"
+printed_pages: [567, 568]
+pdf_pages: [587, 588]
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 567–568"
+has_scholion: false
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR (raw lines 62285–62356) cross-checked against vol4 PDF column bands (pp. 567–568) for the cascade-shattered two-column regions, fresh literal English translation, full apparatus from raw OCR (7 entries: p567 footers 2–4, p568 footers 1–4, ordered by body anchor), Articulus II scholion lives in q1 — cross-ref only (2026-06-24)"
 format_version: 1
 ---
 
-# bon-sent-IV-d21-p2-a2-q2
+# Distinctio XXI, Pars II, Articulus II, Quaestio II
+## *Utrum confitens possit licentiare confessarium, ut peccata revelet.*
+
+---
 
 ## Latin
+<!-- page 567 -->
 
-QUAESTIO II.
+### Quaestio II. *Utrum confitens possit licentiare confessarium, ut peccata revelet.*
 
-                                                                                          Utrum purgatio purgatorii fiat per ignem materialem.
+Secundo quaeritur, utrum confitens possit sacerdotem licentiare. Et quod non, videtur:
 
-                    Secundo quaeritur, utrum purgalio                                                                                   illa fiat            per             ralem ; cura poena raortis                                         sit        suprema poenarum
-      ignem materialem                                            ,    aut per spiritualem. Et quod sit                                                                      ergo videtur , quod ibi deberet omnino purgari                                                                    :    ergo
-      spiritualis, videtur                                                                                                                                                   nullo                modo indiget purgari ^ igne materiali.
-                    1.        Per Glossam                                      super iilud primae ad Corin-                                                                                  S.        Item , videtur             ,
-                                                                                                                                                                                                                                       quod nulla ad                      lioc sit neces-
-ii-   thios              tertio ^               :     Si cuius                             opus arserit                           :         « Exuritur                       sitas,               quia veheraens dolor et fervens                                         amor per se
-      autem illius opus, qui                                                         hic          temporaha                       dilexit, quo-                              sine aliquo exleriori sufficit delere                                                     poenam et cul-
-      niam sine dolore non pereunt quae hic cum amore                                                                                                                        pam             ;    sed        statira , separata aniraa,                               cura liberum ar-
-      possessa                        sunt »; et Augustinus de Civitate Dei,                                                                                     vi-         bitrium                    consonet         animagratiae, fervet caritas, et
-      gesimo primo, exponens iliud dicit:                                                                                     «       Necesse est,                           detestatur, quantura         culpam prius commis-        potest,
-      ut tanlum urat dolor,                                                          quantum haeserat amor »: si                                                             sam et hoc generat fervorem et dolorem ergo
-                                                                                                                                                                                         ,                                                                                                 :
+1. Quia ad celandam confessionem arctamur per mandatum superioris, scilicet Papae[^1]; sed inferior a mandato superioris non potest absolvere: ergo nec ad contrarium mandato licentiare.
 
+2. Item, sigillum confessionis institutum est non solum propter vitandum scandalum confitentis, sed etiam totius Ecclesiae unitatis: ergo quantumcumque confitens velit, si revelet, praeiudicium toti Ecclesiae facit: ergo non potest ab eo licentiari.
 
+3. Item, sigillum istud institutum est propter scandalum vitandum; sed si quis revelat per licentiam, potest suscitari[^2] idem scandalum, quod sine licentia, quia confitens poenitere possit de licentiatione et imponere sacerdoti confessionis revelationem; et cum habeat iudicium pro se, idem posset scandalum concitari, quod et sine licentia.
 
-      ergo hoc totnin                                          est             spirituale,   non videtur, quod                                                               statim deletur omnis culpa.
-      ille      ignis                 purgans                     sit          aliquid nisi spirituaie quid.                                                                      CONTRA: 1. SiCUt dicitur in GlOSSa SUper il-Fundamenla.
-                    2.    Item              ,
-                                                    quod purgalur et a quo purgatur et                                                                                       lud "           :         Sic        salvus erit            etc. ,         et       habetur          in     littera :
-      ipsa           purgatio                                est           quid              spiriluale                 :        ergo videtur,                               « Gravior                    est ille ignis, quam                          quidquid potest homo
-      quod           illud                 similiter,                      per quod p\}rga.{.uv ; hoc autem                                                                  pati            in        hac vita»: ergo                   animae habebunt aliquod
-      est ignis                       pnrgatorius                          :        ergo          etc.                                                                       afflictivura extra; illud                                 autem aut est corporale, aut
-                    3.    Ilem, nihil corporale exlrinsecum                                                                                  facit           ali-            spirituale;                     non         spirituale, qnia tunc                           vel       esset                An-
-      quid ad animae iustificationem *, ergo nec ad culpae                                                                                                                   gelus, vel esset aniraa, vel Deus,                                                       quorum nullum
-      remissionem ;                                  sed in purgatorio emundatur                                                                    anima                    esse potest                     :    ergo necesse est, quod                               sit       corporale.
-      a culpa                 :       ergo               non videtur,                                   quod uratur flarama                                                                  2.       videmus, quod recta ordinatione
-                                                                                                                                                                                                       Item, nos
-      materiali.                                                                                                                                                             fit,        quod anima, quae rebus corporalibus se subie-
-                    4.    Item             ,        si       aniraa purgatur per poenam corpo-                                                                               cerat libidinose, utpote per conversionem ad bonum
+4. Item, si licentiari possunt, ergo cum mali et impii sacerdotes possent praetendere licentiam sibi datam, videretur tunc, quod sub hoc pallio confessionem impune revelare possent; sed hoc est inconveniens: ergo etc.
 
+**Contra:**
+1. Celatio confessionis est in favorem confitentis; sed quilibet potest cedere iuri suo[^3]: ergo potest confitens dare licentiam revelandi.
 
+<!-- page 568 -->
 
+2. Item, qui potest dicere peccatum per se ipsum potest per sacerdotem alii sacerdoti denudare: ergo et per ipsum alii revelare[^4].
 
-                '    Vide II. Sent.                            d. 7. p.               I.    a.     2.      q.     I.    et d. 23. p.               II.      q. \.                     ^          Sic codd. B F R S T, ita tamen                     ,    ut pro nullo niodo cod.                           F
-      et 3.         — Post non codd. E F R S T addunt tamen, cod. G                                                                                      legit               exhibeat non, etverbo indiget codd. ST praemitlmn debet aut
-      quanlum ad                       liberi arbitrii veriibililatem ,                                                non quantuni etc.                                     alii   codd. verba ergo nullo                        modo indiget purgari vel omiltunt
-                ^ Cfr.            supra              d.      4.       p.       I.    a.     1.     q.      2.     ad        i.    ct infra             d.        22.         vel substiluunt                       pro   ipsis   cum edd. non (cod. E sine, cod. X
-      a.   I.       q.    I.          ad    3.                                                                                                                               a secunda                  manu magis quam).
-                '    Vers.             \o.          — Glossa                    est        apud            Petr.       Lombard.                   et    sumta                        s           Episl.      I.   Cor. 3,       13.    — De Glossa, quam                          refert            Pelr.
-      ex August.                  ,   Enchirid.                   c.       68. n.            18.      — Seq. locus August.                                       est         Lombard. in                      hunc       loc.    et    hic     in       lit.     c.   2 , cfr. eliam supra
-      XXI. de Civ. Dei,                                   c.      26. n.             i.     — Circa finem arg. post                                              est         pag. SI9, nota                        2.   et 3. In hac Glossa, conlradiccnte lextu origi-
-      spirituale cod. aa addit quia dolor dicil quid spiritunle.                                                                                                             nali,    plurimi codu. et ed.                        1    omittunt homo, pro quo in cod.                                      I
+3. Item, quod dicitur homini ut homini in casu utili potest et debet ab eo dici: sed confitens, qui dicit confessori ut Deo, potest dicere ut homini: ergo potest dare licentiam revelandi alii.
 
-                *    Cfr.         supra d.                   \.       p.       I.    q. 4. et d. 17. p.                     I.    a. 1. q. 1.            seqq.               sccunda manus subsliluit quis.
-                          S.          Bonav.                 — Tom. IV.                                                                                                                                                                                                           70
-                                                                                                                                                   :
+4. Item, constat, quod superior potest mittere ad inferiorem et auctoritatem absolvendi ab aliquo peccato enormi ei praebere; sed hoc non posset, nisi posset per voluntatem confitentis peccatum alii revelare: ergo etc.
 
+### Conclusio
 
+> Confitens potest licentiare confessarium, ut peccata revelet, in casu, in quo non timetur scandalum.
 
+**Respondeo:** Dicendum, quod sicut tactum est[^5] revelare sacerdos non debet propter duo, scilicet quia novit solum ut Deus, et iterum, ne populum scandalizet, vel etiam ipsum confitentem. Et quoniam confitens potest facere, quod ipse noverit ut homo; quando facit eum nuntium, potest eum licentiare in casu, in quo non timetur periculum scandali, sicut ostendunt rationes secundo inductae. — Ubi autem periculum scandali formidatur, quantumcumque poenitens licentiet sacerdotem, non debet sacerdos assumere. Tunc autem potest timeri periculum scandali, quando probabiliter posset coniici, quod sacerdos confessionem suam revelaverit. Unde si dicat, quod alii referat peccatum, debet ipse sacerdos poenitentem suum nuntium constituere, non se internuntium[^6] facere; et sic vitatur scandalum, et non rumpitur sigillum confessionis. Et intelligatur hoc cum illa generali suppositione, quod peccatum alicuius nulli est manifestandum, nisi ei qui possit prodesse nec velit obesse; intelligatur etiam hoc de peccatis propriis, non de alienis. Nam aliena peccata dicere non potest nec debet poenitens alicui committere, nisi forte in casu, in quo ipse deberet dicere et melius per alium quam per se posset bonum illius procurare, semper adhibita cautela, ut ex hoc non scandalizetur Ecclesia. Et sic patent obiecta[^7].
 
-             554                                                                                                            SENTENTIARUM L!B. IV.
-
-             commutabile, iuslificatur per materialia et corporaiia                                                                                          Sed quamvis egregius doctor Augustinus visus Opi
-             Sacramenta                      '
-                                                     :    ergo pari ratione posl lianc vitam pur-                                                      fuerit dubitare, alii tamen doctores nobis auferunt
-
-             gari debet per afflictiva corporalia.                                                                                                     dubitationem, quoniam                                       hoc cognoverunt multiplici
-                          3.        Item         ,       si     anima post mortem purificatur, aut                                                     ratione, ut Gregorius in quarto                                              Dialogorum^ et Isi-
-             ergo dolore, qui veniat ex contrilione, aut dolore,                                                                                       dorus de Ordine creaturarum, et communiter tenent Coii(
-             qui veniat                      ex rei                       amissione, aut dolore, qui ve-                                               doctores              temporis nostri, ignem                                   purgatorium esse
-             niat         ex exleriori a/jfliciione. Non primo modo, quia                                                                              materialem                  sive         corporalem.                      — Sed         qualiter                talis        D
-                                                                                                                                                                                                                                                                                   qna
-             non          est       amplius locus meriti, nec quantnm ad con-                                                                          ignis agat    animas eas affligemlo, hoc magnam
-                                                                                                                                                                                in
-
-             tritionem nec                                quantum ad alios actus virlulum; non                                                         habet quaestionem et infra^ inquiretur de poenis
-             secundo modo, quia dolor de amissione- est polius                                                                                         animarum. Qualiter autem agat purgando ,                                                                  diversi-
-                                                                                                                                                                                                                                                                                   pnr^
-             sapiens rationem cuipae quam rationem purgationis,                                                                                        tas      est      inter doctores.
-
-             quia venit                     ex                inordinalo                        amore         :   ergo tertio        modo                  Quidam enim dicere voluerunt, quod praeter Opl
-             purgalur dolore, qui venit ex                                                                   afflictione exteriori                     vim punitivam data est illi igni vis spiritualis pur-
-             ergo         elc.                                                                                                                         gaiiva, ratione cuius purgat a veniali macula, vel
-                          4.        Item,                si     ignis ille esset spiritualis; cum                                            non       etiam a peccati scoria, sicut Sacramenta habent vini
-             sit    Deus             — hoc                      constat                — necesse                    est,   quod     in           di-   sanclificandi sibi                   datam ".                   —
-                                                                                                                                                                                                       Sed illud non oportet Noi|
-             versis             diversificelur                               et        plurificetur                 :   ergo     quot            es-   ponere,             scilicet       quod ultra punitionem habeat vim
-             sent animae, tot essent ignes purgatorii et tot pur-                                                                                      novam, cum                        multas animas dicat Gregorius' pur-
-             gatoria            :    si      ergo                   hoc      est inconveniens, palet,                                       quod       gari         per        diversa loca, et                            talis   culpae mundificatio
-             non          est spiritualis.                                                                                                             proprie           sit    ab ipsa               gratia.
-
-                                                                                                                                                                   Et ideo est aiiorum positio, ut videtur, magis Opi|
-                                                                      c      N c L u s I 0.                                                            recta, quod ilie ignis per eandem mhmmei jyunit
-                                                                                                                                                                                                                                                                                    mc;
-
-
-
-                                                                                                                                                       et purgat, quoniam puniendo iuvat gratiam, et gra-
-                  Ignis piirgatorii est materialis sive corporalis.
-                                                                                                                                                       tia,        liabens adiutorium poenae et consonantiam vo-
-                          Respondeo   Dicendum            :
-                                                                                                ,
-                                                                                                      quod Augustinus                       vide-      lunlatis           nostrae             — quae, quamvis non                                   sit     adiutrix,
- Dubiutio    inr          dubitare, ulrum ignis                                                      ilie     sit       materialis, an                 non         lainen          impedit       — potens purgare culpam
-                                                                                                                                                                                                                   est
-AugusliDi.
-             spiritualis, qui cruciabit vel nunc cruciat animas
-                                                                                  *"
-
-                                                                                                                                                 —     et peccali              scoriam,                ila         ut purgatio talis                  sit         a gra-
-             non          solum de igne purgatorio, sed eliam de igne                                                                                  tia,        libero          arbitrio            consonante, et exteriore poena
-             infernali, in                       quo dives ille ardebat                                           — non solum                 su-      adiuvanle, secundum conformitatem ad remissionera
-             per Genesim ad litteram%                                                               verum etiam in libro de                            venialiuin, quae                        sit     in        hac vita^
-             Civitate Dei.                           Unde             et      per               modum              dubitationis dicit                           tamen quaeras : quomndo poena adiuvat
-                                                                                                                                                                   Si
-             in Glossa super                                    illud             primae ad Corinthios tertio:                                         gratiam ad delendum sive purgandum maculam? di-
-                                                                                                                                                                                                                                                                                   y
-             Qui aedlficat lignum, foenum etc. ponens opinio-                                                       ,
-                                                                                                                                                       cendum, quod hoc facil divina iustitia; vel etiam
-             nem dicentium, igne materiali et temporali animas                                                                                         per euin                modum                 potest            inlelligi,          per       quem              dici-
-
-             post         hanc              vitam purgari                                   ;        dicit:         « Non      redarguo,               tur,        quod            infirmiias gravis                               sobriam facit ani-
-             quia forsitan                               verum est». Et hoc ipsum ponitur in                                                           mam^, id est, virtus hoc facit, quodam modo adiuta
-             littera,               et salis                    videtur                 rationabiiis                    sua dubitatio.                 per poenam.                   — Si auiem quaeras, ulrum stalim, i4
-             Dives             enim, qui                             erat              in        inferno, et cuius                  lingua             cum gratia                  habet illud adiutorium, culpam deleat
-             urebatur,                    hnguam corporalem non habebat.                                                           Et qui              et      purget scoriam                    :    dici polest, quod utrumque est
-
-             portat lignum, foenum, stipulam , non portat secum                                                                                        satis        probabile            ,     vel     quod siaiim vigoretur gratia,
-             haec materialia, sed spirilualia, quae sic nominantur                                                                                     ut venialcm                   culpam deleat, cum a poena est adiuta,
-             per metaphoram                                     ;
-                                                                     quare non                              similiter      de igne           spi-      et deinceps punitur                             pro obligatione; vel polest dici,
-             rituali           melaphorice                                competit intelligere ?                                                       quod poena magis                               et         magis           disponat,            et        postmo-
-
-
-
-
-                     1    Ut insinuat Hug. a                                 S.        Vict.,          i.    de Sncram.        p. IX.       c.    3.           *   Cap. 28. seq., ubi de igno inferni (vido infra                                               lit.   Magi-
-             Cfr.   supra            lil.    Magistri, d.                     I.       c.       H.                                                     stri,    d.    XLIV.        c.    7.);    cfr.       c.     39, ubi         de purgatorio            ;    item       Isi-
-
-                     ''
-                          Cod. aa supplet renim                                             scilicei          temiporalinm ,       Vu(.          de    dor.,       de Ordine         ci'eatur.         c.     13.      n.   7.   et 9.
-
-             huiusmoiU amissione, ot mox ordinalo perperam pro inordinato.                                                                                     5   Dist.     44. p. IL a. 3.                  q.      2.
-
-                 3 Libr. XII. c. 32. n. 61. scqq., et XXI. dc Civ. Dei, c. 10.                                                                                 «   Socundum Alex.                    Ilal.,      S.    p.   !V. q.       15.   m.    4.     a.    4.     § 2,
-             n.    2, ubi ait: Dicerem quideni, sic arsuros sine ullo suo cor-                                                                         pro hac opiiiione valot illud vorbum ex Sorm. 252.                                                       (alias      Uo-
-             pore spiritus, sicut ardebat apud inferos ille dives, quando di-                                                                          mil.     16.     ex   .50   homil.) in append.                         serm. August.           n.        3: Quan-
-
-             cebat: Crucior in hac                                    flamma [Luc. 46, 24.], nisi convenien-                                           tum exogerit culpa tantum sibi ex homine vindicabit quaedam
-                                                                                                                                                                                          ,
-
-
-
-
-             ter    responderi cernerein, lalem fuisse illam                               flammam, quales                                             llammae rationabilis disciplina. Cfr. ibid. Serm. 15. (alias 82.
-             oculi,       quos         levavit...                   qualis lingua... qualis digitns Lazari,                                      de    de Tempore) n. 4, ubi vocatur a ignis \\\e. arbiler ».       Pro                                            —
-             (|uo id sibi fieri                          poslulavit,                   ubi          tamen         erant sino corporibus                sancii/tcandi           (cfr.     supi-a pag.                  19, nota 2.) pluros codd. et edd.
-             animae. Sic ergo incoi'pora!is                                             et          illa    flamma,      qua    exarsit etc.           satisfacieiidi.
-             — Seq. Glossa                           in    1.       Cor.      3,        13.          exliibetur a Petro         Lombardo                       '   Libr.     IV.        Dialog.        c.     40.      Cfr.      supra    d.    20.        p.     I.   q.    6.
-
-             (in    hunc loc.               et hic in                 lit.    c.       2.)       et    sumta est ex August.             ,   X.XI.      exomplum de Paschasio.                         —       Inferius edd. fU pro                  sit.
-
-             de Civ. Dei,                   c.       2G. n. 4.               —         Inforius             pro lemporali edd.               cum               8    Vide supra            a.    I.    q.     2.
-
-             uno alterove cod. corporali.                                                                                                                           Mi. 31, 2.
-                                                                     :                                                                                                                                                                                         :
-
-
-
-
-                                                                                              DIST. XXI. P.                     I.     ART.    III.          QUAEST. I.                                                                                  b5b
-
-      diim, ex qno                         disposuit sufficienter, gralia ipsa                                                   in                     3.    Ad illud quod                          obiicilur,               quod         non        iuslifi-
-
-      instanti             delel culpam                   ,    si    qua est. Quodcumque                                        iio-     cal^; dicendum, quod                                         verum              est        per    se ;       tamen
-      rum dicalur, nnn videlur de facili improbari posse.                                                                                exlerior                 punitio              excitat et adiuvat interiorem                                     gra-
-      —  Concedendum igitur, ignem illum materialem                                                                                      tiam,               ut        possil          perducere ad                       iustificalionem                per-
-      esse sive corporaleiu.                                                                                                             fectam.
-                   1.     Ad        illud     ergo quod obiicitur de Glossa et de                                                            4. Ad illud quod obiicitur de poena mortis, di-
-
-p-Augustino, dicendum, quod Augustinus non negat ',                                                                                      cendum, quod ipsa poena mortis est debilum ori-
-      quin          ilie       ignis       materialis sit, qui animas purgabit,                                                          ginalis peccati nec est ordinata ad animae purgatio-
-
-      sed exponit,                     iioc       de spirituali posse                              intelligi.           Tamen            nem        ,    nisi          volunlarie                    suscipiatur,              cum        quis         polest
-D.    jpse         Augustinus                satis in               sermonibus                       suis,          de pur-              evadere, ut                     in    Martyribus, vel etiam sustineatur vo-
-      gatorio loquens, innuit, igneni materialem                                                                   esse,         si-     luntarie,                 cum ab                    alio     infligitur ^ ;                sed poena pur-
-      cut est ignis inferni.                                                                                                             gatorii             ad hoc            est.
-
-                   2.     Ad        illud     quod            obiicilur,     quod spiritualis est                                                       5.    Ad illud quod obiicitur de dolore et amore,
-      purgatio; dicendum, quod                                           verum est, et ideo effe-                                        dicendum, quod                                illi    sunt molus yo/«ntorjY; et ideo
-      ctive             sive        formaliler                 est per           quid spirituale,                              sci-      non            oportet,              quod            sint      in        summo in anima iam ^
-11.   licet        per gratiam                ;    sed tamen                ,
-                                                                                 quia anima peccavit                                     exuta  praeterea, iam per se non sufficiunt, cum
-                                                                                                                                                         ;
-
-
-
-      cum carne et peccando carnem sibi praeposuil,                                                                              et      non reslet amplius merendi spalium et ideo necesse                                     :
-
-
-
-      j(a    corpus praeposuit spirilui                                     ;    divina iustitia decre-                                  est, exterius adhiberi ignem                                             purgatorium, sicut par-
-      vit,         etiam in purgatione                               rei        corporali                 ipsam                sub-      vulis, qui                    non possunt per se mereri, subvenit ba-
-      iicere \                                                                                                                           ptismatis                 Sacramentum l
+---
 
 ## English
+<!-- page 567 -->
 
-[Translation pending]
+### Question II. *Whether the one confessing can license the confessor to reveal his sins.*
+
+Secondly it is asked whether the one confessing can license the priest. And that he cannot, seems [shown]:
+
+1. Because we are constrained to conceal confession by the mandate of a superior, namely the Pope[^1]; but an inferior cannot absolve [anyone] from the mandate of a superior: therefore neither [can he] license [anything] contrary to the mandate.
+
+2. Likewise, the seal of confession was instituted not only on account of avoiding scandal to the one confessing, but also [scandal] to the unity of the whole Church: therefore however much the one confessing may will it, if [the priest] reveals [it], he does prejudice to the whole Church: therefore he cannot be licensed by him.
+
+3. Likewise, this seal was instituted on account of avoiding scandal; but if someone reveals [it] by license, the same scandal can be aroused[^2] as without license, because the one confessing might repent of the licensing and impose upon the priest the revelation of the confession; and since he has judgment on his own behalf, the same scandal could be stirred up as also [would be] without license.
+
+4. Likewise, if they can be licensed, then since wicked and impious priests might pretend a license [had been] given to them, it would seem then that under this cloak they could reveal a confession with impunity; but this is unfitting: therefore etc.
+
+**On the contrary:**
+1. The concealment of confession is in favor of the one confessing; but anyone can yield his own right[^3]: therefore the one confessing can give a license to reveal.
+
+<!-- page 568 -->
+
+2. Likewise, he who can tell the sin through his own self can, through the priest, lay it bare to another priest: therefore also through that [priest] reveal [it] to another[^4].
+
+3. Likewise, what is told to a man as to a man, in a case of utility, can and ought to be told by him: but the one confessing, who tells the confessor as [he tells] God, can tell [him] as a man: therefore he can give a license of revealing to another.
+
+4. Likewise, it is established that a superior can send to an inferior and bestow upon him the authority of absolving from some enormous sin; but he could not do this unless he could, through the will of the one confessing, reveal the sin to another: therefore etc.
+
+### Conclusion
+
+> The one confessing can license the confessor to reveal [his] sins, in a case in which no scandal is feared.
+
+**I respond:** It must be said that, as was touched upon[^5], a priest ought not to reveal [a confession] on account of two [things], namely because he knows [it] only as God [knows it], and again, lest he scandalize the people, or even the one confessing himself. And since the one confessing can bring it about that [the priest] should know [it] as a man; when he makes him [his] messenger, he can license him in a case in which no danger of scandal is feared, as the reasons adduced in the second [series] show. — But where danger of scandal is feared, however much the penitent may license the priest, the priest ought not to take it up. Now danger of scandal can be feared when it could probably be conjectured that the priest has revealed his confession. Hence if [the penitent] says that he should report the sin to another, the priest himself ought to constitute the penitent his messenger, not to make himself a go-between[^6]; and thus scandal is avoided, and the seal of confession is not broken. And let this be understood with that general supposition, that the sin of anyone is to be made manifest to no one, except to him who can be of profit and does not wish to do harm; let this also be understood of one's own sins, not of another's. For the penitent cannot nor ought to entrust the telling of another's sins to anyone, unless perhaps in a case in which he himself ought to tell [them] and could better procure that [person's] good through another than through himself, caution always being applied, so that from this the Church may not be scandalized. And thus the objections are answered[^7].
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; entries are given here in body-anchor order across pp. 567–568.
+
+[^1]: **La.** Vide quaest. praeced. fundam. 1. 2. — De minori cfr. Gratian. C. *Inferior sedes* (4.), seqq. d. 21. — Pro *arctamur* edd. *arctatur*.
+     **En.** See the preceding question, fundamenta 1 and 2. — Concerning the minor cf. Gratian, canon *Inferior sedes* (4.) and following, dist. 21. — For *arctamur* [we are constrained] the editions [read] *arctatur* [it is constrained].
+
+[^2]: **La.** Codd. G K V bb et ed. 1 *suscitare*. Circa finem arg. pro *idem posset* codd. A F H *ideo posset*.
+     **En.** Codices G K V bb and the first edition [read] *suscitare*. Near the end of the argument, for *idem posset* [the same could] codices A F H [read] *ideo posset* [therefore could].
+
+[^3]: **La.** Secundum Iustinian. D. II. de Pactis (tit. 14.), lex *Pactum* (47.); ibid. IV. de Minoribus (tit. 4.), lex *Si iudex* (42.) et C. II. de Pactis (tit. 3.), lex *Si quis in conscribendo* (29.).
+     **En.** According to Justinian, *Digest* II, On Pacts (title 14), the law *Pactum* (47); ibid. IV, On Minors (title 4), the law *Si iudex* (42); and *Code* II, On Pacts (title 3), the law *Si quis in conscribendo* (29).
+
+[^4]: **La.** Arg. nititur illa regula iuris in VI: « Potest quis per alium quod potest facere per se ipsum (68.) », quae cum lectione codd. V W Z magis apparet; hi enim codd. post *per se ipsum* prosequuntur: *potest etiam per alium*; ergo cum confitens possit per se ipsum alii dicere, potest per sacerdotem etc. Codd. G X bb omittunt *sacerdoti*.
+     **En.** The argument rests on that rule of law in the [Sext]: « One can do through another what he can do through his very self (68) », which appears more clearly with the reading of codices V W Z; for these codices, after *per se ipsum* [through his very self], continue: *he can also [do it] through another*; therefore since the one confessing can tell another through his very self, he can [do it] through the priest, etc. Codices G X bb omit *sacerdoti* [to the priest].
+
+[^5]: **La.** Quaest. praeced. — Mox post *revelare*, quod cum non paucis codd. omittunt, cod. aa supplet *confessionem*.
+     **En.** The preceding question. — Soon after *revelare* [to reveal], which they omit along with not a few codices, codex aa supplies *confessionem* [the confession].
+
+[^6]: **La.** Codd. I K R S T *non se potest nuntium*. Pro *internuntium* edd. *nuntium*, quod ipsae paulo ante omittunt.
+     **En.** Codices I K R S T [read] *non se potest nuntium*. For *internuntium* [go-between] the editions [read] *nuntium* [messenger], which they themselves omit a little before.
+
+[^7]: **La.** Vide scholion ad praecedentem quaest. — Ultima regula probatur supra a. 1. q. 3.
+     **En.** See the scholion to the preceding question. — The last rule is proven above, art. 1, q. 3.
+
+---
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Latin re-set from the IA djvu OCR (raw lines 62285–62356) cross-checked against the vol4 PDF column bands for pp. 567–568 (`/tmp/colcrop/vol4-p56{7,8}-{L,R}-{0,1,2}.png`); two-column "VOL II OVERRIDE" discipline applied, reading each page Left column top→bottom then Right. Running heads verified: p567-R "DIST. XXI. P. II. ART. II. QUAEST. II. … 567"; p568-L "568 … SENTENTIARUM LIB. IV". Offset pdf = printed + 20.
+
+**Page-hint correction.** The dispatch PAGE HINT (printed p.565) was off: p.565 carries Articulus II, **Quaestio I** (the q1 chunk). Quaestio II actually opens at the bottom of the right column of printed **p.567** (after the Art II SCHOLION, which prints with q1) and its Respondeo/Conclusio run onto **p.568**. printed_pages corrected to [567, 568], pdf_pages [587, 588].
+
+**Title correction.** OCR title read *ut revelet*; the printed running title and body title both read *Utrum confitens possit licentiare confessarium, ut peccata revelet* — corrected.
+
+**Apparatus.** 7 footnotes total. **p567** footers **2–4** → [^1]–[^3] (footer 1 on p567 — "Cod. F *vel etiam propter*… *matrimonio tali*… *Consultum*" — anchors to **q1**, not this quaestio, so it is NOT carried here). **p568** footers **1–4** → [^4]–[^7]. The remaining p568 footers (printed 5, 6, 7) anchor to QUAESTIO III ("Utrum sciens aliquid per confessionem et per aliam viam teneatur celare") and are carried by that chunk.
+
+**Scholion disposition.** has_scholion: false; renders NONE. The Articulus II scholion is printed with Quaestio I and is transcribed in `bon-sent-IV-d21-p2-a2-q1`. Quaracchi confirms the cross-reference at the close of this question: footnote [^7], *Vide scholion ad praecedentem quaest.* Footer body should read: *Vide scholion ad I huius articuli quaest.*
+
+**[?] flags.** None. The OCR cascade (e.g. "Utruni" → *Utrum*, "confilens" → *confitens*, "mandalura/mandalo" → *mandatum/mandato*, "polesl" → *potest*, "iicen-/licenliari" → *licen-/licentiari*, "reveiare" → *revelare*, "internuntiam" → *internuntium*, "confossionis" → *confessionis*, "Beus" → *Deus*, "obiecla" → *obiecta*) was resolved unambiguously against the PDF column bands.
+
+**Cross-chunk footer hand-offs.**
+- *Before (q1, `bon-sent-IV-d21-p2-a2-q1`):* p567 footer **1** ("Cod. F *vel etiam propter*. Inferius pro *matrimonium tale* cod. bb *matrimonio tali*, et pro *Consilium* cod. K *Consultum*.") belongs to q1's body (matrimonium / Consilium), not to this quaestio — verify q1 carries it.
+- *Shared page 567:* the Articulus II SCHOLION prints in the right column of p567 (above the Quaestio II title); it belongs to q1's chunk. No body of Quaestio II precedes the scholion on the page.
+- *After (q3, `bon-sent-IV-d21-p2-a2-q3`):* p568 footers printed **5–7** belong to q3 — (5) "Extra lib. V. tit. 38. in fine C. *Omnis utriusque sexus* (12.): Qui peccatum in poenitentiali iudicio sibi detectum… agendum perpetuam poenitentiam etc. — In fine argg. substituendum duximus *propter per*."; (6) "Quaest. 1. — Inferius pro *revelare* edd. cum pluribus codd. *revelari*."; (7) "Quia, ut ait Aristot., II. Periherm. c. 4. (c. 14.), simul non contingit eidem inesse contraria." q3 opens "Tertio quaeritur, utrum sciens aliquid per confessionem et per aliam viam teneatur celare" and runs from p568 onward. Page 568's footers are thus split by body anchor: footers 1–4 here, footers 5–7 in q3.

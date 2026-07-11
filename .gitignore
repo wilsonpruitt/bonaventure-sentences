@@ -16,3 +16,6 @@ _backup-*
 
 # Python caches
 **/__pycache__/
+
+# Next.js build artifacts
+site/tsconfig.tsbuildinfo

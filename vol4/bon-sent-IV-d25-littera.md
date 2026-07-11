@@ -4,210 +4,168 @@ volume: 4
 book: 4
 distinctio: 25
 type: littera
+title_la: "Littera Magistri (Lombard), Distinctio XXV"
+title_en: "The text of the Master (Lombard), Distinction XXV"
+printed_pages: [638, 639, 640, 641]
+pdf_pages: [658, 659, 660, 661]
 line_start: 69353
 line_end: 69540
-word_count_latin: 1932
-transcription_status: "auto-chunked 2026-06-16"
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 638–641"
+has_scholion: false
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set from 450 dpi PDF column bands (raw lines 69353–69540, pp. 638–641), fresh literal English, full littera apparatus (NOTAE AD LIBR. SENTENTIARUM) from printed-page footers (16 entries: p.638 n.1–2, p.639 n.1–6, p.640 n.1–8; per-page numbering restarts, suffixed b/c to keep markers unique), no scholion (2026-07-05)"
 format_version: 1
 ---
 
-# bon-sent-IV-d25-littera
+# IV Sent., d. 25 — Littera Magistri
+## *Distinction XXV — text of the Master of the Sentences*
+
+---
 
 ## Latin
 
-DISTINCTIO XXV.                                                                                                             63^
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They are the Quaracchi editors' critical apparatus (*Notae ad Libr. Sententiarum*) to the Master's text (Peter Lombard). Quaracchi restarts footnote numbering on each printed page; here p.638 carries the Master's notes 1–2, p.639 carries notes 1–6 (suffixed *b* below to keep markers unique within this file), and p.640 carries notes 1–8 (suffixed *c*). Page 641 carries only the closing lines of the littera, with no apparatus of its own.
 
-      tare        ponunt,                cum nec sacrificari                            oblatio                   illic      possit,      ab Ecclesiae unilate separati sunt, nulla iam quaeslio
-      ubi Spiritus sanctus non sit; nec cuidam Dominus per                                                                                est,quin habeant et dare possint; sed perniciose ha-
-      eius preces et oraliones                                    prosit, qui                   Deum ipsum vio-                            bent pernicioseque dant,quia extra vinculum pacis
-is.   lavit.          Hieronymus' quoque asserit,                                           «    omnia quae offe-                         sunt. Neutri Sacramento facienda est iniuria. Sicut non
-      runtur            ab           haerelicis,             contaminata                    esse in conspectu                             recte habet qui ab unitate recedit, sed tamen habet,
-      Domini; quia, licet sancta videanlur specie sui, tamen,                                                                             et ideo redeunti                             non redditur; sic etiam non recle dat
-      quia contacta sunt ab                                illo    qui pollulus est, polluuutur                                           qui ab unitate recedit, sed tamen dat; etideo, qui ab
-      omnia ». Idem                        :   «    Odit Deus sacrificia haereticorum et                                                  eo accipit, venienti ad unitatem non ileratur ». Idem: Angastinas.
-      a se proiicit; el quoties in nomine eius congregati fue-                                                                            « Aliud est non habere aliquid   aliud est non iure ha-             ,
+### DISTINCTIO XXV.
 
+### Cap. I. *De ordinatis ab haereticis.*
 
+Solet etiam quaeri, si haeretici ab Ecclesia praecisi et damnati possint tradere sacros ordines, et si ab eis ordinati, redeuntes ad Ecclesiae unitatem, debeant reordinari. — Hanc quaestionem perplexam ac pene insolubilem faciunt doctorum verba, qui plurimum dissentire videntur. — Videntur enim quidam tradere, haereticos sacros ordines dare non posse, nec illos qui ab eis ordinati videntur, gratiam recipere. Dicit enim Innocentius[^1]: «Arianorum clericos non videri suscipiendos cum sacerdotii vel ministerii alicuius dignitate; quibus solum baptisma ratum esse permittit, quod in nomine Patris et Filii et Spiritus sancti percipitur». Dicit etiam, eos «non posse dare Spiritum sanctum, quem amiserunt»; et «ordinatos ab haereticis caput habere vulneratum; et eum qui honorem amisit, honorem dare non posse, nec illum aliquid accepisse, quoniam in dante nihil erat, quod ille posset accipere». Tradit etiam, «venientibus ab haereticis per manus impositionem laicam tantum tribuendam communionem, nec ex his aliquem in clericatus honorem vel exiguum subrogare». Gregorius[^2] etiam dicit, sacrilegam esse Arianorum consecrationem, cum ex eorum manu communio percipitur. Cyprianus etiam dicit, omnia quaecumque faciunt haeretici, carnalia, inania et sacrilega esse, et eorum «altaria falsa et illicita, sacerdotia et sacrificia sacrilega», qui «more simiarum, quae, cum homines non sint, formam imitantur humanam, vultum Ecclesiae catholicae et auctoritatem sibi vindicant, cum ipsi in Ecclesia non sint»; et cum sint sacrilegi, sacerdotium administrant et <!-- page 639 --> altare ponunt, cum nec sacrificari oblatio illic possit, ubi Spiritus sanctus non sit; nec cuidam Dominus per eius preces et orationes prosit, qui Deum ipsum violavit.
 
-      riut, detestatur foetorem                               eorum et claudit nares suas ».                                              bere vel iUicite usurpare.                                   Non igitur ideo nou sunt Sa-
-      Ideni       :     « Illi            offerunt          panem sacrilegum » etc. Leo ^                                                 cramenta Christi et Ecclesiae, quia eis illicile utantur
-0.    eliam testatur,                          «   extra Ecclesiani nec rata esse sacer-                                                  non modo haeretici, sed eliam omnes impii sed illi                                                    ;
+Hieronymus[^1b] quoque asserit, «omnia quae offeruntur ab haereticis, contaminata esse in conspectu Domini; quia, licet sancta videantur specie sui, tamen, quia contacta sunt ab illo qui pollutus est, polluuntur omnia». Idem: «Odit Deus sacrificia haereticorum et a se proiicit; et quoties in nomine eius congregati fuerint, detestatur foetorem eorum et claudit nares suas». Idem: «Illi offerunt panem sacrilegum» etc. Leo[^2b] etiam testatur, «extra Ecclesiam nec rata esse sacerdotia, nec vera esse sacrificia». Idem etiam dicit: «Per crudelissimam vesaniam in Alexandrina sede omnium Sacramentorum lumen exstinctum: intercepta est sacrificii oblatio, defecit chrismatis sanctificatio, et parricidalibus manibus impiorum omnia se subtraxere mysteria». — His aliisque testimoniis astrui videtur, Sacramenta ecclesiastica, praecipue corporis et sanguinis, ordinationis et confirmationis, per haereticos non posse ministrari.
 
+Contra autem alii sentire videntur, quod ab haereticis etiam praecisis sacri ordines, sicut et baptismus, tradi valeant; nec ab haereticis redeuntes, qui illic ordinati sunt et baptizati, iterum ordinandi sunt, sicut nec baptizandi. Unde Augustinus[^3b]: «De haereticis etiam damnatis quod quidam dicunt: baptisma, quod accepit, non amittit qui recedit ab Ecclesia; ius dandi quod accepit amittit; multis modis apparet inaniter dici: primo, quia nulla ostenditur causa, cur ille qui illud baptisma amittere non potest, ius dandi possit amittere. Utrumque enim Sacramentum est, et quadam consecratione utrumque homini datur, illud, cum baptizatur, et istud, cum ordinatur. Ideo non licet in catholica Ecclesia utrumque iterari. Nam si quando ex ipsa parte venientes, etiam praepositi, pro bono pacis, correcto schismatis errore, suscepti sunt, et si visum est opus esse, ut eadem officia gererent, quae agebant; non sunt rursus ordinandi; sed sicut baptismus in eis, ita ordinatio mansit integra, quia in praecisione fuerat vitium, quod unitate pacis est correctum, non in Sacramentis, quae, ubicumque sunt, ipsa[^4b] sunt. Et cum ipsi expedire videtur Ecclesiae, ut praepositi eorum, venientes ad catholicam societatem, honores suos ibi non administrent; non eis tamen ipsa ordinationis Sacramenta detrahuntur, sed super eos manent; ideoque non eis manus imponitur, ne non homini, sed ipsi Sacramento fiat iniuria. Sicut autem in baptismo est ius, quod per eos dari possit; sic in ordinatione ius dandi est, utrumque quidem ad perniciem suam. Sed aliud est non habere, aliud perniciose habere, aliud salubriter habere». Idem[^5b]: «De his qui ab Ecclesiae unitate separati sunt, nulla iam quaestio, quin habeant et dare possint; sed perniciose habent pernicioseque dant, quia extra vinculum pacis sunt. Neutri Sacramento facienda est iniuria. Sicut non recte habet qui ab unitate recedit, sed tamen habet, et ideo redeunti non redditur; sic etiam non recte dat qui ab unitate recedit, sed tamen dat; et ideo, qui ab eo accipit, venienti ad unitatem non iteratur». Idem: «Aliud est non habere aliquid, aliud est non iure habere vel illicite usurpare. Non igitur ideo non sunt Sacramenta Christi et Ecclesiae, quia eis illicite utantur non modo haeretici, sed etiam omnes impii; sed illi corrigendi sunt et puniendi, illa autem agnoscenda et veneranda». Item Gregorius[^6b]: «Quod dicitis, ut qui ordinatus est iterum ordinetur, valde ridiculum est. Ut enim baptizatus semel iterum baptizari non debet; ita qui consecratus est semel in eodem ordine non valet iterum consecrari». — His aliisque auctoritatibus videtur asseri, in omnibus impiis, etiam in haereticis praecisis et damnatis, Christi Sacramenta permanere cum iure dandi; possunt enim dare, sed perniciose, et quibus dederint non sunt iterum ordinandi. Quae praemissis ex opposito obviare videntur.
 
-      dotia, nec vera                              esse     sacrificia ».               Idem etiam                               dicit:   corrigendi sunt et puniendi,  autem agnoscenda et                 ilia
+Haec autem quidam ita determinant. Dicunt enim, haereticos, accepta sacerdotali vel episcopali unctione, ab Ecclesia recedentes baptismi quidem dandi ius retinere, sed non habere facultatem tribuendi sacros ordines, vel consecrandi dominicum corpus, postquam praecisi sunt et damnati ab Ecclesia; sicut degradatus episcopus non habet potestatem largiendi sacros ordines, facultatem tamen baptizandi non amisit. Quod vero Augustinus ait intelligitur dictum de haereticis, qui non sententia Ecclesiae, sed pravitate sensus sui a fidei veritate ac doctrinae unitate divisi sunt; qui, licet tales sint, ius tamen ordinandi et consecrandi habent. Et qui ab eis ordinantur ante manifestam praecisionem, etiam si cum eis aperte exierint et sententia Ecclesiae damnati fuerint, tamen si redierint, iterum ordinandi non sunt. Et ubicumque legitur de ordinatis ab haereticis, quod servatis eis ordinibus ministrare valeant, vel iterum ordinandi non sint; de huiusmodi accipiendum dicunt. Nam postquam praecisi fuerint et damnati iudicio Ecclesiae, ius ordinandi et consecrandi eis detractum asserunt, ut degradatis, vel excommunicatis.
 
-      «   Per          crudelissimam                        vesaniam               in       Alexandrina                           sede    veneranda». Item Gregorius": « Quod dicilis, ut qui Gregonns.
-      omnium Sacramentorum lumen exstinctum                                                                       :   intercepta          ordinatus               est            iterum      ordinetur, valde ridiculum                                  est.
-      est sacrificii                     oblatio, defecit chrismatis sanctificatio, et                                                    Ut enim baptizalus semel iterum baptizari non debet;
-      parricidalibus nianibus                                impiorum omnia se subtraxere                                                 ita qui consecratus est semel in eodem ordine uon va-
+— Alii vero dicunt, Sacramenta ab haereticis et praecisis secundum formam Ecclesiae celebrata vera esse et rata, quia recedentes ab Ecclesia ius dandi et consecrandi non perdiderunt; et qui sic ab haereticis ordinantur, cum redeunt, iterum ordinandi non sunt. Quae vero ab haereticis aliter quam in Ecclesia fiunt, falsa sunt et inania; et qui a talibus ordinari videntur non munus, sed vulnus accipiunt. Et secundum hanc <!-- page 640 --> differentiam varie de his loquuntur doctores.
 
-      mysteria».                — His aliisque teslimoniis                                           astrui                 videtur,      let    iterum            consecrari ».                 — His             aliisque auctoritatibus
-      Sacramenta ecclesiastica                               ,
-                                                                  praecipue corporis et sangui-                                           videtur asseri, in omnibus impiis, eliam in haerelicis
-      nis, ordinationis et confirmalionis,                                               per haereticos non                               praecisis et                   damnatis, Christi Sacramenta                                      permanere
-      posse ministrari.                                                                                                                   cum iure              dandi              ;
-                                                                                                                                                                                        possunl enim dare, sed perniciose,
-                  Conlra aulem                      alii    sentire videntur,                            quod ab hae-                     et    quibus dederint                           non      sunt iterum ordinandi. Quae
-3-    reticis          etiam              praecisis              sacri         ordines , sicut et bapti-                                  praemissis ex opposito obviare videntur.
-°'smus, tradi valeant; nec ab haerelicis redeunles, qui                                                                                               Haec autem quidam ita determinant. Dicunt enim,                                                           jiodus 3.
-      iilic       ordiuali sunt et baptizati                               ,   iterum ordinandi sunt,                                     haereticos, accepta sacerdotali vel episcopali unctione, guncifone*''
-s.    sicut       nec baptizandi.                          Unde Augustinus ^ « De haere-                 :                                ab Ecclesia recedentes baptismi quidem dandi                                                               ius re-
-      ticis       etlam damnatis quod                          quidam dicunt: baplisma,                                                   tinere, sed non habere facultatem Iribuendi sacros or-
-      quod accepit, non amitlit qui recedit ab Ecclesia                                                                                   dines, vel               consecrandi                  do?ninicum co?-pus, postquam
-      iics dandi quod accepit amiltit; multis modis apparet                                                                               praecisi sunt et damnali ab Ecclesia; sicut degradatus
-      inaniter dici  primo, quia nulla ostenditur causa,cur
-                                     :                                                                                                    episcopus non habet potestatem largiendi sacros ordl-
-      ille qui illud baplisma amittere non polest, ius dandi                                                                              nes, facultatem lamen baptizandi non amisit. Quod vero
-      possit amiltere.Ulrumque enim Sacramentum est, et                                                                                   Augustinus                ait intelligitur dictum                            de haereticis, qui non
-      qnadara consecratione utrumque homini dalur, illud,                                                                                 sente?itia            Ecclesiae, sed                    pravitate                 sensus sui a                fidei
-      cum baptizatur, et islud, cum ordinatur. Ideo non li-                                                                               veritate ac doctrinae unitate divisi sunt; qui,licetta-
-      cet in catholica Ecclesia utrumque iterari. Nam si                                                                                  les sint, ius                  tamen ordinandi                      et        consecrandi                 habent.
-      quando ex ipsa parte venientes, etiam praepositi, pro                                                                               Et qui ab               eis            ordinanlur            ante        manifestam praecisio-
-      bono pacis, correcto schismatis errore, suscepti sunt,                                                                              nem     ,    etiam            si       cum eis aperte exierint et senlentia Ec-
-      et sivisum est opus esse, ut eadem officia gererent,                                                                                clesiaedamnati fuerinl, tamen si redierint, iterum or-
-      quae agebant; non sunt rursus ordinandi    sed sicut                                                    ;                           dinandi non sunt. Et ubicumque legitur de ordinatis
-      baptismus in eis,                            ita     ordinalio mansit inlegra, quia in                                              ab haereticis, quod servatis                                      eis        ordinibus ministrare
-      praecisione fuerat vitium,                                   quod          unitate                pacis esl cor-                    valeant, vel iterum ordinandi non sinl    de huiusmodi                                   ;
+— Quidam[^1c] vero dicunt, eadem Sacramenta ab haereticis praecisis posse celebrari, quae a catholicis, si ab illis forma Ecclesiae servetur; et ab eis celebrata vera esse et rata quantum ad se, quantum vero ad effectum falsa esse et inania et in his qui male tractant, et in his qui male suscipiunt; ideo irrita et falsa, quia quod promittunt et conferre creduntur non tribuunt; damnanda etiam dicuntur, quia illicite dantibus vel accipientibus sunt in iudicium; polluta etiam dicuntur, non quantum ad se, sed propter indignam haereticorum tractationem. Ideo Gregorius communionem Arii vocat exsecrationem, et Innocentius Bonosii ordinationem damnationem, non quod ita in se sint, sed quia male dantes vel accipientes tales facit; sicut etiam Hieronymus sacrificia eorum panem luctus vocat, non quantum ad se, sed quantum ad effectum. — Nonnulli[^2c] vero tradunt, illos haereticos, qui in Ecclesia ordinati sunt, ius ordinandi et consecrandi, etiam cum separati fuerint, habere; qui vero, in schismate vel haeresi positi, ab eis ordinati et inuncti fuerint, illo iure carent, ideoque, cum ordinare volunt, vulnus potius infigunt, quam gratiam conferant.
 
+### Cap. II. *De simonia, unde dicitur, et quid sit.*
 
+De simoniacis vero non est ambigendum, quin sint haeretici, qui tamen ante sententiam degradationis et ordinant et consecrant. Et licet simoniaci proprie dicantur qui instar Simonis[^3c] magi impretiabilem gratiam pretio conducere volunt, et qui pro ministerio sacro pretium recipiunt in modum Giezi Giezitae vocandi sunt; omnes tamen et dantes et accipientes simoniaci dicuntur, et utrique eadem sententia percelluntur.
 
-      rectum, non in &acranientis, quae, ubicumque sunt,                                                                                  accipiendnm dicunl. Nam postquam praecisi fuerint et
-      ipsa* sunt. El                       cum ipsi expedire videtur Ecciesiae, ut                                                        damnati iudicio Ecclesiae, ius ordinandi et consecrandi
-      praeposili               eorum, venientes ad calholicam socielatem,                                                                 eis     detraclum asserunt, ut degradatis, vel excommu-
-      honores suos                       ibi       non administrent; nou eis tamen ipsa                                                   nicatis.          —   Aiii             vero dicunt, Sacramenta ab haereticis et jioans i. et
-      ordinationis                   Sacramenta                   detrahuntur, sed super                                           eos    praecisis          secundum formam Ecclesiae celebrata vera '^™'
-      manent; ideoque non                                  eis    manus imponilur, ne non ho-                                             csse et rata, quia recedenles ab Ecclesia ius dandi et
-      mini, sed ipsi Sacramento                                    fial        iniuria. Sicut autem                                 in    consecrandi non perdiderunt                                   ;    et        qui sic ab haerelicis
-      baptismo est ius, quod per eos dari possll; sic in or-                                                                              ordinautur,cum redeunt, ilerum ordinandi non sunt.
-      dinatione ius dandi est,                                   utrumque quidem ad                                          perni-       Quae vero ab haereticis aliler quam in Ecclesia fiunt,
-      ciem suam. Sed aliud est ?io?i habere , aVnid peniiciose                                                                            faisa       sunt et inania; et qni a talibus ordinari videntur
-      liabe?-e,        aiiud salubriler habere ».                                      Idem ^            :    «       De his qui          non munus, sed vulnus accipiunt. Et secundum hanc
+### Cap. III. *De his qui a simoniacis ordinantur scienter, vel non.*
 
+Differt tamen inter eos qui ordinantur a simoniacis scienter, et eos qui ignoranter. «Qui enim scienter a simoniacis se permiserint consecrari, immo exsecrari, eorum consecratio omnino irrita est. Qui vero ordinantur a simoniacis, quos, cum ordinantur, nesciunt esse simoniacos, qui et tunc pro catholicis habentur, eorum ordinatio misericorditer sustinetur[^4c]».
 
+### Cap. IV. *De his qui dicunt, se emere corporalia et non spiritualia.*
 
+«Si vero aliqui obiecerint, se non consecrationes emere, sed res ipsas, quae ex consecratione proveniunt; penitus desipere probantur. Nam quisquis horum alterum vendit, sine quo alterum non habetur, neutrum vendere derelinquit[^5c]».
 
-              '    Comment.               in       Aggaeum         2   ,   15;         C.       Sic populus (61.),                               *    Edd. 6       ,     8 et Val.          addunt          vera,           sed        refragante eliam
-      ibid. ; seq. locus est eiusdem In                           Amos          •'i,   22; C. Odit Deus (62.),                            edilione Maurina originalis.
-      ibid.;      lei-tius      in        Oseam 6, 7; C. Ilti oljerunt (63.), ibid.                                                              5    Ibid., et C. cit. § 6, variatis nonnullis.                                       Respicitur Eph.
-              2    Epist. 80. (alias 60.)                    ad Analolium,                      c.   2   ;    C.       In Eccte-          4,3.        — Seq. locus eiusd.                       III.   de     Baptismo                 contra       Donatist.
-      sia (68.), ibid.; seq. locus est Epist.                                     136. (alias 125.) ad Leo-                               c.    10.    n.   13.
-      nem,        c.   5   ;   C.        Manifestum est (69.),                    ibid.                                                           s   Libr.       II.    Registr. indict. 10, epist. 46. (alias 22.) ad loan.
-              '    Libr.       II.       contra eplst. Parmeniani ,                      c.      1 3.        n. 28      ;   C.   Ouod     episc. Ravennat.                   ;    C. Sicut   semel (1 .)           ,   d.    68.
-      quidam           (97.),         ibid.
-                                                                                                                   —                                              .
+### Cap. V. *De distinctione simoniacorum.*
 
+Simoniacae autem haeresis tripartita est distinctio. Alii enim simoniace a simoniacis ordinantur; alii simoniace a non simoniacis; alii non simoniace a simoniacis. Unde Nicolaus Papa[^6c]: «Statuimus decretum de simoniaca tripartita haeresi, id est de simoniacis simoniace ordinatoribus vel ordinatis, et de simoniacis simoniace a non simoniacis, et de simoniacis non simoniace a simoniacis. Simoniaci simoniace ordinati vel ordinatores secundum canones a proprio gradu decidant; simoniaci etiam simoniace a non simoniacis ordinati similiter ab officio removeantur; simoniacos vero non simoniace a simoniacis ordinatos misericorditer per manus impositionem pro temporis necessitate in officio permittimus permanere». «Quod intelligendum est de his qui ordinantur a simoniacis ignorantes, eos esse simoniacos. Hos facit simoniacos non reatus criminis, sed ordinatio simoniaci».
 
+### Cap. VI. *De his qui violenter ab haereticis vel simoniacis ordinantur.*
 
+Similiter, cum decernit Alexander Papa[^7c], «simoniacos omnino damnandos ac deponendos», subintelligendum est: nisi violenter quis attractus fuerit. «De his enim et a quibuslibet haereticis violenter ordinatis dicit Innocentius, quod possunt habere aliquem colorem excusationis, si statim discedunt ab eis et pessimo eorum conciliabulo renuntiant». De aetate ordinandorum ita decrevit Nicolaus Papa[^8c]: «Sacri, inquit, canones sanxerunt, ut subdiaconus non ordinetur ante quatuordecim annos, nec diaconus ante viginti quinque, nec presbyter ante triginta. <!-- page 641 --> Deinde, si dignus fuerit, ad episcopatum eligi potest»; quod nos etiam pari modo servare iubemus. Item Fabianus: «Si quis triginta aetatis non impleverit annos, nullo modo presbyter ordinetur, etsi valde sit dignus»; «quia et ipse Dominus triginta annorum baptizatus est, et sic coepit docere».
 
-                640                                                                              SENTENTIARUM LIB. IV.
-
- Modos lo- differentiam                varie de his loquuntur doctores.                                — Qui-                                                         Cap. IV.
-
-yaat
-       ^ ''
-                dam     '
-                             vero dicunt ,        eadem Sacramenta ab                             haereticis
-
-                praecisis posse celebrari,                      quae a calholicis, si ab                      illis                     De his qui dicunt, se emere corporalia
-                forma Ecclesiae servelur;                       et ab eis celebrala vera esse                                                     et non spiritualia.
-
-                et rata quantum ad se, quantum                              vero ad effectum falsa
-                esse el inania et               in his qui             male Iractant,                 et in    his              «   Si    vero aliqui obiecerint, se non consecrationes
-                qui raale suscipiunt;                 ideo       irrila et falsa,                quia quod               emere, sed res ipsas, quae ex consecratione prove-
-                promittunt           et   conferre creduntur                      non tribuunt            ;   da-        niunt; penitus desipere probantur. Nam quisquis iiorum Dni
-                ninanda eliam dicuntiir, quia ilhcite dantibus vel acci-                                                 alterum vendit, sine quo allerum non habetur, neutrum
-                pieutibus sunt in iudicium     pollula etiam dicuntur,
-                                                                  ;
-                                                                                                                         vendere derelinquit ^ »
-                non quantum ad se, sed propler indignam haeretico-
-                rum tractalionem.               Ideo Gregorius                    communionem Arii                                                                    Cap. V.
-                vocat exsecrationem, et Innocentius Bonosii ordinatio-
-                nem damnationem^ non quod ita in se sint, sed quia
-                                                                                                                                                 De distinctione simoniacorum.
-                male danles vel accipienles tales facit; sicut etiam Hie-
-                ronymus sacriflcia eorum panem luctus vocat, non
-  Modas 6. quantum ad se, sed quantum                                 ad effectum.           — Nonnulli             ^
-                                                                                                                                Simoniacae autem haeresis triparlita est dislinclio DdI
-siincitoe^" vero tradunl, illos haereticos, qui in Ecclesia ordinati                                                     Alii   enim simoniace a simoniacis ordinantur; alii simo-
-            sunt, ius ordinandi et consecrandi, etiam cum separali                                                       niace a non simoniacis;                        alii       non simoniace a simonia-
-                fueriut, habere; qui vero, in schismate vel haeresi po-                                                  cis.   Unde Nieolaus                   Papa**:            «Staluimus decrelum de
-                sili,       ab   eis ordinati et inuncli fuerint, ilio iure carent,                                      simoniaca triparlila haercsi, id esl dc simoniacis simo-
-                ideoque, cum ordinare volunt, vulnus potius infigunt,                                                    niace ordinatoribus vei ordinalis, el de simoniacis                                                        si-
-
-                quam gratiam couferant.                                                                                  mouiace a non simoniacis, et de simoniacis non simo-
-                                                                                                                         niace a         simoniacis.            Simoniaci simoniaee ordinati vel
-                                                                                                                         ordinatores         secundum canones a proprio gradu deci-
-                                                       Cap.           II.
-                                                                                                                         dant; simoniaci etiam simoniac^ a non simoniacis or-
-                                                                                                                         dinali         similiter         ab    oiBcio             removeantur                   ;    simoniacos
-                                 Be simonia, unde dicitur, et quid sit.                                                  vero non simoniace a                         simoniacis ordinalos                                misericor-
-                                                                                                                         diter per  manus impositionem pro temporis necessilate
-                        De simoniacis vero non est ambigendum, quin sint                                                 in officio permillimus permanere ». « Quod intelligen-
-
-                haeretici, qui    tamen ante sententiam degradalionis et                                                 dum est de his                   qui    ordinanlur a simoniacis ignoran-
-                ordinant et consecrant. Et licet simoniaci proprie                                                 di-   tes,   eos esse simoniacos. Hos facit simoniacos non rea-
-                cantur qui instar Simonis ' magi impreliabilem gratiam                                                   tus criminis, sed ordinatio simoniaci».
-                pretio conducere                volunt, et qui                   pro minislerio sacro
-                pretium recipiunt                in   modum                 Giczi    Giezitae           vocaudi                                                       Cap. VI.
-Dubium2.3. sunt;      omues tamen et dantes et accipientes simoniaci
-                dicuntur, et ulrique eadem sentenlia percellunlur.                                                                       De his qui violenter ab haereticis vel
-                                                                                                                                                         simoniacis ordinantur.
-                                                       Cap.        III.
-
-                                                                                                                                Simililer,          cum decernit Alexander Papa ',                                             « sirao-
-
-                        De his qui a simoniacis ordinantur scienter,                                                     niacos omnino                   damnandos ac deponendos,                                         subintelli-
-
-                                                       vel non.                                                          gendum est: nisi violenter quis altraclus fueril. De his
-                                                                                                                         enim       et a quibuslibel haereticis violenler ordinalis di-
-
-                        Differt tamen inter eos qui                         ordinantur a simoniacis                      cit    Innocentius, quod possunt habere aliquem colorem
-                scienter, et eos qui ignoranter.                             «   Qui enim scienler a                     excusalionis,             si    statim discedunt ab eis et pessimo eo-
-                simoniacis se permiserint consecrari,                                 immo exsecrari,                    rum        conciliahulo renunliant».
- DubiuLD   4.   eorum consecratio omnino irrila est. Qui vero ordinan-                                                          De aelate ordinandorum ita decrevit Nicolaus Pa-
-                liu'    a simoniacis, quos,                 cum ordinanlur, nesciunt esse                                pa*:       «   Sacri, inquit, canones sanxerunt, ut subdiaco-
-                simoniacos, qui et tunc pro catholicis habentur, eorum                                                   nus non ordinetur anle qualuordecim annos, nec dia-
-                ordinatio misericorditer sustinetur ^ ».                                                                 conus ante viginti quinque, nec presbyler anle triginla.
-
-
-
-
-                        1    Cfr.   Gralian. super C.           cit. Quod quidam, § 5. 7.                                       8   Can. In singulis             gradibus              (2.) ,      d.   77   ;       et   verbotenus
-                        2 Cfr.      Gratian. siiper C.          Per illicitam (3-.), C. 9. q.                 1.         apud Hug.         11.    de     Sacram.       p.   111.       c.    21.    Seq. locus est C. Si
-                Pro inuncti Vat.          et   plurimae edd. iuncti,                 et    pro infigunt edd.             quis triginta           (1.),    d.   78. Ultima verba leguniur in C.                                  Presby-
-
-                2, i, 6 et Vat. infligunt.                                                                               ter (4.),       ibid. ,    ubi respicitur Luc. 3, 21. soqq.                                 — Verba De
-                        3 Cfr.      Act. 8,    48 seqq.     ;   de Giezi IV. Reg. S, 2S. seqq.                           aetate ordinandorum...                 Papa codd. et edd., excepta Vat., po-
-                        *    Can. Si qui a sinioniacis (108.), C.                     1.    q.   1.                      nunt ut rubricam supra lextum                         ,
-                                                                                                                                                                                   quem incipiunt sic                     :   De aetale
-                        s                                                                                                sacri canones , inquit etc. Sed                                   rubrica non invenitur inter
-                             Can. Si quis obiecerit (7.), C.                 I. q.   3; in quo et in ori-                                                                      ista
-
-                ginali       pro vendere melius invenditum.                                                              capilula ab ipso Magistro ordinala                            ;    unde exemplum Valicanae
-                        ^    Can. Statuimus decretum (107.), C.                       1.    q.   1.    Seq. locus        seculi     sumus.        — Circa aelalem ordinandorum novum                                           ius con-
-
-                et Gratian.         super hunc can.                                                                      stilutum est a Concilio Trident. (Sess. XXlll. de Ueform.), quod
-                        '    Locus collectus ex        C.       Erga simoniacos (MO.), ibid.                        et   nemo anle annum 22. ad subdiaconatum, ante an. 23. ad dia-
-                C. Constal multos (111.), ibid., et Gratian. ibid.                                                       conatum, ante             an. 25.      ad prcsbyleratum promoveatur.
-                                                                                                                                                   .                                                        :
-
-
-
-
-                                                                               DIST. XXV. ART.           I.       QUAEST.            I.                                                               641
-
-   Deiiide,         si   dignus     fiieril,           ad episcopatum eligi potest »;               nullo              modo presbyter ordinetur, etsi valde sit dignus»;
-   quod nos etiam                  paii   modo servare iubemus. Ilem Fa-                             «    quia et ipse Dominus Iriginta annoruni baptizatus est,
-   biainis:         «    Si quis triginta aelatis                non impleverit annos,              et sic              coepit docere »
+---
 
 ## English
 
-[Translation pending]
+### DISTINCTION XXV.
+
+### Chapter I. *On those ordained by heretics.*
+
+It is also wont to be asked whether heretics who have been cut off from the Church and condemned can hand on the sacred orders, and whether those ordained by them, when they return to the unity of the Church, ought to be reordained. — This question, perplexing and almost insoluble, is made so by the words of the doctors, who seem to disagree greatly. — For certain ones seem to hand down that heretics cannot give the sacred orders, nor can those who seem to be ordained by them receive grace. For Innocent[^1] says: «The clerics of the Arians are not to be received with the dignity of the priesthood or of any ministry; to whom he permits only baptism to be valid, which is received in the name of the Father and of the Son and of the Holy Spirit». He says also that they «cannot give the Holy Spirit, whom they have lost»; and that «those ordained by heretics have a wounded head; and that he who has lost honor cannot give honor, nor did that one receive anything, since in the giver there was nothing that the other could receive». He also hands down that «to those coming from heretics only lay communion is to be granted by the imposition of hands, nor is any of them to be subrogated into clerical honor, even the least». Gregory[^2] also says that the consecration of the Arians is sacrilegious, when communion is received from their hand. Cyprian also says that all things whatsoever the heretics do are carnal, empty, and sacrilegious, and that their «altars are false and unlawful, their priesthoods and sacrifices sacrilegious», who «after the manner of apes, which, though they are not men, imitate the human form, claim for themselves the face and authority of the Catholic Church, though they themselves are not in the Church»; and though they are sacrilegious, they administer the priesthood and set up <!-- page 639 --> an altar, though a sacrifice cannot be offered there, where the Holy Spirit is not; nor can the Lord be of profit to anyone through his prayers and supplications, who has himself violated God.
+
+Jerome[^1b] also asserts that «all things which are offered by heretics are defiled in the sight of the Lord; because, although they may seem holy in their own appearance, yet, because they have been touched by him who is polluted, all are polluted». The same: «God hates the sacrifices of heretics and casts them from himself; and as often as they are gathered in his name, he detests their stench and closes his nostrils». The same: «They offer sacrilegious bread» etc. Leo[^2b] also testifies that «outside the Church neither are the priesthoods valid, nor the sacrifices true». The same also says: «Through a most cruel madness in the see of Alexandria the light of all the Sacraments has been extinguished: the oblation of the sacrifice has been cut off, the sanctification of the chrism has failed, and by the parricidal hands of the impious all the mysteries have withdrawn themselves». — By these and other testimonies it seems to be established that the ecclesiastical Sacraments, especially of the body and blood, of ordination and of confirmation, cannot be ministered through heretics.
+
+But on the contrary others seem to hold that by heretics, even those cut off, the sacred orders, like baptism also, can be handed on; and that those returning from the heretics, who were ordained and baptized there, are not to be ordained again, just as they are not to be baptized again. Hence Augustine[^3b]: «As to what some say concerning heretics even condemned: that the baptism which he received he does not lose who withdraws from the Church, but the right of giving which he received he does lose; it appears in many ways to be said vainly: first, because no cause is shown why he who cannot lose that baptism should be able to lose the right of giving it. For each is a Sacrament, and by a certain consecration each is given to a man, the one when he is baptized, and the other when he is ordained. Therefore it is not lawful in the Catholic Church to repeat either. For if at any time those coming from that side, even prelates, for the good of peace, the error of schism being corrected, have been received, and if it seemed needful that they should carry out the same offices which they were performing; they are not to be ordained again; but as baptism remained whole in them, so did ordination, because the fault had been in the cutting-off, which is corrected by the unity of peace, not in the Sacraments, which, wherever they are, are themselves[^4b]. And when it seems expedient to the Church that their prelates, coming to the Catholic society, should not there administer their honors; yet the Sacraments of ordination are not taken away from them, but remain upon them; and therefore the hand is not laid upon them, lest an injury be done not to the man, but to the Sacrament itself. But as in baptism there is a right, whereby it can be given through them; so in ordination there is a right of giving, each indeed to their own ruin. But it is one thing not to have, another to have perniciously, another to have wholesomely». The same[^5b]: «Concerning those who are separated from the unity of the Church there is now no question that they both have and can give; but they have perniciously and give perniciously, because they are outside the bond of peace. To neither Sacrament is injury to be done. As he who withdraws from unity does not rightly have, yet he has, and therefore it is not restored to him when he returns; so also he who withdraws from unity does not rightly give, yet he gives; and therefore, to him who receives from him, when he comes to unity it is not repeated». The same: «It is one thing not to have anything, another not to have it by right or to usurp it unlawfully. Therefore they are not for that reason no Sacraments of Christ and of the Church, because not only heretics but also all the impious use them unlawfully; but these men are to be corrected and punished, while those things are to be acknowledged and venerated». Likewise Gregory[^6b]: «What you say, that he who has been ordained should be ordained again, is exceedingly ridiculous. For as one baptized once for all ought not to be baptized again; so he who has been consecrated once in the same order cannot be consecrated again». — By these and other authorities it seems to be asserted that in all the impious, even in heretics cut off and condemned, the Sacraments of Christ remain with the right of giving; for they can give, but perniciously, and those to whom they have given are not to be ordained again. Which things seem to run counter to the foregoing from the opposite side.
+
+But some determine these matters thus. For they say that heretics, having received the priestly or episcopal unction, when they withdraw from the Church do indeed retain the right of giving baptism, but do not have the faculty of conferring the sacred orders, or of consecrating the dominical body, after they have been cut off and condemned by the Church; just as a degraded bishop does not have the power of bestowing the sacred orders, yet has not lost the faculty of baptizing. And what Augustine says is understood to be said of heretics who are divided from the truth of the faith and from the unity of doctrine not by the sentence of the Church, but by the depravity of their own understanding; who, although they are such, yet have the right of ordaining and consecrating. And those who are ordained by them before the manifest cutting-off, even if they have openly gone out with them and have been condemned by the sentence of the Church, nevertheless, if they return, are not to be ordained again. And wherever it is read concerning those ordained by heretics, that with those orders preserved they can minister, or are not to be ordained again; it is to be taken of such as these. For after they have been cut off and condemned by the judgment of the Church, they assert that the right of ordaining and consecrating is withdrawn from them, as from the degraded or the excommunicate.
+
+— But others say that the Sacraments celebrated by heretics and by those cut off according to the form of the Church are true and valid, because in withdrawing from the Church they have not lost the right of giving and consecrating; and those who are thus ordained by heretics, when they return, are not to be ordained again. But those things which are done by heretics otherwise than in the Church are false and empty; and those who seem to be ordained by such receive not a gift, but a wound. And according to this <!-- page 640 --> difference the doctors speak variously concerning these matters.
+
+— Some[^1c] say that the same Sacraments can be celebrated by heretics who have been cut off, which are celebrated by Catholics, if the form of the Church be preserved by them; and that, celebrated by them, they are true and valid as regards themselves, but as regards their effect false and empty, both in those who administer wickedly and in those who receive wickedly; therefore invalid and false, because what they promise and are believed to confer they do not bestow; they are also said to be condemnable, because they are unto judgment for those who unlawfully give or receive; they are also said to be polluted, not as regards themselves, but on account of the unworthy handling of the heretics. Therefore Gregory calls the communion of Arius an execration, and Innocent calls the ordination of Bonosus a condemnation, not that they are so in themselves, but because it makes wicked those who wickedly give or receive; just as Jerome also calls their sacrifices the bread of mourning, not as regards themselves, but as regards their effect. — Some[^2c] however hand down that those heretics who were ordained in the Church have the right of ordaining and consecrating, even when they have been separated; but those who, placed in schism or heresy, have been ordained and anointed by them, lack that right, and therefore, when they wish to ordain, they inflict a wound rather than confer grace.
+
+### Chapter II. *On simony, whence it is named, and what it is.*
+
+But concerning simoniacs there is no doubt that they are heretics, who nevertheless before the sentence of degradation both ordain and consecrate. And although those are properly called simoniacs who, after the manner of Simon[^3c] the magician, wish to purchase for a price the inestimable grace, and those who receive a price for a sacred ministry are to be called after the manner of Giezi the Giezite; yet all, both those who give and those who receive, are called simoniacs, and both are struck with the same sentence.
+
+### Chapter III. *On those who are ordained by simoniacs knowingly, or not.*
+
+Yet there is a difference between those who are ordained by simoniacs knowingly, and those who are ordained unknowingly. «For those who have knowingly permitted themselves to be consecrated by simoniacs, nay rather execrated, their consecration is wholly invalid. But those who are ordained by simoniacs, whom, when they are ordained, they do not know to be simoniacs, who at that time also are held as Catholics, their ordination is mercifully upheld[^4c]».
+
+### Chapter IV. *On those who say that they buy corporeal and not spiritual things.*
+
+«But if any object that they do not buy consecrations, but the very things which come from consecration; they are proved to be utterly out of their senses. For whoever of these sells the one, without which the other is not had, leaves neither unsold[^5c]».
+
+### Chapter V. *On the distinction of simoniacs.*
+
+But the distinction of the simoniacal heresy is threefold. For some are ordained simoniacally by simoniacs; others simoniacally by non-simoniacs; others non-simoniacally by simoniacs. Hence Pope Nicholas[^6c]: «We have established a decree concerning the threefold simoniacal heresy, that is, concerning simoniacs who ordain or are ordained simoniacally, and concerning simoniacs ordained simoniacally by non-simoniacs, and concerning simoniacs ordained non-simoniacally by simoniacs. Let simoniacs simoniacally ordained, or the ordainers, fall from their proper grade according to the canons; let simoniacs also who have been ordained simoniacally by non-simoniacs likewise be removed from office; but simoniacs ordained non-simoniacally by simoniacs we mercifully permit to remain in office through the imposition of hands, for the necessity of the time». «Which is to be understood of those who are ordained by simoniacs without knowing that they are simoniacs. It is not the guilt of the crime that makes these simoniacs, but the ordination of the simoniac».
+
+### Chapter VI. *On those who are ordained by force by heretics or simoniacs.*
+
+Likewise, when Pope Alexander[^7c] decrees «that simoniacs are wholly to be condemned and deposed», it is to be understood by implication: unless someone has been drawn in by force. «For concerning these, and those ordained by force by any heretics whatsoever, Innocent says that they can have some color of excuse, if they immediately depart from them and renounce their most wicked conventicle». Concerning the age of those to be ordained Pope Nicholas[^8c] decreed thus: «The sacred canons, he says, have ordained that a subdeacon be not ordained before fourteen years, nor a deacon before twenty-five, nor a presbyter before thirty. <!-- page 641 --> Then, if he be worthy, he can be chosen to the episcopate»; which we also command to be observed in like manner. Likewise Fabian: «If anyone has not completed thirty years of age, let him in no way be ordained presbyter, even if he be very worthy»; «because the Lord himself also was baptized at thirty years, and so began to teach».
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+[^1]: **La.** Can. *Arianos* (73.), C. 1. q. 1. Seq. locus est C. *Qui perfectionem* (17.), ibid.; tertius C. *Ventum est* (18.), ibid.; quartus, ibid. § 2.
+    **En.** Canon *Arianos* (73), C. 1, q. 1. The next passage is the Canon *Qui perfectionem* (17), ibid.; the third, the Canon *Ventum est* (18), ibid.; the fourth, ibid. § 2.
+
+[^2]: **La.** Libr. III. *Dialog.* c. 31; C. *Superveniente* (72.), ibid.; locus Cypriani est Epist. ad Magnum de baptizandis Novatianis, n. 1; et Gratian. super C. *Manus impositio* (74.), ibid., et deinde Cyprian., Epist. ad Iubaianum (de haereticis baptizand.) n. 2; uterque in C. *Si quis, inquit* (70.), ibid. Pro seqq. cfr. eiusd. Epist. ad Magnum, n. 9. seqq.
+    **En.** Book III of the *Dialogues*, c. 31; the Canon *Superveniente* (72), ibid.; the passage of Cyprian is his *Letter to Magnus*, on the baptizing of the Novatianists, n. 1; and Gratian on the Canon *Manus impositio* (74), ibid., and then Cyprian, *Letter to Iubaianus* (on the baptizing of heretics) n. 2; both in the Canon *Si quis, inquit* (70), ibid. For what follows cf. the same author's *Letter to Magnus*, n. 9 ff.
+
+[^1b]: **La.** Comment. in Aggaeum 2, 15; C. *Sic populus* (61.), ibid.; seq. locus est eiusdem In Amos 5, 22; C. *Odit Deus* (62.), ibid.; tertius in Oseam 6, 7; C. *Illi offerunt* (63.), ibid.
+    **En.** Commentary on Haggai 2:15; the Canon *Sic populus* (61), ibid.; the next passage is the same author's *On Amos* 5:22; the Canon *Odit Deus* (62), ibid.; the third, *on Hosea* 6:7; the Canon *Illi offerunt* (63), ibid.
+
+[^2b]: **La.** Epist. 80. (alias 60.) ad Anatolium, c. 2; C. *In Ecclesia* (68.), ibid.; seq. locus est Epist. 156. (alias 125.) ad Leonem, c. 5; C. *Manifestum est* (69.), ibid.
+    **En.** Letter 80 (otherwise 60) to Anatolius, c. 2; the Canon *In Ecclesia* (68), ibid.; the next passage is Letter 156 (otherwise 125) to Leo, c. 5; the Canon *Manifestum est* (69), ibid.
+
+[^3b]: **La.** Libr. II. contra epist. Parmeniani, c. 13. n. 28; C. *Quod quidam* (97.), ibid.
+    **En.** Book II *Against the Letter of Parmenianus*, c. 13, n. 28; the Canon *Quod quidam* (97), ibid.
+
+[^4b]: **La.** Edd. 6, 8 et Val. addunt *vera*, sed refragante etiam editione Maurina originalis.
+    **En.** Editions 6, 8 and the Vatican add *vera*, but with the Maurist edition of the original also opposing.
+
+[^5b]: **La.** Ibid., et C. cit. § 6, variatis nonnullis. Respicitur Eph. 4, 3. — Seq. locus eiusd. III. *de Baptismo* contra Donatist. c. 10. n. 13.
+    **En.** Ibid., and in the cited Canon § 6, with some variations. Ephesians 4:3 is referred to. — The next passage is the same author's Book III *On Baptism*, against the Donatists, c. 10, n. 13.
+
+[^6b]: **La.** Libr. II. Registr. indict. 10, epist. 46. (alias 22.) ad Ioan. episc. Ravennat.; C. *Sicut semel* (1.), d. 68.
+    **En.** Book II of the *Register*, indiction 10, letter 46 (otherwise 22) to John, bishop of Ravenna; the Canon *Sicut semel* (1), d. 68.
+
+[^1c]: **La.** Cfr. Gratian. super C. cit. *Quod quidam*, § 5. 7.
+    **En.** Cf. Gratian on the cited Canon *Quod quidam*, § 5, 7.
+
+[^2c]: **La.** Cfr. Gratian. super C. *Per illicitam* (3.), C. 9. q. 1. — Pro *inuncti* Vat. et plurimae edd. *iuncti,* et pro *infigunt* edd. 2, 4, 6 et Vat. *infligunt.*
+    **En.** Cf. Gratian on the Canon *Per illicitam* (3), C. 9, q. 1. — For *inuncti* the Vatican and most editions read *iuncti,* and for *infigunt* editions 2, 4, 6 and the Vatican read *infligunt.*
+
+[^3c]: **La.** Cfr. Act. 8, 18 seqq.; de Giezi IV. Reg. 5, 25. seqq.
+    **En.** Cf. Acts 8:18 ff.; concerning Giezi, IV Kings [2 Kings] 5:25 ff.
+
+[^4c]: **La.** Can. *Si qui a simoniacis* (108.), C. 1. q. 1.
+    **En.** Canon *Si qui a simoniacis* (108), C. 1, q. 1.
+
+[^5c]: **La.** Can. *Si quis obiecerit* (7.), C. 1. q. 3; in quo et in originali pro *vendere* melius *invenditum.*
+    **En.** Canon *Si quis obiecerit* (7), C. 1, q. 3; in which, and in the original, for *vendere* the reading *invenditum* is better.
+
+[^6c]: **La.** Can. *Statuimus decretum* (107.), C. 1. q. 1. Seq. locus et Gratian. super hunc can.
+    **En.** Canon *Statuimus decretum* (107), C. 1, q. 1. The next passage also, and Gratian on this canon.
+
+[^7c]: **La.** Locus collectus ex C. *Erga simoniacos* (110.), ibid. et C. *Constat multos* (111.), ibid., et Gratian. ibid.
+    **En.** A passage gathered from the Canon *Erga simoniacos* (110), ibid., and the Canon *Constat multos* (111), ibid., and Gratian, ibid.
+
+[^8c]: **La.** Can. *In singulis gradibus* (2.), d. 77; et verbotenus apud Hug. II. *de Sacram.* p. 11. c. 21. Seq. locus est C. *Si quis triginta* (1.), d. 78. Ultima verba leguntur in C. *Presbyter* (4.), ibid., ubi respicitur Luc. 3, 21. seqq. — Verba *De aetate ordinandorum... Papa* codd. et edd., excepta Vat., ponunt ut rubricam supra textum, quem incipiunt sic: *De aetate sacri canones,* inquit etc. Sed rubrica non invenitur inter ista capitula ab ipso Magistro ordinata; unde exemplum Vaticanae secuti sumus. — Circa aetatem ordinandorum novum ius constitutum est a Concilio Trident. (Sess. XXIII. de Reform.), quod nemo ante annum 22. ad subdiaconatum, ante an. 23. ad diaconatum, ante an. 25. ad presbyteratum promoveatur.
+    **En.** Canon *In singulis gradibus* (2), d. 77; and word for word in Hugh, Book II *On the Sacraments*, part 11, c. 21. The next passage is the Canon *Si quis triginta* (1), d. 78. The last words are read in the Canon *Presbyter* (4), ibid., where Luke 3:21 ff. is referred to. — The words *De aetate ordinandorum... Papa* the manuscripts and editions, except the Vatican, place as a rubric above the text, which they begin thus: *De aetate sacri canones,* he says, etc. But the rubric is not found among these chapters as arranged by the Master himself; hence we have followed the exemplar of the Vatican. — Concerning the age of those to be ordained a new law was established by the Council of Trent (Session XXIII on Reform), that no one be promoted before his 22nd year to the subdiaconate, before the 23rd to the diaconate, before the 25th to the presbyterate.
+
+---
 
 ## Notes
 
-[Notes pending]
+- **Provenance.** Latin re-set from the Quaracchi Vol. IV two-column page images at 450 dpi (`colcrop` bands, split 2120 for the left column / 1780 for the right; vol4 offset pdf = printed + 20). The IA djvu OCR (raw lines 69353–69540) was used only as a spelling base and for footnote-marker spacing; the two-column cascade merged the columns out of reading order, so the body was reflowed column-by-column from the bands. Raw range: `DISTINCTIO XXV.` (L69353) through the last littera line on p.641, just before `COMMENTARIUS IN DISTINCTIONEM XXV.` (OCR `C0MMENTARIU8`, L69541).
+
+- **Page layout.** The littera opens mid-p.638 (in the lower half of the page, after the close of d.24's commentary and its Dub. VI) and runs left-column-then-right-column across pp.638–641. On p.638 it occupies only the lower portion of both columns; pp.639–640 are entirely littera; on p.641 it fills only the top few lines of each column before `COMMENTARIUS IN DISTINCTIONEM XXV.` begins. The `DISTINCTIO XXV.` head is printed at the top of the right column of p.638. Chapter divisions (Cap. I–VI) are the Master's own. No **DUBIA CIRCA LITTERAM** is included (per scope); there is no scholion in a littera.
+
+- **Apparatus source and numbering.** The Master's apparatus is printed under the heading **NOTAE AD LIBR. SENTENTIARUM.** (visible in the right footer of p.638), distinct from the d.24 commentary's own footer notes (p.638 notes 1–5, which belong to the preceding chunk and are *not* claimed here). Quaracchi restarts the littera's footnote numbering on each printed page: p.638 = notes 1–2 (rendered `[^1]`, `[^2]`); p.639 = notes 1–6 (`[^1b]`–`[^6b]`); p.640 = notes 1–8 (`[^1c]`–`[^8c]`). p.641 carries no littera apparatus. Total: 16 entries, all anchored to markers in this body.
+
+- **Editorial marginalia trimmed.** The printed running side-notes (`Sacrum sumitur tripliciter.`, `Innocentius.`, `Gregorius.`, `Cyprianus.`, `Augustinus.`, `Modus loquendi 1. et falsus` … `Modus 4. et verus`, `Dubium 2. 3.`, `Dubium 4.`, etc.) are the Quaracchi editors' marginal glosses, not part of Lombard's text, and are omitted.
+
+- **[?] flags.**
+  - `[^2b]` (p.639 n.2): the Leo letter number reads **156** on the 450 dpi band (the djvu OCR gave *136*); rendered as `156. (alias 125.)` per the band, but the digit (136 vs 156) is not fully certain at this resolution. `[?]`
+  - `[^8c]` (p.640 n.8): the Hugh of St. Victor locus reads `p. 11. c. 21` on the band (djvu OCR `p. 111`); rendered `part 11` but the part-number is an ambiguous OCR spot. `[?]`

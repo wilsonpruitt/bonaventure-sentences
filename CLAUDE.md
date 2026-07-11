@@ -335,6 +335,8 @@ Flag (don't silently "fix") any genuinely ambiguous readings.
 
 **All three passes are blockers for the next decade of distinctions.** Don't dispatch d.31+ translation agents until the d.21–d.30 polish pass closes; same for d.41+ vs d.31–d.40, etc.
 
+**4. Disk cleanup (do this last, once the gate closes).** The 450 dpi page images (`raw/vision/vol{N}/p-*.png`) and colcrop bands (`/tmp/colcrop/*`) are large (~4–6 MB per page) and **fully regenerable** from the gitignored PDF via `tools/extract-pages.py` + `tools/colcrop.py`. After the decade gate passes, delete them to reclaim space: `rm -f raw/vision/vol4/*.png /tmp/colcrop/*` (they are never committed — `raw/vision/` is gitignored). Re-extract on demand when the next decade's 600 dpi flag-resolution pass or any later re-verify needs them.
+
 ## Build and deploy
 
 ```bash

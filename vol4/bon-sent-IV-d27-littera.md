@@ -4,340 +4,214 @@ volume: 4
 book: 4
 distinctio: 27
 type: littera
+title_la: "De consensu matrimoniali"
+title_en: "On marriage by consent"
+printed_pages: [671, 672, 673, 674]
+pdf_pages: [691, 692, 693, 694]
 line_start: 72761
-line_end: 73078
-word_count_latin: 2819
-transcription_status: "auto-chunked 2026-06-16"
+line_end: 73070
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 671–674"
+has_scholion: false
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR (raw lines 72761–73070) with PDF column-band authority (split 2120 L / 1780 R) on the cascade-fragmented two-column body + footers (pp. 671–674), fresh literal English, full apparatus from the NOTAE AD LIBR. SENTENTIARUM page-footers (1 entry p.671 + 4 p.672 + 4 p.673 + 5 p.674 = 14 entries), Master's Caps I–X, no scholion, one [?] flag (p.671 [^1] canon incipit) (2026-07-05)"
 format_version: 1
 ---
 
-# bon-sent-IV-d27-littera
+# Distinctio XXVII — Littera Magistri
+## *De consensu matrimoniali*
+
+---
 
 ## Latin
+<!-- page 671 -->
 
-DISTmCTIO XXVII.
+### Cap. I. *Quae sint consideranda in coniugio.*
 
-                                                          Cap.       I.                                                                                                                 Cap.           II.
+Post hoc advertendum est, quid sit coniugium, et quae sit *efficiens causa* coniugii, et causa, *propter quam* contrahi debeat, et quae sint *bona coniugii,* et quomodo per ea *excusetur coitus* carnalis, et quae sint *legitimae personae* ad matrimonium. Sunt et alia plura in matrimonio consideranda, quae sub compendio perstringemus.
 
+### Cap. II. *Quid sit coniugium.*
 
+« Sunt igitur nuptiae vel matrimonium viri mulieris coniunctio maritalis inter legitimas personas, individuam vitae consuetudinem retinens[^1] ». « Ad individuam consuetudinem pertinet, quod absque consensu alterius neuter continentiam profiteri potest, vel orationi vacare »; et quod inter eos, dum vivunt, vinculum coniugale permanet, ut alii se copulare non li-
 
+<!-- page 672 -->
 
-                        Qiiae sint consideranda in coniugio.                                                                                                           Quid sit coniugium.
-
-             Post hoc advertendum                                    esl,           quid     sit       couiiigium,                         «   Sunt igitur nuptiae vel matrimoniimi                                                    viri mulie- DQWam      i.
-
-     et     quae sll              e/ficiens         causa coniugii, et causa, propter                                           risqiie              coniunctio              maritalis inter                            legitimas personas,
-     quam conlrahi debeat, et quae sint hona coniugii, et                                                                       individiiam vilae consueludinem                                                    retinens'».             «Ad in- Canon.
-     qiioraodo per ea excusetur coilus canialis, et quae sint                                                                   dividuara               consuetudinem pertinet, quod absque con-
-     kgilimae personae ad matrimonium. Sunl et alia plura                                                                       sensu alterius neuter conlinentiam profiteri polest, vel
-     in     matrimonio consideranda, quae sub corapendio per-                                                                   orationi vacare»   ct quod inter eos, dum vivunt, vin-
-                                                                                                                                                                       ;
-
+ceat; et ut invicem alter alteri exhibeat quod quisque sibi. Hac autem descriptione legitimorum et fidelium tantum matrimonium includitur.
 
+### Cap. III. *De consensu, qui efficit coniugium.*
 
-     slringemus.                                                                                                                culum coniugale permanet, ut alii                                                       se copulare          non li-
+*Efficiens* autem *causa* matrimonii est consensus, non quilibet, sed per verba expressus, nec de futuro, sed de praesenti. Si enim consentiunt in futurum, dicentes: accipiam te in virum, et ego te in uxorem; non est iste consensus efficax matrimonii. Item, si consentiant *mente* et non exprimant *verbis* vel aliis *certis signis;* nec talis consensus efficit matrimonium. Si autem verbis explicant quod tamen corde non volunt; si non sit coactio ibi vel dolus, obligatio illa verborum, quibus consentiunt dicentes: accipio te in virum, et ego te in uxorem, matrimonium facit.
 
+Quod autem consensus matrimonium faciat, subditis probatur testimoniis. Ait enim Isidorus[^2]: « Consensus facit matrimonium ». Item Nicolaus Papa: « Sufficiat solus secundum leges eorum consensus, de quorum coniunctionibus agitur; qui solus, si forte in nuptiis defuerit, cetera etiam cum ipso coitu celebrata frustrantur ». Item Ioannes Chrysostomus: « Matrimonium quidem non facit coitus, sed voluntas; et ideo non solvit illud separatio corporis ». Item Ambrosius: « Non defloratio virginitatis facit coniugium, sed pactio coniugalis ». — Ex his apparet, quod consensus, id est pactio coniugalis, matrimonium facit; et ex tunc coniugium est, etiam si non praecesserit vel secuta sit copula carnalis.
 
-             '   Dist.       2.    dub.        1,   d.    8.    p.    I.       dub.    I,   d.        23. dub.      I.    et           «       Ita    codd.        U X. Immediate                            post codd.       FGLN          W Y aa
-     d.     24. p.      I.    dub.        1.                                                                                    pracbent verbum intelligatur ,                                    et     subinde codd.             NQY ita ut
-             ^   Codd.        U X hominis in se.                                                                                intelligatur.           .Alii    codd. communiter                            et    edd. kgimi: aut ul con-
-             '   Cfr.        supra       a.    1.   q.   3.    — Jdem dub.                  solvit          S.    Thom.         iinentia iniendaiur ut                           aspernenda, sive prosequenda [edd. ciim
-     liio   circa    lit.                                                                                                       aliquot codd. aspernenda, aut                                       quod intendatur (inteUigaturj
-             *   Gen.        I,    22.                                                                                          ut assequenda                   sive        prosequenda'],                    lectio      falsa,   ut      patot     ex
-             *   Cod.        F G repelunt praeceptum.                                                                           conlextu.
-             ^   Cfr.    supra           a.    1.   q.   2.    soq. et a. 2. q.                  I.                                    ^       Oisf.   31. a. 2. q. 2. seq.
-             '   Respicitur Mattli. 'I^, 8: Alia [seniina] autem ceciderunt
-     in     tcrram       bonam et dabanl fructum                               ,   aliud    centcsimum, aliud
-                                                                                                                                                        NOTAE AD LIBR. SENTENTIARUM.
-     scxagesimum, aliud                         trigesimum.               Cfr. infra        d.    33. a. 2. q. 3,                      '       Cfr. Gralian.,               introductio in C. 27. q. 2. Seq. locus                                   C.
-     ubi agitur tam de aureola                           quam de hoc triplici fructu. — Idem                                    Beaia Maria                   (3.) ,       ibid.   §     'I
-                                                                                                                                                                                              ,   ubi edd.          ,   excepta    1   ,   et cod.   C
-     dub. solvunt                 S.   Thom.,        Petr. a Tar. et Richard.,                          hic circa        lit.   addunt vitae post consueiudinem , refragante etiam canone.
-                                                                                                                                               ,
+### Cap. IV. *Quando incipit esse coniugium.*
 
+Quod enim ab ipsa desponsatione, in qua pactio coniugalis exprimitur, *coniuges* sint, Sanctorum testimonia probant. Ait enim Ambrosius[^3]: « Cum initiatur coniugium, coniugii nomen adsciscitur; cum coniungitur viro, coniugium est, non cum viri admixtione cognoscitur ». Item Isidorus: « *Coniuges* verius appellantur a prima desponsationis fide, quamvis adhuc inter eos ignoretur coniugalis concubitus ». Item Augustinus: « *Coniux* vocatur ex prima desponsationis fide, quam concubitu non cognoverat nec fuerat cogniturus. Nec peierat nec mendax manserat *coniugii* appellatio, ubi nec fuerat nec futura erat carnis ulla commixtio. Propter quod fidele coniugium ambo *parentes Christi* vocari meruerunt non solum illa mater, sed etiam ille pater eius, sicut *coniux* matris eius, *utrumque* mente, non carne ». — Ex his evidenter insinuatur, quod ex tempore, quo intercedit consensus voluntarius ac maritalis, qui solus coniugium facit, veri coniuges sunt sponsus et sponsa.
 
+### Cap. V. *De opinione quorundam, qui dicunt, coniugium non esse ante carnalem copulam.*
 
+Quidam tamen asserunt, verum coniugium non contrahi ante traditionem et carnalem copulam, nec vere coniuges esse aliquos, antequam intercedat commixtio sexus; sed a prima fide desponsationis vir *sponsus,* et mulier *sponsa* est, non *coniux.* Sponsos autem et sponsas *coniuges* frequenter appellari dicunt, non quia *sint,* sed quia *futuri sunt,* cuius rei sponsionem invicem fecerunt. Et secundum hoc verba praemissarum auctoritatum intelligenda fore tradunt.
 
-              672                                                                                               SENTENTIARUM LIB. IV.
-
-              ceat; et ut iuvicem alter alteri exhibeat qiiod quisque                                                                              ritalis,           qui solus coniugium facit,                                          veri coniuges suiit
+### Cap. VI. *Quod sponsa potest eligere monasterium sine sponsi consensu.*
 
-              slbi. Hac autem descriptione legitimorum et lidelium                                                                                 sponsus             et     sponsa.
+Quod vero inter *sponsam* et *coniugem* plurimum intersit, ex eo astruunt, quia licet *sponsae* ante carnalem copulam, inconsulto vel nolente *sponso,* monasterium eligere; quo facto, sponso etiam licet aliam ducere. *Coniugatus* vero vel *coniugata* nec continentiam, nisi ex communi consensu, servare valet nec monasterium petere, nisi uterque continentiam pariter profiteatur. Quod vero liceat *sponsae* monasterium eligere, auctoritatibus Sanctorum probatur. Ait enim Eusebius Papa[^4]: « Desponsatam puellam non licet parentibus alii viro tradere, tamen licet sibi monasterium eligere ». Item Gregorius: « Decreta legalia desponsatam, si converti voluerit, nullo penitus censuerunt damno mulctari ». « Refert etiam Hieronymus, quod Macarius, inter Christi eremitas praecipuus, celebrato nuptiarum convivio, cum vespere thalamum esset ingressurus, ex urbe egrediens transmarina petiit et eremi solitudinem sibi elegit. Beatus etiam Alexius similiter ex nuptiis divina gratia vocatus, sponsam deseruit et nudus Christo famulari coepit. — His auctoritatibus et exemplis liquet, licere sponsis sine consensu suarum sponsarum, et e converso, continentiam profiteri ».
 
-              tantum matrimonium includitur.
-                                                                                                                                                                                                             Cap. V.
-                                                                      Cap.     III.
-                                                                                                                                                        De opinione quorundam, qui dicunt, coniugium
-                                     Be consensu, qid efjlcil coniugiuin.                                                                                      non esse ante carnalem copuLam.
-
-                        Efjlciens              autem caim matrimonii                                   est      consensus,                                 Quidam tamen                                 asserunt,               verum coniuginm non
-              non quilibet, sed per verba expressus, nec de futuro,                                                                                contrahi ante traditionem                                           et     carnalem copulam, nec
-              scd de praesenli. Si enim consentiunt in fuluruni, di-                                                                               vere coniuges esse aliquos, antequam intercedat com-
-              centes:               accipiam                 te in        virum,      et    ego        te       ia           uxorem;               mixlio sexus; sed a prinia flde desponsalionis vir spon-
-          non est iste conseusus efficax matrimonii. Item, si con-                                                                                 sus, et mulier sponsa est,                                           mn cotiiux. Sponsos aulem
-          sentiant meiite et non exprimant verbis vel aliis cer-                                                                                   et     sponsas coniuges frequenter appellari dicunt, non
-          tis signis; nec talis consensus efficit matrimonium. Si                                                                                  quia sint, sed quia fuluri sunt, cuius rei sponsionem
-Dabium 2. autcm vcrbis explicant quod lamen corde non volunt;                                                                                      invicem fecerunt. Et secundum hoc verba praeniissa-
-              si    non           sit   coactio               ibi     vel    dolus,        ol)ligatio illa                        verbo-           rum auctorilalum inlelligenda fore Iradunt.
-              rum,           quibus consentiunt dicentes: accipio te in virum,
-              et    ego   te in uxorem, matrimonium facit.                                                                                                                                                   Cap. VI.
-                        Quod aulem consensus matrimonium faciat,                                                                        sub-
-  isidorus.   dilis                       Ait enim Isidorus
-                            probatur testimoniis.              Con-                                                  '       :     <<                          Qicod sponsa potest eligere monasterium sine
-
- Nicoiaus.    sensus           matrimonium ». Itcm Nicolaus Papa:
-                                    facit                                                                                                                                                            sponsi consensu.
-               « Sufficiat solus secundum leges eorum cousensus, de
-
-              quorum coniuuctionil)us agitur; qui solus, si forte in                                                                                           Quod vero inter sponsam et coniugeni plurimura
-              nuptiis defuerit, cetera eliam                                       cum ipso coitu celebrata                                        intersit,ex eo astruunt, quia licet sponsae ante car-i
-chrysosto-    frustranlur ».                       Item loannes Chrysostomus:                                     «Matrimo-                        nalem copulam, inconsulto vel nolente sponso, mo-
-              nium quidem non facit coitus, sed voluntas;                                                                        et ideo           naslerium eligere; quo facto, sponso etiam licet aliam
-Ambrosius.    non           solvit illud separatio corporis».                                     Item Ambrosius:                                  ducere.              Coniugatus                          vero vel coniugata nec conlinen-
-              «Non delloi-alio virginilalis facit coniugium, sed paclio                                                                            tiam,              nisi      ex             communi consensu,                           servare valet                 nec
-              coniugalis».                    —
-                               Ex his apparet, quod consensus, id                                                                                  monaslerium petere, nisi uterque continentiam                                                                  pariler
-              est pactio coniugalis,                                  matrimonium                facit;          et              ex tunc           profilealur.                 Quod vero liceat sponsae monaslerium eli-
-              coniugium est,etiamsi non praecesserit vel secula                                                                              sit   gere, auctoritalibus Sanclorum probatur. Ait enim Eu- Euil
-                                                                                                                                                                                    ^
-              copula carnalis.                                                                                                                     sebius Papa                           :     «   Desponsalam puellam non licet paren-
-                                                                                                                                                   tibus        alii         viro traderc,                lamen licet sibi monasteriura
-                                                                      C.\p.    IV.                                                                 eligere». Item                              Gregorius           :    «    Decrela legalia desponsa-
-                                                                                                                                                   lam,         si       converti                    voluerit,              nullo         penilus          censuerunt
-                                           Quanclo incipit esse coniugiuni.
-                                                                                                                                                   darano muictari ».                                  « P>efert            eliam         Hieronymus, quod
-                                                                                                                                                                                                                                                                                Elier
-
-                            Quod enim ab ipsa desponsatione,                                               qua paclio
-                                                                                                           in                                      Macarius, inter Christi eremitas praecipuus, celebralo
-               coniugalis exprimilur, coniuges sint,                                                  Sanctorum tesli-                             nupliarum convivio, cum vespere thalamum                                                                     esset     in- Mai
-
-Ambrosius.     monia probant.                           Ait     enim Ambrosius^:                       «   Cum initiatur                           gressurus, cx urbe egrediens Iransmarina petiitet ererai
-              coniugium, coniugii nomen adsciscitur; cum couiungi-                                                                                 solitudinem                      sibi           elegit.    Beatus eliam Aiexius                              similiter AI(
-
-              tur viro, coniugium est, non cum viri admixlione co-                                                                                 ex nuptiis divina gralia vocatus, sponsam deseruit et
-  isidorus.    gnoscitur». Item Isidorus:                                     «   Coniuges verius appellan-                                        nudus Chrislo famulari                                     coepit.              — His auctorilalibus                    et
-
-              tur a          prima desponsalionis                              fide,     quamvis adhuc inter                                       exemplis liquet, licere sponsis sine                            consensu suarum
-Aagusiinus. eos         iguoretur coniugalis concubitus». Item Augustinus:                                                                         sponsarum,                       et        e converso, continenliam profiteri ».
-               «Coniux vocalur ex prima desponsationis fide, quam
-              concubitu non cognoverat nec fueral cogniturus. Nec                                                                                                                                            Cap. VII.
-              peierat nec mendax manserat coniugii appellatio, ubi
-              nec fuerat nec futura orat carnis ulla commixiio. Pro-                                                                                      Quod cotiiugatus sine coniugis consensu tiequit
-              pter quod fidele coniugium                                          ambo parejites Christi vo-                                                                                   profiteri conlinentiam.
-              cari meruerunt non solum illa matcr, sed etiam ille
-              pater eius, sicut coniux matris eius, utrumque mente,                                                                                            Hoc autem                           coniugalis nullalenus                       licet.      Non enim
-              nou carne».                     —
-                               Ex his evidenter insinuatur, quod ex                                                                                potest vir melioris vitae proposilum sumere sine uxo-
-              tempore, quo intercedit cousensus voluntarius ac ma-                                                                                 ris     consensu, et e converso. Unde Gregorius *, scribens ^'^
-
-
-
-
-                        '    C.     Coniuges             (6.), ibid. sec.         sensiim, sed verboteniis apud                                            3    Can. Desponsatam (27.), ibid. Seq. locus est Gregor.                                                 ,   VII.
-
-              -Gratian.       ,     loo.    cit.       — Seq.            locus Nicolai      esl       C.     Sulfwiat                   (2.)       Kegest.        ,    indict.               15.   epist.    23. (alias 20.) ad Fortunalum; C.                           fl«-
-
-              ibid. ;        lerlius Clirysosl.                 ,   in   MaUli. 0|)us imperfectum                        ,       liom. 32;         creta legaiia (28.), ibid. Tertius apud Gralian. super C. Scripsit
-              C.    Omnis res                (i.),          ibid. ;      quarlus Ambros.          ,   do inslitutione vir-                         nobis (26.), ibid. De re narraia                                         niliil   in   Ilieronymo.
-               gin. c. 6. n. 41                    ;   C.    Cim iniiiatur (o.), ibid.                                                                     *    Loc.         cil.       XI. indict.          i.    episl. 45. (alias 39.) ;                C.   Sunt qui
-                        ^    Locis         citt.       — Seq. locus           Isidor.      est IX.         Elymolog.                    c.   7.    dicunl             (19.),            ibid.,        ubi    citatur          I.     Cor. 7,       i.    Seq. locus       est
+### Cap. VII. *Quod coniugatus sine coniugis consensu nequit profiteri continentiam.*
 
-               n.   9   ;    cit.    can. Coniucjes ; tertius August.                        ,   I.    de    iNuptiis et con-                      loc.    cit.       epist.            50.        (alias   44.)       ad Adrianum             ;    C.    Agalhosa la-
-               cupisc. C. 11. n. 12; C. Conivx vocatur (9.),                                                    ibid.            Verbum            irix (21.), ibid.                         — Pro quoddam fornicaiionis Gralian.                                  et plu-
-
-               utrumque refertur ad nomen pater et coniux.                                                                                         rimae edd. quondam, refragante ed. Maurina operum                                                             Gregorii.
-                                                                                                               DISTINCTIO XXVII.                                                                                                                            673
+Hoc autem coniugatis nullatenus licet. Non enim potest vir melioris vitae propositum sumere sine uxoris consensu, et e converso. Unde Gregorius[^5], scribens
 
-      Theotistae patriliac:                                     «    Siint qni diciint, religioiiis gra-                            Sponsi vero possunt sine communi consensu monaste-
-      lia                                  sciendum est, quia,
-              coniiigia ilebere solvi. Yenini                                                                                       rium eligere; unde videtur inter spoiisum                                                               et       sponsam
-      etsi    hoc lex iuimana concessit, tamen lex divina pro-
-      hibuit. Si                  vero ulrisque conveniat                                        continenlein           vitam
-                                                                                                                                    coniugium
-                                                                                                                                    ,                       .... non        esse.    Ideoque asserunt, a prima
-                                                                                                                                    desponsationis coniuges appellan , non re praesenlium,
-                                                                                                                                                                                                     11            .                                       ,.
-                                                                                                                                                                                                                                                                flde    Assenio
-                                                                                                                                                                                                                                                                       aliorum.
+<!-- page 673 -->
 
+Theoctistae patriciae: « Sunt qui dicunt, religionis gratia coniugia debere solvi. Verum sciendum est, quia, etsi hoc lex humana concessit, tamen lex divina prohibuit. Si vero utrisque conveniat continentem vitam ducere, hoc quis audeat accusare? Sic enim multos Sanctorum novimus cum suis coniugibus et prius continentem vitam duxisse et post ad sanctae Ecclesiae regimina migrasse. Si vero continentiam, quam vir appetit, mulier non sequitur, aut quam uxor appetit, vir recusat; coniugium dividi non potest, quia scriptum est: *Mulier potestatem suae carnis non habet, sed vir; similiter et vir potestatem sui corporis non habet, sed mulier* ». Idem: « Agathosa, latrix praesentium, questa est, virum suum contra voluntatem suam in monasterium esse conversum. Quapropter experientiae tuae praecipimus, ut diligenti inquisitione discutiat, ne forte eius voluntate conversus sit, vel ipsa se mutare promiserit. Et si hoc tua diligentia repererit; et illum in monasterio permanere provideat et hanc, sicut promisit, mutare compellat. Si vero nihil horum est, nec quoddam fornicationis crimen, propter quod licet uxorem dimittere, praedictam mulierem commisisse cognoveris; ne illius conversio uxori relictae in saeculo fieri possit perditionis occasio, volumus, ut maritum suum illi, etiam si iam tonsuratus est, reddere debeas, omni excusatione cessante; quia nisi fornicationis causa virum uxorem dimittere nulla ratio concedit. Postquam enim copulatione coniugii viri et mulieris unum corpus efficitur, non potest ex parte converti et ex parte remanere in saeculo ». Item ex octava synodo[^6]: « Si quis coniugatus converti ad monasterium velit, non est recipiendus, nisi prius a coniuge castimoniam profitente fuerit absolutus. Tales igitur tunc sine culpa sequuntur Christum, relicto saeculo, si habent ex pari voluntate castitatis consensum ». Item: « Si vir et uxor divertere pro sola religiosa inter se consenserint vita, nullatenus sine conscientia episcopi fiat, ut ab eo singulariter proviso constituantur loco. Nam uxore nolente, vel altero illorum, etiam pro tali re matrimonium non solvitur ».
 
-      ducerc, hoc quis audeat accusare? Sic eniin muitos                                                                            sed spe futurorum,                           quia ex (ide,                               quam ex desponsa-
-      Sanctorum novimus cum suis coniugibus et prius con-                                                                           tione sibi invicem debent, postea efiiciuntur coniuges.
-      linentem vitam duxisse et post ad sanclae Ecclesiae                                                                           Praemissas etiam auctoritates, quibus asseritur, quod
-      regimina migrasse. Si vero continentiam, quam vir ap-                                                                         consensus                   matrimonium                facit, ita                         intelligi      volunt,             ut
-      pelit,          non sequitur, aut quam uxor appelit,
-                        mulier                                                                                                      consensus vel pactio coniugalis non ante coitum faciat
-      vir,reciisat; coniugium   dividi non potest, quia scri-                                                                       matrimonium, sed in coitu. Sicul enim defloratio vir-
-      ptuni  esl: Mulier  pote&tatem  suae carnis non habet,                                                                                 non facit matrimouium, nisi praecedat pactio
-                                                                                                                                    giiiitatis
+### Cap. VIII. *De adulterinis coniugiis.*
 
-      sed vir ; similiter                         el        vir              potestatem sui corporis no?i                           coniugalis; ita nec pactio coniugalis, antequam adsit
-ns.   habetj sed mulier ». Idem:                                                   «   Agalhosa,      latrix praesen-               copula carnalis.                        Ex pactione igitur coniugali sponsi et
-      tium, questa est, virum                                                suum contra voluntatem suam                            sponsae fiunt ante                         coitiim      ,                in        coitu        vero     efflciuntur
-      in monasterium esse conversuin. Quapropter experien-                                                                          coniuges. Facit enim pactio coniugalis, ut quae                                                                        prius
-      tiae tuae praecipimus, ut diligenti inquisitione discu-                                                                       erat sponsa in coitu                            fiat   coniux.
-           ne forte eius voluntate conversus sit, vel ipsa se                                                                                His autem ila respondemus. Fit aliquando despon-                                                                            Resp.    ad
-      liat,
-
-      mutare proiniserit. Et si hoc tua diligentia repererit;                                                                       satio, ubi est
-                                                                                                                                                                                   ....
-                                                                                                                                                                           compromissio
-                                                                                                                                                                    et mulieris de                           viri
-                                                                                                                                                                                                                                      ,.              ,
-                                                                                                                                                                                                                                                                  obiecta cam
-                                                                                                                                                                                                                                                            co?2- aisiincUone.
+Item Augustinus[^7]: « Si abstines sine uxoris voluntate, tribuis ei fornicandi licentiam, et peccatum illius tuae imputabitur abstinentiae ». Item Nicolaus Papa[^8]: « Scripsit nobis Thietberga regina, regia se velle dignitate vel copula exui et sola vita privata esse contentam, desiderare. Cui scripsimus, non hoc aliter fieri posse, nisi eandem vitam vir eius Lotharius elegerit ». — Ex his patet, quod coniugati sine communi consensu continentiam profiteri, vel habitum religionis sumere non valent; et si fecerint, revocari debent.
 
-      et    illum            in    monasterio permanere provideat                                                  et   hanc,       trahendo malrimonio, non      autem ibi consensus de        est
+Sponsi vero possunt sine communi consensu monasterium eligere; unde videtur inter sponsum et sponsam coniugium non esse. Ideoque asserunt, a prima fide desponsationis coniuges appellari, non re praesentium, sed spe futurorum, quia ex fide, quam ex desponsatione sibi invicem debent, postea efficiuntur coniuges. Praemissas etiam auctoritates, quibus asseritur, quod consensus matrimonium facit, ita intelligi volunt, ut consensus vel pactio coniugalis non ante coitum faciat matrimonium, sed in coitu. Sicut enim defloratio virginitatis non facit matrimonium, nisi praecedat pactio coniugalis; ita nec pactio coniugalis, antequam adsit copula carnalis. Ex *pactione* igitur coniugali *sponsi* et *sponsae* fiunt ante coitum, in *coitu* vero efficiuntur *coniuges.* Facit enim pactio coniugalis, ut quae prius erat *sponsa* in coitu fiat *coniux.*
 
-      sicut promisil,                   mutare compellat.                                     Si   vero nihil horum                 praesenti ; et est desponsatio habens consensum de
-      est,    nec quoddam fornicationis crimen, propter quod                                                                        praesenti, id est pactionem coniugalem, quae sola fa-
-      licet           uxorem dimittere, praedictam mulierem commi-                                                                  cit     coniugium. In                    illa    ergo desponsatione, ubi est pol- ouiiiam s.
-      sisse           cognoveris; ne                        illius            conversio uxori relictae                         in   licitatio               contrahendi matrimonium, sponsi                                                  tantum               et
+His autem ita respondemus. Fit aliquando desponsatio, ubi est compromissio viri et mulieris de *contrahendo* matrimonio, non est autem ibi consensus de *praesenti;* et est desponsatio habens consensum de *praesenti,* id est pactionem coniugalem, quae sola facit coniugium. In illa ergo desponsatione, ubi est pollicitatio contrahendi matrimonium, *sponsi* tantum et *sponsae* fiunt, non *coniuges;* et talibus sponsis licet sine communi consensu continentiam profiteri et monasterium eligere. In ea vero desponsatione, ubi est consensus de praesenti, *coniugium* contrahitur, et ab illius desponsationis prima fide *veri coniuges* appellantur. Secundum hanc distinctionem desponsationis de sponsis varie loquuntur doctores.
 
-4.    saeculo                fleri     possit               perditionis occasio, volumus,                                     ut    sponsae fiunt, non coniuges ;                                                 et     talibus           sponsis          licet
-
-      maritum suum                      illi,          etiam                  si       iam tonsuratus           est, red-           sine        communi consensu continentiam                                                       profiteri et                mo-
-      dere debeas, omni excusatione cessante; quia nisi for-                                                                        nasterium                   eligere.       In ea vero desponsatione,                                              ubi        est
-      uicationis causa virum uxorem dimittere nulla ratio                                                                           consensus de praesenti, coniiigium contrahitur,                                                                        et    ab
-      coucedit. Postquam enim copulatione coniugii viri et                                                                          illius          desponsationis prima fide vet^i coniuges appellan-
-      mulieris uiiuin corpus efflcilur, non potest ex parle                                                                         tiir.    Secundum hanc                           distinctionem desponsationis de
-      converli et ex parle remanere in saeculo». Ilem ex                                                                            sponsis varie loquuntur doclores.
-)n.   octava synodo '                    :    «        Si           quis coniugatus converti ad nio-
-                                                                                  recipiendus,                     prius       a                                                      Cap. IX.
-      nasterium                   velit,          iion               est                               nisi
-
-      coniuge                castimoniam profltente fuerit absolutus. Tales
-                                                                                                                                            Quod muUipliciter sponsics et sponsa accipitur.
-      igitur           tunc sine culpa sequuntur Christum, relicto sae-
-      culo, si             hahent ex pari voluntate castitatis consensum ».                                                                  Aliquando enim sponsas vocant, quae talem ba- sensus i.
-      Item        :    «   Si     vir et          uxor divertere pro sola religiosa iii-                                            buerunt despousationem, uhi                                                   fuit       pactio coniugalis de
-      ter se consenseriiit                              vita,                 nullatenus           sine       conscientia           praesenti               ;             Unde Gregorius *: G"gorias.
-                                                                                                                                                                et illae vere coniugcs sunt.
-
-      episcopi flat, ul ab eo singulariler proviso constituan-                                                                      « Si quis uxorem desponsaverit vel subarrhaverit, quam-
-
-      tur loco.                  Nain uxore nolente, vel altero illorum, etiam                                                      quam postmodum, praeveniente die mortis eius, nequi-
-      pro     tali           re    matrimonium non solvitur».                                                                       verit eam ducere in uxorem      tamen nulli de consan-                   ;
-
-
-
-                                                                                                                                    guinitate eius licet accipere eam in coniugio   et si in-                                                    ;
-
-
+### Cap. IX. *Quod multipliciter sponsus et sponsa accipitur.*
 
-                                                                    Cap. VIII.                                                      ventum fuerit factuni, separetur omnino».IIem lulius •"''"s.
-                                                                                                                                    Papa        :       «   Si quis deponsaverit                                  uxorera vel subarrhave-
-                                        De aduUerinis coniugiis.                                                                    rit,    et vel               praeveniente die mortis eius, vel irruenli-
-                                                                                                                                    bus quibusdam causis, eam non cognoverit; nec fra-
-              Item Auguslinus^:                                          «   Si        abstines    sine       uxoris          vo-   ler eius nec ullus de consanguinitate eius eandeni sibi
-"s.   luntale, Iribuis                       ei        fornicandi                        licentiam, et pcccatum                     lollat in               uxorem ullo unquam tempore ». Item Grego- cregorins.
-      illius          tuae         imputabitur                           abstinentiae ».              Item Nicolaus                 rius:      Qui desponsatam proximi sui puellam ceperit
-                                                                                                                                                    «
+Aliquando enim *sponsas* vocant, quae talem habuerunt desponsationem, ubi fuit pactio coniugalis de praesenti; et illae vere coniuges sunt. Unde Gregorius[^9]: « Si quis uxorem desponsaverit vel subarrhaverit, quamquam postmodum, praeveniente die mortis eius, nequiverit eam ducere in uxorem; tamen nulli de consanguinitate eius licet accipere eam in coniugio; et si inventum fuerit factum, separetur omnino ». Item Iulius Papa: « Si quis desponsaverit uxorem vel subarrhaverit, et vel praeveniente die mortis eius, vel irruentibus quibusdam causis, eam non cognoverit; nec frater eius nec ullus de consanguinitate eius eandem sibi tollat in uxorem ullo unquam tempore ». Item Gregorius: « Qui desponsatam proximi sui puellam ceperit in coniugium, anathema sit ipse et omnes consentientes ei, quia secundum legem Dei mori decernitur. Nam
 
-is.   Papa^:                 «   Scripsit nobis                              Thielberga            regina,         regia      se    in    coniugium anathema sit ipse et omnes consentien-
-                                                                                                                                                                   ,
+<!-- page 674 -->
 
+divinae legis mos est, sponsas appellare *coniuges,* ut in Evangelio: *Accipe Mariam coniugem tuam;* et in Deuteronomio: *Si quis alterius sponsam in agro vel in quolibet loco oppresserit, vel adduxerit in domum suam; moriatur, quia uxorem proximi sui violavit,* non quae iam uxor erat, sed quae a parentibus uxor fieri debebat ». — Ex his colligitur, quod sponsae quaedam coniuges sunt ante commixtionem sexuum. — Sed forte illud movet quod in fine capituli dicitur: *Non quae iam uxor erat, sed quae uxor fieri debebat.* Quod non ita debet intelligi, quasi uxor vere non fuerit, ex quo pactio coniugalis intercessit; sed quia nondum traducta fuerat, nec res uxoria intercesserat, scilicet concubitus coniugalis.
 
+Vocatur[^10] etiam *sponsa,* quae sic viro desponsata est, ut non intercesserit consensus de praesenti, sed sponsio futuri. Secundum quem modum illud decretum intelligitur: « Si quis sponsam filii oppresserit, et post filius eius eam duxerit; pater postea non habeat uxorem, nec mulier virum; filius, qui patris facinus ignoravit, aliam ducat ». Si *coniux* illa fuisset, quod utique foret, si in sponsalibus pactio coniugalis intercessisset, non permitteretur sponso aliam ducere. Moechis autem poena non nubendi ex rigore infligitur, ut alii terreantur. Item ex eodem[^11]: « Quidam desponsavit uxorem et dotavit et cum ea coire non potuit, quam clanculo frater eius corrupit et gravidam reddidit; decretum est, ut, quamvis nupta non potuerit esse legitimo viro, desponsatam tamen fratri frater habere non possit; sed moechus et moecha fornicationis quidem vindictam sustineant, licita vero eis coniugia non negentur ». De illa desponsatione hoc intelligi debet, ubi non fuit consensus coniugalis de praesenti, alioquin non liceret eis alias sortiri coniugia. Secundum hoc etiam illud intelligi debet: « Statutum est a sacro conventu, ut, si quis sponsam alterius rapuerit, publica poenitentia mulctetur et sine spe coniugii maneat. Et si ipsa eidem crimini consentiens non fuerit, licentia nubendi alii non negetur[^12] ». « Apparet, hanc fuisse desponsatam sine pactione coniugali de praesenti, et ideo non fuisse coniugem; cui, vivente sponso, alteri nubendi licentia non negatur ». Sunt enim quaedam nuptialia pacta de futuro, ex quibus *sponsi* et *sponsae* vocantur nec exinde coniuges sunt; et est quaedam pactio coniugalis de praesenti, quae *sponsum* et *sponsam* etiam coniuges facit. Et utraque pactio *desponsatio* vel *sponsalia* interdum dicuntur, *proprie* tamen *sponsalia* dicuntur quaedam solemnia pacta nuptialia.
 
-      velle dignitate vel                          copula exui et sola vita privata es.se                                           tes ei,             quia secundum legein Dei mori decernitur. Nam
-      contenlam, desiderare. Cui scripsiraus, non hoc aliler                                                                        divinae legis                  mos est, sponsas appellare eomuges„ ut
-      fieri           posse, nisi       eandem vitam vir eius Lotharius ele-                                                        in Evangelio: Accipe Mariam^ co?iiugem tuam ; el in
-      geril ».             —      Ex his patet, quod comM^a/i sine communi                                                          Deuteronomio Si quis aUerius sponsam in ag?-o vel
-                                                                                                                                                                       :
+De nuptialibus pactis, ubi est tantum *sponsio futuri,* ait Augustinus[^13]: « Institutum est, ut iam pactae sponsae non statim tradantur, ne vilem habeat maritus datam, quam non suspiravit sponsus dilatam ».
 
+### Cap. X. *Quae sponsa sit vidua, mortuo sponso, et quae non.*
 
+Et est sciendum, quod illa sponsa, quae tantum in futuro est pacta, mortuo sponso, non remanet vidua, quia non fuerat vir eius. Unde si quis eam duxerit, ad sacros ordines conscendere non prohibetur, quia non duxit viduam. Viduae enim maritus aeque, sicut bigamus, sacerdos fieri prohibetur; ex tali autem copula nullus arcetur a sacris ordinibus. Secundum hoc intelligendum est quod ait Pelagius Papa[^14] de illo qui, mortuo sponso eius, sponsam ducit in uxorem: « Nihil est, inquit, quantum ad hunc articulum attinet, quod ei obviet de canonicis institutis, quin ad sacros ordines promoveri valeat ». Si vero talis sponsa fuisset, inter quam et sponsum eius consensus de praesenti intercessisset, eo mortuo, vidua remansisset; cui copulatus in coniugio ulterius ad sacros ordines non accederet, cum viduam duxerit. Non est igitur ambigendum, quin solus de praesenti consensus coniugium efficiat, et exinde veri coniuges appellentur. Ideo post talem consensum si quis alii se copulaverit, etiam si carnis commixtio illic sequatur, ad priorem copulam revocandus est.
 
-      consensu continentiain profileri.vel babilum religionis                                                                       in quoUbet loco oppresserit , vel adduxeril in
-                                                                                                                                                                               domuni
-      sumere                 non       valent;                      et       si        fecerint, revocari debent.                   suam ; moriatur , quia uxorem proximi sui violavit.
-
-
-
-              '       Can.        Si   quis        (22.), C.  — Seq.             Si
-                                                                                  27. q. 2.                   lociis     C.                 3    Can. Scripsit               nobis     (26.)         ,        ibid.          —     Infra   ante continen-
-      vir (23.), ibid.                 — Pro conscicnlia plurimae edd. consensu,                                              re-   liam cod. A et edd., excepta                            I
-                                                                                                                                                                                                 ,           addunt monasterium eligere.
-      fragantibiis'5odd. cl oinone, et pro nolente ed.                                                    I   et    cod. Erf.       Qucie sequunlur occurrunt eliani                                         apud Gratian. super eundem
-      volente.                                                                                                                      canoncm.
-              -        Vefba       liaec polius                      invenies            inler   opera Clirysost.,            Ho-           *       Can. Si quis             uxorem (If.), ibid. Seq. locus                                          est   C.    Si
-      mil.    I.       in Ps. SO.       n.    8    ;    C.           Si tu absUnes (24.), ibid.; sentenlia                          quis        desponsaverit                (15.), ibid.       ;            tertius          C.    Qui desponsalam
-      autem            est       apud August.               ,       I.   de Adulterinis Coniogiis,                 c.   i. n. i.    (12.),          ibid.,      ubi citantur Mattli.                     I
-                                                                                                                                                                                                              ,    20    ;   Deuler. 22, 23.                seqq.
-
-                           S. Bonav.          — Tom.                          IV.
-           674                                                                                SENTENTIARUM LIB. IV.
-
-           nou qiiae iam uxor erat, sed quae a parenlibus uxor                                                       nuptialia pacta de fuluro                          ,    ex quibus sponsi et sponsae
-           fiericlebebat».                      —
-                              Ex bis colligilur, quod sponsae                                                        vocantur nec exinde coniuges                                      sunt        ;        et      est        quaedam
-           quaedani              coniuges              sun.t    ante coniniixlionem sexuum.                          pactio coniugalis de praesenti, quae sjjonsum et spon-
-           — Sed             movet quod in fine capiluli dicilur
-                           forte iliud                                                                          :    sam etiam coniuges facil. Et utraque pactio desponsa-
-           Nou quae iam  uxor  erat, sed quae uxor fieri debebat.                                                    lio    vel sponsalia              interdum                   dicunlur              ,
-                                                                                                                                                                                                              proprie            lamen
-           Quod non ita debet intelligi, quasi uxor vere non fue-                                                    sponsalia dicuntur                  quaedam solenuua pacta nuplialia.
-           rll,    ex quo pactio coniugalis intercessit; sed quia non-                                                       De nuplialibus pactis, ubi est lanlum sponsio fu- pe
-           dum Iraducta fuerat, nec res uxoria intercesserat, sci-                                                   (urij ait Augustinus *                    :    «Inslitutum est, ut iam pactaesiiai
-           licet        concubitus couiugalis.                                                                       spousae non stalim tradautur, ne vilem habeat mari-
-                Vocalur ' etiam sponsa, quae sic viro desponsala                                                     tus dalam, quam uon suspiravit sponsus dilatam ».
-
-SensnsS. est, ut   uou intercesscrit consensus de praesenti, sed                                                                                                             ;
-
-
-
-
-           sponsio fuluri. Secundum quem moduni illud decretum                                                                                                     Cap. X.
-  canon. inteiligitur :               «    Si quis       sponsam filii oppresserit, et post
-           filius       eius     eam duxerit; paler poslea non babeat uxo-                                                           Quae sponsa sit vidua, niorluo sponso,
-           rem, nec niulier virum filius, qui palris faciuus igno-
-                                                            ;
-                                                                                                                                                          et           quae non.
-           ravit, aliam ducat». Si coniux illa fuisset, quod uli-
-           que foret, si in sponsalibus pactio coniugalis inlerces-                                                          Et est sciendum, quod                                illa    sponsa, quae lantum
-           sisset, non permitteretur spOnso aliam ducere. Moechis                                                    in futuro est pacta, mortuo sponso, non remanet vidua,
-
-           autem poeua non uubendi ex rigore infligitur, ut alii                                                     quia non fuerat vir eius.                                   Unde         si       quis         eam duxerit,
-  canon.   terreautur. Item ex eodem " :                             «   Quidam desponsavit uxo-                     ad sacros ordines conscendere uou prohibelur, quia
-           rem et          dotavit              et    cum       ea       coire      non    poluit,   quam            uou duxit viduam. Viduae euim maritus aeque, stcut
-           clauculo frater eius corrupit et gravidam reddidit; de-                                                   bigamus, sacerdos                   fleri         prohibetur; ex                             tali     autom     co-
-           cretum est,      quamvis nupta non potuerit esse le-
-                                          ut,                                                                        pula nullus arcelur a sacris ordinibus.
-           gitimo viro, desponsalam tamen fratri frater habere                                                            Secundum hoc inteliigendum est quod ait Pelagius Peli
-           non possit sed moechus et nioecha fornicatlonis qui-
-                                 ;                                                                                   Papa ^ de illo qui, mortuo spouso eius, spousam ducit
-           dem vindictam sustineaut, licita vero eis coniugia uou                                                    in uxorem: «Nihil est, inquit, quautum ad hunc arli-
-
-           negentur». De iila desponsatione hoc inteJligi debet,                                                     culum altiuet, quod ei obviet de cauonicis institutis,
-           ubi non fuit consensus coniugaiis de praesenti, alio-                                                     quin ad sacros ordines promoveri valeat». Si vero ta-
-           quiu uon liceret eis alias                             sortiri          coniugia.   Secundum              lis spousa fuisset, inter quam et sponsum eius consen-
-
-   canon. hoc       ctiam illud                 inlelligi       debet     :    «   Stalutum    est a sacro           sus de praeseuti intercessisset, eo mortuo, vidua re-
-           conventu, ut,                    si       quis sponsam alterius rapueril,                         pu-     mansisset; cui copulatus iu couiugio ulterius ad sacros Dali
-           blica poenitentia mulctetur et sine spe coniugii maneat.                                                  ordines uon accederet,      cum viduam duxeril. Non est
-           Et     si     ipsa eidera crimini cousenliens non fueril, licen-                                          igitur       ambigendum, quin solus de praesenti consensus
-Gratianas. tia nubeudi alii non negetur ^ ». « Apparet, hanc fuisse                                                  coniugium               efficiat,    et       exinde veri                         coniuges                appellen-
-           desponsatam sine pactione coniugali de praesenli et                                           ,           tur.        Ideo post talem consensum                                    si       quis             alii   se copu-
-           ideo non fuisse coniugem; cui, vivenle sponso, alteri                                                     laverit,         etiam       si   carnis commixlio                                illic        sequatur,            atl
-
-           nujjendi licentia uon negatur». Sunt euim quaedam                                                         priorem copulam revocandus est.
-
-
-
-
-                                                 OOMMENTARIUS IN DISTINCTIONEM XXVII.
-                                                                          De consensu ut efScienle causa matrimonii.
-
-                                      Posi haec adverlenduni esl, quid                                   sit    coniugium ,             el    quae sit efficiens causa                                       etc.
+---
 
 ## English
+<!-- page 671 -->
 
-[Translation pending]
+### Chap. I. *On what things are to be considered in marriage.*
+
+After this it must be noted what marriage is, and what is the *efficient cause* of marriage, and the cause *on account of which* it ought to be contracted, and what are the *goods of marriage,* and how through them *carnal intercourse is excused,* and who are the *legitimate persons* for matrimony. There are also many other things to be considered in marriage, which we shall run through in brief compass.
+
+### Chap. II. *What marriage is.*
+
+« Marriage, then, or matrimony, is the marital union of a man and a woman between legitimate persons, retaining an undivided common manner of life[^1]. » « To the undivided common life it pertains that without the consent of the other neither can profess continence, or be free for prayer »; and that between them, while they live, the conjugal bond remains, so that it is not permitted to unite with an-
+
+<!-- page 672 -->
+
+other; and that mutually the one render to the other what each [owes] to himself. By this description only legitimate and faithful matrimony is included.
+
+### Chap. III. *On the consent which effects marriage.*
+
+Now the *efficient cause* of matrimony is consent — not any consent whatever, but one expressed through words, and not concerning the future, but concerning the present. For if they consent regarding the future, saying: I will take you as husband, and I you as wife; this consent is not effective of matrimony. Likewise, if they consent *in mind* and do not express it *by words* or by other *certain signs;* neither does such consent effect matrimony. But if they express in words what nevertheless they do not will in their heart; if there be no coercion there or deceit, that obligation of the words by which they consent, saying: I take you as husband, and I you as wife, effects matrimony.
+
+That consent effects matrimony is proved by the testimonies adduced below. For Isidore[^2] says: « Consent makes matrimony ». Likewise Nicholas the Pope: « Let the consent alone suffice, according to their laws, of those whose union is in question; which alone, if it happen to be lacking in the nuptials, the rest, even celebrated with intercourse itself, are frustrated ». Likewise John Chrysostom: « Matrimony indeed intercourse does not make, but the will; and therefore separation of body does not dissolve it ». Likewise Ambrose: « Not the deflowering of virginity makes marriage, but the conjugal pact ». — From these it appears that consent, that is the conjugal pact, makes matrimony; and from then on it is marriage, even if carnal union has not preceded or followed.
+
+### Chap. IV. *When marriage begins to be.*
+
+That from the very betrothal, in which the conjugal pact is expressed, they are *spouses,* the testimonies of the Saints prove. For Ambrose[^3] says: « When marriage is initiated, the name of marriage is taken on; when she is joined to the man, it is marriage, not when she is known by the man's intercourse ». Likewise Isidore: « They are more truly called *spouses* from the first pledge of betrothal, although as yet conjugal intercourse be unknown between them ». Likewise Augustine: « She is called *spouse* from the first pledge of betrothal, whom he had not known by intercourse nor was about to know. Nor had the appellation of *marriage* perjured itself nor remained false, where there neither had been nor was to be any mingling of flesh. On account of which both merited to be called the faithful marriage, the *parents of Christ,* not only that mother, but also that father of his, as the *spouse* of his mother — *both* in mind, not in flesh ». — From these it is evidently insinuated that from the time at which voluntary and marital consent intervenes, which alone makes marriage, the betrothed man and betrothed woman are true spouses.
+
+### Chap. V. *On the opinion of certain persons who say that marriage does not exist before carnal union.*
+
+Yet some assert that true marriage is not contracted before the handing-over and carnal union, nor are any truly spouses before the mingling of the sexes intervenes; but from the first pledge of betrothal the man is a *betrothed man,* and the woman a *betrothed woman,* not a *spouse.* But betrothed men and betrothed women, they say, are frequently called *spouses,* not because they *are,* but because they *are to be* so, of which thing they have made a mutual pledge. And according to this they hand down that the words of the aforesaid authorities are to be understood.
+
+### Chap. VI. *That a betrothed woman can choose a monastery without the betrothed man's consent.*
+
+But that between a *betrothed woman* and a *spouse* there is a great difference, they establish from this: that a *betrothed woman* is permitted, before carnal union, without consulting or against the will of the *betrothed man,* to choose a monastery; and this done, the betrothed man too is permitted to marry another. But a *married man* or *married woman* can neither observe continence, except by common consent, nor seek a monastery, unless both alike profess continence. That a *betrothed woman* is permitted to choose a monastery is proved by the authorities of the Saints. For Eusebius the Pope[^4] says: « A betrothed girl it is not permitted to the parents to hand over to another man, yet it is permitted her to choose a monastery for herself ». Likewise Gregory: « The legal decrees have judged that a betrothed woman, if she wishes to convert, be mulcted by absolutely no penalty ». « Jerome also relates that Macarius, foremost among the hermits of Christ, the wedding feast having been celebrated, when in the evening he was about to enter the bridal chamber, going out from the city sought lands across the sea and chose for himself the solitude of the desert. Blessed Alexius too, likewise called by divine grace from his nuptials, deserted his betrothed and began to serve Christ naked. — From these authorities and examples it is clear that it is permitted to betrothed men, without the consent of their betrothed women, and conversely, to profess continence ».
+
+### Chap. VII. *That a married person cannot profess continence without the spouse's consent.*
+
+But this is by no means permitted to the married. For a man cannot take up a purpose of a better life without the consent of his wife, and conversely. Whence Gregory[^5], writing
+
+<!-- page 673 -->
+
+to Theoctista the patrician lady: « There are those who say that on account of religion marriages ought to be dissolved. But it must be known that, even if human law has conceded this, yet divine law has forbidden it. But if it be agreeable to both to lead a continent life, who would dare to accuse this? For thus we know many of the Saints both to have led a continent life with their spouses before, and afterwards to have passed to the governance of the holy Church. But if the continence which the man seeks, the woman does not follow, or which the wife seeks, the man refuses; marriage cannot be divided, because it is written: *The woman does not have power over her own flesh, but the man; likewise also the man does not have power over his own body, but the woman* ». The same: « Agathosa, the bearer of the present [letter], has complained that her husband against her will has been converted into a monastery. Wherefore we command your experience diligently to examine by careful inquiry, lest perhaps he was converted with her will, or she promised to change herself. And if this your diligence shall have found; let it provide both that he remain in the monastery and compel her, as she promised, to change. But if none of these is so, nor have you learned that the aforesaid woman has committed any crime of fornication, on account of which it is permitted to dismiss a wife; lest his conversion become for the abandoned wife left in the world an occasion of ruin, we will that you ought to restore her husband to her, even if he is already tonsured, all excuse ceasing; because save for the cause of fornication no reason grants that a man dismiss his wife. For after by the union of marriage of the man and the woman one body is made, it cannot in part be converted and in part remain in the world ». Likewise from the eighth synod[^6]: « If any married man wishes to convert to a monastery, he is not to be received, unless first he has been released by his spouse who professes chastity. Such then follow Christ without fault, the world being left behind, if they have from equal will the consent of chastity ». Likewise: « If a man and wife have consented among themselves to separate for the sake of religious life alone, let it by no means be done without the knowledge of the bishop, that by him, providing singularly, they be established in [their] place. For with the wife unwilling, or either of them, even for such a matter marriage is not dissolved ».
+
+### Chap. VIII. *On adulterous unions.*
+
+Likewise Augustine[^7]: « If you abstain without the will of your wife, you grant her license of fornicating, and her sin will be imputed to your abstinence ». Likewise Nicholas the Pope[^8]: « Thietberga the queen has written to us that she desires to be stripped of her royal dignity or [conjugal] union and to be content with a private life alone. To her we wrote that this cannot be done otherwise, unless her husband Lothar choose the same life ». — From these it is clear that the married, without common consent, cannot profess continence, or take up the habit of religion; and if they have done so, they must be recalled.
+
+But betrothed persons can, without common consent, choose a monastery; whence it seems there is no marriage between a betrothed man and a betrothed woman. And therefore they assert that from the first pledge of betrothal they are called *spouses,* not by the reality of present things, but by the hope of future ones, since by the faith which from the betrothal they owe to one another, they are afterwards made spouses. The aforesaid authorities also, by which it is asserted that consent makes matrimony, they will to be understood thus: that the consent or conjugal pact does not make matrimony before intercourse, but in intercourse. For just as the deflowering of virginity does not make matrimony, unless the conjugal pact precede; so neither does the conjugal pact, before carnal union is present. From the conjugal *pact,* therefore, they become *betrothed man* and *betrothed woman* before intercourse, but in *intercourse* they are made *spouses.* For the conjugal pact brings it about that she who before was a *betrothed woman* becomes in intercourse a *spouse.*
+
+To these things we respond thus. Sometimes a betrothal occurs where there is a mutual promise of the man and the woman concerning *contracting* matrimony, but there is not there consent of the *present;* and there is a betrothal having consent of the *present,* that is a conjugal pact, which alone makes marriage. In that betrothal, therefore, where there is a promise of contracting matrimony, they become *betrothed* only, not *spouses;* and to such betrothed persons it is permitted, without common consent, to profess continence and to choose a monastery. But in that betrothal where there is consent of the present, *marriage* is contracted, and from the first pledge of that betrothal they are called *true spouses.* According to this distinction of betrothal the doctors speak variously of the betrothed.
+
+### Chap. IX. *That "betrothed man" and "betrothed woman" are taken in multiple senses.*
+
+For sometimes they call those *betrothed women* who have had such a betrothal where there was a conjugal pact of the present; and these are truly spouses. Whence Gregory[^9]: « If anyone has betrothed or pledged a wife to himself, although afterwards, the day of her death anticipating, he could not lead her as wife; nevertheless it is permitted to none of her kindred to take her in marriage; and if it be found to have been done, let them be entirely separated ». Likewise Julius the Pope: « If anyone has betrothed or pledged a wife, and, either the day of her death anticipating, or certain causes rushing in, has not known her; let neither his brother nor any of her kindred take the same to himself as wife at any time ever ». Likewise Gregory: « Whoever has taken in marriage the betrothed girl of his neighbor, let him be anathema, himself and all consenting to him, because according to the law of God he is decreed to die. For
+
+<!-- page 674 -->
+
+it is the custom of the divine law to call betrothed women *spouses,* as in the Gospel: *Take Mary your spouse;* and in Deuteronomy: *If anyone has oppressed another's betrothed in a field or in any place, or has led her into his house; let him die, because he has violated the wife of his neighbor* — not her who was already a wife, but her who was to be made a wife by her parents ». — From these it is gathered that certain betrothed women are spouses before the mingling of the sexes. — But perhaps that moves [a difficulty] which is said at the end of the chapter: *Not her who was already a wife, but her who was to be made a wife.* Which ought not to be so understood as if she were truly not a wife, from the time the conjugal pact intervened; but because she had not yet been handed over, nor had the wifely reality intervened, namely conjugal intercourse.
+
+She also is called a *betrothed woman*[^10] who has been thus betrothed to a man that consent of the present has not intervened, but [only] a pledge of the future. According to which mode that decree is understood: « If anyone has oppressed the betrothed of his son, and afterwards his son has married her; let the father afterwards not have [her as] wife, nor the woman [have] the man; let the son, who was ignorant of his father's crime, marry another ». If she had been a *spouse,* which she certainly would be, if in the betrothal a conjugal pact had intervened, the betrothed man would not be permitted to marry another. But upon adulterers the penalty of not marrying is inflicted by rigor, that others may be terrified. Likewise from the same[^11]: « A certain man betrothed a wife and endowed her and could not have intercourse with her, whom secretly his brother corrupted and rendered pregnant; it was decreed that, although she could not be married to the legitimate man, yet the brother may not have his brother's betrothed as wife; but let the adulterer and adulteress indeed bear the vengeance of fornication, yet let lawful marriages not be denied to them ». Of that betrothal this ought to be understood where there was no conjugal consent of the present, otherwise it would not be permitted to them to obtain other marriages. According to this also that ought to be understood: « It has been established by a sacred assembly that, if anyone has seized the betrothed of another, let him be mulcted with public penance and remain without hope of marriage. And if she has not been consenting to the same crime, let license of marrying another not be denied her[^12] ». « It appears that this woman had been betrothed without a conjugal pact of the present, and therefore had not been a spouse; to whom, the betrothed man living, license of marrying another is not denied ». For there are certain nuptial pacts of the future, from which they are called *betrothed man* and *betrothed woman,* nor thereupon are they spouses; and there is a certain conjugal pact of the present, which makes the *betrothed man* and *betrothed woman* even spouses. And each pact is sometimes called *betrothal* or *espousals,* yet *properly* are *espousals* called certain solemn nuptial pacts.
+
+Concerning nuptial pacts, where there is only a *pledge of the future,* Augustine[^13] says: « It has been instituted that betrothed women already pledged be not immediately handed over, lest the husband hold cheap her given, whom as betrothed man he did not sigh for when delayed ».
+
+### Chap. X. *Which betrothed woman is a widow when the betrothed man dies, and which is not.*
+
+And it must be known that that betrothed woman who has only been pledged in the future, the betrothed man being dead, does not remain a widow, because he had not been her husband. Whence if anyone marry her, he is not prohibited from ascending to holy orders, because he has not married a widow. For the husband of a widow, equally as a bigamist, is prohibited from being made a priest; but from such a union no one is barred from holy orders. According to this must be understood what Pelagius the Pope[^14] says of him who, her betrothed man being dead, marries the betrothed woman as wife: « There is nothing, he says, as far as pertains to this article, which would stand in his way from the canonical institutes, but that he may be able to be promoted to holy orders ». But if she had been such a betrothed woman between whom and her betrothed man consent of the present had intervened, he being dead, she would have remained a widow; and one united to her in marriage would not further approach to holy orders, since he has married a widow. It is not therefore to be doubted that consent of the present alone effects marriage, and that thereupon they are called true spouses. Therefore after such consent, if anyone unite himself to another, even if carnal mingling should there follow, he must be recalled to the prior union.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page under the running head *NOTAE AD LIBR. SENTENTIARUM;* here the marker `[^1]` belongs to printed page 671, `[^2]–[^5]` to page 672, `[^6]–[^9]` to page 673, and `[^10]–[^14]` to page 674. (Canon numbers in parentheses are Gratian's causa C. 27, q. 2 unless otherwise noted.)
+
+[^1]: **La.** Cfr. Gratian., introductio in C. 27. q. 2. Seq. locus C. *Beata Maria* (3.), ibid. § 1, ubi edd., excepta 1, et cod. C addunt *vitae* post *consuetudinem,* refragante etiam canone.
+     **En.** Cf. Gratian, the introduction to C. 27, q. 2. The following passage is the canon *Beata Maria* (3), ibid. § 1, where the editions, except 1, and cod. C add *vitae* after *consuetudinem,* though the canon itself is against it.
+
+[^2]: **La.** C. *Coniuges* (6.), ibid. sec. sensum, sed verbotenus apud Gratian., loc. cit. — Seq. locus Nicolai est C. *Sufficiat* (2.), ibid.; tertius Chrysost., in Matth. Opus imperfectum, hom. 32; C. *Omnis res* (4.), ibid.; quartus Ambros., de Institut. virgin. c. 6. n. 41; C. *Cum initiatur* (5.), ibid.
+     **En.** The canon *Coniuges* (6), ibid., according to the sense, but word-for-word in Gratian, loc. cit. — The following passage of Nicholas is the canon *Sufficiat* (2), ibid.; the third is Chrysostom, on Matthew, the *Opus imperfectum,* hom. 32; the canon *Omnis res* (4), ibid.; the fourth is Ambrose, *On the Instruction of Virgins,* c. 6, n. 41; the canon *Cum initiatur* (5), ibid.
+
+[^3]: **La.** Locis citt. — Seq. locus Isidor. est IX. Etymolog. c. 7. n. 9; cit. can. *Coniuges;* tertius August., l. de Nuptiis et concupisc. c. 11. n. 12; C. *Coniux vocatur* (9.), ibid. Verbum *utrumque* refertur ad nomen *pater* et *coniux.*
+     **En.** At the passages cited. — The following passage of Isidore is *Etymologies* IX, c. 7, n. 9; the canon *Coniuges* is cited; the third is Augustine, bk. *On Marriage and Concupiscence,* c. 11, n. 12; the canon *Coniux vocatur* (9), ibid. The word *utrumque* refers to the nouns *pater* and *coniux.*
+
+[^4]: **La.** Can. *Desponsatam* (27.), ibid. Seq. locus est Gregor., VII. Regest., indict. 15. epist. 23. (alias 20.) ad Fortunatum; C. *Decreta legalia* (28.), ibid. Tertius apud Gratian. super C. *Scripsit nobis* (26.), ibid. De re narrata nihil in Hieronymo.
+     **En.** The canon *Desponsatam* (27), ibid. The following passage is Gregory, *Register* VII, indiction 15, letter 23 (alias 20) to Fortunatus; the canon *Decreta legalia* (28), ibid. The third is in Gratian, on the canon *Scripsit nobis* (26), ibid. Of the thing narrated there is nothing in Jerome.
+
+[^5]: **La.** Loc. cit. XI. indict. 4. epist. 45. (alias 39.); C. *Sunt qui dicunt* (19.), ibid., ubi citatur I. Cor. 7, 4. Seq. locus est loc. cit. epist. 50. (alias 44.) ad Adrianum; C. *Agathosa latrix* (21.), ibid. — Pro *quoddam fornicationis* Gratian. et plurimae edd. *quondam,* refragante ed. Maurina operum Gregorii.
+     **En.** At the passage cited, *Register* XI, indiction 4, letter 45 (alias 39); the canon *Sunt qui dicunt* (19), ibid., where 1 Cor. 7:4 is cited. The following passage is at the passage cited, letter 50 (alias 44) to Adrian; the canon *Agathosa latrix* (21), ibid. — For *quoddam fornicationis* Gratian and most editions have *quondam,* though the Maurist edition of Gregory's works is against it.
+
+[^6]: **La.** Can. *Si quis* (22.), C. 27. q. 2. — Seq. locus C. *Si vir* (23.), ibid. — Pro *conscientia* plurimae edd. *consensu,* refragantibus codd. et canone, et pro *nolente* ed. 1 et cod. Erf. *volente.*
+     **En.** The canon *Si quis* (22), C. 27, q. 2. — The following passage is the canon *Si vir* (23), ibid. — For *conscientia* most editions have *consensu,* though the codices and the canon are against it, and for *nolente* ed. 1 and the Erfurt codex have *volente.*
+
+[^7]: **La.** *Verba* haec potius invenies inter opera Chrysost., Homil. 1. in Ps. 50. n. 8; C. *Si tu abstines* (24.), ibid.; sententia autem est apud August., l. de Adulterinis Coniugiis, c. 4. n. 4.
+     **En.** These *words* you will rather find among the works of Chrysostom, Homily 1 on Ps. 50, n. 8; the canon *Si tu abstines* (24), ibid.; but the opinion is in Augustine, bk. *On Adulterous Marriages,* c. 4, n. 4.
+
+[^8]: **La.** Can. *Scripsit nobis* (26.), ibid. — Infra ante *continentiam* cod. A et edd., excepta 1, addunt *monasterium eligere.* Quae sequuntur occurrunt etiam apud Gratian. super eundem canonem.
+     **En.** The canon *Scripsit nobis* (26), ibid. — Below, before *continentiam,* cod. A and the editions, except 1, add *monasterium eligere.* What follows occurs also in Gratian on the same canon.
+
+[^9]: **La.** Can. *Si quis uxorem* (14.), ibid. Seq. locus est C. *Si quis desponsaverit* (15.), ibid.; tertius C. *Qui desponsatam* (12.), ibid., ubi citantur Matth. 1, 20; Deuter. 22, 23. seqq.
+     **En.** The canon *Si quis uxorem* (14), ibid. The following passage is the canon *Si quis desponsaverit* (15), ibid.; the third is the canon *Qui desponsatam* (12), ibid., where Matt. 1:20 and Deut. 22:23 ff. are cited.
+
+[^10]: **La.** Solae edd., excepta 1, *Haec etiam sponsa est.* Seq. locus est C. *Si quis sponsam* (32.), ibid.
+     **En.** The editions alone, except 1, read *Haec etiam sponsa est.* The following passage is the canon *Si quis sponsam* (32), ibid.
+
+[^11]: **La.** Can. *Quidam desponsavit* (31.), ibid.
+     **En.** The canon *Quidam desponsavit* (31), ibid.
+
+[^12]: **La.** Can. *Statutum est* (34.), ibid. Seq. locus est apud Gratian. super eund. canonem.
+     **En.** The canon *Statutum est* (34), ibid. The following passage is in Gratian on the same canon.
+
+[^13]: **La.** August., VIII. Confess. c. 3. n. 7; C. *Institutum est* (39.), ibid. — Ibi codd. et edd., excepta 8, falso omittunt *non* ante *suspiravit,* refragante canone et originali Augustini. — De seqq. cfr. Gratian. super C. *Quod autem interrogasti* (29.), ibid.
+     **En.** Augustine, *Confessions* VIII, c. 3, n. 7; the canon *Institutum est* (39), ibid. — There the codices and editions, except 8, wrongly omit *non* before *suspiravit,* though the canon and the original of Augustine are against it. — On what follows cf. Gratian on the canon *Quod autem interrogasti* (29), ibid.
+
+[^14]: **La.** Can. *Valentino* (20.), d. 34; cfr. C. *Debitum pastoralis* (5.), X. de Bigamis non ordinandis, libr. 1. tit. 21.
+     **En.** The canon *Valentino* (20), d. 34; cf. the decretal *Debitum pastoralis* (5), in the *Liber Extra,* on Bigamists not to be ordained, book 1, title 21.
 
 ## Notes
 
-[Notes pending]
+- **Provenance.** Latin re-set from the IA djvu OCR base (`raw/bonaventure_vol4_raw.txt` lines 72761–73070) with PDF column-band reads authoritative on the cascade-fragmented two-column body and footers (Vol IV → VOL II OVERRIDE). Bands regenerated per this session's clip note: left columns via `colcrop.py vol4 <p> 2120`, right columns via `colcrop.py vol4 <p> 1780` (the vol4 columns are wide; the default 1880 split truncates the L-column right edge and the R-column left edge). Offset pdf = printed + 20 (printed 671–674 = pdf 691–694). English is a fresh literal parallel.
+- **This is the LITTERA MAGISTRI of Distinction XXVII** — Peter Lombard's full text *De consensu matrimoniali,* the Master's Caps I–X: I (things to consider in marriage), II (definition of marriage), III (consent as efficient cause), IV (when marriage begins), V (the opinion that marriage is only *in coitu*), VI (a betrothed woman may choose a monastery), VII (the married may not profess continence without mutual consent), VIII (adulterous unions, plus the resumption of the opinion and the Master's reply distinguishing betrothal *de futuro* / *de praesenti*), IX (the manifold senses of *sponsus/sponsa*), X (which betrothed woman is a widow at the betrothed's death). **SINGLE-PARS distinction** — no `pars` field. **DUBIA CIRCA LITTERAM is excluded** per the task.
+- **Page span correction (671 added).** The auto-chunk skeleton set the range at raw L72893 / printed 672, but L72893 is the running head at the TOP of p.673, not the distinction start. The genuine `DISTINCTIO XXVII` heading + Cap. I (*Quae sint consideranda in coniugio*) + the opening of Cap. II sit in the lower half of **p.671** (raw ≈ L72761, verified on the p.671 band: heading below the tail of d.26's *Dub. II* Respondeo). To render ALL the Master's chapters the chunk was extended to pp. **671–674**; frontmatter `printed_pages`/`pdf_pages`/`line_start` updated accordingly.
+- **Column-reflow / reading order.** Each page reads Left column fully, then Right column. This is also the logical order: e.g. p.673 L ends Cap. VIII (*…revocari debent*) and p.673 R opens *Sponsi vero possunt…* (married cannot profess continence, **but** betrothed can) — a continuous contrast, not a seam break. The opinion-resumption + reply block (*Sponsi vero possunt … His autem ita respondemus … varie loquuntur doctores*) carries no chapter heading in the source and so runs on under Cap. VIII. The Cap. IV Augustine quote crosses the p.672 L→R column break mid-sentence (*…sed etiam ille* | *pater eius…*); Cap. IX's Gregory *Qui desponsatam* quote crosses the p.673→674 break (*…mori decernitur. Nam* | *divinae legis mos est…*). No body text dropped at these seams (checked against the bands).
+- **Littera end / next-chunk seam (p.674).** The littera ends at *…ad priorem copulam revocandus est* (p.674 R column). Immediately after, the **COMMENTARIUS IN DISTINCTIONEM XXVII** (*De consensu ut efficiente causa matrimonii* → *DIVISIO TEXTUS* → *Haec est secunda pars…*) begins **in the lower LEFT column of p.674** (the littera occupies an L-shaped region: L-column-top + full R-column; the Commentarius fills the leftover L-column-bottom). That Commentarius/divisio block and everything after it (raw ≥ L73071, OCR `OOMMENTARIUS`) is the NEXT chunk and is EXCLUDED here.
+- **Footer ownership.** p.671's footer carries TWO blocks: the numbered notes ¹–⁹ under the running text belong to the PRIOR d.26 *Dubia* (article/quaestio cross-refs) and are EXCLUDED; only the fresh **NOTAE AD LIBR. SENTENTIARUM** note ¹ (*Cfr. Gratian… Beata Maria*) is the littera's and is claimed as `[^1]`. p.674's bottom footer notes ¹–⁵ (canon numbers 32, 31, 34, 39, 20) are the littera's *NOTAE AD LIBR.* and are claimed as `[^10]–[^14]`; the Commentarius's own notes begin on later pages. Total apparatus = **14** (1 p.671 + 4 p.672 + 4 p.673 + 5 p.674), all anchored in this body.
+- **No scholion** — littera chunk.
+- **`[?]` flags:**
+  - **p.671 `[^1]` canon incipit [?]:** the word before *Maria* in the *NOTAE* note ("Seq. locus C. **[Beata]** *Maria* (3.)") is clipped at the column edge on the band; rendered *Beata Maria* (the standard C.27 q.2 c.3 incipit) but flagged for a 600 dpi recheck at the d.21–d.30 decade-polish gate.
+  - **Cap. II reading *…exhibeat quod quisque sibi.*** — the band clearly prints *quod quisque sibi* (with no *debet*); transcribed verbatim (the verb is elided in Quaracchi). Rendered "what each [owes] to himself." Not a genuine ambiguity, noted for the record.
+  - Unambiguous OCR garbles silently corrected from the bands (e.g. `matrimoniuin`→*matrimonium,* `desponsalionis`→*desponsationis,* `Theotistae`→*Theoctistae,* `synodo`, `subarrhaverit`, `Pelagius`, `revocandus`).
