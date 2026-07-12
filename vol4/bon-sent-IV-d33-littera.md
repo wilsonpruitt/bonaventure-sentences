@@ -4,257 +4,135 @@ volume: 4
 book: 4
 distinctio: 33
 type: littera
+title_la: "Littera Magistri (Lombard), Distinctio XXXIII"
+title_en: "The text of the Master (Lombard), Distinction XXXIII"
+printed_pages: [744, 745, 746]
+pdf_pages: [764, 765, 766]
 line_start: 80052
-line_end: 80286
-word_count_latin: 1886
-transcription_status: "auto-chunked 2026-06-16"
+line_end: 80295
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 744–746"
+has_scholion: false
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set from vol4 PDF bands (raw L80052–80295), literal English, full apparatus (13 entries) (2026-07-12)"
 format_version: 1
 ---
 
-# bon-sent-IV-d33-littera
+# d.33 littera
+## *Littera Magistri (Lombard), Distinctio XXXIII*
+
+---
 
 ## Latin
+<!-- page 744 -->
 
-DISTINCTIO XXXIII.
+### Cap. I. *De diversis legibus coniugii.*
 
+Quaeritur hic de antiquis Patribus, qui plures simul leguntur habuisse uxores vel concubinas, utrum peccaverint. — Ad quod dicimus, quod « pro varietate temporum varia invenitur dispensatio Conditoris[^1] ». Ab exordio enim temporis inter duos tantum, Adam scilicet et Evam, inchoatum est coniugium, Deo per os Adae dicente: *Homo adhaerebit uxori suae, et erunt duo in carne una*; et secundum inchoationis modum inter duos tantum per omnem successionem temporum contraheretur, si primi homines in obedientia perstitissent. Post eorum vero copulam filii et filiae eorum matrimonio coniuncti sunt, sed unus uni tantum. Ideo autem fratres sororibus tunc sunt copulati, quia non erant aliae mulieres vel viri, quibus Adae filii vel filiae iungerentur. Primus omnium Lamech duas legitur[^2] simul habuisse uxores; et hoc in eo arguitur, quia pro expletione carnalis voluptatis id fecisse perhibetur. Postea vero, cum iam pene omnes homines falsis diis servirent, paucis in cultu Dei permanentibus; consultum est a Deo, plures in matrimonium copulare sibi, ne illis paucis deficientibus, cultus et notitia Dei deficeret. Unde Abraham, vivente uxore, ad ancillam intravit et ex ea genuit; Iacob etiam liberis et ancillis se copulavit, et filiae Loth patre ebrio usae sunt. « Cum enim ceteris in idololatria relictis, Abraham et filios eius in *peculiarem* sibi *populum* Dominus elegisset; rite multarum fecunditate mulierum populi Dei multiplicatio quaerebatur, quia in successione sanguinis erat successio religionis. Unde etiam in lege *maledicta erat sterilis*, quae non relinquebat semen super terram. Hinc etiam sacerdotibus coniugia decreta sunt, quia in successione familiae successio est officii ». « Non igitur Abraham vel Iacob deliquit, quia praeter uxorem filios ex ancilla quaesivit; nec illorum exemplo praeter coniugale debitum fecunditatem in aliqua licet alicui quaerere, cum illorum coniugia nostrorum aequentur virginitati, et immoderatus usus coniugii nostri temporis turpitudinem fere imitetur fornicationis illius temporis ». De hoc Augustinus[^3] sic ait: « Antiquis iustis non fuit peccatum, quod pluribus feminis utebantur; nec contra naturam hoc faciebant, cum non lasciviendi causa, sed gignendi hoc facerent; neque contra morem, quia eo tempore ea fiebant; nec contra praeceptum, quia nulla lege erat prohibitum ». Idem: « Obiiciuntur Iacob quatuor uxores, quod, quando mos erat, crimen non erat ». « Sic Patriarchae coniugibus excipientibus semen suum miscebantur, non concupiscentia perficiendae voluptatis, sed providentia propagandae successionis; sicut Apostoli auditoribus suis admirantibus doctrinam suam
 
-                                                                        Gap.            I.                                                               eliam liberis                               et ancillis se                       copulavil, et filiae Lolh pa-
-                                                                                                                                                         ire cbrio                  usac                 suiil.        «   Cum enlni ccleris in idololatria                                       •^
+<!-- page 745 -->
 
+condelectabantur, non aviditate consequendae laudis, sed caritate seminandae veritatis ». Idem alibi: « Antiquis temporibus, cum adhuc salutis nostrae mysterium velaretur, iusti officio propagandi nuptias contrahebant, non victi libidine, sed ducti pietate; qui multo facilius continere possent et vellent. Utebantur tamen coniugibus, et plures uni viro habere licebat, quas castius habebat, quam nunc unam quilibet istorum, in quibus videmus quod secundum veniam concedit Apostolus. Habebant enim eas in opere generandi, non in morbo desiderii ». Item Ambrosius[^4]: « Dixit Sara ad Abraham: *Ecce conclusit me Dominus, ut non pariam. Intra ergo ad ancillam meam, ut filium facias ex ea*; et ita factum est. Considera primum, quod Abraham ante legem Moysi et ante Evangelium fuit. Non ergo in Legem commisit Abraham, sed Legem praevenit. Nondum enim interdictum videbatur ». « Secundo considera, quod non ardore aliquo vagae succensus libidinis, non petulantis formae captus decore, ancillae contubernio coniugalem posthabuit torum, sed studio quaerendae posteritatis et propagandae sobolis. Adhuc post diluvium raritas erat humani generis, erat etiam religionis. Denique et Loth sancti filiae hanc causam quaerendae posteritatis habuerunt, ne genus deficeret humanum; et ideo publici muneris gratia privatam culpam praetexit ». Item Augustinus[^5]: « Iustus, quamvis *cupiat dissolvi et esse cum Christo*, tamen sumit alimentum, non cupiditate vivendi, sed officio consulendi, ut maneat quod necessarium est propter alios. Sic misceri feminis iure nuptiarum officiosum fuit sanctis viris, non libidinosum ». « Quod enim est cibus ad salutem hominis, hoc est concubitus ad salutem humani generis; et utrumque non est sine delectatione carnali, quae tamen modificata et refrenante temperantia in usum naturalem redacta libido esse non potest. Quod autem in sustentando vitam illicitus est cibus, hoc est in quaerenda prole fornicarius vel illicitus concubitus; et quod est in cibo licito immoderatior appetitus, hoc est in coniugibus venialis ille concubitus ».
 
-                                           Be diversis                          legibus coniugii.                                                                Abrabam et (iiios eius iii pecuUarem sihi po-
-                                                                                                                                                         relictis,
+### Cap. II. *Utrum Ioannis virginitas sit praeferenda castitati Abrahae.*
 
-                                                                                                                                                         fjulum Dominus elegisset rile multarum lecundilate                           ;
+Quod vero castitas virginalis non praeferatur in merito coniugali castitati *Abrahae*, Augustinus[^6] ostendit inquiens: « Sicut non est impar meritum patientiae in Petro, qui passus est, et in Ioanne, qui passus non est; sic non est impar meritum continentiae in Ioanne, qui nullas expertus est nuptias, et in Abraham, qui filios genuit. Nam illius caelibatus et istius connubium pro temporum distributione Christo militaverunt; sed continentiam Ioannes in opere, Abraham in solo habebat habitu ». « Melior est autem castitas caelibum quam nuptiarum; quarum unam Abraham habebat in usu, ambas in habitu; caste enim coniugaliter vixit. Esse autem castus sine coniugio potuit, sed tunc non oportuit ». Item Hieronymus[^7]: « Quis ignoret, sub alta dispensatione Dei omnes retro Sanctos eiusdem esse meriti, cuius nunc Christiani sunt? Quomodo Abraham ante placuit in coniugio, sic nunc virgines placent in castitate. Servivit ille legi et tempori suo; serviamus et nos legi et tempori nostro, *in quos fines saeculorum devenerunt* ». — Ex his apparet, quod sancti Patres ante Legem sine peccato plures habuerunt uxores vel concubinas. Eas enim nunc *uxores* appellat Scriptura, nunc *concubinas*; Rachel tamen et Lia ambae uxores fuerunt, non concubinae. Si quis opponat, quod fidem tori non servabant illi Patres; dicimus, in hoc servasse fidem tori, quia non aliis, sed propriis uxoribus, vel ancillis miscebantur. — Ecce, quae fuerit consuetudo in hac re ante Legem.
 
+### Cap. III. *Quae erat consuetudo coniugii sub Lege.*
 
+Legis vero tempore interdixit Moyses[^8], carnalem copulam fieri cum matre, cum noverca, cum sorore, cum nepte, cum amita, cum matertera, cum nuru et aliis quibusdam. Permisit autem, divortium fieri, dato libello repudii, in quo vir scribebat causas, pro quibus uxorem repudiabat. Permisit etiam aliam ducere, dato priori libello, quod propter *duritiam cordis* eorum permissum Christus dicit, non ut concederetur dissidium, sed ut tolleretur homicidium. Permisit, fieri mala, ne fierent peiora, et hoc permittendo non Dei iustitiam demonstravit, sed in peccatore minuit culpam.
 
+### Cap. IV. *Cui licebat tunc plures uxores habere, vel non.*
 
-                        Quaeritur bic de anliquis Palribus, qui plures                                                                             si-   muliorum populi Dei muliiplicatio quaerchalur, qiiia
-               mul      leguiilur              babuisse                     uxores vel concubinas, ulrum                                                 In snccessione sanguinis eral successio rcligionis. Unde
+Sed nunquid sub Lege licebat habere plures uxores? Audi, quid scriptum est in Deuteronomio[^9]: *Non habebit uxores plurimas, quae alliciant animam eius*. Super quem locum ait Augustinus: Manifestum est, Salomonem hoc praeceptum transisse; David autem plures habuit nec praeceptum praeteriit. Permissum est enim *plures* regi habere, non *plurimas*, quae alliciant animam, multiplicare; cum tamen additur: *ut non elevetur cor eius*, alienigenas prohibitum esse videtur. Verumtamen multiplicatio uxorum generaliter prohibita est; permissum est autem regi *plures habere*, sed non *multiplicare*. « Veniente autem plenitudinis tem-
 
-  Gratianus.   peccaveriiii.               — Ad quod diciinus, quod                                                        «    pro varie-               etiam in loge maledicla eral slerilis , quae iion relin-
-               tate leniporum varia inveniturdispensalio Conditoris ' ».                                                                                 quebal semen snpei- (orram. Hinc etiam sacerdotibns
-               Ab exordio eiiim lemporis inter duos tanlum, Adam                                                                                         coniugia decreta sunt, quia in successione familiae suc-
-               scilicel et Evam, incboalum est coniugium, Deo pcr                                                                                        cessio               est           oiricii ".                 «   Non igitur Abraham vei lacob
-               os  Adae dicente Homo adhaerebil uxori siiae, el
-                                                           :                                                                                             deliquK              ,
-                                                                                                                                                                                   quia praeter                            uxorom filios ex ancilla qiiaosi-
-               erunt duo in carne una ; et secuiulum incboalio-                                                                                          vit;        nec illorum exemplo                                                  praetor       coniugaio               debilnm
-               nis     modum inter duos lanlum                                                     per         omiiem successio-                         fecunditatem in aliqua                                             licet           alicui     quaerero,                cum illo-
-               nem teMiporum                           contraberelur,                                si        primi       boinines                in    rum coniugia nostrorum aeqiientur virginitad ct ini-                                                                    ,
+<!-- page 746 -->
 
+pore, quo Christi gratia ubique est dilatata, reducta est lex nuptiarum ad priorem honestioremque institutionem, ut unus uni in figura Christi et Ecclesiae iungatur[^10] ». « Nec quaeritur electio muneris in successione generis, sed in perfectione vitae et sinceritate scientiae; et virginitas fecunditati praefertur, et sacerdotibus continentia indicitur ». Melior est autem virginitas mentis quam carnis. Unde Ambrosius[^11]: « Tolerabilius est mentem virginem quam carnem habere; utrumque bonum est, si liceat; si non liceat, saltem non homini casti, sed Deo simus ». « Virgo prostitui potest, adulterari non potest; nec lupanaria infamant castitatem, sed castitas etiam loci abolet infamiam ». Idem: « Non potest caro corrumpi, nisi mens fuerit ante corrupta ». Idem Isidorus[^12]: « Non potest corpus corrumpi, nisi prius animus fuerit corruptus; munda enim a contagione anima, caro non peccat ». — In fine huius capituli aperitur, quomodo verum sit, nisi anima prius fuerit corrupta, corpus non posse corrumpi, scilicet peccato. Illud etiam Augustini[^13] advertendum est: « Sicut, inquit, sanctius est mori fame quam idolothytis vesci; ita sanctius est defungi sine liberis quam ex illicito coitu stirpem quaerere. Undecumque vero nascantur homines, si parentum vitia non sectentur et Deum recte colant, honesti et salvi erunt. Semen enim ex qualicumque homine Dei creatura est; et eo male utenti male erit, non ipsum aliquando malum erit ».
 
-
-
-               obedienlia                 perslilissent.                          Post             coruin             vcro         copulam               moderatus usus coniugii nostri (emporis turpKudinem
-               filii    et fiiiae             eoruin                  malrimonio coniuncli sunl, sed                                                     fere imltetur fornicationis illius temporis ».                                                                    De boc Au-
-               unus         iini        (anlum.                 Ideo            aulem               fraires sororibus                            lunc    giisdnus ' sic ail:                                      «   AiUiqnis iuslis non fuil peccalnm,
-               sunl copulati, quia non eranl aliae mulieres vol viri,                                                                                    quod pluribus feminis utebanliir; iiec conlra nalnram
-               quibus Adae filii vel filiae iungerentur. Primus omnlnm                                                                                   hoc faciebanl cum iion lasciviendi causa, sed gignendi
-                                                                                                                                                                                                     ,
-
-
-
-
-               Lamech duas legitur" simiil babuisse uxores; el boc                                                                                       hoc facerenl    neqiie coiitra morem    ; quia eo tempore                                          ,
-
-
-
-               in eo arguilur, quia pro explelione carnnlis voliiptalis                                                                                  ea fiebaiK   nec contra praecepdim, quia nulla lege
-                                                                                                                                                                                        ;
-
-
-
-               id feclsse perhibeliir. Poslea vero, cum                                                              iam peiie omnes                     erat prohihilum». Idem       « Obiiciiintur laco!) quatuor              :
-
-
-
-
-               bomines              ialsis diis                 servirent, paucis in cultu Dei per-                                                      uxores, quod, quando mos eral, crimon iion erat ».
-               manentibus; consultum                                        esl a            Deo, plures                   in     malrimo-               « Sic Palriarcbae coningibus excipienlibus scmen suum
-
-               nium copulare sibi, ne illis paucis deficienlibus, cul-                                                                                   miscebantur, non concupiscenlia pcrficiendae volupta-
-               tus el notilia Dei deficeret. Unde Abrabam, vivenie                                                                                       lis,        sed            providentia                            propagandae successionis                                  ;   siciit
-
-               uxore, ad anciilam inlravit                                                  et       ex        ea     genuit           ;        iacob    Apostoli auditoribns suis admirantibus doclrinam sunm
-
-
-
-
-                       .'   Vide         inlVa      lit.       Masistri, d. XXXlll.                             c.   i.                                  citatur         Geii.              2.       2i.    — Post contralwretuv cod.                                 .\   ct    edd., ex-
-                        2 Cfr.          siipra d.              14. p.       II.    a.        I.    cj.    2.   ad     I.   et    2;        II.   Sent.   cepta       I    ,       addunt coniugimn.
-               d.    43.    a.     2.    q.    2.     ad         I.   seq. el 4.              —          l'ro iiegatio potesl ,                  quod            2 (Jen.                4,           19.    — Pro            in       matrimonium plurimae                           edd.    m
-               praebent codd. N                        P 15 S T X, cod. .M Ijj non, alii codil. vel ne-                                                  matrimonio. Dcinde respiciunlur Gen. 16, 4; 30, 4; 19, 31.
-               cessario poiest,                  vel necessario ,                       cdd. necessario                        dicilur,          quao    — Seq. locus                        et          secundus inveniunlur in Gratian., loc. cit., ubi
-               etiam subinde                  bis facullalem pi-o facilitateiii.                                                                         respicitur Deut. n. 7,                                       14;     Vulgata:               Non erit apud le sterilis
-                        *   Vide siipra              d.        31. a. 2. q.                   I.    in     corp.                                         utriusqiie sexiis, lain in liominibiis                                                  quain          in   gregibus        Uiis.
-
-                        *   In     I.    Tliess. 5,              17.    Cfr.       supra pag. 368, nola                                    i.             Vcrba nialedicln ileriHs                                          ctc.          nulllbi    inveniuntur           in     Vulgnla,
-                        5 Cfr.          siipra a. 3. q.                 2   ,     ubi ctiani in scholio                         alii       auctores      licct   saepe a Patrlbiis citentur.
-               allegantur,              qui de liac rc                  lract;inl.                                                                               3    De Bono coniugali,                                    c.       2.5.   n.   33; seq. locus cst eiiisdem
-                                         NOTAE AD LIBR. SENTENTIARUM.                                                                                    XXII. conlra Faust.                                 c.       47; tertius ibid.                c.       48 (duo ullimi sunt
-                        '   Graiian. super C. Recurrat                                        nunc (2.), C. 32. q. i. Quae                               in   C. Obiicinntur lacob (7.), ibid.); quarlus de                                                           Bono coniugali,
-               sequunttu' e.\cei-pla sunt ex lUig.                                      ,      Sum. Sent. tr. 7. c. o, ubi                               c.   13.        n.       1.5,       ubi respicitur                      I.       Cor. 7, G.
-                                                                                                                                                                                                                                                                          ,
-
-
-
-
-                                                                                                                         DISTINCTIO XXXm.                                                                                                                        ^4^
-
-     coiuleleclabanliir, noii aviditate                                                   consequendne Jaudis,                                     continentiam loannes in opere                                      ,   Abraham in solo habe- Dubiom 3.
-s.   sed caritate                          seminandae                       veritatis ». Idein alibi                         :       «   An-       bat habitu ».              « Melior est            autem caslilas caelibum quam
-     liquls            lemporibus,                              cum adbuc salutls noslrae niyste-                                                  nuptiarum quarum unam Abraham habebal in usu
-                                                                                                                                                                        ;
-
-
-
-     rluin         velaretur, iusti odficio propagandi nuptias contra-                                                                             ambas in habitu; caste enlm coniugaliter vixil. Esse                                                                        ««Msa
-     hebant, non                               vicli       llbidine,sed ducti pletate; qui inulto                                                  autem castus sine coniugio potuit, sed tunc non opor-
-     facillus             continere possent et vellenl. Ulebantiir tamen                                                                           luit ».          Item Hieronymus *                      :    «   Quis ignoret, sub alta di- Hieronymns.
-     coniugibus,                           et       plures           uni      viro        habere                 licebat,            quas          .spensalione Deiomnes retro Sanclos eiusdem esse me- Dabiam 4.
-     castius habebat,                                  quam nunc unam                              quillbet              islorum,                  riti, culus nunc Christlanl sunt? Quomodo Abraham
-
-     in    quibus videmus quod secundum  veniam concedit                                                                                           ante placuit in coniugio, sic nunc virgines placent in                                                                     »i<c!'i<fiA
-
-
-     Apostolus. Habebanl enim eas in opere gcnerandi, non                                                                                          caslitate. Scrvivit ille legi et                                  lempori              suo    ;   serviamus
-s.   in inorbo desiderii». Item Ambrosius': « Dixit Sara                                                                                           et    nos legi           et    tempori            nostro, in quos fines saeculo-
-     ad      Abraham                       :    Ecce conclusil me Dominus , utnonpa-                                                               runi deveneruni ».                     —        Ex his apparet, quod sancli Pa-
-     riam. Inlra ergo ad ancillam                                                       meam , ul filium facias                                    tres anle Legem sine   peccato plures habuerunt uxores
-     ex      ea ; et                   ita           factum            est.        Considera                prlmum, quod                           vel concubinas.   Eas enim nunc uxores appellat Scri- Dobinm 5.
-     Abraham aiite legem Moysl et antc Evangellum fuit.                                                                                            plura, nunc concubinas ; Rachel tamen et Lia ambae
-     Non crgo in Legem commisit Abraham, sed Legem prae-                                                                                           uxores fuerunt, non concublnae.
-     venit. Nondum enlm Interdiclum vldebalur». « Secundo                                                                                                Si quls opponat, quod fidem    tori non servabant
-     considera, (|Uod non ardore aliquo vagae succensus 11-                                                                                        illl Patres;  dicimus, in hoc servasse fidem tori, quia
-     bidinls,             non pelulantis fornine captus decore, anclliae                                                                           iion        allis,       sed    propriis            uxoribus, vel ancillis misce-
-     contubernlo coniugalem poslbabuil torum, sed                                                                                studio            bantur.          — Ecce,         qiiae fuerit consuetudo in hac re ante
-     quaerendae posteritatls                                           et     propagandae sobolls. Adbuc                                           Legem.
-     post dlluvium rarltas orat                                               humani generis, erat etiam
-     rellgionis.                   Deni(|ue                     et   Loth sanctl                 fillae          haiic       eausam                                                                 C.\p.           IIL
-     quaerendae posteritatls habuerunl, ne genus deficeret
-!.   humanum                  ;        el           ideo        publlci            miineris            gratia            privatam                                   Qiiae erat consuetudo coniugii sub Lege.
-s.   cuipam praelexit». Item Aiiguslinus '                                                             :    «    histus, quam-
-     vis      cupiat clissolvi et esse cuni Christo , lamen sumit                                                                                              Legis vero tempore interdixit Moyses % carnalem
-     aliinenlum, non cupiditate vlvendi,                                                          sed officio consu-                               copulam fieri cum matre, cum noverca, cum sorore,
-
-     lendi, ut inaneat  quod necessarium est proptcr alios.                                                                                        cum nepte, cum amita, cum matcrlera, cum nuru et
-     Slc misceri feminis iure nupliarum officlosum fuit saii-                                                                                      alils       qulbusdam. Permisit autem, divortium fieri,dalo
-     ctls vlris, non libidinosum ». « Quod enim est cibus                                                                                          libello       repudii, in quo vir scribebat causas, pro qui-
-     ad saluteni hominis    hoc est concubilus ad salutem   ,                                                                                      bus uxorem repudiabat. Permisit etiam aliam ducere,
-     humani generis; el ulriimque non est sinc delectallone                                                                                        dato priori libello, quod
-                                                                                                                                                                           propter duritiam cordis eo-
-     carnali, quae lamen niodificata et refrcnante tempe-                                                                                          rum permissum                    Christus dicll                    ,    non           ut   concederetur
-     rantia in usum naluralem redacla libido esse non po-                                                                                          dissidium, sed ut toUeretur homicidium. Permisit, fieri
-     test. Quod autem in sustentando vitam illicitus est cl-                                                                                       mala, ne             flerenl pelora,                et           hoc permittendo non Dei
-     bus, boc est in quaerenda prole fornicarius vel illici-                                                                                       iustiliam demonstravit, sed in peccalore minult culpam.
-     liis concubitus; et quod est in clbo llclto Immoderatior
-
-     appetitus, hoc est in coniugibus venialis ille concu-                                                                                                                                         Cap.             IV.
-     bltus ».
-
-                                                                                                                                                         Cui licebat tunc plures uxores habere, vel non.
-                                                                     Cap.        II.
-
-                                                                                                                                                        Sed nunquid sub Lege llcebat habere piures uxo-
-                       Utrum lonnnis virginilas sit praeferenda                                                                                    res?Audi, quld scriplum esl in Deuteronomio " Non                                                        :
-
-
-
-
-                                                          castitali           Abrahae.                                                             habebit uxores plurimas , quae alliciant animam eius.
-                                                                                                                                                   Super quem locum ait AugusUnus Manifestum est, Sa- Angii,stinos.             :
-
-
-
-              Quod vero                             castitas           virginalis               noii        praeferatur                       in   lomonem hoc praeceptum translsse David aiitem plu-                               ;
-
-
-
-     merito conliigali castitali Abrahae, Augustinus ' osten-                                                                                      res habuit nec praeceplum praeteriit. Pcrmlssiim est
-     dit     inquiens                  :        «   Sicut non esl impar meritum patientiae                                                         enim plures regl habere, non ;j/MrM««s^ quae alliciant
-     in    Petro, qul passus esl, et In loanne, qui passus non                                                                                     aniinam, mulliplicare; cum lamen addltur: ut non
-     est; sic            non               est        impar meritiim conlinenliae in loanne,                                                       elevelur cor eius , allenigenas prohibilum esse videtiir.
-     qui nullas expertus est nuptias,                                                      et     in        Abrahani, qul                          Veriimtamen                   multiplicatio                  uxoriim                 generaliter prohi-
-     filios       genuit.                  Nam llllus caelibatus et istius connubium                                                               bila est;           permissum           est        autem regi /^/«m habere,sed
-     pro      temporum                              dlstribulione Cliiisto                        militaverunl                   ;       sed       non muUiplicare.                   «   Venienle aiitem plenitudinis                                           leni- Hogo.
-
-
-
-
-             '     IJbr.          I.       de .\bi-aham                P:\tn;iiTlia,        c.    4.       ii.   2.3,   ubi citnliii-                      *   Libr.    II.   adversus lovinianuiTi, n. 4: C. Quis ignorat (6.),
-     (jen.        I(),    2.; seq. locus ibid.                              n.     2i; utorque in C. Dixil Siira                                   ibid.;      in   (ine rospicilur       I.       Cor.         10,       11,       deinde    (jen.       30,    1.   9.
-     (3.),        C.     32. q. i.                                                                                                                         5   Levit.       18, 6. seqq.       ;    cfr.       Hug., Suni. Sent.                 tr. 7. c. .5.        De
-             '^
-                   De Bono coniiigali, c.                              I-j.   n.       17, ubi respiciUir               Pliil.    I,     23;       libello lepudii            vide Deut. 24,                   I.   et Matth.           19, 7.
-     seq. loeus ibid. c.                             16. n.          IS.                                                                                  ^    Cap. 17, 17; senlentia (non verba) August. estin V. (Juae-
-             ' Ibid.                       21.             26; seq.              locus                           22.                         ubi
-                              c.                     n.                                    ibid.       c.               n.   27,                   stionum          in Pentateuch.        q.       27, ubi respiciuntur III. Reg.                               II,   1
-                                                                                                                                                                                                                                                                          ;
-
-     anie coniugaliter edd.                                 addunt et, refraganiibus codd., ed.                                          I    et   II.   Heg. o,        13.      Pro elevetur         cum August. et Scptuaginta lege:
-     originali.                                                                                                                                    discedat, et supple muliiplicare post alienigenas.
-
-                         S.       Bomv.                — Tom.               IV.                                                                                                                                                                      94
-                                                                                                                       ,
-
-
-
-
-          746                                                                                          SENTENTIARUM LIB. IV.
-
-          porej quo Christi gratia ubique est dilatata                                             ,   reducta est         nisi   mens fuerit ante corrupla » Idem Isidorus ^           .                         :       «   Nou     ;
-
-
-
-
-          lex nupliarum                        ad           priorem honestioremque inslitutio-                             potest corpus corrumpi, nisi prius animus fuerit cor-
-          nem      ,    ut       unus uni                  in figura Christi             et Ecciesiae iunga-               ruptus          ;    munda enim a conlagione anima
-                                                                                                                                                                         caro non                          ,
-
-
-
-Dnbinm 6. tur ' ».           «   Nec quaeritur electio muneris in successione                                              peccat».              —
-                                                                                                                                            fme huius capiluli aperitur, quomodo
-                                                                                                                                                          In
-
- Gratianns. generis,             scd         in        perfectione vitae et sinceritate scien-                             verum sit, nisi anima prius fuerit corrupta, corpus
-          tiae; et               virginitas                 fecundilati          praefertur, et           sacerdo-         non posse corrumpi, scilicel peccalo. Illud etiam Au-;
-          tibus continentia indicitur».                                                                                    gustini * advertendum esl: « Sicut, inquit, sanctius esti
-                   Melior est autem virginitas                                     mentis         quam     carnis.         mori fame quam idolothytis vesci ita sanctius est                        ;                                     i
-
-
-
-
-Ambrosios. Undc  Ambrosius ^ « Tolerabilius est nientem virginem
-                                                       :                                                                   defungi            quam ex illicito coitu stirpem
-                                                                                                                                                sine       liberis                                                                        |
-
-
-
-
-          quam carnem habere utrumque bonum est, si liceat;   ;                                                            quaerere. Undecumque vero nascantur homines si pa-                                         ,
-                                                                                                                                                                                                                                          {
-
-
-
-          si non liceat, saltem non homini casti, sed Deo simus».                                                          rentum        non sectentur et Deum recte colant, ho-.i
-                                                                                                                                               vitia
-
-           B Virgo prostitui potest, adulterari non potesl; nec lu-                                                        nesti et salvi erunt. Semen enim ex qualicumque ho-|
-
-          panaria                infamanl castitatem, sed                               castitas       etiam    loci       mine Dei creatura est; et eo male utenti male erit,j
-          abolet infamiam». Idem                                  :    «   Non potest caro corrumpi,                       non ipsum aliquando malum erit».                                                                                   !
+---
 
 ## English
 
-[Translation pending]
+### Chap. I. *On the diverse laws of marriage.*
+
+The question is raised here concerning the ancient Fathers, who are read to have had several wives or concubines at the same time, whether they sinned. — To which we say that « according to the variety of times a varied dispensation of the Creator is found[^1] ». For from the beginning of time marriage was begun between two only, namely Adam and Eve, God saying through the mouth of Adam: *A man shall cleave to his wife, and they shall be two in one flesh*; and according to the manner of its inception it would have been contracted between two only through every succession of times, if the first human beings had persisted in obedience. But after their coupling their sons and daughters were joined in marriage, yet one to one only. And brothers were then joined to sisters for this reason, that there were no other women or men to whom the sons or daughters of Adam might be joined. Lamech is read to have been the first of all[^2] to have had two wives at the same time; and in this it is charged against him, because he is reported to have done it for the fulfillment of carnal pleasure. But afterward, when now almost all men served false gods, few remaining in the worship of God, it was counseled by God that they should join several [wives] to themselves in marriage, lest, those few failing, the worship and knowledge of God should fail. Whence Abraham, while his wife was living, went in to the handmaid and begot [offspring] from her; Jacob too coupled himself with freeborn women and handmaids, and the daughters of Lot made use of their father when he was drunk. « For when, the rest being left in idolatry, the Lord had chosen Abraham and his sons as a *peculiar people* for himself; rightly, by the fruitfulness of many women, the multiplication of the people of God was sought, because in the succession of blood there was the succession of religion. Whence also under the law *the barren woman was accursed*, who did not leave seed upon the earth. Hence also marriages were decreed for the priests, because in the succession of the family there is the succession of office ». « Not therefore did Abraham or Jacob transgress, because besides a wife he sought sons from a handmaid; nor is it permitted to anyone by their example to seek fruitfulness in any [woman] beyond the conjugal debt, since their marriages are equalled to the virginity of our own [times], and the immoderate use of the marriage of our time nearly imitates the baseness of the fornication of that time ». Concerning this Augustine[^3] thus says: « To the ancient just there was no sin, that they used several women; nor did they do this against nature, since they did it not for the sake of wantonness, but of begetting; nor against custom, because at that time these things were done; nor against a precept, because it was forbidden by no law ». Likewise: « Four wives are objected against Jacob, [but] that which, when it was the custom, was no crime ». « So the Patriarchs mingled with their spouses as they received their seed, not with the concupiscence of completing pleasure, but with the providence of propagating succession; just as the Apostles, while their hearers marveled at their teaching,
+
+took joint delight, not from the eagerness of attaining praise, but from the charity of sowing the truth ». The same [author] elsewhere: « In ancient times, when the mystery of our salvation was still veiled, the just contracted marriages by the duty of propagating, not conquered by lust, but led by piety; who could and would much more easily practise continence. Nevertheless they used spouses, and it was permitted to have several to one man, whom he had more chastely than now any of these has one, in whom we see that the Apostle concedes it by way of indulgence. For they had them in the work of generating, not in the sickness of desire ». Likewise Ambrose[^4]: « Sarah said to Abraham: *Behold, the Lord has shut me up, that I may not bear. Go in therefore to my handmaid, that you may make a son from her*; and so it was done. Consider first, that Abraham was before the law of Moses and before the Gospel. Not therefore did Abraham offend against the Law, but he anticipated the Law. For it did not yet seem forbidden ». « Secondly consider, that not inflamed by any ardor of wandering lust, not captured by the beauty of a wanton form, he set the conjugal bed second to the handmaid's companionship, but from zeal for seeking posterity and propagating offspring. Still after the flood there was a scarcity of the human race, there was also [a scarcity] of religion. Finally the daughters of holy Lot had this cause of seeking posterity, lest the human race should fail; and therefore for the sake of a public office he veiled a private fault ». Likewise Augustine[^5]: « The just man, although he *may desire to be dissolved and to be with Christ*, nevertheless takes nourishment, not from a desire of living, but from the duty of taking counsel, that there may remain what is necessary for the sake of others. So to be mingled with women by the right of marriage was dutiful for holy men, not lustful ». « For what food is to the health of a man, that intercourse is to the health of the human race; and neither is without carnal delight, which nevertheless, moderated and reduced to natural use by restraining temperance, cannot be lust. But what unlawful food is in sustaining life, that unlawful or fornicating intercourse is in seeking offspring; and what an over-immoderate appetite is in lawful food, that venial intercourse is in spouses ».
+
+### Chap. II. *Whether John's virginity is to be preferred to the chastity of Abraham.*
+
+But that virginal chastity is not to be preferred, in merit, to the conjugal chastity of *Abraham*, Augustine[^6] shows, saying: « Just as the merit of patience is not unequal in Peter, who suffered, and in John, who did not suffer; so the merit of continence is not unequal in John, who experienced no marriage, and in Abraham, who begot sons. For the celibacy of the one and the wedlock of the other served Christ according to the distribution of the times; but John had continence in the deed, Abraham in disposition alone ». « But the chastity of the celibate is better than that of the married; of which Abraham had one in use, both in disposition; for he lived chastely in a conjugal manner. He could indeed have been chaste without marriage, but then it was not fitting ». Likewise Jerome[^7]: « Who would not know that, under the lofty dispensation of God, all the former Saints are of the same merit of which Christians now are? As Abraham was formerly pleasing in marriage, so now virgins are pleasing in chastity. He served his own law and time; let us too serve our own law and time, *upon whom the ends of the ages have come* ». — From these things it appears that the holy Fathers before the Law had, without sin, several wives or concubines. For Scripture now calls them *wives*, now *concubines*; Rachel however and Leah were both wives, not concubines. If anyone should object that those Fathers did not keep the fidelity of the bed, we say that in this they kept the fidelity of the bed, because they mingled not with others, but with their own wives or handmaids. — Behold, what the custom was in this matter before the Law.
+
+### Chap. III. *What the custom of marriage was under the Law.*
+
+But in the time of the Law Moses[^8] forbade carnal coupling to take place with a mother, with a stepmother, with a sister, with a granddaughter [or niece], with a paternal aunt, with a maternal aunt, with a daughter-in-law, and with certain others. He permitted, however, a divorce to take place, a bill of repudiation being given, in which the man wrote the causes for which he repudiated his wife. He permitted also [him] to lead another [wife], the prior bill being given, which Christ says was permitted on account of the *hardness of their heart*, not that divorce should be conceded, but that homicide should be removed. He permitted evils to be done, lest worse should be done, and by this permitting he did not demonstrate the justice of God, but in the sinner he diminished the fault.
+
+### Chap. IV. *To whom it was then permitted to have several wives, or not.*
+
+But was it ever permitted under the Law to have several wives? Hear what is written in Deuteronomy[^9]: *He shall not have many wives, who may allure his soul*. Upon which passage Augustine says: It is manifest that Solomon transgressed this precept; David however had several and did not overstep the precept. For it was permitted for a king to have *several*, not to multiply *many* who allure the soul; since nevertheless it is added: *that his heart be not lifted up*, foreign women seem to have been forbidden. Nevertheless the multiplication of wives was generally forbidden; but it was permitted for a king *to have several*, but not *to multiply* [them]. « But when the fullness of the time was come,
+
+in which the grace of Christ was everywhere spread abroad, the law of marriages was brought back to its former and more honorable institution, so that one should be joined to one in a figure of Christ and the Church[^10] ». « Nor is the choice of an office sought in the succession of the race, but in the perfection of life and the sincerity of knowledge; and virginity is preferred to fruitfulness, and continence is enjoined upon priests ». But the virginity of the mind is better than that of the flesh. Whence Ambrose[^11]: « It is more tolerable to have the mind a virgin than the flesh; each is good, if it be permitted; if it be not permitted, let us at least be [virgins] not for a chaste man, but for God ». « A virgin can be prostituted, [but] cannot be made an adulteress; nor do brothels defame chastity, but chastity abolishes even the infamy of the place ». The same [author]: « The flesh cannot be corrupted, unless the mind has first been corrupted ». Likewise Isidore[^12]: « The body cannot be corrupted, unless the spirit has first been corrupted; for the soul being clean from contagion, the flesh does not sin ». — At the end of this chapter it is disclosed how it is true that, unless the soul has first been corrupted, the body cannot be corrupted, namely by sin. That [saying] also of Augustine[^13] must be noted: « Just as, he says, it is holier to die of hunger than to eat things sacrificed to idols; so it is holier to die without children than to seek offspring from illicit intercourse. But from wherever men are born, if they do not follow the vices of their parents and worship God rightly, they will be honorable and saved. For seed from whatever man is a creature of God; and to him who uses it ill it will go ill, [but] the thing itself will not at some time be evil ».
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi apparatus entry; **En.** gives a literal English rendering. Quaracchi restarts footnote numbering on each printed page; here the three pages' sequences (p. 744: 3 notes; p. 745: 6 notes; p. 746: 4 notes) are flattened into a single continuous run [^1]–[^13]. On pp. 744 and 746 these are the notes printed under the heading NOTAE AD LIBR. SENTENTIARUM (the apparatus to the Master's text); the notes headed NOTAE AD COMMENTARIUM on p. 746 belong to Bonaventure's commentary (the divisio chunk), not here.
+
+[^1]: **La.** [NOTAE AD LIBR. SENTENTIARUM.] Gratian. super C. *Recurrat nunc* (2.), C. 32. q. 4. Quae sequuntur excerpta sunt ex Hug., Sum. Sent. tr. 7. c. 5, ubi citatur Gen. 2, 24. — Post *contraheretur* cod. A et edd., excepta I, addunt *coniugium*.
+     **En.** Gratian, on the canon *Recurrat nunc* (2.), C. 32, q. 4. What follows is excerpted from Hugh, *Summa Sententiarum,* tr. 7, c. 5, where Gen. 2:24 is cited. — After *contraheretur* codex A and the editions, except I, add *coniugium* ("marriage").
+
+[^2]: **La.** Gen. 4, 19. — Pro *in matrimonium* plurimae edd. *in matrimonio*. Deinde respiciuntur Gen. 16, 4; 30, 4; 19, 31. — Seq. locus et secundus inveniuntur in Gratian., loc. cit., ubi respicitur Deut. n. 7, 14; Vulgata: *Non erit apud te sterilis utriusque sexus, tam in hominibus quam in gregibus tuis*. — Verba *maledicta sterilis* etc. nullibi inveniuntur in Vulgata, licet saepe a Patribus citentur.
+     **En.** Gen. 4:19. — For *in matrimonium* very many editions [read] *in matrimonio*. Then Gen. 16:4; 30:4; 19:31 are alluded to. — The following passage and the second are found in Gratian, at the place cited, where Deut. 7:14 is alluded to; Vulgate: *There shall not be among you one barren of either sex, both in men and in your flocks*. — The words *maledicta sterilis* ("the barren woman was accursed") etc. are nowhere found in the Vulgate, although they are often cited by the Fathers.
+
+[^3]: **La.** De Bono coniugali, c. 25. n. 33; seq. locus est eiusdem XXII. contra Faust. c. 47; tertius ibid. c. 48 (duo ultimi sunt in C. *Obiiciuntur Iacob* (7.), ibid.); quartus de Bono coniugali, c. 13. n. 15, ubi respicitur I. Cor. 7, 6.
+     **En.** *On the Good of Marriage,* c. 25, n. 33; the following passage is [from] the same [author's] Book XXII *Against Faustus,* c. 47; the third [is] ibid., c. 48 (the two last are in the canon *Obiiciuntur Iacob* (7.), ibid.); the fourth [is from] *On the Good of Marriage,* c. 13, n. 15, where I Cor. 7:6 is alluded to.
+
+[^4]: **La.** Libr. I. de Abraham Patriarcha, c. 4. n. 23, ubi citatur Gen. 16, 2.; seq. locus ibid. n. 24; uterque in C. *Dixit Sara* (3.), C. 32. q. 4.
+     **En.** Book I, *On Abraham the Patriarch,* c. 4, n. 23, where Gen. 16:2 is cited; the following passage ibid., n. 24; both in the canon *Dixit Sara* (3.), C. 32, q. 4.
+
+[^5]: **La.** De Bono coniugali, c. 15. n. 17, ubi respicitur Phil. 1, 23; seq. locus ibid. c. 16. n. 18.
+     **En.** *On the Good of Marriage,* c. 15, n. 17, where Phil. 1:23 is alluded to; the following passage ibid., c. 16, n. 18.
+
+[^6]: **La.** Ibid. c. 21. n. 26; seq. locus ibid. c. 22. n. 27, ubi ante *coniugaliter* edd. addunt *et*, refragantibus codd., ed. I et originali.
+     **En.** Ibid., c. 21, n. 26; the following passage ibid., c. 22, n. 27, where before *coniugaliter* the editions add *et*, against the manuscripts, edition I, and the original.
+
+[^7]: **La.** Libr. II. adversus Iovinianum, n. 4; C. *Quis ignorat* (6.), ibid.; in fine respicitur I. Cor. 10, 11, deinde Gen. 30, 1. 9.
+     **En.** Book II *Against Jovinian,* n. 4; the canon *Quis ignorat* (6.), ibid.; at the end I Cor. 10:11 is alluded to, then Gen. 30:1, 9.
+
+[^8]: **La.** Levit. 18, 6. seqq.; cfr. Hug., Sum. Sent. tr. 7. c. 5. De libello repudii vide Deut. 24, 1. et Matth. 19, 7.
+     **En.** Lev. 18:6ff.; cf. Hugh, *Summa Sententiarum,* tr. 7, c. 5. On the bill of repudiation see Deut. 24:1 and Matt. 19:7.
+
+[^9]: **La.** Cap. 17, 17; sententia (non verba) August. est in V. Quaestionum in Pentateuch. q. 27, ubi respiciuntur III. Reg. 11, 1; II. Reg. 5, 13. Pro *elevetur* cum August. et Septuaginta lege: *discedat*, et supple *multiplicare* post *alienigenas*.
+     **En.** [Deut.] c. 17, [v.] 17; the sense (not the words) is Augustine's, in [Book] V of the *Questions on the Pentateuch,* q. 27, where III Kings 11:1 and II Kings 5:13 are alluded to. For *elevetur* read, with Augustine and the Septuagint, *discedat* ("that it depart"), and supply *multiplicare* ("to multiply") after *alienigenas* ("foreign women").
+
+[^10]: **La.** [NOTAE AD LIBR. SENTENTIARUM.] Hug., loc. cit.; respicitur Gal. 4, 4. Seq. locus est apud Gratian. super C. *Recurrat* (2.), ibid.
+     **En.** Hugh, at the place cited; Gal. 4:4 is alluded to. The following passage is in Gratian, on the canon *Recurrat* (2.), ibid.
+
+[^11]: **La.** Libr. II. de Virginibus, c. 4. n. 24; seq. locus ibid. n. 26; C. *Tolerabilius* (1.), ibid. q. 5. Tertius eiusdem de Lapsu virginis consecratae, c. 4. n. 11; C. *Re vera* (2.), ibid., in quo codd. *caro* incongrue ponunt ante, et edd., excepta I, etiam post *caro* in fine, refragante originali et canone.
+     **En.** Book II, *On Virgins,* c. 4, n. 24; the following passage ibid., n. 26; the canon *Tolerabilius* (1.), ibid., q. 5. The third [is] from the same [author's] *On the Lapse of a Consecrated Virgin,* c. 4, n. 11; the canon *Re vera* (2.), ibid., in which the manuscripts place *caro* ("flesh") incongruously before [it], and the editions, except I, also after *caro* at the end, against the original and the canon.
+
+[^12]: **La.** Libr. II. de Synonymis, n. 7; C. *Non potest* (8.), ibid.
+     **En.** Book II, *On Synonyms,* n. 7; the canon *Non potest* (8.), ibid.
+
+[^13]: **La.** De Bono coniugali, c. 16. n. 18; C. *Sicut satius* (8.), C. 32. q. 4; ubi etiam August. et can. bis habent et recte *satius* pro *sanctius*, sed refragantibus nostris codd. et edd.
+     **En.** *On the Good of Marriage,* c. 16, n. 18; the canon *Sicut satius* (8.), C. 32, q. 4; where also Augustine and the canon twice have — and rightly — *satius* ("better") for *sanctius* ("holier"), but against our manuscripts and editions.
 
 ## Notes
 
-[Notes pending]
+**Provenance:** The Littera Magistri of Distinctio XXXIII (Master's chapters I–IV: *De diversis legibus coniugii* / *Utrum Ioannis virginitas sit praeferenda castitati Abrahae* / *Quae erat consuetudo coniugii sub Lege* / *Cui licebat tunc plures uxores habere, vel non*), on polygamy, virginity, and divorce among the ancient Fathers. Latin re-set column-by-column from the Vol. IV PDF page-bands (`vol4-p{744,745,746}-{L,R}-{0,1,2}`, generated with `tools/colcrop.py vol4 <page> 2120` for the L column and `1600` for the R column — vol4's default and even the R=1780 split truncate the wide columns here). The IA djvu OCR (raw L80052–80295) cascade-fragments both columns and every footer on these pages, so the PDF bands are authoritative per the VOL II OVERRIDE; the OCR was used only as a marker-position cross-check. English is a fresh literal translation.
+
+**Page-span correction:** The skeleton frontmatter had `printed_pages: [745, 746, 747]`; verified from the running heads (`DISTINCTIO XXXIII` on p. 745, `SENTENTIARUM LIB. IV` on p. 746) the littera actually **opens on p. 744** and **ends on p. 746**. Frontmatter corrected to `[744, 745, 746]` / pdf `[764, 765, 766]`. `Cap. I` begins in the lower half of p. 744 (under the centered `DISTINCTIO XXXIII.` heading), after the tail of the d.32 dubia which fills the upper half. The littera runs L-column-then-R-column across pp. 744–746 and ends on p. 746 R at `...non ipsum aliquando malum erit »`, immediately before the centered `COMMENTARIUS IN DISTINCTIONEM XXXIII.` heading. Everything from that heading on (subtitle *Qualiter fidem tori sancti Patres…*, lemma, DIVISIO TEXTUS, TRACTATIO QUAESTIONUM) is Bonaventure's commentary and belongs to the **divisio** chunk.
+
+**Apparatus: 13 entries, per-page split 3 / 6 / 4.**
+- **p. 744 (3 entries, [^1]–[^3]):** the NOTAE AD LIBR. SENTENTIARUM notes 1–3, spanning both columns (note 1 opens in the L footer, continues in the R footer; notes 2–3 in the R footer). Anchors `Conditoris[^1]`, `legitur[^2]`, `Augustinus[^3]`. The *upper* footer block on p. 744 (numbered 1–5: *Vide infra lit. Magistri d. XXXIII c. 4*, *Cfr. supra d. 14*, *Vide supra d. 31*, *In I. Thess. 5, 17*, *Cfr. supra a. 3. q. 2*) is the d.32-dubia commentary apparatus and belongs to the d.32-dubia chunk, not here.
+- **p. 745 (6 entries, [^4]–[^9]):** the whole page is littera, so all six footers are this chunk's — notes 1–3 in the L footer, 4–6 in the R footer. Anchors `Ambrosius[^4]`, `Augustinus[^5]`, `Augustinus[^6]`, `Hieronymus[^7]`, `Moyses[^8]`, `Deuteronomio[^9]`.
+- **p. 746 (4 entries, [^10]–[^13]):** the littera fills the tops of both columns; its footer notes 1–4 (notes 1–3 in the L footer, note 4 in the R footer) are this chunk's. Anchors `iungatur[^10]`, `Ambrosius[^11]`, `Isidorus[^12]`, `Augustini[^13]`. The two notes below the `NOTAE AD COMMENTARIUM` heading on p. 746 (1: *Codd. confirmat*; 2: *Edd. opponit…*) are Bonaventure's commentary apparatus and belong to the divisio chunk.
+
+**Hand-off picked up:** As the d.32 dubia flagged, the p. 744 NOTAE AD LIBR. SENTENTIARUM notes (Gratian / Gen. 4, 19 / De Bono coniugali) anchor in this littera opening and are claimed here as [^1]–[^3]. The d.32-dubia chunk retains the p. 744 upper commentary block (notes 1–5).
+
+**Hand-off forwarded:** This chunk shares p. 746 with the **divisio** chunk. The `COMMENTARIUS IN DISTINCTIONEM XXXIII` / `DIVISIO` / `TRACTATIO QUAESTIONUM` block on the lower half of p. 746, and the `NOTAE AD COMMENTARIUM` footers (Codd. confirmat; Edd. opponit) anchored in it, belong to the divisio, not here. The littera's last footer on p. 746 is [^13] (`Augustini`).
+
+**Marginalia trimmed:** Editorial side-glosses bleeding into the columns were removed from the body per the OCR-cleanup rule — author tags (`Gratianus.`, `Ambrosius.`, `Hieronymus.`, `Augustinus.`, `Isidorus.`, `Hugo.`) and the Bonaventure cross-reference glosses (`Dubium 3./4./5./6.`) that mark which commentary dubium treats each littera passage.
+
+**[?] flags:** none unresolved. The IA OCR garbled p. 746 R's Augustine quote as "sanctius est mentem virginem defungi... sine liberis"; the PDF band reads clearly "ita sanctius est defungi sine liberis quam ex illicito coitu stirpem quaerere" (confirmed by the standard Augustine text), and note [^13] itself remarks that the source reads *satius* for *sanctius* — the printed *sanctius* is retained as Quaracchi prints it (refragantibus nostris codd. et edd.). The p. 746 phrase `Idem Isidorus` is transcribed as printed (rendered "Likewise Isidore").
