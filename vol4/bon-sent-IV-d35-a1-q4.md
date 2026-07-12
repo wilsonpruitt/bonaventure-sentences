@@ -6,344 +6,176 @@ distinctio: 35
 articulus: 1
 quaestio: 4
 type: quaestio
+title_la: "Utrum, divortio celebrato, vir possit aliam uxorem ducere, vel uxor alium virum"
+title_en: "Whether, once a divorce has been celebrated, the man may take another wife, or the wife another husband"
+printed_pages: [785, 786]
+pdf_pages: [805, 806]
 line_start: 84103
-line_end: 84422
-word_count_latin: 2648
-transcription_status: "auto-chunked 2026-06-16"
+line_end: 84204
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 785–786"
+has_scholion: true
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set from vol4 PDF bands (raw L84103–84204), literal English, full apparatus (11 entries), scholion 2 (§I–III, covers q4–q6) (2026-07-12)"
 format_version: 1
 ---
 
-# bon-sent-IV-d35-a1-q4
+# d.35 a1-q4
+## *Utrum, divortio celebrato, vir possit aliam uxorem ducere, vel uxor alium virum*
+
+---
 
 ## Latin
+<!-- page 785 -->
 
-QUAESTIO IV.
+### Quaestio IV. *Utrum, divortio celebrato, vir possit aliam uxorem ducere, vel uxor alium virum.*
 
-                               Utrum                      ,    divortio celebrato, vir possit aliam                                              uxorem ducere, vel ii-xor alium virum.
+Quarto quaeritur, utrum, divortio celebrato, vir possit aliam uxorem ducere, vel uxor alium virum. Et quod non, videtur.
 
+1. Primae ad Corinthios septimo[^p785-2]: *Praecipio non ego, sed Dominus, uxorem a viro non discedere; quodsi discesserit, manere innuptam.*
 
-                    Qiiarto quaeritur, ulrum, divorlio celebrato, vir                                                                                      4.           Uem            ,
-                                                                                                                                                                                                   post               divorlium                       vir    in       nullo        tenetur
-        possit           aham uxorem ducere, vel uxor ahum virum.                                                                           uxori, nec                                 in              quantum ad debitum solvendum nec
-        Et     quod non                      ,       videlur.                                                                               quoad cohahitalionem                                                            :    ergo aliquis est a lege uxo-
-                    1.    Primae ad Corinthios seplimo": Praecipio                                                                          ris        solutus"; et                                              si     hoc;               cum          vir       solutus          a      lege
-mii.non ego , sed    Domimis uxorem. a viro non disce-                      ,                                                               uxoris possit contrahere, videlur                                                                               etc.
+2. Item, Augustinus *de Bono coniugali*[^p785-3]: « Manet inter viventes coniugale vinculum, quod nec separatio nec cum alio coniunctio possit auferre ».
 
-        dere; quodsi discesserit , manere innuptam.
-                    2.    Item           ,       Augustinus de Bono coniugah '                                            :    « Ma-                                                                                 CONCLUSIO.
-        net         inter        vivenles                            coniugale                vinculum         ,
-                                                                                                                    quod nec
-        separalio nec                            cum alio coniunctio possit auferre».                                                       Divortium ob aduUerium factum non separat ma-
-                    3.    Item, ratione videtur: quia,                                                    si    alter posset                               trimonium, dummodo                                                                     legitime              fuit      contra-
-        nubere;            cum                       niatrinionium                          non claudicet*, posset                                         ctum, quoad vinculum       sed lanlum quoad                                            ,
+3. Item, *ratione* videtur: quia, si alter posset nubere; cum matrimonium non claudicet[^p785-4], posset uterque nubere: ergo quotiescumque aliqua vellet habere alium virum, posset habere fornicando; quod stultum est dicere.
 
+4. Item, si propter fornicationem solveretur omnino matrimonium: ergo si aliquis cognosceret uxorem, ex quo fornicata est, cum iam non sit inter eos matrimonium, peccaret mortaliter; quod est inconveniens dicere.
 
-        ulerqne nubere: ergo                                                quoliescumque aliqua                               vellet                      debilum et cohabitationem.
-        habere aliuni virum, pnsset habere fornicando; quod
-        stultum esl dicere.                                                                                                                                Respondeo: Dicendum, quod                                                                         divortium              potest
-                    4.    Item,                       si        propter               fornicationem                 solveretur              fieri           dupliciter: aut quia personae erant illeqitimae oap^e^ a-
-                                                                                                                                                 7                                7                f                    1              •                    ....                                   vorlium.
-        omnini)            niatrimoniiim:                                       ergo        si    aliqnis          cognosceret              ad conlrahendum ad invicem                                                                                 simpliciter; et                    tunc conciasio i.
-        nxorem,ex quo fornicata est, cum iam non sit in-                                                                                    uterque potest alteri nubere, sicul supra ^ dislinctum
-        ter eos           matrimonium, peccaret mortaliter; quod est                                                                        est.           Potest eliam                                          fieri      propter crirnen fornicalionis
-        inconveniens dicere.                                                                                                                et       tunc                i:on              polest contrahere nec                                                 vir       nec mulier; conciasioa.
-                    CoNTRA      1 Osee secundo
-                                         :         Ipsa non uxor mea,
-                                                     .
-                                                                                            ' :
-                                                                                                                                            quia,               cum essent personae legilimae, fuit inter eas
-posi-   et ego           non vir eius; Glossa: « Quia pristinos errores                                                                     Sacranientum                                       ,       qnod                 est        vinculum        insolubile. Unde
+**Contra:**
 
-        non         reliqiiit»                   :       ergo anima, quae non relinqnit erro-                                               divortium non est separalio                                                                          quantum ad vinculum
-        res,        non        est               uxor Dei: ergo a simili, si ita est in                                                     sacramentale                                   ,       sed               quantum ad debitum                                      et    cohabi-
-        signato et in signo, mulier,                            quae fornicationes non                                                      tationem.
-        relinquit, non est                                     uxor             viri; et          si   hoc: ergo vir po-                                    1.          Ad             illud                     ergo quod      obiicitur, quod anima soiatio op-
-                                                                                                                                                                                                                                                      ''"^' ""™'
-        test        cum alia nubere.                                                                                                        fornicatoris non est                                                       uxor Dei; dicendum, quod ma-
-                    2.    Item, Matthaei decimo nono^: Qui dimise-                                                                          trimonium non est Sacramentum huitis principaiiter, Noiandam.
-        rit    uxorem et aliam duxerit, excepta causa for-                                                                                  sed coniunctionis                                                         divinae                   naturae               el    humanae
-        nicationis              ,    moechatur: ergo                                         si   recta        est exceplio,                quae nullatenus solvitur'"; ideo non                                                                                      est simile.
-        licel       ex causa fornicationis uxorem dimitlere et aliam                                                                               Ad illud quod obiicitur de exceptione Do-
-                                                                                                                                                           2.
+1. Osee secundo[^p785-5]: *Ipsa non uxor mea, et ego non vir eius;* Glossa: « Quia pristinos errores non reliquit »: ergo anima, quae non relinquit errores, non est uxor Dei: ergo a simili, si ita est in signato et in signo, mulier, quae fornicationes non relinquit, non est uxor viri; et si hoc: ergo vir potest cum alia nubere.
 
-        ducere.                                                                                                                             mini dicendum  ,   quod exceptio non refertur ad Noundam.    ,
+2. Item, Matthaei decimo nono[^p785-6]: *Qui dimiserit uxorem et aliam duxerit, excepta causa fornicationis, moechatur:* ergo si recta est exceptio, licet ex causa fornicationis uxorem dimittere et aliam ducere.
 
+3. Item, *ratione* videtur: quia adulterando divisit carnem suam; sed Sacramentum matrimonii est, quod sint *duo in carne una*[^p785-7]: ergo Sacramentum per fornicationem solvitur: ergo non est ibi amplius matrimonium.
 
-                    3.    Item, ratione videtur: quia adulterando                                                                     di-   utrumque actum, sed ad alterum tantum, scilicet
-            carnem suam; sed Sacramentum matrimonii
-        visit                                                                                                                               ad actum dimissionis; unde oratio illa tres habet
-        est,    sint duo in carne una '; ergo Sacramen-
-                    quod                                                                                                                    causas veritatis " unde quia procedit ad alleram                     ;
+4. Item, post divortium vir in nullo tenetur uxori, nec in quantum ad debitum solvendum nec quoad cohabitationem: ergo aliquis est a lege uxoris solutus[^p785-8]; et si hoc; cum vir solutus a lege uxoris possit contrahere, videtur etc.
 
+> **Conclusio.** Divortium ob adulterium factum non separat matrimonium, dummodo legitime fuit contractum, quoad vinculum, sed tantum quoad debitum et cohabitationem.
 
+**Respondeo:** Dicendum, quod divortium potest fieri dupliciter: aut quia personae erant *illegitimae* ad contrahendum ad invicem simpliciter; et tunc uterque potest alteri nubere, sicut supra[^p785-9] distinctum est. Potest etiam fieri *propter crimen fornicationis;* et tunc non potest contrahere nec vir nec mulier; quia, cum essent personae legitimae, fuit inter eas Sacramentum, quod est vinculum insolubile. Unde divortium non est separatio quantum ad vinculum sacramentale, sed quantum ad debitum et cohabitationem.
 
-        tum per fornicalionem solvitur: ergo non est ibi                                                                                    tantum,                          fit       consequens.
-        amplius matrimonlum.                                                                                                                               3.           Ad illud quod obiicilur, quod solvilur Sacra-
+*Ad 1.* Ad illud ergo quod obiicitur, quod anima fornicatoris non est uxor Dei; dicendum, quod matrimonium non est Sacramentum *huius* principaliter, sed *coniunctionis divinae naturae et humanae,* quae nullatenus solvitur[^p785-10]; ideo non est simile.
 
+*Ad 2.* Ad illud quod obiicitur de exceptione Domini dicendum, quod exceptio non refertur ad utrumque actum, sed ad *alterum* tantum, scilicet ad actum dimissionis; unde oratio illa tres habet causas veritatis[^p785-11]; unde quia procedit ad alteram tantum, fit *consequens.*
 
+<!-- page 786 -->
 
-                '   Vide scholion                             ncl    I.   huius articuli quaesl.                                                       9       Lit.          Magislri, d. XXXI.                                    c.       2;    XXXI V. c. I, ibique Com-
-                2   Vcrs. 10. seq.                                                                                                          ment.              a.        I.       q.       2; et d.                    .32.       a.       i.    q.    2.   in     corp.           Superius
-                '   Cap. 7.              n. 0.             seq. senlenlialiter; verba ipsn habentur                              I.    de   voci simpliciier cd.                                             1    cum pluribus codd. perperam praemittit
-        Nuptiis et concupise.                                   c.    10.       n.    11.     Vide supra           lit.   Magistri          non tamen.                             Inferius                      pi'o quin, cum plures codd. quia tim,
+*Ad 3.* Ad illud quod obiicitur, quod solvitur Sacramentum: dicendum, quod istud non est de *necessitate* Sacramenti, quod caro sit indivisa, sed de *nobilitate* et dignitate. Quamvis enim caro alterius dividatur, nihilominus sunt *duo in carne una*[^p786-1].
 
-        d.    XXXI. c.              2.                                                                                                      cod. aa quia                              cum tunc.
-                * Cfr.      supra                    d.       29. q. 2.          in   corp.                                                            "•       Cfr.           supra                    lit.         Magistri, d.                XXVI.           c.   6,    et    Comment.
-                ^    Vers.          2.       — Glossa apud Lyranum interlinearis sumta                                                      a.    2.       q.           I.    — Superius pro Sacramentum                                                      cd.      I   signum,         Vat.
-        est ex Ilieron. in hunc                                 locum.          — Verbis ergo anima codd. F G                               signum vel Sacramenlum.
-        interserunt            si.                                                                                                              " In malrinionii coniunclione                                                                   tiia    consideranda sunt,                 scil.
+*Ad 4.* Ad illud quod obiicitur, quod post divortium vir in nullo tenetur uxori, nec e converso; dicendum, quod quamvis nihil teneatur reddere, nihilominus tamen sacramentaliter est ligatus; et quia est ei alligatus, quamdiu vivit: ideo non potest alteri alligari.
 
-                *    Vers.          9:           Quicumque                      dimiserit         uxorem suam,                nisi     ob   vinculum, torum                                            et coliabilalio;                     quibiis Iriplex respondet sepa-
-        fornicationem , et aliam duxerit moechatur. Cfr. ibid. 5,                                                               .32.        ralio, scil. solutio vinculi,                                                       separatio             quoad lorum            el .separatio
-                '    Gen. 2, 24.                          et Malth.             19, 5.                                                      quoad cohabitationcm                                                     (cfr.       quaest.          praeced. et supra                lit.    Ma-
-                «    Kespicitur                      Rom. 7,              2.     et    I.    Cor. 7, 39.           — Edd. post              gistri,            d.        XXXI. c. 2.). SoliUioni matrimonii opponil S. Bonav.
-        ergo addunt                 si,          ct       deinde potesl contrahere.                                                         dimissionem, quae separationem sive quo.id lorum, sive quoad
-                          S.    Bonav.                        — Tom. IV.                                                                                                                                                                                                     99
-                                                                                                                                                 ,
+<!-- page 786: scholion printed between q. IV and q. V; placed here as last subsection per parser convention -->
 
+### Scholion
 
+**I.** *Vinculum* matrimonii *Christianorum* rati et consummati nulla auctoritate humana nulloque in casu, ne ipsius quidem adulterii, solvi posse, spectat ad fidem catholicam. Hoc Concil. Trident. (Sess. XXIV. can. 7.) definivit contra doctrinam Protestantium et etiam contra Graecos, apud quos viget praxis solvendi matrimonium propter superveniens adulterium. Communiter autem tenetur, ipso *iure naturae* matrimonium legitimum *quodcumque* esse *per se* indissolubile; quod innuitur etiam prop. 67. Syllabi a Pio IX. damnata. — De hac quaestione cfr. supra d. 27. a. 3. q. 1.[?] — De eadem 4. quaestione: Scot., supra d. 26. q. unica n. 10, d. 33. q. 3. n. 4. seqq. — S. Thom., hic a. 5; Suppl. q. 62. a. 5. — B. Albert., hic a. 15-16. — Petr. a Tar., hic a. 8[?]. — Richard. a Med., hic a. 3. q. 1. — Durand., de hac et seq. q. hic q. 2.
 
+**II.** De seq. (5.) quaestione: S. Thom., locis citt. a. 6. — B. Albert., hic a. 11-13. — Petr. a Tar., hic a. 6. — Richard. a Med., hic a. 3. q. 2.
 
-          786                                                                                                                 SENTENTIARUM LIB. iV.
+**III.** Ultima (6.) quaestio ab aliis non tractatur specialiter, sed principia tanguntur in praecedentibus, praesertim supra d. 32, de solutione debiti.
 
-          nienlum               :    dicenduin      quod isUid noii cst dc necessi-
-                                                             ,
-                                                                                                                                                     vir in nullo                          tenetur            uxori, nec e converso; dicen-
-          laie Sacrameiiti,                      quod caro sit indivisa, sed de no-                                                                  dum, quod quamvis nihil lenealur reddere, niiiilomi-
-          bilUale et                     dignitate. Quainvis enim caro ailerius di-                                                                  nus tamen sacrameiUaiiler                                             est iigatus; et quia esl ei
-
-          vidatur, nihiiominus sunl.                                                   duo       in carne                     una^.                  alligatus,                  quanidiu                     vivit    :    ideo            non             potest        altert
-
-                         /;.   Ad         iliud        quod obiicilur, quod post divortium                                                           alligari.
-
-
-
-
-                                                                                                                                       SCHOLION.
-                   I.      Vinculuiii             iii;itn'iiionii               Chrislianorum                   riiii     ci    tonsummuli                   Dc, cadeni i.                  quaestionc: Scot.,-supra d. 26. q. unica n. 10,
-          luilla        ,-iuct«riliilo           liuinana niilloquc                         in     cusu    ,    nc         ipsius quidcni            d. 33.        (j.   3. n. 4.           seqq.         —   S. Thom., hic a. o;                      Suppl. q. 62. a. 5.
-          iidultcrii,           solvi       possc, s|)cctat ad ficlcm cutholicain. Iloc Concil.                                                      —     B. Albert., Iiic a. -5-16.                         —    Pctr.    a        Tar.,      liic    a. 8.     — Bichard.
-          Trident. (Scss.                   XXIV. can. 7.) definivil ccntra doctrinain                                                       Pro-    a    Med., hic              a. 3. q.            I.   — Durand., de hac                      et seq. q. hic q. 2.
-
-          toslantium                ct    otiam         conlra                 Graecos,            apud quos                   vigct     praxis              II.     De se(i. (5.) quaestione : S. Thom.,                                           locis citt. a.            6.    —
-          solvendi malrimonium jiroplcr supcrvcnicns adultoriuni.                                                                        Coni-       B.    .\lbert.,        hic        a.    11-13.           —    Petr.    a    Tar.,       liic      a.    6.   — Uichard.
-          muniter autcni tenctur, ipso iurc nulurae iiialrimonium                                                                        legiti-     a    Med., hic              a.    3.    q.      2.
-
-          mum quodcumquc esse pcr so indissolubilc                                                                   ;
-                                                                                                                          quod innuitur                      III.        Uliima (6.j quacstio                       ab     aliis      non       tracliitur spccialitcr,
-
-          eliam prop. 67. Syllabi a Pio IX. damnata.                                                     — Do             Iiac (iiiacstiono          scd     princi|)ia               tanguntur               in    praccedentibus, praesertim                                supra
-          cfr.   su|)ra             d.    27. a. 3. q.                    1.    i.                                                                   d.    32, de solulione dcbiti.
-
-
-
-                                                                                                                                  '      QUAESTK) V.
-
-                                                                 Utrum posL divoriium 'possinl vlr el mulier inuicem reconciliari.
-
-                        Quinlo quaeritur, utrum posl divorlium possint                                                                                           2.       Item,             uterque potest servare continentiam
-          vir el uxor invicein reconciliari. El quod sic, videtur.                                                                                   et    vovere post divortium: ergo unus non habet ius
-                         i.    Primae ad Corinthios seplimo^: Si cliscesse-                                                                          in    altero: ergo                         si        non liabent invicem ius, non pos-
-FnndamcDia.riY     tixor a viro, praecipit,                                             manerc inmiptam, aul                                         sunt invicem reconciliari amplius.
-          viro suo reconciliari: ergo potest                                                               ei            reconciliari.                           3.       Item        ,
-                                                                                                                                                                                            quod fornicanti non compelat                                                      actio
-
-                         Item, quod vir innocens possil reconciliare uxo-                                                                            in     alium, videtur: quia regula est                                                       in        iure       % quod
-           rem invilam                      ,    videtur:                                                                                            «actio semel perempta                                            non resuscitatur »                           :    ergo         si
-
-                         2.     Quia non peccavit, ergo                                            nihi! amisit                        de iure       ex fornicatione amisit ius petendi debilum, patet elc.
-          suo, ergo potest petere debilum: ergo                                                                               illa     tenelur                   h.       Item         ,
-                                                                                                                                                                                            quod vir non                        possit           sibi         reconciliare
-          reddere.                                                                                                                                   fornicariam                  ,        videtur, quia in iudicio                                     petiit          et obti-
-
-                         3.     Item, vir                non                    tenetur            continere, quia non                               nuit separationem : ergo renuntiavit iuri petendi de-
-          obligatur, nec                          ex voto nec ex poena                                           :       et    non potest            bitum;               et si            hoc,           cum non possit agere ex eo cui
-          alterani ducere: ergo potesl sibi                                                          uxorem propriam                                 renuntiavit, videtur etc.
-          reconciliare.
-                                                                                                                                                                                                          c       N c L u S 1 0.
-                         Item        ,
-                                         quod fornicaria possit reconciliare virum
-          invitum, videtur:                                                                                                                          Reconciliaiio                                         potesl ,      utraque parle consen-
-                                                                                                                                                                                            fieri
-                         4.     Esto            quod             sufficienter                      egerit                poenitentiam
-                                                                                                                                                                 liente,                  vel        nocente           tantum refragante ; non
-          remissa est culpa et                                            poena: ergo                      cessat                 causa       di-
-                                                                                                                                                                 vero vel utraquc clissenliente,                                                        vel        innocenle
-          vortii: ergo « cum, cessante causa, cessel effectus^ »
-                                                                                                                                                                 refragante.
-          videlur               etc.
-
-                         0.     Item , possibile est, virum fornicari                                                             ;   scd for-                   Hespondko                      :     Dicendum, quod ad                                     reconcilialio-
-
-          nicante viro, compelit exceptio contra virum peten-                                                                                        nein faciendam aut xilerque concordal, TLUluierque Oislii
-          tem divortiuin                          :    ergo pari ratione competit actio mu-                                                          discordat, aut unus peiit                                              el       aller        repugnat.                   —     Si
-
-          lieri          ad repelendum virum.                                                                                                        uterque concordat, absque duhio                                                              fil;        si       uterque Concl
-                         Contra:                 1.     Regula                   est in          canone, Causa sexta,                                discordat, nec potest nec debel                                                       fieri,           nisi       (iat     pro-
-
- Ad (jpposi- quaestione quarla                           '
-                                                                 :        « Quod              seinel            bene definitum                       pler           scandalum                        Ecclesitie,            quae scandalizatur, pro
-   """"
-           est nulla debet ileratione retractari » : ergo                                                                             cum di-        eo iiuod ulerque foiDicalur publice.                                            aulem alter       Si
-
-           vortium                  sit    celebratum per                                   definitionem                        Ecclesiae,           petit,          aut nocens pelil                                innocentem ; et sic non de-                                            Sull
-                                                                                                                                                                                                                                                                                          clio i
-           palet etc.                                                                                                                                bet cogi ad                           reconciiiationem.                          Aut innoccns nocen- claslol
-
-
-
-
-           colKibitaiioiicin                    ijnporlat.                (l'ro        Ircs      Vat.      duas).              — De          locu-           ^      Vide         siipra pag.               493,     iiola       6.
-
-           tionc ires habel                      causas vcrilaiis cfr.                             loni.       III.       ])ag.       252, nola              ^     Can. 6. Textus originalis plura                                        intcrscril.
-
-           7,    ct        dc       sophisinate              sccundum                    cuHSeqticns                     supra        pag.    II,            6      Cfr,     lustinian., D.                   XLVI. dc Solulionibus                           ctc.      (tit.      3.),
-
-           nota          10.    —        l'i'0   fil   consc<iuciis iilurcs codd. facil                                          cunsequcns.         Icx     Qui          res         suas (98.), Z Arcnni.                          et    C,    11,    dc        Transactioni-
-                    "     Cfr,       infra d.          42.           a.    3,    (|.   2.     ad    3.                                               bus     (til.        4.),    Ic,\      Aclionc           (4,),    — Pro rcsimitatur cdd.                                   rcsli-
-                    '-
-                           Vcrs.          II.                                                                                                        lualur.
-                                                                                                                                                                                                                                                                          :
-
-
-
-
-                                                                                 DIST.          XXXV. ART. UNICUS QUAI-:ST.                                                   VI.                                                                                   787
-
-a]o3.tem, ul vir caslns iixorem                                         aduUeram;                     et sic,         ipsa   est,quantnm est de rigore iuris, non lamcii quan-
-           invita,           debet         reconciliari               per      iudicinm                    licclesiae,       tum est de favore personae innocentis, ul dictum esl.
-           qnia, sicut dicunt iura^,                       « quod in meum favorem                                                2. Ad illud quod obiicitur, quod uterque potest
-
-           introductum                   est    in    meum damnnm non debet retor-                                           vovere conlinentiam                                        ;       dicendum. quod falsum                                               est
-
-           queri ». Aut nocens nocentem petit, ut mulier, quae                                                               (|uia        fornicans non polest,                                                      nisi       alter consentiat: et
-
-           prius est fornicala, repetit virum, qui est post di-                                                              nisi         post poenitentiam velit                                               eam recipere, episcopns
-isio 4.    vorlium            fornicatus ; el sic reslitnendus esl maritus                                                   polost            eam licentiare,                                   iit    intret                  religionein.
-           uxori invitns, non                         quia           aclio     muiieris                resuscitata                        Ad illud quod obiiciLur, quod aclio iim-
-                                                                                                                                          3.     4.
-
-           sit,       sed      in        poenam            fornicationis viri, quia                             abusus       lieris est perempla, et qiiod vir renunliavit iuri suo;
-
-ariom. est privilegio                     liJDertatis.          Qnanliimcumque tamen mu-                                     (licendum, quod falsum t^st: quia actio mulieris non
-           iier       faciat        poenitentiam                ,   nunquam             acquirit                ius     in   perimitur                     simpUciler , sed sub condilione ,                                                                  scilicet
-
-           virum, ipso nolente,                            nisi      vir fornicelur; et hoc pro-                             si     vir         permanserit                                 continens                     ;    et      ratio     hiiius esl,
-
-           pter contumeliam,                          quam inlulit malrimonio, quia                                          quia          vinculum                           semper manel.                                    — Vel            potest dici,Aiiier.
-           directe peccavit                     contra   bonum fidei.     Ex his pa-        —                                quod          actio             non vivificatur, sed de novo datur vel
-           tet solutio            obieclorum ad primam partem.                                                               acquiritur a iure ob peccatum                                                                     viri.    —       Simililer se-
-                      1.     Ad     iilud       ergo quod obiicitur, quod non est                                            quens             est        faisum,                     quia vir non renuntiat                                          iuri          suo
-mm.''"     relractanda sententia                       ;       dicendum, qnod                         hoc verum              simpliciter, sed                                  ad tempiis                           '-.
-
-
-
-
-                                                                                                                 QUAESTfO VI.
-
-
-                                                           Utrum possit fieri divortium, si non praecedat aliqua culpa.
-
-
-                      Sexto       et      ullimo quaeritnr,                      ulrnm                possit         fieri   malrimonio                          facit              ininriam                ;        et        non     est sine peccato
-
-           divortium,               si    non        praecedat aliqua culpa. Et quod                                         facere iniuriara Sacramenlo ": ergo etc.
-           non    ,    videlur.                                                                                                           b.        Item, priniae ad Corinthios septimo": AIU-
-                      1.     Primae ad Corinthios septimo ^                                       :    Praecipio             gatus es                     uxori ? Noli quaerere solutionem : ergo
-;.   pro   no7i cQo,           ssd Dominus,                         uxorem a           viro non disce-                       nisi         interveniat culpa sive peccatum, videlur,                                                                                quod
-"'^'^'dere,                excepta             causa fornicationis : ergo                                       praece-      non          liceat facere                             divortium.
-           ptum est, quod non separentur; sed contra praece-                                                                              Contra:                        1.         Sicut         habetur Exlra, de Conver- Propaneaf-
-                                                                                                                                                                     ,                 «          •             .               1-                    ,                       firniativa.
-           plum non potest quis facere, quin incurrat culpam                                                             :   sione coniugatorum                                             ,    vir et mulier possunt,                                        si    vo-
-           ergo        etc.                                                                                                  lunt, ex consensu                                        mutuo reiigiones intrare diversas,
-                      2.     Item,        Ambrosius super Lucam^:                                          « Dimittis        eliam             si    non praecedat culpa                                                  ;    sed hoc non                    fit   sine
-           uxorem             sine        crimine          ;    putas hoc          tibi         licere,           quod       divortio: ergo etc.
-           lex divina prohibet »: ergo hoc est prohibitum, sine                                                                           2.        Item         ,           unusquisque polest                                        licite    renuntiare
-           crimine dimillere.                                                                                                iuri         suo°: ergo                            et         quoad cohabitationem                                    et          quoad
-                      3.     Item, verbo ipsius Domini, quod est firmius                                                     debilum solvendum potest absolvere: ergo                                                                                 etc.
-
-           inter cetera ,                       Qui dimise-
-                                         Matthaei decimo nono                          "•
-                                                                                            :                                             3.     Item,                   uxore volente intrare monasterium,
-           rit jixorem suam nisi ob fornicationem  moecha-                                             ,                     vir potest                   promoveri ad                                  sacros                  ordines          et           ad    epi-
-
-           tur ; sed              per fornicationem, sive accipiatur                                             large,      scopatura                ;      et              hoc        totum                   sine            culpa, sicut dicitur
-           sive stricte,                 semper inleiligitur culpa: ergo etc.                                                de Conversione coniugatorum '", Sane si coniugati:
-                      4.     Item, qui legitime coniuncti sunt ad perpe-                                                     ergo         etc.
-
-           luam         et    individuam                vilae consuetudinera                               ex    raatri-                            utrum necesse sit, utrum- iiaaestio in.
-                                                                                                                                          luxta hoc quaeritur,
-                                                                                                                                                          II            T1
-                                                                                                                                                                               cidens.                                                                    1
-
-           monio sunt               ligati ;         qui ergo           contra              hoc        facit,         nisi   que votnm solemne emittere ad hoc, quod divor-
-           habeat causam, quare debeat rationabiliter                                                           facere,      tium possit                         fieri ,            et quare.
-
-
-
-
-                  '    lusiiniiin. ,      C.    I.   de Lcgibiis clc.          (lit.    17.),         le.^   Quod fa-                5    Vers. 9:                   Quicumqun                    dimiserit...                  fornicationem, et aliam
-           vore       (6.); IV. (Je       Fide instriimeniorum (tit. 21.), lex Plures (18.)                                  duxerit, moeehatur.                                — De diversa acceptione fornicolionis                                                cfr.
-
-           et   V. de Secundis Nupiiis                     (tit.    9.), lex     Generaliter (5.), § In                      infia d. 39. dub. 3.
-
-           iis; cfr.       Regul. iuris, regul. 61. in VI.                   —   .\liquanlo inferius                  pro            *    Cod. U sine peccato malrimonio facere iniurinm, quia
-           viri cod.         U cogitur.                                                                                      facil       iniuriam Sticramento.
-                  ^    Vidii scliolion       ad pniecedentem qunest.                                                                 '    Vei's.          27.            —     Inferius Vat.                    perperam                omitlit non.
-
-                  '    Vers.      10.     Verba excepta causa fornicationis habentur                                                 8    Libr.           111.       til.     32. C.            Cum sis (4.).
-           Matlh. 5, 32.                                                                                                             !•
-                                                                                                                                          Vidc supra pog. 567                                     ,    nota               i.    — Inferius post potest
-                  *    Libr. Vlll. n. 5: Dimiitis ergo                       uxorem quasi                    iure,    sine   cod.K (la secunda nianu) addit alterum, cod. P aller alle-
-           crimine; et putas, id tibi licere, quia lex humana non prohibet;                                                  rum, cod. Q unus alterum.
-           sed divina prohibet. Cfr. C.                        An quod (2.), C. 33. q. 2.                                            'o    Extra,            lib.            III.    tit.       32.    c.       6.
-                788                                                                                          SENTENTIARUM LIB. IV.
-
-                                                                  CONCLUSIO.                                                        quae, voto solemni emisso, polerit remanere in domo;
-                                                                                                                                    sin aulem, oportet, utrumque converti, sicut expresse
-                Divorlium dne culpa praecedente non potest fieri,
-                                                                                                                                    in     pluribus                  decretalibus                   tangilur             de        Conversione
-                    nisi utroque ad altiorem slatum volunlarie
-                                                                                                                                    coniugatorum                      '   :    rursus ,            et     tale     divortium                 fieri      de-
-                            Iranseunte                      et    volo solemni se obliganle.
-                                                                                                                                    bet per personam publicam       maxime per episcopum.           ,
-
-
-
-
-                            Respondeo: DiceiKliim, quod divorlium inler le-                                                         —      Si autem alter vult cohabitare ; nullo modo fieri Coac                                                                    '(
-
-
-
-
-  Disiindio.    gitimas                coniuges                  polest         fieri      dupliciler: aul             ut    in     potest nisi per                           culpam praecedentem.
-                eodem stalu persislanl, aut ut ad frugem melioris                                                                             secundum hanc dislinctionem respondelur Adaj
-                                                                                                                                                Et
-
-                vilae transeant. Si ut in eodem slatu persistanl; ,                                                                 argumenlis    faclis ad ulramque partem, sicut patet
-
-concinsio j. tuiic              nou debct                   fieri ,        nisi      maiiifesla       culpa          praece-        aspicienti -.                —
-                                                                                                                                                      Verumtamen quod ultimo dicit Apo- AdE,
-                dat,            lum propler periculum, tum propter scanda-                                                          stolus, quod alligdtus non quaerat solulioneni, hoc
-                lum.            —      Si, ul             ad frugeni melioris vitae transeant;                                      non        dicit, ul              dehortetur statum altiorem, sed ut a
-  subdisiin-    tuuc aul utercjue esl voluntarius , ant aller invitus.                                                              communione reraoveat                                       inslabilitalem,                     et   ut      osten-
-conci^isfo 2.   Si    ulerque                      esl      voluntarius ; lunc                    polest       fieri        sine    dat, in quolibet slatu hoininem posse salvari. Unde
- Ad guaesi. culpa, ita                    tamen quod uterque volum solemne emit-                                                    illud        intelligilur,     quod non quaerat solutionem,
-  incid.
-                tat, el                nlerque habitum religionis assumat, nisi sit                                                 scilicet          in    praeiudicium uxoris , sicut nec servus
-                lalis       persona,                 « de        qua nuiia                 possit oriri suspicio»,                  libertatem in praeiudicium                                          domini^
-
-
-                                                                                                  DU8IA CIRCA LITTERAM MAGISTRL
+---
 
 ## English
 
-[Translation pending]
+### Question IV. *Whether, once a divorce has been celebrated, the man may take another wife, or the wife another husband.*
+
+Fourthly it is asked whether, once a divorce has been celebrated, the man may take another wife, or the wife another husband. And that he may not, seems [to be the case].
+
+1. First to the Corinthians, chapter seven[^p785-2]: *I command, not I but the Lord, that the wife depart not from her husband; but if she depart, that she remain unmarried.*
+
+2. Likewise, Augustine *On the Good of Marriage*[^p785-3]: « Between the living there remains the conjugal bond, which neither separation nor union with another can take away ».
+
+3. Likewise, *by reason* it seems [so]: because, if one [party] could marry [again]; since matrimony does not limp [i.e. is not one-sided][^p785-4], both could marry: therefore, as often as some woman wished to have another man, she could have [him] by fornicating; which is foolish to say.
+
+4. Likewise, if on account of fornication the matrimony were wholly dissolved: then if someone knew [carnally] his wife, from the fact that she has fornicated, since there would no longer be matrimony between them, he would sin mortally; which is unfitting to say.
+
+**On the contrary:**
+
+1. Hosea, chapter two[^p785-5]: *She is not my wife, and I am not her husband;* the Gloss: « Because she has not left her former errors »: therefore the soul which does not leave its errors is not the wife of God: therefore by a similar [reasoning], if it is so in the thing signified and in the sign, the woman who does not leave her fornications is not the wife of [her] husband; and if this [is so]: therefore the man may marry another.
+
+2. Likewise, Matthew, chapter nineteen[^p785-6]: *Whoever dismisses his wife and marries another, except for the cause of fornication, commits adultery:* therefore, if the exception is correct, it is permitted, for the cause of fornication, to dismiss a wife and marry another.
+
+3. Likewise, *by reason* it seems [so]: because by committing adultery she divided her own flesh; but the Sacrament of matrimony is that they be *two in one flesh*[^p785-7]: therefore the Sacrament is dissolved through fornication: therefore there is no longer matrimony there.
+
+4. Likewise, after a divorce the man is bound to the wife in nothing, neither as to paying the debt nor as to cohabitation: therefore someone is loosed from the law of the wife[^p785-8]; and if this [is so]; since a man loosed from the law of the wife can contract [marriage], it seems, etc.
+
+> **Conclusion.** A divorce made on account of adultery does not separate the matrimony — provided it was legitimately contracted — as to the bond, but only as to the debt and cohabitation.
+
+**I respond:** It must be said that a divorce can take place in two ways: either because the persons were *illegitimate* for contracting with one another simply — and then either may marry the other, as was distinguished above[^p785-9]. It can also take place *on account of the crime of fornication* — and then neither the man nor the woman can contract [marriage]; because, since the persons were legitimate, there was between them a Sacrament, which is an indissoluble bond. Hence a divorce is not a separation as to the sacramental bond, but as to the debt and cohabitation.
+
+*To 1.* To that, then, which is objected, that the soul of a fornicator is not the wife of God; it must be said that matrimony is not principally the Sacrament of *this* [union], but of the *conjunction of the divine and human nature,* which is in no way dissolved[^p785-10]; therefore it is not similar.
+
+*To 2.* To that which is objected concerning the Lord's exception, it must be said that the exception does not refer to both acts, but to *one* only, namely to the act of dismissal; hence that saying has three grounds of truth[^p785-11]; hence, since it proceeds to one [act] only, it becomes [a fallacy of] the *consequent.*
+
+*To 3.* To that which is objected, that the Sacrament is dissolved: it must be said that this is not from the *necessity* of the Sacrament — that the flesh be undivided — but from [its] *nobility* and dignity. For although the flesh of one is divided, nonetheless they are *two in one flesh*[^p786-1].
+
+*To 4.* To that which is objected, that after a divorce the man is bound to the wife in nothing, nor conversely; it must be said that although he is bound to render nothing, nonetheless he is still sacramentally bound; and since he is bound to her as long as he lives, therefore he cannot be bound to another.
+
+### Scholion
+
+**I.** That the *bond* of the matrimony of *Christians,* ratified and consummated, can be dissolved by no human authority and in no case — not even that of adultery itself — pertains to the Catholic faith. This the Council of Trent (Session XXIV, canon 7) defined against the doctrine of the Protestants and also against the Greeks, among whom there flourishes the practice of dissolving matrimony on account of supervening adultery. It is commonly held that, by the very *law of nature,* *any* legitimate matrimony whatsoever is *of itself* indissoluble; which is intimated also by proposition 67 of the Syllabus condemned by Pius IX. — On this question cf. above, d. 27, a. 3, q. 1.[?] — On the same 4th question: Scotus, above d. 26, q. unica, n. 10, d. 33, q. 3, n. 4 ff. — St. Thomas, here a. 5; Suppl. q. 62, a. 5. — B. Albert, here a. 15-16. — Peter of Tarentaise, here a. 8[?]. — Richard of Middleton, here a. 3, q. 1. — Durandus, on this and the following question, here q. 2.
+
+**II.** On the following (5th) question: St. Thomas, in the places cited, a. 6. — B. Albert, here a. 11-13. — Peter of Tarentaise, here a. 6. — Richard of Middleton, here a. 3, q. 2.
+
+**III.** The last (6th) question is not treated specially by the others, but its principles are touched upon in the preceding [questions], especially above at d. 32, on the payment of the debt.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the page-scoped labels below preserve that (page 785 opens at note 2 because note 1 of that page belongs to the preceding question, q. 3).
+
+[^p785-2]: **La.** Vers. 10. seq.
+    **En.** [1 Cor. 7,] v. 10 f.
+
+[^p785-3]: **La.** Cap. 7. n. 6. seq. sententialiter; verba ipsa habentur I. *de Nuptiis et concupisc.* c. 10. n. 11. Vide supra lit. Magistri, d. XXXI. c. 2.
+    **En.** [Augustine, *On the Good of Marriage*] ch. 7, n. 6 f., in sense; the very words are found in [the] first [book] *On Marriage and Concupiscence,* c. 10, n. 11. See above, the text of the Master, d. XXXI, c. 2.
+
+[^p785-4]: **La.** Cfr. supra d. 29. q. 2. in corp.
+    **En.** Cf. above, d. 29, q. 2, in the body [of the article].
+
+[^p785-5]: **La.** Vers. 2. — Glossa apud Lyranum *interlinearis* sumta est ex Hieron. in hunc locum. — Verbis *ergo anima* codd. F G interserunt *si.*
+    **En.** [Hosea 2,] v. 2. — The Gloss in Lyra, an *interlinear* one, is taken from Jerome on this passage. — At the words *ergo anima* codices F G insert *si.*
+
+[^p785-6]: **La.** Vers. 9: Quicumque dimiserit uxorem suam, nisi ob fornicationem, et aliam duxerit moechatur. Cfr. ibid. 5, 32.
+    **En.** [Matt. 19,] v. 9: Whoever dismisses his wife, unless for fornication, and marries another, commits adultery. Cf. ibid. 5, 32.
+
+[^p785-7]: **La.** Gen. 2, 24. et Matth. 19, 5.
+    **En.** Gen. 2:24 and Matt. 19:5.
+
+[^p785-8]: **La.** Respicitur Rom. 7, 2. et I. Cor. 7, 39. — Edd. post *ergo* addunt *si,* et deinde *potest contrahere.*
+    **En.** Reference is made to Rom. 7:2 and 1 Cor. 7:39. — The editions after *ergo* add *si,* and then [read] *potest contrahere.*
+
+[^p785-9]: **La.** Lit. Magistri, d. XXXI. c. 2; XXXIV. c. 1, ibique Comment. a. 1. q. 2; et d. 32. a. 4. q. 2. in corp. — Superius voci *simpliciter* ed. 1 cum pluribus codd. perperam praemittit *non tamen.* Inferius pro *quia, cum* plures codd. *quia tum,* cod. aa *quia cum tunc.*
+    **En.** The text of the Master, d. XXXI, c. 2; XXXIV, c. 1, and there the Commentary, a. 1, q. 2; and d. 32, a. 4, q. 2, in the body. — Above, before the word *simpliciter,* ed. 1 with several codices wrongly prefixes *non tamen.* Below, for *quia, cum* several codices [read] *quia tum,* codex aa *quia cum tunc.*
+
+[^p785-10]: **La.** Cfr. supra lit. Magistri, d. XXVI. c. 6, et Comment. a. 2. q. 1. — Superius pro *Sacramentum* ed. 1 *signum,* Vat. *signum vel Sacramentum.*
+    **En.** Cf. above, the text of the Master, d. XXVI, c. 6, and the Commentary, a. 2, q. 1. — Above, for *Sacramentum* ed. 1 [reads] *signum,* the Vatican [edition] *signum vel Sacramentum.*
+
+[^p785-11]: **La.** In matrimonii coniunctione tria consideranda sunt, scil. vinculum, torum et cohabitatio; quibus triplex respondet separatio, scil. solutio vinculi, separatio quoad torum et separatio quoad cohabitationem (cfr. quaest. praeced. et supra lit. Magistri, d. XXXI. c. 2.). *Solutioni* matrimonii opponit S. Bonav. *dimissionem,* quae separationem sive quoad torum, sive quoad cohabitationem importat. (Pro *tres* Vat. *duas*). — De locutione *tres habet causas veritatis* cfr. tom. III. pag. 252, nota 7, et de sophismate *secundum consequens* supra pag. 44, nota 10. — Pro *fit consequens* plures codd. *facit consequens.*
+    **En.** In the conjunction of matrimony three things are to be considered, namely the bond, the bed, and cohabitation; to which a threefold separation corresponds, namely the loosing of the bond, separation as to the bed, and separation as to cohabitation (cf. the preceding question and above, the text of the Master, d. XXXI, c. 2.). To the *loosing* of matrimony St. Bonaventure opposes *dismissal,* which entails a separation either as to the bed or as to cohabitation. (For *tres* the Vatican [edition reads] *duas*). — On the phrase *it has three grounds of truth* cf. tom. III, p. 252, note 7, and on the sophism *of the consequent,* above, p. 44, note 10. — For *fit consequens* several codices [read] *facit consequens.*
+
+[^p786-1]: **La.** Cfr. infra d. 42. a. 3. q. 2. ad 3.
+    **En.** Cf. below, d. 42, a. 3, q. 2, to [objection] 3.
+
+---
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Latin re-set from the vol4 Quaracchi PDF column-bands (offset pdf = printed + 20) per the CLAUDE.md VOL II/IV OVERRIDE (bands authoritative for the cascade-shattered Respondeo/Solutio/scholion/footers). Pages verified by running heads: **785** (`DIST. XXXV. ART. UNICUS QUAEST. IV. 785`), **786** (`786 SENTENTIARUM LIB. IV.`). Raw OCR range L84103–84204 used only as a cross-check for clean prose and marker spacing. Opener alignment verified: raw "Quarto quaeritur…" (title at L84103) matches this chunk.
+
+**Split provenance (2026-07-12).** This file was split out of a combined a1-q4 chunk that had wrongly bundled q4, q5, and q6 (the q5/q6 QUAESTIO headers were OCR-garbled, so the auto-chunker missed them). q5 → `bon-sent-IV-d35-a1-q5.md`, q6 → `bon-sent-IV-d35-a1-q6.md`. This chunk now holds **only Quaestio IV** plus **scholion 2** (the group-owner scholion). Content is verbatim from the combined chunk; nothing re-translated.
+
+**Scholion disposition (SECOND scholion of d.35 a1).** Printed on p. 786 between q4's replies and q5; moved to the LAST subsection of both language blocks per the `extractLanguageBlock` parser rule. It has **three sections covering three questions**: **§I = q4** (doctrinal note on the indissolubility of ratified-and-consummated Christian marriage — Trent Sess. XXIV can. 7, Syllabus prop. 67 — plus "De hac quaestione…" cross-ref and the "De eadem 4. quaestione" doctor-list), **§II = q5** ("De seq. (5.) quaestione"), **§III = q6** ("Ultima (6.) quaestio…"). The scholion is the group owner and STAYS here in a1-q4 even after the split; the FIRST scholion of the article (in a1-q1) covers q1–q3. No overlap.
+
+**Footer hand-offs.**
+- **p. 785 note 1** (`Vide scholion ad 1. huius articuli quaest.`) is **q3's** — it anchors the tail of q3's Respondeo at the top of p. 785's right column. NOT claimed here. This chunk claims p. 785 notes **2–11**.
+- **p. 785 note 11** overflows across the page break: its text continues at the top of p. 786's left-column footer ("…cohabitationem importat. (Pro *tres* Vat. *duas*)…"). Rendered in full under `[^p785-11]`.
+- **p. 786 note 1** is claimed here (q4's *Ad 3*). p. 786 notes 2–5 anchor in q5's body and move to `bon-sent-IV-d35-a1-q5.md`.
+
+**[?] flags (editorial-apparatus numerals in the scholion doctor-lists — low stakes, PDF band vs. IA OCR ambiguity):**
+- Scholion §I, "De hac quaestione cfr. supra d. 27, a. 3, q. 1.[?]" — a trailing numeral ("2"?) is faint on the band; possibly "q. 1, 2".
+- Scholion §I, "Petr. a Tar., hic a. 8[?]" — band glyph reads closer to "a. 5"; IA OCR read "a. 8". Left as 8 pending a 600 dpi look at the d.30–d.40 decade-polish gate.
+- Scholion §I, "B. Albert., hic a. 15-16" — band shows "5-16"; IA OCR "-5-16" (→ 15-16); rendered 15-16.
+
+**Apparatus count:** 11 entries — p.785: 10 (notes 2–11); p.786: 1 (note 1). The scholion carries no footnote markers.
