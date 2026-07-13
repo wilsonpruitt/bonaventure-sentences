@@ -11,7 +11,7 @@ pdf_pages: [351]
 source: "S. Bonaventurae, Opera Omnia, Tomus III (Quaracchi, 1887), p. 329"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set column-by-column from 450 dpi PDF column bands (raw lines 23084–23121), fresh literal English translation, 3-entry apparatus + NOTAE AD COMMENTARIUM from raw OCR footers (p.329 footers 1–3, picked up from d15-littera hand-off), no scholion (divisio carries a COMMENTARIUS + NOTAE block, not a scholion) (2026-06-04)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set column-by-column from 450 dpi PDF column bands (raw lines 23084–23121), fresh literal English translation, 3-entry apparatus + NOTAE AD COMMENTARIUM from raw OCR footers (p.329 footers 1–3, picked up from d15-littera hand-off), no scholion (divisio carries a COMMENTARIUS + NOTAE block, not a scholion) (2026-06-04); apparatus-anchor pass (2026-07-13): confirmed p.329 footers 1–3 correctly anchored, anchored notae-1 by content evidence (in speciali / dist. 16 edition-variant match), notae-2 left unanchored — no lemma/locator in the note to place it confidently, see Notes"
 format_version: 1
 ---
 
@@ -44,7 +44,7 @@ Ad intelligentiam autem huius partis incidit[^p329-2] quaestio circa duo.
 
 Primo enim quaeritur de huiusmodi defectibus assumtis a Christo in generali.
 
-Secundo quaeritur de aliquibus defectibus in speciali.
+Secundo quaeritur de aliquibus defectibus in speciali.[^notae-1]
 
 Circa primum quaeruntur tria.
 
@@ -76,7 +76,7 @@ But for the understanding of this part there arises[^p329-2] a question concerni
 
 For first it is asked concerning such defects assumed by Christ in general.
 
-Secondly it is asked concerning certain defects in particular.
+Secondly it is asked concerning certain defects in particular.[^notae-1]
 
 Concerning the first, three [things] are asked.
 
@@ -115,7 +115,13 @@ Thirdly it is asked concerning such defects as regards causality.
 
 **Page-split map.** Entire divisio is on a single printed page, **p. 329** (PDF 351). The page is shared with the d15-littera (the littera body occupies the top of both columns; the COMMENTARIUS / DIVISIO TEXTUS / TRACTATIO QUAESTIONUM occupy the remainder). No page break inside this chunk.
 
-**Apparatus.** 3 numbered footers (p. 329 notes 1–3) + 2 *Notae ad Commentarium* sub-block entries = **5** apparatus defs total. Per-page restart, page-suffixed slugs `[^p329-K]` for the numbered footers and `[^notae-K]` for the Notae sub-block. Body anchors: footer 1 = `ibi¹: Verumtamen magis movent` (DIVISIO TEXTUS); footer 2 = `incidit²` (TRACTATIO QUAESTIONUM opener); footer 3 = the COMMENTARIUS opener `Illud quoque³` (the textual variant `Vat. quod` matches the `quoque`→`quod` lemma, and the `ante tristis … omittunt et` clause references the shared littera tail). The two *Notae ad Commentarium* entries (`notae-1`, `notae-2`) are editorial notes on the commentary itself with their own numbering; per Quaracchi they have no inline superscript anchor in the body (they are keyed to commentary line numbers in the print), so they are rendered as a labelled apparatus sub-block without body markers. Marker pairing for the three numbered footers: 3 La anchors = 3 En anchors = 3 defs, identical order.
+**Apparatus.** 3 numbered footers (p. 329 notes 1–3) + 2 *Notae ad Commentarium* sub-block entries = **5** apparatus defs total. Per-page restart, page-suffixed slugs `[^p329-K]` for the numbered footers and `[^notae-K]` for the Notae sub-block. Body anchors: footer 1 = `ibi¹: Verumtamen magis movent` (DIVISIO TEXTUS); footer 2 = `incidit²` (TRACTATIO QUAESTIONUM opener); footer 3 = the COMMENTARIUS opener `Illud quoque³` (the textual variant `Vat. quod` matches the `quoque`→`quod` lemma, and the `ante tristis … omittunt et` clause references the shared littera tail).
+
+**`[^notae-1]` anchor (resolved 2026-07-13).** Confirmed at 450 dpi (`/tmp/colcrop/vol3-p329-{L,R}-2.png`) that Quaracchi prints NOTAE AD COMMENTARIUM notes 1–2 with **no inline superscript** anywhere on p. 329 — genuinely unmarked in print, so placement was made by content match, not position. `[^notae-1]`'s text, "*Intellige cum edd. 1, 2 infra dist. 16*" ("Understand, with editions 1 and 2, below in dist. 16"), names its own topic precisely: it says the material at issue is placed, in editions 1 and 2, under Distinction XVI rather than here. The DIVISIO TEXTUS explicitly identifies that exact material — "the second part" treating "*passione doloris in speciali*" ("the passion of grief in particular") — and the TRACTATIO QUAESTIONUM restates it as the second of the two questions: "*Secondo quaeritur de aliquibus defectibus in speciali*" / "Secondly it is asked concerning certain defects in particular." `[^notae-1]` is anchored there (Latin: after `in speciali.`; English: after `in particular.`) — the unique occurrence in this chunk of the "in speciali" (particular-defects) topic that the note is explaining an edition-variant placement for.
+
+**`[^notae-2]` left UNPLACED (do not guess).** `[^notae-2]`'s text is "*Codd. U V W Z adiiciunt hic*" ("Codices U V W Z add [the word] *hic*") — unlike `[^notae-1]` and unlike the accepted-precedent style (d1-p1-divisio's `[^1n]`–`[^3n]`, each of which quoted a specific phrase or word drawn verbatim from its host sentence), this note names only the single word being added (*hic* = "here"), a common function word, with **no surrounding lemma, no "ante X" / "post Y" locator, and no unique co-text** to match against the body. `hic` does not appear as a standalone word anywhere in this chunk's Latin (confirmed by grep), so there is no existing occurrence to key the variant to, and nothing in the note narrows down which sentence the added word belongs in. Per the corpus rule (place a real anchor only "if the content is genuinely this divisio's own and you can place it with clear textual evidence... If you cannot determine ownership or placement with confidence, DO NOT GUESS"), `[^notae-2]` is left as an unanchored def under the `### NOTAE AD COMMENTARIUM` sub-heading rather than force-matched to a body location. **Health-check exception:** this def is intentionally NOT in the Latin/English anchor sets — `set(defs) = {p329-1, p329-2, p329-3, notae-1, notae-2}` while `set(Latin anchors) = set(English anchors) = {p329-1, p329-2, p329-3, notae-1}`. Flagged for a future 600 dpi decade-polish pass or owner call; do not silently "fix" by guessing a position.
+
+Marker pairing for the four anchored defs (`p329-1`, `p329-2`, `p329-3`, `notae-1`): 4 La anchors = 4 En anchors = 4 defs, identical order, each once.
 
 **Hand-offs.**
 - *Picked up (from `bon-sent-III-d15-littera`):* p. 329 footers **1–3** (`Cap. 26, 37.` / `Enarrat. in Ps. 93. n. 19…` / `Ita codd. et edd., Vat. quod. Infra ante tristis…omittunt et`) plus the **NOTAE AD COMMENTARIUM** sub-block (`1 Intellige cum edd. 1, 2 infra dist. 16.` / `2 Codd. U V W Z adiiciunt hic.`). The littera correctly claimed only p. 329 footer 4 (`[^p329-4]`, anchoring its `contradictionis⁴`); footers 1–3 + Notae are commentary-region footers and are claimed here. No body-text seam issue: the littera tail (`…nihil occurrit contradictionis⁴.`, raw 23082) and this chunk's opener (`COMMENTARIUS IN DISTINCTIONEM XV.`, raw 23084) are cleanly separated by the chapter/commentary boundary.
