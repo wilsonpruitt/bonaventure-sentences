@@ -107,7 +107,7 @@ And from this there could yet be elicited, besides the aforesaid modes, another 
 
 ### Scholion
 
-**`has_scholion: false` — REDIRECT to a2-q1, §II.** This question's range (raw 53032–53151) carries no own `SCHOLION.` header. Per the q1 hand-off, the d34-p2-a2-q1 article-master scholion **§II** (*Quoad 2. quaestionem… diminuatur actus timoris*) is exactly this question's *diminutio* dossier and forward-covers it. The final footer note [^20] (*Vide scholion ad praecedentem quaest.*) confirms the redirect in the source itself. → see the scholion to `bon-sent-III-d34-p2-a2-q1`, §II.
+**`has_scholion: false` — REDIRECT to a2-q1, §II.** This question's range (raw 53032–53151) carries no own `SCHOLION.` header. Per the q1 hand-off, the d34-p2-a2-q1 article-master scholion **§II** (*Quoad 2. quaestionem… diminuatur actus timoris*) is exactly this question's *diminutio* dossier and forward-covers it. The final footer note 20 (*Vide scholion ad praecedentem quaest.*) confirms the redirect in the source itself. → see the scholion to `bon-sent-III-d34-p2-a2-q1`, §II.
 
 ---
 
@@ -192,3 +192,5 @@ And from this there could yet be elicited, besides the aforesaid modes, another 
 **Scholion disposition — `has_scholion: false`, REDIRECT to a2-q1 §II.** q2's range has no own `SCHOLION.` header; the redirect marker [^20] (*Vide scholion ad praecedentem quaest.*, p.765 n.9) points to the a2-q1 article-master scholion §II (the *diminutio* dossier — *Quoad 2. quaestionem… diminuatur actus timoris*).
 
 **No `[?]` flags** — both pages (764, 765) fully legible at 450 dpi.
+
+**J2 marker fix (2026-07-13).** The `## English` section (which includes the `### Scholion` REDIRECT note as a subsection) carried `[^20]` twice: once as the genuine translation anchor at "...even as regards use[^20]" (mirroring the Latin's sole `[^20]` at "...quantum ad usum[^20]"), and once inside the editorial REDIRECT note's prose ("The final footer note [^20] ... confirms the redirect"), which is commentary referencing the apparatus entry by number, not a translated anchor. Cause (a), stray duplicate: de-linked the prose mention to plain "footer note 20" so only the true translation anchor remains.

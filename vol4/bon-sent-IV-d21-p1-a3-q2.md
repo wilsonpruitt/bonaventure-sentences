@@ -85,7 +85,7 @@ Secondly it is asked whether any of the saints flies up into heaven before the j
 
 3. Likewise, no one's possession which is had through a sentence is obtained before the rendering of the sentence; but the possession of eternal life is had through a sentence: therefore, since the sentence is given on the day of judgment, it seems that before the day of judgment no soul flies up into heaven.
 
-4. Likewise, it belongs to a magnificent king to bestow stipends in that manner by which his magnificence is the more declared; but this is especially so when one court is made from a multitude and from the gathering of many: therefore it seems that the Lord reserves the eternal glory, that he may confer it on all at once.
+4. Likewise, it belongs to a magnificent king to bestow stipends in that manner by which his magnificence is the more declared; but this is especially so when[^3] one court is made from a multitude and from the gathering of many: therefore it seems that the Lord reserves the eternal glory, that he may confer it on all at once.
 
 5. Likewise, the soul sinned in the flesh, therefore it seems that it ought to be punished in the flesh: therefore it is never perfectly purged nor punished until it resumes the body, in which it is to be purged; but before perfect purgation the soul does not fly up into heaven: therefore not before the day of judgment.
 
@@ -183,5 +183,7 @@ that the just who die are not at once where they will be after the judgment, but
 **Cross-chunk hand-offs.**
 - *Before (← p1-a3-q1):* q2 opens cleanly at the top of p.557 L; no shared-page footer split with q1 (q1 closes on the prior page).
 - *After (→ p1-dubia):* `DUBIA CIRCA LITTERAM MAGISTRI` / `DUB. I.` begins immediately after q2's "4. 5. 6." reply, on p.558 R (raw line 61436+). **Shared-page footer split on p.558:** footers 1–4 are q2's (`[^11]`–`[^14]`); footers 5, 6 (and the Dub. text's later notes) are the dubia's. The dubia chunk must pick up p.558 footers 5–6 onward.
+
+**J2 apparatus-anchor fix (2026-07-13).** English body was missing `[^3]` (Latin: "sed hoc est praecipue, dum[^3] fit curia una"); inserted after "when" in fundamentum 4's English rendering to restore Tier-2 dual-body anchoring.
 
 **[?] flags.** None. All readings resolved against the PDF bands; OCR garbles (`qiii`→qui, `statini`→statim, `slolam`→stolam, `coBdosio`→marginal *Conclusio*, `Yocat`→vocat, `fleremus`→fieremus, `Yis`→quamvis-tail *vis*, `ooc`/`806`, `imponilur`→imponitur, `etficaci`→efficaci) silently corrected per the OCR-cleanup rules.

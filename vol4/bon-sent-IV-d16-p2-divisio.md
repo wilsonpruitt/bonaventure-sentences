@@ -77,7 +77,7 @@ FOR THE TEXT OF THE MASTER SEE ABOVE, PAGE 381.
 
 ### DIVISION OF THE TEXT.
 
-Above, the Master treated of the integral parts of penance. Here he treats of the subjective parts, which are: the penance before baptism, and after baptism the penance for mortal sins, and thirdly the penance for venial sins. Now this part is divided into two parts according to two chapters. In the first he divides penance by a threefold distinction. In the second he specifically sets forth the mode of penance for venial sins, there: *But what satisfaction for venial sins is sufficient.*
+Above, the Master treated of the integral parts of penance. Here he treats of the subjective parts, which are: the penance[^1] before baptism, and after baptism the penance for mortal sins, and thirdly the penance for venial sins. Now this part is divided into two parts according to two chapters. In the first he divides penance by a threefold distinction. In the second he specifically sets forth the mode of penance for venial sins, there: *But what satisfaction for venial sins is sufficient.*
 
 The first part has two [sections]. In the first he sets down the division. In the second he confirms it by authorities, there: *There are three actions of penance,* etc.
 
@@ -125,5 +125,7 @@ Second, whether one approaching baptism with an actual [sin] must, before the Sa
 **Apparatus split.** This chunk carries only footers 1 and 2 of printed page 403. Footers 3 (*Cfr. II. Sent. d. 31. a. 2. q. 3.*), 4 (*Vide pro hoc et seqq. argg. supra d. 14. p. I. dub. 4. … definitiones poenitentiae.*) and 5 (*Ut ostensum est supra d. 4. p. 1. a. 1. q. 1.*) belong to ARTICULUS I QUAESTIO I, which begins lower on p.403 and is a separate chunk (hand-off below).
 
 **Hand-off to a1-q1** (`bon-sent-IV-d16-p2-a1-q1`): Quaestio I (*Utrum oporteat poenitere de originali peccato*) begins on printed page 403, right column, and runs onto p.404. Its footers on p.403 are notes 3–5 listed above — pick them up when building a1-q1. The shared page-403 footer block is fully accounted for: notes 1–2 here, notes 3–5 in a1-q1.
+
+**J2 apparatus-anchor fix (2026-07-13).** English body was missing `[^1]` (Latin: "quae sunt poenitentiae[^1] ante baptismum"); inserted after "the penance" in the English DIVISION OF THE TEXT paragraph to restore Tier-2 dual-body anchoring.
 
 **[?] flags.** None. The OCR garbles (`DI8TINCTI0NEM`, `baplismum`, `Simiiiter`, `sulBcientem`, `TRAGTATIO`, `aulem`, `differenliam`) were silently corrected against the clean PDF bands; no genuinely ambiguous readings remain.

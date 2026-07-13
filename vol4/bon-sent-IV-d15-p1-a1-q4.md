@@ -88,7 +88,7 @@ Fourthly it is asked, whether satisfactory works, done outside charity, when cha
 5. Likewise, the reason why God remits guilt and does not remit the penalty is, lest sin remain unpunished: therefore if this sinner has been punished before the coming of grace as much as he would have deserved[^5] to be punished after grace, or in part; he ought either to be punished in no way, or not so much: therefore good works are reckoned.
 
 **On the contrary:**
-1. What in no way lives nor is from a living principle does not have the *potency* unto life; but such is a work done outside charity: therefore etc.
+1. What in no way lives nor is from a living principle does not[^a] have the *potency* unto life; but such is a work done outside charity: therefore etc.
 
 2. Likewise, every satisfactory work is meritorious; but nothing is meritorious except from charity; but that work was not from charity nor can it be any longer, because it is impossible that it change its origin: therefore it is impossible for it to be counted among satisfactory works.
 
@@ -188,6 +188,8 @@ Another is the position that every satisfactory work is a work meritorious of et
 **Scholion finding.** NONE in this quaestio's range. The `SCHOLION.` block printed at the top of p. 354 (left/right columns, "1. De responsione ad hanc 3. quaestionem... II. Ad 4. quaestionem... III. De 5. quaestione... IV. De quaestione 6.") physically precedes the QUAESTIO IV title and is the **q3–q6 covering scholion** — it belongs to and should be rendered in **QUAESTIO III** (`bon-sent-IV-d15-p1-a1-q3`), which holds the scholion for this article's later questions. No SCHOLION header appears within raw lines 40370–40627. The "Probabile est..." block is the quaestio's own *Conclusio* (rendered as a blockquote), not a scholion. Cross-ref: see q3 for the scholion covering q4.
 
 **Apparatus.** 12 numbered Quaracchi footers (p. 354 nn. 1–3; p. 355 nn. 1–12, numbering restarts per page) plus the body's lettered codex/marginal notes consolidated as `[^a]`–`[^i]`. Quaracchi restarts numeration on each printed page; markers `[^1]`–`[^12]` here map to the p. 354–355 sequences combined for a single in-chunk run. p. 356's own footers (n. 1 *Vide supra d. 14...*, etc.) sit under the q4 tail but their note text is cut by the QUAESTIO V boundary; the only p. 356 body marker reaching back into q4 is the *Notandum* margin and `[^g]`/`[^i]` — verify the p. 356 footer split when q5 is built (hand-off below).
+
+**J2 apparatus-anchor fix (2026-07-13).** English body was missing `[^a]` (Latin: "nec est a principio vivente non[^a] habet *potentiam* ad vitam" — a real Quaracchi codex-variant note: codd. A E F G aa bb read *non*, others/edd. *nec*, and edd. add *non potest vivificari* after *ad vitam*); inserted after "does not" in Contra 1's English rendering to restore Tier-2 dual-body anchoring.
 
 **[?] flags.** None blocking. Minor: the Latin `[^g]` reading *in opponendo* and the *Triplex opus.* / *Aliter.* margin labels are OCR-faint but legible in the PDF bands; rendered as printed.
 
