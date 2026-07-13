@@ -67,7 +67,7 @@ Quarto quaeritur, utrum, divortio celebrato, vir possit aliam uxorem ducere, vel
 
 ### Scholion
 
-**I.** *Vinculum* matrimonii *Christianorum* rati et consummati nulla auctoritate humana nulloque in casu, ne ipsius quidem adulterii, solvi posse, spectat ad fidem catholicam. Hoc Concil. Trident. (Sess. XXIV. can. 7.) definivit contra doctrinam Protestantium et etiam contra Graecos, apud quos viget praxis solvendi matrimonium propter superveniens adulterium. Communiter autem tenetur, ipso *iure naturae* matrimonium legitimum *quodcumque* esse *per se* indissolubile; quod innuitur etiam prop. 67. Syllabi a Pio IX. damnata. — De hac quaestione cfr. supra d. 27. a. 3. q. 1.[?] — De eadem 4. quaestione: Scot., supra d. 26. q. unica n. 10, d. 33. q. 3. n. 4. seqq. — S. Thom., hic a. 5; Suppl. q. 62. a. 5. — B. Albert., hic a. 15-16. — Petr. a Tar., hic a. 8[?]. — Richard. a Med., hic a. 3. q. 1. — Durand., de hac et seq. q. hic q. 2.
+**I.** *Vinculum* matrimonii *Christianorum* rati et consummati nulla auctoritate humana nulloque in casu, ne ipsius quidem adulterii, solvi posse, spectat ad fidem catholicam. Hoc Concil. Trident. (Sess. XXIV. can. 7.) definivit contra doctrinam Protestantium et etiam contra Graecos, apud quos viget praxis solvendi matrimonium propter superveniens adulterium. Communiter autem tenetur, ipso *iure naturae* matrimonium legitimum *quodcumque* esse *per se* indissolubile; quod innuitur etiam prop. 67. Syllabi a Pio IX. damnata. — De hac quaestione cfr. supra d. 27. a. 3. q. 1. 2. — De eadem 4. quaestione: Scot., supra d. 26. q. unica n. 10, d. 33. q. 3. n. 4. seqq. — S. Thom., hic a. 5; Suppl. q. 62. a. 5. — B. Albert., hic a. 5-16. — Petr. a Tar., hic a. 5. — Richard. a Med., hic a. 3. q. 1. — Durand., de hac et seq. q. hic q. 2.
 
 **II.** De seq. (5.) quaestione: S. Thom., locis citt. a. 6. — B. Albert., hic a. 11-13. — Petr. a Tar., hic a. 6. — Richard. a Med., hic a. 3. q. 2.
 
@@ -113,7 +113,7 @@ Fourthly it is asked whether, once a divorce has been celebrated, the man may ta
 
 ### Scholion
 
-**I.** That the *bond* of the matrimony of *Christians,* ratified and consummated, can be dissolved by no human authority and in no case — not even that of adultery itself — pertains to the Catholic faith. This the Council of Trent (Session XXIV, canon 7) defined against the doctrine of the Protestants and also against the Greeks, among whom there flourishes the practice of dissolving matrimony on account of supervening adultery. It is commonly held that, by the very *law of nature,* *any* legitimate matrimony whatsoever is *of itself* indissoluble; which is intimated also by proposition 67 of the Syllabus condemned by Pius IX. — On this question cf. above, d. 27, a. 3, q. 1.[?] — On the same 4th question: Scotus, above d. 26, q. unica, n. 10, d. 33, q. 3, n. 4 ff. — St. Thomas, here a. 5; Suppl. q. 62, a. 5. — B. Albert, here a. 15-16. — Peter of Tarentaise, here a. 8[?]. — Richard of Middleton, here a. 3, q. 1. — Durandus, on this and the following question, here q. 2.
+**I.** That the *bond* of the matrimony of *Christians,* ratified and consummated, can be dissolved by no human authority and in no case — not even that of adultery itself — pertains to the Catholic faith. This the Council of Trent (Session XXIV, canon 7) defined against the doctrine of the Protestants and also against the Greeks, among whom there flourishes the practice of dissolving matrimony on account of supervening adultery. It is commonly held that, by the very *law of nature,* *any* legitimate matrimony whatsoever is *of itself* indissoluble; which is intimated also by proposition 67 of the Syllabus condemned by Pius IX. — On this question cf. above, d. 27, a. 3, q. 1, 2. — On the same 4th question: Scotus, above d. 26, q. unica, n. 10, d. 33, q. 3, n. 4 ff. — St. Thomas, here a. 5; Suppl. q. 62, a. 5. — B. Albert, here a. 5-16. — Peter of Tarentaise, here a. 5. — Richard of Middleton, here a. 3, q. 1. — Durandus, on this and the following question, here q. 2.
 
 **II.** On the following (5th) question: St. Thomas, in the places cited, a. 6. — B. Albert, here a. 11-13. — Peter of Tarentaise, here a. 6. — Richard of Middleton, here a. 3, q. 2.
 
@@ -173,9 +173,11 @@ Fourthly it is asked whether, once a divorce has been celebrated, the man may ta
 - **p. 785 note 11** overflows across the page break: its text continues at the top of p. 786's left-column footer ("…cohabitationem importat. (Pro *tres* Vat. *duas*)…"). Rendered in full under `[^p785-11]`.
 - **p. 786 note 1** is claimed here (q4's *Ad 3*). p. 786 notes 2–5 anchor in q5's body and move to `bon-sent-IV-d35-a1-q5.md`.
 
-**[?] flags (editorial-apparatus numerals in the scholion doctor-lists — low stakes, PDF band vs. IA OCR ambiguity):**
-- Scholion §I, "De hac quaestione cfr. supra d. 27, a. 3, q. 1.[?]" — a trailing numeral ("2"?) is faint on the band; possibly "q. 1, 2".
-- Scholion §I, "Petr. a Tar., hic a. 8[?]" — band glyph reads closer to "a. 5"; IA OCR read "a. 8". Left as 8 pending a 600 dpi look at the d.30–d.40 decade-polish gate.
+**[?] flags (scholion §I doctor-list) — both RESOLVED at 600 dpi.**
+Source: `raw/vision/vol4/p-hires-786-r600-0806.png` (SCHOLION block, printed p. 786, between q. IV and q. V). Crops: whole block y 0.05–0.55 × full width; left-column tail y 0.225–0.250 × x 0.14–0.55 (×3); right column y 0.19–0.245 × x 0.55–0.99 (×2.2).
+- "De hac quaestione cfr. supra d. 27. a. 3. q. 1.[?]" — **RESOLVED:** Quaracchi prints "**cfr. supra d. 27. a. 3. q. 1. 2.**" The faint trailing glyph is a **2** (i.e. questions 1 *and* 2). `[?]` removed; La and En corrected.
+- "Petr. a Tar., hic a. 8[?]" — **RESOLVED:** the printed figure is **5**, not 8 ("Petr. a Tar., hic a. **5**."). The IA OCR reading "8" was wrong; the 450 dpi band's suspicion of "5" is confirmed. `[?]` removed; La and En corrected.
+- **Incidental correction made in the same line** (visible at 600 dpi, previously mis-transcribed from the OCR): "B. Albert., hic a. **5**-16" — not "15-16". Corrected in La and En. No marker counts changed.
 - Scholion §I, "B. Albert., hic a. 15-16" — band shows "5-16"; IA OCR "-5-16" (→ 15-16); rendered 15-16.
 
 **Apparatus count:** 11 entries — p.785: 10 (notes 2–11); p.786: 1 (note 1). The scholion carries no footnote markers.

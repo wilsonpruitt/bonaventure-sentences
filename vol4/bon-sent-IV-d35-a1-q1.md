@@ -161,8 +161,8 @@ On the 3rd question: St. Thomas, at the cited places, a. 3. — Bl. Albert, here
 [^p781-1]: **La.** Cod. O supplet *altera persona*, cod. U *alter*.
     **En.** Codex O supplies *altera persona* [another person], codex U [reads] *alter* [the other].
 
-[^p781-2]: **La.** Vers. 9. Cfr. ibid. 5, 29. — Superius respicitur definitio *scandali:* «Scandalum est dictum vel factum minus rectum praebens alteri occasionem ruinae», et est secundum Hieron., II. Comment. in Matth. 18, 12 [?] (quae etiam in Glossa *ordinaria* apud Strabum et Lyranum ponitur) et secundum Glossam *interlinearem* apud Lyranum in Matth. 18, 7.
-    **En.** Verse 9. Cf. ibid. 5, 29. — Above there is regard to the definition of *scandal:* «Scandal is a word or deed less upright, affording another an occasion of ruin», and it is according to Jerome, Book II of the Commentary on Matthew 18, 12 [?] (which is also placed in the *Ordinary* Gloss among [the notes of] Strabo and Lyra) and according to the *Interlinear* Gloss among [those of] Lyra on Matthew 18, 7.
+[^p781-2]: **La.** Vers. 9. Cfr. ibid. 5, 29. — Superius respicitur definitio *scandali:* «Scandalum est dictum vel factum minus rectum praebens alteri occasionem ruinae», et est secundum Hieron., II. Comment. in Matth. 15, 12. (quae etiam in Glossa *ordinaria* apud Strabum et Lyranum ponitur) et secundum Glossam *interlinearem* apud Lyranum in Matth. 18, 7.
+    **En.** Verse 9. Cf. ibid. 5, 29. — Above there is regard to the definition of *scandal:* «Scandal is a word or deed less upright, affording another an occasion of ruin», and it is according to Jerome, Book II of the Commentary on Matthew 15, 12 (which is also placed in the *Ordinary* Gloss among [the notes of] Strabo and Lyra) and according to the *Interlinear* Gloss among [those of] Lyra on Matthew 18, 7.
 
 [^p781-3]: **La.** Vers. 6. Plures codd. *Quos* Deus etc.
     **En.** Verse 6. Several codices [read] *Whom* God etc.
@@ -182,8 +182,8 @@ On the 3rd question: St. Thomas, at the cited places, a. 3. — Bl. Albert, here
 [^p781-8]: **La.** Regul. iuris, regul. 75: «Frustra sibi fidem quis postulat ab eo servari, cui fidem a se praestitam servare recusat», in VI. — Subinde respicitur Sap. 11, 17: *Per quae peccat quis, per haec et torquetur*. — Pro *directe* codd. communiter *recte*.
     **En.** Rules of law, rule 75: «In vain does one demand that faith be kept toward him by one to whom he refuses to keep the faith pledged by himself», in [the Liber] VI. — Then there is regard to Wisd. 11, 17: *By what things a man sins, by these also is he tormented*. — For *directe* [directly] the codices commonly [read] *recte* [rightly].
 
-[^p781-9]: **La.** Vat. addit *seu lucem* [?], cod. aa *tunc*, plures codd. *et*, codd. T X *etiam* (coniungendum cum verbo *tenetur*). Inferius post *modis* cod. F subiungit *quia*, omisso subinde primo *et ideo*.
-    **En.** The Vatican [ed.] adds *seu lucem* [?], codex aa [reads] *tunc* [then], several codices *et* [and], codices T X *etiam* [also] (to be joined with the verb *tenetur*). Lower down, after *modis* codex F adds *quia*, the first *et ideo* being thereupon omitted.
+[^p781-9]: **La.** Vat. addit *seu lucem*, cod. aa *tunc*, plures codd. *et*, codd. T X *etiam* (coniungendum cum verbo *tenetur*). Inferius post *modis* cod. F subiungit *quia*, omisso subinde primo *et ideo*.
+    **En.** The Vatican [ed.] adds *seu lucem*, codex aa [reads] *tunc* [then], several codices *et* [and], codices T X *etiam* [also] (to be joined with the verb *tenetur*). Lower down, after *modis* codex F adds *quia*, the first *et ideo* being thereupon omitted.
 
 [^p781-10]: **La.** Cfr. infra dub. 1, ubi quae praecedunt probantur ex iure canonico.
     **En.** Cf. below, dub. 1, where the foregoing matters are proved from canon law.
@@ -223,7 +223,7 @@ On the 3rd question: St. Thomas, at the cited places, a. 3. — Bl. Albert, here
 **Scholion disposition.** This distinction has TWO scholia. The FIRST scholion (this chunk, printed at the foot of p782 after q1's Ad-obiecta) has THREE sections and covers the first three questions: **§I → q1** (Trent Sess. XXIV can. 8; doctor-list "De hac 1. quaestione"), **§II → q2** (separation of an innocent spouse; "De eadem 2. quaestione"), **§III → q3** (canonical requirement of ecclesiastical judgment; "De 3. quaestione"). All three §§ are rendered here in full. The SECOND scholion (raw ~L84205, not in this chunk) belongs to a1-q4 and covers the later questions.
 
 **[?] flags.**
-- [^p781-2]: the internal ref "II. Comment. in Matth. 18, 12" — the tiny footnote type reads ambiguously between "18" and "15"; "18" adopted on the strength of the parallel "in Matth. 18, 7" in the same note and the Matt-18 scandal context. Flagged pending a 600 dpi read.
-- [^p781-9]: the Vatican-edition variant word printed as "seu lucem" (band-confirmed glyphs) is an odd reading for the spot marked at *similiter*; transcribed as printed and flagged pending a 600 dpi read.
+- `[^p781-2]` — **RESOLVED (600 dpi, p. 781, `raw/vision/vol4/p-hires-781-r600-0801.png`, left footer column, note ²; crop y 0.72–1.0 × x 0.0–0.52, note-² line enlarged ×4).** Quaracchi prints "**II. Comment. in Matth. 15, 12.**" — not "18, 12". The unreadable glyph was simply the closing period before the parenthesis. Corrected in both La and En; `[?]` removed. (The reading is internally right: Jerome's *Comm. in Matth.* Book II covers Matt 11–16, and Matt 15:12 — *scandalizati sunt Pharisaei* — is the scandal lemma. The later "in Matth. 18, 7" in the same note refers to the *interlinear* Gloss and is unchanged.)
+- `[^p781-9]` — **RESOLVED (600 dpi, p. 781, same image, right footer column, note ⁹; crop y 0.72–1.0 × x 0.48–1.0).** The printed note reads "Vat. addit *seu lucem*, cod. aa *tunc*, plures codd. *et*, codd. T X *etiam* (coniungendum cum verbo *tenetur*)…". The suspected extra glyph after *seu lucem* is only the **comma**. `[?]` removed in both halves; no other change.
 
 **Hand-off forward to q2.** q2 (`bon-sent-IV-d35-a1-q2`, printed_pages [782, 783]) begins on p782 immediately below this scholion with the header *Quaestio II. Utrum dimittere uxorem fornicariam sit in praecepto* → *Secundo quaeritur…*; its first footer is p782 note ⁶ (see above). Its opening sentence is grammatically independent of q1's scholion (no mid-page splice).

@@ -31,7 +31,7 @@ format_version: 1
 
 Secundo quaeritur, utrum coitus coniugalis causa fornicationis vitandae possit esse sine omni peccato veniali. Et quod non, videtur:
 
-1. Ita dicit Augustinus, et habetur in littera[^1]: «Hoc, quod coniugati, victi concupiscentia, utuntur invicem ultra necessitatem procreandi liberos,[?] nam in his, pro quibus quotidie dicimus: *Dimitte nobis debita nostra*».
+1. Ita dicit Augustinus, et habetur in littera[^1]: «Hoc, quod coniugati, victi concupiscentia, utuntur invicem ultra necessitatem procreandi liberos, ponam in his, pro quibus quotidie dicimus: *Dimitte nobis debita nostra*».
 
 2. Item, primae ad Corinthios septimo[^2]: *Iterum revertimini in id ipsum, ne tentet vos satanas propter incontinentiam; hoc autem dico secundum indulgentiam, non secundum imperium*; sed si meritorium esset et sine peccato sic uxorem cognoscere posset, non tantum deberet indulgeri, verum etiam praecipi.
 
@@ -69,7 +69,7 @@ Secundo quaeritur, utrum coitus coniugalis causa fornicationis vitandae possit e
 
 Secondly it is asked whether conjugal intercourse for the sake of avoiding fornication can be without all venial sin. And that it cannot, is shown thus:
 
-1. So says Augustine, and it is contained in the text[^1]: "This, that married persons, overcome by concupiscence, make use of one another beyond the necessity of procreating children,[?] for in these matters, for which we daily say: *Forgive us our debts*."
+1. So says Augustine, and it is contained in the text[^1]: "This, that married persons, overcome by concupiscence, make use of one another beyond the necessity of procreating children — this I shall place among those things for which we daily say: *Forgive us our debts*."
 
 2. Likewise, in the first [Letter] to the Corinthians, the seventh [chapter][^2]: *Return again to the same, lest Satan tempt you because of [your] incontinence; but this I say by way of indulgence, not by way of command*; but if it were meritorious and one could thus without sin know his wife, it ought not only to be indulged, but even commanded.
 
@@ -153,4 +153,4 @@ Secondly it is asked whether conjugal intercourse for the sake of avoiding forni
 - *p. 725 footers:* nn. 1–9 all anchor in this question's body (fund. 3–4, contra 1–3, Respondeo, replies 2 and 4) — claimed as [^3]–[^11]. **Footer n. 10** (`Hic c. 5.`) anchors in q3's opener (`…et habetur in littera¹⁰`) and is **handed off to a2-q3**; not claimed here.
 
 **[?] flags.**
-- Latin body, fund. 1 quote: after "procreandi liberos," both the PDF band and the raw OCR show a hyphenated fragment "po-" immediately before "nam in his" ("…procreandi liberos, po-|nam in his…"). No Latin word "ponam"/"po-nam" fits the sense, and Augustine's phrase continues cleanly with "nam in his, pro quibus quotidie dicimus…"; the "po-" fragment is left unresolved and flagged `[?]` (possibly an abbreviated/garbled clause dropped in this citation of the *littera*). English mirrors with `[?]`.
+- **RESOLVED (600 dpi, p. 724)** — d.31–d.40 decade polish gate, Pass 1 (2026-07-13). Latin body, fund. 1, Augustine quotation. Read at 600 dpi from `raw/vision/vol4/p-hires-724-r600-0744.png`, right-hand column below the `QUAESTIO II.` heading (crops `(2500, 5150)–(4900, 5750)` and `(2600, 5680)–(4900, 5820)`). The printed text sets the line-break as `…utuntur | invicem ultra necessitatem procreandi liberos, po-` / `nam in his, pro quibus quotidie dicimus: Dimitte | nobis debita nostra ».` The hyphenated fragment is therefore simply the **column-break hyphenation of the single word *ponam*** (1 sg. fut. of *pono*), not a dropped clause and not damage. Nothing is missing from the citation. This matches the received Augustine text (*De bono coniugali* c. 10 n. 11 / Lombard's *littera*): *«Hoc, quod coniugati, victi concupiscentia, utuntur invicem ultra necessitatem procreandi liberos, ponam in his, pro quibus quotidie dicimus: Dimitte nobis debita nostra.»* Both the Latin and English bodies were corrected accordingly (Latin now reads `…procreandi liberos, ponam in his…`; English renders it "…beyond the necessity of procreating children — this I shall place among those things for which we daily say…"), and both `[?]` markers were deleted. Apparatus marker positions and counts unchanged ([^1] still anchors at `in littera`).

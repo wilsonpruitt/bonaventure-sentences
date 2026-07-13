@@ -163,8 +163,8 @@ Concerning the third question: St. Thomas, at the places cited, a. 3. — Bl. Al
 [^p796-4]: **La.** Cfr. C. *De illis* (9.), X. de Desponsat. impuberum (lib. IV. tit. 2.).
      **En.** Cf. the chapter *De illis* (9), X [Decretals], On the Betrothal of Those Below Puberty (bk. IV, tit. 2).
 
-[^p796-5]: **La.** Secundum Aristot., I. Phys. text. 81. (c. 9.). Cfr. IV. de Generat. animal. [c. 3.] [?]
-     **En.** According to Aristotle, *Physics* I, text 81 (c. 9). Cf. *On the Generation of Animals* IV [c. 3]. [The citation's tail runs off the bottom margin of p. 796 in both the scan and the OCR; the continuation is reconstructed from the parallel note at p. 795, fn. 3.]
+[^p796-5]: **La.** Secundum Aristot., I. Phys. text. 81. (c. 9.). Cfr. IV. de [Generat. animal. c. 3.]
+     **En.** According to Aristotle, *Physics* I, text 81 (c. 9). Cf. [*On the Generation of Animals*] IV, [c. 3]. [The note breaks off at "Cfr. IV. de" at the trimmed outer margin of p. 796 — the tail is absent from the scan at 600 dpi and from the IA OCR alike; the bracketed continuation is supplied from the parallel note on p. 795, fn. 3, "Cfr. Aristot., IV. de Generat. animal. c. 3."]
 
 ---
 
@@ -181,4 +181,5 @@ Concerning the third question: St. Thomas, at the places cited, a. 3. — Bl. Al
 - *Forwarded:* p. 796 footnote block sits physically below the a2-q1 scholion, but its markers 1–5 all anchor in this q1 body, so all are claimed here. The `QUAESTIO II.` opener + first videtur arg. that begin at the foot of p. 796 belong to **a2-q2** (not rendered here).
 
 **[?] flags.**
-- p. 796, fn. 5 (`formam` anchor): the closing reference `Cfr. IV. de Generat. animal.` is cut at the page's bottom-right margin in the 450 dpi scan and dropped by the IA OCR; the chapter number is reconstructed from the parallel note (p. 795, fn. 3, `Cfr. Aristot., IV. de Generat. animal. c. 3.`). Flagged for the d.40 decade 600 dpi pass.
+- `[^p796-5]` — **ACCEPT-ILLEGIBLE (physically absent from the source scan), with the first half RESOLVED.** Read at 600 dpi from `raw/vision/vol4/p-hires-796-r600-0816.png` (right footer column; crops y 0.78–0.94 × x 0.50–1.0 and y 0.855–0.93 × x 0.55–1.0, autocontrast). The note is legible as far as: "⁵ Secundum Aristot., **I. Phys. text. 81. (c. 9.). Cfr. IV. de**" — confirming the *Physics* reference exactly as transcribed. The line then runs into the **trimmed outer margin of the scanned page and stops**; there is no wrap line below it (the footer block ends there), and the IA djvu OCR breaks off at the identical point ("Cfr. IV. de", raw L85370). The tail is therefore **not recoverable from any available source at any dpi** — accepted as illegible.
+  - Editorial supply: the continuation is rendered bracketed, `Cfr. IV. de [Generat. animal. c. 3.]`, on the authority of the parallel note one page earlier (p. 795, fn. 3: "Cfr. Aristot., IV. de Generat. animal. c. 3.", raw L85271). The inline `[?]` is removed; the uncertainty is now carried by the square brackets plus this note. Resolving it further would require a different (untrimmed) copy of the Quaracchi Vol. IV scan.

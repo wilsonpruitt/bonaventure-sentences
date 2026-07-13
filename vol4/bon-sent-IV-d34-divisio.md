@@ -104,8 +104,8 @@ Secondly, granted that it has several, it is asked concerning the number and suf
 [^1]: **La.** Dist. XLII. c. 7.
      **En.** Distinction XLII, ch. 7.
 
-[^2]: **La.** Scil. ultima propos. d. XXXVI. — Verbis *Sunt igitur quidam ordines* incipit d. XXXVII. — Edd. breviter legunt: *faciunt illegitimitates, infra d. 57*[?]*: Sunt ergo quidam ordines.*
-     **En.** Namely the last proposition of d. XXXVI. — With the words *There are therefore certain orders* d. XXXVII begins. — The editions read briefly: *[which] render illegitimacies, below d. 57*[?]*: There are therefore certain orders.* (The printed "d. 57" is almost certainly a misprint for **d. 37** [= d. XXXVII], the very distinction the note concerns; Book IV has only 50 distinctions.)
+[^2]: **La.** Scil. ultima propos. d. XXXVI. — Verbis *Sunt igitur quidam ordines* incipit d. XXXVII. — Edd. breviter legunt: *faciunt illegitimitates, infra d. 57: Sunt ergo quidam ordines.*
+     **En.** Namely the last proposition of d. XXXVI. — With the words *There are therefore certain orders* d. XXXVII begins. — The editions read briefly: *[which] render illegitimacies, below d. 57* [read: **d. 37**] *: There are therefore certain orders.* (Quaracchi prints "d. 57"; this is a misprint for **d. 37** [= d. XXXVII], the very distinction the note concerns — Book IV has only 50 distinctions. The Latin is transcribed as printed.)
 
 [^3]: **La.** Ex codd. AELY substituimus *naturae* pro *viri*; non pauci codd. *fieri*. Mox pro *statum* codd. GLVYZ *statutum*.
      **En.** From codices AELY we substituted *naturae* ("of nature") for *viri* ("of the husband"); not a few codices [read] *fieri*. Presently, in place of *statum* ("status"), codices GLVYZ [read] *statutum* ("statute").
@@ -129,5 +129,5 @@ Secondly, granted that it has several, it is asked concerning the number and suf
 - *Last-page (767) hand-off to a1-q1:* the QUAESTIO I heading and body ("Quantum ergo ad primum ostenditur…") and ALL of p. 767's QUAESTIO I body footers belong to `bon-sent-IV-d34-a1-q1`. This chunk claims no footers on p. 767. The TRACTATIO's enumeration ("Circa primum quaeruntur duo. Primo… utrum matrimonium habeat impedimentum. Secundo… de numero et sufficientia impedimentorum.") aligns correctly with a1-q1 (Q1 = *utrum matrimonium habeat impedimentum*) and a1-q2 (*de numero et sufficientia impedimentorum*).
 
 **[?] flags.**
-- `[^2]`: printed "**infra d. 57**" — flagged. Contextually this is **d. 37** (d. XXXVII, the subject of the whole note; *Sunt ergo quidam ordines* is the d. XXXVII lemma) and Book IV has only 50 distinctions, so "57" is a printed/typographic error. Transcribed as printed with the correction noted. Needs a 600 dpi confirmation at the d.30–d.40 decade-polish gate.
+- `[^2]`, "*infra d. 57*" — **RESOLVED (600 dpi, p. 766, `raw/vision/vol4/p-hires-766-r600-0786.png`, *Notae ad Commentarium* note ² in the left footer column; crop y 0.858–0.884 × x 0.22–0.50, digit enlarged ×10).** Quaracchi **does print "d. 57"**: the italic figure has the flat top bar and single lower bowl of a **5**, not the double bowl of an italic 3. Per house rule the Latin keeps **57** verbatim; the inline `[?]` is removed and the "misprint for d. 37" observation is carried as a translator's bracket in the English. (It is certainly a typographic error: *Sunt ergo quidam ordines* is the d. XXXVII lemma, and Book IV has only 50 distinctions.)
 - No scholion (correct: divisio chunks have none; `has_scholion: false`).

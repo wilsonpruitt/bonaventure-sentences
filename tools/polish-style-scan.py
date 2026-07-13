@@ -1,12 +1,16 @@
 #!/usr/bin/env python3.11
 """Polish-blocker Pass 2: full-corpus style/formatting scan.
 
-Scans every Tier-2 chunk (vol1/ + vol2/) for the mechanical invariants the
+Scans every Tier-2 chunk (vol1/ .. vol4/) for the mechanical invariants the
 polish-blocker requires. Triage signal — reports, does not fix.
+
+"Full corpus every time" per CLAUDE.md's polish-blocker cadence — vol3/vol4 were
+added 2026-07-13 at the Vol IV d.31–d.40 gate (the script had silently been
+scanning only vol1+vol2 since Vol III opened).
 """
 import re, sys, glob, os
 
-DIRS = ["vol1", "vol2"]
+DIRS = ["vol1", "vol2", "vol3", "vol4"]
 REQUIRED_FM = ["title_la", "title_en", "printed_pages", "pdf_pages",
                "source", "has_apparatus", "transcription_status"]
 

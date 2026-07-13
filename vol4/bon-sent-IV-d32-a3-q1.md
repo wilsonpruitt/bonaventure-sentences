@@ -269,4 +269,4 @@ From this is clear that which it objects concerning consent. For while, compelle
 
 **Textual note.** [^p736-6] reads Lev. **15** (fluxus seminis 15,2 + menstruation/fluxus sanguinis 15,19); the IA djvu OCR's "13" is a digit-mangle, disambiguated by content.
 
-**No unresolved [?] flags.**
+**[?] flags.** **RESOLVED (600 dpi, p. 736)** — d.31–d.40 decade polish gate, Pass 1 (2026-07-13). `[^p736-6]` (= p. 736 footer note 6), the Leviticus chapter number: read at 600 dpi from `raw/vision/vol4/p-hires-736-r600-0756.png`, left-hand footer column (crop `(950, 6220)–(2150, 6350)`, 3× upscale). **Quaracchi prints `Secundum Lev. 15, 2. et 19.`** — the chapter numeral is a clear **15**, not 13. The IA OCR's `13` is a digit-mangle, *not* an edition misprint, so no translator's note or restoration of a printed `13` is warranted: Quaracchi's own text is both what we transcribe and substantively correct (Lev 15:2, 19 is the menstruation/issue law that the article's argument turns on; Lev 13 is leprosy). The chunk's existing reading stands unchanged; flag retired.

@@ -258,6 +258,6 @@ On the 3rd question: Scotus, here q. 1. n. 4. seqq. — St. Thomas, here a. 2; S
 
 **Footer hand-offs.** p. 747 (notes 1–8) and p. 748 (notes 1–11) fall wholly within my body — all claimed here. p. 749's per-page footer sequence is shared with a1-q2: notes **1–2 are mine** (anchored in q1's reply *de Sara*: "Unde¹ …" and "signum fuit²"); notes 3–7 on p. 749 anchor in q2's body (Lamech/Genesis-4 arguments, "pares sint", Gen 2, etc.) and are left for the a1-q2 agent. Total claimed apparatus: 21 entries (8 + 11 + 2).
 
-**[?] flags.** [?] p747-4: the canon number in "C. *Liberi dicti* (15.)" reads as **15** on the 450 dpi band but the IA OCR gave **13**; rendered (15.) pending a 600 dpi check at the d.40 decade-polish gate. No other ambiguous readings — the bands were clean.
+**[?] flags.** **RESOLVED (600 dpi, p. 747)** — d.31–d.40 decade polish gate, Pass 1 (2026-07-13). `[^p747-4]` (= p. 747 footer note 4), the canon number: read at 600 dpi from `raw/vision/vol4/p-hires-747-r600-0767.png`, left-hand footer column (crop `(100, 6640)–(1450, 6740)`, 2.6× upscale). The printed note reads **`Cfr. C. Liberi dicti (15.), C. 32. q. 4.`** — the second digit is a clear flat-topped **5**, not a 3. The IA OCR's `13` is a digit-mangle. The chunk's existing reading (`(15.)`) is correct and stands unchanged; flag retired. No other ambiguous readings — the bands were clean.
 
 **Hand-off received.** None (first chunk of Art I; divisio closed on p. 746).

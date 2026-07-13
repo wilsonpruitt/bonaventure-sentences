@@ -136,8 +136,8 @@ Which is plain: if someone should take the daughter of his own father and thereb
 [^p849-3]: **La.** Vers. 24: Quamobrem relinquet homo patrem suum et matrem etc.
      **En.** Verse 24: *Wherefore a man shall leave his father and mother* etc.
 
-[^p849-4]: **La.** Vers. 3. seq. Vulgata habet *Deus vester* tantum in v. 4.
-     **En.** Verse 3 f. The Vulgate has *your God* only in v. 4.
+[^p849-4]: **La.** Vers. 5. seq. Vulgata habet *Deus vester* tantum in v. 4.
+     **En.** Verse 5 f. The Vulgate has *your God* only in v. 4.
 
 [^p849-5]: **La.** Hic c. 4. In fine pro *succedere* ex cod. A cum textu originali substituimus *succrescere*, quod etiam infra in solut. ad 4. praeter cod. A exhibent codd. E L V W.
      **En.** Here c. 4. At the end, in place of *succedere*, we have substituted *succrescere* from cod. A together with the original text; the same is also exhibited below, in the solution to the fourth objection, besides cod. A, by codd. E L V W.
@@ -194,9 +194,11 @@ Which is plain: if someone should take the daughter of his own father and thereb
 
 **Scholion.** None rendered here, by design: the distinction has a single SCHOLION block (printed in the q1 area, raw L90557, OCR `SCHOLIOK`) whose §I covers q1+q2 and §II covers q3. It is rendered in full by `d40-a1-q1`. `has_scholion: false`. This is exactly what `p851-2` (*Vide scholion ad praecedentem quaest.*) points the reader to.
 
-**`[?]` flags.** None left inline. Two readings were resolved rather than parked:
-- p849-5, codex siglum: the djvu OCR renders it `.'V` / `/V` (i.e. *N*) in both occurrences; the 450 dpi band reads **A** in both. Rendered as **A** (consistent with the note's own logic — *ex cod. A … praeter cod. A exhibent codd. E L V W*). Worth a second look at 600 dpi in the d.40 decade-polish pass.
-- p849-4, verse number: the band glyph is ambiguous between `3` and `5`; rendered **3** because the note's own remark (*Vulgata habet Deus vester tantum in v. 4*) requires the citation to begin before v. 4. OCR independently reads `3`.
+**`[?]` flags.** None left inline. Two readings were resolved from the 450 dpi band and both were re-checked at 600 dpi in the d.31–d.40 decade polish-blocker (2026-07-13):
+- p849-5, codex siglum: the djvu OCR renders it `.'V` / `/V` (i.e. *N*) in both occurrences; the 450 dpi band read **A** in both.
+  **RESOLVED (600dpi p.849):** `raw/vision/vol4/p-hires-849-r600-0869.png`, right-column footer band (crop x 2400–4959, y 0.72h+520…+940). Both occurrences read **A** unambiguously — *«ex cod. A cum textu originali substituimus succrescere … praeter cod. A exhibent codd. E L V W»*. Rendering stands; no edit needed.
+- p849-4, verse number: the band glyph was called ambiguous between `3` and `5`; it was rendered **3** on the (mistaken) reasoning that the note's remark *Vulgata habet Deus vester tantum in v. 4* requires a start before v. 4.
+  **RESOLVED (600dpi p.849) — CORRECTION APPLIED:** `raw/vision/vol4/p-hires-849-r600-0869.png`, left-column footer band (crop x 180–1100, y 0.72h+1150…+1260). Quaracchi prints **«⁴ Vers. 5. seq.»** — the glyph has the flat top bar + open lower bowl of a `5`, plainly distinct from the double-bowl `3` in the neighbouring `Vers. 23.` / `Gen. 2, 21.`. The rendering has been corrected **3 → 5** in both `**La.**` and `**En.**` of `[^p849-4]`. The reasoning that forced `3` was inverted: Bonaventure cites Lev. 18, 5 ff. (the *«Omnis homo ad proximam sanguinis sui non accedet»* of v. 6), and Quaracchi's remark is precisely a *correction* — the *Deus vester* of the quotation is not found in vv. 5 ff. but only at v. 4. Marker count unchanged (apparatus-body text only).
 
 **Marginalia trimmed.** The printed side-glosses (*Fundamenta*, *Conclusio generalis*, *Conclusio 2/3/4*, *Ratio*, *Sol. oppos.*, *Nota*, *Alia*) are editorial marginalia and are not rendered in the body, per the corpus convention.
 

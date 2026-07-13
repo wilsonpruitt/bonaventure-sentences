@@ -166,7 +166,7 @@ Likewise it is asked about that which he says, that *the Holy Church of God has 
 - **p. 812** carries the Dub. IV footers **1 (Bernard, *De Consideratione* lib. IV c. 3 n. 7) and 2 (Bernard, loc. cit.)** — claimed here. The p. 812 right-column block headed `NOTAE AD LIBR. SENTENTIARUM` (Hugo a S. Vict., *De Bono viduitatis*, etc.; raw L86992 ff.) belongs to the **d.38 littera** and is NOT claimed (hand-off forward honored).
 
 **[?] flags.**
-- `[?]` **p811-8 canon number**: the band `vol4-p811-R-2.png` reads the opening canon *Si quis vivente* as **(5.)**; the IA djvu OCR reads **(3.)**. Rendered as (5.) from the authoritative band. Low-stakes citation detail; not independently resolvable without a cleaner scan.
+- ~~`[?]`~~ **p811-8 canon number — RESOLVED (600dpi p.811), 2026-07-13 decade polish-blocker.** The band `vol4-p811-R-2.png` read the opening canon *Si quis vivente* as **(5.)**; the IA djvu OCR read **(3.)**. Re-checked at 600 dpi on `raw/vision/vol4/p-hires-811-r600-0831.png`, right-column footer, footnote 8 (crop x 2650–3400, y 0.70h+540…+660): the glyph has the flat top bar and open lower bowl of a **5**, plainly distinct from the double-bowl **3** printed two lines above in `lib. III. tit. 32.` and in `(3.)` later in the same note. Quaracchi prints **Can. *Si quis vivente* (5.)**. The rendering stands; no edit needed. Flag closed.
 - No other ambiguous readings; the Dub. I garble "mrfi/,am" (OCR) resolves unambiguously to **viduam** on band `vol4-p810-R-1.png` (context + note 7 *scilicet bigamiae*), so it is corrected silently rather than flagged.
 
 **Hand-offs.**
