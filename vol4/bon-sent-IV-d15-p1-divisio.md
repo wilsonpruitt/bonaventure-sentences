@@ -11,7 +11,7 @@ printed_pages: [349, 350]
 pdf_pages: [369, 370]
 source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 349–350"
 has_scholion: false
-has_apparatus: true
+has_apparatus: false
 transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR (raw lines 39847–39920) with PDF column-band priority in the two-column cascade-fragmented DIVISIO/TRACTATIO/footer regions, fresh literal English translation, 2-footnote apparatus from raw OCR / p.349 footer (notes 1–2), no scholion (2026-06-22)"
 format_version: 1
 ---
@@ -113,15 +113,7 @@ Sixth and last it is asked, what that is which is merited.
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They render the Quaracchi critical apparatus for printed page 349.
-
-[^1]: **La.** Hieron., Libr. IV. Comment. in Matth. (27, 5.); C. *Nihil Iudae* (38), de Poenitentia d. 3, ubi respicitur Ps. 108, 7. — In isto textu pro *egisse poenitentiam* Vat. et edd. 4, 6 *sera poenitentia,* quod antiquitus etiam in nonnullis codd. Hieronymi legebatur. In plerisque edd. Magistri hic et infra legitur *emendare non valeat* pro *emendare valeat,* refragantibus originali, codd. A E et edd. 1, 6, 8.
-
-    **En.** Jerome, Book IV of the Commentary on Matthew (27, 5.); Decretum, c. *Nihil Iudae* (38), de Poenitentia d. 3, where Ps. 108, 7 is regarded. — In this text, in place of *egisse poenitentiam* ("to have done penance") the Vatican edition and editions 4, 6 read *sera poenitentia* ("late penance"), which anciently was also read in some codices of Jerome. In most editions of the Master, here and below, is read *emendare non valeat* ("is not able to amend") for *emendare valeat* ("is able to amend"), against the original, codices A E and editions 1, 6, 8.
-
-[^2]: **La.** August., Epist. 153. (alias 54.) ad Macedonium, c. 6. n. 20; C. *Si res aliena* (1.), C. 14. q. 6.
-
-    **En.** Augustine, Letter 153 (otherwise 54) to Macedonius, c. 6, n. 20; Decretum, c. *Si res aliena* (1), C. 14, q. 6.
+> This chunk carries no apparatus of its own. The page-foot notes printed on its pages belong to the Master's littera and are rendered in `d15-p1-littera` [^29]–[^30].
 
 ## Notes
 
@@ -132,3 +124,6 @@ Sixth and last it is asked, what that is which is merited.
 - **Marginalia trimmed:** the Quaracchi side-glosses *Explicatur a Magistro* and *Augustinus* (p.349 right col) and *Fundamenta* / *Modus dicendi* (p.350) are editorial marginalia, not part of Bonaventure's text — excluded per the OCR-cleanup rule.
 - **No `[?]` flags** — all body text and the two owned footers read cleanly from the OCR and were confirmed against the PDF bands.
 - No scholion in this divisio chunk.
+- **⚠ Unanchorable apparatus (2026-07-13):** entries `[^1]` (Hieron., *Comment. in Matth.* 27,5 / *Nihil Iudae*) and `[^2]` (August., Epist. 153 ad Macedonium) have NO corresponding superscript anywhere in this chunk's Latin or English body — confirmed against the p.349 PDF bands (`/tmp/colcrop/vol4-p349-{L,R}-0.png`). The printed superscripts ¹ and ² actually sit on **"Hieronymus"** ("Unde Hieronymus¹: «Nihil Iudae profuit egisse poenitentiam…»", p.349 L-0 band, left column) and on **"fingitur"** ("…non agitur poenitentia, sed fingitur²».", p.349 R-0 band, right column) — both inside the closing paragraph of the **littera** (Lombard's Cap. VII), which lies *above* the `COMMENTARIUS IN DISTINCTIONEM XV.` heading that opens this divisio chunk's Latin body. That littera text belongs to the sibling chunk `bon-sent-IV-d15-p1-littera.md`, whose own apparatus already anchors this exact content at `[^29]` (Hieronymus) and `[^30]` (fingitur) — see its `## Notes`, which explicitly documents "p.349 notes 1–2 → `[^29]`–`[^30]`" and that they are "the two littera footers above the rule on p.349." Wording differs slightly (e.g. "In isto texto" vs "In isto textu"; the littera's `[^30]` includes "n. 20" that this chunk's `[^2]` also has), but content is the same citation. **Conclusion: this chunk's `[^1]`/`[^2]` are a duplicate carry-over that do not belong to this chunk at all** — no anchor was invented, per instructions. Left as-is (not deleted, per the "don't change apparatus entries" rule); flagging for a follow-up decision on whether to delete the duplicate entries from this file (littera already owns the citation) or whether this chunk's DIVISIO TEXTUS was originally meant to re-cite them (no textual basis found for that in the printed page). The verify script below will report FAIL for this chunk because of this unresolved duplication — expected, not a mistake in this session's edits.
+
+**J3 apparatus reassignment (2026-07-13).** REMOVED both apparatus entries. They duplicate notes that already live — correctly anchored — in `bon-sent-IV-d15-p1-littera.md` ([^29]–[^30]). The superscripts they answer to (¹ on *Hieronymus*, ² on *fingitur*) are printed in Lombard's littera (Cap. VII) on p.349, ABOVE the `COMMENTARIUS IN DISTINCTIONEM XV.` heading — outside this chunk's range (verified on the 450dpi p.349 bands). They were unanchored here in BOTH bodies. Nothing is lost: the littera is complete and fully anchored (30/30/30). `has_apparatus` set to false.

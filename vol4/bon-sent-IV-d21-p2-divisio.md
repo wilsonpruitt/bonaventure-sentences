@@ -34,9 +34,9 @@ TEXTUM MAGISTRI VIDE SUPRA PAG. 545.
 
 ### DIVISIO TEXTUS.
 
-Supra egit Magister de confessionis necessitate a parte confitentis et potestate a parte absolventis et opportunitate a parte temporis; hic agit de utilitate a parte finis; et habet haec pars duas. In prima ostendit, quae confessio sit utilis, scilicet confessio vera et humilis. In secunda ostendit, quantum confessionis contemptus obsit, infra¹: *Cumque multis auctoritatibus supra sit assertum.*
+Supra egit Magister de confessionis necessitate a parte confitentis et potestate a parte absolventis et opportunitate a parte temporis; hic agit de utilitate a parte finis; et habet haec pars duas. In prima ostendit, quae confessio sit utilis, scilicet confessio vera et humilis. In secunda ostendit, quantum confessionis contemptus obsit, infra[^1]: *Cumque multis auctoritatibus supra sit assertum.*
 
-Prima in duas dividitur. In prima ostendit, quae sunt attendenda in confessione ex parte confitentis. In secunda, ex parte audientis, ibi: *Caveat autem sacerdos* etc. Prima pars duas continet. In prima ostendit, quod confessio non debet esse diminuta. In secunda, quod non debet esse superflua, ibi: *Sicut autem poenitens celare non debet* etc. Similiter secunda, in qua determinat ex parte sacerdotis, quid observandum sit, duo continet. Primum est, ut pure teneat secretum². Secundum vero, ut non absolvat alterius parochianum, et hoc ibi tangitur: *Quod vero dictum est.* Et ita principaliter duo tanguntur, secundum quod confessio *integra* debet esse et *secreta.*
+Prima in duas dividitur. In prima ostendit, quae sunt attendenda in confessione ex parte confitentis. In secunda, ex parte audientis, ibi: *Caveat autem sacerdos* etc. Prima pars duas continet. In prima ostendit, quod confessio non debet esse diminuta. In secunda, quod non debet esse superflua, ibi: *Sicut autem poenitens celare non debet* etc. Similiter secunda, in qua determinat ex parte sacerdotis, quid observandum sit, duo continet. Primum est, ut pure teneat secretum[^2]. Secundum vero, ut non absolvat alterius parochianum, et hoc ibi tangitur: *Quod vero dictum est.* Et ita principaliter duo tanguntur, secundum quod confessio *integra* debet esse et *secreta.*
 
 ### TRACTATIO QUAESTIONUM.
 
@@ -48,7 +48,7 @@ Secundo vero quaeritur de confessione quantum ad sigillum.
 
 Circa primum quaeruntur tria.
 
-Primo quaeritur, utrum liceat aliquod peccatum in confessione dimittere³.
+Primo quaeritur, utrum liceat aliquod peccatum in confessione dimittere[^3].
 
 Secundo, utrum liceat addere.
 
@@ -66,9 +66,9 @@ FOR THE TEXT OF THE MASTER SEE ABOVE, PAGE 545.
 
 ### DIVISION OF THE TEXT.
 
-Above, the Master treated of the necessity of confession from the side of the one confessing, and of the power from the side of the one absolving, and of the opportunity from the side of time; here he treats of its usefulness from the side of its end; and this part has two [sections]. In the first he shows what confession is useful, namely a true and humble confession. In the second he shows how much contempt of confession is harmful, below¹: *And since it has been asserted above by many authorities.*
+Above, the Master treated of the necessity of confession from the side of the one confessing, and of the power from the side of the one absolving, and of the opportunity from the side of time; here he treats of its usefulness from the side of its end; and this part has two [sections]. In the first he shows what confession is useful, namely a true and humble confession. In the second he shows how much contempt of confession is harmful, below[^1]: *And since it has been asserted above by many authorities.*
 
-The first is divided into two. In the first he shows what things are to be attended to in confession from the side of the one confessing. In the second, from the side of the one hearing, there: *But let the priest beware* etc. The first part contains two. In the first he shows that confession ought not to be diminished. In the second, that it ought not to be superfluous, there: *But just as the penitent ought not to conceal* etc. Likewise the second [part], in which he determines from the side of the priest what is to be observed, contains two. The first is that he keep the secret purely². The second indeed, that he not absolve another's parishioner, and this is touched on there: *But what has been said.* And so principally two things are touched on, according to which confession ought to be *whole* and *secret.*
+The first is divided into two. In the first he shows what things are to be attended to in confession from the side of the one confessing. In the second, from the side of the one hearing, there: *But let the priest beware* etc. The first part contains two. In the first he shows that confession ought not to be diminished. In the second, that it ought not to be superfluous, there: *But just as the penitent ought not to conceal* etc. Likewise the second [part], in which he determines from the side of the priest what is to be observed, contains two. The first is that he keep the secret purely[^2]. The second indeed, that he not absolve another's parishioner, and this is touched on there: *But what has been said.* And so principally two things are touched on, according to which confession ought to be *whole* and *secret.*
 
 ### TREATMENT OF THE QUESTIONS.
 
@@ -80,7 +80,7 @@ Second indeed it is asked concerning confession with respect to the seal.
 
 Concerning the first, three [questions] are asked.
 
-First it is asked, whether it is permitted to omit some sin in confession³.
+First it is asked, whether it is permitted to omit some sin in confession[^3].
 
 Second, whether it is permitted to add [to it].
 
@@ -117,3 +117,5 @@ Third, whether it is permitted to report another's sins.
 **OCR corrections (silent):** `C0MMENTARIU8`→COMMENTARIUS, `DISTINGTIONEM`→DISTINCTIONEM, `fmis`→finis, `esl`→est, `ulrum`→utrum, `elc.`→etc., `conlinet`→continet, `oslendit`→ostendit, `dimi-nuta`→diminuta, `Simihter`→Similiter, `secimda`→secunda, `secandum`→secundum, `liltera`→littera, `quaerunlur`→quaeruntur, `Terlio`→Tertio, `hceat`→liceat, `ahena`→aliena, `parochianiim`→parochianum, `principahter`→principaliter, `swpra`→supra, `auctoritalibus`→auctoritatibus, `dividilur`→dividitur, `tiabet liaec`→habet haec, `qudad niodum`→quoad modum (article head, next chunk). PDF prints "PAG. 545" (cross-ref to the Master's text). The OCR's body word *dimittere* for note ³ is retained in the Latin body; the editions' variant *omittere* is recorded in the apparatus per the footer.
 
 **[?] flags:** none.
+
+**Apparatus anchoring fix (2026-07-13).** The three apparatus entries were unanchored — the Latin/English bodies carried literal unicode superscripts (¹²³) instead of Markdown `[^N]` footnote syntax, so `build-content.mjs` rendered the notes attached to nothing. Confirmed printed positions against the p.560 column bands (`/tmp/colcrop/vol4-p560-{L,R}-{0,1,2}.png`, L column top→bottom): [^1] after *infra* (L-0/L-1 seam, "...contemptus obsit, infra¹: Cumque..."); [^2] after *secretum* (L-1, "...ut pure teneat secretum²."); [^3] after *dimittere* (L-1, "...in confessione dimittere³."). No wording changed — only the superscript glyphs were converted to `[^N]` in both the Latin and English bodies, at the same lemma in each language. Verify script confirms defs==Latin anchors==English anchors, 3/3/3.

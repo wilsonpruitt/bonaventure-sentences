@@ -67,9 +67,9 @@ quia quidam suscipiunt *ore corporis,* et hi sacramentaliter; quidam vero *ore c
 
 3. Ad illud quod obiicitur, quod tres sunt modi in baptismo, et sic etc.; dicendum, quod ille tertius modus non distinguitur nisi *materialiter* tantum ab aliis duobus.
 
-4. Ad illud quod obiicitur de unione naturae, est dicendum, quod manducatio respicit actum personae, ideo secundum naturam non est manducatio, sed praesupponitur[^3].
+4. Ad illud quod obiicitur de unione naturae, est dicendum, quod manducatio respicit actum personae, ideo secundum naturam non est manducatio, sed praesupponitur.
 
-5. Ad illud quod obiicitur de spe, dicunt quidam, quod non unit, quia spes proprie est futuri[^4]; tamen dicendum, quod istae manducationes non distinguuntur secundum virtutes — quia manducatio spiritualis est secundum fidem et caritatem — sed secundum *res Sacramenti.* Unde omne Sacramentum, quod quidem habet res duas, potest recipi sacramentaliter et spiritualiter.
+5. Ad illud quod obiicitur de spe, dicunt quidam, quod non unit, quia spes proprie est futuri; tamen dicendum, quod istae manducationes non distinguuntur secundum virtutes — quia manducatio spiritualis est secundum fidem et caritatem — sed secundum *res Sacramenti.* Unde omne Sacramentum, quod quidem habet res duas, potest recipi sacramentaliter et spiritualiter.
 
 SCHOLION.
 
@@ -87,23 +87,23 @@ QUESTION I.
 
 *On the twofold mode of eating the eucharist.*
 
-As regards the first, then, one proceeds thus. That there ought to be *two* modes of eating, namely "the sacramental and the spiritual," as the Master says, is shown:
+As regards the first, then, one proceeds thus. That there ought to be *two* modes of eating, namely "the sacramental and the spiritual," as the Master says[^2], is shown:
 
-1. First by the authority of the canon, John 6: *He who eats me lives because of me,* here the spiritual mode is touched upon; but 1 Corinthians 11: *He who eats unworthily eats judgment to himself,* and here another mode is touched upon, which is not spiritual: therefore the eating of the body of Christ is manifold.
+1. First by the authority of the canon, John 6[^3]: *He who eats me lives because of me,* here the spiritual mode is touched upon; but 1 Corinthians 11: *He who eats unworthily eats judgment to himself,* and here another mode is touched upon, which is not spiritual: therefore the eating of the body of Christ is manifold.
 
-2. Likewise, by the authority of Augustine: "He eats spiritually who abides in the unity of Christ and the Church, which the Sacrament signifies": "but he who is at variance with Christ neither eats the flesh of Christ nor drinks the blood, even if to his judgment he daily receives the Sacrament of so great a reality."
+2. Likewise, by the authority of Augustine[^4]: "He eats spiritually who abides in the unity of Christ and the Church, which the Sacrament signifies": "but he who is at variance with Christ neither eats the flesh of Christ nor drinks the blood, even if to his judgment he daily receives the Sacrament of so great a reality."
 
-3. Likewise, this same thing is shown *by reason:* for, since there are only two realities of this Sacrament, and it is possible to receive one without the other: therefore there are two distinct modes.
+3. Likewise, this same thing is shown *by reason:* for, since there are only two realities of this Sacrament[^5], and it is possible to receive one without the other: therefore there are two distinct modes.
 
-4. Likewise, eating bespeaks the use of the Sacrament; therefore, since here there is a Sacrament inward and outward, it is plain that there are two eatings.
+4. Likewise, eating bespeaks the use of the Sacrament; therefore, since here there is a Sacrament inward and outward, it is plain that there are two eatings[^6].
 
-On the contrary: 1. It seems that there is but *one:* for "where one is for the sake of another, there is but one thing": therefore if the sacramental is for the sake of the spiritual, or toward the spiritual, as a sign toward what is signified: therefore there is but one eating.
+On the contrary: 1. It seems that there is but *one:* for "where one is for the sake of another, there is but one thing"[^7]: therefore if the sacramental is for the sake of the spiritual, or toward the spiritual, as a sign toward what is signified: therefore there is but one eating.
 
-2. Likewise, *the flesh of Christ is truly food,* therefore just as it belongs to light to illumine, so it belongs to that flesh to feed: but not corporeally, therefore spiritually; but he who receives sacramentally receives the flesh, and so is fed spiritually: therefore there is but one mode of eating, namely the spiritual.
+2. Likewise, *the flesh of Christ is truly food,*[^8] therefore just as it belongs to light to illumine, so it belongs to that flesh to feed: but not corporeally, therefore spiritually; but he who receives sacramentally receives the flesh, and so is fed spiritually: therefore there is but one mode of eating, namely the spiritual.
 
-3. Likewise, it is shown that there are several modes: for, as is said above in distinction four, some receive in baptism the reality only, some the Sacrament only, some both: therefore three modes; for the same reason then here too there are three eatings.
+3. Likewise, it is shown that there are several modes: for, as is said above in distinction four[^9], some receive in baptism the reality only, some the Sacrament only, some both: therefore three modes; for the same reason then here too there are three eatings.
 
-4. Likewise, union is threefold: in nature, in faith, and in charity; but to the union of faith there corresponds the sacramental eating: therefore also to the union of charity the spiritual: therefore there will be a third mode corresponding to the union in nature.
+4. Likewise, union is threefold[^10]: in nature, in faith, and in charity; but to the union of faith there corresponds the sacramental eating: therefore also to the union of charity the spiritual: therefore there will be a third mode corresponding to the union in nature.
 
 5. Likewise, the theological virtue is threefold in us, and each in its own way unites: therefore since one mode of eating corresponds to faith, another to charity; another will correspond to hope.
 
@@ -115,9 +115,9 @@ I respond: It must be said that the mode of eating is twofold. The distinction o
 
 <!-- page 202 -->
 
-for some receive *with the mouth of the body,* and these sacramentally; but some *with the mouth of the heart,* and these spiritually: hence according to the twofold mouth the eating is twofold. — Thirdly it arises from *the Sacrament itself:* for it has a twofold reality, of which one can be received without the other; thus just as baptism is twofold, namely of water and of the Spirit, from a twofold reality, so too the mode of eating is twofold. — And this last is the complete one, since one reality can be received without the other.
+for some receive *with the mouth of the body,* and these sacramentally; but some *with the mouth of the heart,* and these spiritually: hence according to the twofold mouth the eating is twofold[^11]. — Thirdly it arises from *the Sacrament itself:* for it has a twofold reality, of which one can be received without the other; thus just as baptism is twofold, namely of water and of the Spirit, from a twofold reality[^12], so too the mode of eating is twofold. — And this last is the complete one, since one reality can be received without the other.
 
-1. To that, then, which is objected, that *where one is for the sake of another;* it must be said that this is true, if the one is so for the sake of the other that it cannot be separated; but when it is separated, then it no longer remains one.
+1. To that, then, which is objected, that *where one is for the sake of another;* it must be said that this is true, if the one is so for the sake of the other that it cannot be separated; but when it is separated, then it no longer remains one[^1].
 
 2. To that which is objected, that the flesh always feeds; it must be said that that act always regards the disposition of the one receiving, like *illumining;* hence as the disposition is doubled, so too the mode of eating.
 
@@ -179,3 +179,4 @@ On this 1st question: Alex. Hal., loc. cit. m. 1. a. 1. n. 1. 2. — Scot., in b
 - **Footer ownership.** Quaracchi restarts footnote numbering each printed page. This chunk claims ALL body-anchored notes on its two pages: p.201 carries 10 footnotes (renumbered here as [^2]–[^10]; note that p.201's apparatus opens with note 1, which anchors back in the divisio's *Tractatio quaestionum* on the same page-bottom run — that note belongs to the divisio chunk and is NOT reproduced here), and p.202 carries 5 footnotes (its note 1 anchors in this Q1 Solutio; renumbered [^1], [^3], [^4], [^5], [^11], [^12]). Total claimed: **15** (well above the 5-note self-check floor). Renumbering is sequential by anchor order within the body.
 - **Scholion disposition.** The SCHOLION (printed on p.202) is a single block keyed to all four ART-I questions (sections I–IV plus per-question bibliographic blocks). Per the chunking rule, ONLY the q1-keyed material is rendered here: scholion section **I** (Augustine's twofold-mode division; the "in usu separari" discussion) PLUS the "**De hac 1. quaestione**" bibliographic block immediately following it. Sections **II** (De seq. [2.] quaestione), **III** (Quoad 3. quaestionem), **IV** (In solvenda 4. quaestione), and the "De eadem quaestione" tail are excluded; they belong to the q2/q3/q4 chunks respectively.
 - **`[?]` flags.** None. The body OCR was legible against the bands; the few OCR garbles (*manducuto*, *insiniiatur*, page-bottom apparatus fragments) were resolved unambiguously from the PDF bands and the standard Quaracchi apparatus conventions.
+- **Apparatus-anchoring fix (2026-07-13).** The Latin body carried 14 `[^N]` markers against 12 apparatus defs — a duplication, not a missing entry: all 12 defs (`[^1]`–`[^12]`) already had a correctly-placed anchor elsewhere in the body, so the two extra occurrences were stray duplicates, not mislabelled markers. Diagnosis: `[^3]` correctly anchors "Ioannis sexto[^3]" (Solutio ad 1, line 36) — its apparatus text glosses John 6:58 and the following 1 Cor. 11:29 citation exactly; the spurious second `[^3]` sat on "praesupponitur[^3]" in Ad 4 (union of nature), where nothing in the apparatus text corresponds — deleted. `[^4]` correctly anchors "auctoritate Augustini[^4]" (arg. 2) — its apparatus text is the full Augustine testimony being cited there; the spurious second `[^4]` sat on "futuri[^4]" in Ad 5 (on hope), again unrelated to the apparatus content — deleted. Both deletions removed only the bracket marker, no wording changed. Then mirrored all 12 markers into the English body at the parallel lemma (Master/John 6/Augustine/Sacrament's two realities/two eatings/"one thing"/food/distinction four/threefold union/twofold mouth/twofold reality/"no longer remains one"). End state: 12 apparatus defs = 12 Latin anchors = 12 English anchors, each marker once per body — verified by the repo's marker-parity script.

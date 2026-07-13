@@ -11,7 +11,7 @@ printed_pages: [317, 318]
 pdf_pages: [337, 338]
 source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 317–318"
 has_scholion: false
-has_apparatus: true
+has_apparatus: false
 transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR (raw lines 36553–36615) with PDF column-band priority in the two-column cascade-fragmented regions, fresh literal English translation, 5-footnote apparatus from raw OCR / p.317 footer (lead note + notes 1–4), no scholion (2026-06-21)"
 format_version: 1
 ---
@@ -117,27 +117,7 @@ Third it is asked, whether it is a theological virtue, or a cardinal one.
 
 ## Apparatus
 
-> The numbered footnotes below render the page-foot source notes that the Quaracchi editors attach to Lombard's text printed on printed page 317 (the littera above the COMMENTARIUS). They are reproduced here for completeness; none anchor to a numbered marker in this divisio body.
-
-[^0]: **La.** ...stini, Can. cit. et Vat. *humillimae poenitentiae.* Pro *nobis dicat* et infra pro *nostrum ita,* quod habent plures edd. cum originali, Vat. cum aliis *vobis dicat...vestrum ita.*
-
-    **En.** ...[Augu]stine, the cited Canon and the Vatican edition [read] *humillimae poenitentiae* (of most humble penance). For *nobis dicat* (let him say for us) and below for *nostrum ita,* which most editions have together with the original, the Vatican edition with others [reads] *vobis dicat...vestrum ita.*
-
-[^1]: **La.** Libr. I. Ad Theodorum lapsum adhortatio n. 6; C. *Talis mihi* (28.), ibid.
-
-    **En.** Book I, *Exhortation to Theodore after his fall,* n. 6; the Canon *Talis mihi* (28.), in the same place.
-
-[^2]: **La.** Libr. II. Reg. 12, 13.
-
-    **En.** Second Book of Kings 12, 13.
-
-[^3]: **La.** Ambros., de Apologia David, c. 7. n. 38; C. *Illud vero* (26.), ibid., qui cum originali post *plebis errore* bene addit *etiam plebis.* Loci Scripturae sunt II. Reg. 24, 17; I. Paralip. 21, 17.
-
-    **En.** Ambrose, *On the Apology of David,* c. 7, n. 38; the Canon *Illud vero* (26.), in the same place, which, together with the original, after *plebis errore* rightly adds *etiam plebis.* The Scriptural passages are 2 Kings 24:17; 1 Chronicles 21:17.
-
-[^4]: **La.** Hebr. 10, 10. — Locus Chrysost. est Homil. 20. n. 1.
-
-    **En.** Hebrews 10:10. — The Chrysostom passage is Homily 20, n. 1.
+> This chunk carries no apparatus of its own. The page-foot notes printed on its pages belong to the Master's littera and are rendered in `d14-p1-littera` [^19]–[^23].
 
 ## Notes
 
@@ -147,3 +127,5 @@ Third it is asked, whether it is a theological virtue, or a cardinal one.
 - **Footer ownership:** the **5 footers on printed page 317** (a lead unnumbered note [^0] + notes 1–4) belong to printed page **317** and are claimed here — they are the editors' source notes on Lombard's littera printed above the COMMENTARIUS on p.317 (Augustine/Vatican variant readings, *Ad Theodorum lapsum,* 2 Kings, Ambrose *de Apologia David,* Hebrews/Chrysostom); none anchor to a numbered marker in the divisio body, so they are rendered as page-foot apparatus for completeness. Note [^0] is an unnumbered lead note (its keying marker sits on the prior printed page, p.316), reproduced with a leading ellipsis. Printed page **318** carries footer notes **1–4** (`Vers. 2 — Glossa est ordinaria…`, `Libr. II. Ethic. c. 6`, `Aristot. I Ethic. c. 12`, `Vide hic in litt. Magistri…`) which anchor in the QUAESTIO I *Fundamenta* and are **left to `d14-p1-a1-q1`**.
 - **No `[?]` flags** — the divisio body, the duo-principaliter partition, and the five owned footers read cleanly once reflowed from the column bands (OCR raw is column-spliced but the PDF bands disambiguate every line). The OCR mis-numbered the 2 Kings footer as "5" (digit-mangled "²"); corrected to [^2] per band order. The lead note [^0] is reproduced with a leading ellipsis to mark that its head (the catchword and marker) sits on p.316.
 - No scholion in this divisio chunk.
+
+**J3 apparatus reassignment (2026-07-13).** REMOVED all 5 apparatus entries from this chunk. Its 5 apparatus entries were duplicates of notes that already live — correctly anchored — in `bon-sent-IV-d14-p1-littera.md`: [^1]–[^4] duplicate littera [^20]–[^23] verbatim, and the stray [^0] was a TRUNCATED TAIL-FRAGMENT of littera [^19] (it began mid-word, '…stini,' = *Augustini*). The superscripts they answer to are printed in Lombard's littera on p.317, ABOVE the `COMMENTARIUS IN DISTINCTIONEM XIV.` heading, i.e. outside this chunk's range (verified on the 450dpi bands for pp.317–318). They were unanchored here in BOTH bodies (rendering as dangling footnotes attached to nothing). Nothing is lost: the owning littera chunk is complete and fully anchored. `has_apparatus` set to false.

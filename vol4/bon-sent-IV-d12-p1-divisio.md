@@ -11,7 +11,7 @@ printed_pages: [269, 270]
 pdf_pages: [289, 290]
 source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 269–270"
 has_scholion: false
-has_apparatus: true
+has_apparatus: false
 transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR (raw lines 30477–30554) with PDF column-band priority in the two-column cascade-fragmented regions, fresh literal English translation, 4-footnote apparatus from raw OCR / p.269 footer (notes 1–4), no scholion (2026-06-21)"
 format_version: 1
 ---
@@ -121,23 +121,7 @@ Third, whether it is true, or is verified, in this Sacrament.
 
 ## Apparatus
 
-> The numbered footnotes below render the page-foot source notes that the Quaracchi editors attach to Lombard's text printed on printed page 269. They are reproduced here for completeness; none anchor to a numbered marker in this divisio body.
-
-[^1]: **La.** Can. *In Christo semel* (53.), ibid., et apud Rabanum, Comment. in Epist. ad Hebr. 10. 1; cfr. etiam Chrysost., hom. 13. in eund. locum n. 3. Seq. locus est apud Lyranum, ibid. v. 3.
-
-    **En.** Canon *In Christo semel* (53.), in the same place, and in Rabanus, Commentary on the Epistle to the Hebrews 10:1; cf. also Chrysostom, homily 13 on the same passage, n. 3. The following passage is in Lyra, in the same place, on v. 3.
-
-[^2]: **La.** Libr. IV. de Sacram. c. 6. n. 28, et C. *Si quotiescumque* (11), ibid.
-
-    **En.** Book IV, On the Sacraments, c. 6, n. 28, and the Canon *Si quotiescumque* (11), in the same place.
-
-[^3]: **La.** Can. *Utrum sub figura* (72.), ibid. § 1, et apud Paschas., de Corpore et sang. Dom. c. 9. Seq. locus est C. *Quid sit sanguis* (73.), ibid. § 4. Tertius ibid., immediate supra.
-
-    **En.** Canon *Utrum sub figura* (72.), in the same place § 1, and in Paschasius, On the Body and Blood of the Lord, c. 9. The following passage is the Canon *Quid sit sanguis* (73.), in the same place § 4. The third [is] in the same place, immediately above.
-
-[^4]: **La.** (Gennad.) de Ecclesiast. Dogmat. c. 23, et C. *Quotidie* (13.), ibid. Seq. locus est C. *Etsi non frequentius* (16), ibid. Tertius C. *Peracta consecratione* (10.), ibid.
-
-    **En.** (Gennadius) On Ecclesiastical Dogmas, c. 23, and the Canon *Quotidie* (13.), in the same place. The following passage is the Canon *Etsi non frequentius* (16), in the same place. The third [is] the Canon *Peracta consecratione* (10.), in the same place.
+> This chunk carries no apparatus of its own. The page-foot notes printed on its pages belong to the Master's littera and are rendered in `d12-p1-littera` [^15]–[^18].
 
 ## Notes
 
@@ -147,3 +131,5 @@ Third, whether it is true, or is verified, in this Sacrament.
 - **Footer ownership:** all **4 footers (notes 1–4)** belong to printed page **269** and are claimed here — they are the editors' source notes on Lombard's littera printed above the COMMENTARIUS on p.269; none anchor to a numbered marker in the divisio body, so they are rendered as page-foot apparatus for completeness. Printed page **270** carries footer note **1** (`Basilius in Hexaëmeron…`) which anchors in the QUAESTIO I *Fundamenta* and is **left to `d12-p1-a1-q1`**.
 - **No `[?]` flags** — the divisio body, the tria-articulorum partition, and the four owned footers read cleanly once reflowed from the column bands (OCR raw is column-spliced but the PDF bands disambiguate every line). The printed title reads *fractione specierum* in the Pars-I subtitle and *De fractione* in the TRACTATIO; both confirmed against the bands.
 - No scholion in this divisio chunk.
+
+**J3 apparatus reassignment (2026-07-13).** REMOVED all 4 apparatus entries from this chunk. Its 4 apparatus entries were duplicates of notes that already live — correctly anchored — in `bon-sent-IV-d12-p1-littera.md` ([^15]–[^18]). The superscripts they answer to are printed in Lombard's littera on p.269, ABOVE the `COMMENTARIUS IN DISTINCTIONEM XII.` heading, i.e. outside this chunk's range (verified on the 450dpi bands for pp.269–270: no superscript numeral appears anywhere in this chunk's body). They were unanchored here in BOTH bodies (rendering as dangling footnotes attached to nothing). Nothing is lost: the owning littera chunk is complete and fully anchored. `has_apparatus` set to false.
