@@ -44,7 +44,7 @@ Prima pars habet tres partes. In prima proponit quaestiones. In secunda ad utram
 
 ### TRACTATIO QUAESTIONUM.
 
-Ad intelligentiam primae quaestionis, quam ponit hic Magister, quaeritur in parte ista de iustificatione impii. Et circa hoc duo principaliter quaeruntur.
+Ad intelligentiam primae quaestionis, quam ponit hic[^3] Magister, quaeritur in parte ista de iustificatione impii. Et circa hoc duo principaliter quaeruntur.
 
 Primo quaeritur de his quae sunt necessaria ad iustificationem impii absolute.
 
@@ -93,7 +93,7 @@ The first part has three parts. In the first he proposes the questions. In the s
 
 ### TREATMENT OF THE QUESTIONS.
 
-For the understanding of the first question, which the Master here poses, inquiry is made in this part concerning the justification of the impious. And concerning this two things are principally asked.
+For the understanding of the first question, which the Master here[^3] poses, inquiry is made in this part concerning the justification of the impious. And concerning this two things are principally asked.
 
 First it is asked concerning the things which are necessary for the justification of the impious absolutely.
 
@@ -121,7 +121,7 @@ Fourth, whether confession is necessary.
 
 ## Apparatus
 
-> The numbered footnotes below render the page-foot source notes that the Quaracchi editors attach on printed page 418. Notes 1–2 are textual-variant notes anchoring in the DIVISIO TEXTUS body (note 1 at *a parte* in the four-part division; note 2 at *ipsius* of *ore ipsius Dei ministro*). Notes 3–4 are editors' source notes — note 3 on Lombard's littera printed above the COMMENTARIUS, note 4 on the Romans citation that opens QUAESTIO I; they do not anchor to a numbered marker in this divisio body and are reproduced for completeness.
+> The numbered footnotes below render the page-foot source notes that the Quaracchi editors attach on printed page 418. Notes 1–3 anchor to numbered markers in this divisio's own body: note 1 at *a parte* in the four-part division; note 2 at *ipsius* of *ore ipsius Dei ministro*; note 3 at *hic* in the TRACTATIO QUAESTIONUM ("quam ponit hic Magister"), identifying the Littera chapter (Cap. I) the Master is here treating. A fourth page-418 footer, *Vers. 24: Iustificati gratis per etc.*, anchors to the Romans citation that opens QUAESTIO I's first argument ("Ad Romanos tertio") — that text is outside this divisio's raw range and belongs to `d17-p1-a1-q1`; see Notes below.
 
 [^1]: **La.** Plurimi codd. omittunt *a parte.*
 
@@ -135,16 +135,12 @@ Fourth, whether confession is necessary.
 
     **En.** Chap. I.
 
-[^4]: **La.** Vers. 24: *Iustificati gratis per* etc.
-
-    **En.** Verse 24: *Justified freely through,* etc.
-
 ## Notes
 
 - **Provenance:** Latin re-set from IA djvu OCR raw lines 47185–47244 (the COMMENTARIUS title through the QUAESTIO I title) with the PDF column bands (`/tmp/colcrop/vol4-p418-{L,R}-{0,1,2}.png`) authoritative in the two-column cascade-fragmented regions (the OCR splices left- and right-column lines together throughout the DIVISIO TEXTUS and TRACTATIO). Offset pdf = printed + 20. The chunk lies wholly on printed page **418**; running head confirmed **418 … SENTENTIARUM LIB. IV.** (recto top). The QUAESTIO I body (*Circa primum, quod necessaria sit gratiae infusio, videtur. 1. Ad Romanos tertio: Iustificati per gratiam ipsius etc.* / Fundamenta, p.418 left col, raw L47254+) is excluded; it opens the next chunk `d17-p1-a1-q1`.
 - **Structure confirmed — Pars I has TWO articles, each with FOUR questions** (matches the brief's expected map). The TRACTATIO QUAESTIONUM first splits the whole pars into two articles: **Art I** *De his quae necessaria sunt ad iustificationem impii absolute* ("Primo quaeritur de his quae sunt necessaria ad iustificationem impii absolute"); **Art II** *De ordine eorum quae concurrunt ad iustificationem* (the "Secundo … de ipsis in comparatione ad invicem" branch — the comparison/order of those concurring factors, treated below). Art I's four questions are listed verbatim under "Circa primum quaeruntur quatuor": q1 *utrum … necessaria sit gratiae infusio*; q2 *utrum necessarius sit motus liberi arbitrii*; q3 *utrum necessaria sit contritio*; q4 *utrum necessaria sit confessio*. Per the divisio-chunk convention the ARTICULUS I opener (heading + sub-title) folds in here, along with the QUAESTIO I heading + title; the q1 body is left to `d17-p1-a1-q1`. (Art II's four-question listing prints at the head of Art II, not in this opening TRACTATIO.)
 - **Page-split map:** the chunk does NOT straddle a page break — the COMMENTARIUS title, *Pars I* subtitle/argumentum, full DIVISIO TEXTUS (left- and right-column), TRACTATIO QUAESTIONUM (with the quatuor partition), the ARTICULUS I opener, and the QUAESTIO I title all print on **p.418** (left column ends mid-DIVISIO; right column carries the *Prima pars spectat…* continuation through the TRACTATIO). No `<!-- page 419 -->` break is needed in this chunk.
-- **Footer ownership:** printed page **418** carries **four** footers, all claimed here. Notes **1–2** are textual-variant notes anchoring in the DIVISIO TEXTUS body (1 at *a parte*; 2 at *ipsius*). Notes **3–4** (*Cap. I.* and *Vers. 24: Iustificati gratis per etc.*) are editors' source notes — note 3 on Lombard's littera printed above the COMMENTARIUS, note 4 on the Romans 3:24 citation that opens QUAESTIO I — neither anchors to a numbered marker in this divisio body; reproduced for completeness. The QUAESTIO I *Fundamenta* notes (the Romans body, etc.) anchor in q1 and are **left to `d17-p1-a1-q1`**.
-- **No `[?]` flags** — the divisio body, the two-article/four-question partition, and the four owned footers read cleanly once reflowed from the column bands (OCR raw is column-spliced but the PDF bands disambiguate every line). The Pars-I subtitle reads *De confessione, quatenus est necessaria ad iustificationem* and the argumentum *Hic oritur quaestio multiplex. Primo enim quaeritur etc.*; both confirmed against the bands.
+- **Footer ownership (corrected 2026-07-13):** printed page **418** carries **four** footers. Notes **1–3** anchor in this divisio's own body and are claimed here: 1 at *a parte* (DIVISIO TEXTUS, four-part division), 2 at *ipsius* (DIVISIO TEXTUS, *ore ipsius Dei ministro*), and **3 at *hic*** in the TRACTATIO QUAESTIONUM ("quam ponit hic Magister," note 3 anchored right after *hic*) — confirmed by both the 450dpi PDF column bands (`/tmp/colcrop/vol4-p418-L-1.png`, superscript directly after *hic*) and raw IA djvu OCR (`raw/bonaventure_vol4_raw.txt` line 47228: `hic' Magister`, the `'` being the garbled marker glyph). This corrects the prior (2026-06-23) session's claim that note 3 does not anchor in this body — it does, and has now been anchored. Note **4** (*Vers. 24: Iustificati gratis per etc.*, Rom. 3:24) anchors at *Ad Romanos tertio* in the first argument of QUAESTIO I's own body (raw line 47247: `1. Ad Romanos tertio *`), which sits outside this divisio's raw range (47185–47244) — it is **not** this chunk's content and has been **removed** from here. `d17-p1-a1-q1` already carries this note (bundled into its own note 1, which folds together *Cap. I* / *Vers. 24* / the *a parte* and *ipsi* variants into one merged entry attached to "Ad Romanos tertio") — no action needed there, but flagged for a future pass since that merge conflates four distinct printed footnotes into one.
+- **No `[?]` flags** — the divisio body, the two-article/four-question partition, and the three owned, now-anchored footers read cleanly once reflowed from the column bands (OCR raw is column-spliced but the PDF bands disambiguate every line). The Pars-I subtitle reads *De confessione, quatenus est necessaria ad iustificationem* and the argumentum *Hic oritur quaestio multiplex. Primo enim quaeritur etc.*; both confirmed against the bands.
 - No scholion in this divisio chunk.
-- **Hand-off to `d17-p1-a1-q1`:** that chunk opens at raw L47254 / p.418 left col (*Circa primum, quod necessaria sit gratiae infusio, videtur. 1. Ad Romanos tertio…*), QUAESTIO I title already set here; it owns the p.418/419 *Fundamenta* footers (Romans/ratione source notes). The Romans-citation note 4 (*Vers. 24*) is captured here for p.418-footer completeness — confirm it is not double-rendered in q1.
+- **Hand-off to `d17-p1-a1-q1`:** that chunk opens at raw L47245+ / p.418 left col (*Circa primum, quod necessaria sit gratiae infusio, videtur. 1. Ad Romanos tertio…*), QUAESTIO I title already set here; it owns the p.418/419 *Fundamenta* footers (Romans/ratione source notes), including the note-4 *Vers. 24* content — already present there, bundled into its note 1. Not edited here per task scope; documented for awareness only.
