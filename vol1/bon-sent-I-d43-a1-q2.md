@@ -76,7 +76,7 @@ Ad intelligentiam igitur obiectorum in oppositum notandum, quod infinitum dicitu
 
 <!-- page 770 -->
 
-infinitum dicitur in materia et in genere substantiae et in aliis generibus; et hoc modo non cadit in Deo, quia ipse est perfectissimus. Alio modo finis dicitur terminus, sicut finis agri, et sic infinitum dicitur quod caret termino et statu. — Et hoc potest esse dupliciter secundum negationem, quia potest intelligi *privative* et *negative*: *privative*, quia non habet terminum, sed tamen natum est habere, propter hoc quod habet esse limitatum[^17], et hoc modo dicit incompletionem, et non est in Deo. Alio modo *negative*, quod non habet terminum nec est natum habere: et hoc modo ponitur in Deo propter summam immensitatem[^16].
+infinitum dicitur in materia et in genere substantiae et in aliis generibus; et hoc modo non cadit in Deo, quia ipse est perfectissimus. Alio modo finis dicitur terminus, sicut finis agri, et sic infinitum dicitur quod caret termino et statu. — Et hoc potest esse dupliciter secundum negationem, quia potest intelligi *privative* et *negative*: *privative*, quia non habet terminum, sed tamen natum est habere, propter hoc quod habet esse limitatum, et hoc modo dicit incompletionem, et non est in Deo. Alio modo *negative*, quod non habet terminum nec est natum habere: et hoc modo ponitur in Deo propter summam immensitatem[^17].
 
 **1.** Ad illud ergo quod obiicitur, quod infinitum est passio quantitatis; dici potest, quod sicut nomen quantitatis extenditur ad quantitatem virtutis, similiter nomen infiniti. Quantitas autem virtutis non tantum attenditur quantum ad opus, sed etiam quantum ad nobilitatem valoris; et hoc patet, quia, ut dicit Augustinus[^18], «in spiritualibus idem est maius et melius».
 
@@ -152,7 +152,7 @@ For the understanding therefore of the objections on the opposite side, it is to
 
 <!-- page 770 -->
 
-the infinite is said in matter and in the genus of substance and in the other genera; and in this way it does not fall in God, because He is most perfect. In another way *end* is said *terminus*, as the boundary of a field, and so the infinite is said to be that which lacks terminus and stopping-point. — And this can be in two ways according to negation, because it can be understood *privatively* and *negatively*: *privatively*, because it has no terminus, but is nevertheless of a nature to have one, on account of the fact that it has a limited being[^17], and in this way it bespeaks incompletion, and is not in God. In the other way *negatively*, in that it has no terminus and is not of a nature to have [one]: and in this way it is placed in God on account of His supreme immensity.
+the infinite is said in matter and in the genus of substance and in the other genera; and in this way it does not fall in God, because He is most perfect. In another way *end* is said *terminus*, as the boundary of a field, and so the infinite is said to be that which lacks terminus and stopping-point. — And this can be in two ways according to negation, because it can be understood *privatively* and *negatively*: *privatively*, because it has no terminus, but is nevertheless of a nature to have one, on account of the fact that it has a limited being, and in this way it bespeaks incompletion, and is not in God. In the other way *negatively*, in that it has no terminus and is not of a nature to have [one]: and in this way it is placed in God on account of His supreme immensity[^17].
 
 **1.** To the objection therefore that the infinite is an affection of quantity, it can be said that just as the name *quantity* is extended to *quantity of strength*, so likewise the name *infinite*. Quantity of strength, however, is considered not only as to the work, but also as to the nobility of value; and this is plain because, as Augustine says[^18], «in spiritual things the greater is the same as the better».
 
@@ -267,3 +267,13 @@ the infinite is said in matter and in the genus of substance and in the other ge
 [^23]: **La.** Pro *posito* Vat. cum cod. cc *potentia*. Paulo post pro *unde etsi videatur* multi codd. *Unde si dicatur*; incongrue.
 
      **En.** In place of *posito* the Vatican ed. with codex cc [reads] *potentia*. A little later, in place of *unde etsi videatur*, many codd. display *Unde si dicatur*; incongruously.
+
+## Notes
+
+**2026-07-17 (J4 Class D/E repair).** Health scan flagged `defs=22 la=23 en=22` — `[^16]` appeared twice in the Latin body, once in each place: "et similiter a parte finis[^16]" (p.769) and "propter summam immensitatem[^16]" (p.770). Checked printed pp.769–770 at 400 dpi (`raw/vision/vol1-pt2/p-769.png`, `p-770.png`). Findings:
+
+- The p.769 occurrence ("a parte finis[^16]") is correct — printed local footnote 8 on p.769, content matches def `[^16]` ("Sensus est: *infinitum*... dupliciter considerari potest...") exactly.
+- The p.770 paragraph ("A parte negationis... propter summam immensitatem") carries exactly **one** printed superscript in the entire paragraph — a small "¹" after *immensitatem* — confirmed by a zoomed crop of the page image. There is **no** printed marker after *limitatum* despite the chunk having `[^17]` anchored there.
+- Def `[^17]` ("De hac duplici acceptione infiniti cfr. Aristot., III. Phys. text. 63...") matches the printed p.770 local footnote 1 verbatim. So `[^17]` was mislabeled onto the wrong body position (`limitatum`, phantom) while the correct position (`immensitatem`) was mislabeled `[^16]` (duplicate of the p.769 note).
+
+**Fix:** removed the phantom `[^17]` anchor at *limitatum* (both La. and En.); relabeled the `[^16]` anchor at *immensitatem* to `[^17]` (both La. and En.). No Latin wording, English wording, or apparatus prose changed — only marker tokens moved/relabeled. Result: `defs=22 la=22 en=22`, all label sets identical, no dupes. Verified with the corpus health-check script and `node scripts/build-content.mjs` (1815/1925/4 unchanged).
