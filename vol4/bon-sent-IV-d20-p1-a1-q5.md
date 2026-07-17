@@ -70,7 +70,7 @@ Ideo concedendum, quod non fit ministerio daemonum nec etiam supernorum spirituu
 
 ### Scholion
 
-The scholion for Articulus unicus is rendered in full with QUAESTIO I (`bon-sent-IV-d20-p1-a1-q1`); QUAESTIO V renders no scholion of its own (cf. the apparatus note *« Vide scholion ad 1. huius articuli quaest. »* at [^15]).
+The scholion for Articulus unicus is rendered in full with QUAESTIO I (`bon-sent-IV-d20-p1-a1-q1`); QUAESTIO V renders no scholion of its own (cf. the apparatus note *« Vide scholion ad 1. huius articuli quaest. »* at footnote 15).
 
 ---
 
@@ -120,7 +120,7 @@ Therefore it must be conceded that it is not done by the ministry of demons nor 
 
 ### Scholion
 
-The scholion for the single Article is rendered in full with QUESTION I (`bon-sent-IV-d20-p1-a1-q1`); QUESTION V renders no scholion of its own (cf. the apparatus note "See the scholion to question 1 of this article" at [^15]).
+The scholion for the single Article is rendered in full with QUESTION I (`bon-sent-IV-d20-p1-a1-q1`); QUESTION V renders no scholion of its own (cf. the apparatus note "See the scholion to question 1 of this article" at footnote 15).
 
 ---
 
@@ -186,3 +186,5 @@ The scholion for the single Article is rendered in full with QUESTION I (`bon-se
 **Scholion disposition.** has_scholion: false. The Articulus-unicus scholion renders in full with q1 (`bon-sent-IV-d20-p1-a1-q1`); confirmed by the apparatus cross-reference at [^15] ("Vide scholion ad 1. huius articuli quaest.").
 
 **[?] flags.** None. All readings legible in the bands; OCR garbles (minislerio→ministerio, AugusLinus→Augustinus, calcaneo, emarcuit) silently corrected per CLAUDE.md cleanup rules, all confirmed against the PDF column bands.
+
+**J4 Class D/E fix (2026-07-17).** Health scan flagged `defs=15 la=16 en=16`. Diagnosis: the sole genuine printed footnote 15 anchors correctly at "...non spectat[^15]" (end of reply 4, matching def [^15]'s content — the *sic*-variant note plus its "Vide scholion ad 1. huius articuli quaest." pointer). The second `[^15]` occurrence in both bodies was NOT a second printed superscript — it sat inside the `### Scholion` cross-reference note's own explanatory prose ("cf. the apparatus note ... at [^15]"), a meta-reference to the apparatus entry written by the transcriber, not a Bonaventure-text anchor. This is the known "literal `[^N]` in prose steals the binding" bug (documented in CLAUDE.md; precedent fix at `III-d34-p2-a2-q2`, J2). Fix: de-linked the prose mention to plain "at footnote 15" in both Latin and English Scholion notes — no change to Latin wording, English wording, or apparatus content. Post-fix: defs=15, la=15, en=15, fully matched, no dupes/extras.
