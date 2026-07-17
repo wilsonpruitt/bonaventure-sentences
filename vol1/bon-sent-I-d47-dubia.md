@@ -157,3 +157,22 @@ Likewise it is asked concerning what he says, that *he commanded both in the new
 [^12]: **La.** Pro *sibi* Vat. *illi*. — De hoc dubio cfr. supra q. 4; Alex. Hal., S. p. I. q. 37. m. 1; B. Albert., S. p. I. tr. 20. q. 80, m. 2, a. 1; S. Thom., Petr. a Tar. et Richard. a Med., hic circa lit., nec non Durand., hic q. 3.
 
      **En.** In place of *sibi*, the Vatican has *illi*. — On this doubt cf. above q. 4; Alexander of Hales, *Summa* p. I, q. 37, m. 1; Bl. Albert, *Summa* p. I, tr. 20, q. 80, m. 2, a. 1; St. Thomas, Peter of Tarentaise, and Richard of Mediavilla, here in their commentary on the letter; as well as Durandus, here q. 3.
+
+---
+
+## Notes
+
+**2026-07-17 J4 Class D/E health-scan false positive (confirmed, not fixed):** the health scan
+flagged this chunk `defs=12 la=14 en=12`. Diagnosis: the explanatory blockquote at the top of
+`## Latin` (line 32) — "*this chunk renumbers them sequentially [^1]–[^12] across the apparatus
+block...*" — uses plain-text (non-backtick) `[^1]` and `[^12]` as literal example numbers
+describing the per-page renumbering scheme, not real footnote markers. The count-mismatch
+classifier's regex has no code-span awareness and picks these two literal tokens up as extra
+Latin-body anchors (`la` dupes/extras: `1`, `12`), producing the false 14-vs-12 gap. This is the
+same false-positive pattern documented in `manual-review/J4-CLASS-DE-HANDOFF.md` §2 (cf.
+`IV-d21-p1-littera`, `III-d33-dubia`), except here the example range is plain text inside the
+blockquote rather than backtick-fenced. **All 12 real anchors (`[^1]`–`[^12]`) are present exactly
+once in both Latin and English bodies, with 12 matching apparatus defs — the chunk's apparatus is
+healthy and complete.** No content, wording, or markers were changed. Per handoff §2, the
+underlying blockquote-notation bug (and its live-render side effect) is a separate, corpus-wide
+issue reserved for Wilson's decision — not touched here.

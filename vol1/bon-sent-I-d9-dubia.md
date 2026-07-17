@@ -13,7 +13,7 @@ line_end: 37970
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 187–192"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 37250-37970), fresh literal English translation, full apparatus from raw OCR (66 entries from p.187-191 footer blocks; p.192 has no DUB apparatus), 13 DUB present (2026-05-10 d.1-d.10 rechunk pipeline from-scratch; 2026-05-12 d.1-d.10 polish-pass: resolved [?] flags via 600dpi PDF eyes-on — [^1] verb 'legit' was Quaracchi-implicit ellipsis, removed; phantom [^54] apparatus entry deleted, body anchors [^52]/[^53]/[^54] re-mapped to p.190 footer markers 14/15 on 'utrumque'/'Patri', original off-by-one corrected; [^55]-[^66] in body+apparatus renumbered down by one)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 37250-37970), fresh literal English translation, full apparatus from raw OCR (67 entries from p.187-191 footer blocks; p.192 has no DUB apparatus), 13 DUB present (2026-05-10 d.1-d.10 rechunk pipeline from-scratch; 2026-05-12 d.1-d.10 polish-pass: resolved [?] flags via 600dpi PDF eyes-on — [^1] verb 'legit' was Quaracchi-implicit ellipsis, removed; phantom [^54] apparatus entry deleted, body anchors [^52]/[^53]/[^54] re-mapped to p.190 footer markers 14/15 on 'utrumque'/'Patri', original off-by-one corrected; [^55]-[^66] in body+apparatus renumbered down by one; 2026-07-17 J4 Class D/E repair: restored genuinely missing p.191 footer note 1 (hic/hoc variant) as new [^54], re-slotting the vacant label — see Notes)"
 format_version: 1
 ---
 
@@ -115,7 +115,7 @@ Ad illud ergo quod obiicitur, quod Filius est *lux*; dicendum, quod lux habet in
 
 Item quaeritur de hoc quod dicit Hilarius, quod *cum sacramento scientiae suae ex eo nascitur.* Videtur enim secundum hoc, quod Pater secundum sacramentum scientiae generat Filium: ergo scientia est ratio generandi.
 
-**Respondeo:** Dicendum, quod Hilarius vocat hic[^55] *sacramentum* sacrum secretum; dicit autem, Filium nasci cum sacramento scientiae, quia Filii generatio non tantum sacra, sed etiam secreta est, non, inquam, Deo secreta, sed nobis, quia nos eam non comprehendimus; ipse autem[^55] perfecte novit eam. Ideo dicit *cum sacramento* etc.
+**Respondeo:** Dicendum, quod Hilarius vocat hic[^54] *sacramentum* sacrum secretum; dicit autem, Filium nasci cum sacramento scientiae, quia Filii generatio non tantum sacra, sed etiam secreta est, non, inquam, Deo secreta, sed nobis, quia nos eam non comprehendimus; ipse autem[^55] perfecte novit eam. Ideo dicit *cum sacramento* etc.
 
 ### Dub. IX.
 
@@ -243,7 +243,7 @@ To that, then, which is objected, that the Son is *light*; it must be said that 
 
 Likewise there is a question about what Hilary says, that *with the sacrament of his knowledge he is born from him*. For it seems according to this that the Father generates the Son according to the sacrament of knowledge: therefore knowledge is the ground of generating.
 
-**I respond:** It must be said that Hilary here[^55] calls *sacrament* a sacred secret; and he says that the Son is born with the sacrament of knowledge, because the generation of the Son is not only sacred but also secret — not, I say, secret to God, but to us, because we do not comprehend it; but he himself[^55] perfectly knows it. Therefore he says *with the sacrament* etc.
+**I respond:** It must be said that Hilary here[^54] calls *sacrament* a sacred secret; and he says that the Son is born with the sacrament of knowledge, because the generation of the Son is not only sacred but also secret — not, I say, secret to God, but to us, because we do not comprehend it; but he himself[^55] perfectly knows it. Therefore he says *with the sacrament* etc.
 
 ### Dub. IX.
 
@@ -495,6 +495,10 @@ Likewise there is a question about what he says: *But to alter himself by being 
 
     **En.** More on this similitude taken from splendor is given by Alexander of Hales, *Summa*, p. 1, q. 42, m. 5, a. 3, and the other authors alleged a little above, and Aegidius Romanus, here on the text.
 
+[^54]: **La.** Vat. contra plurimos codd. et ed. 1 minus bene *hoc*.
+
+    **En.** The Vatican [edition], against most codices and ed. 1, less well [reads] *hoc*.
+
 [^55]: **La.** Aliqui codd. ut AITZ bb cc *enim*; ed. 1 *vero*.
 
     **En.** Some codices, as AITZ bb cc, [read] *enim*; ed. 1 [reads] *vero*.
@@ -542,3 +546,7 @@ Likewise there is a question about what he says: *But to alter himself by being 
 [^66]: **La.** Vat. cum ed. 1, mutata interpunctione, sic, at codd. AFGHIKT etc. exhibent textum nostrum.
 
     **En.** The Vatican [edition] with ed. 1, with the punctuation changed, [reads] thus, while codices AFGHIKT etc. exhibit our text.
+
+## Notes
+
+- **2026-07-17 (J4 Class D/E repair):** Health scan flagged `[^55]` as duplicated in both Latin and English bodies (defs=65, la=66, en=66). Checked first for the known §2 backtick-blockquote false positive — the file's Apparatus intro note does contain a backtick-quoted range (`` `[^1]`–`[^66]` ``), but that text lives entirely inside the `## Apparatus` section, not `## Latin`/`## English`, so it does not inflate the la/en anchor counts; ruled out as the cause here. Confirmed a genuine defect via printed p.191 (pdf p.293, `raw/vision/vol1/p-191.png`, 400dpi): Dub. VIII's Respondeo carries two distinct printed superscripts, page-local ¹ (after *hic*) and ² (after *autem*). Footer ¹ reads "Vat. contra plurimos codd. et ed. 1 minus bene hoc." (a *hic*/*hoc* variant) — this note had NO apparatus def anywhere in the chunk; it was dropped, likely during the earlier 2026-05-12 polish-pass renumbering documented in `transcription_status` (phantom `[^54]` deleted, `[^55]`–`[^66]` shifted down by one — this footnote's slot was apparently lost in that shift). Footer ² reads "Aliqui codd. ut AITZ bb cc enim; ed. 1 vero." — this matches the existing `[^55]` def exactly, and was correctly bound to the *autem* anchor already; only the *hic* anchor was wrongly also labeled `[^55]` instead of getting its own marker. Fix: reused the vacant `[^54]` slot (confirmed truly absent from body+apparatus, not a live duplicate) — retargeted the *hic* anchor (Latin line ~118, English line ~246) from `[^55]` to `[^54]`, and transcribed the missing footer note verbatim from p.191 as new `[^54]` (added before `[^55]` in the apparatus, La./En.). `[^55]` at the *autem* anchor is unchanged. No Latin/English body wording touched — only marker tokens and one new apparatus entry. Post-fix health check: defs=66, la=66, en=66, label sets identical, no dupes.

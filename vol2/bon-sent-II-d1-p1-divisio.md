@@ -49,7 +49,7 @@ Prima pars habet duas. In prima determinat de conditione rerum quantum ad princi
 
 Ad intelligentiam vero eorum quae in hac parte[^4] dicuntur, quaeritur hic de exitu rerum in esse[^5].
 
-Primo quantum ad principii entitatem[^4].
+Primo quantum ad principii entitatem.
 Secundo quantum ad unitatem.
 Tertio quantum ad productionis quidditatem.
 
@@ -80,7 +80,7 @@ The first part has two [subdivisions]. In the first he determines the condition 
 
 For the understanding of the things which are said in this part[^4], it is asked here concerning the going-forth of things into being[^5].
 
-First, with respect to the entity of the principle[^4].
+First, with respect to the entity of the principle.
 Second, with respect to unity.
 Third, with respect to the quiddity of production.
 
@@ -114,5 +114,5 @@ Second, whether they have an initial principle.
 
 - This chunk is Bonaventure's prologue-and-divisio for Distinction I, Part I. It opens with the COMMENTARIUS heading, the Pars I subtitle, the topic line (*De creatione humanae naturae quantum ad principium efficiens in generali*), and the Lombard incipit (*Creationem rerum etc.*); then the formal *Divisio textus* lays out the nested two-part / three-particle structure of Lombard's d.I littera; then the *Tractatio quaestionum* enumerates the three angles of approach (entity, unity, quiddity of the principle) and the first two questions on the causal vs. initial principle.
 - The Pars II divisio is a separate chunk (`bon-sent-II-d1-p2-divisio`) covering printed p.18 (raw lines 3330–3378); Pars I questions follow in `bon-sent-II-d1-p1-a1-q1` onward.
-- Anchor [^4] is referenced **twice** in the body (at *hac parte* and at *principii entitatem*) because the single Quaracchi footer note (`Codd. N Z in littera. Paulo inferius Vat. cum uno altero cod. post entitatem subiungit vel causalitatem`) describes two adjacent variants: *in littera* (replacing *in hac parte*) and the appended *vel causalitatem* (after *entitatem*). The double-anchor is intentional, mirroring Quaracchi's convention of attaching one footer entry to multiple nearby body positions when they share a single critical-apparatus note.
+- **Apparatus repair (2026-07-17, J4 Class D/E pass):** the chunk previously carried a second `[^4]` anchor at *principii entitatem* (mirrored in the English at "entity of the principle"), justified by a now-retracted reading of note 4's prose (`Codd. N Z in littera. Paulo inferius Vat. cum uno altero cod. post entitatem subiungit vel causalitatem`) as describing two body-marked variants. Page-verified against a 600 dpi crop of printed p.14 (col. 1): the line `Primo quantum ad principii entitatem.` carries **no printed superscript at all** — clean baseline, full margin to the column rule. Only *hac parte*³ (→ chunk `[^4]`) is actually marked in print. The note's *Paulo inferius ... post entitatem subiungit vel causalitatem* clause is describing the location of a second variant reading **within the footnote's own prose**, not a second superscript in the body — a single Quaracchi footnote can reference more than one nearby textual spot in its text without a second body marker. The phantom `[^4]` was removed from both bodies (no wording changed); `[^4]`'s def and its one real anchor at *hac parte* are unaffected. Backup of the pre-fix file: `_backup-II-d1-p1-divisio-pre-fix-20260717/`.
 - Apparatus content moved from the d1-p1-a1-q1 raw range (lines 1689–1702, the p.14 footer left-column block) into this divisio chunk. Note 1 of p.14 (the *Plurimi codd. bonitatis* variant) anchors at the divisio body's *beatitudinis* citation, not in the q.1 body which begins below. Notes 5–7 of p.14 (Boeth./Aristot./materia-forma philosophy refs) stay with d1-p1-a1-q1.
