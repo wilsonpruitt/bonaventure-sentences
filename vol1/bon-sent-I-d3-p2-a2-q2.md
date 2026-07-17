@@ -14,7 +14,7 @@ pdf_pages: [193, 194, 195]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 91–93"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 22681-22913), fresh literal English translation, full apparatus from raw OCR (13 entries from p.91-93 footer blocks), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 22681-22913), fresh literal English translation, full apparatus from raw OCR (21 entries: p.91 footer 1-13 + p.92 footer 1-8 relabeled 14-21), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch; apparatus Class-D/E repair 2026-07-17)"
 line_start: 22681
 line_end: 22913
 format_version: 1
@@ -54,15 +54,15 @@ Similiter est ibi aequalitas secundum conversionem animae supra se et praedictor
 
 <!-- page 92 -->
 
-te[^11], quod non est in his habitibus aequalitas, nisi secundum quod perfecti sunt.
+te[^14], quod non est in his habitibus aequalitas, nisi secundum quod perfecti sunt.
 
-*Ad 2.* Et sic patet solutio ad illud quod de amore obiicitur, quia ille amor non est perfectus amor, sed libidinosus et inordinatus. — Vel dicendum, quod aequales sunt, secundum quod sunt connaturales; quantum enim est quis habilis vel facilis ad cognoscendum se, tantum ad se amandum; de habitibus vero acquisitis, malis vel bonis, non est verum; et de his non intelligitur.
+*Ad 2.* Et sic patet solutio ad illud quod de amore obiicitur[^15], quia ille amor non est perfectus amor, sed libidinosus et inordinatus. — Vel dicendum, quod aequales sunt, secundum quod sunt connaturales; quantum enim est quis habilis vel facilis ad cognoscendum se, tantum ad se amandum; de habitibus vero acquisitis, malis vel bonis, non est verum; et de his non intelligitur.
 
-Similiter est ibi tertium, scilicet consubstantialitas, quia, secundum quod dictum est supra[^12], amor et notitia animae connaturales sunt, secundum quod supra se convertitur; et sic nihil omnino addunt super ipsas potentias. Per hoc enim, quod anima sibi praesens est, habet notitiam; per hoc, quod est unum sibi, habet habitum amoris: et ideo, sicut potentiae sunt consubstantiales animae, ut supra visum est, ita et huiusmodi habitus. Unde etsi videantur dicere modum habitus vel qualitatis, realiter tamen nihil supra potentias addunt.
+Similiter est ibi tertium, scilicet consubstantialitas, quia, secundum quod dictum est supra[^16], amor et notitia animae connaturales sunt, secundum quod supra se convertitur; et sic nihil omnino addunt super ipsas potentias. Per hoc enim, quod anima sibi praesens est, habet notitiam; per hoc, quod est unum sibi, habet habitum amoris: et ideo, sicut potentiae sunt consubstantiales animae, ut supra[^17] visum est, ita et huiusmodi habitus. Unde etsi videantur dicere modum habitus vel qualitatis, realiter tamen nihil supra potentias addunt.
 
-*Ad 3.* Et sic patet responsio ad obiectum, quod non sunt qualitates isto modo.
+*Ad 3.* Et sic patet responsio ad obiectum, quod[^18] non sunt qualitates isto modo.
 
-*Ad 4.* Ad illud quod obiicitur de ratione Augustini dicendum, quod illa ratio non concludit principaliter, quod amor vel notitia sint substantialiter in anima; et hoc est, quia tunc pari ratione posset dici et obiici de omni amore; sed concludit ex consequenti, quod patet sic. Cum enim amor extenditur extra suum subiectum alium amando, hoc est per virtutem substantiae, sicut per se non est, nisi per substantiam. Si ergo amor et notitia extenduntur per virtutem substantialem, et hae sunt intelligentia et voluntas; et amor, quo anima amat se, est idem cum ipsa voluntate; et similiter notitia, qua cognoscit, non est aliud quam intelligentia: restat ergo, quod amor et notitia respectu sui sunt ipsi menti consubstantiales.
+*Ad 4.* Ad illud quod obiicitur de ratione Augustini dicendum, quod illa ratio non concludit principaliter, quod amor vel notitia sint substantialiter in anima; et hoc est[^19], quia tunc pari ratione posset dici et obiici de omni amore; sed concludit ex consequenti, quod patet sic. Cum enim amor extenditur extra suum subiectum alium amando, hoc est per virtutem substantiae, sicut per se non est, nisi[^20] per substantiam. Si ergo amor et notitia extenduntur per virtutem substantialem, et hae sunt intelligentia et voluntas; et amor, quo anima amat se, est idem cum ipsa voluntate; et similiter[^21] notitia, qua cognoscit, non est aliud quam intelligentia: restat ergo, quod amor et notitia respectu sui sunt ipsi menti consubstantiales.
 
 ### Scholion
 
@@ -99,15 +99,15 @@ Now order is attended to in these connatural habits of the soul in comparison to
 
 *To 1.* And thus what is objected to the contrary is clear, because there is no order in these habits considered absolutely, but through their relation to acts.
 
-Likewise there is equality there according to the soul's turning back upon itself and the perfection of the aforesaid habits. Whence Augustine says in the ninth book *On the Trinity*[^11] that there is no equality in these habits except according as they are perfect.
+Likewise there is equality there according to the soul's turning back upon itself and the perfection of the aforesaid habits. Whence Augustine says in the ninth book *On the Trinity*[^14] that there is no equality in these habits except according as they are perfect.
 
-*To 2.* And thus the solution is clear to that which is objected concerning love, because that love is not perfect love, but disordered and lustful. — Or it must be said that they are equal in so far as they are connatural; for as much as one is apt or capable of knowing himself, so much also of loving himself; but concerning acquired habits, whether evil or good, it is not true; and the statement is not understood of them.
+*To 2.* And thus the solution is clear to that which is objected[^15] concerning love, because that love is not perfect love, but disordered and lustful. — Or it must be said that they are equal in so far as they are connatural; for as much as one is apt or capable of knowing himself, so much also of loving himself; but concerning acquired habits, whether evil or good, it is not true; and the statement is not understood of them.
 
-Likewise there is the third thing there, namely consubstantiality, because, as was said above[^12], love and knowledge are connatural to the soul, in so far as the soul turns back upon itself; and thus they add nothing at all over and above the powers themselves. For by the very fact that the soul is present to itself, it has knowledge; by the fact that it is one with itself, it has the habit of love: and therefore, just as the powers are consubstantial with the soul, as was seen above, so also are habits of this kind. Hence, although they may seem to bespeak the mode of a habit or quality, in reality they add nothing over the powers.
+Likewise there is the third thing there, namely consubstantiality, because, as was said above[^16], love and knowledge are connatural to the soul, in so far as the soul turns back upon itself; and thus they add nothing at all over and above the powers themselves. For by the very fact that the soul is present to itself, it has knowledge; by the fact that it is one with itself, it has the habit of love: and therefore, just as the powers are consubstantial with the soul, as was seen above[^17], so also are habits of this kind. Hence, although they may seem to bespeak the mode of a habit or quality, in reality they add nothing over the powers.
 
-*To 3.* And thus the response to the objection is clear, that they are not qualities in that manner.
+*To 3.* And thus the response to the objection is clear, that[^18] they are not qualities in that manner.
 
-*To 4.* To that which is objected from Augustine's reasoning, it must be said that that reasoning does not principally conclude that love or knowledge are substantially in the soul; and this is so, because then by parity of reasoning the same could be said and objected concerning every love; but it concludes consequentially, which is plain thus. For when love extends itself outside its subject by loving another, this is through the power of the substance, just as it does not exist of itself except through the substance. If therefore love and knowledge extend themselves through substantial power, and these are intelligence and will; and the love by which the soul loves itself is the same as the will itself; and likewise the knowledge by which it knows is nothing other than intelligence: it remains, therefore, that love and knowledge with respect to themselves are consubstantial to the mind itself.
+*To 4.* To that which is objected from Augustine's reasoning, it must be said that that reasoning does not principally conclude that love or knowledge are substantially in the soul; and this is so[^19], because then by parity of reasoning the same could be said and objected concerning every love; but it concludes consequentially, which is plain thus. For when love extends itself outside its subject by loving another, this is through the power of the substance, just as it does not exist of itself except[^20] through the substance. If therefore love and knowledge extend themselves through substantial power, and these are intelligence and will; and the love by which the soul loves itself is the same as the will itself; and likewise[^21] the knowledge by which it knows is nothing other than intelligence: it remains, therefore, that love and knowledge with respect to themselves are consubstantial to the mind itself.
 
 ### Scholion
 
@@ -174,3 +174,43 @@ Likewise there is the third thing there, namely consubstantiality, because, as w
 [^13]: **La.** Ope mss. et ed. 1 sustulimus hic additum *et*. Paulo ante plures codd. ut ACGKLST bb cum ed. 1 *crebro in* in loco *ordo in*.
 
     **En.** By the aid of the manuscripts and edition 1 we have removed an added *et* here. Shortly before, several codices such as ACGKLST bb, with edition 1, [read] *crebro in* in place of *ordo in*.
+
+[^14]: **La.** Cap. 4. n. 4: *Recte igitur diximus, haec tria, cum perfecta sunt, esse consequenter aequalia.*
+
+    **En.** Chapter 4, n. 4: "Therefore we have rightly said that these three, when they are perfect, are consequently equal."
+
+[^15]: **La.** Cod. Z addit *quod non valet*. Paulo ante plures codd. ut A G I T cc post *solutio* ponunt punctum, deinde cod. cc post *obiicitur* adiungit *dicendum*; nihil tamen immutandum duximus.
+
+    **En.** Codex Z adds "which is not valid." Shortly before, several codices such as A G I T cc place a period after *solutio*, then codex cc adds *dicendum* after *obiicitur*; we have, however, changed nothing.
+
+[^16]: **La.** Hic a. 2. q. 1. ad 1.
+
+    **En.** Here, a. 2, q. 1, ad 1.
+
+[^17]: **La.** Art. 1. q. 3.
+
+    **En.** Art. 1, q. 3.
+
+[^18]: **La.** Supple: *mens, notitia et amor*. — Mox codd. inter se non conveniunt, alii ut A G H K T etc. cum Vat. legunt *qualitas*, alii vero ut B D E F H I X Z cum ed. 1 *qualitates*, quos sequimur.
+
+    **En.** Supply: "mind, knowledge, and love." — Shortly thereafter the codices do not agree among themselves: some, such as A G H K T etc., together with the Vatican edition, read *qualitas*, while others, such as B D E F H I X Z, together with edition 1, read *qualitates*, which we follow.
+
+[^19]: **La.** Mendum Vat. *ex hoc* pro *et hoc est*, et paulo post *conclusit* pro *concludit* castigatur ex mss. et edd. 1, 2, 3, 6.
+
+    **En.** An error of the Vatican edition, *ex hoc* for *et hoc est*, and shortly after *conclusit* for *concludit*, is corrected from the manuscripts and editions 1, 2, 3, 6.
+
+[^20]: **La.** Vat. contra mss. et ed. 1 *sed* loco *nisi*. Paulo ante codd. P Q *ultra* pro *extra*; deinde nonnulli codd. ut D E F H K Y *aliud*, cod. T *alterum*, codd. L O *aliquid* loco *alium*. Codd. Q (T in margine) post *substantiae* addunt *quia per se non agit*; lectio non spernenda.
+
+    **En.** The Vatican edition, against the manuscripts and edition 1, reads *sed* in place of *nisi*. Shortly before, codices P Q read *ultra* for *extra*; then several codices such as D E F H K Y read *aliud*, codex T *alterum*, codices L O *aliquid* in place of *alium*. Codices Q (T in the margin) add after *substantiae* the words *quia per se non agit*; a reading not to be despised.
+
+[^21]: **La.** Ita codd. Q T cum ed. 1; multi codd. ut A B E F G H K P X Y Z aa etc. *et sic*, Vat. *sic*, quae et paulo infra post *intelligentia* ponit punctum, quo posito argumentum, quod explicatur in Scholio, perturbatur. In fine Vat. contra mss. et edd. 1, 2, 3 *substantiales*.
+
+    **En.** So codices Q T, with edition 1; many codices such as A B E F G H K P X Y Z aa etc. read *et sic*, the Vatican edition *sic*, which also, a little further on, places a period after *intelligentia*, by which punctuation the argument, which is explained in the Scholion, is disturbed. At the end, the Vatican edition, against the manuscripts and editions 1, 2, 3, reads *substantiales*.
+
+---
+
+## Notes
+
+**2026-07-17 J4 Class D/E apparatus repair.** Health scan flagged `defs=13 la=15 en=15` (labels `[^11]` and `[^12]` each appearing twice in both bodies). Diagnosis: this was **not** the benign "one note, two lemmas" case. The chunk's original apparatus (13 entries, `[^1]`–`[^13]`) is the complete, correct printed p.91 footer block. But the p.92 footer — a fresh Quaracchi per-page footnote sequence (its own `[^1]`–`[^8]`) — was never transcribed at all when this chunk was first built. Two of its 8 anchors (the p.92 `¹` after "Trinitate" and the p.92 `³` after "dictum est supra") were mistakenly mapped onto the *already-used* labels `[^11]`/`[^12]` from the p.91 footer (content mismatch — reused page-91 def text under an anchor that actually belongs to a different p.92 note), and the other 6 p.92 anchors (after *obiicitur*, *ut supra visum est*, *quod* [Ad 3], *et hoc est*, *nisi*, *similiter* — all in the Ad 2/Ad 3/Ad 4 replies) had no marker at all in either body — genuine missing apparatus content.
+
+Verified against `raw/vision/vol1/p-092.png` (printed p.92, confirms 8-entry footer reading `¹`–`⁸` exactly matching the raw OCR at lines 22943–22973) and cross-checked content-by-content (not by position) against `raw/bonaventure_vol1_raw.txt` lines 22826–22973. Fix: relabeled the two mismapped anchors to new labels `[^14]` (was `[^11]`) and `[^16]` (was `[^12]`); added markers `[^15]`, `[^17]`–`[^21]` at the OCR/printed positions for the 6 previously-unmarked anchors; transcribed all 8 missing `**La.**/**En.**` apparatus entries verbatim from the p.92 footer (new labels `[^14]`–`[^21]`). No Latin/English body wording changed — only `[^N]` marker tokens added/relabeled and apparatus defs added. Post-fix: `defs=21 la=21 en=21`, no dupes.

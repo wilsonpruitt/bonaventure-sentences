@@ -207,3 +207,22 @@ Furthermore, it must be diligently noted that, by the same reasoning by which th
 [^15]: **La.** *Num.* 1, 18. (n. = numerus, paragraph number; not biblical Numbers.)
 
     **En.** *n.* 1, 18 — that is, *paragraph 1, n. 18*. (*Note*: "Num." in Quaracchi apparatus = *numerus*, paragraph number, not the biblical book of Numbers.)
+
+## Notes
+
+**2026-07-17 (J4 Class D/E triage):** Health-scan flagged `defs=15 la=22 en=15`. Diagnosed as the
+§2 backtick-blockquote false-positive pattern from `manual-review/J4-CLASS-DE-HANDOFF.md` — except
+here the offending example ranges are NOT even backtick-fenced. The intro blockquote at the top of
+`## Latin` (the "Per-page distribution: p. 553 = 2 entries (`[^1]`–`[^2]`); p. 554 = 8 entries
+(`[^3]`–`[^10]`); p. 555 = 4 entries (`[^11]`–`[^14]`); p. 556 = 1 entry (`[^15]`)" sentence)
+contains bare `[^N]` tokens for labels 1, 2, 3, 10, 11, 14, 15 — exactly the 7 "extra" Latin-side
+anchors the classifier counted. All 15 real body anchors (both languages) and all 15 apparatus
+defs are correctly paired 1:1; content-checked against the printed pp. 553–556 distribution
+already documented in the frontmatter `transcription_status` (2/8/4/1 per page) — no relabel, no
+missing content, no real defect. Per the handoff's §2 instruction, this is reported as a false
+positive and NOT fixed here (fixing the underlying blockquote-notation convention needs Wilson's
+decision, since the live-site renderer is also regex-based and would turn these same bracket
+tokens into spurious clickable footnote superscripts inside the explanatory prose — same bug
+class as `IV-d21-p1-littera`/`III-d33-dubia`, but worse here since there are no backticks at all
+to protect it even from a backtick-aware fix). No apparatus, body, or wording changes made in
+this pass.

@@ -34,7 +34,7 @@ format_version: 1
 
 Secundo, supposito quod hoc nomen *ingenitus* dicatur secundum relationem, quaeritur, utrum importet eandem relationem, quam hoc nomen *Pater*, utrum scilicet eadem relatio sit innascibilitas et paternitas. Et quod non, ostenditur sic.
 
-1. Augustinus quinto *de Trinitate*[^1]: «Aliud est dicere esse patrem, et aliud ingenitum»; sed non differt[^4] secundum essentiam: ergo secundum relationem.
+1. Augustinus quinto *de Trinitate*[^1]: «Aliud est dicere esse patrem, et aliud ingenitum»; sed non differt secundum essentiam: ergo secundum relationem.
 
 2. Item, hoc videtur per rationem, quia possibile est, aliquem intelligi esse ingenitum et non esse patrem, ut in Adam[^2], et e converso, ut in Cain. Si ergo una relatio potest intelligi, altera non intellecta, et e converso; et poni, altera non posita: ergo sunt diversae relationes.
 
@@ -86,7 +86,7 @@ Alex. Hal., S. p. I. q. 59. m. 1. — S. Thom., S. I. q. 33. q. 4. — B. Albert
 
 Secondly, having supposed that this name *unbegotten* is said according to relation, it is asked whether it imports the same relation as this name *Father* — that is, whether unbegottenness and paternity are the same relation. And that they are not, is shown thus.
 
-1. Augustine, fifth book *On the Trinity*[^1]: «It is one thing to say [a person] is Father, and another [to say a person is] unbegotten»; but [they] do not differ[^4] according to essence: therefore according to relation.
+1. Augustine, fifth book *On the Trinity*[^1]: «It is one thing to say [a person] is Father, and another [to say a person is] unbegotten»; but [they] do not differ according to essence: therefore according to relation.
 
 2. Likewise, this is seen by reason, since it is possible for someone to be understood to be unbegotten and not to be a father, as in Adam[^2], and conversely, as in Cain. If, therefore, one relation can be understood, the other not being understood, and conversely; and one posited, the other not posited: therefore they are diverse relations.
 
@@ -175,3 +175,5 @@ Alex. Hal., *Summa* p. I, q. 59, m. 1. — St. Thomas, *Summa* I, q. 33, q. 4. �
 OCR garbles flagged with `[?]`:
 - `differunt` in arg. 1: OCR shows `(jjcepe cssB` (column-break artifact / marginal `Fundamenta` bleed); restored from context — the sense is "they do not differ" and Augustine *de Trin.* V.6.7 standardly reads "Aliud est patrem esse, aliud ingenitum, et tamen non secundum substantiam differunt."
 - `nisi` in apparatus n. 6: raw OCR ends `mn nisi` after a column break; reading is presumed but flagged.
+
+**Apparatus repair (2026-07-17, J4 Class D/E pass):** Health scan flagged `defs=9 la=10 en=10` (a duplicate `[^4]` anchor in both bodies). Diagnosis via printed p.499 (`raw/vision/vol1-pt2/p-499.png`, 400 dpi, offset `pdf = printed − 410`): the printed page carries exactly **one** superscript "⁴", at the end of argument 4 ("…ut supra ostensum est⁴: ergo innascibilitas et paternitas non sunt eaedem relationes"). Def `[^4]`'s content ("In principio argumenti ed. 1 *differunt* pro *differt*… in fine verba *non sunt eaedem relationes*…") describes two textual variants both located within argument 4 (its opening word `differt` and its closing clause) and binds to that single printed marker. The `[^4]` anchor previously also appearing in argument 1 (attached to the editorially-restored word `differt`, see the OCR-garble note above) has **no printed counterpart anywhere on p.499** — it was a phantom marker introduced alongside the word restoration, not a real Quaracchi footnote reference. Removed the stray `[^4]` anchor from argument 1 in both Latin and English bodies (the word `differt`/`differ` itself is unchanged — it remains the editorially-restored reading, just without an erroneous footnote binding). No def content, Latin wording, or English wording was altered. Post-fix: `defs=9 la=9 en=9`, all label sets match exactly.
