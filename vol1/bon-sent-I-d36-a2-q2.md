@@ -8,15 +8,15 @@ quaestio: 2
 type: quaestio
 title_la: "Utrum res verius esse habeant in Deo quam in proprio genere"
 title_en: "Whether things have truer being in God than in their proper genus"
-printed_pages: [623, 624]
-pdf_pages: [213, 214]
-source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 623–624"
+printed_pages: [625, 626]
+pdf_pages: [215, 216]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 625–626"
 has_scholion: true
 has_apparatus: true
 line_start: 20753
 line_end: 20868
 word_count_latin: 1137
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 20753–20868 of pt2), fresh literal English translation, full apparatus from raw OCR (8 entries), scholion from OCR with [?] flags on ambiguous spots (2026-05-07)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 20753–20868 of pt2), fresh literal English translation, full apparatus from raw OCR (9 entries), scholion from OCR with [?] flags on ambiguous spots (2026-05-07); apparatus repaired 2026-07-17, see Notes"
 format_version: 1
 ---
 
@@ -27,7 +27,7 @@ format_version: 1
 
 ## Latin
 
-<!-- page 623 -->
+<!-- page 625 -->
 
 ### Quaestio II.
 #### *Utrum res verius esse habeant in Deo quam in proprio genere.*
@@ -58,11 +58,11 @@ Secundo quaeritur, utrum res sint in Deo verius quam in universo sive in proprio
 
 **Respondeo:** Dicendum quod triplex est existentia rerum, scilicet in exemplari aeterno, et in intellectu creato, et in ipso mundo[^7]. In exemplari aeterno et in intellectu creato sunt res secundum similitudinem; in ipso mundo secundum entitatem propriam. — Quando ergo quaeritur, in quo sint verius, hoc dupliciter potest quaeri: aut ita quod fiat comparatio eiusdem rei ad se secundum diversum modum existendi, ut sit sensus: ubi lapis verius habet esse, vel cum est in cognoscente vel[^8] producente, vel cum est in se; et hoc modo concedendum est, quod verius est unaquaeque res in proprio genere quam in Deo, sicut probant rationes ad hoc inductae. Alio modo potest fieri comparatio rei ad suam similitudinem, ut sit sensus quaestionis: quid habet esse verius et nobilius, utrum ipsa res, vel eius similitudo? Et hoc modo simpli-
 
-<!-- page 624 -->
+<!-- page 626 -->
 
 citer concedendum, quod similitudo rei verius et nobilius esse habet in Deo, quam ipsa res in mundo ratione eius quod est; quia est ipse Deus. Et concedendae sunt rationes ad hoc inductae.
 
-Adhuc similitudines rerum in intellectu creato verius et nobilius habent esse quam res in universo, ut dicit Augustinus *de Trinitate*[^1], non ratione eius quod sunt, sed ratione eius in quo, quia sunt nobiliori et spirituali modo similitudines in intellectu cognoscente, quam sint ipsae res in mundo contentae. Et sic patent rationes ad utramque partem.
+Adhuc similitudines rerum in intellectu creato verius et nobilius habent esse quam res in universo, ut dicit Augustinus *de Trinitate*[^9], non ratione eius quod sunt, sed ratione eius in quo, quia sunt nobiliori et spirituali modo similitudines in intellectu cognoscente, quam sint ipsae res in mundo contentae. Et sic patent rationes ad utramque partem.
 
 2. Tamen ad illud argumentum, quod fit de comparatione esse ad cognoscere; dicendum, quod illud generaliter intellectum, quod res ibi est verius, ubi verius cognoscitur, non habet veritatem. Contingit enim cognoscere quod non est: et ideo sicut ad cognosci non sequitur esse, ita nec ad vere cognosci vere esse, nec ad verius cognosci verius esse. Quando ergo dicitur, quod *unumquodque sicut se habet ad esse, ita ad cognitionem*, hoc intelligitur, quia eadem principia, quae sunt principia essendi, sunt principia cognoscendi; sed tamen principia essendi conferunt esse per se ipsa, sed cognitionem non conferunt per se, sed per suas similitudines.
 
@@ -80,7 +80,7 @@ Adhuc similitudines rerum in intellectu creato verius et nobilius habent esse qu
 
 ## English
 
-<!-- page 623 -->
+<!-- page 625 -->
 
 ### Question II.
 #### *Whether things have truer being in God than in their proper genus.*
@@ -109,11 +109,11 @@ Secondly it is asked, whether things are in God more truly than in the universe,
 
 **I respond:** It must be said that there is a threefold existence of things, namely in the eternal exemplar, and in the created intellect, and in the world itself[^7]. In the eternal exemplar and in the created intellect things are according to a likeness; in the world itself, according to their proper entity. — When therefore it is asked in which they are more truly, this can be asked in two ways: either in such a way that a comparison is made of the same thing to itself according to a diverse mode of existing, that the sense be: where does a stone have truer being, whether when it is in the knower or[^8] producer, or when it is in itself; and in this mode it must be conceded that any thing is more truly in its proper genus than in God, as the reasons brought forward for this prove. In another mode the comparison can be made of a thing to its likeness, that the sense of the question be: which has truer and nobler being, whether the thing itself, or its likeness? And in this mode simply
 
-<!-- page 624 -->
+<!-- page 626 -->
 
 it must be conceded that the likeness of a thing has truer and nobler being in God than the thing itself in the world, by reason of that which it is; since it is God himself. And the reasons brought forward for this are to be conceded.
 
-Furthermore the likenesses of things in the created intellect have truer and nobler being than things in the universe, as Augustine says *On the Trinity*[^1], not by reason of that which they are, but by reason of that in which [they are], since the likenesses are in a nobler and spiritual manner in the knowing intellect, than are the things themselves contained in the world. And thus the reasons on each side stand.
+Furthermore the likenesses of things in the created intellect have truer and nobler being than things in the universe, as Augustine says *On the Trinity*[^9], not by reason of that which they are, but by reason of that in which [they are], since the likenesses are in a nobler and spiritual manner in the knowing intellect, than are the things themselves contained in the world. And thus the reasons on each side stand.
 
 2. Yet to that argument which is made about the comparison of being to knowing; it must be said that what is generally understood [in the dictum], that a thing is more truly there where it is more truly known, does not have [the] truth. For it happens that one knows what is not: and therefore just as upon being-known being does not follow, so neither upon being-known-truly being-truly, nor upon being-known-more-truly being-more-truly. When therefore it is said that *each thing as it stands toward being, so [it stands] toward knowing*, this is understood [thus], because the same principles which are principles of being are principles of knowing; yet however the principles of being confer being through themselves, but they do not confer knowing through themselves, but through their likenesses.
 
@@ -131,9 +131,9 @@ Furthermore the likenesses of things in the created intellect have truer and nob
 
 ## Apparatus
 
-[^1]: **La.** Cap. 13. n. 33.
+[^1]: **La.** Cap. 15. n. 33.
 
-     **En.** Chapter 13, n. 33.
+     **En.** Chapter 15, n. 33.
 
 [^2]: **La.** Aristot., II. *Metaph.* text. 4. (I. *brevior* c. I.). In textu originali pro *cognitionem* exstat *veritatem*.
 
@@ -162,3 +162,43 @@ Furthermore the likenesses of things in the created intellect have truer and nob
 [^8]: **La.** Codd. PQZ cum ed. I melius *et*.
 
      **En.** Codices PQZ with edition I [read] better *et*.
+
+[^9]: **La.** Libr. IX. c. 4. n. 4: «Maior est notitia corporis quam ipsum corpus, quod ea notitia notum est. Illa enim vita quaedam est in ratione cognoscentis, corpus autem non est vita. Et vita quaelibet quolibet corpore maior est, non mole, sed vi». Et ibid. c. 11. n. 16: «Melior est tamen imaginatio corporis in animo quam illa species corporis, in quantum haec in meliore natura est, id est in substantia vitali, sicuti animus est». Cfr. etiam Anselm., *Monolog.* c. 36. — Aliquanto inferius pro *quam* sint codd. IX *quam sunt*, et dein pro *contentae* cod. O *continente*.
+
+     **En.** Book IX, c. 4, n. 4: "The knowledge of a body is greater than the body itself, which is known by that knowledge. For that is a kind of life in the reason of the knower; the body, however, is not life. And any life whatsoever is greater than any body whatsoever, not in mass, but in power." And likewise c. 11, n. 16: "Yet the imagination of a body in the mind is better than that species of the body, insofar as this is in a better nature, that is, in a living substance, as the soul is." Cf. also Anselm, *Monologion* c. 36. — A little further below, in place of *quam*, [some] codices [read] *sint*; IX [reads] *quam sunt*; and thereafter in place of *contentae*, codex O [reads] *continente*.
+
+---
+
+## Notes
+
+**2026-07-17 — J4 Class D/E apparatus repair (real defect, not the §2 false positive).** Health-scan
+flagged this chunk with `defs=8 la=9 en=9` (a repeated `[^1]` anchor in both Latin and English
+bodies). PDF-verified against the printed page: this was NOT the benign "one note cited from two
+lemmas" case and NOT the backtick-blockquote false positive. It was a genuine missing-apparatus-
+entry defect compounded by a frontmatter page-number error:
+
+1. **Frontmatter `printed_pages`/`pdf_pages` were wrong.** The chunk was labeled pp. 623–624
+   (pdf 213–214), but content-verification against `raw/doctorisseraphic12bona.pdf` (via
+   `pdftotext -f/-l` page search for "Augustinum quinto super Genesim" and "Augustinus de
+   Trinitate") shows the chunk actually prints on **pp. 625–626 (pdf 215–216)**. Printed p.624/pdf
+   214 holds unrelated content (a different question's Corollaria/Solutio, "Res sunt tripliciter
+   ... in Deo"). Frontmatter corrected to `[625, 626]` / `[215, 216]`; `source` line updated to
+   match.
+2. **The duplicate `[^1]`** was two different footnotes sharing one label because Quaracchi
+   restarts footnote numbering per printed page: the first `[^1]` (p.625, "Per Augustinum quinto
+   *super Genesim ad litteram*") is genuinely page 625's footnote 1 ("Cap. 15. n. 33.") — our
+   existing def, content-verified against the p.625 footer image. The second `[^1]` (p.626, "ut
+   dicit Augustinus *de Trinitate*") is page 626's own footnote 1 — a real, distinct footnote
+   ("Libr. IX. c. 4. n. 4 ...", on Augustine *De Trin.* IX.4.4 re: knowledge of the body being
+   greater than the body) that was never transcribed into this chunk's apparatus. Relabeled the
+   second body occurrence (both La and En) to `[^9]` and transcribed its content verbatim from the
+   p.626 footer image (`raw/vision/vol1-pt2` via `pdftoppm -r 400`, PDF pages 215–216 of
+   `doctorisseraphic12bona.pdf`) into a new `[^9]` def.
+3. **Incidental correction:** def `[^1]`'s Latin/English text read "Cap. 13. n. 33." — the
+   printed page clearly reads "Cap. **15**. n. 33." (verified at 400dpi crop). Corrected the digit
+   in both La and En; no other apparatus prose changed.
+4. No Latin or English body wording was altered — only the duplicate `[^N]` marker token and the
+   apparatus defs (fixed `[^1]` digit, added `[^9]`).
+5. Post-fix corpus health check: this file now reports `defs=9 la=9 en=9`, label sets identical,
+   no dupes. `cd site && node scripts/build-content.mjs` still reports 1815 translated / 1925
+   questions / 4 books.

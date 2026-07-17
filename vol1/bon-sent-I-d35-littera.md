@@ -35,7 +35,7 @@ format_version: 1
 
 > The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi critical apparatus (*Notae ad Libr. Sententiarum*, reflowed from the two-column footer band on printed pp. 597–598) in Latin, followed by an English rendering.
 
-Cumque supra[^1] disseruerimus ac plura dixerimus de his quae communiter secundum substantiam de Deo dicuntur, eorum tamen quaedam specialem efflagitant tractatum; de quibus amodo tractandum est, id est de scientia, praescientia, providentia, dispositione, praedestinatione, voluntate et potentia. — Sciendum est igitur, quod sapientia vel scientia Dei, cum sit una et simplex, tamen propter varios rerum status et diversos effectus plura ac diversa sortitur nomina. Dicitur enim non tantum scientia, sed etiam praescientia vel praevidentia[^2], dispositio, praedestinatio et[^3] providentia.
+Cumque supra[^1] disseruerimus ac plura dixerimus de his quae communiter secundum substantiam de Deo dicuntur, eorum tamen quaedam specialem efflagitant tractatum; de quibus amodo tractandum est, id est de scientia, praescientia, providentia, dispositione, praedestinatione, voluntate et potentia. — Sciendum est igitur, quod sapientia vel scientia Dei, cum sit una et simplex, tamen propter varios rerum status et diversos effectus plura ac diversa sortitur nomina. Dicitur enim non tantum scientia, sed etiam praescientia vel praevidentia, dispositio, praedestinatio et[^2] providentia.
 
 #### Cap. II.
 
@@ -105,7 +105,7 @@ Inde est etiam, quod omnia dicuntur ei praesentia esse, non solum ea quae sunt, 
 
 *On the science, foreknowledge, providence, disposition, and predestination of God.*
 
-Since we have above[^1] discoursed and said many things about those things which are commonly said of God according to substance, certain of these nevertheless demand a special treatment; concerning which we must from now on treat — that is, of science, foreknowledge, providence, disposition, predestination, will, and power. — It must be known, therefore, that the wisdom or science of God, although it is one and simple, nevertheless on account of the various states of things and diverse effects obtains many and diverse names. For it is called not only *science*, but also *foreknowledge* or *foresight*[^2], *disposition*, *predestination*, and[^3] *providence*.
+Since we have above[^1] discoursed and said many things about those things which are commonly said of God according to substance, certain of these nevertheless demand a special treatment; concerning which we must from now on treat — that is, of science, foreknowledge, providence, disposition, predestination, will, and power. — It must be known, therefore, that the wisdom or science of God, although it is one and simple, nevertheless on account of the various states of things and diverse effects obtains many and diverse names. For it is called not only *science*, but also *foreknowledge* or *foresight*, *disposition*, *predestination*, and[^2] *providence*.
 
 #### Chapter II.
 
@@ -231,4 +231,22 @@ Hence it is also that all things are said to be present to Him — not only thos
 
 ## Notes
 
-[No editorial notes beyond the apparatus above.]
+**2026-07-17 J4 Class D/E repair.** Health scan flagged defs=15/la=16/en=16 (duplicate `[^3]` anchor).
+Diagnosed against 400dpi printed p.597 (`raw/vision/vol1-pt2/p-597.png`, pdf p.187, offset
+`pdf = printed - 410`): a small mislabel cluster, not a benign double-cite. The chunk had placed
+`[^2]` after "praevidentia" in Cap. I's list of names (*praescientia vel praevidentia, dispositio,
+praedestinatio et providentia*) and `[^3]` after "et" at the end of that same list. The printed
+page shows only ONE superscript in that sentence — a "²" positioned after "et", immediately before
+"providentia" — with no mark at all after "praevidentia". Def `[^2]`'s content ("Vat. et edd. 4, 6
+omittunt *praevidentia, dispositio, praedestinatio* ...") describes the omission of the whole
+preceding list of names and matches the "et___providentia" position exactly, confirming that spot
+is the genuine `[^2]`. Def `[^3]`'s content ("Ita melius codd. A B D ... *providentia*. In ipso
+capitulo plurimae edd. falso habent *sive providentia non de futuris*") is about the Cap. II
+chapter-heading reading and matches only the Cap. II heading's "praevidentia" superscript-3
+(confirmed present on the printed page), which the chunk already had correctly labeled. Fix:
+removed the phantom `[^2]` after "praevidentia" in Cap. I (both Latin and English), and relabeled
+the surviving Cap. I marker from `[^3]` to `[^2]` (both languages) so it matches its def content
+and position. Cap. II's `[^3]` (heading) was untouched — it was already correct. No Latin wording,
+English wording, or apparatus prose was changed; only marker labels/positions. Post-fix: defs=15,
+la=15, en=15, all matching, no dupes. Not the §2 backtick-blockquote false-positive pattern — the
+chunk's blockquote intro note contains no `[^N]` tokens at all.
