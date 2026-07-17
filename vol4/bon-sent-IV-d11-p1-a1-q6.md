@@ -83,7 +83,7 @@ Quarta regula est: quia nulla est causalitas, sed solum transitus panis in corpu
 
 ### Scholion
 
-(Nullum scholion ad hanc quaestionem; vide scholion ad quaest. IV huius articuli, ubi articuli scholion sequentes quaestiones complectitur — cf. apparatum, [^5].)
+(Nullum scholion ad hanc quaestionem; vide scholion ad quaest. IV huius articuli, ubi articuli scholion sequentes quaestiones complectitur — cf. apparatum, notam 5.)
 
 ---
 
@@ -141,7 +141,7 @@ The fourth rule is: because there is no causality, but only transit of the bread
 
 ### Scholion
 
-(There is no scholion to this question; see the scholion to question IV of this article, where the article's scholion embraces the following questions — cf. apparatus, [^5].)
+(There is no scholion to this question; see the scholion to question IV of this article, where the article's scholion embraces the following questions — cf. apparatus, note 5.)
 
 ---
 
@@ -207,3 +207,5 @@ The fourth rule is: because there is no causality, but only transit of the bread
 **Scholion disposition.** This question renders NO scholion; the article's scholion covering the later questions is rendered with QUAESTIO IV (per dispatch instruction and confirmed by Quaracchi footers n. 5 on both p250 and p252: `Vide scholion ad 4. huius articuli quaest.`). A one-line La+En cross-reference note stands in the `### Scholion` slot in both language blocks.
 
 **[?] flags.** None. The PDF bands were fully legible at 450 dpi for body and footers; the only ambiguity (note 11's long Aristotle quotation, heavily fragmented in OCR) was resolved against the printed band. Footnote 15 reconstructs the Quaracchi cross-reference (`I. Sent. d. 42. q. 4.`) plus the p252→p253 *Et dicendum/ideo* variant note; the editorial bracket `[Tertia regula.]` and `[Third rule.]` flag the marginal-rubric attachment, not a textual doubt.
+
+**J4 Class D/E repair (2026-07-17).** Health scan flagged `defs=15 la=16 en=16`. Diagnosis: NOT the §2 backtick-blockquote false positive (no backtick-quoted `[^N]` ranges in this file) and NOT missing/mislabeled apparatus content — this was a genuine instance of the separately-documented "literal `[^N]` in prose steals the binding" bug (per repo `CLAUDE.md` / J2), located inside the translator-added editorial parenthetical that stands in the `### Scholion` slot in both language blocks (this question has no real scholion; see the **Scholion disposition** note above). The parenthetical's own cross-reference to apparatus note 5 — "cf. apparatum, `[^5]`" (La) / "cf. apparatus, `[^5]`" (En) — was written using literal footnote-marker syntax, duplicating the real `[^5]` anchor at line 50 (La) / 110 (En) and creating a second, un-defined binding that the live renderer would turn into a spurious clickable superscript. Fixed by de-fencing the cross-reference text only, no wording or apparatus content changed: La → "cf. apparatum, notam 5."; En → "cf. apparatus, note 5." Post-fix: `defs=15 la=15 en=15`, all label sets identical, no dupes/extras.
