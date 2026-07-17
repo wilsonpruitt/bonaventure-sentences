@@ -180,3 +180,9 @@ Therefore to what is then objected, that God can operate reasonably without thes
 [^13]: **La.** *[Quaracchi p.775 footer entry 5.] Codd. V X post* potentiam *inserunt* ut. *Paulo ante pro* sic et *Vat. cum cod. cc* sicut et.
 
      **En.** [Quaracchi p.775 footer entry 5.] Codices V, X after *potentiam* insert *ut*. A little before, in place of *sic et*, the Vatican with codex cc [reads] *sicut et*.
+
+---
+
+## Notes
+
+- **2026-07-17 J4 Class D/E health-scan false positive (defs=13, la=15, en=13) — CONFIRMED, NOT a real defect.** The `## Latin` section's opening apparatus-explainer blockquote (line 36) contains the backtick-quoted example range `` `[^1]`–`[^13]` `` ("this chunk renumbers them sequentially `[^1]`–`[^13]` across the two printed pages"). The corpus health-scan regex and the live-site renderer both fail to respect backtick code-spans inside blockquotes, so these two example numbers are miscounted as real body anchors — exactly accounting for the la=15 vs defs=13/en=13 gap (extras land precisely at labels `1` and `13`, matching the blockquote's endpoints). All 13 real Latin/English anchors and all 13 apparatus defs are correctly paired 1:1. This is the same corpus-wide false-positive pattern documented in `manual-review/J4-CLASS-DE-HANDOFF.md` §2 (also confirmed in `I-d32-littera`, `I-d41-a2-q1`, `I-d41-a2-q2`, `I-d42-dubia`), which additionally flags a live-render bug (the renderer turns the blockquote's example numbers into spurious clickable footnote superscripts). **No edits made to this chunk** — flagged for Wilson's corpus-wide decision per the handoff (de-fence the notation or teach the regex to skip code-spans).
