@@ -34,9 +34,9 @@ In parte ista sunt dubitationes circa litteram, et primo quaeritur de hoc quod d
 
 culum passionis, sine quorum fide non possumus iustificari: ergo sicut *passio* Christi dicitur nos iustificare, in quantum est credita, pari ratione et *ascensio* et *adventus ad iudicium.* — Item, sicut fides et caritas requiruntur ad iustificationem, ita etiam et aliae virtutes: ergo sicut dicimur iustificari per fidem et caritatem passionis, ita et per humilitatem et alias virtutes, quibus assimilamur Christo patienti.
 
-Iuxta hoc quaeritur, cum Magister assignet adhuc tertiam rationem, quare dicimur iustificari per *passionem,* videlicet quod passio iustificat per modum *sacrificii oblati;* penes quid sumitur sufficientia et distinctio illarum trium rationum?
+Iuxta hoc quaeritur, cum Magister[^p412-4] assignet adhuc tertiam rationem, quare dicimur iustificari per *passionem,* videlicet quod passio iustificat per modum *sacrificii oblati;* penes quid sumitur sufficientia et distinctio illarum trium rationum?
 
-**Respondeo:** Dicendum, quod nec istam rationem assignat Magister tanquam principalem, sed ad istam praesupponit illam, qua passio dicitur *iustificare* per modum *meriti;* et illam assignat, cum dicit, quod «Christus morte sua tanquam uno verissimo sacrificio, quidquid culparum erat in nobis, destruxit»; et ita tres rationes innuit, secundum quas passio Christi dicitur *iustificare.* Iustificat enim ut *hostia oblata,* ut *credita,* ut *amata.* — Et istae tres rationes reducuntur ad illas tres, quae superius dictae sunt, videlicet quod passio Christi iustificat per modum *meriti disponentis,* et per modum *exempli excitantis,* et per modum *exemplaris dirigentis,* ut sit in ea *meritum* in quantum hostia oblata, *directio* in quantum credita, et *excitatio* in quantum amata[^p412-6], secundum triplex genus causae. Et sic passio dicitur *iustificare* nos per fidem et caritatem, quia mediantibus his duabus virtutibus unimur ipsi passioni tanquam fonti salutis.
+**Respondeo:** Dicendum, quod nec istam rationem assignat Magister tanquam principalem, sed ad istam praesupponit illam, qua passio dicitur *iustificare* per modum *meriti;* et illam assignat, cum dicit, quod «Christus morte sua tanquam uno verissimo sacrificio, quidquid culparum erat in nobis, destruxit»; et ita tres rationes innuit, secundum quas passio Christi dicitur *iustificare.* Iustificat enim ut *hostia oblata,* ut *credita,* ut *amata.* — Et istae tres rationes reducuntur ad illas tres, quae superius[^p412-5] dictae sunt, videlicet quod passio Christi iustificat per modum *meriti disponentis,* et per modum *exempli excitantis,* et per modum *exemplaris dirigentis,* ut sit in ea *meritum* in quantum hostia oblata, *directio* in quantum credita, et *excitatio* in quantum amata[^p412-6], secundum triplex genus causae. Et sic passio dicitur *iustificare* nos per fidem et caritatem, quia mediantibus his duabus virtutibus unimur ipsi passioni tanquam fonti salutis.
 
 Et sic patet responsio ad illa tria obiecta. Primum enim obiectum procedit ab insufficienti; secundum vero dissolvitur per defectum similitudinis;
 
@@ -46,7 +46,7 @@ Item quaeritur de hoc quod subiungit: *Dicimur per mortem Christi iustificari, q
 
 <!-- page 413 -->
 
-non enim est simile de fide et caritate et aliis virtutibus; illud vero quod tertio quaerebatur, manifestum est.
+non enim est simile de fide et caritate et aliis virtutibus; illud vero[^p413-1] quod tertio quaerebatur, manifestum est.
 
 ### Dub. III.
 
@@ -56,13 +56,13 @@ Item quaeritur de hoc quod dicit: *Incideramus in principem huius saeculi, qui s
 
 Quod ergo obiicit, quod diabolus non potuit possidere, quia nullum ius habebat; dicendum, quod non valet, quia multi possident iniusto titulo, quorum diabolus princeps et dux est, qui est caput fraudis et malitiae. Nec fraus et dolus ei patrocinabatur, quia ad malum suum eum detinebat, sicut fures et latrones ad tempus ea possident, quae furantur.
 
-Ad illud quod obiicitur, quod homo non potuit se facere servum, cum esset in alterius iurisdictione constitutus; dicendum, quod Deus reliquerat hominem *in manu consilii sui*[^p413-1], et sicut ei permittebat, ut posset se inducere in servitutem peccati, sic etiam ei permittebat, ut posset semetipsum ducere in servitutem diaboli.
+Ad illud quod obiicitur, quod homo non potuit se facere servum, cum esset in alterius iurisdictione constitutus; dicendum, quod Deus reliquerat hominem *in manu consilii sui*[^p413-5], et sicut ei permittebat, ut posset se inducere in servitutem peccati, sic etiam ei permittebat, ut posset semetipsum ducere in servitutem diaboli.
 
 ### Dub. IV.
 
 Item quaeritur de hoc quod dicit: *Unde ipse vere dicitur mundi redemptor.* Videtur enim esse falsum, nemo enim emit quod suum est; si ergo Deus dominium super homines non amiserat, videtur, quod ad eum redemptio hominis non spectabat. — Item quaero: a quo et per quem redemit? Si tu dicas, quod redemit a diabolo; sed contra: ei solvit pretium, a quo redemit; sed redemit nos pretio sanguinis sui[^p413-6]: ergo videtur, quod pretium sui sanguinis solverit diabolo. Si tu dicas, quod redemit a Deo; contra: nullus redemit vel emit aliquid a se ipso[^p413-7].
 
-**Respondeo:** Dicendum, quod homo *venundatus erat, ut faceret malum in conspectu Domini*[^p413-8], et se ipsum fecerat servum peccati et supplicii; in his autem omnibus detinebatur auctoritate divinae sententiae et iustitiae. Et ideo pretium redemptionis ei oportebat offerri, qui damnum et iniuriam passus erat; et quoniam hic est Deus, ideo Christus in offerendo sanguinem suum Deo, redemit nos a servitute diaboli, peccati et supplicii, ita quod manus misericordiae redemit hominem de manu severitatis[^p413-9] et iustitiae. Transierat enim homo per culpam suam de una manu ad aliam. — Et per hoc patet responsio ad obiecta.
+**Respondeo:** Dicendum, quod homo *venundatus erat, ut faceret malum in conspectu Domini*[^p413-8], et se ipsum fecerat servum peccati et supplicii; in his autem omnibus detinebatur auctoritate divinae sententiae et iustitiae. Et ideo pretium redemptionis ei oportebat offerri, qui damnum et iniuriam passus erat; et quoniam hic est Deus, ideo Christus in offerendo sanguinem suum Deo, redemit nos a servitute diaboli, peccati et supplicii, ita quod manus misericordiae redemit hominem de manu severitatis[^p413-9] et iustitiae. Transierat enim homo per culpam suam de una manu ad aliam. — Et per hoc patet responsio ad obiecta[^p413-10].
 
 ### Dub. V.
 
@@ -96,9 +96,9 @@ In this part there are doubts concerning the text, and first there is asked abou
 
 …of the passion, without faith in which we cannot be justified: therefore just as the *passion* of Christ is said to justify us, inasmuch as it is believed, by like reasoning also the *ascension* and the *coming to judgment.* — Likewise, just as faith and charity are required for justification, so also are the other virtues: therefore just as we are said to be justified through the faith and charity of the passion, so also through humility and the other virtues, by which we are made like to Christ in his suffering.
 
-Alongside this it is asked, since the Master assigns yet a third reason why we are said to be justified through the *passion,* namely that the passion justifies after the manner of a *sacrifice offered;* on what basis is the sufficiency and distinction of those three reasons taken?
+Alongside this it is asked, since the Master[^p412-4] assigns yet a third reason why we are said to be justified through the *passion,* namely that the passion justifies after the manner of a *sacrifice offered;* on what basis is the sufficiency and distinction of those three reasons taken?
 
-**I respond:** It must be said that the Master does not assign this reason either as the principal one, but to this he presupposes that by which the passion is said *to justify* after the manner of *merit;* and he assigns it, when he says that «Christ by his death, as by one most true sacrifice, destroyed whatever of faults was in us»; and thus he intimates three reasons, according to which the passion of Christ is said *to justify.* For it justifies as a *victim offered,* as *believed,* as *loved.* — And these three reasons are reduced to those three which were said above, namely that the passion of Christ justifies after the manner of *disposing merit,* and after the manner of *stirring example,* and after the manner of *directing exemplar,* so that in it there is *merit* inasmuch as it is a victim offered, *direction* inasmuch as it is believed, and *stirring up* inasmuch as it is loved[^p412-6], according to the threefold kind of cause. And thus the passion is said *to justify* us through faith and charity, because by the mediation of these two virtues we are united to the passion itself as to the fount of salvation.
+**I respond:** It must be said that the Master does not assign this reason either as the principal one, but to this he presupposes that by which the passion is said *to justify* after the manner of *merit;* and he assigns it, when he says that «Christ by his death, as by one most true sacrifice, destroyed whatever of faults was in us»; and thus he intimates three reasons, according to which the passion of Christ is said *to justify.* For it justifies as a *victim offered,* as *believed,* as *loved.* — And these three reasons are reduced to those three which were said above[^p412-5], namely that the passion of Christ justifies after the manner of *disposing merit,* and after the manner of *stirring example,* and after the manner of *directing exemplar,* so that in it there is *merit* inasmuch as it is a victim offered, *direction* inasmuch as it is believed, and *stirring up* inasmuch as it is loved[^p412-6], according to the threefold kind of cause. And thus the passion is said *to justify* us through faith and charity, because by the mediation of these two virtues we are united to the passion itself as to the fount of salvation.
 
 And thus the response to those three objections is plain. For the first objection proceeds from what is insufficient; the second indeed is dissolved through a defect of likeness;
 
@@ -106,7 +106,7 @@ And thus the response to those three objections is plain. For the first objectio
 
 Likewise it is asked about that which he adds: *We are said to be justified through the death of Christ, because through faith in his death we are cleansed from sins.* For this seems false, because there are many articles besides[^p412-3] the ar-
 
-…for it is not alike concerning faith and charity and the other virtues; but that which was asked in the third place is manifest.
+…for it is not alike concerning faith and charity and the other virtues; but[^p413-1] that which was asked in the third place is manifest.
 
 ### Doubt III.
 
@@ -116,13 +116,13 @@ Likewise it is asked about that which he says: *We had fallen into the prince of
 
 As for what he objects, that the devil could not possess, because he had no right; it must be said that this does not hold, because many possess by an unjust title, of whom the devil is the prince and leader, who is the head of fraud and malice. Nor did fraud and deceit protect him, because he held him for his own evil, just as thieves and robbers for a time possess the things which they steal.
 
-To that which is objected, that man could not make himself a servant, since he was constituted under another's jurisdiction; it must be said that God had left man *in the hand of his own counsel*[^p413-1], and just as he permitted him to be able to bring himself into the servitude of sin, so also he permitted him to be able to lead himself into the servitude of the devil.
+To that which is objected, that man could not make himself a servant, since he was constituted under another's jurisdiction; it must be said that God had left man *in the hand of his own counsel*[^p413-5], and just as he permitted him to be able to bring himself into the servitude of sin, so also he permitted him to be able to lead himself into the servitude of the devil.
 
 ### Doubt IV.
 
 Likewise it is asked about that which he says: *Whence he is truly called the redeemer of the world.* For this seems false, since no one buys what is his own; if therefore God had not lost dominion over men, it seems that the redemption of man did not pertain to him. — Likewise I ask: from whom and through whom did he redeem? If you say that he redeemed from the devil; but on the contrary: he pays a price to him from whom he redeems; but he redeemed us by the price of his blood[^p413-6]: therefore it seems that he paid the price of his blood to the devil. If you say that he redeemed from God; on the contrary: no one redeems or buys anything from himself[^p413-7].
 
-**I respond:** It must be said that man *had been sold, that he might do evil in the sight of the Lord*[^p413-8], and had made himself a servant of sin and of punishment; and in all these he was held by the authority of the divine sentence and justice. And therefore the price of redemption had to be offered to him who had suffered the loss and the injury; and since this is God, therefore Christ, in offering his blood to God, redeemed us from the servitude of the devil, of sin, and of punishment, so that the hand of mercy redeemed man from the hand of severity[^p413-9] and of justice. For man had passed through his own fault from one hand to the other. — And by this the response to the objections is plain.
+**I respond:** It must be said that man *had been sold, that he might do evil in the sight of the Lord*[^p413-8], and had made himself a servant of sin and of punishment; and in all these he was held by the authority of the divine sentence and justice. And therefore the price of redemption had to be offered to him who had suffered the loss and the injury; and since this is God, therefore Christ, in offering his blood to God, redeemed us from the servitude of the devil, of sin, and of punishment, so that the hand of mercy redeemed man from the hand of severity[^p413-9] and of justice. For man had passed through his own fault from one hand to the other. — And by this the response to the objections is plain[^p413-10].
 
 ### Doubt V.
 
@@ -234,3 +234,11 @@ Likewise it is asked about that which he says: *He is called redeemer according 
 **With this promotion DISTINCTIO XIX is COMPLETE** (all 9 chunks Tier-2).
 
 **[?] flags:** none — the 450 dpi bands were fully legible across pp. 412–414.
+
+**J4 Class B — orphaned apparatus repair (2026-07-17).** Four defs (`p412-4`, `p412-5`, `p413-5`, `p413-10`) had no body anchor in either language. Re-read the 450 dpi PDF column bands (p. 412 L/R, p. 413 L/R) per the Vol II/III override; all four are placed on direct visual confirmation of the printed superscript numeral, keyed on content per Trap 1 (never by position):
+- `[^p412-4]` → anchored on **Magister** in DUB. I's "*Iuxta hoc quaeritur, cum Magister⁴ assignet adhuc tertiam rationem…*" (p. 412 R). The def's "Hic c. I: *Morte quippe sua…*" cites the Master's forthcoming quotation, and its "Paulo inferius" variant note matches *sufficientia et distinctio* later in the same sentence — both point to the *Magister* anchor, not the quotation itself.
+- `[^p412-5]` → anchored on **superius** in "*…reducuntur ad illas tres, quae superius⁵ dictae sunt*" (p. 412 R). Def reads "Art. I. q. I. in corp." — a bare cross-reference glossing exactly what "superius" (above) points to.
+- `[^p413-10]` → anchored on **obiecta** at the close of DUB. IV's Respondeo, "*Et per hoc patet responsio ad obiecta¹⁰.*" (p. 413 R), mirrored in English at the corresponding sentence-final position ("…the response to the objections is plain[^p413-10]."), matching the established corpus pattern for this exact construction (cf. `[^p412-2]` at DUB. I's parallel "responsio ad illas tres obiectiones²").
+- `[^p413-5]` → this one also required correcting a **pre-existing mislabel**, discovered while placing it. The PDF shows footnote-1 superscript on "*illud vero¹ quod tertio quaerebatur*" (DUB. II tail, p. 413 L top) — matching def `p413-1`'s content ("Pro *vero* codd… *enim.*") exactly — while the marker previously typed `[^p413-1]` sat instead on "*in manu consilii sui*" in DUB. III's Respondeo (p. 413 L), which the PDF shows carries superscript **5**, matching def `p413-5`'s content ("Eccli. 13,14…" + "Proxime post edd. omittunt *sicut ei permittebat… peccati*" — the clause immediately following "sui"). Fix: added `[^p413-1]` at *vero*/"but" (previously unanchored — this is why the classifier didn't flag `p413-1` even though it was misplaced) and relabeled the existing marker at *sui*/"his own counsel" from `[^p413-1]` to `[^p413-5]`, in both languages. No prose, wording, or apparatus text was changed — only the two marker labels.
+
+All four now anchor correctly in both Latin and English; verified with the standard J4 §6 classifier (see session report).
