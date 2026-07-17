@@ -69,11 +69,11 @@ Ideo credo, quod probabilior est alia opinio, quod resurgat in aequali et maiori
 
 2. Ad illud quod obiicitur, quod non recordatur Deus iniquitatum; dicendum, quod verum est; unde non dat ei minorem gratiam merito peccatorum, sed quia non bene se praeparat ad tantam gratiam.
 
-3. Ad illud Augustini ad Macedonium dicendum, quod Deus paratus est, si homo se disponeret; et hoc dicit pro aliquibus, non pro omnibus, quia illud Apostoli: *Ubi abundavit* etc., verum fuit alicubi, sed non ubique.
+3. Ad illud Augustini ad Macedonium dicendum, quod Deus paratus est, si homo se disponeret; et hoc dicit pro aliquibus, non pro omnibus, quia illud Apostoli[^18]: *Ubi abundavit* etc., verum fuit alicubi, sed non ubique.
 
 4. Ad illud quod obiicitur de vivificatione, dicendum, sicut patebit[^16], quod opus vivificari est dignum remuneratione fieri, et opera remunerabuntur secundum mensuram caritatis finalis.
 
-5. Ad illud quod obiicitur, quod fortius est resurgere; dicendum, quod fortius quantum ad actum, sed non oportet, quod ex fortiori habitu, quia nec in resistendo nec in resurgendo operari est necesse secundum totam virtutem voluntatis.
+5. Ad illud quod obiicitur, quod fortius est resurgere; dicendum, quod fortius quantum ad actum, sed non oportet, quod ex fortiori habitu, quia nec in resistendo nec in resurgendo operari est necesse secundum totam virtutem voluntatis[^19].
 
 6. Ad aliud dicendum, quod elicit bonum non facienti semper, sed in universo, et hoc est declaratio summae misericordiae et iustitiae; et aliquo modo facienti, nisi negligat, quia habet maiorem occasionem fervoris et humiliationis ex ipso casu.
 
@@ -133,11 +133,11 @@ Therefore I believe that the other opinion is more probable, that he rise again 
 
 2. To that which is objected, that God does not remember iniquities; it must be said that it is true; whence he does not give him less grace by the merit of [his] sins, but because he does not well prepare himself for so great a grace.
 
-3. To that [saying] of Augustine to Macedonius it must be said that God is prepared, if a man should dispose himself; and this he says for some, not for all, because that [saying] of the Apostle: *Where [sin] abounded* etc., was true somewhere, but not everywhere.
+3. To that [saying] of Augustine to Macedonius it must be said that God is prepared, if a man should dispose himself; and this he says for some, not for all, because that [saying] of the Apostle[^18]: *Where [sin] abounded* etc., was true somewhere, but not everywhere.
 
 4. To that which is objected concerning vivification, it must be said, as will appear[^16], that for a work to be vivified is for it to be made worthy of reward, and the works will be rewarded according to the measure of the final charity.
 
-5. To that which is objected, that it is more difficult to rise again; it must be said that [it is] more difficult as to act, but it is not necessary that [it be] from a stronger habit, because neither in resisting nor in rising again is it necessary to operate according to the whole power of the will.
+5. To that which is objected, that it is more difficult to rise again; it must be said that [it is] more difficult as to act, but it is not necessary that [it be] from a stronger habit, because neither in resisting nor in rising again is it necessary to operate according to the whole power of the will[^19].
 
 6. To the other [argument] it must be said that he elicits good not always for the one doing [evil], but in the universe, and this is a declaration of the highest mercy and justice; and in some manner for the one doing [it], unless he be negligent, because he has a greater occasion of fervor and humiliation from the fall itself.
 
@@ -207,6 +207,12 @@ Therefore I believe that the other opinion is more probable, that he rise again 
 [^17]: **La.** Respicit arg. Contra 5: *similiter nec per aliquid, quod habeat.* Cfr. III. Sent. d. 31. a. 1. q. 3.
      **En.** Regards the 5th Contra argument: *likewise nor through anything which he may have.* Cf. III Sent. d. 31. a. 1. q. 3.
 
+[^18]: **La.** Rom. 5, 20.
+     **En.** Romans 5, 20.
+
+[^19]: **La.** Ita codd. N aa, alii *nobilitatis*, Vat. *virtutis nobilitatem.*
+     **En.** Thus codices N aa, others [read] *nobilitatis*, the Vatican [edition] *virtutis nobilitatem.*
+
 ## Notes
 
 **Provenance.** Latin re-set column-by-column from Vol IV PDF column bands (printed pp. 335–337; pdf pp. 355–357 at the verified +20 offset; `colcrop.py vol4` split_x=1880) per the Vol II/IV PDF-priority override, with the IA djvu OCR (raw lines 38394–38606) as base for the clean running prose (article opener, fundamenta, Contra args) and footnote-marker spacing. The OCR was severely two-column-bled/cascade-shattered across all three pages; the Respondeo, the two opinions, the Solutio replies (1–6), and the entire scholion were taken from the PDF bands. English is a fresh literal translation.
@@ -231,3 +237,9 @@ No q1 footer spills into a neighboring chunk; the p.335-L footers belong to ART.
 - **[^15] REFUSED.** Its text duplicates [^9] verbatim (Codd. A G K Y *sed* / *delendam*-*deflendam*) plus an editorial gloss "Spectat ad arg. Contra 2." Contra 2's own sentence on p.336 (L-1 band) was read at full resolution and carries only ONE superscript, "6" (=[^9], on *si*) — no second marker on *delendam*. No other superscript on pp.335–337 carries this content. Cannot place with textual evidence; left unanchored per the "refuse rather than guess" rule.
 - **[^17] REFUSED.** Its text duplicates [^12] verbatim (Vat. *nec aliquid, quod habebat* / *cecidit*-*recedit*) plus "Respicit arg. Contra 5: *similiter nec per aliquid, quod habeat*." Contra 5's own sentence on p.336 (R-0 band) was read at full resolution and carries only ONE superscript, "9" (=[^12], on *habeat*) — no second marker on *cecidit*. The Solutio (p.337) replies only to fundamenta 1–6, never to the Contra arguments, so there is no natural second occurrence of this lemma elsewhere in this chunk's body. Cannot place with textual evidence; left unanchored.
 - Note in passing (not part of this repair, out of scope): p.337 R-column top also carries unmapped superscripts "1" (on *Apostoli*, Solutio ad 3; footer = "Rom. 5, 20") and possibly "3" (near *voluntatis*, Solutio ad 5; content does not match footer 3, which belongs to the following QUAESTIO II's own fundamentum 2 — "Ita codd. N aa, alii *nobilitatis*..."). These are genuinely missing apparatus entries (no `[^N]:` def exists for them at all), a different bug class than the assigned orphaned-definition repair; left untouched.
+
+**Class C — anchor with no definition, superscripts "1"/"3" on p.337 (2026-07-17, J4 Class C).** Investigated the gap noted immediately above. Re-read 450 dpi PDF column bands for p.337 (`extract-pages.py --volume vol4 --pages 337-337`; `colcrop.py vol4 337 1880`, all six L/R×0-2 bands). Findings:
+- Confirmed the page-337 footer block prints ONCE, at the true foot of the page (under the "S. Bonav. — Tom. IV." volume signature), split typographically across the two columns: **1** "Rom. 5, 20." and **2** "Infra q. 3." under the L column, **3** "Ita codd. N aa, alii *nobilitatis*, Vat. *virtutis nobilitatem.*" and **4** "Sive *Hypognosticon* III. c. 9. Cfr. supra pag. 320, nota 1." under the R column — i.e. ONE continuous 1–4 sequence for the whole page, not per-quaestio blocks. Reading order for the body superscripts (confirmed grammatically: L column's last line, "...pro aliquibus, non pro omnibus," runs straight into R column's first line, "quia illud Apostoli¹: *Ubi abundavit*...") establishes that superscripts 1, 2, 3 fall — in this exact order — on *Apostoli*, *patebit*, and *voluntatis*, all within THIS q1's own Solutio (ad 3, ad 4, ad 5 respectively), and superscript 4 falls later on *Responsionum* in the following QUAESTIO II's fundamentum 1 (`Augustinus in libro Quinque Responsionum⁴`).
+- **[^18] PLACED** (new entry) at *Apostoli* in Solutio ad 3 — footer 1, "Rom. 5, 20.", is an exact citation match: the body quotes "*Ubi abundavit*" (Rom. 5:20's "ubi abundavit delictum") attributed to "illud Apostoli" (the Apostle Paul).
+- **[^19] PLACED** (new entry) at *voluntatis* in Solutio ad 5 — footer 3, a codex-variant note ("Ita codd. N aa, alii *nobilitatis*..."), is the third footer in the page's 1–4 sequence and has no other candidate anchor in this chunk's body.
+- **Cross-chunk finding, NOT acted on (out of scope for this single-chunk task):** the sibling chunk `vol4/bon-sent-IV-d14-p2-a2-q2.md` currently carries its OWN `[^1]` (verbatim "Rom. 5, 20.") anchored at *perfectum* in its fundamentum 1, and its OWN `[^3]` (verbatim "Ita codd. N aa, alii *nobilitatis*...") anchored at *imaginem* in its fundamentum 2 — i.e. the identical footer texts, independently re-transcribed under q2's own restart-at-1 apparatus numbering, anchored at DIFFERENT lemmas that do not fit their content nearly as well (Rom. 5:20 has no textual echo at "revocans ad perfectum"; the codex variant has no obvious link to "imaginem"). Per the single-footer-block-per-page finding above, footers 1 and 3 physically belong to q1 (this chunk), not q2; only footer 4 ("Sive *Hypognosticon*...", matching q2's own *Responsionum* citation) is genuinely q2's. This looks like a pre-existing mis-attribution in q2 from an earlier promotion pass, not something introduced here. **Flagging for a future dedicated q2 pass — not touched in this session**, since this task's scope is q1 only and q2 is Tier-2-complete/independently healthy (its apparatus set already matches its own anchors 1:1, so editing it is a separate, deliberate decision, not a "genuinely missing" repair).

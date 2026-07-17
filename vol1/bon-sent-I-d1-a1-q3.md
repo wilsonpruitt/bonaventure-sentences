@@ -57,7 +57,7 @@ Tertio, ostenso, utrum omni creato sit utendum et[^1] omni alio a Deo, est quaes
 
 **Ad argumenta:**
 
-1. Ad illud ergo quod obiicitur, quod contingit recte servire Deo intuitu mercedis; dicendum, quod illa merces aut est ipse Deus, sicut dixit Abrahae Genesis decimo quinto[^11]: *Ego merces tua*; et sic intuens mercedem non utitur, quia non refert ad aliud; aut merces illa est aliud, et tunc potest eam quis intueri aut ut causam[^?] moventem; et sic est malus mercenarius[^12]; aut ut rationem inducentem; et sic bonus, et hoc modo non utitur.
+1. Ad illud ergo quod obiicitur, quod contingit recte servire Deo intuitu mercedis; dicendum, quod illa merces aut est ipse Deus, sicut dixit Abrahae Genesis decimo quinto[^11]: *Ego merces tua*; et sic intuens mercedem non utitur, quia non refert ad aliud; aut merces illa est aliud, et tunc potest eam quis intueri aut ut causam moventem; et sic est malus mercenarius[^12]; aut ut rationem inducentem; et sic bonus, et hoc modo non utitur.
 
 2. Ad illud quod obiicitur, quod clarior cognitio creaturae non praeiudicat Creatori, ergo etc.; dicendum, quod non est simile, quia claritas cognitionis non est in nostra potestate, sed ardor affectionis est in nostra potestate; ideo requiritur a nobis, quod istum ordinemus, non illam[^13]. Aliquis tamen actus cognitionis est in nostra potestate, utpote actus fidei, quo si aliquis assentiat veritati primae propter aliud, bene praeiudicat veritati, sicut amare propter aliud, bonitati.
 
@@ -103,7 +103,7 @@ Thirdly, it having been shown whether every created thing is to be used and[^1] 
 
 **To the arguments:**
 
-1. To that which is objected, that it is possible to serve God rightly with a view to reward; it must be said that that reward is either God Himself, as He said to Abraham, Genesis fifteen[^11]: *I am thy reward*; and so the one looking to the reward does not use [Him], since he does not refer [Him] to another; or that reward is something else, and then someone can look to it either as a cause[^?] [or "the carnal"] moving [him]; and so he is a bad hireling[^12]; or as a reason inducing [him]; and so [he is] good, and in this way he does not use.
+1. To that which is objected, that it is possible to serve God rightly with a view to reward; it must be said that that reward is either God Himself, as He said to Abraham, Genesis fifteen[^11]: *I am thy reward*; and so the one looking to the reward does not use [Him], since he does not refer [Him] to another; or that reward is something else, and then someone can look to it either as a cause [or "the carnal"] moving [him]; and so he is a bad hireling[^12]; or as a reason inducing [him]; and so [he is] good, and in this way he does not use.
 
 2. To that which is objected, that a clearer cognition of the creature does not prejudice the Creator, therefore etc.; it must be said that the case is not similar, since the clarity of cognition is not in our power, but the ardor of affection is in our power; therefore it is required of us that we order this latter, not that former[^13]. Some act of cognition, however, is in our power, namely the act of faith, by which if anyone assent to the first truth on account of another, he indeed prejudices the truth, just as to love on account of another [prejudices] goodness.
 
@@ -186,3 +186,9 @@ Thirdly, it having been shown whether every created thing is to be used and[^1] 
 [^16]: **La.** Ex mss. et ed. 1 substituimus *in* loco *ad*. — De hoc secundo responsionis membro vide supra q. 1. circa principium conclusionis.
 
     **En.** From the mss. and ed. 1 we have substituted *in* in place of *ad*. — On this second member of the response see above q. 1. near the beginning of the conclusion.
+
+---
+
+## Notes
+
+- **J4 Class C disposition (2026-07-17):** The chunk carried a stray `[^?]` marker in both bodies at "...aut ut causam[^?] moventem; et sic est malus mercenarius[^12]..." — a transcription-uncertainty placeholder, not a real footnote reference (16 real defs `[^1]`–`[^16]` are otherwise fully paired). Checked against the printed page: extracted p.35 (Vol I pt.1, `pdf = printed + 102`) at 450 dpi and confirmed by close crop that the print shows **no superscript numeral anywhere near "causam moventem"** — the only superscript on that line of print is the "²" that already anchors `[^12]` after "mercenarius". So `[^?]` had no printed counterpart at all; it was a stray artifact, not an OCR-illegible footnote number. Removed the `[^?]` token from both the Latin and English bodies (marker only — no other Latin/English wording touched). Apparatus count remains 16 defs / 16 Latin anchors / 16 English anchors, fully paired.
