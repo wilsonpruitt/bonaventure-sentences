@@ -4,307 +4,187 @@ volume: 4
 book: 4
 distinctio: 42
 type: littera
-line_start: 92080
+title_la: "Distinctio XLII — De cognatione spirituali et legali (textus Magistri)"
+title_en: "Distinction XLII — On spiritual and legal kinship (the Master's text)"
+printed_pages: [864, 865, 866, 867]
+pdf_pages: [884, 885, 886, 887]
+line_start: 92045
 line_end: 92362
-word_count_latin: 2182
-transcription_status: "auto-chunked 2026-06-16"
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 864–867"
+has_apparatus: true
+has_scholion: false
+transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR (raw L92045–92362) + p.864–867 PDF bands, literal English, apparatus incl. claimed p.864 NOTAE (2026-07-17)"
 format_version: 1
 ---
 
-# bon-sent-IV-d42-littera
+# d.42 littera
+## *Distinctio XLII — De cognatione spirituali et legali (textus Magistri)*
+
+---
 
 ## Latin
+<!-- page 864 -->
 
-DISTINGTIO XLII.                                                                                                    865
-
-        sunt sociali, verbi gralia, uxor                                            fiiii   fratris                    mei, quae              cum eodem                 viro       copulaii.       Quos ideo coniungi posse
-        non         est tle            genere meo, per ipsum qui esl de genere                                                                deceruimus, quia secundum canones sacros, nisi am-
-ingo.   meo,             milii affinis               facta est,           et        ego     illi».             «       Spiritnalis            borum consensu, nullius religiouis obtcntu debet coniux
-        proximitas est inler compatreni et commatrem, ct                                                                            in-       dimiltere              coniugem, cum Apostolus praecipiat                                    :     No-
-        ter eos               quorum unus allerum de sacro lonte levavit,                                                                     lile    fraudare invicem, nisi forte ex consensu ad tem-
-        vel         in    catechizatione                 ,    aut        confirmalione                             tenuit.          Est       pus »           etc.   Item:     «   Diclum       est nobis,          qnasdam feminas canon.
-        etiam inter                    lilios    eiusdcm hominis carnales                                               et       spiri-       desidiose,              quasdam vero              fraudulenter, ut a                  viris        suis
-        tuales »                                                                                                                              separentur, proprios                         coram cpiscopis ad confir-
-                                                                                                                                                                                       filios
-
-                                                                                                                                              mandum tenuisse.                      Unde nos dignum duximus, ut, si
-                                                             Cap.        II.                                                                  qua mulier filium suum desidia,aut fraude aliqua co-
-                                                                                                                                              ram episcopo tenueril ad confirrnandum propter fal-                          ,
-
-
-                                            Qui sint filii spiriluales.                                                                       laciam vel fraudem, quamdiu vival, poenitenliam agat;
-                                                                                                                                              a viro tamen suo non separetur ». Ilem loannes Papa': loannes.
-                    «    Spirituales            filii        sunt        quos de sacro fonte leva-                                            «    Ad limina beali   homo, nomine Stephanus, ve-
-                                                                                                                                                                                    Pelri
-mns.    mus, vel                  in    calechizatione seu confirmatione tenemus.                                                                                              quod filium suum iu
-                                                                                                                                              niens, nostro praesulalui innoluit,
-        Filii       etiam et                filiae    spirituales              corum sunt, qui                                   trinae       extremo vitae positum, necdum baptismi unda lotum,
-        mersionis vocabulo eos sacro baptismate tingunt. Dici-                                                                                absentia sacerdotum cogente, baptizavil eumqne pro-
-        tur eliam                  .spiritualis         filia    sacerdotis                  quae                  ei     peccala             priis       manibus         suscepit.           Alque pro huiusmodi negotio
-ihns.   sua confitetur * ».                      Unde Symmachus Papa ^:                                                  «   Omnes            reverentia tua praefalum homincm a sua coniuge iu-
-        quos         in pocnitentia                   suscipimns                ,    ita     noslri                spirituales                dicavit esse separandum. Quod fieri nullatenus debet,
-        sunt         filii    ,    ut et ipsi           quos, vel nobis suscipienlibns,                                                       dicente Scriptura: Quod Deus coniunxil horno non se-
-        vel     sub Irinae mersionis vocabnlo mergentibus, unda                                                                               parel ; et Dominus non dimittere uxorem nisi causa
-        baptismi regeneravit. Silvester eliam                                                 admonet, ut ad                                  fornicalionis iubct. Et nos tanla auctorilate freti, dici-
-     suam poenitentialem nullus sacerdos accedat quia                                                                        ,
-                                                                                                                                              mus, dimitlendum esse, et iuculpabile iudicandum
-     scriptum est: Omnes quos in poenilentia accipimus, ita                                                                                   quod necessitas intulit. Nam baplizandi opus laicis
-nns. nostri filii sunt, ut in baptismo suscepti » « quorum                                                     ;                              fldelibus, si tamen necesse fueril, libere conceditur.
-     omnium flagitiosa est commixtio ». « Qhod autem com-                                                                                     Unde si supradictus homo filium morientem aspiciens,
-ogo. pater et commater sibi iungi nequeant, nec pater spi-                                                                                    uc     animam perpeluo perire dimitlcret, unda baptismi
-        ritualis vel                   maler flliae vcl                 filio       spirituali,                ex Concilio                    lavit, ut eum de potestate morlis eriperet; bene fecisse
-non.    Maguntinensi docetur^»:      De eo quod interrogasti        «                                                                         laudatur. Ideoque suae uxori sibi iam olim legitime
-        si aliquis filiolam suam duxerit uxorem, et de eo qui                                                                                 sociatae impnue, dum vixerit, iudicamus manere con-
-        concubuit cum                         niatre spirituali,                     et     de eo qui                            filium       iunctum nec ob hoc separari debere ».          His aliis-                        —
-        suum baptizavit, et uxor eius eum de                                                           fonle suscepit                         que pluribus auctoritatibus edocetur, coniuges non esse
-        hac catisa, ut dissidium fieret coniugii, si post in lali                                                                             separandos, si post legitimam copulam alter allerius
-        copula possunt permanere; sic respondendum est: si                                                                                    filium de fonle levat, vel in confiru)alionc tenet.
-        filiolam aut commalrem                                suam aliquis in coniugium du-                                                              His autem obviare videtur, quod Deiisdedit Papa " Deusdedit.
-        xerit, separandos esse iudicamus et gravi                                                                  poenilentig                ait:        «    Pervenit        ad nos diaconus                   sanctilalis           vestrae
-        plectendos. Si vero coninges legitimi, unus vel ambo,                                                                                 epistolam              deferens,         quod          quidam         viri       ct    mulieres
-        ex induslria hoc fecerint                               ,       ut      filium            suum de                        fonte        praeterito sabbato paschali                            pro     magno populi iucnrsu
-        susciperent;                   si    innupti         manere voluerint, bonum                                              esl         nescientes              filios   suos suscepissent de                     lavacro.           Cupis
-        sin autem, gravis poenitentia insidialori iniungalur, et                                                                              ergo scire, an propter                          hoc debeant           viri       ac mulieres
-        simul mancant; et si praevaricalor coniugii supervixe-                                                                                ad propritim usuni redire, vel non. Nos vero hac re
-        rit,    aceri'ima poenitentia mulctetur et sine spe coniu-                                                                            moesti priorum inquisivimus dicla                                et   iiivenimus             iii       ar-
-        gii  maneat».                   —
-                          Ex his apparet, quod aliquis filiolam                                                                               chivis apostolicae Sedis, iam talia contigisse in pluri-
-        suam vel commalrem non potesl sibi copulare nuptia-                                                                                   bus Ecclesiis, quarum episcopis ab hac apostolica Sede
-        liter; et si praesnmtum fuerit, separandi sunt. Qui au-                                                                               volenlibus scire, iitrum viri ac mulieres redirent ad
-        tem legitiine coniuncli sunt, non ideo separandi sunt,                                                                                proprium torum; bcatae memoriae sancli Patros lulius,
-        quia alter eorum insidiose filium de                                                 fonte ievavit.                         —         Innocentius et Caelestinus cum episcoporum plurimo-
-ans.    Quod etiam Nicolaus* confirmat dicens:                                                             «   Nosse              desi-       rum consensu in Apostolorum principis Ecclesia, pro-
-        deras, nlrum mulier, quae                                       viri        filium        ex alia fcmina                              hibentes talia, rescripscrunt et confirmaverunt, ut nullo
-        genitum de sacro fonte levaverit, postmodum possit                                                                                    modo se in coniugio reciperent miilieres ac viri, qui-
+### DISTINCTIO XLII.
 
+### Cap. I. *De spirituali cognatione.*
 
+De parentalium graduum famosa quaestione aliquid, licet minus sufficienter, diximus. Iam de spirituali cognatione addamus, quae etiam personas impedit, ut non sint legitimae ad ineundas nuptias. « Tria[^p864-1] quaedam sunt: consanguinitas, affinitas et spiritualis germanitas. Consanguinitas est inter eos qui iunguntur secundum lineam generis. Affinitas inter eos qui genere quidem non sunt coniuncti, sed mediante genere
+<!-- page 865 -->
+sunt sociati, verbi gratia, uxor filii fratris mei, quae non est de genere meo, per ipsum qui est de genere meo, mihi affinis facta est, et ego illi ». « Spiritualis proximitas est inter compatrem et commatrem, et inter eos quorum unus alterum de sacro fonte levavit, vel in catechizatione, aut confirmatione tenuit. Est etiam inter filios eiusdem hominis carnales et spirituales ».
 
+### Cap. II. *Qui sint filii spirituales.*
 
-                '    Gratian. siiper C.                 Ad limina (7.), C. 30. q.                              \   ;    cfr.     Hugo,               5    Can.       Ad limina (7.), ibid.           ;   et titanlur iMatlli.        19, 3; 6,
-        Sum. loc. cit.                                                                                                                        32.   —     Vat.       cum edd. i,        -5,   9 pro dimittendum esse                 (i.   e.    non
-                -    Can. Omties quos                   {%.),   ibid.          Plurimae edd.                           anle 'poeni-           inquietandum) non dimitlendam esse,                            scilicet   iixorem.
-        tentialcm addunt fitiam. Seq. locus est Gratiani loc.                                                           cil.                         «    Can. Pervenit            ad nos {\.), ibid. De explicaiione et abro-
-               3     Hugo, Sum. Sent.                   loc.    cit.          Pro Maguntinensi Hugo                                  et       gatione liuius canonis                cfr. C. Qui spirilualem (4.), ibid. q. 4.
+« Spirituales filii sunt quos de sacro fonte levamus, vel in catechizatione seu confirmatione tenemus. Filii etiam et filiae spirituales eorum sunt, qui trinae mersionis vocabulo eos sacro baptismate tingunt. Dicitur etiam spiritualis filia sacerdotis quae ei peccata sua confitetur[^p865-1] ». Unde Symmachus Papa[^p865-2]: « Omnes quos in poenitentia suscipimus, ita nostri spirituales sunt filii, ut et ipsi quos, vel nobis suscipientibus, vel sub trinae mersionis vocabulo mergentibus, unda baptismi regeneravit. Silvester etiam admonet, ut ad suam poenitentialem nullus sacerdos accedat, quia scriptum est: Omnes quos in poenitentia accipimus, ita nostri filii sunt, ut in baptismo suscepti »; « quorum omnium flagitiosa est commixtio ». « Quod autem compater et commater sibi iungi nequeant, nec pater spiritualis vel mater filiae vel filio spirituali, ex Concilio Maguntinensi docetur[^p865-3] »: « De eo quod interrogasti, si aliquis filiolam suam duxerit uxorem, et de eo qui concubuit cum matre spirituali, et de eo qui filium suum baptizavit, et uxor eius eum de fonte suscepit hac causa, ut dissidium fieret coniugii, si post in tali copula possunt permanere; sic respondendum est: si filiolam aut commatrem suam aliquis in coniugium duxerit, separandos esse iudicamus et gravi poenitentia plectendos. Si vero coniuges legitimi, unus vel ambo, ex industria hoc fecerint, ut filium suum de fonte susciperent; si innupti manere voluerint, bonum est; sin autem, gravis poenitentia insidiatori iniungatur, et simul maneant; et si praevaricator coniugii supervixerit, acerrima poenitentia mulctetur et sine spe coniugii maneat ». — Ex his apparet, quod aliquis filiolam suam vel commatrem non potest sibi copulare nuptialiter; et si praesumtum fuerit, separandi sunt. Qui autem legitime coniuncti sunt, non ideo separandi sunt, quia alter eorum insidiose filium de fonte levavit. — Quod etiam Nicolaus[^p865-4] confirmat dicens: « Nosse desideras, utrum mulier, quae viri filium ex alia femina genitum de sacro fonte levaverit, postmodum possit eodem viro copulari. Quos ideo coniungi posse decernimus, quia secundum canones sacros, nisi amborum consensu, nullius religionis obtentu debet coniux dimittere coniugem, cum Apostolus praecipiat: *Nolite fraudare invicem, nisi forte ex consensu ad tempus* » etc. Item: « Dictum est nobis, quasdam feminas desidiose, quasdam vero fraudulenter, ut a viris suis separentur, proprios filios coram episcopis ad confirmandum tenuisse. Unde nos dignum duximus, ut, si qua mulier filium suum desidia, aut fraude aliqua coram episcopo tenuerit ad confirmandum, propter fallaciam vel fraudem, quamdiu vivat, poenitentiam agat; a viro tamen suo non separetur ». Item Ioannes Papa[^p865-5]: « Ad limina beati Petri homo, nomine Stephanus, veniens, nostro praesulatui innotuit, quod filium suum in extremo vitae positum, necdum baptismi unda lotum, absentia sacerdotum cogente, baptizavit eumque propriis manibus suscepit. Atque pro huiusmodi negotio reverentia tua praefatum hominem a sua coniuge iudicavit esse separandum. Quod fieri nullatenus debet, dicente Scriptura: *Quod Deus coniunxit homo non separet*; et Dominus non dimittere uxorem nisi causa fornicationis iubet. Et nos tanta auctoritate freti, dicimus, dimittendum esse, et inculpabile iudicandum quod necessitas intulit. Nam baptizandi opus laicis fidelibus, si tamen necesse fuerit, libere conceditur. Unde si supradictus homo filium morientem aspiciens, ne animam perpetuo perire dimitteret, unda baptismi lavit, ut eum de potestate mortis eriperet; bene fecisse laudatur. Ideoque suae uxori sibi iam olim legitime sociatae impune, dum vixerit, iudicamus manere coniunctum nec ob hoc separari debere ». — His aliisque pluribus auctoritatibus edocetur, coniuges non esse separandos, si post legitimam copulam alter alterius filium de fonte levat, vel in confirmatione tenet.
 
-        cod. Erf. Iiabent                   Maguntiensi ,               ed.     8    Moguntinensi.                           Sequens          el C. Marlinus (4.),             X. de Cognatione spiril. (lib. IV. tit. 1                   1   .).
-                                                                                                                                                                                                                                                     —
-        can. huius Concilii est ibid. et C. De eo                                    quod         interrogastis (5),                          Post archivis edd. plurimae                     et     codd.    BCE addunt glossando
-        ibid.Cfr.C. KeTOen«(6.), X. deCognationespirituali(lib. IV.tit. \ I.).                                                                id    est   armariis; deinde Vat.                 et       plurimno edd.         falso       praesi-
-                •    Can.         Nosse desideras               (3.),          C.    30. q.        1   ;       ubi       cilatur        I.    dentes pro proliibentes ; denique pro rescripserunt ed. 8                                          cum
-        Cor. 7, 5. Seq. locus est C. Dicttim est                                          (i.),    Ibid.                                      canone praescripserunt.
+His autem obviare videtur, quod Deusdedit Papa[^p865-6] ait: « Pervenit ad nos diaconus sanctitatis vestrae epistolam deferens, quod quidam viri et mulieres praeterito sabbato paschali pro magno populi incursu nescientes filios suos suscepissent de lavacro. Cupis ergo scire, an propter hoc debeant viri ac mulieres ad proprium usum redire, vel non. Nos vero hac re moesti priorum inquisivimus dicta et invenimus in archivis apostolicae Sedis, iam talia contigisse in pluribus Ecclesiis, quarum episcopis ab hac apostolica Sede volentibus scire, utrum viri ac mulieres redirent ad proprium torum; beatae memoriae sancti Patres Iulius, Innocentius et Caelestinus cum episcoporum plurimorum consensu in Apostolorum principis Ecclesia, prohibentes talia, rescripserunt et confirmaverunt, ut nullo modo se in coniugio reciperent mulieres ac viri, qui-
+<!-- page 866 -->
+cumque hac ratione susceperint natos, sed separarent se, ne, suadente diabolo, tale vitium inolescat ». Item[^p866-1]: « Si quis filiastrum vel filiastram suam ante episcopum tenuerit ad confirmationem, separetur ab uxore sua et aliam nunquam accipiat ». — Haec autem vel ad terrorem dicta sunt, non quia ita esset faciendum, sed ne illud fieret, summopere cavendum; vel de illis est intelligendum, qui prius filios suos vicissim de fonte susceperunt, quam fierent coniuges. — Praemissis autem auctoritatibus omnino consentiendum est, ut « sive proprium, sive tantum viri filium mulier de fonte susceperit, non ideo a viro separetur; quod et de viro similiter oportet intelligi ».
 
-                          S.      Bonav.        — Tom.          IV.                                                                                                                                                            109
-                                                                                                                           ,
+### Cap. III. *De copula spiritualium, vel adoptivorum et naturalium filiorum.*
 
+Quod autem spirituales, vel adoptivi filii naturalibus copulari nequeant, Nicolaus Papa[^p866-2] testatur, ita inquiens: « Ita diligere debet homo eum qui se suscepit de sacro fonte, sicut patrem. Inter fratres et filios spirituales gratuita et sancta communio est, quae dicenda non est consanguinitas, sed habenda spiritualis proximitas. Unde inter eos arbitror non posse fieri legale coniugium, quia nec inter eos qui natura, et eos qui adoptione filii sunt, venerandae leges matrimonia contrahi permittunt. Item, si inter eos non contrahitur matrimonium, quos adoptio iungit, quanto potius a carnali oportet inter se contubernio cessare quos per caeleste Sacramentum regeneratio sancti Spiritus iungit »?
 
+### Cap. IV. *De copula filiorum, qui ante compaternitatem vel post nati sunt.*
 
+Hoc autem quidam volunt intelligere de illis tantum filiis, quibus compatres facti sunt; de aliis vero, qui ante compaternitatem vel post geniti sunt, concedunt, quod legitime et licite iungi possunt. Quibus videtur consentire Urbanus secundus[^p866-3] dicens: « Super quibus consuluit nos tua dilectio, hic videtur respondendum, ut baptismus sit, si, instante necessitate, femina puerum in nomine Trinitatis baptizaverit, et quod spiritualium parentum filii vel filiae ante vel post compaternitatem genitae possunt legitime coniungi praeter illam personam, qua compatres sunt effecti ». Paschalis vero secundus[^p866-4] post compaternitatem genitos copulari prohibet, scribens Rhegino episcopo: « Post susceptum filium de fonte vel filiam spiritualem qui ex compatre vel ex commatre fuerint nati matrimonio coniungi non possunt ». — Illud etiam notandum est, quod in Tiburiensi Concilio legitur: « Si quis suae spiritualis commatris filiam fortuito, et ita contingente rerum casu, in coniugium duxerit, consilio maturiori servato, habeat atque legitimo connubio honeste operam det ».
 
-                 866                                                                                  SENTENT[\RUM LIB. IV.
+### Cap. V. *Si cui liceat duas commatres ducere, alteram post alteram.*
 
-                 cumqiie hac ralione susceperint natos, sed separarenl                                                                          commatris filiam forluilo, et ila contingenle
-                                                                                                                                      spiritualis
-                                                                                                                                                                                                                                                          j
+Solet etiam quaeri, si commatrem uxoris post eius obitum quis ducere valeat. De hoc Nicolaus Papa[^p866-5] sic scribit: « Sciscitatur a nobis sanctitas vestra, si quis duas commatres habere valeat unam post alteram. In quo meminisse debes, scriptum esse: *Erunt duo in carne una.* Cum igitur constet, quod vir et mulier una caro efficiuntur; restat, virum compatrem constitui illi mulieri, cuius assumta uxor commater erat; et ideo virum illi feminae non posse coniungi, quae commater eius erat, cum qua idem fuerat una caro effectus ». Huic autem illud contrarium videtur: « Qui spiritualem habet compatrem, cuius filium de lavacro accepit, et eius uxor commater non est, licet ei, defuncto compatre suo, eius viduam ducere in uxorem; quos nulla generatio spiritualis secernit ». Item, ex epistola Paschalis Papae: « Post uxoris obitum cum commatre uxoris coniugio copulari, nulla videtur ratio vel auctoritas prohibere. Non enim per carnis unionem ad unionem spiritus pertransitur ». — Sed sciendum, quod « auctoritas Nicolai de illo agit, qui uxori suae debitum reddidit, postquam commater illius exstitit. Aliae vero auctoritates de illo agunt, cuius uxor, postquam a viro suo derelinquitur, illius commater efficitur nec post compaternitatem a viro suo cognoscitur »; vel de illo potius agunt, cuius uxor ante defungitur, quam ab eo cognoscatur.
 
+### Cap. VI. *Si vir et uxor simul valeant tenere puerum.*
 
+Solet etiam quaeri, si uxor cum viro simul debeat in baptismo suscipere puerum. De hoc Urbanus[^p866-6] ait: « Quod uxor cum marito in baptismo simul non debeat suscipere puerum, nulla auctoritate invenitur prohibitum; sed ut ipsa puritas spiritualis paternitatis ab omni labe et infamia conservetur immunis, decrevimus, ut utrique simul ad hoc aspirare non praesumant. Quia vero piaculare flagitium commisit qui duabus commatribus velut sororibus nupsit, magna poenitentia debet ei iniungi ».
 
+### Cap. VII. *De secundis et tertiis et deinceps nuptiis.*
 
-          se, ne, suadeiile diabolo, tale vitium inolescat». Ilem
-                                                                                                                                ':    rerum casu, iu coniugium duxerit, consilio maturiori
-   canon. « Si quis filjaslrum vel fdiastram suam ante
-                                                             episco-                                                                  servalo , habeat atque legitimo couuubio houesle ope-                                                              j
-                 puni lenuerit ad confirmaliouem, separelur ab u.xore                                                                 ram det ».
-                                                                                                                                                                                                                                                         |
-                 sua et aliam uunqnam accipiat».     Haec autem vel ad          —                                                                                                     Cap. V.
-                 terrorem dicta sunt, non quia ila esset faciendum, sed                                                                                                                                                                                   ;
+Sciendum est etiam, quod non solum primae vel secundae nuptiae sunt licitae, sed etiam tertiae et
+<!-- page 867 -->
+quartae non sunt damnandae. Unde Augustinus[^p867-1]: « Secundas nuptias omnino licitas Apostolus concedit ». « De tertiis autem et quartis et de ultra pluribus nuptiis solent homines movere quaestionem. Sed quis audeat definire quod nec Apostolum video definisse? Ait enim: *Si dormierit vir eius, cui vult nubat.* Non dicit: primus, vel secundus, vel tertius, vel quotuslibet; nec nobis definiendum est quod non definit Apostolus. Unde ut breviter respondeam, nec illas nuptias debeo damnare, nec eis verecundiam numerositatis auferre, nec contra humanae verecundiae sensum audeo dicere, ut, quoties voluerint, nubant, nec ex meo corde praeter Scripturae auctoritatem quotaslibet nuptias damnare ». Item testatur Hieronymus[^p867-2]: « Ego nunc libera voce exclamo, nec damnari in Ecclesia bigamiam, immo nec trigamiam; et ita licere quinto et sexto, quemadmodum secundo marito nubere ». — Apostolus tamen bigamos a sacerdotali honore excludit. Sed hoc non facit pro vitio bigamiae, immo pro Sacramenti virtute, ut sit una unius, sicut unica unici. — Illud tamen Caesariensis Concilii[^p867-3] videtur innuere, bigamiam esse peccatum: « Presbyterum, inquit, in nuptiis bigami prandere non convenit, quia, cum poenitentia bigamus indigeat, quis erit presbyter, qui talibus nuptiis possit praebere consensum »? Sed hoc de illo intelligi potest, qui primae uxori insidiatus putatur desiderio secundae; vel pro signaculo Sacramenti illud dicitur, quod in bigamo non servatur. Ambrosius[^p867-4] etiam dicit, quod « primae nuptiae tantum a Domino sunt institutae, secundae vero sunt permissae; et primae nuptiae sub benedictione Dei celebrantur sublimiter, secundae vero etiam in praesenti carent gloria ».
 
-
-
-
-                 nc   iilud      ficret,       summopere cavendum;                             vel        de       iliis       est
-                                                                                                                                             Si cui liceal duas commatres ducere, alteram                                                                 \
-
-
-                 inlelligendum, qui prius                       filios      suos       vicissim de                      fonte
-                                                                                                                                                                               post alteram.
-                 susccperunt,              quam fierent couiuges.                      — Praemissis au-                                                                                                                                                  j
-                                                                                                                                                                                                                                                         fi
-
-
-
-Graiianns.       lem aucloritatibus omnino consenliendum est, ut « sive                                                                      Solet etiam quaeri,commatrem uxoris post eius
-                                                                                                                                                                                       si
-
-                 proprium, sive tanlum viri fllium mulier de fonte su-                                                                obitum quis ducere valeat. De hoc Nicolaus Papa ^ sic Nicoiai
-                 sceperit, non ideo a viro separelur; quod et de viro                                                                 scribit:     «    Sciscitalur              a uobis sanctitas                   veslra,        si        quis
-                 simililer oporlet inlelligi».                                                                                        duas commalres habere valeat uuam post alleram. In
-                                                                                                                                      quo memiuisse debes, scriptum esse: Erunt duo in
-                                                         Cap.       III.                                                              carne una. Cum igilur conslel, quod vir et mulier una
-                                                                                                                                      caro efficiuulur; restat, virum compatrem coustilui                                                      illi
-
-                              De copula spinliialiimi , vel adoptivorum                                                               mulieri, cuius assumla uxor     commater erat; et ideo
-                                               et   naluralium filiorum.                                                              virum illi feminae non posse couiungi, quae comma-
-                                                                                                                                      ler eius erat, cum qua idem fuerat uua caro effectus».
-
-                       Quod aulem spiriluales, vel adoptivi filii                                                  naturali-               Huic aulem illud conlrai'ium videtur: « Qui spiri- caaoa]
- Nicoiaus. Ihis        copulari nequeant, Nicolaus Papa^ testatur, ila                                                         in-    tualem habet compalrem, cuius filium de lavacro ac-
-                 quiens: « Ila diligere debet                       homo eum qui se suscepit                                          cepit, et eius iixor commater non est, licet ei, defuncto                                                           )
-
-
-
-
-                 de sacro foute, sicut jja.trem. Inler fralres et                                           fllios spi-               compalre suo, eius viduam ducere in uxorem quos                                                ;
-
-
-
-                 riluales gratuila et sancta communio est, quae dicenda                                                               nulla geueratio spiritualis secernit». ftem,ex epistola
-
-                 non     est consanguinitas, sed                         habenda spiritualis proxi-                                   Paschalis Papae « Posl uxoris obilum cum commalre Pascin
-                                                                                                                                                                     :
-
-
-
-
-                 mitas.        Unde inler eos             arbitror uon posse                              fieri         legale        uxoris couiugio copulari, uulla videtur ralio vel auclori-
-                 coniugium, quia uec                    inter eos qui uatura, et eos qui                                              tas pi'ohibei'e. Non                     euim percarnis uniouem ad unionem
-                 adoptione             filii   sunl, venerandae leges matrimonia con-                                                 spiritus perlrausilur ».                        —
-                                                                                                                                                                                      Sed sciendum.-quod « aucto- Gratia
-                 trahi permittunt. Ilem, si inter eosuon conlrahitur ma-                                                              rilas Nicolaide illo agit, qui uxori suae debitum red-
-                 trimonium, quos adoptio iungit, quanlo polius a car-                                                                 didit, postquam coinmaler illius exstilit. Aliae vero au-                                                           ;
-
-
-
-
-                 uali oporlet iuler se conlubernio cessare quos per cae-                                                              cloritales        de        illo   agunt, cuius uxor, postquam a                                        viro
-                 leste       Sacramentum regeneratio sancti Spiritus iungit»?                                                         suo derelinquilur,                       illius       commater           efficilur           nec post
-                                                                                                                                      compaternilalem a viro suo coguoscitur»                                          ;     vel    de         illo       |
-
-
-
-
-                                                          Cap. IV.                                                                    potius aguul, cuius uxor ante defungitur, quam ab eo                                                                '•
-
-
-
-
-                                                                                                                                      cognoscatur.                                                                                                        1
-
-
-
-
-                       De copula filiormn, qui ante compaternitatem                                                                                                                                                                                       i
-                                                                                                                                                                                                                                                          '
-
-
-                                                                                                                                                                                      Cap. VI.
-                                                    vel post naii sunt.
-                                                                                                                                                                                                                                                          '
-
-
-
-
-                                                                                                                                              Si vir         et    uxor simul valeanl tenere puerum.
-                         Hoc aulem quidam volunl                                inlelligere            de          illis       lan-
-                 tum         flliis,    quibus compalres                 facli        sunt; de             aliis        vero,                Solet etiam quaeri, si uxor cum viro simnl debeat
-                 qui anle compaternilatem vel post geniti sunt, conce-                                                                 in   baptismo suscipere puerum. De hoc Urbauus ait urbai                                          '^
-                                                                                                                                                                                                                                                     :
-
-
-
-             .   dunt, quod legitime et                    licite        iuugi possunt. Quibus vi-                                     « Quod uxor cum marito iu haplismo siinul uon de-
-  urbanus. detui'              conseutirc Urbanus secuudus " diceus                                            :    «   Super          beat suscipere puerum, nulla aucloritate inveuitur pro-                                                            \
-
-
-                 quibus consuluit nos lua dileclio, hic videtur respou-                                                                hibilum; sed ut ipsa purilas spiritualis palernilalis ab                                                           i
-
-
-
-
-                 dendum          ,     ut baptismus sit, si, iustanle necessitate, fe-                                                 omni labe             et     infamia             conservelur immunis, decrevi-                                     \
-
-
-
-
-                 mina i)uerum in uomine Trinilalis baplizaverit, el quod                                                               raus, ut utrique simul    hoc aspirare uon praesu-
-                                                                                                                                                                                        ad                                                               \
-
-                 spiritualium pareutum filii vel filiae ante vel post com-                                                             mant. Qnia vero piacnlarc flagitium commisit qui dua-
-                 palernitatem genitae possunt legilime couiungi praeter                                                                bus commatribus velut sororibns nupsit, magiia poe-
-                  personam, qua compatres sunt elTecti».
-                 illam                                                                                                                 nileutia debet               ei    iniuugi».                                                                      i
-                 Paschalis vero secundus      post compaternilatem         •*
-
-
-
-
-                                                                                                                                                                                      Cap. VII.
- Paschaiis. genitos copulai'i prohibet, scribeus Rhegino episcopo:
-
-            « Posl suscepium filium de fonte vel filiani spirilualem
-                                                                                                                                                  De secundis                   et   lertiis el        deinceps nuptiis.
-                 qui ex compatre vei ex                         commalre fuerint                          nali matri-
-                 mouio couinngi uon possuul».     Illud etiam nolandum     —                                                                  Sciendum              est eliam,                quod     uoii    sohim primae                     vel
-    Canon. est,      quod iu Tiburicusi Coucilio legitur: «Si quis suae                                                                secnndae          uupliac               sunl         licilae, sed         eliam         lerliae           et
-
-
-
-
-                         1    Can. Si quis filiastrmn               (2.),       C. 30.         q.    I.   — Pro quia                         ^   Can. Sciscitatur a nobis                      (I.),   ibid.    q.    4, ubi respicitur
-                 ita edd., excepla I,               quod ita,     refrag-.intibus codd.                   — Seq. locus                 Gen. 2, 24. Seq. locus esl C. Qui spirilualem                                       (i.),   ibid.;       ter-
-
-                  est Gi-atian.,         super C.     Non dehct (10.), ibid.                                                           lius C.    Post uxoris              (S.),      ibid.   Quae sequuntur sunt ox Graliano
-                         "    Can. lla diligere         (!.),   ibid.      q.    3.    g   I        et 2.                              super     ult.   cnn.  — Cod.      annotat: Cave, quia Magisler hic
-                                                                                                                                                                                     Erf.
-                         3    Can. Super quibus           (4.),     ibid.                                                              non   lenetur.        — De    opinione
-                                                                                                                                                                          ista           Gralianil\Iagistri    et                   efr.       infra
-                         ''
-                              Can. Post susceptum               (-5.),   ibid.        Seq. locus est C. Illud                          Comment.         a.   1.    q.    ,3.
-
-
-                  eiiam       (6.),    ibid.                                                                                                 ^   Can.    Quod autem (6.), ibid.
-                                                                                                       DIST. XLII. ART.                        I.                                                                867
-
-itiDDs.   qiiarlae noii sunl                  damnandae. Unde Aiiguslinus                               '
-                                                                                                             :       «    Se-    quemadmodum secundo marito nubere».                                — Apostohis De        irregoia-
-
-          cundas nuplias omnino                               licilas            Apostolus           concedit».                  tamen bigamos a sacerdotali honore excludit. Sed hoc
-          «    De      autem et quartis et de uitra pluriljus nu-
-                         tertiis                                                                                                 non facit pro vitio bigamiae, immo pro Sacramenti
-          pliis solent homines movere quaestionem. Sed quis au-                                                                  virtute, ut sit          una unius, sicut unica                unici.   —   lllud ta-
-          deat definire quod nec Aposlolum video definisse?Ait                                                                   men Caesariensis Concilii" videtur innuere, bigamiam
-          enim: Si dormierit vir eius, cui vult nubat. Nou                                                                di-    esse peccatum: «Presbyterum, inquit, in nuptiis bi- canon.
-          cit:primus, vel secuudus, vel tertius, vel quotuslil)et;                                                               gami prandere non convenit, quia, cum poenitentia
-          nec nobis defiaiendum esl quod non definit Apostolus.                                                                  bigamus indigeal, quis eril presbyter, qui talibus nu-
-          Unde ut breviter respondeam, nec illas nuptias debeo                                                                   ptiis possit          praebere consensum » ? Sed hoc de illo in-
-          damnare, nec eis verecundiam numerositatis auferre,                                                                    telligi      potest, qui priinae uxori insidiatus putatur de-
-          nec contra humanae verecundiae sensum audeo dicere,                                                                    siderio secundae; vel pro                      signaculo       Sacramenti       illud
-          ut, quoties voluerint, nubant, nec ex meo corde prae-                                                                  dicitur,quod in bigamo non servatur. Ambrosius * Ambrosias.
-          ter            Scripturae        auctoritatem                 quotaslibet                 nuptias da-                  etiam dicit, quod « primae nupliae lantum a Domino
-ymns. mnare».                   Item testatur Hieronymus^:                               «Ego nunc libera                        sunt institutae, secundae vero sunt permissae;                               et pri-
-
-          voce exclamo, nec                        damnari              in        Ecclesia           bigamiam,                   mae nuptiae sub                   benedictione      Dei      celebrantur subli-
-          nimo nec triganiiam;                          et     ita      licere           quinto et sexto.                        miter, secundae vero etiam in praesenti carent gloria ».
-
-
-
-
-                                             COMMEOTAHIUS IN DISTINCTIONEM XLII.
-
-                                           De impedimento matrimonii                                             ,
-                                                                                                                         quod    venit         ex propinquitate                  spirituali.
-
-
-
-
-                                                                       De parentalium graduum famosa quaestione etc.
+---
 
 ## English
+<!-- page 864 -->
 
-[Translation pending]
+### DISTINCTION XLII.
+
+### Chap. I. *On spiritual kinship.*
+
+Concerning the famous question of the degrees of kinship we have said something, though less than sufficiently. Now let us add [something] concerning spiritual kinship, which also impedes persons, so that they are not legitimate for entering into marriages. « There are three things[^p864-1]: consanguinity, affinity, and spiritual brotherhood (*germanitas*). Consanguinity is between those who are joined according to the line of descent. Affinity is between those who indeed are not joined by descent, but through the mediation of descent
+<!-- page 865 -->
+are allied — for example, the wife of my brother's son, who is not of my kindred, [yet] through him who is of my kindred has been made my kinswoman-by-affinity, and I hers ». « Spiritual nearness is between the co-father (godfather) and the co-mother (godmother), and between those of whom one has raised the other from the sacred font, or has held [him] in catechesis or in confirmation. It is also between the carnal and the spiritual sons of the same man ».
+
+### Chap. II. *Who are spiritual sons.*
+
+« Spiritual sons are those whom we raise from the sacred font, or hold in catechesis or confirmation. Their spiritual sons and daughters also are those who, by the name of the threefold immersion, dip them in sacred baptism. She too is called the spiritual daughter of a priest who confesses her sins to him[^p865-1] ». Whence Pope Symmachus[^p865-2]: « All whom we receive in penance are so our spiritual sons, as also [are] those whom — whether while we receive them, or while [they are] immersed under the name of the threefold immersion — the water of baptism has regenerated. Sylvester also admonishes that no priest approach his own female penitent, because it is written: All whom we receive in penance are so our sons as [those] received in baptism »; « of all of whom the intercourse is disgraceful ». « That a co-father and co-mother cannot be joined to each other, nor a spiritual father to the daughter, nor the mother to the spiritual son, is taught from the Council of Mainz[^p865-3] »: « Concerning that which you asked, if someone has taken his goddaughter to wife, and concerning him who has lain with a spiritual mother, and concerning him who baptized his own son, and his wife received him from the font for this cause, that a dissolution of the marriage might be made, whether afterward they can remain in such a union: thus it must be answered: if someone has taken his goddaughter or godmother into marriage, we judge that they must be separated and punished with grave penance. But if legitimate spouses, one or both, have done this on purpose, that they might receive their son from the font; if they wish to remain unmarried, it is good; but if not, let grave penance be enjoined on the plotter, and let them remain together; and if the transgressor of the marriage survives, let him be punished with the sharpest penance and remain without hope of marriage ». — From these things it appears that someone cannot join to himself in marriage his goddaughter or godmother; and if it has been presumed, they must be separated. But those who are legitimately joined are not on that account to be separated, because one of them has craftily raised the son from the font. — Which Nicholas[^p865-4] also confirms, saying: « You desire to know whether a woman, who has raised from the sacred font the son of [her] husband begotten of another woman, may afterward be able to be joined to the same man. We therefore decree that they can be joined, because according to the sacred canons, except by the consent of both, under pretext of no religion ought a spouse to dismiss a spouse, since the Apostle commands: *Do not defraud one another, unless perhaps by consent for a time* » etc. Likewise: « It has been told us that certain women — some slothfully, some indeed fraudulently, in order to be separated from their husbands — have held their own sons before the bishops for confirmation. Whence we have judged it worthy that, if any woman by sloth, or by some fraud, has held her son before the bishop for confirmation, on account of the deceit or fraud, as long as she lives, let her do penance; yet let her not be separated from her husband ». Likewise Pope John[^p865-5]: « To the thresholds of blessed Peter a man, by name Stephen, coming, made known to our prelacy that his son, placed at the extremity of life, not yet washed by the water of baptism — the absence of priests compelling — he baptized and received him with his own hands. And for a matter of this kind your reverence judged that the aforesaid man was to be separated from his wife. Which ought by no means to be done, since Scripture says: *What God has joined let not man separate*; and the Lord bids [us] not to dismiss a wife except for the cause of fornication. And we, relying on so great an authority, say that he must be let go, and that what necessity brought about must be judged blameless. For the work of baptizing is freely granted to lay faithful, if however it be necessary. Whence if the aforesaid man, looking upon his dying son, lest he should let the soul perish forever, washed [him] with the water of baptism, that he might snatch him from the power of death; he is praised as having done well. And therefore we judge that he remains joined with impunity to his wife, long since legitimately allied to him, while he lives, and that he ought not on this account to be separated ». — By these and many other authorities it is taught that spouses are not to be separated, if after a legitimate union the one raises the other's son from the font, or holds [him] in confirmation.
+
+But to this there seems to be opposed [what] Pope Deusdedit[^p865-6] says: « There has come to us a deacon bearing a letter of your holiness, [reporting] that certain men and women, on the past paschal Saturday, on account of a great throng of people, unknowingly had received their [own] sons from the laver. You desire therefore to know whether on this account men and women ought to return to their proper use, or not. But we, saddened by this matter, have inquired into the sayings of our predecessors and have found in the archives of the Apostolic See, that such things have already happened in many Churches, whose bishops, when they wished to know from this Apostolic See whether the men and women should return to their proper bed; the holy Fathers of blessed memory Julius, Innocent, and Celestine, with the consent of very many bishops, in the Church of the prince of the Apostles, forbidding such things, wrote back and confirmed, that in no way should the women and men receive themselves into marriage, who-
+<!-- page 866 -->
+soever had received children in this manner, but should separate themselves, lest, at the devil's persuasion, such a vice grow inveterate ». Likewise[^p866-1]: « If anyone has held his stepson or stepdaughter before the bishop for confirmation, let him be separated from his wife and never take another ». — But these things have been said either for terror — not because it should so be done, but that it might not be done, [and] must be most greatly guarded against; or they are to be understood of those who first received their sons in turn from the font, before they became spouses. — But, the aforesaid authorities being premised, it must be altogether agreed that « whether the woman has received from the font her own son, or only her husband's son, she is not on that account to be separated from her husband; which likewise must be understood of the husband ».
+
+### Chap. III. *On the union of spiritual, or adoptive, and natural sons.*
+
+But that spiritual, or adoptive, sons cannot be joined to natural ones, Pope Nicholas[^p866-2] attests, thus saying: « A man ought so to love him who received him from the sacred font, as [he loves] a father. Between spiritual brothers and sons there is a gratuitous and holy communion, which is not to be called consanguinity, but is to be held [as] spiritual nearness. Whence between them I judge that a legal marriage cannot be made, because neither between those who are sons by nature, nor those who [are sons] by adoption, do the venerable laws permit marriages to be contracted. Likewise, if marriage is not contracted between those whom adoption joins, how much more ought those to cease from carnal cohabitation with one another whom the regeneration of the Holy Spirit joins through the heavenly Sacrament »?
+
+### Chap. IV. *On the union of sons who were born before or after the co-fatherhood.*
+
+But this some wish to understand of those sons only, to whom [the parents] have been made co-fathers; but concerning others, who were begotten before the co-fatherhood or after, they concede that they can be lawfully and licitly joined. To whom Urban the second[^p866-3] seems to consent, saying: « Concerning the matters on which your love has consulted us, here it seems to be answered, that let it be baptism, if, necessity being urgent, a woman has baptized a boy in the name of the Trinity, and that the sons or daughters of spiritual parents begotten before or after the co-fatherhood can be legitimately joined, except that person by whom they were made co-fathers ». But Paschal the second[^p866-4] forbids those begotten after the co-fatherhood to be joined, writing to Bishop Rhegino: « After the reception of a son from the font, or of a spiritual daughter, those who have been born of the co-father or of the co-mother cannot be joined in marriage ». — This too must be noted, which is read in the Council of Tibur: « If anyone [has taken] the daughter of his spiritual co-mother by chance, and, it so happening by the hazard of circumstances, has taken [her] into marriage, a more mature counsel being observed, let him have [her] and honorably give attention to a legitimate wedlock ».
+
+### Chap. V. *Whether it is lawful for anyone to take two co-mothers, one after the other.*
+
+It is also wont to be asked whether anyone may take the co-mother of [his] wife after her death. Concerning this Pope Nicholas[^p866-5] thus writes: « Your holiness inquires of us, whether anyone may have two co-mothers, one after the other. In which you ought to remember that it is written: *They shall be two in one flesh.* Since therefore it is agreed that a man and a woman become one flesh; it remains that the man is constituted co-father to that woman, whose taken wife was co-mother; and therefore that the man cannot be joined to that woman who was his co-mother, with whom the same [man] had been made one flesh ». But to this the following seems contrary: « He who has a spiritual co-father, whose son he received from the laver, and whose wife is not co-mother, it is lawful for him, his co-father being dead, to take his widow in marriage; whom no spiritual generation separates ». Likewise, from a letter of Pope Paschal: « After the death of a wife, to be joined in marriage with the co-mother of the wife, no reason or authority seems to forbid. For one does not pass over through the union of the flesh to the union of the spirit ». — But it must be known that « the authority of Nicholas treats of him who rendered the debt to his wife, after she became co-mother of that [man]. But the other authorities treat of him whose wife, after she is abandoned by her husband, becomes co-mother of that [man] and is not known by her husband after the co-fatherhood »; or they rather treat of him whose wife dies before she is known by him.
+
+### Chap. VI. *Whether a husband and wife may together hold a boy.*
+
+It is also wont to be asked whether a wife with [her] husband ought together to receive a boy in baptism. Concerning this Urban[^p866-6] says: « That a wife with [her] husband ought not together to receive a boy in baptism, is found forbidden by no authority; but that the very purity of spiritual fatherhood may be kept immune from all stain and infamy, we have decreed that both may not together presume to aspire to this. But because he has committed an expiable crime who married two co-mothers as [if] sisters, a great penance ought to be enjoined on him ».
+
+### Chap. VII. *On second and third and thereafter marriages.*
+
+It must also be known that not only first or second marriages are licit, but also third and
+<!-- page 867 -->
+fourth are not to be condemned. Whence Augustine[^p867-1]: « Second marriages the Apostle grants to be altogether licit ». « But concerning third and fourth, and beyond, more numerous marriages, men are wont to raise a question. But who would dare to define what I see not even the Apostle to have defined? For he says: *If her husband has fallen asleep, let her marry whom she wishes.* He does not say: the first, or the second, or the third, or however-many-th; nor is it to be defined by us what the Apostle does not define. Whence, that I may briefly answer, I ought neither to condemn those marriages, nor to take from them the modesty of number, nor against the sense of human modesty do I dare to say, that they may marry as often as they wish, nor out of my own heart, beyond the authority of Scripture, to condemn however-many marriages ». Likewise Jerome[^p867-2] attests: « I now with free voice cry out, that neither is bigamy condemned in the Church, nay nor trigamy; and that it is thus lawful to marry a fifth and a sixth [husband], just as to marry a second husband ». — The Apostle nevertheless excludes bigamists from the priestly honor. But he does this not for the vice of bigamy, but rather for the virtue of the Sacrament, that there may be one [wife] of one [husband], as one [woman] of one [man]. — Yet [that saying] of the Council of Caesarea[^p867-3] seems to intimate that bigamy is a sin: « It is not fitting, it says, for a presbyter to dine at the marriage of a bigamist, because, since a bigamist needs penance, who will be the presbyter who could give consent to such marriages »? But this can be understood of him who is thought to have plotted against his first wife out of desire for the second; or it is said for the seal of the Sacrament, which in a bigamist is not preserved. Ambrose[^p867-4] also says that « first marriages only were instituted by the Lord, but second ones were permitted; and first marriages are celebrated sublimely under the blessing of God, but second ones lack even the glory [that is] in the present ».
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They are Quaracchi's *Notae ad Librum Sententiarum* — the editors' apparatus to the Master's own text. Quaracchi restarts the numbering on each printed page, so the labels here are page-qualified (p864-1, p865-1, …).
+
+[^p864-1]: **La.** Ita codd. et edd. 2, 3, 6, 7, 8 et ipse Hugo, II. de Sacram. p. XI. c. 17, unde sumtae sunt haec propositio et sequentes; in ceteris edd. *quidem.* Seq. locus est eiusdem Sum. Sent. tr. 7. c. 12.
+     **En.** Thus the codices and editions 2, 3, 6, 7, 8, and Hugh himself, *On the Sacraments* [book] II, part XI, c. 17, whence this proposition and the following are taken; in the other editions [it reads] *quidem.* The following passage is from the same author's *Summa Sententiarum,* tract 7, c. 12.
+
+[^p865-1]: **La.** Gratian. super C. *Ad limina* (7.), C. 30. q. 1; cfr. Hugo, Sum. loc. cit.
+     **En.** Gratian on the canon *Ad limina* (7), Causa 30, q. 1; cf. Hugh, *Summa,* at the place cited.
+
+[^p865-2]: **La.** Can. *Omnes quos* (8.), ibid. Plurimae edd. ante *poenitentialem* addunt *filiam.* Seq. locus est Gratiani loc. cit.
+     **En.** The canon *Omnes quos* (8), in the same place. Very many editions add *filiam* before *poenitentialem.* The following passage is Gratian's, at the place cited.
+
+[^p865-3]: **La.** Hugo, Sum. Sent. loc. cit. Pro *Maguntinensi* Hugo et cod. Erf. habent *Maguntiensi,* ed. 8 *Moguntinensi.* Sequens can. huius Concilii est ibid. et C. *De eo quod interrogastis* (5.), ibid. Cfr. C. *Veniens* (6.), X. de Cognatione spirituali (lib. IV. tit. 11.).
+     **En.** Hugh, *Summa Sententiarum,* at the place cited. For *Maguntinensi* Hugh and codex Erf. have *Maguntiensi,* ed. 8 *Moguntinensi.* The following canon of this Council is in the same place, and [so is] the canon *De eo quod interrogastis* (5), in the same place. Cf. the canon *Veniens* (6), [Decretals of Gregory IX] X, *On spiritual cognation* (book IV, tit. 11).
+
+[^p865-4]: **La.** Can. *Nosse desideras* (3.), C. 30. q. 1; ubi citatur I. Cor. 7, 5. Seq. locus est C. *Dictum est* (4.), ibid.
+     **En.** The canon *Nosse desideras* (3), Causa 30, q. 1; where 1 Cor. 7:5 is cited. The following passage is the canon *Dictum est* (4), in the same place.
+
+[^p865-5]: **La.** Can. *Ad limina* (7.), ibid.; et citantur Matth. 19, 5; 6, 32.[?] — Vat. cum edd. 4, 5, 9 pro *dimittendum esse* (i. e. non inquietandum) *non dimittendam esse,* scilicet uxorem.
+     **En.** The canon *Ad limina* (7), in the same place; and Matt. 19:5; 6:32[?] are cited. — The Vatican [edition] with editions 4, 5, 9, for *dimittendum esse* (i.e. [that he is] not to be disturbed) [reads] *non dimittendam esse,* namely the wife.
+
+[^p865-6]: **La.** Can. *Pervenit ad nos* (1.), ibid. De explicatione et abrogatione huius canonis cfr. C. *Qui spiritualem* (4.), ibid. q. 4. et C. *Martinus* (4.), X. de Cognatione spirit. (lib. IV. tit. 11.). — Post *archivis* edd. plurimae et codd. BCE addunt glossando *id est armariis;* deinde Vat. et plurimae edd. falso *praesidentes* pro *prohibentes;* denique pro *rescripserunt* ed. 8 cum canone *praescripserunt.*
+     **En.** The canon *Pervenit ad nos* (1), in the same place. Concerning the explanation and abrogation of this canon cf. the canon *Qui spiritualem* (4), in the same place, q. 4, and the canon *Martinus* (4), [Decretals] X, *On spiritual cognation* (book IV, tit. 11). — After *archivis* very many editions and codices BCE add, by way of gloss, *id est armariis* (that is, in the presses); then the Vatican [edition] and very many editions falsely [read] *praesidentes* for *prohibentes;* finally, for *rescripserunt* ed. 8, with the canon, [reads] *praescripserunt.*
+
+[^p866-1]: **La.** Can. *Si quis filiastrum* (2.), C. 30. q. 1. — Pro *ita* edd., excepta I, *quod ita,* refragantibus codd. — Seq. locus est Gratian., super C. *Non debet* (10.), ibid.
+     **En.** The canon *Si quis filiastrum* (2), Causa 30, q. 1. — For *ita* the editions, except ed. I, [read] *quod ita,* the codices opposing. — The following passage is Gratian's, on the canon *Non debet* (10), in the same place.
+
+[^p866-2]: **La.** Can. *Ita diligere* (1.), ibid. q. 3. § 1. et 2.
+     **En.** The canon *Ita diligere* (1), in the same place, q. 3, §§ 1 and 2.
+
+[^p866-3]: **La.** Can. *Super quibus* (4.), ibid.
+     **En.** The canon *Super quibus* (4), in the same place.
+
+[^p866-4]: **La.** Can. *Post susceptum* (5.), ibid. Seq. locus est C. *Illud etiam* (6.), ibid.
+     **En.** The canon *Post susceptum* (5), in the same place. The following passage is the canon *Illud etiam* (6), in the same place.
+
+[^p866-5]: **La.** Can. *Sciscitatur a nobis* (1.), ibid. q. 4, ubi respicitur Gen. 2, 24. Seq. locus est C. *Qui spiritualem* (4.), ibid.; tertius C. *Post uxoris* (5.), ibid. Quae sequuntur sunt ex Gratiano super ult. can. — Cod. Erf. annotat: *Cave, quia Magister hic non tenetur.* — De ista opinione Magistri et Gratiani cfr. infra Comment. a. 1. q. 3.
+     **En.** The canon *Sciscitatur a nobis* (1), in the same place, q. 4, where Gen. 2:24 is referred to. The following passage is the canon *Qui spiritualem* (4), in the same place; the third, the canon *Post uxoris* (5), in the same place. What follows is from Gratian on the last canon. — Codex Erf. notes: *Beware, because the Master is not held [to be right] here.* — Concerning this opinion of the Master and of Gratian cf. below, the Commentary, a. 1, q. 3.
+
+[^p866-6]: **La.** Can. *Quod autem* (6.), ibid.
+     **En.** The canon *Quod autem* (6), in the same place.
+
+[^p867-1]: **La.** [Augustin.,] De Bono viduitatis, c. 4. n. 6; lib. II. contra Adversar. Legis et Prophet. c. 11. n. 37; C. *Deus masculum* (12.), C. 31. q. 1. Seq. locus est de Bono viduitatis, c. 12. n. 15, ubi citatur I. Cor. 7, 39; C. *Quod si dormierit* (13.), ibid. — Pro *auferre* codd. CD *afferre,* Vat. *inferre,* refragante etiam canone. — Hoc cap. sumtum est ex Hug., Sum. Sent. tr. 7. c. 21.
+     **En.** [Augustine,] *On the Good of Widowhood,* c. 4, n. 6; book II *Against the Adversary of the Law and the Prophets,* c. 11, n. 37; the canon *Deus masculum* (12), Causa 31, q. 1. The following passage is from *On the Good of Widowhood,* c. 12, n. 15, where 1 Cor. 7:39 is cited; the canon *Quod si dormierit* (13), in the same place. — For *auferre* the codices CD [read] *afferre,* the Vatican [edition] *inferre,* the canon also opposing. — This chapter is taken from Hugh, *Summa Sententiarum,* tract 7, c. 21.
+
+[^p867-2]: **La.** [Hieron.,] Epist. 48. (alias 50.) ad Pammachium, n. 18; C. *Aperiant quaeso* (11.), ibid. § 2. — Pro *bigamiam et trigamiam* plurimae edd. *bigamam et trigamam;* codd. AB *digamiam* [et trigamiam] (quod etiam infra ab aliis codd. repetitur). — Deinde respicitur I. Tim. 3, 2.
+     **En.** [Jerome,] Epist. 48 (alias 50) to Pammachius, n. 18; the canon *Aperiant quaeso* (11), in the same place, § 2. — For *bigamiam et trigamiam* very many editions [read] *bigamam et trigamam;* the codices AB *digamiam* [et trigamiam] (which is also repeated below by other codices). — Then 1 Tim. 3:2 is referred to.
+
+[^p867-3]: **La.** Can. *De his* (8.), ibid.
+     **En.** The canon *De his* (8), in the same place.
+
+[^p867-4]: **La.** [Ambros.,] Comment. in I. Cor. 7, 40 (inter eius opera).
+     **En.** [Ambrose,] Commentary on 1 Cor. 7:40 (among his works).
+
+---
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Latin re-set from the IA djvu OCR base (`raw/bonaventure_vol4_raw.txt` L92045–L92362) corrected column-by-column against the 450 dpi PDF column bands (`/tmp/colcrop/vol4-p{864,865,866,867}-{L,R}-{0,1,2}.png`, split x≈1880). English is a fresh literal parallel. Offset `pdf = printed + 20` (864→884 … 867→887). No scholion exists in the *littera* (`has_scholion: false`).
+
+**Page layout (verified from bands).** On **p.864** the upper half of BOTH columns is d.41's Bonaventure commentary (the tail of Dub. II, then Dub. III and Dub. IV), NOT this littera. The `DISTINCTIO XLII.` header, `Cap. I` and its opening (*De parentalium graduum famosa quaestione…*) open lower in the columns — Cap. I begins at the foot of the left column and continues into the right-column foot. The littera then fills BOTH columns of pp.865–866 and the top of both columns of p.867, ending at `…secundae vero etiam in praesenti carent gloria` immediately before `COMMENTARIUS IN DISTINCTIONEM XLII.` (the divisio's territory). Running heads/folios confirmed: `DISTINCTIO XLII.` (p.865), `SENTENTIARUM LIB. IV.` / folio `866` (p.866), `DIST. XLII. ART. I.` / folio `867` (p.867). The `S. Bonav. — Tom. IV.` signature and `109` gathering-mark sit under p.865-R.
+
+**Chapter list.** Seven chapters, all present: Cap. I *De spirituali cognatione*; Cap. II *Qui sint filii spirituales*; Cap. III *De copula spiritualium, vel adoptivorum et naturalium filiorum*; Cap. IV *De copula filiorum, qui ante compaternitatem vel post nati sunt*; Cap. V *Si cui liceat duas commatres ducere, alteram post alteram*; Cap. VI *Si vir et uxor simul valeant tenere puerum*; Cap. VII *De secundis et tertiis et deinceps nuptiis*.
+
+**Footer / apparatus crosswalk (17 entries: p.864 → 1; p.865 → 6; p.866 → 6; p.867 → 4).**
+- **p.864, footer notes 1–4** (`Libr. IV. tit. 18. c. 6`; `Exod. 20, 14; Deut. 5, 18`; `Edd. perperam non est`; `Cfr. Alex. Hal., S. p. II. q. 147-152`) anchor in **d.41's Dub. II–IV commentary** printed above them — **NOT claimed here** (they belong to the d.41 dubia chunk).
+- **★ p.864, `NOTAE AD LIBR. SENTENTIARUM` note 1** (`Ita codd. et edd. 2, 3, 6, 7, 8 et ipse Hugo…`) is the fresh Master's-text apparatus and glosses this littera's marker `« Tria¹ quaedam sunt »` (Cap. I). **Claimed here** as `[^p864-1]`. This is the note the d.41-dubia writer deliberately left unclaimed for this chunk.
+- **p.865** (whole page = littera, footers restart at 1): LEFT-column notes 1–4 (*Ad limina*/`confitetur`; *Omnes quos*/`Symmachus`; *Maguntinensi*/`docetur`; *Nosse desideras*/`Nicolaus`) and RIGHT-column notes 5–6 (*Ad limina*/`Ioannes`; *Pervenit ad nos*/`Deusdedit`). All six claimed as `[^p865-1]`–`[^p865-6]`.
+- **p.866** (whole page = littera): LEFT notes 1–4 (*Si quis filiastrum*/`Item`; *Ita diligere*/`Nicolaus Papa`; *Super quibus*/`Urbanus secundus`; *Post susceptum*/`Paschalis vero secundus`) and RIGHT notes 5–6 (*Sciscitatur a nobis*/`Nicolaus Papa` [Cap. V]; *Quod autem*/`Urbanus` [Cap. VI]). All six claimed as `[^p866-1]`–`[^p866-6]`.
+- **p.867** (littera occupies the top of both columns): the **top footer** notes 1–4 (De Bono viduitatis/`Augustinus`; ad Pammachium/`Hieronymus`; *De his*/`Caesariensis Concilii`; Comment. in I. Cor./`Ambrosius`) anchor in this littera and are **claimed** as `[^p867-1]`–`[^p867-4]`. Note 2 splits across the column rule (its tail — `…codd. AB digamiam … Deinde respicitur I. Tim. 3, 2` — sits in the right-column footer).
+
+**p.867 seam (littera vs divisio).** The littera ends at `…in praesenti carent gloria` (right after Ambrose, Cap. VII). Everything from `COMMENTARIUS IN DISTINCTIONEM XLII. / De impedimento matrimonii… / DIVISIO TEXTUS. / Supra egit Magister de cognatione carnali…` onward belongs to the **divisio** chunk. Accordingly the p.867 **`NOTAE AD COMMENTARIUM`** footnote sequence (its own note 1 `Dist. 34. in Divisione textus`; note 2 `codd. ORS determinantur`; plus the further `Deinde respici… / Can. De his / Comment. in I. Cor. 7, 40 …` block feeding the divisio-body markers `supra¹`, `determinat²`) is **left to the divisio writer** and NOT rendered here.
+
+**Marginalia trimmed** (Quaracchi editorial side-glosses naming the source author, not Lombard's running text): *Hugo, Symmachus, Silvester, Nicolaus, Ioannes, Deusdedit, Canon, Gratianus, Urbanus, Paschalis, Augustinus, Hieronymus, De irregularitate, Ambrosius* (per the d.41 littera convention).
+
+**OCR garbles silently corrected against the bands:** `sociali`→*sociati*; `copulaii`→*copulari*; `Spiritnalis`→*Spiritualis*; `Symmachns`→*Symmachus*; `regeneravit`/`regeneramus` read against band; `Maguntinensi` (retained; variant noted in `[^p865-3]`); `Nicolans`→*Nicolaus*; `praesulatni`→*praesulatui*; `iuiungatur`→*iniungatur*; `couiugii`→*coniugii*; `Rhegino` (as printed); `Tibnriensi`→*Tiburiensi*; `defnncto`→*defuncto*; `bigamiae`/`trigamiam` read against band.
+
+**`[?]` flags.**
+- `[^p865-5]` — the Matthew citation in the p.865-R footer reads `Matth. 19, 5; 6, 32.` in both the band and the OCR. The `6, 32` is an unusual chapter/verse form (the glossed clauses point rather to Matt. 19:6 for *Quod Deus coniunxit* and Matt. 5:32 for the fornication exception), so the printed `6, 32` may be a compressed/mis-set reference. Transcribed as printed and flagged; not silently "corrected."

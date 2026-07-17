@@ -4,132 +4,103 @@ volume: 4
 book: 4
 distinctio: 42
 type: divisio
-line_start: 92363
-line_end: 92470
-word_count_latin: 806
-transcription_status: "auto-chunked 2026-06-16"
+title_la: "Distinctio XLII — Divisio textus"
+title_en: "Distinction XLII — Division of the text"
+printed_pages: [867, 868]
+pdf_pages: [887, 888]
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 867–868"
+has_apparatus: true
+has_scholion: false
+transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR (raw L92363–92470) + p.867–868 PDF bands, literal English, apparatus from OCR footers (2026-07-17)"
 format_version: 1
 ---
 
-# bon-sent-IV-d42-divisio
+# IV Sent., d. 42 — Divisio textus
+## *Commentarius in Distinctionem XLII*
+
+---
 
 ## Latin
+<!-- page 867 -->
 
-DIVISIO TEXTUS.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation, and render the Quaracchi *NOTAE AD COMMENTARIUM* for this distinction.
 
+## COMMENTARIUS IN DISTINCTIONEM XLII.
 
+### *De impedimento matrimonii, quod venit ex propinquitate spirituali.*
 
-                         Supra      egit     Magister              de    cognalione                 carnali. In                  liter       impedit matrimonium,                   ibi:   Quod auteni com-
-          hac parle agit de                    spirituali, et                     continet          haec pars                    pater        et     commater etc. Et illa dividitur in duas. In
-          praesentem distinclionem                            ,
-                                                                   quae potest dividi in duas                                    prima agit de cognatione directa. In secunda vero de
-          partes. In               prima     agit       de cognalione spirituali. In se-                                         indirecta, ibi: Solet eiiam quaeri, si commatrem etc.
+*De parentalium graduum famosa quaestione* etc.
 
-          cunda vero agit de secundis nuptiis, ostendens,                                                                  il-               Prima pars iterum dividitur                    in   duas. In prima
-          las esse licilas;                  quae pars supra                       '
-                                                                                         divisa       fuit           con-        agit,       quomodo cognatio spiritualis impedit in se. In
-          tra totam                praecedentem ;                 et    hoc            facit    ultimo capi-                     secunda vero, in coraparatione ad cognationem lega-
-          tulo:           Sciendum           est    etiam , quod non solum pri-                                                  lem, ibi:           Quod autem spirituales , vel adoptivi filii.
-          mae             vel    secundae nuptiae                      etc.                                                      —      Et ita tria determinat " in hac dislinctione.                             Pri-
+### DIVISIO TEXTUS.
 
-                         Prima pars habet duas. In prima ostendit, qua-                                                          mum est de cognatione spirituali; secundum est de
-          liter spiritualis             cognalio contrahalur. In secunda, qua-                                                   legah, et tertiuiu est de secundis nuptiis.
+Supra egit Magister de cognatione carnali. In hac parte agit de spirituali, et continet haec pars praesentem distinctionem, quae potest dividi in duas partes. In prima agit de cognatione spirituali. In secunda vero agit de secundis nuptiis, ostendens, illas esse licitas; quae pars supra[^1] divisa fuit contra totam praecedentem; et hoc facit ultimo capitulo: *Sciendum est etiam, quod non solum primae vel secundae nuptiae* etc.
 
+Prima pars habet duas. In prima ostendit, qualiter spiritualis cognatio contrahatur. In secunda, qualiter impedit matrimonium, ibi: *Quod autem compater et commater* etc. Et illa dividitur in duas. In prima agit de cognatione directa. In secunda vero de indirecta, ibi: *Solet etiam quaeri, si commatrem* etc.
 
+Prima pars iterum dividitur in duas. In prima agit, quomodo cognatio spiritualis impedit in se. In secunda vero, in comparatione ad cognationem legalem, ibi: *Quod autem spirituales, vel adoptivi filii*. — Et ita tria determinat[^2] in hac distinctione. Primum est de cognatione spirituali; secundum est de legali, et tertium est de secundis nuptiis.
 
+### TRACTATIO QUAESTIONUM.
 
-                                                                                                TRACTATIO QUAESTIONUM.
+Ad intelligentiam huius partis circa tria incidit hic principaliter quaestio, sicut tria sunt, quae Magister determinat.
 
+Primo quaeritur de cognatione spirituali.
 
+Secundo, de cognatione legali.
 
-               Ad intelligentiam huius parlis circa tria incidit                                                                             Primo quaeritur de cognatione spirituah.
-          hic principahter quaestio, sicut tria sunt,quaeMa-                                                                                 Secundo, de cognatione                 legaii.
+Tertio, de secundo foedere nuptiali.
 
-          gister determinat.                                                                                                                 Tertio, de       secundo foedere nuptiali.
-
-
-
-
-                     '   De Bono       viduUatis,       c.    4.   n.   6    ;    lib.   II.   contra Adversar.                  (quod etiam          infra   ab    aliis   codd. repetitur).    — Deinde      respici-
-
-          Legis et Prophel.             c.   II.   n.    37; C. Deus mascutum (12.), C. 31.                                      tur   1.    Tim. 3,     2.
-
-          q.    1.       Seq. locus est de Bono viduitatis, c. 12.                             n.   13, ubi              cita-          3    Can. De his      (8.),    ibid.
-
-          tur    I.      Cor. 7, 39; G.       Quod si dormierit (13.), ibid.                          — Pro au-                         *    Comment. in       I.   Cor. 7, 40 (inter eius opera).
-
-          ferre codd.             CD afferre, \ai. inferre                  ,    refragante ctiam canono.
-          — Hoc               sumtum est ex Hug., Sum. Sent. tr. 7. c. 21.
-                           cap.                                                                                                                          NOTAE AD COMMENTARIUM.
-                     2 Epist. 48. (alias -50.) ad Pammachlum, n. 18; C. Ape-
-          riant quaesu (H.), ibid. §                     2.   —   Pro bigamiam et Irigamiam                                              '   Dist.   34. in Divisione textus.
-          plurimae              edd.   bigamam          et    trigamam; codd. .\ B digamiam                                             2    Codd.      R S delerminantur.
-                                                                                                           SENTENTIARUM LIB. IV.
-
-
-
-                                                                                                                   AUTICULUS I.
-                                                                                                          De cognatione spirituali.
-
-
-                           Quanlum ad primum primo procedamus per modum narrationis; secundo vero per modura inquisitionis.
-
-                                                                                                                         PRAENOTATA.
-
- Via narra                 Circa     primum tria sunt notanda.                                                                       tur per              actum proprium, ut cum                                           tenet       aliquem,
-   tionis.
-                           Primo, quid                    sit.                                                                       vel    aliquam ad Sacramenti                                     susceptionem *.                     — Sed
-                           Secundo, quot eius species.                                                                               circa hoc fuerunt tres opiniones.
-
-                           Tertio, quol modis contrahatur.                                                                                      Prima    quod «sicut septem sunt dona Opinii
-                                                                                                                                                                 dicit,
-
-                           De primo sciendum, quod cognatio                                                 spiritualis              Spiritus sancti, ita sunl septem dona baptisrai, sci-
-
-De definitio- ita      definitur : Cognatio                                spiritualis       est     propinquitas                    licet a primo pabulo salis usque ad confirmafionem»,
-     °°'
-               aut proximitas proveniens ex Sacramenti donatione,                                                                    quae fit per episcopum; et in quolibet horum con-
-               vel ad illud tentione.                             Unde tam                 ille     qui      baptizat,               trahilur              compaternitas               ,   ita        quod             non           potest      esse
-
-               quam          ille   qui tenet                    proximus             et   cognatus spiritua-                        matrimoniura inler tales, Causa trigesima, quaestione
-               liter       iudicalur, Causa trigesima, quaeslione prima',                                                            prima ^          ,    Pervenit         in     fine.
-
-               Omnes              qitos       in poenitenl.ia , et                         Extra, de               Cogna-                       Secunda dicit, quod per tria tantuui Sacramenta Opinio
-               tione spirituali, capilulo ultimo.                                                                                    contrahitur,                 scilicet        per        catechismum, baptismum
-                  De secundo nolandum, quod cognationis ^ spi-                                                                       et    confirmationem episcopi                               ,    de Consecratione, distin-
- De specie- ritualis trcs sunt species. Una dicitur compaterni-                                                                      ctione quarta ", Jn catechismo.
-    bas.
-               tas, quae                 atlenditur               inter            patrem          spiritualem              et                  Tertia           opinio         parum                differt           a    secunda. Dicit Opimpj
-               carnalem patrem. Alia                                   dicilur        paternitas ,             et        haec        enim       ,
-                                                                                                                                                     quod in his tribus contrahitur cognatio                                                     spi-
-
-               attendilur inter                    eum qni suscipilur, et euni qui su-                                               ritualis, sed in                    baptismo et confirmatione adeo for-
-               scipit, sive sit                    masculus, sive femina.                              Tertia            dici-       tis    est,          quod impedit contrahendum                                         et dirimit           iam
-               tur fraternitas, et haec attenditur inter filium spi-                                                                 contractum              ,   Causa trigesima                      ,
-                                                                                                                                                                                                          quaestione prima ', Si
-               ritualem et filium carnalem                                         praecise         et universali-                   quis filiastrum. In                         catechismo                      aulem contrahitur
-               ter;        nam      non se extendit nisi ad illuiu                                         qui       susci-          adeo           exilis ,       quod          vix         impedit              contrahendum et
-               pitur ,          Causa          trigesima               ,
-                                                                            quaestione             tertia ',        Super            non dirimit iam contractum, Extra, de Cognatione
-               quibus, et Extra, de Cognatione spirituali, capilulo                                                                  spirituali ",               Contracto.
-               seplimo, Tuanos. Et omnes istae species impediunt                                                                                Sed quae istarum opinionum sit verior, dubitatio- Via in
-                                                                                                                                                                                                                                                        tionis
-               malrimonium.                                                                                                          nem habel.                  Et propterea circa hoc quaeruntur tria.
-                           De tertio sciendum, quod                                     spiritualis           cognatio                          Primo quaeritur, ulrum cognatio spiritualis con-
-  De modisdupliciler contrahilur, scilicet                                            direcie        et      indirecle.              trahatur per aliquod Sacraraentum '.
-contrahendi.
-               Indirecte, ut quando uxor                                           efficitur       commater ali-                                Secundoquaeritur, utrum irapediatmatrimonium.
-               cuius per actum                            viri,        vel e        converso          vir      efiicitur                        Tertio quaeritur,                      utrum transeat ab uno in al-
-               compater per actum uxoris. Directe vero conlrahi-                                                                     terum.
+---
 
 ## English
+<!-- page 867 -->
 
-[Translation pending]
+## COMMENTARY ON DISTINCTION XLII.
+
+### *On the impediment of marriage which comes from spiritual kinship.*
+
+*On the celebrated question of the degrees of kindred*, etc.
+
+### DIVISION OF THE TEXT.
+
+Above the Master treated of carnal kinship. In this part he treats of spiritual [kinship], and this part comprises the present distinction, which can be divided into two parts. In the first he treats of spiritual kinship. In the second he treats of second marriages, showing that they are licit; which part above[^1] was divided against the whole preceding [part]; and this he does in the last chapter: *It must be known also that not only first or second marriages* etc.
+
+The first part has two [members]. In the first he shows how spiritual kinship is contracted. In the second, how it impedes marriage, there: *But that a godfather and a godmother* etc. And that [part] is divided into two. In the first he treats of direct kinship. In the second, of indirect [kinship], there: *It is also wont to be asked, whether a godmother* etc.
+
+The first part is again divided into two. In the first he treats how spiritual kinship impedes in itself. In the second, in comparison to legal kinship, there: *But that spiritual, or adoptive, children*. — And thus he determines three things[^2] in this distinction. The first is concerning spiritual kinship; the second is concerning legal [kinship], and the third is concerning second marriages.
+
+### TREATMENT OF THE QUESTIONS.
+
+For the understanding of this part, a question falls principally here concerning three things, just as there are three things which the Master determines.
+
+First it is asked concerning spiritual kinship.
+
+Secondly, concerning legal kinship.
+
+Thirdly, concerning the second nuptial covenant.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+[^1]: **La.** Dist. 34. in Divisione textus.
+     **En.** Distinction 34, in the Division of the text.
+
+[^2]: **La.** Codd. O R S *determinantur*.
+     **En.** Codices O R S read *determinantur* ("are determined").
+
+---
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Latin re-set from the IA djvu OCR base (`raw/bonaventure_vol4_raw.txt`, raw lines 92363–92470), with the two-column PDF bands `/tmp/colcrop/vol4-p867-{L,R}-{0,1,2}.png` authoritative throughout, since the OCR cascade-shatters this divisio (the DIVISIO TEXTUS and TRACTATIO reflow diagonally across both columns of p.867). Reflowed left column then right column. Offset pdf = printed + 20 (pdf 887 = printed 867).
+
+**Scope / chunking.** This chunk holds the DIVISIO TEXTUS + the TRACTATIO QUAESTIONUM (the article-level question listing) only. Per the Vol II/IV convention, the short ARTICULUS I opener (*Quantum ad primum primo procedamus per modum narrationis…*), the PRAENOTATA, and QUAESTIO I are folded into **d42-a1-q1**, not here. The distinction has **no scholion**. The TRACTATIO lists three articles: **Art I** *De cognatione spirituali* (spiritual kinship), **Art II** *De cognatione legali* (legal kinship), **Art III** *De secundo foedere nuptiali* / *De secundis nuptiis* (second marriages).
+
+**Page-split map.** The COMMENTARIUS header, distinction rubric, DIVISIO TEXTUS, and TRACTATIO QUAESTIONUM all sit on **p.867** (both columns). The ARTICULUS I opener + PRAENOTATA also begin on p.867 and continue onto **p.868**, but that content is owned by **d42-a1-q1**. `printed_pages` lists [867, 868] because the auto-chunk raw span (L92363–92470) reaches onto p.868; the divisio/tractatio body itself is wholly on p.867, so only a single `<!-- page 867 -->` marker appears in the body.
+
+**Footer ownership (p.867 seams).**
+- *Shared with the littera:* p.867 carries four numbered footers (1 *De Bono viduitatis…/Hoc cap. sumtum est ex Hug., Sum. Sent.*; 2 *Epist. 48. ad Pammachium…/Deinde respicitur 1. Tim. 3, 2*; 3 *Can. De his (8.), ibid.*; 4 *Comment. in I. Cor. 7, 40*). These anchor in Lombard's **d42 littera** text at the top of the page, **not** in this divisio — so they are **not** claimed here.
+- *Divisio-anchored (claimed here):* the separate **NOTAE AD COMMENTARIUM** block (Quaracchi restarts numbering) has two notes — `[^1]` *Dist. 34. in Divisione textus* (anchored at *quae pars supra…*) and `[^2]` *Codd. O R S determinantur* (anchored at *Et ita tria determinat…*). Both markers are body-anchored in this chunk, so `has_apparatus: true`.
+- *Shared with a1-q1 (p.868):* the QUAESTIO I opener and any p.868 footers go to **d42-a1-q1**.
+
+**`[?]` flags.** None. The PDF bands rendered the entire divisio, tractatio, and both NOTAE cleanly.
