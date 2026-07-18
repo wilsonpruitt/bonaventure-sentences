@@ -9,7 +9,7 @@ title_en: "Doubts concerning the text of the Master"
 printed_pages: [799, 800]
 pdf_pages: [819, 820]
 line_start: 85587
-line_end: 85792
+line_end: 85727
 source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 799–800"
 has_scholion: false
 has_apparatus: true
@@ -192,3 +192,5 @@ Likewise it is asked, if before fourteen years a boy should contract by words of
 - **Marginalia trimmed.** Editorial side-glosses printed in the outer margins (*Distinctio.*, *Casus 2.*, *Ad quaest. incid.*, *Quaest. incid. solvitur.*, *Quaestio incidens.*, the *Nota…* note by Dub. V, and abbreviated *sp.* labels) are not Bonaventure's text and are omitted from the body per project convention.
 - **`has_scholion: false`** — the Dubia carry no scholion.
 - **[?] flags:** none. Minor silent OCR cleanups made where context is unambiguous (e.g. *praesumtione* kept as printed; *iniuriatur*, *abutitur*, *contumeliam*, *Nehemiae* restored from garbled bands). One low-risk reading: p800-6 cross-reference "supra pag. **683**" follows the ABBYY raw OCR (the 450 dpi band digit is slightly ambiguous 653/683); accepted, not flagged.
+
+- **[?] REOPENED 2026-07-18 — `p800-6` cross-reference digit, 683 vs 653.** This chunk's writer read **683** from the ABBYY OCR, noting the 450 dpi band digit was "slightly ambiguous 653/683", and accepted it. During the d.37 littera truncation repair (same printed page, band regenerated at `split_x=2120`) a second reader reported **653** as legible. Rendered text left as **683** — not flipped on a single passing read by an agent whose task was elsewhere. Content test is inconclusive: the note reads *Ut dicit Iustinian., supra pag. NNN, nota 1*, but the only Iustinianus citation in the raw anywhere near either candidate sits on printed p.576 (raw L63198), so neither 653 nor 683 is corroborated by a matching *nota 1*. **Resolve at 600 dpi.**

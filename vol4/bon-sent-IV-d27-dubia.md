@@ -9,7 +9,7 @@ title_en: "Doubts concerning the text of the Master"
 printed_pages: [684, 685, 686]
 pdf_pages: [704, 705, 706]
 line_start: 73995
-line_end: 74278
+line_end: 74208
 source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 684–686"
 has_scholion: false
 has_apparatus: true
@@ -189,3 +189,5 @@ Likewise it is asked about this, that he says: *He who is coupled to marriage sh
 **Marginalia omitted** (Quaracchi running side-glosses, not body text): *Notandum.* / *Alia solutio.* (p.684), *Ratio.* (p.685), *Triplex matrimonium.* / *Nota* (p.686).
 
 **[?] flag.** [^16] (p.686 note 3): Albert's article number reads **a. 13** in the IA djvu OCR; the 450 dpi band digit is ambiguous between 13 and 15 — rendered **a. 13**, low-confidence, to be resolved at the d.30 600 dpi flag pass.
+
+- **Candidate resolution offered 2026-07-18 (NOT applied).** During the d.28 littera truncation repair, a reader working the shared p.686 bands reported that this chunk's entry 16 `[?]` (B. Albert. *a. 13*) reads **a. 15** unambiguously on the band. Left unedited: the observation was incidental to that agent's task and has not been independently confirmed. **Check at 600 dpi and either apply or formally accept-illegible.**
