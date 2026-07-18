@@ -1,7 +1,8 @@
 # Systematic defect: `DISTmCTIO` ligature garble → truncated littera chunks (Vol IV)
 
-**Found 2026-07-18** during the d.45 build. **Scope: Book IV. Two confirmed pre-existing defects
-(d.28, d.37) outside the current d.45–d.49 run — NOT yet repaired. Awaiting owner decision.**
+**Found 2026-07-18** during the d.45 build. **STATUS: CLOSED 2026-07-18 — d.45 fixed in `a0cc786`, and
+d.28 + d.37 repaired in `b22cd1c`. All known instances of this defect class in Book IV are resolved.**
+Kept as the reference for the detection recipe and for the d.48 boundary.
 
 ## The bug
 
@@ -45,13 +46,13 @@ All 8 garbled bare headers in Vol IV raw:
 | 7 | 18492 | *(none — pre-dates line-bounds)* | body opens at the DISTINCTIO VII header — **looks OK**, but see anomaly below |
 | 10 | 24038 | *(none)* | body opens at `Cap. I` — **OK** |
 | 27 | 72761 | 72761 | **OK** (the archived resume pointer's L72893 was the bleed; whoever built it caught that) |
-| 28 | 74209 | **74279** | ❌ **TRUNCATED** — 70 raw lines dropped |
+| 28 | 74209 | ~~74279~~ → **74209** | ✅ **FIXED** `b22cd1c` (+ misplaced-English-block defect) |
 | 31 | 76939 | 76939 | **OK** |
-| 37 | 85728 | **85793** | ❌ **TRUNCATED** — 65 raw lines dropped |
+| 37 | 85728 | ~~85793~~ → **85728** | ✅ **FIXED** `b22cd1c` |
 | 45 | 99598 | ~~99733~~ → **99598** | ✅ **FIXED 2026-07-18** (this session) |
 | 48 | 104392 | *(not yet built)* | ⚠ use **104392**, not the p.981 bleed at L104305 |
 
-## The two open defects
+## The two defects (both now repaired — kept for the record)
 
 ### `vol4/bon-sent-IV-d28-littera.md` — printed p.687
 Dropped raw **L74209–74278**: the `DISTINCTIO XXVIII.` header line, **Cap. I** and its rubric
@@ -69,7 +70,7 @@ Dropped raw **L85728–85792**: the `DISTINCTIO XXXVII.` header line and all of 
 impeding marriage). The chunk currently opens mid-stream on p.801 at a `**Notula.**` paragraph,
 then Cap. II.
 
-## Repair shape (if approved)
+## Repair shape (as executed)
 
 Same as the d.45 littera repair done this session: one subagent per chunk, prepend the missing
 Cap. I material re-set from 450 dpi column bands, claim that printed page's
