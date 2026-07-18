@@ -4,310 +4,170 @@ volume: 4
 book: 4
 distinctio: 46
 type: littera
-line_start: 101372
+title_la: "Littera Magistri (Lombard), Distinctio XLVI — De mitigatione poenae damnatorum et de misericordia et veritate in omnibus viis Dei"
+title_en: "The text of the Master (Lombard), Distinction XLVI — On the mitigation of the punishment of the damned, and on mercy and truth in all the ways of God"
+printed_pages: [953, 954, 955]
+pdf_pages: [973, 974, 975]
+line_start: 101428
 line_end: 101659
-word_count_latin: 2718
-transcription_status: "auto-chunked 2026-06-16"
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 953–955"
+has_scholion: false
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR (raw lines 101428–101659) with 450dpi column-band verification, literal English translation, full apparatus (9 entries) (2026-07-18)"
 format_version: 1
 ---
 
-# bon-sent-IV-d46-littera
+# d.46 littera
+## *Littera Magistri (Lombard), Distinctio XLVI — De mitigatione poenae damnatorum et de misericordia et veritate in omnibus viis Dei*
+
+---
 
 ## Latin
+<!-- page 953 -->
 
-DISTINGTIO XLVI.                                                                                                                          983
+### DISTINCTIO XLVI.
 
-    culo, licet                    non       omnino                       se         conforment saeculo,                            et   Deo per affectiones voluntalis et per adminiculum ra-
-    indigent sufifragiis, ut in caritate permaneant, et ut                                                                               tionis, sicut exponit Gregorius                                           super principium lob K
-    exeuntes de terra                              '    tormenta non eos detineant.
-                                                                                                                                                                                            DuB.         VIII.
+> The numbered notes below are Quaracchi's page footers. Quaracchi restarts its footnote
+> numbering on every printed page, and on page 953 it prints two distinct sequences — the notes
+> to Bonaventure's *dubia* (notes 1 through 10, which belong to the preceding chunk) and then a
+> separate sequence headed *Notae ad Libr. Sententiarum*, whose note 1 is the first note of this
+> chunk. The labels used here are therefore page-qualified: note 1 of the *Notae ad Libr.
+> Sententiarum* of page 953, notes 1 through 5 of page 954, and notes 1 through 3 of page 955.
 
-                                                            DuB. VII.
-                                                                                                                                                    Item quaeritur de hoc quod dicit                                                   ,
-                                                                                                                                                                                                                                           quod bonum
-                 Ilem de hoc quod                                    dicit           :    Ut quodam modo eas                             est    de operibus suis                              eius consulere verilatem. Vi-
-    offerant             Deo etc. quaeritur per quem modum An-
-                                               ;                                     ,                                                   detur enim maie dicere: quia islud consilium                                                                          dicit
+### Cap. I.
+#### *Si valde malis praestetur mitigatio poenae.*
 
-    geli offerunt            Deo petitiones nostras, utrum scilicel                                                                      inquisitionem, el ita ratiocinationem ; sed Angeli, ut
-    propter se, an propier nos.                                                                                                          dicit Dionysius°, habent intellectum deiformem:                                                                       ergo
-                      Dicendum, quod sicut videmus in
-                 Respondeo               :                                                                                               in eis non cadit consilium.
+Sed quaeritur hic de valde malis, utrum et ipsi in aliqua poenarum mitigatione Dei misericordiam sentiant, ut minus, quam meruerint, puniantur. — Quidam autumant, eos nullam relevationem poenae habituros; quod confirmant Iacobi[^p953-lit1] auctoritate dicentis: *Iudicium sine misericordia illi qui non fecit misericordiam.* Augustinus etiam ait: « Misericordia hic, iudicium in futuro ».
 
-,   causis  terrenis, quod   qui nescit loqui coram prae-                                                                                           Respondeo                  :    Dicendum quod consulcre aliquem
-                                                                                                                                                                                                             ,
+<!-- page 954 -->
 
+Idem distinguens, quomodo omnes viae Domini sint *misericordia et veritas*, ait: « Erga Sanctos omnes viae Dei misericordia, erga iniquos omnes veritas; quia et in iudicando subvenit, et ita non deest *misericordia*, et in miserando id exhibet, quod promisit, ne desit *veritas*. Erga omnes autem, quos liberat et damnat, omnes viae sunt misericordia et veritas, quia, ubi non miseretur, vindictae veritas datur ». Dicens: *ubi non miseretur*, dat intelligi, aliquid a Deo fieri, ubi ipse non miseretur. — Sed his occurrit quod ait Cassiodorus super Psalmum quinquagesimum[^p954-1], loquens de misericordia et pietate Dei, « Hae duae, inquit, res iudicio Dei semper adiunctae sunt ». Ergo et in punitione malorum non est iustitia sine misericordia. Idem de misericordia et iudicio ait: « Haec duo mutua societate sibi iunguntur ». In his breviter omnia opera Dei includit. Augustinus[^p954-2] quoque, respondens illis qui reproborum supplicia finem habitura contendunt, ita illorum repellit opinionem, asserens reprobos perpetuo puniendos, ut eorum supplicia aliquatenus mitigari non neget. « Frustra, inquit, nonnulli aeternam damnandorum poenam et cruciatus sine intermissione perpetuos humano miserantur affectu, atque ita futurum esse non credunt, non quidem Scripturis adversando divinis, sed pro suo motu dura quaeque molliendo et in leniorem flectendo sententiam, quae putant in eis terribilius esse dicta quam verius. *Non enim*, inquiunt, *obliviscetur misereri Deus, aut continebit in ira sua misericordias suas.* Hoc quidem in Psalmo legitur, sed de his intelligitur, qui sunt *vasa misericordiae*, quia et ipsi non pro meritis suis, sed Deo miserante, de miseria liberantur. Aut si hoc ad omnes existimant pertinere, non ideo necesse est, ut damnationem opinentur finiri posse eorum, de quibus dictum est: *Ibunt hi in supplicium aeternum*; ne hoc modo putetur habitura finem felicitas eorum, de quibus e contrario dictum est: *Iusti autem in vitam aeternam.* Sed poenas damnatorum certis temporibus existiment, si hoc eis placet, aliquatenus mitigari. Et sic quippe intelligi potest *manere ira Dei* in illis, id est ipsa *damnatio*. Haec enim vocatur *ira Dei*, non divini animi perturbatio, ut in ira sua, id est manente ira sua, non contineat miserationes suas, non aeterno supplicio finem dando, sed levamen adhibendo vel interponendo cruciatibus; quia nec Psalmus ait ad *finiendam* iram suam, vel *post* iram suam, sed *in* ira sua. Quae si sola esset *alienari a regno Dei, carere magna multitudine dulcedinis Dei*; tam grandis tamen est poena, ut ei possint nulla tormenta, quae novimus, comparari, si illa sit aeterna, ista autem sit quamlibet multis saeculis longa ». « Manebit ergo sine fine mors perpetua damnatorum, et omnibus erit ipsa communis, sicut manebit communiter omnium vita aeterna Sanctorum ». — Ecce, ita asserit hic, poenas reproborum non esse finiendas, quod non improbat, si dicatur, eorum supplicio aliquod levamen adhiberi. Unde non incongrue dici potest, Deum, etsi iuste id possit, non omnino tantum punire malos in futuro, quantum meruerunt, sed aliquid eis, quantumcumque mali sint, de poena relaxare.
 
-    tore conducit advocatum qui loquatur et alleget pro              ,
-                                                                                                                                         hoc        est dupliciter : aut ut                 per indagationem et in- Distinctio.
-    ipso   sic in spiritualibus intelligendum
-             ;                                  quod cum                                                     ,
-                                                                                                                                         quisitionis discussionem perveniat ad cognitionem rei
+Quod ergo dictum est: *iudicium sine misericordia fieri illi qui non fecit misericordiam*; ita intelligi potest, quod iudicium damnationis fiet illi qui non fecit misericordiam, pro eo quod fuit sine misericordia; vel fiet iudicium ei sine misericordia liberante et salvante, qui tamen in aliqua poenae alleviatione misericordiam Dei sentiet. Ita cum dicitur: misericordia hic, iudicium in futuro; non negatur, quin in futuro sit misericordiae effectus et in electis, qui per misericordiam ab omni miseria liberabuntur, et in reprobis, qui minus, quam meruerint, cruciabuntur. Sed *hic* non sine causa dicitur *fieri Dei misericordia*, et *iudicium in futuro*; quia et hic multis modis miseretur Deus, quibus non miserebitur tunc; vocat enim nunc peccatores et iustificat, quod tunc non faciet; et tunc, reddens singulis secundum merita, *manifeste* iudicabit qui nunc *occulte* iudicat.
 
-    nos nec perorare,                              immo quasi nec balbulire sciamus                                                      dubiae        ;    aut ut                 per illustrationem eius subito                                               co-
-    coram Deo ", quod Angelus tanquam advocatus et al-                                                                                          quomodo debeat facere'. Primum est hu-
-                                                                                                                                         gnoscat,
-    iegator magnus in ilia superna curia assumit verbum                                                                                  manum, secundum vero non solum humanum,sed
-    et   orationem nostram proponit.                                                                                                     etiam angelicum esse perhibetur.
-                 Si   autem quaeritur, per quem                                                       modum habeat
-    esse     ;    dico,            quod loqui nostrum et oratio nostra est                                                                                                                   DuB. IX.
-    desiderium                     alicuius                 rei           vel            petitio      formata secun-
-    dum           desiderium ;                         et        quando ^ desiderium noslrum                                                        Item quaerilur                          de      hoc quod                     dicit     :     Ut ipsi a
-    ex mera et vera                            et ardenti dilectione est,                                           tunc for-            Deo discanl                      etc.        Videlur enim                             male dicere, quia
-    titer ciamamus in auribus Dei et tunc optime per-                                                                                    bealus            Gregorius *                     dicit    :    «        Quid          est    quod non                  vi-
+### Cap. II.
+#### *De occulto Dei iudicio.*
 
-    oramus. Et quoniam affectiones noslrae sunt tepi-                                                                                    dent qui videntem omnia vident»?
-    dae, et affectiones Angelorum ferventissimae et ma-                                                                                             Respondeo: Dicendum, quod multa addiscunt
-    gis elevalae ad ipsum; desiderando pro nobis quod                                                                                    Angeli sive per ipsum Verbura et per alios Angelos,
-    nos desideramus, cum accedant ad Deum familiarius                                                                                    sive per experientiam ".                                   Quod autem dicit Gregorius
-    et    proximius, dicuntur sibi offerre ;                                                           et        quod Deus               non        intelligitur, quia omnia videant, sed quia vident
-    vidit        nos primo petere et approbare per os nostrum,                                                                           isludunum, quod est melius videre quam omnia.
-    secundo magis approbat per os et desiderium An-                                                                                      Unde sicut ille qui habet Deum, dicitur omnia ha-
-    gelorum. Et quoniam                                          istud               dicitur          noscere,                quod       bere, non quia omnium sit possessor, sed quia habet
-    approbat^; hinc est, quod petitiones nostrae dicun-                                                                                  illud       unum           ,    cui non possunt aequiparari omnia; ideo
-    tur      apud Deum imiotescere non solum per nos, ve-                                                                                per aequipollenliam vel                                        supervalentiam dicitur ha-
-    rum etiam per Angelos. Angeli enim dicuntur loqui                                                                                    bere omnia; sic qui novit Deum dicitur omnia nosse '".
+Cuius « occultum iudicium, ut ait Augustinus[^p954-3], intelligitur poena, qua quisque vel exercetur ad purgationem, vel movetur ad conversionem, vel, si contemnit, excaecatur ad damnationem ». Occultum igitur iudicium Dei *poena* dicitur, quia iudicat purgando, convertendo, excaecando. *Iudicia* quoque Dei interdum appellantur dispositiones[^p954-4] eius de omnibus rebus; unde: *Quam incomprensibilia sunt iudicia eius!* et, *iudicia eius abyssus multa.* Iudicium autem, quo in futuro iudicabit, intelligitur sententia, quia *ventilabitur area*, id est, dividentur localiter boni a malis ministerio Angelorum; et isti in vitam ducentur, illi in supplicium mittentur, qui nunc simul mixti sunt.
 
+### Cap. III.
+#### *De iustitia et misericordia Dei.*
 
+Sed quomodo iustitiam Dei et pietatem, id est misericordiam, supra Cassiodorus *duas res* dixit, quae semper adiunctae sunt Dei iudicio? Iustitia enim Dei et misericordia non *duae res*, sed *una res*, id est divina essentia, est, sicut supra[^p954-5] pluribus auctoritatibus ostensum est: quia non est Deo aliud esse misericordem quam misericordiam, nec iustum quam iustitiam, sed idem prorsus. Nec aliud est esse misericordem quam iustum, vel misericordiam quam iustitiam, sed omnino idem; quia non *denominative*, sed *essentialiter* haec de Deo dicuntur. Cur igitur dicit Scriptura de operibus Dei, quaedam esse misericordiae, quaedam iustitiae? Si enim iustitia Dei misericordia est; quaecumque sunt opera misericordiae, esse videntur iustitiae, et e converso. — His responderi potest sic: illis locutionibus, quibus huiusmodi operum fiunt distinctiones, ut alia misericordiae, alia iustitiae, alia bonitati attribuantur; non diversitas *subiacentis*, id est rei his vocabulis significatae, exprimitur, sed varietas sensuum et effectuum in *creaturis* monstratur. Cum enim dicitur Deus *iustus* vel *iustitia*, essentia divina praedicatur; et etiam, quod ipse sit distributor et iudex meritorum, intelligi datur. Ita et, cum dicitur *misericors*, essentia divina praedicatur, et insuper, quod ipse sit miserorum liberator intelligi datur. Similiter, cum dicitur *bonus*, essentia divina praedicatur, ut cum dicitur *Deus*, et insuper auctor omnium bonorum ostenditur. Ita et, cum dicitur *Deus*, essentia divina praedicatur, et ipse timendus ostenditur. Inde ergo quaedam *opera misericordiae*, quaedam *iustitiae* dicuntur, non quin essentia divina haec et illa operetur, et quin haec et illa sint opera divinae essentiae, quae dicitur misericordia et iustitia; sed quia quaedam sunt, quibus ostenditur *iudex* et *aequus distributor*, quaedam, quibus ostenditur *miserator* — *misericors* enim dicitur in natura, *miserator* in exhibitione — et in quibusdam operibus dicitur effectus *misericordiae* esse, in quibusdam effectus *iustitiae*, non quod aliud efficiat iustitia, aliud misericordia Dei, si ad essentiam referas, sed quia ex quibusdam effectibus intelligitur *iudex*, ex quibusdam *miserator*, vel ut quibusdam placet, *iustus* et *misericors*.
 
+<!-- page 955 -->
 
-                                                                                                             DISTINCTIO XLYI.
+Sed secundum hoc occurrit quaestio, quomodo ex aliis ostendatur *iustus* et ex aliis *misericors*, cum sit ei idem esse *iustum* et esse *misericordem*. Si enim secundum eandem rationem dicitur *iustus* et *misericors*, ex eo opere, quo intelligitur *iustus*, intelligitur *misericors*, et e converso. — Sed dixi supra, quia, cum dicitur Deus *iustus* et *misericors*, ita eadem divina essentia significatur, et secundum eam idem praedicatur, ut etiam quaedam diversa intelligantur. Intelligimus enim per hoc eum *miseratorem* et *iustum iudicem*. Quod evidenter Origenes[^p955-1] ostendit dicens: « Omnia quae Dei sunt, Christus est: ipse sapientia eius, ipse fortitudo, iustitia, sanctitas, ipse prudentia. Sed cum unum sit in subiacente, pro varietate sensuum diversis nuncupatur vocabulis. Aliud enim significat *sapientia*, aliud *iustitia*. Quando enim *sapientia* dicitur, disciplinis te divinarum humanarumque rerum instruere intelligitur; quando *iustitia*, distributor et iudex meritorum insinuatur. Ita et *prudentia* cum dicitur, doctor et demonstrator bonarum et malarum rerum vel neutrarum intelligitur ».
 
+### Cap. IV.
+#### *Quare quaedam opera dicuntur iustitiae, quaedam misericordiae vel bonitatis Dei.*
 
-                                                                 Gap.           I.                                                       ul minus,               quam meruerinl, puniantnr.                                           — Quidam autu-                   opinio   i.
+Quod autem quaedam opera *misericordiae*, quaedam *iustitiae*, quaedam *bonitati* attribuantur, in Scripturis facile est reperire. Et de *misericordia* quidem et *iustitia* manifestum est, de *bonitate* vero et *misericordia* amplius latet. Sed Augustinus[^p955-2] docet, illa opera proprie ad *misericordiam* pertinere, quibus aliqui a miseria liberantur; ad *bonitatem* vero non solum illa, sed facturam et gubernationem naturalium, ita dicens: « Ad *misericordiam* pertinet, quod a peccatis mundat et de miseria liberat; ad *bonitatem* vero, quod caelum et terram et omnia valde bona creavit, ut essent ». Idem: « Caeli non indigent misericordia, ubi nulla est miseria; in terra hominis abundat miseria, et superabundat Domini misericordia. Miseria igitur hominis et *misericordia* Domini *plena est terra*, non *caeli*, qui non indigent misericordia, indigent tamen regente Domino. Omnia enim indigent Domino, et misera et felicia, quia sine illo miser non sublevatur, felix non regitur ». Item alibi: « *Misericordia* est erga miseros, *bonitas* erga quoslibet ». — Interdum tamen *misericordia* large accipitur ut *bonitas*.
 
-                                                                                                                                         mant, eos nuilam relevationem poenae habituros; quod
-                 Si valde malis praeslelur mitigalio poenae.
-                                                                                                                                         confirmanl lacobi ' auctoritate dicentis: ludicium sine
-                 Sed quaeritur hic de valde malis, ulruni et                                                              ipsi in        misericordia                    illi qui          non fecit misericordiam. Augusti- Aagnstinns.
-    aliqua poenarum miligatione Dei misericordiam sentiant,                                                                              nus eliam               ait: « Misericordia hic,                                     iudicium in futuro».
+### Cap. V.
+#### *Quomodo universae viae Domini dicuntur misericordia et veritas.*
 
+Post haec considerari oportet, ex quo sensu *universae viae Domini* dicantur *misericordia et veritas*[^p955-3]. — Hoc multiplicem recipit expositionem. Universae enim viae Domini misericordia et veritas, quibus *ad nos venit*, ut ait Augustinus super Psalmum, intelliguntur *duo adventus: primus*, in quo manifestam et multiplicem misericordiam nobis exhibuit; et *secundus*, in quo requirendo merita iustitiam exhibebit. Universae etiam viae Domini, id est, quibus *ad Dominum ascendimus*, sunt *iustitia*, qua a malo declinamus, et *misericordia*, qua bonum facimus. In his enim duobus omne bonum meritum includitur. — Sed cum superius Cassiodorus dixerit, in his duobus omnia opera Dei includi; merito quaeri potest, an in omni opere Domini haec duo mutuo sibi iungantur. — Quibusdam placuit, non in omni opere Domini haec duo concurrere, secundum *effectum* dico; nam secundum *essentiam* non dividitur misericordia a iustitia, sed unum est; verum secundum *effectum* non in omni opere dicunt esse misericordiam et iustitiam, sed in quibusdam tantum *misericordiam*, in aliis *iustitiam*, atque in aliis *misericordiam et iustitiam*. Fatentur tamen, Deum omnia quae facit, misericorditer agere et iuste, referentes rationem dicti ad Dei *voluntatem*, quae iustitia est et misericordia, non ad *effectus* misericordiae et iustitiae, qui sunt in rebus. — Aliis autem videtur, quod sicut dicitur Deus omnia opera sua facere iuste et misericorditer; ita concedendum sit, in omni opere Dei iustitiam esse et misericordiam, id est clementiam, secundum effectum vel signum, quia nullum opus Dei est, in quo non sit effectus vel signum aequitatis vel clementiae, sive occulte, sive aperte. Aliquando enim manifesta est clementia sive benignitas, et occulta aequitas, aliquando e converso.
 
-
-             '    Codd. G N Y an (bb                             a   secunda manu) de carne.                                                 « De Div. i\om. c. 7. g 2. Cfr. tom. II. pag. 177, nota 3. —
-
-             -    Cfr.    toni.      Ili.      pag.              175, nota   2.   Superius pro  —                                  qid   Damasc, II. de Fide orthod. c. 22: Deus quippe non deliberat,
-    loquatur (edd. id loqualur) plures codd. ei loquUur ; codd. I Iv                                                                     quia ignorantis cst consilium inirc (cfr. tom. I. pag. 714, nota 5.).
-    ut alleget, omisso loquatur                                  et.      Inferius pro               et...       proponit edd.                  '    Cfr.    I.     Sent. d. 6. dub. 5. et                             III.    Sent. d. 33. q. i. ad 2.
-    ^tt...   proponat.                                                                                                                   — Vide de hoc dubio                         S.     Tliom. ot Riehard. a Med., hic circa lit.
-             '    Cod.       U addit petitio nostra et. Post                                         pauca cod. S voci                          8    Libr.        II.    Moral.       c.    3. n.3 Quid enim de his quae scienda
-                                                                                                                                                                                                         :
-
-
-
-    affectiones praemittit orationes et.                                                                                                 sunt, nesciunt qui sricntem                           omnia sciunt? Cfr. IV. Dialog. c. 33.
-             *    Vide       I.    Sent. d. 39. a.                        1.    q.        2.   in   corp.                                       9 Cfr.       II.        Sent. d.       3.    p.    II.       a.    2.     q.     I.   ad    I.    et    III.   Sent.
-             5    Libr.      II.    Moral.         c.       7.   n.        10, ubi explicalur lob                     I
-                                                                                                                          ,   8.   Pro   d.    13.   a.     2.    q.     3.    in    corp.
-    adminiculum cod.                               adiutorium, cod. S adinrentiones, cod. .4                                                    '»    Vide II. Sent.                 d.     II.    dub.           2.
-
-    admirationes (cod. M admiratimem) , quod magis Gregorio con-                                                                                                  NOTAE AD LIBR. SENTENTIARUM.
-    cordat.           Cfr.        tom.   II.       pag. 85            ,    nota 2. et pag. 268, nota 3.                            —            '    Cap. 2,             13.       Soq. locus est Aiigust., linarral.                              in    Ps. 100.
-
-    Idem dnb.             solvit Richard. a Med.,                                        hic circa    lit.                               n.    1,    deindo Enarral.                  in    Ps.     118 (v.              131.) serm.             29. n. 8.
-
-                       S.    Bonav.            — Tom.                     IV.                                                                                                                                                                    120
-                                                                                                            ,
-
-
-
-
-              9 34                                                                               SENTENTIARUM LIB. IV.
-
-              Idern distingiiens, qiiomodoomnes viae Doniini sinl mi-                                           tanlum punire malos                  in futuro, quautum meruerunt,
-
-AngasUnDs. serkordia et verilas,           Erga Sanclos omues viae
-                                                              ait:       «                                      sed aliquid eis,                 quantumcumque mali sint, de poena Duh
-              Dei misericordia, crga iniqiios omnes veritas; quia et                                            relaxare.
-              in   iiidicando subvenil, et ila non deesl misericordia                                                Quod ergo diclum est: iudicium sine misericordia Eip
-              el in  miserando    id exliibet, quod promisit, ne desit                                                   qui non fecit misericordiam ; ita inlelligi po-
-                                                                                                                fieri illi
-              veritas. 'Y.rs.a onines aulem, quos liberat el damnat,                                            lest, quod iudicium damnationis fiet illi qui non fecit
-
-              omues viae sunt misericordia et verilas, quia, ubi non                                            misericordiam, pro eo quod fuil sine misericordia; vel
-              miserelur, viiulictae                       veritas datur».              Dicens: ubi non          fiet    iudicium           ei    sine misericordia liberanle et salvante,
-              misei-elur, dat inlelligi,        Deo flcri, ubi ipsc aliquid a                                   qui lamen in aliqua poenae alleviatione misericordiam
-   Opinio % non miseretur.                       —
-                              Sed liis occurrit quod ait Cassiodo-                                              Dei sentiet. Ita cum dicitur: misericordia hic, iudiciuni
-Cassiodoros. rus super Psalmum quinquagesimum ^ loquens de mise-                                                in fuluro;          non negatur, quin in fuluro sit misericordiae
-              ricordia et pietate Dei,                             «Haeduae, inquit, res iudicio                effectus          et in        eleclis, qui                 per misericordiam ab omnl
-              Dei semper adiunctae sunt". Ergo et in punitione ma-                                              miseria liberabuntur, el in reprobis,qui minus, quam
-              lorum nou                                   Idem de mi-
-                                       est iustitia sine misericordia.                                          meruerint, cruciabunlur. Sed hic non sine causa                                                          dici-
-
-              sericordia el iudicio         Haec duo mutua socielate
-                                                          ail :      «                                          tur fieri         Dei misericordia , et iudicium in fuluro ; quia
-              sibi    iungunlur». In his breviler omnia opera Dei in-                                           et hic multis               modis             miserelur Deus, quibus nou mi-
-              ciudit. .\uguslinus^ quo(|ue,                                  respondens iilis qui repro-        serebitur tunc; vocat enim iuinc peccatores et                                                         iustifi-
-
-              borum supplicia flnem bal)itura conlendunl, ila itlo-                                             cat,quod tunc non faciet; et lunc, reddens singulis
-              rum repeliil opinionem, asserens reprobos perpetuo                                                secundum merila, manifeste iudicabit qui nunc occulte
-              ])uniendos  ul eorum snpplicia aliqualenus mitigari
-                                   ,                                                                            iudicat.
-
-Angastinus. iion          negel.        «       Frustra,       inquit,          nonnulli       aeternam   da-
-Dnbium   1.   ninandorum             poenam et crucialus sine intermissione                                                                                           Cap.    II.
-
-              perpeUios            humano miseranlur affectu, atque ila fulu-
-              rum esse non credunt, non quidem Scriptuiis adver-                                                                                De occullo Dei iudicio.
-              sando divinis sed pro suo molu dura quaeque mol-
-                                            ,
-
-
-
-              liendo et in leniorem flectendo sententiam, quae pulant                                                   Cuius         « occultum                      iudicinm,             nt    ait     Auguslinus', Ang
-              in eis lcrribilius esse dicta                              quam verius. Non enim, iu-             intelligitur         poena, qua quisque vel exei-celur ad pur-
-              quiunt, obliviscetur misereri Deus, aut continebit in                                             gationem, vel movetur                                 ad conversionein, vel, si con-
-              ira sua misericordias suas.                                    Hoc quidem        in Psalmo le-    temnit, excaecatur ad                            damnationem ». Occultum                                igitur
-
-              gitur, sed               de his        inlelligitur, qui            sunt vasa misericor-          iudicium \)e,\ poena dicilur, quia indicat purgando, con-
-              diae, quia el ipsi uon                               pro merilis suis, sed Deo mi-                vertendo, excaecando.                                 ludicia            quoque Dei              interdura
-              serante, de miseria                    hoc ad omnes
-                                                          liberantur.           Aut   si                        appellanturdispositiones* eius deomnibus rebus; unde:
-              existimant pertinere, non ideo necesse est, ut damna-                                             Quam incomprensibiiia                                  sunt iudicia eiusf et, iudicia Dul)
-              tionem opinentur finiri posse eorum, de quibus dictum                                             eitis       ahyssus multa. ludicium aulem, quo                                               in futuro iu-
-
-              est: Ibunt hi in suppliciwn aeternum; ne hoc modo                                                 dicabit, inteliigitur sententia, quia                                            venlilabitur area,
-              putetur habitura                       finem felicitas              eorum de quibus e
-                                                                                           ,                    id est, dividentur localiler boni a malis ministerio An-
-
-              contrario dictum est                        :   lusti          autem in vitam aeternam.           gelorum;            et isti       in    vitam ducentur,                          illi   in      suppliciuni
-              Sed poenas daninatorum certis temporibus exisliment,                                              mitlenlur, qui nunc simul mixti sunt.
-              si   hoc      eis placet,                 aliquatenns             mitigari. Et sic     quippe
-              intelligi   manere ira Dei in illis, id est ipsa
-                             potest                                                                                                                                   Cap.    III.
-
-          damnatio. Haec enim vocatur ira Dei, non divini auimi
-          perturbalio, ut in ira sua, id est manenle ira sua,                                                                         De iustitia et misericordia Dei.
-          uou conlineat miseraliones suas, non aeterno supplicio
-          flnem dando,sed levanien adhibendo vel interponcndo                                                           Sed quomodo iustiliam Dei et pietatem, id est mi-ohi
-          cruciatibus; quia^nec Psalmus ait ad fmiendam iram                                                    sericordiam, supra                       Cassiodorus duxis                          res dixit, quae
-Dubiam 2. suam, vel post iram suam, sed in ira sua. Quae si                                                     semper adiunctae sunt Dei iudicio?                                                luslitia       enim Dei
-              sola esset alienari a regno Dei, carere                                          magna mtiUi-     et misericordia                  non dtiae res, sed una res,                                     id est di-
-              tudine dulcedinis Dei ; tam grandis tamen est poena,                                              vina essentia, esl, sicut supra                                     ^*
-                                                                                                                                                                                         phiribus auclorilatibus
-              ut     ei    possint                        lormenta, quae
-                                                    novimus, compa-
-                                                nulla                                                           ostensum            est:       quia non est Deo                            aliud esse misericor-
-            rari, si illa sit aeterna ista autem sit quamlibet mullis
-                                                               ,                                                (iem qiiam misericordiam, nec iustum                                                quam iusliliam,
-Aognstinus. saeculis longa ». « Manebit ergo sine fine mors perpetua                                            sed idem            prorsiis.            Nec            alind cst             esse        misericordeni
-            damuatorum, et omnibus erit ipsa communis, sicul                                                    quam iuslum, vel misericordiam quam                                                       iusliliam, sed
-            manebit communiter omnium vita aeterna Sanclorum».                                                  omnino            idein; quia noii denominative , sed essentialiter
-              — Ecce, ila asserit hic, poenas reproborum non esse                                               haec de Deo dicunlur. Cur                                     igitur          dicit       Scriptura          de
-  ludicinm finieudas, qnod uon improbal, si dicatur, eorum sup-                                                 operibus Dei,                   quaedam                    esse misericordiae, quaedani
-  Magistri.
-            plicio aliquod levamen adhiberi. Unde non incongrue                                                 iuslitiae? Si             enim         iuslilia             Dei          mi.sericordia est; quae-
-            dici jjolesl, Deum, elsi iuste id possit, non omuino                                                cumque sunl opera misericordiae, esse videntur iusliliae,
-
-
-
-
-                      '    Vcrs.       13.      Seq. locus eiiisdeni cst Expositio in Ps. 100,1.                        3   Enarral. in          Ps.    9.       n.    1.
-
-                      ^    Enchirici. c. 122. n.                   29. In tolo loco citantur Ps. 76, 10;                •   Ita   codd.     et    cd.        1    ,   in    aliis        dispensationes.         Deinde      ci-
-
-              Rom. 9, 23; Mallh. 2S, 46; deinde respicitur loan. 3,                                   36.   —   tantur       Rom. 11, 33;               Ps.      33, 7; Matth. 3,                   12.    et   2.5,   46.
-              Seq. locus est ibid.                   c.   113.      n.   29.                                            5   Libr.    1.   d.    VIII.    XIX. XXII.
-                                                                                                                                                                                                          ,
-                                                                                                                                                                                                          ,
-
-
-
-
-                                                                                                 DISTINCTIO XLVl.                                                                                     955
-
-ip.   el e       converso.             — His responderi potest                       sic:    illis   locu-    et iustitia        manifestum est, de bonitate vero                               et miseri-
-      lionibus, quibus huiusmodi operuni fiunt dislincliones,                                                 cordia amplius lalet. Sed Auguslinus^ docet, illa opera
-      ut alia miscricordiae, aiia                              iustitiae,       alia      bonitali      at-   proprie       ad    misericordiam                pertinere, quibus aliqui a
-      tribuantur; non                    diversitas            subiacentis, id             est   rei    his   miseria liberantur; ad bonitaiem vero non solum                                         illa,
-
-      vocabulis                 significatae, exprimitur,                     sed        varielas      sen-   sed facturam     gubernationem naturalium ila dicens:
-                                                                                                                                    et                                                    ,
-
-
-
-      suum et effectuum in creaturis monslralur. Cum enim                                                     «Ad misericordiam pertinel, quod a peccatis mundat AngusUnns.
-      dicitur         Deus iustus               vel    iustitia, essentia divina prae-                        et dc miseria liberal; ad bonitatem vero, quod caelum
-
-      dicatur; et etiam,                      quod ipse             sit   distribulor et             iudex    et terram et omnia valde bona creavil, ut essent».
-      meritorum, intelligi datur. Ita et, cum dicilur misericors,                                             Idem: «Caeli non indigenl misericordia, ubi nulla est
-      essenlia divina praedicatur, et insuper,   quod ipse sit                                                miseria; in terra hominisabundat miseria, et super-
-      miserorum liberator intelligi datur. Similiter, ciuii di-                                               abundat Domini misericordia. Miseria igilur hominis et
-      citur bonus, essenlia divina praedicatur, ut cum dici-                                                  misericordia Domiiii  plena est terra, non caeli, qui
-      lur Deus, et insuper auctor omniuni bonorum osten-                                                      non indigent misericordia, indigent tamen regente Do-
-      ditur. Ita el, cum dicitur                        Beus, esscntia divina praedi-                         mino. Omnia enim indigent Domino, et mlsera                                          et feli-
-      catur, et ipse limendus oslenditur. Inde ergo quaedam                                                   cia, quia sine            illo     miser non sublevatur, felix non re-
-      ojtera misericordiae ,                     quaedam             iustitiae dicuntur,               non    gitur». Item          alibi:        «   Misericordia            est    erga miseros,
-      quin esscntia divina haec et illa operetur, et quin haec                                                bonitas erga quoslibct».                  — Interdnm Inmen fnisericor-
-      et illa sint              opera divinae essentiae, quae dicitur mise-                                   dia large accipilur ut bonilas.
-5.    ricordia             et       iustitia;   sed     quia quaedam                     sunt, quibus
-      ostenditur iudex et aequus dislribulor ,                                       quaedam, qui-                                                     Cap. V.
-      bus ostenditur miseiator                         —
-                                  misericors enim dicitur in
-      natura, miseralor  in exhibilione    et in quibusdani               —                                              Quomodo universae viae Domini dicunlur
-      operibus dicitur elTectus niisericordiae esse, in quibus-                                                                          misericordia           el veritas.
-
-      dam erteclus iusliliae, uon quod aliud efficial iustilia,
-      aliud misericordia Dei, si ad essenliam referas, sed quia                                                         Post haec considerari oporlet, ex quo sensu uni-
-      ex quibusdam elTectibus intelligitur iudex, ex quibus-                                                  versae viae Domi?ii dicantur misericordia                                   et    veritas ^.
-      dam miserator, vel ut quibusdam placet, iustus el mi.-                                                  — Hoc multiplicem                recipit expositionem. Universae enim Exposiiio i.
-      sericors.                                                                                               viae      Domini      misericordia              et    veritas, quibus               ad nos
-                 Sed secundum hoc occurrit quaestio, quomodo ex                                               venit, ut ait Augustinus supcr                        Psalmum          ,   intelliguntur Augostinns.
-"^aliis          oslendalur iustus et ex                        aliis     misericors,         cum       sit   duo adventus: primus, in quo manifestam et mullipli-
-      ei    ideni esse              iustum et esse misericordem. Si enim se-                                  cem misericordiam nobis exhibuit; et secundus, in quo
-      cundum eandem raliouem dicitur iustus et misericors,                                                    requirendo merita iustitiam exhibebit. Universae etiam
-      ex eo opere, quo                       intelligitur iustus, intelligitur                       mise-    viae Domini, id esl, quibus                      ad Dominum ascendimus,
-      ricors, et e converso.                      — Sed             dixi      supra, quia,           cum      sunt iuslitia, qua a malo declinamus, et misericordia
-      dicilur         Deus iustus                et    misericors, ita eadem divina                           qua bonum facimus. In    his enim duobus omne bonum
-      essentia significatur, et                       secundum eam idem praedica-                             meritum includitur.                 —
-                                                                                                                                       Sed cum superius Cassiodorus
-      tur, ut etiam quaedam diversa intelliganlur. Intelligi-                                                 dixerit, in his duobus omnia opera Dei includi; merilo
-      mus euim per hoc eum miseratorem et iustum iudi-                                                        quaeri potest, an in omni opere Domini haec duo mu-
-'•
-      cem. Quod evidenter Origenes' ostendit dicens: « Omnia                                                  luo sibi iungantur.              —
-                                                                                                                                     Quibusdam placuil, non in omni Exposiiio 2.
-      quae Dei sunt, Chrislus                          est:     ipse       sapientia eius, ipse               opere Domini haec duo concurrere, secundum effectum
-      fortitudo, iuslilia, sanclitas, ipse                                prudentia. Sed             cum      dico; nam secundum essentiam non dividitur miseri-
-      unum        sit in subiacente, pro                       varielate sensuum diversis                     cordia a iustitia, sed unum est; verum secundum ef-
-^-
-      nuncupatur vocabulis. Aliud enim significat sapienlia,                                                  fectum non in omni opcre dicunt esse misericordiam
-      aliud iusiitia. Quando enim sapienlia dicitur, discipli-                                                et iustitiam, sed in quibusdam tantum misericordiam,
-
-      nis te      divinarum                  humanarumque rerum inslruere in-                                 in nliis iustitiam,              atque    in    aliis     misericordiam el izi-
-      telligitur;           quando           iustitia, distributor                  et    iudex meri-         stitiam. Falenlur            tamen,       Deum omnia quae facit, mi-
-      torum insinualur. Ita                     el    prudentia cum dicitur, doctor                           sericorditer        agere        el     iuste, referentes              rationem        dicli
-      et   demonstrator bonarum                         et      malarum rerum                 vel neu-        ad Dei voluntalem, quae                       iuslitia    est     et    misericordia
-      trarum intelligitur».                                                                                   non ad effectus misericordiae                        el   iustitiae,        qui sunt in
-                                                                                                              rebus.     —   Aliis      auiem videlur, quod sicut dicilur Deus Espositio 3.
-                                                  Cap. IV.                                                    omnia opera sua facere                   iuste cl misericordiler; ita con-
-                                                                                                              cedendum sil,in omni opere Dei                             iustiliam esse et mi-
-           Quare quaedam opera dicuntur iustitiae , quaedam                                                   sericordiam,          clemenliam, secundum effeclum
-                                                                                                                                   id      est
-
-                                misericordiae vel bonitatis Dei.                                              vel   signum, quia nulium opus Dei est, in quo non sit
-                                                                                                              ellectus vel       siguum aequitatis                 vel clemenliae, sive oc-
-
-           Quod aulem quaedam opera misericordiae , quae-                                                     culte, sive aperle. Aliqiiando                       enim manifesla                est cle-
-      dam iustitiae , quaedam bonitati atlribuanlur, in Scri-                                                 mentia sive benignitas,                  el    occulla aequilas, aliquando
-      pluris facile est reperire. Et de misericordia quidem                                                   e converso.
-
-
-
-
-             1   Homil. VUI.            in   leremiam,         n.   2.                                        dem Enarral. in        Ps.    24. n.     10,    secundiim senlonlinm vcrbote-
-             ^   Enarrat. in Ps. \ 3b. n. 4. Seq. locus est Enarrat. 2. in Ps. 32.                            nus   in Glossa     apud Lyianum ibid.
-      serm.      2.   n.    4   ,   ubi respicilur      cit.   Psalmi v.       0.   Teriius est eius-               3   Psalm. 24, 10; verba Augustini sunt loc.                         cil.
-         9b6                                                            SENTENTIARUM LIB. IV.
+---
 
 ## English
 
-[Translation pending]
+### DISTINCTION XLVI.
+
+### Chapter I.
+#### *Whether a mitigation of punishment is granted to the utterly wicked.*
+
+But it is asked here concerning the utterly wicked, whether they too experience God's mercy in some mitigation of their punishments, so as to be punished less than they have deserved. — Some suppose that they will have no relief of punishment; and they confirm this by the authority of James[^p953-lit1], who says: *Judgment without mercy to him who has not done mercy.* Augustine also says: « Mercy here, judgment in the future ».
+
+Likewise, distinguishing how all the ways of the Lord are *mercy and truth*, he says: « Toward the Saints all the ways of God are mercy, toward the wicked all are truth; because both in judging He comes to aid, and thus *mercy* is not lacking, and in showing mercy He exhibits what He promised, lest *truth* be lacking. But toward all whom He frees and whom He damns, all the ways are mercy and truth, because, where He does not show mercy, the truth of vengeance is given ». By saying: *where He does not show mercy*, he gives it to be understood that something is done by God where He Himself does not show mercy. — But against these there stands what Cassiodorus says on the fiftieth Psalm[^p954-1], speaking of the mercy and the loving-kindness of God: « These two, he says, are always joined to the judgment of God ». Therefore even in the punishment of the wicked there is no justice without mercy. The same author says of mercy and judgment: « These two are joined to one another in mutual fellowship ». In these he briefly includes all the works of God. Augustine[^p954-2] too, answering those who contend that the torments of the reprobate will have an end, so rejects their opinion, asserting that the reprobate are to be punished perpetually, that he does not deny that their torments are to some extent mitigated. « In vain, he says, do some, out of human feeling, pity the eternal punishment of the damned and their unceasing perpetual torments, and thus do not believe that it will be so — not indeed by opposing the divine Scriptures, but by softening, according to their own impulse, whatever is harsh and bending it into a milder judgment, since they think that in those Scriptures such things are said more terribly than truly. *For God will not*, they say, *forget to show mercy, nor will He withhold His mercies in His anger.* This indeed is read in the Psalm, but it is understood of those who are *vessels of mercy*, because they too are freed from misery not according to their own merits but by God's showing mercy. Or if they think that this pertains to all, it is not on that account necessary that they should suppose that the damnation can be ended of those of whom it is said: *These shall go into everlasting punishment*; lest in this way the happiness of those be thought to have an end, of whom on the contrary it is said: *But the just into life everlasting.* But let them suppose, if it pleases them, that the punishments of the damned are at certain times to some extent mitigated. And thus indeed it can be understood that *the anger of God remains* upon them, that is, the *damnation* itself. For this is called *the anger of God*, not a disturbance of the divine mind; so that in His anger, that is, while His anger remains, He does not withhold His compassions — not by giving an end to the eternal torment, but by applying or interposing a relief to the torments; because the Psalm does not say *to end* His anger, or *after* His anger, but *in* His anger. And if this alone were *to be estranged from the kingdom of God, to lack the great multitude of the sweetness of God*; yet so great is the punishment that no torments which we know can be compared to it, if that one be eternal, while this one be long for however many ages ». « There will therefore remain without end the perpetual death of the damned, and it will be common to them all, just as there will remain in common for all the eternal life of the Saints ». — Behold, thus he asserts here that the punishments of the reprobate are not to be ended, which he does not disapprove, if it be said that some relief is applied to their torment. Whence it can not incongruously be said that God, even though He could justly do so, does not punish the wicked in the future altogether as much as they have deserved, but relaxes something of the punishment for them, however wicked they may be.
+
+What therefore has been said — that *judgment without mercy is done to him who has not done mercy* — can be understood thus: that the judgment of damnation will be done to him who has not done mercy, for this reason, that he was without mercy; or judgment will be done to him without a mercy that frees and saves, who nevertheless will experience God's mercy in some alleviation of his punishment. So too, when it is said: mercy here, judgment in the future; it is not denied that in the future there is an effect of mercy both in the elect, who through mercy will be freed from all misery, and in the reprobate, who will be tormented less than they have deserved. But not without cause is it said that *God's mercy is done here*, and *judgment in the future*; because here too God shows mercy in many ways in which He will not show mercy then; for now He calls sinners and justifies them, which then He will not do; and then, rendering to each according to his merits, He will judge *manifestly*, who now judges *secretly*.
+
+### Chapter II.
+#### *On the hidden judgment of God.*
+
+Of which « the hidden judgment, as Augustine says[^p954-3], is understood to be the punishment by which each one is either exercised unto purgation, or moved unto conversion, or, if he despises it, blinded unto damnation ». God's hidden judgment is therefore called a *punishment*, because He judges by purging, by converting, by blinding. God's *judgments* are also sometimes called His dispositions[^p954-4] concerning all things; whence: *How incomprehensible are His judgments!* and, *His judgments are a great deep.* But the judgment by which He will judge in the future is understood as the sentence, because *the threshing-floor will be winnowed*, that is, the good will be divided from the wicked locally by the ministry of the Angels; and these will be led into life, those sent into punishment, who now are mingled together.
+
+### Chapter III.
+#### *On the justice and mercy of God.*
+
+But how did Cassiodorus above call God's justice and loving-kindness, that is His mercy, *two things*, which are always joined to God's judgment? For God's justice and mercy are not *two things*, but *one thing*, that is the divine essence, as has been shown above[^p954-5] by many authorities: because for God to be merciful is not other than mercy, nor to be just other than justice, but altogether the same. Nor is it other to be merciful than to be just, or mercy than justice, but wholly the same; because these things are said of God not *denominatively*, but *essentially*. Why then does Scripture say of the works of God that some are of mercy, some of justice? For if God's justice is mercy, then whatever are works of mercy seem to be works of justice, and conversely. — To these it can be answered thus: by those manners of speaking in which distinctions of works of this sort are made, so that some are attributed to mercy, some to justice, some to goodness, no diversity of the *underlying subject*, that is, of the thing signified by these words, is expressed, but a variety of senses and of effects in *creatures* is shown. For when God is called *just* or *justice*, the divine essence is predicated; and also it is given to be understood that He is the distributor and judge of merits. So too, when He is called *merciful*, the divine essence is predicated, and moreover it is given to be understood that He is the liberator of the wretched. Likewise, when He is called *good*, the divine essence is predicated, as when He is called *God*, and moreover He is shown to be the author of all good things. So too, when He is called *God*, the divine essence is predicated, and He is shown to be one to be feared. Hence therefore some are called *works of mercy*, some *of justice*, not as though the divine essence did not work both these and those, and as though both these and those were not works of the divine essence, which is called mercy and justice; but because there are some by which He is shown to be *judge* and *equitable distributor*, and some by which He is shown to be *one who takes pity* — for He is called *merciful* in nature, *one who takes pity* in the showing of it — and in some works the effect is said to be of *mercy*, in some the effect of *justice*, not that God's justice effects one thing and His mercy another, if you refer them to the essence, but because from certain effects He is understood as *judge*, from certain others as *one who takes pity*, or, as it pleases some, *just* and *merciful*.
+
+But according to this a question arises: how is He shown *just* from some works and *merciful* from others, since for Him to be *just* and to be *merciful* is the same? For if He is called *just* and *merciful* according to the same account, then from that work by which He is understood *just*, He is understood *merciful*, and conversely. — But I said above that, when God is called *just* and *merciful*, the same divine essence is thus signified, and according to it the same thing is predicated, yet in such a way that certain diverse things are also understood. For by this we understand Him as *one who takes pity* and as *a just judge*. This Origen[^p955-1] evidently shows, saying: « All the things that are God's, Christ is: He is His wisdom, He His strength, justice, holiness, He prudence. But since it is one in the underlying subject, it is named by diverse words according to the variety of senses. For *wisdom* signifies one thing, *justice* another. For when *wisdom* is spoken of, He is understood to instruct you in the disciplines of things divine and human; when *justice*, the distributor and judge of merits is intimated. So too when *prudence* is spoken of, He is understood as the teacher and demonstrator of things good and evil and indifferent ».
+
+### Chapter IV.
+#### *Why certain works are called works of justice, and certain works of the mercy or goodness of God.*
+
+That certain works are attributed to *mercy*, certain to *justice*, certain to *goodness*, is easy to find in the Scriptures. And concerning *mercy* indeed and *justice* it is manifest, but concerning *goodness* and *mercy* it lies more hidden. But Augustine[^p955-2] teaches that those works properly pertain to *mercy* by which some are freed from misery; but to *goodness* not only those, but also the making and the governance of natural things, saying thus: « To *mercy* it pertains that He cleanses from sins and frees from misery; but to *goodness*, that He created heaven and earth and all things very good, that they might be ». The same: « The heavens do not need mercy, where there is no misery; on earth man's misery abounds, and the Lord's mercy superabounds. Therefore with man's misery and the Lord's *mercy the earth is full*, not the *heavens*, which do not need mercy, though they do need the Lord to rule them. For all things need the Lord, both the wretched and the happy, because without Him the wretched is not raised up, and the happy is not governed ». Likewise elsewhere: « *Mercy* is toward the wretched, *goodness* toward any whatsoever ». — Sometimes, however, *mercy* is taken broadly, as *goodness*.
+
+### Chapter V.
+#### *How all the ways of the Lord are called mercy and truth.*
+
+After these things it must be considered in what sense *all the ways of the Lord* are called *mercy and truth*[^p955-3]. — This admits of a manifold exposition. For all the ways of the Lord are mercy and truth, by which *He comes to us*, as Augustine says on the Psalm; and by them are understood *two advents: the first*, in which He showed us a manifest and manifold mercy; and *the second*, in which, requiring merits, He will show justice. Also all the ways of the Lord, that is, those by which *we ascend to the Lord*, are *justice*, by which we turn away from evil, and *mercy*, by which we do good. For in these two every good merit is included. — But since Cassiodorus said above that in these two all the works of God are included, it can rightly be asked whether in every work of the Lord these two are joined to one another. — It has pleased some that these two do not concur in every work of the Lord — I mean according to *effect*; for according to *essence* mercy is not divided from justice, but is one; yet according to *effect* they say that mercy and justice are not in every work, but in some only *mercy*, in others *justice*, and in others *mercy and justice*. They confess nevertheless that God does all that He does mercifully and justly, referring the ground of this saying to God's *will*, which is justice and mercy, not to the *effects* of mercy and justice, which are in things. — To others, however, it seems that, just as God is said to do all His works justly and mercifully, so it must be conceded that in every work of God there is justice and mercy, that is clemency, according to effect or sign, because there is no work of God in which there is not the effect or sign of equity or of clemency, whether secretly or openly. For sometimes clemency or kindness is manifest, and equity hidden; sometimes conversely.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+[^p953-lit1]: **La.** Cap. 2, 13. Seq. locus est August., *Enarrat. in Ps.* 100. n. 1, deinde *Enarrat. in Ps.* 118 (v. 151.) serm. 29. n. 8.
+     **En.** Chapter 2, 13. The following passage is from Augustine, *Expositions on Psalm* 100, n. 1, then *Expositions on Psalm* 118 (v. 151) sermon 29, n. 8.
+
+[^p954-1]: **La.** Vers. 15. Seq. locus eiusdem est *Expositio in Ps.* 100, 1.
+     **En.** Verse 15. The following passage of the same author is his *Exposition on Psalm* 100, 1.
+
+[^p954-2]: **La.** *Enchirid.* c. 122. n. 29. In toto loco citantur Ps. 76, 10; Rom. 9, 23; Matth. 25, 46; deinde respicitur Ioan. 3, 36. — Seq. locus est ibid. c. 113. n. 29.
+     **En.** *Enchiridion* c. 122, n. 29. Throughout the passage there are cited Ps. 76, 10; Rom. 9, 23; Matt. 25, 46; then reference is made to John 3, 36. — The following passage is in the same work, c. 113, n. 29.
+
+[^p954-3]: **La.** *Enarrat. in Ps.* 9. n. 1.
+     **En.** *Expositions on Psalm* 9, n. 1.
+
+[^p954-4]: **La.** Ita codd. et ed. 1, in aliis *dispensationes*. Deinde citantur Rom. 11, 33; Ps. 35, 7; Matth. 3, 12. et 25, 46.
+     **En.** So the codices and the first edition; in the others, *dispensationes*. Then there are cited Rom. 11, 33; Ps. 35, 7; Matt. 3, 12 and 25, 46.
+
+[^p954-5]: **La.** Libr. I. d. VIII. XIX. XXII.
+     **En.** Book I, dd. VIII, XIX, XXII.
+
+[^p955-1]: **La.** *Homil.* VIII. *in Ieremiam*, n. 2.
+     **En.** *Homily* VIII *on Jeremiah*, n. 2.
+
+[^p955-2]: **La.** *Enarrat. in Ps.* 135. n. 4. Seq. locus est *Enarrat.* 2. *in Ps.* 32. serm. 2. n. 4, ubi respicitur cit. Psalmi v. 5. Tertius est eiusdem *Enarrat. in Ps.* 24. n. 10, secundum sententiam verbotenus in Glossa apud Lyranum ibid.
+     **En.** *Expositions on Psalm* 135, n. 4. The following passage is *Expositions* 2 *on Psalm* 32, sermon 2, n. 4, where reference is made to v. 5 of the Psalm cited. The third is by the same author, *Expositions on Psalm* 24, n. 10, according to the sense given word for word in the Gloss as found in Lyra on the same place.
+
+[^p955-3]: **La.** Psalm. 24, 10; verba Augustini sunt loc. cit.
+     **En.** Psalm 24, 10; the words of Augustine are at the passage cited.
+
+---
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Latin re-set from `raw/bonaventure_vol4_raw.txt` L101428–L101659, reflowed column-by-column and verified throughout against 450 dpi column bands. The IA djvu OCR interleaves the two columns of every page in this range, so the raw line order is not the reading order; the bands are the authority for sequence and for every footer.
+
+**Bands regenerated, then re-verified against corrected bands.** The default `split_x` of 1880 clips this page-range badly. The drift is **page-parity**, not per-page noise: odd pages sit at ≈1480–1580, even pages at ≈2135–2200, so 1880 falls between the two clusters and is never right (see `manual-review/vol4-column-gutter-parity.md`). With the default split, an even page's left column loses its last ~8 characters per line and an odd page's right column loses its first character — a silent word-level dropout if transcribed from the default bands.
+
+This chunk was first written against ad-hoc regenerations (`953 1730`, `955 1560`, `954 2160`, `956 2160`) made before the parity pattern was diagnosed; the p.953 value in particular was ~250px too far right. All bands were subsequently regenerated at the **true measured gutters — p.953 = 1481, p.954 = 2197, p.955 = 1549, p.956 = 2135** — and this chunk's Latin body and all 9 apparatus entries were re-verified line-by-line against them on 2026-07-18. **No corrections were required**; every right-column line opening on p.953 is intact. The right-hand marginal glosses (*Opinio 1.*, *Dubium 1.*, *Expositio 3.*, *Iudicium Magistri.*, etc.) remain clipped in the wide-L crops; they are editorial page furniture and are deliberately not transcribed.
+
+**Printed page span corrected: 953–955, not 953–956.** The skeleton frontmatter listed p.956. Band `vol4-p956-L-0.png` shows p.956 opening directly with `COMMENTARIUS IN DISTINCTIONEM XLVI.` / *De statu et conditione animarum damnatarum* / `DIVISIO TEXTUS` — no littera text at all. The littera ends with *e converso.* at the foot of p.955's right column (raw L101647). `printed_pages`, `pdf_pages` and `source` were corrected accordingly; `line_start`/`line_end` were left untouched.
+
+**Distinction header.** The real header is at L101428 (`DISTINCTIO XLYI.`, Y for V), sitting low on p.953 immediately above `Cap. I.` (OCR `Gap. I.`). L101372 (`DISTINGTIO XLVI. 983`) and L101572 (`DISTINCTIO XLVl. 955`) are running-head bleeds from pp. 953 and 955 respectively and were read through, not treated as headers.
+
+**Capitula — five, all rendered.** Cap. I (L101431, OCR `Gap. I.`), Cap. II (p.954 R), Cap. III (p.954 R), Cap. IV (L101637), Cap. V (p.955 R). Only Cap. I and Cap. IV are greppable in the raw OCR; Cap. II, III and V survive only as bare `Cap. II.` / `Cap. III.` / `Cap. V.` fragments inside the right-column cascade and were recovered from the bands.
+
+**Apparatus split map — 9 entries.**
+- **p.953** carries *two* footer sequences. The first, notes 1–10, belongs to Bonaventure's *Dubia* and is already transcribed in `bon-sent-IV-d45-dubia.md` (verified by reading that file before writing this one); **none of it is claimed here.** Below it the page prints a second block headed `NOTAE AD LIBR. SENTENTIARUM.` whose note 1 is the first note of Lombard's littera; that single note is claimed here as `[^p953-lit1]` and anchors *Iacobi*. The `-lit` infix is deliberate, to keep it distinguishable from d.45's unrelated `[^p953-1]`.
+- **p.954** — all 5 notes claimed here.
+- **p.955** — all 3 notes claimed here. Note 2 runs across the foot of both columns (it begins under the left column and finishes under the right); both halves are joined in the single entry above.
+
+**Hand-offs.** Picked up: none (d.45-dubia closes cleanly at *omnia nosse* and forwards nothing). Forwarded: none — p.955's three footers all anchor in this chunk, and the divisio chunk begins on a fresh printed page (956) with its own footer sequence.
+
+**Seam checks.** Opening sentence (*Sed quaeritur hic de valde malis…*) follows the Cap. I title and is grammatically complete; it is also the lemma the divisio quotes back at L101663 (*Sed quaeritur hic de valde malis etc.*), confirming the boundary. Closing sentence (*Aliquando enim manifesta est clementia sive benignitas, et occulta aequitas, aliquando e converso.*) parses fully — no cascade-merge signature.
+
+**OCR-vs-band disagreements resolved at band time** (not parked as flags): `p.954 n.4` — OCR `Ps. 33, 7`, band reads **Ps. 35, 7**, which is also the correct Vulgate reference for *iudicia eius abyssus multa*; `p.954 n.4` — OCR `dispositiones` in the note body vs `dispensationes` for the variant, band confirms both as printed; `p.954 n.2` — OCR `Mallh. 2S, 46` → **Matth. 25, 46**; `p.954 n.5` — OCR `Libr. 1.` → **Libr. I.**; `p.955 n.2` — OCR `Ps. \ 3b.` → **Ps. 135**, and OCR `Psalmi v. 0.` → **v. 5**; `p.955 n.2` — OCR `Lyianum` → **Lyranum**; `p.954` body — OCR `incomprensibiiia` → *incomprensibilia* (Quaracchi's own spelling, retained without the second *h*), `Angastinus`/`Auguslinus` → *Augustinus* throughout, `nuilam` → *nullam*, `alleviatione` confirmed against OCR `alleuiatione`.
+
+**Page-break placement.** `<!-- page 954 -->` and `<!-- page 955 -->` are set at paragraph boundaries per the house rule. The true printed breaks fall mid-sentence: p.954 begins at *Idem distinguens…* (a genuine paragraph start, so exact), and p.955 begins mid-paragraph at *et e converso. — His responderi potest sic:* inside Cap. III; the marker is therefore placed at the next paragraph boundary (*Sed secundum hoc occurrit quaestio…*), and the offset is recorded here.
+
+**Observation for the coordinator (not a change to another chunk).** Three of `bon-sent-IV-d45-dubia.md`'s p.953 apparatus entries appear to disagree with the p.953 bands: `[^p953-6]` reads *tom. II. pag. 177, nota 3* where the band reads **nota 5**; `[^p953-7]` reads *III. Sent. d. 33. q. 1. ad 2* where the band reads **d. 35. q. 4. ad 2**. Flagged for the decade-polish pass; that file was not touched.
+
+**`[?]` flags.** None.
+
+**No scholion.** The littera carries none; `has_scholion: false` is correct.
