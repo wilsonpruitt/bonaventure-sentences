@@ -114,7 +114,7 @@ Fourthly it is asked, whether assuming can befit the divine nature, with every p
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; these are the footer notes of printed pages 126, 127, and 128. The markers `9`, `10`, `11` are printed page 126's own per-page sequence (notes 1–8 of p.126 belong to the prior chunk, q.III). The markers `1b`–`10b` are printed page 127's per-page sequence, and `1c` is printed page 128's note 1; the `b`/`c` suffixes are added only so that each `[^N]` definition is unique for the build parser.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; these are the footer notes of printed pages 126, 127, and 128. The markers `9`, `10`, `11` are printed page 126's own per-page sequence (notes 1–8 of p.126 belong to the prior chunk, q.III). The markers `1b`–`10b` are printed page 127's per-page sequence, and `1c` is printed page 128's note 1; the `b`/`c` suffixes are added only so that each N definition is unique for the build parser.
 
 [^9]: **La.** Respicitur Luc. 1, 37.
     **En.** Reference is made to Luke 1:37.

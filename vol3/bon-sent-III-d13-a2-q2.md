@@ -132,7 +132,7 @@ If therefore the grace of the Head and of the union names the effective principl
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are page-suffixed (`[^p286-N]`, `[^p287-N]`, `[^p288-N]`).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are page-suffixed (p286-N, p287-N, p288-N).
 
 [^p286-1]: **La.** Cfr. tom. II. pag. 937, nota 5. De *disparatis* vide supra pag. 225, nota 5. De *gratia singularis personae* vide art. praeced.
     **En.** Cf. vol. II, p. 937, note 5. On *disparates* see above p. 225, note 5. On the *grace of the singular person* see the preceding article.

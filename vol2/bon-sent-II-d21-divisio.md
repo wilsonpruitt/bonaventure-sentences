@@ -141,7 +141,7 @@ Third, as to the *order and progress*.
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Footers from the printed pages are renumbered continuously [^1]–[^10] across pp. 491–492. P. 492 L-2 footer ⁵ + p. 492 R-2 footers ⁶–⁷ anchor in QUAESTIO I body and are forwarded to `d21-a1-q1`.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Footers from the printed pages are renumbered continuously 1–10 across pp. 491–492. P. 492 L-2 footer ⁵ + p. 492 R-2 footers ⁶–⁷ anchor in QUAESTIO I body and are forwarded to `d21-a1-q1`.
 
 [^1]: **La.** Cod. Erl. hic recte annotat: *In Hugone* (loc. cit. c. 9) *non est* invisibiliter; *unde aliter intendit Hugo distinguere, scil. quod tentatio exterior est, quando nobis extrinsecus malum sive visibiliter sive invisibiliter faciendum suggeritur; interior, quando ex motu pravae delectationis interior animus ad peccandum sollicitatur. Magister vero aliter distinguit, ut patet.*
 

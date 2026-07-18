@@ -70,7 +70,7 @@ To this, then, which is said, that that[^5] is *preceding;* it must be said that
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–6 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, p. 158). This dubia has no scholion. p.158's footer notes ¹²³ anchor the preceding chunk (`bon-sent-II-d5-a3-q2` [^12]/[^13]/[^14]) — this chunk's apparatus is p.158 footer notes ⁴–⁹ (renumbered [^1]–[^6]); see Notes.
+> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–6 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, p. 158). This dubia has no scholion. p.158's footer notes ¹²³ anchor the preceding chunk (`bon-sent-II-d5-a3-q2` 12/13/14) — this chunk's apparatus is p.158 footer notes ⁴–⁹ (renumbered 1–6); see Notes.
 
 [^1]: **La.** Libr. II. de Serm. Domini in monte, c. 14. n. 48: *Nullius enim fere conscientia Deum odisse potest.*
 

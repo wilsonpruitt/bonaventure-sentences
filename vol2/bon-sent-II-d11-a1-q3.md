@@ -142,7 +142,7 @@ Third, it is asked whether any Angel was assigned to the custody of Christ. And 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation, in order. Quaracchi restarts footnote numbering on each printed page; this chunk's continuous `[^N]` covers p.280 (footers 6–9 = `[^1]–[^4]`), p.281 (footers 1–6 = `[^5]–[^10]`), and p.282 (footer 1 = `[^11]`). The remaining p.282 footers (2–4) anchor in d11-a2-q1.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation, in order. Quaracchi restarts footnote numbering on each printed page; this chunk's continuous N covers p.280 (footers 6–9 = 1–4), p.281 (footers 1–6 = 5–10), and p.282 (footer 1 = 11). The remaining p.282 footers (2–4) anchor in d11-a2-q1.
 
 [^1]: **La.** Psalm. 90, 11. — Glossam vide apud Augustinum in hunc locum, serm. 2.
 

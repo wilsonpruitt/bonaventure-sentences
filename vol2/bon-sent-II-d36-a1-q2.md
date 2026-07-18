@@ -155,7 +155,7 @@ finds a certain delight in this, that it pleases him to waste away over another'
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. [^1]–[^5] are p.845 footers 1–5 (footers 1–3 received as a hand-off from a1-q1, since QUAESTIO II opens on p.845); [^6]–[^16] are p.846 footers 1–11; [^17]–[^20] are p.847 footers 1–4 (footers 5–6 of p.847 anchor in ARTICULUS II QUAESTIO I and are forwarded to a2-q1).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. 1–5 are p.845 footers 1–5 (footers 1–3 received as a hand-off from a1-q1, since QUAESTIO II opens on p.845); 6–16 are p.846 footers 1–11; 17–20 are p.847 footers 1–4 (footers 5–6 of p.847 anchor in ARTICULUS II QUAESTIO I and are forwarded to a2-q1).
 
 [^1]: **La.** Vers. 22: Qui irascitur fratri suo reus erit iudicio. Qui autem dixerit fratri suo: raca reus erit concilio. Qui autem dixerit: fatue, reus erit gehennae ignis.
     **En.** Verse 22: He who is angry with his brother shall be liable to judgment. But he who shall say to his brother: raca, shall be liable to the council. But he who shall say: fool, shall be liable to the fire of Gehenna.

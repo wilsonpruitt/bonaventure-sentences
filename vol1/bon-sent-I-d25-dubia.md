@@ -116,7 +116,7 @@ To that which is objected concerning *sub*, it must be said that *sub* in the di
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Latin entries reproduce the Quaracchi apparatus verbatim; English translations follow each Latin entry. Notes [^1]–[^5] are from printed page 445 footer; notes [^6]–[^16] are from printed page 446 footer; notes [^17]–[^20] are from printed page 447 footer (col-A only — col-B notes on p. 447 belong to d.26 which begins on the same page).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Latin entries reproduce the Quaracchi apparatus verbatim; English translations follow each Latin entry. Notes 1–5 are from printed page 445 footer; notes 6–16 are from printed page 446 footer; notes 17–20 are from printed page 447 footer (col-A only — col-B notes on p. 447 belong to d.26 which begins on the same page).
 
 [^1]: **La.** Codd. *aa bb cc* cum ed. 1 *antonomastice*, non omnino perperam, quia *antonomasia* est figura, quae fit, quoties pro nomine proprio substituitur eius epitheton.
 

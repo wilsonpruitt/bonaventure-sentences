@@ -104,7 +104,7 @@ opinions is catholic and probable, this one nevertheless is more intelligible an
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; here the p.78 footer series keeps its own numbers (`[^3]`–`[^9]`; notes 1–2 of p.78 belong to the prior question), and markers labeled *bis* belong to p.79's footer series, *ter* to p.80's, kept unique within the file.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; here the p.78 footer series keeps its own numbers (3–9; notes 1–2 of p.78 belong to the prior question), and markers labeled *bis* belong to p.79's footer series, *ter* to p.80's, kept unique within the file.
 
 [^3]: **La.** Vers. 21. — Glossa, quae est *ordinaria* apud Strabum et Lyranum, sumta est ex Beda in hunc loc. Cfr. supra pag. 2, nota 3.
     **En.** Verse 21. — The Gloss, which is the *ordinary* [gloss] in Strabus and Lyra, is taken from Bede on this passage. Cf. above, p. 2, note 3.

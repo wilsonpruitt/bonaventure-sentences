@@ -149,7 +149,7 @@ But then there remains a question, whence this is, as was asked last. To this, h
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' Latin note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered continuously here. The opening band (`[^1]`–`[^6]`) is the p.747 footer band nn.4–9, picked up as the leading apparatus of this question (a2-q1 having taken p.747 nn.1–3). On p.749 the page footer is shared with a2-q3: nn.1–2 (`[^13]`–`[^14]`) anchor this q2's replies, while nn.3–7 serve a2-q3's Fundamenta.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' Latin note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered continuously here. The opening band (1–6) is the p.747 footer band nn.4–9, picked up as the leading apparatus of this question (a2-q1 having taken p.747 nn.1–3). On p.749 the page footer is shared with a2-q3: nn.1–2 (13–14) anchor this q2's replies, while nn.3–7 serve a2-q3's Fundamenta.
 
 [^1]: **La.** Vers. 2. 3.
     **En.** Verses 2–3 (Isa. 11:2–3).

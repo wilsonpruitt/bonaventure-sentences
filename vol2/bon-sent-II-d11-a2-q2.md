@@ -132,7 +132,7 @@ But the reasons on the contrary proceed or *To the arguments for the negative si
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the original Quaracchi note in Latin followed by an English translation. Quaracchi restarts footnote numbering on each printed page; here the markers are renumbered continuously across the chunk (p.285 nn. 1–8 = [^1]–[^8]; p.286 nn. 1–3 = [^9]–[^11]).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the original Quaracchi note in Latin followed by an English translation. Quaracchi restarts footnote numbering on each printed page; here the markers are renumbered continuously across the chunk (p.285 nn. 1–8 = 1–8; p.286 nn. 1–3 = 9–11).
 
 [^1]: **La.** Vers. 7.
     **En.** Verse 7.

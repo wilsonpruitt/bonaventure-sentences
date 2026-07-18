@@ -115,7 +115,7 @@ Thus, therefore, there can be a threefold sense of the aforesaid expression; and
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi editors' Latin note; **En.** the English rendering. Quaracchi restarts footnote numbering on each printed page; this question spans the footers of pp. 179–180. The p. 179 footer note 1 belongs to the tail of Question I (see `bon-sent-III-d7-a2-q1`, note `[^1c]`); this question takes the p. 179 notes 2–9 and the full p. 180 notes 1–6 (suffixed `b` to avoid collision with the p. 179 sequence).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi editors' Latin note; **En.** the English rendering. Quaracchi restarts footnote numbering on each printed page; this question spans the footers of pp. 179–180. The p. 179 footer note 1 belongs to the tail of Question I (see `bon-sent-III-d7-a2-q1`, note 1c); this question takes the p. 179 notes 2–9 and the full p. 180 notes 1–6 (suffixed `b` to avoid collision with the p. 179 sequence).
 
 [^2]: **La.** Elicitur ex iis quae Magister hic c. I. seqq. et infra d. X. c. I. 3. proponit.
     **En.** Drawn from what the Master sets forth here in chapter I and following, and below in distinction X, chapters I and 3.

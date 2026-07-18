@@ -83,7 +83,7 @@ But to that opinion, by which we said above that the flesh of the Word was not c
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the entries below run continuously across pp. 58–60 (p. 58 = [^1]–[^3]; p. 59 = [^4]–[^13]; p. 60 = [^14]–[^16]), each rendered from the *Notae ad Librum Sententiarum* footer block beneath the Lombard text.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the entries below run continuously across pp. 58–60 (p. 58 = 1–3; p. 59 = 4–13; p. 60 = 14–16), each rendered from the *Notae ad Librum Sententiarum* footer block beneath the Lombard text.
 
 [^1]: **La.** Luc. 1, 35. 38.
      **En.** Luke 1:35, 38.

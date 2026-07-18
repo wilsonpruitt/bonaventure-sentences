@@ -151,7 +151,7 @@ And therefore, even though the work of the incarnation does not in itself seem t
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' note in Latin (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the markers here are slugged continuously to keep each `[^N]` unique. The first entry is the page-18 footer 8 inherited from d1-a1-q4's boundary (it annotates the Articulus II opener).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' note in Latin (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the markers here are slugged continuously to keep each N unique. The first entry is the page-18 footer 8 inherited from d1-a1-q4's boundary (it annotates the Articulus II opener).
 
 [^1]: **La.** Plurimi codd. et edd. 1, 2 *dignitatem,* sed supra in principio dist. recte habent *congruitatem.* [p.18, footer 8 — inherited from the a1-q4 boundary.]
     **En.** Very many codices and editions 1, 2 read *dignitatem,* but above at the beginning of the distinction they rightly have *congruitatem.*

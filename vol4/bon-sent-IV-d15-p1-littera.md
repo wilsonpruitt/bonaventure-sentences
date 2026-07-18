@@ -149,7 +149,7 @@ From the foregoing a clear knowledge of true penance and satisfaction is made. F
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; within this file the markers are numbered continuously `[^1]–[^30]`. Page-block split: `[^1]–[^4]` = p.345 (the *NOTAE AD LIBR. SENTENTIARUM* block); `[^5]–[^14]` = p.346 (10 notes); `[^15]–[^22]` = p.347 (8 notes); `[^23]–[^28]` = p.348 (6 notes); `[^29]–[^30]` = the littera portion of p.349, above the COMMENTARIUS.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; within this file the markers are numbered continuously 1–30. Page-block split: 1–4 = p.345 (the *NOTAE AD LIBR. SENTENTIARUM* block); 5–14 = p.346 (10 notes); 15–22 = p.347 (8 notes); 23–28 = p.348 (6 notes); 29–30 = the littera portion of p.349, above the COMMENTARIUS.
 
 [^1]: **La.** *Nahum* 1, 9. — Supra post *agendam* codd. BD (AC a secunda manu) et ed. 1 omittunt *non putant,* cod. E omittit *non.* — Inferius ante *a sacerdote* edd., excepta 1, interserunt *poenitentiam,* et pro *satisfactionem* ponunt *satisfactione,* refragantibus codd., quorum tamen cod. D habuit *poenitentiam* pro *satisfactionem.*
      **En.** *Nahum* 1:9. — Above, after *agendam* the codices BD (AC by a second hand) and ed. 1 omit *non putant,* cod. E omits *non.* — Below, before *a sacerdote* the editions, except 1, insert *poenitentiam,* and for *satisfactionem* put *satisfactione,* against the codices, of which however cod. D had *poenitentiam* for *satisfactionem.*

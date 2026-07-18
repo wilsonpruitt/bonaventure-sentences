@@ -171,7 +171,7 @@ This admonition seems to be of so much the greater importance in our age, since 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus first in Latin (**La.**), then in English (**En.**). Variant readings (`Vat.`, `codd.`, etc.) are reproduced verbatim in Latin and rendered descriptively in English. Footnotes are renumbered continuously across pp. 295–298 (Quaracchi restarts numbering at each printed page; [^1]–[^8] are the eight p.295 footers, [^9]–[^14] the six p.296 footers, [^15]–[^26] the twelve p.297 footers, [^27]–[^30] the four p.298 footers).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus first in Latin (**La.**), then in English (**En.**). Variant readings (`Vat.`, `codd.`, etc.) are reproduced verbatim in Latin and rendered descriptively in English. Footnotes are renumbered continuously across pp. 295–298 (Quaracchi restarts numbering at each printed page; 1–8 are the eight p.295 footers, 9–14 the six p.296 footers, 15–26 the twelve p.297 footers, 27–30 the four p.298 footers).
 
 [^1]: **La.** Vers. 4. — Paulo inferius plures codd. omittunt *sex.*
 

@@ -122,7 +122,7 @@ Likewise it is asked about this which he says: *The baptism of John was handed o
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; entries [^1]–[^9] are from page 59, entries [^10]–[^18] from page 60.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; entries 1–9 are from page 59, entries 10–18 from page 60.
 
 [^1]: **La.** Ita codd. A E (K a secunda manu), codd. G I W Z *hic* Sacramenta, in aliis tantum *haec*. Mox edd. omittunt *contra peccatum*.
     **En.** Thus codices A E (K by a second hand); codices G I W Z read here *Sacramenta*, in others only *haec*. Soon the editions omit *contra peccatum* (against sin).

@@ -127,7 +127,7 @@ It is also to be known that the evil angels can do *certain* things by the subtl
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–21 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 170–173). The boundary with the preceding `bon-sent-II-d6-dubia` is a cross-distinction split on p.170: that chunk owns p.170's main-stream footer ¹–⁶ (its [^6]–[^11]); this littera's p.170 apparatus is the separately-headed `NOTAE AD LIBR. SENTENTIARUM` block (its own ¹–³ → [^1]–[^3]) — no backfill (see Notes). Footnote numbering restarts on p.171 (10 notes → [^4]–[^13]) and p.172 (8 notes → [^14]–[^21]); p.173 carries no littera footer.
+> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–21 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 170–173). The boundary with the preceding `bon-sent-II-d6-dubia` is a cross-distinction split on p.170: that chunk owns p.170's main-stream footer ¹–⁶ (its 6–11); this littera's p.170 apparatus is the separately-headed `NOTAE AD LIBR. SENTENTIARUM` block (its own ¹–³ → 1–3) — no backfill (see Notes). Footnote numbering restarts on p.171 (10 notes → 4–13) and p.172 (8 notes → 14–21); p.173 carries no littera footer.
 
 [^1]: **La.** Dist. V. c. 1. Cfr. de hoc cap. Hugo, *Sum. Sent.* tr. 2. c. 4.
 

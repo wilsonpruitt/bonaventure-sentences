@@ -227,7 +227,7 @@ To that which is objected concerning Behemoth, it must be said that hope is take
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the per-page anchors (`[^p582-1]`, etc.) preserve that. The Dubia begin at the top of p.582 (in the L column, immediately after Article II, q.5's scholion §II citation list closes in the R column); this chunk's p.582 footers are a single per-page sequence nn.1–9.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the per-page anchors (p582-1, etc.) preserve that. The Dubia begin at the top of p.582 (in the L column, immediately after Article II, q.5's scholion §II citation list closes in the R column); this chunk's p.582 footers are a single per-page sequence nn.1–9.
 
 [^p582-1]: **La.** Vide dub. seq.
      **En.** See the following doubt.

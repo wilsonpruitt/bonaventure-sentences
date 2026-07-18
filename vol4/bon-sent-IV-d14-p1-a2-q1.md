@@ -186,7 +186,7 @@ On the 3rd question, besides the places cited: Alexander of Hales, loc. cit. m. 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk gathers, from each page's footer block, only the notes whose anchors fall in this question's body, renumbered [^1]–[^26] in body order.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk gathers, from each page's footer block, only the notes whose anchors fall in this question's body, renumbered 1–26 in body order.
 
 [^1]: **La.** De Vera et falsa Poenitentia (inter opera August.), c. 8. n. 22. Vide hic lit. Magistri, c. 2. — De minori huius et seqq. argg. cfr. tom. III. pag. 570, nota 9, et Glossa ordinaria apud Strabum in Matth. 13, 39: *Ut in ratione possideamus prudentiam, in ira odium vitiorum, in cupiditate desiderium virtutum.*
      **En.** *On True and False Penance* (among the works of Augustine), c. 8. n. 22. See here the text of the Master, c. 2. — On the minor of this and the following arguments cf. vol. III. p. 570, note 9, and the ordinary Gloss according to Strabo on Matthew 13, 39: *That in reason we possess prudence, in anger hatred of vices, in desire the longing for virtues.*

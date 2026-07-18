@@ -23,7 +23,7 @@ format_version: 1
 ## Latin
 <!-- page 586 -->
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page (p. 586 nn. 1–3, p. 587 nn. 1–4); they are renumbered sequentially [^1]–[^7] here.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page (p. 586 nn. 1–3, p. 587 nn. 1–4); they are renumbered sequentially 1–7 here.
 
 ### Cap. I. *De Sacramento unctionis extremae.*
 

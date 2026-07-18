@@ -123,7 +123,7 @@ Which of these positions is the truer, I do not know; this one, however, which w
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–11 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 165–166). The quaestio's *videtur* begins at the foot of p.165 (its footer notes are split from the preceding chunk — see Notes); the rest is on p.166. Renumbered continuously: p.165 footer ⁵–⁶ → [^1]–[^2]; p.166 footer ¹–⁹ → [^3]–[^11]. This quaestio has **no scholion** — Quaracchi p.166 footer note 9 (`Vide scholion ad praecedentem quaest.`) refers back to the SCHOLION I–III of `bon-sent-II-d6-a2-q1`, which covers both questions of Article II (the sibling-scholion convention).
+> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–11 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 165–166). The quaestio's *videtur* begins at the foot of p.165 (its footer notes are split from the preceding chunk — see Notes); the rest is on p.166. Renumbered continuously: p.165 footer ⁵–⁶ → 1–2; p.166 footer ¹–⁹ → 3–11. This quaestio has **no scholion** — Quaracchi p.166 footer note 9 (`Vide scholion ad praecedentem quaest.`) refers back to the SCHOLION I–III of `bon-sent-II-d6-a2-q1`, which covers both questions of Article II (the sibling-scholion convention).
 
 [^1]: **La.** Vers. 6. — Glossa formata videtur ex iis quae Beda super hunc locum dicit, et legitur apud Lyranum.
 

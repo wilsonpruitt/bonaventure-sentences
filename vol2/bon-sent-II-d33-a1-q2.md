@@ -173,7 +173,7 @@ also for any other sin whatsoever is founded upon the merit and satisfaction of 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. [^1]–[^4] are p.784 footers 3–6 (received from d33-a1-q1, which claimed p.784 footers 1–2); [^5]–[^12] are p.785 footers 1–8; [^13]–[^20] are p.786 footers 1–8. The reply-6 tail on p.787 carries no footnote marker (p.787's own footers belong to ARTICULUS II and are forwarded to d33-a2-q1).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. 1–4 are p.784 footers 3–6 (received from d33-a1-q1, which claimed p.784 footers 1–2); 5–12 are p.785 footers 1–8; 13–20 are p.786 footers 1–8. The reply-6 tail on p.787 carries no footnote marker (p.787's own footers belong to ARTICULUS II and are forwarded to d33-a2-q1).
 
 [^1]: **La.** Vat. cum textu origin. et edd. 3, 4 hic, sicut in corp. quaest. praeced., *perducere* pro *producere.* Cfr. de hoc supra pag. 783, nota 6.
     **En.** The Vatican [edition] with the original text and edd. 3, 4 here, just as in the body of the preceding question, [reads] *perducere* for *producere.* Cfr. concerning this above p. 783, note 6.

@@ -110,7 +110,7 @@ necessary that it be so intensively; because the Blessed Virgin, after, having h
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each gives the Quaracchi editors' note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; this chunk gathers pp.106–108. The first entry here is p.106 footer note 2 (note 1 of p.106 belongs to the preceding quaestion, a2-q1, as its [^16]); on p.108 only footer note 1 belongs to this quaestion (notes 2 ff. begin the following quaestion, a2-q3).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each gives the Quaracchi editors' note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; this chunk gathers pp.106–108. The first entry here is p.106 footer note 2 (note 1 of p.106 belongs to the preceding quaestion, a2-q1, as its 16); on p.108 only footer note 1 belongs to this quaestion (notes 2 ff. begin the following quaestion, a2-q3).
 
 [^1]: **La.** Vers. 45. — Superius pro *solum ex* codd. K P Q Z bb *ex solo.*
     **En.** Verse 45. — Above, for *solum ex* ("solely from") codices K P Q Z bb read *ex solo.*

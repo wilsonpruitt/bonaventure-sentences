@@ -174,7 +174,7 @@ It could here be asked about the variation of these forms as to addition, diminu
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi editors' Latin note; **En.** gives the literal English. Quaracchi restarts footnote numbering on each printed page; markers `[^1]`–`[^8]` are p. 193's sequence, `[^9]` and `[^1b]`–`[^5b]` are p. 194's sequence, and `[^p195-1]`–`[^p195-3]` are p. 195's sequence (by body-anchor).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi editors' Latin note; **En.** gives the literal English. Quaracchi restarts footnote numbering on each printed page; markers 1–8 are p. 193's sequence, 9 and 1b–5b are p. 194's sequence, and p195-1–p195-3 are p. 195's sequence (by body-anchor).
 
 [^1]: **La.** Missalis Romani.
     **En.** Of the Roman Missal.

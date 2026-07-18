@@ -119,7 +119,7 @@ the soul is disposed, that grace may be given for a *more perfect remedy*. Whenc
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this quaestio spans pp. 667–669 (printed footers 4–7 on p. 667, 1–9 on p. 668, 1–5 on p. 669). On p. 667 the footer is shared with a2-q1 (whose scholion occupies the same page): printed notes 1–3 there belong to a2-q1's replies; only printed notes 4–7 (rendered here as [^1]–[^4]) belong to this quaestio.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this quaestio spans pp. 667–669 (printed footers 4–7 on p. 667, 1–9 on p. 668, 1–5 on p. 669). On p. 667 the footer is shared with a2-q1 (whose scholion occupies the same page): printed notes 1–3 there belong to a2-q1's replies; only printed notes 4–7 (rendered here as 1–4) belong to this quaestio.
 
 [^1]: **La.** Hic c. 2, ex August., IX. *de Gen. ad lit.* c. 7. n. 12. — Superius post *Et quod* Vat. supplet *hoc Sacramentum*.
 

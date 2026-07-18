@@ -139,7 +139,7 @@ and concerning initial fear, because servile fear principally regards punishment
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi *Notae ad Commentarium* (per-page restart in the source, renumbered continuously here): p.759 nn.4–12 → [^1]–[^9]; p.760 nn.1–15 → [^10]–[^24]; p.761 nn.1–4 → [^25]–[^28].
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi *Notae ad Commentarium* (per-page restart in the source, renumbered continuously here): p.759 nn.4–12 → 1–9; p.760 nn.1–15 → 10–24; p.761 nn.1–4 → 25–28.
 
 [^1]: **La.** Hic c. 5.
     **En.** Here, c. 5.

@@ -141,7 +141,7 @@ The reasons showing that man is not an artificial image but a natural one are th
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation, and follow the per-page sequence of the Quaracchi printed apparatus (p.396 footers 1–3; p.397 L footers 1–5 = [^4]–[^8]; p.397 R footers 6–8 = [^9]–[^11]; p.398 L footers 1–3 anchoring in q2 = [^12]–[^14]; p.398 L footers 4–5 anchor in d16-a1-q3).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation, and follow the per-page sequence of the Quaracchi printed apparatus (p.396 footers 1–3; p.397 L footers 1–5 = 4–8; p.397 R footers 6–8 = 9–11; p.398 L footers 1–3 anchoring in q2 = 12–14; p.398 L footers 4–5 anchor in d16-a1-q3).
 
 [^1]: **La.** Intellige *etsi*, quod etiam Vat. ponit.
      **En.** Understand "etsi" ["even though"], which the Vatican edition also supplies.

@@ -116,7 +116,7 @@ Likewise it is asked about that which he says: *It has been openly shown in what
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each renders the Quaracchi critical apparatus entry: **La.** the Latin note, **En.** a literal English rendering. Per Quaracchi's per-page footnote restart, this chunk leads with p.787's footer notes 1–10 (→ [^1]–[^10]; this dubia opens a fresh footer band on p.787, nothing forwarded from a1-q6), then p.788 (notes 1–12 → [^11]–[^22]).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each renders the Quaracchi critical apparatus entry: **La.** the Latin note, **En.** a literal English rendering. Per Quaracchi's per-page footnote restart, this chunk leads with p.787's footer notes 1–10 (→ 1–10; this dubia opens a fresh footer band on p.787, nothing forwarded from a1-q6), then p.788 (notes 1–12 → 11–22).
 
 [^1]: **La.** Libr. III. de Anima, text. 38. (c. 8.) Cfr. tom. I. pag. 6, nota 3. — Cod. Z *secantur scientiae quemadmodum et res.* Mox pro *subiectorum* Vat. *obiectorum.*
     **En.** [Aristotle,] *On the Soul*, bk. 3, text 38 (ch. 8). Cf. vol. 1, p. 6, note 3. — Codex Z reads *the sciences are cut up just as things [are].* Soon, for *of the subjects* the Vatican [edition reads] *of the objects.*

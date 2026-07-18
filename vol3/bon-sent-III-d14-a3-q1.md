@@ -150,7 +150,7 @@ And thus it is clear that Christ's soul not only had the knowledge of things in 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers here are page-suffixed (`[^p318-N]`, `[^p319-N]`, `[^p320-N]`).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers here are page-suffixed (p318-N, p319-N, p320-N).
 
 [^p318-1]: **La.** Libr. III. *de Fide orthod.* c. 21. — In conclus. arg. pro *non potest... non cognoscet* edd. *non posset... non cognosceret*.
     **En.** [John Damascene,] Book III *On the Orthodox Faith* c. 21. — In the conclusion of the argument, for *cannot... will not know* the editions read *could not... would not know*.

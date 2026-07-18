@@ -111,7 +111,7 @@ Second, it is asked whether it was fitting that an Angel be assigned to the cust
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation, in order. Quaracchi restarts footnote numbering on each printed page; the chunk's continuous `[^N]` numbering covers p.279 (footers 1–6 = `[^1]–[^6]`) and p.280 (footers 1–5 = `[^7]–[^11]`).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation, in order. Quaracchi restarts footnote numbering on each printed page; the chunk's continuous N numbering covers p.279 (footers 1–6 = 1–6) and p.280 (footers 1–5 = 7–11).
 
 [^1]: **La.** Vide infra d. XXIV. lit. Magistri, c. 2. et XXV. c. 6.
 

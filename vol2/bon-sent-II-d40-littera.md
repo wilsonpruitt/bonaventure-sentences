@@ -73,7 +73,7 @@ Yet certain ones contend that these never have a good cause. For he who steals w
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' Latin note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; marker `[^1]` is the single `NOTAE AD LIBR. SENTENTIARUM` note on p.917, `[^2]`–`[^10]` are the nine `NOTAE AD LIBR. SENTENTIARUM` notes on p.918, and `[^11]`–`[^13]` are the three littera footer notes on p.919.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' Latin note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; marker 1 is the single `NOTAE AD LIBR. SENTENTIARUM` note on p.917, 2–10 are the nine `NOTAE AD LIBR. SENTENTIARUM` notes on p.918, and 11–13 are the three littera footer notes on p.919.
 
 [^1]: **La.** Refragantibus codd. et ed. 1, in aliis edd. additur *naturaliter*.
     **En.** Against the codices and edition 1, in the other editions *naturaliter* ["naturally"] is added.

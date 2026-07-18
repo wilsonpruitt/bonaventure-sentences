@@ -134,7 +134,7 @@ On the same: Alex. of Hales, loc. cit., m. 4, a. 2, § 2. — Scotus, here q. 2,
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk covers footnotes 1–8 of p. 184 plus footnote 1 of p. 185 (rendered here as [^9]).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk covers footnotes 1–8 of p. 184 plus footnote 1 of p. 185 (rendered here as 9).
 
 [^1]: **La.** Vide hic lit. Magistri, c. 2, et infra dub. 3.
     **En.** See here the text of the Master, c. 2, and below dub. 3.

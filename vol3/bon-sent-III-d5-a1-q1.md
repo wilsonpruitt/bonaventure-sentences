@@ -146,7 +146,7 @@ the spring, afterward in the stream, afterward in the lake, yet it has a differe
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; these are the footer notes of printed pages 121–124. (Markers suffixed `b` are the second per-page sequence — printed page 123's notes — suffixed only so that each `[^N]` definition is unique for the build parser; on the page they render as Quaracchi's per-page 1–10.)
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; these are the footer notes of printed pages 121–124. (Markers suffixed `b` are the second per-page sequence — printed page 123's notes — suffixed only so that each N definition is unique for the build parser; on the page they render as Quaracchi's per-page 1–10.)
 
 [^1]: **La.** Cap. 2, n. 14. Cfr. hic lit. Magistri, c. 1. In textu origin. (p.121, footer note 5)
     **En.** *On the Faith, to Peter*, ch. 2, n. 14. Cf. here the text of the Master, c. 1. In the original text. (printed page 121, footer note 5)

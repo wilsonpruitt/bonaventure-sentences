@@ -179,7 +179,7 @@ On the third question: St. Thomas, here q. 2. a. 3; Suppl. q. 49. a. 6. — B. A
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They reproduce the Quaracchi editors' critical apparatus. Quaracchi restarts footnote numbering on each printed page: this chunk merges three per-page series into one consecutive run — [^1]–[^3] are printed page 721's footer notes 6–8 (its notes 1–5 belong to the preceding question a1-q3, whose body fills the upper half of page 721); [^4]–[^9] are page 722's notes 1–6; [^10]–[^16] are page 723's notes 1–7. Page 723's lower columns and page 724 carry the scholion (no footer notes anchored in it); page 724's footer series belongs to the following Quaestio II.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They reproduce the Quaracchi editors' critical apparatus. Quaracchi restarts footnote numbering on each printed page: this chunk merges three per-page series into one consecutive run — 1–3 are printed page 721's footer notes 6–8 (its notes 1–5 belong to the preceding question a1-q3, whose body fills the upper half of page 721); 4–9 are page 722's notes 1–6; 10–16 are page 723's notes 1–7. Page 723's lower columns and page 724 carry the scholion (no footer notes anchored in it); page 724's footer series belongs to the following Quaestio II.
 
 [^1]: **La.** Hic c. 5.
     **En.** Here, ch. 5.

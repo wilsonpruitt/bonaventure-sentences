@@ -114,7 +114,7 @@ flesh from the Virgin, as the Word assumed it, even so there would not be there 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' note in Latin (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the markers here are slugged continuously to keep each `[^N]` unique. Entries `[^1]`–`[^2]` are p.16 footers 5–6 (inherited at the q3→q4 boundary); `[^3]`–`[^12]` are p.17 footers 1–10; `[^13]`–`[^19]` are p.18 footers 1–7.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' note in Latin (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the markers here are slugged continuously to keep each N unique. Entries 1–2 are p.16 footers 5–6 (inherited at the q3→q4 boundary); 3–12 are p.17 footers 1–10; 13–19 are p.18 footers 1–7.
 
 [^1]: **La.** Pro *et* (Vat. *etiam*) codd. A E G L N T V aa perperam *in.*
      **En.** For *et* (the Vatican edition: *etiam*) the codices A E G L N T V aa wrongly read *in.*

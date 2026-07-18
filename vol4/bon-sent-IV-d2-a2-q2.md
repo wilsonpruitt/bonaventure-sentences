@@ -120,7 +120,7 @@ It must therefore be granted that it was instituted for signifying, not for effe
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' note (**La.**) followed by an English rendering (**En.**). Footnote numbering restarts on each printed page; this chunk uses one continuous sequence. Notes [^1]–[^2] are the right-column footers 5–6 of p.55 (footer 7 = [^3]); notes [^3]–[^14] continue from the body footers of p.55–56 (footer 7 of p.55 and footers 1–11 of p.56).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' note (**La.**) followed by an English rendering (**En.**). Footnote numbering restarts on each printed page; this chunk uses one continuous sequence. Notes 1–2 are the right-column footers 5–6 of p.55 (footer 7 = 3); notes 3–14 continue from the body footers of p.55–56 (footer 7 of p.55 and footers 1–11 of p.56).
 
 [^1]: **La.** Libr. II. de Sacram. p. VI. c. 6. — Finem arg. codd. M O sic exhibent: *patet quod cum Sacramentum est sacrae rei signum, quod institutum ad signandum*; cod. X post *patet quod* supplet *sit*, cod. Z *erat*.
     **En.** [Hugh of St. Victor,] book II *On the Sacraments*, part VI, c. 6. — The end of the argument codices M O give thus: *it is clear that since a Sacrament is a sign of a sacred thing, [it follows] that [it was] instituted for signifying*; after *it is clear that*, codex X supplies *it is*, codex Z *it was*.

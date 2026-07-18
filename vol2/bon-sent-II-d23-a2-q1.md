@@ -137,7 +137,7 @@ But the reasons which are adduced for the opposite part show that Adam, if he ha
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' note in Latin (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; here pp. 537–538 are renumbered continuously as [^1]–[^15].
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' note in Latin (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; here pp. 537–538 are renumbered continuously as 1–15.
 
 [^1]: **La.** Libr. I. p. VI. c. 13: *Rerum enim omnium visibilium, quae cum homine et propter hominem factae erant, perfectam* etc.
     **En.** Hugh of St. Victor, *On the Sacraments*, Book I, part VI, c. 13: « Of all visible things, which had been made together with man and on account of man, the perfect [knowledge] » etc.

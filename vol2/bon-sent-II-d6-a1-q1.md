@@ -139,7 +139,7 @@ III. On this question: Alexander of Hales, loc. cit. q. 98, m. 1, a. 1, 2. — S
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–13 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 161–162) — Quaracchi restarts footnote numbering on each printed page, so the per-page footers are renumbered continuously here: p.161 ¹–⁷ → [^1]–[^7]; p.162 left-column ¹²³ → [^8]–[^10]; p.162 right-column ⁴⁵⁶ → [^11]–[^13]. The whole p.161 footer is this chunk's (the preceding `bon-sent-II-d6-divisio` owns only the p.160 R-column `NOTAE AD COMMENTARIUM` block — see Notes). The SCHOLION I–III is editorial and carries no numbered apparatus.
+> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–13 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 161–162) — Quaracchi restarts footnote numbering on each printed page, so the per-page footers are renumbered continuously here: p.161 ¹–⁷ → 1–7; p.162 left-column ¹²³ → 8–10; p.162 right-column ⁴⁵⁶ → 11–13. The whole p.161 footer is this chunk's (the preceding `bon-sent-II-d6-divisio` owns only the p.160 R-column `NOTAE AD COMMENTARIUM` block — see Notes). The SCHOLION I–III is editorial and carries no numbered apparatus.
 
 [^1]: **La.** Vers. 14.
 

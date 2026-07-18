@@ -71,7 +71,7 @@ But perhaps some will say: since the works of the Trinity are undivided, if the 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi editors' note verbatim; **En.** gives a literal English rendering. Quaracchi restarts footnote numbering on each printed page; entries [^1]–[^8] are page 6, [^9]–[^11] are page 7. (Footnote 1 of p.6 — `Plures codd. Evangelia.` — annotates the book's chapter-list, *per Evangelium* in capitulum VI of Dist. XL, which lies in the front-matter preceding this littera, not in the littera body; it is intentionally NOT rendered here.)
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi editors' note verbatim; **En.** gives a literal English rendering. Quaracchi restarts footnote numbering on each printed page; entries 1–8 are page 6, 9–11 are page 7. (Footnote 1 of p.6 — `Plures codd. Evangelia.` — annotates the book's chapter-list, *per Evangelium* in capitulum VI of Dist. XL, which lies in the front-matter preceding this littera, not in the littera body; it is intentionally NOT rendered here.)
 
 [^1]: **La.** Gal. 4, 4. Vulgata *At ubi venit.* Cod. D *Quando venit.* In fine textus cod. E et Erf. et edd., excepta 9, *ut in adoptionem... reciperemur.* Deinde respicitur Ps. 101, 14; Ps. 64, 12; et Ioan. 1, 17.
     **En.** Gal. 4:4. The Vulgate [reads] *But when [the fullness] came.* Codex D [reads] *When it came.* At the end of the text, codex E and the Erfurt [codex] and the editions, except the 9th, [read] *that we might be received into adoption...* Then there is reference to Ps. 101:14; Ps. 64:12; and John 1:17.

@@ -159,7 +159,7 @@ From these things appears the response to the proposed question, and also to the
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi apparatus entry; **En.** is its English rendering. Footnote numbering restarts on each printed page in the source; here entries [^1]–[^9] are from the p.920 footer and [^10]–[^19] from the p.921 footer.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi apparatus entry; **En.** is its English rendering. Footnote numbering restarts on each printed page in the source; here entries 1–9 are from the p.920 footer and 10–19 from the p.921 footer.
 
 [^1]: **La.** Hic, circa initium. — In ipso Ambros. testimonio plures codd. cum edd. omittunt *tuus*. Paulo inferius post *est a qualitate* cod. V supplet *intentionis*. Aristot., de Praedicam. c. de Qualitate generaliter dicit: « Qualitatem vero dico, secundum quam quales quidam esse dicuntur ». Et post pauca: *Qualia vero sunt, quae secundum has [qualitates] denominative dicuntur, vel quomodolibet aliter ab his.*
     **En.** Here, near the beginning. — In the testimony of Ambrose itself many codices with the editions omit *tuus*. A little below, after *est a qualitate*, codex V supplies *intentionis*. Aristotle, in the *Categories*, in the chapter on Quality, says generally: « By quality I mean that according to which certain things are said to be of such a kind ». And shortly after: *Things of such a kind are those which are denominatively named according to these [qualities], or in any other way derived from them.*

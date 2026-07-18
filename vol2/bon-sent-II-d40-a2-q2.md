@@ -109,7 +109,7 @@ And this indeed admits of no exception, when there is an excess of the quantity 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; here notes [^1]–[^7] are page 929 and [^8]–[^14] are page 930.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; here notes 1–7 are page 929 and 8–14 are page 930.
 
 [^1]: **La.** Vers. 6.
     **En.** Verse 6. [2 Cor. 9:6]

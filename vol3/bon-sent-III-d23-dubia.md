@@ -211,7 +211,7 @@ To that which is objected concerning the Gloss, it must be said that faith is no
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the per-page anchors (`[^p501-1]`, etc.) preserve that.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the per-page anchors (p501-1, etc.) preserve that.
 
 [^p501-1]: **La.** Vers. 29.
     **En.** Verse 29.

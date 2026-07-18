@@ -299,7 +299,7 @@ And *if you ask* whether they have any *created* virtue over and above[^53] the 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries six per-page series (p.19 notes 1–11, p.20 notes 1–13, p.21 notes 1–10, p.22 notes 1–11, p.23 notes 1–11, p.24 notes 1–6), renumbered consecutively [^1]–[^62] for this file. (Printed p.24 footer notes 7–10 belong to the following Quaestio V.)
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries six per-page series (p.19 notes 1–11, p.20 notes 1–13, p.21 notes 1–10, p.22 notes 1–11, p.23 notes 1–11, p.24 notes 1–6), renumbered consecutively 1–62 for this file. (Printed p.24 footer notes 7–10 belong to the following Quaestio V.)
 
 [^1]: **La.** Cfr. hic lit. Magistri, c. 6.
 

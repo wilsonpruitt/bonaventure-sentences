@@ -173,7 +173,7 @@ For what is said to be *for signs;* this is either *To the objections.* for the 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** is the Quaracchi Latin apparatus verbatim from the IA djvu OCR (raw lines 25805–26147), reconciled column-by-column against 450 dpi PDF crops of pp. 365–370. **En.** is the literal English. Notes [^1]–[^3] are p. 365 footer notes 3–5 forwarded from `d14-p2-a2-q3` (anchored in DUB. I body).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** is the Quaracchi Latin apparatus verbatim from the IA djvu OCR (raw lines 25805–26147), reconciled column-by-column against 450 dpi PDF crops of pp. 365–370. **En.** is the literal English. Notes 1–3 are p. 365 footer notes 3–5 forwarded from `d14-p2-a2-q3` (anchored in DUB. I body).
 
 [^1]: **La.** Aristot., VIII. Phys. text. 57. (c. 7.).
 

@@ -26,7 +26,7 @@ format_version: 1
 ## Latin
 <!-- page 585 -->
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries two per-page series (p.585 notes 6–10, p.586 notes 1–3), renumbered consecutively [^1]–[^8] for this file. On p.585 notes 1–5 belong to the preceding chunk (a3-q2), which shares the page.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries two per-page series (p.585 notes 6–10, p.586 notes 1–3), renumbered consecutively 1–8 for this file. On p.585 notes 1–5 belong to the preceding chunk (a3-q2), which shares the page.
 
 ### Dub. I.
 

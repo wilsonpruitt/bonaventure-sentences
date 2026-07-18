@@ -168,7 +168,7 @@ II. Besides those praised: Alexander of Hales, on this and the following q., S. 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–20 within this chunk (Quaracchi restarts per page: p.154 → [^1]–[^8]; p.155 → [^9]–[^18]; p.156 → [^19]–[^20]). They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 154–156). The editorial Scholion I–II carries no numbered apparatus. p.154's footer notes ¹² anchor the preceding chunk (`bon-sent-II-d5-a2-q2` [^12]/[^13]) — this chunk's p.154 apparatus starts at note ³; p.156's footer notes ³,… anchor the next chunk (`bon-sent-II-d5-a3-q2`) — see Notes.
+> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–20 within this chunk (Quaracchi restarts per page: p.154 → 1–8; p.155 → 9–18; p.156 → 19–20). They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 154–156). The editorial Scholion I–II carries no numbered apparatus. p.154's footer notes ¹² anchor the preceding chunk (`bon-sent-II-d5-a2-q2` 12/13) — this chunk's p.154 apparatus starts at note ³; p.156's footer notes ³,… anchor the next chunk (`bon-sent-II-d5-a3-q2`) — see Notes.
 
 [^1]: **La.** Ita codd. F K V bb; multi alii cum Vat. *beatorum.*
 

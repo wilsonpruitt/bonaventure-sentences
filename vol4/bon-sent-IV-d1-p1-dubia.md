@@ -196,7 +196,7 @@ Likewise it is asked about this which Augustine says, that *they only promised a
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' Latin note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; this file merges the per-page series (p.28 nn.5–11, p.29 nn.1–12, p.30 nn.1–10, p.31 nn.1–8) into one consecutive `[^1]`–`[^37]` run.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' Latin note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; this file merges the per-page series (p.28 nn.5–11, p.29 nn.1–12, p.30 nn.1–10, p.31 nn.1–8) into one consecutive 1–37 run.
 
 [^1]: **La.** Edd. cum pluribus codd. *communicare*. Mox pro *sacrae rei signum* codd. F aa (H a secunda manu) *sacrae rei signa*.
 

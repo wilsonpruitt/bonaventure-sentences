@@ -112,7 +112,7 @@ But if spiritual kinship should precede marriage — that kinship, I mean, which
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries two per-page series (p.870 notes 1–6, p.871 notes 1–5), renumbered consecutively [^1]–[^11] for this file.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries two per-page series (p.870 notes 1–6, p.871 notes 1–5), renumbered consecutively 1–11 for this file.
 
 [^1]: **La.** Can. 5: *De eo quod interrogastis,* qui integer refertur hic lit. Magistri, c. 2.
 

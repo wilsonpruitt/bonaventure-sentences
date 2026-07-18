@@ -164,7 +164,7 @@ the world unto its end, if none were dying? But if you say that they would not h
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Latin Quaracchi footer first, then a literal English rendering. (Note: p.461 L-2 footers ¹–³ — *Text. 4. seqq.*; *Dist. 44...*; *Vat. et virtutes sensitivas*— anchor in the preceding *d19-a1-q1* body and are rendered there as [^29]–[^30] of that chunk; the present chunk begins from p.461 L-2 footer ⁴.)
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Latin Quaracchi footer first, then a literal English rendering. (Note: p.461 L-2 footers ¹–³ — *Text. 4. seqq.*; *Dist. 44...*; *Vat. et virtutes sensitivas*— anchor in the preceding *d19-a1-q1* body and are rendered there as 29–30 of that chunk; the present chunk begins from p.461 L-2 footer ⁴.)
 
 [^1]: **La.** Vers. 19. — Scil. Eccle. 3, 19: *Unus est interitus hominis et iumentorum.*
 

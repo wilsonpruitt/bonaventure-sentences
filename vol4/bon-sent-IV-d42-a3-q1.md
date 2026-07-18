@@ -32,7 +32,7 @@ Consequenter quantum ad tertium articulum quaeritur de secundo foedere nuptiali.
 
 ### Quaestio I. *Utrum secundae nuptiae sint licitae.*
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts its footer numbering on each printed page; here p.876 carries the edition's notes 4–10 (notes 1–3 belong to the preceding a2-q3) and p.877 carries its notes 1–4. In this chunk they are renumbered sequentially [^1]–[^11].
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts its footer numbering on each printed page; here p.876 carries the edition's notes 4–10 (notes 1–3 belong to the preceding a2-q3) and p.877 carries its notes 1–4. In this chunk they are renumbered sequentially 1–11.
 
 Quantum ergo ad primum ostenditur, quod secundae nuptiae non sint licitae.
 

@@ -157,7 +157,7 @@ Yet nevertheless, as has been shown by several reasons, it is in no way to be sa
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries two per-page series (p.16 notes 1–10, p.17 notes 1–10), renumbered consecutively [^1]–[^20] for this file. Printed p.18 (the Scholion) carries no footnote apparatus.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries two per-page series (p.16 notes 1–10, p.17 notes 1–10), renumbered consecutively 1–20 for this file. Printed p.18 (the Scholion) carries no footnote apparatus.
 
 [^1]: **La.** Psalm. 17, 12. — Glossa, quam exhibet Petr. Lombard. in hunc locum, expositioni August. (*latibulum* i. e. occultam spem in corde credentium vel obscuritatem Sacramentorum) tanquam ratio additur: Latuit enim Divinitas etc.
 

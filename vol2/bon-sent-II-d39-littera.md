@@ -69,7 +69,7 @@ Moreover it is wont to be asked how that is to be understood which Ambrose says,
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' Latin note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; markers `[^1]`–`[^4]` belong to p.896, and `[^5]`–`[^9]` to p.897.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' Latin note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; markers 1–4 belong to p.896, and 5–9 to p.897.
 
 [^1]: **La.** Dist. XXXVII. c. 1.
     **En.** Distinction XXXVII, c. 1.

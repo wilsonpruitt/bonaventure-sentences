@@ -139,7 +139,7 @@ II. Alexander of Hales, *Summa* p. II, q. 37, m. 3. — St. Thomas, here the sin
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–12 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, p. 167). The ARTICULUS III opener + 2-question sub-divisio (lower on p.166) carries no footnote markers (the p.166 footer is wholly the preceding chunk `bon-sent-II-d6-a2-q2`'s — see Notes); QUAESTIO I's apparatus is wholly on p.167, renumbered continuously (left-column ¹–⁴ → [^1]–[^4]; right-column ⁵–¹² → [^5]–[^12]). The editorial SCHOLION I–II (covering both art. III questions) carries no numbered apparatus.
+> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–12 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, p. 167). The ARTICULUS III opener + 2-question sub-divisio (lower on p.166) carries no footnote markers (the p.166 footer is wholly the preceding chunk `bon-sent-II-d6-a2-q2`'s — see Notes); QUAESTIO I's apparatus is wholly on p.167, renumbered continuously (left-column ¹–⁴ → 1–4; right-column ⁵–¹² → 5–12). The editorial SCHOLION I–II (covering both art. III questions) carries no numbered apparatus.
 
 [^1]: **La.** Vers. 12. — In fine argumenti multi codd. cum ed. 1 omittunt *distincti*; codd. F K legunt *et ita videtur, quod ordines sint inter eos.*
 

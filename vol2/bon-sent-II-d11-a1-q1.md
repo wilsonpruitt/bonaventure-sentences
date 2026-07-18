@@ -175,7 +175,7 @@ It was fitting therefore that angelic guardianship be given to fallen man from t
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus first in Latin (**La.**), then in English (**En.**). Variant readings (`Vat.`, `cod.`, `codd.`, `ed. 1`, etc.) are reproduced verbatim in Latin and rendered descriptively in English. Footnotes [^1]–[^2] are p.276 footers ²–³ (reserved for this chunk by `d11-divisio` per the cross-chunk page-footer split discipline); [^3]–[^14] are p.277 footers ¹–¹²; [^15]–[^20] are p.278 footers ¹–⁶.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus first in Latin (**La.**), then in English (**En.**). Variant readings (`Vat.`, `cod.`, `codd.`, `ed. 1`, etc.) are reproduced verbatim in Latin and rendered descriptively in English. Footnotes 1–2 are p.276 footers ²–³ (reserved for this chunk by `d11-divisio` per the cross-chunk page-footer split discipline); 3–14 are p.277 footers ¹–¹²; 15–20 are p.278 footers ¹–⁶.
 
 [^1]: **La.** Cfr. infra d. 25. p. II. q. 4. seq. — *Quod Deus nihil facit frustra*, dicit Aristot., I. *de Caelo et mundo*, text. 32. (c. 4.).
 

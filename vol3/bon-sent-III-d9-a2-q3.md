@@ -143,7 +143,7 @@ Now these things have been said of latria according as it is properly taken for 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi editors' note in Latin; **En.** gives the English rendering. Quaracchi restarts footnote numbering on each printed page, so the page-216 sequence (notes 3–5, the page's notes 1–2 having been consumed by q2) runs into the page-217 sequence (1–9) — these nine do not collide, so they render unsuffixed [^1]–[^15] — followed by the page-218 sequence (1–10, suffix `b`) and the page-219 q3-closing sequence (notes 1–4, suffix `c`); per-page markers are disambiguated here with letter suffixes (`b` = p.218, `c` = p.219).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi editors' note in Latin; **En.** gives the English rendering. Quaracchi restarts footnote numbering on each printed page, so the page-216 sequence (notes 3–5, the page's notes 1–2 having been consumed by q2) runs into the page-217 sequence (1–9) — these nine do not collide, so they render unsuffixed 1–15 — followed by the page-218 sequence (1–10, suffix `b`) and the page-219 q3-closing sequence (notes 1–4, suffix `c`); per-page markers are disambiguated here with letter suffixes (`b` = p.218, `c` = p.219).
 
 [^1]: **La.** *Num. 2.* (alias c. 4.) [X. de Civ. Dei]. — Vat. addit *ibi ab Augustino*; cfr. supra pag. 99, nota 7.
     **En.** [On the City of God, bk. X] no. 2 (otherwise c. 4). — The Vatican edition adds *there, by Augustine*; cf. above, p. 99, note 7.

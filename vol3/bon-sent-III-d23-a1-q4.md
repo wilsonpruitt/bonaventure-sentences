@@ -135,7 +135,7 @@ But if we speak of the certainty of *speculation,* which indeed regards the inte
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are grouped per page (`p480`, `p481`, `p482`). On p.480 the per-page sequence begins at n.3 because nn.1–2 belong to the preceding quaestio (q.3); q.4's first footers are nn.3–5. Footnote 8 of p.482 is a single Quaracchi note whose quotation runs past the p.482→483 page break; it is rendered here in two anchors, `[^p482-8]` (lead-in on p.482) and `[^p482-8b]` (the quotation that continues at the top of p.483).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are grouped per page (`p480`, `p481`, `p482`). On p.480 the per-page sequence begins at n.3 because nn.1–2 belong to the preceding quaestio (q.3); q.4's first footers are nn.3–5. Footnote 8 of p.482 is a single Quaracchi note whose quotation runs past the p.482→483 page break; it is rendered here in two anchors, p482-8 (lead-in on p.482) and p482-8b (the quotation that continues at the top of p.483).
 
 [^p480-3]: **La.** Libr. XIII. de Trin. c. 1. n. 3, sententialiter; cfr. hic lit. Magistri, c. 7.
     **En.** Book XIII *On the Trinity*, c. 1, n. 3, in substance; cf. here Lombard's text, c. 7.

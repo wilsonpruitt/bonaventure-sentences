@@ -67,7 +67,7 @@ format_version: 1
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Latin of Quaracchi's apparatus (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; these entries combine the full p.817 footer block (footers 1–7 → [^1]–[^7]) and the DUBIA's share of the p.818 footer block (footers 1–4 → [^8]–[^11]; the page's NOTAE AD LIBR. SENTENTIARUM block belongs to the following DISTINCTIO XXXV).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Latin of Quaracchi's apparatus (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; these entries combine the full p.817 footer block (footers 1–7 → 1–7) and the DUBIA's share of the p.818 footer block (footers 1–4 → 8–11; the page's NOTAE AD LIBR. SENTENTIARUM block belongs to the following DISTINCTIO XXXV).
 
 [^1]: **La.** Quaest. 3. seq.
     **En.** Question 3 and following.

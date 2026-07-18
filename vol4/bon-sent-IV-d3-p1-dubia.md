@@ -113,7 +113,7 @@ Note that this is to be understood not as though there were a full form there �
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' note (**La.**) followed by an English rendering (**En.**). Footnote numbering restarts on each printed page; the entry from p.74 (note 11) carries over after the preceding quaestio (a2-q3), and the ten entries from p.75 begin afresh. (p.76 note 1 was originally mis-taken here as `[^1b]`; it actually anchors in d3-p2-a1-q1 at *ostendit* and has been moved there.)
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' note (**La.**) followed by an English rendering (**En.**). Footnote numbering restarts on each printed page; the entry from p.74 (note 11) carries over after the preceding quaestio (a2-q3), and the ten entries from p.75 begin afresh. (p.76 note 1 was originally mis-taken here as 1b; it actually anchors in d3-p2-a1-q1 at *ostendit* and has been moved there.)
 
 [^11]: **La.** Cfr. supra pag. 28, nota 6. — Pro *notificato,* quod cum edd. retinuimus, cod. I a secunda manu *ei cuius est.*
     **En.** Cf. above, p. 28, note 6. — For *notificato,* which with the editions we have retained, codex I by a second hand [reads] *ei cuius est.*

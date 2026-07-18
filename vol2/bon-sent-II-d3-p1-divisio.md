@@ -91,7 +91,7 @@ Third it is asked whether it is one in number, or [one] by another identity.
 
 ## Apparatus
 
-> This divisio carries **no numbered apparatus**. The COMMENTARIUS divisio body (DIVISIO TEXTUS + TRACTATIO QUAESTIONUM) contains no footnote markers, and printed p.88 has no `NOTAE AD COMMENTARIUM` sub-block. The four footer notes on p.88 are the preceding *littera*'s (Cap. V–VI), already captured in `bon-sent-II-d3-littera` as its `[^17]`–`[^20]`; the next apparatus is on printed p.89 and belongs to the following `bon-sent-II-d3-p1-a1-q1`.
+> This divisio carries **no numbered apparatus**. The COMMENTARIUS divisio body (DIVISIO TEXTUS + TRACTATIO QUAESTIONUM) contains no footnote markers, and printed p.88 has no `NOTAE AD COMMENTARIUM` sub-block. The four footer notes on p.88 are the preceding *littera*'s (Cap. V–VI), already captured in `bon-sent-II-d3-littera` as its 17–20; the next apparatus is on printed p.89 and belongs to the following `bon-sent-II-d3-p1-a1-q1`.
 
 ## Notes
 

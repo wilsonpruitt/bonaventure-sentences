@@ -179,7 +179,7 @@ s mode, species, and order, as it ought, is good. But our will is good when, in 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. [^1]–[^5] are p.828 footers 1–5; [^6]–[^10] are p.829 footers 1–5; [^11]–[^14] are p.830 footers 1–4 (p.830 footer 5 belongs to QUAESTIO II and is forwarded to d35-a2-q2).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. 1–5 are p.828 footers 1–5; 6–10 are p.829 footers 1–5; 11–14 are p.830 footers 1–4 (p.830 footer 5 belongs to QUAESTIO II and is forwarded to d35-a2-q2).
 
 [^1]: **La.** De Natura boni, c. 4.
     **En.** *On the Nature of the Good*, c. 4.

@@ -151,7 +151,7 @@ it is to be understood in the transfusion of original sin. Even though the sin o
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. [^1]–[^4] are p.790's QUAESTIO II footer share (left-block notes 1, 3, 4 + right-block note 6, received from d33-a2-q1, which held only p.790 notes 5 + the *et*-variant note 2); [^5]–[^11] are p.791 footers 1–7; [^12]–[^18] are p.792's q2 footers 1–7. (p.792 footer 8 *Vat. cum edd. 3, 4 adiicit Dei* + the p.793 ARTICULUS III footers belong to ARTICULUS III and are forwarded to d33-a3-q1.)
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. 1–4 are p.790's QUAESTIO II footer share (left-block notes 1, 3, 4 + right-block note 6, received from d33-a2-q1, which held only p.790 notes 5 + the *et*-variant note 2); 5–11 are p.791 footers 1–7; 12–18 are p.792's q2 footers 1–7. (p.792 footer 8 *Vat. cum edd. 3, 4 adiicit Dei* + the p.793 ARTICULUS III footers belong to ARTICULUS III and are forwarded to d33-a3-q1.)
 
 [^1]: **La.** Vat. cum edd. 3, 4 *sunt.*
     **En.** The Vatican [edition] with edd. 3, 4 [reads] *sunt.*

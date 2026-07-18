@@ -33,7 +33,7 @@ format_version: 1
 ### Quaestio IV.
 #### *Utrum ratio divinae potentiae se extendat ad infinita.*
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation that follows. Each note is given first in Latin (`**La.**`), then in literal English (`**En.**`). Quaracchi restarts footnote numbering on each printed page; this chunk renumbers them sequentially `[^1]`–`[^13]` across the two printed pages (774, 775).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation that follows. Each note is given first in Latin (`**La.**`), then in literal English (`**En.**`). Quaracchi restarts footnote numbering on each printed page; this chunk renumbers them sequentially 1–13 across the two printed pages (774, 775).
 
 Quarto et ultimo quaeritur de infinitate divinae potentiae quantum ad *rationem operandi*, et quaeritur, utrum *ratio operandi*[^1] se extendat in infinitum. Et quod sic, videtur:
 

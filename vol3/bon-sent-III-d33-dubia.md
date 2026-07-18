@@ -88,7 +88,7 @@ Si autem considerentur virtutes per comparationem ad obiectum, hoc similiter pot
 
 Et ex his quae quaesita sunt, possent formari sex problemata praeter illa quae quaesita sunt, quatuor videlicet de definitionibus harum quatuor virtutum, et duo sequentia de earum virtutum nomine et ordine. Et ista sufficiant de virtutibus cardinalibus in sua generalitate[^33].
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation below. Quaracchi restarts footnote numbering on each printed page; this chunk gathers the footer sequences of pp. 728–731 (the Dubia's own share), renumbered continuously `[^1]`…`[^33]`.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation below. Quaracchi restarts footnote numbering on each printed page; this chunk gathers the footer sequences of pp. 728–731 (the Dubia's own share), renumbered continuously 1…33.
 
 ## English
 

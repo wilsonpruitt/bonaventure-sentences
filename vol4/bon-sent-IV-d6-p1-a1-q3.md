@@ -129,7 +129,7 @@ Some [have said] that it is in the *whole image* by reason of configuring. And b
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **Quaracchi restarts footnote numbering on each printed page.** This chunk spans pages 141 and 142; the markers are rendered as one running `[^1]…[^14]` sequence here, but on the printed page they reset at each page boundary. The per-page split is: **p.141 = [^1]–[^9]** (printed nn.4–12 — the q3 share, since the preceding q.2 took p.141's printed nn.1–3); **p.142 = [^10]–[^14]** (printed nn.1–5 — the q3 share, since p.142's printed n.6 belongs to the following q.4). See `## Notes` for the full marker map.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **Quaracchi restarts footnote numbering on each printed page.** This chunk spans pages 141 and 142; the markers are rendered as one running 1…14` sequence here, but on the printed page they reset at each page boundary. The per-page split is: **p.141 = 1–9** (printed nn.4–12 — the q3 share, since the preceding q.2 took p.141's printed nn.1–3); **p.142 = 10–14** (printed nn.1–5 — the q3 share, since p.142's printed n.6 belongs to the following q.4). See `## Notes` for the full marker map.
 
 [^1]: **La.** Cfr. supra pag. 139, nota 8.
 

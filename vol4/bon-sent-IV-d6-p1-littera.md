@@ -138,7 +138,7 @@ Now that interrogation and response of faith takes place in catechism[^p135-5]; 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers `[^a]` and `[^b]` carry the two p.133 right-column notes (10, 11) that overlap the p.134 page break in marker order.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers a and b carry the two p.133 right-column notes (10, 11) that overlap the p.134 page break in marker order.
 
 ### Printed page 133
 

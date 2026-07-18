@@ -34,7 +34,7 @@ format_version: 1
 ### Quaestio IV.
 #### *Utrum possibile simpliciter dicatur secundum causas superiores, an inferiores.*
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation that follows. Each note is given first in Latin (`**La.**`), then in literal English (`**En.**`). Quaracchi restarts footnote numbering on each printed page; this chunk renumbers them sequentially `[^1]`–`[^28]` across the four printed pages (756, 757, 758, 759).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation that follows. Each note is given first in Latin (`**La.**`), then in literal English (`**En.**`). Quaracchi restarts footnote numbering on each printed page; this chunk renumbers them sequentially 1–28 across the four printed pages (756, 757, 758, 759).
 
 Quarto et ultimo quaeritur, utrum *possibile simpliciter* dicatur aliquid secundum causas superiores, vel secundum causas inferiores, hoc est secundum potentiam divinam, an secundum potentiam creatam. Et quod secundum potentiam creatam sive secundum causas inferiores, videtur.
 

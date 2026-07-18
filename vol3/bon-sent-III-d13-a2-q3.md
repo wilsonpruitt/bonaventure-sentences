@@ -148,7 +148,7 @@ apt for cognizing and the nerves apt for sensing and moving; so that the nerves 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are page-suffixed (e.g. `[^p288-3]`). The Scholion carries no numbered apparatus of its own.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are page-suffixed (e.g. p288-3). The Scholion carries no numbered apparatus of its own.
 
 [^p288-3]: **La.** Vers. 9. seq. — Verba Glossae, quae *ordinaria* est et habetur apud Petr. Lombardum et Lyranum in hunc loc., delibata sunt ex August., Enchirid. c. 62. n. 16. — Circa finem arg. post *suscipiunt gratiam* cod. F addit *unionis*.
 

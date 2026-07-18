@@ -157,7 +157,7 @@ which he makes about the scourging of Pharaoh: when God sent scourges upon Phara
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. [^1]–[^9] are p.850 footers 1–9; [^10]–[^17] are p.851 footers 1–8; [^18] is p.852 footer 1.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. 1–9 are p.850 footers 1–9; 10–17 are p.851 footers 1–8; 18 is p.852 footer 1.
 
 [^1]: **La.** In Ezech. c. 5, 16: *Famem et pestilentiam et bestias pessimas et quidquid aliud malorum sustinemus in saeculo, propter nostra venire peccata manifestum est.*
     **En.** On Ezekiel, c. 5, 16: *Famine and pestilence and the worst beasts and whatever else of evils we endure in this world, that it comes on account of our sins is manifest.*

@@ -121,7 +121,7 @@ To the authorities, then, to the contrary, either it must be resolved that he sp
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–20 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 138–141): printed p.138 footer note 6 → [^1]; p.139 footer notes 1–11 → [^2]–[^12]; p.140 footer notes 1–8 → [^13]–[^20]. p.138's footer notes 1–5 anchor the preceding `bon-sent-II-d4-a2-q2` and are already its apparatus — see Notes.
+> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–20 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 138–141): printed p.138 footer note 6 → 1; p.139 footer notes 1–11 → 2–12; p.140 footer notes 1–8 → 13–20. p.138's footer notes 1–5 anchor the preceding `bon-sent-II-d4-a2-q2` and are already its apparatus — see Notes.
 
 [^1]: **La.** Praecipue II. c. 8. n. 16. seqq.; III. c. 20. n. 31. seq.; IV. c. 22. n. 39. seqq., V. c. 3. n. 5. seqq.
 

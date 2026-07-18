@@ -118,7 +118,7 @@ Father [is] father of the Son, and Son [is] son of the Father, so let it be said
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi critical apparatus (NOTAE AD LIBR. SENTENTIARUM, reflowed from the two-column footnote bands on printed pp. 447–450) in Latin, followed by an English rendering. Note placement for several anchors (e.g. [^3], [^14], [^19], [^20], [^21]) is approximate; see `manual-review/tier2-ambiguities-d26-littera.md`.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi critical apparatus (NOTAE AD LIBR. SENTENTIARUM, reflowed from the two-column footnote bands on printed pp. 447–450) in Latin, followed by an English rendering. Note placement for several anchors (e.g. 3, 14, 19, 20, 21) is approximate; see `manual-review/tier2-ambiguities-d26-littera.md`.
 
 [^1]: **La.** Epist. 15. n. 3; in quo textu pro *indicit* ed. 2 *inducit*, originale *dicit*, sed adiicit particulam *in* ante *tribus personis*. Deinde codd. A C D E et ed. 1 cum originali omittunt *Nomen hoc* post *si placet*, quae lectio, licet minus clara, fortasse genuina est. Immediate post in originali legitur in eodem sensu verba *dissentiunt* pro *in eodem verbo sensus dissentiunt*; haec tamen lectio Magistri omnino praeferenda est.
 

@@ -138,7 +138,7 @@ true that it will not remain in the fatherland, just as neither will hope. There
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi critical note verbatim; **En.** is a literal rendering. Quaracchi restarts footnote numbering on each printed page; the markers here are renumbered continuously across pp.765–767 (p.765 nn.10–11 → [^1]–[^2], picked up from `bon-sent-III-d34-p2-a2-q2`; p.766 nn.1–11 → [^3]–[^13]; p.767 nn.1–4 → [^14]–[^16]). p.767 nn.5 ff. belong to the Dubia and are claimed by `bon-sent-III-d34-p2-dubia`.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi critical note verbatim; **En.** is a literal rendering. Quaracchi restarts footnote numbering on each printed page; the markers here are renumbered continuously across pp.765–767 (p.765 nn.10–11 → 1–2, picked up from `bon-sent-III-d34-p2-a2-q2`; p.766 nn.1–11 → 3–13; p.767 nn.1–4 → 14–16). p.767 nn.5 ff. belong to the Dubia and are claimed by `bon-sent-III-d34-p2-dubia`.
 
 [^1]: **La.** Psalm. 18, 10; Vulgata *permanens* pro *permanet.*
     **En.** Psalm 18:10; the Vulgate [reads] *permanens* (remaining) for *permanet* (remains).

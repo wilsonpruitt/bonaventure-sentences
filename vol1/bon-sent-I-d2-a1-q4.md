@@ -190,7 +190,7 @@ Or — differently and better — the mode of producing by art agrees with the m
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; we number sequentially in chunk order. Entries [^1]–[^6] are from the p. 56 footer; [^7]–[^17] from the p. 57 footer; [^18]–[^26] from the p. 58 footer.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; we number sequentially in chunk order. Entries 1–6 are from the p. 56 footer; 7–17 from the p. 57 footer; 18–26 from the p. 58 footer.
 
 [^1]: **La.** Ioan. 16, 13: *Omnia quaecumque habet Pater mea sunt*.
     **En.** John 16:13: *«All things whatsoever the Father has are mine»*.

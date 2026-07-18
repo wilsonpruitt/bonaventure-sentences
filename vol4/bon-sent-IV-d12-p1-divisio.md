@@ -121,7 +121,7 @@ Third, whether it is true, or is verified, in this Sacrament.
 
 ## Apparatus
 
-> This chunk carries no apparatus of its own. The page-foot notes printed on its pages belong to the Master's littera and are rendered in `d12-p1-littera` [^15]–[^18].
+> This chunk carries no apparatus of its own. The page-foot notes printed on its pages belong to the Master's littera and are rendered in `d12-p1-littera` 15–18.
 
 ## Notes
 

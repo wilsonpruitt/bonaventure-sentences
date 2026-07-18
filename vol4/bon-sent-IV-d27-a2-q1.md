@@ -121,7 +121,7 @@ As to the first, then, it is shown that consent is the cause of marriage:
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries the last footnote of p. 678 (its note 9, anchored to Articulus II q.1's opening argument) followed by p. 679's notes 1–11, renumbered consecutively [^1]–[^12] for this file. (p. 679's note 12 anchors to the following q.2 and is not carried here.)
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries the last footnote of p. 678 (its note 9, anchored to Articulus II q.1's opening argument) followed by p. 679's notes 1–11, renumbered consecutively 1–12 for this file. (p. 679's note 12 anchors to the following q.2 and is not carried here.)
 
 [^1]: **La.** Homil. 32. in Matth. (opus imperfect.). Cfr. hic lit. Magistri, c. 3.
 

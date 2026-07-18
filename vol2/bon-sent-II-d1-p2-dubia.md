@@ -88,7 +88,7 @@ Likewise it is asked concerning those causes which the Master assigns regarding 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They are renumbered 1–12 within this chunk; in the Quaracchi printed text they are notes 5–11 of the page-51 footer (the page-51 footer's notes 1–4 anchor in the preceding chunk a3-q2 and are its [^17]–[^20]) and notes 1–5 of the page-52 footer (the page-52 footer's `NOTAE AD LIBR. SENTENTIARUM` block anchors in the following DISTINCTIO II). See Notes for the page-by-page crosswalk.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They are renumbered 1–12 within this chunk; in the Quaracchi printed text they are notes 5–11 of the page-51 footer (the page-51 footer's notes 1–4 anchor in the preceding chunk a3-q2 and are its 17–20) and notes 1–5 of the page-52 footer (the page-52 footer's `NOTAE AD LIBR. SENTENTIARUM` block anchors in the following DISTINCTIO II). See Notes for the page-by-page crosswalk.
 
 [^1]: **La.** Hic c. 4.
 

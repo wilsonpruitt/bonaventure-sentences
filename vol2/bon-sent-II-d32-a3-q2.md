@@ -155,7 +155,7 @@ And *if you ask*, since God foreknew this, why He would infuse the soul into tha
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. [^1]–[^2] are p.771 footers 4–5 (footers 1–3 belong to article III q1, held in a3-q1); [^3]–[^12] are p.772 footers 1–10; [^13]–[^18] are p.773 footers 1–6; [^19]–[^23] are p.774 footers 1–5 (the page's later footers belong to the DUBIA).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. 1–2 are p.771 footers 4–5 (footers 1–3 belong to article III q1, held in a3-q1); 3–12 are p.772 footers 1–10; 13–18 are p.773 footers 1–6; 19–23 are p.774 footers 1–5 (the page's later footers belong to the DUBIA).
 
 [^1]: **La.** Paulo ante plurimi codd. et edd. 1, 2, 3, 4 *animam infusam* pro *anima infusa*, tamen incongrue retinent *eam*, exceptis cod. cc et ed. 1, recte in sua lectione omittentibus *eam.*
 

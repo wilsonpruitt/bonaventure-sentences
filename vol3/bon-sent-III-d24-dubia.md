@@ -127,7 +127,7 @@ To that of Dionysius the response is likewise clear, because he means to say tha
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the per-page anchors (`[^p529-4]`, etc.) preserve that. On p.529 the dubia begin mid-page after q2's solution, so this chunk's p.529 footers begin at n.4 (q2 owns nn.1–3 of the shared p.529 sequence).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the per-page anchors (p529-4, etc.) preserve that. On p.529 the dubia begin mid-page after q2's solution, so this chunk's p.529 footers begin at n.4 (q2 owns nn.1–3 of the shared p.529 sequence).
 
 [^p529-4]: **La.** Psalm. 48, 13.
     **En.** Psalm 48:13.

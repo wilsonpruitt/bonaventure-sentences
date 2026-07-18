@@ -174,7 +174,7 @@ it must be said that it is not alike, because the formal character of truth and 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They render the Quaracchi editors' critical apparatus. Quaracchi restarts footnote numbering on each printed page; markers here are page-suffixed (`[^p306-N]`, `[^p307-N]`, …). The two p.306 footers (nn. 3–4) are this question's first body-footers, handed off from d14-a1-q3 (which consumed p.306 nn. 1–2); the Scholion carries no numbered apparatus.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They render the Quaracchi editors' critical apparatus. Quaracchi restarts footnote numbering on each printed page; markers here are page-suffixed (p306-N, p307-N, …). The two p.306 footers (nn. 3–4) are this question's first body-footers, handed off from d14-a1-q3 (which consumed p.306 nn. 1–2); the Scholion carries no numbered apparatus.
 
 [^p306-3]: **La.** Non pauci codd. nec non edd. 1, 2 voculae *eodem* praefigunt *in*, et mox omittunt *Christi.* Deinde iidem codd. etiam voci *actu* praemittunt *in*, et cod. U pro *noscat* exhibet *cognoscat.*
 

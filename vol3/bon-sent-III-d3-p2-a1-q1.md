@@ -130,7 +130,7 @@ But if it be asked why baptism and circumcision cannot be a figurative act, as t
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk holds the full p. 81 sequence (1–8) and the p. 82 sequence (1–7), rendered here continuously as [^1]–[^15].
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk holds the full p. 81 sequence (1–8) and the p. 82 sequence (1–7), rendered here continuously as 1–15.
 
 [^1]: **La.** Vers. 9.
     **En.** Verse 9.

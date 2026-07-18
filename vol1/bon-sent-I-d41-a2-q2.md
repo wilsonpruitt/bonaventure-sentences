@@ -33,7 +33,7 @@ format_version: 1
 ### Quaestio II.
 #### *Utrum enuntiabilia, quae semel Deus cognoscit, semper cognoscat.*
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation that follows. Each note is given first in Latin (`**La.**`), then in literal English (`**En.**`). Footnote numbering in the printed Quaracchi text restarts on every page; this chunk re-numbers continuously [^1]–[^28] across the four printed pages (738–741), in the order they are anchored in the body.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation that follows. Each note is given first in Latin (`**La.**`), then in literal English (`**En.**`). Footnote numbering in the printed Quaracchi text restarts on every page; this chunk re-numbers continuously 1–28 across the four printed pages (738–741), in the order they are anchored in the body.
 
 Secundo quaeritur, utrum enuntiabilia sive complexa[^1] quae Deus semel cognoscit, semper cognoscat vel sciat. Et quod sic, videtur:
 

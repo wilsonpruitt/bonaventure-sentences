@@ -127,7 +127,7 @@ But as to that which is lastly objected concerning the act of advising, how it r
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk spans pp.780–782. p.780 nn.1–10 → [^1]–[^10]; p.781 nn.1–8 → [^11]–[^18]; p.782 nn.1–4 → [^19]–[^22] (p.782 nn.5 ff. belong to the following QUAESTIO V = a1-q5).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk spans pp.780–782. p.780 nn.1–10 → 1–10; p.781 nn.1–8 → 11–18; p.782 nn.1–4 → 19–22 (p.782 nn.5 ff. belong to the following QUAESTIO V = a1-q5).
 
 [^1]: **La.** Eccli. 32, 24: *Fili, sine consilio nihil facias, et post factum non poenitebis.* Ibid. c. 37, 20: *Ante omnem actum* [praecedat] *consilium stabile.*
     **En.** Sirach 32:24: "Son, do nothing without counsel, and after the deed thou shalt not repent." Likewise c. 37:20: "Before every act [let] a stable counsel [precede]."

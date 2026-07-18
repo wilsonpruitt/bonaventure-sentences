@@ -158,7 +158,7 @@ Now from these things which have been said in the letter, six problems concernin
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each renders the Quaracchi critical apparatus entry: **La.** the Latin note, **En.** a literal English rendering. Per Quaracchi's per-page footnote restart, this chunk leads with p.767's footer notes 5–9 (→ [^1]–[^5]; notes 1–4 belong to the preceding a2-q3), then p.768 (notes 1–11 → [^6]–[^16]), p.769 (notes 1–10 → [^17]–[^26]), and p.770 (notes 1–12 → [^27]–[^38]).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each renders the Quaracchi critical apparatus entry: **La.** the Latin note, **En.** a literal English rendering. Per Quaracchi's per-page footnote restart, this chunk leads with p.767's footer notes 5–9 (→ 1–5; notes 1–4 belong to the preceding a2-q3), then p.768 (notes 1–11 → 6–16), p.769 (notes 1–10 → 17–26), and p.770 (notes 1–12 → 27–38).
 
 [^1]: **La.** Cicero, l. de Offic. c. 3: *Omnis enim quae a ratione suscipitur de aliqua re institutio debet a definitione proficisci, ut intelligatur, quid sit id, de quo disputetur.* Cfr. Boeth., de Definitione.
     **En.** Cicero, *On Duties*, bk. 1, ch. 3: *For every systematic treatment undertaken by reason concerning any matter ought to begin from a definition, so that it may be understood what that is which is under discussion.* Cf. Boethius, *On Definition*.

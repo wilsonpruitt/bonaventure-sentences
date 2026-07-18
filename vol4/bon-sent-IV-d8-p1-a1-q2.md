@@ -99,7 +99,7 @@ furnishing power to all the Sacraments, and therefore it preceded all things. An
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this question carries the apparatus anchored in its body across pp. 182–183 (p. 182 notes 1–11; p. 183 notes 1–2, renumbered here as [^12]–[^13]).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this question carries the apparatus anchored in its body across pp. 182–183 (p. 182 notes 1–11; p. 183 notes 1–2, renumbered here as 12–13).
 
 [^1]: **La.** Hic in lit. c. 2.
     **En.** Here in the text [of the Master], c. 2.

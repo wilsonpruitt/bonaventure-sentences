@@ -101,7 +101,7 @@ Fourthly, whether the Church is bound toward temporal support for such persons.
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. On printed p. 607 the footer under this *Divisio textus* / *Tractatio quaestionum* carries two note-series across its two columns: a source-reference series ([^2], [^4]) and a *Notae ad Commentarium* series ([^1], [^3], [^5]). All belong to this divisio; they are renumbered here in body-reading order.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. On printed p. 607 the footer under this *Divisio textus* / *Tractatio quaestionum* carries two note-series across its two columns: a source-reference series (2, 4) and a *Notae ad Commentarium* series (1, 3, 5). All belong to this divisio; they are renumbered here in body-reading order.
 
 [^1]: **La.** Cfr. supra d. 2. dub. 1. et d. 23. dub. 1. — Inferius pro *in qua* cod. G *quae*.
     **En.** Cf. above, distinction 2, dubium 1, and distinction 23, dubium 1. — Below, for *in qua* (in which), codex G [reads] *quae* (which).

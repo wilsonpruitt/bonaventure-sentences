@@ -74,7 +74,7 @@ Likewise it is asked concerning what it says, that without a blessing marriage d
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk's own footer notes are printed p.697's notes 3–8 (notes 1–2 belong to the preceding chunk, `d28-a1-q6`), renumbered here continuously as [^1]–[^6].
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk's own footer notes are printed p.697's notes 3–8 (notes 1–2 belong to the preceding chunk, `d28-a1-q6`), renumbered here continuously as 1–6.
 
 [^1]: **La.** Cfr. infra d. 38. a. 2. q. 1.
     **En.** Cf. below, d. 38, a. 2, q. 1.

@@ -125,7 +125,7 @@ It can be said otherwise, and it comes back to almost the same thing, that since
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi critical apparatus verbatim; **En.** is a literal rendering. The NOTAE AD COMMENTARIUM restart their numbering on each printed page; here renumbered continuously [^1]–[^22] (p.701 nn.4–11 → [^1]–[^8]; p.702 nn.1–11 → [^9]–[^19]; p.703 nn.1–3 → [^20]–[^22]).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi critical apparatus verbatim; **En.** is a literal rendering. The NOTAE AD COMMENTARIUM restart their numbering on each printed page; here renumbered continuously 1–22 (p.701 nn.4–11 → 1–8; p.702 nn.1–11 → 9–19; p.703 nn.1–3 → 20–22).
 
 [^1]: **La.** Vers. 8. — Superius post *omnes* Vat. addit *creaturas.*
     **En.** Verse 8. — Above, after *all* the Vatican [edition] adds *creatures.*

@@ -87,7 +87,7 @@ Likewise it is asked about that which he says: *Behold, in iniquities I was conc
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Latin of Quaracchi's apparatus (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; these entries combine the dubia's share of the p.755 footer block (footers 2–9, renumbered [^1]–[^8]; footer 1 belongs to a2-q3) with the full p.756 footer block (footers 1–10 renumbered [^9]–[^14], variant-only sub-notes folded in).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Latin of Quaracchi's apparatus (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; these entries combine the dubia's share of the p.755 footer block (footers 2–9, renumbered 1–8; footer 1 belongs to a2-q3) with the full p.756 footer block (footers 1–10 renumbered 9–14, variant-only sub-notes folded in).
 
 [^1]: **La.** Cfr. Aristot., I. Ethic. c. 9; X. c. 8; I. Magnor. Moral. c. 4; August., de Natura boni, c. 8. — Mox post *Item* et deinde post *sed* edd., excepta I, temere interiiciunt *pro*; secundo loco cod. bb interiicit *in.*
     **En.** Cf. Aristotle, *Nicomachean Ethics*, Bk. I, c. 9; Bk. X, c. 8; *Great Ethics*, Bk. I, c. 4; Augustine, *On the Nature of the Good*, c. 8. — Shortly after, after *Item* and then after *sed*, the editions, except the first, rashly insert *pro*; in the second place codex bb inserts *in.*

@@ -122,7 +122,7 @@ But since that does not seem to be true—that Melchizedek was more excellent th
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the entries below are given page by page (p.83 = [^1]–[^11]; p.84 = [^12]–[^19]).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the entries below are given page by page (p.83 = 1–11; p.84 = 12–19).
 
 [^1]: **La.** Vers. 9. seq., ubi Vat. post *Levi* addit *qui decimas accepit* et post *adhuc* inserit *enim*. Codd. K Z voculae *adhuc* praemittunt *cum*.
     **En.** Verse 9 ff., where the Vatican edition after *Levi* adds *who received the tithes* and after *adhuc* (still) inserts *enim* (for). Codices K Z prefix *cum* to the little word *adhuc*.

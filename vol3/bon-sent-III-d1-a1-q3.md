@@ -135,7 +135,7 @@ Now these things have been said concerning the incarnation itself[^14] according
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' note in Latin (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries here run continuously across pp. 14–16 (p. 14 footers 1–8 = `[^1]`–`[^8]`, p. 15 footers 1–6 = `[^9]`–`[^14]`, p. 16 footers 1–4 = `[^15]`–`[^18]`).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' note in Latin (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries here run continuously across pp. 14–16 (p. 14 footers 1–8 = 1–8, p. 15 footers 1–6 = 9–14, p. 16 footers 1–4 = 15–18).
 
 [^1]: **La.** Libr. II. In Anselmi sententia textus originalis verbo *assumere* addit *in unitatem personae* et verbo *fieri* praemittit *hoc.*
     **En.** Book II. In Anselm's text the original wording, at the verb *assumere* ("to assume"), adds *in unitatem personae* ("unto unity of person"), and prefixes *hoc* ("this") to the verb *fieri* ("to come to be").

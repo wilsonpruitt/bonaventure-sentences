@@ -125,7 +125,7 @@ The freedom, therefore, from *sin* and from *misery* is through grace, but the f
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi note in Latin (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; this chunk spans pp. 589–591. Entries [^1]–[^4] are the p.589 "NOTAE AD LIBR. SENTENTIARUM" footers 2–5 (footer 1, Ioan. 8,34, served Cap. IV and was claimed by `d25-p1-littera` as [^7]); [^5]–[^15] are the p.590 footer sequence (1–11); [^16] is the p.591 Cap. IX footer (1).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi note in Latin (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; this chunk spans pp. 589–591. Entries 1–4 are the p.589 "NOTAE AD LIBR. SENTENTIARUM" footers 2–5 (footer 1, Ioan. 8,34, served Cap. IV and was claimed by `d25-p1-littera` as 7); 5–15 are the p.590 footer sequence (1–11); 16 is the p.591 Cap. IX footer (1).
 
 [^1]: **La.** Ita in codd. et ed. 1; in aliis *plene*.
     **En.** Thus in the codices and edition 1; in the others, *plene* (fully).

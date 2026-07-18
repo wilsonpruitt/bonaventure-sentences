@@ -140,7 +140,7 @@ To that which is asked about the controversy of the Greeks and the Latins[^16], 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk gathers page 260's notes 9–10, page 261's notes 1–11, and page 262's notes 1–6 (page 260's notes 1–8 belong to the preceding Articulus I). Markers are renumbered [^1]–[^19] by body order.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk gathers page 260's notes 9–10, page 261's notes 1–11, and page 262's notes 1–6 (page 260's notes 1–8 belong to the preceding Articulus I). Markers are renumbered 1–19 by body order.
 
 [^1]: **La.** Vers. 17. — Plurimi codd. falso *Venit prima dies azymorum.*
      **En.** Verse 17. — Very many codices wrongly [read] *The first day of unleavened bread came.* [p. 260, n. 9]

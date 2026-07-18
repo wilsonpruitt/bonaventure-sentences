@@ -130,7 +130,7 @@ To this perfection, namely the first, something can be added, because beyond the
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi note; **En.** its English rendering. Quaracchi restarts footnote numbering on each printed page; this question spans pp. 741–743, so the page footers (p.741 nn.5–9, p.742 nn.1–10, p.743 nn.1–5) are renumbered continuously here as [^1]–[^20]. **[^1] is the p.741-L n.5 note forwarded from q2** (the *Vers. 31 / Petr. Lombard* note anchoring argument 1).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi note; **En.** its English rendering. Quaracchi restarts footnote numbering on each printed page; this question spans pp. 741–743, so the page footers (p.741 nn.5–9, p.742 nn.1–10, p.743 nn.1–5) are renumbered continuously here as 1–20. 1 is the p.741-L n.5 note forwarded from q2** (the *Vers. 31 / Petr. Lombard* note anchoring argument 1).
 
 [^1]: **La.** Vers. 31. — Glossa, sicut hic affertur, invenitur apud Petr. Lombard. (in hunc loc.), additis tamen post *caritatem* verbis *excellentiorem* praedictis. Apud Lyranum prima pars Glossae habetur ut Glossa interlinearis, secundo ut ordinaria; apud Strabum tertia pars tantum habetur, pariter ut Glossa ordinaria.
     **En.** Verse 31 [1 Cor. 12:31]. — The Gloss, as it is here adduced, is found in Peter Lombard (on this passage), with the words *more excellent* added, however, after *charity*, as aforesaid. In Lyra the first part of the Gloss is given as an interlinear Gloss, the second as ordinary; in Strabo only the third part is found, likewise as an ordinary Gloss.

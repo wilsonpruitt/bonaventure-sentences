@@ -109,7 +109,7 @@ From the institution of the Church, therefore, it is that no one is excepted fro
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the markers here are renumbered continuously. Notes [^1]–[^2] are page 173's notes 5–6; notes [^3]–[^15] are page 174's notes 1–13 (page 173's notes 1–4 and the SCHOLION, anchored in the preceding question's body, belong to a3-q1).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the markers here are renumbered continuously. Notes 1–2 are page 173's notes 5–6; notes 3–15 are page 174's notes 1–13 (page 173's notes 1–4 and the SCHOLION, anchored in the preceding question's body, belong to a3-q1).
 
 [^1]: **La.** Haec sententia communiter a Scholasticis tribuitur Rabano; occasionem forsan praebuit Magister, hic in lit. c. 3. Gratianus, C. *Omnes fideles* (I.), de Consecrat. d. 5, allegat pro ipso Urbanum.
     **En.** This sentence is commonly attributed by the Scholastics to Rabanus; the Master perhaps gave occasion for it, here in the text, c. 3. Gratian, in the canon *Omnes fideles* (1), *On Consecration*, dist. 5, cites Urban for it.

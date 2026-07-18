@@ -118,7 +118,7 @@ But nevertheless the first exposition is opposed by [the charge of] triviality; 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk gathers, from each page's footer block, only the notes whose anchors fall in this question's body, renumbered [^1]–[^9] in body order. The Articulus I scholion's own back-references are kept inline within the scholion text, not as numbered footers.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk gathers, from each page's footer block, only the notes whose anchors fall in this question's body, renumbered 1–9 in body order. The Articulus I scholion's own back-references are kept inline within the scholion text, not as numbered footers.
 
 [^1]: **La.** Hic c. 3. circa finem. Plurimi codd., contradicente textu originali, *eorum* pro *earum*. Idem recurrit infra in principio corp. quaest. — De proprietatibus definitionis cfr. Aristot., VI. Topic. c. 1. seqq.
      **En.** Here c. 3, near the end. Very many codices, against the original text, [read] *eorum* (of them) for *earum* (of these). The same recurs below at the beginning of the body of the question. — On the properties of a definition cf. Aristotle, *Topics* VI. c. 1 ff.

@@ -90,7 +90,7 @@ Likewise upon this which he says, that *stuprum is the illicit deflowering of vi
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. La. gives the Quaracchi apparatus entry; En. gives a literal English rendering. Quaracchi restarts footer numbering on each printed page: markers [^1]–[^11] are p.863's footers 1–11; markers [^12]–[^18] are p.864's footers 1–7.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. La. gives the Quaracchi apparatus entry; En. gives a literal English rendering. Quaracchi restarts footer numbering on each printed page: markers 1–11 are p.863's footers 1–11; markers 12–18 are p.864's footers 1–7.
 
 [^1]: **La.** Edd. *iustitiam.*
     **En.** The editions read *iustitiam* ("justice") [for *iniustitiam,* "injustice"].

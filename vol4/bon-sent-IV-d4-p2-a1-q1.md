@@ -122,7 +122,7 @@ It must therefore be granted that the baptism of the Spirit without the baptism 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They are the Quaracchi editors' notes. Quaracchi restarts footnote numbering on each printed page; this quaestio spans printed pp.106–107, so there are two per-page series. The p.106 series picks up at note **3** (notes 1–2 on p.106 belong to the preceding *Divisio textus* chunk), and the p.107 series runs 1–8. To keep the markers unique within this file, the p.107 notes carry a `b` suffix (e.g. `[^1]` is p.106 note 4; `[^1b]` is p.107 note 1).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They are the Quaracchi editors' notes. Quaracchi restarts footnote numbering on each printed page; this quaestio spans printed pp.106–107, so there are two per-page series. The p.106 series picks up at note **3** (notes 1–2 on p.106 belong to the preceding *Divisio textus* chunk), and the p.107 series runs 1–8. To keep the markers unique within this file, the p.107 notes carry a `b` suffix (e.g. 1 is p.106 note 4; 1b is p.107 note 1).
 
 [^3]: **La.** Vers. 5.
     **En.** Verse 5.

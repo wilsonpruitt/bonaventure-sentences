@@ -117,7 +117,7 @@ Third it is asked, whether it is a theological virtue, or a cardinal one.
 
 ## Apparatus
 
-> This chunk carries no apparatus of its own. The page-foot notes printed on its pages belong to the Master's littera and are rendered in `d14-p1-littera` [^19]–[^23].
+> This chunk carries no apparatus of its own. The page-foot notes printed on its pages belong to the Master's littera and are rendered in `d14-p1-littera` 19–23.
 
 ## Notes
 

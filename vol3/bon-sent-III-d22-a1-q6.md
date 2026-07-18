@@ -114,7 +114,7 @@ and Christ's ascension was to be deferred for our salvation; hence it is that th
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are page-prefixed (`[^pNNN-K]`) to keep the two per-page sequences distinct.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are page-prefixed (pNNN-K) to keep the two per-page sequences distinct.
 
 [^p463-1]: **La.** Vers. 43.
     **En.** Verse 43.

@@ -187,7 +187,7 @@ he himself makes the things from which and out of which and through which and in
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. [^1]–[^6] are p.861 footers 1–6; [^7]–[^14] are p.862 footers 1–8; [^15]–[^19] are p.863 footers 1–5. The scholion (p.864) carries only reference/parenthetical content and no numbered footers; the p.864 footers belong to QUAESTIO II and are forwarded to d37-a1-q2.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. 1–6 are p.861 footers 1–6; 7–14 are p.862 footers 1–8; 15–19 are p.863 footers 1–5. The scholion (p.864) carries only reference/parenthetical content and no numbered footers; the p.864 footers belong to QUAESTIO II and are forwarded to d37-a1-q2.
 
 [^1]: **La.** Vers. 5.
     **En.** Verse 5.

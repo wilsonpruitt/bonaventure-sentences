@@ -130,7 +130,7 @@ To that which is objected, that it was contrary to piety; it must be said that t
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. The apparatus follows Quaracchi, which restarts footnote numbering on each printed page; page 35 supplies notes 2–12 (note 1 belongs to the preceding Question II), and page 36 supplies notes 1–11 (rendered `[^1b]`–`[^11b]`).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. The apparatus follows Quaracchi, which restarts footnote numbering on each printed page; page 35 supplies notes 2–12 (note 1 belongs to the preceding Question II), and page 36 supplies notes 1–11 (rendered 1b–11b).
 
 [^1]: **La.** Hic c. 8. — Voci *maioribus* cod. Z praemittit *pro*. Subinde post *sed* codd. G V cc (bb a secunda manu) non male addunt *etiam*.
 

@@ -157,7 +157,7 @@ and made in time; but this is said because there is no new operation on the part
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. [^1]–[^5] are p.864 footers 1–5 (received from d37-a1-q1); [^6]–[^15] are p.865 footers 1–10; [^16]–[^21] are p.866 footers 1–6.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. 1–5 are p.864 footers 1–5 (received from d37-a1-q1); 6–15 are p.865 footers 1–10; 16–21 are p.866 footers 1–6.
 
 [^1]: **La.** Libr. XVI. Moral. c. 37. n. 43: *Cuncta quippe ex nihilo facta sunt eorumque essentia rursum ad nihilum tenderet, nisi eam Auctor omnium regiminis manu retineret.*
     **En.** Book XVI. *Moralia* c. 37. n. 43: *For all things were made from nothing, and their essence would again tend toward nothing, did not the Author of all hold it back with the hand of his governance.*

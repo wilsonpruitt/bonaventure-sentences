@@ -121,7 +121,7 @@ To that which is objected, that a key is not for loosing; it must be said that t
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. The numeric markers [^1]–[^7] are the page-471 footer sequence; the lettered markers [^a]–[^f] are the page-472 footer sequence (Quaracchi restarts footnote numbering on each printed page).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. The numeric markers 1–7 are the page-471 footer sequence; the lettered markers a–f are the page-472 footer sequence (Quaracchi restarts footnote numbering on each printed page).
 
 [^1]: **La.** Vers. 22. Cfr. supra pag. 469, nota 6. Codd. omittunt *domus*.
      **En.** [Isaiah 22,] verse 22. Cf. above p. 469, note 6. The codices omit *domus* (of the house).

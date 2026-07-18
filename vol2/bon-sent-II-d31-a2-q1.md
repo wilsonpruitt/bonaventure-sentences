@@ -199,7 +199,7 @@ Now for the dissolution of the objections it must be noted beforehand that somet
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus in Latin (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the running sequence here is 1–6 (p. 747), 1–8 (p. 748), 1–9 (p. 749), 1–9 (p. 750), renumbered consecutively as [^1]–[^32].
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus in Latin (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the running sequence here is 1–6 (p. 747), 1–8 (p. 748), 1–9 (p. 749), 1–9 (p. 750), renumbered consecutively as 1–32.
 
 [^1]: **La.** Vers. 18: *Scio enim, quia non* etc. — Glossam, quae sumta est ex Commentario, Ambrosio tributo, super hunc locum, exhibent Strabus et Lyranus sub v. 17. Cfr. hic lit. Magistri, c. 5.
     **En.** Verse 18: *For I know that there does not* etc. — The Gloss, which is taken from the Commentary attributed to Ambrose on this passage, Strabo and Lyranus give under v. 17. Cf. here the text of the Master, c. 5.

@@ -131,7 +131,7 @@ III. Besides those cited, on both questions there dispute at length Alexander of
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–12 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 164–165). Quaracchi restarts footnote numbering on each printed page; renumbered continuously here: p.164 ¹–⁸ → [^1]–[^8] (note ³ runs over from the left-column footer into the right-column footer); p.165 ¹–⁴ → [^9]–[^12]. The p.165 footer is **split** at the a2-q1→a2-q2 boundary — notes ¹–⁴ (this chunk's [^9]–[^12]) anchor this quaestio's Solutio body; notes ⁵–⁶… anchor QUAESTIO II's *videtur* and belong to the next chunk `bon-sent-II-d6-a2-q2` (see Notes). The editorial SCHOLION I–III (covering both art. II questions) carries no numbered apparatus.
+> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–12 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 164–165). Quaracchi restarts footnote numbering on each printed page; renumbered continuously here: p.164 ¹–⁸ → 1–8 (note ³ runs over from the left-column footer into the right-column footer); p.165 ¹–⁴ → 9–12. The p.165 footer is **split** at the a2-q1→a2-q2 boundary — notes ¹–⁴ (this chunk's 9–12) anchor this quaestio's Solutio body; notes ⁵–⁶… anchor QUAESTIO II's *videtur* and belong to the next chunk `bon-sent-II-d6-a2-q2` (see Notes). The editorial SCHOLION I–III (covering both art. II questions) carries no numbered apparatus.
 
 [^1]: **La.** Cfr. supra d. 2. p. II. a. 1. q. 1.
 

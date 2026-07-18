@@ -180,7 +180,7 @@ We can therefore choose a *middle way* [*opinion 3 and the middle way*], so that
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** is the Quaracchi Latin note; **En.** is the English rendering. Quaracchi restarts footnote numbering on each printed page. On p.761 the footer band splits at the a1-q3 / a2-q1 seam: p.761 nn.1–4 anchor the tail of `d34-p2-a1-q3` (its replies, which spill onto p.761) and are NOT claimed here; **p.761 nn.5–8 → [^1]–[^4]** (this q1's Fundamenta); p.762 nn.1–12 → [^5]–[^16]; p.763 nn.1–4 → [^17]–[^20].
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** is the Quaracchi Latin note; **En.** is the English rendering. Quaracchi restarts footnote numbering on each printed page. On p.761 the footer band splits at the a1-q3 / a2-q1 seam: p.761 nn.1–4 anchor the tail of `d34-p2-a1-q3` (its replies, which spill onto p.761) and are NOT claimed here; **p.761 nn.5–8 → 1–4** (this q1's Fundamenta); p.762 nn.1–12 → 5–16; p.763 nn.1–4 → 17–20.
 
 [^1]: **La.** Hic c. 4. Vide infra dub. 2. — Superius pro *istae* cod. X *isti*. In fine arg. pro *reperire* multi codd. *reperiri*.
     **En.** Here ch. 4. See below, dubium 2. — Above, for *istae* codex X has *isti*. At the end of the argument, for *reperire* many codices have *reperiri*. [p.761 n.5]

@@ -207,7 +207,7 @@ As to the *manner,* however, in which the sensible souls are now produced by pro
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the original Quaracchi note in Latin (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the chunk renumbers them sequentially [^1]–[^29].
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the original Quaracchi note in Latin (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the chunk renumbers them sequentially 1–29.
 
 [^1]: **La.** Gen. 1, 20. — Seq. textus ibid. v. 24. — Paulo inferius ex nonnullis codd. cum ed. 1 verbis *cum aqua* praemissis *et terra;* pro quo aliqui falso *et anima.* Lectio nostra respondet duobus textibus s. Scripturae.
 

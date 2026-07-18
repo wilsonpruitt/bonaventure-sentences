@@ -134,7 +134,7 @@ therefore these penalties in us are called *contracted,* as drawn from the concu
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are page-suffixed here (`[^pNNN-K]`) to keep them unique.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are page-suffixed here (pNNN-K) to keep them unique.
 
 [^p334-1]: **La.** Vers. 13.
     **En.** Verse 13.

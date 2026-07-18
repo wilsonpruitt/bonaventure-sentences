@@ -81,7 +81,7 @@ To these, however, the words of certain authorities seem to be opposed. For Isid
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the original Quaracchi note in Latin followed by an English translation. Quaracchi prints these as the `NOTAE AD LIBR. SENTENTIARUM` block at the foot of each printed page; here the markers are renumbered continuously across the two printed pages of this chunk. P.274 nn. 1–4 (anchored in Cap. I) become [^1]–[^4]; p.275 nn. 1–8 (anchored in Cap. II) become [^5]–[^12].
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the original Quaracchi note in Latin followed by an English translation. Quaracchi prints these as the `NOTAE AD LIBR. SENTENTIARUM` block at the foot of each printed page; here the markers are renumbered continuously across the two printed pages of this chunk. P.274 nn. 1–4 (anchored in Cap. I) become 1–4; p.275 nn. 1–8 (anchored in Cap. II) become 5–12.
 
 [^1]: **La.** Matth. 18, 10. — Hoc primum cap. excerptum est ex Hugone, *Sum. Sent.* tr. 2. c. 6.
     **En.** Matthew 18, 10. — This first chapter is excerpted from Hugh [of St. Victor], *Summa Sententiarum,* tr. 2, c. 6.

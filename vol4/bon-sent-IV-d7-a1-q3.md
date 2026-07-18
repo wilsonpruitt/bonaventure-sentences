@@ -119,7 +119,7 @@ Another reason can be given, namely that to the bishops themselves belongs the c
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the markers here are renumbered sequentially. All sixteen entries are anchored in this question's body (printed p. 167 footers 1 and 4–12, rendered as [^1]–[^9]; printed p. 168 footers 1–7, rendered as [^10]–[^16] — all anchored in the *Respondeo* and its four *Solutio* replies). Printed p. 168 footer 8 (Rabanus, *de Instit. cleric.*) anchors in ARTICULUS II and belongs to d. 7, a. 2.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the markers here are renumbered sequentially. All sixteen entries are anchored in this question's body (printed p. 167 footers 1 and 4–12, rendered as 1–9; printed p. 168 footers 1–7, rendered as 10–16 — all anchored in the *Respondeo* and its four *Solutio* replies). Printed p. 168 footer 8 (Rabanus, *de Instit. cleric.*) anchors in ARTICULUS II and belongs to d. 7, a. 2.
 
 [^1]: **La.** Vide supra d. 4. p. I. a. I. q. I. seq. — De seq. propositione cfr. supra pag. 112, nota 8. — Quod *quilibet* possit baptizare, ostensum est supra d. 5. a. I. et 2.
     **En.** See above, d. 4, p. I, a. 1, q. 1 ff. — On the following proposition cf. above, p. 112, note 8. — That *anyone* can baptize was shown above, d. 5, a. 1 and 2.

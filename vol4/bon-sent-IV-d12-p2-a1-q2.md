@@ -120,7 +120,7 @@ Secondly it is asked whether it has efficacy in some sinner, namely one who is i
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk gathers page 291's notes 1–11 (the *videtur* arguments and the *Contra*) and page 292's notes 1–5 (the Conclusio, Respondeo, and Solutio), renumbered here [^1]–[^16] in body order.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk gathers page 291's notes 1–11 (the *videtur* arguments and the *Contra*) and page 292's notes 1–5 (the Conclusio, Respondeo, and Solutio), renumbered here 1–16 in body order.
 
 [^1]: **La.** Quae incipit: *Purificent nos* etc., et de qua vide supra pag. 197, nota 3.
      **En.** Which begins: *Purificent nos* ("Let them cleanse us") etc., and concerning which see above page 197, note 3.

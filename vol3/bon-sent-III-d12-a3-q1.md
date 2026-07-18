@@ -133,7 +133,7 @@ the male. For the male sex excels the female both as to *dignity in originating*
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are page-suffixed (`[^p270-N]`, `[^p271-N]`).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are page-suffixed (p270-N, p271-N).
 
 [^p270-1]: **La.** Pro *sexum muliebrem* non pauci codd. *mulierem*, qui tamen infra in ipsa quaestione nostrae lectioni assentiuntur.
 

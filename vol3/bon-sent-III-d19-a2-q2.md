@@ -151,7 +151,7 @@ But if it be asked how and according to which nature Christ is a *mediator*; sin
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are slugged `[^pNNN-K]` by printed page.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are slugged pNNN-K by printed page.
 
 [^p409-6]: **La.** Cap. 15. n. 1. — Pro *Mediatorem* multi codd. *Mediator*. Subinde edd. inter *Deum* et *mortalitatem* inserunt *et*, quod et in textu origin. habetur.
     **En.** [On the City of God IX,] chapter 15, n. 1. — For *Mediatorem* many codices [read] *Mediator*. Thereupon the editions insert *et* between *Deum* and *mortalitatem*, which is also found in the original text.

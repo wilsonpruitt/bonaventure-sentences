@@ -51,7 +51,7 @@ What the Angels were like at creation has been shown: namely good and not evil, 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–4 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 129–130). On printed p.129 this littera's notes are the dedicated `NOTAE AD LIBR. SENTENTIARUM` block; the four main-stream notes printed above that block on the same p.129 footer anchor the preceding chunk and are already its apparatus (`bon-sent-II-d3-p2-dubia` [^6]–[^9]) — see Notes.
+> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–4 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 129–130). On printed p.129 this littera's notes are the dedicated `NOTAE AD LIBR. SENTENTIARUM` block; the four main-stream notes printed above that block on the same p.129 footer anchor the preceding chunk and are already its apparatus (`bon-sent-II-d3-p2-dubia` 6–9) — see Notes.
 
 [^1]: **La.** Cfr. Prov. 14, 34: *Miseros autem facit populos peccatum.*
 

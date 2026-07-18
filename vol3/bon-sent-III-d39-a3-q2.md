@@ -117,7 +117,7 @@ seem to be to the contrary—for blessed Augustine seems to judge such an oath b
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the markers here are renumbered continuously across the chunk. Page 877 carries footers nn.1–9 (→ [^1]–[^9]); page 878 is shared with the following quaestio (q3) — only its footers nn.1–6 belong to this quaestio's body (→ [^10]–[^15]), the remaining p.878 footers (nn.7–10) anchor in q3.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the markers here are renumbered continuously across the chunk. Page 877 carries footers nn.1–9 (→ 1–9); page 878 is shared with the following quaestio (q3) — only its footers nn.1–6 belong to this quaestio's body (→ 10–15), the remaining p.878 footers (nn.7–10) anchor in q3.
 
 [^1]: **La.** Cfr. supra pag. 875, nota 2.
     **En.** Cf. above, p. 875, note 2.

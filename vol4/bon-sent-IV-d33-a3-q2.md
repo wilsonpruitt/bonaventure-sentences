@@ -108,7 +108,7 @@ To that which is objected concerning the breaking of hardness, it must be said t
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries printed page 760's single footer sequence (notes 1–6 in the left-column footer block, 7–9 in the right-column footer block), rendered here as [^1]–[^9]. Printed page 761 carries no footnotes within this chunk's body.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries printed page 760's single footer sequence (notes 1–6 in the left-column footer block, 7–9 in the right-column footer block), rendered here as 1–9. Printed page 761 carries no footnotes within this chunk's body.
 
 [^1]: **La.** In Comment. in Rom. 1, 32. olim Ambros. tributo: Assentire autem est, si, cum possit reprehendere, taceat.
 

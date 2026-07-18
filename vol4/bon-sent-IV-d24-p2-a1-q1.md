@@ -141,7 +141,7 @@ On the same 4th question: Scotus, here q. unica n. 8. f. — St. Thomas, here q.
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk gathers page 621's notes 3–6 (the arguments; page 621's notes 1–2 anchor in the preceding *divisio*/TRACTATIO text and belong to `bon-sent-IV-d24-p2-divisio`) as [^1]–[^4], and page 622's notes 1–6 (the Respondeo and Solutio) as [^5]–[^10]. The scholion's own back-references are kept inline within the scholion text, not as numbered footers.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk gathers page 621's notes 3–6 (the arguments; page 621's notes 1–2 anchor in the preceding *divisio*/TRACTATIO text and belong to `bon-sent-IV-d24-p2-divisio`) as 1–4, and page 622's notes 1–6 (the Respondeo and Solutio) as 5–10. The scholion's own back-references are kept inline within the scholion text, not as numbered footers.
 
 [^1]: **La.** Hic in lit. Magistri, c. 13.
     **En.** Here in the text of the Master, c. 13.

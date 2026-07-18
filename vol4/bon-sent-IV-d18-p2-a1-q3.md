@@ -141,7 +141,7 @@ To that which is asked lastly: why can a congregation or multitude excommunicate
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the markers [^1]–[^12] belong to page 488 and [^1]–[^9] (the second sequence, beginning at the page break) belong to page 489.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the markers 1–12 belong to page 488 and 1–9 (the second sequence, beginning at the page break) belong to page 489.
 
 [^p488-1]: **La.** Hic c. 6. circa finem. — Seq. axioma profert, terminis transpositis, Aristot., *de Somno et vigilia*, c. 1: *Cuius enim est potentia, huius est et actus.*
      **En.** Here ch. 6, near the end. — In what follows he adduces the axiom, with its terms transposed, from Aristotle, *On Sleep and Waking*, c. 1: "For whose is the power, his too is the act."

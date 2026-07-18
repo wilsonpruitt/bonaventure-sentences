@@ -71,7 +71,7 @@ Since there are two precepts of charity, on which, as was set forth before[^12],
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation, and reproduce the Quaracchi *NOTAE AD LIBR. SENTENTIARUM* footer blocks for pp. 789–790. Quaracchi restarts footnote numbering on each printed page; the entries are renumbered continuously here: p.789 [^1]–[^9]; p.790 [^10]–[^15].
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation, and reproduce the Quaracchi *NOTAE AD LIBR. SENTENTIARUM* footer blocks for pp. 789–790. Quaracchi restarts footnote numbering on each printed page; the entries are renumbered continuously here: p.789 1–9; p.790 10–15.
 
 [^1]: **La.** Libr. VI. Comment. in Isai. 16, 12. et XV. 56, 1. — De caritate ut matre virtutum cfr. supra pag. 603, nota 7.
     **En.** Book VI, *Commentary on Isaiah* 16:12, and book XV [on Isaiah] 56:1. — On charity as the mother of the virtues, cf. above page 603, note 7.

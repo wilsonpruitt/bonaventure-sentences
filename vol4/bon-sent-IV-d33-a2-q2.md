@@ -132,7 +132,7 @@ this is absolutely better than the other"[^p755-1]; but the best fecundity is be
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They are the Quaracchi editors' notes to Bonaventure's text. Quaracchi restarts footnote numbering on each printed page: markers [^p754-4]–[^p754-9] are printed page 754's footer series (footers 1–3 of that page belong to the preceding Quaestio I, whose Respondeo/Scholion fill the upper columns), and markers [^p755-1]–[^p755-6] are printed page 755's footer series (footer 7 of that page belongs to the following Quaestio III). The `p754`/`p755` prefixes keep the markers unique within this file.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They are the Quaracchi editors' notes to Bonaventure's text. Quaracchi restarts footnote numbering on each printed page: markers p754-4–p754-9 are printed page 754's footer series (footers 1–3 of that page belong to the preceding Quaestio I, whose Respondeo/Scholion fill the upper columns), and markers p755-1–p755-6 are printed page 755's footer series (footer 7 of that page belongs to the following Quaestio III). The `p754`/`p755` prefixes keep the markers unique within this file.
 
 [^p754-4]: **La.** Secundum Aristot.; cfr. supra 318, nota 5.
      **En.** According to Aristotle; cf. above [p.] 318, note 5.

@@ -105,7 +105,7 @@ is it lawful, since he has lost his right; it must be said that he does not have
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries two per-page series, labelled `[^p761-N]` (p. 761 notes 2–11) and `[^p762-N]` (p. 762 notes 1–2). Note 1 of p. 761 anchors in the preceding question (a3-q2) and is claimed there, not here.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries two per-page series, labelled p761-N (p. 761 notes 2–11) and p762-N (p. 762 notes 1–2). Note 1 of p. 761 anchors in the preceding question (a3-q2) and is claimed there, not here.
 
 [^p761-2]: **La.** Quaest. 1.
 

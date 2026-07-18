@@ -112,7 +112,7 @@ These things having been seen, what pertains to the text is sufficiently clear[^
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries three per-page series (p.878 notes 11–13, the tail of the quaestio's opening arguments; p.879 notes 1–11; p.880 notes 1–2), renumbered consecutively [^1]–[^16] for this file.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries three per-page series (p.878 notes 11–13, the tail of the quaestio's opening arguments; p.879 notes 1–11; p.880 notes 1–2), renumbered consecutively 1–16 for this file.
 
 [^1]: **La.** Epist. I. Cor. 7, 2. et 39.
 

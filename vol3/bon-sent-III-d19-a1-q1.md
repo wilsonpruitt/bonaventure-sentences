@@ -168,7 +168,7 @@ the response is now clear from the things which have been said. For it is not a 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are slugged by page (e.g. `[^p400-3]`).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are slugged by page (e.g. p400-3).
 
 [^p399-5]: **La.** Vers. 5. — In minori pro *abluere* cod. U *lavare*, codd. H I L T V Z aa *absolvere*.
     **En.** [Apoc. 1,] v. 5. — In the minor [premise], for *abluere* (to wash away) cod. U [reads] *lavare*; codd. H I L T V Z aa [read] *absolvere* (to absolve).

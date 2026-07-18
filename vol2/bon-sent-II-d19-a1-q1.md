@@ -204,7 +204,7 @@ Likewise, every corruptible power is injured by an object of disproportionate ex
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Footnotes [^1]–[^4] migrate forward from p.457 (the lower-column footers under the d19-divisio chunk, anchoring in Q1 body args 1–3). Footnotes [^5]–[^34] are from pp.458–461.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Footnotes 1–4 migrate forward from p.457 (the lower-column footers under the d19-divisio chunk, anchoring in Q1 body args 1–3). Footnotes 5–34 are from pp.458–461.
 
 [^1]: **La.** Vers. 16. — Scil. I. Timoth. 6, 16: *Qui solus habet immortalitatem*.
      **En.** Verse 16. — Namely 1 Timothy 6:16: *Who alone has immortality*.

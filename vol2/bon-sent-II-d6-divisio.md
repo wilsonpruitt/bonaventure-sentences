@@ -65,7 +65,7 @@ For the understanding of the things which are said in this part concerning the f
 
 ## Apparatus
 
-> The single numbered footnote below corresponds to a marker in both the Latin body and the English translation. It is preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, p. 160) — the separately-headed `NOTAE AD COMMENTARIUM` block ¹, anchored at the DIVISIO's *unde ceciderunt*¹. The p.160 main-stream footer notes ¹–⁶ printed above this block anchor the preceding chunk and are already its apparatus (`bon-sent-II-d6-littera` [^9]–[^14], Cap. V–VII) — see Notes.
+> The single numbered footnote below corresponds to a marker in both the Latin body and the English translation. It is preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, p. 160) — the separately-headed `NOTAE AD COMMENTARIUM` block ¹, anchored at the DIVISIO's *unde ceciderunt*¹. The p.160 main-stream footer notes ¹–⁶ printed above this block anchor the preceding chunk and are already its apparatus (`bon-sent-II-d6-littera` 9–14, Cap. V–VII) — see Notes.
 
 [^1]: **La.** Vat. *qui et quales ceciderint*, omissis insuper verbis *secundo vero, in quem locum.*
 

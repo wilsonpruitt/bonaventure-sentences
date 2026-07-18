@@ -107,7 +107,7 @@ But the reason why the condition of inseparability has claimed[^11] this name fo
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers [^1]–[^10] are page 719's footer sequence, [^11]–[^12] are page 720's (nn. 1–2; the remaining page-720 footers, nn. 3–12, belong to the following quaestio).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers 1–10 are page 719's footer sequence, 11–12 are page 720's (nn. 1–2; the remaining page-720 footers, nn. 3–12, belong to the following quaestio).
 
 [^1]: **La.** Cap. 24. n. 32. Cfr. hic lit. Magistri, c. 1.
      **En.** [*De Bono coniugali*] ch. 24, n. 32. Cf. here the text of the Master, c. 1.

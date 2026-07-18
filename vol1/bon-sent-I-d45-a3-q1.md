@@ -142,7 +142,7 @@ Alex. Hal., on this and the following q., *Summa* p. I q. 36 m. 1. — S. Thom.,
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Notes restart at 1 on each printed page in the Quaracchi edition; we number them sequentially here for the chunk. Entries [^1]–[^3] are footed on printed p. 808 (Quaracchi notes 1, 2, 3); entries [^4]–[^11] on printed p. 809 (Quaracchi notes 1–8).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Notes restart at 1 on each printed page in the Quaracchi edition; we number them sequentially here for the chunk. Entries 1–3 are footed on printed p. 808 (Quaracchi notes 1, 2, 3); entries 4–11 on printed p. 809 (Quaracchi notes 1–8).
 
 [^1]: **La.** Cfr. supra pag. 282, nota 2.
 

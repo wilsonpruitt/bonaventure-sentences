@@ -128,7 +128,7 @@ II. Alexander of Hales, S. p. II, q. 99, m. 1, 2, 5, 6. — Scotus, II Sent., d.
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–11 within this chunk (Quaracchi restarts per page: p.150 → [^1]–[^3]; p.151 → [^4]–[^10]; p.152 → [^11]). They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 150–152). The editorial Scholion I–II carries no numbered apparatus. p.150's footer note ¹ (`Subaudi: similitudinem…`) anchors the preceding chunk (`bon-sent-II-d5-a1-q2` [^13]) — this chunk's p.150 apparatus starts at note ²; p.152's footer note ¹ ([^11]) is this chunk's, but p.152 notes ²,³,… anchor the next chunk (`bon-sent-II-d5-a2-q2`) — see Notes.
+> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–11 within this chunk (Quaracchi restarts per page: p.150 → 1–3; p.151 → 4–10; p.152 → 11). They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 150–152). The editorial Scholion I–II carries no numbered apparatus. p.150's footer note ¹ (`Subaudi: similitudinem…`) anchors the preceding chunk (`bon-sent-II-d5-a1-q2` 13) — this chunk's p.150 apparatus starts at note ²; p.152's footer note ¹ (11) is this chunk's, but p.152 notes ²,³,… anchor the next chunk (`bon-sent-II-d5-a2-q2`) — see Notes.
 
 [^1]: **La.** Cap. 47. n. 74, ubi textus originalis *corda hominum* pro *homines* et *proiectos* pro *deiectos.*
 

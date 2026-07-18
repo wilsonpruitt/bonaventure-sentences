@@ -86,7 +86,7 @@ But he did not take the *person* of man for this reason, that *(He returns to th
 
 ## Apparatus
 
-> The numbered footnotes below correspond to the *NOTAE AD LIBR. SENTENTIARUM* — the critical notes printed on the littera (Master's text) of Distinctio V — and are keyed to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; here p.118 notes 1–4 → [^1]–[^4], p.119 notes 1–14 → [^5]–[^18], p.120 notes 1–11 → [^19]–[^29].
+> The numbered footnotes below correspond to the *NOTAE AD LIBR. SENTENTIARUM* — the critical notes printed on the littera (Master's text) of Distinctio V — and are keyed to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; here p.118 notes 1–4 → 1–4, p.119 notes 1–14 → 5–18, p.120 notes 1–11 → 19–29.
 
 [^1]: **La.** Cod. E et edd. 1, 8 repetunt *quod*.
     **En.** Codex E and editions 1, 8 repeat *quod*.

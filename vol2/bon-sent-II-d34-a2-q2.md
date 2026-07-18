@@ -125,7 +125,7 @@ From the things which have been said, the response to the question proposed is m
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. [^1]–[^6] are p.812 footers 3–8 ([^1]–[^2] received as a hand-off from a2-q1's page block); [^7]–[^16] are p.813 footers 1–10.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. 1–6 are p.812 footers 3–8 (1–2 received as a hand-off from a2-q1's page block); 7–16 are p.813 footers 1–10.
 
 [^1]: **La.** Cap. 14. n. 4. — Cfr. hic lit. Magistri, c. 5.
     **En.** Chapter 14, n. 4. — Cfr. here the text of the Master, c. 5.

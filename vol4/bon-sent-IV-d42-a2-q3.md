@@ -96,7 +96,7 @@ As to that which is asked: why does it not pass over in ascending? it must be sa
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries two per-page series (p.875 notes 8–12, p.876 notes 1–3), renumbered consecutively [^1]–[^8] for this file.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries two per-page series (p.875 notes 8–12, p.876 notes 1–3), renumbered consecutively 1–8 for this file.
 
 [^1]: **La.** Can. *Ita diligere* (1.), hic in lit. Magistri, c. 3. allegatus.
 

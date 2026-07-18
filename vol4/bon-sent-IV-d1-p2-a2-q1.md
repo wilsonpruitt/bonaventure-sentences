@@ -158,7 +158,7 @@ On this (third) question, besides those praised: Alexander of Hales, loc. cit. m
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; here p.37 carries notes 1–10 (rendered [^1]–[^10]) and p.38 carries notes 1–12 (rendered with the `b`-suffix [^1b]–[^12b]) to keep the two per-page sequences distinct. Page 39 carries the scholion §II–§III tail and the opening of Question II, whose footers belong to Question II.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; here p.37 carries notes 1–10 (rendered 1–10) and p.38 carries notes 1–12 (rendered with the `b`-suffix 1b–12b) to keep the two per-page sequences distinct. Page 39 carries the scholion §II–§III tail and the opening of Question II, whose footers belong to Question II.
 
 [^1]: **La.** Cfr. infra d. 16. p. II. a. 1. q. 2. et d. 17. p. I. a. 1. q. 2. seq. — Mox pro *sacrificium* codd. F H *virtutem sacrificii*.
 

@@ -173,7 +173,7 @@ On this first question: Alex. of Hales, *Summa* p. IV q. 17 m. 2 a. 1 q. 8. — 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Lettered markers [^a]–[^i] continue the per-page footer sequences (Quaracchi restarts numbering on each printed page).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Lettered markers a–i continue the per-page footer sequences (Quaracchi restarts numbering on each printed page).
 
 [^1]: **La.** Vers. 26. — Duas Glossas exhibet Lyranus ut interlineares, quae sunt ex Hieronymo, qui in hunc locum ait: Docet, quid facere debeant, ut convertantur, scilicet ad poenitentiam... Nihil autem dolentius quam unum vel solum perdere filium.
      **En.** [Jeremiah 6,] verse 26. — Lyra gives two Glosses as interlinear, which are from Jerome, who on this passage says: It teaches what they ought to do in order to be converted, namely to penance... But nothing is more grievous than to lose one and only son.

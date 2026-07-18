@@ -145,7 +145,7 @@ The scholion for Articulus II (Quaracchi §IV, treating both questions of this a
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers [^1]–[^8] are page 476's footer sequence, [^9]–[^16] are page 477's.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers 1–8 are page 476's footer sequence, 9–16 are page 477's.
 
 [^1]: **La.** Hic c. 6.
      **En.** Here c. 6.

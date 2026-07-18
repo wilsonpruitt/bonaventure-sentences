@@ -142,7 +142,7 @@ These things it behooved to be preached first, and among the first things penanc
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; here p. 582 (nn. 1–7 + the Gregorius/Prudentius note) is rendered as [^1]–[^8] and p. 583 (nn. 1–8) as [^9]–[^16].
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; here p. 582 (nn. 1–7 + the Gregorius/Prudentius note) is rendered as 1–8 and p. 583 (nn. 1–8) as 9–16.
 
 [^1]: **La.** Vers. 1. [Hebr. 6, 1.]
     **En.** Verse 1. [Heb. 6:1.]

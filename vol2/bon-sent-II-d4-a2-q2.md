@@ -101,7 +101,7 @@ Secondly it is asked whether their own fall could have been revealed to the evil
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–15 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 137–138): printed p.137 footer notes 1–10 → [^1]–[^10]; p.138 footer notes 1–5 → [^11]–[^15]. p.138's footer is linearized in the raw within the following chunk's range; its note 6 anchors `bon-sent-II-d4-a3-q1` (not taken here) — see Notes.
+> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–15 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 137–138): printed p.137 footer notes 1–10 → 1–10; p.138 footer notes 1–5 → 11–15. p.138's footer is linearized in the raw within the following chunk's range; its note 6 anchors `bon-sent-II-d4-a3-q1` (not taken here) — see Notes.
 
 [^1]: **La.** Vat. *iudicio.* — Principia huius et seq. argumenti vide hic in lit. Magistri, ubi verba Augustini ex XI. de Gen. ad lit. c. 17. n. 22. afferuntur.
 

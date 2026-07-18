@@ -79,7 +79,7 @@ But yet a question still remains: why did the more expressive prefiguration, as 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this question carries the apparatus anchored in its body on p. 183. Printed-page notes 1–2 belong to the preceding question (a1-q2) and are not repeated here; the footnotes claimed here are p. 183's notes 3–9, renumbered as [^1]–[^7].
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this question carries the apparatus anchored in its body on p. 183. Printed-page notes 1–2 belong to the preceding question (a1-q2) and are not repeated here; the footnotes claimed here are p. 183's notes 3–9, renumbered as 1–7.
 
 [^1]: **La.** Libr. IV. c. 3. n. 10. et 11. Vide hic lit. Magistri, c. 2. — Inferius ex codd. B F H aa substituimus *non dicitur* pro *non videtur*.
     **En.** [Ambrose, *On the Sacraments*,] book IV, c. 3, nn. 10 and 11. See here the text of the Master, c. 2. — Below, from codices B, F, H, aa, we substitute *non dicitur* ("is not said") for *non videtur* ("does not seem").

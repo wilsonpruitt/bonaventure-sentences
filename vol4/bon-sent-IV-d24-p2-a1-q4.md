@@ -181,7 +181,7 @@ It is therefore to be conceded that in the anointing a character is not imprinte
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page. This question spans four printed pages (626–629): from page 626 it claims footer notes 6–9 (notes 1–5 belong to the preceding Question III, which shares page 626); page 627's notes 1–9 and page 628's notes 1–10 are all this question's; from page 629 it claims footer notes 1–2 only (page 629's notes 3 onward belong to the following Article II, Question I, which begins on that page). They are renumbered here as a single continuous sequence [^1]–[^25]. Note [^23] (page 628's note 10) is long: its textual-variant tail continues, unnumbered, at the top of page 629's footer, and is joined here.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page. This question spans four printed pages (626–629): from page 626 it claims footer notes 6–9 (notes 1–5 belong to the preceding Question III, which shares page 626); page 627's notes 1–9 and page 628's notes 1–10 are all this question's; from page 629 it claims footer notes 1–2 only (page 629's notes 3 onward belong to the following Article II, Question I, which begins on that page). They are renumbered here as a single continuous sequence 1–25. Note 23 (page 628's note 10) is long: its textual-variant tail continues, unnumbered, at the top of page 629's footer, and is joined here.
 
 [^1]: **La.** Ut ostensum est supra q. 1. — Pro *fuit* cod. K *fit.*
 

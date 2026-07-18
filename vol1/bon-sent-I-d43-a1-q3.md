@@ -184,7 +184,7 @@ It must be granted, therefore, that it is impossible that anything be actually i
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; here notes [^1]–[^5] are from p. 771, [^6]–[^15] from p. 772, and [^16]–[^27] from p. 773.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; here notes 1–5 are from p. 771, 6–15 from p. 772, and 16–27 from p. 773.
 
 [^1]: **La.** Propositiones istae: *frustra est potentia, quae non reducitur ad actum*, et: *frustra est potentia activa, cui non respondet passiva*, fundantur in definitionibus, quas Aristot. praebet tum de frustra, tum de potentia activa et passiva. Frustra et vanum Philosophus, libr. II. Phys. text. 62. (c. 6.) docet esse id quod ordinatum est ad aliquem finem, quem non consequitur. Et 1. de Caelo et Mundo, text. 32. (c. 1.), ubi tractat de corporibus in movendo se invicem impedientibus, quae frustra esse docet, adiungit: «frustra enim calceamentum hoc dicimus, cuius non est calceatio», sive ut in ed. Firmin-Didot legitur: «frustra enim calceum eum dicimus esse, cuius usus non est». Quod autem ad potentiam activam et potentiam passivam attinet, sic eas definit V. Metaph. text. 17. (IV. c. 12.), et IX. text. 2. (VIII. c. 1.), ut in definitione unius inclusa sit definitio alterius. Cfr. supra pag. 757, nota 6.
 

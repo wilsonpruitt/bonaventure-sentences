@@ -119,7 +119,7 @@ To that, therefore, which is objected, that habits can be without works; it must
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the per-page anchors (`[^p551-2]`, etc.) preserve that. The Dubia begin lower on p.551 after Article II, q.3 closes (`…Et sic patet responsio ad propositam quaestionem¹`); q.3 owns p.551 n.1, so this chunk's p.551 footers begin at n.2 (nn.2–10 gloss the Dubia's arguments).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the per-page anchors (p551-2, etc.) preserve that. The Dubia begin lower on p.551 after Article II, q.3 closes (`…Et sic patet responsio ad propositam quaestionem¹`); q.3 owns p.551 n.1, so this chunk's p.551 footers begin at n.2 (nn.2–10 gloss the Dubia's arguments).
 
 [^p551-2]: **La.** Libr. I. de Sacram. p. X. c. 4. Vide supra a. 2. q. 3. in corp.
      **En.** Book I of *On the Sacraments*, p. X, c. 4. See above, a. 2, q. 3, in the body.

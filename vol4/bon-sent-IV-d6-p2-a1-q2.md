@@ -116,7 +116,7 @@ it would be disorder, vanity, and contempt — but as a seal, which has three go
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers `[^1]`–`[^9]` are page 151's footers, `[^p1]`–`[^p3]` are page 152's footers (nn. 1–3), each rendered with its Latin first and a literal English rendering.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers 1–9 are page 151's footers, p1–p3 are page 152's footers (nn. 1–3), each rendered with its Latin first and a literal English rendering.
 
 [^1]: **La.** Psalm. 76, 10 (cit. q1). — Inferius pro *peccatum* cod. aa *meritum.*
     **En.** Psalm 76:10 (cited in q1; the scriptural half of this footer belongs to the preceding question's body). — Below, for *peccatum* ("sinner"/"sin") codex aa reads *meritum* ("merit").

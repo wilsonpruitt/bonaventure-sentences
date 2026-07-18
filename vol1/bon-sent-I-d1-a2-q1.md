@@ -171,7 +171,7 @@ From this also is clear why it is not defined by faith and[^23] hope, as it is b
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They follow the Quaracchi editors' per-page footer sequence (p. 35 = [^1]-[^8]; p. 36 = [^9]-[^22]; p. 37 = [^23]-[^31]). Per-page footer entries whose anchor falls above the start of this chunk's text on p. 35 ([^3]-[^6] of the Quaracchi sequence) are carried by the prior chunk `bon-sent-I-d1-a1-q3` (as its [^13]-[^16]) where their lemmas actually live.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They follow the Quaracchi editors' per-page footer sequence (p. 35 = 1–8; p. 36 = 9–22; p. 37 = 23–31). Per-page footer entries whose anchor falls above the start of this chunk's text on p. 35 (3–6 of the Quaracchi sequence) are carried by the prior chunk `bon-sent-I-d1-a1-q3` (as its 13–16) where their lemmas actually live.
 
 [^1]: **La.** Vers. 1. — Paulo ante exhibemus lectionem codd. RVWXYZ aa bb; alii codd. autem, omisso *Deus*, ponunt *Dominus* post *Abrahae*, a quibus non multum dissidet Vat. legendo: *est ipse, sicut Dominus dixit ad Abraam*. Mox fide antiquiorum mss. et ed. 1 post *utitur* expunximus *Deo*.
 

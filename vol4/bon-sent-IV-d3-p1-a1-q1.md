@@ -137,7 +137,7 @@ Whence it must be noted that since in baptism there are three things: one, which
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They are the Quaracchi editors' critical apparatus. Quaracchi restarts footnote numbering on each printed page; here the markers are renumbered continuously within this file. `[^1]` is p.64 footer note 2 (Hugh's definition, picked up at q1's opening fundamentum per the divisio hand-off); `[^2]`–`[^4]` are p.64 notes 3–5; `[^5]`–`[^6]` are p.65 notes 2–3; `[^7]`–`[^11]` are p.65 notes 4, 5, 6, 7, 8; `[^12]` is p.65 note 9 (anchored in the *Ad 2. 3.* reply that runs onto p.66); `[^13]`–`[^16]` are p.66 footer notes 2–5. See the Notes for the page-split map.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They are the Quaracchi editors' critical apparatus. Quaracchi restarts footnote numbering on each printed page; here the markers are renumbered continuously within this file. 1 is p.64 footer note 2 (Hugh's definition, picked up at q1's opening fundamentum per the divisio hand-off); 2–4 are p.64 notes 3–5; 5–6 are p.65 notes 2–3; 7–11 are p.65 notes 4, 5, 6, 7, 8; 12 is p.65 note 9 (anchored in the *Ad 2. 3.* reply that runs onto p.66); 13–16 are p.66 footer notes 2–5. See the Notes for the page-split map.
 
 [^1]: **La.** Libr. II. *de Sacram.* p. VI. c. 2. Seq. — definitio Sacramenti est ipsius Hugonis, I. *de Sacram.* p. IX. c. 2; cfr. supra d. I. p. I. q. 2. fundam. 2.
     **En.** Bk. II *On the Sacraments* pt. VI, c. 2. The following — [namely] the definition of a Sacrament is Hugh's own, bk. I *On the Sacraments* pt. IX, c. 2; cf. above, dist. I, pt. I, q. 2, fundam. 2.

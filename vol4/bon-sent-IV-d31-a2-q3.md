@@ -90,7 +90,7 @@ In this case they say that Augustine spoke. — Nevertheless that reasoning does
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page. Marker [^1] is page 725's footer n. 10 (`Hic c. 5.`, anchored in this question's opener and handed off from the preceding quaestio a2-q2, whose body claimed p. 725's nn. 1–9). Markers [^2]–[^9] are page 726's footer sequence (nn. 1–8), all anchored in this question's Contra arguments, Respondeo, and replies; the page-726 footers belonging to the following Dubia are not claimed here.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page. Marker 1 is page 725's footer n. 10 (`Hic c. 5.`, anchored in this question's opener and handed off from the preceding quaestio a2-q2, whose body claimed p. 725's nn. 1–9). Markers 2–9 are page 726's footer sequence (nn. 1–8), all anchored in this question's Contra arguments, Respondeo, and replies; the page-726 footers belonging to the following Dubia are not claimed here.
 
 [^1]: **La.** Hic c. 5.
      **En.** Here, c. 5.

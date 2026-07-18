@@ -120,7 +120,7 @@ It was also fitting that she marry such a man for a threefold reason, namely by 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk's 15 entries are drawn from three per-page series — p.708 (only the last of that page's 6 notes belongs here; the other 5 belong to q.1's own "Ad 2"–"Ad 5" replies, confirmed against `bon-sent-IV-d30-a1-q1.md`'s own apparatus and hand-off note), p.709 (all 8 notes), p.710 (6 of that page's notes; the remainder belong to q.3) — renumbered consecutively [^1]–[^15] for this file.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk's 15 entries are drawn from three per-page series — p.708 (only the last of that page's 6 notes belongs here; the other 5 belong to q.1's own "Ad 2"–"Ad 5" replies, confirmed against `bon-sent-IV-d30-a1-q1.md`'s own apparatus and hand-off note), p.709 (all 8 notes), p.710 (6 of that page's notes; the remainder belong to q.3) — renumbered consecutively 1–15 for this file.
 
 [^1]: **La.** Vers. 13. — Seq. locus est Deut. 7, 13. seq.
 

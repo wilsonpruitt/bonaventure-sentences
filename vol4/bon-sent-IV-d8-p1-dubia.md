@@ -87,7 +87,7 @@ Likewise it is asked concerning what he says, that the Lord instituted this Sacr
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the markers here are renumbered continuously [^1]–[^8] across this chunk. (Per-page provenance and a column-mapping caveat are recorded in the Notes.)
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the markers here are renumbered continuously 1–8 across this chunk. (Per-page provenance and a column-mapping caveat are recorded in the Notes.)
 
 [^1]: **La.** Cibus sum grandium; cfr. Augustin., Confess. libr. VII. c. 10. n. 16, ubi loquens de aeterna Veritate ait: «O aeterna Veritas... reverberasti infirmitatem aspectus mei, radians in me vehementer... tanquam audirem vocem tuam de excelso: Cibus sum grandium; cresce, et manducabis me; nec tu me in te mutabis sicut cibum carnis tuae, sed tu mutaberis in me». Iam Guliel. Altissiod., S. p. IV. tr. 5. in principio, haec verba adaptavit Sacramento eucharistiae.
     **En.** I am the food of the grown; cf. Augustine, Confessions book VII, c. 10, n. 16, where, speaking of the eternal Truth, he says: «O eternal Truth... you beat back the weakness of my sight, shining upon me vehemently... as though I heard your voice from on high: I am the food of the grown; grow, and you shall eat me; nor shall you change me into yourself as the food of your flesh, but you shall be changed into me». Already William of Auxerre, S. p. IV, tr. 5, at the beginning, applied these words to the Sacrament of the eucharist.

@@ -158,7 +158,7 @@ And so it is plain that the Virgin Mary in some way cooperated in the conception
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' note in Latin (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; here pp. 110 (notes 1–8 → [^1]–[^8]), 111 (notes 1–11 → [^9]–[^19]), 112 (notes 1–11 → [^20]–[^30]), and 113 (note 1 → [^31]) are run continuously.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' note in Latin (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; here pp. 110 (notes 1–8 → 1–8), 111 (notes 1–11 → 9–19), 112 (notes 1–11 → 20–30), and 113 (note 1 → 31) are run continuously.
 
 [^1]: **La.** Supra d. III. c. 1. In fine arg. post *sed* edd. addunt *et*.
     **En.** Above, d. III, c. 1. At the end of the argument, after *sed* the editions add *et*.

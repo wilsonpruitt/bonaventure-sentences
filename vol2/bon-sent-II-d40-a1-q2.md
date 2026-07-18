@@ -105,7 +105,7 @@ malice in the work corresponds[^13] to the quantity of goodness and malice in th
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk spans printed pp. 922–924 (see the page-split map in the Notes). Footnotes pp. 922 nn. 1–2 (here [^1]–[^2]) glossing the opening verb were carried over from the prior chunk's hand-off.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk spans printed pp. 922–924 (see the page-split map in the Notes). Footnotes pp. 922 nn. 1–2 (here 1–2) glossing the opening verb were carried over from the prior chunk's hand-off.
 
 [^1]: **La.** Codd. X Z cc et ed. 1 *intendat.*
     **En.** Codices X Z cc and edition 1 read *intendat* (subjunctive).

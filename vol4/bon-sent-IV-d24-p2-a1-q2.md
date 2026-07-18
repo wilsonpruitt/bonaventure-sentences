@@ -117,7 +117,7 @@ And therefore it is said otherwise and more probably that in different orders di
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries two per-page series (p.623 notes 1–7, p.624 notes 1–8), renumbered consecutively [^1]–[^15] for this file.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries two per-page series (p.623 notes 1–7, p.624 notes 1–8), renumbered consecutively 1–15 for this file.
 
 [^1]: **La.** Vide hic lit. Magistri, c. 13. — Pro *ordo omnis*, quod habent codd. Q bb, maior pars codd. *ordo esse*, plures tantum *ordo*, ed. 1 *ordinis esse*, Vat. *ordo secundum esse*, quae etiam cum aliquot codd. *essentialiter* pro *naturaliter* et mox post *plura signacula* cum ed. 1 addit *spiritualia*.
     **En.** See here the text of the Master, c. 13. — For *ordo omnis* ("every order"), which codd. Q bb have, the greater part of the codices [read] *ordo esse*, several only *ordo*, ed. 1 *ordinis esse*, the Vatican [edition] *ordo secundum esse*, which also, with some codices, [reads] *essentialiter* for *naturaliter*, and soon after, following *plura signacula*, together with ed. 1, adds *spiritualia*.

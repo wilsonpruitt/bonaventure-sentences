@@ -110,7 +110,7 @@ And the reason for this is that it was not suitable for the Creator of all[^p264
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi editors' note verbatim; **En.** gives a literal English rendering. Quaracchi restarts footnote numbering on each printed page, so the markers are page-suffixed (`[^p264-N]`, `[^p265-N]`).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi editors' note verbatim; **En.** gives a literal English rendering. Quaracchi restarts footnote numbering on each printed page, so the markers are page-suffixed (p264-N, p265-N).
 
 [^p264-1]: **La.** Cfr. quaest. praeced.
     **En.** Cf. the preceding question.

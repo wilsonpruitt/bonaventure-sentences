@@ -126,7 +126,7 @@ To that, then, which is objected concerning fault, it must be said that the remo
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries the notes anchored in its own body across three per-page series — p.771 notes 4–6 (notes 1–3 of p.771 belong to the preceding question, a2-q1), p.772 notes 1–4, and p.773 notes 1–10 — labelled `[^pNNN-M]` by printed page and printed number.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries the notes anchored in its own body across three per-page series — p.771 notes 4–6 (notes 1–3 of p.771 belong to the preceding question, a2-q1), p.772 notes 1–4, and p.773 notes 1–10 — labelled pNNN-M by printed page and printed number.
 
 [^p771-4]: **La.** Can. 4. Vide hic lit. Magistri, c. 3.
     **En.** Canon 4. See here the text of the Master [Peter Lombard], c. 3.

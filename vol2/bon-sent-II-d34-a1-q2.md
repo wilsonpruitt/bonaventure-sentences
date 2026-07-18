@@ -181,7 +181,7 @@ For the first proposition is understood of sufficiency *simply*, as is plain to 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. [^1] is p.805 footer 5 (received from d34-a1-q1, the QUAESTIO II *Fundamenta* footer); [^2]–[^11] are p.806 footers 1–10; [^12]–[^19] are p.807 footers 1–8. The p.808 footers all belong to QUAESTIO III and are forwarded to d34-a1-q3.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. 1 is p.805 footer 5 (received from d34-a1-q1, the QUAESTIO II *Fundamenta* footer); 2–11 are p.806 footers 1–10; 12–19 are p.807 footers 1–8. The p.808 footers all belong to QUAESTIO III and are forwarded to d34-a1-q3.
 
 [^1]: **La.** Cap. 23. n. 8. sententialiter. Cfr. hic lit. Magistri, c. 3. Fere ad verbum autem habetur ista sententia XII. de Civ. Dei, c. 7, ubi sic legitur: *Nemo igitur quaerat efficientem causam malae voluntatis. Non enim est efficiens, sed deficiens.*
     **En.** Chapter 23. n. 8, in substance. Cfr. here the text of the Master, c. 3. Almost word for word this sentence is had in XII. *On the City of God*, c. 7, where it reads thus: *Let no one then seek the efficient cause of an evil will. For it is not efficient, but deficient.*

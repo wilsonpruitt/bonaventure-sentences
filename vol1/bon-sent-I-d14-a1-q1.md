@@ -154,7 +154,7 @@ And as to what[^21] is said, that denomination ought to be made from the more wo
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi's apparatus is reproduced literally in Latin and translated literally in English. Page-end footnote blocks (p. 245 and p. 246 in the Quaracchi edition) have been renumbered continuously as [^1]–[^21] for this chunk.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi's apparatus is reproduced literally in Latin and translated literally in English. Page-end footnote blocks (p. 245 and p. 246 in the Quaracchi edition) have been renumbered continuously as 1–21 for this chunk.
 
 [^1]: **La.** Hic, c. 1, in quo textu fide mss. et ed. 1 adiunximus *eius*.
 

@@ -115,7 +115,7 @@ Likewise it is asked concerning that response of the Master, by which he explain
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. The Quaracchi apparatus restarts its numbering on each printed page; markers are page-suffixed (`[^p291-N]`, `[^p292-N]`, `[^p293-N]`).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. The Quaracchi apparatus restarts its numbering on each printed page; markers are page-suffixed (p291-N, p292-N, p293-N).
 
 [^p291-1]: **La.** Homil. 3. n. 7. Exponens ibi verba Lev. 5, 16: *Partem quintam ponet supra,* ait: *Quinque numerus frequenter, immo pene semper pro quinque sensibus accipitur. Scire ergo debemus, hoc modo istos quinque sensus in sanctis actibus posse restitui, ut si forte praesumsimus abuti eis in saecularibus actibus... restituamus nunc et ipsos quinque sanctis actibus religiosisque ministeriis, et alios his quinque addamus, qui sunt interioris hominis sensus, per quos vel mundi corde effecti Deum videmus, vel aures habemus ad audienda ea quae docet Iesus* etc. — Paulo inferius pro *ergo nihil dicit* edd. *ergo male dicit.*
 

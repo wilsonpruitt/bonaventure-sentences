@@ -91,7 +91,7 @@ Third it is asked whether it is divided according to these differences as accord
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' Latin note (**La.**) followed by an English rendering (**En.**). These two notes are the `NOTAE AD COMMENTARIUM` footer block (R-col) of printed page 936; the page's other footer block, the single `NOTAE AD LIBR. SENTENTIARUM` note (L-col, *Libr. I. de Lib. Arb.*), belongs to the littera Cap. IV tail and is carried as `[^13]` in `bon-sent-II-d41-littera`.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' Latin note (**La.**) followed by an English rendering (**En.**). These two notes are the `NOTAE AD COMMENTARIUM` footer block (R-col) of printed page 936; the page's other footer block, the single `NOTAE AD LIBR. SENTENTIARUM` note (L-col, *Libr. I. de Lib. Arb.*), belongs to the littera Cap. IV tail and is carried as 13 in `bon-sent-II-d41-littera`.
 
 [^1]: **La.** In cod. cc et ed. 1. deest *praecedentem*; in Vat. et edd. 3, 4 legitur sic: *In tertia Magister secundum illorum opinionem, qui trifariam distinctionem actuum ponunt, ut in distinctione praecedenti patet, aliam ponit determinationem.*
      **En.** In codex cc and the first edition the word *praecedentem* (preceding) is lacking; in the Vatican edition and editions 3, 4 it reads thus: *In the third, the Master, according to the opinion of those who posit a threefold distinction of acts, as is evident in the preceding distinction, posits another determination.*

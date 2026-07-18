@@ -85,7 +85,7 @@ I RESPOND: It must be said that concerning this it is difficult to determine the
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–11 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 169–170). The DUBIA's *videtur* begins on p.169 (its footer notes are split from the preceding chunk — see Notes); DUB III/IV are on p.170. Renumbered continuously: p.169 right-column footer ⁷–¹¹ → [^1]–[^5]; p.170 footer ¹–⁶ → [^6]–[^11] (note ⁶ → [^11] runs over from the left-column footer into the right-column footer). A dubia has **no scholion.**
+> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–11 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 169–170). The DUBIA's *videtur* begins on p.169 (its footer notes are split from the preceding chunk — see Notes); DUB III/IV are on p.170. Renumbered continuously: p.169 right-column footer ⁷–¹¹ → 1–5; p.170 footer ¹–⁶ → 6–11 (note ⁶ → 11 runs over from the left-column footer into the right-column footer). A dubia has **no scholion.**
 
 [^1]: **La.** Scil. verbis *ad nostram probationem.*
 

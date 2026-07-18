@@ -132,7 +132,7 @@ II. Scotus, in each Scriptum, here q. 1. — St. Thomas, here q. 2, a. 2; S. I, 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–14 within this chunk (Quaracchi restarts per page: p.156 → [^1]; p.157 → [^2]–[^11]; p.158 → [^12]–[^14]). They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 156–158). The editorial Scholion I–II carries no numbered apparatus. p.156's footer notes ¹² anchor the preceding chunk (`bon-sent-II-d5-a3-q1` [^19]/[^20]) — this chunk's p.156 apparatus is note ³; p.158's footer notes ⁴,⁵,⁶,… anchor the next chunk (`bon-sent-II-d5-dubia`) — see Notes.
+> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–14 within this chunk (Quaracchi restarts per page: p.156 → 1; p.157 → 2–11; p.158 → 12–14). They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 156–158). The editorial Scholion I–II carries no numbered apparatus. p.156's footer notes ¹² anchor the preceding chunk (`bon-sent-II-d5-a3-q1` 19/20) — this chunk's p.156 apparatus is note ³; p.158's footer notes ⁴,⁵,⁶,… anchor the next chunk (`bon-sent-II-d5-dubia`) — see Notes.
 
 [^1]: **La.** Cap. 11. n. 32: *Angeli sancti, qui, cadentibus aliis per liberum arbitrium, per idem liberum arbitrium steterunt, ipsi et huius permansionis debitam mercedem recipere meruerunt.* — Paulo inferius post *si ergo* Vat. repetit *mercedem.*
 

@@ -142,7 +142,7 @@ and do service, although some seem contrary by reason of that which is repugnant
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. [^1]–[^3] are p.826 footers 7–9 (received from d35-a1-q2); [^4]–[^13] are p.827 footers 1–10.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. 1–3 are p.826 footers 7–9 (received from d35-a1-q2); 4–13 are p.827 footers 1–10.
 
 [^1]: **La.** Cap. 3, in textu origin. post *bono* plura sunt addita, et dein pro *non tantum est contrarium* legitur *non tantum malum*.
     **En.** Chapter 3; in the original text after *bono* several things are added, and then for *non tantum est contrarium* there is read *non tantum malum*.

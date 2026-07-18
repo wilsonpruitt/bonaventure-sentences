@@ -121,7 +121,7 @@ But surely it is much more probable, as master Hugh held, that since in that wor
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They reproduce the Quaracchi critical apparatus. Quaracchi restarts footnote numbering on each printed page; this file merges the per-page series (p.24 nn.7–10, p.25 nn.1–9, p.26 nn.1–10) into one consecutive run [^1]–[^23].
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They reproduce the Quaracchi critical apparatus. Quaracchi restarts footnote numbering on each printed page; this file merges the per-page series (p.24 nn.7–10, p.25 nn.1–9, p.26 nn.1–10) into one consecutive run 1–23.
 
 [^1]: **La.** Hic c. 6.
 

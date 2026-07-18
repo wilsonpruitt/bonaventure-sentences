@@ -93,7 +93,7 @@ therefore there is one will of seeing the windows, as above, with Augustine teac
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' Latin note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; markers `[^1]`–`[^5]` belong to p.878, `[^6]`–`[^9]` to p.879, and `[^10]` to p.880.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' Latin note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; markers 1–5 belong to p.878, 6–9 to p.879, and 10 to p.880.
 
 [^1]: **La.** Libr. XI. de Trin. c. 6. n. 10, sententialiter. — Locus Prophetae est Ps. 118, 96.
     **En.** Book XI *On the Trinity*, c. 6, n. 10, given in substance. — The passage of the Prophet is Ps. 118:96.

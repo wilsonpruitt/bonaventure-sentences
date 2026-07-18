@@ -154,7 +154,7 @@ To this the response is: either Arius takes *generation* commonly to created and
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation, taken from the Quaracchi apparatus on pp. 239–242. Footnotes [^1] and [^2] anchor in dubia bodies (DUB I and DUB II) but appear at the bottom of the q. 4 footnote block on p. 236, since Quaracchi prints page-bottom apparatus that gathers fns from both q. 4's tail and the start of the dubia.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation, taken from the Quaracchi apparatus on pp. 239–242. Footnotes 1 and 2 anchor in dubia bodies (DUB I and DUB II) but appear at the bottom of the q. 4 footnote block on p. 236, since Quaracchi prints page-bottom apparatus that gathers fns from both q. 4's tail and the start of the dubia.
 
 [^1]: **La.** Fide plurimorum mss. et ed. 1 substituimus *nulla* loco *non*.
 

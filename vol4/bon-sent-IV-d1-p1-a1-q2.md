@@ -125,7 +125,7 @@ cause is prior by nature[^12], and therefore more remote from our senses; and be
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries three per-page series (p.13 notes 1–3, p.14 notes 1–8, p.15 notes 1–9), renumbered consecutively [^1]–[^20] for this file.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries three per-page series (p.13 notes 1–3, p.14 notes 1–8, p.15 notes 1–9), renumbered consecutively 1–20 for this file.
 
 [^1]: **La.** Hic c. 2.
 

@@ -185,7 +185,7 @@ of this, that the will is always free; and therefore proneness in the will can n
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. [^1]–[^4] are p.832 footers 4–7; [^5]–[^12] are p.833 footers 1–8; [^13]–[^18] (sic) are p.834 footers; [^19]–[^24] are p.835 footers 1–6 (the scholion carries no body markers). See `## Notes` for the full page-split map and the p.832 footer-2/3 disposition.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. 1–4 are p.832 footers 4–7; 5–12 are p.833 footers 1–8; 13–18 (sic) are p.834 footers; 19–24 are p.835 footers 1–6 (the scholion carries no body markers). See `## Notes` for the full page-split map and the p.832 footer-2/3 disposition.
 
 [^1]: **La.** Cap. 12. n. 4, ubi textus originalis in fine addit *necesse est.*
     **En.** Chapter 12. n. 4, where the original text adds at the end *necesse est* ("it is necessary").

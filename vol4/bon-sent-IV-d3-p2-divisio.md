@@ -105,7 +105,7 @@ Second, whether in [its] institution a power was conferred on the waters, as the
 
 ## Apparatus
 
-> The numbered footnote below corresponds to the marker in both the Latin body above and the English translation. It is a Quaracchi editors' note to Bonaventure's commentary. On printed p.76 the page footer carries four notes; only note 2 ("Hic c. 5.") is keyed to a marker in this *Divisio textus* / *Tractatio quaestionum* (the *Magister* reference closing the *Tractatio*), and is rendered here as [^1]. Notes 1, 3 and 4 on p.76 are keyed to the *Articulus I, Quaestio I* body that opens at the foot of p.76 (raw L8912) and are carried forward to that chunk.
+> The numbered footnote below corresponds to the marker in both the Latin body above and the English translation. It is a Quaracchi editors' note to Bonaventure's commentary. On printed p.76 the page footer carries four notes; only note 2 ("Hic c. 5.") is keyed to a marker in this *Divisio textus* / *Tractatio quaestionum* (the *Magister* reference closing the *Tractatio*), and is rendered here as 1. Notes 1, 3 and 4 on p.76 are keyed to the *Articulus I, Quaestio I* body that opens at the foot of p.76 (raw L8912) and are carried forward to that chunk.
 
 [^1]: **La.** Hic c. 5.
     **En.** Here [in the *Sentences*], chapter 5.

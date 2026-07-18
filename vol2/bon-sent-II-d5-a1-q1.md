@@ -180,7 +180,7 @@ III. Alexander of Hales, S. p. II, q. 98, m. 2. — Scotus, in each Scriptum, II
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–27 within this chunk (Quaracchi restarts per page: p.145 → [^1]–[^10]; p.146 → [^11]–[^19]; p.147 → [^20]–[^27]). They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 145–147). The editorial Scholion I–III carries no numbered apparatus; its tail runs onto p.148, whose footer is wholly the next chunk's (`bon-sent-II-d5-a1-q2`).
+> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–27 within this chunk (Quaracchi restarts per page: p.145 → 1–10; p.146 → 11–19; p.147 → 20–27). They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 145–147). The editorial Scholion I–III carries no numbered apparatus; its tail runs onto p.148, whose footer is wholly the next chunk's (`bon-sent-II-d5-a1-q2`).
 
 [^1]: **La.** Vers. 18. — Glossa sumta est ex Gregor., XXIII. Moral. c. 6. n. 13: *Ipse quippe singulariter elatus dixerat: Supra astra caeli...* (Isai. 14, 13.), *et mire Dominus, ut in discipulorum cordibus elationem premeret, mox iudicium ruinae retulit, quod ipse magister elationis accepit, ut in auctore superbiae discerent, quid de elationis vitio formidarent.*
 

@@ -157,7 +157,7 @@ There can nevertheless another reason be assigned, that it is not necessary that
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries q1's single picked-up p.120 note (the variant attached to fund. 1, rendered [^1]), then the p.121 series (rendered [^2]–[^9]), the p.122 series (rendered [^10]–[^19]), and the two p.123 footer notes belonging to q1's casus-tail (the "duo / plures baptizent" rationes that overrun onto p.123, rendered [^20]–[^21]).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries q1's single picked-up p.120 note (the variant attached to fund. 1, rendered 1), then the p.121 series (rendered 2–9), the p.122 series (rendered 10–19), and the two p.123 footer notes belonging to q1's casus-tail (the "duo / plures baptizent" rationes that overrun onto p.123, rendered 20–21).
 
 [^1]: **La.** Cfr. infra lit. Magistri, d. VI. c. 2. — Superius post *laici* edd. supplent *possint baptizare.*
      **En.** Cf. below in the Master's text, d. VI, c. 2. — Above, after *laici* ("laics") the editions supply *possint baptizare* ("may baptize").

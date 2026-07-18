@@ -100,7 +100,7 @@ Likewise it is objected against [the saying] that there is no diversity at all t
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Latin entries reproduce the Quaracchi apparatus verbatim; English translations follow each Latin entry. Notes [^1]–[^6] are from printed page 416 footer (DUB. I + DUB. II opening; printed notes 3–8 of that page, since printed notes 1–2 anchor in the preceding quaestio chunk). Notes [^7]–[^14] are from printed page 417 footer (DUB. II continuation + DUB. III + DUB. IV; printed notes 1–8 of that page).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Latin entries reproduce the Quaracchi apparatus verbatim; English translations follow each Latin entry. Notes 1–6 are from printed page 416 footer (DUB. I + DUB. II opening; printed notes 3–8 of that page, since printed notes 1–2 anchor in the preceding quaestio chunk). Notes 7–14 are from printed page 417 footer (DUB. II continuation + DUB. III + DUB. IV; printed notes 1–8 of that page).
 
 [^1]: **La.** Epist. 15. ad Damasum, n. 4, ubi in originali *Taceantur* ponitur pro *Taceamus* et *nomen* omittitur.
 

@@ -124,7 +124,7 @@ it would be required that both be faithful; and many other good things are now h
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page. This question picks up page 33's footer notes 3–8 (notes 1–2 of page 33 belong to the preceding Question I's *Ad obiecta* replies), all of page 34's notes 1–8, and page 35's note 1 (page 35's notes 2 onward belong to the following Question III); they are renumbered here as a single continuous sequence [^1]–[^15].
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page. This question picks up page 33's footer notes 3–8 (notes 1–2 of page 33 belong to the preceding Question I's *Ad obiecta* replies), all of page 34's notes 1–8, and page 35's note 1 (page 35's notes 2 onward belong to the following Question III); they are renumbered here as a single continuous sequence 1–15.
 
 [^1]: **La.** Cod. Z addit *verum est, quod.*
 

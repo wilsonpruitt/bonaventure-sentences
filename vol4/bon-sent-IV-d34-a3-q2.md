@@ -104,7 +104,7 @@ separated altogether, but for a time, for the doing of penance: he nevertheless 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries two per-page series — p.775 notes 2–7 (note 1 belongs to the preceding question a3-q1, whose body opens the top of p.775) and p.776 notes 1–3. Labels use the `[^pNNN-M]` form.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries two per-page series — p.775 notes 2–7 (note 1 belongs to the preceding question a3-q1, whose body opens the top of p.775) and p.776 notes 1–3. Labels use the pNNN-M form.
 
 [^p775-2]: **La.** Hic c. 5.
 

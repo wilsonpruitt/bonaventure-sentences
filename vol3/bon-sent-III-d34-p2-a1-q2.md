@@ -132,7 +132,7 @@ love is that which makes [one] enjoy, because it belongs to it to bring to rest,
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi *Notae ad Commentarium* (per-page restart in the source, renumbered continuously here): p.757 → [^1]–[^9]; p.758 → [^10]–[^19]; p.759 → [^20]–[^22].
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi *Notae ad Commentarium* (per-page restart in the source, renumbered continuously here): p.757 → 1–9; p.758 → 10–19; p.759 → 20–22.
 
 [^1]: **La.** Cfr. tom. II. pag. 700, nota 6, ubi praeter Augustinum allegatur Aristot., II. Ethic. c. 1. — De minori vide quaest. praeced. — In conclus. pro *per documentum moralis philosophi* cod. A *secundum Philosophum*.
     **En.** Cf. vol. II, p. 700, note 6, where besides Augustine, Aristotle, *Ethics* II, c. 1, is cited. — On the minor see the preceding question. — In the conclusion, for *per documentum moralis philosophi* ("by the teaching of moral philosophy") codex A reads *secundum Philosophum* ("according to the Philosopher").

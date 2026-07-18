@@ -111,7 +111,7 @@ And by this is clear the response to the proposed question and also to the objec
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are grouped by page (`p374`, `p375`). Entries `[^p374-4]`–`[^p374-10]` were picked up from the q2 seam (q2 carried p.374 notes 1–3).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are grouped by page (`p374`, `p375`). Entries p374-4–p374-10 were picked up from the q2 seam (q2 carried p.374 notes 1–3).
 
 [^p374-4]: **La.** Matth. 26, 39.
     **En.** Matthew 26:39.

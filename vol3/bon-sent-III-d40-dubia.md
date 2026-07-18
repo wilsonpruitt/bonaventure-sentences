@@ -171,7 +171,7 @@ HERE ENDS THE THIRD BOOK OF BROTHER BONAVENTURE UPON THE SENTENCES.
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the markers here are renumbered as a single continuous sequence across the chunk. On p.892 the dubia begin beneath the close of the preceding article (a40-q3); the dubia's own apparatus begins with p.892 footers nn.5–9 ([^1]–[^5]), the page's nn.1–4 belonging wholly to a40-q3.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the markers here are renumbered as a single continuous sequence across the chunk. On p.892 the dubia begin beneath the close of the preceding article (a40-q3); the dubia's own apparatus begins with p.892 footers nn.5–9 (1–5), the page's nn.1–4 belonging wholly to a40-q3.
 
 [^1]: **La.** Cfr. supra pag. 815, nota 6. — Minor insinuatur Gen. 8, 21: *Sensus enim et cogitatio humani cordis in malum prona sunt ab adolescentia sua.* Cfr. Rom. 7, 18. seqq., et Gal. 5, 17. — Inferius pro *debeat* codd. *debet.*
     **En.** Cf. above, p. 815, note 6. — The minor is intimated in Gen. 8:21: "For the sense and thought of the human heart are prone to evil from its youth." Cf. Rom. 7:18 ff. and Gal. 5:17. — Below, for *ought* the codices read *does.*

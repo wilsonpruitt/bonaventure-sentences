@@ -105,7 +105,7 @@ Fourthly it is asked whether the body of Christ is under those species dimensive
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; here the two footer sequences (p. 222 nn. 1–2 → [^1]–[^2]; p. 223 nn. 1–9 → [^3]–[^11]) are renumbered continuously by order of appearance in the body.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; here the two footer sequences (p. 222 nn. 1–2 → 1–2; p. 223 nn. 1–9 → 3–11) are renumbered continuously by order of appearance in the body.
 
 [^1]: **La.** Cfr. Aristot., de Praedicam. c. *de Quanto.* — *Minor* ostensa est supra q. 2.
     **En.** Cf. Aristotle, *Categories*, c. on Quantity. — The minor [premise] was shown above in q. 2.

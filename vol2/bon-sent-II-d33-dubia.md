@@ -99,7 +99,7 @@ To that concerning Lazarus it must be said, that the first death was for the man
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Latin of Quaracchi's apparatus (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; these entries combine the dubia's share of the p.798 footer (footers 2–8 → [^1]–[^7]; the page's footer 1 = *Vide scholion ad praecedentem quaest.* belongs to a3-q2), the full p.799 footer block (footers 1–10 → [^8]–[^17]), and the DUB. IV footers of p.800 (footers 1–6 → [^18]–[^23]; the page's NOTAE AD LIBR. SENTENTIARUM block belongs to the following DISTINCTIO XXXIV littera).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Latin of Quaracchi's apparatus (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; these entries combine the dubia's share of the p.798 footer (footers 2–8 → 1–7; the page's footer 1 = *Vide scholion ad praecedentem quaest.* belongs to a3-q2), the full p.799 footer block (footers 1–10 → 8–17), and the DUB. IV footers of p.800 (footers 1–6 → 18–23; the page's NOTAE AD LIBR. SENTENTIARUM block belongs to the following DISTINCTIO XXXIV littera).
 
 [^1]: **La.** Hic c. 2.
     **En.** Here, c. 2.

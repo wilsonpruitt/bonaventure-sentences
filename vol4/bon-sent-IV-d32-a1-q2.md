@@ -120,7 +120,7 @@ To that which is objected, that marriage ought to be free; it must be said that 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They are the Quaracchi editors' notes to Bonaventure's text. Quaracchi restarts footnote numbering on each printed page: markers [^1]–[^5] are printed page 732's footer series; markers [^p733-1]–[^p733-7] are printed page 733's footer series (the `p733` prefix keeps the markers unique within this file).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They are the Quaracchi editors' notes to Bonaventure's text. Quaracchi restarts footnote numbering on each printed page: markers 1–5 are printed page 732's footer series; markers p733-1–p733-7 are printed page 733's footer series (the `p733` prefix keeps the markers unique within this file).
 
 [^1]: **La.** Vers. 3. Post *similiter* Vulgata addit *autem*.
 

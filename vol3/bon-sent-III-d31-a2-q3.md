@@ -144,7 +144,7 @@ The third, however, it seems should be said otherwise, that since there are thre
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **Quaracchi restarts footnote numbering on each printed page**, so the markers reset per page; they are rendered continuously here as 1, 2, …. Entries 1–3 are the **inbound hand-off** from question 2 (p.685 footer nn.8–10, which anchor in this question's body); entries 4–12 are p.686 nn.1–9; entries 13–19 are p.687 nn.1–7 (of which nn.1–3, here [^17]–[^19], are *notae ad scholion*).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **Quaracchi restarts footnote numbering on each printed page**, so the markers reset per page; they are rendered continuously here as 1, 2, …. Entries 1–3 are the **inbound hand-off** from question 2 (p.685 footer nn.8–10, which anchor in this question's body); entries 4–12 are p.686 nn.1–9; entries 13–19 are p.687 nn.1–7 (of which nn.1–3, here 17–19, are *notae ad scholion*).
 
 [^1]: **La.** Vers. 8.
     **En.** Verse 8.

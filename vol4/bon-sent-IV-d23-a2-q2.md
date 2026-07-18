@@ -98,7 +98,7 @@ Secondly it is asked, to whom this Sacrament ought to be given. And that [it oug
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' note (**La.**) followed by an English rendering (**En.**). Footnote numbering restarts on each printed page; QUAESTIO II occupies printed p. 598 entirely, so all twelve footers ([^1]–[^12]) form a single continuous per-page sequence, all belonging to this quaestio.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' note (**La.**) followed by an English rendering (**En.**). Footnote numbering restarts on each printed page; QUAESTIO II occupies printed p. 598 entirely, so all twelve footers (1–12) form a single continuous per-page sequence, all belonging to this quaestio.
 
 [^1]: **La.** Vers. 14. — Seq. locus est ibid. v. 15. — Post *ergo illis* cod. K addit *debet dari, quibus.*
     **En.** Verse 14 [James 5:14]. — The following passage is in the same place, v. 15. — After *ergo illis* ("therefore to them") codex K adds *debet dari, quibus* ("ought to be given, to whom").

@@ -168,7 +168,7 @@ And to this it must be said that [*donator*] can be said either from the act of 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Latin entries reproduce the Quaracchi apparatus verbatim; English translations follow each Latin entry. Notes [^1]–[^11] are reflowed from the page 462 footer (col-A notes 1–5 + col-B notes [unnumbered]–11); fn [^11] line-wraps onto p. 463 footer top. Notes [^12]–[^21] are reflowed from the page 463 footer (col-A notes 1–2 + col-B notes 3–10). Notes [^22]–[^23] are from the page 464 footer (PDF pt2 p. 54), confirmed eyes-on at 600 dpi 2026-05-09 — see `manual-review/d1-d11-pdf-supplement-resolution-log.md` for the disposition.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Latin entries reproduce the Quaracchi apparatus verbatim; English translations follow each Latin entry. Notes 1–11 are reflowed from the page 462 footer (col-A notes 1–5 + col-B notes [unnumbered]–11); fn 11 line-wraps onto p. 463 footer top. Notes 12–21 are reflowed from the page 463 footer (col-A notes 1–2 + col-B notes 3–10). Notes 22–23 are from the page 464 footer (PDF pt2 p. 54), confirmed eyes-on at 600 dpi 2026-05-09 — see `manual-review/d1-d11-pdf-supplement-resolution-log.md` for the disposition.
 
 [^1]: **La.** Vers. 20. — Verba Damasceni vide supra pag. 410, nota 2.
 

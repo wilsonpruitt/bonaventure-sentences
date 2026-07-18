@@ -127,7 +127,7 @@ To that, then, which is objected, that the fear of death could not be except in 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the markers below carry per-page slugs. The single p.340 entry shown here ([^p340-10]) is the one belonging to this dubia block — markers 1–9 of p.340 belong to the preceding quaestio (a2-q3).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the markers below carry per-page slugs. The single p.340 entry shown here (p340-10) is the one belonging to this dubia block — markers 1–9 of p.340 belong to the preceding quaestio (a2-q3).
 
 [^p340-10]: **La.** Cfr. Aristot., II. de Anima, text. 44. seqq. (c. 4.).
     **En.** Cf. Aristotle, *On the Soul* II, text 44 and following (c. 4).

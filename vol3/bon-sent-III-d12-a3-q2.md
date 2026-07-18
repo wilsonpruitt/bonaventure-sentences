@@ -112,7 +112,7 @@ mune from the disease: hence it is that in such a manner of being born He ought 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are page-suffixed (`[^p271-N]`, `[^p272-N]`, `[^p273-N]`). The p.271 markers 6–7 are this question's first body-footers (markers 1–5 of p.271 belong to the preceding a3-q1); the p.273 footer block runs 1–8, of which 1–5 belong to this question and 6–8 to the following d.12 *Dubium*.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are page-suffixed (p271-N, p272-N, p273-N). The p.271 markers 6–7 are this question's first body-footers (markers 1–5 of p.271 belong to the preceding a3-q1); the p.273 footer block runs 1–8, of which 1–5 belong to this question and 6–8 to the following d.12 *Dubium*.
 
 [^p271-6]: **La.** Vers. 17. — In minori edd. et multi codd. pro *similitudo fraterna* male exhibent *similitudo superna*.
 

@@ -158,7 +158,7 @@ But if the sufficiency of these three kinships be asked, namely *carnal*, *spiri
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries two per-page series (p.873 notes 1–11, p.874 notes 1–5), renumbered consecutively [^1]–[^16] for this file. (The Articulus II opener occupies the foot of p.872, which carries no apparatus of its own; p.872's footer series 1–7 belongs entirely to the preceding chunk a1-q3.)
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries two per-page series (p.873 notes 1–11, p.874 notes 1–5), renumbered consecutively 1–16 for this file. (The Articulus II opener occupies the foot of p.872, which carries no apparatus of its own; p.872's footer series 1–7 belongs entirely to the preceding chunk a1-q3.)
 
 [^1]: **La.** Cfr. *Glossa* in Introductionem (*Quod autem*), C. 30. q. 3. et in C. *Si qua per adoptionem* (I.), X. de Cognatione legali (lib. IV. tit. 12.). — Codd. E F G *canonico*.
 

@@ -113,7 +113,7 @@ In both of the aforesaid ways the baptism of blood exceeds intensively, just as 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They are the Quaracchi editors' notes. Quaracchi restarts footnote numbering on each printed page; this quaestio spans printed pp.108–109, so there are two per-page series. The p.108 series runs 1–8; the p.109 series runs 1–7 (notes 8–9 on p.109 belong to the following quaestio, *q3*). To keep the markers unique within this file, the p.109 notes carry a `b` suffix (e.g. `[^1b]` is p.109 note 1).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They are the Quaracchi editors' notes. Quaracchi restarts footnote numbering on each printed page; this quaestio spans printed pp.108–109, so there are two per-page series. The p.108 series runs 1–8; the p.109 series runs 1–7 (notes 8–9 on p.109 belong to the following quaestio, *q3*). To keep the markers unique within this file, the p.109 notes carry a `b` suffix (e.g. 1b is p.109 note 1).
 
 [^1]: **La.** Libr. IV. de Fide orthod. c. 9. Cfr. quaest. seq. in fine, ubi etiam de ordine agimus, quo Damasc. haec baptismata proposuit. S. Bonav. sequitur Alex. Hal., S. p. IV. q. 8. m. 9. a. 1.
     **En.** Book IV, *On the Orthodox Faith*, c. 9. Cf. the following question, at the end, where we also treat of the order in which Damascene proposed these baptisms. St. Bonaventure follows Alexander of Hales, P. IV, q. 8, m. 9, a. 1.

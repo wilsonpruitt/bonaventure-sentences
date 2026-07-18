@@ -191,7 +191,7 @@ In another mode the powers of the soul are distinguished thus: into *rational*, 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the per-page anchors (`[^p615-5]`, etc.) preserve that. On p.615 the page's footnote sequence runs nn.1–17, but nn.1–4 belong to the tail of Article II, q.6 (printed at the top of p.615), so this Dubia chunk's p.615 share begins at n.5.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the per-page anchors (p615-5, etc.) preserve that. On p.615 the page's footnote sequence runs nn.1–17, but nn.1–4 belong to the tail of Article II, q.6 (printed at the top of p.615), so this Dubia chunk's p.615 share begins at n.5.
 
 [^p615-5]: **La.** Secundum Aristot., VI. Topic. c. 3. (c. 4.). Vide supra pag. 504, nota 2.
      **En.** According to Aristotle, VI *Topics* c. 3 (c. 4). See above p. 504, note 2.

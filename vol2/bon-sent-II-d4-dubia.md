@@ -79,7 +79,7 @@ Likewise it is asked concerning the division of "perfect." For it seems insuffic
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–3 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, p. 142) — printed p.142's RIGHT-column footer notes 6–8. p.142's LEFT-column footer notes (1–5) anchor the preceding chunk and are already its apparatus (`bon-sent-II-d4-a3-q2` [^9]–[^13]); DUB III (p.143) carries no apparatus — see Notes.
+> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–3 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, p. 142) — printed p.142's RIGHT-column footer notes 6–8. p.142's LEFT-column footer notes (1–5) anchor the preceding chunk and are already its apparatus (`bon-sent-II-d4-a3-q2` 9–13); DUB III (p.143) carries no apparatus — see Notes.
 
 [^1]: **La.** Aliqui codd. *quando,* Vat. *ubi.*
 

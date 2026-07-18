@@ -113,7 +113,7 @@ And thus it is evident that this opinion, which says that *not all* were to be r
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; here printed p.57 footers nn.4–11 (= [^1]–[^8]) and printed p.58 footers nn.1–11 (= [^9]–[^19]) are renumbered continuously as [^1]–[^19] across the chunk for unique anchors. (Printed p.57 footers nn.1–3 belong to q2's tail and are rendered in the a2-q2 chunk.)
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; here printed p.57 footers nn.4–11 (= 1–8) and printed p.58 footers nn.1–11 (= 9–19) are renumbered continuously as 1–19 across the chunk for unique anchors. (Printed p.57 footers nn.1–3 belong to q2's tail and are rendered in the a2-q2 chunk.)
 
 [^1]: **La.** Ioan. 3, 5: *Nisi quis renatus fuerit ex aqua et Spiritu* etc.
     **En.** John 3:5: *Unless a man be born again of water and the Spirit,* etc.

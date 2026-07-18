@@ -162,7 +162,7 @@ of those principles the individual is constituted, and there results the form of
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers here carry a page suffix (e.g. `[^p230-1]`) to keep the four printed pages distinct. Page 229's notes 8–9 were received as a hand-off from q2 (which consumed notes 1–7 of p.229); page 232's note 4 (Hilarius) belongs to the following question (d.10 a.2 q.1) and is forwarded there.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers here carry a page suffix (e.g. p230-1) to keep the four printed pages distinct. Page 229's notes 8–9 were received as a hand-off from q2 (which consumed notes 1–7 of p.229); page 232's note 4 (Hilarius) belongs to the following question (d.10 a.2 q.1) and is forwarded there.
 
 [^p229-8]: **La.** Dist. 6. a. 1. q. 3. — De dicto Damasceni (III. de Fide orthod. c. 11.) vide supra pag. 15, nota 5.
     **En.** Distinction 6, a. 1, q. 3. — On the saying of Damascene (*On the Orthodox Faith*, bk. III, c. 11), see above p. 15, note 5.

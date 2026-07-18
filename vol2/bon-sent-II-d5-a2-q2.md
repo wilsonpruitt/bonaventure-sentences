@@ -116,7 +116,7 @@ The third position is, that there was there an order both as to *degree* and as 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–13 within this chunk (Quaracchi restarts per page: p.152 → [^1]–[^5]; p.153 → [^6]–[^11]; p.154 → [^12]–[^13]). They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 152–154). This question has no scholion (the preceding `bon-sent-II-d5-a2-q1` Scholion I covers it; p.154 footer note ² is the cross-ref). p.152's footer note ¹ (`Vat. supplet a se…`) anchors the preceding chunk (`bon-sent-II-d5-a2-q1` [^11]) — this chunk's p.152 apparatus starts at note ²; p.154's footer notes ³,⁴,⁵,… anchor the next chunk (`bon-sent-II-d5-a3-q1`) — see Notes.
+> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–13 within this chunk (Quaracchi restarts per page: p.152 → 1–5; p.153 → 6–11; p.154 → 12–13). They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 152–154). This question has no scholion (the preceding `bon-sent-II-d5-a2-q1` Scholion I covers it; p.154 footer note ² is the cross-ref). p.152's footer note ¹ (`Vat. supplet a se…`) anchors the preceding chunk (`bon-sent-II-d5-a2-q1` 11) — this chunk's p.152 apparatus starts at note ²; p.154's footer notes ³,⁴,⁵,… anchor the next chunk (`bon-sent-II-d5-a3-q1`) — see Notes.
 
 [^1]: **La.** Vers. 4.
 

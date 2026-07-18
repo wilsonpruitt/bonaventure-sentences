@@ -114,7 +114,7 @@ To that, then, which is objected as to the second part, that marriage does not s
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries two per-page series (p.691 notes 2–7, continuing d28-a1-q2's note-1 hand-off; p.692 notes 1–4), renumbered consecutively [^1]–[^10] for this file.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries two per-page series (p.691 notes 2–7, continuing d28-a1-q2's note-1 hand-off; p.692 notes 1–4), renumbered consecutively 1–10 for this file.
 
 [^1]: **La.** Multi codd. *matrimonium sit*, cod. K (l a secunda manu) et ed. l *sit consensus*, cui Vat. addit: *et per consequens matrimonium efficit*.
 

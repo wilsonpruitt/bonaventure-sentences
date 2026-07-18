@@ -91,7 +91,7 @@ The second, as to the power of [its] influence.
 
 ## Apparatus
 
-> The single numbered footnote below corresponds to a marker in both the Latin body above and the English translation. Apparatus content is preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, p. 70). This chunk holds only **note 2** of the p.70 footer; p.70 footer note 1 anchors in the preceding `bon-sent-II-d2-p1-dubia` (DUB II's *in suo correlativo*, already its [^13]) and notes 3–4 anchor in the following `bon-sent-II-d2-p2-a1-q1` (the ARTICULUS I + QUAESTIO I fold that begins lower on p.70). See Notes.
+> The single numbered footnote below corresponds to a marker in both the Latin body above and the English translation. Apparatus content is preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, p. 70). This chunk holds only **note 2** of the p.70 footer; p.70 footer note 1 anchors in the preceding `bon-sent-II-d2-p1-dubia` (DUB II's *in suo correlativo*, already its 13) and notes 3–4 anchor in the following `bon-sent-II-d2-p2-a1-q1` (the ARTICULUS I + QUAESTIO I fold that begins lower on p.70). See Notes.
 
 [^1]: **La.** Vat. cum uno alteroque cod. hic et in principio principalis quaestionis *quidditatem*.
 

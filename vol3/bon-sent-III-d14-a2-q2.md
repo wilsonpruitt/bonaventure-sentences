@@ -150,7 +150,7 @@ To the last reasoning, however, an answer can be given, lest it give occasion fo
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi editors' note; **En.** gives its English rendering. Footnote numbering restarts on each printed page, so the markers are page-suffixed (`[^p310-N]`, `[^p311-N]`).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi editors' note; **En.** gives its English rendering. Footnote numbering restarts on each printed page, so the markers are page-suffixed (p310-N, p311-N).
 
 [^p310-1]: **La.** Cap. 16. n. 26: *Fortassis etiam volubiles non erunt nostrae cogitationes ab aliis in alia euntes atque redeuntes, sed omnem scientiam nostram uno simul conspectu videbimus.* — In fine arg. pro *quidquid cogitat* cod. A *quidquid cognoscit.*
 

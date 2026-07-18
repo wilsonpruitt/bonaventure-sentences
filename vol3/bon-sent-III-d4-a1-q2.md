@@ -122,7 +122,7 @@ Secondly it is asked whether Christ can be called the son of the Holy Spirit. An
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; entries [^1]–[^10] are page 100, [^11]–[^18] are page 101.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; entries 1–10 are page 100, 11–18 are page 101.
 
 [^1]: **La.** Libr. III. de Fide orthod. c. 2. Ipsa Damasc. verba habentur supra in lit. Magistri, d. III. c. I. Vat. voci *sporos*, quam Graecis litteris descriptam exhibet (σπόρος), cum originali praefigit θεός et dein post *id est* subiicit *divinum*. Codd. *sporos* mutarunt in *scopon*.
     **En.** Book III, *On the Orthodox Faith*, c. 2. The very words of the Damascene are found above in the text of the Master, d. III. c. I. The Vatican edition, to the word *sporos*, which it presents written in Greek letters (σπόρος), prefixes from the original θεός and then after *id est* subjoins *divinum*. The codices changed *sporos* into *scopon*.

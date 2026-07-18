@@ -158,7 +158,7 @@ But to those things which are objected on the opposite side, it must be said tha
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–21 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 189–191). Quaracchi restarts footnote numbering on each printed page: this chunk's ARTICULUS I opener + QUAESTIO I open at the foot of p.189 (the preceding chunk `bon-sent-II-d7-p2-divisio` owns p.189 footer note ¹ as its [^1]; this chunk takes p.189 footer notes ²–⁴ → [^1]–[^3] — see Notes), then p.190 ¹–¹¹ → [^4]–[^14], p.191 ¹–⁷ → [^15]–[^21]. The editorial Scholion I–III spans p.192 carrying no numbered apparatus (only inline cross-refs + the doctor survey); p.192's footer anchors the next chunk's QUAESTIO II and is not reproduced here.
+> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–21 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 189–191). Quaracchi restarts footnote numbering on each printed page: this chunk's ARTICULUS I opener + QUAESTIO I open at the foot of p.189 (the preceding chunk `bon-sent-II-d7-p2-divisio` owns p.189 footer note ¹ as its 1; this chunk takes p.189 footer notes ²–⁴ → 1–3 — see Notes), then p.190 ¹–¹¹ → 4–14, p.191 ¹–⁷ → 15–21. The editorial Scholion I–III spans p.192 carrying no numbered apparatus (only inline cross-refs + the doctor survey); p.192's footer anchors the next chunk's QUAESTIO II and is not reproduced here.
 
 [^1]: **La.** Vers. 28: *Et sicut non probaverunt* etc.
 

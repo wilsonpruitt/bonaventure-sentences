@@ -140,7 +140,7 @@ Besides Alexander of Hales, *Summa*, p. II, q. 96, m. 3, a. 1, § 3, other autho
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this quaestio spans printed pp. 924–926. Markers here are renumbered sequentially [^1]–[^19] (p.924 footer nn. 4–12; p.925 footer nn. 1–10).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this quaestio spans printed pp. 924–926. Markers here are renumbered sequentially 1–19 (p.924 footer nn. 4–12; p.925 footer nn. 1–10).
 
 [^1]: **La.** Cap. 14. n. 46: *Valet itaque intentio ad meritum, actio ad exemplum.* — Paulo superius edd. praeter I omittunt *merendum*.
     **En.** Ch. 14, n. 46: *And so intention avails for merit, action for example.* — A little above, the editions except I omit *merendum* ["to merit"].

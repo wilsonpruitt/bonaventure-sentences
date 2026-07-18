@@ -106,7 +106,7 @@ Whence note that matrimony has four etymologies according to the name of the *mo
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries two per-page series (p.677 notes 1–7, p.678 notes 1–8), renumbered consecutively [^1]–[^15] for this file. (p.678's note 9 anchors to the following Articulus II, q.1, and is not carried here.)
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries two per-page series (p.677 notes 1–7, p.678 notes 1–8), renumbered consecutively 1–15 for this file. (p.678's note 9 anchors to the following Articulus II, q.1, and is not carried here.)
 
 [^1]: **La.** Hic c. 2. seqq. — Verba August., XIX. contra Faustum, c. 26, sunt: *Matrimonium quippe ex hoc appellatum est, quod* etc.
 

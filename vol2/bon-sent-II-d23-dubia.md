@@ -91,7 +91,7 @@ When, therefore, it is objected that he foreknew the incarnation; it is answered
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi note in Latin (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; this chunk spans p.548 (notes 1–8) and p.549 (notes 1–7), renumbered continuously [^1]–[^15].
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi note in Latin (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; this chunk spans p.548 (notes 1–8) and p.549 (notes 1–7), renumbered continuously 1–15.
 
 [^1]: **La.** Codd. et edd., except. cod. cc et ed. 1, *esset*.
     **En.** The codices and editions, except codex cc and edition 1, read *esset* ("it would be").

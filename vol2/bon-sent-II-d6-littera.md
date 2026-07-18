@@ -92,7 +92,7 @@ From others too, who are conquered by saints living justly and chastely, the pow
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–14 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 159–160). The boundary with the preceding `bon-sent-II-d5-dubia` is a clean cross-distinction: that chunk owns all of p.158's footer, and DISTINCTIO VI opens fresh on p.159, so p.159's apparatus begins at note 1 with no backfill. Footnote numbering restarts on p.160; the p.160 main-stream notes ¹–⁶ all anchor this littera's Cap. V–VII ([^9]–[^14]), while p.160's separately-headed `NOTAE AD COMMENTARIUM` block is the following `bon-sent-II-d6-divisio`'s apparatus — see Notes.
+> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–14 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 159–160). The boundary with the preceding `bon-sent-II-d5-dubia` is a clean cross-distinction: that chunk owns all of p.158's footer, and DISTINCTIO VI opens fresh on p.159, so p.159's apparatus begins at note 1 with no backfill. Footnote numbering restarts on p.160; the p.160 main-stream notes ¹–⁶ all anchor this littera's Cap. V–VII (9–14), while p.160's separately-headed `NOTAE AD COMMENTARIUM` block is the following `bon-sent-II-d6-divisio`'s apparatus — see Notes.
 
 [^1]: **La.** Cap. 40, 14. Locus Ezech. est 28, 12. 13. Vulgata: *perfectus decore*. — Etiam in hac dist. Magist. multa mutuavit ex Hugone, Sum. Sent. tr. 2. c. 4, et ex Abaelardo, Sic et non, c. 47.
 

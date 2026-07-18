@@ -183,7 +183,7 @@ vation of utility and of order and of entity; and because nothing is to be attri
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. [^1]–[^9] are p.869 footers 1–9 (the whole videtur + Sed contra block, received from a1-q3); [^10]–[^17] are p.870 footers 1–8. The p.871 SCHOLION carries only reference content and no numbered footers.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. 1–9 are p.869 footers 1–9 (the whole videtur + Sed contra block, received from a1-q3); 10–17 are p.870 footers 1–8. The p.871 SCHOLION carries only reference content and no numbered footers.
 
 [^1]: **La.** Vers. 20. et deinde v. 22. — In primo s. Script. loco multi codd. et edd. 1, 2 post *decipiet* addunt *nobis* (ed. 1 ex *nobis*). — In *minori* respicitur illud August., 83 Qq. q. 3: *Illo [Deo] autem auctore cum dicitur, illo volente dicitur.*
     **En.** Verse 20, and then v. 22. — In the first place of Sacred Scripture many codices and edd. 1, 2 after *decipiet* add *nobis* (ed. 1 from *nobis*). — In the *minor* there is regarded that [saying] of Augustine, 83 Questions, q. 3: *But when it is said "with him [God] as author," it is said "with him willing."*

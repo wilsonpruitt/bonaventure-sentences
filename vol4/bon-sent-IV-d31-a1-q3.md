@@ -129,7 +129,7 @@ But if we speak with respect to the *contract of marriage*, which is through the
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers [^1]–[^10] are page 720's footer sequence (physically numbered 3–12 on the page — footers 1–2 belong to the preceding q2), and [^11]–[^15] are page 721's (physically numbered 1–5).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers 1–10 are page 720's footer sequence (physically numbered 3–12 on the page — footers 1–2 belong to the preceding q2), and 11–15 are page 721's (physically numbered 1–5).
 
 [^1]: **La.** Hic c. 2. Verba potius sunt Hug. a S. Vict., II. de Sacram. p. XI. c. 8, quibus sententiam August., I. de Nuptiis et concupisc. c. 10. n. 11. seq. (hic in lit. Magistri, c. 2. relatam), complectitur.
      **En.** Here, c. 2. The words are rather those of Hugh of St. Victor, *On the Sacraments* II, p. XI, c. 8, in which he embraces the opinion of Augustine, *On Marriage and Concupiscence* I, c. 10, n. 11 and following (related here in the Master's text, c. 2).

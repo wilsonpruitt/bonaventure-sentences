@@ -163,7 +163,7 @@ In another way also that saying can be understood, so that we understand, as was
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. [^1] is p.759 footer 6 (received from d32-divisio); [^2]–[^11] are p.760 footers 1–10; [^12]–[^18] are p.761 footers 1–7. The p.762 footers belong to QUAESTIO II and are forwarded to d32-a1-q2.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. 1 is p.759 footer 6 (received from d32-divisio); 2–11 are p.760 footers 1–10; 12–18 are p.761 footers 1–7. The p.762 footers belong to QUAESTIO II and are forwarded to d32-a1-q2.
 
 [^1]: **La.** Vers. 5, ubi pro *non intrabit in regnum caelorum* Vulgata legit *non potest introire in regnum Dei*.
     **En.** Verse 5, where for *will not enter into the kingdom of heaven* the Vulgate reads *cannot enter into the kingdom of God*.

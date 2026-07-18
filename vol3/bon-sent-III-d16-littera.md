@@ -82,7 +82,7 @@ And here it is to be noted that Christ received something of every state of man,
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are slugged `[^pNNN-K]` by printed page.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are slugged pNNN-K by printed page.
 
 [^p343-1]: **La.** Num. 23.
     **En.** Number 23.

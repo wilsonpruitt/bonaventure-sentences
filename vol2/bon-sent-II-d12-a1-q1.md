@@ -160,7 +160,7 @@ And this is what the Master and Hugh of St. Victor say, and all who treat of thi
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus first in Latin (**La.**), then in English (**En.**). Variant readings (`Vat.`, `codd.`, etc.) are reproduced verbatim in Latin and rendered descriptively in English. Footnotes are renumbered continuously across pp. 293–294 (Quaracchi restarts numbering at each printed page; entries [^1]–[^9] are the nine p.293 footers, [^10]–[^15] the six p.294 footers).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus first in Latin (**La.**), then in English (**En.**). Variant readings (`Vat.`, `codd.`, etc.) are reproduced verbatim in Latin and rendered descriptively in English. Footnotes are renumbered continuously across pp. 293–294 (Quaracchi restarts numbering at each printed page; entries 1–9 are the nine p.293 footers, 10–15 the six p.294 footers).
 
 [^1]: **La.** Cap. 2. n. 2: *Quapropter rectissime credimus, omnia Deum fecisse de nihilo; quia, etiamsi de aliqua materia factus est mundus, eadem ipsa materia de nihilo facta est, ut ordinatissimo Dei munere prima [alias: primo] capacitas formarum fieret, ac deinde formarentur quaecumque formata sunt.*
 

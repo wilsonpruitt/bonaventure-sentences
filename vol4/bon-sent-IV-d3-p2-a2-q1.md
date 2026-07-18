@@ -128,7 +128,7 @@ If it is asked how often one ought to be immersed; I respond: according to the c
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; here the p.80 footer series keeps its own numbers (`[^3]`–`[^9]`; notes 1–2 of p.80 belong to the preceding *Iudicium* tail of a1-q2), and markers labeled *bis* belong to p.81's footer series (`[^1bis]`–`[^6bis]`), kept unique within the file.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; here the p.80 footer series keeps its own numbers (3–9; notes 1–2 of p.80 belong to the preceding *Iudicium* tail of a1-q2), and markers labeled *bis* belong to p.81's footer series (1bis–6bis), kept unique within the file.
 
 [^3]: **La.** Can. *Propter vitandum schismatis* (c. 83.). Cfr. Isidor. Mercator., Collectio Decretal. Concil. Tolet. IV. n. 5.
     **En.** The canon *Propter vitandum schismatis* (c. 83). Cf. Isidore Mercator, Collection of Decretals, Council of Toledo IV, n. 5.

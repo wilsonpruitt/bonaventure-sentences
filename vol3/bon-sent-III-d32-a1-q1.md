@@ -161,7 +161,7 @@ On this question specially treat: St. Thomas, here a. 2; *Summa* loc. cit. a. 2.
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Latin (**La.**) of the Quaracchi *NOTAE AD COMMENTARIUM* followed by an English rendering (**En.**). Numbering restarts on each printed page; this chunk leads with the p.697 footers handed off from d32-divisio (nn.2–4 → `[^1]`–`[^3]`), then runs the p.698 sequence (nn.1–10 → `[^4]`–`[^13]`). The p.699 footers belong to QUAESTIO II; the article-master scholion carries no marker of its own.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Latin (**La.**) of the Quaracchi *NOTAE AD COMMENTARIUM* followed by an English rendering (**En.**). Numbering restarts on each printed page; this chunk leads with the p.697 footers handed off from d32-divisio (nn.2–4 → 1–3), then runs the p.698 sequence (nn.1–10 → 4–13). The p.699 footers belong to QUAESTIO II; the article-master scholion carries no marker of its own.
 
 [^1]: **La.** Edd. *quos*, et paulo inferius *quos non* pro *quos.*
      **En.** The editions read *quos*, and a little below *quos non* for *quos.*

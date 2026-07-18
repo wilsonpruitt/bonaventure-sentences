@@ -154,7 +154,7 @@ Therefore I believe that the other opinion is more probable, that he rise again 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk gathers, from each page's footer block, only the notes whose anchors fall in this question's body, renumbered [^1]–[^17] in body order. The Articulus II scholion's own back-references are kept inline within the scholion text, not as numbered footers.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk gathers, from each page's footer block, only the notes whose anchors fall in this question's body, renumbered 1–17 in body order. The Articulus II scholion's own back-references are kept inline within the scholion text, not as numbered footers.
 
 [^1]: **La.** Vers. 28. — De Glossa vide tom. III. pag. 678, nota 5, in qua ex verbis Augustini obiectio subnexa (*casus reddit cautiores*) sumta est.
      **En.** Verse 28. — Concerning the Gloss see vol. III, p. 678, note 5, in which from the words of Augustine the objection subjoined (*the fall renders [them] more cautious*) is taken.

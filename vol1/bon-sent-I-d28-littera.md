@@ -106,7 +106,7 @@ This too must be known: that although it has been said above[^13] that *image* i
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi critical apparatus (NOTAE AD LIBR. SENTENTIARUM, reflowed from the two-column footnote bands on printed pp. 493–494) in Latin, followed by an English rendering. Notes [^1]–[^6] are from the page-bottom band of p. 493; [^7]–[^15] are from p. 494.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi critical apparatus (NOTAE AD LIBR. SENTENTIARUM, reflowed from the two-column footnote bands on printed pp. 493–494) in Latin, followed by an English rendering. Notes 1–6 are from the page-bottom band of p. 493; 7–15 are from p. 494.
 
 [^1]: **La.** Omnia praecedentia a verbis *Hoc exemplis* sumta sunt ex V. *de Trin.* c. 7. n. 8, paucis mutatis. — Paulo post Vat. perperam *alia* pro *aliaque*, ed. 1 *alia quoque*.
 

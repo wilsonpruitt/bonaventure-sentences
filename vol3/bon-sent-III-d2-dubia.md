@@ -124,7 +124,7 @@ As to that which is objected, of what order he was: it must be said that it is p
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the entries below run continuously across pp. 56–58. Entries [^1]–[^6] are p. 56 footers 4–9 (footers 1–3 of p. 56 belong to the preceding quaestio, d.2 a.3 q.3); [^7]–[^17] are p. 57 footers 1–11; [^18]–[^23] are p. 58 footers 1–6.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the entries below run continuously across pp. 56–58. Entries 1–6 are p. 56 footers 4–9 (footers 1–3 of p. 56 belong to the preceding quaestio, d.2 a.3 q.3); 7–17 are p. 57 footers 1–11; 18–23 are p. 58 footers 1–6.
 
 [^1]: **La.** Cod. N supplet *Deus.* Pro *dicitur* in codd. A U habetur *dicit.*
      **En.** Codex N supplies *Deus.* For *dicitur* codices A U have *dicit.*

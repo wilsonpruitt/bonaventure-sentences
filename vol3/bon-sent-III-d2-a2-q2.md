@@ -167,7 +167,7 @@ And so there is a third way of speaking, true and catholic, that Christ assumed 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi editors' note verbatim; **En.** is a literal English rendering. Quaracchi restarts footnote numbering on each printed page; entries below run continuously across pages 46–47. Page 46's footnote 1 (anchored to the prior question's reply) belongs to the preceding chunk (d2-a2-q1, `[^23]`) and is omitted here.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi editors' note verbatim; **En.** is a literal English rendering. Quaracchi restarts footnote numbering on each printed page; entries below run continuously across pages 46–47. Page 46's footnote 1 (anchored to the prior question's reply) belongs to the preceding chunk (d2-a2-q1, 23) and is omitted here.
 
 [^1]: **La.** Vers. 38. — De minori cfr. infra d. 15. a. 2. q. 2. et Fulgent., III. ad Trasim. c. 21.
      **En.** Verse 38. — On the minor [premise] cf. below, d. 15, a. 2, q. 2, and Fulgentius, *To Trasimund* III, c. 21.

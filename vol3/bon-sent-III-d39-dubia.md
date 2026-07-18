@@ -131,7 +131,7 @@ Likewise it is asked about that which he says: *Without doubt it is a lesser evi
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the markers here are renumbered as a single continuous sequence across the chunk. The dubia begin at the bottom of p.880 (whose footnotes belong wholly to the preceding article); the dubia apparatus proper begins on p.881 ([^1]–[^12]) and continues on p.882 ([^13]–[^25]).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the markers here are renumbered as a single continuous sequence across the chunk. The dubia begin at the bottom of p.880 (whose footnotes belong wholly to the preceding article); the dubia apparatus proper begins on p.881 (1–12) and continues on p.882 (13–25).
 
 [^1]: **La.** Edd. omittunt *nostrum*, pro quo non pauci codd. *verum.* Mox pro *et factum* codd. A K N V *et falsum.* Inferius pro *accipitur* Vat. cum pauci codd. *accipiatur.*
      **En.** The editions omit *of ours*, for which not a few codices read *true.* Shortly, for *and deed* codices A K N V read *and falsehood.* Below, for *is taken* the Vatican edition with a few codices reads *let it be taken.*

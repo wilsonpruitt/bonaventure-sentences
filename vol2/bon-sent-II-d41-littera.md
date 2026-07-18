@@ -97,7 +97,7 @@ But if every mortal sin is voluntary, since an evil will is a mortal sin, it is 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' Latin note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; markers `[^1]`–`[^3]` are the three `NOTAE AD LIBR. SENTENTIARUM` notes on p.934, `[^4]`–`[^12]` are the nine `NOTAE AD LIBR. SENTENTIARUM` notes on p.935 (L-col 1–6, R-col 7–9), and `[^13]` is the single littera footer note on p.936.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' Latin note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; markers 1–3 are the three `NOTAE AD LIBR. SENTENTIARUM` notes on p.934, 4–12 are the nine `NOTAE AD LIBR. SENTENTIARUM` notes on p.935 (L-col 1–6, R-col 7–9), and 13 is the single littera footer note on p.936.
 
 [^1]: **La.** Dist. praeced. c. 1.
     **En.** The preceding distinction, c. 1.

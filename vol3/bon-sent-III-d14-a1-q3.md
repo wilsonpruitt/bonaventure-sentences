@@ -170,7 +170,7 @@ it should judge concerning *the supreme truth itself,* but *according to it* the
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They render the Quaracchi editors' critical apparatus. Quaracchi restarts footnote numbering on each printed page; markers here are page-suffixed (`[^p302-N]`, `[^p303-N]`, …). The single p.302 footer (n. 8) is this question's first body-footer, handed off from d14-a1-q2 (which consumed p.302 nn. 1–7); the Scholion carries no numbered apparatus.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They render the Quaracchi editors' critical apparatus. Quaracchi restarts footnote numbering on each printed page; markers here are page-suffixed (p302-N, p303-N, …). The single p.302 footer (n. 8) is this question's first body-footer, handed off from d14-a1-q2 (which consumed p.302 nn. 1–7); the Scholion carries no numbered apparatus.
 
 [^p302-8]: **La.** Vers. 16. — Paulo superius pro *infra ipsum* edd. *citra ipsum.*
 

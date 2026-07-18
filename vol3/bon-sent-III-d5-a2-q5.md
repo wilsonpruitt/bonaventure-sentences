@@ -126,7 +126,7 @@ Fifthly it is asked whether this is to be conceded: the Son of God assumed human
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi editors' note verbatim; **En.** is the English rendering. Quaracchi restarts footnote numbering on each printed page; this question's markers run across printed pages 140 (notes 3–8, shown here as `[^3c]`–`[^8c]`; notes 1–2 of p.140 belong to the preceding question 4) and 141 (notes 1–10, shown as `[^1d]`–`[^10d]`). The page-142 scholion carries no footnote markers.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi editors' note verbatim; **En.** is the English rendering. Quaracchi restarts footnote numbering on each printed page; this question's markers run across printed pages 140 (notes 3–8, shown here as 3c–8c; notes 1–2 of p.140 belong to the preceding question 4) and 141 (notes 1–10, shown as 1d–10d). The page-142 scholion carries no footnote markers.
 
 [^3c]: **La.** Libr. III. de Fide orthod. c. 6.
     **En.** Book III of *On the Orthodox Faith,* c. 6.

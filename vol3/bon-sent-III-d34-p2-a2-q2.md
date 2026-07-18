@@ -113,7 +113,7 @@ And from this there could yet be elicited, besides the aforesaid modes, another 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi critical note verbatim; **En.** is a literal rendering. Quaracchi restarts footnote numbering on each printed page; the markers here are renumbered continuously across pp.764–765 (p.764 nn.1–11 → [^1]–[^11]; p.765 nn.1–9 → [^12]–[^20]). p.765 nn.10–11 anchor QUAESTIO III's opening arguments and are forwarded to `bon-sent-III-d34-p2-a2-q3`.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi critical note verbatim; **En.** is a literal rendering. Quaracchi restarts footnote numbering on each printed page; the markers here are renumbered continuously across pp.764–765 (p.764 nn.1–11 → 1–11; p.765 nn.1–9 → 12–20). p.765 nn.10–11 anchor QUAESTIO III's opening arguments and are forwarded to `bon-sent-III-d34-p2-a2-q3`.
 
 [^1]: **La.** Vers. 18. — Verba August. videsis hic in lit. Magistri, c. 5.
     **En.** Verse 18. — The words of Augustine see here in the text of the Master, c. 5.

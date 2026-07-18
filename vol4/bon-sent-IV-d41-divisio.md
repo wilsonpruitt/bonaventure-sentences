@@ -144,7 +144,7 @@ Third, whether affinity impedes matrimony.
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; here the ten notes are renumbered continuously — `[^1]`–`[^4]` are p.857's NOTAE AD COMMENTARIUM (notes 1–4), and `[^5]`–`[^10]` are p.858's footer notes 1–6. See `## Notes` for the page-seam disposition.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; here the ten notes are renumbered continuously — 1–4 are p.857's NOTAE AD COMMENTARIUM (notes 1–4), and 5–10 are p.858's footer notes 1–6. See `## Notes` for the page-seam disposition.
 
 [^1]: **La.** Edd. hic pro *quod* et paulo inferius pro *quia* substituunt *qui*. Subinde pro *probetur* edd. *prohibetur*.
 

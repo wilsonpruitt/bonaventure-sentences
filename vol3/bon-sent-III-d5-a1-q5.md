@@ -113,7 +113,7 @@ Fifth and last it is asked whether this is to be conceded: the divine nature is 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; these are the footer notes of printed pages 128 and 129. The markers `2`–`8` are printed page 128's own per-page sequence (note 1 of p.128 belongs to the prior chunk, q.IV, which consumed it in its *Solutio oppositorum*). The markers `1b`–`7b` are printed page 129's per-page sequence; the `b` suffix is added only so that each `[^N]` definition is unique for the build parser.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; these are the footer notes of printed pages 128 and 129. The markers `2`–`8` are printed page 128's own per-page sequence (note 1 of p.128 belongs to the prior chunk, q.IV, which consumed it in its *Solutio oppositorum*). The markers `1b`–`7b` are printed page 129's per-page sequence; the `b` suffix is added only so that each N definition is unique for the build parser.
 
 [^2]: **La.** Hic c. 1 in fine. De minori vide ibid. c. 2.
     **En.** Here [in the Master's text], c. 1, at the end. On the minor [premise] see ibid., c. 2.

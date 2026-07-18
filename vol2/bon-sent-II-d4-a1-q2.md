@@ -125,7 +125,7 @@ There were also others, who said that the Angels did not have sanctifying grace 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–22 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 132–134): printed p.132 footer note 9 → [^1]; p.133 footer notes 1–9 → [^2]–[^10]; p.134 footer notes 1–12 → [^11]–[^22]. p.132's footer notes 1–8 anchor the preceding chunk and are already its apparatus (`bon-sent-II-d4-a1-q1` [^12]–[^19]) — see Notes.
+> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–22 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 132–134): printed p.132 footer note 9 → 1; p.133 footer notes 1–9 → 2–10; p.134 footer notes 1–12 → 11–22. p.132's footer notes 1–8 anchor the preceding chunk and are already its apparatus (`bon-sent-II-d4-a1-q1` 12–19) — see Notes.
 
 [^1]: **La.** Cap. 9. n. 2.
 

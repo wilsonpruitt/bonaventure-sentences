@@ -99,7 +99,7 @@ I RESPOND: It must be said that, according as the Saints say and take from Scrip
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–12 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, p. 163). The quaestio is wholly on printed p.163; Quaracchi restarts footnote numbering on the page, here renumbered continuously: left-column ¹–⁸ → [^1]–[^8], right-column ⁹–¹² → [^9]–[^12]. This quaestio has **no scholion** of its own — Quaracchi note 12 (`Vide scholion ad praecedentem quaest.`) refers back to the SCHOLION of the preceding chunk `bon-sent-II-d6-a1-q1` (the sibling-scholion convention).
+> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–12 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, p. 163). The quaestio is wholly on printed p.163; Quaracchi restarts footnote numbering on the page, here renumbered continuously: left-column ¹–⁸ → 1–8, right-column ⁹–¹² → 9–12. This quaestio has **no scholion** of its own — Quaracchi note 12 (`Vide scholion ad praecedentem quaest.`) refers back to the SCHOLION of the preceding chunk `bon-sent-II-d6-a1-q1` (the sibling-scholion convention).
 
 [^1]: **La.** Libr. I. de Sacram. p. V. c. 30. — Vat. post *ceciderunt* prosequitur *et unum ordinem contrarium fecerunt*, ubi non est ordo, sed sempiternus horror inhabitat.
 

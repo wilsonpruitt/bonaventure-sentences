@@ -187,7 +187,7 @@ creation, than to have it through acquisition; just as it is much more glorious 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi editors' note; **En.** the translation. Quaracchi restarts footnote numbering on each printed page; slugs are prefixed by printed page (`[^pNNN-K]`).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi editors' note; **En.** the translation. Quaracchi restarts footnote numbering on each printed page; slugs are prefixed by printed page (pNNN-K).
 
 [^p387-1]: **La.** Edd. *sui corporis*.
     **En.** The editions [read] *of his body*.

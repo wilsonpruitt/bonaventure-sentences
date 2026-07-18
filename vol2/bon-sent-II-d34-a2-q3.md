@@ -177,7 +177,7 @@ But if it be asked about this [proposition]: malice is — whether it is to be g
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. [^1]–[^11] are p.814 footers 1–11; [^12]–[^17] are p.815 footers 1–6; [^18]–[^25] are p.816 footers 1–8.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. 1–11 are p.814 footers 1–11; 12–17 are p.815 footers 1–6; 18–25 are p.816 footers 1–8.
 
 [^1]: **La.** Vat. addit *et potentia aliqua: et.*
     **En.** The Vatican [edition] adds *et potentia aliqua: et* ("and some power: and").

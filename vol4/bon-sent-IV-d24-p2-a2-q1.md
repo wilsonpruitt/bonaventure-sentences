@@ -156,7 +156,7 @@ On the 3rd question, besides those cited: Blessed Albert, here, a. 39. — Peter
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; here they are numbered continuously ([^1]–[^6] = p. 629 nn. 3–8; [^7]–[^11] = p. 630 nn. 1–5). Page 629's printed nn. 1–2 and its unnumbered head-variant belong to the preceding Article I chunk (see Notes).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; here they are numbered continuously (1–6 = p. 629 nn. 3–8; 7–11 = p. 630 nn. 1–5). Page 629's printed nn. 1–2 and its unnumbered head-variant belong to the preceding Article I chunk (see Notes).
 
 [^1]: **La.** Vide hic lit. Magistri, c. 13, et de seq. propos. supra d. I. c. 2.
 

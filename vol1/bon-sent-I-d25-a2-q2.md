@@ -128,7 +128,7 @@ And as to what is asked, whether *person* is common to created and uncreated per
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi *Notae ad Commentarium* in Latin followed by an English rendering. Footnotes 1–5 are drawn from the footer block at the foot of p. 444 (covering markers in the arguments, *contra*-arguments, *quaestio incidens*, *Respondeo*, and the first part of the *Distinctio* on p. 444). Markers [^6]–[^8] occur in the body on p. 445; the OCR of pt2 truncated the p. 445 footer apparatus block, so those entries are flagged `[?]` here — see `manual-review/tier2-ambiguities-d25-a2-q2.md`.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi *Notae ad Commentarium* in Latin followed by an English rendering. Footnotes 1–5 are drawn from the footer block at the foot of p. 444 (covering markers in the arguments, *contra*-arguments, *quaestio incidens*, *Respondeo*, and the first part of the *Distinctio* on p. 444). Markers 6–8 occur in the body on p. 445; the OCR of pt2 truncated the p. 445 footer apparatus block, so those entries are flagged `[?]` here — see `manual-review/tier2-ambiguities-d25-a2-q2.md`.
 
 [^1]: **La.** A multis codd. et ed. 1 abest *et*.
 

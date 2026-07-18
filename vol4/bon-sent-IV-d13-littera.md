@@ -72,7 +72,7 @@ But lest you be ignorant what makes a *heretic,* or what a *heretic* is, hear br
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the markers `[^1]–[^3]` belong to printed page 300 (the *NOTAE AD LIBR. SENTENTIARUM* block, the Lombard littera's own notes), and `[^4]–[^8]` to printed page 301.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the markers 1–3 belong to printed page 300 (the *NOTAE AD LIBR. SENTENTIARUM* block, the Lombard littera's own notes), and 4–8 to printed page 301.
 
 [^1]: **La.** Can. *Intra catholicam* (77.), C. 1. q. 1, et apud Algerum, III. de Sacram. c. 8. — Superius post *nomine* codd. A B C D et edd. 1, 6 omittunt *et.* Supple: *sacerdotes.*
      **En.** The canon *Intra catholicam* (77), C. 1, q. 1, and in Alger, bk. III on the Sacrament, c. 8. — Above, after *nomine,* codd. A B C D and edd. 1, 6 omit *et.* Supply: *priests.*

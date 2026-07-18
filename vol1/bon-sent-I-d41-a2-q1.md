@@ -37,7 +37,7 @@ Consequenter quantum ad secundum articulum quaeritur secundo de interminabilitat
 ### Quaestio I.
 #### *Utrum Deus cognoscat res per modum complexionis.*
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation that follows. Each note is given first in Latin (`**La.**`), then in literal English (`**En.**`). Footnote numbering in the printed Quaracchi text restarts on every page; this chunk re-numbers continuously [^1]–[^12] across the two printed pages (736–737) where apparatus anchors fall.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation that follows. Each note is given first in Latin (`**La.**`), then in literal English (`**En.**`). Footnote numbering in the printed Quaracchi text restarts on every page; this chunk re-numbers continuously 1–12 across the two printed pages (736–737) where apparatus anchors fall.
 
 Quod autem cognoscat Deus per modum complexionis, ostenditur sic.
 

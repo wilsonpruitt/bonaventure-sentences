@@ -138,7 +138,7 @@ Besides those cited: Bl. Albert, here, a. 13–14. — Peter of Tarentaise, *II 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They are renumbered 1–12 within this chunk; in the Quaracchi printed text they are notes 3–7 of the page-47 footer (the page-47 footer's notes 1–2 anchor in the preceding chunk a2-q2 and are its [^12]–[^13]), and notes 1–7 of the page-48 footer. See Notes for the page-by-page crosswalk.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They are renumbered 1–12 within this chunk; in the Quaracchi printed text they are notes 3–7 of the page-47 footer (the page-47 footer's notes 1–2 anchor in the preceding chunk a2-q2 and are its 12–13), and notes 1–7 of the page-48 footer. See Notes for the page-by-page crosswalk.
 
 [^1]: **La.** Observamus, quod argumenta ista fundantur in hoc, quod ea, quae in essentia et cum ipsa necessario connexis conveniunt vel differunt, etiam in specie conveniant vel differant necesse est. Cfr. Porphyr., *de Praedicab.* c. *de Specie* et seqq.
 

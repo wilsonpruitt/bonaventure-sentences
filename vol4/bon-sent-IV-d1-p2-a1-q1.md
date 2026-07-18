@@ -123,7 +123,7 @@ or in the cure of a child the merit of congruity is required rather than [that] 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page. This question picks up page 32's footer notes 3–9 (notes 1–2 of page 32 belong to the preceding Part II divisio) and page 33's footer notes 1–2 (page 33's notes 3 onward belong to the following Question II); they are renumbered here as a single continuous sequence [^1]–[^9].
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page. This question picks up page 32's footer notes 3–9 (notes 1–2 of page 32 belong to the preceding Part II divisio) and page 33's footer notes 1–2 (page 33's notes 3 onward belong to the following Question II); they are renumbered here as a single continuous sequence 1–9.
 
 [^1]: **La.** Cfr. I. Cor. 13, 1. seqq. — Cod. Z *nisi fiat in caritate.* Superius pro *suffecerit* codd. F G H I Z aa *sufficeret.* Inferius pro primo *ergo* cod. V *ideo.*
 

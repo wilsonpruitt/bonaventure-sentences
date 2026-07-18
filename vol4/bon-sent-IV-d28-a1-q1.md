@@ -130,7 +130,7 @@ St. Thomas, below, d. 29, a. 3, quaestiuncula 3; *Supplement*, q. 47, a. 5. — 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries two per-page series (p.688 notes 1–2, p.689 notes 1–7), renumbered consecutively [^1]–[^9] for this file.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries two per-page series (p.688 notes 1–2, p.689 notes 1–7), renumbered consecutively 1–9 for this file.
 
 [^1]: **La.** In codd. S T additur *scilicet tempore, vel testimonio, vel termino*.
 

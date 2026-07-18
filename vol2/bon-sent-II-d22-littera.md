@@ -128,7 +128,7 @@ But if it is asked whether the will preceded that sin; we say that the sin consi
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives **La.** = the Latin apparatus as printed in Quaracchi, followed by **En.** = a literal English rendering. Quaracchi numbers the apparatus per printed page; here the entries from pp. 512 (NOTAE AD LIBR. SENTENTIARUM, footers 1–5), 513 (footers 1–12), and 514 (footers 1–8) are renumbered continuously as [^1]–[^25].
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives **La.** = the Latin apparatus as printed in Quaracchi, followed by **En.** = a literal English rendering. Quaracchi numbers the apparatus per printed page; here the entries from pp. 512 (NOTAE AD LIBR. SENTENTIARUM, footers 1–5), 513 (footers 1–12), and 514 (footers 1–8) are renumbered continuously as 1–25.
 
 [^1]: **La.** Lib. XI. c. 5. n. 7. Seq. textus ibid. c. 30. n. 39, tertius et quartus ibid. c. 27. n. 34. Cfr. Hugo, Sum. Sent. tr. 3. c. 6.
 

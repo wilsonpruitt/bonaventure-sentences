@@ -176,7 +176,7 @@ On the 3rd question: Alex. of Hales, loc. cit. § 3. — St. Thomas, loc. cit. a
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the plain-numbered markers (`[^1]`–`[^5]`) are p. 565's sequence, and the letter-suffixed markers (`[^1a]`–`[^9a]`) are p. 566's sequence.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the plain-numbered markers (1–5) are p. 565's sequence, and the letter-suffixed markers (1a–9a) are p. 566's sequence.
 
 [^1]: **La.** Art. 2. q. 1. Cfr. Benedict. XIV. constitutio *Suprema,* ubi decernit, poenitentes nomina complicum non debere revelare; constitut. *Ubi primum,* in qua prohibet confessarios, quod astringant poenitentes ad nomina complicum revelanda. Cfr. etiam ipsius constitut. *Ad eradicandam.*
     **En.** Art. 2, q. 1. Cf. Benedict XIV, constitution *Suprema,* where he decrees that penitents are not to reveal the names of accomplices; [and] the constitution *Ubi primum,* in which he forbids confessors to bind penitents to reveal the names of accomplices. Cf. also his constitution *Ad eradicandam.*

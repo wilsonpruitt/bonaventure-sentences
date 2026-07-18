@@ -117,7 +117,7 @@ then either that precept was *of natural law* or *of discipline*. Not *of discip
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers [^1]–[^4] are page 664's footer notes 6–9 (this quaestio's *fundamenta* apparatus; notes 1–5 of that page belong to a1-q2), and [^5]–[^11] are page 665's footer notes 1–7 (note 8 of that page belongs to Articulus II, Quaestio I).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers 1–4 are page 664's footer notes 6–9 (this quaestio's *fundamenta* apparatus; notes 1–5 of that page belong to a1-q2), and 5–11 are page 665's footer notes 1–7 (note 8 of that page belongs to Articulus II, Quaestio I).
 
 [^1]: **La.** Cap. 1, 28. — Inferius pro *hoc autem* Vat. *haec autem coniunctio legitime facta*.
      **En.** [Genesis] chapter 1, [verse] 28. — Below, for *hoc autem* ("but this") the Vatican edition [reads] *haec autem coniunctio legitime facta* ("but this joining lawfully made").

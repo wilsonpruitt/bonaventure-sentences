@@ -67,7 +67,7 @@ And it is to be noted that the understanding and knowledge which are called gift
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation, and reproduce the Quaracchi *NOTAE AD LIBR. SENTENTIARUM* footer blocks for pp. 771–772. Quaracchi restarts footnote numbering on each printed page; the entries are renumbered continuously here: p.771 [^1]–[^6]; p.772 [^7]–[^8].
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation, and reproduce the Quaracchi *NOTAE AD LIBR. SENTENTIARUM* footer blocks for pp. 771–772. Quaracchi restarts footnote numbering on each printed page; the entries are renumbered continuously here: p.771 1–6; p.772 7–8.
 
 [^1]: **La.** Libr. XIV. de Trin. c. 1. n. 3. Locus Scripturae est I. Cor. 12, 8. — Post *humanarum vero* plurimae edd. adiciunt *rerum.*
     **En.** Book XIV, *On the Trinity,* c. 1, n. 3. The scriptural passage is 1 Corinthians 12:8. — After *humanarum vero* (but of human things) most editions add *rerum* (of things).

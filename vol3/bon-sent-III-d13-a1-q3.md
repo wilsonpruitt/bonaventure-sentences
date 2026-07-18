@@ -124,7 +124,7 @@ Thirdly it is asked whether the grace of the singular person in Christ was full 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers here are page-suffixed (`[^p281-N]`, `[^p282-N]`, `[^p283-N]`).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers here are page-suffixed (p281-N, p282-N, p283-N).
 
 [^p281-1]: **La.** Respicitur illud Rom. 8, 20: *Vanitati enim creatura subiecta est*, et illud Hebr. 13, 9: *Optimum est enim gratia stabilire cor.* Cfr. II. Sent. d. 26. q. 2. arg. 8. ad oppos.
 

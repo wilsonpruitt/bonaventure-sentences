@@ -145,7 +145,7 @@ On both questions: Alexander of Hales, S. p. IV, d. 20, m. 3, 4. — Scotus, loc
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers [^1]–[^9] belong to p. 478, markers [^10]–[^14] to p. 479.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers 1–9 belong to p. 478, markers 10–14 to p. 479.
 
 [^1]: **La.** Matth. 16, 19. Hieron. in v. 23. ait: *Aedificabo*, inquit, *super te Ecclesiam meam* etc, et: *Dabo tibi claves regni caelorum*; omnia de futuro, quae si statim dedisset ei, nunquam in eo pravae opinionis [alias: confessionis] error invenisset locum.
      **En.** Matthew 16, 19. Jerome on verse 23 says: *I will build*, he says, *my Church upon thee* etc., and: *I will give thee the keys of the kingdom of heaven*; all in the future, which, if he had given to him at once, no error of perverse opinion [otherwise: confession] would ever have found place in him.

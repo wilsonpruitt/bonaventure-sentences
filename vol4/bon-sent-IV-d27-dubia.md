@@ -117,7 +117,7 @@ Likewise it is asked about this, that he says: *He who is coupled to marriage sh
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. La. gives the Quaracchi apparatus entry; En. gives a literal English rendering. Quaracchi restarts footnote numbering on each printed page; here the notes are renumbered continuously (p.684 notes 3–7 → [^1]–[^5]; p.685 notes 1–8 → [^6]–[^13]; p.686 notes 1–6 → [^14]–[^19]).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. La. gives the Quaracchi apparatus entry; En. gives a literal English rendering. Quaracchi restarts footnote numbering on each printed page; here the notes are renumbered continuously (p.684 notes 3–7 → 1–5; p.685 notes 1–8 → 6–13; p.686 notes 1–6 → 14–19).
 
 [^1]: **La.** Cod. L *individualis.*
      **En.** Codex L [reads] *individualis* ("individual").

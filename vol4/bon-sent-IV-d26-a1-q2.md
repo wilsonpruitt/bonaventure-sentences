@@ -117,7 +117,7 @@ but human contracts are instituted by men: therefore, etc.
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers [^1]–[^8] are page 663's footer sequence, [^9]–[^13] are page 664's footer sequence (the printed edition numbers these last five 1–5).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers 1–8 are page 663's footer sequence, 9–13 are page 664's footer sequence (the printed edition numbers these last five 1–5).
 
 [^1]: **La.** Vide II. Sent. d. 19. a. 2. et 3. — Superius pro *visum* cod. U *visivam*, plures codd. pro *etc.* perperam substituunt *est*, cod. A *est supra*. In fine solut. pro *utrumque* edd. *unicum*.
      **En.** See II Sentences, d. 19, aa. 2 and 3. — Above, for *visum* codex U [reads] *visivam*; several codices wrongly substitute *est* for *etc.*, codex A *est supra*. At the end of the solution, for *utrumque* ("both") the editions [read] *unicum* ("single").

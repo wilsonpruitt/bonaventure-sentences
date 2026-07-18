@@ -128,7 +128,7 @@ According to this mode therefore it must be said that procession, insofar as it 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Page-end footnote blocks (p. 247 fns 1–10 and p. 248 fns 1–9) have been renumbered continuously as [^1]–[^19] for this chunk.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Page-end footnote blocks (p. 247 fns 1–10 and p. 248 fns 1–9) have been renumbered continuously as 1–19 for this chunk.
 
 [^1]: **La.** Hic, c. 1.
 

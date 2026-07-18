@@ -105,7 +105,7 @@ From these also other incidental questions can be made clear, namely, in whom th
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–13 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 141–142): printed p.141 footer notes 1–8 → [^1]–[^8]; p.142 LEFT-column footer notes 1–5 → [^9]–[^13]. p.142's RIGHT-column footer notes anchor the following `bon-sent-II-d4-dubia` — see Notes.
+> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–13 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 141–142): printed p.141 footer notes 1–8 → 1–8; p.142 LEFT-column footer notes 1–5 → 9–13. p.142's RIGHT-column footer notes anchor the following `bon-sent-II-d4-dubia` — see Notes.
 
 [^1]: **La.** Cap. 30. n. 47.
 

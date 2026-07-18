@@ -149,7 +149,7 @@ And therefore, although immortality was owed to Christ, nevertheless immortality
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are slugged by page (`[^pNNN-K]`). Footnotes 3–7 of page 389 belong to this question (1–2 were captured by a2-q1); footnote 6 of page 391 is forwarded to a2-q3.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are slugged by page (pNNN-K). Footnotes 3–7 of page 389 belong to this question (1–2 were captured by a2-q1); footnote 6 of page 391 is forwarded to a2-q3.
 
 [^p389-3]: **La.** Hic c. 1, ubi etiam seq. arg. insinuatur.
     **En.** Here c. 1, where also the following argument is suggested.

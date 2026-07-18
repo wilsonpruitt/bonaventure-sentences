@@ -109,7 +109,7 @@ And thus it is clear what in this Sacrament is the *thing* (res), namely the per
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers [^1]–[^7] are page 580's footer sequence, [^8]–[^17] are page 581's.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers 1–7 are page 580's footer sequence, 8–17 are page 581's.
 
 [^1]: **La.** Cfr. supra d. 4. p. II. a. 1. q. 1. et 3. — Edd. hic addunt *et hoc ex institutione*.
      **En.** Cf. above, d. 4, p. II, a. 1, q. 1 and 3. — Here the editions add *et hoc ex institutione* ("and this by institution").

@@ -155,7 +155,7 @@ The *loftiness of the divine power* demands this, on account of which God ought 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. [^1]–[^6] are p.769 footers 2–7 (footer 1 was held by a2-q2); [^7]–[^15] are p.770 footers 1–9; [^16]–[^18] are p.771 footers 1–3.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. 1–6 are p.769 footers 2–7 (footer 1 was held by a2-q2); 7–15 are p.770 footers 1–9; 16–18 are p.771 footers 1–3.
 
 [^1]: **La.** Intellige: animae.
 

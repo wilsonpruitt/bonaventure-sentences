@@ -133,7 +133,7 @@ If you ask: what becomes of the body of Christ? Does it fly away? it must be sai
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk gathers page 308's footer sequence (nn. 1–9, all anchored in q1's body) and page 309's notes 1–4 (which anchor in q1's solutions and conclusion; page 309's remaining notes 5–8 belong to the following QUAESTIO II). Markers are renumbered [^1]–[^13] by body order.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk gathers page 308's footer sequence (nn. 1–9, all anchored in q1's body) and page 309's notes 1–4 (which anchor in q1's solutions and conclusion; page 309's remaining notes 5–8 belong to the following QUAESTIO II). Markers are renumbered 1–13 by body order.
 
 [^1]: **La.** Aristot., III. Topic. c. 2. et 1, ubi docet, utilius esse melius sive magis eligendum. Cfr. Aristot., loc. cit., c. 1.
      **En.** Aristotle, III *Topics* c. 2 and 1, where he teaches that the more useful is the better, or the more to be chosen. Cf. Aristotle, loc. cit., c. 1. [p. 308, n. 1]

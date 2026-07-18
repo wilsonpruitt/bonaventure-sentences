@@ -87,7 +87,7 @@ Likewise it is asked about that which he says: *Some contend that fear is in Chr
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each renders the Quaracchi critical apparatus entry: **La.** the Latin note, **En.** a literal English rendering. Note: per Quaracchi's per-page footnote restart, this chunk leads with p.751's footer notes 8–10 (→ [^1]–[^3]), then continues with p.752's own footer sequence (notes 1–10 → [^4]–[^13]).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each renders the Quaracchi critical apparatus entry: **La.** the Latin note, **En.** a literal English rendering. Note: per Quaracchi's per-page footnote restart, this chunk leads with p.751's footer notes 8–10 (→ 1–3), then continues with p.752's own footer sequence (notes 1–10 → 4–13).
 
 [^1]: **La.** Codd. WZ *quaeritur, quare.*
     **En.** Codices WZ read *it is asked, why.*

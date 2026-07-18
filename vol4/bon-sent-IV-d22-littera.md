@@ -60,7 +60,7 @@ Some, however, say that exterior penance and interior are the Sacrament, and not
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the markers `[^1]–[^3]` belong to printed page 572 (the *NOTAE AD LIBR. SENTENTIARUM* block, i.e. the Lombard littera's own three notes, printed beneath the distinct commentary notes of d.XXI on that page), and `[^4]–[^12]` to printed page 573 (Quaracchi's notes 1–9). They are renumbered continuously here to keep the markdown anchors unique.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the markers 1–3 belong to printed page 572 (the *NOTAE AD LIBR. SENTENTIARUM* block, i.e. the Lombard littera's own three notes, printed beneath the distinct commentary notes of d.XXI on that page), and 4–12 to printed page 573 (Quaracchi's notes 1–9). They are renumbered continuously here to keep the markdown anchors unique.
 
 [^1]: **La.** Dist. XVII. c. I. et XIV. c. ult.
      **En.** Distinction XVII, c. I, and XIV, last chapter.

@@ -107,7 +107,7 @@ In the fourth place it is asked whether through the passion of Christ we are abs
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are slugged `[^pNNN-K]` by printed page. (Page 407 notes 1–2 belong to the preceding question, q3; this question picks up p.407 from note 3.)
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are slugged pNNN-K by printed page. (Page 407 notes 1–2 belong to the preceding question, q3; this question picks up p.407 from note 3.)
 
 [^p407-3]: **La.** Vers. 24. — Expositio Magistri habetur hic c. 4.
     **En.** Verse 24. — The Master's exposition is found here, c. 4.

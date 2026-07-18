@@ -81,7 +81,7 @@ Not only in the carnal work are the times to be observed, but also in the celebr
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi apparatus entry; **En.** gives a literal English rendering. Quaracchi restarts footnote numbering on each printed page; here the three pages' sequences (p. 728: 1 note; p. 729: 8 notes; p. 730: 2 notes) are flattened into a single continuous run [^1]–[^11].
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi apparatus entry; **En.** gives a literal English rendering. Quaracchi restarts footnote numbering on each printed page; here the three pages' sequences (p. 728: 1 note; p. 729: 8 notes; p. 730: 2 notes) are flattened into a single continuous run 1–11.
 
 [^1]: **La.** Epist. I. Cor. 7, 3; superius respicitur ibid. 11, 3. — Inferius est locus August., de Bono coniugali, c. 6. n. 6. Praecedentia excerpta sunt ex Glossa ad primum loc. cit.
      **En.** [Note printed under the heading NOTAE AD LIBR. SENTENTIARUM.] Epistle, I Cor. 7:3; above, the same is referred to at ibid. 11:3. — Below is the passage of Augustine, *On the Good of Marriage,* c. 6, n. 6. The preceding [matter] is excerpted from the Gloss on the first passage cited.

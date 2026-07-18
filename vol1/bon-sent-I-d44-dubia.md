@@ -29,7 +29,7 @@ format_version: 1
 
 ### DUBIA CIRCA LITTERAM MAGISTRI.
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation that follows. Each note is given first in Latin (`**La.**`), then in literal English (`**En.**`). Quaracchi numbers its footnotes per printed page; this chunk renumbers them sequentially [^1]–[^17] across the two printed pages bearing apparatus (792, 793). The small tail of DUB. IV that spills onto p.794 carries no apparatus of its own — p.794's footer belongs to DISTINCTIO XLV.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation that follows. Each note is given first in Latin (`**La.**`), then in literal English (`**En.**`). Quaracchi numbers its footnotes per printed page; this chunk renumbers them sequentially 1–17 across the two printed pages bearing apparatus (792, 793). The small tail of DUB. IV that spills onto p.794 carries no apparatus of its own — p.794's footer belongs to DISTINCTIO XLV.
 
 #### DUB. I.
 

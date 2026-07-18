@@ -122,7 +122,7 @@ But if you ask why in this Sacrament the prayer belongs to the essence rather th
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They are the Quaracchi editors' notes to Bonaventure's text. Quaracchi restarts footnote numbering on each printed page: markers [^1]–[^4] are printed page 594's footer series; markers [^p595-1]–[^p595-10] are printed page 595's footer series (the `p595` prefix keeps the markers unique within this file). Printed page 596 carries no footer notes for this question — its running head opens the page and the following Articulus II begins there.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They are the Quaracchi editors' notes to Bonaventure's text. Quaracchi restarts footnote numbering on each printed page: markers 1–4 are printed page 594's footer series; markers p595-1–p595-10 are printed page 595's footer series (the `p595` prefix keeps the markers unique within this file). Printed page 596 carries no footer notes for this question — its running head opens the page and the following Articulus II begins there.
 
 [^1]: **La.** Cap. 5, 14: *Inducat presbyteros Ecclesiae, et orent super eum, ungentes* etc. — Seq. locus est ibid. v. 15. — Inferius pro *et videtur* codd. F I K *videtur ergo*, et pro *ita* cod. F *oratio*, edd. cum aliquot codd. *illa*.
 

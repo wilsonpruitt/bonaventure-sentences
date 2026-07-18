@@ -142,7 +142,7 @@ than the lack of the justice that is due: therefore, speaking essentially, guilt
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. [^1] is p.824 footer 1 (received from d35-a1-q1); [^2]–[^11] are p.825 footers 1–10; [^12]–[^17] are p.826 footers 1–6 (p.826 footers 7–9 belong to QUAESTIO III and are forwarded to d35-a1-q3).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. 1 is p.824 footer 1 (received from d35-a1-q1); 2–11 are p.825 footers 1–10; 12–17 are p.826 footers 1–6 (p.826 footers 7–9 belong to QUAESTIO III and are forwarded to d35-a1-q3).
 
 [^1]: **La.** De Casu diaboli, c. 9. et 16; de Conceptu virgin. et orig. pecc. c. 3. et 6. Cfr. supra pag. 722, nota 3.
     **En.** *On the Fall of the Devil*, c. 9 and 16; *On the Virginal Conception and Original Sin* c. 3 and 6. Cfr. above p. 722, note 3.

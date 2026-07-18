@@ -113,7 +113,7 @@ timated in John eleven[^p339-1], where it is said: *But Jesus groaned in spirit 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the slugs are page-suffixed (`[^p338-N]`, `[^p339-N]`).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the slugs are page-suffixed (p338-N, p339-N).
 
 [^p338-1]: **La.** Vers. 38. [Matth. 26, 38.]
     **En.** Verse 38. [Matthew 26:38.]

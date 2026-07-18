@@ -138,7 +138,7 @@ On this question the other Commentators do not treat explicitly in this place, e
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They are renumbered 1–13 within this chunk; in the Quaracchi printed text they are notes 2–5 of the page-45 footer (the page-45 footer's note 1 anchors in the preceding chunk a2-q1 and is its [^13]), notes 1–7 of the page-46 footer, and notes 1–2 of the page-47 footer (the page-47 footer's notes 3–7 anchor in the following question, a3-q1). See Notes for the page-by-page crosswalk.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They are renumbered 1–13 within this chunk; in the Quaracchi printed text they are notes 2–5 of the page-45 footer (the page-45 footer's note 1 anchors in the preceding chunk a2-q1 and is its 13), notes 1–7 of the page-46 footer, and notes 1–2 of the page-47 footer (the page-47 footer's notes 3–7 anchor in the following question, a3-q1). See Notes for the page-by-page crosswalk.
 
 [^1]: **La.** Hic c. 6. in fine.
 

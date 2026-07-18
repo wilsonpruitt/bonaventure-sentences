@@ -125,7 +125,7 @@ it is ordered to grace and glory, to which charity orders. And because in this w
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk spans pp. 624–626. Markers `[^2]`–`[^5]` are p. 624 (n. 1 belongs to q1); `[^6]`–`[^9]` and `[^10]`–`[^13]` are p. 625; `[^1]`–`[^5]` (second sequence) are p. 626.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk spans pp. 624–626. Markers 2–5 are p. 624 (n. 1 belongs to q1); 6–9 and 10–13 are p. 625; 1–5 (second sequence) are p. 626.
 
 [^2]: **La.** Vers. 18, qui versus in Vulgata sic sonat: *Dilige amicum tuum sicut te ipsum.* S. Bonav. versum istum hic exhibet secundum translationem Septuaginta interpretum. Glossa delibata est ex August., Epist. 155. (alias 52.) ad Maced. c. 4. n. 14, ubi s. Doctor illud Matth. 22, 40: *In his duobus praeceptis* etc. exponens ait: *Proximus sane hoc loco non sanguinis propinquitate, sed rationis societate pensandus est, in qua socii sunt omnes homines.* — Pro *propinquitate,* quae lectio et in Supplemento Sum. Alex. Hal. collat. 63. a. 2. habetur, edd. cum plurimis codd. *proprietate.* (P. 624, n. 2.)
 

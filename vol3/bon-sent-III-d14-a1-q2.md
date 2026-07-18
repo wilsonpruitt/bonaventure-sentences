@@ -182,7 +182,7 @@ On account of which note that *the infinite* is taken according to quantity, as 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They render the Quaracchi editors' critical apparatus. Quaracchi restarts footnote numbering on each printed page; markers here are page-suffixed (`[^p298-N]`, `[^p299-N]`, …). The two p.298 footers (nn. 3–4) are this question's first body-footers, handed off from d14-a1-q1 (which consumed only p.298 nn. 1–2).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They render the Quaracchi editors' critical apparatus. Quaracchi restarts footnote numbering on each printed page; markers here are page-suffixed (p298-N, p299-N, …). The two p.298 footers (nn. 3–4) are this question's first body-footers, handed off from d14-a1-q1 (which consumed only p.298 nn. 1–2).
 
 [^p298-4]: **La.** Vers. 9. — In initio quaest. post *anima Christi* edd. cum cod. *cc* subiiciunt *in cognoscendo.*
 

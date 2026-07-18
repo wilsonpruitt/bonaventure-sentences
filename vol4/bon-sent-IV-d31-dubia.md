@@ -122,7 +122,7 @@ Likewise it is asked concerning that which he says, that *the union of a spouse 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' note (**La.**) followed by an English rendering (**En.**). Footnote numbering restarts on each printed page; this chunk uses one continuous sequence. Notes [^1]–[^7] are the seven footers of p.727; notes [^8]–[^13] are the six footers of p.728. (The footers of p.726 all anchor in the preceding chunk's body — a. 2 q. 3 — and are carried there.)
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' note (**La.**) followed by an English rendering (**En.**). Footnote numbering restarts on each printed page; this chunk uses one continuous sequence. Notes 1–7 are the seven footers of p.727; notes 8–13 are the six footers of p.728. (The footers of p.726 all anchor in the preceding chunk's body — a. 2 q. 3 — and are carried there.)
 
 [^1]: **La.** Hic in lit. Magistri, c. 2. — Superius pro *ortus* cod. U *coitus*, cod. X *actus*.
     **En.** Here in the text of the Master, c. 2. — Above, for *ortus* ("birth") codex U [reads] *coitus*, codex X *actus*.

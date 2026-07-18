@@ -119,7 +119,7 @@ bove in the eleventh distinction[^p635-1]. And if it imports *unity of person*; 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the per-page anchors (`[^p633-4]`, etc.) preserve that. On p.633 the page's footnote sequence runs nn.1–9, but nn.1–3 belong to the tail of Article II, q.6 (printed at the top of p.633), so this Dubia chunk's p.633 share begins at n.4. On p.635 the dubia's share is nn.1–3 (the Dub. IV resolution tail); the NOTAE AD LIBR. SENTENTIARUM nn.1–2 that follow on p.635 belong to the d.29 littera, not to this chunk.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the per-page anchors (p633-4, etc.) preserve that. On p.633 the page's footnote sequence runs nn.1–9, but nn.1–3 belong to the tail of Article II, q.6 (printed at the top of p.633), so this Dubia chunk's p.633 share begins at n.4. On p.635 the dubia's share is nn.1–3 (the Dub. IV resolution tail); the NOTAE AD LIBR. SENTENTIARUM nn.1–2 that follow on p.635 belong to the d.29 littera, not to this chunk.
 
 [^p633-4]: **La.** Multi codd. atque edd. *unumquodque.*
      **En.** Many codices and the editions read *unumquodque.*

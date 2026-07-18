@@ -107,7 +107,7 @@ Likewise it is asked about what he says: *The characteristic idioms are determin
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Latin entries reproduce the Quaracchi apparatus verbatim; English translations follow each Latin entry. Notes [^1]–[^8] are reflowed from the page 479 footer (col-A notes 1–5 + col-B notes 6–8); notes [^9]–[^14] and [^16] are reflowed from the page 480 footer (col-A notes 1–2 + col-B notes 3–7); note [^15] is an editorial flag on a printer-band truncation. The 2026-05-08 sweep audit restored DUB V, anchors [^13]/[^14]/[^16] previously dropped, and the [^15] flag.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Latin entries reproduce the Quaracchi apparatus verbatim; English translations follow each Latin entry. Notes 1–8 are reflowed from the page 479 footer (col-A notes 1–5 + col-B notes 6–8); notes 9–14 and 16 are reflowed from the page 480 footer (col-A notes 1–2 + col-B notes 3–7); note 15 is an editorial flag on a printer-band truncation. The 2026-05-08 sweep audit restored DUB V, anchors 13/14/16 previously dropped, and the 15 flag.
 
 [^1]: **La.** Vat. cum uno vel altero cod. *illa*, minus congrue.
 

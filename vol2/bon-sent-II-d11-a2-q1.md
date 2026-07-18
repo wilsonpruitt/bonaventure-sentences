@@ -240,7 +240,7 @@ All these are the effects of the custody of the Angel, for all of which we ought
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the original Quaracchi note in Latin followed by an English translation. Quaracchi restarts footnote numbering on each printed page; here the markers are renumbered continuously across the chunk. Page 282's footnote 1 was retained in the preceding chunk d11-a1-q3 (its body anchor sits in the conclusion of that quaestio); the remaining page-282 footnotes (Quaracchi nn. 2–6) are carried forward here as [^1]–[^5].
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the original Quaracchi note in Latin followed by an English translation. Quaracchi restarts footnote numbering on each printed page; here the markers are renumbered continuously across the chunk. Page 282's footnote 1 was retained in the preceding chunk d11-a1-q3 (its body anchor sits in the conclusion of that quaestio); the remaining page-282 footnotes (Quaracchi nn. 2–6) are carried forward here as 1–5.
 
 [^1]: **La.** Cod. 1 *Angelo custodi amplificetur gaudium,* sicut etiam infra in principio quaest. secundae ponitur.
     **En.** Codex 1 reads *let joy be increased for the guardian Angel,* as is also set forth below at the beginning of the second question.

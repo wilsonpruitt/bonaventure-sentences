@@ -82,7 +82,7 @@ Now the Father and the Son are one principle not only of creatures, as has been 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi critical apparatus (NOTAE AD LIBR. SENTENTIARUM, reflowed from the two-column footnote bands on printed pp. 506–507) in Latin, followed by an English rendering. Notes [^1]–[^11] are from the page-bottom band of p. 506; [^12]–[^17] are from p. 507.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi critical apparatus (NOTAE AD LIBR. SENTENTIARUM, reflowed from the two-column footnote bands on printed pp. 506–507) in Latin, followed by an English rendering. Notes 1–11 are from the page-bottom band of p. 506; 12–17 are from p. 507.
 
 [^1]: **La.** Cap. 20. n. 29. Verba: *ipse est a nullo* etc. sunt ex n. 28.
 

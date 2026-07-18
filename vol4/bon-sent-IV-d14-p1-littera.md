@@ -109,7 +109,7 @@ By these and many other testimonies it is evidently shown that through penance w
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the markers `[^1]–[^4]` belong to printed page 314 (the *NOTAE AD LIBR. SENTENTIARUM* block), `[^5]–[^11]` to page 315, `[^12]–[^19]` to page 316, and `[^20]–[^23]` to the littera portion of page 317 (above the COMMENTARIUS).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the markers 1–4 belong to printed page 314 (the *NOTAE AD LIBR. SENTENTIARUM* block), 5–11 to page 315, 12–19 to page 316, and 20–23 to the littera portion of page 317 (above the COMMENTARIUS).
 
 [^1]: **La.** Epist. 130, ad Demetriadem (alias 8.) n. 9; cfr. quoad haec et alia, quae sequuntur, Hugo a S. Vict., Sum. Sent. tr. 6. c. 10. Inferius respicitur Eph. 4, 22. 24.
      **En.** *Letter* 130, to Demetrias (otherwise 8), n. 9; cf., concerning these and the other things that follow, Hugh of St. Victor, *Summa Sententiarum,* tr. 6, c. 10. Just below, Eph. 4:22, 24 is referred to.

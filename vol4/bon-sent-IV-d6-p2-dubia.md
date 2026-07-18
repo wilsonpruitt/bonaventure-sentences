@@ -149,7 +149,7 @@ exorcism for that which regards the affection, because it is for expelling the s
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; here the notes are renumbered continuously [^1]–[^24].
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; here the notes are renumbered continuously 1–24.
 
 [^1]: **La.** Vers. 16. — Subinde respicitur parabola de decem virginibus, Matth. 25, 1 seqq. — De ultima propos. cfr. Dionys., de Eccles. Hierarch. c. 2, p. III, § 8, et Gennad., de Eccles. dogmat. c. 22 et 41.
     **En.** Verse 16. — Thereupon the parable of the ten virgins is referred to, Matt. 25:1ff. — On the last proposition cf. Dionysius, *On the Ecclesiastical Hierarchy* c. 2, p. III, § 8, and Gennadius, *On Ecclesiastical Dogmas* c. 22 and 41.

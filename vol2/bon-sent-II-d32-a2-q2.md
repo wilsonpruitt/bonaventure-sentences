@@ -135,7 +135,7 @@ But that concupiscence by reason of excess states a *privation*, although it may
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. [^1]–[^7] are p.767 footers 1–7; [^8]–[^15] are p.768 footers 1–8; [^16] is the p.769 footer 1 (the *obiecta* reference to the article scholion held in a2-q1).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. 1–7 are p.767 footers 1–7; 8–15 are p.768 footers 1–8; 16 is the p.769 footer 1 (the *obiecta* reference to the article scholion held in a2-q1).
 
 [^1]: **La.** Vers. 6. — Glossa est interlinearis et habetur apud Lyranum.
     **En.** Verse 6. — The Gloss is interlinear and is found in Lyranus.

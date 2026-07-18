@@ -141,7 +141,7 @@ From the things which have been said, four reasons can be drawn, why the Lord di
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; entries [^1]–[^8] belong to printed page 440, [^9]–[^12] to printed page 441.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; entries 1–8 belong to printed page 440, 9–12 to printed page 441.
 
 [^1]: **La.** Vide supra d. 13. p. II. a. 2. q. 3. — Pro *pudoris* codd. F G *timoris*.
      **En.** See above, d. 13, p. II, a. 2, q. 3. — For *pudoris* ("of shame") codices F G [read] *timoris* ("of fear").

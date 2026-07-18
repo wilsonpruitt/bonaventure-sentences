@@ -113,7 +113,7 @@ And from this is clear that which is asked last, namely when the bond is dissolv
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries two per-page series (p.683 notes 1–10, p.684 notes 1–2), renumbered consecutively [^1]–[^12] for this file. (Printed p.684 footer notes 3–7 belong to the following DUBIA CIRCA LITTERAM MAGISTRI, and are not claimed here.)
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries two per-page series (p.683 notes 1–10, p.684 notes 1–2), renumbered consecutively 1–12 for this file. (Printed p.684 footer notes 3–7 belong to the following DUBIA CIRCA LITTERAM MAGISTRI, and are not claimed here.)
 
 [^1]: **La.** Per Gregor. IX. in C. *Si inter virum* (31.), X. de Sponsalibus et matrim. (lib. IV. tit. 1.).
 

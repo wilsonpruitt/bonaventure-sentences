@@ -136,7 +136,7 @@ But to that which is asked last, by which gift of grace we may become adoptive s
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers here carry a page suffix (e.g. `[^p236-1]`) to keep the printed pages distinct. The scholion carries no footnote markers; page 237's footer notes 4 and following belong to the following question (d.10 a.2 q.3).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers here carry a page suffix (e.g. p236-1) to keep the printed pages distinct. The scholion carries no footnote markers; page 237's footer notes 4 and following belong to the following question (d.10 a.2 q.3).
 
 [^p235-1]: **La.** Vers. 12.
     **En.** Verse 12.

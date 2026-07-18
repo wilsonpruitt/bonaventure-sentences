@@ -167,7 +167,7 @@ On this (first) question: Scot., III. Sent. d. 32. n. 6. — S. Thom., here a. 2
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk spans pp. 621–624. Markers `[^1]`–`[^6]` are p. 621; `[^7]`–`[^15]` are p. 622; `[^1]`–`[^10]` (second sequence) are p. 623; `[^16]` is p. 624 n. 1.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk spans pp. 621–624. Markers 1–6 are p. 621; 7–15 are p. 622; 1–10 (second sequence) are p. 623; 16 is p. 624 n. 1.
 
 [^1]: **La.** Vers. 25: *Diligis enim omnia quae sunt, et nihil etc.* — In conclus. respicitur illud I. Ioan. 4, 8: *Qui non diligit non novit Deum, quoniam Deus caritas est.* (P. 621, n. 1.)
 

@@ -105,7 +105,7 @@ But if it is asked whether one ought to communicate daily, hear what Augustine[^
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the markers `[^1]–[^5]` belong to printed page 267 (the *NOTAE AD LIBR. SENTENTIARUM* block, the Lombard littera's own notes), `[^6]–[^12]` to printed page 268, and `[^13]–[^18]` to printed page 269.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the markers 1–5 belong to printed page 267 (the *NOTAE AD LIBR. SENTENTIARUM* block, the Lombard littera's own notes), 6–12 to printed page 268, and 13–18 to printed page 269.
 
 [^1]: **La.** Cap. 1. excerptum est ex Hugone, Sum. Sent. tr. 6. c. 4, et seq. capitulum ex c. 8.
      **En.** Chap. 1 is excerpted from Hugh, *Summa Sententiarum,* tr. 6, c. 4, and the following chapter from c. 8.

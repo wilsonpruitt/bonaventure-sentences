@@ -137,7 +137,7 @@ Concerning this 1st question, besides those cited: Alexander of Hales, p. IV, q.
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They are the Quaracchi editors' notes to Bonaventure's text. Quaracchi restarts footnote numbering at 1 on each printed page (p.136 notes 2–5, p.137 notes 1–10, p.138 notes 1–5); for legibility this chunk renders them as a single running sequence [^1]–[^19]. Notes [^1]–[^4] (p.136 notes 2–5) were forwarded from the `d6-divisio` hand-off (p.136 note 1, *Dist. praeced.*, belongs to the divisio's *Tractatio* marker and is not repeated here).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They are the Quaracchi editors' notes to Bonaventure's text. Quaracchi restarts footnote numbering at 1 on each printed page (p.136 notes 2–5, p.137 notes 1–10, p.138 notes 1–5); for legibility this chunk renders them as a single running sequence 1–19. Notes 1–4 (p.136 notes 2–5) were forwarded from the `d6-divisio` hand-off (p.136 note 1, *Dist. praeced.*, belongs to the divisio's *Tractatio* marker and is not repeated here).
 
 [^1]: **La.** Secundum Aristot., II. Ethic. c. 5.
 

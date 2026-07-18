@@ -87,7 +87,7 @@ But as to what is asked last, whether they are bound to the saying of the canoni
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries two per-page series (p.612 notes 10–11, p.613 notes 1–8), renumbered consecutively [^1]–[^10] for this file.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries two per-page series (p.612 notes 10–11, p.613 notes 1–8), renumbered consecutively 1–10 for this file.
 
 [^1]: **La.** Vers. 13. Vulgata omittit *hi* et *ea*. Codd. *participantur*; plures codd. *altario*.
 

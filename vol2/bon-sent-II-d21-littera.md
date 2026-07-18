@@ -110,7 +110,7 @@ He, in order to support his persuasion more fully — that is, in order freely t
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives **La.** = the Latin apparatus as printed in Quaracchi, followed by **En.** = a literal English rendering. Quaracchi numbers the apparatus per printed page; here the entries from pp. 489 (NOTAE AD LIBR. SENTENTIARUM, footers 1–2) and 490 (footers 1–6) are renumbered continuously as [^1]–[^8].
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives **La.** = the Latin apparatus as printed in Quaracchi, followed by **En.** = a literal English rendering. Quaracchi numbers the apparatus per printed page; here the entries from pp. 489 (NOTAE AD LIBR. SENTENTIARUM, footers 1–2) and 490 (footers 1–6) are renumbered continuously as 1–8.
 
 [^1]: **La.** Hugo, *Sum. Sent.* tr. 3. c. 4. Ex hoc capitulo nec non ex seq. atque ex eiusdem libro I. *de Sacram.* p. VII. c. 4, 6, 9, 3, Magister sumsit quae sequuntur usque ad finem dist.
 

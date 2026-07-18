@@ -104,7 +104,7 @@ But the name and property of *plank* belongs to penance as a Sacrament. — To u
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries two per-page series (p.584 notes 1–8, p.585 notes 1–5), renumbered consecutively [^1]–[^13] for this file.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries two per-page series (p.584 notes 1–8, p.585 notes 1–5), renumbered consecutively 1–13 for this file.
 
 [^1]: **La.** Supra d. XIV. c. 4. — Plures codd. *Hieronymo*.
 

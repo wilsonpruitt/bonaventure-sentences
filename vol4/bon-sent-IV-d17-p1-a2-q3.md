@@ -98,7 +98,7 @@ To that, then, which is asked, whether attrition becomes contrition; it must be 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers [^6]–[^13] belong to page 429, [^1]–[^5] to page 430.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers 6–13 belong to page 429, 1–5 to page 430.
 
 [^6]: **La.** Cfr. supra pag. 327, nota 2.
      **En.** Cf. above, p. 327, note 2.

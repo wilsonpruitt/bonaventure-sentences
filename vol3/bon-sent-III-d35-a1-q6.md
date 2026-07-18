@@ -123,7 +123,7 @@ And according to these three [things] three problems could be formed concerning 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk spans pp.785–786. p.785 nn.1–11 → [^1]–[^11]; p.786 nn.1–8 → [^12]–[^19].
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk spans pp.785–786. p.785 nn.1–11 → 1–11; p.786 nn.1–8 → 12–19.
 
 [^1]: **La.** Vers. 12. Vulgata post *impietatem* addit *et saecularia desideria.* — In Glossa, quae a Lyrano ut interlinearis exhibetur, apud Petr. Lombard. post *vanae culturae* additum est *et ignorantiam et desideria saecularium, quae a mundi huius principe suggeruntur.* Cfr. Bernard., Serm. 54. de Divers.
     **En.** Verse 12. The Vulgate after *impietatem* adds *et saecularia desideria* (and worldly desires). — In the Gloss, which is presented by Lyra as interlinear, in Peter Lombard after *vanae culturae* there is added *et ignorantiam et desideria saecularium, quae a mundi huius principe suggeruntur* (and ignorance and the desires of worldly things, which are suggested by the prince of this world). Cf. Bernard, Sermon 54 on Diverse [Subjects].

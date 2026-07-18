@@ -118,7 +118,7 @@ It is also wont to be asked whether they had any love of God or of one another. 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–20 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 86–88). On printed p.86 this littera's notes are the dedicated `NOTAE AD LIBR. SENTENTIARUM` block; the two main-stream notes printed above that block on the same p.86 footer (*Super Gen. 1. …*; *Dist. 14. …*) anchor the preceding chunk and are already its apparatus (`bon-sent-II-d2-p2-dubia` [^15]/[^16]) — see Notes.
+> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–20 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 86–88). On printed p.86 this littera's notes are the dedicated `NOTAE AD LIBR. SENTENTIARUM` block; the two main-stream notes printed above that block on the same p.86 footer (*Super Gen. 1. …*; *Dist. 14. …*) anchor the preceding chunk and are already its apparatus (`bon-sent-II-d2-p2-dubia` 15/16) — see Notes.
 
 [^1]: **La.** Haec et fere totam distinctionem Magister accepit ex Hugone, I. de Sacram. p. 5. c. 6. seqq., et Sent. tr. 2. c. 3. seqq. — Paulo inferius codd. B C D E *propter rationem* loco *per rationem.*
 

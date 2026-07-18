@@ -111,7 +111,7 @@ In a third way it can be said that the sanctifying grace in the soul is one, bec
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk renumbers them sequentially. Footnotes [^1]–[^10] are anchored on p.170; [^11]–[^12] on p.171.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk renumbers them sequentially. Footnotes 1–10 are anchored on p.170; 11–12 on p.171.
 
 [^1]: **La.** Ut dictum est supra d. 6. p. 1. q. 1. — Cod. F *et alius effectus: ergo alia gratia.*
     **En.** As was said above, d. 6, p. 1, q. 1. — Codex F reads *and a different effect: therefore a different grace.*

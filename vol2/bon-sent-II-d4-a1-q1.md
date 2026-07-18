@@ -125,7 +125,7 @@ And therefore it must be said otherwise, that blessedness can be spoken of in tw
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–19 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 131–132): printed p.131 footer notes 1–11 → [^1]–[^11]; printed p.132 footer notes 1–8 → [^12]–[^19]. p.132's footer note 9 (`Cap. 9. n. 2`) anchors the following `bon-sent-II-d4-a1-q2` (its QUAESTIO II opening on p.132) — see Notes.
+> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–19 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 131–132): printed p.131 footer notes 1–11 → 1–11; printed p.132 footer notes 1–8 → 12–19. p.132's footer note 9 (`Cap. 9. n. 2`) anchors the following `bon-sent-II-d4-a1-q2` (its QUAESTIO II opening on p.132) — see Notes.
 
 [^1]: **La.** Vers. 12.
 

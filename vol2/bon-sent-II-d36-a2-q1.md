@@ -177,7 +177,7 @@ And from this it is clear how sin encloses in itself punishment, and how sin can
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. [^1]–[^2] are p.847 footers 5–6 (received from d36-a1-q2); [^3]–[^11] are p.848 footers 1–9; [^12]–[^17] are p.849 footers 1–6.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. 1–2 are p.847 footers 5–6 (received from d36-a1-q2); 3–11 are p.848 footers 1–9; 12–17 are p.849 footers 1–6.
 
 [^1]: **La.** Codd. K X Y bb cc et ed. 1 *poenae ad culpam.*
     **En.** Codd. K X Y bb cc and ed. 1 [read] *poenae ad culpam* ("of punishment to guilt").

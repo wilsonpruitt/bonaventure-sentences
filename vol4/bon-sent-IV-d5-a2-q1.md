@@ -126,7 +126,7 @@ To that which is objected concerning the simoniac, some say that *first*[^13] on
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk's q1 fundamenta carry the two p.124 footer notes that anchor in this article (notes **9–10**, rendered [^1]–[^2]) — picked up from the a1-q2 hand-off — then the full p.125 footer series (notes **1–13**, rendered [^3]–[^15]). The Article-II scholion carries no footnote markers.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk's q1 fundamenta carry the two p.124 footer notes that anchor in this article (notes **9–10**, rendered 1–2) — picked up from the a1-q2 hand-off — then the full p.125 footer series (notes **1–13**, rendered 3–15). The Article-II scholion carries no footnote markers.
 
 [^1]: **La.** Hic c. 1. — Seq. auctoritas est August., In Ioan. Evang. tr. 5. n. 18.
      **En.** Here, c. 1 [of the Master's text]. — The following authority is Augustine, *Tractates on the Gospel of John,* tr. 5, n. 18.

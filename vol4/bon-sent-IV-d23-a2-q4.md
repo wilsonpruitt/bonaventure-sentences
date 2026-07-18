@@ -101,7 +101,7 @@ To that which is asked concerning prolonged infirmities, some have wished to say
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries printed page 600's notes 7–12 (rendered [^1]–[^6]) and printed page 601's notes 1–8 (rendered [^7]–[^14]).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries printed page 600's notes 7–12 (rendered 1–6) and printed page 601's notes 1–8 (rendered 7–14).
 
 [^1]: **La.** Secundum August., hic in lit. Magistri, c. 4. et supra pag. 293, nota 1.
      **En.** According to Augustine, here in the text of the Master, c. 4, and above p. 293, note 1.

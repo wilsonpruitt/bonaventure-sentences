@@ -144,7 +144,7 @@ And that its use ought not to be general, it seems:
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; all entries [^1]–[^10] are anchored on p.172.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; all entries 1–10 are anchored on p.172.
 
 [^1]: **La.** Vide scholion ad 1. huius articuli quaest.
      **En.** See the scholion on the 1st question of this article.

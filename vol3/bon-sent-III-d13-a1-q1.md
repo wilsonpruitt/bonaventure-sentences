@@ -138,7 +138,7 @@ But two things are altogether established, namely *first*, that the soul of Chri
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are page-suffixed (`[^p276-N]`, `[^p277-N]`).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are page-suffixed (p276-N, p277-N).
 
 [^p276-2]: **La.** Cfr. 1. Sent. d. 17. p. I. q. I, et II. d. 26. q. 2, ubi pluribus verbis ostenditur, gratiam in anima esse quid creatum; quo dogmate nititur solutio quaestionis, de qua hic agitur. — Pro *detur* edd. *datur*.
 

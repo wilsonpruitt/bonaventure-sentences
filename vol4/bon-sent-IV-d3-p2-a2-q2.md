@@ -95,7 +95,7 @@ Second it is asked, how much the infant ought to be immersed in order that there
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; here the p.81 footer series carries its own numbers (`[^7]`–`[^10]`; notes 1–6 of p.81 belong to the preceding a2-q1), and markers labeled *bis* belong to p.82's footer series (`[^1bis]`–`[^6bis]`), kept unique within the file.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; here the p.81 footer series carries its own numbers (7–10; notes 1–6 of p.81 belong to the preceding a2-q1), and markers labeled *bis* belong to p.82's footer series (1bis–6bis), kept unique within the file.
 
 [^7]: **La.** Scil. Christi. Cfr. quaest. praeced. — Superius pro *baptismus* edd. cum aliquot codd. *baptizatus*.
     **En.** Namely [the passion and death] of Christ. Cf. the preceding question. — Above, for *baptismus* the editions with several codices read *baptizatus*.

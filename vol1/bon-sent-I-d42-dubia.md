@@ -29,7 +29,7 @@ format_version: 1
 
 ### DUBIA CIRCA LITTERAM MAGISTRI.
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation that follows. Each note is given first in Latin (`**La.**`), then in literal English (`**En.**`). Quaracchi numbers its footnotes per printed page; this chunk renumbers them sequentially [^1]–[^17] across the three printed pages (759, 760, 761). The earlier notes on p. 759 (Quaracchi notes 1–3) anchor in the q. 4 scholion of `bon-sent-I-d42-a1-q4.md`, not here; only Quaracchi note 4 on p. 759 (the Psalm reference) belongs to this chunk.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation that follows. Each note is given first in Latin (`**La.**`), then in literal English (`**En.**`). Quaracchi numbers its footnotes per printed page; this chunk renumbers them sequentially 1–17 across the three printed pages (759, 760, 761). The earlier notes on p. 759 (Quaracchi notes 1–3) anchor in the q. 4 scholion of `bon-sent-I-d42-a1-q4.md`, not here; only Quaracchi note 4 on p. 759 (the Psalm reference) belongs to this chunk.
 
 #### DUB. I.
 

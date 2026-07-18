@@ -96,7 +96,7 @@ Thirdly, whether foreknowledge concerning future things.
 
 ## Apparatus
 
-> The numbered footnote below corresponds to a marker in both the Latin body and the English translation. It is preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, p. 189). This Commentarius/Divisio/Tractatio opens fresh on p.189 (the preceding chunk `bon-sent-II-d7-p1-a2-q3` closed Pars I at the foot of p.188, owning all of p.188's footer); this chunk takes only p.189 footer note ¹ → [^1]. p.189 footer note ² (Rom. 1, v. 28) and following anchor the next chunk's QUAESTIO I and are not reproduced here — see Notes.
+> The numbered footnote below corresponds to a marker in both the Latin body and the English translation. It is preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, p. 189). This Commentarius/Divisio/Tractatio opens fresh on p.189 (the preceding chunk `bon-sent-II-d7-p1-a2-q3` closed Pars I at the foot of p.188, owning all of p.188's footer); this chunk takes only p.189 footer note ¹ → 1. p.189 footer note ² (Rom. 1, v. 28) and following anchor the next chunk's QUAESTIO I and are not reproduced here — see Notes.
 
 [^1]: **La.** Scilicet infra d. 8, ut Vat. ponit.
 

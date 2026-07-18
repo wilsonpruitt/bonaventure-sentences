@@ -73,7 +73,7 @@ But to that which is objected concerning temporal change, it must be said that, 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the original Quaracchi note in Latin followed by an English translation. Quaracchi restarts footnote numbering on each printed page; here the markers are renumbered continuously across the two printed pages of this chunk. Page 289's footnotes nn. 1–2 anchor in the preceding chunk d11-a2-q3; nn. 3–7 anchor here as [^1]–[^5]. Page 290's footnotes nn. 2–3 (Bonaventure body) anchor here as [^6]–[^7]; p.290 n.1 anchors in the following chunk d12-littera, and the NOTAE AD LIBR. SENTENTIARUM footnotes belong to d12-littera as well.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the original Quaracchi note in Latin followed by an English translation. Quaracchi restarts footnote numbering on each printed page; here the markers are renumbered continuously across the two printed pages of this chunk. Page 289's footnotes nn. 1–2 anchor in the preceding chunk d11-a2-q3; nn. 3–7 anchor here as 1–5. Page 290's footnotes nn. 2–3 (Bonaventure body) anchor here as 6–7; p.290 n.1 anchors in the following chunk d12-littera, and the NOTAE AD LIBR. SENTENTIARUM footnotes belong to d12-littera as well.
 
 [^1]: **La.** Antiquiores codd. *capabilis.*
     **En.** The older codices read *capabilis.*

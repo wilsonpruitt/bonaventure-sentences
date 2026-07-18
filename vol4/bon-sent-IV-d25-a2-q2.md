@@ -142,7 +142,7 @@ And therefore there is another opinion of the greater [masters], that for someth
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries three per-page series (p.651 notes 2–7, p.652 notes 1–10, p.653 notes 1–2), renumbered consecutively [^1]–[^18] for this file. See the Notes for the per-page split and the shared-page hand-offs to a2-q1 (p.651 note 1) and q3 (p.653 notes 3+).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries three per-page series (p.651 notes 2–7, p.652 notes 1–10, p.653 notes 1–2), renumbered consecutively 1–18 for this file. See the Notes for the per-page split and the shared-page hand-offs to a2-q1 (p.651 note 1) and q3 (p.653 notes 3+).
 
 [^1]: **La.** Lit. Magistri, d. XXXIV. c. 4, et Comment. a. 3. q. I.
 

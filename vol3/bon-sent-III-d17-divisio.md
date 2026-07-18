@@ -82,7 +82,7 @@ Third it is asked concerning the concord or controversy of those wills.
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each renders the Quaracchi critical apparatus entry verbatim (**La.**) with a literal English translation (**En.**). Markers `[^p363-2]` and `[^p363-3]` are notes 2–3 of the p.363 *Notae ad Librum Sententiarum* footer (note 1 belongs to the preceding *littera*); `[^p363-c1]` is note 1 of the p.363 *Notae ad Commentarium* footer.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each renders the Quaracchi critical apparatus entry verbatim (**La.**) with a literal English translation (**En.**). Markers p363-2 and p363-3 are notes 2–3 of the p.363 *Notae ad Librum Sententiarum* footer (note 1 belongs to the preceding *littera*); p363-c1 is note 1 of the p.363 *Notae ad Commentarium* footer.
 
 [^p363-c1]: **La.** Codd. Z bb (K a secunda manu) et edd. 1, 2 adiungunt dist. 18. Paulo inferius pro *simul,* quod edd. omittunt, cod. A similiter.
     **En.** Codices Z, bb (K by a second hand) and editions 1, 2 add "dist. 18." A little below, for *simul* ("at the same time"), which the editions omit, codex A likewise [omits].

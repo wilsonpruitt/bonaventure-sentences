@@ -88,7 +88,7 @@ these being known, let him be present benevolent, ready to raise up and to bear 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the markers `[^1]–[^4]` belong to printed page 497 (the *NOTAE AD LIBR. SENTENTIARUM* block, the Lombard littera's own notes), `[^5]–[^11]` to printed page 498, and `[^12]` to printed page 499.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the markers 1–4 belong to printed page 497 (the *NOTAE AD LIBR. SENTENTIARUM* block, the Lombard littera's own notes), 5–11 to printed page 498, and 12 to printed page 499.
 
 [^1]: **La.** Codd. B D et ed. 1 *debet sacerdos* pro *debent;* deinde pro *qui* cod. E et plures edd. *quia.* Inferius pro *discretionis dicitur* cod. E et edd., excepta 1, *discretionis recte dicitur.*
      **En.** Codd. B D and ed. 1 have *debet sacerdos* for *debent;* then for *qui* cod. E and several editions have *quia.* Below, for *discretionis dicitur* cod. E and the editions, except 1, have *discretionis recte dicitur.*

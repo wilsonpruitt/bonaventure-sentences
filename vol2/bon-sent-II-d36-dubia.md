@@ -121,7 +121,7 @@ But more could be asked concerning this matter, but elsewhere they have place mo
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Latin of Quaracchi's apparatus (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; these entries combine two forwarded p.856 footers (footers 11 and 4 → [^1]–[^2], anchoring in Dub. I's *Sed contra*, the rest of p.856 belonging to the prior chunk a3-q2), the full p.857 footer block (footers 1–10 → [^3]–[^11]), the full p.858 footer block (footers 1–9 → [^12]–[^19]), and p.859 footer 1 → [^20] (Dub. V's closing note).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Latin of Quaracchi's apparatus (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; these entries combine two forwarded p.856 footers (footers 11 and 4 → 1–2, anchoring in Dub. I's *Sed contra*, the rest of p.856 belonging to the prior chunk a3-q2), the full p.857 footer block (footers 1–10 → 3–11), the full p.858 footer block (footers 1–9 → 12–19), and p.859 footer 1 → 20 (Dub. V's closing note).
 
 [^1]: **La.** Vide supra pag. 592, nota 3. — Subinde post *talis autem est* cod. V subiicit *sola.*
     **En.** See above, p. 592, note 3. — Soon after, following *talis autem est* codex V subjoins *sola.*

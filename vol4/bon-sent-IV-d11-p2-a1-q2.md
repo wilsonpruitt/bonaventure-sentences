@@ -120,7 +120,7 @@ The ground, then, of the integrity is the signification of Christ perfectly refr
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk gathers page 256's notes 1–8 and page 257's notes 1–6 (renumbered here [^1]–[^14] in body order).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk gathers page 256's notes 1–8 and page 257's notes 1–6 (renumbered here 1–14 in body order).
 
 [^1]: **La.** Vide Matth. 26, 26. seqq. — Superius voci *Sacramenti* codd. R S bb praemittunt *huius.*
      **En.** See Matthew 26:26 ff. — Above, to the word *Sacramenti* codices R S bb prefix *huius.*

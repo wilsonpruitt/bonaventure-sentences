@@ -103,7 +103,7 @@ Whence also he is called *mediator* according to his *humanity*, not according t
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi note first in Latin (**La.**), then in English (**En.**). Quaracchi restarts footnote numbering on each printed page; slugs encode the page (`[^pNNN-K]`).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi note first in Latin (**La.**), then in English (**En.**). Quaracchi restarts footnote numbering on each printed page; slugs encode the page (pNNN-K).
 
 [^p396-1]: **La.** Rom. 3, 24. 25. Seq. locus est Rom. 5, 8. 9. Tamen hi loci Scripturae sicut et seqq. aliquatenus contracti sunt, vel a Vulgata differunt.
     **En.** Rom. 3, 24. 25. The following passage is Rom. 5, 8. 9. Yet these passages of Scripture, like those following, are somewhat abridged, or differ from the Vulgate.

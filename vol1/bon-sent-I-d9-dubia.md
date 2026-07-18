@@ -281,7 +281,7 @@ Likewise there is a question about what he says: *But to alter himself by being 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry is given first in Latin (**La.**), then in literal English (**En.**). Numbering is sequential `[^1]`–`[^66]` across all six pages of the apparatus block (p. 187–p. 191; p. 192 has no apparatus footer in the dubia).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry is given first in Latin (**La.**), then in literal English (**En.**). Numbering is sequential 1–66 across all six pages of the apparatus block (p. 187–p. 191; p. 192 has no apparatus footer in the dubia).
 
 [^1]: **La.** Ita vetustiores mss. et ed. 1, dum Vat. cum cod. cc *ipse est Filius et purus*. Paulo ante unus alterve cod. ut PQ cum ed. 1 *sua* loco *sui*.
 

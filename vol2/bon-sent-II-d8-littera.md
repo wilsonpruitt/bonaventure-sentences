@@ -87,7 +87,7 @@ That also seems most worthy of consideration, whether demons — whether they be
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' note in Latin (**La.**) followed by an English rendering (**En.**). Footnote numbering restarts on each printed page in the Quaracchi edition; here the per-page sequences are renumbered continuously: p.207 `NOTAE AD LIBR. SENTENTIARUM` ¹–² → [^1]–[^2]; p.208 footer ¹–⁹ → [^3]–[^11]; p.209 footer ¹–⁴ → [^12]–[^15].
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' note in Latin (**La.**) followed by an English rendering (**En.**). Footnote numbering restarts on each printed page in the Quaracchi edition; here the per-page sequences are renumbered continuously: p.207 `NOTAE AD LIBR. SENTENTIARUM` ¹–² → 1–2; p.208 footer ¹–⁹ → 3–11; p.209 footer ¹–⁴ → 12–15.
 
 [^1]: **La.** Retract. I. c. 26. Cfr. Sermo 277. c. 8. n. 8, et praecipue Fulgent., *de Trin.* c. 9. — Paulo ante pro *doctos* codd. C E *doctores*. Paulo inferius pro *conservata*, quod ex codd. A C et edd. 1, 8 restituimus, Vat. cum aliquibus codd. et edd. *observata*.
 

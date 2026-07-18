@@ -151,7 +151,7 @@ In the substance of this doctrine, besides Peter of Tarentaise and Richard of Me
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts the footnote numbering on each printed page; the markers below run continuously [^1]–[^20], with the true per-page Quaracchi number given in the trailing `(P. NNN, n. N.)` tag — p.575 (nn.3, 5–8), p.576 (nn.1, 2, 4–6), p.577 (nn.1–10). This quaestio shares printed p.575 with q3, which owns that page's nn.1, 2, and 4.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts the footnote numbering on each printed page; the markers below run continuously 1–20, with the true per-page Quaracchi number given in the trailing `(P. NNN, n. N.)` tag — p.575 (nn.3, 5–8), p.576 (nn.1, 2, 4–6), p.577 (nn.1–10). This quaestio shares printed p.575 with q3, which owns that page's nn.1, 2, and 4.
 
 [^1]: **La.** Cfr. supra pag. 470, nota 3. — Quod spes sit virtus, ostensum est supra a. 1. q. 1. *(P. 575, n. 5.)*
 

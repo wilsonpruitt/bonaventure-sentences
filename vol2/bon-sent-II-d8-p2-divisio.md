@@ -94,7 +94,7 @@ Sixthly, whether they can scrutinize the secrets of our conscience.
 
 ## Apparatus
 
-> The numbered footnote below corresponds to markers in both the Latin body and the English translation. It is preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, p. 224). The cross-chunk boundary with the preceding `bon-sent-II-d8-p1-dubia` (session 57) is a clean split on p.224: that dubia chunk captured p.224 footer ¹–⁴ for DUB I–III (Augustine *de Vid. Deo* anchor, Aristotle *de Sensu* c. 3, *Vat. mutabilia* variant, Hilary *de Trin.* VII n. 11). p.224 footer ⁵ — the Vatican variant on the *Magister determinat veritatem, in secunda confirmat per* clause — is taken here as [^1]. Notes ⁶ (Gospel-citation *Matth. 8, 16* etc.) and ⁷ (*Cap. 5. n. 9.* for Augustine *de Divinatione daemonum*) anchor into the following `bon-sent-II-d8-p2-a1-q1` and belong to that chunk.
+> The numbered footnote below corresponds to markers in both the Latin body and the English translation. It is preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, p. 224). The cross-chunk boundary with the preceding `bon-sent-II-d8-p1-dubia` (session 57) is a clean split on p.224: that dubia chunk captured p.224 footer ¹–⁴ for DUB I–III (Augustine *de Vid. Deo* anchor, Aristotle *de Sensu* c. 3, *Vat. mutabilia* variant, Hilary *de Trin.* VII n. 11). p.224 footer ⁵ — the Vatican variant on the *Magister determinat veritatem, in secunda confirmat per* clause — is taken here as 1. Notes ⁶ (Gospel-citation *Matth. 8, 16* etc.) and ⁷ (*Cap. 5. n. 9.* for Augustine *de Divinatione daemonum*) anchor into the following `bon-sent-II-d8-p2-a1-q1` and belong to that chunk.
 
 [^1]: **La.** Vat. *Magister quaerit. In secunda determinat per* etc.
 

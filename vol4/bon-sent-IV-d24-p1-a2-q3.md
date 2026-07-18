@@ -105,7 +105,7 @@ of the truth, and the one is said to be in the other, as *a wheel within a wheel
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' note (**La.**) followed by an English rendering (**En.**). Footnote numbering restarts on each printed page; this quaestio spans printed pp. 617–618, so its markers draw from two per-page footer sequences — p. 617 footer notes 3–11 and p. 618 footer notes 1–6 — here renumbered continuously [^1]–[^15]. (p. 617 footer notes 1–2 belong to the preceding question a2-q2; p. 618 footer notes 7–12 belong to the following question a2-q4; see the Notes below.)
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' note (**La.**) followed by an English rendering (**En.**). Footnote numbering restarts on each printed page; this quaestio spans printed pp. 617–618, so its markers draw from two per-page footer sequences — p. 617 footer notes 3–11 and p. 618 footer notes 1–6 — here renumbered continuously 1–15. (p. 617 footer notes 1–2 belong to the preceding question a2-q2; p. 618 footer notes 7–12 belong to the following question a2-q4; see the Notes below.)
 
 [^1]: **La.** Psalm. 109, 4. — Hebr. 7, 11. 17. 21.
     **En.** Psalm 109[:4]. — Hebrews 7:11, 17, 21.

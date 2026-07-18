@@ -141,7 +141,7 @@ The objection concerning consanguinity is not similar: because the priesthood of
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk's markers are renumbered sequentially. **p. 656:** markers [^1]–[^2] = Quaracchi notes 9–10 (notes 1–8 on that page belong to the preceding chunk, a. 2 q. 4). **p. 657:** markers [^3]–[^11] = Quaracchi notes 1–9. **p. 658:** markers [^12]–[^23] = Quaracchi notes 1–12. **p. 659 (DUB. VI *Respondeo* tail, left column):** markers [^24]–[^27] = Quaracchi notes 1–4; the *NOTAE AD LIBR. SENTENTIARUM* footnotes printed below them on p. 659 belong to Dist. XXVI and are NOT claimed here.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk's markers are renumbered sequentially. **p. 656:** markers 1–2 = Quaracchi notes 9–10 (notes 1–8 on that page belong to the preceding chunk, a. 2 q. 4). **p. 657:** markers 3–11 = Quaracchi notes 1–9. **p. 658:** markers 12–23 = Quaracchi notes 1–12. **p. 659 (DUB. VI *Respondeo* tail, left column):** markers 24–27 = Quaracchi notes 1–4; the *NOTAE AD LIBR. SENTENTIARUM* footnotes printed below them on p. 659 belong to Dist. XXVI and are NOT claimed here.
 
 [^1]: **La.** Hic c. 1.
     **En.** Here, c. 1.

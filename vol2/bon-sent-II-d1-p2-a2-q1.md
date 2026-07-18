@@ -138,7 +138,7 @@ Alexander of Hales, *Summa* p. II, q. 1, m. 1–3. — Scotus, *IV Sent.* d. 49,
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They are renumbered 1–13 within this chunk; in the Quaracchi printed text they are notes 4–5 of the page-43 footer (the page-43 footer's left-column notes 1–3 anchor in the preceding chunk a1-q2 and are its [^21]–[^23]), notes 1–10 of the page-44 footer, and note 1 of the page-45 footer (the page-45 footer's notes 2–5 anchor in the following question, a2-q2). See Notes for the page-by-page crosswalk.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They are renumbered 1–13 within this chunk; in the Quaracchi printed text they are notes 4–5 of the page-43 footer (the page-43 footer's left-column notes 1–3 anchor in the preceding chunk a1-q2 and are its 21–23), notes 1–10 of the page-44 footer, and note 1 of the page-45 footer (the page-45 footer's notes 2–5 anchor in the following question, a2-q2). See Notes for the page-by-page crosswalk.
 
 [^1]: **La.** Hic c. 4, ubi etiam idem probatur ex s. Scriptura. — Textus Augustini est I. *de Doctr. christ.* c. 31. seq. n. 34. seq., ubi ostenditur, quod Deus nos diligendo nobis non fruatur, sed utatur: «Quia enim bonus est, sumus, et in quantum sumus, boni sumus... Ille igitur usus, qui dicitur Dei, quo nobis utitur, non ad eius, sed ad nostram utilitatem refertur, ad eius autem tantummodo bonitatem». Cfr. etiam liber *de Diligendo Deo*, c. 2, qui olim Augustino adscribebatur. — Aliquanto superius verbum *proceditur* deest in multis mss.
 

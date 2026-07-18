@@ -108,7 +108,7 @@ I RESPOND: It must be said that God *does not restrain wills* on account of the 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' note in Latin (**La.**) followed by an English rendering (**En.**). Footnote numbering restarts on each printed page in the Quaracchi edition; here the per-page sequences are renumbered continuously: p.206 footer ¹–⁸ → [^1]–[^8]; p.207 footer ¹–⁵ → [^9]–[^13].
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' note in Latin (**La.**) followed by an English rendering (**En.**). Footnote numbering restarts on each printed page in the Quaracchi edition; here the per-page sequences are renumbered continuously: p.206 footer ¹–⁸ → 1–8; p.207 footer ¹–⁵ → 9–13.
 
 [^1]: **La.** Cap. 5.
 

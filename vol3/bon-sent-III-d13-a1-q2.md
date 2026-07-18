@@ -144,7 +144,7 @@ that all its appetite is quieted in that immense good itself and terminated by a
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are page-suffixed (`[^p278-N]`, `[^p279-N]`, `[^p280-N]`).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are page-suffixed (p278-N, p279-N, p280-N).
 
 [^p278-1]: **La.** Vers. 34. — August. in hunc loc. (tr. 14. n. 10.) ait: *Hominibus ad mensuram dat, unico Filio non dat ad mensuram... Christus, qui dat, non ad mensuram accipit.* Cfr. 1. Retract. c. 19. n. 3, et hic lit. Magistri, in principio.
 

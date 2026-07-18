@@ -207,7 +207,7 @@ On the [first] question treat: Alexander of Hales, *Summa* p. II. q. 106. m. 7. 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. [^1]–[^6] are p.787 footers 1–6 (footers 1–5 received from d33-a1-q2, which claimed no p.787 footer); [^7]–[^16] are p.788 footers 1–10; [^17]–[^26] are p.789 footers 1–10; [^27]–[^28] are p.790's q1-share (footer 5 + the *et*-variant note). The remaining p.790 footers belong to QUAESTIO II and are forwarded to d33-a2-q2.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. 1–6 are p.787 footers 1–6 (footers 1–5 received from d33-a1-q2, which claimed no p.787 footer); 7–16 are p.788 footers 1–10; 17–26 are p.789 footers 1–10; 27–28 are p.790's q1-share (footer 5 + the *et*-variant note). The remaining p.790 footers belong to QUAESTIO II and are forwarded to d33-a2-q2.
 
 [^1]: **La.** De divisione quantitatis in continuam et discretam cfr. Aristot., de Praedicam. c. de Quanto.
     **En.** On the division of quantity into continuous and discrete, cfr. Aristotle, *Categories* [*On the Predicaments*], the chapter on Quantity.

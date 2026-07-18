@@ -148,7 +148,7 @@ is appropriated to the Holy Spirit, whose person faith orders in the third place
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi editors' note verbatim; **En.** gives its translation. Quaracchi restarts footnote numbering on each printed page; this chunk spans pp.825–827 (p.825 nn.1–9 → [^1]–[^9]; p.826 nn.1–8 → [^10]–[^17]; p.827 nn.1–3 → [^18]–[^20]; p.827 nn.4–9 belong to the following quaestio, a2-q3).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi editors' note verbatim; **En.** gives its translation. Quaracchi restarts footnote numbering on each printed page; this chunk spans pp.825–827 (p.825 nn.1–9 → 1–9; p.826 nn.1–8 → 10–17; p.827 nn.1–3 → 18–20; p.827 nn.4–9 belong to the following quaestio, a2-q3).
 
 [^1]: **La.** Cfr. supra d. 27. a. 2. q. 4. argg. pro I. parte.
      **En.** Cf. above, d. 27, a. 2, q. 4, the arguments for the first part.

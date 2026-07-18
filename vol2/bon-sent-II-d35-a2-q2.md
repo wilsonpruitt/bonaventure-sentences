@@ -149,7 +149,7 @@ that it is true; but as for what he himself objects, that order is reckoned acco
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. [^1] is p.830 footer 5 (received from d35-a2-q1); [^2]–[^11] are p.831 footers 1–10; [^12] is p.832 footer 1.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. 1 is p.830 footer 5 (received from d35-a2-q1); 2–11 are p.831 footers 1–10; 12 is p.832 footer 1.
 
 [^1]: **La.** Cap. 3. — Paulo inferius pro *maius* edd., excepta 1, cum pluribus codd., inter quos codd. K T, *magis.*
     **En.** Chapter 3. — A little below, for *maius* ("greater") the editions, except the first, with several codices, among them codd. K T, [read] *magis* ("more").

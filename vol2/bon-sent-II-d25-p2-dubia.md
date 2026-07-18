@@ -100,7 +100,7 @@ To that which is asked, whether freedom is spoken of equivocally or univocally; 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi note in Latin (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; here p. 625 footers 1–11 become [^1]–[^11] and p. 626 footers 1–7 become [^12]–[^18].
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi note in Latin (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; here p. 625 footers 1–11 become 1–11 and p. 626 footers 1–7 become 12–18.
 
 [^1]: **La.** Cap. 4. n. 9. Cfr. supra pag. 610, nota 2, ubi et seq. locus, qui ex c. 9. n. 28 sumtus est, integer affertur. Locus tertio citatus sumtus est ex c. 9. n. 30, in quo loco text. orig. post *aequaliter* insertum exhibet *semper*.
     **En.** [Bernard, *On Free Choice*] c. 4, n. 9. Compare above, p. 610, note 2, where also the following passage, which is taken from c. 9, n. 28, is given in full. The passage cited in the third place is taken from c. 9, n. 30, in which place the original text exhibits, inserted after *equally*, the word *always*.

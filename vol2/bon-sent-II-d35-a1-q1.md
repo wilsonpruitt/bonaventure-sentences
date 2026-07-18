@@ -199,7 +199,7 @@ the good of grace and the good of nature. And by reason of that whereby it order
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. [^1] is p.821 footer 3 (received from d35-divisio); [^2]–[^11] are p.822 footers 1–10; [^12]–[^17] are p.823 footers 1–6. The p.824 SCHOLION carries no numbered footers; the p.824 footer block belongs to QUAESTIO II and is forwarded to d35-a1-q2.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. 1 is p.821 footer 3 (received from d35-divisio); 2–11 are p.822 footers 1–10; 12–17 are p.823 footers 1–6. The p.824 SCHOLION carries no numbered footers; the p.824 footer block belongs to QUAESTIO II and is forwarded to d35-a1-q2.
 
 [^1]: **La.** Cap. 11. n. 3. — Testimonium subnexum sicut et illud quod in fine arg. allegatur, habentur ibid. c. 12. n. 4. — In secundo testimonio pro *minui malum* edd. et plures codd. *minus malum*.
     **En.** Chapter 11, n. 3. — The testimony subjoined, as also that which is adduced at the end of the argument, are found in the same place c. 12. n. 4. — In the second testimony, for *minui malum* ("to lessen the good is evil") the editions and several codices [read] *minus malum* ("less evil").

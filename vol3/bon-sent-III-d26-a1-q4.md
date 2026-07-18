@@ -105,7 +105,7 @@ be applied to unformed hope. — The reasons therefore showing that the virtue o
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk spans pp. 563–565. The body reuses low marker numbers (`[^1]`…) for each page's restart — the entries below resolve them in page order with `(P. NNN, n. N.)` tags. **Hand-off picked up from q3:** p.563 footers n.1 (Hebr. 11) + n.2 (Gregor.) were taken by q3; q4 begins at p.563 n.3.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk spans pp. 563–565. The body reuses low marker numbers (1…) for each page's restart — the entries below resolve them in page order with `(P. NNN, n. N.)` tags. **Hand-off picked up from q3:** p.563 footers n.1 (Hebr. 11) + n.2 (Gregor.) were taken by q3; q4 begins at p.563 n.3.
 
 The body markers `[^1]`–`[^4]` resolve to p.563 footers n.3–6 (the q4 opener and arguments at the foot of p.563).
 

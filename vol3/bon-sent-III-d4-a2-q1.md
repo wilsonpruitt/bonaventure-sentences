@@ -156,7 +156,7 @@ glorification for himself alone. And therefore it does not follow that if someon
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the chunk opens mid-page on p.104, where notes 1–2 belong to the preceding quaestio (a1-q3) and notes 3–9 to this question (rendered `[^1]`–`[^7]`). p.105 carries notes 1–8 (`[^8]`–`[^15]`), and p.106's note 1 (`[^16]`) closes this question before the following quaestio's footers begin.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the chunk opens mid-page on p.104, where notes 1–2 belong to the preceding quaestio (a1-q3) and notes 3–9 to this question (rendered 1–7). p.105 carries notes 1–8 (8–15), and p.106's note 1 (16) closes this question before the following quaestio's footers begin.
 
 [^1]: **La.** Vers. 4. seq. — Glossa habetur apud Lyranum ut interlinearis. — In *minori* ante *Filii Dei humanatione* [edd. *humanatio*] codd. K P Q R interserunt *in.*
     **En.** Verse 4 f. — The Gloss is found in Lyra as interlinear. — In the minor [premise], before *the becoming-human of the Son of God* [editions: *becoming-human*], codices K P Q R insert *in.*

@@ -122,7 +122,7 @@ It is also wont to be asked, whether to little ones grace is given in baptism, b
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are given here in printed-page order (p.90 nn. 2–7, p.91 nn. 1–8, p.92 nn. 1–8, p.93 nn. 1–6). Because the printed numbers repeat across pages, the p.91 entries are suffixed `b`, the p.92 entries `c`, and the p.93 entries `d` for parser uniqueness, while the bare numbers `[^2]`–`[^7]` carry p.90. (Printed-page p.90 note 1, *Codd. F II propter*, anchors in the tail of the Dist. III commentary at the head of the page and is NOT part of this littera.)
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are given here in printed-page order (p.90 nn. 2–7, p.91 nn. 1–8, p.92 nn. 1–8, p.93 nn. 1–6). Because the printed numbers repeat across pages, the p.91 entries are suffixed `b`, the p.92 entries `c`, and the p.93 entries `d` for parser uniqueness, while the bare numbers 2–7 carry p.90. (Printed-page p.90 note 1, *Codd. F II propter*, anchors in the tail of the Dist. III commentary at the head of the page and is NOT part of this littera.)
 
 [^2]: **La.** Cfr. supra d. 1. p. II. dub. 2; Alex. Hal., S. p. IV. q. 5. m. 7. a. 3. ad 1. et 2; B. Albert., hic a. 7; S. Thom. et Petr. a Tar., hic circa lit.
     **En.** Cf. above d. 1, p. II, dub. 2; Alexander of Hales, *Summa* p. IV, q. 5, m. 7, a. 3, ad 1 and 2; Bl. Albert, here a. 7; St. Thomas and Peter of Tarentaise, here on the text.

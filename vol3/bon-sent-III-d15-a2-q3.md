@@ -111,7 +111,7 @@ And through this distinction the response to the question and to the reasons on 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are slugged `[^pNNN-K]` accordingly. Markers `[^p339-1..5]` are captured in the sibling chunk `bon-sent-III-d15-a2-q2` (q2's spillover footers on the shared page 339); marker `[^p340-10]` is forwarded to `bon-sent-III-d15-dubia`.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are slugged pNNN-K accordingly. Markers `[^p339-1..5]` are captured in the sibling chunk `bon-sent-III-d15-a2-q2` (q2's spillover footers on the shared page 339); marker p340-10 is forwarded to `bon-sent-III-d15-dubia`.
 
 [^p339-6]: **La.** Ioan. 2, 17. Cfr. Marc. 11, 15. et Luc. 19, 45. — In principio quaest. pro *Tertio* codd. A N T U X *Tertio loco.*
     **En.** John 2:17. Cf. Mark 11:15 and Luke 19:45. — At the beginning of the question, for *Tertio* the codices A N T U X read *Tertio loco.*

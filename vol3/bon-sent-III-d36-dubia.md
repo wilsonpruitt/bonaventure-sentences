@@ -113,7 +113,7 @@ And if you object that *he who loves his neighbor has fulfilled the Law*[^20]: t
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each renders the Quaracchi critical apparatus entry: **La.** the Latin note, **En.** a literal English rendering. Per Quaracchi's per-page footnote restart, this chunk leads with p.808's footer notes 1–9 (→ [^1]–[^9]; this dubia opens a fresh footer band on p.808, nothing forwarded from a1-q6), then p.809 (notes 1–14 → [^10]–[^23]).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each renders the Quaracchi critical apparatus entry: **La.** the Latin note, **En.** a literal English rendering. Per Quaracchi's per-page footnote restart, this chunk leads with p.808's footer notes 1–9 (→ 1–9; this dubia opens a fresh footer band on p.808, nothing forwarded from a1-q6), then p.809 (notes 1–14 → 10–23).
 
 [^1]: **La.** Cfr. supra q. 1. et 6. — Superius pro *ceterae virtutes* cod. U *aliae virtutes,* et dein pro *alias* (deest in edd.) cod. Z *ceteras.* Mox verbo *dici,* pro quo cod. bb *quaeri,* edd. praemittunt *hoc.*
     **En.** Cf. above, q. 1 and 6. — Above, for *the other virtues* codex U [reads] *other virtues,* and then for *others* (which is absent in the editions) codex Z [reads] *the rest.* Soon, before the word *to be said,* in place of which codex bb [reads] *to be asked,* the editions prefix *this.*

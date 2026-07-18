@@ -103,7 +103,7 @@ In the second place inquiry is made whether the corona [the clerical crown] is a
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries two per-page series (p.610 notes 1–8, p.611 notes 1–3), renumbered consecutively [^1]–[^11] for this file.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries two per-page series (p.610 notes 1–8, p.611 notes 1–3), renumbered consecutively 1–11 for this file.
 
 [^1]: **La.** Hic c. 4. — Supra lit. Magistri, d. I. c. 2: *Sacramentum est sacrae rei signum.*
 

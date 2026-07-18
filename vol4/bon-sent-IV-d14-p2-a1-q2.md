@@ -127,7 +127,7 @@ for this [baptism] has its whole power from the victim of the passion, and conce
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers `[^a]`–`[^c]` are page 334's footers 1–3, which belong to this question (footers 4–11 of page 334 belong to Question III).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers a–c are page 334's footers 1–3, which belong to this question (footers 4–11 of page 334 belong to Question III).
 
 [^1]: **La.** Libr. II. Reg. 11, 15; 12, 13. et 24, 1. 10. — Pro *utrumque* multi codd. *utramque,* scil. poenitentiam.
      **En.** 2 Kings (II Samuel) 11:15; 12:13; and 24:1, 10. — For *utrumque* (both) many codices read *utramque,* namely penance.

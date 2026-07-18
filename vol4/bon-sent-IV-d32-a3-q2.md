@@ -123,7 +123,7 @@ Let this be said without prejudice, for the reason that the Saints seem to aggra
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They reproduce the Quaracchi editors' critical apparatus. Quaracchi restarts footnote numbering on each printed page: this chunk merges two per-page series into one consecutive run — [^1]–[^9] are printed page 738's footer notes 1–9 (all anchored in this question's body, which begins on p. 738 below the scholion carried over from a3-q1); [^10]–[^16] are page 739's notes 1–7. Page 739's own notes 8–9 belong to the following article (a4-q1, *De tempore nuptiarum*), whose body begins in the lower part of p. 739, and are NOT claimed here.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They reproduce the Quaracchi editors' critical apparatus. Quaracchi restarts footnote numbering on each printed page: this chunk merges two per-page series into one consecutive run — 1–9 are printed page 738's footer notes 1–9 (all anchored in this question's body, which begins on p. 738 below the scholion carried over from a3-q1); 10–16 are page 739's notes 1–7. Page 739's own notes 8–9 belong to the following article (a4-q1, *De tempore nuptiarum*), whose body begins in the lower part of p. 739, and are NOT claimed here.
 
 [^1]: **La.** Vers. 5, ubi Vulgata post *nisi* addit *forte*.
     **En.** Verse 5, where the Vulgate after *nisi* [except] adds *forte* [perhaps].

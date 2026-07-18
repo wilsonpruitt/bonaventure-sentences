@@ -28,7 +28,7 @@ format_version: 1
 
 ### Quaestio III. *Utrum spiritualis cognatio transeat ab uno in alterum.*
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts its footer numbering on each printed page; here p.871 carries the edition's notes 6–11 and p.872 carries its notes 1–7. In this chunk they are renumbered sequentially [^1]–[^13].
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts its footer numbering on each printed page; here p.871 carries the edition's notes 6–11 and p.872 carries its notes 1–7. In this chunk they are renumbered sequentially 1–13.
 
 Tertio quaeritur, utrum spiritualis cognatio transeat ab uno in alterum, utpote ab uxore in virum. Et quod sic, videtur.
 

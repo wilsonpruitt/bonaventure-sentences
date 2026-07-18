@@ -180,7 +180,7 @@ Likewise, on account of the *most full communication* He ought not to communicat
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi critical apparatus in Latin, followed by an English rendering. Per-page footer distribution: p. 138 ×9 ([^1]–[^9]); p. 139 ×13 ([^10]–[^22]); p. 140 ×10 ([^23]–[^32]). Quaracchi restarts numbering on each printed page; chunk renumbers globally.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi critical apparatus in Latin, followed by an English rendering. Per-page footer distribution: p. 138 ×9 (1–9); p. 139 ×13 (10–22); p. 140 ×10 (23–32). Quaracchi restarts numbering on each printed page; chunk renumbers globally.
 
 [^1]: **La.** Num. 51: *Neque rursum corporali insinuatione Patrem in Filio praedicamus, sed ex eo eiusdem generis genitam naturam naturaliter in se gignentem se habuisse naturam.*
     **En.** No. 51: «Nor again do we preach the Father in the Son by bodily implantation, but [we say that] from Him [the Son] had the begotten nature of the same kind, naturally generating in Himself the [same] nature».

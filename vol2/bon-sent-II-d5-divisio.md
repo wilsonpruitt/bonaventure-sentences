@@ -61,7 +61,7 @@ For the understanding of this part, in which it is asked of what sort the Angels
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–3 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, p. 144) — the p.144 R-column main-stream source note and the dedicated `NOTAE AD COMMENTARIUM` block. The p.144 L-column main-stream notes ¹²³ printed beside these anchor the preceding chunk and are already its apparatus (`bon-sent-II-d5-littera` [^6]/[^7]/[^8]) — see Notes. At *malitiae* one body superscript carries both the main-stream note ([^2]) and the NOTAE-block variant ([^3]) — the double-apparatus pattern (cf. the littera's p.143 *dedita*).
+> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–3 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, p. 144) — the p.144 R-column main-stream source note and the dedicated `NOTAE AD COMMENTARIUM` block. The p.144 L-column main-stream notes ¹²³ printed beside these anchor the preceding chunk and are already its apparatus (`bon-sent-II-d5-littera` 6/7/8) — see Notes. At *malitiae* one body superscript carries both the main-stream note (2) and the NOTAE-block variant (3) — the double-apparatus pattern (cf. the littera's p.143 *dedita*).
 
 [^1]: **La.** Vat. *conversio*; falso.
 

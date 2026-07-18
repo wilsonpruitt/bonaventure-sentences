@@ -158,7 +158,7 @@ And it must be known that that betrothed woman who has only been pledged in the 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page under the running head *NOTAE AD LIBR. SENTENTIARUM;* here the marker `[^1]` belongs to printed page 671, `[^2]–[^5]` to page 672, `[^6]–[^9]` to page 673, and `[^10]–[^14]` to page 674. (Canon numbers in parentheses are Gratian's causa C. 27, q. 2 unless otherwise noted.)
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page under the running head *NOTAE AD LIBR. SENTENTIARUM;* here the marker 1 belongs to printed page 671, 2–5 to page 672, 6–9 to page 673, and 10–14 to page 674. (Canon numbers in parentheses are Gratian's causa C. 27, q. 2 unless otherwise noted.)
 
 [^1]: **La.** Cfr. Gratian., introductio in C. 27. q. 2. Seq. locus C. *Beata Maria* (3.), ibid. § 1, ubi edd., excepta 1, et cod. C addunt *vitae* post *consuetudinem,* refragante etiam canone.
      **En.** Cf. Gratian, the introduction to C. 27, q. 2. The following passage is the canon *Beata Maria* (3), ibid. § 1, where the editions, except 1, and cod. C add *vitae* after *consuetudinem,* though the canon itself is against it.

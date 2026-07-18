@@ -109,7 +109,7 @@ To questions 1 and 2 of this second article the principal Scholastics, conjectur
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–12 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 135–136): printed p.135 footer notes 1–4 → [^1]–[^4]; p.136 footer notes 1–8 → [^5]–[^12]. p.135's footer is wholly this q1's — the preceding `bon-sent-II-d4-a1-q2` Scholion (no apparatus) merely tails onto p.135 — see Notes.
+> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–12 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 135–136): printed p.135 footer notes 1–4 → 1–4; p.136 footer notes 1–8 → 5–12. p.135's footer is wholly this q1's — the preceding `bon-sent-II-d4-a1-q2` Scholion (no apparatus) merely tails onto p.135 — see Notes.
 
 [^1]: **La.** Cod. cc et ed. 1 *exhilarat.*
 

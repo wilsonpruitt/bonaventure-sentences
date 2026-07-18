@@ -179,7 +179,7 @@ the way of generation regards the power of *nature*[^18] more than the act of th
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. [^1]–[^9] are p.782 footers 1–9; [^10]–[^17] are p.783 footers 1–8; [^18]–[^19] are p.784 footers 1–2. The remaining p.784 footers (3 *perducere/producere*; 4 *Qui locus a simili*; and the right-column notes) belong to QUAESTIO II and are forwarded to d33-a1-q2.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. 1–9 are p.782 footers 1–9; 10–17 are p.783 footers 1–8; 18–19 are p.784 footers 1–2. The remaining p.784 footers (3 *perducere/producere*; 4 *Qui locus a simili*; and the right-column notes) belong to QUAESTIO II and are forwarded to d33-a1-q2.
 
 [^1]: **La.** Vers. 5. — Paulo superius pro *vel ad eos* edd. *et ad eos.*
     **En.** Verse 5. — A little above, for *vel ad eos* ("or to them") the editions [read] *et ad eos* ("and to them").

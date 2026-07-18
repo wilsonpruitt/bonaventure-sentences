@@ -24,7 +24,7 @@ format_version: 1
 
 ## Latin
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; here p.659's four *notae ad librum Sententiarum* and p.660's four are renumbered continuously [^1]–[^8].
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; here p.659's four *notae ad librum Sententiarum* and p.660's four are renumbered continuously 1–8.
 
 ### DISTINCTIO XXVI.
 

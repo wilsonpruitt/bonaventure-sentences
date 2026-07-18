@@ -136,7 +136,7 @@ that they do not make a confusion; it must be said that it is not alike, because
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; here p.102 carries 1–10 (rendered `[^1]`–`[^10]`), p.103 carries 1–8 (`[^11]`–`[^18]`), and p.104 carries 1–2 (`[^19]`–`[^20]`).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; here p.102 carries 1–10 (rendered 1–10), p.103 carries 1–8 (11–18), and p.104 carries 1–2 (19–20).
 
 [^1]: **La.** Cap. 32, 6. — Verba *ad maiorem evidentiam praedictorum* desunt in edd.
     **En.** Chapter 32, 6. — The words *for the greater clarity of the foregoing* are wanting in the editions.

@@ -158,7 +158,7 @@ If, therefore, the grace of the Head is said to be that grace according to which
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are page-suffixed (`[^p283-N]`, `[^p284-N]`, `[^p285-N]`). The grace-of-the-Head question opens on the lower half of p.283, so its first apparatus entries are footers nn.7–9 of that page (nn.1–6 belong to the preceding question, d.13 a.1 q.3).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are page-suffixed (p283-N, p284-N, p285-N). The grace-of-the-Head question opens on the lower half of p.283, so its first apparatus entries are footers nn.7–9 of that page (nn.1–6 belong to the preceding question, d.13 a.1 q.3).
 
 [^p283-7]: **La.** Vers. 22.
     **En.** [Ephesians 1,] v. 22.

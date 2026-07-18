@@ -103,7 +103,7 @@ In the third place inquiry is made whether in the reception of the corona [the c
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries two per-page series (p.611 notes 4–10, p.612 notes 1–9), renumbered consecutively [^1]–[^16] for this file.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries two per-page series (p.611 notes 4–10, p.612 notes 1–9), renumbered consecutively 1–16 for this file.
 
 [^1]: **La.** Psalm. 15, 5.
 

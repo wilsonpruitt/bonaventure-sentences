@@ -193,7 +193,7 @@ imposed upon her, and it shuddered to admit that the Mother of the Lord had at a
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the entries here run continuously `[^1]`–`[^33]` across pp. 65–69 (the scholion on pp. 69–70 carries no Quaracchi footer of its own).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the entries here run continuously 1–33 across pp. 65–69 (the scholion on pp. 69–70 carries no Quaracchi footer of its own).
 
 [^1]: **La.** Cap. 18.
     **En.** Chapter 18.

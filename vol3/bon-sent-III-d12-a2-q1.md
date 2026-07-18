@@ -165,7 +165,7 @@ men to be better, if they served him freely », and he calls it *to serve freely
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are page-suffixed (`[^p265-N]`, `[^p266-N]`, …). Page 265's notes 6–7 are this question's first body-footers (notes 1–5 belong to the preceding question, a.1 q.2).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are page-suffixed (p265-N, p266-N, …). Page 265's notes 6–7 are this question's first body-footers (notes 1–5 belong to the preceding question, a.1 q.2).
 
 [^p265-6]: **La.** Vers. 10.
 

@@ -190,7 +190,7 @@ This and the following question others (except Petrus a Tarantasia and Aegidius 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** = Latin (Quaracchi footer as printed). **En.** = English (literal rendering). Footnotes [^1]–[^2] anchor in `d16-divisio` (p.393 L band 2 footers 1–2); the per-page Quaracchi sequence resumes here at [^3].
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** = Latin (Quaracchi footer as printed). **En.** = English (literal rendering). Footnotes 1–2 anchor in `d16-divisio` (p.393 L band 2 footers 1–2); the per-page Quaracchi sequence resumes here at 3.
 
 [^3]: **La.** Vers. 26.
 

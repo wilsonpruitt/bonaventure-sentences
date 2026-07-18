@@ -162,7 +162,7 @@ But if we wish to maintain the other position, all the objections can be answere
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi note in Latin (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; this chunk runs across pp. 692–694 (p.692 nn.1–10 → [^1]–[^10]; p.693 nn.1–9 → [^11]–[^19]; p.694 nn.1–6 → [^20]–[^25]).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi note in Latin (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; this chunk runs across pp. 692–694 (p.692 nn.1–10 → 1–10; p.693 nn.1–9 → 11–19; p.694 nn.1–6 → 20–25).
 
 [^1]: **La.** Vide supra d. 28. q. 6.
     **En.** See above, d. 28, q. 6.

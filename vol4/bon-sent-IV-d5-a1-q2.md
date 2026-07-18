@@ -101,7 +101,7 @@ And to this it must be said that the heretic does sometimes well intend to do wh
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries the p.123 footer notes belonging to q2 (notes **3–9**, rendered [^1]–[^7]) — p.123 notes 1–2 were claimed by q1's casus-tail (committed as q1's [^20]/[^21]) — then the p.124 footer notes belonging to q2 (notes **1–8**, rendered [^8]–[^15]); p.124 notes 9–10 anchor in ARTICULUS II and are NOT carried here.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries the p.123 footer notes belonging to q2 (notes **3–9**, rendered 1–7) — p.123 notes 1–2 were claimed by q1's casus-tail (committed as q1's 20/21) — then the p.124 footer notes belonging to q2 (notes **1–8**, rendered 8–15); p.124 notes 9–10 anchor in ARTICULUS II and are NOT carried here.
 
 [^1]: **La.** Comment. in Ioan. 3, 4. Vide infra lit. Magistri, d. VI. c. 2.
      **En.** Commentary on John 3, 4. See below in the Master's text, d. VI, c. 2.

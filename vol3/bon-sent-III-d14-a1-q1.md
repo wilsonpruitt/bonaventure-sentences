@@ -154,7 +154,7 @@ The first opinion here reported is attributed to John of Ripa and is commonly he
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are page-suffixed (`[^p295-N]`, `[^p296-N]`, …). Page 295's notes 1–4 were consumed by the d.14 *divisio*; this question picks up that page's title-variant note plus notes 5–6.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are page-suffixed (p295-N, p296-N, …). Page 295's notes 1–4 were consumed by the d.14 *divisio*; this question picks up that page's title-variant note plus notes 5–6.
 
 [^p295-t]: **La.** In minori pro *cognoscitur* codd. B C D E F G I L U Z aa bb perperam *cognoscit*, d In conclus. pro *cognoscatur* edd. cum cod. cc pariter falso *cognoscat*.
 

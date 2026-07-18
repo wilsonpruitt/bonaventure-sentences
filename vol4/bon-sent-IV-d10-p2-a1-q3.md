@@ -130,7 +130,7 @@ All the other reasons are plain, because nothing *absolute* has been given to th
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Following Quaracchi, footnote numbering restarts on each printed page; per this corpus's locked convention (see e.g. `vol2/bon-sent-II-d1-p1-a1-q2.md`'s "Chunk-internal apparatus renumbering" note), the two printed-page sequences are renumbered here as a single continuous run: markers `[^1]`–`[^10]` = printed page 231, footer notes 1–10; markers `[^11]`–`[^14]` = printed page 232, footer notes 4–7 (the second, right-column sequence, anchored in the Respondeo).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Following Quaracchi, footnote numbering restarts on each printed page; per this corpus's locked convention (see e.g. `vol2/bon-sent-II-d1-p1-a1-q2.md`'s "Chunk-internal apparatus renumbering" note), the two printed-page sequences are renumbered here as a single continuous run: markers 1–10 = printed page 231, footer notes 1–10; markers 11–14 = printed page 232, footer notes 4–7 (the second, right-column sequence, anchored in the Respondeo).
 
 [^1]: **La.** Libr. IV. de Sacram. c. 4. n. 17. Cfr. de Mysteriis, c. 9. n. 52. Vide hic lit. Magistri, c. 2.
     **En.** [Ambrose,] Book IV *On the Sacraments*, c. 4, n. 17. Cf. *On the Mysteries*, c. 9, n. 52. See here the text of the Master, c. 2.

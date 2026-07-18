@@ -201,7 +201,7 @@ It seems already to have been sufficiently shown how all things are said to be i
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi critical apparatus (*Notae ad Libr. Sententiarum*, reflowed from the two-column footer band on printed pp. 633–636; on each printed page the notes were renumbered from 1, but here they run consecutively 1–32) in Latin, followed by an English rendering. Per-page distribution: [^1]–[^12] = p. 633 footer (12 entries); [^13]–[^22] = p. 634 footer (10 entries); [^23]–[^24] = p. 635 footer (2 entries); [^25]–[^32] = p. 636 footer (8 entries).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi critical apparatus (*Notae ad Libr. Sententiarum*, reflowed from the two-column footer band on printed pp. 633–636; on each printed page the notes were renumbered from 1, but here they run consecutively 1–32) in Latin, followed by an English rendering. Per-page distribution: 1–12 = p. 633 footer (12 entries); 13–22 = p. 634 footer (10 entries); 23–24 = p. 635 footer (2 entries); 25–32 = p. 636 footer (8 entries).
 
 [^1]: **La.** Coloss. 2, 9.
 

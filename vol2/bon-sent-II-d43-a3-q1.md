@@ -177,7 +177,7 @@ And to that which was last asked, the response is now clear from what has been s
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' Latin note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the slugs run continuously here. Entries [^1]–[^5] are the page 991 footers 4–8 (this quaestio's first body-footers, the shared-page footer block carried over from the preceding quaestio); [^6]–[^12] are the page 992 footers 1–7; [^13]–[^17] are the page 993 footers (footers 1–4 = [^13]–[^16]; footers 5–7, three short edition-variant notes on the adjacent reply-5/reply-6 clause, are grouped under [^17]).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' Latin note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the slugs run continuously here. Entries 1–5 are the page 991 footers 4–8 (this quaestio's first body-footers, the shared-page footer block carried over from the preceding quaestio); 6–12 are the page 992 footers 1–7; 13–17 are the page 993 footers (footers 1–4 = 13–16; footers 5–7, three short edition-variant notes on the adjacent reply-5/reply-6 clause, are grouped under 17).
 
 [^1]: **La.** In cod. T desideratur *per*. — Vide scholion ad praecedentem quaest.
     **En.** In codex T *per* is wanting. — See the scholion to the preceding question.

@@ -142,7 +142,7 @@ But to those things which were asked last, the response is evident through the t
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are slugged by page (e.g. `[^p403-3]`).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are slugged by page (e.g. p403-3).
 
 [^p402-2]: **La.** Vers. 13. seq. Vulgata: *donans vobis omnia delicta; delens.*
     **En.** [Col. 2,] v. 13. f. The Vulgate [reads]: *donans vobis omnia delicta; delens* (forgiving you all offenses; blotting out).

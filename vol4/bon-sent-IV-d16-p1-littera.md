@@ -81,7 +81,7 @@ But what satisfaction is sufficient for venial sins, Augustine intimates, thus s
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; within this file the markers are numbered continuously `[^1]–[^9]`. Page-block split: `[^1]–[^5]` = p.381 (the *NOTAE AD LIBR. SENTENTIARUM* block, 5 notes); `[^6]–[^9]` = p.382 (the littera portion of the footer, 4 notes, above the *NOTAE AD COMMENTARIUM* block which belongs to the following commentary chunk).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; within this file the markers are numbered continuously 1–9. Page-block split: 1–5 = p.381 (the *NOTAE AD LIBR. SENTENTIARUM* block, 5 notes); 6–9 = p.382 (the littera portion of the footer, 4 notes, above the *NOTAE AD COMMENTARIUM* block which belongs to the following commentary chunk).
 
 [^1]: **La.** Iac. 2, 10. Ed. 8 post *omnium* addit *per ingratitudinem,* et superius pro *etiam, quoniam* cod. D *ergo quod.* — Seq. locus est cit. libro *de Vera* etc. c. 10. n. 30. 31, et can. cit.
      **En.** Jas. 2:10. Ed. 8 after *omnium* adds *per ingratitudinem,* and above, for *etiam, quoniam,* cod. D has *ergo quod.* — The following passage is the cited book *On True [and False Penance]* etc., c. 10, nn. 30–31, and the cited canon.

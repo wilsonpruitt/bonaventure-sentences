@@ -109,7 +109,7 @@ For the essential reward of those virtues themselves is the highest good itself,
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; here p.726 carries nn.1–8 (= [^1]–[^8]) and p.727 carries nn.1–11 (= [^9]–[^19]).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; here p.726 carries nn.1–8 (= 1–8) and p.727 carries nn.1–11 (= 9–19).
 
 [^1]: **La.** Vers. 15.
     **En.** Verse 15. [Wisdom 1:15.]

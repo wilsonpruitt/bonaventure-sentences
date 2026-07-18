@@ -161,7 +161,7 @@ two reasons conclude only that punishment is from God under the character of pun
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. [^1]–[^7] are p.854 footers 1–7 (received whole from a3-q1, which forwarded the entire p.854 footer block); [^8]–[^13] are p.855 footers 1–6; [^14]–[^22] are p.856 footers 1, 2, 3, 5, 6, 7, 8, 9, 10 (p.856 footers 4 and 11 belong to the following DUBIA and are forwarded to that chunk).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. 1–7 are p.854 footers 1–7 (received whole from a3-q1, which forwarded the entire p.854 footer block); 8–13 are p.855 footers 1–6; 14–22 are p.856 footers 1, 2, 3, 5, 6, 7, 8, 9, 10 (p.856 footers 4 and 11 belong to the following DUBIA and are forwarded to that chunk).
 
 [^1]: **La.** Vers. 19. Vulgata: *Mihi vindicta, ego*.
     **En.** Verse 19. The Vulgate: *Mihi vindicta, ego* ("Vengeance is mine, I [will repay]").

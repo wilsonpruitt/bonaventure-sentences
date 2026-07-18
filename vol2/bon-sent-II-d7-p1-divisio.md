@@ -66,7 +66,7 @@ For the understanding of this part, the inquiry here falls under two heads. The 
 
 ## Apparatus
 
-> The numbered footnote below corresponds to a marker in both the Latin body and the English translation (a single entry, [^1]). It is preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, p. 173). The boundary with the preceding `bon-sent-II-d7-littera` is a clean cross-chunk split on p.173: that littera's Cap. X tail carries no footer marker, so all of p.173's footer is this COMMENTARIUS's. p.173's footer is a single `NOTAE AD COMMENTARIUM` stream; this divisio takes only note ¹; notes ²–⁴+ anchor the following `bon-sent-II-d7-p1-a1-q1`'s QUAESTIO I (see Notes).
+> The numbered footnote below corresponds to a marker in both the Latin body and the English translation (a single entry, 1). It is preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, p. 173). The boundary with the preceding `bon-sent-II-d7-littera` is a clean cross-chunk split on p.173: that littera's Cap. X tail carries no footer marker, so all of p.173's footer is this COMMENTARIUS's. p.173's footer is a single `NOTAE AD COMMENTARIUM` stream; this divisio takes only note ¹; notes ²–⁴+ anchor the following `bon-sent-II-d7-p1-a1-q1`'s QUAESTIO I (see Notes).
 
 [^1]: **La.** Cod. Y *gratiam*, quod respondet verbis Magistri, hic c. 1. Vat. paulo superius *per conversionem* pro *post conversionem.*
 

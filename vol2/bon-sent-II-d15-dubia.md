@@ -138,7 +138,7 @@ Likewise it is asked about that which he says: *In numbering the days we proceed
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Latin apparatus entry verbatim as printed in the Quaracchi edition; **En.** is a literal English rendering of that note. Footnote numbering restarts on each printed page in Quaracchi; here entries are continuously renumbered across pp.388–391. The chunk begins after the article-side scholion on p.388 L band 0; numbering starts at [^2] to mirror the editorial expectation set by the page's footer 1 ("Vat. *rerum.*" at chunk opener "viventis"), which on this layout sits within the body of the chunk itself.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Latin apparatus entry verbatim as printed in the Quaracchi edition; **En.** is a literal English rendering of that note. Footnote numbering restarts on each printed page in Quaracchi; here entries are continuously renumbered across pp.388–391. The chunk begins after the article-side scholion on p.388 L band 0; numbering starts at 2 to mirror the editorial expectation set by the page's footer 1 ("Vat. *rerum.*" at chunk opener "viventis"), which on this layout sits within the body of the chunk itself.
 
 [^2]: **La.** Vers. 10. — Ultima solutionis verba *in die septimo* desiderantur in Vat.
 

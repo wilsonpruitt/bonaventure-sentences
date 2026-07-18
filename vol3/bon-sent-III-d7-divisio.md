@@ -116,7 +116,7 @@ Thirdly it is asked concerning this: *man was made God*.
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page, so the per-page sequences are disambiguated with a suffix: marker [^1] is the *Notae ad Commentarium* note 1 at the foot of p. 168; markers [^1b]–[^5b] are the *Notae ad Commentarium* notes 1–5 at the foot of p. 169.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page, so the per-page sequences are disambiguated with a suffix: marker 1 is the *Notae ad Commentarium* note 1 at the foot of p. 168; markers 1b–5b are the *Notae ad Commentarium* notes 1–5 at the foot of p. 169.
 
 [^1]: **La.** Codd. *praemissae*. Paulo inferius Vat. omittit *secundum multas auctoritates*.
     **En.** The codices [read] *praemissae* [premised]. A little below the Vatican edition omits *secundum multas auctoritates* [according to the many authorities].

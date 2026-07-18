@@ -113,7 +113,7 @@ Sixth and last it is asked, what that is which is merited.
 
 ## Apparatus
 
-> This chunk carries no apparatus of its own. The page-foot notes printed on its pages belong to the Master's littera and are rendered in `d15-p1-littera` [^29]–[^30].
+> This chunk carries no apparatus of its own. The page-foot notes printed on its pages belong to the Master's littera and are rendered in `d15-p1-littera` 29–30.
 
 ## Notes
 

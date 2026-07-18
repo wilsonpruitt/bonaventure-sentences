@@ -187,7 +187,7 @@ This and the preceding question serve not a little toward understanding our Doct
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. [^1]–[^5] are p.762 footers 1–5 (received from d32-a1-q1); [^6]–[^13] are p.763 footers 1–8; [^14]–[^16] cover the p.764 footer block; [^16] continues onto p.765 (footers 1–2 on p.765 belong to this question, footers 3+ belong to ARTICULUS II).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. 1–5 are p.762 footers 1–5 (received from d32-a1-q1); 6–13 are p.763 footers 1–8; 14–16 cover the p.764 footer block; 16 continues onto p.765 (footers 1–2 on p.765 belong to this question, footers 3+ belong to ARTICULUS II).
 
 [^1]: **La.** Libr. IV. de Fide orthod. c. 9. In sententia allata textus originalis voci *duplicem* subiungit *nobis* et dein post *dedit* adiungit etiam. Respicitur in hoc textu Ioan. 3, 5: *Nisi quis renatus fueris ex aqua et Spiritu S.* etc.
     **En.** Book IV. *On the Orthodox Faith* c. 9. In the sentence adduced the original text adds *nobis* to the word *duplicem* and then after *dedit* also adds *etiam*. In this text there is regarded John 3, 5: *Unless one is born again of water and the Holy Spirit* etc.

@@ -112,7 +112,7 @@ Thirdly it is asked whether Christ, insofar as he is man, is some substance, or 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page. The notes through marker [^1] are from the *Notae ad Commentarium* at the foot of p. 146; markers [^2]–[^8] are p. 147; marker [^9] is p. 148.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page. The notes through marker 1 are from the *Notae ad Commentarium* at the foot of p. 146; markers 2–8 are p. 147; marker 9 is p. 148.
 
 [^1]: **La.** Cod. G *expositionem*.
     **En.** Codex G [reads] *expositionem* [exposition].

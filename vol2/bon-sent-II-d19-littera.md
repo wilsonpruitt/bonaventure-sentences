@@ -109,7 +109,7 @@ Hence some say that he had immortality from nature *Opinion of certain ones.* �
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each printed page restarts the Quaracchi footnote numbering; the entries are grouped per page. The block on p. 455 L-2 headed **NOTAE AD LIBR. SENTENTIARUM** holds this chunk's [^1]; p. 455 R-2 holds [^2]–[^5]; p. 456 L-2 holds [^6]; p. 456 R-2 holds [^7]–[^10].
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each printed page restarts the Quaracchi footnote numbering; the entries are grouped per page. The block on p. 455 L-2 headed **NOTAE AD LIBR. SENTENTIARUM** holds this chunk's 1; p. 455 R-2 holds 2–5; p. 456 L-2 holds 6; p. 456 R-2 holds 7–10.
 
 [^1]: **La.** Hugo, de Sacram. I. p. 6. c. 18. Cfr. August., VI. de Gen. ad lit. c. 25. 26. Paulo inferius respicitur Gen. 2, 7. et 1. Cor. 15, 45. Cfr. Glossa interlin. ad ultimum locum.
 

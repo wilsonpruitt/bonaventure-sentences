@@ -113,7 +113,7 @@ It is also gathered from what has been said that Christ gave wine mixed with wat
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page. The Cap. I–II opener (printed at the foot of p. 238) carries the `[^p238-N]` keys; the continuous markers `[^1]–[^9]` belong to printed page 239, and `[^10]–[^17]` to printed page 240.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page. The Cap. I–II opener (printed at the foot of p. 238) carries the p238-N keys; the continuous markers 1–9 belong to printed page 239, and 10–17 to printed page 240.
 
 [^p238-1]: **La.** In codd. L aa suppletur *esset.* — Idem dub. solvunt B. Albert., hic a. 6; S. Thom., hic circa lit.
      **En.** In codd. L aa is supplied *esset.* — The same doubt is resolved by Bl. Albert, here a. 6; St. Thomas, here near the text.

@@ -157,7 +157,7 @@ But God cannot be *from different*[^20] *and diverse*, since He is *life by esse
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Per Quaracchi convention, footnote numbering restarts on each printed page; here they are renumbered consecutively across the chunk. Page distribution: p. 175 = [^1]–[^15] (15 entries: a 5-entry footer band at the close of Dub. II + a 10-entry footer band at the close of Dub. V); p. 176 = [^16]–[^21] (6 entries).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Per Quaracchi convention, footnote numbering restarts on each printed page; here they are renumbered consecutively across the chunk. Page distribution: p. 175 = 1–15 (15 entries: a 5-entry footer band at the close of Dub. II + a 10-entry footer band at the close of Dub. V); p. 176 = 16–21 (6 entries).
 
 [^1]: **La.** Codd. V X *secundum*, et paulo infra cod. T *uniformitatem* loco *unitatem*.
     **En.** Codices V and X read *secundum*, and a little below codex T reads *uniformitatem* in place of *unitatem*.

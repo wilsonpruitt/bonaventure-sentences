@@ -116,7 +116,7 @@ Fourth it is asked, whether the Mass of a good priest is better than that of a b
 
 ## Apparatus
 
-> The numbered footnote below corresponds to the one marker in both the Latin body above and the English translation. Quaracchi's page-301 footer notes 1–5 belong to Lombard's *Cap. II* littera printed above the COMMENTARIUS and are carried in `bon-sent-IV-d13-littera` (its `[^4]`–`[^8]`, verbatim duplicates); they were previously and erroneously reproduced here as well and have been removed (J4, 2026-07-13) — see `## Notes`.
+> The numbered footnote below corresponds to the one marker in both the Latin body above and the English translation. Quaracchi's page-301 footer notes 1–5 belong to Lombard's *Cap. II* littera printed above the COMMENTARIUS and are carried in `bon-sent-IV-d13-littera` (its 4–8, verbatim duplicates); they were previously and erroneously reproduced here as well and have been removed (J4, 2026-07-13) — see `## Notes`.
 
 [^1]: **La.** Cod. H, voci *saltem* praemisso *vel*, hic supplet *bonitas*.
 

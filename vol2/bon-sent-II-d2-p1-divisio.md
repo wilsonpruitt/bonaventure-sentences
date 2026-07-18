@@ -95,7 +95,7 @@ Third, whether they have a simple or a composite measure — that is, a standing
 
 ## Apparatus
 
-> The numbered footnote below corresponds to a marker in both the Latin body above and the English translation. Apparatus content is preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, p. 54). This chunk holds only the single entry of the p.54 *Notae ad Commentarium* sub-block; the three littera notes printed above that sub-block on the same p.54 footer (*Vat. sola ordinationis*; *De Gen. ad lit. …*; *Cap. 14, 13.*) anchor in Lombard's text and belong to the preceding `bon-sent-II-d2-littera` (its [^14]–[^16]).
+> The numbered footnote below corresponds to a marker in both the Latin body above and the English translation. Apparatus content is preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, p. 54). This chunk holds only the single entry of the p.54 *Notae ad Commentarium* sub-block; the three littera notes printed above that sub-block on the same p.54 footer (*Vat. sola ordinationis*; *De Gen. ad lit. …*; *Cap. 14, 13.*) anchor in Lombard's text and belong to the preceding `bon-sent-II-d2-littera` (its 14–16).
 
 [^1]: **La.** In Vat. additur *ex auctoritatibus*.
 

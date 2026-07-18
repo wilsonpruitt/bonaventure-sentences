@@ -187,7 +187,7 @@ But for the understanding of the objections it is to be noted that *highest* in 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. [^1]–[^7] are p.809 footers 1–7 (received from d34-a1-q3); [^8]–[^17] are p.810 footers 1–10; [^18]–[^24] are p.811 footers 1–7; [^25]–[^26] are p.812 footers 1–2 (the remaining p.812 footers belong to QUAESTIO II).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. 1–7 are p.809 footers 1–7 (received from d34-a1-q3); 8–17 are p.810 footers 1–10; 18–24 are p.811 footers 1–7; 25–26 are p.812 footers 1–2 (the remaining p.812 footers belong to QUAESTIO II).
 
 [^1]: **La.** Vide infra d. 43. per totam. — Edd., excepta 1, omittunt *peccato*.
     **En.** See below d. 43, throughout. — The editions, except 1, omit *peccato*.

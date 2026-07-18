@@ -140,7 +140,7 @@ On this 2nd question: Alex. of Hales, *loc. cit.* m. 2. — Scotus, touches the 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are page-suffixed here (`[^pNNN-K]`) to keep them unique.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are page-suffixed here (pNNN-K) to keep them unique.
 
 [^p330-1]: **La.** Vers. 17.
     **En.** Verse 17.

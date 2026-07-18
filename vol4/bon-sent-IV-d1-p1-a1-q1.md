@@ -159,7 +159,7 @@ a burden that weighs down, and there is a burden that lightens, just as are feat
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They are the Quaracchi editors' notes to Bonaventure's text. Quaracchi restarts footnote numbering on each printed page: markers [^1]–[^7] are printed page 11's footer series; markers [^p12-1]–[^p12-10] are printed page 12's footer series (the `p12` prefix keeps the markers unique within this file). Printed page 13 carries no footer notes for this question — its scholion fills the lower columns, and its footer note-series belongs to the following Quaestio II.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They are the Quaracchi editors' notes to Bonaventure's text. Quaracchi restarts footnote numbering on each printed page: markers 1–7 are printed page 11's footer series; markers p12-1–p12-10 are printed page 12's footer series (the `p12` prefix keeps the markers unique within this file). Printed page 13 carries no footer notes for this question — its scholion fills the lower columns, and its footer note-series belongs to the following Quaestio II.
 
 [^1]: **La.** Ut insinuat August., *in Ioan. Evang.* tr. 72. n. 3. Cfr. infra d. 8. a. 3 q. 1. fundam. 1. Quod autem Deus potentiam creandi sibi reservaverit, docet S. Bonav. II. Sent. d. 1. p. 1. n. 2. q. 2. — Inferius pro *potentiam reparandi* cod. 7. *potentiam recreandi.*
 

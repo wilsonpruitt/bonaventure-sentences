@@ -207,7 +207,7 @@ for, since the rational governs itself and the others[^32], more impediments occ
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' Latin note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered continuously here. The opening band (`[^1]`–`[^5]`) is the p.743 R-column NOTAE band (nn.6–10), picked up as the leading apparatus of this question (a1-q3 having taken p.743 nn.1–5).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' Latin note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered continuously here. The opening band (1–5) is the p.743 R-column NOTAE band (nn.6–10), picked up as the leading apparatus of this question (a1-q3 having taken p.743 nn.1–5).
 
 [^1]: **La.** Hic in corp. et in quaest. praeced.
     **En.** Here in the body and in the preceding question.

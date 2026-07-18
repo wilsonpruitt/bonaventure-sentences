@@ -151,7 +151,7 @@ And so, taking ignorance broadly, it can be said that the sin of the first paren
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi note in Latin (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; entries [^1]–[^5] are the page-521 footer sequence (²–⁶, received as a hand-off from a1-q3), [^6]–[^9] the page-522 left-column sequence (¹–⁴), [^10]–[^13] the page-522 right-column sequence (⁵–⁸), and [^14] the page-523 footer ¹.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi note in Latin (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; entries 1–5 are the page-521 footer sequence (²–⁶, received as a hand-off from a1-q3), 6–9 the page-522 left-column sequence (¹–⁴), 10–13 the page-522 right-column sequence (⁵–⁸), and 14 the page-523 footer ¹.
 
 [^1]: **La.** Edd., excepta I, *excusatoria.*
     **En.** The editions, except the first, read *excusatoria* ["of excuse"].

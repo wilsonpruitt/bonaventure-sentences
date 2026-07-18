@@ -265,7 +265,7 @@ the theologian and of Bonaventure pleases more, although in it there are contain
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus in Latin (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries here are renumbered continuously [^1]–[^44] in body order across printed pages 726–732, covering all 56 per-page Quaracchi footers (some footers sharing a single body anchor are consolidated into one entry). (The Scholion on pp. 733–734 carries no numbered footers.)
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus in Latin (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries here are renumbered continuously 1–44 in body order across printed pages 726–732, covering all 56 per-page Quaracchi footers (some footers sharing a single body anchor are consolidated into one entry). (The Scholion on pp. 733–734 carries no numbered footers.)
 
 [^1]: **La.** Dist. 44. p. I. a. 1. et 2.
     **En.** [IV Sent.] Dist. 44, p. I, a. 1 and 2.

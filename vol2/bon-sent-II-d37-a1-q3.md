@@ -122,7 +122,7 @@ will; so a composition, to which deformity and disorder is joined, is from God i
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. [^1]–[^8] are p.867 footers 1–8; [^9]–[^14] are p.868 footers 1–6.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. 1–8 are p.867 footers 1–8; 9–14 are p.868 footers 1–6.
 
 [^1]: **La.** Richard. a S. Vict., V. de Trin. c. 4: *Omnis compositio compositore eget et sine beneficio compositoris esse non valet.* Cfr. Alanus ab Insulis, I. de Arte seu articulis cathol. fidei, n. 3. — Minor probata est supra q. I.
     **En.** Richard of St. Victor, V. *On the Trinity* c. 4: *Every composition needs a composer and cannot exist without the benefit of a composer.* Cfr. Alan of Lille, I. *On the Art or the Articles of the Catholic Faith*, n. 3. — The minor was proved above in q. I.

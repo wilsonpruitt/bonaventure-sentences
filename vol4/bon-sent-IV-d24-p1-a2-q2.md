@@ -125,7 +125,7 @@ a spiritual or sacred thing signified; by reason of the first it is lacking in t
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' note (**La.**) followed by an English rendering (**En.**). Footnote numbering restarts on each printed page; this quaestio spans printed pp. 615–617, so its markers draw from three per-page footer sequences — p. 615 footer note 6, p. 616 footer notes 1–11, and p. 617 footer notes 1–2 — here renumbered continuously [^1]–[^14]. (p. 615 footer notes 1–5 and p. 617 footer notes 3–11 belong to the neighboring questions; see the Notes below.)
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' note (**La.**) followed by an English rendering (**En.**). Footnote numbering restarts on each printed page; this quaestio spans printed pp. 615–617, so its markers draw from three per-page footer sequences — p. 615 footer note 6, p. 616 footer notes 1–11, and p. 617 footer notes 1–2 — here renumbered continuously 1–14. (p. 615 footer notes 1–5 and p. 617 footer notes 3–11 belong to the neighboring questions; see the Notes below.)
 
 [^1]: **La.** Art. I. q. 3. et dub. 1.
     **En.** Art. 1, q. 3, and dubium 1 [where the sevenfold division of the sacraments is treated].

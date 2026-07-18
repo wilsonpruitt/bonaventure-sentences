@@ -130,7 +130,7 @@ And according to this the response to the proposed question is clear; the respon
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers here are page-suffixed (`[^p321-N]`, `[^p322-N]`, `[^p323-N]`).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers here are page-suffixed (p321-N, p322-N, p323-N).
 
 [^p321-1]: **La.** Vers. 8.
 

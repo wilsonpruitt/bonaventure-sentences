@@ -164,7 +164,7 @@ II. Besides those praised: Alexander of Hales, S. p. II, q. 98, m. 3. — Scotus
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–13 within this chunk (Quaracchi restarts per page: p.148 → [^1]–[^5]; p.149 → [^6]–[^12]; p.150 → [^13]). They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 148–150). The editorial Scholion I–II carries no numbered apparatus. p.148's footer is wholly this chunk's (the preceding `bon-sent-II-d5-a1-q1` Scholion tail had no apparatus); p.150's footer note ¹ ([^13], *omnem*¹) is this chunk's, but p.150 notes ²,³,… anchor the next chunk (`bon-sent-II-d5-a2-q1`) — see Notes.
+> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–13 within this chunk (Quaracchi restarts per page: p.148 → 1–5; p.149 → 6–12; p.150 → 13). They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 148–150). The editorial Scholion I–II carries no numbered apparatus. p.148's footer is wholly this chunk's (the preceding `bon-sent-II-d5-a1-q1` Scholion tail had no apparatus); p.150's footer note ¹ (13, *omnem*¹) is this chunk's, but p.150 notes ²,³,… anchor the next chunk (`bon-sent-II-d5-a2-q1`) — see Notes.
 
 [^1]: **La.** Vers. 13. — De caelo Trinitatis cfr. supra d. 2. p. II. dub. 2.
 

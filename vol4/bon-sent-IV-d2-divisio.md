@@ -96,7 +96,7 @@ Third, whether in the time of grace one ought to have been instituted, or severa
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They are the Quaracchi editors' notes to Bonaventure's commentary. On printed p.48 the commentary's opening footer carries a right-column series headed *Notae ad Commentarium* (three notes). Notes 1 and 2 are keyed to markers in this *Divisio textus* / *Tractatio quaestionum* and are rendered here as [^1]–[^2]; note 3 (Gen. 2:24 / Matth. 19:5, on *matrimonium*) is keyed to the *Articulus I, Quaestio I* body that opens at the foot of p.48 and is carried forward to that chunk. The left-column footer notes on p.48 belong to the surrounding littera and to q1, not to this divisio.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They are the Quaracchi editors' notes to Bonaventure's commentary. On printed p.48 the commentary's opening footer carries a right-column series headed *Notae ad Commentarium* (three notes). Notes 1 and 2 are keyed to markers in this *Divisio textus* / *Tractatio quaestionum* and are rendered here as 1–2; note 3 (Gen. 2:24 / Matth. 19:5, on *matrimonium*) is keyed to the *Articulus I, Quaestio I* body that opens at the foot of p.48 and is carried forward to that chunk. The left-column footer notes on p.48 belong to the surrounding littera and to q1, not to this divisio.
 
 [^1]: **La.** Non pauci codd. perperam *narratione*, edd. *variatione*, quae etiam voci *usu* praemittunt *forma*.
     **En.** Not a few codices wrongly read *narratione* (narration), the editions *variatione* (variation), which also prefix *forma* (form) to the word *usu* (use).

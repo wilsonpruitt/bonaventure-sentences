@@ -165,7 +165,7 @@ even if they are rolled about in the very infernal fires, do not feel passion, a
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. [^1] is p.792 footer 8 (received from d33-a2-q2), glossing the ARTICULUS III opener; [^2]–[^9] are p.793 footers 1–8; [^10]–[^18] are p.794 footers 1–9; [^19] is p.795 footer 1 (the only p.795 footer belonging to this question — footers 2+ belong to QUAESTIO II).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. 1 is p.792 footer 8 (received from d33-a2-q2), glossing the ARTICULUS III opener; 2–9 are p.793 footers 1–8; 10–18 are p.794 footers 1–9; 19 is p.795 footer 1 (the only p.795 footer belonging to this question — footers 2+ belong to QUAESTIO II).
 
 [^1]: **La.** Vat. cum edd. 3, 4 adiicit *Dei*.
     **En.** The Vatican [edition] with edd. 3, 4 adds *Dei* ("of God").

@@ -116,7 +116,7 @@ And that it is so, it seems:
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; entries [^1]–[^11] are anchored on p.171, [^12] on p.172.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; entries 1–11 are anchored on p.171, 12 on p.172.
 
 [^1]: **La.** Supple: gratia baptismi et confirmationis.
      **En.** Supply: the grace of baptism and of confirmation.

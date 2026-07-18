@@ -131,7 +131,7 @@ Question 1 is treated by St. Thomas, Peter of Tarentaise, and Richard of Middlet
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries two per-page series (p.717 notes 2–7, p.718 notes 1–6), renumbered consecutively [^1]–[^12] for this file. (Page 717 note 1, "*Vat. addit an delectabilis*," anchors in the divisio's *Tractatio quaestionum* and belongs to the d.31 divisio chunk, not here.)
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries two per-page series (p.717 notes 2–7, p.718 notes 1–6), renumbered consecutively 1–12 for this file. (Page 717 note 1, "*Vat. addit an delectabilis*," anchors in the divisio's *Tractatio quaestionum* and belongs to the d.31 divisio chunk, not here.)
 
 [^1]: **La.** Vers. 35. — Glossa, quae exhibetur a Petro Lombard. in hunc locum (a Strabo et Lyrano ex parte tantum), sumta est ex August., de Bono viduitatis, c. 5. n. 7: *Non matrimonium turpe esse monstravit, sed quod honesto erat honestius generalis honesti nomine commendavit.*
 

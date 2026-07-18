@@ -30,7 +30,7 @@ format_version: 1
 
 ### Quaestio IV. *Utrum ordo sit Sacramentum unum, vel plura.*
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page: markers [^1]–[^6] are page 618's footer sequence (Quaracchi notes 7–12; that page's notes 1–6 belong to the preceding quaestio III), and [^7]–[^12] are page 619's footer sequence (Quaracchi notes 1–6; that page's notes 7–8 begin the following Pars I *Dubia*).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page: markers 1–6 are page 618's footer sequence (Quaracchi notes 7–12; that page's notes 1–6 belong to the preceding quaestio III), and 7–12 are page 619's footer sequence (Quaracchi notes 1–6; that page's notes 7–8 begin the following Pars I *Dubia*).
 
 Quarto et ultimo quaeritur, utrum ordo sit Sacramentum unum, vel plura. Et quod sit unum, videtur:
 

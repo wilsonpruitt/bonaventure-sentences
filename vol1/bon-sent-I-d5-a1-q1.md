@@ -167,7 +167,7 @@ And if you object that in divine things the account of the extraneous does not f
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi critical apparatus in Latin, followed by an English rendering. Page-footer numbering in print restarts on each page; the chunk renumbers in document-reading order. Footnotes [^1]–[^3] are from the page-111 footer (per-page nos. 7–9); [^4]–[^14] are from the page-112 footer (per-page nos. 1–11); [^15]–[^24] are from the page-113 footer (per-page nos. 1–10).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi critical apparatus in Latin, followed by an English rendering. Page-footer numbering in print restarts on each page; the chunk renumbers in document-reading order. Footnotes 1–3 are from the page-111 footer (per-page nos. 7–9); 4–14 are from the page-112 footer (per-page nos. 1–11); 15–24 are from the page-113 footer (per-page nos. 1–10).
 
 [^1]: **La.** Vat., omisso non bene *et*, in fine argumenti post *nec* repetit *convenit*, sed contra mss. et ed. 1.
     **En.** The Vatican edition, omitting *et* (not well), at the end of the argument repeats *convenit* after *nec* — but against the mss. and ed. 1.

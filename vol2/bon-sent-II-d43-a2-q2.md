@@ -139,7 +139,7 @@ Nevertheless the last reasoning seems to show that it ought in no way to be call
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the slugs here run continuously through pp. 988–991. The opening footer (`[^1]`, Matth. 26:41) is the p. 988 footer 1, which migrated forward from the preceding chunk (d43-a2-q1 consumed only p. 988 footers 2–3); this question then picks up p. 988 footers 4–5 (rendered `[^2]`, `[^3]`) and the fresh sequences of pp. 989–991.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the slugs here run continuously through pp. 988–991. The opening footer (1, Matth. 26:41) is the p. 988 footer 1, which migrated forward from the preceding chunk (d43-a2-q1 consumed only p. 988 footers 2–3); this question then picks up p. 988 footers 4–5 (rendered 2, 3) and the fresh sequences of pp. 989–991.
 
 [^1]: **La.** Matth. 26, 41: *Spiritus quidem promptus est, caro autem infirma.* — Paulo inferius pro *immo est* cod. T substituit *immo etiam*.
     **En.** Matthew 26:41: *The spirit indeed is willing, but the flesh is weak.* — A little below, for *immo est* codex T substitutes *immo etiam*.

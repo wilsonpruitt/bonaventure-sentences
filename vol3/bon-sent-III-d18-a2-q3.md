@@ -138,7 +138,7 @@ On the same question: Alexander of Hales, loc. cit., q. 18, m. 6, a. i. — Bl. 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are slugged by page (`[^pNNN-K]`).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are slugged by page (pNNN-K).
 
 [^p391-6]: **La.** In cod. N adiectum invenimus et habetur in littera, ubi a Magistro (hic c. 5.) verba, quae hic Augustino tribuuntur, allata sunt ad illustrandum testimonium Ambrosii (re vera est Alcuini, in Hebr. 9, 15.) ibi adductum. Cfr. August., XIII. de Trin. c. 10. n. 13. seqq., de quo etiam infra agetur d. 20. q. 6. in testimonio allegato.
     **En.** In codex N we found it added, and it is contained in the text, where by the Master (here c. 5) the words which are here attributed to Augustine are adduced to illustrate the testimony of Ambrose (it is in reality Alcuin's, on Heb. 9, 15) adduced there. Cf. Augustine, *On the Trinity* XIII, c. 10, n. 13 ff., concerning whom it will also be treated below, d. 20, q. 6, in the testimony alleged.

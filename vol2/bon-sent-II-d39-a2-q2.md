@@ -116,7 +116,7 @@ And thus it is clear that synderesis as to its act can be impeded, yet can never
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the sequence here runs continuously ([^1]–[^16]) across pp. 911–913.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the sequence here runs continuously (1–16) across pp. 911–913.
 
 [^1]: **La.** Psalm. 13, 2. Glossa invenitur apud Petr. Lombardum, in hunc loc.; cfr. Glossa interlin. in Ps. 52, 2.
     **En.** Psalm 13:2. The Gloss is found in Peter Lombard, on this passage; cf. the interlinear Gloss on Ps. 52:2.

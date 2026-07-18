@@ -141,7 +141,7 @@ Thus therefore it is clear that sin, insofar as it holds the character of fault,
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; here notes [^1]–[^6] are page 951, [^7]–[^11] are page 952, and [^12]–[^17] are page 953.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; here notes 1–6 are page 951, 7–11 are page 952, and 12–17 are page 953.
 
 [^1]: **La.** Cap. 4. — Codd. T bb et alii nec non Vat. et edd. 3, 4 *possit.*
     **En.** Chapter 4. — Codices T, bb and others, as also the Vatican edition and editions 3, 4, read *possit.*

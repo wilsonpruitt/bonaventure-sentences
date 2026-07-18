@@ -120,7 +120,7 @@ But by reason of *the exaltation of the assumed nature* it was more fitting, bec
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' note in Latin (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; entries [^1]–[^11] are page 42, [^12]–[^19] are page 43.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' note in Latin (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; entries 1–11 are page 42, 12–19 are page 43.
 
 [^1]: **La.** Vat. *congruitas ad unionem in tota specie humana.*
     **En.** The Vatican edition reads *fittingness toward union in the whole human species.*

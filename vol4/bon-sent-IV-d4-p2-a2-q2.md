@@ -129,7 +129,7 @@ But a habit of this expediting kind has a threefold origin: for one is *innate*,
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this quaestio spans pp.113–115, so the markers run continuously here (`[^1]`–`[^6]` = p.113 footer notes 1–6; `[^7]`–`[^15]` = p.114 footer notes 1–9; `[^16]`–`[^18]` = p.115 footer notes 1–3). The Article-II scholion is carried in the sibling chunk a2-q1 (it covers q1+q2+q3); this quaestio has no separate scholion.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this quaestio spans pp.113–115, so the markers run continuously here (1–6 = p.113 footer notes 1–6; 7–15 = p.114 footer notes 1–9; 16–18 = p.115 footer notes 1–3). The Article-II scholion is carried in the sibling chunk a2-q1 (it covers q1+q2+q3); this quaestio has no separate scholion.
 
 [^1]: **La.** Vide supra d. 1. p. I. q. 2. ad 3.
     **En.** See above, d. 1. Pars I. q. 2. ad 3.

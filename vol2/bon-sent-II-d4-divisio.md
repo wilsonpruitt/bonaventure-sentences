@@ -61,7 +61,7 @@ For the understanding of this part, three [things] are asked. The first is, what
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–2 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, p. 130) — the dedicated `NOTAE AD COMMENTARIUM` block. The main-stream notes printed above that block on the same p.130 footer anchor the preceding chunk and are already its apparatus (`bon-sent-II-d4-littera` [^3]/[^4]) — see Notes.
+> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–2 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, p. 130) — the dedicated `NOTAE AD COMMENTARIUM` block. The main-stream notes printed above that block on the same p.130 footer anchor the preceding chunk and are already its apparatus (`bon-sent-II-d4-littera` 3/4) — see Notes.
 
 [^1]: **La.** Vat. in hac propositione pro *habitibus* bis substituit *habilitudinibus*; sequentem autem prop. sic exhibet: *In hac parte agit de habilitatibus in statum perfectum constituentibus, unde inquirit, utrum Angeli mox ut creati sunt, fuerint beati et perfecti.*
 

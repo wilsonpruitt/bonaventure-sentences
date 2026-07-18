@@ -116,7 +116,7 @@ Here it is asked whether, when it is said: *God of God, light of light*, and the
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi critical apparatus (NOTAE AD LIBR. SENTENTIARUM, reflowed from the two-column footnote bands on printed pp. 464–466) in Latin, followed by an English rendering. The page 466 left-column footer band continues the NOTAE AD LIBR. SENTENTIARUM (entries [^15]–[^18]); the page 466 right-column band labelled NOTAE AD COMMENTARIUM belongs to the d.27 commentary that opens on the same page and is not reproduced here. A few anchors have been placed at the closest unambiguous body position; positional refinement of [^4], [^5], [^9], and [^14] is logged in `manual-review/tier2-ambiguities-d27-littera.md`.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi critical apparatus (NOTAE AD LIBR. SENTENTIARUM, reflowed from the two-column footnote bands on printed pp. 464–466) in Latin, followed by an English rendering. The page 466 left-column footer band continues the NOTAE AD LIBR. SENTENTIARUM (entries 15–18); the page 466 right-column band labelled NOTAE AD COMMENTARIUM belongs to the d.27 commentary that opens on the same page and is not reproduced here. A few anchors have been placed at the closest unambiguous body position; positional refinement of 4, 5, 9, and 14 is logged in `manual-review/tier2-ambiguities-d27-littera.md`.
 
 [^1]: **La.** Dist. praeced. c. 3, et est XII. *de Trinitate* n. 23. — Codd. BE *assignaverat* pro *assignavit*. — Locus Augustini habetur ibid., et est V. *de Trinitate* c. 3. n. 6.
 

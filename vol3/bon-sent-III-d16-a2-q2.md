@@ -147,7 +147,7 @@ that this is true of sorrow opposed to joy; but of sorrow which gives occasion f
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the slugs encode the printed page (e.g. `[^p355-3]`).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the slugs encode the printed page (e.g. p355-3).
 
 [^p355-3]: **La.** Damasc., III. de Fide orthod. c. 6. et 18. Cfr. supra lit. Magistri d. II. c. 1.
     **En.** Damascene, *On the Orthodox Faith* III, c. 6 and 18. Cf. above, the text of the Master, d. II, c. 1.

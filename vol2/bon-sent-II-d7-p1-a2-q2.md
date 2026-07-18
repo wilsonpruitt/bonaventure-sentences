@@ -136,7 +136,7 @@ nothing that he does is imputed; but to the obstinate demons the evils which the
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–9 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 185–186). Quaracchi restarts footnote numbering on each printed page: this chunk opens at the foot of p.185 (the preceding chunk a2-q1's Solutio 4 + editorial Scholion I–IV occupied p.185 above and carried no numbered apparatus, so all of p.185's footer ¹–⁵ is this chunk's — see Notes): p.185 (→ [^1]–[^5]), p.186 (→ [^6]–[^9]). The editorial Scholion I–II carries no numbered apparatus (inline cross-refs + the Baius/Jansenius condemned-propositions note); it spans p.187, whose footer is wholly the next chunk's (`bon-sent-II-d7-p1-a2-q3`'s QUAESTIO III) — see Notes.
+> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–9 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 185–186). Quaracchi restarts footnote numbering on each printed page: this chunk opens at the foot of p.185 (the preceding chunk a2-q1's Solutio 4 + editorial Scholion I–IV occupied p.185 above and carried no numbered apparatus, so all of p.185's footer ¹–⁵ is this chunk's — see Notes): p.185 (→ 1–5), p.186 (→ 6–9). The editorial Scholion I–II carries no numbered apparatus (inline cross-refs + the Baius/Jansenius condemned-propositions note); it spans p.187, whose footer is wholly the next chunk's (`bon-sent-II-d7-p1-a2-q3`'s QUAESTIO III) — see Notes.
 
 [^1]: **La.** Dialog. de lib. arb. c. 3.
 

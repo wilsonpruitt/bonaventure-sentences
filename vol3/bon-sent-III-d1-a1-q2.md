@@ -128,7 +128,7 @@ Since therefore in the union of natures, or the incarnation, the divine person b
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi editors' note; **En.** is the literal translation. Quaracchi restarts footnote numbering on each printed page; here the markers are slugged continuously so every `[^N]` is unique: footnotes [^1]–[^11] are page 12 (printed footers 1–11), and [^12]–[^22] are page 13 (printed footers 1–11) — see Notes for the per-page map.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi editors' note; **En.** is the literal translation. Quaracchi restarts footnote numbering on each printed page; here the markers are slugged continuously so every N is unique: footnotes 1–11 are page 12 (printed footers 1–11), and 12–22 are page 13 (printed footers 1–11) — see Notes for the per-page map.
 
 [^1]: **La.** Libr. 1. de Fide orthod. c. 8. Cfr. tom. 1. pag. 460, nota 3, ubi integer textus (secundum ed. Migne) habetur.
     **En.** Bk. 1, *On the Orthodox Faith*, c. 8. Cf. tom. 1, p. 460, note 3, where the entire text (according to the Migne edition) is given.

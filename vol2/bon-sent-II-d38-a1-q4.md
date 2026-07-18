@@ -111,7 +111,7 @@ And the ground of this is both the perfection of the moving love and the perfect
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; entries [^1]–[^10] are from p. 888, [^11]–[^14] from p. 889.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; entries 1–10 are from p. 888, 11–14 from p. 889.
 
 [^1]: **La.** Psalm. 7, 10. Verba Augustini vide hic lit. Magistri, c. 4. — Pro *illum locum* ed. I *illud*.
     **En.** Psalm 7:10. For the words of Augustine, see here in the text of the Master, c. 4. — For *illum locum* (that passage) ed. I reads *illud*.

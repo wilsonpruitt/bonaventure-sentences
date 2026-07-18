@@ -171,7 +171,7 @@ The first principle is so understood that that ordination is from God according 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. [^1]–[^10] are p.852 footers 2–11 (received from a2-q2, which claimed only p.852 footer 1); [^11]–[^16] are p.853 footers 1–6. The SCHOLION carries no body footnote markers.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. 1–10 are p.852 footers 2–11 (received from a2-q2, which claimed only p.852 footer 1); 11–16 are p.853 footers 1–6. The SCHOLION carries no body footnote markers.
 
 [^1]: **La.** Vers. 13.
     **En.** Verse 13.

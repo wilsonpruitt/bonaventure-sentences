@@ -118,7 +118,7 @@ or which directly tends toward the impediment of perfection, is not binding, as 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; here QUAESTIO III's own footers — p.878 nn.7–10 (the lower-page band; nn.1–6 belong to the preceding question, a3-q2) renumber as [^1]–[^4], p.879 nn.1–8 as [^5]–[^12], and p.880 nn.1–9 as [^13]–[^21].
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; here QUAESTIO III's own footers — p.878 nn.7–10 (the lower-page band; nn.1–6 belong to the preceding question, a3-q2) renumber as 1–4, p.879 nn.1–8 as 5–12, and p.880 nn.1–9 as 13–21.
 
 [^1]: **La.** P. 878, not. 7. Vide infra in fundam. I. verba Bedae.
     **En.** P. 878, note 7. See below, in fundamentum I, the words of Bede.

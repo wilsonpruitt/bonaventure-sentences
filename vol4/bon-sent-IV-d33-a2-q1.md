@@ -127,7 +127,7 @@ it happens also that, once lost, it cannot be recovered. — But with respect to
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers `[^p753-1]`–`[^p753-9]` are page 753's footer sequence, `[^p754-1]`–`[^p754-3]` are page 754's.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers p753-1–p753-9 are page 753's footer sequence, p754-1–p754-3 are page 754's.
 
 [^p753-1]: **La.** Vide supra pag. 319, nota 4. et pag. 326, nota 4. — De definitione, quam Aristot. (II. Ethic. c. 6.) exhibet, et quam codd. N aa post *illud idem* subiungunt *scilicet virtus est, quae habentem perficit*, cfr. supra pag. 113, nota 4.
      **En.** See above p. 319, note 4, and p. 326, note 4. — On the definition which Aristotle (Nicomachean Ethics II, c. 6) gives, and which codices N aa append after *illud idem* ("that same thing"), namely *scilicet virtus est, quae habentem perficit* ("that is, virtue is that which perfects the one having it"), cf. above p. 113, note 4.

@@ -132,7 +132,7 @@ But the reason why the Church instituted [this] is that this Sacrament is saluta
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk gathers the ARTICULUS II opener's note (printed at the foot of page 293, n. 1 of that page's left column — the remaining p. 293 notes belong to the preceding question on the Sacrament's efficacy and are not rendered here), page 294's notes 1–9, and page 295's notes 1–3 (page 295's notes 4–6 belong to the following QUAESTIO II). Markers are renumbered [^1]–[^13] by body order.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk gathers the ARTICULUS II opener's note (printed at the foot of page 293, n. 1 of that page's left column — the remaining p. 293 notes belong to the preceding question on the Sacrament's efficacy and are not rendered here), page 294's notes 1–9, and page 295's notes 1–3 (page 295's notes 4–6 belong to the following QUAESTIO II). Markers are renumbered 1–13 by body order.
 
 [^1]: **La.** Cfr. infra dub. 4. nec non II. Sent. d. 36. dub. 4, et magis explicite d. 41. a. 2. q. 1. — Finem arg. insinuat August., I. de Baptismo contra Donatistas, c. 1. n. 2: *Nulli enim Sacramento iniuria facienda est.*
      **En.** Cf. below dub. 4, and also II Sent. d. 36. dub. 4, and more explicitly d. 41. a. 2. q. 1. — Augustine hints at the purpose of the argument, I *On Baptism against the Donatists*, c. 1. n. 2: *For no injury must be done to a Sacrament.* [p. 293, n. 1]

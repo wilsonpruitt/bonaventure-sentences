@@ -21,7 +21,7 @@ format_version: 1
 
 # bon-sent-I-d30-a1-q3
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Body footnotes [^1]–[^11] are the Quaracchi critical apparatus for the quaestio; footnotes [^s1]–[^s8] belong to the Scholion.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Body footnotes 1–11 are the Quaracchi critical apparatus for the quaestio; footnotes s1–s8 belong to the Scholion.
 
 ## Latin
 

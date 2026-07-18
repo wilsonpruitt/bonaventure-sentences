@@ -111,7 +111,7 @@ In another way it can be responded that *to will* is taken in us in two ways: in
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the markers here are renumbered continuously [^1]–[^23] across pp. 690–692.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the markers here are renumbered continuously 1–23 across pp. 690–692.
 
 [^1]: **La.** Vide scholion ad praecedentem quaest.
     **En.** See the scholion to the preceding question.

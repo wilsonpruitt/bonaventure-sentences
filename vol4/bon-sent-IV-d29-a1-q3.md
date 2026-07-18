@@ -113,7 +113,7 @@ Third it is asked, whether someone can be compelled to marriage by a father's pr
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries two per-page series (p.702 notes 4–7, p.703 notes 1–6), renumbered consecutively [^1]–[^10] for this file.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries two per-page series (p.702 notes 4–7, p.703 notes 1–6), renumbered consecutively 1–10 for this file.
 
 [^1]: **La.** Vers. 6: *Non accipias uxorem de filiabus Chanaan*. Cfr. ibid. v. 1: *Noli accipere coniugem de genere Chanaan*.
     **En.** Verse 6: "Do not take a wife from the daughters of Canaan." Cf. ibid. v. 1: "Do not take a wife from the race of Canaan."

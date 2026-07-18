@@ -245,7 +245,7 @@ But it must not be passed over in silence that often in Scripture under the name
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi note in Latin (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; this chunk spans pp. 549–553, renumbered continuously [^1]–[^28]. Entries [^1]–[^3] are the p.549 "NOTAE AD LIBR. SENTENTIARUM" footers received as a hand-off from the d.23-dubia chunk (they serve the Cap. I content opening lower on p.549).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi note in Latin (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; this chunk spans pp. 549–553, renumbered continuously 1–28. Entries 1–3 are the p.549 "NOTAE AD LIBR. SENTENTIARUM" footers received as a hand-off from the d.23-dubia chunk (they serve the Cap. I content opening lower on p.549).
 
 [^1]: **La.** Dist. V. c. 5.
     **En.** Distinction V, chapter 5.

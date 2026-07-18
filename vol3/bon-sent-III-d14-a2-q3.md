@@ -233,7 +233,7 @@ Opinion 5, which distinguishes in God the objects of the knowledge of *vision* a
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are page-suffixed (`[^p312-N]`, `[^p313-N]`, …). **La.** gives the Quaracchi note verbatim; **En.** gives the English.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are page-suffixed (p312-N, p313-N, …). **La.** gives the Quaracchi note verbatim; **En.** gives the English.
 
 [^p312-1]: **La.** Edd. cum multis codd. perperam *et ideo non sic oportet, quod si alia* etc.; nostram lectionem accepimus a cod. M. Etiam codd. B H W bb habent *quod sic alia*, nec non cod. C, qui deinde pro *secundum quod* substituit *sicut*. Paulo inferius pro *sed habitualiter*, quod codd. A H omittunt, in edd. et nonnullis codd. legitur *sed solum habitualiter*. Subinde pro *essentialiorem* cod. K *naturaliorem*, codd. F G L N T V Z incongrue *essentialem*.
 

@@ -162,7 +162,7 @@ If it is asked as to fact, it is commonly affirmed that all the non-natural acts
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–17 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 178–180). Quaracchi restarts footnote numbering on each printed page: this chunk begins on p.178 (the preceding chunk's editorial Scholion I–II tail occupied the top of p.178 and carried no numbered apparatus, so all of p.178's footer ¹–⁹ is this chunk's — see Notes): p.178 (→ [^1]–[^9]), p.179 (→ [^10]–[^13]), p.180 (→ [^14]–[^17]). The editorial Scholion I–III carries no numbered apparatus (only inline parenthetical cross-refs); p.180 footer note ⁵ (Isidore) anchors the next chunk's QUAESTIO III and is not reproduced here.
+> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–17 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 178–180). Quaracchi restarts footnote numbering on each printed page: this chunk begins on p.178 (the preceding chunk's editorial Scholion I–II tail occupied the top of p.178 and carried no numbered apparatus, so all of p.178's footer ¹–⁹ is this chunk's — see Notes): p.178 (→ 1–9), p.179 (→ 10–13), p.180 (→ 14–17). The editorial Scholion I–III carries no numbered apparatus (only inline parenthetical cross-refs); p.180 footer note ⁵ (Isidore) anchors the next chunk's QUAESTIO III and is not reproduced here.
 
 [^1]: **La.** Vers. 15. — Glossa invenitur apud Petrum Lombardum in hunc locum. Cfr. etiam Hieronym. in Ps. 33, 15.
 

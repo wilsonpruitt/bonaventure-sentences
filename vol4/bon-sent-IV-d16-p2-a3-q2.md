@@ -106,7 +106,7 @@ The last, however, does not hold. For although a mortal sin, so long as it is mo
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi editors' note verbatim; **En.** is a literal rendering. Quaracchi restarts footnote numbering on each printed page; entries [^1]–[^2] are page 410's notes 7–8, and [^3]–[^17] are page 411's notes 1–15.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi editors' note verbatim; **En.** is a literal rendering. Quaracchi restarts footnote numbering on each printed page; entries 1–2 are page 410's notes 7–8, and 3–17 are page 411's notes 1–15.
 
 [^1]: **La.** Cfr. Apoc. 21, 27.
      **En.** Cf. Revelation 21:27.

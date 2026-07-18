@@ -166,7 +166,7 @@ If you ask whether he is *saved* otherwise[^2p154]; it must be said that if an *
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page, so labels carry a page suffix for pages 153–154 (e.g. `[^1p153]`). **Page 152** carries footer notes 1–12; notes 1–3 belong to the preceding chunk (a. 1, q. 2) and are not rendered here — this chunk claims notes 4–12. **Page 153** carries notes 1–8 (all this chunk). **Page 154** carries notes 1–4; note 4 belongs to the following question (a. 2, q. 2) and is forwarded, not rendered here — this chunk claims notes 1–3.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page, so labels carry a page suffix for pages 153–154 (e.g. 1p153). **Page 152** carries footer notes 1–12; notes 1–3 belong to the preceding chunk (a. 1, q. 2) and are not rendered here — this chunk claims notes 4–12. **Page 153** carries notes 1–8 (all this chunk). **Page 154** carries notes 1–4; note 4 belongs to the following question (a. 2, q. 2) and is forwarded, not rendered here — this chunk claims notes 1–3.
 
 [^4]: **La.** (p. 152, n. 4) Plurimi codd. addunt *secundo.*
 

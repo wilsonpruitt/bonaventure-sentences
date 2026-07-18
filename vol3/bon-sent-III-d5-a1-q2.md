@@ -115,7 +115,7 @@ from others: therefore if assumption says union and conjunction, it seems that i
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; these are the footer notes of printed pages 124–125. (Markers suffixed `b` are the second per-page sequence — printed page 125's notes — suffixed only so that each `[^N]` definition is unique for the build parser; on the page they render as Quaracchi's per-page 1–7.)
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; these are the footer notes of printed pages 124–125. (Markers suffixed `b` are the second per-page sequence — printed page 125's notes — suffixed only so that each N definition is unique for the build parser; on the page they render as Quaracchi's per-page 1–7.)
 
 [^1]: **La.** Cod. Y pro *aliqua persona.* Subinde pro *ibi* edd. *in.* (p.124, footer note 1)
     **En.** Codex Y reads *aliqua persona* ("some person"). Thereafter, for *ibi* ("there") the editions read *in.* (printed page 124, footer note 1)

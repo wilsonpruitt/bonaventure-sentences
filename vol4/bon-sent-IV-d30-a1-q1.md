@@ -139,7 +139,7 @@ On the first question: Scotus, here q. 1. — St. Thomas, here q. 1, aa. 1–2; 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers [^1]–[^10] are page 707's footer sequence, [^11]–[^15] are page 708's.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers 1–10 are page 707's footer sequence, 11–15 are page 708's.
 
 [^1]: **La.** Cfr. II. Sent. d. 25. p. 1. q. 3. ad 5. et d. 38. a. 2. q. 2. in corp.
      **En.** Cf. II Sent., d. 25, p. 1, q. 3, ad 5, and d. 38, a. 2, q. 2, in the body.

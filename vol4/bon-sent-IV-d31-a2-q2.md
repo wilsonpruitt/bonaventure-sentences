@@ -101,7 +101,7 @@ Secondly it is asked whether conjugal intercourse for the sake of avoiding forni
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers [^1]–[^2] are page 724's footer sequence (nn. 1–2, anchored in this question's opening on the lower half of p. 724), and [^3]–[^11] are page 725's (nn. 1–9; the remaining page-725 footer, n. 10, belongs to the following quaestio).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers 1–2 are page 724's footer sequence (nn. 1–2, anchored in this question's opening on the lower half of p. 724), and 3–11 are page 725's (nn. 1–9; the remaining page-725 footer, n. 10, belongs to the following quaestio).
 
 [^1]: **La.** Hic c. 5; his verbis, Hug. a S. Vict., *Sum. Sent.* tr. 7, c. 3, ut ipse dicit, sententiam Augustini *de Bono nuptiarum* exhibet. Cfr. Petr. Lombard. in I. Cor. 7, 1. Respicitur in ipsa Matth. 6, 12. — Plures codd. omittunt *Augustinus*.
      **En.** Here c. 5; in these words Hugh of St. Victor, *Summa Sententiarum* tr. 7, c. 3, as he himself says, sets forth the opinion of Augustine's *On the Good of Marriage*. Cf. Peter Lombard on 1 Cor. 7, 1. Reference is made in it to Matt. 6:12. — Several codices omit *Augustinus*.

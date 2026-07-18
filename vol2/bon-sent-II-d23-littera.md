@@ -86,7 +86,7 @@ Moreover it is wont to be asked, “why God permitted man to be tempted, whom He
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives **La.** = the Latin apparatus as printed in Quaracchi, followed by **En.** = a literal English rendering. Quaracchi numbers the apparatus per printed page (NOTAE AD LIBR. SENTENTIARUM); here the entries from p. 529 (footers 1–2) and p. 530 (footers 1–11) are renumbered continuously as [^1]–[^13].
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives **La.** = the Latin apparatus as printed in Quaracchi, followed by **En.** = a literal English rendering. Quaracchi numbers the apparatus per printed page (NOTAE AD LIBR. SENTENTIARUM); here the entries from p. 529 (footers 1–2) and p. 530 (footers 1–11) are renumbered continuously as 1–13.
 
 [^1]: **La.** Vat. cum aliis edd., exceptis 1, 8, *fore*, refragantibus codd. Paulo inferius post *in natura* cod. D bene addit *haberet*.
 

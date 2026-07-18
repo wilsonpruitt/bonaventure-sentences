@@ -139,7 +139,7 @@ And through this is made plain that which was lastly asked, namely concerning th
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk spans pp.782–784. p.782 nn.5–8 → [^1]–[^4] (nn.1–4 on p.782 belong to the preceding QUAESTIO IV = a1-q4); p.783 nn.1–9 → [^5]–[^12]; p.784 nn.1–4 → [^13]–[^16].
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk spans pp.782–784. p.782 nn.5–8 → 1–4 (nn.1–4 on p.782 belong to the preceding QUAESTIO IV = a1-q4); p.783 nn.1–9 → 5–12; p.784 nn.1–4 → 13–16.
 
 [^1]: **La.** Libr. I. *Moral.* c. 32. n. 44, super *Iob* 1, 4, ait: *Fortitudo in die suo convivium facit, quia, dum adversa non metuit, trepidanti menti cibos confidentiae apponit.* — Pro *super principium Iob* codd. H K Z *super primum Iob.*
     **En.** [Gregory,] *Morals* book I, c. 32, n. 44, on *Job* 1:4, says: "Fortitude makes a banquet on its day, because, while it does not fear adversities, it sets before the trembling mind the food of confidence." — For *super principium Iob* (on the beginning of Job) codices H K Z [read] *super primum Iob* (on the first [book of] Job).

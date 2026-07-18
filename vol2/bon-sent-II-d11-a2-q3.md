@@ -172,7 +172,7 @@ guarding the evil. — *To incident question 1.* For they will, by an *absolute*
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the original Quaracchi note in Latin followed by an English translation. Quaracchi restarts footnote numbering on each printed page; here the markers are renumbered continuously across the four printed pages of this chunk. Page 286's footnotes nn. 1–3 were retained in the preceding chunk d11-a2-q2; nn. 4–7 are carried forward here as [^1]–[^4]. Page 289's footnotes nn. 1–2 anchor in this chunk; nn. 3–5 are reserved for the following chunk d11-dubia.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the original Quaracchi note in Latin followed by an English translation. Quaracchi restarts footnote numbering on each printed page; here the markers are renumbered continuously across the four printed pages of this chunk. Page 286's footnotes nn. 1–3 were retained in the preceding chunk d11-a2-q2; nn. 4–7 are carried forward here as 1–4. Page 289's footnotes nn. 1–2 anchor in this chunk; nn. 3–5 are reserved for the following chunk d11-dubia.
 
 [^1]: **La.** Codd. W X Y bb cc *et quia.*
     **En.** Codices W, X, Y, bb, cc read *et quia.*

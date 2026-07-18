@@ -137,7 +137,7 @@ Here it is asked what that stain is, and what those interior darknesses are, fro
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. These are the *NOTAE AD LIBR. SENTENTIARUM* (notes to the Lombard text). Quaracchi restarts footnote numbering on each printed page and prints them per column; within this file the markers are numbered continuously `[^1]–[^17]`. Page-block split: `[^1]–[^2]` = p.465 left col, `[^3]–[^4]` = p.465 right col; `[^5]–[^8]` = p.466 left col, `[^9]–[^10]` = p.466 right col; `[^11]–[^14]` = p.467 left col, `[^15]` = p.467 right col; `[^16]–[^17]` = p.468 left col. The *NOTAE AD COMMENTARIUM* on p.468 right col belong to the following commentary chunk and are forwarded.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. These are the *NOTAE AD LIBR. SENTENTIARUM* (notes to the Lombard text). Quaracchi restarts footnote numbering on each printed page and prints them per column; within this file the markers are numbered continuously 1–17. Page-block split: 1–2 = p.465 left col, 3–4 = p.465 right col; 5–8 = p.466 left col, 9–10 = p.466 right col; 11–14 = p.467 left col, 15 = p.467 right col; 16–17 = p.468 left col. The *NOTAE AD COMMENTARIUM* on p.468 right col belong to the following commentary chunk and are forwarded.
 
 [^1]: **La.** Matth. 16, 19. Inferius respicitur Luc. 5, 4.
      **En.** Matt. 16:19. Below Luke 5:4 is regarded.

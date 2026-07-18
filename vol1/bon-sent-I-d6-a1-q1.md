@@ -132,7 +132,7 @@ That last species of necessity, which the holy Doctor in the body [of the articl
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** marks the Latin entry as printed in the Quaracchi edition; **En.** marks our English rendering. *Page 125 contains entries [^1]–[^8]; page 126 contains entries [^9]–[^18].*
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** marks the Latin entry as printed in the Quaracchi edition; **En.** marks our English rendering. *Page 125 contains entries 1–8; page 126 contains entries 9–18.*
 
 [^1]: **La.** Vat. *respondet ad haereticum hominem arguendo*, sed obstant mss. et ed. 1.
      **En.** The Vatican edition reads *he responds to the heretical man by arguing*, but the manuscripts and the first edition stand against [it].
