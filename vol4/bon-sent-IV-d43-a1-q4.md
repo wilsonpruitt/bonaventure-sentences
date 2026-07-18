@@ -26,7 +26,7 @@ format_version: 1
 
 ## Latin
 
-> The numbered footnotes below correspond to markers placed in both the Latin body above and the English translation. They are anchored page by page (`[^pNNN-M]`), because the Quaracchi edition restarts its footer numbering on each printed page; in this question they run across pp. 887–891.
+> The numbered footnotes below correspond to markers placed in both the Latin body above and the English translation. They are anchored page by page (page-qualified, in the form p-page-number followed by the note number), because the Quaracchi edition restarts its footer numbering on each printed page; in this question they run across pp. 887–891.
 
 <!-- page 887 -->
 

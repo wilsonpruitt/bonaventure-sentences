@@ -162,7 +162,7 @@ diverse things[^p527-1]; so an article is so called, because it behooves [one] t
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi editors' Latin note; **En.** gives its English rendering. The footnote numbering restarts on each printed page, per the Quaracchi convention. **ID scheme:** p.524's notes use the disambiguated ids `p524b-1..4` because the prior chunk (a2-q3) already owns `[^p524-1..4]` for q3's ad-argg on the *same* printed page; these `p524b` notes are the FRESH p.524 footer sequence glossing the ARTICULUS III opener. Pages 525 and 526 use the plain `p525-N` / `p526-N` ids (this q1 owns the whole footer band of each).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi editors' Latin note; **En.** gives its English rendering. The footnote numbering restarts on each printed page, per the Quaracchi convention. **ID scheme:** p.524's notes use the disambiguated ids p524b-1..4 because the prior chunk (a2-q3) already owns note p524-1..4 for q3's ad-argg on the *same* printed page; these `p524b` notes are the FRESH p.524 footer sequence glossing the ARTICULUS III opener. Pages 525 and 526 use the plain `p525-N` / `p526-N` ids (this q1 owns the whole footer band of each).
 
 [^p524b-1]: **La.** Cod. F supplet *visio ista*. Paulo inferius pro *manuductivam* edd. 1, 2 *manuductione*, Vat. *manuductione ratiocinationis*.
     **En.** Codex F supplies *visio ista*. A little below, for *manuductivam* editions 1, 2 [read] *manuductione*, the Vatican edition *manuductione ratiocinationis*.
