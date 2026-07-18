@@ -4,302 +4,178 @@ volume: 4
 book: 4
 distinctio: 45
 type: littera
+title_la: "Littera Magistri (Lombard), Distinctio XLV — De receptaculis animarum et de suffragiis pro defunctis"
+title_en: "The text of the Master (Lombard), Distinction XLV — On the abodes of souls and on suffrages for the dead"
+printed_pages: [936, 937, 938]
+pdf_pages: [956, 957, 958]
 line_start: 99598
 line_end: 99877
-word_count_latin: 1923
-transcription_status: "auto-chunked 2026-06-16"
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 936–938"
+has_scholion: false
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR (raw lines 99598–99877) with 450dpi column-band verification, literal English translation, full apparatus (12 entries); p. 936 (DISTINCTIO XLV header, Cap. I, opening of Cap. II) added 2026-07-18 in repair of a running-head-bleed line-range error (2026-07-18)"
 format_version: 1
 ---
 
-# bon-sent-IV-d45-littera
+# d.45 littera
+## *Littera Magistri (Lombard), Distinctio XLV — De receptaculis animarum et de suffragiis pro defunctis*
+
+---
 
 ## Latin
 
-DISTmCTIO XLV.
+> **On the footnote numbering.** Quaracchi restarts its footer numbering on every printed page, so this chunk carries three independent sequences: notes 1–2 of page 936, notes 1–5 of page 937 and notes 1–5 of page 938. They are given page-qualified labels below so that no two definitions collide.
 
+<!-- page 936 -->
 
-                                                                Cap.          I.                                                       viverent, ut haec sibi poslea possent prodesse, merue-                                               !
+### Cap. I. *De diversis animarum receptaculis post mortem.*
 
+Praeterea sciendum est, quod omnes animae, ut ait Augustinus[^p936-1], «cum de saeculo exierint, diversas habent receptiones: bonae habent gaudium, malae tormenta. Sed cum facta fuerit resurrectio, et bonorum gaudium amplius erit, et malorum tormenta graviora, quando cum corpore torquebuntur». — Ex his ostenditur, quod maius erit gaudium Sanctorum in resurrectione et post, quam fuerit ante; et quod diversa *receptacula* habebunt animae Sanctorum. De quibus idem Augustinus ait: «Tempus, quod inter hominis mortem et ultimam resurrectionem interpositum est, animas abditis receptaculis continet, sicut unaquaeque digna est vel requie, vel aerumna, pro eo quod sortita est in carne, dum viveret».
 
+### Cap. II. *De suffragiis defunctorum.*
 
+«Neque negandum est, ut ait Augustinus, defunctorum animas pietate suorum viventium relevari, cum pro illis sacrificium Mediatoris[^p936-2] offertur, vel eleemosynae fiunt in Ecclesia. Sed eis haec prosunt, qui, cum viverent, ut haec sibi postea possent prodesse, meruerunt. Est enim *quidam* vivendi modus, nec tam *bonus*, ut non requirat ista post mortem, nec tam *malus*, ut ei non prosint ista post mortem; est vero *talis in bono*, ut ista non requirat; et est rursus *talis in malo*, ut nec his valeat, cum haec vita transierit, adiuvari. Quocirca hic omne meritum comparatur, quo possit post hanc vitam quispiam gravari, vel relevari. Nemo autem speret, quod hic neglexit, cum obierit, apud Deum promereri. Non igitur ista quae pro defunctis commendandis frequentat Ecclesia, illi apostolicae sunt adversa sententiae, qua dictum est: *Omnes astabimus ante tribunal Christi, ut referat unusquisque, secundum ea quae per corpus gessit*, scilicet *bona vel mala*; quia etiam hoc meritum sibi quisque, cum in corpore viveret, comparavit, ut possint ei ista prodesse; non enim omnibus prosunt. Et quare non? Nisi propter differentiam vitae, quam quisque gessit in corpore. Cum ergo sacrificia, sive altaris, sive quarumcumque eleemosynarum, pro baptizatis omnibus offeruntur, pro *valde bonis* gratiarum actiones sunt, pro non *valde malis* propitiationes sunt. Sed pro *valde malis*, etiamsi nulla sunt adiumenta mortuorum, tamen qualescumque vivorum consolationes sunt. Quibus vero prosunt vel ad hoc prosunt, ut sit plena remissio, vel certe ut tolerabilior sit ipsa damnatio». «Orationibus ergo sanctae Ecclesiae et sacrificio salutari et eleemosynis, quae pro eorum spiritibus offeruntur, non est dubium mortuos
 
-                                                                                                                                       runt. Est eiiim quidam vivendi modus, nec tam bonus,                                                 •
+<!-- page 937 -->
 
+adiuvari, ut cum eis misericordius agatur a Domino, quam eorum peccata meruerunt. Hoc enim a Patribus traditum tota observat Ecclesia, ut pro eis qui in communione corporis et sanguinis Christi defuncti sunt, cum ad ipsum sacrificium loco suo commemorentur, oretur, ac pro illis quoque id offerri commemoretur. Non est igitur ambigendum, ista prodesse defunctis, sed talibus, qui ita vixerunt ante mortem, ut possint eis haec utilia esse post mortem. Nam qui sine *fide operante per dilectionem* eiusque Sacramentis de corpore exierunt, frustra illis a suis huiusmodi pietatis officia impenduntur, cuius, dum hic essent, pignore caruerunt, non misericordiam sibi *thesaurizantes*, sed *iram*. Non ergo mortuis nova merita comparantur, cum pro eis aliquid boni operantur sui, sed eorum praecedentibus consequentia ista redduntur. Nam istam quisque finiens vitam, nisi quod in ea meruerit, non poterit habere post eam». — Ecce, quibus et qualiter prosint illa quae pro defunctis frequentat Ecclesia: *mediocriter malis* suffragantur ad poenae mitigationem; *mediocriter bonis* ad plenam absolutionem, qui non habent tantae perfectionis merita, ut non indigeant iuvari per *pauperes, quorum est regnum caelorum*, quos sibi fecerunt *amicos de mammona iniquitatis*; quorum tanta est perfectio, ut his adiutoriis non indigeant, quales sunt Apostoli et Martyres. Ut enim ait Augustinus[^p937-1]: «Iniuria est pro Martyre orare in Ecclesia, cuius nos debemus orationibus commendari; pro aliis autem defunctis oratur».
 
+### Cap. III. *De officiis sepulturae.*
 
+De pompis vero exsequiarum idem Augustinus[^p937-2] ita dicit: «Pompa funeris, agmina exsequiarum, sumptuosa diligentia sepulturae vivorum sunt qualiacumque solatia, non adiutoria mortuorum. Si aliquid prodest impio sepultura pretiosa, oberit pio vilis vel nulla. Praeclaras exsequias in conspectu hominum purpurato illi diviti exhibuit turba famulorum, sed multo clariores in conspectu Domini ulceroso illi pauperi ministerium exhibuit Angelorum, qui eum extulerunt non in marmoreum tumulum, sed in Abrahae gremium». «Sit tamen cura mortuos sepeliendi et sepulcra construendi, quia haec in Scripturis sanctis inter bona opera deputata sunt, nec solum in corporibus Patriarcharum aliorumque Sanctorum, sed etiam in ipsius Domini corpore qui ista fecerunt laudati sunt. Impleant igitur haec homines erga suos officia postremi muneris et sui humani lenimenta moeroris. Verum illa quae adiuvant spiritus defunctorum, scilicet oblationes, orationes multo observantius procurent».
 
-                                                                                                                                                                                                                                            '
+### Cap. IV. *De duobus aeque bonis, quorum alter post mortem plura habet auxilia.*
 
+Solet moveri quaestio de duobus, uno divite, altero paupere, pariter, sed *mediocriter bonis*, qui praedictis suffragiis indigent et meruerunt pariter post mortem iuvari; pro altero vero, id est pro divite, speciales et communes fiunt orationes multaeque eleemosynarum largitiones, pro paupere vero non fiunt nisi communes orationes. Quaeritur ergo, an tantum iuvetur pauper paucioribus subsidiis, quantum dives amplioribus. Si non pariter iuvatur, non ei redditur secundum merita, meruit[^p937-3] enim pariter iuvari, quia pariter boni exstiterunt; si vero tantum suffragii consequitur, quantum dives; quid contulerunt diviti illa specialiter pro eo facta? — Sane dici potest, non ei magis valuisse generalia et specialia, quam pauperi sola generalia suffragia. Et tamen profuerunt diviti specialia, non quidem ad aliud vel maius aliquid, sed ad idem, ad quod generalia, ut ex pluribus et diversis causis unum perciperetur emolumentum. — Potest tamen dici aliter, illa plura subsidia contulisse diviti celeriorem absolutionem, non *pleniorem*.
 
+### Cap. V. *Quibus suffragiis iuvabuntur in fine reperti.*
 
+Sed iterum quaeritur de aliquo mediocriter bono, qui, talibus indigens suffragiis, in ipso consummationis saeculi articulo cum reliquis[^p937-4] migrabit, si salvus fuerit. Pro eo non offertur ulterius sacrificium vel oratio vel eleemosyna, nec habebat tantae perfectionis merita, quae his suffragiis non egerent. Nunquid ergo salvabitur? — Existimo, eum, *quasi per ignem transeuntem*, salvari meritis et intercessionibus caelestis Ecclesiae, quae pro fidelibus semper intercedit voto et merito, *donec impleatur Christus*.
 
-                  De diversis animarum receptaculis post mortem.                                                                       ul non requirat ista post mortem, nec tam malus,ul
-                                                                                                                                       ei non prosint isla post morlem; est vero talis in bono,                                             \
+### Cap. VI. *Quomodo Sancti et glorificati vel Angeli audiunt preces supplicantium et intercedunt pro eis.*
 
+Sed forte quaeris: nunquid preces supplicantium Sancti audiunt, et vota postulantium in eorum notitiam perveniunt? — Non est incredibile, animas Sanctorum, quae *in abscondito faciei Dei*[^p937-5] veri luminis illustratione laetantur, in ipsius contemplatione ea quae foris aguntur, intelligere, quantum vel illis ad gaudium, vel nobis ad auxilium pertinet. Sicut enim Angelis, ita et
 
+<!-- page 938 -->
 
+Deo assistunt Sancti, quibus petitiones nostrae innotescunt in Verbo Dei, quod contemplantur. Unde et dicuntur Angeli *orationes et vota nostra offerre Deo*, non quia eum doceant, sed quia eius voluntatem super eis consulunt. Unde Augustinus[^p938-1]: «Angelis, qui sunt apud Deum, innotescunt petitiones nostrae, ut quodam modo eas offerant Deo et de his consulant, et quod Deo iubente, implendum esse cognoverint, hoc nobis vel evidenter, vel latenter reportent. Unde et Angelus hominibus ait: *Cum oraretis, orationem vestram obtuli Deo*». «Ad omnia quidem scienda sufficit Deo sua perfectio; habet tamen nuntios, id est Angelos, non qui ei quae nescit, annuntient — non enim sunt ulla, quae nesciat — sed bonum eorum est de operibus suis eius consulere veritatem, et hoc est, quod ei dicuntur nonnulla nuntiare, non ut ipse ab eis discat, sed ut ab eo ipsi per Verbum eius sine corporali sono. Nuntiant[^p938-2] etiam quod voluerit, ab eo missi ad quos voluerit, totum ab illo per illud Verbum eius audientes, id est in eius veritate invenientes, quid sibi faciendum, quid, quibus et quando nuntiandum sit. Nam et nos, orantes eum, non eum docemus, quia *novit*, ait Verbum eius, *Pater vester, quid vobis necessarium sit, priusquam petatis ab eo*. Nec ista *ex tempore* cognovit, sed futura omnia temporalia atque in eis etiam, quid et quando ab illo petituri fueramus, et quos et de quibus rebus vel exauditurus, vel non exauditurus esset, *sine initio ante* praescivit». «Non ergo dicitur Angelus[^p938-3] orationes nostras offerre Deo, quasi Deus tunc noverit, quid velimus et quo indigeamus, quae omnia, antequam fiant, sicut et postquam facta sunt, novit; sed quia necesse habet rationalis creatura temporales causas ad aeternam veritatem referre, sive *petendo*, quid erga se fiat, sive *consulendo*, quid faciat».
 
-                   Praeterea scienduni est, quod onines animae, ul                                                                     ul ista non requirat; el est rursus talis in malo , ut                                               !
+Si autem Angeli a Deo per Verbum eius discunt petitiones nostras, et quid de his implendum sit et quid non; cur non credamus, et animas Sanctorum Dei faciem contemplantium in eius veritate intelligere preces hominum, et quae implendae sint, vel non? Inde est, quod Deus dicitur exaudire preces quorundam, non solum, quando effectui mancipat, sed etiam, quando innotescit curiae Angelorum et sanctarum animarum, quid inde futurum sit, vel non; et quod cognoscunt in Dei voluntate esse, volunt et ipsi. Adeo enim supernae Veritati[^p938-4] addicti sunt, ut nihil praeter eius voluntatem queant velle. Intercedunt igitur ad Deum pro nobis Sancti et *merito*, dum eorum merita suffragantur nobis, et *affectu*, quia vota nostra cupiunt impleri; quod tamen non faciunt, nisi in voluntate Dei implenda didicerint. Oramus ergo, ut intercedant pro nobis, id est, ut merita eorum nobis suffragentur, et ut ipsi velint bonum nostrum, quia, eis volentibus, Deus vult, et ita fiet. — Ex praemissis constat, quod cum quibusdam misericordius agit Deus, quam aliqua[^p938-5] eorum peccata meruerint, scilicet cum mediocriter malis, qui suffragiis Ecclesiae iuvantur.
 
-
-
-
-Angnsiinns. ait   AugusUiHis    « cum de saeculo exierint, diversas
-                                               ' ,                                                                                     nec his valeat, cum haec vita transierit, adiuvari. Quo-                                             i
-
-
-
-
-           habent recepUones: bonae habeiit gaudium, malae lor-                                                                        circa hic onine             merilum comparatur, quo                             possit post          \
-
-
-
-
-           menta. Sed                    cum          facla     fuerit             resurreclio            ,     et    bonorum          hanc vitam quispiam gravari vel reJevari. Nenio au- ,                                                I
-
-
-
-
-            gaudium amplius eril, et malorum lormenta graviora                                                                         tem sperel, quod hic neglexit, cum obieril, apud Deum
-                                                                                                —
-                                                                                                                                                                                                                                            |
-
-                                                                                                                                                                                                                                            '
-
-
-
-
-            quando cum corpore (orquebuntur ».    Ex his osten-                                                                        promereri.          Non igitur isla quae pro defunclis commen-
-Dubinm 1. dltur, quod maius ei-it gaudium Sanctorum in resur-                                                                          dandis frequenial Ecclesia, illi apostolicae sunt adversa                                            '
-
-
-
-
-            recUone et post, quam fuerit ante; et quod diversa                                                                         sententiae, qua dictum est: Omnes astabimus ante Iri-                                                \
-
-
-
-
-            receptacula habebunt animae Sanctorum. De quibus                                                                           bunal Christi, ut referat unusguisque, secunduni ea                                                  \
-
-
-
-
-Angastinns. idem AugusUnus ait:   «Tempus, quod inter hominis                                                                          quae per corpus gessit, scilicel bona vel mala; quia                                                 {
-
-
-
-
-           mortem              resurrecUonem interposilum est,
-                                  et ultimani                                                                                          eliam hoc meritum                  sibi      quisque,            cum in corpore vi-
-Dubinm 2. animas abdilis i-eceptaculis conlinet, sicut unaquaeque                                                                      verel, comparavit, ut possiut ei ista prodesse; non                                                  l
-
-
-           digna est vel requie, vel aerumna, pro eo                                                                 quod       soi-   enim omnibus prosunt. Et quare non? Nisi propler dif-                                                i
-
-
-
-
-           lita est in                   carne,        dum viveret».                                                                   rerentiam vilae,   quam quisque gessit in corpore. Cum                                               ;
-
-
-
-
-                                                                                                                                       ergo sacrificia, sive altaris, sive quarumcumque eleemo-                                             i
-
-
-
-
-                                                                                                                                       synarum, pro baptizatis omnibus offeruntur, pro valde
-                                                                Cap.          II.
-                                                                                                                                                                                                                                            \
-
-
-
-
-                                                                                                                                       bonis gratiarum acUones sunt, pro non valde malis                                                    \
-
-
-
-
-                                                                                                                                       propitiationes sunt. Sed pro valde malis, etiamsi nulla
-                                           De su/fragiis defunctorum.                                                                  sunt adiumeiita             mortuorum, tamen qualescumque                                   vi-
-
-                                                                                                                                       vorum consolaUones sunt. Quibus vero prosunl vel ad
-                  Neque negaudum esl ut ait AugusUiius defun-
-                        «                                                 ,                                             ,              hoc prosunt, ut sit plena reniissio, vel cerle ul tole-
-Augnsiinus. ctorum animas pielate suorum viventium relevari, cum                                                                       rabilior sit ipsa damnatio ». «Orationibus ergo sanctaeAoi
-
-            pro     illis           sacrificium                Mediatoris^ offertur, vel eleemo-                                       Ecclesiae et sacrificio salutari et eleemosynis, quae pro ""^
-            synae            flunt in Ecclesia. Sed eis haec prosunt, qui, cum                                                          eorum spirilibus             offeruntur,           non         est   dubium mortuos
-
-
-
-
-                    '       Idem dub. solvunt B. Alborl., liic a. 44; Richard. a Med.,                                                                     NOTAE AD LIBR. SENTENTIARUM.
-            hic clrca             lit.
-                                                                                                                                               '
-                                                                                                                                                   In    Evang.   loan.    ir.    49. n.       10; seq. locus est Enchirid.
-                    2       Ita   recte cod. F, in               aliis        et    edd. divisa; infra pio vide-                        c.   109. n. 29, et C.           Tempus (23.), C.              13. q. 2.       — Idem     locus
-
-            tur ,       quod cod. U ea ratione et.                                                                                      continuatur in cap. seq., sed est c.               1   10. n. 29. et in        eodem can.
-                    3 Cfr.          Avicenna,           III.    Canon. Fen 20.                 tr.       I.     c.   4.3.                      -   Ita   recte in originali et in can., in editis vero Medialori;
-                    ^       Vide de hoc dubio                   S.       Thom.,           hic circa           lit.                      cilantur ibi       Rom.    14,    10;     II.   Cor. 5,        10.   —    In    Vulgata    sta-
-                                                                                                                               ,:
-
-
-
-
-                                                                                                           DISTINCTIO XLV.                                                                                                                 937
-
-is.   adiiivari, lU              cum eis misericordiiis agatur                                    a    Domino,                                                                 Cap. IV.
-      quam            eorum peccata meruerunt. Hoc enim a Palrihus
-      tradilum tota observat Ecclesia, ut pro eis qui iii coni-                                                                      De duobus aeqice bonis , quorum alter post mortem
-      munione corporis et sauguinis Christi defuncti sunl                                                                                                         'plura habet auxilicc.
-      cum ad ipsum sacriflcium loco suo commemoreulur,
-      oretur, ac pro illis quoque id offerri commemoretur.                                                                                  Solet moveri quaestio de                                duobus, uno divite,                    al- Qoaestio.
-
-      Non est igilur ambigendum, isla prodesse defunclis,                                                                           lero paupere, pariter, sed mediocriter bonis, qui prae-
-      sed talibus, qui ita vixeruut ante mortem, ut possint                                                                         dictis sulfragiis indigeut el merucrunt pariter post mor-
-
-      eis haec utilia esse post mortem. Nam qui sine fide                                                                           tem iuvari; pro altero vero, id                                      est     pro divite, specia-
-      operanle per dilectionem eiusque Sacramenlis de cor-                                                                          les et       communes fiunt oratioues mullaequc eleemosy-
-      pore exierunt, frustra illis a suis Iniiusmodi pietalis                                                                       narum largiliones, pro paupere vero nou fiunt nisi com-
-      offlcia impcnduutur, cuius, dum hic essent, pignore                                                                           munes orationes. Quaei'itur ergo au lantum iuvetur                      ,
-
-
-
-
-      caruerunt, non misericordiam                                   sibi         thesaurizanles , sed                              pauper pauciorihus subsidiis, quanlum dives ampliori-
-      iram. Non ergo mortuis nova merila comparantnr, cum                                                                           bus. Si uon pariter iuvalur, noii ei redditur secundum
-      pro eis aiiquid boni operantur sui, sed eorum praece-                                                                         merita, meruit^ enim pariter iuvari, quia pariter boni
-      dentibus consequentia                       ista       redduntur. Nam islam quis-                                             exstiterunt; si vero tantum suffragii consequitur, quan-
-      que    finiens         vitam,        uisi    quod         in       ea meruerit,                      uon po-                  lum dives; quid contulerunt diviti                                          illa   specialiter pro
-      terit liabere              post    eam ».         — Ecce, quibus                            et qualiter                       eo facla ?            — Sane         dici potest,                    uou      ei    magis valuisse Resp. i.
-      prosiut illa quae pro defuuctis frequcntal Ecclesia me-                                                        :              generalia et specialia ,                  quam pauperi sola generalia suf-
-      dioeriler malis suffragantur ad poeuae mitigationem                                                                      ;    fragia.       Et lamen profuerunl                              divili       specialia,      non qui-
-      mediocriler bonis ad plenam absolutionem, qui nou ha-                                                                         dem ad aliud vel maius aliquid, sed ad idem, ad quod
-      bent tantae perfeetionis merita, ut non indigeant iuvari                                                                      generalia, ut ex pluribus et diversis causis unum per-
-ii.\iev pauperes,                 quorum est reqnum caelorum , quos sibi                                                            ciperelur eniolumentum.                            — Potest tamen                   dici aliter, illa Resp. 2.
-
-      fecerunl amicos de mammona iniquitatis; quorum tanla                                                                          plura subsidia conlulisse diviti celeriorem absolutionem,
-      est perfectio, ut                  his adiutoriis                  non indigeant, quales                                      non pleniorem.
-as.   sunt Apostoii               ct    Martyres.            Ut enim                ail    Aiigustinus '
-5.    «   Iniuria est pro Martyre orare in Ecclesia, cuius uos                                                                                                                     Cap. V.
-      debemus orationibus commendari                                         ;
-                                                                                  pro     aliis   autem de-
-      functis oratur ».                                                                                                                      Quihus suffrugiis iuvccbwitur in fine reperti.
-
-
-                                                  Cap.        III.                                                                          Sed iterum quaerilur de aliquo mediocriler bono                                                  ,    Quaesiio.
-
-                                                                                                                                    qui, talibus indigens suffragiis, in ipso consummationis
-                                       De officiis sepicllicrae.                                                                    saeculi articulo cuni reliquis* migrabit,                                            si   salvus fue-
-                                                                                                                                    rit.    Pro eo non offertur ulterius sacrificium vel oratio
-          De pompis vero exsequiarum idem Augustinus ^ ita                                                                          vel eleemosyna, nec                   habebat tantae perfectionis nierita, Dabinm 6.
-03. dicil: « Pompa funeris, agmina exsequiarum, sumptuosa                                                                           quae his suffragiis non egerent. Nunquid ergo salvabi-
-    diligentia sepulturae vivorum sunt qualiacumque sola-                                                                           tur?        — Existimo, eum, 9?Ms«                              joe?'       icjnem Iranseuntem, Resp.
-    tia, non adiutoria mortuorum. Si aliquid prodest Impio                                                                          salvari merilis el                  intercessionibus caelestis Ecclesiae,
-
-      sepultura pretiosa, oberit pio                                    vilis      vel nulla. Praecla-                              quae pro fidelihus semper                                  inlercedit              volo   et     merito,
-      ras exsequias in conspectu                             hominum purpuralo illi di-                                             donec impleahir Christus.
-      viti   exhibuit turba famulorum                               ,    sed multo clariores                                  in
-
-      conspeclu Domini ulceroso                              iili   pauperi minislerium ex-                                                                                    Cap. VI.
-      hibuit Angelorum, qui eum extulerunl non in marmo-
-      reum tumulum, sed in Abrahae gremium». « Sit ta-                                                                                     Quomodo Sancti et glorificccli vel Angeli audiunt
-      men cura mortuos sepeliendi et sepulcra construeudi,                                                                                      preces supplicantium et intercedunl pro                                             eis.
-
-      quia haec in Scripturis sanctis intcr bona opera depu-
-      tata sunt, nec solum in corporibus Patriarcharum alio-                                                                                Sed       forte quaeris :                  uunquid preces supplicantium Qnaestio.
-      rumque Sanctorum scd eliam in ipsius Domini corpore
-                                           ,                                                                                        Sancli audiunt, et vota postulanlium in eorum notitiam
-      qui ista lecerunt iaudati sunt. Impleant igitur haec ho-                                                                      perveniunt?            — Non          est incredihile,                      animas Sanctorum, Resp.
-      mines erga suos officia postremi muneris et sui humani                                                                        quae in abscondito fccciei Dei^ veri luminis illustratione
-      lenimcnta moeroris. Verum illa quae adiuvant spiritus                                                                         laetantur, in ipsius contemplatione ea quae foris agun-
-      defunctorum, scilicet oblationes, orationes multo obser-                                                                      tur, intelligere, quantum vel illis ad gaudium, vel no-
-
-      vantius procurcnt ».                                                                                                          bis     ad auxilium pertinet. Sicut enim                                            Angelis, ita        et
-
-
-
-
-      bimus pro astabimus. Seq. locus ost eiusdem, Serm. 172. (alias                                                                Serm. supra           cit.   (72.    c.   2.       n.    3, ubi edd., excepta I, omittunt
-
-      32.)   de Verbis Apostoli, c.                     2.     n.       2,   habetur etiam                 in Glossa                haec ante homines, refragante etiam originali.
-                                                                                                                                            s   Ed.       meruerunt; deinde cod. C et paucae edd. post con-
-      apud Lyranum, 1.                 Tliess.    4,     13.    Ibidem respiciuntur Gal. S, 6,                                                        1
-
-
-
-
-      et Rom. 2, 5.                                                                                                                 sequilur addunt pauper.
-             '    Serm. 139.           (alias    17.)    dc     Verbis Aposloli,                      c.        1.       n.   I.            *   Ed.   1   reliquiis      (scil.            pcccatorum).           Deinde respicilur          1.
-
-
-      Paulo superius respiciuntur Matlli.                           5,3;           Luc.     16, 9.                                  Cor. 3,       15, et, ut videtur               ,       Epli.    3,    19.
-
-             ^    De Cura gerenda pro mortuis,                               c.   2. n. i; cfr.            I.   dc Civ.                     5   Respicitur Ps. 30, 21                  ;    deinde       Phil.     4, 6, el Tob. 3, 24.
-      Dei,       c.   12.   n.   I.   Respicitur Luc.               16, 22. seqq. Seq. locus est                                    Quoad rem cfr. Hugo, II. de Sacram. p. XVI. c.                                            11.
-
-                       S. Bonav.         — Tom. IV.
-          938                                                                             St;NTENriARUM                        LIB. IV.
-
-
-                      Deo asslslmi, petitiones noslrae innotescunl
-          Saiiclis, qiii                                                                                                  noslras offerre Deo,quasi Deus tunc noverit, quid ve-
-          in Verbo Dei, quoil conlemplanliir. Uncle et dicunlur                                                           limus el quo indigeamus, quae omnia, antequani fiant,
-          Angeli oralioues et vota noslra offerre Deo^ non quia                                                           sicut et postquani facla sunt, novit; sed quia iiecesse
-
-          euin (loceant, sed quia eius volunlatem super eis cou-                                                          habet rationalis creatura temporales causas ad aeter-
-Angnsunas. sulunl.      Uudc Augusliuus                  '
-                                                             :   «Augelis, qui             sunl apud                      nam veritatein referre, sive petendo, quid erga se fiat,
-Dabinm 7. Deuui, innotescuHt pelitiones nostrae, ul quodam niodo                                                          sive consule7ido, quid faciaf».
-          eas offerantDeo el de his consulant, et quod Deo iu-                                  ,                                Si        aulem Angeli a Deo per Verbum eius discunt
-          bente, implendum esse cognoverint, hoc nobis vel evi-                                                           petitiones nostras, et quid de his implendum                                  sil et     quid
-          denler, vel latenter reportent. Unde et Angelus homi-                                                           uon; cur non credamus,                              et   animas Sanctorum Dei              fa-   De
-                                                                                                                                                                                                                           San
-          nibus ait: Ciun oraretis , oraliunem veslram obtuH                                                              ciem conlemplantium                          in eius veritate intelligere preces
-
-          Deo». « Ad oninia quidem scienda sullicit Deo sua per-                                                          liominum et quae implendae sint, vel non? Inde est,
-                                                                                                                                            ,
-
-
-
-          iectio;      habel tamen nuntios,                       id    esl   Angelos,              non           (|ui    quod Deus dicilur exaudire preces quorundam nou                                      ,
-
-
-
-
-          ei    quae nescit, annuntient                      — uon enim sunt               ulla,          quae            solum, quando effectui mancipat, sed etiam, quando in-
-Dnbinm 8. nesciat      — scd bonum eorum                          est   de operibus suis eius                             notescit curiae Augelorum et sanclarum animarum,
-          consulere ventatem,et hoc est, quod ei dicuntur non-                                                            quid inde fulurum sit, vel non;                                 et quod    cognoscunt in
-          nulla nuntiare, non ut ipse ab eis discat,sed utaheo                                                            Dei voluntate esse, volunt et                               ipsi.   Adeo enim supernae
-Dnbinm 9. ipsi pcr        Verbuui eius sine corporali sono. Nuntiant"                                                     Veritali* addicli sunt, ut nihil praeter eius voluntatem
-          etiam quod voluerit, ab eo missi ad quos voluerit, to-                                                          queant           velle.   hitercedunt igitur ad Deum pro nobis
-
-          Inm ab illo per illud Verbum eius audientes,id est in                                                           Sancti et inerito,             dum eorum rnerita suffragantur no-
-          eius veritale           invenientes, quid sibi                      faciendum, quid,                            bis, el affectu , (\am vota nostra cupiunt impleri;                                      quod
-          quibus et quando nuntiandum sit. Nam et nos, orantes                                                            tanien non faciunt, nisi                          iii    voluntate Dei implenda            di-
-
-          eum, non eum docemus, quia novit, ait Verbum eius,                                                              dicerinl. Oramus ergo, ut intercedant pro nobis, id est,
-
-          Pater vester, qv.id vobis necessarium sit, friusquam                                                            ut merita             eorum nobis suffragentur, et                         ut ipsi   veiint
-
-          petatis ab eo. Nec ista ex tempore cognovit, sed futura                                                         bonum nostrum, quia, eis volentibus, Deus vult, et ita
-          omnia temporalia atque in eis etiam quid et quando                   ,                                          fiet.  —Ex praemissis constat, quod cura quibusdam
-          ab illo petituri fueramus, et quos et de quibus rebus                                                           misericordius agit Deus, quam aliqua'^ eorum peccata
-          vel exauditurus, vel uon exaudilurus esset, sme initio                                                          meruerint, scilicet cum mediocriler malis, qui suffra-
-          ante praescivit». «Non ergo dicitur Angelus oraliones                                                           giis Ecclesiae iuvantur.
+---
 
 ## English
 
-[Translation pending]
+<!-- page 936 -->
+
+### Chapter I. *On the diverse abodes of souls after death.*
+
+Furthermore it must be known that all souls, as Augustine says[^p936-1], «when they have gone forth from the world, have diverse receptions: the good have joy, the evil torments. But when the resurrection has taken place, both the joy of the good will be greater, and the torments of the evil heavier, when they shall be tormented together with the body». — From these things it is shown that the joy of the Saints will be greater in the resurrection and after it than it was before; and that the souls of the Saints will have diverse *abodes*. Concerning which the same Augustine says: «The time which is interposed between a man's death and the final resurrection holds souls in hidden abodes, according as each is worthy either of rest or of hardship, in view of what it obtained by lot in the flesh while it lived».
+
+### Chapter II. *On the suffrages for the dead.*
+
+«Nor is it to be denied, as Augustine says, that the souls of the departed are relieved by the piety of their own living kin, when the sacrifice of the Mediator[^p936-2] is offered for them, or alms are given in the Church. But these things profit those who, while they lived, merited that these things should afterwards be able to profit them. For there is a certain manner of living neither so *good* that it does not require these things after death, nor so *evil* that these things cannot profit it after death; but there is one *such in good* that it does not require them; and there is again one *such in evil* that it cannot be helped by them when this life has passed. Wherefore every merit whereby anyone can be burdened or relieved after this life is procured here. But let no one hope to obtain from God after he has died what he neglected here. Therefore those things which the Church performs for commending the departed are not contrary to that apostolic sentence in which it is said: *We shall all stand before the tribunal of Christ, that each one may render an account according to the things which he has done through the body*, namely *good or evil*; because each one procured for himself this merit also, while he lived in the body, so that these things might be able to profit him; for they do not profit all. And why not? Except because of the difference of the life which each led in the body. When, therefore, sacrifices, whether of the altar or of alms of any kind whatever, are offered for all the baptized, for the *very good* they are thanksgivings, for the *not very evil* they are propitiations. But for the *very evil*, even though they are no helps to the dead, they are nevertheless consolations of some sort for the living. And those whom they do profit, they profit unto this: that there may be full remission, or at least that the damnation itself may be more tolerable». «By the prayers, therefore, of holy Church and by the saving sacrifice and by the alms which are offered for their spirits, there is no doubt that the dead are
+
+<!-- page 937 -->
+
+to be helped, so that the Lord may deal with them more mercifully than their sins have deserved. For the whole Church observes this, handed down from the Fathers, that for those who have died in the communion of the body and blood of Christ, when they are commemorated in their own place at the sacrifice itself, prayer be made, and that it be commemorated that it is offered for them also. There is therefore no room for doubt that these things profit the departed, but only such as have so lived before death that these things can be of use to them after death. For as to those who have gone forth from the body without *faith working through love* and without His Sacraments, in vain are offices of piety of this sort bestowed upon them by their own, since, while they were here, they lacked the pledge of it, *treasuring up* for themselves not mercy, but *wrath*. Therefore no new merits are procured for the dead when their own do something good for them, but these things are rendered as consequences of what went before. For no one, ending this life, will be able to have after it anything except what he has merited in it». — Behold, for whom and in what manner those things profit which the Church performs for the departed: for the *moderately evil* they avail unto the mitigation of punishment; for the *moderately good*, unto full absolution — those, that is, who do not have merits of such perfection that they need no help from the *poor, whose is the kingdom of heaven*, whom they have made for themselves *friends of the mammon of iniquity*; whose perfection is so great that they need not these helps, such as are the Apostles and the Martyrs. For as Augustine says[^p937-1]: «It is an injury to pray for a Martyr in the Church, to whose prayers we ourselves ought to be commended; but for the other departed prayer is made».
+
+### Chapter III. *On the offices of burial.*
+
+But concerning the pomps of funerals the same Augustine[^p937-2] speaks thus: «The pomp of a funeral, the throngs of the obsequies, the costly care of burial are solaces of whatever sort for the living, not helps for the dead. If a costly burial profits the impious at all, a cheap one or none at all will harm the pious. A crowd of servants displayed splendid obsequies in the sight of men for that rich man clothed in purple, but far more splendid in the sight of the Lord was the ministry of the Angels displayed for that ulcerous poor man, who bore him not into a marble tomb, but into Abraham's bosom». «Let there be, nevertheless, care for burying the dead and for constructing sepulchres, because these things are reckoned in the holy Scriptures among good works, and those who did these things were praised not only in the bodies of the Patriarchs and of the other Saints, but even in the body of the Lord Himself. Let men therefore fulfil these offices of the last service toward their own, and these soothings of their human grief. But let them procure with far greater diligence those things which help the spirits of the departed, namely oblations and prayers».
+
+### Chapter IV. *On two equally good men, of whom one has more helps after death.*
+
+A question is wont to be raised about two men, one rich, the other poor, equally but *moderately good*, who need the aforesaid suffrages and have equally merited to be helped after death; but for the one, that is, for the rich man, both special and common prayers are made and many bestowals of alms, whereas for the poor man only common prayers are made. It is asked, therefore, whether the poor man is helped as much by fewer aids as the rich man by more. If he is not equally helped, it is not rendered to him according to his merits, for he merited[^p937-3] to be equally helped, since they were equally good; but if he obtains as much of suffrage as the rich man, what did those things specially done for the rich man confer upon him? — It can soundly be said that the general and the special suffrages did not avail him more than the general suffrages alone availed the poor man. And yet the special ones did profit the rich man — not indeed unto something else or something greater, but unto the same thing unto which the general ones availed, so that from more and diverse causes one benefit might be received. — Yet it can be said otherwise, that those more numerous aids conferred upon the rich man a swifter absolution, not a *fuller* one.
+
+### Chapter V. *By what suffrages those found at the end will be helped.*
+
+But again a question is raised about someone moderately good who, needing such suffrages, will pass over at the very moment of the world's consummation with the rest[^p937-4], if he shall be saved. For him no sacrifice or prayer or alms is offered any longer, nor did he have merits of such perfection as would have no need of these suffrages. Will he then be saved? — I judge that he, *as one passing through fire*, is saved by the merits and intercessions of the heavenly Church, which always intercedes for the faithful by desire and by merit, *until Christ be fulfilled*.
+
+### Chapter VI. *How the Saints and the glorified, or the Angels, hear the prayers of suppliants and intercede for them.*
+
+But perhaps you ask: do the Saints hear the prayers of suppliants, and do the desires of petitioners come to their knowledge? — It is not incredible that the souls of the Saints, who rejoice *in the hiding of God's face*[^p937-5] by the illumination of the true light, understand in the contemplation of Him those things which are done outwardly, so far as pertains either to their joy or to our help. For just as the Angels, so also
+
+<!-- page 938 -->
+
+the Saints stand before God, to whom our petitions become known in the Word of God which they contemplate. Hence the Angels too are said *to offer our prayers and vows to God*, not because they teach Him, but because they consult His will concerning them. Whence Augustine[^p938-1]: «To the Angels, who are with God, our petitions become known, so that in a certain manner they may offer them to God and consult Him about them, and that what they shall have learned must be fulfilled at God's bidding, this they may report back to us either evidently or hiddenly. Whence the Angel also says to men: *When you prayed, I offered your prayer to God*». «For knowing all things God's own perfection indeed suffices; yet He has messengers, that is, Angels, not such as would announce to Him things He does not know — for there are none which He does not know — but their good is to consult His truth concerning their own works, and this is what is meant by saying that they announce certain things to Him: not that He should learn from them, but that they should learn from Him through His Word without bodily sound. They announce[^p938-2] also what He has willed, being sent by Him to whom He has willed, hearing the whole from Him through that Word of His, that is, finding in His truth what they are to do, and what and to whom and when they are to announce it. For we too, in praying to Him, do not teach Him, because *your Father knows*, says His Word, *what is necessary for you before you ask Him*. Nor did He come to know these things *in time*, but *without beginning* He foreknew beforehand all future temporal things, and in them also what and when we were going to ask of Him, and whom and concerning what matters He would hear or not hear». «The Angel is therefore not said[^p938-3] to offer our prayers to God as though God then came to know what we will and what we need — all which things He knows before they come to be, just as He knows them after they have been done; but because the rational creature must needs refer temporal causes to the eternal truth, whether by *asking* what is to be done toward itself, or by *consulting* what it is to do».
+
+But if the Angels learn from God through His Word our petitions, and what of these is to be fulfilled and what not, why should we not believe that the souls of the Saints too, contemplating the face of God, understand in His truth the prayers of men, and which of them are to be fulfilled and which not? Hence it is that God is said to hear the prayers of certain persons not only when He carries them into effect, but also when it becomes known to the court of the Angels and of the holy souls what will come of it and what will not; and what they know to be in God's will, they too will. For they are so devoted to the supernal Truth[^p938-4] that they can will nothing beside His will. The Saints therefore intercede with God for us both by *merit*, inasmuch as their merits avail for us, and by *affection*, since they desire our vows to be fulfilled; which nevertheless they do not do unless they have learned that it is to be fulfilled within God's will. We pray, therefore, that they may intercede for us, that is, that their merits may avail for us, and that they themselves may will our good, since, when they will, God wills, and so it will come to pass. — From the foregoing it is clear that with certain persons God deals more mercifully than any[^p938-5] of their sins have deserved, namely with the moderately evil, who are helped by the suffrages of the Church.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+[^p936-1]: **La.** In Evang. Ioan. tr. 49. n. 10; seq. locus est Enchirid. c. 109. n. 29, et C. *Tempus* (23.), C. 13. q. 2. — Idem locus continuatur in cap. seq., sed est c. 110. n. 29. et in eodem can.
+     **En.** *On the Gospel of John*, tractate 49, n. 10; the following passage is from the *Enchiridion*, c. 109, n. 29, and from the canon *Tempus* (23.), Causa 13, q. 2. — The same passage is continued in the following chapter, but it is c. 110, n. 29, and in the same canon.
+
+[^p936-2]: **La.** Ita recte in originali et in can., in editis vero *Mediatori;* citantur ibi Rom. 14, 10; II. Cor. 5, 10. — In Vulgata *stabimus* pro *astabimus.* Seq. locus est eiusdem, Serm. 172. (alias 32.) de Verbis Apostoli, c. 2. n. 2, habetur etiam in Glossa apud Lyranum, I. Thess. 4, 13. Ibidem respiciuntur Gal. 5, 6, et Rom. 2, 5.
+     **En.** So rightly in the original and in the canon; but in the editions *Mediatori*. There are cited in that place Romans 14:10 and 2 Corinthians 5:10. — In the Vulgate *stabimus* stands for *astabimus*. The following passage is from the same author's Sermon 172 (elsewhere 32) *On the Words of the Apostle*, c. 2, n. 2; it is found also in the Gloss in Lyra, on 1 Thessalonians 4:13. In the same place reference is made to Galatians 5:6 and Romans 2:5.
+
+[^p937-1]: **La.** Serm. 159. (alias 17.) de Verbis Apostoli, c. 1. n. 1. Paulo superius respiciuntur Matth. 5, 3; Luc. 16, 9.
+     **En.** Sermon 159 (elsewhere 17) *On the Words of the Apostle*, c. 1, n. 1. A little above, reference is made to Matthew 5:3; Luke 16:9.
+
+[^p937-2]: **La.** De Cura gerenda pro mortuis, c. 2. n. 4; cfr. I. de Civ. Dei, c. 12. n. 1. Respicitur Luc. 16, 22. seqq. Seq. locus est Serm. supra cit. 172. c. 2. n. 3, ubi edd., excepta 1, omittunt haec ante *homines*, refragante etiam originali.
+     **En.** *On the Care to be Taken for the Dead*, c. 2, n. 4; cf. *On the City of God* I, c. 12, n. 1. Reference is made to Luke 16:22 ff. The following passage is from the Sermon cited above, 172, c. 2, n. 3, where the editions, except the first, omit these words before *homines*, the original likewise being against them.
+
+[^p937-3]: **La.** Ed. 1 *meruerunt*; deinde cod. C et paucae edd. post *consequitur* addunt *pauper*.
+     **En.** The first edition reads *meruerunt*; then codex C and a few editions add *pauper* after *consequitur*.
+
+[^p937-4]: **La.** Ed. 1 *reliquiis* (scil. peccatorum). Deinde respicitur I. Cor. 3, 15, et, ut videtur, Eph. 3, 19.
+     **En.** The first edition reads *reliquiis* (that is, of sins). Then reference is made to 1 Corinthians 3:15, and, as it seems, Ephesians 3:19.
+
+[^p937-5]: **La.** Respicitur Ps. 30, 21; deinde Phil. 4, 6, et Tob. 3, 24. Quoad rem cfr. Hugo, II. de Sacram. p. XVI. c. 11.
+     **En.** Reference is made to Psalm 30:21; then to Philippians 4:6, and Tobit 3:24. As to the matter, cf. Hugh, *On the Sacraments* II, part XVI, c. 11.
+
+[^p938-1]: **La.** Epist. 130. (alias 121.) ad Probam, c. 9. n. 18; et citatur Tob. 12, 12. Seq. locus est eiusdem, XV. de Trin. c. 13. n. 22.
+     **En.** Letter 130 (elsewhere 121) *to Proba*, c. 9, n. 18; and Tobit 12:12 is cited. The following passage is from the same author's *On the Trinity* XV, c. 13, n. 22.
+
+[^p938-2]: **La.** Ita codd., edd. 2, 3, 7 et originale; in aliis *nuntient*, quod coniungunt cum praecedente *ut* et sequente *etiam*. Ed. 1 sic: *annuntient. Annuntiant etiam.* Deinde citatur Matth. 6, 8.
+     **En.** So the codices, editions 2, 3, and 7, and the original; in the others *nuntient*, which they join with the preceding *ut* and the following *etiam*. The first edition reads thus: *annuntient. Annuntiant etiam.* Then Matthew 6:8 is cited.
+
+[^p938-3]: **La.** Epist. 140. (alias 120.) ad Honoratum, c. 29. n. 69. Cfr. Eccli. 23, 29.
+     **En.** Letter 140 (elsewhere 120) *to Honoratus*, c. 29, n. 69. Cf. Ecclesiasticus 23:29.
+
+[^p938-4]: **La.** Ita codd. et ed. 1, in aliis *voluntati*, Erf. *civitati*.
+     **En.** So the codices and the first edition; in the others *voluntati*, the Erfurt codex *civitati*.
+
+[^p938-5]: **La.** Edd., excepta 1, et refragantibus codd., omittunt *aliqua*.
+     **En.** The editions, except the first, and against the codices, omit *aliqua*.
+
+---
 
 ## Notes
 
-[Notes pending]
+**REPAIR, 2026-07-18 — p. 936 prepended.** This chunk originally began at raw L99733 and rendered only pp. 937–938. That was a running-head bleed error: d.45's real `DISTINCTIO XLV.` header stands at raw **L99598**, OCR-garbled as `DISTmCTIO XLV.` (the IN ligature read as `m`); the L99733 occurrence is the printed-p. 937 running head. Raw **L99598–L99732** — the distinction header, Lombard's **Cap. I**, and the opening of **Cap. II**, all printed on **p. 936** — belonged to no chunk (`bon-sent-IV-d44-p2-dubia` nominally covered those lines but rendered none of them; its `line_end` has since been corrected to 99597). That material is now transcribed and translated above, and the chunk's `line_start`, `printed_pages`, `pdf_pages` and `source` have been corrected accordingly. The "Unmapped text found" report in an earlier version of these Notes is hereby **resolved**.
+
+**Provenance.** Latin re-set from the IA djvu OCR, raw lines 99598–99877, verified throughout against the 450 dpi column bands `/tmp/colcrop/vol4-p936-{L,R}-{0,1,2}.png`, `vol4-p937-{L,R}-{0,1,2}.png` and `vol4-p938-{L,R}-{0,1,2}.png`. No bands were regenerated. Read column-by-column (Left top→bottom, then Right), not in raw-line order — the OCR interleaves the two columns and drops the Cap. IV/V/VI headers of the right column into the middle of the left column's Cap. II/III text. No bands were regenerated; the existing crops (split_x = 1880) were legible for every line needed.
+
+**Chapter map (all of the Master's chapter headers in range).** **Cap. I** *De diversis animarum receptaculis post mortem* (p. 936 left col.); **Cap. II** *De suffragiis defunctorum* (p. 936 left col., foot, running across p. 936 right col. and onto p. 937 left col.); **Cap. III** *De officiis sepulturae* (p. 937 left col.); **Cap. IV** *De duobus aeque bonis, quorum alter post mortem plura habet auxilia* (p. 937 right col., top); **Cap. V** *Quibus suffragiis iuvabuntur in fine reperti* (p. 937 right col.); **Cap. VI** *Quomodo Sancti et glorificati vel Angeli audiunt preces supplicantium et intercedunt pro eis* (p. 937 right col., foot, running through both columns of p. 938). The dispatch brief expected Cap. IV at the top of p. 937; that holds only for the **right** column — the left column carries the tail of Cap. II and the whole of Cap. III.
+
+**Marginal rubrics trimmed.** Quaracchi's outer-margin editorial rubrics — *Augustinus.* (three times on p. 936), *Dubium 1.*, *Dubium 2.*, *Dubium 3.*, *Quaestio.*, *Resp. 1.*, *Resp. 2.*, *Dubium 6.* through *Dubium 9.*, *De Sanctis.*, and the small marginal numerals — bleed inline in the OCR and have been removed from the body per the OCR-cleanup rule for marginalia. They are editorial apparatus, not Lombard's text.
+
+**Page → apparatus split map.**
+- **p. 936.** This page carries **two independent footer series**, and they divide cleanly between two chunks with **no double-claim**:
+  - the **left**-column footer (nn. 1–4: *Idem dub. solvunt B. Albert.*; *Ita recte cod. F … divisa*; *Cfr. Avicenna*; *Vide de hoc dubio S. Thom.*) annotates **Bonaventure's Dubia** and is claimed by `bon-sent-IV-d44-p2-dubia` as its `note p936-1`–`note p936-4`. **Not claimed here.**
+  - the **right**-column footer headed `NOTAE AD LIBR. SENTENTIARUM` annotates **Lombard's littera** and is claimed here. It has exactly **two** numbered entries, both anchored in this body: 1 → *ut ait Augustinus* (Cap. I opening); 2 → *sacrificium Mediatoris* (Cap. II opening). d.44's Notes explicitly excluded this block, and this chunk claims none of the left-column series — the split is symmetric and complete.
+  - **Label caution for the coordinator:** `note p936-1`–`note p936-2` in *this* file and `note p936-1`–`note p936-4` in *`bon-sent-IV-d44-p2-dubia`* denote **different** notes from different p. 936 footer series. They cannot collide at render time (separate files, separate footnote scopes), but any cross-file apparatus concordance must key on file + label, not label alone.
+  - The p. 936 `NOTAE` note 2 breaks off mid-word at *— In Vulgata sta-* and is completed by the **unnumbered continuation** at the head of p. 937's left footer (*bimus pro astabimus. Seq. locus est eiusdem, Serm. 172. …*). That continuation has been **folded into `note p936-2`**, which is where its anchor lies. This resolves the orphan flagged in the previous version of these Notes; it is claimed once and only once.
+- **p. 937** (`NOTAE AD LIBR. SENTENTIARUM`): notes 1–5, **all five claimed here**, all five anchored in this body (1 → *Ut enim ait Augustinus*, Cap. II; 2 → *idem Augustinus ita dicit*, Cap. III; 3 → *meruit enim pariter iuvari*, Cap. IV; 4 → *cum reliquis migrabit*, Cap. V; 5 → *in abscondito faciei Dei*, Cap. VI). The p. 937 footer also opens with an **unnumbered continuation** (*bimus pro astabimus. Seq. locus est eiusdem, Serm. 172. …*) completing p. 936's note 2; it is rendered above inside `note p936-2`, not as a p. 937 entry.
+- **p. 938** (`NOTAE AD LIBR. SENTENTIARUM`): notes 1–5, **all five claimed here**, all five anchored in this body. The divisio chunk shares p. 938 but anchors none of this sequence.
+
+**Hand-off forwarded to `bon-sent-IV-d45-divisio` (L99878–99947).** Printed p. 938 carries a **second, separate** footer block headed `NOTAE AD COMMENTARIUM.` with a single entry, belonging entirely to the divisio chunk: *1 Cod. R suffragia Ecclesiae. Subinde post infirmo edd. prosequuntur: mediocriter bono, cui decedenti in fine mundi non possunt etc.* Its body anchor is in the DIVISIO TEXTUS, at *determinat hanc quaestionem, utrum suffragia … prosint omnibus aequaliter* (p. 938 right col.). Nothing else from p. 938 is forwarded.
+
+**Hand-off picked up.** From `bon-sent-IV-d44-p2-dubia` (now L99497–99597, pp. 935–936): raw L99598–L99732 / printed p. 936 from the `DISTINCTIO XLV.` header onward, together with the p. 936 `NOTAE AD LIBR. SENTENTIARUM` footer series. That chunk correctly claimed neither, and correctly did not claim the p. 937 footer.
+
+**Nothing left unmapped.** Every line of raw L99598–L99877 is now rendered, and both p. 936 footer series are accounted for across this file and `bon-sent-IV-d44-p2-dubia`.
+
+**Seam checks.** *Opening:* the chunk now opens at the `DISTINCTIO XLV.` header itself; the immediately preceding text (d.44 Dub. II, *… et resurget homo secundum totum*) closes with a full stop, so the boundary is clean. *Cap. II internal join (the point of this repair):* p. 936 left column breaks off at *Sed eis haec prosunt, qui, cum* and p. 936 right column resumes at *viverent, ut haec sibi postea possent prodesse, meruerunt* — a single relative clause, *qui, cum viverent … meruerunt*, verified continuous on the bands. *p. 936 → p. 937 join:* the prepended text ends *… non est dubium mortuos* and the pre-existing p. 937 text begins *adiuvari, ut cum eis misericordius agatur* — accusative-plus-infinitive, *mortuos … adiuvari*, grammatically continuous; the page break falls mid-sentence and is marked with the `<!-- page 937 -->` comment. *Closing:* the closing sentence — *… scilicet cum mediocriter malis, qui suffragiis Ecclesiae iuvantur.* — parses complete and hands off cleanly to the `COMMENTARIUS IN DISTINCTIONEM XLV.` banner at L99878.
+
+**Band-vs-OCR disagreements resolved at band time (nothing parked as a flag).**
+- p. 937 note 2: the OCR reads *Serm. supra cit. (72. c. 2. n. 3*; the band confirms the text but the numeral is digit-mangled. Resolved to **172**, the sermon cited a few lines earlier in the same footer block.
+- p. 937 Cap. IV rubric: OCR *aeqice* / *auxilicc*; the band reads clearly *aeque* / *auxilia*.
+- p. 937 Cap. V rubric: OCR *iuvccbwitur*; resolved from the band and context to *iuvabuntur*.
+- p. 938, opening clause: OCR reads *Deo assistunt Sancti, qui, petitiones nostrae innotescunt*; the band shows the relative pronoun governing the dative — read as *quibus petitiones nostrae innotescunt*, which is what the syntax requires.
+- p. 938 note 3 anchor: no superscript survives in the OCR. Placed at *«Non ergo dicitur Angelus …»* on content grounds — the note cites Ecclesiasticus 23:29 (*novit … antequam fiant*), precisely the clause that quotation turns on, while the two preceding quotations are already covered by note 1 (Epist. 130 plus *de Trinitate* XV).
+
+**`[?]` flags:** none.

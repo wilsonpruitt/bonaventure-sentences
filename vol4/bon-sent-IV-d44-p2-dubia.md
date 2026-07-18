@@ -10,7 +10,7 @@ title_en: "Doubts on the Master's text (Part II)"
 printed_pages: [935, 936]
 pdf_pages: [955, 956]
 line_start: 99497
-line_end: 99732
+line_end: 99597
 source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 935–936"
 has_scholion: false
 has_apparatus: true
