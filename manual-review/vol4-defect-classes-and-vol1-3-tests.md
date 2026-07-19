@@ -6,9 +6,10 @@ which are **published**. This file is the inventory plus, for each class, the ch
 would tell us whether it reaches back — so we can decide what to sweep without committing to a
 full re-verify of 1,286 published chunks.
 
-**Nothing here has been run against Vols I–III yet** except the notes/page calibration in §1, which
-is included because it was cheap and it changes the priority order. No repairs are proposed here;
-this is a detection plan awaiting Wilson's go.
+**Status 2026-07-19:** **§3 has been built and RUN against all four volumes — 0 findings**
+(`tools/audit-promise-vs-delivery.py`; details in §3). The notes/page calibration in §1 has also
+been run. **§2, §4, §5 and §7 have NOT been run.** No repairs are proposed anywhere in this file;
+the remaining steps await Wilson's go.
 
 ---
 
