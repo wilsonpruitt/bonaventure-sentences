@@ -6,10 +6,13 @@ which are **published**. This file is the inventory plus, for each class, the ch
 would tell us whether it reaches back — so we can decide what to sweep without committing to a
 full re-verify of 1,286 published chunks.
 
-**Status 2026-07-19:** **§3 has been built and RUN against all four volumes — 0 findings**
-(`tools/audit-promise-vs-delivery.py`; details in §3). The notes/page calibration in §1 has also
-been run. **§2, §4, §5 and §7 have NOT been run.** No repairs are proposed anywhere in this file;
-the remaining steps await Wilson's go.
+**Status 2026-07-19 — steps 1–3 run.**
+* **§3 (missing questions) — RUN, 0 findings.** `tools/audit-promise-vs-delivery.py`.
+* **§4 (dubia count) — RUN, 0 findings, but Vol III has ZERO coverage.** `tools/audit-dubia-count.py`.
+* **§2 (gutter parity) — RUN, and it FAILED TO EXONERATE. The defect reaches Vols II and III,
+  confirmed visually.** See `vol4-column-gutter-parity.md`. **This is now the live concern.**
+* §1 notes/page calibration run. **§1b, §5 and §7 NOT run.**
+No repairs are proposed anywhere in this file.
 
 ---
 
@@ -118,6 +121,15 @@ not close, and the follow-up is a sampled re-verify — sized only after the mea
 **Do the measurement before assuming anything.** It is the one test here that can *exonerate* two whole
 volumes for a few minutes of compute.
 
+### ✘ RUN 2026-07-19 — DID NOT EXONERATE. Both volumes are affected.
+
+Measured against the 1660 default those sessions used: **Vol II odd pages ≈1539 (121 px too far
+RIGHT), Vol III odd pages ≈1533 (127 px too far RIGHT)**. Too-far-right is the **silent** direction —
+the R band starts inside the right column and shaves the opening characters off every line.
+Confirmed by eye on Vol III p.601: `nomen`→`iomen`, `fides`→`ides`, `perfectio`→`ectio`,
+`credit`→`redit`. 1–4 characters lost per line, and the residue still reads as plausible Latin.
+Full write-up and the suggested sampling step in `vol4-column-gutter-parity.md`.
+
 ---
 
 ## §3 — Garbled QUAESTIO headers hiding whole questions
@@ -191,10 +203,15 @@ than degraded text, and a hit is unambiguous — there is no judgement call abou
 
 **Found:** d.45 — 9 dubia printed, only 3 greppable; six were cased `DuB.` and invisible.
 
-### Test 4 — case-insensitive re-grep
+### ✔ RUN 2026-07-19 — `tools/audit-dubia-count.py` — 0 findings, but read the coverage
 
-Trivial: re-grep every volume's raw case-insensitively for dubium headers and compare against the dubia
-rendered in each distinction's dubia chunk. Pure text, seconds. Runnable today.
+Each dubia chunk compared against **its own raw line range**, case-insensitively. **0 findings.**
+Coverage is the real story: **vol1 55/55 (100%) · vol2 17/49 (35%) · vol3 0/42 (0%) · vol4 29/63 (46%)**.
+**Vol III is entirely unexamined** — it has no line ranges at all, so this is not a clean result for
+Vol III, it is *no* result. Four separate false-positive batches were found and fixed before the
+output was trusted (drifting distinction attribution; three different chunk header conventions —
+`Dub. I.`, `Dub. I`, `Dubium I.`; and Vol I's two raw files having file-specific line numbers).
+Also established that **d.48 has SEVEN dubia**, not the three that are greppable.
 
 ---
 
