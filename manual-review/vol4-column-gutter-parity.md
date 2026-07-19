@@ -92,3 +92,60 @@ add a gutter-parity re-check** over the decade's odd pages, in the same spirit a
 distinction-header seam after the `DISTmCTIO` class was found. Whether the sweep should extend back
 into d.1–d.40 is an owner decision — it is a large scope and the defect is invisible to the audits,
 so it needs sampling first to establish a rate.
+
+---
+
+# ★★ 2026-07-19 — MEASURED IN VOLS II AND III. THE DEFECT REACHES BOTH. NOT EXONERATED.
+
+This was run as step 3 of `vol4-defect-classes-and-vol1-3-tests.md`, in the hope it would clear
+Vols II and III cheaply. **It did the opposite.** Both volumes show the same parity-alternating
+gutter as Vol IV, and both were written against `colcrop.py`'s default split of **1660**.
+
+Measured gutters (450 dpi, sample across each volume):
+
+| vol | odd pages | even pages | default used | odd error | even error |
+|---|---|---|---|---|---|
+| **II** | ~1499–1568 (mean ≈1539) | ~1786–1890 (mean ≈1835) | 1660 | **≈121 px too far RIGHT** | ≈175 px too far LEFT |
+| **III** | ~1496–1574 (mean ≈1533) | ~1632–1748 (mean ≈1697) | 1660 | **≈127 px too far RIGHT** | ≈37 px too far left (minor) |
+
+**The direction matters more than the magnitude.** A split too far RIGHT means the R band begins
+*inside* the right column and shaves the opening character(s) off every line — the **silent** mode.
+A split too far LEFT clips the left column's line-*ends* — the loud mode writers notice and fix.
+
+* **Vol II** suffers both: loud on even pages (likely caught and regenerated at the time), silent on odd.
+* **Vol III** is almost entirely the **silent** mode. Its even pages are close enough to the default
+  to be fine; its odd pages are consistently ~127 px too far right.
+
+## Visual confirmation — Vol III p.601, cropped at the default 1660
+
+Measurement only *predicts* clipping, so it was confirmed by eye. Every right-column line on that
+page loses its opening character(s):
+
+```
+nomen caritatis   -> iomen caritatis      rationem virtutis -> ionem virtutis
+sicut credere     -> icut credere         alii articuli     -> lii articuli
+fides non est     -> ides non est         peccatore non est -> eccatore non est
+perfectio virtutis-> ectio virtutis       credit, quia      -> redit, quia
+quia errorem      -> uia errorem          sine alio         -> ine alio
+```
+
+**This is the silent failure in its pure form.** `ides non est in eis virtus` and `redit, quia non
+omnia credit` still read as plausible Latin; a careful writer reconstructs them in good faith and
+reports a clean run. Between 1 and 4 characters are lost per line.
+
+## What this means
+
+**Vols II and III are published, and Vol III is LIVE.** Every chunk in them whose source page was an
+odd-numbered page was written from a band missing the first characters of every right-column line.
+Most such losses reconstruct correctly from context. Some will not have.
+
+**This is NOT a claim that specific text is wrong** — no Vol II/III chunk has been re-verified against
+a correctly-cropped band yet. It is a claim that the *conditions* that produced the d.46 defect were
+present throughout both volumes.
+
+## Suggested next step — sample before scoping
+
+Do **not** open a full re-verify on this. Take a handful of Vol III chunks whose pages are odd,
+re-crop at the measured gutter, and diff the right-column line-openings against what the chunk says.
+That establishes a *rate*. The rate decides whether this is a footnote or a campaign. Sizing the
+sweep before knowing the rate would be guessing.
