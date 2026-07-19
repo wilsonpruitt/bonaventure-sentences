@@ -205,8 +205,12 @@ def find_legacy_duplicates(chunks: list[Path]) -> list[tuple[str, list[str]]]:
         lambda: defaultdict(list))
     for p in chunks:
         # Extract distinctio number + type from filename
+        # NOTE: scoped to Vol I/II by the (?:I|II) alternation. The optional
+        # -s\d+ group is the editorial "sectio" level (Vol IV d.49 P.II only,
+        # see CLAUDE.md §5a) — inert until this alternation is widened, but
+        # here so widening it doesn't silently skip d.49.
         m = re.match(
-            r"bon-sent-(?:I|II)-d(\d+)(?:-(p\d+))?-(\w+(?:-q\d+)?)\.md",
+            r"bon-sent-(?:I|II)-d(\d+)(?:-(p\d+))?(?:-s\d+)?-(\w+(?:-q\d+)?)\.md",
             p.name)
         if not m:
             continue
@@ -231,7 +235,7 @@ def find_legacy_duplicates(chunks: list[Path]) -> list[tuple[str, list[str]]]:
             has_pars = False
             for p in paths:
                 # Check if this exact filename has p1/p2 in it
-                if re.search(rf"-d{d_num}-p\d+-{re.escape(rest)}\.md$", p.name):
+                if re.search(rf"-d{d_num}-p\d+(?:-s\d+)?-{re.escape(rest)}\.md$", p.name):
                     has_pars = True
                 elif re.search(rf"-d{d_num}-{re.escape(rest)}\.md$", p.name):
                     has_nonpars = True

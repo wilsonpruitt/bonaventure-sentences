@@ -245,6 +245,19 @@ The 2026-05-08 cleanup campaign's per-distinction audit logs at `manual-review/d
 3. **Running heads ≠ semantic headers**. `DIST. VIII. P. I. ART. I. QUAEST. I.` in the middle of a file is a page-top running head, not a chapter start. Look for the bare `QUAESTIO I`, `ARTICULUS II`, or `DUB. I` lines on their own.
 4. **`TRACTATIO QUAESTIONUM`** (the listing of questions) belongs in the **divisio** chunk, not a1-q1.
 5. **Multi-pars distinctions** (p1, p2): each pars has its own `COMMENTARIUS`, `DIVISIO TEXTUS`, and `TRACTATIO QUAESTIONUM`. Make separate `d{N}-p1-divisio.md` and `d{N}-p2-divisio.md` chunks.
+
+   **5a. SECTIO — Vol IV d.49 Pars II ONLY (frozen convention, 2026-07-18).** `SECTIO` appears exactly once in the whole corpus: Vol IV d.49 P.II (raw `bonaventure_vol4_raw.txt`, Sectio I at ~L107664, Sectio II at ~L108777). It is **not Bonaventure's division** — the Quaracchi editors added it, and say so in their own footnote on the Sectio I page: *"Auctor hic duo, quae principaliter quaeruntur, iterum distribuit, et primum membrum in tria… **Ad confusionem in citando vitandam primae divisioni nomen sectionis superscripsimus.**"* They then cite by it themselves elsewhere in Vol IV (`a. 2. sect. 2. n. 49`; `de quo vide infra sect. 2`).
+
+   **The convention: sectio is a real slug level, inserted between pars and articulus** — `bon-sent-IV-d49-p2-s{1,2}-a{N}-q{N}.md`, with a `sectio: N` frontmatter field alongside `pars:`.
+
+   - **Why not flatten** (renumber P.II's articles 1–7): d.49 P.II contains **two `Articulus I`s**, so `IV-d49-p2-a1-q1` names two different chunks — the id collides. Renumbering would also break the Quaracchi citation match, which is the corpus's whole value proposition.
+   - **Why not promote sectio to a pars** (`p2`/`p3`): the littera itself prints only Pars I and Pars II, and pars is authorial while sectio is editorial. Collapsing them erases exactly the distinction the editors drew.
+   - **One divisio per pars still holds.** P.II has a single `DIVISIO TEXTUS` + `TRACTATIO QUAESTIONUM`; both sectio prologues (*"Circa primum quaeruntur principaliter tria…"*, *"…quae consistit in quatuor dotibus"*) are division-of-questions text and go in `IV-d49-p2-divisio`. Do **not** create `-s1-divisio` / `-s2-divisio` chunks.
+   - **Do not generalize.** `-sN-` exists nowhere else. If you meet another editorial sub-division, come back and decide it deliberately — don't pattern-match off d.49.
+
+   **d.49 shape** (raw ~L106123–109979): **P.I** = littera + divisio + Quaestio I–VI (no articles). **P.II** = divisio, then **Sectio I** *De gloria corporis in generali* (Art. I–III, 2 q. each) and **Sectio II** *in speciali* / the four dotes (Art. I–IV).
+
+   **Tooling:** `tools/seam-screen.py` and `tools/audit-style-formatting.py` parse chunk ids with regexes that assumed `-p\d-a\d` adjacency; both were extended with an optional `-s\d` group on 2026-07-18. Any **new** id-parsing tool must tolerate the sectio segment or it will silently skip d.49.
 6. **Littera Magistri** (Lombard's text) for any multi-chapter distinction should be its own big Tier-2 chunk, separate from the Bonaventure commentary. See `vol1/bon-sent-I-d8-littera.md` as the template.
 7. Write a re-chunking script per distinction (see `/tmp/rechunk_d8.py` pattern). Preserve frontmatter, replace only the `## Latin` body.
 

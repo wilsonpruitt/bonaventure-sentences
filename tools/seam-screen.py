@@ -35,17 +35,19 @@ def latin_body(text):
 
 # canonical sort key for chunk filenames
 def sortkey(name):
-    m = re.search(r"d(\d+)(?:-p(\d))?(?:-a(\d))?(?:-q(\d))?", name)
+    # -s(\d) = editorial "sectio" level; Vol IV d.49 P.II only (see CLAUDE.md §5a)
+    m = re.search(r"d(\d+)(?:-p(\d))?(?:-s(\d))?(?:-a(\d))?(?:-q(\d))?", name)
     d = int(m.group(1))
     pars = int(m.group(2)) if m.group(2) else 0
-    art = int(m.group(3)) if m.group(3) else 0
-    q = int(m.group(4)) if m.group(4) else 0
+    sect = int(m.group(3)) if m.group(3) else 0
+    art = int(m.group(4)) if m.group(4) else 0
+    q = int(m.group(5)) if m.group(5) else 0
     # type ordering within a distinction/pars: littera, divisio, articles, dubia
     if "littera" in name: typ = 0
     elif "divisio" in name: typ = 1
     elif "dubia" in name: typ = 9
     else: typ = 2
-    return (d, pars, typ, art, q)
+    return (d, pars, typ, sect, art, q)
 
 TERMINAL = ('.', '»', ':', '?', '!', '"')
 
