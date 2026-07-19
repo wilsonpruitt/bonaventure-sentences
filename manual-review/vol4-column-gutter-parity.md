@@ -221,3 +221,26 @@ The same eight pages turned up **five apparatus/citation misreads** unrelated to
 Low severity (none touch Bonaventure's argument) but real, and a rate of ~0.5/page across a published
 volume is worth a decision separately from the crop question. One sampler declined to call a sixth
 (`codd. R U` vs `K U`) as genuinely ambiguous at 450 dpi — correct discipline.
+
+## Measured gutters — d.49 range, pp.997–1032 (2026-07-19)
+
+Measured per page with the snippet above and all bands regenerated at the measured value
+(`colcrop.py vol4 <page> <gutter> 3 1.15`). The parity pattern holds exactly as in d.46–d.48:
+**odd ≈1581–1670, even ≈2037–2138.** `colcrop.py`'s default 1880 sits between the clusters and is
+wrong for every page in this range.
+
+```
+997:1619  998:2131  999:1601  1000:2098 1001:1620 1002:2090 1003:1594 1004:2096
+1005:1631 1006:2052 1007:1634 1008:2077 1009:1619 1010:2080 1011:1581 1012:2077
+1013:1661 1014:2087 1015:1601 1016:2118 1017:1608 1018:2093 1019:1670 1020:2042
+1021:1616 1022:2138 1023:1616 1024:2108 1025:1648 1026:2136 1027:1642 1028:2080
+1029:1645 1030:2037 1031:1630 1032:2121
+```
+
+p.999-R-0 spot-verified: no first-character clipping, marginalia (`Solvitur.`, `Aliter.`) captured.
+
+**⚠ Eight pages measured with a very narrow blank run** — the columns nearly abut, so the detected
+gutter rests on few pixels: **p.999 (3px), p.1021 (4px), p.1011 (5px), p.1015 (6px), p.1027 (8px),
+pp.1010/1023 (10px), p.1024 (12px)**. All centres fall inside the expected parity cluster and p.999
+verified clean by eye, so they are being used as measured — but if a writer reports a band on one of
+these looking clipped, re-measure that page rather than guessing a split.
