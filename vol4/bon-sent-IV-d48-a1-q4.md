@@ -6,18 +6,29 @@ distinctio: 48
 articulus: 1
 quaestio: 4
 type: quaestio
+title_la: "Utrum hora iudicii sit nota alicui creaturae"
+title_en: "Whether the hour of the judgement is known to any creature"
+printed_pages: [987, 988, 989]
+pdf_pages: [1007, 1008, 1009]
 line_start: 105151
 line_end: 105279
-word_count_latin: 991
-transcription_status: "auto-chunked 2026-06-16"
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 987–989"
+has_scholion: false
+has_apparatus: true
+transcription_status: "auto-chunked 2026-07-18 (rechunk_d48) — SKELETON, needs Tier 2"
 format_version: 1
 ---
 
-# bon-sent-IV-d48-a1-q4
+# d.48 a1-q4
+## *Utrum hora iudicii sit nota alicui creaturae*
+
+---
 
 ## Latin
+<!-- raw OCR L105151–L105279; re-set from bands -->
 
-QUAESTIO IV.
+```
+                                                                                                                   QUAESTIO IV.
 
                                                                                    Utrum hora iudicii sit nota alicui creaturae.
 
@@ -143,14 +154,20 @@ uiier.   Vel dicendum, quod                            non noverunt, quia       
          dum, quod istud inteliigitur de necessariis ad sa-                                                                   ligi               de his quae sunt de inlegrilate beatitudinis, non
          lutem ".                                                                                                             sui minislerii ^
 
+
+
+
+
+```
+
+---
+
 ## English
 
-[Translation pending]
+(skeleton)
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
-
-## Notes
-
-[Notes pending]
+(skeleton)

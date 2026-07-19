@@ -4,18 +4,35 @@ volume: 4
 book: 4
 distinctio: 48
 type: divisio
-line_start: 104648
+title_la: "Divisio textus et tractatio quaestionum"
+title_en: "Division of the text and treatment of the questions"
+printed_pages: [983]
+pdf_pages: [1003]
+line_start: 104642
 line_end: 104695
-word_count_latin: 386
-transcription_status: "auto-chunked 2026-06-16"
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 983–983"
+has_scholion: false
+has_apparatus: true
+transcription_status: "auto-chunked 2026-07-18 (rechunk_d48) — SKELETON, needs Tier 2"
 format_version: 1
 ---
 
-# bon-sent-IV-d48-divisio
+# d.48 divisio
+## *Divisio textus et tractatio quaestionum*
+
+---
 
 ## Latin
+<!-- raw OCR L104642–L104695; re-set from bands -->
 
-DIVISIO TEXTUS.
+```
+                                             C0MMENTARIU8 IN DI8T1NCTI0NEM XLVIII.
+                                                                                                    De forma et qualitate iudicis.
+
+                                                                Solel eliam quaeri, in                                      qua forma Chrislus iudicabit elc.
+
+
+                                                                                                                      DIVISIO TEXTUS.
 
 
             Supra determinavit Magisler de ordine iudicii.                                                                                       Prima pars habet tres '. In prima parte determi-
@@ -61,14 +78,19 @@ DIVISIO TEXTUS.
 
                 984                                                                                                              SENTENTIARUM LIB. IV.
 
+
+
+
+```
+
+---
+
 ## English
 
-[Translation pending]
+(skeleton)
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
-
-## Notes
-
-[Notes pending]
+(skeleton)

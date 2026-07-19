@@ -4,18 +4,29 @@ volume: 4
 book: 4
 distinctio: 48
 type: littera
+title_la: "Littera Magistri (Lombard), Distinctio XLVIII — De adventu iudicis et de forma in qua apparebit"
+title_en: "The text of the Master (Lombard), Distinction XLVIII — On the coming of the judge and the form in which he will appear"
+printed_pages: [981, 982, 983]
+pdf_pages: [1001, 1002, 1003]
 line_start: 104392
 line_end: 104641
-word_count_latin: 1589
-transcription_status: "auto-chunked 2026-06-16"
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 981–983"
+has_scholion: false
+has_apparatus: true
+transcription_status: "auto-chunked 2026-07-18 (rechunk_d48) — SKELETON, needs Tier 2"
 format_version: 1
 ---
 
-# bon-sent-IV-d48-littera
+# d.48 littera
+## *Littera Magistri (Lombard), Distinctio XLVIII — De adventu iudicis et de forma in qua apparebit*
+
+---
 
 ## Latin
+<!-- raw OCR L104392–L104641; re-set from bands -->
 
-DISTmCTIO XLVIII.
+```
+                                                                                   DISTmCTIO XLVIII.
 
 
                                               Cap.          I.                                                      in iudicio apparebit, ul videant mali, in                                                                      quem pupu-
@@ -262,14 +273,20 @@ AogDsiinns. Uude Augusllnus
      dor lunae illuminabit te; sed erit tibi Dominus in lu-                                                                         tur, quis           sit    usus lucis        solis et    lunae tunc, fateor             me
      cem sempiternam. Sed his verbis non negat solem et                                                          ,                  ignorare, quia in Scripturis non                           memini me legi.sse.
 
+
+
+
+
+```
+
+---
+
 ## English
 
-[Translation pending]
+(skeleton)
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
-
-## Notes
-
-[Notes pending]
+(skeleton)

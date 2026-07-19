@@ -3,19 +3,44 @@ id: "bon-sent-IV-d49-p1-divisio"
 volume: 4
 book: 4
 distinctio: 49
+pars: 1
 type: divisio
-line_start: 106363
+title_la: "Divisio textus et tractatio quaestionum (Pars I)"
+title_en: "Division of the text and treatment of the questions (Part I)"
+printed_pages: [999, 1000]
+pdf_pages: [1019, 1020]
+line_start: 106350
 line_end: 106436
-word_count_latin: 286
-transcription_status: "auto-chunked 2026-06-16"
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 999–1000"
+has_scholion: false
+has_apparatus: true
+transcription_status: "auto-chunked 2026-07-18 (rechunk_d49) — SKELETON, needs Tier 2"
 format_version: 1
 ---
 
-# bon-sent-IV-d49-p1-divisio
+# d.49 p1-divisio
+## *Divisio textus et tractatio quaestionum (Pars I)*
+
+---
 
 ## Latin
+<!-- raw OCR L106350–L106436; re-set from bands -->
 
-DIVISIO TEXTUS.
+```
+                                                        C0MMENTARIU8 IN DISTINCTIONEM XLIX.
+                                                                                                                      Pars    I.
+
+
+
+
+                                                                                De      statu et conditione                 bonorum              post iudicium.
+
+
+                                                                 Post resurrectionem vero, fact.o universo compleloque iudicio                                                                etc.
+
+
+
+                                                                                                             DIVISIO TEXTUS.
 
 
                          Supra                 egit     Magister              de      iudicio.      In   hac    parle        secunda                 vero   ,    ex           parle       corporis ,         ibi       :        Posl haec
@@ -87,14 +112,19 @@ DIVISIO TEXTUS.
                     Primo quaeritur, quid sit beatitudo.                                                                                                   Quinto, de eius aclu sive operatione.
                     Secundo, qualiter                         sit        appetibilis.                                                                      Sexto, de differenti parlicipatione.
 
+
+
+
+```
+
+---
+
 ## English
 
-[Translation pending]
+(skeleton)
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
-
-## Notes
-
-[Notes pending]
+(skeleton)

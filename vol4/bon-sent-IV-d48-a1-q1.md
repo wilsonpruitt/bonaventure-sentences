@@ -6,18 +6,32 @@ distinctio: 48
 articulus: 1
 quaestio: 1
 type: quaestio
-line_start: 104699
+title_la: "Utrum potestas iudiciaria sit Christi secundum humanitatem an secundum Divinitatem"
+title_en: "Whether the judiciary power belongs to Christ according to his humanity or according to his divinity"
+printed_pages: [983, 984, 985]
+pdf_pages: [1003, 1004, 1005]
+line_start: 104696
 line_end: 104902
-word_count_latin: 1487
-transcription_status: "auto-chunked 2026-06-16"
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 983–985"
+has_scholion: true
+has_apparatus: true
+transcription_status: "auto-chunked 2026-07-18 (rechunk_d48) — SKELETON, needs Tier 2"
 format_version: 1
 ---
 
-# bon-sent-IV-d48-a1-q1
+# d.48 a1-q1
+## *Utrum potestas iudiciaria sit Christi secundum humanitatem an secundum Divinitatem*
+
+---
 
 ## Latin
+<!-- raw OCR L104696–L104902; re-set from bands -->
 
-QUAESTIO I.
+```
+                                                                                                                                           ARTIGULUS I.
+                                                                                                                                     De iudicis appariHone.
+
+                                                                                                                                             QUAESTIO I.
 
                                                                             Ulnim polestas iudiciaria sil Chrisli secundum humanilatem
                                                                                              an secundum Divinitatem.
@@ -218,14 +232,20 @@ no- si          fleret            secundum poteslatem primariam                 
         §    ult.      —         G. Albert.,                        hic a. 2. S.                —     Pelr.         a Tar., loc. cit. a. 2.                       q.  — Durand., supra
                                                                                                                                                                          8.                                                       d.       47. q.            1.   n.        10.
 
+
+
+
+
+```
+
+---
+
 ## English
 
-[Translation pending]
+(skeleton)
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
-
-## Notes
-
-[Notes pending]
+(skeleton)

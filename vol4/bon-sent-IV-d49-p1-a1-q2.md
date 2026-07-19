@@ -3,21 +3,33 @@ id: "bon-sent-IV-d49-p1-a1-q2"
 volume: 4
 book: 4
 distinctio: 49
+pars: 1
 articulus: 1
 quaestio: 2
 type: quaestio
+title_la: "Qualiter beatitudo sit appetibilis"
+title_en: "In what way beatitude is desirable"
+printed_pages: [1002, 1003]
+pdf_pages: [1022, 1023]
 line_start: 106713
 line_end: 106833
-word_count_latin: 1024
-transcription_status: "auto-chunked 2026-06-16"
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 1002–1003"
+has_scholion: false
+has_apparatus: true
+transcription_status: "auto-chunked 2026-07-18 (rechunk_d49) — SKELETON, needs Tier 2"
 format_version: 1
 ---
 
-# bon-sent-IV-d49-p1-a1-q2
+# d.49 p1-a1-q2
+## *Qualiter beatitudo sit appetibilis*
+
+---
 
 ## Latin
+<!-- raw OCR L106713–L106833; re-set from bands -->
 
-QUAESTIO II.
+```
+                                                                                                                                                                       QUAESTIO II.
 
                                                                                                                                  Qualiter heatitudo                                     sit appelibilis.
 
@@ -136,14 +148,19 @@ Noiandam.      daui        indigenlia                omnino privans, quaedam    
     Resp. 2.   indigentiam l                   — Posset tamen                                     dici,          quod           cognitio             animalia                     appetant                        commodum, illud                                         appetunt, ad
                beatitudinis el                      multarum rerum naluralium, ut puta                                                               quod              sunt".
 
+
+
+
+```
+
+---
+
 ## English
 
-[Translation pending]
+(skeleton)
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
-
-## Notes
-
-[Notes pending]
+(skeleton)

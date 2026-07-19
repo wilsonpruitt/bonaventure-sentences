@@ -6,18 +6,29 @@ distinctio: 48
 articulus: 1
 quaestio: 3
 type: quaestio
+title_la: "Utrum Christus apparebit reprobis in forma humanitatis gloriosa"
+title_en: "Whether Christ will appear to the reprobate in the glorious form of his humanity"
+printed_pages: [987]
+pdf_pages: [1007]
 line_start: 105061
 line_end: 105150
-word_count_latin: 833
-transcription_status: "auto-chunked 2026-06-16"
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 987–987"
+has_scholion: false
+has_apparatus: true
+transcription_status: "auto-chunked 2026-07-18 (rechunk_d48) — SKELETON, needs Tier 2"
 format_version: 1
 ---
 
-# bon-sent-IV-d48-a1-q3
+# d.48 a1-q3
+## *Utrum Christus apparebit reprobis in forma humanitatis gloriosa*
+
+---
 
 ## Latin
+<!-- raw OCR L105061–L105150; re-set from bands -->
 
-QUAESTIO III.
+```
+                                                                                                                                QUAESTIO III.
 
                                                               Utrum Christus apparebit reprobis in forma humaniiatis gloriosa.
 
@@ -105,14 +116,19 @@ Noiandnm. biUs et blanclus dicilur ad allerum ; unde benignum                   
 
                eum limet; sed gloriosum et non gloriosum dicunt                                                                   qualis est               secundum veritatem ^
 
+
+
+
+```
+
+---
+
 ## English
 
-[Translation pending]
+(skeleton)
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
-
-## Notes
-
-[Notes pending]
+(skeleton)

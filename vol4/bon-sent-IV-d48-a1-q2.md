@@ -6,18 +6,29 @@ distinctio: 48
 articulus: 1
 quaestio: 2
 type: quaestio
+title_la: "Utrum Christus in forma Divinitatis apparebit malis"
+title_en: "Whether Christ will appear to the wicked in the form of his divinity"
+printed_pages: [985, 986, 987]
+pdf_pages: [1005, 1006, 1007]
 line_start: 104903
 line_end: 105060
-word_count_latin: 1124
-transcription_status: "auto-chunked 2026-06-16"
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 985–987"
+has_scholion: false
+has_apparatus: true
+transcription_status: "auto-chunked 2026-07-18 (rechunk_d48) — SKELETON, needs Tier 2"
 format_version: 1
 ---
 
-# bon-sent-IV-d48-a1-q2
+# d.48 a1-q2
+## *Utrum Christus in forma Divinitatis apparebit malis*
+
+---
 
 ## Latin
+<!-- raw OCR L104903–L105060; re-set from bands -->
 
-QUAESTIO II.
+```
+                                                                                                                                                    QUAESTIO II.
 
                                                                                       Utrum Christus in forma Divinitatis apparebit malis.
 
@@ -172,14 +183,20 @@ mcidentes,
 
                                                                                                             DIST. XLVIII. ART.                I.    QUAEST. III.                                                                               987
 
+
+
+
+
+```
+
+---
+
 ## English
 
-[Translation pending]
+(skeleton)
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
-
-## Notes
-
-[Notes pending]
+(skeleton)

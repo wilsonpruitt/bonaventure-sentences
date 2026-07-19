@@ -3,21 +3,33 @@ id: "bon-sent-IV-d49-p1-a1-q6"
 volume: 4
 book: 4
 distinctio: 49
+pars: 1
 articulus: 1
 quaestio: 6
 type: quaestio
+title_la: "De differenti participatione beatitudinis, utrum scilicet omnes habeant aequalem beatitudinem"
+title_en: "On the differing participation in beatitude, namely whether all have equal beatitude"
+printed_pages: [1009, 1010, 1011]
+pdf_pages: [1029, 1030, 1031]
 line_start: 107473
 line_end: 107629
-word_count_latin: 1005
-transcription_status: "auto-chunked 2026-06-16"
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 1009–1011"
+has_scholion: false
+has_apparatus: true
+transcription_status: "auto-chunked 2026-07-18 (rechunk_d49) — SKELETON, needs Tier 2"
 format_version: 1
 ---
 
-# bon-sent-IV-d49-p1-a1-q6
+# d.49 p1-a1-q6
+## *De differenti participatione beatitudinis, utrum scilicet omnes habeant aequalem beatitudinem*
+
+---
 
 ## Latin
+<!-- raw OCR L107473–L107629; re-set from bands -->
 
-QUAESTIO VI.
+```
+                                                                                                                           QUAESTIO VI.
 
                                                        De dilferenti parlicipatione beatitudinis , utrum scilicet onines habeant
                                                                                 aequalem beatiludinem.
@@ -171,14 +183,20 @@ io3.   unum praemium. Si autem formaliter dicilur, beati-                       
                                                                                     quod   est    sum-          et    potestalem intensius gaudendi.                             —         His visis, satis oobia circa
        mum simpliciter et summum huic. Nullus partici-                                                          patent ea quae possent dici circa litteram ^
 
+
+
+
+
+```
+
+---
+
 ## English
 
-[Translation pending]
+(skeleton)
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
-
-## Notes
-
-[Notes pending]
+(skeleton)

@@ -6,18 +6,40 @@ distinctio: 48
 articulus: 2
 quaestio: 1
 type: quaestio
-line_start: 105291
+title_la: "Utrum corpora supercaelestia remunerabuntur"
+title_en: "Whether the supercelestial bodies will be rewarded"
+printed_pages: [989, 990, 991]
+pdf_pages: [1009, 1010, 1011]
+line_start: 105280
 line_end: 105474
-word_count_latin: 1658
-transcription_status: "auto-chunked 2026-06-16"
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 989–991"
+has_scholion: true
+has_apparatus: true
+transcription_status: "auto-chunked 2026-07-18 (rechunk_d48) — SKELETON, needs Tier 2"
 format_version: 1
 ---
 
-# bon-sent-IV-d48-a2-q1
+# d.48 a2-q1
+## *Utrum corpora supercaelestia remunerabuntur*
+
+---
 
 ## Latin
+<!-- raw OCR L105280–L105474; re-set from bands -->
 
-QUAESTIO I.
+```
+                                                                                                          ARTIGULUS 11.
+                                                                              De innovatione corporum superiorum.
+
+                      Consequenter quanlum ad secundum articulum                                                                                 Secundo, utrum quietabuntur.
+         quaeritur de renovatione corporum                                              superiorum. Et                                           Tertio,           utrum innovabuntur elementa.
+         circa hoc            quaeruntur quatuor.                                                                                                Quarto, utrunl                     innovabunlur                           plantae              et         ani-
+                      Primo quaeritur, utnim corpora supercaelestia                                                           raalia.
+
+         remunerabuntur.
+
+
+                                                                                                                 QUAESTIO I.
 
                                                                       Ulrum corpora supercaelestia remunerabuntur.
 
@@ -198,14 +220,20 @@ Distinciio.   quid remuuerabile                                     :       prim
                    De 3. quaestione:                               Petr. a             Tar., loc.               cil.     a.     3.    — Richard.             a Tar., loc.                 cil.       a.    i.       — Kichard. a Med.,                             loc.     cit.       a.      6.    —
          a Med., loc.                  cit.       a.        '6.                                                                                              Durand., supra                          d.    47. q. 3. n. 7.
 
+
+
+
+
+```
+
+---
+
 ## English
 
-[Translation pending]
+(skeleton)
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
-
-## Notes
-
-[Notes pending]
+(skeleton)

@@ -3,21 +3,33 @@ id: "bon-sent-IV-d49-p1-a1-q5"
 volume: 4
 book: 4
 distinctio: 49
+pars: 1
 articulus: 1
 quaestio: 5
 type: quaestio
+title_la: "Quibus potentiis insit actus sive operatio gloriae"
+title_en: "In which powers the act or operation of glory resides"
+printed_pages: [1008, 1009]
+pdf_pages: [1028, 1029]
 line_start: 107275
 line_end: 107472
-word_count_latin: 1715
-transcription_status: "auto-chunked 2026-06-16"
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 1008–1009"
+has_scholion: false
+has_apparatus: true
+transcription_status: "auto-chunked 2026-07-18 (rechunk_d49) — SKELETON, needs Tier 2"
 format_version: 1
 ---
 
-# bon-sent-IV-d49-p1-a1-q5
+# d.49 p1-a1-q5
+## *Quibus potentiis insit actus sive operatio gloriae*
+
+---
 
 ## Latin
+<!-- raw OCR L107275–L107472; re-set from bands -->
 
-QUAESTIO V.
+```
+                                                                                                                                            QUAESTIO V.
 
                                                                                    Quibus potentiis insit aclus sive operalio gloriae.
 
@@ -214,14 +226,18 @@ laest.    tria       requiruntur ad hoc, quod anima perfecte gau-               
                 Ad illud quod ultimo obiicitur de laude, dicen-                                                                         lentiarum interiorum; et ideo non esl distinguenda
 Ad4.qiiae5i.dum, quod aut intelligitur de laude vocali, et sic                                                                          ab aliis,            immo dicitur tota merces '.
 
+
+
+```
+
+---
+
 ## English
 
-[Translation pending]
+(skeleton)
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
-
-## Notes
-
-[Notes pending]
+(skeleton)

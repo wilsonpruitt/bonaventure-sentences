@@ -6,18 +6,29 @@ distinctio: 48
 articulus: 2
 quaestio: 4
 type: quaestio
+title_la: "Utrum innovabuntur plantae et animalia bruta"
+title_en: "Whether plants and brute animals will be renewed"
+printed_pages: [993, 994, 995]
+pdf_pages: [1013, 1014, 1015]
 line_start: 105767
-line_end: 105904
-word_count_latin: 1004
-transcription_status: "auto-chunked 2026-06-16"
+line_end: 105901
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 993–995"
+has_scholion: false
+has_apparatus: true
+transcription_status: "auto-chunked 2026-07-18 (rechunk_d48) — SKELETON, needs Tier 2"
 format_version: 1
 ---
 
-# bon-sent-IV-d48-a2-q4
+# d.48 a2-q4
+## *Utrum innovabuntur plantae et animalia bruta*
+
+---
 
 ## Latin
+<!-- raw OCR L105767–L105901; re-set from bands -->
 
-QUAESTIO IV.
+```
+                                                                                                         QUAESTIO IV.
 
                                                                         Utrum innovabuntur plantae et animalia bruta.
 
@@ -152,16 +163,17 @@ ncUo.   quod habere esse nobilius, hoc                                          
 
 
 
-                                                                                          DUBfA CIRCA UTTERAM MAGISTRI.
+
+```
+
+---
 
 ## English
 
-[Translation pending]
+(skeleton)
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
-
-## Notes
-
-[Notes pending]
+(skeleton)

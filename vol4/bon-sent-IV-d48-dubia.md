@@ -4,18 +4,32 @@ volume: 4
 book: 4
 distinctio: 48
 type: dubia
-line_start: 105905
+title_la: "Dubia circa litteram Magistri"
+title_en: "Doubts concerning the text of the Master"
+printed_pages: [995, 996, 997]
+pdf_pages: [1015, 1016, 1017]
+line_start: 105902
 line_end: 106122
-word_count_latin: 1921
-transcription_status: "auto-chunked 2026-06-16"
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 995–997"
+has_scholion: false
+has_apparatus: true
+transcription_status: "auto-chunked 2026-07-18 (rechunk_d48) — SKELETON, needs Tier 2"
 format_version: 1
 ---
 
-# bon-sent-IV-d48-dubia
+# d.48 dubia
+## *Dubia circa litteram Magistri*
+
+---
 
 ## Latin
+<!-- raw OCR L105902–L106122; re-set from bands -->
 
-DUB.             I.                                            aere per corporum agilitatem                                             ,   et damnati                            eliam esse
+```
+                                                                                          DUBfA CIRCA UTTERAM MAGISTRI.
+
+
+                                                              DUB.             I.                                            aere per corporum agilitatem                                             ,   et damnati                            eliam esse
                                                                                                                              poterunt, divina suspendente virlule '.
                       In parle ista                    sunt           dubitationes circa lilterara,
         et    primo quaeritur de hoc quod                                                dicit     :    Quia non                                                                   DUB.         If.
@@ -230,14 +244,20 @@ Mirabiiiaio.ferri -, quod primo die maria omnia exallabunlur                    
 
          si    nihil est tunc frustra,                                        non debent remanere.                                                 dorus °.
 
+
+
+
+
+```
+
+---
+
 ## English
 
-[Translation pending]
+(skeleton)
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
-
-## Notes
-
-[Notes pending]
+(skeleton)

@@ -3,21 +3,36 @@ id: "bon-sent-IV-d49-p1-a1-q1"
 volume: 4
 book: 4
 distinctio: 49
+pars: 1
 articulus: 1
 quaestio: 1
 type: quaestio
-line_start: 106440
+title_la: "Quid sit beatitudo"
+title_en: "What beatitude is"
+printed_pages: [1000, 1001, 1002]
+pdf_pages: [1020, 1021, 1022]
+line_start: 106437
 line_end: 106712
-word_count_latin: 2775
-transcription_status: "auto-chunked 2026-06-16"
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 1000–1002"
+has_scholion: true
+has_apparatus: true
+transcription_status: "auto-chunked 2026-07-18 (rechunk_d49) — SKELETON, needs Tier 2"
 format_version: 1
 ---
 
-# bon-sent-IV-d49-p1-a1-q1
+# d.49 p1-a1-q1
+## *Quid sit beatitudo*
+
+---
 
 ## Latin
+<!-- raw OCR L106437–L106712; re-set from bands -->
 
-QUAESTIO I.
+```
+                                                                                                                     ARTIGULUS UNIGUS.
+                                                                                                                                De beatitiidine.
+
+                                                                                                                                    QUAESTIO I.
 
                                                                                                                               Quicl sii healiludo.
 
@@ -287,14 +302,20 @@ idam.    rum quantum ad primum                                                  
            tatem, quatenus                                           sit     natura,            nullum habere acturn eticitum                                                          lionem              habet                  hic q. 2.                 a.     2.    ad 6           ;     d.      44. q. 2.                 a.    4.    quae-
            per consequens                                        nec          cognitionem aliquam                                requiri                 ad        appeti-             stiunc.            I.    — Kichard.                            a Med.             ,    hic a. 4. q.                       1.
 
+
+
+
+
+```
+
+---
+
 ## English
 
-[Translation pending]
+(skeleton)
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
-
-## Notes
-
-[Notes pending]
+(skeleton)

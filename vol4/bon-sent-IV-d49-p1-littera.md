@@ -3,19 +3,31 @@ id: "bon-sent-IV-d49-p1-littera"
 volume: 4
 book: 4
 distinctio: 49
+pars: 1
 type: littera
+title_la: "Littera Magistri (Lombard), Distinctio XLIX, Pars I — De beatitudine Sanctorum"
+title_en: "The text of the Master (Lombard), Distinction XLIX, Part I — On the beatitude of the Saints"
+printed_pages: [997, 998, 999]
+pdf_pages: [1017, 1018, 1019]
 line_start: 106123
-line_end: 106349
-word_count_latin: 1874
-transcription_status: "auto-chunked 2026-06-16"
+line_end: 106308
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 997–999"
+has_scholion: false
+has_apparatus: true
+transcription_status: "auto-chunked 2026-07-18 (rechunk_d49) — SKELETON, needs Tier 2"
 format_version: 1
 ---
 
-# bon-sent-IV-d49-p1-littera
+# d.49 p1-littera
+## *Littera Magistri (Lombard), Distinctio XLIX, Pars I — De beatitudine Sanctorum*
+
+---
 
 ## Latin
+<!-- raw OCR L106123–L106308; re-set from bands -->
 
-DISTINCTIO XLIX.
+```
+                                                                                                                   DISTINCTIO XLIX.
 
 
                                                                                                                                          Pabs I.
@@ -201,52 +213,17 @@ iiias-       gaudium                omnes habebunt,                            e
 
 
 
-                                                                                                                    Pars     II.
 
+```
 
-
-
-                                                                      Cap. IV.                                               a carnis            sensibus                hominis            mentem          et        post       morlem,
-                                                                                                                             ipsa carne deposila,                          non        sic   videre posse incommuta-
-                   &i maior                    sit   beatitudo Sanctorum post iudicium.
-                                                                                                                             bilem substantiam,                          id    est       Deum,       sicut            sancli          Angeli
-
-                    Post             haec            quaeri            solet,    si    bealiludo         Sanctorum           videnl, sive alia latentiori causa, siveideo, quia inest
-
-             maior sit futura post iudicium quam inlerim.                                                    — Sine          ei    naturalis quidam appetilus corpus administrandi, quo
-
-     omni scrupulo credendum est, eos habiluros maio-                                                                        relardatur              quodam modo, ne lola intenlione pergat In
-     rem gloriam post iudicium quam ante, quia et ma-                                                                        illud      summum caelum, donec                                  ille     appelitus conquie-
-
-     ius erit eorum gaudium, ut supra ^ teslatus est Augu-                                                                   scal.      Porro         si    tale sit           corpus, cuius sit diflicilis et gra-
-
-     slinus, el amplior eril eorum cognitio. Unde Hierony-                                                                   vis adminislralio, sicut                           haec caro, quae corrumpitur;
-                            ampliorem gloriam suae claritatis                                                                mullo magis avertitur mens ab illa visione summi caeli.
-rmas mus: «Peraclo iudicio
-         .
-
-
-
-
-jaas Deusdenionslrabitelectis». «Si
-         .
-                                    quem movet, quid opus                                                                    Proinde, cum hoc corpus iam non animale, sed spiri-
-             sit   spirilibus                      defunctorum corpora sua in resurreclione                                  tuale receperit, Angelis aequala habebit perfectum na-
-
-             recipere,               si        eis polest sine corporibus                     summa beatitudo                lurae suae modura, obediens et imperans, viviticala et
-                                                            quaestio est nec polest a nobis per-                             vivificans,              tam        inefiabili              facililale,        ut        sit       ei    gloriae
-             praeberi           ;     diflicilis
-
-             fecte deflniri.                       Sed tamen dubium non                            est, el    raptam         quod         fuit       sarcinae ».
+---
 
 ## English
 
-[Translation pending]
+(skeleton)
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
-
-## Notes
-
-[Notes pending]
+(skeleton)

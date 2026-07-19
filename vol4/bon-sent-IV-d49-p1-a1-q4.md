@@ -3,21 +3,33 @@ id: "bon-sent-IV-d49-p1-a1-q4"
 volume: 4
 book: 4
 distinctio: 49
+pars: 1
 articulus: 1
 quaestio: 4
 type: quaestio
+title_la: "Secundum quid beatitudo insit in anima"
+title_en: "According to what beatitude is present in the soul"
+printed_pages: [1006, 1007, 1008]
+pdf_pages: [1026, 1027, 1028]
 line_start: 107078
 line_end: 107274
-word_count_latin: 2155
-transcription_status: "auto-chunked 2026-06-16"
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 1006–1008"
+has_scholion: false
+has_apparatus: true
+transcription_status: "auto-chunked 2026-07-18 (rechunk_d49) — SKELETON, needs Tier 2"
 format_version: 1
 ---
 
-# bon-sent-IV-d49-p1-a1-q4
+# d.49 p1-a1-q4
+## *Secundum quid beatitudo insit in anima*
+
+---
 
 ## Latin
+<!-- raw OCR L107078–L107274; re-set from bands -->
 
-QUAESTIO IV.
+```
+                                                                                                                  QUAESTIO IV.
 
                                                                                          Secundum quid beaiiludo insit in anima.
 
@@ -211,14 +223,20 @@ lioop-ficari animam  quam potentias; dicendum, quod ve-                         
         ut proinde non immerilo inter problemata Iheologica ninneretur                                                                                    Petr.       a Tar., hic                         a.     3.    — Richard.                         a Med., hic                    a.    2.   q.     8.    —
         haec quaestio ».                                                                                                                                  Dionys. Carth., hic q.                                       3.
 
+
+
+
+
+```
+
+---
+
 ## English
 
-[Translation pending]
+(skeleton)
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
-
-## Notes
-
-[Notes pending]
+(skeleton)

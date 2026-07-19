@@ -3,21 +3,33 @@ id: "bon-sent-IV-d49-p1-a1-q3"
 volume: 4
 book: 4
 distinctio: 49
+pars: 1
 articulus: 1
 quaestio: 3
 type: quaestio
+title_la: "In quo subiecto sit beatitudo"
+title_en: "In what subject beatitude resides"
+printed_pages: [1003, 1004, 1005, 1006]
+pdf_pages: [1023, 1024, 1025, 1026]
 line_start: 106834
 line_end: 107077
-word_count_latin: 1743
-transcription_status: "auto-chunked 2026-06-16"
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 1003–1006"
+has_scholion: false
+has_apparatus: true
+transcription_status: "auto-chunked 2026-07-18 (rechunk_d49) — SKELETON, needs Tier 2"
 format_version: 1
 ---
 
-# bon-sent-IV-d49-p1-a1-q3
+# d.49 p1-a1-q3
+## *In quo subiecto sit beatitudo*
+
+---
 
 ## Latin
+<!-- raw OCR L106834–L107077; re-set from bands -->
 
-QUAESTIO III.
+```
+                                                                                                                                       QUAESTIO III.
 
                                                                                                                   In quo suhieclo                    sit     heatitudo.
 
@@ -259,14 +271,19 @@ ione.        sicut in subiecto, sed huius                                       
 
           ctatio       magna est, similiter, sicut dicitur in Psalmo':                                                          pertus \
 
+
+
+
+```
+
+---
+
 ## English
 
-[Translation pending]
+(skeleton)
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
-
-## Notes
-
-[Notes pending]
+(skeleton)

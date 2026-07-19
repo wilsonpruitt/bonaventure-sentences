@@ -3,19 +3,44 @@ id: "bon-sent-IV-d49-p2-divisio"
 volume: 4
 book: 4
 distinctio: 49
+pars: 2
 type: divisio
-line_start: 107643
+title_la: "Divisio textus et tractatio quaestionum (Pars II), cum principio Sectionis I"
+title_en: "Division of the text and treatment of the questions (Part II), with the opening of Section I"
+printed_pages: [1011]
+pdf_pages: [1031]
+line_start: 107630
 line_end: 107690
-word_count_latin: 227
-transcription_status: "auto-chunked 2026-06-16"
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 1011–1011"
+has_scholion: false
+has_apparatus: true
+transcription_status: "auto-chunked 2026-07-18 (rechunk_d49) — SKELETON, needs Tier 2"
 format_version: 1
 ---
 
-# bon-sent-IV-d49-p2-divisio
+# d.49 p2-divisio
+## *Divisio textus et tractatio quaestionum (Pars II), cum principio Sectionis I*
+
+---
 
 ## Latin
+<!-- raw OCR L107630–L107690; re-set from bands -->
 
-DIVISIO TEXTUS.
+```
+                                    COMMENTARIUS IN DISTINCTIONEM XLIX.
+                                                                                                     Pars II.
+
+
+                                                                   De gloria corporis                      sive      de stola secunda.
+
+                                                             Post haec quaeri solet , si beatiiudo Sanctorum                                            etc.
+
+
+
+                                                                          TEXTUM MAGISTRI VmE SUPRA PAG. 999.
+
+
+                                                                                            DIVISIO TEXTUS.
 
 
                  Supra egit Magister de gloria spiritus,                                     in    qua          minal           modum, per quem gloria spiritus augebitur,
@@ -61,14 +86,19 @@ DIVISIO TEXTUS.
 
               1012                                                                                                 SENTENTIARUM LIB. IV.
 
+
+
+
+```
+
+---
+
 ## English
 
-[Translation pending]
+(skeleton)
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
-
-## Notes
-
-[Notes pending]
+(skeleton)
