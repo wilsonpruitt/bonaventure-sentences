@@ -244,3 +244,32 @@ gutter rests on few pixels: **p.999 (3px), p.1021 (4px), p.1011 (5px), p.1015 (6
 pp.1010/1023 (10px), p.1024 (12px)**. All centres fall inside the expected parity cluster and p.999
 verified clean by eye, so they are being used as measured — but if a writer reports a band on one of
 these looking clipped, re-measure that page rather than guessing a split.
+
+## Measured gutters — d.50 range, pp.1033–1054 (2026-07-19)
+
+Measured per page and all bands regenerated at the measured value. Parity pattern holds:
+**odd ≈1570–1698, even ≈2004–2103.**
+
+```
+1033:1624 1034:2100 1035:1570* 1036:2049 1037:1662 1038:2103 1039:1615 1040:2040
+1041:1659 1042:2095 1043:1610 1044:2101 1045:1640 1046:2041 1047:1683 1048:2051
+1049:1666 1050:2011 1051:1698 1052:2020 1053:1696 1054:2004
+```
+
+**⚠ `*` p.1035 — THE SNIPPET MIS-MEASURED THIS PAGE AND THE VALUE IS A MANUAL OVERRIDE.**
+The default window (0.12–0.80 of page height) returned **2589 with a 1px run** — an odd page reading
+far outside the odd cluster, i.e. a failed measurement, not a real gutter. Re-measuring over lower
+windows gave a stable **1566–1573 with wide runs (39–47px)**; **1570** was used and the R band was
+verified by eye (right column complete, no first-character clipping).
+
+**Cause:** p.1035 is a structurally unusual page — the top carries the end of Lombard's littera
+(`EPILOGUS`, the passage closing all four books, then `ULTIMUS LIBER SENTENTIARUM`) and the bottom
+opens `COMMENTARIUS IN DISTINCTIONEM L.` / `Pars I.`, with full-width headings in the default sampling
+window. **Lesson: when the snippet returns a value outside the page's parity cluster AND a run of only
+a few pixels, do not trust it — re-measure over a lower window and confirm the band by eye.** A
+1px-run reading is the tell.
+
+**Narrow-run pages in this range (blank run <15px, columns nearly abutting):** 1035, 1037, 1040, 1044,
+1047, 1050, 1051. All sit inside the parity cluster and are used as measured — the equivalent pages in
+d.49 (p.1021 at 4px, the narrowest yet) were verified unclipped. Re-measure only if a writer reports
+clipping.
