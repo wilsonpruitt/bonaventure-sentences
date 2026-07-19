@@ -6,18 +6,29 @@ distinctio: 47
 articulus: 2
 quaestio: 4
 type: quaestio
+title_la: "De ordine huius ignis ad ea quae fient in iudicio"
+title_en: "On the order of this fire in relation to the things that will take place at the judgement"
+printed_pages: [979, 980]
+pdf_pages: [999, 1000]
 line_start: 104153
-line_end: 104266
-word_count_latin: 1006
-transcription_status: "auto-chunked 2026-06-16"
+line_end: 104263
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 979–980"
+has_scholion: false
+has_apparatus: true
+transcription_status: "auto-chunked 2026-07-18 (rechunk_d47) — SKELETON, needs Tier 2"
 format_version: 1
 ---
 
-# bon-sent-IV-d47-a2-q4
+# d.47 a2-q4
+## *De ordine huius ignis ad ea quae fient in iudicio*
+
+---
 
 ## Latin
+<!-- raw OCR L104153–L104263; re-set from bands -->
 
-QUAESTIO IV.
+```
+                                                                                                                           QUAESTIO IV.
 
                                                                           De ordine                     Iiuius ignis               ad ea qme fent in iudicio.
 
@@ -128,16 +139,17 @@ improbator.      infernum deducentur. — Sed haec responsio non po-            
 
 
 
-                                                                                                   DUBIA CIRGA LITTERAM MAGISTRI.
+
+```
+
+---
 
 ## English
 
-[Translation pending]
+(skeleton)
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
-
-## Notes
-
-[Notes pending]
+(skeleton)

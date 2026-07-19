@@ -6,18 +6,42 @@ distinctio: 47
 articulus: 2
 quaestio: 1
 type: quaestio
-line_start: 103690
+title_la: "De quidditate ignis conflagratorii"
+title_en: "On the quiddity of the fire of the conflagration"
+printed_pages: [975, 976, 977]
+pdf_pages: [995, 996, 997]
+line_start: 103677
 line_end: 103925
-word_count_latin: 1700
-transcription_status: "auto-chunked 2026-06-16"
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 975–977"
+has_scholion: true
+has_apparatus: true
+transcription_status: "auto-chunked 2026-07-18 (rechunk_d47) — SKELETON, needs Tier 2"
 format_version: 1
 ---
 
-# bon-sent-IV-d47-a2-q1
+# d.47 a2-q1
+## *De quidditate ignis conflagratorii*
+
+---
 
 ## Latin
+<!-- raw OCR L103677–L103925; re-set from bands -->
 
-QUAESTIO I.
+```
+                                                                                                                 ARTICULUS 11.
+                                                                                                            De igne conflagrationis.
+
+
+              Consequenter quantum ad secundam parlem di-                                                                                 Secundo, de                       virtute.
+
+  stinctionis                   quaeritur                  de igne, qni praecedet faciem                                                  Tertio, de extensione.
+  iudicis, per                   quem fiet conflagratio. Et circa hoc quae-                                                               Quarto, de ordine ignis                                    illius          ad ea quae fient
+  runtur quatuor.                                                                                                              in iudicio.
+
+              Primo quaeritur de eius quidditate.
+
+
+                                                                                                                      QUAESTIO I.
 
                                                                                              De quiddilate ignis conflagratorii.
 
@@ -250,14 +274,20 @@ cidens.
 
      ultrn        regionem terrae vicinam, nec consumturam esse quatuor                                                         —     Petr. a       Tnr.      ,       loc. cit. a. 3.   — Richard.             a Med.       ,   loc. cit. q. i.
 
+
+
+
+
+```
+
+---
+
 ## English
 
-[Translation pending]
+(skeleton)
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
-
-## Notes
-
-[Notes pending]
+(skeleton)

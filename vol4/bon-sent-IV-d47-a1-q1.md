@@ -6,18 +6,32 @@ distinctio: 47
 articulus: 1
 quaestio: 1
 type: quaestio
-line_start: 103177
+title_la: "Utrum Apostoli iudicent"
+title_en: "Whether the Apostles will judge"
+printed_pages: [971, 972]
+pdf_pages: [991, 992]
+line_start: 103174
 line_end: 103338
-word_count_latin: 1326
-transcription_status: "auto-chunked 2026-06-16"
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 971–972"
+has_scholion: true
+has_apparatus: true
+transcription_status: "auto-chunked 2026-07-18 (rechunk_d47) — SKELETON, needs Tier 2"
 format_version: 1
 ---
 
-# bon-sent-IV-d47-a1-q1
+# d.47 a1-q1
+## *Utrum Apostoli iudicent*
+
+---
 
 ## Latin
+<!-- raw OCR L103174–L103338; re-set from bands -->
 
-QUAESTIO I.
+```
+                                                                                                                           ARTICULUS I.
+                                                                                                          De iudicantibus et iudicandis.
+
+                                                                                                                                QUAESTIO I.
 
                                                                                                                Utrum Apostoli iudicent.
 
@@ -176,14 +190,20 @@ dentes!          dictis :          pcr Apostolos enim duodecim omnes viri       
                  tantum Apostolis, sed etiam                                 perfectis eorum imitatoribus tri-                                 hic    a.        S.    —      Petr. a Tar.                  ,   hic q.               I.    a.           3.    — Richard. a Med.,
                  buunt quandam participationem iudiciariae                                               poiestatis,          scilicet         hic a. 1.              q.    4.    6.       — Durand.                  ,       hic q.              1.    n.       7.
 
+
+
+
+
+```
+
+---
+
 ## English
 
-[Translation pending]
+(skeleton)
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
-
-## Notes
-
-[Notes pending]
+(skeleton)

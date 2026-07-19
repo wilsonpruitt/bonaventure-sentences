@@ -6,18 +6,29 @@ distinctio: 47
 articulus: 1
 quaestio: 2
 type: quaestio
+title_la: "Utrum Angeli in die iudicii iudicabunt"
+title_en: "Whether the Angels will judge on the day of judgement"
+printed_pages: [972, 973]
+pdf_pages: [992, 993]
 line_start: 103339
 line_end: 103434
-word_count_latin: 614
-transcription_status: "auto-chunked 2026-06-16"
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 972–973"
+has_scholion: false
+has_apparatus: true
+transcription_status: "auto-chunked 2026-07-18 (rechunk_d47) — SKELETON, needs Tier 2"
 format_version: 1
 ---
 
-# bon-sent-IV-d47-a1-q2
+# d.47 a1-q2
+## *Utrum Angeli in die iudicii iudicabunt*
+
+---
 
 ## Latin
+<!-- raw OCR L103339–L103434; re-set from bands -->
 
-QUAESTIO 11.
+```
+                                                                                                                               QUAESTIO 11.
 
                                                                                                   Utrum Angeli in die iudicii iudicabunt.
 
@@ -111,14 +122,19 @@ iri-   municata Aposlolis,                           scilicet               rati
 
        lorura et          bonorum '                  ;       approbationis , non                  hominum                  non est in malis angelis °.
 
+
+
+
+```
+
+---
+
 ## English
 
-[Translation pending]
+(skeleton)
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
-
-## Notes
-
-[Notes pending]
+(skeleton)

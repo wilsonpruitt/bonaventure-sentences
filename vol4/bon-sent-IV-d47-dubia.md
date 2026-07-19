@@ -4,18 +4,32 @@ volume: 4
 book: 4
 distinctio: 47
 type: dubia
-line_start: 104267
+title_la: "Dubia circa litteram Magistri"
+title_en: "Doubts concerning the text of the Master"
+printed_pages: [980, 981]
+pdf_pages: [1000, 1001]
+line_start: 104264
 line_end: 104391
-word_count_latin: 857
-transcription_status: "auto-chunked 2026-06-16"
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 980–981"
+has_scholion: false
+has_apparatus: true
+transcription_status: "auto-chunked 2026-07-18 (rechunk_d47) — SKELETON, needs Tier 2"
 format_version: 1
 ---
 
-# bon-sent-IV-d47-dubia
+# d.47 dubia
+## *Dubia circa litteram Magistri*
+
+---
 
 ## Latin
+<!-- raw OCR L104264–L104391; re-set from bands -->
 
-DUB.       I.                                                cavit, sicut dicitur secundae Pelri secundo'"; simi-
+```
+                                                                                                   DUBIA CIRGA LITTERAM MAGISTRI.
+
+
+                                                                        DUB.       I.                                                cavit, sicut dicitur secundae Pelri secundo'"; simi-
                                                                                                                                      liter       Lucas            :       Facta sunt novissima hominis                                         illius
 
                             In    parte ista sunt dubitationes circa litteram                                              ,   et    peiora prioribus : ergo                                       ipsi       snnt minus digni: ergo
@@ -137,14 +151,20 @@ iio.ad        tormenta, aliud               est     in
 
        dicium Domino, emitletur vox illa; quaeritur de                                                             "itur esse verum '.
 
+
+
+
+
+```
+
+---
+
 ## English
 
-[Translation pending]
+(skeleton)
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
-
-## Notes
-
-[Notes pending]
+(skeleton)

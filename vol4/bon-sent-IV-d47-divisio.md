@@ -4,18 +4,37 @@ volume: 4
 book: 4
 distinctio: 47
 type: divisio
-line_start: 103101
+title_la: "Divisio textus et tractatio quaestionum"
+title_en: "Division of the text and treatment of the questions"
+printed_pages: [970, 971]
+pdf_pages: [990, 991]
+line_start: 103093
 line_end: 103173
-word_count_latin: 419
-transcription_status: "auto-chunked 2026-06-16"
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 970–971"
+has_scholion: false
+has_apparatus: true
+transcription_status: "auto-chunked 2026-07-18 (rechunk_d47) — SKELETON, needs Tier 2"
 format_version: 1
 ---
 
-# bon-sent-IV-d47-divisio
+# d.47 divisio
+## *Divisio textus et tractatio quaestionum*
+
+---
 
 ## Latin
+<!-- raw OCR L103093–L103173; re-set from bands -->
 
-DIVISIO TEXTUS.
+```
+                                 C0MMENTARIU8 IN MSTINOTIONEM XLVIL
+                                                                   De ordine iudicii                  extremi.
+
+
+                                                 Solel quaeri, qualiter dabitur iudicii senlenlia.
+
+
+
+                                                                           DIVISIO TEXTUS.
 
 
                  Supra    egit   Magister      de resurrectione.           In       hac       Christus iudicabil; ubi ostenditur ordo eorum qui
@@ -85,14 +104,20 @@ DIVISIO TEXTUS.
 
                                                                                                      DIST. XLVII. ART.                         I.       QUAEST.                   I.                                                                  971
 
+
+
+
+
+```
+
+---
+
 ## English
 
-[Translation pending]
+(skeleton)
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
-
-## Notes
-
-[Notes pending]
+(skeleton)

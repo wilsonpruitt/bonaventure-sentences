@@ -6,18 +6,29 @@ distinctio: 47
 articulus: 1
 quaestio: 4
 type: quaestio
+title_la: "Utrum Angeli iudicabuntur"
+title_en: "Whether the Angels will be judged"
+printed_pages: [974, 975]
+pdf_pages: [994, 995]
 line_start: 103574
 line_end: 103676
-word_count_latin: 821
-transcription_status: "auto-chunked 2026-06-16"
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 974–975"
+has_scholion: false
+has_apparatus: true
+transcription_status: "auto-chunked 2026-07-18 (rechunk_d47) — SKELETON, needs Tier 2"
 format_version: 1
 ---
 
-# bon-sent-IV-d47-a1-q4
+# d.47 a1-q4
+## *Utrum Angeli iudicabuntur*
+
+---
 
 ## Latin
+<!-- raw OCR L103574–L103676; re-set from bands -->
 
-QUAESTIO IV.
+```
+                                                                                                                                       QUAESTIO IV.
 
                                                                                                                         Utrum Angeli iudicabuntur.
 
@@ -117,14 +128,20 @@ Ad opposi- huius               mundi iam iudicatus est ; sed Deus non iu-       
   rationes oslendunt.                                                                                                          tem quantum ad accidentale praemium , et cessabit
               1.   2.          Ad illud ergo quod                                    obiicilur,             quod iam           ministerium *. Et                           sic patel           totum.
 
+
+
+
+
+```
+
+---
+
 ## English
 
-[Translation pending]
+(skeleton)
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
-
-## Notes
-
-[Notes pending]
+(skeleton)

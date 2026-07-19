@@ -6,18 +6,29 @@ distinctio: 47
 articulus: 1
 quaestio: 3
 type: quaestio
+title_la: "Utrum omnes iudicabuntur, tam boni quam mali"
+title_en: "Whether all will be judged, both the good and the evil"
+printed_pages: [973, 974]
+pdf_pages: [993, 994]
 line_start: 103435
 line_end: 103573
-word_count_latin: 691
-transcription_status: "auto-chunked 2026-06-16"
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 973–974"
+has_scholion: false
+has_apparatus: true
+transcription_status: "auto-chunked 2026-07-18 (rechunk_d47) — SKELETON, needs Tier 2"
 format_version: 1
 ---
 
-# bon-sent-IV-d47-a1-q3
+# d.47 a1-q3
+## *Utrum omnes iudicabuntur, tam boni quam mali*
+
+---
 
 ## Latin
+<!-- raw OCR L103435–L103573; re-set from bands -->
 
-QUAESTIO III.
+```
+                                                                                                           QUAESTIO III.
 
                                                                         Utrum omnes iudicabuntur, tam                                        boni qiiam mali.
 
@@ -155,14 +166,18 @@ piiciter.
              discussio meritorum et prolatio cuni quadam discus-                                                                                     iudicium non ilerabitur, sed consummabilur.                                                                      —      Et
          sione et sententiae defmitione-. ludicium appropriate                                                                                       sic    patent               omnia\
 
+
+
+```
+
+---
+
 ## English
 
-[Translation pending]
+(skeleton)
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
-
-## Notes
-
-[Notes pending]
+(skeleton)
