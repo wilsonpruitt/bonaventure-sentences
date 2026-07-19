@@ -167,3 +167,54 @@ the position-based relabelling that corrupts text.
 5. **A2** — the only item with confirmed content loss; expensive (~38 chunks, one agent each).
 6. **C2** — unlocks A3-sizing and the footer detector.
 7. **A3 / A4 / B3** — screens and samples, cheap, do when convenient.
+
+---
+
+## Added 2026-07-19 from the d.49 run
+
+### ⚠⚠ NEW CLASS — CROSS-PAGE FOOTER RUNOVER (corpus-wide, unquantified)
+
+A Quaracchi footnote can continue onto the **following printed page's** footer, as an *unnumbered
+fragment sitting above that page's note 1*. Two instances found in d.49:
+
+* **p.1029 note 5** breaks off on a comma (*…insinuatur responsio,*) and completes at the head of
+  **p.1030's** left footer column.
+* **p.1028 note 10** runs onto **p.1029's** head — found ONLY because a writer was explicitly asked to
+  sweep every register head and tail after the first case surfaced.
+
+**Why it matters:** no audit checks this. A writer reading only its own pages' footers renders a
+truncated note and never knows — the note looks complete because it ends in plausible Latin. This is
+distinct from the within-page gutter overflow (common, already documented).
+
+**Scope: UNKNOWN and potentially large.** Every chunk built before 2026-07-19 was written without this
+check. Any of them may hold silently truncated notes at page boundaries. **Needs a sampling pass to
+establish a rate before anyone decides on a sweep** — same discipline as the gutter-parity question,
+which sampled to 0 errors and correctly warranted no sweep.
+
+**Standing instruction going forward (d.50 and any re-verify):** check the HEAD of each footer register
+for an unnumbered opening fragment belonging to the previous page, and the TAIL of each for a note that
+breaks off mid-sentence.
+
+### ★ DETECTION HEURISTIC — negative apparatus diff = raw footer dropout
+
+`audit-apparatus-count` compares raw footer-openers against chunk defs, so it is blind to the
+whole-register dropout class when the RAW is the empty side. **But read inverted it DOES see it:** a
+**negative** diff (chunk defs > raw openers) means the writer recovered footers the raw never had.
+
+d.49's five: `s2-a3-q2` 1 vs 11 · `s2-a4-q2` 2 vs 11 · `p1-a1-q2` 8 vs 17 · `s2-a1-q2` 7 vs 14 ·
+`s1-a2-q2` 6 vs 9. Useful as a post-write triage screen, and as a way to hunt the class retroactively
+across already-built chunks.
+
+### ⚠ THE "108 INLINE `[?]` FLAGS" FIGURE NEEDS RE-DERIVING BEFORE ANYONE ACTS ON IT
+
+A naive `grep '\[?\]'` over d.49's 24 chunks returns 30 hits and looks alarming. **All 30 are false
+positives** — every one is the writer's own sentence "**`[?]` flags: none.**" inside its `## Notes`
+block, a backtick-quoted mention rather than an inline flag in reader-facing text. d.49 has **zero**
+genuine flags.
+
+The register's headline figure (108 inline flags, 88 of them in published Vol I across 19 files) was
+presumably counted the same way. **Re-derive it with a method that excludes `## Notes` and backtick
+code spans before scheduling any repair work** — the real number may be materially lower. Note this is
+the same family as the known J4 Class D/E false positive, where backtick-quoted `[^N]` ranges in intro
+notes both miscounted AND rendered as live footnote links.
+

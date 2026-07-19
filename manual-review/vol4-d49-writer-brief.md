@@ -18,7 +18,11 @@ together at the head before any commentary:
 - **`p1-littera`** L106123–106308 (pp.997–999) — Lombard, Pars I
 - **`p2-littera`** L106309–106349 (p.999) — Lombard, Pars II, split at Lombard's `Pars II.`
 - **`p1-divisio`** L106350–106436 (pp.999–1000) — Pars I DIVISIO TEXTUS + TRACTATIO
-- **`p1-a1-q1` … `p1-a1-q6`** L106437–107629 (pp.1000–1011) — **Pars I has six questions and NO articles**
+- **`p1-a1-q1` … `p1-a1-q6`** L106437–107629 (pp.1000–1011) — Pars I has six questions under a single
+  **`ARTICULUS UNICUS. / De beatitudine.`**, printed full-width centred at **L106437** and verified off
+  the p.1000 band. It is a REAL printed heading, not a chunking artifact — `p1-a1-q1` must render it
+  and must not drop it at the header↔QUAESTIO seam. The Pars I TRACTATIO promises six
+  (*Et de hoc sex quaeruntur*, ordinals *Primo*–*Sexto*), which matches; no lost-question signal.
 - **`p2-divisio`** L107630–107690 (p.1011) — Pars II DIVISIO TEXTUS + TRACTATIO, **plus Sectio I's
   header and prologue (L107664–107690), which are contiguous with it and belong here**
 - **Sectio I** *De gloria corporis in generali* — `p2-s1-a{1,2,3}-q{1,2}` L107691–108776 (pp.1011–1021)
