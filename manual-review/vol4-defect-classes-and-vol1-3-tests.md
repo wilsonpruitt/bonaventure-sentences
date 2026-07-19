@@ -1,0 +1,219 @@
+# Vol IV defect classes → cheap tests for Vols I–III
+
+**Written 2026-07-19, after d.45–d.47.** Vol IV surfaced a run of defect classes that the three
+guard-rail audits cannot see. Every one of them is a *plausible* pre-existing defect in Vols I–III,
+which are **published**. This file is the inventory plus, for each class, the cheapest test that
+would tell us whether it reaches back — so we can decide what to sweep without committing to a
+full re-verify of 1,286 published chunks.
+
+**Nothing here has been run against Vols I–III yet** except the notes/page calibration in §1, which
+is included because it was cheap and it changes the priority order. No repairs are proposed here;
+this is a detection plan awaiting Wilson's go.
+
+---
+
+## The common shape
+
+Every class below produces a **well-formed but wrong** result. That is why the audits miss them:
+`audit-paraphrase`, `audit-headers` and `audit-apparatus-count` all compare *the chunk* against
+*the raw OCR*, so they can only see defects where the chunk is the deficient side. When the **raw**
+is what is missing or garbled, the chunk faithfully reproduces a hole and every audit reports clean.
+
+Three of the classes below (§1, §2, §3) are of exactly that kind.
+
+---
+
+## §1 — OCR footer-block dropout ★ HIGHEST PRIORITY
+
+**Found:** d.47, 2026-07-19. **Status: NEW, not previously recorded anywhere.**
+
+The IA djvu OCR is missing the **entire apparatus** of printed pp. **972, 973, 975, 979, 981** —
+the raw text runs from the last body line straight to the next `QUAESTIO` header with no footer at
+all — plus a truncated block on p.980 and a dropped run-over on p.977. Five whole pages in a single
+distinction. All were recovered from the 450 dpi footer bands.
+
+**Why no audit sees it:** `audit-apparatus-count` compares raw footer-openers against chunk `[^N]:`
+defs. When the raw has zero, the expected count is zero, and a chunk with zero apparatus scores a
+perfect match. **The failure is invisible by construction.**
+
+**Why it probably reaches back:** the body superscript markers survive in the OCR even when the
+footer block is gone, so an OCR-first writer places anchors that bind to nothing — or, worse, silently
+renumbers the surviving notes to fit. This is a strong candidate explanation for the **J4 apparatus
+backlog**, specifically the 7 chunks whose English body has zero apparatus markers and the
+partial-anchor cases.
+
+### Test 1a — notes-per-page ratio (RUN 2026-07-19, results below)
+
+Pure metadata: `apparatus defs ÷ distinct printed_pages`, per distinction. No bands, no raw, seconds
+to run. Calibrated against d.45/d.46/d.47, which are band-verified and therefore trustworthy:
+
+| band-verified | pages | defs | notes/page |
+|---|---|---|---|
+| IV d.45 | 18 | 149 | 8.3 |
+| IV d.46 | 16 | 122 | 7.6 |
+| IV d.47 | 14 | 116 | 8.3 |
+
+Per-volume distribution over **fully**-Tier-2 distinctions:
+
+| vol | n | median | p10 | min | max |
+|---|---|---|---|---|---|
+| I | 47 | 7.5 | 6.3 | **4.6** | 12.1 |
+| II | 44 | 7.2 | 6.7 | 5.9 | 8.6 |
+| III | 40 | 8.0 | 7.4 | 7.1 | 8.9 |
+| IV | 47 | 7.8 | 6.7 | 5.7 | 9.3 |
+
+Lowest-ratio distinctions, all fully Tier 2 — **the screen's candidate list**:
+
+```
+vol1 d.38  16pp  74 defs  4.6      vol2 d.41  24pp 142 defs  5.9
+vol1 d.39  19pp  98 defs  5.2      vol1 d.35  20pp 124 defs  6.2
+vol4 d.19  19pp 109 defs  5.7      vol4 d.34  15pp  93 defs  6.2
+vol1 d.37  34pp 201 defs  5.9      vol2 d.30  28pp 177 defs  6.3
+```
+
+**Read this as a screen, not a verdict.** Genuine variation is real: a page of dense *littera* carries
+fewer notes than a page of argument, and Vol I is a different physical layout from II–IV. The tight
+per-volume medians (7.2–8.0) are what make the low tail interesting. **Vol I d.38 at 4.6 and d.39 at
+5.2 sit far below every band-verified baseline and below their own volume's p10 — those two are worth
+one spot-check each against the printed page.** That is ~2 pages of band reading to find out whether
+this class reaches Vol I at all, which is the cheapest possible answer to the question.
+
+Note also that **Vol III's floor is 7.1** — the tightest, highest distribution in the corpus. That is
+weak positive evidence that Vol III (the most recently written, and live) is *not* broadly affected.
+
+### Test 1b — direct raw-side detector (not yet built)
+
+Stronger and still cheap: for each printed page, ask whether the raw range contains **any** footer-opener
+pattern while the body carries superscript markers. Body-markers-present + zero-footers is the exact
+dropout signature, and unlike 1a it localises to the page rather than the distinction.
+
+**Blocked for most of the corpus — see §7.** It needs per-chunk `line_start`/`line_end` to map pages
+to raw ranges, and those are missing from 246/464 Vol II and 368/412 Vol III Tier-2 chunks.
+
+---
+
+## §2 — Column-gutter parity (band mis-split)
+
+**Found:** d.46, 2026-07-18. Written up in `vol4-column-gutter-parity.md`.
+
+`colcrop.py`'s default split is wrong for every page in the d.46–d.47 range; the true gutter alternates
+by printed-page parity (odd ≈1480–1585, even ≈2096–2201). The even-page failure is loud. **The odd-page
+failure is silent** — it shaves the right column's first character off every line, and a careful writer
+reconstructs it into plausible Latin. Three of four d.46 batch-1 writers reported clean runs on clipped
+pages.
+
+**Reaches back?** Vol I is single-column — **not applicable**. Vols II and III are the same two-column
+edition as IV, so **applicable in principle**, and every chunk in them was written against a guessed
+split.
+
+### Test 2 — measure, don't re-read
+
+Run the gutter-measurement snippet (in the parity write-up) across a **sample** of Vol II and Vol III
+pages and compare the measured value to the split those sessions actually used (1660 for vol2/vol3 per
+CLAUDE.md). Cheap: extraction + measurement only, no model reading, no band reading. If the measured
+gutters cluster near 1660, the volumes are fine and this closes. If they alternate by parity, it does
+not close, and the follow-up is a sampled re-verify — sized only after the measurement says so.
+
+**Do the measurement before assuming anything.** It is the one test here that can *exonerate* two whole
+volumes for a few minutes of compute.
+
+---
+
+## §3 — Garbled QUAESTIO headers hiding whole questions
+
+**Found repeatedly:** d.42 `a3-q3`, d.46 `a2-q4` (`QUAESTiO IV.`), d.47 `a2-q3` (`QUAESTIO ni.`),
+d.48 `a2-q3` (`QUAESTIO lU.`), d.49 s2-a4-q2 (`QU.\ESTIO II.`). **Five lost questions in nine
+distinctions.** In each case the sibling chunk's range silently swallowed the missing one.
+
+**Why no audit sees it:** `audit-headers` counts headers in the raw with the same regex family that
+missed the garbled header in the first place, so raw and chunk are wrong in the same direction.
+
+### Test 3 — the promise-vs-delivery count-check, mechanised
+
+This is the check that caught all five, and it is **fully mechanisable from the raw alone**:
+every article opener states its own question count (*"Et circa hoc quaeruntur quatuor"*), and every
+question opens with an ordinal (*Primo/Secundo/Tertio/Quarto quaeritur*). Compare the **promised**
+count against the **delivered** chunk count per article, corpus-wide.
+
+Needs only the raw plus chunk ids — **no line ranges, no bands.** Runnable against Vols I–III today.
+**This is the highest value-per-effort test in this document**: it targets outright missing text rather
+than degraded text, and a hit is unambiguous — there is no judgement call about whether a question exists.
+
+---
+
+## §4 — Cased `DuB.` undercounting dubia
+
+**Found:** d.45 — 9 dubia printed, only 3 greppable; six were cased `DuB.` and invisible.
+
+### Test 4 — case-insensitive re-grep
+
+Trivial: re-grep every volume's raw case-insensitively for dubium headers and compare against the dubia
+rendered in each distinction's dubia chunk. Pure text, seconds. Runnable today.
+
+---
+
+## §5 — Article PRAENOTATA dropped at the header↔QUAESTIO seam
+
+**Found:** d.42 Art. I — the definition, species and opinions on p.868 fell between the `ARTICULUS`
+header and `QUAESTIO I` and were dropped entirely. d.47 confirmed the same structural spot carries
+Article II's whole four-question listing, which the TRACTATIO does *not* duplicate.
+
+### Test 5 — does each article's q1 contain its article header?
+
+Grep every `aN-q1` chunk body for its `ARTICULUS` header and the opener text that should precede
+`QUAESTIO I`. A q1 that jumps straight to the question is a candidate dropout. Pure text, runnable
+today, though it needs a tolerance for distinctions that legitimately chunk the opener elsewhere.
+
+---
+
+## §6 — Marker binding order: column vs reading
+
+**d.20 lesson:** Quaracchi numbers footers in **column** order while anchors fall in **reading** order,
+so a body legitimately runs 1, 3, 2, 4 — and relabelling by position corrupts the text.
+**d.47 finding:** on pp.973, 979 and 980 the markers bind in **straight reading order**.
+
+So the order is **not constant across the corpus**, and neither rule can be applied blind. The a1-q3
+writer noted that content-matching alone would have mis-bound two near-identical John 3 citations on
+p.973 had the order been assumed.
+
+### Test 6 — no cheap mechanical test
+
+Honest answer: this one cannot be screened from text. It is caught only by binding each anchor to the
+note whose *content* matches, per page, at band time. The mitigation is procedural, not detective:
+**state in CLAUDE.md that the order varies and must be determined per page** rather than presented as
+the d.20 rule. Worth doing regardless of any sweep.
+
+---
+
+## §7 — Prerequisite: missing `line_start` blocks the raw-range tests
+
+Tier-2 chunks with no `line_start` frontmatter:
+
+| vol | missing / total Tier-2 |
+|---|---|
+| I | **2 / 410** |
+| II | 246 / 464 |
+| III | 368 / 412 |
+| IV | 319 / 594 |
+
+Promotion sessions dropped the range fields (the known `rechunk_d23.py` bug, generalised). This blocks
+**Test 1b** and any future page↔raw mapping on most of Vols II–IV. Vol I is effectively complete and
+can be tested today.
+
+Backfilling ranges is mechanical — match each chunk's opening line against the raw — and would unlock
+the sharper detectors. Worth costing separately before committing to it.
+
+---
+
+## Suggested order, cheapest and most decisive first
+
+1. **§3 count-check** across Vols I–III — mechanical, unambiguous hits, targets *missing text*.
+2. **§4 `DuB.` re-grep** — minutes, same category of loss.
+3. **§2 gutter measurement** on a sample of Vols II/III — can exonerate two volumes outright.
+4. **§1a spot-check** of Vol I d.38 and d.39 against the printed page — ~2 pages to learn whether the
+   footer-dropout class reaches Vol I at all.
+5. **§6 CLAUDE.md wording fix** — no sweep, just stop teaching a rule that is only sometimes true.
+6. **§7 line_start backfill** — only if 1–4 turn up enough to justify the sharper tests.
+
+Steps 1–4 are all screens and measurements: no repairs, no rewrites, and each one can come back
+"clean, this does not reach back," which is the outcome worth buying first.
