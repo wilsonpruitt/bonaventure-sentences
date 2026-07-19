@@ -149,3 +149,75 @@ Do **not** open a full re-verify on this. Take a handful of Vol III chunks whose
 re-crop at the measured gutter, and diff the right-column line-openings against what the chunk says.
 That establishes a *rate*. The rate decides whether this is a footnote or a campaign. Sizing the
 sweep before knowing the rate would be guessing.
+
+---
+
+# ★★★ 2026-07-19 (later the same day) — RATE ESTABLISHED: **0 errors in 331 lines.** THE ALARM ABOVE IS OVERSTATED.
+
+The section immediately above concluded that Vols II and III were compromised. **That conclusion was
+wrong in its most important respect, and this section corrects it.** The measurement was right; the
+inference from it was not.
+
+## The mechanism: a mis-split MISFILES text, it does not DESTROY it
+
+`colcrop.py` cuts the page into `L = 0 → split` and `R = split → width`. **Those two bands together
+always cover the whole page.** Nothing is discarded. So when the split sits to the RIGHT of the true
+gutter, the right column's opening characters do not vanish — **they appear at the right-hand edge of
+the LEFT band.**
+
+Verified directly on Vol III p.601, cropped at the bad split of 1660: the left band's right margin
+carries a legible vertical strip reading `nomer`, `tionen`, `gere`, `sicut`, `alii`, `aliqui`,
+`fides`, `peccat`, `fectio`, `deest`, `perat`, `tum;`, `sine`, `credit`, `quia`, `cendu`, `perfec`,
+`tur an` — exactly the characters "missing" from the right band.
+
+The standing instruction has always been to read **Left column top→bottom, then Right**. A writer
+following it sees both halves. The same logic holds in the other direction: a split too far LEFT
+pushes the left column's line-*endings* into the start of the R band, equally recoverable.
+
+## The empirical rate
+
+Eight Vol III pages sampled across the whole volume (pp. 101, 139, 243, 413, 451, 561, 601, 687),
+each re-cropped at its own measured gutter and diffed line-opening by line-opening against the
+published chunk:
+
+| page | chunk | lines examined | clipping errors |
+|---|---|---|---|
+| 101 | III-d4-a1-q2 | 31 + scholion | 0 |
+| 139 | III-d5-a2-q4 | 48 | 0 |
+| 243 | III-d11-divisio / a1-q1 | 33 | 0 |
+| 413 | III-d19-dubia | 32 | 0 |
+| 451 | III-d22-a1-q1 | 50 | 0 |
+| 561 | III-d26-a1-q3 | 34 | 0 |
+| 601 | III-d27-a1-q4 | 45 | 0 |
+| 687 | III-d31-a2-q3 | 58 | 0 |
+| **total** | | **331** | **0** |
+
+p.601 is the decisive case: it is the page whose bad crop was confirmed by eye, and **every one of
+its nine known clip-risk words is correct in the published chunk** — `nomen`, `rationem`, `sicut`,
+`alii`, `fides`, `peccatore`, `perfectio`, `credit`, `quia`. The writers reconstructed correctly
+because the characters were in front of them in the other band.
+
+## Verdict
+
+**No sweep is warranted.** The gutter-parity defect is a working nuisance — it makes bands awkward to
+read and it wastes writer effort — not a corruption of the published text. Vols II and III do not
+need re-verification on this account.
+
+**What remains true:** measuring the gutter per page is still the right procedure for new work
+(d.48–d.50), because it removes the reconstruction burden rather than relying on writers to notice a
+stray strip. But it is a quality-of-work improvement, not a data-integrity fix.
+
+## Incidental finding — a different, small, pre-existing class
+
+The same eight pages turned up **five apparatus/citation misreads** unrelated to cropping, roughly
+0.5 per page, all in notes rather than body text:
+
+* p.101 scholion III — printed `t. IV. q. 32.` → chunk `l. IV. q. 32.` (*tomus* read as *liber*)
+* p.413 note 5 — printed `Eccli. 15, 14` → chunk `Eccli. 13, 14` (15:14 is the correct locus for *in manu consilii sui*)
+* p.601 apparatus — printed `habent bis diligat` → chunk `habent his diligat`
+* p.687 scholion II — printed `a. 4` twice → chunk `a. 1` twice
+* p.243 — the marginal rubric `Pro parte negativa.` is not carried
+
+Low severity (none touch Bonaventure's argument) but real, and a rate of ~0.5/page across a published
+volume is worth a decision separately from the crop question. One sampler declined to call a sixth
+(`codd. R U` vs `K U`) as genuinely ambiguous at 450 dpi — correct discipline.

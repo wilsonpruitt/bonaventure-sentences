@@ -9,8 +9,10 @@ full re-verify of 1,286 published chunks.
 **Status 2026-07-19 — steps 1–3 run.**
 * **§3 (missing questions) — RUN, 0 findings.** `tools/audit-promise-vs-delivery.py`.
 * **§4 (dubia count) — RUN, 0 findings, but Vol III has ZERO coverage.** `tools/audit-dubia-count.py`.
-* **§2 (gutter parity) — RUN, and it FAILED TO EXONERATE. The defect reaches Vols II and III,
-  confirmed visually.** See `vol4-column-gutter-parity.md`. **This is now the live concern.**
+* **§2 (gutter parity) — RUN, then RESOLVED. Measured defect is real; the corpus damage is NOT.**
+  Rate sampled at **0 errors in 331 lines across 8 Vol III pages**. A mis-split *misfiles* the
+  characters into the adjacent band rather than destroying them, and the writers recovered them.
+  **No sweep warranted.** See `vol4-column-gutter-parity.md` for the mechanism and the table.
 * §1 notes/page calibration run. **§1b, §5 and §7 NOT run.**
 No repairs are proposed anywhere in this file.
 
