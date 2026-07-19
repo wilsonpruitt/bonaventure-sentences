@@ -128,7 +128,52 @@ distinctions.** In each case the sibling chunk's range silently swallowed the mi
 **Why no audit sees it:** `audit-headers` counts headers in the raw with the same regex family that
 missed the garbled header in the first place, so raw and chunk are wrong in the same direction.
 
-### Test 3 — the promise-vs-delivery count-check, mechanised
+### ✔ RUN 2026-07-19 — `tools/audit-promise-vs-delivery.py` — **0 findings, all four volumes**
+
+Built and run. **No missing question was found anywhere in the corpus.** Two independent checks:
+
+**Check A — GAP in the delivered question sequence.** Needs only chunk filenames. This is the exact
+signature of the mid-article losses (d.47 a2-q3 left disk holding q1, q2, q4).
+**Coverage 100% — 436/436 articles across all four volumes. Zero gaps.** This is a *complete*
+result, not a sample: no article anywhere in Vols I–IV has a hole in its question sequence.
+
+**Check B — running head outruns the delivered maximum.** Catches losses at an article's *tail*
+(d.46 a2-q4, d.42 a3-q3, d.49 s2-a4-q2), which leave no gap. Uses the running head as an
+independent witness: Quaracchi names the structural position on nearly every page, so a question
+spanning any page top leaves a trace even when its own header is garbled beyond grepping.
+**Zero findings within coverage — but coverage is partial:**
+
+| vol | articles | with running-head witness | blind |
+|---|---|---|---|
+| I | 87 | 45 (52%) | 42 |
+| II | 119 | 90 (76%) | 29 |
+| III | 81 | 67 (83%) | 14 |
+| IV | 149 | 120 (81%) | 29 |
+
+**The blind spots are structured, not random: they are overwhelmingly `a1`**, the first article of a
+distinction — its questions often begin on the page carrying the `DISTINCTIO` header, whose running
+head reads `DIST. N.` or `DIST. N. DIVISIO TEXTUS` with no ART/QUAEST component. A tail loss in an
+`a1` would be invisible to both checks (Check A only sees *within* an article). Full blind-spot list
+is reproducible from the tool.
+
+**Validation.** The detector was validated against a known true positive before being trusted: with
+`d47-a2-q3` temporarily hidden it reported
+`d.47 a.2 disk=[1,2,4] — GAP q[3] missing`, and reported it again after the parser fix below.
+
+**A first-run false-positive worth recording.** The initial version flagged 6 positions, *all of them
+artifacts of my own numeral parsing*: `ART. l.` (lowercase L for I) parsed as Roman **50**,
+`ART. UNICUS` was unhandled, and bare page numbers in numeral-less heads (`... QUAEST. 131`) parsed
+as question numbers. Fixed with slot-aware parsing — articles/questions never exceed ~12 in this
+corpus, so out-of-range values are now reported as unparseable rather than guessed. **430 running
+heads corpus-wide remain unparseable and are listed, never guessed**; recovering some of them is the
+cheapest way to raise Check B's coverage.
+
+**What this does and does not settle.** It settles that the *mid-article* loss class — the one that
+hit d.47 and d.48 — does not exist anywhere in Vols I–III. It does **not** settle tail losses in the
+114 unwitnessed articles. Raising that would need either the unparseable-head recovery above or the
+`line_start` backfill (§7).
+
+### Test 3 — the promise-vs-delivery count-check, mechanised (original design note)
 
 This is the check that caught all five, and it is **fully mechanisable from the raw alone**:
 every article opener states its own question count (*"Et circa hoc quaeruntur quatuor"*), and every
