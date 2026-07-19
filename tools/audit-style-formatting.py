@@ -1,5 +1,5 @@
 #!/usr/bin/env python3.11
-"""Pass 2 style/formatting audit — full corpus, Vol I + Vol II.
+"""Pass 2 style/formatting audit — full corpus, Vols I–IV.
 
 Per CLAUDE.md "Polish-blocker cadence" §2. Streams file-by-file (8 GB RAM Mac).
 Identifies Tier-2 chunks by transcription_status prefix and flags:
@@ -15,7 +15,11 @@ Identifies Tier-2 chunks by transcription_status prefix and flags:
      d{N}-p1-divisio.md + d{N}-p2-divisio.md).
   7. `**En.**` indent inconsistency WITHIN a single chunk (mixing 4 and 5).
 
-Writes a triage report to manual-review/d11-d20-pass2-style-audit.md.
+Apparatus labels may be bare-numeric (`[^12]`, Vols I–III) or page-qualified
+(`[^p1005-1]`, `[^p997n-2]`, Vol IV) — see LABEL_RE and label_sort_key. Matching
+only digits here silently blinded every Vol IV apparatus check.
+
+Writes a triage report to manual-review/corpus-style-audit.md.
 """
 from __future__ import annotations
 import re
@@ -24,7 +28,10 @@ from pathlib import Path
 from collections import defaultdict
 
 REPO = Path(__file__).resolve().parent.parent
-REPORT_PATH = REPO / "manual-review" / "vol3-d21-d30-pass2-style-audit.md"
+# Renamed 2026-07-19: the old name ("vol3-d21-d30-pass2-style-audit.md") dated
+# from the gate that first ran this and was misleading — the scan is full-corpus
+# and now covers Vols I–IV, not one volume's decade.
+REPORT_PATH = REPO / "manual-review" / "corpus-style-audit.md"
 
 TIER2_REQUIRED = [
     "title_la", "title_en", "printed_pages", "pdf_pages",
@@ -63,10 +70,33 @@ def split_sections(body: str) -> dict[str, str]:
     return sections
 
 
+def label_sort_key(label: str) -> tuple:
+    """Order apparatus labels that may be bare-numeric OR page-qualified.
+
+    Vols I–III use bare `[^12]`. Vol IV uses page-qualified `[^p1005-1]`, plus
+    register suffixes for pages carrying two footer registers (`[^p997n-2]`,
+    `[^p983c-1]` — see CLAUDE.md). A plain `key=int` raises ValueError on those,
+    which is why every sort here goes through this instead.
+    """
+    m = re.fullmatch(r"p(\d+)([a-z]*)-(\d+)", label)
+    if m:
+        return (1, int(m.group(1)), m.group(2), int(m.group(3)))
+    if label.isdigit():
+        return (0, int(label), "", 0)
+    return (2, 0, label, 0)
+
+
+# Matches bare-numeric and page-qualified labels alike. Digits-only here was a
+# silent Vol IV blind spot: page-qualified labels matched nothing, so defs and
+# anchors both came back empty and every Vol IV chunk's apparatus pairing
+# reported clean without ever being checked.
+LABEL_RE = r"[A-Za-z0-9-]+"
+
+
 def body_anchors(text: str) -> set[str]:
     """Return set of [^N] body anchors (not definitions)."""
     out: set[str] = set()
-    for m in re.finditer(r"\[\^(\d+)\]", text):
+    for m in re.finditer(rf"\[\^({LABEL_RE})\]", text):
         # Skip if it's a definition (line-start `[^N]:`)
         start = m.start()
         line_start = text.rfind("\n", 0, start) + 1
@@ -78,7 +108,7 @@ def body_anchors(text: str) -> set[str]:
 
 
 def app_definitions(text: str) -> list[str]:
-    return re.findall(r"^\[\^(\d+)\]:", text, re.MULTILINE)
+    return re.findall(rf"^\[\^({LABEL_RE})\]:", text, re.MULTILINE)
 
 
 def en_indent_widths(app_text: str) -> set[int]:
@@ -148,19 +178,19 @@ def audit_chunk(path: Path) -> dict:
         la_anchors = body_anchors(sections.get("Latin", ""))
         en_anchors = body_anchors(sections.get("English", ""))
         # orphan defs (def with no body anchor in either body)
-        orphan_defs = sorted(defs - (la_anchors | en_anchors), key=int)
+        orphan_defs = sorted(defs - (la_anchors | en_anchors), key=label_sort_key)
         if orphan_defs:
             findings["orphan_app_defs"].extend(orphan_defs)
         # body anchors with no def
-        missing_def_la = sorted(la_anchors - defs, key=int)
-        missing_def_en = sorted(en_anchors - defs, key=int)
+        missing_def_la = sorted(la_anchors - defs, key=label_sort_key)
+        missing_def_en = sorted(en_anchors - defs, key=label_sort_key)
         if missing_def_la:
             findings["body_anchor_no_def_la"].extend(missing_def_la)
         if missing_def_en:
             findings["body_anchor_no_def_en"].extend(missing_def_en)
         # La<->En anchor mismatch
-        only_la = sorted(la_anchors - en_anchors, key=int)
-        only_en = sorted(en_anchors - la_anchors, key=int)
+        only_la = sorted(la_anchors - en_anchors, key=label_sort_key)
+        only_en = sorted(en_anchors - la_anchors, key=label_sort_key)
         if only_la:
             findings["anchor_only_la"].extend(only_la)
         if only_en:
@@ -205,12 +235,14 @@ def find_legacy_duplicates(chunks: list[Path]) -> list[tuple[str, list[str]]]:
         lambda: defaultdict(list))
     for p in chunks:
         # Extract distinctio number + type from filename
-        # NOTE: scoped to Vol I/II by the (?:I|II) alternation. The optional
-        # -s\d+ group is the editorial "sectio" level (Vol IV d.49 P.II only,
-        # see CLAUDE.md §5a) — inert until this alternation is widened, but
-        # here so widening it doesn't silently skip d.49.
+        # Covers all four volumes. Alternation is ordered LONGEST-FIRST
+        # (IV|III|II|I) so "IV" cannot be partially consumed as "I"; the old
+        # (?:I|II) form only worked by backtracking and silently skipped
+        # Vols III and IV entirely. The optional -s\d+ group is the editorial
+        # "sectio" level (Vol IV d.49 P.II only, see CLAUDE.md §5a).
         m = re.match(
-            r"bon-sent-(?:I|II)-d(\d+)(?:-(p\d+))?(?:-s\d+)?-(\w+(?:-q\d+)?)\.md",
+            r"bon-sent-(?:IV|III|II|I)-d(\d+)(?:-(p\d+))?(?:-s\d+)?"
+            r"-(\w+(?:-q\d+)?)\.md",
             p.name)
         if not m:
             continue
@@ -262,23 +294,25 @@ def main() -> int:
     chunks: list[Path] = []
     for vol_dir, prefix in [(REPO / "vol1", "bon-sent-I-d"),
                             (REPO / "vol2", "bon-sent-II-d"),
-                            (REPO / "vol3", "bon-sent-III-d")]:
+                            (REPO / "vol3", "bon-sent-III-d"),
+                            (REPO / "vol4", "bon-sent-IV-d")]:
         if vol_dir.exists():
             chunks.extend(sorted(vol_dir.glob(f"{prefix}*.md")))
 
     results = []
-    tier2_count = {"vol1": 0, "vol2": 0, "vol3": 0}
+    tier2_count = {"vol1": 0, "vol2": 0, "vol3": 0, "vol4": 0}
     skeleton_count = 0
     for p in chunks:
         r = audit_chunk(p)
         results.append(r)
         if r["tier2"]:
-            if "/vol1/" in str(p):
-                key = "vol1"
-            elif "/vol2/" in str(p):
-                key = "vol2"
-            else:
-                key = "vol3"
+            # Derive the key from the path rather than an else-fallback: the
+            # old form defaulted anything non-vol1/vol2 to "vol3", so adding a
+            # volume without touching this would have silently mis-tallied it.
+            key = next((v for v in ("vol1", "vol2", "vol3", "vol4")
+                        if f"/{v}/" in str(p)), None)
+            if key is None:
+                raise RuntimeError(f"chunk in unrecognised volume dir: {p}")
             tier2_count[key] += 1
         else:
             skeleton_count += 1
@@ -300,12 +334,12 @@ def main() -> int:
 
     # Build report
     lines: list[str] = []
-    lines.append("# Vol III d.21–d.30 Pass 2 — Style/Formatting Audit (full corpus)")
+    lines.append("# Pass 2 — Style/Formatting Audit (full corpus, Vols I–IV)")
     lines.append("")
     lines.append(
         f"Generated by `tools/audit-style-formatting.py`. "
         f"Walked Vol I={tier2_count['vol1']} + Vol II={tier2_count['vol2']} "
-        f"+ Vol III={tier2_count['vol3']} "
+        f"+ Vol III={tier2_count['vol3']} + Vol IV={tier2_count['vol4']} "
         f"Tier-2 chunks ({skeleton_count} skeletons skipped).")
     lines.append("")
     lines.append("## Failure-mode tallies")
@@ -346,10 +380,11 @@ def main() -> int:
 
     # Console summary
     total_flags = sum(mode_tally.values()) + len(dups)
-    print(f"Vol I Tier-2: {tier2_count['vol1']} | "
-          f"Vol II Tier-2: {tier2_count['vol2']} | "
-          f"Vol III Tier-2: {tier2_count['vol3']} | "
-          f"skeletons skipped: {skeleton_count}")
+    print(" | ".join(
+        f"Vol {roman} Tier-2: {tier2_count[key]}"
+        for roman, key in (("I", "vol1"), ("II", "vol2"),
+                           ("III", "vol3"), ("IV", "vol4")))
+        + f" | skeletons skipped: {skeleton_count}")
     print(f"Failure tallies: {dict(mode_tally)}")
     print(f"Legacy duplicates: {len(dups)}")
     print(f"Total FLAGs: {total_flags}")
