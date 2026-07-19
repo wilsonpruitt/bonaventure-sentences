@@ -13,7 +13,8 @@ full re-verify of 1,286 published chunks.
   Rate sampled at **0 errors in 331 lines across 8 Vol III pages**. A mis-split *misfiles* the
   characters into the adjacent band rather than destroying them, and the writers recovered them.
   **No sweep warranted.** See `vol4-column-gutter-parity.md` for the mechanism and the table.
-* §1 notes/page calibration run. **§1b, §5 and §7 NOT run.**
+* **§1a (notes/page + Vol I spot-check) — RUN, no dropout in Vol I; low ratio is genuine page design.**
+* **§1b, §5 and §7 NOT run.** §1b and §7 remain blocked on the `line_start` backfill.
 No repairs are proposed anywhere in this file.
 
 ---
@@ -86,6 +87,34 @@ this class reaches Vol I at all, which is the cheapest possible answer to the qu
 
 Note also that **Vol III's floor is 7.1** — the tightest, highest distribution in the corpus. That is
 weak positive evidence that Vol III (the most recently written, and live) is *not* broadly affected.
+
+### ✔ RUN 2026-07-19 — Vol I spot-check — **no dropout. The low ratio is genuine page design.**
+
+The two lowest-ratio distinctions in the corpus, **Vol I d.38 (4.6) and d.39 (5.2)**, were checked
+against the printed page. Three pages sampled, footnote block read directly off 450 dpi crops and
+compared item-by-item with the chunk's apparatus:
+
+| page | chunk | printed notes | rendered in chunk |
+|---|---|---|---|
+| 670 | I-d38-a1-q1 | 5 | 5 — all present |
+| 674 | I-d38-a2-q1 | 8 | 8 — `[^1]`–`[^8]` are p.674's 1–8, verbatim and in order |
+| 689 | I-d39-a1-q2 | 10 | 10 — all present |
+
+**Verdict: the OCR footer-dropout class does NOT reach Vol I**, and the low notes-per-page ratio has a
+mundane explanation — **Vol I pt2's editorial notes are long discursive paragraphs**, several of which
+fill a whole footer column, so fewer fit per page. A page printing 5 notes is printing 5 notes.
+The §1a screen did its job: it pointed at the two most suspicious distinctions in the corpus, and
+looking settled them. **This closes §1 for Vol I.** It says nothing about Vols II/III, where the
+ratio never looked anomalous in the first place.
+
+**⚠ Correction to this document:** §2 below asserts "Vol I is single-column — not applicable."
+**That is wrong: Vol I pt2 is TWO-COLUMN**, as these crops show. It does not change any conclusion
+(the gutter question closed as a non-issue anyway), but the claim should not be relied on.
+
+**Incidental, same class as the Vol III finding:** p.689 shows 2–3 transcription variants against the
+print — `Quae afferuntur` → `Quae allegantur`, `in elicienda cognitione` → `in eliciendo cognitione[m]`
+— and `bon-sent-I-d39-a1-q2.md` `[^15]` reads **`Quae litterantur in 6. arg. ad opposit.`**, where
+*litterantur* is not a Latin word. **Suspected garble; needs the p.690 band to confirm.** Not acted on.
 
 ### Test 1b — direct raw-side detector (not yet built)
 
