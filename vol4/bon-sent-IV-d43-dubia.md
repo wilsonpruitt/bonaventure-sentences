@@ -13,7 +13,7 @@ line_end: 96181
 source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 902–904"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR (raw L96011–96181) + p.902–904 bands, literal English, full apparatus, dubia count verified off bands, no scholion (2026-07-17)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR (raw L96011–96181) + p.902–904 bands, literal English, full apparatus, dubia count verified off bands, no scholion (2026-07-17) + d.41–d.50 decade-gate [?] resolution at 600 dpi: p.904 note 7 'Epist. 119 (alias 152) n. 2. 4. et 8' (2026-07-21)"
 format_version: 1
 ---
 
@@ -163,8 +163,8 @@ Likewise it is asked about this which Jerome says: *That certain ones at the end
 [^p904-6]: **La.** Hic in lit. Magistri, c. 6.
      **En.** Here in the text of the Master, c. 6.
 
-[^p904-7]: **La.** Vide eius Epist. 119. (alias 132.) n. 2. [?] et 8, ubi docet, hanc sententiam proposuisse Theodorum Heracleoten, Apollinarium et Diodorum. — Idem dub. solvunt B. Albert., hic a. 21; S. Thom. et Richard. a Med., hic circa lit.
-     **En.** See his Letter 119 (formerly 132), n. 2 [?] and 8, where he teaches that Theodore of Heraclea, Apollinaris, and Diodore had proposed this opinion. — The same doubt is resolved by Bl. Albert, here a. 21; St. Thomas and Richard of Middleton, here on the text.
+[^p904-7]: **La.** Vide eius Epist. 119. (alias 152.) n. 2. 4. et 8, ubi docet, hanc sententiam proposuisse Theodorum Heracleoten, Apollinarium et Diodorum. — Idem dub. solvunt B. Albert., hic a. 21; S. Thom. et Richard. a Med., hic circa lit.
+     **En.** See his Letter 119 (formerly 152), n. 2, 4, and 8, where he teaches that Theodore of Heraclea, Apollinaris, and Diodore had proposed this opinion. — The same doubt is resolved by Bl. Albert, here a. 21; St. Thomas and Richard of Middleton, here on the text.
 
 ---
 

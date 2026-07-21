@@ -13,7 +13,7 @@ pdf_pages: [894, 895]
 source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 874–875"
 has_apparatus: true
 has_scholion: false
-transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR (raw L93074–93149) + p.874–875 bands, literal English, full apparatus (2026-07-17)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR (raw L93074–93149) + p.874–875 bands, literal English, full apparatus (2026-07-17) + d.41–d.50 decade-gate [?] resolution at 600 dpi: 'alis' confirmed as printed (2026-07-21)"
 format_version: 1
 ---
 
@@ -50,7 +50,7 @@ proximitatem; sed in cognatione legali fit proximitas[^p875-1]: ergo fit matrimo
 
 **Respondeo:** Dicendum, quod cognatio legalis impedit matrimonium. Et ratio huius est statutum Ecclesiae, quae legem confirmat et approbat.
 
-Si autem quaeritur: quare Ecclesia statuit? dici potest, quod ratione honestatis: quoniam isti affectus, scilicet paternus et maritalis, circa eandem personam sunt incompossibiles, salva honestate; et quoniam alis[?] cognatio ad affectum consanguinitatis perducit, si quis contraheret, iam in hoc honestati derogaret; et qui assuesceret contrahere cum filia adoptiva, aut parum aut nihil cum naturali timeret contrahere, cum illam assumserit ad pertractandum ut filiam naturalem. Et sic patet, quare debet impedire.
+Si autem quaeritur: quare Ecclesia statuit? dici potest, quod ratione honestatis: quoniam isti affectus, scilicet paternus et maritalis, circa eandem personam sunt incompossibiles, salva honestate; et quoniam alis cognatio ad affectum consanguinitatis perducit, si quis contraheret, iam in hoc honestati derogaret; et qui assuesceret contrahere cum filia adoptiva, aut parum aut nihil cum naturali timeret contrahere, cum illam assumserit ad pertractandum ut filiam naturalem. Et sic patet, quare debet impedire.
 
 Quomodo autem impediat secundum tres differentias ita, quod secundum alteram ad tempus tantum, supra[^p875-5] dictum est. — Ratio autem huius est: quia illa adoptio tenet ratione eius, quod sub *eadem potestate* sunt filia naturalis et filius adoptivus, nec se habent ut fratres, nisi quamdiu sic sunt; et ideo, hoc cessante, possunt se habere secundum affectionem coniugalem. — His visis, satis patent obiecta.
 
@@ -92,7 +92,7 @@ nearness; but in legal kinship nearness is produced[^p875-1]: therefore it becom
 
 **Respondeo:** It must be said that legal kinship impedes marriage. And the reason for this is the statute of the Church, which confirms and approves the law.
 
-But if it is asked: why did the Church establish [this]? it can be said [that it is] by reason of honesty: because these affections, namely the paternal and the marital, are incompossible in regard to the same person, honesty being preserved; and because such[?] kinship leads to the affection of consanguinity, if anyone were to contract [marriage], he would in this very act derogate from honesty; and one who grew accustomed to contracting with an adoptive daughter would fear little or nothing to contract with a natural one, since he had taken her up to be treated as a natural daughter. And thus it is clear why it ought to impede.
+But if it is asked: why did the Church establish [this]? it can be said [that it is] by reason of honesty: because these affections, namely the paternal and the marital, are incompossible in regard to the same person, honesty being preserved; and because such kinship leads to the affection of consanguinity, if anyone were to contract [marriage], he would in this very act derogate from honesty; and one who grew accustomed to contracting with an adoptive daughter would fear little or nothing to contract with a natural one, since he had taken her up to be treated as a natural daughter. And thus it is clear why it ought to impede.
 
 But in what manner it impedes according to three differences — such that according to one [of them only] for a time — has been said above[^p875-5]. — And the reason for this is: because that adoption holds by reason of the fact that the natural daughter and the adoptive son are under the *same power*, nor do they stand to one another as brother and sister except so long as they are so; and therefore, this ceasing, they can behave toward one another according to conjugal affection. — These things having been seen, the objections are sufficiently clear.
 
@@ -152,4 +152,4 @@ But in what manner it impedes according to three differences — such that accor
 **Apparatus count.** 9 footers total — **p.874: 2** (Quaracchi fnn. 6–7) + **p.875: 7** (Quaracchi fnn. 1–7). Labels preserve the Quaracchi per-page footer numbers.
 
 **[?] flags.**
-- Respondeo, "et quoniam **alis[?]** cognatio ad affectum consanguinitatis perducit": the print reads *alis* (so also the raw OCR, L93147). Sense requires "such/legal kinship" (probably *talis*, dropped *t*) or "otherwise" (*alias*); rendered here as the ambiguous "such kinship." Needs a 600 dpi confirmation at the d.41–d.50 decade-polish gate.
+- Respondeo, "et quoniam **alis** cognatio ad affectum consanguinitatis perducit" — **RESOLVED at the d.41–d.50 decade gate (2026-07-21).** Re-read at 600 dpi on the p.875 left column (PDF p.895), with the word magnified: the print shows four letters, *a-l-i-s*, at the head of the line, with no *t* and no hyphenation from the preceding line (which ends *…et quoniam*). So *alis* is what Quaracchi set, and the raw OCR (L93147) is faithful. It is an evident dropped-*t* for **talis** — the very phrase stands three lines above in argument 3 on the same page (*talis cognatio legalis nulli bono matrimonii repugnat*) — but the emendation is Quaracchi's to make, not ours: the Latin is left as printed and the English keeps the sense-reading "such kinship." The `[?]` is removed because the *reading* is no longer in doubt.

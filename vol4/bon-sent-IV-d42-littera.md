@@ -13,7 +13,7 @@ line_end: 92362
 source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 864–867"
 has_apparatus: true
 has_scholion: false
-transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR (raw L92045–92362) + p.864–867 PDF bands, literal English, apparatus incl. claimed p.864 NOTAE (2026-07-17)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR (raw L92045–92362) + p.864–867 PDF bands, literal English, apparatus incl. claimed p.864 NOTAE (2026-07-17) + d.41–d.50 decade-gate [?] resolution at 600 dpi: p.865 note 5 Matthew citation confirmed as printed (2026-07-21)"
 format_version: 1
 ---
 
@@ -127,8 +127,8 @@ fourth are not to be condemned. Whence Augustine[^p867-1]: « Second marriages t
 [^p865-4]: **La.** Can. *Nosse desideras* (3.), C. 30. q. 1; ubi citatur I. Cor. 7, 5. Seq. locus est C. *Dictum est* (4.), ibid.
      **En.** The canon *Nosse desideras* (3), Causa 30, q. 1; where 1 Cor. 7:5 is cited. The following passage is the canon *Dictum est* (4), in the same place.
 
-[^p865-5]: **La.** Can. *Ad limina* (7.), ibid.; et citantur Matth. 19, 5; 6, 32.[?] — Vat. cum edd. 4, 5, 9 pro *dimittendum esse* (i. e. non inquietandum) *non dimittendam esse,* scilicet uxorem.
-     **En.** The canon *Ad limina* (7), in the same place; and Matt. 19:5; 6:32[?] are cited. — The Vatican [edition] with editions 4, 5, 9, for *dimittendum esse* (i.e. [that he is] not to be disturbed) [reads] *non dimittendam esse,* namely the wife.
+[^p865-5]: **La.** Can. *Ad limina* (7.), ibid.; et citantur Matth. 19, 5; 6, 32. — Vat. cum edd. 4, 5, 9 pro *dimittendum esse* (i. e. non inquietandum) *non dimittendam esse,* scilicet uxorem.
+     **En.** The canon *Ad limina* (7), in the same place; and Matt. 19:5; 6:32 are cited. — The Vatican [edition] with editions 4, 5, 9, for *dimittendum esse* (i.e. [that he is] not to be disturbed) [reads] *non dimittendam esse,* namely the wife.
 
 [^p865-6]: **La.** Can. *Pervenit ad nos* (1.), ibid. De explicatione et abrogatione huius canonis cfr. C. *Qui spiritualem* (4.), ibid. q. 4. et C. *Martinus* (4.), X. de Cognatione spirit. (lib. IV. tit. 11.). — Post *archivis* edd. plurimae et codd. BCE addunt glossando *id est armariis;* deinde Vat. et plurimae edd. falso *praesidentes* pro *prohibentes;* denique pro *rescripserunt* ed. 8 cum canone *praescripserunt.*
      **En.** The canon *Pervenit ad nos* (1), in the same place. Concerning the explanation and abrogation of this canon cf. the canon *Qui spiritualem* (4), in the same place, q. 4, and the canon *Martinus* (4), [Decretals] X, *On spiritual cognation* (book IV, tit. 11). — After *archivis* very many editions and codices BCE add, by way of gloss, *id est armariis* (that is, in the presses); then the Vatican [edition] and very many editions falsely [read] *praesidentes* for *prohibentes;* finally, for *rescripserunt* ed. 8, with the canon, [reads] *praescripserunt.*
@@ -187,4 +187,4 @@ fourth are not to be condemned. Whence Augustine[^p867-1]: « Second marriages t
 **OCR garbles silently corrected against the bands:** `sociali`→*sociati*; `copulaii`→*copulari*; `Spiritnalis`→*Spiritualis*; `Symmachns`→*Symmachus*; `regeneravit`/`regeneramus` read against band; `Maguntinensi` (retained; variant noted in `[^p865-3]`); `Nicolans`→*Nicolaus*; `praesulatni`→*praesulatui*; `iuiungatur`→*iniungatur*; `couiugii`→*coniugii*; `Rhegino` (as printed); `Tibnriensi`→*Tiburiensi*; `defnncto`→*defuncto*; `bigamiae`/`trigamiam` read against band.
 
 **`[?]` flags.**
-- `[^p865-5]` — the Matthew citation in the p.865-R footer reads `Matth. 19, 5; 6, 32.` in both the band and the OCR. The `6, 32` is an unusual chapter/verse form (the glossed clauses point rather to Matt. 19:6 for *Quod Deus coniunxit* and Matt. 5:32 for the fornication exception), so the printed `6, 32` may be a compressed/mis-set reference. Transcribed as printed and flagged; not silently "corrected."
+- **p.865 note 5, the Matthew citation — RESOLVED at the d.41–d.50 decade gate (2026-07-21).** Re-read at 600 dpi in the p.865 right-column footer (PDF p.885): the entry prints *Can. Ad limina (7.), ibid.; et citantur Matth. 19, 5; 6, 32.*, with the line breaking after `6,` and `32.` opening the next line. The reading is certain and the `[?]` is removed. The oddity is Quaracchi's, not ours: the glossed clauses answer to Matt. 19:6 (*Quod Deus coniunxit*) and Matt. 5:32 (the fornication exception), so `19, 5; 6, 32` looks like a compressed or mis-set reference — recorded here, transcribed as printed, not emended.

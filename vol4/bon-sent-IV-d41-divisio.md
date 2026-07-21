@@ -11,7 +11,7 @@ pdf_pages: [877, 878]
 source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 857–858"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR (raw L91279–91432) + p.857–858 PDF column bands, literal English, 10-footnote apparatus (p.857 NOTAE AD COMMENTARIUM 1–4 + p.858 footers 1–6; p.858 footers 7–8 left to a1-q1), no scholion (2026-07-17)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR (raw L91279–91432) + p.857–858 PDF column bands, literal English, 10-footnote apparatus (p.857 NOTAE AD COMMENTARIUM 1–4 + p.858 footers 1–6; p.858 footers 7–8 left to a1-q1), no scholion (2026-07-17) + d.41–d.50 decade-gate [?] resolution at 600 dpi: p.858 note 2 'codd. et ed. 1 gradu' (2026-07-21)"
 format_version: 1
 ---
 
@@ -166,9 +166,9 @@ Third, whether affinity impedes matrimony.
 
      **En.** Question 2.
 
-[^6]: **La.** Hic c. 2. Cfr. infra q. 2. — Mox pro *genere* codd. et ed. *gradu*[?], Vat. recte refragante.
+[^6]: **La.** Hic c. 2. Cfr. infra q. 2. — Mox pro *genere* codd. et ed. 1 *gradu*, Vat. recte refragante.
 
-     **En.** Here, chapter 2. Cf. below, q. 2. — Presently, for *genere* the codices and edition [read] *gradu*, the Vatican rightly resisting.
+     **En.** Here, chapter 2. Cf. below, q. 2. — Presently, for *genere* the codices and edition 1 [read] *gradu*, the Vatican rightly resisting.
 
 [^7]: **La.** Libr. IV. tit. 14. c. 8.
 

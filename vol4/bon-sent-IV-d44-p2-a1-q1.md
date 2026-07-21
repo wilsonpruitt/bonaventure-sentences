@@ -31,7 +31,7 @@ format_version: 1
 ### Articulus I. *De existentia et loco inferni.*
 ### Quaestio I. *Utrum sit infernus.*[^p920-0]
 
-Primo[^p920-1] ergo est quaestio, utrum sit ponere cruciatum aeternum, quem vocamus infernum. Et quod non, videtur.
+Primo ergo est quaestio, utrum sit ponere cruciatum aeternum, quem vocamus infernum. Et quod non, videtur.
 
 1. Deuteronomii vigesimo quinto[^p920-2]: *Iuxta mensuram peccati erit et plagarum modus*; sed nullus peccat aeternaliter: ergo nullus cruciatur aeternaliter.
 
@@ -81,7 +81,7 @@ Congruum enim est, ut pulcritudo universi decoretur quibusdam antithetis[^p921-1
 
 5. Ad illud quod obiicitur, quod iustus animus non punit amore vindictae; dicendum, quod Deus punit amore *iustitiae*, non *vindictae*; et quamvis non puniat ad correctionem, punit tamen ad iustitiae manifestationem. Aliter enim sunt puniendi corrigibiles, aliter incorrigibiles. — Si quando tamen legatur, *quod Deus ulciscitur se de suis inimicis*[^p922-10] et vindicat se de eis; hoc non est in praeiudicium iustitiae: quia, cum ipse sit iustitia, *vindicare se* <!-- page 923 -->hoc non est aliud quam servare iustitiam. Hoc autem in homine non contingit, qui non est iustitia, licet sit iustus; ideo non debet appetere vindicare se.
 
-6. Ad illud quod obiicitur ultimo, quod summe misericordis est summe misereri; dicendum, quod sicut Deus est summe misericors, ita etiam decet, ut sit summe iustus; et ideo effectus summae misericordiae non excludit effectum iustitiae; et propter hoc Deus duo tempora sibi distinxit: unum, in quo ostenderet misericordiae suae infinitatem, tradendo unigenitum Filium suum pro omnibus inimicis suis et parcendo omnibus ad se redire volentibus; aliud, in quo ostenderet iustitiae suae immensitatem, et hoc est tempus, quod deputatum est aeternis cruciatibus.
+6. Ad illud quod obiicitur ultimo, quod summe misericordis est summe misereri; dicendum, quod sicut Deus est summe misericors, ita etiam decet, ut sit summe iustus; et ideo effectus summae misericordiae non excludit effectum iustitiae; et propter hoc Deus duo tempora sibi distinxit[^p923-1]: unum, in quo ostenderet misericordiae suae infinitatem, tradendo unigenitum Filium suum pro omnibus inimicis suis et parcendo omnibus ad se redire volentibus; aliud, in quo ostenderet iustitiae suae immensitatem, et hoc est tempus, quod deputatum est aeternis cruciatibus.
 
 ### Scholion
 
@@ -96,7 +96,7 @@ Congruum enim est, ut pulcritudo universi decoretur quibusdam antithetis[^p921-1
 ### Article I. *On the existence and place of hell.*
 ### Question I. *Whether there is a hell.*[^p920-0]
 
-First,[^p920-1] then, is the question whether an eternal torment is to be posited, which we call hell. And that there is not, it seems.
+First, then, is the question whether an eternal torment is to be posited, which we call hell. And that there is not, it seems.
 
 1. Deuteronomy, chapter twenty-five[^p920-2]: *According to the measure of the sin shall be also the measure of the stripes*; but no one sins eternally: therefore no one is tormented eternally.
 
@@ -145,7 +145,7 @@ For it is congruous that the beauty of the universe be adorned with certain anti
 
 5. To that which is objected, that a just disposition does not punish from love of vengeance; it must be said that God punishes from love of *justice*, not of *vengeance*; and although he does not punish unto correction, he punishes nevertheless unto the manifestation of justice. For the corrigible are to be punished in one way, the incorrigible in another. — If nevertheless it is sometimes read *that God takes vengeance on his enemies*[^p922-10] and avenges himself on them; this is not to the prejudice of justice: for, since he himself is justice, *to avenge himself* is nothing other than to preserve justice. Now this does not befall in man, who is not justice, although he be just; therefore he ought not to desire to avenge himself.
 
-6. To that which is objected last, that it belongs to one supremely merciful to have mercy supremely; it must be said that, as God is supremely merciful, so also it is fitting that he be supremely just; and therefore the effect of the supreme mercy does not exclude the effect of justice; and on account of this God has distinguished two times for himself: one, in which he might show the infinity of his mercy, by handing over his only-begotten Son for all his enemies and by sparing all who are willing to return to him; the other, in which he might show the immensity of his justice, and this is the time which is assigned to the eternal torments.
+6. To that which is objected last, that it belongs to one supremely merciful to have mercy supremely; it must be said that, as God is supremely merciful, so also it is fitting that he be supremely just; and therefore the effect of the supreme mercy does not exclude the effect of justice; and on account of this God has distinguished two times for himself[^p923-1]: one, in which he might show the infinity of his mercy, by handing over his only-begotten Son for all his enemies and by sparing all who are willing to return to him; the other, in which he might show the immensity of his justice, and this is the time which is assigned to the eternal torments.
 
 ### Scholion
 
@@ -161,9 +161,6 @@ For it is congruous that the beauty of the universe be adorned with certain anti
 
 [^p920-0]: **La.** S. Thom., hic q. 1. a. 1. quaestiunc. 2. ad 4; Richard. a Med., hic a. 1. q. 5.
      **En.** St. Thomas, here q. 1, a. 1, quaestiunc. 2, ad 4; Richard of Middleton, here a. 1, q. 5.
-
-[^p920-1]: **La.** Codd. *Quando.*
-     **En.** The codices [read] *Quando* [for *Primo*].
 
 [^p920-2]: **La.** Vers. 2: *Pro mensura peccati* etc.
      **En.** Verse 2: *According to the measure of the sin* etc.
@@ -249,6 +246,9 @@ For it is congruous that the beauty of the universe be adorned with certain anti
 [^p922-10]: **La.** Iudith 13, 27: *Quod ulciscatur se* etc. Eccli. 5, 3: *Deus enim vindicans vindicabit.* Isai. 1, 24: *Vindicabor de inimicis meis.* — In fine solut. post *qui non est* ex cod. K (I a secunda manu) supplevimus *iustitia, licet sit.*
      **En.** Judith 13:27: *That he may avenge himself* etc. Sirach 5:3: *For God, avenging, will avenge.* Isaiah 1:24: *I will be avenged of my enemies.* — At the end of the solution, after *who is not*, from codex K (I by a second hand) we have supplied *justice, although he be [just].*
 
+[^p923-1]: **La.** Codd. F bb *constituit,* edd. *distinxit vel constituit.*
+     **En.** Codices F, bb [read] *constituit* ("appointed"); the editions [read] *distinxit vel constituit* ("distinguished or appointed").
+
 ## Notes
 
 **Provenance.** Latin re-set from IA djvu OCR raw slice L97869–L98248 and verified against the 450 dpi column bands `/tmp/colcrop/vol4-p{920,921,922}-{L,R}-{0,1,2}.png` (read Left col 0→2, then Right, per the VOL II/IV override — PDF column-band read authoritative in the cascade-shattered Respondeo/Solutio/footer regions). English is a fresh literal parallel.
@@ -262,9 +262,9 @@ For it is congruous that the beauty of the universe be adorned with certain anti
 **Apparatus.** 30 entries: p920 = 8 numbered + 1 unnumbered lead ref (`p920-0`); p921 = 11; p922 = 10. Footnote numbering restarts each printed page (page-qualified labels). Cross-page footer split at the 921/922 and 922/923 seams handled by body anchor.
 
 **`[?]` flags (unresolved / low-confidence):**
-- `[^p920-1]` (*Codd. Quando*): the superscript ¹ is not legible in the p920 band; anchored provisionally at the article's opening word *Primo* (the codical variant *Quando* most plausibly replaces *Primo*). Position uncertain — resolve at the d.40/d.50 600 dpi pass.
+- **p.920 note 1 — RESOLVED at the d.41–d.50 gate (2026-07-21): the entry is NOT this chunk's.** It had been anchored provisionally on *Primo* here because the superscript was not legible in the p920 band. The note reads *Codd. Quando*, and `bon-sent-IV-d44-p2-divisio` anchors it on Lombard's *Cum* (*Cum autem constet, animas* etc.) — *Quando* is the codical variant of *Cum*, not of *Primo*. The duplicate definition and both provisional anchors were removed from this chunk; the entry lives in the divisio alone. Duplicate definitions silently drop entries at render time, so this was a real defect, not a cosmetic one.
 - Scholion §II: OCR is two-column-shattered around *"antiqui doctores ... in centro terrae, et subtus terram"*; the connective *[tenent]* is an editorial reconstruction (bracketed). Verb form not band-confirmed. `sol sit in centro` retained verbatim (Quaracchi editors' note on Bonaventure's cosmology, not a *Sol.* = *Solutio* marginal).
-- p. 923: OCR line for *"Deus duo tempora sibi distinxit"* carries a possible footnote marker (apostrophe artifact); no p923 footer text falls within the captured raw range, so no apparatus entry was fabricated for it. Verify when p923 band is next generated.
+- p. 923: OCR line for *"Deus duo tempora sibi distinxit"* carries a possible footnote marker (apostrophe artifact); no p923 footer text falls within the captured raw range, so no apparatus entry was fabricated for it. Verify when p923 band is next generated. — **RESOLVED 2026-07-21 (d.41–d.50 boundary sweep).** The p.923 footer band was generated (gutter 1495) and read: p.923 note 1 is *Codd. F bb constituit, edd. distinxit vel constituit* — a variant on *distinxit*, confirming the apostrophe artifact was a real marker. The note was added as the p923-1 entry, anchored on *distinxit* in reply 6 and mirrored in the English. The sibling chunk `bon-sent-IV-d44-p2-a1-q2` had already recorded that this note belonged here and was not claimed there, so the note had been unowned by any chunk until now. Apparatus count is now 31 entries (p920 = 8 + `p920-0`; p921 = 11; p922 = 10; p923 = 1).
 
 **Marginal glosses omitted.** Quaracchi's editorial side-headers (*Ad oppositum*, *Error 1/2*, *Reprobatur dupliciter*, *Conclusio*, *Duplex ratio*, *Ratio congruitatis / necessitatis*, *Notandum*, *Exemplum*, *Solutio oppositorum*, *Notanda distinctio*, *Distinctio*, *Sol.*, *Aliud*, *Nota*) are editorial marginalia, not Bonaventure's text, and are trimmed out per the CLAUDE.md OCR-cleanup rule.
 

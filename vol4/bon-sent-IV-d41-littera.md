@@ -12,7 +12,7 @@ line_start: 91127
 source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 855–857"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR (raw L91127–91278) + p.855–856 PDF bands, literal English, full apparatus incl. claimed p.855 NOTAE block (2026-07-17) + Cap. VIII–IX (incestus, raptus) added from p.857 bands, dropped at OCR seam (2026-07-17)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR (raw L91127–91278) + p.855–856 PDF bands, literal English, full apparatus incl. claimed p.855 NOTAE block (2026-07-17) + Cap. VIII–IX (incestus, raptus) added from p.857 bands, dropped at OCR seam (2026-07-17) + d.41–d.50 decade-gate [?] resolution at 600 dpi: consanguinearum confirmed, p.856 note 4 continuation recovered off p.857 footer head (2026-07-21)"
 format_version: 1
 ---
 
@@ -62,7 +62,7 @@ Hic dicendum est, quod aliud est *fornicatio*, aliud *stuprum*, aliud *adulteriu
 
 ### Cap. VIII. *Quid sit incestus.*
 
-« *Incestus* est consanguinearum[?] vel affinium abusus; unde incestuosi dicuntur qui consanguineis vel affinibus suis abutuntur ».
+« *Incestus* est consanguinearum vel affinium abusus; unde incestuosi dicuntur qui consanguineis vel affinibus suis abutuntur ».
 
 ### Cap. IX. *Quid sit raptus.*
 
@@ -143,8 +143,8 @@ Here it must be said that fornication is one thing, defilement (*stuprum*) anoth
 [^p856-3]: **La.** Ita Hugo, II. de Sacram. p. XI. c. 4.
      **En.** Thus Hugh, *On the Sacraments* [Book] II, part XI, c. 4.
 
-[^p856-4]: **La.** Can. *Si duo* (4.), ibid. q. 6. Seq. locus est C. *Notificamus* (…)[?], ibid.
-     **En.** The canon *Si duo* (4), in the same place, q. 6. The following passage is the canon *Notificamus* (…)[?], in the same place.
+[^p856-4]: **La.** Can. *Si duo* (4.), ibid. q. 6. Seq. locus est C. *Notificamus* …[?] (3.), ibid.; tertius (in eapp. 5-9.) C. *Consanguineos* (1.), ibid.; sed ultima propositio est ex Gratiano, super C. *Si duo* (4.), ibid. Quae sequuntur idem habet super C. *Lex illa* (2.), C. 36. q. 1.
+     **En.** The canon *Si duo* (4), in the same place, q. 6. The following passage is the canon *Notificamus* …[?] (3), in the same place; the third (in chapters 5–9) the canon *Consanguineos* (1), in the same place; but the last proposition is from Gratian, on the canon *Si duo* (4), in the same place. What follows, the same [author] has on the canon *Lex illa* (2), C. 36, q. 1.
 
 [^p857-1]: **La.** Can. *Quod autem* (5.), C. 35. q. 5. Cfr. Isidor., IX. *Etymolog.* c. 7. n. 17.
      **En.** The canon *Quod autem* (5), Causa 35, q. 5. Cf. Isidore, *Etymologies* IX, c. 7, n. 17.
@@ -166,7 +166,7 @@ Here it must be said that fornication is one thing, defilement (*stuprum*) anoth
 
 **p.857 apparatus split.** The p.857 footer (LEFT column, above the `NOTAE AD COMMENTARIUM` block) carries one Master's-text note anchored in this littera: note ¹ = `Can. Quod autem (5.), C. 35. q. 5. Cfr. Isidor., IX. Etymolog. c. 7. n. 17`, glossing the Alexander citation (marked `illud Alexandri¹` in Cap. IX). **Claimed here** as `[^p857-1]`. The four `NOTAE AD COMMENTARIUM` notes (1–4: `Edd. hic pro quod…`, etc.) gloss the COMMENTARIUS/DIVISIO TEXTUS and are **left to the divisio chunk**. (Aside: the p.857-L footer top also holds the tail of the p.856 note-4 `Notificamus` citation — `…(3.), ibid.; tertius (in eapp. 5-9.) C. Consanguineos (1.), ibid.; sed ultima propositio est ex Gratiano, super C. Si duo (4.), ibid. Quae sequuntur idem habet super C. Lex illa (2.), C. 36. q. 1.` — which would resolve the parked `[^p856-4]` clip, but that entry is out of scope for this seam-repair pass and was left untouched.)
 
-**`[?]` flag — Cap. VIII `consanguinearum`.** The p.857-L band and raw OCR both read the incestus definition as *consanguinearum* (feminine gen. pl.: abuse of female blood-relations), not the masculine *consanguineorum*. Rendered as printed (*consanguinearum*), flagged `[?]`; the masculine form is the more familiar wording of the canon (Isidore/Gratian) and could be an editorial or setting choice — low-confidence gender ending, transcribed faithfully to the band.
+**Cap. VIII `consanguinearum` — RESOLVED at the d.41–d.50 decade gate (2026-07-21).** Re-read at 600 dpi on the p.857 left column (PDF p.877): the incestus definition prints unambiguously as *consanguinearum* (feminine gen. pl.), with the following clause reading *qui consanguineis vel affinibus suis abutuntur*. The `[?]` is removed; the reading stands as printed. That Quaracchi's wording differs from the more familiar masculine *consanguineorum* of the canon is an edition-level fact, not a transcription doubt.
 
 **Marginalia trimmed** (editorial side-glosses, not Lombard's text): *Iulius.*, *Gregorius.*, *Alia opinio.*, *Fabianus.*, *Canones concordantur.*, *Innocentius.*, *Dubium… / 2 opinio*, *Dubium Urb[anus]*, *Dubium 1.*
 
@@ -175,4 +175,4 @@ Here it must be said that fornication is one thing, defilement (*stuprum*) anoth
 **`[?]` flags.**
 - `[^p855-1]` — `Vat. et ed. 8`: the numeral/siglum after `ed.` reads as `8` in both the OCR and the p.855 band, but "edition 8" is an unusual citation form (could be an edition siglum rather than a serial number). Transcribed as printed; low-confidence numeral.
 - `[^p856-3]` — `Ita Hugo, II. de Sacram.`: the p.856-R footer band shows `II.` (= Hugh, *De sacramentis* lib. II, where the treatise on marriage sits, part XI); the djvu OCR read it as `li.` (lib.). Rendered as `II.`; the two sources disagree on this one glyph.
-- `[^p856-4]` — `Notificamus (…)`: the canon number and the tail of note 4 are clipped at the right edge of both the p.856-R band and the OCR (`…C. Notificamus` then cut). The reference to the *Notificamus* canon is certain; its parenthetical number is not recoverable from the available bands and is left as `(…)[?]`.
+- **p.856 note 4 (`Notificamus …`) — PARTIALLY RESOLVED / residual ACCEPT-ILLEGIBLE at the d.41–d.50 decade gate (2026-07-21).** Re-read at 600 dpi (PDF pp. 876–877). Two findings. (a) **The entry does continue** — as a cross-page footer runover, unnumbered, at the head of p.857's LEFT-column footer register, immediately above p.857's own note 1: *(3.), ibid.; tertius (in eapp. 5-9.) C. Consanguineos (1.), ibid.; sed ultima propositio est ex Gratiano, super C. Si duo (4.), ibid. Quae sequuntur idem habet super C. Lex illa (2.), C. 36. q. 1.* That continuation is now folded into the entry. (b) **A short middle span is genuinely lost:** p.856's note-4 line runs to the physical right edge of the imaged sheet and is trimmed there after *…C. Notificamus* plus one clipped glyph; the register below it on p.856 is blank, and the raw OCR breaks off at the identical word. So the *Notificamus* parenthetical (and possibly a few words after it, before the surviving `(3.),`) is unrecoverable from this digitization. `[?]` retained at exactly that point. **Correction made at the same time:** the earlier rendering supplied `(…), ibid.` — the `, ibid.` was an editorial reconstruction with no warrant on the page or in the OCR, and has been removed.

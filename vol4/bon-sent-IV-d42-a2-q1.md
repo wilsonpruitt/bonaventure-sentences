@@ -13,7 +13,7 @@ pdf_pages: [892, 893, 894]
 source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 872–874"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR (raw L92875–93073) + p.872–874 bands (Art II opener folded in), literal English, full apparatus + art-II scholion I–III (2026-07-17)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR (raw L92875–93073) + p.872–874 bands (Art II opener folded in), literal English, full apparatus + art-II scholion I–III (2026-07-17) + d.41–d.50 decade-gate [?] resolution at 600 dpi: p.874 note 1 sigla read clean, spurious '[al. sumtivum]' removed (2026-07-21)"
 format_version: 1
 ---
 
@@ -204,9 +204,9 @@ But if the sufficiency of these three kinships be asked, namely *carnal*, *spiri
 
     **En.** Cf. above, d. 41, Preliminary notes, near the end. — Below, for *potest* several codices and the editions [read] *non potest*.
 
-[^12]: **La.** Vide supra a. 1. q. 1. — Pro *transumtum* cod. P *transumtivum* [al. *sumtivum*], cod. Q *transumtive*.
+[^12]: **La.** Vide supra a. 1. q. 1. — Pro *transumtum* cod. P *transumtivum*, cod. Q *transumtive*.
 
-    **En.** See above, a. 1, q. 1. — For *transumtum* codex P [reads] *transumtivum* [or *sumtivum*], codex Q *transumtive*.
+    **En.** See above, a. 1, q. 1. — For *transumtum* codex P [reads] *transumtivum*, codex Q *transumtive*.
 
 [^13]: **La.** Edd. *effectus*.
 
@@ -242,5 +242,5 @@ But if the sufficiency of these three kinships be asked, namely *carnal*, *spiri
 **Seam dispositions.** p.872 seam: a1-q3 above owns the page and all 7 p.872 footers; this chunk takes only the marker-free Art II opener + Praenotata head. p.874 seam: after this chunk's scholion, QUAESTIO II opens (foot of p.874 L- and R-columns); its footers (p.874 notes 6–7) are left for a2-q2.
 
 **[?] flags:**
-- `[^12]` (p.874 note 1): the codex sigla in the *transumtum/transumtivum/transumtive* variant are partly cut at the column split — read as *cod. P … cod. Q*; the first siglum could be F, and a second variant *sumtivum* is present but its codex is illegible. Rendered *cod. P transumtivum [al. sumtivum], cod. Q transumtive*; verify at 600 dpi in the decade polish pass.
+- **p.874 note 1 (apparatus entry 12), *transumtum* variant sigla** — **RESOLVED at the d.41–d.50 decade gate (2026-07-21).** The earlier band was cut at the wrong column split (the old `colcrop.py` default of 1880; p.874 is an even page and its true gutter is at x≈2873 at 600 dpi / ≈2155 at 450 dpi — see `manual-review/vol4-column-gutter-parity.md`). Re-imaged at 600 dpi (PDF p.894), the p.874 left-column footer note 1 reads cleanly and in full: *Vide supra a. 1. q. 1. — Pro transumtum cod. P transumtivum, cod. Q transumtive.* Both sigla are **P** and **Q**; there is no third variant. The supposed second reading *sumtivum* was an artifact of the clipped band — the line breaks *tran-* / *sumtivum*, and the crop lost the *tran-*. The spurious `[al. sumtivum]` has been removed from both the Latin and the English.
 - **Scholion II/III numerals** are editorial: the printed scholion numbers only note **I.**; the following bibliographic note (*De his tribus quaestionibus …*) is unnumbered in the source and was split into II/III here to satisfy the three-part rendering. Confirm at 600 dpi whether the source intends a single note I + concluding note, or genuine I/II/III.

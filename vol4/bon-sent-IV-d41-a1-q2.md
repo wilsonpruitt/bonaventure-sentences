@@ -15,7 +15,7 @@ line_end: 91739
 word_count_latin: 1106
 source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 860–861"
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR (raw L91582–91739) + p.860–861 PDF bands, literal English, full apparatus (2026-07-17)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR (raw L91582–91739) + p.860–861 PDF bands, literal English, full apparatus (2026-07-17) + d.41–d.50 decade-gate [?] resolution at 600 dpi: p.861 note 5 re-set ('substituimus', 'Sensus est') (2026-07-21)"
 format_version: 1
 ---
 
@@ -147,8 +147,8 @@ namely of affinity; unless one wishes to draw it out and expound it according to
 [^p861-4]: **La.** Ita codd. E L Y (F in margine); alii codd. «cognovit», cod. K (I a secunda manu) legit: «cum filia, cuius matrem cognovit».
     **En.** Thus codices E L Y (F in the margin); other codices read «has known», codex K (I by a second hand) reads: «with a daughter whose mother he has known».
 
-[^p861-5]: **La.** Vide supra *Praenotata*. — Inferius post «generationem» cod. E (secunda manus) substituit «genus consanguinitatis» pro «genus affinitatis», in cod. bb «gradus affinitatis». — Sensus [non stat] nisi «genus» sumatur large pro utroque impedimento.[?]
-    **En.** See above, the *Prolegomena*. — Below, after «generation», codex E (by a second hand) substitutes «the kind of consanguinity» for «the kind of affinity», in codex bb «the degree of affinity». — The sense [does not stand] unless «kind» is taken broadly for either impediment.
+[^p861-5]: **La.** Vide supra *Praenotata*. — Inferius post *generationem* ex cod. E (secunda manus) substituimus *genus consanguinitatis* pro *genus affinitatis*, in cod. bb *gradus affinitatis*. — Sensus est: nisi *genus* sumatur *large* pro utroque impedimento.
+    **En.** See above, the *Praenotata*. — Below, after *generation*, from codex E (by a second hand) we have substituted *the kind of consanguinity* for *the kind of affinity*; in codex bb, *the degree of affinity*. — The sense is: unless *kind* be taken *broadly* for either impediment.
 
 [^p861-6]: **La.** Vide scholion ad praecedentem quaest.
     **En.** See the scholion to the preceding question.

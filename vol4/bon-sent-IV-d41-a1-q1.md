@@ -12,7 +12,7 @@ printed_pages: [858, 859, 860]
 pdf_pages: [878, 879, 880]
 source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 858–860"
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR (raw L91433–91581) + p.858–860 PDF bands (Respondeo PDF-authoritative), literal English, full apparatus (2026-07-17) + art-unicus scholion I–III added from p.860 bands (2026-07-17)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR (raw L91433–91581) + p.858–860 PDF bands (Respondeo PDF-authoritative), literal English, full apparatus (2026-07-17) + art-unicus scholion I–III added from p.860 bands (2026-07-17) + d.41–d.50 decade-gate [?] resolution at 600 dpi: p.859 note 9 lemma read as 'pro et post … et ponit' (2026-07-21)"
 format_version: 1
 ---
 
@@ -167,8 +167,8 @@ On question 2: S. Thomas, here a. 1, little-question 5; Suppl. loc. cit., a. 5. 
 [^p859-8]: **La.** Cfr. supra d. 27. a. 2. q. 1. ad 2. et 3. — Pro *quoniam talis*, quod habet cod. aa, in aliis *quando talis*.
      **En.** Cf. above, d. 27, a. 2, q. 1, ad 2 and 3. — For *quoniam talis*, which codex aa has, others read *quando talis*.
 
-[^p859-9]: **La.** Vide supra d. 25. a. 2. q. 3. ad 1. et 2. — Superius pro *ei* post cod. F *et* ponit.
-     **En.** See above, d. 25, a. 2, q. 3, ad 1 and 2. — Above, for *ei*, codex F afterward puts *et*. [?]
+[^p859-9]: **La.** Vide supra d. 25. a. 2. q. 3. ad 1. et 2. — Superius pro *et post* cod. F *et ponit*.
+     **En.** See above, d. 25, a. 2, q. 3, ad 1 and 2. — Above, for *et post*, codex F [reads] *et ponit*.
 
 ## Notes
 
@@ -183,4 +183,4 @@ On question 2: S. Thomas, here a. 1, little-question 5; Suppl. loc. cit., a. 5. 
 **p.860 seam (vs. a1-q2 writer) — no q1 content on p.860.** p.860 begins with the article-level SCHOLION (covering q1, q2, q3: "De 1. quaestione… In 2. quaestione… De 3. quaestione…"), after which a1-q2 begins. Per the dispatch instruction ("NO scholion in d.41"), this quaestio chunk carries no scholion; the shared article scholion is left to whichever chunk owns the article-scholion (a1-q2/q3 or a divisio-level handling). Frontmatter `printed_pages`/`pdf_pages` list 860/880 as instructed, but this q1 body does not physically extend onto p.860, so no `<!-- page 860 -->` break is placed.
 
 **[?] flags.**
-- [^p859-9]: the tail of the p.859 footer 9 ("Superius pro *ei* post cod. F *et* ponit") is a terse Quaracchi textual note; OCR + band give "pro ei post cod. F et ponit" and the exact sense (which word cod. F transposes/adds) is not fully certain. Rendered literally with [?].
+- **p.859 note 9 — RESOLVED at the d.41–d.50 decade gate (2026-07-21).** Re-read at 600 dpi in the p.859 right-column footer (PDF p.879): the entry ends *Superius pro* **et post** *cod. F* **et ponit** — i.e. the lemma is the two-word phrase *et post*, for which cod. F substitutes *et ponit*. The earlier reading mis-split it as *pro ei / post cod. F / et ponit*, which is what made the sense opaque. Latin and English both corrected; `[?]` removed.

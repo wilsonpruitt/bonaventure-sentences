@@ -13,7 +13,7 @@ line_end: 101427
 source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 951–953"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR (raw lines 101207–101427, apparatus of p.953 recovered from 101441–101462) with 450dpi column-band verification, literal English translation, full apparatus (24 entries) (2026-07-18)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR (raw lines 101207–101427, apparatus of p.953 recovered from 101441–101462) with 450dpi column-band verification, literal English translation, full apparatus (24 entries) (2026-07-18) + d.41–d.50 decade-gate verification at 600 dpi: p.953 note 6 'nota 5' and note 7 'd. 35. q. 4.' corrected (2026-07-21)"
 format_version: 1
 ---
 
@@ -235,11 +235,11 @@ Likewise it is asked concerning this which he says: *That they themselves may le
 [^p953-5]: **La.** Libr. II. *Moral.* c. 7. n. 10, ubi explicatur Iob 1, 8. Pro *adminiculum* cod. *adiutorium*, cod. S *adinventiones*, cod. A *admirationes* (cod. M *admirationem*), quod magis Gregorio concordat. Cfr. tom. II. pag. 85, nota 2. et pag. 268, nota 3. — Idem dub. solvit Richard. a Med., hic circa lit.
      **En.** *Moralia*, book II, c. 7, n. 10, where Job 1:8 is explained. For *adminiculum* a codex reads *adiutorium*, codex S *adinventiones*, codex A *admirationes* (codex M *admirationem*), which agrees better with Gregory. Cf. vol. II, p. 85, note 2, and p. 268, note 3. — Richard of Middleton resolves the same doubt, here concerning the text.
 
-[^p953-6]: **La.** *De Div. Nom.* c. 7. § 2. Cfr. tom. II. pag. 177, nota 3. — Damasc., II. *de Fide orthod.* c. 22: *Deus quippe non deliberat, quia ignorantis est consilium inire* (cfr. tom. I. pag. 714, nota 5.).
-     **En.** *On the Divine Names* c. 7, § 2. Cf. vol. II, p. 177, note 3. — Damascene, *On the Orthodox Faith* II, c. 22: *For God does not deliberate, since to enter upon counsel belongs to one who is ignorant* (cf. vol. I, p. 714, note 5).
+[^p953-6]: **La.** *De Div. Nom.* c. 7. § 2. Cfr. tom. II. pag. 177, nota 5. — Damasc., II. *de Fide orthod.* c. 22: *Deus quippe non deliberat, quia ignorantis est consilium inire* (cfr. tom. I. pag. 714, nota 5.).
+     **En.** *On the Divine Names* c. 7, § 2. Cf. vol. II, p. 177, note 5. — Damascene, *On the Orthodox Faith* II, c. 22: *For God does not deliberate, since to enter upon counsel belongs to one who is ignorant* (cf. vol. I, p. 714, note 5).
 
-[^p953-7]: **La.** Cfr. I. Sent. d. 6. dub. 5. et III. Sent. d. 33. q. 1. ad 2. — Vide de hoc dubio S. Thom. et Richard. a Med., hic circa lit.
-     **En.** Cf. I *Sentences*, d. 6, dub. 5, and III *Sentences*, d. 33, q. 1, ad 2. — See on this doubt St. Thomas and Richard of Middleton, here concerning the text.
+[^p953-7]: **La.** Cfr. I. Sent. d. 6. dub. 5. et III. Sent. d. 35. q. 4. ad 2. — Vide de hoc dubio S. Thom. et Richard. a Med., hic circa lit.
+     **En.** Cf. I *Sentences*, d. 6, dub. 5, and III *Sentences*, d. 35, q. 4, ad 2. — See on this doubt St. Thomas and Richard of Middleton, here concerning the text.
 
 [^p953-8]: **La.** Libr. II. *Moral.* c. 3. n. 3: *Quid enim de his quae scienda sunt, nesciunt qui scientem omnia sciunt?* Cfr. IV. *Dialog.* c. 33.
      **En.** *Moralia*, book II, c. 3, n. 3: *For what of the things that are to be known do they not know, who know him who knows all things?* Cf. *Dialogues* IV, c. 33.
@@ -274,5 +274,9 @@ Likewise it is asked concerning this which he says: *That they themselves may le
 **OCR-vs-band disagreements resolved at band time** (not parked as flags): `Angustinus` → *Augustinus*; `nnergi` → *mergi*; `balbutire` (OCR `balbulire`); `sinttales` → *sint tales*; `sufBcientia` → *sufficientia*; `Corinlhios oclavo` → *Corinthios octavo*; `caritalem` → *caritatem*; `Iob` for OCR `lob` throughout; `Dionysius` marker `°` read as superscript 6; `super principium Iob K` → *super principium Iob*⁵.
 
 **`[?]` flags.** None.
+
+**Two apparatus misreads corrected at the d.41–d.50 decade gate (2026-07-21).** Both were logged in an earlier session but deliberately left unfixed pending this gate; both are now confirmed at 600 dpi on the p.953 right-column footer register (PDF p.973) and corrected in the Latin and the English.
+- p.953 note 6: the internal cross-reference reads *Cfr. tom. II. pag. 177, nota **5***, not `nota 3`. (The entry's other cross-reference, *tom. I. pag. 714, nota 5*, was already right.)
+- p.953 note 7: the Sentences cross-reference reads *III. Sent. d. **35**. q. **4**. ad 2.*, not `d. 33. q. 1. ad 2.` The preceding *I. Sent. d. 6. dub. 5.* was already right.
 
 **No scholion.** Dubia sections carry none; `has_scholion: false` is correct.
