@@ -192,6 +192,7 @@ function ApparatusBlock({ apparatus }: { apparatus: ApparatusEntry[] }) {
       <ol className="apparatus-list">
         {apparatus.map((e) => (
           <li key={e.id} id={`fn-${e.id}`} className="apparatus-entry">
+            <span className="apparatus-num">{displayLabel(e.id)}</span>
             <div className="apparatus-la">{renderInline(e.la)}</div>
             {e.en && <div className="apparatus-en">{renderInline(e.en)}</div>}
           </li>
@@ -202,6 +203,16 @@ function ApparatusBlock({ apparatus }: { apparatus: ApparatusEntry[] }) {
 }
 
 // --- Rendering helpers ------------------------------------------------------
+
+// Apparatus labels are page-qualified internally (`p909-1`, `p983c-2`, `p904-n1`)
+// so that Quaracchi's per-printed-page footnote restarts can't collide into
+// duplicate definitions — a duplicate silently drops entries at render time.
+// The reader should still see the number the page actually prints, so strip the
+// `p<page>` namespace and show the rest. Bare labels (`12`, `2b`) pass through.
+function displayLabel(id: string): string {
+  const m = id.match(/^p\d+[a-z]*-(.+)$/);
+  return m ? m[1] : id;
+}
 
 function renderBody(body: string, className: string, pageMode: PageMode) {
   if (!body) return null;
@@ -295,7 +306,7 @@ function renderInline(text: string, pageMode: PageMode = "off"): React.ReactNode
       const id = m[2];
       tokens.push(
         <sup key={`fn-${key++}`} className="fn-ref">
-          <a href={`#fn-${id}`}>{id}</a>
+          <a href={`#fn-${id}`}>{displayLabel(id)}</a>
         </sup>
       );
     } else if (m[3] !== undefined) {
