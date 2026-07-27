@@ -102,6 +102,22 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <p style={{ fontSize: "11px", opacity: 0.7 }}>
             Quaracchi Edition (1882) &middot; Working Draft &middot; MMXXVI
           </p>
+          {/* Rights line — the Quaracchi Latin is public domain; what is licensed
+              is our English, apparatus, and encoding. Keep in sync with LICENSE. */}
+          <p
+            style={{
+              fontSize: "11px",
+              opacity: 0.7,
+              maxWidth: "44rem",
+              margin: "0.6rem auto 0",
+              lineHeight: 1.7,
+            }}
+          >
+            The Quaracchi Latin is public domain. The English translation, notes, and
+            structured text are &copy; 2026 Wilson Pruitt, licensed{" "}
+            <a href="/rights">CC BY-NC 4.0</a> &mdash; free to share and build on, not to
+            sell. <a href="/rights">Commercial use, ask.</a>
+          </p>
         </footer>
         <script defer src="/_vercel/insights/script.js"></script>
       </body>
