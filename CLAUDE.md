@@ -555,7 +555,22 @@ npx vercel deploy --prod --prebuilt --archive=tgz
 - `--archive=tgz` required (Free plan's 5000-files/day upload cap)
 - **Only the project owner deploys** to the production custom domain (bonaventure.wrootpress.com). Other contributors should commit their work to a branch; owner pulls and deploys.
 
-### ★ DEPLOY CADENCE — batch to the page decade (Wilson, 2026-07-28)
+### ★ DEPLOY CADENCE — at structural boundaries (Wilson, 2026-07-28)
+
+> ⚠ **TWO SEPARATE CADENCES. DO NOT CONFLATE THEM** — they were briefly given the
+> same name ("page decade") on 2026-07-28 and it caused real confusion.
+>
+> | | **Polish gate** | **Deploy** |
+> |---|---|---|
+> | Purpose | *quality* — resolve `[?]` flags, boundary sweep, cleanup | *publishing* — make finished text readable |
+> | Trigger | ~100 printed pp · work boundary · new-work shakedown | **every pars / work boundary** |
+> | Breviloquium | 2 total: p.218 shakedown (done), p.291 close | ~7: one per pars |
+> | Defined in | § "Polish-gate cadence for Vols V–X" | here |
+>
+> They coincide at a work boundary and nowhere else. **The term "page decade" is
+> retired** — it was coined for the deploy cadence but borrowed its word from the
+> Vols I–IV *decade gates*, which were the quality cadence. Say "polish gate" or
+> "deploy boundary."
 
 **Do NOT build + deploy after every chunk.** The corpus is now ~1,950 static
 pages; `vercel build --prod` is slow and the upload archive is ~97 MB and only
@@ -565,15 +580,17 @@ publish one capitulum.
 - **Commit every chunk** as usual (two commits: chunk, then resume note). That
   is free and stays per-chunk — the cadence change is about deploying, not
   committing.
-- **Build + deploy at the page-decade mark** — roughly every **10 printed
-  pages** of new text — and at the polish gates, which are the same kind of
-  pause. Snap to a structural seam (end of a pars / work) rather than cutting
-  mid-unit.
+- **Build + deploy when a structural unit closes** — a **pars**, or a **work**.
+  For the Breviloquium that is roughly every 10–15 printed pages, so readers are
+  never more than one pars behind. Never cut mid-pars just to hit a page count.
+- **Deploying does NOT wait for the polish gate.** A pars ships when it is
+  Tier 2 and its per-chunk verification passes; the ~100-page gate is a separate,
+  later sweep. Waiting for the gate would have left 72 finished pages unpublished
+  across the Breviloquium.
 - **Push is cheap and separate**; it still needs Wilson's per-action OK, but it
   doesn't have to wait for a deploy-worthy batch.
-- Park deploy-only work (site copy, UI tweaks) until the next scheduled deploy
-  rather than shipping it on its own. Keep a running list in the resume note so
-  nothing is forgotten at the gate.
+- Park deploy-only work (site copy, UI tweaks) until the next deploy boundary
+  rather than shipping it on its own. Keep a running list in the resume note.
 - Deploying is a **protected action** regardless: it always gets its own
   explicit OK (see the global CLAUDE.md hard stops). Batching changes *when* to
   ask, never *whether*.

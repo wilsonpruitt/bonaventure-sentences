@@ -12,9 +12,11 @@
 > c8 225 · c9 226 · c10 227 · c11 229 · c12 230. Index gives opening pages only — confirm each
 > span on the bands.
 >
-> ## ⏸ PARKED UNTIL THE NEXT DEPLOY (page-decade gate)
-> Deploys now batch to the page decade (CLAUDE.md § "★ DEPLOY CADENCE"), so deploy-only work
-> waits here instead of shipping on its own. **Clear this list at the gate.**
+> ## ⏸ PARKED UNTIL THE NEXT DEPLOY BOUNDARY (close of Pars II, ~p.230)
+> **Deploy fires at every pars / work boundary** — NOT at the ~100-page polish gate, and not
+> per chunk (CLAUDE.md § "★ DEPLOY CADENCE"; the two cadences are tabulated there — don't
+> conflate them, and don't say "page decade", which is retired). Deploy-only work waits here
+> instead of shipping alone. **Clear this list at the boundary.**
 > - **Home-page copy is STALE AND LIVE.** `site/src/app/page.tsx` says *"Book IV — the
 >   sacraments — is underway, distinction by distinction."* Book IV **completed 2026-07-21**
 >   and is fully deployed. The sentence sits directly above the Stripe support tiers, so it is
@@ -22,8 +24,8 @@
 >   deferred this 2026-07-28 to ride along with the next deploy — it is his voice, so get his
 >   OK on the wording, don't just rewrite it.**
 > - Last deployed: `39c7bc5` (Pars II c1 + the Book V browse container), 2026-07-28.
->   **Deployed through printed p.219.** Next deploy at roughly p.229–230, i.e. the close of
->   Pars II — 12 printed pages, which is one page-decade and a clean structural seam.
+>   **Deployed through printed p.219.** Next deploy = **close of Pars II, ~p.230** (12 printed
+>   pages, 11 more capitula). The p.291 polish gate is a different event and much later.
 >
 > **Hand-off INTO c2** (recorded in c1's Notes, quote it in the dispatch):
 > - Cap. II opens in p.219's **right** column at `Cap. II. De natura corporali quantum ad fieri.`
