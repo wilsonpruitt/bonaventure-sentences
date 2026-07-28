@@ -1,34 +1,45 @@
 import Link from "next/link";
-import { loadAllContent } from "@/lib/content";
+import { loadAllContent, browseEntries, divisionCountLabel } from "@/lib/content";
 import { Illumination } from "@/components/decorations";
 
 export default function BrowsePage() {
-  const books = loadAllContent();
+  const entries = browseEntries(loadAllContent());
 
   return (
     <div>
       <div className="section-title">Browse All Books</div>
-      {books.map((book) => (
-        <Link key={book.id} href={`/browse/${book.id}`} className="card-link">
-          <div className="card">
-            <div style={{ display: "flex", alignItems: "flex-start", gap: "1rem" }}>
-              <Illumination size={44} letter={book.initial ?? `${book.id}`} />
-              <div>
-                <h3 className="card-title">{book.title}</h3>
-                <p className="card-meta">
-                  {book.distinctions.length}{" "}
-                  {book.divisionLabel
-                    ? (book.distinctions.length === 1
-                        ? book.divisionLabel.replace(/s$/, "")
-                        : book.divisionLabel
-                      ).toLowerCase()
-                    : `distinction${book.distinctions.length !== 1 ? "s" : ""}`}
-                </p>
+      {entries.map((entry) => {
+        const { href, key, letter, title, meta } =
+          entry.kind === "book"
+            ? {
+                href: `/browse/${entry.book.id}`,
+                key: `b${entry.book.id}`,
+                letter: entry.book.initial ?? `${entry.book.id}`,
+                title: entry.book.title,
+                meta: divisionCountLabel(entry.book),
+              }
+            : {
+                href: `/browse/tome/${entry.tome}`,
+                key: `t${entry.tome}`,
+                letter: entry.initial,
+                title: entry.title,
+                meta: `${entry.works.length} work${entry.works.length !== 1 ? "s" : ""}`,
+              };
+
+        return (
+          <Link key={key} href={href} className="card-link">
+            <div className="card">
+              <div style={{ display: "flex", alignItems: "flex-start", gap: "1rem" }}>
+                <Illumination size={44} letter={letter} />
+                <div>
+                  <h3 className="card-title">{title}</h3>
+                  <p className="card-meta">{meta}</p>
+                </div>
               </div>
             </div>
-          </div>
-        </Link>
-      ))}
+          </Link>
+        );
+      })}
     </div>
   );
 }

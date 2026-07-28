@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { loadAllContent } from "@/lib/content";
+import { loadAllContent, browseEntries, divisionCountLabel } from "@/lib/content";
 import { Illumination, CrossDivider, FleuronDivider } from "@/components/decorations";
 
 // The ten tomes of the Quaracchi Opera Omnia (Ad Claras Aquas, 1882–1902).
@@ -86,23 +86,48 @@ export default function HomePage() {
       <FleuronDivider />
 
       <div className="section-title">Published Volumes</div>
-      {books.map((book) => {
-        const translated = book.distinctions.reduce(
-          (s, d) => s + d.questions.filter((q) => q.hasTranslation).length,
+      {browseEntries(books).map((entry) => {
+        // A multi-work tome is one row; its counts are the sum of its works.
+        const group = entry.kind === "tome" ? entry.works : [entry.book];
+        const translated = group.reduce(
+          (sum, b) =>
+            sum +
+            b.distinctions.reduce(
+              (s, d) => s + d.questions.filter((q) => q.hasTranslation).length,
+              0
+            ),
           0
         );
-        const total = book.distinctions.reduce((s, d) => s + d.questions.length, 0);
+        const total = group.reduce(
+          (sum, b) => sum + b.distinctions.reduce((s, d) => s + d.questions.length, 0),
+          0
+        );
+        const { href, key, letter, title, count } =
+          entry.kind === "book"
+            ? {
+                href: `/browse/${entry.book.id}`,
+                key: `b${entry.book.id}`,
+                letter: entry.book.initial ?? `${entry.book.id}`,
+                title: entry.book.title,
+                count: divisionCountLabel(entry.book),
+              }
+            : {
+                href: `/browse/tome/${entry.tome}`,
+                key: `t${entry.tome}`,
+                letter: entry.initial,
+                title: entry.title,
+                count: `${entry.works.length} work${entry.works.length !== 1 ? "s" : ""}`,
+              };
+
         return (
-          <Link key={book.id} href={`/browse/${book.id}`} className="card-link">
+          <Link key={key} href={href} className="card-link">
             <div className="card">
               <div style={{ display: "flex", alignItems: "flex-start", gap: "1rem" }}>
-                <Illumination size={44} letter={`${book.id}`} />
+                <Illumination size={44} letter={letter} />
                 <div>
-                  <h3 className="card-title">{book.title}</h3>
+                  <h3 className="card-title">{title}</h3>
                   <p className="card-meta">
-                    {book.distinctions.length} distinction
-                    {book.distinctions.length !== 1 ? "s" : ""} &middot; {translated} of {total}{" "}
-                    questions translated
+                    {count} &middot; {translated} of {total} questions translated
                   </p>
                 </div>
               </div>

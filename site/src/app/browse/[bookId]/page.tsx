@@ -20,8 +20,13 @@ export default async function BookPage({
 
   return (
     <div>
-      <Link href="/browse" className="back-link">
-        &larr; All Books
+      {/* A work inside a multi-work tome goes back to its tome, not the top
+          level — otherwise Book V's page is unreachable except from /browse. */}
+      <Link
+        href={book.tomeTitle ? `/browse/tome/${book.tome}` : "/browse"}
+        className="back-link"
+      >
+        &larr; {book.tomeTitle ?? "All Books"}
       </Link>
       <div
         style={{

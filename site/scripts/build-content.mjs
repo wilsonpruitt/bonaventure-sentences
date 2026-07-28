@@ -149,6 +149,14 @@ const BOOK_TITLES = {
 // books. A chunk's `division:` int is the distinctio-equivalent grouping key
 // (0 is allowed for a prologue — the vol1–4 "skip distinctio 0" rule does
 // not apply to work chunks).
+// A tome that holds several independent works gets its own container entry in
+// the browse UI, so the Opera Omnia's volume sequence still reads 1-2-3-4-5
+// instead of degenerating into one top-level row per work. Tomes I-IV are a
+// single work each and need no entry — their Book IS the tome.
+const TOMES = {
+  5: { title: "Book V: Opuscula Theologica", initial: "5" },
+};
+
 const WORKS = {
   breviloquium: {
     book: 5,
@@ -344,7 +352,17 @@ for (const [bookId, distMap] of [...bookMap.entries()].sort((a, b) => a[0] - b[0
     id: bookId,
     title: bookWork ? bookWork.title : BOOK_TITLES[bookId] || `Book ${bookId}`,
     ...(bookWork
-      ? { tome: bookWork.tome, initial: bookWork.initial, divisionLabel: bookWork.divisionLabel }
+      ? {
+          tome: bookWork.tome,
+          initial: bookWork.initial,
+          divisionLabel: bookWork.divisionLabel,
+          ...(TOMES[bookWork.tome]
+            ? {
+                tomeTitle: TOMES[bookWork.tome].title,
+                tomeInitial: TOMES[bookWork.tome].initial,
+              }
+            : {}),
+        }
       : {}),
     distinctions,
   });
