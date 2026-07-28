@@ -9,16 +9,19 @@
 > - `site/scripts/build-content.mjs` has a **WORKS registry** (work→book mapping, division titles); `content.ts` + the four browse/dist pages render works with divisionLabel/initial fallbacks. Build: **1934/1934** (was 1933 + the pilot chunk). Typecheck clean.
 > - **`vol5/bon-brev-p1-c1.md` is Tier 2 and is THE FORMAT REFERENCE** — page-qualified labels, bands-only apparatus, Marginalia list in Notes, footer hand-off to c2 recorded.
 >
-> ## ★ NEXT ACTION — `bon-brev-p1-c6`. **Read `manual-review/breviloquium-pars1-handoff.md` FIRST.**
-> The rest of Pars I (c6–c9 + the Pars I gate) is fully briefed in that one file — hand a new session **that file plus CLAUDE.md § "VOL V"** and it has everything. Summary:
-> - **c1–c5 DONE, committed, and PUSHED** (`origin/master` = `5929494`; Cap. I–V, pp.210–214, **37 apparatus entries**, build 1938/1938). Pages 210–214 fully owned and contiguous; p.214 n.9 is the only outstanding note and it is c6's.
-> - **Remaining: 4 chunks** — c6 (Cap. VI, pp.214–215), c7 (VII, 215–216), c8 (VIII, 216–217), c9 (IX, 217–218). **Pars I ends p.218**; PARS II opens p.219 (verified). Cap. IX is the last of Pars I.
-> - **Prepared already — do not redo:** 450 dpi images extracted for pp.215–218, colcrop bands generated, and **every remaining gutter measured** (215=1163, 216=1385, 217=1180, 218=1377). c6's incoming hand-off (p.214 n.9 + Cap. VI's inherited opening paragraph) is quoted verbatim in the handoff file.
+> ## ★ NEXT ACTION — `bon-brev-p1-c7`. **Read `manual-review/breviloquium-pars1-handoff.md` FIRST.**
+> The rest of Pars I (c7–c9 + the Pars I gate) is fully briefed in that one file — hand a new session **that file plus CLAUDE.md § "VOL V"** and it has everything. Summary:
+> - **c1–c5 committed and PUSHED** (`origin/master` = `5929494`). **c6 DONE 2026-07-28, committed `04d8d30`, NOT pushed** (Cap. VI, pp.214–215, 6 entries, build **1939/1939**). Pages 210–215 fully owned and contiguous; p.215 n.6 is the only outstanding note and it is c7's.
+> - **Remaining: 3 chunks** — c7 (VII, 215–216), c8 (VIII, 216–217), c9 (IX, 217–218). **Pars I ends p.218**; PARS II opens p.219 (verified). Cap. IX is the last of Pars I.
+> - **c7's incoming hand-off is in c6's Notes, quoted verbatim** — p.215 n.6 (Anselm, *Cur Deus homo* I c.20) anchored on *ut dicit Anselmus*, plus Cap. VII's opening body run from `De omnipotentia Dei secundum doctrinam sacram…` to `…vere, proprie et perfecte:` at the foot of p.215's right column, continuing on p.216 with `Intelligentia autem et ratio praedictorum haec est: quia primum principium est potens potentia…`. Do not re-derive it.
+> - **Prepared already — do not redo:** 450 dpi images extracted for pp.215–218, and **every remaining gutter measured** (215=1163 ✓used, 216=1385, 217=1180, 218=1377). `/tmp/colcrop` is cleared between sessions — regenerate bands with `python3.11 tools/colcrop.py vol5 <page> <split> 3 1.8` using those splits.
+> - **`check-vol5-apparatus.py` KNOWN_TOTALS now records p.215 = 6.** Keep feeding it as each page is read.
+> - ⚠ **New (c6): the raw can show a PHANTOM anchor.** p.215's djvu line `et ideo ■mmme unumVa.tri',` carries a stray quote glyph that reads as a superscript; the band shows no anchor there. Trusting it would have shifted every later number on the page. Anchor positions in the raw are a hint, never evidence — the band decides.
 > - **New tool: `tools/check-vol5-apparatus.py`** — replaces `audit-apparatus-count.py`, which is blind to Vol V. Checks label pairing, duplicate defs, and per-page footer ownership; distinguishes a legitimately-PENDING forwarded note from a real interior GAP. Run it before every commit.
 > - **Prologue chunks (`bon-brev-prol`, `-s1..s6`, pp.201–208) can be built any time** — they don't depend on the caps.
 >
-> ### Method rules learned in c1–c5 (apply to every remaining chunk)
-> 1. **Runovers are COMMON, not rare — four in five chunks** (p.211 n.4 column-crossing, p.212 n.7 **page**-crossing, p.213 n.4 column-crossing, p.214 n.5 column-crossing and breaking **mid-word**). A note that breaks at a footer's end continues as an *unnumbered* block at the head of the next footer — sometimes on the next page, sometimes mid-word. **Treat every footer's last entry as presumed incomplete until its continuation is located or positively excluded.**
+> ### Method rules learned in c1–c6 (apply to every remaining chunk)
+> 1. **Runovers are COMMON, not rare — five in six chunks** (c6 added p.215 n.4, breaking mid-word *re-|diens*) (p.211 n.4 column-crossing, p.212 n.7 **page**-crossing, p.213 n.4 column-crossing, p.214 n.5 column-crossing and breaking **mid-word**). A note that breaks at a footer's end continues as an *unnumbered* block at the head of the next footer — sometimes on the next page, sometimes mid-word. **Treat every footer's last entry as presumed incomplete until its continuation is located or positively excluded.**
 > 2. **The running head names a page's LAST capitulum, not its first.** p.211 heads `PARS I. C. III.` although Cap. II occupies its left column. Never set a boundary from the running head; find the `Cap. N.` heading in the band.
 > 3. **Footnote numbering restarts every printed page** — hence page-qualified labels (`[^p213-4]`). Non-negotiable.
 > 4. A chunk can span three column-runs (c4 = p.212 R → p.213 L → p.213 R). Don't assume one or two.
