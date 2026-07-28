@@ -1,17 +1,24 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ★★★ BOOK IV IS COMPLETE. ALL FOUR BOOKS OF THE COMMENTARY ARE NOW TIER 2.
+> # ★★★ VOL V (TOME V — OPUSCULA) IS THE ACTIVE FRONT. Breviloquium pilot DONE 2026-07-28.
 >
-> **Build: 1933 translated / 1933 questions — 100%.** Vols I, II, III were already complete & published; **Vol IV finished 2026-07-21** with d.50 (`85a7927`) and the **d.41–d.50 decade gate PASSED** (`448ef76`) — the last gate of Book IV.
+> The Fable genre-boundary pilot ran 2026-07-28 (Wilson switched models mid-session for it) and settled everything a cheaper session needs: **the full conventions are frozen in CLAUDE.md § "VOL V — pilot conventions"** (work map, data model, Breviloquium chunking, mechanics, register). **Wilson's decisions: Tier 2 everywhere (no Tier-3 draft tier), Breviloquium first.**
 >
-> **⚠ NOT PUSHED, NOT DEPLOYED. `master` is 41 commits ahead of `origin/master`** (origin is still at `05f6010`, the d.43 pointer). Both push and deploy are protected actions needing Wilson's explicit per-action OK. **Vol IV's completion is NOT yet visible to readers.**
+> **Pilot state:**
+> - Vol V PDF + djvu raw downloaded (`raw/doctorisseraphic05bona.{pdf,_djvu.txt}`); offset **pdf = printed + 76** verified 6×; wired into `extract-pages.py --volume vol5`.
+> - `site/scripts/build-content.mjs` has a **WORKS registry** (work→book mapping, division titles); `content.ts` + the four browse/dist pages render works with divisionLabel/initial fallbacks. Build: **1934/1934** (was 1933 + the pilot chunk). Typecheck clean.
+> - **`vol5/bon-brev-p1-c1.md` is Tier 2 and is THE FORMAT REFERENCE** — page-qualified labels, bands-only apparatus, Marginalia list in Notes, footer hand-off to c2 recorded.
 >
-> ## ★ NEXT FRONT — a DECISION, not a chunk pointer
+> ## ★ NEXT ACTION — `bon-brev-p1-c2` (Cap. II, printed p.210–211)
+> Incoming hand-off (from c1's Notes): **p.210 footer nn. 7–8 belong to c2** (n.7 on *personarum*, n.8 on *unitate*). Cap. II starts in p.210's right column (`raw` ~L40160), continues onto p.211 (pdf 287 — extract + colcrop it; measure the gutter, don't assume 1350). Then c3 (p.211, index says Cap. III starts there), and onward per capitulum. **Prologue chunks (`bon-brev-prol`, `-s1..s6`, pp.201–208) can be built any time** — they don't depend on the caps.
+> ⚠ Before the grind scales past Pars I: **extend the 3 audits + seam-screen/style-audit to Vol V** (raw has NO footnote numerals — apparatus audit needs a symbol-glyph mode; id regexes must accept `bon-brev-…`). Frozen as a requirement in the CLAUDE.md section.
+> **Pars I gate** (prologue + Pars I caps) fires when Pars I closes — per-pars gates replace decade gates.
 >
-> There is no next distinction. The remaining work is a **genre boundary**, and per the model-prudence rubric these get a Fable pilot session to set conventions, not an Opus grind:
-> - **Vols V–X** (Breviloquium, Itinerarium, sermons, …) — **not yet downloaded.** Internet Archive ids follow `doctorisseraphic{NN}bona`. Each new genre wants ONE pilot session to settle register, chunking convention and apparatus shape before any volume grind.
-> - **Or: deploy Book IV** (protected) so the completed commentary is actually readable.
-> - **Or: work the open-defects register** (below) now that no front is blocked.
+> ## Also in this session (2026-07-28)
+> - `OPERA-OMNIA-TRACKER.md` corrected: **the Hexaemeron is in Vol V, not Vol VII**; Vol V row updated (10 works, ~580pp, ~250 chunks est.).
+> - ⚠ Machine disk was at 97% (~7.9 GB free) before the 76 MB Vol V download — the 450dpi band workflow needs its per-gate cleanup discipline observed strictly, and a general disk cleanup is due.
+>
+> *(Historical note: Book IV completed 2026-07-21, build 1933/1933, pushed and deployed — all four Sentences books are live at bonaventure.wrootpress.com.)*
 >
 > ## d.50 — the last distinction (2026-07-21, `85a7927`)
 > 17 chunks, pp.1033–1054, **186 apparatus entries**, all three audits clean, **zero ambiguity flags**, label pairing exact on all 17. Coordinator + 17 Opus writers in batches of 4.
