@@ -45,7 +45,8 @@ VOL5 = os.path.join(REPO_ROOT, "vol5")
 KNOWN_TOTALS = {
     201: 5,
     202: 10,
-    203: 8,   # nn.7-8 are § 2's — pending until prol-s2 lands
+    203: 8,
+    204: 9,   # nn.8-9 are § 3's — pending until prol-s3 lands
     210: 8,
     211: 7,
     212: 7,
