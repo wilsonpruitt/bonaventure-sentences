@@ -329,10 +329,14 @@ own mini-pilot) → Sermones.
      per-chunk `## Notes` records the band-derived count. Bands-first is not a
      safety-net here — it is the only source.
   2. **`audit-apparatus-count` is blind to Vol V** (its raw-side regex has nothing to
-     match). Do not trust its diff column; the seam sweeps and per-pars gates carry the
-     load. Extending the three audits with `--volume 5` (paraphrase + headers work; the
-     apparatus audit needs a symbol-glyph anchor-count mode) is **required before the
-     grind scales past Pars I.**
+     match). Do not trust its diff column. **Use `tools/check-vol5-apparatus.py`
+     instead** — it checks label pairing, duplicate defs, and per-page footer ownership
+     without touching the raw, and distinguishes a legitimately forwarded PENDING note
+     from a real interior GAP (the failure mode that cost Vol IV three whole registers).
+     Keep its `KNOWN_TOTALS` map fed as each page is read off the bands. Extending the
+     other audits with `--volume 5` (paraphrase + headers work as-is; the apparatus
+     audit would need a symbol-glyph mode) is **required before the Pars I gate**, not
+     before the chunks.
   3. `seam-screen.py` / `audit-style-formatting.py` parse `bon-sent-…` ids and will
      silently skip `bon-brev-…` files until extended — same requirement.
 - **Marginal glosses are DENSE** (one per paragraph in the Breviloquium, one per

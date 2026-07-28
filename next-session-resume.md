@@ -9,12 +9,12 @@
 > - `site/scripts/build-content.mjs` has a **WORKS registry** (work→book mapping, division titles); `content.ts` + the four browse/dist pages render works with divisionLabel/initial fallbacks. Build: **1934/1934** (was 1933 + the pilot chunk). Typecheck clean.
 > - **`vol5/bon-brev-p1-c1.md` is Tier 2 and is THE FORMAT REFERENCE** — page-qualified labels, bands-only apparatus, Marginalia list in Notes, footer hand-off to c2 recorded.
 >
-> ## ★ NEXT ACTION — `bon-brev-p1-c6` (Cap. VI, *De unitate divinae naturae in multiplicitate appropriatorum*)
-> **c1–c5 are DONE and committed** (Cap. I–V, pp.210–214, **37 apparatus entries**, build 1938/1938). Pages 210–214 are each **fully owned and contiguous** (8/7/7/7/8 notes, no gaps, no double-claims); p.214 n.9 is the only note outstanding and it is c6's.
-> - **Incoming hand-off (from c5's Notes): p.214 n. 9** — anchored on *appropriatio Hilarii*; full text quoted verbatim in c5's Notes.
-> - **c6 also inherits body text:** Cap. VI opens in p.214's right column (`Tertio vero de pluralitate appropriatorum...`) and breaks at `— Iuxta hanc sumitur tertia, scilicet in` at the column foot. **c6's `printed_pages` must begin at 214.**
-> - Extract + colcrop p.215 (pdf 291); **measure its gutter — do not assume.** Running series: p.210=1350, p.211=1175, p.212=1335, p.213=1126, p.214=1397. Parity alternates (even ~1335–1397, odd ~1126–1175) **but each cluster drifts**, so always measure.
-> - **Pars I has 9 capitula** (per the volume index: cc. I–IX, pp.210–217). After c9 closes, the **Pars I gate** fires (prologue + Pars I), which replaces the Sentences' decade gate.
+> ## ★ NEXT ACTION — `bon-brev-p1-c6`. **Read `manual-review/breviloquium-pars1-handoff.md` FIRST.**
+> The rest of Pars I (c6–c9 + the Pars I gate) is fully briefed in that one file — hand a new session **that file plus CLAUDE.md § "VOL V"** and it has everything. Summary:
+> - **c1–c5 DONE, committed, and PUSHED** (`origin/master` = `5929494`; Cap. I–V, pp.210–214, **37 apparatus entries**, build 1938/1938). Pages 210–214 fully owned and contiguous; p.214 n.9 is the only outstanding note and it is c6's.
+> - **Remaining: 4 chunks** — c6 (Cap. VI, pp.214–215), c7 (VII, 215–216), c8 (VIII, 216–217), c9 (IX, 217–218). **Pars I ends p.218**; PARS II opens p.219 (verified). Cap. IX is the last of Pars I.
+> - **Prepared already — do not redo:** 450 dpi images extracted for pp.215–218, colcrop bands generated, and **every remaining gutter measured** (215=1163, 216=1385, 217=1180, 218=1377). c6's incoming hand-off (p.214 n.9 + Cap. VI's inherited opening paragraph) is quoted verbatim in the handoff file.
+> - **New tool: `tools/check-vol5-apparatus.py`** — replaces `audit-apparatus-count.py`, which is blind to Vol V. Checks label pairing, duplicate defs, and per-page footer ownership; distinguishes a legitimately-PENDING forwarded note from a real interior GAP. Run it before every commit.
 > - **Prologue chunks (`bon-brev-prol`, `-s1..s6`, pp.201–208) can be built any time** — they don't depend on the caps.
 >
 > ### Method rules learned in c1–c5 (apply to every remaining chunk)
