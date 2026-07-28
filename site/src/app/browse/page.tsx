@@ -12,11 +12,17 @@ export default function BrowsePage() {
         <Link key={book.id} href={`/browse/${book.id}`} className="card-link">
           <div className="card">
             <div style={{ display: "flex", alignItems: "flex-start", gap: "1rem" }}>
-              <Illumination size={44} letter={`${book.id}`} />
+              <Illumination size={44} letter={book.initial ?? `${book.id}`} />
               <div>
                 <h3 className="card-title">{book.title}</h3>
                 <p className="card-meta">
-                  {book.distinctions.length} distinction{book.distinctions.length !== 1 ? "s" : ""}
+                  {book.distinctions.length}{" "}
+                  {book.divisionLabel
+                    ? (book.distinctions.length === 1
+                        ? book.divisionLabel.replace(/s$/, "")
+                        : book.divisionLabel
+                      ).toLowerCase()
+                    : `distinction${book.distinctions.length !== 1 ? "s" : ""}`}
                 </p>
               </div>
             </div>

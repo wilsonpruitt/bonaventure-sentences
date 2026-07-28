@@ -32,7 +32,9 @@ export default async function DistinctionPage({
       </Link>
 
       <header className="dist-header">
-        <h1 className="dist-page-title">Distinction {romanize(dist.id)}</h1>
+        <h1 className="dist-page-title">
+          {book.divisionLabel ? dist.title : `Distinction ${romanize(dist.id)}`}
+        </h1>
       </header>
 
       <DistinctionContent

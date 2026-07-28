@@ -261,6 +261,111 @@ The 2026-05-08 cleanup campaign's per-distinction audit logs at `manual-review/d
 6. **Littera Magistri** (Lombard's text) for any multi-chapter distinction should be its own big Tier-2 chunk, separate from the Bonaventure commentary. See `vol1/bon-sent-I-d8-littera.md` as the template.
 7. Write a re-chunking script per distinction (see `/tmp/rechunk_d8.py` pattern). Preserve frontmatter, replace only the `## Latin` body.
 
+## VOL V (Tome V — Opuscula theologica) — pilot conventions, frozen 2026-07-28
+
+Tome V is the first non-Sentences volume: **ten independent works, no distinctions.** The
+Fable pilot session (2026-07-28) settled the data model, the Breviloquium conventions, and
+the first Tier-2 chunk (`vol5/bon-brev-p1-c1.md` — **the format reference for all Vol V
+work**). Each remaining genre gets ONE mini-pilot before its grind (register + chunking
+freeze); the Breviloquium grind itself is Opus one-chunk-per-subagent per the established
+cadence. **Tier 2 everywhere — Wilson rejected the tracker's old Tier-3-draft idea for
+Vols V–X (2026-07-28).**
+
+### Work map (page ranges verified against the volume's own index; ~580 body pp.)
+
+| # | Work | Printed pp. | Slug (frozen) | Book id | Status |
+|---|---|---|---|---|---|
+| 1 | Prolegomena | I–XL+ | — | — | NOT chunked (editorial apparatus, like INDEX QUAESTIONUM) |
+| 2 | QD de scientia Christi | 3–43 | `scientia-christi` | 8 | planned |
+| 3 | QD de mysterio Trinitatis | 45–115 | `mysterio-trinitatis` | 9 | planned |
+| 4 | QD de perfectione evangelica | 117–198 | `perfectione-evangelica` | 10 | planned |
+| 5 | **Breviloquium** | 199–291 | `breviloquium` | 5 | **ACTIVE — pilot done** |
+| 6 | Itinerarium mentis in Deum | 293–316 | `itinerarium` | 6 | planned (next after Breviloquium) |
+| 7 | De reductione artium | 319–325 | `de-reductione` | 7 | planned |
+| 8 | Collationes in Hexaemeron | ~327–454 | `hexaemeron` | 11 | planned — **NOTE: it is in Vol V, not Vol VII as the old tracker claimed** |
+| 9 | Coll. de septem donis | ~455–503 | `septem-donis` | 12 | planned |
+| 10 | Coll. de decem praeceptis | ~505–532 | `decem-praeceptis` | 13 | planned |
+| 11 | Sermones selecti | ~535–579 | `sermones-selecti` | 14 | planned |
+
+Suggested order after Breviloquium: Itinerarium → De reductione → the three QD (register
+carries over from the Sentences almost unchanged) → Collationes (new reportatio register,
+own mini-pilot) → Sermones.
+
+### Data model (implemented in `site/scripts/build-content.mjs` — `WORKS` registry)
+
+- A Vol V chunk declares **`work: <slug>`** in frontmatter, **no `book:` field** — the
+  registry maps slug → book id, title, Illumination initial, division label, division
+  titles. Adding a work = adding its registry entry (ids pre-assigned above).
+- **`division: N`** (int) is the distinctio-equivalent grouping key. `division: 0` is a
+  prologue and is NOT skipped (the vols 1–4 "skip distinctio 0" rule doesn't apply to
+  work chunks). Ordering keys inside a division: `section:` (prologue §§), `capitulum:`.
+- New `type:` values: `prologus`, `capitulum` (later: `collatio`, `sermo`).
+- Site: `Book.divisionLabel/initial/tome` are optional fields; pages fall back to the
+  Sentences rendering when absent. URLs stay `/browse/{bookId}/d/{division}/q/{chunkId}`.
+
+### Breviloquium chunking (frozen)
+
+- **One chunk per capitulum** (~0.5–1.5 printed pp. — the capitulum IS Quaracchi's
+  citation unit: "Breviloq. p. V. c. 6"). ~72 capitula across 7 partes; verify each
+  pars's cap count against the index (raw L93746–93940) at chunk time, per-pars.
+- **Prologue = 7 chunks**: `bon-brev-prol` (intro, type `prologus`, division 0,
+  capitulum 0) + `bon-brev-prol-s{1..6}` (`section: 1..6`). Prologue spans printed
+  201–208; the capitula table (209–210 top) is NOT chunked (editorial, like an index).
+- File/id naming: `bon-brev-p{1..7}-c{N}` in `vol5/`.
+- Body pp. 201–291; part openings (`PARS PRIMA` + subtitle) fold into that pars's c1,
+  per the established short-opener rule.
+
+### Vol V mechanics
+
+- **Offset `pdf = printed + 76`** (verified at printed 174/176/201/320/507/530; PDF
+  690 pp). Wired into `tools/extract-pages.py` (`--volume vol5`).
+- Two-column → **VOL II OVERRIDE recipe applies.** `colcrop.py vol5 <page> 1350` — the
+  gutter on p.210 measured x≈1323–1382 of a 2571 px page (450 dpi). Measure per page;
+  expect parity alternation (Vol IV lesson).
+- **⚠⚠ THE RAW HAS NO FOOTNOTE NUMERALS.** Vol V's IA OCR renders every superscript as
+  a punctuation glyph (`^` `'` `"`). Anchor POSITIONS survive in the raw; numbers and
+  footer-entry openers do NOT. Consequences, all mandatory:
+  1. **Apparatus is bands-only.** Every footer is read from the 450 dpi bands; the
+     per-chunk `## Notes` records the band-derived count. Bands-first is not a
+     safety-net here — it is the only source.
+  2. **`audit-apparatus-count` is blind to Vol V** (its raw-side regex has nothing to
+     match). Do not trust its diff column; the seam sweeps and per-pars gates carry the
+     load. Extending the three audits with `--volume 5` (paraphrase + headers work; the
+     apparatus audit needs a symbol-glyph anchor-count mode) is **required before the
+     grind scales past Pars I.**
+  3. `seam-screen.py` / `audit-style-formatting.py` parse `bon-sent-…` ids and will
+     silently skip `bon-brev-…` files until extended — same requirement.
+- **Marginal glosses are DENSE** (one per paragraph in the Breviloquium, one per
+  chunk-sized unit elsewhere) — Quaracchi's editorial running outline in the outer
+  margin. They splice into pdftotext output mid-word but stand as separate line-blocks
+  in the djvu raw. Convention: **trim from the body** (they are not Bonaventure's text,
+  consistent with vols I–IV) **but transcribe them into a "Marginalia" list in
+  `## Notes`**, body order. No literal `[^` tokens in Notes prose.
+- **Per-page footer splits are the NORM, not the edge case** — capitula are sub-page
+  units, so nearly every printed page's footer divides between 2–3 chunks by body
+  anchor. Every dispatch leads with the incoming hand-off and forwards the outgoing one
+  (Vol II Override step 4 discipline, now constant).
+- Quaracchi's serif `1` prints like `4` (`120`→"420", `11`→"41"/"44"). Cross-check any
+  digit read against a second occurrence on the page before recording it.
+
+### Breviloquium register additions (lock these; the Sentences tables still apply)
+
+- *In principio intelligendum est…* → "At the outset it must be understood…"
+- *Ratio autem huius veritatis haec est: quia…* → "Now the reason for this truth is
+  this: since…"
+- *Et ideo* → "And therefore"; *Ex his patet, quod…* → "From these things it is clear
+  that…"
+- Preserve the sevenfold/threefold enumerations exactly (*primo… secundo…* → "first…
+  second…"); preserve Quaracchi's em-dash paragraph articulations (` — `).
+- The compressed periodic sentences stay ONE sentence in English wherever grammar
+  permits — do not break Bonaventure's *quia/cum/ideo* chains into fragments.
+
+### Polish-gate cadence for Vol V
+
+The d.{N0} decade gate maps to **one gate per pars** for the Breviloquium (prologue
+folds into the Pars I gate) and per-work gates for the short works (Itinerarium, De
+reductione = one gate each). Same three passes + disk cleanup as the Sentences gates.
+
 ## Translation depth & style
 
 **Tier 2 = literal, not paraphrase.** Scholia and apparatus get the same care as the body.
@@ -395,6 +500,7 @@ npx vercel deploy --prod --prebuilt --archive=tgz
 | II | `doctorisseraphic02bona.pdf` (1056pp) | `bonaventure_vol2_raw.txt` | `pdf = printed + 22` | 11–~903 | d.1–d.44 |
 | III | `doctorisseraphic03bona.pdf` (936pp) | `bonaventure_vol3_raw.txt` | `pdf = printed + 22` | ~6–905 | d.1–d.40 |
 | IV | `doctorisseraphic04bona.pdf` (1094pp) | `bonaventure_vol4_raw.txt` | `pdf = printed + 20` | ~17–1074 | d.1–d.50 |
+| V | `doctorisseraphic05bona.pdf` (690pp) | `doctorisseraphic05bona_djvu.txt` | `pdf = printed + 76` | 3–~579 | 10 works, no dist. (see VOL V section) |
 
 **Vol IV bootstrap (2026-06-16):** Two-column like Vol II/III → **apply the VOL II OVERRIDE recipe** (PDF-priority inversion in cascade-shattered regions; column-band reads via `colcrop.py vol4 <page> 1880` — **vol4's column split is at x≈1880, not the default 1660** (1660 truncates the left column); offset `pdf = printed + 20`, verified twice). Auto-chunker wrote **610 skeletons** (47 distinctions detected; `d.4`, `d.23`, `d.50` merged into neighbors via OCR-garbled headers + 101 dup-IDs needing pars relabeling — resolve per-distinction during the re-chunk-before-translate step). `extract-pages.py`/`build-content.mjs`/`colcrop.py` all support vol4. Book IV's decade polish gates fire at d.10/d.20/d.30/d.40/d.50.
 

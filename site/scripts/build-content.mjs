@@ -15,7 +15,7 @@ const SITE_DIR = path.resolve(__dirname, "..");
 const REPO_ROOT = path.resolve(SITE_DIR, "..");
 
 // Scan all volume dirs; each dir's files declare their own `book:` in frontmatter.
-const VOL_DIRS = ["vol1", "vol2", "vol3", "vol4"]
+const VOL_DIRS = ["vol1", "vol2", "vol3", "vol4", "vol5"]
   .map((v) => path.join(REPO_ROOT, v))
   .filter((p) => fs.existsSync(p));
 const TRANS_DIR = path.join(REPO_ROOT, "translations", "vol1");
@@ -141,6 +141,48 @@ const BOOK_TITLES = {
   4: "Book IV: On the Sacraments",
 };
 
+// ---------------------------------------------------------------------------
+// Vol V+ works registry. From Tome V onward each Quaracchi volume holds
+// multiple independent works; a chunk declares `work: <slug>` in frontmatter
+// and this registry supplies its book id, display metadata, and division
+// titles. Book ids continue the integer sequence after the four Sentences
+// books. A chunk's `division:` int is the distinctio-equivalent grouping key
+// (0 is allowed for a prologue — the vol1–4 "skip distinctio 0" rule does
+// not apply to work chunks).
+const WORKS = {
+  breviloquium: {
+    book: 5,
+    tome: 5,
+    title: "Breviloquium",
+    initial: "B",
+    divisionLabel: "Parts",
+    divisions: {
+      0: "Prologus",
+      1: "Pars I: De Trinitate Dei",
+      2: "Pars II: De creatura mundi",
+      3: "Pars III: De corruptela peccati",
+      4: "Pars IV: De incarnatione Verbi",
+      5: "Pars V: De gratia Spiritus sancti",
+      6: "Pars VI: De medicina sacramentali",
+      7: "Pars VII: De statu finalis iudicii",
+    },
+  },
+  // Future Vol V works claim book ids here as their mini-pilots run:
+  // itinerarium: 6, de-reductione: 7, scientia-christi: 8, mysterio-trinitatis: 9,
+  // perfectione-evangelica: 10, hexaemeron: 11, septem-donis: 12,
+  // decem-praeceptis: 13, sermones-selecti: 14.
+};
+
+function buildWorkChunkTitle(meta) {
+  // Breviloquium-style: "Prologus", "Prologus, §2", "Pars 3, Cap. 4".
+  if (meta.division === 0) {
+    return meta.section ? `Prologus, §${meta.section}` : "Prologus";
+  }
+  const parts = [`Pars ${meta.division}`];
+  if (meta.capitulum) parts.push(`Cap. ${meta.capitulum}`);
+  return parts.join(", ");
+}
+
 // Main
 const latinFiles = VOL_DIRS.flatMap((dir) =>
   fs
@@ -189,14 +231,30 @@ for (const { file, dir } of latinFiles) {
 
   const apparatus = parseApparatus(body);
 
+  const work = meta.work ? WORKS[meta.work] : undefined;
+  if (meta.work && !work) {
+    console.warn(`SKIP ${meta.id}: unknown work slug "${meta.work}" (not in WORKS registry)`);
+    continue;
+  }
+
   const chunkMeta = {
     id: meta.id,
     volume: parseInt(meta.volume) || 1,
-    book: parseInt(meta.book) || 1,
-    distinctio: parseInt(meta.distinctio) || 0,
+    // Work chunks derive their book id from the registry — the frontmatter
+    // carries `work:`, not `book:`, so there is a single source of truth.
+    book: work ? work.book : parseInt(meta.book) || 1,
+    workSlug: meta.work,
+    // For work chunks the grouping key is `division:`; for the Sentences it
+    // stays `distinctio:`.
+    distinctio: work
+      ? parseInt(meta.division) || 0
+      : parseInt(meta.distinctio) || 0,
     pars: meta.pars ? parseInt(meta.pars) : undefined,
     articulus: meta.articulus ? parseInt(meta.articulus) : undefined,
     quaestio: meta.quaestio ? parseInt(meta.quaestio) : undefined,
+    capitulum: meta.capitulum ? parseInt(meta.capitulum) : undefined,
+    section: meta.section ? parseInt(meta.section) : undefined,
+    division: work ? parseInt(meta.division) || 0 : undefined,
     type: meta.type || "quaestio",
     title: meta.title || "",
     titleLa: meta.title_la || "",
@@ -204,12 +262,13 @@ for (const { file, dir } of latinFiles) {
     wordCount: parseInt(meta.word_count_latin) || 0,
   };
 
-  // Skip prolegomena (distinctio 0)
-  if (chunkMeta.distinctio === 0) continue;
+  // Skip prolegomena (distinctio 0) — Sentences volumes only; work chunks
+  // legitimately use division 0 for a prologue.
+  if (!work && chunkMeta.distinctio === 0) continue;
 
   chunks.push({
     id: chunkMeta.id,
-    title: buildQuestionTitle(chunkMeta),
+    title: work ? buildWorkChunkTitle(chunkMeta) : buildQuestionTitle(chunkMeta),
     titleLa: chunkMeta.titleLa,
     titleEn: chunkMeta.titleEn,
     type: chunkMeta.type,
@@ -221,10 +280,13 @@ for (const { file, dir } of latinFiles) {
     notes,
     hasTranslation: english.length > 0,
     book: chunkMeta.book,
+    workSlug: chunkMeta.workSlug,
     distinctio: chunkMeta.distinctio,
     pars: chunkMeta.pars,
     articulus: chunkMeta.articulus,
     quaestio: chunkMeta.quaestio,
+    capitulum: chunkMeta.capitulum,
+    section: chunkMeta.section,
   });
 }
 
@@ -249,7 +311,7 @@ for (const [bookId, distMap] of [...bookMap.entries()].sort((a, b) => a[0] - b[0
       if (q.type === "littera-magistri" || q.type === "littera") return 0;
       if (q.type === "divisio") return 1;
       if (q.type === "dubia") return 3;
-      return 2; // quaestio and anything else
+      return 2; // quaestio, prologus, capitulum, and anything else
     };
     questions.sort((a, b) => {
       const ta = typeOrder(a), tb = typeOrder(b);
@@ -259,14 +321,33 @@ for (const [bookId, distMap] of [...bookMap.entries()].sort((a, b) => a[0] - b[0
       const aa = a.articulus ?? 0, ab = b.articulus ?? 0;
       if (aa !== ab) return aa - ab;
       const qa = a.quaestio ?? 0, qb = b.quaestio ?? 0;
-      return qa - qb;
+      if (qa !== qb) return qa - qb;
+      // Vol V+ ordering keys: prologue sections, then capitula.
+      const sa = a.section ?? 0, sb = b.section ?? 0;
+      if (sa !== sb) return sa - sb;
+      const ca = a.capitulum ?? 0, cb = b.capitulum ?? 0;
+      return ca - cb;
     });
 
+    // A division's work registry entry (all chunks in a division share one work)
+    const work = questions[0]?.workSlug ? WORKS[questions[0].workSlug] : undefined;
+    const divTitle = work
+      ? (work.divisions[distId] ?? `${work.divisionLabel.replace(/s$/, "")} ${distId}`)
+      : `Distinction ${distId}`;
+
     // Strip grouping fields from output
-    const cleaned = questions.map(({ book, distinctio, ...rest }) => rest);
-    distinctions.push({ id: distId, title: `Distinction ${distId}`, questions: cleaned });
+    const cleaned = questions.map(({ book, distinctio, workSlug, ...rest }) => rest);
+    distinctions.push({ id: distId, title: divTitle, questions: cleaned });
   }
-  books.push({ id: bookId, title: BOOK_TITLES[bookId] || `Book ${bookId}`, distinctions });
+  const bookWork = Object.values(WORKS).find((w) => w.book === bookId);
+  books.push({
+    id: bookId,
+    title: bookWork ? bookWork.title : BOOK_TITLES[bookId] || `Book ${bookId}`,
+    ...(bookWork
+      ? { tome: bookWork.tome, initial: bookWork.initial, divisionLabel: bookWork.divisionLabel }
+      : {}),
+    distinctions,
+  });
 }
 
 // Write output

@@ -37,9 +37,9 @@ Chunk counts for Vol I are actual; II–X are estimates from page count ÷ 5
 | II  | *Comm. in II Sent.* (d. 1–44) | ~1100 | ❌ empty file | ~240 | 0 | ~150 | D |
 | III | *Comm. in III Sent.* (d. 1–40) | ~900 | ❌ empty file | ~200 | 0 | ~125 | D |
 | IV  | *Comm. in IV Sent.* (d. 1–50) | ~1100 | ❌ empty file | ~240 | 0 | ~150 | D |
-| V   | *Opuscula Theologica Selecta* — Breviloquium, Itinerarium, De reductione artium, De myst. Trinitatis, De scientia Christi, De perfectione evangelica | ~600 | ❌ not downloaded | ~80 | 0 | ~60 | **E (by demand)** |
+| V   | *Opuscula Theologica Selecta* — 3 QD (scientia Christi, myst. Trinitatis, perfectione evang.), Breviloquium, Itinerarium, De reductione artium, **Collationes in Hexaemeron** + de septem donis + de decem praeceptis, Sermones selecti | ~580 | ✅ downloaded 2026-07-28 (offset +76; see CLAUDE.md VOL V section) | ~250 | 1 | — | **E (ACTIVE — Breviloquium pilot done 2026-07-28)** |
 | VI  | *Comm. in Sacram Scripturam* I — Eccl., Sap., Luke 1–8 | ~700 | ❌ | ~150 | 0 | ~90 | F |
-| VII | *Comm. in Sacram Scripturam* II — Luke 9–24, John; *Collationes in Hexaemeron* | ~700 | ❌ | ~150 | 0 | ~90 | **E (Hexaemeron priority)** / F |
+| VII | *Comm. in Sacram Scripturam* II — Luke 9–24, John | ~700 | ❌ | ~150 | 0 | ~90 | F — ⚠ correction 2026-07-28: the *Hexaemeron* is in **Vol V**, not here; the "Hexaemeron priority" flag moves to Vol V |
 | VIII| *Opuscula Varia Theologica* — Apologia pauperum, De perfectione vitae ad sorores, De regimine animae, et al. | ~900 | ❌ | ~120 | 0 | ~80 | E/F |
 | IX  | *Sermones* (de tempore, de sanctis, de B. V. Maria) | ~800 | ❌ | ~180 | 0 | ~110 | F |
 | X   | Prolegomena, indexes, apparatus criticus, fragments | ~350 | ❌ | ~30 | 0 | ~20 | F (likely skip) |

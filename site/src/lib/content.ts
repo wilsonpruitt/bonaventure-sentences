@@ -22,6 +22,8 @@ export interface Question {
   pars?: number;
   articulus?: number;
   quaestio?: number;
+  capitulum?: number;
+  section?: number;
 }
 
 export interface Distinction {
@@ -34,6 +36,11 @@ export interface Book {
   id: number;
   title: string;
   distinctions: Distinction[];
+  // Vol V+ works only (Tome V onward holds multiple independent works;
+  // each work is a Book whose divisions replace the Sentences' distinctions):
+  tome?: number;
+  initial?: string; // Illumination glyph, e.g. "B" for Breviloquium
+  divisionLabel?: string; // e.g. "Parts" — UI label replacing "Distinctions"
 }
 
 export function loadAllContent(): Book[] {

@@ -31,11 +31,11 @@ export default async function BookPage({
           marginBottom: "1rem",
         }}
       >
-        <Illumination size={50} letter={`${book.id}`} />
+        <Illumination size={50} letter={book.initial ?? `${book.id}`} />
         <h2 className="h2">{book.title}</h2>
       </div>
       <CrossDivider />
-      <div className="section-title">Distinctions</div>
+      <div className="section-title">{book.divisionLabel ?? "Distinctions"}</div>
 
       <div className="distinction-accordion">
         {book.distinctions.map((dist) => {
@@ -51,7 +51,7 @@ export default async function BookPage({
                   &rsaquo;
                 </span>
                 <span className="distinction-summary-heading">
-                  Distinction {romanize(dist.id)}
+                  {book.divisionLabel ? dist.title : `Distinction ${romanize(dist.id)}`}
                 </span>
                 <span className="distinction-summary-meta">
                   {dist.questions.length} question

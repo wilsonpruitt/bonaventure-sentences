@@ -122,6 +122,14 @@ VOLUMES: dict[str, VolumeConfig] = {
         printed_max=1074,
         description="Opera Omnia, Tomus IV — Commentarius in IV Librum Sententiarum (50 dist., two-column)",
     ),
+    "vol5": VolumeConfig(
+        name="vol5",
+        pdf_path=REPO_ROOT / "raw" / "doctorisseraphic05bona.pdf",
+        pdf_offset=76,           # PDF page = printed page + 76 (verified 2026-07-28 at printed 174/176/201/320/507/530; PDF=690pp, two-column)
+        printed_min=1,
+        printed_max=582,
+        description="Opera Omnia, Tomus V — Opuscula theologica (Breviloquium, Itinerarium, QD, Collationes; two-column, body pp.3–~579)",
+    ),
 }
 
 
