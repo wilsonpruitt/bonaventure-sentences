@@ -44,7 +44,8 @@ VOL5 = os.path.join(REPO_ROOT, "vol5")
 # eyes-on band read. Lets the script distinguish "still pending" from "lost".
 KNOWN_TOTALS = {
     201: 5,
-    202: 10,  # nn.9-10 are § 1's — pending until prol-s1 lands
+    202: 10,
+    203: 8,   # nn.7-8 are § 2's — pending until prol-s2 lands
     210: 8,
     211: 7,
     212: 7,
