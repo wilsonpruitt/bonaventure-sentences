@@ -112,7 +112,7 @@ Likewise, that *the eighth day* is not of the substance of the Sacrament is show
 
 2. Likewise, that the time is of the substance is shown: because circumcision signified both circumcisions, namely the first in the soul from *guilt,* and the second in the body from *misery,* which was to come at the eighth [day] of the resurrection: therefore the eighth day was of the integrity of the signification, therefore also of the integrity of the Sacrament[^1b].
 
-3. Likewise, the precept concerning circumcision is an *affirmative* precept, which obliges for some time, not for every time; therefore, the time being determined in the precept, it obliges for that [time]: therefore, since in that precept there is a determination of the time at which circumcision is instituted, the determined time is of the necessity of circumcision.
+3. Likewise, the precept concerning circumcision is an *affirmative* precept, which obliges for some time, not for every time; therefore, the time being determined in the precept, it obliges[^2b] for that [time]: therefore, since in that precept there is a determination of the time at which circumcision is instituted, the determined time is of the necessity of circumcision.
 
 > ### CONCLUSION.
 >

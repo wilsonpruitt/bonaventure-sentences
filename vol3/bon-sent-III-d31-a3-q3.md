@@ -164,14 +164,14 @@ But if we wish to maintain the other position, all the objections can be answere
 
 > The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi note in Latin (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; this chunk runs across pp. 692–694 (p.692 nn.1–10 → 1–10; p.693 nn.1–9 → 11–19; p.694 nn.1–6 → 20–25).
 
-[^1]: **La.** Vide supra d. 28. q. 6.
-    **En.** See above, d. 28, q. 6.
+[^1]: **La.** *(Scholion source-reference — no body marker.)* Vide supra d. 28. q. 6.
+    **En.** *(Scholion source-reference — no body marker.)* See above, d. 28, q. 6.
 
-[^2]: **La.** Vide scholion ad praecedentem quaest.
-    **En.** See the scholion to the preceding question.
+[^2]: **La.** *(Scholion source-reference — no body marker.)* Vide scholion ad praecedentem quaest.
+    **En.** *(Scholion source-reference — no body marker.)* See the scholion to the preceding question.
 
-[^3]: **La.** Cfr. supra d. 29. q. 3.
-    **En.** Cf. above, d. 29, q. 3.
+[^3]: **La.** *(Scholion source-reference — no body marker.)* Cfr. supra d. 29. q. 3.
+    **En.** *(Scholion source-reference — no body marker.)* Cf. above, d. 29, q. 3.
 
 [^4]: **La.** Epist. 1. Cor. 13, 12. — Quod ad caritatem spectet diligere ordinate, ostensum est supra d. 29. q. 1. — Inferius post *evacuatur* edd. sic prosequuntur: *sic, sublato a caritate ordine diligendi, necessario habet caritas evacuari. Si ergo* etc.
     **En.** Epistle 1 Cor. 13:12. — That it pertains to charity to love in an ordered way was shown above, d. 29, q. 1. — Below, after *evacuatur* the editions continue thus: *sic, sublato a caritate ordine diligendi, necessario habet caritas evacuari. Si ergo* etc.
