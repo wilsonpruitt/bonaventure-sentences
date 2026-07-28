@@ -115,61 +115,53 @@ survives is the real reader-facing number. Budget A1 against *that*, not 108.
 
 ---
 
-## 4. ★ J4 Class D/E — ~38 chunks, the largest genuine item
+## 4. ~~J4 Class D/E — ~38 chunks~~ — **ALREADY CLOSED, discovered 2026-07-28**
 
-**Brief already exists: `manual-review/J4-CLASS-DE-HANDOFF.md`.**
-
-~38 chunks carry repeated body anchors. Sampling was **4-for-4 needing repair,
-and two had content that was never transcribed at all.** All in published
-volumes, so it is reader-facing debt.
-
-**Model split — this is the one item that genuinely needs both tiers:**
-- **Triage = Sonnet.** Classify each chunk: is the repeated anchor legitimate
-  (a note referenced twice), a duplicate def, or missing content? Mechanical
-  against the page bands.
-- **Repair = Opus** wherever the finding is *untranslated content*. Restoring a
-  dropped passage means writing Latin transcription + literal English, which is
-  authored prose — per [[feedback_opus-for-authored-prose]] do not let voice
-  consistency degrade on a cheaper tier just because the surrounding task looks
-  like cleanup.
-
-The old `J4-HANDOFF.md` was written as a Sonnet brief before the sample came back
-4-for-4 with content loss. **Re-read it against that finding before assuming the
-routing still holds.**
+**This item was stale — do not redo it.** It read as still-open here and in the
+resume note, but the actual repair happened across 11 batches on 2026-07-17
+(commits `1bb6220`..`d6811a2`, plus `81ca91c`), before this queue was even
+written. A fresh corpus health-scan (2026-07-28) confirms: `fix-apparatus-labels.py`
+reports 0 FIXABLE/0 SKIPPED corpus-wide, only 8 chunks remain flagged by the
+strict scan, and every one is a documented deliberate disposition (2 benign
+double-anchor cases, 5 refused duplicate/cross-ref cases handled under item 2's
+Class A this session) **except one: `III-d15-divisio`**, which is the Class C
+escalation from item 2, not Class D/E. See `OPEN-DEFECTS-REGISTER.md` § A2 for
+the full accounting. **The only real Opus-shaped work left in this whole area is
+that single Class C chunk** — see the register's top section / the resume note
+for its handoff. There is no batch of untranslated content to restore.
 
 ---
 
-## 5. Cross-page footer runover sweep on Vol IV (Sonnet to run, escalate on finds)
-
-Newly possible: **`seam-screen.py` had no `vol4` entry until 2026-07-28** — it had
-never been runnable on Book IV at all. It now is:
+## 5. ✅ Cross-page footer runover sweep on Vol IV — DONE 2026-07-28 (Sonnet)
 
 ```bash
 python3.11 tools/seam-screen.py --volume 4 1 50
 ```
-
-(The `--volume 4 41 50` space form also works now; it previously leaked the flag
-value into the positional args and silently scanned d4–d41.)
-
-This is the detection tool for the register's **unquantified corpus-wide
-cross-page footer runover class**. Vol V just showed **ten runovers in sixteen
-chunks**, which is a strong prior that Vols I–IV carry many undetected ones. The
-screen only surfaces candidates — dispositioning each one is eyes-on against the
-450 dpi bands.
+517 mid-page boundaries screened; **1 suspect, verified a tool false positive**
+(`IV-d17-p1-a2-q1` → `-q2`: the screen grabbed the chunk's `## Notes` hand-off
+text as "tail" instead of the actual last body sentence, which is complete and
+grammatically terminal; q2's opening is already correctly documented in q1's own
+Notes). **No real runovers found in Vol IV** — the Vol V ten-in-sixteen rate does
+not generalize here, at least not via this detection method. Nothing further to do.
 
 ---
 
-## 6. Assess (do not assume) `--volume 5` for the last two audits (Sonnet)
+## 6. ✅ Assessed `--volume 5` for the last two audits — NOT extending (Sonnet)
 
-`audit-paraphrase.py` and `audit-headers.py` still have no Vol V support.
-**Assess whether they are worth extending before extending them.** Paraphrase
-detection scores word-prefix Jaccard against the raw OCR, and **Vol V's raw is
-missing every footnote numeral**, so its baseline is not comparable to the
-Sentences — the audit may be structurally uninformative here rather than merely
-unimplemented. `audit-apparatus-count.py` is already known to be permanently
-blind to Vol V; `check-vol5-apparatus.py` replaces it.
-
-Report the assessment; only implement if it earns it.
+**Assessment: not worth extending now.** `audit-paraphrase.py` scores 5-char
+word-prefix Jaccard, which tolerates trailing OCR garble but not a stray glyph
+corrupting a word's first few characters — a real but narrow risk given Vol V's
+documented phantom-anchor glyphs (c6's lesson), and made worse by Vol V's small
+per-chunk word count (one capitulum, not a whole distinction), where a few bad
+prefixes could swing a chunk's score more than in the Sentences. `audit-headers.py`
+counts QUAESTIO/ARTICULUS/DUBIA vocabulary that doesn't exist in the Breviloquium
+(Cap./§ instead) — extending it is a real reimplementation, not a `--volume` flag.
+Given `seam-screen.py --volume 5` and `check-vol5-apparatus.py` already cover
+boundary and footer-ownership integrity for Vol V, and every chunk goes through
+mandatory bands-first eyes-on verification regardless, the marginal value of
+these two audits here is low. **Revisit only if the Hexaemeron's reportatio
+register (larger volume, own mini-pilot) turns out to need less-supervised,
+audit-driven triage** — the calculus may differ there.
 
 ---
 

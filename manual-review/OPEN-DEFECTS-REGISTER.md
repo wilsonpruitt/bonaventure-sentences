@@ -65,18 +65,30 @@ predates that discipline** and carries most of the debt (184/263, 70%). This is 
 47-file job — still the largest concentrated single-volume win available, just larger than
 previously scoped. Budget A1 against 263, not 108.
 
-## A2. ★ J4 Class D/E — ~38 chunks, and the sample found real content loss
+## A2. ~~J4 Class D/E — ~38 chunks~~ — **CLOSED 2026-07-17, confirmed 2026-07-28**
 
-From the 2026-07-17 J4 session. 4 of the 42 repeated-anchor chunks were checked against page images;
-**none was the benign "legitimate double anchor" the handoff predicted — all 4 needed real repair**,
-and two involve text that was never transcribed at all:
+**This entry was stale.** It read as still-open in `NEXT-SESSION-QUEUE.md` and the resume note,
+but the actual repair work happened across **11 batches the same day as the sampling** (commits
+`1bb6220`..`d6811a2`, plus a follow-up backtick-render fix `81ca91c`) — all before the 2026-07-21
+Book IV completion. The queue/resume-note documentation simply never caught up; no work was
+missed. **Verified 2026-07-28** via a fresh corpus health-scan: only 8 chunks remain "unhealthy"
+by the strict scan, and every one is a documented, deliberate disposition —
+`tools/fix-apparatus-labels.py` reports 0 FIXABLE/0 SKIPPED corpus-wide, and build count is
+unchanged (1949 stable). Of the 8:
+- 2 are the genuinely benign "one continuous marker binds two anchor points" case
+  (`III-d32-littera`, `IV-d13-dubia`) — documented in their own `## Notes`, no action needed.
+- 5 are refused duplicate-def / cross-reference-only cases, all documented (see §A1's Class A/B
+  fixes this session for `III-d31-a3-q3`, `III-d32-a1-q2`, `III-d5-a2-q4`, `IV-d14-p2-a2-q1`,
+  `IV-d16-p2-a2-q2`).
+- **1 is still genuinely open: `III-d15-divisio`** (5 apparatus defs, 0 body anchors, on a
+  published page) — this is the Class C escalation, not Class D/E, and it's the only chunk in
+  the whole corpus that needs a real decision. See the top of this register / the next-session
+  brief for its Opus handoff.
 
-* `II-d23-a2-q2` — **~17 real footnotes across pp.540–541 never transcribed.** The file's own `## Notes`
-  self-confesses mapping p.540/541 anchors "by position" onto p.539's scheme. **Vol II is published.**
-* `IV-d4-p1-a2-q1` — **genuine content loss**: ~8 of 19 real p.100–101 footnotes absent, including a
-  citation of Constantine's edict (Eusebius); several anchors bound to the WRONG note across the
-  page-restart boundary.
-* `I-d37-littera` — a mislabeled cluster (~5 adjacent markers) needing Class-A reconciliation.
+Original findings (2026-07-17 sample, for history): `II-d23-a2-q2` (~17 footnotes across
+pp.540–541 never transcribed) and `IV-d4-p1-a2-q1` (~8 of 19 p.100–101 footnotes absent, incl.
+a Constantine's-edict citation) were the two genuine content-loss cases; both were fixed same
+day. `I-d37-littera`'s mislabeled cluster was also reconciled same day.
 * `IV-d21-p1-littera` — not a defect; a classifier + renderer false positive (see C3).
 
 **The remaining ~38 have not been checked.** The 4-for-4 hit rate on the sample is the reason this

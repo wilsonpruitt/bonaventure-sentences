@@ -2,14 +2,22 @@
 
 > # ★★★ VOL V (TOME V — OPUSCULA) IS THE ACTIVE FRONT. Pars I gate CLOSED 2026-07-28 (Sonnet).
 >
-> **NEXT SESSION: `manual-review/NEXT-SESSION-QUEUE.md` items 0–3 are DONE (2026-07-28, Sonnet).**
-> Remaining from that file, in order: **item 4 — J4 Class D/E** (~38 chunks, largest genuine
-> item, briefed at `manual-review/J4-CLASS-DE-HANDOFF.md`; Sonnet triages, Opus repairs any
-> real content loss) · item 5 — cross-page footer runover sweep on Vol IV via `seam-screen.py
-> --volume 4` (newly runnable) · item 6 — assess (don't assume) extending the last two audits
-> to `--volume 5`. One Class C escalation is still open and NOT yet done: `III-d15-divisio`
-> (5 apparatus defs, 0 body anchors, on a live page) needs an Opus session to diff against the
-> littera and decide delete-vs-anchor — do not let a cheaper tier make that call.
+> **`manual-review/NEXT-SESSION-QUEUE.md` items 0–6 ARE ALL NOW CLOSED OR ASSESSED (2026-07-28).**
+> The queue's headline claim that item 4 (J4 Class D/E, ~38 chunks) was the largest remaining
+> item was **stale** — that work actually finished in 11 batches on 2026-07-17, before the
+> queue was even written. Confirmed via a fresh corpus scan this session: 0 FIXABLE/0 SKIPPED
+> corpus-wide, only 8 chunks flagged, all documented dispositions. See
+> `OPEN-DEFECTS-REGISTER.md` § A2 for the full accounting. Item 5 (Vol IV runover sweep) ran
+> clean — 517 boundaries, 0 real issues. Item 6 (Vol V audit extension) was assessed and is
+> **not** worth doing now (see the queue file's item 6 for the reasoning).
+>
+> **★★★ THE ONE REMAINING ITEM — needs an OPUS session, small and self-contained:**
+> `manual-review/d15-divisio-notae2-opus-handoff.md`. It is a **single unresolved apparatus
+> entry** in one published chunk (`III-d15-divisio`'s `[^notae-2]`), NOT a batch job — the
+> queue's "5 defs, zero anchors" framing for this chunk was also stale; 4 of 5 are already
+> correctly anchored. The handoff file is self-contained: hand an Opus session that file and
+> nothing else. It needs Opus because deciding whether to delete/relocate a textual-variant
+> note on live text is a judgment call, not because of scale.
 >
 > **What this session (Sonnet) closed:**
 > - **Item 0.** Register housekeeping was already done pre-crash. Rendered check on
@@ -28,6 +36,16 @@
 > - **Item 3.** `[?]` flag count re-derived: **263, not 108** (the old count missed that
 >   `## Apparatus` also renders on the site). Per-volume breakdown + a newly-found side-defect
 >   (`I-d19-littera`'s malformed `[^[?]: …]` construct, will render as a broken orphan footnote)
+> - **Item 4.** Discovered already closed 2026-07-17 (11 batches, commits `1bb6220`..`d6811a2`
+>   + `81ca91c`) — the resume note and queue just never caught up. Confirmed with a fresh
+>   corpus scan; nothing left to repair. See `OPEN-DEFECTS-REGISTER.md` § A2.
+> - **Item 5.** `seam-screen.py --volume 4 1 50` run — 517 boundaries, 1 suspect, verified a
+>   tool false positive (grabbed a Notes hand-off as "tail" instead of the real last body
+>   sentence, which is complete). No real Vol IV runovers found.
+> - **Item 6.** Assessed and declined — see the queue file's item 6 for the full reasoning
+>   (short version: Vol V's small chunk size + phantom-anchor glyphs make paraphrase-Jaccard
+>   noisy, and header-vocabulary differences make the headers audit a real reimplementation,
+>   not a flag; existing Vol-V-specific tooling already covers the same ground).
 >   now in `OPEN-DEFECTS-REGISTER.md` § A1. Budget any future A1 work against 263.
 >
 > ---
