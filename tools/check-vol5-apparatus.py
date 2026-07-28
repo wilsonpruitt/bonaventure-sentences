@@ -43,6 +43,8 @@ VOL5 = os.path.join(REPO_ROOT, "vol5")
 # Printed-page → true total number of footer notes, where known from an
 # eyes-on band read. Lets the script distinguish "still pending" from "lost".
 KNOWN_TOTALS = {
+    201: 5,
+    202: 10,  # nn.9-10 are § 1's — pending until prol-s1 lands
     210: 8,
     211: 7,
     212: 7,
