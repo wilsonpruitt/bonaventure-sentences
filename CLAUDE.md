@@ -555,6 +555,32 @@ npx vercel deploy --prod --prebuilt --archive=tgz
 - `--archive=tgz` required (Free plan's 5000-files/day upload cap)
 - **Only the project owner deploys** to the production custom domain (bonaventure.wrootpress.com). Other contributors should commit their work to a branch; owner pulls and deploys.
 
+### ★ DEPLOY CADENCE — batch to the page decade (Wilson, 2026-07-28)
+
+**Do NOT build + deploy after every chunk.** The corpus is now ~1,950 static
+pages; `vercel build --prod` is slow and the upload archive is ~97 MB and only
+grows. Per-chunk deploys spend minutes of wall clock and a large upload to
+publish one capitulum.
+
+- **Commit every chunk** as usual (two commits: chunk, then resume note). That
+  is free and stays per-chunk — the cadence change is about deploying, not
+  committing.
+- **Build + deploy at the page-decade mark** — roughly every **10 printed
+  pages** of new text — and at the polish gates, which are the same kind of
+  pause. Snap to a structural seam (end of a pars / work) rather than cutting
+  mid-unit.
+- **Push is cheap and separate**; it still needs Wilson's per-action OK, but it
+  doesn't have to wait for a deploy-worthy batch.
+- Park deploy-only work (site copy, UI tweaks) until the next scheduled deploy
+  rather than shipping it on its own. Keep a running list in the resume note so
+  nothing is forgotten at the gate.
+- Deploying is a **protected action** regardless: it always gets its own
+  explicit OK (see the global CLAUDE.md hard stops). Batching changes *when* to
+  ask, never *whether*.
+
+Generalizes the standing "batch deploys" rule (global memory
+`feedback_batch-deploys`) with a concrete Vol V trigger.
+
 ### Parser gotchas (fixed, but know them)
 
 - `build-content.mjs` `extractLanguageBlock` terminates `## Latin` only on known sentinel headings (`## Latin|English|Apparatus|Notes|Scholion|---`), NOT on any `## ` subheading. This matters because some chunks have internal h2s like `## Commentarius in Distinctionem V`.

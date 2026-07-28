@@ -12,6 +12,19 @@
 > c8 225 · c9 226 · c10 227 · c11 229 · c12 230. Index gives opening pages only — confirm each
 > span on the bands.
 >
+> ## ⏸ PARKED UNTIL THE NEXT DEPLOY (page-decade gate)
+> Deploys now batch to the page decade (CLAUDE.md § "★ DEPLOY CADENCE"), so deploy-only work
+> waits here instead of shipping on its own. **Clear this list at the gate.**
+> - **Home-page copy is STALE AND LIVE.** `site/src/app/page.tsx` says *"Book IV — the
+>   sacraments — is underway, distinction by distinction."* Book IV **completed 2026-07-21**
+>   and is fully deployed. The sentence sits directly above the Stripe support tiers, so it is
+>   what a would-be patron reads before deciding. Redraft around Vol V / the Opuscula. **Wilson
+>   deferred this 2026-07-28 to ride along with the next deploy — it is his voice, so get his
+>   OK on the wording, don't just rewrite it.**
+> - Last deployed: `39c7bc5` (Pars II c1 + the Book V browse container), 2026-07-28.
+>   **Deployed through printed p.219.** Next deploy at roughly p.229–230, i.e. the close of
+>   Pars II — 12 printed pages, which is one page-decade and a clean structural seam.
+>
 > **Hand-off INTO c2** (recorded in c1's Notes, quote it in the dispatch):
 > - Cap. II opens in p.219's **right** column at `Cap. II. De natura corporali quantum ad fieri.`
 >   (raw **L41614**) and does **not** finish on p.219 — derive its span from p.219 **and** p.220.
