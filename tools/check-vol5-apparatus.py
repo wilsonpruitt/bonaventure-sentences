@@ -60,7 +60,8 @@ KNOWN_TOTALS = {
     216: 6,
     217: 7,
     218: 7,   # Pars I ends here; nothing forwarded
-    219: 5,   # Pars II opens; nn.4-5 are Cap. II's — pending until p2-c2 lands
+    219: 5,   # Pars II opens; nn.1-3 Cap. I, nn.4-5 Cap. II
+    220: 6,   # nn.1-5 Cap. II, n.6 is Cap. III's — pending until p2-c3 lands
 }
 
 
