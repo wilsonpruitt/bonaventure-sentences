@@ -364,11 +364,73 @@ own mini-pilot) → Sermones.
 - The compressed periodic sentences stay ONE sentence in English wherever grammar
   permits — do not break Bonaventure's *quia/cum/ideo* chains into fragments.
 
-### Polish-gate cadence for Vol V
+### Polish-gate cadence for Vols V–X (revised 2026-07-28 — supersedes the pilot's per-pars rule)
 
-The d.{N0} decade gate maps to **one gate per pars** for the Breviloquium (prologue
-folds into the Pars I gate) and per-work gates for the short works (Itinerarium, De
-reductione = one gate each). Same three passes + disk cleanup as the Sentences gates.
+**Why the decade gate can't just be ported.** A decade of distinctions was never a
+structural unit — it was *accidentally a page-count gate*. Vol II ran ~220 printed
+pages per gate, Vol III ~225, Vol IV ~211 (1057 body pages / 5 decade gates).
+Distinctions are uniform enough that "every ten" held page exposure roughly constant.
+That proxy dies in a multi-work volume: *De reductione* is 7 printed pages and the
+*Hexaemeron* is ~128, so structure no longer stands in for exposure.
+
+It matters because **three of the four passes scale with printed pages read**, not with
+structural units: flag resolution scales with ambiguities encountered, the boundary
+sweep scales with chunk boundaries that fall inside a printed page, and disk cleanup
+scales with pages imaged. Only pass 2 is fixed-cost — see the decoupling rule below.
+
+**Three triggers. A gate fires on whichever comes first.**
+
+1. **Page count — every ~100 printed pages of body text.** Deliberately *half* the
+   Sentences cadence. The ~210-page interval was calibrated on a corpus whose OCR
+   carried footnote numerals; in Vol V **every apparatus entry is a hand-read off a
+   450 dpi band** (the raw has no numerals at all), so per-page exposure to a dropped
+   or misassigned note is roughly doubled. Snap the gate to the nearest structural
+   seam — pars, work, or collatio boundary — rather than cutting mid-unit.
+2. **Every work boundary, unconditionally** — including a 7-page work. This trigger has
+   no analogue in Vols I–IV, which had one register per volume. In a multi-work volume
+   the work transition is where conventions get set and where drift is invisible, so it
+   is the highest-value gate per page in the scheme. A work shorter than the page
+   interval therefore gets exactly one gate, at its close — **never zero**.
+3. **A shakedown gate early in each new work**, at the first structural seam ~15–25
+   printed pages in. Catches register and layout problems while 20 pages are wrong
+   instead of 100. The Breviloquium's Pars I gate is this, and is correct *as a first
+   gate* — it is not evidence for gating every pars.
+
+**⚠ Pass 2 is DECOUPLED from the gates — run it every commit.** The style/formatting
+audit is a script, it is full-corpus, and its cost does not depend on batch size.
+Running it only at gates is precisely what let `tools/polish-style-scan.py` sit
+hardcoded to `DIRS=["vol1","vol2"]` across the whole of Vol III and Vol IV, so that
+every "Pass 2 CLEAN" in those gate logs was false for four volumes. Run it alongside
+`build-content.mjs` in the per-chunk verification step. Passes 1, 3 and 4 stay at the
+gates.
+
+**Applied to Vol V** (~568 body pages → ~13 gates):
+
+| Work | Printed pp. | Gates |
+|---|---|---|
+| QD de scientia Christi | 3–43 (41) | 1 at close |
+| QD de mysterio Trinitatis | 45–115 (71) | 1 at close |
+| QD de perfectione evangelica | 117–198 (82) | 1 at close |
+| **Breviloquium** | 199–291 (93) | **2** — Pars I shakedown (p.218) + close (p.291) |
+| Itinerarium | 293–316 (24) | 1 at close |
+| De reductione | 319–325 (7) | 1 at close |
+| Collationes in Hexaemeron | ~327–454 (128) | **3** + its own mini-pilot — see below |
+| Coll. de septem donis | ~455–503 (49) | 1 at close |
+| Coll. de decem praeceptis | ~505–532 (28) | 1 at close |
+| Sermones selecti | ~535–579 (45) | every-N-sermones — see below |
+
+**This replaces the pilot's "one gate per pars," which would have given the Breviloquium
+seven.** The per-pars rule was frozen before a single chunk existed; sixteen chunks in,
+the hazard profile is known — ten runovers, three novel footer layouts, and **zero `[?]`
+flags**. Pass 1 has nothing to do and the boundary sweep is carrying the gate, so
+firing a full three-pass cycle every ~15 pages buys almost nothing.
+
+**Two cases deliberately left open, not settled:**
+- **Hexaemeron** — ~128 pages of *reportatio*, a register nobody has touched. It earns
+  its own mini-pilot before the grind (per the genre-boundary rule above), and probably
+  three gates rather than the two page count alone would give.
+- **Sermones selecti** — dozens of independent short pieces, where "work boundary"
+  stops meaning anything. Use a simple every-N-sermones rule; pick N at the mini-pilot.
 
 ## Translation depth & style
 

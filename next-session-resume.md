@@ -29,7 +29,7 @@
 > 3. **Footnote numbering restarts every printed page** — hence page-qualified labels (`[^p213-4]`). Non-negotiable.
 > 4. A chunk can span three column-runs (c4 = p.212 R → p.213 L → p.213 R). Don't assume one or two.
 > ⚠ Before the grind scales past Pars I: **extend the 3 audits + seam-screen/style-audit to Vol V** (raw has NO footnote numerals — apparatus audit needs a symbol-glyph mode; id regexes must accept `bon-brev-…`). Frozen as a requirement in the CLAUDE.md section.
-> **Pars I gate** (prologue + Pars I caps) fires when Pars I closes — per-pars gates replace decade gates.
+> **Pars I gate** (prologue + Pars I caps) fires when Pars I closes. ⚠ **It is a SHAKEDOWN gate, not one of seven** — the gate cadence was revised 2026-07-28 (CLAUDE.md § "Polish-gate cadence for Vols V–X"): three triggers (~100 printed pages · every work boundary · one shakedown ~15–25pp into each new work), and **pass 2 runs every commit, not at gates.** The Breviloquium gets **two** gates total, this one and a closing gate at p.291.
 >
 > ## Also in this session (2026-07-28)
 > - `OPERA-OMNIA-TRACKER.md` corrected: **the Hexaemeron is in Vol V, not Vol VII**; Vol V row updated (10 works, ~580pp, ~250 chunks est.).

@@ -154,17 +154,29 @@ a prerequisite for the Pars I gate, not for the chunks.**
 
 ## The Pars I gate (fires when c9 lands)
 
-Per-work/per-pars gates replace the Sentences' decade gates. When c9 closes,
-run the three passes over the prologue + Pars I before starting Pars II:
+⚠ **Cadence revised 2026-07-28 — this is a SHAKEDOWN gate, not one of seven.**
+The pilot's "one gate per pars" is superseded by CLAUDE.md § "Polish-gate
+cadence for Vols V–X": gates fire on **~100 printed pages**, on **every work
+boundary**, and on **one shakedown ~15–25 pp into each new work**. This gate is
+trigger 3. The Breviloquium gets **two** gates total — this one and a closing
+gate at p.291. Also: **pass 2 below is decoupled and runs every commit**, not
+here; only passes 1, 3 and 4 are gate work.
+
+When c9 closes, run the passes over the prologue + Pars I before starting Pars II:
 
 1. **Flag resolution** — walk every `[?]` in `vol5/` (currently **zero** across
-   c1–c5) and every parked ambiguity in the chunks' `## Notes`; resolve at 600
+   all 16 chunks) and every parked ambiguity in the chunks' `## Notes`; resolve at 600
    dpi (`pdftoppm -r 600 -f <pdf> -l <pdf> -png raw/doctorisseraphic05bona.pdf
    raw/vision/vol5/p-hires-<printed>-r600`, pdf = printed + 76) or formally
    ACCEPT-ILLEGIBLE with a reason. Log to
    `manual-review/breviloquium-pars1-polish-resolution-log.md`.
-2. **Style/formatting audit** — extend the tooling to Vol V first (see
-   Verification), then run it corpus-wide.
+2. **Style/formatting audit — NOT gate work any more; run it every commit.**
+   Extending the tooling to Vol V (see Verification) is still a prerequisite,
+   and is the one piece of real work this gate carries. Once extended, wire it
+   into the per-chunk verification step beside `build-content.mjs`. Running it
+   only at gates is what let `polish-style-scan.py` sit hardcoded to
+   `DIRS=["vol1","vol2"]` through all of Vol III and Vol IV, making every
+   "Pass 2 CLEAN" in those logs false.
 3. **Boundary sweep** — every chunk boundary that falls inside a printed page,
    checked from both ends: the receiving chunk's opening must be grammatically
    continuous with the prior chunk's close, and the shared page's footer must
