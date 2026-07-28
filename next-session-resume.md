@@ -1,25 +1,54 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ★★★ VOL V (TOME V — OPUSCULA) IS THE ACTIVE FRONT. Breviloquium pilot DONE 2026-07-28.
+> # ★★★ VOL V (TOME V — OPUSCULA) IS THE ACTIVE FRONT. Pars I gate CLOSED 2026-07-28 (Sonnet).
 >
-> The Fable genre-boundary pilot ran 2026-07-28 (Wilson switched models mid-session for it) and settled everything a cheaper session needs: **the full conventions are frozen in CLAUDE.md § "VOL V — pilot conventions"** (work map, data model, Breviloquium chunking, mechanics, register). **Wilson's decisions: Tier 2 everywhere (no Tier-3 draft tier), Breviloquium first.**
+> **NEXT SESSION: `manual-review/NEXT-SESSION-QUEUE.md` items 0–3 are DONE (2026-07-28, Sonnet).**
+> Remaining from that file, in order: **item 4 — J4 Class D/E** (~38 chunks, largest genuine
+> item, briefed at `manual-review/J4-CLASS-DE-HANDOFF.md`; Sonnet triages, Opus repairs any
+> real content loss) · item 5 — cross-page footer runover sweep on Vol IV via `seam-screen.py
+> --volume 4` (newly runnable) · item 6 — assess (don't assume) extending the last two audits
+> to `--volume 5`. One Class C escalation is still open and NOT yet done: `III-d15-divisio`
+> (5 apparatus defs, 0 body anchors, on a live page) needs an Opus session to diff against the
+> littera and decide delete-vs-anchor — do not let a cheaper tier make that call.
+>
+> **What this session (Sonnet) closed:**
+> - **Item 0.** Register housekeeping was already done pre-crash. Rendered check on
+>   `bon-brev-prol-s6`'s heading-anchor case: verified via Playwright — the `[^p207-4]` marker
+>   inside the `### § 6` title renders correctly in both languages, footnote link resolves. No
+>   reader-regex defect.
+> - **Item 1.** Pars I gate CLOSED — log at `manual-review/breviloquium-pars1-polish-resolution-log.md`.
+>   All 4 passes clean; `raw/vision/vol5/*.png` deleted (56 MB, regenerable). **Front is now
+>   Pars II, opening p.219** (see below).
+> - **Item 2.** Style-scan Class B fixed (`IV-d1-p2-a2-q2` mirrored `[^2b]`; `IV-d1-p1-littera`
+>   got its 2 missing page markers at the exact raw form-feed boundaries, mid-word per corpus
+>   convention; `IV-d16-p2-a2-q2`'s Notes-prose `[^p408-N]` tokens de-fanged). Class A annotated
+>   or confirmed already-correctly-dispositioned (`III-d31-a3-q3` newly tagged; `III-d32-a1-q2`,
+>   `IV-d14-p2-a2-q1`, `IV-d16-p2-a2-q2` n.6 already had more precise 2026-07-17 J4 documentation
+>   than the generic tag would give — left as-is). Class C (`III-d15-divisio`) escalated, not done.
+> - **Item 3.** `[?]` flag count re-derived: **263, not 108** (the old count missed that
+>   `## Apparatus` also renders on the site). Per-volume breakdown + a newly-found side-defect
+>   (`I-d19-littera`'s malformed `[^[?]: …]` construct, will render as a broken orphan footnote)
+>   now in `OPEN-DEFECTS-REGISTER.md` § A1. Budget any future A1 work against 263.
+>
+> ---
+>
+> ## Original pilot context (2026-07-28, Fable)
+>
+> The Fable genre-boundary pilot settled everything a cheaper session needs: **the full
+> conventions are frozen in CLAUDE.md § "VOL V — pilot conventions"** (work map, data model,
+> Breviloquium chunking, mechanics, register). **Wilson's decisions: Tier 2 everywhere (no
+> Tier-3 draft tier), Breviloquium first.**
 >
 > **Pilot state:**
 > - Vol V PDF + djvu raw downloaded (`raw/doctorisseraphic05bona.{pdf,_djvu.txt}`); offset **pdf = printed + 76** verified 6×; wired into `extract-pages.py --volume vol5`.
-> - `site/scripts/build-content.mjs` has a **WORKS registry** (work→book mapping, division titles); `content.ts` + the four browse/dist pages render works with divisionLabel/initial fallbacks. Build: **1934/1934** (was 1933 + the pilot chunk). Typecheck clean.
+> - `site/scripts/build-content.mjs` has a **WORKS registry** (work→book mapping, division titles); `content.ts` + the four browse/dist pages render works with divisionLabel/initial fallbacks. Build: **1949/1949** (all 16 Pars I gate chunks). Typecheck clean.
 > - **`vol5/bon-brev-p1-c1.md` is Tier 2 and is THE FORMAT REFERENCE** — page-qualified labels, bands-only apparatus, Marginalia list in Notes, footer hand-off to c2 recorded.
 >
-> # ★★★ NEXT SESSION: START ON **SONNET**, AND READ `manual-review/NEXT-SESSION-QUEUE.md`.
-> That file is self-contained and sequences everything below plus the Vols I–IV cleanup
-> backlog, with per-item model routing. Three items escalate to Opus and say why inline.
-> Headline: close the Pars I gate (passes 1–3 already discharged, only the log + a 56 MB
-> `rm` remain) · 8 style-scan chunks in Vols III–IV, most needing *annotation* not repair ·
-> re-derive the `[?]` count before trusting the "108" figure · then **J4 Class D/E**, the
-> largest genuine item, briefed at `manual-review/J4-CLASS-DE-HANDOFF.md`.
->
-> ## ★★★ PROLOGUE + PARS I ARE BOTH CLOSED (2026-07-28). NEXT ACTION — **the Pars I gate**, then Pars II.
+> ## ★★★ PROLOGUE + PARS I ARE BOTH CLOSED (2026-07-28). NEXT ACTION — **Pars II, opening p.219.**
 > - **16 chunks Tier 2: `bon-brev-prol`, `-s1`…`-s6`, and `bon-brev-p1-c1`…`c9`.** Build **1949/1949**. **Printed pages 201–208 and 210–218 are fully owned — zero PENDING, zero GAP, 130 apparatus entries.** `check-vol5-apparatus.py` KNOWN_TOTALS covers every one of them (201=5, 202=10, 203=8, 204=9, 205=8, 206=11, 207=8, 208=7, 210=8, 211=7, 212=7, 213=7, 214=9, 215=6, 216=6, 217=7, 218=7). The only gap is **p.209 + the top of p.210 — the editorial capitula table, deliberately not chunked.**
-> - **Push state:** c1–c9 and the resume note are pushed (`origin/master` = `d307e31`). **The seven prologue chunks are committed but NOT pushed** (`6b18c87`, `3a75ce0`, and the s2–s6 commits through `c53037d`).
+> - **Push state (updated 2026-07-28, later Sonnet session):** all prologue + Pars I chunks are
+>   committed AND pushed. `master` is currently several commits ahead of `origin/master` (About
+>   page rewrite + this session's gate/cleanup/recount commits) — none pushed yet, awaiting Wilson's OK.
 > - `type: prologus` + `division: 0` **renders** — the vols 1–4 "skip distinctio 0" rule does not apply to work chunks.
 > - **Prologue gutters measured**: 201=1155, 202=1373, 203=1189, 204=1373, 205=1179, 206=1380, 207=1164, 208=1380. ⚠ **p.201's measurement was weak (6 px run) because the full-width display heading crosses the gutter** — confirmed visually before use. Expect this on any page that opens a work or a part.
 > - **⚠ ONE THING NEEDS A RENDERED CHECK before the gate closes:** `bon-brev-prol-s6` puts an apparatus anchor **inside a `###` heading** (§ 6's title carries n.4 on *exponendi*) — the first heading anchor in Vol V. Pairing balances and the build is clean, but `text-reader.tsx`'s heading+subtitle regex has never been tested against a marker in a heading. Look at the rendered page.
