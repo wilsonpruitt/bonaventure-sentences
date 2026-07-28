@@ -9,6 +9,14 @@
 > - `site/scripts/build-content.mjs` has a **WORKS registry** (work→book mapping, division titles); `content.ts` + the four browse/dist pages render works with divisionLabel/initial fallbacks. Build: **1934/1934** (was 1933 + the pilot chunk). Typecheck clean.
 > - **`vol5/bon-brev-p1-c1.md` is Tier 2 and is THE FORMAT REFERENCE** — page-qualified labels, bands-only apparatus, Marginalia list in Notes, footer hand-off to c2 recorded.
 >
+> # ★★★ NEXT SESSION: START ON **SONNET**, AND READ `manual-review/NEXT-SESSION-QUEUE.md`.
+> That file is self-contained and sequences everything below plus the Vols I–IV cleanup
+> backlog, with per-item model routing. Three items escalate to Opus and say why inline.
+> Headline: close the Pars I gate (passes 1–3 already discharged, only the log + a 56 MB
+> `rm` remain) · 8 style-scan chunks in Vols III–IV, most needing *annotation* not repair ·
+> re-derive the `[?]` count before trusting the "108" figure · then **J4 Class D/E**, the
+> largest genuine item, briefed at `manual-review/J4-CLASS-DE-HANDOFF.md`.
+>
 > ## ★★★ PROLOGUE + PARS I ARE BOTH CLOSED (2026-07-28). NEXT ACTION — **the Pars I gate**, then Pars II.
 > - **16 chunks Tier 2: `bon-brev-prol`, `-s1`…`-s6`, and `bon-brev-p1-c1`…`c9`.** Build **1949/1949**. **Printed pages 201–208 and 210–218 are fully owned — zero PENDING, zero GAP, 130 apparatus entries.** `check-vol5-apparatus.py` KNOWN_TOTALS covers every one of them (201=5, 202=10, 203=8, 204=9, 205=8, 206=11, 207=8, 208=7, 210=8, 211=7, 212=7, 213=7, 214=9, 215=6, 216=6, 217=7, 218=7). The only gap is **p.209 + the top of p.210 — the editorial capitula table, deliberately not chunked.**
 > - **Push state:** c1–c9 and the resume note are pushed (`origin/master` = `d307e31`). **The seven prologue chunks are committed but NOT pushed** (`6b18c87`, `3a75ce0`, and the s2–s6 commits through `c53037d`).

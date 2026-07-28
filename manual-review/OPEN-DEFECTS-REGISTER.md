@@ -4,6 +4,11 @@
 detection sweep. This is the single place to look before publishing a volume or deciding what to
 repair. **Nothing here is in progress; every item awaits Wilson's go.**
 
+> **★ 2026-07-28 — the actionable subset of this register is now sequenced, with model
+> routing, in `manual-review/NEXT-SESSION-QUEUE.md`. Start there.** Two entries below
+> were retired the same day as stale (B1, C1); read their CLOSED banners before acting
+> on anything nearby.
+
 Two categories, because they have different urgency:
 
 * **§A — DEBT IN ALREADY-PUBLISHED VOLUMES.** Vols I, II, III are live on
@@ -84,7 +89,15 @@ each volume's expected distinction count.
 
 # §B — Gates before Book IV publishes
 
-## B1. ★ d.41–d.50 decade gate — hard blocker, the last of Book IV
+## B1. ~~d.41–d.50 decade gate — hard blocker, the last of Book IV~~ — **CLOSED**
+
+> **CLOSED 2026-07-21** (commit `448ef76`, 16 chunks repaired; log at
+> `manual-review/vol4-d41-d50-polish-resolution-log.md`). Book IV completed the same
+> day and is pushed and deployed. The queued items below were all dispositioned
+> there — including the p.946 note-6 ~120-word loss (restored) and the `transumtum`
+> misread (an artifact of the wrong gutter, corrected). Kept as history.
+
+
 
 Fires when d.50 closes. Three passes (flag resolution at 600 dpi, full-corpus style audit, boundary
 sweep). Known items already queued into it:
@@ -113,7 +126,17 @@ checked.** Same cheap method: read the footer off the band, count, compare.
 
 # §C — Tooling blind spots
 
-## C1. ★ `audit-style-formatting.py` never scans Vol IV
+## C1. ~~`audit-style-formatting.py` never scans Vol IV~~ — **CLOSED**
+
+> **CLOSED 2026-07-28.** Stale on two counts: vol3/vol4 were added to the walk on
+> 2026-07-13, and **vol5 was added 2026-07-28** along with the tier-2 tally, the
+> volume-key lookup and the report header. Verified: the tool now reports
+> `Vol I 406 | Vol II 448 | Vol III 406 | Vol IV 633 | Vol V 16`. The filename-regex
+> concern below is also stale — the alternation was reordered longest-first
+> (`IV|III|II|I`) at the same 2026-07-13 fix. Everything from here to the next `##`
+> is kept only as history.
+
+
 
 `tools/audit-style-formatting.py:263` walks **vol1, vol2, vol3 only**, and its filename regex at
 line 213 is scoped `bon-sent-(?:I|II)-`. So Vol IV is invisible to it, and the legacy-duplicate
