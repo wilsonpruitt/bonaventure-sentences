@@ -1,6 +1,50 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ★★★ VOL V (TOME V — OPUSCULA) IS THE ACTIVE FRONT. Pars I gate CLOSED 2026-07-28 (Sonnet).
+> # ★★★ VOL V (TOME V — OPUSCULA) IS THE ACTIVE FRONT. **PARS II OPEN — next chunk `bon-brev-p2-c2`.**
+>
+> ## ★ NEXT ACTION — `bon-brev-p2-c2` (Cap. II, *De natura corporali quantum ad fieri*)
+>
+> **Pars II is open.** `bon-brev-p2-c1` is Tier 2 and committed (`8d2a863`); build **1950/1950**;
+> `check-vol5-apparatus` all-pass; `polish-style-scan --volume 5` CLEAN.
+>
+> **Pars II = 12 capitula, pp.219–230**, verified against the volume's own index (raw
+> L93795–93829). Opening pages: c1 219 · c2 219 · c3 220 · c4 221 · c5 222 · c6 224 · c7 224 ·
+> c8 225 · c9 226 · c10 227 · c11 229 · c12 230. Index gives opening pages only — confirm each
+> span on the bands.
+>
+> **Hand-off INTO c2** (recorded in c1's Notes, quote it in the dispatch):
+> - Cap. II opens in p.219's **right** column at `Cap. II. De natura corporali quantum ad fieri.`
+>   (raw **L41614**) and does **not** finish on p.219 — derive its span from p.219 **and** p.220.
+> - Inherits p.219 footers **4** (`De his agitur in hoc c. 2. et 3. 4. 5.`) and **5** (`Gen. 1, 1.
+>   — Seq. locus est ibid. v. 6; tertius v. 9; quartus ibid. 2, 2. Subinde respicitur Ioan. 5, 17…
+>   Cfr. de his II. Sent. d. 12-17…`), both already read off p.219's right footer band and quoted
+>   in full in c1's Notes — **do not re-read p.219's footers.** Anchors: n.4 on *operari*, n.5 on
+>   *creavit Deus caelum et terram*.
+> - p.220's running head is `BREVILOQUII PARS II. C. III.`, so **p.220 also carries Cap. III** —
+>   expect a mid-page seam and a shared p.220 footer split between c2 and c3.
+> - `check-vol5-apparatus` KNOWN_TOTALS now has `219: 5`, so nn.4–5 report as **PENDING** until
+>   c2 lands. Feed it `220: <n>` once p.220's footers are read.
+>
+> **⚠⚠ TWO GUTTER RULES LEARNED ON p.219 — apply to every remaining Vol V page:**
+> 1. **`colcrop.py`'s default split of 1660 is wrong for the whole volume.** Vol V pages are
+>    **2571 px** wide at 450 dpi, so 1660 sits deep inside the right column: it pads L with the
+>    gutter and right-column text and truncates R to ~970 px. Always pass a measured split.
+>    p.219 measured **x≈1171**.
+> 2. **Measure over BODY ROWS ONLY on any page that opens a work or a part.** p.219's full-width
+>    `PARS SECUNDA` display heading crosses the gutter and destroys the blank-column run — a
+>    whole-page profile returns *no* usable run at all. Restricting to ~45–92% of page height
+>    gave a clean 49 px minimum. Same hazard the prologue hit on p.201; it will recur at every
+>    work opening in Vols V–X.
+>
+> ⚠ Also: `tools/check-vol5-apparatus.py`'s `section()` stops at the **next `## ` heading**,
+> unlike `build-content.mjs`, which stops only on sentinel headings. A part opening set as `## `
+> inside the Latin block therefore renders fine on the site but makes the checker see an **empty
+> body and report every anchor missing.** Vol V part/work openings are set as `###`. If a future
+> chunk legitimately needs an `## ` subheading, fix `section()` rather than the chunk.
+>
+> ---
+>
+> ## Pars I gate CLOSED 2026-07-28 (Sonnet). *(history below)*
 >
 > **`manual-review/NEXT-SESSION-QUEUE.md` items 0–6 ARE ALL NOW CLOSED OR ASSESSED (2026-07-28).**
 > The queue's headline claim that item 4 (J4 Class D/E, ~38 chunks) was the largest remaining
