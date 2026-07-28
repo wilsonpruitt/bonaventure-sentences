@@ -9,15 +9,16 @@
 > - `site/scripts/build-content.mjs` has a **WORKS registry** (work→book mapping, division titles); `content.ts` + the four browse/dist pages render works with divisionLabel/initial fallbacks. Build: **1934/1934** (was 1933 + the pilot chunk). Typecheck clean.
 > - **`vol5/bon-brev-p1-c1.md` is Tier 2 and is THE FORMAT REFERENCE** — page-qualified labels, bands-only apparatus, Marginalia list in Notes, footer hand-off to c2 recorded.
 >
-> ## ★ NEXT ACTION — `bon-brev-p1-c5` (Cap. V, *De unitate divinae naturae in multiformitate apparitionum*)
-> **c1–c4 are DONE and committed** (Cap. I–IV, pp.210–213, 29 apparatus entries, build 1937/1937). Pages 210/211/212/213 are each **fully owned and contiguous** (8/7/7/7 notes, no gaps, no double-claims).
-> - **No apparatus is forwarded to c5** — p.213's footer is fully consumed by c4.
-> - **But c5 DOES inherit body text: Cap. V's opening paragraph sits on p.213's right column** and breaks mid-sentence at `...missio tamen vel apparitio unius personae non est`. The full inherited text is quoted verbatim in c4's Notes. **c5's `printed_pages` must begin at 213, not 214.**
-> - Extract + colcrop p.214 (pdf 290); **measure its gutter — do not assume.** Observed so far: p.210=1350, p.211=1175, p.212=1335, p.213=1126. Parity alternates, and the even/odd clusters are ~1335–1350 and ~1126–1175.
+> ## ★ NEXT ACTION — `bon-brev-p1-c6` (Cap. VI, *De unitate divinae naturae in multiplicitate appropriatorum*)
+> **c1–c5 are DONE and committed** (Cap. I–V, pp.210–214, **37 apparatus entries**, build 1938/1938). Pages 210–214 are each **fully owned and contiguous** (8/7/7/7/8 notes, no gaps, no double-claims); p.214 n.9 is the only note outstanding and it is c6's.
+> - **Incoming hand-off (from c5's Notes): p.214 n. 9** — anchored on *appropriatio Hilarii*; full text quoted verbatim in c5's Notes.
+> - **c6 also inherits body text:** Cap. VI opens in p.214's right column (`Tertio vero de pluralitate appropriatorum...`) and breaks at `— Iuxta hanc sumitur tertia, scilicet in` at the column foot. **c6's `printed_pages` must begin at 214.**
+> - Extract + colcrop p.215 (pdf 291); **measure its gutter — do not assume.** Running series: p.210=1350, p.211=1175, p.212=1335, p.213=1126, p.214=1397. Parity alternates (even ~1335–1397, odd ~1126–1175) **but each cluster drifts**, so always measure.
+> - **Pars I has 9 capitula** (per the volume index: cc. I–IX, pp.210–217). After c9 closes, the **Pars I gate** fires (prologue + Pars I), which replaces the Sentences' decade gate.
 > - **Prologue chunks (`bon-brev-prol`, `-s1..s6`, pp.201–208) can be built any time** — they don't depend on the caps.
 >
-> ### Method rules learned in c1–c4 (apply to every remaining chunk)
-> 1. **Runovers are COMMON, not rare — three in four chunks** (p.211 n.4 column-crossing, p.212 n.7 **page**-crossing, p.213 n.4 column-crossing). A note that breaks mid-citation at a footer's end continues as an *unnumbered* block at the head of the next footer — sometimes on the next page. **Treat every footer's last entry as presumed incomplete until its continuation is located or positively excluded.**
+> ### Method rules learned in c1–c5 (apply to every remaining chunk)
+> 1. **Runovers are COMMON, not rare — four in five chunks** (p.211 n.4 column-crossing, p.212 n.7 **page**-crossing, p.213 n.4 column-crossing, p.214 n.5 column-crossing and breaking **mid-word**). A note that breaks at a footer's end continues as an *unnumbered* block at the head of the next footer — sometimes on the next page, sometimes mid-word. **Treat every footer's last entry as presumed incomplete until its continuation is located or positively excluded.**
 > 2. **The running head names a page's LAST capitulum, not its first.** p.211 heads `PARS I. C. III.` although Cap. II occupies its left column. Never set a boundary from the running head; find the `Cap. N.` heading in the band.
 > 3. **Footnote numbering restarts every printed page** — hence page-qualified labels (`[^p213-4]`). Non-negotiable.
 > 4. A chunk can span three column-runs (c4 = p.212 R → p.213 L → p.213 R). Don't assume one or two.
