@@ -80,10 +80,14 @@ unchanged (1949 stable). Of the 8:
 - 5 are refused duplicate-def / cross-reference-only cases, all documented (see §A1's Class A/B
   fixes this session for `III-d31-a3-q3`, `III-d32-a1-q2`, `III-d5-a2-q4`, `IV-d14-p2-a2-q1`,
   `IV-d16-p2-a2-q2`).
-- **1 is still genuinely open: `III-d15-divisio`** (5 apparatus defs, 0 body anchors, on a
-  published page) — this is the Class C escalation, not Class D/E, and it's the only chunk in
-  the whole corpus that needs a real decision. See the top of this register / the next-session
-  brief for its Opus handoff.
+- **1 was the Class C escalation, `III-d15-divisio` — ✅ CLOSED 2026-07-28 (Opus, `c9f0708`).**
+  Printed p.329 runs **two independent footnote series** (main body-footers 1–4 for Lombard's
+  *littera*; a separate `NOTAE AD COMMENTARIUM` block 1–2 for the commentary), and the 2026-06-04
+  build read them as one. The divisio had bound `[^p329-1]`/`[^p329-2]` to the two *Notae*
+  superscript positions and invented an anchor for `[^p329-3]`; the littera had dropped its own
+  three anchors. Footers 1–3 returned to the littera (19 → 22 entries); the divisio now carries
+  the NOTAE block only, 2 defs / 2 anchors, no orphans. Both *Notae* superscripts are printed —
+  the "5 defs, 0 anchors" and "no locator" framings were both wrong. **Nothing left open here.**
 
 Original findings (2026-07-17 sample, for history): `II-d23-a2-q2` (~17 footnotes across
 pp.540–541 never transcribed) and `IV-d4-p1-a2-q1` (~8 of 19 p.100–101 footnotes absent, incl.

@@ -11,13 +11,39 @@
 > clean — 517 boundaries, 0 real issues. Item 6 (Vol V audit extension) was assessed and is
 > **not** worth doing now (see the queue file's item 6 for the reasoning).
 >
-> **★★★ THE ONE REMAINING ITEM — needs an OPUS session, small and self-contained:**
-> `manual-review/d15-divisio-notae2-opus-handoff.md`. It is a **single unresolved apparatus
-> entry** in one published chunk (`III-d15-divisio`'s `[^notae-2]`), NOT a batch job — the
-> queue's "5 defs, zero anchors" framing for this chunk was also stale; 4 of 5 are already
-> correctly anchored. The handoff file is self-contained: hand an Opus session that file and
-> nothing else. It needs Opus because deciding whether to delete/relocate a textual-variant
-> note on live text is a judgment call, not because of scale.
+> **★★★ THE LAST ITEM IS CLOSED (2026-07-28, Opus — commit `c9f0708`). The queue is empty.**
+> `III-d15-divisio`'s `[^notae-2]` is **placed**, and the handoff's own premise turned out to
+> be wrong. `manual-review/d15-divisio-notae2-opus-handoff.md` is retired — do not re-run it.
+>
+> **What it actually was.** Printed p.329 carries **two independent footnote series**: the main
+> body-footers 1–4, which serve Lombard's *littera* above the COMMENTARIUS heading, and a
+> separate `NOTAE AD COMMENTARIUM` block numbered 1–2, which serves the commentary below. The
+> 2026-06-04 build read them as one 1–4 sequence. Consequences, all now fixed:
+> - `d15-divisio` had bound `[^p329-1]`/`[^p329-2]` to the two *Notae* superscript positions —
+>   **right positions, wrong notes** — and invented an anchor for `[^p329-3]` on the
+>   COMMENTARIUS lemma (that line carries no superscript at all).
+> - `d15-littera` had dropped its own three anchors and recorded in its Notes that those
+>   positions "are not footnote-marked." False: `Unde Hieronymus super Matthaeum ¹`,
+>   `Unde Augustinus ²`, `ut dicatur etiam, quia ³ corpus` are all printed. Footers 1–3
+>   returned to it; **19 → 22 entries.**
+> - `[^notae-2]` = the printed `²` on `Ad intelligentiam autem huius partis incidit ² quaestio
+>   circa duo` — codd. U V W Z read *incidit **hic** quaestio*. The note names no lemma because
+>   the superscript already fixes the insertion point. `[^notae-1]` = the `¹` on `in speciali,
+>   ibi ¹:` in the DIVISIO TEXTUS, not the TRACTATIO's later *in speciali* where the 2026-07-13
+>   content-match put it.
+> - Divisio now 2 defs / 2 anchors, no orphans. Build **1949/1949**; `polish-style-scan
+>   --volume 3` drops 4 chunks → **3** (`III-d5-a2-q4`, `III-d31-a3-q3`, `III-d32-a1-q2` remain,
+>   all documented dispositions).
+>
+> **⚠ The generalizable lesson — a page can run more than one footnote series.** The corpus rule
+> has been "numbering restarts every printed page"; p.329 shows it can also *fork* on a page,
+> when an editorial sub-block (NOTAE AD COMMENTARIUM, and by extension any similarly-set block)
+> gets its own 1..N run alongside the main footers. Two tells that would have caught this
+> earlier and are worth checking anywhere a page hosts both littera and commentary: **(a) a
+> note's ordinal falling out of column order** relative to its neighbours (here note 1 stood
+> *after* note 2 down the same column), and **(b) a footer whose content plainly serves a
+> region no anchor in the claiming chunk can reach** (a Jerome/Augustine source citation
+> claimed by a divisio that quotes neither).
 >
 > **What this session (Sonnet) closed:**
 > - **Item 0.** Register housekeeping was already done pre-crash. Rendered check on

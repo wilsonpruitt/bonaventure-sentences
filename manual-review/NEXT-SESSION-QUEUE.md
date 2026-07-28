@@ -89,7 +89,19 @@ to match the existing convention.
   it *describes* the label convention. Harmless to readers (Notes is unrendered)
   but it breaks pairing checks. Quote it without the bracket-caret.
 
-**Class C — ★ ESCALATE TO OPUS.**
+**Class C — ✅ CLOSED 2026-07-28 (Opus, `c9f0708`).** The instinct below was half right and
+half wrong, and both halves are instructive. Right: this WAS a cross-chunk misfiling against
+`III-d15-littera`, so the "diff against the littera first" instruction was the correct move.
+Wrong: the direction. The divisio wasn't holding the littera's notes — it was holding the
+littera's *anchors*, bound to the wrong series. Printed p.329 runs **two independent footnote
+series** (main footers 1–4 = littera; `NOTAE AD COMMENTARIUM` 1–2 = commentary). Footers 1–3
+went back to the littera (19 → 22 entries); the divisio kept the NOTAE block, now 2 defs / 2
+anchors. **Nothing was deleted** — the "if they duplicate, delete" branch never applied.
+Also stale: "5 defs, ZERO body anchors" (4 of 5 were anchored) and the later handoff's "no
+locator for `[^notae-2]`" (its superscript is printed on `incidit ²`). Detail in the resume
+note and both chunks' `## Notes`; the handoff file carries a retirement banner.
+
+*(original text, for the record:)*
 - `III-d15-divisio` — **5 apparatus defs, ZERO body anchors.** An entire apparatus
   block with nothing pointing at it, on a **live, reader-facing page**. Labels are
   `p329-1..3` plus `notae-1`, `notae-2`. This has the exact signature of J3's

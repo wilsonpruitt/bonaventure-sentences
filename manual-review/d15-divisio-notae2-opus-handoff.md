@@ -1,3 +1,25 @@
+> # ✅ RETIRED — CLOSED 2026-07-28 (Opus, commit `c9f0708`). DO NOT RE-RUN.
+>
+> `[^notae-2]` **was placed**, and this file's central premise was wrong. It argued the note
+> had "no locator" and could only be content-matched. In fact printed p.329 carries **two
+> independent footnote series** — the main body-footers 1–4 (Lombard's *littera*) and a
+> separate `NOTAE AD COMMENTARIUM` block 1–2 (the commentary) — and **both *Notae*
+> superscripts are printed**, contrary to §2's claim (a) that the 2026-07-13 pass had
+> established there were none.
+>
+> - `[^notae-2]` → the `²` on `Ad intelligentiam autem huius partis incidit ² quaestio circa
+>   duo` (TRACTATIO QUAESTIONUM). Codd. U V W Z read *incidit **hic** quaestio*. The note
+>   names no lemma because the superscript already fixes the insertion point.
+> - `[^notae-1]` → the `¹` on `in speciali, ibi ¹:` (DIVISIO TEXTUS) — **not** the TRACTATIO's
+>   later *in speciali*, where §0 reported it as correctly resolved.
+> - §5's "do not touch anything else" could not be honoured: `[^p329-1]`/`[^p329-2]` were
+>   sitting on the two *Notae* positions and `[^p329-3]` on an unmarked lemma line. All three
+>   were returned to `d15-littera`, which had dropped its own anchors (19 → 22 entries).
+> - The littera's two standalone *hic* occurrences that §2 flagged as the lead were a **red
+>   herring** — both are Augustine-quotation prose, neither is the variant.
+>
+> Kept for the record only. Full disposition: `next-session-resume.md` and both chunks' `## Notes`.
+
 # `III-d15-divisio` `[^notae-2]` — single-chunk Opus decision. SESSION HANDOFF (written 2026-07-28)
 
 **Read this whole file before touching anything.** This is a **single unresolved apparatus
