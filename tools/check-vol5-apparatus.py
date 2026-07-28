@@ -50,7 +50,8 @@ KNOWN_TOTALS = {
     214: 9,
     215: 6,
     216: 6,
-    217: 7,   # n.7 is Cap. IX's — pending until c9 lands
+    217: 7,
+    218: 7,   # Pars I ends here; nothing forwarded
 }
 
 
