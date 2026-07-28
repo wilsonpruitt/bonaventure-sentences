@@ -21,25 +21,49 @@ Two categories, because they have different urgency:
 
 # §A — Debt in already-published volumes
 
-## A1. ★ 108 unresolved `[?]` flags rendering in reader-facing text
+## A1. ★ 263 unresolved `[?]` flags rendering in reader-facing text — RECOUNTED 2026-07-28
 
-Counted inline in the `## Latin` / `## English` bodies (excluding `## Notes` discussion and the
-`transcription_status` boilerplate, both of which mention `[?]` harmlessly):
+**Superseded the old "~108" figure**, which the register itself flagged as untrustworthy
+(contaminated the same way the J4 false positive was — see `NEXT-SESSION-QUEUE.md` item 3).
+Recounted with a script that parses each chunk's frontmatter/body split, scopes to
+`## Latin` + `## English` + **`## Apparatus`** (all three render on the site), excludes
+`## Notes` entirely (never rendered — `notes` is only a type field, see
+`site/src/lib/content.ts:20`) and strips backtick-quoted spans before counting literal `[?]`.
 
-| vol | inline body flags | files | status |
-|---|---|---|---|
-| **I** | **88** | **19** | **PUBLISHED** |
-| II | 0 | 0 | published, clean |
-| III | 0 | 0 | published, clean |
-| IV | 20 | 9 | in progress |
+| vol | reader-facing flags | files |
+|---|---|---|
+| **I** | **184** | **47** |
+| II | 7 | 4 |
+| III | 2 | 1 |
+| IV | 70 | 27 |
+| V | 0 | 0 |
+| **Total** | **263** | **79** |
 
-`[?]` is plain body text, so it renders literally on the site — a reader of Vol I sees `[?]` in the
-Latin. Worst offenders: `bon-sent-I-d42-a1-q4` (18), `I-d31-p2-a1-q3` (12), `I-d14-a2-q2` (10),
-`I-d24-a2-q1` (8).
+**Why this is bigger than the old 108, not just a re-verification:** the old count scoped only
+`## Latin`/`## English`, excluding `## Apparatus` — but the Apparatus Criticus block **does**
+render on the site (`text-reader.tsx`'s `ApparatusBlock`), so a `[?]` sitting in an apparatus
+entry's `**La.**`/`**En.**` prose is just as reader-visible as one in the body. That is most of
+the delta; it also explains why Vols II/III show non-zero here (2–7 flags) though the old table
+had them at zero — those flags live in apparatus entries, not the body, so the decade-polish
+gate's body-only sweep never saw them.
 
-**Note the shape of this table:** Vols II and III are at zero because the decade-polish gate's flag
-resolution pass was applied to them. **Vol I predates that discipline.** This is a known, bounded,
-19-file job — the cheapest large win available.
+Worst offenders (body+apparatus combined): `bon-sent-I-d42-a1-q4` (19), `I-d19-littera` (18),
+`I-d31-p2-a1-q3` (12), `I-d14-a2-q2` (11), `I-d24-a2-q1` (10).
+
+**Side finding, not yet dispositioned:** `I-d19-littera`'s apparatus entry `[^4]`'s **En.** line
+carries a malformed `[^[?]: editorial reference partly damaged in the page footer; …]` construct
+— not the standard `[?]` flag token. Because `text-reader.tsx`'s inline-token regex is
+non-greedy-safe but character-class-based (`\[\^([^\]]+)\]`), this string will parse as a
+footnote reference with id `[?` (matching up to the first `]`), producing a broken orphan
+superscript link with no def. This is the only file in the corpus matching the literal string
+`[^[?]` (checked corpus-wide). Worth a rendered check and a fix before Vol I's A1 pass reaches
+this file — it's a distinct rendering bug, not an unresolved ambiguity to disposition.
+
+**Note the shape of the original table still holds directionally:** Vols II/III are near-zero
+because the decade-polish gate's flag-resolution pass was applied to their bodies; **Vol I
+predates that discipline** and carries most of the debt (184/263, 70%). This is a bounded,
+47-file job — still the largest concentrated single-volume win available, just larger than
+previously scoped. Budget A1 against 263, not 108.
 
 ## A2. ★ J4 Class D/E — ~38 chunks, and the sample found real content loss
 
