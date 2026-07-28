@@ -9,8 +9,18 @@
 > - `site/scripts/build-content.mjs` has a **WORKS registry** (work→book mapping, division titles); `content.ts` + the four browse/dist pages render works with divisionLabel/initial fallbacks. Build: **1934/1934** (was 1933 + the pilot chunk). Typecheck clean.
 > - **`vol5/bon-brev-p1-c1.md` is Tier 2 and is THE FORMAT REFERENCE** — page-qualified labels, bands-only apparatus, Marginalia list in Notes, footer hand-off to c2 recorded.
 >
-> ## ★ NEXT ACTION — `bon-brev-p1-c2` (Cap. II, printed p.210–211)
-> Incoming hand-off (from c1's Notes): **p.210 footer nn. 7–8 belong to c2** (n.7 on *personarum*, n.8 on *unitate*). Cap. II starts in p.210's right column (`raw` ~L40160), continues onto p.211 (pdf 287 — extract + colcrop it; measure the gutter, don't assume 1350). Then c3 (p.211, index says Cap. III starts there), and onward per capitulum. **Prologue chunks (`bon-brev-prol`, `-s1..s6`, pp.201–208) can be built any time** — they don't depend on the caps.
+> ## ★ NEXT ACTION — `bon-brev-p1-c5` (Cap. V, *De unitate divinae naturae in multiformitate apparitionum*)
+> **c1–c4 are DONE and committed** (Cap. I–IV, pp.210–213, 29 apparatus entries, build 1937/1937). Pages 210/211/212/213 are each **fully owned and contiguous** (8/7/7/7 notes, no gaps, no double-claims).
+> - **No apparatus is forwarded to c5** — p.213's footer is fully consumed by c4.
+> - **But c5 DOES inherit body text: Cap. V's opening paragraph sits on p.213's right column** and breaks mid-sentence at `...missio tamen vel apparitio unius personae non est`. The full inherited text is quoted verbatim in c4's Notes. **c5's `printed_pages` must begin at 213, not 214.**
+> - Extract + colcrop p.214 (pdf 290); **measure its gutter — do not assume.** Observed so far: p.210=1350, p.211=1175, p.212=1335, p.213=1126. Parity alternates, and the even/odd clusters are ~1335–1350 and ~1126–1175.
+> - **Prologue chunks (`bon-brev-prol`, `-s1..s6`, pp.201–208) can be built any time** — they don't depend on the caps.
+>
+> ### Method rules learned in c1–c4 (apply to every remaining chunk)
+> 1. **Runovers are COMMON, not rare — three in four chunks** (p.211 n.4 column-crossing, p.212 n.7 **page**-crossing, p.213 n.4 column-crossing). A note that breaks mid-citation at a footer's end continues as an *unnumbered* block at the head of the next footer — sometimes on the next page. **Treat every footer's last entry as presumed incomplete until its continuation is located or positively excluded.**
+> 2. **The running head names a page's LAST capitulum, not its first.** p.211 heads `PARS I. C. III.` although Cap. II occupies its left column. Never set a boundary from the running head; find the `Cap. N.` heading in the band.
+> 3. **Footnote numbering restarts every printed page** — hence page-qualified labels (`[^p213-4]`). Non-negotiable.
+> 4. A chunk can span three column-runs (c4 = p.212 R → p.213 L → p.213 R). Don't assume one or two.
 > ⚠ Before the grind scales past Pars I: **extend the 3 audits + seam-screen/style-audit to Vol V** (raw has NO footnote numerals — apparatus audit needs a symbol-glyph mode; id regexes must accept `bon-brev-…`). Frozen as a requirement in the CLAUDE.md section.
 > **Pars I gate** (prologue + Pars I caps) fires when Pars I closes — per-pars gates replace decade gates.
 >
