@@ -132,8 +132,20 @@ belongs to John 1). And Quaracchi's spellings **`transsumtive`, `assumtum`,
 
 ```bash
 python3.11 tools/check-vol5-apparatus.py     # pairing + duplicates + ownership
+python3.11 tools/polish-style-scan.py --volume 5   # pass 2 — EVERY commit now
 cd site && node scripts/build-content.mjs    # must be +1 per chunk
 ```
+
+**Pass 2 is no longer gate work** (CLAUDE.md § "Polish-gate cadence for Vols V–X").
+`polish-style-scan.py` gained vol5 on 2026-07-28 along with Vol V-specific
+checks: page-qualified labels, label pages ⊆ `printed_pages`, `work:` present
+and `book:` absent, and no `[^` token in `## Notes`. `--volume 5` scopes it;
+`--only APP,PAIR` filters by severity class, and the report ends with a
+by-severity roll-up so findings parcel one class per agent run.
+
+`audit-style-formatting.py` and `seam-screen.py` were extended the same day.
+Seam-screen on Vol V takes no distinction range: `seam-screen.py --volume 5
+[--work breviloquium]`.
 
 `check-vol5-apparatus.py` reports a printed page's notes as `PENDING` when its
 top note(s) are legitimately forwarded to a chunk that isn't written yet, and
@@ -144,11 +156,14 @@ established by an eyes-on band read; **add p.215–218 to that map as you read
 them**, so a later dropout is caught automatically.
 
 Note that `audit-apparatus-count.py` is **blind to Vol V** and always will be
-until it grows a symbol-glyph mode — do not trust its diff column here. The
-other two audits (`audit-paraphrase.py`, `audit-headers.py`) also do not yet
-support `--volume 5`, and `seam-screen.py` / `audit-style-formatting.py` parse
-`bon-sent-…` ids and will silently skip `bon-brev-…` files. **Extending them is
-a prerequisite for the Pars I gate, not for the chunks.**
+until it grows a symbol-glyph mode — do not trust its diff column here; use
+`check-vol5-apparatus.py` instead. **`seam-screen.py` and
+`audit-style-formatting.py` now cover Vol V** (extended 2026-07-28) — that
+prerequisite is discharged. Still outstanding: `audit-paraphrase.py` and
+`audit-headers.py` have no `--volume 5`. Both are lower value here than in the
+Sentences — paraphrase detection works by Jaccard overlap against the raw, and
+Vol V's raw is missing every footnote numeral, so its baseline is not
+comparable — but neither has been assessed.
 
 ---
 
