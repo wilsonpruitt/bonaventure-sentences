@@ -49,7 +49,8 @@ KNOWN_TOTALS = {
     213: 7,
     214: 9,
     215: 6,
-    216: 6,   # nn.4-6 are Cap. VIII's — pending until c8 lands
+    216: 6,
+    217: 7,   # n.7 is Cap. IX's — pending until c9 lands
 }
 
 
