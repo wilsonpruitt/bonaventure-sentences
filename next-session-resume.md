@@ -27,18 +27,36 @@
 >   **Deployed through printed p.219.** Next deploy = **close of Pars II, ~p.230** (12 printed
 >   pages, 11 more capitula). The p.291 polish gate is a different event and much later.
 >
-> **Hand-off INTO c2** (recorded in c1's Notes, quote it in the dispatch):
-> - Cap. II opens in p.219's **right** column at `Cap. II. De natura corporali quantum ad fieri.`
->   (raw **L41614**) and does **not** finish on p.219 — derive its span from p.219 **and** p.220.
-> - Inherits p.219 footers **4** (`De his agitur in hoc c. 2. et 3. 4. 5.`) and **5** (`Gen. 1, 1.
->   — Seq. locus est ibid. v. 6; tertius v. 9; quartus ibid. 2, 2. Subinde respicitur Ioan. 5, 17…
->   Cfr. de his II. Sent. d. 12-17…`), both already read off p.219's right footer band and quoted
->   in full in c1's Notes — **do not re-read p.219's footers.** Anchors: n.4 on *operari*, n.5 on
->   *creavit Deus caelum et terram*.
-> - p.220's running head is `BREVILOQUII PARS II. C. III.`, so **p.220 also carries Cap. III** —
->   expect a mid-page seam and a shared p.220 footer split between c2 and c3.
-> - `check-vol5-apparatus` KNOWN_TOTALS now has `219: 5`, so nn.4–5 report as **PENDING** until
->   c2 lands. Feed it `220: <n>` once p.220's footers are read.
+> ## ★ NEXT CHUNK — `bon-brev-p2-c5` (Cap. V, *De modo describendi praedicta in sacra Scriptura*)
+>
+> **c1–c4 are Tier 2 and committed** (`8d2a863`, `44521d5`, `a747734`, `4b31ae6`). Build **1953/1953**;
+> `check-vol5-apparatus` all-pass; `polish-style-scan --volume 5` CLEAN.
+> **Printed pp. 219, 220, 221 are fully consumed** — every footer note owned, zero GAP, zero PENDING.
+>
+> **Hand-off INTO c5: NOTHING inherited.** p.221's seven notes are all owned and its right column
+> ends with Cap. IV's last sentence over blank paper. Cap. V opens clean at the head of **p.222**
+> (raw **L41977**). Per the index it spans **pp. 222–223**; p.220 n. 5 independently corroborates
+> that by cross-referring forward to `infra c. 5. (pag. 223, col. I. et II.)`.
+>
+> **Remaining Pars II:** c5 (222–223) · c6 (224) · c7 (224) · c8 (225) · c9 (226) · c10 (227) ·
+> c11 (229) · c12 (230). Index gives opening pages only — confirm each span on the bands.
+>
+> ### Method notes earned in c1–c4 (apply to the rest of Pars II)
+> 1. **The left footer is NOT the left column's notes.** Confirmed on p.220 *and* p.221: the left
+>    footer block fills first and overruns the column division, so it can hold a note whose anchor
+>    is in the right column (p.220 n.4 on *septem aetatum*; p.221 n.4 on *Sic enim dicit Scriptura*).
+>    Numbering follows **reading order across the page**; the blocks merely fill in turn. Never infer
+>    a note's anchor column from which block holds it.
+> 2. **Finish the runover test from BOTH sides.** A last entry closing on a complete clause is only
+>    half of it — also confirm the next footer opens with a *numbered* entry. p.219 n.3 was a real
+>    mid-word runover (*velut conan-|tis*); p.220 n.4 and p.221 n.4 were both negative. Eleven
+>    runovers in twenty chunks.
+> 3. **Gutter: run width is the signal, not cluster membership.** p.221 measured **1233**, 53 px
+>    above the old odd-page ceiling of 1180 — but on a clean 46 px run, and the bands read true.
+>    Treat the clusters as ~1120–1240 (odd) / ~1335–1400 (even) and judge each measurement on its
+>    run width. `colcrop.py vol5 <page>` auto-measures; don't hand-roll it.
+> 4. **Greek has now appeared in the apparatus** (p.221 n.5: ζῴδιον, ζωή), and the IA raw drops it
+>    entirely — band-only, like the footnote numerals. Verified through to `content.json`.
 >
 > **Gutter: `colcrop.py vol5 <page>` now AUTO-MEASURES** — don't pass a constant, and don't
 > hand-roll a measuring script. The rule and its three failure modes are frozen in CLAUDE.md
