@@ -319,9 +319,31 @@ own mini-pilot) → Sermones.
 
 - **Offset `pdf = printed + 76`** (verified at printed 174/176/201/320/507/530; PDF
   690 pp). Wired into `tools/extract-pages.py` (`--volume vol5`).
-- Two-column → **VOL II OVERRIDE recipe applies.** `colcrop.py vol5 <page> 1350` — the
-  gutter on p.210 measured x≈1323–1382 of a 2571 px page (450 dpi). Measure per page;
-  expect parity alternation (Vol IV lesson).
+- Two-column → **VOL II OVERRIDE recipe applies.**
+
+  **★ GUTTER RULE (frozen 2026-07-28 — a measurement, never a constant).**
+  `colcrop.py vol5 <page>` now **auto-measures** the gutter; vol5 defaults to `auto`,
+  and `auto` is accepted explicitly on any volume. It prints the measured `split_x`
+  and the width of the low-ink run it found. Pass an explicit split only to override
+  a measurement you have already checked.
+  1. **Never let the 1660 default stand on Vol V.** Vol V pages are **2571 px** wide at
+     450 dpi, so 1660 sits deep inside the *right* column: it pads L with the gutter plus
+     right-column text and truncates R to ~970 px. (Vol IV had the mirror-image problem at
+     1660 — see the Vol IV bootstrap note.) Measured values so far: p.210=1350, 211=1175,
+     212=1335, 213=1126, 214=1397, 215=1163, 216=1385, 217=1180, 218=1377, **219=1171**.
+     **Parity alternation holds** (odd 1126–1180, even 1335–1397) but drifts up to ~54 px
+     within each cluster — which is exactly why the per-page measurement is not optional.
+  2. **Measurement is restricted to the BODY ROWS (~45–92% of page height), by design.**
+     A page that opens a work, a part, or a distinction carries a **full-width display
+     heading that crosses the gutter** and destroys the blank-column run; profiling the
+     whole page height then returns *no usable run at all*. Hit on p.201 (prologue) and
+     again on p.219 (`PARS SECUNDA`). Footer registers and running heads are excluded for
+     the same reason. Expect this at **every work opening in Vols V–X**.
+  3. **A run narrower than ~15 px means the measurement FAILED** — the tool flags it.
+     Re-measure over a narrower row window and confirm visually before use. A value far
+     outside the page's parity cluster is equally suspect. This is not pedantry: Vol IV's
+     `transumtum` misreading was a real corpus error traced directly to a wrong gutter
+     (see the d.41–d.50 gate notes).
 - **⚠⚠ THE RAW HAS NO FOOTNOTE NUMERALS.** Vol V's IA OCR renders every superscript as
   a punctuation glyph (`^` `'` `"`). Anchor POSITIONS survive in the raw; numbers and
   footer-entry openers do NOT. Consequences, all mandatory:

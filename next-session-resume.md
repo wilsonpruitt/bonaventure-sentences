@@ -25,16 +25,10 @@
 > - `check-vol5-apparatus` KNOWN_TOTALS now has `219: 5`, so nn.4–5 report as **PENDING** until
 >   c2 lands. Feed it `220: <n>` once p.220's footers are read.
 >
-> **⚠⚠ TWO GUTTER RULES LEARNED ON p.219 — apply to every remaining Vol V page:**
-> 1. **`colcrop.py`'s default split of 1660 is wrong for the whole volume.** Vol V pages are
->    **2571 px** wide at 450 dpi, so 1660 sits deep inside the right column: it pads L with the
->    gutter and right-column text and truncates R to ~970 px. Always pass a measured split.
->    p.219 measured **x≈1171**.
-> 2. **Measure over BODY ROWS ONLY on any page that opens a work or a part.** p.219's full-width
->    `PARS SECUNDA` display heading crosses the gutter and destroys the blank-column run — a
->    whole-page profile returns *no* usable run at all. Restricting to ~45–92% of page height
->    gave a clean 49 px minimum. Same hazard the prologue hit on p.201; it will recur at every
->    work opening in Vols V–X.
+> **Gutter: `colcrop.py vol5 <page>` now AUTO-MEASURES** — don't pass a constant, and don't
+> hand-roll a measuring script. The rule and its three failure modes are frozen in CLAUDE.md
+> § "Vol V mechanics" → **★ GUTTER RULE**; that is the authority, not this file. p.219
+> measured **1171** (49 px run).
 >
 > ⚠ Also: `tools/check-vol5-apparatus.py`'s `section()` stops at the **next `## ` heading**,
 > unlike `build-content.mjs`, which stops only on sentinel headings. A part opening set as `## `
