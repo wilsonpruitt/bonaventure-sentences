@@ -45,7 +45,8 @@ VOL5 = os.path.join(REPO_ROOT, "vol5")
 KNOWN_TOTALS = {
     205: 8,
     206: 11,
-    207: 8,   # nn.4-8 are § 6's — pending until prol-s6 lands
+    207: 8,
+    208: 7,   # prologue ends here; nothing forwarded
     201: 5,
     202: 10,
     203: 8,
