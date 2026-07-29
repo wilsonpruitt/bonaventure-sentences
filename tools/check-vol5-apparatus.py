@@ -65,7 +65,8 @@ KNOWN_TOTALS = {
     221: 7,   # nn.1-3 Cap. III, nn.4-7 Cap. IV; page fully consumed
     222: 5,   # nn.1-2 Cap. IV (tail), nn.3-5 Cap. V
     223: 9,   # all nine Cap. V
-    224: 8,   # nn.1-7 Cap. VI, n.8 is Cap. VII's — pending until p2-c7 lands
+    224: 8,   # nn.1-7 Cap. VI, n.8 Cap. VII
+    225: 7,   # nn.1-4 Cap. VII, nn.5-7 Cap. VIII — pending until p2-c8 lands
 }
 
 
