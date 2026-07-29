@@ -18,7 +18,10 @@
 > ## 🚦🚦 **THE NEXT DISPATCH IS THE DEPLOY, NOT `bon-brev-p4-c1`.**
 > **A pars boundary is a deploy boundary** (CLAUDE.md § "★ DEPLOY CADENCE"), and **deploying is a
 > protected action that needs Wilson's own explicit per-action OK.** Do not roll into Pars IV; put
-> the queued block below (deploy + home-page copy + Stripe tier label) in front of Wilson first.
+> the queued block below in front of Wilson first — **it is now just two items: the Pars III deploy,
+> and the Stripe tier label.** ⚠ **Pars II is ALREADY DEPLOYED and the home-page copy is ALREADY
+> UPDATED** (Wilson, 2026-07-29); this file asserted otherwise for a full session. Read the
+> correction in that block before repeating anything here about live-site state.
 > **Also unpushed** — `master` is ahead of `origin/master`; pushing is separately protected.
 >
 > ### 💵 FOR WILSON — donations
@@ -947,21 +950,26 @@
 >
 > ## 🚦 DEPLOY BOUNDARY — WAITING ON WILSON, DO NOT PROCEED
 > **A pars boundary is a deploy boundary** (CLAUDE.md § "★ DEPLOY CADENCE"), and deploying is a
-> protected action that always gets its own explicit OK. **Two things are queued and both need
-> Wilson:**
-> 1. **The deploy itself.** Prod is `bonaventure.wrootpress.com`; last deployed `39c7bc5`
->    (Pars II c1), **serving only through printed p.219** — **pp. 220–241 are written, committed
->    and unpublished, i.e. the whole of Pars II after its first capitulum PLUS the whole of Pars III
->    (now complete).** Recipe in CLAUDE.md: `node scripts/build-content.mjs` → `npx vercel build
->    --prod` → `npx vercel deploy --prod --prebuilt --archive=tgz`. ⚠ The archive is ~97 MB and
->    has died mid-upload once at 100% — **retry the deploy, do NOT rebuild.**
-> 2. **Home-page copy is STALE AND LIVE.** `site/src/app/page.tsx` says *"Book IV — the
->    sacraments — is underway, distinction by distinction."* Book IV **completed 2026-07-21**.
->    The sentence sits directly above the Stripe support tiers, so it is what a would-be patron
->    reads before deciding. Redraft around Vol V / the Opuscula. **It is Wilson's voice — get his
->    wording, don't just rewrite it.** Ride it along with this deploy.
+> protected action that always gets its own explicit OK.
 >
->    **★ SAME PASS — the Stripe tier LABEL is stale too (Wilson OK'd this fix 2026-07-29).**
+> **★★ CORRECTED 2026-07-29 BY WILSON — this block had TWO STALE CLAIMS. Do not reintroduce them.**
+> **Pars II IS DEPLOYED and the home-page copy IS UP TO DATE.** This file (and the memory file that
+> mirrored it) both went on asserting "prod serves only through p.219" and "`page.tsx` still says
+> Book IV is underway" long after Wilson had fixed both. A whole session was briefed off the stale
+> version. **The lesson generalizes: this note is written by agents who cannot see prod. Anything
+> here about DEPLOYED STATE or LIVE SITE COPY is a claim about a system outside the repo, and is
+> only as fresh as the last person who checked. State such claims with their date and treat them
+> as expiring; when it matters, ask Wilson rather than repeating the line.** Chunk/build/audit
+> facts are different — those are derived from the repo by scripts and stay trustworthy.
+>
+> **What is actually outstanding:**
+> 1. **The deploy of PARS III** (printed pp. 231–241, 11 capitula, complete 2026-07-29). Pars II is
+>    already live. Prod is `bonaventure.wrootpress.com`. Recipe in CLAUDE.md:
+>    `node scripts/build-content.mjs` → `npx vercel build --prod` →
+>    `npx vercel deploy --prod --prebuilt --archive=tgz`. ⚠ The archive is ~97 MB and has died
+>    mid-upload once at 100% — **retry the deploy, do NOT rebuild.**
+> 2. **The Stripe tier LABEL — the one piece of site copy still outstanding (Wilson OK'd the fix
+>    2026-07-29).** The home-page prose is DONE; this is a separate string in a different file.
 >    `site/src/app/layout.tsx:84` reads *"$10 — a distinction"*. Vol V has **no distinctions**;
 >    the pars is the distinction-equivalent unit (Quaracchi cite as "Breviloq. p. V. c. 6"), and
 >    $10 is now being received AS a pars — two such donations came in 2026-07-29, assigned to
