@@ -1,0 +1,36 @@
+# Vol V runover ledger — THE authoritative record of footer-runover tests.
+#
+# One line per chunk, in BUILD order. Every chunk in vol5/ must appear exactly
+# once, including the ones that tested negative — the roster IS the denominator,
+# and `tools/check-vol5-census.py` cross-checks it against the filesystem.
+# That cross-check is the whole point: the 2026-07-28 tally fork happened
+# because `bon-brev-prol` was silently dropped from a hand-carried count.
+#
+# Do NOT hand-increment a total anywhere. Append a line here; run the script.
+#
+# slug<TAB>events        events = "-" for negative, else comma-separated
+#                        "<page> <note>:<gutter|page>"
+p1-c1	-
+p1-c2	p.211 n.4:gutter
+p1-c3	-
+p1-c4	p.212 n.7:page,p.213 n.4:gutter
+p1-c5	p.214 n.5:gutter
+p1-c6	p.215 n.4:gutter
+p1-c7	-
+p1-c8	p.216 n.5:gutter,p.217 n.5:gutter
+p1-c9	-
+prol	p.201 n.2:gutter
+prol-s1	-
+prol-s2	-
+prol-s3	-
+prol-s4	p.205 n.5:gutter,p.206 n.7:gutter
+prol-s5	p.206 n.11:page
+prol-s6	-
+p2-c1	p.219 n.3:gutter
+p2-c2	-
+p2-c3	-
+p2-c4	p.222 n.2:gutter
+p2-c5	p.223 n.5:gutter
+p2-c6	-
+p2-c7	p.225 n.4:gutter
+p2-c8	-

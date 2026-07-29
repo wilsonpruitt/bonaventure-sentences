@@ -388,6 +388,43 @@ own mini-pilot) → Sermones.
 - Quaracchi's serif `1` prints like `4` (`120`→"420", `11`→"41"/"44"). Cross-check any
   digit read against a second occurrence on the page before recording it.
 
+- **★★ NEVER HAND-CARRY A CORPUS-WIDE COUNT. DERIVE IT. (frozen 2026-07-28.)**
+  Any number that describes the whole corpus — chunk counts, runover tallies,
+  apparatus totals, `[?]` flag counts — must be **derived by a tool that walks the
+  directory, at the moment it is cited**. Never copy last session's number and add
+  one. A hand-carried counter cannot notice that it skipped something, and it will
+  not be re-derived for months because it *looks* authoritative.
+
+  **What this rule is made of.** The Vol V runover tally forked: the resume note
+  said "eleven runovers in twenty chunks," `bon-brev-p2-c7`'s Notes said
+  "fourteenth runover in twenty-three chunks," and the truth was **fifteen in
+  twenty-four**. The counts were exact through `p1-c8`, then went **−1 on both
+  counters at `prol-s2` and stayed there** — whoever resumed the tally after the
+  Pars I block omitted **`bon-brev-prol`** and its p.201 n.2 runover. Two sessions
+  later someone repaired the chunk count but not the runover count, so the two
+  numbers were wrong in *different directions* and read as independent drift rather
+  than as one dropped chunk. Nothing caught it, because nothing was checking.
+
+  **The specific blind spot, which WILL recur in Vols VI–X.** `bon-brev-prol` is the
+  only vol5 slug with **no numeric suffix**, so an eye — or a glob — running down the
+  directory listing slides straight past it. **Every work's prologue/opener has this
+  shape** (`bon-itin-prol`, `bon-red-prol`, …). When a new work is chunked, its
+  opener is the chunk most likely to be silently excluded from any sweep, audit, or
+  count. Check any vol5 enumeration against a census of **24** (and rising).
+
+  **The mechanism — use it, don't reinvent it.**
+  `manual-review/vol5-runover-ledger.tsv` records **one line per chunk, including
+  the negatives**, because the roster *is* the denominator.
+  **`python3.11 tools/check-vol5-census.py`** diffs that roster against `vol5/` and
+  derives the totals; it exits non-zero if a chunk is missing from either side.
+  Run it **in the per-chunk verification step, alongside `polish-style-scan`**
+  (same decoupling logic as pass 2 — it is a script, its cost does not scale with
+  batch size, and running it only at gates is what let the last silent skip run for
+  eleven chunks). Append a ledger line per chunk; cite the script's output. **Do not
+  write a running total into a chunk's `## Notes`** — a cross-chunk counter in a
+  per-chunk file is how two copies diverge in the first place. Extending to Vols
+  VI–X = one entry in the script's `VOLUMES` list.
+
 ### Breviloquium register additions (lock these; the Sentences tables still apply)
 
 - *In principio intelligendum est…* → "At the outset it must be understood…"
