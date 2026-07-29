@@ -361,6 +361,20 @@ own mini-pilot) → Sermones.
      before the chunks.
   3. `seam-screen.py` / `audit-style-formatting.py` parse `bon-sent-…` ids and will
      silently skip `bon-brev-…` files until extended — same requirement.
+- **★★ BLANK SPACE AT A COLUMN FOOT IS NOT A BOUNDARY (learned the hard way, 2026-07-28).**
+  Quaracchi's footnote blocks expand **upward**, shortening the body column to
+  make room. A page with a large footer register therefore ends its body text
+  well above the foot, leaving white space that looks exactly like the end of a
+  capitulum. **It is not.** `bon-brev-p2-c4` was written short by a whole
+  paragraph and two apparatus entries on precisely this inference ("blank paper
+  below — positive evidence that Cap. V opens on the next page"); the chapter
+  actually carried over to the head of the next page's left column, above the
+  next heading. **Establish every unit's end positively, from the NEXT heading
+  in the following column or page — never from white space.** This is the same
+  failure family as the Vol IV cascade-merge: the chunk looked complete, parsed
+  clean, and passed every audit, because no tool knows what a page ought to
+  contain. Vol V is especially exposed because a single editorial *Additamentum*
+  can fill most of a page's footer (p.222 n. 2).
 - **Marginal glosses are DENSE** (one per paragraph in the Breviloquium, one per
   chunk-sized unit elsewhere) — Quaracchi's editorial running outline in the outer
   margin. They splice into pdftotext output mid-word but stand as separate line-blocks

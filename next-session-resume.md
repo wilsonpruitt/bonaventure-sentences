@@ -33,10 +33,12 @@
 > `check-vol5-apparatus` all-pass; `polish-style-scan --volume 5` CLEAN.
 > **Printed pp. 219, 220, 221 are fully consumed** — every footer note owned, zero GAP, zero PENDING.
 >
-> **Hand-off INTO c5: NOTHING inherited.** p.221's seven notes are all owned and its right column
-> ends with Cap. IV's last sentence over blank paper. Cap. V opens clean at the head of **p.222**
-> (raw **L41977**). Per the index it spans **pp. 222–223**; p.220 n. 5 independently corroborates
-> that by cross-referring forward to `infra c. 5. (pag. 223, col. I. et II.)`.
+> **Hand-off INTO c5.** Cap. V opens partway down **p.222's left column** at the `Cap. V.` heading
+> (raw **L42022**) — *not* at the head of the page: Cap. IV's last paragraph occupies the top of
+> that column (this is what c4's repair, `4189902`, restored). **Inherits p.222 footer notes 3, 4
+> and 5**, all three quoted in full in c4's Notes — do not re-read them. Per the index Cap. V spans
+> **pp. 222–223**, corroborated by p.220 n. 5's forward reference `infra c. 5. (pag. 223, col. I.
+> et II.)`. p.222 bands are already generated (gutter 1319); p.223 measured 1241.
 >
 > **Remaining Pars II:** c5 (222–223) · c6 (224) · c7 (224) · c8 (225) · c9 (226) · c10 (227) ·
 > c11 (229) · c12 (230). Index gives opening pages only — confirm each span on the bands.
@@ -55,7 +57,12 @@
 >    above the old odd-page ceiling of 1180 — but on a clean 46 px run, and the bands read true.
 >    Treat the clusters as ~1120–1240 (odd) / ~1335–1400 (even) and judge each measurement on its
 >    run width. `colcrop.py vol5 <page>` auto-measures; don't hand-roll it.
-> 4. **Greek has now appeared in the apparatus** (p.221 n.5: ζῴδιον, ζωή), and the IA raw drops it
+> 4. **★★ A short column is NOT a boundary.** Quaracchi footers expand *upward*; a page with a
+>    big footer register ends its body text well above the foot. c4 was written short by a whole
+>    paragraph and two entries on exactly that misreading. **Establish every capitulum's end from
+>    the NEXT heading, positively, in the following column or page — never from white space.**
+>    Now frozen in CLAUDE.md § "Vol V mechanics".
+> 5. **Greek has now appeared in the apparatus** (p.221 n.5: ζῴδιον, ζωή), and the IA raw drops it
 >    entirely — band-only, like the footnote numerals. Verified through to `content.json`.
 >
 > **Gutter: `colcrop.py vol5 <page>` now AUTO-MEASURES** — don't pass a constant, and don't
