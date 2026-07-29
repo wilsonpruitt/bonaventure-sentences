@@ -1,6 +1,6 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ★★★ VOL V (TOME V — OPUSCULA) IS THE ACTIVE FRONT. **PARS II OPEN — next chunk `bon-brev-p2-c9`.**
+> # ★★★ VOL V (TOME V — OPUSCULA) IS THE ACTIVE FRONT. **PARS II OPEN — next chunk `bon-brev-p2-c10`.**
 >
 > **Pars II = 12 capitula, pp.219–230**, verified against the volume's own index (raw
 > L93795–93829). Opening pages: c1 219 · c2 219 · c3 220 · c4 221 · c5 222 · c6 224 · c7 224 ·
@@ -20,34 +20,39 @@
 >   OK on the wording, don't just rewrite it.**
 > - Last deployed: `39c7bc5` (Pars II c1 + the Book V browse container), 2026-07-28.
 >   **Deployed through printed p.219.** Next deploy = **close of Pars II, ~p.230** —
->   c9–c12 still to build. The p.291 polish gate is a different event and much later.
+>   c10–c12 still to build. The p.291 polish gate is a different event and much later.
 >
-> ## ★ NEXT CHUNK — `bon-brev-p2-c9` (Cap. IX, *De productione hominis quantum ad spiritum*)
+> ## ★ NEXT CHUNK — `bon-brev-p2-c10` (Cap. X, *De productione hominis quantum ad corpus*)
 >
-> **c1–c8 are Tier 2 and committed.** Build **1957/1957**; `check-vol5-apparatus` all-pass;
-> `polish-style-scan --volume 5` CLEAN. **Printed pp. 219–225 fully consumed**; p.226 nn. 1–5
-> owned, nn. 6–9 pending.
+> **c1–c9 are Tier 2 and committed.** Build **1958/1958**; `check-vol5-apparatus` all-pass;
+> `polish-style-scan --volume 5` CLEAN. **Printed pp. 219–227 fully consumed**; nothing is
+> pending and nothing is forwarded into c10.
 >
-> **Hand-off INTO c9.** Cap. IX opens in **p.226's right column** at the `Cap. IX.` heading
-> (raw **L42707**), text beginning `Post naturam corpoream et incorpoream dicenda sunt aliqua de
-> natura ex utrisque composita, primo ex parte mentis…`. **Inherits p.226 footer notes 6, 7, 8
-> and 9**, all four quoted in full in c8's Notes — do not re-read them. ⚠ **Cap. IX does NOT
-> finish on p.226**: its right column is still running at the foot (`…beatificabilem, sed etiam
-> spiritum coniunctum, sci-`), so derive the rest from **p.227**, which the index gives as
-> Cap. X's opening page — expect p.227's footers to split between c9 and c10. p.226 bands are
-> generated (gutter 1333); p.227 is not yet extracted.
+> **Hand-off INTO c10 — and it is a CLEAN START, which is rare here.** Cap. X opens near the
+> foot of **p.227's right column** at the `Cap. X.` heading (raw **L42913**), text beginning
+> `De corpore vero humano in statu primae conditionis tenenda sunt haec secundum doctrinam
+> fidei…`. **It inherits NO apparatus.** p.227's whole register (nn. 1–9) is Cap. IX's, because
+> Cap. X's opening sentence carries no superscript — verified positively on the band, not
+> inferred from silence. c10 inherits only that body run and derives everything else from
+> **p.228** (the index puts c11 at p.229, so expect p.228's footers to split between c10 and
+> c11). p.227 bands are generated (gutter 1211); **p.228 is not yet extracted.**
 >
-> ⚠ **The Vol V raw quality is not uniform, and it collapses right here.** The djvu OCR for
+> ⚠ **A chapter opening on a page is not evidence that the page owes it a note** — the converse
+> of method note 5, and new with c9. Both directions now have a case: Cap. V spilled onto p.224
+> and claimed nothing there; Cap. X opens on p.227 and claims nothing there. **Establish note
+> ownership from the anchors on the band, never from where a heading falls.**
+>
+> ⚠ **The Vol V raw quality is not uniform — check it per page, every time.** The djvu OCR for
 > p.225's right column is cascade-degraded past use as a transcription base (`Dc confinnalione
-> vero Angelorum hoc tciicndum est, (]uod sicut angeli a Deo aner.ti ^.lnlim mnl obstinati`),
-> while p.226's raw is markedly cleaner. c8 was set entirely from the bands, with the raw used
-> only for anchor positions and marginalia order. **Read the raw range before leaning on it**;
-> "the raw is usable" is a per-page fact in this volume, not a volume-wide one.
+> vero Angelorum hoc tciicndum est, (]uod sicut angeli a Deo aner.ti ^.lnlim mnl obstinati`), so
+> c8 was set entirely from the bands. **p.226–227 are clean again** and c9 used the raw as its
+> base normally. One bad page says nothing about the next. **Read the raw range before leaning
+> on it**; "the raw is usable" is a per-page fact in this volume, not a volume-wide one.
 >
-> **Remaining Pars II:** c9 (226–227) · c10 (227) · c11 (229) · c12 (230).
+> **Remaining Pars II:** c10 (227–228) · c11 (229) · c12 (230).
 > Index gives opening pages only — confirm each span on the bands.
 >
-> ### Method notes earned in c1–c8 (apply to the rest of Pars II)
+> ### Method notes earned in c1–c9 (apply to the rest of Pars II)
 > 1. **The left footer is NOT the left column's notes.** Confirmed on p.220, p.221 *and* p.226: the
 >    left footer block fills first and overruns the column division, so it can hold a note whose
 >    anchor is in the right column (p.220 n.4 on *septem aetatum*; p.221 n.4 on *Sic enim dicit
