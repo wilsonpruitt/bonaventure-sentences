@@ -97,6 +97,18 @@ KNOWN_TOTALS = {
               # anchor left and print right -- a one-note OVERRUN on top of a
               # split falling INSIDE a note. All nine are Cap. X's; the page is
               # fully consumed by p3-c10 and nothing is forwarded.
+    240: 9,   # band-read in full by p3-c11: nn.1-4 left block (n.4 broken at a
+              # PUNCTUATION boundary, after the colon of "Ibid. III. c. 3. n. 7:"),
+              # right block opens with n.4's unnumbered continuation then nn.5-9.
+              # Anchors and blocks COINCIDE exactly here (nn.1-4 left, nn.5-9
+              # right) -- the p.238 shape, not p.239's overrun. All nine are
+              # Cap. XI's; page fully consumed by p3-c11.
+    241: 10,  # band-read in full by p3-c11, but split by PARS, not by block:
+              # left block nn.1-5 (+ the printer's signature), right block
+              # nn.6-10, both closing complete. nn.1-2 anchor in Pars III
+              # Cap. XI's closing paragraph (owned by p3-c11); nn.3-10 anchor
+              # in PARS QUARTA Cap. I and are a legitimate forwarded PENDING
+              # until bon-brev-p4-c1 lands.
 }
 
 
