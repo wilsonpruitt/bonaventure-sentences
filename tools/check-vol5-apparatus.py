@@ -90,6 +90,13 @@ KNOWN_TOTALS = {
               # exactly here (nn.1-4 left, nn.5-8 right) -- a COINCIDENCE page
               # whose split falls INSIDE a note, the p.236 shape repeated.
               # nn.1-7 Cap. IX, n.8 Cap. X (forwarded to p3-c10).
+    239: 9,   # band-read in full by p3-c10: nn.1-4 left block (n.4 broken at a
+              # WORD boundary at "...II. Sent. d. 35. per totam, ubi etiam"),
+              # right block opens with n.4's unnumbered continuation then
+              # nn.5-9. But nn.1-6 ALL anchor in the LEFT column, so nn.5-6
+              # anchor left and print right -- a one-note OVERRUN on top of a
+              # split falling INSIDE a note. All nine are Cap. X's; the page is
+              # fully consumed by p3-c10 and nothing is forwarded.
 }
 
 
