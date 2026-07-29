@@ -71,6 +71,7 @@ KNOWN_TOTALS = {
     227: 9,   # all nine Cap. IX; Cap. X opens on this page but claims no note
     228: 9,   # all nine Cap. X; page fully consumed
     229: 8,   # all eight Cap. XI; page fully consumed
+    230: 7,   # n.1 Cap. XI, nn.2-7 Cap. XII; PARS II ends here, nothing forwarded
 }
 
 
