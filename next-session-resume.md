@@ -65,8 +65,8 @@
 >    **★ DO NOT WRITE A TALLY HERE OR IN A CHUNK'S NOTES.** Append your chunk's line to
 >    `manual-review/vol5-runover-ledger.tsv` (**one line per chunk, negatives included** — the
 >    roster is the denominator) and run **`python3.11 tools/check-vol5-census.py`**, which diffs
->    that roster against `vol5/` and derives the totals. As of c8: **15 runovers in 24 chunks**,
->    13 gutter-crossing + 2 page-crossing. Cite the script, not this line.
+>    that roster against `vol5/` and derives the totals. As of c9: **16 runovers in 25 chunks**,
+>    14 gutter-crossing + 2 page-crossing. Cite the script, not this line.
 >
 >    The rule and the incident that produced it are frozen in CLAUDE.md § "Vol V mechanics" →
 >    **★★ NEVER HAND-CARRY A CORPUS-WIDE COUNT**. Short version: two hand-carried copies of this
@@ -75,8 +75,8 @@
 >    the same blind spot at each new work in Vols VI–X.
 > 3. **★ THE GUTTER PARITY MODEL IS SPENT — use run width alone.** It held for eleven pages, then
 >    collapsed: p.221 (odd) 1233, p.222 (even) **1319** (below the even floor), p.223 (odd) **1241**
->    (above the odd ceiling), p.224 (even) 1314, p.225 (odd) 1207, p.226 (even) 1333. The clusters
->    now overlap at ~1230–1320. Every one of those measurements is sound (46–63 px runs, clean
+>    (above the odd ceiling), p.224 (even) 1314, p.225 (odd) 1207, p.226 (even) 1333,
+>    p.227 (odd) 1211. The clusters now overlap at ~1230–1320. Every one of those measurements is sound (46–63 px runs, clean
 >    bands). **Stop predicting a gutter from parity; judge each page on the low-ink run width
 >    `colcrop.py vol5 <page>` reports.**
 > 4. **★★ A short column is NOT a boundary.** Quaracchi footers expand *upward*; a page with a
@@ -93,7 +93,8 @@
 >    printed and flagged in c7's Notes — a polish pass must not "fix" it.
 > 7. **Siglum letters are the standing hazard — resolve every one on the band.** The K/R confusion
 >    is chronic (four times in this pars: pp.220, 221, 223, 225 — the raw prints R where the band
->    shows K). **p.226 n.5 added a second pair: `B II` in the raw is `B H` on the band**, the same
+>    shows K). **A second pair is now confirmed RECURRING: raw `B II` is `B H` on the band
+>    (p.226 n.5), and raw `E II` is `E H` (p.227 n.5)** — the same
 >    serif that prints `1` like `4` flattening `H` toward `II`. Treat any siglum string as unread
 >    until it has been seen at 450dpi.
 > 8. **Greek has now appeared in the apparatus** (p.221 n.5: ζῴδιον, ζωή), and the IA raw drops it
