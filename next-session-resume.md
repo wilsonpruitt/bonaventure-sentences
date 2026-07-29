@@ -1,6 +1,97 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ★★★ VOL V (TOME V — OPUSCULA) IS THE ACTIVE FRONT. **PARS III IS OPEN — next chunk `bon-brev-p3-c5`.**
+> # ★★★ VOL V (TOME V — OPUSCULA) IS THE ACTIVE FRONT. **PARS III IS OPEN — next chunk `bon-brev-p3-c6`.**
+>
+> ## ✅ `bon-brev-p3-c5` DONE (2026-07-29) — commit `4bd34ac`
+> Breviloquium **Pars III, Cap. V, *De originalis peccati corruptione*** — printed
+> **pp. 234–235**, opening **inside p.234's LEFT column** immediately below Cap. IV's last line
+> (not at a column head), filling the rest of that left column and the whole of p.234's right
+> column, and closing near the head of **p.235's LEFT column** at
+> `…abundantius declinavit ad extremum.` **The end was fixed positively by the
+> `Cap. VI. / De originalis peccati transfusione.` heading standing immediately below it IN THE
+> SAME LEFT COLUMN** — Cap. VI, like Cap. V before it, opens mid-column. Cap. V claims **no**
+> text in p.235's right column. The p.234/235 break falls **mid-paragraph** (after
+> `…per motum voluntatis propriae nec` / before `per actualem delectationem;`) at a clean word
+> boundary; the `<!-- page 235 -->` marker sits at the nearest paragraph boundary above, per
+> `p3-c3`'s precedent, and the true break is recorded in the chunk's `## Notes`.
+> `check-vol5-apparatus` walks pp.201–235 clean (p.235 `KNOWN_TOTALS` fed as **7**, of which 1
+> is c5's and nn.2–7 report as a legitimate PENDING, not a GAP); build **1966/1966**;
+> `polish-style-scan --volume 5` CLEAN; `check-vol5-census.py` run and rosters agreeing —
+> **cite the script, never a number copied from here.**
+>
+> ### Hand-off INTO `bon-brev-p3-c6` (Cap. VI, *De originalis peccati transfusione*)
+> - **PICK UP: p.235 footer notes 2 THROUGH 7 — six entries.** Read every one off the bands.
+>   Anchors, all verified: n. 2 on `corrumpit personam`², in p.235's **LEFT** column; nn. 3–7 in
+>   the right column. Their content, for orientation only — re-read them at 450 dpi:
+>   n. 2 Anselm `de Conceptu virgin. et orig. pecc. c. 23` + `II. Sent. d. 31. per totam` /
+>   `ibid. d. 30. a. 1. q. 2` / `ibid. d. 32. a. 3` + the `hic est` / `est talis` /
+>   `videtur esse talis` variants; n. 3 `Ita A B S …` (see the warning below); n. 4
+>   `Vide II. Sent. d. 30. a. 2. q. 1.`; n. 5 `Hic et cap. praeced. nec non p. II. c. 11.`;
+>   n. 6 `Codd. et edd. praecessit; sed est error.`; n. 7 `Potius Fulgentius in libro de Fide ad
+>   Petrum, c. 2. n. 16` + `Cfr. supra pag. 170, nota 3.` **Every digit there is a serif `1`/`4`,
+>   `3`/`5` candidate — cross-check each on the band, none is settled by this note.**
+> - **★ p.235 n. 2 RUNS OVER THE GUTTER — POSITIVE, and it is c6's to render AND to log.** The
+>   left block ends mid-sentence at `…in Adam, et natura` and the note continues **UNNUMBERED** at
+>   the head of the right block (`egens facta omnes personas, quas ipsa de se procreat…`). `p3-c5`
+>   found it but deliberately did **not** log it (it renders no part of n. 2), so **c6's ledger
+>   line must carry `p.235 n.2:gutter`** — this is the only outstanding runover event in Vol V.
+> - **⚠ TWO READINGS ON p.235 n. 3 NEED c6's OWN BAND CHECK — do not adopt either blind.** The
+>   band appears to open `Ita A B S` where the raw gives `A D S`, and to continue
+>   `pro factum est A B et 2 fecit` where the raw gives `A H et 2`. The crossbar-less Λ (for A)
+>   and the B/D confusion are both live on that line, and **one note carrying two different
+>   siglum sets a clause apart is exactly the standing hazard.** 900 dpi if 450 does not settle it.
+> - **Cap. VI opens IN p.235's LEFT column** and is **NOT complete on p.235** — it runs through
+>   p.235's right column and continues on **p.236, not yet extracted**. Index gives c7's opening
+>   page as 236 and c8's as 236 (*ib.*), so c6 likely ends mid-p.236 and forwards again.
+>   Establish the end positively from the next `Cap.` heading on the band.
+> - **Runover to test (BOTH directions):** p.235's last entry is n. 7, which closes complete
+>   (`…Cfr. supra pag. 170, nota 3.`), so the page-crossing test is half done — confirm p.236's
+>   footer opens with a *numbered* entry before calling it negative. **That test is c6's.**
+> - **p.235's bands already exist** (`raw/vision/vol5/p-235.png`, gutter 1210). **p.236 must be
+>   extracted and auto-measured** — `extract-pages.py --volume vol5 --pages 236 --dpi 450` then
+>   `colcrop.py vol5 236`, no constant.
+>
+> ### What pp.234–235 taught (beyond the standing notes, all of which still hold)
+> - **★★ THE RAW'S BODY GRADE MOVES *WITHIN* A SINGLE PAGE, not merely page to page.** `p3-c4`
+>   graded p.234's body **CLEAN** — correctly, for the handful of left-column lines it used. From
+>   the `Cap. V.` heading down, **the same page's body is DEGRADED** (`genus iiumanum`,
+>   `natura .filius`, `pnvatus rectitudme originalis lustitiae`, `poena milissima`,
+>   `misericordiu ct verilas`, `nec ciilpa nec «Msena`, `culpam [)racainbuiani`,
+>   `deserens bonuin incoininutabile`, `feiicilatem gloriae`). **Cut the region finer than
+>   "body vs footer": grade the part of the body you are actually setting from.**
+> - **p.234's footer stayed CLEAN across all nine notes** (zero band corrections beyond the
+>   numerals, which the raw never carries) — but **p.235's footer is flattened again one page
+>   later**, so the p.234 zero-correction footer remains an isolated event, not a trend.
+>   **p.235's body is DEGRADED too.**
+> - **Gutter: p.235 = 1210 (57 px run)**, auto-measured, confirmed visually. The running series is
+>   now 1194 · 1337 · 1211 · 1341 · **1210** — it straddles the ~1230–1370 overlap zone and 1210
+>   was in no way predictable from 1341 one page earlier. Parity stays spent.
+> - **★ p.235's footer blocks split 1–2 / 3–7 AND the split coincides with the column division**
+>   (n. 2 is the last note anchored in the left column). **That is coincidence, exactly as on
+>   pp.231–232, and exactly what pp.220/221/226/233 (overrun) and p.234 (underrun) disprove as a
+>   rule.** Both directions plus the coincidence case are now attested. Read anchors, only anchors.
+> - **★ THE `II`→`H` FLATTENING IS IN THE PRINT, NOT ONLY IN THE RAW — sixth attestation.**
+>   p.235 n. 1's `(D H sonare vel sentire)` prints, at **900 dpi**, as two bare serifed uprights
+>   with **no visible crossbar**, typographically indistinguishable from the Roman `II` six lines
+>   above it in the same note. It is read **H** on the same ground `p3-c4` used for p.233 n. 5
+>   (`H quaedam nullius momenti addit`, whose glyph on p.233 is identical): there is no codex
+>   `II`, and H is a standing Breviloquium siglum (p.210 n. 2's `A B D E F H K M`). **So the
+>   settled correspondence is not an OCR fact — it is a fact about this typeface, and a band read
+>   alone will not resolve it. Resolve it from the siglum set, and say so.**
+> - **A citation's own sense keeps paying — twice on p.234.** n. 6's `Psalm. 24, 10.` is settled by
+>   Vulg. Ps. 24:10 *Universae viae Domini misericordia et veritas*, which is word for word the
+>   sentence the body quotes; and n. 5's `Enchirid. c. 93. n. 23` is settled by Augustine's c. 93
+>   being the chapter that calls the infants' punishment *mitissima omnium* — the very
+>   `« poena mitissima »` the note annotates.
+> - **No `[?]` flags.** Band corrections c5 had to make: p.234 footer — none (numerals only;
+>   the serif `1` printing as `4` in n. 4's `q. 1.`, n. 5's `q. 1.`, n. 7's `a. 1. q. 1.`,
+>   n. 8's `pag. 231`, n. 6's `24, 10` all confirmed at 900 dpi). p.235 footer n. 1 —
+>   `c. 3. n. 36. et 27. n. 70`, `d. 33. a. 3. q. 1. arg. 1. et 2.`, `c. 22. n. 40`, sigla
+>   `A S` / `A E S T` (crossbar-less Λ) and `D H` (raw `D II`).
+> - **Preserved as printed, not harmonised.** Cap. V's divisio says *modus traductionis* and n. 3
+>   maps the three modes onto Capp. V–VII, while the heading of Cap. VI reads *transfusione*;
+>   both Cap. V's and Cap. VI's opening sentences say *traductio*. The heading/body divergence
+>   stands as printed on both pages. A polish pass must not align them.
 >
 > ## ✅ `bon-brev-p3-c4` DONE (2026-07-29) — commit `60d9948`
 > Breviloquium **Pars III, Cap. IV, *De primorum parentum punitione*** — printed
@@ -164,7 +255,7 @@
 > protected action that always gets its own explicit OK. **Two things are queued and both need
 > Wilson:**
 > 1. **The deploy itself.** Prod is `bonaventure.wrootpress.com`; last deployed `39c7bc5`
->    (Pars II c1), **serving only through printed p.219** — pp. 220–234 are written, committed
+>    (Pars II c1), **serving only through printed p.219** — pp. 220–235 are written, committed
 >    and unpublished. Recipe in CLAUDE.md: `node scripts/build-content.mjs` → `npx vercel build
 >    --prod` → `npx vercel deploy --prod --prebuilt --archive=tgz`. ⚠ The archive is ~97 MB and
 >    has died mid-upload once at 100% — **retry the deploy, do NOT rebuild.**
@@ -186,14 +277,14 @@
 > Also unpushed: `master` is ahead of `origin/master` by this session's commits. Pushing is
 > likewise protected and needs its own OK; it does not have to wait for the deploy.
 >
-> ## ★ NEXT CHUNK — `bon-brev-p3-c5` (Pars III, Cap. V, *De originalis peccati corruptione*)
+> ## ★ NEXT CHUNK — `bon-brev-p3-c6` (Pars III, Cap. VI, *De originalis peccati transfusione*)
 >
-> Spans **pp. 234–235+** (opens **inside** p.234's **left** column, immediately below Cap. IV's
-> last line, raw ~L43928; p.234's bands exist, **p.235 not yet extracted**). The full hand-off is
-> in the `p3-c4` block at the top of this file.
+> Spans **pp. 235–236+** (opens **inside** p.235's **left** column, immediately below Cap. V's
+> last line, raw ~L44077; p.235's bands exist, **p.236 not yet extracted**). The full hand-off is
+> in the `p3-c5` block at the top of this file.
 >
-> **Pars III as actually built so far:** c1 231 · c2 231–232 · c3 232–233 · c4 233–234. (Index
-> opening pages held for all four.)
+> **Pars III as actually built so far:** c1 231 · c2 231–232 · c3 232–233 · c4 233–234 ·
+> c5 234–235. (Index opening pages held for all five.)
 >
 > **Pars III has 11 capitula**, verified against the volume's own index (raw **L93816–93860**)
 > and recorded in full in `bon-brev-p3-c1`'s `## Notes`. Index opening pages: c1 231 · c2 231
