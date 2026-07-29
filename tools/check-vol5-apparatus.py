@@ -70,6 +70,7 @@ KNOWN_TOTALS = {
     226: 9,   # nn.1-5 Cap. VIII, nn.6-9 Cap. IX; page fully consumed
     227: 9,   # all nine Cap. IX; Cap. X opens on this page but claims no note
     228: 9,   # all nine Cap. X; page fully consumed
+    229: 8,   # all eight Cap. XI; page fully consumed
 }
 
 
@@ -99,6 +100,7 @@ def main():
 
     owners = defaultdict(dict)   # page -> {note_number: [chunk, ...]}
     problems = []
+    unregistered = []
     total_entries = 0
 
     print("Per-chunk label pairing")
@@ -166,12 +168,28 @@ def main():
         if pending:
             line += "   PENDING n.%s -> not yet written" % (
                 ",".join(str(p) for p in pending))
+        elif known is None:
+            # An unregistered page cannot be checked for a trailing shortfall:
+            # with no recorded total, a page whose last notes are still
+            # unwritten is indistinguishable from a page that is complete, and
+            # it prints "ok". That is the failure mode this whole script exists
+            # to prevent, so say so loudly rather than let it read as clean.
+            line += "   ?? NOT IN KNOWN_TOTALS -- trailing notes unverifiable"
         print(line)
 
         if known is not None and top > known:
             problems.append(
                 "p.%d: claims n.%d but the page is recorded as holding only %d"
                 % (pg, top, known))
+        if known is None:
+            unregistered.append(pg)
+
+    if unregistered:
+        print()
+        print("?? %d page(s) not in KNOWN_TOTALS: %s" % (
+            len(unregistered), ", ".join("p.%d" % p for p in unregistered)))
+        print("   Their trailing notes cannot be checked. Read the page's full")
+        print("   footer register off the bands and add the total to KNOWN_TOTALS.")
 
     print()
     print("%d chunks, %d apparatus entries" % (len(files), total_entries))
