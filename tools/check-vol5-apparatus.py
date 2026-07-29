@@ -73,6 +73,7 @@ KNOWN_TOTALS = {
     229: 8,   # all eight Cap. XI; page fully consumed
     230: 7,   # n.1 Cap. XI, nn.2-7 Cap. XII; PARS II ends here, nothing forwarded
     231: 7,   # PARS III opens: nn.1-6 Cap. I, n.7 Cap. II (forwarded to p3-c2)
+    232: 9,   # nn.1-7 Cap. II, nn.8-9 Cap. III (forwarded to p3-c3)
 }
 
 
