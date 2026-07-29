@@ -63,7 +63,8 @@ KNOWN_TOTALS = {
     219: 5,   # Pars II opens; nn.1-3 Cap. I, nn.4-5 Cap. II
     220: 6,   # nn.1-5 Cap. II, n.6 Cap. III
     221: 7,   # nn.1-3 Cap. III, nn.4-7 Cap. IV; page fully consumed
-    222: 5,   # nn.1-2 Cap. IV (tail), nn.3-5 Cap. V — pending until p2-c5 lands
+    222: 5,   # nn.1-2 Cap. IV (tail), nn.3-5 Cap. V
+    223: 9,   # all nine Cap. V
 }
 
 
