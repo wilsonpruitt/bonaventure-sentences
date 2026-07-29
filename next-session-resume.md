@@ -27,23 +27,25 @@
 >   **Deployed through printed p.219.** Next deploy = **close of Pars II, ~p.230** (12 printed
 >   pages, 11 more capitula). The p.291 polish gate is a different event and much later.
 >
-> ## ★ NEXT CHUNK — `bon-brev-p2-c5` (Cap. V, *De modo describendi praedicta in sacra Scriptura*)
+> ## ★ NEXT CHUNK — `bon-brev-p2-c6` (Cap. VI, *De productione supernorum spirituum*)
 >
-> **c1–c4 are Tier 2 and committed** (`8d2a863`, `44521d5`, `a747734`, `4b31ae6`). Build **1953/1953**;
-> `check-vol5-apparatus` all-pass; `polish-style-scan --volume 5` CLEAN.
-> **Printed pp. 219, 220, 221 are fully consumed** — every footer note owned, zero GAP, zero PENDING.
+> **c1–c5 are Tier 2 and committed** (`8d2a863`, `44521d5`, `a747734`, `4b31ae6`+`4189902`,
+> `d412635`). Build **1954/1954**; `check-vol5-apparatus` all-pass; `polish-style-scan --volume 5`
+> CLEAN. **Printed pp. 219–223 are fully consumed** — every footer note owned, zero GAP.
 >
-> **Hand-off INTO c5.** Cap. V opens partway down **p.222's left column** at the `Cap. V.` heading
-> (raw **L42022**) — *not* at the head of the page: Cap. IV's last paragraph occupies the top of
-> that column (this is what c4's repair, `4189902`, restored). **Inherits p.222 footer notes 3, 4
-> and 5**, all three quoted in full in c4's Notes — do not re-read them. Per the index Cap. V spans
-> **pp. 222–223**, corroborated by p.220 n. 5's forward reference `infra c. 5. (pag. 223, col. I.
-> et II.)`. p.222 bands are already generated (gutter 1319); p.223 measured 1241.
+> **Hand-off INTO c6: NOTHING inherited** — no apparatus, no body text. Cap. V's last sentence
+> completes at the head of p.224's left column; that tail carries no anchor. Cap. VI opens
+> immediately below it (raw **L42213**), and its first anchor is p.224 **n. 1** on `Consequenter
+> vero agendum ¹`. p.224 bands are already generated (gutter **1314**).
 >
-> **Remaining Pars II:** c5 (222–223) · c6 (224) · c7 (224) · c8 (225) · c9 (226) · c10 (227) ·
-> c11 (229) · c12 (230). Index gives opening pages only — confirm each span on the bands.
+> ⚠ **Per the index, Cap. VI *and* Cap. VII both sit on p.224.** Expect p.224's footer register to
+> split between c6 and c7, and derive the boundary from the **`Cap. VII.` heading**, not from
+> column length.
 >
-> ### Method notes earned in c1–c4 (apply to the rest of Pars II)
+> **Remaining Pars II:** c6 (224) · c7 (224) · c8 (225) · c9 (226) · c10 (227) · c11 (229) ·
+> c12 (230). Index gives opening pages only — confirm each span on the bands.
+>
+> ### Method notes earned in c1–c5 (apply to the rest of Pars II)
 > 1. **The left footer is NOT the left column's notes.** Confirmed on p.220 *and* p.221: the left
 >    footer block fills first and overruns the column division, so it can hold a note whose anchor
 >    is in the right column (p.220 n.4 on *septem aetatum*; p.221 n.4 on *Sic enim dicit Scriptura*).
@@ -53,10 +55,11 @@
 >    half of it — also confirm the next footer opens with a *numbered* entry. p.219 n.3 was a real
 >    mid-word runover (*velut conan-|tis*); p.220 n.4 and p.221 n.4 were both negative. Eleven
 >    runovers in twenty chunks.
-> 3. **Gutter: run width is the signal, not cluster membership.** p.221 measured **1233**, 53 px
->    above the old odd-page ceiling of 1180 — but on a clean 46 px run, and the bands read true.
->    Treat the clusters as ~1120–1240 (odd) / ~1335–1400 (even) and judge each measurement on its
->    run width. `colcrop.py vol5 <page>` auto-measures; don't hand-roll it.
+> 3. **★ THE GUTTER PARITY MODEL IS SPENT — use run width alone.** It held for eleven pages, then
+>    collapsed: p.221 (odd) 1233, p.222 (even) **1319** (below the even floor), p.223 (odd) **1241**
+>    (above the odd ceiling), p.224 (even) 1314. The clusters now overlap at ~1230–1320. Every one
+>    of those measurements is sound (46–63 px runs, clean bands). **Stop predicting a gutter from
+>    parity; judge each page on the low-ink run width `colcrop.py vol5 <page>` reports.**
 > 4. **★★ A short column is NOT a boundary.** Quaracchi footers expand *upward*; a page with a
 >    big footer register ends its body text well above the foot. c4 was written short by a whole
 >    paragraph and two entries on exactly that misreading. **Establish every capitulum's end from
