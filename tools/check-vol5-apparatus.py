@@ -76,7 +76,8 @@ KNOWN_TOTALS = {
     232: 9,   # nn.1-7 Cap. II, nn.8-9 Cap. III (forwarded to p3-c3)
     233: 5,   # nn.1-3 Cap. III, nn.4-5 Cap. IV (forwarded to p3-c4)
     234: 9,   # nn.1-2 Cap. IV, nn.3-9 Cap. V; page fully consumed
-    235: 7,   # n.1 Cap. V, nn.2-7 Cap. VI (forwarded to p3-c6)
+    235: 7,   # n.1 Cap. V, nn.2-7 Cap. VI; page fully consumed
+    236: 7,   # Capp. VII AND VIII both open here; no note anchors in Cap. VI
 }
 
 
