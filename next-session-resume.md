@@ -1,11 +1,6 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ★★★ VOL V (TOME V — OPUSCULA) IS THE ACTIVE FRONT. **PARS II OPEN — next chunk `bon-brev-p2-c2`.**
->
-> ## ★ NEXT ACTION — `bon-brev-p2-c2` (Cap. II, *De natura corporali quantum ad fieri*)
->
-> **Pars II is open.** `bon-brev-p2-c1` is Tier 2 and committed (`8d2a863`); build **1950/1950**;
-> `check-vol5-apparatus` all-pass; `polish-style-scan --volume 5` CLEAN.
+> # ★★★ VOL V (TOME V — OPUSCULA) IS THE ACTIVE FRONT. **PARS II OPEN — next chunk `bon-brev-p2-c8`.**
 >
 > **Pars II = 12 capitula, pp.219–230**, verified against the volume's own index (raw
 > L93795–93829). Opening pages: c1 219 · c2 219 · c3 220 · c4 221 · c5 222 · c6 224 · c7 224 ·
@@ -24,8 +19,8 @@
 >   deferred this 2026-07-28 to ride along with the next deploy — it is his voice, so get his
 >   OK on the wording, don't just rewrite it.**
 > - Last deployed: `39c7bc5` (Pars II c1 + the Book V browse container), 2026-07-28.
->   **Deployed through printed p.219.** Next deploy = **close of Pars II, ~p.230** (12 printed
->   pages, 11 more capitula). The p.291 polish gate is a different event and much later.
+>   **Deployed through printed p.219.** Next deploy = **close of Pars II, ~p.230** —
+>   c8–c12 still to build. The p.291 polish gate is a different event and much later.
 >
 > ## ★ NEXT CHUNK — `bon-brev-p2-c8` (Cap. VIII, *De confirmatione bonorum Angelorum*)
 >
@@ -177,7 +172,7 @@
 > - `site/scripts/build-content.mjs` has a **WORKS registry** (work→book mapping, division titles); `content.ts` + the four browse/dist pages render works with divisionLabel/initial fallbacks. Build: **1949/1949** (all 16 Pars I gate chunks). Typecheck clean.
 > - **`vol5/bon-brev-p1-c1.md` is Tier 2 and is THE FORMAT REFERENCE** — page-qualified labels, bands-only apparatus, Marginalia list in Notes, footer hand-off to c2 recorded.
 >
-> ## ★★★ PROLOGUE + PARS I ARE BOTH CLOSED (2026-07-28). NEXT ACTION — **Pars II, opening p.219.**
+> ## PROLOGUE + PARS I — CLOSED 2026-07-28. *(HISTORICAL. The live pointer is at the top of this file — `bon-brev-p2-c8`. Its old "next action, Pars II p.219" is long since done.)*
 > - **16 chunks Tier 2: `bon-brev-prol`, `-s1`…`-s6`, and `bon-brev-p1-c1`…`c9`.** Build **1949/1949**. **Printed pages 201–208 and 210–218 are fully owned — zero PENDING, zero GAP, 130 apparatus entries.** `check-vol5-apparatus.py` KNOWN_TOTALS covers every one of them (201=5, 202=10, 203=8, 204=9, 205=8, 206=11, 207=8, 208=7, 210=8, 211=7, 212=7, 213=7, 214=9, 215=6, 216=6, 217=7, 218=7). The only gap is **p.209 + the top of p.210 — the editorial capitula table, deliberately not chunked.**
 > - **Push state (updated 2026-07-28, later Sonnet session):** all prologue + Pars I chunks are
 >   committed AND pushed. `master` is currently several commits ahead of `origin/master` (About
