@@ -1,6 +1,6 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ★★★ VOL V (TOME V — OPUSCULA) IS THE ACTIVE FRONT. **PARS II OPEN — next chunk `bon-brev-p2-c10`.**
+> # ★★★ VOL V (TOME V — OPUSCULA) IS THE ACTIVE FRONT. **PARS II OPEN — next chunk `bon-brev-p2-c11`.**
 >
 > **Pars II = 12 capitula, pp.219–230**, verified against the volume's own index (raw
 > L93795–93829). Opening pages: c1 219 · c2 219 · c3 220 · c4 221 · c5 222 · c6 224 · c7 224 ·
@@ -20,27 +20,37 @@
 >   OK on the wording, don't just rewrite it.**
 > - Last deployed: `39c7bc5` (Pars II c1 + the Book V browse container), 2026-07-28.
 >   **Deployed through printed p.219.** Next deploy = **close of Pars II, ~p.230** —
->   c10–c12 still to build. The p.291 polish gate is a different event and much later.
+>   c11–c12 still to build. The p.291 polish gate is a different event and much later.
 >
-> ## ★ NEXT CHUNK — `bon-brev-p2-c10` (Cap. X, *De productione hominis quantum ad corpus*)
+> ## ★ NEXT CHUNK — `bon-brev-p2-c11` (Cap. XI, *De productione hominis quantum ad totum coniunctum*)
 >
-> **c1–c9 are Tier 2 and committed.** Build **1958/1958**; `check-vol5-apparatus` all-pass;
-> `polish-style-scan --volume 5` CLEAN. **Printed pp. 219–227 fully consumed**; nothing is
-> pending and nothing is forwarded into c10.
+> **c1–c10 are Tier 2 and committed.** Build **1959/1959**; `check-vol5-apparatus` all-pass;
+> `polish-style-scan --volume 5` CLEAN. **Printed pp. 219–228 fully consumed**; p.229 is
+> untouched and wholly Cap. XI's.
 >
-> **Hand-off INTO c10 — and it is a CLEAN START, which is rare here.** Cap. X opens near the
-> foot of **p.227's right column** at the `Cap. X.` heading (raw **L42913**), text beginning
-> `De corpore vero humano in statu primae conditionis tenenda sunt haec secundum doctrinam
-> fidei…`. **It inherits NO apparatus.** p.227's whole register (nn. 1–9) is Cap. IX's, because
-> Cap. X's opening sentence carries no superscript — verified positively on the band, not
-> inferred from silence. c10 inherits only that body run and derives everything else from
-> **p.228** (the index puts c11 at p.229, so expect p.228's footers to split between c10 and
-> c11). p.227 bands are generated (gutter 1211); **p.228 is not yet extracted.**
+> **Hand-off INTO c11 — again a CLEAN START.** Cap. XI opens in **p.229's left column** at the
+> `Cap. XI.` heading (raw **L43152**), text beginning `De toto autem homine in paradiso
+> collocato¹ haec tenenda sunt, scilicet quod datus est ei duplex sensus…`. **It inherits NO
+> apparatus, and p.229's whole footer register is its own** — n. 1 anchors on that first
+> sentence's `collocato`, verified on the band. c10 closed in the first three lines of p.229's
+> left column and claimed nothing there. p.229 bands are generated (gutter 1222) but **only the
+> top of the left column has been read** — c11 must read the rest of p.229, and per the index
+> (c12 at p.230) expect p.230's footers to split between c11 and c12. **p.230 is not yet
+> extracted.**
 >
-> ⚠ **A chapter opening on a page is not evidence that the page owes it a note** — the converse
-> of method note 5, and new with c9. Both directions now have a case: Cap. V spilled onto p.224
-> and claimed nothing there; Cap. X opens on p.227 and claims nothing there. **Establish note
-> ownership from the anchors on the band, never from where a heading falls.**
+> ⚠⚠ **Note ownership comes from ANCHORS ON THE BAND, never from which pages a chunk covers.**
+> This has now failed in every direction, so stop reasoning from page coverage at all:
+> a chapter can spill onto a page and claim nothing there (Cap. V on p.224); a chapter can
+> *open* on a page and claim nothing there (Cap. X on p.227); and **c10 spanned three printed
+> pages while owning the notes of exactly one** (p.228), inheriting nothing and forwarding
+> nothing — the first chunk in Pars II with no hand-off on either side, where per-page splits
+> have otherwise been the norm.
+>
+> ⚠ **Cross-check every DIGIT in a Vol V citation against the band.** c10 caught two in a single
+> footer that the raw would have carried through silently: p.228 n. 7's `pag. 223` is **225**,
+> p.228 n. 8's `c. 23` is **c. 25**. Where the citation's sense can be tested, test it — 225 is
+> independently right, since p.225 n. 1 is the note that footer's argument leans on. This is the
+> serif `1`/`4` and `3`/`5` family, and it is the same class of error as Vol IV's *transumtum*.
 >
 > ⚠ **The Vol V raw quality is not uniform — check it per page, every time.** The djvu OCR for
 > p.225's right column is cascade-degraded past use as a transcription base (`Dc confinnalione
@@ -49,10 +59,11 @@
 > base normally. One bad page says nothing about the next. **Read the raw range before leaning
 > on it**; "the raw is usable" is a per-page fact in this volume, not a volume-wide one.
 >
-> **Remaining Pars II:** c10 (227–228) · c11 (229) · c12 (230).
+> **Remaining Pars II:** c11 (229–230) · c12 (230). **Pars II closes at ~p.230 — that is the
+> next DEPLOY boundary**, so clear the parked list above when c12 lands.
 > Index gives opening pages only — confirm each span on the bands.
 >
-> ### Method notes earned in c1–c9 (apply to the rest of Pars II)
+> ### Method notes earned in c1–c10 (apply to the rest of Pars II)
 > 1. **The left footer is NOT the left column's notes.** Confirmed on p.220, p.221 *and* p.226: the
 >    left footer block fills first and overruns the column division, so it can hold a note whose
 >    anchor is in the right column (p.220 n.4 on *septem aetatum*; p.221 n.4 on *Sic enim dicit
@@ -65,8 +76,8 @@
 >    **★ DO NOT WRITE A TALLY HERE OR IN A CHUNK'S NOTES.** Append your chunk's line to
 >    `manual-review/vol5-runover-ledger.tsv` (**one line per chunk, negatives included** — the
 >    roster is the denominator) and run **`python3.11 tools/check-vol5-census.py`**, which diffs
->    that roster against `vol5/` and derives the totals. As of c9: **16 runovers in 25 chunks**,
->    14 gutter-crossing + 2 page-crossing. Cite the script, not this line.
+>    that roster against `vol5/` and derives the totals. As of c10: **17 runovers in 26 chunks**,
+>    15 gutter-crossing + 2 page-crossing. Cite the script, not this line.
 >
 >    The rule and the incident that produced it are frozen in CLAUDE.md § "Vol V mechanics" →
 >    **★★ NEVER HAND-CARRY A CORPUS-WIDE COUNT**. Short version: two hand-carried copies of this
@@ -76,7 +87,8 @@
 > 3. **★ THE GUTTER PARITY MODEL IS SPENT — use run width alone.** It held for eleven pages, then
 >    collapsed: p.221 (odd) 1233, p.222 (even) **1319** (below the even floor), p.223 (odd) **1241**
 >    (above the odd ceiling), p.224 (even) 1314, p.225 (odd) 1207, p.226 (even) 1333,
->    p.227 (odd) 1211. The clusters now overlap at ~1230–1320. Every one of those measurements is sound (46–63 px runs, clean
+>    p.227 (odd) 1211, p.228 (even) 1365, p.229 (odd) 1222. The clusters now overlap at
+>    ~1230–1320. Every one of those measurements is sound (46–63 px runs, clean
 >    bands). **Stop predicting a gutter from parity; judge each page on the low-ink run width
 >    `colcrop.py vol5 <page>` reports.**
 > 4. **★★ A short column is NOT a boundary.** Quaracchi footers expand *upward*; a page with a
@@ -93,8 +105,12 @@
 >    printed and flagged in c7's Notes — a polish pass must not "fix" it.
 > 7. **Siglum letters are the standing hazard — resolve every one on the band.** The K/R confusion
 >    is chronic (four times in this pars: pp.220, 221, 223, 225 — the raw prints R where the band
->    shows K). **A second pair is now confirmed RECURRING: raw `B II` is `B H` on the band
->    (p.226 n.5), and raw `E II` is `E H` (p.227 n.5)** — the same
+>    shows K). **Raw `II` for `H` is now a SETTLED correspondence, three times over: `B H`
+>    (p.226 n.5), `E H` (p.227 n.5), `E H` (p.228 n.9).** ⚠ And p.228 n. 3 shows the sharper
+>    form of the hazard — it carries **two different siglum sets one clause apart** (`pro per
+>    I O U V et` … `post sapientissimum L U V addunt`), which the raw flattens into a single
+>    `LUV` and so silently merges. The band separates the narrow `I` from the footed `L`. It is
+>    the same
 >    serif that prints `1` like `4` flattening `H` toward `II`. Treat any siglum string as unread
 >    until it has been seen at 450dpi.
 > 8. **Greek has now appeared in the apparatus** (p.221 n.5: ζῴδιον, ζωή), and the IA raw drops it
