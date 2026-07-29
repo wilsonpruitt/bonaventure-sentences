@@ -1,6 +1,107 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ★★★ VOL V (TOME V — OPUSCULA) IS THE ACTIVE FRONT. **PARS III IS OPEN — next chunk `bon-brev-p3-c7`.**
+> # ★★★ VOL V (TOME V — OPUSCULA) IS THE ACTIVE FRONT. **PARS III IS OPEN — next chunk `bon-brev-p3-c8`.**
+>
+> ## ✅ `bon-brev-p3-c7` DONE (2026-07-29) — commit `d238dda`
+> Breviloquium **Pars III, Cap. VII, *De originalis peccati curatione*** — printed
+> **p. 236 ONLY**, opening at the very **HEAD of p.236's LEFT column** under `Cap. VII. /
+> De originalis peccati curatione.`, filling the whole of that left column, crossing the gutter
+> **mid-sentence** inside the *Postremo, quia temporalis afflictio…* paragraph (`…cum caro
+> remaneat semper` / `subiecta cuidam infectioni…`), and closing **part-way down p.236's RIGHT
+> column** at `…de quo ipse procedebat⁶ ».`
+> **★ The end was fixed POSITIVELY from the `Cap. VIII. / De origine peccatorum actualium.`
+> heading standing immediately below it IN THE SAME RIGHT COLUMN** — no inference from white
+> space anywhere. A second single-page capitulum, and the first Breviloquium page to host two
+> chapter *openings* (running head `BREVILOQUII PARS III. C. VII. VIII.`).
+> `check-vol5-apparatus` walks pp.201–236 clean (p.236 owned 1–6, **n.7 reports as a legitimate
+> PENDING, not a GAP**); build **1968/1968**; `polish-style-scan --volume 5` CLEAN;
+> `check-vol5-census.py` run and rosters agreeing — **cite the script, never a number copied
+> from here.**
+>
+> ### Hand-off INTO `bon-brev-p3-c8` (Cap. VIII, *De origine peccatorum actualium*)
+> - **PICK UP: p.236 footer note 7 — ONE entry.** Anchor verified on the band: **n. 7 on
+>   `secundum illud Iacobi primo`⁷, in p.236's RIGHT column**, some fifteen lines below the
+>   `Cap. VIII.` heading. Content, for orientation only — read it at 450 dpi:
+>   `Vers. 14. seq.: Unusquisque vero tentatur etc.` (James 1:14 seq.). **The `14` is a serif-1
+>   candidate and was deliberately NOT settled by c7** — settle it yourself. With n. 7 rendered,
+>   p.236's register is fully consumed by c7 + c8.
+> - **⚠⚠ CAPP. VIII AND IX BOTH SIT ON p.237 — the same two-opening shape as p.236, one leaf
+>   later.** Cap. VIII opens part-way down p.236's right column, runs to the foot of that column
+>   (`…et licet peccatum`), resumes **mid-sentence at a word boundary** at the head of **p.237's
+>   LEFT column** (`non sit plene consummatum, est tamen inter mortalia computandum…`), and
+>   **`Cap. IX. / De origine et distinctione capitalium peccatorum.` opens part-way down p.237's
+>   RIGHT column** — all verified on the p.237 bands. So c8 spans **pp. 236–237** and will split
+>   p.237's register with c9. Establish the end positively from that `Cap. IX.` heading.
+> - **p.237's footer holds 9 notes, band-derived by c7 and already in `KNOWN_TOTALS`.** Block
+>   split: **nn. 1–3 LEFT, nn. 4–9 RIGHT.** **c7 read the register but located NO anchors on
+>   p.237** — every one of the nine is c8's to place, and the c8/c9 split turns on them. Content,
+>   orientation only: n.1 `Vide II. Sent. lit. Magistri, d. XXIV. c. 4. seqq., et Comment. p. II.
+>   per totam. — Post *muliere manducante* H I addunt *et viro non prohibente*…` + Lombard
+>   `loc. cit. c. 12`; n.2 `Cfr. II. Sent. d. 41. a. 2. q. 2. Aristot., de Praedicam. c. de
+>   Oppositis et II. Topic. c. 3. (c. 7.)… — Pro *esse* E *fieri*`; n.3 `A B supplent *ab anima*,
+>   T *animae*… (cfr. tom. II. pag. 633, nota 5.). Inferius post *sed* Vat., 1 et 3 addunt
+>   *tantum*.`; n.4 `Libr. de Paradiso, c. 8. n. 39…`; n.5 `Cfr. tom. II. pag. 976, nota 8… Alex.
+>   Hal., S. p. II. q. 112. m. 2… Ps. 36, 27`; n.6 `Vide II. Sent. d. 42. a. 2. q. 1.`; n.7 `Cfr.
+>   II. Sent. d. 21. dub. 4. et d. 41. a. 2. q. 1. — Superius pro *declinari* S *vitari*, D H T
+>   *vitari vel declinari*`; n.8 `Edd., excepta 2, *obtemperat*…`; n.9 `Cap. 12. n. 17. seq.`
+>   **Every digit there is a serif `1`/`4`, `3`/`5` candidate — none is settled by this note.**
+> - **Runover tests — TWO are already closed, ONE is c8's.** p.236 → p.237 page-crossing is
+>   **NEGATIVE**, closed from both sides by c7 (p.236's n.7 complete; p.237's left block opens
+>   numbered `¹`). p.237's own **gutter-crossing is NEGATIVE** — its left block's last entry, n. 3,
+>   closes complete at `…Vat., 1 et 3 addunt *tantum*.`, and its right block opens with a numbered
+>   `⁴`. **c8 still owes the p.237 → p.238 page-crossing test**: p.237's last entry is n. 9
+>   (`Cap. 12. n. 17. seq.`), which closes complete, so confirm p.238's footer opens with a
+>   *numbered* entry before calling it negative. **c7 logs NO runover c8 may re-log** — p.236 n.4
+>   is on c7's ledger line already.
+> - **p.236's and p.237's bands both already exist** (`raw/vision/vol5/p-236.png` gutter **1331**,
+>   61 px run; `p-237.png` gutter **1209**, 59 px run). **p.238 must be extracted and
+>   auto-measured** if Cap. VIII's neighbours reach it — `extract-pages.py --volume vol5 --pages
+>   238 --dpi 450` then `colcrop.py vol5 238`, no constant.
+>
+> ### What p.236 taught (beyond the standing notes, all of which still hold)
+> - **★★ A NOTE CAN CARRY `1` AND `I` AS TWO DIFFERENT SORTS ONE CLAUSE APART, AND THE RAW
+>   FLATTENS THEM INTO ONE — a NEW member of the hazard family, distinct from `II`→`H`.**
+>   p.236 n. 6 prints `Post *Filium* ⟨flagged serif upright⟩ cum textu originali addit *suum*`
+>   and, four words later, `pro *ita dare disponebat* ⟨fully serifed roman I⟩ L M V
+>   *communicavit*`. At 900 dpi the two glyphs are plainly different sorts: the first is the same
+>   flagged form as `a. 1` in n. 2 and the `1` of `c. 18` in that very note; the second is the
+>   capital `I`. **The first is the EDITION siglum `1`, not codex I.** Three confirmations:
+>   `1` is a standing edition siglum in this volume (`edd. 1, 3` raw L38745/L46928; `Vat., 1 et 2`
+>   L40358; `Multi codd., 1 et 2` L54108; `[A, 1 et 2 anima]` L54719); **p.237 n. 3, one leaf
+>   later, prints `Vat., 1 et 3 addunt *tantum*` in the identical flagged glyph**; and the sense
+>   (an edition agreeing *cum textu originali*) fits. **Checking a siglum string against the raw is
+>   not enough. Where a note mixes numerals and roman capitals, tell them apart ON THE PLATE.**
+> - **★ THE `II`→`H` FLATTENING — SEVENTH ATTESTATION**, in n. 6's `E F G H K N O P S` (raw
+>   `EFGIIKNOPS`). Still no crossbar at 900 dpi, still resolved from the siglum set. p.237 n. 1's
+>   `H I addunt` and n. 7's `D H T` put the `H`/`I` pair back to back on the very next page —
+>   **expect to have to make both calls in one string there.**
+> - **★ THE FOOTER-BLOCK SPLIT FELL *INSIDE* A NOTE, not between two notes.** p.236's left block
+>   holds nn. 1–4 with n. 4 **broken off mid-clause**, and the right block opens with n. 4's
+>   unnumbered continuation before nn. 5–7. So "which block holds note N" was not even a
+>   well-formed question for n. 4. The blocks happened to track the anchors here (nn. 1–4 left-
+>   anchored, nn. 5–7 right) — a **third** distinct configuration after the overrun (pp. 220, 221,
+>   226, 233), the underrun (p. 234) and the coincidence (pp. 231, 232, 235). **Read anchors,
+>   only anchors.**
+> - **★ THE RAW'S GRADE MOVED THE OTHER WAY AGAIN.** On p.235 the right column was a step *worse*
+>   than the left; on p.236 the two columns are **about level**, and p.236's left column is worse
+>   than p.235's Cap. VI run. Body DEGRADED-BUT-USABLE throughout, footer FLATTENED in both blocks
+>   and **worse in the left**. The direction of drift is not predictable in either axis. Grade the
+>   run you are actually setting from.
+> - **Gutter: p.236 = 1331 (61 px run), p.237 = 1209 (59 px run)**, both auto-measured, both
+>   confirmed visually. The running series is now 1194 · 1337 · 1211 · 1341 · 1210 · 1331 ·
+>   **1209** — a 122 px drop across one leaf. **Parity stays spent; measure every page.**
+> - **⚠ Preserved as printed: `quod remanet *poena* temporalis` — the italic stops INSIDE the
+>   hyphenated word** (`poena tem-` italic / `poralis` roman), checked at 900 dpi. Every parallel
+>   member of the same four-fold thesis is italicised whole (*reatum poenae aeternae*, *actum et
+>   motum concupiscentiae*, *macula*, *sequela*). **A polish pass must not extend the italic over
+>   *temporalis*.**
+> - **The *transfusio* / *traductio* divergence does NOT recur in Cap. VII** — heading, opening
+>   sentence and n. 1 all say *curatio*. Recorded because Capp. V and VI both had to leave the
+>   opposite state standing.
+> - **No `[?]` flags.** Band corrections c7 had to make on p.236's footer: n. 2's `II. Sent. d. 32.
+>   a. 1` (band `a. 4.`); n. 6's `c. 18.` (band `c. 48.`), its `1` (raw `I`) and its
+>   `E F G H K N O P S` (raw `EFGIIKNOPS`). n. 4's `c. 26. n. 29` and n. 5's `G K O Q S U et 2`
+>   read straight at 900 dpi.
 >
 > ## ✅ `bon-brev-p3-c6` DONE (2026-07-29) — commit `729cd4d`
 > Breviloquium **Pars III, Cap. VI, *De originalis peccati transfusione*** — printed
@@ -354,7 +455,7 @@
 > protected action that always gets its own explicit OK. **Two things are queued and both need
 > Wilson:**
 > 1. **The deploy itself.** Prod is `bonaventure.wrootpress.com`; last deployed `39c7bc5`
->    (Pars II c1), **serving only through printed p.219** — pp. 220–235 are written, committed
+>    (Pars II c1), **serving only through printed p.219** — pp. 220–236 are written, committed
 >    and unpublished. Recipe in CLAUDE.md: `node scripts/build-content.mjs` → `npx vercel build
 >    --prod` → `npx vercel deploy --prod --prebuilt --archive=tgz`. ⚠ The archive is ~97 MB and
 >    has died mid-upload once at 100% — **retry the deploy, do NOT rebuild.**
@@ -376,19 +477,20 @@
 > Also unpushed: `master` is ahead of `origin/master` by this session's commits. Pushing is
 > likewise protected and needs its own OK; it does not have to wait for the deploy.
 >
-> ## ★ NEXT CHUNK — `bon-brev-p3-c7` (Pars III, Cap. VII, *De originalis peccati curatione*)
+> ## ★ NEXT CHUNK — `bon-brev-p3-c8` (Pars III, Cap. VIII, *De origine peccatorum actualium*)
 >
-> Opens at the **HEAD of p.236's LEFT column** (raw ~L44225; p.236's bands exist, gutter
-> **1331**). **⚠ Cap. VIII opens on the SAME page, part-way down p.236's RIGHT column**, so
-> expect Cap. VII to be confined to p.236 and expect a two-way split of that page's 7-note
-> register. Establish the end positively from the `Cap. VIII.` heading on the band. The full
-> hand-off — including p.236's block split, the anchors already verified, the two anchors NOT
-> yet located, and **the positive gutter runover on p.236 n. 4 that c7 must render and log** —
-> is in the `p3-c6` block at the top of this file.
+> Opens **part-way down p.236's RIGHT column** (raw ~L44323), runs to the foot of that column and
+> resumes **mid-sentence** at the head of **p.237's LEFT column**; **⚠ `Cap. IX.` opens on p.237,
+> part-way down its RIGHT column**, so c8 spans **pp. 236–237** and splits p.237's 9-note register
+> with c9. Both pages' bands exist (p.236 gutter **1331**, p.237 gutter **1209**). Establish the
+> end positively from the `Cap. IX.` heading on the band. The full hand-off — **p.236 n. 7 to pick
+> up with its anchor**, p.237's block split, the nine p.237 notes whose anchors are ALL still to
+> be placed, the two runover tests already closed and the one c8 owes — is in the `p3-c7` block at
+> the top of this file.
 >
 > **Pars III as actually built so far:** c1 231 · c2 231–232 · c3 232–233 · c4 233–234 ·
-> c5 234–235 · **c6 235 (single page — the first in this pars)**. (Index opening pages held for
-> all six.)
+> c5 234–235 · c6 235 · **c7 236 (single page — the second in this pars, and the first to sit on a
+> page that hosts two chapter OPENINGS)**. (Index opening pages held for all seven.)
 >
 > **Pars III has 11 capitula**, verified against the volume's own index (raw **L93816–93860**)
 > and recorded in full in `bon-brev-p3-c1`'s `## Notes`. Index opening pages: c1 231 · c2 231
