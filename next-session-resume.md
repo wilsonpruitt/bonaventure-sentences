@@ -1,6 +1,6 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ★★★ VOL V (TOME V — OPUSCULA) IS THE ACTIVE FRONT. **PARS II OPEN — next chunk `bon-brev-p2-c11`.**
+> # ★★★ VOL V (TOME V — OPUSCULA) IS THE ACTIVE FRONT. **PARS II OPEN — next chunk `bon-brev-p2-c12`, THE LAST OF THE PARS.**
 >
 > **Pars II = 12 capitula, pp.219–230**, verified against the volume's own index (raw
 > L93795–93829). Opening pages: c1 219 · c2 219 · c3 220 · c4 221 · c5 222 · c6 224 · c7 224 ·
@@ -20,23 +20,29 @@
 >   OK on the wording, don't just rewrite it.**
 > - Last deployed: `39c7bc5` (Pars II c1 + the Book V browse container), 2026-07-28.
 >   **Deployed through printed p.219.** Next deploy = **close of Pars II, ~p.230** —
->   c11–c12 still to build. The p.291 polish gate is a different event and much later.
+>   c12 still to build. The p.291 polish gate is a different event and much later.
 >
-> ## ★ NEXT CHUNK — `bon-brev-p2-c11` (Cap. XI, *De productione hominis quantum ad totum coniunctum*)
+> ## ★ NEXT CHUNK — `bon-brev-p2-c12` (Cap. XII, *De completione et ordinatione totius mundi consummati*) — **CLOSES PARS II**
 >
-> **c1–c10 are Tier 2 and committed.** Build **1959/1959**; `check-vol5-apparatus` all-pass;
-> `polish-style-scan --volume 5` CLEAN. **Printed pp. 219–228 fully consumed**; p.229 is
-> untouched and wholly Cap. XI's.
+> **c1–c11 are Tier 2 and committed.** Build **1960/1960**; `check-vol5-apparatus` all-pass;
+> `polish-style-scan --volume 5` CLEAN. **Printed pp. 219–229 fully consumed**; on p.230 only
+> n. 1 is owned, and only its LEFT footer has been read.
 >
-> **Hand-off INTO c11 — again a CLEAN START.** Cap. XI opens in **p.229's left column** at the
-> `Cap. XI.` heading (raw **L43152**), text beginning `De toto autem homine in paradiso
-> collocato¹ haec tenenda sunt, scilicet quod datus est ei duplex sensus…`. **It inherits NO
-> apparatus, and p.229's whole footer register is its own** — n. 1 anchors on that first
-> sentence's `collocato`, verified on the band. c10 closed in the first three lines of p.229's
-> left column and claimed nothing there. p.229 bands are generated (gutter 1222) but **only the
-> top of the left column has been read** — c11 must read the rest of p.229, and per the index
-> (c12 at p.230) expect p.230's footers to split between c11 and c12. **p.230 is not yet
-> extracted.**
+> **Hand-off INTO c12.** Cap. XII opens in **p.230's left column** at the `Cap. XII.` heading
+> (raw **L43308**), text beginning `Ex praedictis autem colligi potest, quod creatura mundi est
+> quasi quidam liber, in quo relucet, repraesentatur et legitur Trinitas fabricatrix…`, its
+> first anchor at `…ascendere in summum principium, quod est Deus²`. **Inherits p.230 footer
+> notes 2, 3, 4 and 5**, all four quoted in full in c11's Notes — do not re-read them.
+>
+> ⚠ **p.230's TOTAL IS NOT ESTABLISHED — only its left footer has been read.** `check-vol5-
+> apparatus` now says so out loud (`?? NOT IN KNOWN_TOTALS`), because an unregistered page
+> printed a bare `ok` and so looked complete. **c12 must read p.230's RIGHT footer band and add
+> the true total to `KNOWN_TOTALS`.** p.230 bands are generated (gutter 1361); p.231 is not yet
+> extracted, and Pars III opens at raw **L43447**.
+>
+> ★ **c12 is the LAST capitulum of Pars II.** When it lands: run the census + apparatus + style
+> checks, then **this is the DEPLOY boundary** — clear the parked list at the top of this file,
+> get Wilson's wording for the stale home-page copy, and ask for the deploy OK explicitly.
 >
 > ⚠⚠ **Note ownership comes from ANCHORS ON THE BAND, never from which pages a chunk covers.**
 > This has now failed in every direction, so stop reasoning from page coverage at all:
@@ -59,11 +65,11 @@
 > base normally. One bad page says nothing about the next. **Read the raw range before leaning
 > on it**; "the raw is usable" is a per-page fact in this volume, not a volume-wide one.
 >
-> **Remaining Pars II:** c11 (229–230) · c12 (230). **Pars II closes at ~p.230 — that is the
-> next DEPLOY boundary**, so clear the parked list above when c12 lands.
+> **Remaining Pars II:** c12 (230) only. **c12 closes the pars — that is the next DEPLOY
+> boundary**, so clear the parked list above when it lands.
 > Index gives opening pages only — confirm each span on the bands.
 >
-> ### Method notes earned in c1–c10 (apply to the rest of Pars II)
+> ### Method notes earned in c1–c11 (apply to the rest of Pars II)
 > 1. **The left footer is NOT the left column's notes.** Confirmed on p.220, p.221 *and* p.226: the
 >    left footer block fills first and overruns the column division, so it can hold a note whose
 >    anchor is in the right column (p.220 n.4 on *septem aetatum*; p.221 n.4 on *Sic enim dicit
@@ -76,7 +82,7 @@
 >    **★ DO NOT WRITE A TALLY HERE OR IN A CHUNK'S NOTES.** Append your chunk's line to
 >    `manual-review/vol5-runover-ledger.tsv` (**one line per chunk, negatives included** — the
 >    roster is the denominator) and run **`python3.11 tools/check-vol5-census.py`**, which diffs
->    that roster against `vol5/` and derives the totals. As of c10: **17 runovers in 26 chunks**,
+>    that roster against `vol5/` and derives the totals. As of c11: **17 runovers in 27 chunks**,
 >    15 gutter-crossing + 2 page-crossing. Cite the script, not this line.
 >
 >    The rule and the incident that produced it are frozen in CLAUDE.md § "Vol V mechanics" →
@@ -87,7 +93,7 @@
 > 3. **★ THE GUTTER PARITY MODEL IS SPENT — use run width alone.** It held for eleven pages, then
 >    collapsed: p.221 (odd) 1233, p.222 (even) **1319** (below the even floor), p.223 (odd) **1241**
 >    (above the odd ceiling), p.224 (even) 1314, p.225 (odd) 1207, p.226 (even) 1333,
->    p.227 (odd) 1211, p.228 (even) 1365, p.229 (odd) 1222. The clusters now overlap at
+>    p.227 (odd) 1211, p.228 (even) 1365, p.229 (odd) 1222, p.230 (even) 1361. The clusters now overlap at
 >    ~1230–1320. Every one of those measurements is sound (46–63 px runs, clean
 >    bands). **Stop predicting a gutter from parity; judge each page on the low-ink run width
 >    `colcrop.py vol5 <page>` reports.**
