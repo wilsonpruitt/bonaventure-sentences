@@ -57,11 +57,28 @@
 > 2. **Finish the runover test from BOTH sides.** A last entry closing on a complete clause is only
 >    half of it — also confirm the next footer opens with a *numbered* entry. p.219 n.3 was a real
 >    mid-word runover (*velut conan-|tis*); p.220 n.4, p.221 n.4 and **p.226 n.5** were all negative.
->    ⚠ **The running runover tally is in conflict and nobody should trust it until it is rebuilt:**
->    this file says "eleven runovers in twenty chunks" while `bon-brev-p2-c7`'s Notes say
->    "fourteenth runover in twenty-three chunks." The two were incremented independently. The
->    *method* is unaffected — run the test on every seam regardless — but **do not cite a count**
->    until someone re-derives it by grepping the runover lines out of the vol5 chunk Notes.
+>    **★ TALLY RE-DERIVED 2026-07-28 — the authoritative count is FIFTEEN runovers in
+>    TWENTY-FOUR chunks** (13 gutter-crossing + 2 page-crossing: p.212 n.7 and p.206 n.11).
+>    Every stale number in the chunk Notes was corrected in the same commit; this line is the
+>    single source of truth from here on. **Increment it here, not in a chunk file.**
+>
+>    <details><summary>The fifteen, in build order (keep appending)</summary>
+>
+>    p.201 n.2 (prol) · p.205 n.5 + p.206 n.7 (prol-s4) · **p.206 n.11 (prol-s5, PAGE)** ·
+>    p.211 n.4 (p1-c2) · **p.212 n.7 (p1-c4, PAGE)** + p.213 n.4 (p1-c4) · p.214 n.5 (p1-c5) ·
+>    p.215 n.4 (p1-c6) · p.216 n.5 + p.217 n.5 (p1-c8) · p.219 n.3 (p2-c1) · p.222 n.2 (p2-c4) ·
+>    p.223 n.5 (p2-c5) · p.225 n.4 (p2-c7). Negative: p1-c1, p1-c3, p1-c7, p1-c9, prol-s1,
+>    prol-s2, prol-s3, prol-s6, p2-c2, p2-c3, p2-c6, p2-c8.
+>    </details>
+>
+>    ⚠ **Why it drifted, because the cause will recur.** The counts were exact through `p1-c8`,
+>    then went **−1 on both counters at `prol-s2` and stayed there**: whoever resumed the tally
+>    after the Pars I block **omitted `bon-brev-prol`** — the one vol5 chunk whose slug carries no
+>    numeric suffix, so a glob-ordered walk of `vol5/` slides straight past it — and lost its
+>    p.201 n.2 runover with it. A later session repaired the chunk count at `p2-c5` without
+>    repairing the runover count, which is why the two numbers disagreed in different directions.
+>    **`bon-brev-prol` is a systematic blind spot for anything that enumerates vol5 by filename.**
+>    Any script or sweep that walks this directory should be checked against a count of **24**.
 > 3. **★ THE GUTTER PARITY MODEL IS SPENT — use run width alone.** It held for eleven pages, then
 >    collapsed: p.221 (odd) 1233, p.222 (even) **1319** (below the even floor), p.223 (odd) **1241**
 >    (above the odd ceiling), p.224 (even) 1314, p.225 (odd) 1207, p.226 (even) 1333. The clusters

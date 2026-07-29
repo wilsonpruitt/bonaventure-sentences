@@ -114,7 +114,7 @@ It befits nonetheless the *end* itself: because Scripture was given that through
 - p.205 n. 5 breaks at `— Pro-` and resumes `tropologicus sive moralis et anagogicus…`, carrying with it the whole Lyra couplet (`Littera gesta docet, quid credas allegoria, / Moralis quid agas, quo tendas anagogia.`). **The couplet is set as two indented verse lines inside the footer** — a layout not met before in Vol V. A column-order read that stopped at the left footer's foot would have lost the distich entirely, and with it the note's whole point.
 - p.206 n. 7 breaks at `alii vel cum 2` and resumes `materialiter, vel cum Vat., 1 et 3 moraliter…`
 
-Both rendered joined. Runovers now stand at **nine in thirteen chunks.**
+Both rendered joined. Runovers now stand at **ten in fourteen chunks.**
 
 **Hand-off forwarded.** **p.206 nn. 8, 9, 10 and 11 belong to `bon-brev-prol-s5`** (§ 5, *De modo procedendi ipsius sacrae Scripturae*, opening in p.206's right column). n. 8 is the Du Cange note on *authenticus* ("Du Cange, Glossarium etc. refert ex Io. de Ianua: *Authenticus* [ab αὐθεντεῖν i. e. dominari], *auctoritate plenus, fide dignus*…"); n. 9 on *praedicatorius* / *praedictivus*; n. 10 "His verbis describit Aristot., II. Ethic. c. 2, finem scientiae moralis. Cfr. I. Sent. Prooem. q. 3."; **n. 11 begins "Aristot., I. Poster. c. 7: Tria enim sunt in demonstrationibus…" and itself runs past the foot of p.206's right footer onto p.207 — s5 must join it.** s5 also inherits body text: § 5 opens `In tanta igitur multiformitate sapientiae, quae continetur in ipsius sacrae Scripturae latitudine, longitudine, altitudine et profundo, unus est communis…` in p.206's right column.
 
