@@ -109,10 +109,9 @@
 >    (p.226 n.5), `E H` (p.227 n.5), `E H` (p.228 n.9).** ⚠ And p.228 n. 3 shows the sharper
 >    form of the hazard — it carries **two different siglum sets one clause apart** (`pro per
 >    I O U V et` … `post sapientissimum L U V addunt`), which the raw flattens into a single
->    `LUV` and so silently merges. The band separates the narrow `I` from the footed `L`. It is
->    the same
->    serif that prints `1` like `4` flattening `H` toward `II`. Treat any siglum string as unread
->    until it has been seen at 450dpi.
+>    `LUV` and so silently merges. The band separates the narrow `I` from the footed `L`.
+>    All of it is one cause: the serif that prints `1` like `4` also flattens `H` toward `II`
+>    and `I` toward `L`. **Treat any siglum string as unread until it has been seen at 450dpi.**
 > 8. **Greek has now appeared in the apparatus** (p.221 n.5: ζῴδιον, ζωή), and the IA raw drops it
 >    entirely — band-only, like the footnote numerals. Verified through to `content.json`.
 >
