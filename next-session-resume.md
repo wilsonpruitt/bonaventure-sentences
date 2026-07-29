@@ -1,48 +1,41 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ★★★ VOL V (TOME V — OPUSCULA) IS THE ACTIVE FRONT. **PARS II OPEN — next chunk `bon-brev-p2-c12`, THE LAST OF THE PARS.**
+> # ★★★ VOL V (TOME V — OPUSCULA) IS THE ACTIVE FRONT. **PARS II IS CLOSED — next chunk `bon-brev-p3-c1`, opening PARS III.**
 >
-> **Pars II = 12 capitula, pp.219–230**, verified against the volume's own index (raw
-> L93795–93829). Opening pages: c1 219 · c2 219 · c3 220 · c4 221 · c5 222 · c6 224 · c7 224 ·
-> c8 225 · c9 226 · c10 227 · c11 229 · c12 230. Index gives opening pages only — confirm each
+> ## ✅ PARS II COMPLETE (2026-07-29) — 12 capitula, printed pp. 219–230, all Tier 2
+> All twelve pages fully consumed, no note owned by nobody (`check-vol5-apparatus` walks
+> pp.219–230 clean). Build **1961/1961**; census **28 chunks / 17 runovers**; `polish-style-scan
+> --volume 5` CLEAN.
+>
+> ## 🚦 DEPLOY BOUNDARY — WAITING ON WILSON, DO NOT PROCEED
+> **A pars boundary is a deploy boundary** (CLAUDE.md § "★ DEPLOY CADENCE"), and deploying is a
+> protected action that always gets its own explicit OK. **Two things are queued and both need
+> Wilson:**
+> 1. **The deploy itself.** Prod is `bonaventure.wrootpress.com`; last deployed `39c7bc5`
+>    (Pars II c1), **serving only through printed p.219** — pp. 220–230 are written, committed
+>    and unpublished. Recipe in CLAUDE.md: `node scripts/build-content.mjs` → `npx vercel build
+>    --prod` → `npx vercel deploy --prod --prebuilt --archive=tgz`. ⚠ The archive is ~97 MB and
+>    has died mid-upload once at 100% — **retry the deploy, do NOT rebuild.**
+> 2. **Home-page copy is STALE AND LIVE.** `site/src/app/page.tsx` says *"Book IV — the
+>    sacraments — is underway, distinction by distinction."* Book IV **completed 2026-07-21**.
+>    The sentence sits directly above the Stripe support tiers, so it is what a would-be patron
+>    reads before deciding. Redraft around Vol V / the Opuscula. **It is Wilson's voice — get his
+>    wording, don't just rewrite it.** Ride it along with this deploy.
+>
+> Also unpushed: `master` is ahead of `origin/master` by this session's commits. Pushing is
+> likewise protected and needs its own OK; it does not have to wait for the deploy.
+>
+> ## ★ NEXT CHUNK — `bon-brev-p3-c1` (Pars III, Cap. I, *De origine mali in communi*)
+>
+> **PARS TERTIA, *De corruptela peccati*, opens on p.231** (raw **L43447**). Per the frozen
+> convention the part opening (`PARS TERTIA` + subtitle) folds into c1.
+>
+> **Hand-off INTO p3-c1 — a CLEAN START.** Nothing is forwarded: p.230 is fully consumed by
+> Pars II. **p.231 is not yet extracted.**
+>
+> ⚠ **Before chunking, verify Pars III's capitulum count against the volume's own index** (raw
+> **L93795–93829**), per-pars as always — the index gives opening pages only, so confirm every
 > span on the bands.
->
-> ## ⏸ PARKED UNTIL THE NEXT DEPLOY BOUNDARY (close of Pars II, ~p.230)
-> **Deploy fires at every pars / work boundary** — NOT at the ~100-page polish gate, and not
-> per chunk (CLAUDE.md § "★ DEPLOY CADENCE"; the two cadences are tabulated there — don't
-> conflate them, and don't say "page decade", which is retired). Deploy-only work waits here
-> instead of shipping alone. **Clear this list at the boundary.**
-> - **Home-page copy is STALE AND LIVE.** `site/src/app/page.tsx` says *"Book IV — the
->   sacraments — is underway, distinction by distinction."* Book IV **completed 2026-07-21**
->   and is fully deployed. The sentence sits directly above the Stripe support tiers, so it is
->   what a would-be patron reads before deciding. Redraft around Vol V / the Opuscula. **Wilson
->   deferred this 2026-07-28 to ride along with the next deploy — it is his voice, so get his
->   OK on the wording, don't just rewrite it.**
-> - Last deployed: `39c7bc5` (Pars II c1 + the Book V browse container), 2026-07-28.
->   **Deployed through printed p.219.** Next deploy = **close of Pars II, ~p.230** —
->   c12 still to build. The p.291 polish gate is a different event and much later.
->
-> ## ★ NEXT CHUNK — `bon-brev-p2-c12` (Cap. XII, *De completione et ordinatione totius mundi consummati*) — **CLOSES PARS II**
->
-> **c1–c11 are Tier 2 and committed.** Build **1960/1960**; `check-vol5-apparatus` all-pass;
-> `polish-style-scan --volume 5` CLEAN. **Printed pp. 219–229 fully consumed**; on p.230 only
-> n. 1 is owned, and only its LEFT footer has been read.
->
-> **Hand-off INTO c12.** Cap. XII opens in **p.230's left column** at the `Cap. XII.` heading
-> (raw **L43308**), text beginning `Ex praedictis autem colligi potest, quod creatura mundi est
-> quasi quidam liber, in quo relucet, repraesentatur et legitur Trinitas fabricatrix…`, its
-> first anchor at `…ascendere in summum principium, quod est Deus²`. **Inherits p.230 footer
-> notes 2, 3, 4 and 5**, all four quoted in full in c11's Notes — do not re-read them.
->
-> ⚠ **p.230's TOTAL IS NOT ESTABLISHED — only its left footer has been read.** `check-vol5-
-> apparatus` now says so out loud (`?? NOT IN KNOWN_TOTALS`), because an unregistered page
-> printed a bare `ok` and so looked complete. **c12 must read p.230's RIGHT footer band and add
-> the true total to `KNOWN_TOTALS`.** p.230 bands are generated (gutter 1361); p.231 is not yet
-> extracted, and Pars III opens at raw **L43447**.
->
-> ★ **c12 is the LAST capitulum of Pars II.** When it lands: run the census + apparatus + style
-> checks, then **this is the DEPLOY boundary** — clear the parked list at the top of this file,
-> get Wilson's wording for the stale home-page copy, and ask for the deploy OK explicitly.
 >
 > ⚠⚠ **Note ownership comes from ANCHORS ON THE BAND, never from which pages a chunk covers.**
 > This has now failed in every direction, so stop reasoning from page coverage at all:
@@ -65,11 +58,12 @@
 > base normally. One bad page says nothing about the next. **Read the raw range before leaning
 > on it**; "the raw is usable" is a per-page fact in this volume, not a volume-wide one.
 >
-> **Remaining Pars II:** c12 (230) only. **c12 closes the pars — that is the next DEPLOY
-> boundary**, so clear the parked list above when it lands.
-> Index gives opening pages only — confirm each span on the bands.
+> **Pars II is done — nothing remains in it.** Its spans, as actually built (the index's opening
+> pages held, but several capitula ran further than it implied): c1 219 · c2 219–220 · c3 220–221 ·
+> c4 221–222 · c5 222–224 · c6 224 · c7 224–225 · c8 225–226 · c9 226–227 · c10 227–229 ·
+> c11 229–230 · c12 230.
 >
-> ### Method notes earned in c1–c11 (apply to the rest of Pars II)
+> ### Method notes earned across Pars II (carry them into Pars III)
 > 1. **The left footer is NOT the left column's notes.** Confirmed on p.220, p.221 *and* p.226: the
 >    left footer block fills first and overruns the column division, so it can hold a note whose
 >    anchor is in the right column (p.220 n.4 on *septem aetatum*; p.221 n.4 on *Sic enim dicit
@@ -82,7 +76,7 @@
 >    **★ DO NOT WRITE A TALLY HERE OR IN A CHUNK'S NOTES.** Append your chunk's line to
 >    `manual-review/vol5-runover-ledger.tsv` (**one line per chunk, negatives included** — the
 >    roster is the denominator) and run **`python3.11 tools/check-vol5-census.py`**, which diffs
->    that roster against `vol5/` and derives the totals. As of c11: **17 runovers in 27 chunks**,
+>    that roster against `vol5/` and derives the totals. As of the Pars II close: **17 runovers in 28 chunks**,
 >    15 gutter-crossing + 2 page-crossing. Cite the script, not this line.
 >
 >    The rule and the incident that produced it are frozen in CLAUDE.md § "Vol V mechanics" →
@@ -93,7 +87,7 @@
 > 3. **★ THE GUTTER PARITY MODEL IS SPENT — use run width alone.** It held for eleven pages, then
 >    collapsed: p.221 (odd) 1233, p.222 (even) **1319** (below the even floor), p.223 (odd) **1241**
 >    (above the odd ceiling), p.224 (even) 1314, p.225 (odd) 1207, p.226 (even) 1333,
->    p.227 (odd) 1211, p.228 (even) 1365, p.229 (odd) 1222, p.230 (even) 1361. The clusters now overlap at
+>    p.227 (odd) 1211, p.228 (even) 1365, p.229 (odd) 1222, p.230 (even) 1361. The clusters overlap at
 >    ~1230–1320. Every one of those measurements is sound (46–63 px runs, clean
 >    bands). **Stop predicting a gutter from parity; judge each page on the low-ink run width
 >    `colcrop.py vol5 <page>` reports.**
