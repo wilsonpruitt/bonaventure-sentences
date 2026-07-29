@@ -1,60 +1,89 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ★★★ VOL V (TOME V — OPUSCULA) IS THE ACTIVE FRONT. **PARS III IS OPEN — next chunk `bon-brev-p3-c3`.**
+> # ★★★ VOL V (TOME V — OPUSCULA) IS THE ACTIVE FRONT. **PARS III IS OPEN — next chunk `bon-brev-p3-c4`.**
 >
-> ## ✅ `bon-brev-p3-c2` DONE (2026-07-29) — commit `fba8cad`
-> Breviloquium **Pars III, Cap. II, *De primorum parentum tentatione*** — printed **pp. 231–232**,
-> opening in p.231's right column and closing mid-p.232 above the `Cap. III.` heading.
-> `check-vol5-apparatus` walks pp.201–232 clean (p.232 `KNOWN_TOTALS` fed as **9**, of which
-> 7 are c2's and nn.8–9 report as a legitimate PENDING, not a GAP); build **1963/1963**;
+> ## ✅ `bon-brev-p3-c3` DONE (2026-07-29) — commit `44e8da6`
+> Breviloquium **Pars III, Cap. III, *De primorum parentum transgressione*** — printed
+> **pp. 232–233**, opening in p.232's right column under the `Cap. III.` heading, breaking
+> **mid-word** at `…excellentem scien-`, resuming at the head of p.233's **left** column and
+> closing there at `…ad statum culpae et miseriae.` **The end was fixed positively by the
+> `Cap. IV.` heading at the head of p.233's RIGHT column**, not by the white space below the
+> left column's last line. Cap. III claims **no** text in p.233's right column.
+> `check-vol5-apparatus` walks pp.201–233 clean (p.233 `KNOWN_TOTALS` fed as **5**, of which
+> 3 are c3's and nn.4–5 report as a legitimate PENDING, not a GAP); build **1964/1964**;
 > `polish-style-scan --volume 5` CLEAN; `check-vol5-census.py` run and rosters agreeing —
 > **cite the script, never a number copied from here.**
 >
-> ### Hand-off INTO `bon-brev-p3-c3` (Cap. III, *De primorum parentum transgressione*)
-> - **PICK UP: p.232 footer notes 8 AND 9**, anchored on `divini mandati`⁸ and `ut supra`⁹ in
->   Cap. III's first two paragraphs. Both read off the p.232 **right** footer band:
->   n. 8 *"Cfr. II. Sent. lit. Magistri, d. XXII. c. 1-4, et Comment. a. 1."*;
->   n. 9 *"Partis II. c. 11. — Inferius post sed edd. cum aliquot codd. addunt potius, et verbo
->   negotiari E praemittit evagari vel (H vagari pro negotiari)."* — note the `H`, which the raw
->   prints `II` (settled correspondence; **the same note independently confirms p.232 n. 4's
->   `p. II. c. 11.`**, which the raw reverses to `p. 11. c. II.`).
-> - **Cap. III opens in p.232's RIGHT column** (heading `Cap. III. / De primorum parentum
->   transgressione.`) and is **NOT complete on p.232** — it breaks **mid-word** at
->   `…Appetendo igitur excellentem scien-` and continues on **p.233, not yet extracted**.
->   Establish c3's end positively from the next `Cap.` heading, never from white space.
->   The index gives c4's opening page as 233, so c3 likely ends mid-p.233 and forwards again.
-> - **Runover to re-test:** p.232's last entry (n. 9) closes on a complete clause
->   (`…(H vagari pro negotiari).`), but the page-crossing test is only half done until p.233's
->   footer is read and confirmed to open with a *numbered* entry. **That test is c3's.**
+> ### Hand-off INTO `bon-brev-p3-c4` (Cap. IV, *De primorum parentum punitione*)
+> - **PICK UP: p.233 footer notes 4 AND 5**, anchored on `fecerunt sibi perizomata`⁴ and
+>   `relabatur`⁵, both in p.233's **right** column, inside Cap. IV. Read them off the bands:
+>   n. 4 begins in the **LEFT** footer block — *"Gen. 3, 7. — Seq. locus est ibid. v. 17. Poena
+>   mulieris insinuatur ibid. v. 16. — Cfr. Alex. Hal., S. p. II. q. 105. per totam. — In principio
+>   cap. secuti sumus S, dum alii codd. omittunt vel primis parentibus inflicta, vel primis
+>   parentibus, alii cum edd. substituunt primorum parentum (omisso inflicta)."* — and **runs over
+>   the gutter**, continuing UNNUMBERED at the head of the **RIGHT** block: *"Inferius pro
+>   resolutionis in cinerem R incinerationis (Q ib addit vel incinerationis), qui etiam inferius pro
+>   scilicet ligni vetiti esus substituit inobedientiae primorum parentum (D addit ibi vel
+>   inobedientiae primorum parentum). Pro licet fuerit multi codd. licet esset."* n. 5 (numbered) is
+>   Boeth., IV. de Consol. prosa 6 + August., Epist. 140 (alias 120) c. 2 n. 4, w/ `Cfr. supra pag.
+>   224, nota 8. et I. Sent. d. 46. q. 5. seq.` and the `A D E S` / `[Vat., 1 et 3]` / `T` / `H`
+>   apparatus. **★ n. 4's runover is ALREADY ESTABLISHED and ALREADY LOGGED on `p3-c3`'s ledger
+>   line — do NOT log it a second time, and do not treat it as an open test.**
+> - **Cap. IV opens at the head of p.233's RIGHT column** and is **NOT complete on p.233** — its
+>   body runs to the foot of that column (`…ideo erubescebant et cooperiebant se.`) and continues
+>   on **p.234, not yet extracted**. Index gives c5's opening page as 234, so c4 likely ends
+>   mid-p.234 and forwards again. Establish the end positively from the next `Cap.` heading.
+> - **Runover to test (BOTH directions):** p.233's last entry is n. 5 and closes on a complete
+>   clause (`…quam laetari in damno aequitatis.`), so the page-crossing test is half done — confirm
+>   p.234's footer opens with a *numbered* entry before calling it negative. **That test is c4's.**
 >
-> ### What pp.231–232 taught (beyond the standing Pars II method notes, all of which still hold)
-> - **Gutters: p.231 = 1194** (53 px run), **p.232 = 1337** (60 px run), page 2571×3823, both
->   auto-measured by `colcrop.py` and confirmed visually before use. p.231 carries the full-width
->   `PARS TERTIA` display heading across the gutter — the p.201/p.219 hazard — but the body-rows
->   window still returned a healthy run. Don't skip the visual confirmation on a part-opening page
->   just because the number looks plausible. **1337 sits inside the ~1230–1370 overlap zone, so
->   parity would have been useless here even if it still worked.**
+> ### What pp.231–233 taught (beyond the standing Pars II method notes, all of which still hold)
+> - **Gutters: p.231 = 1194** (53 px run), **p.232 = 1337** (60 px run), **p.233 = 1211** (52 px
+>   run), page 2571×3823, all auto-measured by `colcrop.py` and confirmed visually before use.
+>   p.231 carries the full-width `PARS TERTIA` display heading across the gutter — the p.201/p.219
+>   hazard — but the body-rows window still returned a healthy run. Don't skip the visual
+>   confirmation on a part-opening page just because the number looks plausible. **1337 sits inside
+>   the ~1230–1370 overlap zone, so parity would have been useless; and 1211 was in no way
+>   predictable from 1337 one page earlier.**
 > - **★ GIVE THE RAW-QUALITY VERDICT SEPARATELY FOR BODY AND FOOTER, never as one page-level
->   judgement.** Both pages were **body CLEAN / footer WRONG-or-FLATTENED**. p.231 band-corrected:
->   n. 1's `II. Sent. d. 25.` (raw `d. 23`); n. 2's siglum **A** (raw `X`); n. 5's `c. 19. n. 53`,
->   `de Vera Relig. c. 14. n. 27`, `pag. 188`; n. 6's `d. 1.` (printed `d. 4.`). p.232 band-corrected:
->   **n. 4's `p. II. c. 11.` — the raw REVERSES it to `p. 11. c. II.`**, the `1`/`I` flattening
->   running both directions inside one citation; n. 7's `(A H et 2 …)` (raw `ATIet 2`);
->   n. 7's `E addit vetiti` (band prints `veliti`, settled by Cap. III's own body three paragraphs
->   later, which reads `suavitatem ligni vetiti`); n. 7's `Gen. 3, 5.` (band `5, 5`).
+>   judgement — and note that the BODY grade also moves page to page.** p.231 and p.232 were
+>   **body CLEAN / footer WRONG-or-FLATTENED**. **p.233 is a step worse in the body**: not
+>   cascade-fragmented, so still usable as a base with the bands as the check, but with heavy
+>   character loss (`oi'ecla esl in ■viperbiam`, `1'iiiniiin tiiit in rwentev`, `djk'nUionc`,
+>   `existimaBS`, `habelMt`, `.\dam`). Every p.233 reading was settled on the band.
+>   Band-corrected footers so far: p.231 n. 1's `II. Sent. d. 25.` (raw `d. 23`); n. 2's siglum
+>   **A** (raw `X`); n. 5's `c. 19. n. 53`, `de Vera Relig. c. 14. n. 27`, `pag. 188`; n. 6's
+>   `d. 1.` (printed `d. 4.`). p.232: **n. 4's `p. II. c. 11.` — the raw REVERSES it to
+>   `p. 11. c. II.`**, the `1`/`I` flattening running both directions inside one citation;
+>   n. 7's `(A H et 2 …)` (raw `ATIet 2`); n. 7's `E addit vetiti` (band prints `veliti`, settled
+>   by Cap. III's own body); n. 7's `Gen. 3, 5.` (band `5, 5`). p.233: n. 1's lone siglum **A**
+>   (raw `\`; the band's glyph is a crossbar-less Λ — zoom-checked, and read as A because Λ is not
+>   in the siglum set while the same footer's n. 3 prints `A Q et 2` and `A L M S T` with the
+>   crossbar intact); n. 2's `Tim. 2, 14` (raw `li`); n. 3's `c. 11. n. 2` (raw `c. II.`);
+>   n. 3's `D L O Q T U` (raw `D L 0 (j T U`); n. 4's `q. 105.` (raw `q. lOo`).
 > - **A citation's own SENSE is a usable check on its digits.** p.232 n. 1 lists Gen. 3, 1 / v. 4 /
 >   v. 5 in order, and those are exactly the three serpent-verses the body quotes in order — so
 >   every `1` that prints like a `4` in that line tests right against the passage it names.
->   Same for n. 7's `Gen. 3, 5` (*Eritis sicut dii*) and p.232 n. 2's `pag. 218`.
-> - **The left/right footer split coincided with the column division on BOTH pages** (p.231
->   nn. 1–3 / 4–7; p.232 nn. 1–5 / 6–9). Two pages in a row is still coincidence, **not a rule** —
->   method note 1 below stands unamended (pp. 220, 221, 226 all had a left-block note whose
->   anchor was in the right column).
-> - **No `[?]` flags** in either chunk. Two things deliberately preserved rather than harmonised:
->   p.231's corollary sets both Augustine quotations in **roman** inside `« »` while the phrase
->   between them (*modi, speciei et ordinis corruptivum*) is italic; and p.232's body reads
->   *magnae fuit versutiae* while its own n. 5 records the editions' *maximae*. Printed that way;
->   a polish pass must not normalise either.
+>   Same for n. 7's `Gen. 3, 5` (*Eritis sicut dii*), p.232 n. 2's `pag. 218`, **p.233 n. 2's
+>   `1 Tim. 2, 14` (the note quotes the verse in full immediately after) and p.233 n. 3's
+>   `de Civ. Dei XIV. c. 11` (the chapter that argues Adam was not deceived).**
+> - **★ THE LEFT FOOTER BLOCK OVERRAN THE COLUMN DIVISION AGAIN ON p.233** — its left block holds
+>   nn. **1–4**, and n. 4's anchor is in the **right** column. Fourth occurrence (pp. 220, 221, 226,
+>   233), and it lands directly on the two pages that had just looked clean: p.231 (1–3 / 4–7) and
+>   p.232 (1–5 / 6–9) split on the column division, and **that was coincidence, exactly as `p3-c2`
+>   warned.** Method note 1 stands: numbering follows reading order across the page; never infer a
+>   note's anchor column from which block holds it.
+> - **⚠ The printer's signature line (`S. Bonav. — Tom. V.`, and the sheet number `30` at the foot
+>   of the right column) sits INSIDE the p.233 footer register, between n. 4's left-block text and
+>   the column foot.** It is not an entry, it does not interrupt a runover, and it must not be
+>   counted. Expect one every 16 printed pages.
+> - **No `[?]` flags** in any of the three chunks. Three things deliberately preserved rather than
+>   harmonised: p.231's corollary sets both Augustine quotations in **roman** inside `« »` while the
+>   phrase between them (*modi, speciei et ordinis corruptivum*) is italic; p.232's body reads
+>   *magnae fuit versutiae* while its own n. 5 records the editions' *maximae*; and **Cap. III's
+>   second paragraph prints `haec est: quia; cum a primo principio…` with a SEMICOLON after *quia*,
+>   where Cap. II's parallel sentence prints a comma** (band and raw agree). Printed that way;
+>   a polish pass must not normalise any of them.
 >
 > ## ✅ PARS II COMPLETE (2026-07-29) — 12 capitula, printed pp. 219–230, all Tier 2
 > All twelve pages fully consumed, no note owned by nobody (`check-vol5-apparatus` walks
@@ -65,7 +94,7 @@
 > protected action that always gets its own explicit OK. **Two things are queued and both need
 > Wilson:**
 > 1. **The deploy itself.** Prod is `bonaventure.wrootpress.com`; last deployed `39c7bc5`
->    (Pars II c1), **serving only through printed p.219** — pp. 220–232 are written, committed
+>    (Pars II c1), **serving only through printed p.219** — pp. 220–233 are written, committed
 >    and unpublished. Recipe in CLAUDE.md: `node scripts/build-content.mjs` → `npx vercel build
 >    --prod` → `npx vercel deploy --prod --prebuilt --archive=tgz`. ⚠ The archive is ~97 MB and
 >    has died mid-upload once at 100% — **retry the deploy, do NOT rebuild.**
@@ -87,12 +116,14 @@
 > Also unpushed: `master` is ahead of `origin/master` by this session's commits. Pushing is
 > likewise protected and needs its own OK; it does not have to wait for the deploy.
 >
-> ## ★ NEXT CHUNK — `bon-brev-p3-c3` (Pars III, Cap. III, *De primorum parentum transgressione*)
+> ## ★ NEXT CHUNK — `bon-brev-p3-c4` (Pars III, Cap. IV, *De primorum parentum punitione*)
 >
-> Spans **pp. 232–233+** (opens in p.232's right column, raw ~L43690; p.232's bands exist,
-> **p.233 not yet extracted**). The full hand-off is in the `p3-c2` block at the top of this file.
+> Spans **pp. 233–234+** (opens at the head of p.233's **right** column, raw ~L43800; p.233's
+> bands exist, **p.234 not yet extracted**). The full hand-off is in the `p3-c3` block at the
+> top of this file.
 >
-> **Pars III as actually built so far:** c1 231 · c2 231–232. (Index opening pages held for both.)
+> **Pars III as actually built so far:** c1 231 · c2 231–232 · c3 232–233. (Index opening pages
+> held for all three.)
 >
 > **Pars III has 11 capitula**, verified against the volume's own index (raw **L93816–93860**)
 > and recorded in full in `bon-brev-p3-c1`'s `## Notes`. Index opening pages: c1 231 · c2 231
