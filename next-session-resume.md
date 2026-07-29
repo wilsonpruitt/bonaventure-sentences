@@ -1,6 +1,6 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ★★★ VOL V (TOME V — OPUSCULA) IS THE ACTIVE FRONT. **PARS II OPEN — next chunk `bon-brev-p2-c8`.**
+> # ★★★ VOL V (TOME V — OPUSCULA) IS THE ACTIVE FRONT. **PARS II OPEN — next chunk `bon-brev-p2-c9`.**
 >
 > **Pars II = 12 capitula, pp.219–230**, verified against the volume's own index (raw
 > L93795–93829). Opening pages: c1 219 · c2 219 · c3 220 · c4 221 · c5 222 · c6 224 · c7 224 ·
@@ -20,40 +20,54 @@
 >   OK on the wording, don't just rewrite it.**
 > - Last deployed: `39c7bc5` (Pars II c1 + the Book V browse container), 2026-07-28.
 >   **Deployed through printed p.219.** Next deploy = **close of Pars II, ~p.230** —
->   c8–c12 still to build. The p.291 polish gate is a different event and much later.
+>   c9–c12 still to build. The p.291 polish gate is a different event and much later.
 >
-> ## ★ NEXT CHUNK — `bon-brev-p2-c8` (Cap. VIII, *De confirmatione bonorum Angelorum*)
+> ## ★ NEXT CHUNK — `bon-brev-p2-c9` (Cap. IX, *De productione hominis quantum ad spiritum*)
 >
-> **c1–c7 are Tier 2 and committed.** Build **1956/1956**; `check-vol5-apparatus` all-pass;
-> `polish-style-scan --volume 5` CLEAN. **Printed pp. 219–224 fully consumed**; p.225 nn. 1–4
-> owned, nn. 5–7 pending.
+> **c1–c8 are Tier 2 and committed.** Build **1957/1957**; `check-vol5-apparatus` all-pass;
+> `polish-style-scan --volume 5` CLEAN. **Printed pp. 219–225 fully consumed**; p.226 nn. 1–5
+> owned, nn. 6–9 pending.
 >
-> **Hand-off INTO c8.** Cap. VIII opens in **p.225's right column** at the `Cap. VIII.` heading
-> (raw **L42462**), text beginning `De confirmatione vero Angelorum hoc tenendum est…`.
-> **Inherits p.225 footer notes 5, 6 and 7**, all three quoted in full in c7's Notes — do not
-> re-read them. ⚠ **Cap. VIII does NOT finish on p.225**: its text is still running at the foot of
-> that column (`…fuerunt confirmati pariter et perfecti: ideo quantum`), so derive the rest from
-> **p.226**, which the index gives as Cap. IX's opening page — expect p.226's footers to split
-> between c8 and c9. p.225 bands are generated (gutter 1207); p.226 is not yet extracted.
+> **Hand-off INTO c9.** Cap. IX opens in **p.226's right column** at the `Cap. IX.` heading
+> (raw **L42707**), text beginning `Post naturam corpoream et incorpoream dicenda sunt aliqua de
+> natura ex utrisque composita, primo ex parte mentis…`. **Inherits p.226 footer notes 6, 7, 8
+> and 9**, all four quoted in full in c8's Notes — do not re-read them. ⚠ **Cap. IX does NOT
+> finish on p.226**: its right column is still running at the foot (`…beatificabilem, sed etiam
+> spiritum coniunctum, sci-`), so derive the rest from **p.227**, which the index gives as
+> Cap. X's opening page — expect p.227's footers to split between c9 and c10. p.226 bands are
+> generated (gutter 1333); p.227 is not yet extracted.
 >
-> **Remaining Pars II:** c8 (225–226) · c9 (226) · c10 (227) · c11 (229) · c12 (230).
+> ⚠ **The Vol V raw quality is not uniform, and it collapses right here.** The djvu OCR for
+> p.225's right column is cascade-degraded past use as a transcription base (`Dc confinnalione
+> vero Angelorum hoc tciicndum est, (]uod sicut angeli a Deo aner.ti ^.lnlim mnl obstinati`),
+> while p.226's raw is markedly cleaner. c8 was set entirely from the bands, with the raw used
+> only for anchor positions and marginalia order. **Read the raw range before leaning on it**;
+> "the raw is usable" is a per-page fact in this volume, not a volume-wide one.
+>
+> **Remaining Pars II:** c9 (226–227) · c10 (227) · c11 (229) · c12 (230).
 > Index gives opening pages only — confirm each span on the bands.
 >
-> ### Method notes earned in c1–c7 (apply to the rest of Pars II)
-> 1. **The left footer is NOT the left column's notes.** Confirmed on p.220 *and* p.221: the left
->    footer block fills first and overruns the column division, so it can hold a note whose anchor
->    is in the right column (p.220 n.4 on *septem aetatum*; p.221 n.4 on *Sic enim dicit Scriptura*).
+> ### Method notes earned in c1–c8 (apply to the rest of Pars II)
+> 1. **The left footer is NOT the left column's notes.** Confirmed on p.220, p.221 *and* p.226: the
+>    left footer block fills first and overruns the column division, so it can hold a note whose
+>    anchor is in the right column (p.220 n.4 on *septem aetatum*; p.221 n.4 on *Sic enim dicit
+>    Scriptura*; **p.226 n.5 on *excellentius accepit in munere*, three lines into the right column**).
 >    Numbering follows **reading order across the page**; the blocks merely fill in turn. Never infer
 >    a note's anchor column from which block holds it.
 > 2. **Finish the runover test from BOTH sides.** A last entry closing on a complete clause is only
 >    half of it — also confirm the next footer opens with a *numbered* entry. p.219 n.3 was a real
->    mid-word runover (*velut conan-|tis*); p.220 n.4 and p.221 n.4 were both negative. Eleven
->    runovers in twenty chunks.
+>    mid-word runover (*velut conan-|tis*); p.220 n.4, p.221 n.4 and **p.226 n.5** were all negative.
+>    ⚠ **The running runover tally is in conflict and nobody should trust it until it is rebuilt:**
+>    this file says "eleven runovers in twenty chunks" while `bon-brev-p2-c7`'s Notes say
+>    "fourteenth runover in twenty-three chunks." The two were incremented independently. The
+>    *method* is unaffected — run the test on every seam regardless — but **do not cite a count**
+>    until someone re-derives it by grepping the runover lines out of the vol5 chunk Notes.
 > 3. **★ THE GUTTER PARITY MODEL IS SPENT — use run width alone.** It held for eleven pages, then
 >    collapsed: p.221 (odd) 1233, p.222 (even) **1319** (below the even floor), p.223 (odd) **1241**
->    (above the odd ceiling), p.224 (even) 1314. The clusters now overlap at ~1230–1320. Every one
->    of those measurements is sound (46–63 px runs, clean bands). **Stop predicting a gutter from
->    parity; judge each page on the low-ink run width `colcrop.py vol5 <page>` reports.**
+>    (above the odd ceiling), p.224 (even) 1314, p.225 (odd) 1207, p.226 (even) 1333. The clusters
+>    now overlap at ~1230–1320. Every one of those measurements is sound (46–63 px runs, clean
+>    bands). **Stop predicting a gutter from parity; judge each page on the low-ink run width
+>    `colcrop.py vol5 <page>` reports.**
 > 4. **★★ A short column is NOT a boundary.** Quaracchi footers expand *upward*; a page with a
 >    big footer register ends its body text well above the foot. c4 was written short by a whole
 >    paragraph and two entries on exactly that misreading. **Establish every capitulum's end from
@@ -66,8 +80,11 @@
 >    iustitiae* while its own n.8 gives his true words as *sine decore vindictae*. Both are on the
 >    bands; Bonaventure quotes loosely and Quaracchi record rather than emend. Preserved as
 >    printed and flagged in c7's Notes — a polish pass must not "fix" it.
-> 7. **The K/R siglum confusion is chronic** — four times in this pars (pp.220, 221, 223, 225).
->    The raw prints R where the band shows K. Always resolve sigla on the band.
+> 7. **Siglum letters are the standing hazard — resolve every one on the band.** The K/R confusion
+>    is chronic (four times in this pars: pp.220, 221, 223, 225 — the raw prints R where the band
+>    shows K). **p.226 n.5 added a second pair: `B II` in the raw is `B H` on the band**, the same
+>    serif that prints `1` like `4` flattening `H` toward `II`. Treat any siglum string as unread
+>    until it has been seen at 450dpi.
 > 8. **Greek has now appeared in the apparatus** (p.221 n.5: ζῴδιον, ζωή), and the IA raw drops it
 >    entirely — band-only, like the footnote numerals. Verified through to `content.json`.
 >
