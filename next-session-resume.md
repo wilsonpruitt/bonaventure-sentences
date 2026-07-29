@@ -1,6 +1,76 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ★★★ VOL V (TOME V — OPUSCULA) IS THE ACTIVE FRONT. **PARS III IS OPEN — next chunk `bon-brev-p3-c4`.**
+> # ★★★ VOL V (TOME V — OPUSCULA) IS THE ACTIVE FRONT. **PARS III IS OPEN — next chunk `bon-brev-p3-c5`.**
+>
+> ## ✅ `bon-brev-p3-c4` DONE (2026-07-29) — commit `60d9948`
+> Breviloquium **Pars III, Cap. IV, *De primorum parentum punitione*** — printed
+> **pp. 233–234**, opening at the head of p.233's **right** column under the `Cap. IV.` heading,
+> filling that whole column to `…ideo erubescebant et cooperiebant se.`, resuming at a
+> **paragraph boundary** (not mid-word) at the head of p.234's **left** column
+> (`Rursus, quia vir, spreto summo delectabili…`) and closing in that same left column at
+> `« dedecus peccati non esset sine decore iustitiae² ».` **The end was fixed positively by the
+> `Cap. V. / De originalis peccati corruptione.` heading standing immediately below it IN THE
+> SAME LEFT COLUMN** — Cap. V does not wait for a fresh column or page. Cap. IV claims **no**
+> text in p.234's right column. `check-vol5-apparatus` walks pp.201–234 clean (p.234
+> `KNOWN_TOTALS` fed as **9**, of which 2 are c4's and nn.3–9 report as a legitimate PENDING,
+> not a GAP); build **1965/1965**; `polish-style-scan --volume 5` CLEAN; `check-vol5-census.py`
+> run and rosters agreeing — **cite the script, never a number copied from here.**
+>
+> ### Hand-off INTO `bon-brev-p3-c5` (Cap. V, *De originalis peccati corruptione*)
+> - **PICK UP: p.234 footer notes 3 THROUGH 9 — seven entries, the largest hand-off in Pars III
+>   so far.** Read every one off the bands. Anchors, all verified: n. 3 on `tertio modus
+>   curationis`³ and n. 4 on `natura filius irae`⁴, both in p.234's **LEFT** column; nn. 5–9 in
+>   the right column. Their content, for orientation only — re-read them at 450 dpi:
+>   n. 3 *"De his agitur hic et 2 seqq. capp."*; n. 4 *Eph. 2, 3* + Anselm (`II. Sent. d. 30. a. 2.
+>   q. 1.`) + Bede (`ibid. d. 22. dub. 2.`); n. 5 August. `Enchirid. c. 93. n. 23` + `II. Sent.
+>   d. 33. a. 3. q. 1. seq.`; n. 6 `Psalm. 24, 10.`; n. 7 `Vide II. Sent. d. 30. a. 1. q. 1. seq.`;
+>   n. 8 `Cfr. supra pag. 231, nota 5.`; n. 9 `B homo.` **Every one of those digits is a serif
+>   `1`/`4`, `3`/`5` candidate — cross-check each on the band, none is settled by this note.**
+> - **⚠ p.234's footer blocks split 1–3 / 4–9, and n. 4's ANCHOR IS IN THE LEFT COLUMN.** The
+>   left block UNDERRAN the column division — do not read the 1–3 / 4–9 split as a left/right
+>   correspondence.
+> - **Cap. V opens IN p.234's LEFT column** (not at a column head) and is **NOT complete on
+>   p.234** — it runs through p.234's right column and continues on **p.235, not yet extracted**.
+>   Index gives c6's opening page as 235, so c5 likely ends mid-p.235 and forwards again.
+>   Establish the end positively from the next `Cap.` heading on the band.
+> - **Runover to test (BOTH directions):** p.234's last entry is n. 9 (`B homo.`), which closes
+>   complete, so the page-crossing test is half done — confirm p.235's footer opens with a
+>   *numbered* entry before calling it negative. **That test is c5's.** p.234's own
+>   gutter-crossing test is already **closed, negative** (right block opens numbered ⁴).
+> - **p.234's bands already exist** (`raw/vision/vol5/p-234.png`, gutter 1341). **p.235 must be
+>   extracted and auto-measured** — `extract-pages.py --volume vol5 --pages 235 --dpi 450` then
+>   `colcrop.py vol5 235`, no constant.
+>
+> ### What p.234 taught (beyond the standing notes, all of which still hold)
+> - **★ THE LEFT FOOTER BLOCK CAN UNDERRUN THE COLUMN DIVISION TOO.** p.234's left block holds
+>   nn. **1–3** while n. **4**'s anchor is also in the left column — the exact mirror of the
+>   overrun logged on pp. 220, 221, 226 and 233. **Both directions are now attested**, which
+>   settles method note 1 in its strongest form: the blocks merely fill in turn, numbering follows
+>   reading order across the page, and a note's anchor column can never be inferred from which
+>   block holds it, **in either direction**. Stop reasoning from block membership entirely.
+> - **★ p.234's RAW IS CLEAN IN BOTH REGIONS — body AND footer.** This is the first Vol V page
+>   whose footer needed **zero** band corrections (`F homini peccanti`, `B M ab homine peccante`,
+>   `Q U interserunt`, `[U vel]`, `pag. 224, nota 8.` all print correctly in the raw and were
+>   confirmed rather than repaired). p.233, one page earlier, was degraded in the body and
+>   flattened in the footer. **This is the sharpest evidence yet that raw quality is a per-page,
+>   per-region fact — and it cuts both ways. Still read every footer off the bands: the raw has
+>   no numerals regardless of how clean its prose is, so "clean footer" never means "skippable".**
+> - **Gutter: p.234 = 1341 (63 px run)**, auto-measured, confirmed visually. It sits inside the
+>   ~1230–1370 overlap zone and was in no way predictable from p.233's 1211. Parity stays spent.
+> - **A citation's own sense keeps paying.** p.233 n.5's `Epist. 140. (alias 120.)` — both numbers
+>   open with the serif `1` that prints `4` — is settled by the fact that Augustine's *Epist.* 140
+>   **is** the letter numbered 120 in the older series. And `pag. 224, nota 8.` is corroborated
+>   independently: **p.234 n. 2 sends the reader to the same note for the same Augustinian tag.**
+> - **⚠ The `sine decore iustitiae` / `sine decore vindictae` divergence resurfaces.** Cap. IV
+>   closes on `« dedecus peccati non esset sine decore iustitiae »`, and its n. 2 does not restate
+>   Augustine's true words — it points to **p. 224, nota 8**, which is exactly the note
+>   `bon-brev-p2-c7` flagged. Nothing was harmonised; both stand as printed. A polish pass must
+>   not "fix" either site.
+> - **No `[?]` flags.** Band corrections c4 had to make on p.233's footer: n. 5's `d. 46. q. 5. seq.`
+>   (raw `3` — the chronic 3/5), `Epist. 140. (alias 120.)` (raw `UO`), `pag. 224` (raw `22t`),
+>   `R incinerationis` (raw `It`), `H quaedam nullius momenti addit` (raw `II` — **fifth**
+>   attestation of the settled `II`→`H` correspondence), `[Vat., 1 et 3 statim in]`; n. 4's
+>   `Alex. Hal., S. p. II. q. 105.` (raw `S. p. 11. q. lOo`). p.234's footer: none.
 >
 > ## ✅ `bon-brev-p3-c3` DONE (2026-07-29) — commit `44e8da6`
 > Breviloquium **Pars III, Cap. III, *De primorum parentum transgressione*** — printed
@@ -94,7 +164,7 @@
 > protected action that always gets its own explicit OK. **Two things are queued and both need
 > Wilson:**
 > 1. **The deploy itself.** Prod is `bonaventure.wrootpress.com`; last deployed `39c7bc5`
->    (Pars II c1), **serving only through printed p.219** — pp. 220–233 are written, committed
+>    (Pars II c1), **serving only through printed p.219** — pp. 220–234 are written, committed
 >    and unpublished. Recipe in CLAUDE.md: `node scripts/build-content.mjs` → `npx vercel build
 >    --prod` → `npx vercel deploy --prod --prebuilt --archive=tgz`. ⚠ The archive is ~97 MB and
 >    has died mid-upload once at 100% — **retry the deploy, do NOT rebuild.**
@@ -116,14 +186,14 @@
 > Also unpushed: `master` is ahead of `origin/master` by this session's commits. Pushing is
 > likewise protected and needs its own OK; it does not have to wait for the deploy.
 >
-> ## ★ NEXT CHUNK — `bon-brev-p3-c4` (Pars III, Cap. IV, *De primorum parentum punitione*)
+> ## ★ NEXT CHUNK — `bon-brev-p3-c5` (Pars III, Cap. V, *De originalis peccati corruptione*)
 >
-> Spans **pp. 233–234+** (opens at the head of p.233's **right** column, raw ~L43800; p.233's
-> bands exist, **p.234 not yet extracted**). The full hand-off is in the `p3-c3` block at the
-> top of this file.
+> Spans **pp. 234–235+** (opens **inside** p.234's **left** column, immediately below Cap. IV's
+> last line, raw ~L43928; p.234's bands exist, **p.235 not yet extracted**). The full hand-off is
+> in the `p3-c4` block at the top of this file.
 >
-> **Pars III as actually built so far:** c1 231 · c2 231–232 · c3 232–233. (Index opening pages
-> held for all three.)
+> **Pars III as actually built so far:** c1 231 · c2 231–232 · c3 232–233 · c4 233–234. (Index
+> opening pages held for all four.)
 >
 > **Pars III has 11 capitula**, verified against the volume's own index (raw **L93816–93860**)
 > and recorded in full in `bon-brev-p3-c1`'s `## Notes`. Index opening pages: c1 231 · c2 231
