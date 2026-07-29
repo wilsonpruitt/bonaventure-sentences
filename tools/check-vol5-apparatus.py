@@ -78,9 +78,12 @@ KNOWN_TOTALS = {
     234: 9,   # nn.1-2 Cap. IV, nn.3-9 Cap. V; page fully consumed
     235: 7,   # n.1 Cap. V, nn.2-7 Cap. VI; page fully consumed
     236: 7,   # nn.1-6 Cap. VII, n.7 Cap. VIII (forwarded to p3-c8)
-    237: 9,   # band-read while closing the p.236->p.237 runover test:
-              # nn.1-3 left block, nn.4-9 right; Capp. VIII AND IX both
-              # sit on this page, so it will split between p3-c8 and p3-c9
+    237: 9,   # band-read while closing the p.236->p.237 runover test, then
+              # re-read in full by p3-c8: nn.1-3 left block, nn.4-9 right,
+              # but SIX of the nine (nn.1-6) anchor in the LEFT column -- a
+              # three-note UNDERRUN of the column division. Capp. VIII AND IX
+              # both sit on this page, yet ALL NINE notes are Cap. VIII's;
+              # Cap. IX claims none. Page fully consumed by p3-c8.
 }
 
 
