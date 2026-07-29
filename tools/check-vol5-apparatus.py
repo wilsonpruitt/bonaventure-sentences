@@ -84,6 +84,12 @@ KNOWN_TOTALS = {
               # three-note UNDERRUN of the column division. Capp. VIII AND IX
               # both sit on this page, yet ALL NINE notes are Cap. VIII's;
               # Cap. IX claims none. Page fully consumed by p3-c8.
+    238: 8,   # band-read in full by p3-c9: nn.1-4 left block (n.4 broken
+              # MID-WORD at "Amor ergo... fu-"), right block opens with n.4's
+              # unnumbered continuation then nn.5-8. Anchors track the blocks
+              # exactly here (nn.1-4 left, nn.5-8 right) -- a COINCIDENCE page
+              # whose split falls INSIDE a note, the p.236 shape repeated.
+              # nn.1-7 Cap. IX, n.8 Cap. X (forwarded to p3-c10).
 }
 
 
