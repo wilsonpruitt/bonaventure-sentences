@@ -60,6 +60,15 @@
 >    reads before deciding. Redraft around Vol V / the Opuscula. **It is Wilson's voice — get his
 >    wording, don't just rewrite it.** Ride it along with this deploy.
 >
+>    **★ SAME PASS — the Stripe tier LABEL is stale too (Wilson OK'd this fix 2026-07-29).**
+>    `site/src/app/layout.tsx:84` reads *"$10 — a distinction"*. Vol V has **no distinctions**;
+>    the pars is the distinction-equivalent unit (Quaracchi cite as "Breviloq. p. V. c. 6"), and
+>    $10 is now being received AS a pars — two such donations came in 2026-07-29, assigned to
+>    **Pars III** (*De corruptela peccati*) and **Pars IV** (*De incarnatione Verbi*). Reword to
+>    cover both eras ("a part", or a formulation of Wilson's). The `$100 — a decade` label has
+>    the same problem and needs the same judgement. **Do not change the Stripe payment links
+>    themselves** — only the display text.
+>
 > Also unpushed: `master` is ahead of `origin/master` by this session's commits. Pushing is
 > likewise protected and needs its own OK; it does not have to wait for the deploy.
 >
