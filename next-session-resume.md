@@ -1,6 +1,105 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ★★★ VOL V (TOME V — OPUSCULA) IS THE ACTIVE FRONT. **PARS III IS OPEN — next chunk `bon-brev-p3-c6`.**
+> # ★★★ VOL V (TOME V — OPUSCULA) IS THE ACTIVE FRONT. **PARS III IS OPEN — next chunk `bon-brev-p3-c7`.**
+>
+> ## ✅ `bon-brev-p3-c6` DONE (2026-07-29) — commit `729cd4d`
+> Breviloquium **Pars III, Cap. VI, *De originalis peccati transfusione*** — printed
+> **p. 235 ONLY**, opening **inside p.235's LEFT column** immediately below Cap. V's last line
+> (not at a column head), filling the rest of that left column and the whole of p.235's right
+> column, and closing at the **foot of p.235's right column** at
+> `…quod « peccatum originale non transmittit ad posteros propagatio, sed libido ».`
+> **★ The end was fixed POSITIVELY and deliberately NOT from the white space under that last
+> line: p.236 was extracted and banded for the purpose, and `Cap. VII. / De originalis peccati
+> curatione.` stands at the very HEAD of p.236's LEFT column.** Cap. VI therefore claims **no**
+> text and **no** footer note on p.236. Independent confirmation: p.236's running head reads
+> `BREVILOQUII PARS III. C. VII. VIII.` — naming **two** capitula, so Cap. VI cannot reach it.
+> A single-page capitulum, the first in Pars III. `check-vol5-apparatus` walks pp.201–235 clean
+> (p.235 now **fully consumed**, no PENDING anywhere; p.236 registered in `KNOWN_TOTALS` as **7**
+> but owned by nobody yet, which the script does not print because no chunk claims it); build
+> **1967/1967**; `polish-style-scan --volume 5` CLEAN; `check-vol5-census.py` run and rosters
+> agreeing — **cite the script, never a number copied from here.**
+>
+> ### Hand-off INTO `bon-brev-p3-c7` (Cap. VII, *De originalis peccati curatione*)
+> - **PICK UP: NOTHING. c6 forwards no note.** p.235's register is fully consumed by c5 + c6,
+>   and **p.236's whole register of 7 notes is untouched and belongs entirely to Capp. VII and
+>   VIII.** This is the second Breviloquium chunk to forward nothing (cf. `p2-c10`). **Do not
+>   read "nothing forwarded" as "nothing to check" — read p.236's footer off the bands from n. 1.**
+> - **⚠⚠ CAPP. VII AND VIII BOTH OPEN ON p.236.** `Cap. VII.` is at the **head of p.236's LEFT
+>   column**; **`Cap. VIII.` (*De origine peccatorum actualium*) opens PART-WAY DOWN p.236's RIGHT
+>   column** — verified on the band, and the running head `BREVILOQUII PARS III. C. VII. VIII.`
+>   says so. Expect a **tight two-way split of p.236's register**, and expect Cap. VII to be
+>   confined to p.236 (left column + the top of the right column) unless the band says otherwise.
+>   Index opening pages: c7 236 · c8 236 (*ib.*) · then the rest continuing.
+> - **p.236's footer holds 7 notes, band-derived and already in `KNOWN_TOTALS`.** Block split:
+>   **nn. 1–4 left, nn. 5–7 right.** Anchors c6 verified in passing (re-verify all of them —
+>   they were read while establishing the boundary, not while owning the page): n. 1 on
+>   `modus curationis originalis hic est`¹, n. 2 on `per gratiam singularem`², n. 4 on
+>   `remanet quantum ad actum`⁴ — all in the **left** column; **n. 6 on `ipse procedebat`⁶ inside
+>   Cap. VII's Anselm quotation and n. 7 on `secundum illud Iacobi primo`⁷ inside Cap. VIII**, both
+>   in the **right** column. **⚠ n. 3's and n. 5's anchors were NOT located by c6 — read them
+>   yourself; n. 5 in particular decides where the c7/c8 split falls.**
+> - **★ p.236 n. 4 RUNS OVER THE GUTTER — POSITIVE, and it is c7's to render AND to log.** The
+>   left block ends mid-clause at `— Superius edd., excepta 2, pro motus autem substituunt actus`
+>   and the note continues **UNNUMBERED** at the head of the right block (`autem sive motus, et
+>   subinde per baptismum omittitur a pluribus codd.`). c6 found it but did **not** log it (it
+>   renders no part of n. 4), so **c7's ledger line must carry `p.236 n.4:gutter`.**
+> - **Runover to test (BOTH directions):** p.236's last entry is n. 7 (`Vers. 14. seq.:
+>   Unusquisque vero tentatur etc.`), which closes complete, so the page-crossing test is half
+>   done — confirm p.237's footer opens with a *numbered* entry before calling it negative.
+>   **That test is c7's.** The p.235 → p.236 test is already **closed, NEGATIVE** by c6.
+> - **p.236's bands already exist** (`raw/vision/vol5/p-236.png`, gutter **1331**, 61 px run).
+>   **p.237 must be extracted and auto-measured** if Cap. VII reaches it — `extract-pages.py
+>   --volume vol5 --pages 237 --dpi 450` then `colcrop.py vol5 237`, no constant.
+> - **Digits already settled on p.236's footer by c6's band read** (re-check anyway): n. 2
+>   `Vide III. Sent. d. 3. p. I. per totam. De praecedentibus cfr. II. Sent. d. 32. a. 1.`;
+>   n. 4 `August., I. de Nuptiis et concupisc. c. 26. n. 29`; n. 5 sigla `G K O Q S U et 2`;
+>   n. 6 `Anselm., de Conceptu virgin. et orig. pecc. c. 18`, sigla `I L M V` and `E F G H K N O P S`
+>   (**the raw prints `EFGIIKNOPS` — the settled `II`→`H` flattening, seventh attestation**);
+>   n. 7 `Vers. 14. seq.` Every one of those digits is a serif `1`/`4`, `3`/`5` candidate.
+>
+> ### What p.235 and p.236 taught (beyond the standing notes, all of which still hold)
+> - **★ A CAPITULUM CAN CLOSE AT A COLUMN FOOT — and the ONLY way to know is the next page's
+>   heading.** Cap. VI ends at the bottom of p.235's right column with white space below it,
+>   which is exactly the configuration that cost `p2-c4` a paragraph. The difference is that c6
+>   did not infer the end from the white space: it extracted p.236, banded it, and found
+>   `Cap. VII.` at the head of the left column. **The rule is not "white space is never an end" —
+>   it is "white space is never EVIDENCE." Go get the next heading, every time, in both
+>   directions.** The running head is a cheap second witness: a head naming two capitula
+>   (`C. VII. VIII.`) proves the previous capitulum did not reach that page.
+> - **★ THE RAW'S GRADE MOVES WITHIN A COLUMN, AND IT CAN MOVE *UPWARD*.** `p3-c5` established
+>   that the body grade moves within a page (p.234 clean, then degraded from the `Cap. V.`
+>   heading down) and graded p.235's body DEGRADED on the thirteen Cap. V lines it used. From the
+>   `Cap. VI.` heading down, **the same column of the same page is materially CLEANER** — still
+>   band-checked line by line, but usable as a base. And **p.235's right column is a step worse
+>   than its left**. So the verdict is now per page, per region, per column-run, **and the
+>   direction of drift is not predictable either.** Grade the run you are actually setting from.
+> - **★ ONE NOTE, TWO SIGLUM SETS, BOTH WRONG IN THE RAW, WRONG IN DIFFERENT WAYS.** p.235 n. 3
+>   gives `Ita A B S` where the raw gives `A D S`, and four words later `pro factum est A B et 2`
+>   where the raw gives `A H et 2`. At 900 dpi both `A`s are the crossbar-less Λ and both second
+>   letters are unmistakably **B** — closed upper bowl, closed lower bowl, one stem. The raw took
+>   the same glyph for **D** once and for **H** once **inside a single note**. `p3-c5` flagged both
+>   without resolving them and was right to refuse to guess. **A siglum string is unread until it
+>   has been seen at 450 dpi, and a second string in the same note is a second unread string.**
+> - **Gutter: p.236 = 1331 (61 px run)**, auto-measured, confirmed visually. The running series is
+>   now 1194 · 1337 · 1211 · 1341 · 1210 · **1331** — it straddles the ~1230–1370 overlap zone and
+>   1331 was in no way predictable from 1210 one page earlier. Parity stays spent.
+> - **The gutter-crossing runover is now the ordinary case at a dense footer, not the exception.**
+>   p.235 n. 2 and p.236 n. 4 both run over, on consecutive pages, in the same pars. Both were
+>   found by reading the left block's last line to its end and then reading the right block's first
+>   line from its start. **Do that on every page; do not wait for a note to look unfinished.**
+> - **No `[?]` flags.** Band corrections c6 had to make on p.235's right footer block: n. 2's
+>   `ibid. d. 30. a. 1. q. 2` (band `a. 4.`) and `a. 3.` (raw `0. 3.`); n. 3's `A B S` and
+>   `A B et 2` (see above); n. 4's `d. 30. a. 2. q. 1` (band `q. 4`); n. 5's `p. II. c. 11.`
+>   (band `c. 44`); n. 7's `c. 2. n. 16` (band `n. 46`) and `pag. 170` (band `470`).
+> - **⚠ Preserved as printed: p.235 n. 7 has NO STOP between `n. 16` and `Cfr.`** The line breaks
+>   after `16` and the next line opens `Cfr. supra pag. 170, nota 3.` with no period, dash or comma
+>   between. Checked at 900 dpi; the space is bare. Rendered exactly so in the Latin, with the
+>   English supplying the sentence break English requires, and the divergence recorded in c6's
+>   `## Notes`. **A polish pass must not insert a stop.**
+> - **The *transfusio* / *traductio* divergence persists and was again NOT harmonised.** Cap. VI is
+>   headed *De originalis peccati **transfusione*** while its own opening sentence reads *Modus
+>   autem **traductionis*** and n. 2 glosses it *De modo **traductionis***. `p3-c5` recorded the
+>   same divergence from the other side. Both words stand as printed on both pages.
 >
 > ## ✅ `bon-brev-p3-c5` DONE (2026-07-29) — commit `4bd34ac`
 > Breviloquium **Pars III, Cap. V, *De originalis peccati corruptione*** — printed
@@ -277,14 +376,19 @@
 > Also unpushed: `master` is ahead of `origin/master` by this session's commits. Pushing is
 > likewise protected and needs its own OK; it does not have to wait for the deploy.
 >
-> ## ★ NEXT CHUNK — `bon-brev-p3-c6` (Pars III, Cap. VI, *De originalis peccati transfusione*)
+> ## ★ NEXT CHUNK — `bon-brev-p3-c7` (Pars III, Cap. VII, *De originalis peccati curatione*)
 >
-> Spans **pp. 235–236+** (opens **inside** p.235's **left** column, immediately below Cap. V's
-> last line, raw ~L44077; p.235's bands exist, **p.236 not yet extracted**). The full hand-off is
-> in the `p3-c5` block at the top of this file.
+> Opens at the **HEAD of p.236's LEFT column** (raw ~L44225; p.236's bands exist, gutter
+> **1331**). **⚠ Cap. VIII opens on the SAME page, part-way down p.236's RIGHT column**, so
+> expect Cap. VII to be confined to p.236 and expect a two-way split of that page's 7-note
+> register. Establish the end positively from the `Cap. VIII.` heading on the band. The full
+> hand-off — including p.236's block split, the anchors already verified, the two anchors NOT
+> yet located, and **the positive gutter runover on p.236 n. 4 that c7 must render and log** —
+> is in the `p3-c6` block at the top of this file.
 >
 > **Pars III as actually built so far:** c1 231 · c2 231–232 · c3 232–233 · c4 233–234 ·
-> c5 234–235. (Index opening pages held for all five.)
+> c5 234–235 · **c6 235 (single page — the first in this pars)**. (Index opening pages held for
+> all six.)
 >
 > **Pars III has 11 capitula**, verified against the volume's own index (raw **L93816–93860**)
 > and recorded in full in `bon-brev-p3-c1`'s `## Notes`. Index opening pages: c1 231 · c2 231
