@@ -75,6 +75,7 @@ KNOWN_TOTALS = {
     231: 7,   # PARS III opens: nn.1-6 Cap. I, n.7 Cap. II (forwarded to p3-c2)
     232: 9,   # nn.1-7 Cap. II, nn.8-9 Cap. III (forwarded to p3-c3)
     233: 5,   # nn.1-3 Cap. III, nn.4-5 Cap. IV (forwarded to p3-c4)
+    234: 9,   # nn.1-2 Cap. IV, nn.3-9 Cap. V (forwarded to p3-c5)
 }
 
 
