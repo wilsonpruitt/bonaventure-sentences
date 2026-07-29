@@ -139,11 +139,11 @@ export default function HomePage() {
 
       <div className="section-title">The Full Opera Omnia &mdash; Project Scope</div>
       <p className="body-text" style={{ marginBottom: "1.5rem" }}>
-        The Quaracchi <em>Opera Omnia</em>&thinsp; runs to ten volumes (1882&ndash;1902). Three are now
-        complete &mdash; the commentaries on the first three books of the <em>Sentences</em> &mdash; and
-        the fourth is in preparation, published distinction by distinction as each is finished. The
-        remaining six, comprising Bonaventure&rsquo;s opuscula, Scripture commentaries, and sermons,
-        are still to come.
+        The Quaracchi <em>Opera Omnia</em>&thinsp; runs to ten volumes (1882&ndash;1902). Four are now
+        complete &mdash; the commentaries on all four books of the <em>Sentences</em> &mdash; and the
+        fifth, the <em>Opuscula</em>, is in preparation, published part by part as each is finished.
+        The remaining five, comprising Bonaventure&rsquo;s Scripture commentaries, further opuscula,
+        sermons, and the indices, are still to come.
       </p>
       {OPERA_OMNIA.map((t) => {
         const row = (

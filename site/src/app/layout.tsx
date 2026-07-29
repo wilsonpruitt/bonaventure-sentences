@@ -75,9 +75,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <h2>Support the Translation</h2>
           <p>
             Bonaventure&apos;s commentary on the Sentences has never been fully translated into
-            English. Books I&ndash;III are complete and free to read here; Book IV &mdash; the
-            sacraments &mdash; is underway, distinction by distinction. The pipeline is proven;
-            the pace is a compute bill.
+            English. All four books are now complete and free to read here; the <em>Opuscula</em>
+            {" "}&mdash; beginning with the <em>Breviloquium</em> &mdash; are underway. The pipeline
+            is proven; the pace is a compute bill.
           </p>
           <div className="support-tiers">
             <a href="https://buy.stripe.com/9B614m7iJfls3463z54gg08" target="_blank" rel="noopener">
