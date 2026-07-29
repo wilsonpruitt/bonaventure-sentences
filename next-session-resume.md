@@ -27,23 +27,21 @@
 >   **Deployed through printed p.219.** Next deploy = **close of Pars II, ~p.230** (12 printed
 >   pages, 11 more capitula). The p.291 polish gate is a different event and much later.
 >
-> ## ★ NEXT CHUNK — `bon-brev-p2-c6` (Cap. VI, *De productione supernorum spirituum*)
+> ## ★ NEXT CHUNK — `bon-brev-p2-c7` (Cap. VII, *De apostasia daemonum*)
 >
-> **c1–c5 are Tier 2 and committed** (`8d2a863`, `44521d5`, `a747734`, `4b31ae6`+`4189902`,
-> `d412635`). Build **1954/1954**; `check-vol5-apparatus` all-pass; `polish-style-scan --volume 5`
-> CLEAN. **Printed pp. 219–223 are fully consumed** — every footer note owned, zero GAP.
+> **c1–c6 are Tier 2 and committed.** Build **1955/1955**; `check-vol5-apparatus` all-pass;
+> `polish-style-scan --volume 5` CLEAN. **Printed pp. 219–223 fully consumed**; p.224 nn. 1–7
+> owned, n. 8 pending.
 >
-> **Hand-off INTO c6: NOTHING inherited** — no apparatus, no body text. Cap. V's last sentence
-> completes at the head of p.224's left column; that tail carries no anchor. Cap. VI opens
-> immediately below it (raw **L42213**), and its first anchor is p.224 **n. 1** on `Consequenter
-> vero agendum ¹`. p.224 bands are already generated (gutter **1314**).
+> **Hand-off INTO c7.** Cap. VII opens in **p.224's right column** at the `Cap. VII.` heading
+> (raw **L42332**), text beginning `Post haec autem considerandum est de ruina et apostasia
+> daemonum…`. **Inherits p.224 footer note 8**, quoted in full in c6's Notes — do not re-read it.
+> ⚠ **Cap. VII does NOT finish on p.224**: its `Ratio autem…` paragraph is already running at the
+> foot of that column (`quia, cum primum principium sit summe bo-`), so derive the rest from
+> **p.225**. p.224 bands are generated (gutter 1314); p.225 is not yet extracted.
 >
-> ⚠ **Per the index, Cap. VI *and* Cap. VII both sit on p.224.** Expect p.224's footer register to
-> split between c6 and c7, and derive the boundary from the **`Cap. VII.` heading**, not from
-> column length.
->
-> **Remaining Pars II:** c6 (224) · c7 (224) · c8 (225) · c9 (226) · c10 (227) · c11 (229) ·
-> c12 (230). Index gives opening pages only — confirm each span on the bands.
+> **Remaining Pars II:** c7 (224–225) · c8 (225) · c9 (226) · c10 (227) · c11 (229) · c12 (230).
+> Index gives opening pages only — confirm each span on the bands.
 >
 > ### Method notes earned in c1–c5 (apply to the rest of Pars II)
 > 1. **The left footer is NOT the left column's notes.** Confirmed on p.220 *and* p.221: the left
