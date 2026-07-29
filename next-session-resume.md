@@ -1,18 +1,56 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ★★★ VOL V (TOME V — OPUSCULA) IS THE ACTIVE FRONT. **PARS II IS CLOSED — next chunk `bon-brev-p3-c1`, opening PARS III.**
+> # ★★★ VOL V (TOME V — OPUSCULA) IS THE ACTIVE FRONT. **PARS III IS OPEN — next chunk `bon-brev-p3-c2`.**
+>
+> ## ✅ `bon-brev-p3-c1` DONE (2026-07-29) — commit `f90333d`
+> Breviloquium **Pars III, Cap. I, *De origine mali in communi*** — printed **p.231 only**,
+> opening PARS TERTIA (*De corruptela peccati*). `check-vol5-apparatus` walks pp.201–231 clean
+> (**29 chunks / 225 entries**); build **1962/1962**; `polish-style-scan --volume 5` CLEAN;
+> census run and agreeing — **cite `check-vol5-census.py`, never a number copied from here.**
+>
+> ### Hand-off INTO `bon-brev-p3-c2` (Cap. II, *De primorum parentum tentatione*)
+> - **PICK UP: p.231 footer note 7**, anchored on `poena inflicta`⁷ in Cap. II's first paragraph:
+>   *"De his tribus agitur in hoc et 2 seqq. capp.; de peccato originali c. 5-7; de actuali
+>   c. 8-11."* Read off the p.231 right footer band; it is c2's **first** entry.
+> - **Cap. II opens in p.231's RIGHT column** (heading `Cap. II. / De primorum parentum
+>   tentatione.`) and its body is **NOT complete on p.231** — it breaks after `…poena inflicta⁷.`
+>   and continues at the head of **p.232**, which is **not yet extracted**. p.232's running head
+>   reads `BREVILOQUII PARS III. C. III.`, so **p.232 also carries Cap. III** — c2 will end
+>   mid-page and forward to c3. Establish c2's end positively from the `Cap. III.` heading.
+> - **Runover to re-test:** p.231's last entry (n. 7) closes on a complete clause, but the
+>   page-crossing test is only half done until p.232's footer is read and confirmed to open with
+>   a *numbered* entry. That test is c2's.
+>
+> ### What p.231 taught (beyond the standing Pars II method notes, all of which still hold)
+> - **Gutter measured 1194** (53 px run, page 2571×3823). p.231 carries the full-width
+>   `PARS TERTIA` display heading across the gutter — the p.201/p.219 hazard — but the
+>   body-rows window still returned a healthy run. **Confirmed visually before use anyway**;
+>   both columns cropped clean. Don't skip that confirmation on a part-opening page just
+>   because the number looks plausible.
+> - **The raw for p.231 is CLEAN** as a body base (ordinary serif garbles only, no cascade
+>   fragmentation) — but **its footer block is wrong in at least two places**, so the per-page
+>   raw-quality verdict must be given separately for body and footer. Band-corrected: n. 1's
+>   `II. Sent. d. 25.` where the raw prints **d. 23**; n. 2's siglum **A** where the raw prints
+>   `X`; n. 5's `c. 19. n. 53`, `de Vera Relig. c. 14. n. 27`, `pag. 188`; n. 6's `d. 1.`
+>   (printed `d. 4.` in the serif). Every one is the `1`/`4`, `3`/`5` family.
+> - **The left/right footer split coincided with the column division on this page** (nn. 1–3
+>   left = Cap. I's first three anchors; nn. 4–7 right). That is a coincidence of p.231, **not
+>   a rule** — method note 1 below stands unamended.
+> - **No `[?]` flags.** One thing deliberately preserved rather than harmonised: in the
+>   corollary, both Augustine quotations are set in **roman** inside `« »` while the phrase
+>   between them (*modi, speciei et ordinis corruptivum*) is italic. Printed that way; a polish
+>   pass must not normalise it.
 >
 > ## ✅ PARS II COMPLETE (2026-07-29) — 12 capitula, printed pp. 219–230, all Tier 2
 > All twelve pages fully consumed, no note owned by nobody (`check-vol5-apparatus` walks
-> pp.219–230 clean). Build **1961/1961**; census **28 chunks / 17 runovers**; `polish-style-scan
-> --volume 5` CLEAN.
+> pp.219–230 clean).
 >
 > ## 🚦 DEPLOY BOUNDARY — WAITING ON WILSON, DO NOT PROCEED
 > **A pars boundary is a deploy boundary** (CLAUDE.md § "★ DEPLOY CADENCE"), and deploying is a
 > protected action that always gets its own explicit OK. **Two things are queued and both need
 > Wilson:**
 > 1. **The deploy itself.** Prod is `bonaventure.wrootpress.com`; last deployed `39c7bc5`
->    (Pars II c1), **serving only through printed p.219** — pp. 220–230 are written, committed
+>    (Pars II c1), **serving only through printed p.219** — pp. 220–231 are written, committed
 >    and unpublished. Recipe in CLAUDE.md: `node scripts/build-content.mjs` → `npx vercel build
 >    --prod` → `npx vercel deploy --prod --prebuilt --archive=tgz`. ⚠ The archive is ~97 MB and
 >    has died mid-upload once at 100% — **retry the deploy, do NOT rebuild.**
@@ -25,17 +63,16 @@
 > Also unpushed: `master` is ahead of `origin/master` by this session's commits. Pushing is
 > likewise protected and needs its own OK; it does not have to wait for the deploy.
 >
-> ## ★ NEXT CHUNK — `bon-brev-p3-c1` (Pars III, Cap. I, *De origine mali in communi*)
+> ## ★ NEXT CHUNK — `bon-brev-p3-c2` (Pars III, Cap. II, *De primorum parentum tentatione*)
 >
-> **PARS TERTIA, *De corruptela peccati*, opens on p.231** (raw **L43447**). Per the frozen
-> convention the part opening (`PARS TERTIA` + subtitle) folds into c1.
+> Spans **pp. 231–232** (opens in p.231's right column, raw ~L43530; p.232 **not yet
+> extracted**). The full hand-off is in the `p3-c1` block at the top of this file.
 >
-> **Hand-off INTO p3-c1 — a CLEAN START.** Nothing is forwarded: p.230 is fully consumed by
-> Pars II. **p.231 is not yet extracted.**
->
-> ⚠ **Before chunking, verify Pars III's capitulum count against the volume's own index** (raw
-> **L93795–93829**), per-pars as always — the index gives opening pages only, so confirm every
-> span on the bands.
+> **Pars III has 11 capitula**, verified against the volume's own index (raw **L93816–93860**)
+> and recorded in full in `bon-brev-p3-c1`'s `## Notes`. Index opening pages: c1 231 · c2 231
+> (*ib.*) · c3 232 · c4 233 · c5 234 · c6 235 · c7 236 · c8 236 (*ib.*), the rest continuing.
+> **Opening pages only** — establish every span positively from the next `Cap.` heading on the
+> band, never from white space at a column foot.
 >
 > ⚠⚠ **Note ownership comes from ANCHORS ON THE BAND, never from which pages a chunk covers.**
 > This has now failed in every direction, so stop reasoning from page coverage at all:
