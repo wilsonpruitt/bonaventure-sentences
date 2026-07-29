@@ -18,8 +18,8 @@ const OPERA_OMNIA: {
   { tome: "I", year: 1882, title: "Commentarius in I librum Sententiarum", gloss: "Commentary on Book I of the Sentences — the Trinity", status: "published", href: "/browse/1" },
   { tome: "II", year: 1885, title: "Commentarius in II librum Sententiarum", gloss: "Commentary on Book II — creation, the angels, and sin", status: "published", href: "/browse/2" },
   { tome: "III", year: 1887, title: "Commentarius in III librum Sententiarum", gloss: "Commentary on Book III — the Incarnation and the virtues", status: "published", href: "/browse/3" },
-  { tome: "IV", year: 1889, title: "Commentarius in IV librum Sententiarum", gloss: "Commentary on Book IV — the sacraments and the last things", status: "in-preparation", href: "/browse/4" },
-  { tome: "V", year: 1891, title: "Opuscula varia theologica", gloss: "Breviloquium, Itinerarium mentis in Deum, Collationes in Hexaemeron", status: "planned" },
+  { tome: "IV", year: 1889, title: "Commentarius in IV librum Sententiarum", gloss: "Commentary on Book IV — the sacraments and the last things", status: "published", href: "/browse/4" },
+  { tome: "V", year: 1891, title: "Opuscula varia theologica", gloss: "Breviloquium, Itinerarium mentis in Deum, Collationes in Hexaemeron", status: "in-preparation", href: "/browse/tome/5" },
   { tome: "VI", year: 1893, title: "Commentarii in Sacram Scripturam", gloss: "Commentaries on Ecclesiastes, Wisdom, and John", status: "planned" },
   { tome: "VII", year: 1895, title: "Commentarius in Evangelium S. Lucae", gloss: "The full commentary on the Gospel of Luke", status: "planned" },
   { tome: "VIII", year: 1898, title: "Opuscula ad theologiam mysticam et res Ordinis", gloss: "Mystical and ascetic opuscula; Franciscan-order writings", status: "planned" },
@@ -74,12 +74,11 @@ export default function HomePage() {
         <p className="body-text" style={{ maxWidth: "700px", margin: "0 auto", textAlign: "center" }}>
           An English translation of the <em>Opera Omnia</em>&thinsp; of St. Bonaventure of Bagnoregio
           (1221&ndash;1274), the Seraphic Doctor, from the Quaracchi critical edition (1882&ndash;1902).
-          The project will eventually present all ten volumes. Volumes I, II, and III &mdash; the{" "}
-          <em>Commentaries on Books I, II, and III of the Sentences of Peter Lombard</em> &mdash; are
-          complete, and Volume IV, the commentary on Book IV, is well advanced: its treatises on the
-          sacraments and on marriage are being published as they are finished. Future volumes will
-          include the <em>Breviloquium</em>, <em>Itinerarium mentis in Deum</em>, the{" "}
-          <em>Collationes in Hexaemeron</em>, and other opuscula and sermons.
+          The project will eventually present all ten volumes. Volumes I through IV &mdash; the whole{" "}
+          <em>Commentary on the Sentences of Peter Lombard</em> &mdash; are complete. Volume V, the{" "}
+          <em>Opuscula</em>, is under way: the <em>Breviloquium</em> is being published part by part,
+          and the <em>Itinerarium mentis in Deum</em>, the <em>Collationes in Hexaemeron</em>, and the
+          sermons will follow.
         </p>
       </div>
 
