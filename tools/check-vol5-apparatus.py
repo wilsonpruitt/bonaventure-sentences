@@ -69,6 +69,7 @@ KNOWN_TOTALS = {
     225: 7,   # nn.1-4 Cap. VII, nn.5-7 Cap. VIII; page fully consumed
     226: 9,   # nn.1-5 Cap. VIII, nn.6-9 Cap. IX; page fully consumed
     227: 9,   # all nine Cap. IX; Cap. X opens on this page but claims no note
+    228: 9,   # all nine Cap. X; page fully consumed
 }
 
 
