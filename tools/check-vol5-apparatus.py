@@ -77,7 +77,10 @@ KNOWN_TOTALS = {
     233: 5,   # nn.1-3 Cap. III, nn.4-5 Cap. IV (forwarded to p3-c4)
     234: 9,   # nn.1-2 Cap. IV, nn.3-9 Cap. V; page fully consumed
     235: 7,   # n.1 Cap. V, nn.2-7 Cap. VI; page fully consumed
-    236: 7,   # Capp. VII AND VIII both open here; no note anchors in Cap. VI
+    236: 7,   # nn.1-6 Cap. VII, n.7 Cap. VIII (forwarded to p3-c8)
+    237: 9,   # band-read while closing the p.236->p.237 runover test:
+              # nn.1-3 left block, nn.4-9 right; Capp. VIII AND IX both
+              # sit on this page, so it will split between p3-c8 and p3-c9
 }
 
 
