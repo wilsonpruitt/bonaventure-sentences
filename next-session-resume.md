@@ -44,7 +44,7 @@
 > **Remaining Pars II:** c8 (225–226) · c9 (226) · c10 (227) · c11 (229) · c12 (230).
 > Index gives opening pages only — confirm each span on the bands.
 >
-> ### Method notes earned in c1–c5 (apply to the rest of Pars II)
+> ### Method notes earned in c1–c7 (apply to the rest of Pars II)
 > 1. **The left footer is NOT the left column's notes.** Confirmed on p.220 *and* p.221: the left
 >    footer block fills first and overruns the column division, so it can hold a note whose anchor
 >    is in the right column (p.220 n.4 on *septem aetatum*; p.221 n.4 on *Sic enim dicit Scriptura*).
@@ -64,7 +64,16 @@
 >    paragraph and two entries on exactly that misreading. **Establish every capitulum's end from
 >    the NEXT heading, positively, in the following column or page — never from white space.**
 >    Now frozen in CLAUDE.md § "Vol V mechanics".
-> 5. **Greek has now appeared in the apparatus** (p.221 n.5: ζῴδιον, ζωή), and the IA raw drops it
+> 5. **A carry-over may claim NO note.** Cap. V spilled onto p.224 but p.224 n.1 belongs to Cap.
+>    VI's opening line. So "nothing was forwarded" is not evidence that the body text ended —
+>    check the next column for text as well as for footers.
+> 6. **Don't harmonise a body/apparatus divergence.** Cap. VII quotes Augustine as *sine decore
+>    iustitiae* while its own n.8 gives his true words as *sine decore vindictae*. Both are on the
+>    bands; Bonaventure quotes loosely and Quaracchi record rather than emend. Preserved as
+>    printed and flagged in c7's Notes — a polish pass must not "fix" it.
+> 7. **The K/R siglum confusion is chronic** — four times in this pars (pp.220, 221, 223, 225).
+>    The raw prints R where the band shows K. Always resolve sigla on the band.
+> 8. **Greek has now appeared in the apparatus** (p.221 n.5: ζῴδιον, ζωή), and the IA raw drops it
 >    entirely — band-only, like the footnote numerals. Verified through to `content.json`.
 >
 > **Gutter: `colcrop.py vol5 <page>` now AUTO-MEASURES** — don't pass a constant, and don't
