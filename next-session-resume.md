@@ -1,6 +1,112 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ★★★ VOL V (TOME V — OPUSCULA) IS THE ACTIVE FRONT. **PARS III IS OPEN — next chunk `bon-brev-p3-c9`.**
+> # ★★★ VOL V (TOME V — OPUSCULA) IS THE ACTIVE FRONT. **PARS III IS OPEN — next chunk `bon-brev-p3-c10`.**
+>
+> ## ✅ `bon-brev-p3-c9` DONE (2026-07-29) — commit `e64ce84`
+> Breviloquium **Pars III, Cap. IX, *De origine et distinctione capitalium peccatorum*** — printed
+> **pp. 237–238**, opening with a **two-line opener at the very foot of p.237's RIGHT column** under
+> `Cap. IX. / De origine et distinctione capitalium peccatorum.`, continuing **MID-WORD** (`capi-` /
+> `talia` — the first mid-word page break in Pars III) at the head of **p.238's LEFT column**, filling
+> that column, crossing p.238's gutter at a sentence boundary (`…aut quia refugit quod non est
+> refugiendum.` / `Si quia appetit quod non est appetendum…`), and closing **part-way down p.238's
+> RIGHT column** at `…ex quibus alia manant quam plurima.`
+> **★ The end was fixed POSITIVELY from the `Cap. X. / De origine et qualitate peccatorum poenalium.`
+> heading standing immediately below it IN THE SAME RIGHT COLUMN** — no inference from white space
+> anywhere. `check-vol5-apparatus` walks **pp.201–238 clean**; p.238 reports **n.8 as a legitimate
+> PENDING, not a GAP**. Build **1970/1970**; `polish-style-scan --volume 5` CLEAN;
+> `check-vol5-census.py` run and rosters agreeing — **cite the script, never a number copied
+> from here.**
+>
+> ### Hand-off INTO `bon-brev-p3-c10` (Cap. X, *De origine et qualitate peccatorum poenalium*)
+> - **PICK UP: p.238 footer note 8 — ONE entry.** Anchor verified on the band: **n. 8 on
+>   `quod etiam sunt poena`⁸ `peccati`, in p.238's RIGHT column**, three lines below the `Cap. X.`
+>   heading. Content, for orientation only — read it at 450 dpi: `Edd., excepta 2, cum paucis codd.
+>   *poenae*.` With n. 8 rendered, p.238's eight-note register is fully consumed by c9 + c10.
+> - **Cap. X opens part-way down p.238's RIGHT column** and its first paragraph runs to the **foot of
+>   that column**, breaking at a **word boundary**: `…quod etiam sunt poena⁸ peccati. Speciali` /
+>   `namque modo peccata et poenae peccati dicuntur…` at the head of **p.239's LEFT column**
+>   (verified on the p.239 band).
+> - **p.238's and p.239's bands both already exist** (`raw/vision/vol5/p-238.png` gutter **1338**;
+>   `p-239.png` gutter **1200**, 63 px run, auto-measured by c9 with no constant). **p.240 must be
+>   extracted and auto-measured** if Cap. X reaches it — `extract-pages.py --volume vol5 --pages 240
+>   --dpi 450` then `colcrop.py vol5 240`, no constant.
+> - **⚠ p.239's footer total was NOT band-read by c9 and is NOT in `KNOWN_TOTALS` — c10 must read the
+>   register in full and feed it.** What c9 saw of the LEFT block while closing the runover test,
+>   orientation only, re-read it yourself at 450 dpi: it opens numbered `¹` and holds at least
+>   nn. 1–4 — n.1 `Rom. 1, 28: Tradidit illos Deus in reprobum sensum, ut faciant ea quae non
+>   conveniunt. Cfr. ibid. v. 24. et 26, ubi dicitur… — Pro *ignominiam* I P et 2 *ignorantiam*,
+>   aliae edd. *ignominiam vel ignorantiam*.`; n.2 `His verbis complectitur Magister in II. Sent.
+>   d. XXXVI. c. 1. sententiam August., Enarrat. in Ps. 57, 9. n. 18. Ibid. c. 1. et 3. habetur etiam
+>   sententia Gregorii… c. 24. n. 51… (Rom. 1, 26…)`; n.3 `Vide tom. II. pag. 826, nota 4… II. Sent.
+>   d. 36. per totam. — Superius fide S posuimus *libero* pro *liberae*.`; n.4 `Cfr. supra c. 1., et
+>   II. Sent. d. 35. per totam, ubi etiam` — **broken off at the block foot.**
+>   **Every digit there is a serif `1`/`4`, `3`/`5` candidate — none is settled by this note.**
+> - **★ RUNOVER c10 OWES, LIKELY POSITIVE: p.239's own GUTTER.** p.239's left footer block breaks off
+>   at n.4's `…ubi etiam`. Read p.239's right block's first line from its start and render n.4 joined
+>   if it continues there. **Also owed: the p.239 → p.240 page-crossing test** (both directions).
+>   **c9 logs `p.238 n.4:gutter` — c10 may NOT re-log it, and the p.238 → p.239 page-crossing test is
+>   already CLOSED NEGATIVE by c9** (p.238's n.8 closes complete; p.239's left block opens numbered).
+>
+> ### What p.238 taught (beyond the standing notes, all of which still hold)
+> - **★★ THE RUNNING HEAD'S ASYMMETRY IS NOW ATTESTED TWICE IN A ROW, IN THE SAME DIRECTION.**
+>   p.237's head reads `C. IX.` although Cap. VIII fills nine tenths of the page; **p.238's head reads
+>   `BREVILOQUII PARS III. C. X.` although Cap. IX fills roughly nine tenths of THAT page and Cap. X
+>   occupies only the last quarter of one column.** Two consecutive leaves where the head names the
+>   capitulum that *barely* reaches the page rather than the one that dominates it. **The head can
+>   confirm that a capitulum reaches a page; it can never show that one does not, and it is no guide
+>   at all to which capitulum owns the page's bulk. Read it in one direction only.**
+> - **★★ THE `II`→`H` FLATTENING IS SETTLED AS A SORT-CHOICE, NOT A DEFECT — p.238 PRINTS BOTH FORMS
+>   OF THE LETTER FOURTEEN LINES APART.** n.7's `substituimus cum ⟨two bare uprights⟩ T consequenda`
+>   (raw `cum II T`) is the crossbar-less sort — **tenth attestation**, read `cum H T` (cf. `D H T`,
+>   p.237 n.7). **But n.5 on the same page prints `H addit quod est carnis lascivia` with a perfectly
+>   formed, crossbarred H.** So the crossbarred form's presence on a page is **no evidence** that a
+>   bare-upright pair elsewhere on that page is a genuine `II`. Resolve every instance from the siglum
+>   set, every time.
+> - **★★ THE `1` vs `I` SPLIT APPEARED THREE TIMES INSIDE ONE NOTE (p.238 n.3), exactly as c8
+>   predicted.** `(Vat., 1, 3 et aliqui codd. …)` is the **flagged** serif upright = the EDITION
+>   siglum `1`; `A I Q S et 2` and `nonnulli codd., ut I L` are the **fully serifed roman `I`** =
+>   the CODEX siglum. The raw flattens all three to `I`. **Expect this to be permanent; make the call
+>   on the plate.**
+> - **★ A DIGIT THE BAND COULD NOT SETTLE, SETTLED FROM QUARACCHI'S OWN CROSS-CITATION.** p.238 n.2's
+>   `Eccli. 10, 15` is ink-broken at 900 dpi and reads `13` or `15` either way — **and the raw prints
+>   `10, 13`, which is WRONG.** Two independent checks close it: the quoted verse *Initium omnis
+>   peccati est superbia* **is** Vulgate Ecclus. 10:15, and Quaracchi cite it by that number
+>   themselves at `bonaventure_vol2_raw.txt` **L67896** (`Eccli. 10, 15: Quoniam initium omnis peccati
+>   est superbia`). **When the plate will not decide a digit, search the corpus for Quaracchi's own
+>   second citation of the same passage before flagging.**
+> - **★ A GENUINE PRINTER'S ERROR IN THE 1891 PLATE, PRESERVED NOT FIXED.** p.238's right column
+>   prints **`cum de-lectactione`** — `delectactione`, with an intrusive `c` — in `quia sensus rei
+>   appetibilis est cum delectactione`. Verified at 900 dpi; the raw agrees. **It stands in the Latin
+>   body as printed and is recorded in `## Notes`. A polish pass must not silently correct it.**
+> - **★ THE FOOTER-BLOCK SPLIT FELL *INSIDE* A NOTE AGAIN** (second occurrence, after p.236): p.238's
+>   left block holds nn. 1–4 with n. 4 broken **MID-WORD** (`Amor ergo… fu-` / `giens quod ei
+>   adversatur`), and the right block opens with its unnumbered continuation before nn. 5–8. The
+>   anchors happened to track the blocks exactly (nn. 1–4 left, nn. 5–8 right) — a **coincidence**,
+>   and worth nothing for the next page. **Read anchors, only anchors.**
+> - **★ A PAGE MARKER HAD TO MOVE *DOWN* FOR THE SECOND CHUNK RUNNING.** The p.237/238 break falls
+>   inside this chunk's FIRST paragraph (and mid-word), so `<!-- page 238 -->` was placed at the
+>   nearest paragraph boundary **below** and the true break recorded in `## Notes`. **For a capitulum
+>   that opens low on a page this is now the normal case, not a branch.**
+> - **★ The raw's grade was LEVEL across p.238's two columns** — after p.235 (right worse), p.236
+>   (level), p.237 (right better). p.238's body is DEGRADED-BUT-USABLE in both columns and a clear
+>   step better than p.237's left; **the footer is worse in the LEFT block, which is where all four
+>   numeric-citation notes fall.** And the raw turned the chapter heading `Cap. IX.` into **`Cap. LX.`**
+>   — **a chapter number read off the raw alone is worthless.**
+> - **Gutter: p.239 = 1200 (63 px run)**, auto-measured, confirmed visually. Series now 1194 · 1337 ·
+>   1211 · 1341 · 1210 · 1331 · 1209 · 1338 · **1200** — p.239 sits at the BOTTOM of the odd cluster,
+>   nine px below p.237. **Parity stays spent; measure every page.**
+> - **Runovers: ONE POSITIVE, one negative.** p.238's own **gutter is POSITIVE** (n.4, mid-word
+>   `fu-`/`giens`) and is on c9's ledger line. **p.238 → p.239 is NEGATIVE, closed from both sides**
+>   (p.238's n.8 closes complete; p.239 was extracted and its left block opens numbered `¹`).
+>   p.237 → p.238 was already closed by c8 and was **not re-logged**.
+> - **No `[?]` flags.** Band corrections c9 had to make: n.2's `Eccli. 10, 15` (raw `10, 13`) and
+>   `pag. 146` / `nota 7` / `d. 42. dub. 3. et 4.`; n.3's `L M O` (raw `L M 0`) and the three
+>   uprights above; n.4's `n. 11` (raw `n. 1 1.`) and `nota 5` (raw `iiota S`); n.6's `L M O V est`
+>   (raw `L M 0 V fs<`); n.7's `cum H T` (raw `cum II T`). **Also preserved as printed: the two
+>   members of the *appetit*/*refugit* division are punctuated ASYMMETRICALLY** — the second opens
+>   with Quaracchi's ` — `, the first has no dash. **A polish pass must not supply it.** And
+>   `Ratio autem ad intelligentiam praedictorum haec est: quia,` carries the COLON here, confirming
+>   p.237's full stop as a genuine one-off.
 >
 > ## ✅ `bon-brev-p3-c8` DONE (2026-07-29) — commit `1692ac5`
 > Breviloquium **Pars III, Cap. VIII, *De origine peccatorum actualium*** — printed
@@ -560,7 +666,7 @@
 > protected action that always gets its own explicit OK. **Two things are queued and both need
 > Wilson:**
 > 1. **The deploy itself.** Prod is `bonaventure.wrootpress.com`; last deployed `39c7bc5`
->    (Pars II c1), **serving only through printed p.219** — pp. 220–237 are written, committed
+>    (Pars II c1), **serving only through printed p.219** — pp. 220–238 are written, committed
 >    and unpublished. Recipe in CLAUDE.md: `node scripts/build-content.mjs` → `npx vercel build
 >    --prod` → `npx vercel deploy --prod --prebuilt --archive=tgz`. ⚠ The archive is ~97 MB and
 >    has died mid-upload once at 100% — **retry the deploy, do NOT rebuild.**
@@ -582,22 +688,25 @@
 > Also unpushed: `master` is ahead of `origin/master` by this session's commits. Pushing is
 > likewise protected and needs its own OK; it does not have to wait for the deploy.
 >
-> ## ★ NEXT CHUNK — `bon-brev-p3-c9` (Pars III, Cap. IX, *De origine et distinctione capitalium peccatorum*)
+> ## ★ NEXT CHUNK — `bon-brev-p3-c10` (Pars III, Cap. X, *De origine et qualitate peccatorum poenalium*)
 >
-> Opens with a **two-line opener at the foot of p.237's RIGHT column** (raw ~L44488) and continues
-> **MID-WORD** (`capi-` / `talia`) at the head of **p.238's LEFT column**. **p.238's bands already
-> exist** (gutter **1338**, auto-measured by c8); **p.239 must be extracted and auto-measured** if
-> Cap. IX reaches it. Establish the end positively from the `Cap. X.` heading on the band —
-> **and note c8's finding that a running head can name FEWER capitula than a page hosts, so it is
-> not usable as evidence in that direction.** The full hand-off — **nothing to pick up**, p.238's
-> unread footer register (feed `KNOWN_TOTALS` yourself), the **likely-positive p.238 gutter
-> runover** breaking mid-word at n.4's `Amor ergo… fu-`, and the `1`/`I` split appearing twice in
-> p.238 n.3 — is in the `p3-c8` block at the top of this file.
+> Opens **part-way down p.238's RIGHT column** (raw ~L44622) under `Cap. X. / De origine et qualitate
+> peccatorum poenalium.` and runs to the **foot of that column**, breaking at a **word boundary**
+> (`…poena⁸ peccati. Speciali` / `namque modo peccata et poenae peccati dicuntur…`) at the head of
+> **p.239's LEFT column**. **p.238's and p.239's bands already exist** (gutters **1338** and **1200**,
+> both auto-measured); **p.240 must be extracted and auto-measured** if Cap. X reaches it. Establish
+> the end positively from the `Cap. XI.` heading on the band — **and note that the running head has
+> now named the wrong-weight capitulum on two consecutive leaves, so it is not usable as evidence in
+> that direction.** The full hand-off — **p.238 n.8 to pick up**, p.239's unread footer register
+> (feed `KNOWN_TOTALS` yourself), and the **likely-positive p.239 gutter runover** breaking at n.4's
+> `…ubi etiam` — is in the `p3-c9` block at the top of this file.
 >
 > **Pars III as actually built so far:** c1 231 · c2 231–232 · c3 232–233 · c4 233–234 ·
-> c5 234–235 · c6 235 · c7 236 · **c8 236–237 (the first chunk to own an entire page's register
-> alone — all nine of p.237's notes — while a second capitulum opens on that same page and claims
-> none)**. (Index opening pages held for all eight.)
+> c5 234–235 · c6 235 · c7 236 · c8 236–237 (the first chunk to own an entire page's register alone —
+> all nine of p.237's notes — while a second capitulum opens on that same page and claims none) ·
+> **c9 237–238 (the mirror case: it OPENS on p.237 and claims none of that page's notes, then owns
+> seven of p.238's eight; and the first MID-WORD page break in Pars III)**.
+> (Index opening pages held for all nine.)
 >
 > **Pars III has 11 capitula**, verified against the volume's own index (raw **L93816–93860**)
 > and recorded in full in `bon-brev-p3-c1`'s `## Notes`. Index opening pages: c1 231 · c2 231
