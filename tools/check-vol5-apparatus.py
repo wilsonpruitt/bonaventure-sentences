@@ -108,7 +108,14 @@ KNOWN_TOTALS = {
               # nn.6-10, both closing complete. nn.1-2 anchor in Pars III
               # Cap. XI's closing paragraph (owned by p3-c11); nn.3-10 anchor
               # in PARS QUARTA Cap. I and are a legitimate forwarded PENDING
-              # until bon-brev-p4-c1 lands.
+              # until bon-brev-p4-c1 lands (which it now has).
+    242: 6,   # band-read in full by p4-c1, split by CAPITULUM, not by block:
+              # left block nn.1-4 with n.4 broken off MID-WORD at "-- Pro his ta-",
+              # right block opening UNNUMBERED with "men 1, 2, 3 cum pluribus
+              # codd. ..." then nn.5-6. nn.1-2 anchor in Pars IV Cap. I (owned by
+              # p4-c1); nn.3-6 anchor in Cap. II and are a legitimate forwarded
+              # PENDING until bon-brev-p4-c2 lands. The p.242 GUTTER RUNOVER is
+              # POSITIVE and is p4-c2's to render and to log.
 }
 
 
