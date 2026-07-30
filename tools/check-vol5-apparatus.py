@@ -160,6 +160,23 @@ KNOWN_TOTALS = {
               # forwarded PENDING until bon-brev-p4-c6 lands. ** n.9 BREAKS OFF
               # at "-- Post pauca pro potest": the p.246 -> p.247 PAGE-CROSSING
               # RUNOVER IS POSITIVE and is p4-c6's to render and to log. **
+              # CLOSED by bon-brev-p4-c6, which owns nn.6-9 and logs the
+              # page-crossing runover.
+    247: 8,   # band-read in full by p4-c6, split by CAPITULUM one note BELOW a
+              # block break that coincides with the anchor break: left block
+              # opens UNNUMBERED with p.246 n.9's tail ("A possunt, et habent
+              # pro habet. Subinde cum A B C F G I K L M N O et 2 vocibus
+              # dupliciter cognosci interseruimus esse et.") then nn.1-4,
+              # closing complete; right block opens NUMBERED at n.5 and carries
+              # nn.5-8, closing complete. Anchors 4/4 (nn.1-4 left, nn.5-8
+              # right) = blocks 4/4, but the Cap. VI / Cap. VII boundary falls
+              # BETWEEN nn.5 AND 6, i.e. inside the right block: n.5 anchors in
+              # Cap. VI (owned by p4-c6) and nn.6-8 anchor in Cap. VII and are
+              # a legitimate forwarded PENDING until bon-brev-p4-c7 lands. The
+              # p.247 GUTTER RUNOVER is NEGATIVE (logged by p4-c6); the
+              # p.247 -> p.248 test is negative from the p.247 side only and
+              # stays open for p4-c7, which owns n.8. The unnumbered
+              # continuation is p.246 n.9's tail and is NOT counted here.
 }
 
 
