@@ -1,82 +1,87 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ★★★ VOL V (TOME V — OPUSCULA) IS THE ACTIVE FRONT. **THE FRONT IS `bon-brev-p4-c3`.**
+> # ★★★ VOL V (TOME V — OPUSCULA) IS THE ACTIVE FRONT. **THE FRONT IS `bon-brev-p4-c4`.**
 >
-> ## ✅ `bon-brev-p4-c2` DONE (2026-07-30) — commit `aa2499a`
-> Breviloquium **Pars IV, Cap. II, *De incarnatione quantum ad unionem naturarum*** — printed
-> **pp. 242–243**. It opens **part-way down p. 242's LEFT column**, under `Cap. II. / De incarnatione
-> quantum ad unionem naturarum.` and immediately below Cap. I's last line, with `Circa ipsum autem
-> Verbum incarnatum tria nobis consideranda occurrunt…`; fills the rest of that column to `…fit unio,
-> ut quidquid dicitur de Filio Dei dicatur de`; crosses p. 242's gutter at a **WORD boundary**
-> (`filio hominis, et e converso…`); fills the whole of p. 242's RIGHT column to `…mediatio autem
-> proprie convenit Dei Filio: ideo`; breaks across the leaf at a **WORD boundary** into the head of
-> **p. 243's LEFT column** (`et incarnatio. Mediatoris namque est esse medium…`); and closes
-> **part-way down p. 243's left column** at `…contra regulam praehabitam propter causam praedictam.`
-> **★ The end is fixed POSITIVELY from the `Cap. III. / De incarnatione quantum ad modum.` heading
-> standing immediately below it in the same column. Cap. II does NOT reach p. 243's gutter.**
-> **★ BOTH breaks fall MID-SENTENCE at word boundaries, and the leaf break is the dangerous one:**
-> `…convenit Dei Filio: ideo` reads as a plausible sentence-end and `et incarnatio.` as a plausible
-> sentence-start, so a chunk built from p. 242 alone would have closed grammatically and been wrong.
-> Apparatus **7 entries** — p. 242 nn. 3–6 (the forwarded PENDING, **closing p. 242's register**) and
-> p. 243 nn. 1–3; **p. 243 nn. 4–9 forwarded to `bon-brev-p4-c3`.**
-> `check-vol5-apparatus.py` **all checks passed**, p. 243 fed to `KNOWN_TOTALS` as **9**;
-> `polish-style-scan --volume 5` CLEAN; `check-vol5-census.py` rosters agree; build **1974/1974**.
+> ## ✅ `bon-brev-p4-c3` DONE (2026-07-30) — commit `5aeff3b`
+> Breviloquium **Pars IV, Cap. III, *De incarnatione quantum ad modum*** — printed **pp. 243–244**.
+> It opens **part-way down p. 243's LEFT column**, under `Cap. III. / De incarnatione quantum ad
+> modum.` and immediately below Cap. II's last line, with `De modo incarnationis hoc tenendum est,
+> quod Angelo nuntiante beatissimae Virgini Mariae…`; fills the rest of that column to `…et
+> virtutem, operari perfecte.`; crosses p. 243's gutter at a **PARAGRAPH boundary** (the *Ratio*
+> closes the left column and `Quoniam ergo incarnatio est a primo principio…` opens the right);
+> fills the whole of p. 243's RIGHT column to `…debuit esse in prole, hinc est, quod in`; breaks
+> across the leaf at a **word boundary MID-CLAUSE** into the head of **p. 244's LEFT column**
+> (`instanti conceptionis non tantum fuit seminis decisio…`); and closes **part-way down p. 244's
+> left column** at `…iuxta quod conceptus ille mirabilis exigebat.`
+> **★ The end is fixed POSITIVELY from the `Cap. IV. / De incarnatione quantum ad plenitudinem
+> temporum.` heading standing immediately below it in the same column. Cap. III does NOT reach
+> p. 244's gutter.**
+> Apparatus **8 entries** — p. 243 nn. 4–9 (the forwarded PENDING, **closing p. 243's register**) and
+> p. 244 nn. 1–2; **p. 244 nn. 3–7 forwarded to `bon-brev-p4-c4`.**
+> `check-vol5-apparatus.py` **all checks passed**, p. 244 fed to `KNOWN_TOTALS` as **7**;
+> `polish-style-scan --volume 5` CLEAN; `check-vol5-census.py` rosters agree; build **1975/1975**.
 > **No `[?]` flags. ★ Cite the scripts, never a number copied out of this file.**
 >
-> ## ▶ THE FRONT — `bon-brev-p4-c3`, Cap. III, *De incarnatione quantum ad modum*
+> ## ▶ THE FRONT — `bon-brev-p4-c4`, Cap. IV, *De incarnatione quantum ad plenitudinem temporum*
 >
-> ### Hand-off INTO `bon-brev-p4-c3`
-> - **PICK UP: p. 243 footer notes 4–9 — SIX entries.** All anchor below the `Cap. III.` heading;
->   verified on the band by `p4-c2`, which owns only nn. 1–3. `check-vol5-apparatus.py` reports
->   nn. 4–9 as a legitimate PENDING, not a GAP. Content, **for orientation only — read each at
->   450 dpi and settle every digit and siglum yourself**: n. 4 `Vide Luc. 1, 26. seqq. — Seq.
->   sententia est ex August., Serm. 196. (alias 59. de Diversis) c. 1. n. 1. Cfr. Serm. 51.
->   (alias 63. de Diversis), c. 11. n. 18. — De hoc cap. vide III. Sent. d. 3-5. — Superius pro
->   *perficiendum* I M V *complendum*.`; n. 5 `Multi codd. non repetunt *decet eius* nec *operari*,
->   quod | etiam paulo post omittitur a pluribus codd. Superius ante *communissimo* et *completissimo*
->   edd. et plures codd. repetunt *modo*.` (**broken across the gutter — see the runover below**);
->   n. 6 `Vide supra p. III. c. 2-7. — Post *originale* 2 cum pluribus codd. addit *peccatum*, II
->   legit *originalem culpam*.`; n. 7 `Secundum Gregor. Vide tom. IV. pag. 37, nota 4. — Inferius pro
->   *concupiscibiliter* E I O P Q T U *concupiscentialiter*, et pro *sanitatem* K *salutem*.`;
->   n. 8 `Cfr. Col. 1, 20. — Vide III. Sent. d. 2. dub. 4.`; n. 9 `Diffusius explicatur hoc III. Sent.
->   d. 4. a. 1. q. 1. — Pro *peracta* P *operata*.`
->   **Every digit there is a serif `1`/`4`, `3`/`5` candidate — none is settled by this note.** n. 4
->   alone carries `Serm. 196.` / `alias 59.` / `c. 1. n. 1.` / `Serm. 51.` / `alias 63.` / `c. 11.
->   n. 18.` / `d. 3-5.` — seven citations in three lines — **and `I M V` in the same entry is a run of
->   CODEX sigla, so the upright there is the roman `I`, not the edition `1`.** n. 6's `II` and n. 7's
->   `E I O P Q T U` are the flattening traps; **`p. III.` in n. 6 is this work's PARS III, not a page.**
-> - **★ CAP. III OPENS PART-WAY DOWN p. 243's LEFT COLUMN**, under `Cap. III. / De incarnatione
->   quantum ad modum.`, with `De modo incarnationis hoc tenendum est, quod Angelo nuntiante
->   beatissimae Virgini Mariae mysterium incarnationis perficiendum in ipsa, Virgo credidit, appetiit
->   et consensit; Spiritus sanctus in eam supervenit⁴ ad sanctificandum et fecundandum…`
->   **No incoming body-text seam to reconstruct.**
-> - **★★ CAP. III RUNS PAST p. 243 — its right column ends MID-SENTENCE** at `…Quia completio debita
->   debuit esse in prole, hinc est, quod in`. **p. 244 MUST be extracted and auto-measured FRESH,
->   with no constant**, and Cap. III's end fixed POSITIVELY from the `Cap. IV.` heading there:
->   `python3.11 tools/extract-pages.py --volume vol5 --pages 244 --dpi 450` then
->   `python3.11 tools/colcrop.py vol5 244`.
-> - **p. 243's bands already exist** (`raw/vision/vol5/p-243.png`). **Gutter 1186 — ADOPTED AFTER
->   RE-PROFILING, NOT the default.** `colcrop.py vol5 243` with no constant returns **1180 on a 50 px
->   run**, unflagged; seven further row windows return 1183 · 1185 · 1186 · 1188 · 1188 · 1190 · 1192
->   (runs 53–58 px), every one of them **above** the default. 1186 was adopted and confirmed visually.
->   **The default was 6 px low — the second quiet default-vs-true discrepancy in three leaves.**
-> - **p. 243's nine-note register IS band-read and IS in `KNOWN_TOTALS` (243: 9).**
-> - **★ RUNOVERS `p4-c3` OWES: p. 243's OWN GUTTER — POSITIVE, yours to RENDER and to LOG — and the
->   p. 243 → p. 244 page-crossing test, both directions.** p. 243's left block breaks off inside
->   **n. 5** at a **WORD boundary** (`…non repetunt decet eius nec operari, quod`), and its right block
->   opens **UNNUMBERED** with `etiam paulo post omittitur a pluribus codd. Superius ante com|munissimo
->   et completissimo edd. et plures codd. repetunt modo.` before carrying nn. 6–9. **n. 5 must be
->   rendered joined.** `p4-c2` logs `p.242 n.4:gutter`; **the p. 242 → p. 243 page-crossing test is
->   already CLOSED NEGATIVE from both sides — do not re-log it.** p. 243's right block closes complete
->   at n. 9 (`— Pro peracta P operata.`), so the **p. 243 → p. 244 test is negative from the p. 243
->   side already; you must still run the p. 244 side.**
+> ### Hand-off INTO `bon-brev-p4-c4`
+> - **PICK UP: p. 244 footer notes 3–7 — FIVE entries.** All anchor below the `Cap. IV.` heading;
+>   verified on the band by `p4-c3`, which owns only nn. 1–2. `check-vol5-apparatus.py` reports
+>   nn. 3–7 as a legitimate PENDING, not a GAP. **★ ONLY n. 3's LOCATION was personally verified by
+>   `p4-c3`** — it anchors on `iuxta quod dicit Apostolus³`, at the Galatians quotation, in
+>   **p. 244's LEFT column**. **nn. 4–7 are OWNERSHIP claims only; their columns and anchor words
+>   were NOT read and must be re-derived from the band.** Content, **for orientation only — read each
+>   at 450 dpi and settle every digit and siglum yourself**: n. 3 `Gal. 4, 4. seq. — Vide de hoc cap.
+>   III. Sent. d. 1. a. 2. q. 4. et dub. 1. — Superius pro *a principio* [2 cum aliquot | codd. *a
+>   primo principio*] Vat., 1 et 3 *in principio*, et pro *saeculorum* B *temporum*.` (**broken across
+>   the gutter — see the runover below**); n. 4 `Pro *morbum* 1 *se aegrotantem*.`; n. 5 `Secundum
+>   Hug. a S. Vict.; cfr. IV. Sent. d. 1. p. I. q. 5. fundam. 1. — Superius pro *dicebant* non pauci
+>   codd. et 2 *dicebat* (homo), et pro *non deest… sed deest* A G M N T *non deesse… sed deesse*.`;
+>   n. 6 `Vat., 1 et 3 *et amatum gratiosius susciperetur et susceptum sollicitius servaretur*.`;
+>   n. 7 `Cfr. tom. II. pag. 330, nota 5. in fine.` **Every digit there is a serif `1`/`4`, `3`/`5`
+>   candidate.** n. 3 alone carries `Gal. 4, 4.` (two glyphs that must be read AGAINST each other —
+>   Galatians 4, 4 is the *plenitudo temporis* verse quoted in the body, so BOTH are the real `4`),
+>   `d. 1. a. 2. q. 4. et dub. 1.` and the edition run `Vat., 1 et 3`; **n. 5's `A G M N T` is a run
+>   of CODEX sigla and its `2` is an EDITION — both species in one entry.**
+> - **★ CAP. IV OPENS PART-WAY DOWN p. 244's LEFT COLUMN**, under `Cap. IV. / De incarnatione
+>   quantum ad plenitudinem temporum.`, with `De tempore vero incarnationis hoc tenendum est, quod
+>   licet Deus a principio potuerit incarnari, noluit tamen nisi in fine saeculorum, praecedente lege
+>   naturae et lege figurae, post Patriarchas et Prophetas, quibus et per quos fuit incarnatio
+>   repromissa. — Post quos incarnari dignatus est tanquam in *fine temporum* et *plenitudine*, iuxta
+>   quod dicit Apostolus³: …` **No incoming body-text seam to reconstruct.**
+> - **★★ CAP. IV RUNS PAST p. 244 — its right column ends MID-WORD** at `…in quo primum principium
+>   coniun`. **p. 245 MUST be extracted and auto-measured FRESH, with no constant**, and Cap. IV's end
+>   fixed POSITIVELY from the `Cap. V.` heading there:
+>   `python3.11 tools/extract-pages.py --volume vol5 --pages 245 --dpi 450` then
+>   `python3.11 tools/colcrop.py vol5 245`.
+> - **p. 244's bands already exist** (`raw/vision/vol5/p-244.png`). **Gutter 1367 — ADOPTED AFTER
+>   RE-PROFILING, NOT the default.** `colcrop.py vol5 244` with no constant returns **1346 on a 10 px
+>   run WITH the ⚠ WEAK RUN flag — a FAILED measurement, not a quiet one.** Rows 35–75 %, 45–85 %,
+>   50–85 % and 50–92 % all fail identically at 1346/10–11 px; every window reaching the UPPER body
+>   rows is healthy and agrees — rows 30–70 % **1368/59**, 40–65 % **1368/59**, 20–60 % **1367/60**,
+>   25–55 % **1366/63**, 15–45 % **1366/62**, 12–40 % **1366/62**, 10–45 % **1366/62**, 55–80 %
+>   **1371/62**. **1367 adopted and confirmed visually. ★ The cause is p. 240's cause and it is now
+>   CONFIRMED AS RECURRING: p. 244's marginal glosses sit low IN THE GUTTER, choking the blank run in
+>   the low body rows while the upper rows stay clean. When `colcrop` flags a weak run on a Vol V
+>   page, MOVE THE WINDOW UP before assuming a full-width display heading.**
+> - **p. 244's seven-note register IS band-read and IS in `KNOWN_TOTALS` (244: 7).**
+> - **★ RUNOVERS `p4-c4` OWES: p. 244's OWN GUTTER — POSITIVE, yours to RENDER and to LOG — and the
+>   p. 244 → p. 245 page-crossing test, both directions.** p. 244's left block breaks off inside
+>   **n. 3** at `— Superius pro *a principio* [2 cum aliquot`, at a **WORD boundary INSIDE A
+>   SQUARE-BRACKETED LEMMA** (the first of its kind), and its right block opens **UNNUMBERED** with
+>   `codd. a primo principio] Vat., 1 et 3 in principio, et pro saeculorum B temporum.` before
+>   carrying nn. 4–7. **n. 3 must be rendered joined.** `p4-c3` logs `p.243 n.5:gutter`; **the
+>   p. 243 → p. 244 page-crossing test is already CLOSED NEGATIVE from both sides — do not re-log
+>   it.** p. 244's right block closes complete at n. 7 (`Cfr. tom. II. pag. 330, nota 5. in fine.`),
+>   so the **p. 244 → p. 245 test is negative from the p. 244 side already; you must still run the
+>   p. 245 side.**
 > - Gutters so far: p.231=1194 · 232=1337 · 233=1211 · 234=1341 · 235=1210 · 236=1331 · 237=1209 ·
->   238=1338 · 239=1200 · 240=1338 · **241=1228** · **242=1361** · **243=1186**. **Parity is not merely
->   spent — the odd-page cluster has now been broken in BOTH directions across three consecutive
->   leaves (241 above it, 243 below it) around the highest even value ever recorded. Measure every new
->   page, and RE-PROFILE any run under ~60 px.**
+>   238=1338 · 239=1200 · 240=1338 · **241=1228** · **242=1361** · **243=1186** · **244=1367**.
+>   **Parity is spent in both directions and now at both extremes: p. 243 set the lowest odd value
+>   ever recorded and p. 244, the very next leaf, set the highest even one. Measure every new page,
+>   RE-PROFILE any run under ~60 px, and treat a FLAGGED sub-15 px run as a failure outright.**
 >
-> ### Method notes earned across Pars III and Pars IV capp. I–II (all still load-bearing)
+> ### Method notes earned across Pars III and Pars IV capp. I–III (all still load-bearing)
 > 1. **★★ WHITE SPACE AT A COLUMN FOOT IS NEVER A BOUNDARY.** p. 240's right column showed a clear
 >    band of blank paper above the footnote rule and the capitulum still ran onto p. 241. Establish
 >    every end **POSITIVELY**, from the next `Cap. N.` or `PARS` heading on the band.
@@ -88,50 +93,77 @@
 >    a unit reaches a page; it can never show that one does not.**
 > 4. **★ A PAGE BREAK OR A GUTTER CROSSING CAN FALL MID-WORD** (`capi-`/`talia`; `di-`/`catur`), and
 >    a footer runover likewise (p. 242's `ta-`/`men`). **Never let a boundary end a word for you.**
-> 5. **★ A RUNOVER'S BREAK POSITION CARRIES NO INFORMATION — six kinds in six leaves.** p. 238
+> 5. **★ A RUNOVER'S BREAK POSITION CARRIES NO INFORMATION — seven kinds in seven leaves.** p. 238
 >    mid-word · p. 239 word boundary · p. 240 punctuation boundary · p. 241 no break at all · p. 242
->    mid-word · p. 243 word boundary again but mid-clause after a comma. **The only reliable test is:
->    does the next block's first line carry a numeral? Read it from its start, from BOTH sides.**
+>    mid-word · p. 243 word boundary but mid-clause after a comma · **p. 244 word boundary INSIDE A
+>    SQUARE-BRACKETED EDITORIAL LEMMA (`[2 cum aliquot` / `codd. a primo principio]`), the first of
+>    its kind.** **The only reliable test is: does the next block's first line carry a numeral? Read
+>    it from its start, from BOTH sides.**
 > 6. **★★ THE FOOTER BLOCK'S EXTENT TELLS YOU NOTHING ABOUT WHICH COLUMN — OR WHICH UNIT — A NOTE'S
->    ANCHOR IS IN.** Eight configurations so far: overrun (pp. 220, 221, 226, 233, 239) · underrun
+>    ANCHOR IS IN.** Nine configurations so far: overrun (pp. 220, 221, 226, 233, 239) · underrun
 >    (pp. 234, 237) · coincidence (pp. 231, 232, 235, 240) · split-inside-a-note (pp. 236, 238, 240,
->    243) · both at once (p. 239) · split by PARS (p. 241) · split by CAPITULUM (p. 242) ·
->    **split by CAPITULUM two notes ABOVE a block break that is itself inside a note (p. 243)**.
->    **Read anchors, only anchors.**
+>    243, 244) · both at once (p. 239) · split by PARS (p. 241) · split by CAPITULUM (pp. 242, 243,
+>    244) · split by CAPITULUM two notes ABOVE a block break that is itself inside a note (p. 243) ·
+>    **the ANCHOR split and the BLOCK split differing by one note inside a single page (p. 243:
+>    anchors divide 2 / 4 across the gutter, blocks divide 5 / 4)**. **Read anchors, only anchors.**
 > 7. **★★ A FORWARDED ANCHOR LOCATION IS ORIENTATION, NEVER EVIDENCE — and `p4-c2` caught one wrong.**
 >    `p4-c1` forwarded p. 242 n. 4's anchor as standing on `assumtio carnis a Deitate` in the LEFT
 >    column; on the band it stands on `vel clauditur negatio` two lines into the **RIGHT** column.
 >    Ownership was unaffected, but **the hand-off was wrong about the page's geometry and only a
 >    re-read caught it.** Re-derive every forwarded anchor.
-> 8. **★★ A GUTTER MEASUREMENT THAT *PASSES* CAN STILL BE WRONG, AND IT HAS NOW HAPPENED TWICE.**
->    `colcrop`'s ⚠ WEAK RUN flag is a floor, not a warrant. p. 240 failed loudly (1362/13 px, flagged).
->    **p. 241 failed QUIETLY: 1218 on 39 px, unflagged, 10 px off the true 1228. p. 243 failed quietly
->    again: 1180 on 50 px, unflagged, 6 px off the 1186 that seven wider windows agree on.** The
->    common tell in both is a run **well under the ~60 px this volume normally gives** — p. 242's
->    61 px is what a sound measurement looks like. **Re-profile any sub-60 px run before trusting it.**
+> 8. **★★ THE DEFAULT GUTTER WINDOW HAS NOW FAILED ON FOUR OF THE LAST FIVE LEAVES — TWICE LOUDLY,
+>    TWICE QUIETLY.** `colcrop`'s ⚠ WEAK RUN flag is a floor, not a warrant. **Loud:** p. 240
+>    (1362/13 px, flagged) and **p. 244 (1346/10 px, flagged — 21 px off the true 1367)**.
+>    **Quiet:** p. 241 (1218/39 px, unflagged, 10 px off the true 1228) and p. 243 (1180/50 px,
+>    unflagged, 6 px off the 1186 seven wider windows agree on). The tell in the quiet cases is a run
+>    **well under the ~60 px this volume normally gives** — p. 242's 61 px is what a sound
+>    measurement looks like. **Re-profile any sub-60 px run before trusting it, and treat a FLAGGED
+>    sub-15 px run as a failure outright. ★ The cause of the loud failures is now confirmed and it
+>    RECURS: marginal glosses sitting low IN THE GUTTER (pp. 240, 244) choke the blank run in the low
+>    body rows while the upper rows stay clean — so MOVE THE WINDOW UP first, before assuming a
+>    full-width display heading.**
 > 9. **★ A full-width display heading only breaks the measurement if it falls INSIDE the measured
 >    rows** — `PARS QUARTA` crosses p. 241's gutter and did not. **Expect the pp. 201/219 failure at a
 >    WORK opening; do not assume it at a part opening.**
 > 10. **★★ THE RAW'S GRADE MOVES WITHIN A PAGE — per page, per region, per column-run**, and it moves
->    a long way. p. 242's right column runs ~0.65 garbles per line; **p. 243's left column, one leaf
->    later, runs ~1.4** — more than double, in the same work, the same hand, the same column position.
->    **Grade the run you are actually setting from.** The raw also **cascade-drops short phrases at
->    anchors** (p. 239 lost `: hinc est, quod`) — bodies are re-set line-by-line from the bands, never
->    corrected off the raw. **The raw also mis-numbers MARGINAL GLOSSES** (p. 242 printed `Thesis 3.`
->    for the plate's `Thesis 2.`), so its glosses are no more trustworthy than its digits.
-> 11. **★★ THE `II`→`H` FLATTENING IS A TYPEFACE FACT and the plate is inconsistent within itself.**
->    **Resolve every instance from the siglum set, every time — never from the glyph.**
+>    a long way, in BOTH directions and across a single gutter. p. 242's right column runs ~0.65
+>    garbles per line; p. 243's left column ~0.85 and **its own right column ~1.05 — worse in the
+>    right column, which is the reverse of p. 242's leaf**; and **p. 244's left column ~1.25, the
+>    weakest run in Pars IV so far.** **Grade the run you are actually setting from.** The raw also
+>    **cascade-drops short phrases at anchors** (p. 239 lost `: hinc est, quod`) — bodies are re-set
+>    line-by-line from the bands, never corrected off the raw. **The raw also shatters MARGINAL
+>    GLOSSES and mis-numbers them** (p. 242 printed `Thesis 3.` for the plate's `Thesis 2.`; p. 243's
+>    `Thesis 1.` came through as `iis !.`; p. 244's `Modi 4 producendi hominem.` as
+>    `Mnrii 4 |iro-duicTidi ho-miuciu.`). **★★ AND IT SHATTERS CHAPTER HEADINGS TOO — p. 244's
+>    `Cap. IV.` prints in the raw as `Cah. IV.`, the first Breviloquium chapter heading in five
+>    leaves the raw has damaged, and the one a whole chunk boundary rested on. Set every heading
+>    from the band; `Cah.` is exactly the token a reader dismisses as noise.**
+> 11. **★★ THE `II`→`H` FLATTENING IS A TYPEFACE FACT and the plate is inconsistent within itself —
+>    now demonstrated on a SINGLE OPENING.** p. 243 n. 6's `II legit originalem culpam` prints as two
+>    clean separate uprights with no crossbar; p. 244 n. 2's `Anselm., II. Cur Deus homo` prints with
+>    the crossbar and reads as `H`. **Resolve every instance from the siglum set and from sense, every
+>    time — never from the glyph.** (p. 244 n. 2 is settled by sense: *Cur Deus homo* **II**, c. 8 is
+>    the chapter on the four modes of producing man, which is what the body argues.) **⚠ And note that
+>    a genuine CODEX `H` does exist in this apparatus (pp. 220, 228) — the flattening is not a licence
+>    to read every `H` as `II`.** Where a `II`'s referent cannot be settled from the page (p. 243
+>    n. 6), transcribe the siglum and say so; a siglum is reproduced, not interpreted.
 > 12. **★★ THE `1` (EDITION) vs `I` (CODEX/BOOK/PART) SPLIT IS PERMANENT, and p. 242 n. 5 put ALL
 >    THREE SPECIES IN ONE ENTRY** — `Ed. 1` (edition), `I. Sent.` (book), `p. II.` (pars) — with the
 >    raw getting the roman `II` right and the roman `I` wrong six words apart. **Fourteenth leaf.**
 >    There is never an edition `1` inside a run of codex letters.
 > 13. **★★ RAW CITATION DIGITS ARE NOT TRUSTWORTHY AND CAN BE SETTLED FROM SENSE AND FROM QUARACCHI'S
 >    OWN PARALLEL CITATIONS.** Fixes so far: `Eccli. 10, 15` · `d. 35` · `pag. 825` · `p. I.` ·
->    `c. 11.` · `c. 17.` · `excepta 2` · `c. 55. n. 110.` · `nota 5.` · `et 14.` · **`c. 5-7.` (raw
->    `c. 3-7`; Pars IV's own capitula table admits no other reading — capp. V–VII are the *plenitudo
->    charismatum*)** · **`pag. 205, nota 7.` (raw `pag. 203`; p. 205 is where the Dionysian
->    *substantia / virtus / operatio* division stands).** **Where a citation's sense can be tested,
->    test it.** Four of the last five fixes were a `3`/`5`.
+>    `c. 11.` · `c. 17.` · `excepta 2` · `c. 55. n. 110.` · `nota 5.` · `et 14.` · `c. 5-7.` (raw
+>    `c. 3-7`) · `pag. 205, nota 7.` (raw `pag. 203`) · **`alias 59. de Diversis` (p. 243 n. 4; raw
+>    `alias 39.` — the bar is flat and the bowl closed, and the same `5` recurs three words later in
+>    `Serm. 51.`)** · **`nota 4.` and `dub. 4.` and `d. 4.` (p. 243 nn. 7–9; raw `nota l.`, `dub. i.`,
+>    `d. i.`).** **Where a citation's sense can be tested, test it** — Luke 1, 26 is the Annunciation,
+>    Col. 1, 20 is *caelestia et terrestria*, Gal. 4, 4 is *plenitudo temporis*, III *Sent.* d. 4 a. 1
+>    q. 1 asks whether the conception is attributed to the Holy Spirit, *Cur Deus homo* II c. 8 gives
+>    the four modes. **★ THE CONTROLLING CONTRAST, and the reason these are decidable at all: the
+>    flagged `1` (angled top flag, closed stem, no counter) against the true `4` (crossbar, open
+>    triangular counter). p. 243 nn. 8–9 print both within six words of each other — look for a
+>    same-line contrast before deciding any upright.**
 > 14. **Genuine plate errors and editorial pointing are preserved as printed and flagged in
 >    `## Notes`** (`delectactione`, p. 238; `ut; sicut genus humanum…`, p. 242; **`Cfr. III, Sent.`
 >    with a COMMA in p. 242 n. 4, against `Cfr. III. Sent.` with a period in p. 241 n. 3 and p. 243
@@ -140,16 +172,23 @@
 >    final `-tio` is an unreadable blot and the body two lines above settles it**). **Do not collapse
 >    the two rules, and do not harmonise a body/apparatus divergence.**
 > 15. **The printer's signature `S. Bonav. — Tom. V.` and the quire signature both sit inside the
->    footer register and NEITHER is an entry.** Last fell on p. 241; pp. 242 and 243 carry neither.
+>    footer register and NEITHER is an entry.** Last fell on p. 241; pp. 242, 243 and 244 carry
+>    neither.
 > 16. **★ THE PAGE MARKER SITS AT THE NEAREST PARAGRAPH BOUNDARY BELOW THE BREAK — and it can strand
 >    the NEW page's anchors ABOVE the marker.** `p4-c1` found the case where moving it UP would strand
->    an old-page anchor; **`p4-c2` found the mirror: p. 243 nn. 1–2 anchor in the paragraph the break
->    falls inside, so they stand above the `<!-- page 243 -->` marker.** **The page-qualified labels
->    absorb it — that is what they are for. Do not move the marker to chase anchors.**
-> 17. **★ `Ratio autem ad intelligentiam praedictorum haec est: quia` carries the COLON** — **five
->    consecutive attestations** (Pars III capp. IX–XI, Pars IV capp. I–II), with a sixth visible in
->    Cap. III on p. 243. p. 237's full stop is confirmed as a one-off. **And the em-dash articulation
->    is never uniform: transcribe it, never regularise it.**
+>    an old-page anchor; `p4-c2` found the mirror (p. 243 nn. 1–2 stand above the `<!-- page 243 -->`
+>    marker); **`p4-c3` hit `p4-c1`'s LIMITING CASE a second time — the p. 243/244 break falls inside
+>    Cap. III's LAST paragraph, so `<!-- page 244 -->` sits at the body's end and carries no text
+>    after it, with p. 244 nn. 1–2 above it.** **The page-qualified labels absorb all of this — that
+>    is what they are for. Do not move the marker to chase anchors, and do not move it up to make it
+>    look useful.**
+> 17. **★ `Ratio autem ad intelligentiam praedictorum haec est: quia` carries the COLON** — **six
+>    consecutive attestations** (Pars III capp. IX–XI, Pars IV capp. I–III), with a seventh visible in
+>    Cap. IV on p. 244. p. 237's full stop is confirmed as a one-off. **And the em-dash articulation
+>    is never uniform — it REVERSES between adjacent capitula: Cap. II uses ` — ` to open members
+>    inside paragraphs and never at a paragraph head, while Cap. III uses it three times inside its
+>    closing period and never before `Quoniam ergo`, `Rursus` or `Postremo`. Transcribe it, never
+>    regularise it.**
 > 18. **★★ NEVER HAND-CARRY A CORPUS-WIDE COUNT.** Append one line per chunk (**negatives
 >    included**, as `-`) to `manual-review/vol5-runover-ledger.tsv` and run
 >    **`python3.11 tools/check-vol5-census.py`**, which derives the totals. **Do not write a tally
@@ -157,12 +196,15 @@
 > 19. **★ A FORWARD CROSS-WORK CITATION HAS APPEARED.** p. 242 n. 2 cites `infra Itinerar. c. 4.` —
 >    the Breviloquium pointing out of itself into the *Itinerarium*, the next work in the volume.
 >    First of its kind in this corpus; worth remembering when the Itinerarium is chunked.
-> 20. **★ THE MARGINAL GLOSSES CAN BE A TWO-COLUMN APPARATUS, NOT JUST AN OUTLINE — new on p. 242.**
->    Cap. II's left column numbers `Thesis 1–5` as they are stated and the right column answers them
->    as `Pro thesi 1–4`, with `Pro thesi 5.` at the head of p. 243 — **an independent confirmation,
->    from the editors' own apparatus, that the capitulum does not close on p. 242.** It agreed with
->    the `Cap. III.` heading; it was not used to set the boundary. Thirteen glosses in one capitulum
->    is the densest series the Breviloquium has yet carried.
+> 20. **★ THE MARGINAL GLOSSES CAN BE A TWO-COLUMN APPARATUS, NOT JUST AN OUTLINE — new on p. 242,
+>    and it held in Cap. III.** Cap. II's left column numbers `Thesis 1–5` and its right column
+>    answers them `Pro thesi 1–5`; Cap. III repeats the pattern at half the scale (`Thesis 1.`,
+>    `Thesis 2.` left; `Pro 1. thesi…`, `Pro thesi 2.…` right). **★ But the editors' own numbering is
+>    NOT internally consistent: p. 243's right column prints `Pro 1. thesi` with the number BEFORE the
+>    noun and `Pro thesi 2.` with it after, within a single column and one leaf after Cap. II ran the
+>    form uniformly. Transcribe the glosses as printed; do not regularise them either.** In both
+>    capitula the gloss series agreed with the `Cap. N.` heading about the span and was used to set
+>    nothing.
 >
 > ## ✅ `bon-brev-p4-c1` DONE (2026-07-30) — commit `bf19879`
 > Breviloquium **PARS QUARTA, *De incarnatione Verbi*, Cap. I, *De ratione, qua Verbum Dei debuit
@@ -197,13 +239,21 @@
 >
 > ### 💵 FOR WILSON — donations
 > **Two $10 donations were received 2026-07-29, assigned to Pars III (COMPLETE) and Pars IV
-> (in progress: 2 of 10 capitula built).**
+> (in progress: 3 of 10 capitula built).**
 >
-> ### ✅ Hand-off INTO `bon-brev-p4-c2` — CONSUMED (kept for the record, superseded above)
-> p. 242 nn. 3–6 were picked up and p. 242's register closed; Cap. II's span was built pp. 242–243.
+> ### ✅ Hand-off INTO `bon-brev-p4-c3` — CONSUMED (kept for the record, superseded above)
+> p. 243 nn. 4–9 were picked up and p. 243's register closed; Cap. III's span was built pp. 243–244.
 > **The method-notes list that stood here has been carried forward and updated at the top of this
-> file — there is exactly ONE copy, and it is the one above.** One claim in that hand-off did not
-> hold: p. 242 n. 4's anchor is in the RIGHT column (`vel clauditur negatio`), not the left.
+> file — there is exactly ONE copy, and it is the one above.** Every claim in that hand-off held on
+> re-derivation, and one raw reading was corrected against the plate (`alias 59.`, raw `alias 39.`).
+> **The hand-off made no COLUMN claim for the six notes, and the band shows they divide 2 / 4 across
+> p. 243's gutter against a 5 / 4 footer-block split** — the one-note mismatch is recorded in the
+> chunk's `## Notes`.
+>
+> ### ✅ Hand-off INTO `bon-brev-p4-c2` — CONSUMED (superseded)
+> p. 242 nn. 3–6 were picked up and p. 242's register closed; Cap. II's span was built pp. 242–243.
+> One claim in that hand-off did not hold: p. 242 n. 4's anchor is in the RIGHT column
+> (`vel clauditur negatio`), not the left.
 >
 > ## ✅✅ PARS III COMPLETE (2026-07-29) — 11 capitula, printed pp. 231–241, all Tier 2, DEPLOYED
 > *De corruptela peccati*, eleven capitula, **printed pp. 231–241** — not 231–240; Cap. XI runs onto
