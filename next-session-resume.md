@@ -15,13 +15,13 @@
 > ran further than it implied): c1 231 · c2 231–232 · c3 232–233 · c4 233–234 · c5 234–235 · c6 235 ·
 > c7 236 · c8 236–237 · c9 237–238 · c10 238–239 · **c11 240–241**.
 >
-> ## 🚦🚦 **THE NEXT DISPATCH IS THE DEPLOY, NOT `bon-brev-p4-c1`.**
-> **A pars boundary is a deploy boundary** (CLAUDE.md § "★ DEPLOY CADENCE"), and **deploying is a
-> protected action that needs Wilson's own explicit per-action OK.** Do not roll into Pars IV; put
-> the queued block below in front of Wilson first — **it is now just two items: the Pars III deploy,
-> and the Stripe tier label.** ⚠ **Pars II is ALREADY DEPLOYED and the home-page copy is ALREADY
-> UPDATED** (Wilson, 2026-07-29); this file asserted otherwise for a full session. Read the
-> correction in that block before repeating anything here about live-site state.
+> ## ✅ DEPLOY DONE — **THE FRONT IS `bon-brev-p4-c1`.**
+> **Pars III's deploy boundary is CLOSED**: pushed and deployed 2026-07-30 on Wilson's explicit OK,
+> verified live (details in the deploy block further down). The next deploy boundary is the close of
+> **Pars IV**. ⚠ **Pars II was already deployed and the home-page copy already updated before that**
+> (Wilson, 2026-07-29) — this file asserted otherwise for a full session and briefed a whole
+> dispatch chain off the stale version. **Never restate live-site or deployed state from this file
+> without a date; it describes a system outside the repo and expires.**
 > **Also unpushed** — `master` is ahead of `origin/master`; pushing is separately protected.
 >
 > ### 💵 FOR WILSON — donations
@@ -962,14 +962,21 @@
 > as expiring; when it matters, ask Wilson rather than repeating the line.** Chunk/build/audit
 > facts are different — those are derived from the repo by scripts and stay trustworthy.
 >
-> **What is actually outstanding:**
-> 1. **The deploy of PARS III** (printed pp. 231–241, 11 capitula, complete 2026-07-29). Pars II is
->    already live. Prod is `bonaventure.wrootpress.com`. Recipe in CLAUDE.md:
->    `node scripts/build-content.mjs` → `npx vercel build --prod` →
->    `npx vercel deploy --prod --prebuilt --archive=tgz`. ⚠ The archive is ~97 MB and has died
->    mid-upload once at 100% — **retry the deploy, do NOT rebuild.**
-> 2. **The Stripe tier LABEL — the one piece of site copy still outstanding (Wilson OK'd the fix
->    2026-07-29).** The home-page prose is DONE; this is a separate string in a different file.
+> **✅ PARS III IS PUSHED AND DEPLOYED (2026-07-30, Wilson OK'd both).** `origin/master` =
+> `007a9ae` (23 commits pushed, `6535dcf..007a9ae`); prod build 1972/1972; deployed prebuilt with
+> `--archive=tgz`. **Verified live on `bonaventure.wrootpress.com`** — `bon-brev-p3-c1` and
+> `bon-brev-p3-c11` both 200, and c11's closing *in saecula saeculorum* renders (i.e. the p.241
+> paragraph that white space nearly truncated is genuinely published). Recipe in CLAUDE.md:
+> `node scripts/build-content.mjs` → `npx vercel build --prod` →
+> `npx vercel deploy --prod --prebuilt --archive=tgz`. ⚠ The archive is ~97 MB and has died
+> mid-upload once at 100% — **retry the deploy, do NOT rebuild.**
+>
+> **What is actually outstanding — ONE item, and it is DEFERRED, not forgotten:**
+> 1. **The Stripe tier LABEL.** `site/src/app/layout.tsx:84` reads `$10 — a distinction`, line 87
+>    `$100 — a decade`; Vol V has no distinctions and $10 is now received as a **pars**.
+>    **⏸ WILSON IS HOLDING THIS until he has heard back from the two donors (his call,
+>    2026-07-30) — do NOT ship it, and do NOT re-raise it as an oversight.** The home-page prose
+>    is DONE and is a separate file. Display text only when it does go — never the Stripe links.
 >    `site/src/app/layout.tsx:84` reads *"$10 — a distinction"*. Vol V has **no distinctions**;
 >    the pars is the distinction-equivalent unit (Quaracchi cite as "Breviloq. p. V. c. 6"), and
 >    $10 is now being received AS a pars — two such donations came in 2026-07-29, assigned to
