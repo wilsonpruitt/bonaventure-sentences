@@ -197,6 +197,30 @@ KNOWN_TOTALS = {
               # (right block ends complete at n.8) and stays open for p4-c8,
               # which owns n.8. The unnumbered continuation is n.5's own tail
               # and is NOT counted as a separate entry.
+    249: 8,   # band-read in full by p4-c8. Same shape as p.248 but shifted one
+              # note: the BLOCK SPLIT FALLS INSIDE n.6, whose anchor is ALREADY
+              # in the right column, so the runover crosses the gutter in the
+              # same direction the anchor did. Left block carries nn.1-5
+              # complete then breaks off MID-WORD inside n.6 at "Hugo a S. Vict.
+              # in Libello de Quatuor Voluntat. in Chri-"; right block opens
+              # UNNUMBERED with n.6's tail ("sto. In textu originali plura
+              # interseruntur. Cfr. I. Sent. d. 48. a. 2. q. 2. in corp. et
+              # III. Sent. d. 17. a. 4. q. 3. in corp.") then nn.7-8, closing
+              # complete. So the p.249 GUTTER RUNOVER is POSITIVE (logged by
+              # p4-c8, which owns n.6). Anchors 5/3 (nn.1-5 left, nn.6-8
+              # right); blocks 5.5/2.5; and the Cap. VIII / Cap. IX boundary
+              # falls BETWEEN nn.6 AND 7, matching neither split, so nn.1-6 are
+              # owned by p4-c8 and nn.7-8 anchor in Cap. IX and are a
+              # legitimate forwarded PENDING until bon-brev-p4-c9 lands.
+              # The p.248 -> p.249 test is CLOSED NEGATIVE by p4-c8: p.249's
+              # left block opens NUMBERED at n.1 ("A Boethio, de Una Persona
+              # et duabus naturis, c. 8."). The p.249 -> p.250 test is negative
+              # from the p.249 side only and stays open for p4-c9, which owns
+              # n.8. NOTE: the printer's signature "S. Bonav. -- Tom. V."
+              # returns here at the foot of the LEFT block (last seen p.241)
+              # and the quire signature "32" stands at the foot of the RIGHT
+              # block. NEITHER is an entry, and the printer's signature sits
+              # exactly where n.6's missing text would otherwise be looked for.
 }
 
 
