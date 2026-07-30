@@ -177,6 +177,26 @@ KNOWN_TOTALS = {
               # p.247 -> p.248 test is negative from the p.247 side only and
               # stays open for p4-c7, which owns n.8. The unnumbered
               # continuation is p.246 n.9's tail and is NOT counted here.
+              # CLOSED NEGATIVE from the p.248 side by p4-c7: p.248's left
+              # block opens NUMBERED at n.1 ("Cfr. supra c. 5, ...").
+    248: 8,   # band-read in full by p4-c7. The BLOCK SPLIT FALLS INSIDE n.5,
+              # the note whose anchor stands first in the right column, so the
+              # same entry supplies the left block's last line and the right
+              # block's first: left block carries nn.1-4 complete then breaks
+              # off inside n.5 at "Isai. 26, 12: Domine, dabis pacem nobis;
+              # omnia enim"; right block opens UNNUMBERED with n.5's tail
+              # ("opera nostra operatus es nobis. -- Seq. locus est Ps. 15, 2.
+              # -- Cfr. III. Sent. d. 20. q. 3. seq. et IV. Sent. d. 15. p. I.
+              # q. 1.") then nn.6-8, closing complete. So the p.248 GUTTER
+              # RUNOVER is POSITIVE (logged by p4-c7, which owns n.5). Anchors
+              # 4/4 (nn.1-4 left, nn.5-8 right); blocks 4.5/3.5; and the
+              # Cap. VII / Cap. VIII boundary falls BETWEEN nn.5 AND 6, so
+              # nn.1-5 are owned by p4-c7 and nn.6-8 anchor in Cap. VIII and
+              # are a legitimate forwarded PENDING until bon-brev-p4-c8 lands.
+              # The p.248 -> p.249 test is negative from the p.248 side only
+              # (right block ends complete at n.8) and stays open for p4-c8,
+              # which owns n.8. The unnumbered continuation is n.5's own tail
+              # and is NOT counted as a separate entry.
 }
 
 
