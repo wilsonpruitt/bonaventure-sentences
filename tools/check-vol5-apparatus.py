@@ -124,6 +124,16 @@ KNOWN_TOTALS = {
               # (owned by p4-c2); nn.4-9 anchor in Cap. III and are a legitimate
               # forwarded PENDING until bon-brev-p4-c3 lands. The p.243 GUTTER
               # RUNOVER is POSITIVE and is p4-c3's to render and to log.
+              # CLOSED by bon-brev-p4-c3, which owns nn.4-9 and logs the gutter.
+    244: 7,   # band-read in full by p4-c3, split by CAPITULUM one note ABOVE a
+              # block break that is itself inside a note: left block nn.1-3 with
+              # n.3 broken off at a WORD boundary INSIDE A SQUARE-BRACKETED
+              # LEMMA ("-- Superius pro a principio [2 cum aliquot"), right block
+              # opening UNNUMBERED with "codd. a primo principio] Vat., 1 et 3
+              # in principio, ..." then nn.4-7. nn.1-2 anchor in Cap. III (owned
+              # by p4-c3); nn.3-7 anchor in Cap. IV and are a legitimate
+              # forwarded PENDING until bon-brev-p4-c4 lands. The p.244 GUTTER
+              # RUNOVER is POSITIVE and is p4-c4's to render and to log.
 }
 
 
