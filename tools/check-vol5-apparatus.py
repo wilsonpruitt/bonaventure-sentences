@@ -134,6 +134,16 @@ KNOWN_TOTALS = {
               # by p4-c3); nn.3-7 anchor in Cap. IV and are a legitimate
               # forwarded PENDING until bon-brev-p4-c4 lands. The p.244 GUTTER
               # RUNOVER is POSITIVE and is p4-c4's to render and to log.
+              # CLOSED by bon-brev-p4-c4, which owns nn.3-7 and logs the gutter.
+    245: 9,   # band-read in full by p4-c4, split by CAPITULUM and by BLOCK at
+              # the SAME point -- the first COINCIDENCE page in Pars IV: left
+              # block nn.1-4 closing complete ("... et 2 inter."), right block
+              # opening NUMBERED at n.5 and carrying nn.5-9. nn.1-4 anchor in
+              # Cap. IV (owned by p4-c4); nn.5-9 anchor in Cap. V and are a
+              # legitimate forwarded PENDING until bon-brev-p4-c5 lands. The
+              # p.245 GUTTER RUNOVER is NEGATIVE, closed from both sides by
+              # p4-c4; the p.245 -> p.246 test is negative from the p.245 side
+              # only and stays open.
 }
 
 
