@@ -144,6 +144,22 @@ KNOWN_TOTALS = {
               # p.245 GUTTER RUNOVER is NEGATIVE, closed from both sides by
               # p4-c4; the p.245 -> p.246 test is negative from the p.245 side
               # only and stays open.
+              # CLOSED by bon-brev-p4-c5, which owns nn.5-9. NOTE the ANCHOR
+              # split is 6/3 (nn.1-6 left, nn.7-9 right) against the 4/5 BLOCK
+              # split -- the block break falls TWO NOTES ABOVE the anchor break,
+              # the mirror of p.244. The p.245 -> p.246 test is CLOSED NEGATIVE
+              # from the p.246 side by p4-c5.
+    246: 9,   # band-read in full by p4-c5. A TRUE COINCIDENCE PAGE: anchors 5/4
+              # (nn.1-5 left column, all Cap. V; nn.6-9 right column, all
+              # Cap. VI), blocks 5/4 at the same point, and the Cap. V / Cap. VI
+              # boundary between nn.5 and 6. Left block opens NUMBERED at n.1
+              # ("Rom. 9, 5. ..."), closing the p.245 -> p.246 test NEGATIVE;
+              # right block opens NUMBERED at n.6, so the p.246 GUTTER RUNOVER
+              # is NEGATIVE (both logged by p4-c5). nn.1-5 anchor in Cap. V
+              # (owned by p4-c5); nn.6-9 anchor in Cap. VI and are a legitimate
+              # forwarded PENDING until bon-brev-p4-c6 lands. ** n.9 BREAKS OFF
+              # at "-- Post pauca pro potest": the p.246 -> p.247 PAGE-CROSSING
+              # RUNOVER IS POSITIVE and is p4-c6's to render and to log. **
 }
 
 
