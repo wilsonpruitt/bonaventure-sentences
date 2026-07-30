@@ -241,6 +241,34 @@ KNOWN_TOTALS = {
               # test is negative from the p.250 side only and stays open for
               # p4-c10. Neither the printer's signature nor a quire signature
               # falls on p.250.
+    251: 7,   # band-read in full by p4-c10, which owns ALL SEVEN. p.251 is
+              # Cap. X entire, top to bottom -- no capitulum line on the page,
+              # and the only running head in Pars IV that is simply correct.
+              # Anchors 3/4 (nn.1-3 left, nn.4-7 right); blocks 3.5/3.5 -- the
+              # left block carries nn.1-3 then breaks off INSIDE n.4 at "Iuxta
+              # August., Enarrat.", a word boundary that SPLITS A WORK'S TITLE
+              # (Enarrationes in Psalmos); the right block opens UNNUMBERED
+              # with n.4's tail ("in Ps. 149, 6. n. 12, et Isidor., XVIII.
+              # Etymolog. c. 6, ...") then nn.5-7, closing complete. So the
+              # p.251 GUTTER RUNOVER is POSITIVE (logged by p4-c10) and the
+              # block line falls INSIDE the note whose anchor stands FIRST in
+              # the second column -- the p.248 configuration, second instance.
+              # The unnumbered continuation is n.4's own tail and is NOT a
+              # separate entry. The p.250 -> p.251 test is CLOSED NEGATIVE by
+              # p4-c10: p.251's left block opens NUMBERED at n.1 ("Cfr. Marc.
+              # 16, 19."). Neither signature falls on p.251.
+    252: 6,   # band-read in full by p4-c10, which owns n.1 ONLY. The PARS IV /
+              # PARS V boundary falls on this page: Cap. X's tail runs across
+              # the top of both columns, then the full-width PARS QUINTA
+              # display heading. Register splits 1/5 by pars -- the most
+              # lopsided division in Pars IV. n.1 ("Epist. I. Cor. 12, 8-11.")
+              # anchors on "prout vult" in Cap. X; nn.2-6 anchor in PARS V
+              # Cap. I and are FORWARDED to bon-brev-p5-c1 as a PENDING.
+              # Blocks 3/3 (nn.1-3 left, nn.4-6 right). The p.251 -> p.252
+              # test is CLOSED NEGATIVE by p4-c10 (p.252's left block opens
+              # NUMBERED at n.1), as is p.252's own gutter test (right block
+              # opens NUMBERED at n.4). The p.252 -> p.253 test is NOT run --
+              # p.253 is not imaged -- and is forwarded to p5-c1.
 }
 
 
