@@ -45,12 +45,71 @@
 >
 > ## ▶ THE FRONT AFTER THE DEPLOY — `bon-brev-p5-c1`, opening **PARS QUINTA**, *De gratia Spiritus sancti*
 >
+> ### ▤ PARS V AT A GLANCE — scope read off the index 2026-07-30 (CHECK IT, don't adopt it)
+> **10 capitula, printed pp. 252–264** — Pars VI (*De medicina sacramentali*) opens **p. 265**, which
+> is what closes the count positively. So Pars V is **~13 printed pages**, the same order of size as
+> Pars III (11 pp.) and Pars IV (12 pp.) — expect **~10 chunks and a similar per-chunk cadence.**
+>
+> | Cap. | Title | Index opening p. |
+> |---|---|---|
+> | I | *De gratia, in quantum est donum divinitus datum* | 252–253 (see below) |
+> | II | *De gratia, in quantum iuvat ad bonum meritorium* | 253–254 |
+> | III | *De gratia, in quantum est remedium peccati* | 254 |
+> | IV | *De ramificatione gratiae in habitus virtutum* | 256 |
+> | V | *De ramificatione gratiae in habitus donorum* | 257 |
+> | VI | *De ramificatione gratiae in habitus beatitudinum, et per consequens fructuum et sensuum* | 258 |
+> | VII | *De exercitio gratiae respectu credendorum* | 260 |
+> | VIII | *De exercitio gratiae respectu diligendorum* | 261 |
+> | IX | *De exercitio gratiae respectu agendorum, praeceptorum et consiliorum* | 262 |
+> | X | *De exercitio gratiae respectu petendorum et orandorum* | 263 |
+>
+> **⚠ Three cautions on that table, all of which is why it is a hypothesis and not data:**
+> 1. **The index's own digits are OCR-garbled in exactly this block** — the raw prints `2Bi` for 254,
+>    `2.'i7` for 257, `2.58` for 258. **Every opening page must be confirmed on the band.**
+> 2. **Capp. I–II's page numbers are separated from their titles in the raw** (the index sets titles
+>    and page numbers in columns that the djvu OCR splits into different line-blocks, and the Pars
+>    III/IV number column runs on ahead of it). Cap. I certainly opens on **p. 252**, part-way down —
+>    `PARS QUINTA` and `Cap. I.` are both already visible on p.252's band.
+> 3. **The index gives OPENING pages only, and it has under-reported spans in every pars so far.**
+>    Pars IV's index implied c1 opened on 242; it actually opens on **241**. Establish every
+>    capitulum's end POSITIVELY from the NEXT heading, never from the index and never from white space.
+>
+> **No polish gate fires inside Pars V.** Per CLAUDE.md § "Polish-gate cadence for Vols V–X" the
+> Breviloquium gets exactly **two** gates: the Pars I shakedown (CLOSED 2026-07-28) and a closing
+> gate at **p. 291**, the work boundary. The ~100-printed-page trigger would land past the work's
+> end (the work opens at p. 199), so the work-close gate governs. **Pass 2 (`polish-style-scan
+> --volume 5`) still runs every commit, as it has been.** Don't invent a per-pars gate — that rule
+> was retired on 2026-07-28.
+>
+> ### ⚙ SESSION SHAPE — how Pars III and Pars IV were actually run (21 chunks, zero `[?]` flags)
+> **One capitulum per subagent, dispatched STRICTLY SEQUENTIALLY, coordinator never reads a band.**
+> Not batches of four as in Vols I–IV: Vol V chunks chain through per-page footer hand-offs, so
+> chunk N+1 needs chunk N's verified anchor map. Parallel writers would fight over the same register.
+> 1. **The coordinator's whole job is the brief.** Each dispatch carries: the target + its heading
+>    location; the inherited notes **by number**; every open runover test with the side it must be
+>    closed from; every gutter measured so far; the standing method rules; and the register/
+>    terminology note for that capitulum's subject matter. The subagent reads CLAUDE.md § VOL V,
+>    this file, `vol5/bon-brev-p1-c1.md` (format reference) and its immediate predecessor.
+> 2. **Every hand-off is a claim to re-derive, never a fact to adopt.** State for each forwarded note
+>    whether you verified its POSITION, its COLUMN, or only its OWNERSHIP — that convention was
+>    introduced mid-Pars IV and it works. It caught p.242 n.4 handed over with the wrong column, and
+>    a wrong digit (`q. 4` → `q. 1`) inside an otherwise careful predecessor's hand-off.
+> 3. **Two commits per chunk** — (a) chunk + ledger + `KNOWN_TOTALS`; (b) this file advanced. Never
+>    deploy, never push. `content.json` is gitignored; don't fight it.
+> 4. **Per-chunk verification, every time:** `check-vol5-apparatus.py` · `check-vol5-census.py` ·
+>    `polish-style-scan --volume 5` · `build-content.mjs`. Cite the scripts, never a copied number.
+> 5. **A pars close gets a pars-level closure check** — the apparatus walker must cross the whole
+>    pars with zero GAP and zero unexplained PENDING, and every page owned by some chunk.
+> 6. **Cost, measured:** ~150k–280k subagent tokens per capitulum, rising with apparatus density.
+>    Budget roughly **2M tokens for a 10-capitulum pars.**
+>
 > ### Hand-off INTO `bon-brev-p5-c1`
 > - **⚠ VERIFY PARS V's CAPITULUM COUNT AGAINST THE VOLUME'S OWN INDEX AT CHUNK TIME, AS ALWAYS** —
 >   raw `doctorisseraphic05bona_djvu.txt` from **~L93890** onward, the block headed `Pars V. / De
 >   gratia Spiritus sancti.` Close the count positively by finding the block that follows it
->   (`Pars VI.`). **Record the verification in that chunk's `## Notes`**, the way `bon-brev-p4-c1`
->   and `bon-brev-p3-c1` did for their partes. Do NOT re-verify Pars IV's count — it is closed.
+>   (`Pars VI.`, at raw ~L93975). **Confirm or correct the table above** and **record the
+>   verification in that chunk's `## Notes`**, the way `bon-brev-p4-c1` and `bon-brev-p3-c1` did for
+>   their partes. Do NOT re-verify Pars IV's count — it is closed.
 > - **PICK UP: p. 252 nn. 2–6, a FIVE-NOTE PENDING.** p. 252's register is **six** and only n. 1
 >   anchors in Cap. X. All five are in `bon-brev-p4-c10`'s `## Notes` in full, with **the COLUMN of
 >   all five verified on the band, the POSITION of nn. 2–4 verified, and nn. 5–6 declared INFERENCES
