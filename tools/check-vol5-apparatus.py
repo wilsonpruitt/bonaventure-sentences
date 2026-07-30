@@ -114,8 +114,16 @@ KNOWN_TOTALS = {
               # right block opening UNNUMBERED with "men 1, 2, 3 cum pluribus
               # codd. ..." then nn.5-6. nn.1-2 anchor in Pars IV Cap. I (owned by
               # p4-c1); nn.3-6 anchor in Cap. II and are a legitimate forwarded
-              # PENDING until bon-brev-p4-c2 lands. The p.242 GUTTER RUNOVER is
-              # POSITIVE and is p4-c2's to render and to log.
+              # PENDING until bon-brev-p4-c2 lands (which it now has). The p.242
+              # GUTTER RUNOVER is POSITIVE and is logged on p4-c2's ledger line.
+    243: 9,   # band-read in full by p4-c2, split by CAPITULUM, and the division
+              # falls INSIDE the left block: left block nn.1-5 with n.5 broken
+              # off at a WORD boundary ("...decet eius nec operari, quod"),
+              # right block opening UNNUMBERED with "etiam paulo post omittitur
+              # a pluribus codd. ..." then nn.6-9. nn.1-3 anchor in Cap. II
+              # (owned by p4-c2); nn.4-9 anchor in Cap. III and are a legitimate
+              # forwarded PENDING until bon-brev-p4-c3 lands. The p.243 GUTTER
+              # RUNOVER is POSITIVE and is p4-c3's to render and to log.
 }
 
 
