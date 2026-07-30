@@ -221,6 +221,26 @@ KNOWN_TOTALS = {
               # and the quire signature "32" stands at the foot of the RIGHT
               # block. NEITHER is an entry, and the printer's signature sits
               # exactly where n.6's missing text would otherwise be looked for.
+    250: 9,   # band-read in full by p4-c9. A NEW CONFIGURATION: the Cap. IX /
+              # Cap. X boundary FALLS ON THIS PAGE (Cap. X opens part-way down
+              # the right column) but ALL NINE notes anchor in Cap. IX, so the
+              # capitulum line sits BELOW the whole register and the page is
+              # owned entire by ONE chunk. Anchors 5/4 (nn.1-5 left, nn.6-9
+              # right); blocks 2.5/6.5 -- the left block carries nn.1-2 then
+              # breaks off INSIDE n.3 at "Immediate post respicitur Ps. 68, 5:
+              # Quae", a WORD BOUNDARY INSIDE A QUOTED VERSE; the right block
+              # opens UNNUMBERED with n.3's tail ("non rapui tunc exsolvebam.
+              # Cfr. August. in hunc loc., ex quo quaedam referuntur II. Sent.
+              # lit. Magistri, d. XXII. c. 4.") then nn.4-9, closing complete.
+              # So the p.250 GUTTER RUNOVER is POSITIVE (logged by p4-c9) and
+              # the block line stands TWO NOTES ABOVE the anchor line -- the
+              # widest three-line spread yet. The unnumbered continuation is
+              # n.3's own tail and is NOT a separate entry. The p.249 -> p.250
+              # test is CLOSED NEGATIVE by p4-c9: p.250's left block opens
+              # NUMBERED at n.1 ("Epist. I. Ioan. 3, 16."). The p.250 -> p.251
+              # test is negative from the p.250 side only and stays open for
+              # p4-c10. Neither the printer's signature nor a quire signature
+              # falls on p.250.
 }
 
 
