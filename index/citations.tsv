@@ -18379,7 +18379,7 @@ bon-sent-IV-d8-p1-a1-q3	4	apparatus:5	5	scripture	apparatus-explicit	Exod. 16, 1
 bon-sent-IV-d8-p1-a1-q3	4	apparatus:5	5	scripture	apparatus-explicit	Sap. 16, 20	Sap 16:20	A	verse		
 bon-sent-IV-d8-p1-a1-q3	4	apparatus:5	5	scripture	apparatus-explicit	Ioan. 6, 50	Ioan 6:50	A	verse		
 bon-sent-IV-d8-p1-a2-q1	4	latin_body	9	scripture	body-ordinal	Ioannis sexto	Ioan 6:52	B	verse		
-bon-sent-IV-d8-p1-a2-q1	4	scholion		crossref	work	Breviloq. p. VI. c. 9	bon-brev-p6-c9		forward		
+bon-sent-IV-d8-p1-a2-q1	4	scholion		crossref	work	Breviloq. p. VI. c. 9	bon-brev-p6-c9		chunk		
 bon-sent-IV-d8-p1-a2-q1	4	scholion		crossref	relative	infra d. 12. p. II.	IV:d12		distinctio		
 bon-sent-IV-d8-p1-a2-q1	4	scholion		crossref	anaphor->relative	loc. cit.	IV:d12		distinctio	yes	infra d. 12. p. II.
 bon-sent-IV-d8-p1-a2-q1	4	apparatus:3	3	crossref	anaphor->relative	ibid.	IV:d12		distinctio	yes	infra d. 12. p. II.
@@ -19155,6 +19155,14 @@ bon-brev-p6-c8	5	apparatus:p273-4	p273-4	crossref	page	tom. IV. pag. 167, nota 1
 bon-brev-p6-c8	5	apparatus:p273-4	p273-4	crossref	page	pag. 593, nota 2	bon-sent-I-d34-a1-q4		chunk		
 bon-brev-p6-c8	5	apparatus:p273-6	p273-6	crossref	page	tom. XI. pag. 745	tom11:p745		forward		
 bon-brev-p6-c8	5	apparatus:p273-6	p273-6	crossref	page	tom. I. pag. 155			dangling		
+bon-brev-p6-c9	5	apparatus:p274-1	p274-1	scripture	apparatus-explicit	I. Cor. 11, 29	1Cor 11:29	A	verse		
+bon-brev-p6-c9	5	apparatus:p274-1	p274-1	crossref	logical	IV. Sent. d. 8	IV:d8		distinctio		
+bon-brev-p6-c9	5	apparatus:p274-3	p274-3	scripture	apparatus-explicit	Hebr. 9, 10	Hebr 9:10	A	verse		
+bon-brev-p6-c9	5	apparatus:p274-5	p274-5	scripture	apparatus-explicit	Matth. 28, 20	Matth 28:20	A	verse		
+bon-brev-p6-c9	5	apparatus:p274-5	p274-5	scripture	apparatus-explicit	Tit. 2, 14	Tit 2:14	A	verse		
+bon-brev-p6-c9	5	apparatus:p274-6	p274-6	scripture	apparatus-explicit	Ioan. 6, 69	Ioan 6:69	A	verse		
+bon-brev-p6-c9	5	apparatus:p275-2	p275-2	crossref	logical	IV. Sent. d. 9. a. 1. q. 2.	bon-sent-IV-d9-a1-q2		chunk		
+bon-brev-p6-c9	5	apparatus:p275-3	p275-3	scripture	apparatus-explicit	I. Cor. 11, 29	1Cor 11:29	A	verse		
 bon-brev-prol-s1	5	apparatus:p203-1	p203-1	crossref	anaphor->work	ibid.	work:scientia-christi		work	cross-chunk	bon-brev-prol: Quaest. de scientia Christi
 bon-brev-prol-s1	5	apparatus:p203-1	p203-1	crossref	anaphor->work	loc. cit.	work:scientia-christi		work	cross-chunk	bon-brev-prol: Quaest. de scientia Christi
 bon-brev-prol-s1	5	apparatus:p203-2	p203-2	crossref	logical	III. Sent. d. 23. a. 1. q. 1.	bon-sent-III-d23-a1-q1		chunk		

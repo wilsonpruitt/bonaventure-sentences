@@ -810,6 +810,65 @@ KNOWN_TOTALS = {
               # NOTE: p.273 carries the printer's signature "S. Bonav. - Tom. V."
               # at the foot of the left block and the quire number 35 at the foot
               # of the right; neither is a footer entry.
+    274: 8,   # band-read in full by p6-c9, which owns ALL EIGHT -- the first leaf
+              # in Pars VI that no capitulum boundary touches at all.
+              # Gutter 1403, SETTLED FRESH with no constant on a leaf that had not
+              # been imaged, and THE DEFAULT WAS NOT ADOPTED ON ITS OWN SHOWING:
+              # colcrop returns 1403 on a pinched 56 px run. ONE window blows out
+              # (70-89% -> 1261/341 px); the ELEVEN survivors run 1399/64, 1399/64,
+              # 1399/64, 1401/60, 1403/60, 1403/60, 1404/62, 1405/63, 1404/63,
+              # 1405/60, 1404/57 -- a 6 px spread drifting MONOTONICALLY UP the
+              # leaf, i.e. page skew in the OPPOSITE direction from p.273's, not
+              # disagreement. The ink profile fixes the near-zero band at
+              # x=1372-1432 with Quaracchi's printed column rule inside it at
+              # x=1398-1405 peaking 871 rows on x=1403 -- BY FAR the heaviest
+              # inking measured anywhere in Pars VI (p.273's 382, p.272's 220),
+              # and precisely why the default run came back pinched. Band midpoint
+              # 1402, rule centre 1403 -> 1403 adopted.
+              # BLOCK SPLIT 5/3 AND ANCHOR SPLIT 5/3 -- THEY COINCIDE, AND THERE
+              # IS NO CAPITULUM BREAK ON THE LEAF. Left block nn.1-5 with n.5
+              # STRADDLING the gutter; right block n.5's unnumbered continuation,
+              # then nn.6-8. Anchors: nn.1-5 LEFT column, nn.6-8 RIGHT.
+              # p.274's own gutter test is POSITIVE and is logged by p6-c9 as
+              # `p.274 n.5:gutter` (n.5 breaks off at "ut nos redimeret etc. --"
+              # and the right block opens UNNUMBERED with "Pro ad finem plures
+              # codd. in finem."); the p.273 -> p.274 page-crossing test is
+              # NEGATIVE and is also closed by p6-c9 (p.273's right block ends
+              # complete at n.7 "Vat., 1 et 3 addunt nec localiter." with the
+              # quire number 35 beneath, and p.274's left block opens NUMBERED at
+              # "Epist. I. Cor. 11, 29."). p6-c10 MUST NOT re-log either.
+              # NOTE: p.274's LEFT COLUMN FOOT carries a large blank of some
+              # fifteen lines. It is NOT a boundary.
+    275: 7,   # band-read in full by p6-c9, which owns nn.1-4; nn.5-7 anchor in
+              # Cap. X and are legitimate forwarded PENDINGs until bon-brev-p6-c10
+              # lands. n.5 anchors on Cap. X's "secunda tabula post naufragium" in
+              # the LEFT column; nn.6-7 fall in the RIGHT column, which p6-c9 did
+              # not set -- their column is INFERRED, not read.
+              # Gutter 1145, SETTLED FRESH, AND THE DEFAULT WAS REJECTED OUTRIGHT:
+              # colcrop returns 1127 on an 18 px run, three px above the tool's own
+              # 15 px failure flag. The windows FORK: the EIGHT sound upper windows
+              # run 1156/62, 1156/61, 1155/60, 1154/61, 1152/60, 1151/60, 1148/59,
+              # 1147/59 (a 9 px MONOTONIC drift), while the FOUR lower windows
+              # collapse to 1129/23, 1124/28, 1124/27, 1123/26 and are discarded.
+              # The ink profile explains the fork: the blank band runs x~1119-1170
+              # with the printed column rule inside it as a SKEWED island moving
+              # from x~1152-1158 in the upper body rows to x~1138-1150 in the
+              # lower, peaking 372-447 rows -- so low on the leaf the rule sits
+              # well right of centre and leaves only the left sub-band as a zero
+              # run. Band midpoint 1144.5, rule centre 1145.5 -> 1145 adopted.
+              # BLOCK SPLIT 4/3, ANCHOR SPLIT 5/2, CAPITULUM BREAK AT THE BLOCK
+              # BREAK. Left block nn.1-4 with n.4 STRADDLING the gutter; right
+              # block n.4's unnumbered continuation, then nn.5-7. Anchors: nn.1-5
+              # LEFT column, nn.6-7 RIGHT -- the FIRST leaf in this pars where the
+              # anchor split runs LOWER than the block split rather than higher.
+              # p.275's own gutter test is POSITIVE and is logged by p6-c9 as
+              # `p.275 n.4:gutter` (n.4 breaks off at "qui etiam inferius cum" and
+              # the right block opens UNNUMBERED with "nonnullis aliis codd. pro
+              # excessivum substituunt excellentissimum"); the p.274 -> p.275
+              # page-crossing test is NEGATIVE and is also closed by p6-c9
+              # (p.274's right block ends complete at n.8 "cum uno alteroque cod.
+              # in qua." and p.275's left block opens NUMBERED at "Edd., excepta
+              # 2, vel."). p6-c10 MUST NOT re-log either.
 }
 
 
