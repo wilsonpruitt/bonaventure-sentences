@@ -269,6 +269,19 @@ KNOWN_TOTALS = {
               # NUMBERED at n.1), as is p.252's own gutter test (right block
               # opens NUMBERED at n.4). The p.252 -> p.253 test is NOT run --
               # p.253 is not imaged -- and is forwarded to p5-c1.
+    253: 9,   # band-read in full by p5-c1, split by CAPITULUM: anchors 4/5
+              # (nn.1-4 Cap. I, nn.5-9 Cap. II) but blocks 6/3 (nn.1-6 left,
+              # nn.7-9 right), so the BLOCK line stands TWO NOTES BELOW the
+              # anchor line -- the mirror of p.245, and the first page on which
+              # the capitulum line agrees with the anchor line while the block
+              # line disagrees with both. nn.1-4 anchor in Pars V Cap. I (owned
+              # by p5-c1); nn.5-9 anchor in Cap. II and are a legitimate
+              # forwarded PENDING until bon-brev-p5-c2 lands. The p.252 ->
+              # p.253 test is CLOSED NEGATIVE by p5-c1 (left block opens
+              # NUMBERED at n.1), as is p.253's own gutter test (right block
+              # opens NUMBERED at n.7). n.9 BREAKS OFF MID-WORD at the page
+              # foot ("Gen. 15, 1: Ego [Deus] pro-"), so p.253 -> p.254 is a
+              # POSITIVE page-crossing runover for p5-c2 to close and log.
 }
 
 
