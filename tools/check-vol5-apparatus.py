@@ -914,6 +914,47 @@ KNOWN_TOTALS = {
               # boundary -- p.275's right column ends a complete sentence and
               # p.276's left column opens "Rursus," -- and Cap. X nevertheless
               # runs a whole further leaf. Not a boundary.
+    277: 7,   # band-read in full by p6-c11, which owns nn.1-6; n.7 anchors in
+              # Cap. XII (on "quo spiritualis potestas traditur ordinato",
+              # closing its Thesis 1, in the RIGHT column below the CAP. XII.
+              # heading) and is a legitimate forwarded PENDING until
+              # bon-brev-p6-c12 lands.
+              # Gutter 1247, SETTLED FRESH with no constant on a leaf never
+              # before imaged, and THE DEFAULT IS NOT SOUND: colcrop returns
+              # 1245 on a 56 px run, BELOW the 58-64 px trust band -- so p.276's
+              # sound default set no trend. Thirteen row windows drift
+              # MONOTONICALLY 1257 -> 1243 on runs held at 58-63 px (10-30% ->
+              # 1257/62, 15-35% -> 1255/60, 20-40% -> 1254/58, 25-45% -> 1254/58,
+              # 30-50% -> 1252/59, 35-55% -> 1251/60, 40-60% -> 1250/63,
+              # 45-65% -> 1248/62, 50-70% -> 1248/62, 55-75% -> 1247/61,
+              # 60-80% -> 1245/60, 70-90% -> 1243/61), with one blow-out
+              # discarded (65-85% -> 1253 on an 80 px run). A monotonic drift is
+              # the leaf's SKEW, not disagreement. Ink profile confirms and
+              # measures the skew directly: over rows 45-92% the zero band runs
+              # x=1221-1273 with the printed column rule inside it at
+              # x=1240-1252 peaking 596 rows (midpoint 1247, rule centre 1246);
+              # over rows 15-55% the band runs x=1226-1281 with the same rule at
+              # x=1248-1259 peaking 451 rows (midpoint 1253.5). The band itself
+              # moves 6.5 px down the leaf. Body-band midpoint decides: 1247.
+              # BLOCK SPLIT 4/3, ANCHOR SPLIT 4/3, CAPITULUM BREAK AT 6/1 --
+              # block and column COINCIDE for the first time in six leaves, and
+              # the capitulum break sits two notes below both. Left block
+              # nn.1-4 with NO straddle (n.4 ends complete at "nota 4."); right
+              # block opens NUMBERED at n.5, then nn.6, 7. Anchors: nn.1-4 LEFT
+              # column, nn.5-7 RIGHT.
+              # BOTH runover tests on this leaf are NEGATIVE and are closed by
+              # p6-c11 from both sides: p.277's own gutter (left block ends
+              # complete, right block opens numbered) and the p.276 -> p.277
+              # page crossing (p.276's right block ends complete at n.6
+              # "d. 23. per totam." with blank paper beneath, p.277's left block
+              # opens NUMBERED at "Epist. I. Tim. 2, 5."). p6-c12 MUST NOT
+              # re-log either; it owes the p.277 -> p.278 test and p.278's own
+              # gutter test.
+              # NOTE: the p.276 -> p.277 BODY crossing falls MID-SENTENCE and
+              # MID-PHRASE ("Verbum" / "scilicet incarnatum") -- the exact
+              # opposite shape from the p.275 -> p.276 paragraph-boundary
+              # crossing one leaf earlier. Neither shape is evidence about
+              # where a capitulum ends; only the next Cap. N. heading is.
 }
 
 
