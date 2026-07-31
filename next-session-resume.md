@@ -49,18 +49,36 @@
 >    37 runovers across 59 chunks (33 gutter-crossing, 4 page-crossing)**;
 >    `polish-style-scan --volume 5` **CLEAN (59 files)**; `build-content.mjs` **1992/1992**.
 >
-> ## ⚠⚠ THE DEPLOY BOUNDARY IS **NOW**, AND IT IS WILSON'S DECISION — DO NOT TAKE IT.
-> ### ★ WILSON'S STANDING DECISION, 2026-07-30: "wait on deploy until at least V is done."
-> **Pars V is now done, so his decision point has ARRIVED.** Pars IV and Pars V were deliberately held
-> to ship **together** at this boundary — that was a deferral, never an omission. **Pushing and
-> deploying are BOTH protected actions and BOTH need Wilson's own explicit per-action OK.** Surface
-> the exact commands and wait:
-> - push (cheaper, separate, does not have to wait for the deploy): `git push origin master`
-> - deploy: a separate action again — **merging or pushing is NOT deploying.**
+> ## ✅ THE PARS V DEPLOY BOUNDARY WAS TAKEN — **2026-07-31, WILSON OK'd BOTH ACTIONS**
+> His standing decision of 2026-07-30 was "wait on deploy until at least V is done"; V closed, the two
+> actions were surfaced separately, and he answered **"both"**.
+> - **PUSHED** — `git push origin master`, `26a520d..45eae00`, 24 commits. `origin/master` level at 0
+>   ahead immediately after.
+> - **DEPLOYED** — `node scripts/build-content.mjs && npx vercel build --prod &&
+>   npx vercel deploy --prod --prebuilt --archive=tgz` from `site/`. Build **1992/1992**; deployment
+>   target `production`, status Ready. **No mid-upload failure this time** (the ~97 MB archive has died
+>   once before at 100 % — the remedy is to RETRY THE DEPLOY, never to rebuild).
+> - **VERIFIED ON THE LIVE DOMAIN, not from the build log** (2026-07-31): home 200; `bon-brev-p5-c1`
+>   and `bon-brev-p5-c10` both 200 under `/browse/5/d/5/`; `bon-brev-p4-c10` 200 under `/browse/5/d/4/`;
+>   and Cap. X's page served its own closing words `humani generis statutorum`, proving new content
+>   rather than a cached build. **Partes IV and V — printed pp. 241–264, twenty capitula — were
+>   readable on that date.**
 >
-> ⚠ **This file records DECISIONS, which do not expire, and never live-site or deployed state, which
-> does. NOTHING here asserts that anything is deployed.** As of this commit **`master` is ahead of
-> `origin/master`** and nothing has been pushed or deployed by any agent.
+> ⚠⚠ **THAT VERIFICATION IS DATED AND IT EXPIRES. This file records DECISIONS, which do not expire,
+> and the FACT that a deploy was run on a date, which does not either — but it does NOT tell you what
+> prod is serving now.** Anything describing the live site is a claim about a system outside the repo:
+> **check it or ask Wilson, never restate it from here.** Script-derived numbers (chunk counts, build
+> numbers, audit results) stay trustworthy.
+>
+> ### ▶ THE NEXT DEPLOY BOUNDARY is the close of **PARS VI** (p. 280). Same two protected actions,
+> same per-action OK, every time. **Batching changes WHEN you ask, never WHETHER.**
+>
+> ### 💵 STILL DEFERRED — do NOT ship and do NOT re-raise as an oversight
+> The Stripe tier copy still reads `$10 — a distinction` (`site/src/app/layout.tsx:84`) and
+> `$100 — a decade` (line 87), both stale for a volume with no distinctions — **a pars is the
+> distinction-equivalent unit in Vol V.** **Wilson is holding the reword until he hears back from the
+> two donors (his call, 2026-07-30, unchanged as of 2026-07-31).** Display text only when it does go;
+> **never** the Stripe payment links.
 >
 > ## ✅ `bon-brev-p5-c1` DONE (2026-07-30) — commit `d5db60c` — **OPENS PARS V**
 > Breviloquium **Pars V, Cap. I, *De gratia, in quantum est donum divinitus datum*** — printed
@@ -666,13 +684,60 @@
 >
 > ## ▶ THE FRONT — `bon-brev-p6-c1`, **PARS VI opens**, Cap. I, *De Sacramentorum origine*
 >
-> ### ⚠⚠ BEFORE ANYTHING ELSE: **THE NEXT ACTION IS A DEPLOY BOUNDARY, AND IT IS WILSON'S.**
-> A pars boundary is a deploy boundary, and **this one is the boundary Wilson has been holding for** —
-> his standing decision of 2026-07-30 was "wait on deploy until at least V is done," and **V is now
-> done**. Pars IV and Pars V ship together. **Surface `git push origin master` and the deploy as two
-> separate, per-action asks and WAIT for his own OK on each.** Merging or pushing is not deploying.
-> Do not begin `bon-brev-p6-c1` on the assumption that the boundary has been handled, and **do not
-> assert any deployed state** — as of commit `57ea5c0` nothing has been pushed or deployed.
+> ### ✅ THE PARS V DEPLOY BOUNDARY IS CLOSED — begin `bon-brev-p6-c1` directly.
+> Wilson OK'd **both** actions on 2026-07-31; push and deploy were run and verified live that day (see
+> the deploy block at the head of this file). **The next boundary is the close of Pars VI (p. 280).**
+> **Do not deploy, do not push, and do not re-raise either until then** — both remain protected
+> actions needing his own per-action OK when the time comes.
+>
+> ### ▤ PARS VI AT A GLANCE — scope read off the volume's own index 2026-07-31 (CHECK IT, don't adopt it)
+> **THIRTEEN capitula, printed pp. 265–280** — Pars VII (*De statu finalis iudicii*) opens **p. 281**,
+> which is what closes the count positively. ★★ **THIS IS THE LARGEST PARS IN THE BREVILOQUIUM — 13
+> capitula against Pars V's 10 and Pars IV's 10, over ~16 printed pages. Budget accordingly: Pars V
+> cost ~250–310k subagent tokens per capitulum, so Pars VI is roughly a 3.5M-token pars.**
+>
+> | Cap. | Title | Index opening p. |
+> |---|---|---|
+> | I | *De Sacramentorum origine* | 265 |
+> | II | *De Sacramentorum variatione* | 266 |
+> | III | *De Sacramentorum numero et distinctione* | 267 |
+> | IV | *De Sacramentorum institutione* | 268 |
+> | V | *De Sacramentorum dispensatione* | 269 |
+> | VI | *De Sacramentorum iteratione* | 270 |
+> | VII | *De constitutione et integritate baptismi* | 271 |
+> | VIII | *De integritate confirmationis* | 272 |
+> | IX | *De integritate eucharistiae* | 273 |
+> | X | *De integritate poenitentiae* | 275 |
+> | XI | *De integritate unctionis extremae* | 276 |
+> | XII | *De integritate ordinis* | 277 |
+> | XIII | *De integritate matrimonii* | 279 |
+>
+> **⚠ Four cautions, all of which is why this is a hypothesis and not data:**
+> 1. **The index's own titles are OCR-garbled throughout this block** — `De Sacrainenloram
+>    institulinnc`, `Dc integrilatc cucliaristiae`, `Dc intcgritate pocnilentiBe`, `,\1II.` for `XIII.`
+>    **Every title must be set from the capitulum's own heading on the band, never from the index.**
+> 2. **The index gives OPENING pages only and has under-reported a span in every pars so far.** Note
+>    the two visible jumps — **IX → X skips p. 274 and XII → XIII skips p. 278** — so those two
+>    capitula run two pages each on the index's own showing, and others may too. **Establish every
+>    capitulum's end POSITIVELY from the NEXT `Cap. N.` heading.**
+> 3. **The index block itself splits mid-pars** — capp. I–VII are set in the first line-block and
+>    capp. VIII–XIII in a second under a repeated `Cap.` column header, exactly the shape that made
+>    Pars V's capp. I–II unrecoverable. **Verify the count at chunk time from the raw around L93968,
+>    closing it positively on the `Pars VII.` block.**
+> 4. **Pars V's index openings were right ten times out of ten and its SPANS still misled once.** A run
+>    of correct openings says nothing about any span.
+>
+> **★ NO POLISH GATE FIRES INSIDE PARS VI.** Per CLAUDE.md § "Polish-gate cadence for Vols V–X" the
+> Breviloquium gets exactly **two** gates: the Pars I shakedown (CLOSED 2026-07-28) and a closing gate
+> at **p. 291, the work boundary** — which now falls at the end of Pars VII, not here. **Pass 2
+> (`polish-style-scan --volume 5`) still runs every commit, as it has throughout.** Don't invent a
+> per-pars gate; that rule was retired 2026-07-28.
+>
+> **★ REGISTER SHIFT TO EXPECT.** Pars VI is the sacramental treatise — the first sustained stretch of
+> the Breviloquium on *materia / forma / minister / character / res et sacramentum*, and capp. VII–XIII
+> run one per sacrament. Lock that vocabulary at `p6-c1` and carry it; it is new to Vol V but the
+> **Vol IV sacramental terminology settled across d.1–d.21 is the precedent — consult those chunks
+> rather than re-deciding it.**
 >
 > ### Hand-off INTO `bon-brev-p6-c1`
 > - **★★ PARS VI OPENS AT A LEAF EDGE — THE FIRST PART OPENING IN THIS WORK THAT DOES.** The full-width
