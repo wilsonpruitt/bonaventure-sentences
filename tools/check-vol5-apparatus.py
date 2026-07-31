@@ -387,6 +387,34 @@ KNOWN_TOTALS = {
               # below it, and p.258's left block opens NUMBERED with n.1);
               # p.258's own gutter test is NEGATIVE too (left block ends
               # complete at n.2, right block opens NUMBERED with n.3).
+    259: 9,   # band-read in full by p5-c6, which owns ALL NINE: p.259 is Pars V
+              # Cap. VI from its first line to its last, so there is NO capitulum
+              # line on this page at all. A TWENTIETH configuration: anchors
+              # divide 4/5 (nn.1-4 LEFT column, nn.5-9 RIGHT) while the BLOCKS
+              # divide 5/4 (nn.1-5 LEFT, nn.6-9 RIGHT), so the block break
+              # stands ONE NOTE BELOW the anchor break -- and the dissenting
+              # note, n.5, is precisely the one that then RUNS OVER the gutter,
+              # broken at "G substituit quam pro" and completed unnumbered at
+              # the head of the right block ("quod. Superius pro hanc vallem
+              # I K L M O P hac valle ..."). So one entry is physically present
+              # in BOTH blocks while anchoring in a column it does not print
+              # under. The p.258 -> p.259 page-crossing runover is NEGATIVE
+              # (p.258's right block ends complete at n.7 and p.259's left block
+              # opens NUMBERED with n.1).
+    260: 7,   # band-read in full by p5-c6, which owns nn.1-3. Split by
+              # CAPITULUM: the Cap. VI / Cap. VII heading stands about two-thirds
+              # down the LEFT column, and nn.1-3 anchor above it (Cap. VI),
+              # nn.4-7 below it and in the right column (Cap. VII, FORWARDED to
+              # p5-c7). Anchors divide 3/4, blocks divide 3/4, and the capitulum
+              # line falls between nn.3 and 4 -- ALL THREE LINES COINCIDE, for
+              # the first time in Pars V. n.3 RUNS OVER the gutter (broken at
+              # "ubi in textu verba", completed unnumbered at the head of the
+              # right block with "Dionysii de raptu in caliginem ..."), and it
+              # belongs to p5-c6 because its ANCHOR is Cap. VI's, even though
+              # the block it completes in carries four of p5-c7's notes. The
+              # p.259 -> p.260 page-crossing runover is NEGATIVE (p.259's right
+              # block ends complete at n.9 "Gal. 5, 22. seq." and p.260's left
+              # block opens NUMBERED with n.1).
 }
 
 
