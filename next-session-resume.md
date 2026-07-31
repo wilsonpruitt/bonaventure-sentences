@@ -3,7 +3,7 @@
 > # ★★★ VOL V (TOME V — OPUSCULA) IS THE ACTIVE FRONT.
 >
 > # ▶ PARS V IS OPEN — *De gratia Spiritus sancti*, 10 capitula, printed pp. 252–264
-> **Capp. I–V are DONE.** Pars V's capitulum count was verified against the volume's own index by
+> **Capp. I–VI are DONE.** Pars V's capitulum count was verified against the volume's own index by
 > `bon-brev-p5-c1` (raw `doctorisseraphic05bona_djvu.txt` L93893–93975, closed positively at
 > `Pars VI. / De medicina sacramentali. / I. De Sacramentorum origine » 265`): **TEN capitula, I–X,
 > Pars VI opening on printed p. 265, so Pars V spans pp. 252–264 — thirteen printed pages**, the same
@@ -16,8 +16,8 @@
 > | III | *De gratia, in quantum est remedium peccati* | **254–256, BUILT** |
 > | IV | *De ramificatione gratiae in habitus virtutum* | **256–257, BUILT** |
 > | V | *De ramificatione gratiae in habitus donorum* | **257–258, BUILT** |
-> | VI | *De ramificatione gratiae in habitus beatitudinum, et per consequens fructuum et sensuum* | opens **258**, at the TOP of the RIGHT column, verified on the band |
-> | VII | *De exercitio gratiae respectu credendorum* | 260 |
+> | VI | *De ramificatione gratiae in habitus beatitudinum, et per consequens fructuum et sensuum* | **258–260, BUILT** |
+> | VII | *De exercitio gratiae respectu credendorum* | opens **260**, two-thirds down the LEFT column, verified on the band |
 > | VIII | *De exercitio gratiae respectu diligendorum* | 261 |
 > | IX | *De exercitio gratiae respectu agendorum, praeceptorum et consiliorum* | 262 |
 > | X | *De exercitio gratiae respectu petendorum et orandorum* | 263 |
@@ -36,11 +36,14 @@
 > `Cap. IV.` stands near the TOP of p. 256's LEFT column. ★★★ AND Cap. V's (257) IS CORRECT TOO,
 > tested by `p5-c4`: `Cap. V.` stands about TWO-FIFTHS down p. 257's LEFT column. ★★★★ **AND Cap. VI's
 > (258) IS CORRECT TOO, tested by `p5-c5`: `Cap. VI.` stands at the very TOP of p. 258's RIGHT column.
-> FOUR consecutive confirmations, and still not a licence —
+> ★★★★★ **AND Cap. VII's (260) IS CORRECT TOO, tested by `p5-c6`: `Cap. VII.` stands about TWO-THIRDS
+> down p. 260's LEFT column, with a ONE-line subtitle.**
+> FIVE consecutive confirmations, and still not a licence —
 > but note WHAT THE INDEX GOT WRONG EVEN SO. Cap. IV opening on p. 256 implied Cap. III would run two
-> full pages; it takes only TWO LINES of p. 256. The index's opening pages have now been right four
-> times and the SPAN inferred from them wrong once. Test each remaining opening on its own band, and
-> never infer a span from two openings — a run of correct openings says nothing about any span.**
+> full pages; it takes only TWO LINES of p. 256. The index's opening pages have now been right FIVE
+> times and the SPAN inferred from a pair of them has been wrong once (Cap. III) and right once
+> (Cap. VI). Test each remaining opening on its own band, and never infer a span from two openings —
+> a run of correct openings says nothing about any span.**
 > ★ **A second failed prediction is worth carrying: `p5-c4` forecast a THREE-line subtitle for Cap. VI
 > (the longest title in the pars) and the plate sets it in TWO. A predicted layout is not a measured
 > one — never size a heading from its word count.**
@@ -194,92 +197,190 @@
 > reader counting block lines rather than numerals would reach ten.** Both marks were re-read by
 > `p5-c5` and neither was counted; **p. 258 carries neither.** The next signature is due around p. 265.
 >
-> ## ▶ THE FRONT — `bon-brev-p5-c6`, Pars V Cap. VI, *De ramificatione gratiae in habitus beatitudinum, et per consequens fructuum et sensuum*
+> ## ✅ `bon-brev-p5-c6` DONE (2026-07-30) — commit `6b9bd28`
+> Breviloquium **Pars V, Cap. VI, *De ramificatione gratiae in habitus beatitudinum, et per consequens
+> fructuum et sensuum*** — printed **pp. 258–260**, the third and largest of the three *ramificatio*
+> chapters and the **SECOND capitulum in Pars V to touch three printed pages and cross two leaves**
+> (after Cap. III). Opens at the very **TOP of p. 258's RIGHT column** under a **TWO-line** subtitle;
+> fills that column entire to `…et *universae viae Domini misericordia et veritas*⁷: hinc est,`; breaks
+> across the first leaf **AT A COMMA, STRANDING THE MAIN CLAUSE FROM ITS `quod`-COMPLEMENT** (`hinc est,`
+> / `quod duplex est beatitudo`); fills p. 259's left column entire; crosses p. 259's gutter **ON A
+> STRANDED PREPOSITION GOVERNING NOTHING** (`nam qui pie ad` / `aliquem afficitur`); fills p. 259's right
+> column entire to `…dicunt delectationes consequentes`; breaks across the second leaf **ON A PARTICIPLE
+> STRANDED FROM ITS OBJECT** (`delectationes consequentes` / `opera perfecta`); and closes about
+> **two-thirds down p. 260's LEFT column** at `…ideo deinceps consideranda sunt exercitia meritorum.`
+> **★ The end is fixed POSITIVELY from the `Cap. VII. / De exercitio gratiae respectu credendorum.`
+> heading standing immediately below it IN THE SAME LEFT COLUMN**, with a ONE-line subtitle.
+> **Cap. VI touches no right column on p. 260 at all.**
+> Apparatus **15 entries** — **p. 258 nn. 5–7** (the inherited three, every ownership, column, position,
+> digit, siglum and verbatim text re-derived), **p. 259 nn. 1–9** (closing that register entire) and
+> **p. 260 nn. 1–3**. **TWO entries run over a gutter and are rendered joined: p. 259 n. 5 and
+> p. 260 n. 3.** Gutters p. 258 = **1412** (re-derived from the ink profile, NOT adopted), p. 259 =
+> **1137** and p. 260 = **1398**, both measured fresh and **BOTH DEFAULTS REJECTED**.
+> **FOUR runovers owed, FOUR closed: p. 258 → p. 259 NEGATIVE · `p.259 n.5:gutter` POSITIVE ·
+> p. 259 → p. 260 NEGATIVE · `p.260 n.3:gutter` POSITIVE — one ledger line,
+> `p5-c6  p.259 n.5:gutter,p.260 n.3:gutter`.** `check-vol5-apparatus.py` all checks passed (p. 259 fed
+> as **9**, p. 260 as **7**); `polish-style-scan --volume 5` CLEAN; `check-vol5-census.py` rosters agree
+> (55/55); build **1988/1988**. **No `[?]` flags.**
 >
-> ### Hand-off INTO `bon-brev-p5-c6`
-> - **★ THE TARGET AND ITS OPENING ARE ALREADY ON A BAND.** `Cap. VI. / De ramificatione gratiae in
->   habitus beatitudinum, / et per consequens fructuum et sensuum.` stands at the very **TOP of
->   p. 258's RIGHT column**, directly under the running head, with a **TWO-line** subtitle (**not the
->   three `p5-c4` predicted — a predicted layout is not a measured one**). Its opening reads
->   `De ramificatione autem gratiae in habitus *beatitudinum* haec tenenda sunt, quod septem sunt
->   *beatitudines*, quas Salvator enumerat in sermone de monte⁵ scilicet *paupertas spiritus, mititas,
->   luctus, esuries iustitiae, misericordia, munditia cordis* et *pax*. — Ad has beatitudines propter
->   sui perfectionem et plenitudinem duodecim *fructus Spiritus* et quinque *sensus spirituales*
->   consequuntur…` **All of this was read on p. 258's bands, but re-set every line from the band
->   yourself, and establish Cap. VI's END POSITIVELY from the `Cap. VII.` heading** — never from white
->   space, never from a grammatically complete tail, never from a running head. **The index puts
->   Cap. VII at p. 260, so Cap. VI probably spans pp. 258–260 — a hypothesis, not a span; close it
->   from the heading.** ★ **If that hypothesis holds, Cap. VI is only the SECOND capitulum in Pars V
->   to touch three printed pages and cross two leaves (after Cap. III), so expect TWO leaf breaks and
->   TWO gutter crossings, and expect them to differ in shape — Cap. III's three breaks were three
->   different shapes.** ★ **p. 259's right column, visible in the raw, is still Cap. VI (`quod duplex
->   est beatitudo secundum has duas vias…`), which is consistent with the hypothesis but is NOT a
->   band reading and settles nothing.**
-> - **★★ PICK UP: p. 258 nn. 5–7, THREE NOTES. p. 258's register is SEVEN and nn. 1–4 are Cap. V's.**
->   For each note `p5-c5` states exactly what it verified — **re-derive all of it, adopt none of it:**
->   - n. **5** — **OWNERSHIP, COLUMN and POSITION all verified.** Anchor on `quas Salvator enumerat in
->     sermone de monte`⁵ in Cap. VI's opening paragraph, **RIGHT** column, four lines below the
->     subtitle, beside the `Septem beatitudines.` gloss; entry in the **RIGHT** block. Text:
->     `Matth. 5, 3. seqq. — Fructus Spiritus S. enumerantur Gal. 5, 22. seq. — Quae proponuntur in hoc
->     cap. tanguntur III. Sent. d. 34. p. 1. a. 1. q. 1. in fine corp. et a. 2. q. 1. in fine corp.
->     Quoad numerum beatitudinum (*septem*, non *octo*) cfr. ibid. d. 36. q. 1. scholion.`
->   - n. **6** — **OWNERSHIP, COLUMN and POSITION all verified.** Anchor on `aut ex languore
->     concupiscentiae`⁶ in the *Prima ratio ex triplici radice* paragraph, **RIGHT** column, beside the
->     `Subdistinctio.` gloss; entry in the **RIGHT** block. Text: `Cfr. supra p. III. c. 8.` ★ **Read
->     that `p. III.` as a ROMAN — the Breviloquium's own Pars III, not a page — and note it is the
->     same slot in which p. 256 n. 5 set `p. I.` and the raw gave `p. 1.`**
->   - n. **7** — **OWNERSHIP, COLUMN and POSITION all verified.** Anchor on `*universae viae Domini
->     misericordia et veritas*`⁷ on the LAST line of p. 258's right column; entry in the **RIGHT**
->     block. Text: `Psalm. 24, 10. — Superius pro *concupiscentialis* plures codd. vel
->     *concupiscentis*, vel *concupiscentiae*, vel cum 2 *concupiscibilis*. Terminus
->     *concupiscentialis* et adverbium occurrit apud Augustin.; cfr. Magister II. Sent. d. XXX. c. 7.`
->     ★ **Its `Superius` lemma corroborates itself against the body: `languoris concupiscentialis`
->     stands seven lines above the anchor, inside n. 6's own sentence.**
-> - **★★ RUNOVERS `p5-c6` OWES: the p. 258 → p. 259 page-crossing test, p. 259's own gutter test, and
->   (if Cap. VI reaches it) p. 260's gutter and the p. 259 → p. 260 test.** ★ **p. 258's own gutter
->   test is NOT yours — `p5-c5` ran it, found it NEGATIVE (left block ends complete at n. 2, right
->   block opens NUMBERED with `³ Cfr. supra pag. 210, nota 5.`) and LOGGED it.**
-> - **DO NOT RE-LOG:** p. 257's own gutter test, the p. 257 → p. 258 test and p. 258's own gutter test
->   (all three `p5-c5`, all three NEGATIVE, all three already carried by the one line `p5-c5 -`);
->   p. 256's own gutter test and p. 256 → p. 257 (both `p5-c4`); `p.255 n.8:gutter` and the
->   p. 254 → p. 255 and p. 255 → p. 256 tests (all three `p5-c3`); `p.253 n.9:page` and
->   `p.254 n.3:gutter` (both `p5-c2`); the p. 252 → p. 253 test and p. 253's gutter (both `p5-c1`).
->   **Never double-log; that is the double-count the ledger exists to prevent.**
-> - **pp. 255–258's bands already exist** (`raw/vision/vol5/p-255.png` … `p-258.png`; colcrop bands in
->   `/tmp/colcrop/`). **p. 259 and p. 260 have NOT been imaged.** Extract them fresh with no constant:
->   `python3.11 tools/extract-pages.py --volume vol5 --pages 259-260 --dpi 450` then
->   `python3.11 tools/colcrop.py vol5 259` (and 260).
-> - **★★ EXPECT THE IN-GUTTER OBSTRUCTION ON pp. 259–260 — IT HAS NOW APPEARED ON TEN LEAVES OUT OF
->   ELEVEN** (pp. 248, 249, 250, 251, 253, 254, 255, 256, 257, **258**; p. 252 is the one between and
->   carried the display-heading failure instead). **Print the per-column ink profile even when the
->   windows agree.**
-> - **★★★ AND EXPECT SKEW: FIVE CONSECUTIVE LEAVES ARE NOW SKEWED, IN TWO DIRECTIONS AND FIVE
->   AMOUNTS** — p. 254 rightward ~10 px, p. 255 **leftward ~13 px**, p. 256 rightward ~6 px,
->   p. 257 **leftward ~21 px** (the largest on this quire), p. 258 **rightward ~6–11 px**. **The
->   diagnostic is the SHAPE of the disagreement: windows that DRIFT MONOTONICALLY with height mean
->   skew, and the SIGN of the drift tells you which way the block leans (p. 257 ran 1216 → 1195 top to
->   foot; p. 258 ran 1405 → 1416). Windows that FORK into two clusters still mean an off-centre
->   island; windows that collapse on a 250–330 px run still mean a full-width heading.**
-> - Gutters so far: p.231=1194 · 232=1337 · 233=1211 · 234=1341 · 235=1210 · 236=1331 · 237=1209 ·
->   238=1338 · 239=1200 · 240=1338 · 241=1228 · 242=1361 · 243=1186 · 244=1367 · 245=1201 · 246=1345 ·
->   247=1209 · 248=1391 · 249=1182 · 250=1390 · 251=1160 · 252=1403 · 253=1250 · 254=1357 · 255=1206 ·
->   256=1355 · **257=1200** · **258=1412**.
->   **★★★ PARITY IS DEAD, THE NEIGHBOUR IS DEAD, AND SO IS THE SAME-PARITY-TWO-LEAVES-BACK HEURISTIC —
->   AND THE SPREAD IS STILL OPENING. p. 258 = 1412 is the WIDEST gutter anywhere in Pars V (9 px past
->   p. 252's old maximum) and it stands 212 px from p. 257's, a wider adjacent gap than the 155 px
->   `p5-c4` called the widest one leaf earlier. p. 256 and p. 258, two leaves apart and both even, sit
->   57 px apart. Nothing predicts anything; the range is not converging.**
->   Measure every new page; RE-PROFILE any run at or under ~60 px even when unflagged (**p. 255's was
->   52 px, p. 256's 54 px, p. 257's 46 px and p. 258's 46 px — all four unflagged and all four
->   right**); treat a FLAGGED sub-15 px run as a failure outright; and treat a run FAR ABOVE the
->   58–64 px band as a failure too.
->   ★★ **AND THE WINDOWS-VERSUS-MIDPOINT TIE-BREAK NOW HAS ALL THREE CASES.** p. 256's eight body
->   windows agreed UNANIMOUSLY at 1355 against a midpoint of 1352 and the WINDOWS were adopted.
->   p. 257's eight body windows spread SEVEN pixels against a midpoint of 1200 and the MIDPOINT was
->   adopted. **p. 258's body windows spread FOUR pixels (1412–1416) around a midpoint of 1412 that is
->   also the default and two of the windows — so the two tests did not have to be traded off at all.**
->   **Take the windows when they AGREE and the midpoint merely differs; take the midpoint when the
->   windows FAIL to agree; and when they overlap, say so rather than manufacturing a preference.**
+> ## ★★★ THE IN-GUTTER OBSTRUCTION IS IDENTIFIED. IT IS QUARACCHI'S PRINTED COLUMN RULE.
+> **`p5-c6` cropped the gutter of pp. 258, 259 and 260 directly at 250 px width and looked at it: a
+> black vertical rule stands between the columns on every one** (p. 258 at x ≈ 1405–1414, p. 259 at
+> x ≈ 1128–1133, p. 260 at x ≈ 1397–1399). **It is not a marginal gloss set low, and it is not an
+> obstruction to be worked around — it IS the gutter's centre line, and on all three leaves the
+> blank-band midpoint agrees with it.** ★ **This retro-explains the "obstruction on ten leaves out of
+> eleven" observation, and it predicts the exact failure mode, which p. 260 then produced: when the
+> rule prints heavily enough to sit ABOVE the tool's min-ink threshold, `measure_gutter` takes only the
+> zero-ink half BESIDE the rule and returns a plausible number on a short run. p. 260's default was
+> `1386 on a 20 px run` — five px above the tool's own 15 px failure flag — and the truth is 1398.**
+> ★★ **THE NEW DIAGNOSTIC, and it is cheap: windows that FORK into two values with NO DRIFT mean the
+> rule has split the band. Windows that DRIFT MONOTONICALLY mean skew. Windows that COLLAPSE on a
+> 250–330 px run mean a full-width heading. p. 259 drifted (1150 → 1133, leftward skew ~12 px);
+> p. 260 forked (1386/20 vs 1397/60) and is essentially UNSKEWED after five skewed leaves.**
+> ★ **Gutters so far: p.231=1194 · 232=1337 · 233=1211 · 234=1341 · 235=1210 · 236=1331 · 237=1209 ·
+> 238=1338 · 239=1200 · 240=1338 · 241=1228 · 242=1361 · 243=1186 · 244=1367 · 245=1201 · 246=1345 ·
+> 247=1209 · 248=1391 · 249=1182 · 250=1390 · 251=1160 · 252=1403 · 253=1250 · 254=1357 · 255=1206 ·
+> 256=1355 · 257=1200 · 258=1412 · **259=1137** · **260=1398**.
+> **p. 259 = 1137 is the NARROWEST gutter anywhere in Pars V (23 px below p. 251's old minimum) and it
+> stands 275 px from p. 258's — by far the widest adjacent gap in the pars. The range is now 1137–1412,
+> 275 px wide, and it is opening at BOTH ends. Parity is dead, the neighbour is dead, and nothing is
+> converging. Measure every page, print the profile every time, and crop the rule if the numbers argue.**
+>
+> ## ▶ THE FRONT — `bon-brev-p5-c7`, Pars V Cap. VII, *De exercitio gratiae respectu credendorum*
+>
+> ### Hand-off INTO `bon-brev-p5-c7`
+> - **★ THE TARGET AND ITS OPENING ARE ALREADY ON A BAND.** `Cap. VII. / De exercitio gratiae respectu
+>   credendorum.` stands about **two-thirds down p. 260's LEFT column**, immediately below Cap. VI's
+>   close, with a **ONE-line** subtitle. Its opening reads `Quarto igitur restat considerare gratiam
+>   quantum ad *exercitia meritorum*. Et circa haec consideranda sunt quatuor. Primo, de exercitatione
+>   gratiae in *credendis*, cuiusmodi sunt articuli fidei; secundo, in *diligendis*, cuiusmodi sunt illa
+>   quae spectant ad ordinem diligendi; tertio, in *exsequendis*, cuiusmodi sunt praecepta legis divinae;
+>   quarto in *postulandis*, cuiusmodi sunt petitiones orationis dominicae⁴. — De *articulis* autem
+>   *fidei* haec tenenda sunt, quod licet per fidem astringamur credere plurima…` **All of this was read
+>   on p. 260's bands, but re-set every line from the band yourself, and establish Cap. VII's END
+>   POSITIVELY from the `Cap. VIII.` heading** — never from white space, never from a grammatically
+>   complete tail, never from a running head. **The index puts Cap. VIII at p. 261, so Cap. VII probably
+>   spans pp. 260–261 — a hypothesis, not a span; close it from the heading.** ★ **The index's opening
+>   pages have now been right FIVE times running in Pars V (capp. III, IV, V, VI, VII), and the span
+>   inferred from a pair of them has been wrong once (Cap. III) and right once (Cap. VI). A run of
+>   correct openings still says nothing about any span.**
+> - **★★ PICK UP: p. 260 nn. 4–7, FOUR NOTES. p. 260's register is SEVEN and nn. 1–3 are Cap. VI's.**
+>   For each note `p5-c6` states exactly what it verified — **re-derive all of it, adopt none of it:**
+>   - n. **4** — **OWNERSHIP, COLUMN and POSITION all verified.** Anchor on `cuiusmodi sunt petitiones
+>     orationis dominicae`⁴, closing Cap. VII's opening fourfold division, **LEFT** column, about six
+>     lines below the `Cap. VII.` heading; entry in the **RIGHT** block. Text: `De his quatuor agitur in
+>     hoc et 3 seqq. capp. — Superius pro *articuli* E *illa quae spectant ad articulum*.`
+>   - n. **5** — **OWNERSHIP and BLOCK COLUMN verified; the ANCHOR POSITION is an UNREAD REGION and was
+>     deliberately NOT inferred.** Entry in the **RIGHT** block. Text: `Cfr. III. Sent. d. 23-25. —
+>     Superius pro *plurima* I K L V *plura*. Subinde pro *dicuntur* S *sunt dicendi*, et pro *ediderunt*
+>     L *condiderunt*.` ★ **Its `Superius pro plurima` lemma answers to `astringamur credere plurima` on
+>     the LAST line of p. 260's LEFT column — a hint at its neighbourhood, NOT a reading.**
+>   - n. **6** — **OWNERSHIP and BLOCK COLUMN verified; ANCHOR POSITION an UNREAD REGION.** Entry in the
+>     **RIGHT** block. Text: `E P W et 2 *humilis*.`
+>   - n. **7** — **OWNERSHIP and BLOCK COLUMN verified; ANCHOR POSITION an UNREAD REGION.** Entry in the
+>     **RIGHT** block. Text: `Respicitur II. Cor. 10, 5. Cfr. supra pag. 52, nota 7. — Ante *redigat* M
+>     addit *totum*. Inferius pro *improbandae* O Q *improbitate* (plures codd. *improbatae*).` ★ **Its
+>     `Ante redigat` lemma answers to `quod se redigat in obsequium Christi` in p. 260's RIGHT column,
+>     and II Cor. 10, 5 is `in captivitatem redigentes omnem intellectum in obsequium Christi` — the
+>     citation and the lemma agree, which PLACES the note but does not read its anchor.**
+> - **★★ RUNOVERS `p5-c7` OWES: p. 261's own gutter test, the p. 260 → p. 261 page-crossing test, and
+>   (if Cap. VII reaches it) p. 262's gutter and the p. 261 → p. 262 test.** ★ **p. 260's own gutter test
+>   is NOT yours — `p5-c6` ran it, found it POSITIVE at n. 3 and LOGGED it. Do not re-log it, and note
+>   that although n. 3's runover completes at the head of the RIGHT block, the four notes that follow it
+>   in that same block are YOURS: a runover's owner is decided by its ANCHOR, never by its block.**
+> - **DO NOT RE-LOG:** `p.259 n.5:gutter` and `p.260 n.3:gutter`, and the p. 258 → p. 259 and
+>   p. 259 → p. 260 tests (all four `p5-c6`); p. 257's own gutter test, p. 257 → p. 258 and p. 258's own
+>   gutter test (all three `p5-c5`); p. 256's own gutter test and p. 256 → p. 257 (both `p5-c4`);
+>   `p.255 n.8:gutter` and the p. 254 → p. 255 and p. 255 → p. 256 tests (all three `p5-c3`);
+>   `p.253 n.9:page` and `p.254 n.3:gutter` (both `p5-c2`); the p. 252 → p. 253 test and p. 253's gutter
+>   (both `p5-c1`). **Never double-log; that is the double-count the ledger exists to prevent.**
+> - **pp. 255–260's bands already exist** (`raw/vision/vol5/p-255.png` … `p-260.png`; colcrop bands in
+>   `/tmp/colcrop/`, p. 259 cut at **1137** and p. 260 at **1398**). **p. 261 and p. 262 have NOT been
+>   imaged.** Extract fresh with no constant:
+>   `python3.11 tools/extract-pages.py --volume vol5 --pages 261-262 --dpi 450` then
+>   `python3.11 tools/colcrop.py vol5 261` (and 262). **Never `Read` a full-page extract.**
+> - **★★ THE COLUMN RULE IS ON EVERY LEAF — assume it, print the per-column ink profile even when the
+>   windows agree, and if the windows FORK, crop the gutter and look at the rule directly.** The crop
+>   that settled p. 260 was one line:
+>   `Image.open('raw/vision/vol5/p-260.png').crop((1310,1400,1560,2600)).resize((500,2400))`.
+> - **★★★ SKEW: p. 254 rightward ~10 px · p. 255 **leftward ~13** · p. 256 rightward ~6 · p. 257
+>   **leftward ~21** · p. 258 rightward ~6–11 · p. 259 **leftward ~12** · p. 260 essentially NONE.
+>   Seven leaves, three directions counting zero, and the run of five consecutive skewed leaves has just
+>   ended. Parity predicts nothing, proximity predicts nothing, the previous leaf predicts nothing.**
+>
+> ## ★ THE PRINTER'S SIGNATURE IS STILL DUE AROUND p. 265.
+> `S. Bonav. — Tom. V.` last fell on p. 257 with the quire signature `33`. **pp. 258, 259 and 260 carry
+> NEITHER mark** — all three registers were read to their last line by `p5-c6` to confirm it. **Neither
+> a printer's signature nor a quire signature nor an unnumbered runover tail is EVER an entry. Never
+> count them.**
+>
+> ## ★★ WHAT PARS V HAS TAUGHT ABOUT FOOTER GEOMETRY — THREE LEAVES, THREE ANSWERS, ONE PAGE APART
+> **p. 258:** anchors 4/3, blocks 2/5, capitulum line ON the anchor line — the block dissents by TWO,
+> because n. 2 alone runs fourteen lines. **p. 259:** anchors 4/5, blocks 5/4, NO capitulum line at all
+> — the block dissents by ONE, and the dissenting note is precisely the one that then runs over the
+> gutter, so a single entry is physically in BOTH blocks while anchoring in a column it does not print
+> under. **p. 260:** anchors 3/4, blocks 3/4, capitulum line between nn. 3 and 4 — **ALL THREE LINES
+> COINCIDE, for the first time in Pars V.** ★ **Block structure, column structure and capitulum
+> structure are three independent things and the three leaves of one capitulum demonstrated all three
+> relations. READ ANCHORS, ONLY ANCHORS.**
+>
+> ## ★★ THE THREE ENUMERATED SERIES WERE TYPESET THREE DIFFERENT WAYS — AND ONE HAND-OFF PREDICTION WAS WRONG ABOUT THE FACTS
+> ★ **The beatitudes are SEVEN, not eight.** The body says `septem sunt beatitudines` and p. 258 n. 5
+> says it in as many words: `Quoad numerum beatitudinum (septem, non octo) cfr. ibid. d. 36. q. 1.
+> scholion.` **Any brief that says "the eight beatitudes of Matthew 5" is wrong about this chapter.**
+> ★ **(i) The SEVEN beatitudes are set in FULL ITALIC at their first naming and italicised again one by
+> one at every assignment, on BOTH sides** (`*timor* disponit ad *spiritus paupertatem*`) — which is
+> Cap. IV's principle and the exact opposite of Cap. V's, where the answering term went roman.
+> ★ **(ii) The TWELVE fruits are NOT NAMED at their first mention at all** (p. 258 gives only
+> `duodecim *fructus Spiritus*`) **and are named only two printed pages later, in the corollary, all
+> twelve in unbroken italic.** ★ **(iii) The FIVE senses are never a list of nouns: they are five italic
+> passive VERBS** (`*videtur* … *auditur* … *gustatur* … *odoratur* … *astringitur*` — note the fifth is
+> `astringitur`, not `tangitur`) **each governing an italic capitalised object — and the italic is
+> inconsistent inside one clause: `sub ratione *Sapientiae* comprehendentis utrumque, Verbum scilicet et
+> Splendorem` sets `Verbum` and `Splendorem` ROMAN four words after setting them italic.** ★ **And the
+> assignment series breaks its own rule once: `Disponit ergo timor ad spiritus paupertatem.` is wholly
+> ROMAN three lines after the same words went wholly italic.** **Follow the plate per paragraph.
+> Regularise nothing. The plate's italic is not a rule you may complete.**
+>
+> ## ★ GLOSSES: FIVE CONSECUTIVE CAPITULA, FIVE DIFFERENT GRAMMARS — AND CAP. VI RAN TWO SERIES AT ONCE
+> Cap. VI's sixteen glosses carry **TWO independent numbered series interleaved with topical glosses**:
+> `Prima ratio ex triplici radice. / Secunda, item. / Tertia secundum 7 dona.` (three members, the noun
+> dropped after the first but abbreviated DIFFERENTLY in each) and `Corollarium 1. / Corollarium 2.`
+> (two members, the noun kept in both, twenty-five lines and a page apart). ★ **`Duodecim fructus` is
+> printed WITHOUT a terminal period where its neighbours have one — recorded as printed, not repaired.**
+> ★ **Two glosses set arabic numerals inside their own text (`secundum 7 dona`, `per 6 gradus`) where
+> the body spells the numbers out.** **Never infer a capitulum's gloss form from its neighbour's.**
+>
+> ## ★★ RAW QUALITY: THE SWING IS NOW *WITHIN* A SINGLE COLUMN, WITH NO STRUCTURAL MARKER
+> **p. 259's LEFT column is GOOD in its first twenty-four lines and POOR from the *Tertio* paragraph
+> down — and the transition happens INSIDE a paragraph, with no heading, no rule and no column break.**
+> Above it, thirty-eight garbles and nothing destroyed; below it, the gloss `Tertia secundum 7 dona.`
+> destroyed outright and `praeambulae` and `paupertas` with it. ★ **Grade the run, never the page, and
+> do not assume a grade holds to the foot of the column you measured it in.** ★ **And note where the
+> damage CONCENTRATES: on p. 259's right column the raw destroyed exactly three words — `sensus`,
+> `videtur`, `auditur` — which are the head of the five-senses series. A chunk built from the raw would
+> have lost the series' opening and kept its tail, which is the shape that reads as complete.**
+> ★★ **Two defects on these leaves would have PARSED CLEAN and passed every audit: the raw's
+> `Phil. l, 7` for `Phil. 4, 7` and its `Cant. 3, 16` for `Cant. 5, 16` — both well-formed citations of
+> verses that exist. Both were caught only because the note quotes what it cites (`Et pax Dei, quae
+> exsuperat omnem sensum` and `totus desiderabilis`) and the body answers it. The raw also INSERTED a
+> comma the plate does not print (`in dtliciis mcis`).** **Settle every digit twice — by glyph AND by
+> sense — and build the contrast set from the same line or entry.**
+>
+> ### ✅ Hand-off INTO `bon-brev-p5-c6` — CONSUMED (kept for the record, superseded above)
+> `p5-c5` forwarded **p. 258 nn. 5–7**, with **ownership, column and position declared verified for all three**
+> and the full text of each. `p5-c6` re-derived every claim from p. 258's bands rather than adopting it.
+> **Every ownership held; every column held; every position held; and all three texts held VERBATIM** —
+> n. 5's `d. 34. p. 1. a. 1. q. 1.` and `d. 36. q. 1.`, n. 6's `p. III. c. 8.` (roman, the Breviloquium's own
+> Pars III) and n. 7's `d. XXX. c. 7.` ★ **The hand-off's own self-corroboration for n. 7 also held:
+> `languoris concupiscentialis` really does stand seven lines above the anchor, inside n. 6's sentence, so the
+> `Superius pro concupiscentialis` lemma checks itself against the body without leaving the page.**
+> **Running score: forwarded OWNERSHIP has now held FOURTEEN times in FOURTEEN; forwarded DETAIL has failed
+> twice in fourteen, both times from hand-offs that admitted the detail was unverified; and a hand-off that
+> states plainly what it verified has now been fully vindicated TWICE running.** ★ **`p5-c6` in turn declared
+> an UNREAD REGION for p. 260 nn. 5–7 rather than inferring their columns from the block — the practice
+> p5-c5 vindicated, and p. 259 one leaf back shows why it is right: on that page n. 5 anchors in the RIGHT
+> column and prints in the LEFT block, so a block-column inference would have been WRONG.**
 >
 > ### ✅ Hand-off INTO `bon-brev-p5-c5` — CONSUMED (kept for the record, superseded above)
 > `p5-c4` forwarded **p. 257 nn. 2–9**, with ownership, column and position verified for nn. 2, 3, 4, 5 and 9,
