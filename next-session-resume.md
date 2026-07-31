@@ -1,7 +1,7 @@
 # Bonaventure Sentences — Next Session Resume
 
 > ## ✅ THE INDEX IS COMPLETE — PHASES 0, 1 AND 2 ALL SHIPPED (2026-07-31).
-> ## NEXT SESSION = **PARS VI**.
+> ## NEXT SESSION = **PARS VI, Cap. II** (`bon-brev-p6-c2`). Pars VI is OPEN — Cap. I shipped 2026-07-31.
 > The generated replacement for Quaracchi's skipped Vol X is built and building green.
 > Design of record: `INDEX-PLAN.md`. **How the parser and the pages actually behave is
 > frozen in repo `CLAUDE.md` § "Index conventions" — read that, not the plan.**
@@ -733,9 +733,103 @@
 > `check-vol5-apparatus.py` all checks passed (p. 264 fed as **6**); `check-vol5-census.py` rosters
 > agree; `polish-style-scan --volume 5` CLEAN; build **1992/1992**. **No `[?]` flags.**
 >
-> ## ▶ THE FRONT — `bon-brev-p6-c1`, **PARS VI opens**, Cap. I, *De Sacramentorum origine*
+> ## ✅ `bon-brev-p6-c1` DONE (2026-07-31) — commit `7fff450`. **PARS VI IS OPEN.**
+> Breviloquium **Pars VI, Cap. I, *De Sacramentorum origine*** — printed **pp. 265–266**.
+> ★★ **The full-width `PARS SEXTA. / De medicina sacramentali.` display heading stands at the HEAD of
+> p. 265 — confirmed on the band — and FOLDS INTO THIS CHUNK as a `###` heading per the frozen
+> short-opener rule; there is no pars-divisio chunk for Pars VI.** Below it, centred in the LEFT
+> column, `Cap. I.` and the ONE-line subtitle. Cap. I fills p. 265's left column to `…quod non tan-`;
+> crosses p. 265's gutter **MID-WORD AND HYPHENATED** (`non tan-` / `tum esset spiritualis`); fills
+> p. 265's right column entire to `…fructus vero est hominum cura`; breaks across the leaf **BETWEEN
+> THE TWO MEMBERS OF A COORDINATED NOUN PAIR** (`hominum cura` / `et salus`), **both halves reading
+> as complete phrases**; and closes about **48 % down p. 266's LEFT column** at `…ita ut merito dici
+> debeant Sacramenta.` **★ The end is fixed POSITIVELY from the `Cap. II. / De Sacramentorum
+> variatione.` heading standing immediately below it IN THE SAME LEFT COLUMN — the index's p. 266 for
+> Cap. II is CONFIRMED.**
+> **Pars VI's capitulum count = THIRTEEN**, verified against the volume's own index (raw L93970–93999,
+> capp. I–XIII at pp. 265–279, closed positively on the `Pars VII.` block at p. 281). The index block
+> does split mid-pars with a repeated `Cap. VIII.` header; the count survives it.
+> Apparatus **7 entries** — **p. 265 nn. 1–6** (the inherited scoped pending, every anchor, column,
+> digit and siglum re-derived; `p5-c10`'s scope statement HELD in both halves) and **p. 266 n. 1**
+> (first-read). ★★ **p. 265's ANCHORS DIVIDE 3/3 BY COLUMN AGAINST A 2/4 BLOCK SPLIT** — n. 3's anchor
+> (`a sensibus carnis`) is in the LEFT column while its entry OPENS THE RIGHT BLOCK. The hand-off gave
+> the block split and could not have given the anchors; this is exactly the case the rule anticipates.
+> **★★ BOTH LIVE SIGLUM DECISIONS SETTLED** — by stroke count, alphabetical run order and grammatical
+> slot, never by hunting a crossbar: **`A B C H`** (two bare uprights; the set has no two-letter
+> member and `II` is not a siglum, and `A B C …` ascends), **`I K L O U`** (single upright ⇒ `I`; the
+> chronic raw `R` excluded because `I R L O U` breaks the ascent), **`D E I K M N`** (same two tests),
+> and the independent corroborator **`D G H` in p. 266 n. 1** — the same crossbar-less `H` sort one
+> leaf on. **Digits settled by corroboration, not by glyph:** Hugh's *De sacram.* I. p. IX is cited in
+> a strict ascending run `c. 2 → c. 3 → c. 4 → c. 5` across nn. 1, 5 and 6, which is what settles the
+> `1`/`4` risk on n. 5's `c. 4`; Aristotle's `text. 49. (c. 4.)` settled from sense (*De anima* II, 4,
+> 415b). **Gutters: p. 265 = 1150** (ink profile blank band 1125–1177, column rule 1142–1159 peaking
+> on 1151, midpoint 1151; default **1121 on a 4 px run** rejected) and **p. 266 = 1422 SETTLED FRESH**
+> — the tool's default **1425 on a 53 px run** REJECTED as inside the suspect band and a 275 px swing
+> from its neighbour; ten sound windows spread **1414–1427 on runs 58–61 px** (a ~13 px RIGHTWARD
+> skew, the mirror of p. 265's leftward one); ink profile blank band **1398–1446**, column rule
+> **1414–1430**, **midpoint 1422 adopted**, bands regenerated and read clean edge to edge.
+> **BOTH owed runovers closed NEGATIVE from both sides and logged as ONE negative ledger line:
+> p. 265's own gutter test and p. 265 → p. 266.** `check-vol5-apparatus.py` **60 chunks, 494 entries,
+> all checks passed** (p. 265 fed as **6**); `check-vol5-census.py` **60 on disk / 60 in ledger,
+> rosters agree, 37 runovers across 60 chunks**; `polish-style-scan --volume 5` **CLEAN (60 files)**;
+> `build-citations.py --volumes 5` **0 QA flags**; build **1993/1993**. **No `[?]` flags.**
 >
-> ### ✅ THE PARS V DEPLOY BOUNDARY IS CLOSED — begin `bon-brev-p6-c1` directly.
+> ## ▶ THE FRONT — `bon-brev-p6-c2`, Cap. II, *De Sacramentorum variatione*
+>
+> ### Hand-off INTO `bon-brev-p6-c2`
+> - **★ THE TARGET AND ITS OPENING ARE ALREADY ON A BAND.** `Cap. II.` with the ONE-line subtitle
+>   `De Sacramentorum variatione.` stands about **55 % down p. 266's LEFT column**, immediately below
+>   Cap. I's close. Its opening reads: `De *variatione* autem Sacramentorum hoc tenendum est, quod
+>   Sacramenta ab initio ad curationem hominis instituta sunt et semper cum morbo homi-…`, with the
+>   marginal gloss `Thesis 1.` alongside, and further down `Pro thesi 1.` beside `…nostrae principium
+>   et fons et origo Sacramentorum, cum sit clementissimum et sapientissimum; eo quod clementissimum
+>   est, non permisit, quod curreret…`. **BODY POSITION verified on the band; the chapter's END was
+>   NOT read and no span is claimed** — the index puts Cap. III on p. 267, which is a hypothesis.
+>   **Close it POSITIVELY from the `Cap. III.` heading.**
+> - **★★ PICK UP: p. 266 FROM n. 2 ONWARD. p. 266's TOTAL IS UNKNOWN AND WAS DELIBERATELY NOT FED TO
+>   `KNOWN_TOTALS`** — `p6-c1` owns only n. 1 (anchor `a forma et a fine`, LEFT column, inside Cap. I's
+>   tail). Stated with its verification level, claiming nothing more: **BLOCK POSITION and VERBATIM
+>   TEXT of nn. 2–3 were read off the left block; NO anchor for either was read and none is claimed;
+>   THE RIGHT BLOCK WAS NOT READ AT ALL.**
+>   - n. **2** `August., IX. contra Faustum, c. 13, ubi pro *statuta* ponitur *instituta*, quod
+>     exhibent etiam D E. Cfr. Hug. a S. Vict., I. de Sacram. p. VIII. c. 12. et p. XI. c. 6. — De hoc
+>     cap. vide IV. Sent. d. 1. p. II. per totam et d. 2. a. 1. q. 1. seq. — Superius, communissimam
+>     lectionem codd. et 2 secuti, substituimus *sub gratia* (ita etiam Hug. a S. Vict., locis citt.)
+>     pro *sub lege gratiae*. Inferius pro *omnium praedictorum* I K L U V *omnium praeteritorum*.`
+>   - n. **3** `Hug. a S. Vict., I. de Sacram. p. XI. c. 6, nonnullis tamen mutatis. Pro *ipsa
+>     significatio* editio originalis *ipsa sanctificatio*; quae lectio potius videtur esse vitium
+>     editionis,` — **BREAKS OFF HERE at a COMMA and continues UNNUMBERED at the head of the right
+>     block.**
+>   ★ **A LIVE SIGLUM RUN SITS IN n. 2: `I K L U V`. Settle it yourself** — the raw's chronic `R` for
+>   `K` is live, and `D E` in the same note is a second run. Apply stroke count + ascent + slot.
+>   ★ **DIGITS TO SETTLE IN n. 2:** `c. 13` (`3`/`5` class), `p. VIII. c. 12` and `d. 2. a. 1. q. 1.`
+>   (all `1`/`4` class — the band prints `12` and `1` with the serif `1` that reads as `4`).
+> - **★★ RUNOVERS `p6-c2` OWES: p. 266's OWN GUTTER TEST — and it is POSITIVE.** n. 3 breaks at a
+>   comma on `…vitium editionis,` and its continuation opens the right block unnumbered. **Render it
+>   joined and log `p.266 n.3:gutter`.** Also owed: the **p. 266 → p. 267** page-crossing test.
+> - **DO NOT RE-LOG:** p. 265's own gutter test and p. 265 → p. 266 (both `p6-c1`, both NEGATIVE); the
+>   p. 264 → p. 265 test, p. 264's own gutter test and the p. 263 → p. 264 test (all three `p5-c10`);
+>   and everything on `p6-c1`'s own do-not-re-log list below. **Never double-log.**
+> - **BANDS.** pp. 255–266 are imaged. colcrop bands in `/tmp/colcrop/`, **p. 265 cut at 1150 and
+>   p. 266 at 1422** — both settled and both safe to reuse, but **re-derive p. 266's anyway** and
+>   extract p. 267 fresh with no constant. **Never `Read` a full-page extract — colcrop bands only.**
+> - **★ SKEW: p. 265 leftward ~12 · p. 266 rightward ~13 — adjacent leaves, opposite directions, and
+>   a 272 px difference in the value itself.** Parity predicts nothing, proximity predicts nothing.
+> - **★ REGISTER IS LOCKED — carry it, don't re-decide it.** `p6-c1` established off Cap. I:
+>   *signum sensibile* → "sensible sign" · *institutio* → "institution" · *sanctificatio* →
+>   "sanctification" · *causa efficiens / materialis / formalis / finalis* → "efficient / material /
+>   formal / final cause" · *gratiae vasa et causa* → "the vessels and the cause of grace" ·
+>   *medicina sacramentalis* → "the sacramental medicine" · *aegrotans / aegritudo / morbus / curatio*
+>   → "sick man / sickness / disease / curing" · *ortus, usus, fructus* → "rise, use, fruit". The Vol
+>   IV d.1–d.21 sacramental settlement remains the precedent for *materia / forma / minister /
+>   character / res et sacramentum* — **consult it, do not re-decide it.**
+> - **★ GLOSS FORM ON p. 266:** Cap. I's tail carries `De causa quadruplici.` and `Corollarium.`;
+>   Cap. II opens with a `Thesis N.` / `Pro thesi N.` pair-series. **Never infer a capitulum's gloss
+>   form from its neighbour's.**
+>
+> ### ✅ Hand-off INTO `bon-brev-p6-c1` — CONSUMED (kept for the record, superseded above)
+>
+> ### ✅ THE PARS V DEPLOY BOUNDARY IS CLOSED — `bon-brev-p6-c1` is done; continue at `p6-c2`.
 > Wilson OK'd **both** actions on 2026-07-31; push and deploy were run and verified live that day (see
 > the deploy block at the head of this file). **The next boundary is the close of Pars VI (p. 280).**
 > **Do not deploy, do not push, and do not re-raise either until then** — both remain protected
