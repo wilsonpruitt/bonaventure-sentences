@@ -773,6 +773,43 @@ KNOWN_TOTALS = {
               # "neque deficiunt in necessariis." and p.272's left block opens
               # NUMBERED at "Epist. I. Cor. 15, 4."). p6-c8 MUST NOT re-log
               # either.
+    273: 7,   # band-read in full by p6-c8, which owns nn.1-6; n.7 anchors in
+              # Cap. IX ("super panem scilicet: Hoc est corpus meum", RIGHT
+              # column) and is a legitimate forwarded PENDING until
+              # bon-brev-p6-c9 lands.
+              # Gutter 1164, SETTLED FRESH with no constant on a leaf that had
+              # not been imaged, and THE DEFAULT WAS REJECTED: colcrop returns
+              # 1161 on a 54 px run, below the 60 px trust floor. Two windows
+              # blow out (1283/283, 1241/201); the TEN survivors run 1172/62,
+              # 1170/63, 1169/61, 1167/60, 1164/59, 1164/59, 1163/60, 1161/59,
+              # 1159/59, 1158/61 -- a 14 px spread that drifts MONOTONICALLY
+              # down the leaf, i.e. page skew, not disagreement. The ink profile
+              # fixes the blank band at x~1138-1189 with the printed column rule
+              # inside it as a SKEWED island (x~1164-1171 in the upper body rows,
+              # x~1156-1161 in the lower) peaking 382 rows; band midpoint 1163.5,
+              # rule centre ~1164 -> 1164 adopted. The rule inked HEAVILY here
+              # (382 rows against p.272's 220), which is WHY the default was
+              # pinched.
+              # BLOCK SPLIT 5/3, ANCHOR SPLIT 4/3 -- THEY DO NOT COINCIDE, AND
+              # THE CAPITULUM BOUNDARY FALLS AT NEITHER. Left block nn.1-5 with
+              # n.5 STRADDLING the gutter; right block n.5's unnumbered
+              # continuation, then nn.6-7. Anchors: nn.1-4 LEFT column, nn.5-7
+              # RIGHT -- so n.5's ENTRY is in the left block while its ANCHOR is
+              # in the right column. The Cap. VIII / Cap. IX boundary falls one
+              # note lower still, between nn.6 and 7 inside the right block:
+              # three different places. p.272's coincident 5/3 did NOT propagate.
+              # p.273's own gutter test is POSITIVE and is logged by p6-c8 as
+              # `p.273 n.5:gutter` (n.5 breaks off at "Subinde pro propulsandam
+              # I M O V" and the right block opens UNNUMBERED with
+              # "propellendam, L repellendam"); the p.272 -> p.273 page-crossing
+              # test is NEGATIVE and is also closed by p6-c8 (p.272's right block
+              # ends complete at n.8 "Post crucis aliqui codd. addunt et." and
+              # p.273's left block opens NUMBERED at "De hac veritatis
+              # definitione cfr. tom. I. pag. 707, nota 5."). p6-c9 MUST NOT
+              # re-log either.
+              # NOTE: p.273 carries the printer's signature "S. Bonav. - Tom. V."
+              # at the foot of the left block and the quire number 35 at the foot
+              # of the right; neither is a footer entry.
 }
 
 

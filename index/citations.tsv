@@ -19146,6 +19146,15 @@ bon-brev-p6-c7	5	apparatus:p272-2	p272-2	crossref	logical	IV. Sent. d. 3. p. I. 
 bon-brev-p6-c7	5	apparatus:p272-3	p272-3	crossref	logical	IV. Sent. d. 5. a. 1. q. 1.	bon-sent-IV-d5-a1-q1		chunk		
 bon-brev-p6-c7	5	apparatus:p272-6	p272-6	scripture	apparatus-explicit	Col. 6, 12	Col 6:12	A	chapter-out-of-range		
 bon-brev-p6-c7	5	apparatus:p272-7	p272-7	scripture	apparatus-explicit	Col. 1, 13	Col 1:13	A	verse		
+bon-brev-p6-c8	5	apparatus:p272-8	p272-8	crossref	logical	IV. Sent. d. 7.	IV:d7		distinctio		
+bon-brev-p6-c8	5	apparatus:p273-1	p273-1	crossref	page	tom. I. pag. 707, nota 5	bon-sent-I-d40-a2-q1		chunk		
+bon-brev-p6-c8	5	apparatus:p273-2	p273-2	scripture	apparatus-explicit	Marc. 12, 30	Marc 12:30	A	verse		
+bon-brev-p6-c8	5	apparatus:p273-2	p273-2	scripture	apparatus-explicit	I. Tim. 1, 5	1Tim 1:5	A	verse		
+bon-brev-p6-c8	5	apparatus:p273-4	p273-4	scripture	apparatus-explicit	Matth. 10, 32	Matth 10:32	A	verse		
+bon-brev-p6-c8	5	apparatus:p273-4	p273-4	crossref	page	tom. IV. pag. 167, nota 1	bon-sent-IV-d7-a1-q2+bon-sent-IV-d7-a1-q3		page-multi		
+bon-brev-p6-c8	5	apparatus:p273-4	p273-4	crossref	page	pag. 593, nota 2	bon-sent-I-d34-a1-q4		chunk		
+bon-brev-p6-c8	5	apparatus:p273-6	p273-6	crossref	page	tom. XI. pag. 745	tom11:p745		forward		
+bon-brev-p6-c8	5	apparatus:p273-6	p273-6	crossref	page	tom. I. pag. 155			dangling		
 bon-brev-prol-s1	5	apparatus:p203-1	p203-1	crossref	anaphor->work	ibid.	work:scientia-christi		work	cross-chunk	bon-brev-prol: Quaest. de scientia Christi
 bon-brev-prol-s1	5	apparatus:p203-1	p203-1	crossref	anaphor->work	loc. cit.	work:scientia-christi		work	cross-chunk	bon-brev-prol: Quaest. de scientia Christi
 bon-brev-prol-s1	5	apparatus:p203-2	p203-2	crossref	logical	III. Sent. d. 23. a. 1. q. 1.	bon-sent-III-d23-a1-q1		chunk		
