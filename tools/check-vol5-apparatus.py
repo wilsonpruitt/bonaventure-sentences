@@ -337,6 +337,40 @@ KNOWN_TOTALS = {
               # -- verified negatively on the band. Neither the printer's
               # signature nor a quire signature falls on p.255 or p.256; both
               # last fell on p.249 and are now overdue.
+    256: 6,   # band-read in full by p5-c4, which owns ALL SIX. The Cap. III /
+              # Cap. IV boundary falls two lines below the top of the LEFT
+              # column and the register is nonetheless undivided -- the mirror
+              # of p.250, and the negative that establishes it (Cap. III's two
+              # surviving lines carry no anchor) was re-derived by p5-c4 rather
+              # than adopted from p5-c3's hand-off. Anchors divide 3/3 (nn.1-3
+              # left, nn.4-6 right) while the BLOCKS divide 4/2, so the left
+              # block OVERRUNS the anchor line by exactly ONE note (n.4 prints
+              # left, anchors right) -- p.243's shape, in its second occurrence.
+              # The p.256 GUTTER RUNOVER is NEGATIVE: the left block ends
+              # complete at n.4 ("Cfr. III. Sent. d. 34. p. I. a. 1. q. 1.")
+              # and the right block opens NUMBERED ("5 Vide supra p. I. c. 6.").
+              # Neither signature falls on p.256.
+    257: 9,   # band-read in full by p5-c4, which owns n.1 ONLY. The Cap. IV /
+              # Cap. V boundary falls part-way down the LEFT column, between
+              # nn.1 and 2 -- matching NEITHER the anchor split (3/6: nn.1-3
+              # left, nn.4-9 right) NOR the block split (5/4), so all three
+              # lines are distinct. The left block's five-note OVERRUN of the
+              # anchor line by TWO notes is the THIRD occurrence of p.253's and
+              # p.255's shape, the first configuration in the corpus to reach
+              # three. nn.2-9 are FORWARDED to p5-c5 (Pars V Cap. V).
+              # The p.256 -> p.257 page-crossing runover is NEGATIVE: p.256's
+              # right block ends complete at n.6 and p.257's left block opens
+              # NUMBERED ("1 Cfr. III. Sent. d. 23. a. 2. q. 5."). p.257's own
+              # gutter test was run and is likewise NEGATIVE (left block ends
+              # complete at n.5, right block opens NUMBERED with n.6), but it
+              # is p5-c5's to LOG, not p5-c4's -- p5-c5 owns eight of the nine.
+              # *** THE PRINTER'S SIGNATURE "S. Bonav. -- Tom. V." STANDS ON
+              # p.257, unnumbered, on its own line at the foot of the LEFT
+              # block below n.5 -- first appearance since p.249, exactly the
+              # ~8-leaf cadence p5-c3 predicted. The quire signature "33"
+              # stands below n.9 at the foot of the RIGHT block. NEITHER IS AN
+              # ENTRY: p.257's register is NINE, and a reader counting block
+              # lines rather than numerals would reach ten.
 }
 
 
