@@ -1,42 +1,54 @@
 # Bonaventure Sentences — Next Session Resume
 
-> ## ✅ INDEX PHASE 0 PILOT IS COMPLETE (2026-07-31). NEXT SESSION = **PARS VI**.
-> `tools/build-citations.py` + `tools/scripture-books.json` are built and run clean over
-> the whole corpus (1,993 chunks → 18,021 records, ~16 s). Conventions are **frozen in
-> repo `CLAUDE.md` § "Index conventions"** — read that, not `INDEX-PLAN.md`, for how the
-> parser behaves; the plan remains the design of record for Phases 1–2.
-> Measurements, the fifteen parser defects the pilot caught, and the known gaps →
-> **`manual-review/index-pilot-log.md`**. Pilot ledger: `index/citations-pilot.tsv`
-> (**pilot-scoped on purpose** — `index/citations.tsv` stays unwritten until Phase 1 so a
-> half-corpus file can never masquerade as the corpus ledger).
+> ## ✅ THE INDEX IS COMPLETE — PHASES 0, 1 AND 2 ALL SHIPPED (2026-07-31).
+> ## NEXT SESSION = **PARS VI**.
+> The generated replacement for Quaracchi's skipped Vol X is built and building green.
+> Design of record: `INDEX-PLAN.md`. **How the parser and the pages actually behave is
+> frozen in repo `CLAUDE.md` § "Index conventions" — read that, not the plan.**
+> Measurements, the parser defects the pilot caught, and the known gaps →
+> `manual-review/index-pilot-log.md`.
 >
-> **Verified:** 815 mechanical claims across the pilot ledger, 0 failures · the extractor
-> never writes under `vol*/` · `build-content.mjs` still 1992/1992 · both Vol V audits
-> still green.
+> **What exists now**
+> - `tools/build-citations.py` → `index/citations.tsv` — 1,993 chunks → 19,142 records
+>   in ~20 s. 7,992 scripture (70% tier A / 23% B / 7% C), 10,014 crossref
+>   (**71% resolved to an exact chunk**), 1,136 authority captured-but-excluded.
+> - `tools/build-index-json.py` → the site data. **A pure view: it decides nothing
+>   about citations, it only regroups.**
+> - **`/scripture`** (73 books, Vulgate order) and **`/scripture/[book]`**;
+>   **Scripture is in the front-page nav** (Wilson's call — the nav is small).
+> - **Cited by** panel on every question page — 1,547 chunks cited, 8,874 backlinks.
+> - Build green at **2,267 static pages**. `vol*/` untouched; reader and content.json
+>   untouched.
 >
-> **✅ BOTH CORPUS FINDINGS ARE SETTLED AND CORRECTED (band reads, 450 dpi / 8×).**
-> Both were OUR transcription errors, not Quaracchi's — corrected, not logged as cruces.
-> 1. **`bon-brev-p4-c8` p. 249 n. 6 — `a. 4.` → `a. 1.`** The glyph is a single upright
->    with an angled flag and closed stem, no crossbar, no counter, against the plainly
->    crossbarred `4` of `d. 48.` one line above. Vol III d.17 has two articles, and
->    `a. 1. q. 3` is *De illarum voluntatum concordia* — the Hugh quotation's doctrine.
->    **The chunk's "every digit correct" verdict for that register is withdrawn in the
->    chunk.**
-> 2. **`bon-sent-I-d10-a1-q2` `[^4]` — `Vers. 3.` → `Vers. 5.` AND `cod. V` → `cod. U`.**
->    Two errors in one entry, both past the d.1–d.10 decade gate. Flat top bar over a
->    single bowl = `5`; the anchor quotes *Caritas Dei diffusa est in cordibus* = Rom 5:5.
->    Logged in `manual-review/d1-d10-polish-resolution-log.md`.
+> **⚠ TWO THINGS THAT WILL BITE IF FORGOTTEN**
+> 1. **The deploy recipe now has TWO index steps before `build-content.mjs`** —
+>    `build-citations.py` then `build-index-json.py`. The site data is gitignored and
+>    regenerated, like `content.json`. **A missing index FAILS THE BUILD on purpose**
+>    (`cited-by.tsx` throws); that was verified by deleting the file and building.
+> 2. **`site/src/data/content.json` IS GITIGNORED** (`site/.gitignore:8`). Earlier notes
+>    in this file and in the pilot log claimed it was "verified byte-identical via
+>    `git status`" — **that check was vacuous** and the claim is withdrawn. The
+>    substantive point still holds by other evidence, but do not re-use that method.
 >
-> Pilot corpus now **0 dangling / 0 QA flags**; full corpus 212 → **211 dangling**.
+> **Still open from the index work, all scoped, none blocking:**
+> - **245 dangling cross-references (2%)** corpus-wide — the QA report lists them. Work
+>   like the apparatus backlog: jobs, not a blob. Each is a digit candidate to settle
+>   off the band, never off the tool's opinion.
+> - **171 unresolved anaphora** — QA report lists them by volume. Checked by hand: most
+>   are a SCOPE boundary, pointing at patristic works the ledger deliberately doesn't
+>   record; they resolve for free if the deferred authorities index is ever built.
+> - **A tier-B re-sweep of Vol I d.1–d.10** (owed since the `Vers. 3`→`5` find).
+> - `vol4/bon-sent-IV-d9-a1-q1` has `printed_pages: "201–202"` — the only non-list
+>   value in the corpus. Harmless today; the same shape as the polish-scan blind spot.
 >
-> **⚠ ONE JOB THIS OPENED, not yet done: a targeted tier-B re-sweep of Vol I d.1–d.10** —
-> compare each note's `Vers. N` against the words its anchor actually quotes. Finding 2
-> had BOTH halves wrong and passed the decade gate; nothing before the index compared the
-> note to the quotation. Scoped job, not a re-gate.
+> **NOT built, deliberately (INDEX-PLAN "deferred"):** inline clickable citations in
+> the reader, the authorities index (the ledger already captures its raw material), and
+> the topical index rerum.
 >
-> Phases 1–2 (`/scripture` pages, cited-by panel) are NOT started; `build-index-json.py`
-> is deliberately unwritten. The **211 remaining dangling cross-references (2%)** wait as
-> Phase 2's scoped defect list — jobs, not a blob.
+> **⛔ NOTHING IS DEPLOYED.** The index is live only in the local build. Deploy is
+> protected and the next boundary is the close of Pars VI (p. 280) — the index and the
+> two corpus corrections ride along then, unless Wilson calls it sooner.
+>
 > **The Pars VI cold-start below is untouched and is the front.**
 
 > # ★★★ VOL V (TOME V — OPUSCULA) IS THE ACTIVE FRONT.
