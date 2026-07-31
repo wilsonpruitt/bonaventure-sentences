@@ -42,7 +42,7 @@ Chunk counts for Vol I are actual; II–X are estimates from page count ÷ 5
 | VII | *Comm. in Sacram Scripturam* II — Luke 9–24, John | ~700 | ❌ | ~150 | 0 | ~90 | F — ⚠ correction 2026-07-28: the *Hexaemeron* is in **Vol V**, not here; the "Hexaemeron priority" flag moves to Vol V |
 | VIII| *Opuscula Varia Theologica* — Apologia pauperum, De perfectione vitae ad sorores, De regimine animae, et al. | ~900 | ❌ | ~120 | 0 | ~80 | E/F |
 | IX  | *Sermones* (de tempore, de sanctis, de B. V. Maria) | ~800 | ❌ | ~180 | 0 | ~110 | F |
-| X   | Prolegomena, indexes, apparatus criticus, fragments | ~350 | ❌ | ~30 | 0 | ~20 | F (likely skip) |
+| X   | Prolegomena, indexes, apparatus criticus, fragments | ~350 | ❌ | ~30 | 0 | ~20 | F — Quaracchi's index volume is SUPERSEDED by generated indexes (scripture + cross-ref, see `INDEX-PLAN.md`, approved 2026-07-31); prolegomena/fragments still likely skip |
 | **Total** | | **~8150** | | **~1660** | **70** | **~955** | |
 
 ---

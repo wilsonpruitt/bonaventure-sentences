@@ -1,5 +1,16 @@
 # Bonaventure Sentences — Next Session Resume
 
+> ## ⭐ NEXT SESSION = THE INDEX PILOT, NOT PARS VI (Wilson's decision, 2026-07-31)
+> An approved plan for opera-omnia-wide indexes (scripture index + self-cross-reference
+> index — the generated replacement for Quaracchi's skipped Vol X) lives at
+> **`INDEX-PLAN.md`** (repo root). **Phase 0 pilot runs first, in an OPUS session**:
+> build `tools/scripture-books.json` + `tools/build-citations.py`, run over vol5 + vol1
+> d.1–d.10, hand-verify ~50 records, freeze conventions into CLAUDE.md. Read
+> `INDEX-PLAN.md` in full before starting — it carries the frozen design decisions
+> (derived-never-hand-tagged, one ledger many views, Latin keys, confidence tiers,
+> glob-don't-recurse). Zero edits to `vol*/` chunk files at any phase.
+> **The Pars VI cold-start below stays intact and resumes after the pilot.**
+
 > # ★★★ VOL V (TOME V — OPUSCULA) IS THE ACTIVE FRONT.
 >
 > # ✅✅ PARS V IS **COMPLETE** — *De gratia Spiritus sancti*, capp. I–X, printed **pp. 252–264**
