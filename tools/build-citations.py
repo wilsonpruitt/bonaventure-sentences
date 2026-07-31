@@ -485,14 +485,15 @@ def scan_relative(text, cfg):
     for m in pat.finditer(text):
         d = m.groupdict()
         if not d["dist"]:
-            if not d["rel"].startswith(("loc", "ibid")):
+            if not d["rel"].lower().startswith(("loc", "ibid")):
                 continue
             # `ibid. pag. 321, nota 4` inherits a TOME, not a locus — the page
             # scanner owns it. Emitting a locus record here duplicated the
             # preceding citation and pointed it at the wrong thing.
             if re.match(r"\.?\s*(?:pag|tom)\.", text[m.end(): m.end() + 8]):
                 continue
-            prev = last_locus_before(text, m.start()) if d["rel"].startswith("ibid") else None
+            prev = (last_locus_before(text, m.start())
+                    if d["rel"].lower().startswith("ibid") else None)
             if not prev:
                 # Nothing to inherit — genuinely unresolvable, and recorded as such.
                 yield {"cls": "crossref", "sub": "relative-bare", "dist": None,
@@ -683,17 +684,74 @@ def nearest_anchor(text, pos, window=60):
 VERS_RE = re.compile(r"\bVers\.\s*(\d{1,3})")
 
 
+# NOTE: Migne's anaphor set includes `Id.`/`Idem`; DO NOT port those two here. In
+# Quaracchi's Latin `id` and `idem` are ordinary pronouns ("id est", "idem est"), and
+# admitting them turned 88 anaphors into 823 in a 148-chunk pilot. Quaracchi's
+# anaphoric forms are `Ibid.` and `loc. cit.` only.
+def resolve_anaphora(chunk_rows):
+    """Resolve bare `ibid.` / `loc. cit.` / `Id.` against the printed sequence.
+
+    Ported from ~/patrologia `scripts/index-work.mjs` (Migne rule 9), which solved this
+    first. The rules, and why each one matters here:
+
+      1. **Document order is the only key.** An anaphor carries no target by nature, so
+         it can be resolved at index time and never afterwards from the display string.
+      2. **Resolve to the nearest preceding NON-anaphoric citation, walking past
+         already-resolved anaphors** — otherwise a run of `ibid.`s chains onto itself
+         and drifts.
+      3. **An anaphor inherits its antecedent's BUCKET**, not just its target. A
+         scripture `ibid.` is a scripture record; an `ibid.` after Augustine is an
+         authority record and is correctly EXCLUDED rather than counted as a failure.
+         This replaces guessing from surrounding words with reading the sequence.
+      4. **The text is never rewritten.** `raw_text` keeps Quaracchi's `ibid.` verbatim;
+         the inheritance is recorded in `ibid_resolved` / `antecedent`. It is an
+         INFERENCE, not a correction, and must never read as an emendation of Quaracchi.
+      5. **An anaphor with nothing before it is a real, countable failure** — reported,
+         not hidden. It usually means a preceding citation failed to parse.
+
+    Scoped to the chunk: an `ibid.` opening apparatus entry `[^16]` refers back to
+    `[^15]`, which a per-entry lookback structurally cannot see. That blind spot was
+    31% of this corpus's unresolved anaphora.
+    """
+    unresolved = 0
+    for i, r in enumerate(chunk_rows):
+        if r["subclass"] != "relative-bare":
+            continue
+        ant = None
+        for j in range(i - 1, -1, -1):
+            p = chunk_rows[j]
+            if p["subclass"] != "relative-bare" and not p["ibid_resolved"]:
+                ant = p
+                break
+        if ant is None:
+            unresolved += 1
+            continue
+        r["class"] = ant["class"]
+        r["subclass"] = f"anaphor->{ant['subclass']}"
+        r["normalized_target"] = ant["normalized_target"]
+        r["confidence"] = ant["confidence"]
+        r["resolution"] = ant["resolution"]
+        r["ibid_resolved"] = "yes"
+        r["antecedent"] = ant["raw_text"][:60]
+    return unresolved
+
+
 def extract(chunks, cfg, by_locus, by_dist, by_page, by_id):
     rows, qa = [], []
+    unresolved_anaphora = 0
     scanners = (scan_scripture_apparatus, scan_scripture_body,
                 scan_sentences, scan_chain_continuation, scan_relative,
                 scan_page, scan_work)
 
     for c in chunks:
+        # DOCUMENT ORDER is the resolution key for anaphora, so records are collected
+        # per chunk and sorted before the `ibid.` pass runs. Apparatus entries arrive
+        # from split_sections in file order, which is Quaracchi's printed order.
         sections = [("latin_body", c.latin_body), ("scholion", c.scholion)]
         sections += [(f"apparatus:{lab}", txt) for lab, txt in c.apparatus.items()]
+        chunk_rows = []
 
-        for section, text in sections:
+        for sec_i, (section, text) in enumerate(sections):
             if not text:
                 continue
             is_app = section.startswith("apparatus:")
@@ -750,19 +808,26 @@ def extract(chunks, cfg, by_locus, by_dist, by_page, by_id):
                     else:
                         continue
 
-                    rows.append({
+                    chunk_rows.append({
                         "chunk_id": c.cid, "volume": c.volume, "section": section,
                         "anchor_label": anchor, "class": rec["cls"],
                         "subclass": rec["sub"],
                         "raw_text": re.sub(r"\s+", " ", rec["raw"])[:120],
                         "normalized_target": tgt, "confidence": conf,
-                        "resolution": res,
+                        "resolution": res, "ibid_resolved": "",
+                        "antecedent": "",
+                        "_order": (sec_i, rec["pos"]),
                     })
-    return rows, qa
+
+        chunk_rows.sort(key=lambda r: r["_order"])
+        unresolved_anaphora += resolve_anaphora(chunk_rows)
+        rows.extend(chunk_rows)
+    return rows, qa, unresolved_anaphora
 
 
 COLUMNS = ["chunk_id", "volume", "section", "anchor_label", "class", "subclass",
-           "raw_text", "normalized_target", "confidence", "resolution"]
+           "raw_text", "normalized_target", "confidence", "resolution",
+           "ibid_resolved", "antecedent"]
 
 
 def dedupe(rows):
@@ -812,7 +877,7 @@ def main():
         return True
 
     chunks = [c for c in corpus if in_scope(c)]
-    rows, qa = extract(chunks, cfg, by_locus, by_dist, by_page, by_id)
+    rows, qa, unresolved_anaphora = extract(chunks, cfg, by_locus, by_dist, by_page, by_id)
     rows = dedupe(rows)
 
     os.makedirs(os.path.dirname(args.out), exist_ok=True)
@@ -830,11 +895,11 @@ def main():
     if args.sample:
         write_sample(rows, args.sample, args.seed)
 
-    report(chunks, rows, qa, silent)
+    report(chunks, rows, qa, silent, unresolved_anaphora)
     return 0
 
 
-def report(chunks, rows, qa, silent):
+def report(chunks, rows, qa, silent, unresolved_anaphora=0):
     scrip = [r for r in rows if r["class"] == "scripture"]
     cross = [r for r in rows if r["class"] == "crossref"]
     auth = [r for r in rows if r["class"] == "authority"]
@@ -854,6 +919,8 @@ def report(chunks, rows, qa, silent):
         tot = len(cross)
         print("  crossref resolution   : " + "  ".join(
             f"{k}={v} ({v/tot:.0%})" for k, v in res.most_common()))
+    ana = [r for r in rows if r["ibid_resolved"]]
+    print(f"  anaphora resolved     : {len(ana)}  (unresolved: {unresolved_anaphora})")
     print(f"QA flags                : {len(qa)}")
     print(f"chunks with no citation : {len(silent)}")
 
