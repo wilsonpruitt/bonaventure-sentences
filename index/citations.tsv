@@ -14766,7 +14766,7 @@ bon-sent-IV-d22-a2-q1	4	scholion		authority	authority:Bonav.	ibid.			excluded
 bon-sent-IV-d22-a2-q1	4	scholion		crossref	relative	supra d. 14. q. 4.			dangling		
 bon-sent-IV-d22-a2-q1	4	scholion		crossref	chain-continuation	d. 16. q. 1.	bon-sent-IV-d16-p1-a1-q1+bon-sent-IV-d16-p1-a2-q1+bon-sent-IV-d16-p1-a3-q1+bon-sent-IV-d16-p1-a4-q1+bon-sent-IV-d16-p2-a1-q1+bon-sent-IV-d16-p2-a2-q1+bon-sent-IV-d16-p2-a3-q1		ambiguous		
 bon-sent-IV-d22-a2-q1	4	scholion		crossref	relative	supra d. 16. p. I. dub. 1.	bon-sent-IV-d16-p1-dubia		chunk		
-bon-sent-IV-d22-a2-q1	4	scholion		crossref	work	Breviloq. p. VI. c. 7.	bon-brev-p6-c7		forward		
+bon-sent-IV-d22-a2-q1	4	scholion		crossref	work	Breviloq. p. VI. c. 7.	bon-brev-p6-c7		chunk		
 bon-sent-IV-d22-a2-q1	4	scholion		authority	authority:Bonav.	d. 8. p. II. a. 2. q. 1.			excluded		
 bon-sent-IV-d22-a2-q1	4	scholion		crossref	relative	infra d. 26. a. 2. q. 1.	bon-sent-IV-d26-a2-q1		chunk		
 bon-sent-IV-d22-a2-q1	4	scholion		crossref	anaphor->relative	loc. cit.	bon-sent-IV-d18-p1-a2-q1		chunk	yes	supra d. 18. p. I. a. 2. q. 1.
@@ -15552,8 +15552,8 @@ bon-sent-IV-d3-p1-a1-q1	4	latin_body	8	scripture	body-ordinal	Canticorum quarto	
 bon-sent-IV-d3-p1-a1-q1	4	latin_body	9	scripture	body-ordinal	ad Titum tertio	Tit 3:5	B	verse		
 bon-sent-IV-d3-p1-a1-q1	4	latin_body		scripture	body-ordinal	Marci septimo	Marc 7	C	chapter		
 bon-sent-IV-d3-p1-a1-q1	4	latin_body		scripture	body-ordinal	Ioannis decimo tertio	Ioan 13	C	chapter		
-bon-sent-IV-d3-p1-a1-q1	4	scholion		crossref	work	Breviloq. p. VI. c. 7.	bon-brev-p6-c7		forward		
-bon-sent-IV-d3-p1-a1-q1	4	scholion		crossref	anaphor->work	loc. cit.	bon-brev-p6-c7		forward	yes	Breviloq. p. VI. c. 7.
+bon-sent-IV-d3-p1-a1-q1	4	scholion		crossref	work	Breviloq. p. VI. c. 7.	bon-brev-p6-c7		chunk		
+bon-sent-IV-d3-p1-a1-q1	4	scholion		crossref	anaphor->work	loc. cit.	bon-brev-p6-c7		chunk	yes	Breviloq. p. VI. c. 7.
 bon-sent-IV-d3-p1-a1-q1	4	scholion		authority	authority:Richard. a Med.	IV. Sent. d. 6.			excluded		
 bon-sent-IV-d3-p1-a1-q1	4	scholion		authority	authority:Petr. a Tar.	IV. Sent. d. 6. q. 2.			excluded		
 bon-sent-IV-d3-p1-a1-q1	4	scholion		authority	authority:Richard. a Med.	IV. Sent. d. 4. a. 1.			excluded		
@@ -15623,7 +15623,7 @@ bon-sent-IV-d3-p2-a1-q1	4	latin_body	9b	scripture	body-ordinal	Ioannis tertio	Io
 bon-sent-IV-d3-p2-a1-q1	4	latin_body		scripture	body-ordinal	Ioannis tertio	Ioan 3	C	chapter		
 bon-sent-IV-d3-p2-a1-q1	4	latin_body		scripture	anaphor->body-ordinal	ibid	Ioan 3	C	chapter	yes	Ioannis tertio
 bon-sent-IV-d3-p2-a1-q1	4	latin_body		scripture	body-ordinal	Lucae decimo	Luc 10	C	chapter		
-bon-sent-IV-d3-p2-a1-q1	4	scholion		crossref	work	Breviloq. p. VI. c. 7.	bon-brev-p6-c7		forward		
+bon-sent-IV-d3-p2-a1-q1	4	scholion		crossref	work	Breviloq. p. VI. c. 7.	bon-brev-p6-c7		chunk		
 bon-sent-IV-d3-p2-a1-q1	4	scholion		scripture	apparatus-explicit	Matth. 28, 19	Matth 28:19	A	verse		
 bon-sent-IV-d3-p2-a1-q1	4	scholion		scripture	anaphor->apparatus-explicit	loc. cit.	Matth 28:19	A	verse	yes	Matth. 28, 19
 bon-sent-IV-d3-p2-a1-q1	4	scholion		crossref	relative	supra d. 1. p. I. q. 3.	bon-sent-IV-d1-p1-a1-q3		chunk		
@@ -19137,6 +19137,15 @@ bon-brev-p6-c6	5	apparatus:p270-4	p270-4	crossref	logical	IV. Sent. d. 6. p. I.	
 bon-brev-p6-c6	5	apparatus:p270-4	p270-4	crossref	chain-continuation	d. 7. a. 3. q. 3	bon-sent-IV-d7-a3-q3		chunk		
 bon-brev-p6-c6	5	apparatus:p270-4	p270-4	crossref	chain-continuation	d. 24. p. II. a. 1. q. 1.	bon-sent-IV-d24-p2-a1-q1		chunk		
 bon-brev-p6-c6	5	apparatus:p271-4	p271-4	crossref	page	tom. IV. pag. 146, nota 7	bon-sent-IV-d6-p1-a1-q6		chunk		
+bon-brev-p6-c7	5	apparatus:p271-6	p271-6	scripture	apparatus-explicit	Matth. 28, 19	Matth 28:19	A	verse		
+bon-brev-p6-c7	5	apparatus:p271-7	p271-7	crossref	logical	IV. Sent. d. 3	IV:d3		distinctio		
+bon-brev-p6-c7	5	apparatus:p271-7	p271-7	crossref	chain-continuation	d. 6. p. II. a. 3.	bon-sent-IV-d6-p2-a3-q1+bon-sent-IV-d6-p2-a3-q2		articulus		
+bon-brev-p6-c7	5	apparatus:p272-1	p272-1	scripture	apparatus-explicit	I. Cor. 15, 4	1Cor 15:4	A	verse		
+bon-brev-p6-c7	5	apparatus:p272-2	p272-2	scripture	apparatus-explicit	Act. 2, 38	Act 2:38	A	verse		
+bon-brev-p6-c7	5	apparatus:p272-2	p272-2	crossref	logical	IV. Sent. d. 3. p. I. a. 2. q. 2.	bon-sent-IV-d3-p1-a2-q2		chunk		
+bon-brev-p6-c7	5	apparatus:p272-3	p272-3	crossref	logical	IV. Sent. d. 5. a. 1. q. 1.	bon-sent-IV-d5-a1-q1		chunk		
+bon-brev-p6-c7	5	apparatus:p272-6	p272-6	scripture	apparatus-explicit	Col. 6, 12	Col 6:12	A	chapter-out-of-range		
+bon-brev-p6-c7	5	apparatus:p272-7	p272-7	scripture	apparatus-explicit	Col. 1, 13	Col 1:13	A	verse		
 bon-brev-prol-s1	5	apparatus:p203-1	p203-1	crossref	anaphor->work	ibid.	work:scientia-christi		work	cross-chunk	bon-brev-prol: Quaest. de scientia Christi
 bon-brev-prol-s1	5	apparatus:p203-1	p203-1	crossref	anaphor->work	loc. cit.	work:scientia-christi		work	cross-chunk	bon-brev-prol: Quaest. de scientia Christi
 bon-brev-prol-s1	5	apparatus:p203-2	p203-2	crossref	logical	III. Sent. d. 23. a. 1. q. 1.	bon-sent-III-d23-a1-q1		chunk		

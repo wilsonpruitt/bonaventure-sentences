@@ -741,6 +741,38 @@ KNOWN_TOTALS = {
               # right block ends complete at n.5 "in hoc." and p.271's left
               # block opens NUMBERED at "Ed. 1 addit quae."). p6-c7 MUST NOT
               # re-log either.
+    272: 8,   # band-read in full by p6-c7, which owns nn.1-7; n.8 anchors in
+              # Cap. VIII ("audacter et publice confitendum", RIGHT column) and
+              # is a legitimate forwarded PENDING until bon-brev-p6-c8 lands.
+              # Gutter 1326, SETTLED FRESH with no constant on a leaf that had
+              # not been imaged: default 1326 on a 62 px run, and still not
+              # adopted on its own showing. SEVEN of twelve windows blow out
+              # (1401/223, 1401/222, 1340/95, 1333/246, 1347/106, 1256/336,
+              # 1224/271, 1224/272) -- the heaviest crop in Pars VI, because the
+              # Cap. VIII heading is set mid-right-column at ~40% AND the left
+              # column runs short of the right. The five survivors agree to
+              # 4 px (1322/65, 1326/63, 1326/64, 1326/64, 1326/62), and the ink
+              # profile fixes the near-zero band at x=1296-1357 (62 px) with the
+              # printed column rule at x=1323-1328 peaking 220 rows on x=1327
+              # (band midpoint 1326.5) -> 1326. The rule inked LIGHTLY here
+              # (220 rows against p.271's 541 and p.270's 573), which is WHY
+              # this default was not pinched.
+              # BLOCK SPLIT 5/3 AND ANCHOR SPLIT 5/3 -- THEY COINCIDE, AND THE
+              # CAPITULUM BOUNDARY DOES NOT FALL AT EITHER. Left block nn.1-5
+              # with n.5 STRADDLING the gutter; right block n.5's unnumbered
+              # continuation, then nn.6-8. Anchors: nn.1-5 LEFT column, nn.6-8
+              # RIGHT. The Cap. VII / Cap. VIII boundary falls two notes lower
+              # than the block break, INSIDE the right block between nn.7 and 8.
+              # The 4/4-block-vs-3/5-anchor shape of pp.268, 269 and 271 does
+              # NOT recur here.
+              # p.272's own gutter test is POSITIVE and is logged by p6-c7 as
+              # `p.272 n.5:gutter` (n.5 breaks off at "Vat., 1 et 3 addunt seu"
+              # and the right block opens UNNUMBERED with "diaphaneitate.");
+              # the p.271 -> p.272 page-crossing test is NEGATIVE and is also
+              # closed by p6-c7 (p.271's right block ends complete at n.8
+              # "neque deficiunt in necessariis." and p.272's left block opens
+              # NUMBERED at "Epist. I. Cor. 15, 4."). p6-c8 MUST NOT re-log
+              # either.
 }
 
 
