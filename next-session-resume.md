@@ -10,23 +10,33 @@
 > (**pilot-scoped on purpose** — `index/citations.tsv` stays unwritten until Phase 1 so a
 > half-corpus file can never masquerade as the corpus ledger).
 >
-> **Verified:** 815 mechanical claims across the pilot ledger, 0 failures · zero edits
-> under `vol*/` · `build-content.mjs` still 1992/1992 · `content.json` byte-identical ·
-> both Vol V audits still green.
+> **Verified:** 815 mechanical claims across the pilot ledger, 0 failures · the extractor
+> never writes under `vol*/` · `build-content.mjs` still 1992/1992 · both Vol V audits
+> still green.
 >
-> **★ TWO CORPUS FINDINGS ARE OPEN AND ARE NOT FIXED — they need a band read, not a
-> guess** (full statement in the pilot log):
-> 1. **`bon-brev-p4-c8`, p. 249 n. 6** — `III. Sent. d. 17. a. 4. q. 3.` cannot exist
->    (Vol III d.17 has two articles). `a. 1. q. 3` is *De illarum voluntatum concordia*,
->    exactly the note's doctrine. **1→4 candidate.** The chunk's Notes call these digits
->    "every digit correct" — that check verified the glyphs, not the target's existence.
-> 2. **`bon-sent-I-d10-a1-q2` `[^4]`** reads `Vers. 3.` against a quotation that is
->    **Rom 5:5** (*Caritas Dei diffusa est in cordibus*). Sibling `[^3]` is correct, so
->    only this digit is in doubt. **3↔5 candidate.**
+> **✅ BOTH CORPUS FINDINGS ARE SETTLED AND CORRECTED (band reads, 450 dpi / 8×).**
+> Both were OUR transcription errors, not Quaracchi's — corrected, not logged as cruces.
+> 1. **`bon-brev-p4-c8` p. 249 n. 6 — `a. 4.` → `a. 1.`** The glyph is a single upright
+>    with an angled flag and closed stem, no crossbar, no counter, against the plainly
+>    crossbarred `4` of `d. 48.` one line above. Vol III d.17 has two articles, and
+>    `a. 1. q. 3` is *De illarum voluntatum concordia* — the Hugh quotation's doctrine.
+>    **The chunk's "every digit correct" verdict for that register is withdrawn in the
+>    chunk.**
+> 2. **`bon-sent-I-d10-a1-q2` `[^4]` — `Vers. 3.` → `Vers. 5.` AND `cod. V` → `cod. U`.**
+>    Two errors in one entry, both past the d.1–d.10 decade gate. Flat top bar over a
+>    single bowl = `5`; the anchor quotes *Caritas Dei diffusa est in cordibus* = Rom 5:5.
+>    Logged in `manual-review/d1-d10-polish-resolution-log.md`.
+>
+> Pilot corpus now **0 dangling / 0 QA flags**; full corpus 212 → **211 dangling**.
+>
+> **⚠ ONE JOB THIS OPENED, not yet done: a targeted tier-B re-sweep of Vol I d.1–d.10** —
+> compare each note's `Vers. N` against the words its anchor actually quotes. Finding 2
+> had BOTH halves wrong and passed the decade gate; nothing before the index compared the
+> note to the quotation. Scoped job, not a re-gate.
 >
 > Phases 1–2 (`/scripture` pages, cited-by panel) are NOT started; `build-index-json.py`
-> is deliberately unwritten. Corpus-wide there are **212 dangling cross-references (2%)**
-> waiting as Phase 2's scoped defect list — jobs, not a blob.
+> is deliberately unwritten. The **211 remaining dangling cross-references (2%)** wait as
+> Phase 2's scoped defect list — jobs, not a blob.
 > **The Pars VI cold-start below is untouched and is the front.**
 
 > # ★★★ VOL V (TOME V — OPUSCULA) IS THE ACTIVE FRONT.
