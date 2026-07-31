@@ -1,15 +1,33 @@
 # Bonaventure Sentences — Next Session Resume
 
-> ## ⭐ NEXT SESSION = THE INDEX PILOT, NOT PARS VI (Wilson's decision, 2026-07-31)
-> An approved plan for opera-omnia-wide indexes (scripture index + self-cross-reference
-> index — the generated replacement for Quaracchi's skipped Vol X) lives at
-> **`INDEX-PLAN.md`** (repo root). **Phase 0 pilot runs first, in an OPUS session**:
-> build `tools/scripture-books.json` + `tools/build-citations.py`, run over vol5 + vol1
-> d.1–d.10, hand-verify ~50 records, freeze conventions into CLAUDE.md. Read
-> `INDEX-PLAN.md` in full before starting — it carries the frozen design decisions
-> (derived-never-hand-tagged, one ledger many views, Latin keys, confidence tiers,
-> glob-don't-recurse). Zero edits to `vol*/` chunk files at any phase.
-> **The Pars VI cold-start below stays intact and resumes after the pilot.**
+> ## ✅ INDEX PHASE 0 PILOT IS COMPLETE (2026-07-31). NEXT SESSION = **PARS VI**.
+> `tools/build-citations.py` + `tools/scripture-books.json` are built and run clean over
+> the whole corpus (1,993 chunks → 18,021 records, ~16 s). Conventions are **frozen in
+> repo `CLAUDE.md` § "Index conventions"** — read that, not `INDEX-PLAN.md`, for how the
+> parser behaves; the plan remains the design of record for Phases 1–2.
+> Measurements, the fifteen parser defects the pilot caught, and the known gaps →
+> **`manual-review/index-pilot-log.md`**. Pilot ledger: `index/citations-pilot.tsv`
+> (**pilot-scoped on purpose** — `index/citations.tsv` stays unwritten until Phase 1 so a
+> half-corpus file can never masquerade as the corpus ledger).
+>
+> **Verified:** 815 mechanical claims across the pilot ledger, 0 failures · zero edits
+> under `vol*/` · `build-content.mjs` still 1992/1992 · `content.json` byte-identical ·
+> both Vol V audits still green.
+>
+> **★ TWO CORPUS FINDINGS ARE OPEN AND ARE NOT FIXED — they need a band read, not a
+> guess** (full statement in the pilot log):
+> 1. **`bon-brev-p4-c8`, p. 249 n. 6** — `III. Sent. d. 17. a. 4. q. 3.` cannot exist
+>    (Vol III d.17 has two articles). `a. 1. q. 3` is *De illarum voluntatum concordia*,
+>    exactly the note's doctrine. **1→4 candidate.** The chunk's Notes call these digits
+>    "every digit correct" — that check verified the glyphs, not the target's existence.
+> 2. **`bon-sent-I-d10-a1-q2` `[^4]`** reads `Vers. 3.` against a quotation that is
+>    **Rom 5:5** (*Caritas Dei diffusa est in cordibus*). Sibling `[^3]` is correct, so
+>    only this digit is in doubt. **3↔5 candidate.**
+>
+> Phases 1–2 (`/scripture` pages, cited-by panel) are NOT started; `build-index-json.py`
+> is deliberately unwritten. Corpus-wide there are **212 dangling cross-references (2%)**
+> waiting as Phase 2's scoped defect list — jobs, not a blob.
+> **The Pars VI cold-start below is untouched and is the front.**
 
 > # ★★★ VOL V (TOME V — OPUSCULA) IS THE ACTIVE FRONT.
 >
