@@ -577,6 +577,38 @@ KNOWN_TOTALS = {
               # log p.267's own POSITIVE gutter runover (n.4 breaks at a comma
               # on "...post reparativum Vat.," and continues unnumbered in the
               # right block).
+    267: 8,   # band-read in full by p6-c3, which owns nn.3-8; nn.1-2 are
+              # p6-c2's (anchors "de longinquo" and "et pleniori", both LEFT
+              # column, in Cap. II's tail). Gutter 1163, re-derived by p6-c3
+              # from the tool's own default plus an eleven-window sweep: nine
+              # sound windows 1161-1169 on runs 58-63 px, while the 15-35% and
+              # 25-45% windows blew out to 387 px and 119 px runs on Cap. III's
+              # heading and were discarded. Figure for figure the value p6-c2
+              # reached independently by the ink profile (near-zero band
+              # x=1137-1190, column rule x=1159-1171, midpoint 1163).
+              # THE BLOCK SPLIT AND THE ANCHOR SPLIT ARE BOTH 4/4 AND ON THIS
+              # LEAF THEY COINCIDE: nn.1-4 anchor in the LEFT column ("de
+              # longinquo", "et pleniori", "resurrectionis universalis", "Dei
+              # virtus et sapientia") and nn.5-8 in the RIGHT ("conservatio
+              # introductae salutis", "sicut dicit Hieronymus", "complementum
+              # et summa", "castrorum acies ordinata"), while the LEFT footer
+              # block holds nn.1-4 and the RIGHT block opens with n.4's
+              # UNNUMBERED continuation before nn.5-8. This coincidence is a
+              # fact about THIS leaf only -- p.266, one leaf back, ran 3/3
+              # against 2/4 -- and nothing may be predicted from it.
+              # p.267's own gutter runover is POSITIVE and is logged by p6-c3
+              # as `p.267 n.4:gutter` (n.4 breaks at a comma on "...Superius
+              # post reparativum Vat.," and the right block resumes UNNUMBERED
+              # at "1 et 3 addunt et curativum nostrorum morborum..."). The
+              # p.267 -> p.268 page-crossing test is NEGATIVE, closed from both
+              # sides (p.267 R block ends complete at n.8 "Cantic. 6, 3. et 9."
+              # and p.268 L block opens NUMBERED "Eph. 5, 32: Sacramentum hoc
+              # magnum est."). p.268's register is NOT entered here: p6-c3 owns
+              # only p.268 n.1 (anchor "sit Sacramentum magnum", LEFT column,
+              # in Cap. III's closing period); nn.2 ff. anchor in Cap. IV and
+              # are a legitimate forwarded PENDING until bon-brev-p6-c4 lands,
+              # which must also run p.268's own gutter test and re-derive n.3's
+              # long "d. 3 ... d. 26" chain, the densest 1/4 risk in Pars VI.
 }
 
 

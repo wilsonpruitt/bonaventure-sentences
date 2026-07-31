@@ -524,6 +524,14 @@ bon-brev-p6-c2	5	apparatus:p266-2	p266-2	crossref	chain-continuation	d. 2. a. 1.
 bon-brev-p6-c2	5	apparatus:p266-3	p266-3	crossref	page	tom. IV. pag. 50	bon-sent-IV-d2-a1-q1+bon-sent-IV-d2-a1-q2		page-multi		
 bon-brev-p6-c2	5	apparatus:p266-5	p266-5	scripture	apparatus-explicit	Ioan. 1, 17	Ioan 1:17	A	verse		
 bon-brev-p6-c2	5	apparatus:p267-1	p267-1	crossref	logical	IV. Sent. d. 1. p. I. q. 2.	bon-sent-IV-d1-p1-a1-q2		chunk		
+bon-brev-p6-c3	5	apparatus:p267-3	p267-3	crossref	page	supra pag. 203, nota 8	bon-brev-prol-s1+bon-brev-prol-s2		page-multi		
+bon-brev-p6-c3	5	apparatus:p267-3	p267-3	crossref	logical	IV. Sent. d. 2. a. 1. q. 3.	bon-sent-IV-d2-a1-q3		chunk		
+bon-brev-p6-c3	5	apparatus:p267-3	p267-3	scripture	apparatus-explicit	Gen. 2, 21	Gen 2:21	A	verse		
+bon-brev-p6-c3	5	apparatus:p267-4	p267-4	scripture	apparatus-explicit	I. Cor. 1, 24	1Cor 1:24	A	verse		
+bon-brev-p6-c3	5	apparatus:p267-5	p267-5	crossref	page	tom. III. pag. 750, nota 11	bon-sent-III-d34-p1-a2-q3		chunk		
+bon-brev-p6-c3	5	apparatus:p267-6	p267-6	crossref	page	tom. IV. pag. 52, nota 9	bon-sent-IV-d2-a1-q2+bon-sent-IV-d2-a1-q3		page-multi		
+bon-brev-p6-c3	5	apparatus:p267-8	p267-8	scripture	apparatus-explicit	Cantic. 6, 3	Cant 6:3	A	verse		
+bon-brev-p6-c3	5	apparatus:p268-1	p268-1	scripture	apparatus-explicit	Eph. 5, 32	Eph 5:32	A	verse		
 bon-brev-prol-s1	5	apparatus:p203-1	p203-1	crossref	anaphor->work	ibid.	work:scientia-christi		work	cross-chunk	bon-brev-prol: Quaest. de scientia Christi
 bon-brev-prol-s1	5	apparatus:p203-1	p203-1	crossref	anaphor->work	loc. cit.	work:scientia-christi		work	cross-chunk	bon-brev-prol: Quaest. de scientia Christi
 bon-brev-prol-s1	5	apparatus:p203-2	p203-2	crossref	logical	III. Sent. d. 23. a. 1. q. 1.	bon-sent-III-d23-a1-q1		chunk		
