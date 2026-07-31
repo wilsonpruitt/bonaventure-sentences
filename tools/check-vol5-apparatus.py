@@ -549,6 +549,34 @@ KNOWN_TOTALS = {
               # log p.266's POSITIVE gutter runover (n.3 breaks at a comma on
               # "...vitium editionis," and continues unnumbered in the right
               # block).
+    266: 6,   # band-read in full by p6-c2, which owns nn.2-6; n.1 is p6-c1's
+              # (anchor "a forma et a fine", LEFT column, in Cap. I's tail).
+              # Gutter 1422, re-derived here rather than adopted (per-column
+              # ink profile: near-zero band x=1398-1446, printed column rule
+              # inked at x=1413-1431 peaking 517 rows on x=1415, midpoint
+              # 1422; the tool's default 1425 on a 53 px run stays REJECTED).
+              # THE BLOCK SPLIT IS 3/3 AND THE ANCHOR SPLIT IS 2/4, AND THEY
+              # ARE NOT THE SAME 3/3: nn.1-2 anchor in the LEFT column
+              # ("a forma et a fine", "virtute efficaciora") and nn.3-6 in the
+              # RIGHT ("evidentior appareret", "sicut dicit Hugo", "veritatis
+              # et gratiae", "exercerent imperfectos"), while the LEFT footer
+              # block holds nn.1-3 and the RIGHT block opens with n.3's
+              # UNNUMBERED continuation before nn.4-6. n.3 therefore straddles
+              # both: anchor in the right column, entry beginning in the left
+              # block -- p.266's own gutter runover, POSITIVE, logged by p6-c2
+              # as `p.266 n.3:gutter` (breaks at a comma on "...vitium
+              # editionis," and resumes at "quam, relictis codicibus...").
+              # The p.266 -> p.267 page-crossing test is NEGATIVE, closed from
+              # both sides (p.266 R block ends complete at n.6 "...in libertate
+              # spiritus ambulare permittit." and p.267 L block opens NUMBERED
+              # "Cfr. IV. Sent. d. 1. p. I. q. 2. ad 4"). p.267's register is
+              # NOT entered here: p6-c2 owns only nn.1-2 (anchors "de
+              # longinquo" and "et pleniori", both LEFT column, in Cap. II's
+              # tail); nn.3 ff. anchor in Cap. III and are a legitimate
+              # forwarded PENDING until bon-brev-p6-c3 lands, which must also
+              # log p.267's own POSITIVE gutter runover (n.4 breaks at a comma
+              # on "...post reparativum Vat.," and continues unnumbered in the
+              # right block).
 }
 
 
