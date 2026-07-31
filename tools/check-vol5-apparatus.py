@@ -703,7 +703,44 @@ KNOWN_TOTALS = {
               # the head of the RIGHT block, while its anchor is in the right
               # column. p.270's own gutter runover is therefore POSITIVE, but
               # n.4 is Cap. VI's and p6-c5 forwarded the test UNLOGGED rather
-              # than double-logging someone else's runover.
+              # than double-logging someone else's runover. p6-c6 CLOSED that
+              # test from both sides and logged it as `p.270 n.4:gutter`; the
+              # page is now fully consumed (nn.1-2 p6-c5, nn.3-5 p6-c6, with
+              # n.4 anchoring on "non fuisse factum" and n.5 on "potissime
+              # tamen hoc observare debet", both first-read by p6-c6, which the
+              # hand-off had explicitly declined to claim).
+    271: 8,   # band-read in full by p6-c6, which owns nn.1-4; nn.5-8 anchor in
+              # Cap. VII in the RIGHT column and are a legitimate forwarded
+              # PENDING until bon-brev-p6-c7 lands.
+              # Gutter 1202, SETTLED FRESH with no constant on a leaf that had
+              # not been imaged: default 1204 on a 61 px run -- inside the sound
+              # band for the first time in this quire, and still not adopted on
+              # its own showing -- ONE window blows out (15-35% -> 1271 on a
+              # 204 px run, on Cap. VI's "Rursus" opening and the Pro thesi 2
+              # gloss), twelve survivors run 1200-1204 on runs 60-64 px with the
+              # value drifting monotonically down the leaf (page skew, not
+              # disagreement), and the ink profile fixes the near-zero band at
+              # x=1173-1232 (60 px) with the printed column rule at x=1200-1206
+              # peaking 541 rows on x=1202 (band midpoint 1202.5) -> 1202.
+              # The rule inked more lightly here (541 rows against p.269's 767
+              # and p.270's 573), which is WHY this default was not pinched.
+              # THE BLOCK SPLIT IS 4/4 AND THE ANCHOR SPLIT IS 3/5, AND THEY DO
+              # NOT COINCIDE -- the same shape as pp. 268 and 269, with p.270
+              # between them NOT sharing it. Left block nn.1-4, ALL COMPLETE,
+              # no straddle; right block nn.5-8. Anchors: nn.1-3 LEFT column
+              # ("quaedam etiam", "videlicet in acie", "qui ad pugnandum"),
+              # nn.4-8 RIGHT ("debet poena imponi" and Cap. VII's). n.4 is the
+              # divergence: its entry closes the LEFT block, its anchor is in
+              # the RIGHT column. The Cap. VI / Cap. VII boundary falls exactly
+              # AT the block break, between nn.4 and 5 -- a coincidence on this
+              # leaf, not a rule; it fell inside the left block one leaf back.
+              # p.271's own gutter test is NEGATIVE and is logged by p6-c6
+              # (left block ends complete at n.4 "multi codd. sua, 2 alia.",
+              # right block opens NUMBERED at "C I K L M O V cuiuslibet."), as
+              # is the p.270 -> p.271 page-crossing test, also NEGATIVE (p.270's
+              # right block ends complete at n.5 "in hoc." and p.271's left
+              # block opens NUMBERED at "Ed. 1 addit quae."). p6-c7 MUST NOT
+              # re-log either.
 }
 
 

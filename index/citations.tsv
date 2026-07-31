@@ -19133,6 +19133,10 @@ bon-brev-p6-c5	5	apparatus:p270-1	p270-1	scripture	apparatus-explicit	Eccle. 9, 
 bon-brev-p6-c5	5	apparatus:p270-2	p270-2	scripture	apparatus-explicit	Gen. 2, 8	Gen 2:8	A	verse		
 bon-brev-p6-c5	5	apparatus:p270-2	p270-2	scripture	apparatus-explicit	Matth. 16, 18	Matth 16:18	A	verse		
 bon-brev-p6-c5	5	apparatus:p270-2	p270-2	scripture	apparatus-explicit	Gal. 4, 22	Gal 4:22	A	verse		
+bon-brev-p6-c6	5	apparatus:p270-4	p270-4	crossref	logical	IV. Sent. d. 6. p. I.	IV:d6		distinctio		
+bon-brev-p6-c6	5	apparatus:p270-4	p270-4	crossref	chain-continuation	d. 7. a. 3. q. 3	bon-sent-IV-d7-a3-q3		chunk		
+bon-brev-p6-c6	5	apparatus:p270-4	p270-4	crossref	chain-continuation	d. 24. p. II. a. 1. q. 1.	bon-sent-IV-d24-p2-a1-q1		chunk		
+bon-brev-p6-c6	5	apparatus:p271-4	p271-4	crossref	page	tom. IV. pag. 146, nota 7	bon-sent-IV-d6-p1-a1-q6		chunk		
 bon-brev-prol-s1	5	apparatus:p203-1	p203-1	crossref	anaphor->work	ibid.	work:scientia-christi		work	cross-chunk	bon-brev-prol: Quaest. de scientia Christi
 bon-brev-prol-s1	5	apparatus:p203-1	p203-1	crossref	anaphor->work	loc. cit.	work:scientia-christi		work	cross-chunk	bon-brev-prol: Quaest. de scientia Christi
 bon-brev-prol-s1	5	apparatus:p203-2	p203-2	crossref	logical	III. Sent. d. 23. a. 1. q. 1.	bon-sent-III-d23-a1-q1		chunk		
