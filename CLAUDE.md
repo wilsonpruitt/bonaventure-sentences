@@ -329,21 +329,54 @@ own mini-pilot) → Sermones.
   1. **Never let the 1660 default stand on Vol V.** Vol V pages are **2571 px** wide at
      450 dpi, so 1660 sits deep inside the *right* column: it pads L with the gutter plus
      right-column text and truncates R to ~970 px. (Vol IV had the mirror-image problem at
-     1660 — see the Vol IV bootstrap note.) Measured values so far: p.210=1350, 211=1175,
-     212=1335, 213=1126, 214=1397, 215=1163, 216=1385, 217=1180, 218=1377, **219=1171**.
-     **Parity alternation holds** (odd 1126–1180, even 1335–1397) but drifts up to ~54 px
-     within each cluster — which is exactly why the per-page measurement is not optional.
+     1660 — see the Vol IV bootstrap note.)
+
+     **★★ THE ODD/EVEN PARITY MODEL IS SPENT — DO NOT PREDICT A GUTTER FROM PARITY
+     (retired 2026-07-29; this section previously said parity held).** It held for eleven
+     pages and then collapsed: p.221 (odd) 1233, p.222 (even) **1319** — below the even
+     floor — p.223 (odd) **1241** — above the odd ceiling. The clusters overlap at
+     ~1230–1320, and Pars III–IV pushed the range wider still in both directions (p.251 =
+     **1160**, 22 px below the old odd minimum; p.252 = **1403**, 12 px above the old even
+     maximum). Every one of those measurements is sound. **Judge each page on the low-ink
+     run `colcrop.py vol5 <page>` reports, and on nothing else.**
   2. **Measurement is restricted to the BODY ROWS (~45–92% of page height), by design.**
      A page that opens a work, a part, or a distinction carries a **full-width display
      heading that crosses the gutter** and destroys the blank-column run; profiling the
-     whole page height then returns *no usable run at all*. Hit on p.201 (prologue) and
-     again on p.219 (`PARS SECUNDA`). Footer registers and running heads are excluded for
-     the same reason. Expect this at **every work opening in Vols V–X**.
-  3. **A run narrower than ~15 px means the measurement FAILED** — the tool flags it.
-     Re-measure over a narrower row window and confirm visually before use. A value far
-     outside the page's parity cluster is equally suspect. This is not pedantry: Vol IV's
-     `transumtum` misreading was a real corpus error traced directly to a wrong gutter
-     (see the d.41–d.50 gate notes).
+     whole page height then returns *no usable run at all*. Hit on p.201 (prologue), p.219
+     (`PARS SECUNDA`), p.241 (`PARS QUARTA`) and p.252 (`PARS QUINTA` — where all four
+     upper-page windows failed at 1245–1257 on ~330 px runs while nine body windows agreed
+     at 1399–1405). Footer registers and running heads are excluded for the same reason.
+     Expect this at **every work and part opening in Vols V–X**.
+  3. **★★ A RUN UNDER ~60 px IS SUSPECT EVEN THOUGH THE TOOL ONLY FLAGS UNDER ~15 px
+     (added 2026-07-30 — the single most valuable gutter rule learned in Pars IV).** The
+     15 px threshold catches loud failures; it does **not** catch the quiet ones, which
+     are the dangerous kind because they return a plausible number and no warning.
+     Attested: p.241 default **1218 on a 39 px run**, true **1228** · p.243 default
+     **1180/50 px**, true **1186** · p.245 default **1206/56 px**, adopted **1201** ·
+     p.248 default **1391/54 px** · p.249 default **1182/55 px**. Against these, a
+     *trustworthy* measurement looks like p.246 (1345, fourteen windows spread 4 px, runs
+     58–63 px) or p.247 (1209, spread 2 px, runs 60–64 px). **Run width is the confidence
+     signal, not the value itself.**
+  4. **★ THE THREE-STEP METHOD. Escalate only as far as you need.**
+     **(1)** `colcrop.py vol5 <page>` with **no constant**. **(2)** If the run is under
+     ~60 px or the value sits far off its neighbours, **re-profile over several row
+     windows and take the consensus** — a tight spread (≤5 px across a dozen windows) is
+     the tell that the answer is real. **(3)** When the windows *disagree*, **read the
+     per-column ink profile directly**: find the blank band and the ink island inside it,
+     and take the band's midpoint. That settled p.248 (blank band x=1365–1418, island at
+     1385–1394 → **1391**) and p.249 (band 1155–1209, island 1176–1187 → **1182**).
+     **Never hand-roll a separate measuring script** — profile the columns the tool
+     already gives you.
+  5. **★ AN OBSTRUCTION IN THE GUTTER IS A RECURRING PAGE SHAPE, NOT A ONE-OFF.**
+     Marginal glosses set low can sit *inside* the gutter and wreck the run. It appeared
+     on p.240 (a flagged failure), then on **four consecutive leaves**, pp.248–251. On
+     p.250 the obstruction sat at the blank band's *centre*, so the windows agreed to 1 px
+     and the measurement came out clean at 1390 anyway. **Print the ink profile even when
+     the windows agree** — it is how you learn *why* they agreed, and it costs nothing.
+  6. **This is not pedantry.** Vol IV's `transumtum` misreading was a real corpus error
+     traced directly to a wrong gutter (see the d.41–d.50 gate notes). A wrong split
+     silently truncates one column and pads the other, and the chunk built from it will
+     parse clean and pass every audit.
 - **⚠⚠ THE RAW HAS NO FOOTNOTE NUMERALS.** Vol V's IA OCR renders every superscript as
   a punctuation glyph (`^` `'` `"`). Anchor POSITIONS survive in the raw; numbers and
   footer-entry openers do NOT. Consequences, all mandatory:
@@ -385,8 +418,74 @@ own mini-pilot) → Sermones.
   units, so nearly every printed page's footer divides between 2–3 chunks by body
   anchor. Every dispatch leads with the incoming hand-off and forwards the outgoing one
   (Vol II Override step 4 discipline, now constant).
-- Quaracchi's serif `1` prints like `4` (`120`→"420", `11`→"41"/"44"). Cross-check any
-  digit read against a second occurrence on the page before recording it.
+- **★★ READING THE PLATE: DIGITS AND SIGLA (consolidated 2026-07-30 from Partes III–IV,
+  ~25 corrections).** Quaracchi's serif makes two distinct confusion classes, and **both
+  are live** — assume neither is settled until seen at 450 dpi.
+  1. **The `1`/`4` class.** The serif `1` prints like `4` (`120`→"420", `11`→"41"/"44").
+  2. **The `3`/`5` class**, equally common and easier to miss. Fixes: `c. 55` (raw `c. 33`)
+     · `c. 5-7` (raw `3-7`) · `pag. 205` (raw `203`) · `alias 59` (raw `39`) ·
+     `IV Sent. d. 15` (raw `13`) · `Marc. 15,28` · `I Cor. 15,54`.
+  3. **Which class dominates varies leaf to leaf** — one page's four fixes were all `3/5`,
+     the next leaf's four were all `1/4`. Don't calibrate on the previous page.
+  4. **Where the band can't decide, settle from Quaracchi's own parallel citation elsewhere
+     in the corpus, or from sense.** `Eccli. 10, 15` (raw `10, 13`) was settled from the
+     same citation in Vol II; `c. 55` because *De vera religione* has 55 chapters and the
+     note's `n. 110` falls in the last; `q. 1` because the flagged `1` and a true `4` stood
+     touching in `d. 14.` on the same line. **A digit is evidence only once something
+     independent agrees with it.**
+  5. **SIGLA — four rules, all earned.** **(a) ONE UPRIGHT IS NEVER `H`.** A single bare
+     upright is `I`; only *two* uprights can be a crossbar-less `H`. **(b) Use the
+     ALPHABETICAL ORDER of a siglum run as the disambiguator** — the glyph alone will not
+     decide it. **(c) Settle by STROKE COUNT** (`H N`, `I N`), and beware a two-upright
+     roman numeral that is not a siglum at all (`II. Sent.`). **(d) The raw corrupts
+     siglum letters outright** — fixes include `H nobilitatis virtutis` (raw `U`),
+     `B C I L M O Q` (raw `D…0…`), and the chronic raw `R` for `K`.
+  6. **The `II`→`H` flattening is a TYPEFACE fact, not an OCR artifact** — it prints with
+     no crossbar at 900 dpi, and **the plate is inconsistent within a single page**: a
+     flattened `H` and a properly crossbarred one stood fourteen lines apart on p.238, and
+     p.246 printed the codex `H` both ways four times inside one nine-note register.
+     Raising the dpi will not resolve it; the siglum set and the run order will.
+  7. **A single note can carry TWO different siglum sets one clause apart**, which the raw
+     flattens into one (p.228 n.3: `pro per I O U V et` … `post sapientissimum L U V addunt`).
+     Likewise the edition-siglum `1` and the codex-siglum `I` print as different sorts
+     inside one clause and the raw merges them.
+- **★★ A HAND-OFF IS A CLAIM TO RE-DERIVE, NEVER A FACT TO ADOPT (frozen 2026-07-30).**
+  Because per-page footer splits are the norm, every chunk inherits notes from its
+  predecessor. **State for each forwarded note whether you verified its POSITION, its
+  COLUMN, or only its OWNERSHIP** — this convention was introduced mid-Pars IV and it
+  works. It caught p.242 n.4 handed over with the wrong column, and a wrong digit
+  (`q. 4` → `q. 1`) sitting inside an otherwise careful predecessor's hand-off. **A
+  hand-off tells you which notes are yours. It never tells you where they land.**
+  Corollary for the ledger: **render an inherited runover joined, but never re-log a
+  runover a prior chunk already logged** — that is the double-count the ledger exists
+  to prevent.
+- **★ THE RAW-QUALITY GRADE MOVES *WITHIN* A PAGE — grade per page, per region, AND per
+  column-run.** p.234's body was clean above the `Cap. V` heading and degraded below it;
+  p.237's improved *upward* across a chapter heading. **Always give the verdict for body
+  and footer separately** — p.231's body was clean while its footer was wrong in two
+  places. "The raw is usable" is never a page-level fact, let alone a volume-level one.
+  The raw also **cascade-drops short phrases at anchors** and shatters headings
+  (`Cap. IV.` → `Cah. IV.`).
+- **★ THE RUNNING HEAD IS AN ASYMMETRIC WITNESS — IN BOTH DIRECTIONS.** It has named a
+  chapter that merely *ends* on the page, named one that barely *starts* there (p.237
+  reads `C. IX.` though Cap. VIII fills the page), and run a full unit *ahead* (p.248's
+  band reads `PARS IV. C. VIII` where the raw suggested `C. VI`). **Never set or
+  corroborate a boundary from it. Find the `Cap. N.` heading on the band.**
+- **★ THE FOOTER BLOCK'S EXTENT TELLS YOU NOTHING ABOUT WHICH COLUMN A NOTE'S ANCHOR IS
+  IN.** The left block fills first and can **overrun** the column division (pp.220, 221,
+  226, 233, 239) or **underrun** it (pp.234, 237). The block break has twice fallen two
+  notes *above* the anchor break (pp.244, 245 are exact mirrors). **A capitulum boundary
+  can also fall inside a footer block** (p.247: anchors split 4/4 matching a 4/4 block
+  split, yet the Cap. VI/VII boundary fell between nn. 5 and 6 inside the right block).
+  Block structure, column structure and capitulum structure are three independent things.
+  **Read anchors, only anchors.**
+- **★ A UNIT'S BREAK CAN FALL ANYWHERE — a grammatically complete tail is NOT evidence
+  that a unit ended.** Attested across Pars IV alone: mid-word hyphenated (`in-`/`fecerat`),
+  mid-word inside a scriptural quotation (`Non mea vo-`/`luntas`), mid-Vulgate-verse, at a
+  comma, at a paragraph boundary, splitting a work's title (`Enarrat.`/`in Ps. 149, 6`),
+  stranding an adjective, stranding a correlative, and **three consecutive capitula
+  breaking on a stranded preposition governing nothing**. Twice both halves read as
+  complete sentences on their own.
 
 - **★★ NEVER HAND-CARRY A CORPUS-WIDE COUNT. DERIVE IT. (frozen 2026-07-28.)**
   Any number that describes the whole corpus — chunk counts, runover tallies,
