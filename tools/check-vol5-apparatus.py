@@ -309,6 +309,34 @@ KNOWN_TOTALS = {
               # opens below it -- and belongs to p5-c3, which owns n.6.
               # Neither the printer's signature nor a quire signature falls on
               # p.254; the next is due around p.257.
+    255: 10,  # band-read in full by p5-c3, which owns ALL TEN: no capitulum
+              # boundary falls on p.255, so a page whose register is undivided
+              # sits between two pages whose registers are not. A SIXTEENTH
+              # CONFIGURATION, and the SECOND OCCURRENCE of p.253's shape:
+              # anchors divide 6/4 (nn.1-6 left, nn.7-10 right) while the
+              # BLOCKS divide 8/2 with the split falling INSIDE n.8 -- so the
+              # left block OVERRUNS the anchor line by two whole notes and then
+              # by half of a third. Unlike p.253, where the overrunning notes
+              # were the FIRST two of the page, here they are the LAST two of an
+              # eight-entry block, so no seam is visible in the register.
+              # n.8 breaks off at a FULL STOP on a half-entry that reads as a
+              # complete citation ("Serm. 169. (alias 15. de Verbis Apostoli)
+              # c. 11. n. 13.") and the right block opens UNNUMBERED with its
+              # continuation ("Cfr. tom. IV. pag. 327, nota 2. -- Seq. locus est
+              # Rom. 9, 16. ..."), so the p.255 GUTTER RUNOVER is POSITIVE
+              # (logged as p.255 n.8:gutter by p5-c3), confirmed three ways:
+              # no numeral on the opener, "Seq. locus est" naming Rom. 9, 16
+              # which IS the body's next italic quotation, and the grammar.
+              # BOTH page-crossing tests on this leaf-pair are NEGATIVE: p.255's
+              # left block opens NUMBERED ("1 Secundum Ambros. supra pag. 237,
+              # nota 4. allegatum."), closing p.254 -> p.255, and p.256's left
+              # block opens NUMBERED ("1 De his agitur hic et 2 seqq. capp."),
+              # closing p.255 -> p.256. Nothing is forwarded out of p5-c3:
+              # p.256's register is Cap. IV's entire, because Cap. III's two
+              # closing lines at the head of p.256's left column carry NO anchor
+              # -- verified negatively on the band. Neither the printer's
+              # signature nor a quire signature falls on p.255 or p.256; both
+              # last fell on p.249 and are now overdue.
 }
 
 
