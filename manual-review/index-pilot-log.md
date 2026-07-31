@@ -25,7 +25,7 @@ exercise both apparatus-label styles (`[^12]` vs `[^p210-1]`), both citation cul
 | Crossref `unresolvable` (bare `ibid.`/`loc. cit.`) | 88 (13%) | 1,930 (18%) |
 | Crossref `forward` (work not yet translated) | 20 (3%) | 31 (0%) |
 | Crossref `ambiguous` | 11 (2%) | 145 (1%) |
-| Crossref **`dangling`** | **1 (0.1%)** | **212 (2%)** |
+| Crossref **`dangling`** | **1 → 0 after the fix below** | **212 → 211** |
 
 Full-corpus run: **16 s**, 1.9 MB ledger. No performance work needed for Phase 1.
 
@@ -44,6 +44,11 @@ otherwise complete.
   `articulus` member exists; every tier-A/B verse record is well-formed.
 - **50-record hand-verification sample** → `citation-pilot-sample.md` (frozen snapshot,
   `--sample 50 --seed 7`). Regenerate with the same seed to reproduce.
+- **Both corpus findings settled at the plate** and corrected; the pilot corpus now
+  reports **0 dangling / 0 QA flags**. Guard-rails re-run after the edits:
+  `check-vol5-apparatus` 59 chunks / 487 entries all passed · `check-vol5-census`
+  rosters agree · `polish-style-scan` unchanged at 10 issues / 5 chunks, none of them
+  an edited chunk (all pre-existing Vol III–IV) · `build-content.mjs` 1992/1992.
 - **QA-channel proof** (the plan's explicit verification item). Perturbing a citation's
   digits in the documented confusion classes makes it flag, and the true reading does not:
 
@@ -53,32 +58,60 @@ otherwise complete.
   | `IV. Sent. d. 13. …` | perturbed 5→3 | **`dangling`** |
   | `IV. Sent. d. 45. …` | perturbed 1→4 | **`dangling`** |
 
-- **Non-invasiveness**: `git status` over `vol1..vol5` is empty after every run;
-  `build-content.mjs` still reports **1992 questions / 1992 translated**;
-  `site/src/data/content.json` byte-identical; `check-vol5-census.py` and
-  `check-vol5-apparatus.py` both still green (59 chunks / 487 entries / rosters agree).
+- **Non-invasiveness of the TOOL**: `git status` over `vol1..vol5` is empty after every
+  extractor run — it never writes to the corpus. (Two chunk files *were* edited in this
+  session, by hand, to correct the findings below; that is translation work, not the
+  index run.) `build-content.mjs` still reports **1992 questions / 1992 translated**.
 
-## Corpus findings the index surfaced (NOT fixed here — zero edits to `vol*/`)
+## Corpus findings the index surfaced — ✅ BOTH SETTLED AT THE PLATE 2026-07-31
 
-**1. `bon-brev-p4-c8`, p. 249 n. 6 — `III. Sent. d. 17. a. 4. q. 3.` cannot resolve.**
-Vol III d.17 has **two** articles (*De voluntate Christi*, 3 qq.; *De oratione Christi*),
-so there is no `a. 4`. The chunk's own `## Notes` record that this citation's digits were
-read off the plate and called "every digit correct" — but that check verified the glyphs
-and sense-checked *d. 17* only; **nobody checked whether the target exists.**
-`a. 1. q. 3` is *De illarum voluntatum concordia vel controversia* — exactly the doctrine
-the citing note is about (the Hugh quotation on Christ's two wills). **A 1→4 candidate in
-the documented confusion class.** Needs a band read; do not edit on this reasoning alone.
+Both were band-read at 450 dpi and 8×, and **both turned out to be OUR transcription
+errors, not Quaracchi's** — so both were corrected rather than preserved as cruces.
+(The third possible outcome, a sound plate that the sense argues with, would have been
+logged as a crux and left standing; cf. this corpus's preserved full stop at p. 249.)
 
-**2. `bon-sent-I-d10-a1-q2` `[^4]` reads `Vers. 3.`; the quotation is Rom 5:5.**
-The body sets `ad Romanos quinto[^4]: «Caritas Dei diffusa est in cordibus nostris»`,
-which is Romans **5:5**; the note supplies verse **3**. The sibling `[^3]` (`Vers. 22.`
-for John 17:22) is correct, so the anchor pairing is sound and only this digit is in
-doubt — **a 3↔5 candidate.** Found by reading the tier-B join against the quoted text,
-a channel the plan did not anticipate (see the convention frozen in CLAUDE.md).
+**1. ✅ `bon-brev-p4-c8`, p. 249 n. 6 — `a. 4.` → `a. 1.` (CORRECTED).**
+Read on `vol5-p249-R-2` against the `4` of `d. 48.` standing on the line above. The
+disputed glyph is a **single upright with an angled flag and a closed stem — no
+crossbar, no triangular counter**; the `48` beside it is unmistakably crossbarred with an
+open counter. A `1` by this repo's own discriminator. Sense agrees independently: Vol III
+d.17 has **two** articles, so `a. 4` cannot exist, and `a. 1. q. 3` is *De illarum
+voluntatum concordia vel controversia* — the concord-of-wills doctrine the Hugh quotation
+is about. The chunk's `## Notes` had called this register "every digit correct"; **that
+verdict is now withdrawn in the chunk itself.**
 
-**3. Corpus-wide there are 212 dangling cross-references (2%)** in the full-corpus dry
-run. That is the scoped defect list Phase 2 is supposed to produce; it is **not** worked
-here. Treat it the way the apparatus backlog was treated — as jobs, not a blob.
+**2. ✅ `bon-sent-I-d10-a1-q2` `[^4]` — `Vers. 3.` → `Vers. 5.` AND `cod. V` → `cod. U`
+(CORRECTED, two errors in one entry).**
+Read on `vol1-p197-L-2` (printed p. 197, pdf 299). The digit sets a **flat horizontal top
+bar over a single lower bowl** — a `5`; a `3` would set two rounded lobes. Independent
+agreement: the anchor sits on `ad Romanos quinto[^4]: «Caritas Dei diffusa est in
+cordibus nostris»`, which is Rom **5:5**. **The siglum was wrong too and nothing had
+flagged it** — the plate reads `U` (rounded bottom, two serifed uprights), not `V`.
+Logged in `d1-d10-polish-resolution-log.md` as a post-gate correction.
+
+**Loop closed:** re-running the extractor after both corrections gives the pilot corpus
+**0 dangling and 0 QA flags** (was 1 and 1), and the tier-B record now reads `Rom 5:5`.
+
+### What these two cost, and what they change
+
+- **Finding 1 is a new failure mode for the guard-rails: glyph-correct but target-wrong.**
+  The original check verified the glyphs and sense-checked the *distinction*; nothing
+  asked whether the *article* exists. No audit could catch it, because no audit knew what
+  the corpus contains. The index does. **Reading a digit correctly is not the same as
+  reading it rightly.**
+- **Finding 2 shows the tier-B channel is worth running deliberately, not incidentally.**
+  Both halves of that entry were wrong and both had passed the d.1–d.10 decade gate.
+  **Vol I d.1–d.10 deserves a targeted re-sweep of tier-B records against their
+  quotations** before further Vol I work — that is a scoped job, not a re-gate.
+- **A block-level "clean" verdict is a summary.** p. 249's register was graded the
+  cleanest in Pars IV, and its one wrong digit sat inside the sentence saying so —
+  a fresh instance of this repo's own rule that the narrative summary is the least
+  reliable line in any `## Notes`.
+
+**3. Corpus-wide there are 211 dangling cross-references** in the full-corpus dry run
+(212 before finding 1 was fixed). That is the scoped defect list Phase 2 is supposed to
+produce; it is **not** worked here. Treat it the way the apparatus backlog was treated —
+as jobs, not a blob.
 
 ## Parser defects found and fixed during the pilot
 

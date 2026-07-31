@@ -1747,3 +1747,34 @@ The flag sat at the trailing end of the English mirror of `[^15]`: "...which the
 - `grep -oE '\[\^[0-9]+\]' vol1/bon-sent-I-d1-divisio.md | sort -u | wc -l` → 12 unique markers, each appears 3× (Latin body + English body + apparatus def).
 - `cd site && node scripts/build-content.mjs` parses cleanly → 414 chunks.
 - d.1 guard-rail audits (audit-paraphrase / audit-headers / audit-apparatus-count) run; no new flags introduced.
+
+---
+
+## Post-gate correction, 2026-07-31 — `bon-sent-I-d10-a1-q2` `[^4]` (two errors in one entry)
+
+Found by the citation index's tier-B channel (see `index-pilot-log.md`), **after** this
+decade gate had closed. Settled at 450 dpi on printed p. 197 (pdf 299), footer band
+`vol1-p197-L-2`, read at 8×.
+
+| | was | plate reads |
+|---|---|---|
+| verse | `Vers. 3.` | **`Vers. 5.`** |
+| siglum | `cod. V` | **`cod. U`** |
+
+- **The digit.** The glyph carries a **flat horizontal top bar over a single lower bowl**
+  — a `5`. A `3` sets two rounded lobes and no flat bar. The note's own superscript `⁴`
+  stands on the same line as a crossbarred contrast, and `Vers. 22.` in the sibling
+  note `³` is clean, so the register is not degraded.
+- **Independent agreement (required before acting, per CLAUDE.md).** The anchor sits on
+  `ad Romanos quinto[^4]: «Caritas Dei diffusa est in cordibus nostris»`, which is
+  **Rom 5:5** — the note's job is to supply that verse. Plate and sense agree.
+- **The siglum.** Rounded bottom with two serifed uprights: `U`, not the pointed `V`.
+  The raw's corruption of siglum letters is a documented Vol I–V hazard.
+
+**How it was found.** The extractor joins a body ordinal chapter to the note's `Vers. N`
+through the `[^N]` anchor (a tier-B record). That makes the note's verse checkable
+against the words the body actually quotes — a channel no audit had, because nothing
+previously compared the two. **Both halves of this entry were wrong and both had passed
+the decade gate.** Vol I d.1–d.10 is worth a targeted re-sweep of tier-B records against
+their quotations before any further Vol I work.
+

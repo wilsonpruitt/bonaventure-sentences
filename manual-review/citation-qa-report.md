@@ -7,9 +7,7 @@
 
 Each line is a citation whose target should exist and does not, or a scripture chapter beyond the book's length. Per CLAUDE.md these are **digit-confusion candidates** (the 1/4 and 3/5 classes) — settle each off the 450 dpi band, never off the raw.
 
-| Chunk | Section | Raw | Problem |
-|---|---|---|---|
-| `bon-brev-p4-c8` | apparatus:p249-6 | `III. Sent. d. 17. a. 4. q. 3.` | target locus does not exist — digit-confusion candidate |
+_None._
 
 ## Chunks contributing no citation record
 

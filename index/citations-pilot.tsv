@@ -64,7 +64,7 @@ bon-sent-I-d10-a1-q1	1	apparatus:1	1	authority	authority:Scot.	III. Sent. d. 28.
 bon-sent-I-d10-a1-q1	1	apparatus:6	6	crossref	relative	infra d. 27. p. II. q. 2.	bon-sent-I-d27-p2-a1-q2		chunk
 bon-sent-I-d10-a1-q1	1	apparatus:16	16	crossref	relative	supra d. 6. q. 2.	bon-sent-I-d6-a1-q2		chunk
 bon-sent-I-d10-a1-q2	1	latin_body	3	scripture	body-ordinal	Ioannis decimo septimo	Ioan 17:22	B	verse
-bon-sent-I-d10-a1-q2	1	latin_body	4	scripture	body-ordinal	ad Romanos quinto	Rom 5:3	B	verse
+bon-sent-I-d10-a1-q2	1	latin_body	4	scripture	body-ordinal	ad Romanos quinto	Rom 5:5	B	verse
 bon-sent-I-d10-a1-q2	1	scholion		crossref	logical	I. Sent. d. 45. dub. 10.	bon-sent-I-d45-dubia		chunk
 bon-sent-I-d10-a1-q2	1	scholion		authority	authority:Scot.	III. Sent. d. 26.			excluded
 bon-sent-I-d10-a1-q2	1	scholion		authority	authority:Henr. Gand.	II. Sent. d. 24. a. 2. q. 3.			excluded
@@ -852,7 +852,7 @@ bon-brev-p4-c8	5	apparatus:p249-5	p249-5	scripture	apparatus-explicit	Matth. 26,
 bon-brev-p4-c8	5	apparatus:p249-5	p249-5	scripture	apparatus-explicit	Luc. 22, 42	Luc 22:42	A	verse
 bon-brev-p4-c8	5	apparatus:p249-5	p249-5	crossref	relative-bare	ibid.			unresolvable
 bon-brev-p4-c8	5	apparatus:p249-6	p249-6	crossref	logical	I. Sent. d. 48. a. 2. q. 2.	bon-sent-I-d48-a2-q2		chunk
-bon-brev-p4-c8	5	apparatus:p249-6	p249-6	crossref	logical	III. Sent. d. 17. a. 4. q. 3.			dangling
+bon-brev-p4-c8	5	apparatus:p249-6	p249-6	crossref	logical	III. Sent. d. 17. a. 1. q. 3.	bon-sent-III-d17-a1-q3		chunk
 bon-brev-p4-c9	5	apparatus:p249-7	p249-7	scripture	apparatus-explicit	Isai. 53, 12	Isai 53:12	A	verse
 bon-brev-p4-c9	5	apparatus:p249-7	p249-7	scripture	apparatus-explicit	Marc. 15, 28	Marc 15:28	A	verse
 bon-brev-p4-c9	5	apparatus:p249-7	p249-7	scripture	apparatus-explicit	Luc. 22, 37	Luc 22:37	A	verse

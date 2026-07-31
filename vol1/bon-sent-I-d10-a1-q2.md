@@ -176,9 +176,9 @@ holds more of the character of liberality. Hence this is the gift in which all o
 
      **En.** Verse 22.
 
-[^4]: **La.** Vers. 3. — Mox cod. V *communicationem* loco *emanationem*.
+[^4]: **La.** Vers. 5. — Mox cod. U *communicationem* loco *emanationem*.
 
-     **En.** Verse 3. — Then codex V [reads] *communicationem* in place of *emanationem*.
+     **En.** Verse 5. — Then codex U [reads] *communicationem* in place of *emanationem*.
 
 [^5]: **La.** Ed. 1 *sed* pro *et*.
 
