@@ -3,7 +3,7 @@
 > # ★★★ VOL V (TOME V — OPUSCULA) IS THE ACTIVE FRONT.
 >
 > # ▶ PARS V IS OPEN — *De gratia Spiritus sancti*, 10 capitula, printed pp. 252–264
-> **Capp. I–VIII are DONE.** Pars V's capitulum count was verified against the volume's own index by
+> **Capp. I–IX are DONE. ONE CAPITULUM LEFT — Cap. X, which closes the pars.** Pars V's capitulum count was verified against the volume's own index by
 > `bon-brev-p5-c1` (raw `doctorisseraphic05bona_djvu.txt` L93893–93975, closed positively at
 > `Pars VI. / De medicina sacramentali. / I. De Sacramentorum origine » 265`): **TEN capitula, I–X,
 > Pars VI opening on printed p. 265, so Pars V spans pp. 252–264 — thirteen printed pages**, the same
@@ -19,8 +19,8 @@
 > | VI | *De ramificatione gratiae in habitus beatitudinum, et per consequens fructuum et sensuum* | **258–260, BUILT** |
 > | VII | *De exercitio gratiae respectu credendorum* | **260–261, BUILT** |
 > | VIII | *De exercitio gratiae respectu diligendorum* | **261–262, BUILT** |
-> | IX | *De exercitio gratiae respectu agendorum, praeceptorum et consiliorum* | opens **262**, at the very TOP of the RIGHT column, verified on the band |
-> | X | *De exercitio gratiae respectu petendorum et orandorum* | 263 |
+> | IX | *De exercitio gratiae respectu agendorum, praeceptorum et consiliorum* | **262–263, BUILT** |
+> | X | *De exercitio gratiae respectu petendorum et orandorum* | opens **263**, about **55 % down the RIGHT column**, verified on the band by `p5-c9`; TWO-line subtitle |
 >
 > **⚠ Two things about that table are now SETTLED and one is not.** **(1) The index's garbled digits
 > for capp. III–X were confirmed on re-reading** — `png. 2Bi` = 254, `2.'i7` = 257, `2.58` = 258; the
@@ -40,15 +40,22 @@
 > down p. 260's LEFT column, with a ONE-line subtitle. ★★★★★★ AND Cap. VIII's (261) IS CORRECT TOO,
 > tested by `p5-c7`: `Cap. VIII.` stands about ONE-THIRD down p. 261's RIGHT column, with a ONE-line
 > subtitle. ★★★★★★★ AND Cap. IX's (262) IS CORRECT TOO, tested by `p5-c8`: `Cap. IX.` stands at the
-> very TOP of p. 262's RIGHT column, with a TWO-line subtitle.**
-> SEVEN consecutive confirmations, and still not a licence —
+> very TOP of p. 262's RIGHT column, with a TWO-line subtitle. ★★★★★★★★ AND CAP. X's (263) IS CORRECT
+> TOO, tested by `p5-c9`: `Cap. X.` stands about 55 % down p. 263's RIGHT column, with a TWO-line
+> subtitle — so **EVERY index opening in Pars V has now been tested on its own band and every one was
+> right, EIGHT for EIGHT among capp. III–X.**
+> EIGHT consecutive confirmations, and still not a licence —
 > but note WHAT THE INDEX GOT WRONG EVEN SO. Cap. IV opening on p. 256 implied Cap. III would run two
 > full pages; it takes only TWO LINES of p. 256. The index's opening pages have now been right SEVEN
 > times and the SPAN inferred from a pair of them has been wrong once (Cap. III) and right THREE times
 > (Capp. VI, VII and VIII). Test each remaining opening on its own band, and never infer a span from two
 > openings — a run of correct openings says nothing about any span.**
-> ★★ **ONLY ONE INDEX OPENING IS LEFT UNTESTED IN PARS V — Cap. X at p. 263 — and it is the one that
-> also fixes where the pars ends. Test it on its own band like every other.**
+> ★★ **NO INDEX OPENING IS LEFT UNTESTED IN PARS V. What the index CANNOT give is the one thing still
+> open: where Cap. X — and with it the pars — ENDS. The index says Pars VI opens on p. 265, so Cap. X
+> should close on p. 264; that is a hypothesis of exactly the kind that has been wrong once already
+> (Cap. III). `bon-brev-p5-c10` must close it POSITIVELY from the `PARS VI.` display heading on the
+> band, and must expect a full-width heading to wreck p. 264's or p. 265's gutter profile if it needs
+> to measure either (gutter rule 2).**
 > ★ **A second failed prediction is worth carrying: `p5-c4` forecast a THREE-line subtitle for Cap. VI
 > (the longest title in the pars) and the plate sets it in TWO. A predicted layout is not a measured
 > one — never size a heading from its word count.**
@@ -492,9 +499,220 @@
 > EVER an entry. Never count them.** ★ **On the ~8-leaf cadence the next is due around p. 265, the Pars VI
 > opening — so expect it inside `p5-c10`'s pages or just past them.**
 >
-> ## ▶ THE FRONT — `bon-brev-p5-c9`, Pars V Cap. IX, *De exercitio gratiae respectu agendorum, praeceptorum et consiliorum*
+> ## ✅ `bon-brev-p5-c9` DONE (2026-07-30) — commit `9e367be`
+> Breviloquium **Pars V, Cap. IX, *De exercitio gratiae respectu agendorum, praeceptorum et
+> consiliorum*** — printed **pp. 262–263**, the THIRD of the four *exercitium gratiae* chapters. Opens
+> at the very **TOP of p. 262's RIGHT column** under a TWO-line subtitle; fills that column entire to
+> `…hinc est, quod lex *evangelica* continet`; breaks across the leaf on a **TRANSITIVE VERB SEVERED
+> FROM ITS OBJECT** (`continet` / `ista tria.`); fills **p. 263's LEFT column entire** to
+> `…et quantum ad *causam*; et omne malum oritur`; crosses p. 263's gutter on a **VERB SEVERED FROM THE
+> PREPOSITIONAL PHRASE THAT COMPLETES IT** (`oritur` / `ex triplici radice`); and closes about **55 %
+> down p. 263's RIGHT column** at `…et exercitationi gratiae perficientis.` **★ The end is fixed
+> POSITIVELY from the `Cap. X. / De exercitio gratiae respectu petendorum / et orandorum.` heading
+> standing immediately below it in the SAME right column**, TWO-line subtitle, Cap. X's own text
+> following. ★★ **TWO breaks and BOTH are the same shape — a governing word stranded from what it
+> governs — which no capitulum in Pars V had yet done twice in one chunk.**
+> Apparatus **10 entries** — **p. 262 nn. 4–7** (the inherited four, every ownership, column, position,
+> digit, siglum and verbatim text re-derived, and the two anchors `p5-c8` declared UNREAD now READ,
+> closing that register entire) and **p. 263 nn. 1–6**. Gutters p. 262 = **1321** (re-cut) and p. 263 =
+> **1195** (MEASURED FRESH; see below). **ONE runover POSITIVE and one NEGATIVE — `p5-c9
+> p.263 n.4:gutter`.** `check-vol5-apparatus.py` all checks passed (p. 263 fed as **8**; 58 chunks,
+> 479 entries); `polish-style-scan --volume 5` CLEAN; `check-vol5-census.py` rosters agree (58/58,
+> **37 runovers**); build **1991/1991**. **No `[?]` flags.**
 >
-> ### Hand-off INTO `bon-brev-p5-c9`
+> ## ★★ p. 263 WAS NEVER IMAGED BEFORE, AND ITS GUTTER IS 1195 ON A RUN THAT FAILED THE TRUST FLOOR.
+> `colcrop.py vol5 263` returns `split_x=1195, low-ink run 56 px` — **BELOW the 60 px floor**, so the
+> escalation ran in full. Six row-windows: 1195/56 · 1193/61 · 1193/61 · 1197/59 · 1197/59 · 1197/63 ·
+> 1196/65. **Spread 4 px, runs 56–65 px** — the tight-spread signature. The profile then explained the
+> narrow default: body blank band **x = 1165–1224**, ONE in-gutter island at **x = 1191–1197** peaking
+> **886 rows on x = 1195** — the printed column rule, essentially CENTRED on the band's own midpoint
+> (1194.5). Adopted **1195**; upper windows 1193, lower 1197 → **~4 px RIGHTWARD skew**, the largest
+> since p. 259 and the first real skew after three unskewed leaves.
+> ★★ **A NEW WAY FOR A ROW-WINDOW TO FAIL, WORTH CARRYING INTO VOLS VI–X.** The window 47–60 % returns
+> a nonsense **1349 on a 375 px run** — because the `Cap. X.` heading and its two-line subtitle sit in
+> the RIGHT column at that height and starve the profile of ink. **This is gutter rule 2's failure in a
+> form the rule does not name: not a full-width heading crossing the gutter, but a CENTRED IN-COLUMN
+> heading.** The default body window (45–92 %) is wide enough to swamp it; a narrow window aimed at that
+> height is not. **Any capitulum opening mid-column can do this — which in the Breviloquium is most of
+> them.**
+> ★ **Gutters so far: p.231=1194 · 232=1337 · 233=1211 · 234=1341 · 235=1210 · 236=1331 · 237=1209 ·
+> 238=1338 · 239=1200 · 240=1338 · 241=1228 · 242=1361 · 243=1186 · 244=1367 · 245=1201 · 246=1345 ·
+> 247=1209 · 248=1391 · 249=1182 · 250=1390 · 251=1160 · 252=1403 · 253=1250 · 254=1357 · 255=1206 ·
+> 256=1355 · 257=1200 · 258=1412 · 259=1137 · 260=1398 · 261=1232 · 262=1321 · **263=1195**.
+> **Range still 1137–1412. p. 264 has NOT been imaged and NOT been measured — Cap. IX never reaches it.
+> Measure it fresh; print the profile; the previous leaf predicts nothing.**
+>
+> ## ★★ THE DECALOGUE IS 3 + 7 AND THE PLATE SAYS SO IN ITS OWN MARGIN — BUT THE CHAPTER HAS EIGHT SERIES.
+> **For the second capitulum running the plate's count and the doctrinally expected count AGREE**, and
+> this time the plate states it twice in the margin rather than in the body: the glosses
+> `In 1. tabula tria.` and `In 2. tabula septem.` stand beside `triplex est mandatum primae tabulae` and
+> `septem sunt mandata, quae ad secundam tabulam spectant`. **Both glosses set ARABIC digits where the
+> body spells its counts out** — Cap. VII's gloss/body split again. ★★ **But 3 + 7 is two of EIGHT
+> series in this chapter, and a brief that stops there has reported a quarter of it: (i) the Mosaic
+> law's `iudicialia, figuralia, moralia`; (ii) the evangelical law's `documenta, promissa, consilia`;
+> (iii) `decem`; (iv) `3 + 7`; (v) the SECOND TABLE'S OWN 2 / 1 / 4 — `penes *pietatem* … *duo*`,
+> `penes *veracitatem* … *unum*`, `penes *benignitatem* … *quatuor*` — where splitting the coveting into
+> two is what MAKES the second table seven, and the chapter does it as a consequence of *benignitas*
+> needing four rather than as a premise; (vi) the FIRST table's three, which are never listed as
+> precepts at all but derived through four triads in one sentence (three appropriations → three powers
+> → three organs → three acts); (vii) `tria … *consilia*`; (viii) the `triplex radix` of I John 2, 16.**
+> ★★ **THE COUNSELS ARE THE TRAP. The thesis lists them `consilium paupertatis, consilium obedientiae
+> et consilium castitatis` — poverty, OBEDIENCE, chastity, not the order a reader supplies from habit —
+> and the re-derivation grounds them on `concupiscentiae carnis, concupiscentiae oculorum et superbiae
+> vitae` WITHOUT EVER MAPPING COUNSEL TO ROOT MEMBER FOR MEMBER. The two orders as printed do not
+> correspond, and nothing in the chapter reconciles them. Rendered as printed; not re-ordered.**
+> ★ **Italic principle, a SEVENTH in the pars and a legible one: `duo`, `unum`, `quatuor` are ITALIC
+> where the number is the sub-thesis being proved; `septem`, `triplex`, `decem` are ROMAN where the
+> number merely counts. Likewise `consilia` is italic in the re-derivation and roman in the thesis's own
+> list. Follow the plate per paragraph; regularise nothing.**
+>
+> ## ★★ A GENUINE PLATE ERROR — `docem` FOR `decem` — AND THE SAME PAGE GLOSSES `Decem` CORRECTLY.
+> At the foot of p. 263's left column the plate sets `debent contineri in **docem** praeceptis`, and the
+> raw reproduces it. At 7× the second sort is a **fully formed, fully closed round `o`** — no crossbar,
+> no aperture, no broken shoulder — beside the same word's own `e` four positions later. **This is a
+> wrong sort in the forme, so it falls under the `delectactione` rule (p. 238) and NOT the
+> `eoru a`→`eorum` rule (p. 239): PRESERVED AS PRINTED in the Latin, with the English giving the sense.**
+> ★ **The decisive contrast is on the same page: the gloss `Decem praecepta moralia.` sets the word
+> correctly eleven lines above, so the fount is not at fault and the compositor is. A polish pass must
+> not "repair" the Latin.** ★ **Also on this leaf-pair: the `Thesis 1.` gloss prints as `Thesis !` — the
+> `1`'s lower stem and its period failed — and is rendered whole under the battered-sort rule.**
+>
+> ## ★ THE FOOTNOTE MARKER STANDS INSIDE THE GUILLEMETS, TWICE ON p. 263.
+> p. 263 n. 2 sits between `reddere` and the closing `»` (`« ius suum unicuique reddere² »`), and
+> **p. 263 n. 7 — Cap. X's, and therefore `p5-c10`'s — does the same** (`« petitio decentium a Deo⁷ »`).
+> **Transcribed in that position in both languages rather than moved outside the quotation.** Expect it
+> again in Cap. X, which is built on quoted definitions of prayer.
+>
+> ## ★ GLOSSES: EIGHT CONSECUTIVE CAPITULA, EIGHT GRAMMARS — AND THIS ONE INTERLEAVES THREE SERIES.
+> Cap. IX's **ten** glosses are `Thesis 1.` · `Thesis 2.` · `Thesis 3.` · `Ratio.` ·
+> `Congruit Deo praecepta dare.` · **`Pro thesi 1 et 2.`** · `Decem praecepta moralia.` ·
+> `In 1. tabula tria.` · `In 2. tabula septem.` · `Pro thesi 3.` ★★ **`Pro thesi 1 et 2.` is a SINGLE
+> gloss answering TWO theses at once, and it carries NO period after the `1` — the plate's way of
+> marking that the numeral is not terminal. So the answering series has three members against three
+> theses and yet does not correspond one to one.** ★ **Between the numbered members stand a SENTENTIAL
+> gloss (`Congruit Deo praecepta dare.` — the only full-sentence gloss in this stretch of Pars V) and a
+> COUNTING series that numbers the body's divisions rather than its theses. One capitulum, three
+> grammars, INTERLEAVED — the exact reverse of Cap. VIII, where the numbered series ran to its end and
+> the topical glosses followed.** **Never infer a capitulum's gloss form from its neighbour's.**
+>
+> ## ★★ RAW QUALITY: p. 263 SPLITS BY COLUMN, NOT BY PAGE — AND ONE DEFECT PARSES CLEAN.
+> **p. 263's LEFT column is the cleanest region on either leaf and its RIGHT column the worst in this
+> leaf-run, nine lines apart** — because the printed ink FADES rightward and downward across the right
+> column, so the raw fails where the leaf is faint, not at random (about twenty garbles in eleven lines,
+> TEN items destroyed). ★ **The measurement rule was applied to those faint lines and returned NOTHING:
+> every one reaches the column's justified right margin, so this is under-inking, NOT the p. 261
+> line-end loss. That is the answer the method is supposed to give when the defect is not that one; the
+> last lines of all three columns were checked, not assumed.** ★★ **ONE defect would have PARSED CLEAN:
+> the raw's `in universo regimini` for `in universo regimine` (p. 262 n. 6) — a real Latin form in a
+> real slot, inside a lemma whose whole point is a case difference (`universo regimine` against
+> `universi regimine`), so a reader repairing it by ear could have inverted the very variant the note
+> exists to record. Also `Pilius` for `Filius` (p. 263 L), an `F`→`P` substitution making a real word in
+> a real case.** ★★ **THE `1`/`I` CONFUSION RUNS IN BOTH DIRECTIONS INSIDE ONE PAGE'S REGISTER, ONE
+> BLOCK APART: p. 263's left block reads arabic `1` as roman `I` three times (`Matth. II, 30`,
+> `nota I`, `Val., I ct 3`) and its right block reads roman `I` as arabic `1` (`Epist. 1. loan.`).
+> Neither direction is the safe assumption.** ★ **Footer failure directions, four leaves, four answers:
+> p. 259 failed the references · p. 260 destroyed five lemmata and left all four citations · p. 261
+> destroyed both a siglum and two citation digits · p. 263's left block destroyed SIX citations inside
+> one eleven-character stretch and left every lemma and every siglum intact.**
+>
+> ## ★ THE PRINTER'S SIGNATURE IS STILL DUE AROUND p. 265 — NOW SIX LEAVES OVERDUE-ISH.
+> `S. Bonav. — Tom. V.` last fell on **p. 257** with the quire signature `33`. **pp. 258–263 carry
+> NEITHER mark** — every one of those registers has been read to its last line to confirm it, p. 263's
+> both blocks included, with blank paper across the full page width below them. **Neither a printer's
+> signature nor a quire signature nor an unnumbered runover tail is EVER an entry. Never count them.**
+> ★ **On the ~8-leaf cadence the next is due around p. 265, the Pars VI opening — so `p5-c10` is the
+> chunk most likely to meet it.**
+>
+> ## ★★ FOOTER GEOMETRY — p. 263 IS THE EXACT INVERSE OF p. 262.
+> **p. 262:** anchors 3/4, blocks 3/4, capitulum line between nn. 3 and 4 — all three coincide, because
+> the capitulum boundary IS the column boundary. **p. 263:** anchors **4/4**, blocks **4/4**, capitulum
+> line between nn. **6 and 7** — **two lines coincide and the third dissents by TWO notes**, because
+> Cap. X opens INSIDE the right column rather than at its head, so the capitulum line has nothing to
+> coincide with. ⚠ **`p5-c9` made NO claim about how often this shape has occurred in Pars V** — that
+> would need pp. 252–261's anchors re-derived, which it did not do. **Assert the leaf you read.**
+> ★ **Note also that n. 4's unnumbered tail spills into the right block WITHOUT changing the 4/4
+> ownership split — a runover is not a block-boundary event. Read anchors, only anchors.**
+>
+> ## ▶ THE FRONT — `bon-brev-p5-c10`, Pars V Cap. X, *De exercitio gratiae respectu petendorum et orandorum* — **THE LAST CAPITULUM OF PARS V**
+>
+> ### Hand-off INTO `bon-brev-p5-c10`
+> - **★★ THIS CHUNK CLOSES PARS V, AND IT IS THE ONLY CHUNK IN THE PARS WHOSE END THE INDEX CANNOT
+>   EVEN HYPOTHESISE FROM A CAPITULUM OPENING.** Every other capitulum was closed from the NEXT
+>   `Cap. N.` heading. Cap. X must be closed from the **`PARS VI. / De medicina sacramentali.`
+>   full-width display heading**, which the index puts on **p. 265**. **That is a hypothesis, not a
+>   span.** Expect pp. 263–264, possibly 265. **Find the heading on the band and close it there.**
+> - **★ THE TARGET AND ITS OPENING ARE ALREADY ON A BAND.** `Cap. X. / De exercitio gratiae respectu
+>   petendorum / et orandorum.` stands about **55 % down p. 263's RIGHT column**, with a **TWO-line**
+>   subtitle, immediately below Cap. IX's close. Its opening reads `De *petitionibus* autem orationis
+>   dominicae hoc tenendum est, quod licet Deus sit liberalissimus et promptior ad dandum quam nos ad
+>   accipiendum; vult tamen orari a nobis, ut occasionem habeat largiendi dona gratiae Spiritus sancti.
+>   — Vult autem orari non solum oratione *mentali*, quae est, « ascensus intellectus in Deum », verum
+>   etiam *vocali*, quae est « petitio decentium a Deo⁷ », non solum per *nos ipsos*, verum etiam per
+>   *Sanctos* tanquam per coadiutores nobis divinitus datos, ut quod minus digni sumus impetrare per nos
+>   impetrare valeamus per Sanctos. — Et quia, *quid oremus, secundum quod oportet, nescimus*, ne
+>   vagaremur incerti, formam nobis tradidit in oratione, quam composuit; in qua sub septenario
+>   petitionum numero universitas comprehenditur petendorum.` then `Ratio autem ad intelligentiam
+>   praedictorum haec est: quia primum principium, sicut est summe *verum* et bonum in se ipso, sic
+>   *misericors* et *iustum* in opere suo. Et quoniam *misericordissimum* est, ideo libentissime
+>   condescendit humanae miseriae per infusionem gratiae suae. Quia vero simul cum hoc iustum est, ideo
+>   *donum perfectum*⁸ non dat nisi desideranti…` **All of this was read on p. 263's bands, but re-set
+>   every line from the band yourself.**
+> - **★★ PICK UP: p. 263 nn. 7–8, TWO NOTES. p. 263's register is EIGHT and nn. 1–6 are Cap. IX's.**
+>   For each note `p5-c9` states exactly what it verified — **re-derive all of it, adopt none of it:**
+>   - n. **7** — **OWNERSHIP, COLUMN and POSITION all verified.** Anchor on `est « petitio decentium a
+>     Deo`⁷ `»`, in Cap. X's second thesis, **RIGHT** column, about nine lines below the `Cap. X.`
+>     heading, beside the `Thesis 2.` gloss; entry in the **RIGHT** block. **The marker stands INSIDE
+>     the guillemets** — as p. 263 n. 2 does. Text: `Duplex haec orationis definitio datur a Damasc.,
+>     III. de Fide orthod. c. 24. — Seq. locus est Rom. 8, 26, ubi pro *secundum quod* Vulgata *sicut*.
+>     — Inferius substituimus cum 2 et pluribus codd. *tradidit* pro *tribuit*, ubi Vat., 1 et 3 addunt
+>     *Dominus et Deus noster Christus*.`
+>   - n. **8** — **OWNERSHIP, COLUMN and POSITION all verified.** Anchor on `ideo *donum perfectum*`⁸,
+>     in Cap. X's *Ratio* paragraph, **RIGHT** column. Entry in the **RIGHT** block. Text:
+>     `Iac. 1, 17. — Inferius non pauci codd. omittunt *miseriam*.`
+>   **Every digit and siglum above was read on the band by `p5-c9` while establishing the register's
+>   total. They are forwarded AS READ and must all be re-derived.** ★ **`Damasc., III. de Fide orthod.
+>   c. 24` is *De oratione* and BOTH of Cap. X's definitions stand there, which is why the entry opens
+>   `Duplex haec orationis definitio` — but that corroborates the anchor, it did not read it; the anchor
+>   was read directly.**
+> - **★★ RUNOVERS `p5-c10` OWES: the p. 263 → p. 264 page-crossing test, p. 264's own gutter test, and
+>   the same pair for p. 265 if Cap. X reaches it.** ★ **p. 263's own gutter test is NOT yours —
+>   `p5-c9` ran it, found it POSITIVE and logged it as `p.263 n.4:gutter`. Do not re-log it. Nor is the
+>   p. 262 → p. 263 test, which `p5-c9` closed negative.**
+> - **DO NOT RE-LOG:** `p.263 n.4:gutter` and the p. 262 → p. 263 test (both `p5-c9`); the
+>   p. 261 → p. 262 test and p. 262's own gutter test (both `p5-c8`); the p. 260 → p. 261 test and
+>   p. 261's own gutter test (both `p5-c7`); `p.259 n.5:gutter` and `p.260 n.3:gutter`, and the
+>   p. 258 → p. 259 and p. 259 → p. 260 tests (all four `p5-c6`); p. 257's own gutter test,
+>   p. 257 → p. 258 and p. 258's own gutter test (all three `p5-c5`); p. 256's own gutter test and
+>   p. 256 → p. 257 (both `p5-c4`); `p.255 n.8:gutter` and the p. 254 → p. 255 and p. 255 → p. 256
+>   tests (all three `p5-c3`); `p.253 n.9:page` and `p.254 n.3:gutter` (both `p5-c2`); the
+>   p. 252 → p. 253 test and p. 253's gutter (both `p5-c1`). **Never double-log.**
+> - **pp. 255–263's bands already exist** (`raw/vision/vol5/p-255.png` … `p-263.png`; colcrop bands in
+>   `/tmp/colcrop/`, p. 262 cut at **1321** and p. 263 at **1195**). **p. 264 and p. 265 have NOT been
+>   imaged.** Extract fresh with no constant:
+>   `python3.11 tools/extract-pages.py --volume vol5 --pages 264 --dpi 450` then
+>   `python3.11 tools/colcrop.py vol5 264`. **Never `Read` a full-page extract** — they run 3–4 MB and
+>   the tool flags them as too large. Colcrop bands only.
+> - **★★ THE COLUMN RULE IS ON EVERY LEAF — assume it, print the per-column ink profile even when the
+>   windows agree, and if the windows FORK, crop the gutter and look at the rule directly.** ★ **pp. 260,
+>   261, 262 and 263 all showed a CENTRED rule and all four defaults were sound — but p. 263's run was
+>   56 px, BELOW the trust floor, and it was the PROFILE, not the run width, that showed why. A
+>   description of four leaves, not a licence.** ★★ **AND ON p. 265, IF YOU REACH IT, EXPECT GUTTER RULE
+>   2 IN ITS FULL FORM: a `PARS SEXTA` display heading crosses the gutter and will destroy the blank-run
+>   profile outright, exactly as `PARS QUINTA` did on p. 252. That is the case where you re-window LOW,
+>   into the body rows below the heading.**
+> - **★★★ SKEW: p. 255 leftward ~13 · p. 256 rightward ~6 · p. 257 **leftward ~21** · p. 258 rightward
+>   ~6–11 · p. 259 **leftward ~12** · p. 260 essentially NONE · p. 261 essentially NONE · p. 262
+>   leftward ~2 · p. 263 **rightward ~4**. Parity predicts nothing, proximity predicts nothing, the
+>   previous leaf predicts nothing.**
+> - **★ TERMINOLOGY: the `praeceptum` = precept / `mandatum` = commandment split held through Cap. IX
+>   and should be kept.** Cap. IX sets both in one paragraph (`praecepta moralia … duplex caritatis
+>   praeceptum` against `triplex est mandatum primae tabulae … septem sunt mandata`) and the distinction
+>   is doing work, so `p5-c9` followed `p5-c7`/`p5-c8` rather than the dispatch's
+>   "praeceptum = commandment". **CLAUDE.md's terminology table still contains neither word. Cap. X is
+>   *De … petendorum et orandorum* and turns on `oratio` / `petitio` instead — lock those two before you
+>   start, and do not switch `praeceptum` silently at the end of a pars.**
+>
+> ### ✅ Hand-off INTO `bon-brev-p5-c9` — CONSUMED (kept for the record, superseded above)
 > - **★ THE TARGET AND ITS OPENING ARE ALREADY ON A BAND.** `Cap. IX. / De exercitio gratiae respectu
 >   agendorum, / praeceptorum et consiliorum.` stands at the very **TOP of p. 262's RIGHT column**, with
 >   a **TWO-line** subtitle — the first two-line subtitle in the *exercitium* run. Its opening reads
