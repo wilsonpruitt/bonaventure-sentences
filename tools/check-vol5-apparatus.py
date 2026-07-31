@@ -459,6 +459,32 @@ KNOWN_TOTALS = {
               # p.262's own gutter (left block ends complete at n.3 "perperam
               # Quae universitas." and the right block opens NUMBERED with n.4
               # "Exod. 31, 18.").
+    263: 8,   # band-read in full by p5-c9, which owns nn.1-6. THE PAGE WAS
+              # NEVER IMAGED BEFORE THIS CHUNK -- extracted at 450 dpi and
+              # measured fresh (gutter 1195). Split by CAPITULUM: Cap. IX runs
+              # from the head of the left column to about 55% down the RIGHT
+              # column, where the Cap. X heading stands, so nn.1-6 anchor in
+              # Cap. IX (on "ista vivificans", "ius suum unicuique reddere"
+              # [marker INSIDE the guillemets], "debetur veracitas", "non
+              # concupisces rem alienam", "superbiae vitae", "verum etiam
+              # abundantem" -- all six read on the band) and nn.7-8 in Cap. X
+              # (FORWARDED to p5-c10; both anchors READ on the band, at
+              # "petitio decentium a Deo" and "donum perfectum", neither
+              # inferred). Anchors divide 4/4 and blocks divide 4/4, but the
+              # CAPITULUM LINE falls between nn.6 and 7 -- two notes below
+              # both, because Cap. X opens INSIDE the right column rather than
+              # at its head. So two of the three lines coincide and the third
+              # dissents by two: the exact inverse of p.262, where the
+              # capitulum boundary WAS the column boundary. Derived from
+              # p5-c9's own per-note list; NO claim is made about how often
+              # this shape has occurred in Pars V, which would need pp.252-261
+              # re-derived. ONE runover POSITIVE, one NEGATIVE: p.263's own
+              # gutter is POSITIVE (n.4 breaks at "Sub-" at the foot of the
+              # left block and resumes UNNUMBERED at "inde" at the head of the
+              # right; logged as p.263 n.4:gutter) while p.262 -> p.263 is
+              # NEGATIVE (p.262's right block ends complete at n.7 "Inferius
+              # pro documentorum E mandatorum." and p.263's left block opens
+              # NUMBERED with n.1 "Epist. II. Cor. 3, 6:").
 }
 
 
