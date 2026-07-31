@@ -14075,7 +14075,7 @@ bon-sent-IV-d18-p1-a1-q1	4	latin_body	5	scripture	body-ordinal	Isaiae vigesimo s
 bon-sent-IV-d18-p1-a1-q1	4	latin_body	6	scripture	body-ordinal	Isaiae vigesimo secundo	Isai 22:22	B	verse		
 bon-sent-IV-d18-p1-a1-q1	4	latin_body		scripture	anaphor->body-ordinal	ibid	Matth 16	C	chapter	yes	Matthaei decimo sexto
 bon-sent-IV-d18-p1-a1-q1	4	scholion		scripture	anaphor->body-ordinal	ibid.	Matth 16	C	chapter	yes	Matthaei decimo sexto
-bon-sent-IV-d18-p1-a1-q1	4	scholion		crossref	work	Breviloq. p. VI. c. 10.	bon-brev-p6-c10		forward		
+bon-sent-IV-d18-p1-a1-q1	4	scholion		crossref	work	Breviloq. p. VI. c. 10.	bon-brev-p6-c10		chunk		
 bon-sent-IV-d18-p1-a1-q1	4	scholion		crossref	relative	infra d. 19. a. 1. q. 1.	bon-sent-IV-d19-a1-q1		chunk		
 bon-sent-IV-d18-p1-a1-q1	4	scholion		crossref	anaphor->relative	ibid.	bon-sent-IV-d19-a1-q1		chunk	yes	infra d. 19. a. 1. q. 1.
 bon-sent-IV-d18-p1-a1-q1	4	scholion		crossref	relative	supra d. 17. p. III. a. 2. q. 2.	bon-sent-IV-d17-p3-a2-q2		chunk		
@@ -19078,6 +19078,9 @@ bon-brev-p6-c1	5	apparatus:p265-1	p265-1	crossref	page	tom. III. pag. 895, nota 
 bon-brev-p6-c1	5	apparatus:p265-1	p265-1	crossref	anaphor->page	ibid.	bon-sent-III-d40-dubia		chunk	yes	tom. III. pag. 895, nota 5
 bon-brev-p6-c1	5	apparatus:p265-1	p265-1	crossref	logical	IV. Sent. d. 1. p. I.	IV:d1		distinctio		
 bon-brev-p6-c1	5	apparatus:p265-6	p265-6	authority	authority:Magister	IV. Sent. d. 1.			excluded		
+bon-brev-p6-c10	5	apparatus:p275-6	p275-6	crossref	logical	IV. Sent. d. 14	IV:d14		distinctio		
+bon-brev-p6-c10	5	apparatus:p276-3	p276-3	crossref	logical	IV. Sent. d. 14. p. 1. dub. 4	bon-sent-IV-d14-p1-dubia		chunk		
+bon-brev-p6-c10	5	apparatus:p276-5	p276-5	crossref	page	tom. IV. pag. 486, nota 5	bon-sent-IV-d18-p2-a1-q1+bon-sent-IV-d18-p2-a1-q2		page-multi		
 bon-brev-p6-c2	5	apparatus:p266-2	p266-2	crossref	logical	IV. Sent. d. 1. p. II.	IV:d1		distinctio		
 bon-brev-p6-c2	5	apparatus:p266-2	p266-2	crossref	chain-continuation	d. 2. a. 1. q. 1.	bon-sent-IV-d2-a1-q1		chunk		
 bon-brev-p6-c2	5	apparatus:p266-3	p266-3	crossref	page	tom. IV. pag. 50	bon-sent-IV-d2-a1-q1+bon-sent-IV-d2-a1-q2		page-multi		

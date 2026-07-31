@@ -869,6 +869,51 @@ KNOWN_TOTALS = {
               # (p.274's right block ends complete at n.8 "cum uno alteroque cod.
               # in qua." and p.275's left block opens NUMBERED at "Edd., excepta
               # 2, vel."). p6-c10 MUST NOT re-log either.
+              # ** p6-c10 RE-DERIVED all of this. nn.5-7 are now owned; the
+              # INFERRED column of nn.6-7 was READ and the inference proved
+              # RIGHT: n.6 anchors on "ab Ecclesiae sponso" nine lines into the
+              # RIGHT column, n.7 on "clementissimi, non semel nec bis" ~70%
+              # down it. Gutter 1145 re-measured from scratch and confirmed
+              # (same fork, same ink profile). **
+    276: 6,   # band-read in full by p6-c10, which owns nn.1-5; n.6 anchors in
+              # Cap. XI (on "loco et tempore", closing its Thesis 4, in the
+              # RIGHT column below the CAP. XI. heading) and is a legitimate
+              # forwarded PENDING until bon-brev-p6-c11 lands.
+              # Gutter 1392, SETTLED FRESH with no constant on a leaf never
+              # before imaged, and THE DEFAULT IS SOUND ON ITS OWN SHOWING for
+              # the first time in this quire: colcrop returns 1392 on a 63 px
+              # run, inside the 58-64 px trust band. Five surviving windows run
+              # 1394/64, 1394/63, 1394/63, 1393/64, 1392/63 -- a 2 px spread --
+              # against blow-outs of 117, 86, 86, 354, 164 and 325 px thrown by
+              # the mid-column Cap. XI heading and by the short columns above a
+              # tall footer register. Ink profile: over rows 45-92% the zero
+              # band runs x=1360-1423 with the printed column rule inside it at
+              # x=1390-1395 peaking 336 rows (midpoint 1391.5, rule centre
+              # 1392.5); over rows 15-55% the band runs x=1362-1424 with the
+              # rule at x=1392-1396 peaking 1227 rows (midpoint 1393, centre
+              # 1394). The rule inks far more heavily in the UPPER half of this
+              # leaf than the lower, and the run stayed sound anyway -- heavy
+              # inking pinches a run only when the rule sits off the band's
+              # centre. 1392 adopted.
+              # BLOCK SPLIT 3/3, ANCHOR SPLIT 4/2, CAPITULUM BREAK AT 5/1 --
+              # THREE DIFFERENT PLACES, and the first leaf in Pars VI where the
+              # capitulum break falls BELOW both the block and the column break.
+              # Left block nn.1-3 with n.3 STRADDLING the gutter; right block
+              # n.3's unnumbered continuation, then nn.4, 5, 6. Anchors: nn.1-4
+              # LEFT column, nn.5-6 RIGHT.
+              # p.276's own gutter test is POSITIVE and is logged by p6-c10 as
+              # `p.276 n.3:gutter` (n.3 breaks off at "ubi sub hoc triplici" and
+              # the right block opens UNNUMBERED with "respectu explicantur
+              # diversae definitiones poenitentiae"); the p.275 -> p.276
+              # page-crossing test is NEGATIVE and is also closed by p6-c10
+              # (p.275's right block ends complete at n.7 "excepta 2,
+              # convertibilis." with blank paper beneath and p.276's left block
+              # opens NUMBERED at "Vat., 1 et 3 praefigunt apparere et.").
+              # p6-c11 MUST NOT re-log either.
+              # NOTE: the p.275 -> p.276 BODY crossing falls at a PARAGRAPH
+              # boundary -- p.275's right column ends a complete sentence and
+              # p.276's left column opens "Rursus," -- and Cap. X nevertheless
+              # runs a whole further leaf. Not a boundary.
 }
 
 
