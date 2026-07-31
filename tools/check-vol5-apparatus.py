@@ -437,6 +437,28 @@ KNOWN_TOTALS = {
               # p.261's left block opens NUMBERED with n.1) and p.261's own
               # gutter (left block ends complete at n.5 "substituit
               # aedificatione." and the right block opens NUMBERED with n.6).
+    262: 7,   # band-read in full by p5-c8, which owns nn.1-3. Split by
+              # CAPITULUM: Cap. VIII ends at the FOOT of the LEFT column and
+              # the Cap. IX heading stands at the very TOP of the RIGHT column,
+              # so nn.1-3 anchor in Cap. VIII (on "pondus mentis", "simul et
+              # ordinate", "Dominus orat", all three read on the band) and
+              # nn.4-7 in Cap. IX (FORWARDED to p5-c9; nn.4-5 anchors read on
+              # the band at "digito Dei" and "qui vult esse perfectus", nn.6-7
+              # anchors left UNREAD and deliberately NOT inferred).
+              # Anchors divide 3/4, blocks divide 3/4, and the capitulum line
+              # falls between nn.3 and 4 -- all THREE LINES COINCIDE on this
+              # leaf, with no dissenting note anywhere on it. Derived from
+              # p5-c8's own per-note list; the mechanism is that the capitulum
+              # boundary here IS the column boundary, so the three structures
+              # are measured against one physical line. NO claim is made that
+              # this is a first for Pars V -- that would need pp.252-259's
+              # anchors re-derived, which p5-c8 did not do (cf. the withdrawn
+              # p.260 claim above). BOTH runover tests NEGATIVE: p.261 -> p.262
+              # (p.261's right block ends complete at n.9 "excepta 2, quatuor
+              # tanquam." and p.262's left block opens NUMBERED with n.1) and
+              # p.262's own gutter (left block ends complete at n.3 "perperam
+              # Quae universitas." and the right block opens NUMBERED with n.4
+              # "Exod. 31, 18.").
 }
 
 
