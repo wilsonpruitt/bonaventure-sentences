@@ -1,7 +1,7 @@
 # Bonaventure Sentences — Next Session Resume
 
 > ## ✅ THE INDEX IS COMPLETE — PHASES 0, 1 AND 2 ALL SHIPPED (2026-07-31).
-> ## NEXT SESSION = **PARS VI, Cap. IV** (`bon-brev-p6-c4`). Pars VI is OPEN — capp. I–III shipped 2026-07-31.
+> ## NEXT SESSION = **PARS VI, Cap. V** (`bon-brev-p6-c5`). Pars VI is OPEN — capp. I–IV shipped 2026-07-31.
 > The generated replacement for Quaracchi's skipped Vol X is built and building green.
 > Design of record: `INDEX-PLAN.md`. **How the parser and the pages actually behave is
 > frozen in repo `CLAUDE.md` § "Index conventions" — read that, not the plan.**
@@ -895,71 +895,155 @@
 > `polish-style-scan.py --volume 5` **CLEAN (62 files)**; `build-citations.py --volumes 5` **0 QA flags**;
 > build **1995/1995**. **No `[?]` flags.**
 >
-> ## ▶ THE FRONT — `bon-brev-p6-c4`, Cap. IV, *De Sacramentorum institutione*
+> ## ✅ `bon-brev-p6-c4` DONE (2026-07-31) — commit `ada44b2`
+> Breviloquium **Pars VI, Cap. IV, *De Sacramentorum institutione*** — printed **pp. 268–269**. Title set
+> from the capitulum's own ONE-line subtitle on the band, never from the OCR-garbled index.
+> `Cap. IV.` stands about **45 % down p. 268's LEFT column**, immediately below Cap. III's close — as
+> forwarded, and re-set here line by line off the band rather than adopted. Cap. IV fills the rest of
+> p. 268's left column to `…ac per hoc et summae auctorita-`; crosses p. 268's gutter **MID-WORD AND
+> HYPHENATED** (`auctorita-` / `tis; et ideo…`); fills p. 268's right column entire to `— Ante vero
+> *Spiritus*`; breaks across the leaf **INSIDE AN ITALICISED FORMULA, BETWEEN A NOUN AND ITS DEPENDENT
+> GENITIVE** (`Ante vero *Spiritus` / `sancti missionem*`), neither half readable alone; and closes about
+> **42 % down p. 269's LEFT column** at `…propria legislatoris, Verbi scilicet incarnati.`
+> **★★ THE END IS FIXED POSITIVELY FROM THE `Cap. V. / De Sacramentorum dispensatione.` HEADING standing
+> immediately below it IN THE SAME LEFT COLUMN**, with Cap. V's opening and a fresh `Thesis 1.` gloss
+> beneath it. The index's "Cap. V on p. 269" and p. 269's running head `PARS VI. C. V.` were BOTH
+> hypotheses on arrival; the running head was used for nothing, and the grammatically complete tail
+> `…Verbi scilicet incarnati.` was treated as evidence of nothing.
+> Apparatus **9 entries** — **p. 268 nn. 2–8** (the inherited scoped pending; every anchor, column, digit
+> and siglum re-derived, and `p6-c3`'s scope statement HELD in every clause) and **p. 269 nn. 1–2**
+> (first-read). **★★ p. 268's TOTAL IS 8**, established here and fed to `KNOWN_TOTALS`.
+> **★★ THE BLOCK SPLIT IS 4/4 AND THE ANCHOR SPLIT IS 3/5, AND THEY DO NOT COINCIDE** — nn. 1–3 anchor
+> LEFT, nn. 4–8 RIGHT; left block nn. 1–4 (n. 4 breaking), right block n. 4's unnumbered continuation
+> then nn. 5–8. **One leaf back p. 267 carried the SAME 4/4 block shape over a 4/4 anchor split**, which
+> is the pair of leaves that shows why block, column and capitulum structure stay three independent
+> things.
+> **★★ THE ONE THING THE HAND-OFF DID NOT SAY, AND COULD NOT HAVE:** `p6-c3` read p. 268's left block as
+> ending **COMPLETE** at n. 4 and correctly declined to log the gutter test, not having read the right
+> block. **n. 4 is not finished there.** It ends the left block with a **completed sentence**
+> (`…A S *beneficia*.`) and **continues UNNUMBERED at the head of the right block** (`Subinde pro
+> *repararetur* 2 cum pluribus codd. *reparetur*, et E *perveniatur* pro *perveniretur*.`) — **the
+> apparatus-level case of the frozen rule that a grammatically complete tail is not evidence a unit
+> ended.** Rendered joined.
+> **★★ SIGLA — SIX RUNS, ALL SETTLED BY STROKE COUNT + ALPHABETICAL ASCENT + SLOT:** `S` alone · `A S` ·
+> `E` (standing beside the edition siglum `2` in one clause, the two printing as different sorts) ·
+> **`I K L O V`** (single upright ⇒ `I`; the chronic raw `R` excluded because it breaks the ascent) ·
+> **`A E H Z`** and **`I K L M O U V`** · **`H P W`** and `I K L`. **Two of these carry a crossbar-less
+> two-upright `H`** (`A E H Z`, `H P W`) — admitted only because two uprights *can* be a flattened `H`
+> where one never can, and because `A E II Z` / `II P W` would not be siglum runs at all.
+> **★ DIGITS — THE `1`/`4` CLASS DOMINATED BOTH LEAVES, exactly reversing p. 267's `3`/`5` bias one leaf
+> back**, which is the leaf-to-leaf swing the frozen rule warns about. **n. 3's `d. 3 … d. 26` chain —
+> the densest `1`/`4` risk in Pars VI — was settled by checking that ALL SEVEN of its loci exist**
+> (`d3-p2-a1-q1`, `d7-a1-q1`, `d8-p1-a2-q1..q3` + `d8-p1-dubia`, `d17-p2-a1-q1..q3`, `d23-a1-q2`,
+> `d24-p1-littera` + `d24-p1-a2-q2`, `d26-a1-q1`), and `build-citations --volumes 5` returned **0 QA
+> flags**, which is the independent channel confirming it. n. 7's `d. 1.` and `d. 4.` print as different
+> sorts five words apart on one line and both targets resolve. `Hebr. 9, 15`, `Ioan. 14, 6`, `Ioan. 1, 14`
+> and `Ioan. 12, 24` were each settled by the words the anchor or the note itself prints; **`Marc. 16, 15`
+> (raw `46`) by the fact that Mark has sixteen chapters**; `Matth. 4, 17 / Marc. 1, 14 / Ioan. 2, 1 /
+> Matth. 19, 4` by the three verbs of the clause they gloss, in order.
+> **Gutters: p. 268 = 1370 RE-DERIVED FROM SCRATCH, not adopted** — the default **1374 on a 49 px run**
+> stays REJECTED, the same five windows blow out (273, 208, 138, 129, 141 px) on the `Cap. IV.` heading,
+> and an **independent ink-profiling run reproduced `p6-c3`'s band edges digit for digit** (near-zero band
+> **x = 1341–1400**, printed column rule inked **x = 1367–1373 peaking 176 rows on x = 1369**, midpoint
+> **1370**). Two independent passes agreeing is the check. **p. 269 = 1186 SETTLED FRESH WITH NO
+> CONSTANT** — default **1185 on a 59 px run**, one pixel below the trust floor; five windows blow out
+> (169, 394, 235, 290, 336 px) and **six survivors agree at 1185–1188 on runs 61–64 px, a 3 px spread**,
+> the trustworthy profile; the ink profile puts the near-zero band at **x = 1156–1215 (60 px)** with the
+> column rule at **x = 1183–1189 peaking 767 rows on x = 1186** — **one of the most heavily inked rules
+> in this run, which is why the default's zero-ink run was pinched to 59 px**. Band midpoint 1185.5, rule
+> centre 1186, **1186 adopted**; bands regenerated and read clean edge to edge.
+> **RUNOVERS: p. 268's own gutter test POSITIVE and logged as `p.268 n.4:gutter`** (above). **The
+> p. 268 → p. 269 page-crossing test NEGATIVE, closed from both sides** (p. 268's right block ends
+> complete at n. 8 `— Matth. 19, 4. seqq.`; p. 269's left block opens NUMBERED at `¹ Cap. 6, 13.`).
+> **p. 269's own gutter test is Cap. V's and was forwarded UNLOGGED** — its left block breaks off
+> mid-word inside n. 4 at `…ubi de in-`, so it will read positive from the left, but n. 4 is not Cap. IV's.
+> **★ GLOSS FORM: a complete one-to-one `Thesis 1–3.` / `Ratio.` / `Pro thesi 1–3.` series spanning both
+> columns of p. 268 — and then NOTHING on p. 269.** The whole p. 269 remainder, twenty-two lines and a
+> third of the chapter, carries **no gloss at all**; `Pro thesi 3.` on p. 268 stands for all of it. **A
+> gloss-free stretch is not a defect.**
+> `check-vol5-apparatus.py` **63 chunks, 517 entries, all checks passed** (p. 268 fed as **8**);
+> `check-vol5-census.py` **63 on disk / 63 in ledger, rosters agree, 40 runovers across 63 chunks**;
+> `polish-style-scan.py --volume 5` **CLEAN (63 files)**; `build-citations.py --volumes 5` **0 QA flags**;
+> build **1996/1996**. **No `[?]` flags.**
 >
-> ### Hand-off INTO `bon-brev-p6-c4`
-> - **★ THE TARGET AND ITS OPENING ARE ALREADY ON A BAND.** `Cap. IV.` with the ONE-line subtitle
->   `De Sacramentorum institutione.` stands about **55 % down p. 268's LEFT column**, immediately below
->   Cap. III's close. Its opening reads: `De *institutione* autem Sacramentorum hoc tenendum est, quod
->   septem Sacramenta legis gratiae Christus instituit tanquam *novi testamenti media-*…`, with the
->   marginal gloss `Thesis 1.` alongside; `Ratio.` and `Pro thesi 1.` follow further down the same
->   column at `Ratio autem ad intelligentiam praedictorum haec est: quia principium reparativum nostrum
->   est Christus crucifixus…`. **BODY POSITION verified on the band; the chapter's END was NOT read and
->   NO span is claimed. Close Cap. IV POSITIVELY from the `Cap. V.` heading itself** — never from a
->   running head, never from white space at a column foot, and never from a grammatically complete tail.
-> - **★★ PICK UP: p. 268 FROM n. 2 ONWARD. p. 268's TOTAL IS UNKNOWN AND WAS DELIBERATELY NOT FED TO
->   `KNOWN_TOTALS`** — `p6-c3` owns only n. 1 (anchor `sit Sacramentum magnum ¹,` LEFT column, inside
->   Cap. III's closing period). Stated with its verification level, claiming nothing more: **BLOCK
->   POSITION and VERBATIM TEXT of nn. 2–4 were read off the LEFT block, which ends COMPLETE at n. 4; NO
->   anchor was read for ANY of them and none is claimed; THE RIGHT BLOCK WAS NOT READ AT ALL.**
->   - n. **2** `Hebr. 9, 15. — Inferius pro *Instituit vero* S *Instituit enim*.`
->   - n. **3** `Cfr. IV. Sent. d. 3. p. II. a. 1. q. 1; d. 7. a. 1. q. 1. seq.; d. 8. p. I. a. 2.
->     q. 1-3. et dub. 4; d. 17. p. II. a. 1. q. 1-3; d. 23. a. 1. q. 2; d. XXIV. lit. Magistri, c. 1, et
->     Comment. p. I. a. 2. q. 2. seq.; d. 26. a. 1. q. 1. seq. — Pro *plene instituit* multi codd. et 2
->     *plene statuit*.`
->   - n. **4** `Ioan. 14, 6. — Superius pro *beatificantia* A S *beneficia*.`
->   ★ **EVERY DIGIT AND SIGLUM IN nn. 2–4 ABOVE IS UNVERIFIED.** **n. 3's chain is the densest `1`/`4`
->   risk anywhere in Pars VI so far — roughly a dozen `1`s and `4`s in six lines — and the frozen
->   inheritance rule applies to it in full: a chain states `Sent.` once and then lists distinctions
->   bare, so EVERY locus in it is a live target and every one must be checked to exist.** `Hebr. 9, 15`
->   and `Ioan. 14, 6` are both checkable against the words Cap. IV quotes. The sigla `S` and `A S` are
->   single-sort and unverified. **Re-derive all of it. A hand-off is a claim to re-derive, never a fact
->   to adopt** — and check the narrative summary above against the per-note data, never the reverse.
-> - **★★ RUNOVERS `p6-c4` OWES: p. 268's OWN GUTTER TEST and the p. 268 → p. 269 page-crossing test.**
->   p. 268's left block ends COMPLETE at n. 4 (`…A S *beneficia*.`), so the gutter test looks NEGATIVE
->   from the left side, **but the right block was not read and the test is NOT closed** — close it from
->   both sides.
-> - **DO NOT RE-LOG:** `p.267 n.4:gutter` and the p. 267 → p. 268 test (both `p6-c3`); `p.266 n.3:gutter`
->   and the p. 266 → p. 267 test (both `p6-c2`); p. 265's own gutter test and p. 265 → p. 266 (both
->   `p6-c1`, both NEGATIVE); the p. 264 → p. 265 test, p. 264's own gutter test and the p. 263 → p. 264
->   test (all `p5-c10`); and everything on `p6-c1`'s own do-not-re-log list below. **Never double-log —
->   that is what the ledger exists to prevent.**
-> - **BANDS.** pp. 255–268 are imaged. colcrop bands in `/tmp/colcrop/`, **p. 267 cut at 1163 and p. 268
->   at 1370** — both settled here and safe to reuse. **Extract p. 269 fresh with no constant**
->   (`python3.11 tools/colcrop.py vol5 269`) and apply the three-step method: run width is the confidence
+> ## ▶ THE FRONT — `bon-brev-p6-c5`, Cap. V, *De Sacramentorum dispensatione*
+>
+> ### Hand-off INTO `bon-brev-p6-c5`
+> - **★ THE TARGET AND ITS OPENING ARE ALREADY ON A BAND.** `Cap. V.` with the ONE-line subtitle
+>   `De Sacramentorum dispensatione.` stands about **42 % down p. 269's LEFT column**, immediately below
+>   Cap. IV's close. Its opening reads: `De *dispensatione* autem Sacramentorum hoc tenendum est, quod
+>   potestas dispensationis Sacramentorum regulariter spectat ad solum genus humanum. — In omnibus autem
+>   Sacramentis dispensandis necessaria est in dispensante intentio. — In aliquibus etiam necessario cum
+>   intentione requiritur ordo *sacerdotalis*³, vel *pontificalis*; *pontificalis*, inquam, necessarius est
+>   dispensationi *confirmationis* et *ordinis*; *sacerdotalis* vero dispensationi *eucharistiae,
+>   poenitentiae* et *unctionis extremae*. *Baptismus* autem et *matrimonium*, licet ad sacerdotes
+>   spectent, possunt tamen praeter ordinem sacerdotalem dispensari de facto, maxime in articulo
+>   necessitatis. —`, with the glosses `Thesis 1.` / `Thesis 2.` / `Thesis 3.` running down the same
+>   column. **BODY POSITION verified on the band; the chapter's END was NOT read and NO span is claimed.
+>   Close Cap. V POSITIVELY from the `Cap. VI.` heading itself** — never from a running head, never from
+>   white space at a column foot, and never from a grammatically complete tail.
+> - **★★ PICK UP: p. 269 FROM n. 3 ONWARD. p. 269's TOTAL IS UNKNOWN AND WAS DELIBERATELY NOT FED TO
+>   `KNOWN_TOTALS`** — `p6-c4` owns only nn. 1–2 (anchors `sicut dicitur in Marco ¹.` and `deinde formam
+>   dando et ceteris publicando ²;`, **both LEFT column**, inside Cap. IV's *Pro thesi 3.* period).
+>   Stated with its verification level, claiming nothing more: **BLOCK POSITION and VERBATIM TEXT of n. 3
+>   and of n. 4's OPENING were read off the LEFT block, which BREAKS OFF MID-WORD inside n. 4; NO anchor
+>   was read for either and none is claimed; THE RIGHT BLOCK WAS NOT READ AT ALL.**
+>   - n. **3** `A P Q et 2 addunt *scilicet*, nonnulli alii *simul*.`
+>   - n. **4** opens `De hoc cap. cfr. IV. Sent. d. 6. p. II. a. 2, ubi de in-` **and breaks off there,
+>     mid-word and hyphenated, at the foot of the left block.**
+>   ★ **EVERY DIGIT AND SIGLUM IN nn. 3–4 ABOVE IS UNVERIFIED.** The run `A P Q`, the edition siglum `2`,
+>   and the locus `IV. Sent. d. 6. p. II. a. 2` all come off a single band pass; **`d. 6. p. II. a. 2` is
+>   a live target and must be checked to exist**, and its `6` and its `2`s sit in the `1`/`4` and `3`/`5`
+>   risk classes alike. **Re-derive all of it. A hand-off is a claim to re-derive, never a fact to adopt**
+>   — and check the narrative summary above against the per-note data, never the reverse.
+> - **★★ RUNOVERS `p6-c5` OWES: p. 269's OWN GUTTER TEST and the p. 269 → p. 270 page-crossing test.**
+>   p. 269's left block **breaks off mid-word inside n. 4** (`…ubi de in-`), so the test will read POSITIVE
+>   from the left side — **but the right block was not read and the test is NOT closed. Close it from both
+>   sides**, and note that n. 4 is yours, which is why the test is yours: `p6-c4` forwarded it UNLOGGED
+>   precisely because the breaking note is Cap. V's.
+> - **DO NOT RE-LOG:** `p.268 n.4:gutter` and the p. 268 → p. 269 test (both `p6-c4`); `p.267 n.4:gutter`
+>   and the p. 267 → p. 268 test (both `p6-c3`); `p.266 n.3:gutter` and the p. 266 → p. 267 test (both
+>   `p6-c2`); p. 265's own gutter test and p. 265 → p. 266 (both `p6-c1`, both NEGATIVE); the
+>   p. 264 → p. 265 test, p. 264's own gutter test and the p. 263 → p. 264 test (all `p5-c10`); and
+>   everything on `p6-c1`'s own do-not-re-log list below. **Never double-log — that is what the ledger
+>   exists to prevent.**
+> - **BANDS.** pp. 255–269 are imaged. colcrop bands in `/tmp/colcrop/`, **p. 268 cut at 1370 and p. 269
+>   at 1186** — both settled here and safe to reuse. **Extract p. 270 fresh with no constant**
+>   (`python3.11 tools/extract-pages.py --volume vol5 --pages 270 --dpi 450` then
+>   `python3.11 tools/colcrop.py vol5 270`) and apply the three-step method: run width is the confidence
 >   signal, a run under ~60 px or far above ~64 px is suspect, and expect the printed column rule as an
 >   ink island inside the blank band. Offset `pdf = printed + 76`. **Never `Read` a full-page extract —
 >   colcrop bands only, one band at a time.**
-> - **★ SKEW AND SPREAD: p. 265 = 1150 · p. 266 = 1422 · p. 267 = 1163 · p. 268 = 1370.** Four consecutive
->   leaves swinging 272, 259 and 207 px. **Parity predicts nothing, proximity predicts nothing.**
+> - **★ SKEW AND SPREAD: p. 265 = 1150 · p. 266 = 1422 · p. 267 = 1163 · p. 268 = 1370 · p. 269 = 1186.**
+>   Five consecutive leaves swinging 272, 259, 207 and 184 px. **Parity predicts nothing, proximity
+>   predicts nothing.** ★ **p. 269's rule is the most heavily inked of the run (767 rows on one column),
+>   which is exactly why its default run was pinched to 59 px — a narrow run is positively diagnostic of
+>   a heavy rule, not of a narrow gutter.**
 > - **★ REGISTER IS LOCKED — carry it, don't re-decide it.** `p6-c1` established the sacramental core
 >   (*signum sensibile, institutio, sanctificatio*, the four causes, *gratiae vasa et causa, medicina
 >   sacramentalis, aegrotans / aegritudo / morbus / curatio, ortus, usus, fructus*); `p6-c2` the
->   historical-dispensation vocabulary (*lex naturae / lex scripta / lex gratiae*, *umbra / figura /
->   corpus*, *prognostica / demonstrativa / rememorativa*, *pretium promissum / persolutum*); **`p6-c3`
->   fixed THE SEVEN SACRAMENT NAMES off the Vol IV d.1–d.21 settlement, not by coinage** — *baptismus,
->   confirmatio, eucharistia, poenitentia, unctio extrema, ordo, matrimonium* → "baptism, confirmation,
->   the eucharist, penance, extreme unction, order, **marriage**" (Vol IV's dominant rendering of
->   *matrimonium*; *nuptiae* stays distinct as "nuptials"), the seven virtues per the Sentences tables,
->   and the military figure *acies* → "battle-line", *munire / relevare / renovare* → "to fortify / to
->   raise up / to renew", *armatura* → "armour", *ingredientes / stantes / exeuntes* → "those entering /
->   standing / going out". **Cap. IV turns on *institutio* and on Christ as *mediator* and *legislator*;
->   for *materia / forma / minister / character / res et sacramentum* CONSULT the Vol IV d.1–d.21
->   settlement (`vol4/bon-sent-IV-d1*` … `d21*`), do not re-decide it.**
-> - **★ GLOSS FORM ON p. 268:** Cap. III's tail on p. 268 carries a single gloss, `Notandum.`; Cap. IV
->   then opens a `Thesis N.` / `Ratio.` / `Pro thesi N.` series like Cap. III's. **Never infer a
->   capitulum's gloss form from its neighbour's, and never read a gloss-free stretch as a defect.**
+>   historical-dispensation vocabulary; `p6-c3` **THE SEVEN SACRAMENT NAMES off the Vol IV d.1–d.21
+>   settlement, not by coinage** — *baptismus, confirmatio, eucharistia, poenitentia, unctio extrema,
+>   ordo, matrimonium* → "baptism, confirmation, the eucharist, penance, extreme unction, order,
+>   **marriage**" (*nuptiae* stays distinct as "nuptials"); and **`p6-c4` fixed the institution
+>   vocabulary**: *institutio / instituere* → "institution / to institute" (never "to found"), *statuere*
+>   → "to establish", *novi testamenti mediator* → "the mediator of the new testament", *lator legis* →
+>   "bearer of the law" against *legislator* → "lawgiver" (**the plate keeps the two distinct — so do
+>   we**), *adminiculantia* → "auxiliary", *significantia / efficacia* → "significancy / efficacy",
+>   *sensus maxime cognoscitivi* → "the senses most apt for knowing", *conficere* → "to confect".
+>   **Cap. V turns on *dispensatio* and on the MINISTER — *dispensator, minister, intentio, ordo
+>   sacerdotalis / pontificalis*, and the good-and-bad / inside-and-outside-the-Church distinctions. For
+>   *materia / forma / minister / character / res et sacramentum* CONSULT the Vol IV d.1–d.21 settlement
+>   (`vol4/bon-sent-IV-d1*` … `d21*`), do not re-decide it.**
+> - **★ GLOSS FORM ON pp. 269–270:** Cap. V opens with a `Thesis 1.` / `Thesis 2.` / `Thesis 3.` series in
+>   p. 269's left column and the raw shows `Thesis 4.`, `Ratio.`, `Pro thesi 1.`, `Triplex exigentia`,
+>   `Ex prima exigentia pro thesi 1a`, `Ex secunda` and more in the right column — **a denser and more
+>   varied gloss set than Cap. IV's, whose whole p. 269 remainder carried none at all. Never infer a
+>   capitulum's gloss form from its neighbour's, and read every gloss off the band, not off the raw** (the
+>   raw mangled Cap. IV's gloss numerals, printing `Thesis 3.` twice where the band reads `Thesis 2.`).
 >   Glosses stand in the OUTER margin of each column — left of column 1, right of column 2.
+>
+> ### ✅ Hand-off INTO `bon-brev-p6-c4` — CONSUMED (kept for the record, superseded above)
 >
 > ### ✅ Hand-off INTO `bon-brev-p6-c1` — CONSUMED (kept for the record, superseded above)
 >
