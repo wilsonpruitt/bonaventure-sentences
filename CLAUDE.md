@@ -367,12 +367,26 @@ own mini-pilot) → Sermones.
      1385–1394 → **1391**) and p.249 (band 1155–1209, island 1176–1187 → **1182**).
      **Never hand-roll a separate measuring script** — profile the columns the tool
      already gives you.
-  5. **★ AN OBSTRUCTION IN THE GUTTER IS A RECURRING PAGE SHAPE, NOT A ONE-OFF.**
-     Marginal glosses set low can sit *inside* the gutter and wreck the run. It appeared
-     on p.240 (a flagged failure), then on **four consecutive leaves**, pp.248–251. On
-     p.250 the obstruction sat at the blank band's *centre*, so the windows agreed to 1 px
-     and the measurement came out clean at 1390 anyway. **Print the ink profile even when
-     the windows agree** — it is how you learn *why* they agreed, and it costs nothing.
+  5. **★★ THE IN-GUTTER OBSTRUCTION IS QUARACCHI'S PRINTED COLUMN RULE — IDENTIFIED
+     2026-07-30 (`bon-brev-p5-c6`), and this supersedes the old "marginal glosses set low"
+     explanation, which was wrong and prescribed the wrong remedy.** Direct crops on three
+     leaves (pp. 258, 259, 260) confirm it: the ink island standing inside the blank band
+     **is the centre rule itself**. Consequences:
+     - **It is on essentially every leaf** — attested pp. 240, 248, 249, 250, 251, 253, 254,
+       255, 256, 257, 258, 259, 260. **Assume it. Its absence is the thing worth remarking.**
+     - **It runs the FULL column height, so moving the window UP cannot escape it.** That
+       remedy belongs only to the genuine marginal-gloss case (pp. 240, 244). Do not reach
+       for it here.
+     - **Whether it corrupts the measurement depends on WHERE IN THE BAND it sits, and on
+       how heavily it inked on that leaf.** Centred (pp. 250, 251, 253) → every window
+       agrees and the default is right. Off centre (pp. 248, 249, 254, 255, 257) → the
+       windows fork or drift. **Heavily inked → it truncates the zero-ink run outright**,
+       which is what produced p. 260's default of 1386 on a **20 px** run (rejected; true
+       value 1398, found by forking the windows against a 60 px run).
+     - **So a narrow run is now positively diagnostic, not merely suspect:** it usually
+       means the rule printed heavily on that leaf, not that the gutter is narrow.
+     **Print the per-column ink profile even when the windows agree** — it is how you learn
+     *why* they agreed, and it costs nothing.
   6. **This is not pedantry.** Vol IV's `transumtum` misreading was a real corpus error
      traced directly to a wrong gutter (see the d.41–d.50 gate notes). A wrong split
      silently truncates one column and pads the other, and the chunk built from it will
