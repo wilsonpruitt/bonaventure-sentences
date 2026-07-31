@@ -645,6 +645,126 @@ firing a full three-pass cycle every ~15 pages buys almost nothing.
 - **Sermones selecti** — dozens of independent short pieces, where "work boundary"
   stops meaning anything. Use a simple every-N-sermones rule; pick N at the mini-pilot.
 
+## Index conventions (frozen 2026-07-31 by the Phase 0 pilot)
+
+The opera-omnia scripture and self-cross-reference indexes — the generated replacement
+for Quaracchi's skipped Vol X. Design: `INDEX-PLAN.md`. Pilot measurements, corpus
+findings and the fifteen parser defects it caught: `manual-review/index-pilot-log.md`.
+**These conventions were paid for; do not re-derive them by guessing.**
+
+### The shape
+
+`tools/build-citations.py` walks `vol{1..5}/*.md` and emits **one ledger record per
+citation occurrence** to `index/citations.tsv`. The scripture index, the cross-reference
+index, the cited-by backlinks and `manual-review/citation-qa-report.md` are all **views
+over that one ledger**. `tools/scripture-books.json` is the normalization table (Vulgate
+canon order, abbreviations, body forms, author sigla, work slugs).
+
+- **Derived, never hand-tagged.** Zero edits under `vol*/` at any phase. `git status`
+  over `vol1..vol5` must be empty after any index run — that is a release check, not a
+  courtesy.
+- **Latin is the keying side.** English bodies and apparatus are display-only and are
+  not parsed. English punctuation drifts; Latin citation syntax is systematic.
+- **Glob, never recurse.** `vol1/_backup-*/` holds 538 stale files.
+- **Resolution ALWAYS indexes the whole corpus**, even when emitting one volume. A vol5
+  cross-reference targets Vols I–IV; a subset index reports the rest of the corpus as
+  dangling (it read 72% dangling before this was fixed).
+- **Never guess.** Anything unclassifiable becomes a QA line, not a record with an
+  invented target.
+
+### Resolution levels — each is a claim of a different strength
+
+`chunk` (unique target) · `distinctio` / `articulus` / `work` (the citation genuinely
+addresses that whole unit — `d. 2. per totam`) · `page-multi` (a printed page owned by
+two chunks) · `ambiguous` (several candidates, none unique) · `forward` (target is a
+work not yet translated; self-resolves as the corpus grows) · `dangling` (**target
+should exist and does not — a QA flag**) · `unresolvable` (bare `ibid.`/`loc. cit.`
+with nothing to inherit) · `excluded` (authority).
+
+**Granularity is the chunk id.** `ad 2`, `in corp.`, `nota 5`, a dubium number and a
+pars named without a question are all **display text on the link**, never match
+coordinates. One `-dubia` chunk holds all a distinction's dubia, so treating `dub. 4`
+as a coordinate made every such citation dangle.
+
+**Quaracchi omits coordinates that are unambiguous in the print.** `IV. Sent. d. 15.
+p. I. q. 1` means `p1-a1-q1`, because that pars has one articulus. Unstated coordinates
+are wildcards; a **unique** survivor resolves, several are `ambiguous`, none is
+`dangling`.
+
+### Inheritance and governance — where all the hard cases live
+
+A citation chain states things once and then relies on context. Getting this wrong
+either loses real self-references or fabricates them, and both are silent.
+
+1. **Inheritance follows the nearest preceding locus of ANY form** — including a
+   `supra`/`infra d. N`, not only an `N. Sent. d. N`.
+2. **`supra`/`infra` never inherit a book** (they mean the citing chunk's own).
+   **`ibid. d. N` always does** — a Vol V work chunk has no `book:` of its own to fall
+   back on.
+3. **A locus inside a closed parenthesis is an aside and never governs the chain.**
+4. **`ibid. pag. N` inherits a TOME, not a locus** — it belongs to the page scanner.
+   Likewise `tom. II. pag. 50 … et pag. 177`: the tome is stated once.
+5. **Author governance can change hands mid-note. The discriminator is whether a siglum
+   stands BETWEEN the inherited locus and the continuation.** `— B. Albert., hic a. 1.
+   et d. 46. a. 11.` is Albert's; `Aristot., … idem recurrit infra d. 8 … et d. 37` is
+   Bonaventure's own — **the editors say *supra*/*infra* only of his work, never of
+   another doctor's.**
+6. **Clause splitting is asymmetric and both halves are load-bearing.** `—`, `Cfr.` and
+   `Vide` start a fresh citation. **`;` separates loci of the SAME author** and must not
+   stop a chain lookback. **`:` is not a boundary at all** — it introduces quoted matter
+   still belonging to the author just named.
+7. **A chain states `Sent.` once, then lists distinctions bare** (`… II. Sent. d. 2. …;
+   d. 14. p. I. a. 1. q. 1.`). Without a continuation scanner, two of three loci in such
+   a note are invisible.
+
+### Scripture
+
+- **Vulgate numbering is canonical**; Vulgate canon order for display. The books table
+  is a **closed allowlist** — an unknown abbreviation is never admitted.
+- **Confidence tiers**: **A** = `Abbrev. C, V` in the apparatus · **B** = a body ordinal
+  chapter joined to the note's `Vers. N` through the `[^N]` anchor · **C** = chapter
+  only, indexed at chapter level and **never guessed to a verse**.
+- **A numbered book cited without its numeral** (`ad Corinthios decimo tertio`) goes to
+  an explicit unnumbered bucket (`Cor*`). It is never guessed into I or II.
+- **★ `Num. N` without a verse is Quaracchi's *numerus*, not the book of Numbers**
+  (`Num. 14. Patrolog. Graec. tom. 39. col. 1063`). Measured: of 126 `Num.` records,
+  the 78 chapter-only ones are *numerus*. That abbreviation therefore requires a verse
+  (`require_verse` in the books table). The body form `Numerorum` is unambiguous.
+  **Expect more of this class in Vols VI–X and add the flag rather than the exception.**
+- **Body forms are matched case-sensitively, with a letter-boundary on both sides.**
+  Several are homographs of ordinary Latin nouns — `actuum secundorum` ("of second
+  acts") matched as Acts 2 on a prefix match until both guards were added.
+- **`in Ioan.` / `super Ioan.` is a commentary, not the gospel.**
+
+### The index is a QA instrument — two distinct channels
+
+1. **Dangling refs and out-of-range chapters.** Proven live: perturbing a citation in
+   either documented confusion class (1/4, 3/5) makes it flag while the true reading
+   resolves. `bon-brev-p4-c8`'s `III. Sent. d. 17. a. 4. q. 3.` was caught this way —
+   **its digits had been verified off the plate and its sense checked, but nobody had
+   checked whether the target exists.** Reading a digit correctly is not the same as
+   reading it rightly.
+2. **★ A tier-B join can be checked against the quoted text itself** — the note supplies
+   the verse, and the body prints the words. `bon-sent-I-d10-a1-q2` `[^4]` gives
+   `Vers. 3.` against a quotation that is Rom 5:5. This channel is not mechanizable (it
+   needs the Vulgate) but it is cheap whenever a tier-B record is in front of you.
+
+**Neither channel authorises an edit.** Dangling refs are a scoped defect list worked
+like the apparatus backlog — jobs, not a blob — and every digit is settled off the
+450 dpi band, never off the raw and never off this tool's opinion.
+
+### Running it
+
+```bash
+python3.11 tools/build-citations.py                          # whole corpus (~16 s)
+python3.11 tools/build-citations.py --volumes 5              # one volume
+python3.11 tools/build-citations.py --sample 50 --seed 7     # hand-verification sample
+```
+
+Runs before `build-content.mjs` at every deploy boundary (see § "Build and deploy").
+Extending to Vols VI–X = adding the volume to the glob range and to `VOLUME_COMPLETE`
+(which decides whether an unowned printed page is `forward` or `dangling`).
+
 ## Translation depth & style
 
 **Tier 2 = literal, not paraphrase.** Scholia and apparatus get the same care as the body.
@@ -737,11 +857,17 @@ Flag (don't silently "fix") any genuinely ambiguous readings.
 ## Build and deploy
 
 ```bash
+python3.11 tools/build-citations.py       # Regenerates index/citations.tsv + the QA report
 cd site
 node scripts/build-content.mjs            # Regenerates src/data/content.json
 npx vercel build --prod                   # Must use --prebuilt because build-content.mjs reads ../vol1/
 npx vercel deploy --prod --prebuilt --archive=tgz
 ```
+
+The citation extractor runs **before** `build-content.mjs` at every deploy boundary, so
+the indexes grow with the corpus (see § "Index conventions"). It writes nothing under
+`vol*/` and does not touch `content.json`; if it is skipped, the site simply serves the
+previous index.
 
 - `--archive=tgz` required (Free plan's 5000-files/day upload cap)
 - **Only the project owner deploys** to the production custom domain (bonaventure.wrootpress.com). Other contributors should commit their work to a branch; owner pulls and deploys.
