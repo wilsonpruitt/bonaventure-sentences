@@ -282,6 +282,33 @@ KNOWN_TOTALS = {
               # opens NUMBERED at n.7). n.9 BREAKS OFF MID-WORD at the page
               # foot ("Gen. 15, 1: Ego [Deus] pro-"), so p.253 -> p.254 is a
               # POSITIVE page-crossing runover for p5-c2 to close and log.
+    254: 6,   # band-read in full by p5-c2. A FIFTEENTH CONFIGURATION and the
+              # mirror of pp.248/251: anchors 3/3 (nn.1-3 left, nn.4-6 right)
+              # and the BLOCK SPLIT FALLS INSIDE n.3, whose anchor stands LAST
+              # in the FIRST column -- so the runover crosses the gutter in the
+              # direction OPPOSITE to its own anchor, where on pp.248/251 it
+              # crossed in the same direction. The block line and the anchor
+              # line COINCIDE; the CAPITULUM line stands ONE NOTE BELOW both,
+              # falling between nn.4 and 5. BOTH blocks open UNNUMBERED on this
+              # page and neither opener is an entry: the left block opens with
+              # p.253 n.9's tail ("tector tuus sum et merces tua magna nimis.
+              # -- Mox pro et propria 1 ex propria, ...") -- which CLOSES the
+              # p.253 -> p.254 page-crossing runover POSITIVE, the halves
+              # meeting exactly where Gen. 15, 1 says they must, at "pro-" /
+              # "tector" (logged as p.253 n.9:page on p5-c2's ledger line) --
+              # and the right block opens with n.3's own tail ("pro digni;
+              # subinde pro augmentandi et infundentis plures codd. augendi et
+              # influentis."), n.3 having broken off at a word boundary INSIDE
+              # AN EDITORIAL LEMMA, stopping ON the variant ("Inferius edd.,
+              # excepta 2, cum pluribus codd. condigni"), so the p.254 GUTTER
+              # RUNOVER is POSITIVE (logged as p.254 n.3:gutter by p5-c2).
+              # nn.1-4 anchor in Pars V Cap. II (owned by p5-c2); nn.5-6 anchor
+              # in Cap. III and are a legitimate forwarded PENDING until
+              # bon-brev-p5-c3 lands. The p.254 -> p.255 test is NOT p5-c2's --
+              # Cap. II closes part-way down p.254's right column and Cap. III
+              # opens below it -- and belongs to p5-c3, which owns n.6.
+              # Neither the printer's signature nor a quire signature falls on
+              # p.254; the next is due around p.257.
 }
 
 
