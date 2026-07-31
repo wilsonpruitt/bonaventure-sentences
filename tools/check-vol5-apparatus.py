@@ -650,6 +650,60 @@ KNOWN_TOTALS = {
               # which must also run p.269's own gutter test (forwarded UNLOGGED
               # -- the left block breaks off mid-word inside n.4 at "...ubi de
               # in-", but n.4 is Cap. V's) and the p.269 -> p.270 test.
+    269: 8,   # band-read in full by p6-c5, which owns nn.3-8; nn.1-2 are
+              # p6-c4's (anchors "sicut dicitur in Marco" and "et ceteris
+              # publicando", both LEFT column, inside Cap. IV's Pro thesi 3
+              # period). Gutter 1186, RE-DERIVED by p6-c5 from scratch rather
+              # than adopted: the tool's default 1185 sits on a 59 px run, one
+              # pixel below the trust floor, six windows blow out (146-394 px)
+              # on the Cap. V heading and the short right-column footer, six
+              # survivors agree 1185-1188 on runs 61-64 px, and an independent
+              # per-column ink profile over rows 35-85% reproduced p6-c4's band
+              # edges digit for digit (near-zero band x=1156-1215, printed
+              # column rule inked x=1183-1189 peaking 767 rows on x=1186,
+              # midpoint 1185.5 -> 1186). The heavy rule is WHY the default run
+              # is pinched to 59 px.
+              # THE BLOCK SPLIT IS 4/4 AND THE ANCHOR SPLIT IS 3/5, AND THEY DO
+              # NOT COINCIDE -- the same shape p.268 showed one leaf back.
+              # nn.1-3 anchor in the LEFT column ("sicut dicitur in Marco",
+              # "et ceteris publicando", "requiritur ordo sacerdotalis") and
+              # nn.4-8 in the RIGHT ("dispensentur secundum veritatem",
+              # "quia in quantum Deus et homo", "operatus est enim salutem",
+              # "et ex intentione", "media mediocribus"), while the LEFT footer
+              # block holds nn.1-4 and the RIGHT block opens with n.4's
+              # UNNUMBERED continuation before nn.5-8. The Cap. IV/Cap. V
+              # boundary falls INSIDE the left block, between nn.2 and 3 --
+              # block, column and capitulum structure, three independent things
+              # again on one leaf.
+              # p.269's own gutter runover is POSITIVE and is logged by p6-c5
+              # as `p.269 n.4:gutter`. NOTE THE FORM, which is NOT p.268's:
+              # n.4 breaks off MID-WORD AND HYPHENATED at the left block's foot
+              # ("...ubi de in-") and continues unnumbered at the head of the
+              # right block ("tentione; d. 5. a. 1. et 2, ubi de ministro
+              # baptismi..."). p6-c4 forwarded this test UNLOGGED, having read
+              # only the left side; p6-c5 closed it from BOTH sides. The
+              # p.269 -> p.270 page-crossing test is NEGATIVE, closed from both
+              # sides (p.269 R block ends complete at n.8 "Vat., 1 et 3
+              # mediis." and p.270 L block opens NUMBERED "Eccle. 9, 1.").
+    270: 5,   # band-read in full by p6-c5, which owns only nn.1-2 (anchors
+              # "utrum amore, an odio dignus sit" and "Unde Augustinus contra
+              # Donatistas", both LEFT column, inside Cap. V's Postremo
+              # period); nn.3-5 anchor in Cap. VI in the RIGHT column and are a
+              # legitimate forwarded PENDING until bon-brev-p6-c6 lands.
+              # Gutter 1373, SETTLED FRESH with no constant on a leaf that had
+              # not been imaged: default 1374 on a 59 px run, four windows blow
+              # out (93-305 px) -- three of them on the Cap. VI heading set
+              # mid-right-column, the p.263 failure mode exactly -- eight
+              # survivors agree 1371-1373 on runs 61-64 px, and the ink profile
+              # fixes the near-zero band at x=1344-1402 with the printed column
+              # rule at x=1371-1376 peaking 573 rows on x=1372 (midpoint 1373).
+              # p.270 REPEATS p.269's straddle in the same place: n.4's entry
+              # begins in the LEFT block, breaks off mid-quotation at "quod
+              # baptismus sit fundamentum omnium", and continues unnumbered at
+              # the head of the RIGHT block, while its anchor is in the right
+              # column. p.270's own gutter runover is therefore POSITIVE, but
+              # n.4 is Cap. VI's and p6-c5 forwarded the test UNLOGGED rather
+              # than double-logging someone else's runover.
 }
 
 
