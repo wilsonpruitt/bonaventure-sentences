@@ -371,6 +371,22 @@ KNOWN_TOTALS = {
               # stands below n.9 at the foot of the RIGHT block. NEITHER IS AN
               # ENTRY: p.257's register is NINE, and a reader counting block
               # lines rather than numerals would reach ten.
+    258: 7,   # band-read in full by p5-c5, which owns nn.1-4. A NINETEENTH
+              # configuration and the MIRROR of p.245's: anchors divide 4/3
+              # (nn.1-4 LEFT, nn.5-7 RIGHT) while the BLOCKS divide 2/5, so the
+              # block break stands TWO NOTES ABOVE the anchor break -- and the
+              # CAPITULUM line (Cap. V / Cap. VI, which falls at the TOP of the
+              # RIGHT column) coincides EXACTLY with the anchor line while
+              # dissenting from the block line. n.2 is a single entry filling
+              # most of the left block (Origen + Hugh of St Victor + Gregory,
+              # an Additamentum in all but name), which is WHY the block break
+              # sits so high: block extent is a function of entry LENGTH, not
+              # of anchor count. nn.5-7 are FORWARDED to p5-c6 (Pars V Cap. VI).
+              # The p.257 -> p.258 page-crossing runover is NEGATIVE (p.257's
+              # right block ends complete at n.9 with the quire signature "33"
+              # below it, and p.258's left block opens NUMBERED with n.1);
+              # p.258's own gutter test is NEGATIVE too (left block ends
+              # complete at n.2, right block opens NUMBERED with n.3).
 }
 
 
