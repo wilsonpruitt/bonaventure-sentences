@@ -473,6 +473,21 @@ own mini-pilot) → Sermones.
   Corollary for the ledger: **render an inherited runover joined, but never re-log a
   runover a prior chunk already logged** — that is the double-count the ledger exists
   to prevent.
+  **★★ AND A SECOND FAILURE MECHANISM, FOUND 2026-07-30 (`p5-c7` on `p5-c6`): THE SCOPED
+  HAND-OFF CAN BE RIGHT IN EVERY PARTICULAR WHILE THE NARRATIVE SUMMARY BESIDE IT IS
+  WRONG.** `p5-c6`'s per-note hand-off correctly placed p. 260 n. 4's anchor in the LEFT
+  column; the prose summary in the same `## Notes` — and the comment it wrote into
+  `KNOWN_TOTALS` — said the anchors divided 3/4 and that "all three lines coincide for the
+  first time in Pars V." They divide 4/3 and the lines do not coincide. **The claim
+  contradicted its own data, one paragraph away.** Every chunk in this corpus carries both
+  forms side by side, and the summary is the one that gets quoted forward — into the resume
+  note, into the next brief, and into reports to Wilson. **Rules: (a) when the two disagree,
+  the PER-NOTE data wins and the summary is withdrawn, not reconciled; (b) never carry a
+  neighbour's summary sentence forward without checking it against the per-note list it
+  sits beside; (c) a structural generalisation ("first time", "all three coincide", "the
+  Nth occurrence") is exactly the kind of sentence that is written once and never
+  re-derived — treat it as the LEAST reliable line in any `## Notes`, not the most
+  quotable.**
 - **★ THE RAW-QUALITY GRADE MOVES *WITHIN* A PAGE — grade per page, per region, AND per
   column-run.** p.234's body was clean above the `Cap. V` heading and degraded below it;
   p.237's improved *upward* across a chapter heading. **Always give the verdict for body
