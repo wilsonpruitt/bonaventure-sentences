@@ -2,6 +2,7 @@ import Link from "next/link";
 import { loadAllContent } from "@/lib/content";
 import { CrossDivider } from "@/components/decorations";
 import { TextReader } from "./text-reader";
+import { CitedBy } from "@/components/cited-by";
 
 export function generateStaticParams() {
   const books = loadAllContent();
@@ -70,6 +71,8 @@ export default async function QuestionPage({
         apparatus={question.apparatus ?? []}
         hasTranslation={question.hasTranslation}
       />
+
+      <CitedBy chunkId={question.id} />
 
       {(prevQ || nextQ) && (
         <div

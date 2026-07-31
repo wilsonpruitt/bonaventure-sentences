@@ -753,6 +753,38 @@ either loses real self-references or fabricates them, and both are silent.
 like the apparatus backlog — jobs, not a blob — and every digit is settled off the
 450 dpi band, never off the raw and never off this tool's opinion.
 
+### The site surfaces (Phases 1-2, shipped 2026-07-31)
+
+`tools/build-index-json.py` is a pure VIEW over the ledger — it decides nothing about
+citations, it only regroups. Outputs, all gitignored and regenerated:
+
+| file | feeds |
+|---|---|
+| `index-scripture-toc.json` (11 KB) | `/scripture` — books in Vulgate order |
+| `scripture/<book>.json` (largest 0.41 MB) | `/scripture/[book]` |
+| `index-crossref.json` (2.7 MB) | the **Cited by** panel on every question page |
+
+- **The scripture index is SPLIT PER BOOK.** One file is 3.8 MB, and on a static
+  export every page importing it inlines it into that page's payload. The per-book
+  files are read with `fs` at build time, so a book page carries only its own book.
+- **`index-crossref.json` is read once and cached at module scope**, not imported —
+  ~1,990 question pages consult it.
+- **A missing index FAILS THE BUILD, deliberately.** `cited-by.tsx` throws rather than
+  falling back to an empty index, which would have dropped the panel from every page
+  while the build still reported success. Verified by removing the file and building.
+- **Cited-by separates precision levels:** a citation naming this exact unit
+  (`chunk`) is shown as a card; ones naming a shared printed page or the whole
+  article (`page`/`unit`) are summarised in a line beneath. They are never blended
+  into one count.
+- **Psalms display BARE VULGATE numbers** with a note on the page. Dual numbering
+  ("Psalm 24 (25)") needs a hand-built 150-row mapping whose split/merge points are
+  easy to get subtly wrong, and a wrong number in an index is worse than an
+  unfamiliar one. Revisit only with a checked table.
+- **Only `verse` and `chapter` resolutions are indexed.** A `chapter-out-of-range`
+  record is a QA line, not a citation; publishing it would ship an unsettled reading.
+- Anaphor-resolved citations appear but are marked **via *ibid.***, and the display
+  keeps Quaracchi's `ibid.` verbatim — an inference, never an emendation.
+
 ### Running it
 
 ```bash
@@ -858,16 +890,20 @@ Flag (don't silently "fix") any genuinely ambiguous readings.
 
 ```bash
 python3.11 tools/build-citations.py       # Regenerates index/citations.tsv + the QA report
+python3.11 tools/build-index-json.py      # Ledger -> site/src/data/ index JSONs
 cd site
 node scripts/build-content.mjs            # Regenerates src/data/content.json
 npx vercel build --prod                   # Must use --prebuilt because build-content.mjs reads ../vol1/
 npx vercel deploy --prod --prebuilt --archive=tgz
 ```
 
-The citation extractor runs **before** `build-content.mjs` at every deploy boundary, so
-the indexes grow with the corpus (see § "Index conventions"). It writes nothing under
-`vol*/` and does not touch `content.json`; if it is skipped, the site simply serves the
-previous index.
+Both index tools run **before** `build-content.mjs` at every deploy boundary, so the
+indexes grow with the corpus (see § "Index conventions"). They write nothing under
+`vol*/` and never touch `content.json`. Their site outputs
+(`index-scripture-toc.json`, `scripture/*.json`, `index-crossref.json`) are
+**gitignored and regenerated**, on the same rule as `content.json` — so **skipping
+`build-index-json.py` before a build does not serve a stale index, it fails the build**.
+Run both, in this order.
 
 - `--archive=tgz` required (Free plan's 5000-files/day upload cap)
 - **Only the project owner deploys** to the production custom domain (bonaventure.wrootpress.com). Other contributors should commit their work to a branch; owner pulls and deploys.

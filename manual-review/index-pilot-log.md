@@ -62,6 +62,14 @@ otherwise complete.
   extractor run — it never writes to the corpus. (Two chunk files *were* edited in this
   session, by hand, to correct the findings below; that is translation work, not the
   index run.) `build-content.mjs` still reports **1992 questions / 1992 translated**.
+  **⚠ CORRECTION (2026-07-31, later the same day): an earlier version of this log, and
+  of the resume note, claimed `site/src/data/content.json` was verified "byte-identical"
+  via `git status`. That check was VACUOUS — `content.json` is gitignored
+  (`site/.gitignore:8`), so `git status` reports it clean no matter what it contains.**
+  The substantive claim still holds by other evidence (the extractor opens no file under
+  `site/`, and `build-content.mjs` reports the same 1992/1992 before and after), but the
+  evidence originally cited did not support it. Recorded rather than quietly fixed —
+  this repo's standing hazard is exactly a verification sentence being quoted forward.
 
 ## Corpus findings the index surfaced — ✅ BOTH SETTLED AT THE PLATE 2026-07-31
 
