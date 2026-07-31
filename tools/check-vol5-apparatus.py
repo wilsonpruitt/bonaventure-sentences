@@ -522,6 +522,33 @@ KNOWN_TOTALS = {
               # "S. Bonav. -- Tom. V." and the quire signature "34" both stand
               # on p.265 (not on p.264); neither is an entry and neither is
               # counted.
+    265: 6,   # band-read in full by p6-c1, which owns ALL SIX. PARS VI's
+              # opening leaf: the full-width "PARS SEXTA. / De medicina
+              # sacramentali." display heading stands at the HEAD of the page,
+              # so the whole leaf is Cap. I and no Pars V text is on it.
+              # Gutter 1150 (per-column ink profile: blank band x=1125-1177,
+              # printed column rule inked at x=1142-1159 peaking on x=1151,
+              # band midpoint 1151; the tool's no-constant default of 1121 on
+              # a 4 px run is a LOUD failure and was rejected). ANCHORS DIVIDE
+              # 3/3 AGAINST A 2/4 BLOCK SPLIT: nn.1-3 anchor in the LEFT column
+              # ("operatur", "quia divinum", "a sensibus carnis") and nn.4-6 in
+              # the RIGHT ("sanetur et curetur", "gratiae vasa", "Sacramentis"),
+              # while the LEFT footer block holds only nn.1-2 and the RIGHT
+              # block opens at n.3 -- i.e. n.3's entry prints one block to the
+              # RIGHT of its anchor's column, the mirror of p.264's overrun.
+              # Both runover tests NEGATIVE, each closed from both sides:
+              # p.265's own gutter (L block ends complete at n.2 "...I K L O U
+              # disponit." and R block opens NUMBERED "Cfr. supra p. III.
+              # c. 3.") and p.265 -> p.266 (p.265 R block ends complete at n.6
+              # "...substituimus potentiam pro gratiam." and p.266 L block
+              # opens NUMBERED "Secundum Aristot., II. de Anima, text. 49.").
+              # p.266's register is NOT entered here: p6-c1 owns only p.266
+              # n.1 (anchor "a forma et a fine", LEFT column, inside Cap. I's
+              # tail); nn.2 ff. anchor in Cap. II and are a legitimate
+              # forwarded PENDING until bon-brev-p6-c2 lands, which must also
+              # log p.266's POSITIVE gutter runover (n.3 breaks at a comma on
+              # "...vitium editionis," and continues unnumbered in the right
+              # block).
 }
 
 
