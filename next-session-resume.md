@@ -13,8 +13,8 @@
 > |---|---|---|
 > | I | *De gratia, in quantum est donum divinitus datum* | **252–253, BUILT** |
 > | II | *De gratia, in quantum iuvat ad bonum meritorium* | **253–254, BUILT** |
-> | III | *De gratia, in quantum est remedium peccati* | opens **254**, RIGHT column, verified on the band |
-> | IV | *De ramificatione gratiae in habitus virtutum* | 256 |
+> | III | *De gratia, in quantum est remedium peccati* | **254–256, BUILT** |
+> | IV | *De ramificatione gratiae in habitus virtutum* | opens **256**, LEFT column, near the top, verified on the band |
 > | V | *De ramificatione gratiae in habitus donorum* | 257 |
 > | VI | *De ramificatione gratiae in habitus beatitudinum, et per consequens fructuum et sensuum* | 258 |
 > | VII | *De exercitio gratiae respectu credendorum* | 260 |
@@ -32,7 +32,12 @@
 > every capitulum's END established POSITIVELY from the NEXT heading** — the index gives opening pages
 > only and has under-reported a span in every pars so far. ★ **Cap. III's index page (254) was the
 > first of the garbled block to be tested against a band, and it is CORRECT** — `Cap. III.` stands
-> part-way down p. 254's RIGHT column. One confirmation is not a licence: test each remaining one.
+> part-way down p. 254's RIGHT column. ★★ **AND Cap. IV's (256) IS CORRECT TOO, tested by `p5-c3`:
+> `Cap. IV.` stands near the TOP of p. 256's LEFT column. TWO confirmations, and still not a licence —
+> but note WHAT THE INDEX GOT WRONG EVEN SO. Cap. IV opening on p. 256 implied Cap. III would run two
+> full pages; it takes only TWO LINES of p. 256. The index's opening pages have now been right twice
+> and the SPAN inferred from them wrong once. Test each remaining opening on its own band, and never
+> infer a span from two openings.**
 >
 > ## ⚠ NO DEPLOY BOUNDARY IS PENDING INSIDE PARS V.
 > A pars boundary is a deploy boundary; the next one is at the **close of Pars V (p. 264)**. **Pushing
@@ -88,64 +93,128 @@
 > `check-vol5-apparatus.py` all checks passed (p. 254 fed as **6**); `polish-style-scan --volume 5`
 > CLEAN; `check-vol5-census.py` rosters agree; build **1984/1984**. **No `[?]` flags.**
 >
-> ## ⚠ ONE OPEN DEFECT `p5-c2` FOUND AND DELIBERATELY DID NOT TOUCH
-> **`bon-brev-p5-c1`'s p. 253 n. 2 renders the plate's `edd. 1, 3` as `codd. 1, 3` ("codices 1, 3").**
-> On the band at sixfold zoom the word is a three-letter **`edd.`**, the raw agrees (`edd. 1 , 3`), and
-> `1` and `3` are edition sigla everywhere else in that register. `p5-c2` recorded it rather than
-> editing another chunk's committed entry. **Fix it in `bon-brev-p5-c1` (Latin `edd. 1, 3`, English
-> "editions 1 and 3") when someone is next in that file — it is a one-line correction and it is real.**
+> ## ✅ NO DEFECT IS OPEN. The `codd.`/`edd.` flag is CLOSED.
+> **`bon-brev-p5-c1`'s p. 253 n. 2 read `codd. 1, 3`; the plate reads `edd. 1, 3`. `p5-c2` flagged it;
+> `p5-c3` re-derived it from p. 253's band at eighteenfold zoom, UPHELD the flag, and corrected the
+> Latin AND the English in `p5-c1` (commit `f1301a6`), recording the disposition in both chunks.**
+> ★ **The method is worth keeping, because the flag was NOT a digit question and would have been
+> mis-worked as one.** `1` and `3` were never in doubt; the WORD governing them was. Three checks,
+> the first decisive alone: **(a) LETTER COUNT** — the word sets three glyphs plus a period and
+> `codd.` needs four; there is no round `o` in it anywhere. **(b) GLYPH** — its first sort is an `e`
+> closed by a mid-height crossbar, against the open, barless `c` of `ex pluribus codd.,` **two lines
+> above in the same entry**, which is a same-entry contrast set for exactly this question. **(c) THE
+> SIGLUM SYSTEM** — a numeral in the witness slot is ALWAYS an edition here and a letter always a
+> codex (`A B E M P cum 2` stands ten words earlier in the same entry), so `codd. 1, 3` asserts that
+> two editions are codices and is impossible on its face. **The raw agreed, and the raw did not settle
+> it; the band did.** ★ **Generalise this: when a flag names a WORD rather than a digit or a siglum,
+> count its letters first. It is the cheapest test and it closed this one on its own.**
 >
-> ## ▶ THE FRONT — `bon-brev-p5-c3`, Pars V Cap. III, *De gratia, in quantum est remedium peccati*
+> ## ✅ `bon-brev-p5-c3` DONE (2026-07-30) — commit `f1301a6`
+> Breviloquium **Pars V, Cap. III, *De gratia, in quantum est remedium peccati*** — printed
+> **pp. 254–256**, the **FIRST capitulum in Pars V to touch THREE printed pages and cross TWO leaves.**
+> Opens two-thirds down p. 254's RIGHT column, immediately below Cap. II's close; breaks across the
+> leaf on a **STRANDED RELATIVE PRONOUN GOVERNING NOTHING** (`quae` / `sunt « transgressiones legis
+> divinae`); fills p. 255's left column entire; crosses p. 255's gutter **at a WORD BOUNDARY STRANDING
+> A VERB FROM ITS OBJECT** (`quam vocamus` / `motum liberi arbitrii`); fills p. 255's right column
+> entire; breaks across the second leaf on a **STRANDED ADJECTIVE** (`aeternae` / `felicitatis`); and
+> closes after **exactly TWO body lines at the head of p. 256's LEFT column** at `…secundum donum
+> ipsius gratiae septiformis.` **★ The end is fixed POSITIVELY from the `Cap. IV. / De ramificatione
+> gratiae in habitus virtutum.` heading standing immediately below it IN THE SAME LEFT COLUMN.**
+> Three breaks in one capitulum, three different shapes, and all three tails are fragments.
+> Apparatus **12 entries** — **p. 254 nn. 5–6** (the inherited pair, every position, column and digit
+> re-derived) and **p. 255 nn. 1–10**, closing that register entire. **p. 256 carries NO note of this
+> capitulum** — its two Cap. III lines have no anchor, verified NEGATIVELY on the band.
+> Gutters p. 254 = **1357** (carried, not re-measured, not re-logged), p. 255 = **1206** and
+> p. 256 = **1355**, both measured fresh on sub-60 px runs and both settled from the ink profile.
+> **THREE runovers owed, THREE closed: `p.254→p.255` NEGATIVE · `p.255 n.8:gutter` POSITIVE, joined
+> and logged · `p.255→p.256` NEGATIVE.** `check-vol5-apparatus.py` all checks passed (p. 255 fed as
+> **10**, nothing forwarded); `polish-style-scan --volume 5` CLEAN; `check-vol5-census.py` rosters
+> agree; build **1985/1985**. **No `[?]` flags.**
 >
-> ### Hand-off INTO `bon-brev-p5-c3`
-> - **★ THE TARGET AND ITS OPENING ARE ALREADY ON A BAND.** `Cap. III. / De gratia, in quantum est
->   remedium peccati.` stands **part-way down p. 254's RIGHT column**, immediately below Cap. II's last
->   line (`…etiam *condigni* mereri facit gratia septiformis.`). Its first paragraph reads `De gratia
->   vero, in quantum est *remedium contra peccatum*, haec tenenda sunt, quod liberum arbitrium, licet
->   sit « sub Deo potentissimum »⁵, potest tamen per se in peccatum corruere…`, and p. 254's right
->   column ends at `…sit causativum omnium, quae fiunt in universo praeterquam peccatorum, quae`.
->   **All of this was read on p. 254's bands, but re-set every line from the band yourself, and
->   establish Cap. III's END POSITIVELY from the `Cap. IV.` heading — never from white space, never
->   from a grammatically complete tail, and never from a running head.** The index puts Cap. IV at
->   p. 256, so Cap. III probably spans pp. 254–256, i.e. it likely touches THREE printed pages and
->   crosses TWO leaves — **a hypothesis, not a span; close it from the heading.**
-> - **PICK UP: p. 254 nn. 5–6, a TWO-NOTE PENDING.** p. 254's register is **SIX** and only nn. 1–4
->   anchor in Cap. II. Both are written out in full in `bon-brev-p5-c2`'s `## Notes`. **What that
->   hand-off verified, stated plainly: OWNERSHIP, the COLUMN OF THE FOOTER BLOCK (both right), AND THE
->   ANCHOR POSITION are verified for BOTH, read directly on the band — n. 5 on `« sub Deo
->   potentissimum »`⁵ beside the `Thesis 1.` gloss, n. 6 on `ut tandem *perveniat* ad salutem`⁶ closing
->   the `Thesis 3` paragraph. Nothing in this hand-off is an inference.** **Re-derive every position,
->   column and digit off the band anyway; adopt nothing.** `check-vol5-apparatus.py` reports p. 254 as
->   `1-4 (4 notes) ok PENDING n.5,6` — that is the legitimate forwarded PENDING, not a GAP.
-> - **★ RUNOVERS `p5-c3` OWES: the p. 254 → p. 255 page-crossing test, p. 255's own gutter test, and
->   (if Cap. III reaches it) p. 255 → p. 256 and p. 256's gutter.** ★ **The p. 254 side of the first
->   test reads NEGATIVE — p. 254's right block ends complete at n. 6 (`…vide IV. Sent. d. 17. p. I.
->   per totam.`) with clear white paper below — but it is NOT closed and NOT logged, because the
->   p. 255 side has not been read. Close it from p. 255 and log it, negative or positive.**
-> - **DO NOT RE-LOG:** the **p. 253 → p. 254 page-crossing test** (POSITIVE, closed at `pro-`/`tector`)
->   and **p. 254's own gutter test** (POSITIVE, inside n. 3) were both closed and logged by `p5-c2`.
->   Nor the p. 252 → p. 253 test or p. 253's own gutter test — both closed and logged by `p5-c1`.
->   **Never double-log; that is the double-count the ledger exists to prevent.**
-> - **p. 253's and p. 254's bands already exist** (`raw/vision/vol5/p-253.png`, `p-254.png`).
->   **pp. 255–256 have NOT been imaged.** Extract them fresh with no constant:
->   `python3.11 tools/extract-pages.py --volume vol5 --pages 255 --dpi 450` then
->   `python3.11 tools/colcrop.py vol5 255`.
-> - **★★ EXPECT THE IN-GUTTER OBSTRUCTION ON p. 255 — IT HAS NOW APPEARED ON SIX LEAVES OUT OF SEVEN**
->   (pp. 248, 249, 250, 251, 253, **254**; p. 252 is the one between, and it carried the display-heading
->   failure instead). **Print the per-column ink profile even when the windows agree** — that is how you
->   learn *why* they agreed, and on p. 254 it is what told the difference between an off-centre island
->   and a skewed text block.
+> ## ▶ THE FRONT — `bon-brev-p5-c4`, Pars V Cap. IV, *De ramificatione gratiae in habitus virtutum*
+>
+> ### Hand-off INTO `bon-brev-p5-c4`
+> - **★ THE TARGET AND ITS OPENING ARE ALREADY ON A BAND.** `Cap. IV. / De ramificatione gratiae in
+>   habitus virtutum.` stands **near the TOP of p. 256's LEFT column**, immediately below Cap. III's
+>   two closing lines (`felicitatis, exercendo nos in operibus perfectae vir-` / `tutis secundum donum
+>   ipsius gratiae septiformis.`). Its opening *divisio* reads `Tertio restat agere de gratia *in
+>   comparatione ad habitus virtutum*, circa quam consideranda sunt tria. Primum est, qualiter gratia
+>   una ramificatur in habitus *virtutum*; secundum est, qualiter ramificatur in habitus *donorum*;
+>   tertium est, qualiter ramificatur in habitus *beatitudinum*¹.` **All of this was read on p. 256's
+>   bands, but re-set every line from the band yourself, and establish Cap. IV's END POSITIVELY from
+>   the `Cap. V.` heading** — never from white space, never from a grammatically complete tail, never
+>   from a running head. **The index puts Cap. V at p. 257, so Cap. IV probably spans pp. 256–257 —
+>   a hypothesis, not a span; close it from the heading.** ★ **And note the specific warning this
+>   pars has just earned: the index's OPENING pages have been right twice running, and the SPAN
+>   inferred from two of them was wrong — Cap. III took two lines of p. 256, not two pages.**
+> - **PICK UP: NOTHING. `p5-c3` FORWARDS NO NOTE.** **p. 255's register is TEN and all ten anchor in
+>   Cap. III**; **p. 256's register belongs to Cap. IV entire.** ★ **The finding that establishes this
+>   is NEGATIVE and no hand-off could supply it: Cap. III's two closing lines at the head of p. 256's
+>   left column were read at maximum zoom and carry NO anchor numeral at all.** `p. 256 n. 1` anchors
+>   on `habitus *beatitudinum*`¹ in Cap. IV's own opening *divisio*, below the heading, and its text
+>   reads `De his agitur hic et 2 seqq. capp.` — **read it off the band yourself; it is written out
+>   here only so that you know the register opens with Cap. IV and not before it.**
+>   `check-vol5-apparatus.py` will show **no PENDING at all** out of `p5-c3` — the first clean
+>   hand-off boundary in Pars V.
+> - **★ RUNOVERS `p5-c4` OWES: p. 256's own gutter test, the p. 256 → p. 257 page-crossing test, and
+>   (if Cap. IV reaches it) p. 257's gutter.** ★ **The p. 255 → p. 256 test is CLOSED and LOGGED
+>   (NEGATIVE) by `p5-c3`, from BOTH sides** — p. 255's right block ends complete at n. 10
+>   (`…praefiximus *Dei*.`) and p. 256's left block opens NUMBERED (`¹ De his agitur hic et 2 seqq.
+>   capp.`). **Do NOT re-log it.** **p. 256's own gutter test is genuinely OPEN and is yours**:
+>   `p5-c3` owns no note on p. 256 and deliberately did not run it.
+> - **DO NOT RE-LOG:** `p.253 n.9:page` and `p.254 n.3:gutter` (both `p5-c2`), the p. 252 → p. 253
+>   test and p. 253's gutter (both `p5-c1`), and **`p.255 n.8:gutter` plus BOTH page-crossing tests of
+>   the pp. 254–256 stretch (all three `p5-c3`)**. **Never double-log; that is the double-count the
+>   ledger exists to prevent.**
+> - **p. 254's, p. 255's and p. 256's bands already exist** (`raw/vision/vol5/p-254.png`, `p-255.png`,
+>   `p-256.png`; colcrop bands in `/tmp/colcrop/`). **p. 257 has NOT been imaged.** Extract it fresh
+>   with no constant: `python3.11 tools/extract-pages.py --volume vol5 --pages 257 --dpi 450` then
+>   `python3.11 tools/colcrop.py vol5 257`.
+> - **★★ EXPECT THE IN-GUTTER OBSTRUCTION ON p. 257 — IT HAS NOW APPEARED ON EIGHT LEAVES OUT OF NINE**
+>   (pp. 248, 249, 250, 251, 253, 254, **255**, **256**; p. 252 is the one between and carried the
+>   display-heading failure instead). **Print the per-column ink profile even when the windows agree.**
+> - **★★★ AND EXPECT SKEW: THREE CONSECUTIVE LEAVES ARE NOW SKEWED, IN TWO DIRECTIONS AND THREE
+>   AMOUNTS** — p. 254 rightward ~10 px, p. 255 **leftward ~13 px**, p. 256 rightward ~6 px. **The
+>   diagnostic is the SHAPE of the disagreement and it is now proven in both directions: windows that
+>   DRIFT MONOTONICALLY with height mean skew, and the SIGN of the drift tells you which way the block
+>   leans. p. 255's windows ran 1219 at the top down to 1203 at the foot; p. 254's ran 1345 up to
+>   1359. Same mechanism, opposite sign.** Windows that FORK into two clusters still mean an off-centre
+>   island; windows that collapse on a 250–330 px run still mean a full-width heading.
 > - Gutters so far: p.231=1194 · 232=1337 · 233=1211 · 234=1341 · 235=1210 · 236=1331 · 237=1209 ·
 >   238=1338 · 239=1200 · 240=1338 · 241=1228 · 242=1361 · 243=1186 · 244=1367 · 245=1201 · 246=1345 ·
->   247=1209 · 248=1391 · 249=1182 · 250=1390 · 251=1160 · 252=1403 · 253=1250 · **254=1357**.
->   **★★★ THE PARITY CLUSTERS NO LONGER EXIST, AND PARS V'S FIRST TWO LEAVES PROVE IT TWICE. p. 253 is
->   ODD and measures 1250 — 22 px ABOVE the odd cluster's old ceiling (1228). p. 254 is EVEN and
->   measures 1357 — 26 px BELOW the even cluster's old floor (1383, i.e. p. 250's 1390 less its band).
->   Two consecutive leaves, both in the dead zone, on opposite sides of it.** Measure every new page;
->   RE-PROFILE any run at or under ~60 px even when unflagged (p. 254's was **51 px** and unflagged);
->   treat a FLAGGED sub-15 px run as a failure outright; and treat a run FAR ABOVE the 58–64 px band as
->   a failure too — p. 248's 251 px window, p. 249's three 83 px windows and p. 252's four ~330 px
->   windows are all of that kind.
+>   247=1209 · 248=1391 · 249=1182 · 250=1390 · 251=1160 · 252=1403 · 253=1250 · 254=1357 ·
+>   **255=1206** · **256=1355**.
+>   **★★★ PARITY IS DEAD AND SO IS THE NEIGHBOUR. p. 255 (odd) = 1206 and p. 256 (even) = 1355 sit
+>   149 px apart; p. 254 and p. 256, two leaves apart and both even, sit 2 px apart; p. 253 and p. 255,
+>   two leaves apart and both odd, sit 44 px apart. Neither parity nor proximity predicts anything.**
+>   Measure every new page; RE-PROFILE any run at or under ~60 px even when unflagged (**p. 255's was
+>   52 px and p. 256's 54 px, both unflagged and both right**); treat a FLAGGED sub-15 px run as a
+>   failure outright; and treat a run FAR ABOVE the 58–64 px band as a failure too.
+>   ★ **AND NOTE p. 256's RESOLUTION RULE, which is the p. 252 precedent applied in miniature: its
+>   body-row band midpoint (1352) and its EIGHT unanimous body windows (1355) disagreed by 3 px, and
+>   the WINDOWS were adopted — because they AGREED. Take the band midpoint when the windows FAIL; take
+>   the windows when they agree and the midpoint merely differs.**
+>
+> ### ✅ Hand-off INTO `bon-brev-p5-c3` — CONSUMED (kept for the record, superseded above)
+> p. 254 nn. 5–6 were picked up and p. 254's register closed; Cap. III's span was built pp. 254–256.
+> **The method-notes list that stood here has been carried forward and updated at the top of this
+> file — there is exactly ONE copy, and it is the one above.**
+> **★★ THIS WAS THE FIRST HAND-OFF IN PARS V TO VERIFY POSITION, COLUMN *AND* OWNERSHIP FOR EVERY
+> FORWARDED NOTE AND TO DECLARE NO INFERENCE ANYWHERE — AND IT HELD IN EVERY PARTICULAR.** Both notes
+> belong to Cap. III, both blocks stand in p. 254's right register, and both anchors stand exactly
+> where it placed them: n. 5 on `« sub Deo potentissimum »` beside the `Thesis 1.` gloss, n. 6 on
+> `ut tandem *perveniat* ad salutem` closing the *Thesis 3* paragraph. **Both texts held verbatim in
+> every digit and every siglum**, including `pag. 115, nota 6.` and `d. 17. p. I.` — the latter the
+> tightest `1`/`I` contrast in the register, a flagged arabic `1` and a slab-serifed roman `I` five
+> characters apart on one line — and sense confirmed n. 6 independently (IV *Sent.* d. 17 p. I states
+> the requisites of the sinner's justification, which is the anchor's fourfold list). **See method
+> note 7: forwarded OWNERSHIP has now held ELEVEN times in ELEVEN, and a hand-off that verifies all
+> three claims for all its notes has now been right on all of them.** The p. 254 → p. 255 and
+> p. 255 → p. 256 page-crossing runovers are **both NEGATIVE, closed from both sides and logged**;
+> p. 255's own gutter runover is **POSITIVE, inside n. 8, at a FULL STOP on a half-entry that reads as
+> a complete citation, closed from both sides and logged** (`p.255 n.8:gutter`). **The one defect
+> found in a predecessor chunk — `p5-c1`'s `codd. 1, 3` for `edd. 1, 3` — was re-derived, UPHELD and
+> FIXED; no defect is now open.**
 >
 > ### Method notes earned across Pars III and the whole of Pars IV (all still load-bearing)
 > 1. **★★ WHITE SPACE AT A COLUMN FOOT IS NEVER A BOUNDARY.** p. 240's right column showed a clear
@@ -221,6 +290,18 @@
 >    digni`), and the body two columns above really does read `merito digni` twice — so the apparatus
 >    and the body corroborate each other ACROSS the break. Use it whenever a runover falls inside a
 >    variant clause rather than inside a quotation.**
+>    ★★ **AND p. 255 ADDS A SIXTEENTH THAT IS THE MOST DANGEROUS KIND YET: A BREAK AT A FULL STOP, ON A
+>    HALF-ENTRY THAT IS A COMPLETE AND CORRECT CITATION.** n. 8's left-block half reads
+>    `Serm. 169. (alias 15. de Verbis Apostoli) c. 11. n. 13.` — a finished sentence, correctly pointed,
+>    naming a real locus that really is the anchor's source — and the right block then opens
+>    `Cfr. tom. IV. pag. 327, nota 2. — Seq. locus est Rom. 9, 16. …`. **Every earlier runover left a
+>    visible wound: a hyphen, a stranded lemma, a bisected verse, a dangling `pro`. This one leaves
+>    NONE. A reader checking only whether the entry "reads complete" would have closed p. 255's
+>    register at eight and never known.** ★ **The join is nonetheless provable three ways — the opener
+>    carries no numeral; `Seq. locus est` names Rom. 9, 16, which IS the body's very next italic
+>    quotation two lines below n. 8's anchor; and the continuation's `quia nihil` lemma stands in the
+>    body BELOW that anchor.** **Sixteen kinds in sixteen leaves, and the completeness of a half-entry
+>    is now formally worthless as evidence.**
 >    **The only reliable test is: does the next block's first line carry a numeral? Read it from its
 >    start, from BOTH sides.** ★ And when a block DOES open unnumbered, the join can be verified three
 >    ways — the grammar completes, the continuation's lemmas or referents stand in the body AFTER the
@@ -277,6 +358,24 @@
 >    CORPUS ON WHICH *BOTH* BLOCKS OPEN UNNUMBERED — the left with p. 253 n. 9's foreign tail, the right
 >    with its own n. 3's tail — and its register is nonetheless SIX. Only p. 247 had ever opened a block
 >    with a foreign page's tail; no page had ever done both at once. NEITHER opener is an entry.**
+>    ★★ **AND p. 255 SUPPLIES A SIXTEENTH CONFIGURATION WHICH IS THE SECOND OCCURRENCE OF p. 253's —
+>    only the THIRD shape in the corpus to repeat, after pp. 248/251 and p. 253's own family.** Its
+>    anchors divide **6 / 4** (nn. 1–6 left, nn. 7–10 right) while its blocks divide **8 / 2 with the
+>    split falling INSIDE n. 8**, so the left block **overruns the anchor line by two whole notes and
+>    then by half of a third**. Its **capitulum line does not exist**: no boundary falls on p. 255, and
+>    all ten notes are one chunk's. ★ **What makes p. 255 harder than p. 253 is WHERE the overrunning
+>    notes sit. On p. 253 they were the FIRST two of the page, at the head of the left block, where an
+>    eye looking for a mismatch would find them; here they are the LAST two of an eight-entry block, so
+>    the register presents eight left-hand entries against four right-hand anchors with no visible
+>    seam at all.** ★★ **AND p. 256 ADDS A SEVENTEENTH WHICH IS THE EXACT MIRROR OF p. 250's AND
+>    COMPLETES THAT LESSON: a page on which a CAPITULUM BOUNDARY FALLS — two lines below the top of the
+>    left column — and whose register is nonetheless owned ENTIRE by the INCOMING chunk, because the
+>    outgoing capitulum's two surviving lines carry NO anchor.** On p. 250 the heading fell part-way
+>    down and the register was owned entire by the OUTGOING chunk. **So: a capitulum heading on a page
+>    is not evidence that the register divides, IN EITHER DIRECTION — and both halves of that rule are
+>    now attested.** ★ **In both cases the decisive finding was NEGATIVE and only the band could give
+>    it: read the surviving lines of the outgoing unit at maximum zoom and see whether anything is
+>    there.**
 >    ★ **AND THE p. 253 CASE CARRIES ITS OWN WARNING, CONFIRMED BY `p5-c2`: p. 253's nn. 5 and 6 print
 >    in the LEFT block but anchor in the RIGHT column, because Cap. II gets only two left-column lines
 >    and NEITHER CARRIES AN ANCHOR. The finding that settled it was NEGATIVE — reading the two lines at
@@ -322,8 +421,25 @@
 >    INFERENCE has now been right three times out of three, but once for a reason that did not survive
 >    checking.** **That is the argument for re-deriving even a hand-off that has been right before: the
 >    answer and the reason are separate claims, and only the band settles either.**
+>    ★★ **AND `p5-c2`'s HAND-OFF INTO Cap. III IS THE STRONGEST FORM THE CONVENTION ALLOWS AND IT HELD
+>    ENTIRE.** It forwarded p. 254 nn. 5–6 with **POSITION, COLUMN and OWNERSHIP verified for BOTH and
+>    no inference declared anywhere** — the first hand-off in Pars V to claim all three for every note.
+>    On re-derivation by `p5-c3` every claim held: both notes are Cap. III's, both blocks stand in the
+>    right register, both anchors stand where it placed them, and **both texts held verbatim in every
+>    digit and every siglum**, including `pag. 115, nota 6.` and `d. 17. p. I.` **Running score:
+>    forwarded OWNERSHIP has held ELEVEN times in ELEVEN; forwarded DETAIL has failed twice in eleven,
+>    and BOTH failures came from hand-offs that said the detail was unverified; a declared INFERENCE has
+>    been right three times in three, once for a reason that did not survive; and a hand-off claiming
+>    ALL THREE for ALL its notes has now been right on all of them, once.** ★ **One instance is not a
+>    licence, and the reason is sitting in the same paragraph: `p5-c1`'s inference was right in its
+>    answer and wrong in its reason, and nothing but re-derivation could have told the difference.**
 >    Re-derive every forwarded anchor and every forwarded digit, and prefer a hand-off that says which
 >    claims it checked.
+>    ★★ **AND NOTE WHAT A HAND-OFF CANNOT DO AT ALL, now attested three times running (p. 253's two
+>    left-column lines, p. 256's two Cap. III lines, and p. 255's ten-note register): IT CANNOT SUPPLY
+>    A NEGATIVE.** "There is no anchor here" is a finding only the band gives, and each time it was the
+>    finding that fixed the ownership of a whole register. **When a hand-off is silent about a stretch
+>    of column, that silence is not evidence — go and look at it.**
 > 8. **★★ THE DEFAULT GUTTER WINDOW HAS NOW FAILED, DRIFTED OR NEEDED RESCUE ON SIX OF NINE LEAVES.**
 >    **Loud:** p. 240 (1362/13 px, flagged) and p. 244 (1346/10 px, flagged — 21 px off the true 1367).
 >    **Quiet:** p. 241 (1218/39 px, 10 px off 1228), p. 243 (1180/50 px, 6 px off 1186), p. 245
@@ -386,8 +502,31 @@
 >    ★ **Note also that p. 254's 51 px run is the NARROWEST sound measurement yet recorded on this
 >    volume — below p. 248's 54 px — and it is right. RUN WIDTH IS A REASON TO RE-PROFILE, NEVER A
 >    REASON TO REJECT.**
->    **The obstruction is a settled feature of this quire and it is not going away. EXPECT IT ON
->    p. 255 AND PRINT THE PROFILE EVEN WHEN THE WINDOWS AGREE.**
+>    ★★★ **AND pp. 255 AND 256 MAKE SKEW A SETTLED FEATURE TOO — THREE CONSECUTIVE LEAVES, TWO
+>    DIRECTIONS, THREE AMOUNTS.** **p. 255** (**1206**, default, **52 px run, UNFLAGGED**) carries the
+>    obstruction — body-row blank band **x = 1181–1232**, island **x = 1199–1215** peaking at 287 rows
+>    at x = 1204, so the island sits **2–3 px LEFT of the band's centre (midpoint 1206.5)** — and its
+>    eighteen windows **DRIFT MONOTONICALLY from 1219 at the top of the page down to 1203 at its foot**,
+>    the p. 254 signature with the SIGN REVERSED: the upper-row band runs x = 1191–1246 against the
+>    body's 1181–1232, so both column edges migrate **~11–14 px LEFTWARD** down the leaf where p. 254's
+>    migrated ~10 px rightward. Adopted **1206**, where the default, the seven body windows (1203–1208)
+>    and the body-band midpoint all three agree. **p. 256** (**1355**, default, **54 px run,
+>    UNFLAGGED**) carries it too — body band x ≈ 1322–1382, island **x = 1348–1358** peaking at **787
+>    rows** at x = 1351, the densest island yet — and skews **rightward ~6 px** (upper band x ≈
+>    1317–1375). ★ **SO THE DIAGNOSTIC NOW READS IN BOTH DIRECTIONS: monotonic drift means skew, and
+>    the SIGN of the drift tells you which way the block leans. Forking means an off-centre island; a
+>    250–330 px collapse means a full-width heading. Three causes, three signatures, and only the
+>    profile tells them apart.** ★★ **AND p. 256 SETTLES A TIE-BREAK THE PRECEDENTS LEFT LOOSE: its
+>    body-row band midpoint (1352) and its EIGHT body windows (1355, unanimous to the pixel) disagreed
+>    by 3 px, and THE WINDOWS WERE ADOPTED. Take the band midpoint when the windows FAIL or FORK; take
+>    the windows when they AGREE and the midpoint merely differs. p. 252 is the precedent — its body
+>    windows' median beat a midpoint 2 px away — and p. 256 is the second instance.**
+>    ★ **Note also that p. 254's 51 px still holds the narrowest-sound-run record and p. 255's 52 px is
+>    now the second: THREE consecutive leaves have measured sound on runs of 51, 52 and 54 px. RUN WIDTH IS A
+>    REASON TO RE-PROFILE, NEVER A REASON TO REJECT — and on this quire a sub-60 px run is now the NORM
+>    rather than the warning.**
+>    **The obstruction is a settled feature of this quire and it is not going away — EIGHT leaves out
+>    of NINE. EXPECT IT ON p. 257 AND PRINT THE PROFILE EVEN WHEN THE WINDOWS AGREE.**
 > 9. **★★ A full-width display heading only breaks the measurement if it falls INSIDE the measured
 >    rows — BUT A PART OPENING CAN AND DOES.** `PARS QUARTA` crosses p. 241's gutter and did not break
 >    it; **`PARS QUINTA` on p. 252 DESTROYED all four upper-page windows outright** (1245–1257 on
@@ -418,7 +557,16 @@
 >    ONE PAGE, ACROSS ONE GUTTER, TWO FULL GRADES APART — and in the direction OPPOSITE to p. 252's.
 >    p. 254 then runs GOOD in both columns (~twenty-five garbles left, ~twenty right, one word
 >    destroyed each), so the leaf reverses again at the leaf break. The grade is not a property of the
->    page and not even of the leaf.** **Grade the run you are actually setting from.** The raw also
+>    page and not even of the leaf.** ★★ **AND THE p. 255/256 LEAF CONFIRMS THAT DENSITY AND SEVERITY
+>    MOVE INDEPENDENTLY ON ONE PAGE: p. 255's LEFT column runs ~thirty garbles with THREE words
+>    destroyed (`incommutabili`, `offendit`, `gratuitam` — two of them ELEVEN CHARACTERS APART) while
+>    its RIGHT column runs ~twenty-five garbles with FIVE destroyed (`motum`, `debet`, `est`, `quod`,
+>    `faciens`). FEWER garbles, MORE destruction, across one gutter. A garble count is not a grade.**
+>    And the footers again run opposite to the bodies: p. 255's RIGHT register (n. 8's tail and
+>    nn. 9–10) is the cleanest on the leaf — **not one wrong digit and not one wrong siglum, including
+>    a crossbar-bearing `H` the raw got right for the first time on this quire** — while its LEFT
+>    register carries two wrong readings and two destroyed sigla. **Grade the run you are actually
+>    setting from.** The raw also
 >    **cascade-drops short phrases at anchors**, **fuses words at anchors**, **destroys the letter
 >    BEFORE an anchor**, **loses interior spaces** (`meritiin`, `necessecsl`, `dioinamnaturam`,
 >    `fuitad`, `summeinfinito`, `cogiiosccbatomnia`, `modoilla`), **inserts SPURIOUS PERIODS**
@@ -459,6 +607,23 @@
 >    its n. 1 sets `E I M O S` with a **single** upright — **the crossbarred `H`, the crossbar-reduced
 >    `H` and the bare `I` all in one register.** Twelfth instance of the crossbar-reduced form in six
 >    pages. **Never read the crossbar.**
+>    ★★ **AND p. 255 n. 9 SETS THE CLEANEST `H`/`I` CONTRAST IN PARS V, THE TWO GLYPHS SIDE BY SIDE:
+>    `E H I K M S et 2`** — two uprights with a VISIBLE crossbar, immediately followed by a single
+>    slab-serifed upright. All three rules agree (**one upright is never `H`**; `E H I K M S` is
+>    alphabetical and no other reading is; `omittitur ab <witnesses> et 2` requires witnesses). ★ **The
+>    raw gets it right here — the FIRST time on this quire it has rendered a crossbar-bearing `H`
+>    correctly — and that changes nothing: the plate settled it, not the raw.** The same entry then
+>    sets two standalone edition `1`s (`B D F et 1 quod in se est`, `pro *commonitionem* 1
+>    *communicationem*`) four words from the codex run, **so the whole `1`/`I` contrast set stands
+>    inside ONE entry. Use p. 255 n. 9 as this quire's reference entry for both questions at once.**
+>    ★★ **AND p. 255 n. 3 ADDS A FOURTH SPECIES OF UPRIGHT-CONFUSION, AFTER `H`/`I`, `1`/`I` AND
+>    `II`/`H`: A SOUND `I` PLUS A BATTERED POINT.** `Epist. I. Tim. 2, 5.` sets a single slab-serifed
+>    upright followed by a period whose ink has **dragged rightward along the baseline**, so that
+>    upright-plus-drag reads as an `L` — and the raw duly gives `I.- Tim.` **It is not an `L`: an `L`'s
+>    foot bar JOINS the stem, and this mark stands detached and below it.** Sense closes it completely:
+>    **I Tim. 2, 5 IS *unus enim Deus, unus et mediator Dei et hominum, homo Christus Iesus* — the
+>    anchor's own italic quotation, word for word.** **So the stroke count must be read together with
+>    what is JOINED to the stroke, not merely how many strokes there are.**
 > 12. **★★ THE `1` (EDITION) vs `I` (CODEX/BOOK/PART) SPLIT IS PERMANENT**, and p. 248 n. 2 sets the
 >    tightest case in Pars IV: **`[Cfr. I. Cor. 1, 26. seqq.]` puts a roman book numeral and a flagged
 >    chapter numeral three characters apart** — symmetric slab serifs top and bottom against an angled
@@ -508,6 +673,28 @@
 >    one wrong siglum, with `d. 26. q. 3. et 4. ac I. Sent. d. 14.` setting a two-bowled `3`, a
 >    crossbarred `4`, a roman `I` and a flagged `1` inside ONE LINE. Use that line as a contrast set.
 >    Two facing registers on one leaf, five errors against none: grade the run, never the page.**
+>    ★★★ **AND THE p. 255/256 LEAF-PAIR ADDS A FIFTH PROFILE AND A CLASS NOBODY HAD NAMED: THE `1`/`I`
+>    CONFUSION RUNNING THE *OTHER* WAY.** The raw gives p. 255 n. 8's `c. 11.` as **`c. II.`** — an
+>    ARABIC pair read as a ROMAN numeral, where every previous failure on this quire went from roman to
+>    arabic (`C C 1 M` for `B C I M`, `D E 1` for `D E I`, `Vulgata et 1` for `et I`, `B C E 1 M T` for
+>    `B C E I M T`). On the band both glyphs carry the angled top flag, closed stem and no lower serif;
+>    the same entry's `tom. IV.` and the neighbouring `p. I.` supply slab-serifed romans for contrast.
+>    ★ **Sense settles it twice over: Augustine *Serm.* 169 c. 11 n. 13 is the locus of `qui ergo fecit
+>    te sine te, non te iustificat sine te`, which is the anchor's quotation word for word, and a roman
+>    `c. II.` names a chapter that does not contain it.** **So `1`/`I` is not a one-way street: check
+>    BOTH readings of every upright in a citation slot, in both directions.** ★ The same leaf gives
+>    `d..2S.` for **`d. 25.`** (an `S` for a flat-barred `5` — the `3`/`5` family's neighbour, settled
+>    on the band because a `5`'s bowl is open at the top left where an `S`'s is closed, and confirmed
+>    because II *Sent.* d. 25 p. II q. 5 IS the question on God moving the will without compelling it,
+>    which is what the note says it shows) and **`.\ n M P` for `A B M P`** — two sigla destroyed
+>    outright, recovered from the plate on alphabetical order and the grammar `inter quos sunt`.
+>    ★★ **AND THE ONE FURTHER RAW DIGIT FAILURE ON THE LEAF IS IN A MARGINAL GLOSS, NOT THE REGISTER:
+>    the raw gives p. 255's `Pro thesi 2.` as `Pro thesi 1`, and `Pro thesi 1.` already stands in
+>    p. 254's margin. GLOSSES ARE OUTSIDE THE APPARATUS BUT NOT OUTSIDE THE DIGIT RULES — read their
+>    numerals off the band like any other.** ★ **And note the face they are set in: a small bold whose
+>    `u` prints as a filled bowl, so `Gradus … processu.` reads on the plate as `Gradns … processo.`
+>    and `Virtutes` as `Virtntes`. That is a property of the FACE, not of the sorts; render whole and
+>    never follow the raw, which reproduces it (`oradns 5 in … hoc proces- so.`).**
 >    ★★ **AND THE p. 253/254 LEAF-PAIR MAKES IT FOUR CONSECUTIVE PAIRS WITH FOUR DIFFERENT PROFILES
 >    (3–0, 4–1, 1–1, 0–0): `p5-c2` corrected NO digit of either confusable class against the raw.**
 >    p. 254's whole register — six entries and a runover tail — reads clean in every digit and every
@@ -576,6 +763,23 @@
 >    for one of them and `G H K N` reading `digni` for the chapter's closing `congrui`. THREE readings
 >    of one word across four places, all recorded by the editors, NONE harmonised — not body against
 >    apparatus, and not one occurrence against another.**
+>    ★★ **AND CAP. III ADDS A KIND THAT IS NOT A BATTERED SORT AT ALL BUT AN ABSENT ONE: TWO WORD-BREAKS
+>    WITH NO HYPHEN, BOTH INSIDE ONE FOOTER ENTRY.** p. 255 n. 10 breaks `expli` / `cantur.` and, two
+>    lines later, `praefixi` / `mus`, and at sixteenfold zoom **both lines end in clean paper — no
+>    hyphen, no shoulder, no broken sort.** Every other break in the same block carries its hyphen
+>    normally (`omitti-` / `tur`, `co-` / `ronat`, `in-` / `obedientiae`), one of them three lines away.
+>    **Rendered whole per the broken-word convention and RECORDED, not flagged. Distinguish it from the
+>    battered-sort family: `vigorem`, `actum` and `aliae` are sorts that printed faintly or failed;
+>    this is a sort that was never set, twice, in one entry — a compositor's habit, not an accident.**
+>    ★ **And a lighter one on the same page: `Corollaria.` (p. 255's right margin) carries a STRAY POINT
+>    ABOVE ITS SECOND `o`, so the raw gives `coroUaria` and a reader might take the speck for an accent.
+>    At ninefold zoom it stands clear of the shoulder with no stroke weight — the p. 253 n. 9 spur and
+>    the p. 254 `gloriam` speck, a third time. Rendered whole, recorded, not flagged.**
+>    ★★ **AND CAP. III'S NO-HARMONISING CASES ARE TWO QUOTATIONS AGAINST THEIR OWN SOURCES: the body
+>    reads `sed in Domino gloriari` where n. 9 cites I Cor. 1, 31 (*in Domino glorietur*), and the body
+>    reads `qui creavit te sine te non iustificabit te sine te` where n. 8's source reads `qui ergo
+>    fecit te sine te, non te iustificat sine te`. BOTH set as printed; neither drawn toward its
+>    source.** Likewise the plate's `assumta` (not *assumpta*) is preserved.
 >    Also standing: `per naturam Deitatis`
 >    italic in one paragraph and roman in the next (p. 247), both preserved. **The plate's italic is
 >    not a rule you may complete** ★★ **AND CAP. X ADDS THREE MORE, ALL PRESERVED.** **(i) A STRAY
@@ -603,7 +807,9 @@
 > 16. **The printer's signature `S. Bonav. — Tom. V.` and the quire signature both sit inside the
 >    footer register and NEITHER is an entry.** Last fell on p. 241; pp. 242–248 carry neither; **p. 249 carries BOTH AT ONCE — the printer's
 >    signature at the foot of the LEFT block and the quire signature `32` at the foot of the RIGHT,
->    **and pp. 250–254 carry NEITHER, so the ~8-leaf cadence still points to roughly p. 257,**
+>    **and pp. 250–256 carry NEITHER — SEVEN leaves clear — so the printer's signature is now OVERDUE
+>    on its ~8-leaf cadence and should be expected on p. 257 or within a leaf of it; watch for it and
+>    never count it as an entry,**
 >    the first page in Pars IV to do so. ★ On p. 249 the printer's signature sits immediately below
 >    the line where n. 6 breaks off mid-word, i.e. exactly where a reader tracking the runover would
 >    look for the missing text. Expect it every ~8 leaves and never count it. p. 250 carries NEITHER, so the next
@@ -619,7 +825,16 @@
 >    occurrence, and the largest stranding yet: the p. 253/254 break also falls inside the *Ratio autem*
 >    paragraph, which begins in p. 253's RIGHT column and closes part-way down p. 254's LEFT column, so
 >    `<!-- page 254 -->` sits at that paragraph's end and p. 254's nn. 1, 2 AND 3 all anchor ABOVE the
->    marker — three notes, where every previous case stranded one.** Sixth was **the p. 247/248 break
+>    marker — three notes, where every previous case stranded one.** **TWELFTH: the p. 254/255 break
+>    falls inside the *Ratio autem* paragraph again, so `<!-- page 255 -->` sits at that paragraph's end
+>    and p. 255's nn. 1, 2 AND 3 all anchor above it — a three-note stranding twice running.**
+>    ★★ **THIRTEENTH, AND A NEW SHAPE: the p. 255/256 break falls inside the capitulum's LAST paragraph,
+>    so the rule puts `<!-- page 256 -->` at the very END of the Latin body with nothing after it, and
+>    BOTH of p. 256's Cap. III lines stand above their own marker. This is the first TERMINAL marker in
+>    Pars V; it is not new to the corpus (`bon-brev-p4-c1` and `bon-brev-p4-c3` both end their bodies
+>    with one), and the build treats page markers as inert comments, so it is safe. DO NOT suppress it
+>    and DO NOT move it — a terminal marker is the honest record that the capitulum reached the page.**
+>    Sixth was **the p. 247/248 break
 >    falls inside the *Ratio autem* paragraph, so `<!-- page 248 -->` sits at that paragraph's end and
 >    p. 248's n. 1 anchors ABOVE the marker.** **The page-qualified labels absorb all of this — that is
 >    what they are for. Do not move the marker to chase anchors.**
@@ -674,6 +889,21 @@
 >    DASH, being marked by repetition alone. So a dash count now fails to track member counts in a
 >    third way: not too few (Cap. IX), not misplaced (Cap. X), but ABSENT from the biggest division on
 >    the page while present on the two smallest.**
+>    ★★ **AND CAP. III CARRIES THE COLON TO A SIXTEENTH CONSECUTIVE ATTESTATION** (Pars III capp. IX–XI,
+>    Pars IV capp. I–X, Pars V capp. I–III), **opening it on a plain causal `cum` period as Capp. I and
+>    II both did — so THREE consecutive capitula have now taken the *Ratio* the same way, which has
+>    never happened before; Pars IV's longest such run was two (capp. IX and X, both *sicut/sic*).**
+>    ★★ **And the em-dash takes a TWELFTH distinct distribution which is the first to spend a PAIR of
+>    dashes on a PARENTHESIS:** **TWO** in the opening thesis paragraph marking theses 2–3 of a
+>    THREEfold division (`— *Illa autem gratia*` · `— Expellitur ergo culpa`), thesis 1 undashed — the
+>    same 2-of-3 shape Cap. II used; **TWO** in the *Ratio*'s second paragraph used as a **matched
+>    parenthetical pair around an aside** (`in adultis — in adultis dico … impotentia sui — necesse
+>    est, inquam`); **NONE** in the *Quia vero recreat* or *Postremo* paragraphs; and **THREE** in the
+>    closing *Corollaria* paragraph, each opening a fresh `— Verum est etiam` member of a FOURfold
+>    series whose first member is undashed. **Seven dashes, five paragraphs, THREE different jobs —
+>    member-marking, parenthesis, and member-marking again on a different division.** ★ **The
+>    parenthetical pair is the point: a dash here marks neither a member nor a conclusion but an
+>    interruption, and a reader counting members from dashes would find nine.**
 >    **Transcribe it, never regularise it, and never count members from dashes.**
 > 19. **★★ NEVER HAND-CARRY A CORPUS-WIDE COUNT.** Append one line per chunk (**negatives
 >    included**, as `-`) to `manual-review/vol5-runover-ledger.tsv` and run
@@ -762,6 +992,24 @@
 >    different order under the three causes, with the tenth restated as a participial phrase rather
 >    than a verb. The text's own `omnes decem actus praedictos` licenses the identification; the plate
 >    makes no attempt to align the lists. NEITHER list may be reordered toward the other.**
+>    ★★ **AND CAP. III SETS A THIRTEENTH FORM WHICH IS THE FIRST WHERE A *STRICTLY PARALLEL* SERIES IS
+>    RENDERED UNCOUNTABLE BY SHEER VOLUME OF UNNUMBERED GLOSSES.** `Thesis 1.`–`Thesis 3.` are answered
+>    one-for-one by `Pro thesi 1.`–`Pro thesi 3.` — the fourth such pair in the corpus — and **SIX
+>    unnumbered topical glosses are distributed through it on no pattern**: two inside the thesis
+>    paragraph itself (`Requiruntur quatuor.`, `Gradus 5 in hoc processu.`), one between the theses and
+>    their answers (`Ratio.`), **two inside *Pro thesi 1* that gloss the ANSWER and not the thesis**
+>    (`Corruit, sed non resurgit per se.`, `Facit quatuor.`), one inside *Pro thesi 2* (`Modus
+>    reparationis.`), and two below the last numbered answer (`Corollaria.`, `Notandum.`). **Four of
+>    the six stand between `Thesis 1.` and `Pro thesi 2.`** ★★ **AND THE TRAP IS NEW AND SHARP: TWO OF
+>    THE UNNUMBERED GLOSSES ARE COUNTS THAT DISAGREE WITH EACH OTHER — `Requiruntur quatuor.` and
+>    `Gradus 5 in hoc processu.` stand nine lines apart in ONE paragraph and number TWO DIFFERENT
+>    divisions (the four *requisita* of justification, the five *gradus* of the process). A reader
+>    taking either for the capitulum's structure gets it wrong, and a reader trying to reconcile them
+>    gets it worse: the text keeps them apart deliberately — the *requisita* answer thesis 2 and the
+>    *gradus* answer thesis 3 — and NEITHER may be reordered toward the other.** Fifteen glosses,
+>    nine paragraphs, series complete and correct at every point, and still not usable as a count.
+>    ★ **Cap. I's series was unbroken, Cap. II's had no `Thesis` in it at all, Cap. III's is unbroken
+>    AND buried. Three capitula, three forms, in a row.**
 >    **Transcribe the glosses as printed; regularise nothing;
 >    never infer a capitulum's gloss form from its neighbour's, in either direction.**
 >
