@@ -609,6 +609,47 @@ KNOWN_TOTALS = {
               # are a legitimate forwarded PENDING until bon-brev-p6-c4 lands,
               # which must also run p.268's own gutter test and re-derive n.3's
               # long "d. 3 ... d. 26" chain, the densest 1/4 risk in Pars VI.
+    268: 8,   # band-read in full by p6-c4, which owns nn.2-8; n.1 is p6-c3's
+              # (anchor "sit Sacramentum magnum", LEFT column, in Cap. III's
+              # closing period). Gutter 1370, re-derived by p6-c4 from scratch
+              # rather than adopted: the tool's default 1374 on a 49 px run
+              # stays REJECTED, five windows blow out on the Cap. IV heading,
+              # and an independent per-column ink profile over rows 35-85%
+              # reproduced p6-c3's band edges digit for digit (near-zero band
+              # x=1341-1400, printed column rule inked x=1367-1373 peaking 176
+              # rows on x=1369, midpoint 1370).
+              # THE BLOCK SPLIT IS 4/4 AND THE ANCHOR SPLIT IS 3/5, AND THEY DO
+              # NOT COINCIDE: nn.1-3 anchor in the LEFT column ("sit
+              # Sacramentum magnum", "novi testamenti mediator", "et etiam
+              # primus suscepit") and nn.4-8 in the RIGHT ("via, veritas et
+              # vita", "in quantum incarnatum", "plenum gratiae et veritatis",
+              # "absque omni fictione", "ex diversis Evangelii locis"), while
+              # the LEFT footer block holds nn.1-4 and the RIGHT block opens
+              # with n.4's UNNUMBERED continuation before nn.5-8. n.4 therefore
+              # straddles: anchor in the right column, entry begun in the left
+              # block. ONE LEAF BACK p.267 ran 4/4 against 4/4; the same block
+              # shape over two different anchor splits is why block, column and
+              # capitulum structure stay three independent things.
+              # p.268's own gutter runover is POSITIVE and is logged by p6-c4
+              # as `p.268 n.4:gutter`. NOTE THE FORM: n.4 ends the left block
+              # with a COMPLETED SENTENCE ("...A S beneficia.") and continues
+              # unnumbered at the head of the right block ("Subinde pro
+              # repararetur 2 cum pluribus codd. reparetur, et E perveniatur
+              # pro perveniretur.") -- the apparatus-level case of the frozen
+              # rule that a grammatically complete tail is not evidence a unit
+              # ended. p6-c3 read the left block as ending "COMPLETE" here and
+              # correctly declined to log the test, not having read the right
+              # block. The p.268 -> p.269 page-crossing test is NEGATIVE,
+              # closed from both sides (p.268 R block ends complete at n.8
+              # "- Matth. 19, 4. seqq." and p.269 L block opens NUMBERED "Cap.
+              # 6, 13. - Ibid. 10, 13..."). p.269's register is NOT entered
+              # here: p6-c4 owns only p.269 nn.1-2 (anchors "sicut dicitur in
+              # Marco" and "et ceteris publicando", both LEFT column, inside
+              # Cap. IV's Pro thesi 3 period); nn.3 ff. anchor in Cap. V and
+              # are a legitimate forwarded PENDING until bon-brev-p6-c5 lands,
+              # which must also run p.269's own gutter test (forwarded UNLOGGED
+              # -- the left block breaks off mid-word inside n.4 at "...ubi de
+              # in-", but n.4 is Cap. V's) and the p.269 -> p.270 test.
 }
 
 
