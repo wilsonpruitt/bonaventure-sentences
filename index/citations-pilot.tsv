@@ -1003,8 +1003,8 @@ bon-brev-p5-c9	5	apparatus:p263-4	p263-4	scripture	apparatus-explicit	Deut. 5, 1
 bon-brev-p5-c9	5	apparatus:p263-4	p263-4	crossref	logical	III. Sent. d. 37. a. 2. q. 1.	bon-sent-III-d37-a2-q1		chunk		
 bon-brev-p5-c9	5	apparatus:p263-5	p263-5	scripture	apparatus-explicit	I. Ioan. 2, 16	1Ioan 2:16	A	verse		
 bon-brev-p5-c9	5	apparatus:p263-6	p263-6	crossref	page	supra pag. 186, nota 1	tom5:p186		forward		
-bon-brev-prol-s1	5	apparatus:p203-1	p203-1	crossref	relative-bare	ibid.			unresolvable		
-bon-brev-prol-s1	5	apparatus:p203-1	p203-1	crossref	relative-bare	loc. cit.			unresolvable		
+bon-brev-prol-s1	5	apparatus:p203-1	p203-1	crossref	anaphor->work	ibid.	work:scientia-christi		work	cross-chunk	bon-brev-prol: Quaest. de scientia Christi
+bon-brev-prol-s1	5	apparatus:p203-1	p203-1	crossref	anaphor->work	loc. cit.	work:scientia-christi		work	cross-chunk	bon-brev-prol: Quaest. de scientia Christi
 bon-brev-prol-s1	5	apparatus:p203-2	p203-2	crossref	logical	III. Sent. d. 23. a. 1. q. 1.	bon-sent-III-d23-a1-q1		chunk		
 bon-brev-prol-s1	5	apparatus:p203-3	p203-3	crossref	page	tom. III. pag. 884, nota 2	bon-sent-III-d40-a1-q1+bon-sent-III-d40-divisio+bon-sent-III-d40-littera		page-multi		
 bon-brev-prol-s1	5	apparatus:p203-6	p203-6	scripture	apparatus-explicit	Ioan. 16, 13	Ioan 16:13	A	verse		
@@ -1041,7 +1041,7 @@ bon-brev-prol-s4	5	apparatus:p206-3	p206-3	crossref	logical	I. Sent. d. 27. p. I
 bon-brev-prol-s4	5	apparatus:p206-4	p206-4	scripture	apparatus-explicit	Luc. 2, 7	Luc 2:7	A	verse		
 bon-brev-prol-s4	5	apparatus:p206-5	p206-5	scripture	apparatus-explicit	Ioan. 16, 13	Ioan 16:13	A	verse		
 bon-brev-prol-s4	5	apparatus:p206-6	p206-6	crossref	logical	II. Sent. d. 15. a. 2. q. 1.	bon-sent-II-d15-a2-q1		chunk		
-bon-brev-prol-s5	5	apparatus:p207-1	p207-1	crossref	relative-bare	ibid.			unresolvable		
+bon-brev-prol-s5	5	apparatus:p207-1	p207-1	crossref	anaphor->logical	ibid.	bon-sent-II-d15-a2-q1		chunk	cross-chunk	bon-brev-prol-s4: II. Sent. d. 15. a. 2. q. 1.
 bon-brev-prol-s5	5	apparatus:p207-1	p207-1	crossref	logical	III. Sent. d. 24. dub. 3	bon-sent-III-d24-dubia		chunk		
 bon-brev-prol-s5	5	apparatus:p207-3	p207-3	scripture	apparatus-explicit	Matth. 24, 35	Matth 24:35	A	verse		
 bon-brev-prol-s5	5	apparatus:p207-3	p207-3	scripture	anaphor->apparatus-explicit	ibid.	Matth 24:35	A	verse	yes	Matth. 24, 35

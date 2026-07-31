@@ -736,9 +736,67 @@ def resolve_anaphora(chunk_rows):
     return unresolved
 
 
+def resolve_anaphora_across_chunks(chunks, per_chunk):
+    """Second pass: an `ibid.` opening a chunk's apparatus can point into the PREVIOUS
+    chunk's footer, because a printed page's footnote register routinely splits across
+    a chunk boundary ("per-page footer splits are the NORM" — repo CLAUDE.md).
+
+    Deliberately narrow, so this reads a recorded fact instead of guessing an order:
+
+      * **Apparatus entries only.** A scholion's or a running body's `ibid.` belongs to
+        a different discourse; the previous chunk's scholion is a different scholion.
+      * **Only when the two chunks SHARE a printed page** — that is what makes them one
+        footnote register rather than two adjacent ones. Chunk order comes from
+        `printed_pages`, which is recorded per chunk, not inferred from ids.
+      * **Marked `cross-chunk`, not `yes`.** A cross-chunk inheritance is a weaker claim
+        than a within-chunk one and must stay separately auditable.
+
+    Measured on the full corpus: of 259 unresolved anaphora, 127 are in apparatus, and
+    94 of those share a page with their predecessor. The other 165 are left alone.
+    """
+    order = {}
+    for c in chunks:
+        if c.pages:
+            order.setdefault(c.volume, []).append(c)
+    for v in order:
+        order[v].sort(key=lambda c: (min(c.pages), c.cid))
+
+    prev_of = {}
+    for lst in order.values():
+        for i in range(1, len(lst)):
+            prev_of[lst[i].cid] = lst[i - 1]
+
+    for c in chunks:
+        prev = prev_of.get(c.cid)
+        if not prev or not (set(c.pages) & set(prev.pages)):
+            continue
+        tail = None
+        for r in reversed(per_chunk.get(prev.cid, [])):
+            if not r["subclass"].startswith("relative-bare") and r["ibid_resolved"] != "cross-chunk":
+                tail = r
+                break
+        if tail is None:
+            continue
+        for r in per_chunk.get(c.cid, []):
+            if r["subclass"] != "relative-bare" or r["ibid_resolved"]:
+                continue
+            if not r["section"].startswith("apparatus:"):
+                continue
+            r["class"] = tail["class"]
+            r["subclass"] = f"anaphor->{tail['subclass'].replace('anaphor->', '')}"
+            r["normalized_target"] = tail["normalized_target"]
+            r["confidence"] = tail["confidence"]
+            r["resolution"] = tail["resolution"]
+            r["ibid_resolved"] = "cross-chunk"
+            r["antecedent"] = f"{prev.cid}: {tail['raw_text'][:48]}"
+
+    return sum(1 for rs in per_chunk.values() for r in rs
+               if r["subclass"] == "relative-bare" and not r["ibid_resolved"])
+
+
 def extract(chunks, cfg, by_locus, by_dist, by_page, by_id):
     rows, qa = [], []
-    unresolved_anaphora = 0
+    per_chunk = {}
     scanners = (scan_scripture_apparatus, scan_scripture_body,
                 scan_sentences, scan_chain_continuation, scan_relative,
                 scan_page, scan_work)
@@ -820,8 +878,11 @@ def extract(chunks, cfg, by_locus, by_dist, by_page, by_id):
                     })
 
         chunk_rows.sort(key=lambda r: r["_order"])
-        unresolved_anaphora += resolve_anaphora(chunk_rows)
+        resolve_anaphora(chunk_rows)
+        per_chunk[c.cid] = chunk_rows
         rows.extend(chunk_rows)
+
+    unresolved_anaphora = resolve_anaphora_across_chunks(chunks, per_chunk)
     return rows, qa, unresolved_anaphora
 
 
@@ -919,8 +980,11 @@ def report(chunks, rows, qa, silent, unresolved_anaphora=0):
         tot = len(cross)
         print("  crossref resolution   : " + "  ".join(
             f"{k}={v} ({v/tot:.0%})" for k, v in res.most_common()))
-    ana = [r for r in rows if r["ibid_resolved"]]
-    print(f"  anaphora resolved     : {len(ana)}  (unresolved: {unresolved_anaphora})")
+    within = sum(1 for r in rows if r["ibid_resolved"] == "yes")
+    cross = sum(1 for r in rows if r["ibid_resolved"] == "cross-chunk")
+    still = sum(1 for r in rows if r["subclass"] == "relative-bare" and not r["ibid_resolved"])
+    print(f"  anaphora resolved     : {within} within-chunk + {cross} cross-chunk"
+          f"  (unresolved: {still})")
     print(f"QA flags                : {len(qa)}")
     print(f"chunks with no citation : {len(silent)}")
 
@@ -942,6 +1006,37 @@ def write_qa(path, chunks, rows, qa, silent, cfg, vols):
             fh.write("| Chunk | Section | Raw | Problem |\n|---|---|---|---|\n")
             for cid, sec, raw, why in sorted(qa):
                 fh.write(f"| `{cid}` | {sec} | `{raw}` | {why} |\n")
+        else:
+            fh.write("_None._\n")
+
+        # NOTE THE ANAPHORA THAT DID NOT RESOLVE — a count is not a defect list.
+        una = [r for r in rows
+               if r["subclass"] == "relative-bare" and not r["ibid_resolved"]]
+        fh.write("\n## Unresolved anaphora (`ibid.` / `loc. cit.` with no antecedent)\n\n")
+        fh.write("An anaphor carries no target of its own, so it is resolved from the "
+                 "printed sequence or not at all. These found nothing to point at.\n\n"
+                 "**Most are a SCOPE boundary, not a parser gap** (checked by hand on a "
+                 "sample): they point at a patristic or philosophical work — `Aug. loc. "
+                 "cit. c. 4. … ibid. c. 5.`, a note on Victorinus citing Porphyry — and "
+                 "this ledger deliberately does not record non-Sentences authority "
+                 "works. There is nothing to inherit because the antecedent was never "
+                 "captured, by design. **They would resolve for free if the deferred "
+                 "authorities index is ever built.** Read the list for the minority that "
+                 "point at scripture or a Sentences locus; those are real parser gaps.\n\n")
+        fh.write("Two classes are deliberately NOT chained across a chunk boundary: an "
+                 "anaphor in a **scholion or running body** (a different discourse from "
+                 "the previous chunk's), and one whose predecessor **shares no printed "
+                 "page** (no common footnote register). Chaining either would be "
+                 "inference, not reading.\n\n")
+        if una:
+            byvol = defaultdict(list)
+            for r in una:
+                byvol[r["volume"]].append(r)
+            fh.write(f"**{len(una)} total** — "
+                     + " · ".join(f"vol {v}: {len(rs)}" for v, rs in sorted(byvol.items()))
+                     + "\n\n| Chunk | Section | Raw |\n|---|---|---|\n")
+            for r in sorted(una, key=lambda r: (r["volume"], r["chunk_id"], r["section"])):
+                fh.write(f"| `{r['chunk_id']}` | {r['section']} | `{r['raw_text']}` |\n")
         else:
             fh.write("_None._\n")
 

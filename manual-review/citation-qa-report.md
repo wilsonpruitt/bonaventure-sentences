@@ -9,6 +9,36 @@ Each line is a citation whose target should exist and does not, or a scripture c
 
 _None._
 
+## Unresolved anaphora (`ibid.` / `loc. cit.` with no antecedent)
+
+An anaphor carries no target of its own, so it is resolved from the printed sequence or not at all. These found nothing to point at.
+
+**Most are a SCOPE boundary, not a parser gap** (checked by hand on a sample): they point at a patristic or philosophical work — `Aug. loc. cit. c. 4. … ibid. c. 5.`, a note on Victorinus citing Porphyry — and this ledger deliberately does not record non-Sentences authority works. There is nothing to inherit because the antecedent was never captured, by design. **They would resolve for free if the deferred authorities index is ever built.** Read the list for the minority that point at scripture or a Sentences locus; those are real parser gaps.
+
+Two classes are deliberately NOT chained across a chunk boundary: an anaphor in a **scholion or running body** (a different discourse from the previous chunk's), and one whose predecessor **shares no printed page** (no common footnote register). Chaining either would be inference, not reading.
+
+**17 total** — vol 1: 15 · vol 5: 2
+
+| Chunk | Section | Raw |
+|---|---|---|
+| `bon-sent-I-d1-a1-q1` | apparatus:13 | `ibid.` |
+| `bon-sent-I-d1-a1-q2` | apparatus:5 | `ibid` |
+| `bon-sent-I-d1-a1-q2` | scholion | `loc. cit.` |
+| `bon-sent-I-d1-littera` | apparatus:6 | `loc. cit.` |
+| `bon-sent-I-d1-littera` | apparatus:6 | `ibid.` |
+| `bon-sent-I-d1-littera` | apparatus:7 | `ibid.` |
+| `bon-sent-I-d10-dubia` | latin_body | `ibid` |
+| `bon-sent-I-d3-p2-a1-q2` | scholion | `ibid` |
+| `bon-sent-I-d4-a1-q4` | scholion | `loc. cit.` |
+| `bon-sent-I-d5-a1-q2` | scholion | `ibid.` |
+| `bon-sent-I-d5-littera` | apparatus:22 | `ibid.` |
+| `bon-sent-I-d5-littera` | latin_body | `ibid` |
+| `bon-sent-I-d6-littera` | apparatus:7 | `ibid` |
+| `bon-sent-I-d8-p2-a1-q1` | scholion | `loc. cit.` |
+| `bon-sent-I-d8-p2-a1-q4` | scholion | `loc. cit.` |
+| `bon-brev-p2-c10` | latin_body | `ibid` |
+| `bon-brev-prol-s6` | latin_body | `ibid` |
+
 ## Chunks contributing no citation record
 
 Expected for short divisio/littera chunks; a quaestio here is worth a look.
