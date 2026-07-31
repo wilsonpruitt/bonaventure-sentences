@@ -485,6 +485,43 @@ KNOWN_TOTALS = {
               # NEGATIVE (p.262's right block ends complete at n.7 "Inferius
               # pro documentorum E mandatorum." and p.263's left block opens
               # NUMBERED with n.1 "Epist. II. Cor. 3, 6:").
+              # CLOSED by bon-brev-p5-c10, which owns nn.7-8. Both forwarded
+              # anchors HELD; ONE forwarded DETAIL did not -- p5-c9's
+              # transcription italicised "verum" in "sicut est summe verum et
+              # bonum in se ipso", and the plate sets it ROMAN (only
+              # "misericors" and "iustum" are italic). Corrected in p5-c10.
+    264: 6,   # band-read in full by p5-c10, which owns ALL SIX. THE PAGE WAS
+              # NEVER IMAGED BEFORE THIS CHUNK -- extracted at 450 dpi and
+              # measured fresh (gutter 1365, band midpoint; the tool's default
+              # 1367 came off a 53 px run and the 45-92% window is UNSAFE on
+              # this leaf because both body columns END at ~66% of page height,
+              # so six lower windows returned 237-457 px blow-outs). NO
+              # capitulum line on the leaf: Cap. X is the only capitulum on it.
+              # Anchors divide 2/4 (nn.1-2 LEFT column on "per sensum verborum"
+              # and "sunt septem", nn.3-6 RIGHT on "cum dicitur: Fiat voluntas
+              # tua", "universaliter", "ut apparebit inferius", "septies in
+              # die") against a 3/3 BLOCK split -- n.3's anchor is on the
+              # SECOND body line of the RIGHT column while its entry prints in
+              # the LEFT block, a one-note overrun of the left block past the
+              # column division. NOTHING IS FORWARDED: Cap. X, and with it
+              # PARS V, closes about 66% down p.264's right column, fixed
+              # POSITIVELY from the full-width "PARS SEXTA. / De medicina
+              # sacramentali." display heading standing at the HEAD of p.265
+              # (which BREAKS the precedent of PARS QUARTA and PARS QUINTA,
+              # both of which opened part-way down a leaf). ALL THREE runover
+              # tests NEGATIVE, each closed from both sides: p.263 -> p.264
+              # (p.263 R block ends complete at n.8 "...omittunt miseriam."
+              # and p.264 L block opens NUMBERED "Cfr. IV. Sent. d. 15."),
+              # p.264's own gutter (L block ends complete at n.3 "D F G M U et
+              # 2 subditur." and R block opens NUMBERED at n.4 "F N utiliter."),
+              # and p.264 -> p.265 (p.264 R block ends complete at n.6 "Psalm.
+              # 118, 164." and p.265 L block opens NUMBERED "Isidor., VI.
+              # Etymolog. c. 19. n. 40."). p.265's register is SIX and is
+              # PARS VI's entire -- it is deliberately NOT entered here; it is
+              # bon-brev-p6-c1's to read and to own. The printer's signature
+              # "S. Bonav. -- Tom. V." and the quire signature "34" both stand
+              # on p.265 (not on p.264); neither is an entry and neither is
+              # counted.
 }
 
 
