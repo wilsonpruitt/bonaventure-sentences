@@ -347,6 +347,18 @@ own mini-pilot) → Sermones.
      upper-page windows failed at 1245–1257 on ~330 px runs while nine body windows agreed
      at 1399–1405). Footer registers and running heads are excluded for the same reason.
      Expect this at **every work and part opening in Vols V–X**.
+     **★★ AND A SECOND, SMALLER FORM THIS RULE DOES NOT NAME — found on p. 263, 2026-07-30
+     (`p5-c9`): AN ORDINARY `Cap. N.` HEADING SET *INSIDE* A COLUMN WRECKS ANY WINDOW THAT
+     LANDS ON IT.** p. 263's `Cap. X.` heading sits ~55 % down the right column — squarely
+     inside the default body band — and the 47–60 % window returned **1349 on a 375 px
+     run** against a true 1195. The heading is only one column wide, so it does not cross
+     the gutter and does not destroy the run outright the way a display heading does; it
+     simply floods one side and drags the apparent centre. **Consequence: the 45–92 % body
+     window is not a safe default on a leaf where a capitulum opens mid-column — which in
+     the Breviloquium is most leaves.** Re-profile over several windows and discard any
+     whose run width blows out; the surviving windows will agree. **A ~375 px run is the
+     same species of nonsense as p. 248's 251 px and p. 252's ~330 px: far ABOVE the sound
+     58–64 px band is as much a failure signal as far below it.**
   3. **★★ A RUN UNDER ~60 px IS SUSPECT EVEN THOUGH THE TOOL ONLY FLAGS UNDER ~15 px
      (added 2026-07-30 — the single most valuable gutter rule learned in Pars IV).** The
      15 px threshold catches loud failures; it does **not** catch the quiet ones, which
