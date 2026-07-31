@@ -39,8 +39,15 @@
 > and deploying are BOTH protected actions and BOTH need Wilson's own explicit per-action OK** —
 > surface the exact commands and wait. ⚠ Never restate live-site or deployed state from this file
 > without a date; it describes a system outside the repo and expires. **`master` is ahead of
-> `origin/master`.** **Whether the Pars IV close was pushed/deployed is NOT recorded here as fact —
-> ask, don't assume.**
+> `origin/master`.**
+>
+> ### ★ WILSON'S STANDING DECISION, 2026-07-30: "wait on deploy until at least V is done."
+> **The Pars IV close was NOT deployed — deliberately, by Wilson's own call, not by oversight.**
+> Pars IV and Pars V ship **together** at the Pars V close (p. 264). **Do NOT re-raise the deploy at
+> any boundary before then, and do NOT record it as an outstanding omission** — it is a deferral.
+> **Push was NOT OK'd either** and is still open as a separate, cheaper action (`git push origin
+> master`) that does not have to wait for the deploy; offer it, don't assume it. ⚠ This line records
+> a DECISION, which does not expire; it does **not** record deployed state, which does.
 >
 > ## ✅ `bon-brev-p5-c1` DONE (2026-07-30) — commit `d5db60c` — **OPENS PARS V**
 > Breviloquium **Pars V, Cap. I, *De gratia, in quantum est donum divinitus datum*** — printed
