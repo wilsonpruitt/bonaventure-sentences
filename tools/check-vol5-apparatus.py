@@ -404,10 +404,16 @@ KNOWN_TOTALS = {
     260: 7,   # band-read in full by p5-c6, which owns nn.1-3. Split by
               # CAPITULUM: the Cap. VI / Cap. VII heading stands about two-thirds
               # down the LEFT column, and nn.1-3 anchor above it (Cap. VI),
-              # nn.4-7 below it and in the right column (Cap. VII, FORWARDED to
-              # p5-c7). Anchors divide 3/4, blocks divide 3/4, and the capitulum
-              # line falls between nn.3 and 4 -- ALL THREE LINES COINCIDE, for
-              # the first time in Pars V. n.3 RUNS OVER the gutter (broken at
+              # nn.4-7 below it (Cap. VII, FORWARDED to p5-c7).
+              # *** CORRECTED by p5-c7 from the band: n.4's ANCHOR is in the
+              # LEFT column (on "orationis dominicae", six lines below the
+              # Cap. VII heading), which p5-c6's own hand-off states. So
+              # anchors divide 4/3, blocks divide 3/4, and the capitulum line
+              # falls between nn.3 and 4 -- THREE LINES, THREE POSITIONS. The
+              # earlier "all three lines coincide, for the first time in
+              # Pars V" claim is WITHDRAWN. nn.5-7 anchor in the RIGHT column
+              # (on "fundamenta", "universalis", "obsequium Christi"), all
+              # three read by p5-c7. n.3 RUNS OVER the gutter (broken at
               # "ubi in textu verba", completed unnumbered at the head of the
               # right block with "Dionysii de raptu in caliginem ..."), and it
               # belongs to p5-c6 because its ANCHOR is Cap. VI's, even though
@@ -415,6 +421,22 @@ KNOWN_TOTALS = {
               # p.259 -> p.260 page-crossing runover is NEGATIVE (p.259's right
               # block ends complete at n.9 "Gal. 5, 22. seq." and p.260's left
               # block opens NUMBERED with n.1).
+    261: 9,   # band-read in full by p5-c7, which owns nn.1-5. Split by
+              # CAPITULUM: the Cap. VII / Cap. VIII heading stands about
+              # one-third down the RIGHT column, and nn.1-5 anchor above it
+              # (Cap. VII), nn.6-9 below it (Cap. VIII, FORWARDED to p5-c8).
+              # Anchors divide 4/5, blocks divide 5/4, and the capitulum line
+              # falls between nn.5 and 6 -- THREE LINES, THREE POSITIONS, the
+              # exact mirror of p.260 (there the capitulum line sits ON the
+              # anchor break; here it sits ON the block break). The dissenting
+              # note is n.5, whose anchor is on Cap. VII's LAST line in the
+              # RIGHT column while its entry prints in the LEFT block -- the
+              # same geometry as p.259 n.5, but this one does NOT run over.
+              # BOTH runover tests NEGATIVE: p.260 -> p.261 (p.260's right
+              # block ends complete at n.7 "plures codd. improbatae)." and
+              # p.261's left block opens NUMBERED with n.1) and p.261's own
+              # gutter (left block ends complete at n.5 "substituit
+              # aedificatione." and the right block opens NUMBERED with n.6).
 }
 
 
