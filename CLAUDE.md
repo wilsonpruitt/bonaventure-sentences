@@ -617,6 +617,27 @@ every "Pass 2 CLEAN" in those gate logs was false for four volumes. Run it along
 `build-content.mjs` in the per-chunk verification step. Passes 1, 3 and 4 stay at the
 gates.
 
+**⚠ `build-citations.py` IS DECOUPLED TOO — run it every commit, on the same argument
+(frozen 2026-07-31, after Pars VI).** It is a script, it is full-corpus, it takes ~16 s,
+and its cost does not depend on batch size. **Report the QA-flag count attributable to
+YOUR chunk separately from the corpus-wide number** — the corpus figure moves for reasons
+that have nothing to do with you, so an undifferentiated total tells you nothing and
+will be quoted forward as if it did.
+
+**Why it belongs at the chunk and not only at the deploy boundary: it is the only check
+in the per-chunk step that can see a defect the plate itself contains.** The apparatus
+check, the census and the style scan all verify that the chunk is internally consistent
+and completely owned; none of them can know that a citation points nowhere. Attested in
+Pars VI: `p6-c7` transcribed p. 272 n. 6 as the plate prints it, `Col. 6, 12` — Colossians
+has four chapters and the sense requires Ephes. 6:12 — and **`build-citations.py` flagged
+it as an out-of-range chapter independently of the agent's own reading**, on the same
+commit. Caught at the deploy boundary instead, it would have arrived thirteen capitula
+late, mixed into a 224-flag corpus total, and attributable to no one.
+
+**It authorises no edit.** A flag is a QA line, not a correction: settle the digits off
+the 450 dpi band, and where the plate is confirmed wrong, transcribe as printed and flag
+`[?]`. Quaracchi is never silently emended.
+
 **Applied to Vol V** (~568 body pages → ~13 gates):
 
 | Work | Printed pp. | Gates |
@@ -793,7 +814,11 @@ python3.11 tools/build-citations.py --volumes 5              # one volume
 python3.11 tools/build-citations.py --sample 50 --seed 7     # hand-verification sample
 ```
 
-Runs before `build-content.mjs` at every deploy boundary (see § "Build and deploy").
+**Run it in the PER-CHUNK verification step, every commit** — not only at the deploy
+boundary — reporting your own chunk's QA flags separately from the corpus total. The
+argument and the Pars VI case that earned it are in § "Polish-gate cadence for Vols V–X"
+under the Pass-2 decoupling rule. It also runs before `build-content.mjs` at every deploy
+boundary (see § "Build and deploy").
 Extending to Vols VI–X = adding the volume to the glob range and to `VOLUME_COMPLETE`
 (which decides whether an unowned printed page is `forward` or `dangling`).
 
