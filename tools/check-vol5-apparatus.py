@@ -1304,6 +1304,62 @@ KNOWN_TOTALS = {
               # NOT "text. 84." as the p7-c4 hand-off transcribed it (glyph at
               # 12x, the raw at L~51882, and Book I of the Physics having only
               # 83 texts, all three agreeing).
+    288: 6,   # band-read in full by p7-c6, which owns ALL SIX -- the four lines
+              # of Cap. VII printed beneath its heading on this leaf carry NO
+              # anchor, so nothing is forwarded from p.288's footer to p7-c7.
+              # Left block nn.1-4 with n.4 STRADDLING the gutter, breaking off
+              # ON A COLON, mid-citation, at "... Soph. 1, 12:" with a blank
+              # tail and no printer's signature; right block opens UNNUMBERED
+              # at "Visitabo super viros defixos in faecibus suis. Cfr. supra
+              # c. 2. -- Superius pro affligendus K L O puniendus ..." then
+              # nn.5-6, ending complete at "Vide supra pag. 180, nota 6. et
+              # pag. 224, nota 8." with a very large blank tail.
+              # Anchors: nn.1-4 LEFT (n.1 "Primo igitur 1", n.2 "in suo
+              # perpetuo 2", n.3 "et partiale 3", n.4 "igne et sulphure
+              # concremetur 4."); nn.5-6 RIGHT (n.5 "aliter comburitur
+              # lignum 5.", n.6 "dictamen rationis rectae 6:").
+              # BLOCK 4/2, ANCHOR 4/2, CAPITULUM 6/0 -- block and anchor
+              # coincide at the gutter while the capitulum boundary falls
+              # BELOW the whole register. On p.287, one leaf back, all three
+              # coincided; nothing was inferred from that and nothing is
+              # inferred from this.
+              # Gutter 1347, settled fresh with no constant, and the DEFAULT'S
+              # PROVENANCE IS REJECTED even though its value is close: colcrop
+              # returns 1348 on a healthy-looking 61 px run, but ELEVEN of
+              # fifteen row windows blow out to 145-413 px and the four sound
+              # survivors spread 11 px (1336/64, 1346/64, 1346/64, 1347/65) --
+              # not a consensus. Step (3) settles it: left column dies at
+              # x=1315, right resumes at x=1380, zero band x=1316-1379 (64 px),
+              # midpoint 1347.5, with a moderately inked and almost exactly
+              # CENTRED rule at x=1345-1350 peaking 166 rows. The band is also
+              # split into four sub-runs by faint speckle, not by the rule.
+              # LESSON: a sound 61 px default run can sit on a leaf whose
+              # windows are in open disorder. Run width alone would not have
+              # caught it; the per-column profile did.
+              # RUNOVERS: p.288's own gutter POSITIVE (logged p.288 n.4:gutter
+              # by p7-c6, closed from both sides). p.287 -> p.288 page-crossing
+              # NEGATIVE, closed from both sides by p7-c6 (p.287's right block
+              # ends complete at n.9 with blank paper and no signature;
+              # p.288's left block opens NUMBERED at "1 B H addunt ratione.").
+              # The p.288 -> p.289 crossing was NOT run and is p7-c7's; its
+              # upper side is done (n.6 ends complete, large blank tail, no
+              # printer's signature -- so quire 37 is NOT on p.288 and is due
+              # on p.289).
+              # NOTE: Cap. VI's close is fixed POSITIVELY from the Cap. VII
+              # heading and its ONE-line "De gloria paradisi." subtitle at
+              # ~60% of p.288's RIGHT column -- never from the index, never
+              # from p.288's running head (which already reads "BREVILOQUII
+              # PARS VII. C. VII." while the whole leaf down to 60% of its
+              # right column is still Cap. VI), never from white space, and
+              # NEVER FROM THE TAIL, which is the doxological "Amen." -- the
+              # most boundary-looking end any unit in this work can have, and
+              # still not evidence.
+              # RAW: p.288's body moderate on the left and WORSE on the right,
+              # printing "divino impeiio ordinanti" for the band's "divino
+              # imperio ordinante," -- and n.5 corroborates the band by
+              # lemmatising "ordinante". Its footer is good on every digit and
+              # wrong on THREE siglum letters in three consecutive notes
+              # ("1!}|" for B H, "U P" for G P, "K I K L 0 P" for E I K L O P).
 }
 
 
