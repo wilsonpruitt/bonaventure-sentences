@@ -14995,8 +14995,8 @@ bon-sent-IV-d24-p1-a2-q1	4	latin_body	6	scripture	body-ordinal	ad Philippenses s
 bon-sent-IV-d24-p1-a2-q1	4	latin_body		scripture	body-ordinal	Lucae vigesimo secundo	Luc 22	C	chapter		
 bon-sent-IV-d24-p1-a2-q1	4	latin_body	7	scripture	body-ordinal	ad Galatas quinto	Gal 5:13	B	verse		
 bon-sent-IV-d24-p1-a2-q1	4	latin_body	2b	scripture	body-ordinal	ad Corinthios duodecimo	Cor* 12:4	B	verse		
-bon-sent-IV-d24-p1-a2-q1	4	scholion		crossref	work	Breviloq. p. VI. c. 12	bon-brev-p6-c12		forward		
-bon-sent-IV-d24-p1-a2-q1	4	scholion		crossref	anaphor->work	loc. cit.	bon-brev-p6-c12		forward	yes	Breviloq. p. VI. c. 12
+bon-sent-IV-d24-p1-a2-q1	4	scholion		crossref	work	Breviloq. p. VI. c. 12	bon-brev-p6-c12		chunk		
+bon-sent-IV-d24-p1-a2-q1	4	scholion		crossref	anaphor->work	loc. cit.	bon-brev-p6-c12		chunk	yes	Breviloq. p. VI. c. 12
 bon-sent-IV-d24-p1-a2-q1	4	apparatus:1	1	scripture	apparatus-explicit	Rom. 12, 4	Rom 12:4	A	verse		
 bon-sent-IV-d24-p1-a2-q1	4	apparatus:2	2	scripture	apparatus-explicit	Hebr. 8, 5	Hebr 8:5	A	verse		
 bon-sent-IV-d24-p1-a2-q1	4	apparatus:2	2	scripture	apparatus-explicit	Hebr. 9, 23	Hebr 9:23	A	verse		
@@ -19081,6 +19081,19 @@ bon-brev-p6-c1	5	apparatus:p265-6	p265-6	authority	authority:Magister	IV. Sent. 
 bon-brev-p6-c10	5	apparatus:p275-6	p275-6	crossref	logical	IV. Sent. d. 14	IV:d14		distinctio		
 bon-brev-p6-c10	5	apparatus:p276-3	p276-3	crossref	logical	IV. Sent. d. 14. p. 1. dub. 4	bon-sent-IV-d14-p1-dubia		chunk		
 bon-brev-p6-c10	5	apparatus:p276-5	p276-5	crossref	page	tom. IV. pag. 486, nota 5	bon-sent-IV-d18-p2-a1-q1+bon-sent-IV-d18-p2-a1-q2		page-multi		
+bon-brev-p6-c11	5	apparatus:p276-6	p276-6	crossref	logical	IV. Sent. d. 23.	IV:d23		distinctio		
+bon-brev-p6-c11	5	apparatus:p277-1	p277-1	scripture	apparatus-explicit	I. Tim. 2, 5	1Tim 2:5	A	verse		
+bon-brev-p6-c11	5	apparatus:p277-1	p277-1	scripture	apparatus-explicit	Matth. 1, 21	Matth 1:21	A	verse		
+bon-brev-p6-c11	5	apparatus:p277-1	p277-1	scripture	apparatus-explicit	Hebr. 1, 9	Hebr 1:9	A	verse		
+bon-brev-p6-c11	5	apparatus:p277-4	p277-4	crossref	page	supra pag. 273, nota 4	bon-brev-p6-c8+bon-brev-p6-c9		page-multi		
+bon-brev-p6-c12	5	apparatus:p277-7	p277-7	crossref	logical	IV. Sent. d. 24.	IV:d24		distinctio		
+bon-brev-p6-c12	5	apparatus:p278-1	p278-1	scripture	apparatus-explicit	Psalm. 15, 5	Ps 15:5	A	verse		
+bon-brev-p6-c12	5	apparatus:p278-1	p278-1	crossref	page	tom. IV. pag. 631, nota 1	bon-sent-IV-d24-p2-a2-q1+bon-sent-IV-d24-p2-a2-q2		page-multi		
+bon-brev-p6-c12	5	apparatus:p278-2	p278-2	scripture	apparatus-explicit	III. Reg. 10, 18	3Reg 10:18	A	verse		
+bon-brev-p6-c12	5	apparatus:p278-2	p278-2	crossref	logical	I. Sent. d. 2. q. 4.	bon-sent-I-d2-a1-q4		chunk		
+bon-brev-p6-c12	5	apparatus:p278-3	p278-3	crossref	page	supra pag. 225, nota 6	bon-brev-p2-c7+bon-brev-p2-c8		page-multi		
+bon-brev-p6-c12	5	apparatus:p278-3	p278-3	crossref	page	pag. 195, nota 7	tom5:p195		forward		
+bon-brev-p6-c12	5	apparatus:p279-1	p279-1	crossref	page	tom. IV. pag. 643, nota 1	bon-sent-IV-d25-a1-q1		chunk		
 bon-brev-p6-c2	5	apparatus:p266-2	p266-2	crossref	logical	IV. Sent. d. 1. p. II.	IV:d1		distinctio		
 bon-brev-p6-c2	5	apparatus:p266-2	p266-2	crossref	chain-continuation	d. 2. a. 1. q. 1.	bon-sent-IV-d2-a1-q1		chunk		
 bon-brev-p6-c2	5	apparatus:p266-3	p266-3	crossref	page	tom. IV. pag. 50	bon-sent-IV-d2-a1-q1+bon-sent-IV-d2-a1-q2		page-multi		

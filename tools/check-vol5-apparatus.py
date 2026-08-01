@@ -955,6 +955,63 @@ KNOWN_TOTALS = {
               # opposite shape from the p.275 -> p.276 paragraph-boundary
               # crossing one leaf earlier. Neither shape is evidence about
               # where a capitulum ends; only the next Cap. N. heading is.
+    278: 5,   # band-read in full by p6-c12, which owns ALL FIVE -- the leaf lies
+              # wholly inside Cap. XII. Anchors: n.1 "Dominus pars hereditatis
+              # meae 1 etc." in the LEFT column; nn.2-5 in the RIGHT
+              # ("ad thronum Salomonis 2;", "purgandi et illuminandi 3;",
+              # "ordines ordinarie dispensare 4.", "in ecclesiastica
+              # hierarchia 5."). BLOCK 2.5/3.5, ANCHORS 1/4, NO capitulum split
+              # -- a tenth distinct arrangement in Pars VI, and the first whose
+              # LEFT block opens with an INHERITED continuation (p.277 n.7's).
+              # Gutter 1351, settled fresh with no constant: the default gave
+              # 1350 on a 56 px run (below the 58-64 px trust band), thirteen
+              # row windows agreed 1345-1352 on runs of 59-63 px with no fork
+              # and no blow-out, and the ink profile put the zero band at
+              # x=1323-1380 with Quaracchi's printed column rule inside it at
+              # x=1348-1355 peaking 1062 rows -- band midpoint 1351.5, rule
+              # centre 1351.5. The rule sits dead square and is simply inked
+              # hard, which pinches the run without moving the centre.
+              # RUNOVERS: the p.277 -> p.278 page crossing is POSITIVE and is
+              # logged by p6-c12 as `p.277 n.7:page` (p.277's right block ends
+              # INCOMPLETE at "cfr. IV. Sent. d. 24." and p.278's left block
+              # opens UNNUMBERED at "et 25. -- P hic et infra ordinando");
+              # p.278's own gutter is POSITIVE and is logged as
+              # `p.278 n.2:gutter` (n.2 breaks off at "habebat sex gradus etc.
+              # -- De perfectione" and the right block opens UNNUMBERED at
+              # "numeri senarii cfr. I. Sent. d. 2. q. 4. scholion."); the
+              # p.278 -> p.279 crossing is NEGATIVE. p6-c13 MUST NOT re-log any
+              # of these.
+              # NOTE: the leaf's BODY crosses this gutter at a CLEAN PARAGRAPH
+              # BREAK while its FOOTER straddles -- block, column and capitulum
+              # structure remain three independent things.
+    279: 7,   # band-read in full by p6-c12, which owns n.1 ONLY; nn.2-7 anchor
+              # in Cap. XIII and belong to p6-c13 (legitimately PENDING, not a
+              # gap). n.1 anchors on "et dedicatio ecclesiarum 1;" in the LEFT
+              # column, in Cap. XII's closing period; n.2 on "individuam vitae
+              # consuetudinem retinens 2 »." in Cap. XIII's Thesis 1, also LEFT
+              # but BELOW the Cap. XIII heading; nn.3 LEFT, nn.4-7 RIGHT.
+              # BLOCK 3/4, ANCHORS 3/4, CAPITULUM 1/6 -- an eleventh distinct
+              # arrangement in seventeen leaves of Pars VI.
+              # Gutter 1191, settled fresh with no constant: the default gave
+              # 1191 on a 51 px run, one blow-out discarded (15-35% -> 1151 on
+              # a 138 px run), the surviving windows drifting 1188->1197, and
+              # the ink profile put the zero band at x=1166-1216 with the
+              # printed column rule OFF CENTRE inside it at x=1189-1199 peaking
+              # 747 rows (band midpoint 1191, rule centre 1194). The body-band
+              # midpoint decides: 1191. The windows reading 1195-1197 are
+              # reading the rule, not the gutter.
+              # RUNOVER: p.279's own gutter is POSITIVE and is logged by p6-c12
+              # as `p.279 n.3:gutter` (n.3 breaks off at "(praeter impedimentum
+              # aetatis, quod includitur secundum" and the right block opens
+              # UNNUMBERED with the last two impediment verses). The straddling
+              # note is Cap. XIII's, but the LEAF's gutter test is run by the
+              # chunk that first reaches the leaf -- as p6-c10 did for p.276.
+              # p6-c13 MUST NOT re-log it; it owes the p.279 -> p.280 test and
+              # p.280's own gutter test.
+              # NOTE: Cap. XII's close is fixed POSITIVELY from the Cap. XIII
+              # heading in p.279's LEFT column, ~50% down. The running head
+              # reads "PARS VI. C. XIII." while 43% of the left column is still
+              # Cap. XII.
 }
 
 
