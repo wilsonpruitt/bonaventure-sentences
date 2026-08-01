@@ -4,9 +4,10 @@
 > ## ✅✅✅ **THE BREVILOQUIUM IS COMPLETE — printed pp. 201–291, prologue + Partes I–VII, 79 chunks, closed 2026-08-01 by `bon-brev-p7-c7` (commit `9825164`).**
 > ## ✅ **PARS VII IS COMPLETE** — capp. I–VII all Tier 2, work- and pars-level closure check PASSED. See § "THE FRONT" below for the full check, the span map and the terminus.
 > ## ★★ THE WORK'S END IS FIXED POSITIVELY from the full-width centred colophon **`EXPLICIT BREVILOQUIUM FRATRIS BONAVENTURAE.`** printed across both columns beneath p. 291's body — with **p. 292 verified BLANK** and **p. 293 carrying the *Itinerarium*'s display half-title**.
-> ## ⛔ NEXT SESSION = **NOT A CHUNK.** Three held things now fall due together at p. 291: the **DEPLOY** (protected, Wilson's per-action OK), the **PUSH** (protected, Wilson's per-action OK) and the **~100-page POLISH GATE** (passes 1, 3 and 4; pass 2 and `build-citations.py` have been running every commit and are clean). **After the gate: the *Itinerarium mentis in Deum*, pp. 293–316, slug `itinerarium`, book id 6 — and per the frozen genre-boundary rule it earns its OWN MINI-PILOT before any grind.**
+> ## ✅✅✅ **THE WORK-CLOSE POLISH GATE IS CLOSED — ALL FOUR PASSES, 2026-08-01.** Pass 1 (three `[?]` flags, all resolved at 600 dpi: reading certain, plate wrong, none emended) · pass 2 + `build-citations.py` (decoupled, ran every commit, clean) · **pass 3 (cross-chunk boundary integrity, 68 boundaries over pp. 201–291, ZERO corpus defects)** · pass 4 (disk cleanup, ~3.7 GB reclaimed). **✅ PUSHED 2026-08-01 with Wilson's OK.** ⛔ **THE DEPLOY IS STILL OWED AND STILL HELD** — Wilson OK'd the push and the cleanup but explicitly **NOT the deploy** (2026-08-01). It needs its own per-action OK.
+> ## ⛔ NEXT SESSION = **NOT A CHUNK.** The gate is done and the push is done. What remains at p. 291 is **the DEPLOY alone** (protected). **After it: the *Itinerarium mentis in Deum*, pp. 293–316, slug `itinerarium`, book id 6 — and per the frozen genre-boundary rule it earns its OWN MINI-PILOT before any grind.**
 >
-> ## ⛔⛔ **THE DEPLOY AND THE PUSH WERE HELD UNTIL THE BREVILOQUIUM CLOSED AT p. 291 — WILSON'S DECISION, 2026-08-01. IT HAS NOW CLOSED, SO BOTH ARE RIPE AND BOTH STILL NEED HIS EXPLICIT PER-ACTION OK.**
+> ## ⛔⛔ **THE DEPLOY AND THE PUSH WERE HELD UNTIL THE BREVILOQUIUM CLOSED AT p. 291 — WILSON'S DECISION, 2026-08-01. THE PUSH HAS SINCE BEEN MADE; THE DEPLOY HAS NOT AND STILL NEEDS HIS EXPLICIT PER-ACTION OK.**
 > The hold superseded the per-pars deploy trigger **FOR THAT WORK ONLY**. Consequences, all intended:
 > - **Pars VI and Pars VII ship TOGETHER**, along with the citation index and the two corpus corrections.
 > - **p. 291 is BOTH the deploy boundary AND the ~100-page polish gate.** They coincide there and nowhere
@@ -2005,18 +2006,74 @@
 >    ⚠ The ~97 MB archive has died once at 100 % before; **the remedy is to RETRY THE DEPLOY, never to
 >    rebuild.** ⚠ **A missing index FAILS THE BUILD on purpose** (`cited-by.tsx` throws) — run both index
 >    steps, in that order.
-> 2. **⛔ THE PUSH — PROTECTED, WILSON'S CALL.** `git push origin master`. Held since 2026-08-01 alongside
->    the deploy. Cheap and separate from the deploy; still its own per-action OK.
-> 3. **▶ THE ~100-PAGE POLISH GATE — not protected, but a separate three-pass sweep, NOT part of any chunk.**
+> 2. **✅ THE PUSH — DONE 2026-08-01 with Wilson's explicit OK.** `git push origin master`. Wilson OK'd the
+>    push and the disk cleanup in the same turn and **explicitly withheld the deploy.** Do not read the push
+>    as licence for it.
+> 3. **✅ THE ~100-PAGE POLISH GATE — CLOSED 2026-08-01, ALL FOUR PASSES. Nothing owed here.**
 >    p. 291 is **both** the deploy boundary and the polish gate; they coincide here and nowhere else in this
->    work. **Pass 2 (`polish-style-scan.py --volume 5`) has been running every commit and is CLEAN**, and
->    `build-citations.py` likewise; **passes 1, 3 and 4 are what is owed:**
->    - **Pass 1 — `[?]` flag resolution.** Its whole docket for the Breviloquium is **three flags**, listed
->      below. Resolve each at 600 dpi (`pdftoppm -r 600 -f PDF -l PDF -png raw/doctorisseraphic05bona.pdf
->      raw/vision/vol5/p-hires-PRINTED-r600`, PDF = printed + 76) or formally ACCEPT-ILLEGIBLE with a reason.
->    - **Pass 3 — cross-chunk boundary integrity sweep** over the ~100 printed pages the gate covers. Nearly
->      every Breviloquium chunk boundary falls inside a printed page, so this is the expensive pass.
->    - **Pass 4 — disk cleanup**, last: `rm -f raw/vision/vol5/*.png /tmp/colcrop/*`. All regenerable.
+>    work.
+>    - **✅ Pass 1 — `[?]` flag resolution.** All three standing flags resolved at 600 dpi;
+>      log `manual-review/vol5-workclose-gate-pass1.md`. **All three resolve the same way — the reading is
+>      CERTAIN and the text is WRONG.** None accepted-illegible, none emended.
+>    - **✅ Pass 2 + `build-citations.py`** — decoupled, ran every commit, clean.
+>    - **✅ Pass 3 — cross-chunk boundary integrity, COMPLETE over pp. 201–291.** Seven logs,
+>      `manual-review/vol5-workclose-gate-pass3-{prol-p1,p2,p3,p4,p5,p6,p7}.md`, one per pars, each
+>      re-deriving its counts rather than quoting the prior agent. **68 boundaries — 57 mid-page, 11 leaf
+>      crossings — ZERO corpus defects.** Every finding in the whole gate was a wrong COMMENT or a rejected
+>      MEASUREMENT; not one was a wrong text.
+>    - **✅ Pass 4 — disk cleanup done.** `raw/vision/vol5/*.png` + `/tmp/colcrop/*` deleted, **~3.7 GB
+>      reclaimed** (the colcrop bands alone were 3.4 GB). All regenerable from the gitignored PDF.
+>
+>    ### ★★ WHAT PASS 3 ESTABLISHED THAT NO PRIOR PASS COULD
+>    - **The terminus is fixed on the plate, not on a note.** p. 291's end read off the colophon band;
+>      **p. 292 MEASURED blank (1,942 ink px, 0.0002 of the leaf)**; p. 293 = *Itinerarium* half-title.
+>      p. 291's right block opens numbered ⁵ and closes complete at n. 8 — **NOTHING IS FORWARDED PAST THE
+>      WORK'S END**, the one defect class that would have had nowhere to go.
+>    - **★★ A NEW GUTTER RULE, EARNED THREE TIMES — PROMOTE IT TO CLAUDE.md § VOL V rule 3:**
+>      **WINDOW CONSENSUS IS NOT INDEPENDENT EVIDENCE WHEN THE WINDOWS SHARE A CORRUPTED RUN.** p. 260 had
+>      **six** windows agree on 1386 — all six sitting on the same 20 px run; true 1397. It then reproduced
+>      twice in Pars VII: p. 284 (seven agreeing windows, 21 px run) and p. 291 (seven, 45 px run). The
+>      existing rule says a narrow run is *suspect*; it does not say that agreement cannot rescue one.
+>      **It cannot. Gate the consensus on the run width, never the reverse.**
+>    - **`seam-screen.py` IS STRUCTURALLY BLIND TO LEAF CROSSINGS** — it sees only the 57 mid-page
+>      boundaries. The 11 leaf crossings are precisely where a forwarded note goes missing, and they exist
+>      in the denominator only because pass 3 counted them by hand. **Every future gate must count them
+>      separately; do not let the tool define the boundary set.**
+>    - **Boundary shape is NOT predictable from pars to pars** — Pars IV has 11 mid-page and **zero** leaf
+>      crossings (even both pars transitions fall inside a page); Pars VI is the mirror, entire interior
+>      mid-page with **both** ends at leaf edges; Pars III has 3 crossings. Infer nothing from the last pars.
+>    - **`p2-c4` re-derived as WHOLE** — the chunk that was once written short by a paragraph and two
+>      apparatus entries on the "blank space at a column foot" inference. Its tail now matches the raw
+>      immediately above the `Cap. V` heading.
+>    - **The p. 260 4/3-vs-3/4 dispute is SETTLED: the plate supports 4/3.** Anchor ⁴ sits on
+>      *petitiones orationis dominicae⁴*, visibly in the LEFT column. `p5-c6`'s prose summary was wrong and
+>      the corrected `KNOWN_TOTALS` comment is right — **the per-note-data-wins rule holding exactly as
+>      written**. The first Pars V leaf where all three lines genuinely coincide is **p. 262**.
+>    - **The two pass-1 flags survived their forwarding intact.** p. 271 n. 2 and p. 272 n. 6 are each
+>      defined **exactly once**, anchored at the word each lemma quotes, and carried downstream through four
+>      and six chunks as `## Notes` prose only. **No double-logging** — the specific risk of a flag forwarded
+>      that far.
+>    - **Max divergence between freshly measured gutters and the splits the chunks were actually built on,
+>      across all seven parts: 5 px.** No column was ever truncated anywhere in the work.
+>
+>    ### ▶ OPEN, LOW-PRIORITY: FIVE DOCUMENTATION `[?]`s RAISED BY PASS 3 — none affects corpus text
+>    Jobs, not a blob. Each is a comment that points the wrong way, not a reading.
+>    1. **`check-vol5-apparatus.py`'s p. 239 comment** (and CLAUDE.md's page list) calls p. 239 a "one-note
+>       OVERRUN"; the band shows blocks 4|5 against column anchors 6|3 — a two-note **UNDER**-run, same shape
+>       as pp. 234/237. The comment's own per-note data is right; only the label is inverted.
+>    2. **`KNOWN_TOTALS`'s p. 252 comment** says the p.252→p.253 crossing test "is NOT run — p.253 is not
+>       imaged." It **is** imaged, the test **was** run, and it closes NEGATIVE. Stale.
+>    3. **p. 288's `Cap. VII.` heading** is recorded in three places as standing at "~60 %" of the right
+>       column with four lines beneath; it stands at **~82 %** with **five**. Ownership unaffected.
+>       Also: `p7-c7`'s claim that "all sixteen windows failed" on p. 290 **does not reproduce** — 11 of 16
+>       are sound and the value 1365 is confirmed.
+>    4. **Anchor-COLUMN generalisations in `KNOWN_TOTALS`** for pp. 245/246/250/271, and the pp. 244/245
+>       "mirrors" + p. 247 "boundary inside the right block" claims, were **deliberately NOT re-derived** by
+>       the Pars IV and Pars VI agents, who recorded that fact so their silence would not read as
+>       endorsement. **Neither confirmed nor contradicted — treat as unverified, not as true.**
+>    5. **Provenance-only:** `p2-c5`/`c6`/`c7`/`c8` cite raw line ranges that do not bracket their own
+>       bodies (`c5`'s end is 117 lines short of its tail). **Bodies verified complete phrase-by-phrase** —
+>       the frontmatter strings are wrong, the text is not.
 >
 > ### ⚠ THE THREE `[?]` FLAGS — STILL THREE, NONE NEW. `p7-c7` RAISED NONE.
 > 1. **UNRESOLVED — p. 271 n. 2's `E F G H minus, aptae`** (owned by `bon-brev-p6-c6`).
