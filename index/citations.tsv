@@ -19195,6 +19195,16 @@ bon-brev-p6-c9	5	apparatus:p274-5	p274-5	scripture	apparatus-explicit	Tit. 2, 14
 bon-brev-p6-c9	5	apparatus:p274-6	p274-6	scripture	apparatus-explicit	Ioan. 6, 69	Ioan 6:69	A	verse		
 bon-brev-p6-c9	5	apparatus:p275-2	p275-2	crossref	logical	IV. Sent. d. 9. a. 1. q. 2.	bon-sent-IV-d9-a1-q2		chunk		
 bon-brev-p6-c9	5	apparatus:p275-3	p275-3	scripture	apparatus-explicit	I. Cor. 11, 29	1Cor 11:29	A	verse		
+bon-brev-p7-c1	5	apparatus:p281-1	p281-1	scripture	apparatus-explicit	Matth. 16, 27	Matth 16:27	A	verse		
+bon-brev-p7-c1	5	apparatus:p281-1	p281-1	scripture	apparatus-explicit	Apoc. 22, 12	Apoc 22:12	A	verse		
+bon-brev-p7-c1	5	apparatus:p281-1	p281-1	scripture	anaphor->apparatus-explicit	ibid.	Apoc 22:12	A	verse	yes	Apoc. 22, 12
+bon-brev-p7-c1	5	apparatus:p281-2	p281-2	crossref	page	tom. IV. pag. 987, nota 6	bon-sent-IV-d48-a1-q3		chunk		
+bon-brev-p7-c1	5	apparatus:p281-2	p281-2	crossref	logical	IV. Sent. d. 43. a. 2.	bon-sent-IV-d43-a2-q1+bon-sent-IV-d43-a2-q2+bon-sent-IV-d43-a2-q3		articulus		
+bon-brev-p7-c1	5	apparatus:p281-2	p281-2	crossref	chain-continuation	d. 48	IV:d48		distinctio		
+bon-brev-p7-c1	5	apparatus:p281-4	p281-4	crossref	page	supra pag. 218, nota 5	bon-brev-p1-c9		chunk		
+bon-brev-p7-c1	5	apparatus:p281-5	p281-5	scripture	apparatus-explicit	II. Cor. 5, 10	2Cor 5:10	A	verse		
+bon-brev-p7-c1	5	apparatus:p282-2	p282-2	scripture	apparatus-explicit	I. Cor. 13, 12	1Cor 13:12	A	verse		
+bon-brev-p7-c1	5	apparatus:p282-2	p282-2	scripture	apparatus-explicit	Ioan. 5, 22	Ioan 5:22	A	verse		
 bon-brev-prol-s1	5	apparatus:p203-1	p203-1	crossref	anaphor->work	ibid.	work:scientia-christi		work	cross-chunk	bon-brev-prol: Quaest. de scientia Christi
 bon-brev-prol-s1	5	apparatus:p203-1	p203-1	crossref	anaphor->work	loc. cit.	work:scientia-christi		work	cross-chunk	bon-brev-prol: Quaest. de scientia Christi
 bon-brev-prol-s1	5	apparatus:p203-2	p203-2	crossref	logical	III. Sent. d. 23. a. 1. q. 1.	bon-sent-III-d23-a1-q1		chunk		

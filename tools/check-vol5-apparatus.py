@@ -1048,6 +1048,66 @@ KNOWN_TOTALS = {
               # POSITIVELY from the full-width PARS SEPTIMA display heading and
               # its "De statu finalis iudicii" subtitle at the head of p.281,
               # never from p.280's very large blank tail.
+    281: 5,   # band-read in full by p7-c1, which owns ALL FIVE -- the leaf lies
+              # wholly inside Cap. I, the first capitulum of PARS VII.
+              # BLOCK 3/2 (left nn.1-3, right n.3's UNNUMBERED continuation then
+              # nn.4-5), ANCHORS 3/2 (nn.1-3 LEFT, nn.4-5 RIGHT), CAPITULUM 5/0.
+              # Block and anchor coincide here; on p.280 they did not, and no
+              # inference is drawn from the coincidence.
+              # Gutter 1231, RE-MEASURED with no constant. The default gave 1230
+              # on a 55 px run, below the trust band, and this leaf is the
+              # structurally unsafe kind the frozen rule names: the full-width
+              # PARS SEPTIMA display heading CROSSES THE GUTTER and blows out
+              # every window above 30% (5-25% -> 1315/347 px, 15-35% -> 1328/351,
+              # 20-40% -> 1210/115). Nine windows confined to body rows 30-90%
+              # agree 1227-1236 on runs of 60-63 px, and the body-rows ink
+              # profile puts the zero band at x=1206-1258 with the printed column
+              # rule inside it at x=1227-1239 peaking 658 rows -- band midpoint
+              # 1231, rule centre 1233 -- stable across noise floors 1, 2 and 3.
+              # RUNOVER: p.281's own gutter is POSITIVE and is logged by p7-c1 as
+              # `p.281 n.3:gutter` (n.3 breaks off at "Cfr. su-"; the right block
+              # opens UNNUMBERED at "pra p. II. c. 9. et 12."). NOTE that the
+              # printer's signature "S. Bonav. -- Tom. V." sits directly beneath
+              # that "Cfr. su-", so the test could NOT be closed from the upper
+              # side and had to be closed from p.281's right block.
+              # p.281 -> p.282 page-crossing NEGATIVE (p.281's right block ends
+              # complete at "Vat., 1 et 3 boni." with quire 36 beneath it; p.282's
+              # left block opens NUMBERED).
+    282: 7,   # band-read in full by p7-c1, which owns nn.1-2 ONLY; nn.3-7 anchor
+              # in Cap. II and are p7-c2's. n.1 anchors on "ut vult Augustinus 1,"
+              # and n.2 on "facie ad faciem 2" -- BOTH in the LEFT column, inside
+              # Cap. I. n.3 anchors on "suffragia ecclesiastica 3." ALSO in the
+              # LEFT column, but inside Cap. II.
+              # BLOCK 4/3 (left nn.1-4, right n.4's UNNUMBERED continuation then
+              # nn.5-7), CAPITULUM 2/5 -- the capitulum boundary falls INSIDE the
+              # left footer block AND inside the left column, three notes above
+              # the block break. Three independent structures, none cutting where
+              # another does.
+              # Gutter 1357, settled fresh with no constant. The default gave
+              # 1361 on a 56 px run; fourteen windows drift monotonically
+              # 1345 -> 1364 on 51-64 px runs (the signature of an OFF-CENTRE
+              # column rule), and the body-rows ink profile puts the zero band at
+              # x=1333-1382 with the rule at x=1349-1367 peaking 461 rows --
+              # band midpoint 1357, rule centre 1358.
+              # RUNOVER: p.282's own gutter is POSITIVE and is logged by p7-c1 as
+              # `p.282 n.4:gutter` (n.4 breaks off at "De hoc cap. vide IV. Sent.
+              # d. 20. p. I. per totam. --"; the right block opens UNNUMBERED at
+              # "Pro quibus sufficienter purgatis P ..."). THE STRADDLING NOTE IS
+              # NOT p7-c1's -- it is p7-c2's -- but the test is logged by p7-c1
+              # under the standing rule that a leaf's gutter test belongs to the
+              # chunk that FIRST reaches the leaf, exactly as p6-c12 logged
+              # `p.279 n.3:gutter` for a note p6-c13 owned. p7-c2 MUST NOT re-log
+              # it and MUST render n.4 joined.
+              # p.282 -> p.283 page-crossing NEGATIVE, closed from both sides by
+              # p7-c1 (p.282's right block ends complete at "B Q et 2 lenius."
+              # with blank paper; p.283's left block opens NUMBERED at
+              # "I L O alium, quam sit eorum."). p7-c2 need not re-run it.
+              # NOTE: Cap. I's close is fixed POSITIVELY from the Cap. II heading
+              # and its TWO-line "De antecedentibus ad iudicium, cuiusmodi est
+              # poena purgatoria" subtitle at ~40% of p.282's LEFT column --
+              # never from the index, never from p.282's running head (which
+              # already reads "BREVILOQUII PARS VII. C. II." while 40% of the
+              # leaf is still Cap. I), never from white space.
 }
 
 
