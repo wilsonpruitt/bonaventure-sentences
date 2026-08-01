@@ -1012,6 +1012,42 @@ KNOWN_TOTALS = {
               # heading in p.279's LEFT column, ~50% down. The running head
               # reads "PARS VI. C. XIII." while 43% of the left column is still
               # Cap. XII.
+    280: 6,   # band-read in full by p6-c13, which owns ALL SIX -- the leaf lies
+              # wholly inside Cap. XIII and PARS VI CLOSES HERE with its last
+              # register complete and NOTHING forwarded.
+              # BLOCK 2/4 (left nn.1-2, right nn.3-6, the right block opening
+              # NUMBERED), ANCHORS 3/3 (nn.1-3 LEFT, nn.4-6 RIGHT), CAPITULUM
+              # 6/0 -- a twelfth distinct arrangement in eighteen leaves of
+              # Pars VI, and still block and anchor disagree by one note.
+              # Gutter 1331, settled fresh with no constant. The default gave
+              # 1328 on a 30 px run -- HALF the trust band -- because Cap. XIII's
+              # body ENDS at row 2415/3823 (63.2%), the leaf is bare from 63% to
+              # 80%, and the footer register sits at 80-89%: the tool's default
+              # 45-92% window therefore straddles three regions with three
+              # different ink geometries. Nine windows confined to rows 10-65%
+              # agree 1330-1331 on runs of 61-64 px (the tightest agreement in
+              # the quire), and the body-rows (12-62%) ink profile puts the zero
+              # band at x=1301-1361 with the printed column rule inside it at
+              # x=1328-1334 peaking 1622 rows -- band midpoint 1331 and rule
+              # centre 1331 coinciding exactly. A NEW member of the "body window
+              # is not safe" family: A UNIT'S EARLY END, with the blank tail and
+              # the footer both inside the default window. Expect it at every
+              # pars and work boundary in Vols V-X.
+              # RUNOVERS: p.279 -> p.280 page-crossing NEGATIVE (p.279's right
+              # block ends complete at "in corp." with blank paper; p.280's left
+              # block opens NUMBERED). p.280's own gutter NEGATIVE (left block
+              # ends complete at "ponit communis."; right block opens NUMBERED).
+              # p.280 -> p.281 PARS-BOUNDARY test NEGATIVE (p.281's left block
+              # opens NUMBERED; p.281's right block opens unnumbered with the
+              # continuation of p.281's OWN n.3, "Cfr. su-" / "pra p. II. c. 9.
+              # et 12."). Nothing crosses the pars boundary.
+              # [?] p.280 n.6 ends "homo non separe" -- no final t, no period,
+              # and the far-side test proves it is NOT a runover. Plate defect,
+              # transcribed as printed and flagged.
+              # NOTE: Cap. XIII's close -- and the close of PARS VI -- is fixed
+              # POSITIVELY from the full-width PARS SEPTIMA display heading and
+              # its "De statu finalis iudicii" subtitle at the head of p.281,
+              # never from p.280's very large blank tail.
 }
 
 

@@ -15310,8 +15310,8 @@ bon-sent-IV-d26-a1-q1	4	scholion		crossref	relative-inherited	ibid.	bon-sent-IV-
 bon-sent-IV-d26-a1-q1	4	scholion		crossref	chain-continuation	d. 32	IV:d32		distinctio		
 bon-sent-IV-d26-a1-q1	4	scholion		crossref	chain-continuation	d. 33. a. 1.	bon-sent-IV-d33-a1-q1+bon-sent-IV-d33-a1-q2+bon-sent-IV-d33-a1-q3		articulus		
 bon-sent-IV-d26-a1-q1	4	scholion		crossref	chain-continuation	d. 34	IV:d34		distinctio		
-bon-sent-IV-d26-a1-q1	4	scholion		crossref	work	Breviloq. p. VI. c. 13.	bon-brev-p6-c13		forward		
-bon-sent-IV-d26-a1-q1	4	scholion		crossref	anaphor->work	loc. cit.	bon-brev-p6-c13		forward	yes	Breviloq. p. VI. c. 13.
+bon-sent-IV-d26-a1-q1	4	scholion		crossref	work	Breviloq. p. VI. c. 13.	bon-brev-p6-c13		chunk		
+bon-sent-IV-d26-a1-q1	4	scholion		crossref	anaphor->work	loc. cit.	bon-brev-p6-c13		chunk	yes	Breviloq. p. VI. c. 13.
 bon-sent-IV-d26-a1-q1	4	apparatus:p661-4	p661-4	scripture	apparatus-explicit	Gen. 1, 27	Gen 1:27	A	verse		
 bon-sent-IV-d26-a1-q1	4	apparatus:p661-4	p661-4	scripture	apparatus-explicit	Gen. 2, 24	Gen 2:24	A	verse		
 bon-sent-IV-d26-a1-q1	4	apparatus:p662-1	p662-1	crossref	page	supra pag. 436, nota 2	bon-sent-IV-d17-p2-a1-q1		chunk		
@@ -19094,6 +19094,22 @@ bon-brev-p6-c12	5	apparatus:p278-2	p278-2	crossref	logical	I. Sent. d. 2. q. 4.	
 bon-brev-p6-c12	5	apparatus:p278-3	p278-3	crossref	page	supra pag. 225, nota 6	bon-brev-p2-c7+bon-brev-p2-c8		page-multi		
 bon-brev-p6-c12	5	apparatus:p278-3	p278-3	crossref	page	pag. 195, nota 7	tom5:p195		forward		
 bon-brev-p6-c12	5	apparatus:p279-1	p279-1	crossref	page	tom. IV. pag. 643, nota 1	bon-sent-IV-d25-a1-q1		chunk		
+bon-brev-p6-c13	5	apparatus:p279-2	p279-2	crossref	page	tom. IV. pag. 684, nota 4	bon-sent-IV-d27-a3-q2+bon-sent-IV-d27-dubia		page-multi		
+bon-brev-p6-c13	5	apparatus:p279-2	p279-2	scripture	apparatus-explicit	Eph. 5, 22	Eph 5:22	A	verse		
+bon-brev-p6-c13	5	apparatus:p279-3	p279-3	crossref	logical	IV. Sent. d. 26	IV:d26		distinctio		
+bon-brev-p6-c13	5	apparatus:p279-3	p279-3	authority	authority:Bonav.	IV. Sent. d. 36.			excluded		
+bon-brev-p6-c13	5	apparatus:p279-4	p279-4	scripture	apparatus-explicit	Eccli. 1, 5	Eccli 1:5	A	verse		
+bon-brev-p6-c13	5	apparatus:p279-6	p279-6	scripture	anaphor->apparatus-explicit	ibid.	Eccli 1:5	A	verse	yes	Eccli. 1, 5
+bon-brev-p6-c13	5	apparatus:p279-7	p279-7	crossref	logical	IV. Sent. d. 26. a. 2. q. 2.	bon-sent-IV-d26-a2-q2		chunk		
+bon-brev-p6-c13	5	apparatus:p279-7	p279-7	crossref	chain-continuation	d. 31. a. 2. q. 1.	bon-sent-IV-d31-a2-q1		chunk		
+bon-brev-p6-c13	5	apparatus:p280-1	p280-1	crossref	logical	IV. Sent. d. 27. a. 2. q. 1.	bon-sent-IV-d27-a2-q1		chunk		
+bon-brev-p6-c13	5	apparatus:p280-1	p280-1	scripture	apparatus-explicit	Matth. 19, 6	Matth 19:6	A	verse		
+bon-brev-p6-c13	5	apparatus:p280-1	p280-1	scripture	apparatus-explicit	I. Cor. 6, 16	1Cor 6:16	A	verse		
+bon-brev-p6-c13	5	apparatus:p280-1	p280-1	crossref	relative	ibid. d. 28. q. 1.	bon-sent-IV-d28-a1-q1		chunk		
+bon-brev-p6-c13	5	apparatus:p280-1	p280-1	crossref	logical	IV. Sent. d. 27. dub. 5.	bon-sent-IV-d27-dubia		chunk		
+bon-brev-p6-c13	5	apparatus:p280-2	p280-2	scripture	apparatus-explicit	I. Cor. 7, 4	1Cor 7:4	A	verse		
+bon-brev-p6-c13	5	apparatus:p280-3	p280-3	crossref	page	supra pag. 240, nota 5	bon-brev-p3-c11		chunk		
+bon-brev-p6-c13	5	apparatus:p280-6	p280-6	scripture	apparatus-explicit	Matth. 19, 6	Matth 19:6	A	verse		
 bon-brev-p6-c2	5	apparatus:p266-2	p266-2	crossref	logical	IV. Sent. d. 1. p. II.	IV:d1		distinctio		
 bon-brev-p6-c2	5	apparatus:p266-2	p266-2	crossref	chain-continuation	d. 2. a. 1. q. 1.	bon-sent-IV-d2-a1-q1		chunk		
 bon-brev-p6-c2	5	apparatus:p266-3	p266-3	crossref	page	tom. IV. pag. 50	bon-sent-IV-d2-a1-q1+bon-sent-IV-d2-a1-q2		page-multi		
