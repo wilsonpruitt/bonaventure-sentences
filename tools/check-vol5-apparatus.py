@@ -1263,6 +1263,47 @@ KNOWN_TOTALS = {
               # already reads "BREVILOQUII PARS VII. C. V." while its first six
               # lines are still Cap. IV), never from white space, and never from
               # the grammatically complete tail at "quodam modo praemiari."
+    287: 9,   # band-read in full by p7-c5, which owns nn.1-5 ONLY; nn.6-9 anchor
+              # in Cap. VI and are p7-c6's. Left block nn.1-5 with n.5
+              # STRADDLING the gutter, breaking off MID-WORD at "in corp., ex
+              # qua quae-" with a blank tail and no printer's signature; right
+              # block opens UNNUMBERED at "dam supra pag. 216, nota 3. ..."
+              # then nn.6-9, ending complete at "et pro summa D divina, M sua."
+              # with blank paper.
+              # Anchors: nn.1-5 LEFT (n.1 "licet non in mole 1", n.2 "habet
+              # fieri 2", n.3 "caro secundum materiam 3", n.4 "facere frustra
+              # 4", n.5 "generabile sit corruptibile 5"); nn.6-9 RIGHT.
+              # BLOCK 5/4, ANCHOR 5/4, CAPITULUM 5/4 -- all three coincide on
+              # this leaf, because the Cap. VI heading falls three lines into
+              # the right column and above every one of that column's anchors.
+              # A fact about this leaf, NOT a pattern: p.286 one leaf back has
+              # block and anchor coinciding at 4/4 while the capitulum splits
+              # 1/7.
+              # Gutter 1163, measured fresh, DEFAULT REJECTED: colcrop with no
+              # constant returns 1160 on a 55 px run -- a quiet failure under
+              # the 60 px floor. Twelve windows 20-75% agree 1162-1163 on 61-64
+              # px runs; ink band x=1133-1193 (61 px), midpoint 1163, with the
+              # HEAVIEST centre rule met anywhere in this quire at x=1158-1164
+              # peaking 1127 rows, sitting 2 px LEFT of the band centre, which
+              # is what dragged the default down.
+              # RUNOVERS: p.287's own gutter POSITIVE (logged p.287 n.5:gutter
+              # by p7-c5); the p.286 -> p.287 page-crossing NEGATIVE, closed
+              # from both sides by p7-c5 (p.286's right block ends complete at
+              # n.8 with blank paper; p.287's left block opens NUMBERED at
+              # "1 Ut ait August. XXII. de Civ. Dei, c. 14."). The p.287 ->
+              # p.288 crossing was NOT run and is p7-c6's to close; its upper
+              # side is done (n.9 ends complete, blank paper, no signature).
+              # NOTE: Cap. V's close is fixed POSITIVELY from the Cap. VI
+              # heading and its TWO-line "De consequentibus ad iudicium, sicut
+              # est poena infernalis" subtitle three lines down p.287's RIGHT
+              # column -- never from the index, never from p.287's running head
+              # (which already reads "PARS VII. C. VI." while its whole left
+              # column and the head of its right column are still Cap. V),
+              # never from white space, never from a break shape.
+              # CORRECTION carried here: p.286 n.5 reads "I. Phys. text. 81.",
+              # NOT "text. 84." as the p7-c4 hand-off transcribed it (glyph at
+              # 12x, the raw at L~51882, and Book I of the Physics having only
+              # 83 texts, all three agreeing).
 }
 
 
