@@ -1152,6 +1152,56 @@ KNOWN_TOTALS = {
               # running head (which already reads "PARS VII. C. III." while more
               # than half the left column is still Cap. II), and never from the
               # grammatically complete tail at "spiritus iam purgatus."
+    284: 10,  # band-read in full by p7-c3, which owns nn.1-6 ONLY; nn.7-10
+              # anchor in Cap. IV and are p7-c4's. The LARGEST register on any
+              # leaf of Pars VII so far. n.1 anchors on "de Cura pro mortuis
+              # agenda 1,", n.2 on "salvetur ordo et symbolum 2", n.3 on "ut et
+              # ipsi suffragentur nobis 3", n.4 on "dum erant in statu viae 4.",
+              # n.5 on "licet sint spiritualia 5," -- ALL FIVE in the LEFT
+              # column -- and n.6 on "et mensuram 6." in the RIGHT column, on
+              # Cap. III's last words.
+              # BLOCK 5/5 (left nn.1-5, right nn.6-10), ANCHOR 5/5, CAPITULUM
+              # 6/4 -- block and anchor coincide at the gutter and the capitulum
+              # boundary falls INSIDE the right footer block, between nn.6 and
+              # 7. That is the mirror of p.283, where the capitulum cut inside
+              # the LEFT block while block and anchor coincided. Nothing is
+              # inferred from either for p.285.
+              # Gutter 1386, settled fresh with no constant. The default is a
+              # LOUD FAILURE: 1404 on a 21 px run. Eight windows from 5-65%
+              # agree 1385-1388 on 61-64 px runs; every window from 50% down
+              # collapses to 1404-1405 on 21-24 px runs and is discarded. The
+              # body-rows ink profile puts the zero band at x=1354-1417 (64 px)
+              # with a LIGHTLY inked rule inside it at x=1382-1388 peaking 69
+              # rows -- a twentieth of p.283's inking -- band midpoint 1385.5,
+              # rule centre 1385. The 21 px "run" is the zero sub-band lying to
+              # the RIGHT of the rule only. p.283 and p.284 are exact
+              # complements: a heavy centred rule that did not move the answer,
+              # and a faint centred rule that destroyed the run anyway because
+              # this leaf's noise floor is 2 rows. Ink weight and displacement
+              # are independent and neither predicts the other.
+              # RUNOVERS: p.284's own gutter NEGATIVE (left block ends complete
+              # at n.5's "(L fiunt)." with a very large blank tail and no
+              # printer's signature; right block opens NUMBERED at n.6).
+              # p.284 -> p.285 page-crossing NEGATIVE, closed from both sides
+              # (p.284's right block ends complete at n.10's "Cfr. supra Prolog.
+              # § 2. et p. II. c. 4. in fine." with blank paper; p.285's left
+              # block opens NUMBERED at "Vide Glossam in Isai. 30, 26."). p.285
+              # was extracted and measured (gutter 1234, fourteen windows
+              # 1234-1235 on 61-65 px runs, band x=1204-1264) for that test
+              # alone -- p7-c4 must re-derive it.
+              # NOTE: Cap. III's close is fixed POSITIVELY from the Cap. IV
+              # heading and its TWO-line "De concomitantibus iudicium, sicut est
+              # conflagratio ignium" subtitle at ~22% of p.284's RIGHT column --
+              # never from the index, never from p.284's running head (which
+              # already reads "BREVILOQUII PARS VII. C. IV." while the whole
+              # left column and the head of the right are still Cap. III), never
+              # from white space, and never from the grammatically complete tail
+              # at "numerum et mensuram."
+              # ⚠ THE RAW CARRIES NO FOOTER BLOCK FOR THIS LEAF AT ALL -- it
+              # runs the right column's body straight into the "Cap. IV."
+              # heading and skips all ten notes. Not a degraded footer but a
+              # MISSING one: every digit and siglum here was settled from the
+              # band and from the corpus with no second witness available.
 }
 
 

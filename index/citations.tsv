@@ -19210,6 +19210,8 @@ bon-brev-p7-c2	5	apparatus:p282-5	p282-5	crossref	page	tom. IV. pag. 356, nota 6
 bon-brev-p7-c2	5	apparatus:p282-5	p282-5	crossref	page	supra pag. 224, nota 8	bon-brev-p2-c5+bon-brev-p2-c6+bon-brev-p2-c7		page-multi		
 bon-brev-p7-c2	5	apparatus:p282-6	p282-6	crossref	logical	IV. Sent. d. 44. p. II. a. 3. q. 2.	bon-sent-IV-d44-p2-a3-q2		chunk		
 bon-brev-p7-c2	5	apparatus:p283-2	p283-2	crossref	logical	IV. Sent. d. 21. p. I. a. 2. q. 1.	bon-sent-IV-d21-p1-a2-q1		chunk		
+bon-brev-p7-c3	5	apparatus:p283-6	p283-6	crossref	logical	IV. Sent. d. 15. p. II.	IV:d15		distinctio		
+bon-brev-p7-c3	5	apparatus:p284-6	p284-6	scripture	apparatus-explicit	Sap. 11, 21	Sap 11:21	A	verse		
 bon-brev-prol-s1	5	apparatus:p203-1	p203-1	crossref	anaphor->work	ibid.	work:scientia-christi		work	cross-chunk	bon-brev-prol: Quaest. de scientia Christi
 bon-brev-prol-s1	5	apparatus:p203-1	p203-1	crossref	anaphor->work	loc. cit.	work:scientia-christi		work	cross-chunk	bon-brev-prol: Quaest. de scientia Christi
 bon-brev-prol-s1	5	apparatus:p203-2	p203-2	crossref	logical	III. Sent. d. 23. a. 1. q. 1.	bon-sent-III-d23-a1-q1		chunk		
