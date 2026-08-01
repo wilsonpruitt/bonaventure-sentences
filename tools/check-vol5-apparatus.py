@@ -1197,11 +1197,72 @@ KNOWN_TOTALS = {
               # left column and the head of the right are still Cap. III), never
               # from white space, and never from the grammatically complete tail
               # at "numerum et mensuram."
-              # ⚠ THE RAW CARRIES NO FOOTER BLOCK FOR THIS LEAF AT ALL -- it
-              # runs the right column's body straight into the "Cap. IV."
-              # heading and skips all ten notes. Not a degraded footer but a
-              # MISSING one: every digit and siglum here was settled from the
-              # band and from the corpus with no second witness available.
+              # ⚠⚠ WITHDRAWN BY p7-c4 (2026-08-01). This comment previously
+              # read "THE RAW CARRIES NO FOOTER BLOCK FOR THIS LEAF AT ALL ...
+              # not a degraded footer but a MISSING one". THAT IS FALSE. The
+              # raw carries p.284's footer IN FULL, all ten notes, at
+              # doctorisseraphic05bona_djvu.txt L~51528-51562, in the ordinary
+              # moderate grade -- and it independently confirms "Gen. 7, 1" and
+              # "p. II. c. 4.", two of the four hardest digits on the leaf. The
+              # claim was a structural generalisation, written once and never
+              # re-derived, and it contradicted nothing in its own chunk's
+              # per-note data because per-note data cannot speak to it. The
+              # frozen rules it was cited for stand: apparatus IS bands-only,
+              # the raw IS a cross-check and never the base.
+    285: 8,   # band-read in full and OWNED IN FULL by p7-c4 -- the only leaf of
+              # that chunk of which both are true. Left block nn.1-4 with n.4
+              # STRADDLING the gutter, breaking off MID-WORD at "sola avaritia
+              # iu-" with no blank tail; right block opens UNNUMBERED at
+              # "venescit. -- Pro refrigerium D refrigidationem..." then nn.5-8,
+              # ending complete at "B I K L T quia amplius." with blank paper.
+              # ANCHORS: n.1 "debuit quietari 1.", n.2 "divinum accipiat zelum
+              # 2", n.3 "cum homine expurgando 3;", n.4 "propter refrigerium
+              # caritatis 4" -- all four LEFT; n.5 "sensibilis facies exuretur
+              # 5.", n.6 "cum homine innovato 6;", n.7 "necesse est, facta 7",
+              # n.8 "posito statu in animabus 8," -- all four RIGHT.
+              # BLOCK 4/4, ANCHOR 4/4, CAPITULUM 8/0.
+              # Gutter 1234, RE-DERIVED with no constant rather than adopted
+              # from p7-c3's recorded value: sixteen windows from 5-95% agree
+              # 1234-1235 on 61-65 px runs, and the body-rows ink profile puts
+              # the zero band at x=1204-1264 (61 px) with a moderately inked
+              # CENTRED rule at x=1231-1236 peaking 185 rows. Midpoint 1234.
+              # RUNOVERS: p.285's own gutter POSITIVE (logged p.285 n.4:gutter,
+              # closed from both sides). p.285 -> p.286 page-crossing NEGATIVE,
+              # closed from both sides (p.285's right block ends complete with
+              # blank paper; p.286's left block opens NUMBERED at "Cfr. tom.
+              # III. pag. 40, nota 8.").
+              # RAW: footer PRESENT and moderate, but wrong in TWO places --
+              # "Serm. i8." for "Serm. 48." and "K P U" for "F P U". The band
+              # decides both.
+    286: 8,   # band-read in full by p7-c4, which owns n.1 ONLY; nn.2-8 anchor
+              # in Cap. V and are p7-c5's. Left block nn.1-4 with n.4
+              # STRADDLING the gutter, breaking off at "Inferius pro
+              # stipendiorum I K L" with a large blank tail and no printer's
+              # signature; right block opens UNNUMBERED at "O P V praemiorum,
+              # D ..." then nn.5-8, ending complete at "in resurrectionem
+              # iudicii." with blank paper.
+              # n.1 anchors on "cum omni genere creaturae 1;" in the LEFT
+              # column, five lines above the Cap. V heading.
+              # BLOCK 4/4, CAPITULUM 1/7 -- the capitulum boundary falls INSIDE
+              # the LEFT footer block, between nn.1 and 2, while the block break
+              # falls at the gutter.
+              # Gutter 1342, measured fresh: sixteen windows 1341-1343 on 59-62
+              # px runs, ink band x=1313-1371 (59 px) with a VERY HEAVILY inked
+              # rule at x=1339-1344 peaking 473 rows, almost exactly centred,
+              # against a 3-row noise floor -- and it does not corrupt the
+              # answer at all. p.283's case, not p.284's.
+              # RUNOVERS: p.286's own gutter POSITIVE (logged p.286 n.4:gutter
+              # by p7-c4 on the standing rule that a leaf's gutter test belongs
+              # to the chunk that FIRST reaches the leaf; p7-c5 owns n.4, must
+              # render it JOINED, and must NOT re-log it). The p.286 -> p.287
+              # page-crossing was NOT run and is p7-c5's to close.
+              # NOTE: Cap. IV's close is fixed POSITIVELY from the Cap. V
+              # heading and its TWO-line "De concomitantibus iudicium, sicut est
+              # resurrectio corporum" subtitle at ~20% of p.286's LEFT column --
+              # never from the index, never from p.286's running head (which
+              # already reads "BREVILOQUII PARS VII. C. V." while its first six
+              # lines are still Cap. IV), never from white space, and never from
+              # the grammatically complete tail at "quodam modo praemiari."
 }
 
 
