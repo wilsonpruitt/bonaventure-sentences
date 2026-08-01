@@ -2,8 +2,8 @@
 
 > ## ✅ THE INDEX IS COMPLETE — PHASES 0, 1 AND 2 ALL SHIPPED (2026-07-31).
 > ## ✅ **PARS VI IS COMPLETE** — capp. I–XIII all Tier 2, closure check PASSED (2026-07-31). See § "PARS VI CLOSURE CHECK" below.
-> ## ✅ **PARS VII IS OPEN — Capp. I, II, III, IV and V are Tier 2** (`bon-brev-p7-c1`, pp. 281–282; `bon-brev-p7-c2`, pp. 282–283; `bon-brev-p7-c3`, pp. 283–284; `bon-brev-p7-c4`, pp. 284–286; `bon-brev-p7-c5`, pp. 286–287, all 2026-08-01).
-> ## NEXT SESSION = **PARS VII, Cap. VI** (`bon-brev-p7-c6`) — *De consequentibus ad iudicium, sicut est poena infernalis*, opening three lines down p. 287's RIGHT column.
+> ## ✅ **PARS VII IS OPEN — Capp. I–VI are Tier 2** (`bon-brev-p7-c1`, pp. 281–282; `bon-brev-p7-c2`, pp. 282–283; `bon-brev-p7-c3`, pp. 283–284; `bon-brev-p7-c4`, pp. 284–286; `bon-brev-p7-c5`, pp. 286–287; `bon-brev-p7-c6`, pp. 287–288, all 2026-08-01).
+> ## NEXT SESSION = **PARS VII, Cap. VII** (`bon-brev-p7-c7`) — *De gloria paradisi*, opening at ~60 % of p. 288's RIGHT column. ★★ **IT IS THE LAST CAPITULUM OF THE BREVILOQUIUM: closing it closes the WORK at p. 291, and that fires BOTH the held deploy and the ~100-page polish gate.**
 >
 > ## ⛔⛔ **THE DEPLOY IS HELD UNTIL THE BREVILOQUIUM CLOSES AT p. 291 — WILSON'S DECISION, 2026-08-01.**
 > **This supersedes the per-pars deploy trigger FOR THE REMAINDER OF THIS WORK ONLY.** The deploy no
@@ -39,8 +39,8 @@
 > | III | *De antecedentibus ad iudicium, cuiusmodi sunt suffragia ecclesiastica* | 283 | **Tier 2** — span **VERIFIED pp. 283–284**, closed positively from the `Cap. IV.` heading |
 > | IV | *De concomitantibus iudicium, sicut est conflagratio ignium* | 284 | **Tier 2** — span **VERIFIED pp. 284–286**, closed positively from the `Cap. V.` heading |
 > | V | *De concomitantibus iudicium, sicut est resurrectio corporum* | 286 | **Tier 2** — span **VERIFIED pp. 286–287**, closed positively from the `Cap. VI.` heading |
-> | VI | *De consequentibus ad iudicium, sicut est poena infernalis* | 287 | **THE FRONT** — opening VERIFIED three lines down p. 287 R; end unknown |
-> | VII | *De gloria paradisi* | 288 | index claim only |
+> | VI | *De consequentibus ad iudicium, sicut est poena infernalis* | 287 | **Tier 2** — span **VERIFIED pp. 287–288**, closed positively from the `Cap. VII.` heading |
+> | VII | *De gloria paradisi* | 288 | **THE FRONT** — opening VERIFIED at ~60 % of p. 288 R; end unknown. **The work is said to close at p. 291, so on the index's own showing this capitulum runs 288–291 — a FOUR-leaf span, by far the longest the index has claimed in this pars. That is a hypothesis, not a span.** |
 >
 > ⚠ **EVERY PAGE NUMBER IN THAT COLUMN IS THE INDEX'S CLAIM, NOT A SPAN.** This same index was caught
 > under-reporting Cap. IX's span by a whole leaf inside Pars VI. **Each capitulum's end is to be fixed
@@ -1925,9 +1925,267 @@
 >
 > ---
 >
-> ## ▶ THE FRONT — `bon-brev-p7-c6`, Cap. VI, *De consequentibus ad iudicium, sicut est poena infernalis* — **THE SIXTH CAPITULUM OF PARS VII**
+> ## ▶ THE FRONT — `bon-brev-p7-c7`, Cap. VII, *De gloria paradisi* — **THE SEVENTH AND LAST CAPITULUM OF PARS VII, AND THE LAST OF THE WHOLE BREVILOQUIUM**
 >
-> ### Hand-off INTO `bon-brev-p7-c6`
+> ### ⛔⛔ THIS CHUNK CLOSES THE WORK. READ THIS BEFORE THE HAND-OFF.
+> - **After you there is nothing left in the Breviloquium.** Pars VII has seven capitula and the work
+>   closes at p. 291. **You are the last one.**
+> - **★★ CLOSING A WORK IS NOT LIKE CLOSING A CAPITULUM, AND THE ONE HABIT THAT HAS CARRIED THIS PARS —
+>   "find the next `Cap. N.` heading on the band" — WILL NOT WORK, BECAUSE THERE IS NO NEXT `Cap.`
+>   HEADING.** What follows Cap. VII on the plate is the **next work of the tome**, whose display
+>   heading crosses the gutter and destroys any gutter measurement taken over its rows (the frozen
+>   rule's first named hazard — hit on pp. 201, 219, 241, 252). **Close the capitulum, and the work,
+>   POSITIVELY against whatever that next thing is: read its heading off the band and record it
+>   verbatim.** The volume's own work map (CLAUDE.md § "VOL V — Work map") says the *Itinerarium mentis
+>   in Deum* begins at printed **293**, which leaves **pp. 291–292** unaccounted for — an index page, a
+>   colophon, a blank verso, or an editorial *Additamentum* are all live possibilities and **none of them
+>   is a `Cap.` heading.** ⚠ **Do not assume the Breviloquium's last page is full.** A work close is
+>   exactly where the frozen rule's most extreme white-space trap lives: p. 280's body stopped at 63 % of
+>   the leaf with 17 % bare beneath it and that blank was evidence of nothing. **White space at the end of
+>   a work is still not a boundary; the thing printed AFTER it is.**
+> - **★ Do NOT close from a running head.** p. 288's already reads `BREVILOQUII PARS VII. C. VII.` while
+>   60 % of that leaf is still Cap. VI — the running head has now run a unit AHEAD on **six consecutive
+>   leaves, and on seventeen of the last nineteen.**
+> - **★★ Do NOT close from a grammatically complete tail — and Cap. VI has just proved how far that goes.
+>   Its tail was `Amen.`** A doxological close, the most boundary-looking end this work can print, and it
+>   was still the `Cap. VII.` heading beneath it, not the `Amen.`, that closed the chapter. **Expect Cap.
+>   VII to end on an `Amen.` too. It will mean nothing.**
+> - **★ THE WORK CLOSE FIRES BOTH HELD THINGS AT ONCE — and neither is yours to fire.** p. 291 is
+>   **BOTH** the deploy boundary **AND** the ~100-page polish gate (see the banner at the top of this
+>   file). When Cap. VII is Tier 2 and its verification passes, **STOP, COMMIT, AND HAND OFF.** Deploying
+>   and pushing are protected actions needing Wilson's explicit per-action OK; the polish gate is a
+>   separate three-pass sweep, not part of this chunk. **Your hand-off should be the gate's brief.**
+>
+> ### Hand-off INTO `bon-brev-p7-c7`
+> - **★★ THE TARGET, ITS HEADING AND ITS OPENING ARE ALREADY ON A BAND — AND `p7-c6` CLOSED CAP. VI
+>   AGAINST THAT VERY HEADING, SO ITS POSITION IS VERIFIED, NOT OBSERVED.** `Cap. VII.` stands centred in
+>   p. 288's **RIGHT** column at about **60 %** down that column, with a **ONE-line** subtitle
+>   `De gloria paradisi.` — **the first single-line subtitle in this pars; Capp. II–VI all ran two** —
+>   immediately below Cap. VI's close `…et *tormentorum fumus ascendat in saecula saeculorum*. Amen.` Its
+>   opening reads: `De *gloria* autem *caelesti* hoc in summa tenendum est, quod in ipsa est praemium
+>   *substantiale*, *consubstantiale* et *accidentale*. Praemium, inquam, *substantiale* consistit in
+>   visione, fruitione et tentione unius summi boni, scilicet Dei, quem Beati videbunt` — **that much was
+>   read at 2.6× on the band while closing Cap. VI, AND NO MORE; everything past it was NOT read. The raw
+>   continues it at `doctorisseraphic05bona_djvu.txt` L≈52150 ff., which is a CROSS-CHECK, not a base.
+>   Re-set every word line by line off the band. The chapter's END was NOT read and NO span is claimed.**
+> - **★★ PICK UP: NOTHING. p. 288's FOOTER IS OWNED ENTIRE BY `p7-c6` AND NOTHING IS FORWARDED.** This is
+>   the first empty hand-off of Pars VII, and it is a positive finding, not an omission: p. 288 carries
+>   **six** notes, **all six anchor inside Cap. VI**, and the four lines of Cap. VII printed beneath its
+>   heading on that leaf carry **no anchor at all** — checked on the band. The leaf's total of **6** is in
+>   `KNOWN_TOTALS` with the full split map. **`check-vol5-apparatus.py` will therefore report p. 288 as
+>   `1-6 ok` with NO PENDING. Your first note is p. 289 n. 1, first-read, and every leaf from p. 289 on is
+>   yours entire.** ⚠ **An empty hand-off removes the usual safety net: there is no inherited note whose
+>   text you can check yourself against. Read pp. 289–291's registers with that in mind.**
+> - **★★ RUNOVERS `p7-c7` OWES — AND FOUR IT MUST NOT RE-RUN.**
+>   **Owes:** the **p. 288 → p. 289 page-crossing test** (p. 288's right block ends complete at n. 6's
+>   `Vide supra pag. 180, nota 6. et pag. 224, nota 8.` with a **very large blank tail** and no printer's
+>   signature — **the upper side is done; close it from p. 289's side**), p. 289's own gutter test, and
+>   the same pair for pp. 290 and 291. **That is potentially seven tests in one chunk — more than any
+>   chunk in this pars has run. Budget for it.**
+>   **★ MUST NOT RE-RUN — p. 288's own gutter test** (`p7-c6`, **POSITIVE**, logged as `p.288 n.4:gutter`,
+>   closed from both sides; n. 4 straddles, breaking off **ON A COLON** mid-citation at `… Soph. 1, 12:`,
+>   and the right block opens UNNUMBERED at `Visitabo super viros defixos in faecibus suis.`). ★ **n. 4 is
+>   `p7-c6`'s, not yours, and is already rendered joined there.** **Nor the p. 287 → p. 288 page-crossing**
+>   (`p7-c6`, **NEGATIVE**, closed from both sides: p. 287's right block ends complete at n. 9's
+>   `…et pro *summa* D *divina*, M *sua*.` with blank paper, and p. 288's left block opens NUMBERED at
+>   `¹ B H addunt *ratione*.`). **Nor `p.287 n.5:gutter`** (`p7-c5`, POSITIVE) **nor the p. 286 → p. 287
+>   crossing** (`p7-c5`, NEGATIVE).
+> - **DO NOT RE-LOG:** `p.288 n.4:gutter` (`p7-c6`, **POSITIVE**) and the p. 287 → p. 288 test (`p7-c6`,
+>   NEGATIVE); `p.287 n.5:gutter` (`p7-c5`, **POSITIVE**) and the p. 286 → p. 287 test (`p7-c5`,
+>   NEGATIVE); `p.285 n.4:gutter` and `p.286 n.4:gutter` (both `p7-c4`, both **POSITIVE**) and the
+>   p. 285 → p. 286 test (`p7-c4`, NEGATIVE); p. 284's own gutter test and the p. 284 → p. 285 test
+>   (both `p7-c3`, both NEGATIVE); `p.283 n.4:gutter` (`p7-c2`, POSITIVE) and the p. 283 → p. 284 test
+>   (`p7-c2`, NEGATIVE); `p.281 n.3:gutter` and `p.282 n.4:gutter` (both `p7-c1`, both **POSITIVE**),
+>   the p. 281 → p. 282 test and the p. 282 → p. 283 test (both `p7-c1`, both NEGATIVE); the
+>   p. 280 → p. 281 test, p. 280's own gutter test and the p. 279 → p. 280 test (all three `p6-c13`,
+>   all NEGATIVE); `p.279 n.3:gutter`, `p.278 n.2:gutter`, `p.277 n.7:page` (all three `p6-c12`, all
+>   POSITIVE) and the p. 278 → p. 279 test (`p6-c12`, NEGATIVE); p. 277's own gutter test and the
+>   p. 276 → p. 277 test (both `p6-c11`, both NEGATIVE); `p.276 n.3:gutter` and the p. 275 → p. 276 test
+>   (both `p6-c10`); `p.274 n.5:gutter`, `p.275 n.4:gutter`, the p. 273 → p. 274 and p. 274 → p. 275
+>   tests (all four `p6-c9`); `p.273 n.5:gutter` and the p. 272 → p. 273 test (both `p6-c8`);
+>   `p.272 n.5:gutter` and the p. 271 → p. 272 test (both `p6-c7`); `p.270 n.4:gutter`, the
+>   p. 270 → p. 271 test and p. 271's own gutter test (all three `p6-c6`); `p.269 n.4:gutter` and the
+>   p. 269 → p. 270 test (both `p6-c5`); `p.268 n.4:gutter` and the p. 268 → p. 269 test (both `p6-c4`);
+>   `p.267 n.4:gutter` and the p. 267 → p. 268 test (both `p6-c3`); `p.266 n.3:gutter` and the
+>   p. 266 → p. 267 test (both `p6-c2`); p. 265's own gutter test and the p. 265 → p. 266 test (both
+>   `p6-c1`); the p. 264 → p. 265 test, p. 264's own gutter test and the p. 263 → p. 264 test (all
+>   `p5-c10`); and everything on the earlier do-not-re-log lists. **Never double-log — that is what the
+>   ledger exists to prevent.**
+> - **BANDS AND GUTTERS.** pp. 255–288 are imaged; bands in `/tmp/colcrop/` for pp. 255–288. ⚠ **pp. 289,
+>   290 and 291 are NOT extracted, NOT cropped and NOT measured. Extract and crop them fresh with no
+>   constant.** **Settled and re-usable: p. 281 = 1231 · p. 282 = 1357 · p. 283 = 1169 · p. 284 =
+>   1386/1387 · p. 285 = 1234 · p. 286 = 1342 · p. 287 = 1163 · p. 288 = 1347** (the last settled by
+>   `p7-c6`, and p. 287 re-derived by it and confirmed). Offset `pdf = printed + 76`. **Never `Read` a
+>   full-page extract — colcrop bands only, one at a time.** ★ `colcrop.py vol5 <pg> <cut> 6 2.6` for the
+>   body read, `<cut> 14 4.6` for digits and sigla. ⚠ **The 24-band 7.0× cut takes ~2 minutes per page
+>   and `save_under_cap` shrinks the biggest bands back down, so 7.0× often buys nothing over 4.6×.**
+>   ★★ **A CHEAPER INSTRUMENT THAN EITHER, AND `p7-c5` AND `p7-c6` BOTH USED IT THROUGHOUT IN PLACE OF THE
+>   14-BAND CUT: crop the ORIGINAL page directly — a whole footer LINE at 4–5×, or a 70–120 px box around
+>   the single glyph in question at 11–16× — with LANCZOS.** It is seconds rather than minutes, it puts
+>   the disputed sort **side by side with a known one on the same line**, and on p. 288 it is what
+>   separated the edition siglum `1` from the codex siglum `I` by matching it against the `1` of
+>   `nota 1.` four words away on the same footer line.
+> - **★★ THE p. 288 GUTTER IS THE MOST INSTRUCTIVE MEASUREMENT OF THE PARS AND ITS LESSON IS NEW: A
+>   HEALTHY-LOOKING DEFAULT RUN CAN SIT ON A LEAF WHOSE WINDOWS ARE IN OPEN DISORDER.** `colcrop.py vol5
+>   288` with no constant returns **1348 on a 61 px run** — well inside the trustworthy 58–64 px band, and
+>   it flags nothing. But of **fifteen** row windows swept at 15 % height, **eleven blow out to 145–413 px
+>   runs**, and the four survivors spread 11 px (5–20 % → 1336/64 · 10–25 % → 1346/64 · 15–30 % → 1346/64 ·
+>   40–55 % → 1347/65). **Four survivors spread over 11 px is not a consensus.** Step (3) of the three-step
+>   method settled it: left column dies at **x = 1315**, right resumes at **x = 1380**, band **1316–1379
+>   (64 px)**, midpoint **1347.5**, with a **moderately inked and almost exactly CENTRED** rule at
+>   x = 1345–1350 peaking 166 rows — which is why the default's *value* is nearly right while its
+>   *provenance* is worthless. **Adopted: 1347.** ★ **Carry the lesson: run width is the confidence signal
+>   for a SINGLE window, not for a leaf. Sweep the windows and print the per-column profile every time,
+>   even when the default looks healthy — on p. 288 the profile was the only thing that could decide it.**
+> - **★★ THE GUTTER SPREAD, TWENTY-FIVE CONSECUTIVE LEAVES: p. 265 = 1150 · 266 = 1422 · 267 = 1163 ·
+>   268 = 1370 · 269 = 1186 · 270 = 1373 · 271 = 1202 · 272 = 1326 · 273 = 1164 · 274 = 1403 ·
+>   275 = 1145 · 276 = 1392 · 277 = 1247 · 278 = 1351 · 279 = 1191 · 280 = 1331 · 281 = 1231 ·
+>   282 = 1357 · 283 = 1169 · 284 = 1386 · 285 = 1234 · 286 = 1342 · 287 = 1163 · 288 = 1347.**
+>   **Parity predicts nothing, proximity predicts nothing** — p. 288 sits 184 px from its own neighbour.
+>   ★★ **AND THE INK-WEIGHT LESSON NOW HAS FIVE DATA POINTS.** p. 287's rule is the heaviest met anywhere
+>   (1127 rows) and sits 2 px LEFT of centre — a *quiet* 6 px/3 px failure. p. 286's is very heavy and
+>   centred — costs nothing. p. 283's is heavy and centred — nothing. p. 284's is faint and centred — and
+>   destroys the run outright. **p. 288's is only MODERATE (166 rows) and exactly centred — and it is not
+>   the rule that breaks this leaf at all; faint speckle splits the band into four sub-runs and the
+>   windows fork on the mid-column heading.** **Carry this: ink weight, displacement and window behaviour
+>   are THREE independent variables and none predicts the others. Only the per-column ink profile tells
+>   you which case you have. Print it every time.**
+> - **★ THE MID-COLUMN `Cap. N.` HEADING HAZARD IS ATTESTED ON SEVENTEEN LEAVES** (263, 270, 271, 272,
+>   273, 275, 276, 277, 279, 280, 282, 283, 284, 286, 287, **288**). Re-window and discard the blow-outs.
+>   ★ **On p. 288 the hazard is at its worst yet: the `Cap. VII.` heading sits at ~60 % of the RIGHT
+>   column, right where the default body window is centred, and eleven of fifteen windows failed. The
+>   hazard's bite varies and is NOT predictable from the heading's depth.** ⚠ **On YOUR leaves the hazard
+>   changes species: pp. 289–291 may carry no `Cap.` heading at all, but p. 291 (or wherever the work
+>   ends) will carry the FULL-WIDTH DISPLAY HEADING of the next work, which crosses the gutter and
+>   destroys the run outright rather than merely forking it. Measure over BODY ROWS ABOVE it.**
+> - **★ REGISTER — PARS VII's ESCHATOLOGICAL, PURGATORIAL, SUFFRAGES, CONFLAGRATION, WORLD-RENEWAL,
+>   RESURRECTION AND NOW INFERNAL-PUNISHMENT VOCABULARY IS SETTLED FROM VOL IV. CARRY IT; DO NOT
+>   RE-DECIDE IT.** `p7-c1` settled the judgment vocabulary from Vol IV `d43-*` and `d48-*`; `p7-c2` the
+>   purgatory vocabulary; `p7-c3` the suffrages vocabulary; `p7-c4` the conflagration and world-renewal
+>   vocabulary; `p7-c5` the resurrection vocabulary from `d43-a1-q1…q6` and `d44-p1-*`; **`p7-c6` settled
+>   the INFERNAL-PUNISHMENT vocabulary from `bon-sent-IV-d44-p2-a1-q1`, `a1-q2`, `a2-q1`, `a2-q2`,
+>   `a3-q1`, `a3-q2` (hell, its place, its fire, entire — p. 287 n. 7's first target, taken *per totam* as
+>   the note directs) and `bon-sent-IV-d50-p2-a2-q1`, `a2-q2`, `a2-q3` (the worm — that note's second
+>   target, `(de verme)`), with `d50-p2-a1-q1` and `d44-p2-a3-q2` more briefly.** **Locked by `p7-c6`:**
+>   *poena damni* → "the punishment of loss" · *carentia visionis Dei* → "the lack of the vision of God" ·
+>   *vermis* → "the worm" · *ignis infernalis* → "the fire of hell", *infernalis* → "infernal" ·
+>   *locus infimus* → "the lowest place" · *faeces* → "dregs" against *scoria* → "dross" ·
+>   *reprobi* → "the reprobate" against *damnati* → "the damned" · *acerbitas / acerbe* → "bitterness /
+>   bitterly" · *varietas* → "variety" · *interminabilitas* → "endlessness" · *multiformitas* →
+>   "multiformity" against *multimodus* → "manifold" · *deordinatio* → "disordering" against
+>   *inordinatus* → "inordinate" · *rectissimum* → "most right" against *rectitudo* → "rectitude" ·
+>   *impoenitentia finalis* → "final impenitence" · *vilitas et nihilitas* → "vileness and nothingness" ·
+>   *dedecus peccati / decus iustitiae* → "the disgrace of sin / the comeliness of justice" ·
+>   *poena incendii materialis* → "the punishment of material burning" · Apoc. 14:11's *tormentorum fumus
+>   ascendat in saecula saeculorum* → "the smoke of their torments may ascend for ever and ever" (Douay).
+>   ★ **WHAT CAP. VII NEEDS AND `p7-c6` DID NOT SETTLE: the HEAVENLY-GLORY vocabulary** — *gloria
+>   caelestis*, *praemium substantiale / consubstantiale / accidentale*, *visio, fruitio, tentio*,
+>   *dotes animae et corporis*, *aurea / aureola*, *claritas, agilitas, subtilitas, impassibilitas*,
+>   *beatitudo*, *patria*. **The natural Vol IV settlement is `bon-sent-IV-d49-*` — which is the ONLY
+>   distinction in the corpus carrying the frozen `-sN-` sectio level (`IV-d49-p2-s1-*` *De gloria
+>   corporis in generali*, `IV-d49-p2-s2-*` *in speciali* and the four dotes; see CLAUDE.md § 5a). READ
+>   `bon-sent-IV-d49-p1-*` (the beatific vision, Quaestiones I–VI, no articles) AND `bon-sent-IV-d49-p2-*`
+>   ENTIRE, and follow them; do not innovate.** Whatever Cap. VII's own notes name for themselves, read
+>   those too — every chunk of this pars that did so was rewarded. Name in `## Notes` which chunks were
+>   consulted.
+> - **★★ THE PRINTER'S SIGNATURE IS DUE ON p. 289 — YOUR FIRST NEW LEAF.** The cadence holds at eight
+>   leaves: p. 265 quire 34 · p. 273 quire 35 · p. 281 quire 36 → **quire 37 on p. 289.** pp. 282–288
+>   carry NO signature line (`p7-c2` checked both feet on 282 and 283; `p7-c3` on 283 and 284; `p7-c4` on
+>   285 and 286; `p7-c5` on 286 and 287; **`p7-c6` on 287 and 288**, at 2.6× and again by direct crop).
+>   **It is NOT a footer entry: do not transcribe it into the apparatus, and do not mistake it for the
+>   end — or the continuation — of the note it sits under.** ★ **The trap is worth carrying: on p. 281 the
+>   signature sat DIRECTLY BENEATH a note that broke off mid-citation, so that leaf's gutter test could
+>   not be closed from the upper side at all. Expect exactly that on p. 289 and plan to close p. 289's
+>   gutter test from the LOWER side.**
+> - **★ GLOSS FORM.** Cap. VII's glosses were NOT read past the first (`Thesis 1.`, standing beside `quod
+>   in ipsa est praemium *substantiale*` in p. 288's right margin — band-seen, but its numeral is a `1`/`4`
+>   decision settled only by the series it opens, which you must read). **Read every gloss off the band and
+>   expect the raw to have dropped or shattered some entirely.** ★ **Cap. VI produced a FIFTEENTH distinct
+>   form in fifteen consecutive chapters — fifteen glosses.** Like Cap. V it runs three theses and a double
+>   series, but it has **no reason-series header at all**, writes **`Principia generalia.`** where Cap. V
+>   wrote the bare `Principia.`, and discharges by a plain `Pro thesi 1.` / `Pro thesi 2.` / `Pro thesi 3.`
+>   in strict order, while opening with a structural gloss no chapter had used before
+>   (`Deordinatio et poena triplex.`) and interleaving six content glosses (`Poena perpetua.`, `In loco
+>   infimo.`, `In igne et sulphure.`, `Gradu diverso.`, `Semper urit non consumit.`, `Poena damni, ignis
+>   et vermis.`). **Infer NOTHING; fifteen chapters, fifteen forms.** ★ **The `Thesis N.` / `Pro thesi N.`
+>   numerals are all `1`/`4` decisions — settle them from the SERIES, which is what settled Capp. I–VI's.**
+>   ★ **On pp. 287–288 the raw did NOT corrupt a gloss digit, the reverse of p. 286's `Pro ihcsi 3.` for
+>   `Pro thesi 2.` — the MARGIN's grade moves leaf to leaf like every other region's. Grade it as a third
+>   region, separately from body and footer.**
+> - **★★ RAW QUALITY — AND THE PREDECESSOR'S DIGITS ARE NOT SAFE EITHER.** The raw is a cross-check only,
+>   never the base. ★ **`p7-c6` found NO error in the hand-off it received** — `p7-c5` forwarded p. 287's
+>   nn. 6–9 with the block structure, the verbatim text and the column of all four verified and no anchor
+>   word and no digit claimed, and **every particular held**. That is the second clean hand-off in this
+>   pars and it does not license adopting the next one. ★ **Grades from `p7-c6`: p. 287 right-column body
+>   moderate; p. 287 footer moderate (right on `d. 44. p. II.`, `pag. 216`, `pag. 224`, wrong on `.'iO`
+>   for `50` and `S, 26` for `5, 26`); p. 287 margin good. p. 288 body moderate on the LEFT and WORSE on
+>   the RIGHT, and it commits one substantive error — it prints `divino impeiio ordinanti` where the band
+>   prints `divino imperio ordinante,`, and n. 5 corroborates the band independently by lemmatising
+>   *ordinante*. p. 288 footer good on EVERY digit and BAD ON SIGLA — three siglum letters wrong in three
+>   consecutive notes (`1!}|` for `B H`, `U P` for `G P`, `K I K L 0 P` for `E I K L O P`, the last
+>   disproved by the run's own ascending order, since a run cannot open `K … K`). p. 288 margin good.**
+>   ★ **So on p. 288 the footer graded better than the body on digits and worse on letters, and the body
+>   graded worse on the right than on the left. Give body, footer AND margin separate verdicts every time,
+>   and grade per column-run.**
+> - **⚠ THE `[?]` FLAGS — STILL THREE, NONE NEW.** `p7-c6` raised **none**.
+>   1. **INHERITED, UNRESOLVED — p. 271 n. 2's `E F G H minus, aptae`** (owned by `p6-c6`).
+>   2. **INHERITED, UNRESOLVED — p. 272 n. 6's `Respicitur Col. 6, 12.`** (owned by `p6-c7`; its
+>      `build-citations.py` QA line is **expected, not a defect**).
+>   3. **INHERITED, UNRESOLVED — p. 282 n. 4's lemma `purgatis` against the body's `expurgatis`**
+>      (raised by `p7-c2`). p. 282 is off `p7-c7`'s leaves.
+>   **All three travel forward unresolved and must be neither repaired nor re-flagged as new.** ⚠ **They
+>   are, however, EXACTLY WHAT THE POLISH GATE AT p. 291 IS FOR** — pass 1 of that gate is the `[?]`
+>   resolution sweep, and these three are its whole docket for the Breviloquium. **Do not resolve them in
+>   `p7-c7`; hand them to the gate.**
+>   ★ **Three flags are DISCHARGED or CLOSED and must not be resurrected: `p6-c10`'s `d. 23.`, the
+>   `c. 13.` flag on p. 277 n. 7, and p. 280 n. 6's `homo non separe`.**
+>   ★ **AND TWO READINGS THAT ARE NOT FLAGS AND MUST NOT BE "FIXED": p. 284's `de Cura pro mortuis
+>   agenda` for the received *gerenda*, and the faded scan streak on p. 283's right column.** ★ **A THIRD
+>   joins them from `p7-c6`: p. 287 n. 9's `(F *novissimum quadrantem*)`, which records F's reading in the
+>   same words as the text and looks like a null variant. It is transcribed exactly as printed and
+>   deliberately NOT flagged — an editor's own compression is not our defect to repair.**
+> - **⚠ ONE MORE QA LINE THAT IS NOT A DEFECT.** `bon-brev-p6-c8` `apparatus:p273-6` flags
+>   `tom. I. pag. 155` as dangling. That `tom. I.` is **GALLAND's *Bibliotheca***, not Bonaventure's
+>   Tomus I. **Do not "fix" the chunk; it is a parser limitation.** ⚠ **And expect a NEW one of this
+>   family from `p7-c6`: p. 288 n. 6 cites Vol V `pag. 180`, which falls in *De perfectione evangelica* —
+>   a work of this tome not yet translated — so it classes as `forward`, not `dangling`. That is correct
+>   behaviour and self-resolves as the corpus grows.**
+> - **⛔ DEPLOY AND PUSH ARE HELD UNTIL p. 291 — see the banner at the top of this file, and the block at
+>   the head of this section. `p7-c7` CLOSES THE WORK AND THEREFORE REACHES p. 291 — but it still does NOT
+>   deploy and does NOT push.** Both are protected actions needing Wilson's explicit per-action OK, and the
+>   polish gate is a separate three-pass sweep after the chunk. `p7-c6` did not deploy and did not push.
+> - **★ VERIFICATION FIGURES AS `p7-c6` DERIVED THEM AT THE MOMENT OF CITATION** (never hand-carry these
+>   — re-derive): `check-vol5-apparatus.py` → **78 chunks, 656 apparatus entries, `All checks passed.`**,
+>   with p. 288 reported `1-6 ok` and **NO PENDING anywhere in Pars VII** · `check-vol5-census.py` → **78
+>   on disk / 78 in ledger, rosters agree; 57 runovers across 78 chunks (52 gutter-crossing, 5
+>   page-crossing; 47 chunks positive, 31 negative)** · `polish-style-scan.py --volume 5` → **CLEAN (78
+>   files)** · `build-citations.py` → **224 QA flags corpus-wide, ZERO attributable to `bon-brev-p7-c6`**
+>   · `build-content.mjs` → **5 books, 2011 questions, 2011 translated**.
+>
+> ### ✅ Hand-off INTO `bon-brev-p7-c6` — CONSUMED (kept for the record, superseded above)
+> - **★★ WHAT IT CLAIMED AND WHAT HELD — EVERY PARTICULAR.** It forwarded p. 287's nn. 6–9 with the block
+>   structure and the verbatim text of all four verified, the column of all four verified, and explicitly
+>   **no anchor word and no digit claimed in any of the four**. **All of it is confirmed** — the block
+>   split 5/4, the unnumbered right-block opening, the mid-word straddle of n. 5, the anchor split 5/4,
+>   and every word of the four notes' text. **Nothing needed correction, in contrast to the `text. 84` →
+>   `text. 81` fix `p7-c5` itself had to make on its own predecessor.**
+> - It recorded p. 287's gutter as 1163. **Re-derived independently and CONFIRMED exactly**, together with
+>   its diagnosis that the 1160/55 px default is a quiet sub-60 failure caused by a rule sitting 2 px left
+>   of the band centre.
+> - **★★ ITS ONE STRUCTURAL WARNING ABOUT p. 288 WAS WORTH MORE THAN ANY OF ITS DATA, AND IT WAS RIGHT TO
+>   CLAIM NOTHING.** It reported p. 288 as "the WORST-BEHAVED LEAF of the pars", listed four sound windows
+>   and eleven blow-outs, and called its own reading "a MEASUREMENT NOT MADE, not a value to adopt". **The
+>   observation reproduced exactly** — same four survivors, same eleven failures — **and the disclaimer is
+>   what made it useful**, because the four survivors spread 11 px and the true answer (1347) came from
+>   the ink profile, not from any of them.
+> - It gave Cap. VI's heading, subtitle and opening as far as `tam homines quam spiritus mali.`
+>   **Confirmed word for word.**
+> - It forwarded three gloss forms (`Thesis 1.`, `Thesis 2.`, `Thesis 3.`) as raw-corroborated only. **All
+>   three confirmed on the band**, and the two leaves carried fifteen in all, twelve of them first reads.
+> - It forecast that `Apoc. 14, 11` would be "two `1`/`4` decisions in five characters", that `d. 44` and
+>   `d. 50` would put the `4`/`5` pair live in one clause, and that `Matth. 5, 26` was settleable from the
+>   verse the note prints. **All three forecasts were exactly right and all three were worth having.**
+>
 > - **★★ THE TARGET, ITS HEADING AND ITS OPENING ARE ALREADY ON A BAND — AND `p7-c5` CLOSED CAP. V
 >   AGAINST THAT VERY HEADING, SO ITS POSITION IS VERIFIED, NOT OBSERVED.** `Cap. VI.` stands centred in
 >   p. 287's **RIGHT** column only about **20 %** down the leaf — **three lines into that column**, not
