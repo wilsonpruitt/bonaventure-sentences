@@ -17688,7 +17688,7 @@ bon-sent-IV-d49-p1-a1-q4	4	scholion		crossref	logical	I. Sent. d. 1. a. 2.	bon-s
 bon-sent-IV-d49-p1-a1-q4	4	scholion		crossref	logical	II. Sent. d. 38. a. 1. q. 2	bon-sent-II-d38-a1-q2		chunk		
 bon-sent-IV-d49-p1-a1-q4	4	scholion		crossref	logical	III. Sent. d. 27. a. 2. q. 3	bon-sent-III-d27-a2-q3		chunk		
 bon-sent-IV-d49-p1-a1-q4	4	scholion		crossref	chain-continuation	d. 31. a. 3. q. 1.	bon-sent-III-d31-a3-q1		chunk		
-bon-sent-IV-d49-p1-a1-q4	4	scholion		crossref	work	Breviloq. p. VII. c. 7	bon-brev-p7-c7		forward		
+bon-sent-IV-d49-p1-a1-q4	4	scholion		crossref	work	Breviloq. p. VII. c. 7	bon-brev-p7-c7		chunk		
 bon-sent-IV-d49-p1-a1-q4	4	scholion		crossref	logical	III. Sent. d. 26. a. 2. q. 5.	bon-sent-III-d26-a2-q5		chunk		
 bon-sent-IV-d49-p1-a1-q4	4	scholion		authority	authority:Henr. Gand.	II. Sent. d. 25. p. 1. q. 6.			excluded		
 bon-sent-IV-d49-p1-a1-q4	4	scholion		crossref	relative	infra d. 50. q. 5.			dangling		
@@ -19248,6 +19248,37 @@ bon-brev-p7-c6	5	apparatus:p288-5	p288-5	scripture	apparatus-explicit	I. Cor. 3,
 bon-brev-p7-c6	5	apparatus:p288-5	p288-5	crossref	logical	II. Sent. d. 31. a. 2. q. 3.	bon-sent-II-d31-a2-q3		chunk		
 bon-brev-p7-c6	5	apparatus:p288-6	p288-6	crossref	page	supra pag. 180, nota 6	tom5:p180		forward		
 bon-brev-p7-c6	5	apparatus:p288-6	p288-6	crossref	page	pag. 224, nota 8	bon-brev-p2-c5+bon-brev-p2-c6+bon-brev-p2-c7		page-multi		
+bon-brev-p7-c7	5	apparatus:p289-1	p289-1	scripture	apparatus-explicit	I. Cor. 13, 12	1Cor 13:12	A	verse		
+bon-brev-p7-c7	5	apparatus:p289-2	p289-2	crossref	page	tom. III. pag. 585, nota 8	bon-sent-III-d26-dubia		chunk		
+bon-brev-p7-c7	5	apparatus:p289-3	p289-3	crossref	logical	IV. Sent. d. 33. a. 2. q. 3	bon-sent-IV-d33-a2-q3		chunk		
+bon-brev-p7-c7	5	apparatus:p289-3	p289-3	crossref	relative	ibid. d. 49. p. I.	IV:d49		distinctio		
+bon-brev-p7-c7	5	apparatus:p289-4	p289-4	scripture	apparatus-explicit	Rom. 1, 20	Rom 1:20	A	verse		
+bon-brev-p7-c7	5	apparatus:p289-5	p289-5	crossref	page	supra pag. 224, nota 3	bon-brev-p2-c5+bon-brev-p2-c6+bon-brev-p2-c7		page-multi		
+bon-brev-p7-c7	5	apparatus:p289-6	p289-6	crossref	work	Quaest. de scientia Christi	work:scientia-christi		work		
+bon-brev-p7-c7	5	apparatus:p289-6	p289-6	crossref	logical	II. Sent. d. 10. a. 2. q. 2.	bon-sent-II-d10-a2-q2		chunk		
+bon-brev-p7-c7	5	apparatus:p289-8	p289-8	crossref	logical	II. Sent. d. 8. p. II. q. 2.	bon-sent-II-d8-p2-a1-q2		chunk		
+bon-brev-p7-c7	5	apparatus:p290-2	p290-2	scripture	apparatus-explicit	Psalm. 132, 2	Ps 132:2	A	verse		
+bon-brev-p7-c7	5	apparatus:p290-3	p290-3	scripture	apparatus-explicit	I. Cor. 12, 4	1Cor 12:4	A	verse		
+bon-brev-p7-c7	5	apparatus:p290-6	p290-6	scripture	anaphor->apparatus-explicit	loc. cit.	1Cor 12:4	A	verse	yes	I. Cor. 12, 4
+bon-brev-p7-c7	5	apparatus:p290-6	p290-6	scripture	apparatus-explicit	I. Cor. 2, 9	1Cor 2:9	A	verse		
+bon-brev-p7-c7	5	apparatus:p290-7	p290-7	scripture	apparatus-explicit	Matth. 13, 43	Matth 13:43	A	verse		
+bon-brev-p7-c7	5	apparatus:p290-7	p290-7	scripture	apparatus-explicit	Matth. 22, 30	Matth 22:30	A	verse		
+bon-brev-p7-c7	5	apparatus:p290-7	p290-7	scripture	apparatus-explicit	I. Cor. 15, 44	1Cor 15:44	A	verse		
+bon-brev-p7-c7	5	apparatus:p290-7	p290-7	scripture	apparatus-explicit	Sap. 5, 16	Sap 5:16	A	verse		
+bon-brev-p7-c7	5	apparatus:p290-7	p290-7	scripture	apparatus-explicit	Ps. 36, 39	Ps 36:39	A	verse		
+bon-brev-p7-c7	5	apparatus:p290-7	p290-7	scripture	apparatus-explicit	Ps. 16, 15	Ps 16:15	A	verse		
+bon-brev-p7-c7	5	apparatus:p290-7	p290-7	scripture	apparatus-explicit	Ps. 35, 9	Ps 35:9	A	verse		
+bon-brev-p7-c7	5	apparatus:p291-1	p291-1	scripture	apparatus-explicit	Ps. 35, 9	Ps 35:9	A	verse		
+bon-brev-p7-c7	5	apparatus:p291-2	p291-2	scripture	apparatus-explicit	Matth. 25, 21	Matth 25:21	A	verse		
+bon-brev-p7-c7	5	apparatus:p291-2	p291-2	scripture	anaphor->apparatus-explicit	ibid.	Matth 25:21	A	verse	yes	Matth. 25, 21
+bon-brev-p7-c7	5	apparatus:p291-2	p291-2	scripture	apparatus-explicit	Ps. 81, 6	Ps 81:6	A	verse		
+bon-brev-p7-c7	5	apparatus:p291-2	p291-2	scripture	apparatus-explicit	Ioan. 10, 34	Ioan 10:34	A	verse		
+bon-brev-p7-c7	5	apparatus:p291-2	p291-2	scripture	apparatus-explicit	Rom. 8, 17	Rom 8:17	A	verse		
+bon-brev-p7-c7	5	apparatus:p291-4	p291-4	scripture	apparatus-explicit	Matth. 22, 37	Matth 22:37	A	verse		
+bon-brev-p7-c7	5	apparatus:p291-5	p291-5	scripture	anaphor->apparatus-explicit	loc. cit.	Matth 22:37	A	verse	yes	Matth. 22, 37
+bon-brev-p7-c7	5	apparatus:p291-7	p291-7	scripture	apparatus-explicit	Ioan. 16, 24	Ioan 16:24	A	verse		
+bon-brev-p7-c7	5	apparatus:p291-8	p291-8	scripture	apparatus-explicit	Rom. 1, 25	Rom 1:25	A	verse		
+bon-brev-p7-c7	5	apparatus:p291-8	p291-8	scripture	apparatus-explicit	Matth. 25, 21	Matth 25:21	A	verse		
 bon-brev-prol-s1	5	apparatus:p203-1	p203-1	crossref	anaphor->work	ibid.	work:scientia-christi		work	cross-chunk	bon-brev-prol: Quaest. de scientia Christi
 bon-brev-prol-s1	5	apparatus:p203-1	p203-1	crossref	anaphor->work	loc. cit.	work:scientia-christi		work	cross-chunk	bon-brev-prol: Quaest. de scientia Christi
 bon-brev-prol-s1	5	apparatus:p203-2	p203-2	crossref	logical	III. Sent. d. 23. a. 1. q. 1.	bon-sent-III-d23-a1-q1		chunk		

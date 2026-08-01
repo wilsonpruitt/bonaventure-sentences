@@ -1323,6 +1323,79 @@ KNOWN_TOTALS = {
               # BELOW the whole register. On p.287, one leaf back, all three
               # coincided; nothing was inferred from that and nothing is
               # inferred from this.
+    289: 10,  # band-read in full by p7-c7, which owns ALL TEN. Left block
+              # nn.1-6 with n.6 STRADDLING the gutter, breaking off ON A
+              # COLON, mid-citation, at "August., de Quantitate animae,
+              # c. 36. n. 80 :" -- and THE PRINTER'S SIGNATURE
+              # "S. Bonav. -- Tom. V." stands DIRECTLY BENEATH it, so this
+              # leaf's gutter test cannot be closed from the upper side and
+              # was closed from the lower. Right block opens UNNUMBERED at
+              # "Subiicit [Deus] animae corpus, animam sibi et sic omnia
+              # sibi. Cfr. VI. Music. c. 5. n. 13. et Enarrat. in Ps. 145.
+              # n. 5. -- Paulo ante pro ordinate C D F G H ordinat." then
+              # nn.7-10, ending complete at "... K O V vere beata et plene."
+              # with the QUIRE NUMBER 37 beneath it. Neither the signature
+              # nor the quire number is a footer entry.
+              # Anchors: nn.1-6 LEFT (n.1 "facie ad faciem 1,", n.2 "qua 2
+              # resumta", n.3 "continentiae virginali 3.", n.4 "per opera
+              # 4;", n.5 "aliquid prope se 5,", n.6 "quam illustrat 6,");
+              # nn.7-10 RIGHT (n.7 "in miseria constitutae 7.", n.8 "et
+              # productio 8 Dei", n.9 "congregatione perfecto 9 >>", n.10
+              # "naturaliter insertam 10;").
+              # BLOCK 6/4, ANCHOR 6/4 -- they coincide, with the split
+              # falling INSIDE n.6. CAPITULUM 0/10: all ten are Cap. VII's.
+              # Gutter 1216, measured fresh with no constant: default
+              # 1216/56px, fourteen of fifteen row windows sound and
+              # agreeing 1213-1222 on 59-66px runs, ink profile band
+              # x=1189-1245 (57px) midpoint 1217, centre rule x=1211-1213
+              # peaking 672 rows and sitting WELL LEFT of the band centre.
+    290: 7,   # band-read in full by p7-c7, which owns ALL SEVEN. Left block
+              # nn.1-5 with n.5 STRADDLING the gutter, breaking off at a
+              # WORD BOUNDARY after "Subinde post vita creata"; right block
+              # opens UNNUMBERED at "P quanto melior vita creatrix...
+              # quanto iucundior salus... quanto amabilior sapientia; cod. P
+              # primum locum Anselmi tantum affert, ceteros omittit..." then
+              # nn.6-7, ending complete at "... permulti codd. corporis tui,
+              # ut." with a very large blank tail and no signature.
+              # Anchors: nn.1-4 LEFT (n.1 "fit corpus spiritui conforme 1",
+              # n.2 "in oram vestimenti 2,", n.3 "exercitia exteriora 3;",
+              # n.4 "speciali 4 formositate"); nn.5-7 RIGHT (n.5 "Ait enim
+              # in fine 5 Proslogii", n.6 "Qui hoc bono fruetur 6,", n.7
+              # "fulgebunt iusti sicut sol 7.").
+              # BLOCK 5/2 against ANCHOR 4/3 -- A ONE-NOTE OVERRUN: n.5
+              # prints in the LEFT block and anchors in the RIGHT column.
+              # CAPITULUM 0/7: all seven are Cap. VII's.
+              # Gutter 1365, measured fresh with no constant, and ALL
+              # SIXTEEN row windows FAILED (runs 208-452px, scattering
+              # 1239-1427) while the default 1365/62px was right to half a
+              # pixel: ink profile band x=1335-1396 (62px) midpoint 1365.5,
+              # centre rule x=1363-1367 peaking 302 rows, exactly centred.
+    291: 8,   # band-read in full by p7-c7, which owns ALL EIGHT. THE WORK'S
+              # LAST REGISTER. Left block nn.1-4 ending COMPLETE at n.4's
+              # four-word "Matth. 22, 37." with a very large blank tail and
+              # NO straddle; right block opens NUMBERED at "5 Anselm. loc.
+              # cit. c. 26." then nn.6-8, ending complete at "... substituit
+              # es trinus." with a very large blank tail and no signature.
+              # Anchors: nn.1-3 LEFT (n.1 "sine fine Deum laudantes 1.",
+              # n.2 "supra multa constituet 2,", n.3 "quale aut quantum est
+              # 3,"); nn.4-8 RIGHT (n.4 "toto corde, tota mente, tota anima
+              # 4,", n.5 "Nondum ergo 5,", n.6 "vel 6 proficiam", n.7
+              # "nostrum plenum sit 7.", n.8 "Amen 8 >>.").
+              # BLOCK 4/4 against ANCHOR 3/5 -- a SECOND one-note overrun on
+              # consecutive leaves (n.4 prints left, anchors right), and
+              # this one with no straddle to disguise it.
+              # CAPITULUM 0/8: all eight are Cap. VII's, and NOTHING is
+              # forwarded -- the Breviloquium ends on this leaf, closed
+              # POSITIVELY by the full-width centred colophon EXPLICIT
+              # BREVILOQUIUM FRATRIS BONAVENTURAE printed across both
+              # columns beneath the body. p.292 is BLANK PAPER ENTIRE and
+              # p.293 is the Itinerarium's display half-title.
+              # Gutter 1165, measured fresh: the default 1159/45px is a
+              # QUIET SUB-60 FAILURE and was rejected; eleven of sixteen
+              # windows sound at 1162-1168 on 60-63px runs; ink profile band
+              # x=1137-1193 (57px) midpoint 1165, with the centre rule
+              # printing as TWO parallel islands (x=1160-1163 peak 422 and
+              # x=1166-1169 peak 483) spanning 1160-1169, centre 1164.5.
               # Gutter 1347, settled fresh with no constant, and the DEFAULT'S
               # PROVENANCE IS REJECTED even though its value is close: colcrop
               # returns 1348 on a healthy-looking 61 px run, but ELEVEN of
