@@ -19205,6 +19205,11 @@ bon-brev-p7-c1	5	apparatus:p281-4	p281-4	crossref	page	supra pag. 218, nota 5	bo
 bon-brev-p7-c1	5	apparatus:p281-5	p281-5	scripture	apparatus-explicit	II. Cor. 5, 10	2Cor 5:10	A	verse		
 bon-brev-p7-c1	5	apparatus:p282-2	p282-2	scripture	apparatus-explicit	I. Cor. 13, 12	1Cor 13:12	A	verse		
 bon-brev-p7-c1	5	apparatus:p282-2	p282-2	scripture	apparatus-explicit	Ioan. 5, 22	Ioan 5:22	A	verse		
+bon-brev-p7-c2	5	apparatus:p282-4	p282-4	crossref	logical	IV. Sent. d. 20. p. I.	IV:d20		distinctio		
+bon-brev-p7-c2	5	apparatus:p282-5	p282-5	crossref	page	tom. IV. pag. 356, nota 6	bon-sent-IV-d15-p1-a1-q4+bon-sent-IV-d15-p1-a1-q5		page-multi		
+bon-brev-p7-c2	5	apparatus:p282-5	p282-5	crossref	page	supra pag. 224, nota 8	bon-brev-p2-c5+bon-brev-p2-c6+bon-brev-p2-c7		page-multi		
+bon-brev-p7-c2	5	apparatus:p282-6	p282-6	crossref	logical	IV. Sent. d. 44. p. II. a. 3. q. 2.	bon-sent-IV-d44-p2-a3-q2		chunk		
+bon-brev-p7-c2	5	apparatus:p283-2	p283-2	crossref	logical	IV. Sent. d. 21. p. I. a. 2. q. 1.	bon-sent-IV-d21-p1-a2-q1		chunk		
 bon-brev-prol-s1	5	apparatus:p203-1	p203-1	crossref	anaphor->work	ibid.	work:scientia-christi		work	cross-chunk	bon-brev-prol: Quaest. de scientia Christi
 bon-brev-prol-s1	5	apparatus:p203-1	p203-1	crossref	anaphor->work	loc. cit.	work:scientia-christi		work	cross-chunk	bon-brev-prol: Quaest. de scientia Christi
 bon-brev-prol-s1	5	apparatus:p203-2	p203-2	crossref	logical	III. Sent. d. 23. a. 1. q. 1.	bon-sent-III-d23-a1-q1		chunk		

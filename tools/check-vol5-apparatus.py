@@ -1108,6 +1108,50 @@ KNOWN_TOTALS = {
               # never from the index, never from p.282's running head (which
               # already reads "BREVILOQUII PARS VII. C. II." while 40% of the
               # leaf is still Cap. I), never from white space.
+              # ANCHOR SPLIT COMPLETED by p7-c2: nn.1-3 LEFT, nn.4-7 RIGHT, so
+              # the anchor split is 3/4 while the BLOCK split is 4/3 -- the block
+              # break falls one note BELOW the anchor break.
+    283: 6,   # band-read in full by p7-c2, which owns nn.1-3 ONLY; nn.4-6 anchor
+              # in Cap. III and are p7-c3's. n.1 anchors on "in quo sunt illi 1
+              # qui in inferno irremediabiliter cruciantur.", n.2 on "vel, ut
+              # magis credo 2," and n.3 on "cum inveniat 3 receptaculum idoneum"
+              # -- ALL THREE in the LEFT column, inside Cap. II. n.4 anchors on
+              # "« nec valde" ALSO in the LEFT column, but inside Cap. III.
+              # BLOCK 4/2 (left nn.1-4, right n.4's UNNUMBERED continuation then
+              # nn.5-6), CAPITULUM 3/3 -- the capitulum boundary again falls
+              # INSIDE the left footer block and inside the left column, above
+              # the block break. Same architecture as p.282; a coincidence, and
+              # nothing is inferred from it for p.284.
+              # Gutter 1169, settled fresh with no constant -- AND THE DEFAULT IS
+              # RIGHT. The default's 55 px run is NOT a truncated run: the left
+              # column's ink dies at x=1142 and the right column's resumes at
+              # x=1197, so the blank band is x=1143-1196, genuinely 54 px wide.
+              # Thirteen windows 10-89% agree 1166-1174 on 58-63 px runs; the
+              # 5-25% window blows out to 1339 on a 364 px run and is discarded.
+              # The printed rule stands inside the band at x=1164-1178 peaking
+              # 1455 rows -- the heaviest inking met anywhere in the quire -- but
+              # is close enough to centred (rule centre 1171, band midpoint
+              # 1169.5) not to corrupt the answer.
+              # RUNOVER: p.283's own gutter is POSITIVE and is logged by p7-c2 as
+              # `p.283 n.4:gutter` (n.4 ends at "Enchirid. c. 109. n. 29." with
+              # blank paper beneath; the right block opens UNNUMBERED at "Ibid.
+              # in Comment. a. 2. agitur de suffragiis Ecclesiae pro defunctis").
+              # THE STRADDLING NOTE IS NOT p7-c2's -- it is p7-c3's -- but the
+              # test is logged by p7-c2 under the standing rule that a leaf's
+              # gutter test belongs to the chunk that FIRST reaches the leaf.
+              # p7-c3 MUST NOT re-log it and MUST render n.4 joined.
+              # p.283 -> p.284 page-crossing NEGATIVE, closed from both sides by
+              # p7-c2 (p.283's right block ends complete at "ex G H I K L M V ad
+              # iunximus Deo." with blank paper; p.284's left block opens
+              # NUMBERED at "Cap. 2. n. 4. -- Superius pro accuratio F P
+              # curatio."). p7-c3 need not re-run it.
+              # NOTE: Cap. II's close is fixed POSITIVELY from the Cap. III
+              # heading and its TWO-line "De antecedentibus ad iudicium,
+              # cuiusmodi sunt suffragia ecclesiastica" subtitle at ~55% of
+              # p.283's LEFT column -- never from the index, never from p.283's
+              # running head (which already reads "PARS VII. C. III." while more
+              # than half the left column is still Cap. II), and never from the
+              # grammatically complete tail at "spiritus iam purgatus."
 }
 
 
