@@ -19346,6 +19346,60 @@ bon-brev-prol	5	apparatus:p202-3	p202-3	scripture	anaphor->apparatus-explicit	ib
 bon-brev-prol	5	apparatus:p202-3	p202-3	crossref	page	supra pag. 111, nota 1	tom5:p111		forward		
 bon-brev-prol	5	apparatus:p202-3	p202-3	scripture	apparatus-explicit	Eph. 3, 19	Eph 3:19	A	verse		
 bon-brev-prol	5	apparatus:p202-6	p202-6	crossref	work	Quaest. de scientia Christi	work:scientia-christi		work		
+bon-itin-c1	5	apparatus:p296-6	p296-6	scripture	apparatus-explicit	Psalm. 83, 6	Ps 83:6	A	verse		
+bon-itin-c1	5	apparatus:p297-1	p297-1	scripture	apparatus-explicit	Ps. 85, 11	Ps 85:11	A	verse		
+bon-itin-c1	5	apparatus:p297-1	p297-1	crossref	work	Breviloq. p. V. c. 1.	bon-brev-p5-c1		chunk		
+bon-itin-c1	5	apparatus:p297-2	p297-2	crossref	work	Breviloq. p. II. c. 12.	bon-brev-p2-c12		chunk		
+bon-itin-c1	5	apparatus:p297-2	p297-2	crossref	logical	II. Sent. d. 2. p. I. a. 1. q. 1.	bon-sent-II-d2-p1-a1-q1		chunk		
+bon-itin-c1	5	apparatus:p297-4	p297-4	scripture	apparatus-explicit	Exod. 3, 18	Exod 3:18	A	verse		
+bon-itin-c1	5	apparatus:p297-5	p297-5	scripture	apparatus-explicit	Gen. 1, 3	Gen 1:3	A	verse		
+bon-itin-c1	5	apparatus:p297-5	p297-5	crossref	page	supra pag. 230, nota 5	bon-brev-p2-c11+bon-brev-p2-c12		page-multi		
+bon-itin-c1	5	apparatus:p297-6	p297-6	scripture	apparatus-explicit	Marc. 12, 30	Marc 12:30	A	verse		
+bon-itin-c1	5	apparatus:p297-6	p297-6	scripture	apparatus-explicit	Matth. 22, 37	Matth 22:37	A	verse		
+bon-itin-c1	5	apparatus:p297-6	p297-6	scripture	apparatus-explicit	Luc. 10, 27	Luc 10:27	A	verse		
+bon-itin-c1	5	apparatus:p297-7	p297-7	scripture	apparatus-explicit	Apoc. 1, 8	Apoc 1:8	A	verse		
+bon-itin-c1	5	apparatus:p297-7	p297-7	crossref	logical	I. Sent. d. 3. p. I. q. 3.	bon-sent-I-d3-p1-a1-q3		chunk		
+bon-itin-c1	5	apparatus:p297-7	p297-7	crossref	work	Breviloq.	work:breviloquium		work		
+bon-itin-c1	5	apparatus:p297-8	p297-8	scripture	apparatus-explicit	III. Reg. 10, 19	3Reg 10:19	A	verse		
+bon-itin-c1	5	apparatus:p297-8	p297-8	scripture	apparatus-explicit	Isai. 6, 2	Isai 6:2	A	verse		
+bon-itin-c1	5	apparatus:p297-8	p297-8	scripture	apparatus-explicit	Exod. 24, 16	Exod 24:16	A	verse		
+bon-itin-c1	5	apparatus:p297-8	p297-8	scripture	apparatus-explicit	Matth. 17, 1	Matth 17:1	A	verse		
+bon-itin-c1	5	apparatus:p297-10	p297-10	scripture	apparatus-explicit	Gen. 2, 15	Gen 2:15	A	verse		
+bon-itin-c1	5	apparatus:p297-10	p297-10	crossref	work	Breviloq. p. III. c. 5.	bon-brev-p3-c5		chunk		
+bon-itin-c1	5	apparatus:p297-10	p297-10	scripture	apparatus-explicit	Tob. 5, 12	Tob 5:12	A	verse		
+bon-itin-c1	5	apparatus:p298-1	p298-1	scripture	apparatus-explicit	I. Cor. 1, 30	1Cor 1:30	A	verse		
+bon-itin-c1	5	apparatus:p298-1	p298-1	scripture	apparatus-explicit	Ioan. 1, 14	Ioan 1:14	A	verse		
+bon-itin-c1	5	apparatus:p298-1	p298-1	scripture	apparatus-explicit	I. Tim. 1, 5	1Tim 1:5	A	verse		
+bon-itin-c1	5	apparatus:p298-3	p298-3	scripture	apparatus-explicit	Psalm. 83, 8	Ps 83:8	A	verse		
+bon-itin-c1	5	apparatus:p298-3	p298-3	crossref	page	supra pag. 297, nota 1	bon-itin-c1		chunk		
+bon-itin-c1	5	apparatus:p298-4	p298-4	scripture	apparatus-explicit	Gen. 28, 12	Gen 28:12	A	verse		
+bon-itin-c1	5	apparatus:p298-4	p298-4	crossref	page	supra pag. 205, nota 2	bon-brev-prol-s3+bon-brev-prol-s4		page-multi		
+bon-itin-c1	5	apparatus:p298-4	p298-4	scripture	apparatus-explicit	Exod. 13, 3	Exod 13:3	A	verse		
+bon-itin-c1	5	apparatus:p298-5	p298-5	scripture	apparatus-explicit	Ioan. 13, 1	Ioan 13:1	A	verse		
+bon-itin-c1	5	apparatus:p298-5	p298-5	scripture	apparatus-explicit	Eccli. 24, 26	Eccli 24:26	A	verse		
+bon-itin-c1	5	apparatus:p298-5	p298-5	scripture	apparatus-explicit	Sap. 13, 5	Sap 13:5	A	verse		
+bon-itin-c1	5	apparatus:p298-6	p298-6	crossref	work	Breviloq.	work:breviloquium		work		
+bon-itin-c1	5	apparatus:p298-7	p298-7	scripture	apparatus-explicit	Sap. 11, 21	Sap 11:21	A	verse		
+bon-itin-c1	5	apparatus:p298-7	p298-7	crossref	page	supra pag. 54, nota 7	tom5:p54		forward		
+bon-itin-c1	5	apparatus:p298-7	p298-7	crossref	logical	I. Sent. d. 3. p. I. dub. 3.	bon-sent-I-d3-p1-dubia		chunk		
+bon-itin-c1	5	apparatus:p298-7	p298-7	crossref	page	supra pag. 82, nota 5	tom5:p82		forward		
+bon-itin-c1	5	apparatus:p298-7	p298-7	crossref	page	pag. 219, nota 1	bon-brev-p2-c1+bon-brev-p2-c2		page-multi		
+bon-itin-c1	5	apparatus:p298-7	p298-7	crossref	page	pag. 242, nota 5	bon-brev-p4-c1+bon-brev-p4-c2		page-multi		
+bon-itin-c1	5	apparatus:p298-8	p298-8	scripture	apparatus-explicit	Hebr. 11, 3	Hebr 11:3	A	verse		
+bon-itin-c1	5	apparatus:p298-8	p298-8	crossref	work	Breviloq.	work:breviloquium		work		
+bon-itin-c1	5	apparatus:p299-2	p299-2	crossref	work	Breviloq. p. II. c. 1.	bon-brev-p2-c1		chunk		
+bon-itin-c1	5	apparatus:p299-3	p299-3	crossref	page	supra pag. 214, nota 3	bon-brev-p1-c5+bon-brev-p1-c6		page-multi		
+bon-itin-c1	5	apparatus:p299-5	p299-5	crossref	logical	II. Sent. d. 7. p. II. a. 2. q. 1.	bon-sent-II-d7-p2-a2-q1		chunk		
+bon-itin-c1	5	apparatus:p299-5	p299-5	crossref	chain-continuation	d. 18. a. 1. q. 2.	bon-sent-II-d18-a1-q2		chunk		
+bon-itin-c1	5	apparatus:p299-6	p299-6	crossref	page	pag. 19, nota 7	tom5:p19		forward		
+bon-itin-c1	5	apparatus:p299-6	p299-6	crossref	page	supra pag. 12, nota 7	tom5:p12		forward		
+bon-itin-c1	5	apparatus:p299-7	p299-7	crossref	page	supra pag. 179, nota 9	tom5:p179		forward		
+bon-itin-c1	5	apparatus:p299-7	p299-7	crossref	work	Breviloq. p. II. c. 3.	bon-brev-p2-c3		chunk		
+bon-itin-c1	5	apparatus:p299-7	p299-7	crossref	anaphor->work	ibid.	bon-brev-p2-c3		chunk	yes	Breviloq. p. II. c. 3.
+bon-itin-c1	5	apparatus:p299-8	p299-8	scripture	apparatus-explicit	Prov. 22, 17	Prov 22:17	A	verse		
+bon-itin-c1	5	apparatus:p299-9	p299-9	scripture	apparatus-explicit	Sap. 5, 21	Sap 5:21	A	verse		
+bon-itin-c1	5	apparatus:p299-9	p299-9	scripture	apparatus-explicit	Ps. 91, 5	Ps 91:5	A	verse		
+bon-itin-c1	5	apparatus:p299-9	p299-9	scripture	apparatus-explicit	Ps. 103, 24	Ps 103:24	A	verse		
 bon-itin-prol	5	apparatus:p295-1	p295-1	scripture	apparatus-explicit	Iac. 1, 17	Iac 1:17	A	verse		
 bon-itin-prol	5	apparatus:p295-2	p295-2	scripture	apparatus-explicit	Eph. 1, 17	Eph 1:17	A	verse		
 bon-itin-prol	5	apparatus:p295-2	p295-2	scripture	apparatus-explicit	Luc. 1, 79	Luc 1:79	A	verse		

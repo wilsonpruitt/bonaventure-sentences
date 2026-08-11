@@ -1452,6 +1452,40 @@ KNOWN_TOTALS = {
               # direct ink profile shows the low channel x=1375-1399 in all
               # four page regions. Narrow-window "runs" of 300-450px on this
               # five-region leaf are the min-collection artifact, not bands.
+    297: 10,  # band-read in full by bon-itin-c1, which owns ALL TEN. Left block
+              # nn.1-6, n.6 breaking MID-WORD at "-- Su-" just above the
+              # signature line "S. Bonav. -- Tom. V."; right block opens with
+              # n.6's unnumbered continuation then nn.7-10. Blocks 6/4 but
+              # anchors 5/5 (nn.1-5 LEFT column, nn.6-10 RIGHT) -- n.6 anchors
+              # RIGHT and prints LEFT, a one-note underrun on top of a runover.
+              # Gutter 1187: default 1178/44px REJECTED (under the 60px floor);
+              # thirteen windows agree 1187-1188 on 60-63px runs, direct body
+              # profile band x=1157-1215 with the centre rule inking at
+              # x~1181-1190 (midpoint 1186). RAW: this page's body is the worst
+              # in the Itinerarium so far -- it DROPS A WHOLE LINE at the page
+              # foot ("posuit eum Deus in paradiso" jumps straight to p.298's
+              # "commutabile bonum"), losing "deliciarum 10. Sed avertens se a
+              # vero lumine ad", which n.10 independently lemmatises.
+    298: 9,   # band-read in full by bon-itin-c1, which owns ALL NINE. Left
+              # block nn.1-6 closing complete at "Prolog. sec. 2."; right block
+              # opens NUMBERED at n.7 then nn.8-9. NO runover. Blocks 6/3 but
+              # anchors 4/5 (nn.1-4 LEFT, nn.5-9 RIGHT) -- a two-note overrun.
+              # Gutter 1377: default 1378/60px, eleven sound windows spread
+              # 1375-1378, direct profile band x=1345-1408 (rule ~1374-1380).
+              # SIX of twenty-six windows returned 1245-1311 on 209-458px runs
+              # -- min-collection artifact, discarded on run width alone.
+    299: 10,  # band-read in full by bon-itin-c1, which owns NINE; n.10 anchors
+              # at "est altius" in Cap. II sec. 1 -> FORWARDED to bon-itin-c2.
+              # Left block nn.1-7, n.7 breaking at a PUNCTUATION boundary after
+              # "Aristot., de Praedicam. c. de Priori."; right block opens with
+              # n.7's unnumbered continuation then nn.8-10. Of the nine owned,
+              # blocks and anchors COINCIDE 7/2. Gutter 1172: default 1172/59px
+              # borderline, twenty-five windows spread 1169-1175 on 59-65px
+              # runs, direct band x=1142-1203 (rule ~1169-1174).
+              # *** THIS PAGE IS THE RUNNING-HEAD TRAP: its head already reads
+              # "... C. II." while Cap. I still fills the left column and most
+              # of the right. Cap. I's terminus was fixed from the in-place
+              # "Cap. II." HEADING in the right column, never from the head.
 }
 
 
