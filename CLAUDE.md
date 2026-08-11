@@ -363,14 +363,46 @@ p. 295). English title: **"The Journey of the Mind into God."**
   (`bon-itin-prol	-`); `check-vol5-census.py` normalizes. **This work has THREE
   suffix-less slugs** (prol, capitula, scholion) — the census blind-spot class,
   now ×3.
-- **Gutters measured:** p. 295 = 1162 (default's 55 px run confirmed by
-  re-profile) · p. 296 = 1387 (five-region leaf; the narrow-window 300–450 px
-  "runs" are the min-collection artifact — scattered equal minima reported as one
-  span, NOT a wide band; the full-height ink profile's contiguous low channel is
-  the signal on stacked-region pages).
+- **Gutters measured:** 295 = 1162 · 296 = 1387 · 299 = 1172 · 300 = 1364 ·
+  301 = 1228 · 302 = **1346** (colcrop's 1344 on a 55 px run REJECTED under the
+  sub-60 floor) · 303 = 1196.
+- **★★ WHY THE WINDOW CONSENSUS COLLAPSES IN THIS WORK — THE CENTRE RULE SPLITS THE
+  GUTTER INTO TWO SUB-BANDS (found 2026-08-11 across pp. 300–303).** The frozen Vol V
+  rule already says the in-gutter obstruction IS Quaracchi's printed column rule and
+  that a narrow run means the rule inked heavily. **This is the next fact after that:
+  on these leaves the rule leaves a zero-ink band on EITHER side of itself, each
+  ~26 px, inside a true band of ~60 px.** Every row window therefore lands on one
+  sub-band or the other and reports it as the whole gutter — which is why only 1–5 of
+  15 windows come back "sound" and why the sound ones still disagree. **The reading
+  that is right is the FULL band's midpoint, taken from the direct per-column ink
+  profile over the whole body+footer height** (step 3), never the window vote. Attested
+  p. 300 (band 1334–1393, rule 1365) · p. 301 (1198–1259, rule 1229 at 1078 rows) ·
+  p. 302 (1317–1376, rule 1349 OFF-centre — which is what dragged the default low) ·
+  p. 303 (1166–1225, rule 1198 at 1518 rows). **Corollary: a default that "looks
+  healthy" at 60+ px can still be the rule's position rather than the band's centre**
+  (pp. 300 and 303 both). Go to the profile on every Itinerarium leaf; it costs nothing.
+  Separately, on a leaf with STACKED REGIONS (p. 296 has five) the narrow-window
+  300–450 px "runs" are the min-collection artifact — scattered equal minima reported
+  as one span, not a wide band.
+- **★ BLOCK STRUCTURE AND ANCHOR STRUCTURE COME APART AS THE NORM HERE, NOT THE
+  EXCEPTION.** The left footer block overran the column division on **three consecutive
+  leaves** — p. 300 by TWO notes (nn. 4–5 print left, anchor right), p. 301 by one
+  (n. 5), p. 302 by one (n. 4) — on top of c1's p. 297 n. 6. Read anchors, only anchors,
+  and state the block split and the anchor split separately in every `## Notes`.
 - **Cadence:** 24 pp → ONE gate, at the work close (per the frozen table); deploy
   boundary = work close. Reverts to the standing per-structural-unit rule, the
   Breviloquium's work-close hold does not carry over.
+- **⚠ REGISTER STILL OPEN FOR cc. II–VII — decide at c2 and freeze it here, because
+  every later capitulum reuses it.** Cap. II forces: *apprehensio / oblectatio /
+  diiudicatio* (the three operations), *speciositas · suavitas · salubritas* (the
+  threefold delight), Augustine's seven kinds of number (*sonantes · occursores ·
+  progressores · sensuales · memoriales · iudiciales · artificiales*), *macrocosmus /
+  minor mundus*, *proportionalitas*, and *species* in its technical sense. None of
+  these is in the frozen table yet.
+- **▶ `bon-itin-c2` IS SCOUTED BUT NOT WRITTEN.** The whole plate read for pp. 299–303
+  is banked in `manual-review/itin-c2-plate-scouting.md` — verified span, all gutters
+  with evidence, the 26-entry register with block/anchor splits, the runover, both
+  hand-offs, every marginale. **Start there; do not re-read the bands.**
 
 ### Vol V mechanics
 
