@@ -1,23 +1,20 @@
 # Bonaventure Sentences — Next Session Resume
 
-> ## ✅ THE INDEX IS COMPLETE — PHASES 0, 1 AND 2 ALL SHIPPED (2026-07-31).
-> ## ✅✅✅ **THE BREVILOQUIUM IS COMPLETE — printed pp. 201–291, prologue + Partes I–VII, 79 chunks, closed 2026-08-01 by `bon-brev-p7-c7` (commit `9825164`).**
-> ## ✅ **PARS VII IS COMPLETE** — capp. I–VII all Tier 2, work- and pars-level closure check PASSED. See § "THE FRONT" below for the full check, the span map and the terminus.
-> ## ★★ THE WORK'S END IS FIXED POSITIVELY from the full-width centred colophon **`EXPLICIT BREVILOQUIUM FRATRIS BONAVENTURAE.`** printed across both columns beneath p. 291's body — with **p. 292 verified BLANK** and **p. 293 carrying the *Itinerarium*'s display half-title**.
-> ## ✅✅✅ **THE WORK-CLOSE POLISH GATE IS CLOSED — ALL FOUR PASSES, 2026-08-01.** Pass 1 (three `[?]` flags, all resolved at 600 dpi: reading certain, plate wrong, none emended) · pass 2 + `build-citations.py` (decoupled, ran every commit, clean) · **pass 3 (cross-chunk boundary integrity, 68 boundaries over pp. 201–291, ZERO corpus defects)** · pass 4 (disk cleanup, ~3.7 GB reclaimed). **✅ PUSHED 2026-08-01 with Wilson's OK.** ⛔ **THE DEPLOY IS STILL OWED AND STILL HELD** — Wilson OK'd the push and the cleanup but explicitly **NOT the deploy** (2026-08-01). It needs its own per-action OK.
-> ## ⛔ NEXT SESSION = **NOT A CHUNK.** The gate is done and the push is done. What remains at p. 291 is **the DEPLOY alone** (protected). **After it: the *Itinerarium mentis in Deum*, pp. 293–316, slug `itinerarium`, book id 6 — and per the frozen genre-boundary rule it earns its OWN MINI-PILOT before any grind.**
+> # ★★★ THE ITINERARIUM IS THE ACTIVE FRONT — MINI-PILOT DONE 2026-08-11 (Fable, per the genre-boundary rule).
 >
-> ## ⛔⛔ **THE DEPLOY AND THE PUSH WERE HELD UNTIL THE BREVILOQUIUM CLOSED AT p. 291 — WILSON'S DECISION, 2026-08-01. THE PUSH HAS SINCE BEEN MADE; THE DEPLOY HAS NOT AND STILL NEEDS HIS EXPLICIT PER-ACTION OK.**
-> The hold superseded the per-pars deploy trigger **FOR THAT WORK ONLY**. Consequences, all intended:
-> - **Pars VI and Pars VII ship TOGETHER**, along with the citation index and the two corpus corrections.
-> - **p. 291 is BOTH the deploy boundary AND the ~100-page polish gate.** They coincide there and nowhere
->   else in this work. No gate fired inside Pars VII, as designed.
-> - **Committing was unaffected** — two commits per chunk, every chunk, throughout.
-> - ⚠ **The hold did NOT change the frozen cadence rule in CLAUDE.md § "DEPLOY CADENCE" for any other
->   work, and CLAUDE.md was not edited on the strength of it. Do not edit it now either.** The Itinerarium
->   and everything after it revert to the standing per-structural-unit trigger.
+> ## ✅ **THE BREVILOQUIUM IS DEPLOYED AND VERIFIED LIVE.** Checked at source 2026-08-11: `browse/5/d/7/q/bon-brev-p7-c7` and `/scripture` both 200 on prod. The "deploy still owed" banner that stood here was STALE — the deploy happened after that note was written. (That check is dated and expires; re-verify at source, never from this line.)
+> ## ✅ **`bon-itin-prol` IS TIER 2 COMPLETE — the pilot chunk and the format reference for all `bon-itin-*` work** (pp. 295–296, 12 apparatus entries, zero `[?]` flags). Conventions frozen in CLAUDE.md § "ITINERARIUM — mini-pilot conventions": TEN chunks (prol ✅ · capitula · c1–c7 · scholion), register table (speculatio→speculation, excessus→transport, suspensio→uplifting, …), Quaracchi's ¶ numbers preserved as the citation unit.
+> ## ★★ **PILOT FINDS THAT GOVERN THE GRIND:**
+> - **The capitula table (p. 296) is TRANSMITTED TEXT, not editorial** — it carries its own apparatus note (n. 5, codex placement). It gets its own chunk, `bon-itin-capitula`. The Breviloquium precedent does not port; the test is apparatus ON the table.
+> - **`INCIPIT SPECULATIO PAUPERIS IN DESERTO.`** (p. 296) is the work's transmitted alternate title — folds into c1 and is RENDERED, not dropped.
+> - **Cap. VII's title differs between volume index and capitula table** (position of *totaliter*) — settle at c7 against the in-place heading.
+> - **p. 293 half-title and p. 294 blank both VERIFIED on the plate.** Prologue closed positively at `EXPLICIT PROLOGUS.`; body crosses the leaf 295→296 mid-quotation.
+> - **Gutters:** p. 295 = 1162 · p. 296 = 1387. On stacked-region leaves (p. 296 has five regions) narrow-window "runs" of 300–450 px are the tool's min-collection artifact; the full-height ink profile's contiguous low channel is the signal.
+> ## ▶▶ **NEXT CHUNK = `bon-itin-capitula`** (division 0, section 1, type `capitula`, p. 296 — short; inherits p. 296 n. 5 from prol's hand-off). Then c1 (pp. 296–299 claimed, inherits p. 296 n. 6 + the display heading + marginalia "Beatitudo supra nos." · "Virtus elevans."), then c2–c7, then the Scholion (pp. 313–316 claimed). **The grind is Opus one-chunk-per-subagent per the standing cadence; sequential, each chunk leads with the incoming hand-off.**
+> ## ⚠ **Cadence:** ONE polish gate, at the work close (24 pp); deploy boundary = work close p. 316. Per-structural-unit rule back in force (the Breviloquium's work-close hold does not carry over).
+> ## ✅ Verification suite state at the pilot commit: `check-vol5-apparatus.py` 80 chunks / 693 entries all passed (p. 296 correctly PENDING nn. 5–6) · `check-vol5-census.py` rosters agree 80/80 (now normalizes FULL slugs — non-Breviloquium ledger rows are written in full; this work has THREE suffix-less slugs: prol, capitula, scholion) · `polish-style-scan --volume 5` CLEAN (80 files) · `build-content.mjs` **2013/2013, 6 books** (book 6 renders: division 0 "Prologus", 12 apparatus entries) · `build-citations.py` clean, 20 records from the pilot chunk, all scripture apparatus-explicit.
 >
-> The exact commands, for when Wilson gives the OK (note **TWO** index steps before `build-content.mjs`):
+> The deploy recipe, for when a deploy boundary is reached (note **TWO** index steps before `build-content.mjs`):
 > ```
 > python3.11 tools/build-citations.py
 > python3.11 tools/build-index-json.py
@@ -26,6 +23,10 @@
 > npx vercel deploy --prod --prebuilt --archive=tgz
 > ```
 > and separately `git push origin master`. **Neither without Wilson's explicit per-action OK.**
+>
+> ---
+>
+> ## (historical — Breviloquium close, all resolved) ✅ THE INDEX IS COMPLETE — PHASES 0, 1, 2 SHIPPED 2026-07-31 · ✅ THE BREVILOQUIUM COMPLETE pp. 201–291, 79 chunks, closed by `bon-brev-p7-c7` (`9825164`), end fixed from the `EXPLICIT BREVILOQUIUM` colophon, p. 292 blank · ✅ WORK-CLOSE GATE CLOSED all four passes 2026-08-01 (68 boundaries, ZERO corpus defects, ~3.7 GB reclaimed) · ✅ PUSHED (`226c26d`) · ✅ DEPLOYED (see live-state line above).
 >
 > ### ★★ PARS VII SCOPE — the index claimed SEVEN capitula and **all seven spans are now VERIFIED on the plate**
 > **PARS VII, *De statu finalis iudicii*, HAS SEVEN CAPITULA**, pp. 281–291 (11 leaves).
