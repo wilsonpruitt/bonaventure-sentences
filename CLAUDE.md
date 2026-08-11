@@ -279,8 +279,8 @@ Vols V–X (2026-07-28).**
 | 2 | QD de scientia Christi | 3–43 | `scientia-christi` | 8 | planned |
 | 3 | QD de mysterio Trinitatis | 45–115 | `mysterio-trinitatis` | 9 | planned |
 | 4 | QD de perfectione evangelica | 117–198 | `perfectione-evangelica` | 10 | planned |
-| 5 | **Breviloquium** | 199–291 | `breviloquium` | 5 | **ACTIVE — pilot done** |
-| 6 | Itinerarium mentis in Deum | 293–316 | `itinerarium` | 6 | planned (next after Breviloquium) |
+| 5 | **Breviloquium** | 199–291 | `breviloquium` | 5 | **COMPLETE — gated + deployed 2026-08-01** |
+| 6 | **Itinerarium mentis in Deum** | 293–316 | `itinerarium` | 6 | **ACTIVE — mini-pilot done 2026-08-11** |
 | 7 | De reductione artium | 319–325 | `de-reductione` | 7 | planned |
 | 8 | Collationes in Hexaemeron | ~327–454 | `hexaemeron` | 11 | planned — **NOTE: it is in Vol V, not Vol VII as the old tracker claimed** |
 | 9 | Coll. de septem donis | ~455–503 | `septem-donis` | 12 | planned |
@@ -314,6 +314,63 @@ own mini-pilot) → Sermones.
 - File/id naming: `bon-brev-p{1..7}-c{N}` in `vol5/`.
 - Body pp. 201–291; part openings (`PARS PRIMA` + subtitle) fold into that pars's c1,
   per the established short-opener rule.
+
+### ITINERARIUM — mini-pilot conventions (frozen 2026-08-11; format reference = `vol5/bon-itin-prol.md`)
+
+Flat work, no partes: prologue + 7 capitula + Quaracchi's work-level Scholion,
+printed pp. 293–316 (p. 293 half-title VERIFIED, p. 294 MEASURED BLANK, body opens
+p. 295). English title: **"The Journey of the Mind into God."**
+
+- **TEN chunks:** `bon-itin-prol` (division 0, pp. 295–296, ✅ done — the pilot) ·
+  `bon-itin-capitula` (division 0, `section: 1`, `type: capitula`, p. 296) ·
+  `bon-itin-c{1..7}` (divisions 1–7, `type: capitulum`, `capitulum: N`) ·
+  `bon-itin-scholion` (division 8, `type: scholion`, pp. 313–316). The build's
+  title builder is type-first (`capitula` → "Capitula", `scholion` → "Scholion")
+  and renders flat-work divisions as `Cap. N`.
+- **★ THE CAPITULA TABLE IS TRANSMITTED TEXT — the Breviloquium precedent does NOT
+  port.** Its `EXPLICIUNT CAPITULA` line carries anchor ⁵ whose note records which
+  codices transmit the table in place vs. in-text, and § 5 claims the titles as
+  authorial (*praemittendo titulos*). It is chunked; the Breviloquium's editorial
+  capitula table (pp. 209–210) was not. Do not re-decide this per work by analogy —
+  **look for apparatus ON the table**; that is the test.
+- **Quaracchi's paragraph numbers (`1.`, `2.` …) are the citation unit**
+  ("Itin. c. N n. M") and are preserved verbatim at paragraph heads in BOTH
+  languages. Chapters have no interior headings; the numbers are the only
+  fine-grained address the work has.
+- **Index page claims (all unverified until closed on the band):** c1 296–299 ·
+  c2 299–303 · c3 303–306 · c4 306–308 · c5 308–310 · c6 310–312 · c7 312–313 ·
+  Scholion 313–316. Every end fixed positively from the NEXT `Cap. N.` heading
+  (c7 from the Scholion heading; Scholion from the work's end — *De reductione*'s
+  half-title stands at p. 317/319, span to be verified). The Breviloquium index
+  was right seven times out of seven at Pars VII and that run carries NO licence.
+- **⚠ Cap. VII's title differs between the volume index and the capitula table**
+  (index: *affectu totaliter in Deum per excessum transeunte*; table: *affectu in
+  Deum per excessum totaliter transeunte*). Settle at c7 time against the in-place
+  `Cap. VII.` heading; until then the registry carries the table's form.
+- **Two display headings fold into their chunks:** `INCIPIT PROLOGUS…` → prol;
+  **`INCIPIT SPECULATIO PAUPERIS IN DESERTO.`** → c1 — the second is the work's
+  TRANSMITTED alternate title (n. 5 names its codices), render it, don't drop it
+  as furniture.
+- **Register (exercised in the pilot, locked):** *speculatio* → "speculation" ·
+  *speculum* → "mirror" (one image in this work; the pun documented once, in the
+  pilot's Notes) · *contemplatio* → "contemplation" · *excessus* → "transport"
+  (NEVER "excess"; "ecstasy" is blocked by § 3's *ecstaticos excessus*) ·
+  *raptus* → "rapt/rapture" · *suspensio* → "uplifting" · *vestigium* → "vestige" ·
+  *gradus* → "steps" · *illuminationes scalares* → "ladder-like illuminations" ·
+  *mens* → "mind". Scripture on the Douay-Rheims base adjusted to Quaracchi's
+  actual Latin, as throughout the corpus.
+- **Census/ledger:** non-Breviloquium rows are written as FULL slugs
+  (`bon-itin-prol	-`); `check-vol5-census.py` normalizes. **This work has THREE
+  suffix-less slugs** (prol, capitula, scholion) — the census blind-spot class,
+  now ×3.
+- **Gutters measured:** p. 295 = 1162 (default's 55 px run confirmed by
+  re-profile) · p. 296 = 1387 (five-region leaf; the narrow-window 300–450 px
+  "runs" are the min-collection artifact — scattered equal minima reported as one
+  span, NOT a wide band; the full-height ink profile's contiguous low channel is
+  the signal on stacked-region pages).
+- **Cadence:** 24 pp → ONE gate, at the work close (per the frozen table); deploy
+  boundary = work close. Reverts to the standing per-structural-unit rule, the
+  Breviloquium's work-close hold does not carry over.
 
 ### Vol V mechanics
 

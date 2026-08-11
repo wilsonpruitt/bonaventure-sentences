@@ -19346,3 +19346,23 @@ bon-brev-prol	5	apparatus:p202-3	p202-3	scripture	anaphor->apparatus-explicit	ib
 bon-brev-prol	5	apparatus:p202-3	p202-3	crossref	page	supra pag. 111, nota 1	tom5:p111		forward		
 bon-brev-prol	5	apparatus:p202-3	p202-3	scripture	apparatus-explicit	Eph. 3, 19	Eph 3:19	A	verse		
 bon-brev-prol	5	apparatus:p202-6	p202-6	crossref	work	Quaest. de scientia Christi	work:scientia-christi		work		
+bon-itin-prol	5	apparatus:p295-1	p295-1	scripture	apparatus-explicit	Iac. 1, 17	Iac 1:17	A	verse		
+bon-itin-prol	5	apparatus:p295-2	p295-2	scripture	apparatus-explicit	Eph. 1, 17	Eph 1:17	A	verse		
+bon-itin-prol	5	apparatus:p295-2	p295-2	scripture	apparatus-explicit	Luc. 1, 79	Luc 1:79	A	verse		
+bon-itin-prol	5	apparatus:p295-2	p295-2	scripture	apparatus-explicit	Phil. 4, 7	Phil 4:7	A	verse		
+bon-itin-prol	5	apparatus:p295-2	p295-2	scripture	apparatus-explicit	Ioan. 14, 27	Ioan 14:27	A	verse		
+bon-itin-prol	5	apparatus:p295-4	p295-4	scripture	apparatus-explicit	Psalm. 119, 7	Ps 119:7	A	verse		
+bon-itin-prol	5	apparatus:p295-4	p295-4	scripture	apparatus-explicit	Ps. 121, 6	Ps 121:6	A	verse		
+bon-itin-prol	5	apparatus:p295-4	p295-4	scripture	apparatus-explicit	Ps. 75, 3	Ps 75:3	A	verse		
+bon-itin-prol	5	apparatus:p295-6	p295-6	scripture	apparatus-explicit	Isai. 6, 2	Isai 6:2	A	verse		
+bon-itin-prol	5	apparatus:p295-7	p295-7	scripture	apparatus-explicit	II. Cor. 12, 2	2Cor 12:2	A	verse		
+bon-itin-prol	5	apparatus:p295-7	p295-7	scripture	apparatus-explicit	Gal. 2, 19	Gal 2:19	A	verse		
+bon-itin-prol	5	apparatus:p295-7	p295-7	scripture	apparatus-explicit	Ioan. 13, 1	Ioan 13:1	A	verse		
+bon-itin-prol	5	apparatus:p295-8	p295-8	scripture	apparatus-explicit	Ioan. 10, 1	Ioan 10:1	A	verse		
+bon-itin-prol	5	apparatus:p295-8	p295-8	scripture	anaphor->apparatus-explicit	ibid.	Ioan 10:1	A	verse	yes	Ioan. 10, 1
+bon-itin-prol	5	apparatus:p295-8	p295-8	scripture	apparatus-explicit	Apoc. 22, 14	Apoc 22:14	A	verse		
+bon-itin-prol	5	apparatus:p296-1	p296-1	scripture	apparatus-explicit	Dan. 9, 23	Dan 9:23	A	verse		
+bon-itin-prol	5	apparatus:p296-1	p296-1	scripture	apparatus-explicit	Ps. 37, 9	Ps 37:9	A	verse		
+bon-itin-prol	5	apparatus:p296-2	p296-2	scripture	apparatus-explicit	Hebr. 1, 3	Hebr 1:3	A	verse		
+bon-itin-prol	5	apparatus:p296-2	p296-2	scripture	apparatus-explicit	I. Ioan. 2, 20	1Ioan 2:20	A	verse		
+bon-itin-prol	5	apparatus:p296-3	p296-3	scripture	apparatus-explicit	Psalm. 44, 8	Ps 44:8	A	verse		

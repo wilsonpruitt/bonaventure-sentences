@@ -175,17 +175,41 @@ const WORKS = {
       7: "Pars VII: De statu finalis iudicii",
     },
   },
+  itinerarium: {
+    book: 6,
+    tome: 5,
+    title: "Itinerarium mentis in Deum",
+    initial: "I",
+    divisionLabel: "Chapters",
+    divisions: {
+      0: "Prologus",
+      1: "Cap. I: De gradibus ascensionis in Deum et de speculatione ipsius per vestigia eius in universo",
+      2: "Cap. II: De speculatione Dei in vestigiis suis in hoc sensibili mundo",
+      3: "Cap. III: De speculatione Dei per suam imaginem naturalibus potentiis insignitam",
+      4: "Cap. IV: De speculatione Dei in sua imagine donis gratuitis reformata",
+      5: "Cap. V: De speculatione divinae unitatis per eius nomen primarium, quod est esse",
+      6: "Cap. VI: De speculatione beatissimae Trinitatis in eius nomine, quod est bonum",
+      7: "Cap. VII: De excessu mentali et mystico, in quo requies datur intellectui, affectu in Deum per excessum totaliter transeunte",
+      8: "Scholion",
+    },
+  },
   // Future Vol V works claim book ids here as their mini-pilots run:
-  // itinerarium: 6, de-reductione: 7, scientia-christi: 8, mysterio-trinitatis: 9,
+  // de-reductione: 7, scientia-christi: 8, mysterio-trinitatis: 9,
   // perfectione-evangelica: 10, hexaemeron: 11, septem-donis: 12,
   // decem-praeceptis: 13, sermones-selecti: 14.
 };
 
 function buildWorkChunkTitle(meta) {
-  // Breviloquium-style: "Prologus", "Prologus, §2", "Pars 3, Cap. 4".
+  // Type-first: standalone transmitted capitula tables and work-level scholia
+  // (Itinerarium shape) name themselves regardless of division.
+  if (meta.type === "capitula") return "Capitula";
+  if (meta.type === "scholion") return "Scholion";
   if (meta.division === 0) {
     return meta.section ? `Prologus, §${meta.section}` : "Prologus";
   }
+  // Flat works (no partes): division IS the capitulum (Itinerarium).
+  if (meta.workSlug === "itinerarium") return `Cap. ${meta.division}`;
+  // Breviloquium-style: "Pars 3, Cap. 4".
   const parts = [`Pars ${meta.division}`];
   if (meta.capitulum) parts.push(`Cap. ${meta.capitulum}`);
   return parts.join(", ");

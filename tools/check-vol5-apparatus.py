@@ -1433,6 +1433,25 @@ KNOWN_TOTALS = {
               # lemmatising "ordinante". Its footer is good on every digit and
               # wrong on THREE siglum letters in three consecutive notes
               # ("1!}|" for B H, "U P" for G P, "K I K L 0 P" for E I K L O P).
+    # --- ITINERARIUM (pp. 295-316) ---
+    295: 8,   # band-read in full by bon-itin-prol, which owns ALL EIGHT.
+              # Left block nn.1-5 ending COMPLETE at n.5's "montem quietum.";
+              # right block opens NUMBERED at "6 Cfr. Vitae primae" then
+              # nn.7-8, ending complete at "civitatem." No runovers.
+              # Anchors: nn.1-5 LEFT, nn.6-8 RIGHT. p.293 = Itinerarium
+              # half-title (verified), p.294 = MEASURED BLANK.
+              # Gutter 1162: default 1163/55px borderline-suspect, confirmed
+              # by re-profiling (three windows 1159-1163 on 55-64px runs).
+    296: 6,   # band-read in full by bon-itin-prol. nn.1-4 = the prologue's
+              # (nn.1-2 anchor LEFT, nn.3-4 RIGHT); n.5 anchors on
+              # "EXPLICIUNT CAPITULA" -> FORWARDED to bon-itin-capitula;
+              # n.6 anchors at "in loco, quem posuit" (Cap. I, right col
+              # top) -> FORWARDED to bon-itin-c1. Blocks: nn.1-3 left,
+              # nn.4-6 right. No runovers.
+              # Gutter 1387: default 1363/48px pointed at the true channel;
+              # direct ink profile shows the low channel x=1375-1399 in all
+              # four page regions. Narrow-window "runs" of 300-450px on this
+              # five-region leaf are the min-collection artifact, not bands.
 }
 
 

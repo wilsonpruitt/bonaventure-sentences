@@ -69,12 +69,19 @@ def main():
     for chunk_dir, ledger_path, prefix in VOLUMES:
         rows = read_ledger(ledger_path)
 
+        # Full slugs throughout. The ledger's historical rows are short
+        # Breviloquium forms ("p7-c5") and expand with the default prefix;
+        # other works' rows are written in full ("bon-itin-prol") — one
+        # vol5/ directory holds many works, so a single prefix can't scan it.
         on_disk = {
-            f[len(prefix):-3]
+            f[:-3]
             for f in os.listdir(os.path.join(ROOT, chunk_dir))
-            if f.startswith(prefix) and f.endswith(".md")
+            if f.startswith("bon-") and f.endswith(".md")
         }
-        in_ledger = [slug for slug, _ in rows]
+        in_ledger = [
+            slug if slug.startswith("bon-") else prefix + slug
+            for slug, _ in rows
+        ]
 
         dupes = {s for s in in_ledger if in_ledger.count(s) > 1}
         missing = on_disk - set(in_ledger)   # chunk exists, never tested
@@ -84,14 +91,14 @@ def main():
               f"{len(in_ledger)} in ledger")
 
         for slug in sorted(missing):
-            print(f"  ✗ MISSING from ledger: {prefix}{slug} — runover test not "
+            print(f"  ✗ MISSING from ledger: {slug} — runover test not "
                   f"on record. This is the bug the ledger exists to catch.")
             failed = True
         for slug in sorted(stale):
-            print(f"  ✗ STALE ledger row: {prefix}{slug} has no file")
+            print(f"  ✗ STALE ledger row: {slug} has no file")
             failed = True
         for slug in sorted(dupes):
-            print(f"  ✗ DUPLICATE ledger row: {prefix}{slug}")
+            print(f"  ✗ DUPLICATE ledger row: {slug}")
             failed = True
 
         events = [e for _, evs in rows for e in evs]
