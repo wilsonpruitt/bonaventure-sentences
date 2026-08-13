@@ -430,8 +430,34 @@ p. 295). English title: **"The Journey of the Mind into God."**
   p. 302's 55 px default (1344 → true 1346); c3's three defaults all came in at **58–59 px and
   all three were CONFIRMED** at the direct profile (304 = 1330, 305 = 1229, 306 = 1325). Both
   outcomes are normal. What is not optional is printing the profile.
-- **✅ `bon-itin-c3` IS WRITTEN** (pp. 303–306, 17 entries, zero `[?]`). ▶ **The front is
-  `bon-itin-c4`.**
+- **★★ A WIDE GUTTER RUN IS A FAILURE SIGNAL TOO — AND THE BODY-ONLY WINDOW IS WHAT PRODUCES
+  IT (fresh instance at c4, p. 308).** Profiled over the body rows alone, p. 308 returns a
+  **161 px** "band" because Cap. V's heading and subtitle sit inside the left column at ~40 %
+  depth; the **body + footer** profile gives the true 64 px band. This is the same species as
+  p. 263's 375 px and p. 252's ~330 px: **far above the sound 58–64 px band is as much a
+  failure as far below it.** Expect it on every leaf where a capitulum opens mid-column — in
+  this work, most leaves. **Profile over body+footer, not body alone, whenever a heading falls
+  inside a column.**
+- **★★ A FOOTER BLOCK DOES NOT ALWAYS OPEN NUMBERED — PAGE-CROSSING RUNOVERS EXIST, AND NO
+  HAND-OFF WILL WARN YOU (earned at c4, 2026-08-13).** p. 306 n. 9 breaks at the foot of the
+  page and continues **unnumbered at the head of p. 307's LEFT footer** — the sixth
+  page-crossing runover in all of Vol V. `bon-itin-c3`'s hand-off was correct in every
+  particular and silent about it, because c3 owned only p. 306 n. 1 and never read p. 307's
+  footer. **This is the concrete argument for the standing rule that a hand-off tells you
+  which notes are yours and never where they land.** A reader assuming every block opens
+  numbered will either mis-assign the fragment to n. 1 or lose it outright.
+- **★ REGISTER ADDITIONS FROM c4 (frozen 2026-08-13):** the five spiritual senses take the
+  ordinary English words (*auditus · visus · olfactus · gustus · tactus* → hearing · sight ·
+  smell · taste · touch), since Bonaventure's point is that they are the bodily five recovered
+  spiritually. **The nine hierarchic acts are GERUNDS, not -tion nouns** — *nuntiatio ·
+  dictatio · ductio · ordinatio · roboratio · imperatio · susceptio · revelatio · unctio* →
+  announcing · dictating · leading · ordering · strengthening · commanding · receiving ·
+  revealing · anointing; "dictation" and "unction" carry the wrong sense for acts answering to
+  the nine angelic orders. *Hierarchicus* → "hierarchic" (never "hierarchical"), *hierarcha* →
+  "hierarch". ★ *excessus* → **"transport"** is load-bearing here: c4 § 3's *ecstaticus amor*
+  takes "ecstatic love", which is exactly why *excessus* cannot also have it.
+- **✅ `bon-itin-c3` and `bon-itin-c4` ARE WRITTEN** (pp. 303–306, 17 entries; pp. 306–308,
+  19 entries; zero `[?]` in both). ▶ **The front is `bon-itin-c5`.**
 - **✅ `bon-itin-c2` IS WRITTEN** (pp. 299–303, 26 entries, zero `[?]`). Its plate scouting
   survives at `manual-review/itin-c2-plate-scouting.md`; the chunk's own `## Notes` is now
   the fuller record.
