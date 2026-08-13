@@ -1486,6 +1486,36 @@ KNOWN_TOTALS = {
               # "... C. II." while Cap. I still fills the left column and most
               # of the right. Cap. I's terminus was fixed from the in-place
               # "Cap. II." HEADING in the right column, never from the head.
+    300: 7,   # band-read in full by bon-itin-c2, which owns ALL SEVEN. Blocks
+              # 5 L / 2 R but anchors 3 L / 4 R -- nn.4-5 PRINT LEFT and ANCHOR
+              # RIGHT, a TWO-note overrun, the largest on the span. n.5 carries
+              # this chunk's only runover: left block breaks at "Ibid. VIII.",
+              # right footer opens with its unnumbered continuation "text. 27.
+              # seqq. (c. 4.) agitur de motu animalium." Corroborated from the
+              # plate itself: p.301 n.7 cites "supra pag. 300, nota 7", so the
+              # register is independently known to be exactly 7. Gutter 1364:
+              # default 1365/62px looks healthy but sits ON the centre rule
+              # (peak 457 rows); true band x=1334-1393, midpoint 1364.
+    301: 8,   # band-read in full by bon-itin-c2, which owns ALL EIGHT. Blocks
+              # 5 L / 3 R, anchors 4 L / 4 R -- n.5 prints LEFT, anchors RIGHT,
+              # a one-note overrun. No runover: both blocks open numbered and
+              # close complete. Gutter 1228 confirmed (default 1228/60px; band
+              # x=1198-1259, rule 1229 at 1078 rows).
+    302: 8,   # band-read in full by bon-itin-c2, which owns ALL EIGHT. Blocks
+              # 4 L / 4 R, anchors 3 L / 5 R -- n.4 prints LEFT, anchors RIGHT,
+              # a one-note overrun, the THIRD consecutive leaf on which the
+              # left block overran the column division. No runover. Gutter
+              # 1346: colcrop's 1344 on a 55px run REJECTED under the sub-60
+              # floor; band x=1317-1376 with the rule OFF-CENTRE at 1349, which
+              # is what dragged the default low.
+    303: 7,   # band-read in full by bon-itin-c2, which owns only nn.1-2 (both
+              # anchor LEFT, in Cap. II sec. 12-13); nn.3-7 are Cap. III's and
+              # are FORWARDED to bon-itin-c3. Blocks 5 L / 2 R. n.5 breaks
+              # mid-entry across the gutter -- that runover is c3's to log, NOT
+              # c2's. Gutter 1196: default 1198/60px sits on a very heavily
+              # inked rule (peak 1518 rows), band x=1166-1225, midpoint 1196.
+              # Cap. II's terminus fixed from the in-place "Cap. III." heading
+              # ~40% down the LEFT column, never from the running head.
 }
 
 

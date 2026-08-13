@@ -19400,6 +19400,36 @@ bon-itin-c1	5	apparatus:p299-8	p299-8	scripture	apparatus-explicit	Prov. 22, 17	
 bon-itin-c1	5	apparatus:p299-9	p299-9	scripture	apparatus-explicit	Sap. 5, 21	Sap 5:21	A	verse		
 bon-itin-c1	5	apparatus:p299-9	p299-9	scripture	apparatus-explicit	Ps. 91, 5	Ps 91:5	A	verse		
 bon-itin-c1	5	apparatus:p299-9	p299-9	scripture	apparatus-explicit	Ps. 103, 24	Ps 103:24	A	verse		
+bon-itin-c2	5	apparatus:p300-2	p300-2	crossref	work	Breviloq. p. II. c. 3.	bon-brev-p2-c3		chunk		
+bon-itin-c2	5	apparatus:p300-3	p300-3	scripture	apparatus-explicit	Hebr. 1, 14	Hebr 1:14	A	verse		
+bon-itin-c2	5	apparatus:p300-3	p300-3	crossref	logical	II. Sent. d. 10.	II:d10		distinctio		
+bon-itin-c2	5	apparatus:p300-4	p300-4	crossref	page	supra pag. 227, nota 5	bon-brev-p2-c10+bon-brev-p2-c9		page-multi		
+bon-itin-c2	5	apparatus:p300-4	p300-4	crossref	page	supra pag. 221, nota 1	bon-brev-p2-c3+bon-brev-p2-c4		page-multi		
+bon-itin-c2	5	apparatus:p300-7	p300-7	crossref	page	tom. I. pag. 38, nota 4	bon-sent-I-d1-a3-q1		chunk		
+bon-itin-c2	5	apparatus:p300-7	p300-7	crossref	page	tom. IV. pag. 391, nota 3	bon-sent-IV-d16-p1-a3-q1+bon-sent-IV-d16-p1-a4-q1		page-multi		
+bon-itin-c2	5	apparatus:p301-1	p301-1	crossref	page	tom. I. pag. 544, nota 8	bon-sent-I-d31-p2-a1-q3		chunk		
+bon-itin-c2	5	apparatus:p301-1	p301-1	crossref	page	tom. IV. pag. 1025, nota 3	bon-sent-IV-d49-p2-s2-a2-q1		chunk		
+bon-itin-c2	5	apparatus:p301-4	p301-4	crossref	page	supra pag. 17, nota 3	tom5:p17		forward		
+bon-itin-c2	5	apparatus:p301-6	p301-6	scripture	apparatus-explicit	Col. 1, 15	Col 1:15	A	verse		
+bon-itin-c2	5	apparatus:p301-6	p301-6	scripture	apparatus-explicit	Hebr. 1, 3	Hebr 1:3	A	verse		
+bon-itin-c2	5	apparatus:p301-6	p301-6	crossref	logical	III. Sent. d. 10. a. 1. q. 3.	bon-sent-III-d10-a1-q3		chunk		
+bon-itin-c2	5	apparatus:p301-6	p301-6	crossref	logical	I. Sent. d. 27. p. II. q. 4.	bon-sent-I-d27-p2-a1-q4		chunk		
+bon-itin-c2	5	apparatus:p301-7	p301-7	crossref	page	supra pag. 300, nota 7	bon-itin-c2		chunk		
+bon-itin-c2	5	apparatus:p301-7	p301-7	crossref	page	supra pag. 12, nota 7	tom5:p12		forward		
+bon-itin-c2	5	apparatus:p301-7	p301-7	crossref	page	pag. 33, nota 5	tom5:p33		forward		
+bon-itin-c2	5	apparatus:p302-1	p302-1	crossref	page	supra pag. 17, nota 4	tom5:p17		forward		
+bon-itin-c2	5	apparatus:p302-1	p302-1	crossref	page	tom. I. pag. 69, nota 12	bon-sent-I-d3-p1-a1-q1		chunk		
+bon-itin-c2	5	apparatus:p302-2	p302-2	crossref	work	Quaest. de scientia Christi	work:scientia-christi		work		
+bon-itin-c2	5	apparatus:p302-5	p302-5	crossref	page	supra pag. 11, nota 6	tom5:p11		forward		
+bon-itin-c2	5	apparatus:p302-5	p302-5	crossref	page	pag. 221, nota 3	bon-brev-p2-c3+bon-brev-p2-c4		page-multi		
+bon-itin-c2	5	apparatus:p302-6	p302-6	scripture	apparatus-explicit	Isai. 6, 2	Isai 6:2	A	verse		
+bon-itin-c2	5	apparatus:p302-8	p302-8	scripture	apparatus-explicit	Rom. 1, 20	Rom 1:20	A	verse		
+bon-itin-c2	5	apparatus:p302-8	p302-8	crossref	work	Breviloq. p. I. c. 5	bon-brev-p1-c5		chunk		
+bon-itin-c2	5	apparatus:p302-8	p302-8	crossref	logical	I. Sent. d. 16. q. 1.	bon-sent-I-d16-a1-q1		chunk		
+bon-itin-c2	5	apparatus:p302-8	p302-8	crossref	logical	II. Sent. d. 10. a. 3. q. 2.	bon-sent-II-d10-a3-q2		chunk		
+bon-itin-c2	5	apparatus:p303-2	p303-2	scripture	apparatus-explicit	Rom. 1, 20	Rom 1:20	A	verse		
+bon-itin-c2	5	apparatus:p303-2	p303-2	scripture	apparatus-explicit	I. Cor. 15, 57	1Cor 15:57	A	verse		
+bon-itin-c2	5	apparatus:p303-2	p303-2	scripture	apparatus-explicit	I. Petr. 2, 9	1Petr 2:9	A	verse		
 bon-itin-prol	5	apparatus:p295-1	p295-1	scripture	apparatus-explicit	Iac. 1, 17	Iac 1:17	A	verse		
 bon-itin-prol	5	apparatus:p295-2	p295-2	scripture	apparatus-explicit	Eph. 1, 17	Eph 1:17	A	verse		
 bon-itin-prol	5	apparatus:p295-2	p295-2	scripture	apparatus-explicit	Luc. 1, 79	Luc 1:79	A	verse		
