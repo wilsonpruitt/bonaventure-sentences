@@ -1598,6 +1598,38 @@ KNOWN_TOTALS = {
               # sound -- a sub-60 run that was RIGHT, on the same span as a
               # 60 px run that was WRONG. Run width triggers the look; it
               # does not decide the answer.
+    311: 7,   # band-read in full by bon-itin-c6, which owns ALL SEVEN.
+              # Blocks 5 L / 2 R, ANCHORS 4 L / 3 R -- the left block
+              # overruns by one note. nn.1-4 anchor LEFT (sec. 2's
+              # "permixto"1 and "omnimodam"2, sec. 3's "nostrae"3 and
+              # "ideo"4); nn.5-7 anchor RIGHT (sec. 4's "propitiatorium"5,
+              # sec. 5's "formato"6, sec. 6's "substantiarum"7).
+              # p.311 n.5 runs over the GUTTER, breaking mid-parenthesis
+              # and mid-phrase at "...versis etc. (Non | pauci codd. in
+              # propitiatorio)" -- the fragment reads as a fresh note if
+              # you do not check. Logged by bon-itin-c6; NOT forwarded by
+              # anyone. The left footer block opens NUMBERED, so nothing
+              # crosses from p.310; checked, not assumed.
+              # *** GUTTER 1172: true band x=1143-1202 (60 px) with the
+              # centre rule inked at 1168-1174. The 1172/59px default --
+              # under the frozen floor -- landed exactly on the band's
+              # midpoint and was RIGHT.
+    312: 9,   # band-read in full by bon-itin-c6, which owns ONLY nn.1-2
+              # (both anchor LEFT, in Cap. VI sec. 7: "imaginem Dei"1 and
+              # "quod patrarat"2 -- the chapter's last words). nn.3-9 are
+              # Cap. VII's and are FORWARDED to bon-itin-c7. Blocks
+              # 6 L / 3 R. *** THE CAPITULUM BOUNDARY FALLS INSIDE THE
+              # LEFT BLOCK AGAIN, between nn.2 and 3, two leaves after the
+              # same shape at p.310. For c6's own two notes block and
+              # anchor COINCIDE -- the first coincidence since p.307, and
+              # a fact about two notes, not about the leaf.
+              # p.312 n.6 runs over the gutter into the right block
+              # ("...Et comedetis [agnum paschalem] festi- | nanter; est
+              # enim phase..."); n.6 is c7's to log, NOT c6's.
+              # The left footer block opens NUMBERED, so nothing crosses
+              # from p.311; checked, not assumed.
+              # *** GUTTER 1388: true band x=1356-1420 (65 px), centre
+              # rule at 1388-1389. Default confirmed at the midpoint.
 }
 
 
