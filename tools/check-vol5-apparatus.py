@@ -1544,6 +1544,25 @@ KNOWN_TOTALS = {
               # reads "... C. IV." while Cap. III still holds the top of the
               # left column. Cap. III's terminus was fixed from the in-place
               # "Cap. IV." HEADING and its subtitle, never from the head.
+    307: 9,   # band-read in full by bon-itin-c4, which owns ALL NINE. Blocks
+              # 5 L / 4 R and anchors 5 L / 4 R -- they COINCIDE, as they also
+              # do on p.306, after six straight leaves (300-305) on which they
+              # came apart. Carry no licence from that: read anchors every leaf.
+              # *** THE LEFT BLOCK OPENS WITH AN UNNUMBERED FRAGMENT -- it is
+              # p.306 n.9's PAGE-CROSSING continuation ("electa ut sol. Tertius
+              # ibid. 8, 5. ..."), logged under bon-itin-c4. A reader assuming
+              # every block opens numbered would mis-assign it to n.1 or lose
+              # it outright. Gutter 1263 (default 1262/60px, band x=1233-1293).
+    308: 9,   # band-read in full by bon-itin-c4, which owns only nn.1-2 (both
+              # anchor LEFT, in Cap. IV secs. 7-8); nn.3-9 are Cap. V's and are
+              # FORWARDED to bon-itin-c5. Blocks 7 L / 2 R; n.7 runs over the
+              # gutter and is c5's to log, NOT c4's.
+              # *** GUTTER 1317, AND THE BODY-ONLY WINDOW FAILS ON THIS LEAF:
+              # profiled over body rows alone it returns a 161 px "band"
+              # (1286-1446) because Cap. V's heading + subtitle sit inside the
+              # left column at ~40% depth. The body+footer profile gives the
+              # true band x=1286-1349 (64 px), matching the 1317/61px default.
+              # A 161px run is as much a failure signal as a 20px one.
 }
 
 

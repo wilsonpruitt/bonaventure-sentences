@@ -18843,7 +18843,7 @@ bon-brev-p4-c1	5	apparatus:p241-6	p241-6	crossref	page	tom. III. pag. 19, nota 2
 bon-brev-p4-c1	5	apparatus:p241-7	p241-7	scripture	apparatus-explicit	Phil. 2, 7	Phil 2:7	A	verse		
 bon-brev-p4-c1	5	apparatus:p241-9	p241-9	scripture	apparatus-explicit	Ioan. 1, 14	Ioan 1:14	A	verse		
 bon-brev-p4-c1	5	apparatus:p241-10	p241-10	crossref	page	supra pag. 183, nota 3	tom5:p183		forward		
-bon-brev-p4-c1	5	apparatus:p242-2	p242-2	crossref	work	Itinerar. c. 4.	bon-itin-c4		forward		
+bon-brev-p4-c1	5	apparatus:p242-2	p242-2	crossref	work	Itinerar. c. 4.	bon-itin-c4		chunk		
 bon-brev-p4-c10	5	apparatus:p251-1	p251-1	scripture	apparatus-explicit	Marc. 16, 19	Marc 16:19	A	verse		
 bon-brev-p4-c10	5	apparatus:p251-1	p251-1	scripture	apparatus-explicit	Act. 1, 1	Act 1:1	A	verse		
 bon-brev-p4-c10	5	apparatus:p251-1	p251-1	scripture	anaphor->apparatus-explicit	ibid.	Act 1:1	A	verse	yes	Act. 1, 1
@@ -19453,6 +19453,38 @@ bon-itin-c3	5	apparatus:p305-4	p305-4	crossref	logical	I. Sent. d. 19. p. I. q. 
 bon-itin-c3	5	apparatus:p305-5	p305-5	crossref	page	supra pag. 19, nota 7	tom5:p19		forward		
 bon-itin-c3	5	apparatus:p306-1	p306-1	scripture	apparatus-explicit	Psalm. 75, 5	Ps 75:5	A	verse		
 bon-itin-c3	5	apparatus:p306-1	p306-1	scripture	apparatus-explicit	Isai. 7, 9	Isai 7:9	A	verse		
+bon-itin-c4	5	latin_body		crossref	relative-bare	ibid			unresolvable		
+bon-itin-c4	5	apparatus:p306-2	p306-2	crossref	work	Breviloq. p. II. c. 10.	bon-brev-p2-c10		chunk		
+bon-itin-c4	5	apparatus:p306-2	p306-2	crossref	anaphor->work	ibid.	bon-brev-p2-c10		chunk	yes	Breviloq. p. II. c. 10.
+bon-itin-c4	5	apparatus:p306-3	p306-3	scripture	apparatus-explicit	Isai. 24, 20	Isai 24:20	A	verse		
+bon-itin-c4	5	apparatus:p306-3	p306-3	scripture	anaphor->apparatus-explicit	ibid	Isai 24:20	A	verse	yes	Isai. 24, 20
+bon-itin-c4	5	apparatus:p306-4	p306-4	scripture	apparatus-explicit	Ioan. 10, 9	Ioan 10:9	A	verse		
+bon-itin-c4	5	apparatus:p306-4	p306-4	scripture	apparatus-explicit	Ps. 36, 4	Ps 36:4	A	verse		
+bon-itin-c4	5	apparatus:p306-4	p306-4	scripture	apparatus-explicit	I. Tim. 2, 5	1Tim 2:5	A	verse		
+bon-itin-c4	5	apparatus:p306-4	p306-4	scripture	apparatus-explicit	Gen. 2, 9	Gen 2:9	A	verse		
+bon-itin-c4	5	apparatus:p306-4	p306-4	scripture	apparatus-explicit	Prov. 3, 18	Prov 3:18	A	verse		
+bon-itin-c4	5	apparatus:p306-5	p306-5	scripture	apparatus-explicit	Gal. 4, 26	Gal 4:26	A	verse		
+bon-itin-c4	5	apparatus:p306-5	p306-5	scripture	apparatus-explicit	Ioan. 14, 6	Ioan 14:6	A	verse		
+bon-itin-c4	5	apparatus:p306-5	p306-5	crossref	work	Breviloq. p. IV. c. 1.	bon-brev-p4-c1		chunk		
+bon-itin-c4	5	apparatus:p306-5	p306-5	crossref	page	supra pag. 225, nota 6	bon-brev-p2-c7+bon-brev-p2-c8		page-multi		
+bon-itin-c4	5	apparatus:p306-6	p306-6	scripture	apparatus-explicit	Ioan. 1, 1	Ioan 1:1	A	verse		
+bon-itin-c4	5	apparatus:p306-6	p306-6	scripture	apparatus-explicit	Hebr. 1, 3	Hebr 1:3	A	verse		
+bon-itin-c4	5	apparatus:p306-7	p306-7	scripture	apparatus-explicit	Apoc. 2, 17	Apoc 2:17	A	verse		
+bon-itin-c4	5	apparatus:p306-9	p306-9	scripture	anaphor->apparatus-explicit	ibid.	Apoc 2:17	A	verse	yes	Apoc. 2, 17
+bon-itin-c4	5	apparatus:p307-4	p307-4	scripture	apparatus-explicit	I. Cor. 15, 28	1Cor 15:28	A	verse		
+bon-itin-c4	5	apparatus:p307-5	p307-5	scripture	apparatus-explicit	I. Tim. 1, 5	1Tim 1:5	A	verse		
+bon-itin-c4	5	apparatus:p307-5	p307-5	scripture	apparatus-explicit	Rom. 13, 10	Rom 13:10	A	verse		
+bon-itin-c4	5	apparatus:p307-5	p307-5	scripture	apparatus-explicit	Matth. 22, 40	Matth 22:40	A	verse		
+bon-itin-c4	5	apparatus:p307-6	p307-6	scripture	apparatus-explicit	Apoc. 1, 8	Apoc 1:8	A	verse		
+bon-itin-c4	5	apparatus:p307-7	p307-7	crossref	work	Breviloq.	work:breviloquium		work		
+bon-itin-c4	5	apparatus:p307-8	p307-8	scripture	apparatus-explicit	Psalm. 109, 3	Ps 109:3	A	verse		
+bon-itin-c4	5	apparatus:p307-8	p307-8	scripture	apparatus-explicit	Ps. 4, 9	Ps 4:9	A	verse		
+bon-itin-c4	5	apparatus:p307-8	p307-8	scripture	apparatus-explicit	Cant. 2, 7	Cant 2:7	A	verse		
+bon-itin-c4	5	apparatus:p307-9	p307-9	scripture	apparatus-explicit	Isai. 6, 2	Isai 6:2	A	verse		
+bon-itin-c4	5	apparatus:p308-1	p308-1	scripture	apparatus-explicit	Gal. 3, 19	Gal 3:19	A	verse		
+bon-itin-c4	5	apparatus:p308-2	p308-2	scripture	apparatus-explicit	Rom. 5, 5	Rom 5:5	A	verse		
+bon-itin-c4	5	apparatus:p308-2	p308-2	scripture	apparatus-explicit	I. Cor. 2, 11	1Cor 2:11	A	verse		
+bon-itin-c4	5	apparatus:p308-2	p308-2	scripture	apparatus-explicit	Eph. 3, 17	Eph 3:17	A	verse		
 bon-itin-prol	5	apparatus:p295-1	p295-1	scripture	apparatus-explicit	Iac. 1, 17	Iac 1:17	A	verse		
 bon-itin-prol	5	apparatus:p295-2	p295-2	scripture	apparatus-explicit	Eph. 1, 17	Eph 1:17	A	verse		
 bon-itin-prol	5	apparatus:p295-2	p295-2	scripture	apparatus-explicit	Luc. 1, 79	Luc 1:79	A	verse		
