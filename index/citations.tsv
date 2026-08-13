@@ -19485,6 +19485,30 @@ bon-itin-c4	5	apparatus:p308-1	p308-1	scripture	apparatus-explicit	Gal. 3, 19	Ga
 bon-itin-c4	5	apparatus:p308-2	p308-2	scripture	apparatus-explicit	Rom. 5, 5	Rom 5:5	A	verse		
 bon-itin-c4	5	apparatus:p308-2	p308-2	scripture	apparatus-explicit	I. Cor. 2, 11	1Cor 2:11	A	verse		
 bon-itin-c4	5	apparatus:p308-2	p308-2	scripture	apparatus-explicit	Eph. 3, 17	Eph 3:17	A	verse		
+bon-itin-c5	5	apparatus:p308-3	p308-3	scripture	apparatus-explicit	Psalm. 4, 7	Ps 4:7	A	verse		
+bon-itin-c5	5	apparatus:p308-3	p308-3	crossref	page	supra pag. 180, nota 10	tom5:p180		forward		
+bon-itin-c5	5	apparatus:p308-3	p308-3	scripture	apparatus-explicit	Exod. 25	Exod 25	C	chapter		
+bon-itin-c5	5	apparatus:p308-4	p308-4	scripture	apparatus-explicit	Exod. 3, 14	Exod 3:14	A	verse		
+bon-itin-c5	5	apparatus:p308-5	p308-5	scripture	apparatus-explicit	Exod. 3, 14	Exod 3:14	A	verse		
+bon-itin-c5	5	apparatus:p308-5	p308-5	scripture	apparatus-explicit	Matth. 28, 19	Matth 28:19	A	verse		
+bon-itin-c5	5	apparatus:p308-5	p308-5	scripture	apparatus-explicit	Luc. 18, 19	Luc 18:19	A	verse		
+bon-itin-c5	5	apparatus:p308-6	p308-6	crossref	logical	I. Sent. d. 22. q. 3.	bon-sent-I-d22-a1-q3		chunk		
+bon-itin-c5	5	apparatus:p308-7	p308-7	crossref	anaphor->logical	loc. cit.	bon-sent-I-d22-a1-q3		chunk	yes	I. Sent. d. 22. q. 3.
+bon-itin-c5	5	apparatus:p308-7	p308-7	crossref	logical	I. Sent. d. 8. p. I. a. 1. q. 2.	bon-sent-I-d8-p1-a1-q2		chunk		
+bon-itin-c5	5	apparatus:p308-8	p308-8	crossref	page	supra pag. 304, nota 3	bon-itin-c3		chunk		
+bon-itin-c5	5	apparatus:p309-2	p309-2	crossref	page	supra pag. 109, nota 5	tom5:p109		forward		
+bon-itin-c5	5	apparatus:p309-3	p309-3	scripture	apparatus-explicit	Psalm. 138, 11	Ps 138:11	A	verse		
+bon-itin-c5	5	apparatus:p309-3	p309-3	crossref	work	Breviloq. p. V. c. 6.	bon-brev-p5-c6		chunk		
+bon-itin-c5	5	apparatus:p309-6	p309-6	crossref	anaphor->work	ibid.	bon-brev-p5-c6		chunk	yes	Breviloq. p. V. c. 6.
+bon-itin-c5	5	apparatus:p309-7	p309-7	scripture	apparatus-explicit	Deut. 6, 4	Deut 6:4	A	verse		
+bon-itin-c5	5	apparatus:p309-8	p309-8	crossref	page	supra pag. 307, nota 6	bon-itin-c4		chunk		
+bon-itin-c5	5	apparatus:p309-8	p309-8	scripture	apparatus-explicit	Prov. 16, 4	Prov 16:4	A	verse		
+bon-itin-c5	5	apparatus:p310-2	p310-2	crossref	page	supra pag. 19, nota 7	tom5:p19		forward		
+bon-itin-c5	5	apparatus:p310-3	p310-3	crossref	logical	I. Sent. d. 37. p. I. a. 1. q. 1.	bon-sent-I-d37-p1-a1-q1		chunk		
+bon-itin-c5	5	apparatus:p310-3	p310-3	crossref	page	supra pag. 81, nota 3	tom5:p81		forward		
+bon-itin-c5	5	apparatus:p310-4	p310-4	scripture	apparatus-explicit	I. Cor. 15, 28	1Cor 15:28	A	verse		
+bon-itin-c5	5	apparatus:p310-5	p310-5	scripture	apparatus-explicit	Rom. 11, 36	Rom 11:36	A	verse		
+bon-itin-c5	5	apparatus:p310-5	p310-5	scripture	apparatus-explicit	Exod. 33, 19	Exod 33:19	A	verse		
 bon-itin-prol	5	apparatus:p295-1	p295-1	scripture	apparatus-explicit	Iac. 1, 17	Iac 1:17	A	verse		
 bon-itin-prol	5	apparatus:p295-2	p295-2	scripture	apparatus-explicit	Eph. 1, 17	Eph 1:17	A	verse		
 bon-itin-prol	5	apparatus:p295-2	p295-2	scripture	apparatus-explicit	Luc. 1, 79	Luc 1:79	A	verse		
