@@ -19509,6 +19509,29 @@ bon-itin-c5	5	apparatus:p310-3	p310-3	crossref	page	supra pag. 81, nota 3	tom5:p
 bon-itin-c5	5	apparatus:p310-4	p310-4	scripture	apparatus-explicit	I. Cor. 15, 28	1Cor 15:28	A	verse		
 bon-itin-c5	5	apparatus:p310-5	p310-5	scripture	apparatus-explicit	Rom. 11, 36	Rom 11:36	A	verse		
 bon-itin-c5	5	apparatus:p310-5	p310-5	scripture	apparatus-explicit	Exod. 33, 19	Exod 33:19	A	verse		
+bon-itin-c6	5	apparatus:p310-6	p310-6	scripture	apparatus-explicit	Exod. 25, 19	Exod 25:19	A	verse		
+bon-itin-c6	5	apparatus:p310-7	p310-7	crossref	page	supra pag. 47, nota 7	tom5:p47		forward		
+bon-itin-c6	5	apparatus:p310-7	p310-7	crossref	work	Breviloq. p. I. c. 2.	bon-brev-p1-c2		chunk		
+bon-itin-c6	5	apparatus:p310-7	p310-7	crossref	page	supra pag. 60, nota 7	tom5:p60		forward		
+bon-itin-c6	5	apparatus:p310-8	p310-8	crossref	logical	I. Sent. d. 29. a. 2.	bon-sent-I-d29-a2-q1+bon-sent-I-d29-a2-q2		articulus		
+bon-itin-c6	5	apparatus:p310-8	p310-8	crossref	relative-inherited	ibid.	bon-sent-I-d29-a2-q1+bon-sent-I-d29-a2-q2		articulus		
+bon-itin-c6	5	apparatus:p311-1	p311-1	crossref	page	tom. I. pag. 57, nota 7	bon-sent-I-d2-a1-q4		chunk		
+bon-itin-c6	5	apparatus:p311-1	p311-1	crossref	page	pag. 199, nota 4	bon-sent-I-d10-a1-q2+bon-sent-I-d10-a1-q3		page-multi		
+bon-itin-c6	5	apparatus:p311-1	p311-1	crossref	page	supra pag. 87, nota 1	tom5:p87		forward		
+bon-itin-c6	5	apparatus:p311-1	p311-1	crossref	page	pag. 211, nota 3	bon-brev-p1-c2+bon-brev-p1-c3		page-multi		
+bon-itin-c6	5	apparatus:p311-5	p311-5	scripture	apparatus-explicit	Exod. 25, 20	Exod 25:20	A	verse		
+bon-itin-c6	5	apparatus:p311-5	p311-5	scripture	apparatus-explicit	Ioan. 17, 3	Ioan 17:3	A	verse		
+bon-itin-c6	5	apparatus:p311-6	p311-6	scripture	apparatus-explicit	Gen. 1, 26	Gen 1:26	A	verse		
+bon-itin-c6	5	apparatus:p311-6	p311-6	crossref	page	supra pag. 241, nota 6	bon-brev-p3-c11+bon-brev-p4-c1		page-multi		
+bon-itin-c6	5	apparatus:p311-6	p311-6	crossref	work	Breviloq. p. IV. c. 1.	bon-brev-p4-c1		chunk		
+bon-itin-c6	5	apparatus:p311-7	p311-7	crossref	page	pag. 64, nota 10	tom5:p64		forward		
+bon-itin-c6	5	apparatus:p312-1	p312-1	scripture	apparatus-explicit	Gen. 1, 26	Gen 1:26	A	verse		
+bon-itin-c6	5	apparatus:p312-1	p312-1	scripture	apparatus-explicit	Apoc. 1, 8	Apoc 1:8	A	verse		
+bon-itin-c6	5	apparatus:p312-1	p312-1	scripture	apparatus-explicit	Apoc. 5, 1	Apoc 5:1	A	verse		
+bon-itin-c6	5	apparatus:p312-1	p312-1	scripture	apparatus-explicit	Ezech. 2, 9	Ezech 2:9	A	verse		
+bon-itin-c6	5	apparatus:p312-1	p312-1	crossref	work	Breviloq. p. II. c. 11.	bon-brev-p2-c11		chunk		
+bon-itin-c6	5	apparatus:p312-2	p312-2	scripture	apparatus-explicit	Gen. 2, 2	Gen 2:2	A	verse		
+bon-itin-c6	5	apparatus:p312-2	p312-2	crossref	work	Breviloq. p. II. c. 2.	bon-brev-p2-c2		chunk		
 bon-itin-prol	5	apparatus:p295-1	p295-1	scripture	apparatus-explicit	Iac. 1, 17	Iac 1:17	A	verse		
 bon-itin-prol	5	apparatus:p295-2	p295-2	scripture	apparatus-explicit	Eph. 1, 17	Eph 1:17	A	verse		
 bon-itin-prol	5	apparatus:p295-2	p295-2	scripture	apparatus-explicit	Luc. 1, 79	Luc 1:79	A	verse		
