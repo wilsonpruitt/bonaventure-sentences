@@ -1516,6 +1516,34 @@ KNOWN_TOTALS = {
               # inked rule (peak 1518 rows), band x=1166-1225, midpoint 1196.
               # Cap. II's terminus fixed from the in-place "Cap. III." heading
               # ~40% down the LEFT column, never from the running head.
+    304: 6,   # band-read in full by bon-itin-c3, which owns ALL SIX. Blocks
+              # 5 L / 1 R but anchors 3 L / 3 R -- nn.4-5 PRINT LEFT and ANCHOR
+              # RIGHT, a two-note overrun, the FIFTH consecutive leaf (300-304)
+              # on which the left block overran the column division. n.5 carries
+              # a gutter runover breaking MID-WORD at "cum te tran-" |
+              # "scendis, ratiocinantem animam te transcendere". Gutter 1330:
+              # default 1330 on a 58px run -- under the frozen floor, so
+              # re-derived and CONFIRMED at the band midpoint (x=1301-1359,
+              # rule 1322-1334 at 618 rows).
+    305: 5,   # band-read in full by bon-itin-c3, which owns ALL FIVE. Blocks
+              # 3 L / 2 R but anchors 4 L / 1 R -- n.4 PRINTS RIGHT and ANCHORS
+              # LEFT, an UNDERRUN, reversing the direction after five straight
+              # leaves of leftward overrun. This is why the block/anchor rule is
+              # stated symmetrically: do not infer the sixth leaf from the five.
+              # n.3 carries a gutter runover breaking just above the signature
+              # line "S. Bonav. - Tom. V.". Gutter 1229: default 1229 on a 58px
+              # run, CONFIRMED at the profile (band x=1201-1258); the centre
+              # rule is the LIGHTEST inked on the span (peak 267 rows).
+    306: 9,   # band-read in full by bon-itin-c3, which owns only n.1 (Psalm.
+              # 75, 5, anchoring in Cap. III's four-line tail at the head of the
+              # LEFT column); nn.2-9 are Cap. IV's and are FORWARDED to
+              # bon-itin-c4. Blocks 4 L / 5 R; n.4 runs over the gutter and is
+              # c4's to log, NOT c3's. Gutter 1325 (default 1325/59px, band
+              # x=1296-1355, confirmed at the profile).
+              # *** THE RUNNING-HEAD TRAP FIRED A THIRD TIME HERE: the head
+              # reads "... C. IV." while Cap. III still holds the top of the
+              # left column. Cap. III's terminus was fixed from the in-place
+              # "Cap. IV." HEADING and its subtitle, never from the head.
 }
 
 

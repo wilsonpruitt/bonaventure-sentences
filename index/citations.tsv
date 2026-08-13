@@ -19430,6 +19430,29 @@ bon-itin-c2	5	apparatus:p302-8	p302-8	crossref	logical	II. Sent. d. 10. a. 3. q.
 bon-itin-c2	5	apparatus:p303-2	p303-2	scripture	apparatus-explicit	Rom. 1, 20	Rom 1:20	A	verse		
 bon-itin-c2	5	apparatus:p303-2	p303-2	scripture	apparatus-explicit	I. Cor. 15, 57	1Cor 15:57	A	verse		
 bon-itin-c2	5	apparatus:p303-2	p303-2	scripture	apparatus-explicit	I. Petr. 2, 9	1Petr 2:9	A	verse		
+bon-itin-c3	5	apparatus:p303-3	p303-3	scripture	apparatus-explicit	Exod. 26	Exod 26	C	chapter		
+bon-itin-c3	5	apparatus:p303-3	p303-3	crossref	work	Breviloq. p. II. c. 12.	bon-brev-p2-c12		chunk		
+bon-itin-c3	5	apparatus:p303-6	p303-6	crossref	page	tom. I. pag. 155, nota 10			dangling		
+bon-itin-c3	5	apparatus:p303-6	p303-6	crossref	page	supra pag. 79, nota 6	tom5:p79		forward		
+bon-itin-c3	5	apparatus:p303-7	p303-7	crossref	logical	II. Sent. d. 39. a. 1. q. 2.	bon-sent-II-d39-a1-q2		chunk		
+bon-itin-c3	5	apparatus:p303-7	p303-7	crossref	chain-continuation	d. 49. p. I. q. 2.			dangling		
+bon-itin-c3	5	apparatus:p303-7	p303-7	crossref	work	Quaest. de scientia Christi	work:scientia-christi		work		
+bon-itin-c3	5	apparatus:p304-2	p304-2	crossref	page	supra pag. 71, nota 3	tom5:p71		forward		
+bon-itin-c3	5	apparatus:p304-2	p304-2	crossref	page	supra pag. 215, nota 1	bon-brev-p1-c6+bon-brev-p1-c7		page-multi		
+bon-itin-c3	5	apparatus:p304-3	p304-3	crossref	page	tom. III. pag. 802, nota 8	bon-sent-III-d36-a1-q5		chunk		
+bon-itin-c3	5	apparatus:p304-3	p304-3	crossref	page	supra pag. 19, nota 8	tom5:p19		forward		
+bon-itin-c3	5	apparatus:p304-3	p304-3	crossref	work	Quaest. de scientia Christi	work:scientia-christi		work		
+bon-itin-c3	5	apparatus:p304-4	p304-4	scripture	apparatus-explicit	Ioan. 1, 1	Ioan 1:1	A	verse		
+bon-itin-c3	5	apparatus:p304-4	p304-4	crossref	work	Quaest. de scientia Christi	work:scientia-christi		work		
+bon-itin-c3	5	apparatus:p304-5	p304-5	crossref	page	pag. 98	tom5:p98		forward		
+bon-itin-c3	5	apparatus:p304-5	p304-5	crossref	anaphor->page	ibid.	tom5:p98		forward	yes	pag. 98
+bon-itin-c3	5	apparatus:p305-2	p305-2	crossref	page	pag. 302, nota 1	bon-itin-c2		chunk		
+bon-itin-c3	5	apparatus:p305-4	p305-4	crossref	anaphor->page	ibid.	bon-itin-c2		chunk	yes	pag. 302, nota 1
+bon-itin-c3	5	apparatus:p305-4	p305-4	crossref	work	Breviloq. p. II. c. 12.	bon-brev-p2-c12		chunk		
+bon-itin-c3	5	apparatus:p305-4	p305-4	crossref	logical	I. Sent. d. 19. p. I. q. 4.	bon-sent-I-d19-p1-a1-q4		chunk		
+bon-itin-c3	5	apparatus:p305-5	p305-5	crossref	page	supra pag. 19, nota 7	tom5:p19		forward		
+bon-itin-c3	5	apparatus:p306-1	p306-1	scripture	apparatus-explicit	Psalm. 75, 5	Ps 75:5	A	verse		
+bon-itin-c3	5	apparatus:p306-1	p306-1	scripture	apparatus-explicit	Isai. 7, 9	Isai 7:9	A	verse		
 bon-itin-prol	5	apparatus:p295-1	p295-1	scripture	apparatus-explicit	Iac. 1, 17	Iac 1:17	A	verse		
 bon-itin-prol	5	apparatus:p295-2	p295-2	scripture	apparatus-explicit	Eph. 1, 17	Eph 1:17	A	verse		
 bon-itin-prol	5	apparatus:p295-2	p295-2	scripture	apparatus-explicit	Luc. 1, 79	Luc 1:79	A	verse		
