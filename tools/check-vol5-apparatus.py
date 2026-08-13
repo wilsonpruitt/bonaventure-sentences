@@ -1563,6 +1563,41 @@ KNOWN_TOTALS = {
               # left column at ~40% depth. The body+footer profile gives the
               # true band x=1286-1349 (64 px), matching the 1317/61px default.
               # A 161px run is as much a failure signal as a 20px one.
+              # *** AND p.308 n.9 CARRIES A PAGE-CROSSING RUNOVER that c4's
+              # hand-off did not name, because c4 never read p.309's footer:
+              # n.9 breaks at "...cognitione creaturae in se," and continues
+              # UNNUMBERED at the head of p.309's LEFT footer ("de qua est
+              # sermo in hoc capitulo..."). The seventh in all of Vol V, and
+              # the second in consecutive chunks of this work. bon-itin-c5
+              # logs it; c4 does not.
+    309: 8,   # band-read in full by bon-itin-c5, which owns ALL EIGHT. The
+              # left block opens with p.308 n.9's unnumbered continuation and
+              # then carries nn.1-3 (n.3 runs over the gutter); the right
+              # block carries nn.4-8. Blocks 3 L / 5 R, ANCHORS 4 L / 4 R --
+              # the left block UNDERRUNS the column division by one note
+              # (n.4 anchors LEFT, in sec. 5, but prints RIGHT). Direction
+              # reverses again: p.308 overran left by four, p.309 underruns.
+              # *** GUTTER 1164, from the direct body+footer ink profile:
+              # true band x=1135-1194 (60 px), split by the centre rule into
+              # two ~20 px sub-bands (1137-1156, 1173-1191). The tool's 1161
+              # default sits toward the LEFT sub-band, 3 px off the band's
+              # midpoint -- a healthy-looking 60 px run that is still not the
+              # centre.
+    310: 9,   # band-read in full by bon-itin-c5, which owns only nn.1-5
+              # (nn.1-4 anchor LEFT; n.5 anchors RIGHT at Cap. V sec. 8's
+              # "sunt omnia"5, the last paragraph of the chapter, which runs
+              # over into the right column). nn.6-9 are Cap. VI's and are
+              # FORWARDED to bon-itin-c6. Blocks 7 L / 2 R, ANCHORS 4 L / 5 R
+              # -- the left block overruns by three notes, and *** THE
+              # CAPITULUM BOUNDARY FALLS INSIDE THE LEFT BLOCK, between nn.5
+              # and 6. Block, column and capitulum structure are three
+              # independent things (the p.247 shape, recurring).
+              # p.310 n.7 runs over the gutter; n.7 is c6's to log, NOT c5's.
+              # *** GUTTER 1397: true band x=1365-1429 (65 px), two ~28 px
+              # sub-bands (1367-1394, 1401-1428). The 1396/58px default was
+              # sound -- a sub-60 run that was RIGHT, on the same span as a
+              # 60 px run that was WRONG. Run width triggers the look; it
+              # does not decide the answer.
 }
 
 
