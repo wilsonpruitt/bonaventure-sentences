@@ -392,17 +392,30 @@ p. 295). English title: **"The Journey of the Mind into God."**
 - **Cadence:** 24 pp → ONE gate, at the work close (per the frozen table); deploy
   boundary = work close. Reverts to the standing per-structural-unit rule, the
   Breviloquium's work-close hold does not carry over.
-- **⚠ REGISTER STILL OPEN FOR cc. II–VII — decide at c2 and freeze it here, because
-  every later capitulum reuses it.** Cap. II forces: *apprehensio / oblectatio /
-  diiudicatio* (the three operations), *speciositas · suavitas · salubritas* (the
-  threefold delight), Augustine's seven kinds of number (*sonantes · occursores ·
-  progressores · sensuales · memoriales · iudiciales · artificiales*), *macrocosmus /
-  minor mundus*, *proportionalitas*, and *species* in its technical sense. None of
-  these is in the frozen table yet.
-- **▶ `bon-itin-c2` IS SCOUTED BUT NOT WRITTEN.** The whole plate read for pp. 299–303
-  is banked in `manual-review/itin-c2-plate-scouting.md` — verified span, all gutters
-  with evidence, the 26-entry register with block/anchor splits, the runover, both
-  hand-offs, every marginale. **Start there; do not re-read the bands.**
+- **★ REGISTER FOR cc. II–VII — FROZEN AT c2 (2026-08-13). Reuse it; do not re-decide it.**
+  - **The three operations, one-to-one, never blended:** *apprehensio* → "apprehension" ·
+    *oblectatio* → **"delectation"** · *diiudicatio* → **"adjudication"** (*diiudicare* →
+    "to adjudge"; *indiiudicabilis* → "unadjudicable"). **"Adjudication" and not
+    "judgement" because *iudicare* / *iudicium* / *numeri iudiciales* must stay separately
+    available** — c2 § 9 sets *diiudicamus* and *iudicamus* in one sentence, and § 10 makes
+    *iudiciales* the proper name of a class of numbers.
+  - **The threefold delight:** *speciositas* → **"comeliness"** (*speciosus* → "comely") ·
+    *suavitas* → "sweetness" · *salubritas* → "wholesomeness". **"Comeliness" and not
+    "beauty" because *pulcritudo* defines *speciositas* in the same sentence** (*pulcritudo
+    nihil aliud est quam aequalitas numerosa*); collapsing them makes the definition
+    circular in English where it is not in Latin.
+  - **Augustine's seven kinds of number:** *sonantes* → "sounding" · *occursores* →
+    "encountering" · *progressores* → "advancing" · *sensuales* → "sensual" · *memoriales*
+    → "memorial" · *iudiciales* → "judicial" · *artificiales* → "artificial".
+  - **The rest:** *macrocosmus* → "macrocosm" · *minor mundus* → "the lesser world" (the
+    editions' gloss *microcosmus* → "microcosm", kept distinct from Bonaventure's own
+    phrase) · *proportionalitas* → "proportionality" · *species* → "species" (technical,
+    throughout) · *delectatio* → "delight" · *exemplatum* → "exemplate" · *sensibilia
+    particularia / communia* → "particular / common sensibles".
+- **✅ `bon-itin-c2` IS WRITTEN** (pp. 299–303, 26 entries, zero `[?]`). Its plate scouting
+  survives at `manual-review/itin-c2-plate-scouting.md`; the chunk's own `## Notes` is now
+  the fuller record. **▶ The front is `bon-itin-c3` — no scouting exists for it; the bands
+  must be read.**
 
 ### Vol V mechanics
 

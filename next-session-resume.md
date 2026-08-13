@@ -1,34 +1,31 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ★★★ THE ITINERARIUM IS THE ACTIVE FRONT — MINI-PILOT DONE 2026-08-11 (Fable, per the genre-boundary rule).
+> # ★★★ THE ITINERARIUM IS THE ACTIVE FRONT. FOUR OF TEN CHUNKS ARE TIER 2.
 >
-> ## ✅ **THE BREVILOQUIUM IS DEPLOYED AND VERIFIED LIVE.** Checked at source 2026-08-11: `browse/5/d/7/q/bon-brev-p7-c7` and `/scripture` both 200 on prod. The "deploy still owed" banner that stood here was STALE — the deploy happened after that note was written. (That check is dated and expires; re-verify at source, never from this line.)
-> ## ✅ **`bon-itin-prol` (pilot / format reference) · `bon-itin-capitula` · `bon-itin-c1` ARE TIER 2 COMPLETE.** pp. 295–299 done, zero `[?]` flags across all three. Conventions frozen in CLAUDE.md § "ITINERARIUM — mini-pilot conventions": TEN chunks (prol ✅ · capitula ✅ · **c1 ✅** · c2–c7 · scholion), register table (speculatio→speculation, excessus→transport, suspensio→uplifting, …), Quaracchi's ¶ numbers preserved as the citation unit.
-> ## ★★ **FINDS THAT GOVERN THE GRIND:**
-> - **The capitula table (p. 296) is TRANSMITTED TEXT, not editorial** — it carries its own apparatus note (n. 5, codex placement). It has its own chunk. The Breviloquium precedent does not port; the test is apparatus ON the table.
-> - **`INCIPIT SPECULATIO PAUPERIS IN DESERTO.`** (p. 296) is the work's transmitted alternate title — folded into c1 and RENDERED, done.
-> - **★★ THE RUNNING HEAD IN THIS WORK RUNS A CHAPTER AHEAD — CONFIRMED ON THE PLATE AT p. 299**, whose head reads `... C. II.` while Cap. I still fills the left column and most of the right. **Never set or corroborate a boundary from it.** Every end comes from the next in-place `Cap. N.` heading.
-> - **★ THE RAW CAN DROP A WHOLE LINE AT A PAGE FOOT.** p. 297's raw jumps from *posuit eum Deus in paradiso* straight to p. 298's *commutabile bonum*, silently losing *deliciarum¹⁰. Sed avertens se a vero lumine ad*. It parses clean and reads plausibly. **Read every page-foot joint off the band, not the raw.**
-> - **Cap. VII's title differs between volume index and capitula table** (position of *totaliter*) — settle at c7 against the in-place heading.
-> - **p. 293 half-title and p. 294 blank both VERIFIED on the plate.**
-> - **Gutters measured so far:** p. 295 = 1162 · p. 296 = 1387 · **p. 297 = 1187** (default 1178/44 px rejected under the 60 px floor) · **p. 298 = 1377** · **p. 299 = 1172**. On stacked-region leaves narrow-window "runs" of 200–460 px are the tool's min-collection artifact; the direct ink profile's contiguous low channel is the signal. Print the profile even when the windows agree.
-> ## ▶▶▶ **NEXT CHUNK = `bon-itin-c2` — AND ITS ENTIRE PLATE READ IS ALREADY BANKED.**
-> ## ★ **READ `manual-review/itin-c2-plate-scouting.md` FIRST AND DO NOT RE-READ THE BANDS.** Committed `ea8d645`. It carries: the span **VERIFIED pp. 299–303**, closed positively on the in-place `Cap. III.` heading + subtitle in **p. 303's LEFT column** (~40 % down), §§ 1–13, no interior headings · all four new gutters with their evidence (**300 = 1364 · 301 = 1228 · 302 = 1346**, the 1344/55 px default rejected **· 303 = 1196**) · the full **26-entry** register with per-page totals and block-vs-anchor splits · the one runover · both hand-offs · every marginale in body order · the four page-break positions. **What remains is only: Latin re-set + literal English + 26 bilingual apparatus entries + `## Notes` + `KNOWN_TOTALS` (300=7, 301=8, 302=8, 303=7) + the ledger line `bon-itin-c2⇥p.300 n.5:gutter` + audits + two commits.**
-> ## ⛔⛔ **WHY c2 STALLED — READ BEFORE DISPATCHING.** Four runs died on `API Error: 400 Output blocked by content filtering policy`: three subagents (one on c1, two on c2) and finally the **main thread**. **Infrastructure, not the material** — c1's retry ran the identical prompt to a clean finish, the deaths land on *output* at random points (one on an agent's very first token), and instructing the agent to suppress narration did not help. Risk appears to rise with how much 450 dpi page-image content the session is carrying, which is why the main thread went last. **Failure is CLEAN: an agent either finishes and commits or writes nothing — the repo was clean at the last commit every single time.** Mitigation: run c2 from a **FRESH session** off the scouting file (the reading is what cost 292k tokens on c1; it is already paid for here), and if a dispatch dies, simply re-dispatch.
-> ## ⚠ **REGISTER FOR cc. II–VII IS STILL OPEN — decide at c2 and freeze it in CLAUDE.md**, since every later capitulum reuses it: *apprehensio / oblectatio / diiudicatio*, *speciositas · suavitas · salubritas*, Augustine's seven kinds of number (*sonantes · occursores · progressores · sensuales · memoriales · iudiciales · artificiales*), *macrocosmus / minor mundus*, *proportionalitas*, technical *species*.
+> ## ✅ `bon-itin-prol` · `bon-itin-capitula` · `bon-itin-c1` · **`bon-itin-c2` (2026-08-13, `ef21bab`)** ARE COMPLETE — **pp. 295–303, zero `[?]` flags in all four.** Remaining: **c3 · c4 · c5 · c6 · c7 · scholion.**
+> ## ▶▶▶ **NEXT CHUNK = `bon-itin-c3`. THERE IS NO SCOUTING FOR IT — the bands must be read.** (c2's plate work was banked in advance; that was a one-off, and it is spent.) Index claims c3 = pp. 303–306; **the claim is worth nothing** — close the end positively from the in-place `Cap. IV.` heading.
 >
-> **Hand-off `bon-itin-c2` inherits from `bon-itin-c1` — all of it was RE-DERIVED during scouting and ALL OF IT HELD:**
-> - **p. 299 n. 10.** Anchor at *hoc considerare est altius*¹⁰ in **Cap. II § 1, right column**, ~⅔ down; def is the **last entry in p. 299's right footer**, reading `H O et haec consideratio est altior.` (Two uprights = `H`, per the siglum rule.)
-> - **Body:** Cap. II opens on **p. 299, right column**, under `Cap. II.` + *De speculatione Dei in vestigiis suis in hoc sensibili mundo.* at `1. Sed quoniam circa speculum sensibilium non solum contingit contemplari Deum…`, and crosses to p. 300 mid-sentence at *…quo debemus | manuduci ad contemplandum Deum in cunctis creaturis*.
-> - **Marginale on p. 299 that is c2's:** "Gradus 2." (Cap. I's marginalia on that leaf are already logged in c1 — do not re-log them.)
-> - **p. 299 gutter = 1172** (measured at c1; three-step method, evidence in c1's Notes). **p. 299's runover, n. 7 across the gutter, is already logged by c1 — do not re-log it.**
-> - Cap. II's in-place title AGREES with the capitula table; nothing is open there.
+> **Hand-off `bon-itin-c3` inherits from `bon-itin-c2` — re-derive it, do not adopt it:**
+> - **p. 303 nn. 3–7 are c3's.** n. 3 (`Cfr. Exod. 26…`) anchors at *in sanctis*³ in Cap. III § 1. p. 303's block split is 5 L / 2 R; **verify every column yourself.**
+> - **p. 303 n. 5 carries a gutter runover** (`— Quomodo memoriae | sit praevisio futurorum, exponit August., XV. de Trin. c. 7. n. 13…`) — **c3 logs it.**
+> - **⚠ Do NOT re-log p. 300 n. 5** — it is already in the ledger under `bon-itin-c2`.
+> - **Cap. III opens p. 303 LEFT column**, ~40 % down, at `1. Quoniam autem duo gradus praedicti…`, under the `Cap. III.` heading + subtitle *De speculatione Dei per suam imaginem naturalibus potentiis insignitam.*
+> - **Marginalia on p. 303 that are c3's:** "Gradus tertius." · "Notandum."
+> - **p. 303 gutter = 1196** (band x=1166–1225, rule 1198 heavily inked at 1518 rows — the default sits ON the rule, not on the band centre).
 >
-> Then c3–c7, then the Scholion (pp. 313–316 claimed). **The grind is Opus one-chunk-per-subagent per the standing cadence; sequential, each chunk leads with the incoming hand-off.**
-> ## ⚠ **Cadence:** ONE polish gate, at the work close (24 pp); deploy boundary = work close p. 316. Per-structural-unit rule back in force (the Breviloquium's work-close hold does not carry over).
-> ## ✅ Verification suite state at the `bon-itin-c1` commit: `check-vol5-apparatus.py` **82 chunks / 723 entries** all passed (p. 299 correctly PENDING n. 10) · `check-vol5-census.py` rosters agree 82/82 (normalizes FULL slugs — this work has THREE suffix-less slugs: prol, capitula, scholion) · `polish-style-scan --volume 5` CLEAN (82 files) · `build-content.mjs` **2015/2015, 6 books** · `build-citations.py` clean; c1 contributed **54 records, 0 QA flags**, all 30 scripture citations at confidence A. Corpus totals unmoved at **224 QA flags / 218 uncited chunks**.
+> ## ★★ **FINDS THAT GOVERN THE REST OF THE GRIND:**
+> - **★★ THE PRINTED CENTRE RULE SPLITS THE GUTTER INTO TWO ~26 px SUB-BANDS inside a true ~60 px band.** That is *why* the row-window vote collapses on these leaves. **The sound reading is the full band's midpoint from the direct per-column ink profile**, never the window vote — and **a default that looks healthy at 60+ px can still be the rule's position rather than the band's centre** (pp. 300 and 303 both). Measured so far: 295=1162 · 296=1387 · 297=1187 · 298=1377 · 299=1172 · 300=1364 · 301=1228 · 302=1346 (colcrop's 1344/55 px REJECTED) · 303=1196.
+> - **★ BLOCK vs ANCHOR STRUCTURE COMES APART AS THE NORM HERE.** The left footer block overran the column division on **three consecutive leaves** (p. 300 by two notes, pp. 301 and 302 by one each), on top of c1's p. 297. **Read anchors, only anchors; report both splits separately.**
+> - **★★ THE RUNNING HEAD RUNS A CHAPTER AHEAD in this work** — fired again at p. 299 and was used for nothing. **Every end comes from the next in-place `Cap. N.` heading.**
+> - **★★ THE RAW SILENTLY DROPS WHOLE LINES AT PAGE FEET** (c1, p. 297) and it parses clean. **Check every page-foot joint against the band.**
+> - **★ THE REGISTER FOR cc. II–VII IS NOW FROZEN in repo CLAUDE.md § ITINERARIUM** — apprehension / delectation / **adjudication**; comeliness / sweetness / wholesomeness; Augustine's seven kinds of number. **Reuse it; do not re-decide it, and do not re-open the two arguments recorded for the two hard choices.**
+> - **⚠ Cap. VII's title differs between the volume index and the capitula table** (position of *totaliter*) — settle at c7 against the in-place heading, the only witness that is the text.
 >
-> The deploy recipe, for when a deploy boundary is reached (note **TWO** index steps before `build-content.mjs`):
+> ## ✅ Verification suite at the `bon-itin-c2` commit: `check-vol5-apparatus.py` **83 chunks / 749 entries** all passed (p. 303 correctly PENDING nn. 3–7; `KNOWN_TOTALS` now fed for pp. 300–303) · `check-vol5-census.py` rosters agree **83/83** · `polish-style-scan --volume 5` CLEAN (83 files) · `build-content.mjs` **2016/2016, 6 books** · `build-citations.py` clean; **c2 contributed 30 records and ZERO QA flags**, corpus totals unmoved at **224 QA flags / 218 uncited chunks**.
+> ## ⚠ **Cadence:** ONE polish gate, at the work close (24 pp); **deploy boundary = work close, p. 316** — nothing is owed before then. The Breviloquium's work-close *hold* does not carry over; the per-structural-unit rule is back in force.
+> ## ⛔ **NOT PUSHED, NOT DEPLOYED.** `master` is ahead of `origin`. Both are protected actions needing Wilson's explicit per-action OK.
+>
+> The deploy recipe, for when the work close is reached (note **TWO** index steps before `build-content.mjs`):
 > ```
 > python3.11 tools/build-citations.py
 > python3.11 tools/build-index-json.py
