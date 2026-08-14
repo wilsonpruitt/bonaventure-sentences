@@ -1,6 +1,47 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ THE FRONT IS THE HEXAEMERON. Conventions are FROZEN (`44004fa`); the pilot chunk `bon-hex-c1` is IN PROGRESS and its file is ON DISK, UNTRACKED.
+> # ▶▶▶ START HERE — FINISH `bon-hex-c2` (Collatio II), RESUMING AT p. 337.
+>
+> **State on disk (verified at `516d148`, `origin/master` current, tree otherwise clean):**
+> `vol5/bon-hex-c2.md` exists and is **UNTRACKED ON PURPOSE**. It holds the frontmatter, the
+> `### COLLATIO II.` heading, the rendered `### Summarium`, the Latin through ¶ 3's opening
+> (*…incorruptio autem facit esse proximum Deo.*), and **all eight of p. 336's apparatus
+> entries**. **APPEND TO IT — DO NOT RESTART IT.** An incomplete chunk is never committed;
+> that is the Péguy pattern, and it has already made two content-filter kills and one
+> terminal crash cost nothing in this work.
+>
+> **The five things to do, in order:** (1) Latin pp. 337–342 · (2) the whole English block,
+> parallel · (3) the remaining apparatus (p. 336 is done; ~47 entries left) · (4) `## Notes`
+> — provenance, span, page-break map, gutter table, apparatus table, runovers, marginalia,
+> register, ledger line · (5) the suite + two commits.
+>
+> **Everything already banked for c2 — do NOT re-derive:**
+> - **Span pp. 336–342**, 33 numbered ¶¶; ends mid-leaf where `COLLATIO III.` opens on p. 342.
+>   Raw **L58227 → L59261**. Summarium's division: **Pars I *de porta sapientiae* ¶¶ 2–6 ·
+>   Pars II *de forma sapientiae* ¶¶ 7–33**.
+> - **Plates 336–342 are extracted; all seven gutters measured.** Adopted: 336 = **1341** ·
+>   337 = **1178** · 338 = **1307** · 339 = **1215** · 340 = **1366** · 341 = **1220** ·
+>   342 = **1349**. ⚠ **The tool's default was REJECTED on three of the seven.** Regenerate
+>   bands with `colcrop.py vol5 <page> <adopted> 3 1.8`.
+> - **p. 336's register is VERIFIED: 8 notes, anchors 5 L / 3 R, block 4 L / 4 R — underruns
+>   by one, NO runover** (both block feet checked). Its left column is short because the
+>   heading and Summarium push the body down — that is the opening shape, not a boundary.
+>
+> **The verification suite (run all five, every commit):** `check-vol5-apparatus.py` — feed
+> `KNOWN_TOTALS` a line per page as each register is read · `check-vol5-census.py` — append a
+> ledger line to `manual-review/vol5-runover-ledger.tsv`, **including the negatives** ·
+> `polish-style-scan.py --volume 5` — ⚠ it fires `V5NOTES` on a literal `[^` token in `##
+> Notes` prose, so write labels bare · `site/scripts/build-content.mjs` — **must report
+> 2025/2025 when c2 lands; a body that parsed empty shows up as the count failing to move** ·
+> `build-citations.py`, reporting this chunk's QA flags separately from the corpus total.
+>
+> **Then:** `bon-hex-c3`, and **the shakedown gate fires after roughly Collatio IV** (~15–25
+> printed pp. in) — the first of three gates for this work. The deploy rides with a gate, not
+> with a chunk. Push and deploy are both protected and need Wilson's per-action OK.
+>
+> ---
+>
+> # (reference) THE HEXAEMERON — conventions FROZEN (`44004fa`), pilot chunk COMPLETE.
 >
 > ## ✅ **CONVENTIONS FROZEN — repo CLAUDE.md § HEXAEMERON. Do not re-decide them.** **24 chunks: `bon-hex-c{1..23}` + `bon-hex-scholion`**, book id 11, registry + a `Coll. N` title branch wired in `build-content.mjs`. **The chunk is the COLLATIO** — the frozen apparatus-on-the-division test decided it, `COLLATIO I.` carrying anchor ¹ — and it is Quaracchi's own citation unit (`Hexaem. coll. N. n. M`). ⛔ **The *visiones* are NEVER a boundary**: zero `VISIO` headings in the body. ★★ **The `SUMMARIUM` is RENDERED as `### Summarium`, not trimmed** — the corpus's real rule is *marginal glosses are trimmed, display matter set in the text block is rendered*, which is why scholia are rendered. ✅ Parser checked: an h3 `### Summarium` does not terminate `extractLanguageBlock`, so no sentinel change was needed; **`### Scholion` must still be LAST**.
 >
