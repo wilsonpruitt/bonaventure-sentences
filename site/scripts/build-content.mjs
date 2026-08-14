@@ -217,6 +217,28 @@ const WORKS = {
       1: "De reductione artium ad theologiam",
     },
   },
+  // The largest work in Vol V: 23 collationes + a work-level Scholion, a
+  // reportatio. The collatio is the division the edition annotates (COLLATIO I
+  // carries apparatus anchor 1) and Quaracchi's own citation unit
+  // ("Hexaem. coll. N. n. M"), so it is the chunk unit. NOT the *visiones*:
+  // the index describes the collationes as tractationes of four visions, but a
+  // grep of the whole work returns ZERO `VISIO` headings in the body — they
+  // are a description of the matter, not a printed division (the same class as
+  // de-reductione's marginal `Pars`). Division titles are added ONE AT A TIME
+  // as each chunk is built, each verified against the IN-PLACE printed subtitle
+  // rather than copied out of the volume index — the Itinerarium's Cap. VII
+  // title question is why. See manual-review/hexaemeron-pilot-scouting.md.
+  hexaemeron: {
+    book: 11,
+    tome: 5,
+    title: "Collationes in Hexaëmeron",
+    initial: "H",
+    divisionLabel: "Collationes",
+    divisions: {
+      1: "Collatio I: De qualitatibus in auditoribus divini verbi requisitis et de Christo omnium scientiarum medio",
+      24: "Scholion",
+    },
+  },
   // Future Vol V works claim book ids here as their mini-pilots run:
   // scientia-christi: 8, mysterio-trinitatis: 9,
   // perfectione-evangelica: 10, hexaemeron: 11, septem-donis: 12,
@@ -235,6 +257,9 @@ function buildWorkChunkTitle(meta) {
   }
   // Flat works (no partes): division IS the capitulum (Itinerarium).
   if (meta.workSlug === "itinerarium") return `Cap. ${meta.division}`;
+  // Flat works whose division is the collatio (Hexaemeron, and the two
+  // Collationes sets when they land).
+  if (meta.workSlug === "hexaemeron") return `Coll. ${meta.division}`;
   // Breviloquium-style: "Pars 3, Cap. 4".
   const parts = [`Pars ${meta.division}`];
   if (meta.capitulum) parts.push(`Cap. ${meta.capitulum}`);

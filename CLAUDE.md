@@ -544,6 +544,67 @@ p. 295). English title: **"The Journey of the Mind into God."**
   Vols VI–X that has died once.** See also the vision-plate content-filter note in global memory.
 
 
+### HEXAEMERON — mini-pilot conventions (frozen 2026-08-14; evidence in `manual-review/hexaemeron-pilot-scouting.md`)
+
+*Collationes in Hexaëmeron sive Illuminationes Ecclesiae*, work 8, book id 11, slug
+`hexaemeron`. **A reportatio — the first in the corpus.** p. 326 MEASURED BLANK ·
+**p. 327 half-title** (the title prints **HEXAËMERON**, with a diaeresis, and carries the
+transmitted alternate title *sive Illuminationes Ecclesiae*) · p. 328 MEASURED BLANK ·
+**body opens p. 329**, not 327 as the old work map implied. English title:
+**"Collations on the Hexaëmeron."**
+
+- **TWENTY-FOUR CHUNKS: `bon-hex-c{1..23}` (divisions 1–23) + `bon-hex-scholion`
+  (division 24)** — the same shape as the Itinerarium, whose work-level Scholion the
+  volume index likewise lists after the last chapter. Ids are `bon-hex-…`; the scholion
+  slug is **suffix-less-adjacent** and belongs to the census blind-spot class.
+- **★ THE CHUNK IS THE COLLATIO, and the frozen test decided it: `COLLATIO I.` CARRIES
+  APPARATUS ANCHOR ¹** (the note documents the work's title in the codices). It is also
+  Quaracchi's citation unit — `Hexaem. coll. N. n. M` — and the volume index lists exactly
+  these twenty-three and nothing finer. ~5.5 printed pp per chunk.
+- **⛔ NEVER CHUNK ON THE *VISIONES*.** The index describes the collationes as *tractationes*
+  of four visions (*De prima visione tractatio prima*…), and **a grep of the whole work
+  returns ZERO `VISIO` headings in the body**. They are a description of the matter, not a
+  printed division — the same class as `de-reductione`'s marginal `Pars`, and the same
+  answer: record them in `## Notes`, never in the structure.
+- **★★ EACH COLLATIO OPENS WITH A `SUMMARIUM` AND IT IS RENDERED, NOT TRIMMED.** It is a
+  full-measure editorial synopsis in small italic, keyed to the collatio's paragraph
+  numbers (*…tripliciter divisa, numero 1. — Pars I. In auditoribus tria requiruntur, 2. —
+  De his tribus specialiter, 3-5. — …*), and **it carries no apparatus anchor** (verified at
+  magnification on p. 329). The reflex is to treat it as editorial matter and trim it like
+  a marginal gloss. **That is wrong, and the corpus already shows why: Quaracchi's scholia
+  are equally editorial and are rendered in full, in both languages.** The rule the corpus
+  actually follows is **marginal glosses are trimmed; display matter set in the text block
+  is rendered** — and the Summarium is display matter, and the reader's only map of a
+  five-page reportatio. Render it as **`### Summarium`** at the head of each language block,
+  paragraph references preserved verbatim, body following it.
+  - ⚠ **Parser note, checked:** an `### Summarium` at h3 does NOT terminate
+    `extractLanguageBlock` (only `## Latin|English|Apparatus|Notes|Scholion|---` do), so it
+    is captured as part of the body and needs no sentinel change. **`### Scholion` must
+    still be LAST in a language block** — that rule is unaffected.
+  - ⚠ **The `SUMMARIUM` header garbles as badly as `SCHOLION` did** — a case-tolerant grep
+    over the whole work returns only ~12 recognizable spellings (`SuMMARiuM`, `SuMMARKJM`,
+    `SuMMARiUiM`, `SuMMARiiiM`) against 23 collationes. **Find it by CONTENT — the
+    em-dash-and-paragraph-number synopsis shape — never by header grep.**
+- **Marginalia are present AS WELL as the Summarium** (five in p. 329's first column alone)
+  and are trimmed to the Marginalia list per the standing Vol V convention. The synopsis
+  does not replace the glosses; both are transcribed, in different places.
+- **Division titles go into the `WORKS` registry ONE AT A TIME as each chunk is built, each
+  verified against the IN-PLACE printed subtitle**, never bulk-copied from the volume index.
+  The Itinerarium's Cap. VII title question is the reason. (Collatio I's index text and
+  in-place subtitle were compared and agree.)
+- **Header hazards:** the running head `IN HEXAËMERON COLLATIO N.` fires far more often than
+  the real header and garbles hard (`IN HEXAiiMERON`, `IN IIKX/VKMEKON`, `IN HEWKiMERON`);
+  the real header is the bare `COLLATIO N.` on its own line, itself garbled (`COLLATIO L` =
+  I, `IL` = II, `IIL` = III, `lY` = IV, `VL` = VI). **Fix every span from the next real
+  `COLLATIO N.` header on the band, never from a running head.**
+- **Raw range L57174 → ~L76290** (~19,100 lines, ~17× `de-reductione`). Collationes I–XXIII
+  run pp. 329–~449 and the Scholion ~450–454; *de septem donis* opens at **p. 457**, which
+  bounds the far end. Every span still gets fixed positively on the band.
+- **Cadence: THREE gates**, not the two page count alone would give (~128 pp), **plus a
+  shakedown gate ~15–25 pp in — i.e. after roughly Collatio IV.**
+- **⚠ Plates: extract PER COLLATIO, never in bulk.** 128 leaves at 450 dpi is ~600 MB on an
+  8 GB machine.
+
 ### Vol V mechanics
 
 - **Offset `pdf = printed + 76`** (verified at printed 174/176/201/320/507/530; PDF
