@@ -1659,6 +1659,22 @@ KNOWN_TOTALS = {
               # TRANSCRIBING, NOT THE PAGE, on any leaf where a work ends
               # and the next unit begins in a different type. This will
               # be constant in the Sermones.
+
+    # ---- De reductione artium ad theologiam (bon-red, pp. 319-325) ----
+    # Every page's FULL footer register was read off the 450 dpi bands in
+    # one sitting. The whole work is a single chunk, so no page is shared
+    # with a neighbour and nothing is forwarded in or out. Four gutter
+    # runovers (319 n.3, 320 n.6, 323 n.8, 325 n.5) are rendered joined
+    # and counted once each. *** NO page-crossing runover anywhere in the
+    # work: pp. 320-325 each open their left footer block NUMBERED, and
+    # all six joints were checked, not assumed.
+    319: 6,
+    320: 8,
+    321: 8,   # left block closes on the signature line "S. Bonav. -- Tom. V."
+    322: 8,
+    323: 11,  # the heaviest leaf of the work
+    324: 9,
+    325: 9,   # last leaf; the bare centred colophon EXPLICIT. stands below both columns
 }
 
 

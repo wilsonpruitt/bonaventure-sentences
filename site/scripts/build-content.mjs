@@ -198,8 +198,27 @@ const WORKS = {
       8: "Scholion",
     },
   },
+  // A work that the edition itself does not divide. Quaracchi print it as 26
+  // numbered paragraphs of continuous prose with no capitula and no headings,
+  // and the volume's own index gives it ONE line with no sub-entries (where the
+  // Itinerarium above it is indexed capitulum by capitulum and the Hexaemeron
+  // below it collatio by collatio). The `Pars I.`/`Pars 2.` that appear beside
+  // the text are MARGINAL glosses — the editors' running outline — and are
+  // trimmed to the chunk's Marginalia list like every other gloss. So the work
+  // is one chunk, and division 1 is the whole of it. See
+  // manual-review/de-reductione-plate-scouting.md for the full argument.
+  "de-reductione": {
+    book: 7,
+    tome: 5,
+    title: "De reductione artium ad theologiam",
+    initial: "R",
+    divisionLabel: "Opusculum",
+    divisions: {
+      1: "De reductione artium ad theologiam",
+    },
+  },
   // Future Vol V works claim book ids here as their mini-pilots run:
-  // de-reductione: 7, scientia-christi: 8, mysterio-trinitatis: 9,
+  // scientia-christi: 8, mysterio-trinitatis: 9,
   // perfectione-evangelica: 10, hexaemeron: 11, septem-donis: 12,
   // decem-praeceptis: 13, sermones-selecti: 14.
 };
@@ -209,6 +228,8 @@ function buildWorkChunkTitle(meta) {
   // (Itinerarium shape) name themselves regardless of division.
   if (meta.type === "capitula") return "Capitula";
   if (meta.type === "scholion") return "Scholion";
+  // An undivided work is one chunk and names itself (De reductione).
+  if (meta.type === "opusculum") return "Opusculum";
   if (meta.division === 0) {
     return meta.section ? `Prologus, §${meta.section}` : "Prologus";
   }

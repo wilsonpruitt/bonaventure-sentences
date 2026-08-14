@@ -19612,3 +19612,76 @@ bon-itin-scholion	5	latin_body		crossref	logical	II. Sent. d. 1. p. II. a. 1. q.
 bon-itin-scholion	5	latin_body		crossref	logical	III. Sent. d. 37. dub. 1.	bon-sent-III-d37-dubia		chunk		
 bon-itin-scholion	5	latin_body		crossref	page	pag. 120	tom5:p120		forward		
 bon-itin-scholion	5	latin_body		crossref	logical	II. Sent. d. 18. a. 1. q. 3.	bon-sent-II-d18-a1-q3		chunk		
+bon-red	5	latin_body	p323-4	scripture	body-ordinal	Ioannis decimo quarto	Ioan 14:6	B	verse		
+bon-red	5	latin_body		scripture	body-ordinal	Matthaei undecimo	Matth 11	C	chapter		
+bon-red	5	latin_body	p323-10	scripture	body-ordinal	Proverbiorum octavo	Prov 8:24	B	verse		
+bon-red	5	apparatus:p319-4	p319-4	scripture	anaphor->body-ordinal	ibid.	Prov 8:24	B	verse	yes	Proverbiorum octavo
+bon-red	5	apparatus:p320-4	p320-4	crossref	page	supra pag. 227, nota 5	bon-brev-p2-c10+bon-brev-p2-c9		page-multi		
+bon-red	5	apparatus:p320-5	p320-5	crossref	work	Breviloq. p. II. c. 3.	bon-brev-p2-c3		chunk		
+bon-red	5	apparatus:p320-5	p320-5	crossref	page	supra pag. 29, nota 6	tom5:p29		forward		
+bon-red	5	apparatus:p320-5	p320-5	crossref	work	Quaest. de scientia Christi	work:scientia-christi		work		
+bon-red	5	apparatus:p320-5	p320-5	crossref	logical	I. Sent. d. 3. p. I. q. 1.	bon-sent-I-d3-p1-a1-q1		chunk		
+bon-red	5	apparatus:p320-7	p320-7	crossref	work	Itinerar. c. 3.	bon-itin-c3		chunk		
+bon-red	5	apparatus:p320-7	p320-7	crossref	page	pag. 120, nota 11	tom5:p120		forward		
+bon-red	5	apparatus:p320-7	p320-7	crossref	anaphor->page	ibid.	tom5:p120		forward	yes	pag. 120, nota 11
+bon-red	5	apparatus:p320-8	p320-8	crossref	page	supra pag. 19, nota 7	tom5:p19		forward		
+bon-red	5	apparatus:p320-8	p320-8	crossref	work	Itinerar.	work:itinerarium		work		
+bon-red	5	apparatus:p320-8	p320-8	crossref	page	pag. 73, nota 7	tom5:p73		forward		
+bon-red	5	apparatus:p321-2	p321-2	crossref	page	supra pag. 206, nota 11	bon-brev-prol-s4+bon-brev-prol-s5		page-multi		
+bon-red	5	apparatus:p321-2	p321-2	crossref	page	supra pag. 287, nota 5	bon-brev-p7-c5+bon-brev-p7-c6		page-multi		
+bon-red	5	apparatus:p321-4	p321-4	crossref	logical	II. Sent. d. 1. p. I. a. 1. q. 1.	bon-sent-II-d1-p1-a1-q1		chunk		
+bon-red	5	apparatus:p321-6	p321-6	scripture	apparatus-explicit	Iac. 1, 17	Iac 1:17	A	verse		
+bon-red	5	apparatus:p321-7	p321-7	crossref	work	Breviloq.	work:breviloquium		work		
+bon-red	5	apparatus:p322-1	p322-1	scripture	apparatus-explicit	I. Cor. 13, 8	1Cor 13:8	A	verse		
+bon-red	5	apparatus:p322-1	p322-1	crossref	work	Breviloq. p. II. c. 2.	bon-brev-p2-c2		chunk		
+bon-red	5	apparatus:p322-1	p322-1	crossref	work	Itiner.	work:itinerarium		work		
+bon-red	5	apparatus:p322-4	p322-4	crossref	work	Itinerar.	work:itinerarium		work		
+bon-red	5	apparatus:p322-5	p322-5	scripture	apparatus-explicit	Gal. 4, 4	Gal 4:4	A	verse		
+bon-red	5	apparatus:p322-5	p322-5	scripture	apparatus-explicit	Phil. 2, 7	Phil 2:7	A	verse		
+bon-red	5	apparatus:p322-6	p322-6	scripture	apparatus-explicit	I. Ioan. 2, 16	1Ioan 2:16	A	verse		
+bon-red	5	apparatus:p322-6	p322-6	crossref	work	Breviloq. p. III. c. 9.	bon-brev-p3-c9		chunk		
+bon-red	5	apparatus:p322-7	p322-7	scripture	apparatus-explicit	Eccle. 1, 8	Eccle 1:8	A	verse		
+bon-red	5	apparatus:p322-7	p322-7	crossref	page	tom. IV. pag. 137, nota 6	bon-sent-IV-d6-p1-a1-q1		chunk		
+bon-red	5	apparatus:p322-7	p322-7	crossref	work	Breviloq. p. V. c. 6.	bon-brev-p5-c6		chunk		
+bon-red	5	apparatus:p323-1	p323-1	crossref	page	tom. I. pag. 600, nota 7	bon-sent-I-d35-a1-q1		chunk		
+bon-red	5	apparatus:p323-3	p323-3	crossref	page	supra pag. 211, nota 3	bon-brev-p1-c2+bon-brev-p1-c3		page-multi		
+bon-red	5	apparatus:p323-3	p323-3	crossref	work	Breviloq. p. II. c. 12.	bon-brev-p2-c12		chunk		
+bon-red	5	apparatus:p323-4	p323-4	scripture	apparatus-explicit	Matth. 11, 27	Matth 11:27	A	verse		
+bon-red	5	apparatus:p323-4	p323-4	scripture	apparatus-explicit	Ioan. 1, 14	Ioan 1:14	A	verse		
+bon-red	5	apparatus:p323-5	p323-5	crossref	work	Breviloq. p. V. c. 7.	bon-brev-p5-c7		chunk		
+bon-red	5	apparatus:p323-7	p323-7	crossref	page	supra pag. 167, nota 2	tom5:p167		forward		
+bon-red	5	apparatus:p323-8	p323-8	scripture	apparatus-explicit	I. Ioan. 4, 16	1Ioan 4:16	A	verse		
+bon-red	5	apparatus:p323-8	p323-8	scripture	apparatus-explicit	Prov. 8, 31	Prov 8:31	A	verse		
+bon-red	5	apparatus:p323-10	p323-10	scripture	apparatus-explicit	Ioan. 1, 14	Ioan 1:14	A	verse		
+bon-red	5	apparatus:p323-10	p323-10	crossref	work	Brevil. p. IV. c. 1	bon-brev-p4-c1		chunk		
+bon-red	5	apparatus:p323-11	p323-11	crossref	work	Breviloq. p. III. c. 1	bon-brev-p3-c1		chunk		
+bon-red	5	apparatus:p323-11	p323-11	scripture	apparatus-explicit	Phil. 4, 5	Phil 4:5	A	verse		
+bon-red	5	apparatus:p323-11	p323-11	scripture	apparatus-explicit	Prov. 22, 11	Prov 22:11	A	verse		
+bon-red	5	apparatus:p323-11	p323-11	scripture	apparatus-explicit	Matth. 6, 22	Matth 6:22	A	verse		
+bon-red	5	apparatus:p324-2	p324-2	crossref	page	tom. II. pag. 690, nota 1	bon-sent-II-d28-a2-q3+bon-sent-II-d28-dubia		page-multi		
+bon-red	5	apparatus:p324-2	p324-2	crossref	page	tom. III. pag. 895, nota 1	bon-sent-III-d40-dubia		chunk		
+bon-red	5	apparatus:p324-3	p324-3	scripture	apparatus-explicit	Hebr. 1, 3	Hebr 1:3	A	verse		
+bon-red	5	apparatus:p324-3	p324-3	crossref	work	Quaest. de scientia Christi	work:scientia-christi		work		
+bon-red	5	apparatus:p324-4	p324-4	crossref	logical	II. Sent. d. 18. a. 1. q. 1.	bon-sent-II-d18-a1-q1		chunk		
+bon-red	5	apparatus:p324-5	p324-5	crossref	page	supra pag. 12, nota 7	tom5:p12		forward		
+bon-red	5	apparatus:p324-6	p324-6	crossref	logical	II. Sent. d. 17. a. 1. q. 2.	bon-sent-II-d17-a1-q2		chunk		
+bon-red	5	apparatus:p324-6	p324-6	crossref	chain-continuation	d. 19. a. 1. q. 1.	bon-sent-II-d19-a1-q1		chunk		
+bon-red	5	apparatus:p324-7	p324-7	scripture	apparatus-explicit	Apoc. 1, 8	Apoc 1:8	A	verse		
+bon-red	5	apparatus:p324-7	p324-7	crossref	work	Breviloq. p. IV. c. 1.	bon-brev-p4-c1		chunk		
+bon-red	5	apparatus:p324-8	p324-8	crossref	work	Breviloq. p. II. c. 3.	bon-brev-p2-c3		chunk		
+bon-red	5	apparatus:p324-9	p324-9	crossref	page	tom. IV. pag. 848, nota 4	bon-sent-IV-d40-a1-q1		chunk		
+bon-red	5	apparatus:p324-9	p324-9	crossref	page	pag. 907, nota 9			dangling		
+bon-red	5	apparatus:p324-9	p324-9	crossref	page	tom. II. pag. 421, nota 1	bon-sent-II-d17-a2-q2		chunk		
+bon-red	5	apparatus:p324-9	p324-9	crossref	page	pag. 424, nota 3	bon-sent-II-d17-a2-q3		chunk		
+bon-red	5	apparatus:p325-1	p325-1	crossref	page	supra pag. 256, nota 6	bon-brev-p5-c3+bon-brev-p5-c4		page-multi		
+bon-red	5	apparatus:p325-2	p325-2	crossref	page	tom. II. pag. 4, nota 11			dangling		
+bon-red	5	apparatus:p325-2	p325-2	crossref	work	Breviloq. p. I. c. 8.	bon-brev-p1-c8		chunk		
+bon-red	5	apparatus:p325-3	p325-3	scripture	apparatus-explicit	I. Tim. 2, 5	1Tim 2:5	A	verse		
+bon-red	5	apparatus:p325-4	p325-4	scripture	apparatus-explicit	Rom. 12, 2	Rom 12:2	A	verse		
+bon-red	5	apparatus:p325-5	p325-5	crossref	work	Breviloq. p. II. c. 10.	bon-brev-p2-c10		chunk		
+bon-red	5	apparatus:p325-6	p325-6	scripture	apparatus-explicit	I. Cor. 6, 17	1Cor 6:17	A	verse		
+bon-red	5	apparatus:p325-6	p325-6	crossref	work	Breviloq. p. V. c. 4.	bon-brev-p5-c4		chunk		
+bon-red	5	apparatus:p325-7	p325-7	scripture	apparatus-explicit	Eph. 3, 10	Eph 3:10	A	verse		
+bon-red	5	apparatus:p325-8	p325-8	scripture	apparatus-explicit	I. Petr. 4, 11	1Petr 4:11	A	verse		
+bon-red	5	apparatus:p325-9	p325-9	scripture	apparatus-explicit	Ioan. 16, 13	Ioan 16:13	A	verse		
+bon-red	5	apparatus:p325-9	p325-9	scripture	apparatus-explicit	Rom. 1, 25	Rom 1:25	A	verse		
