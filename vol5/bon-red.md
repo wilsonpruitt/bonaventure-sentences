@@ -109,6 +109,7 @@ per modestiam in exteriori opere, *speciosa* per munditiam in affectione, *ordin
 ---
 
 ## English
+<!-- page 319 -->
 
 1. *Every best gift and every perfect gift is from above, coming down from the Father of lights*, James in the first chapter of his Epistle[^p319-1]. In this word is touched the origin of all illumination, and together with this is intimated the liberal emanation of the manifold light from that fontal light. Now although every illumination of cognition is interior, we can nevertheless reasonably distinguish, so as to say that there is an exterior light, namely the light of the mechanical art; an inferior light, namely the light of sensitive cognition; an interior light, namely the light of philosophical cognition; and a superior light, namely the light of grace and of Sacred Scripture. The first light illumines with respect to the artificial figure, the second with respect to the natural form, the third with respect to intellectual truth, the fourth and last with respect to saving truth.
 
