@@ -151,6 +151,28 @@ collatio-opening leaves**.
 one** — this work's footers run longer than the Breviloquium's or the Itinerarium's, and
 p. 329 n. 1 alone fills a whole block (it is the note on the work's title in the codices).
 
+**★★ A PAGE-CROSSING RUNOVER, FOUND AT THE JOINT — the first in this work (p. 331 → p. 332).**
+p. 331's right block ends n. 7 mid-citation at *…Cfr. I. Poster. c. 26. (c. 33.). Idem* and
+**p. 332's LEFT footer block opens UNNUMBERED**: *II. Metaph. text. 4. (I. brevior c. 1.)
+dicit: « Quare ut secundum esse unumquodque se habet, ita etiam secundum veritatem »…*,
+running on through the Averroes exposition before p. 332's own n. 1 (Anselm, *Dialog. de
+veritate* c. 11) begins. **Found only because the joint was checked** — this is the class the
+standing rule says no hand-off ever warns you about, and it is the eighth page-crossing
+runover in all of Vol V. Ledger: `bon-hex-c1` takes a page-crossing line as well as its
+gutter runovers.
+
+**p. 331 = 7 notes** (anchors 3 L / 4 R, **block 5 L / 2 R — overruns by two**, n. 5 gutter
+runover, **n. 7 crosses to p. 332**) · **p. 332 = 9 notes** (anchors 5 L / 4 R, **block
+2 L / 7 R — underruns by three**, plus the inherited unnumbered head).
+
+**★★ THE 1/4 CLASS IS ALREADY RUNNING AT THREE PER LEAF-PAIR, and the quoted text settles it
+every time.** p. 332 n. 8 prints as `Cap. 4, 26` but the anchor sits on *Medius vestrum
+stetit, quem vos nescitis* = **John 1:26**, with *Super quem videris Spiritum* = ibid. v. 33;
+p. 332 n. 9 prints as `I. Cor. 44, 3` against *viri caput Christus* = **1 Cor 11:3**; and
+p. 332 n. 3's opener reads as `8` in a register whose sequence and anchor both demand **3**
+(*Apud te est fons vitae*, Ps. 35:10, answering *fonte vitae* in ¶ 17). **In this work the
+tier-B join is not a luxury check — it is the primary evidence for the digit.**
+
 **Marginalia so far** — p. 329: `Divisio.` · `Pars I.` · `Ecclesia et synagoga.` · `Tria
 requiruntur.` · `De observantia legis.` · `Ecclesia columna et firmamentum.` · p. 330:
 `De cohaerentia pacis.` · `De consonantia laudis.` · `Inepti auditores propter
