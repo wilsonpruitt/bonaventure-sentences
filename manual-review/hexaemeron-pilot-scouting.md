@@ -214,6 +214,46 @@ column. Still to do: pp. 331 R – 336, then the English throughout, then the ap
 UNTRACKED** — deliberately, per the Péguy pattern: it is being built by incremental appends
 so a crash costs a paragraph, and an incomplete chunk is never committed.
 
+## ▶ COLLATIO II (`bon-hex-c2`) — IN PROGRESS, span pp. 336–342
+
+**Span fixed:** Collatio II opens on **p. 336** under its full-width display heading and
+Summarium, and runs to **p. 342**, where `COLLATIO III.` opens — so c2 ends mid-leaf there.
+Raw L58227 → L59261. **The Summarium gives 33 numbered paragraphs** (its last reference is
+`27-33`), and it divides the collatio into **Pars I, de porta sapientiae (¶¶ 2–6)** and
+**Pars II, de forma sapientiae (¶¶ 7–33)**.
+
+**Gutters — all seven measured; the tool's default REJECTED on THREE.**
+
+| p. | default | run | true band | adopted |
+|---|---|---|---|---|
+| 336 | 1316 | **8 px ⚠** | 1310–1373 | **1341** — REJECTED (collatio opening) |
+| 337 | 1155 | **10 px ⚠** | 1149–1208 | **1178** — REJECTED, off by 23 px |
+| 338 | 1309 | 61 px | 1252–1342 (wide) | **1307** |
+| 339 | 1215 | 56 px | 1185–1245 | **1215** confirmed |
+| 340 | 1367 | 61 px | 1322–1410 (wide) | **1366** |
+| 341 | 1221 | 55 px | 1191–1251 | **1220** confirmed |
+| 342 | 1362 | **3 px ⚠** | 1318–1381 | **1349** — REJECTED (collatio opening) |
+
+★★ **p. 342 gave a 3 px run — the narrowest yet — and it is the leaf where COLLATIO III
+opens.** Third attestation of the structural rule: **a collatio-opening leaf carries two
+full-width elements across the gutter (heading + Summarium) and cannot be measured on the
+body window.** ⚠ **p. 337 is the counter-case worth noting: it is an ORDINARY interior leaf
+and its default was still wrong by 23 px on a 10 px run** — so a weak run is not by itself
+evidence of a collatio opening; profile every leaf.
+
+**p. 336's register — 8 notes, VERIFIED on the plate.** Anchors **5 L / 3 R** (¹ *Ecclesiastici
+decimo quinto* · ² *sapientiae et intellectus* · ³ *a Patre luminum* · ⁴ *beatus Iacobus* ·
+⁵ *in Psalmo* LEFT; ⁶ *in Ecclesiastico* · ⁷ *Sapientiae septimo* · ⁸ *Sapientiae sexto*
+RIGHT). **Block 4 L / 4 R — underruns by one**, both blocks closing cleanly: **no runover on
+this leaf**, checked at both feet. ★ The left column is SHORT on this leaf — the heading and
+Summarium push the body down — which is the collatio-opening shape, not a boundary.
+
+**⬜ WHERE TO RESUME: p. 337.** `vol5/bon-hex-c2.md` holds frontmatter, the heading, the
+rendered Summarium, the Latin through ¶ 3's opening (*…incorruptio autem facit esse proximum
+Deo.*), and **all eight of p. 336's apparatus entries**. Still to do: pp. 337–342 Latin, the
+whole English, the remaining apparatus, `## Notes`, then the suite. ⚠ **The file is ON DISK
+AND UNTRACKED on purpose** — an incomplete chunk is never committed; append, don't restart.
+
 ## ⚠ Hazards to carry into the grind
 
 - **The `SUMMARIUM` header garbles as badly as `SCHOLION` did.** A case-tolerant grep over
