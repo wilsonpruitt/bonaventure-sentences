@@ -280,7 +280,7 @@ Vols V–X (2026-07-28).**
 | 3 | QD de mysterio Trinitatis | 45–115 | `mysterio-trinitatis` | 9 | planned |
 | 4 | QD de perfectione evangelica | 117–198 | `perfectione-evangelica` | 10 | planned |
 | 5 | **Breviloquium** | 199–291 | `breviloquium` | 5 | **COMPLETE — gated + deployed 2026-08-01** |
-| 6 | **Itinerarium mentis in Deum** | 293–316 | `itinerarium` | 6 | **ACTIVE — mini-pilot done 2026-08-11** |
+| 6 | **Itinerarium mentis in Deum** | 293–316 | `itinerarium` | 6 | **COMPLETE 2026-08-14 — all 10 chunks Tier 2; work-close gate + deploy due** |
 | 7 | De reductione artium | 319–325 | `de-reductione` | 7 | planned |
 | 8 | Collationes in Hexaemeron | ~327–454 | `hexaemeron` | 11 | planned — **NOTE: it is in Vol V, not Vol VII as the old tracker claimed** |
 | 9 | Coll. de septem donis | ~455–503 | `septem-donis` | 12 | planned |
@@ -494,11 +494,35 @@ p. 295). English title: **"The Journey of the Mind into God."**
   the nine angelic orders. *Hierarchicus* → "hierarchic" (never "hierarchical"), *hierarcha* →
   "hierarch". ★ *excessus* → **"transport"** is load-bearing here: c4 § 3's *ecstaticus amor*
   takes "ecstatic love", which is exactly why *excessus* cannot also have it.
-- **✅ THE ITINERARIUM'S TEXT IS COMPLETE — `prol` · `capitula` · `c1`–`c7`, pp. 295–313,
-  zero `[?]` flags in all nine chunks.** Cap. VII closed on the `EXPLICIT ITINERARIUM IN
-  DEUM` colophon, there being no `Cap. VIII.` to close against (the Breviloquium `p7-c7`
-  shape). ▶ **The front is `bon-itin-scholion`, the last chunk**, and the work-close
-  polish gate + the deploy boundary both fire when it lands.
+- **✅ THE ITINERARIUM IS COMPLETE — all TEN chunks Tier 2 (`prol` · `capitula` · `c1`–`c7` ·
+  `scholion`), pp. 295–316, zero `[?]` flags in every one.** Cap. VII closed on the
+  `EXPLICIT ITINERARIUM IN DEUM` colophon, there being no `Cap. VIII.` to close against
+  (the Breviloquium `p7-c7` shape); the work-level Scholion then closed on p. 316, with
+  p. 317 verified as *De reductione*'s half-title. ▶ **The front is now the four-pass
+  work-close polish gate AND the deploy, which fire together at p. 316** — after which
+  `de-reductione` (pp. 319–325) is the next work.
+- **★★ A CHUNK CAN CARRY NO APPARATUS AT ALL — `bon-itin-scholion` is Vol V's first, and
+  the tooling was VERIFIED against it rather than assumed (2026-08-14).** pp. 314–316 have
+  **no footer register whatsoever**, and p. 313's six notes all belong to Cap. VII (see the
+  divide-the-footer-by-anchor rule above). The chunk therefore carries `has_apparatus:
+  false`, no anchors and no defs — and **`build-content.mjs` still counts it translated
+  (2022/2022), `check-vol5-apparatus.py` still passes with its entry total UNCHANGED at
+  831, and `KNOWN_TOTALS` needs no new entry.** The runover ledger takes a **negative**
+  line: no runover is possible on a chunk with no footers. **Expect this shape at editorial
+  scholia and short prefatory matter throughout Vols VI–X; do not read a zero entry count
+  as a failed read.**
+- **★ AT A WORK'S LAST PAGE BOTH COLUMNS END LEVEL AND THE WHITE SPACE BELOW THEM IS NOT A
+  BOUNDARY QUESTION.** p. 316's left column ends mid-word at *…et quan-* and the right a
+  few lines lower, both ~62 % down, the lower two-fifths of both columns blank. The frozen
+  rule ("blank space at a column foot is NEVER a boundary") is satisfied not by reading the
+  white space but by fixing the end **positively from p. 317's half-title**. ★ **Confirm the
+  layout against a downscaled whole-page view before trusting column extents** — band
+  overlap makes a bottom band's blank region easy to misjudge as a short column. A 5× PIL
+  downscale is cheap and is well under the API's image cap, unlike the raw 450 dpi page.
+- **★ DO NOT NORMALISE THE GREEK ARTICLE.** The Scholion prints *conceptu* **τοῦ** *esse*
+  (genitive) twice; the English keeps **τοῦ** even though the English "of" then duplicates
+  the genitive. Rendering it τό would be a silent emendation of Quaracchi — the same
+  discipline as the colophon and the dittographies.
 - **✅ Cap. VII's TITLE IS SETTLED (c7, 2026-08-14): the in-place heading on p. 312 carries
   the VOLUME INDEX's form** — *…affectu **totaliter** in Deum per excessum transeunte* —
   and the `WORKS` registry has been corrected to it. The capitula table's transposition
