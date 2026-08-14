@@ -97,3 +97,83 @@ is what splits a true ~63 px band into two ~28 px sub-bands and collapses the wi
 - ⚠ **The 0.55–0.90 window blew out to 389 px on p. 320 and 155 px on p. 321** — the
   footer register's blocks are narrower than the columns, the same third failure mode c7
   found on p. 313's footer. Do not profile a footer region for a body gutter.
+
+## Per-leaf register — read off the 450 dpi bands, anchors only
+
+### p. 319 — 6 notes · anchors 3 L / 3 R · block 3 L / 3 R (**coincide**) · ⚠ gutter runover
+- Anchors: **¹** *primo capitulo* · **²** *artis mechanicae* · **³** *in Didascalico* (all LEFT);
+  **⁴** *illud Horatii* · **⁵** *gesticulationibus corporis* · **⁶** *armaturam fabricatam*
+  (all RIGHT).
+- **⚠ n. 3 RUNS OVER THE GUTTER** — the left block breaks at *…omissa* theatrica*, sub-* and
+  continues *stituebantur militaris et fabrilis…* at the head of the right block, **carrying
+  a verse line** (*Rus, nemus, arma, rates, vulnera, lana, faber.*). Ledger: 1 gutter-crossing
+  runover. The continuation opens on a lower-case fragment, the familiar trap.
+- Digits corroborated at the band: n. 3 `II. c. 21` + `I. Excerpt. prior. c. 14`; n. 4
+  `v. 333` / `ibid. v. 343`; n. 6 `II. Erudit. didascal. c. 23`, `molli et leni 1, 2, 3`.
+- Marginalia, body order: `Pars I.` · `Origo omnis illuminationis et multiplicis luminis
+  emanatio.` · `Quadruplex lumen.` · `De 1. lumine.` · `Est septuplex.` · `Sufficientia.` ·
+  `Divisio.` · `De 1. membro.` · `Subdivisio 2. membri.` · `Quoad operimentum artes 2.` ·
+  `Item, quoad cibum.`
+- ⚠ **The plate bleaches two words the raw also mangles** — *cum hoc insinuat [multiplicis]
+  luminis ab illa fontali luce liberalis [emanatio]*: both are faint on the scan, and both
+  are recoverable **from the marginal gloss beside them**, which reads *…multiplicis luminis
+  emanatio*. Recorded as settled, not flagged.
+
+### p. 320 — 8 notes · anchors 4 L / 4 R · **block 6 L / 2 R — overruns LEFT by two**
+- Anchors: **¹** *cibi multiplicem* · **²** *excellentiam et curialitatem* · **³** *Theatrica
+  autem est unica* · **⁴** *tertio super Genesi* (LEFT); **⁵** *quinta essentia* · **⁶**
+  *sufficientiam sensuum* · **⁷** *naturaliter sunt inserta* · **⁸** *ordo vivendi* (RIGHT).
+- **The left block prints nn. 1–6** and n. 6 itself **runs over the gutter** (*…ut paulo
+  inferius insi-* | *nuatur, plures…*). So the overrun and a runover are the same note.
+  Ledger: 1 gutter-crossing runover.
+- **★ Digits settled at the band against a garbled raw:** n. 4 raw `C(i: VII. c. \'6.` →
+  plate **`Cfr. VII. c. 15. n. 21.`**; n. 5 raw `supra pag. ^9` → plate **`supra pag. 29,
+  nota 6`**. Also confirmed: n. 4 `Cap. 4. et 5. n. 6. et 7.`, `et XII. c. 16. n. 32.`,
+  `Vide supra pag. 227, nota 5`; n. 5 `Breviloq. p. II. c. 3. seq.`, `Quaest. de scientia
+  Christi, q. 4. ad 11`, `I. Sent. d. 3. p. I. q. 1. ad 2`; n. 6 `Alex. Hal., S. p. II.
+  q. 66. m. 3`, `Ioan. a Rupella, Sum. de Anima, p. II. c. 19`; n. 7 `Itinerar. c. 3. n. 2.
+  et pag. 120, nota 11`, `August., VIII. de Civ. Dei, c. 4`, `ibid. II. c. 7; XI. c. 20.
+  et Epist. 137. (alias 3.) c. 5. n. 17`; n. 8 `supra pag. 19, nota 7`, `Itinerar. mentis
+  etc. c. 3. n. 7. et I. Sent. pag. 73, nota 7`.
+- Marginalia, body order: `Alius modus.` · `Item, quoad utriusque adminiculum.` ·
+  `De 2. lumine.` · `Est quintuplex.` · `Sufficientia sec. naturam luminis elementorum.` ·
+  `Notandum.` · `Alius modus commemoratur.` · `De 3. lumine.` · `Est triplex.` ·
+  `Sufficientia.` · `Modus 2.` · `Modus 3.`
+### p. 321 — 8 notes · anchors 4 L / 4 R · **block 3 L / 5 R — UNDERRUNS by one** · no runover
+- Anchors: **¹** *ad veritatem doctrinae* · **²** *has tres passiones* · **³** *in
+  metaphysicam* · **⁴** *nonnulla fuerit controversia* (LEFT); **⁵** *apparet ex ipsis
+  nominibus* · **⁶** *a Patre luminum descendit* · **⁷** *qualiter est Deo adhaerendum* ·
+  **⁸** *Hugo vero omnia haec* (RIGHT).
+- **★ THE OVERRUN REVERSED AGAIN, ONE LEAF AFTER OVERRUNNING BY TWO.** p. 320's left block
+  took two of the right column's notes; p. 321's left block **gives one of its own away** —
+  n. 4 anchors in the LEFT column and prints at the head of the RIGHT block. Read anchors,
+  only anchors, on every leaf: the run direction carries nothing forward.
+- **✅ RECORDED NEGATIVE: no runover on this leaf.** Both blocks close cleanly — the left
+  block ends on n. 3's *(in principio).* followed by the printed signature line
+  **`S. Bonav. — Tom. V.`**, and the right block opens **numbered ⁴**. Checked, not assumed.
+  ★ The signature line is printer's furniture (gathering signature), not text and not
+  apparatus — do not transcribe it.
+- **★★ A 1/4 SETTLEMENT, AND THE RISK RAN IN THE USUAL DIRECTION.** n. 3's `Cfr. Aristot.,
+  VI. Metaph. text. 2. et XI. c. 6. (V. c. 1. et X. c. 7.)` — at band scale the `1` in
+  `(V. c. 1.` reads convincingly as a **4**; magnified it is a plain serif `1` (upper-left
+  flag, foot serif, no open triangle), the raw's `I.` agrees, and the sense agrees
+  (Metaph. V c. 1 is *de principio*, and the sentence is about *principium, finis et
+  exemplar*). Two independent witnesses, as the frozen rule requires. Likewise
+  **`Boeth., Dialog. 1. in Porphyr.`** — a `4` is impossible, the first commentary having
+  two books.
+- Other digits corroborated: n. 1 `XI. de Civ. Dei, c. 25`; n. 2 `supra pag. 206, nota 11`
+  (raw `nota II.`) and `supra pag. 287, nota 5`; n. 4 `I. Metaph. text. 6. et 25. seqq.
+  (c. 6. et 9.)`, `83 Qq. q. 46`, `II. Sent. d. 1. p. I. a. 1. q. 1. ad 3. et 4. ac dub. 2`;
+  n. 5 `II. Erudit. didascal. c. 20` + `Isidor., II. Etymolog. c. 24. in fine` (raw `c. 2i.`);
+  n. 6 `Iac. 1, 17`; n. 7 `Breviloq. Prolog. § 4`.
+- Marginalia, body order: `Rationalis philosophia triplicatur.` · `Grammatica, logica,
+  rhetorica.` · `Naturalis philosophia triplicatur.` · `Physica, mathematica, metaphysica.` ·
+  `Item, moralis philosophia.` · `Monastica, oeconomica, politica.` · `De 4. lumine.` ·
+  `Unus intellectus litteralis, triplex mysticus.` · `Quid doceat Scriptura.` · `Notandum.` ·
+  `Sex differentiae luminis.` · `Sex illuminationes cum vespera.`
+
+- ⚠ **The raw's apparatus DOES carry digits inside the note bodies** even though Vol V's
+  raw has no footnote numerals: what is missing is the superscript **openers** (`'` `"` `*`
+  `°`), so entry numbering and ownership still come from the bands only — but a note's
+  interior digits can be cross-read against the raw, and twice here the raw was the one
+  that was wrong.
