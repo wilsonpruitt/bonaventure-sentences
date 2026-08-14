@@ -1675,6 +1675,22 @@ KNOWN_TOTALS = {
     323: 11,  # the heaviest leaf of the work
     324: 9,
     325: 9,   # last leaf; the bare centred colophon EXPLICIT. stands below both columns
+
+    # ---- Collationes in Hexaemeron, Collatio I (bon-hex-c1, pp. 329-335) ----
+    # The Hexaemeron's pilot chunk. Every page's full register read off the
+    # 450 dpi bands. *** p. 331 n. 7 RUNS OVER TO p. 332, whose left footer
+    # block opens UNNUMBERED with the Averroes exposition -- the first
+    # page-crossing runover in this work and the eighth in Vol V. It is
+    # rendered joined in [^p331-7] and is NOT counted again on p. 332.
+    # p. 329's left block holds n. 1 alone: the note on the work's title in
+    # the codices fills the whole block and then runs over the gutter.
+    329: 6,
+    330: 8,
+    331: 7,
+    332: 9,
+    333: 9,
+    334: 9,
+    335: 9,   # Collatio I ends part-way down the right column; COLLATIO II opens p. 336
 }
 
 
