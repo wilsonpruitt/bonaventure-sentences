@@ -107,6 +107,76 @@ pilot collatio and freeze them in repo CLAUDE.md before any grind dispatch.
 frozen table, **plus a shakedown gate ~15–25 pp in** — i.e. after roughly Collatio IV.
 Deploy boundary is the work close, or per-gate if Wilson wants it read sooner.
 
+## ✅ CONVENTIONS FROZEN 2026-08-14 (`44004fa`) — see repo CLAUDE.md § HEXAEMERON
+
+Chunk = the collatio (24 chunks: `bon-hex-c{1..23}` + `bon-hex-scholion`); the Summarium is
+**rendered** as `### Summarium`, not trimmed; the visiones are never a boundary; registry
+entry + a `Coll. N` title branch are wired in `build-content.mjs`. ⚠ Parser checked: an
+`### Summarium` at h3 does not terminate `extractLanguageBlock`, so no sentinel change was
+needed.
+
+## ▶ PILOT CHUNK `bon-hex-c1` — IN PROGRESS, span pp. 329–336 (fixed on the raw + band)
+
+**Collatio I runs pp. 329–336**, 39 numbered paragraphs (the Summarium's own last reference
+is `37-39`); **Collatio II opens on p. 336**, so this chunk ends mid-leaf there. Raw
+L57180 → L58227.
+
+**Gutters — all eight measured; the tool's default REJECTED on two.**
+
+| p. | default | run | true band | adopted |
+|---|---|---|---|---|
+| 329 | 1201 | 62 px | 1170–1234 | **1202** |
+| 330 | 1347 | 63 px | 1314–1378 | **1346** |
+| 331 | 1249 | 61 px | 1217–1280 | **1249** |
+| 332 | 1349 | 60 px | 1315–1379 | **1347** |
+| 333 | 1185 | 61 px | 1152–1216 | **1184** |
+| 334 | 1399 | 61 px | 1367–1430 | **1398** |
+| 335 | 1172 | **19 px** | 1146–1209 | **1177** — default REJECTED |
+| 336 | 1316 | **8 px ⚠ flagged** | 1310–1373 | **1341** — default REJECTED |
+
+★ p. 336 is the leaf where **Collatio II opens with its full-width heading + Summarium**, and
+it produced the volume's narrowest run yet (8 px) — **the display-heading failure the frozen
+rule predicts, now with a numeric floor**. Expect it on **every one of the 22 remaining
+collatio-opening leaves**.
+
+**Registers read so far (anchors only, per the standing rule):**
+
+| p. | notes | anchors L / R | block L / R | relation | runover |
+|---|---|---|---|---|---|
+| 329 | 6 | 3 / 3 (¹ is on the `COLLATIO I.` heading) | 1 / 5 | **underruns by two** | n. 1 gutter |
+| 330 | 8 | 4 / 4 | 6 / 2 | **overruns by two** | n. 6 gutter |
+| 331 | ≥5 | 3 / … | 5 / … | **overruns by two** | n. 5 gutter |
+
+★ **Three leaves, three different block/anchor relations, and a gutter runover on every
+one** — this work's footers run longer than the Breviloquium's or the Itinerarium's, and
+p. 329 n. 1 alone fills a whole block (it is the note on the work's title in the codices).
+
+**Marginalia so far** — p. 329: `Divisio.` · `Pars I.` · `Ecclesia et synagoga.` · `Tria
+requiruntur.` · `De observantia legis.` · `Ecclesia columna et firmamentum.` · p. 330:
+`De cohaerentia pacis.` · `De consonantia laudis.` · `Inepti auditores propter
+inobservantiam legis.` · `Item, propter violationem pacis.` · `Item, propter defectum laudis
+divinae.` · `Notandum.` · `Epilogus I. partis.` · `Pars II.` · `Incipiendum a Christo, qui
+est medium in omnibus.` · p. 331: `Alia ratio.` · `Medium septiforme scientiarum.` ·
+`Applicatio ad Christum.` · `De 1. medio.` · `Duplex esse.`
+
+**★ Register decisions taken at this chunk (to be frozen in CLAUDE.md when it closes):**
+*collatio* → "collation" · ***medium* → "medium"**, never "mean" or "middle": the whole
+collatio turns on Christ as *medium* in seven senses mapped to the seven sciences
+(metaphysicus · physicus · mathematicus · logicus · ethicus · politicus seu iuristarum ·
+theologus), and the word has to carry centre, mean and means at once, which the English
+cognate does · *sermo* → "discourse"/"sermon" by context (⚠ *debet fieri sermo* is the
+preaching act) · *artistae* → "the artists" (the arts-faculty masters — ⚠ **p. 330 n. 7 is
+the crux**: the codices do not write *Aristotelis* plainly, and the Vatican edition
+substitutes *per falsas opiniones et per argumenta Aristotelis* for *per falsas positiones
+per artistas*; transcribe the Quaracchi text and record the variant).
+
+**⬜ WHERE TO RESUME: p. 331's RIGHT column.** Latin transcribed through ¶ 12's opening
+(*…Esse ex se est in ratione originantis; esse secundum* —), i.e. the foot of p. 331's left
+column. Still to do: pp. 331 R – 336, then the English throughout, then the apparatus
+(~65 entries), then `## Notes`. ⚠ **The chunk file `vol5/bon-hex-c1.md` is ON DISK AND
+UNTRACKED** — deliberately, per the Péguy pattern: it is being built by incremental appends
+so a crash costs a paragraph, and an incomplete chunk is never committed.
+
 ## ⚠ Hazards to carry into the grind
 
 - **The `SUMMARIUM` header garbles as badly as `SCHOLION` did.** A case-tolerant grep over
