@@ -192,7 +192,22 @@ the crux**: the codices do not write *Aristotelis* plainly, and the Vatican edit
 substitutes *per falsas opiniones et per argumenta Aristotelis* for *per falsas positiones
 per artistas*; transcribe the Quaracchi text and record the variant).
 
-**⬜ WHERE TO RESUME: p. 331's RIGHT column.** Latin transcribed through ¶ 12's opening
+**★★ SPAN CORRECTED ON THE PLATE: COLLATIO I IS pp. 329–335, NOT 329–336.** It ends at ¶ 39
+(*…et septem dies, quos fecit prima lux.*) part-way down p. 335's right column, and **p. 336
+opens `COLLATIO II.` with its own full-width display heading, subtitle and Summarium** — the
+end fixed positively from the next heading, never from the white space below ¶ 39. ⭐ **This
+also explains p. 336's 8 px gutter run numerically**: a collatio-opening leaf carries *two*
+full-width elements (heading + Summarium) crossing the gutter, so the body window finds no
+blank column band at all. **Expect the same on all 22 remaining collatio openings; do not
+try to measure a gutter on one — take it from a neighbouring leaf or profile below the
+Summarium.**
+
+**Registers, all seven leaves:** 329 = 6 · 330 = 8 · 331 = 7 · 332 = 9 · 333 = 9 · 334 = 9 ·
+335 = 9 (to be confirmed at the foot). Block-vs-anchor: 329 underruns by 2 · 330 overruns by
+2 · 331 overruns by 2 · 332 underruns by 3 · 333 overruns by 1 · 334 overruns by 2.
+**Gutter runovers on 329, 330, 331, 333; one PAGE-CROSSING (331 → 332).**
+
+**⬜ WHERE TO RESUME (superseded — see below): p. 331's RIGHT column.** Latin transcribed through ¶ 12's opening
 (*…Esse ex se est in ratione originantis; esse secundum* —), i.e. the foot of p. 331's left
 column. Still to do: pp. 331 R – 336, then the English throughout, then the apparatus
 (~65 entries), then `## Notes`. ⚠ **The chunk file `vol5/bon-hex-c1.md` is ON DISK AND
