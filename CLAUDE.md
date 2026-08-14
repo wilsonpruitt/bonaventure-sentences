@@ -392,6 +392,44 @@ p. 295). English title: **"The Journey of the Mind into God."**
 - **Cadence:** 24 pp → ONE gate, at the work close (per the frozen table); deploy
   boundary = work close. Reverts to the standing per-structural-unit rule, the
   Breviloquium's work-close hold does not carry over.
+- **★★★ A GUTTER IS A PROPERTY OF A REGION, NOT OF A PAGE — AND `colcrop.py` SILENTLY
+  RETURNS THE WRONG ONE (earned at `bon-itin-c7`, p. 313, 2026-08-14). THIS BELONGS TO
+  VOL V MECHANICS AND GENERALIZES TO VOLS VI–X; it is recorded here because the
+  Itinerarium is where it was paid for.** p. 313 stacks **three regions set to different
+  measures** — Cap. VII's body (two columns), then a full-width `SCHOLION` display
+  heading with the scholion's body in a **smaller type**, then the footer register.
+  **The two body regions do not share a gutter:**
+  - Cap. VII body: zero band **1137–1195** (59 px), centre rule 1165–1170 → **1166**
+  - Scholion body: zero band **1129–1194** (66 px), centre rule 1160–1162 → **1161**
+  - footer register: band reads **149 px** and is unusable — the left footer block is
+    narrower than the column, so the "band" runs on into white space
+
+  **The default 45–92 % row window straddles both bodies and reports 1161 on a 49 px
+  run — the scholion's value, not the chapter's.** The run width is the tell, but a
+  5 px error survives a glance at the crop and would silently pad one column and
+  truncate the other. **The frozen three-step method assumes ONE MEASURE PER PAGE.
+  That assumption fails on any leaf where a work or unit ends and the next begins in a
+  different type. Profile the region you are transcribing, not the page.** Expect it at
+  **every work close in Vols VI–X**, and constantly in the **Sermones**, where short
+  pieces end mid-leaf as a matter of course. This is the third distinct member of the
+  bad-window family, after the display-heading case (p. 201) and the in-column
+  `Cap. N.` heading case (p. 263) — but unlike those two it does **not** blow the run
+  width out, which is exactly why it is the dangerous one.
+- **★★ DIVIDE THE FOOTER BY ANCHOR EVEN ACROSS WORK-UNITS — a page's WHOLE register can
+  belong to a unit that occupies only the top of the page (same leaf, same session).**
+  Cap. VII fills barely the upper two-fifths of p. 313 and the work-level Scholion fills
+  the middle, yet **all six of p. 313's footer notes are Cap. VII's**: each answers to a
+  Cap. VII anchor, and the Scholion's own text carries **no footnote anchors at all**,
+  citing its authorities inline instead. A reader dividing the register by *where the
+  text sits on the page* would hand three notes to the wrong chunk. The standing rule
+  ("read anchors, only anchors") already covers it — **but note that here the anchors are
+  not merely in a different column, they are in a different work-unit.**
+- **★ TRANSCRIBE A COLOPHON EXACTLY, EVEN AGAINST THE WORK'S OWN TITLE.** The Itinerarium
+  ends **`EXPLICIT ITINERARIUM IN DEUM`** — *without* **mentis** — set three inches below
+  a running head reading `ITINERARII MENTIS IN DEUM SCHOLION.`, in a work whose half-title
+  and prologue both give *Itinerarium mentis in Deum*. Quaracchi prints no note on it.
+  **Not normalised, not flagged.** The same discipline as the *est est* / *dicitur
+  dicitur* dittographies at c5.
 - **★ REGISTER FOR cc. II–VII — FROZEN AT c2 (2026-08-13). Reuse it; do not re-decide it.**
   - **The three operations, one-to-one, never blended:** *apprehensio* → "apprehension" ·
     *oblectatio* → **"delectation"** · *diiudicatio* → **"adjudication"** (*diiudicare* →
@@ -456,8 +494,18 @@ p. 295). English title: **"The Journey of the Mind into God."**
   the nine angelic orders. *Hierarchicus* → "hierarchic" (never "hierarchical"), *hierarcha* →
   "hierarch". ★ *excessus* → **"transport"** is load-bearing here: c4 § 3's *ecstaticus amor*
   takes "ecstatic love", which is exactly why *excessus* cannot also have it.
+- **✅ THE ITINERARIUM'S TEXT IS COMPLETE — `prol` · `capitula` · `c1`–`c7`, pp. 295–313,
+  zero `[?]` flags in all nine chunks.** Cap. VII closed on the `EXPLICIT ITINERARIUM IN
+  DEUM` colophon, there being no `Cap. VIII.` to close against (the Breviloquium `p7-c7`
+  shape). ▶ **The front is `bon-itin-scholion`, the last chunk**, and the work-close
+  polish gate + the deploy boundary both fire when it lands.
+- **✅ Cap. VII's TITLE IS SETTLED (c7, 2026-08-14): the in-place heading on p. 312 carries
+  the VOLUME INDEX's form** — *…affectu **totaliter** in Deum per excessum transeunte* —
+  and the `WORKS` registry has been corrected to it. The capitula table's transposition
+  (*…per excessum totaliter transeunte*) is recorded at `bon-itin-capitula` as transmitted
+  text. **Do not restore the table's form.**
 - **✅ `bon-itin-c3` and `bon-itin-c4` ARE WRITTEN** (pp. 303–306, 17 entries; pp. 306–308,
-  19 entries; zero `[?]` in both). ▶ **The front is `bon-itin-c5`.**
+  19 entries; zero `[?]` in both).
 - **✅ `bon-itin-c2` IS WRITTEN** (pp. 299–303, 26 entries, zero `[?]`). Its plate scouting
   survives at `manual-review/itin-c2-plate-scouting.md`; the chunk's own `## Notes` is now
   the fuller record.
