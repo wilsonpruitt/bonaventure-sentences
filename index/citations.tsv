@@ -19577,3 +19577,38 @@ bon-itin-prol	5	apparatus:p296-1	p296-1	scripture	apparatus-explicit	Ps. 37, 9	P
 bon-itin-prol	5	apparatus:p296-2	p296-2	scripture	apparatus-explicit	Hebr. 1, 3	Hebr 1:3	A	verse		
 bon-itin-prol	5	apparatus:p296-2	p296-2	scripture	apparatus-explicit	I. Ioan. 2, 20	1Ioan 2:20	A	verse		
 bon-itin-prol	5	apparatus:p296-3	p296-3	scripture	apparatus-explicit	Psalm. 44, 8	Ps 44:8	A	verse		
+bon-itin-scholion	5	latin_body		crossref	page	supra pag. 47	tom5:p47		forward		
+bon-itin-scholion	5	latin_body		crossref	page	ibid. pag. 1	tom5:p1		forward		
+bon-itin-scholion	5	latin_body		crossref	anaphor->page	ibid.	tom5:p1		forward	yes	ibid. pag. 1
+bon-itin-scholion	5	latin_body		crossref	work	Breviloq. p. II. c. 12.	bon-brev-p2-c12		chunk		
+bon-itin-scholion	5	latin_body		crossref	logical	II. Sent. d. 23. a. 2. q. 3.	bon-sent-II-d23-a2-q3		chunk		
+bon-itin-scholion	5	latin_body		scripture	apparatus-explicit	I. Cor. 6, 17	1Cor 6:17	A	verse		
+bon-itin-scholion	5	latin_body		crossref	logical	III. Sent. d. 24. dub. 4.	bon-sent-III-d24-dubia		chunk		
+bon-itin-scholion	5	latin_body		crossref	work	Breviloq. p. II. c. 12	bon-brev-p2-c12		chunk		
+bon-itin-scholion	5	latin_body		crossref	logical	I. Sent. d. 36. a. 2. q. 2.	bon-sent-I-d36-a2-q2		chunk		
+bon-itin-scholion	5	latin_body		crossref	logical	II. Sent. d. 3. p. II. a. 2. q. 1.	bon-sent-II-d3-p2-a2-q1		chunk		
+bon-itin-scholion	5	latin_body		crossref	logical	I. Sent. d. 28. dub. 1.	bon-sent-I-d28-dubia		chunk		
+bon-itin-scholion	5	latin_body		crossref	logical	II. Sent. d. 1. p. II. dub. 2	bon-sent-II-d1-p2-dubia		chunk		
+bon-itin-scholion	5	latin_body		crossref	logical	I. Sent. d. 3. p. I. q. 2.	bon-sent-I-d3-p1-a1-q2		chunk		
+bon-itin-scholion	5	latin_body		crossref	relative-inherited	ibid.	bon-sent-II-d1-p2-dubia		chunk		
+bon-itin-scholion	5	latin_body		crossref	page	pag. 22	tom5:p22		forward		
+bon-itin-scholion	5	latin_body		crossref	page	pag. 17	tom5:p17		forward		
+bon-itin-scholion	5	latin_body		authority	authority:Bonav.	I. Sent. d. 3. p. I. q. 3.			excluded		
+bon-itin-scholion	5	latin_body		authority	authority:Bonav.	II. Sent. d. 3. p. II. a. 2. q. 2.			excluded		
+bon-itin-scholion	5	latin_body		scripture	apparatus-explicit	Act. 17, 27	Act 17:27	A	verse		
+bon-itin-scholion	5	latin_body		authority	authority:Bonav.	II. Sent. d. 28. a. 2. q. 3.			excluded		
+bon-itin-scholion	5	latin_body		crossref	page	pag. 87	tom5:p87		forward		
+bon-itin-scholion	5	latin_body		authority	authority:Bonav.	ibid.			excluded		
+bon-itin-scholion	5	latin_body		crossref	page	pag. 26	tom5:p26		forward		
+bon-itin-scholion	5	latin_body		authority	authority:S. Thom.	I. Sent. d. 3. q. 4.			excluded		
+bon-itin-scholion	5	latin_body		crossref	logical	II. Sent. d. 3. p. II. a. 2. q. 2.	bon-sent-II-d3-p2-a2-q2		chunk		
+bon-itin-scholion	5	latin_body		crossref	logical	I. Sent. d. 3. p. I. q. 1.	bon-sent-I-d3-p1-a1-q1		chunk		
+bon-itin-scholion	5	latin_body		crossref	page	pag. 7	tom5:p7		forward		
+bon-itin-scholion	5	latin_body		crossref	relative-inherited	ibid.	bon-sent-I-d3-p1-a1-q1		chunk		
+bon-itin-scholion	5	latin_body		crossref	logical	II. Sent. d. 39. a. 1. q. 2.	bon-sent-II-d39-a1-q2		chunk		
+bon-itin-scholion	5	latin_body		crossref	chain-continuation	d. 25. p. II. q. 6	bon-sent-II-d25-p2-a1-q6		chunk		
+bon-itin-scholion	5	latin_body		crossref	logical	I. Sent. d. 8. p. II. dub. 4	bon-sent-I-d8-p2-dubia		chunk		
+bon-itin-scholion	5	latin_body		crossref	logical	II. Sent. d. 1. p. II. a. 1. q. 2.	bon-sent-II-d1-p2-a1-q2		chunk		
+bon-itin-scholion	5	latin_body		crossref	logical	III. Sent. d. 37. dub. 1.	bon-sent-III-d37-dubia		chunk		
+bon-itin-scholion	5	latin_body		crossref	page	pag. 120	tom5:p120		forward		
+bon-itin-scholion	5	latin_body		crossref	logical	II. Sent. d. 18. a. 1. q. 3.	bon-sent-II-d18-a1-q3		chunk		
