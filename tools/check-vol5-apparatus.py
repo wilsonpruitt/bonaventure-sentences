@@ -1630,6 +1630,35 @@ KNOWN_TOTALS = {
               # from p.311; checked, not assumed.
               # *** GUTTER 1388: true band x=1356-1420 (65 px), centre
               # rule at 1388-1389. Default confirmed at the midpoint.
+    313: 6,   # band-read in full by bon-itin-c7, which owns ALL SIX --
+              # *** EVEN THOUGH CAP. VII FILLS ONLY THE TOP TWO-FIFTHS OF
+              # THE PAGE AND THE WORK-LEVEL SCHOLION FILLS THE MIDDLE.
+              # Every one of the six answers to a Cap. VII anchor (nn.1-3
+              # in sec. 5's Dionysian quotation, LEFT column; nn.4-6 in
+              # sec. 6, RIGHT column), and the Scholion's own text carries
+              # NO footnote anchors at all -- it cites inline instead.
+              # bon-itin-scholion therefore inherits NOTHING from p.313.
+              # Divide by anchor even when the anchors are in a different
+              # WORK-UNIT, not merely a different column.
+              # Blocks 3 L / 3 R, ANCHORS 3 L / 3 R -- they COINCIDE.
+              # p.313 n.3 runs over the GUTTER, and the printer's
+              # signature line "S. Bonav. -- Tom. V." prints BETWEEN its
+              # two halves, at the foot of the left block. Logged by
+              # bon-itin-c7. The left footer block opens NUMBERED, so
+              # nothing crosses from p.312; checked, not assumed.
+              # *** GUTTER: THIS PAGE HAS TWO, AND THE TOOL RETURNS THE
+              # WRONG ONE. p.313 stacks three regions set to different
+              # measures. Cap. VII body: band 1137-1195 (59 px), rule
+              # 1165-1170 -> 1166, which is what c7 uses. Scholion body:
+              # band 1129-1194 (66 px), rule 1160-1162 -> 1161. The
+              # colcrop default row window (45-92%) straddles both bodies
+              # and reports 1161 on a 49 px run -- the SCHOLION's value.
+              # The footer band reads 149 px and is unusable (the left
+              # block is narrower than the column, so its band runs on
+              # into white space). *** PROFILE THE REGION YOU ARE
+              # TRANSCRIBING, NOT THE PAGE, on any leaf where a work ends
+              # and the next unit begins in a different type. This will
+              # be constant in the Sermones.
 }
 
 

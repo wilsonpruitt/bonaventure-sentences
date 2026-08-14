@@ -189,7 +189,12 @@ const WORKS = {
       4: "Cap. IV: De speculatione Dei in sua imagine donis gratuitis reformata",
       5: "Cap. V: De speculatione divinae unitatis per eius nomen primarium, quod est esse",
       6: "Cap. VI: De speculatione beatissimae Trinitatis in eius nomine, quod est bonum",
-      7: "Cap. VII: De excessu mentali et mystico, in quo requies datur intellectui, affectu in Deum per excessum totaliter transeunte",
+      // Settled at bon-itin-c7 (2026-08-14) against the IN-PLACE heading on
+      // p. 312 — the only witness that is the text. This is the VOLUME INDEX's
+      // form; the capitula table transposes `totaliter` (…per excessum
+      // totaliter transeunte) and that reading is recorded at bon-itin-capitula
+      // as transmitted text. Do not restore the table's form here.
+      7: "Cap. VII: De excessu mentali et mystico, in quo requies datur intellectui, affectu totaliter in Deum per excessum transeunte",
       8: "Scholion",
     },
   },
