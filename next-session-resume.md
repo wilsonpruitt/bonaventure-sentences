@@ -4,11 +4,11 @@
 >
 > ## ✅ `prol` · `capitula` · `c1`–`c7` · **`bon-itin-scholion` (2026-08-14, `7095a62`)** — **zero `[?]` flags in all ten.** The Scholion closed on p. 316 at *…vel saltem conferat locos a nobis in notis allegatos.*; **p. 317 is *De reductione*'s half-title**, so nothing is forwarded past the work's end. **The sixth of Vol V's ten works is done.**
 >
-> ## ✅✅✅ **THE ITINERARIUM IS COMPLETE, GATED AND DEPLOYED (2026-08-14).** Gate `9176f2e`, all four passes, ZERO corpus defects (log `manual-review/vol5-itinerarium-workclose-gate.md`). **Deployed to prod `dpl_638rfiiLXyzGvvbrCgDcaWaDcjmA` and VERIFIED LIVE** — the scholion's opening and closing lines in both languages, c7's `EXPLICIT ITINERARIUM IN DEUM` colophon, and the rewritten About page all served. ⚠ **That verification is DATED and expires — never restate live state from this line; check the source or ask.** ▶▶▶ **BOTH p. 316 TRIGGERS ARE NOW SPENT. The remaining protected action is the PUSH.**
+> ## ✅✅✅ **THE ITINERARIUM IS COMPLETE, GATED, DEPLOYED AND PUSHED (2026-08-14).** Gate `9176f2e` (four passes, ZERO corpus defects, log `manual-review/vol5-itinerarium-workclose-gate.md`); prod `dpl_638rfiiLXyzGvvbrCgDcaWaDcjmA`, verified live; `origin/master` = `f527d79`, **0 ahead**. ⚠ **The live-state verification is DATED and expires — never restate prod state from this line; check the source or ask.**
 >
 > **What the gate found.** Pass 1: **zero `[?]` flags across all ten chunks — verified, not assumed** (every grep hit is prose declaring the absence), recorded as a checked negative. Pass 2: vol5 **CLEAN** (89 files); corpus-wide **10 PAIR issues / 5 chunks, all orphaned defs in Vols III–IV, all pre-existing** (the known J4 class-B residue) — recorded, deliberately NOT fixed, since this gate authorises no edit under `vol3/` or `vol4/`. Pass 3: **NINE interior boundaries, ALL mid-page, ZERO leaf crossings**, counted by hand; all nine grammatically continuous with no cascade-merge signature; **every page's register contiguous 1..N, no gap, no double-claim, no unowned page**, agreeing with `KNOWN_TOTALS` on all nineteen pages that carry one. Pass 4: **~91 MB reclaimed** (25 page images + bands, both regenerable — ⚠ **re-extract before any later plate work; the vol5 plates are gone**).
 >
-> **⛔ NOT PUSHED — `master` is 26 commits ahead of origin, and the push is protected and still needs Wilson's explicit OK.** The deploy carried the rewritten **About page** (`e3473f8`) to prod as part of this batch, as parked. ⚠ Still owed on it: the **"What Is Known to Be Wrong"** section (Acta has one; Bonaventure does not yet) — a deploy-only item, park it for the next boundary.
+> ## ▶▶▶ **THE FRONT IS `de-reductione` — *De reductione artium ad theologiam*, work 7, printed pp. 319–325.** Launch pointer below. Nothing is owed before it; both p. 316 triggers are spent and the tree is clean.
 >
 > **★ AFTER THE GATE, the front is `de-reductione`** (work 7, printed pp. 319–325, slug `de-reductione`, book id 7) — a **7-page work, so it gets exactly one gate, at its close**, per the frozen rule that a work shorter than the page interval still gets one and never zero. It is a genre it has not been worth piloting separately, but **its prologue slug (`bon-red-prol`) is the suffix-less census blind-spot class again — the third instance.**
 >
@@ -6641,6 +6641,102 @@ Open [?]: a1-q2(P1) scholion §II gutter-clip; a1-q4(P1) margin labels — for d
 **★ DISTINCTIO XL COMPLETE — all 6 chunks Tier 2 (commit `a0b746d`). Build: 1798 translated.** SINGLE-PARS, *De cognatione carnali / consanguinitate et gradibus* (the blood-kinship impediment + computation of degrees), **ARTICULUS UNICUS × 3 questions**. raw L90113→L91126, printed pp.844–855 (offset +20). Rechunked fresh (`tools/rechunk_d40.py`). littera (Master Caps I–IV, pp.844–845, 7 app), divisio (COMMENTARIUS + DIVISIO TEXTUS + a long **PRAENOTATA** — definitions of *consanguinitas*/*linea*/*gradus*, three *notulae*, the legistae-vs-decretistae dispute on counting degrees — pp.845–847, 8 app), **Articulus Unicus** a1-q1 (*Utrum consanguinitas sit aliquod vinculum*, pp.847–849, 17 app, **OWNS the distinction's ONLY SCHOLION: §I covers q1+q2, §II covers q3**)/a1-q2 (*Utrum consanguinitas matrimonio praestet impedimentum*, pp.849–851, 16 app)/a1-q3 (*Usque ad quem gradum se extendat impedimentum consanguinitatis* — Lateran IV/Innocent III restricting the impediment to the **fourth degree**, pp.851–853, 20 app), dubia (Dub I–V, pp.853–855, 18 app).
 **⚙ LESSONS (d.40):** (1) **COMMENTARIUS header OCR'd `C0MMENTARIU8 IN DI8TINCTI0NEM XL.`** (zeros for O's) — a plain `/COMMENT/` grep finds NOTHING. Grep with a digit-tolerant class. (2) **DUB. III + IV are UNGREPPABLE** — they sit in p.854's RIGHT column, which the OCR cascade-merges into the left; only DUB. I/II/V surface in raw. The writer counted all five off the 450dpi bands. The header audit independently confirms it (`DUB raw 1 / chunk 5`). **The band-count is the only trustworthy dubia count in this range.** (3) **The `DISTINCTIO XLI. 85b` at raw L91100 is p.855's RUNNING HEAD, not the boundary** — d.40's Dub. V continues *past* it (its text dies mid-word at `…propriam consanguinita-` and resumes in the p.855 right column). Real d.41 header = L91127. (4) **The scholion is printed at the TOP of p.849, above QUAESTIO II** — not at the foot where it usually sits. The q1 writer correctly reordered it to LAST in both language blocks per the parser rule (`### Scholion` above the body ⇒ empty body ⇒ chunk silently reads untranslated). (5) Coordinator page estimate ran 1pp long on the dubia (853–856 → **853–855**); p.856 is entirely d.41's.
 **Open d.40 [?] flags:** NONE — all resolved at the d.31–d.40 gate (2026-07-13). One real fix: `a1-q2 [^p849-4]` verse **3 → 5**.
+
+## ★ `de-reductione` LAUNCH POINTER — *De reductione artium ad theologiam* (work 7, printed pp. 319–325)
+
+The **last of Vol V's opuscula**; after it the three Quaestiones Disputatae are the block
+(their register carries over from the Sentences almost unchanged, so no pilot). Slug
+**`de-reductione`**, **book id 7**, already in the `WORKS` registry.
+
+### Banked — do NOT re-derive
+
+- **✅ p. 317 IS THE HALF-TITLE**, verified on the plate at the scholion's scouting
+  (`SERAPHICI DOCTORIS / SANCTI BONAVENTURAE / OPUSCULUM / DE / REDUCTIONE ARTIUM AD
+  THEOLOGIAM`). The old "317/319" uncertainty is closed at 317.
+- **Raw range: L56056 → ~L57170.** The work opens at **L56056** with `1. Omne datum optimum
+  et omne donum perfectum desursum est…` (James 1:17), and the **`COLLATIONES IN HEXAEMERON`
+  half-title stands at L57174**, which fixes the far end. Running heads at L56190, 56348,
+  56529, 56852, 57022.
+- ⚠ **p. 318 has NEVER been checked** — expected blank, but *expected* is not *measured*.
+  Measure it, as p. 292 and p. 294 were measured.
+
+### Two structural facts read off the raw opening, both of which shape the chunking
+
+1. **★★ THE WORK HAS NO CAPITULA.** It opens directly on numbered paragraph **`1.`** and runs
+   as continuous numbered prose — Quaracchi cite it as `de Reduct. n. N`, so **the numbered
+   paragraph is the citation unit**, exactly as in the Itinerarium's chapters. **Neither the
+   Breviloquium's nor the Itinerarium's chunk-per-capitulum rule can port, because there are
+   no capitula to chunk on.**
+2. **⚠⚠ `Pars I.` APPEARS IN THE MARGIN, NOT AS A HEADING** — it bleeds into the raw's first
+   lines beside *Omne datum optimum*, together with the other glosses (`origo omnis…`,
+   `Quadruplex…`). Under the frozen Vol V rule these are **marginalia: trim from the body,
+   transcribe into a Marginalia list in `## Notes`.** **DO NOT CHUNK ON A MARGINAL `Pars`
+   GLOSS** — it is Quaracchi's editorial outline, not the author's division, and treating it
+   as a heading would invent a structure the text does not have. Confirm on the plate that
+   it really is marginal before deciding anything.
+
+### ⬜ THE FIRST DECISION OF THAT SESSION — the chunk unit. Decide it deliberately, from the plate.
+
+7 printed pages, ~26 numbered paragraphs, no capitula. **Do not settle this by analogy to the
+previous work** — that is the exact error the capitula-table rule was written against. The
+live options:
+
+- **one chunk for the whole work** — simplest, and 7 pp is well within a single chunk's
+  proven size (the scholion was 4 pp / ~4,300 words); but it makes the largest single unit
+  in Vol V and gives the reader no interior navigation;
+- **chunk on the four lights** — the work's *own* division (*lumen exterius* = mechanical art
+  · *inferius* = sensitive cognition · *interius* = philosophical cognition · *superius* =
+  grace/Scripture), which is authorial and visible in the opening paragraph;
+- **chunk on the marginal `Pars` divisions** — ⛔ rejected in advance if they are marginal, per
+  fact 2 above.
+
+**The frozen test to apply: look for apparatus ON the division.** That is how the Itinerarium's
+capitula table was decided, and it generalizes. Whatever is chosen, record the argument so it
+is not re-opened.
+
+### Recipe
+
+1. **Re-extract the plates — THEY ARE GONE.** Pass 4 of the Itinerarium gate deleted every
+   vol5 450 dpi image (~91 MB reclaimed). Run
+   `python3.11 tools/extract-pages.py --volume vol5 --pages 317-325 --dpi 450` (offset
+   `pdf = printed + 76`), then measure p. 318 and confirm p. 317.
+2. **Gutters: measure every leaf, and PROFILE THE REGION, NOT THE PAGE.** `colcrop.py vol5
+   <page>` auto-measures; the 1660 default is wrong for the whole volume and the parity model
+   is retired. ⚠ **p. 319 is a work-opening leaf, so expect the display-heading failure** (a
+   full-width heading crossing the gutter destroys the blank run); and ★★★ per c7's rule, a
+   leaf that stacks regions in different measures has **more than one gutter** — `colcrop`
+   returns one of them without blowing out the run width. Add **scan skew** to the
+   narrow-run differential (the scholion's fourth mechanism: profile the rule's peak x per
+   vertical band and look for monotonic drift).
+3. **Apparatus is bands-only** — the Vol V raw has no footnote numerals at all. Feed
+   `KNOWN_TOTALS` per page as you read. ⚠ Do not assume a register exists on every leaf: the
+   scholion proved a Vol V chunk can have **none at all**, and a zero is a positive result,
+   not a failed read.
+4. **Marginalia are DENSE in this work** (visible already in the raw's first ten lines) —
+   trim from the body, list in `## Notes`, body order, and keep literal `[^` tokens out of
+   Notes prose (`V5NOTES` will catch it, but after the fact).
+5. **★★ BUILD IT BY THE PÉGUY INCREMENTAL-APPEND METHOD** — many small `Edit` appends, one or
+   two paragraphs each, never one large output. This is not optional: it is what beat the
+   content filter across c1–c3 and what made a terminal crash cost nothing at the scholion.
+   **Bank the plate work in a committed scouting file BEFORE writing the chunk**, on the same
+   argument.
+6. **Per-chunk verification, every commit:** `check-vol5-apparatus.py` · `check-vol5-census.py`
+   (append a ledger line — ⚠ **if this work has a suffix-less opener slug it is the
+   census blind-spot class for the THIRD time**, after `bon-brev-prol` and `bon-itin-prol`) ·
+   `polish-style-scan.py` · `build-content.mjs` · `build-citations.py`, **reporting your own
+   chunk's QA flags separately from the corpus total (currently 226).**
+7. **Cadence: ONE gate at the work's close** (7 pp, so the ~100-page trigger never fires and
+   the work-boundary trigger supplies it — a short work gets one gate, never zero), and the
+   **deploy boundary is the same point.** Both are protected and need Wilson's per-action OK.
+   ⚠ The boundary sweep must count leaf crossings **by hand**; `seam-screen.py` is blind to them.
+
+### Register
+
+Carries over from the Itinerarium/Breviloquium unchanged (frozen in CLAUDE.md § ITINERARIUM
+and § "Breviloquium register additions"). **New to this work, to be settled and frozen at its
+first chunk:** the fourfold light — *lumen exterius / inferius / interius / superius* — and
+*ars mechanica* (the mechanical art), which is the work's whole subject and has no settled
+English in the corpus yet.
 
 ## (archived) Distinction XLI launch pointer — full recipe boilerplate lives here; the LIVE next-front pointer is at the TOP of this file (currently d.44)
 **★ Distinction XLI** (marriage treatise cont. — *De affinitate*: the impediment of affinity and its degrees). `DISTINCTIO XLI.` real header at raw **L91127** (⚠ the L91100 occurrence is p.855's RUNNING-HEAD BLEED — d.40's Dub. V continues past it; do NOT start there). `Cap. I. De affinitatis gradibus.` at raw **L91130**. d.41 opens on **printed p.855** and runs to `DISTINCTIO XLII.` at raw **L92045**. **★ INCOMING HAND-OFF: printed p.855's `NOTAE AD LIBR. SENTENTIARUM` footer block (notes 1–4) is d.41-LITTERA's apparatus** — d.40-dubia deliberately left it unclaimed; the littera writer must claim it. **MAP FRESH** — grep raw L91127→L92045 for ARTICULUS/QUAESTIO/DUBIA/DIVISIO TEXTUS + `DIST. XLI.` running heads. **⚠⚠ MANDATORY COUNT-CHECK (d.32/d.33/d.35/d.36/d.37/d.39/d.40 ALL had garbled headers hiding a question, an article, or whole dubia): after grepping QUAESTIO/ARTICULUS/DUBIA headers, ALSO (a) grep the inter-header raw for OCR-tolerant ordinal openers `Primo|Secundo|Tertio|Quarto|Quinto|Sexto quaeritur`, (b) cross-check the TRACTATIO "quaeruntur N" count vs your QUAESTIO-header count, (c) read scholion "De N. quaestione" doctor-lists as a count signal, (d) grep DUBIA WIDE (`D[UV]B[IL1]A|C.CA LITTERAM|CIRCA LITTER`) AND — per the d.40 lesson — if the dubia sit in a two-column cascade-merged region, COUNT THEM OFF THE 450dpi BANDS, not the OCR, and tell the LAST-question writer to verify its tail isn't swallowing a dubia section, and (e) grep COMMENTARIUS digit-tolerantly (`C[0O]MMENTARIU[S8]`).** RECIPE (proven d.22–d.40, `tools/rechunk_d40.py` = current template, keeps line_start/line_end so all 3 audits run): **get each real q-title from the line AFTER its QUAESTIO header** (garbled: use the ordinal-opener line); **scholia grep WIDE `S[OC][HB][O0]L|CHOLI` AND by CONTENT** (headers garble to `SCHOLIOK`), and **note a scholion can be printed at the TOP of a page above the next question — it still belongs to the question whose tail it follows, and MUST be rendered LAST in the language block**; `ls vol4/ | grep d41-` → rechunk fresh via a copy of `tools/rechunk_d40.py`; `rm -f raw/vision/vol4/*.png /tmp/colcrop/*`; extract @450 --force (bg); colcrop 1880 + **regenerate clipped pages at 2120/1620 (L) — in the d.40 range the default split clipped nearly every page**; coordinator pre-generates ALL bands serially → **parallel write-only batches of 4** with the full brief boilerplate (anti-injection + scholion-by-content + explicit scholion-owner + pages-may-run-1–3-pp-off/correct-printed_pages-from-running-heads + shared-footer hand-offs + verify-real-q-title-from-header + if-you-find-an-unmapped-section-render-it-and-REPORT + `[^pNNN-M]` page-qualified apparatus labels with the intro `>` note free of any literal `[^…]` token + after-any-API-error-verify-the-BODY-not-the-status-string + check-last-dubium-not-truncated-at-seam); build + 3 audits (`--volume 4 --min-d 41 --max-d 41`) + 2 commits + advance this note. **NEXT DECADE GATE = d.50** (the LAST of Book IV).
