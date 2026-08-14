@@ -1160,6 +1160,29 @@ indexes grow with the corpus (see § "Index conventions"). They write nothing un
 Run both, in this order.
 
 - `--archive=tgz` required (Free plan's 5000-files/day upload cap)
+- **★★ RUN `vercel build` AND `vercel deploy` FROM `site/`, NOT THE REPO ROOT.** The
+  `.vercel/` link lives in `site/`. Run either from the repo root and the CLI fails with
+  `project_settings_required` / "No project settings found locally" and *suggests you run
+  `vercel pull`* — which is a **red herring**: nothing is unlinked, you are simply in the
+  wrong directory. The `cd site` in the recipe above is load-bearing, not cosmetic.
+  (Cost a wasted build cycle on 2026-08-14.)
+- **★★ `Error: fetch failed` AFTER "Deploying outputs…" IS THE KNOWN, RECURRING FAILURE —
+  RETRY THE DEPLOY, DO **NOT** REBUILD.** `.vercel/output` is intact and re-running
+  `npx vercel deploy --prod --prebuilt --archive=tgz` alone succeeds. It is
+  **post-transfer processing**, not the upload: the log shows all files extracted first.
+  Attested at the Book IV deploy (97 MB archive) and **again at the Itinerarium deploy
+  2026-08-14, where attempt 1 failed and the bare retry went READY**. Expect it to become
+  more frequent as the archive grows; it has never yet needed more than one retry.
+- **⚠ VERIFY THE BODY, NOT THE STATUS STRING — this fires on deploys constantly.** A
+  backgrounded build/deploy reported "completed (exit code 0)" **twice** on 2026-08-14 when
+  the underlying command had exited 1 (once `project_settings_required`, once
+  `fetch failed`). Always `tail` the log and look for `"status": "ok"` / `readyState:
+  READY`, then **curl the live URLs for actual served CONTENT**, not just a 200.
+- **Deploy scale, measured at the Itinerarium deploy (2026-08-14, 2,022 chunks):** output
+  **527 MB / 29,318 files**, up from 466 MB / 29,080 at the Breviloquium deploy (2,012
+  chunks). ⚠ **The scaling decision is deliberately PARKED (Wilson, 2026-08-01) — record
+  the numbers, do NOT re-raise the decision unprompted.** The local build did **not** OOM
+  on the 8 GB machine under the 1 GB Node heap cap.
 - **Only the project owner deploys** to the production custom domain (bonaventure.wrootpress.com). Other contributors should commit their work to a branch; owner pulls and deploys.
 
 ### ★ DEPLOY CADENCE — at structural boundaries (Wilson, 2026-07-28)
