@@ -1,43 +1,66 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — FINISH `bon-hex-c2` (Collatio II), RESUMING AT p. 337.
+> # ▶▶▶ START HERE — `bon-hex-c3` (Collatio III), WHICH OPENS ON p. 342.
 >
-> **State on disk (verified at `516d148`, `origin/master` current, tree otherwise clean):**
-> `vol5/bon-hex-c2.md` exists and is **UNTRACKED ON PURPOSE**. It holds the frontmatter, the
-> `### COLLATIO II.` heading, the rendered `### Summarium`, the Latin through ¶ 3's opening
-> (*…incorruptio autem facit esse proximum Deo.*), and **all eight of p. 336's apparatus
-> entries**. **APPEND TO IT — DO NOT RESTART IT.** An incomplete chunk is never committed;
-> that is the Péguy pattern, and it has already made two content-filter kills and one
-> terminal crash cost nothing in this work.
+> **State (verified at the c2 commit; `master` 2 ahead of `origin/master`, tree clean):**
+> `vol5/bon-hex-c2.md` is **Tier 2 and committed** — pp. 336–342, **34 numbered ¶¶**,
+> **61 apparatus entries, zero `[?]` flags**. Two chunks of the Hexaemeron are done.
 >
-> **The five things to do, in order:** (1) Latin pp. 337–342 · (2) the whole English block,
-> parallel · (3) the remaining apparatus (p. 336 is done; ~47 entries left) · (4) `## Notes`
-> — provenance, span, page-break map, gutter table, apparatus table, runovers, marginalia,
-> register, ledger line · (5) the suite + two commits.
+> **What c3 inherits — verified, not assumed:**
+> - **Collatio III opens BELOW Collatio II in p. 342**, with its own display heading and
+>   Summarium; Collatio II closes part-way down that leaf at *…isti sunt excessus mentales.*
+> - **p. 342's register is CLOSED and nothing is forwarded** — all seven of its notes answer
+>   to Collatio II anchors. ⚠ **Whether the `COLLATIO III.` heading carries an anchor of its
+>   own (as `COLLATIO I.` did) is c3's first band question**, to be settled on p. 342's band,
+>   never inferred from this line.
+> - ⚠ **p. 342's gutter (adopted 1349) was measured on a 3 px run** — the narrowest in the
+>   volume. It is a collatio-opening leaf, the third attestation of that failure class.
+>   **Re-profile it; do not inherit the number.** Plates 336–342 are extracted; the rest are not.
+> - **Fix every span from the next real `COLLATIO N.` header on the band.** p. 342 proved the
+>   running head runs a collatio AHEAD: it reads `IN HEXAËMERON COLLATIO III.` while Collatio II
+>   still fills the leaf.
 >
-> **Everything already banked for c2 — do NOT re-derive:**
-> - **Span pp. 336–342**, 33 numbered ¶¶; ends mid-leaf where `COLLATIO III.` opens on p. 342.
->   Raw **L58227 → L59261**. Summarium's division: **Pars I *de porta sapientiae* ¶¶ 2–6 ·
->   Pars II *de forma sapientiae* ¶¶ 7–33**.
-> - **Plates 336–342 are extracted; all seven gutters measured.** Adopted: 336 = **1341** ·
->   337 = **1178** · 338 = **1307** · 339 = **1215** · 340 = **1366** · 341 = **1220** ·
->   342 = **1349**. ⚠ **The tool's default was REJECTED on three of the seven.** Regenerate
->   bands with `colcrop.py vol5 <page> <adopted> 3 1.8`.
-> - **p. 336's register is VERIFIED: 8 notes, anchors 5 L / 3 R, block 4 L / 4 R — underruns
->   by one, NO runover** (both block feet checked). Its left column is short because the
->   heading and Summarium push the body down — that is the opening shape, not a boundary.
+> **What c2 paid for, and c3 should expect:**
+> - **★★ TWO PAGE-CROSSING RUNOVERS IN ONE CHUNK — the 340|341 and 341|342 joints, the 9th and
+>   10th in all of Vol V.** Both receiving left blocks open **unnumbered**; neither is visible
+>   from the sending page. **Read the next page's opening footer block before believing any
+>   register is closed.** This work's footers are the longest in the volume.
+> - **★★ THE BLOCK SPLIT DIVERGED FROM THE ANCHOR SPLIT BY THREE NOTES on p. 341** (block
+>   2 L / 8 R against anchors 5 L / 5 R) — the widest divergence yet. Read anchors, only anchors.
+> - **★ THE SUMMARIUM CAN UNDER-INDEX THE COLLATIO.** Collatio II's synopsis stops at ¶ 33 and
+>   the collatio prints **34** numbered paragraphs. Transcribed as printed, not reconciled —
+>   **count the paragraphs off the plate, never off the Summarium.**
+> - **★ TRANSCRIBE AS PRINTED, EVEN WHEN THE EMENDATION IS OBVIOUS:** p. 338 prints
+>   «nisi ad **exterius-rationem**», hyphenated. *exteriorem rationem* was written first and
+>   withdrawn at the band.
+> - **★ The tool's gutter default was REJECTED on three of seven leaves** (336, 337, 342), and
+>   **p. 337 is the counter-case that matters — an ORDINARY interior leaf whose default was
+>   wrong by 23 px on a 10 px run.** A weak run does not by itself mean a collatio opening.
+>   Adopted: 336 = 1341 · 337 = 1178 · 338 = 1307 · 339 = 1215 · 340 = 1366 · 341 = 1220 ·
+>   342 = 1349.
+> - **★ Register additions frozen in the chunk's `## Notes`:** the four faces keep their
+>   cognates (uniform · multiform · omniform · **nulliform**); *suspendia divinorum excessuum*
+>   → "the suspensions of the divine transports" (*excessus* holds to "transport");
+>   *disciplina* → "discipline" throughout; *modus, species et ordo* → "measure, beauty and
+>   order", per the frozen `de-reductione` register.
 >
-> **The verification suite (run all five, every commit):** `check-vol5-apparatus.py` — feed
-> `KNOWN_TOTALS` a line per page as each register is read · `check-vol5-census.py` — append a
-> ledger line to `manual-review/vol5-runover-ledger.tsv`, **including the negatives** ·
-> `polish-style-scan.py --volume 5` — ⚠ it fires `V5NOTES` on a literal `[^` token in `##
-> Notes` prose, so write labels bare · `site/scripts/build-content.mjs` — **must report
-> 2025/2025 when c2 lands; a body that parsed empty shows up as the count failing to move** ·
-> `build-citations.py`, reporting this chunk's QA flags separately from the corpus total.
+> **The verification suite (run all five, every commit).** At the c2 commit they gave:
+> `check-vol5-apparatus.py` **92 chunks / 1008 entries**, seven new `KNOWN_TOTALS` pages fed
+> from the bands (336:8 · 337:9 · 338:9 · 339:9 · 340:9 · 341:10 · 342:7) · `check-vol5-census.py`
+> rosters agree **92/92**, **89 runovers (79 gutter-crossing, 10 page-crossing)** ·
+> `polish-style-scan --volume 5` **CLEAN** (92 files) · `build-content.mjs` **2025/2025, 8 books** ·
+> `build-citations.py`: this chunk contributed **98 records with ZERO QA flags of its own**
+> (corpus total 228, unchanged).
 >
-> **Then:** `bon-hex-c3`, and **the shakedown gate fires after roughly Collatio IV** (~15–25
-> printed pp. in) — the first of three gates for this work. The deploy rides with a gate, not
-> with a chunk. Push and deploy are both protected and need Wilson's per-action OK.
+> **Then:** c4, and **the shakedown gate fires after roughly Collatio IV** (~15–25 printed pp. in)
+> — the first of three gates for this work. The deploy rides with a gate, not with a chunk.
+> Push and deploy are both protected and need Wilson's per-action OK.
+>
+> ⬜ **Still parked, deploy-only:** the landing copy in `site/src/app/page.tsx` is stale twice
+> (the tome gloss omits *De reductione* and names the un-begun Hexaemeron; the intro still says
+> the Breviloquium "is being published part by part" and the Itinerarium "will follow"), and the
+> About page still owes its **"What Is Known to Be Wrong"** section. Ship both at the next
+> deploy boundary.
 >
 > ---
 >
@@ -57,13 +80,7 @@
 > - **⚠ A CRUX TO CARRY: p. 330 n. 7 on the *artistae*.** Quaracchi print *per falsas positiones per artistas*; the Vatican edition substitutes *per falsas opiniones et per argumenta Aristotelis* and prefixes *malos* to *theologos*. The codices write `ar.` or *argumenta*, **E has *artistas* expressly**. Transcribed as printed, variant recorded — the textual basis of Bonaventure's attack on the arts masters. **Do not normalise it in either direction.**
 > - **★ Register settled and proposed for freezing:** *collatio* → "collation" · ***medium* → "medium" throughout** (never "mean"/"middle"), **except ¶ 25's syllogistic *medium* → "middle term"** · *artistae* → "the artists" · *dotes* → "dowries" · the seven media keep their genitives so the list matches the Summarium.
 >
-> ## ▶ **`bon-hex-c2` IS UNDER WAY — span pp. 336–342, 33 numbered ¶¶, file ON DISK and UNTRACKED.** Written so far: frontmatter, the `### COLLATIO II.` heading, the rendered Summarium, the Latin through ¶ 3's opening, and **all eight of p. 336's apparatus entries**. **⬜ RESUME AT p. 337.** Plates for 336–342 are extracted and all seven gutters measured. ⚠ **The file is untracked on purpose** — an incomplete chunk is never committed; append, don't restart.
-> - **Span fixed:** Collatio II runs **336–342**, ending mid-leaf where `COLLATIO III.` opens on p. 342. The Summarium divides it **Pars I *de porta sapientiae* (¶¶ 2–6) · Pars II *de forma sapientiae* (¶¶ 7–33)**.
-> - **★★ THE TOOL'S DEFAULT WAS REJECTED ON THREE OF SEVEN LEAVES.** Adopted: 336 = **1341** (default 1316 on an **8 px** run) · 337 = **1178** (default 1155 on a **10 px** run, **off by 23 px**) · 338 = 1307 · 339 = 1215 · 340 = 1366 · 341 = 1220 · 342 = **1349** (default 1362 on a **3 px** run, the narrowest yet).
-> - **★★ p. 342 is the THIRD attestation that a collatio-opening leaf cannot be measured on the body window** — two full-width elements cross the gutter there. ⚠ **But p. 337 is the counter-case: an ORDINARY interior leaf whose default was still wrong by 23 px.** A weak run does not by itself mean a collatio opening — **profile every leaf.**
-> - **p. 336's register verified on the plate: 8 notes, anchors 5 L / 3 R, block 4 L / 4 R — underruns by one, and NO runover** (both block feet checked). ★ Its left column is short because the heading and Summarium push the body down — the opening shape, not a boundary.
->
-> ## ⬜ **(context) `bon-hex-c2` (Collatio II) opens on p. 336.** Extract its plates per collatio (never in bulk); its span ends at the next `COLLATIO III.` heading, to be fixed on the plate. The frozen conventions in repo CLAUDE.md § HEXAEMERON now have a worked example to follow in `vol5/bon-hex-c1.md`.
+> ## ✅✅ **`bon-hex-c2` (Collatio II) IS TIER 2 AND COMMITTED (2026-08-14)** — pp. 336–342, 34 numbered ¶¶, 61 apparatus entries, zero `[?]` flags. Its `## Notes` is the fuller record: page-break map, gutter table, the per-page block-vs-anchor table, both page-crossing runovers, the full marginalia list and the register additions. **Read that, not this summary.**
 >
 > ## (superseded) **RESUME AT p. 331's RIGHT COLUMN.** `vol5/bon-hex-c1.md` holds the frontmatter, the `### COLLATIO I.` heading with its anchor, the rendered `### Summarium`, and the Latin through ¶ 12's opening (*…Esse ex se est in ratione originantis; esse secundum* —), which is the foot of p. 331's left column. **Still to do:** pp. 331 R – 336 Latin, then the whole English, then the apparatus (~65 entries), then `## Notes`, then the suite. ⚠ **The file is UNTRACKED ON PURPOSE** — the Péguy pattern: it is built by many small appends, and an incomplete chunk is never committed. Nothing is lost if the session died; append, don't restart.
 >
