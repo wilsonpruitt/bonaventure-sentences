@@ -236,6 +236,7 @@ const WORKS = {
     divisionLabel: "Collationes",
     divisions: {
       1: "Collatio I: De qualitatibus in auditoribus divini verbi requisitis et de Christo omnium scientiarum medio",
+      2: "Collatio II: De plenitudine sapientiae, in qua sermo terminandus est, scilicet de sapientiae porta et forma",
       24: "Scholion",
     },
   },
