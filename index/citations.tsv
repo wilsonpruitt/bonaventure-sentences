@@ -19778,6 +19778,36 @@ bon-hex-c7	5	apparatus:p368-6	p368-6	scripture	apparatus-explicit	Apoc. 21, 12	A
 bon-hex-c7	5	apparatus:p368-6	p368-6	scripture	anaphor->apparatus-explicit	ibid.	Apoc 21:12	A	verse	yes	Apoc. 21, 12
 bon-hex-c7	5	apparatus:p368-7	p368-7	scripture	apparatus-explicit	Apoc. 4, 4	Apoc 4:4	A	verse		
 bon-hex-c7	5	apparatus:p368-7	p368-7	scripture	apparatus-explicit	Apoc. 4, 8	Apoc 4:8	A	verse		
+bon-hex-c8	5	latin_body	p370-7	scripture	body-ordinal	Isaiae sexto	Isai 6:1	B	verse		
+bon-hex-c8	5	apparatus:p369-1	p369-1	scripture	apparatus-explicit	Gen. 1, 8	Gen 1:8	A	verse		
+bon-hex-c8	5	apparatus:p369-3	p369-3	crossref	page	supra pag. 352, nota 3	bon-hex-c4		chunk		
+bon-hex-c8	5	apparatus:p369-4	p369-4	scripture	apparatus-explicit	Eccli. 43, 10	Eccli 43:10	A	verse		
+bon-hex-c8	5	apparatus:p369-5	p369-5	scripture	apparatus-explicit	Ioan. 14, 6	Ioan 14:6	A	verse		
+bon-hex-c8	5	apparatus:p369-5	p369-5	scripture	anaphor->apparatus-explicit	ibid.	Ioan 14:6	A	verse	yes	Ioan. 14, 6
+bon-hex-c8	5	apparatus:p369-7	p369-7	scripture	apparatus-explicit	Rom. 10, 10	Rom 10:10	A	verse		
+bon-hex-c8	5	apparatus:p369-8	p369-8	scripture	apparatus-explicit	Hebr. 11, 1	Hebr 11:1	A	verse		
+bon-hex-c8	5	apparatus:p369-8	p369-8	scripture	apparatus-explicit	Eccli. 43, 1	Eccli 43:1	A	verse		
+bon-hex-c8	5	apparatus:p369-11	p369-11	scripture	apparatus-explicit	Eph. 3, 18	Eph 3:18	A	verse		
+bon-hex-c8	5	apparatus:p370-2	p370-2	scripture	apparatus-explicit	Iob 11, 8	Iob 11:8	A	verse		
+bon-hex-c8	5	apparatus:p370-3	p370-3	scripture	apparatus-explicit	Psalm. 138, 6	Ps 138:6	A	verse		
+bon-hex-c8	5	apparatus:p370-4	p370-4	scripture	apparatus-explicit	Gen. 1, 6	Gen 1:6	A	verse		
+bon-hex-c8	5	apparatus:p370-5	p370-5	crossref	page	supra pag. 347, nota 7	bon-hex-c3		chunk		
+bon-hex-c8	5	apparatus:p370-5	p370-5	crossref	page	tom. III. pag. 773, nota 2	bon-sent-III-d35-a1-q1		chunk		
+bon-hex-c8	5	apparatus:p370-7	p370-7	scripture	apparatus-explicit	Ioan. 12, 39	Ioan 12:39	A	verse		
+bon-hex-c8	5	apparatus:p370-7	p370-7	scripture	apparatus-explicit	Isai. 6, 10	Isai 6:10	A	verse		
+bon-hex-c8	5	apparatus:p370-9	p370-9	scripture	apparatus-explicit	Isai. 6, 2	Isai 6:2	A	verse		
+bon-hex-c8	5	apparatus:p370-9	p370-9	scripture	apparatus-explicit	I. Ioan. 5, 7	1Ioan 5:7	A	verse		
+bon-hex-c8	5	apparatus:p370-11	p370-11	scripture	apparatus-explicit	Psalm. 8, 2	Ps 8:2	A	verse		
+bon-hex-c8	5	apparatus:p371-1	p371-1	scripture	apparatus-explicit	I. Ioan. 5, 8	1Ioan 5:8	A	verse		
+bon-hex-c8	5	apparatus:p371-1	p371-1	scripture	apparatus-explicit	Lev. 17, 11	Lev 17:11	A	verse		
+bon-hex-c8	5	apparatus:p371-1	p371-1	crossref	logical	III. Sent. d. 2. a. 3. q. 1.	bon-sent-III-d2-a3-q1		chunk		
+bon-hex-c8	5	apparatus:p371-2	p371-2	crossref	page	supra pag. 205, nota 7	bon-brev-prol-s3+bon-brev-prol-s4		page-multi		
+bon-hex-c8	5	apparatus:p371-3	p371-3	crossref	logical	I. Sent. d. 11. q. 1.	bon-sent-I-d11-a1-q1		chunk		
+bon-hex-c8	5	apparatus:p371-3	p371-3	crossref	logical	I. Sent. d. 2. q. 2.	bon-sent-I-d2-a1-q2		chunk		
+bon-hex-c8	5	apparatus:p371-4	p371-4	scripture	apparatus-explicit	Ioan. 5, 17	Ioan 5:17	A	verse		
+bon-hex-c8	5	apparatus:p371-4	p371-4	crossref	work	Breviloq. p. I. c. 6.	bon-brev-p1-c6		chunk		
+bon-hex-c8	5	apparatus:p371-5	p371-5	crossref	work	Breviloq. p. V. c. 7.	bon-brev-p5-c7		chunk		
+bon-hex-c8	5	apparatus:p371-6	p371-6	scripture	apparatus-explicit	Exod. 28, 6	Exod 28:6	A	verse		
 bon-itin-c1	5	apparatus:p296-6	p296-6	scripture	apparatus-explicit	Psalm. 83, 6	Ps 83:6	A	verse		
 bon-itin-c1	5	apparatus:p297-1	p297-1	scripture	apparatus-explicit	Ps. 85, 11	Ps 85:11	A	verse		
 bon-itin-c1	5	apparatus:p297-1	p297-1	crossref	work	Breviloq. p. V. c. 1.	bon-brev-p5-c1		chunk		

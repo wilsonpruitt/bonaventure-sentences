@@ -1754,6 +1754,10 @@ KNOWN_TOTALS = {
     366: 8,
     367: 11,
     368: 7,   # all seven are Collatio VII's; Collatio VIII opens below, unanchored
+    369: 11,
+    370: 11,
+    371: 6,
+    372: 3,   # n.1 Collatio VIII, nn.2-3 Collatio IX (pending until c9 lands)
 }
 
 
