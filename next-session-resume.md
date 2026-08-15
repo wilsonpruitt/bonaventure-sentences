@@ -1,6 +1,59 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — `bon-hex-c6` (Collatio VI), WHICH OPENS AT THE HEAD OF p. 360.
+> # ▶▶▶ START HERE — `bon-hex-c7` (Collatio VII), WHICH OPENS AT THE HEAD OF p. 365.
+>
+> **State (verified at `b8c1d26`; `origin/master` = `cc8aeb2`, so `master` is 8 ahead — push is
+> protected and needs Wilson's per-action OK).** **Collationes I–VI are Tier 2.** c6 = pp. 360–364,
+> **32 numbered ¶¶, 36 apparatus entries, zero `[?]` flags**; suite at that commit:
+> `check-vol5-apparatus.py` **96 chunks / 1,188 entries** · `check-vol5-census.py` **96/96**,
+> 103 runovers (91 gutter-crossing, **12 page-crossing**) · `polish-style-scan --volume 5` CLEAN ·
+> `build-content.mjs` **2029/2029, 8 books** · `build-citations.py` corpus QA **228 unchanged**,
+> c6 contributing **26 records, zero dangling, zero QA flags**.
+>
+> ## ⛔ FIRST: EXTRACT THE PLATES FOR c7.
+> `python3.11 tools/extract-pages.py --volume vol5 --pages 365-372 --dpi 450`, then `colcrop.py`.
+> p. 365 is already on disk. **Per collatio, never in bulk.**
+> ⚠ **The span end is unknown.** Fix it from the next real `COLLATIO VIII.` header on the band
+> (raw has it at **L63318**, with the running head at L63212 — so the far end is around p. 371),
+> never from a running head.
+>
+> ## What c7 inherits — verified, not assumed
+> - **`bon-hex-c6` FORWARDS NOTHING.** p. 364's n. 6 closes complete and `COLLATIO VII.` opens at
+>   the **head of p. 365** — the third leaf-edge boundary in this work.
+> - **p. 365 is a collatio-OPENING leaf**: display heading, a two-line subtitle and a Summarium
+>   running well down the leaf. **Expect the opening-leaf gutter failure; profile strictly below
+>   the Summarium.** In-place subtitle, read off the band: *De prima visione tractatio quarta,
+>   quae est de triplici defectu virtutum in philosophis, secundo, de fide sanante, rectificante,
+>   ordinante.* Register it in `WORKS.hexaemeron.divisions` as the chunk lands.
+> - ⚠ **Whether `COLLATIO VII.` carries an anchor is your first band question.** Six openings read
+>   so far and only `COLLATIO I.` has one.
+>
+> ## ★★★ What Collatio VI paid for — carry these
+> - **★★★ THE SUMMARIUM'S PARAGRAPH REFERENCES CAN BE SYSTEMATICALLY WRONG, NOT JUST INCOMPLETE.**
+>   c6's body has **32** numbered ¶¶ and the Summarium's last reference is **26**; from its entry
+>   16 onward every reference is **three short**, because the editors folded ¶¶ 15–18 into one
+>   entry and then counted entries instead of paragraphs. The full crosswalk is in c6's `## Notes`.
+>   **The free mechanical check is the BODY's run of numbers. Never take a paragraph count off the
+>   Summarium — the scouting file did exactly that and had to be withdrawn.**
+> - **★★ A FOOTER BLOCK CAN HOLD NO NUMBERED NOTE AT ALL.** p. 364's left block is nothing but
+>   p. 363 n. 8's unnumbered continuation; all six of its own notes print right.
+> - **★ A TARGET THAT DOES NOT EXIST SETTLES A DIGIT.** `II Sent. d. 1 p. I a. 1` (raw `a. 4`):
+>   that pars has three articles, and a.1 q.2 is the eternity-of-the-world question.
+> - **★ THE c1 *medium* FREEZE NOW HAS ALL THREE SENSES ON RECORD IN ONE CHUNK** — conveying
+>   medium (c5) · the medium between principle and end (c1) · the ethical mean (the c5 exception).
+>   **Reuse; do not widen.** ★ *caligo* → "gloom" in this work, since *tenebrae* holds "darkness".
+>
+> ## Cadence from here
+> Two gates remain for this work plus the work close; **the deploy rides with a gate, not with a
+> chunk.** Push and deploy are both protected and need Wilson's per-action OK.
+>
+> ## ⬜ Still owed, deploy-only
+> The About page's **"What Is Known to Be Wrong"** section — outward-facing, deliberately not
+> written unprompted. Park it for the next deploy.
+>
+> ---
+>
+> # (superseded) `bon-hex-c6` — DONE 2026-08-15 (`b8c1d26`)
 >
 > **State (verified at `0eec8cd`; `origin/master` = `cc8aeb2`, so `master` is 4 ahead — push is
 > protected and needs Wilson's per-action OK).** **Collationes I–V are Tier 2.** c5 = pp. 353–359,

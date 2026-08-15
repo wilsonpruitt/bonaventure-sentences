@@ -13,7 +13,9 @@ Banked and committed before the chunk is written. Plates pp. 360–365 extracted
 - Subtitle in place: *De prima visione tractatio tertia, quae est de prima virtutum causa
   exemplari, de virtutibus exemplaribus et de cardinalibus inde fluentibus.*
 - **`COLLATIO VI.` carries NO apparatus anchor** (checked at magnification). Still only I.
-- **26 numbered ¶¶**; the Summarium's last entry is *Quarto, de virtutibus exemplaribus, 26.*
+- **32 numbered ¶¶** — ⚠ *this line first read "26", taken from the Summarium's last entry
+  (*Quarto, de virtutibus exemplaribus, 26.*), and it was WRONG. See the crosswalk below: the
+  Summarium's references run three short. Withdrawn, not reconciled.*
 
 ## Gutters
 
