@@ -75,3 +75,66 @@ which is the quoted text, so the join is corroborated) · `II. Ethic. c. 7` … 
 (n. 4) · `n. 11` (n. 5, the raw's flattened `H`) · `pag. 174, nota 3` (n. 7 — raw `17i`) ·
 `IV. Ethic. c. 1` and `III. Ethic. c. 10-12` (n. 7) · `c. 35. n. 77` and `Luc. 9, 3` (n. 9) ·
 `III. Oracul. 29` (n. 10).
+
+### p. 355 — 12 notes; block 8 L / 4 R; anchors **6 L / 6 R** — the left block OVERRUNS by two
+n. 8 runs over the gutter (*…tertius I. Mach.* | *2, 7: Vae… videre contritionem…*). The left
+column ends mid-¶ 8 at *…quae est contra irascibilitates*, so anchors 7–12 are all right-column
+although nn. 7 and 8 print in the left block.
+★ **nn. 11 and 12 are set SIDE BY SIDE ON ONE LINE** at the foot of the right block — two short
+notes sharing a line, a footer layout not previously recorded in this volume. Read the block as
+two columns at that line or n. 12 is invisible.
+n. 12 (*Cfr. pag. 354, nota 5.*) independently corroborates p. 354's numbering.
+⚠ **Digit carried as read, flagged in the chunk's Notes:** n. 1's `tom IV. pag. 107, nota 5`
+(the `1`/`4` class; the raw agrees, but the raw is made from the same scan).
+
+### p. 356 — 11 notes; block 6 L / 5 R; anchors **4 L / 7 R** — left block OVERRUNS by two
+Two runovers on one leaf: **n. 6 crosses the gutter** (*…S. Iustin., Apologia II. pro* |
+*Christianis, c. 10.*) and **n. 11 crosses the PAGE** — see p. 357.
+
+### p. 357 — 8 notes; block 2 L / 6 R; anchors **6 L / 2 R** — the left block UNDERRUNS BY FOUR
+**★★ A PAGE-CROSSING RUNOVER, AND THE WIDEST BLOCK-vs-ANCHOR DIVERGENCE IN THE WORK SO FAR.**
+p. 357's left footer block **opens UNNUMBERED** with *Deum non honorant; et dialog. 11, in quo de
+veneratione parentum…* — the continuation of p. 356 n. 11 (Plato, *de Legibus*) — and then holds
+only nn. 1 and 2, while its column carries the anchors of nn. 1–6. The incoming runover is what
+crowds the block. **This is why the joint must be read from the next page's footer, not inferred.**
+
+### p. 358 — 7 notes; block 5 L / 2 R; anchors 4 L / 3 R — left block overruns by one
+n. 5 crosses the gutter (*…In seqq. refert Aristot. numerum motuum et exinde* |
+*Intelligentiarum secundum opinionem Eudoxi et Calippi…*).
+★ n. 2 (*Cfr. supra pag. 297, nota 9; pag. 300, nota 6. et pag. 301, nota 3.*) points into the
+**Itinerarium**, which this corpus has already translated — three live cross-references.
+
+### p. 359 — 7 notes; block 4 L / 3 R; anchors 4 L / 3 R — **they coincide**; no runover
+★ **n. 5 is the editors speaking about their own work:** *…Observandum est, iisdem confirmari
+nostram Itinerarii interpretationem. Alia multa in Itinerario breviter dicta in his collationibus
+diffusius explicantur.*
+★ **A RAW DIGIT CORRECTED AT THE BAND:** n. 2's Aristotle citation prints **`(c. 5.)`** where the
+raw gives `(c. 3.)` — the 3/5 class. Settled independently: *Physics* VIII text 33 and 35 fall in
+**c. 5**, the chapter of the argument the body is making (*quod movetur movebitur per aliquod
+fixum*).
+
+## Runovers — five, and the negative is recorded leaf by leaf
+**Four gutter-crossing** (354 n. 5 · 355 n. 8 · 356 n. 6 · 358 n. 5) and **ONE page-crossing**
+(356 n. 11 → 357). **pp. 354, 355, 356, 358 and 359 each open their left footer block NUMBERED ¹
+— checked, not assumed; p. 357 does not.** Nothing runs off p. 359: n. 7 closes complete, and
+`COLLATIO VI.` opens on the next leaf.
+
+## Anchors: the raw invents them as well as loses them
+**★★ THE RAW CARRIES A SPURIOUS ANCHOR GLYPH.** At p. 355 ¶ 6 the raw reads `Iste^ est fons`,
+and the plate shows **no superscript there at all** — the anchors on that leaf are
+*medium est²*, *Philosophum³*, *Giezi⁴*. The same happens at p. 354 ¶ 3 (`unde puer"appetit`;
+the plate has a stray mark, not a numeral). The frozen Vol V rule says anchor POSITIONS survive
+in the raw while the numerals do not; **that is only half true — a glyph in the raw is a place to
+LOOK, never an anchor.** Every anchor in this chunk was read off the plate.
+
+## Paragraph map (the free mechanical check)
+353 = ¶ 1 · 354 = ¶¶ 2–5 · 355 = ¶¶ 5–11 · 356 = ¶¶ 11–17 · 357 = ¶¶ 17–24 · 358 = ¶¶ 24–28 ·
+359 = ¶¶ 29–33. **1..33, no gaps**, and the Summarium's last entry is *Epilogus, 33.*
+
+## Page-foot joints — all six checked against the band
+353|354 *…ut veritas* | *rerum, ut veritas vocum* · 354|355 *…si vellet dare pauperi, et* |
+*nihil habet, quod det* · 355|356 *…Has autem Philosophus* | *manifeste ponit* · 356|357
+*…et est de dictamine naturae; et* | *in hoc consenserunt omnes veri philosophi* · 357|358
+*…Sed ad hoc* | *oportet, ut convertat se super potentias* · 358|359 *…Haec ergo sunt
+certissima.* | *29. Intelligentia autem fertur…* (a ¶ boundary). **No dropped line anywhere.**
+
