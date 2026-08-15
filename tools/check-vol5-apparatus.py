@@ -1738,7 +1738,13 @@ KNOWN_TOTALS = {
     350: 6,
     351: 7,
     352: 7,
-    353: 4,   # nn.1-3 Collatio IV, n.4 Collatio V (pending until c5 lands)
+    353: 4,   # nn.1-3 Collatio IV, n.4 Collatio V — both now claimed
+    354: 10,
+    355: 12,  # nn.11-12 print side by side on one line
+    356: 11,  # n.11 runs over onto p.357's left block, unnumbered
+    357: 8,
+    358: 7,
+    359: 7,   # Collatio V closes here; nothing forwarded
 }
 
 
