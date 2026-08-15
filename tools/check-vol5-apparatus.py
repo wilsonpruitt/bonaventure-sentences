@@ -1710,6 +1710,20 @@ KNOWN_TOTALS = {
     340: 9,
     341: 10,
     342: 7,
+
+    # ---- Collatio III (bon-hex-c3, pp. 342-348) ----
+    # Collatio III opens at the FOOT of p. 342 and carries NO anchor of its own,
+    # so p. 342's seven notes are all Collatio II's; it closes part-way down
+    # p. 348, where COLLATIO IV opens below it and likewise claims none of that
+    # leaf's seven notes. Registers read off the bands. TWO gutter-crossing
+    # runovers (p. 343 n. 5, p. 346 n. 7) and *** ZERO page-crossing -- checked
+    # leaf by leaf, every left block opening numbered, after c2 had two.
+    343: 8,
+    344: 6,
+    345: 11,
+    346: 12,
+    347: 12,
+    348: 7,
 }
 
 
