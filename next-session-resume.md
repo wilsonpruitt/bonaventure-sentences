@@ -17,9 +17,22 @@
 > ## ⛔ FIRST: EXTRACT THE PLATES. Pass 4 deleted every one of them.
 > `python3.11 tools/extract-pages.py --volume vol5 --pages 372-379 --dpi 450`, then `colcrop.py`.
 > **`raw/vision/vol5/` is empty and `/tmp/colcrop` is empty** — 242 MB reclaimed at the gate.
-> ⚠ **Check free disk first (`df -h /`).** It was down to **1.5 GB** after the last deploy and is
-> ~3 GB now; **the build+deploy cycle transiently costs ~5 GB**, so clear
-> `site/.next` and `site/.vercel/output` before the next one (both are already deleted now).
+> ⚠ **Check free disk first (`df -h /`)** — **the build+deploy cycle transiently costs ~5 GB**
+> (it took the machine to 1.5 GB free once, and one command died with `ENOSPC`). Clear
+> `site/.next` and `site/.vercel/output` before the next deploy; both are deleted now.
+>
+> ## 🔧 THREE TOOLS EXIST NOW THAT DID NOT LAST SESSION — use them, don't rewrite them
+> - **`tools/gutter-profile.py <page> [row_lo] [row_hi]`** — steps 2 and 3 of the frozen gutter
+>   method on one leaf **or one REGION of it**, which is the whole point on a shared leaf. It
+>   warns when the ink island is wide (the window is catching text) and says so outright when a
+>   region has **no gutter at all** (full-measure matter). On p. 372 it reproduces 1339 for c9's
+>   region with a clean 4 px island, and flags c8's region as untrustworthy — which is exactly
+>   how that leaf was settled.
+> - **`tools/footcrop.py <page> <split_x> [row_lo] [row_hi] [scale]`** — the footer register at
+>   high magnification, reporting the **effective** scale and warning below 1.5×. `split_x` is
+>   passed in from the BODY measurement on purpose: profiling footer rows returns nonsense,
+>   because the block is narrower than the column.
+> - **`tools/check-live-flags.py [vol…]`** — pass 1's real instrument (see below).
 > ⚠ Extract **per collatio, never in bulk**.
 >
 > ## What c9 inherits — verified at the gate, not merely at write time
