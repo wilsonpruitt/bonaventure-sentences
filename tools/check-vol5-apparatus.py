@@ -1745,6 +1745,11 @@ KNOWN_TOTALS = {
     357: 8,
     358: 7,
     359: 7,   # Collatio V closes here; nothing forwarded
+    360: 6,
+    361: 8,
+    362: 8,
+    363: 8,   # n.8 runs over onto p.364's left block, unnumbered
+    364: 6,   # the left block holds ONLY that runover; all six print right
 }
 
 

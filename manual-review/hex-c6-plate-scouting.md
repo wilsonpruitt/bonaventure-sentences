@@ -74,10 +74,15 @@ does not.** Nothing runs off p. 364: n. 6 (*Vox Graeca νοῦν*) closes comple
 - p. 364 n. 2 `Basileae 1580, pag. 13, n. 3. seqq.` and `54 libris` · n. 3 `VI. Aeneid. v. 664`
   · n. 5 `n. 25. 26.`
 
-## Paragraph map
-360 = ¶¶ 1–2 · 361 = ¶¶ 2–7 · 362 = ¶¶ 7–11 · 363 = ¶¶ 14–25 (14 opens on p. 362's right
-column) · 364 = ¶¶ 25–32. **To be re-derived against the body when the chunk is written; the
-free 1..N check is the gate.**
+## Paragraph map — VERIFIED against every printed number
+360 = ¶¶ 1–2 · 361 = ¶¶ 2–7 · 362 = ¶¶ 7–14 · 363 = ¶¶ 14–25 · 364 = ¶¶ 25–32.
+**The body runs 1..32 with no gaps.**
+
+## ★★★ The Summarium's references run three short from its entry 16 to the end
+**The body has 32 numbered paragraphs; the Summarium's last reference is 26.** Content matches
+item for item, numbers do not: the editors folded ¶¶ 15–18 into one entry keyed "15" and then
+went on counting entries rather than paragraphs. Full crosswalk in the chunk's `## Notes`.
+**Transcribed as printed; the free mechanical check is the BODY's run, never the Summarium's.**
 
 ## Page-foot joints — all four to be read against the band as the chunk is written
 360 | 361 *…Ex hoc ponunt, quod nihil, vel* | *nullum particulare cognoscat* · 361 | 362

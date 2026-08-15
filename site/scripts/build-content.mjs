@@ -240,6 +240,7 @@ const WORKS = {
       3: "Collatio III: De plenitudine intellectus, quatenus est clavis contemplationis per intellectum Verbi increati, incarnati et inspirati",
       4: "Collatio IV: De visione prima, quae est intelligentiae per naturam inditae, tractatio prima",
       5: "Collatio V: De prima visione tractatio secunda, quae est de tertio radio sive de veritate morum, et de sapientia contemplationis",
+      6: "Collatio VI: De prima visione tractatio tertia, quae est de prima virtutum causa exemplari, de virtutibus exemplaribus et de cardinalibus inde fluentibus",
       24: "Scholion",
     },
   },

@@ -19706,6 +19706,32 @@ bon-hex-c5	5	apparatus:p359-3	p359-3	crossref	page	tom. II. pag. 19, nota 1	bon-
 bon-hex-c5	5	apparatus:p359-4	p359-4	crossref	page	supra pag. 304, nota 3	bon-itin-c3		chunk		
 bon-hex-c5	5	apparatus:p359-6	p359-6	crossref	page	supra pag. 45, nota 6	tom5:p45		forward		
 bon-hex-c5	5	apparatus:p359-6	p359-6	crossref	work	Breviloq. p. I. c. 6.	bon-brev-p1-c6		chunk		
+bon-hex-c6	5	latin_body	p361-8	scripture	body-ordinal	Sapientiae septimo	Sap 7:25	B	verse		
+bon-hex-c6	5	apparatus:p360-1	p360-1	scripture	apparatus-explicit	Gen. 1, 4	Gen 1:4	A	verse		
+bon-hex-c6	5	apparatus:p360-3	p360-3	crossref	page	supra pag. 349, nota 7	bon-hex-c4		chunk		
+bon-hex-c6	5	apparatus:p360-6	p360-6	crossref	anaphor->page	ibid.	bon-hex-c4		chunk	yes	supra pag. 349, nota 7
+bon-hex-c6	5	apparatus:p361-1	p361-1	crossref	page	pag. 180	tom5:p180		forward		
+bon-hex-c6	5	apparatus:p361-3	p361-3	crossref	page	supra pag. 351, nota 4	bon-hex-c4		chunk		
+bon-hex-c6	5	apparatus:p361-3	p361-3	crossref	logical	II. Sent. d. 1. p. I. a. 1. q. 1.	bon-sent-II-d1-p1-a1-q1		chunk		
+bon-hex-c6	5	apparatus:p361-5	p361-5	crossref	page	tom. II. pag. 22, nota 1	bon-sent-II-d1-p1-a1-q2		chunk		
+bon-hex-c6	5	apparatus:p361-6	p361-6	scripture	apparatus-explicit	Apoc. 9, 1	Apoc 9:1	A	verse		
+bon-hex-c6	5	apparatus:p361-6	p361-6	scripture	apparatus-explicit	Exod. 10, 22	Exod 10:22	A	verse		
+bon-hex-c6	5	apparatus:p362-1	p362-1	crossref	page	supra pag. 301, nota 1	bon-itin-c2		chunk		
+bon-hex-c6	5	apparatus:p362-2	p362-2	scripture	apparatus-explicit	Sap. 7, 30	Sap 7:30	A	verse		
+bon-hex-c6	5	apparatus:p362-2	p362-2	crossref	page	supra pag. 310, nota 3	bon-itin-c5+bon-itin-c6		page-multi		
+bon-hex-c6	5	apparatus:p362-3	p362-3	scripture	apparatus-explicit	Sap. 8, 1	Sap 8:1	A	verse		
+bon-hex-c6	5	apparatus:p362-6	p362-6	authority	authority:Bernard.	III. Sent. d. 23. a. 1. q. 1.			excluded		
+bon-hex-c6	5	apparatus:p362-6	p362-6	authority	authority:Bernard.	ibid.			excluded		
+bon-hex-c6	5	apparatus:p362-6	p362-6	authority	anaphor->authority:Bernard.	loc. cit.			excluded	yes	ibid.
+bon-hex-c6	5	apparatus:p362-8	p362-8	authority	anaphor->authority:Bernard.	ibid.			excluded	yes	ibid.
+bon-hex-c6	5	apparatus:p362-8	p362-8	crossref	logical	III. Sent. d. 36	III:d36		distinctio		
+bon-hex-c6	5	apparatus:p363-1	p363-1	crossref	page	tom. III. pag. 802, nota 1	bon-sent-III-d36-a1-q5		chunk		
+bon-hex-c6	5	apparatus:p363-1	p363-1	scripture	apparatus-explicit	Num. 2, 3	Num 2:3	A	verse		
+bon-hex-c6	5	apparatus:p363-3	p363-3	scripture	anaphor->apparatus-explicit	ibid.	Num 2:3	A	verse	yes	Num. 2, 3
+bon-hex-c6	5	apparatus:p363-4	p363-4	crossref	page	supra pag. 221, nota 5	bon-brev-p2-c3+bon-brev-p2-c4		page-multi		
+bon-hex-c6	5	apparatus:p363-5	p363-5	scripture	apparatus-explicit	Cant. 8, 6	Cant 8:6	A	verse		
+bon-hex-c6	5	apparatus:p363-7	p363-7	crossref	logical	II. Sent. d. 17. a. 2. q. 3	bon-sent-II-d17-a2-q3		chunk		
+bon-hex-c6	5	apparatus:p364-2	p364-2	crossref	page	pag. 13	tom5:p13		forward		
 bon-itin-c1	5	apparatus:p296-6	p296-6	scripture	apparatus-explicit	Psalm. 83, 6	Ps 83:6	A	verse		
 bon-itin-c1	5	apparatus:p297-1	p297-1	scripture	apparatus-explicit	Ps. 85, 11	Ps 85:11	A	verse		
 bon-itin-c1	5	apparatus:p297-1	p297-1	crossref	work	Breviloq. p. V. c. 1.	bon-brev-p5-c1		chunk		
