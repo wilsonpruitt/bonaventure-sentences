@@ -899,6 +899,25 @@ scales with pages imaged. Only pass 2 is fixed-cost — see the decoupling rule 
    instead of 100. The Breviloquium's Pars I gate is this, and is correct *as a first
    gate* — it is not evidence for gating every pars.
 
+**★★ PASS 1'S INSTRUMENT IS `tools/check-live-flags.py`, NOT `grep` (earned at the Hexaemeron
+mid-work gate, 2026-08-15).** A bare `grep "\[?\]"` over a volume returns 100+ hits of which
+almost none are flags: nearly every chunk's `## Notes` *discusses* flags in prose, and every
+Tier-2 `transcription_status` says "zero [?] flags". **A flag is LIVE only if it stands in
+`## Latin`, `## English` or `## Apparatus`** — `## Notes` is never rendered and frontmatter is
+metadata. The tool strips both and reports what is left, so the count is derived rather than
+hand-carried. Corpus baseline at that gate: **vol1 150 · vol2 9 · vol3 2 · vol4 66 · vol5 2**
+occurrences (a flag mirrored in both languages counts twice). **Vols I and IV carry a real
+backlog; it is a scoped job, not something a gate in another volume fixes.**
+
+**★★ AN APPARATUS ENTRY IS NEVER TRANSCRIBED FROM A WHOLE-PAGE READ (same gate).** The one defect
+that gate found — `Dieta salutis` in the English against the plate's and the Latin's `Dictae
+salutis`, a silent normalisation of Quaracchi — traced to the **single** entry in 152 that had
+been read at ⅓-scale instead of off a 1.7–2.2× footer band. **A downscaled whole-page view is for
+STRUCTURE** (where a heading falls, whether a block opens numbered, whether a column runs short)
+**and for nothing else.** ★ The cheap sweep for that defect family: compare the multiset of Arabic
+digits in each entry's `**La.**` half against its `**En.**` half. Known false positive: an ordinal
+correctly spelled as a word in English (`(2. opinio)` → "the second opinion").
+
 **⚠ Pass 2 is DECOUPLED from the gates — run it every commit.** The style/formatting
 audit is a script, it is full-corpus, and its cost does not depend on batch size.
 Running it only at gates is precisely what let `tools/polish-style-scan.py` sit

@@ -256,7 +256,7 @@ are the same in bodies, yet they are distinguished according to reason; and the 
 
 [^p372-1]: **La.** Scil. quatuor ultimi articuli, quorum primus est de Spiritu S. *in se*, duo sequentes de tribus eius operationibus *in praesenti*, nempe de institutione Ecclesiae, de unione membrorum et remissione peccatorum; ultimus articulus, qui respicitur per verba inferius posita *praeter ultimum*, ostendit duas operationes Spiritus sancti *in futuro*, scil. remunerationem corporis (carnis resurrectionem) et remunerationem animae vel etiam utriusque (vitam aeternam). Cfr. Dictae salutis (inter opera S. Bonav.), tit. 5. c. 3.
 
-     **En.** Namely the four last articles, of which the first is of the Holy Spirit *in himself*, the two following of his three operations *in the present* — namely the institution of the Church, the union of the members and the remission of sins; the last article, which is had in view by the words set down below, *except the last*, shows two operations of the Holy Spirit *in the future*, namely the remuneration of the body (the resurrection of the flesh) and the remuneration of the soul, or of both together (life everlasting). Cf. *Dieta salutis* (among the works of St. Bonaventure), tit. 5, c. 3.
+     **En.** Namely the four last articles, of which the first is of the Holy Spirit *in himself*, the two following of his three operations *in the present* — namely the institution of the Church, the union of the members and the remission of sins; the last article, which is had in view by the words set down below, *except the last*, shows two operations of the Holy Spirit *in the future*, namely the remuneration of the body (the resurrection of the flesh) and the remuneration of the soul, or of both together (life everlasting). Cf. *Dictae salutis* (among the works of St. Bonaventure), tit. 5, c. 3.
 
 ---
 
@@ -358,6 +358,16 @@ secundum ascensum. · In his 12 fidei articuli. · Figura in V. T.
   as the Apostles' composition and the articles are counted off it.
 - *Patripassianus* → "Patripassian" · *cultor Dei* → "worshipper of God" · *docibiles* →
   "taught" (John 6:45, Douay).
+
+**⚠ ONE DEFECT FOUND AND FIXED AT THE MID-WORK GATE (2026-08-15) — and its cause is worth more
+than the fix.** p. 372 n. 1's English read *Dieta salutis* where the Latin reads, and the plate
+prints, **`Dictae salutis`**. The English had silently normalised Quaracchi to the work's usual
+modern title — exactly the emendation the corpus forbids. Corrected to *Dictae salutis*.
+★ **The cause: this was the ONE apparatus entry in collationes V–VIII transcribed from a
+whole-page (⅓-scale) read rather than a magnified footer band.** Every other entry across the
+four chunks came off a 1.7–2.2× band crop, and the gate's La/En digit sweep found nothing else.
+**A whole-page read is for structure — layout, where the heading falls, whether a block opens
+numbered. It is not good enough to transcribe an apparatus entry from.**
 
 **Census/ledger.** One line appended to `manual-review/vol5-runover-ledger.tsv` for `bon-hex-c8`:
 two gutter-crossing runovers, **zero page-crossing** (a checked negative).
