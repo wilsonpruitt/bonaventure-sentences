@@ -1,6 +1,63 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — `bon-hex-c7` (Collatio VII), WHICH OPENS AT THE HEAD OF p. 365.
+> # ▶▶▶ START HERE — `bon-hex-c8` (Collatio VIII), WHOSE HEADING STANDS PART-WAY DOWN p. 368.
+>
+> **State (verified at `d05ddd3`; `origin/master` = `cc8aeb2`, so `master` is 12 ahead — push is
+> protected and needs Wilson's per-action OK).** **Collationes I–VII are Tier 2, and the FIRST
+> VISION is complete** (the work's own map at p. 347 n. 5 assigns it to collationes 4–7). c7 =
+> pp. 365–368, **22 ¶¶, 31 apparatus entries, zero `[?]` flags**; suite at that commit:
+> `check-vol5-apparatus.py` **97 chunks / 1,219 entries** · `check-vol5-census.py` **97/97**,
+> 105 runovers (93 gutter-crossing, 12 page-crossing) · `polish-style-scan --volume 5` CLEAN ·
+> `build-content.mjs` **2030/2030, 8 books** · `build-citations.py` corpus QA **228 unchanged**,
+> c7 contributing **46 records, zero dangling, zero QA flags**.
+>
+> ## ⛔ FIRST: EXTRACT THE PLATES FOR c8.
+> `python3.11 tools/extract-pages.py --volume vol5 --pages 369-375 --dpi 450`, then `colcrop.py`.
+> pp. 368–369 are already on disk. **Per collatio, never in bulk.**
+> ⚠ Fix the far end from the next real `COLLATIO IX.` header on the band — the raw has it at
+> **L63853** (running head L63824), so the far end is near p. 373 — never from a running head.
+>
+> ## What c8 inherits — verified, not assumed
+> - **`bon-hex-c7` FORWARDS NOTHING.** All seven of p. 368's notes are Collatio VII's; **do not
+>   re-claim them.** `KNOWN_TOTALS` carries `368: 7` with a comment saying so.
+> - **c8's first band question is p. 368's LOWER HALF, not p. 369.** Its heading, subtitle and
+>   Summarium stand there, the Summarium running across the page break into p. 369, and **its body
+>   begins on p. 369.** The leaf's register belongs entirely to c7 because the Summarium carries
+>   no anchors — verify that yourself rather than adopting it.
+> - **⚠ The gutter of p. 368 is a TWO-REGION leaf: 1356 over Collatio VII's body (rows .08–.48).**
+>   If you need a measurement for anything c8 sets on that leaf, profile the lower region
+>   separately; the whole-page default is **1380 on a 5 px run** and is wrong.
+> - In-place subtitle, read off the band: *De secunda visione, scilicet intelligentiae per fidem
+>   sublevatae, tractatio prima, quae agit de altitudine fidei.* Register it in
+>   `WORKS.hexaemeron.divisions` as the chunk lands.
+> - ⚠ **Whether `COLLATIO VIII.` carries an anchor is your first band question.** Seven openings
+>   read and only `COLLATIO I.` has one.
+>
+> ## ★★ What Collationes VI–VII paid for — carry these
+> - **★★★ THE SUMMARIUM CAN BE SYSTEMATICALLY WRONG ABOUT ITS OWN PARAGRAPH NUMBERS.** c6's body
+>   has **32** ¶¶ against a last reference of **26** — every reference from its entry 16 runs three
+>   short; c7's agrees exactly (22 against 22). **Count off the body, every chunk, every time.**
+> - **★★ A COLLATIO-CLOSING LEAF DEFEATS THE GUTTER DEFAULT EXACTLY AS AN OPENING ONE DOES** —
+>   p. 353 and p. 368, from opposite sides. It is a class now.
+> - **★★ A FOOTER BLOCK CAN HOLD NO NUMBERED NOTE AT ALL** (p. 364), and a block can overrun its
+>   anchors by **three** (p. 365). Block extent says nothing about column.
+> - **★ THE RAW INVENTS ANCHOR GLYPHS** (c5, p. 355). Read every anchor off the plate.
+>
+> ## ⚠ CADENCE — a mid-work gate is due for a decision
+> The frozen plan gives the Hexaemeron **three gates plus the shakedown**. The shakedown fired at
+> the close of Collatio IV (p. 353). On the ~100-printed-page trigger the next gate would fall at
+> ~p. 453, which is the work close — i.e. only two. **Decide the mid-work gate deliberately** (a
+> natural seam is the close of the second vision, collationes 8–12, around p. 385) rather than
+> letting it lapse by arithmetic. **The deploy rides with a gate; both push and deploy are
+> protected.**
+>
+> ## ⬜ Still owed, deploy-only
+> The About page's **"What Is Known to Be Wrong"** section — outward-facing, deliberately not
+> written unprompted. Park it for the next deploy.
+>
+> ---
+>
+> # (superseded) `bon-hex-c7` — DONE 2026-08-15 (`d05ddd3`)
 >
 > **State (verified at `b8c1d26`; `origin/master` = `cc8aeb2`, so `master` is 8 ahead — push is
 > protected and needs Wilson's per-action OK).** **Collationes I–VI are Tier 2.** c6 = pp. 360–364,
