@@ -1237,6 +1237,15 @@ Run both, in this order.
   wrootpress note that "if the linked org isn't in `vercel teams ls`, no `--scope` will help" still
   holds for THAT case; this is the opposite one — **the org IS in the list and the flag is exactly
   the fix. Try `--scope` before concluding anything about the account.**
+- **★★ A `next/font/google` 404 STORM FAILS THE BUILD AND IS TRANSIENT — RETRY THE BUILD (new
+  2026-08-15).** `vercel build --prod` exited 1 with *Turbopack build failed with 21 errors:
+  Module not found: Can't resolve '@vercel/turbopack-next/internal/font/google/font'*, preceded by
+  seven `Received response with status 404` lines for EB Garamond woff2 files at
+  `fonts.gstatic.com`. **Nothing is wrong with the corpus or the config — Google served 404s for
+  the subset URLs Next had just resolved.** The bare retry produced **exit 0 and zero 404s**.
+  Distinguish it from the OOM risk (which would kill node, not resolve a font) and from the
+  post-transfer `fetch failed` below (which happens at DEPLOY, not build). **Retry once before
+  investigating anything.**
 - **★★ `Error: fetch failed` AFTER "Deploying outputs…" IS THE KNOWN, RECURRING FAILURE —
   RETRY THE DEPLOY, DO **NOT** REBUILD.** `.vercel/output` is intact and re-running
   `npx vercel deploy --prod --prebuilt --archive=tgz` alone succeeds. It is

@@ -2,8 +2,14 @@
 
 > # ▶▶▶ START HERE — `bon-hex-c9` (Collatio IX), WHICH OPENS PART-WAY DOWN p. 372.
 >
-> **State (verified at `e4372bf`; `origin/master` = `cc8aeb2`, so `master` is 15 ahead — push is
-> protected and needs Wilson's per-action OK).** **Collationes I–VIII are Tier 2**; the first
+> **State (verified at `6821f1f`; `origin/master` = `6821f1f`, 0 ahead, tree clean).**
+> **✅ PUSHED AND DEPLOYED 2026-08-15 — Wilson OK'd both in one word ("push deploy").**
+> prod = `dpl_Eji1or9wKsA6pRQLAY2Z5FFx17Ss`, READY on the first attempt; verified live BY BODY
+> (collationes V–VIII all 200 and serving their own text in both languages, `/browse/11`
+> listing Collationes I–VIII). ⚠ **That verification is DATED and expires — never restate
+> live state from this line.** Scale at this deploy: **534 MB / 29,552 files at 2,031 chunks.**
+> ⚠ **The deploy did NOT ride a gate** — Wilson overrode the frozen cadence deliberately; the
+> mid-work gate below is still owed. **Collationes I–VIII are Tier 2**; the first
 > vision is complete and the second is begun. c8 = pp. 368–372, **19 ¶¶, 29 apparatus entries,
 > zero `[?]` flags**; suite at that commit: `check-vol5-apparatus.py` **98 chunks / 1,248
 > entries** · `check-vol5-census.py` **98/98**, 107 runovers (95 gutter-crossing, 12
