@@ -19649,6 +19649,63 @@ bon-hex-c4	5	apparatus:p351-7	p351-7	crossref	logical	I. Sent. d. 2. q. 4.	bon-s
 bon-hex-c4	5	apparatus:p352-5	p352-5	crossref	page	supra pag. 333, nota 7	bon-hex-c1		chunk		
 bon-hex-c4	5	apparatus:p352-6	p352-6	crossref	page	tom. I. pag. 390, nota 6	bon-sent-I-d22-a1-q1+bon-sent-I-d22-divisio		page-multi		
 bon-hex-c4	5	apparatus:p353-3	p353-3	crossref	anaphor->page	ibid.	bon-sent-I-d22-a1-q1+bon-sent-I-d22-divisio		page-multi	yes	tom. I. pag. 390, nota 6
+bon-hex-c5	5	apparatus:p353-4	p353-4	scripture	apparatus-explicit	Gen. 1, 4	Gen 1:4	A	verse		
+bon-hex-c5	5	apparatus:p354-1	p354-1	crossref	page	supra pag. 19, nota 7	tom5:p19		forward		
+bon-hex-c5	5	apparatus:p354-3	p354-3	scripture	apparatus-explicit	Exod. 19, 3	Exod 19:3	A	verse		
+bon-hex-c5	5	apparatus:p354-3	p354-3	scripture	apparatus-explicit	Hebr. 12, 20	Hebr 12:20	A	verse		
+bon-hex-c5	5	apparatus:p354-3	p354-3	scripture	apparatus-explicit	Exod. 19, 13	Exod 19:13	A	verse		
+bon-hex-c5	5	apparatus:p354-4	p354-4	scripture	anaphor->apparatus-explicit	ibid.	Exod 19:13	A	verse	yes	Exod. 19, 13
+bon-hex-c5	5	apparatus:p354-7	p354-7	crossref	page	supra pag. 174, nota 3	tom5:p174		forward		
+bon-hex-c5	5	apparatus:p354-9	p354-9	scripture	apparatus-explicit	Luc. 9, 3	Luc 9:3	A	verse		
+bon-hex-c5	5	apparatus:p355-1	p355-1	crossref	page	tom. II. pag. 924, nota 5	bon-sent-II-d40-a1-q2+bon-sent-II-d40-a1-q3		page-multi		
+bon-hex-c5	5	apparatus:p355-1	p355-1	crossref	page	pag. 107, nota 5	tom5:p107		forward		
+bon-hex-c5	5	apparatus:p355-2	p355-2	crossref	logical	IV. Sent. d. 33. a. 2. q. 1.	bon-sent-IV-d33-a2-q1		chunk		
+bon-hex-c5	5	apparatus:p355-4	p355-4	scripture	apparatus-explicit	IV. Reg. 5, 20	4Reg 5:20	A	verse		
+bon-hex-c5	5	apparatus:p355-4	p355-4	scripture	apparatus-explicit	Act. 8, 17	Act 8:17	A	verse		
+bon-hex-c5	5	apparatus:p355-6	p355-6	scripture	apparatus-explicit	Eccle. 7, 9	Eccle 7:9	A	verse		
+bon-hex-c5	5	apparatus:p355-6	p355-6	scripture	apparatus-explicit	Prov. 16, 32	Prov 16:32	A	verse		
+bon-hex-c5	5	apparatus:p355-7	p355-7	scripture	apparatus-explicit	Ezech. 1, 10	Ezech 1:10	A	verse		
+bon-hex-c5	5	apparatus:p355-8	p355-8	scripture	apparatus-explicit	Ioan. 11, 33	Ioan 11:33	A	verse		
+bon-hex-c5	5	apparatus:p355-8	p355-8	scripture	apparatus-explicit	Ioan. 2, 15	Ioan 2:15	A	verse		
+bon-hex-c5	5	apparatus:p355-8	p355-8	scripture	apparatus-explicit	I. Mach. 2, 7	1Mach 2:7	A	verse		
+bon-hex-c5	5	apparatus:p355-8	p355-8	scripture	apparatus-explicit	Ioan. 1, 29	Ioan 1:29	A	verse		
+bon-hex-c5	5	apparatus:p355-8	p355-8	scripture	apparatus-explicit	Apoc. 5, 5	Apoc 5:5	A	verse		
+bon-hex-c5	5	apparatus:p355-9	p355-9	scripture	apparatus-explicit	Matth. 5, 43	Matth 5:43	A	verse		
+bon-hex-c5	5	apparatus:p355-9	p355-9	scripture	anaphor->apparatus-explicit	ibid.	Matth 5:43	A	verse	yes	Matth. 5, 43
+bon-hex-c5	5	apparatus:p355-10	p355-10	scripture	apparatus-explicit	Rom. 12, 21	Rom 12:21	A	verse		
+bon-hex-c5	5	apparatus:p355-10	p355-10	scripture	apparatus-explicit	I. Ioan. 5, 19	1Ioan 5:19	A	verse		
+bon-hex-c5	5	apparatus:p355-12	p355-12	crossref	page	pag. 354, nota 5	bon-hex-c5		chunk		
+bon-hex-c5	5	apparatus:p356-1	p356-1	crossref	logical	II. Sent. d. 24. p. I. a. 2. q. 1.	bon-sent-II-d24-p1-a2-q1		chunk		
+bon-hex-c5	5	apparatus:p356-2	p356-2	crossref	page	supra pag. 120, nota 11	tom5:p120		forward		
+bon-hex-c5	5	apparatus:p356-2	p356-2	crossref	anaphor->page	ibid.	tom5:p120		forward	yes	supra pag. 120, nota 11
+bon-hex-c5	5	apparatus:p356-4	p356-4	crossref	logical	III. Sent. d. 33. q. 3.	bon-sent-III-d33-a1-q3		chunk		
+bon-hex-c5	5	apparatus:p356-7	p356-7	crossref	anaphor->logical	ibid.	bon-sent-III-d33-a1-q3		chunk	yes	III. Sent. d. 33. q. 3.
+bon-hex-c5	5	apparatus:p356-8	p356-8	scripture	apparatus-explicit	Psalm. 81, 1	Ps 81:1	A	verse		
+bon-hex-c5	5	apparatus:p356-9	p356-9	scripture	apparatus-explicit	Hebr. 11, 4	Hebr 11:4	A	verse		
+bon-hex-c5	5	apparatus:p356-9	p356-9	scripture	apparatus-explicit	Gen. 4, 3	Gen 4:3	A	verse		
+bon-hex-c5	5	apparatus:p356-9	p356-9	scripture	apparatus-explicit	Gen. 8, 21	Gen 8:21	A	verse		
+bon-hex-c5	5	apparatus:p356-11	p356-11	scripture	apparatus-explicit	Ps. 49, 14	Ps 49:14	A	verse		
+bon-hex-c5	5	apparatus:p356-11	p356-11	scripture	anaphor->apparatus-explicit	ibid.	Ps 49:14	A	verse	yes	Ps. 49, 14
+bon-hex-c5	5	apparatus:p357-1	p357-1	scripture	apparatus-explicit	Tob. 4, 16	Tob 4:16	A	verse		
+bon-hex-c5	5	apparatus:p357-1	p357-1	scripture	apparatus-explicit	Matth. 7, 12	Matth 7:12	A	verse		
+bon-hex-c5	5	apparatus:p357-1	p357-1	scripture	apparatus-explicit	Luc. 6, 31	Luc 6:31	A	verse		
+bon-hex-c5	5	apparatus:p357-1	p357-1	scripture	anaphor->apparatus-explicit	ibid.	Luc 6:31	A	verse	yes	Luc. 6, 31
+bon-hex-c5	5	apparatus:p357-3	p357-3	scripture	apparatus-explicit	Matth. 2, 3	Matth 2:3	A	verse		
+bon-hex-c5	5	apparatus:p357-7	p357-7	scripture	apparatus-explicit	Rom. 1, 19	Rom 1:19	A	verse		
+bon-hex-c5	5	apparatus:p357-8	p357-8	scripture	apparatus-explicit	Gen. 1, 4	Gen 1:4	A	verse		
+bon-hex-c5	5	apparatus:p358-1	p358-1	crossref	page	supra pag. 230, nota 6	bon-brev-p2-c11+bon-brev-p2-c12		page-multi		
+bon-hex-c5	5	apparatus:p358-2	p358-2	crossref	page	supra pag. 297, nota 9	bon-itin-c1		chunk		
+bon-hex-c5	5	apparatus:p358-2	p358-2	crossref	page	pag. 300, nota 6	bon-itin-c2		chunk		
+bon-hex-c5	5	apparatus:p358-2	p358-2	crossref	page	pag. 301, nota 3	bon-itin-c2		chunk		
+bon-hex-c5	5	apparatus:p358-3	p358-3	crossref	page	tom. II. pag. 83, nota 1	bon-sent-II-d2-p2-a2-q4		chunk		
+bon-hex-c5	5	apparatus:p358-4	p358-4	crossref	page	supra pag. 254, nota 2	bon-brev-p5-c2+bon-brev-p5-c3		page-multi		
+bon-hex-c5	5	apparatus:p358-4	p358-4	crossref	work	Breviloq. p. II. c. 3.	bon-brev-p2-c3		chunk		
+bon-hex-c5	5	apparatus:p358-5	p358-5	crossref	logical	II. Sent. d. 1. p. I. a. 2. q. 2.	bon-sent-II-d1-p1-a2-q2		chunk		
+bon-hex-c5	5	apparatus:p359-2	p359-2	crossref	page	supra pag. 344, nota 5	bon-hex-c3		chunk		
+bon-hex-c5	5	apparatus:p359-3	p359-3	crossref	page	tom. II. pag. 19, nota 1	bon-sent-II-d1-p1-a1-q1+bon-sent-II-d1-p1-a1-q2		page-multi		
+bon-hex-c5	5	apparatus:p359-4	p359-4	crossref	page	supra pag. 304, nota 3	bon-itin-c3		chunk		
+bon-hex-c5	5	apparatus:p359-6	p359-6	crossref	page	supra pag. 45, nota 6	tom5:p45		forward		
+bon-hex-c5	5	apparatus:p359-6	p359-6	crossref	work	Breviloq. p. I. c. 6.	bon-brev-p1-c6		chunk		
 bon-itin-c1	5	apparatus:p296-6	p296-6	scripture	apparatus-explicit	Psalm. 83, 6	Ps 83:6	A	verse		
 bon-itin-c1	5	apparatus:p297-1	p297-1	scripture	apparatus-explicit	Ps. 85, 11	Ps 85:11	A	verse		
 bon-itin-c1	5	apparatus:p297-1	p297-1	crossref	work	Breviloq. p. V. c. 1.	bon-brev-p5-c1		chunk		
