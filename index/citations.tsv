@@ -19622,6 +19622,33 @@ bon-hex-c3	5	apparatus:p348-5	p348-5	scripture	apparatus-explicit	Ioan. 1, 18	Io
 bon-hex-c3	5	apparatus:p348-5	p348-5	scripture	apparatus-explicit	Apoc. 3, 7	Apoc 3:7	A	verse		
 bon-hex-c3	5	apparatus:p348-6	p348-6	crossref	page	supra pag. 226, nota 9	bon-brev-p2-c8+bon-brev-p2-c9		page-multi		
 bon-hex-c3	5	apparatus:p348-7	p348-7	crossref	logical	II. Sent. d. 10. a. 2. q. 2.	bon-sent-II-d10-a2-q2		chunk		
+bon-hex-c4	5	apparatus:p349-1	p349-1	scripture	apparatus-explicit	Gen. 1, 4	Gen 1:4	A	verse		
+bon-hex-c4	5	apparatus:p349-2	p349-2	scripture	apparatus-explicit	Gen. 1, 31	Gen 1:31	A	verse		
+bon-hex-c4	5	apparatus:p349-2	p349-2	scripture	anaphor->apparatus-explicit	ibid.	Gen 1:31	A	verse	yes	Gen. 1, 31
+bon-hex-c4	5	apparatus:p349-2	p349-2	crossref	page	tom. III. pag. 528, nota 5	bon-sent-III-d24-a3-q2		chunk		
+bon-hex-c4	5	apparatus:p349-3	p349-3	scripture	apparatus-explicit	Psalm. 4, 7	Ps 4:7	A	verse		
+bon-hex-c4	5	apparatus:p349-4	p349-4	scripture	apparatus-explicit	Rom. 1, 22	Rom 1:22	A	verse		
+bon-hex-c4	5	apparatus:p349-4	p349-4	scripture	apparatus-explicit	Exod. 10, 22	Exod 10:22	A	verse		
+bon-hex-c4	5	apparatus:p349-5	p349-5	crossref	page	supra pag. 47, nota 11	tom5:p47		forward		
+bon-hex-c4	5	apparatus:p349-6	p349-6	crossref	logical	IV. Sent. d. 14. p. II. a. 1. q. 1.	bon-sent-IV-d14-p2-a1-q1		chunk		
+bon-hex-c4	5	apparatus:p349-6	p349-6	crossref	page	tom. I. pag. 707, nota 5	bon-sent-I-d40-a2-q1		chunk		
+bon-hex-c4	5	apparatus:p349-8	p349-8	scripture	apparatus-explicit	Rom. 11, 36	Rom 11:36	A	verse		
+bon-hex-c4	5	apparatus:p349-8	p349-8	crossref	page	supra pag. 19, nota 7	tom5:p19		forward		
+bon-hex-c4	5	apparatus:p350-2	p350-2	crossref	page	tom. I. pag. 453, nota 6	bon-sent-I-d26-a1-q1		chunk		
+bon-hex-c4	5	apparatus:p350-2	p350-2	crossref	logical	II. Sent. d. 1. p. I. a. 1. q. 1.	bon-sent-II-d1-p1-a1-q1		chunk		
+bon-hex-c4	5	apparatus:p350-2	p350-2	crossref	page	supra pag. 304, nota 3	bon-itin-c3		chunk		
+bon-hex-c4	5	apparatus:p350-3	p350-3	crossref	page	supra pag. 321, nota 4	bon-red		chunk		
+bon-hex-c4	5	apparatus:p350-3	p350-3	crossref	logical	II. Sent. d. 18. a. 1. q. 3.	bon-sent-II-d18-a1-q3		chunk		
+bon-hex-c4	5	apparatus:p350-4	p350-4	crossref	page	supra pag. 10, nota 8	tom5:p10		forward		
+bon-hex-c4	5	apparatus:p350-4	p350-4	crossref	page	pag. 11, nota 1	tom5:p11		forward		
+bon-hex-c4	5	apparatus:p350-6	p350-6	crossref	logical	II. Sent. d. 3. p. I. a. 1. q. 1.	bon-sent-II-d3-p1-a1-q1		chunk		
+bon-hex-c4	5	apparatus:p350-6	p350-6	crossref	logical	II. Sent. d. 18. a. 1. q. 3	bon-sent-II-d18-a1-q3		chunk		
+bon-hex-c4	5	apparatus:p351-4	p351-4	crossref	logical	II. Sent. d. 1. p. I. a. 1. q. 1.	bon-sent-II-d1-p1-a1-q1		chunk		
+bon-hex-c4	5	apparatus:p351-4	p351-4	crossref	chain-continuation	d. 7. p. II. a. 2. q. 1.	bon-sent-II-d7-p2-a2-q1		chunk		
+bon-hex-c4	5	apparatus:p351-7	p351-7	crossref	logical	I. Sent. d. 2. q. 4.	bon-sent-I-d2-a1-q4		chunk		
+bon-hex-c4	5	apparatus:p352-5	p352-5	crossref	page	supra pag. 333, nota 7	bon-hex-c1		chunk		
+bon-hex-c4	5	apparatus:p352-6	p352-6	crossref	page	tom. I. pag. 390, nota 6	bon-sent-I-d22-a1-q1+bon-sent-I-d22-divisio		page-multi		
+bon-hex-c4	5	apparatus:p353-3	p353-3	crossref	anaphor->page	ibid.	bon-sent-I-d22-a1-q1+bon-sent-I-d22-divisio		page-multi	yes	tom. I. pag. 390, nota 6
 bon-itin-c1	5	apparatus:p296-6	p296-6	scripture	apparatus-explicit	Psalm. 83, 6	Ps 83:6	A	verse		
 bon-itin-c1	5	apparatus:p297-1	p297-1	scripture	apparatus-explicit	Ps. 85, 11	Ps 85:11	A	verse		
 bon-itin-c1	5	apparatus:p297-1	p297-1	crossref	work	Breviloq. p. V. c. 1.	bon-brev-p5-c1		chunk		

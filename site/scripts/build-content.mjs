@@ -238,6 +238,7 @@ const WORKS = {
       1: "Collatio I: De qualitatibus in auditoribus divini verbi requisitis et de Christo omnium scientiarum medio",
       2: "Collatio II: De plenitudine sapientiae, in qua sermo terminandus est, scilicet de sapientiae porta et forma",
       3: "Collatio III: De plenitudine intellectus, quatenus est clavis contemplationis per intellectum Verbi increati, incarnati et inspirati",
+      4: "Collatio IV: De visione prima, quae est intelligentiae per naturam inditae, tractatio prima",
       24: "Scholion",
     },
   },

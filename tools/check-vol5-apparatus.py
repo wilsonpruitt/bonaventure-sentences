@@ -1724,6 +1724,21 @@ KNOWN_TOTALS = {
     346: 12,
     347: 12,
     348: 7,
+
+    # ---- Collatio IV (bon-hex-c4, pp. 348-353) ----
+    # Opens at the foot of p. 348 (no anchor on its heading) and closes
+    # part-way down p. 353. *** p. 353's register SPLITS ACROSS THE WORK-UNIT
+    # BOUNDARY: four notes, of which nn. 1-3 answer to Collatio IV's anchors
+    # (n. 1 is the Augustine "fumo viso" note against IV n. 20's own text) and
+    # n. 4 is Collatio V's first, forwarded to bon-hex-c5. That leaf also
+    # carries Collatio V's full-width heading and Summarium AND its two-column
+    # body. Three gutter runovers (350 n. 3, 351 n. 4, 352 n. 6); ZERO
+    # page-crossing, checked leaf by leaf.
+    349: 9,
+    350: 6,
+    351: 7,
+    352: 7,
+    353: 4,   # nn.1-3 Collatio IV, n.4 Collatio V (pending until c5 lands)
 }
 
 
