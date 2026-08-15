@@ -2,8 +2,8 @@
 
 > # ▶▶▶ START HERE — `bon-hex-c9` (Collatio IX), WHICH OPENS PART-WAY DOWN p. 372.
 >
-> **State (verified at `dea87b6`; `origin/master` = `910fdb1`, so `master` is 1 ahead — the gate
-> commit is unpushed. Tree clean.)** **Collationes I–VIII are Tier 2**; the first vision is
+> **State (verified at `ceda132`; `origin/master` = `ceda132`, 0 ahead, tree clean — the gate is
+> PUSHED.)** **Collationes I–VIII are Tier 2**; the first vision is
 > complete, the second begun, and **the MID-WORK GATE IS CLOSED** —
 > `manual-review/vol5-hexaemeron-midwork-gate.md`, four passes, **one corpus defect found and
 > fixed**.
@@ -12,7 +12,7 @@
 > 1. **The gate's fix is NOT LIVE.** `bon-hex-c8` p. 372 n. 1's English said *Dieta salutis*
 >    against the plate's `Dictae salutis`; corrected after the deploy went out. **It ships with
 >    the next deploy** — do not let that pass unnoticed.
-> 2. **`master` is 1 commit ahead of origin** (the gate). Push is protected; ask.
+> 2. *(discharged — the gate was pushed 2026-08-15; `origin/master` = `ceda132`.)*
 >
 > ## ⛔ FIRST: EXTRACT THE PLATES. Pass 4 deleted every one of them.
 > `python3.11 tools/extract-pages.py --volume vol5 --pages 372-379 --dpi 450`, then `colcrop.py`.
