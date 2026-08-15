@@ -2,64 +2,71 @@
 
 > # ▶▶▶ START HERE — `bon-hex-c9` (Collatio IX), WHICH OPENS PART-WAY DOWN p. 372.
 >
-> **State (verified at `6821f1f`; `origin/master` = `6821f1f`, 0 ahead, tree clean).**
-> **✅ PUSHED AND DEPLOYED 2026-08-15 — Wilson OK'd both in one word ("push deploy").**
-> prod = `dpl_Eji1or9wKsA6pRQLAY2Z5FFx17Ss`, READY on the first attempt; verified live BY BODY
-> (collationes V–VIII all 200 and serving their own text in both languages, `/browse/11`
-> listing Collationes I–VIII). ⚠ **That verification is DATED and expires — never restate
-> live state from this line.** Scale at this deploy: **534 MB / 29,552 files at 2,031 chunks.**
-> ⚠ **The deploy did NOT ride a gate** — Wilson overrode the frozen cadence deliberately; the
-> mid-work gate below is still owed. **Collationes I–VIII are Tier 2**; the first
-> vision is complete and the second is begun. c8 = pp. 368–372, **19 ¶¶, 29 apparatus entries,
-> zero `[?]` flags**; suite at that commit: `check-vol5-apparatus.py` **98 chunks / 1,248
-> entries** · `check-vol5-census.py` **98/98**, 107 runovers (95 gutter-crossing, 12
-> page-crossing) · `polish-style-scan --volume 5` CLEAN · `build-content.mjs` **2031/2031, 8
-> books** · `build-citations.py` corpus QA **228 unchanged**, c8 contributing **30 records, zero
-> dangling, zero QA flags**.
+> **State (verified at `dea87b6`; `origin/master` = `910fdb1`, so `master` is 1 ahead — the gate
+> commit is unpushed. Tree clean.)** **Collationes I–VIII are Tier 2**; the first vision is
+> complete, the second begun, and **the MID-WORK GATE IS CLOSED** —
+> `manual-review/vol5-hexaemeron-midwork-gate.md`, four passes, **one corpus defect found and
+> fixed**.
 >
-> ## ⛔ FIRST: EXTRACT THE PLATES FOR c9.
-> `python3.11 tools/extract-pages.py --volume vol5 --pages 373-379 --dpi 450`, then `colcrop.py`.
-> pp. 372–374 are already on disk. **Per collatio, never in bulk.**
-> ⚠ Fix the far end from the next real `COLLATIO X.` header on the band, never from a running
-> head — p. 372's already reads `COLLATIO IX.` while Collatio VIII still fills its top.
+> ## ⚠ TWO THINGS ARE OWED BEFORE ANYTHING ELSE
+> 1. **The gate's fix is NOT LIVE.** `bon-hex-c8` p. 372 n. 1's English said *Dieta salutis*
+>    against the plate's `Dictae salutis`; corrected after the deploy went out. **It ships with
+>    the next deploy** — do not let that pass unnoticed.
+> 2. **`master` is 1 commit ahead of origin** (the gate). Push is protected; ask.
 >
-> ## What c9 inherits — verified, not assumed
-> - ⚠⚠ **p. 372's register is SHARED and nn. 2–3 ARE FORWARDED TO YOU.** n. 2 = *Gen. 1, 8.*
->   (anchored in c9 ¶ 1) and n. 3 = *Vers. 7. — Seq. locus est Ps. 32, 6; tertius Ps. 118, 89…*
->   **n. 1 is `bon-hex-c8`'s and must NOT be re-claimed**; `KNOWN_TOTALS` carries `372: 3` with a
->   comment, and the check reports it as a legitimate PENDING until c9 lands. **Verify their
->   position and column yourself.**
+> ## ⛔ FIRST: EXTRACT THE PLATES. Pass 4 deleted every one of them.
+> `python3.11 tools/extract-pages.py --volume vol5 --pages 372-379 --dpi 450`, then `colcrop.py`.
+> **`raw/vision/vol5/` is empty and `/tmp/colcrop` is empty** — 242 MB reclaimed at the gate.
+> ⚠ **Check free disk first (`df -h /`).** It was down to **1.5 GB** after the last deploy and is
+> ~3 GB now; **the build+deploy cycle transiently costs ~5 GB**, so clear
+> `site/.next` and `site/.vercel/output` before the next one (both are already deleted now).
+> ⚠ Extract **per collatio, never in bulk**.
+>
+> ## What c9 inherits — verified at the gate, not merely at write time
+> - ⚠⚠ **p. 372's register is SHARED and nn. 2–3 ARE FORWARDED TO YOU**, re-read at magnification
+>   during the gate's pass 3: **n. 2** = *Gen. 1, 8. — In seqq. respicitur collatio praecedens.*
+>   and **n. 3** = *Vers. 7. — Seq. locus est Ps. 32, 6; tertius Ps. 118, 89. seq. — Mox pro
+>   exprimitur A exprimuntur; tamen verbum refertur melius ad testimonium. Inferius pro Et isto
+>   Verbo firmantur et caelestes et subcaelestes D Verbum enim est medium expressivum affectus et
+>   intellectus interioris…* **n. 1 is `bon-hex-c8`'s and must NOT be re-claimed**;
+>   `KNOWN_TOTALS` carries `372: 3` and the check reports a legitimate PENDING until c9 lands.
+>   **Verify their position and column yourself — a hand-off never tells you where they land.**
 > - **Collatio IX opens part-way down p. 372 and its body already runs in two columns there.**
->   ★ **Its gutter on that leaf is 1339 — already measured over that very region** (band
->   1308–1370, clean 4 px rule island). ⚠ The whole-page default for p. 372 is **1311 on a 2 px
->   run** and is wrong by 28 px; do not let it stand.
-> - In-place subtitle, read off the band: *De secunda visione tractatio secunda, quae est de
->   triplici firmitate fidei.* **Its Summarium runs to 29** — count the body against it anyway.
+>   ★ **Its gutter on that leaf is 1339**, measured over that very region (band 1308–1370, clean
+>   4 px rule island). ⚠ The whole-page default is **1311 on a 2 px run** — wrong by 28 px.
+> - In-place subtitle, off the band: *De secunda visione tractatio secunda, quae est de triplici
+>   firmitate fidei.* Register it in `WORKS.hexaemeron.divisions` as the chunk lands.
+> - **Its Summarium runs to 29** — and c6's ran three short of its body, so **count the body.**
 > - ⚠ **Whether `COLLATIO IX.` carries an anchor is your first band question.** Eight openings
->   read and only `COLLATIO I.` has one.
+>   read; only `COLLATIO I.` has one. ⚠ Fix the far end from the next real `COLLATIO X.` header,
+>   never from a running head — p. 372's already reads `COLLATIO IX.` while VIII still fills it.
 >
-> ## ★★ What Collationes VI–VIII paid for — carry these
-> - **★★★ THE SUMMARIUM CAN BE SYSTEMATICALLY WRONG ABOUT ITS OWN PARAGRAPH NUMBERS** (c6: 32 ¶¶
->   against a last reference of 26, three short from its entry 16). c7, c8 agree exactly.
->   **Count off the body every time.**
-> - **★★ THREE LEAVES NOW DESTROY THE WHOLE-PAGE GUTTER DEFAULT — 353, 368, 372 — and the cause is
->   always full-width matter crossing the gutter.** A leaf that CLOSES a collatio does it as
->   surely as one that opens it; p. 372 does both at once. **Profile the region you transcribe.**
-> - **★★ BLOCK-vs-ANCHOR RUNS ARE NOT RULES:** c7 gave four consecutive left-block overruns
->   (one of them by THREE notes), c8 gave three consecutive coincidences. Read every leaf.
-> - **★★ A FOOTER BLOCK CAN HOLD NO NUMBERED NOTE AT ALL** (p. 364) and **the raw invents anchor
->   glyphs** (p. 355). Read every anchor off the plate.
+> ## ★★★ What the gate froze — these are now rules, in repo CLAUDE.md
+> - **AN APPARATUS ENTRY IS NEVER TRANSCRIBED FROM A WHOLE-PAGE READ.** The gate's one defect was
+>   the one entry of 152 read at ⅓-scale. A downscaled page is for STRUCTURE only.
+> - **PASS 1'S INSTRUMENT IS `tools/check-live-flags.py`, NOT `grep`** — a bare grep returns 100+
+>   prose mentions. Corpus baseline: vol1 **150** · vol2 9 · vol3 2 · vol4 **66** · vol5 2 live
+>   occurrences. **Vols I and IV carry a real, scoped, untouched backlog.**
+> - **A `next/font/google` 404 storm fails `vercel build` and is TRANSIENT — retry once** before
+>   investigating anything (it is not the OOM risk, and not the deploy-side `fetch failed`).
 >
-> ## ⚠ CADENCE — a mid-work gate is due for a decision
-> The frozen plan gives the Hexaemeron **three gates plus the shakedown**. The shakedown fired at
-> the close of Collatio IV (p. 353); on the ~100-page trigger the next would not fall until the
-> work close. **Decide the mid-work gate deliberately** — the close of the second vision
-> (collationes 8–12, ~p. 385) is the natural seam, and it is now close. **The deploy rides with a
-> gate; both push and deploy are protected.**
+> ## ★★ What collationes V–VIII paid for
+> - **THE SUMMARIUM CAN BE SYSTEMATICALLY WRONG ABOUT ITS OWN PARAGRAPH NUMBERS** (c6: 32 ¶¶
+>   against a last reference of 26). c7 and c8 agree exactly. Count off the body every time.
+> - **THREE LEAVES DESTROY THE WHOLE-PAGE GUTTER DEFAULT — 353, 368, 372.** A closing leaf does it
+>   as surely as an opening one; p. 372 does both at once. Profile the region you transcribe.
+> - **BLOCK-vs-ANCHOR RUNS ARE NOT RULES:** c7 gave four consecutive overruns (one by THREE
+>   notes), c8 three consecutive coincidences. **A FOOTER BLOCK CAN HOLD NO NUMBERED NOTE AT ALL**
+>   (p. 364). **THE RAW INVENTS ANCHOR GLYPHS** (p. 355). Read every anchor off the plate.
+>
+> ## Cadence from here
+> **One gate remains: the work close**, at the Scholion (~p. 454). The deploy rides with it —
+> though Wilson overrode that once, deliberately, on 2026-08-15. Push and deploy are both
+> protected and need his per-action OK.
 >
 > ## ⬜ Still owed, deploy-only
 > The About page's **"What Is Known to Be Wrong"** section — outward-facing, deliberately not
-> written unprompted. Park it for the next deploy.
+> written unprompted; his call to frame. Park it with the `Dictae salutis` fix for the next deploy.
 >
 > ---
 >
