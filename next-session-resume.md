@@ -1,6 +1,63 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — `bon-hex-c5` (Collatio V), WHICH OPENS ON p. 353.
+> # ▶▶▶ START HERE — `bon-hex-c6` (Collatio VI), WHICH OPENS AT THE HEAD OF p. 360.
+>
+> **State (verified at `0eec8cd`; `origin/master` = `cc8aeb2`, so `master` is 4 ahead — push is
+> protected and needs Wilson's per-action OK).** **Collationes I–V are Tier 2.** c5 = pp. 353–359,
+> 33 numbered ¶¶, **56 apparatus entries, zero `[?]` flags**; suite at that commit:
+> `check-vol5-apparatus.py` **95 chunks / 1,152 entries** · `check-vol5-census.py` **95/95**,
+> 99 runovers (88 gutter-crossing, **11 page-crossing**) · `polish-style-scan --volume 5` CLEAN ·
+> `build-content.mjs` **2028/2028, 8 books** · `build-citations.py` corpus QA **228 unchanged**,
+> c5 contributing **57 records, zero dangling, zero QA flags**.
+>
+> ## ⛔ FIRST: EXTRACT THE PLATES FOR c6.
+> `python3.11 tools/extract-pages.py --volume vol5 --pages 360-366 --dpi 450`, then `colcrop.py`.
+> pp. 353–360 are on disk from the c5 session; **extract per collatio, never in bulk**.
+> ⚠ **The span end is a guess until you fix it on the band** — Collatio VI's own length is
+> unknown; find the next real `COLLATIO VII.` header, never a running head.
+>
+> ## What c6 inherits — verified, not assumed
+> - **`bon-hex-c5` FORWARDS NOTHING.** p. 359's seven notes are all c5's, its n. 7 closes
+>   complete, and `COLLATIO VI.` opens at the **head of p. 360** — a leaf edge, the second such
+>   boundary in this work after 335 | 336.
+> - **p. 360 is a collatio-OPENING leaf: full-width heading, a two-line subtitle and a long
+>   Summarium cross the gutter.** Expect the opening-leaf gutter failure (p. 336 gave an 8 px
+>   run) and **profile strictly below the Summarium**, or take the gutter from a neighbour.
+> - In-place subtitle, read off the band: *De prima visione tractatio tertia, quae est de prima
+>   virtutum causa exemplari, de virtutibus exemplaribus et de cardinalibus inde fluentibus.*
+>   Register it in `WORKS.hexaemeron.divisions` **as the chunk lands**, from the in-place heading.
+> - ⚠ **Whether `COLLATIO VI.` carries an anchor is your first band question.** I, and only I,
+>   has carried one so far — II, III, IV and **V** do not.
+>
+> ## ★★ What Collatio V paid for — carry these
+> - **★★ THE RAW INVENTS ANCHORS AS WELL AS LOSING NUMERALS.** The frozen rule says positions
+>   survive in the raw and numerals do not; **half of that is false.** p. 355 ¶ 6's raw reads
+>   `Iste^ est fons` and the plate has **no superscript there at all**. **A glyph in the raw is a
+>   place to look, never an anchor** — read every anchor off the plate.
+> - **★★ A STACKED REGION MAY HAVE NO GUTTER AT ALL.** p. 353 stacks four regions in three
+>   measures, and a profile over the middle of the leaf returns no low-ink run anywhere between
+>   x 1050 and 1350. The p. 313 region-not-page rule, one step further.
+> - **★★ THE BLOCK/ANCHOR DIVERGENCE RECORD: p. 357's left block UNDERRUNS BY FOUR**, because
+>   p. 356 n. 11's page-crossing runover fills it. All five relations appeared in seven leaves.
+> - **★ TWO SHORT NOTES CAN SHARE ONE FOOTER LINE** (p. 355 nn. 11–12, side by side). Read that
+>   line as two columns or the second note is invisible.
+> - **★ GO TO THE TARGET, AND THE TARGET CAN BE THIS CORPUS.** p. 358 n. 4's `pag. 254` (raw
+>   `251`) was settled by `bon-brev-p5-c2`, which owns p. 254 and prints the very axiom cited.
+> - **★ ONE DELIBERATE EXCEPTION TO THE c1 *medium* FREEZE IS ON RECORD** in c5's `## Notes`:
+>   *medietas* → "mean" and ethical *medium* → "the mean" in Part I, while ¶ 33's *medium
+>   delativum* keeps "medium". **Reuse the exception; do not widen it.**
+>
+> ## Cadence from here
+> Two gates remain for this work (~pp. 354–454) plus the work close; **the deploy rides with a
+> gate, not with a chunk.** Push and deploy are both protected.
+>
+> ## ⬜ Still owed, deploy-only
+> The About page's **"What Is Known to Be Wrong"** section — outward-facing, deliberately not
+> written unprompted; Wilson's call to frame. Park it for the next deploy.
+>
+> ---
+>
+> # (superseded) `bon-hex-c5` — DONE 2026-08-15 (`0eec8cd`)
 >
 > **State (verified at `cc8aeb2`; `origin/master` = `cc8aeb2`, 0 ahead, tree clean):**
 > **Collationes I–IV are Tier 2, GATED, PUSHED AND DEPLOYED.** pp. 329–353, 130 numbered ¶¶,
