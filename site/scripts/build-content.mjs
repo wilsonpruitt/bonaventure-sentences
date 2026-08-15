@@ -241,6 +241,7 @@ const WORKS = {
       4: "Collatio IV: De visione prima, quae est intelligentiae per naturam inditae, tractatio prima",
       5: "Collatio V: De prima visione tractatio secunda, quae est de tertio radio sive de veritate morum, et de sapientia contemplationis",
       6: "Collatio VI: De prima visione tractatio tertia, quae est de prima virtutum causa exemplari, de virtutibus exemplaribus et de cardinalibus inde fluentibus",
+      7: "Collatio VII: De prima visione tractatio quarta, quae est de triplici defectu virtutum in philosophis, secundo, de fide sanante, rectificante, ordinante",
       24: "Scholion",
     },
   },

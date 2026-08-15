@@ -1750,6 +1750,10 @@ KNOWN_TOTALS = {
     362: 8,
     363: 8,   # n.8 runs over onto p.364's left block, unnumbered
     364: 6,   # the left block holds ONLY that runover; all six print right
+    365: 5,
+    366: 8,
+    367: 11,
+    368: 7,   # all seven are Collatio VII's; Collatio VIII opens below, unanchored
 }
 
 
