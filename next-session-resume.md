@@ -1,66 +1,65 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — `bon-hex-c3` (Collatio III), WHICH OPENS ON p. 342.
+> # ▶▶▶ START HERE — `bon-hex-c4` (Collatio IV), WHICH OPENS ON p. 348.
 >
-> **State (verified at the c2 commit; `master` 2 ahead of `origin/master`, tree clean):**
-> `vol5/bon-hex-c2.md` is **Tier 2 and committed** — pp. 336–342, **34 numbered ¶¶**,
-> **61 apparatus entries, zero `[?]` flags**. Two chunks of the Hexaemeron are done.
+> **State (verified at the c3 commit; `master` ahead of `origin/master`, tree clean):**
+> `vol5/bon-hex-c3.md` is **Tier 2 and committed** — pp. 342–348, 32 numbered ¶¶,
+> **56 apparatus entries, zero `[?]` flags**. Three collationes done; twenty remain.
 >
-> **What c3 inherits — verified, not assumed:**
-> - **Collatio III opens BELOW Collatio II in p. 342**, with its own display heading and
->   Summarium; Collatio II closes part-way down that leaf at *…isti sunt excessus mentales.*
-> - **p. 342's register is CLOSED and nothing is forwarded** — all seven of its notes answer
->   to Collatio II anchors. ⚠ **Whether the `COLLATIO III.` heading carries an anchor of its
->   own (as `COLLATIO I.` did) is c3's first band question**, to be settled on p. 342's band,
->   never inferred from this line.
-> - ⚠ **p. 342's gutter (adopted 1349) was measured on a 3 px run** — the narrowest in the
->   volume. It is a collatio-opening leaf, the third attestation of that failure class.
->   **Re-profile it; do not inherit the number.** Plates 336–342 are extracted; the rest are not.
-> - **Fix every span from the next real `COLLATIO N.` header on the band.** p. 342 proved the
->   running head runs a collatio AHEAD: it reads `IN HEXAËMERON COLLATIO III.` while Collatio II
->   still fills the leaf.
+> **What c4 inherits — verified, not assumed:**
+> - **Collatio IV opens BELOW Collatio III on p. 348**, with its own display heading and
+>   Summarium. **p. 348's register is CLOSED — all seven of its notes are Collatio III's —
+>   and nothing is forwarded.** ⚠ **Whether `COLLATIO IV.` carries an anchor of its own is
+>   c4's first band question: `COLLATIO I.` did, `COLLATIO III.` did NOT.** Settle it on the
+>   band; never by analogy.
+> - ⚠ **p. 348's gutter (1387) was taken from rows 10–50 %, NOT the default window** — see
+>   below. Re-profile it; do not inherit the number. Plates 342–348 exist; the rest do not.
+> - **Fix every span from the next real `COLLATIO N.` header on the band.** p. 348's running
+>   head already reads `COLLATIO IV.` while Collatio III still fills the leaf — third
+>   attestation in this work.
 >
-> **What c2 paid for, and c3 should expect:**
-> - **★★ TWO PAGE-CROSSING RUNOVERS IN ONE CHUNK — the 340|341 and 341|342 joints, the 9th and
->   10th in all of Vol V.** Both receiving left blocks open **unnumbered**; neither is visible
->   from the sending page. **Read the next page's opening footer block before believing any
->   register is closed.** This work's footers are the longest in the volume.
-> - **★★ THE BLOCK SPLIT DIVERGED FROM THE ANCHOR SPLIT BY THREE NOTES on p. 341** (block
->   2 L / 8 R against anchors 5 L / 5 R) — the widest divergence yet. Read anchors, only anchors.
-> - **★ THE SUMMARIUM CAN UNDER-INDEX THE COLLATIO.** Collatio II's synopsis stops at ¶ 33 and
->   the collatio prints **34** numbered paragraphs. Transcribed as printed, not reconciled —
->   **count the paragraphs off the plate, never off the Summarium.**
-> - **★ TRANSCRIBE AS PRINTED, EVEN WHEN THE EMENDATION IS OBVIOUS:** p. 338 prints
->   «nisi ad **exterius-rationem**», hyphenated. *exteriorem rationem* was written first and
->   withdrawn at the band.
-> - **★ The tool's gutter default was REJECTED on three of seven leaves** (336, 337, 342), and
->   **p. 337 is the counter-case that matters — an ORDINARY interior leaf whose default was
->   wrong by 23 px on a 10 px run.** A weak run does not by itself mean a collatio opening.
->   Adopted: 336 = 1341 · 337 = 1178 · 338 = 1307 · 339 = 1215 · 340 = 1366 · 341 = 1220 ·
->   342 = 1349.
-> - **★ Register additions frozen in the chunk's `## Notes`:** the four faces keep their
->   cognates (uniform · multiform · omniform · **nulliform**); *suspendia divinorum excessuum*
->   → "the suspensions of the divine transports" (*excessus* holds to "transport");
->   *disciplina* → "discipline" throughout; *modus, species et ordo* → "measure, beauty and
->   order", per the frozen `de-reductione` register.
+> **What c3 paid for:**
+> - **★★ A COLLATIO-CLOSING LEAF FAILS THE GUTTER WINDOW FOR THE SAME REASON AN OPENING ONE
+>   DOES** — the NEXT collatio's display heading and Summarium cross the gutter at its foot,
+>   inside the default 45–92 % band. p. 348's sound reading (a clean 60 px band → **1387**)
+>   came from rows 10–50 %. **In this work every leaf that closes a collatio also opens the
+>   next one, so expect it roughly every five leaves.**
+> - **★★ A BLEACHED PAGE-NUMBER WAS SETTLED FROM THE TARGET, NOT THE GLYPHS.** p. 343 n. 5's
+>   `tom. I. pag. 168, nota 4` first read as `107`; that was **disproved by extracting Vol I's
+>   own plate** (p. 107 n. 4 is a bare `Dist. IV. c. 1.`), and 168 confirmed three ways —
+>   `bon-sent-I-d8-p2-a1-q2` owns it, its n. 4 answers to «Ab uno non procedit nisi unum», and
+>   it cites the same `II. de Generat. et corrupt. text. 56` this note goes on to quote.
+>   **When a digit is unreadable, go to the target; the corpus is the disambiguator.**
+> - **★★ THE SUMMARIUM DISAGREED WITH THE BODY FOR THE SECOND COLLATIO RUNNING** — it gives the
+>   hierarch **five** properties where the body and the marginal gloss give **six** (c2's was
+>   ¶ 34, printed but unsummarised). **Read the synopsis as a finding aid, never as a count.**
+> - **★ p. 347 n. 5 is Quaracchi's map of the whole work** — visions 1–4 are treated in
+>   collationes 4-7, 8-12, 13-19, 20-23, and **the fifth and sixth are never treated**. Useful
+>   for every remaining chunk; it also confirms the collatio, not the *visio*, as the division.
+> - ⚠ **Transcribed as printed against the obvious emendation, three times:** *potu-sapientiae*
+>   (hyphenated, like c2's *exterius-rationem*), *in olfacto*, and ¶ 17's *ut esset **totus**
+>   deiformis* — the last caught only at the band, and it changes the sense.
+> - **Zero page-crossing runovers, checked leaf by leaf** (after c2 had two). Two gutter ones.
 >
-> **The verification suite (run all five, every commit).** At the c2 commit they gave:
-> `check-vol5-apparatus.py` **92 chunks / 1008 entries**, seven new `KNOWN_TOTALS` pages fed
-> from the bands (336:8 · 337:9 · 338:9 · 339:9 · 340:9 · 341:10 · 342:7) · `check-vol5-census.py`
-> rosters agree **92/92**, **89 runovers (79 gutter-crossing, 10 page-crossing)** ·
-> `polish-style-scan --volume 5` **CLEAN** (92 files) · `build-content.mjs` **2025/2025, 8 books** ·
-> `build-citations.py`: this chunk contributed **98 records with ZERO QA flags of its own**
+> **The verification suite (run all five, every commit).** At the c3 commit:
+> `check-vol5-apparatus.py` **93 chunks / 1064 entries**, six new `KNOWN_TOTALS` pages fed from
+> the bands (343:8 · 344:6 · 345:11 · 346:12 · 347:12 · 348:7) · `check-vol5-census.py` rosters
+> agree **93/93**, 91 runovers (81 gutter-crossing, 10 page-crossing) · `polish-style-scan
+> --volume 5` **CLEAN** (93 files) · `build-content.mjs` **2026/2026, 8 books** ·
+> `build-citations.py`: this chunk contributed **93 records, ZERO QA flags of its own**
 > (corpus total 228, unchanged).
 >
-> **Then:** c4, and **the shakedown gate fires after roughly Collatio IV** (~15–25 printed pp. in)
-> — the first of three gates for this work. The deploy rides with a gate, not with a chunk.
-> Push and deploy are both protected and need Wilson's per-action OK.
+> ⚠ **Register the division title as each chunk lands** — Collatio II's was missed and added
+> in a follow-up commit. Take it from the IN-PLACE printed subtitle, never the volume index.
+>
+> **Then:** **the shakedown gate fires at the close of Collatio IV** — the first of three gates
+> for this work, and the deploy rides with it, not with a chunk. Push and deploy are both
+> protected and need Wilson's per-action OK.
 >
 > ⬜ **Still parked, deploy-only:** the landing copy in `site/src/app/page.tsx` is stale twice
 > (the tome gloss omits *De reductione* and names the un-begun Hexaemeron; the intro still says
 > the Breviloquium "is being published part by part" and the Itinerarium "will follow"), and the
-> About page still owes its **"What Is Known to Be Wrong"** section. Ship both at the next
-> deploy boundary.
+> About page still owes its **"What Is Known to Be Wrong"** section.
 >
 > ---
 >
