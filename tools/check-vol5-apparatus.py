@@ -1691,6 +1691,25 @@ KNOWN_TOTALS = {
     333: 9,
     334: 9,
     335: 9,   # Collatio I ends part-way down the right column; COLLATIO II opens p. 336
+
+    # ---- Collatio II (bon-hex-c2, pp. 336-342) ----
+    # Every register read off the 450 dpi bands. TWO page-crossing runovers,
+    # both found only because the joints were read: *** p. 340 n. 9 continues
+    # UNNUMBERED at the head of p. 341's left block ("sub nomine Dionysii
+    # vulgati sunt..."), and *** p. 341 n. 10 continues UNNUMBERED at the head
+    # of p. 342's left block ("de Trin. c. 1. n. 1. seqq. ..."). Both are
+    # rendered joined in the note they belong to and are NOT counted again on
+    # the receiving page. p. 341's block split is 2 L / 8 R against a 5 / 5
+    # anchor split -- a THREE-note underrun, the widest divergence in this work
+    # so far. Collatio II ends part-way down p. 342; COLLATIO III opens below it
+    # in the same leaf and claims none of p. 342's seven notes.
+    336: 8,
+    337: 9,
+    338: 9,
+    339: 9,
+    340: 9,
+    341: 10,
+    342: 7,
 }
 
 
