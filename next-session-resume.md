@@ -1,65 +1,58 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — `bon-hex-c4` (Collatio IV), WHICH OPENS ON p. 348.
+> # ▶▶▶ START HERE — THE SHAKEDOWN GATE IS CLOSED. THE FRONT IS **THE DEPLOY**, THEN `bon-hex-c5`.
 >
-> **State (verified at the c3 commit; `master` ahead of `origin/master`, tree clean):**
-> `vol5/bon-hex-c3.md` is **Tier 2 and committed** — pp. 342–348, 32 numbered ¶¶,
-> **56 apparatus entries, zero `[?]` flags**. Three collationes done; twenty remain.
+> **State (verified at the gate commit; `master` ahead of `origin/master`, tree clean):**
+> **Collationes I–IV are Tier 2 and committed** — pp. 329–353, 130 numbered paragraphs,
+> **178 apparatus entries, zero `[?]` flags in all four.** ✅✅ **THE SHAKEDOWN GATE IS CLOSED
+> (four passes, ZERO corpus defects; log `manual-review/vol5-hexaemeron-shakedown-gate.md`).**
 >
-> **What c4 inherits — verified, not assumed:**
-> - **Collatio IV opens BELOW Collatio III on p. 348**, with its own display heading and
->   Summarium. **p. 348's register is CLOSED — all seven of its notes are Collatio III's —
->   and nothing is forwarded.** ⚠ **Whether `COLLATIO IV.` carries an anchor of its own is
->   c4's first band question: `COLLATIO I.` did, `COLLATIO III.` did NOT.** Settle it on the
->   band; never by analogy.
-> - ⚠ **p. 348's gutter (1387) was taken from rows 10–50 %, NOT the default window** — see
->   below. Re-profile it; do not inherit the number. Plates 342–348 exist; the rest do not.
-> - **Fix every span from the next real `COLLATIO N.` header on the band.** p. 348's running
->   head already reads `COLLATIO IV.` while Collatio III still fills the leaf — third
->   attestation in this work.
+> ## ⛔ THE DEPLOY IS THE FRONT AND IT IS PROTECTED — it rides with this gate, not with a chunk.
+> Four finished collationes are unpublished. Ship with it the two deploy-only items that have been
+> parked since *de reductione*: the landing copy in `site/src/app/page.tsx` is stale twice (the tome
+> gloss omits *De reductione* and names the Hexaemeron as un-begun; the intro still says the
+> Breviloquium "is being published part by part" and the Itinerarium "will follow"), and the About
+> page still owes its **"What Is Known to Be Wrong"** section. **Wilson's explicit OK is needed for
+> the push and again for the deploy.** Recipe in repo CLAUDE.md § "Build and deploy" — run `vercel
+> build`/`deploy` **from `site/`**, `--prebuilt --archive=tgz`, and on `fetch failed` after
+> "Deploying outputs" **retry, never rebuild**. Verify the BODY of a served page, not the status
+> string. ⚠ The vol5 plates were deleted at pass 4 — re-extract before any plate work.
 >
-> **What c3 paid for:**
-> - **★★ A COLLATIO-CLOSING LEAF FAILS THE GUTTER WINDOW FOR THE SAME REASON AN OPENING ONE
->   DOES** — the NEXT collatio's display heading and Summarium cross the gutter at its foot,
->   inside the default 45–92 % band. p. 348's sound reading (a clean 60 px band → **1387**)
->   came from rows 10–50 %. **In this work every leaf that closes a collatio also opens the
->   next one, so expect it roughly every five leaves.**
-> - **★★ A BLEACHED PAGE-NUMBER WAS SETTLED FROM THE TARGET, NOT THE GLYPHS.** p. 343 n. 5's
->   `tom. I. pag. 168, nota 4` first read as `107`; that was **disproved by extracting Vol I's
->   own plate** (p. 107 n. 4 is a bare `Dist. IV. c. 1.`), and 168 confirmed three ways —
->   `bon-sent-I-d8-p2-a1-q2` owns it, its n. 4 answers to «Ab uno non procedit nisi unum», and
->   it cites the same `II. de Generat. et corrupt. text. 56` this note goes on to quote.
->   **When a digit is unreadable, go to the target; the corpus is the disambiguator.**
-> - **★★ THE SUMMARIUM DISAGREED WITH THE BODY FOR THE SECOND COLLATIO RUNNING** — it gives the
->   hierarch **five** properties where the body and the marginal gloss give **six** (c2's was
->   ¶ 34, printed but unsummarised). **Read the synopsis as a finding aid, never as a count.**
-> - **★ p. 347 n. 5 is Quaracchi's map of the whole work** — visions 1–4 are treated in
->   collationes 4-7, 8-12, 13-19, 20-23, and **the fifth and sixth are never treated**. Useful
->   for every remaining chunk; it also confirms the collatio, not the *visio*, as the division.
-> - ⚠ **Transcribed as printed against the obvious emendation, three times:** *potu-sapientiae*
->   (hyphenated, like c2's *exterius-rationem*), *in olfacto*, and ¶ 17's *ut esset **totus**
->   deiformis* — the last caught only at the band, and it changes the sense.
-> - **Zero page-crossing runovers, checked leaf by leaf** (after c2 had two). Two gutter ones.
+> ## ▶ THEN `bon-hex-c5` (Collatio V), which opens on p. 353
+> - **Collatio V opens BELOW Collatio IV on p. 353, and its body already runs in two columns on
+>   that leaf.** ⚠⚠ **p. 353's register is SHARED and n. 4 IS FORWARDED TO c5** — *Gen. 1, 4. — Quae
+>   immediate post afferuntur exposita sunt in collat. 4.* nn. 1–3 are c4's and are not to be
+>   re-claimed. Verify its position and column, per the standing rule that a hand-off tells you
+>   which notes are yours and never where they land.
+> - ⚠ Whether `COLLATIO V.` carries an anchor of its own is c5's first band question. `COLLATIO I.`
+>   did; II, III and IV did not.
+> - Raw **L60965 → L62017**. Its span ends where `COLLATIO VI.` opens, to be fixed on the band.
+> - ⚠ Re-profile p. 353's gutter (1180 was taken from rows 8–40 %, above Collatio V's heading).
 >
-> **The verification suite (run all five, every commit).** At the c3 commit:
-> `check-vol5-apparatus.py` **93 chunks / 1064 entries**, six new `KNOWN_TOTALS` pages fed from
-> the bands (343:8 · 344:6 · 345:11 · 346:12 · 347:12 · 348:7) · `check-vol5-census.py` rosters
-> agree **93/93**, 91 runovers (81 gutter-crossing, 10 page-crossing) · `polish-style-scan
-> --volume 5` **CLEAN** (93 files) · `build-content.mjs` **2026/2026, 8 books** ·
-> `build-citations.py`: this chunk contributed **93 records, ZERO QA flags of its own**
-> (corpus total 228, unchanged).
+> ## ★★ WHAT THE FIRST FOUR COLLATIONES PAID FOR — carry these
+> - **THE BOUNDARY LEAF'S REGISTER FOLLOWS THE BODY, NOT THE HEADING, and the four boundaries took
+>   THREE DIFFERENT SHAPES**: a leaf edge (335 | 336, each leaf wholly owned); a mid-leaf where the
+>   next collatio contributes only heading + Summarium and claims **none** of the register (342,
+>   348); and a mid-leaf where its body begins and the register **splits** (353). **Read the
+>   anchors; never infer the next boundary from the last.**
+> - **A COLLATIO-OPENING *AND* A COLLATIO-CLOSING LEAF BOTH DEFEAT THE DEFAULT GUTTER WINDOW** —
+>   full-width matter crosses the gutter at the foot of the closing leaf as at the head of the
+>   opening one. **Nine of twenty-five defaults were rejected.** p. 353's came off a **1 px** run.
+> - **THE SUMMARIUM IS A FINDING AID, NEVER A COUNT** — it has now disagreed with the body twice
+>   (c2's unsummarised ¶ 34; c3's *five* properties against the body's *six*).
+> - **A NEW MECHANICAL CHECK, and it passes:** the numbered paragraphs run 1..N with no gaps and the
+>   Latin and English sequences are identical. Run it at every later gate; the Sentences chunks have
+>   no equivalent.
+> - **When a digit is unreadable, go to the target** — `tom. I. pag. 168` was settled that way after
+>   `107` was disproved by extracting Vol I's own plate.
+> - ⚠ **Register the division title as each chunk lands** (Collatio II's was missed once), from the
+>   IN-PLACE printed subtitle.
 >
-> ⚠ **Register the division title as each chunk lands** — Collatio II's was missed and added
-> in a follow-up commit. Take it from the IN-PLACE printed subtitle, never the volume index.
->
-> **Then:** **the shakedown gate fires at the close of Collatio IV** — the first of three gates
-> for this work, and the deploy rides with it, not with a chunk. Push and deploy are both
-> protected and need Wilson's per-action OK.
->
-> ⬜ **Still parked, deploy-only:** the landing copy in `site/src/app/page.tsx` is stale twice
-> (the tome gloss omits *De reductione* and names the un-begun Hexaemeron; the intro still says
-> the Breviloquium "is being published part by part" and the Itinerarium "will follow"), and the
-> About page still owes its **"What Is Known to Be Wrong"** section.
+> **The verification suite at the gate:** `check-vol5-apparatus.py` **94 chunks / 1,096 entries** ·
+> census **94/94**, 94 runovers (84 gutter-crossing, 10 page-crossing) · `polish-style-scan
+> --volume 5` **CLEAN** · `build-content.mjs` **2027/2027, 8 books** · `build-citations.py` corpus QA
+> **228, unchanged**. ⚠ 10 PAIR issues in Vols III–IV are pre-existing J4 class-B residue —
+> recorded, not fixed; this gate authorises no edit there.
 >
 > ---
 >
