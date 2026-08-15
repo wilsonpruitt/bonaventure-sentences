@@ -1,6 +1,63 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — `bon-hex-c8` (Collatio VIII), WHOSE HEADING STANDS PART-WAY DOWN p. 368.
+> # ▶▶▶ START HERE — `bon-hex-c9` (Collatio IX), WHICH OPENS PART-WAY DOWN p. 372.
+>
+> **State (verified at `e4372bf`; `origin/master` = `cc8aeb2`, so `master` is 15 ahead — push is
+> protected and needs Wilson's per-action OK).** **Collationes I–VIII are Tier 2**; the first
+> vision is complete and the second is begun. c8 = pp. 368–372, **19 ¶¶, 29 apparatus entries,
+> zero `[?]` flags**; suite at that commit: `check-vol5-apparatus.py` **98 chunks / 1,248
+> entries** · `check-vol5-census.py` **98/98**, 107 runovers (95 gutter-crossing, 12
+> page-crossing) · `polish-style-scan --volume 5` CLEAN · `build-content.mjs` **2031/2031, 8
+> books** · `build-citations.py` corpus QA **228 unchanged**, c8 contributing **30 records, zero
+> dangling, zero QA flags**.
+>
+> ## ⛔ FIRST: EXTRACT THE PLATES FOR c9.
+> `python3.11 tools/extract-pages.py --volume vol5 --pages 373-379 --dpi 450`, then `colcrop.py`.
+> pp. 372–374 are already on disk. **Per collatio, never in bulk.**
+> ⚠ Fix the far end from the next real `COLLATIO X.` header on the band, never from a running
+> head — p. 372's already reads `COLLATIO IX.` while Collatio VIII still fills its top.
+>
+> ## What c9 inherits — verified, not assumed
+> - ⚠⚠ **p. 372's register is SHARED and nn. 2–3 ARE FORWARDED TO YOU.** n. 2 = *Gen. 1, 8.*
+>   (anchored in c9 ¶ 1) and n. 3 = *Vers. 7. — Seq. locus est Ps. 32, 6; tertius Ps. 118, 89…*
+>   **n. 1 is `bon-hex-c8`'s and must NOT be re-claimed**; `KNOWN_TOTALS` carries `372: 3` with a
+>   comment, and the check reports it as a legitimate PENDING until c9 lands. **Verify their
+>   position and column yourself.**
+> - **Collatio IX opens part-way down p. 372 and its body already runs in two columns there.**
+>   ★ **Its gutter on that leaf is 1339 — already measured over that very region** (band
+>   1308–1370, clean 4 px rule island). ⚠ The whole-page default for p. 372 is **1311 on a 2 px
+>   run** and is wrong by 28 px; do not let it stand.
+> - In-place subtitle, read off the band: *De secunda visione tractatio secunda, quae est de
+>   triplici firmitate fidei.* **Its Summarium runs to 29** — count the body against it anyway.
+> - ⚠ **Whether `COLLATIO IX.` carries an anchor is your first band question.** Eight openings
+>   read and only `COLLATIO I.` has one.
+>
+> ## ★★ What Collationes VI–VIII paid for — carry these
+> - **★★★ THE SUMMARIUM CAN BE SYSTEMATICALLY WRONG ABOUT ITS OWN PARAGRAPH NUMBERS** (c6: 32 ¶¶
+>   against a last reference of 26, three short from its entry 16). c7, c8 agree exactly.
+>   **Count off the body every time.**
+> - **★★ THREE LEAVES NOW DESTROY THE WHOLE-PAGE GUTTER DEFAULT — 353, 368, 372 — and the cause is
+>   always full-width matter crossing the gutter.** A leaf that CLOSES a collatio does it as
+>   surely as one that opens it; p. 372 does both at once. **Profile the region you transcribe.**
+> - **★★ BLOCK-vs-ANCHOR RUNS ARE NOT RULES:** c7 gave four consecutive left-block overruns
+>   (one of them by THREE notes), c8 gave three consecutive coincidences. Read every leaf.
+> - **★★ A FOOTER BLOCK CAN HOLD NO NUMBERED NOTE AT ALL** (p. 364) and **the raw invents anchor
+>   glyphs** (p. 355). Read every anchor off the plate.
+>
+> ## ⚠ CADENCE — a mid-work gate is due for a decision
+> The frozen plan gives the Hexaemeron **three gates plus the shakedown**. The shakedown fired at
+> the close of Collatio IV (p. 353); on the ~100-page trigger the next would not fall until the
+> work close. **Decide the mid-work gate deliberately** — the close of the second vision
+> (collationes 8–12, ~p. 385) is the natural seam, and it is now close. **The deploy rides with a
+> gate; both push and deploy are protected.**
+>
+> ## ⬜ Still owed, deploy-only
+> The About page's **"What Is Known to Be Wrong"** section — outward-facing, deliberately not
+> written unprompted. Park it for the next deploy.
+>
+> ---
+>
+> # (superseded) `bon-hex-c8` — DONE 2026-08-15 (`e4372bf`)
 >
 > **State (verified at `d05ddd3`; `origin/master` = `cc8aeb2`, so `master` is 12 ahead — push is
 > protected and needs Wilson's per-action OK).** **Collationes I–VII are Tier 2, and the FIRST
