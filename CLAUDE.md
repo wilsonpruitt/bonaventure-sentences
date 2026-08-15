@@ -1227,6 +1227,16 @@ Run both, in this order.
   `vercel pull`* — which is a **red herring**: nothing is unlinked, you are simply in the
   wrong directory. The `cd site` in the recipe above is load-bearing, not cosmetic.
   (Cost a wasted build cycle on 2026-08-14.)
+- **★★ `Not authorized` ON A BARE `vercel deploy` IS FIXED BY `--scope wilson-pruitts-projects` —
+  and it is NOT the wrong-account case (earned 2026-08-15, the Hexaemeron gate deploy).** The CLI
+  was signed in as `littleeachdayapp-6609`, `vercel teams ls` listed **Wilson Pruitt's projects**,
+  and `vercel project ls --scope wilson-pruitts-projects` showed `bonaventure` with its custom
+  domain — everything correct — yet `npx vercel deploy --prod --prebuilt --archive=tgz` returned
+  `{"status":"error","reason":"deploy_failed","message":"Not authorized"}` in under a second. The
+  same command **with `--scope wilson-pruitts-projects` appended succeeded and went READY.** ⚠ The
+  wrootpress note that "if the linked org isn't in `vercel teams ls`, no `--scope` will help" still
+  holds for THAT case; this is the opposite one — **the org IS in the list and the flag is exactly
+  the fix. Try `--scope` before concluding anything about the account.**
 - **★★ `Error: fetch failed` AFTER "Deploying outputs…" IS THE KNOWN, RECURRING FAILURE —
   RETRY THE DEPLOY, DO **NOT** REBUILD.** `.vercel/output` is intact and re-running
   `npx vercel deploy --prod --prebuilt --archive=tgz` alone succeeds. It is
