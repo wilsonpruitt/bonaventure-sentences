@@ -1,6 +1,71 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — `bon-hex-c9` (Collatio IX), WHICH OPENS PART-WAY DOWN p. 372.
+> # ▶▶▶ START HERE — `bon-hex-c10` (Collatio X), WHICH OPENS AT THE HEAD OF p. 377.
+>
+> **State (verified at `6160c71`; `origin/master` is 3 behind — push is protected and needs
+> Wilson's per-action OK).** **Collationes I–IX are Tier 2.** c9 = pp. 372–376, **29 ¶¶,
+> 40 apparatus entries, zero `[?]` flags**. Suite at that commit:
+> `check-vol5-apparatus.py` **99 chunks / 1,288 entries** · `check-vol5-census.py` **99/99**,
+> 110 runovers (97 gutter-crossing, 13 page-crossing) · `polish-style-scan --volume 5` CLEAN ·
+> `build-content.mjs` **2032/2032, 8 books** · `build-citations.py` corpus QA **228, unchanged**,
+> c9 contributing **73 records, zero dangling, zero QA flags**.
+>
+> ## ⚠ STILL OWED BEFORE/WITH THE NEXT DEPLOY
+> 1. **The mid-work gate's fix is still NOT LIVE.** `bon-hex-c8` p. 372 n. 1's English said
+>    *Dieta salutis* against the plate's `Dictae salutis`. It ships with the next deploy.
+> 2. The About page's **"What Is Known to Be Wrong"** section — outward-facing, deliberately not
+>    written unprompted; Wilson's to frame. Park it with the fix.
+>
+> ## ⛔ FIRST: EXTRACT THE PLATES FOR c10.
+> `python3.11 tools/extract-pages.py --volume vol5 --pages 377-383 --dpi 450`, then `colcrop.py`.
+> **p. 377 is already on disk** (extracted to fix c9's far end). **Per collatio, never in bulk.**
+> ⚠ **Check free disk first (`df -h /`)** — it was at ~10 GiB this session, and the build+deploy
+> cycle transiently costs ~5 GB.
+>
+> ## What c10 inherits — verified, not assumed
+> - **`bon-hex-c9` FORWARDS NOTHING.** Collatio IX closes on p. 376, whose register is complete and
+>   closes with a short n. 10; **Collatio X opens at the HEAD of p. 377**, so p. 377's whole
+>   register is c10's. `KNOWN_TOTALS` carries 372–376 with no PENDING left open.
+> - **Heading and subtitle read off the band already:** `COLLATIO X.`, subtitle *De secunda visione
+>   tractatio tertia, quae incipit agere de fidei speciositate.* Register it in
+>   `WORKS.hexaemeron.divisions` as the chunk lands. ⚠ **Whether `COLLATIO X.` carries an anchor is
+>   your first band question** — nine openings read and only `COLLATIO I.` has one.
+> - ★ **p. 377's gutter is 1166** (default 1166 on a 57 px run, band 1138–1194, CONFIRMED at the
+>   profile). Measured this session; re-derive anything else.
+> - ⚠ Fix the far end from the next real `COLLATIO XI.` header on the band — the raw has it at
+>   **L64920** (running head L64976), so the far end is near p. 381. **Never from a running head.**
+> - **Its Summarium**: count the body against it. c9's agreed exactly (29 v 29); c6's ran three short.
+>
+> ## ★★ What Collatio IX paid for — carry these
+> - **★★ FIVE LEAVES, FOUR DIFFERENT BLOCK-vs-ANCHOR RELATIONS, AND THE DIRECTION REVERSED TWICE
+>   INSIDE ONE CHUNK** (underrun by 1, underrun by 1, overrun by 1, underrun by THREE, coincide).
+>   Block extent says nothing about column. Read anchors, only anchors, on every leaf.
+> - **★★★ THE DEFAULT FOOTER WINDOW CAN CROP AWAY A PAGE-CROSSING RUNOVER.** p. 374 n. 10 broke at
+>   *…Deut. 29, 5: Ad-* and continued **unnumbered** at the head of p. 375's left block; at
+>   `footcrop.py`'s default rows the continuation was **above the crop** and p. 375 looked as though
+>   it opened numbered at ¹. **Widen the window (`footcrop.py <page> <split> 0.60 0.88`) and read
+>   every page-foot joint deliberately.** A hand-off will never warn you. p. 373's right block also
+>   opened unnumbered, with n. 4's *…plenius au-* | *diremus*.
+> - **★ NOT EVERY `44` IS AN `11`.** The 1/4 class fired about a dozen times in this span and was
+>   right every time — except p. 374 n. 9's `Cap. 44, 1`, which is genuinely Ecclus. 44:1, fixed by
+>   the body's own quotation *Laudemus viros gloriosos*. **The class is a trigger to look, never a
+>   verdict.** Settle every digit against the quoted text, which in this work is primary evidence.
+> - **★ THE SUB-60 px GUTTER RULE FIRED AND WAS RIGHT AGAIN** — p. 373's default 1181 on a 30 px run
+>   against a true 1187. The other three defaults sat on 54–65 px runs and were confirmed.
+> - **★ REGISTER ADDITIONS (frozen, reuse them):** *firmitas* → "firmness" · *sententia firma* →
+>   **"firm verdict"** (NOT "judgement" — ¶ 23 sets it beside *iudicium rationis*, and the frozen
+>   Itinerarium register already gives *iudicium* → "judgement") · *praeclaritas* →
+>   "illustriousness" · *influxus* → "inflowing" · *excessus amoris* → "the transport of love",
+>   holding the frozen c5 rule. **⚠ *speciositas* → "comeliness" is ALREADY FROZEN from Itinerarium
+>   c2 and c10's subtitle turns on it — reuse it, do not re-decide it.**
+>
+> ## Cadence from here
+> **One gate remains: the work close**, at the Scholion (~p. 454). The deploy rides with it. Push and
+> deploy are both protected and need Wilson's per-action OK. **14 collationes remain after c10.**
+>
+> ---
+>
+> # (superseded) `bon-hex-c9` — DONE 2026-08-17 (`6160c71`)
 >
 > **State (verified at `ceda132`; `origin/master` = `ceda132`, 0 ahead, tree clean — the gate is
 > PUSHED.)** **Collationes I–VIII are Tier 2**; the first vision is
