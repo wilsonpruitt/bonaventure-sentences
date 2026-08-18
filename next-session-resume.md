@@ -1,6 +1,124 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — `bon-hex-c15` (Collatio XV), WHICH OPENS PART-WAY DOWN p. 398.
+> # ▶▶▶ START HERE — `bon-hex-c16` (Collatio XVI), WHICH OPENS AT THE **HEAD** OF p. 403.
+>
+> **State (verified at `e9e276c`; ⚠ `origin/master` is BEHIND — push is protected and needs
+> Wilson's per-action OK. Re-derive with `git rev-list --count origin/master..master` rather than
+> trusting this line; it expires.)**
+> **Collationes I–XV are Tier 2.** c15 = pp. 398–402, **28 ¶¶, 42 apparatus entries, ONE `[?]`
+> flag** (Quaracchi's own broken type — see below). Suite at that commit:
+> `check-vol5-apparatus.py` **105 chunks / 1,497 entries, no PENDING** · `check-vol5-census.py`
+> **105/105**, 124 runovers (111 gutter-crossing, 13 page-crossing) · `polish-style-scan
+> --volume 5` CLEAN · `check-live-flags.py vol5` **4 occurrences / 2 flags** ·
+> `build-content.mjs` **2038/2038, 8 books** · `build-citations.py` corpus QA **228, unchanged**,
+> c15 contributing **76 records, zero dangling, zero QA lines**.
+>
+> ## ⚠ STILL OWED BEFORE/WITH THE NEXT DEPLOY
+> 1. **The mid-work gate's `Dictae salutis` fix is still NOT LIVE** (`bon-hex-c8`, p. 372 n. 1).
+> 2. The About page's **"What Is Known to Be Wrong"** section — Wilson's to frame.
+>
+> ## ⛔ DISK — 4.4 GiB FREE, AND THE BUILD+DEPLOY CYCLE TRANSIENTLY COSTS ~5 GB
+> `df -h /` before any build. Extracting c16's seven plates took free space from 9.4 GiB to
+> **4.4 GiB** — far more than the 25 MB the PNGs occupy, so most of it is churn/purgeable, not
+> the files. Clear `site/.next` and `site/.vercel/output`, and delete `raw/vision/vol5/*.png`
+> once c16 is written. `/tmp/colcrop` was emptied. ⚠ Do NOT go hunting for the missing space —
+> the phantom-Xcode footprint is the known cause and is not worth a session.
+>
+> ## ⛔ TOOL FOOTGUN — `check-live-flags.py` TAKES A POSITIONAL DIR, NOT `--volume`
+> `--volume 5` scans **0 chunks** and still prints a clean verdict. Correct call:
+> `python3.11 tools/check-live-flags.py vol5` (scans 105). **Baseline is now 4 occurrences /
+> 2 flags: `bon-brev-p6-c13` (p. 280 n. 6, *separe*) and `bon-hex-c15` (p. 400 ¶ 18,
+> *resurrect*).** Both are Quaracchi's type breaking off; both are deliberate and documented.
+> Read the scanned-chunk count before believing the verdict.
+>
+> ## ✅ PLATES ARE ALREADY EXTRACTED — pp. 403–409 are on disk at 450 dpi.
+> Skip extraction; go straight to `gutter-profile.py … --skew`, then `colcrop.py`.
+> ⚠ If `raw/vision/vol5/` is empty a gate has since deleted them:
+> `python3.11 tools/extract-pages.py --volume vol5 --pages 403-409 --dpi 450` (~9 minutes).
+>
+> **`--skew` already run across c16's span — CONFIRM each against the direct profile before use:**
+>
+> | page | screen says |
+> |---|---|
+> | 403 | **stacked** — the .08 slice is XVI's full-measure front matter; the body (.51–.68) screens clean → **~1167** |
+> | 404 | clean, drift 4 px → **single split ~1379** |
+> | 405 | clean, drift 9 px → **single split ~1184** |
+> | 406 | clean, drift 5 px → **single split ~1361** |
+> | 407 | clean, drift 5 px → **single split ~1190** |
+> | 408 | **stacked** — .59/.68 are the body/footer gap; the body reads ~1332–1395 → **~1363** |
+> | 409 | **boundary leaf** — .08–.25 is Collatio XVII's front matter; XVI's own region (.51–.68) → **~1215** |
+>
+> ⚠ These are screens, not measurements. **The band midpoint from the direct per-column profile
+> is still what decides**, and p. 403's and p. 409's regions must each be profiled separately.
+>
+> ## What c16 inherits — verified, not assumed
+> - **NOTHING is forwarded.** c15 closed at the foot of p. 402 and owns all seven of that leaf's
+>   notes; p. 403 opens a fresh register. ⚠ **Verify that at the band anyway** — the standing rule
+>   is that a hand-off tells you which notes are yours and never where they land, and a hand-off
+>   of *none* is still a claim.
+> - **Collatio XVI opens at the HEAD of p. 403** — heading, three-line subtitle, then a Summarium
+>   that runs long (it lists ¶¶ 1–31). This is the ordinary shape; c15's was the same.
+> - **Summarium's last reference, read off the raw and NOT band-verified: `Epilogus, 31`.**
+>   ⚠⚠ **DO NOT TRUST IT AS A COUNT.** c6 ran three short, c14 one short, c15 exactly level.
+>   **Count the body.**
+> - **Raw L68517 → ~L69432**; `COLLATIO XVII.` at **L69436**. Page markers: 404=L68621 ·
+>   406=L68954 · 407=L69123 · 409=L69433. ⚠ **405 and 408 have NO page marker in the raw** — the
+>   OCR mangled those digits — so the printed span **pp. 403–408** is a raw-based inference for
+>   the interior and must be fixed on the bands. **The far end is fixed from the real
+>   `COLLATIO XVII.` header at the head of p. 409, never from a running head.**
+> - ⚠ **Whether `COLLATIO XVI.` carries an anchor is your first band question** — fifteen openings
+>   read and only `COLLATIO I.` has one.
+>
+> ## ★★ What Collatio XV paid for — carry these
+> - **★★★ THE HAND-OFF'S SPAN WAS WRONG AND THE BAND CAUGHT IT.** The pre-run put c15 at
+>   pp. 398–403 and described p. 403 as a boundary leaf holding XV's matter in rows .50–.79. It
+>   holds none: `COLLATIO XVI.` prints at the head of that leaf. **A `--skew` slice map is a map
+>   of ink, not of ownership** — it cannot tell you whose text a region is, and the previous
+>   session's plausible reading of it survived into a bolded table. **Read the header on the band
+>   before believing any span you were handed.**
+> - **★★★ THE END OF A COLLATIO IS FIXED FROM THE NEXT HEADER, AND THE EDITORS SOMETIMES SAY SO
+>   TOO.** p. 402's body stops at ~57 % of the leaf with the footer register filling the rest —
+>   exactly the shape that wrote `bon-brev-p2-c4` short. What settled it was `COLLATIO XVI.` on
+>   p. 403, and independently **p. 402 n. 7**, an editorial note saying the comparison
+>   *continuatur in seq. collatione quoad senarium et septenarium*. ★ **Quaracchi's own
+>   continuation notes are a second, free witness to a unit boundary — look for one.**
+> - **★★ A SUMMARIUM THAT NEITHER CROSSES NOR RUNS SHORT IS ALSO A RESULT.** c14's did both and it
+>   would be easy to read that as a new pattern. c15's sits wholly on its leaf and agrees exactly
+>   with the body at 28. **Record the negatives; the rule is unchanged either way — count the body.**
+> - **★★ A PRINTED LACUNA IS A `[?]`, NOT A REPAIR — AND IT IS NOT A NEW CLASS.** p. 400 ¶ 18
+>   prints *scilicet* ***resurrect*** *, de qua*: the type breaks off and the raw carries the
+>   identical gap. The sense is certain (*resurrectionis*; ¶ 21 uses the phrase) and **nothing was
+>   supplied**. `bon-brev-p6-c13` already holds the same defect (*homo non separe*`[?]`). **Two
+>   instances now — assume a third rather than treating the next as a transcription slip.**
+> - **★★ A BOUNDARY LEAF'S GUTTER IS STABLE; ONLY THE DEFAULT WINDOW IS NOT.** p. 398 was
+>   measured twice, once per collatio — c14's region gave **1320**, c15's gave **1321**. Both
+>   boundary leaves in this stretch (393, 398) failed the *default* window, which invites the
+>   inference that such leaves are unstable. They are not. **Profile the region you are
+>   transcribing and stop there.**
+> - **★ THE `--skew` SCREEN'S >80 px WARNING IS USUALLY STRUCTURE, NOT SKEW, AND IT SAYS SO.** It
+>   fired on pp. 400 and 402 and correctly withheld a verdict; both were the body/footer gap or
+>   the full-measure head, and both are single-split once profiled over the true body. **No leaf
+>   in c15 is skewed at all** — c14's p. 394 remains the only one.
+> - **★ WATCH THE REGISTRY.** c12, c13 and c14 all shipped **without adding their division title
+>   to the `WORKS` registry** in `site/scripts/build-content.mjs`, against the frozen
+>   one-at-a-time convention. c15 added 12–15. **Add c16's, from the in-place printed subtitle,
+>   in the same commit as the chunk.**
+> - **★ REGISTER, reuse it:** *theoria* → "contemplation" (kept apart from *intelligentia* →
+>   "understanding") · *seminaria* → "seed-beds" · *rationes seminales* → "seminal reasons" ·
+>   *coaptatio temporum* → "fitting-together of the times" (the hinge term of Pars II, and c16
+>   continues it) · *refulgere* → "to shine back" · *senectus* → "old age" vs *senium* → "ripe
+>   age" · *religionum multiplicatio* → "the multiplying of the religious orders" · the twelve
+>   mysteries' genitive series rendered as a closed set of "of the —ing of —" phrases ·
+>   *reseratio* → "unlocking" and *inunctio regum* → "the anointing of kings", both carried from
+>   c14 unchanged.
+>
+> ## Cadence from here
+> **One gate remains: the work close**, at the Scholion (~p. 454). The deploy rides with it. Push
+> and deploy are both protected. **7 collationes remain after c16.**
+>
+> ---
+>
+> # (superseded) `bon-hex-c15` — DONE 2026-08-18 (`e9e276c`)
 >
 > **State (verified at `5a0b903`; ✅ **PUSHED 2026-08-18 — `origin/master` = `5a0b903`, 0 ahead,
 > 0 behind, tree clean**, confirmed against a fresh `git fetch`, not the push output. ⚠ That is a
