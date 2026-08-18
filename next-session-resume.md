@@ -1,6 +1,93 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — `bon-hex-c16` (Collatio XVI), WHICH OPENS AT THE **HEAD** OF p. 403.
+> # ▶▶▶ START HERE — `bon-hex-c17` (Collatio XVII), WHICH OPENS AT THE **HEAD** OF p. 409.
+>
+> **State (verified in-session; ⚠ `origin/master` is BEHIND — push is protected and needs Wilson's
+> per-action OK. Re-derive with `git rev-list --count origin/master..master` rather than trusting
+> this line; it expires.)**
+> **Collationes I–XVI are Tier 2.** c16 = pp. 403–408, **31 ¶¶, 49 apparatus entries, zero `[?]`
+> flags**. Suite in-session: `check-vol5-apparatus.py` **106 chunks / 1,546 entries, no PENDING** ·
+> `check-vol5-census.py` **106/106**, 127 runovers (113 gutter-crossing, 14 page-crossing) ·
+> `polish-style-scan --volume 5` CLEAN · `check-live-flags.py vol5` **4 occurrences / 2 flags,
+> unchanged** · `build-content.mjs` **2039/2039, 8 books** · `build-citations.py` corpus QA **228,
+> unchanged**, c16 contributing **77 records, zero dangling, zero QA lines**.
+>
+> ## ⚠ STILL OWED BEFORE/WITH THE NEXT DEPLOY
+> 1. **The mid-work gate's `Dictae salutis` fix is still NOT LIVE** (`bon-hex-c8`, p. 372 n. 1).
+> 2. The About page's **"What Is Known to Be Wrong"** section — Wilson's to frame.
+>
+> ## ⛔ TOOL FOOTGUN — `check-live-flags.py` TAKES A POSITIONAL DIR, NOT `--volume`
+> `--volume 5` scans **0 chunks** and still prints a clean verdict. Correct call:
+> `python3.11 tools/check-live-flags.py vol5` (scans 106). **Baseline is 4 occurrences / 2 flags:
+> `bon-brev-p6-c13` (p. 280 n. 6, *separe*) and `bon-hex-c15` (p. 400 ¶ 18, *resurrect*).** Both are
+> Quaracchi's own type breaking off; both are deliberate and documented. Read the scanned-chunk
+> count before believing the verdict.
+>
+> ## ✅ p. 409 IS ALREADY EXTRACTED AND ALREADY PROFILED — pp. 410–414 ARE NOT
+> `python3.11 tools/extract-pages.py --volume vol5 --pages 410-414 --dpi 450` (~7 minutes).
+> ⚠ `df -h /` before any build. Delete `raw/vision/vol5/p-40[3-8].png` once c17 is under way —
+> c16's six plates are still on disk and are no longer needed.
+>
+> ## What c17 inherits — verified, not assumed
+> - **NOTHING is forwarded.** c16's last note (p. 408 n. 8) closes on its own leaf; p. 409 opens a
+>   fresh register. ⚠ Verify at the band anyway — a hand-off of *none* is still a claim.
+> - **Collatio XVII opens at the HEAD of p. 409**, read on the full-measure band: heading,
+>   a three-line subtitle beginning *De tertia visione tractatio quinta, quae agit de theoriis
+>   Scripturae significatis per fructus, scilicet de considerationibus reficientibus intellectum et
+>   affectum…*, then a long Summarium.
+> - **p. 409's gutter is MEASURED: 1222.** Body rows .45–.90 and .50–.88 agree to the pixel, run
+>   63 px, centre rule a clean 4 px island at 1221–1224. ⚠ The **default** window fails on this leaf
+>   (37 px run, 26 px island — it catches the full-measure head): the ordinary work-opening shape.
+> - **Summarium's last reference, read off the raw and NOT band-verified:
+>   `…non erit defensio per rationem, sed per auctoritatem, 28.`** ⚠⚠ **DO NOT TRUST IT AS A COUNT.**
+>   c6 ran three short, c14 one short; c15 and c16 ran exactly level. **Count the body.**
+> - **Raw L69436 → ~L70230**; `COLLATIO XVIII.` at **L70233**. Page markers: 410=L69549 ·
+>   411=L69715 · 412=L69865 · 414=L70205. ⚠ **413 has NO page marker in the raw** (OCR mangled the
+>   digits), so the printed span **pp. 409–413** is a raw-based inference and must be fixed on the
+>   band from the real `COLLATIO XVIII.` header, never from a running head.
+> - ⚠ **Whether `COLLATIO XVII.` carries an anchor is your first band question** — sixteen openings
+>   read and only `COLLATIO I.` has one.
+>
+> ## ★★ What Collatio XVI paid for — carry these
+> - **★★★ A SLICE MAP WAS READ AS AN OWNERSHIP MAP FOR THE SECOND TIME RUNNING.** The pre-run
+>   `--skew` table described p. 409's rows .51–.68 as "XVI's own region". Those rows are **Collatio
+>   XVII's body**: XVI closes at the foot of p. 408 and XVII prints at the head of p. 409. c15's
+>   lesson was that a slice map is a map of ink, not of ownership; c16 met the identical error in
+>   the identical place. **Read the header on the band before believing any span you were handed —
+>   this is now a pattern, not an incident.**
+> - **★★ A FOOTER NOTE CAN RUN OVER THE PAGE INTO ITS OWN CHUNK'S NEXT LEAF, AND THE TELL IS AN
+>   UNNUMBERED *LEFT* BLOCK.** p. 407 n. 7 breaks mid-sentence and resumes as the unnumbered opening
+>   of p. 408's **left** block. Every previous unnumbered block in this work has been a right-hand
+>   one (a gutter runover). **An unnumbered LEFT block means the previous leaf owes you the head of
+>   that note** — do not renumber the leaf to start at 2.
+> - **★★ A SHORT ENTRY CAN SHARE A LINE WITH THE END OF THE PREVIOUS ONE.** p. 405's n. 6
+>   (*Cap. 18, 14. seq.*) is set flush right on n. 5's last line. **Read a footer block by numeral,
+>   not by line**, or you will report the page one entry short.
+> - **★ SIX CONSECUTIVE SOUND GUTTERS — AND THAT IS ALSO A RESULT.** 403=1164 · 404=1380 ·
+>   405=1182 · 406=1363 · 407=1191 · 408=1363, every spread ≤6 px, every run 57–62 px, the printed
+>   centre rule a 4–11 px island on all six. No leaf skewed, no window-forking needed. **The forking
+>   remedy is for leaves that fail the run-width test, and most leaves do not.**
+> - **★ TWO PRINTED IRREGULARITIES ARE NOT `[?]` FLAGS.** p. 408 n. 7 sets *Apoc. 21; 2* and
+>   *Gal. 4; 26* with semicolons, and prints *descedentem* for *descendentem*. Both were rendered
+>   as printed and left unflagged: **`[?]` is for type breaking off — a GAP — not for a
+>   misspelling or an odd separator.** The corpus baseline stays at 4 occurrences / 2 flags.
+> - **★ REGISTER, reuse it:** *septenarius / senarius / ternarius / quaternarius / quinarius* →
+>   "septenary / senary / ternary / quaternary / quinary" (fixed in c15, unchanged) ·
+>   *septiformis* → "sevenfold" · *coaptatio temporum* → "fitting-together of the times" ·
+>   *theoria* → "contemplation", kept apart from *intelligentia* → "understanding" · *seminarium* →
+>   "seed-bed" · *praeclaritas* → "splendour" against *claritas* → "clarity" · the seven original
+>   days and the seven figural/gracious times as a closed set of "of the — —ed" phrases, because
+>   c16 runs the list three times and c17 continues the vocabulary.
+>
+> ## Cadence from here
+> **One gate remains: the work close**, at the Scholion (~p. 454). The deploy rides with it. Push
+> and deploy are both protected. **6 collationes remain after c17.**
+
+---
+
+# (superseded) `bon-hex-c16` — DONE 2026-08-18
+
+> ### `bon-hex-c16` (Collatio XVI), pp. 403–408
 >
 > **State (verified at `e9e276c`; ⚠ `origin/master` is BEHIND — push is protected and needs
 > Wilson's per-action OK. Re-derive with `git rev-list --count origin/master..master` rather than
