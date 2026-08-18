@@ -1783,7 +1783,11 @@ KNOWN_TOTALS = {
     395: 9,
     396: 8,
     397: 10,  # n.5 runs over the gutter
-    398: 5,   # nn.1-2 Collatio XIV, nn.3-5 Collatio XV (pending until c15 lands)
+    398: 5,   # nn.1-2 Collatio XIV, nn.3-5 Collatio XV -- boundary leaf, now complete
+    399: 11,  # block split 1-3 L / 4-11 R; anchor split 1-5 L / 6-11 R
+    400: 12,  # n.7 runs over the gutter; the right block opens unnumbered
+    401: 9,   # n.4 runs over the gutter; the right block opens unnumbered
+    402: 7,   # block and anchor splits coincide; n.7 closes the collatio
 }
 
 
