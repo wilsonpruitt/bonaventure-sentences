@@ -1,6 +1,70 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — `bon-hex-c11` (Collatio XI), WHICH OPENS PART-WAY DOWN p. 379.
+> # ▶▶▶ START HERE — `bon-hex-c12` (Collatio XII), WHICH OPENS PART-WAY DOWN p. 384.
+>
+> **State (verified at `e7a9f14`; `origin/master` is 10 behind — push is protected and needs
+> Wilson's per-action OK).** **Collationes I–XI are Tier 2.** c11 = pp. 379–384, **25 ¶¶ plus an
+> unnumbered epilogue, 40 apparatus entries, zero `[?]` flags**. Suite at that commit:
+> `check-vol5-apparatus.py` **101 chunks / 1,346 entries** (one legitimate PENDING: p. 384 n. 3) ·
+> `check-vol5-census.py` **101/101**, 115 runovers (102 gutter-crossing, 13 page-crossing) ·
+> `polish-style-scan --volume 5` CLEAN · `build-content.mjs` **2034/2034, 8 books** ·
+> `build-citations.py` corpus QA **228, unchanged**, c11 contributing **47 records, zero dangling,
+> zero QA flags**.
+>
+> ## ⚠ STILL OWED BEFORE/WITH THE NEXT DEPLOY
+> 1. **The mid-work gate's `Dictae salutis` fix is still NOT LIVE** (`bon-hex-c8`, p. 372 n. 1).
+> 2. The About page's **"What Is Known to Be Wrong"** section — Wilson's to frame.
+>
+> ## ⛔ FIRST: EXTRACT THE PLATES FOR c12.
+> `python3.11 tools/extract-pages.py --volume vol5 --pages 385-391 --dpi 450`, then `colcrop.py`.
+> **p. 384 is already on disk.** ⚠ Check `df -h /` first — ~10 GiB free this session.
+>
+> ## What c12 inherits — verified, not assumed
+> - ⚠⚠ **p. 384 n. 3 IS FORWARDED TO YOU** — text `Epist. II. Cor. 3, 18. — In seqq. datur summa
+>   collat. 8-11.`, answering to the anchor on *speculantes³* in **Collatio XII's own ¶ 1**, printed
+>   at the FOOT of p. 384 in the **LEFT** column of the bottom two-column region. **nn. 1–2 are
+>   Collatio XI's and must NOT be re-claimed.** `KNOWN_TOTALS` carries `384: 3` with a legitimate
+>   PENDING. **Verify its position and column yourself.**
+> - **Collatio XII opens part-way down p. 384.** Its Summarium is full measure and, from the band,
+>   its last numbered reference is **17** — count the body against it; c9, c10 and c11 all agreed
+>   exactly, c6 ran three short.
+> - ⚠⚠ **p. 384 HAS NO WHOLE-PAGE GUTTER** (four stacked regions). **1371 is Collatio XI's region,
+>   not yours** — profile Collatio XII's own bottom region separately, and note it may be only a
+>   few lines deep, in which case continuity across the split is the check available.
+> - ⚠ Fix the far end from the next real `COLLATIO XIII.` header on the band. **Never from a running
+>   head** — p. 384's already read `COLLATIO XII.` while XI still filled the upper half.
+> - ⚠ **Whether `COLLATIO XII.` carries an anchor is your first band question** — eleven openings
+>   read and only `COLLATIO I.` has one.
+>
+> ## ★★ What Collatio XI paid for — carry these
+> - **★★★ A TIGHT WINDOW CONSENSUS CAN BE WRONG BY 16 px, AND p. 383 IS THE CASE.** Twenty-four
+>   windows agreed at **1227** with a 4 px spread — the signature the method calls sound — and every
+>   one had landed on the **left sub-band** of a band the centre rule had split in two
+>   (true band 1212–1274, rule at 1240–1245, **true value 1243**). **Print the per-column profile
+>   even when the windows agree.** The frozen rule said agreement can't rescue a corrupted run; this
+>   is what that looks like when it looks trustworthy.
+> - **★★ AN UNNUMBERED RIGHT-HAND FOOTER BLOCK IS CLOSER TO NORMAL THAN EXCEPTIONAL IN THIS WORK** —
+>   **four** gutter-crossing runovers in six leaves (pp. 380, 382, 383, 384). Read for it every time;
+>   never assume a block opens numbered.
+> - **★ `Num. N` WITHOUT A VERSE IS QUARACCHI'S *numerus*, NOT THE BOOK OF NUMBERS** — live at
+>   p. 380 n. 4, which glosses *De Trin.* XV c. 4 **n. 6**. The books table's `require_verse` handles
+>   it; don't let it index as Numbers.
+> - **★ A COLLATIO CAN END IN AN UNNUMBERED EPILOGUE PARAGRAPH** (c11's *Hae sunt undecim
+>   stellae…*, marginal gloss `Epilogus.`). The Summarium's last number is still the paragraph
+>   count; render the epilogue unnumbered, as printed.
+> - **★ REGISTER, reuse it:** *speciositas* → "comeliness" (frozen at Itinerarium c2 — do not
+>   re-decide) · *coaevitas* → "coaevity" · *formositas* "shapeliness" vs *formae decor* "beauty of
+>   form", kept apart · *transsumtivus* → "transsumptive" · *numerus excrescens* → "abundant
+>   number". ⚠ **The *speculum*/*specula* pun in p. 380 n. 3 is left in Latin on purpose** — the
+>   note is *about* the two Latin nouns.
+>
+> ## Cadence from here
+> **One gate remains: the work close**, at the Scholion (~p. 454). The deploy rides with it. Push and
+> deploy are both protected. **11 collationes remain after c12.**
+>
+> ---
+>
+> # (superseded) `bon-hex-c11` — DONE 2026-08-17 (`e7a9f14`)
 >
 > **State (verified at `afdc1ff`; `origin/master` is 7 behind — push is protected and needs
 > Wilson's per-action OK).** **Collationes I–X are Tier 2.** c10 = pp. 377–379, **18 ¶¶,
