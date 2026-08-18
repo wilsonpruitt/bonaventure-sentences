@@ -1,6 +1,86 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — `bon-hex-c13` (Collatio XIII), WHICH OPENS PART-WAY DOWN p. 387.
+> # ▶▶▶ START HERE — `bon-hex-c14` (Collatio XIV), WHOSE BODY OPENS ON p. 393.
+>
+> **State (verified at `8db366c`; `origin/master` is behind — push is protected and needs Wilson's
+> per-action OK. ⚠ Re-derive with `git rev-list --count origin/master..master`; this line expires.)**
+> **Collationes I–XIII are Tier 2.** c13 = pp. 387–392, **33 ¶¶, 40 apparatus entries, zero `[?]`
+> flags**. Suite at that commit: `check-vol5-apparatus.py` **103 chunks / 1,411 entries**, no
+> PENDING · `check-vol5-census.py` **103/103**, 119 runovers (106 gutter-crossing, 13 page-crossing)
+> · `polish-style-scan --volume 5` CLEAN · `build-content.mjs` **2036/2036, 8 books** ·
+> `build-citations.py` corpus QA **228, unchanged**, c13 contributing **52 records, zero dangling,
+> zero QA flags**.
+>
+> ## ⚠ STILL OWED BEFORE/WITH THE NEXT DEPLOY
+> 1. **The mid-work gate's `Dictae salutis` fix is still NOT LIVE** (`bon-hex-c8`, p. 372 n. 1).
+> 2. The About page's **"What Is Known to Be Wrong"** section — Wilson's to frame.
+>
+> ## ⛔ TOOL FOOTGUN — `check-live-flags.py` TAKES A POSITIONAL DIR, NOT `--volume`
+> `check-live-flags.py --volume 5` prints **“scanned 0 chunks”** and then a clean verdict — a
+> **vacuous check**. Correct call: `python3.11 tools/check-live-flags.py vol5` (scans 103; real
+> baseline **2 occurrences, both `bon-brev-p6-c13`**). Always read the scanned-chunk count before
+> believing the verdict. Still worth hardening to exit non-zero on a zero-chunk scan.
+>
+> ## ✅ PLATES: pp. 384–393 ARE ON DISK at 450 dpi — c14 needs **394–398** as well.
+> `python3.11 tools/extract-pages.py --volume vol5 --pages 394-398 --dpi 450`, then `colcrop.py`.
+> ⚠ Check `df -h /` first — it sat at **~8.6 GiB free** after this session's extractions, and the
+> build+deploy cycle transiently costs ~5 GB. Clear `site/.next` and `site/.vercel/output` first.
+>
+> ## What c14 inherits — verified, not assumed
+> - ⚠⚠ **NOTHING IS FORWARDED TO YOU, AND IT IS A CHECKED STATEMENT.** On p. 392 **Collatio XIV
+>   contributes only its heading, subtitle and Summarium** — its body has not begun there, so it
+>   carries no anchor and claims none of that leaf's register. **All seven of p. 392's notes are
+>   Collatio XIII's**; `KNOWN_TOTALS` carries `392: 7` with no PENDING. **Do not claim any of them.**
+>   This is the second of the three boundary shapes recorded at c1–c4 (attested at pp. 342, 348).
+> - **Collatio XIV's BODY therefore opens on p. 393**, and p. 392 carries only its front matter.
+>   Its heading, subtitle and Summarium print full measure on p. 392 — read them off that band.
+> - **Raw:** `COLLATIO XIV.` at **L66937**; `COLLATIO XV.` at **L67795** (~858 lines). Printed span
+>   pp. 392–~398. ⚠ Fix the far end from the real `COLLATIO XV.` header on the band, never from a
+>   running head — p. 387's read `COLLATIO XIII.` while XII still filled the upper third.
+> - ⚠ **Whether `COLLATIO XIV.` carries an anchor is your first band question** — thirteen openings
+>   read and only `COLLATIO I.` has one.
+> - ⚠ **p. 392 has no whole-page gutter.** **1358 is Collatio XIII's region (rows .08–.40), not
+>   yours**; profile Collatio XIV's own region separately.
+>
+> ## ★★ What Collatio XIII paid for — carry these
+> - **★★★ A NARROW GUTTER BAND NOW HAS TWO CAUSES, AND SLICING TELLS THEM APART.** The frozen rule
+>   reads a sub-60 px run as "the centre rule inked heavily on that leaf." **p. 390 is the other
+>   cause: monotonic SCAN SKEW.** Its band walks **1304–1362 at the head of the body to 1350–1410 at
+>   the foot — a 47 px drift** (p. 323's attested drift was 27 px), and the whole-body profile
+>   reports the *intersection* of the shifting bands, which is why it collapsed to **19 px**.
+>   **Profile in row slices before believing a narrow band.**
+>   **The remedy needs no new tool: crop twice.** The left column's right edge never exceeds 1350;
+>   the right column's left edge never falls below 1362. So `colcrop … 1362` reads the left column
+>   and `colcrop … 1350` the right, both clean at every height.
+> - **★★ ONE LEAF, THREE GUTTERS: p. 387** — Collatio XII's body 1155, Collatio XIII's ¶ 1 region
+>   1161, the footer register 1163. The best illustration in this work of *a gutter is a property of
+>   a region, not of a page*.
+> - **★★ THE BLOCK-vs-ANCHOR DIRECTION REVERSED TWICE INSIDE ONE CHUNK** — underrun, underrun,
+>   coincide, **overrun** (p. 391, by two), underrun. c12's three leaves had all underrun. **A run is
+>   never a rule; read every leaf's anchors.**
+> - **★★ AN UNNUMBERED RIGHT-HAND FOOTER BLOCK IS THE NORM HERE — eight of the last ten leaves**
+>   (380, 382, 383, 384, 386, 387, 389, 391).
+> - **★ THE EPILOGUE'S FORM IS DECIDED PER COLLATIO.** c11 closed in a *separate unnumbered*
+>   paragraph; c13's `Epilogus` gloss sits on the last sentence of **¶ 33 itself**. Do not carry
+>   either shape forward — look at the leaf.
+> - **★ A SUMMARY SENTENCE CAN BE TRUE OF THE LEAF AND FALSE OF THE PARAGRAPH.** "Collatio XIII's
+>   ¶ 1 carries no anchor" is what the register seemed to say; in fact the Genesis lemma's anchor
+>   falls at its END, on p. 388, so the true claim is about the leaf. Watch the scope of any such
+>   sentence before forwarding it.
+> - **★ REGISTER, reuse it:** *intelligentia* → "understanding" (never "intelligence") · *theoriae*
+>   → "theories" · *legalis / historialis / sapientialis / prophetalis* → **legal / historial /
+>   sapiential / prophetal**, a closed set answering one-to-one to the four faces, so "historical"
+>   would break the series · *primitiva originatio* → "primal origination" · *profluentissima
+>   multiformitas* → "most out-flowing manifoldness" · *speciositas* → "comeliness" (frozen at
+>   Itinerarium c2).
+>
+> ## Cadence from here
+> **One gate remains: the work close**, at the Scholion (~p. 454). The deploy rides with it. Push and
+> deploy are both protected. **9 collationes remain after c14.**
+>
+> ---
+>
+> # (superseded) `bon-hex-c13` — DONE 2026-08-18 (`8db366c`)
 >
 > **State (verified at `f07a066`; `origin/master` is behind — push is protected and needs Wilson's
 > per-action OK. ⚠ Re-derive with `git rev-list --count origin/master..master`; this line expires.)**
