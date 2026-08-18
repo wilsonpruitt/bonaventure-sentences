@@ -1,6 +1,81 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — `bon-hex-c14` (Collatio XIV), WHOSE BODY OPENS ON p. 393.
+> # ▶▶▶ START HERE — `bon-hex-c15` (Collatio XV), WHICH OPENS PART-WAY DOWN p. 398.
+>
+> **State (verified at `2bfae26`; `origin/master` is behind — push is protected and needs Wilson's
+> per-action OK. ⚠ Re-derive with `git rev-list --count origin/master..master`; this line expires.)**
+> **Collationes I–XIV are Tier 2.** c14 = pp. 392–398, **30 ¶¶, 44 apparatus entries, zero `[?]`
+> flags**. Suite at that commit: `check-vol5-apparatus.py` **104 chunks / 1,455 entries** (one
+> legitimate PENDING: p. 398 nn. 3–5) · `check-vol5-census.py` **104/104**, 122 runovers (109
+> gutter-crossing, 13 page-crossing) · `polish-style-scan --volume 5` CLEAN · `build-content.mjs`
+> **2037/2037, 8 books** · `build-citations.py` corpus QA **228, unchanged**, c14 contributing
+> **96 records, zero dangling, one QA line dispositioned in the chunk's Notes** (¶ 25's bare
+> *ibidem*, correctly `unresolvable`).
+>
+> ## ⚠ STILL OWED BEFORE/WITH THE NEXT DEPLOY
+> 1. **The mid-work gate's `Dictae salutis` fix is still NOT LIVE** (`bon-hex-c8`, p. 372 n. 1).
+> 2. The About page's **"What Is Known to Be Wrong"** section — Wilson's to frame.
+>
+> ## ⛔ TOOL FOOTGUN — `check-live-flags.py` TAKES A POSITIONAL DIR, NOT `--volume`
+> `--volume 5` scans **0 chunks** and still prints a clean verdict. Correct call:
+> `python3.11 tools/check-live-flags.py vol5` (scans 104; baseline **2 occurrences, both
+> `bon-brev-p6-c13`**). Read the scanned-chunk count before believing the verdict.
+>
+> ## ✅ PLATES: pp. 393–398 ARE ON DISK at 450 dpi — c15 needs **399–404**.
+> `python3.11 tools/extract-pages.py --volume vol5 --pages 399-404 --dpi 450`. ⚠ `df -h /` first —
+> ~9.7 GiB free; the build+deploy cycle transiently costs ~5 GB.
+>
+> ## What c15 inherits — verified, not assumed
+> - ⚠⚠ **p. 398 nn. 3–5 ARE FORWARDED TO YOU.** p. 398 carries **five** notes; **nn. 1–2 are
+>   Collatio XIV's and must NOT be re-claimed.** n. 3 reads `Gen. 1, 12. — In seq. propositione
+>   respicitur collat. praecedens n. 17. seqq.` `KNOWN_TOTALS` carries `398: 5` with a legitimate
+>   PENDING until c15 lands. **Verify their position and column yourself** — the hand-off tells you
+>   which notes are yours and never where they land (c12 caught c11 getting exactly that wrong).
+> - **Collatio XV opens part-way down p. 398**, below Collatio XIV's ¶ 30. Heading, subtitle
+>   (three lines) and Summarium are full measure. ⚠ **Check whether its Summarium crosses the leaf
+>   boundary as Collatio XIV's did** — that was a first at 392/393 and may not be a one-off.
+> - **Summarium's last reference, read off the raw and NOT yet band-verified: `Epilogus partis I, 9`
+>   then Part II continues.** ⚠⚠ **DO NOT TRUST IT AS A COUNT** — c14's ran one short of the body
+>   and c6's ran three short. **Count the body.**
+> - **Raw L67795 → L68516**; `COLLATIO XVI.` at **L68517**. Page markers: 399=L67887 · 400=L68057 ·
+>   401=L68228 · 402=L68385 · 403=L68514. Printed span **pp. 398–403**. ⚠ Fix the far end from the
+>   real `COLLATIO XVI.` header on the band, never from a running head.
+> - ⚠ **p. 398 has no whole-page gutter. 1320 is Collatio XIV's region (rows .07–.19), not yours** —
+>   profile Collatio XV's own region separately.
+> - ⚠ **Whether `COLLATIO XV.` carries an anchor is your first band question** — fourteen openings
+>   read and only `COLLATIO I.` has one.
+>
+> ## ★★ What Collatio XIV paid for — carry these
+> - **★★★ A SUMMARIUM CAN CROSS A LEAF BOUNDARY.** c14's breaks mid-clause at the foot of p. 392
+>   and resumes **above** p. 393's two-column body. Thirteen Summaria before it sat wholly on one
+>   leaf. Two consequences: the page break falls *inside* the Summarium, and the next leaf's
+>   default gutter window is poisoned from above.
+> - **★★★ THE SUMMARIUM RAN ONE SHORT OF THE BODY, AND ITS OWN OVERLAPPING RANGES WERE THE TELL.**
+>   Body 30 ¶¶; Summarium ends `Epilogus, 29` and prints `24-26` then `26-28` — 26 in both. From
+>   ¶ 26 on it is one behind, and the body's `Epilogus` gloss sits on ¶ 30. **Count the body. Every
+>   time.** (c9–c13 agreed exactly; c6 ran three short; c14 one short.)
+> - **★★ THE SKEW REMEDY IS ONE SPLIT, NOT TWO — AND IT IS TESTABLE.** p. 394 drifts ~21 px, yet a
+>   single split works because **max(left-column edge) < min(right-column edge)** (1363 < 1405).
+>   ⚠ **c13's p. 390 satisfied that condition too**, so its dual crop was unnecessary though
+>   harmless. **Slice the profile, test the condition, crop twice only if it fails.**
+> - **★★ BOTH BOUNDARY LEAVES FAILED THE DEFAULT WINDOW FOR OPPOSITE REASONS** — p. 393 poisoned
+>   from above (Summarium continuation), p. 398 from below (Collatio XV's front matter).
+> - **★ AN UNNUMBERED RIGHT-HAND BLOCK IS THE NORM — eleven of the last sixteen leaves.**
+> - **★ QUARACCHI SOMETIMES DECLARE THEIR OWN TEXT DEFECTIVE** (p. 396 n. 1, *Sed aliquid excidisse
+>   videtur*). Render the admission; it is never a licence to emend the body.
+> - **★ REGISTER, reuse it:** *figurae sacramentales* → "sacramental figures" · *germinatio* →
+>   "sprouting" · *pullulatio* → "budding" · *venusta* → "comely" (with *speciositas* →
+>   "comeliness") · *reseratio* → "unlocking" · *mysterialiter* → "in a mystical way" and
+>   *mysteriari* → "to be made a mystery" · *indigentia* → "neediness" · the *legalis / historialis
+>   / sapientialis / prophetalis* series carried over from c13 unchanged.
+>
+> ## Cadence from here
+> **One gate remains: the work close**, at the Scholion (~p. 454). The deploy rides with it. Push and
+> deploy are both protected. **8 collationes remain after c15.**
+>
+> ---
+>
+> # (superseded) `bon-hex-c14` — DONE 2026-08-18 (`2bfae26`)
 >
 > **State (verified at `8db366c`; `origin/master` is behind — push is protected and needs Wilson's
 > per-action OK. ⚠ Re-derive with `git rev-list --count origin/master..master`; this line expires.)**
