@@ -245,6 +245,7 @@ const WORKS = {
       8: "Collatio VIII: De secunda visione, scilicet intelligentiae per fidem sublevatae, tractatio prima, quae agit de altitudine fidei",
       9: "Collatio IX: De secunda visione tractatio secunda, quae est de triplici firmitate fidei",
       10: "Collatio X: De secunda visione tractatio tertia, quae incipit agere de fidei speciositate",
+      11: "Collatio XI: De secunda visione tractatio quarta, quae est secunda de speciositate fidei et agit de speculatione Dei trini",
       24: "Scholion",
     },
   },

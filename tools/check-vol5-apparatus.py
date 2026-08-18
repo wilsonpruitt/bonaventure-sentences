@@ -1764,7 +1764,12 @@ KNOWN_TOTALS = {
     376: 10,
     377: 5,
     378: 8,
-    379: 6,   # nn.1-5 Collatio X, n.6 Collatio XI (pending until c11 lands)
+    379: 6,   # nn.1-5 Collatio X, n.6 Collatio XI
+    380: 9,
+    381: 11,
+    382: 9,
+    383: 8,
+    384: 3,   # nn.1-2 Collatio XI, n.3 Collatio XII (pending until c12 lands)
 }
 
 
