@@ -1,6 +1,98 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — `bon-hex-c12` (Collatio XII), WHICH OPENS PART-WAY DOWN p. 384.
+> # ▶▶▶ START HERE — `bon-hex-c13` (Collatio XIII), WHICH OPENS PART-WAY DOWN p. 387.
+>
+> **State (verified at `f07a066`; `origin/master` is behind — push is protected and needs Wilson's
+> per-action OK. ⚠ Re-derive with `git rev-list --count origin/master..master`; this line expires.)**
+> **Collationes I–XII are Tier 2.** c12 = pp. 384–387, **17 ¶¶, 28 apparatus entries, zero `[?]`
+> flags**. Suite at that commit: `check-vol5-apparatus.py` **102 chunks / 1,371 entries**, no
+> PENDING · `check-vol5-census.py` **102/102**, 117 runovers (104 gutter-crossing, 13 page-crossing)
+> · `polish-style-scan --volume 5` CLEAN · `build-content.mjs` **2035/2035, 8 books** ·
+> `build-citations.py` corpus QA **228, unchanged**, c12 contributing **31 records, zero dangling,
+> zero QA flags**.
+>
+> ## ⚠ STILL OWED BEFORE/WITH THE NEXT DEPLOY
+> 1. **The mid-work gate's `Dictae salutis` fix is still NOT LIVE** (`bon-hex-c8`, p. 372 n. 1).
+> 2. The About page's **"What Is Known to Be Wrong"** section — Wilson's to frame.
+>
+> ## ⛔ TOOL FOOTGUN FOUND 2026-08-18 — `check-live-flags.py` TAKES A POSITIONAL DIR, NOT `--volume`
+> `python3.11 tools/check-live-flags.py --volume 5` prints **“scanned 0 chunks”** and then
+> **“LIVE [?] FLAGS: none — checked, not assumed.”** That reads as a pass and is a **vacuous
+> check** — the same species as the gitignored-`content.json` “verified byte-identical” claim.
+> The correct call is `python3.11 tools/check-live-flags.py vol5`, which scans 102 and reports the
+> real baseline (**2 occurrences, both `bon-brev-p6-c13`**). ⚠ Always read the scanned-chunk count
+> before believing the verdict. Worth hardening the script to exit non-zero on a zero-chunk scan.
+>
+> ## ✅ PLATES: pp. 384–391 ARE ON DISK at 450 dpi — **but c13 also needs 392 and 393.**
+> `python3.11 tools/extract-pages.py --volume vol5 --pages 392-393 --dpi 450`, then `colcrop.py`.
+> ⚠ Check `df -h /` first — it sat at **~10 GiB free** this session and the build+deploy cycle
+> transiently costs ~5 GB. ⚠ If `raw/vision/vol5/` is empty, a gate has deleted them; re-extract
+> 387–393.
+>
+> ## What c13 inherits — verified, not assumed
+> - ⚠⚠ **NOTHING IS FORWARDED TO YOU, AND THAT IS A CHECKED STATEMENT, NOT SILENCE.**
+>   **All four of p. 387's footer notes are Collatio XII's**, although Collatio XII fills only the
+>   top third of that leaf. Collatio XIII's ¶ 1 — the whole Genesis lemma *Congregentur aquae, quae
+>   sub caelo sunt…* — **carries no apparatus anchor at all**, which is why the register divides the
+>   way it does. `KNOWN_TOTALS` carries `387: 4` with no PENDING. **Do not claim any of them.**
+>   Same shape as Itinerarium p. 313 and as p. 379 in c11: *divide the footer by anchor even across
+>   collatio boundaries.*
+> - **Collatio XIII opens part-way down p. 387**, below Collatio XII's ¶ 17. Heading, subtitle and
+>   Summarium are all full measure; ¶ 1 resumes in two columns near the foot of the leaf.
+> - ⚠ **THE TWO ITEMS BELOW WERE READ AT ⅓ SCALE, NOT OFF A BAND — RE-READ THEM BEFORE USE.** They
+>   come from the downscaled whole-page view c12 used for p. 387's *structure*, and the frozen rule
+>   confines a downscaled read to structure precisely because the one corpus defect the mid-work
+>   gate found came from a ⅓-scale apparatus read. Treat both as leads:
+>   - Subtitle, provisionally: *De tertia visione, quae est intelligentiae per Scripturam eruditae,
+>     tractatio prima, in qua agitur de Scripturae intelligentiis spiritualibus.*
+>   - Summarium's last reference, provisionally **`30-33`** — so 33 numbered ¶¶. **Confirm it on the
+>     band, then count the body against it.** c9, c10, c11 and c12 all agreed exactly; c6 ran three
+>     short, so the body is still what counts.
+> - **Raw L66161 → L66936** (~776 lines), printed **pp. 387–392**. Page markers in the raw at
+>   L66225 (388) · L66378 (389) · L66544 (390) · L66701 (391) · L66861 (392); `COLLATIO XIV.` at
+>   **L66937**. ⚠ Fix the far end from the real `COLLATIO XIV.` header on the band. **Never from a
+>   running head** — p. 387's already read `COLLATIO XIII.` while XII still filled the upper third.
+> - ⚠⚠ **p. 387 HAS NO GUTTER IN THE DEFAULT 45–92 % WINDOW** — Collatio XIII's full-measure
+>   heading and Summarium sit exactly there. **1155 is Collatio XII's region (rows .08–.30), not
+>   yours**; profile Collatio XIII's own ¶ 1 band separately. ★ p. 387's **footer** region measures
+>   **1163** — 8 px off the body's 1155 on the same leaf.
+> - ⚠ **Whether `COLLATIO XIII.` carries an anchor is your first band question** — twelve openings
+>   read and only `COLLATIO I.` has one.
+>
+> ## ★★ What Collatio XII paid for — carry these
+> - **★★★ THE HAND-OFF WAS RIGHT ABOUT OWNERSHIP AND POSITION AND WRONG ABOUT COLUMN.** c11
+>   forwarded p. 384 n. 3 as printed in the **left** footer block; it prints in the **right** block,
+>   third of three, behind c11's own unnumbered runover. The *anchor* was exactly where c11 said —
+>   on *speculantes³*, left column. Nothing was lost, because the note was re-derived rather than
+>   adopted. **This is the standing rule in its mildest and most instructive form: a hand-off tells
+>   you which notes are yours and never where they land.**
+> - **★★ NEITHER BOUNDARY LEAF HAD A PAGE GUTTER, AND THEY FAILED IN DIFFERENT PLACES.** p. 384
+>   stacks five regions and returns nothing usable over any whole-page window; p. 387 returns
+>   nothing over **the default window specifically**, while rows .08–.30 give a textbook 59 px band
+>   with the centre rule dead centre. **On such a leaf the default window is not merely unreliable —
+>   it is pointed at the wrong region.** Profile the region you are transcribing.
+> - **★★ AN UNNUMBERED RIGHT-HAND FOOTER BLOCK IS NOW THE NORM IN THIS WORK** — **six of the last
+>   eight leaves** (380, 382, 383, 384, 386, 387). Read for it every time.
+> - **★ THE LEFT BLOCK UNDERRAN ITS ANCHORS ON ALL THREE LEAVES c12 OWNS OUTRIGHT** (385 by two,
+>   386 by one, 387 by two). **A run, not a rule** — c7 gave four consecutive overruns and c3
+>   reversed on the fifth leaf. Read every leaf's anchors.
+> - **★ BOTH DIGIT CLASSES WERE LIVE ON ADJACENT LEAVES** — 3/5 on p. 386 (`Psalm. 73` → **75**,
+>   corroborated by the very verse the note quotes) and 1/4 on p. 387 (`pag. 344` twice, separable
+>   from `341` only under magnification). **Do not calibrate on the previous page.**
+> - **★ REGISTER, reuse it:** *speciositas* → "comeliness" (frozen at Itinerarium c2, governs this
+>   subtitle) · *impartite* → "undividedly" / *partibilia* → "divisible things", so Dionysius's *non
+>   partite partita* renders with the same pair · *inalligabilis* → "unbindable" · *incausabiliter /
+>   incausatae* → "uncausably" / "uncaused" · *conditor* "founder" vs *creator* "creator", kept
+>   apart · *milium* → **"millet-seed"** (one grain against one mountain) · ¶ 14's *forinsecus* →
+>   "on the outside" against *foris* → "without" four lines later, both printed.
+>
+> ## Cadence from here
+> **One gate remains: the work close**, at the Scholion (~p. 454). The deploy rides with it. Push and
+> deploy are both protected. **10 collationes remain after c13.**
+>
+> ---
+>
+> # (superseded) `bon-hex-c12` — DONE 2026-08-18 (`f07a066`)
 >
 > **State (verified at `e7a9f14`; ✅ **PUSHED 2026-08-17 — `origin/master` = `4dffa03`, 0 ahead,
 > tree clean**. ⚠ That is a claim about a system outside the repo and it expires — re-derive with
