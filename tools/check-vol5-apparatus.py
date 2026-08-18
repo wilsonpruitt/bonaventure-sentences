@@ -1788,6 +1788,12 @@ KNOWN_TOTALS = {
     400: 12,  # n.7 runs over the gutter; the right block opens unnumbered
     401: 9,   # n.4 runs over the gutter; the right block opens unnumbered
     402: 7,   # block and anchor splits coincide; n.7 closes the collatio
+    403: 4,   # Collatio XVI opens at the head of the leaf; left block overruns by one
+    404: 9,   # block split 1-3 L / 4-9 R; anchor split 1-5 L / 6-9 R
+    405: 11,  # n.7 runs over the gutter; the right block opens unnumbered
+    406: 10,  # both blocks open numbered; no runover
+    407: 7,   # n.5 runs over the gutter; n.7 runs over the PAGE into p.408's left block
+    408: 8,   # left block opens unnumbered with p.407 n.7's tail; nothing forwarded to XVII
 }
 
 

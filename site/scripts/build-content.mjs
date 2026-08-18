@@ -250,6 +250,7 @@ const WORKS = {
       13: "Collatio XIII: De tertia visione, quae est intelligentiae per Scripturam eruditae, tractatio prima, in qua agitur de Scripturae intelligentiis spiritualibus",
       14: "Collatio XIV: De tertia visione tractatio secunda, quae incipit agere de Scripturae figuris sacramentalibus, primo in genere, et deinde de duodecim mysteriis principalibus Christum significantibus",
       15: "Collatio XV: De tertia visione tractatio tertia, quae, continuans praecedentem, primo manifestat, quomodo in duodecim mysteriis principalibus ostendatur etiam antichristus; deinde incipit agere de infinitis caelestibus theoriis germinantibus ex seminibus et fructibus Scripturae",
+      16: "Collatio XVI: De tertia visione tractatio quarta, quae prosequitur agere de theoriis ex Scriptura germinantibus, et quidem ratione fructuum in coaptatione temporum, quatenus haec sibi mutuo correspondent; et in specie explicatur comparatio septenarii secundum correspondentiam trium temporum",
       24: "Scholion",
     },
   },

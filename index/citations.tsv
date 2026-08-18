@@ -19757,6 +19757,83 @@ bon-hex-c15	5	apparatus:p402-6	p402-6	scripture	apparatus-explicit	Eccli. 44, 16
 bon-hex-c15	5	apparatus:p402-6	p402-6	scripture	apparatus-explicit	Hebr. 11, 5	Hebr 11:5	A	verse		
 bon-hex-c15	5	apparatus:p402-6	p402-6	scripture	apparatus-explicit	Apoc. 11, 7	Apoc 11:7	A	verse		
 bon-hex-c15	5	apparatus:p402-6	p402-6	scripture	apparatus-explicit	Matth. 24, 21	Matth 24:21	A	verse		
+bon-hex-c16	5	apparatus:p403-1	p403-1	scripture	apparatus-explicit	Gen. 1, 12	Gen 1:12	A	verse		
+bon-hex-c16	5	apparatus:p403-2	p403-2	scripture	apparatus-explicit	Matth. 20, 1	Matth 20:1	A	verse		
+bon-hex-c16	5	apparatus:p403-3	p403-3	scripture	apparatus-explicit	Hebr. 13, 20	Hebr 13:20	A	verse		
+bon-hex-c16	5	apparatus:p403-4	p403-4	scripture	apparatus-explicit	Rom. 2, 29	Rom 2:29	A	verse		
+bon-hex-c16	5	apparatus:p403-4	p403-4	scripture	apparatus-explicit	II. Cor. 3, 6	2Cor 3:6	A	verse		
+bon-hex-c16	5	apparatus:p404-1	p404-1	scripture	apparatus-explicit	Gen. 38, 27	Gen 38:27	A	verse		
+bon-hex-c16	5	apparatus:p404-1	p404-1	scripture	apparatus-explicit	Eph. 2, 14	Eph 2:14	A	verse		
+bon-hex-c16	5	apparatus:p404-2	p404-2	scripture	apparatus-explicit	Matth. 5, 18	Matth 5:18	A	verse		
+bon-hex-c16	5	apparatus:p404-4	p404-4	scripture	apparatus-explicit	Matth. 17, 11	Matth 17:11	A	verse		
+bon-hex-c16	5	apparatus:p404-4	p404-4	crossref	page	supra pag. 402, nota 6	bon-hex-c15		chunk		
+bon-hex-c16	5	apparatus:p404-5	p404-5	scripture	apparatus-explicit	Ezech. 40, 3	Ezech 40:3	A	verse		
+bon-hex-c16	5	apparatus:p404-6	p404-6	crossref	work	Breviloq. p. II. c. 3.	bon-brev-p2-c3		chunk		
+bon-hex-c16	5	apparatus:p404-7	p404-7	crossref	anaphor->work	loc. cit.	bon-brev-p2-c3		chunk	yes	Breviloq. p. II. c. 3.
+bon-hex-c16	5	apparatus:p404-7	p404-7	crossref	page	tom. IV. pag. 29, nota 9	bon-sent-IV-d1-p1-dubia		chunk		
+bon-hex-c16	5	apparatus:p404-8	p404-8	scripture	apparatus-explicit	Rom. 11, 36	Rom 11:36	A	verse		
+bon-hex-c16	5	apparatus:p404-9	p404-9	scripture	apparatus-explicit	Eph. 3, 18	Eph 3:18	A	verse		
+bon-hex-c16	5	apparatus:p405-1	p405-1	scripture	apparatus-explicit	Eccle. 1, 10	Eccle 1:10	A	verse		
+bon-hex-c16	5	apparatus:p405-2	p405-2	scripture	apparatus-explicit	Gen. 1, 1	Gen 1:1	A	verse		
+bon-hex-c16	5	apparatus:p405-2	p405-2	crossref	work	Breviloq. p. II. c. 2.	bon-brev-p2-c2		chunk		
+bon-hex-c16	5	apparatus:p405-4	p405-4	scripture	apparatus-explicit	Matth. 1, 2	Matth 1:2	A	verse		
+bon-hex-c16	5	apparatus:p405-5	p405-5	scripture	apparatus-explicit	Apoc. 7, 2	Apoc 7:2	A	verse		
+bon-hex-c16	5	apparatus:p405-5	p405-5	crossref	page	supra pag. 356, nota 3	bon-hex-c5		chunk		
+bon-hex-c16	5	apparatus:p405-7	p405-7	scripture	apparatus-explicit	Luc. 2, 7	Luc 2:7	A	verse		
+bon-hex-c16	5	apparatus:p405-7	p405-7	crossref	page	supra pag. 356, nota 3	bon-hex-c5		chunk		
+bon-hex-c16	5	apparatus:p405-8	p405-8	scripture	apparatus-explicit	Gen. 12, 1	Gen 12:1	A	verse		
+bon-hex-c16	5	apparatus:p405-8	p405-8	scripture	apparatus-explicit	Matth. 1, 2	Matth 1:2	A	verse		
+bon-hex-c16	5	apparatus:p405-9	p405-9	scripture	apparatus-explicit	I. Reg. 10, 1	1Reg 10:1	A	verse		
+bon-hex-c16	5	apparatus:p405-10	p405-10	scripture	apparatus-explicit	IV. Reg. 18, 10	4Reg 18:10	A	verse		
+bon-hex-c16	5	apparatus:p405-11	p405-11	scripture	apparatus-explicit	II. Paral. 26, 19	2Par 26:19	A	verse		
+bon-hex-c16	5	apparatus:p405-11	p405-11	scripture	apparatus-explicit	Zach. 4, 6	Zach 4:6	A	verse		
+bon-hex-c16	5	apparatus:p405-11	p405-11	scripture	apparatus-explicit	Isai. 38, 8	Isai 38:8	A	verse		
+bon-hex-c16	5	apparatus:p405-11	p405-11	scripture	apparatus-explicit	IV. Reg. 20, 9	4Reg 20:9	A	verse		
+bon-hex-c16	5	apparatus:p406-2	p406-2	scripture	apparatus-explicit	Apoc. 17	Apoc 17	C	chapter		
+bon-hex-c16	5	apparatus:p406-2	p406-2	scripture	apparatus-explicit	Matth. 24, 21	Matth 24:21	A	verse		
+bon-hex-c16	5	apparatus:p406-2	p406-2	scripture	apparatus-explicit	I. Thess. 5, 3	1Thess 5:3	A	verse		
+bon-hex-c16	5	apparatus:p406-3	p406-3	scripture	apparatus-explicit	Apoc. 10, 6	Apoc 10:6	A	verse		
+bon-hex-c16	5	apparatus:p406-4	p406-4	scripture	apparatus-explicit	Levit. 25, 8	Lev 25:8	A	verse		
+bon-hex-c16	5	apparatus:p406-5	p406-5	scripture	apparatus-explicit	Gen. 4, 8	Gen 4:8	A	verse		
+bon-hex-c16	5	apparatus:p406-6	p406-6	scripture	apparatus-explicit	Gen. 1, 26	Gen 1:26	A	verse		
+bon-hex-c16	5	apparatus:p406-6	p406-6	scripture	apparatus-explicit	Ps. 8, 5	Ps 8:5	A	verse		
+bon-hex-c16	5	apparatus:p406-6	p406-6	scripture	apparatus-explicit	Hebr. 2, 7-9	Hebr 2:7-9	A	verse		
+bon-hex-c16	5	apparatus:p406-7	p406-7	scripture	apparatus-explicit	Gen. 2, 21	Gen 2:21	A	verse		
+bon-hex-c16	5	apparatus:p406-7	p406-7	crossref	logical	II. Sent. d. 18. a. 1. q. 1	bon-sent-II-d18-a1-q1		chunk		
+bon-hex-c16	5	apparatus:p406-8	p406-8	scripture	apparatus-explicit	Gen. 2, 15	Gen 2:15	A	verse		
+bon-hex-c16	5	apparatus:p406-8	p406-8	scripture	apparatus-explicit	Act. 4, 32	Act 4:32	A	verse		
+bon-hex-c16	5	apparatus:p406-8	p406-8	scripture	anaphor->apparatus-explicit	ibid.	Act 4:32	A	verse	yes	Act. 4, 32
+bon-hex-c16	5	apparatus:p406-9	p406-9	scripture	apparatus-explicit	Act. 2, 41	Act 2:41	A	verse		
+bon-hex-c16	5	apparatus:p406-9	p406-9	scripture	apparatus-explicit	Gen. 2, 9	Gen 2:9	A	verse		
+bon-hex-c16	5	apparatus:p406-9	p406-9	scripture	apparatus-explicit	II. Cor. 3, 6	2Cor 3:6	A	verse		
+bon-hex-c16	5	apparatus:p406-9	p406-9	scripture	apparatus-explicit	Hebr. 10, 38	Hebr 10:38	A	verse		
+bon-hex-c16	5	apparatus:p406-9	p406-9	crossref	page	supra pag. 378, nota 4	bon-hex-c10		chunk		
+bon-hex-c16	5	apparatus:p406-10	p406-10	scripture	apparatus-explicit	Gen. 2, 17	Gen 2:17	A	verse		
+bon-hex-c16	5	apparatus:p406-10	p406-10	scripture	apparatus-explicit	II. Cor. 3, 6	2Cor 3:6	A	verse		
+bon-hex-c16	5	apparatus:p406-10	p406-10	scripture	apparatus-explicit	Gal. 5, 2	Gal 5:2	A	verse		
+bon-hex-c16	5	apparatus:p407-1	p407-1	scripture	apparatus-explicit	Gal. 2, 11	Gal 2:11	A	verse		
+bon-hex-c16	5	apparatus:p407-1	p407-1	crossref	logical	IV. Sent. d. 3. p. II. a. 3. q. 2.	bon-sent-IV-d3-p2-a3-q2		chunk		
+bon-hex-c16	5	apparatus:p407-2	p407-2	scripture	apparatus-explicit	Gen. 3, 17	Gen 3:17	A	verse		
+bon-hex-c16	5	apparatus:p407-2	p407-2	scripture	apparatus-explicit	IV. Reg. 2, 24	4Reg 2:24	A	verse		
+bon-hex-c16	5	apparatus:p407-3	p407-3	scripture	apparatus-explicit	Gen. 6, 14	Gen 6:14	A	verse		
+bon-hex-c16	5	apparatus:p407-3	p407-3	scripture	apparatus-explicit	I. Petr. 3, 20	1Petr 3:20	A	verse		
+bon-hex-c16	5	apparatus:p407-5	p407-5	scripture	apparatus-explicit	Matth. 8, 25	Matth 8:25	A	verse		
+bon-hex-c16	5	apparatus:p407-5	p407-5	scripture	apparatus-explicit	Gen. 10, 8	Gen 10:8	A	verse		
+bon-hex-c16	5	apparatus:p407-5	p407-5	scripture	anaphor->apparatus-explicit	ibid.	Gen 10:8	A	verse	yes	Gen. 10, 8
+bon-hex-c16	5	apparatus:p407-6	p407-6	scripture	apparatus-explicit	Exod. 1, 8	Exod 1:8	A	verse		
+bon-hex-c16	5	apparatus:p407-7	p407-7	scripture	apparatus-explicit	Matth. 16, 18	Matth 16:18	A	verse		
+bon-hex-c16	5	apparatus:p407-7	p407-7	scripture	apparatus-explicit	II. Reg. 6, 12	2Reg 6:12	A	verse		
+bon-hex-c16	5	apparatus:p407-7	p407-7	scripture	anaphor->apparatus-explicit	ibid.	2Reg 6:12	A	verse	yes	II. Reg. 6, 12
+bon-hex-c16	5	apparatus:p408-1	p408-1	scripture	apparatus-explicit	Matth. 16, 19	Matth 16:19	A	verse		
+bon-hex-c16	5	apparatus:p408-2	p408-2	scripture	apparatus-explicit	IV. Reg. 19, 35	4Reg 19:35	A	verse		
+bon-hex-c16	5	apparatus:p408-2	p408-2	scripture	anaphor->apparatus-explicit	ibid.	4Reg 19:35	A	verse	yes	IV. Reg. 19, 35
+bon-hex-c16	5	apparatus:p408-4	p408-4	scripture	apparatus-explicit	IV. Reg. 22	4Reg 22	C	chapter		
+bon-hex-c16	5	apparatus:p408-4	p408-4	crossref	page	supra pag. 356, nota 3	bon-hex-c5		chunk		
+bon-hex-c16	5	apparatus:p408-6	p408-6	scripture	apparatus-explicit	Apoc. 7, 2	Apoc 7:2	A	verse		
+bon-hex-c16	5	apparatus:p408-6	p408-6	scripture	anaphor->apparatus-explicit	ibid.	Apoc 7:2	A	verse	yes	Apoc. 7, 2
+bon-hex-c16	5	apparatus:p408-7	p408-7	scripture	apparatus-explicit	Apoc. 21	Apoc 21	C	chapter		
+bon-hex-c16	5	apparatus:p408-7	p408-7	scripture	apparatus-explicit	Gal. 4	Gal 4	C	chapter		
+bon-hex-c16	5	apparatus:p408-8	p408-8	scripture	apparatus-explicit	Num. 33, 1	Num 33:1	A	verse		
 bon-hex-c2	5	latin_body	p336-1	scripture	body-ordinal	Ecclesiastici decimo quinto	Eccli 15:5	B	verse		
 bon-hex-c2	5	latin_body		scripture	body-ordinal	Matthaei septimo	Matth 7	C	chapter		
 bon-hex-c2	5	latin_body	p336-7	scripture	body-ordinal	Sapientiae septimo	Sap 7:26	B	verse		
