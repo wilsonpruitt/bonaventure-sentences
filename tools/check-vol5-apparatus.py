@@ -1769,7 +1769,10 @@ KNOWN_TOTALS = {
     381: 11,
     382: 9,
     383: 8,
-    384: 3,   # nn.1-2 Collatio XI, n.3 Collatio XII (pending until c12 lands)
+    384: 3,   # nn.1-2 Collatio XI, n.3 Collatio XII
+    385: 10,
+    386: 10,  # n.5 runs over the gutter; the right block opens unnumbered
+    387: 4,   # ALL FOUR are Collatio XII's -- Collatio XIII's par.1 carries no anchor
 }
 
 
