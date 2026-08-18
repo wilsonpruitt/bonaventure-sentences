@@ -21,9 +21,33 @@
 > `python3.11 tools/check-live-flags.py vol5` (scans 104; baseline **2 occurrences, both
 > `bon-brev-p6-c13`**). Read the scanned-chunk count before believing the verdict.
 >
-> ## ✅ PLATES: pp. 393–398 ARE ON DISK at 450 dpi — c15 needs **399–404**.
-> `python3.11 tools/extract-pages.py --volume vol5 --pages 399-404 --dpi 450`. ⚠ `df -h /` first —
-> ~9.7 GiB free; the build+deploy cycle transiently costs ~5 GB.
+> ## ✅ PLATES ARE ALREADY EXTRACTED — pp. 398–404 are on disk at 450 dpi.
+> Done at the end of the 2026-08-18 session, so **skip extraction and go straight to
+> `gutter-profile.py … --skew`, then `colcrop.py`**. ⚠ If `raw/vision/vol5/` is empty a gate has
+> since deleted them: `python3.11 tools/extract-pages.py --volume vol5 --pages 398-404 --dpi 450`.
+> ⚠ `df -h /` before any build — **~8.5 GiB free**, and the build+deploy cycle transiently costs
+> ~5 GB. Clear `site/.next` and `site/.vercel/output` first. `/tmp/colcrop` was emptied.
+>
+> ## ★ NEW TOOL — RUN `--skew` BEFORE MEASURING ANY LEAF (added 2026-08-18, `5d8785c`)
+> `python3.11 tools/gutter-profile.py <page> --skew` (optionally `<page> <lo> <hi> --skew` to screen
+> one region). It profiles in row slices, prints how far the gutter walks, and says whether one
+> split suffices — the thing c13 and c14 each worked out by hand. **A sub-60 px band has two
+> causes**: a heavily inked rule, or SKEW. It also states its own blind spot: a drift >80 px is
+> almost always a stacked region or the body/footer gap caught by one slice, so it names the
+> outlying slices and withholds the crop verdict instead of printing a wrong one.
+>
+> **Already run for you across c15's span — CONFIRM each against the direct profile before use:**
+>
+> | page | screen says |
+> |---|---|
+> | 399 | clean, drift 5 px → **single split ~1216** |
+> | 400 | mild real drift (~1305→1317) plus two artifact slices → **~1345**, confirm |
+> | 401 | clean, drift 6 px → **single split ~1181** |
+> | 402 | seven of eight slices agree; the 0.59 slice is the mid-page blank band → **~1376** |
+> | 403 | **boundary leaf** — Collatio XVI's matter fills 0.17–0.49. XV's own region (rows .50–.79) screens clean → **~1165** |
+>
+> ⚠ These are screens, not measurements. **The band midpoint from the direct per-column profile is
+> still what decides**, and p. 398's and p. 403's regions must each be profiled separately.
 >
 > ## What c15 inherits — verified, not assumed
 > - ⚠⚠ **p. 398 nn. 3–5 ARE FORWARDED TO YOU.** p. 398 carries **five** notes; **nn. 1–2 are
