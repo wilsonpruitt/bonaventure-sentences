@@ -15,9 +15,13 @@
 > 1. **The mid-work gate's `Dictae salutis` fix is still NOT LIVE** (`bon-hex-c8`, p. 372 n. 1).
 > 2. The About page's **"What Is Known to Be Wrong"** section — Wilson's to frame.
 >
-> ## ⛔ FIRST: EXTRACT THE PLATES FOR c12.
-> `python3.11 tools/extract-pages.py --volume vol5 --pages 385-391 --dpi 450`, then `colcrop.py`.
-> **p. 384 is already on disk.** ⚠ Check `df -h /` first — ~10 GiB free this session.
+> ## ✅ THE PLATES ARE ALREADY EXTRACTED — pp. 384–391 are on disk at 450 dpi.
+> Done at the end of the 2026-08-17 session, so **skip the extraction step and go straight to
+> `colcrop.py` / `gutter-profile.py`**. ⚠ If `raw/vision/vol5/` is empty when you look, a gate has
+> since deleted them — re-extract with
+> `python3.11 tools/extract-pages.py --volume vol5 --pages 385-391 --dpi 450`.
+> ⚠ Check `df -h /` before any build or deploy — it was at **~9.5 GiB free** and the build+deploy
+> cycle transiently costs ~5 GB. Clear `site/.next` and `site/.vercel/output` first.
 >
 > ## What c12 inherits — verified, not assumed
 > - ⚠⚠ **p. 384 n. 3 IS FORWARDED TO YOU** — text `Epist. II. Cor. 3, 18. — In seqq. datur summa
