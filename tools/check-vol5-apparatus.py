@@ -1762,6 +1762,9 @@ KNOWN_TOTALS = {
     374: 10,  # n.10 runs over the page foot into p.375's left block, unnumbered
     375: 9,
     376: 10,
+    377: 5,
+    378: 8,
+    379: 6,   # nn.1-5 Collatio X, n.6 Collatio XI (pending until c11 lands)
 }
 
 

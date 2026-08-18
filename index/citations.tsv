@@ -19431,6 +19431,30 @@ bon-hex-c1	5	apparatus:p335-9	p335-9	scripture	apparatus-explicit	Apoc. 1, 13	Ap
 bon-hex-c1	5	apparatus:p335-9	p335-9	crossref	page	supra pag. 261, nota 3	bon-brev-p5-c7+bon-brev-p5-c8		page-multi		
 bon-hex-c1	5	apparatus:p335-9	p335-9	scripture	apparatus-explicit	Apoc. 5, 6	Apoc 5:6	A	verse		
 bon-hex-c1	5	apparatus:p335-9	p335-9	scripture	apparatus-explicit	Gen. 1, 3	Gen 1:3	A	verse		
+bon-hex-c10	5	apparatus:p377-1	p377-1	scripture	apparatus-explicit	Gen. 1, 8	Gen 1:8	A	verse		
+bon-hex-c10	5	apparatus:p377-1	p377-1	crossref	page	supra pag. 369, nota 4	bon-hex-c8		chunk		
+bon-hex-c10	5	apparatus:p377-2	p377-2	crossref	anaphor->page	ibid.	bon-hex-c8		chunk	yes	supra pag. 369, nota 4
+bon-hex-c10	5	apparatus:p377-2	p377-2	scripture	apparatus-explicit	Rom. 4, 17	Rom 4:17	A	verse		
+bon-hex-c10	5	apparatus:p377-3	p377-3	scripture	anaphor->apparatus-explicit	ibid.	Rom 4:17	A	verse	yes	Rom. 4, 17
+bon-hex-c10	5	apparatus:p377-4	p377-4	crossref	page	supra pag. 221, nota 5	bon-brev-p2-c3+bon-brev-p2-c4		page-multi		
+bon-hex-c10	5	apparatus:p377-5	p377-5	scripture	apparatus-explicit	I. Cor. 15, 41	1Cor 15:41	A	verse		
+bon-hex-c10	5	apparatus:p377-5	p377-5	scripture	apparatus-explicit	II. Cor. 3, 18	2Cor 3:18	A	verse		
+bon-hex-c10	5	apparatus:p378-1	p378-1	scripture	apparatus-explicit	Matth. 1, 2	Matth 1:2	A	verse		
+bon-hex-c10	5	apparatus:p378-1	p378-1	crossref	page	supra pag. 53, nota 1	tom5:p53		forward		
+bon-hex-c10	5	apparatus:p378-2	p378-2	scripture	apparatus-explicit	Exod. 3, 13	Exod 3:13	A	verse		
+bon-hex-c10	5	apparatus:p378-3	p378-3	scripture	apparatus-explicit	Gen. 1, 26	Gen 1:26	A	verse		
+bon-hex-c10	5	apparatus:p378-3	p378-3	crossref	logical	I. Sent. d. 31. p. II. a. 1. q. 1.	bon-sent-I-d31-p2-a1-q1		chunk		
+bon-hex-c10	5	apparatus:p378-3	p378-3	crossref	logical	II. Sent. d. 16. a. 1. q. 1.	bon-sent-II-d16-a1-q1		chunk		
+bon-hex-c10	5	apparatus:p378-4	p378-4	scripture	apparatus-explicit	Psalm. 117, 19	Ps 117:19	A	verse		
+bon-hex-c10	5	apparatus:p378-4	p378-4	scripture	apparatus-explicit	Rom. 1, 17	Rom 1:17	A	verse		
+bon-hex-c10	5	apparatus:p378-4	p378-4	scripture	apparatus-explicit	Gal. 3, 11	Gal 3:11	A	verse		
+bon-hex-c10	5	apparatus:p378-4	p378-4	scripture	apparatus-explicit	Habac. 2, 4	Habac 2:4	A	verse		
+bon-hex-c10	5	apparatus:p378-5	p378-5	scripture	apparatus-explicit	Exod. 3, 14	Exod 3:14	A	verse		
+bon-hex-c10	5	apparatus:p378-5	p378-5	scripture	anaphor->apparatus-explicit	ibid.	Exod 3:14	A	verse	yes	Exod. 3, 14
+bon-hex-c10	5	apparatus:p378-7	p378-7	scripture	apparatus-explicit	Ps. 13, 1	Ps 13:1	A	verse		
+bon-hex-c10	5	apparatus:p378-8	p378-8	crossref	page	supra pag. 304, nota 6	bon-itin-c3		chunk		
+bon-hex-c10	5	apparatus:p379-2	p379-2	crossref	logical	IV. Sent. d. 12. p. I. a. 1.	bon-sent-IV-d12-p1-a1-q1+bon-sent-IV-d12-p1-a1-q2+bon-sent-IV-d12-p1-a1-q3		articulus		
+bon-hex-c10	5	apparatus:p379-4	p379-4	crossref	logical	I. Sent. d. 8. p. II. q. 4.	bon-sent-I-d8-p2-a1-q4		chunk		
 bon-hex-c2	5	latin_body	p336-1	scripture	body-ordinal	Ecclesiastici decimo quinto	Eccli 15:5	B	verse		
 bon-hex-c2	5	latin_body		scripture	body-ordinal	Matthaei septimo	Matth 7	C	chapter		
 bon-hex-c2	5	latin_body	p336-7	scripture	body-ordinal	Sapientiae septimo	Sap 7:26	B	verse		

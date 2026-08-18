@@ -244,6 +244,7 @@ const WORKS = {
       7: "Collatio VII: De prima visione tractatio quarta, quae est de triplici defectu virtutum in philosophis, secundo, de fide sanante, rectificante, ordinante",
       8: "Collatio VIII: De secunda visione, scilicet intelligentiae per fidem sublevatae, tractatio prima, quae agit de altitudine fidei",
       9: "Collatio IX: De secunda visione tractatio secunda, quae est de triplici firmitate fidei",
+      10: "Collatio X: De secunda visione tractatio tertia, quae incipit agere de fidei speciositate",
       24: "Scholion",
     },
   },
