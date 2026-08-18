@@ -64,7 +64,7 @@ mirror for the right. Both were read and both are clean at every height.
 
 | page | notes | block split | anchor split | relation |
 |---|---|---|---|---|
-| 387 | **NONE — all four are Collatio XII's** | — | XIII's ¶ 1 carries **no anchor at all** | inherited nothing |
+| 387 | **NONE — all four are Collatio XII's** | — | XIII's text **on this leaf** carries no anchor | inherited nothing |
 | 388 | nn. 1–9 | 1–3 L, 4–9 R | 1–4 L, 5–9 R | left block **underruns by one** |
 | 389 | nn. 1–8 | 1–4 L, runover + 5–8 R | 1–5 L, 6–8 R | left block **underruns by one** |
 | 390 | nn. 1–7 | 1–4 L, 5–7 R | 1–4 L, 5–7 R | they **coincide** |
@@ -77,9 +77,17 @@ p. 391 is the leaf that would have been got wrong.
 
 ## ⚠ Nothing is inherited, and that is a verified statement
 
-p. 387's whole footer register belongs to Collatio XII, because **Collatio XIII's ¶ 1 — the entire
-Genesis lemma *Congregentur aquae, quae sub caelo sunt…* — carries no apparatus anchor.** Confirmed
-at full magnification on the band, not at ⅓ scale. c12's `KNOWN_TOTALS` entry `387: 4` stands.
+p. 387's whole footer register belongs to Collatio XII, because **the part of Collatio XIII's ¶ 1
+that stands on p. 387 carries no apparatus anchor.** Confirmed at full magnification on the band,
+not at ⅓ scale. c12's `KNOWN_TOTALS` entry `387: 4` stands.
+
+⚠ **Stated precisely, because the loose form of it is false.** The Genesis lemma *Congregentur
+aquae…* **does** carry an anchor — Quaracchi's `Gen. 1, 9. seqq.` — but it sits at the **end** of
+the lemma, on *…cuius semen in semetipso sit super terram¹*, which prints at the head of **p. 388's
+left column**. So the anchor is p. 388 n. 1, not a p. 387 note. "Collatio XIII's ¶ 1 carries no
+anchor" would be the wrong generalisation to forward; **the true statement is about the leaf, not
+the paragraph.** Exactly the class of over-broad summary sentence the standing rule warns is written
+once and never re-derived.
 
 ## ⚠ Nothing is forwarded either — and for the same structural reason, one leaf on
 

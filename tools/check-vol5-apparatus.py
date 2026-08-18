@@ -1772,7 +1772,12 @@ KNOWN_TOTALS = {
     384: 3,   # nn.1-2 Collatio XI, n.3 Collatio XII
     385: 10,
     386: 10,  # n.5 runs over the gutter; the right block opens unnumbered
-    387: 4,   # ALL FOUR are Collatio XII's -- Collatio XIII's par.1 carries no anchor
+    387: 4,   # ALL FOUR are Collatio XII's -- XIII's text on this leaf carries no anchor
+    388: 9,
+    389: 8,   # n.4 runs over the gutter; the right block opens unnumbered
+    390: 7,   # block and anchor splits coincide
+    391: 9,   # n.5 runs over the gutter; the right block opens unnumbered
+    392: 7,   # ALL SEVEN are Collatio XIII's -- Collatio XIV contributes only heading+Summarium
 }
 
 
