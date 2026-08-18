@@ -1,6 +1,67 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — `bon-hex-c10` (Collatio X), WHICH OPENS AT THE HEAD OF p. 377.
+> # ▶▶▶ START HERE — `bon-hex-c11` (Collatio XI), WHICH OPENS PART-WAY DOWN p. 379.
+>
+> **State (verified at `afdc1ff`; `origin/master` is 7 behind — push is protected and needs
+> Wilson's per-action OK).** **Collationes I–X are Tier 2.** c10 = pp. 377–379, **18 ¶¶,
+> 18 apparatus entries, zero `[?]` flags**. Suite at that commit:
+> `check-vol5-apparatus.py` **100 chunks / 1,306 entries** (one legitimate PENDING: p. 379 n. 6) ·
+> `check-vol5-census.py` **100/100**, 111 runovers (98 gutter-crossing, 13 page-crossing) ·
+> `polish-style-scan --volume 5` CLEAN · `build-content.mjs` **2033/2033, 8 books** ·
+> `build-citations.py` corpus QA **228, unchanged**, c10 contributing **24 records, zero dangling,
+> zero QA flags**.
+>
+> ## ⚠ STILL OWED BEFORE/WITH THE NEXT DEPLOY
+> 1. **The mid-work gate's `Dictae salutis` fix is still NOT LIVE** (`bon-hex-c8`, p. 372 n. 1).
+> 2. The About page's **"What Is Known to Be Wrong"** section — Wilson's to frame.
+>
+> ## ⛔ FIRST: EXTRACT THE PLATES FOR c11.
+> `python3.11 tools/extract-pages.py --volume vol5 --pages 380-386 --dpi 450`, then `colcrop.py`.
+> **pp. 379 and 380 are already on disk.** ⚠ Check `df -h /` first — it sat at ~10 GiB this session.
+>
+> ## What c11 inherits — verified, not assumed
+> - ⚠⚠ **p. 379 n. 6 IS FORWARDED TO YOU** — text `Epist. II. Cor. 3, 18.`, answering to the anchor
+>   on *…tanquam a Domini spiritu⁶* in **Collatio XI's own ¶ 1**, which prints at the FOOT of
+>   p. 379, below Collatio XI's heading and Summarium. **nn. 1–5 are Collatio X's and must NOT be
+>   re-claimed.** `KNOWN_TOTALS` carries `379: 6` and the check reports a legitimate PENDING until
+>   c11 lands. **Verify its position and column yourself.**
+> - **Collatio XI opens part-way down p. 379**, below Collatio X's ¶ 18. Heading, subtitle and
+>   Summarium are all full measure. Subtitle read off the band: *De secunda visione tractatio
+>   quarta, quae est secunda de speciositate fidei et agit de speculatione Dei trini.*
+> - **Its Summarium runs to 25** — count the body against it; c9 and c10 both agreed exactly, c6
+>   ran three short.
+> - ⚠⚠ **p. 379 HAS NO WHOLE-PAGE GUTTER** — four stacked regions. **1151 is Collatio X's region,
+>   NOT yours**; profile Collatio XI's own region (the bottom two-column band) separately.
+>   ★ p. 380's gutter is **1399** (default 1399 on a 61 px run, band 1369–1429, CONFIRMED).
+> - ⚠ Fix the far end from the next real `COLLATIO XII.` header on the band — the raw has it at
+>   **L65706**, so the far end is near p. 385. **Never from a running head.**
+> - ⚠ **Whether `COLLATIO XI.` carries an anchor is your first band question** — ten openings read
+>   and only `COLLATIO I.` has one.
+>
+> ## ★★ What Collatio X paid for — carry these
+> - **★★★ A FOOTER BLOCK CAN ANSWER TO NOTHING IN THE COLUMN ABOVE IT.** p. 379's left block holds
+>   three notes while Collatio X's left column there carries **no anchor at all**: anchor split
+>   **0 L / 6 R** against a block split of 3/3. Dividing that register by block would misfile three
+>   notes. **Read anchors, only anchors** — this is the strongest instance in the work so far.
+> - **★★ A FOUR-REGION LEAF RETURNS NO GUTTER AT ALL**, and `gutter-profile.py` says so outright
+>   rather than inventing one. Profile the region you are transcribing. Two chunks running.
+> - **★★★ WHEN THE QUESTION IS A COUNTABLE NUMBER OF MINIMS, RE-EXTRACT THE LEAF AT 900 dpi RATHER
+>   THAN FLAG IT.** p. 377 n. 5's *pro* **nudus** was undecidable at 450 dpi (*mudus* / *mundus* /
+>   *nudus*); at 900 dpi it shows four minims before the `d`, one fewer than the *mund-* of
+>   *mundanus* on the line above, and the editors' *"utraque lectio non placet"* corroborates it.
+>   `pdftoppm -r 900 -f <pdf-page> -l <pdf-page>` on one leaf is cheap. **That is a settlement, not
+>   a conjecture** — the same discipline as the frozen stroke-count rule for sigla.
+> - **★ REUSE `speciositas` → "comeliness"** — frozen at Itinerarium c2 against "beauty", and
+>   collationes X–XI turn on the word. Do not re-decide it. Also frozen here: *aevum* →
+>   **"aeviternity"** (¶ 14 sets *tempus · aevum · aeternitas* in one series).
+>
+> ## Cadence from here
+> **One gate remains: the work close**, at the Scholion (~p. 454). The deploy rides with it. Push
+> and deploy are both protected. **12 collationes remain after c11.**
+>
+> ---
+>
+> # (superseded) `bon-hex-c10` — DONE 2026-08-17 (`afdc1ff`)
 >
 > **State (verified at `6160c71`; `origin/master` is 3 behind — push is protected and needs
 > Wilson's per-action OK).** **Collationes I–IX are Tier 2.** c9 = pp. 372–376, **29 ¶¶,
