@@ -2,8 +2,10 @@
 
 > # ▶▶▶ START HERE — `bon-hex-c12` (Collatio XII), WHICH OPENS PART-WAY DOWN p. 384.
 >
-> **State (verified at `e7a9f14`; `origin/master` is 10 behind — push is protected and needs
-> Wilson's per-action OK).** **Collationes I–XI are Tier 2.** c11 = pp. 379–384, **25 ¶¶ plus an
+> **State (verified at `e7a9f14`; ✅ **PUSHED 2026-08-17 — `origin/master` = `4dffa03`, 0 ahead,
+> tree clean**. ⚠ That is a claim about a system outside the repo and it expires — re-derive with
+> `git rev-list --count origin/master..master` rather than trusting this line.)**
+> **Collationes I–XI are Tier 2.** c11 = pp. 379–384, **25 ¶¶ plus an
 > unnumbered epilogue, 40 apparatus entries, zero `[?]` flags**. Suite at that commit:
 > `check-vol5-apparatus.py` **101 chunks / 1,346 entries** (one legitimate PENDING: p. 384 n. 3) ·
 > `check-vol5-census.py` **101/101**, 115 runovers (102 gutter-crossing, 13 page-crossing) ·
