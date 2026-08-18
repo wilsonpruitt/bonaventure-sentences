@@ -1778,6 +1778,12 @@ KNOWN_TOTALS = {
     390: 7,   # block and anchor splits coincide
     391: 9,   # n.5 runs over the gutter; the right block opens unnumbered
     392: 7,   # ALL SEVEN are Collatio XIII's -- Collatio XIV contributes only heading+Summarium
+    393: 7,   # n.4 runs over the gutter; the right block opens unnumbered
+    394: 8,   # n.4 runs over the gutter
+    395: 9,
+    396: 8,
+    397: 10,  # n.5 runs over the gutter
+    398: 5,   # nn.1-2 Collatio XIV, nn.3-5 Collatio XV (pending until c15 lands)
 }
 
 
