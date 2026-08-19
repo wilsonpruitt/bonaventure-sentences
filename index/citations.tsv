@@ -19834,6 +19834,83 @@ bon-hex-c16	5	apparatus:p408-6	p408-6	scripture	anaphor->apparatus-explicit	ibid
 bon-hex-c16	5	apparatus:p408-7	p408-7	scripture	apparatus-explicit	Apoc. 21	Apoc 21	C	chapter		
 bon-hex-c16	5	apparatus:p408-7	p408-7	scripture	apparatus-explicit	Gal. 4	Gal 4	C	chapter		
 bon-hex-c16	5	apparatus:p408-8	p408-8	scripture	apparatus-explicit	Num. 33, 1	Num 33:1	A	verse		
+bon-hex-c17	5	latin_body		crossref	relative-bare	ibid			unresolvable		
+bon-hex-c17	5	apparatus:p409-1	p409-1	scripture	apparatus-explicit	Gen. 1, 12	Gen 1:12	A	verse		
+bon-hex-c17	5	apparatus:p409-2	p409-2	scripture	apparatus-explicit	Matth. 4, 4	Matth 4:4	A	verse		
+bon-hex-c17	5	apparatus:p409-2	p409-2	scripture	apparatus-explicit	Gen. 1, 12	Gen 1:12	A	verse		
+bon-hex-c17	5	apparatus:p409-3	p409-3	scripture	apparatus-explicit	II. Tim. 2, 6	2Tim 2:6	A	verse		
+bon-hex-c17	5	apparatus:p409-4	p409-4	scripture	apparatus-explicit	Gen. 2, 8	Gen 2:8	A	verse		
+bon-hex-c17	5	apparatus:p409-5	p409-5	scripture	apparatus-explicit	Gen. 2, 9	Gen 2:9	A	verse		
+bon-hex-c17	5	apparatus:p409-6	p409-6	scripture	apparatus-explicit	Luc. 10, 20	Luc 10:20	A	verse		
+bon-hex-c17	5	apparatus:p409-6	p409-6	scripture	apparatus-explicit	II. Cor. 12, 2	2Cor 12:2	A	verse		
+bon-hex-c17	5	apparatus:p410-1	p410-1	scripture	apparatus-explicit	II. Tim. 2, 19	2Tim 2:19	A	verse		
+bon-hex-c17	5	apparatus:p410-2	p410-2	scripture	apparatus-explicit	Matth. 15, 13	Matth 15:13	A	verse		
+bon-hex-c17	5	apparatus:p410-2	p410-2	scripture	apparatus-explicit	Eccli. 24, 42	Eccli 24:42	A	verse		
+bon-hex-c17	5	apparatus:p410-2	p410-2	scripture	apparatus-explicit	Hebr. 9, 19	Hebr 9:19	A	verse		
+bon-hex-c17	5	apparatus:p410-3	p410-3	scripture	apparatus-explicit	Thren. 1, 8	Thren 1:8	A	verse		
+bon-hex-c17	5	apparatus:p410-3	p410-3	scripture	anaphor->apparatus-explicit	ibid.	Thren 1:8	A	verse	yes	Thren. 1, 8
+bon-hex-c17	5	apparatus:p410-5	p410-5	scripture	apparatus-explicit	Gen. 2, 15	Gen 2:15	A	verse		
+bon-hex-c17	5	apparatus:p410-6	p410-6	scripture	apparatus-explicit	Gen. 15, 2	Gen 15:2	A	verse		
+bon-hex-c17	5	apparatus:p410-6	p410-6	scripture	apparatus-explicit	Luc. 1, 26	Luc 1:26	A	verse		
+bon-hex-c17	5	apparatus:p410-6	p410-6	scripture	apparatus-explicit	Exod. 32, 31	Exod 32:31	A	verse		
+bon-hex-c17	5	apparatus:p410-6	p410-6	scripture	apparatus-explicit	Eccli. 44, 10	Eccli 44:10	A	verse		
+bon-hex-c17	5	apparatus:p410-7	p410-7	scripture	apparatus-explicit	Prov. 15, 1	Prov 15:1	A	verse		
+bon-hex-c17	5	apparatus:p410-7	p410-7	scripture	apparatus-explicit	I. Reg. 25, 3	1Reg 25:3	A	verse		
+bon-hex-c17	5	apparatus:p411-1	p411-1	scripture	apparatus-explicit	II. Cor. 5, 1	2Cor 5:1	A	verse		
+bon-hex-c17	5	apparatus:p411-1	p411-1	scripture	apparatus-explicit	Ioan. 14, 2	Ioan 14:2	A	verse		
+bon-hex-c17	5	apparatus:p411-1	p411-1	scripture	apparatus-explicit	Ps. 35, 8-10	Ps 35:8-10	A	verse		
+bon-hex-c17	5	apparatus:p411-1	p411-1	scripture	apparatus-explicit	Apoc. 7, 17	Apoc 7:17	A	verse		
+bon-hex-c17	5	apparatus:p411-1	p411-1	scripture	apparatus-explicit	Ps. 15, 10	Ps 15:10	A	verse		
+bon-hex-c17	5	apparatus:p411-2	p411-2	scripture	apparatus-explicit	Psalm. 10, 7	Ps 10:7	A	verse		
+bon-hex-c17	5	apparatus:p411-2	p411-2	scripture	apparatus-explicit	Apoc. 21, 8	Apoc 21:8	A	verse		
+bon-hex-c17	5	apparatus:p411-2	p411-2	scripture	apparatus-explicit	Apoc. 14, 11	Apoc 14:11	A	verse		
+bon-hex-c17	5	apparatus:p411-2	p411-2	scripture	apparatus-explicit	Gen. 1, 2	Gen 1:2	A	verse		
+bon-hex-c17	5	apparatus:p411-3	p411-3	scripture	apparatus-explicit	Prov. 6, 23	Prov 6:23	A	verse		
+bon-hex-c17	5	apparatus:p411-3	p411-3	scripture	apparatus-explicit	Matth. 19, 17	Matth 19:17	A	verse		
+bon-hex-c17	5	apparatus:p411-3	p411-3	scripture	anaphor->apparatus-explicit	ibid.	Matth 19:17	A	verse	yes	Matth. 19, 17
+bon-hex-c17	5	apparatus:p411-3	p411-3	scripture	apparatus-explicit	Ps. 118, 1	Ps 118:1	A	verse		
+bon-hex-c17	5	apparatus:p411-5	p411-5	scripture	apparatus-explicit	Psalm. 1, 1-3	Ps 1:1-3	A	verse		
+bon-hex-c17	5	apparatus:p411-5	p411-5	scripture	apparatus-explicit	Eccli. 3, 22	Eccli 3:22	A	verse		
+bon-hex-c17	5	apparatus:p411-6	p411-6	scripture	apparatus-explicit	Psalm. 7, 13	Ps 7:13	A	verse		
+bon-hex-c17	5	apparatus:p411-6	p411-6	scripture	apparatus-explicit	Ps. 18, 8	Ps 18:8	A	verse		
+bon-hex-c17	5	apparatus:p411-7	p411-7	scripture	apparatus-explicit	Psalm. 90, 7	Ps 90:7	A	verse		
+bon-hex-c17	5	apparatus:p412-2	p412-2	scripture	apparatus-explicit	Exod. 3, 1	Exod 3:1	A	verse		
+bon-hex-c17	5	apparatus:p412-2	p412-2	scripture	apparatus-explicit	I. Reg. 16	1Reg 16	C	chapter		
+bon-hex-c17	5	apparatus:p412-2	p412-2	scripture	apparatus-explicit	Isai. 38	Isai 38	C	chapter		
+bon-hex-c17	5	apparatus:p412-2	p412-2	scripture	apparatus-explicit	IV. Reg. 20, 1	4Reg 20:1	A	verse		
+bon-hex-c17	5	apparatus:p412-2	p412-2	scripture	apparatus-explicit	III. Reg. 17, 1	3Reg 17:1	A	verse		
+bon-hex-c17	5	apparatus:p412-2	p412-2	scripture	apparatus-explicit	Luc. 1, 80	Luc 1:80	A	verse		
+bon-hex-c17	5	apparatus:p412-3	p412-3	scripture	apparatus-explicit	Hebr. 11, 37	Hebr 11:37	A	verse		
+bon-hex-c17	5	apparatus:p412-3	p412-3	scripture	anaphor->apparatus-explicit	ibid.	Hebr 11:37	A	verse	yes	Hebr. 11, 37
+bon-hex-c17	5	apparatus:p412-4	p412-4	scripture	apparatus-explicit	Esther 1, 14	Esth 1:14	A	verse		
+bon-hex-c17	5	apparatus:p412-4	p412-4	scripture	apparatus-explicit	Apoc. 12, 7	Apoc 12:7	A	verse		
+bon-hex-c17	5	apparatus:p412-5	p412-5	scripture	apparatus-explicit	Mich. 7, 5	Mich 7:5	A	verse		
+bon-hex-c17	5	apparatus:p412-6	p412-6	scripture	apparatus-explicit	Sap. 14, 11	Sap 14:11	A	verse		
+bon-hex-c17	5	apparatus:p412-6	p412-6	scripture	apparatus-explicit	Eccle. 1, 2	Eccle 1:2	A	verse		
+bon-hex-c17	5	apparatus:p412-6	p412-6	scripture	apparatus-explicit	Ps. 118, 37	Ps 118:37	A	verse		
+bon-hex-c17	5	apparatus:p412-6	p412-6	scripture	apparatus-explicit	I. Tim. 6, 7	1Tim 6:7	A	verse		
+bon-hex-c17	5	apparatus:p412-7	p412-7	scripture	apparatus-explicit	Psalm. 124, 2	Ps 124:2	A	verse		
+bon-hex-c17	5	apparatus:p412-7	p412-7	scripture	apparatus-explicit	IV. Reg. 6, 17	4Reg 6:17	A	verse		
+bon-hex-c17	5	apparatus:p412-7	p412-7	scripture	apparatus-explicit	Gen. 32, 2	Gen 32:2	A	verse		
+bon-hex-c17	5	apparatus:p412-7	p412-7	scripture	apparatus-explicit	Ps. 26, 1	Ps 26:1	A	verse		
+bon-hex-c17	5	apparatus:p412-7	p412-7	scripture	apparatus-explicit	Ps. 123, 1	Ps 123:1	A	verse		
+bon-hex-c17	5	apparatus:p412-8	p412-8	scripture	apparatus-explicit	Psalm. 18, 2	Ps 18:2	A	verse		
+bon-hex-c17	5	apparatus:p412-8	p412-8	scripture	apparatus-explicit	Eccli. 43, 1	Eccli 43:1	A	verse		
+bon-hex-c17	5	apparatus:p413-1	p413-1	scripture	apparatus-explicit	Apoc. 21, 19	Apoc 21:19	A	verse		
+bon-hex-c17	5	apparatus:p413-2	p413-2	scripture	apparatus-explicit	Iob 40, 20	Iob 40:20	A	verse		
+bon-hex-c17	5	apparatus:p413-3	p413-3	scripture	apparatus-explicit	Levit. 1, 14	Lev 1:14	A	verse		
+bon-hex-c17	5	apparatus:p413-3	p413-3	scripture	anaphor->apparatus-explicit	ibid.	Lev 1:14	A	verse	yes	Levit. 1, 14
+bon-hex-c17	5	apparatus:p413-4	p413-4	scripture	apparatus-explicit	Eccli. 21, 2	Eccli 21:2	A	verse		
+bon-hex-c17	5	apparatus:p413-4	p413-4	scripture	apparatus-explicit	Levit. 1, 2	Lev 1:2	A	verse		
+bon-hex-c17	5	apparatus:p413-8	p413-8	scripture	apparatus-explicit	Ioan. 7, 38	Ioan 7:38	A	verse		
+bon-hex-c17	5	apparatus:p413-8	p413-8	scripture	apparatus-explicit	Isai. 12, 3	Isai 12:3	A	verse		
+bon-hex-c17	5	apparatus:p413-9	p413-9	scripture	apparatus-explicit	Gen. 2, 9	Gen 2:9	A	verse		
+bon-hex-c17	5	apparatus:p413-9	p413-9	scripture	apparatus-explicit	Isai. 8, 6	Isai 8:6	A	verse		
+bon-hex-c17	5	apparatus:p413-10	p413-10	scripture	apparatus-explicit	Ioan. 9, 7	Ioan 9:7	A	verse		
+bon-hex-c17	5	apparatus:p413-10	p413-10	scripture	apparatus-explicit	Eccli. 24, 5	Eccli 24:5	A	verse		
+bon-hex-c17	5	apparatus:p414-1	p414-1	scripture	apparatus-explicit	Isai. 8, 7	Isai 8:7	A	verse		
+bon-hex-c17	5	apparatus:p414-2	p414-2	scripture	apparatus-explicit	Exod. 3, 22	Exod 3:22	A	verse		
+bon-hex-c17	5	apparatus:p414-3	p414-3	scripture	apparatus-explicit	Matth. 4, 4	Matth 4:4	A	verse		
 bon-hex-c2	5	latin_body	p336-1	scripture	body-ordinal	Ecclesiastici decimo quinto	Eccli 15:5	B	verse		
 bon-hex-c2	5	latin_body		scripture	body-ordinal	Matthaei septimo	Matth 7	C	chapter		
 bon-hex-c2	5	latin_body	p336-7	scripture	body-ordinal	Sapientiae septimo	Sap 7:26	B	verse		

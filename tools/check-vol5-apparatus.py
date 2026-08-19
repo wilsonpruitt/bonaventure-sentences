@@ -1794,6 +1794,12 @@ KNOWN_TOTALS = {
     406: 10,  # both blocks open numbered; no runover
     407: 7,   # n.5 runs over the gutter; n.7 runs over the PAGE into p.408's left block
     408: 8,   # left block opens unnumbered with p.407 n.7's tail; nothing forwarded to XVII
+    409: 6,   # Collatio XVII opens at the head of the leaf; block and anchor splits coincide
+    410: 7,   # SKEWED leaf; n.5 runs over the gutter, right block opens unnumbered
+    411: 7,   # n.4 runs over the gutter; right block opens unnumbered
+    412: 8,   # n.2 runs over the gutter; n.1 is long enough to push five entries right
+    413: 10,  # both blocks open numbered; no runover
+    414: 4,   # BOUNDARY LEAF: nn.1-3 are Collatio XVII's, n.4 is Collatio XVIII's -- PENDING until XVIII lands
 }
 
 
