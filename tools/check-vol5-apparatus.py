@@ -1805,6 +1805,11 @@ KNOWN_TOTALS = {
     417: 9,   # both blocks open numbered; the S. Bonav. signature line is not an entry
     418: 9,   # both blocks open numbered; no runover
     419: 5,   # BOUNDARY LEAF: all five are Collatio XVIII's; n.4 runs over the gutter
+    420: 9,   # Collatio XIX's register opens here, not on p. 419; n.8 runs over the gutter
+    421: 8,   # both blocks open numbered; no runover
+    422: 8,   # n.4 runs over the gutter; right block opens unnumbered
+    423: 11,  # both blocks open numbered; no runover
+    424: 7,   # BOUNDARY LEAF: all seven are Collatio XIX's; Collatio XX carries no anchor here
 }
 
 

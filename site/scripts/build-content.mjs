@@ -253,6 +253,7 @@ const WORKS = {
       16: "Collatio XVI: De tertia visione tractatio quarta, quae prosequitur agere de theoriis ex Scriptura germinantibus, et quidem ratione fructuum in coaptatione temporum, quatenus haec sibi mutuo correspondent; et in specie explicatur comparatio septenarii secundum correspondentiam trium temporum",
       17: "Collatio XVII: De tertia visione tractatio quinta, quae agit de theoriis Scripturae significatis per fructus, scilicet de considerationibus reficientibus intellectum et affectum, et primo quidem de reficientibus intellectum",
       18: "Collatio XVIII: De tertia visione tractatio sexta, quae agit de theoriis Scripturae significatis per fructus, et quidem quatenus reficiunt affectum",
+      19: "Collatio XIX: De tertia visione tractatio septima et ultima, quae agit de recta via et ratione, qua fructus Scripturae percipiantur, sive qua per scientiam et sanctitatem ad sapientiam perveniatur",
       24: "Scholion",
     },
   },
