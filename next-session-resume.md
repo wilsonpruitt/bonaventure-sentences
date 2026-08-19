@@ -41,8 +41,12 @@
 >   perveniatur,* then a full-measure Summarium that **runs over onto p. 420** — it breaks on p. 419
 >   at *…Quatuor proprietates vitae sanctae; primo debet esse vita*. Its visible entries on p. 419
 >   already run to **19**. ⚠⚠ **DO NOT TRUST THAT AS A COUNT — count the body.**
-> - **XIX is the LAST collatio**; after it comes only the work's Scholion (`bon-hex-scholion`,
->   ~pp. 450–454). *De septem donis* opens at p. 457 and bounds the far end.
+> - ⚠ **XIX IS *NOT* THE LAST COLLATIO — DO NOT READ THE SUBTITLE THAT WAY.** *tractatio septima
+>   **et ultima*** means the last treatment **of the third vision**, not the last collation.
+>   `COLLATIO XX.` stands at raw **L71776**, XXI at **L72796**, XXII at **L73700**, XXIII at
+>   **L74808**; XX–XXIII treat the fourth vision. **Four collationes follow c19**, then the work's
+>   Scholion (`bon-hex-scholion`, ~pp. 450–454). *De septem donis* opens at p. 457 and bounds the
+>   far end.
 > - **Raw L71031 → ~end of the collationes.** Fix the far end positively on the band from the printed
 >   header that follows, never from a running head — **p. 419's own running head already read
 >   `COLLATIO XIX.` while Collatio XVIII filled the top half of the leaf.**
@@ -85,7 +89,7 @@
 >
 > ## Cadence from here
 > **One gate remains: the work close**, at the Scholion (~p. 454). The deploy rides with it. Push
-> and deploy are both protected. **After c19 only `bon-hex-scholion` remains.**
+> and deploy are both protected. **4 collationes remain after c19, then the Scholion.**
 
 ---
 
