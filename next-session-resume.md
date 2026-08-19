@@ -1,6 +1,92 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — `bon-hex-c19` (Collatio XIX), WHICH OPENS **PART-WAY DOWN p. 419**, NOT AT A LEAF HEAD.
+> # ▶▶▶ START HERE — `bon-hex-c20` (Collatio XX), WHICH OPENS **PART-WAY DOWN p. 424**, NOT AT A LEAF HEAD.
+>
+> **State (verified in-session; ⚠ this is a claim about a system outside the repo and it expires —
+> re-derive with `git fetch && git rev-list --count origin/master..master`.)**
+> **Collationes I–XIX are Tier 2.** c19 = pp. 419–424, **27 ¶¶, 43 apparatus entries owned, TWO
+> `[?]` flags** (a deliberate editorial lacuna — see below). Suite in-session:
+> `check-vol5-apparatus.py` **109 chunks / 1,671 entries, no PENDING** · `check-vol5-census.py`
+> **109/109**, 134 runovers (120 gutter-crossing, 14 page-crossing) · `polish-style-scan --volume 5`
+> CLEAN · `check-live-flags.py vol5` **6 occurrences / 3 flags — CHANGED, and deliberately** ·
+> `build-content.mjs` **2042/2042, 8 books** · `build-citations.py` dangling/out-of-range **228,
+> unchanged**, c19 contributing **67 records, zero dangling, one benign unresolved-`ibidem` line**.
+>
+> ## ⚠ STILL OWED BEFORE/WITH THE NEXT DEPLOY
+> 1. **The mid-work gate's `Dictae salutis` fix is still NOT LIVE** (`bon-hex-c8`, p. 372 n. 1).
+> 2. The About page's **"What Is Known to Be Wrong"** section — Wilson's to frame.
+>
+> ## ⛔ THE `[?]` BASELINE MOVED — 4 occurrences / 2 flags → **6 / 3**
+> `python3.11 tools/check-live-flags.py vol5` (scans 109; **positional dir, NOT `--volume`** —
+> `--volume 5` scans 0 chunks and still prints a clean verdict). The new third flag is
+> `bon-hex-c19` p. 421 ¶ 7, where Quaracchi print **two blank spaces mid-line** (*quasi una* ___ *,
+> et inferior chorda per se non facit harmo* ___ *,*) — **the raw carries both gaps too**, so this is
+> the edition declining to fill a hole in its codices, not broken type and not a scan washout.
+> ⚠ **The tool counts a LINE as an occurrence and a CHUNK LOCATION as a flag**, so two lacunae in one
+> paragraph add ONE flag, not two. Never compute this baseline; run the script.
+>
+> ## ✅ p. 424 IS ON DISK AND ITS TOP-REGION GUTTER IS MEASURED — pp. 425–429 ARE NOT EXTRACTED
+> `python3.11 tools/extract-pages.py --volume vol5 --pages 425-429 --dpi 450` (~7 minutes).
+> ⚠ `df -h /` before any build — free space is down to **6.7 GiB** after this session's churn.
+> c19's pp. 419–423 have been deleted; **p-424.png was kept on purpose** because c20 shares that leaf.
+> ⚠ **1338 is XIX's region (rows .08–.38) on that leaf. XX's own two-column body is BELOW the display
+> heading and Summarium and must be profiled separately** — the p. 414 shape, met for the third time.
+>
+> ## ★★ WHAT c20 INHERITS — NOTHING, AND IT WAS CHECKED AT MAGNIFICATION
+> - **p. 424's seven footer entries are all Collatio XIX's**, anchored in ¶¶ 24–27. **Collatio XX's
+>   heading, subtitle and Summarium carry no anchor** — read on the band, not inferred from the count.
+>   c20 opens a fresh register on **p. 425**. ⚠ Verify anyway; a hand-off of *none* is still a claim.
+> - **Collatio XX opens part-way down p. 424**, at roughly 48 % of the leaf: display heading, a
+>   three-line subtitle *De quarta visione, scilicet intelligentiae per contemplationem suspensae,
+>   tractatio prima, quae agit in genere de triplici obiecto huius contemplationis sive de
+>   contemplatione caelestis hierarchiae, militantis Ecclesiae et mentis humanae hierarchizatae,*
+>   then a full-measure Summarium that **runs over onto p. 425** — it breaks on p. 424 at
+>   *…Primo, propter fulgorem puritatis praecipuae; confirmatur*. Its visible entries on p. 424 reach
+>   only **4**. ⚠⚠ **DO NOT TRUST THAT AS A COUNT — count the body.**
+> - **XX opens the FOURTH VISION** (*intelligentia per contemplationem suspensa*). Collationes XIII–XIX
+>   were the third vision; XX–XXIII are the fourth. Register from the third-vision run does not
+>   automatically carry.
+> - **Raw L71776 → ~L72793**; `COLLATIO XXI.` at **L72796**. Fix the far end positively on the band
+>   from that printed header — **p. 424's own running head already read `COLLATIO XX.` while Collatio
+>   XIX filled the top half of the leaf, the second leaf in a row to do that.**
+> - ⚠ **Whether `COLLATIO XX.` carries an anchor is your first band question** — nineteen openings read
+>   and only `COLLATIO I.` has one.
+>
+> ## ★★ What Collatio XIX paid for — carry these
+> - **★★★ A GUTTER RUNOVER NEED NOT BREAK MID-SENTENCE.** p. 420 n. 8's left-block share ends on a
+>   full stop (*…Latina lingua nuntius interpretatur.*) and resumes in the right block with a fresh
+>   citation (*Libr. IX. c. 20*). Nothing in the left-hand text says it is incomplete. **The tell is
+>   the UNNUMBERED RIGHT BLOCK, and only that.** Read block openings, not sentence endings, or you
+>   will report the leaf one entry long.
+> - **★★ A SHARED LEAF CAN OWE ONE OF ITS TWO OWNERS NO GUTTER AT ALL.** p. 419's lower half is XIX's
+>   full-measure front matter — no two-column body of XIX anywhere on the leaf — so c19 has no gutter
+>   value for it, while c18 measured 1181 over XVIII's region at the head of the same page. "Not
+>   applicable" is a legitimate table entry.
+> - **★★ THE PAGE A CHUNK STARTS ON ≠ THE PAGE ITS FIRST NOTE SITS ON.** `printed_pages` begins at 419
+>   because the display matter prints there; the apparatus begins at 420.
+> - **★★ THREE CONSECUTIVE BOUNDARY LEAVES, THREE DIFFERENT ANSWERS.** p. 414 split 3/1 across the
+>   collatio boundary; p. 419 gave every note to the earlier collatio; p. 424 did the same again.
+>   **The shape does not repeat — read the anchors.**
+> - **★ THE INK ISLAND SPOKE BEFORE THE RUN DID, on p. 422:** whole-body window 1364 on a 54 px run
+>   with a **16 px** island; three forked windows agreed within 5 px and the best ran 61 px.
+>   Adopted **1365**. Read the island, not just the run.
+> - **★ REGISTER, reuse it:** *scientia / sanctitas / sapientia* → "knowledge / holiness / wisdom",
+>   the ladder the whole collatio turns on (⚠ *scientia* is **not** "science" here) · *originalia
+>   Sanctorum* → "the original works of the Saints" · *Summae magistrorum* → "the Summas of the
+>   masters" · *ordo, assiduitas, complacentia, commensuratio* → "order, assiduity, complacency,
+>   commensuration" · *timorata, impolluta, religiosa, aedificatoria* → "fearing, unpolluted,
+>   religious, upbuilding" · *transitus / transire* → "passage / to pass over" · *theoria* →
+>   "contemplation".
+>
+> ## Cadence from here
+> **One gate remains: the work close**, at the Scholion (~p. 454). The deploy rides with it. Push
+> and deploy are both protected. **3 collationes remain after c20, then the Scholion.**
+
+---
+
+# (superseded) `bon-hex-c19` — DONE 2026-08-19
+
+> ### `bon-hex-c19` (Collatio XIX), pp. 419–424
 >
 > **State (verified in-session; ⚠ this is a claim about a system outside the repo and it expires —
 > re-derive with `git fetch && git rev-list --count origin/master..master`. At the moment c18 was
