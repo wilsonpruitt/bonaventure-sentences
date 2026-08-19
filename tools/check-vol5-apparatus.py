@@ -1799,7 +1799,12 @@ KNOWN_TOTALS = {
     411: 7,   # n.4 runs over the gutter; right block opens unnumbered
     412: 8,   # n.2 runs over the gutter; n.1 is long enough to push five entries right
     413: 10,  # both blocks open numbered; no runover
-    414: 4,   # BOUNDARY LEAF: nn.1-3 are Collatio XVII's, n.4 is Collatio XVIII's -- PENDING until XVIII lands
+    414: 4,   # BOUNDARY LEAF: nn.1-3 are Collatio XVII's, n.4 is Collatio XVIII's -- both owners now present
+    415: 8,   # left block underruns by one; right block opens numbered, no runover
+    416: 9,   # n.7 runs over the gutter; right block opens unnumbered
+    417: 9,   # both blocks open numbered; the S. Bonav. signature line is not an entry
+    418: 9,   # both blocks open numbered; no runover
+    419: 5,   # BOUNDARY LEAF: all five are Collatio XVIII's; n.4 runs over the gutter
 }
 
 
