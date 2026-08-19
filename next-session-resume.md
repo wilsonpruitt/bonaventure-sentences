@@ -1,6 +1,95 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — `bon-hex-c17` (Collatio XVII), WHICH OPENS AT THE **HEAD** OF p. 409.
+> # ▶▶▶ START HERE — `bon-hex-c18` (Collatio XVIII), WHICH OPENS **PART-WAY DOWN p. 414**, NOT AT A LEAF HEAD.
+>
+> **State (verified in-session; ✅ **PUSHED 2026-08-18** — c15 and c16 went up as `9ede5c3`,
+> confirmed 0 ahead / 0 behind against a fresh `git fetch`, not the push output. c17 is committed
+> and **not yet pushed**. ⚠ That is a claim about a system outside the repo and it expires —
+> re-derive with `git rev-list --count origin/master..master`.)**
+> **Collationes I–XVII are Tier 2.** c17 = pp. 409–414, **28 ¶¶, 41 apparatus entries owned, zero
+> `[?]` flags**. Suite in-session: `check-vol5-apparatus.py` **107 chunks / 1,587 entries**, one
+> legitimate PENDING (p. 414 n. 4) · `check-vol5-census.py` **107/107**, 130 runovers (116
+> gutter-crossing, 14 page-crossing) · `polish-style-scan --volume 5` CLEAN ·
+> `check-live-flags.py vol5` **4 occurrences / 2 flags, unchanged** · `build-content.mjs`
+> **2040/2040, 8 books** · `build-citations.py` corpus QA **228, unchanged**, c17 contributing
+> **77 records, zero dangling, zero QA lines**.
+>
+> ## ⚠ STILL OWED BEFORE/WITH THE NEXT DEPLOY
+> 1. **The mid-work gate's `Dictae salutis` fix is still NOT LIVE** (`bon-hex-c8`, p. 372 n. 1).
+> 2. The About page's **"What Is Known to Be Wrong"** section — Wilson's to frame.
+>
+> ## ⛔ TOOL FOOTGUN — `check-live-flags.py` TAKES A POSITIONAL DIR, NOT `--volume`
+> `--volume 5` scans **0 chunks** and still prints a clean verdict. Correct call:
+> `python3.11 tools/check-live-flags.py vol5` (scans 107). Baseline **4 occurrences / 2 flags**:
+> `bon-brev-p6-c13` (p. 280 n. 6, *separe*) and `bon-hex-c15` (p. 400 ¶ 18, *resurrect*). Read the
+> scanned-chunk count before believing the verdict.
+>
+> ## ✅ p. 414 IS ON DISK AND ITS TOP-REGION GUTTER IS MEASURED — pp. 415–419 ARE NOT EXTRACTED
+> `python3.11 tools/extract-pages.py --volume vol5 --pages 415-419 --dpi 450` (~7 minutes).
+> ⚠ `df -h /` before any build. c17's pp. 409–413 have been deleted; **p-414.png was kept on
+> purpose** because c18 shares that leaf.
+>
+> ## ★★ WHAT c18 INHERITS — ONE FORWARDED NOTE, AND IT IS NOT A RUNOVER
+> - **p. 414 n. 4 is YOURS**: `Gen. 1, 12. — In seqq. datur summa collat. 15-17.`, anchored at
+>   **Collatio XVIII's ¶ 1** (*Protulit terra herbam virentem*⁴), read on the band. c17 owns
+>   nn. 1–3 of that leaf and does not claim n. 4. `KNOWN_TOTALS` already carries `414: 4` with the
+>   PENDING; **writing c18 retires it.** ⚠ The hand-off tells you which note is yours and NOT where
+>   it lands — verify the anchor at the band.
+> - **Collatio XVIII opens part-way down p. 414**, at roughly 40 % of the leaf: display heading,
+>   subtitle beginning *De tertia visione tractatio sexta, quae agit de theoriis Scripturae
+>   significatis per* **fructus***, et quidem quatenus reficiunt affectum,* then a full-measure
+>   Summarium whose visible entries already run to **30** (*…Tres, in fruendo corpore in Deo, 30.*).
+>   ⚠⚠ **DO NOT TRUST THAT AS A COUNT — count the body.**
+> - **p. 414's gutter for XVIII's own two-column body must be measured separately.** The value
+>   **1383** recorded for c17 was profiled over rows .08–.20, which is XVII's region. Below ~25 %
+>   the default profiler finds **no low-ink column at all** — that is XVIII's full-measure front
+>   matter, not a failure. Profile XVIII's body rows only.
+> - **Raw L70233 → ~L71028**; `COLLATIO XIX.` at **L71031**. Page markers: 416=L70459 ·
+>   417=L70639 · 418=L70802 · 419=L70965. ⚠ **415 has NO page marker in the raw**, and
+>   `COLLATIO XIX.` stands **before** the p. 420 marker — which, read the way c17's raw was read,
+>   would put XIX part-way down p. 419. **Working span pp. 414–419, to be fixed positively on the
+>   band from the printed `COLLATIO XIX.` header.**
+> - ⚠ **Whether `COLLATIO XVIII.` carries an anchor is your first band question** — seventeen
+>   openings read and only `COLLATIO I.` has one.
+>
+> ## ★★ What Collatio XVII paid for — carry these
+> - **★★★ A SPAN INFERENCE CAN BE WRONG IN EITHER DIRECTION.** c15 and c16 were each handed a span
+>   one leaf **too long**; c17's raw-based inference was one leaf **too short**, because a collatio
+>   can *end* part-way down a leaf just as it can begin there. The corrective is not a heuristic
+>   about which way the error runs — it is: **only the printed header, read on the band, fixes a
+>   span.** A second, free tell in c17's case was internal: ¶ 27 broke off at *Sed oportet* with no
+>   possible close on p. 413.
+> - **★★ A SHARED LEAF CARRIES ONE CONTINUOUS FOOTER NUMBERING AND TWO OWNERS.** p. 414's four
+>   entries split 3/1 across the collatio boundary. **Ownership follows the ANCHOR, never the
+>   block** — and never the leaf. Same shape as p. 398 between c14 and c15.
+> - **★★ A SCAN DEFECT IS NOT A PRINTED LACUNA.** p. 411's right column washes out to blank paper
+>   in six places; the raw carries them all, so they are restored silently. **`[?]` is for a gap in
+>   the PRINT** (Quaracchi's type breaking off, as at c15's p. 400 ¶ 18). Telling the two apart is
+>   the whole reason for holding two sources.
+> - **★ A NARROW ZERO-INK RUN IS THE INKED CENTRE RULE, AND THE INK ISLAND'S WIDTH SAYS SO.**
+>   pp. 410–412 ran 52–54 px against pp. 403–408's 57–62; their islands measure 12–16 px against
+>   4–11 px. Forking the windows pinned each value to 3–4 px. **Read the island, not just the run.**
+> - **★ p. 410 IS ONLY THE SECOND SKEWED LEAF IN THE WORK** (c14's p. 394 was the first): 17 px of
+>   drift, no outlying slice, single split still fine.
+> - **★ REGISTER, reuse it:** *refectio / reficere* → "refreshment / to refresh" (never
+>   "restoration" — the collatio is about food) · *intellectus* → "understanding" vs *affectus* →
+>   "affection", the pair in the title · *illustrat* → "illumines", one verb across all twelve
+>   regards · the twelve regards as a closed set ("from within / from without / from above / from
+>   below / forwards / backwards / to the right / to the left / from the opposite side / round
+>   about / from afar / from near at hand") — **c18 continues this same series into the affection**
+>   · *severa solatia* / *benigna flagella* → "severe consolations" / "kindly scourgings" ·
+>   *acies* → "battle-lines" · *theoria* → "contemplation" · *notitia* → "knowledge" against
+>   *scientia* → "science" where it names a discipline.
+>
+> ## Cadence from here
+> **One gate remains: the work close**, at the Scholion (~p. 454). The deploy rides with it. Push
+> and deploy are both protected. **5 collationes remain after c18.**
+
+---
+
+# (superseded) `bon-hex-c17` — DONE 2026-08-18
+
+> ### `bon-hex-c17` (Collatio XVII), pp. 409–414
 >
 > **State (verified in-session; ⚠ `origin/master` is BEHIND — push is protected and needs Wilson's
 > per-action OK. Re-derive with `git rev-list --count origin/master..master` rather than trusting
