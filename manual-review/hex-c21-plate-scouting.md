@@ -86,3 +86,33 @@ Block: nn. 1–4 L, nn. 5–9 R. Anchors: nn. 1–4 L (¶¶ 20-tail, 21, 21, 23)
 - n. 7 `Eccli. 43, 4. — Seq. locus est Cant. 2, 17.` — `Tripliciter sol exurens montes ⁷` (¶ 26)
 - n. 8 `Cfr. supra pag. 259, nota 8.` — `actuosae, otiosae ⁸` (¶ 27)
 - n. 9 `Cherubim siquidem, ut insinuat Dionys., de Caelest. Hierarch. c. 7. § 1, significant « multitudinem scientiae aut fusionem sapientiae »; Seraphim autem idem est ac « incendentes, aut calefacientes ». De Thronis vide supra nota 4.` — `nomen scientiae ⁹` (¶ 28)
+
+### p. 436 — 6 entries, nn. 1–6
+Block: **nn. 1–4 L, nn. 5–6 R.** Anchors: nn. 1–2 L (¶¶ 30, 31), nn. 3–6 R (¶¶ 32, 33, 33, 33).
+★ **The left block OVERRUNS the column division by two** — the opposite direction from p. 434,
+inside the same chunk. (c13 showed the same reversal inside one chunk; a run is never a rule.)
+★ n. 4 is a long Dionysius quotation that **runs over the gutter**, breaking at
+*…Ipsa vero Cherubim cognoscibile eorum et deividum, et altis-* | *-simae luminum dationis…*
+- n. 1 `Hebr. 1, 14: Nonne omnes sunt administratorii spiritus in ministerium missi etc. — Seq. sententia est Gregor., II. Homil. in Evang. homil. 34. n. 12: Superiora illa agmina ab intimis nunquam recedunt. De opinione Dionysii respectu Seraph missi ad Isaiam (6, 6.) vide tom. II. pag. 262, nota 5. De triplici actu hierarchico cfr. supra pag. 225, nota 6.` — `in ministerium missi ¹` (¶ 30)
+- n. 2 `D E speculari.` — `splendor ²` (¶ 31)
+- n. 3 `Respicere videtur ea quae posuit II. Sent. d. 9. Praenotata, ubi habetur: Perfectio autem virtutis sive potentiae consistit in tribus, scilicet in praesidendo, et penes hoc attenditur ordo Dominationum; in resistendo, et penes hoc attenditur ordo Potestatum; et in operando, et penes hoc est ordo Virtutum. Et ordinantur hi ordines secundum maiorem dignitatem et minorem, quia plus est praesidere quam repugnare, et repugnare quam per se operari posse etc. — B C D legunt: quod non bene posuerat cum alio, scilicet in scripto [i. e. in Commentario libr. Sent.; B C in septimo], loco Potestates etc.` — `nec bene tunc viderat ³` (¶ 32)
+- n. 4 (Dionysius, De caelest. hier. c. 7) `Paragr. 1: Mobile enim semper eorum circa divina et incessabile et calidum et acutum et superfervidum intentae et non indigentis et inflexibilis semper motionis, et superpositorum reductive et active assimilativum, tanquam recaleficans illa et resuscitans in similem calorem et igneum caelitus et holocauste purgativum… Ipsa vero Cherubim cognoscibile eorum et deividum, et altissimae luminum dationis acceptivum et contemplativum… Ipsa autem altissimarum et compactarum Sedium… omni extremitate inflexibiliter in sublimissimum et circa vere excelsum totis virtutibus incommutabiliter et stabiliter collocatum et divini superadventus… acceptivum et deiferum et famulariter in divinas susceptiones apertum. Cfr. c. 13. § 3, et Hug. a S. Vict., VI. et VII. Exposit. in Hierarch. caelest. Vide etiam supra n. 24. Infra cum F et G posuimus quintam essentiam; Vat. quamlibet essentiam.` — `capitulo septimo ⁴` (¶ 33)
+- n. 5 `Dionys., loc. cit. c. 8. § 1. ait: Igitur sanctarum Dominationum manifestativam nominationem aestimo declarare absolutam quandam et omni ignominia minorationis liberam anagogen, non ad similitudinem tyrannicarum dissimilitudinem ullo modo universaliter eam inclinatam, liberaliter severam dominationem… Ipsam vero sanctarum Virtutum fortem quandam et incommutabilem virilitatem, in omnes secundum earum deiformitatem operationes, ad nullam susceptionem inditarum ei divinarum illuminationum imbecilliter infirmatam… Ipsam autem sanctarum Potestatum… bene ornatam et inconfusam circa divinas susceptiones ordinationem et ordinatam supermundanae et intellectualis potestatis non tyrannice in eo quae inferiora sunt, potestativis virtutibus praecipitatae etc.` — `De Dominationibus ⁵` (¶ 33)
+- n. 6 `Aristot., I. de Caelo et mundo, text. 116. (c. 11.). Cfr. tom. I. pag. 564, nota 7. et tom. II. pag. 671, nota 6.` — `ultimum de potentia ⁶` (¶ 33)
+
+### p. 437 — 1 entry of two; the collatio closes at the top of the leaf
+Collatio XXI holds only the **top seven lines** of both columns, closing on
+*…Angelorum, nuntiare ¹.* Below it prints `COLLATIO XXII.` with its subtitle and Summarium.
+★ **The running head of p. 437 already reads `IN HEXAËMERON COLLATIO XXII.` while XXI still fills
+the top of the leaf — the FOURTH consecutive boundary leaf mis-named by its own running head**
+(p. 419, 424, 431, now 437). The span was closed positively on the printed `COLLATIO XXII.` header.
+- n. 1 `Cfr. supra n. 20-23.` — `nuntiare ¹` (¶ 33, last word) — **this chunk's**
+- ⚠ **HAND-OFF FORWARDED TO `bon-hex-c22`: p. 437 n. 2 `Apoc. 12, 1. — De seqq. cfr. collat.
+  praeced.` is COLLATIO XXII's**, anchoring at *stellarum duodecim ²* in XXII's ¶ 1 (right block).
+  Ownership only — re-derive the position at the band.
+
+## Totals
+**39 apparatus entries** (431: 2 · 432: 7 · 433: 8 · 434: 6 · 435: 9 · 436: 6 · 437: 1).
+**Body: 33 numbered ¶¶, 1..33, no gaps — counted on the bands, and the Summarium runs level.**
+★ Boundary-leaf shapes again refuse to repeat: p. 431 gives 1 to the earlier collatio and 2 to
+this one; p. 437 gives 1 to this one and 1 to the next.
