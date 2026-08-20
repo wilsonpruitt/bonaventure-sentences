@@ -6027,7 +6027,7 @@ bon-sent-II-d40-a1-q1	2	apparatus:5	5	crossref	page	pag. 835, nota 5	bon-sent-II
 bon-sent-II-d40-a1-q1	2	apparatus:5	5	crossref	page	supra pag. 781, nota 1	bon-sent-II-d33-divisio+bon-sent-II-d33-littera		page-multi		
 bon-sent-II-d40-a1-q1	2	apparatus:5	5	crossref	page	pag. 822, nota 1	bon-sent-II-d35-a1-q1		chunk		
 bon-sent-II-d40-a1-q1	2	apparatus:7	7	crossref	page	supra pag. 325, nota 6	bon-sent-II-d13-a3-q1		chunk		
-bon-sent-II-d40-a1-q1	2	apparatus:8	8	crossref	page	supra pag. 1, nota 8			dangling		
+bon-sent-II-d40-a1-q1	2	apparatus:8	8	crossref	page	supra pag. 1, nota 8	bon-sent-II-praelocutio		chunk		
 bon-sent-II-d40-a1-q1	2	apparatus:9	9	crossref	page	pag. 32, nota 6	bon-sent-II-d1-p1-a3-q1		chunk		
 bon-sent-II-d40-a1-q1	2	apparatus:14	14	crossref	page	supra pag. 891, nota 4	bon-sent-II-d38-a2-q1+bon-sent-II-d38-a2-q2		page-multi		
 bon-sent-II-d40-a1-q1	2	apparatus:15	15	scripture	apparatus-explicit	Matth. 6, 22	Matth 6:22	A	verse		
@@ -6609,7 +6609,7 @@ bon-sent-II-d5-a3-q1	2	apparatus:15	15	crossref	relative	infra d. 39. a. 2.	bon-
 bon-sent-II-d5-a3-q1	2	apparatus:17	17	crossref	anaphor->relative	ibid.	bon-sent-II-d39-a2-q1+bon-sent-II-d39-a2-q2+bon-sent-II-d39-a2-q3		articulus	yes	infra d. 39. a. 2.
 bon-sent-II-d5-a3-q2	2	apparatus:4	4	scripture	apparatus-explicit	Rom. 11, 6	Rom 11:6	A	verse		
 bon-sent-II-d5-a3-q2	2	apparatus:7	7	scripture	apparatus-explicit	Prov. 13, 12	Prov 13:12	A	verse		
-bon-sent-II-d5-a3-q2	2	apparatus:11	11	crossref	page	pag. 2			dangling		
+bon-sent-II-d5-a3-q2	2	apparatus:11	11	crossref	page	pag. 2	bon-sent-II-praelocutio		chunk		
 bon-sent-II-d5-a3-q2	2	apparatus:12	12	crossref	relative	infra d. 11. a. 2. q. 2.	bon-sent-II-d11-a2-q2		chunk		
 bon-sent-II-d5-dubia	2	apparatus:5	5	crossref	relative	infra d. 27. dub. 1	bon-sent-II-d27-dubia		chunk		
 bon-sent-II-d5-littera	2	apparatus:3	3	scripture	apparatus-explicit	Gen. 1, 4	Gen 1:4	A	verse		
@@ -7033,6 +7033,16 @@ bon-sent-II-d9-littera	2	apparatus:15	15	scripture	apparatus-explicit	Eph. 1, 10
 bon-sent-II-d9-littera	2	apparatus:15	15	scripture	apparatus-explicit	I. Petr. 1, 18	1Petr 1:18	A	verse		
 bon-sent-II-d9-littera	2	apparatus:17	17	scripture	apparatus-explicit	Isai. 54, 1	Isai 54:1	A	verse		
 bon-sent-II-d9-littera	2	apparatus:18	18	scripture	apparatus-explicit	Rom. 4, 17	Rom 4:17	A	verse		
+bon-sent-II-praelocutio	2	apparatus:p1-3	p1-3	crossref	logical	II. Sent. d. 24. p. I. a. 2. q. 1.	bon-sent-II-d24-p1-a2-q1		chunk		
+bon-sent-II-praelocutio	2	apparatus:p2-3	p2-3	crossref	logical	I. Sent. d. 17. p. I. q. 1	bon-sent-I-d17-p1-a1-q1		chunk		
+bon-sent-II-praelocutio	2	apparatus:p2-3	p2-3	crossref	chain-continuation	d. 24. a. 1. q. 1	bon-sent-I-d24-a1-q1		chunk		
+bon-sent-II-praelocutio	2	apparatus:p2-4	p2-4	crossref	logical	II. Sent. d. 5. a. 3. q. 2	bon-sent-II-d5-a3-q2		chunk		
+bon-sent-II-praelocutio	2	apparatus:p2-4	p2-4	crossref	chain-continuation	d. 30. a. 3. q. 2.	bon-sent-II-d30-a3-q2		chunk		
+bon-sent-II-praelocutio	2	apparatus:p2-5	p2-5	crossref	logical	III. Sent. d. 5. a. 2. q. 3	bon-sent-III-d5-a2-q3		chunk		
+bon-sent-II-praelocutio	2	apparatus:p2-5	p2-5	crossref	chain-continuation	d. 22. a. 1. q. 1.	bon-sent-III-d22-a1-q1		chunk		
+bon-sent-II-praelocutio	2	apparatus:p2-6	p2-6	crossref	logical	IV. Sent. d. 2. p. I. a. 2. q. 3			dangling		
+bon-sent-II-praelocutio	2	apparatus:p2-6	p2-6	crossref	chain-continuation	d. 5. a. 3. q. 1.	bon-sent-IV-d5-a3-q1		chunk		
+bon-sent-II-praelocutio	2	apparatus:p3-3	p3-3	scripture	apparatus-explicit	II. Tim. 2, 24	2Tim 2:24	A	verse		
 bon-sent-III-d1-a1-q1	3	latin_body	8	scripture	body-ordinal	Lucae primo	Luc 1:37	B	verse		
 bon-sent-III-d1-a1-q1	3	latin_body	9	scripture	body-ordinal	ad Ephesios tertio	Eph 3:20	B	verse		
 bon-sent-III-d1-a1-q1	3	scholion		crossref	relative	infra d. 6. a. 2. q. 1	bon-sent-III-d6-a2-q1		chunk		
@@ -10366,7 +10376,7 @@ bon-sent-III-d31-a3-q1	3	latin_body	5	scripture	body-ordinal	ad Corinthios decim
 bon-sent-III-d31-a3-q1	3	scholion		crossref	logical	II. Sent. d. 25. p. I. q. 6	bon-sent-II-d25-p1-a1-q6		chunk		
 bon-sent-III-d31-a3-q1	3	scholion		crossref	relative-inherited	ibid	bon-sent-II-d25-p1-a1-q6		chunk		
 bon-sent-III-d31-a3-q1	3	apparatus:2	2	scripture	apparatus-explicit	Marc. 12, 30	Marc 12:30	A	verse		
-bon-sent-III-d31-a3-q1	3	apparatus:4	4	crossref	page	tom. II. pag. 1, nota 8			dangling		
+bon-sent-III-d31-a3-q1	3	apparatus:4	4	crossref	page	tom. II. pag. 1, nota 8	bon-sent-II-praelocutio		chunk		
 bon-sent-III-d31-a3-q1	3	apparatus:4	4	scripture	apparatus-explicit	I. Ioan. 3, 2	1Ioan 3:2	A	verse		
 bon-sent-III-d31-a3-q1	3	apparatus:5	5	scripture	apparatus-explicit	Isai. 31, 9	Isai 31:9	A	verse		
 bon-sent-III-d31-a3-q1	3	apparatus:6	6	crossref	page	supra pag. 22, nota 1	bon-sent-III-d1-a2-q2		chunk		

@@ -126,13 +126,22 @@ function parseTranslationFile(content) {
 // the corpus until 2026-08-19. Keep this set tight: the skip is what stops
 // vol1/bon-sent-I-proleg.md (a bare 77k-word OCR dump with no `type:`) from
 // publishing itself, so only named, deliberately-built types are exempted.
-const SENTENCES_FRONT_TYPES = new Set(["proemium", "capitula", "littera"]);
+// `praelocutio` is BOOK II ONLY and is deliberately a type of its own, not a
+// second `proemium`: Vol II prints TWO display-headed units before the Master's
+// text — the PRAELOCUTIO (pp.1–3, which Quaracchi's own p.1 n.1 says remained
+// unpublished until their edition) and then the PROOEMIUM (pp.3–6). Folding the
+// first into the second would bury the *pauper et tenuis compilator* passage
+// inside a chunk titled "Proemium" and would print two "Proemium" entries in one
+// division. Do NOT generalize it — like `-sN-` sectio in Vol IV d.49, it exists
+// in exactly one place. (2026-08-20)
+const SENTENCES_FRONT_TYPES = new Set(["praelocutio", "proemium", "capitula", "littera"]);
 const isSentencesFront = (meta) =>
   meta.distinctio === 0 && SENTENCES_FRONT_TYPES.has(meta.type);
 
 function buildQuestionTitle(meta) {
   // Front matter names itself — there is no "Dist. 0" to breadcrumb against.
   if (isSentencesFront(meta)) {
+    if (meta.type === "praelocutio") return "Praelocutio";
     if (meta.type === "proemium") return "Proemium";
     if (meta.type === "capitula") return "Capitula";
     return "Textus Magistri";
@@ -431,6 +440,7 @@ for (const [bookId, distMap] of [...bookMap.entries()].sort((a, b) => a[0] - b[0
       // Front matter prints in this order: Bonaventure's Proemium, then the
       // Master's own opening, then his Capitula. Only the proemium needs a rank
       // of its own — littera and capitula already fall in printed order below.
+      if (q.type === "praelocutio") return -2; // Book II only; prints before its Proemium
       if (q.type === "proemium") return -1;
       if (q.type === "littera-magistri" || q.type === "littera") return 0;
       if (q.type === "divisio") return 1;
