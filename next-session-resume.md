@@ -1,6 +1,80 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — `bon-hex-c21` (Collatio XXI), WHICH OPENS **NEAR THE HEAD OF p. 431**, THREE LINES BELOW COLLATIO XX's TAIL.
+> # ▶▶▶ START HERE — `bon-sent-II-proem` (the *Praelocutio*), THEN `-littera`, THEN `-capitula`.
+>
+> ## ⛔⛔ THE ORDER CHANGED — WILSON'S RULING, 2026-08-20. READ THIS BEFORE THE POINTER.
+> **ALL FOUR SENTENCES PROEMIA MUST BE TIER 2 BEFORE THE NEXT DEPLOY — BOOK I INCLUDED.**
+> The Hexaemeron front is **PARKED at `bon-hex-c20`** (Tier 2, committed `bfdcbe6`). c21–c23 and the
+> work-close Scholion do **not** resume until the proemia close. ⛔ **The scoping doc and the older
+> blocks below say the proemia "must NOT fork the Hexaemeron front" — that instruction is DEAD.
+> Wilson reversed it. Do not follow it.**
+> Queue: **J1 remainder (Books II, IV — 6 chunks, ~2 sessions) → J3 (Book I family, 8–11 chunks,
+> 8–12 sessions) → Hexaemeron c21–c23 + Scholion → work-close gate → deploy.**
+>
+> ## ✅ BOOK II's AND BOOK IV's GAPS ARE THREE UNITS EACH, LIKE BOOK III's — CONFIRMED ON THE RAW
+> | | proemium | Lombard's littera | capitula | → `DISTINCTIO I.` |
+> |---|---|---|---|---|
+> | **II** | `PRAELOCUTIO` + `PROOEMIUM`, raw L701–~1094 | `LIBER SECUNDUS SENTENTIARUM` … *nunc ad considerationem creaturarum transeamus,* ~L1094 | `INCIPIUNT CAPITULA SECUNDI LIBRI`, L1099–1416 | L1417 |
+> | **IV** | `PROOEMIUM`, raw L862–~1160 | `LIBER QUARTUS SENTENTIARUM`, L1161 | `INCIPIUNT CAPITULA QUARTI LIBRI`, L1172–1531 | L1532 |
+> ⚠ **Raw line numbers only. Every printed page and every boundary gets fixed on the plate.**
+>
+> ## ✅ THE PLATES ARE ON DISK — AND THE TOOL HAD TO BE UNBLOCKED FIRST
+> `raw/vision/vol2/p-001.png` … `p-010.png` are extracted at 450 dpi.
+> **★★ `extract-pages.py` REFUSED vol2 pp. 1–10 with `page out of range [11, 1030]`.** `printed_min`
+> was **11** — which is where the corpus's FIRST CHUNK starts, not where the book starts. **That is
+> the proemia defect class living in the tooling**: a configured floor standing in for a fact about
+> the text. Widened to 1 and commented in place. **vol3 was already 1 (the Book III session hit
+> this); vol4 is already 1. Check any new volume's floor before believing an "out of range".**
+>
+> ## What Book II's chunks are
+> - **`bon-sent-II-proem`** — the `PRAELOCUTIO` and `PROOEMIUM`. **This is the *pauper et tenuis
+>   compilator* passage** (*Nec quisquam aestimet, quod novi scripti velim esse fabricator; hoc enim
+>   sentio et fateor, quod sum pauper et tenuis compilator*, raw L710–715) — the single most-cited
+>   sentence Bonaventure wrote about his own method, and it has never been in the corpus. Lemma
+>   *Salvatoris opitulante gratia…*
+> - **`bon-sent-II-littera`** — `LIBER SECUNDUS SENTENTIARUM` with its subtitle *DE RERUM CREATIONE
+>   ET FORMATIONE CORPORALIUM ET SPIRITUALIUM…* and Lombard's transition sentence.
+> - **`bon-sent-II-capitula`** — Lombard's chapter list for all 44 distinctions, set in two columns.
+>   ⚠ **Chunk it only if it carries apparatus ON the table** — the frozen Itinerarium test, which is
+>   what settled Book III's (31 entries → chunked). Read the table's own footer before deciding.
+> Follow `bon-sent-III-proem` / `-littera` / `-capitula` as the format reference; they are three
+> weeks old and were built to this exact shape.
+>
+> ## ⛔ THE THREE GUARD-RAIL AUDITS CANNOT SEE A FRONT-MATTER CHUNK
+> `audit-{paraphrase,headers,apparatus-count}.py` select by the filename regex `bon-sent-II-d(\d+)-`.
+> A chunk with no `-dN-` segment never matches at any `--min-d`, and **all three print a clean
+> verdict on 0 chunks audited.** Do NOT record such a run as audits-clean. Either extend the regexes
+> or verify by marker-pairing + plate discipline and say which you did. Same footgun as
+> `check-live-flags.py --volume 5`.
+>
+> ## Book I (J3) — the judgement-dense one, and Wilson has ruled on its capitula
+> ~22,900 OCR words hiding inside `vol1/bon-sent-I-proleg.md` (raw L8900–12784): the four-rivers
+> prologue, four *quaestiones prooemiales* with `CONCLUSIO` and `SCHOLION`, Lombard's Prologue,
+> `CAPITULA PRIMI LIBRI`, and the `COMMENTARIUS IN PROLOGUM` family. **8–11 chunks, 8–12 sessions.**
+> **✅ Wilson's ruling on `CAPITULA PRIMI LIBRI` (2026-08-20): APPLY THE FROZEN TEST, do not
+> re-decide it** — read the table on the plate; apparatus ON the table means it is transmitted text
+> and is chunked, no apparatus means it is editorial and stays out. The scoping doc's "Wilson's
+> call" line is now answered.
+> ⚠ **Leave `bon-sent-I-proleg.md` untouched**; cut from `raw/bonaventure_vol1_raw.txt` and retitle
+> the proleg file so it cannot swallow a second work. Full plan: `manual-review/proemia-gap-scoping.md`.
+>
+> ## ⚠ STILL OWED BEFORE/WITH THE NEXT DEPLOY
+> 1. **The mid-work gate's `Dictae salutis` fix is still NOT LIVE** (`bon-hex-c8`, p. 372 n. 1).
+> 2. The About page's **"What Is Known to Be Wrong"** section — Wilson's to frame.
+> 3. **All four proemia**, per the ruling above.
+>
+> ## Corpus state at the park (verified in-session 2026-08-20)
+> `build-content.mjs` **2046/2046, 8 books** · `check-vol5-apparatus.py` **110 chunks / 1,718
+> entries** (only p. 431 nn. 2–3 PENDING, forwarded to c21 by design) · `check-vol5-census.py`
+> **110/110** · `polish-style-scan --volume 5` CLEAN · `check-live-flags.py vol5` **6 occurrences /
+> 3 flags** · `build-citations.py` QA flags **225**.
+
+
+---
+
+# ⏸ PARKED FRONT — `bon-hex-c21`, resumes only after the proemia close
+
+> # (parked 2026-08-20) START HERE — `bon-hex-c21` (Collatio XXI), WHICH OPENS **NEAR THE HEAD OF p. 431**, THREE LINES BELOW COLLATIO XX's TAIL.
 >
 > **State (verified in-session; ⚠ this is a claim about a system outside the repo and it expires —
 > re-derive with `git fetch && git rev-list --count origin/master..master`.)**

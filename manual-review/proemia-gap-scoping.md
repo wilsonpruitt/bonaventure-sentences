@@ -7,8 +7,15 @@ This is not an apparatus defect or a quality problem. It is **missing text** —
 most-quoted passages in the entire commentary (Book I's four-rivers prologue, Book II's
 *pauper et tenuis compilator*). Book III has been LIVE for months without its proemium.
 
-**It does NOT block the Hexaemeron front.** `bon-hex-c20` and the work-close gate are untouched by
-any of this. Do not fork the front to do it.
+> ## ⛔ SUPERSEDED 2026-08-20 — WILSON REVERSED THIS. **ALL FOUR PROEMIA SHIP BEFORE THE NEXT
+> DEPLOY, BOOK I INCLUDED**, and the Hexaemeron front is PARKED at `bon-hex-c20` until they close.
+> Queue: J1 remainder (Books II, IV) → J3 (Book I) → Hexaemeron c21–c23 + Scholion → gate → deploy.
+> **✅ And the J3 capitula question below is ANSWERED: apply the frozen test** (apparatus ON the
+> table ⇒ transmitted text ⇒ chunked), do not re-decide it per volume.
+
+~~**It does NOT block the Hexaemeron front.** `bon-hex-c20` and the work-close gate are untouched by
+any of this. Do not fork the front to do it.~~ *(the original judgement, kept so the reversal is
+legible)*
 
 ---
 
@@ -93,6 +100,17 @@ estimate from the Latin body alone.
 
 ### J1 — Books II, III, IV proemia. ◐ **BOOK III COMPLETE 2026-08-19.** Books II and IV remain.
 
+> **✅ SCOPE CONFIRMED ON THE RAW 2026-08-20: Books II and IV have Book III's three-unit shape, so
+> J1's remainder is SIX chunks, not two.**
+> **II** — `PRAELOCUTIO`+`PROOEMIUM` raw L701–~1094 · `LIBER SECUNDUS SENTENTIARUM` ~L1094 ·
+> `INCIPIUNT CAPITULA SECUNDI LIBRI` L1099–1416 · `DISTINCTIO I.` L1417.
+> **IV** — `PROOEMIUM` raw L862–~1160 · `LIBER QUARTUS SENTENTIARUM` L1161 · `INCIPIUNT CAPITULA
+> QUARTI LIBRI` L1172–1531 · `DISTINCTIO I.` L1532.
+> **★★ AND THE TOOLING CARRIED THE SAME DEFECT: `extract-pages.py` had `printed_min=11` for vol2**,
+> refusing pp. 1–10 with `page out of range` — the corpus's first-chunk page standing in for the
+> book's first page. Widened to 1 (2026-08-20). vol3 and vol4 were already 1. **Check a volume's
+> floor before believing an out-of-range.**
+
 > **✅ `bon-sent-III-proem` is Tier 2** (commit `9a95a17`) — pp. 1–2, 18 apparatus entries, no
 > `[?]` flags. **⚠ Scope correction: Book III's gap is three units, not one.** Past the proemium,
 > printed p. 3 is Lombard's `LIBER TERTIUS SENTENTIARUM` opening (a `littera`, raw L832) and
@@ -147,7 +165,7 @@ L8900–12784 becomes its own chunk family, and the region divides on the runnin
 - `bon-sent-I-proem` — the four causes / four rivers
 - `bon-sent-I-proem-q1` … `-q4` — with their `CONCLUSIO` and `SCHOLION`
 - `bon-sent-I-proem-littera` — Lombard's Prologue
-- `bon-sent-I-proem-capitula` — Lombard's chapter list (⚠ may not warrant translation; Wilson's call)
+- `bon-sent-I-proem-capitula` — Lombard's chapter list (**✅ Wilson's call, 2026-08-20: apply the frozen test — apparatus ON the table ⇒ chunk it**)
 - `bon-sent-I-prol-divisio`, `-dubia`, `-notae` — the `COMMENTARIUS IN PROLOGUM` family
 
 That is **~8–11 chunks**, and the four *quaestiones* carry scholia and variants, which puts them at

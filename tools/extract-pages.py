@@ -102,7 +102,11 @@ VOLUMES: dict[str, VolumeConfig] = {
         name="vol2",
         pdf_path=REPO_ROOT / "raw" / "doctorisseraphic02bona.pdf",
         pdf_offset=22,           # PDF page = printed page + 22 (verified 2026-05-13)
-        printed_min=11,
+        # printed_min was 11 until 2026-08-20 — i.e. the tool could not reach the
+        # Praelocutio, the littera or the capitula, because 11 is where the corpus's
+        # FIRST CHUNK starts, not where the book starts. Same defect class as the
+        # proemia gap itself: a configured floor standing in for a fact about the text.
+        printed_min=1,
         printed_max=1030,
         description="Opera Omnia, Tomus II — Commentarius in II Librum Sententiarum",
     ),
