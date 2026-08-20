@@ -1,5 +1,74 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — `bon-hex-c21` (Collatio XXI), WHICH OPENS **NEAR THE HEAD OF p. 431**, THREE LINES BELOW COLLATIO XX's TAIL.
+>
+> **State (verified in-session; ⚠ this is a claim about a system outside the repo and it expires —
+> re-derive with `git fetch && git rev-list --count origin/master..master`.)**
+> **Collationes I–XX are Tier 2.** c20 = pp. 424–431, **30 ¶¶, 47 apparatus entries owned, ZERO
+> `[?]` flags**. Suite in-session: `check-vol5-apparatus.py` **110 chunks / 1,718 entries**, the only
+> PENDING being p. 431 nn. 2–3 forwarded to c21 · `check-vol5-census.py` **110/110**, 139 runovers
+> (125 gutter-crossing, 14 page-crossing) · `polish-style-scan --volume 5` CLEAN ·
+> `check-live-flags.py vol5` **6 occurrences / 3 flags — UNCHANGED** · `build-content.mjs`
+> **2046/2046, 8 books** · `build-citations.py` QA flags **225, unchanged**, c20 contributing
+> **60 records, zero dangling, zero out-of-range**.
+>
+> ## ⚠ STILL OWED BEFORE/WITH THE NEXT DEPLOY
+> 1. **The mid-work gate's `Dictae salutis` fix is still NOT LIVE** (`bon-hex-c8`, p. 372 n. 1).
+> 2. The About page's **"What Is Known to Be Wrong"** section — Wilson's to frame.
+>
+> ## ★★ WHAT c21 INHERITS — TWO NOTES, AND THEY WERE READ ON THE BAND
+> - **p. 431 nn. 2–3 ARE COLLATIO XXI's.** The leaf's register holds three entries; **n. 1 is
+>   Collatio XX's** (it answers to XX's ¶ 30, *…non introierunt*), and nn. 2–3 answer to XXI's own
+>   ¶¶ 1–2 (`Gen. 1, 16. — Immediate post datur summa collat. 20.` and `Cfr. I. Sent. d. 19. p. I.
+>   q. 4.`). ⚠ **Re-derive it; a hand-off tells you which notes are yours and never where they land.**
+> - **Collatio XXI opens near the head of p. 431**, below three lines of XX in both columns: display
+>   heading, a two-line subtitle *De quarta visione tractatio secunda, quae specialiter agit de primo
+>   obiecto intelligentiae per contemplationem suspensae, nempe de consideratione hierarchiae
+>   caelestis,* then a full-measure Summarium that fills most of the leaf; the two-column body opens
+>   at roughly 72 % of p. 431 with *1. Fecit Deus duo magna luminaria…*
+> - **Raw L72796 → ~L73699**; `COLLATIO XXII.` at **L73700**, which the running heads put on **p. 437**
+>   — so the span is likely **pp. 431–437**, closing part-way down that leaf. ⚠ **Scouting only. Fix
+>   the far end positively on the band from the printed `COLLATIO XXII.` header.**
+> - ⚠ **Whether `COLLATIO XXI.` carries an anchor is your first band question** — twenty openings read
+>   and only `COLLATIO I.` has one.
+> - **p. 431 is extracted and on disk; pp. 432–437 are NOT.** `python3.11 tools/extract-pages.py
+>   --volume vol5 --pages 432-437 --dpi 450` (~8 minutes). ⚠ `df -h /` first.
+> - ⚠ **p. 431's gutter was NOT measured** — c20 held only three lines at the head of that leaf and
+>   read them full-width at 2.4×. The leaf's gutter is XXI's to profile, and the leaf stacks regions
+>   (XX's tail, a display heading, a full-measure Summarium, then XXI's body): **profile the region
+>   you are transcribing.**
+>
+> ## ★★ What Collatio XX paid for — carry these
+> - **★★★ THE PLANNED SPAN WAS WRONG BY THREE LEAVES.** The resume note said pp. 425–429; the collatio
+>   runs to p. 431. **A page-range in a hand-off is a plan, not a measurement** — extract as far as the
+>   band-fixed end, not as far as the note predicted.
+> - **★★ THE RUNNING HEAD MIS-NAMED THE LEAF FOR THE THIRD COLLATIO BOUNDARY RUNNING** (p. 419, p. 424,
+>   now p. 431). Fix every span from the printed `COLLATIO N.` header on the band.
+> - **★★ FOUR CONSECUTIVE BOUNDARY LEAVES, FOUR SHAPES:** p. 414 split 3/1 · p. 419 all to the earlier
+>   collatio · p. 424 all to the earlier · p. 431 **1 to the earlier, 2 to the later**. Read anchors.
+> - **★ A RAW DIGIT WAS WRONG AND THE BAND SETTLED IT:** p. 427 n. 4 is `I. Tim. 1, 5`, not the raw's
+>   `1, 3` — and 1 Tim. 1:5 is the verse the body quotes. The `1`/`4` class was live on every leaf.
+> - **★ A VARIANT NOTE CAN PREDICT ITS OWN TEXT A LEAF AHEAD:** p. 428 n. 7 announces *vilem* for
+>   *nigram* "aliquanto inferius", and the adopted word prints at the head of p. 429.
+> - **★ colcrop's DEFAULT WAS THE LOWER-ROWS VALUE ON p. 428** (1407 against the region's 1400) on an
+>   18 px skew walk. Run the skew screen first, every leaf.
+> - **★ REGISTER, reuse it:** *refulgentia excessiva* → **"transporting refulgence"** (*excessus* →
+>   "transport" holds; "excessive" reverses the sense) · *luculenta consideratio* → "luminous
+>   consideration" · *fulgor* → "brightness" · *refulgentia* → "refulgence" · *praeclaritas* →
+>   "resplendence" · *limpiditas* → "limpidity" · *radiatio mansiva, decora, iucunda* → "abiding,
+>   comely, joyous radiation" · *tentio, visio, fruitio* → "holding, vision, fruition" · *hierarchizata*
+>   → "made hierarchic" · *signatio* → "signing" · *consummatio* → "consummation" · ⚠ *species* takes
+>   the Douay's "beauty" in the Eccli. 43:10 lemma, NOT the Itinerarium's technical "species".
+>
+> ## Cadence from here
+> **One gate remains: the work close**, at the Scholion (~p. 454). The deploy rides with it. Push
+> and deploy are both protected. **2 collationes remain after c21, then the Scholion.**
+
+
+---
+
+# (superseded) `bon-hex-c20` — DONE 2026-08-20
+
 > # ▶▶▶ START HERE — `bon-hex-c20` (Collatio XX), WHICH OPENS **PART-WAY DOWN p. 424**, NOT AT A LEAF HEAD.
 >
 > **State (verified in-session; ⚠ this is a claim about a system outside the repo and it expires —
