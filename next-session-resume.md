@@ -1,186 +1,83 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — `bon-sent-II-capitula` (pp. 7–**11**). It is fully scouted; the work left is transcription. Then Book IV.
+> # ▶▶▶ START HERE — **BOOK IV's front matter**: `bon-sent-IV-proem`, then its littera and capitula.
 >
-> ## ✅ `bon-sent-II-littera` IS TIER 2 (commit `5b34c02`) — p. 7, **no apparatus**
-> Zero-apparatus verified, not assumed: p. 7's two footer notes both answer to entries in the chapter
-> list, and the title, subtitle and transition sentence carry no anchor at magnification. **The
-> Sentences' first zero-apparatus chunk** (Vol V's `bon-itin-scholion` is the precedent). ★ Contrast
-> **Book III**, whose littera owned two entries — **the shape does not port between books.**
-> Build **2048 → 2049**.
+> ## ⛔⛔ THE ORDER — WILSON'S RULING, 2026-08-20. READ BEFORE THE POINTER.
+> **ALL FOUR SENTENCES PROEMIA MUST BE TIER 2 BEFORE THE NEXT DEPLOY — BOOK I INCLUDED.** The
+> Hexaemeron is **PARKED at `bon-hex-c20`**; c21–c23 and the work-close Scholion do **not** resume
+> until the proemia close. ⛔ The scoping doc's "must NOT fork the Hexaemeron front" is **DEAD** —
+> struck in place. Queue: **✅ Book II (done) → Book IV → Book I's family (8–11 chunks, 8–12
+> sessions) → Hexaemeron c21–c23 + Scholion → work-close gate → deploy.**
 >
-> ## ⚠⚠⚠ THE CAPITULA SPANS pp. 7–**11**, NOT 7–10 — AND EVERY EARLIER NOTE SAID 7–10
-> **Distinctions XXXVII–XLIV print on p. 11**, and the table closes there with **`EXPLICIUNT CAPITULA
-> SECUNDI LIBRI.`** part-way down the leaf; only then comes the rule and `DISTINCTIO I. / PARS I.`
-> ⚠ **p. 11's running head reads `DISTINCTIO I.` while the page is still the chapter list** — the
-> asymmetric-running-head class for the fourth time this session (pp. 419, 424, 431 in the
-> Hexaemeron, now p. 11 here). **The scoping doc's "gap = pp. 1–10" was derived by subtracting one
-> from the first chunk's `printed_pages`, which is the very mistake that document is about.**
-> ⛔ **Do the same check on Book IV before trusting its "pp. 1–9".**
+> ## ✅✅ BOOK II's FRONT MATTER IS COMPLETE — FOUR CHUNKS, 2026-08-20
+> `bon-sent-II-praelocutio` (pp. 1–3, 18 entries) · `bon-sent-II-proem` (pp. 3–6, 37) ·
+> `bon-sent-II-littera` (p. 7, **zero apparatus**) · `bon-sent-II-capitula` (pp. 7–**11**, 265
+> chapters, 21 entries). Build **2046 → 2050**; corpus QA flags **225 → 215**.
+> **★★ BOOK II's GAP WAS FOUR UNITS AND RAN A LEAF FURTHER THAN ANY NOTE SAID.** Two display-headed
+> works precede the Master's text (`PRAELOCUTIO` pp. 1–3, `PROOEMIUM` pp. 3–6), needing a new
+> **`praelocutio`** type (⛔ Book II only, like `-sN-` sectio); and the capitula runs to **p. 11**,
+> closing at `EXPLICIUNT CAPITULA SECUNDI LIBRI` **under a running head reading `DISTINCTIO I.`**
 >
-> ## Everything the capitula chunk needs, already read off the plate
-> - **Gutters (direct ink profile, confirmed by eye — NOT the window consensus):** p. 7 = **1560** ·
->   p. 8 = **1800** · p. 9 = **1570** · p. 10 = **1795** · p. 11 = not yet measured (stacked leaf:
->   table, then display matter, then the body's own two columns).
->   **★★★ p. 7's window consensus says 1715 with a spread of 0 px across every window and is WRONG —
->   it sits inside the right column.** A chapter list is ragged, so the left column's own white space
->   forms wide low-ink runs the measurement mistakes for the gutter. **On a table leaf, take the
->   printed divider rule from the direct profile and confirm by eye; a tight spread proves nothing.**
-> - **Coverage read and checked:** p. 7 L = dd. I–IV c. I · p. 7 R = dd. V–VII c. V · p. 8 L =
->   d. VII c. VI – d. XIII c. I · p. 8 R = d. XIII c. II – d. XVII c. IV · p. 9 L = d. XVII c. V –
->   d. XXIII c. I · p. 9 R = d. XXIII c. II – d. XXVII c. IV · p. 10 L = d. XXVII c. V – d. XXXI c.
->   III · p. 10 R = d. XXXI c. IV – d. XXXVI c. VI · p. 11 = dd. XXXVII–XLIV + `EXPLICIUNT`.
->   ★ **d. IV has exactly ONE chapter** — the left column of p. 7 ends after it and the right opens
->   `DISTINCTIO V.`; that is not a dropped column.
-> - **Apparatus:** p. 7 nn. 1–2 · p. 8 nn. 1–7 · p. 9 nn. 1–2 · p. 10 nn. 1–6 · **p. 11 nn. 1–4 only**
->   — ⚠ **p. 11's register is SHARED with `bon-sent-II-d1-littera`**, which owns nn. 5+ **and
->   renumbers them from 1** (the plate's n. 5 is its `[^1]`, n. 7 its `[^3]`, n. 8 its `[^4]`; older
->   Vol II convention, not a defect). Left/right block splits: p. 8 left block holds nn. 1–4 while
->   anchors 1–3 are left-column (overruns by one); p. 9's left block holds n. 1 whose anchor is in the
->   RIGHT column (overruns); p. 10 splits 3/3.
-> - **✅ The frozen test is satisfied and must not be re-decided:** p. 7's two notes sit **on the
->   table** and record its transmission (*Codd. D F et ed. 1 hic inserunt* ad ipsos vel, *quae lectio
->   est satis conformis ipsi capitulo*), so the chapter list is transmitted text and is chunked —
->   exactly as Book III's was.
-> - **Shape to follow:** `vol3/bon-sent-III-capitula.md` (31 entries) is the format reference.
+> ## ▶ BOOK IV — what to do, and what to check FIRST
+> Raw: `PROOEMIUM` **L862–~1160** · `LIBER QUARTUS SENTENTIARUM` **L1161** · `INCIPIUNT CAPITULA
+> QUARTI LIBRI` **L1172–1531** · `DISTINCTIO I.` **L1532**. Offset `pdf = printed + 20`.
+> ⛔⛔ **DO NOT TRUST "pp. 1–9".** That figure came from subtracting one from `bon-sent-IV-d1-p1-divisio`'s
+> `printed_pages`, which is exactly the mistake Book II just proved. **Extract the leaf where
+> `DISTINCTIO I.` prints and look above it** — Book II's table ran a full leaf past where the corpus
+> thought the body began.
+> ⚠ **Book IV's raw is column-truncated in this region** (the right column is cut mid-word from
+> ~L946), so this is a plate job throughout, not an OCR-with-checks job.
+> ⚠ **Check for a fourth unit**: does Book IV print anything before its `PROOEMIUM`, as Book II did?
+> ⚠ `extract-pages.py` vol4 `printed_min` is already 1, so the front is reachable.
 >
-> ## ✅ `bon-sent-II-proem` IS TIER 2 (commit `7662891`) — pp. 3–6, 36 entries, zero `[?]`
-> Build **2047 → 2048**; corpus QA flags **223 → 218** (it resolved five references that had been
-> pointing into printed pp. 3–6 of Vol II with nowhere to land — the third time a front-matter chunk
-> has done that). It contributes 33 records, zero dangling, zero QA lines.
-> **★★ p. 6's FOOTER CARRIES AN UNNUMBERED EDITORIAL `NOTA` AND THE SCHEMA HAS NOWHERE TO PUT IT.**
-> It is set in the footer register (so: apparatus, not body) but carries **no anchor anywhere**, and
-> an apparatus def without an anchor breaks marker pairing. It is transcribed **and translated** in
-> that chunk's `## Notes`, and inventing an anchor was refused as a silent emendation. ⬜ **Live
-> schema question — the unanchored editorial note is a recurring class** (Vol V's *Additamentum*).
-> If more turn up, give the parser an explicit slot rather than deciding per chunk.
-> **★ p. 6 n. 6 EXPLAINS THE NEXT CHUNK'S EXISTENCE:** the codices run straight on from the proemium
-> into the *divisio textus,* and Quaracchi, with the Vatican edition, **interjected the Master's
-> text** — which is exactly what `bon-sent-II-littera` is. The boundary is the edition's own.
+> ## ★★★ GUTTER LESSONS FROM BOOK II — BOTH COST REAL TIME, BOTH GENERALISE
+> 1. **The volume default is wrong in front matter.** CLAUDE.md gives Vol II `1660`; measured
+>    **1512 · 1769 · 1538 · 1804 · 1544 · 1800** on pp. 1–6. At 1660 p. 1's right-column crop
+>    silently drops the first character of every line (*est* → *st*). **Profile every leaf.**
+> 2. **A WINDOW CONSENSUS CAN BE PERFECTLY TIGHT AND PERFECTLY WRONG.** On the p. 7 table,
+>    fifteen windows agreed at **1715 with 0 px spread** — the shape the frozen method calls proof —
+>    and 1715 sits **inside the right column**. True split **1560**, from the direct ink profile
+>    (text ends ~1460 · blank · divider rule 1560–1580 · blank · right column ~1640).
+>    **A chapter list is RAGGED: short entries make the left column's own white space look like a
+>    gutter.** On a table leaf, take the printed rule from the direct profile and confirm by eye.
+>    ★ Vol II's **body** leaves have no printed centre rule at all (peak ink 6–22); its **tables**
+>    do — on a table the rule *is* the gutter.
 >
-> ## What is left in Book II, and what the plates already show
-> - **`bon-sent-II-littera`** — p. 7: the display heading `LIBER SECUNDUS SENTENTIARUM` with its
->   subtitle *DE RERUM CREATIONE ET FORMATIONE CORPORALIUM ET SPIRITUALIUM ET ALIIS PLURIBUS EO
->   PERTINENTIBUS,* then Lombard's transition sentence (*Quae ad mysterium divinae Unitatis atque
->   Trinitatis… nunc ad considerationem creaturarum transeamus*). Follow `bon-sent-III-littera`.
-> - **`bon-sent-II-capitula`** — pp. 7–10: `INCIPIUNT CAPITULA SECUNDI LIBRI`, the chapter list for
->   all 44 distinctions, set in two columns. **✅ THE FROZEN TEST IS ALREADY SATISFIED: p. 7's table
->   carries apparatus ON the table** (two notes, on the transmission of the list itself), so it is
->   transmitted text and is chunked, exactly as Book III's was. Do not re-decide it.
-> - ⚠ **p. 7's footer splits between the two** — read the anchors, and expect the littera to own only
->   what answers to its own few lines.
-> - **Plates pp. 1–10 are on disk**; pp. 8–10 have not been profiled or read yet.
->
-> ## ★★ VOL II GUTTERS — MEASURED, AND THE VOLUME DEFAULT IS WRONG ON EVERY FRONT-MATTER LEAF
-> **p. 1 = 1512 · p. 2 = 1769 · p. 3 = 1538 · p. 4 = 1804 · p. 5 = 1544 · p. 6 = 1800**, against
-> CLAUDE.md's `1660`. They alternate recto/verso — **and that is a description of six leaves, not a
-> rule to predict from**; Vol V's parity model was retired for exactly that mistake. ⚠ **Vol II has
-> no printed centre rule** (peak ink 6–22 against Vol V's 170–700), so the ink-island check that
-> validates a Vol V measurement is unavailable: the band edges are the whole signal.
-> ⚠ `colcrop vol2 <p> auto` fails outright on a display-heading leaf (506 px run on p. 1).
->
-> ## Register frozen across the Book II front matter — reuse it
-> *habitudo* → **"respect"** against *relatio* → "relation" (Vol I d. 28's settlement; the
-> Itinerarium's *habitudo* → "relation" CANNOT stand where both are live) · *innascibilis /
-> innascibilitas* → "unbegotten / unbegottenness" · *diiudicare* → **"to adjudge"** (Itinerarium c2,
-> so that *iudicare* keeps "judge" — both families are live in the proemium) · *conditio* →
-> **"making"** against *deviatio* → "deviation" · *obliquatio* → "crookedness" · *transumtive* → "by
-> transumption" · ⚠ *rectus / rector / rex* is a play English cannot carry; it is **recorded as a
-> loss**, not patched with a coinage.
->
-> ## ✅ `bon-sent-II-praelocutio` IS TIER 2 (commit `567fe42`) — pp. 1–3, 18 entries, zero `[?]`
-> **★★ BOOK II's GAP IS FOUR UNITS, NOT THREE.** The plate prints TWO display-headed works before
-> the Master's text: the `PRAELOCUTIO` (pp. 1–3) and the `PROOEMIUM` (pp. 3–6). A new chunk type
-> **`praelocutio`** was added to `build-content.mjs` (typeOrder −2, ahead of `proemium`); ⛔ **Book II
-> only, do not generalize.** Build **2046 → 2047**; QA flags **225 → 223**.
-> **★★ HAND-OFF INTO `-proem`: p. 3's footer block holds nn. 1–4 and BREAKS INSIDE n. 4**, which
-> continues unnumbered in the right block. **n. 4 is anchored on the PROOEMIUM's own lemma**
-> (*…se infinitis immiscuit quaestionibus⁴*, Eccl. 7:30), so n. 4, its runover, and the rest of p. 3's
-> register are the proemium's. nn. 1–3 are the praelocutio's. ⚠ Re-derive it.
-> **★★ THE VOL II GUTTER CONSTANT IS WRONG IN THE FRONT MATTER — by up to 250 px.** Measured:
-> **p. 1 = 1512 · p. 2 = 1769 · p. 3 = 1538**, against CLAUDE.md's `1660`. At 1660 p. 1's right-column
-> crop silently drops the first character of every line (*est* → *st*). `colcrop vol2 1 auto` returns
-> 1724 on a **506 px** run — it fails outright on a display-heading leaf, and Vol II has no printed
-> centre rule to anchor the band. **Profile every leaf; pp. 4–6 and 7–10 are not measured yet.**
-> **★ REGISTER, already settled and reusable:** *habitudo* → **"respect"** against *relatio* →
-> "relation" (the Itinerarium's *habitudo* → "relation" CANNOT stand where both are live; Vol I
-> d. 28 a. 1 q. 2 settled it) · *innascibilis / innascibilitas* → "unbegotten / unbegottenness" ·
-> *ratio generandi* → "the ground of generating" · *status* → "stopping-place" · *transumtive* → "by
-> transumption".
-> **★ p. 7's capitula table CARRIES APPARATUS** (two notes on the table itself) → **the frozen test is
-> satisfied and `bon-sent-II-capitula` is chunked**, like Book III's.
-> **⚠ FORWARDED DEFECT, not this chunk's to fix:** Quaracchi cite `IV. Sent. d. 2. p. I.`, but the
-> corpus's Book IV d. 2 has **no pars chunks** (`IV-d2-a1-q1..q3`, `IV-d2-a2-q1..q3`) and the raw has
-> no `DIST. II. P. I.` running head. Two other Vol IV chunks cite the same shape. **A Book IV
-> chunking question — hand it to whoever next works that front.**
->
-> ## ⛔⛔ THE ORDER CHANGED — WILSON'S RULING, 2026-08-20. READ THIS BEFORE THE POINTER.
-> **ALL FOUR SENTENCES PROEMIA MUST BE TIER 2 BEFORE THE NEXT DEPLOY — BOOK I INCLUDED.**
-> The Hexaemeron front is **PARKED at `bon-hex-c20`** (Tier 2, committed `bfdcbe6`). c21–c23 and the
-> work-close Scholion do **not** resume until the proemia close. ⛔ **The scoping doc and the older
-> blocks below say the proemia "must NOT fork the Hexaemeron front" — that instruction is DEAD.
-> Wilson reversed it. Do not follow it.**
-> Queue: **J1 remainder (Books II, IV — 6 chunks, ~2 sessions) → J3 (Book I family, 8–11 chunks,
-> 8–12 sessions) → Hexaemeron c21–c23 + Scholion → work-close gate → deploy.**
->
-> ## ✅ BOOK II's AND BOOK IV's GAPS ARE THREE UNITS EACH, LIKE BOOK III's — CONFIRMED ON THE RAW
-> | | proemium | Lombard's littera | capitula | → `DISTINCTIO I.` |
-> |---|---|---|---|---|
-> | **II** | `PRAELOCUTIO` + `PROOEMIUM`, raw L701–~1094 | `LIBER SECUNDUS SENTENTIARUM` … *nunc ad considerationem creaturarum transeamus,* ~L1094 | `INCIPIUNT CAPITULA SECUNDI LIBRI`, L1099–1416 | L1417 |
-> | **IV** | `PROOEMIUM`, raw L862–~1160 | `LIBER QUARTUS SENTENTIARUM`, L1161 | `INCIPIUNT CAPITULA QUARTI LIBRI`, L1172–1531 | L1532 |
-> ⚠ **Raw line numbers only. Every printed page and every boundary gets fixed on the plate.**
->
-> ## ✅ THE PLATES ARE ON DISK — AND THE TOOL HAD TO BE UNBLOCKED FIRST
-> `raw/vision/vol2/p-001.png` … `p-010.png` are extracted at 450 dpi.
-> **★★ `extract-pages.py` REFUSED vol2 pp. 1–10 with `page out of range [11, 1030]`.** `printed_min`
-> was **11** — which is where the corpus's FIRST CHUNK starts, not where the book starts. **That is
-> the proemia defect class living in the tooling**: a configured floor standing in for a fact about
-> the text. Widened to 1 and commented in place. **vol3 was already 1 (the Book III session hit
-> this); vol4 is already 1. Check any new volume's floor before believing an "out of range".**
->
-> ## What Book II's chunks are
-> - **`bon-sent-II-proem`** — the `PRAELOCUTIO` and `PROOEMIUM`. **This is the *pauper et tenuis
->   compilator* passage** (*Nec quisquam aestimet, quod novi scripti velim esse fabricator; hoc enim
->   sentio et fateor, quod sum pauper et tenuis compilator*, raw L710–715) — the single most-cited
->   sentence Bonaventure wrote about his own method, and it has never been in the corpus. Lemma
->   *Salvatoris opitulante gratia…*
-> - **`bon-sent-II-littera`** — `LIBER SECUNDUS SENTENTIARUM` with its subtitle *DE RERUM CREATIONE
->   ET FORMATIONE CORPORALIUM ET SPIRITUALIUM…* and Lombard's transition sentence.
-> - **`bon-sent-II-capitula`** — Lombard's chapter list for all 44 distinctions, set in two columns.
->   ⚠ **Chunk it only if it carries apparatus ON the table** — the frozen Itinerarium test, which is
->   what settled Book III's (31 entries → chunked). Read the table's own footer before deciding.
-> Follow `bon-sent-III-proem` / `-littera` / `-capitula` as the format reference; they are three
-> weeks old and were built to this exact shape.
+> ## ✅ CONVENTIONS SETTLED THIS SESSION — reuse, don't re-decide
+> - **UNNUMBERED EDITORIAL NOTES ARE ANCHORED AS *CLOSING NOTES*** (Wilson's ruling; now frozen in
+>   CLAUDE.md). `NOTA`/*Additamentum* with no marker in the body → `[^p<page>-nota]` anchored after
+>   the final word of the body in both languages. `displayLabel()` strips the `p<page>-` namespace so
+>   the reader sees *nota*, never a fabricated number. **Headnote asserts *where*; closing note
+>   asserts only *scope*** — which is what an unnumbered note standing last already claims.
+> - **The frozen capitula test**: apparatus **on the table** ⇒ transmitted text ⇒ chunked. Book II
+>   passed with 21 entries, Book III with 31. **Apply it to Book IV and to Book I; don't re-decide.**
+> - **Register (Book I's own settlement, not invented):** *habitudo* → **"respect"** vs *relatio* →
+>   "relation" (⚠ the Itinerarium's *habitudo* → "relation" CANNOT stand where both are live; Vol I
+>   d. 28 a. 1 q. 2 settled it) · *innascibilis / innascibilitas* → "unbegotten / unbegottenness" ·
+>   *diiudicare* → "to adjudge" (so *iudicare* keeps "judge") · *conditio* → "making" vs *deviatio* →
+>   "deviation" · *transumtive* → "by transumption" · ⚠ *rectus / rector / rex* is a play English
+>   cannot carry — **recorded as a loss, not patched with a coinage.**
 >
 > ## ⛔ THE THREE GUARD-RAIL AUDITS CANNOT SEE A FRONT-MATTER CHUNK
-> `audit-{paraphrase,headers,apparatus-count}.py` select by the filename regex `bon-sent-II-d(\d+)-`.
-> A chunk with no `-dN-` segment never matches at any `--min-d`, and **all three print a clean
-> verdict on 0 chunks audited.** Do NOT record such a run as audits-clean. Either extend the regexes
-> or verify by marker-pairing + plate discipline and say which you did. Same footgun as
-> `check-live-flags.py --volume 5`.
+> They select on the filename regex `bon-sent-{II,III,IV}-d(\d+)-`; a proemium, littera or capitula
+> never matches, and **all three print a clean verdict on 0 chunks audited.** Never record such a run
+> as audits-clean. Verify by marker pairing + structural parity + plate discipline, and say so.
 >
-> ## Book I (J3) — the judgement-dense one, and Wilson has ruled on its capitula
-> ~22,900 OCR words hiding inside `vol1/bon-sent-I-proleg.md` (raw L8900–12784): the four-rivers
-> prologue, four *quaestiones prooemiales* with `CONCLUSIO` and `SCHOLION`, Lombard's Prologue,
-> `CAPITULA PRIMI LIBRI`, and the `COMMENTARIUS IN PROLOGUM` family. **8–11 chunks, 8–12 sessions.**
-> **✅ Wilson's ruling on `CAPITULA PRIMI LIBRI` (2026-08-20): APPLY THE FROZEN TEST, do not
-> re-decide it** — read the table on the plate; apparatus ON the table means it is transmitted text
-> and is chunked, no apparatus means it is editorial and stays out. The scoping doc's "Wilson's
-> call" line is now answered.
-> ⚠ **Leave `bon-sent-I-proleg.md` untouched**; cut from `raw/bonaventure_vol1_raw.txt` and retitle
-> the proleg file so it cannot swallow a second work. Full plan: `manual-review/proemia-gap-scoping.md`.
+> ## ⚠ FORWARDED DEFECT — Book IV's d. 2 pars, not this session's to fix
+> Quaracchi cite `IV. Sent. d. 2. p. I.` (three chunks do), but the corpus's Book IV d. 2 has **no
+> pars chunks** (`IV-d2-a1-q1..q3`, `IV-d2-a2-q1..q3`) and the raw carries no `DIST. II. P. I.`
+> running head. One dangling QA flag in `bon-sent-II-praelocutio` traces to it. **Hand it to whoever
+> works the Book IV front — flagged, not emended.**
 >
 > ## ⚠ STILL OWED BEFORE/WITH THE NEXT DEPLOY
-> 1. **The mid-work gate's `Dictae salutis` fix is still NOT LIVE** (`bon-hex-c8`, p. 372 n. 1).
-> 2. The About page's **"What Is Known to Be Wrong"** section — Wilson's to frame.
+> 1. **The `Dictae salutis` fix is still NOT LIVE** (`bon-hex-c8`, p. 372 n. 1).
+> 2. The About page's **"What Is Known to Be Wrong"** — Wilson's to frame.
 > 3. **All four proemia**, per the ruling above.
 >
-> ## Corpus state at the park (verified in-session 2026-08-20)
-> `build-content.mjs` **2046/2046, 8 books** · `check-vol5-apparatus.py` **110 chunks / 1,718
-> entries** (only p. 431 nn. 2–3 PENDING, forwarded to c21 by design) · `check-vol5-census.py`
-> **110/110** · `polish-style-scan --volume 5` CLEAN · `check-live-flags.py vol5` **6 occurrences /
-> 3 flags** · `build-citations.py` QA flags **225**.
-
+> ## Corpus state (verified in-session 2026-08-20)
+> `build-content.mjs` **2050/2050, 8 books** · `polish-style-scan --volume 2` CLEAN ·
+> `build-citations.py` QA flags **215** · vol5: apparatus **110 chunks / 1,718 entries**, census
+> **110/110**, live flags **6 occurrences / 3 flags**. ⚠ Nothing pushed; push and deploy are protected.
 
 ---
 
