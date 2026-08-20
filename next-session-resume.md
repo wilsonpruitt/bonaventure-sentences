@@ -1,6 +1,48 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — `bon-sent-II-littera` (p. 7), THEN `bon-sent-II-capitula` (pp. 7–10). Then Book IV.
+> # ▶▶▶ START HERE — `bon-sent-II-capitula` (pp. 7–**11**). It is fully scouted; the work left is transcription. Then Book IV.
+>
+> ## ✅ `bon-sent-II-littera` IS TIER 2 (commit `5b34c02`) — p. 7, **no apparatus**
+> Zero-apparatus verified, not assumed: p. 7's two footer notes both answer to entries in the chapter
+> list, and the title, subtitle and transition sentence carry no anchor at magnification. **The
+> Sentences' first zero-apparatus chunk** (Vol V's `bon-itin-scholion` is the precedent). ★ Contrast
+> **Book III**, whose littera owned two entries — **the shape does not port between books.**
+> Build **2048 → 2049**.
+>
+> ## ⚠⚠⚠ THE CAPITULA SPANS pp. 7–**11**, NOT 7–10 — AND EVERY EARLIER NOTE SAID 7–10
+> **Distinctions XXXVII–XLIV print on p. 11**, and the table closes there with **`EXPLICIUNT CAPITULA
+> SECUNDI LIBRI.`** part-way down the leaf; only then comes the rule and `DISTINCTIO I. / PARS I.`
+> ⚠ **p. 11's running head reads `DISTINCTIO I.` while the page is still the chapter list** — the
+> asymmetric-running-head class for the fourth time this session (pp. 419, 424, 431 in the
+> Hexaemeron, now p. 11 here). **The scoping doc's "gap = pp. 1–10" was derived by subtracting one
+> from the first chunk's `printed_pages`, which is the very mistake that document is about.**
+> ⛔ **Do the same check on Book IV before trusting its "pp. 1–9".**
+>
+> ## Everything the capitula chunk needs, already read off the plate
+> - **Gutters (direct ink profile, confirmed by eye — NOT the window consensus):** p. 7 = **1560** ·
+>   p. 8 = **1800** · p. 9 = **1570** · p. 10 = **1795** · p. 11 = not yet measured (stacked leaf:
+>   table, then display matter, then the body's own two columns).
+>   **★★★ p. 7's window consensus says 1715 with a spread of 0 px across every window and is WRONG —
+>   it sits inside the right column.** A chapter list is ragged, so the left column's own white space
+>   forms wide low-ink runs the measurement mistakes for the gutter. **On a table leaf, take the
+>   printed divider rule from the direct profile and confirm by eye; a tight spread proves nothing.**
+> - **Coverage read and checked:** p. 7 L = dd. I–IV c. I · p. 7 R = dd. V–VII c. V · p. 8 L =
+>   d. VII c. VI – d. XIII c. I · p. 8 R = d. XIII c. II – d. XVII c. IV · p. 9 L = d. XVII c. V –
+>   d. XXIII c. I · p. 9 R = d. XXIII c. II – d. XXVII c. IV · p. 10 L = d. XXVII c. V – d. XXXI c.
+>   III · p. 10 R = d. XXXI c. IV – d. XXXVI c. VI · p. 11 = dd. XXXVII–XLIV + `EXPLICIUNT`.
+>   ★ **d. IV has exactly ONE chapter** — the left column of p. 7 ends after it and the right opens
+>   `DISTINCTIO V.`; that is not a dropped column.
+> - **Apparatus:** p. 7 nn. 1–2 · p. 8 nn. 1–7 · p. 9 nn. 1–2 · p. 10 nn. 1–6 · **p. 11 nn. 1–4 only**
+>   — ⚠ **p. 11's register is SHARED with `bon-sent-II-d1-littera`**, which owns nn. 5+ **and
+>   renumbers them from 1** (the plate's n. 5 is its `[^1]`, n. 7 its `[^3]`, n. 8 its `[^4]`; older
+>   Vol II convention, not a defect). Left/right block splits: p. 8 left block holds nn. 1–4 while
+>   anchors 1–3 are left-column (overruns by one); p. 9's left block holds n. 1 whose anchor is in the
+>   RIGHT column (overruns); p. 10 splits 3/3.
+> - **✅ The frozen test is satisfied and must not be re-decided:** p. 7's two notes sit **on the
+>   table** and record its transmission (*Codd. D F et ed. 1 hic inserunt* ad ipsos vel, *quae lectio
+>   est satis conformis ipsi capitulo*), so the chapter list is transmitted text and is chunked —
+>   exactly as Book III's was.
+> - **Shape to follow:** `vol3/bon-sent-III-capitula.md` (31 entries) is the format reference.
 >
 > ## ✅ `bon-sent-II-proem` IS TIER 2 (commit `7662891`) — pp. 3–6, 36 entries, zero `[?]`
 > Build **2047 → 2048**; corpus QA flags **223 → 218** (it resolved five references that had been

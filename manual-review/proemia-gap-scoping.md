@@ -26,9 +26,23 @@ First chunk in each volume, with the gap it leaves in front of it:
 | Vol | First chunk on disk | Printed | PDF | Offset | **Gap in front** |
 |----:|---|---:|---:|---:|---|
 | I   | `bon-sent-I-d1-divisio`     | 29 | 131 | +102 | **pp. 1–28** |
-| II  | `bon-sent-II-d1-littera`    | 11 |  33 |  +22 | **pp. 1–10** |
+| II  | `bon-sent-II-d1-littera`    | 11 |  33 |  +22 | **pp. 1–11** ⚠ see below |
 | III | `bon-sent-III-d1-divisio`   |  7 |  29 |  +22 | **pp. 1–6**  |
 | IV  | `bon-sent-IV-d1-p1-divisio` | 10 |  30 |  +20 | **pp. 1–9**  |
+
+> ### ⚠⚠ CORRECTED 2026-08-20 — BOOK II's GAP RUNS INTO p. 11, AND THE TABLE ABOVE UNDERSTATED IT
+> The "gap in front" column was derived by subtracting one from each first chunk's `printed_pages`.
+> That is **the same mistake the whole document is about**: it assumes the body begins where the
+> corpus's first chunk begins. On the plate, **Book II's `CAPITULA SECUNDI LIBRI` runs onto p. 11**,
+> where Distinctions XXXVII–XLIV print and the table closes with **`EXPLICIUNT CAPITULA SECUNDI
+> LIBRI.`** part-way down the leaf; only *then* comes the rule and `DISTINCTIO I. / PARS I.`
+> ⚠ **p. 11's running head reads `DISTINCTIO I.` while the page is still the chapter list** — the
+> asymmetric-running-head class, met for the fourth time this session.
+> ★ **p. 11's footer register is therefore SHARED:** nn. 1–4 are the capitula's (anchors in dd.
+> XXXVIII, XL, XLII), nn. 5+ are `bon-sent-II-d1-littera`'s — and **that existing chunk renumbers
+> them from 1**, so the plate's n. 5 is its `[^1]`, the plate's n. 7 its `[^3]`, the plate's n. 8 its
+> `[^4]`. (Older Vol II convention; the Hexaemeron's page-qualified `[^pNNN-N]` labels came later.)
+> **Verify the same way for Book IV before trusting its `pp. 1–9`.**
 
 ⚠ **The printed page ranges are DERIVED from those offsets, not read off a plate.** Every start
 line below *was* read on the raw text and is quoted. Verify the page numbers on the plate before
