@@ -1,5 +1,87 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **BOOK I's PROEMIUM FAMILY**, the last of the four fronts before the deploy.
+> ⚠ **Its shape is NOT known and must not be assumed from Books II–IV.** Scout first; see below.
+>
+> ## ⛔⛔ THE ORDER — WILSON'S RULING, 2026-08-20. READ BEFORE THE POINTER.
+> **ALL FOUR SENTENCES PROEMIA MUST BE TIER 2 BEFORE THE NEXT DEPLOY — BOOK I INCLUDED.** The
+> Hexaemeron is **PARKED at `bon-hex-c21`**; c21–c23 and the work-close Scholion do **not** resume
+> until the proemia close. Queue: **✅ Book II (done) → ✅ Book III (done) → ✅ Book IV (done, this
+> session) → Book I's family → Hexaemeron c21–c23 + Scholion → work-close gate → deploy.**
+>
+> ## ✅ BOOK IV's FRONT MATTER IS COMPLETE — THREE CHUNKS (2026-08-20)
+> `-proem` (pp. 1–3, 25 entries) · `-littera` (p. 4, **zero** entries) · `-capitula` (pp. 4–8,
+> **50 distinctions, 288 chapters, 25 entries**). Build **2051 → 2053**; Book IV's division 0 now
+> renders Proemium / Textus Magistri / Capitula in printed order. `build-citations.py` QA flags
+> **211, unchanged** — the two new chunks contribute zero flags. `polish-style-scan` full corpus:
+> the same **10 PAIR issues across 5 chunks, all pre-existing** (`III-d31-a3-q3`, `III-d32-a1-q2`,
+> `III-d5-a2-q4`, `IV-d14-p2-a2-q1`, `IV-d16-p2-a2-q2`). Nothing pushed; push and deploy protected.
+>
+> ## ★★★ WHAT BOOK IV PAID FOR — CARRY THESE INTO BOOK I
+> - **★★★ THE CLOSING FORMULA IS NOT A CONSTANT.** Book II's table ends on `EXPLICIUNT CAPITULA
+>   SECUNDI LIBRI.`; **Book IV prints no EXPLICIUNT at all** — the table just stops part-way down
+>   p. 8's right column and the next thing on the leaf is the `DISTINCTIO I. / Pars I.` display
+>   heading. **Close a span on what is printed, never on the formula the last book used.**
+> - **★★ THE LIST AND THE MASTER'S TEXT CAN DISAGREE, AND BOTH STAND.** d. XXIV's capitula reads
+>   *V. De lectoribus · VI. De ostiariis*; the body's own headings in `bon-sent-IV-d24-p1-littera`
+>   run doorkeepers-then-lectors. Quaracchi prints both and notes neither. **Do not harmonise.**
+> - **★★ THE RAGGED-TABLE GUTTER FAILURE REPEATED, EXACTLY AS `bon-sent-II-capitula` PREDICTED.**
+>   Window consensus spread 1884–1970 on p. 4 and 1710–1798 on p. 7 and is worthless; what settled
+>   every leaf is **the printed divider rule in the direct per-column ink profile** (a narrow,
+>   high-peak island — p. 5's peak is 3941). Measured **1973 / 1709 / 1968 / 1708 / 1973**;
+>   `colcrop`'s vol4 default 1660 and CLAUDE.md's x≈1880 both truncate a column on every leaf.
+> - **★ A BOOK-LITTERA CAN OWN ZERO APPARATUS AND THAT IS A READING, NOT AN ASSUMPTION.** p. 4's
+>   seven footer notes were each traced to an anchor **on the table below the littera** before
+>   `has_apparatus: false` was written. Book III's littera owned two; Book II's owned none.
+> - **★ THE PROEM'S OWN LAST NOTE AUTHORISES THE LITTERA CHUNK.** p. 3 n. 5: *Nobis autem cum
+>   Vaticana interiiciendus erat textus Magistri* — the same sentence as Book II's p. 6 n. 6.
+>
+> ## ★★ BOOK I — WHAT IS KNOWN, AND IT IS SCOUTING, NOT MEASUREMENT
+> - **⚠ p. 1 IS ALREADY CLAIMED.** `vol1/bon-sent-I-d1-commentary.md` is a **17-word stub** at
+>   `printed_pages: [1]` holding a `DISTINCTIO I.` running head, an editorial subtitle, and the
+>   Lombard incipit lemma *«Veteris ac novae Legis continentiam» etc.* **Whatever Book I's front
+>   turns out to be, that stub is in its way** — decide deliberately whether the new proem chunk
+>   supersedes it, absorbs it, or sits beside it. Do not silently overwrite it.
+> - **⚠ BOOK I's LITTERA IS NOT AT THE FRONT.** `bon-sent-I-d1-littera` is **pp. 26–28** — i.e.
+>   the Master's text sits at the *end* of d. 1, not before it. Book I's page order is not Book
+>   IV's, and the "3–4 units in a gap" rule may not describe it at all.
+> - **Offset `pdf = printed + 102`** (from d1-commentary: printed 1 = PDF 103). **⚠ Vol I pages
+>   1–29 are NOT extracted** — `raw/vision/vol1/` holds only a scattered handful. Extract before
+>   anything: `python3.11 tools/extract-pages.py --volume vol1 --pages 1-10 --dpi 450`; `df -h /`
+>   first (9 GB free at session close).
+> - **⚠ Vol I is single-column ABBYY OCR and its raw is far better than Vols II–V's djvu** — but
+>   `grep` for `CAPITULA PRIMI LIBRI` / `PROOEMIUM` / `LIBER PRIMUS` in
+>   `raw/bonaventure_vol1_raw.txt` returns **nothing**. That is the empty-grep trap: it means the
+>   heading is OCR-mangled or the region is elsewhere, **not** that Book I has no front matter.
+>   **Read the plates for pp. 1–10 before concluding anything about the shape.**
+> - **★ The capitula test is already settled and must not be re-decided**: a table is transmitted
+>   text when it carries apparatus **on the table.** Apply it to Book I's list; don't re-argue it.
+>
+> ## ⛔ THE THREE GUARD-RAIL AUDITS CANNOT SEE A FRONT-MATTER CHUNK
+> They select on the filename regex `bon-sent-{I,II,III,IV}-d(\d+)-`; a proemium, littera or
+> capitula at distinctio 0 never matches, and **all three print a clean verdict on 0 chunks
+> audited.** Never record such a run as audits-clean. Verify by marker pairing + structural parity
+> + plate discipline, and say so.
+>
+> ## ⚠ FORWARDED DEFECT — Book IV's d. 2 pars, still nobody's fix
+> Quaracchi cite `IV. Sent. d. 2. p. I.` (three chunks do), but the corpus's Book IV d. 2 has **no
+> pars chunks** (`IV-d2-a1-q1..q3`, `IV-d2-a2-q1..q3`) and the raw carries no `DIST. II. P. I.`
+> running head. **Hand it to whoever works Book IV's body.**
+>
+> ## ⚠ STILL OWED BEFORE/WITH THE NEXT DEPLOY
+> 1. **The `Dictae salutis` fix is still NOT LIVE** (`bon-hex-c8`, p. 372 n. 1).
+> 2. The About page's **"What Is Known to Be Wrong"** — Wilson's to frame.
+> 3. **Book I's proemium family**, per the ruling above.
+>
+> ## Corpus state (verified in-session 2026-08-20)
+> `build-content.mjs` **2053/2053, 8 books** · `build-citations.py` QA flags **211** ·
+> `polish-style-scan` **10 PAIR issues / 5 chunks, all pre-existing.**
+> ⚠ Nothing pushed; push and deploy are protected.
+
+---
+
+# (superseded) Book IV front matter — DONE 2026-08-20
+
 > # ▶▶▶ START HERE — **`bon-sent-IV-littera`** (p. 4, the Master's text under `LIBER QUARTUS
 > SENTENTIARUM / DE DOCTRINA SIGNORUM`), then **`bon-sent-IV-capitula`** (pp. 4–8).
 >
