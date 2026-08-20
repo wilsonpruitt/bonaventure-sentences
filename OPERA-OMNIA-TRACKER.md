@@ -6,6 +6,16 @@ Omnia* end-to-end. Companion to `PLAN.md` (phases) and `progress.md`
 
 Last updated: 2026-04-14.
 
+> ⛔ **STALE — DO NOT TRUST THE SCOPE TABLE BELOW (noted 2026-08-19).** It reports Vols II, III and
+> IV as raw text "❌ empty file" with 0 chunks done. All three are chunked (464 / 412 / 646 files)
+> and **Vol III is live**. Every session estimate downstream of that table is therefore wrong.
+> Vol V's Hexaemeron front is also far past what this records — the repo's `next-session-resume.md`
+> is authoritative for state, always.
+>
+> ⚠ **The table also never counted the four Sentences Proemia**, which are missing from the corpus
+> entirely — see `manual-review/proemia-gap-scoping.md`. Add ~11–14 chunks across Vols I–IV when
+> these numbers are next rebuilt.
+
 ---
 
 ## Velocity assumptions

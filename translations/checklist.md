@@ -11,7 +11,18 @@
 
 
 ## Prolegomena
-- [ ] `bon-sent-I-proleg`
+- [ ] `bon-sent-I-proleg` — ⛔ **MISLABELLED: this one box hides ~8–11 chunks of Bonaventure.**
+  Raw L8900–12784 of this file is the **Proemium**, the four `PROOEMII QUAEST.`, Lombard's Prologue
+  and `COMMENTARIUS IN PROLOGUM` — not editors' front matter. Do not tick this box; the proemium
+  must be cut out into its own chunk family first. See `manual-review/proemia-gap-scoping.md` (J3).
+
+## Proemia — MISSING FROM ALL FOUR BOOKS (raised 2026-08-19)
+Scoping, evidence and job order: `manual-review/proemia-gap-scoping.md`. J2 (a pre-distinction slot
+in `content.json`) blocks the deploy of all of these. Not started; parked behind the Hexaemeron.
+- [ ] `bon-sent-II-proem` — *Praelocutio*, raw L704–1452, printed pp. ~1–10
+- [ ] `bon-sent-III-proem` — Eph 2:4, raw L702–1058, printed pp. ~1–6 ⚠ Book III is LIVE without it
+- [ ] `bon-sent-IV-proem` — Ecclus 38:7, raw L862–1531, printed pp. ~1–9 ⚠ raw unusable, needs plate
+- [ ] `bon-sent-I-proem` + `-q1`…`-q4` + `-littera` + prologue-commentary family — printed pp. ~1–28
 
 ## Distinctio 1
 - [x] `bon-sent-I-d1-littera` — Lombard Caps. I–III (pp. 26–28), translated via vision pass 2026-04-10

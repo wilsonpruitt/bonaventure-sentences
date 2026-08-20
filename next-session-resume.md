@@ -16,6 +16,17 @@
 > 1. **The mid-work gate's `Dictae salutis` fix is still NOT LIVE** (`bon-hex-c8`, p. 372 n. 1).
 > 2. The About page's **"What Is Known to Be Wrong"** section — Wilson's to frame.
 >
+> ## ⛔ MISSING TEXT, PARKED ON PURPOSE — THE FOUR SENTENCES PROEMIA (raised 2026-08-19)
+> **Books I–IV all begin at Distinction I. Not one proemium is chunked, translated, or renderable.**
+> Book I's — the four-rivers prologue and the four *quaestiones prooemiales*, ~22,900 OCR words —
+> is hiding inside `vol1/bon-sent-I-proleg.md`, a bare Latin-only OCR dump titled "Prolegomena,"
+> raw L8900–12784. Books II–IV have no file at all; **Book II's is the *Praelocutio*** (*sum pauper
+> et tenuis compilator*). **Book III is LIVE without its proemium.** `content.json` has no
+> pre-distinction slot, so nothing here is deployable until the schema gains one.
+> ⛔ **This does NOT block the Hexaemeron front and must NOT fork it** — finish c20→the work close
+> and the deploy first. Full scoping, evidence, chunk plan and the four jobs in dependency order:
+> **`manual-review/proemia-gap-scoping.md`**.
+>
 > ## ⛔ THE `[?]` BASELINE MOVED — 4 occurrences / 2 flags → **6 / 3**
 > `python3.11 tools/check-live-flags.py vol5` (scans 109; **positional dir, NOT `--volume`** —
 > `--volume 5` scans 0 chunks and still prints a clean verdict). The new third flag is
