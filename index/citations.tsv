@@ -3638,7 +3638,7 @@ bon-sent-II-d21-dubia	2	latin_body	14	scripture	body-ordinal	Iacobi primo	Iac 1:
 bon-sent-II-d21-dubia	2	latin_body	18	scripture	body-ordinal	Iob quadragesimo	Iob 40:9	B	verse		
 bon-sent-II-d21-dubia	2	apparatus:1	1	scripture	apparatus-explicit	Num. 22, 28	Num 22:28	A	verse		
 bon-sent-II-d21-dubia	2	apparatus:8	8	scripture	apparatus-explicit	I Ioann. 2, 16	1Ioan 2:16	A	verse		
-bon-sent-II-d21-dubia	2	apparatus:9	9	crossref	page	pag. 10			dangling		
+bon-sent-II-d21-dubia	2	apparatus:9	9	crossref	page	pag. 10	bon-sent-II-capitula		chunk		
 bon-sent-II-d21-dubia	2	apparatus:11	11	scripture	apparatus-explicit	Psalm. 106, 18	Ps 106:18	A	verse		
 bon-sent-II-d21-dubia	2	apparatus:12	12	scripture	anaphor->apparatus-explicit	loc. cit.	Ps 106:18	A	verse	yes	Psalm. 106, 18
 bon-sent-II-d21-dubia	2	apparatus:13	13	scripture	apparatus-explicit	Luc. 10, 29	Luc 10:29	A	verse		
@@ -4261,7 +4261,7 @@ bon-sent-II-d26-littera	2	apparatus:22	22	scripture	apparatus-explicit	II. Cor. 
 bon-sent-II-d26-littera	2	apparatus:22	22	scripture	apparatus-explicit	Rom. 5, 5	Rom 5:5	A	verse		
 bon-sent-II-d26-littera	2	apparatus:22	22	scripture	apparatus-explicit	Rom. 3, 27	Rom 3:27	A	verse		
 bon-sent-II-d26-littera	2	apparatus:26	26	scripture	apparatus-explicit	Rom. 3, 24	Rom 3:24	A	verse		
-bon-sent-II-d26-littera	2	apparatus:27	27	crossref	page	supra pag. 9			dangling		
+bon-sent-II-d26-littera	2	apparatus:27	27	crossref	page	supra pag. 9	bon-sent-II-capitula		chunk		
 bon-sent-II-d27-a1-q1	2	latin_body	3	scripture	body-ordinal	ad Corinthios duodecimo	Cor* 12:4	B	verse		
 bon-sent-II-d27-a1-q1	2	scholion		authority	authority:S. Thom.	II. Sent. d. 26. a. 5.			excluded		
 bon-sent-II-d27-a1-q1	2	scholion		authority	anaphor->authority:S. Thom.	loc. cit.			excluded	yes	II. Sent. d. 26. a. 5.
@@ -7758,7 +7758,7 @@ bon-sent-III-d14-a1-q3	3	apparatus:p305-1	p305-1	crossref	relative	supra d. 1. a
 bon-sent-III-d14-a1-q3	3	apparatus:p305-1	p305-1	crossref	logical	II. Sent. d. 16. a. 1. q. 1.	bon-sent-II-d16-a1-q1		chunk		
 bon-sent-III-d14-a1-q3	3	apparatus:p305-3	p305-3	crossref	anaphor->logical	loc. cit.	bon-sent-II-d16-a1-q1		chunk	yes	II. Sent. d. 16. a. 1. q. 1.
 bon-sent-III-d14-a1-q3	3	apparatus:p305-4	p305-4	crossref	page	tom. II. pag. 825, nota 2	bon-sent-II-d35-a1-q2		chunk		
-bon-sent-III-d14-a1-q3	3	apparatus:p305-4	p305-4	crossref	page	pag. 10, nota 6			dangling		
+bon-sent-III-d14-a1-q3	3	apparatus:p305-4	p305-4	crossref	page	pag. 10, nota 6	bon-sent-II-capitula		chunk		
 bon-sent-III-d14-a1-q3	3	apparatus:p305-6	p305-6	crossref	page	tom. II. pag. 221, nota 4	bon-sent-II-d8-p1-a3-q2		chunk		
 bon-sent-III-d14-a1-q3	3	apparatus:p305-7	p305-7	crossref	page	tom. I. pag. 68, nota 3	bon-sent-I-d3-p1-a1-q1		chunk		
 bon-sent-III-d14-a1-q3	3	apparatus:p305-7	p305-7	crossref	page	pag. 69, nota 12	bon-sent-I-d3-p1-a1-q1		chunk		
