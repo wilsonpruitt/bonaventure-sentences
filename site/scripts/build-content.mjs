@@ -134,17 +134,56 @@ function parseTranslationFile(content) {
 // inside a chunk titled "Proemium" and would print two "Proemium" entries in one
 // division. Do NOT generalize it — like `-sN-` sectio in Vol IV d.49, it exists
 // in exactly one place. (2026-08-20)
-const SENTENCES_FRONT_TYPES = new Set(["praelocutio", "proemium", "capitula", "littera"]);
+//
+// ★★ `quaestio` IS IN THIS SET AND THAT IS ONLY SAFE BECAUSE OF `declaredType`
+// (2026-08-20, at bon-sent-I-proem-q1). BOOK I — alone among the four — prints
+// numbered questions in its front matter: QUAESTIONES PROOEMII I–IV, pp. 6–15,
+// which Quaracchi themselves cite as `I. Sent. q. 4. Prooemii`. They are real
+// quaestio chunks at distinctio 0 and have to publish.
+//
+// ⛔ THE TRAP, WHICH IS WORTH READING BEFORE TOUCHING THIS SET. The skip below
+// kept vol1/bon-sent-I-proleg.md (a bare 77k-word OCR dump) out of the corpus —
+// but NOT because the dump failed a type test on its merits. It declares no
+// `type:` at all, and `chunkMeta.type` defaults to `"quaestio"`; the dump was
+// excluded only because `"quaestio"` happened to be absent from this set.
+// Adding `quaestio` to the set while testing the DEFAULTED type would therefore
+// have published the dump silently, on the very commit that admitted Book I's
+// questions. `declaredType` is the raw frontmatter value and is `undefined`
+// when the file declares none, so the guard now tests what it actually means:
+// a deliberately-typed chunk. Do not collapse the two back together.
+//
+// ⚠ `divisio` and `dubia` are deliberately NOT here yet. Book I's front also
+// holds a COMMENTARIUS IN PROLOGUM MAGISTRI (pp. 22–25, divisio textus + dubia
+// in three parts), but that unit has not been read at the plate and its chunk
+// shape is not fixed. Add them when it is built, with titles that say
+// "Prologus", not "Proemium" — it comments the Master's prologue, not the
+// proemium. Same discipline as `-sN-` sectio: no convention before its case.
+const SENTENCES_FRONT_TYPES = new Set([
+  "praelocutio",
+  "proemium",
+  "capitula",
+  "littera",
+  "quaestio",
+]);
 const isSentencesFront = (meta) =>
-  meta.distinctio === 0 && SENTENCES_FRONT_TYPES.has(meta.type);
+  meta.distinctio === 0 &&
+  meta.declaredType !== undefined &&
+  SENTENCES_FRONT_TYPES.has(meta.declaredType);
 
 function buildQuestionTitle(meta) {
   // Front matter names itself — there is no "Dist. 0" to breadcrumb against.
   if (isSentencesFront(meta)) {
-    if (meta.type === "praelocutio") return "Praelocutio";
-    if (meta.type === "proemium") return "Proemium";
-    if (meta.type === "capitula") return "Capitula";
-    return "Textus Magistri";
+    if (meta.declaredType === "praelocutio") return "Praelocutio";
+    if (meta.declaredType === "proemium") return "Proemium";
+    if (meta.declaredType === "capitula") return "Capitula";
+    if (meta.declaredType === "littera") return "Textus Magistri";
+    // Book I's prooemial questions. Quaracchi's own address for them is
+    // `q. N. Prooemii`, so the number is the whole point of the label; a bare
+    // "Proemium" would print five identical entries in one division.
+    if (meta.declaredType === "quaestio" && meta.quaestio) {
+      return `Proemium, Q. ${meta.quaestio}`;
+    }
+    return "Proemium";
   }
   const parts = [`Dist. ${meta.distinctio}`];
   if (meta.pars !== undefined) parts.push(`Part ${meta.pars}`);
@@ -382,7 +421,16 @@ for (const { file, dir } of latinFiles) {
     capitulum: meta.capitulum ? parseInt(meta.capitulum) : undefined,
     section: meta.section ? parseInt(meta.section) : undefined,
     division: work ? parseInt(meta.division) || 0 : undefined,
+    // The RAW frontmatter type, `undefined` when the file declares none. The
+    // front-matter guard tests this and never `type` below, which defaults —
+    // see the trap documented at SENTENCES_FRONT_TYPES.
+    declaredType: meta.type,
     type: meta.type || "quaestio",
+    // First printed page, used to order a book's front matter (a linear run of
+    // leaves) by what the plate says rather than by a hand-kept type rank.
+    firstPage: meta.printed_pages
+      ? parseInt(String(meta.printed_pages).match(/\d+/)?.[0]) || undefined
+      : undefined,
     title: meta.title || "",
     titleLa: meta.title_la || "",
     titleEn: meta.title_en || "",
@@ -416,6 +464,9 @@ for (const { file, dir } of latinFiles) {
     quaestio: chunkMeta.quaestio,
     capitulum: chunkMeta.capitulum,
     section: chunkMeta.section,
+    // Sort-only, stripped before output.
+    isFront: isSentencesFront(chunkMeta),
+    firstPage: chunkMeta.firstPage,
   });
 }
 
@@ -448,6 +499,21 @@ for (const [bookId, distMap] of [...bookMap.entries()].sort((a, b) => a[0] - b[0
       return 2; // quaestio, prologus, capitulum, and anything else
     };
     questions.sort((a, b) => {
+      // ★★ FRONT MATTER SORTS ON THE PLATE, NOT ON A TYPE RANK (2026-08-20).
+      // A book's front matter is a strictly linear run of printed leaves, and
+      // every front chunk's `printed_pages` is fixed against the plate before
+      // it is written — so page order IS printed order, derived rather than
+      // hand-kept. The type rank below cannot express Book I: its Master's
+      // littera stands at pp. 16–17, i.e. AFTER the four prooemial questions
+      // (pp. 6–15), where in Books II–IV the littera immediately follows the
+      // proemium. Ranking littera ahead of quaestio is right there and wrong
+      // here; the leaf number is right in all four. Ties (two units opening on
+      // one leaf — Book IV's littera and capitula both open on p. 4) fall
+      // through to the rank, which orders them correctly.
+      if (a.isFront && b.isFront && a.firstPage && b.firstPage &&
+          a.firstPage !== b.firstPage) {
+        return a.firstPage - b.firstPage;
+      }
       const ta = typeOrder(a), tb = typeOrder(b);
       if (ta !== tb) return ta - tb;
       const pa = a.pars ?? 0, pb = b.pars ?? 0;
@@ -478,7 +544,9 @@ for (const [bookId, distMap] of [...bookMap.entries()].sort((a, b) => a[0] - b[0
         : `Distinction ${distId}`;
 
     // Strip grouping fields from output
-    const cleaned = questions.map(({ book, distinctio, workSlug, ...rest }) => rest);
+    const cleaned = questions.map(
+      ({ book, distinctio, workSlug, isFront, firstPage, ...rest }) => rest
+    );
     distinctions.push({ id: distId, title: divTitle, questions: cleaned });
   }
   const bookWork = Object.values(WORKS).find((w) => w.book === bookId);
