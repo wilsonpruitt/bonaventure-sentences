@@ -91,7 +91,7 @@ estimate from the Latin body alone.
 
 ## The four jobs, in order
 
-### J1 — Books II, III, IV proemia. **Do these first.** ◐ Book III done 2026-08-19.
+### J1 — Books II, III, IV proemia. ◐ **BOOK III COMPLETE 2026-08-19.** Books II and IV remain.
 
 > **✅ `bon-sent-III-proem` is Tier 2** (commit `9a95a17`) — pp. 1–2, 18 apparatus entries, no
 > `[?]` flags. **⚠ Scope correction: Book III's gap is three units, not one.** Past the proemium,
@@ -99,6 +99,12 @@ estimate from the Latin body alone.
 > pp. 4–6 are `CAPITULA TERTII LIBRI`, his chapter list for all 40 distinctions (raw L887–1058).
 > Same shape as Book I's gap, in miniature. **Expect the same for Books II and IV — check the raw
 > between the proemium's end and `DISTINCTIO I.` before calling either one done.**
+> **✅ All three Book III chunks are now Tier 2** — `bon-sent-III-proem` (pp.1–2, 18 entries),
+> `bon-sent-III-littera` (p.3, 2), `bon-sent-III-capitula` (pp.3–6, 31). Build 2042 → 2045.
+> **★ The capitula question is answered, and by the corpus's own frozen test, not by taste:** a
+> capitula table is transmitted text when it carries apparatus ON the table (CLAUDE.md, Itinerarium
+> rule). Book III's carries 31 entries, including notes on the transmission of the list itself.
+> **Apply the same test to Book I's `CAPITULA PRIMI LIBRI` rather than re-deciding it.**
 > ⛔ **The three guard-rail audits cannot see a proemium chunk**: they select by the filename regex
 > `bon-sent-III-d(\d+)-`, so a chunk with no `-dN-` segment never matches at any `--min-d`, and
 > all three print a clean verdict on **0 chunks audited**. Either extend the regexes or verify

@@ -24,9 +24,14 @@
 > ⛔ **Do NOT record this chunk as audits-clean.** The three guard rails select by the filename
 > regex `bon-sent-III-d(\d+)-`; a proemium never matches, and all three print a clean verdict on
 > **0 chunks audited**. Same footgun as `check-live-flags.py --volume 5`.
-> **Still owed on Book III:** its front matter is three units, not one — printed p. 3 is Lombard's
-> `LIBER TERTIUS SENTENTIARUM` opening (raw L832, a `littera`) and pp. 4–6 are `CAPITULA TERTII
-> LIBRI` (raw L887–1058). **Next in J1: Book II's *Praelocutio*, then Book IV.**
+> **✅ BOOK III'S FRONT MATTER IS COMPLETE** — three chunks, not one: `-proem` (pp.1–2, 18 entries),
+> `-littera` (p.3, 2), `-capitula` (pp.3–6, 31). Build **2042 → 2045**; division 0 renders
+> Proemium / Textus Magistri / Capitula in printed order. QA flags **228 → 225** across the job.
+> **★ The capitula test is settled by CLAUDE.md's own Itinerarium rule** — a table is transmitted
+> text when it carries apparatus ON the table; Book III's carries 31 entries, some recording the
+> transmission of the list itself. **Apply that test to Book I's `CAPITULA PRIMI LIBRI`; don't
+> re-decide it.** **Next in J1: Book II's *Praelocutio*, then Book IV** — and check each one's raw
+> between the proemium's end and `DISTINCTIO I.` for the same littera + capitula tail.
 > ⛔ Still does NOT block the Hexaemeron front and must not fork it. Deploy is protected and unfired.
 >
 > ## ⛔ (superseded, kept for context) MISSING TEXT — THE FOUR SENTENCES PROEMIA (raised 2026-08-19)
