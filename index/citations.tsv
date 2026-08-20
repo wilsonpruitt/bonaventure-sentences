@@ -7090,7 +7090,7 @@ bon-sent-III-d1-a2-q1	3	apparatus:7	7	crossref	logical	II. Sent. d. 21. a. 3. q.
 bon-sent-III-d1-a2-q1	3	apparatus:8	8	scripture	apparatus-explicit	Cor. 1, 23	Cor* 1:23	A	verse		
 bon-sent-III-d1-a2-q1	3	apparatus:9	9	scripture	apparatus-explicit	Phil. 2, 9	Phil 2:9	A	verse		
 bon-sent-III-d1-a2-q1	3	apparatus:9	9	scripture	apparatus-explicit	Eph. 1, 21	Eph 1:21	A	verse		
-bon-sent-III-d1-a2-q1	3	apparatus:9	9	crossref	page	pag. 5			dangling		
+bon-sent-III-d1-a2-q1	3	apparatus:9	9	crossref	page	pag. 5	bon-sent-III-capitula		chunk		
 bon-sent-III-d1-a2-q1	3	apparatus:11	11	crossref	logical	Sent. d. 37. p. 1. a. 3. q. 2.			dangling		
 bon-sent-III-d1-a2-q1	3	apparatus:13	13	scripture	apparatus-explicit	Ioan. 10, 9	Ioan 10:9	A	verse		
 bon-sent-III-d1-a2-q1	3	apparatus:15	15	scripture	apparatus-explicit	Cor. 1, 25	Cor* 1:25	A	verse		
