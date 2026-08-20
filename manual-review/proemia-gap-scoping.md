@@ -91,14 +91,43 @@ estimate from the Latin body alone.
 
 ## The four jobs, in order
 
-### J1 — Books II, III, IV proemia. **Do these first.**
+### J1 — Books II, III, IV proemia. **Do these first.** ◐ Book III done 2026-08-19.
+
+> **✅ `bon-sent-III-proem` is Tier 2** (commit `9a95a17`) — pp. 1–2, 18 apparatus entries, no
+> `[?]` flags. **⚠ Scope correction: Book III's gap is three units, not one.** Past the proemium,
+> printed p. 3 is Lombard's `LIBER TERTIUS SENTENTIARUM` opening (a `littera`, raw L832) and
+> pp. 4–6 are `CAPITULA TERTII LIBRI`, his chapter list for all 40 distinctions (raw L887–1058).
+> Same shape as Book I's gap, in miniature. **Expect the same for Books II and IV — check the raw
+> between the proemium's end and `DISTINCTIO I.` before calling either one done.**
+> ⛔ **The three guard-rail audits cannot see a proemium chunk**: they select by the filename regex
+> `bon-sent-III-d(\d+)-`, so a chunk with no `-dN-` segment never matches at any `--min-d`, and
+> all three print a clean verdict on **0 chunks audited**. Either extend the regexes or verify
+> front-matter chunks by marker-pairing + plate discipline and say so.
+
 Three chunks, one per volume: `bon-sent-{II,III,IV}-proem`. Self-contained, each is one continuous
 argument with its own apparatus register, each roughly the size of a long `divisio`. Standard Tier 2
 per-chunk recipe, no new conventions needed. Book III first — it is live and reader-visible.
 
 **Cost:** ~1 session each. **Book IV needs the plate**, its raw is unusable in this region.
 
-### J2 — The site schema needs a pre-distinction slot. **Scriptable, blocks J1's deploy.**
+### J2 — The site schema needs a pre-distinction slot. ✅ **DONE 2026-08-19** (commit `b1c7758`).
+
+> Front-matter types (`proemium` / `capitula` / `littera`) are exempted from the `distinctio === 0`
+> skip; division 0 of a Sentences book titles itself **"Proemium"**; `typeOrder` ranks proemium
+> before littera; and a shared `divisionHeading()` replaced the `divisionLabel ? dist.title : …`
+> form on both the book page and the detail page — that form discarded `dist.title` for a Sentences
+> book and fell through to `romanize(0)`, which returns the string `"0"`, so the Proemium rendered
+> as **"Distinction 0"**. Build 2042 → 2043. `bon-sent-I-proleg` still excluded (verified).
+>
+> **★ The corpus was already citing the text that was not there.** `build-citations.py` QA flags
+> fell **228 → 226**: `bon-sent-III-d1-divisio` cites `pag. 2` and `bon-sent-III-d25-a1-q1` cites
+> `pag. 1` (plus a `loc. cit.` inheriting from it) — three references into printed pp. 1–2 of
+> Vol III that had nowhere to land and now resolve. Quaracchi cite the proemium; the corpus had
+> dangling pointers into a text nobody had built. Same lesson as the standing *empty grep ≠
+> absence* rule, running in the opposite direction.
+
+**Superseded, kept for the record:**
+
 `content.json` works are `{id, title, distinctions[]}`. A proemium is not a distinction and should
 not be faked as `d. 0` — that will sort wrong, break the citation builder's `d.` parsing, and read
 wrong to any user who knows the text. Add a sibling `proemium` key on the work node and a render

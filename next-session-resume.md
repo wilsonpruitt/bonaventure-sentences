@@ -16,7 +16,20 @@
 > 1. **The mid-work gate's `Dictae salutis` fix is still NOT LIVE** (`bon-hex-c8`, p. 372 n. 1).
 > 2. The About page's **"What Is Known to Be Wrong"** section — Wilson's to frame.
 >
-> ## ⛔ MISSING TEXT, PARKED ON PURPOSE — THE FOUR SENTENCES PROEMIA (raised 2026-08-19)
+> ## ◐ THE FOUR SENTENCES PROEMIA — J1 STARTED, J2 DONE (2026-08-19)
+> **`bon-sent-III-proem` is Tier 2 and now RENDERS** (`9a95a17`, `b1c7758`): pp. 1–2, 18 entries,
+> zero `[?]`. Build **2042 → 2043**; Book III gained a division **0 titled "Proemium"** ahead of
+> Distinction I. **★ Three citations elsewhere in Book III were already pointing at printed pp. 1–2
+> with nowhere to land — `build-citations` QA flags fell 228 → 226 when the chunk landed.**
+> ⛔ **Do NOT record this chunk as audits-clean.** The three guard rails select by the filename
+> regex `bon-sent-III-d(\d+)-`; a proemium never matches, and all three print a clean verdict on
+> **0 chunks audited**. Same footgun as `check-live-flags.py --volume 5`.
+> **Still owed on Book III:** its front matter is three units, not one — printed p. 3 is Lombard's
+> `LIBER TERTIUS SENTENTIARUM` opening (raw L832, a `littera`) and pp. 4–6 are `CAPITULA TERTII
+> LIBRI` (raw L887–1058). **Next in J1: Book II's *Praelocutio*, then Book IV.**
+> ⛔ Still does NOT block the Hexaemeron front and must not fork it. Deploy is protected and unfired.
+>
+> ## ⛔ (superseded, kept for context) MISSING TEXT — THE FOUR SENTENCES PROEMIA (raised 2026-08-19)
 > **Books I–IV all begin at Distinction I. Not one proemium is chunked, translated, or renderable.**
 > Book I's — the four-rivers prologue and the four *quaestiones prooemiales*, ~22,900 OCR words —
 > is hiding inside `vol1/bon-sent-I-proleg.md`, a bare Latin-only OCR dump titled "Prolegomena,"
