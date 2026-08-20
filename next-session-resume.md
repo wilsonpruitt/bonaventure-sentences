@@ -1,5 +1,101 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **`bon-sent-I-capitula`** (INCIPIUNT CAPITULA PRIMI LIBRI SENTENTIARUM), whose display heading stands in the middle of **p. 17** immediately under `Explicit prologus.`, raw L11285, and whose table runs to ~p. 21.
+>
+> ## ⛔⛔ THE ORDER — WILSON'S RULING, 2026-08-20. UNCHANGED.
+> **ALL FOUR SENTENCES PROEMIA MUST BE TIER 2 BEFORE THE NEXT DEPLOY — BOOK I INCLUDED.** The
+> Hexaemeron is **PARKED at `bon-hex-c21`**. Queue: ✅ Books II, III, IV → **Book I's family (6 of 7
+> units done — the whole proemium and the littera)** → Hexaemeron c21–c23 + Scholion → work-close
+> gate → deploy.
+>
+> ## ✅ `bon-sent-I-littera` IS TIER 2 — pp. 16–17, 23 apparatus entries, zero `[?]` (2026-08-20)
+> p. 16 nn. 1–9 · p. 17 nn. 1–14 · **p. 17 nn. 15–22 FORWARDED to the capitula.** Build
+> **2058 → 2059**, all translated; `polish-style-scan` full corpus: the same **10 PAIR issues across
+> 5 chunks, all pre-existing**; `build-citations.py` QA flags **202 → 202, none attributable to this
+> chunk**. Commit `8f39c17`. ⚠ Nothing pushed; push and deploy are protected.
+>
+> ## ⚠ HAND-OFF INTO `bon-sent-I-capitula`: **p. 17 nn. 15–22 ARE YOURS. WHERE THEY LAND IS NOT
+> **TOLD YOU.** n. 15 (*Hanc tabulam exhibemus, adhibitis 19 codicibus mss.…*) anchors on the
+> `INCIPIUNT CAPITULA PRIMI LIBRI SENTENTIARUM` heading itself; nn. 16–22 anchor on entries inside
+> the table (`fruuntur et ¹⁶` · `vel ¹⁷ uti` · `scribentium ¹⁸` · `creatae ¹⁹` · `unitate ²⁰` ·
+> `genuerit ²¹` · `de ²² tribus personis`). They print in p. 17's **right** footer block, below the
+> littera's nn. 13–14. Ownership was verified by anchor at 2.2×; positions are yours to re-derive.
+>
+> ## ★★ THE LEAF STACKS THREE MEASURES AND THEY DIFFER — MEASURE THE TABLE'S OWN GUTTER.
+> p. 17 body **923** (band 902–944, 43 px) · p. 17 footer register **934** (band 911–957, 47 px;
+> four of twelve windows fork to 959 on a 96 px run, the artifact of the short left block) · **the
+> chapter table's gutter was NOT measured** — it is a third region and gets its own profile
+> (`tools/gutter-profile.py 17 <row_lo> <row_hi> vol1`). p. 16's body value, for the record, is
+> **1075** (48 px, twelve windows agreeing exactly). Never carry one region's split into another.
+>
+> ## ★★ A CLOSING FORMULA IS NOT A CONSTANT — AND BOOK I's IS UNKNOWN.
+> Book II's capitula close on `EXPLICIUNT CAPITULA SECUNDI LIBRI`; Book IV prints **none** and was
+> closed on the next display heading. **Do not assume either for Book I.** The next display matter
+> after the table is `COMMENTARIUS IN PROLOGUM MAGISTRI` (pp. 22–25) — fix the span positively on
+> that, or on an EXPLICIT line if the plate prints one. pp. 18–21 are **not extracted**.
+>
+> ## ★★ THE CAPITULA LIST AND THE MASTER'S TEXT CAN DISAGREE — PRINT BOTH, HARMONISE NEITHER.
+> (Book IV d. 24's lectors/doorkeepers are the attested case.) And Quaracchi's own n. 15 says they
+> **added the distinction numbers** to this table; the chapter titles are the codices', the
+> `DISTINCTIO N.` rubrics are the editors'.
+>
+> ## ★★★ BOOK I's FRONT IS **SEVEN UNITS ACROSS pp. 1–25** — SIX ARE DONE
+> | unit | printed pp. | raw lines | status |
+> |---|---|---|---|
+> | `bon-sent-I-proem` | 1–6 | 8896–9686 | ✅ done |
+> | `bon-sent-I-proem-q1` | 6–9 | 9694–10233 | ✅ done |
+> | `bon-sent-I-proem-q2` | 9–12 | 10234–10626 | ✅ done |
+> | `bon-sent-I-proem-q3` | 12–14 | 10627–10906 | ✅ done |
+> | `bon-sent-I-proem-q4` | 14–15 | 10907–11101 | ✅ done |
+> | `bon-sent-I-littera` — PROLOGUS MAGISTRI, *Cupientes aliquid* | 16–17 | 11102–11282 | ✅ **done** |
+> | `bon-sent-I-capitula` — INCIPIUNT CAPITULA PRIMI LIBRI | 17–~21 | 11285–~12190 | ▶ **next** |
+> | `bon-sent-I-prol-comm` — COMMENTARIUS IN PROLOGUM MAGISTRI (divisio + dubia, three parts) | 22–25 | ~12197–12779 | to build |
+>
+> **⚠ `divisio` and `dubia` are still NOT admitted by `SENTENCES_FRONT_TYPES`** in
+> `site/scripts/build-content.mjs`. The `prol-comm` unit needs them; add them when that unit is read
+> at the plate — **and title them "Prologus …", not "Proemium …".** `littera` and `capitula` are
+> already admitted and verified live (Books II–IV).
+>
+> ## ⚠ THE RAW IS SOUND IN THE TABLE BUT ITS ROMAN NUMERALS GARBLE
+> `DlSTINCTIO`, `DlSTIPiCTIO`, `DlSTINXTIO`, `DISTmCTIO` all occur, and the pt-2-style letter rot
+> (`Oninis`, `dc`, `nc`) is present from ~L11414 on. Book III's capitula were a **full plate re-set**
+> for exactly this reason. Read the table on the bands; use the raw as cross-check only.
+>
+> ## ⛔⛔ NEVER RUN `audit-paraphrase.py` ON A FRONT-MATTER RANGE — IT DESTROYS A REAL LOG
+> All three guard-rail audits select on `bon-sent-{I,II,III,IV}-d(\d+)-` and print a clean verdict on
+> **0 chunks audited** for a `distinctio: 0` chunk. `audit-paraphrase.py --min-d 0 --max-d 0` *also
+> overwrote* `manual-review/d1-d40-paraphrase-audit.md` with an empty report (found at q4, restored
+> with `git checkout --`). Verify a front-matter chunk by marker pairing + structural parity +
+> `polish-style-scan` + `build-citations` + plate discipline, and say so.
+>
+> ## ⚠ SCOPED DEFECT FOUND, NOT FIXED — `bon-sent-I-d1-commentary` IS MIS-PAGED
+> Its frontmatter puts it at raw L13215–13223, and `bon-sent-I-d1-divisio` (raw L13224) is
+> `printed_pages: [29]` — so the stub's `DISTINCTIO I.` running head stands at the head of **p. 29**,
+> and its `printed_pages: [1] / pdf_pages: [103]` is simply wrong. **Not corrected: pp. 26–29 are not
+> extracted and a page assignment is fixed on the plate.** Hand it to whoever extracts that leaf.
+>
+> ## ⚠ VOL I PLATES: 450 dpi IS NOT WHAT YOU GET, AND THAT IS FINE
+> `extract-pages.py --volume vol1 --dpi 450` produces **2028 × 2986 px, ~1.3–2.4 MB** pages — the
+> vol1 PDF's own raster caps it. They are readable whole, directly, under the API image cap; **but a
+> whole-page read is for STRUCTURE only — every apparatus entry in the littera was read off a 2.2–2.4×
+> `tools/footcrop.py` band.** Offset `pdf = printed + 102`. pp. 1–17 are extracted; **pp. 18 onward
+> are not.**
+>
+> ## ⚠ STILL OWED BEFORE/WITH THE NEXT DEPLOY
+> 1. **The `Dictae salutis` fix is still NOT LIVE** (`bon-hex-c8`, p. 372 n. 1).
+> 2. The About page's **"What Is Known to Be Wrong"** — Wilson's to frame.
+> 3. **Book I's remaining two front-matter units** (`-capitula`, `-prol-comm`), per the ruling above.
+> 4. **Forwarded defect, still nobody's fix:** Quaracchi cite `IV. Sent. d. 2. p. I.` (three chunks
+>    do) but the corpus's Book IV d. 2 has no pars chunks. Hand it to whoever works Book IV's body.
+>
+> ## Corpus state (verified in-session 2026-08-20)
+> `build-content.mjs` **2059/2059, 8 books** · `build-citations.py` QA flags **202** ·
+> `polish-style-scan` **10 PAIR issues / 5 chunks, all pre-existing.**
+> ⚠ Nothing pushed; push and deploy are protected.
+
+---
+
+
 > # ▶▶▶ START HERE — **`bon-sent-I-littera`** (PROLOGUS MAGISTRI IN LIBROS SENTENTIARUM, *Cupientes aliquid de penuria ac tenuitate nostra*), which opens at the top of **p. 16** at the full-measure `PROLOGUS MAGISTRI` display heading, raw L11102, and closes on `Explicit prologus.` at ~L11283.
 >
 > ## ⛔⛔ THE ORDER — WILSON'S RULING, 2026-08-20. UNCHANGED.
@@ -121,6 +217,9 @@
 > ⚠ Nothing pushed; push and deploy are protected.
 
 ---
+
+
+# (superseded — DONE 2026-08-20) `bon-sent-I-littera`
 
 
 # (superseded) `bon-sent-I-proem-q4` — DONE 2026-08-20
