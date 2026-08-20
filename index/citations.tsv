@@ -4192,7 +4192,7 @@ bon-sent-II-d25-p2-a1-q6	2	apparatus:31	31	scripture	apparatus-explicit	Exod. 33
 bon-sent-II-d25-p2-dubia	2	latin_body		crossref	relative-bare	ibid			unresolvable		
 bon-sent-II-d25-p2-dubia	2	apparatus:1	1	crossref	page	supra pag. 610, nota 2	bon-sent-II-d25-p2-a1-q1		chunk		
 bon-sent-II-d25-p2-dubia	2	apparatus:13	13	crossref	page	supra pag. 613, nota 9	bon-sent-II-d25-p2-a1-q2+bon-sent-II-d25-p2-a1-q3		page-multi		
-bon-sent-II-d25-p2-dubia	2	apparatus:14	14	crossref	page	tom. I. pag. 14, nota 7	bon-sent-I-proem-q3		chunk		
+bon-sent-II-d25-p2-dubia	2	apparatus:14	14	crossref	page	tom. I. pag. 14, nota 7	bon-sent-I-proem-q3+bon-sent-I-proem-q4		page-multi		
 bon-sent-II-d25-p2-littera	2	apparatus:2	2	scripture	apparatus-explicit	Luc. 10, 30	Luc 10:30	A	verse		
 bon-sent-II-d25-p2-littera	2	apparatus:3	3	scripture	apparatus-explicit	II. Petr. 2, 19	2Petr 2:19	A	verse		
 bon-sent-II-d25-p2-littera	2	apparatus:6	6	scripture	apparatus-explicit	II. Cor. 3, 17	2Cor 3:17	A	verse		
@@ -7039,7 +7039,7 @@ bon-sent-II-d9-a1-q4	2	latin_body	12	scripture	body-ordinal	Isaiae sexto	Isai 6:
 bon-sent-II-d9-a1-q4	2	latin_body	13	scripture	body-ordinal	Danielis septimo	Dan 7:9	B	verse		
 bon-sent-II-d9-a1-q4	2	scholion		scripture	anaphor->body-ordinal	loc. cit.	Dan 7:9	B	verse	yes	Danielis septimo
 bon-sent-II-d9-a1-q4	2	apparatus:2	2	crossref	logical	I. Sent. d. 22. q. 1.	bon-sent-I-d22-a1-q1		chunk		
-bon-sent-II-d9-a1-q4	2	apparatus:3	3	crossref	page	tom. I. pag. 14, nota 7	bon-sent-I-proem-q3		chunk		
+bon-sent-II-d9-a1-q4	2	apparatus:3	3	crossref	page	tom. I. pag. 14, nota 7	bon-sent-I-proem-q3+bon-sent-I-proem-q4		page-multi		
 bon-sent-II-d9-a1-q4	2	apparatus:11	11	crossref	page	supra pag. 241, nota 5	bon-sent-II-d9-a1-q1+bon-sent-II-d9-divisio		page-multi		
 bon-sent-II-d9-a1-q4	2	apparatus:12	12	scripture	apparatus-explicit	Gen. 3, 24	Gen 3:24	A	verse		
 bon-sent-II-d9-a1-q4	2	apparatus:12	12	scripture	apparatus-explicit	Isai. 37, 16	Isai 37:16	A	verse		
@@ -14199,7 +14199,7 @@ bon-sent-IV-d18-p1-a1-q1	4	apparatus:5	5	scripture	apparatus-explicit	Ioan. 6, 3
 bon-sent-IV-d18-p1-a1-q1	4	apparatus:5	5	scripture	apparatus-explicit	Apoc. 4, 1	Apoc 4:1	A	verse		
 bon-sent-IV-d18-p1-a1-q1	4	apparatus:8	8	scripture	apparatus-explicit	Apoc. 1, 18	Apoc 1:18	A	verse		
 bon-sent-IV-d18-p1-a1-q1	4	apparatus:10	10	crossref	relative	supra d. 15. p. I. q. 1.	bon-sent-IV-d15-p1-a1-q1		chunk		
-bon-sent-IV-d18-p1-a1-q1	4	apparatus:14	14	crossref	page	tom. I. pag. 14, nota 7	bon-sent-I-proem-q3		chunk		
+bon-sent-IV-d18-p1-a1-q1	4	apparatus:14	14	crossref	page	tom. I. pag. 14, nota 7	bon-sent-I-proem-q3+bon-sent-I-proem-q4		page-multi		
 bon-sent-IV-d18-p1-a1-q1	4	apparatus:14	14	scripture	apparatus-explicit	Matth. 10, 28	Matth 10:28	A	verse		
 bon-sent-IV-d18-p1-a1-q2	4	latin_body	1	scripture	body-ordinal	Isaiae vigesimo secundo	Isai 22:22	B	verse		
 bon-sent-IV-d18-p1-a1-q2	4	latin_body	2	scripture	body-ordinal	Matthaei decimo sexto	Matth 16:19	B	verse		
