@@ -1,5 +1,119 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **`bon-sent-I-proem-q3`** (QUAESTIO III, *Utrum hic liber sive theologia sit contemplationis gratia, an ut boni fiamus, sive utrum sit scientia speculativa, an practica*), which opens **at the middle of p. 12** at the bare `QUAESTIO III.` display heading, raw L10627.
+>
+> ## ⛔⛔ THE ORDER — WILSON'S RULING, 2026-08-20. UNCHANGED.
+> **ALL FOUR SENTENCES PROEMIA MUST BE TIER 2 BEFORE THE NEXT DEPLOY — BOOK I INCLUDED.** The
+> Hexaemeron is **PARKED at `bon-hex-c21`**. Queue: ✅ Books II, III, IV → **Book I's family (3 of 7
+> units done)** → Hexaemeron c21–c23 + Scholion → work-close gate → deploy.
+>
+> ## ✅ `bon-sent-I-proem-q2` IS TIER 2 — pp. 9–12, 26 apparatus entries, zero `[?]` (2026-08-20)
+> p. 9 nn. 1–4 (inherited) · p. 10 nn. 1–9 · p. 11 nn. 1–13 · **p. 12 none — see below.** Build
+> **2055 → 2056**, all translated; `build-citations.py` QA flags **207 → 205**, the chunk's own two
+> being author-governance false positives (Albert's `I. Sent. d. 1. a. 5.` and Scotus's `II. Sent.
+> d. 1. q. 4.`, both dispositioned in its `## Notes`); `polish-style-scan` full corpus: the same
+> **10 PAIR issues across 5 chunks, all pre-existing**. Commit `ea146d6`.
+> ⚠ Nothing pushed; push and deploy are protected.
+>
+> ## ★★★ BOOK I's FRONT IS **SEVEN UNITS ACROSS pp. 1–25** — MAPPED, NOT GUESSED
+> | unit | printed pp. | raw lines | status |
+> |---|---|---|---|
+> | `bon-sent-I-proem` — the proemium on Job 28:11 | 1–6 | 8896–9686 | ✅ **done** |
+> | `bon-sent-I-proem-q1` — QUAESTIO I, *Quae sit materia quodve subiectum* | 6–9 | 9694–10233 | ✅ **done** |
+> | `bon-sent-I-proem-q2` — QUAESTIO II, *Quae causa formalis quive modus procedendi* | 9–12 | 10234–10626 | ✅ **done** |
+> | `bon-sent-I-proem-q3` — QUAESTIO III, *Utrum … contemplationis gratia, an ut boni fiamus* | 12–? | 10627–10906 | ▶ **next** |
+> | `bon-sent-I-proem-q4` — QUAESTIO IV | ?–15 | 10907–11101 | to build |
+> | `bon-sent-I-littera` — PROLOGUS MAGISTRI, *Cupientes aliquid* | 16–17 | 11102–11283 | to build |
+> | `bon-sent-I-capitula` — INCIPIUNT CAPITULA PRIMI LIBRI | 17–21 | 11285–~12190 | to build |
+> | `bon-sent-I-prol-comm` — COMMENTARIUS IN PROLOGUM MAGISTRI (divisio + dubia, three parts) | 22–25 | ~12197–12779 | to build |
+>
+> Landmarks, absolute raw lines: `QUAESTIO IV.` **10907** · `PROLOGUS MAGISTRI` **11102** ·
+> `Explicit prologus.` ~**11283**. **Every span still gets fixed positively on the plate; these are
+> search keys, not boundaries.** pp. 1–12 are extracted at 450 dpi; **p. 13 onward are not.**
+>
+> ## ⚠ HAND-OFF INTO `bon-sent-I-proem-q3` — ownership verified, positions NOT
+> **p. 12's whole register — nn. 1–6 — is q3's**, verified at the plate by anchor: n. 1 glosses q3's
+> opening *Tertio quaeritur,* and nn. 2–6 answer to anchors in its fundamenta and *sed contra*
+> (verae ² · undecimo ³ · in littera ⁴ · de fide ⁵ · ab opere nostro ⁶). Re-derive where they land;
+> a hand-off tells you which notes are yours and never where they land. The register is split
+> **5/1 by block** (nn. 1–5 left, n. 6 right, with n. 5 overrunning the column division) against
+> **3/3 by anchor** (nn. 1–3 in the left column, nn. 4–6 in the right) — that is a claim to
+> re-check, not a fact to adopt.
+> **q2 forwards nothing else**: it owns no apparatus on p. 12 at all.
+>
+> ## ★★ THE RUNNING HEAD LIED TWICE IN ONE CHUNK — IN BOTH DIRECTIONS
+> p. 9's head reads `PROOEMII QUAEST. II.` above a leaf whose bottom third only is q2's; **p. 12's
+> head reads `PROOEMII QUAEST. III.` above a leaf whose top half is q2's Scholion.** The boundary is
+> fixed by the signature line + printed page number at one end and by the `QUAESTIO III.` display
+> heading at the other. Same asymmetric-witness rule as Vol V's `Cap. N.` heads. **Expect p. 15's
+> head to name Quaestio IV or the Prologue and to be worth nothing either way.**
+>
+> ## ★★ A CHUNK CAN OWN A PRINTED PAGE AND HAVE NO APPARATUS ON IT — NOW TWICE IN THIS FAMILY
+> q1 owned none of p. 9's four notes; q2 owns none of p. 12's six. **Both times the reason is the
+> same: a Quaracchi Scholion carries no anchors at all, citing its authorities inline.** Read
+> anchors, only anchors — where the text sits on the page decides nothing.
+>
+> ## ★ BLOCK STRUCTURE AND ANCHOR STRUCTURE CAME APART ON BOTH OF q2's FOOTER PAGES
+> p. 10: block **4/5**, anchors **7/2**. p. 11: block **9/4** (n. 9 overrunning into the right
+> block), anchors **6/7**. p. 9's n. 1 likewise overruns the column division. State the two splits
+> separately in every `## Notes`.
+>
+> ## ⚠ DIGIT CLASSES ON THESE LEAVES — DON'T CALIBRATE THE NEXT ONE ON THEM
+> The `3`/`5` class fired twice (`6569` for raw `6369`; `III. Sent. d. 35.` for raw `d. 33.`, and
+> the corrected form is the one that resolves), the chronic raw **R-for-K** twice (`Cod. K`), and
+> the `1`/`4` class **not at all** — though Scholion I's `S. I. q. 4. a. 2.` was checked at 4× and
+> **prints 4**; raw agrees; transcribed as printed.
+>
+> ## ✅ `build-content.mjs` ALREADY PUBLISHES A PROEMIUM QUAESTIO — nothing further is needed
+> `SENTENCES_FRONT_TYPES` admits **`quaestio`**, titled **`Proemium, Q. N`**. Write the chunk with
+> `type: quaestio`, `distinctio: 0`, `quaestio: N`. Verified live at q1 and again at q2.
+>
+> **★★ THE TRAP THAT CHANGE WALKED PAST.** `chunkMeta.type` defaults to `"quaestio"` when a file
+> declares none, and `vol1/bon-sent-I-proleg.md` — a bare **77k-word OCR dump** — declares none. The
+> guard tests **`declaredType`**, the raw frontmatter value. **Do not collapse `declaredType` back
+> into `type`.**
+>
+> **★ FRONT MATTER SORTS ON FIRST PRINTED PAGE, not on the hand-kept type rank** — which is what
+> puts Book I's littera (pp. 16–17) after its four questions.
+>
+> **⚠ `divisio` and `dubia` are deliberately NOT yet admitted.** The `COMMENTARIUS IN PROLOGUM
+> MAGISTRI` (pp. 22–25) needs them; add them when that unit is read at the plate — **and title them
+> "Prologus …", not "Proemium …".**
+>
+> ## ⚠ SCOPED DEFECT FOUND, NOT FIXED — `bon-sent-I-d1-commentary` IS MIS-PAGED
+> Its frontmatter puts it at raw L13215–13223, and `bon-sent-I-d1-divisio` (raw L13224) is
+> `printed_pages: [29]` — so the stub's `DISTINCTIO I.` running head stands at the head of **p. 29**,
+> and its `printed_pages: [1] / pdf_pages: [103]` is simply wrong. **Not corrected: pp. 26–29 are not
+> extracted and a page assignment is fixed on the plate.** Hand it to whoever extracts that leaf.
+>
+> ## ⚠ VOL I PLATES: 450 dpi IS NOT WHAT YOU GET, AND THAT IS FINE
+> `extract-pages.py --volume vol1 --dpi 450` produces **2028 × 2986 px, ~2.2 MB** pages — the vol1
+> PDF's own raster caps it. They are **readable whole, directly, under the API image cap**; no
+> `colcrop` has been needed anywhere in this front. **But a whole-page read is for STRUCTURE only —
+> every apparatus entry in q2 was read off a 1.7–2.0× PIL crop of its footer band.** Offset
+> `pdf = printed + 102`.
+>
+> ## ⛔ THE THREE GUARD-RAIL AUDITS CANNOT SEE A FRONT-MATTER CHUNK
+> They select on `bon-sent-{I,II,III,IV}-d(\d+)-`; a distinctio-0 chunk never matches and all three
+> print a clean verdict on **0 chunks audited.** Never record such a run as audits-clean. Verify by
+> marker pairing + structural parity + plate discipline, and say so.
+>
+> ## ⚠ STILL OWED BEFORE/WITH THE NEXT DEPLOY
+> 1. **The `Dictae salutis` fix is still NOT LIVE** (`bon-hex-c8`, p. 372 n. 1).
+> 2. The About page's **"What Is Known to Be Wrong"** — Wilson's to frame.
+> 3. **Book I's remaining four front-matter units**, per the ruling above.
+> 4. **Forwarded defect, still nobody's fix:** Quaracchi cite `IV. Sent. d. 2. p. I.` (three chunks
+>    do) but the corpus's Book IV d. 2 has no pars chunks. Hand it to whoever works Book IV's body.
+>
+> ## Corpus state (verified in-session 2026-08-20)
+> `build-content.mjs` **2056/2056, 8 books** · `build-citations.py` QA flags **205** ·
+> `polish-style-scan` **10 PAIR issues / 5 chunks, all pre-existing.**
+> ⚠ Nothing pushed; push and deploy are protected.
+
+---
+
+# (superseded) `bon-sent-I-proem-q2` — DONE 2026-08-20
+
 > # ▶▶▶ START HERE — **`bon-sent-I-proem-q2`** (QUAESTIO II, *Quae causa formalis quive modus procedendi sit in his libris Sententiarum*), which opens **about two-thirds down p. 9** at the bare `QUAESTIO II.` display heading, raw L10234.
 >
 > ## ⛔⛔ THE ORDER — WILSON'S RULING, 2026-08-20. UNCHANGED.
