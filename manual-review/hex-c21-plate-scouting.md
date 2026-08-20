@@ -74,3 +74,15 @@ p. 431, 432 and 433 all coincided.
 - n. 4 `Ioan. 16, 28: Exivi a Patre et veni in mundum; iterum relinquo mundum et vado ad Patrem.` — `revertitur in ipsum ⁴` (¶ 18)
 - n. 5 `In E hic additur ex supercaelestium aspectuum varietate; cfr. infra n. 31. et collat. 22. n. 1.` — `dispositionem caelestis monarchiae ⁵` (¶ 19)
 - n. 6 `Epist. I. Tim. 2, 5: Mediator Dei et hominum, homo Christus Iesus. — Cfr. III Sent. d. 2. dub. 4, ubi in fine dicitur, Gabrielem fuisse de ordine Archangelorum.` — `nuntius Mediatoris ⁶` (¶ 20)
+
+### p. 435 — 9 entries, nn. 1–9
+Block: nn. 1–4 L, nn. 5–9 R. Anchors: nn. 1–4 L (¶¶ 20-tail, 21, 21, 23), nn. 5–9 R (¶¶ 24, 25, 26, 27, 28). **They coincide.**
+- n. 1 `Vide supra pag. 62, nota 1. verba Bernardi. Cfr. etiam Gregor., II. Homil. in Evang. homil. 34. n. 9.` — `ad confortandam Virginem ¹` (¶ 20, tail)
+- n. 2 `Cfr. Dionys., de Caelest. Hierarch. c. 10. § 1.` — `ab omnibus ²` (¶ 21)
+- n. 3 `Vide supra pag. 338, nota 2. in fine.` — `creet Angelum ³` (¶ 21)
+- n. 4 `Gregor., II. Homil. in Evang. homil. 34. n. 10: Quia enim thronos Latino eloquio sedes dicimus, throni Dei dicti sunt hi qui tanta Divinitatis gratia replentur, ut in eis Dominus sedeat et per eos sua iudicia decernat. Unde et per Psalmistam [Ps. 9, 5.] dicitur: Sedes super thronum, qui iudicas aequitatem. Cfr. infra n. 33.` — `Deum habent ⁴` (¶ 23)
+- n. 5 `Isai. 6, 3.` — `Sanctus, sanctus, sanctus ⁵` (¶ 24)
+- n. 6 `Cfr. Dionys., de Caelest. Hierarch. c. 8. § 1; Gregor., II. Homil. in Evang. homil. 34. n. 10; Bernard., V. de Considerat. c. 4. n. 8.` — `omne ordinatum promovere ⁶` (¶ 25)
+- n. 7 `Eccli. 43, 4. — Seq. locus est Cant. 2, 17.` — `Tripliciter sol exurens montes ⁷` (¶ 26)
+- n. 8 `Cfr. supra pag. 259, nota 8.` — `actuosae, otiosae ⁸` (¶ 27)
+- n. 9 `Cherubim siquidem, ut insinuat Dionys., de Caelest. Hierarch. c. 7. § 1, significant « multitudinem scientiae aut fusionem sapientiae »; Seraphim autem idem est ac « incendentes, aut calefacientes ». De Thronis vide supra nota 4.` — `nomen scientiae ⁹` (¶ 28)
