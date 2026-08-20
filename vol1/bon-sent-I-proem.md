@@ -643,12 +643,15 @@ print a clean verdict on **0 chunks audited**. This chunk was verified instead b
 both languages, structural parity, per-page plate discipline for every apparatus register, and the
 decoupled full-corpus scripts (`build-content.mjs`, `polish-style-scan.py`, `build-citations.py`).
 
-**⚠ FORWARDED TO WHOEVER BUILDS `bon-sent-I-proem-q1`.** (a) It opens at raw L9694, `QUAESTIO I.`,
+**⚠ FORWARDED TO WHOEVER BUILDS `bon-sent-I-proem-q1`.** It opens at raw L9694, `QUAESTIO I.`,
 partway down p. 6's left column, and **inherits p. 6 nn. 3–12** — ten entries, ownership verified on
-the plate, positions and columns NOT verified. (b) `site/scripts/build-content.mjs` will need work
-before a proemium *quaestio* can publish: `SENTENCES_FRONT_TYPES` admits only
-`praelocutio | proemium | capitula | littera`, so a `type: quaestio` chunk at `distinctio: 0` is
-dropped by the "skip prolegomena" guard, and `buildQuestionTitle` returns a bare "Proemium" for every
-`proemium`-typed chunk, which would print five identical entries in Book I's division 0. **Decide
-that deliberately — it is the first time a Sentences book's front matter has held numbered
-questions.**
+the plate, positions and columns NOT verified.
+
+**✅ THE BUILD SIDE IS ALREADY DONE (commit `91f328e`, same day).** `build-content.mjs` now admits
+`type: quaestio` at `distinctio: 0` and titles it `Proemium, Q. N`, and a book's front matter sorts
+on first printed page rather than on the type rank — which is what puts Book I's littera (pp. 16–17)
+after its four questions, where Books II–IV's littera follows the proemium directly. ⛔ The guard
+tests a new `declaredType` field, the *raw* frontmatter type: `chunkMeta.type` defaults to
+`"quaestio"`, and `vol1/bon-sent-I-proleg.md` declares no type, so admitting `quaestio` while testing
+the defaulted value would have published a 77k-word OCR dump. `divisio` and `dubia` are deliberately
+still excluded until the `COMMENTARIUS IN PROLOGUM MAGISTRI` (pp. 22–25) is read at the plate.

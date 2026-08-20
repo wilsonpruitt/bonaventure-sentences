@@ -45,14 +45,32 @@
 > Quaestio I's *fundamentum* and *sed contra*, which begin on the same leaf). Re-derive where they
 > land: a hand-off tells you which notes are yours and never where they land.
 >
-> ## ⛔ BEFORE A PROEMIUM *QUAESTIO* CAN PUBLISH, `build-content.mjs` NEEDS A DELIBERATE DECISION
-> `SENTENCES_FRONT_TYPES` admits only `praelocutio | proemium | capitula | littera`, so a
-> `type: quaestio` chunk at `distinctio: 0` is dropped by the "skip prolegomena" guard; and
-> `buildQuestionTitle` returns a bare **"Proemium"** for every `proemium`-typed chunk, so five
-> proemium chunks would print five identical entries in Book I's division 0. **This is the first time
-> a Sentences book's front matter has held numbered questions** — Quaracchi's own citation idiom for
-> them is `I. Sent. q. 4. Prooemii` (attested in the Vol I prolegomena, raw L4650), which is the
-> argument for a title like "Proemium, Q. N". Decide it, don't pattern-match.
+> ## ✅ `build-content.mjs` ALREADY PUBLISHES A PROEMIUM QUAESTIO — DONE 2026-08-20, commit `91f328e`
+> `SENTENCES_FRONT_TYPES` now admits **`quaestio`**, titled **`Proemium, Q. N`** (Quaracchi's own
+> address is `I. Sent. q. 4. Prooemii`; a bare "Proemium" would print five identical entries in one
+> division). **Just write the chunk with `type: quaestio`, `distinctio: 0`, `quaestio: N` — nothing
+> further is needed.**
+>
+> **★★ THE TRAP THAT CHANGE WALKED PAST, AND IT IS WORTH KNOWING BEFORE TOUCHING THAT SET AGAIN.**
+> `chunkMeta.type` defaults to `"quaestio"` when a file declares none, and
+> `vol1/bon-sent-I-proleg.md` — a bare **77k-word OCR dump** — declares none. It was being excluded
+> **only** because `"quaestio"` happened to be absent from the front-types set. Adding `quaestio`
+> while still testing the *defaulted* type would have published the dump silently, on the very commit
+> that admitted Book I's questions. The guard now tests **`declaredType`**, the raw frontmatter value,
+> which is `undefined` when the file declares none. **Do not collapse `declaredType` back into
+> `type`.**
+>
+> **★ FRONT MATTER NOW SORTS ON FIRST PRINTED PAGE, not on the hand-kept type rank.** The rank cannot
+> express Book I: its littera stands at pp. 16–17, i.e. **after** the four questions, where Books
+> II–IV's littera follows the proemium directly. Page order is plate-verified data and is right in all
+> four books; ties on a shared leaf (Book IV's littera and capitula both open on p. 4) fall through to
+> the rank, which orders them correctly. Verified: Books II–IV's division 0 is byte-identical.
+>
+> **⚠ `divisio` and `dubia` are deliberately NOT yet admitted.** The `COMMENTARIUS IN PROLOGUM
+> MAGISTRI` (pp. 22–25) needs them, but that unit has not been read at the plate and its chunk shape
+> is not fixed. Add them when it is built — **and title them "Prologus …", not "Proemium …": it
+> comments the Master's prologue, not the proemium.** Same discipline as `-sN-` sectio: no convention
+> before its case.
 >
 > ## ⚠ SCOPED DEFECT FOUND, NOT FIXED — `bon-sent-I-d1-commentary` IS MIS-PAGED
 > The resume note warned that a 17-word stub stood at `printed_pages: [1]` "in the way" of Book I's
