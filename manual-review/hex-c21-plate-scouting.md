@@ -62,3 +62,15 @@ right block's foot carries the sheet signature `55`.
 - n. 6 `Cfr. supra pag. 206, nota 8.` — `authenticus ⁶` (¶ 14)
 - n. 7 `Infra n. 19. seqq.` — `ut patebit ⁷` (¶ 14)
 - n. 8 `E addit et sic in hac monarchia perfectus monarcha noster est quasi sol.` — `in se ipso ⁸` (¶ 15)
+
+### p. 434 — 6 entries, nn. 1–6
+Block: **nn. 1–3 L, nn. 4–6 R.** Anchors: nn. 1–4 L (¶¶ 16, 17, 18, 18), nn. 5–6 R (¶¶ 19, 20).
+★ **The left block UNDERRUNS the column division by one** — n. 4 anchors in the left column
+(*revertitur in ipsum ⁴*, ¶ 18) and prints in the right block. First mismatch of this chunk;
+p. 431, 432 and 433 all coincided.
+- n. 1 `Cfr. Dionys., de Caelest. Hierarch. c. 4. § 2. seqq.` — `propinquiora ¹` (¶ 16)
+- n. 2 `De Caelest. Hierarch., c. 3. § 1. Cfr. II. Sent. d. 9. Praenotata, ubi etiam exponuntur plura, quae inferius exhibentur, praesertim de tribus hierarchiis earumque ordinatione et actibus. — Explicatio Dionysii continuatur in n. 18.` — `Dionysium ²` (¶ 17)
+- n. 3 `Sicut nec creationis est creatio; cfr. II. Sent. d. 1. p. I. a. 3. q. 2. ad 5.` — `influentia ³` (¶ 18)
+- n. 4 `Ioan. 16, 28: Exivi a Patre et veni in mundum; iterum relinquo mundum et vado ad Patrem.` — `revertitur in ipsum ⁴` (¶ 18)
+- n. 5 `In E hic additur ex supercaelestium aspectuum varietate; cfr. infra n. 31. et collat. 22. n. 1.` — `dispositionem caelestis monarchiae ⁵` (¶ 19)
+- n. 6 `Epist. I. Tim. 2, 5: Mediator Dei et hominum, homo Christus Iesus. — Cfr. III Sent. d. 2. dub. 4, ubi in fine dicitur, Gabrielem fuisse de ordine Archangelorum.` — `nuntius Mediatoris ⁶` (¶ 20)
