@@ -2243,6 +2243,17 @@ bon-sent-I-d9-littera	1	apparatus:17	17	scripture	apparatus-explicit	Matth. 5, 4
 bon-sent-I-d9-littera	1	apparatus:23	23	scripture	apparatus-explicit	Prov. 8, 25	Prov 8:25	A	verse		
 bon-sent-I-d9-littera	1	apparatus:27	27	scripture	apparatus-explicit	Ioan. 6, 58	Ioan 6:58	A	verse		
 bon-sent-I-d9-littera	1	apparatus:29	29	scripture	apparatus-explicit	Ioan. 5, 26	Ioan 5:26	A	verse		
+bon-sent-I-littera	1	apparatus:p16-2	p16-2	scripture	apparatus-explicit	Luc. 21, 2	Luc 21:2	A	verse		
+bon-sent-I-littera	1	apparatus:p16-2	p16-2	scripture	apparatus-explicit	Marc. 12, 42	Marc 12:42	A	verse		
+bon-sent-I-littera	1	apparatus:p16-3	p16-3	scripture	apparatus-explicit	Luc. 10, 35	Luc 10:35	A	verse		
+bon-sent-I-littera	1	apparatus:p16-6	p16-6	scripture	anaphor->apparatus-explicit	loc. cit.	Luc 10:35	A	verse	yes	Luc. 10, 35
+bon-sent-I-littera	1	apparatus:p16-7	p16-7	scripture	anaphor->apparatus-explicit	ibid	Luc 10:35	A	verse	yes	Luc. 10, 35
+bon-sent-I-littera	1	apparatus:p16-9	p16-9	scripture	apparatus-explicit	II. Cor. 4, 4	2Cor 4:4	A	verse		
+bon-sent-I-littera	1	apparatus:p16-9	p16-9	scripture	apparatus-explicit	Eph. 2, 2	Eph 2:2	A	verse		
+bon-sent-I-littera	1	apparatus:p17-2	p17-2	scripture	apparatus-explicit	II. Tim. 4, 4	2Tim 4:4	A	verse		
+bon-sent-I-littera	1	apparatus:p17-3	p17-3	scripture	apparatus-explicit	Coloss. 2, 23	Col 2:23	A	verse		
+bon-sent-I-littera	1	apparatus:p17-8	p17-8	scripture	apparatus-explicit	Matth. 5, 15	Matth 5:15	A	verse		
+bon-sent-I-littera	1	apparatus:p17-14	p17-14	scripture	anaphor->apparatus-explicit	ibid.	Matth 5:15	A	verse	yes	Matth. 5, 15
 bon-sent-I-proem-q1	1	scholion		crossref	work	Breviloq. p. I. c. 1.	bon-brev-p1-c1		chunk		
 bon-sent-I-proem-q1	1	scholion		crossref	logical	III. Sent. d. 23. a. 1. q. 1.	bon-sent-III-d23-a1-q1		chunk		
 bon-sent-I-proem-q1	1	scholion		crossref	relative-inherited	ibid.	bon-sent-III-d23-a1-q1		chunk		
