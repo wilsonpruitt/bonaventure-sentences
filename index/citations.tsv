@@ -2243,6 +2243,15 @@ bon-sent-I-d9-littera	1	apparatus:17	17	scripture	apparatus-explicit	Matth. 5, 4
 bon-sent-I-d9-littera	1	apparatus:23	23	scripture	apparatus-explicit	Prov. 8, 25	Prov 8:25	A	verse		
 bon-sent-I-d9-littera	1	apparatus:27	27	scripture	apparatus-explicit	Ioan. 6, 58	Ioan 6:58	A	verse		
 bon-sent-I-d9-littera	1	apparatus:29	29	scripture	apparatus-explicit	Ioan. 5, 26	Ioan 5:26	A	verse		
+bon-sent-I-proem-q1	1	scholion		crossref	work	Breviloq. p. I. c. 1.	bon-brev-p1-c1		chunk		
+bon-sent-I-proem-q1	1	scholion		crossref	logical	III. Sent. d. 23. a. 1. q. 1.	bon-sent-III-d23-a1-q1		chunk		
+bon-sent-I-proem-q1	1	scholion		crossref	relative-inherited	ibid.	bon-sent-III-d23-a1-q1		chunk		
+bon-sent-I-proem-q1	1	scholion		crossref	work	Breviloq. p. 1. c. 1.	bon-brev-p1-c1		chunk		
+bon-sent-I-proem-q1	1	scholion		crossref	logical	I. Sent. d. 1. a. 3.	bon-sent-I-d1-a3-q1+bon-sent-I-d1-a3-q2		articulus		
+bon-sent-I-proem-q1	1	scholion		crossref	anaphor->logical	loc. cit.	bon-sent-I-d1-a3-q1+bon-sent-I-d1-a3-q2		articulus	yes	I. Sent. d. 1. a. 3.
+bon-sent-I-proem-q1	1	scholion		crossref	work	Breviloquio p. I. c. 1	bon-brev-p1-c1		chunk		
+bon-sent-I-proem-q1	1	scholion		crossref	logical	I. Sent. d. 1. a. 2.	bon-sent-I-d1-a2-q1		chunk		
+bon-sent-I-proem-q1	1	apparatus:p7-12	p7-12	crossref	work	Breviloq. p. I. c. 1.	bon-brev-p1-c1		chunk		
 bon-sent-I-proem	1	latin_body		scripture	body-ordinal	Iob vigesimo octavo	Iob 28	C	chapter		
 bon-sent-I-proem	1	latin_body	p2-2	scripture	body-ordinal	Ezechielis vigesimo nono	Ezech 29:3	B	verse		
 bon-sent-I-proem	1	latin_body	p2-8	scripture	body-ordinal	Ecclesiastici vigesimo quarto	Eccli 24:41	B	verse		
@@ -11011,7 +11020,7 @@ bon-sent-III-d35-a1-q6	3	apparatus:10	10	crossref	page	pag. 214, nota 5	bon-sent
 bon-sent-III-d35-a1-q6	3	apparatus:11	11	crossref	page	supra pag. 246, nota 4	bon-sent-III-d11-a1-q2		chunk		
 bon-sent-III-d35-a1-q6	3	apparatus:12	12	crossref	relative	supra d. 33. dub. 1.	bon-sent-III-d33-dubia		chunk		
 bon-sent-III-d35-a1-q6	3	apparatus:15	15	crossref	page	supra pag. 232, nota 7	bon-sent-III-d10-a1-q3+bon-sent-III-d10-a2-q1		page-multi		
-bon-sent-III-d35-dubia	3	apparatus:1	1	crossref	page	tom. I. pag. 6, nota 3	bon-sent-I-proem		chunk		
+bon-sent-III-d35-dubia	3	apparatus:1	1	crossref	page	tom. I. pag. 6, nota 3	bon-sent-I-proem-q1+bon-sent-I-proem		page-multi		
 bon-sent-III-d35-dubia	3	apparatus:2	2	crossref	page	supra pag. 9, nota 1	bon-sent-III-d1-a1-q1		chunk		
 bon-sent-III-d35-dubia	3	apparatus:2	2	crossref	page	supra pag. 280, nota 3	bon-sent-III-d13-a1-q2		chunk		
 bon-sent-III-d35-dubia	3	apparatus:3	3	crossref	relative	supra d. 33. dub. 1.	bon-sent-III-d33-dubia		chunk		
