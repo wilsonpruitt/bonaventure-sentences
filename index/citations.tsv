@@ -12233,7 +12233,7 @@ bon-sent-IV-d1-p1-a1-q6	4	apparatus:13	13	crossref	logical	III. Sent. d. 34. p. 
 bon-sent-IV-d1-p1-divisio	4	apparatus:2	2	scripture	apparatus-explicit	Ps. 22, 2	Ps 22:2	A	verse		
 bon-sent-IV-d1-p1-divisio	4	apparatus:3	3	scripture	apparatus-explicit	Ioan. 3, 5	Ioan 3:5	A	verse		
 bon-sent-IV-d1-p1-divisio	4	apparatus:3	3	scripture	apparatus-explicit	Gen. 17, 14	Gen 17:14	A	verse		
-bon-sent-IV-d1-p1-divisio	4	apparatus:1n	1n	crossref	page	supra pag. 3, nota 5			dangling		
+bon-sent-IV-d1-p1-divisio	4	apparatus:1n	1n	crossref	page	supra pag. 3, nota 5	bon-sent-IV-proem		chunk		
 bon-sent-IV-d1-p1-dubia	4	latin_body	8	scripture	body-ordinal	Genesis tertio	Gen 3:6	B	verse		
 bon-sent-IV-d1-p1-dubia	4	latin_body		scripture	body-ordinal	Exodi vigesimo	Exod 20	C	chapter		
 bon-sent-IV-d1-p1-dubia	4	latin_body		scripture	body-ordinal	Genesis primo	Gen 1	C	chapter		
@@ -15687,7 +15687,7 @@ bon-sent-IV-d3-p2-a1-q1	4	apparatus:8b	8b	scripture	apparatus-explicit	Matth. 3,
 bon-sent-IV-d3-p2-a1-q1	4	apparatus:9b	9b	scripture	apparatus-explicit	Ioan. 3, 22	Ioan 3:22	A	verse		
 bon-sent-IV-d3-p2-a1-q1	4	apparatus:9b	9b	scripture	anaphor->apparatus-explicit	ibid.	Ioan 3:22	A	verse	yes	Ioan. 3, 22
 bon-sent-IV-d3-p2-a1-q2	4	latin_body	3	scripture	body-ordinal	Lucae tertio	Luc 3:21	B	verse		
-bon-sent-IV-d3-p2-a1-q2	4	apparatus:3	3	crossref	page	supra pag. 2, nota 3			dangling		
+bon-sent-IV-d3-p2-a1-q2	4	apparatus:3	3	crossref	page	supra pag. 2, nota 3	bon-sent-IV-proem		chunk		
 bon-sent-IV-d3-p2-a1-q2	4	apparatus:5	5	crossref	logical	I. Sent. d. 3. p. I. dub. 3.	bon-sent-I-d3-p1-dubia		chunk		
 bon-sent-IV-d3-p2-a1-q2	4	apparatus:5	5	crossref	chain-continuation	d. 8. p. II. q. 2.	bon-sent-I-d8-p2-a1-q2		chunk		
 bon-sent-IV-d3-p2-a1-q2	4	apparatus:7	7	crossref	page	supra pag. 42, nota 10	bon-sent-IV-d1-p2-a2-q3		chunk		
@@ -16691,7 +16691,7 @@ bon-sent-IV-d4-p2-a1-q3	4	apparatus:2	2	crossref	relative	supra d. 3. p. I.	IV:d
 bon-sent-IV-d4-p2-a1-q3	4	apparatus:3	3	crossref	relative	supra d. 1. p. I. q. 4.	bon-sent-IV-d1-p1-a1-q4		chunk		
 bon-sent-IV-d4-p2-a1-q3	4	apparatus:3	3	crossref	page	supra pag. 109, nota 1	bon-sent-IV-d4-p2-a1-q2+bon-sent-IV-d4-p2-a1-q3		page-multi		
 bon-sent-IV-d4-p2-a1-q3	4	apparatus:4	4	crossref	relative	supra d. 1. p. I. q. 2.	bon-sent-IV-d1-p1-a1-q2		chunk		
-bon-sent-IV-d4-p2-a1-q3	4	apparatus:6	6	crossref	page	supra pag. 2, nota 12			dangling		
+bon-sent-IV-d4-p2-a1-q3	4	apparatus:6	6	crossref	page	supra pag. 2, nota 12	bon-sent-IV-proem		chunk		
 bon-sent-IV-d4-p2-a1-q3	4	apparatus:6	6	scripture	apparatus-explicit	Ioan. 19, 34	Ioan 19:34	A	verse		
 bon-sent-IV-d4-p2-a1-q3	4	apparatus:14	14	scripture	apparatus-explicit	Act. 1, 5	Act 1:5	A	verse		
 bon-sent-IV-d4-p2-a1-q3	4	apparatus:15	15	scripture	apparatus-explicit	Levit. 17, 11	Lev 17:11	A	verse		
@@ -16742,7 +16742,7 @@ bon-sent-IV-d4-p2-a2-q3	4	apparatus:1bis	1bis	crossref	logical	II. Sent. d. 9. q
 bon-sent-IV-d4-p2-dubia	4	apparatus:4	4	scripture	apparatus-explicit	Luc. 23, 43	Luc 23:43	A	verse		
 bon-sent-IV-d4-p2-dubia	4	apparatus:p117-1	p117-1	crossref	relative	supra d. 3. p. I. a. 1. q. 1.	bon-sent-IV-d3-p1-a1-q1		chunk		
 bon-sent-IV-d4-p2-dubia	4	apparatus:p117-3	p117-3	crossref	relative	supra d. 1. p. II. a. 1. q. 1.	bon-sent-IV-d1-p2-a1-q1		chunk		
-bon-sent-IV-d4-p2-dubia	4	apparatus:p117-4	p117-4	crossref	page	supra pag. 2, nota 12			dangling		
+bon-sent-IV-d4-p2-dubia	4	apparatus:p117-4	p117-4	crossref	page	supra pag. 2, nota 12	bon-sent-IV-proem		chunk		
 bon-sent-IV-d4-p2-dubia	4	apparatus:p117-4	p117-4	crossref	relative	supra d. 3. p. I. a. 1. q. 3.	bon-sent-IV-d3-p1-a1-q3		chunk		
 bon-sent-IV-d4-p2-dubia	4	apparatus:p117-4	p117-4	crossref	chain-continuation	d. 4. p. I. dub. 2.	bon-sent-IV-d4-p1-dubia		chunk		
 bon-sent-IV-d4-p2-dubia	4	apparatus:p117-6	p117-6	crossref	relative	supra d. 2. a. 1. q. 2.	bon-sent-IV-d2-a1-q2		chunk		
@@ -18606,6 +18606,38 @@ bon-sent-IV-d9-littera	4	apparatus:3	3	scripture	anaphor->apparatus-explicit	ibi
 bon-sent-IV-d9-littera	4	apparatus:6	6	scripture	anaphor->apparatus-explicit	ibid.	Ioan 6:57	A	verse	yes	Ioan. 6, 57
 bon-sent-IV-d9-littera	4	apparatus:6	6	scripture	apparatus-explicit	I. Cor. 11, 29	1Cor 11:29	A	verse		
 bon-sent-IV-d9-littera	4	apparatus:7	7	scripture	apparatus-explicit	I. Cor. 11, 29	1Cor 11:29	A	verse		
+bon-sent-IV-proem	4	latin_body	p1-1	scripture	body-ordinal	Ecclesiastici trigesimo octavo	Eccli 38:7	B	verse		
+bon-sent-IV-proem	4	latin_body	p1-5	scripture	body-ordinal	Exodi trigesimo	Exod 30:35	B	verse		
+bon-sent-IV-proem	4	latin_body	p1-7	scripture	body-ordinal	ad Hebraeos decimo	Hebr 10:1	B	verse		
+bon-sent-IV-proem	4	latin_body		scripture	body-ordinal	Isaiae primo	Isai 1	C	chapter		
+bon-sent-IV-proem	4	latin_body	p1-8	scripture	body-ordinal	ad Hebraeos decimo	Hebr 10:5	B	verse		
+bon-sent-IV-proem	4	latin_body	p2-2	scripture	body-ordinal	Genesis vigesimo septimo	Gen 27:27	B	verse		
+bon-sent-IV-proem	4	latin_body	p2-3	scripture	body-ordinal	ad Ephesios quinto	Eph 5:2	B	verse		
+bon-sent-IV-proem	4	latin_body	p2-4	scripture	body-ordinal	Ecclesiastici quadragesimo nono	Eccli 49:1	B	verse		
+bon-sent-IV-proem	4	latin_body	p2-5	scripture	body-ordinal	Canticorum quarto	Cant 4:10	B	verse		
+bon-sent-IV-proem	4	latin_body	p2-6	scripture	body-ordinal	ad Hebraeos nono	Hebr 9:9	B	verse		
+bon-sent-IV-proem	4	latin_body	p2-7	scripture	body-ordinal	ad Hebraeos decimo	Hebr 10:4	B	verse		
+bon-sent-IV-proem	4	latin_body	p2-9	scripture	body-ordinal	Isaiae sexagesimo primo	Isai 61:1	B	verse		
+bon-sent-IV-proem	4	latin_body		scripture	body-ordinal	Lucae quarto	Luc 4	C	chapter		
+bon-sent-IV-proem	4	latin_body		scripture	body-ordinal	Actuum decimo	Act 10	C	chapter		
+bon-sent-IV-proem	4	latin_body	p2-11	scripture	body-ordinal	Ioannis quinto	Ioan 5:26	B	verse		
+bon-sent-IV-proem	4	latin_body	p2-12	scripture	body-ordinal	ad Ephesios quinto	Eph 5:32	B	verse		
+bon-sent-IV-proem	4	apparatus:p1-4	p1-4	scripture	apparatus-explicit	Luc. 10, 30	Luc 10:30	A	verse		
+bon-sent-IV-proem	4	apparatus:p1-4	p1-4	crossref	page	tom. II. pag. 700, nota 1	bon-sent-II-d29-a2-q1		chunk		
+bon-sent-IV-proem	4	apparatus:p1-5	p1-5	crossref	anaphor->page	ibid	bon-sent-II-d29-a2-q1		chunk	yes	tom. II. pag. 700, nota 1
+bon-sent-IV-proem	4	apparatus:p1-5	p1-5	crossref	anaphor->page	ibid.	bon-sent-II-d29-a2-q1		chunk	yes	tom. II. pag. 700, nota 1
+bon-sent-IV-proem	4	apparatus:p1-7	p1-7	scripture	apparatus-explicit	Isai. 1, 13	Isai 1:13	A	verse		
+bon-sent-IV-proem	4	apparatus:p1-8	p1-8	scripture	apparatus-explicit	Ps. 39, 7	Ps 39:7	A	verse		
+bon-sent-IV-proem	4	apparatus:p2-3	p2-3	scripture	apparatus-explicit	Marc. 14, 3	Marc 14:3	A	verse		
+bon-sent-IV-proem	4	apparatus:p2-3	p2-3	scripture	apparatus-explicit	Ioan. 1, 16	Ioan 1:16	A	verse		
+bon-sent-IV-proem	4	apparatus:p2-7	p2-7	scripture	apparatus-explicit	Isai. 1, 6	Isai 1:6	A	verse		
+bon-sent-IV-proem	4	apparatus:p2-7	p2-7	scripture	anaphor->apparatus-explicit	ibid.	Isai 1:6	A	verse	yes	Isai. 1, 6
+bon-sent-IV-proem	4	apparatus:p2-9	p2-9	scripture	apparatus-explicit	Luc. 4, 21	Luc 4:21	A	verse		
+bon-sent-IV-proem	4	apparatus:p2-9	p2-9	scripture	apparatus-explicit	Act. 10, 38	Act 10:38	A	verse		
+bon-sent-IV-proem	4	apparatus:p3-1	p3-1	scripture	apparatus-explicit	Ioan. 19, 33	Ioan 19:33	A	verse		
+bon-sent-IV-proem	4	apparatus:p3-4	p3-4	scripture	apparatus-explicit	Psalm. 146, 3	Ps 146:3	A	verse		
+bon-sent-IV-proem	4	apparatus:p3-4	p3-4	scripture	apparatus-explicit	Ps. 102, 3	Ps 102:3	A	verse		
+bon-sent-IV-proem	4	apparatus:p3-5	p3-5	crossref	page	pag. 10, nota 4	bon-sent-IV-d1-p1-divisio+bon-sent-IV-d1-p1-littera		page-multi		
 bon-brev-p1-c1	5	apparatus:p210-3	p210-3	crossref	page	supra pag. 204, nota 2	bon-brev-prol-s2+bon-brev-prol-s3		page-multi		
 bon-brev-p1-c1	5	apparatus:p210-4	p210-4	crossref	page	supra pag. 120, nota 11	tom5:p120		forward		
 bon-brev-p1-c1	5	apparatus:p210-5	p210-5	crossref	page	tom. III. pag. 773, nota 5	bon-sent-III-d35-a1-q1		chunk		
