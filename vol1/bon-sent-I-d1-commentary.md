@@ -6,15 +6,15 @@ distinctio: 1
 type: commentary
 title_la: "Commentarius in Distinctionem I: Divisio libri Sententiarum et disputatio circa frui et uti"
 title_en: "Commentary on Distinction I: Division of the Book of Sentences and disputation concerning enjoying and using"
-printed_pages: [1]
-pdf_pages: [103]
-source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), p. 1"
+printed_pages: [29]
+pdf_pages: [131]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), p. 29"
 has_scholion: false
 has_apparatus: false
 line_start: 13215
 line_end: 13223
 word_count_latin: 17
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 13215–13223), fresh literal English translation, no apparatus attaches to this preamble (2026-05-08); cohort flag stripped 2026-05-10 (pivot keep-list — zero-apparatus chunk, audited clean)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 13215–13223), fresh literal English translation, no apparatus attaches to this preamble (2026-05-08); cohort flag stripped 2026-05-10 (pivot keep-list — zero-apparatus chunk, audited clean); MIS-PAGING CORRECTED 2026-08-20 — printed_pages/pdf_pages were [1]/[103], an artefact of the auto-chunker reading the raw's `DISTINCTIO I.` (a running head) as the book's opening; the display heading COMMENTARIUS IN DISTINCTIONEM I., its subtitle and the *Veteris ac novae Legis continentiam* incipit stand at the HEAD OF PRINTED p. 29 (pdf 131), verified on the plate, immediately above bon-sent-I-d1-divisio's DIVISIO TEXTUS on the same leaf; the apparatus note's claim that the preceding footer block belongs to the prologue's ultima pars was also wrong and has been corrected (it is p. 28's, and belongs to bon-sent-I-d1-littera)"
 format_version: 1
 ---
 
@@ -25,7 +25,7 @@ format_version: 1
 
 ## Latin
 
-<!-- page 1 -->
+<!-- page 29 -->
 
 ## Distinctio I.
 
@@ -39,7 +39,7 @@ format_version: 1
 
 ## English
 
-<!-- page 1 -->
+<!-- page 29 -->
 
 ## Distinction I.
 
@@ -53,7 +53,7 @@ format_version: 1
 
 ## Apparatus
 
-[No apparatus attaches to this preamble. The Quaracchi apparatus block immediately preceding (raw lines 13176–13212) belongs to the prologue's *ultima pars*; the apparatus for d.1's *divisio textus* and articles is carried in the respective chunks.]
+[No apparatus attaches to this preamble: neither the display heading, nor its subtitle, nor the *Veteris ac novae Legis continentiam* incipit carries a footnote anchor on p. 29. The footer register immediately preceding it in the raw (lines 13163–13212) is **p. 28's**, and belongs to `bon-sent-I-d1-littera`; p. 29's own register belongs to `bon-sent-I-d1-divisio`. The apparatus for d.1's *divisio textus* and articles is carried in the respective chunks.]
 
 ## Notes
 

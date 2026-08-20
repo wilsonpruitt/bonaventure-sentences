@@ -164,6 +164,11 @@ const SENTENCES_FRONT_TYPES = new Set([
   "capitula",
   "littera",
   "quaestio",
+  // Book I only: COMMENTARIUS IN PROLOGUM MAGISTRI (pp. 22-25) — Bonaventure's
+  // commentary on Lombard's prologue, which stands before d.1 and so carries
+  // `distinctio: 0`. Books II-IV have no counterpart (Lombard prefixes a
+  // prologue only to Book I).
+  "commentary",
 ]);
 const isSentencesFront = (meta) =>
   meta.distinctio === 0 &&
@@ -177,6 +182,7 @@ function buildQuestionTitle(meta) {
     if (meta.declaredType === "proemium") return "Proemium";
     if (meta.declaredType === "capitula") return "Capitula";
     if (meta.declaredType === "littera") return "Textus Magistri";
+    if (meta.declaredType === "commentary") return "Prologus, Commentarius";
     // Book I's prooemial questions. Quaracchi's own address for them is
     // `q. N. Prooemii`, so the number is the whole point of the label; a bare
     // "Proemium" would print five identical entries in one division.

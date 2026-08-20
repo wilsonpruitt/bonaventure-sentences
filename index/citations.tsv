@@ -643,10 +643,10 @@ bon-sent-I-d22-a1-q3	1	scholion		authority	authority:S. Thom.	I. Sent. d. 8. q. 
 bon-sent-I-d22-a1-q3	1	scholion		authority	authority:Albert.	I. Sent. d. 3. a. 13.			excluded		
 bon-sent-I-d22-a1-q3	1	apparatus:4	4	authority	anaphor->authority:Albert.	ibid			excluded	yes	I. Sent. d. 3. a. 13.
 bon-sent-I-d22-a1-q3	1	apparatus:5	5	scripture	apparatus-explicit	Rom. 15, 4	Rom 15:4	A	verse		
-bon-sent-I-d22-a1-q3	1	apparatus:10	10	crossref	page	supra pag. 1	bon-sent-I-d1-commentary+bon-sent-I-proem		page-multi		
-bon-sent-I-d22-a1-q3	1	apparatus:15	15	crossref	anaphor->page	loc. cit.	bon-sent-I-d1-commentary+bon-sent-I-proem		page-multi	yes	supra pag. 1
+bon-sent-I-d22-a1-q3	1	apparatus:10	10	crossref	page	supra pag. 1	bon-sent-I-proem		chunk		
+bon-sent-I-d22-a1-q3	1	apparatus:15	15	crossref	anaphor->page	loc. cit.	bon-sent-I-proem		chunk	yes	supra pag. 1
 bon-sent-I-d22-a1-q3	1	apparatus:18	18	crossref	page	supra pag. 77, nota 10	bon-sent-I-d3-p1-a1-q4+bon-sent-I-d3-p1-dubia		page-multi		
-bon-sent-I-d22-a1-q3	1	apparatus:20	20	crossref	page	supra pag. 1	bon-sent-I-d1-commentary+bon-sent-I-proem		page-multi		
+bon-sent-I-d22-a1-q3	1	apparatus:20	20	crossref	page	supra pag. 1	bon-sent-I-proem		chunk		
 bon-sent-I-d22-a1-q4	1	scholion		crossref	relative	supra d. 13. q. 3	bon-sent-I-d13-a1-q3		chunk		
 bon-sent-I-d22-a1-q4	1	scholion		crossref	chain-continuation	d. 19. p. II. q. 2.	bon-sent-I-d19-p2-a1-q2		chunk		
 bon-sent-I-d22-a1-q4	1	scholion		crossref	chain-continuation	d. 26. q. 1.	bon-sent-I-d26-a1-q1		chunk		
@@ -1255,7 +1255,7 @@ bon-sent-I-d34-a1-q4	1	scholion		authority	authority:Dionys. Carth.	d. 22. q. 2.
 bon-sent-I-d34-a1-q4	1	apparatus:1	1	crossref	page	supra pag. 388, nota 3	bon-sent-I-d22-littera		chunk		
 bon-sent-I-d34-a1-q4	1	apparatus:3	3	scripture	apparatus-explicit	Genes. 6, 6	Gen 6:6	A	verse		
 bon-sent-I-d34-a1-q4	1	apparatus:3	3	scripture	apparatus-explicit	Exod. 4, 14	Exod 4:14	A	verse		
-bon-sent-I-d34-a1-q4	1	apparatus:4	4	crossref	page	supra pag. 1, nota 8	bon-sent-I-d1-commentary+bon-sent-I-proem		page-multi		
+bon-sent-I-d34-a1-q4	1	apparatus:4	4	crossref	page	supra pag. 1, nota 8	bon-sent-I-proem		chunk		
 bon-sent-I-d34-a1-q4	1	apparatus:5	5	crossref	page	supra pag. 346, nota 5	bon-sent-I-d19-p1-a1-q2+bon-sent-I-d19-p1-a1-q3		page-multi		
 bon-sent-I-d34-a1-q4	1	apparatus:6	6	crossref	page	supra pag. 72, nota 3	bon-sent-I-d3-p1-a1-q2		chunk		
 bon-sent-I-d34-a1-q4	1	apparatus:8	8	crossref	relative	supra d. 3. p. I. q. 2.	bon-sent-I-d3-p1-a1-q2		chunk		
@@ -1814,7 +1814,7 @@ bon-sent-I-d44-a1-q1	1	apparatus:9	9	crossref	anaphor->relative	loc. cit.	bon-se
 bon-sent-I-d44-a1-q1	1	apparatus:12	12	crossref	relative	supra d. 38. q. 1.	bon-sent-I-d38-a1-q1+bon-sent-I-d38-a2-q1		ambiguous		
 bon-sent-I-d44-a1-q2	1	latin_body	1	scripture	body-ordinal	Isaiae trigesimo	Isai 30:26	B	verse		
 bon-sent-I-d44-a1-q2	1	apparatus:3	3	crossref	page	supra pag. 654, nota 1	bon-sent-I-d37-p2-a1-q2		chunk		
-bon-sent-I-d44-a1-q2	1	apparatus:5	5	crossref	page	pag. 29	bon-sent-I-d1-divisio		chunk		
+bon-sent-I-d44-a1-q2	1	apparatus:5	5	crossref	page	pag. 29	bon-sent-I-d1-commentary+bon-sent-I-d1-divisio		page-multi		
 bon-sent-I-d44-a1-q2	1	apparatus:8	8	crossref	page	supra pag. 746, nota 5	bon-sent-I-d42-a1-q1		chunk		
 bon-sent-I-d44-a1-q3	1	latin_body	1	scripture	body-ordinal	Genesis primo	Gen 1:31	B	verse		
 bon-sent-I-d44-a1-q3	1	scholion		crossref	relative	infra d. 46. q. 3	bon-sent-I-d46-a1-q3		chunk		
@@ -2015,7 +2015,7 @@ bon-sent-I-d47-a1-q3	1	scholion		authority	authority:Thom.	d. 6. q. 11.			exclud
 bon-sent-I-d47-a1-q3	1	scholion		authority	authority:Albert.	I. Sent. d. 46. a. 9.			excluded		
 bon-sent-I-d47-a1-q3	1	scholion		authority	authority:Petr. a Tar.	I. Sent. d. 46. q. 1.			excluded		
 bon-sent-I-d47-a1-q3	1	scholion		authority	authority:Richard. a Med.	d. 46. q. 3.			excluded		
-bon-sent-I-d47-a1-q3	1	apparatus:6	6	crossref	page	supra pag. 23, nota 9			dangling		
+bon-sent-I-d47-a1-q3	1	apparatus:6	6	crossref	page	supra pag. 23, nota 9	bon-sent-I-prol-comm		chunk		
 bon-sent-I-d47-a1-q3	1	apparatus:7	7	scripture	apparatus-explicit	Psalm. 24, 10	Ps 24:10	A	verse		
 bon-sent-I-d47-a1-q3	1	apparatus:8	8	crossref	relative	supra d. 44. a. 1. q. 3.	bon-sent-I-d44-a1-q3		chunk		
 bon-sent-I-d47-a1-q3	1	apparatus:9	9	crossref	page	supra pag. 843, nota 9	bon-sent-I-d47-a1-q2+bon-sent-I-d47-a1-q3		page-multi		
@@ -2320,6 +2320,16 @@ bon-sent-I-proem	1	apparatus:p5-5	p5-5	scripture	apparatus-explicit	Iob. 28, 18	
 bon-sent-I-proem	1	apparatus:p5-7	p5-7	scripture	apparatus-explicit	Prov. 8, 23	Prov 8:23	A	verse		
 bon-sent-I-proem	1	apparatus:p5-12	p5-12	scripture	apparatus-explicit	I. Cor. 1, 25	1Cor 1:25	A	verse		
 bon-sent-I-proem	1	apparatus:p5-12	p5-12	scripture	apparatus-explicit	Isai. 14, 27	Isai 14:27	A	verse		
+bon-sent-I-prol-comm	1	latin_body	p23-9	scripture	body-ordinal	Ioannis secundo	Ioan 2	C	chapter		
+bon-sent-I-prol-comm	1	latin_body	p23-11	scripture	body-ordinal	ad Galatas quinto	Gal 5	C	chapter		
+bon-sent-I-prol-comm	1	latin_body	p24-12	scripture	body-ordinal	Ioannis tertio	Ioan 3:20	B	verse		
+bon-sent-I-prol-comm	1	latin_body	p24-13	scripture	body-ordinal	Esdrae quarto	Esdr* 4:35	B	verse		
+bon-sent-I-prol-comm	1	latin_body	p25-4	scripture	body-ordinal	ad Corinthios decimo tertio	Cor* 13:8	B	verse		
+bon-sent-I-prol-comm	1	apparatus:p23-9	p23-9	scripture	anaphor->body-ordinal	loc. cit.	Cor* 13:8	B	verse	yes	ad Corinthios decimo tertio
+bon-sent-I-prol-comm	1	apparatus:p24-2	p24-2	crossref	relative	infra d. 18. p. I. a. 1. q. 3.			dangling		
+bon-sent-I-prol-comm	1	apparatus:p24-8	p24-8	crossref	relative	infra d. 3. p. I. q. 1.	bon-sent-I-d3-p1-a1-q1		chunk		
+bon-sent-I-prol-comm	1	apparatus:p25-5	p25-5	scripture	apparatus-explicit	Psalm. 118, 152	Ps 118:152	A	verse		
+bon-sent-I-prol-comm	1	apparatus:p25-6	p25-6	scripture	apparatus-explicit	Psalm. 118, 89	Ps 118:89	A	verse		
 bon-sent-II-d1-littera	2	apparatus:1	1	crossref	work	Hexaem.	work:hexaemeron		work		
 bon-sent-II-d1-littera	2	apparatus:5	5	crossref	work	Hexaem.	work:hexaemeron		work		
 bon-sent-II-d1-littera	2	apparatus:9	9	crossref	anaphor->work	loc. cit.	work:hexaemeron		work	yes	Hexaem.
@@ -13063,7 +13073,7 @@ bon-sent-IV-d14-p1-a1-q1	4	apparatus:8	8	crossref	page	tom. III. pag. 470, nota 
 bon-sent-IV-d14-p1-a1-q1	4	apparatus:9	9	crossref	logical	III. Sent. d. 33. q. 6.	bon-sent-III-d33-a1-q6		chunk		
 bon-sent-IV-d14-p1-a1-q1	4	apparatus:9	9	crossref	chain-continuation	d. 36. q. 1.	bon-sent-III-d36-a1-q1		chunk		
 bon-sent-IV-d14-p1-a1-q1	4	apparatus:10	10	crossref	relative	supra d. 1. p. I. q. 6.	bon-sent-IV-d1-p1-a1-q6		chunk		
-bon-sent-IV-d14-p1-a1-q1	4	apparatus:1b	1b	crossref	page	tom. I. pag. 23, nota 9			dangling		
+bon-sent-IV-d14-p1-a1-q1	4	apparatus:1b	1b	crossref	page	tom. I. pag. 23, nota 9	bon-sent-I-prol-comm		chunk		
 bon-sent-IV-d14-p1-a1-q1	4	apparatus:3b	3b	crossref	logical	III. Sent. d. 27. a. 1. q. 3.	bon-sent-III-d27-a1-q3		chunk		
 bon-sent-IV-d14-p1-a1-q1	4	apparatus:3b	3b	crossref	chain-continuation	d. 33. q. 1.	bon-sent-III-d33-a1-q1		chunk		
 bon-sent-IV-d14-p1-a1-q1	4	apparatus:9b	9b	crossref	relative	infra d. 17. p. I. a. 1. q. 3.	bon-sent-IV-d17-p1-a1-q3		chunk		
@@ -14780,8 +14790,8 @@ bon-sent-IV-d21-p1-a3-q1	4	latin_body	1	scripture	body-ordinal	ad Corinthios ter
 bon-sent-IV-d21-p1-a3-q1	4	scholion		crossref	relative	supra d. 20. a. 5.			dangling		
 bon-sent-IV-d21-p1-a3-q1	4	scholion		crossref	anaphor->relative	loc. cit.			dangling	yes	supra d. 20. a. 5.
 bon-sent-IV-d21-p1-a3-q1	4	scholion		crossref	relative	infra d. 45. q. 1.	bon-sent-IV-d45-a1-q1+bon-sent-IV-d45-a2-q1+bon-sent-IV-d45-a3-q1		ambiguous		
-bon-sent-IV-d21-p1-a3-q1	4	apparatus:1	1	crossref	page	tom. I. pag. 1, nota 8	bon-sent-I-d1-commentary+bon-sent-I-proem		page-multi		
-bon-sent-IV-d21-p1-a3-q1	4	apparatus:3	3	crossref	anaphor->page	loc. cit.	bon-sent-I-d1-commentary+bon-sent-I-proem		page-multi	yes	tom. I. pag. 1, nota 8
+bon-sent-IV-d21-p1-a3-q1	4	apparatus:1	1	crossref	page	tom. I. pag. 1, nota 8	bon-sent-I-proem		chunk		
+bon-sent-IV-d21-p1-a3-q1	4	apparatus:3	3	crossref	anaphor->page	loc. cit.	bon-sent-I-proem		chunk	yes	tom. I. pag. 1, nota 8
 bon-sent-IV-d21-p1-a3-q1	4	apparatus:9	9	crossref	relative	supra d. 20. p. II. dub. 3.	bon-sent-IV-d20-p2-dubia		chunk		
 bon-sent-IV-d21-p1-a3-q2	4	latin_body	1	scripture	body-ordinal	Ad Hebraeos undecimo	Hebr 11:39	B	verse		
 bon-sent-IV-d21-p1-a3-q2	4	latin_body	2	scripture	body-ordinal	Matthaei vigesimo quinto	Matth 25:33	B	verse		
@@ -17124,7 +17134,7 @@ bon-sent-IV-d43-a2-q1	4	apparatus:p896-6	p896-6	scripture	apparatus-explicit	Psa
 bon-sent-IV-d43-a2-q1	4	apparatus:p896-6	p896-6	scripture	apparatus-explicit	Rom. 8, 29	Rom 8:29	A	verse		
 bon-sent-IV-d43-a2-q1	4	apparatus:p896-7	p896-7	scripture	apparatus-explicit	Rom. 8, 29	Rom 8:29	A	verse		
 bon-sent-IV-d43-a2-q1	4	apparatus:p896-9	p896-9	crossref	relative	infra d. 48. a. 1. q. 2.	bon-sent-IV-d48-a1-q2		chunk		
-bon-sent-IV-d43-a2-q1	4	apparatus:p897-1	p897-1	crossref	page	tom. I. pag. 1, nota 8	bon-sent-I-d1-commentary+bon-sent-I-proem		page-multi		
+bon-sent-IV-d43-a2-q1	4	apparatus:p897-1	p897-1	crossref	page	tom. I. pag. 1, nota 8	bon-sent-I-proem		chunk		
 bon-sent-IV-d43-a2-q1	4	apparatus:p897-5	p897-5	scripture	apparatus-explicit	Ioan. 1, 4	Ioan 1:4	A	verse		
 bon-sent-IV-d43-a2-q1	4	apparatus:p897-5	p897-5	crossref	logical	I. Sent. d. 36. a. 2. q. 1.	bon-sent-I-d36-a2-q1		chunk		
 bon-sent-IV-d43-a2-q2	4	latin_body	p898-2	scripture	body-ordinal	Lucae decimo	Luc 10:20	B	verse		
