@@ -1,6 +1,50 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — `bon-sent-II-proem` (pp. 3–6), THEN `-littera`, THEN `-capitula` (both on pp. 7–10).
+> # ▶▶▶ START HERE — `bon-sent-II-littera` (p. 7), THEN `bon-sent-II-capitula` (pp. 7–10). Then Book IV.
+>
+> ## ✅ `bon-sent-II-proem` IS TIER 2 (commit `7662891`) — pp. 3–6, 36 entries, zero `[?]`
+> Build **2047 → 2048**; corpus QA flags **223 → 218** (it resolved five references that had been
+> pointing into printed pp. 3–6 of Vol II with nowhere to land — the third time a front-matter chunk
+> has done that). It contributes 33 records, zero dangling, zero QA lines.
+> **★★ p. 6's FOOTER CARRIES AN UNNUMBERED EDITORIAL `NOTA` AND THE SCHEMA HAS NOWHERE TO PUT IT.**
+> It is set in the footer register (so: apparatus, not body) but carries **no anchor anywhere**, and
+> an apparatus def without an anchor breaks marker pairing. It is transcribed **and translated** in
+> that chunk's `## Notes`, and inventing an anchor was refused as a silent emendation. ⬜ **Live
+> schema question — the unanchored editorial note is a recurring class** (Vol V's *Additamentum*).
+> If more turn up, give the parser an explicit slot rather than deciding per chunk.
+> **★ p. 6 n. 6 EXPLAINS THE NEXT CHUNK'S EXISTENCE:** the codices run straight on from the proemium
+> into the *divisio textus,* and Quaracchi, with the Vatican edition, **interjected the Master's
+> text** — which is exactly what `bon-sent-II-littera` is. The boundary is the edition's own.
+>
+> ## What is left in Book II, and what the plates already show
+> - **`bon-sent-II-littera`** — p. 7: the display heading `LIBER SECUNDUS SENTENTIARUM` with its
+>   subtitle *DE RERUM CREATIONE ET FORMATIONE CORPORALIUM ET SPIRITUALIUM ET ALIIS PLURIBUS EO
+>   PERTINENTIBUS,* then Lombard's transition sentence (*Quae ad mysterium divinae Unitatis atque
+>   Trinitatis… nunc ad considerationem creaturarum transeamus*). Follow `bon-sent-III-littera`.
+> - **`bon-sent-II-capitula`** — pp. 7–10: `INCIPIUNT CAPITULA SECUNDI LIBRI`, the chapter list for
+>   all 44 distinctions, set in two columns. **✅ THE FROZEN TEST IS ALREADY SATISFIED: p. 7's table
+>   carries apparatus ON the table** (two notes, on the transmission of the list itself), so it is
+>   transmitted text and is chunked, exactly as Book III's was. Do not re-decide it.
+> - ⚠ **p. 7's footer splits between the two** — read the anchors, and expect the littera to own only
+>   what answers to its own few lines.
+> - **Plates pp. 1–10 are on disk**; pp. 8–10 have not been profiled or read yet.
+>
+> ## ★★ VOL II GUTTERS — MEASURED, AND THE VOLUME DEFAULT IS WRONG ON EVERY FRONT-MATTER LEAF
+> **p. 1 = 1512 · p. 2 = 1769 · p. 3 = 1538 · p. 4 = 1804 · p. 5 = 1544 · p. 6 = 1800**, against
+> CLAUDE.md's `1660`. They alternate recto/verso — **and that is a description of six leaves, not a
+> rule to predict from**; Vol V's parity model was retired for exactly that mistake. ⚠ **Vol II has
+> no printed centre rule** (peak ink 6–22 against Vol V's 170–700), so the ink-island check that
+> validates a Vol V measurement is unavailable: the band edges are the whole signal.
+> ⚠ `colcrop vol2 <p> auto` fails outright on a display-heading leaf (506 px run on p. 1).
+>
+> ## Register frozen across the Book II front matter — reuse it
+> *habitudo* → **"respect"** against *relatio* → "relation" (Vol I d. 28's settlement; the
+> Itinerarium's *habitudo* → "relation" CANNOT stand where both are live) · *innascibilis /
+> innascibilitas* → "unbegotten / unbegottenness" · *diiudicare* → **"to adjudge"** (Itinerarium c2,
+> so that *iudicare* keeps "judge" — both families are live in the proemium) · *conditio* →
+> **"making"** against *deviatio* → "deviation" · *obliquatio* → "crookedness" · *transumtive* → "by
+> transumption" · ⚠ *rectus / rector / rex* is a play English cannot carry; it is **recorded as a
+> loss**, not patched with a coinage.
 >
 > ## ✅ `bon-sent-II-praelocutio` IS TIER 2 (commit `567fe42`) — pp. 1–3, 18 entries, zero `[?]`
 > **★★ BOOK II's GAP IS FOUR UNITS, NOT THREE.** The plate prints TWO display-headed works before
