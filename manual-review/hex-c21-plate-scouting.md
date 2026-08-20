@@ -49,3 +49,16 @@ Block: nn. 1–4 L, nn. 5–7 R. Anchors: nn. 1–4 L (¶¶ 3, 4, 5, 6), nn. 5�
 - n. 5 `Cap. 8, 2.` — `ad Romanos ⁵` (¶ 6, right column)
 - n. 6 `Matth. 5, 17.` — `dicit Dominus ⁶` (¶ 7)
 - n. 7 `Exod. 20, 3. seqq.; ibid. v. 7. et 8. duo seqq. praecepta; v. 12-17. alia praecepta, quae inferius allegantur. Cfr. III. Sent. d. 37. a. 2. q. 1, ubi plura hic dicta tanguntur.` — `primum praeceptum ⁷` (¶ 8)
+
+### p. 433 — 8 entries, nn. 1–8
+Block: nn. 1–4 L, nn. 5–8 R. Anchors: nn. 1–4 L (¶¶ 9, 9, 10, 11), nn. 5–8 R (¶¶ 12, 14, 14, 15).
+**They coincide.** ★ The left block closes with the signature line `S. Bonav. — Tom. V.`; the
+right block's foot carries the sheet signature `55`.
+- n. 1 `Eph. 4, 28. Vulgata post manibus suis addit quod bonum est.` — `Apostolus ¹` (¶ 9)
+- n. 2 `Eph. 4, 25. — Sententia Augustini inferius posita habetur in libro de Spiritu et lit. c. 4. n. 6; verbotenus occurrit in Glossa ordinaria Rom. 7, 7. Cfr. tom. II. pag. 528, nota 4. et pag. 724, nota 2. Subinde allegatur I. Tim. 6, 10: Radix enim omnium malorum est cupiditas.` — `cum proximo suo ²` (¶ 9)
+- n. 3 `Epist. I. Tim. 1, 5: Finis autem praecepti est caritas etc. — Seq. locus est Tit. 2, 12. — De amore privato cfr. August., XI. de Gen. ad lit. c. 15. n. 19. seq. — Inferius verbo stat subiunge: in citato loco Apostoli. Non eget igitur circumlocutione; secus est de aliis duobus, scil. sobrie et iuste. Pro stat Vat. scilicet benigne.` — `omnium praeceptorum ³` (¶ 10)
+- n. 4 `Vide supra pag. 214, nota 9. — De seq. propositione cfr. Breviloq. p. VII. c. 7.` — `Hilarii ⁴` (¶ 11)
+- n. 5 `Col. 1, 18. — Inferius post tertium Spiritui sancto E prosequitur: licet se circumincedant. Nam Pater est in se summa celsitudine pollens, … Habemus monarcham etc. — Superius de primis luminibus vide supra n. 2.` — `in omnibus primatum tenens ⁵` (¶ 12)
+- n. 6 `Cfr. supra pag. 206, nota 8.` — `authenticus ⁶` (¶ 14)
+- n. 7 `Infra n. 19. seqq.` — `ut patebit ⁷` (¶ 14)
+- n. 8 `E addit et sic in hac monarchia perfectus monarcha noster est quasi sol.` — `in se ipso ⁸` (¶ 15)
