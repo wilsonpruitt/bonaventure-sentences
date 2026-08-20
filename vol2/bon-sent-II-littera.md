@@ -79,8 +79,21 @@ and translated, exactly as Book III's was. Do not re-decide it.
 capitula table below it. ⚠ p. 7 is a **stacked-region leaf** — display matter, then a two-column
 table, then the register — and the whole-body profile confirms it: `gutter-profile.py 7 0.10 0.80`
 returns a 117 px "band" with a 110 px ink island, which is the window straddling regions, and
-`colcrop vol2 7 auto` returns a **606 px** run. Profiled over the table's own rows (0.30–0.85) the
-answer is **1715**, which is what `bon-sent-II-capitula` should use.
+`colcrop vol2 7 auto` returns a **606 px** run.
+
+**★★★ AND THE WINDOW CONSENSUS OVER THE TABLE'S OWN ROWS IS WRONG — IT AGREES WITH ITSELF PERFECTLY
+AND SITS INSIDE THE RIGHT COLUMN.** `gutter-profile.py 7 0.38 0.86` returns **1715 with a spread of
+0 px across every window** — the shape the frozen method treats as the tell that an answer is real.
+It is not: cropping at 1715 truncates the left column. The **direct per-column ink profile over the
+table rows** shows text ending at ~1460, a blank band, a short ink spike at **1560–1580** (the
+printed divider rule between the two columns), another blank, and the right column beginning at
+~1640. **The true split is ~1560**, verified by cropping and looking. That is what
+`bon-sent-II-capitula` must use, and it is **155 px from the value fifteen agreeing windows gave.**
+⚠ **Why the windows fail here and not on a body leaf:** a chapter list is *ragged* — most entries are
+short, so the left column's own white space forms wide low-ink runs that the measurement mistakes for
+the gutter. **On a table leaf, take the divider rule from the direct profile and confirm by eye; a
+tight window spread proves nothing.** Vol II's body leaves have no printed rule at all, but its
+capitula tables do — on a table, the rule *is* the gutter.
 
 **⛔ THE THREE GUARD-RAIL AUDITS CANNOT SEE THIS CHUNK** (they select on `bon-sent-II-d(\d+)-`) and
 will print CLEAN on 0 chunks audited. Verified instead by: eyes-on 450 dpi bands for the display
