@@ -747,8 +747,8 @@ bon-sent-I-d25-littera	1	apparatus:3	3	crossref	page	pag. 402, nota 1	bon-sent-I
 bon-sent-I-d25-littera	1	apparatus:9	9	crossref	anaphor->page	ibid.	bon-sent-I-d23-littera		chunk	yes	pag. 402, nota 1
 bon-sent-I-d25-littera	1	apparatus:16	16	scripture	apparatus-explicit	Ioan. 10, 30	Ioan 10:30	A	verse		
 bon-sent-I-d25-littera	1	apparatus:17	17	scripture	apparatus-explicit	I. Ioan. 5, 7	1Ioan 5:7	A	verse		
-bon-sent-I-d25-littera	1	apparatus:17	17	crossref	page	supra pag. 19, nota 3			dangling		
-bon-sent-I-d25-littera	1	apparatus:18	18	crossref	anaphor->page	ibid.			dangling	yes	supra pag. 19, nota 3
+bon-sent-I-d25-littera	1	apparatus:17	17	crossref	page	supra pag. 19, nota 3	bon-sent-I-capitula		chunk		
+bon-sent-I-d25-littera	1	apparatus:18	18	crossref	anaphor->page	ibid.	bon-sent-I-capitula		chunk	yes	supra pag. 19, nota 3
 bon-sent-I-d26-a1-q1	1	scholion		crossref	relative	infra d. 33. q. 1.	bon-sent-I-d33-a1-q1		chunk		
 bon-sent-I-d26-a1-q1	1	scholion		crossref	chain-continuation	d. 33. q. 1.	bon-sent-I-d33-a1-q1		chunk		
 bon-sent-I-d26-a1-q1	1	scholion		crossref	page	supra pag. 105, nota 3	bon-sent-I-d4-dubia		chunk		
