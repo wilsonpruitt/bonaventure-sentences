@@ -1,5 +1,85 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **`bon-hex-c21`** (Collationes in Hexaëmeron, Collatio XXI). **BOOK I's FRONT MATTER IS DONE AND THE PARK IS LIFTED.** The Hexaemeron resumes exactly where it was parked; Collationes I–XX are Tier 2 (pp. 329–431), and the work runs c21–c23 + the work-level Scholion to ~p. 454.
+>
+> ## ✅ WILSON'S 2026-08-20 RULING IS **DISCHARGED** — ALL FOUR SENTENCES PROEMIA ARE TIER 2, BOOK I INCLUDED
+> Books II, III, IV ✅ · **Book I's family — all EIGHT units — ✅** (`-proem`, `-proem-q1`…`-proem-q4`,
+> `-littera`, `-capitula`, **`-prol-comm` closed 2026-08-20**). Remaining queue to the next deploy:
+> **Hexaemeron c21–c23 + Scholion → work-close gate → deploy.**
+>
+> ## ✅ `bon-sent-I-prol-comm` IS TIER 2 — pp. 22–25, 41 apparatus entries, zero inline `[?]` (2026-08-20)
+> p. 22 nn. 1–6 of the **second** register (NOTAE AD COMMENTARIUM, inherited from `-capitula`) · p. 23
+> nn. 1–12 · p. 24 nn. 1–13 · p. 25 nn. 1–10. Build **2060 → 2061**, all translated; marker pairing
+> **41 / 41 / 41 in identical order**; structural parity 16 headings each side; `polish-style-scan`
+> unchanged at the same **10 PAIR issues across 5 chunks, all pre-existing**. Commit `eb80621`.
+> ⚠ Nothing pushed; push and deploy are protected.
+>
+> ## ★★ THE DISAPPEARING-FLAG CHECK WAS RUN AND CLOSED **CLEAN** — the discipline works
+> `build-citations.py` QA flags **201 → 200**: **one added** (this chunk's own p. 24 n. 2, below) and
+> **TWO retired** — `bon-sent-I-d47-a1-q3` `[^6]` and `bon-sent-IV-d14-p1-a1-q1` `[^1b]`, both
+> `pag. 23, nota 9`. **Both were verified against their own anchors before being accepted**: each
+> anchors on *zeal* (`zelus… obviat peccato`; `ira per zelum est habitus`), and p. 23 n. 9 is the
+> Glossa on good zeal. Two independent citations landing on one note, each matching its anchor's
+> subject. **This is what the check is supposed to look like when it passes — contrast the capitula's
+> `pag. 19, nota 3`, which resolved cleanly and WRONGLY.**
+>
+> ## ⚠ TWO PLATE DEFECTS TRANSCRIBED AS PRINTED, NEITHER EMENDED, NEITHER GIVEN AN INLINE `[?]`
+> 1. **p. 23 n. 11 `Vers, 18`** — read at 6×, the digits are certain. But the note's content
+>    (*ubi Vulgata post* sunt *addit* autem) is **Gal. 5, 19**, which is also what the body quotes.
+>    **No QA flag is possible here** — 18 is a real verse, so the index cannot see it. Only a reader
+>    with the Vulgate in view catches this class.
+> 2. **p. 24 n. 2 `infra d. 18. p. I. a. 1. q. 3.`** — read at 7×, unambiguously `18`. **Book I's
+>    d. 18 has no pars at all**, so the citation is jointly impossible (the `Col. 6, 12` species).
+>    True target almost certainly **`bon-sent-I-d17-p1-a1-q3`**, *Utrum caritas certitudinaliter
+>    cognosci possit ab habente* — exactly the *sententia* the note says the Doctor expounds more
+>    fully. **`build-citations.py` flags it; LEAVE THE FLAG STANDING.**
+>
+> ## ★ `commentary` WAS ADMITTED TO `SENTENCES_FRONT_TYPES`; `divisio` AND `dubia` WERE **NOT** — DELIBERATELY
+> The prior resume predicted this unit would need `divisio` + `dubia`. **The plate overruled it**: one
+> full-measure display heading, `COMMENTARIUS IN PROLOGUM MAGISTRI`, under which three divisiones and
+> nine dubia alternate — one printed unit, and typing it as either half misnames three quarters of it.
+> The corpus already had a `commentary` type, so only that was added, titled **"Prologus,
+> Commentarius"**. No `distinctio: 0` chunk anywhere declares `divisio` or `dubia`; admitting unused
+> types would widen a guard whose whole job is to keep editors' front matter out.
+> ★ **The trap is unchanged and still live: `chunkMeta.type` defaults to `"quaestio"` when a file
+> declares none, and `vol1/bon-sent-I-proleg.md` declares none. The guard tests `declaredType`, the
+> raw frontmatter value. Do not collapse `declaredType` back into `type`.**
+>
+> ## ✅ CLOSED, NO LONGER FORWARDED: `bon-sent-I-d1-commentary` WAS MIS-PAGED AND IS FIXED
+> p. 29 was extracted and read. The running head `DISTINCTIO I.` and the folio `29` stand at the top
+> of the leaf; below them the display heading `COMMENTARIUS IN DISTINCTIONEM I.`, its subtitle and the
+> *Veteris ac novae Legis continentiam* incipit, immediately above `bon-sent-I-d1-divisio`'s
+> `DIVISIO TEXTUS` **on the same leaf**. `printed_pages [1] → [29]`, `pdf_pages [103] → [131]`, both
+> page markers with them. Its `## Apparatus` placeholder was wrong too — it called the preceding
+> footer block the prologue's *ultima pars*; it is **p. 28's**, and belongs to `bon-sent-I-d1-littera`.
+> Backup `_backup-d1-commentary-pre-repage-20260820/`. **Printed p. 1 is now unowned, which is right.**
+>
+> ## ★ GUTTERS BANKED FOR pp. 22–25 (measured per REGION, not per page)
+> p. 22 **Commentarius body 1051** (band 1028–1075, rule 1050–1056) — **not** the 1060 the capitula
+> measured over the *table* rows on the same leaf · p. 23 **952** · p. 24 **1062** (take the 0.20–0.45
+> window; the whole-body window's ink island blows out on the two in-column headings) · p. 25 **939**,
+> on a real **7 px head-to-foot walk** (935 upper / 942 lower). ⚠ `gutter-profile --skew` is useless on
+> p. 25 and reports a spurious **355 px** drift — its thin slices land on headings and on the blank
+> lower half. That is the stacked-region false positive the tool itself warns about; believe the warning.
+>
+> ## ⚠ STILL OWED BEFORE/WITH THE NEXT DEPLOY
+> 1. **The `Dictae salutis` fix is still NOT LIVE** (`bon-hex-c8`, p. 372 n. 1).
+> 2. The About page's **"What Is Known to Be Wrong"** — Wilson's to frame.
+> 3. **`bon-sent-I-d25-littera` `[^17]`'s `pag. 19` → almost certainly `pag. 49`** (the `1`/`4` class).
+>    d.25's plate has still not been opened; `49` needs its `nota 3` confirmed against p. 49's register.
+>    ⚠ It now resolves cleanly and wrongly, and will render as a *Cited by* card on the capitula page.
+> 4. **Forwarded defect, still nobody's fix:** Quaracchi cite `IV. Sent. d. 2. p. I.` (three chunks do)
+>    but the corpus's Book IV d. 2 has no pars chunks. Hand it to whoever works Book IV's body.
+> 5. **New:** `bon-sent-I-prol-comm` p. 24 n. 2's `d. 18. p. I.` — see above. Leave the flag; do not emend.
+>
+> ## Corpus state (verified in-session 2026-08-20)
+> `build-content.mjs` **2061/2061, 8 books** · `build-citations.py` QA flags **200** ·
+> `polish-style-scan` **10 PAIR issues / 5 chunks, all pre-existing.**
+> ⚠ Nothing pushed; push and deploy are protected.
+
+---
+
+
 > # ▶▶▶ START HERE — **`bon-sent-I-prol-comm`** (COMMENTARIUS IN PROLOGUM MAGISTRI), whose full-measure display heading stands in the **middle of p. 22**, directly beneath the last entries of the capitula table, raw L12255, and which runs to **p. 25**. It is the **LAST unit of Book I's front matter** and the last thing standing between the corpus and the Hexaemeron.
 >
 > ## ⛔⛔ THE ORDER — WILSON'S RULING, 2026-08-20. UNCHANGED.
