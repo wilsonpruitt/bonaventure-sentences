@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { loadAllContent } from "@/lib/content";
 import { Illumination, CrossDivider } from "@/components/decorations";
-import { DistinctionContent, romanize } from "@/components/distinction-content";
+import { DistinctionContent, divisionHeading } from "@/components/distinction-content";
 
 export function generateStaticParams() {
   const books = loadAllContent();
@@ -56,7 +56,7 @@ export default async function BookPage({
                   &rsaquo;
                 </span>
                 <span className="distinction-summary-heading">
-                  {book.divisionLabel ? dist.title : `Distinction ${romanize(dist.id)}`}
+                  {divisionHeading(book, dist)}
                 </span>
                 <span className="distinction-summary-meta">
                   {dist.questions.length} question

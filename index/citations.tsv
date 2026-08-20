@@ -7184,7 +7184,7 @@ bon-sent-III-d1-a2-q4	3	apparatus:6	6	crossref	work	Breviloq.	work:breviloquium	
 bon-sent-III-d1-a2-q4	3	apparatus:6	6	crossref	work	Itiner.	work:itinerarium		work		
 bon-sent-III-d1-a2-q4	3	apparatus:7	7	scripture	apparatus-explicit	Iob 12, 12	Iob 12:12	A	verse		
 bon-sent-III-d1-a2-q4	3	apparatus:7	7	scripture	apparatus-explicit	Sap. 9, 10	Sap 9:10	A	verse		
-bon-sent-III-d1-divisio	3	apparatus:1	1	crossref	page	pag. 2			dangling		
+bon-sent-III-d1-divisio	3	apparatus:1	1	crossref	page	pag. 2	bon-sent-III-proem		chunk		
 bon-sent-III-d1-dubia	3	latin_body	2	scripture	body-ordinal	ad Corinthios decimo tertio	Cor* 13:9	B	verse		
 bon-sent-III-d1-dubia	3	latin_body	3	scripture	body-ordinal	Matthaei decimo tertio	Matth 13:47	B	verse		
 bon-sent-III-d1-dubia	3	latin_body	4	scripture	body-ordinal	ad Galatas quarto	Gal 4:4	B	verse		
@@ -9164,8 +9164,8 @@ bon-sent-III-d25-a1-q1	3	latin_body	p536-1	scripture	body-ordinal	Iosue quarto	I
 bon-sent-III-d25-a1-q1	3	scholion		crossref	relative	supra d. 24. a. 3. q. 1.	bon-sent-III-d24-a3-q1		chunk		
 bon-sent-III-d25-a1-q1	3	scholion		crossref	anaphor->relative	loc. cit.	bon-sent-III-d24-a3-q1		chunk	yes	supra d. 24. a. 3. q. 1.
 bon-sent-III-d25-a1-q1	3	scholion		crossref	work	Breviloq. p. V. c. 7.	bon-brev-p5-c7		chunk		
-bon-sent-III-d25-a1-q1	3	scholion		crossref	page	pag. 1			dangling		
-bon-sent-III-d25-a1-q1	3	scholion		crossref	anaphor->page	loc. cit.			dangling	yes	pag. 1
+bon-sent-III-d25-a1-q1	3	scholion		crossref	page	pag. 1	bon-sent-III-proem		chunk		
+bon-sent-III-d25-a1-q1	3	scholion		crossref	anaphor->page	loc. cit.	bon-sent-III-proem		chunk	yes	pag. 1
 bon-sent-III-d25-a1-q1	3	scholion		authority	authority:Albert.	III. Sent. d. 24. a. 6.			excluded		
 bon-sent-III-d25-a1-q1	3	apparatus:p534-2	p534-2	crossref	relative	supra d. 24. a. 1. q. 2.	bon-sent-III-d24-a1-q2		chunk		
 bon-sent-III-d25-a1-q1	3	apparatus:p534-3	p534-3	crossref	relative	supra d. 14. a. 1. q. 3.	bon-sent-III-d14-a1-q3		chunk		
@@ -12079,6 +12079,16 @@ bon-sent-III-d9-dubia	3	apparatus:p222-9	p222-9	crossref	page	tom. II. pag. 639,
 bon-sent-III-d9-dubia	3	apparatus:p222-10	p222-10	crossref	anaphor->page	loc. cit.	bon-sent-II-d26-a1-q3+bon-sent-II-d26-a1-q4		page-multi	yes	tom. II. pag. 639, nota 2
 bon-sent-III-d9-littera	3	apparatus:6	6	scripture	apparatus-explicit	Ioan. 14, 1	Ioan 14:1	A	verse		
 bon-sent-III-d9-littera	3	apparatus:6	6	scripture	apparatus-explicit	Rom. 1, 25	Rom 1:25	A	verse		
+bon-sent-III-proem	3	latin_body	p1-3	scripture	body-ordinal	Ioannis tertio	Ioan 3:16	B	verse		
+bon-sent-III-proem	3	latin_body	p1-5	scripture	body-ordinal	ad Romanos quinto	Rom 5:12	B	verse		
+bon-sent-III-proem	3	latin_body	p1-7	scripture	body-ordinal	ad Colossenses primo	Col 1:19	B	verse		
+bon-sent-III-proem	3	latin_body	p1-8	scripture	body-ordinal	ad Titum tertio	Tit 3:5	B	verse		
+bon-sent-III-proem	3	latin_body	p2-1	scripture	body-ordinal	Ioannis quinto	Ioan 5:26	B	verse		
+bon-sent-III-proem	3	latin_body	p2-3	scripture	body-ordinal	Petri tertio	Petr* 3:18	B	verse		
+bon-sent-III-proem	3	latin_body	p2-5	scripture	body-ordinal	ad Philippenses secundo	Phil 2:7	B	verse		
+bon-sent-III-proem	3	apparatus:p1-6	p1-6	crossref	logical	II. Sent. d. 21. a. 3. q. 2.	bon-sent-II-d21-a3-q2		chunk		
+bon-sent-III-proem	3	apparatus:p2-2	p2-2	scripture	apparatus-explicit	Baruch 3, 38	Baruch 3:38	A	verse		
+bon-sent-III-proem	3	apparatus:p2-4	p2-4	scripture	apparatus-explicit	Psalm. 15, 10	Ps 15:10	A	verse		
 bon-sent-IV-d1-p1-a1-q1	4	scholion		crossref	work	Breviloq. p. VI. c. 1.	bon-brev-p6-c1		chunk		
 bon-sent-IV-d1-p1-a1-q1	4	scholion		crossref	work	Breviloq.	work:breviloquium		work		
 bon-sent-IV-d1-p1-a1-q1	4	scholion		crossref	anaphor->work	loc. cit.	work:breviloquium		work	yes	Breviloq.

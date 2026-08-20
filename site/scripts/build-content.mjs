@@ -120,7 +120,23 @@ function parseTranslationFile(content) {
   };
 }
 
+// Front-matter chunk types for the Sentences books (vol1–4). These sit BEFORE
+// Distinction I and so carry `distinctio: 0`, which the prolegomena skip below
+// would otherwise drop — the mechanism that kept all four books' Proemia out of
+// the corpus until 2026-08-19. Keep this set tight: the skip is what stops
+// vol1/bon-sent-I-proleg.md (a bare 77k-word OCR dump with no `type:`) from
+// publishing itself, so only named, deliberately-built types are exempted.
+const SENTENCES_FRONT_TYPES = new Set(["proemium", "capitula", "littera"]);
+const isSentencesFront = (meta) =>
+  meta.distinctio === 0 && SENTENCES_FRONT_TYPES.has(meta.type);
+
 function buildQuestionTitle(meta) {
+  // Front matter names itself — there is no "Dist. 0" to breadcrumb against.
+  if (isSentencesFront(meta)) {
+    if (meta.type === "proemium") return "Proemium";
+    if (meta.type === "capitula") return "Capitula";
+    return "Textus Magistri";
+  }
   const parts = [`Dist. ${meta.distinctio}`];
   if (meta.pars !== undefined) parts.push(`Part ${meta.pars}`);
   if (meta.articulus) parts.push(`Art. ${meta.articulus}`);
@@ -364,8 +380,10 @@ for (const { file, dir } of latinFiles) {
   };
 
   // Skip prolegomena (distinctio 0) — Sentences volumes only; work chunks
-  // legitimately use division 0 for a prologue.
-  if (!work && chunkMeta.distinctio === 0) continue;
+  // legitimately use division 0 for a prologue, and so do the Sentences books'
+  // own front-matter chunks (Proemium / Textus Magistri / Capitula), which are
+  // exempted by type. Anything else at distinctio 0 is editors' front matter.
+  if (!work && chunkMeta.distinctio === 0 && !isSentencesFront(chunkMeta)) continue;
 
   chunks.push({
     id: chunkMeta.id,
@@ -409,6 +427,10 @@ for (const [bookId, distMap] of [...bookMap.entries()].sort((a, b) => a[0] - b[0
     // sort by pars → articulus → quaestio. This keeps dubia (which have no
     // articulus) from colliding with articulus=0 placeholders.
     const typeOrder = (q) => {
+      // Front matter prints in this order: Bonaventure's Proemium, then the
+      // Master's own opening, then his Capitula. Only the proemium needs a rank
+      // of its own — littera and capitula already fall in printed order below.
+      if (q.type === "proemium") return -1;
       if (q.type === "littera-magistri" || q.type === "littera") return 0;
       if (q.type === "divisio") return 1;
       if (q.type === "dubia") return 3;
@@ -432,9 +454,17 @@ for (const [bookId, distMap] of [...bookMap.entries()].sort((a, b) => a[0] - b[0
 
     // A division's work registry entry (all chunks in a division share one work)
     const work = questions[0]?.workSlug ? WORKS[questions[0].workSlug] : undefined;
+    // Division 0 of a Sentences book is its front matter. Quaracchi's own
+    // citation idiom for it is "Prooemii" (the vol I prolegomena cite the
+    // prooemial questions as `I. Sent. q. 4. Prooemii`), so the group takes the
+    // edition's name rather than a "Distinction 0" that appears nowhere in
+    // print. The chunk titles inside it disambiguate Proemium vs Textus
+    // Magistri vs Capitula.
     const divTitle = work
       ? (work.divisions[distId] ?? `${work.divisionLabel.replace(/s$/, "")} ${distId}`)
-      : `Distinction ${distId}`;
+      : distId === 0
+        ? "Proemium"
+        : `Distinction ${distId}`;
 
     // Strip grouping fields from output
     const cleaned = questions.map(({ book, distinctio, workSlug, ...rest }) => rest);

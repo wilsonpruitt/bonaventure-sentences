@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { loadAllContent } from "@/lib/content";
-import { DistinctionContent, romanize } from "@/components/distinction-content";
+import { DistinctionContent, divisionHeading } from "@/components/distinction-content";
 
 export function generateStaticParams() {
   const books = loadAllContent();
@@ -33,7 +33,7 @@ export default async function DistinctionPage({
 
       <header className="dist-header">
         <h1 className="dist-page-title">
-          {book.divisionLabel ? dist.title : `Distinction ${romanize(dist.id)}`}
+          {divisionHeading(book, dist)}
         </h1>
       </header>
 

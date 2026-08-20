@@ -1,5 +1,27 @@
 import Link from "next/link";
-import type { Question } from "@/lib/content";
+import type { Book, Distinction, Question } from "@/lib/content";
+
+/** Heading for one division of a book.
+ *
+ *  Vol V+ works name their own divisions ("Prologus", "Pars III: …"), and so
+ *  does a Sentences book's FRONT MATTER, which is division 0 — Bonaventure's
+ *  Proemium, the Master's opening, and his Capitula all print before
+ *  Distinction I and have no distinction number at all. Everything else is a
+ *  numbered distinction.
+ *
+ *  ⚠ Do not fold this back into `divisionLabel ? dist.title : …`: a Sentences
+ *  book has no `divisionLabel`, so that form discards `dist.title` and falls
+ *  through to `romanize(0)`, which returns the string "0" — rendering the
+ *  Proemium as "Distinction 0". Shared by the book page and the detail page so
+ *  the two cannot drift.
+ */
+export function divisionHeading(
+  book: Pick<Book, "divisionLabel">,
+  dist: Pick<Distinction, "id" | "title">,
+): string {
+  if (book.divisionLabel || dist.id === 0) return dist.title;
+  return `Distinction ${romanize(dist.id)}`;
+}
 
 // ----------------------------------------------------------------------------
 // Grouping: partition a distinction's questions into logical sections.
@@ -11,7 +33,7 @@ import type { Question } from "@/lib/content";
 
 type Section = {
   key: string;
-  kind: "littera" | "divisio" | "article" | "dubia";
+  kind: "proemium" | "capitula" | "littera" | "divisio" | "article" | "dubia";
   pars?: number;
   articulus?: number;
   questions: Question[];
@@ -22,7 +44,13 @@ function groupQuestions(questions: Question[]): Section[] {
   for (const q of questions) {
     let key: string;
     let kind: Section["kind"];
-    if (q.type === "littera-magistri" || q.type === "littera") {
+    if (q.type === "proemium") {
+      key = "proemium";
+      kind = "proemium";
+    } else if (q.type === "capitula") {
+      key = "capitula";
+      kind = "capitula";
+    } else if (q.type === "littera-magistri" || q.type === "littera") {
       key = "littera";
       kind = "littera";
     } else if (q.type === "divisio") {
@@ -52,6 +80,8 @@ function groupQuestions(questions: Question[]): Section[] {
 }
 
 function sectionHeading(section: Section): string {
+  if (section.kind === "proemium") return "Proemium";
+  if (section.kind === "capitula") return "Capitula";
   if (section.kind === "littera") return "Littera Magistri";
   if (section.kind === "divisio") return "Division of the Text";
   if (section.kind === "dubia") return "Dubia";
@@ -81,6 +111,7 @@ export function romanize(n: number): string {
 }
 
 function cardEyebrow(q: Question): string | null {
+  if (q.type === "proemium" || q.type === "capitula") return null;
   if (q.type === "littera-magistri" || q.type === "littera") return null;
   if (q.type === "dubia") return null;
   if (q.type === "divisio") return null;
@@ -90,6 +121,10 @@ function cardEyebrow(q: Question): string | null {
 }
 
 function cardTitle(q: Question): string {
+  // Front matter prefers its own English title (the Proemium's names its book);
+  // fall back to the type name.
+  if (q.type === "proemium") return q.titleEn || "Proemium";
+  if (q.type === "capitula") return q.titleEn || "Capitula";
   if (q.type === "littera-magistri" || q.type === "littera")
     return "Lombard's Text";
   if (q.type === "dubia") return "Dubia";
