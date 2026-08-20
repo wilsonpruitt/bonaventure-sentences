@@ -1,6 +1,32 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — `bon-sent-II-proem` (the *Praelocutio*), THEN `-littera`, THEN `-capitula`.
+> # ▶▶▶ START HERE — `bon-sent-II-proem` (pp. 3–6), THEN `-littera`, THEN `-capitula` (both on pp. 7–10).
+>
+> ## ✅ `bon-sent-II-praelocutio` IS TIER 2 (commit `567fe42`) — pp. 1–3, 18 entries, zero `[?]`
+> **★★ BOOK II's GAP IS FOUR UNITS, NOT THREE.** The plate prints TWO display-headed works before
+> the Master's text: the `PRAELOCUTIO` (pp. 1–3) and the `PROOEMIUM` (pp. 3–6). A new chunk type
+> **`praelocutio`** was added to `build-content.mjs` (typeOrder −2, ahead of `proemium`); ⛔ **Book II
+> only, do not generalize.** Build **2046 → 2047**; QA flags **225 → 223**.
+> **★★ HAND-OFF INTO `-proem`: p. 3's footer block holds nn. 1–4 and BREAKS INSIDE n. 4**, which
+> continues unnumbered in the right block. **n. 4 is anchored on the PROOEMIUM's own lemma**
+> (*…se infinitis immiscuit quaestionibus⁴*, Eccl. 7:30), so n. 4, its runover, and the rest of p. 3's
+> register are the proemium's. nn. 1–3 are the praelocutio's. ⚠ Re-derive it.
+> **★★ THE VOL II GUTTER CONSTANT IS WRONG IN THE FRONT MATTER — by up to 250 px.** Measured:
+> **p. 1 = 1512 · p. 2 = 1769 · p. 3 = 1538**, against CLAUDE.md's `1660`. At 1660 p. 1's right-column
+> crop silently drops the first character of every line (*est* → *st*). `colcrop vol2 1 auto` returns
+> 1724 on a **506 px** run — it fails outright on a display-heading leaf, and Vol II has no printed
+> centre rule to anchor the band. **Profile every leaf; pp. 4–6 and 7–10 are not measured yet.**
+> **★ REGISTER, already settled and reusable:** *habitudo* → **"respect"** against *relatio* →
+> "relation" (the Itinerarium's *habitudo* → "relation" CANNOT stand where both are live; Vol I
+> d. 28 a. 1 q. 2 settled it) · *innascibilis / innascibilitas* → "unbegotten / unbegottenness" ·
+> *ratio generandi* → "the ground of generating" · *status* → "stopping-place" · *transumtive* → "by
+> transumption".
+> **★ p. 7's capitula table CARRIES APPARATUS** (two notes on the table itself) → **the frozen test is
+> satisfied and `bon-sent-II-capitula` is chunked**, like Book III's.
+> **⚠ FORWARDED DEFECT, not this chunk's to fix:** Quaracchi cite `IV. Sent. d. 2. p. I.`, but the
+> corpus's Book IV d. 2 has **no pars chunks** (`IV-d2-a1-q1..q3`, `IV-d2-a2-q1..q3`) and the raw has
+> no `DIST. II. P. I.` running head. Two other Vol IV chunks cite the same shape. **A Book IV
+> chunking question — hand it to whoever next works that front.**
 >
 > ## ⛔⛔ THE ORDER CHANGED — WILSON'S RULING, 2026-08-20. READ THIS BEFORE THE POINTER.
 > **ALL FOUR SENTENCES PROEMIA MUST BE TIER 2 BEFORE THE NEXT DEPLOY — BOOK I INCLUDED.**
