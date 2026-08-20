@@ -1331,6 +1331,19 @@ Generalizes the standing "batch deploys" rule (global memory
 
 - `build-content.mjs` `extractLanguageBlock` terminates `## Latin` only on known sentinel headings (`## Latin|English|Apparatus|Notes|Scholion|---`), NOT on any `## ` subheading. This matters because some chunks have internal h2s like `## Commentarius in Distinctionem V`.
 - `text-reader.tsx` splits paragraphs by `\n{2,}` but a paragraph starting with `#### Heading` can have a subtitle on the next line (no blank between). The regex captures heading + trailing text and emits them as separate nodes.
+- **★★ AN UNNUMBERED EDITORIAL NOTE IS ANCHORED AS A *CLOSING NOTE*, AT THE END OF THE UNIT — NEVER
+  IN THE PROSE (frozen by Wilson 2026-08-20, at `bon-sent-II-proem`).** Quaracchi sometimes set an
+  unnumbered paragraph — `NOTA.`, an *Additamentum* — at the foot of a unit's last page, with **no
+  marker anywhere in the body**. It cannot simply be dropped (it is the edition's text), and it
+  cannot be defined without an anchor (an apparatus def with no matching anchor breaks marker
+  pairing in both languages). **The rule: anchor it after the final word of the body in both
+  languages, with a NON-NUMERIC label — `[^p<page>-nota]`.** `displayLabel()` strips the `p<page>-`
+  namespace, so the reader sees a marker reading *nota* and is never shown a footnote number the
+  page does not print. **The principle is headnote vs closing note:** a marker inside the prose
+  would assert *where* the note belongs, which the edition never said; a marker at the end asserts
+  only its *scope*, which is what an unnumbered note standing last already claims. ⚠ Do not
+  generalise this into anchoring unanchored matter wherever it seems to fit, and record in every
+  such chunk's `## Notes` that the anchor is the edition's silence, not its ink.
 - **`### Scholion` MUST be the LAST subsection of a `## Latin` / `## English` block — body first, scholion last.** `extractLanguageBlock` captures everything from `### Scholion` to the end of the block as the scholion, so if a chunk places the scholion ABOVE the body (e.g. because the source page prints the scholion at the top), the parser reads an EMPTY body → `hasTranslation: false` → chunk shows untranslated and the build's translated count silently stalls. Always order body-then-scholion regardless of the source's print layout. (Caught on d18-a1-q3, commit 57fe0f0; the translated count holding flat across two consecutive promotions is the tell.)
 
 ## Git & collaboration workflow

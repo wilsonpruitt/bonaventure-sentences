@@ -11,7 +11,7 @@ pdf_pages: [25, 26, 27, 28]
 source: "S. Bonaventurae, Opera Omnia, Tomus II (Quaracchi, 1885), pp. 3–6"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR (raw lines 831–1094), reflowed column-by-column and verified against 450 dpi PDF column bands of printed pp.3–6 (PDF 25–28), fresh literal English translation, full apparatus from the per-page footers (p.3 nn.4–6 inherited mid-entry from bon-sent-II-praelocutio, p.4 nn.1–13, p.5 nn.1–14, p.6 nn.1–6 — 36 entries owned), p.6's unnumbered editorial NOTA transcribed and translated in the Notes because it carries no anchor, gutters measured per leaf (1538 / 1804 / 1544 / 1800 against the volume default of 1660), no [?] flags (2026-08-20)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR (raw lines 831–1094), reflowed column-by-column and verified against 450 dpi PDF column bands of printed pp.3–6 (PDF 25–28), fresh literal English translation, full apparatus from the per-page footers (p.3 nn.4–6 inherited mid-entry from bon-sent-II-praelocutio, p.4 nn.1–13, p.5 nn.1–14, p.6 nn.1–6 — 36 entries owned), p.6's unnumbered editorial NOTA rendered as a closing note anchored at the end of the body in both languages ([^p6-nota], 37 entries in all), gutters measured per leaf (1538 / 1804 / 1544 / 1800 against the volume default of 1660), no [?] flags (2026-08-20)"
 format_version: 1
 ---
 
@@ -71,7 +71,7 @@ Unde *intelligentia,* avertendo se a summa veritate *ignara* effecta, infinitis 
 
 *Virtus* autem, discontinuando se a summa potestate facta *infirma,* immiscuit se infinitis quaestionibus per *instabilitatem,* unde semper quaerit quietem et non invenit. Unde Isaiae decimo nono[^p6-3]: *Dominus immiscuit in medio Aegypti spiritum vertiginis.* Iste est spiritus instabilitatis, pro eo quod nihil potest stabilire. Unde homo peccator est *sicut pulvis, quem proiicit ventus a facie terrae*[^p6-4]. Unde in Psalmo: *Avertente te faciem, turbabuntur, auferes spiritum* etc., et ideo erit *tanquam pulvis, quem proiicit ventus a facie terrae.* Sicut igitur pulvis non potest quiescere, quamdiu est ventus vertiginis, sic nec nostra virtus stabilis permanere; et ideo infinita loca quaerit et mutat, et mendicat suffragia[^p6-5].
 
-Immiscuit igitur se homo infinitis quaestionibus per *curiositatem,* dum cecidit a veritate in ignorantiam; *per cupiditatem,* dum cecidit a bonitate in malitiam; per *instabilitatem,* dum cecidit a potestate in impotentiam. Sic igitur in verbo proposito notatur hominis *conditio* et eius *deviatio;* et hoc solum invenio determinatum in hoc libro. Unde liber iste secundus[^p6-6] etc.
+Immiscuit igitur se homo infinitis quaestionibus per *curiositatem,* dum cecidit a veritate in ignorantiam; *per cupiditatem,* dum cecidit a bonitate in malitiam; per *instabilitatem,* dum cecidit a potestate in impotentiam. Sic igitur in verbo proposito notatur hominis *conditio* et eius *deviatio;* et hoc solum invenio determinatum in hoc libro. Unde liber iste secundus[^p6-6] etc.[^p6-nota]
 
 ---
 
@@ -122,7 +122,7 @@ The *will,* falling out with the highest goodness and made *needy,* entangled it
 
 But his *power,* breaking off its continuity with the highest power and made *infirm,* entangled itself with an infinity of questions through *instability,* whence it always seeks rest and does not find it. Whence in Isaiah the nineteenth[^p6-3]: *The Lord hath mingled in the midst of Egypt the spirit of giddiness.* This is the spirit of instability, in that it can make nothing stable. Whence sinful man is *like the dust which the wind driveth from the face of the earth*[^p6-4]. Whence in the Psalm: *When thou turnest away thy face, they shall be troubled; thou shalt take away their breath* and so on, and therefore he shall be *like the dust which the wind driveth from the face of the earth.* As, therefore, the dust cannot rest so long as the wind of giddiness lasts, so neither can our power remain stable; and therefore it seeks and changes an infinity of places, and begs for supports[^p6-5].
 
-Man, therefore, entangled himself with an infinity of questions through *curiosity,* when he fell from truth into ignorance; *through cupidity,* when he fell from goodness into malice; through *instability,* when he fell from power into impotence. So, then, in the word set before us there is noted man's *making* and his *deviation;* and this alone do I find determined in this book. Whence this second book[^p6-6] and so on.
+Man, therefore, entangled himself with an infinity of questions through *curiosity,* when he fell from truth into ignorance; *through cupidity,* when he fell from goodness into malice; through *instability,* when he fell from power into impotence. So, then, in the word set before us there is noted man's *making* and his *deviation;* and this alone do I find determined in this book. Whence this second book[^p6-6] and so on.[^p6-nota]
 
 ---
 
@@ -272,6 +272,10 @@ Man, therefore, entangled himself with an infinity of questions through *curiosi
 
     **En.** The codices here continue the proposition and begin the *division of the text,* as below on p. 13, col. 2, note 1. But we, with the Vatican edition, had to interject the Master's text.
 
+[^p6-nota]: **La.** NOTA. Quicumque attenta mente meditabitur hoc prooemium, non satis admirari poterit doctrinam uberrimam et vere seraphicam, quam S. Doctor ex brevi s. Scripturae sententia elicuit, atque mirabilem artem, qua verbis paucis, sed gravissimis argumenta pro integro libro conficiendo praebuit. Quam dilucide ante oculos proponit miserum statum animae a Deo aversae et ad transitoria incurvatae! Quem vere et efficaciter exprimit imaginem horrendam praesentis societatis humanae, quatenus per apostasiam est aliena a Christo!
+
+    **En.** NOTE. Whoever shall meditate this proemium with an attentive mind will not be able to admire enough the most abundant and truly seraphic doctrine which the holy Doctor drew out of a brief sentence of holy Scripture, and the wonderful art by which, in few but weightiest words, he furnished the arguments for making a whole book. How clearly he sets before our eyes the wretched state of a soul turned away from God and bent down towards transitory things! How truly and effectively he expresses the dreadful image of present human society, in so far as through apostasy it is estranged from Christ!
+
 ---
 
 ## Notes
@@ -312,33 +316,24 @@ re-derived on the band, not adopted** — the predecessor's hand-off named the o
 **Runovers — three gutter-crossing, zero page-crossing:** p. 3 n. 4 (inherited joined, and logged
 here for the first time — the Praelocutio did not own it), p. 4 n. 7, p. 6 n. 6.
 
-**★★ THE FOOTER REGISTER CARRIES AN UNNUMBERED EDITORIAL `NOTA`, AND THE SCHEMA HAS NOWHERE TO PUT
-IT.** After p. 6 n. 6, in the right block, Quaracchi print a full paragraph headed **`NOTA.`** with
-**no anchor anywhere in the body**:
-> *NOTA. Quicumque attenta mente meditabitur hoc prooemium, non satis admirari poterit doctrinam
-> uberrimam et vere seraphicam, quam S. Doctor ex brevi s. Scripturae sententia elicuit, atque
-> mirabilem artem, qua verbis paucis, sed gravissimis argumenta pro integro libro conficiendo
-> praebuit. Quam dilucide ante oculos proponit miserum statum animae a Deo aversae et ad transitoria
-> incurvatae! Quem vere et efficaciter exprimit imaginem horrendam praesentis societatis humanae,
-> quatenus per apostasiam est aliena a Christo!*
->
-> **NOTE.** Whoever shall meditate this proemium with an attentive mind will not be able to admire
-> enough the most abundant and truly seraphic doctrine which the holy Doctor drew out of a brief
-> sentence of holy Scripture, and the wonderful art by which, in few but weightiest words, he
-> furnished the arguments for making a whole book. How clearly he sets before our eyes the wretched
-> state of a soul turned away from God and bent down towards transitory things! How truly and
-> effectively he expresses the dreadful image of present human society, in so far as through
-> apostasy it is estranged from Christ!
+**★★ THE FOOTER REGISTER CARRIES AN UNNUMBERED EDITORIAL `NOTA`, AND IT IS RENDERED AS A CLOSING
+NOTE — `[^p6-nota]` (convention set by Wilson, 2026-08-20).** After p. 6 n. 6, in the right block,
+Quaracchi print a full paragraph headed **`NOTA.`** with **no anchor anywhere in the body**. It is
+the last thing in the register and it is about the proemium as a whole.
 
-**It is recorded here and NOT rendered, deliberately, and the reasoning is the corpus's own.** The
-frozen test says *marginal glosses are trimmed; display matter set in the text block is rendered* —
-and this is set in the **footer register**, not the text block, so it is apparatus, not body. But it
-carries no anchor, and an apparatus def with no matching anchor breaks marker pairing in both
-languages. **Inventing an anchor Quaracchi did not print would be a silent emendation**, which the
-corpus forbids. ⬜ **This is a live schema question, not a settled convention:** the unanchored
-editorial note is a recurring class (Vol V's *Additamentum*, e.g. Breviloquium p. 222 n. 2, which was
-numbered and so had somewhere to go). If more turn up in the Sentences front matter, the parser
-should gain an explicit unanchored-note slot rather than each chunk deciding for itself.
+**The convention, and why it is not a silent emendation.** A marker placed inside the prose would
+assert *where* the note belongs — a claim Quaracchi never made. A marker at the **end of the unit**
+asserts only its *scope*, which is exactly what an unnumbered closing NOTA already claims by
+standing last. So the anchor goes after the final word of the body in both languages, and the label
+is **`nota`, not a number** — `displayLabel()` strips the `p6-` namespace, so the reader sees a
+marker reading *nota* and is never shown a footnote number the page does not print. **Headnote
+versus closing note is the distinction that makes this honest**; do not generalise it into
+anchoring unanchored matter wherever it seems to fit.
+
+⬜ **This is the first of its class in the Sentences; expect more** (Vol V's *Additamentum* is the
+same shape, e.g. Breviloquium p. 222 n. 2, which was numbered and so had somewhere to go). Apply
+the same treatment rather than deciding per chunk, and record on each one that the anchor is the
+edition's silence, not its ink.
 
 **Gutters measured per leaf** (`gutter-profile.py` over the body rows, then the direct band):
 **p. 3 = 1538** (band 1495–1582) · **p. 4 = 1804** (band 1765–1843) · **p. 5 = 1544** (band
