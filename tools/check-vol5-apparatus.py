@@ -1810,6 +1810,13 @@ KNOWN_TOTALS = {
     422: 8,   # n.4 runs over the gutter; right block opens unnumbered
     423: 11,  # both blocks open numbered; no runover
     424: 7,   # BOUNDARY LEAF: all seven are Collatio XIX's; Collatio XX carries no anchor here
+    425: 4,   # Collatio XX's register opens here; both blocks open numbered, no runover
+    426: 8,   # n.4 runs over the gutter; right block opens unnumbered
+    427: 8,   # n.4 runs over the gutter; left block underruns the column division by two
+    428: 7,   # n.4 runs over the gutter; left block overruns by one
+    429: 10,  # n.5 runs over the gutter; block and anchor splits coincide at 5/5
+    430: 9,   # n.6 runs over the gutter; left block overruns by one
+    431: 3,   # BOUNDARY LEAF: n.1 is Collatio XX's, nn.2-3 are Collatio XXI's
 }
 
 

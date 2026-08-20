@@ -20148,6 +20148,66 @@ bon-hex-c2	5	apparatus:p342-5	p342-5	scripture	apparatus-explicit	Lev. 6, 12	Lev
 bon-hex-c2	5	apparatus:p342-6	p342-6	scripture	apparatus-explicit	Exod. 24, 2	Exod 24:2	A	verse		
 bon-hex-c2	5	apparatus:p342-7	p342-7	scripture	apparatus-explicit	Exod. 3, 1	Exod 3:1	A	verse		
 bon-hex-c2	5	apparatus:p342-7	p342-7	scripture	apparatus-explicit	Iosue 1, 2	Ios 1:2	A	verse		
+bon-hex-c20	5	apparatus:p425-1	p425-1	scripture	apparatus-explicit	Gen. 1, 14-19	Gen 1:14-19	A	verse		
+bon-hex-c20	5	apparatus:p425-1	p425-1	scripture	apparatus-explicit	Dan. 1, 17	Dan 1:17	A	verse		
+bon-hex-c20	5	apparatus:p425-2	p425-2	scripture	apparatus-explicit	Dan. 9, 23	Dan 9:23	A	verse		
+bon-hex-c20	5	apparatus:p425-2	p425-2	crossref	page	supra pag. 296, nota 1	bon-itin-c1+bon-itin-capitula+bon-itin-prol		page-multi		
+bon-hex-c20	5	apparatus:p425-2	p425-2	scripture	apparatus-explicit	Ps. 33, 9	Ps 33:9	A	verse		
+bon-hex-c20	5	apparatus:p425-4	p425-4	crossref	page	supra pag. 392, nota 2	bon-hex-c13+bon-hex-c14		page-multi		
+bon-hex-c20	5	apparatus:p426-1	p426-1	scripture	apparatus-explicit	Sap. 7, 24	Sap 7:24	A	verse		
+bon-hex-c20	5	apparatus:p426-2	p426-2	scripture	apparatus-explicit	Deut. 6, 4	Deut 6:4	A	verse		
+bon-hex-c20	5	apparatus:p426-2	p426-2	crossref	page	supra pag. 309, nota 7	bon-itin-c5		chunk		
+bon-hex-c20	5	apparatus:p426-3	p426-3	scripture	apparatus-explicit	Matth. 5, 8	Matth 5:8	A	verse		
+bon-hex-c20	5	apparatus:p426-3	p426-3	scripture	apparatus-explicit	Prov. 3, 32	Prov 3:32	A	verse		
+bon-hex-c20	5	apparatus:p426-4	p426-4	crossref	page	supra pag. 37, nota 7	tom5:p37		forward		
+bon-hex-c20	5	apparatus:p426-6	p426-6	crossref	anaphor->page	ibid.	tom5:p37		forward	yes	supra pag. 37, nota 7
+bon-hex-c20	5	apparatus:p426-8	p426-8	crossref	page	supra pag. 301, nota 1	bon-itin-c2		chunk		
+bon-hex-c20	5	apparatus:p427-1	p427-1	crossref	page	pag. 426, nota 1	bon-hex-c20		chunk		
+bon-hex-c20	5	apparatus:p427-2	p427-2	scripture	apparatus-explicit	Exod. 23, 16	Exod 23:16	A	verse		
+bon-hex-c20	5	apparatus:p427-3	p427-3	scripture	apparatus-explicit	Rom. 8, 26	Rom 8:26	A	verse		
+bon-hex-c20	5	apparatus:p427-3	p427-3	scripture	apparatus-explicit	Isai. 33, 14	Isai 33:14	A	verse		
+bon-hex-c20	5	apparatus:p427-4	p427-4	scripture	apparatus-explicit	I. Tim. 1, 5	1Tim 1:5	A	verse		
+bon-hex-c20	5	apparatus:p427-4	p427-4	crossref	work	Breviloq. p. VII. c. 7.	bon-brev-p7-c7		chunk		
+bon-hex-c20	5	apparatus:p427-4	p427-4	crossref	logical	IV. Sent. d. 49. p. I. q. 5.	bon-sent-IV-d49-p1-a1-q5		chunk		
+bon-hex-c20	5	apparatus:p427-4	p427-4	crossref	page	supra pag. 391, nota 7	bon-hex-c13		chunk		
+bon-hex-c20	5	apparatus:p427-5	p427-5	scripture	apparatus-explicit	III. Reg. 8, 12	3Reg 8:12	A	verse		
+bon-hex-c20	5	apparatus:p427-5	p427-5	scripture	apparatus-explicit	Ps. 17, 12	Ps 17:12	A	verse		
+bon-hex-c20	5	apparatus:p427-7	p427-7	scripture	apparatus-explicit	Gen. 1, 16	Gen 1:16	A	verse		
+bon-hex-c20	5	apparatus:p427-7	p427-7	scripture	apparatus-explicit	Apoc. 21, 2	Apoc 21:2	A	verse		
+bon-hex-c20	5	apparatus:p428-1	p428-1	scripture	apparatus-explicit	Rom. 6	Rom 6	C	chapter		
+bon-hex-c20	5	apparatus:p428-1	p428-1	scripture	apparatus-explicit	Eph. 2, 5	Eph 2:5	A	verse		
+bon-hex-c20	5	apparatus:p428-1	p428-1	scripture	apparatus-explicit	Col. 2, 12	Col 2:12	A	verse		
+bon-hex-c20	5	apparatus:p428-1	p428-1	crossref	work	Breviloq.	work:breviloquium		work		
+bon-hex-c20	5	apparatus:p428-2	p428-2	scripture	apparatus-explicit	Apoc. 5, 5	Apoc 5:5	A	verse		
+bon-hex-c20	5	apparatus:p428-2	p428-2	scripture	apparatus-explicit	Luc. 23, 11	Luc 23:11	A	verse		
+bon-hex-c20	5	apparatus:p428-2	p428-2	scripture	apparatus-explicit	Act. 12, 4	Act 12:4	A	verse		
+bon-hex-c20	5	apparatus:p428-4	p428-4	scripture	apparatus-explicit	Eccli. 50, 6	Eccli 50:6	A	verse		
+bon-hex-c20	5	apparatus:p428-4	p428-4	scripture	apparatus-explicit	Apoc. 2, 28	Apoc 2:28	A	verse		
+bon-hex-c20	5	apparatus:p428-7	p428-7	scripture	apparatus-explicit	Exod. 4, 10	Exod 4:10	A	verse		
+bon-hex-c20	5	apparatus:p428-7	p428-7	scripture	apparatus-explicit	Gen. 32, 24	Gen 32:24	A	verse		
+bon-hex-c20	5	apparatus:p429-3	p429-3	scripture	apparatus-explicit	Cant. 6, 3	Cant 6:3	A	verse		
+bon-hex-c20	5	apparatus:p429-6	p429-6	scripture	apparatus-explicit	Psalm. 83, 8	Ps 83:8	A	verse		
+bon-hex-c20	5	apparatus:p429-6	p429-6	scripture	apparatus-explicit	Cant. 5, 2	Cant 5:2	A	verse		
+bon-hex-c20	5	apparatus:p429-9	p429-9	scripture	apparatus-explicit	Psalm. 121, 1	Ps 121:1	A	verse		
+bon-hex-c20	5	apparatus:p429-9	p429-9	scripture	apparatus-explicit	Luc. 10, 20	Luc 10:20	A	verse		
+bon-hex-c20	5	apparatus:p429-9	p429-9	scripture	apparatus-explicit	Eccli. 24, 6	Eccli 24:6	A	verse		
+bon-hex-c20	5	apparatus:p429-9	p429-9	scripture	apparatus-explicit	Ps. 8, 3	Ps 8:3	A	verse		
+bon-hex-c20	5	apparatus:p430-3	p430-3	scripture	apparatus-explicit	Psalm. 17, 29	Ps 17:29	A	verse		
+bon-hex-c20	5	apparatus:p430-3	p430-3	scripture	apparatus-explicit	Gen. 35, 16	Gen 35:16	A	verse		
+bon-hex-c20	5	apparatus:p430-4	p430-4	scripture	apparatus-explicit	Gen. 9, 13	Gen 9:13	A	verse		
+bon-hex-c20	5	apparatus:p430-4	p430-4	scripture	apparatus-explicit	Exod. 24, 3	Exod 24:3	A	verse		
+bon-hex-c20	5	apparatus:p430-5	p430-5	scripture	apparatus-explicit	Apoc. 1, 12	Apoc 1:12	A	verse		
+bon-hex-c20	5	apparatus:p430-6	p430-6	scripture	apparatus-explicit	Apoc. 7, 4-9	Apoc 7:4-9	A	verse		
+bon-hex-c20	5	apparatus:p430-6	p430-6	scripture	anaphor->apparatus-explicit	ibid.	Apoc 7:4-9	A	verse	yes	Apoc. 7, 4-9
+bon-hex-c20	5	apparatus:p430-7	p430-7	scripture	apparatus-explicit	Apoc. 3, 7	Apoc 3:7	A	verse		
+bon-hex-c20	5	apparatus:p430-7	p430-7	scripture	anaphor->apparatus-explicit	ibid.	Apoc 3:7	A	verse	yes	Apoc. 3, 7
+bon-hex-c20	5	apparatus:p430-7	p430-7	scripture	apparatus-explicit	Apoc. 1, 11	Apoc 1:11	A	verse		
+bon-hex-c20	5	apparatus:p430-8	p430-8	scripture	apparatus-explicit	Ioan. 21, 22	Ioan 21:22	A	verse		
+bon-hex-c20	5	apparatus:p430-9	p430-9	scripture	apparatus-explicit	Gen. 1, 26	Gen 1:26	A	verse		
+bon-hex-c20	5	apparatus:p430-9	p430-9	scripture	apparatus-explicit	I. Cor. 1, 26	1Cor 1:26	A	verse		
+bon-hex-c20	5	apparatus:p430-9	p430-9	scripture	apparatus-explicit	Iob 36, 6	Iob 36:6	A	verse		
+bon-hex-c20	5	apparatus:p430-9	p430-9	scripture	apparatus-explicit	Luc. 22, 30	Luc 22:30	A	verse		
+bon-hex-c20	5	apparatus:p431-1	p431-1	scripture	apparatus-explicit	Ios. 14, 8	Ios 14:8	A	verse		
 bon-hex-c3	5	latin_body		scripture	body-ordinal	Ioannis primo	Ioan 1	C	chapter		
 bon-hex-c3	5	latin_body		scripture	body-ordinal	ad Hebraeos quarto	Hebr 4	C	chapter		
 bon-hex-c3	5	apparatus:p343-1	p343-1	scripture	apparatus-explicit	Eccli. 15, 5	Eccli 15:5	A	verse		
