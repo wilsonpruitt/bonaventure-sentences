@@ -2252,6 +2252,18 @@ bon-sent-I-proem-q1	1	scholion		crossref	anaphor->logical	loc. cit.	bon-sent-I-d
 bon-sent-I-proem-q1	1	scholion		crossref	work	Breviloquio p. I. c. 1	bon-brev-p1-c1		chunk		
 bon-sent-I-proem-q1	1	scholion		crossref	logical	I. Sent. d. 1. a. 2.	bon-sent-I-d1-a2-q1		chunk		
 bon-sent-I-proem-q1	1	apparatus:p7-12	p7-12	crossref	work	Breviloq. p. I. c. 1.	bon-brev-p1-c1		chunk		
+bon-sent-I-proem-q2	1	latin_body	p9-2	scripture	body-ordinal	Isaiae quadragesimo	Isai 40:23	B	verse		
+bon-sent-I-proem-q2	1	latin_body	p9-3	scripture	body-ordinal	Proverbiorum vigesimo quinto	Prov 25:27	B	verse		
+bon-sent-I-proem-q2	1	latin_body	p9-4	scripture	body-ordinal	Ecclesiastici tertio	Eccli 3:22	B	verse		
+bon-sent-I-proem-q2	1	latin_body	p10-6	scripture	body-ordinal	Petri tertio	Petr* 3:15	B	verse		
+bon-sent-I-proem-q2	1	latin_body	p11-4	scripture	body-ordinal	Ioannis quinto	Ioan 5:39	B	verse		
+bon-sent-I-proem-q2	1	scholion		authority	authority:Albert.	I. Sent. d. 1. a. 4.			excluded		
+bon-sent-I-proem-q2	1	scholion		crossref	logical	Sent. d. 24. a. 2. q. 1.	bon-sent-I-d24-a2-q1		chunk		
+bon-sent-I-proem-q2	1	scholion		crossref	work	Breviloq.	work:breviloquium		work		
+bon-sent-I-proem-q2	1	scholion		crossref	logical	II. Sent. d. 1. q. 4.			dangling		
+bon-sent-I-proem-q2	1	scholion		crossref	logical	I. Sent. d. 1. a. 5.			dangling		
+bon-sent-I-proem-q2	1	apparatus:p10-2	p10-2	crossref	page	pag. 179	bon-sent-I-d9-divisio+bon-sent-I-d9-littera		page-multi		
+bon-sent-I-proem-q2	1	apparatus:p11-11	p11-11	crossref	logical	III. Sent. d. 35. q. 2.	bon-sent-III-d35-a1-q2		chunk		
 bon-sent-I-proem	1	latin_body		scripture	body-ordinal	Iob vigesimo octavo	Iob 28	C	chapter		
 bon-sent-I-proem	1	latin_body	p2-2	scripture	body-ordinal	Ezechielis vigesimo nono	Ezech 29:3	B	verse		
 bon-sent-I-proem	1	latin_body	p2-8	scripture	body-ordinal	Ecclesiastici vigesimo quarto	Eccli 24:41	B	verse		
@@ -8059,7 +8071,7 @@ bon-sent-III-d16-a1-q3	3	apparatus:p350-2	p350-2	crossref	relative	supra d. 3. p
 bon-sent-III-d16-a1-q3	3	apparatus:p350-3	p350-3	crossref	relative	supra d. 15.	III:d15		distinctio		
 bon-sent-III-d16-a1-q3	3	apparatus:p350-8	p350-8	crossref	relative	supra d. 4. a. 2. q. 3.	bon-sent-III-d4-a2-q3		chunk		
 bon-sent-III-d16-a1-q3	3	apparatus:p350-9	p350-9	crossref	relative	infra d. 18.	III:d18		distinctio		
-bon-sent-III-d16-a1-q3	3	apparatus:p350-10	p350-10	crossref	page	tom. I. pag. 10, nota 9			dangling		
+bon-sent-III-d16-a1-q3	3	apparatus:p350-10	p350-10	crossref	page	tom. I. pag. 10, nota 9	bon-sent-I-proem-q2		chunk		
 bon-sent-III-d16-a1-q3	3	apparatus:p351-3	p351-3	scripture	apparatus-explicit	I. Cor. 15, 27	1Cor 15:27	A	verse		
 bon-sent-III-d16-a1-q3	3	apparatus:p351-4	p351-4	crossref	logical	II. Sent. d. 19. a. 2.	bon-sent-II-d19-a2-q1+bon-sent-II-d19-a2-q2		articulus		
 bon-sent-III-d16-a1-q3	3	apparatus:p351-5	p351-5	crossref	relative	supra d. 15.	III:d15		distinctio		
@@ -8888,8 +8900,8 @@ bon-sent-III-d22-dubia	3	apparatus:p466-1	p466-1	scripture	apparatus-explicit	Am
 bon-sent-III-d22-dubia	3	apparatus:p466-2	p466-2	scripture	apparatus-explicit	Marc. 1, 7	Marc 1:7	A	verse		
 bon-sent-III-d22-dubia	3	apparatus:p466-2	p466-2	scripture	apparatus-explicit	Ioan. 1, 27	Ioan 1:27	A	verse		
 bon-sent-III-d22-dubia	3	apparatus:p466-3	p466-3	scripture	apparatus-explicit	Phil. 4, 7	Phil 4:7	A	verse		
-bon-sent-III-d22-littera	3	apparatus:p447-2	p447-2	crossref	page	tom. I. pag. 10, nota 5			dangling		
-bon-sent-III-d22-littera	3	apparatus:p448-3	p448-3	crossref	anaphor->page	ibid.			dangling	yes	tom. I. pag. 10, nota 5
+bon-sent-III-d22-littera	3	apparatus:p447-2	p447-2	crossref	page	tom. I. pag. 10, nota 5	bon-sent-I-proem-q2		chunk		
+bon-sent-III-d22-littera	3	apparatus:p448-3	p448-3	crossref	anaphor->page	ibid.	bon-sent-I-proem-q2		chunk	yes	tom. I. pag. 10, nota 5
 bon-sent-III-d22-littera	3	apparatus:p448-7	p448-7	scripture	apparatus-explicit	Iob 28, 12	Iob 28:12	A	verse		
 bon-sent-III-d22-littera	3	apparatus:p448-7	p448-7	scripture	anaphor->apparatus-explicit	ibid.	Iob 28:12	A	verse	yes	Iob 28, 12
 bon-sent-III-d22-littera	3	apparatus:p448-8	p448-8	crossref	page	pag. 441	bon-sent-III-d21-a1-q3		chunk		
@@ -10634,8 +10646,8 @@ bon-sent-III-d33-a1-q3	3	apparatus:13	13	crossref	page	supra pag. 880, nota 1	bo
 bon-sent-III-d33-a1-q3	3	apparatus:14	14	crossref	page	tom. II. pag. 671, nota 9	bon-sent-II-d27-dubia		chunk		
 bon-sent-III-d33-a1-q3	3	apparatus:14	14	crossref	page	Ibid. pag. 599, nota 5	bon-sent-II-d25-p1-a1-q3		chunk		
 bon-sent-III-d33-a1-q3	3	apparatus:15	15	crossref	page	tom. II. pag. 593, nota 1	bon-sent-II-d25-p1-a1-q1		chunk		
-bon-sent-III-d33-a1-q3	3	apparatus:16	16	crossref	page	tom. I. pag. 10, nota 2			dangling		
-bon-sent-III-d33-a1-q3	3	apparatus:17	17	crossref	anaphor->page	ibid.			dangling	yes	tom. I. pag. 10, nota 2
+bon-sent-III-d33-a1-q3	3	apparatus:16	16	crossref	page	tom. I. pag. 10, nota 2	bon-sent-I-proem-q2		chunk		
+bon-sent-III-d33-a1-q3	3	apparatus:17	17	crossref	anaphor->page	ibid.	bon-sent-I-proem-q2		chunk	yes	tom. I. pag. 10, nota 2
 bon-sent-III-d33-a1-q3	3	apparatus:22	22	crossref	relative	infra d. 36. q. 5.	bon-sent-III-d36-a1-q5		chunk		
 bon-sent-III-d33-a1-q3	3	apparatus:22	22	crossref	page	supra pag. 381, nota 1	bon-sent-III-d18-a1-q1		chunk		
 bon-sent-III-d33-a1-q3	3	apparatus:22	22	crossref	page	tom. II. pag. 892, nota 2	bon-sent-II-d38-a2-q2		chunk		
@@ -10695,7 +10707,7 @@ bon-sent-III-d33-a1-q5	3	scholion		crossref	relative-inherited	ibid.			dangling
 bon-sent-III-d33-a1-q5	3	scholion		crossref	logical	II. Sent. d. 26.	II:d26		distinctio		
 bon-sent-III-d33-a1-q5	3	scholion		crossref	relative	infra d. 36.	III:d36		distinctio		
 bon-sent-III-d33-a1-q5	3	scholion		crossref	relative	supra d. 23. a. 2. q. 5	bon-sent-III-d23-a2-q5		chunk		
-bon-sent-III-d33-a1-q5	3	apparatus:1	1	crossref	page	tom. I. pag. 10, nota 2			dangling		
+bon-sent-III-d33-a1-q5	3	apparatus:1	1	crossref	page	tom. I. pag. 10, nota 2	bon-sent-I-proem-q2		chunk		
 bon-sent-III-d33-a1-q5	3	apparatus:7	7	crossref	page	supra pag. 210, nota 7	bon-sent-III-d9-a1-q5		chunk		
 bon-sent-III-d33-a1-q5	3	apparatus:9	9	crossref	page	supra pag. 388, nota 2	bon-sent-III-d18-a2-q1		chunk		
 bon-sent-III-d33-a1-q5	3	apparatus:9	9	crossref	page	tom. II. pag. 760, nota 6	bon-sent-II-d32-a1-q1		chunk		
