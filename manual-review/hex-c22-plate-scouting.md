@@ -110,3 +110,37 @@ Marginalia p. 440 (body order). L: *Correspondentia.* · *Distinctio tertia.* ·
 R: *Clerici.* · *Tres gradus.* · *Correspondentia.* · *Contemplantes.* · *Triplex vitae modus.* ·
 *Primus.* · *Correspondentia.* · *Secundus.* · *Correspondentia.* · *Ordines Praedicatorum et
 Minorum.* · *Franciscus.* · *Tertius.* · *Ordo seraphicus.*
+
+### p. 441 — 10 entries, nn. 1–10
+Gutter **1202**: BAND 1173–1232 (60 px), island 1200–1206 (7 px, peak 702); skew drift 2 px,
+windows spread 2 px. The soundest leaf of the six so far.
+Block: nn. 1–6 L, nn. 7–10 R. Anchors: nn. 1–5 L (¶¶ 22, 23, 24, 24, 25), nn. 6–10 R (¶¶ 25, 27,
+27, 28, 28). **Disagree by one — n. 6 prints in the left block and anchors in the right column.
+Four leaves, four disagreements, each of a different size (1, 2, 1, 1). The block break has not
+once coincided with the anchor break in this chunk.**
+- n. 1 `Cfr. Legenda S. Franc. c. 1, ubi de eius conversatione in habitu saeculari.` — `iuxta quandam sepem ¹` (¶ 22)
+- n. 2 `Vide Prolog. in Itinerarium mentis in Deum, n. 2. seq.` — `apparitio Seraph beato Francisco ²` (¶ 23)
+- n. 3 `Cant. 6, 3: Pulcra es amica mea... sicut Ierusalem. — De praeced. propositione cfr. supra pag. 349, nota 9. verba Aristot., quae hic ab E allegantur.` — `Pulcra dicitur sicut Ierusalem ³` (¶ 24)
+- n. 4 `Gen. 28, 12. — Opera mystica abbatis Vercellensis prae manibus non habemus.` — `ut vidit Iacob in mente sua ⁴` (¶ 24)
+- n. 5 `Cfr. Aristot., de Sensu et sens. c. 1. et I. Metaph. c. 1. Vide III. Sent. d. 24. dub. 2.` — `et ideo tardi sunt ⁵` (¶ 25)
+- n. 6 `August., X. de Trin. c. 11. n. 17: Uti enim est assumere aliquid in facultatem voluntatis. Cfr. I. Sent. d. 1. a. 1. q. 1.` — `assumere in facultatem voluntatis ⁶` (¶ 25)
+- n. 7 `Cum codd. propter sequentia retinuimus unio, licet alibi cum eisdem posuimus unctio; cfr. pag. 440, nota 7.` — `susceptio, revelatio, unio ⁷` (¶ 27)
+- n. 8 `Cap. 1, 1.` — `illud Cantici ⁸` (¶ 27)
+- n. 9 `Respicitur Ps. 132, 2. Cfr. supra pag. 419, nota 4. — Divisio virtutum animae, quae mox ex Dionys. affertur, colligitur ex iis quae in libr. de Caelest. Hierarch. c. 15. § 3. habentur de anima humana, in quantum corpori coniuncta est et diversas vires exserit in diversis organis. Auctor libri de Spiritu et anima (inter opera August.) c. 20. vires naturales animae ad quatuor reducit, scil. appetitivam, retentivam, expulsivam et distributivam.` — `in vestimenta ⁹` (¶ 28)
+- n. 10 `Matth. 10, 8.` — `gratis accepistis, gratis date ¹⁰` (¶ 28)
+
+**★ A READING THE BAND OVERTURNED, and the raw could not have supplied it.** ¶ 24 prints
+`*Pulcra* dicitur *sicut Ierusalem*³`; the raw has the marginal gloss *supernae.* spliced across
+the line and gives `Pulcra dicitur ^^^^ lerusalem`. The word is *sicut,* and n. 3 confirms it from
+Cant. 6, 3.
+⚠ **The left footer block ends with the gathering signature `S. Bonav. — Tom. V.` and the right
+block with the sheet number `56`.** Neither is apparatus; neither is transcribed. Recorded so a
+later reader does not take `56` for a note number.
+
+Marginalia p. 441 (body order). L: *Corpus enervatur tali contemplatione.* · *Correspondentia.* ·
+*De apparitione Seraph facta Francisco.* · *Notandum.* · *Pars II. De tertio visionis obiecto.* ·
+*Anima hierarchizata habet gradus respondentes hierarchiae supernae.* · *Gradus disponuntur
+tripliciter.* · *Primo, secundum ascensum tripliciter.* · *Quoad primum sunt 3 gradus cum
+correspondentia.* · *Gradus primus.* R: *Secundus.* · *Tertius.* · *Item, quoad secundum.* ·
+*Item, quoad tertium.* · *Secundo disponuntur sec. descensum tripliciter.* · *Quoad susceptionem
+tria requiruntur.*
