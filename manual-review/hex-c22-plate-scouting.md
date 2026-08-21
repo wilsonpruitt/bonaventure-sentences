@@ -57,3 +57,31 @@ necessaria ad illuminandum.* · *Ordines eius respondent hierarchiae supernae.* 
 *Distinguuntur tripliciter.* · *Distinctio prima.* · *Subdistinctio.* · *Fundamentales ordines.* ·
 *Notandum.* · *Hi sunt tres.* R: *Correspondentia horum.* · *Promotivi tres.* ·
 *Correspondentia.* · *Consummantes tres.*
+
+### p. 439 — 8 entries, nn. 1–8
+Gutter **1192**: BAND 1166–1219 (54 px, sub-60) — skew screen says drift 8 px, no skew,
+`ONE SPLIT SUFFICES → 1196`, and the windows agree to 2 px across all twenty-four. The narrow
+band is a **heavily inked centre rule** (island 1185–1198, 14 px, peak 315), not drift.
+Block: nn. 1–5 L, nn. 6–8 R. Anchors: nn. 1–3 L (¶¶ 10, 10, 11), nn. 4–8 R (¶¶ 12, 13, 13, 13, 15).
+**Block and anchor break disagree by two** — n. 4 and n. 5 print in the left block while their
+anchors stand in the right column.
+- n. 1 `Cfr. supra collat. 19. n. 4.` — `officium humilitatis ¹` (¶ 10). Read at 3.2×: **arabic 19**, `n. 4`. Collatio numbers in this work's register are arabic (`collat. 22. n. 1.` at c21), while `collat. I.` on p. 438 n. 3 is roman — both forms are live, so read each one.
+- n. 2 `Matth. 3, 15.` — `implere omnem iustitiam ²` (¶ 10)
+- n. 3 `Libr. III. Reg. 6, 36: Et aedificavit [Salomon] atrium interius tribus ordinibus lapidum politorum.` — `tribus ordinibus lapidum ³` (¶ 11)
+- n. 4 `Vide tom. IV. pag. 637, nota 8.` — `ministrabatur Sanguis olim ⁴` (¶ 12)
+- n. 5 `Luc. 12, 35. — Gregor., I. Homil. in Evang. homil. 13. n. 1: Lucernas quippe ardentes in manibus tenemus, cum per bona opera proximis nostris lucis exempla monstramus. — Seq. locus est Phil. 2, 15. et 16. Codd. legunt: ut sitis sinceres, inter quos etc. Forcellini notat, quod ista forma sinceres inveniatur, tamen non sit imitanda.` — `lucernae ardentes ⁵` (¶ 13)
+- n. 6 `Cap. 2, 10: Evangelizo vobis etc.` — `in Luca ⁶` (¶ 13)
+- n. 7 `Cfr. IV. Sent. d. 24. p. II. a. 2. q. 4.` — `ordo diaconorum, Dominationibus ⁷` (¶ 13)
+- n. 8 `Cap. 19, 18. Ibid. etiam seq. locus. — De quatuor patriarchis cfr. Concil. Nic. I. can. 6. et 7; Constant. I. can. 5. et apud Gratian. can. Definimus (7.), d. 22. — De plenitudine potestatis Romani Pontificis vide supra Quaest. disput. de Perfect. evang. q. 4. a. 3.` — `loquitur Isaias ⁸` (¶ 15)
+
+⚠⚠ **A PRINTED LACUNA IN ¶ 11, read at 3.0× and certain.** The line prints
+`Ordo *lectorum* est,` — then a blank of about three characters — `homo purgetur a nubilo igno-`.
+The blank carries no ink at 3×; the neighbouring word-spaces on the same line are normal. Sense
+wants *ut* (cfr. *ordo ostiariorum, ut excludantur* in the same paragraph), **but the edition does
+not supply it and neither does this translation** — same species as `bon-hex-c19` p. 421 ¶ 7, a gap
+the edition itself declines to fill. Rendered as printed with `[?]` at the gap in both languages.
+
+Marginalia p. 439 (body order). L: *Correspondentia.* · *Distinctio secunda.* · *Gradus tres.* ·
+*Primus triplicatur.* · *Ostiarii.* · *Lectores.* · *Exorcistae.* · *Item, secundus.*
+R: *Acolythi.* · *Subdiaconi.* · *Diaconi.* · *Correspondentia.* · *Item, tertius.* ·
+*Sacerdotes.* · *Episcopi.* · *Patriarchae et Papa.*
