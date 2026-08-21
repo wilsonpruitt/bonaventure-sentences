@@ -167,3 +167,32 @@ Marginalia p. 442 (body order). L: *De primo et eius correspondentia.* · *De se
 R: *Tertio disponuntur sec. regressum tripliciter.* · *Animae operationes tres.* · *Quoad
 potentias exteriores tria requiruntur.* · *De primo.* · *Notandum.* · *De secundo.* ·
 *De tertio.* · *Item, quoad potentias interiores.* · *De primo.*
+
+### p. 443 — 11 entries, nn. 1–11; **n. 11 RUNS OVER onto p. 444**
+Gutter **1199**: BAND 1169–1230 (62 px), island 1197–1203 (7 px, peak 1094); skew drift 13 px, no
+skew. Windows spread 1 px.
+Block: nn. 1–5 L, nn. 6–11 R. Anchors: nn. 1–4 L (¶¶ 36, 36, 38, 38), nn. 5–11 R (¶¶ 39, 39, 39,
+40, 40, 40, 41). **Disagree by one.** Six leaves, six disagreements.
+- n. 1 `Ioan. 14, 30. — Epist. I. Ioan. 2, 16: Quoniam omne, quod est in mundo, concupiscentia carnis est et concupiscentia oculorum et superbia vitae.` — `in me non habet quidquam ¹` (¶ 36). **One note, two anchoring duties** — its second half answers the *triplex libido* three lines below, which carries no anchor of its own.
+- n. 2 `Cap. 2, 12.` — `in Cantico ²` (¶ 36)
+- n. 3 `Matth. 8, 9: Et dico huic: vade, et vadit; et alii: veni, et venit; et servo meo: fac hoc, et facit.` — `fac tu illud ³` (¶ 38)
+- n. 4 `Dionys., de Div. Nom. c. 4. § 23.` — `phantasia proterva ⁴` (¶ 38)
+- n. 5 `Cap. 2, 19: Consurge, lauda in nocte, in principio etc. — Seq. locus est Ps. 37, 10; tertius Isai. 51, 17: Elevare, elevare, consurge, Ierusalem. Baruch 5, 5: Exsurge, Ierusalem, et sta in excelso. Quartus [Tunc videbis] est Isai. 60, 5.` — `in Threnis ⁵` (¶ 39)
+- n. 6 `Cap. 2, 6. et 6, 2: Ego dilecto etc. — Seq. locus est I. Cor. 6, 17.` — `in Cantico ⁶` (¶ 39)
+- n. 7 `Apoc. 12, 1.` — `corona duodecim stellarum ⁷` (¶ 39)
+- n. 8 `Cfr. supra pag. 221, nota 5.` — `per duodecim signa ⁸` (¶ 40)
+- n. 9 `Rom. 11, 33: Quam incomprehensibilia sunt iudicia eius, et investigabiles viae eius.` — `irreprehensibilium iudiciorum ⁹` (¶ 40)
+- n. 10 `Cfr. Beda, de Natura rerum, c. 17, ubi docet, quod sol circa medietatem uniuscuiusque mensis incipit introire in unum de duodecim signis.` — `in aliquo signo ¹⁰` (¶ 40)
+- n. 11 `Scilicet lineam in medio zodiaco, quae circulariter ipsum per totum scindit. Vocatur ecliptica, eo quod in ipsa sola ecli-` **| continues on p. 444** — `super eclipticam ¹¹` (¶ 41)
+
+⚠ **A MARK ON THE PLATE THAT IS NOT AN ANCHOR.** ¶ 36 prints `quia haec triplex libido inducit`
+followed by a small high stroke at the column edge; the raw reads it as a marker. At 4× it is a
+short oblique speck, not a digit, and the register leaves no room for it — n. 1 already covers the
+*triplex libido* in its second half and n. 2 is Canticles. **Second manufactured anchor in this
+chunk** (cfr. p. 438 ¶ 8), but of a different kind: p. 438's had nothing on the plate at all, this
+one has a defective mark. Neither is transcribed.
+
+Marginalia p. 443 (body order). L: *Triplex libido.* · *Correspondentia.* · *De secundo.* ·
+*Triplex infirmitas.* · *De tertio.* · *Triplex dominatio.* · *Item, quoad potentias superiores
+tripliciter.* R: *De primo.* · *De secundo.* · *De tertio.* · *Correspondentia.* · *Epilogus.* ·
+*Duodecim lumina.* · *Duplex lunae eclipsis.*
