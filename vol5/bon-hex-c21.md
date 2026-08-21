@@ -363,3 +363,140 @@ termost; nor is just any thing called *virtuous,* but that which has stability i
 [^p437-1]: **La.** Cfr. supra n. 20-23.
 
     **En.** Cf. above, nn. 20-23.
+
+---
+
+## Notes
+
+**Provenance.** Printed pp. 431–437 (PDF 507–513), raw L72794–L73698. Latin set from the raw and
+checked page by page against 450 dpi column bands; the apparatus read entirely off the footer bands
+at 2.4–3.2×. Plate scouting banked before writing at `manual-review/hex-c21-plate-scouting.md`.
+
+**★★ THE SPAN IS SEVEN LEAVES AND BOTH ENDS FALL INSIDE A LEAF.** Collatio XXI opens near the head
+of p. 431, three lines below Collatio XX's tail in both columns, and closes **part-way down p. 437**,
+where `COLLATIO XXII.` prints below it. **The far end was fixed positively from that printed header
+on the band — p. 437's own running head already reads `IN HEXAËMERON COLLATIO XXII.` while XXI still
+fills the top of the leaf, the FOURTH consecutive collatio-boundary leaf mis-named by its own
+running head** (p. 419 did it to c18, p. 424 to c19, p. 431 to c20). The rule is not weakening; it
+is simply what a running head does at every boundary in this work.
+
+**Heading.** `COLLATIO XXI.` carries **no apparatus anchor**, and neither does its two-line
+subtitle. Twenty-first opening read; only `COLLATIO I.` has one. The in-place subtitle is what the
+`WORKS` registry was given, per the standing rule — it was not copied from the volume index.
+
+**★★ THE SUMMARIUM PROMISES THIRTY-THREE ¶¶ AND THE BODY WAS COUNTED, ON THE BANDS: IT RUNS
+LEVEL.** The Summarium stands at full measure on p. 431 between the subtitle and the two-column
+body, fills most of the leaf, carries no anchor, and ends *…Doctrina Dionysii de his, 33.* The body
+has **33 numbered ¶¶, 1..33, no gaps, identical in both languages.** ⚠ Two of those numbers are
+unreadable in the raw (¶ 16's opener is overrun by a marginal gloss, ¶ 25's numeral is garbled);
+both were read on the band. The Summarium is a finding aid and has run short before — three at c6,
+one at c14 — so the count is what the body says, not what the synopsis promises.
+
+**★★ HAND-OFF PICKED UP — p. 431 nn. 2–3, AND BOTH WERE RE-DERIVED AT THE BAND, NOT ADOPTED.**
+c20 forwarded ownership only. Re-derived: p. 431's register holds three entries; **n. 1 is
+Collatio XX's** (it answers XX's ¶ 30, *…non introierunt¹*, and prints alone in the left block),
+and nn. 2–3 are this collatio's, anchoring at *duo magna luminaria²* (¶ 1) and *cum distinctione³*
+(¶ 2, the last words on the leaf), both printing in the right block. **The hand-off was right about
+ownership and, this time, right about column too** — which is exactly the claim that has to be
+re-derived rather than trusted, since a hand-off tells you which notes are yours and never where
+they land.
+
+**★★ HAND-OFF FORWARDED — p. 437 n. 2 IS COLLATIO XXII's; ONLY n. 1 IS THIS CHUNK's.** p. 437's
+register holds two entries: n. 1 `Cfr. supra n. 20-23.` answers this collatio's last word
+(*…Angelorum, nuntiare¹*), and n. 2 `Apoc. 12, 1. — De seqq. cfr. collat. praeced.` answers XXII's
+own ¶ 1 (*stellarum duodecim²*), printing in the right block. ⚠ **c22 must re-derive that.**
+★ **The two boundary leaves divide in mirror proportions** — p. 431 gives one note to the earlier
+collatio and two to this one; p. 437 gives one to this one and one to the next. **Five consecutive
+boundary leaves, five shapes** (p. 414 split 3/1 · p. 419 all-earlier · p. 424 all-earlier ·
+p. 431 1/2 · p. 437 1/1). The shape has still never repeated.
+
+**Per-page register (39 entries owned).**
+
+| page | notes owned | block split | anchor split | relation |
+|---|---|---|---|---|
+| 431 | **nn. 2–3 only** — n. 1 is Collatio XX's | n. 1 L, nn. 2–3 R | nn. 2–3 R | they **coincide** |
+| 432 | nn. 1–7 | nn. 1–4 L, nn. 5–7 R | nn. 1–4 L, nn. 5–7 R | they **coincide** |
+| 433 | nn. 1–8 | nn. 1–4 L, nn. 5–8 R | nn. 1–4 L, nn. 5–8 R | they **coincide** |
+| 434 | nn. 1–6 | **nn. 1–3 L**, nn. 4–6 R | nn. 1–4 L, nn. 5–6 R | left block **underruns by one** |
+| 435 | nn. 1–9 | nn. 1–4 L, nn. 5–9 R | nn. 1–4 L, nn. 5–9 R | they **coincide** |
+| 436 | nn. 1–6 | **nn. 1–4 L**, nn. 5–6 R | nn. 1–2 L, nn. 3–6 R | left block **overruns by two** |
+| 437 | **n. 1 only** — n. 2 is Collatio XXII's | n. 1 L | n. 1 L | they **coincide** |
+
+★ **BLOCK-vs-ANCHOR DIRECTION REVERSES INSIDE THIS CHUNK, WITH THREE COINCIDENCES BETWEEN THE TWO
+MISMATCHES** — p. 434 underruns by one, p. 435 coincides, p. 436 overruns by two. c13 showed the
+same reversal inside one chunk; the standing rule stands. Read every leaf's anchors.
+
+★ **Two gutter-crossing runovers, both in the right block, both logged once:** p. 433 n. 5 (the
+long variant note from E) and **p. 436 n. 4**, the Dionysius quotation, which breaks at
+*…et deividum, et altis-* | *-simae luminum dationis…*. No page-crossing runover: every leaf's
+register opens numbered, checked at magnification on all seven, and the negative is recorded here
+so the next chunk can tell a checked "none" from an unchecked one.
+
+★ **p. 433's left footer block closes with the signature line `S. Bonav. — Tom. V.` and the right
+block's foot carries the sheet signature `55`** — printer's furniture, not apparatus, and not
+transcribed.
+
+**Gutters, measured per REGION, per leaf.** p. 431 **1178** (the body region 0.64–0.79 ONLY — the
+leaf stacks XX's tail, a display heading, a full-measure Summarium and XXI's body, and c20 never
+measured it because it held only three lines there; band 1147–1210, centre-rule island peak 220) ·
+p. 432 **1260** (band 59 px, sub-60 — the skew screen reports a drift of 6 px and
+`ONE SPLIT SUFFICES → 1258`, so the narrow run here is the rule inking heavily, not drift) ·
+p. 433 **1200** · p. 434 **1349** (band 54 px, sub-60; the skew screen shows a real monotonic walk
+1313→1324, an 11 px drift, and one split still separates the columns) · p. 435 **1186** ·
+p. 436 **1371** · p. 437's seven lines were read full-width at 2.4×, the region being too short for
+any window consensus — `gutter-profile.py` fails outright on it and says so.
+
+**★ THREE READINGS THE BAND SETTLED AGAINST THE RAW.**
+1. **¶ 5 `origo *originans*`** — the raw gives *origo originatis.* Read at 4×: **originans**, which
+   is also the Summarium's word and the phrase ¶ 11 repeats.
+2. **¶ 16 `Et **has** illuminationes`** — the raw gives *Et istas illuminationes,* its opener
+   overrun by the `Pars II.` marginal gloss.
+3. **¶ 9's whole continuation onto p. 433** is invisible in a careless read of the raw's page
+   joint; it runs *…ubi non solum prohi-* | *-betur alienum, immo praecipitur, ut de suo det,*
+   and the Apostle's text that follows is Eph. 4:28 in Quaracchi's own wording, not the Vulgate's.
+
+**Register — reused from c20 and extended.** *vigens / fulgens / calens* → "vigorous / resplendent
+/ warm" (the collatio's governing triad; *fulgens* takes "resplendent" so that *splendor* can keep
+"splendour" beside it) · *celsitudine pollens* → "mighty in loftiness" · *fortitudine praesidens* →
+"presiding in fortitude" · *dulcedine pascens* → "feeding with sweetness" · *authenticus* →
+"authoritative" · *praevalidus* → "prevailing" · *invictus* → "unconquered" · *virilis / virilitas*
+→ "manful / manfulness" · *strenuus, sagax, sedulus* → "strenuous, sagacious, sedulous" ·
+*circumincessio* → "circumincession" (frozen at the Itinerarium) · *hierarchizata / hierarchizatur*
+→ "made hierarchic" (frozen at c20) · *sursumactiva / sursumactio* → "upward-acting /
+upward-action" · *discretiva* → "discretive" · *actuosa / otiosa / permixta* → "active / leisured /
+mixed" · *deiformis / deiformitas* → "deiform / deiformity" · *influentia* → "influence" ·
+*formositas* → "comeliness" (as at the Itinerarium's *speciositas*, and for the same reason —
+*pulcritudo* and *species* must stay separately available) · *tentio, visio, fruitio* → "holding,
+vision, fruition" (c20's freeze, and ¶ 11 is where c20 took it from).
+- ⚠ ***diiudicatio* does not occur here, but *iudicium* does** (¶ 33, of the Thrones) and takes
+  "judgment", per the Itinerarium freeze.
+- ⚠ ***excessus* does not occur in this collatio at all** — the first of the four Hexaemeron
+  chunks in which it does not. Nothing to decide; recorded so its absence is not read as a change.
+
+**Marginalia** (trimmed from the body per the standing Vol V convention; body order).
+p. 431: *Introductio.* · *Pars I. De monarcha caelestis hierarchiae.* · *Tria in ipso.* ·
+*Notandum.* · *Circumincessio.*
+p. 432: *Ratio exemplaritatis cum appropriatione.* · *Novem illuminationes.* · *Appropriationes 9,
+respicientes opera Dei ad extra.* · *Respectus tres.* · *Secundum primum tria appropriata.* ·
+*Voluntas etiam ad intra.* · *Item, secundum alterum.* · *Ab his manant 3 leges.* · *Per has Deus
+gubernat.* · *Imprimit eas mentibus.* · *Eminenter sunt in Deo.* · *Inde tria prima mandata.* ·
+*Alia tria.* · *Alia tria.*
+p. 433: *Decimum praeceptum.* · *Abdicatio cupiditatis est consummatio praeceptorum.* ·
+*Confirmatur.* · *Secundum tertium tria appropriata.* · *Quoad Deum in se 9 considerationes.* ·
+*Tria in Deo.* · *Appropriantur.* · *Pro primo requiruntur tres proprietates.* · *Item, pro
+secundo.* · *Item, pro tertio.*
+p. 434: *Pars II. De caelesti hierarchia Angelorum et Beatorum.* · *Haec primo illustratur.* ·
+*Quid sit hierarchia.* · *De influentia divina.* · *Divisio caelestis hierarchiae et
+appropriatio.* · *Sufficientia divisionis monstratur triplici modo.* · *Notandum.* · *Primo,
+ratione exemplaritatis divinae triplici principio.* · *Principium 1, quo monstratur sufficientia.* ·
+*Continuatur.* · *De Angelo Gabriele.*
+p. 435: *De ordine illuminationis.* · *Principium 2.* · *Continuatur.* · *Principium 3.* ·
+*Continuatur.* · *Continuatur.* · *Epilogus.* · *Secundo, ratione integritatis tripliciter.* ·
+*Primo, sec. triplicem scientiam.*
+p. 436: *Secundo, sec. triplicem potestatem.* · *Tertio, sec. triplicem actum actionis.* ·
+*Tertio, ratione dispositionis caelestis monarchiae et triplicis aspectus.* · *De primo.* ·
+*De secundo.* · *Retractatio.* · *De tertio.* · *Confirmatur per Dionysium.*
+p. 437: **none** — the collatio's last seven lines carry no gloss in either margin, checked at
+2.1×. A negative, recorded so it is not read as an omission.
+
+**`[?]` flags: none.** Every reading in the body and in all 39 entries was settled on the band.
