@@ -85,3 +85,28 @@ Marginalia p. 439 (body order). L: *Correspondentia.* · *Distinctio secunda.* �
 *Primus triplicatur.* · *Ostiarii.* · *Lectores.* · *Exorcistae.* · *Item, secundus.*
 R: *Acolythi.* · *Subdiaconi.* · *Diaconi.* · *Correspondentia.* · *Item, tertius.* ·
 *Sacerdotes.* · *Episcopi.* · *Patriarchae et Papa.*
+
+### p. 440 — 7 entries, nn. 1–7
+Gutter **1317**: BAND 1289–1346 (58 px), island 1314–1323 (10 px, peak 183); skew screen drift
+11 px, no skew, `ONE SPLIT SUFFICES → 1313`. ⚠ the whole-window spread is 103 px because two
+windows land on the footer block — the body windows agree at 1318.
+Block: nn. 1–4(head) L, n. 4(tail) + nn. 5–7 R. Anchors: nn. 1–3 L (¶¶ 15, 15, 18), nn. 4–7 R
+(¶¶ 18, 19, 21, 21). **Block and anchor break disagree by one**, and it is n. 4 — the very entry
+whose own text runs over the division. Third leaf running, third disagreement.
+- n. 1 `Vide IV. Sent. d. 24. p. II. a. 2. q. 3.` — `propter eminentiam et potestatem ¹` (¶ 15)
+- n. 2 `Tit. 1, 9.` — `est fidelem sermonem ²` (¶ 15)
+- n. 3 `Isai. 1, 26: Et restituam iudices tuos, ut fuerunt prius.` — `Restituam, inquit ³` (¶ 18)
+- n. 4 `Isai. 1, 23: Principes tui infideles, socii furum; omnes diligunt munera, sequuntur retributiones. — Paulo superius pro Constantinus Vat. Valentinianus (B Constantinus vel Valentinianus), quae subinde pro Qualis substituit cuius. Voci Saracenus secunda manus in margine cod. A addidit seu paganus. Cfr. Vita S. Ambrosii a Paulino conscripta, n. 8. seq.; Vita et institutum S. Patris nostri Ambros., ubi etiam n. 3. dicitur: Is erat sane vir vita purus etc.` — `socii furum ⁴` (¶ 18)
+- n. 5 `Hebr. 5, 1.` — `dona et sacrificia pro peccatis ⁵` (¶ 19)
+- n. 6 `Cfr. Exod. 3, 1. seqq.; 19, 3; 24, 12. seqq. et 33, 2. seqq.` — `ascendas in montem ⁶` (¶ 21)
+- n. 7 `Scilicet Bonaventura, qui in Legenda S. Franc. c. 11. idem refert. Cfr. Opuscul. S. Franc., Colloquium 15. — In praecedentibus pro unctioni D E unitioni (cfr. supra pag. 307, nota 2.), pro vel unctio B C vel unitio in utero.` — `Et addebat ⁷` (¶ 21)
+
+**Two digit readings the band settled against the raw, both in n. 7:** `Legenda S. Franc. c. 11.`
+(raw `c. 1 1.`) and **`Colloquium 15.` — the raw gives `Colloquium 18.`** Read at 2.2×; the second
+is the 5/8 confusion, not the usual 3/5, and it is the kind a sense-check cannot catch.
+
+Marginalia p. 440 (body order). L: *Correspondentia.* · *Distinctio tertia.* · *Triplex vita.* ·
+*Correspondentia.* · *Tres status.* · *Laici; gradus tres.* · *Correspondentia.* · *Notandum.*
+R: *Clerici.* · *Tres gradus.* · *Correspondentia.* · *Contemplantes.* · *Triplex vitae modus.* ·
+*Primus.* · *Correspondentia.* · *Secundus.* · *Correspondentia.* · *Ordines Praedicatorum et
+Minorum.* · *Franciscus.* · *Tertius.* · *Ordo seraphicus.*
