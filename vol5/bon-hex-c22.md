@@ -12,7 +12,7 @@ pdf_pages: [513, 514, 515, 516, 517, 518, 519, 520]
 source: "S. Bonaventurae, Opera Omnia, Tomus V (Quaracchi, 1891), pp. 437–444"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 in progress — Latin set from IA djvu OCR (raw lines 73700–74807) and checked page by page against the 450 dpi column bands (2026-08-20)"
+transcription_status: "Phase C Tier 2 complete — Latin set from IA djvu OCR (raw lines 73700–74807) and checked page by page against the 450 dpi column bands, fresh literal English translation, full apparatus read off the footer bands (54 entries owned, pp. 437–444; p. 437 n. 2 inherited from Collatio XXI and re-derived, p. 437 n. 1 left with it, p. 444 n. 3 forwarded to Collatio XXIII), the Summarium read at full measure on p. 437 and shown to agree with the body at 42 ¶¶, span fixed positively from COLLATIO XXIII. printed part-way down p. 444, two [?] flags on printed gaps the edition declines to fill (p. 439 ¶ 11, p. 444 ¶ 42) (2026-08-20)"
 format_version: 1
 ---
 
@@ -452,3 +452,187 @@ Et dicebat, quod etiam antequam haberet habitum, raptus fuit et inventus iuxta q
 [^p444-2]: **La.** Cfr. Apoc. 11, 19. et 21, 2. seqq.
 
     **En.** Cf. Apoc. 11:19 and 21:2 ff.
+
+---
+
+## Notes
+
+**Provenance.** Printed pp. 437–444 (PDF 513–520), raw L73700–L74807. Latin set from the raw and
+checked page by page against 450 dpi column bands; the apparatus read entirely off the footer bands
+at 2.2–2.4× (Vol V's raw carries no footnote numerals at all). Full per-page scouting, with every
+entry against its anchor, is banked in `manual-review/hex-c22-plate-scouting.md`.
+
+**Span — fixed positively at both ends.** Opens part-way down **p. 437**, below Collatio XXI's last
+seven lines; the display heading `COLLATIO XXII.` carries **no apparatus anchor** (twenty-two
+openings read, and only `COLLATIO I.` has one). Closes part-way down **p. 444**, where
+`COLLATIO XXIII.` prints, below *…videt duas visiones, scilicet arcam et civitatem.*
+⚠ **The running head mis-named the boundary leaf for the FIFTH consecutive collatio** — p. 444's
+head already reads `IN HEXAËMERON COLLATIO XXIII.` while XXII still fills the top of the leaf. That
+is now five in a row (pp. 419, 424, 431, 437, 444); it is what a running head does in this work, not
+a streak.
+
+**The Summarium promised 42 ¶¶ and the body delivers 42.** Read at full measure on p. 437, where it
+fills most of the lower half of the leaf; it carries no anchor. Two digit-class readings the band
+settled against the raw inside it: `5. 6.` (raw `g. 6.`) and `de Papa, 14. 15.` (raw `14. 13.`).
+
+**Apparatus: 54 entries owned** — p. 437 n. 2 · p. 438 nn. 1–7 · p. 439 nn. 1–8 · p. 440 nn. 1–7 ·
+p. 441 nn. 1–10 · p. 442 nn. 1–8 · p. 443 nn. 1–11 · p. 444 nn. 1–2.
+- **Picked up:** p. 437 n. 2 (`Apoc. 12, 1. — De seqq. cfr. collat. praeced.`), forwarded by c21.
+  **Re-derived, not adopted:** its ownership, its column (¶ 1, LEFT column) and its block (it prints
+  in the RIGHT block) were each checked on the band. Block ≠ column on that leaf.
+- **Left with Collatio XXI:** p. 437 n. 1 (`Cfr. supra n. 20-23.`), which answers XXI's last word.
+- **Forwarded to `bon-hex-c23`:** p. 444 n. 3, `Gen. 1, 16. — Immediate post datur summa collat. 21.
+  et 22.` Its anchor stands in XXIII's ¶ 1, below XXII's close. **Re-derive it there.**
+- **One runover carried within the chunk:** p. 443 n. 11 (the *ecliptica* note) continues at the head
+  of p. 444's register and is rendered joined into the `p443-11` entry. Logged once, as one runover.
+
+**★★ BLOCK AND ANCHOR BREAK DISAGREED ON EVERY SINGLE INTERIOR LEAF — six leaves, six
+disagreements, and not one coincidence.** p. 438 by one · p. 439 by two · p. 440 by one · p. 441 by
+one · p. 442 by two · p. 443 by one. In c21 the two lines coincided on three of seven leaves. **The
+lesson is the standing one and it is now cheap to state: the footer block's extent tells you nothing
+about which column a note's anchor is in.** Read anchors, only anchors.
+
+**⚠⚠ TWO `[?]` FLAGS — BOTH ARE PRINTED GAPS THE EDITION DECLINES TO FILL, AND THEY ARE DIFFERENT
+IN SHAPE.**
+1. **p. 439 ¶ 11:** the line prints `Ordo *lectorum* est,` — then a blank of about three characters —
+   `homo purgetur a nubilo igno-`. Read at 3.0×: no ink in the blank, while the neighbouring
+   word-spaces on the same line are normal. Sense wants *ut* (cfr. *ordo ostiariorum, ut excludantur*
+   three lines above), and the edition does not supply it.
+2. **p. 444 ¶ 42:** the line ends `…et cadit a luce in tenebras horribiles.` with **the rest of the
+   measure left blank**, and the next line resumes **lower-case** *similiter per errorem
+   aestimationis…* Read at 6×, the three marks standing in the blank are isolated specks of differing
+   height and weight — **foxing, not type**; there is no em-dash there, and the fully inked `— Unde`
+   two lines below is the control. Sense wants *Et.*
+Both are rendered as printed, `[?]` at the gap in both languages, neither emended. Same species as
+`bon-hex-c19` p. 421 ¶ 7. **The new corpus baseline, as `check-live-flags.py vol5` derives it, is
+10 occurrences / 5 flags** (it was 6 / 3) — two flags, each mirrored in both languages. Cite the
+script, never a count of gaps.
+
+**★★ TWO ANCHORS THE PLATE REFUSED, AND THEY FAILED DIFFERENTLY.**
+1. **p. 438 ¶ 8** — the raw marks *ad carnem convertebantur^*; **there is nothing on the plate at
+   all** (read at 1.26×), and the register holds exactly seven entries for seven anchors.
+2. **p. 443 ¶ 36** — the raw marks *quia haec triplex libido inducit'*; the plate **does** carry a
+   small high stroke there, but at 4× it is a short oblique speck, not a digit, and the numbering
+   leaves no room for it: n. 1 already answers the *triplex libido* in its second half (I John 2:16)
+   and n. 2 is Canticles.
+**Vol V's raw renders every superscript as punctuation, so it manufactures markers as freely as it
+loses them. A raw marker count is evidence of nothing.** Neither mark is transcribed.
+
+**★ ONE NOTE, TWO ANCHORING DUTIES.** p. 443 n. 1 is `Ioan. 14, 30. — Epist. I. Ioan. 2, 16: …`; its
+first half answers *in me non habet quidquam¹* and its second half answers the *triplex libido* three
+lines below, which carries no anchor of its own. This is why the stray speck above had to be refused
+rather than promoted: the register is already complete without it.
+
+**★ A SCRIPTURE-SHAPED STRING THAT IS NOT SCRIPTURE.** p. 442 n. 8 reads `Num. 24. seqq.` — `Num.`
+is *numeros,* pointing back to **this collatio's own ¶¶ 24 seqq.** (*industria cum natura*), which is
+exactly what *ut dicebatur primo* refers to. Checked after the build: `build-citations.py` emitted
+**no record at all** for that entry, so nothing false entered the Scripture index. Recorded because
+the next such note may not fail so safely.
+
+**★ READINGS THE BAND SETTLED AGAINST THE RAW.**
+1. **¶ 24 `*Pulcra* dicitur *sicut Ierusalem*³`** — the raw gives `Pulcra dicitur ^^^^ lerusalem`, its
+   middle overrun by the marginal gloss *supernae.* The word is *sicut,* and n. 3 (Cant. 6, 3)
+   confirms it.
+2. **p. 440 n. 7 `Colloquium 15.`** — the raw gives `Colloquium 18.` Read at 2.2×; this is the 5/8
+   confusion, not the usual 3/5 or 1/4, and **no sense-check could have caught it.**
+3. **p. 442 n. 4 `Libr. II. homil. 5. n. 8. seqq.`** — the raw gives `lioniil. H.`; Gregory's three
+   grades (*extra nos / intra nos / supra nos*) are indeed *Hom. in Ezech.* II, hom. 5.
+4. **p. 442 n. 7 `Apoc. 22, 15`** (raw `22, 13`) — 15 is also the verse that carries *foras canes.*
+5. **p. 439 n. 1 `collat. 19. n. 4.`** — read at 3.2×, **arabic 19.** ⚠ Collatio numbers in this
+   work's register are arabic (`collat. 22. n. 1.` at c21), while p. 438 n. 3's `collat. I.` is
+   roman. **Both forms are live in the same chunk; read each one.**
+6. Smaller: ¶ 3 `Distinguuntur` (raw *Distmguuntur*) · ¶ 7 `in ordine virginum privilegia castitatis`
+   (the raw inserts a comma after *virginum*).
+
+**⚠ NOT APPARATUS, AND NOT TRANSCRIBED.** p. 441's left footer block closes with the gathering
+signature `S. Bonav. — Tom. V.` and its right block with the sheet number `56`. Recorded so that a
+later reader does not take `56` for a note number.
+
+**Gutters — every one measured on the region actually transcribed.**
+
+| page | region | band | value |
+|---|---|---|---|
+| 437 | XXII's rows only, 0.78–0.92 | 1181–1242 (62 px), island 1210–1214, windows spread 0 px | **1211** |
+| 438 | body | 1276–1335 (60 px), island 1302–1310 (peak 664) | **1305** |
+| 439 | body | 1166–1219 (**54 px**), island 1185–1198 (14 px) | **1192** |
+| 440 | body | 1289–1346 (58 px), island 1314–1323 | **1317** |
+| 441 | body | 1173–1232 (60 px), island 1200–1206 (peak 702) | **1202** |
+| 442 | body | 1329–1390 (62 px), island 1357–1362 | **1359** |
+| 443 | body | 1169–1230 (62 px), island 1197–1203 (peak 1094) | **1199** |
+| 444 | XXII's rows only, 0.06–0.20 | 1300–1362 (63 px), island 1329–1332, windows spread 0 px | **1331** |
+
+- **p. 439's sub-60 band is the inked centre rule, and the skew screen said so** — drift 8 px, no
+  skew, `ONE SPLIT SUFFICES`, and all twenty-four windows agreeing within 2 px. Run width is the
+  confidence signal; here the *agreement of the windows* is what redeems a narrow run.
+- **p. 444 is the region rule's textbook case, and it announces its own failure.** The default
+  whole-body window returns six slices with **no low-ink run at all** and a spurious 241 px "drift",
+  because the leaf stacks XXII's body, `COLLATIO XXIII.`'s display heading, its subtitle and its
+  full-measure Summarium. Profiling XXII's rows alone gives a 63 px band with zero spread.
+- pp. 440 and 442 both report a ~110 px whole-window spread; in each case the outliers are the
+  windows that land on the footer register, and the body windows agree to 1 px.
+
+**Register — carried from c21 and extended for the ecclesiastical and psychological vocabulary.**
+*hierarchizata / hierarchizatur* → "made hierarchic" (frozen at c20) · *hierarchizatio* →
+"making-hierarchic" · *sursumactivus / sursumactio* → "upward-acting / upward-action" (c21) ·
+*actuosum, otiosum, permixtum* → "active, leisured, mixed" (c21) · *virilitas* → "manfulness"
+(*virilis* → "manful", c21) · *ordo praesidentium* → "the order of those presiding" ·
+*ordo magistratuum* → "the order of masters" (the reportatio glosses it itself: *magistros seu
+docentes*) · *ordo regularium* → "the order of regulars" · *regulantes et regulati* → "those
+regulating and the regulated" · *ostiarii, lectores, exorcistae* → "porters, readers, exorcists" ·
+*acolythi, subdiaconi, levitae* → "acolytes, subdeacons, levites" · *purgativi, illuminativi,
+perfectivi* → "purgative, illuminative, perfective" · *nuntiatio, dictatio, ductio* → "announcement,
+dictation, leading" · *perlustratio, praeelectio, prosecutio* → "surveying, prior choice, pursuit" ·
+*castigatio, confortatio, convocatio* → "chastisement, strengthening, calling-together" ·
+*admissio, inspectio, inductio* → "admission, inspection, leading-in" · *susceptio, revelatio, unio*
+→ "receiving, revelation, union" · *susceptivae, custoditivae, distributivae* → "receptive,
+custodial, distributive" · *vivacitas desiderii, perspicacitas scrutinii, tranquillitas iudicii* →
+"liveliness of desire, perspicacity of scrutiny, tranquillity of judgment" · *libido principandi,
+delectandi, possidendi* → "the lust of ruling, of delighting, of possessing" · *luciferianus* → "a
+Luciferian" · *praesumtio* → "presumption" · *error aestimationis* → "error of estimation".
+- ⚠ ***excessus* occurs once, in ¶ 22** (*ecstaticum seu excessivum* → "ecstatic or excessive"),
+  after being wholly absent from c21. Recorded because its absence there was recorded.
+- ⚠ ***unio* is Quaracchi's deliberate choice here and they say so** (p. 441 n. 7: they kept *unio*
+  with the codices, though elsewhere they printed *unctio*). Rendered "union", and ¶ 27's
+  *unitionibus* "unitings" beside it.
+
+**Marginalia** (trimmed from the body per the standing Vol V convention; body order).
+p. 437 (XXII's region): *Introductio.* · *Repetitio.*
+p. 438: *Pars I. De secundo visionis obiecto.* · *Ecclesia militans necessaria ad illuminandum.* ·
+*Ordines eius respondent hierarchiae supernae.* · *Distinguuntur tripliciter.* · *Distinctio prima.* ·
+*Subdistinctio.* · *Fundamentales ordines.* · *Notandum.* · *Hi sunt tres.* · *Correspondentia
+horum.* · *Promotivi tres.* · *Correspondentia.* · *Consummantes tres.*
+p. 439: *Correspondentia.* · *Distinctio secunda.* · *Gradus tres.* · *Primus triplicatur.* ·
+*Ostiarii.* · *Lectores.* · *Exorcistae.* · *Item, secundus.* · *Acolythi.* · *Subdiaconi.* ·
+*Diaconi.* · *Correspondentia.* · *Item, tertius.* · *Sacerdotes.* · *Episcopi.* · *Patriarchae et
+Papa.*
+p. 440: *Correspondentia.* · *Distinctio tertia.* · *Triplex vita.* · *Correspondentia.* · *Tres
+status.* · *Laici; gradus tres.* · *Correspondentia.* · *Notandum.* · *Clerici.* · *Tres gradus.* ·
+*Correspondentia.* · *Contemplantes.* · *Triplex vitae modus.* · *Primus.* · *Correspondentia.* ·
+*Secundus.* · *Ordines Praedicatorum et Minorum.* · *Franciscus.* · *Tertius.* · *Ordo seraphicus.*
+p. 441: *Corpus enervatur tali contemplatione.* · *Correspondentia.* · *De apparitione Seraph facta
+Francisco.* · *Notandum.* · *Pars II. De tertio visionis obiecto.* · *Anima hierarchizata habet
+gradus respondentes hierarchiae supernae.* · *Gradus disponuntur tripliciter.* · *Primo, secundum
+ascensum tripliciter.* · *Quoad primum sunt 3 gradus cum correspondentia.* · *Gradus primus.* ·
+*Secundus.* · *Tertius.* · *Item, quoad secundum.* · *Item, quoad tertium.* · *Secundo disponuntur
+sec. descensum tripliciter.* · *Quoad susceptionem tria requiruntur.*
+p. 442: *De primo et eius correspondentia.* · *De secundo.* · *De tertio.* · *Item, quoad
+custoditionem.* · *Item, quoad distributionem.* · *Notandum.* · *Tertio disponuntur sec. regressum
+tripliciter.* · *Animae operationes tres.* · *Quoad potentias exteriores tria requiruntur.* · *De
+primo.* · *Notandum.* · *De secundo.* · *De tertio.* · *Item, quoad potentias interiores.* · *De
+primo.*
+p. 443: *Triplex libido.* · *Correspondentia.* · *De secundo.* · *Triplex infirmitas.* · *De
+tertio.* · *Triplex dominatio.* · *Item, quoad potentias superiores tripliciter.* · *De primo.* ·
+*De secundo.* · *De tertio.* · *Correspondentia.* · *Epilogus.* · *Duodecim lumina.* · *Duplex lunae
+eclipsis.*
+p. 444 (XXII's region): *Applicatio.* · *Duplex causa ruinae.* — and the right column of that region
+carries **no gloss at all**, checked at 1.3× and 2.6×. A negative, recorded so it is not read as an
+omission.
+
+**Verification.** `check-vol5-apparatus.py` **112 chunks / 1,811 entries**, the only PENDING being
+p. 444 n. 3 forwarded to c23 · `check-vol5-census.py` **112/112**, 146 runovers (131 gutter-crossing,
+15 page-crossing) · `polish-style-scan --volume 5` **CLEAN across 112 files** ·
+`check-live-flags.py vol5` **10 occurrences / 5 flags** (was 6 / 3; this chunk adds two flags,
+mirrored) · `build-content.mjs` **2063/2063, 8 books** · `build-citations.py` QA flags **200,
+unchanged**, this chunk contributing **49 records — 35 verse, 11 chunk, 2 page-multi, 1 forward
+(`pag. 195, nota 7`, a Vol V work not yet translated), ZERO dangling and zero out-of-range.**
+Marker pairing 54 / 54 / 54 in identical order; 42 numbered ¶¶ in each language.
