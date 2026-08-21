@@ -325,6 +325,7 @@ const WORKS = {
       18: "Collatio XVIII: De tertia visione tractatio sexta, quae agit de theoriis Scripturae significatis per fructus, et quidem quatenus reficiunt affectum",
       19: "Collatio XIX: De tertia visione tractatio septima et ultima, quae agit de recta via et ratione, qua fructus Scripturae percipiantur, sive qua per scientiam et sanctitatem ad sapientiam perveniatur",
       20: "Collatio XX: De quarta visione, scilicet intelligentiae per contemplationem suspensae, tractatio prima, quae agit in genere de triplici obiecto huius contemplationis sive de contemplatione caelestis hierarchiae, militantis Ecclesiae et mentis humanae hierarchizatae",
+      21: "Collatio XXI: De quarta visione tractatio secunda, quae specialiter agit de primo obiecto intelligentiae per contemplationem suspensae, nempe de consideratione hierarchiae caelestis",
       24: "Scholion",
     },
   },

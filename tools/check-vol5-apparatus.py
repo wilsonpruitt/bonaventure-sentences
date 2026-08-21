@@ -1817,6 +1817,12 @@ KNOWN_TOTALS = {
     429: 10,  # n.5 runs over the gutter; block and anchor splits coincide at 5/5
     430: 9,   # n.6 runs over the gutter; left block overruns by one
     431: 3,   # BOUNDARY LEAF: n.1 is Collatio XX's, nn.2-3 are Collatio XXI's
+    432: 7,   # both blocks open numbered; no runover; block and anchor splits coincide at 4/3
+    433: 8,   # n.5 runs over the gutter; splits coincide at 4/4; left block closes with the tome signature
+    434: 6,   # left block UNDERRUNS the column division by one (n.4 anchors left, prints right)
+    435: 9,   # both blocks open numbered; no runover; splits coincide at 4/5
+    436: 6,   # n.4 (Dionysius) runs over the gutter; left block OVERRUNS by two
+    437: 2,   # BOUNDARY LEAF: n.1 is Collatio XXI's, n.2 is Collatio XXII's
 }
 
 
