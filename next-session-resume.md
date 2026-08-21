@@ -1,5 +1,94 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **`bon-hex-c23`** (Collatio XXIII), THE **LAST COLLATIO**. ITS DISPLAY HEADING PRINTS **PART-WAY DOWN p. 444**, BELOW COLLATIO XXII's CLOSE.
+>
+> ## ✅ `bon-hex-c22` IS TIER 2 — pp. 437–444, 42 ¶¶, 54 apparatus entries, two `[?]` (2026-08-20)
+> Commit `877ff8b`. Suite in-session: `check-vol5-apparatus.py` **112 chunks / 1,811 entries**, the
+> only PENDING being p. 444 n. 3 forwarded to c23 · `check-vol5-census.py` **112/112**, 146 runovers
+> (131 gutter-crossing, 15 page-crossing) · `polish-style-scan --volume 5` **CLEAN** ·
+> `check-live-flags.py vol5` **10 occurrences / 5 flags — THE BASELINE MOVED** (it was 6 / 3;
+> c22 adds two flags, each mirrored in both languages) · `build-content.mjs` **2063/2063, 8 books** ·
+> `build-citations.py` QA flags **200, unchanged**, c22 contributing **49 records — 35 verse,
+> 11 chunk, 2 page-multi, 1 forward, ZERO dangling and zero out-of-range.**
+> Marker pairing 54 / 54 / 54 in identical order; 42 numbered ¶¶ in each language.
+> ⚠ Nothing pushed; push and deploy are protected.
+>
+> ## ★★ WHAT c23 INHERITS — ONE NOTE, READ ON THE BAND
+> - **p. 444 n. 3 IS COLLATIO XXIII's.** The leaf's register holds the runover of p. 443 n. 11, then
+>   n. 1 and n. 2 (both XXII's, at ¶ 42), then **n. 3 — `Gen. 1, 16. — Immediate post datur summa
+>   collat. 21. et 22.`** — which answers XXIII's own ¶ 1. ⚠ **Re-derive it. A hand-off tells you
+>   which notes are yours and never where they land.**
+> - **Collatio XXIII opens part-way down p. 444**: display heading, a two-line subtitle *De quarta
+>   visione tractatio quarta, quae continuat agere de tertio obiecto huius visionis, quod est ipsa
+>   anima hierarchizata,* then a full-measure Summarium, then the two-column body at
+>   *1. Vidi civitatem…* (read the opener on the band; do not take it from the raw).
+> - **COUNT THE ¶¶ ON THE BANDS.** The Summarium is a finding aid, never the count — though it has
+>   now been right three collationes running (c21 33/33, c22 42/42).
+> - **Raw L74808 → ~L75600s**; the work-level **Scholion** follows at ~p. 450–454 and
+>   *de septem donis* opens at **p. 457**, which bounds the far end. ⚠ **Scouting only. Fix the far
+>   end positively on the band.**
+> - ⚠ **Whether `COLLATIO XXIII.` carries an anchor is your first band question** — twenty-two
+>   openings read and only `COLLATIO I.` has one.
+> - **p. 444 is extracted and on disk; pp. 445+ are NOT.** `python3.11 tools/extract-pages.py
+>   --volume vol5 --pages 445-450 --dpi 450` (~7 minutes). ⚠ `df -h /` first — **6.9 GB free** after
+>   this session's seven leaves. ⚠ The extractor reported six pages "errored — pdftoppm produced no
+>   output" while in fact writing all six correctly; **check the directory before believing it.**
+> - ⚠ **p. 444's gutter for XXIII's region is NOT the 1331 measured for XXII's.** That value was
+>   measured on rows 0.06–0.20 only. The leaf stacks four regions; **profile the region you are
+>   transcribing** — and the default whole-body window fails outright there and says so.
+>
+> ## ★★ What Collatio XXII paid for — carry these
+> - **★★★ BLOCK AND ANCHOR BREAK DISAGREED ON ALL SIX INTERIOR LEAVES, AND NOT ONCE COINCIDED**
+>   (by 1, 2, 1, 1, 2, 1). In c21 they coincided on three of seven. **Read anchors, only anchors.**
+> - **★★ THE RUNNING HEAD MIS-NAMED THE BOUNDARY LEAF FOR THE FIFTH COLLATIO RUNNING** (pp. 419,
+>   424, 431, 437, 444). Stop treating it as remarkable; it is what the running head does here.
+> - **★★ THE RAW MANUFACTURES ANCHORS AS FREELY AS IT LOSES THEM — twice in one chunk, and the two
+>   failed differently.** p. 438 ¶ 8: the raw marks *convertebantur^* and **the plate has nothing
+>   there at all.** p. 443 ¶ 36: the plate **does** carry a small high stroke after *inducit,* but at
+>   4× it is an oblique speck, not a digit, and the register leaves no room for it. **A raw marker
+>   count is evidence of nothing; the register and the anchors decide together.**
+> - **★★ TWO PRINTED GAPS, DIFFERENT IN SHAPE, BOTH `[?]`** — p. 439 ¶ 11 (`Ordo *lectorum* est,` +
+>   a three-character blank + `homo purgetur`) and p. 444 ¶ 42 (line ends at *horribiles.* with the
+>   measure left blank; next line resumes lower-case *similiter*). At 6× the marks in the second gap
+>   are foxing, not a worn em-dash — the fully inked `— Unde` two lines below is the control.
+> - **★★ A NARROW BAND CAN BE REDEEMED BY THE WINDOWS, NOT ONLY BY THE SKEW SCREEN** — p. 439's
+>   54 px band came with drift 8 px and **all twenty-four windows inside 2 px.** Agreement is
+>   evidence; run width alone would have condemned a sound measurement.
+> - **★ ONE NOTE CAN CARRY TWO ANCHORING DUTIES** — p. 443 n. 1's two halves answer two places, and
+>   only one of them has a marker. That is why the speck at *inducit* had to be refused.
+> - **★ A SCRIPTURE-SHAPED STRING THAT IS NOT SCRIPTURE** — p. 442 n. 8's `Num. 24. seqq.` is
+>   *numeros,* pointing at this collatio's own ¶¶ 24 ff. `build-citations.py` emitted **no record**,
+>   so nothing false entered the index; the next one may not fail so safely.
+> - **★ ROMAN AND ARABIC COLLATIO NUMBERS ARE BOTH LIVE INSIDE ONE CHUNK** — p. 438 n. 3
+>   `collat. I.` against p. 439 n. 1 `collat. 19.` Read each one; do not calibrate on the last.
+> - **★ THREE DIGIT READINGS THE BAND OVERTURNED:** `Colloquium 15.` (raw 18 — the 5/8 class, which
+>   no sense-check catches), `homil. 5.` (raw `H.`), `Apoc. 22, 15` (raw 22, 13).
+> - **★ REGISTER, reuse it:** *hierarchizatio* → "making-hierarchic" · *ordo magistratuum* → "the
+>   order of masters" · *regulantes et regulati* → "those regulating and the regulated" ·
+>   *nuntiatio, dictatio, ductio* → "announcement, dictation, leading" · *perlustratio, praeelectio,
+>   prosecutio* → "surveying, prior choice, pursuit" · *castigatio, confortatio, convocatio* →
+>   "chastisement, strengthening, calling-together" · *admissio, inspectio, inductio* → "admission,
+>   inspection, leading-in" · *susceptio, revelatio, unio* → "receiving, revelation, union" ·
+>   *ecstaticum seu excessivum* → "ecstatic or excessive" · *luciferianus* → "a Luciferian".
+>
+> ## ⚠ STILL OWED BEFORE/WITH THE NEXT DEPLOY
+> 1. **The mid-work gate's `Dictae salutis` fix is still NOT LIVE** (`bon-hex-c8`, p. 372 n. 1).
+> 2. The About page's **"What Is Known to Be Wrong"** section — Wilson's to frame.
+> 3. **`bon-sent-I-d25-littera` `[^17]`'s `pag. 19` → almost certainly `pag. 49`** — d.25's plate has
+>    still not been opened; it resolves cleanly and WRONGLY in the meantime.
+> 4. **Forwarded defect, nobody's fix yet:** Quaracchi cite `IV. Sent. d. 2. p. I.` but Book IV's
+>    d. 2 has no pars chunks. Hand it to whoever works Book IV's body.
+> 5. **`bon-sent-I-prol-comm` p. 24 n. 2's `d. 18. p. I.`** — jointly impossible; leave the flag.
+>
+> ## Cadence from here
+> **One gate remains: the work close**, at the Scholion (~p. 454). The deploy rides with it. Push
+> and deploy are both protected. **c23 is the last collatio; then the Scholion, then the gate.**
+
+---
+
+# (superseded) `bon-hex-c22` — DONE 2026-08-20
+
+
 > # ▶▶▶ START HERE — **`bon-hex-c22`** (Collatio XXII), WHOSE DISPLAY HEADING PRINTS **PART-WAY DOWN p. 437**, BELOW COLLATIO XXI's LAST SEVEN LINES.
 >
 > ## ✅ `bon-hex-c21` IS TIER 2 — pp. 431–437, 33 ¶¶, 39 apparatus entries, zero `[?]` (2026-08-20)
