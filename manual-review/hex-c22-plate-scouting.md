@@ -196,3 +196,36 @@ Marginalia p. 443 (body order). L: *Triplex libido.* · *Correspondentia.* · *D
 *Triplex infirmitas.* · *De tertio.* · *Triplex dominatio.* · *Item, quoad potentias superiores
 tripliciter.* R: *De primo.* · *De secundo.* · *De tertio.* · *Correspondentia.* · *Epilogus.* ·
 *Duodecim lumina.* · *Duplex lunae eclipsis.*
+
+### p. 444 — the closing leaf: p. 443 n. 11's runover + 2 entries owned + 1 forwarded
+Gutter **1331** for XXII's region (rows 0.06–0.20): BAND 1300–1362 (63 px), island 1329–1332
+(4 px), windows spread 0 px. ⚠ **the default whole-body window is worthless on this leaf and says
+so** — `--skew` reports six slices with no run at all and a spurious 241 px "drift", because the
+leaf stacks XXII's body, `COLLATIO XXIII.`'s display heading, its two-line subtitle and its
+full-measure Summarium. Profile XXII's rows only, which is what the region rule is for.
+- **runover (no number): p. 443 n. 11 continues here**, across both blocks:
+  `-psis accidere possit, dum scil. alius planetarum, v. g. luna, cum sole, qui in cursu suo hanc lineam semper servat, in ipsa reperitur. Illud autem punctum, in quo eclipses contingunt, vocatur caput, vel cauda draconis, quod non est aliud quam punctum intersectionis eclipticae cum circulo planetarum deferente. Isti enim circuli, ita se intersecantes, quasi figuram duorum serpentium efficiunt, et ubi se tangunt, caput, vel cauda draconis appellatur. Cfr. S. Thom., in II. de Caelo et mundo, lect. 13.`
+  Rendered joined into `p443-11`; **logged once, as one runover.**
+- n. 1 `Matth. 17, 3.` — `apparuerunt Christus, Moyses et Elias ¹` (¶ 42)
+- n. 2 `Cfr. Apoc. 11, 19. et 21, 2. seqq.` — `arcam et civitatem ²` (¶ 42)
+- **n. 3 `Gen. 1, 16. — Immediate post datur summa collat. 21. et 22.` FORWARDS TO `bon-hex-c23`** —
+  its anchor is in XXIII's ¶ 1, below XXII's close. Hand it on; re-derive it there.
+
+## ✅ SPAN CLOSED POSITIVELY — pp. 437–444
+`COLLATIO XXIII.` prints **part-way down p. 444**, below XXII's last words
+*…videt duas visiones, scilicet arcam et civitatem².* The running head on p. 444 already reads
+`IN HEXAËMERON COLLATIO XXIII.` while XXII still fills the top of the leaf — **the running head
+mis-names the boundary leaf for the FIFTH consecutive collatio.** Raw L73700–L74807.
+**The body delivers 42 ¶¶ and the Summarium promised 42.**
+
+⚠⚠ **A SECOND PRINTED GAP, ¶ 42, p. 444 right column — different in shape from p. 439's.** The line
+ends `…et cadit a luce in tenebras horribiles.` with **the rest of the measure left blank**, and the
+next line resumes **lower-case** *similiter per errorem aestimationis…* Read at 6×: the three marks
+standing in the blank are isolated specks of differing height and weight — **foxing, not type**;
+there is no em-dash there (contrast the fully inked `— Unde` two lines below). Sense wants *Et.*
+Same species as p. 439 ¶ 11 and `bon-hex-c19` p. 421 ¶ 7: **a gap the edition declines to fill.**
+Rendered as printed with `[?]` in both languages.
+
+Marginalia p. 444 (XXII's region only). L: *Applicatio.* · *Duplex causa ruinae.* R: none —
+checked at 1.3× and 2.6×; the right column of XXII's region carries no gloss. A negative, recorded
+so it is not read as an omission.
