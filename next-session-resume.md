@@ -1,5 +1,94 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **`bon-hex-c22`** (Collatio XXII), WHOSE DISPLAY HEADING PRINTS **PART-WAY DOWN p. 437**, BELOW COLLATIO XXI's LAST SEVEN LINES.
+>
+> ## ✅ `bon-hex-c21` IS TIER 2 — pp. 431–437, 33 ¶¶, 39 apparatus entries, zero `[?]` (2026-08-20)
+> Commit `28dbbed`. Suite in-session: `check-vol5-apparatus.py` **111 chunks / 1,757 entries**, the
+> only PENDING being p. 437 n. 2 forwarded to c22 · `check-vol5-census.py` **111/111**, 141 runovers
+> (127 gutter-crossing, 14 page-crossing) · `polish-style-scan --volume 5` **CLEAN** ·
+> `check-live-flags.py vol5` **6 occurrences / 3 flags — UNCHANGED** · `build-content.mjs`
+> **2062/2062, 8 books** · `build-citations.py` QA flags **200, unchanged**, c21 contributing
+> **40 records — 19 verse, 12 chunk, 5 page-multi, 3 distinctio, 1 forward, ZERO dangling and zero
+> out-of-range.** Marker pairing 39 / 39 / 39 in identical order; 33 numbered ¶¶ in each language.
+> ⚠ Nothing pushed; push and deploy are protected.
+>
+> ## ★★ WHAT c22 INHERITS — ONE NOTE, READ ON THE BAND
+> - **p. 437 n. 2 IS COLLATIO XXII's.** The leaf's register holds two entries; **n. 1 is XXI's**
+>   (it answers XXI's last word, *…Angelorum, nuntiare¹*), and n. 2 — `Apoc. 12, 1. — De seqq. cfr.
+>   collat. praeced.` — answers XXII's own ¶ 1 at *stellarum duodecim²*, printing in the RIGHT block.
+>   ⚠ **Re-derive it. A hand-off tells you which notes are yours and never where they land.**
+> - **Collatio XXII opens part-way down p. 437**: display heading, a two-line subtitle *De quarta
+>   visione tractatio tertia, quae specialiter agit tum de secundo obiecto huius visionis, nempe de
+>   consideratione militantis Ecclesiae, tum de tertio, quod est ipsa anima hierarchizata,* then a
+>   full-measure Summarium filling most of the lower half, with the two-column body opening at
+>   roughly 80 % of the leaf at *1. Signum magnum apparuit in caelo…*
+> - **The p. 437 Summarium ends `…Hoc applicatur ad contemplativum virum deficientem, 42.` — so
+>   COUNT 42 ¶¶ on the bands.** (c21's Summarium promised 33 and the body delivered 33; c6's ran
+>   three short and c14's one short. The synopsis is a finding aid, never the count.)
+> - **Raw L73700 → ~L74807**; `COLLATIO XXIII.` at **L74808**, which the running heads put on
+>   **p. 444** — so the span is likely **pp. 437–444**, closing part-way down that leaf. ⚠ **Scouting
+>   only. Fix the far end positively on the band from the printed `COLLATIO XXIII.` header.**
+> - ⚠ **Whether `COLLATIO XXII.` carries an anchor is your first band question** — twenty-one
+>   openings read and only `COLLATIO I.` has one.
+> - **p. 437 is extracted and on disk; pp. 438–444 are NOT.** `python3.11 tools/extract-pages.py
+>   --volume vol5 --pages 438-444 --dpi 450` (~9 minutes). ⚠ `df -h /` first — the machine had
+>   **6.2 GB free** before this session's seven leaves.
+> - ⚠ **p. 437's gutter was NOT measured** — c21 held only seven lines at the head of that leaf and
+>   read them full-width at 2.4×; `gutter-profile.py` fails outright on a region that short and says
+>   so. The leaf stacks XXI's tail, a display heading, a full-measure Summarium and XXII's body:
+>   **profile the region you are transcribing.**
+>
+> ## ★★ What Collatio XXI paid for — carry these
+> - **★★★ COMPOSING LATIN FROM MEMORY AT A PAGE JOINT IS THE ONE MISTAKE THIS WORKFLOW CANNOT
+>   ABSORB, AND IT HAPPENED HERE.** ¶ 9's continuation onto p. 433 was first written as a plausible
+>   reconstruction (*…betur furtum, sed omnis actus iniquus…*) instead of being taken from the raw
+>   and the band; the true text is *…betur alienum, immo praecipitur, ut de suo det.* It parsed, it
+>   scanned, it read like Bonaventure, and **no audit in the suite could have caught it** — the
+>   apparatus check, the census, the style scan and the citation index all verify structure, not
+>   wording. It was caught only because the raw was printed out again before the English was
+>   written. **Never type a joint from recall; print the raw for the joint and read the band.**
+> - **★★ THE RUNNING HEAD MIS-NAMED THE BOUNDARY LEAF FOR THE FOURTH COLLATIO RUNNING** (p. 419,
+>   p. 424, p. 431, now p. 437). It is not a streak; it is what a running head does here.
+> - **★★ FIVE CONSECUTIVE BOUNDARY LEAVES, FIVE SHAPES** — p. 414 split 3/1 · p. 419 all-earlier ·
+>   p. 424 all-earlier · p. 431 1 earlier / 2 later · p. 437 1 earlier / 1 later. Read the anchors.
+> - **★★ BLOCK-vs-ANCHOR DIRECTION REVERSED INSIDE ONE CHUNK WITH THREE COINCIDENCES BETWEEN THE
+>   MISMATCHES** — p. 434 underran by one, p. 435 coincided, p. 436 overran by two. A run is never
+>   a rule, and neither is a lull.
+> - **★★ A SUB-60 px BAND WAS RIGHT TWICE FOR TWO DIFFERENT REASONS, AND THE SKEW SCREEN SAID SO** —
+>   p. 432 (59 px) is a heavily inked rule (drift 6 px); p. 434 (54 px) is a real monotonic walk
+>   1313→1324. One split sufficed on both. **Run `gutter-profile --skew` on every sub-60 leaf; it
+>   distinguishes the two causes and it costs nothing.** ⚠ On a SHORT region its thin slices land on
+>   marginalia and it reports a spurious 98 px "drift" (p. 431) — believe its own warning.
+> - **★ TWO RAW READINGS THE BAND OVERTURNED:** ¶ 5 `origo **originans**` (raw *originatis*) and
+>   ¶ 16 `Et **has** illuminationes` (raw *Et istas*, its opener overrun by the `Pars II.` gloss).
+> - **★ A LEAF CAN CARRY NO MARGINAL GLOSS AT ALL** — p. 437's seven lines have none in either
+>   margin, checked at 2.1×. Recorded as a negative so it is not read as an omission.
+> - **★ REGISTER, reuse it:** *vigens / fulgens / calens* → "vigorous / resplendent / warm"
+>   (*fulgens* takes "resplendent" so *splendor* keeps "splendour") · *celsitudine pollens* → "mighty
+>   in loftiness" · *fortitudine praesidens* → "presiding in fortitude" · *dulcedine pascens* →
+>   "feeding with sweetness" · *authenticus, praevalidus, invictus* → "authoritative, prevailing,
+>   unconquered" · *virilis* → "manful" · *strenuus, sagax, sedulus* → "strenuous, sagacious,
+>   sedulous" · *sursumactiva* → "upward-acting" · *discretiva* → "discretive" · *actuosa, otiosa,
+>   permixta* → "active, leisured, mixed" · *formositas* → "comeliness" · *influentia* → "influence"
+>   · *deiformitas* → "deiformity" · *hierarchizata* → "made hierarchic".
+>
+> ## ⚠ STILL OWED BEFORE/WITH THE NEXT DEPLOY
+> 1. **The mid-work gate's `Dictae salutis` fix is still NOT LIVE** (`bon-hex-c8`, p. 372 n. 1).
+> 2. The About page's **"What Is Known to Be Wrong"** section — Wilson's to frame.
+> 3. **`bon-sent-I-d25-littera` `[^17]`'s `pag. 19` → almost certainly `pag. 49`** — d.25's plate has
+>    still not been opened; it resolves cleanly and WRONGLY in the meantime.
+> 4. **Forwarded defect, nobody's fix yet:** Quaracchi cite `IV. Sent. d. 2. p. I.` but Book IV's
+>    d. 2 has no pars chunks. Hand it to whoever works Book IV's body.
+> 5. **`bon-sent-I-prol-comm` p. 24 n. 2's `d. 18. p. I.`** — jointly impossible; leave the flag.
+>
+> ## Cadence from here
+> **One gate remains: the work close**, at the Scholion (~p. 454). The deploy rides with it. Push
+> and deploy are both protected. **One collatio remains after c22, then the Scholion.**
+
+---
+
+# (superseded) `bon-hex-c21` — DONE 2026-08-20
+
 > # ▶▶▶ START HERE — **`bon-hex-c21`** (Collationes in Hexaëmeron, Collatio XXI). **BOOK I's FRONT MATTER IS DONE AND THE PARK IS LIFTED.** The Hexaemeron resumes exactly where it was parked; Collationes I–XX are Tier 2 (pp. 329–431), and the work runs c21–c23 + the work-level Scholion to ~p. 454.
 >
 > ## ✅ WILSON'S 2026-08-20 RULING IS **DISCHARGED** — ALL FOUR SENTENCES PROEMIA ARE TIER 2, BOOK I INCLUDED
