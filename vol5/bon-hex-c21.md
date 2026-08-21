@@ -203,3 +203,163 @@ briel is called *the fortitude of God,* and came to strengthen the Virgin[^p435-
 33. From the words of Dionysius, On the Angelic Hierarchy, chapter seven[^p436-4], it is drawn out that the love of the Seraphim is *continuous,* supremely *intense,* supremely *penetrating* even to the heart of God, proceeding to the innermost of God from the innermost of the soul; and he sets down the properties of an ever-moving fire. And he speaks in this way of fire in a broad sense, so that it may be extended to the fifth essence. And in this is shown love *continuous, superfervid,* that is, intense, *superacute,* that is, penetrating. — Of the *Cherubim* he says that they *receive* copiously, *speculate* brilliantly, *enjoy* joyously that light. — Of the *Thrones,* that the seat is *raised,* that it is *firm, stable, open* for the receiving of light. Thrones are said to be for judging, because God sits in them, since they are most divine and ministerially manifest his counsel through judgment. For counsel is hidden, but is manifested through judgment; and to them he manifests his counsel. — Of the *Dominations*[^p436-5], that they signify a certain excellence in a certain freedom, and together with this they likewise signify a certain presidency with respect to souls, and have no appetite of disordered lordship. — Of the *Virtues;* « for virtue is the utmost of power[^p436-6] »; whence not just any power is called virtue, but that which is ut-
 
 termost; nor is just any thing called *virtuous,* but that which has stability in enduring, fortitude in resisting. Again, that it be strong, never weakly enfeebled, so long as God wills to flow into it and to receive illuminations in the utmost uprightness. Again, that it have sublimity, so that it may always be borne toward divine things. — Likewise, of the *Powers.* — It belongs to the Dominations *to command;* to the Virtues, *to carry through;* to the Powers, *to order,* so that nothing be contrary, whence he speaks of a repelling force. — Again, it belongs to the Principalities *to lead down;* to the Archangels, *to reveal;* to the Angels, *to announce*[^p437-1].
+
+---
+
+## Apparatus
+
+[^p431-2]: **La.** Gen. 1, 16. — Immediate post datur summa collat. 20.
+
+    **En.** Gen. 1:16. — Immediately after, the summary of collation 20 is given.
+
+[^p431-3]: **La.** Cfr. I. Sent. d. 19. p. I. q. 4.
+
+    **En.** Cf. I Sentences d. 19 p. I q. 4.
+
+[^p432-1]: **La.** Gen. 1, 3. seqq.
+
+    **En.** Gen. 1:3 ff.
+
+[^p432-2]: **La.** Cfr. Breviloq. p. I. c. 6. Alias 9 considerationes vide infra n. 12-15.
+
+    **En.** Cf. Breviloquium p. I c. 6. For another nine considerations see below, nn. 12-15.
+
+[^p432-3]: **La.** Vide supra pag. 215, nota 5.
+
+    **En.** See above p. 215, note 5.
+
+[^p432-4]: **La.** Cap. 7, 12. Vulgata bonum pro pium. — De triplici lege cfr. supra collat. 15. n. 20.
+
+    **En.** Chapter 7:12. The Vulgate has *bonum* for *pium.* — On the threefold law cf. above, collation 15 n. 20.
+
+[^p432-5]: **La.** Cap. 8, 2.
+
+    **En.** Chapter 8:2.
+
+[^p432-6]: **La.** Matth. 5, 17.
+
+    **En.** Matt. 5:17.
+
+[^p432-7]: **La.** Exod. 20, 3. seqq.; ibid. v. 7. et 8. duo seqq. praecepta; v. 12-17. alia praecepta, quae inferius allegantur. Cfr. III. Sent. d. 37. a. 2. q. 1, ubi plura hic dicta tanguntur.
+
+    **En.** Exod. 20:3 ff.; ibid. vv. 7 and 8, the two following commandments; vv. 12-17, the other commandments, which are alleged below. Cf. III Sentences d. 37 a. 2 q. 1, where many of the things said here are touched on.
+
+[^p433-1]: **La.** Eph. 4, 28. Vulgata post manibus suis addit quod bonum est.
+
+    **En.** Eph. 4:28. After *manibus suis* the Vulgate adds *quod bonum est.*
+
+[^p433-2]: **La.** Eph. 4, 25. — Sententia Augustini inferius posita habetur in libro de Spiritu et lit. c. 4. n. 6; verbotenus occurrit in Glossa ordinaria Rom. 7, 7. Cfr. tom. II. pag. 528, nota 4. et pag. 724, nota 2. Subinde allegatur I. Tim. 6, 10: Radix enim omnium malorum est cupiditas.
+
+    **En.** Eph. 4:25. — The sentence of Augustine set down below is found in the book On the Spirit and the Letter c. 4 n. 6; word for word it occurs in the Glossa ordinaria on Rom. 7:7. Cf. tom. II p. 528, note 4, and p. 724, note 2. Thereupon I Tim. 6:10 is alleged: *For the desire of money is the root of all evils.*
+
+[^p433-3]: **La.** Epist. I. Tim. 1, 5: Finis autem praecepti est caritas etc. — Seq. locus est Tit. 2, 12. — De amore privato cfr. August., XI. de Gen. ad lit. c. 15. n. 19. seq. — Inferius verbo stat subiunge: in citato loco Apostoli. Non eget igitur circumlocutione; secus est de aliis duobus, scil. sobrie et iuste. Pro stat Vat. scilicet benigne.
+
+    **En.** Epistle I Tim. 1:5: *Now the end of the commandment is charity* etc. — The following passage is Tit. 2:12. — On private love cf. Augustine, XI On the Literal Meaning of Genesis c. 15 nn. 19 f. — Below, to the word *stat* supply: in the cited place of the Apostle. It needs no circumlocution, then; it is otherwise with the other two, namely *sobrie* and *iuste.* For *stat* the Vatican codex has *scilicet benigne.*
+
+[^p433-4]: **La.** Vide supra pag. 214, nota 9. — De seq. propositione cfr. Breviloq. p. VII. c. 7.
+
+    **En.** See above p. 214, note 9. — On the following proposition cf. Breviloquium p. VII c. 7.
+
+[^p433-5]: **La.** Col. 1, 18. — Inferius post tertium Spiritui sancto E prosequitur: licet se circumincedant. Nam Pater est in se summa celsitudine pollens, … Habemus monarcham etc. — Superius de primis luminibus vide supra n. 2.
+
+    **En.** Col. 1:18. — Below, after *tertium Spiritui sancto,* E continues: *although they circumincede one another. For the Father is in himself mighty in supreme loftiness,* … *We have a monarch* etc. — Above, on the first lights, see above n. 2.
+
+[^p433-6]: **La.** Cfr. supra pag. 206, nota 8.
+
+    **En.** Cf. above p. 206, note 8.
+
+[^p433-7]: **La.** Infra n. 19. seqq.
+
+    **En.** Below, nn. 19 ff.
+
+[^p433-8]: **La.** E addit et sic in hac monarchia perfectus monarcha noster est quasi sol.
+
+    **En.** E adds *and so in this monarchy our perfect monarch is as it were the sun.*
+
+[^p434-1]: **La.** Cfr. Dionys., de Caelest. Hierarch. c. 4. § 2. seqq.
+
+    **En.** Cf. Dionysius, On the Celestial Hierarchy c. 4 §§ 2 ff.
+
+[^p434-2]: **La.** De Caelest. Hierarch., c. 3. § 1. Cfr. II. Sent. d. 9. Praenotata, ubi etiam exponuntur plura, quae inferius exhibentur, praesertim de tribus hierarchiis earumque ordinatione et actibus. — Explicatio Dionysii continuatur in n. 18.
+
+    **En.** On the Celestial Hierarchy, c. 3 § 1. Cf. II Sentences d. 9, the *Praenotata,* where also many things are expounded which are set out below, especially concerning the three hierarchies and their ordering and acts. — The explanation of Dionysius is continued in n. 18.
+
+[^p434-3]: **La.** Sicut nec creationis est creatio; cfr. II. Sent. d. 1. p. I. a. 3. q. 2. ad 5.
+
+    **En.** Just as neither is there a creation of creation; cf. II Sentences d. 1 p. I a. 3 q. 2 ad 5.
+
+[^p434-4]: **La.** Ioan. 16, 28: Exivi a Patre et veni in mundum; iterum relinquo mundum et vado ad Patrem.
+
+    **En.** John 16:28: *I came forth from the Father, and am come into the world; again I leave the world, and I go to the Father.*
+
+[^p434-5]: **La.** In E hic additur ex supercaelestium aspectuum varietate; cfr. infra n. 31. et collat. 22. n. 1.
+
+    **En.** In E there is added here *from the variety of the supercelestial regards;* cf. below n. 31 and collation 22 n. 1.
+
+[^p434-6]: **La.** Epist. I. Tim. 2, 5: Mediator Dei et hominum, homo Christus Iesus. — Cfr. III Sent. d. 2. dub. 4, ubi in fine dicitur, Gabrielem fuisse de ordine Archangelorum.
+
+    **En.** Epistle I Tim. 2:5: *The mediator of God and men, the man Christ Jesus.* — Cf. III Sentences d. 2 dub. 4, where at the end it is said that Gabriel was of the order of Archangels.
+
+[^p435-1]: **La.** Vide supra pag. 62, nota 1. verba Bernardi. Cfr. etiam Gregor., II. Homil. in Evang. homil. 34. n. 9.
+
+    **En.** See above p. 62, note 1, the words of Bernard. Cf. also Gregory, II Homilies on the Gospels, homily 34 n. 9.
+
+[^p435-2]: **La.** Cfr. Dionys., de Caelest. Hierarch. c. 10. § 1.
+
+    **En.** Cf. Dionysius, On the Celestial Hierarchy c. 10 § 1.
+
+[^p435-3]: **La.** Vide supra pag. 338, nota 2. in fine.
+
+    **En.** See above p. 338, note 2, at the end.
+
+[^p435-4]: **La.** Gregor., II. Homil. in Evang. homil. 34. n. 10: Quia enim thronos Latino eloquio sedes dicimus, throni Dei dicti sunt hi qui tanta Divinitatis gratia replentur, ut in eis Dominus sedeat et per eos sua iudicia decernat. Unde et per Psalmistam [Ps. 9, 5.] dicitur: Sedes super thronum, qui iudicas aequitatem. Cfr. infra n. 33.
+
+    **En.** Gregory, II Homilies on the Gospels, homily 34 n. 10: For since in Latin speech we call thrones *seats,* those are called thrones of God who are filled with so great a grace of the Godhead that the Lord sits in them and through them decrees his judgments. Whence also it is said through the Psalmist [Ps. 9:5]: *Thou hast sat upon the throne, who judgest justice.* Cf. below n. 33.
+
+[^p435-5]: **La.** Isai. 6, 3.
+
+    **En.** Isa. 6:3.
+
+[^p435-6]: **La.** Cfr. Dionys., de Caelest. Hierarch. c. 8. § 1; Gregor., II. Homil. in Evang. homil. 34. n. 10; Bernard., V. de Considerat. c. 4. n. 8.
+
+    **En.** Cf. Dionysius, On the Celestial Hierarchy c. 8 § 1; Gregory, II Homilies on the Gospels, homily 34 n. 10; Bernard, V On Consideration c. 4 n. 8.
+
+[^p435-7]: **La.** Eccli. 43, 4. — Seq. locus est Cant. 2, 17.
+
+    **En.** Ecclus. 43:4. — The following passage is Cant. 2:17.
+
+[^p435-8]: **La.** Cfr. supra pag. 259, nota 8.
+
+    **En.** Cf. above p. 259, note 8.
+
+[^p435-9]: **La.** Cherubim siquidem, ut insinuat Dionys., de Caelest. Hierarch. c. 7. § 1, significant « multitudinem scientiae aut fusionem sapientiae »; Seraphim autem idem est ac « incendentes, aut calefacientes ». De Thronis vide supra nota 4.
+
+    **En.** *Cherubim* indeed, as Dionysius intimates, On the Celestial Hierarchy c. 7 § 1, signify « a multitude of knowledge or an outpouring of wisdom »; but *Seraphim* is the same as « those who set on fire, or who warm ». On the *Thrones* see above, note 4.
+
+[^p436-1]: **La.** Hebr. 1, 14: Nonne omnes sunt administratorii spiritus in ministerium missi etc. — Seq. sententia est Gregor., II. Homil. in Evang. homil. 34. n. 12: Superiora illa agmina ab intimis nunquam recedunt. De opinione Dionysii respectu Seraph missi ad Isaiam (6, 6.) vide tom. II. pag. 262, nota 5. De triplici actu hierarchico cfr. supra pag. 225, nota 6.
+
+    **En.** Heb. 1:14: *Are they not all ministering spirits, sent to minister* etc. — The following sentence is from Gregory, II Homilies on the Gospels, homily 34 n. 12: Those higher hosts never withdraw from the innermost. On the opinion of Dionysius concerning the Seraph sent to Isaiah (6:6) see tom. II p. 262, note 5. On the threefold hierarchic act cf. above p. 225, note 6.
+
+[^p436-2]: **La.** D E speculari.
+
+    **En.** D E: *speculari.*
+
+[^p436-3]: **La.** Respicere videtur ea quae posuit II. Sent. d. 9. Praenotata, ubi habetur: Perfectio autem virtutis sive potentiae consistit in tribus, scilicet in praesidendo, et penes hoc attenditur ordo Dominationum; in resistendo, et penes hoc attenditur ordo Potestatum; et in operando, et penes hoc est ordo Virtutum. Et ordinantur hi ordines secundum maiorem dignitatem et minorem, quia plus est praesidere quam repugnare, et repugnare quam per se operari posse etc. — B C D legunt: quod non bene posuerat cum alio, scilicet in scripto [i. e. in Commentario libr. Sent.; B C in septimo], loco Potestates etc.
+
+    **En.** He seems to be looking back to what he set down in II Sentences d. 9, the *Praenotata,* where it is held: But the perfection of a strength or power consists in three things, namely in presiding, and in respect of this the order of Dominations is observed; in resisting, and in respect of this the order of Powers is observed; and in operating, and in respect of this is the order of Virtues. And these orders are ordered according to greater and lesser dignity, since it is more to preside than to withstand, and to withstand than to be able to operate of oneself, etc. — B C D read: *that he had not placed it well along with another, namely in the writing* [i. e. in the Commentary on the books of the Sentences; B C *in the seventh*], in the place of *Powers,* etc.
+
+[^p436-4]: **La.** Paragr. 1: Mobile enim semper eorum circa divina et incessabile et calidum et acutum et superfervidum intentae et non indigentis et inflexibilis semper motionis, et superpositorum reductive et active assimilativum, tanquam recaleficans illa et resuscitans in similem calorem et igneum caelitus et holocauste purgativum… Ipsa vero Cherubim cognoscibile eorum et deividum, et altissimae luminum dationis acceptivum et contemplativum… Ipsa autem altissimarum et compactarum Sedium… omni extremitate inflexibiliter in sublimissimum et circa vere excelsum totis virtutibus incommutabiliter et stabiliter collocatum et divini superadventus… acceptivum et deiferum et famulariter in divinas susceptiones apertum. Cfr. c. 13. § 3, et Hug. a S. Vict., VI. et VII. Exposit. in Hierarch. caelest. Vide etiam supra n. 24. Infra cum F et G posuimus quintam essentiam; Vat. quamlibet essentiam.
+
+    **En.** Paragraph 1: For their ever-moving quality about divine things, unceasing and hot and keen and superfervid, of a motion intent and needing nothing and never bending; and their assimilative power, leading back and active, over the things set beneath them, as rewarming them and rousing them to a like heat, and fiery from heaven and purgative as a holocaust… But the Cherubim's is the knowable and God-seeing quality of these things, and receptive and contemplative of the highest giving of lights… And that of the most high and compacted Seats… placed in the most sublime and about the truly exalted with every extremity unbendingly, with all their strengths unchangeably and stably, and receptive of the divine advent from above… and God-bearing and ministerially open to divine receivings. Cf. c. 13 § 3, and Hugh of St Victor, VI and VII Exposition on the Celestial Hierarchy. See also above n. 24. Below, with F and G we have put *quintam essentiam;* the Vatican codex, *quamlibet essentiam.*
+
+[^p436-5]: **La.** Dionys., loc. cit. c. 8. § 1. ait: Igitur sanctarum Dominationum manifestativam nominationem aestimo declarare absolutam quandam et omni ignominia minorationis liberam anagogen, non ad similitudinem tyrannicarum dissimilitudinem ullo modo universaliter eam inclinatam, liberaliter severam dominationem… Ipsam vero sanctarum Virtutum fortem quandam et incommutabilem virilitatem, in omnes secundum earum deiformitatem operationes, ad nullam susceptionem inditarum ei divinarum illuminationum imbecilliter infirmatam… Ipsam autem sanctarum Potestatum… bene ornatam et inconfusam circa divinas susceptiones ordinationem et ordinatam supermundanae et intellectualis potestatis non tyrannice in eo quae inferiora sunt, potestativis virtutibus praecipitatae etc.
+
+    **En.** Dionysius, in the place cited, c. 8 § 1, says: I judge, therefore, that the manifesting name of the holy Dominations declares a certain absolute anagogy, free of all the ignominy of belittlement, in no way universally inclined toward the unlikeness of tyrannical likeness, a liberally severe lordship… But that of the holy Virtues, a certain strong and unchangeable manfulness in all their operations according to their deiformity, in no wise weakly enfeebled for the receiving of the divine illuminations put into them… And that of the holy Powers… a well-adorned and unconfused ordering about the divine receivings, and an ordered quality of the supermundane and intellectual power, not tyrannically cast down upon the things beneath it by domineering strengths, etc.
+
+[^p436-6]: **La.** Aristot., I. de Caelo et mundo, text. 116. (c. 11.). Cfr. tom. I. pag. 564, nota 7. et tom. II. pag. 671, nota 6.
+
+    **En.** Aristotle, I On the Heaven and the World, text 116 (c. 11). Cf. tom. I p. 564, note 7, and tom. II p. 671, note 6.
+
+[^p437-1]: **La.** Cfr. supra n. 20-23.
+
+    **En.** Cf. above, nn. 20-23.
