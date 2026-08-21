@@ -144,3 +144,26 @@ tripliciter.* · *Primo, secundum ascensum tripliciter.* · *Quoad primum sunt 3
 correspondentia.* · *Gradus primus.* R: *Secundus.* · *Tertius.* · *Item, quoad secundum.* ·
 *Item, quoad tertium.* · *Secundo disponuntur sec. descensum tripliciter.* · *Quoad susceptionem
 tria requiruntur.*
+
+### p. 442 — 8 entries, nn. 1–8
+Gutter **1359**: BAND 1329–1390 (62 px), island 1357–1362 (6 px, peak 435); skew drift 2 px.
+(Whole-window spread 114 px again — the footer windows; the body windows agree at 1359.)
+Block: nn. 1–5(head) L, n. 5(tail) + nn. 6–8 R. Anchors: nn. 1–3 L (¶¶ 29, 31, 33), nn. 4–8 R
+(¶¶ 34, 34, 35, 35, 35). **Disagree by two.** Five leaves, five disagreements.
+- n. 1 `Cfr. Exod. 19, 17. seqq. et 24, 12. seqq.` — `prius vidit in pede montis ¹` (¶ 29)
+- n. 2 `Epist. II. Cor. 6, 1: Adiuvantes autem exhortamur, ne in vacuum gratiam Dei recipiatis.` — `non debet in vacuum recipere ²` (¶ 31)
+- n. 3 `Cap. 3, 13.` — `Unde in Ioanne ³` (¶ 33)
+- n. 4 `Libr. II. homil. 5. n. 8. seqq.` — `Gregorius super Ezechielem ⁴` (¶ 34). ⚠ raw gives `lioniil. H.`; the band reads **`homil. 5.`** at 2.2×, and Gregory's three grades (*extra nos / intra nos / supra nos*) are indeed *Hom. in Ezech.* II, hom. 5.
+- n. 5 `Scilicet auctorem libri de Causis, propos. 3: Omnis... operationes. Nam ex operationibus eius est operatio animalis et operatio intelligibilis et operatio divina.` — `secundum philosophum ⁵` (¶ 34)
+- n. 6 `Cfr. supra pag. 300, nota 6. et pag. 301, nota 3.` — `reponit in memoria ⁶` (¶ 35)
+- n. 7 `Vide Gen. 3, 1. seqq. — Seq. locus est Apoc. 22, 15: Foris canes etc.` — `et dubitavit ⁷` (¶ 35). Raw gives `Apoc. 22, 13`; the band reads **15**, which is also the verse that carries *foras canes.*
+- n. 8 `Num. 24. seqq.` — `ut dicebatur primo ⁸` (¶ 35)
+  ⚠ **`Num.` here is *numeros,* not the book of Numbers** — the note points back to this collatio's
+  own ¶¶ 24 seqq. (*industria cum natura*), which is exactly what *ut dicebatur primo* refers to.
+  A Scripture-shaped string that is not a Scripture citation; the citation index will want watching.
+
+Marginalia p. 442 (body order). L: *De primo et eius correspondentia.* · *De secundo.* ·
+*De tertio.* · *Item, quoad custoditionem.* · *Item, quoad distributionem.* · *Notandum.*
+R: *Tertio disponuntur sec. regressum tripliciter.* · *Animae operationes tres.* · *Quoad
+potentias exteriores tria requiruntur.* · *De primo.* · *Notandum.* · *De secundo.* ·
+*De tertio.* · *Item, quoad potentias interiores.* · *De primo.*
