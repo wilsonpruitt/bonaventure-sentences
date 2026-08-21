@@ -232,3 +232,223 @@ Et dicebat, quod etiam antequam haberet habitum, raptus fuit et inventus iuxta q
 41. And note that the moon suffers eclipse in the head, or in the tail of the dragon. Now there are two intersections in heaven upon the ecliptic[^p443-11], through which the moon passes, which are called the *head* and the *tail of the dragon;* it is called a *dragon* on account of the circle, as it were holding its tail in its mouth. That intersection which is toward the north is called the *head,* because the sun harms us more when it is there, since it burns us more diametrically, as the dragon is worse and more harmful in the head. The *tail* is toward the south, and the sun harms us less when it is in that part, because it is farther removed from us. And when the sun is in one part, and the moon in the other point is set opposite to it, as at the full moon, then it is eclipsed.
 
 42. Likewise the contemplative man is eclipsed in a twofold way, and falls basely and very perilously, in that he scarcely rises again; nor is it a wonder, since he falls from a height. For he falls through *error* and through *presumption.* For he sees himself illumined and *presumes,* and becomes a Luciferian and falls from light into horrible darkness. [?] likewise through the *error of estimation,* which arises from presumption, when he believes that he has all things by revelation. Yet there ought always to be a rule. — Whence he said that many are deceived in that they believe they have all things by revelation. — Whence in that vision and apparition of the Lord on the mountain, which is the rule of all apparitions, there appeared Christ, Moses and Elias[^p444-1], so that nothing be believed to be true or revealed save what accords with the Law, the Prophets and the Gospel. — The contemplative, then, ought to be humble and circumspect, so that he may not come to the *head* of the dragon through *presumption,* or be entangled in the *tail* through *error.* And therefore the woman, that is, the soul made hierarchic, sees two visions, namely the *ark* and the *city*[^p444-2].
+
+---
+
+## Apparatus
+
+[^p437-2]: **La.** Apoc. 12, 1. — De seqq. cfr. collat. praeced.
+
+    **En.** Apoc. 12:1. — On what follows cf. the preceding collation.
+
+[^p438-1]: **La.** Gal. 4, 26: Illa autem quae sursum est Ierusalem libera est, quae est mater nostra.
+
+    **En.** Gal. 4:26: *But that Jerusalem which is above is free, which is our mother.*
+
+[^p438-2]: **La.** Cfr. August., in Ps. 29. enarrat. 2. n. 10.
+
+    **En.** Cf. Augustine, *On Psalm* 29, second exposition, n. 10.
+
+[^p438-3]: **La.** Libr. II. de Partib. animal. c. 1. et III. c. 3. seq. Cfr. supra collat. I. n. 19. et pag. 195, nota 7. in fine.
+
+    **En.** Book II *On the Parts of Animals* c. 1, and III c. 3 f. Cf. above, collation I n. 19, and p. 195, note 7, at the end.
+
+[^p438-4]: **La.** Cap. 2, 19. et 20.
+
+    **En.** Chapter 2:19 and 20.
+
+[^p438-5]: **La.** Psalm. 126, 4. August., in hunc locum n. 9, ait: De arcu excutiuntur sagittae... de arcu suo [Dominus] mandat apostolos suos etc. Cfr. supra pag. 411, nota 6. — Seq. locus est Ps. 44, 17. Vide August. in hunc locum.
+
+    **En.** Psalm 126:4. Augustine, on this passage n. 9, says: *Arrows are shaken out of the bow... out of his own bow [the Lord] sends forth his apostles,* etc. Cf. above p. 411, note 6. — The following passage is Ps. 44:17. See Augustine on this passage.
+
+[^p438-6]: **La.** Psalm. 44, 17: Constitues eos principes super omnem terram.
+
+    **En.** Psalm 44:17: *Thou shalt make them princes over all the earth.*
+
+[^p438-7]: **La.** Apoc. 6, 12: Et luna tota facta est sicut sanguis.
+
+    **En.** Apoc. 6:12: *And the whole moon became as blood.*
+
+[^p439-1]: **La.** Cfr. supra collat. 19. n. 4.
+
+    **En.** Cf. above, collation 19 n. 4.
+
+[^p439-2]: **La.** Matth. 3, 15.
+
+    **En.** Matt. 3:15.
+
+[^p439-3]: **La.** Libr. III. Reg. 6, 36: Et aedificavit [Salomon] atrium interius tribus ordinibus lapidum politorum.
+
+    **En.** III Kings 6:36: *And [Solomon] built the inner court with three rows of polished stones.*
+
+[^p439-4]: **La.** Vide tom. IV. pag. 637, nota 8.
+
+    **En.** See tom. IV p. 637, note 8.
+
+[^p439-5]: **La.** Luc. 12, 35. — Gregor., I. Homil. in Evang. homil. 13. n. 1: Lucernas quippe ardentes in manibus tenemus, cum per bona opera proximis nostris lucis exempla monstramus. — Seq. locus est Phil. 2, 15. et 16. Codd. legunt: ut sitis sinceres, inter quos etc. Forcellini notat, quod ista forma sinceres inveniatur, tamen non sit imitanda.
+
+    **En.** Luke 12:35. — Gregory, *Homilies on the Gospels* I, homily 13 n. 1: *We hold burning lamps in our hands when through good works we show examples of light to our neighbours.* — The following passage is Phil. 2:15 and 16. The codices read: *ut sitis sinceres, inter quos* etc. Forcellini notes that this form *sinceres* is indeed found, but is not to be imitated.
+
+[^p439-6]: **La.** Cap. 2, 10: Evangelizo vobis etc.
+
+    **En.** Chapter 2:10: *I bring you good tidings,* etc.
+
+[^p439-7]: **La.** Cfr. IV. Sent. d. 24. p. II. a. 2. q. 4.
+
+    **En.** Cf. IV Sentences d. 24 p. II a. 2 q. 4.
+
+[^p439-8]: **La.** Cap. 19, 18. Ibid. etiam seq. locus. — De quatuor patriarchis cfr. Concil. Nic. I. can. 6. et 7; Constant. I. can. 5. et apud Gratian. can. Definimus (7.), d. 22. — De plenitudine potestatis Romani Pontificis vide supra Quaest. disput. de Perfect. evang. q. 4. a. 3.
+
+    **En.** Chapter 19:18. The following passage also is from the same place. — On the four patriarchs cf. the Council of Nicaea I, canons 6 and 7; Constantinople I, canon 5; and in Gratian the canon *Definimus* (7), d. 22. — On the fulness of power of the Roman Pontiff see above, *Disputed Questions on Evangelical Perfection* q. 4 a. 3.
+
+[^p440-1]: **La.** Vide IV. Sent. d. 24. p. II. a. 2. q. 3.
+
+    **En.** See IV Sentences d. 24 p. II a. 2 q. 3.
+
+[^p440-2]: **La.** Tit. 1, 9.
+
+    **En.** Tit. 1:9.
+
+[^p440-3]: **La.** Isai. 1, 26: Et restituam iudices tuos, ut fuerunt prius.
+
+    **En.** Isa. 1:26: *And I will restore thy judges as they were before.*
+
+[^p440-4]: **La.** Isai. 1, 23: Principes tui infideles, socii furum; omnes diligunt munera, sequuntur retributiones. — Paulo superius pro Constantinus Vat. Valentinianus (B Constantinus vel Valentinianus), quae subinde pro Qualis substituit cuius. Voci Saracenus secunda manus in margine cod. A addidit seu paganus. Cfr. Vita S. Ambrosii a Paulino conscripta, n. 8. seq.; Vita et institutum S. Patris nostri Ambros., ubi etiam n. 3. dicitur: Is erat sane vir vita purus etc.
+
+    **En.** Isa. 1:23: *Thy princes are faithless, companions of thieves; they all love bribes, they run after rewards.* — A little above, for *Constantinus* the Vatican codex has *Valentinianus* (B *Constantinus vel Valentinianus*), which thereupon substitutes *cuius* for *Qualis.* To the word *Saracenus* a second hand in the margin of codex A added *seu paganus.* Cf. the *Life of St. Ambrose* written by Paulinus, n. 8 f.; the *Life and Institute of our holy Father Ambrose,* where also at n. 3 it is said: *He was indeed a man pure in life,* etc.
+
+[^p440-5]: **La.** Hebr. 5, 1.
+
+    **En.** Heb. 5:1.
+
+[^p440-6]: **La.** Cfr. Exod. 3, 1. seqq.; 19, 3; 24, 12. seqq. et 33, 2. seqq.
+
+    **En.** Cf. Exod. 3:1 ff.; 19:3; 24:12 ff. and 33:2 ff.
+
+[^p440-7]: **La.** Scilicet Bonaventura, qui in Legenda S. Franc. c. 11. idem refert. Cfr. Opuscul. S. Franc., Colloquium 15. — In praecedentibus pro unctioni D E unitioni (cfr. supra pag. 307, nota 2.), pro vel unctio B C vel unitio in utero.
+
+    **En.** Namely Bonaventure, who relates the same in the *Legend of St. Francis* c. 11. Cf. the *Opuscula of St. Francis,* Colloquy 15. — In the preceding, for *unctioni* D E have *unitioni* (cf. above p. 307, note 2), for *vel unctio* B C have *vel unitio in utero.*
+
+[^p441-1]: **La.** Cfr. Legenda S. Franc. c. 1, ubi de eius conversatione in habitu saeculari.
+
+    **En.** Cf. the *Legend of St. Francis* c. 1, where his manner of life in secular habit is treated.
+
+[^p441-2]: **La.** Vide Prolog. in Itinerarium mentis in Deum, n. 2. seq.
+
+    **En.** See the Prologue to the *Itinerarium mentis in Deum,* n. 2 f.
+
+[^p441-3]: **La.** Cant. 6, 3: Pulcra es amica mea... sicut Ierusalem. — De praeced. propositione cfr. supra pag. 349, nota 9. verba Aristot., quae hic ab E allegantur.
+
+    **En.** Cant. 6:3: *Thou art beautiful, my love... as Jerusalem.* — On the preceding proposition cf. above p. 349, note 9, the words of Aristotle, which are here alleged by E.
+
+[^p441-4]: **La.** Gen. 28, 12. — Opera mystica abbatis Vercellensis prae manibus non habemus.
+
+    **En.** Gen. 28:12. — We do not have at hand the mystical works of the Abbot of Vercelli.
+
+[^p441-5]: **La.** Cfr. Aristot., de Sensu et sens. c. 1. et I. Metaph. c. 1. Vide III. Sent. d. 24. dub. 2.
+
+    **En.** Cf. Aristotle, *On Sense and the Sensible* c. 1, and *Metaphysics* I c. 1. See III Sentences d. 24 dub. 2.
+
+[^p441-6]: **La.** August., X. de Trin. c. 11. n. 17: Uti enim est assumere aliquid in facultatem voluntatis. Cfr. I. Sent. d. 1. a. 1. q. 1.
+
+    **En.** Augustine, *On the Trinity* X c. 11 n. 17: *For to use is to take up something into the faculty of the will.* Cf. I Sentences d. 1 a. 1 q. 1.
+
+[^p441-7]: **La.** Cum codd. propter sequentia retinuimus unio, licet alibi cum eisdem posuimus unctio; cfr. pag. 440, nota 7.
+
+    **En.** With the codices, on account of what follows, we have retained *unio,* although elsewhere with the same codices we have put *unctio;* cf. p. 440, note 7.
+
+[^p441-8]: **La.** Cap. 1, 1.
+
+    **En.** Chapter 1:1.
+
+[^p441-9]: **La.** Respicitur Ps. 132, 2. Cfr. supra pag. 419, nota 4. — Divisio virtutum animae, quae mox ex Dionys. affertur, colligitur ex iis quae in libr. de Caelest. Hierarch. c. 15. § 3. habentur de anima humana, in quantum corpori coniuncta est et diversas vires exserit in diversis organis. Auctor libri de Spiritu et anima (inter opera August.) c. 20. vires naturales animae ad quatuor reducit, scil. appetitivam, retentivam, expulsivam et distributivam.
+
+    **En.** Ps. 132:2 is regarded. Cf. above p. 419, note 4. — The division of the powers of the soul which is presently brought forward from Dionysius is gathered from what is had in the book *On the Celestial Hierarchy* c. 15 § 3 concerning the human soul, inasmuch as it is joined to a body and puts forth diverse powers in diverse organs. The author of the book *On the Spirit and the Soul* (among the works of Augustine) c. 20 reduces the natural powers of the soul to four, namely the appetitive, the retentive, the expulsive and the distributive.
+
+[^p441-10]: **La.** Matth. 10, 8.
+
+    **En.** Matt. 10:8.
+
+[^p442-1]: **La.** Cfr. Exod. 19, 17. seqq. et 24, 12. seqq.
+
+    **En.** Cf. Exod. 19:17 ff. and 24:12 ff.
+
+[^p442-2]: **La.** Epist. II. Cor. 6, 1: Adiuvantes autem exhortamur, ne in vacuum gratiam Dei recipiatis.
+
+    **En.** II Cor. 6:1: *And helping do we exhort, that you receive not the grace of God in vain.*
+
+[^p442-3]: **La.** Cap. 3, 13.
+
+    **En.** Chapter 3:13.
+
+[^p442-4]: **La.** Libr. II. homil. 5. n. 8. seqq.
+
+    **En.** Book II, homily 5, n. 8 ff.
+
+[^p442-5]: **La.** Scilicet auctorem libri de Causis, propos. 3: Omnis... operationes. Nam ex operationibus eius est operatio animalis et operatio intelligibilis et operatio divina.
+
+    **En.** Namely the author of the book *On Causes,* proposition 3: *Every... operations.* For among its operations is the animal operation and the intelligible operation and the divine operation.
+
+[^p442-6]: **La.** Cfr. supra pag. 300, nota 6. et pag. 301, nota 3.
+
+    **En.** Cf. above p. 300, note 6, and p. 301, note 3.
+
+[^p442-7]: **La.** Vide Gen. 3, 1. seqq. — Seq. locus est Apoc. 22, 15: Foris canes etc.
+
+    **En.** See Gen. 3:1 ff. — The following passage is Apoc. 22:15: *Without are dogs,* etc.
+
+[^p442-8]: **La.** Num. 24. seqq.
+
+    **En.** Nn. 24 ff.
+
+[^p443-1]: **La.** Ioan. 14, 30. — Epist. I. Ioan. 2, 16: Quoniam omne, quod est in mundo, concupiscentia carnis est et concupiscentia oculorum et superbia vitae.
+
+    **En.** John 14:30. — I John 2:16: *For all that is in the world is the concupiscence of the flesh and the concupiscence of the eyes and the pride of life.*
+
+[^p443-2]: **La.** Cap. 2, 12.
+
+    **En.** Chapter 2:12.
+
+[^p443-3]: **La.** Matth. 8, 9: Et dico huic: vade, et vadit; et alii: veni, et venit; et servo meo: fac hoc, et facit.
+
+    **En.** Matt. 8:9: *And I say to this man: Go, and he goeth; and to another: Come, and he cometh; and to my servant: Do this, and he doeth it.*
+
+[^p443-4]: **La.** Dionys., de Div. Nom. c. 4. § 23.
+
+    **En.** Dionysius, *On the Divine Names* c. 4 § 23.
+
+[^p443-5]: **La.** Cap. 2, 19: Consurge, lauda in nocte, in principio etc. — Seq. locus est Ps. 37, 10; tertius Isai. 51, 17: Elevare, elevare, consurge, Ierusalem. Baruch 5, 5: Exsurge, Ierusalem, et sta in excelso. Quartus [Tunc videbis] est Isai. 60, 5.
+
+    **En.** Chapter 2:19: *Arise, give praise in the night, in the beginning* etc. — The following passage is Ps. 37:10; the third is Isa. 51:17: *Arise, arise, stand up, O Jerusalem.* Baruch 5:5: *Arise, O Jerusalem, and stand on high.* The fourth [*Then thou shalt see*] is Isa. 60:5.
+
+[^p443-6]: **La.** Cap. 2, 6. et 6, 2: Ego dilecto etc. — Seq. locus est I. Cor. 6, 17.
+
+    **En.** Chapter 2:6 and 6:2: *I to my beloved,* etc. — The following passage is I Cor. 6:17.
+
+[^p443-7]: **La.** Apoc. 12, 1.
+
+    **En.** Apoc. 12:1.
+
+[^p443-8]: **La.** Cfr. supra pag. 221, nota 5.
+
+    **En.** Cf. above p. 221, note 5.
+
+[^p443-9]: **La.** Rom. 11, 33: Quam incomprehensibilia sunt iudicia eius, et investigabiles viae eius.
+
+    **En.** Rom. 11:33: *How incomprehensible are his judgments, and how unsearchable his ways.*
+
+[^p443-10]: **La.** Cfr. Beda, de Natura rerum, c. 17, ubi docet, quod sol circa medietatem uniuscuiusque mensis incipit introire in unum de duodecim signis.
+
+    **En.** Cf. Bede, *On the Nature of Things* c. 17, where he teaches that about the middle of each month the sun begins to enter into one of the twelve signs.
+
+[^p443-11]: **La.** Scilicet lineam in medio zodiaco, quae circulariter ipsum per totum scindit. Vocatur ecliptica, eo quod in ipsa sola eclipsis accidere possit, dum scil. alius planetarum, v. g. luna, cum sole, qui in cursu suo hanc lineam semper servat, in ipsa reperitur. Illud autem punctum, in quo eclipses contingunt, vocatur caput, vel cauda draconis, quod non est aliud quam punctum intersectionis eclipticae cum circulo planetarum deferente. Isti enim circuli, ita se intersecantes, quasi figuram duorum serpentium efficiunt, et ubi se tangunt, caput, vel cauda draconis appellatur. Cfr. S. Thom., in II. de Caelo et mundo, lect. 13.
+
+    **En.** Namely the line in the middle of the zodiac, which cuts it circularly through the whole. It is called the *ecliptic* because on it alone can an eclipse occur, namely when another of the planets, e.g. the moon, is found on it together with the sun, which in its course always keeps to this line. Now that point at which eclipses happen is called the *head* or the *tail of the dragon,* which is nothing else than the point of intersection of the ecliptic with the deferent circle of the planets. For these circles, thus intersecting one another, make as it were the figure of two serpents, and where they touch one another it is called the *head* or the *tail of the dragon.* Cf. St. Thomas, *On the Heaven and the World* II, lecture 13.
+
+[^p444-1]: **La.** Matth. 17, 3.
+
+    **En.** Matt. 17:3.
+
+[^p444-2]: **La.** Cfr. Apoc. 11, 19. et 21, 2. seqq.
+
+    **En.** Cf. Apoc. 11:19 and 21:2 ff.

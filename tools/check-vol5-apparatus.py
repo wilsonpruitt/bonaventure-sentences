@@ -1823,6 +1823,13 @@ KNOWN_TOTALS = {
     435: 9,   # both blocks open numbered; no runover; splits coincide at 4/5
     436: 6,   # n.4 (Dionysius) runs over the gutter; left block OVERRUNS by two
     437: 2,   # BOUNDARY LEAF: n.1 is Collatio XXI's, n.2 is Collatio XXII's
+    438: 7,   # block splits 5/2, anchors 4/3 — n.5 prints left and anchors right
+    439: 8,   # block splits 5/3, anchors 3/5 — the widest disagreement of the collatio
+    440: 7,   # n.4 runs over the gutter; block 4/3, anchors 3/4
+    441: 10,  # block 6/4, anchors 5/5; left block closes with the tome signature, right with the sheet number 56
+    442: 8,   # n.5 runs over the gutter; block 5/3, anchors 3/5
+    443: 11,  # n.11 RUNS OVER onto p. 444; block 5/6, anchors 4/7
+    444: 3,   # BOUNDARY LEAF: p.443 n.11's runover, then nn.1-2 Collatio XXII's, n.3 Collatio XXIII's
 }
 
 
