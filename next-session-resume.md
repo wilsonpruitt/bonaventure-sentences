@@ -1,9 +1,44 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — **THE WORK-CLOSE POLISH GATE**, at last. `bon-hex-scholion` is written and
-> the Hexaemeron's twenty-four chunks (23 collationes + this Scholion) are ALL Tier 2. **Nothing
-> else in this work is left to translate.** Run the four-pass work-close gate (per repo CLAUDE.md
-> § "Polish-gate cadence for Vols V–X"), then the deploy rides with it — both protected, both owed.
+> # ▶▶▶ START HERE — **THE WORK-CLOSE GATE IS DONE (2026-08-23). PUSH + DEPLOY ARE NEXT, BOTH
+> PROTECTED, BOTH WILSON'S CALL.** All four passes ran clean; see below. The Hexaemeron's twenty-four
+> chunks (23 collationes + Scholion) are Tier 2 and the gate has confirmed the whole work.
+>
+> ## ✅ FOUR-PASS WORK-CLOSE GATE COMPLETE, commit `9d72363`
+> - **Pass 1 (flag resolution) turned up more than flags.** Chasing `bon-hex-c23`'s four `[?]`
+>   flags on p. 447 against the 450 dpi band found that ¶12 carried a **~200-word fabricated
+>   passage** (Latin + English, on the seal's four properties) that does not exist on the printed
+>   page at all, with **five invented apparatus entries** (`p447-1`–`p447-5`) attached to it. Fixed:
+>   passage deleted, the four flags now anchor the real plate notes 2–5, the previously-unanchored
+>   Cant. 5:1 citation gets note 1, and `p447-6`–`p447-10` (structurally valid, wrong transcribed
+>   text) are corrected against the plate — full account in `bon-hex-c23.md`'s own `## Notes` and
+>   `transcription_status`. **Pages 444, 445, 446, 448, 449 (39 other entries) were independently
+>   checked against the plates in the same pass and are clean, word for word.** This was Wilson's
+>   explicit call after the first finding ("stop and audit the whole chunk / nearby pages first"),
+>   not a shortcut.
+> - **Pass 2 (style scan) — CLEAN**, `polish-style-scan.py --volume 5`: only the pre-existing,
+>   documented, deliberate `V5LABEL` flag on entry 51 (the Additamentum's bare non-page-qualified
+>   label). No other issues across all 114 chunks.
+> - **Pass 3 (boundary sweep, by hand) — CLEAN.** All 23 collatio-to-collatio transitions (c1|c2
+>   through c22|c23) read as complete sentences into fresh `### COLLATIO N.` headings, no
+>   dropped/duplicated text. All 16 shared-page apparatus splits (where a collatio boundary falls
+>   mid-page) checked programmatically for gaps/overlaps in note numbering — all clean, contiguous,
+>   non-overlapping. The Scholion's own front (p.449→450, the Additamentum/Scholion split) and close
+>   (p.454→454, ending mid-column with a plain rule, p.455 is the next work's half-title) were
+>   already rigorously verified against the plate in the session that wrote `bon-hex-scholion.md`
+>   — re-read here, still solid, not re-verified from the band a second time.
+> - **Pass 4 (cleanup) — DONE.** All cached 450 dpi PNGs in `raw/vision/vol5/` (gitignored, ~66 MB)
+>   reclaimed now the gate is confirmed clean.
+> - **Post-fix verification, all clean:** `check-vol5-apparatus.py` 114 chunks / 1863 entries, all
+>   pass · `check-vol5-census.py` 114/114, 148 runovers unchanged · `check-live-flags.py vol5`
+>   — `bon-hex-c23` carries zero flags now (10 occurrences remain, all pre-existing, all in other
+>   chunks: vol1/vol4 backlog plus `bon-hex-c15`, `c19`, `c22`) · `build-content.mjs` 2065/2065,
+>   8 books · `build-citations.py` QA flags 200, unchanged.
+>
+> ## ▶▶ NEXT: PUSH, THEN DEPLOY. Both protected, both need Wilson's per-action OK.
+> `master` is ahead of `origin` (the c23 fix commit `9d72363` plus everything since the last push
+> — check `git log origin/master..master` for the exact count). Deploy publishes the finished
+> Hexaemeron (all 23 collationes + Scholion) live at bonaventure.wrootpress.com.
 >
 > ## ✅ `bon-hex-scholion` IS TIER 2 — pp. 450–454, no ¶¶ numbering (an editorial essay in six
 > roman-numeral sections I–VI with arabic sub-points, not Bonaventure's own paragraphs), ONE
