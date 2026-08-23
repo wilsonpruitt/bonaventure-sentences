@@ -1,11 +1,61 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — **`bon-hex-scholion`** (the work-level Scholion), the **LAST unit of the
-> Hexaemeron**, whose own heading `SCHOLION.` stands at the very TOP of **p. 450** — no continuation
-> from Collatio XXIII, a fresh unit.
+> # ▶▶▶ START HERE — **THE WORK-CLOSE POLISH GATE**, at last. `bon-hex-scholion` is written and
+> the Hexaemeron's twenty-four chunks (23 collationes + this Scholion) are ALL Tier 2. **Nothing
+> else in this work is left to translate.** Run the four-pass work-close gate (per repo CLAUDE.md
+> § "Polish-gate cadence for Vols V–X"), then the deploy rides with it — both protected, both owed.
 >
-> ## ✅ `bon-hex-c23` IS TIER 2 — pp. 444–449, 31 ¶¶, 51 apparatus entries, FOUR `[?]` (2026-08-22,
-> Additamentum entry added 2026-08-23)
+> ## ✅ `bon-hex-scholion` IS TIER 2 — pp. 450–454, no ¶¶ numbering (an editorial essay in six
+> roman-numeral sections I–VI with arabic sub-points, not Bonaventure's own paragraphs), ONE
+> apparatus entry, zero `[?]` (2026-08-23)
+> Commit `4ff143a`. Suite in-session: `check-vol5-apparatus.py` **114 chunks / 1,863 entries, all
+> pass** (KNOWN_TOTALS extended: p.450 → 1) · `check-vol5-census.py` **114/114**, 148 runovers (132
+> gutter-crossing, 16 page-crossing; bon-hex-scholion contributes one gutter-crossing runover, its
+> only entry, split L→R across p.450's own column break) · `polish-style-scan --volume 5` **CLEAN
+> other than the pre-existing c23 `V5LABEL` flag** (documented deliberate deviation, not touched
+> this session) · `check-live-flags.py vol5` **unchanged, no new flags** · `build-content.mjs`
+> **2065/2065, 8 books** · `build-citations.py` QA flags **200, unchanged**.
+> ⚠ Nothing pushed; push and deploy are protected.
+>
+> ## ★★★ WHAT bon-hex-scholion IS AND WHY IT TOOK SOME UNTANGLING
+> The Scholion is the Quaracchi editors' OWN analytical essay on the whole Hexaemeron — not
+> Bonaventure's text — structured in six roman-numeral sections (I–VI) with arabic-numbered
+> sub-points, citing the work throughout by its own bare `collat. N. n. M` form (not apparatus
+> anchors; left inline as printed). It carries exactly ONE apparatus entry, and that entry is the
+> single most important documentary passage in the whole work: **the reportator's own colophon**,
+> dating the collations to Paris, Easter–Pentecost 1273, explaining why only four of the six or
+> seven planned visions were delivered (Bonaventure's elevation to Cardinal Bishop of Albano and his
+> death in 1274), and describing how the reportatio itself was made and revised. It is printed
+> **unanchored**, set off by a rule at the foot of p. 450 — physically split L→R across the column
+> break exactly like an ordinary footnote (`...vitae ex-` | `cessu domini...` = one word,
+> *excessu*), which is what proves it is a second, independent stream from the main body text (whose
+> own sentence bridges the SAME column break one page-line higher: `...ordinem` | `et
+> cohaerentiam...`). Anchored on `ordinem` for lack of any true anchor in print — the same
+> expedient used for c23's Additamentum. Full reasoning in the chunk's own `## Notes`.
+>
+> ## ★ THE WORK CLOSES ON p. 454, CONFIRMED POSITIVELY
+> The Scholion — and the whole Hexaemeron — ends about 40% down the right column of p. 454 with a
+> plain decorative rule, no colophon text. **p. 455 is the half-title for the NEXT work**,
+> *Collationes de septem donis Spiritus Sancti* (matching the standing scouting note that work opens
+> at p. 457; p. 456 is presumably its blank verso, not yet extracted). Nothing is forwarded past the
+> Scholion's close.
+>
+> ## ▶▶ NEXT: THE FOUR-PASS WORK-CLOSE GATE, THEN DEPLOY
+> This is the SAME shape as the Breviloquium and Itinerarium work-closes: Pass 1 flag resolution
+> (there are very few `[?]`s left in this work to resolve — mainly bon-hex-c23's four p.447 flags,
+> still open, see below), Pass 2 full-corpus style scan (already clean above), Pass 3 the boundary
+> sweep — **by hand**, `seam-screen.py` is structurally blind to leaf crossings — across all 23
+> collatio boundaries plus the Scholion's own front (p.449→450) and close (p.454→455), Pass 4
+> cleanup (reclaim the 450dpi plate PNGs once the gate is confirmed clean). Then push + deploy,
+> both protected, both Wilson's call.
+>
+> ## ⚠ STILL CARRIED FORWARD, UNCHANGED
+> - c23's four `[?]` flags (p. 447, ¶¶ 12–14) — not blocking, worth ten minutes with the plate in
+>   view during the gate.
+> - The five items below, all still open from before this session (see "STILL OWED" list further
+>   down in this file's superseded blocks).
+>
+> ## (superseded) previous START HERE — `bon-hex-c23` DONE 2026-08-22
 > Commit `ae281fa`; the Additamentum apparatus entry landed in commit `a09ef83`. Suite in-session
 > (2026-08-22): `check-vol5-apparatus.py` **113 chunks / 1,861 entries, all pass** (KNOWN_TOTALS
 > extended for pp. 445–449) · `check-vol5-census.py` **113/113**, 147 runovers (131 gutter-crossing,
