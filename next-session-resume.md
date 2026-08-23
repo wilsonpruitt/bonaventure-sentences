@@ -4,15 +4,21 @@
 > Hexaemeron**, whose own heading `SCHOLION.` stands at the very TOP of **p. 450** — no continuation
 > from Collatio XXIII, a fresh unit.
 >
-> ## ✅ `bon-hex-c23` IS TIER 2 — pp. 444–449, 31 ¶¶, 50 apparatus entries, FOUR `[?]` (2026-08-22)
-> Commit `ae281fa`. Suite in-session: `check-vol5-apparatus.py` **113 chunks / 1,861 entries, all
-> pass** (KNOWN_TOTALS extended for pp. 445–449) · `check-vol5-census.py` **113/113**, 147 runovers
-> (131 gutter-crossing, 16 page-crossing; c23 contributes one: p. 445 n. 10 → p. 446) ·
-> `polish-style-scan --volume 5` **CLEAN across 113 files** · `check-live-flags.py vol5`
-> **16 occurrences / 9 flags — THE BASELINE MOVED** (it was 10 / 5; c23 adds FOUR new flags, each
-> mirrored in both languages) · `build-content.mjs` **2064/2064, 8 books** · `build-citations.py`
-> QA flags **200, unchanged**. Marker pairing 50 / 50 / 50 in identical order (`p447-7` and
-> `p447-10` both anchor the same clause, deliberately); 31 numbered ¶¶ in each language.
+> ## ✅ `bon-hex-c23` IS TIER 2 — pp. 444–449, 31 ¶¶, 51 apparatus entries, FOUR `[?]` (2026-08-22,
+> Additamentum entry added 2026-08-23)
+> Commit `ae281fa`; the Additamentum apparatus entry landed in commit `a09ef83`. Suite in-session
+> (2026-08-22): `check-vol5-apparatus.py` **113 chunks / 1,861 entries, all pass** (KNOWN_TOTALS
+> extended for pp. 445–449) · `check-vol5-census.py` **113/113**, 147 runovers (131 gutter-crossing,
+> 16 page-crossing; c23 contributes one: p. 445 n. 10 → p. 446) · `polish-style-scan --volume 5`
+> **CLEAN across 113 files** · `check-live-flags.py vol5` **16 occurrences / 9 flags — THE BASELINE
+> MOVED** (it was 10 / 5; c23 adds FOUR new flags, each mirrored in both languages) ·
+> `build-content.mjs` **2064/2064, 8 books** · `build-citations.py` QA flags **200, unchanged**.
+> Marker pairing 50 / 50 / 50 in identical order (`p447-7` and `p447-10` both anchor the same clause,
+> deliberately); 31 numbered ¶¶ in each language. **Re-run after the 2026-08-23 Additamentum entry**:
+> `check-vol5-apparatus.py` **113 chunks / 1,862 entries, all pass**; census, live-flags, build, and
+> citations counts all UNCHANGED (the new entry is one apparatus item, not a new chunk); the only new
+> finding is an EXPECTED `polish-style-scan` `V5LABEL` flag on the bare (non-page-qualified) label
+> `51`, documented as deliberate in the chunk's own `## Notes`.
 > ⚠ Nothing pushed; push and deploy are protected.
 >
 > ## ★★★ A FULL RE-DERIVATION MID-CHUNK — READ THIS BEFORE TRUSTING ANY SINGLE PASS ON A LONG COLLATIO
@@ -32,18 +38,21 @@
 >   adoptionis`; `signatis supra montem Sion`; `signum Dei vivi`) could not be matched with confidence
 >   to one of p. 447's ten footer entries and were left unmarked rather than guessed. If a future
 >   session has the p. 447 plate back in view, resolving these is worth ten minutes.
-> - **★★★ A THIRD, PREVIOUSLY UNKNOWN STRUCTURAL UNIT SITS BETWEEN C23'S COLOPHON AND THIS SCHOLION —
->   THE FROZEN 24-CHUNK PLAN DID NOT ACCOUNT FOR IT.** p. 449, right after `EXPLICIUNT COLLATIONES IN
+> - **✅ RESOLVED 2026-08-23 — THE THIRD STRUCTURAL UNIT BETWEEN C23'S COLOPHON AND THIS SCHOLION IS
+>   NOW AN ANCHORED APPARATUS ENTRY, NOT A CHUNK.** p. 449, right after `EXPLICIUNT COLLATIONES IN
 >   HEXAËMERON.` and its own explanatory note (`Hic expliciunt codd. a nobis collati...totum ad
->   calcem posuimus`), prints a heading `ADDITAMENTUM.` followed by ONE paragraph (`Adhuc superest
->   visio quinta in principio operis proposita...`) that is **cut off by the physical foot of p. 449**
->   without reaching a sentence end. **p. 450 does NOT continue that sentence** — its running head
+>   calcem posuimus`, entry `p449-10`), prints a heading `ADDITAMENTUM.` followed by ONE paragraph
+>   (`Adhuc superest visio quinta in principio operis proposita...`) that is **cut off by the physical
+>   foot of p. 449** (at `...ad aperiendum cordium secreta, pro`) without reaching a sentence end.
+>   **p. 450 does NOT continue that sentence** (re-verified directly on the band) — its running head
 >   reads `IN HEXAËMERON SCHOLION.` and its body opens fresh with `Opusculum hoc ultimum S. Doctoris
->   hucusque fere neglectum est...`, in the Scholion's own first-person editorial voice. **Open
->   question, not resolved: does the Additamentum get its own chunk (a 25th unit), fold into
->   `bon-hex-scholion`'s front matter, or get tracked separately as untranslated editorial matter
->   outside the chunk count?** Wilson's call, or settle it deliberately before this chunk is written —
->   don't pattern-match past it.
+>   hucusque fere neglectum est...`, in the Scholion's own first-person editorial voice. **Wilson's
+>   ruling: transcribe it verbatim as a new, bare (non-page-qualified) apparatus entry `51` in
+>   `bon-hex-c23.md`'s own `## Apparatus`, anchored on the colophon line itself** (not on ¶ 31's last
+>   word, which already carries `p449-10`) — NOT its own 25th chunk, NOT folded into the Scholion's
+>   body. Full reasoning, the exact transcription, and the accepted `V5LABEL` scanner flag it produces
+>   are recorded in `bon-hex-c23.md`'s own `## Notes`. **`bon-hex-scholion` inherits nothing further
+>   from this** — the Additamentum is fully disposed of inside c23; do not re-open it.
 > - **`bon-hex-scholion` opens on p. 450** with `§ I.`, and its own text already cites Collatio XXIII
 >   by paragraph number (`loquens de Christo, ligno vitae, ait (23. n. 31.): «Ad hoc lignum vitae
 >   volui vos adducere»`) — which is what let this session confirm c23 has 31 ¶¶, not the Summarium's
@@ -80,8 +89,8 @@
 >    d. 2 has no pars chunks. Hand it to whoever works Book IV's body.
 > 5. **`bon-sent-I-prol-comm` p. 24 n. 2's `d. 18. p. I.`** — jointly impossible; leave the flag.
 > 6. **New:** c23's four `[?]` flags (p. 447, ¶¶ 12–14) — see above; not blocking, worth a look.
-> 7. **New:** the Additamentum ruling (own chunk / fold into Scholion / tracked outside the count) —
->    see above; needs a decision before `bon-hex-scholion` is written, or explicitly deferred past it.
+> 7. ✅ **DONE 2026-08-23:** the Additamentum ruling — resolved as apparatus entry `51`, anchored on
+>    the colophon; see above and `bon-hex-c23.md`'s `## Notes`.
 >
 > ## Cadence from here
 > **One gate remains: the work close**, at the Scholion (~p. 450–454), now ONE UNIT AWAY. The deploy
