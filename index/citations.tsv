@@ -20886,6 +20886,34 @@ bon-hex-c9	5	apparatus:p376-9	p376-9	scripture	apparatus-explicit	Eph. 3, 17	Eph
 bon-hex-c9	5	apparatus:p376-10	p376-10	scripture	apparatus-explicit	Psalm. 88, 6	Ps 88:6	A	verse		
 bon-hex-c9	5	apparatus:p376-10	p376-10	scripture	apparatus-explicit	II. Cor. 12, 2	2Cor 12:2	A	verse		
 bon-hex-c9	5	apparatus:p376-10	p376-10	scripture	apparatus-explicit	Matth. 7, 24	Matth 7:24	A	verse		
+bon-hex-scholion	5	latin_body		crossref	page	pag. 543	tom5:p543		forward		
+bon-hex-scholion	5	latin_body		scripture	apparatus-explicit	II. Cor. 3, 6	2Cor 3:6	A	verse		
+bon-hex-scholion	5	latin_body		scripture	apparatus-explicit	I. Cor. 8, 1	1Cor 8:1	A	verse		
+bon-hex-scholion	5	latin_body		scripture	apparatus-explicit	Gen. 2, 9	Gen 2:9	A	verse		
+bon-hex-scholion	5	latin_body		scripture	apparatus-explicit	Iac. 3, 17	Iac 3:17	A	verse		
+bon-hex-scholion	5	latin_body		scripture	apparatus-explicit	I. Cor. 13	1Cor 13	C	chapter		
+bon-hex-scholion	5	latin_body		scripture	apparatus-explicit	I. Cor. 12, 31	1Cor 12:31	A	verse		
+bon-hex-scholion	5	latin_body		scripture	apparatus-explicit	II. Esdr. 4, 17	2Esdr 4:17	A	verse		
+bon-hex-scholion	5	latin_body		scripture	apparatus-explicit	I. Cor. 2, 6	1Cor 2:6	A	verse		
+bon-hex-scholion	5	latin_body		crossref	work	Breviloq.	work:breviloquium		work		
+bon-hex-scholion	5	latin_body		crossref	anaphor->work	ibid.	work:breviloquium		work	yes	Breviloq.
+bon-hex-scholion	5	latin_body		crossref	logical	II. Sent. d. 23. a. 2. q. 3.	bon-sent-II-d23-a2-q3		chunk		
+bon-hex-scholion	5	latin_body		crossref	work	Itiner.	work:itinerarium		work		
+bon-hex-scholion	5	latin_body		crossref	relative-inherited	ibid.	bon-sent-II-d23-a2-q3		chunk		
+bon-hex-scholion	5	latin_body		scripture	apparatus-explicit	II. Cor. 4	2Cor 4	C	chapter		
+bon-hex-scholion	5	latin_body		scripture	apparatus-explicit	Gen. 1, 4	Gen 1:4	A	verse		
+bon-hex-scholion	5	latin_body		crossref	work	Breviloquio	work:breviloquium		work		
+bon-hex-scholion	5	latin_body		crossref	logical	I. Sent. d. 35.	I:d35		distinctio		
+bon-hex-scholion	5	latin_body		crossref	work	Breviloq. p. I. c. 8	bon-brev-p1-c8		chunk		
+bon-hex-scholion	5	latin_body		crossref	work	Itinerar.	work:itinerarium		work		
+bon-hex-scholion	5	latin_body		crossref	relative-inherited	ibid.	I:d35		distinctio		
+bon-hex-scholion	5	latin_body		scripture	apparatus-explicit	Gen. 1, 8	Gen 1:8	A	verse		
+bon-hex-scholion	5	latin_body		crossref	anaphor->work	loc. cit.	work:breviloquium		work	yes	Breviloq.
+bon-hex-scholion	5	latin_body		scripture	apparatus-explicit	II. Tim. 3, 16	2Tim 3:16	A	verse		
+bon-hex-scholion	5	latin_body		crossref	logical	II. Sent. d. 12. a. 1. q. 2.	bon-sent-II-d12-a1-q2		chunk		
+bon-hex-scholion	5	latin_body		crossref	page	pag. 55	tom5:p55		forward		
+bon-hex-scholion	5	latin_body		authority	authority:Bonav.	I. Sent. d. 5. dub. 4.			excluded		
+bon-hex-scholion	5	apparatus:p450-1	p450-1	scripture	apparatus-explicit	Gen. 2, 7	Gen 2:7	A	verse		
 bon-itin-c1	5	apparatus:p296-6	p296-6	scripture	apparatus-explicit	Psalm. 83, 6	Ps 83:6	A	verse		
 bon-itin-c1	5	apparatus:p297-1	p297-1	scripture	apparatus-explicit	Ps. 85, 11	Ps 85:11	A	verse		
 bon-itin-c1	5	apparatus:p297-1	p297-1	crossref	work	Breviloq. p. V. c. 1.	bon-brev-p5-c1		chunk		

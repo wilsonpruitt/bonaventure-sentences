@@ -1839,6 +1839,9 @@ KNOWN_TOTALS = {
               # as bare (non-page-qualified) apparatus entry `51`, anchored on
               # the colophon; it is not one of this page's ten numbered
               # footer notes and so is correctly invisible to this map.
+    450: 1,   # bon-hex-scholion's sole entry: the reportator's colophon, an
+              # unnumbered/unanchored page-foot quotation (not a Bonaventure
+              # footnote) transcribed as bare entry p450-1.
 }
 
 
