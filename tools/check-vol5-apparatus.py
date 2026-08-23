@@ -1834,7 +1834,11 @@ KNOWN_TOTALS = {
     446: 9,   # all Collatio XXIII's
     447: 10,  # all Collatio XXIII's
     448: 10,  # all Collatio XXIII's
-    449: 10,  # all Collatio XXIII's; n.10 explains EXPLICIUNT + ADDITAMENTUM
+    449: 10,  # all Collatio XXIII's; n.10 explains EXPLICIUNT + ADDITAMENTUM.
+              # The Additamentum's own heading+text is transcribed separately
+              # as bare (non-page-qualified) apparatus entry `51`, anchored on
+              # the colophon; it is not one of this page's ten numbered
+              # footer notes and so is correctly invisible to this map.
 }
 
 
