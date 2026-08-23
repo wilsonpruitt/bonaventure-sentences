@@ -20454,6 +20454,85 @@ bon-hex-c22	5	apparatus:p443-8	p443-8	crossref	page	supra pag. 221, nota 5	bon-b
 bon-hex-c22	5	apparatus:p443-9	p443-9	scripture	apparatus-explicit	Rom. 11, 33	Rom 11:33	A	verse		
 bon-hex-c22	5	apparatus:p444-1	p444-1	scripture	apparatus-explicit	Matth. 17, 3	Matth 17:3	A	verse		
 bon-hex-c22	5	apparatus:p444-2	p444-2	scripture	apparatus-explicit	Apoc. 11, 19	Apoc 11:19	A	verse		
+bon-hex-c23	5	latin_body		crossref	relative-bare	ibid			unresolvable		
+bon-hex-c23	5	apparatus:p444-3	p444-3	scripture	apparatus-explicit	Gen. 1, 16	Gen 1:16	A	verse		
+bon-hex-c23	5	apparatus:p445-1	p445-1	scripture	apparatus-explicit	Eph. 1, 22	Eph 1:22	A	verse		
+bon-hex-c23	5	apparatus:p445-1	p445-1	scripture	apparatus-explicit	Col. 1, 18	Col 1:18	A	verse		
+bon-hex-c23	5	apparatus:p445-1	p445-1	scripture	apparatus-explicit	Rom. 12, 4	Rom 12:4	A	verse		
+bon-hex-c23	5	apparatus:p445-1	p445-1	scripture	apparatus-explicit	I. Cor. 10, 17	1Cor 10:17	A	verse		
+bon-hex-c23	5	apparatus:p445-1	p445-1	scripture	apparatus-explicit	Ps. 92, 1	Ps 92:1	A	verse		
+bon-hex-c23	5	apparatus:p445-4	p445-4	scripture	apparatus-explicit	Apoc. 21, 10	Apoc 21:10	A	verse		
+bon-hex-c23	5	apparatus:p445-4	p445-4	crossref	page	supra pag. 377, nota 3	bon-hex-c10		chunk		
+bon-hex-c23	5	apparatus:p445-4	p445-4	crossref	anaphor->page	ibid.	bon-hex-c10		chunk	yes	supra pag. 377, nota 3
+bon-hex-c23	5	apparatus:p445-5	p445-5	crossref	anaphor->page	ibid.	bon-hex-c10		chunk	yes	supra pag. 377, nota 3
+bon-hex-c23	5	apparatus:p445-6	p445-6	crossref	page	supra pag. 399, nota 4	bon-hex-c15		chunk		
+bon-hex-c23	5	apparatus:p445-6	p445-6	crossref	page	pag. 402, nota 3	bon-hex-c15		chunk		
+bon-hex-c23	5	apparatus:p445-6	p445-6	scripture	apparatus-explicit	Gen. 41, 51	Gen 41:51	A	verse		
+bon-hex-c23	5	apparatus:p445-7	p445-7	scripture	apparatus-explicit	Gen. 49, 5	Gen 49:5	A	verse		
+bon-hex-c23	5	apparatus:p445-8	p445-8	scripture	apparatus-explicit	Apoc. 16, 12	Apoc 16:12	A	verse		
+bon-hex-c23	5	apparatus:p445-8	p445-8	scripture	anaphor->apparatus-explicit	ibid.	Apoc 16:12	A	verse	yes	Apoc. 16, 12
+bon-hex-c23	5	apparatus:p446-1	p446-1	crossref	page	supra pag. 414, nota 3	bon-hex-c17+bon-hex-c18		page-multi		
+bon-hex-c23	5	apparatus:p446-1	p446-1	scripture	apparatus-explicit	Eph. 3, 18	Eph 3:18	A	verse		
+bon-hex-c23	5	apparatus:p446-1	p446-1	scripture	apparatus-explicit	Apoc. 21, 16	Apoc 21:16	A	verse		
+bon-hex-c23	5	apparatus:p446-2	p446-2	scripture	apparatus-explicit	Ioan. 6, 41	Ioan 6:41	A	verse		
+bon-hex-c23	5	apparatus:p446-2	p446-2	scripture	apparatus-explicit	Sap. 7, 11	Sap 7:11	A	verse		
+bon-hex-c23	5	apparatus:p446-6	p446-6	scripture	apparatus-explicit	Ierem. 31, 3	Ierem 31:3	A	verse		
+bon-hex-c23	5	apparatus:p446-6	p446-6	scripture	apparatus-explicit	Eph. 1, 4	Eph 1:4	A	verse		
+bon-hex-c23	5	apparatus:p446-6	p446-6	scripture	apparatus-explicit	I. Petr. 1, 20	1Petr 1:20	A	verse		
+bon-hex-c23	5	apparatus:p446-6	p446-6	crossref	page	supra pag. 340, nota 3	bon-hex-c2		chunk		
+bon-hex-c23	5	apparatus:p446-7	p446-7	scripture	apparatus-explicit	Cant. 4, 12	Cant 4:12	A	verse		
+bon-hex-c23	5	apparatus:p446-7	p446-7	scripture	apparatus-explicit	Rom. 8, 35	Rom 8:35	A	verse		
+bon-hex-c23	5	apparatus:p446-7	p446-7	crossref	logical	III. Sent. d. 31. a. 1. q. 1.	bon-sent-III-d31-a1-q1		chunk		
+bon-hex-c23	5	apparatus:p446-7	p446-7	crossref	logical	IV. Sent. d. 14. p. II. a. 1. q. 1.	bon-sent-IV-d14-p2-a1-q1		chunk		
+bon-hex-c23	5	apparatus:p446-8	p446-8	scripture	apparatus-explicit	Rom. 5, 5	Rom 5:5	A	verse		
+bon-hex-c23	5	apparatus:p447-1	p447-1	crossref	page	supra pag. 421, nota 1	bon-hex-c19		chunk		
+bon-hex-c23	5	apparatus:p447-2	p447-2	scripture	apparatus-explicit	Cant. 8, 7	Cant 8:7	A	verse		
+bon-hex-c23	5	apparatus:p447-3	p447-3	scripture	apparatus-explicit	Apoc. 13, 8	Apoc 13:8	A	verse		
+bon-hex-c23	5	apparatus:p447-4	p447-4	crossref	page	supra pag. 340, nota 3	bon-hex-c2		chunk		
+bon-hex-c23	5	apparatus:p447-5	p447-5	scripture	apparatus-explicit	Cant. 4, 14	Cant 4:14	A	verse		
+bon-hex-c23	5	apparatus:p447-7	p447-7	scripture	apparatus-explicit	Apoc. 7, 5	Apoc 7:5	A	verse		
+bon-hex-c23	5	apparatus:p447-8	p447-8	scripture	apparatus-explicit	Apoc. 7, 5	Apoc 7:5	A	verse		
+bon-hex-c23	5	apparatus:p447-9	p447-9	scripture	apparatus-explicit	Apoc. 7, 5	Apoc 7:5	A	verse		
+bon-hex-c23	5	apparatus:p448-1	p448-1	scripture	apparatus-explicit	Apoc. 7, 6	Apoc 7:6	A	verse		
+bon-hex-c23	5	apparatus:p448-1	p448-1	scripture	apparatus-explicit	Gen. 30, 12	Gen 30:12	A	verse		
+bon-hex-c23	5	apparatus:p448-2	p448-2	scripture	apparatus-explicit	Apoc. 7, 6	Apoc 7:6	A	verse		
+bon-hex-c23	5	apparatus:p448-2	p448-2	scripture	apparatus-explicit	Gen. 30, 7	Gen 30:7	A	verse		
+bon-hex-c23	5	apparatus:p448-3	p448-3	scripture	apparatus-explicit	Apoc. 7, 6	Apoc 7:6	A	verse		
+bon-hex-c23	5	apparatus:p448-3	p448-3	scripture	apparatus-explicit	Gen. 41, 51	Gen 41:51	A	verse		
+bon-hex-c23	5	apparatus:p448-4	p448-4	scripture	apparatus-explicit	Psalm. 44, 11	Ps 44:11	A	verse		
+bon-hex-c23	5	apparatus:p448-6	p448-6	scripture	apparatus-explicit	Apoc. 7, 7	Apoc 7:7	A	verse		
+bon-hex-c23	5	apparatus:p448-6	p448-6	scripture	apparatus-explicit	Gen. 29, 33	Gen 29:33	A	verse		
+bon-hex-c23	5	apparatus:p448-6	p448-6	scripture	apparatus-explicit	Luc. 2, 25	Luc 2:25	A	verse		
+bon-hex-c23	5	apparatus:p448-7	p448-7	scripture	apparatus-explicit	Apoc. 7, 7	Apoc 7:7	A	verse		
+bon-hex-c23	5	apparatus:p448-7	p448-7	scripture	apparatus-explicit	Gen. 29, 34	Gen 29:34	A	verse		
+bon-hex-c23	5	apparatus:p448-7	p448-7	scripture	apparatus-explicit	Exod. 32, 26	Exod 32:26	A	verse		
+bon-hex-c23	5	apparatus:p448-7	p448-7	scripture	apparatus-explicit	Num. 25, 7	Num 25:7	A	verse		
+bon-hex-c23	5	apparatus:p448-8	p448-8	scripture	apparatus-explicit	Exod. 32, 19	Exod 32:19	A	verse		
+bon-hex-c23	5	apparatus:p448-8	p448-8	scripture	apparatus-explicit	I. Reg. 4, 11	1Reg 4:11	A	verse		
+bon-hex-c23	5	apparatus:p448-8	p448-8	scripture	apparatus-explicit	Eccli. 42, 14	Eccli 42:14	A	verse		
+bon-hex-c23	5	apparatus:p448-9	p448-9	scripture	apparatus-explicit	Ioan. 2, 14	Ioan 2:14	A	verse		
+bon-hex-c23	5	apparatus:p448-9	p448-9	scripture	apparatus-explicit	Prov. 14, 29	Prov 14:29	A	verse		
+bon-hex-c23	5	apparatus:p448-9	p448-9	scripture	apparatus-explicit	Ioan. 19, 15	Ioan 19:15	A	verse		
+bon-hex-c23	5	apparatus:p448-10	p448-10	scripture	apparatus-explicit	Apoc. 7, 7	Apoc 7:7	A	verse		
+bon-hex-c23	5	apparatus:p448-10	p448-10	scripture	apparatus-explicit	Gen. 49, 14	Gen 49:14	A	verse		
+bon-hex-c23	5	apparatus:p448-10	p448-10	scripture	apparatus-explicit	Matth. 5, 11	Matth 5:11	A	verse		
+bon-hex-c23	5	apparatus:p449-1	p449-1	crossref	page	supra pag. 313, nota 3	bon-itin-c7+bon-itin-scholion		page-multi		
+bon-hex-c23	5	apparatus:p449-2	p449-2	scripture	apparatus-explicit	Ps. 90, 9	Ps 90:9	A	verse		
+bon-hex-c23	5	apparatus:p449-2	p449-2	scripture	apparatus-explicit	Prov. 18, 10	Prov 18:10	A	verse		
+bon-hex-c23	5	apparatus:p449-2	p449-2	scripture	apparatus-explicit	Iac. 1, 17	Iac 1:17	A	verse		
+bon-hex-c23	5	apparatus:p449-2	p449-2	scripture	apparatus-explicit	Ps. 30, 2	Ps 30:2	A	verse		
+bon-hex-c23	5	apparatus:p449-4	p449-4	scripture	apparatus-explicit	Gen. 49, 22	Gen 49:22	A	verse		
+bon-hex-c23	5	apparatus:p449-4	p449-4	scripture	apparatus-explicit	Eccli. 49, 17	Eccli 49:17	A	verse		
+bon-hex-c23	5	apparatus:p449-5	p449-5	crossref	page	supra pag. 430, nota 7	bon-hex-c20		chunk		
+bon-hex-c23	5	apparatus:p449-5	p449-5	scripture	apparatus-explicit	Apoc. 3, 7	Apoc 3:7	A	verse		
+bon-hex-c23	5	apparatus:p449-6	p449-6	scripture	apparatus-explicit	Apoc. 7, 8	Apoc 7:8	A	verse		
+bon-hex-c23	5	apparatus:p449-6	p449-6	scripture	apparatus-explicit	Gen. 35, 18	Gen 35:18	A	verse		
+bon-hex-c23	5	apparatus:p449-6	p449-6	scripture	apparatus-explicit	Deut. 33, 12	Deut 33:12	A	verse		
+bon-hex-c23	5	apparatus:p449-7	p449-7	crossref	page	supra pag. 383, nota 5	bon-hex-c11		chunk		
+bon-hex-c23	5	apparatus:p449-8	p449-8	scripture	apparatus-explicit	Apoc. 2, 17	Apoc 2:17	A	verse		
+bon-hex-c23	5	apparatus:p449-8	p449-8	scripture	anaphor->apparatus-explicit	ibid.	Apoc 2:17	A	verse	yes	Apoc. 2, 17
+bon-hex-c23	5	apparatus:p449-8	p449-8	crossref	page	supra pag. 419, nota 5	bon-hex-c18+bon-hex-c19		page-multi		
+bon-hex-c23	5	apparatus:p449-9	p449-9	scripture	apparatus-explicit	Cant. 3, 9	Cant 3:9	A	verse		
 bon-hex-c3	5	latin_body		scripture	body-ordinal	Ioannis primo	Ioan 1	C	chapter		
 bon-hex-c3	5	latin_body		scripture	body-ordinal	ad Hebraeos quarto	Hebr 4	C	chapter		
 bon-hex-c3	5	apparatus:p343-1	p343-1	scripture	apparatus-explicit	Eccli. 15, 5	Eccli 15:5	A	verse		

@@ -1830,6 +1830,11 @@ KNOWN_TOTALS = {
     442: 8,   # n.5 runs over the gutter; block 5/3, anchors 3/5
     443: 11,  # n.11 RUNS OVER onto p. 444; block 5/6, anchors 4/7
     444: 3,   # BOUNDARY LEAF: p.443 n.11's runover, then nn.1-2 Collatio XXII's, n.3 Collatio XXIII's
+    445: 10,  # all Collatio XXIII's; n.10 runs over onto p.446
+    446: 9,   # all Collatio XXIII's
+    447: 10,  # all Collatio XXIII's
+    448: 10,  # all Collatio XXIII's
+    449: 10,  # all Collatio XXIII's; n.10 explains EXPLICIUNT + ADDITAMENTUM
 }
 
 
