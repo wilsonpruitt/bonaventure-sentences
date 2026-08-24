@@ -1,5 +1,66 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **WORKING THE "STILL OWED" LIST (2026-08-23, session 2).** The Hexaemeron's
+> four-pass work-close gate is done and PUSHED (`897071a`). Deploy is still owed and still
+> protected. This session did NOT deploy; it went after the owed list and opened a defect class.
+>
+> ## ✅ OWED ITEM RESOLVED — `bon-sent-I-d25-littera` `[^17]`: `pag. 19` → `pag. 49`
+> Commit `7a3f362`. Confirmed on the p. 433 plate (IA `doctorisseraphic12bona`, leaf `n22`):
+> Quaracchi prints a clean, well-inked **`49`**. Our `19` was never on the page — the djvu OCR
+> reads the **non-word `pag. i9`**, and a transcription pass normalized it to `19`. Wrong
+> direction: `i` in this face is most often **`4`** (the same footer's n. 4 OCRs `edd. i, 6, 9`
+> where the plate prints `4, 6, 9`). Corroborated substantively *before* the plate was opened —
+> p. 49 n. 3 IS the *dant*/*perhibent* note on 1 John 5:7 that `[^17]` points at; p. 19 n. 3 is
+> about *sed ut esset essentia*.
+>
+> ## ⚠⚠ IT IS A CLASS, NOT A ONE-OFF — see `AUDIT-QUEUE.md`'s new section
+> Cross-references (`Cfr./Vide supra pag. N, nota M`) are short digit strings with **no semantic
+> redundancy**, so one OCR slip yields a reference that is still well-formed and **still
+> resolves — silently, to the wrong note**. Six more found and fixed in the same commit:
+> `d30-a1-q3` `[^4]` (`nota 1`→`4`), `[^6]` and `[^9]` (`pag. 433`→`453`), `[^4s]`
+> (`pag. 133`→`453`), `[^6s]` (`IV. c. 13`→`15`), and `d30-a1-q1` `[^8]`
+> (`de Trin. c. [4]`→`c. 5`). Digit classes: `4`→`i`/`t`, `5`→`3`, `4`→`1`; they **compound**
+> (`453` OCR'd `t33` is both).
+>
+> ## ⛔ NO MECHANICAL FIX — this is the load-bearing lesson
+> `i` is **not** always `4`. `d32-a2-q2` `[^14]`'s `pag. i80` is genuinely **180** (p. 564 plate,
+> n. 8), and `d30-a1-q1` `[^8]`'s `pag. 47` is right. A blanket `i`→`4` sweep would have
+> corrupted both. **Every site needs its own plate.** What works: grep the raw for the non-word,
+> then read the note at the *claimed* address and ask if it is about what the citing note says —
+> that substantive check alone killed `pag. 19` and `pag. 133` before any plate was fetched.
+>
+> ## ▶▶ NEEDS WILSON'S RULING — three open items, none of them mechanical
+> 1. **`d30-a1-q3`'s `s`-series labels look transposed.** Plate p. 526 prints n. 1 = *Cfr. infra
+>    dub. 4*, n. 2 = *Supple: aliquid…*; our `[^1s]`/`[^2s]` carry those the other way round.
+>    Fixing it needs the body read against the plate (is it the anchors or the labels?), not a
+>    label swap.
+> 2. **`d30-a1-q3`'s `printed_pages: [524, 525]` omits p. 526**, where its entire Scholion
+>    apparatus block prints. Probably a frontmatter class defect anywhere a Scholion runs past
+>    the body's last page — scope unknown.
+> 3. **~11 raw `pag. <non-word>` sites are still unaudited.** A full sweep is one plate per site.
+>
+> ## ★ PLATE FETCH WITH NO PDF ON DISK (earned this session)
+> Vol I's PDFs are not local, and they were not needed:
+> `https://archive.org/download/doctorisseraphic12bona/page/n<leaf>.jpg`, where
+> **leaf = printed − 411** for Vol I pt 2 (calibrated twice: printed 433 → `n22`, 525 → `n114`).
+> Full-page 2215×3404 JPEGs, legible at the footer under a 2× crop. Cheaper than `pdftoppm`.
+>
+> ## ▶▶ DEPLOY IS STILL OWED AND STILL PROTECTED
+> `master` is **1 ahead of origin** (`7a3f362`) — push is protected too. `vercel build --prod`
+> ran clean this session but is now **stale** (four chunks changed after it); rebuild before any
+> deploy. The `Dictae salutis` fix (`bon-hex-c8`, p. 372 n. 1) still is not live and rides with
+> whatever deploy comes next, alongside these seven cross-reference fixes.
+>
+> ## ⚠ REMAINING "STILL OWED" ITEMS, UNCHANGED
+> - About page's **"What Is Known to Be Wrong"** section — Wilson's to frame. (The class above is
+>   now a strong candidate for it.)
+> - Quaracchi cite `IV. Sent. d. 2. p. I.` — Book IV's d. 2 has no pars chunks; for whoever
+>   works Book IV's body.
+> - `bon-sent-I-prol-comm` p. 24 n. 2's `d. 18. p. I.` — jointly impossible; flag stands.
+
+---
+
+## (superseded) previous START HERE — work-close gate complete, 2026-08-23
 > # ▶▶▶ START HERE — **THE WORK-CLOSE GATE IS DONE (2026-08-23). PUSH + DEPLOY ARE NEXT, BOTH
 > PROTECTED, BOTH WILSON'S CALL.** All four passes ran clean; see below. The Hexaemeron's twenty-four
 > chunks (23 collationes + Scholion) are Tier 2 and the gate has confirmed the whole work.
