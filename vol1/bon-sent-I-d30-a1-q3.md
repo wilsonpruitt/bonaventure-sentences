@@ -166,14 +166,14 @@ Since therefore our intellect, when it understands something as related to somet
 [^3]: **La.** Id est, ordinem superioritatis.
     **En.** That is, an order of superiority.
 
-[^4]: **La.** De Divin. Nom. c. 9. § 6. Cfr. supra pag. 346, nota 1.
-    **En.** Dionysius, *On the Divine Names*, c. 9. § 6. Cf. above p. 346, n. [^?-dn1].
+[^4]: **La.** De Divin. Nom. c. 9. § 6. Cfr. supra pag. 346, nota 4.
+    **En.** Dionysius, *On the Divine Names*, c. 9. § 6. Cf. above p. 346, n. 4.
 
 [^5]: **La.** De Praedicam. c. de Relatione, et V. Metaph. text. 20. (IV. c. 15.).
     **En.** Aristotle, *Categories*, ch. on Relation, and *Metaphysics* V, text 20 (IV. c. 15.).
 
-[^6]: **La.** Simul audi: a creatura. — Vide supra pag. 433, nota 4.
-    **En.** Understand simultaneously: "by the creature." — See above p. 433, n. 4.
+[^6]: **La.** Simul audi: a creatura. — Vide supra pag. 453, nota 4.
+    **En.** Understand simultaneously: "by the creature." — See above p. 453, n. 4.
 
 [^7]: **La.** Vat., mutata interpunctione, addit *sciendum*, pro quo codd. X Z *notandum*.
     **En.** The Vatican edition, with changed punctuation, adds *sciendum* [i.e., "it is to be known"], in place of which codices X Z read *notandum* [i.e., "it is to be noted"].
@@ -181,8 +181,8 @@ Since therefore our intellect, when it understands something as related to somet
 [^8]: **La.** Hinc et Aristot. similia vocat «quae sunt unum in qualitate». Cfr. supra pag. 342, nota 6.
     **En.** Hence Aristotle also calls similar things "those which are one in quality." Cf. above p. 342, n. 6.
 
-[^9]: **La.** Cfr. supra pag. 433, nota 6.
-    **En.** Cf. above p. 433, n. 6.
+[^9]: **La.** Cfr. supra pag. 453, nota 6.
+    **En.** Cf. above p. 453, n. 6.
 
 [^10]: **La.** Aristot., V. Metaph. text. 20. (IV. c. 15.).
     **En.** Aristotle, *Metaphysics* V, text 20 (IV. c. 15.).
@@ -199,14 +199,14 @@ Since therefore our intellect, when it understands something as related to somet
 [^3s]: **La.** Intellige auctorem libri de Causis, qui prop. 24. ait: «Causa prima existit in omnibus rebus secundum unam dispositionem, sed res omnes non existunt in causa prima secundum unam dispositionem». Richard. a Mediavilla, hic q. i. verbis istis haec adiungit: «Sed si ea quae dicuntur de Deo ex tempore, ponerent in Deo reales relationes ad creaturam, non existeret in omnibus secundum dispositionem unam: ergo non ponunt in Deo aliquam realem relationem ad creaturam». — Paulo superius post *alia habitudo* vetustiores codd. cum ed. I omittunt *ad Filium*.
     **En.** Understand the author of the *Book of Causes*, who at prop. 24 says: "The first cause exists in all things according to one disposition, but all things do not exist in the first cause according to one disposition." Richard of Middleton, here q. i., adds these words to that text: "But if those things which are predicated of God in time were to posit in God real relations to the creature, [the first cause] would not exist in all things according to one disposition: therefore they do not posit in God any real relation to the creature." — A little above, after *alia habitudo*, older codices with ed. I omit *ad Filium*.
 
-[^4s]: **La.** Aristot., XII. Metaph. text. 52. Verba ipsa invenies supra pag. 133, nota 4.
-    **En.** Aristotle, *Metaphysics* XII, text 52. The very words can be found above p. 133, n. 4.
+[^4s]: **La.** Aristot., XII. Metaph. text. 52. Verba ipsa invenies supra pag. 453, nota 4.
+    **En.** Aristotle, *Metaphysics* XII, text 52. The very words can be found above p. 453, n. 4.
 
 [^5s]: **La.** Pro *rem* Vat. cum cod. cc *esse*.
     **En.** In place of *rem* [reality], the Vatican edition with codex cc reads *esse* [being].
 
-[^6s]: **La.** Aristot., V. Metaph. text. 20. (IV. c. 13.): *Mensurabile autem et scibile et intelligibile, eo quod aliud ad illud dicitur, ad aliquid (i. e. relativa) dicuntur. Nam intelligibile significat quod eius est intellectus; non est autem intellectus ad illud cuius intellectus est: idem enim profecto bis dictum esset.* — Pro *mensurabile* multi codd. *mensuratio*, cod. Iv et ed. I *mensuratum*; sed incongrue.
-    **En.** Aristotle, *Metaphysics* V, text 20 (IV. c. 13.): *But the measurable and the knowable and the intelligible are said to be in relation to something, because another is related to them. For the intelligible signifies that there is a knowledge of it; but knowledge is not related to that of which it is the knowledge: for then the same thing would have been said twice.* — In place of *mensurabile* [measurable], many codices read *mensuratio* [measuring], codex Iv and ed. I read *mensuratum* [measured thing]; but inaptly.
+[^6s]: **La.** Aristot., V. Metaph. text. 20. (IV. c. 15.): *Mensurabile autem et scibile et intelligibile, eo quod aliud ad illud dicitur, ad aliquid (i. e. relativa) dicuntur. Nam intelligibile significat quod eius est intellectus; non est autem intellectus ad illud cuius intellectus est: idem enim profecto bis dictum esset.* — Pro *mensurabile* multi codd. *mensuratio*, cod. Iv et ed. I *mensuratum*; sed incongrue.
+    **En.** Aristotle, *Metaphysics* V, text 20 (IV. c. 15.): *But the measurable and the knowable and the intelligible are said to be in relation to something, because another is related to them. For the intelligible signifies that there is a knowledge of it; but knowledge is not related to that of which it is the knowledge: for then the same thing would have been said twice.* — In place of *mensurabile* [measurable], many codices read *mensuratio* [measuring], codex Iv and ed. I read *mensuratum* [measured thing]; but inaptly.
 
 [^7s]: **La.** Vat. cum cod. cc *creatio*.
     **En.** The Vatican edition with codex cc reads *creatio* [creation] [in place of *creator*].

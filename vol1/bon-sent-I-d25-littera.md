@@ -184,9 +184,9 @@ From the foregoing it is gathered that the name *person* in the Trinity holds a 
 
     **En.** John 10:30.
 
-[^17]: **La.** I. Ioan. 5, 7. Vulgata: *Quoniam tres sunt, qui testimonium dant in caelo*. Etiam cod. C cum Vulgata legit *dant* pro *perhibent*. Cfr. supra pag. 19, nota 3. — Infra Vat. cum aliis edd., excepta I, transponit verba *ad respondendum* post *persona*.
+[^17]: **La.** I. Ioan. 5, 7. Vulgata: *Quoniam tres sunt, qui testimonium dant in caelo*. Etiam cod. C cum Vulgata legit *dant* pro *perhibent*. Cfr. supra pag. 49, nota 3. — Infra Vat. cum aliis edd., excepta I, transponit verba *ad respondendum* post *persona*.
 
-    **En.** 1 John 5:7. The Vulgate reads: *For there are three who give testimony in heaven*. Also codex C with the Vulgate reads *dant* in place of *perhibent* ("give testimony"). Cf. above p. 19, note 3. — Below, the Vatican edition with the other editions, except 1, transposes the words *ad respondendum* ("for answering") after *persona*.
+    **En.** 1 John 5:7. The Vulgate reads: *For there are three who give testimony in heaven*. Also codex C with the Vulgate reads *dant* in place of *perhibent* ("give testimony"). Cf. above p. 49, note 3. — Below, the Vatican edition with the other editions, except 1, transposes the words *ad respondendum* ("for answering") after *persona*.
 
 [^18]: **La.** Cap. 3. n. 3. Sequens locus est ibid. c. 5. n. 5. — Supra, ante *haec* in Vat. cum edd. 1, 6 *dicimus* pro *diximus*.
 

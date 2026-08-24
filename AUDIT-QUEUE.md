@@ -89,3 +89,57 @@ Attack DEEP first while fresh; SKIM at end.
 | SKIM | `bon-sent-I-d6-divisio` | 1.2 | 210 | — | 0m |
 | SKIM | `bon-sent-I-d7-divisio` | 1.1 | 330 | — | 0m |
 | SKIM | `bon-sent-I-d3-p2-divisio` | 0.1 | 103 | — | 0m |
+---
+
+## ⚠ OPEN DEFECT CLASS — CROSS-REFERENCE DIGITS IN VOL I APPARATUS (found 2026-08-23)
+
+**What it is.** Quaracchi's internal cross-references (`Cfr./Vide supra pag. N, nota M`) are
+short digit strings with no semantic redundancy, so a single OCR slip produces a reference that
+is **still well-formed and still resolves** — silently, to the wrong note. The djvu OCR renders
+the bad digit as a **non-word** (`pag. i9`, `pag. t33`, `pag. i7`), and transcription passes
+normalized those non-words to the nearest plausible digit, which is frequently wrong.
+
+**Digit classes attested on plates:** `4`→`i`/`t`, `5`→`3`, `4`→`1`. They compound: `453` OCR'd
+as `t33` is BOTH `4`→`t` and `5`→`3` in one string.
+
+**⛔ There is no safe mechanical fix.** `i` is not always `4`: `bon-sent-I-d32-a2-q2` `[^14]`'s
+`pag. i80` is genuinely **180** (p. 564 plate, n. 8) — a blanket `i`→`4` substitution would have
+corrupted a correct reference. **Every instance needs its own plate.**
+
+**Detection that works** (both cheap, use both):
+1. Grep the raw djvu for `pag\.\s*[it0-9]*[it][0-9]*` — the non-word is the tell.
+2. **Substantive check before any plate:** read the note at the *claimed* address and ask whether
+   it is about what the citing note says it is about. This alone killed `pag. 19` and `pag. 133`.
+
+### Resolved 2026-08-23 (all confirmed against IA `doctorisseraphic12bona` plates)
+| Chunk | Note | Was | Is | Plate |
+|---|---|---|---|---|
+| `bon-sent-I-d25-littera` | `[^17]` | `pag. 19, nota 3` | `pag. 49, nota 3` | p. 433 `n22` |
+| `bon-sent-I-d30-a1-q3` | `[^4]` | `pag. 346, nota 1` | `pag. 346, nota 4` | p. 525 `n114` |
+| `bon-sent-I-d30-a1-q3` | `[^6]` | `pag. 433, nota 4` | `pag. 453, nota 4` | p. 525 `n114` |
+| `bon-sent-I-d30-a1-q3` | `[^9]` | `pag. 433, nota 6` | `pag. 453, nota 6` | p. 525 `n114` |
+| `bon-sent-I-d30-a1-q3` | `[^4s]` | `pag. 133, nota 4` | `pag. 453, nota 4` | p. 526 `n115` |
+| `bon-sent-I-d30-a1-q3` | `[^6s]` | `(IV. c. 13.)` | `(IV. c. 15.)` | p. 526 `n115` |
+| `bon-sent-I-d30-a1-q1` | `[^8]` | `de Trin. c. [4]` | `de Trin. c. 5` | p. 522 `n111` |
+
+### Verified CORRECT, do not "fix"
+| Chunk | Note | Reading | Plate |
+|---|---|---|---|
+| `bon-sent-I-d32-a2-q2` | `[^14]` | `pag. 180, nota 5` | p. 564 `n153`, n. 8 |
+| `bon-sent-I-d30-a1-q1` | `[^8]` | `pag. 47, nota 3` | p. 522 `n111`, n. 2 |
+
+### ⛔ STILL OPEN — needs Wilson's scope ruling
+- **`bon-sent-I-d30-a1-q3`'s `s`-series is numbered against the plate.** Plate p. 526 prints
+  n. 1 = *Cfr. infra dub. 4* and n. 2 = *Supple: aliquid…*; our `[^1s]`/`[^2s]` carry those
+  **transposed**. Either our anchors sit in the wrong order in the body or the labels were
+  assigned out of plate order — resolving it needs the body text read against the plate, not a
+  label swap.
+- **The chunk's `printed_pages: [524, 525]` omits p. 526**, where its whole Scholion apparatus
+  block actually prints. Likely a frontmatter class defect wherever a Scholion runs past the
+  body's last page.
+- **The remaining raw hits are unaudited.** ~18 `pag. <non-word>` sites across
+  `bonaventure_vol1_raw.txt` + `_pt2_`; only the 7 above have been opened. Full sweep is a
+  plate-per-site job.
+
+**Plate fetch (no PDF needed):** `https://archive.org/download/doctorisseraphic12bona/page/n<leaf>.jpg`
+where **leaf = printed − 411** for Vol I pt 2 (calibrated: printed 433 → `n22`, 525 → `n114`).

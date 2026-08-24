@@ -747,8 +747,8 @@ bon-sent-I-d25-littera	1	apparatus:3	3	crossref	page	pag. 402, nota 1	bon-sent-I
 bon-sent-I-d25-littera	1	apparatus:9	9	crossref	anaphor->page	ibid.	bon-sent-I-d23-littera		chunk	yes	pag. 402, nota 1
 bon-sent-I-d25-littera	1	apparatus:16	16	scripture	apparatus-explicit	Ioan. 10, 30	Ioan 10:30	A	verse		
 bon-sent-I-d25-littera	1	apparatus:17	17	scripture	apparatus-explicit	I. Ioan. 5, 7	1Ioan 5:7	A	verse		
-bon-sent-I-d25-littera	1	apparatus:17	17	crossref	page	supra pag. 19, nota 3	bon-sent-I-capitula		chunk		
-bon-sent-I-d25-littera	1	apparatus:18	18	crossref	anaphor->page	ibid.	bon-sent-I-capitula		chunk	yes	supra pag. 19, nota 3
+bon-sent-I-d25-littera	1	apparatus:17	17	crossref	page	supra pag. 49, nota 3	bon-sent-I-d2-divisio+bon-sent-I-d2-littera		page-multi		
+bon-sent-I-d25-littera	1	apparatus:18	18	crossref	anaphor->page	ibid.	bon-sent-I-d2-divisio+bon-sent-I-d2-littera		page-multi	yes	supra pag. 49, nota 3
 bon-sent-I-d26-a1-q1	1	scholion		crossref	relative	infra d. 33. q. 1.	bon-sent-I-d33-a1-q1		chunk		
 bon-sent-I-d26-a1-q1	1	scholion		crossref	chain-continuation	d. 33. q. 1.	bon-sent-I-d33-a1-q1		chunk		
 bon-sent-I-d26-a1-q1	1	scholion		crossref	page	supra pag. 105, nota 3	bon-sent-I-d4-dubia		chunk		
@@ -1074,13 +1074,13 @@ bon-sent-I-d30-a1-q2	1	scholion		crossref	relative-bare	loc. cit.			unresolvable
 bon-sent-I-d30-a1-q3	1	scholion		crossref	relative-bare	loc. cit.			unresolvable		
 bon-sent-I-d30-a1-q3	1	apparatus:2	2	crossref	relative	supra d. 28. dub. 3	bon-sent-I-d28-dubia		chunk		
 bon-sent-I-d30-a1-q3	1	apparatus:2	2	crossref	relative	infra d. 31. q. 2.	bon-sent-I-d31-p1-a1-q2+bon-sent-I-d31-p2-a1-q2+bon-sent-I-d31-p2-a2-q2		ambiguous		
-bon-sent-I-d30-a1-q3	1	apparatus:4	4	crossref	page	supra pag. 346, nota 1	bon-sent-I-d19-p1-a1-q2+bon-sent-I-d19-p1-a1-q3		page-multi		
-bon-sent-I-d30-a1-q3	1	apparatus:6	6	crossref	page	supra pag. 433, nota 4	bon-sent-I-d25-littera		chunk		
+bon-sent-I-d30-a1-q3	1	apparatus:4	4	crossref	page	supra pag. 346, nota 4	bon-sent-I-d19-p1-a1-q2+bon-sent-I-d19-p1-a1-q3		page-multi		
+bon-sent-I-d30-a1-q3	1	apparatus:6	6	crossref	page	supra pag. 453, nota 4	bon-sent-I-d26-a1-q1		chunk		
 bon-sent-I-d30-a1-q3	1	apparatus:8	8	crossref	page	supra pag. 342, nota 6	bon-sent-I-d19-p1-a1-q1+bon-sent-I-d19-p1-divisio		page-multi		
-bon-sent-I-d30-a1-q3	1	apparatus:9	9	crossref	page	supra pag. 433, nota 6	bon-sent-I-d25-littera		chunk		
+bon-sent-I-d30-a1-q3	1	apparatus:9	9	crossref	page	supra pag. 453, nota 6	bon-sent-I-d26-a1-q1		chunk		
 bon-sent-I-d30-a1-q3	1	apparatus:11	11	crossref	relative	supra d. 8. p. II. q. 1.	bon-sent-I-d8-p2-a1-q1		chunk		
 bon-sent-I-d30-a1-q3	1	apparatus:11	11	crossref	chain-continuation	d. 20. a. 2. q. 1.	bon-sent-I-d20-a2-q1		chunk		
-bon-sent-I-d30-a1-q3	1	apparatus:4s	4s	crossref	page	supra pag. 133, nota 4	bon-sent-I-d7-littera		chunk		
+bon-sent-I-d30-a1-q3	1	apparatus:4s	4s	crossref	page	supra pag. 453, nota 4	bon-sent-I-d26-a1-q1		chunk		
 bon-sent-I-d30-dubia	1	apparatus:1	1	crossref	page	supra pag. 822, nota 2	bon-sent-I-d46-a1-q1+bon-sent-I-d46-a1-q2		page-multi		
 bon-sent-I-d30-dubia	1	apparatus:1	1	crossref	page	supra pag. 47	bon-sent-I-d2-littera		chunk		
 bon-sent-I-d30-dubia	1	apparatus:12	12	crossref	logical	II. Sent. d. 1. p. I. a. 1. q. 2.	bon-sent-II-d1-p1-a1-q2		chunk		
