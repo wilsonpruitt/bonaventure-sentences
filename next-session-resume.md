@@ -39,11 +39,30 @@
 > for Vol I pt 2 (calibrated at printed 433, 525, 823). 2215×3404 JPEGs; a full-width footer crop
 > `(120, 2150)–(2170, 3200)` upscaled to 3300px reads both columns at once.
 >
+> ## ✅ SETTLED 2026-08-24 — THE 33 UNCOVERED PAGES ARE ALL REAL GAPS
+> A **Haiku** fleet classified all 33 from 900px downscales: **every one is an ordinary
+> two-column text page with a footnote band.** No blanks, no plates, no half-titles. They are
+> missing CONTENT. (`p. 710` alone was reported with no footer band — worth a look. `p. 854`
+> hand-verified: body, CONCLUSIO, SCHOLION, footer band.)
+>
+> ## ⛔⛔ AND THE RULE THAT RUN ESTABLISHED — READ BEFORE DELEGATING ANY PLATE WORK
+> The same run was asked for the **large** running-head page number purely as a fetch-check.
+> **5 of 40 wrong — 12.5% — and four were `5`→`3`** (`254`→`234`, `558`→`338`, `586`→`386`,
+> `589`→`389`), the fifth `831`→`834`. **Those are the exact confusion classes this audit spent
+> two sessions repairing**, reproduced by the model on the same typeface, at LARGE size, with the
+> small type explicitly out of scope.
+> **A cheap model may answer "is something there?" on these plates. It must NEVER answer "which
+> digit is that?"** Had the fleet been let near the footer figures it would have manufactured
+> errors indistinguishable from the real ones.
+> Method notes (controls, batching, downscale recipe) are in `AUDIT-QUEUE.md`. The load-bearing
+> one: **always blind-mix a known NEGATIVE**, since an all-positive control set cannot tell a
+> working classifier from one that always says `TEXT`.
+>
 > ## ▶▶ OPEN — ALL NEED WILSON'S SCOPE RULING, none is mechanical
-> 1. **33 printed pages inside Vol I's range that no chunk carries:** 104, 131, 145, 147, 155,
->    162, 210, 215–216, 222, 228, 244, **249–255**, 269, 292, 305, 387, **526**, 558, 586, 589,
->    603–604, 677, 710, 718, 854. Some may be plates/blanks; **p. 526 is definitely not** — it
->    holds `d30-a1-q3`'s whole Scholion apparatus band. Five cross-refs point into these gaps
+> 1. **Transcribing the 33 missing pages** — now known to be real content, incl. the 249–255 run
+>    and p. 526 (which holds `d30-a1-q3`'s Scholion apparatus band). Full list: 104, 131, 145, 147, 155,
+>    104, 131, 145, 147, 155, 162, 210, 215–216, 222, 228, 244, **249–255**, 269, 292, 305, 387,
+>    **526**, 558, 586, 589, 603–604, 677, 710, 718, 854. Five cross-refs point into these gaps
 >    (p. 215 ×3, p. 131, p. 718); the three p. 215 refs agree with each other, which argues the
 >    digits are right and the page is simply missing.
 > 2. **`d30-a1-q3`'s `s`-series labels look transposed** (plate p. 526 n. 1 = *Cfr. infra dub. 4*,

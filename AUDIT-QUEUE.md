@@ -200,3 +200,51 @@ where **leaf = printed − 411** for Vol I pt 2 (calibrated: printed 433 → `n2
   separately; our single entry carries both. A note-merge defect, not a digit defect.
 - **Whether Vol I should be page-qualified** the way Vol V is. That is the only thing that would
   make this class mechanically checkable ever again. Big job; Wilson's call.
+
+
+---
+
+## ✅ THE 33 UNCOVERED VOL I PAGES ARE ALL REAL GAPS (settled 2026-08-24)
+
+**Every one of the 33 printed pages Vol I's chunks do not carry is an ordinary two-column text
+page with a footnote band.** None is a blank, a plate, a half-title or an index page. They are
+missing content, not missing nothing:
+
+104, 131, 145, 147, 155, 162, 210, 215, 216, 222, 228, 244, **249–255**, 269, 292, 305, 387,
+**526**, 558, 586, 589, 603–604, 677, 710, 718, 854.
+
+(`p. 710` was reported as having no footnote band — the single exception, worth a look.
+`p. 854` was additionally verified by hand: body, `CONCLUSIO`, `SCHOLION` and a footer band.)
+
+Five surviving cross-references point INTO these gaps (p. 215 ×3, p. 131, p. 718). The three
+p. 215 refs agree with one another, which argues those digits are right and the page is simply
+absent.
+
+### How this was settled, and the rule it establishes for plate work
+A **Haiku** subagent fleet classified all 33 pages from 900px greyscale downscales — coarse
+presence/absence only (`TEXT` / `BLANK` / `PLATE` / `FRONT` / `UNSURE`, plus "is there a footnote
+band"). Seven known-content pages were blind-mixed in as positive controls, and a separate
+discrimination control mixed three known non-text images (the Internet Archive notice leaf, the
+half-title, the cover) with two known text pages.
+
+- **CLASS is trustworthy.** 7/7 positive controls correct; the discrimination control separated
+  all three negatives correctly, used `UNKNOWN` for their absent page numbers, and correctly
+  reported the prolegomena's roman-numeral pagination (`LXXXVI`). It is not reflexively
+  answering `TEXT`.
+- **⛔ DIGITS ARE NOT.** The run also asked for the **large** running-head page number purely as a
+  fetch-check. **5 of 40 were wrong — 12.5%** — and four of the five were **`5`→`3`**
+  (`254`→`234`, `558`→`338`, `586`→`386`, `589`→`389`), the fifth `831`→`834` (`1`→`4`).
+  **These are the exact confusion classes that produced the corpus errors this audit just spent
+  two sessions fixing** — reproduced by the model on the same typeface, at large size, with the
+  small type explicitly out of scope.
+
+**THE RULE: a cheap model may answer "is something there?" on these plates. It must never answer
+"which digit is that?"** Had the fleet been allowed near the footer figures it would have
+manufactured errors indistinguishable from the ones being repaired. Every digit in this corpus
+still needs the full-resolution plate and a careful read.
+
+**Recipe, if this is run again:** pre-fetch and downscale locally (900px, greyscale, JPEG q72 —
+about 200 KB/page) so the model spends nothing on fetching; batch ~5 pages per agent; ALWAYS
+blind-mix positive controls AND at least one known negative, because an all-positive control set
+cannot distinguish a working classifier from one that always says `TEXT`; and ask for one
+throwaway digit field purely to measure the error rate.
