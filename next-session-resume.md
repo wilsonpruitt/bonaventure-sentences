@@ -1,5 +1,57 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **NEXT JOB IS `PAGE-RECOVERY.md`: THE 33 MISSING VOL I PAGES.**
+> Open that file and work its ledger top to bottom. Everything you need per page is in it —
+> plate, raw-OCR line window, both neighbouring chunks, leaf number.
+>
+> ## ⛔ WILSON'S RULING, 2026-08-24 — THE WORK ORDER IS NOT NEGOTIABLE
+> **Go through every page in ascending order and deal with whatever is on it.** No triage by
+> type, no easy-ones-first, no skipping a page because it looks awkward. An earlier pass sorted
+> these into "dropped mid-chunk" / "between chunks" / "the 249–255 run" — **that sort is
+> deliberately not the work order, because sorting by expected difficulty is how pages get
+> avoided.** Wilson checked p. 104 himself: it is a *dubia*. Expect anything.
+>
+> ## What is already set up for you
+> - **All 33 plates fetched at full resolution:** `raw/vision/vol1/pagegaps/p<N>.jpg` (gitignored).
+> - **Raw-OCR line window per page**, derived from the neighbours' recorded bounds.
+> - **Both neighbouring chunks named** for every page, so the placement decision is framed.
+> - **Leaf numbers** for refetching: pt 1 = `printed + 101` on `doctorisseraphic11bona`,
+>   pt 2 = `printed − 411` on `doctorisseraphic12bona`. (These differ — pt 1 and pt 2 are separate
+>   scans. Getting this wrong returns an archive.org placeholder, not an error.)
+>
+> ## ★ NOT ALL 33 NEED TRANSCRIBING — CHECK FIRST, PER PAGE
+> Some are already in the corpus and merely unmarked: the text sits in a neighbouring chunk that
+> never emitted a `<!-- page N -->` marker and left N out of `printed_pages`. **Confirmed:
+> p. 526** — its whole footer band is already `bon-sent-I-d30-a1-q3`'s `[^1s]`–`[^8s]` Scholion
+> apparatus. A **narrow raw-line window** hints at this (104, 155, 244, 387, 526, 558, 718), but
+> it is only a hint: open the page and confirm either way.
+>
+> ## ⛔ EVERY DIGIT COMES OFF THE FULL-RESOLUTION PLATE, READ BY YOU
+> Do not delegate any digit to a cheap model — not page numbers, not `nota` numbers, not chapter
+> numbers. Measured 2026-08-24: a Haiku fleet misread **12.5% of LARGE running-head page
+> numbers**, four of five errors being `5`→`3` — the very class that put sixteen wrong
+> cross-references into this corpus over the two preceding sessions. Cheap models may answer
+> "is something there?" and nothing finer. Full method + numbers in `AUDIT-QUEUE.md`.
+>
+> ## ⚠ Five cross-references point INTO these gaps
+> p. 215 (×3), p. 131, p. 718. When you reach those pages, confirm the referenced `nota` really
+> exists there and note it in the ledger. The three p. 215 refs agree with each other, which
+> argues those digits are right and the page was simply absent.
+>
+> ## ▶▶ STILL OWED, UNCHANGED — both protected
+> **`master` is 6 ahead of origin. Push and deploy both still owed, both still need Wilson's
+> per-action OK.** The last `vercel build --prod` is stale. Riding on the next deploy: the
+> `Dictae salutis` fix (`bon-hex-c8`, p. 372 n. 1, still not live) and all **16** cross-reference
+> fixes from the two sweep sessions.
+> Also still open: the About page's **"What Is Known to Be Wrong"** section (Wilson's to frame —
+> the cross-reference class is the strongest candidate); `d30-a1-q3`'s transposed `s`-series
+> labels; `d37-p2-dubia` `[^6]`'s merged notes; the Book IV `d. 2. p. I.` cite; `prol-comm`
+> p. 24 n. 2. **Vols II–IV have never been swept** for the cross-reference class — and per the
+> lesson above, a clean grep would not prove them sound.
+
+---
+
+## (superseded) previous START HERE — Vol I cross-reference sweep complete, 2026-08-24
 > # ▶▶▶ START HERE — **THE VOL I CROSS-REFERENCE SWEEP IS COMPLETE (2026-08-24).** All 14 raw
 > non-word sites opened against plates: **16 digit errors fixed, 7 readings confirmed correct.**
 > Commits `7a3f362`, `7074e92`, `bf65af3`. **Deploy still owed, still protected. `master` is
