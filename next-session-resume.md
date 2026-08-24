@@ -1,5 +1,73 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **THE VOL I CROSS-REFERENCE SWEEP IS COMPLETE (2026-08-24).** All 14 raw
+> non-word sites opened against plates: **16 digit errors fixed, 7 readings confirmed correct.**
+> Commits `7a3f362`, `7074e92`, `bf65af3`. **Deploy still owed, still protected. `master` is
+> 4 ahead of origin — push is protected too.**
+>
+> ## ⚠⚠⚠ THE TWO THINGS TO CARRY FORWARD, BEFORE ANY OF THE DETAIL
+> **1. A CLEAN GREP IS NOT EVIDENCE.** The `493`→`495` error fired at TWO sites and left **no
+> non-word in the OCR at all**. `5`→`3`, `5`→`8`, `5`→`6` all yield a perfectly valid number.
+> Grepping the raw for `pag. <non-word>` finds only the `4`→`i`/`t` subset. Never report a
+> volume's cross-references sound on the strength of an empty grep.
+>
+> **2. NO MECHANICAL CHECK CAN SETTLE THE `nota` HALF IN VOL I — measured, not assumed.**
+> `tools/check-xref-pages.py` first asked "does page N carry at least M notes?"; **that check is
+> unsound and was removed.** Quaracchi's footer band on page N is NOT the notes anchored in page
+> N's body — an overflowing band runs over, so page N's printed notes 1..k routinely belong to
+> markers on page N−1, held in the PREVIOUS chunk. Measured: **p. 546 prints 8 notes, our chunks
+> anchor 1** (the printed n. 8); the check accordingly called the plate-confirmed `546, nota 2`
+> impossible. **Root cause is structural: Vol I's labels are chunk-sequential (`[^7]`) and record
+> no page; Vol V's are page-qualified (`[^p447-3]`), which is exactly what lets
+> `check-vol5-apparatus.py` verify per page.** The tool now checks only what it soundly can.
+>
+> ## ✅ FIXED THIS SWEEP (16, every one plate-confirmed)
+> Round 1 `7a3f362`: `d25-littera` `[^17]` 19→**49** · `d30-a1-q3` `[^4]` nota 1→**4**, `[^6]`
+> and `[^9]` 433→**453**, `[^4s]` 133→**453**, `[^6s]` c.13→**c.15** · `d30-a1-q1` `[^8]`
+> c.[4]→**c.5**.
+> Round 2 `bf65af3`: `d25-a2-q1` `[^5]` 318,nota 3→**348, nota 5** · `d30-dubia` `[^1]`
+> 822→**522** *and a truncated `, nota 3` restored* · `d33-a1-q3` `[^2]` 516→**546** ·
+> `d35-a1-q1` `[^11]` 691→**594** · `d46-a1-q4` `[^10]` and `d47-a1-q2` `[^5]` 671→**674** ·
+> `d24-a1-q1` `[^10]` c.8→**c.5** · `d46-a1-q5` `[^12]` and `d46-a1-q6` `[^13]` 493→**495**.
+>
+> ## ✅ CONFIRMED CORRECT — DO NOT "FIX" THESE
+> `180` (`d32-a2-q2`) · `47` (`d30-a1-q1`, and again in `d30-dubia`) · `804` · `564` · `411` ·
+> `84`. **`i` is not always `4`** — a blanket substitution would have corrupted every one.
+>
+> ## ★ PLATE FETCH, NO PDF NEEDED
+> `https://archive.org/download/doctorisseraphic12bona/page/n<leaf>.jpg`, **leaf = printed − 411**
+> for Vol I pt 2 (calibrated at printed 433, 525, 823). 2215×3404 JPEGs; a full-width footer crop
+> `(120, 2150)–(2170, 3200)` upscaled to 3300px reads both columns at once.
+>
+> ## ▶▶ OPEN — ALL NEED WILSON'S SCOPE RULING, none is mechanical
+> 1. **33 printed pages inside Vol I's range that no chunk carries:** 104, 131, 145, 147, 155,
+>    162, 210, 215–216, 222, 228, 244, **249–255**, 269, 292, 305, 387, **526**, 558, 586, 589,
+>    603–604, 677, 710, 718, 854. Some may be plates/blanks; **p. 526 is definitely not** — it
+>    holds `d30-a1-q3`'s whole Scholion apparatus band. Five cross-refs point into these gaps
+>    (p. 215 ×3, p. 131, p. 718); the three p. 215 refs agree with each other, which argues the
+>    digits are right and the page is simply missing.
+> 2. **`d30-a1-q3`'s `s`-series labels look transposed** (plate p. 526 n. 1 = *Cfr. infra dub. 4*,
+>    n. 2 = *Supple: aliquid…*; ours are the other way round), and its **`printed_pages` omits
+>    p. 526**.
+> 3. **`d37-p2-dubia` `[^6]` merges two printed notes** (plate p. 665 n. 5 + n. 3). A note-merge
+>    defect, not a digit one.
+> 4. **Should Vol I be page-qualified the way Vol V is?** It is the only thing that would make
+>    this class mechanically checkable. Big job.
+> 5. **Vols II–IV have not been swept at all** for this class.
+>
+> ## ⚠ REMAINING "STILL OWED", UNCHANGED
+> - About page's **"What Is Known to Be Wrong"** — Wilson's to frame; this class is now the
+>   strongest candidate for it.
+> - Quaracchi cite `IV. Sent. d. 2. p. I.` — Book IV's d. 2 has no pars chunks.
+> - `bon-sent-I-prol-comm` p. 24 n. 2's `d. 18. p. I.` — jointly impossible; flag stands.
+> - The `Dictae salutis` fix (`bon-hex-c8`, p. 372 n. 1) is **still not live**; it rides with the
+>   next deploy along with all 16 cross-reference fixes.
+>
+> ## ▶▶ DEPLOY: rebuild first — the earlier `vercel build --prod` is stale (13 chunks changed).
+
+---
+
+## (superseded) previous START HERE — round 1 of the sweep, 2026-08-23
 > # ▶▶▶ START HERE — **WORKING THE "STILL OWED" LIST (2026-08-23, session 2).** The Hexaemeron's
 > four-pass work-close gate is done and PUSHED (`897071a`). Deploy is still owed and still
 > protected. This session did NOT deploy; it went after the owed list and opened a defect class.
