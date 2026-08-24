@@ -146,8 +146,8 @@ Likewise, inquiry is made concerning what the Master says: "And yet we do not sa
 
 > The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Footnotes 1–13 are drawn from the apparatus on p. 527 of the Quaracchi edition; 14–23 from the apparatus on p. 528. Note: the page-break apparatus entries for p. 528 continue through DUB. V.
 
-[^1]: **La.** Textum integrum Boethii habes supra pag. 822, nota 2. et textum integrum Ambrosii mox citati invenies supra pag. 47.
-    **En.** The full text of Boethius you have above, p. 822, n. 2. And the full text of Ambrose cited below you will find above, p. 47.
+[^1]: **La.** Textum integrum Boethii habes supra pag. 522, nota 2. et textum integrum Ambrosii mox citati invenies supra pag. 47, nota 3.
+    **En.** The full text of Boethius you have above, p. 522, n. 2. And the full text of Ambrose cited below you will find above, p. 47, n. 3.
 
 [^2]: **La.** Cod. S *qvod* [= *quod*].
     **En.** Codex S reads *qvod* [= *quod*].

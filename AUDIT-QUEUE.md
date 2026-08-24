@@ -128,7 +128,51 @@ corrupted a correct reference. **Every instance needs its own plate.**
 | `bon-sent-I-d32-a2-q2` | `[^14]` | `pag. 180, nota 5` | p. 564 `n153`, n. 8 |
 | `bon-sent-I-d30-a1-q1` | `[^8]` | `pag. 47, nota 3` | p. 522 `n111`, n. 2 |
 
+### Round 2 — full sweep of the raw non-word sites, 2026-08-24 (all plate-confirmed)
+Every remaining `pag. <non-word>` site in `bonaventure_vol1_raw.txt` + `_pt2_` was opened.
+
+| Chunk | Note | Was | Is | Plate |
+|---|---|---|---|---|
+| `bon-sent-I-d25-a2-q1` | `[^5]` | `pag. 318, nota 3` | `pag. 348, nota 5` | p. 442 `n31` |
+| `bon-sent-I-d30-dubia` | `[^1]` | `pag. 822, nota 2` + truncated | `pag. 522, nota 2` … `pag. 47, nota 3` | p. 527 `n116` |
+| `bon-sent-I-d33-a1-q3` | `[^2]` | `pag. 516, nota 2` | `pag. 546, nota 2` | p. 577 `n166` |
+| `bon-sent-I-d35-a1-q1` | `[^11]` | `pag. 691, nota 6` | `pag. 594, nota 6` | p. 601 `n190` |
+| `bon-sent-I-d46-a1-q4` | `[^10]` | `pag. 671, nota 2` | `pag. 674, nota 2` | p. 828 `n417` |
+| `bon-sent-I-d47-a1-q2` | `[^5]` | `pag. 671, nota 3` | `pag. 674, nota 3` | p. 842 `n431` |
+| `bon-sent-I-d24-a1-q1` | `[^10]` | `de Div. Nom. c. 8` | `c. 5` | p. 420 `n9` |
+| `bon-sent-I-d46-a1-q5` | `[^12]` | `pag. 493, nota 1` | `pag. 495, nota 1` | p. 831 `n420` |
+| `bon-sent-I-d46-a1-q6` | `[^13]` | `pag. 493, nota 1` | `pag. 495, nota 1` | p. 833 `n422` |
+
+**Verified CORRECT in round 2, do not "fix":** `804` (p. 823 n. 7) · `564` (p. 596 n. 7) ·
+`411` (p. 665 n. 5) · `84` (p. 420 n. 10) · `47` (p. 527 n. 1).
+
+### ⚠⚠ THE GREP DETECTOR IS INCOMPLETE — the most important thing learned here
+**`493` for `495` fired at TWO sites and left no non-word in the OCR at all.** The `5`→`3`,
+`5`→`8` and `5`→`6` classes produce a perfectly valid number, so nothing marks them. Grepping
+the raw for `pag. <non-word>` finds only the `4`→`i`/`t` subset. **A clean grep is not evidence
+that a volume's cross-references are sound.**
+
+Digit classes now attested on plates: `4`→`i`/`t`, `5`→`3`, `5`→`8`, `5`→`6`, `4`→`1`, and they
+compound (`453` OCR'd `t33`). One site was also **truncated**, losing `, nota 3` outright.
+
+### ⛔ WHY NO MECHANICAL CHECK CAN SETTLE THE `nota` HALF (measured, not assumed)
+`tools/check-xref-pages.py` was written to ask "does page N carry at least M notes?" — **that
+check is unsound for Vol I and was removed.** Quaracchi's footer band on page N is not the set
+of notes anchored in page N's body: when a band overflows it runs over, so page N's printed
+notes 1..k routinely belong to markers on page N−1, stored in the PREVIOUS chunk under its own
+labels. Measured: **p. 546 prints 8 notes; our chunks anchor 1 marker on it** (the printed
+n. 8), the other 7 being p. 545's runover — so the check called the plate-confirmed
+`546, nota 2` impossible.
+
+**Root cause is structural.** Vol I's apparatus labels are sequential within a chunk (`[^7]`)
+and record nothing about which printed page an entry belongs to. **Vol V solved this with
+page-qualified labels (`[^p447-3]`), which is exactly what lets `check-vol5-apparatus.py` do
+real per-page verification.** Until Vol I is page-qualified, every `nota` digit is settleable
+only against the plate. `check-xref-pages.py` now checks only what it soundly can (refs into
+pages no chunk carries) and says so.
+
 ### ⛔ STILL OPEN — needs Wilson's scope ruling
+
 - **`bon-sent-I-d30-a1-q3`'s `s`-series is numbered against the plate.** Plate p. 526 prints
   n. 1 = *Cfr. infra dub. 4* and n. 2 = *Supple: aliquid…*; our `[^1s]`/`[^2s]` carry those
   **transposed**. Either our anchors sit in the wrong order in the body or the labels were
@@ -143,3 +187,16 @@ corrupted a correct reference. **Every instance needs its own plate.**
 
 **Plate fetch (no PDF needed):** `https://archive.org/download/doctorisseraphic12bona/page/n<leaf>.jpg`
 where **leaf = printed − 411** for Vol I pt 2 (calibrated: printed 433 → `n22`, 525 → `n114`).
+
+### New in round 2 — three further open items
+- **Vol I has 33 printed pages inside its own range that no chunk carries:** 104, 131, 145, 147,
+  155, 162, 210, 215–216, 222, 228, 244, **249–255**, 269, 292, 305, 387, **526**, 558, 586, 589,
+  603–604, 677, 710, 718, 854. Some may be plates or blanks; **p. 526 is definitely not** — it
+  carries `bon-sent-I-d30-a1-q3`'s whole Scholion apparatus band (see round 1). Five surviving
+  cross-references point INTO these gaps (p. 215 ×3, p. 131, p. 718); the p. 215 refs agree with
+  each other, which argues the digits are right and the page is simply missing.
+- **`bon-sent-I-d37-p2-dubia` `[^6]` merges two printed notes.** Plate p. 665 prints n. 5
+  (`Vide supra pag. 411…`) and n. 3 (`Plura de aevo et tempore II. Sent. d. 2. p. l. per totam.`)
+  separately; our single entry carries both. A note-merge defect, not a digit defect.
+- **Whether Vol I should be page-qualified** the way Vol V is. That is the only thing that would
+  make this class mechanically checkable ever again. Big job; Wilson's call.

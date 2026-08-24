@@ -200,9 +200,9 @@ This doctrine of the Seraphic [Doctor] is more amply explained by Bl. Albert the
 
     **En.** From very many mss. and editions 1, 2, 3, 6 we have restored *enim* ("for"), in place of which the Vatican [edition reads] *certe* ("certainly").
 
-[^10]: **La.** Cfr. Dionys., de Div. Nom. c. 8. et 13; Boeth., de Unitate et Uno. De ratione addita vide supra pag. 84, nota 7. — Vat. cum cod. cc, aliis codd. et ed. 1 refragantibus, omittit *esse* secundo loco positum.
+[^10]: **La.** Cfr. Dionys., de Div. Nom. c. 5. et 13; Boeth., de Unitate et Uno. De ratione addita vide supra pag. 84, nota 7. — Vat. cum cod. cc, aliis codd. et ed. 1 refragantibus, omittit *esse* secundo loco positum.
 
-    **En.** Cf. Dionysius, *On the Divine Names*, c. 8 and 13; Boethius, *On Unity and the One*. On the added account see above p. 84, note 7. — The Vatican [edition] with cod. cc, other codices and ed. 1 resisting, omits *esse* placed in the second position.
+    **En.** Cf. Dionysius, *On the Divine Names*, c. 5 and 13; Boethius, *On Unity and the One*. On the added account see above p. 84, note 7. — The Vatican [edition] with cod. cc, other codices and ed. 1 resisting, omits *esse* placed in the second position.
 
 [^11]: **La.** In libr. de Causis, prop. 17: *« Omnis virtus unita plus est infinita quam virtus multiplicata »*. Vide etiam Dionys., loc. paulo ante cit.
 

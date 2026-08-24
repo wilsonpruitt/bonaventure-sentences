@@ -293,9 +293,9 @@ But whether the doctrine of the Angelic and Seraphic Doctors, beyond a differenc
 
     **En.** On ideas cf. above *fundamentum* 1 ff.; on the *primordial causes* cf. V, *On Genesis to the letter*, c. 4, n. 10, and VI, c. 14, n. 23, and IX, c. 17, n. 32 ff. — An explication of Augustine's doctrine you will find in Bonav., II. *Sent.* d. 18, a. 1, q. 2.
 
-[^11]: **La.** Pro *dicitur* Vat. cum cod. *cc* *est*. Paulo inferius ante *tertio* sola Vat. omittit *in*. — De hac duplici acceptione similitudinis cfr. supra pag. 691, nota 6.
+[^11]: **La.** Pro *dicitur* Vat. cum cod. *cc* *est*. Paulo inferius ante *tertio* sola Vat. omittit *in*. — De hac duplici acceptione similitudinis cfr. supra pag. 594, nota 6.
 
-    **En.** In place of *dicitur* the Vatican with codex *cc* [reads] *est*. A little further on, before *tertio*, the Vatican alone omits *in*. — On this twofold acceptation of *likeness* cf. above page 691, n. 6.
+    **En.** In place of *dicitur* the Vatican with codex *cc* [reads] *est*. A little further on, before *tertio*, the Vatican alone omits *in*. — On this twofold acceptation of *likeness* cf. above page 594, n. 6.
 
 [^12]: **La.** Supple: *unde immediata ratio cognoscendi non est obiectum cognitum (veritas), sed similitudo eius*. — In sequenti propositione *e converso* accipiendum est pro *e contrario*, quod etiam exstat in ed. I. — Vetustiores codd. cum ed. 1 *primo*. Mox pro *assimilat cognitum* cod. *bb* *assimilatur cognito*, et subinde pro *competente* plures codd. cum ed. 1 minus clare *competenti*. — Cod. Z *expressissima*. Paulo inferius post *cognoscere* cod. D addit *veritatem, quae est extra; e contrario autem erat in Deo, quia in ipso veritas, quae est intra, facit cognoscere similitudinem, quae est extra*. Deinde post *patent* cod. S addit *omnia*. — Vat. hic subicit *est*, pro quo multo melius substituendum esset: *cognoscit intellectus divinus*. Paulo inferius eadem Vat., nonnullis codd. faventibus, vocem *multitudo* immutavit in *similitudo*. — Supple cum cod. X *scilicet Deo et creaturae*.
 

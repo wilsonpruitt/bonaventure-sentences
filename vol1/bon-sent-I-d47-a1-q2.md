@@ -156,9 +156,9 @@ Another reason is taken according to another mode of distinguishing: because[^6]
 
     **En.** Psalm 104:37. — The Ordinary Gloss is cited here only as to sense, not verbatim.
 
-[^5]: **La.** Hanc propositionem Aristotelis integram exhibuimus supra pag. 671, nota 3. In ipsa propositione hic allata pro *omne* edd. 1, 2, 3 cum textu originali habent *esse*. Post pauca pro *si sit resistentia* Vat. cum aliquibus codd. *si fit resistentia*.
+[^5]: **La.** Hanc propositionem Aristotelis integram exhibuimus supra pag. 674, nota 3. In ipsa propositione hic allata pro *omne* edd. 1, 2, 3 cum textu originali habent *esse*. Post pauca pro *si sit resistentia* Vat. cum aliquibus codd. *si fit resistentia*.
 
-    **En.** This proposition of Aristotle we have given in full above p. 671, note 3. In the very proposition here cited, for *omne* edd. 1, 2, 3 with the original text have *esse*. A little further on, for *si sit resistentia*, the Vatican edition with some codices has *si fit resistentia*.
+    **En.** This proposition of Aristotle we have given in full above p. 674, note 3. In the very proposition here cited, for *omne* edd. 1, 2, 3 with the original text have *esse*. A little further on, for *si sit resistentia*, the Vatican edition with some codices has *si fit resistentia*.
 
 [^6]: **La.** Pro *quia* cod. Z *sicut*.
 

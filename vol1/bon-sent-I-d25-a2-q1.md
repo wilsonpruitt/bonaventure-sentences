@@ -178,9 +178,9 @@ Therefore the reasonings[^17] are to be conceded, that *persona* expresses somet
 
     **En.** Cod. bb adds *sive extraneum* ("or extraneous").
 
-[^5]: **La.** Intellige: *et quidem in plus*. De sensu verborum *in plus* est, vide supra pag. 318, nota 3.
+[^5]: **La.** Intellige: *et quidem in plus*. De sensu verborum *in plus* est, vide supra pag. 348, nota 5.
 
-    **En.** Understand: *and indeed* in plus *[extending further]*. On the sense of the words *in plus est*, see above p. 318, note 3.
+    **En.** Understand: *and indeed* in plus *[extending further]*. On the sense of the words *in plus est*, see above p. 348, note 5.
 
 [^6]: **La.** Lit. Magistri, c. 7. seqq.
 

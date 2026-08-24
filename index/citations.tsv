@@ -731,8 +731,8 @@ bon-sent-I-d25-a1-q2	1	scholion		authority	authority:Dionys. Carth.	I. Sent. d. 
 bon-sent-I-d25-a1-q2	1	scholion		authority	authority:Biel	I. Sent. d. 23.			excluded		
 bon-sent-I-d25-a2-q1	1	scholion		authority	authority:Dionys. Carth.	I. Sent. d. 23. q. 2.			excluded		
 bon-sent-I-d25-a2-q1	1	apparatus:1	1	crossref	relative	supra d. 19. p. II. q. 2.	bon-sent-I-d19-p2-a1-q2		chunk		
-bon-sent-I-d25-a2-q1	1	apparatus:5	5	crossref	page	supra pag. 318, nota 3	bon-sent-I-d17-p2-a1-q4+bon-sent-I-d17-p2-dubia+bon-sent-I-d18-littera		page-multi		
-bon-sent-I-d25-a2-q1	1	apparatus:7	7	crossref	anaphor->page	ibid.	bon-sent-I-d17-p2-a1-q4+bon-sent-I-d17-p2-dubia+bon-sent-I-d18-littera		page-multi	yes	supra pag. 318, nota 3
+bon-sent-I-d25-a2-q1	1	apparatus:5	5	crossref	page	supra pag. 348, nota 5	bon-sent-I-d19-p1-a1-q4		chunk		
+bon-sent-I-d25-a2-q1	1	apparatus:7	7	crossref	anaphor->page	ibid.	bon-sent-I-d19-p1-a1-q4		chunk	yes	supra pag. 348, nota 5
 bon-sent-I-d25-a2-q1	1	apparatus:21	21	crossref	relative	supra d. 6. p. II. q. 1.			dangling		
 bon-sent-I-d25-a2-q2	1	scholion		crossref	relative	supra d. 1. a. 3. q. 1	bon-sent-I-d1-a3-q1		chunk		
 bon-sent-I-d25-a2-q2	1	scholion		crossref	chain-continuation	d. 7. q. 1.	bon-sent-I-d7-a1-q1		chunk		
@@ -1081,8 +1081,8 @@ bon-sent-I-d30-a1-q3	1	apparatus:9	9	crossref	page	supra pag. 453, nota 6	bon-se
 bon-sent-I-d30-a1-q3	1	apparatus:11	11	crossref	relative	supra d. 8. p. II. q. 1.	bon-sent-I-d8-p2-a1-q1		chunk		
 bon-sent-I-d30-a1-q3	1	apparatus:11	11	crossref	chain-continuation	d. 20. a. 2. q. 1.	bon-sent-I-d20-a2-q1		chunk		
 bon-sent-I-d30-a1-q3	1	apparatus:4s	4s	crossref	page	supra pag. 453, nota 4	bon-sent-I-d26-a1-q1		chunk		
-bon-sent-I-d30-dubia	1	apparatus:1	1	crossref	page	supra pag. 822, nota 2	bon-sent-I-d46-a1-q1+bon-sent-I-d46-a1-q2		page-multi		
-bon-sent-I-d30-dubia	1	apparatus:1	1	crossref	page	supra pag. 47	bon-sent-I-d2-littera		chunk		
+bon-sent-I-d30-dubia	1	apparatus:1	1	crossref	page	supra pag. 522, nota 2	bon-sent-I-d30-a1-q1		chunk		
+bon-sent-I-d30-dubia	1	apparatus:1	1	crossref	page	supra pag. 47, nota 3	bon-sent-I-d2-littera		chunk		
 bon-sent-I-d30-dubia	1	apparatus:12	12	crossref	logical	II. Sent. d. 1. p. I. a. 1. q. 2.	bon-sent-II-d1-p1-a1-q2		chunk		
 bon-sent-I-d30-dubia	1	apparatus:19	19	crossref	page	supra pag. 169, nota 4	bon-sent-I-d8-p2-a1-q2		chunk		
 bon-sent-I-d30-dubia	1	apparatus:20	20	crossref	relative	supra d. 26. q. 2.	bon-sent-I-d26-a1-q2		chunk		
@@ -1209,7 +1209,7 @@ bon-sent-I-d33-a1-q3	1	scholion		crossref	chain-continuation	d. 3. dub. 4.	bon-s
 bon-sent-I-d33-a1-q3	1	scholion		crossref	chain-continuation	d. 6. a. 1. q. 3.	bon-sent-I-d6-a1-q3		chunk		
 bon-sent-I-d33-a1-q3	1	scholion		authority	authority:Thom.	d. 27. q. 1.			excluded		
 bon-sent-I-d33-a1-q3	1	scholion		authority	authority:Dionys. Carth.	d. 26. q. 1.			excluded		
-bon-sent-I-d33-a1-q3	1	apparatus:2	2	crossref	page	supra pag. 516, nota 2	bon-sent-I-d29-a2-q2+bon-sent-I-d29-dubia		page-multi		
+bon-sent-I-d33-a1-q3	1	apparatus:2	2	crossref	page	supra pag. 546, nota 2	bon-sent-I-d31-p2-a2-q1+bon-sent-I-d31-p2-a2-q2		page-multi		
 bon-sent-I-d33-a1-q4	1	latin_body		crossref	relative	supra d. 3. p. I. dub. 3	bon-sent-I-d3-p1-dubia		chunk		
 bon-sent-I-d33-a1-q4	1	latin_body		crossref	chain-continuation	d. 17. p. I. q. 2.	bon-sent-I-d17-p1-a1-q2		chunk		
 bon-sent-I-d33-a1-q4	1	apparatus:2	2	crossref	page	supra pag. 78, nota 13	bon-sent-I-d3-p1-dubia		chunk		
@@ -1278,7 +1278,7 @@ bon-sent-I-d34-littera	1	apparatus:11	11	crossref	page	pag. 110, nota 7	bon-sent
 bon-sent-I-d34-littera	1	apparatus:11	11	crossref	page	pag. 432, nota 5	bon-sent-I-d25-littera		chunk		
 bon-sent-I-d34-littera	1	apparatus:17	17	crossref	anaphor->page	ibid	bon-sent-I-d25-littera		chunk	yes	pag. 432, nota 5
 bon-sent-I-d35-a1-q1	1	apparatus:2	2	crossref	relative	supra d. 3. p. I. q. 1.	bon-sent-I-d3-p1-a1-q1		chunk		
-bon-sent-I-d35-a1-q1	1	apparatus:11	11	crossref	page	supra pag. 691, nota 6	bon-sent-I-d39-a1-q3		chunk		
+bon-sent-I-d35-a1-q1	1	apparatus:11	11	crossref	page	supra pag. 594, nota 6	bon-sent-I-d34-a1-q4		chunk		
 bon-sent-I-d35-a1-q2	1	scholion		crossref	logical	IV. Sent. d. 50. q. 3	bon-sent-IV-d50-p1-a1-q3+bon-sent-IV-d50-p1-a2-q3+bon-sent-IV-d50-p2-a1-q3+bon-sent-IV-d50-p2-a2-q3		ambiguous		
 bon-sent-I-d35-a1-q2	1	scholion		crossref	work	Breviloq.	work:breviloquium		work		
 bon-sent-I-d35-a1-q2	1	scholion		authority	authority:Thom.	d. 36. q. 2.			excluded		
@@ -1954,14 +1954,14 @@ bon-sent-I-d46-a1-q4	1	apparatus:4	4	crossref	page	pag. 150, nota 13	bon-sent-I-
 bon-sent-I-d46-a1-q4	1	apparatus:4	4	crossref	relative	supra d. 8. p. I.	I:d8		distinctio		
 bon-sent-I-d46-a1-q4	1	apparatus:4	4	crossref	relative-inherited	ibid.	I:d8		distinctio		
 bon-sent-I-d46-a1-q4	1	apparatus:7	7	crossref	page	supra pag. 707, nota 5	bon-sent-I-d40-a2-q1		chunk		
-bon-sent-I-d46-a1-q4	1	apparatus:10	10	crossref	page	supra pag. 671, nota 2	bon-sent-I-d38-a1-q1+bon-sent-I-d38-a1-q2		page-multi		
+bon-sent-I-d46-a1-q4	1	apparatus:10	10	crossref	page	supra pag. 674, nota 2	bon-sent-I-d38-a2-q1		chunk		
 bon-sent-I-d46-a1-q4	1	apparatus:10	10	crossref	page	pag. 678, nota 1	bon-sent-I-d38-a2-q2		chunk		
 bon-sent-I-d46-a1-q4	1	apparatus:16	16	crossref	relative	supra d. 38. a. 2. q. 1.	bon-sent-I-d38-a2-q1		chunk		
 bon-sent-I-d46-a1-q4	1	apparatus:17	17	crossref	relative	supra d. 25. dub. 3.	bon-sent-I-d25-dubia		chunk		
 bon-sent-I-d46-a1-q5	1	scholion		crossref	relative-bare	loc. cit.			unresolvable		
 bon-sent-I-d46-a1-q5	1	apparatus:1	1	scripture	apparatus-explicit	Psalm. 7, 2	Ps 7:2	A	verse		
 bon-sent-I-d46-a1-q5	1	apparatus:1	1	scripture	anaphor->apparatus-explicit	loc. cit.	Ps 7:2	A	verse	yes	Psalm. 7, 2
-bon-sent-I-d46-a1-q5	1	apparatus:12	12	crossref	page	supra pag. 493, nota 1	bon-sent-I-d28-littera		chunk		
+bon-sent-I-d46-a1-q5	1	apparatus:12	12	crossref	page	supra pag. 495, nota 1	bon-sent-I-d28-divisio		chunk		
 bon-sent-I-d46-a1-q6	1	scholion		crossref	relative	infra d. 47. q. 3.	bon-sent-I-d47-a1-q3		chunk		
 bon-sent-I-d46-a1-q6	1	scholion		crossref	chain-continuation	d. 47. q. 3.	bon-sent-I-d47-a1-q3		chunk		
 bon-sent-I-d46-a1-q6	1	scholion		crossref	chain-continuation	d. 1. a. 2. q. 2.			dangling		
@@ -1971,7 +1971,7 @@ bon-sent-I-d46-a1-q6	1	scholion		crossref	anaphor->relative	loc. cit.	bon-sent-I
 bon-sent-I-d46-a1-q6	1	apparatus:2	2	crossref	page	supra pag. 786, nota 7	bon-sent-I-d44-a1-q3		chunk		
 bon-sent-I-d46-a1-q6	1	apparatus:3	3	crossref	page	supra pag. 830, nota 8	bon-sent-I-d46-a1-q4+bon-sent-I-d46-a1-q5		page-multi		
 bon-sent-I-d46-a1-q6	1	apparatus:7	7	crossref	relative	supra d. 44. a. 1. q. 1.	bon-sent-I-d44-a1-q1		chunk		
-bon-sent-I-d46-a1-q6	1	apparatus:13	13	crossref	page	supra pag. 493, nota 1	bon-sent-I-d28-littera		chunk		
+bon-sent-I-d46-a1-q6	1	apparatus:13	13	crossref	page	supra pag. 495, nota 1	bon-sent-I-d28-divisio		chunk		
 bon-sent-I-d46-dubia	1	apparatus:5	5	crossref	page	supra pag. 620, nota 8	bon-sent-I-d36-a1-q1		chunk		
 bon-sent-I-d46-dubia	1	apparatus:16	16	scripture	apparatus-explicit	Sap. 1, 13	Sap 1:13	A	verse		
 bon-sent-I-d46-dubia	1	apparatus:23	23	scripture	apparatus-explicit	I. Cor. 12, 3	1Cor 12:3	A	verse		
@@ -2004,7 +2004,7 @@ bon-sent-I-d47-a1-q1	1	apparatus:13	13	crossref	relative	supra d. 46.	I:d46		dis
 bon-sent-I-d47-a1-q1	1	apparatus:16	16	crossref	relative	supra d. 43. a. 1. q. 2.	bon-sent-I-d43-a1-q2		chunk		
 bon-sent-I-d47-a1-q2	1	apparatus:1	1	crossref	page	supra pag. 282, nota 2	bon-sent-I-d16-a1-q2		chunk		
 bon-sent-I-d47-a1-q2	1	apparatus:4	4	scripture	apparatus-explicit	Psalm. 104, 37	Ps 104:37	A	verse		
-bon-sent-I-d47-a1-q2	1	apparatus:5	5	crossref	page	supra pag. 671, nota 3	bon-sent-I-d38-a1-q1+bon-sent-I-d38-a1-q2		page-multi		
+bon-sent-I-d47-a1-q2	1	apparatus:5	5	crossref	page	supra pag. 674, nota 3	bon-sent-I-d38-a2-q1		chunk		
 bon-sent-I-d47-a1-q2	1	apparatus:11	11	crossref	page	supra pag. 87, nota 4	bon-sent-I-d3-p2-a1-q3		chunk		
 bon-sent-I-d47-a1-q3	1	scholion		crossref	relative	supra d. 46. q. 2	bon-sent-I-d46-a1-q2		chunk		
 bon-sent-I-d47-a1-q3	1	scholion		crossref	chain-continuation	d. 44. a. 1. q. 1	bon-sent-I-d44-a1-q1		chunk		
