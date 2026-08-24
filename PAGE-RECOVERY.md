@@ -1,23 +1,37 @@
-# Vol I page recovery — 33 missing printed pages
+# Vol I page recovery — PARKED (Wilson, 2026-08-24)
 
-> **Wilson's ruling, 2026-08-24: go through every page in order, one at a time, and deal with
-> whatever is on it. No triage-by-type, no "easy ones first", no skipping a page because it looks
-> awkward.** An earlier pass sorted these into "dropped mid-chunk" vs "between chunks" vs "the
-> 249–255 run"; that sort is deliberately NOT the work order, because sorting by expected
-> difficulty is how pages get avoided. **Work ascending by printed page number. Every page gets
-> opened.**
+> ## ⛔ DO NOT WORK THIS FILE. It is reference, not a work order.
+> **Wilson's call, 2026-08-24: stop. "This seems more like a snipe hunt than rigor."**
+> Vol I was gone through deliberately, chunk by chunk, over many sessions. **If a reader calls
+> out a gap, come back here — that is the trigger. Nothing else is.** Do not open a systematic
+> 33-page campaign off the back of it.
+>
+> ## Why it was parked — the premise turned out to be shaky
+> The "33 missing pages" was derived from pages no chunk emits a `<!-- page N -->` marker for.
+> That is **not** the same as missing content. Two cases were checked and both were already
+> transcribed, just mis-marked:
+> - **p. 526** — its whole footer band is already `bon-sent-I-d30-a1-q3`'s `[^1s]`–`[^8s]`.
+> - **p. 162** — proven present: the Scholion top (`Triplex illa distinctio mutationis`) sits in
+>   `d8-p1-a2-q2`, and `Dub. I` (`In parte ista sunt dubitationes…`) sits in `d8-p1-dubia`
+>   **under a marker that reads `<!-- page 161 -->`.** The marker is mislabelled, not absent.
+>
+> **Fingerprint:** where two chunks both claim page N−1 and the second one *starts* there, its
+> opening marker is probably off by one. **6 of the 33 show it:** 162, 222, 292, 586, 589, 677
+> (claimants on 161, 221, 291, 585, 588, 676 respectively).
+>
+> **The remaining 27 were NOT verified either way, and that is where this stops.** They may be
+> mis-marked, genuinely absent, or a mix. Nobody has looked, deliberately.
+>
+> ## What is still genuinely useful here, if you ever return
+> Per page: the full-resolution plate (`raw/vision/vol1/pagegaps/p<N>.jpg`, gitignored — refetch
+> from the leaf column), the raw-OCR line window, and both neighbouring chunks. The leaf formulas
+> differ by part: pt 1 = `printed + 101` on `doctorisseraphic11bona`, pt 2 = `printed − 411` on
+> `doctorisseraphic12bona`; a wrong leaf returns a placeholder image, not an error.
+>
+> ⚠ **Before transcribing anything from this list, first grep the corpus for a phrase off the
+> plate.** On the evidence so far the likeliest answer is that the text is already there.
 
-## What these are
-
-33 printed pages inside Vol I's own range that no chunk carries. **Every one was confirmed
-(2026-08-24) to be an ordinary two-column text page with a footnote band** — not a blank, plate,
-half-title or index. They are missing content. Confirmed by hand so far: **p. 104 is a *dubia***
-(Wilson), **p. 854** carries body + `CONCLUSIO` + `SCHOLION` + footer band, **p. 249** is a full
-`ARTICULUS`/`QUAESTIO` opening. `p. 710` was reported as having **no** footer band — the only one,
-worth attention when you reach it.
-
-Expect anything: dubia, littera, divisio, scholion, an article opening, a page that is mostly
-apparatus. **The type is discovered at the page, not predicted before it.**
+---
 
 ## Per-page procedure
 

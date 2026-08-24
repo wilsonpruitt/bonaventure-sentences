@@ -204,7 +204,20 @@ where **leaf = printed − 411** for Vol I pt 2 (calibrated: printed 433 → `n2
 
 ---
 
-## ✅ THE 33 UNCOVERED VOL I PAGES ARE ALL REAL GAPS (settled 2026-08-24)
+## ⛔ THE 33 UNCOVERED VOL I PAGES — PARKED 2026-08-24, PREMISE WAS SHAKY
+
+> **Wilson: "this seems more like a snipe hunt than rigor." Parked. Trigger to reopen is a
+> reader reporting a gap — nothing else.** Full detail in `PAGE-RECOVERY.md`.
+>
+> The heading below ("all real gaps") is **wrong as written** and kept only for the record. The
+> pages are pages no chunk emits a `<!-- page N -->` marker for, which is NOT the same as missing
+> content. Both cases actually checked were already transcribed and merely mis-marked: **p. 526**
+> (its footer band is `d30-a1-q3`'s `[^1s]`–`[^8s]`) and **p. 162** (Scholion top in
+> `d8-p1-a2-q2`; `Dub. I` in `d8-p1-dubia` under a marker reading `<!-- page 161 -->`).
+> Fingerprint — two chunks claiming N−1 with the second starting there — shows on **6 of 33**:
+> 162, 222, 292, 586, 589, 677. The other 27 were deliberately not investigated.
+
+### (superseded heading) the 33 uncovered pages are all real gaps
 
 **Every one of the 33 printed pages Vol I's chunks do not carry is an ordinary two-column text
 page with a footnote band.** None is a blank, a plate, a half-title or an index page. They are

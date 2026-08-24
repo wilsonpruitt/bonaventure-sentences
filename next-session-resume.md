@@ -1,5 +1,40 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **PUSH AND DEPLOY ARE THE ONLY THINGS OWED. Both protected, both need
+> Wilson's per-action OK.** `master` is ahead of `origin` (check `git log origin/master..master`).
+> The last `vercel build --prod` is stale — rebuild before deploying.
+>
+> Riding on the next deploy: the `Dictae salutis` fix (`bon-hex-c8`, p. 372 n. 1, still not live)
+> and all **16** cross-reference fixes from the two sweep sessions.
+>
+> ## ⛔ THE PAGE-GAP HUNT IS PARKED — DO NOT RESTART IT
+> **Wilson, 2026-08-24: "We went through everything super deliberately. If a reader calls out a
+> gap, we will return to it, but this seems more like a snipe hunt than rigor."**
+> The "33 missing Vol I pages" came from pages with no `<!-- page N -->` marker, which is **not**
+> the same as missing content — both pages actually checked (526, 162) were already transcribed
+> and merely mis-marked. Detail parked in `PAGE-RECOVERY.md`. **Reopening trigger: a reader
+> reports a gap. Nothing else.**
+>
+> ## ✅ DONE AND BANKED — the Vol I cross-reference sweep
+> All 14 raw non-word sites opened against plates: **16 digit errors fixed, 7 readings confirmed
+> correct** (`7a3f362`, `bf65af3`). Two lessons worth keeping:
+> - **A clean grep is not evidence.** `493`→`495` fired twice with no non-word in the OCR at all;
+>   `5`→`3`, `5`→`8`, `5`→`6` yield valid numbers.
+> - **⛔ Never delegate a digit to a cheap model on these plates.** Measured: a Haiku fleet
+>   misread **12.5% of LARGE running-head numbers**, four of five errors being `5`→`3` — the same
+>   class that caused the corpus errors. Coarse "is something there?" only.
+>
+> ## ⚠ STILL OPEN (not urgent, none mechanical)
+> - About page's **"What Is Known to Be Wrong"** — Wilson's to frame; the cross-reference class
+>   is the strongest candidate.
+> - `d30-a1-q3`'s transposed `s`-series labels · `d37-p2-dubia` `[^6]`'s merged notes.
+> - Book IV `d. 2. p. I.` cite · `prol-comm` p. 24 n. 2 (jointly impossible; flag stands).
+> - **Vols II–IV never swept** for the cross-reference class — and per the lesson above, a clean
+>   grep would not prove them sound.
+
+---
+
+## (superseded) previous START HERE — page-recovery packet, 2026-08-24
 > # ▶▶▶ START HERE — **NEXT JOB IS `PAGE-RECOVERY.md`: THE 33 MISSING VOL I PAGES.**
 > Open that file and work its ledger top to bottom. Everything you need per page is in it —
 > plate, raw-OCR line window, both neighbouring chunks, leaf number.
