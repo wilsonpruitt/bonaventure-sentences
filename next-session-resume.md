@@ -2,9 +2,10 @@
 
 > # ▶▶▶ START HERE — **THE FRONT IS `bon-don-c2` (Collatio II, *De dono timoris Domini*, pp. 462–467).**
 > The *Collationes de septem donis Spiritus Sancti* is open: mini-pilot frozen and **Collatio I is
-> Tier 2** (2026-08-27, `b09d3a7` + `ffbf1fa`). **`master` is 2 ahead of origin — push and deploy
-> are both owed and both protected.** The deploy boundary for this work is its **close at c9**, so
-> nothing needs to ship yet; the push is cheap and separate.
+> Tier 2** (2026-08-27, `b09d3a7` + `ffbf1fa`). ✅ **PUSHED 2026-08-27 — `origin/master` = `e2b24b9`,
+> 0 ahead, tree clean. NOTHING IS OWED.** The deploy boundary for this work is its **close at c9**,
+> so prod still serves the 2026-08-24 Hexaemeron deploy and nothing needs to ship yet.
+> ⚠ That live-state line is DATED and expires — never restate prod from a note.
 >
 > ## Read before touching c2
 > - **`manual-review/septem-donis-pilot-scouting.md`** and the **SEPTEM DONIS section of the repo
