@@ -330,10 +330,27 @@ const WORKS = {
       24: "Scholion",
     },
   },
+  // The second reportatio: nine collationes, pp. 457-503, and NO work-level
+  // Scholion (the index lists none - a real difference from both the
+  // Itinerarium and the Hexaemeron). The collatio is the chunk unit here as
+  // there, but it is settled by the volume index and by Quaracchi's citation
+  // practice, NOT by an anchor: `COLLATIO I.` on p. 457 carries NO apparatus
+  // anchor, read at 10x against p. 329's, which does. Division titles added
+  // one at a time, each verified against the in-place printed subtitle.
+  // See manual-review/septem-donis-pilot-scouting.md.
+  "septem-donis": {
+    book: 12,
+    tome: 5,
+    title: "Collationes de septem donis Spiritus Sancti",
+    initial: "D",
+    divisionLabel: "Collationes",
+    divisions: {
+      1: "Collatio I: Praemittitur tractatio de gratia secundum eius ortum, usum et fructum",
+    },
+  },
   // Future Vol V works claim book ids here as their mini-pilots run:
   // scientia-christi: 8, mysterio-trinitatis: 9,
-  // perfectione-evangelica: 10, hexaemeron: 11, septem-donis: 12,
-  // decem-praeceptis: 13, sermones-selecti: 14.
+  // perfectione-evangelica: 10, decem-praeceptis: 13, sermones-selecti: 14.
 };
 
 function buildWorkChunkTitle(meta) {
@@ -350,7 +367,8 @@ function buildWorkChunkTitle(meta) {
   if (meta.workSlug === "itinerarium") return `Cap. ${meta.division}`;
   // Flat works whose division is the collatio (Hexaemeron, and the two
   // Collationes sets when they land).
-  if (meta.workSlug === "hexaemeron") return `Coll. ${meta.division}`;
+  if (meta.workSlug === "hexaemeron" || meta.workSlug === "septem-donis")
+    return `Coll. ${meta.division}`;
   // Breviloquium-style: "Pars 3, Cap. 4".
   const parts = [`Pars ${meta.division}`];
   if (meta.capitulum) parts.push(`Cap. ${meta.capitulum}`);

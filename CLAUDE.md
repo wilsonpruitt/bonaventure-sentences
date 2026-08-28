@@ -1,6 +1,6 @@
 # Bonaventure Sentences — Project Guide for Claude
 
-You are working on an English translation of **St. Bonaventure's *Opera Omnia*** (Quaracchi edition, 1882–1902). Status (2026-06-01): **Vol I (Book I, 48 dist.) and Vol II (Book II, 44 dist.) are fully Tier-2 and published.** The active front is **Vol III** (Book III, 40 dist.); Book IV has 50 dist. The live site is https://bonaventure.wrootpress.com. Always defer to `next-session-resume.md` for the exact current position.
+You are working on an English translation of **St. Bonaventure's *Opera Omnia*** (Quaracchi edition, 1882–1902). Status (2026-08-27): **Books I–IV are complete and published** (Vols I–IV, all Tier 2). The active front is **Vol V**, where the Breviloquium, Itinerarium, De reductione and the Collationes in Hexaemeron are all complete; **the current work is the *Collationes de septem donis Spiritus Sancti* (pp. 457–~503)**. The live site is https://bonaventure.wrootpress.com. Always defer to `next-session-resume.md` for the exact current position.
 
 This file is loaded into every Claude Code session in this repo. Read it before making changes to translation files or the build pipeline.
 
@@ -281,15 +281,17 @@ Vols V–X (2026-07-28).**
 | 4 | QD de perfectione evangelica | 117–198 | `perfectione-evangelica` | 10 | planned |
 | 5 | **Breviloquium** | 199–291 | `breviloquium` | 5 | **COMPLETE — gated + deployed 2026-08-01** |
 | 6 | **Itinerarium mentis in Deum** | 293–316 | `itinerarium` | 6 | **COMPLETE 2026-08-14 — all 10 chunks Tier 2; work-close gate + deploy due** |
-| 7 | De reductione artium | 319–325 | `de-reductione` | 7 | planned |
-| 8 | Collationes in Hexaemeron | ~327–454 | `hexaemeron` | 11 | planned — **NOTE: it is in Vol V, not Vol VII as the old tracker claimed** |
-| 9 | Coll. de septem donis | ~455–503 | `septem-donis` | 12 | planned |
+| 7 | **De reductione artium** | 319–325 | `de-reductione` | 7 | **COMPLETE 2026-08-14** |
+| 8 | **Collationes in Hexaemeron** | 327–454 | `hexaemeron` | 11 | **COMPLETE 2026-08-23 — 23 collationes + Scholion; gated + deployed 2026-08-24.** (It is in Vol V, not Vol VII as the old tracker claimed.) |
+| 9 | Coll. de septem donis | 455–~503 | `septem-donis` | 12 | **ACTIVE — mini-pilot frozen 2026-08-27; 9 collationes, no Scholion** |
 | 10 | Coll. de decem praeceptis | ~505–532 | `decem-praeceptis` | 13 | planned |
 | 11 | Sermones selecti | ~535–579 | `sermones-selecti` | 14 | planned |
 
-Suggested order after Breviloquium: Itinerarium → De reductione → the three QD (register
-carries over from the Sentences almost unchanged) → Collationes (new reportatio register,
-own mini-pilot) → Sermones.
+Order as actually run: Breviloquium → Itinerarium → De reductione → **Hexaemeron** (taken
+ahead of the QD, Wilson's call) → **septem donis** (in progress) → decem praeceptis → the
+three QD → Sermones. The two remaining Collationes sets follow the Hexaemeron because the
+reportatio register is freshly proven; the QD register carries over from the Sentences
+almost unchanged and keeps.
 
 ### Data model (implemented in `site/scripts/build-content.mjs` — `WORKS` registry)
 
@@ -604,6 +606,60 @@ transmitted alternate title *sive Illuminationes Ecclesiae*) · p. 328 MEASURED 
   shakedown gate ~15–25 pp in — i.e. after roughly Collatio IV.**
 - **⚠ Plates: extract PER COLLATIO, never in bulk.** 128 leaves at 450 dpi is ~600 MB on an
   8 GB machine.
+
+### SEPTEM DONIS — mini-pilot conventions (frozen 2026-08-27; evidence in `manual-review/septem-donis-pilot-scouting.md`)
+
+*Collationes de septem donis Spiritus Sancti*, work 9, book id 12, slug `septem-donis`.
+**The second reportatio.** p. 455 half-title (**no alternate title**, unlike the
+Hexaemeron) · p. 456 MEASURED BLANK (0.084 % dark px) · **body opens p. 457**.
+English title: **"Collations on the Seven Gifts of the Holy Spirit."**
+
+- **NINE CHUNKS: `bon-don-c{1..9}` (divisions 1–9), `type: collatio`.** The volume index
+  lists exactly nine and nothing finer. **NO work-level Scholion** — a real difference
+  from both the Itinerarium and the Hexaemeron, whose indexes list one after the last
+  chapter. The work ends `EXPLICIUNT COLLATIONES DE DONIS SPIRITUS S.` and *De decem
+  praeceptis*'s half-title follows. **This work has no suffix-less slug** — the first Vol V
+  work to which the census blind-spot class does not apply.
+- **⛔ THE HEXAEMERON'S DECISIVE TEST COMES OUT THE OTHER WAY HERE: `COLLATIO I.` CARRIES
+  NO APPARATUS ANCHOR.** Read at 10× and compared side by side with p. 329, which does:
+  p. 329's is a well-formed superscript standing **after** the period, answered by a footer
+  note documenting the work's title in the codices; p. 457's only mark is a comma-shaped
+  speck **between** `COLLATIO` and `I.`, of no digit shape, and nothing stands after the
+  period. All seven of p. 457's notes are body-anchored. **The collatio is still the chunk
+  unit — but settled by the index and by Quaracchi's citation practice (`de donis coll. N.
+  n. M`), not by an anchor. Do not go looking for one, and do not carry the Hexaemeron's
+  sentence forward.** ⚠ The raw cannot answer this: both headings render as
+  `COLLATIO<double space><numeral>` because Vol V's OCR has no footnote numerals at all.
+  **The anchor question is only ever answerable on the plate.**
+- **Everything else in the Hexaemeron block ports** — the `### Summarium` at the head of
+  each language block (verified unanchored on p. 457; the header garbles, `SuM.MARiiiM`
+  there, so **find it by content**), marginalia trimmed to `## Notes` *as well as* the
+  Summarium, division titles added to the registry ONE AT A TIME against the in-place
+  subtitle, and **count the body every time** (the c6/c14 short-Summarium mechanism is a
+  property of the genre; Collatio I's `17. 18.` and its 18 numbered paragraphs agree).
+- **Header hazards:** running head `DE DONIS SPIRITUS S. COLLATIO N.` (garbles `SPIRITLS`,
+  `SI>1RITUS`, `SPIR[TUS`, `DOiMS`, `COLLATIO LX` = IX); the real header is the bare
+  `COLLATIO N.` (`IL` = II, `in.` = III, `YL` = VI, `VIL` = VII, `VIIL` = VIII).
+  **Fix every span from the next real header on the band.**
+- **Raw band L76284 → L83157** (~6,875 lines, ~⅓ of the Hexaemeron). Real headers:
+  I L76291 · II L77022 · III L77899 · IV L78670 · V L79563 · VI L80138 · VII L80980 ·
+  VIII L81635 · IX L82381 · `EXPLICIUNT` L83126. **Index page claims, all unverified:**
+  457 · 462 · 468 · 473 · 479 · 483 · 489 · 493 · 498, work ending ~503 (*Decem praeceptis*
+  Coll. I is at **p. 507** per the index, so its half-title is ~505 — the work map's "~505"
+  for this work's END was an estimate; fix it positively at c9).
+- **★ EVERY COLLATIO OPENING DEFEATS THE DEFAULT GUTTER WINDOW.** Each opens with a
+  full-width heading + subtitle + Summarium stacked across the gutter, so `colcrop`'s
+  default lands on the stack. p. 457: default **1203 on a 51 px run**, skew screen reports
+  **166 px drift** and names the outlying slices (0.08, 0.17, 0.25) itself — that is the
+  work-opening case, **not** skew. Profiling below the Summarium (rows 0.36–0.95) gives a
+  stable **band 1181–1229 (49 px), centre rule 1195–1215, midpoint → 1204**, three windows
+  agreeing at 1202–1205. **Adopt 1204 for p. 457; profile below the Summarium on all nine
+  openings.**
+- **Cadence: ONE gate, at the work close** (49 pp, per the frozen table); deploy boundary =
+  work close. **The shakedown trigger does not fire separately** — this is not a new
+  register but the one the Hexaemeron just exercised over 128 pages, and its single
+  divergence (the heading anchor) is settled above. ~5.2 printed pp and ~35 apparatus
+  entries per chunk. **Plates per collatio, never in bulk.**
 
 ### Vol V mechanics
 
