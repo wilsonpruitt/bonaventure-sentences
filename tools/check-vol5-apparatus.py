@@ -1857,6 +1857,19 @@ KNOWN_TOTALS = {
     461: 8,   # block 5/3, anchors 5/3, PLUS the inherited unnumbered runover
               # of p. 460 n. 10 standing above n. 1 - which is p. 460's entry
               # and is not counted again here.
+    462: 5,   # block 3/2, anchors 3/2.
+    463: 8,   # block 4/4, anchors 2/6 (the left block OVERRUNS by two - the
+              # mirror of p. 457's underrun).
+    464: 7,   # block 5/2, anchors 3/4. n. 5 breaks across the COLUMN division
+              # mid-sentence ("...apud Petr. Lombardum" / "(in hunc locum)
+              # extensiore modo exhibetur"); it is one entry, counted once.
+    465: 12,  # block 5/7, anchors 6/6. n. 5 breaks across the column division
+              # mid-citation ("- Gen. 19," / "26: Respiciensque uxor eius").
+              # The signature line "S. Bonav. - Tom. V." and the gathering
+              # signature "59" are furniture, not entries.
+    466: 11,  # block 6/5, anchors 5/6.
+    467: 8,   # block 6/2, anchors 3/5. n. 8 closes cleanly; p. 468 opens
+              # Collatio III, so no runover is forwarded.
 }
 
 

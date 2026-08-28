@@ -555,6 +555,15 @@ def scan_page(text, cfg):
             lb = book_lookback.findall(text[:m.start()])
             if lb:
                 tom = ROMAN.get(lb[-1])
+            else:
+                # `… allatam tom. II. pag. 506, nota 3. Cfr. ibid. pag. 700, nota 1`
+                # (bon-don-c2, p. 465 n. 2): `ibid.` can point back at a bare
+                # `tom. N.` with no `Sent.` anywhere in the note. Without this the
+                # tome falls through to the CITING volume and the reference is
+                # reported as a forward reference inside Vol V, which is wrong.
+                lb = tom_lookback.findall(text[:m.start()])
+                if lb:
+                    tom = ROMAN.get(lb[-1])
         if tom is None and not d["rel"]:
             # A bare `pag. 738, nota 4` inherits the `tom. N` named earlier in the same
             # note — Quaracchi states the tome once and then lists pages. Without this

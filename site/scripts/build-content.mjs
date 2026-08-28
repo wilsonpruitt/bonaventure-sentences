@@ -346,6 +346,7 @@ const WORKS = {
     divisionLabel: "Collationes",
     divisions: {
       1: "Collatio I: Praemittitur tractatio de gratia secundum eius ortum, usum et fructum",
+      2: "Collatio II: De dono timoris Domini",
     },
   },
   // Future Vol V works claim book ids here as their mini-pilots run:
