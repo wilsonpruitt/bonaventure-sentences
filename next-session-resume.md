@@ -1,5 +1,51 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **THE FRONT IS `bon-don-c2` (Collatio II, *De dono timoris Domini*, pp. 462–467).**
+> The *Collationes de septem donis Spiritus Sancti* is open: mini-pilot frozen and **Collatio I is
+> Tier 2** (2026-08-27, `b09d3a7` + `ffbf1fa`). **`master` is 2 ahead of origin — push and deploy
+> are both owed and both protected.** The deploy boundary for this work is its **close at c9**, so
+> nothing needs to ship yet; the push is cheap and separate.
+>
+> ## Read before touching c2
+> - **`manual-review/septem-donis-pilot-scouting.md`** and the **SEPTEM DONIS section of the repo
+>   CLAUDE.md**. They carry the work's shape (nine collationes, **no work-level Scholion**), the raw
+>   line for every real `COLLATIO N.` header, and the index page claims.
+> - **⛔ `COLLATIO I.` CARRIES NO APPARATUS ANCHOR.** The Hexaemeron's decisive test comes out the
+>   other way here — verified at 10× against p. 329, which does carry one. The collatio is still the
+>   chunk unit, settled by the volume index and Quaracchi's citation practice, not by an anchor.
+>   **Do not go looking for one on c2, and do not carry the Hexaemeron's sentence forward.**
+> - **★ EVERY COLLATIO OPENING DEFEATS THE DEFAULT GUTTER WINDOW** — full-width heading + subtitle +
+>   Summarium stacked across the gutter. On p. 457 `colcrop` gave 1203 on a **51 px** run and the
+>   skew screen reported **166 px drift**, naming its own outliers; profiling below the Summarium
+>   gave a stable band 1181–1229 → **1204**. Expect this at p. 462 and at all seven openings after.
+> - **Count the body against the Summarium, every time.** c1's agreed (`17. 18.` against 18
+>   paragraphs); the c6/c14 short-Summarium mechanism is a property of the genre, not of the Hexaemeron.
+>
+> ## c2 — what is already known
+> Index claims **pp. 462–467**, title *De dono timoris Domini* (the in-place subtitle on p. 462 was
+> read and **agrees**). Real header at raw **L77022**; close it positively from `COLLATIO III.` at
+> raw **L77899** (index p. 468) on the band, never from a running head. **No runover is forwarded
+> into c2:** p. 461 n. 8 closes cleanly and p. 462 opens the new collatio.
+>
+> ## Cadence for this work
+> **ONE gate, at the work close (c9).** The shakedown trigger does not fire separately — this is not
+> a new register but the one the Hexaemeron exercised over 128 pages, and its single divergence (the
+> heading anchor) is settled. **Deploy boundary = work close.** Plates per collatio, never in bulk.
+>
+> ## ⚠ Still open elsewhere (none urgent, none mechanical)
+> - The About page's **"What Is Known to Be Wrong"** — Wilson's to frame; the Vol I cross-reference
+>   digit class is the strongest candidate.
+> - `d30-a1-q3`'s transposed `s`-series labels · `d37-p2-dubia` `[^6]`'s merged notes ·
+>   Book IV `d. 2. p. I.` cite · `prol-comm` p. 24 n. 2 (jointly impossible; flag stands).
+> - **Vols II–IV have never been swept** for the cross-reference digit class — and a clean grep
+>   would not prove them sound.
+> - `bon-hex-c23` carries one non-page-qualified apparatus label (`51`), flagged by polish-style-scan.
+> - **⛔ The Vol I page-gap hunt stays PARKED** (Wilson, 2026-08-24). Reopening trigger: a reader
+>   reports a gap. Nothing else.
+
+---
+
+## (superseded) previous START HERE — nothing owed after the Hexaemeron deploy, 2026-08-24
 > # ▶▶▶ START HERE — **PUSH AND DEPLOY ARE THE ONLY THINGS OWED. Both protected, both need
 > Wilson's per-action OK.** `master` is ahead of `origin` (check `git log origin/master..master`).
 > The last `vercel build --prod` is stale — rebuild before deploying.
