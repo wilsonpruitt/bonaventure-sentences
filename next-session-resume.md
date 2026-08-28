@@ -1,5 +1,57 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **THE FRONT IS `bon-don-c3` (Collatio III, *De dono pietatis*, pp. 468–472).**
+> The *Collationes de septem donis Spiritus Sancti* is open: mini-pilot frozen, **Collatio I and
+> Collatio II are both Tier 2** (c2 on 2026-08-27, `a88f83d`). ⚠ **`master` is 1 AHEAD of origin —
+> the push is owed and it is a PROTECTED action needing Wilson's per-action OK.** The deploy
+> boundary for this work is its **close at c9**, so prod still serves the 2026-08-24 Hexaemeron
+> deploy and nothing needs to ship yet.
+> ⚠ That live-state line is DATED and expires — never restate prod from a note.
+>
+> ## Read before touching c3
+> - **`manual-review/septem-donis-pilot-scouting.md`**, the **SEPTEM DONIS section of the repo
+>   CLAUDE.md**, and **`vol5/bon-don-c2.md`'s `## Notes`** — c2's Notes carry the two things c1's
+>   could not: what the opening-leaf gutter rule actually predicts, and the block-vs-anchor pattern
+>   over six leaves rather than five.
+> - **⛔ `COLLATIO I.` CARRIES NO APPARATUS ANCHOR, and the question is CLOSED.** It was settled at
+>   10× on p. 457 against p. 329. Nothing was looked for on p. 462 and nothing turned up. **Do not
+>   reopen it on c3, and do not carry the Hexaemeron's sentence forward.**
+> - **★ THE OPENING-LEAF GUTTER RULE IS NOW TWO-SIDED, and c2 is what made it so.** p. 462 threw the
+>   same skew-screen signature p. 457 did — **321 px drift, slices 0.08/0.17/0.25 naming themselves**
+>   as the heading/subtitle/Summarium stack — and then the three windows below the Summarium returned
+>   **1402 on a 64 px band, which is exactly what `colcrop`'s default already said.** p. 457 had to be
+>   corrected (51 px, under the floor); p. 462 only had to be confirmed. **Profile below the Summarium
+>   at every opening — but read the rule as "the default MAY be wrong there", not "is".**
+> - **Count the body against the Summarium, every time.** c1's agreed (`17. 18.` / 18 ¶¶) and c2's
+>   agreed (`21.` / 21 ¶¶). The c6/c14 short-Summarium mechanism has not fired in this work yet; it
+>   is a property of the genre, not a spent one.
+>
+> ## c3 — what is already known
+> Index claims **pp. 468–472**, title *De dono pietatis* — and the in-place subtitle on p. 468 was
+> **already read on the plate while closing c2 and it agrees.** Real header at raw **L77899**; close
+> it positively from `COLLATIO IV.` at raw **L78670** (index p. 473) on the band, never from a
+> running head. **No runover is forwarded into c3:** p. 467 n. 8 closes cleanly and p. 468 opens the
+> new collatio. p. 468's plate is already extracted at 450 dpi (`raw/vision/vol5/p-468.png`).
+>
+> ## Cadence for this work
+> **ONE gate, at the work close (c9).** The shakedown trigger does not fire separately. **Deploy
+> boundary = work close.** Plates per collatio, never in bulk.
+>
+> ## ⚠ Still open elsewhere (none urgent, none mechanical)
+> - The About page's **"What Is Known to Be Wrong"** — Wilson's to frame; the Vol I cross-reference
+>   digit class is the strongest candidate.
+> - `d30-a1-q3`'s transposed `s`-series labels · `d37-p2-dubia` `[^6]`'s merged notes ·
+>   Book IV `d. 2. p. I.` cite · `prol-comm` p. 24 n. 2 (jointly impossible; flag stands).
+> - **Vols II–IV have never been swept** for the cross-reference digit class — and a clean grep
+>   would not prove them sound. ⭐ c2 turned up a *sixth* wrong `ibid.`-tome resolution in Vols III–IV
+>   by fixing a resolver branch, which is a reminder that the class is live outside Vol I.
+> - `bon-hex-c23` carries one non-page-qualified apparatus label (`51`), flagged by polish-style-scan.
+> - **⛔ The Vol I page-gap hunt stays PARKED** (Wilson, 2026-08-24). Reopening trigger: a reader
+>   reports a gap. Nothing else.
+
+---
+
+## (superseded) previous START HERE — front was `bon-don-c2`, 2026-08-27
 > # ▶▶▶ START HERE — **THE FRONT IS `bon-don-c2` (Collatio II, *De dono timoris Domini*, pp. 462–467).**
 > The *Collationes de septem donis Spiritus Sancti* is open: mini-pilot frozen and **Collatio I is
 > Tier 2** (2026-08-27, `b09d3a7` + `ffbf1fa`). ✅ **PUSHED 2026-08-27 — `origin/master` = `e2b24b9`,
