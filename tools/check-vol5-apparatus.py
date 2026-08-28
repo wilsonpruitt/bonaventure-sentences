@@ -1842,6 +1842,21 @@ KNOWN_TOTALS = {
     450: 1,   # bon-hex-scholion's sole entry: the reportator's colophon, an
               # unnumbered/unanchored page-foot quotation (not a Bonaventure
               # footnote) transcribed as bare entry p450-1.
+
+    # --- Collationes de septem donis Spiritus Sancti (pp. 457-) ---
+    # Every total below was read off the 450 dpi footer bands at 2.1-2.4x,
+    # both blocks per leaf, on 2026-08-27.
+    457: 7,   # block 2/5, anchors 4/3 (the left block underruns by two).
+              # The signature line "S. Bonav. - Tom. V." and the gathering
+              # signature "58" are furniture, not entries.
+    458: 9,   # block 3/6, anchors 3/6.
+    459: 11,  # block 7/4, anchors 7/4.
+    460: 10,  # block 4/6, anchors 5/5. n. 10 BREAKS at the foot of the page
+              # ("...Ego autem") and continues unnumbered at the head of
+              # p. 461's left block; it is counted once, here.
+    461: 8,   # block 5/3, anchors 5/3, PLUS the inherited unnumbered runover
+              # of p. 460 n. 10 standing above n. 1 - which is p. 460's entry
+              # and is not counted again here.
 }
 
 
