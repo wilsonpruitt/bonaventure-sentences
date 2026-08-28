@@ -2,8 +2,8 @@
 
 > # ▶▶▶ START HERE — **THE FRONT IS `bon-don-c4` (Collatio IV, *De dono scientiae*).**
 > The *Collationes de septem donis Spiritus Sancti* is open: mini-pilot frozen, **Collationes I,
-> II and III are all Tier 2** (c3 on 2026-08-27). ⚠ **NOT PUSHED — `master` is ahead of
-> `origin/master`; the push is a protected action and needs Wilson's per-action OK.** The deploy
+> II and III are all Tier 2** (c3 on 2026-08-27). ✅ **PUSHED 2026-08-28 — `origin/master` =
+> `8f54985`, 0 ahead, tree clean. NOTHING IS OWED.** The deploy
 > boundary for this work is its **close at c9**, so prod still serves the 2026-08-24 Hexaemeron
 > deploy and nothing needs to ship yet.
 > ⚠ That live-state line is DATED and expires — never restate prod from a note.
