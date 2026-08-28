@@ -2,10 +2,10 @@
 
 > # ▶▶▶ START HERE — **THE FRONT IS `bon-don-c3` (Collatio III, *De dono pietatis*, pp. 468–472).**
 > The *Collationes de septem donis Spiritus Sancti* is open: mini-pilot frozen, **Collatio I and
-> Collatio II are both Tier 2** (c2 on 2026-08-27, `a88f83d`). ⚠ **`master` is 1 AHEAD of origin —
-> the push is owed and it is a PROTECTED action needing Wilson's per-action OK.** The deploy
-> boundary for this work is its **close at c9**, so prod still serves the 2026-08-24 Hexaemeron
-> deploy and nothing needs to ship yet.
+> Collatio II are both Tier 2** (c2 on 2026-08-27, `a88f83d`). ✅ **PUSHED 2026-08-27 —
+> `origin/master` = `aba9077`, 0 ahead, tree clean. NOTHING IS OWED.** The deploy boundary for this
+> work is its **close at c9**, so prod still serves the 2026-08-24 Hexaemeron deploy and nothing
+> needs to ship yet.
 > ⚠ That live-state line is DATED and expires — never restate prod from a note.
 >
 > ## Read before touching c3
