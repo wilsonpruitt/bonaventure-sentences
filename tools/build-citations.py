@@ -286,6 +286,30 @@ def scan_scripture_apparatus(text, cfg):
         }
 
 
+BOOK_UNNAMED_RE = re.compile(
+    r"(?<![A-Za-z\u00c0-\u00ff])Libr\.\s*[IVX]{1,3}\.\s*\d{1,3}\s*,\s*\d{1,3}")
+
+
+def scan_scripture_book_unnamed(text, cfg):
+    """`Libr. II. 3, 1.` \u2014 a note that gives the BOOK NUMBER only, the book's NAME
+    standing in the body (`dicitur in libro Machabaeorum`). Three are attested, all in
+    the Collationes de septem donis, and the genre will keep producing them: a
+    reportatio names its book aloud and the editor does not repeat it.
+
+    It emits an UNRESOLVABLE record on purpose, as a barrier. Without it the citation
+    is invisible to every scanner, and a following `ibid.` in the same note walks past
+    it to the PREVIOUS note's verse and binds to the wrong BOOK \u2014 silently. Found at
+    bon-don-c3 p. 472 n. 4, whose `ibid. 4, 23` (II Maccabees) was resolving to
+    IV Kings 4:1, inherited from p. 472 n. 2. A wrong anchor is worse than none.
+
+    `Libr. I. Reg. 12, 23` does NOT match: the book is named there, and the ordinary
+    scripture scanner owns it.
+    """
+    for m in BOOK_UNNAMED_RE.finditer(text):
+        yield {"cls": "scripture", "sub": "book-unnamed",
+               "raw": m.group(0), "pos": m.start(), "conf": ""}
+
+
 def scan_scripture_body(text, cfg):
     """Form B: `Ioannis decimo octavo` — ordinal chapter, verse supplied by the note."""
     body_map, meta, ordinals = cfg["_body_map"], cfg["_meta"], cfg["ordinals"]
@@ -806,7 +830,8 @@ def resolve_anaphora_across_chunks(chunks, per_chunk):
 def extract(chunks, cfg, by_locus, by_dist, by_page, by_id):
     rows, qa = [], []
     per_chunk = {}
-    scanners = (scan_scripture_apparatus, scan_scripture_body,
+    scanners = (scan_scripture_apparatus, scan_scripture_book_unnamed,
+                scan_scripture_body,
                 scan_sentences, scan_chain_continuation, scan_relative,
                 scan_page, scan_work)
 
@@ -838,7 +863,9 @@ def extract(chunks, cfg, by_locus, by_dist, by_page, by_id):
                             rec["verse"] = int(vm.group(1))
                             rec["conf"] = "B"
 
-                    if rec["cls"] == "scripture":
+                    if rec["sub"] == "book-unnamed":
+                        tgt, res, conf = "", "unresolvable", ""
+                    elif rec["cls"] == "scripture":
                         tgt = f"{rec['book']} {rec['chapter']}"
                         if rec.get("verse"):
                             tgt += f":{rec['verse']}"

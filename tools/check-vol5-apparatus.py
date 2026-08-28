@@ -1870,6 +1870,17 @@ KNOWN_TOTALS = {
     466: 11,  # block 6/5, anchors 5/6.
     467: 8,   # block 6/2, anchors 3/5. n. 8 closes cleanly; p. 468 opens
               # Collatio III, so no runover is forwarded.
+    468: 4,   # block 3/1, anchors 3/1.
+    469: 11,  # block 6/5, anchors 5/6 (the left block overruns by one: n. 6
+              # prints left, anchors right).
+    470: 7,   # block 4/3, anchors 4/3. n. 4 (the long Bernard citation) breaks
+              # across the COLUMN division mid-sentence.
+    471: 10,  # block 4/6, anchors 4/6.
+    472: 10,  # block 5/5, anchors 4/6 (n. 5 prints left, anchors right). n. 3
+              # is set flush right on n. 2's last line, not on its own line.
+    473: 8,   # block 4/4. ONLY nn. 1-5 are Collatio III's; nn. 6-8 anchor in
+              # Collatio IV, whose display heading stands MID-LEAF on p. 473.
+              # bon-don-c4 owns 6-8; do not let c4 restart p. 473 at 1.
 }
 
 

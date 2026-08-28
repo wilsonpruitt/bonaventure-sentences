@@ -663,6 +663,21 @@ English title: **"Collations on the Seven Gifts of the Holy Spirit."**
   sat on 51 px, under the 60 px floor, and had to be corrected; p. 462's sat above it and only had
   to be confirmed. So: profile below the Summarium at every opening, and let the profile arbitrate —
   but do not assume the default is wrong there, and do not discard a default the profile reproduces.
+- **★★ THE INDEX GIVES A HEADING PAGE, AND A HEADING PAGE MAY BE SHARED (added 2026-08-27
+  at `bon-don-c3`).** The index's page for `COLLATIO N.` is the page that collatio's
+  **display heading** falls on — not the first page it owns outright. `COLLATIO IV.`
+  stands **mid-leaf on p. 473**, below Collatio III's ¶¶ 18 and 19, so Collatio III
+  runs **468–473** and not 468–472 as the index pair implies. **Never derive a span's
+  last page by subtracting one from the next collatio's index page; close every span
+  positively on the plate.** The shared leaf also splits its footer register: p. 473's
+  eight notes number straight through, nn. 1–5 anchoring in Collatio III and nn. 6–8 in
+  Collatio IV, so **c4 must pick up p. 473 nn. 6–8 and must not restart that page at 1.**
+- **★ `Libr. <roman>. <ch>, <v>` — the book-number-only citation is a GENRE TRAIT here.**
+  The reportatio names the book aloud (*dicitur in libro Machabaeorum*) and the editor's
+  note gives only `Libr. II. 3, 1.` Three are attested (c2 p. 467 n. 5, c3 p. 472 n. 4 and
+  p. 473 n. 5). `build-citations.py` now emits an explicitly **unresolvable barrier** for
+  the shape, because without it a following `ibid.` in the same note bound to the previous
+  note's verse and named the wrong BOOK silently.
 - **Cadence: ONE gate, at the work close** (49 pp, per the frozen table); deploy boundary =
   work close. **The shakedown trigger does not fire separately** — this is not a new
   register but the one the Hexaemeron just exercised over 128 pages, and its single
