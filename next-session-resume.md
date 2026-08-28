@@ -2,8 +2,8 @@
 
 > # ▶▶▶ START HERE — **THE FRONT IS `bon-don-c5` (Collatio V, *De dono fortitudinis collatio prima*).**
 > The *Collationes de septem donis Spiritus Sancti* is open: mini-pilot frozen, **Collationes I–IV
-> are all Tier 2** (c4 on 2026-08-28). ⚠ **NOT PUSHED as of this note — check `git status -sb`
-> before assuming anything is owed.** The deploy boundary for this work is its **close at c9**, so
+> are all Tier 2** (c4 on 2026-08-28). ✅ **PUSHED 2026-08-28 — `origin/master` = `ffcd30d`,
+> 0 ahead, tree clean. NOTHING IS OWED.** The deploy boundary for this work is its **close at c9**, so
 > prod still serves the 2026-08-24 Hexaemeron deploy and nothing needs to ship yet.
 > ⚠ That live-state line is DATED and expires — never restate prod from a note.
 >
