@@ -647,7 +647,8 @@ English title: **"Collations on the Seven Gifts of the Holy Spirit."**
   457 · 462 · 468 · 473 · 479 · 483 · 489 · 493 · 498, work ending ~503 (*Decem praeceptis*
   Coll. I is at **p. 507** per the index, so its half-title is ~505 — the work map's "~505"
   for this work's END was an estimate; fix it positively at c9).
-- **★ EVERY COLLATIO OPENING DEFEATS THE DEFAULT GUTTER WINDOW.** Each opens with a
+- **★ EVERY COLLATIO OPENING THROWS THE SKEW SCREEN — BUT THE DEFAULT IS NOT ALWAYS WRONG
+  (revised 2026-08-27 at `bon-don-c2`; this section previously read "defeats").** Each opens with a
   full-width heading + subtitle + Summarium stacked across the gutter, so `colcrop`'s
   default lands on the stack. p. 457: default **1203 on a 51 px run**, skew screen reports
   **166 px drift** and names the outlying slices (0.08, 0.17, 0.25) itself — that is the
@@ -655,6 +656,13 @@ English title: **"Collations on the Seven Gifts of the Holy Spirit."**
   stable **band 1181–1229 (49 px), centre rule 1195–1215, midpoint → 1204**, three windows
   agreeing at 1202–1205. **Adopt 1204 for p. 457; profile below the Summarium on all nine
   openings.**
+  ★★ **p. 462 threw the identical signature and the default held.** 321 px drift, the screen naming
+  slices 0.08/0.17/0.25 itself; below the Summarium all three windows returned **1402 on a 64 px
+  band** with the ink island at 1401–1404 — which is precisely what `colcrop` had already measured
+  on a healthy 62 px run. **The discriminator is the RUN WIDTH, not the opening:** p. 457's default
+  sat on 51 px, under the 60 px floor, and had to be corrected; p. 462's sat above it and only had
+  to be confirmed. So: profile below the Summarium at every opening, and let the profile arbitrate —
+  but do not assume the default is wrong there, and do not discard a default the profile reproduces.
 - **Cadence: ONE gate, at the work close** (49 pp, per the frozen table); deploy boundary =
   work close. **The shakedown trigger does not fire separately** — this is not a new
   register but the one the Hexaemeron just exercised over 128 pages, and its single
