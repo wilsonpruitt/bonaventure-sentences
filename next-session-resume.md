@@ -1,5 +1,72 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **THE FRONT IS `bon-don-c5` (Collatio V, *De dono fortitudinis collatio prima*).**
+> The *Collationes de septem donis Spiritus Sancti* is open: mini-pilot frozen, **Collationes I–IV
+> are all Tier 2** (c4 on 2026-08-28). ⚠ **NOT PUSHED as of this note — check `git status -sb`
+> before assuming anything is owed.** The deploy boundary for this work is its **close at c9**, so
+> prod still serves the 2026-08-24 Hexaemeron deploy and nothing needs to ship yet.
+> ⚠ That live-state line is DATED and expires — never restate prod from a note.
+>
+> ## ⛔ READ BEFORE TOUCHING c5 — c4 CHANGED THE GUTTER RULE AND CONFIRMED THE SPAN RULE
+> - **★ c5 INHERITS p. 479 AND MUST NOT RESTART IT AT 1.** Collatio IV closes **mid-leaf on p. 479**,
+>   above the `COLLATIO V.` display heading. Only p. 479 **n. 1** (`Cap. 15, 3: Nosse enim te
+>   consummata iustitia est…`) is Collatio IV's; **nn. 2, 3, 4 and following are c5's.** Two are
+>   already read off the band: n. 2 = `Prov. 31, 10. et 13. — Seq. locus est Cant. 4, 4.` and
+>   n. 3 = `Beda, II. in Cantic. cantic. allegoricae Exposit., explicans 1, 9: Collum tuum sicut
+>   monilia, dicit: Per collum namque et cibos traiicimus in corpus reficiendum, et verba
+>   proferimus, quibus nostri cordis secreta proximis declaremus. Unde recte in collo Ecclesiae
+>   doctorum persona designatur. Cfr. ibid. III. in 4, 4.` **A hand-off tells you which notes are
+>   yours, never where they land — re-derive the anchors off the band.** p. 479 is deliberately
+>   ABSENT from `check-vol5-apparatus.py`'s `KNOWN_TOTALS`; add its leaf total when c5 lands.
+> - **★★ THE DISPLAY-HEADING GUTTER FAILURE IS ABOUT THE WINDOW, NOT THE LEAF.** p. 473's mid-leaf
+>   heading sits at ~40 %, inside `colcrop`'s default 45–92 % window, and destroyed the run (16 px).
+>   p. 479's sits at ~22 %, **above** the window, and the default measured cleanly at 1180 on a
+>   healthy 60 px run — twenty of twenty-four windows agreed. **Profile above and below only when the
+>   heading falls inside 45–92 %.** A shared leaf as such is not the trigger.
+> - **★ THE INDEX GIVES A HEADING PAGE, AND A HEADING PAGE MAY BE SHARED — now attested at BOTH ends
+>   of one span.** c4 ran 473–479, sharing its opening leaf with c3 and its closing leaf with c5.
+>   c5's own span is therefore **479–?**, and its end must be fixed positively from `COLLATIO VI.`
+>   (raw L80138, index p. 483) on the band. **Never subtract one from the next collatio's index page.**
+> - **⚠ NEVER ADOPT A DIGIT FROM THE RAW.** c4 corrected two: p. 473 n. 6 is `III. Sent. d. 35`
+>   (raw `33`) and p. 478 n. 7 is `Psalm. 118, 125` (raw `123`). Both needed 2.2×.
+> - **`Libr. <roman>. <ch>, <v>` fired twice more** (p. 474 n. 5 = I Kings 2:3, p. 478 n. 6 =
+>   II Macc. 6:30). **Five attestations now stand.** `build-citations.py`'s
+>   `scan_scripture_book_unnamed` barrier caught both — verified in `index/citations.tsv`. Expect it
+>   again in c5–c9; transcribe as printed.
+> - **⚠ Two flush-right footer notes on one line is now attested TWICE** (c3 p. 472 n. 3, c4 p. 477
+>   nn. 6/7). **Read a footer block by numeral, never by line.**
+> - **Count the body against the Summarium, every time.** c1 (18/18), c2 (21/21), c3 (19/19) and
+>   c4 (25/25) have all agreed. The c6/c14 short-Summarium mechanism has not fired in this work yet;
+>   it is a property of the genre, not a spent one.
+> - **⛔ `COLLATIO I.` CARRIES NO APPARATUS ANCHOR, and the question is CLOSED.** c4's p. 473 is the
+>   strongest negative yet — a heading standing mid-leaf with body type immediately above it, and
+>   nothing after the period. Do not reopen it.
+>
+> ## ⭐ One register question to settle at the c9 close, not before
+> c3 renders *pietas* as **piety** (with pious / impious / impiety), because ¶¶ 17–18's argument
+> needs one visible English root. c2 rendered *donum pietatis* "the gift of **godliness**" in four
+> incidental places, three of them inside the Douay wording of Isaiah 11:2. **Settle it one way
+> for the whole work at the close** — either c2's four move, or a note records why the gift is
+> named differently in its own collatio. Do not churn it chunk by chunk.
+>
+> ## Cadence for this work
+> **ONE gate, at the work close (c9).** The shakedown trigger does not fire separately. **Deploy
+> boundary = work close.** Plates per collatio, never in bulk.
+>
+> ## ⚠ Still open elsewhere (none urgent, none mechanical)
+> - The About page's **"What Is Known to Be Wrong"** — Wilson's to frame; the Vol I
+>   cross-reference digit class is the strongest candidate.
+> - `d30-a1-q3`'s transposed `s`-series labels · `d37-p2-dubia` `[^6]`'s merged notes ·
+>   Book IV `d. 2. p. I.` cite · `prol-comm` p. 24 n. 2 (jointly impossible; flag stands).
+> - **Vols II–IV have never been swept** for the cross-reference digit class — and a clean grep
+>   would not prove them sound.
+> - `bon-hex-c23` carries one non-page-qualified apparatus label (`51`), flagged by polish-style-scan.
+> - **⛔ The Vol I page-gap hunt stays PARKED** (Wilson, 2026-08-24). Reopening trigger: a reader
+>   reports a gap. Nothing else.
+
+---
+
+> # (superseded) previous START HERE — front was `bon-don-c4`, 2026-08-28
 > # ▶▶▶ START HERE — **THE FRONT IS `bon-don-c4` (Collatio IV, *De dono scientiae*).**
 > The *Collationes de septem donis Spiritus Sancti* is open: mini-pilot frozen, **Collationes I,
 > II and III are all Tier 2** (c3 on 2026-08-27). ✅ **PUSHED 2026-08-28 — `origin/master` =

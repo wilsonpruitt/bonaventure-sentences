@@ -1881,6 +1881,18 @@ KNOWN_TOTALS = {
     473: 8,   # block 4/4. ONLY nn. 1-5 are Collatio III's; nn. 6-8 anchor in
               # Collatio IV, whose display heading stands MID-LEAF on p. 473.
               # bon-don-c4 owns 6-8; do not let c4 restart p. 473 at 1.
+    474: 8,   # block 6/2, anchors 4/4 (nn. 5-6 print left, anchor right).
+    475: 10,  # block 4/6, anchors 6/4 (nn. 5-6 anchor left, print right) --
+              # the exact mirror of p. 474 on the facing leaf.
+    476: 11,  # block 6/5, anchors 6/5. The only leaf of the c4 span on which
+              # block and anchor splits coincide.
+    477: 12,  # block 4/8, anchors 6/6. nn. 6 and 7 are set ON THE SAME LINE
+              # (n. 7 flush right) -- read the block by numeral, not by line.
+    478: 8,   # block 5/3, anchors 4/4. n. 5 breaks across the column division
+              # mid-sentence. n. 7 reads Psalm. 118, 125 (the raw's 123 is wrong).
+    # p. 479 is deliberately absent: it is a SHARED leaf whose display heading
+    # COLLATIO V. stands mid-leaf, and only n. 1 anchors in Collatio IV. Its
+    # total cannot be fixed until bon-don-c5 reads the rest of the register.
 }
 
 

@@ -348,6 +348,7 @@ const WORKS = {
       1: "Collatio I: Praemittitur tractatio de gratia secundum eius ortum, usum et fructum",
       2: "Collatio II: De dono timoris Domini",
       3: "Collatio III: De dono pietatis",
+      4: "Collatio IV: De dono scientiae",
     },
   },
   // Future Vol V works claim book ids here as their mini-pilots run:

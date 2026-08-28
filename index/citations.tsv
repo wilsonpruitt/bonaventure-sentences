@@ -19686,6 +19686,59 @@ bon-don-c3	5	apparatus:p473-3	p473-3	scripture	apparatus-explicit	Psalm. 5, 11	P
 bon-don-c3	5	apparatus:p473-3	p473-3	scripture	apparatus-explicit	Ps. 31, 5	Ps 31:5	A	verse		
 bon-don-c3	5	apparatus:p473-4	p473-4	scripture	apparatus-explicit	Psalm. 1, 1	Ps 1:1	A	verse		
 bon-don-c3	5	apparatus:p473-5	p473-5	scripture	book-unnamed	Libr. II. 12, 45			unresolvable		
+bon-don-c4	5	apparatus:p473-6	p473-6	scripture	apparatus-explicit	II. Cor. 4, 6	2Cor 4:6	A	verse		
+bon-don-c4	5	apparatus:p473-6	p473-6	scripture	apparatus-explicit	Ps. 93, 10	Ps 93:10	A	verse		
+bon-don-c4	5	apparatus:p473-6	p473-6	crossref	logical	III. Sent. d. 35. q. 2.	bon-sent-III-d35-a1-q2		chunk		
+bon-don-c4	5	apparatus:p473-8	p473-8	scripture	apparatus-explicit	III. Reg. 3, 7	3Reg 3:7	A	verse		
+bon-don-c4	5	apparatus:p474-1	p474-1	crossref	page	supra pag. 365, nota 4	bon-hex-c7		chunk		
+bon-don-c4	5	apparatus:p474-4	p474-4	scripture	apparatus-explicit	Psalm. 138, 6	Ps 138:6	A	verse		
+bon-don-c4	5	apparatus:p474-5	p474-5	scripture	book-unnamed	Libr. I. 2, 3			unresolvable		
+bon-don-c4	5	apparatus:p474-5	p474-5	scripture	apparatus-explicit	Iob 37, 16	Iob 37:16	A	verse		
+bon-don-c4	5	apparatus:p474-6	p474-6	scripture	apparatus-explicit	Prov. 22, 20	Prov 22:20	A	verse		
+bon-don-c4	5	apparatus:p474-7	p474-7	crossref	page	supra pag. 19, nota 7	tom5:p19		forward		
+bon-don-c4	5	apparatus:p474-8	p474-8	scripture	apparatus-explicit	III. Reg. 4, 33	3Reg 4:33	A	verse		
+bon-don-c4	5	apparatus:p475-1	p475-1	crossref	logical	IV. Sent. d. 14. p. II. a. 1. q. 1	bon-sent-IV-d14-p2-a1-q1		chunk		
+bon-don-c4	5	apparatus:p475-2	p475-2	crossref	page	supra pag. 344, nota 5	bon-hex-c3		chunk		
+bon-don-c4	5	apparatus:p475-6	p475-6	scripture	apparatus-explicit	Sap. 7, 18	Sap 7:18	A	verse		
+bon-don-c4	5	apparatus:p475-8	p475-8	scripture	apparatus-explicit	Eccli. 10, 2	Eccli 10:2	A	verse		
+bon-don-c4	5	apparatus:p475-8	p475-8	scripture	apparatus-explicit	I. Tim. 3, 2	1Tim 3:2	A	verse		
+bon-don-c4	5	apparatus:p475-10	p475-10	scripture	apparatus-explicit	Ier. 10, 14	Ierem 10:14	A	verse		
+bon-don-c4	5	apparatus:p476-2	p476-2	scripture	apparatus-explicit	Matth. 16, 26	Matth 16:26	A	verse		
+bon-don-c4	5	apparatus:p476-4	p476-4	scripture	apparatus-explicit	Rom. 1, 21	Rom 1:21	A	verse		
+bon-don-c4	5	apparatus:p476-4	p476-4	scripture	apparatus-explicit	Sap. 13, 9	Sap 13:9	A	verse		
+bon-don-c4	5	apparatus:p476-5	p476-5	scripture	apparatus-explicit	I. Tim. 6, 16	1Tim 6:16	A	verse		
+bon-don-c4	5	apparatus:p476-5	p476-5	crossref	page	supra pag. 309, nota 2	bon-itin-c5		chunk		
+bon-don-c4	5	apparatus:p476-5	p476-5	crossref	page	supra pag. 345, nota 1	bon-hex-c3		chunk		
+bon-don-c4	5	apparatus:p476-6	p476-6	scripture	apparatus-explicit	Apoc. 21, 14	Apoc 21:14	A	verse		
+bon-don-c4	5	apparatus:p476-6	p476-6	scripture	apparatus-explicit	Isai. 11, 9	Isai 11:9	A	verse		
+bon-don-c4	5	apparatus:p476-10	p476-10	crossref	page	supra pag. 389, nota 6	bon-hex-c13		chunk		
+bon-don-c4	5	apparatus:p476-11	p476-11	scripture	apparatus-explicit	Psalm. 23, 2	Ps 23:2	A	verse		
+bon-don-c4	5	apparatus:p476-11	p476-11	scripture	apparatus-explicit	Ps. 103, 5	Ps 103:5	A	verse		
+bon-don-c4	5	apparatus:p476-11	p476-11	scripture	anaphor->apparatus-explicit	ibid.	Ps 103:5	A	verse	yes	Ps. 103, 5
+bon-don-c4	5	apparatus:p477-1	p477-1	scripture	apparatus-explicit	Isai. 40, 12	Isai 40:12	A	verse		
+bon-don-c4	5	apparatus:p477-1	p477-1	scripture	apparatus-explicit	I. Tim. 3, 14	1Tim 3:14	A	verse		
+bon-don-c4	5	apparatus:p477-2	p477-2	scripture	apparatus-explicit	Psalm. 81, 5	Ps 81:5	A	verse		
+bon-don-c4	5	apparatus:p477-5	p477-5	scripture	apparatus-explicit	Matth. 15, 14	Matth 15:14	A	verse		
+bon-don-c4	5	apparatus:p477-7	p477-7	scripture	apparatus-explicit	Luc. 11, 52	Luc 11:52	A	verse		
+bon-don-c4	5	apparatus:p477-8	p477-8	scripture	apparatus-explicit	Luc. 12, 47	Luc 12:47	A	verse		
+bon-don-c4	5	apparatus:p477-9	p477-9	scripture	apparatus-explicit	Exod. 21, 23	Exod 21:23	A	verse		
+bon-don-c4	5	apparatus:p477-10	p477-10	scripture	apparatus-explicit	Exod. 8, 19	Exod 8:19	A	verse		
+bon-don-c4	5	apparatus:p477-10	p477-10	crossref	page	supra pag. 341, nota 7	bon-hex-c2		chunk		
+bon-don-c4	5	apparatus:p477-10	p477-10	crossref	page	pag. 375, nota 2	bon-hex-c9		chunk		
+bon-don-c4	5	apparatus:p477-12	p477-12	scripture	apparatus-explicit	Ioan. 17, 17	Ioan 17:17	A	verse		
+bon-don-c4	5	apparatus:p478-2	p478-2	scripture	anaphor->apparatus-explicit	ibid.	Ioan 17:17	A	verse	yes	Ioan. 17, 17
+bon-don-c4	5	apparatus:p478-2	p478-2	crossref	page	supra pag. 420, nota 9	bon-hex-c19		chunk		
+bon-don-c4	5	apparatus:p478-3	p478-3	scripture	apparatus-explicit	Ps. 4, 3-5	Ps 4:3-5	A	verse		
+bon-don-c4	5	apparatus:p478-5	p478-5	scripture	apparatus-explicit	Osee 6, 6	Osee 6:6	A	verse		
+bon-don-c4	5	apparatus:p478-5	p478-5	scripture	apparatus-explicit	Isai. 53, 2	Isai 53:2	A	verse		
+bon-don-c4	5	apparatus:p478-5	p478-5	scripture	apparatus-explicit	I. Cor. 12, 26	1Cor 12:26	A	verse		
+bon-don-c4	5	apparatus:p478-5	p478-5	crossref	page	supra pag. 471, nota 9	bon-don-c3		chunk		
+bon-don-c4	5	apparatus:p478-5	p478-5	scripture	apparatus-explicit	II. Reg. 18, 33	2Reg 18:33	A	verse		
+bon-don-c4	5	apparatus:p478-6	p478-6	scripture	book-unnamed	Libr. II. 6, 30			unresolvable		
+bon-don-c4	5	apparatus:p478-7	p478-7	scripture	apparatus-explicit	Psalm. 118, 125	Ps 118:125	A	verse		
+bon-don-c4	5	apparatus:p478-7	p478-7	scripture	apparatus-explicit	I. Cor. 8, 2	1Cor 8:2	A	verse		
+bon-don-c4	5	apparatus:p478-8	p478-8	scripture	apparatus-explicit	I. Cor. 8, 1	1Cor 8:1	A	verse		
+bon-don-c4	5	apparatus:p478-8	p478-8	scripture	apparatus-explicit	Eph. 3, 17-19	Eph 3:17-19	A	verse		
 bon-hex-c1	5	latin_body	p329-2	scripture	body-ordinal	Ecclesiastici decimo quinto	Eccli 15:5	B	verse		
 bon-hex-c1	5	latin_body	p330-2	scripture	body-ordinal	Ioannis decimo tertio	Ioan 13:35	B	verse		
 bon-hex-c1	5	latin_body	p330-5	scripture	body-ordinal	Isaiae quinto	Isai 5:20	B	verse		

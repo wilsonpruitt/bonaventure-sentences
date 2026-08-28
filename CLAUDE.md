@@ -643,8 +643,9 @@ English title: **"Collations on the Seven Gifts of the Holy Spirit."**
   **Fix every span from the next real header on the band.**
 - **Raw band L76284 → L83157** (~6,875 lines, ~⅓ of the Hexaemeron). Real headers:
   I L76291 · II L77022 · III L77899 · IV L78670 · V L79563 · VI L80138 · VII L80980 ·
-  VIII L81635 · IX L82381 · `EXPLICIUNT` L83126. **Index page claims, all unverified:**
-  457 · 462 · 468 · 473 · 479 · 483 · 489 · 493 · 498, work ending ~503 (*Decem praeceptis*
+  VIII L81635 · IX L82381 · `EXPLICIUNT` L83126. **Index page claims:**
+  457 · 462 · 468 · 473 · 479 · 483 · 489 · 493 · 498 — **457, 462, 468, 473 and 479 are now
+  VERIFIED on the plate; 473 and 479 are both SHARED heading pages.** Work ending ~503 (*Decem praeceptis*
   Coll. I is at **p. 507** per the index, so its half-title is ~505 — the work map's "~505"
   for this work's END was an estimate; fix it positively at c9).
 - **★ EVERY COLLATIO OPENING THROWS THE SKEW SCREEN — BUT THE DEFAULT IS NOT ALWAYS WRONG
@@ -672,6 +673,19 @@ English title: **"Collations on the Seven Gifts of the Holy Spirit."**
   positively on the plate.** The shared leaf also splits its footer register: p. 473's
   eight notes number straight through, nn. 1–5 anchoring in Collatio III and nn. 6–8 in
   Collatio IV, so **c4 must pick up p. 473 nn. 6–8 and must not restart that page at 1.**
+- **★★★ A SPAN CAN BE SHARED AT BOTH ENDS, and the display-heading gutter failure is about the
+  WINDOW, not the leaf (added 2026-08-28 at `bon-don-c4`).** Collatio IV runs **473–479**: it opens
+  mid-leaf on p. 473 below Collatio III's ¶¶ 18-19 and closes mid-leaf on p. 479 above `COLLATIO V.`
+  Its footer register is therefore discontinuous at **both** ends — it begins at p. 473 n. 6 and ends
+  at p. 479 n. 1 — so a chunk may both receive a runover hand-off and make one. ⭐ And the two
+  mid-leaf headings behaved **differently** under `colcrop`: p. 473's sits at ~40 % of the leaf,
+  inside the default 45-92 % window, and destroyed the run (16 px); p. 479's sits at ~22 %, **above**
+  the window, and the default measured cleanly on a healthy 60 px run. **So profile above and below
+  only when the heading falls inside 45-92 %.** A shared leaf as such is not the trigger.
+- **★ The Vol I cross-reference digit class is LIVE in the Vol V raw, and only the plate catches it.**
+  `bon-don-c4` corrected two Quaracchi digits the OCR had wrong: p. 473 n. 6 is `III. Sent. d. 35`
+  (raw `33`) and p. 478 n. 7 is `Psalm. 118, 125` (raw `123`). Both were caught at 2.2x and the
+  second is confirmed independently by sense. **Never adopt a digit from the raw.**
 - **★ `Libr. <roman>. <ch>, <v>` — the book-number-only citation is a GENRE TRAIT here.**
   The reportatio names the book aloud (*dicitur in libro Machabaeorum*) and the editor's
   note gives only `Libr. II. 3, 1.` Three are attested (c2 p. 467 n. 5, c3 p. 472 n. 4 and
