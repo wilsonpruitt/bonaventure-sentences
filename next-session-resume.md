@@ -2,10 +2,10 @@
 
 > # ▶▶▶ START HERE — **THE FRONT IS `bon-don-c8` (Collatio VIII, *De dono intellectus*).**
 > The *Collationes de septem donis Spiritus Sancti* is open: mini-pilot frozen, **Collationes I–VII
-> are all Tier 2** (c7 on 2026-08-29). ⚠ **NOT YET PUSHED as of this note — check `git status` and
-> `git log origin/master..HEAD` first and push if anything is ahead.** The deploy boundary for this
-> work is its **close at c9**, so prod still serves the 2026-08-24 Hexaemeron deploy and nothing needs
-> to ship yet. ⚠ That live-state line is DATED and expires — never restate prod from a note.
+> are all Tier 2** (c7 on 2026-08-29). ✅ **PUSHED 2026-08-29 — `origin/master` = `a81bbbf`,
+> 0 ahead, tree clean. NOTHING IS OWED.** The deploy boundary for this work is its **close at c9**,
+> so prod still serves the 2026-08-24 Hexaemeron deploy and nothing needs to ship yet.
+> ⚠ That live-state line is DATED and expires — never restate prod from a note.
 >
 > ## ⛔ READ BEFORE TOUCHING c8
 > - **★ c8 INHERITS p. 493 AND MUST NOT RESTART IT AT 1.** Collatio VII closes **mid-leaf on p. 493**,
