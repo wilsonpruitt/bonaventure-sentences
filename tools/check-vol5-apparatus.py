@@ -1954,6 +1954,36 @@ KNOWN_TOTALS = {
               # book-number-only genre trait. ⚠ gutter 1183, measured on the
               # UPPER region (rows 0.08-0.38) only: the default returns 1532 on a
               # 1 px run because the leaf stacks four regions.
+    494: 10,  # block 5.5/4.5, anchors 3/7. n. 6 (the Cato/Aristotle note) spans both
+              # blocks; rendered joined. n. 6 reads (pag. 154) (raw 134) and n. 9 reads
+              # Epist. II. Cor. 10, 5 (raw 10, 3) -- both 3/5 class, the second settled
+              # by sense (10:5 is the verse the note quotes). ⚠ gutter 1352 on a 54 px
+              # run: step (3) fired and found a 14 px centre-rule island inside the
+              # band, i.e. the frozen "heavily inked rule" case. Default adopted.
+    495: 10,  # block 6/4, anchors 3/7. FIFTH attestation of two notes set on ONE LINE:
+              # n. 3 (Psalm. 48, 13.) ends flush left and n. 4 (Prov. 2, 3-5.) is set
+              # flush right on that same line. n. 10 reads Ps. 35, 10 (raw 33).
+              # ⚠ gutter 1160, corrected from a default of 1154 measured on a 74 px run
+              # -- ABOVE the sound band, which is as much a failure signal as below it.
+    496: 11,  # block 6.5/4.5, anchors 5/6. n. 7 (Gen. 2, 19 / II. Sent. littera
+              # Magistri) spans both blocks; rendered joined. Gutter 1387 on a healthy
+              # 62 px run, confirmed by the ink profile.
+    497: 6,   # block 4.5/1.5, anchors 2/4. The lightest register of the span BY COUNT
+              # and the heaviest by measure: n. 5 (Boethius on the cyclic number, with
+              # Rupert of Deutz and Richard of St Victor) is the longest single entry in
+              # the Septem Donis and fills most of the leaf's foot. The signature line
+              # S. Bonav. -- Tom. V. and the sheet number 63 print inside this register.
+              # Gutter 1223 on a 58 px run with the most heavily inked centre rule of
+              # the span (island peak 1052).
+    498: 9,   # SHARED leaf: COLLATIO IX.'s display heading stands mid-leaf, BUT ALL NINE
+              # NOTES ARE COLLATIO VIII's -- Collatio IX has only a heading, a subtitle
+              # and an (unanchored) Summarium on this leaf, so NOTHING is forwarded to
+              # bon-don-c9. A shared leaf implies a runover only when the incoming unit's
+              # BODY reaches the leaf. Block 4.5/4.5, anchors 3/6; n. 5 spans both
+              # blocks. n. 2 is Libr. II. 7, 28. -- TENTH attestation of the
+              # book-number-only genre trait. n. 8 reads Sap. 9, 15. (raw 9, 13).
+              # ⚠ gutter 1306, measured on the UPPER region (rows 0.06-0.52) only: the
+              # default returns 1294 on a 13 px run because the leaf stacks four regions.
 }
 
 
