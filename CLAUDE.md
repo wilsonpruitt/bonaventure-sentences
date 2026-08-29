@@ -1,6 +1,6 @@
 # Bonaventure Sentences — Project Guide for Claude
 
-You are working on an English translation of **St. Bonaventure's *Opera Omnia*** (Quaracchi edition, 1882–1902). Status (2026-08-27): **Books I–IV are complete and published** (Vols I–IV, all Tier 2). The active front is **Vol V**, where the Breviloquium, Itinerarium, De reductione and the Collationes in Hexaemeron are all complete; **the current work is the *Collationes de septem donis Spiritus Sancti* (pp. 457–~503)**. The live site is https://bonaventure.wrootpress.com. Always defer to `next-session-resume.md` for the exact current position.
+You are working on an English translation of **St. Bonaventure's *Opera Omnia*** (Quaracchi edition, 1882–1902). Status (2026-08-27): **Books I–IV are complete and published** (Vols I–IV, all Tier 2). The active front is **Vol V**, where the Breviloquium, Itinerarium, De reductione and the Collationes in Hexaemeron are all complete; the *Collationes de septem donis Spiritus Sancti* (pp. 457–**503**) is **COMPLETE 2026-08-29** and its work-close gate + deploy are the front; **next work = *De decem praeceptis*, half-title ~505**. The live site is https://bonaventure.wrootpress.com. Always defer to `next-session-resume.md` for the exact current position.
 
 This file is loaded into every Claude Code session in this repo. Read it before making changes to translation files or the build pipeline.
 
@@ -283,7 +283,7 @@ Vols V–X (2026-07-28).**
 | 6 | **Itinerarium mentis in Deum** | 293–316 | `itinerarium` | 6 | **COMPLETE 2026-08-14 — all 10 chunks Tier 2; work-close gate + deploy due** |
 | 7 | **De reductione artium** | 319–325 | `de-reductione` | 7 | **COMPLETE 2026-08-14** |
 | 8 | **Collationes in Hexaemeron** | 327–454 | `hexaemeron` | 11 | **COMPLETE 2026-08-23 — 23 collationes + Scholion; gated + deployed 2026-08-24.** (It is in Vol V, not Vol VII as the old tracker claimed.) |
-| 9 | Coll. de septem donis | 455–~503 | `septem-donis` | 12 | **ACTIVE — mini-pilot frozen 2026-08-27; 9 collationes, no Scholion** |
+| 9 | **Coll. de septem donis** | 455–**503** | `septem-donis` | 12 | **COMPLETE 2026-08-29 — all 9 collationes Tier 2; work-close gate + deploy due.** End fixed positively from `EXPLICIUNT` on p. 503. |
 | 10 | Coll. de decem praeceptis | ~505–532 | `decem-praeceptis` | 13 | planned |
 | 11 | Sermones selecti | ~535–579 | `sermones-selecti` | 14 | planned |
 
@@ -645,9 +645,10 @@ English title: **"Collations on the Seven Gifts of the Holy Spirit."**
   I L76291 · II L77022 · III L77899 · IV L78670 · V L79563 · VI L80138 · VII L80980 ·
   VIII L81635 · IX L82381 · `EXPLICIUNT` L83126. **Index page claims:**
   457 · 462 · 468 · 473 · 479 · 483 · 489 · 493 · 498 — **ALL NINE are now VERIFIED on the plate;
-  473, 479, 483, 489, 493 and 498 are all SHARED heading pages.** Work ending ~503 (*Decem praeceptis*
-  Coll. I is at **p. 507** per the index, so its half-title is ~505 — the work map's "~505"
-  for this work's END was an estimate; fix it positively at c9).
+  473, 479, 483, 489, 493 and 498 are all SHARED heading pages.** **The work ends on p. 503**, fixed
+  positively at c9 from the full-measure `EXPLICIUNT COLLATIONES DE DONIS SPIRITUS S.` line
+  (raw L83126) set beneath both columns. *Decem praeceptis* Coll. I is at **p. 507** per the index,
+  so **its half-title's "~505" is the only estimate left** — fix it positively when that work opens.
 - **★ EVERY COLLATIO OPENING THROWS THE SKEW SCREEN — BUT THE DEFAULT IS NOT ALWAYS WRONG
   (revised 2026-08-27 at `bon-don-c2`; this section previously read "defeats").** Each opens with a
   full-width heading + subtitle + Summarium stacked across the gutter, so `colcrop`'s
@@ -703,6 +704,11 @@ English title: **"Collations on the Seven Gifts of the Holy Spirit."**
   forwards nothing. **The test is not whether the next unit's HEADING is on the leaf; it is
   whether its numbered BODY is.** Read anchors, only anchors — the rule already says it, and this
   is the case that shows the heading is not one.
+  ⭐ **CONFIRMED FROM THE RECEIVING SIDE at `bon-don-c9` (2026-08-29):** c9 opened p. 498 expecting
+  nothing, read none of that leaf's nine notes as its own, and restarted p. 499's register at 1
+  legitimately. The rule is now attested from both ends of one seam. ⭐ The same leaf shows a
+  second first: **a Summarium can span two leaves** — Collatio IX's begins on p. 498 and finishes
+  at the head of p. 499 above the body, and neither half is anchored.
 - **★ A RUN *ABOVE* THE 58–64 px BAND IS A TRIGGER TOO, AND THE DEFAULT MAY STILL BE RIGHT WHEN
   THE RUN IS NARROW (both attested on one span, `bon-don-c8`).** p. 495's default sat on a **74 px**
   run and was ~6 px off (1154 → profile band 1129–1191, midpoint **1160**); p. 494's sat on a

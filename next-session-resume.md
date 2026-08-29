@@ -1,5 +1,80 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **THE WORK IS FINISHED. THE FRONT IS THE *SEPTEM DONIS* WORK-CLOSE GATE, AND IT NEEDS WILSON'S OK.**
+> The *Collationes de septem donis Spiritus Sancti* is **COMPLETE — all NINE collationes Tier 2**,
+> pp. 457–503, `bon-don-c9` landed 2026-08-29 (`5589a92`, pp. 498–503, 17 ¶¶, 40 apparatus entries,
+> zero flags). ⚠ **NOT PUSHED — `master` is 1 ahead of `origin/master`; the push is Wilson's call.**
+>
+> ## ⛔ NOTHING TRANSLATES NEXT. TWO GATED ACTIONS, BOTH NEEDING AN EXPLICIT OK
+> 1. **The four-pass work-close polish gate** over `bon-don-c1`–`c9` (pp. 457–503). This is the
+>    work's **only** gate — the shakedown trigger never fired separately, per the frozen cadence.
+> 2. **The deploy.** The deploy boundary for this work *is* its close, so **prod still serves the
+>    2026-08-24 Hexaemeron deploy and this whole work is unpublished.** ⚠ That live-state line is
+>    DATED and expires — never restate prod from a note.
+>
+> **Do not open `bon-don-c1`'s pp. 457–503 for a new chunk and do not start *De decem praeceptis*
+> until the gate closes.**
+>
+> ## ⭐ THE GATE MUST SETTLE THESE TWO REGISTER QUESTIONS — once, for the whole work
+> Neither arises in c9's own text, so c9 could not settle either; both have been carried forward
+> deliberately rather than churned chunk by chunk.
+> 1. ***pietas*, four members.** c3, c6 and c7 render it **piety**; c2 rendered *donum pietatis*
+>    "the gift of **godliness**" in four incidental places, three of them inside the Douay wording
+>    of Isaiah 11:2. Tally: **c2 "godliness" against c3, c6, c7 "piety."**
+> 2. ***intellectus* / *intelligentia* against the Douay** (raised at c8). c8 holds them apart in
+>    the body — *intellectus* → understanding, *intelligentia* → intelligence — because ¶ 11 divides
+>    *intelligentia* into three members that collapse if both share one English root; but inside
+>    quotations the Douay renders *intelligentia* "understanding." **Same SHAPE as the *pietas*
+>    question — body register vs. Douay wording — so settle them together.**
+>
+> ## What c9 established that outlives the work
+> - **★ A shared leaf forwards a runover only when the incoming unit's BODY reaches it — CONFIRMED
+>   FROM THE RECEIVING SIDE.** c8 forwarded nothing and c9 inherited nothing; p. 498's nine notes
+>   are all Collatio VIII's, and p. 499 restarted at 1 legitimately. The rule is now attested from
+>   both ends of one seam.
+> - **★ A Summarium can span two leaves.** Collatio IX's begins on p. 498 and finishes at the head
+>   of p. 499 above the body. Neither half is anchored. First occurrence in this work.
+> - **★ The work's end is a measurement now.** `EXPLICIUNT COLLATIONES DE DONIS SPIRITUS S.` stands
+>   full-measure beneath both columns on **p. 503** (raw L83126), so the work map's `~503` is
+>   confirmed. **Only `~505` for *De decem praeceptis*'s half-title is still an estimate** — fix it
+>   positively when that work opens (its Coll. I is at p. 507 per the index).
+> - **⚠ Two gutter cases worth carrying into *De decem praeceptis*.** p. 501: default **1147 on a
+>   3 px run**, true **1169** — a heavily inked centre rule (island peak 659) sitting on the
+>   minimum. p. 502: an ordinary two-column leaf with **no heading at all** and **no inked centre
+>   rule** (island peak 5–8), where the body/footer gap blew the run out to 388–453 px and the
+>   default was **~96 px wrong**. Against those, p. 499's 55 px run and p. 503's 51 px run both
+>   **confirmed** their defaults once profiled. **A run outside 58–64 px means go and look; it does
+>   not mean the default is wrong.**
+> - **⚠ The scan, not the printing, can fail.** p. 502's right column is smeared across *melius*
+>   and *adulatione* in ¶ 13; the reading is fixed by that leaf's own n. 6 (`Eccle. 7, 6.`) plus the
+>   Vulgate, and is logged rather than `[?]`-flagged. Recorded so the next reader of that leaf is
+>   not surprised.
+> - **The cousin shape `Epist. <roman>. <ch>, <v>` fired a FOURTH time** (p. 499 n. 7,
+>   `Epist. I. 1, 19.` = I Cor. 1:19). ⚠ **The bare `Libr. <roman>. <ch>, <v>` did NOT fire in c9
+>   and stands at ten** — p. 503 n. 5's `Libr. III. Reg. 10, 18.` names its book and resolves.
+> - **Body vs. Summarium: nine of nine agreed**, and the c6/c14 short-Summarium mechanism never
+>   fired in this work. c9's one divergence is a wording one, not a counting one: the Summarium
+>   names the third pillar *modestia in sermone* (Douay/Vulgate) where the body twice says
+>   *moderantia in sermone*. Both are printed and both are rendered.
+>
+> ## ⚠ Still open elsewhere (none urgent, none mechanical)
+> - **A scripture `ibid. <ch>, <v>` keeps the right BOOK but the stale VERSE** (c7, p. 492 n. 4).
+>   Corpus-wide existing behaviour, not a regression; recorded, not repaired. **Wilson's call whether
+>   it is worth a tool pass.**
+> - The About page's **"What Is Known to Be Wrong"** — Wilson's to frame; the Vol I
+>   cross-reference digit class is the strongest candidate.
+> - `d30-a1-q3`'s transposed `s`-series labels · `d37-p2-dubia` `[^6]`'s merged notes ·
+>   Book IV `d. 2. p. I.` cite · `prol-comm` p. 24 n. 2 (jointly impossible; flag stands).
+> - **Vols II–IV have never been swept** for the cross-reference digit class — and a clean grep
+>   would not prove them sound.
+> - `bon-hex-c23` carries one non-page-qualified apparatus label (`51`), flagged by polish-style-scan.
+> - **⛔ The Vol I page-gap hunt stays PARKED** (Wilson, 2026-08-24). Reopening trigger: a reader
+>   reports a gap. Nothing else.
+
+---
+
+> # (superseded) previous START HERE — front was `bon-don-c9`, 2026-08-29
+
 > # ▶▶▶ START HERE — **THE FRONT IS `bon-don-c9` (Collatio IX, *De dono sapientiae*) — THE LAST CHUNK OF THE WORK.**
 > The *Collationes de septem donis Spiritus Sancti* is open: mini-pilot frozen, **Collationes I–VIII
 > are all Tier 2** (c8 on 2026-08-29). ✅ **PUSHED 2026-08-29 — `origin/master` = `c4372d6`,
