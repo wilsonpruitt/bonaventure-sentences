@@ -1890,9 +1890,26 @@ KNOWN_TOTALS = {
               # (n. 7 flush right) -- read the block by numeral, not by line.
     478: 8,   # block 5/3, anchors 4/4. n. 5 breaks across the column division
               # mid-sentence. n. 7 reads Psalm. 118, 125 (the raw's 123 is wrong).
-    # p. 479 is deliberately absent: it is a SHARED leaf whose display heading
-    # COLLATIO V. stands mid-leaf, and only n. 1 anchors in Collatio IV. Its
-    # total cannot be fixed until bon-don-c5 reads the rest of the register.
+    479: 6,   # SHARED leaf: COLLATIO V.'s display heading stands mid-leaf, so
+              # n. 1 is Collatio IV's and nn. 2-6 are Collatio V's. Full-leaf
+              # block 3/3; of c5's five, block 2/3 and anchors 3/2 (n. 4 prints
+              # right, anchors left). n. 6 RUNS OVER onto p. 480 and eats most of
+              # that leaf's left block.
+    480: 11,  # block 3/8, anchors 5/6. The left block is short only because
+              # p. 479 n. 6's runover occupies it. n. 1 reads Isai. 52, 1 (raw
+              # 32); n. 4 reads ibid. 10, 15 (raw 13); n. 5 reads et 24. seqq.
+              # (raw 21).
+    481: 9,   # block 5/4, anchors 2/7 -- the widest divergence in the c5 span.
+              # nn. 3 and 4 are set ON THE SAME LINE (third attestation of that
+              # mechanism). n. 1 reads Hexaem. collat. 14 (raw 11), confirmed by
+              # bon-hex-c14 n. 23 being the Samson paragraph.
+    482: 10,  # block 4/6, anchors 4/6 -- they coincide. n. 4 breaks across the
+              # column division mid-sentence. ⚠ gutter is 1401, NOT colcrop's
+              # default 1317 (448 px run: the window straddles the body/footer
+              # gap); settled from the ink profile's band 1369-1433.
+    # p. 483 is deliberately absent: it is a SHARED leaf whose display heading
+    # COLLATIO VI. stands mid-leaf, and only nn. 1-2 anchor in Collatio V. Its
+    # total cannot be fixed until bon-don-c6 reads the rest of the register.
 }
 
 

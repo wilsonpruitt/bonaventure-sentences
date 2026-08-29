@@ -644,8 +644,8 @@ English title: **"Collations on the Seven Gifts of the Holy Spirit."**
 - **Raw band L76284 → L83157** (~6,875 lines, ~⅓ of the Hexaemeron). Real headers:
   I L76291 · II L77022 · III L77899 · IV L78670 · V L79563 · VI L80138 · VII L80980 ·
   VIII L81635 · IX L82381 · `EXPLICIUNT` L83126. **Index page claims:**
-  457 · 462 · 468 · 473 · 479 · 483 · 489 · 493 · 498 — **457, 462, 468, 473 and 479 are now
-  VERIFIED on the plate; 473 and 479 are both SHARED heading pages.** Work ending ~503 (*Decem praeceptis*
+  457 · 462 · 468 · 473 · 479 · 483 · 489 · 493 · 498 — **457, 462, 468, 473, 479 and 483 are now
+  VERIFIED on the plate; 473, 479 and 483 are all SHARED heading pages.** Work ending ~503 (*Decem praeceptis*
   Coll. I is at **p. 507** per the index, so its half-title is ~505 — the work map's "~505"
   for this work's END was an estimate; fix it positively at c9).
 - **★ EVERY COLLATIO OPENING THROWS THE SKEW SCREEN — BUT THE DEFAULT IS NOT ALWAYS WRONG
@@ -673,8 +673,20 @@ English title: **"Collations on the Seven Gifts of the Holy Spirit."**
   positively on the plate.** The shared leaf also splits its footer register: p. 473's
   eight notes number straight through, nn. 1–5 anchoring in Collatio III and nn. 6–8 in
   Collatio IV, so **c4 must pick up p. 473 nn. 6–8 and must not restart that page at 1.**
+- **★★ THE DEFAULT ROW WINDOW ALSO STRADDLES THE BODY/FOOTER GAP, AND THAT IS THE THIRD
+  BAD-WINDOW MECHANISM IN THIS WORK (added 2026-08-28 at `bon-don-c5`, p. 482).** On a leaf with a
+  large footer register the body ends well above the foot (~72 %) and the register begins below the
+  gap (~78 %), so the default 45–92 % window profiles across white space and returns a **448 px
+  run** — the blown-out failure signature, not the narrow one. The window consensus is useless
+  there too (it drifts 1288–1366 with the window). **The per-column ink profile settles it**: four
+  of six windows returned the identical band 1369–1433 (65 px), midpoint **1401**, against
+  `colcrop`'s default of 1317. **A default you would otherwise adopt can be ~85 px wrong on a leaf
+  with an ordinary two-column body and no heading at all** — the tell is the run width and nothing
+  else. Fire step (3) whenever the run leaves the 58–64 px band in EITHER direction.
 - **★★★ A SPAN CAN BE SHARED AT BOTH ENDS, and the display-heading gutter failure is about the
-  WINDOW, not the leaf (added 2026-08-28 at `bon-don-c4`).** Collatio IV runs **473–479**: it opens
+  WINDOW, not the leaf (added 2026-08-28 at `bon-don-c4`; c5 confirmed it at p. 483, whose
+  `COLLATIO VI.` stack clips the top of the window and did fail, needing a below-the-Summarium
+  profile).** Collatio IV runs **473–479**: it opens
   mid-leaf on p. 473 below Collatio III's ¶¶ 18-19 and closes mid-leaf on p. 479 above `COLLATIO V.`
   Its footer register is therefore discontinuous at **both** ends — it begins at p. 473 n. 6 and ends
   at p. 479 n. 1 — so a chunk may both receive a runover hand-off and make one. ⭐ And the two
@@ -688,10 +700,16 @@ English title: **"Collations on the Seven Gifts of the Holy Spirit."**
   second is confirmed independently by sense. **Never adopt a digit from the raw.**
 - **★ `Libr. <roman>. <ch>, <v>` — the book-number-only citation is a GENRE TRAIT here.**
   The reportatio names the book aloud (*dicitur in libro Machabaeorum*) and the editor's
-  note gives only `Libr. II. 3, 1.` Three are attested (c2 p. 467 n. 5, c3 p. 472 n. 4 and
-  p. 473 n. 5). `build-citations.py` now emits an explicitly **unresolvable barrier** for
+  note gives only `Libr. II. 3, 1.` **Eight are attested** across c2–c5 (c2 p. 467 n. 5;
+  c3 p. 472 n. 4 and p. 473 n. 5; c4 p. 474 n. 5 and p. 478 n. 6; c5 p. 480 n. 2, p. 482 n. 5
+  and p. 482 n. 10). `build-citations.py` now emits an explicitly **unresolvable barrier** for
   the shape, because without it a following `ibid.` in the same note bound to the previous
-  note's verse and named the wrong BOOK silently.
+  note's verse and named the wrong BOOK silently — verified firing on all three of c5's.
+  ⚠ **A COUSIN SHAPE `Epist. <roman>. <ch>, <v>` exists and the barrier does NOT cover it**
+  (c4 p. 474 n. 3, c5 p. 482 n. 6, where the body names John aloud and the note gives only
+  `Epist. I. 2, 14.`). It currently produces **no ledger record at all** rather than a wrong
+  one, so nothing is silently mis-bound; but the note's own primary citation is invisible to
+  the index. Transcribe as printed and expect it again in c6–c9.
 - **Cadence: ONE gate, at the work close** (49 pp, per the frozen table); deploy boundary =
   work close. **The shakedown trigger does not fire separately** — this is not a new
   register but the one the Hexaemeron just exercised over 128 pages, and its single
