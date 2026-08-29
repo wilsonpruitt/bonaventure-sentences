@@ -1,5 +1,80 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **THE FRONT IS `bon-don-c6` (Collatio VI, *De dono fortitudinis collatio secunda*).**
+> The *Collationes de septem donis Spiritus Sancti* is open: mini-pilot frozen, **Collationes I–V
+> are all Tier 2** (c5 on 2026-08-28). ⚠ **COMMITTED 2026-08-28 but NOT PUSHED — `origin/master`
+> is behind. A push to `master` is a protected action and needs Wilson's explicit OK.** The deploy
+> boundary for this work is its **close at c9**, so prod still serves the 2026-08-24 Hexaemeron
+> deploy and nothing needs to ship yet.
+> ⚠ That live-state line is DATED and expires — never restate prod from a note.
+>
+> ## ⛔ READ BEFORE TOUCHING c6
+> - **★ c6 INHERITS p. 483 AND MUST NOT RESTART IT AT 1.** Collatio V closes **mid-leaf at the top
+>   of p. 483**, above the `COLLATIO VI.` display heading. Only p. 483 **nn. 1 and 2** are Collatio
+>   V's; **nn. 3, 4, 5, 6 and 7 are c6's.** The leaf carries seven notes, left block nn. 1–3 and
+>   right block nn. 4–7. Two are already read off the band: n. 3 = `Prov. 31, 10. — Seq. locus est
+>   Iudith 8, 29. Subinde respicitur Luc. 1, 28: Ave, gratia plena.` (anchoring at c6 ¶ 1's
+>   *Mulierem fortem quis inveniet* ³) and n. 4 = `Cfr. collat. praeced. n. 2.` **A hand-off tells
+>   you which notes are yours, never where they land — re-derive the anchors off the band.**
+>   p. 483 is deliberately ABSENT from `check-vol5-apparatus.py`'s `KNOWN_TOTALS`; add its leaf
+>   total when c6 lands.
+> - **★ c6's span is 483–?**, and its end must be fixed positively from `COLLATIO VII.`
+>   (raw L80980, index p. 489) on the band. **Never subtract one from the next collatio's index
+>   page** — three consecutive index pages (473, 479, 483) have now proved to be SHARED.
+> - **★★ THE GUTTER FAILURE HAS A THIRD MECHANISM AND IT NEEDS NO HEADING AT ALL.** c5's p. 482 is
+>   an ordinary two-column leaf, and `colcrop`'s default was **1317 on a 448 px run** against a true
+>   **1401** — the default window straddles the body/footer gap (body ends ~72 %, register begins
+>   ~78 %). Windows drift 1288–1366 and are useless; the ink profile's band 1369–1433 decides.
+>   **Treat a run outside 58–64 px in EITHER direction as a trigger for step (3).** p. 483's
+>   `COLLATIO VI.` stack clips the top of the window (heading + Summarium at ~25–48 %) and also
+>   failed; profiling below the Summarium (0.52–0.72) gives 1174. **Gutters measured in c5:**
+>   479 = 1181 · 480 = 1378 · 481 = 1175 · 482 = **1401** · 483 = **1174**.
+> - **⚠ NEVER ADOPT A DIGIT FROM THE RAW.** c5 corrected four: p. 480 n. 1 is `Isai. 52, 1`
+>   (raw `32`), p. 480 n. 4 is `ibid. 10, 15` (raw `13`), p. 480 n. 5 is `et 24. seqq.` (raw `21`),
+>   and p. 481 n. 1 is `Hexaëm. collat. 14. n. 23` (raw `11`) — the last confirmed independently
+>   because `bon-hex-c14` ¶ 23 is the Samson paragraph and `bon-hex-c11` ¶ 23 is not.
+> - **`Libr. <roman>. <ch>, <v>` fired three more times** (p. 480 n. 2 = I Macc. 3:19, p. 482 n. 5 =
+>   III Kings 1:42, p. 482 n. 10 = II Macc. 6:26). **Eight attestations now stand**, and
+>   `build-citations.py`'s barrier caught all three — verified in `index/citations.tsv`.
+>   ⚠ **A COUSIN SHAPE `Epist. <roman>. <ch>, <v>` is NOT covered by the barrier** (p. 482 n. 6 =
+>   I John 2:14). It produces no ledger record rather than a wrong one, so nothing is mis-bound —
+>   but the citation is invisible to the index. Transcribe as printed; expect it again.
+> - **⚠ Two footer notes set on one line is now attested THREE times** (c3 p. 472 n. 3, c4 p. 477
+>   nn. 6/7, c5 p. 481 nn. 3/4). **Read a footer block by numeral, never by line.**
+> - **Count the body against the Summarium, every time.** c1 (18/18), c2 (21/21), c3 (19/19),
+>   c4 (25/25) and c5 (15/15) have all agreed. The c6/c14 short-Summarium mechanism has not fired
+>   in this work yet; it is a property of the genre, not a spent one.
+> - **⛔ `COLLATIO I.` CARRIES NO APPARATUS ANCHOR, and the question is CLOSED.** Do not reopen it.
+>
+> ## ⭐ One register question to settle at the c9 close, not before — now with TWO members
+> c3 renders *pietas* as **piety** (with pious / impious / impiety), because ¶¶ 17–18's argument
+> needs one visible English root. c5 does the same for *fortitudo* → **fortitude**, in the body and
+> inside the Douay quotations alike, because all fifteen of its paragraphs turn on the gift, the
+> divine attribute and the quoted verses being one Latin word. Against both, c2 rendered *donum
+> pietatis* "the gift of **godliness**" in four incidental places, three of them inside the Douay
+> wording of Isaiah 11:2. **Settle it one way for the whole work at the close** — either c2's four
+> move, or a note records why a gift is named differently in its own collatio. Do not churn it
+> chunk by chunk.
+>
+> ## Cadence for this work
+> **ONE gate, at the work close (c9).** The shakedown trigger does not fire separately. **Deploy
+> boundary = work close.** Plates per collatio, never in bulk.
+>
+> ## ⚠ Still open elsewhere (none urgent, none mechanical)
+> - The About page's **"What Is Known to Be Wrong"** — Wilson's to frame; the Vol I
+>   cross-reference digit class is the strongest candidate.
+> - `d30-a1-q3`'s transposed `s`-series labels · `d37-p2-dubia` `[^6]`'s merged notes ·
+>   Book IV `d. 2. p. I.` cite · `prol-comm` p. 24 n. 2 (jointly impossible; flag stands).
+> - **Vols II–IV have never been swept** for the cross-reference digit class — and a clean grep
+>   would not prove them sound.
+> - `bon-hex-c23` carries one non-page-qualified apparatus label (`51`), flagged by polish-style-scan.
+> - **⛔ The Vol I page-gap hunt stays PARKED** (Wilson, 2026-08-24). Reopening trigger: a reader
+>   reports a gap. Nothing else.
+
+---
+
+> # (superseded) previous START HERE — front was `bon-don-c5`, 2026-08-28
+
 > # ▶▶▶ START HERE — **THE FRONT IS `bon-don-c5` (Collatio V, *De dono fortitudinis collatio prima*).**
 > The *Collationes de septem donis Spiritus Sancti* is open: mini-pilot frozen, **Collationes I–IV
 > are all Tier 2** (c4 on 2026-08-28). ✅ **PUSHED 2026-08-28 — `origin/master` = `ffcd30d`,
@@ -64,7 +139,6 @@
 > - **⛔ The Vol I page-gap hunt stays PARKED** (Wilson, 2026-08-24). Reopening trigger: a reader
 >   reports a gap. Nothing else.
 
----
 
 > # (superseded) previous START HERE — front was `bon-don-c4`, 2026-08-28
 > # ▶▶▶ START HERE — **THE FRONT IS `bon-don-c4` (Collatio IV, *De dono scientiae*).**
