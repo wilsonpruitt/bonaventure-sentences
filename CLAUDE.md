@@ -644,8 +644,8 @@ English title: **"Collations on the Seven Gifts of the Holy Spirit."**
 - **Raw band L76284 → L83157** (~6,875 lines, ~⅓ of the Hexaemeron). Real headers:
   I L76291 · II L77022 · III L77899 · IV L78670 · V L79563 · VI L80138 · VII L80980 ·
   VIII L81635 · IX L82381 · `EXPLICIUNT` L83126. **Index page claims:**
-  457 · 462 · 468 · 473 · 479 · 483 · 489 · 493 · 498 — **457, 462, 468, 473, 479 and 483 are now
-  VERIFIED on the plate; 473, 479 and 483 are all SHARED heading pages.** Work ending ~503 (*Decem praeceptis*
+  457 · 462 · 468 · 473 · 479 · 483 · 489 · 493 · 498 — **ALL NINE are now VERIFIED on the plate;
+  473, 479, 483, 489, 493 and 498 are all SHARED heading pages.** Work ending ~503 (*Decem praeceptis*
   Coll. I is at **p. 507** per the index, so its half-title is ~505 — the work map's "~505"
   for this work's END was an estimate; fix it positively at c9).
 - **★ EVERY COLLATIO OPENING THROWS THE SKEW SCREEN — BUT THE DEFAULT IS NOT ALWAYS WRONG
@@ -694,15 +694,31 @@ English title: **"Collations on the Seven Gifts of the Holy Spirit."**
   inside the default 45-92 % window, and destroyed the run (16 px); p. 479's sits at ~22 %, **above**
   the window, and the default measured cleanly on a healthy 60 px run. **So profile above and below
   only when the heading falls inside 45-92 %.** A shared leaf as such is not the trigger.
+- **★★★ A SHARED LEAF FORWARDS A RUNOVER ONLY WHEN THE INCOMING UNIT'S *BODY* REACHES IT
+  (added 2026-08-29 at `bon-don-c8`, p. 498).** Five shared leaves in a row (473, 479, 483, 489,
+  493) each split their footer register between two collationes, and the reflex that forms is
+  "shared leaf ⇒ hand-off." **p. 498 breaks it: `COLLATIO IX.`'s display heading, subtitle and
+  full-measure Summarium all stand on the leaf, yet ALL NINE of its notes are Collatio VIII's**,
+  because Collatio IX's ¶ 1 does not begin until p. 499 and the Summarium is unanchored. So c8
+  forwards nothing. **The test is not whether the next unit's HEADING is on the leaf; it is
+  whether its numbered BODY is.** Read anchors, only anchors — the rule already says it, and this
+  is the case that shows the heading is not one.
+- **★ A RUN *ABOVE* THE 58–64 px BAND IS A TRIGGER TOO, AND THE DEFAULT MAY STILL BE RIGHT WHEN
+  THE RUN IS NARROW (both attested on one span, `bon-don-c8`).** p. 495's default sat on a **74 px**
+  run and was ~6 px off (1154 → profile band 1129–1191, midpoint **1160**); p. 494's sat on a
+  **54 px** run and the profile **reproduced** it (1352), finding a 14 px centre-rule island inside
+  the band — the frozen rule-5 "heavily inked rule" case. **Escalate on either side of the band, and
+  let the profile arbitrate in both directions.**
+
 - **★ The Vol I cross-reference digit class is LIVE in the Vol V raw, and only the plate catches it.**
   `bon-don-c4` corrected two Quaracchi digits the OCR had wrong: p. 473 n. 6 is `III. Sent. d. 35`
   (raw `33`) and p. 478 n. 7 is `Psalm. 118, 125` (raw `123`). Both were caught at 2.2x and the
   second is confirmed independently by sense. **Never adopt a digit from the raw.**
 - **★ `Libr. <roman>. <ch>, <v>` — the book-number-only citation is a GENRE TRAIT here.**
   The reportatio names the book aloud (*dicitur in libro Machabaeorum*) and the editor's
-  note gives only `Libr. II. 3, 1.` **Eight are attested** across c2–c5 (c2 p. 467 n. 5;
+  note gives only `Libr. II. 3, 1.` **Ten are attested** across c2–c8 (c2 p. 467 n. 5;
   c3 p. 472 n. 4 and p. 473 n. 5; c4 p. 474 n. 5 and p. 478 n. 6; c5 p. 480 n. 2, p. 482 n. 5
-  and p. 482 n. 10). `build-citations.py` now emits an explicitly **unresolvable barrier** for
+  and p. 482 n. 10; c7 p. 493 n. 4; c8 p. 498 n. 2). `build-citations.py` now emits an explicitly **unresolvable barrier** for
   the shape, because without it a following `ibid.` in the same note bound to the previous
   note's verse and named the wrong BOOK silently — verified firing on all three of c5's.
   ⚠ **A COUSIN SHAPE `Epist. <roman>. <ch>, <v>` exists and the barrier does NOT cover it**
