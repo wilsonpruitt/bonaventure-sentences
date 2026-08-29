@@ -794,6 +794,17 @@ columns. **Body extent pp. 507–532 = 26 printed pages.** Raw band **L83158 →
   the incoming collatio's numbered BODY reaches it. Expect a hand-off at all six and
   **verify it at all six.** ⚠ **Never derive a span's last page by subtracting one from
   the next collatio's index page.**
+  ⛔ **MEASURED AT BOUNDARY 1 (`bon-praec-c1`, 2026-08-29): p. 510 FORWARDS NOTHING.**
+  All seven of p. 510's footer notes are Collatio I's (n. 1 answers ¶ 20's *octo partes
+  orationis,* n. 7 answers ¶ 24's *carnis et oculorum*), because **Collatio II's heading
+  and Summarium stand on p. 510 but its ¶ 1 does not begin until p. 511** — and its
+  Summarium spans the two leaves, as Collatio IX's did at p. 498. So the pilot's
+  "expect a hand-off at all six" is **already wrong at the first one.** ⭐ The
+  transferable correction: **the prediction was of SHARED PAGES, and that held; whether
+  a shared page hands off is a SEPARATE question the p. 498 rule answers, and it must
+  be re-asked on the plate at each of the remaining five.** Do not let "six shared
+  pages" harden into "six hand-offs" — that is a tally copied forward, the exact defect
+  the *septem donis* work-close gate caught.
 - **★★ THE RUNNING HEAD NAMES THE COLLATIO THAT BEGINS MID-PAGE — NEW HERE, AND IT IS THE
   PRINTING, NOT THE OCR.** On all six shared pages the running head is already set to the
   *incoming* collatio while the top of the page is still the outgoing one's text (p. 510's
@@ -837,6 +848,19 @@ columns. **Body extent pp. 507–532 = 26 printed pages.** Raw band **L83158 →
   chunk by chunk:** the decalogue vocabulary (*praeceptum* / *mandatum* / *lex*) is under
   continuous Douay pressure across all seven collationes, and Collatio I ¶ 20 enumerates
   the ten. Settle it once, for the work, the way *pietas* was settled.
+  ▶ **`bon-praec-c1` set the working rendering and CARRIED it, unsettled: *praeceptum* →
+  precept · *mandatum* → commandment · *lex* → law.** It keeps all three Latin words
+  visibly distinct and costs nothing inside the quotations, because Quaracchi prints
+  *mandata* wherever the Douay reads "commandments." **The collision it creates is with
+  the work's own English title:** *De decem praeceptis* is "Collations on the Ten
+  **Commandments**" while ¶ 20 and the Summarium read "the ten **precepts**." Follow c1
+  for now; the gate decides. ⚠ **A second datum for the gate, from the same chunk:** the
+  *intellectus* / *intelligentia* ruling had **visible cost for the first time** — ¶ 8's
+  *intelligentia sacrarum Scripturarum* became "the **intelligence** of the sacred
+  Scriptures" against ¶ 10's *intellectum veri* → "understanding," with the Douay's
+  "understanding" standing untouched in the Psalm 118:100 quotation two lines above.
+  The rule worked exactly as written; it is simply the first place where the required
+  word is the less idiomatic one. **c1 made no edit and did not reopen it.**
 - **Cadence: ONE gate, at the work close** (26 pp — well under the ~100 pp trigger); deploy
   boundary = work close. **The shakedown trigger does not fire separately** — the register
   is the one the Hexaemeron and the *septem donis* have exercised over 177 pages, and its

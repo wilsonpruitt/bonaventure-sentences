@@ -1,5 +1,77 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **`bon-praec-c1` IS LANDED. THE FRONT IS `bon-praec-c2`.**
+> Collatio I of the *Collationes de decem praeceptis*, **pp. 507–510**, Tier 2, built
+> 2026-08-29. 24 numbered ¶¶, **30 apparatus entries** (507 six · 508 eight · 509 nine ·
+> 510 seven), **zero `[?]` flags**. Registry entry (book 13, `divisionLabel: "Collationes"`)
+> and the `Coll. N` breadcrumb branch went in with it. Conventions: repo `CLAUDE.md`
+> § **DECEM PRAECEPTIS** — that block is authoritative, this is a pointer.
+> **NOTHING IS OWED and nothing is gated.** One gate only, at the work close.
+>
+> ## ⛔⛔ THE ONE THING c1 CHANGED, AND IT CHANGES WHAT c2 EXPECTS
+> The mini-pilot said *"expect a hand-off at all six [interior boundaries] — and verify it
+> at all six."* **Verified at boundary 1: p. 510 FORWARDS NOTHING.** All seven of p. 510's
+> footer notes are Collatio I's — n. 1 answers ¶ 20's *octo partes orationis,* n. 7 answers
+> ¶ 24's *carnis et oculorum* — because **Collatio II's display heading and Summarium stand
+> on p. 510 but its ¶ 1 does not begin until p. 511**, and its Summarium spans the two
+> leaves exactly as Collatio IX's did at p. 498. **So `bon-praec-c2` opens p. 510 owning
+> NONE of its footer register and restarts at p. 511 n. 1.**
+> ⭐ **The transferable correction:** the pilot predicted **shared pages**, and that held
+> perfectly; **whether a shared page hands off is a SEPARATE question**, answered only by
+> the p. 498 rule on the plate, one boundary at a time. Do not let "six shared pages"
+> harden into "six hand-offs" — that is a tally copied forward, which is precisely the
+> defect the *septem donis* work-close gate caught.
+>
+> ## ▶ FRONT = `bon-praec-c2` — Collatio II, **pp. 510–515**, shared at BOTH ends
+> `work: decem-praeceptis`, `division: 2`, `type: collatio`, book id 13.
+> Display heading at raw **L83700**; the next real bare header (`COLLATIO IIL` = III) is at
+> **L84397**. Index subtitle to verify in place, word for word: *De primo praecepto decalogi
+> in specie.* Expect **~26–30 apparatus entries**, ~7 footer notes per page.
+> **Receives nothing** (see above). **Makes a hand-off at p. 515 only if Collatio III's
+> numbered body reaches that leaf — read anchors, only anchors.**
+> ⚠ p. 510's running head already reads `COLLATIO II.` above four columns of Collatio I:
+> **a running head is not evidence of who owns the top of a page**, confirmed on the plate.
+> **Gutter p. 510 = 1298** (already measured and confirmed by c1: `colcrop`'s 16 px run is
+> the loud value, but two row windows clearing the full-measure COLLATIO II block —
+> 0.15–0.55 and 0.20–0.60 — return a clean 58 px band 1270–1327 with the SAME midpoint).
+> Profile below the heading at the mid-page opening, per the frozen rule.
+>
+> ## ★ WHAT c1 CONFIRMED (do not re-litigate)
+> 1. **`COLLATIO I.` carries NO apparatus anchor** — read at 4×. The scouting call held.
+> 2. **The Summarium is full-measure and unanchored**, and its body count runs to `23. 24.`
+>    — counted on the plate, as the rule requires, not taken from the index.
+> 3. **Five raw digits were wrong and the plate caught all five** (p. 508 nn. 1/5/6/8,
+>    p. 509 n. 8 twice, p. 510 n. 1). ★ And **one digit that LOOKED wrong is right:**
+>    p. 510 n. 3's `supra pag. 121, nota 3` reads as `124` at 1.3× — at 4× the Quaracchi
+>    `1` carries a serif flag that counterfeits a `4`. **Zoom before you "correct."**
+> 4. The `Epist. <roman>. <ch>, <v>` cousin shape appeared again (p. 509 n. 3,
+>    `Epist. I. 5, 3.`), still uncovered by `build-citations.py`'s barrier — no ledger
+>    record rather than a wrong one, so nothing is silently mis-bound. Expect it in c2–c7.
+>
+> ## Register — both rulings bind, and c1 carried the third question
+> ***pietas* → piety everywhere** (does not occur in Collatio I) · ***intellectus* →
+> understanding, *intelligentia* → intelligence in body prose.**
+> ⚠ c1 is the first place the second ruling has **visible cost**: ¶ 8's *intelligentia
+> sacrarum Scripturarum* → "the **intelligence** of the sacred Scriptures," against ¶ 10's
+> *intellectum veri* → "understanding," with the Douay's "understanding" left standing in
+> the Psalm 118:100 quotation two lines above. **The rule worked as written. c1 made no
+> edit and did not reopen it — the gate should see it.**
+> ▶ **Third question, CARRIED not settled:** *praeceptum* → **precept** · *mandatum* →
+> **commandment** · *lex* → **law**. Follow c1 for consistency. The collision to hand the
+> gate: the work's English title is "Collations on the Ten **Commandments**" while ¶ 20
+> reads "the ten **precepts**."
+>
+> ## Cadence
+> **ONE gate, at the work close** (26 pp); the shakedown trigger does not fire separately.
+> **Deploy boundary = work close** — nothing deploys until all seven land. Plates per
+> collatio, never in bulk.
+> ⚠ Prod currently serves the *septem donis* deploy of 2026-08-29. **That line is DATED —
+> never restate prod from a note; check it.**
+
+---
+
+> # (superseded) previous START HERE — the mini-pilot was frozen and the front was `bon-praec-c1`, 2026-08-29
+
 > # ▶▶▶ START HERE — **THE *DE DECEM PRAECEPTIS* MINI-PILOT IS FROZEN. THE FRONT IS `bon-praec-c1`.**
 > Scouted and frozen 2026-08-29. Evidence: `manual-review/decem-praeceptis-pilot-scouting.md`.
 > Conventions: repo `CLAUDE.md` § **DECEM PRAECEPTIS** — that block is authoritative, this is a pointer.
