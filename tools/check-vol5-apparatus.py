@@ -1936,6 +1936,24 @@ KNOWN_TOTALS = {
     489: 5,   # SHARED leaf: COLLATIO VII.'s display heading stands mid-leaf, so
               # n. 1 is Collatio VI's and nn. 2-5 are Collatio VII's (forwarded
               # to bon-don-c7). Full-leaf block 3/2.
+    490: 8,   # block 4.5/3.5, anchors 4/4. FOURTH attestation of two notes set on
+              # ONE LINE: n. 2 (the Bonelli codex-collation note) ends flush left
+              # and n. 3 (Cap. 8, 12.) is set flush right on that same line. Read
+              # the block by numeral, never by line. ⚠ gutter 1383 measured on a
+              # 46 px run; step (3) fired and REPRODUCED the default at thresh
+              # 110/140/160/180 -- a narrow run, not a starved threshold.
+    491: 7,   # block 3/4, anchors 2/5. n. 3 (Isaias / Bernard, identifying the
+              # Epist. ad Fratres de Monte Dei as Guigo's) spans both blocks;
+              # rendered joined. n. 1 reads Exod. 25, 18. (raw 23).
+    492: 9,   # block 4/5, anchors 5/4. n. 7 reads Ps. 65, 15 (raw 63). n. 6 is
+              # Epist. I. Tim. 4, 8 -- names its book, so NOT the cousin shape.
+    493: 7,   # SHARED leaf: COLLATIO VIII.'s display heading stands mid-leaf, so
+              # nn. 1-6 are Collatio VII's and n. 7 is Collatio VIII's (forwarded
+              # to bon-don-c8). Full-leaf block 3/4. n. 2 reads c. 6, 25. 30. et
+              # 31. (raw 23). n. 4 is Libr. I. 5, 3. -- NINTH attestation of the
+              # book-number-only genre trait. ⚠ gutter 1183, measured on the
+              # UPPER region (rows 0.08-0.38) only: the default returns 1532 on a
+              # 1 px run because the leaf stacks four regions.
 }
 
 

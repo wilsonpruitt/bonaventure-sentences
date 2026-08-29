@@ -6631,6 +6631,7 @@ bon-sent-II-d44-dubia	2	latin_body	2	scripture	body-ordinal	Ieremiae vigesimo se
 bon-sent-II-d44-dubia	2	latin_body	7	scripture	body-ordinal	Apocalypsis secundo	Apoc 2:12	B	verse		
 bon-sent-II-d44-dubia	2	apparatus:3	3	scripture	apparatus-explicit	II. Thess. 2, 4	2Thess 2:4	A	verse		
 bon-sent-II-d44-dubia	2	apparatus:4	4	scripture	apparatus-explicit	Rom. 13, 2	Rom 13:2	A	verse		
+bon-sent-II-d44-dubia	2	apparatus:5	5	scripture	apparatus-explicit	I. Petri 5, 8	1Petr 5:8	A	verse		
 bon-sent-II-d44-dubia	2	apparatus:21	21	scripture	apparatus-explicit	Prov. 18, 23	Prov 18:23	A	verse		
 bon-sent-II-d44-dubia	2	apparatus:22	22	scripture	apparatus-explicit	II. Tim. 3, 7	2Tim 3:7	A	verse		
 bon-sent-II-d44-dubia	2	apparatus:23	23	scripture	apparatus-explicit	Ioan. 14, 6	Ioan 14:6	A	verse		
@@ -8894,6 +8895,7 @@ bon-sent-III-d22-a1-q4	3	apparatus:p459-4	p459-4	crossref	page	pag. 336, nota 12
 bon-sent-III-d22-a1-q4	3	apparatus:p459-6	p459-6	crossref	page	supra pag. 226, nota 2	bon-sent-III-d10-a1-q1		chunk		
 bon-sent-III-d22-a1-q4	3	apparatus:p459-6	p459-6	crossref	page	pag. 383, nota 8	bon-sent-III-d18-a1-q2		chunk		
 bon-sent-III-d22-a1-q4	3	apparatus:p459-8	p459-8	authority	authority:Fulgent.	IV. Sent. d. 5. a. 1. q. 1.			excluded		
+bon-sent-III-d22-a1-q4	3	apparatus:p459-10	p459-10	scripture	apparatus-explicit	I. Petri 3, 19	1Petr 3:19	A	verse		
 bon-sent-III-d22-a1-q4	3	apparatus:p459-10	p459-10	scripture	apparatus-explicit	Phil. 2, 10	Phil 2:10	A	verse		
 bon-sent-III-d22-a1-q4	3	apparatus:p460-1	p460-1	scripture	apparatus-explicit	Rom. 8, 15	Rom 8:15	A	verse		
 bon-sent-III-d22-a1-q5	3	latin_body	p460-3	scripture	body-ordinal	Iob decimo septimo	Iob 17:16	B	verse		
@@ -9133,6 +9135,7 @@ bon-sent-III-d23-dubia	3	apparatus:p504-7	p504-7	crossref	chain-continuation	d. 
 bon-sent-III-d23-dubia	3	apparatus:p504-8	p504-8	crossref	anaphor->chain-continuation	ibid.	bon-sent-I-d23-a2-q3		chunk	yes	d. 23. a. 2. q. 3.
 bon-sent-III-d23-dubia	3	apparatus:p505-1	p505-1	crossref	page	tom. II. pag. 643, nota 9	bon-sent-II-d26-a1-q5		chunk		
 bon-sent-III-d23-dubia	3	apparatus:p505-4	p505-4	scripture	apparatus-explicit	Hebr. 11, 1	Hebr 11:1	A	verse		
+bon-sent-III-d23-dubia	3	apparatus:p505-7	p505-7	scripture	apparatus-explicit	II. Petri 1, 21	2Petr 1:21	A	verse		
 bon-sent-III-d23-dubia	3	apparatus:p505-10	p505-10	scripture	apparatus-explicit	Psalm. 36, 1	Ps 36:1	A	verse		
 bon-sent-III-d23-dubia	3	apparatus:p505-11	p505-11	crossref	relative	infra d. 36. q. 1.	bon-sent-III-d36-a1-q1		chunk		
 bon-sent-III-d23-dubia	3	apparatus:p506-1	p506-1	crossref	relative	infra d. 26. a. 2. q. 3.	bon-sent-III-d26-a2-q3		chunk		
@@ -19846,6 +19849,51 @@ bon-don-c6	5	apparatus:p488-8	p488-8	crossref	page	supra pag. 373, nota 5	bon-he
 bon-don-c6	5	apparatus:p488-9	p488-9	scripture	apparatus-explicit	Apoc. 12, 1	Apoc 12:1	A	verse		
 bon-don-c6	5	apparatus:p489-1	p489-1	scripture	apparatus-explicit	Iac. 1, 12	Iac 1:12	A	verse		
 bon-don-c6	5	apparatus:p489-1	p489-1	scripture	apparatus-explicit	Apoc. 2, 10	Apoc 2:10	A	verse		
+bon-don-c7	5	apparatus:p489-2	p489-2	scripture	apparatus-explicit	Prov. 31, 10	Prov 31:10	A	verse		
+bon-don-c7	5	apparatus:p489-2	p489-2	scripture	apparatus-explicit	Iob 28, 12	Iob 28:12	A	verse		
+bon-don-c7	5	apparatus:p489-3	p489-3	scripture	apparatus-explicit	Iob 28, 18	Iob 28:18	A	verse		
+bon-don-c7	5	apparatus:p489-4	p489-4	scripture	apparatus-explicit	Prov. 31, 13	Prov 31:13	A	verse		
+bon-don-c7	5	apparatus:p490-1	p490-1	scripture	apparatus-explicit	Prov. 31, 13	Prov 31:13	A	verse		
+bon-don-c7	5	apparatus:p490-1	p490-1	crossref	logical	III. Sent. d. 35. q. 4.	bon-sent-III-d35-a1-q4		chunk		
+bon-don-c7	5	apparatus:p490-4	p490-4	scripture	apparatus-explicit	I. Cor. 6, 12	1Cor 6:12	A	verse		
+bon-don-c7	5	apparatus:p490-4	p490-4	scripture	apparatus-explicit	Prov. 15, 22	Prov 15:22	A	verse		
+bon-don-c7	5	apparatus:p490-6	p490-6	scripture	apparatus-explicit	Ps. 19, 5	Ps 19:5	A	verse		
+bon-don-c7	5	apparatus:p490-7	p490-7	crossref	page	supra pag. 323, nota 6	bon-red		chunk		
+bon-don-c7	5	apparatus:p491-1	p491-1	scripture	apparatus-explicit	Ps. 118, 24	Ps 118:24	A	verse		
+bon-don-c7	5	apparatus:p491-1	p491-1	scripture	apparatus-explicit	Exod. 25, 18	Exod 25:18	A	verse		
+bon-don-c7	5	apparatus:p491-1	p491-1	crossref	page	supra pag. 375, nota 3	bon-hex-c9		chunk		
+bon-don-c7	5	apparatus:p491-1	p491-1	crossref	page	pag. 391, nota 2	bon-hex-c13		chunk		
+bon-don-c7	5	apparatus:p491-2	p491-2	scripture	apparatus-explicit	Ps. 36, 4	Ps 36:4	A	verse		
+bon-don-c7	5	apparatus:p491-2	p491-2	scripture	apparatus-explicit	Ps. 36, 6	Ps 36:6	A	verse		
+bon-don-c7	5	apparatus:p491-3	p491-3	scripture	apparatus-explicit	Isai. 59, 5	Isai 59:5	A	verse		
+bon-don-c7	5	apparatus:p491-4	p491-4	scripture	apparatus-explicit	Eccli. 37, 17	Eccli 37:17	A	verse		
+bon-don-c7	5	apparatus:p491-5	p491-5	scripture	apparatus-explicit	Isai. 9, 6	Isai 9:6	A	verse		
+bon-don-c7	5	apparatus:p491-6	p491-6	scripture	apparatus-explicit	Ps. 32, 11	Ps 32:11	A	verse		
+bon-don-c7	5	apparatus:p491-7	p491-7	scripture	apparatus-explicit	I. Cor. 7, 40	1Cor 7:40	A	verse		
+bon-don-c7	5	apparatus:p491-7	p491-7	scripture	apparatus-explicit	II. Cor. 8, 9	2Cor 8:9	A	verse		
+bon-don-c7	5	apparatus:p491-7	p491-7	scripture	apparatus-explicit	I. Cor. 7, 25	1Cor 7:25	A	verse		
+bon-don-c7	5	apparatus:p492-1	p492-1	crossref	page	supra pag. 126, nota 2	tom5:p126		forward		
+bon-don-c7	5	apparatus:p492-1	p492-1	scripture	apparatus-explicit	Matth. 8, 20	Matth 8:20	A	verse		
+bon-don-c7	5	apparatus:p492-1	p492-1	scripture	apparatus-explicit	Luc. 12, 33	Luc 12:33	A	verse		
+bon-don-c7	5	apparatus:p492-1	p492-1	scripture	apparatus-explicit	Matth. 11, 29	Matth 11:29	A	verse		
+bon-don-c7	5	apparatus:p492-3	p492-3	scripture	apparatus-explicit	Apoc. 4, 5	Apoc 4:5	A	verse		
+bon-don-c7	5	apparatus:p492-3	p492-3	scripture	apparatus-explicit	Ps. 88, 8	Ps 88:8	A	verse		
+bon-don-c7	5	apparatus:p492-4	p492-4	scripture	apparatus-explicit	Eccli. 37, 9	Eccli 37:9	A	verse		
+bon-don-c7	5	apparatus:p492-4	p492-4	scripture	anaphor->apparatus-explicit	ibid.	Eccli 37:9	A	verse	yes	Eccli. 37, 9
+bon-don-c7	5	apparatus:p492-5	p492-5	scripture	apparatus-explicit	Luc. 7, 30	Luc 7:30	A	verse		
+bon-don-c7	5	apparatus:p492-6	p492-6	scripture	apparatus-explicit	I. Tim. 4, 8	1Tim 4:8	A	verse		
+bon-don-c7	5	apparatus:p492-7	p492-7	crossref	page	supra pag. 125, nota 2	tom5:p125		forward		
+bon-don-c7	5	apparatus:p492-7	p492-7	scripture	apparatus-explicit	Matth. 19, 27	Matth 19:27	A	verse		
+bon-don-c7	5	apparatus:p492-7	p492-7	scripture	apparatus-explicit	I. Cor. 9, 27	1Cor 9:27	A	verse		
+bon-don-c7	5	apparatus:p492-7	p492-7	scripture	apparatus-explicit	Ps. 65, 15	Ps 65:15	A	verse		
+bon-don-c7	5	apparatus:p492-9	p492-9	scripture	apparatus-explicit	Psalm. 20, 12	Ps 20:12	A	verse		
+bon-don-c7	5	apparatus:p493-1	p493-1	scripture	apparatus-explicit	Luc. 9, 62	Luc 9:62	A	verse		
+bon-don-c7	5	apparatus:p493-1	p493-1	scripture	apparatus-explicit	II. Petri 2, 21	2Petr 2:21	A	verse		
+bon-don-c7	5	apparatus:p493-3	p493-3	scripture	apparatus-explicit	II. Cor. 11, 26	2Cor 11:26	A	verse		
+bon-don-c7	5	apparatus:p493-3	p493-3	scripture	apparatus-explicit	II. Petr. 2, 21	2Petr 2:21	A	verse		
+bon-don-c7	5	apparatus:p493-4	p493-4	scripture	book-unnamed	Libr. I. 5, 3			unresolvable		
+bon-don-c7	5	apparatus:p493-5	p493-5	scripture	apparatus-explicit	Eccli. 15, 14	Eccli 15:14	A	verse		
+bon-don-c7	5	apparatus:p493-5	p493-5	scripture	apparatus-explicit	Iac. 1, 8	Iac 1:8	A	verse		
 bon-hex-c1	5	latin_body	p329-2	scripture	body-ordinal	Ecclesiastici decimo quinto	Eccli 15:5	B	verse		
 bon-hex-c1	5	latin_body	p330-2	scripture	body-ordinal	Ioannis decimo tertio	Ioan 13:35	B	verse		
 bon-hex-c1	5	latin_body	p330-5	scripture	body-ordinal	Isaiae quinto	Isai 5:20	B	verse		
