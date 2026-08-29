@@ -1907,9 +1907,35 @@ KNOWN_TOTALS = {
               # column division mid-sentence. ⚠ gutter is 1401, NOT colcrop's
               # default 1317 (448 px run: the window straddles the body/footer
               # gap); settled from the ink profile's band 1369-1433.
-    # p. 483 is deliberately absent: it is a SHARED leaf whose display heading
-    # COLLATIO VI. stands mid-leaf, and only nn. 1-2 anchor in Collatio V. Its
-    # total cannot be fixed until bon-don-c6 reads the rest of the register.
+    483: 7,   # SHARED leaf: COLLATIO VI.'s display heading stands mid-leaf, so
+              # nn. 1-2 are Collatio V's and nn. 3-7 are Collatio VI's. Full-leaf
+              # block 3/4; of c6's five, block 1/4 and anchors 1/4 -- the only
+              # leaf of the c6 span on which block and anchor splits coincide.
+    484: 9,   # block 4.5/4.5, anchors 3/6. n. 5 (Bernard, Homil. 2 n. 4) BEGINS
+              # in the left block and finishes in the right; rendered joined.
+    485: 7,   # block 1.5/5.5, anchors 2/5. n. 2 -- the long editorial note on the
+              # rubus as a figure of Mary -- eats most of the left block and runs
+              # over into the right. It reads Hexaem. collat. 11. n. 15 (raw 13),
+              # confirmed by bon-hex-c11 n. 15 being the burning-bush paragraph.
+              # ⚠ gutter is 1388, NOT colcrop's default 1296: this leaf is FADED,
+              # so thresh=110 starves and the run blows out to 436 px. Re-profile
+              # at thresh 140-180.  (Applies to p. 486 too; see below.)
+    486: 9,   # block 2.5/6.5, anchors 6/3 -- this leaf INVERTS the usual
+              # asymmetry, six of nine anchoring left. n. 3 (the Humbelina
+              # exemplum) spans both blocks; rendered joined. ⚠ FADED leaf:
+              # gutter is 1388 against colcrop's default 1296 on a 436 px run.
+    487: 9,   # block 5/4, anchors 4/5. n. 5 prints left, anchors right.
+              # ⚠ FADED leaf: gutter is 1174 against colcrop's default 1330 on a
+              # 404 px run -- 156 px wrong, the largest miss recorded in Vol V.
+    488: 9,   # block 5.5/3.5, anchors 5/4. n. 6 (Gregory / Jahel / Isidore)
+              # spans both blocks; rendered joined. Three digits corrected: n. 3
+              # reads Cap. 3, 14. et 15. (raw 13); n. 4 reads n. 53 and n. 51
+              # (raw 33 and 31); n. 5 reads Luc. 2, 35. (raw 33). n. 8 is the
+              # `Epist. <roman>. <ch>, <v>` cousin shape (I Petr. 2, 6), third
+              # attestation -- invisible to the citation index, never mis-bound.
+    489: 5,   # SHARED leaf: COLLATIO VII.'s display heading stands mid-leaf, so
+              # n. 1 is Collatio VI's and nn. 2-5 are Collatio VII's (forwarded
+              # to bon-don-c7). Full-leaf block 3/2.
 }
 
 
