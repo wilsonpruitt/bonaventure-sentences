@@ -5,14 +5,17 @@
 > pp. 457–503, 178 ¶¶, 403 apparatus entries. The **four-pass work-close polish gate ran
 > 2026-08-29 and closed CLEAN**; full log: `manual-review/vol5-septem-donis-workclose-gate.md`.
 >
-> ## ⛔ TWO PROTECTED ACTIONS OWED, IN THIS ORDER — NOTHING ELSE IS
-> 1. **Push.** `master` is ahead of `origin/master`; the push is Wilson's call.
-> 2. **Deploy.** The deploy boundary for this work *is* its close, so **prod still serves the
->    2026-08-24 Hexaemeron deploy and this whole work is unpublished.** ⚠ That live-state line is
->    DATED and expires — never restate prod from a note.
+> ## ✅ NOTHING IS OWED — PUSHED AND DEPLOYED 2026-08-29
+> `origin/master` = **`29be26c`**, 0 ahead, tree clean. The work **deployed to production
+> 2026-08-29** and was verified live: `/browse/12` and the c1–c9 pages return 200,
+> `EXPLICIUNT COLLATIONES DE DONIS SPIRITUS S.` renders on c9, and c2 shows **zero "godliness"**
+> — the *pietas* ruling is live. ⚠ That live-state line is DATED and expires — **never restate
+> prod from a note; check it.**
 >
-> **Do not start *De decem praeceptis* until the deploy lands.** Its Coll. I is at p. 507 per the
-> index; **only `~505` for its half-title is still an estimate** — fix it positively when it opens.
+> ## ▶ THE NEXT FRONT IS ***De decem praeceptis*** — it needs a mini-pilot before any chunk
+> Coll. I is at **p. 507** per the volume index; **only `~505` for its half-title is still an
+> estimate** — fix it positively on the plate when the work opens. 28 printed pages, ONE gate at
+> its close, per the frozen table. **Both register rulings below bind it.**
 >
 > ## ★★ THE TWO REGISTER QUESTIONS ARE SETTLED (Wilson, 2026-08-29) — do NOT reopen either
 > Both are stated in full in repo `CLAUDE.md` § SEPTEM DONIS and repeated in the Notes of c2, c3,

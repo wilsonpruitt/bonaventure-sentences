@@ -1,6 +1,6 @@
 # Bonaventure Sentences — Project Guide for Claude
 
-You are working on an English translation of **St. Bonaventure's *Opera Omnia*** (Quaracchi edition, 1882–1902). Status (2026-08-27): **Books I–IV are complete and published** (Vols I–IV, all Tier 2). The active front is **Vol V**, where the Breviloquium, Itinerarium, De reductione and the Collationes in Hexaemeron are all complete; the *Collationes de septem donis Spiritus Sancti* (pp. 457–**503**) is **COMPLETE 2026-08-29**, its **work-close gate closed CLEAN 2026-08-29** (`manual-review/vol5-septem-donis-workclose-gate.md`), and the **push + deploy are the front, both protected**; **next work = *De decem praeceptis*, half-title ~505**. The live site is https://bonaventure.wrootpress.com. Always defer to `next-session-resume.md` for the exact current position.
+You are working on an English translation of **St. Bonaventure's *Opera Omnia*** (Quaracchi edition, 1882–1902). Status (2026-08-27): **Books I–IV are complete and published** (Vols I–IV, all Tier 2). The active front is **Vol V**, where the Breviloquium, Itinerarium, De reductione and the Collationes in Hexaemeron are all complete; the *Collationes de septem donis Spiritus Sancti* (pp. 457–**503**) is **COMPLETE 2026-08-29**, its **work-close gate closed CLEAN 2026-08-29** (`manual-review/vol5-septem-donis-workclose-gate.md`), **pushed and DEPLOYED to production 2026-08-29**; the next front is ***De decem praeceptis*** (half-title ~505, Coll. I at p. 507), which needs its mini-pilot first; **next work = *De decem praeceptis*, half-title ~505**. The live site is https://bonaventure.wrootpress.com. Always defer to `next-session-resume.md` for the exact current position.
 
 This file is loaded into every Claude Code session in this repo. Read it before making changes to translation files or the build pipeline.
 
@@ -283,7 +283,7 @@ Vols V–X (2026-07-28).**
 | 6 | **Itinerarium mentis in Deum** | 293–316 | `itinerarium` | 6 | **COMPLETE 2026-08-14 — all 10 chunks Tier 2; work-close gate + deploy due** |
 | 7 | **De reductione artium** | 319–325 | `de-reductione` | 7 | **COMPLETE 2026-08-14** |
 | 8 | **Collationes in Hexaemeron** | 327–454 | `hexaemeron` | 11 | **COMPLETE 2026-08-23 — 23 collationes + Scholion; gated + deployed 2026-08-24.** (It is in Vol V, not Vol VII as the old tracker claimed.) |
-| 9 | **Coll. de septem donis** | 455–**503** | `septem-donis` | 12 | **COMPLETE 2026-08-29 — all 9 collationes Tier 2; work-close gate CLOSED CLEAN 2026-08-29; deploy due.** End fixed positively from `EXPLICIUNT` on p. 503. |
+| 9 | **Coll. de septem donis** | 455–**503** | `septem-donis` | 12 | **COMPLETE 2026-08-29 — all 9 collationes Tier 2; work-close gate CLOSED CLEAN and DEPLOYED 2026-08-29.** End fixed positively from `EXPLICIUNT` on p. 503. |
 | 10 | Coll. de decem praeceptis | ~505–532 | `decem-praeceptis` | 13 | planned |
 | 11 | Sermones selecti | ~535–579 | `sermones-selecti` | 14 | planned |
 
