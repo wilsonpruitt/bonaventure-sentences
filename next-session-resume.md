@@ -1,5 +1,92 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **THE FRONT IS `bon-don-c7` (Collatio VII, *De dono consilii*).**
+> The *Collationes de septem donis Spiritus Sancti* is open: mini-pilot frozen, **Collationes I–VI
+> are all Tier 2** (c6 on 2026-08-28). ⚠ **COMMITTED, NOT YET PUSHED — verify with
+> `git status -sb` before doing anything else.** The deploy boundary for this work is its **close at
+> c9**, so prod still serves the 2026-08-24 Hexaemeron deploy and nothing needs to ship yet.
+> ⚠ That live-state line is DATED and expires — never restate prod from a note.
+>
+> ## ⛔ READ BEFORE TOUCHING c7
+> - **★ c7 INHERITS p. 489 AND MUST NOT RESTART IT AT 1.** Collatio VI closes **mid-leaf at the top
+>   of p. 489**, running left column then right across the head of the leaf, above the `COLLATIO VII.`
+>   display heading. Only p. 489 **n. 1** (`Iac. 1, 12. — Seq. locus est Apoc. 2, 10.`) is Collatio
+>   VI's; **nn. 2, 3, 4 and 5 are c7's.** The leaf carries five notes, left block nn. 1–3 and right
+>   block nn. 4–5. All four of c7's are already read off the band: n. 2 = `Prov. 31, 10. — Seq. locus
+>   est Iob 28, 12. et 13.` · n. 3 = `Iob 28, 18.` · n. 4 = `Prov. 31, 13.` · n. 5 = `Cfr. supra
+>   collat. 5. et 6.` **A hand-off tells you which notes are yours, never where they land — re-derive
+>   the anchors off the band.** p. 489's leaf total (5) is already in `check-vol5-apparatus.py`'s
+>   `KNOWN_TOTALS`; the audit currently reports nn. 2–5 as a legitimate PENDING, and c7 closes it.
+> - **★ c7's span is 489–?**, and its end must be fixed positively from `COLLATIO VIII.`
+>   (raw L81635, index p. 493) on the band. **Never subtract one from the next collatio's index
+>   page** — four consecutive index pages (473, 479, 483, 489) have now proved to be SHARED.
+> - **★★★ THE GUTTER FAILURE HAS A FOURTH MECHANISM AND IT IS THE WORST ONE YET: A FADED LEAF
+>   STARVES `colcrop`'s FIXED INK THRESHOLD.** `measure_gutter` counts ink only below grey 110. On
+>   c6's pp. 486 and 487 the scan is much lighter than its neighbours (mean row ink 13–50 px against
+>   p. 484's 100–300), so almost nothing crosses the threshold, the low-ink run swallows the search
+>   window, and the tool returns a plausible number on a 400+ px run. **A dozen row windows all agreed
+>   with each other and all of them were wrong** — window consensus is worthless when the *threshold*
+>   is the broken input, so the three-step method's step (2) does not catch this. Re-profiling at
+>   thresh 140/160/180 settles it instantly and stably: **p. 486 default 1296/436 px → true 1388**
+>   (92 px wrong) · **p. 487 default 1330/404 px → true 1174** (**156 px wrong — the largest miss
+>   recorded in Vol V**). ⭐ **New rule: when EVERY window blows out together, check the leaf's ink
+>   density before touching the windows again.** **Gutters measured in c6:** 483 = 1174 · 484 = 1391 ·
+>   485 = 1166 · 486 = 1388 · 487 = 1174 · 488 = 1396 · 489 = 1176. Odd/even alternation happened to
+>   hold across all seven — an observation, not a predictor; the parity model stays retired and every
+>   one of the seven was measured.
+> - **⚠ NEVER ADOPT A DIGIT FROM THE RAW.** c6 corrected four, all of the **3/5 class**, none of the
+>   1/4 class: p. 485 n. 2 is `Hexaëm. collat. 11. n. 15` (raw `13`) — confirmed independently
+>   because `bon-hex-c11` ¶ 15 is the burning-bush paragraph and ¶ 13 is not; p. 488 n. 3 is
+>   `Cap. 3, 14. et 15.` (raw `13`); p. 488 n. 4 is `n. 53` and `n. 51` (raw `33`, `31`); p. 488 n. 5
+>   is `Luc. 2, 35.` (raw `33`). **And the raw is already wrong inside c7's own Summarium**, which it
+>   gives as `De aliis bonis consiliariis, 13. 16.` where the plate reads **`15. 16.`** — fix it there,
+>   and expect more.
+> - **⭐ The `Libr. <roman>. <ch>, <v>` genre trait did NOT fire in c6 — eight attestations still
+>   stand, not nine.** Two citations look like the shape and are not (`Libr. III. Sent. d. 27.`,
+>   `Libr. I. Reg. 1, 18.`): both name their book, so `build-citations.py`'s barrier is not engaged.
+>   ⚠ **The cousin shape `Epist. <roman>. <ch>, <v>` DID fire a third time** (p. 488 n. 8 =
+>   `Epist. I. 2, 6` for I Peter 2:6, the book named only in the body). It still produces **no ledger
+>   record rather than a wrong one**, so nothing is mis-bound — the citation is merely invisible to the
+>   index. Transcribe as printed; expect it again. Distinguish it from `Epist. I. Cor. …`, which names
+>   the book and resolves normally.
+> - **⚠ Two footer notes set on one line did NOT recur in c6**, but the mechanism has three
+>   attestations (c3 p. 472 n. 3, c4 p. 477 nn. 6/7, c5 p. 481 nn. 3/4). **Read a footer block by
+>   numeral, never by line.**
+> - **Count the body against the Summarium, every time.** c1 (18/18), c2 (21/21), c3 (19/19),
+>   c4 (25/25), c5 (15/15) and c6 (24/24) have all agreed. c7's Summarium ends at **19.** The c6/c14
+>   short-Summarium mechanism has not fired in this work yet; it is a property of the genre, not a
+>   spent one.
+> - **⛔ `COLLATIO I.` CARRIES NO APPARATUS ANCHOR, and the question is CLOSED.** Do not reopen it.
+>
+> ## ⭐ One register question to settle at the c9 close, not before — now with THREE members
+> c3 renders *pietas* as **piety** (with pious / impious / impiety) and c6 does the same, because
+> c6's whole Part II turns on the word through six consecutive paragraphs. c5 and c6 render
+> *fortitudo* → **fortitude** in the body and inside the Douay quotations alike, with *fortis* →
+> **valiant** where it stands in or around the Douay *mulierem fortem.* Against both, c2 rendered
+> *donum pietatis* "the gift of **godliness**" in four incidental places, three of them inside the
+> Douay wording of Isaiah 11:2. **Settle it one way for the whole work at the close** — either c2's
+> four move, or a note records why a gift is named differently in its own collatio. Do not churn it
+> chunk by chunk.
+>
+> ## Cadence for this work
+> **ONE gate, at the work close (c9).** The shakedown trigger does not fire separately. **Deploy
+> boundary = work close.** Plates per collatio, never in bulk.
+>
+> ## ⚠ Still open elsewhere (none urgent, none mechanical)
+> - The About page's **"What Is Known to Be Wrong"** — Wilson's to frame; the Vol I
+>   cross-reference digit class is the strongest candidate.
+> - `d30-a1-q3`'s transposed `s`-series labels · `d37-p2-dubia` `[^6]`'s merged notes ·
+>   Book IV `d. 2. p. I.` cite · `prol-comm` p. 24 n. 2 (jointly impossible; flag stands).
+> - **Vols II–IV have never been swept** for the cross-reference digit class — and a clean grep
+>   would not prove them sound.
+> - `bon-hex-c23` carries one non-page-qualified apparatus label (`51`), flagged by polish-style-scan.
+> - **⛔ The Vol I page-gap hunt stays PARKED** (Wilson, 2026-08-24). Reopening trigger: a reader
+>   reports a gap. Nothing else.
+
+---
+
+> # (superseded) previous START HERE — front was `bon-don-c6`, 2026-08-28
+
 > # ▶▶▶ START HERE — **THE FRONT IS `bon-don-c6` (Collatio VI, *De dono fortitudinis collatio secunda*).**
 > The *Collationes de septem donis Spiritus Sancti* is open: mini-pilot frozen, **Collationes I–V
 > are all Tier 2** (c5 on 2026-08-28). ✅ **PUSHED 2026-08-28 — `origin/master` = `94c9f19`,
