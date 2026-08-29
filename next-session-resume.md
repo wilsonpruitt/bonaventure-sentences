@@ -1,5 +1,64 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **THE *DE DECEM PRAECEPTIS* MINI-PILOT IS FROZEN. THE FRONT IS `bon-praec-c1`.**
+> Scouted and frozen 2026-08-29. Evidence: `manual-review/decem-praeceptis-pilot-scouting.md`.
+> Conventions: repo `CLAUDE.md` § **DECEM PRAECEPTIS** — that block is authoritative, this is a pointer.
+> **NOTHING IS OWED and nothing is gated.** No new chunk has been built; translation may begin.
+>
+> ## The work, positively fixed on the plate
+> **p. 505 half-title** (the old `~505` estimate is now a measurement) · **p. 506 blank** ·
+> **body 507–532** · `EXPLICIUNT COLLATIONES DE DECEM PRAECEPTIS.` on **p. 532**. 26 printed pages,
+> **SEVEN collationes**, **no work-level Scholion**, raw band **L83158–L86893**.
+> ⭐ Bonus correction: the *Sermones selecti* half-title is **p. 533**, not the map's `~535`.
+>
+> ## ▶ FRONT = `bon-praec-c1` — Collatio I, **pp. 507–510**, sharing p. 510 at its end
+> `work: decem-praeceptis`, `division: 1`, `type: collatio`, book id **13**.
+> Subtitle *De quatuor motivis…* is verified in place and agrees with the index word for word.
+> **Gutter p. 507: ADOPT 1157** (`colcrop` gives 1178 on a 15 px run — the stacked-opening failure;
+> four windows below the Summarium agree on band 1127–1186, midpoint 1156–1157).
+> Expect **~26–30 apparatus entries**; p. 507 carries ~7 footer notes.
+> Registry entry (book 13, `divisionLabel: "Collationes"`) and the `Coll. N` breadcrumb branch in
+> `buildWorkChunkTitle` go in **with c1**, division 1 only.
+>
+> ## ★★★ WHAT THE PILOT ESTABLISHED THAT IS NEW TO THE CORPUS
+> 1. **The *septem donis*' closing rule was used FORWARDS and paid out six for six.** Unit ~3.7 pp
+>    against a page is non-integral, so mid-page openings were **predicted before a single heading
+>    was located** — and all six interior boundaries are shared pages. **There is no clean crossing
+>    in this work.** Frozen spans: **c1 507–510 · c2 510–515 · c3 515–519 · c4 519–522 ·
+>    c5 522–525 · c6 525–529 · c7 529–532**, each inclusive of its shared last page.
+>    ⚠ Every interior chunk therefore both receives a hand-off and makes one — **but verify each
+>    against the p. 498 rule** (a shared page forwards only when the incoming BODY reaches it).
+> 2. **★★ THE RUNNING HEAD NAMES THE COLLATIO THAT BEGINS MID-PAGE — the printing, not the OCR.**
+>    p. 510's head reads `COLLATIO II.` above four columns of Collatio I. **A running head is not
+>    evidence of who owns the top of a page.** This is the case that earns the frozen rule.
+> 3. **`COLLATIO I.` carries NO apparatus anchor** (read at 4×). Two works running now answer this
+>    way, so **the Hexaemeron's anchored heading is the exception in Vol V, not the rule.**
+> 4. **A page map exists — 26 pages, running-head derived, twelve independent numeral confirmations,
+>    zero disagreements, both ends closed on the plate.** ⚠ It is a **prediction table**: a surviving
+>    page numeral is still a raw digit (p. 508's prints `308`), and **every chunk closes its own span
+>    positively on the plate.**
+>
+> ## ⚠ CARRY TO THE GATE, DO NOT SETTLE CHUNK BY CHUNK
+> The decalogue vocabulary — ***praeceptum* / *mandatum* / *lex*** — is under continuous Douay
+> pressure across all seven collationes and Collatio I ¶ 20 enumerates the ten. **Same shape as
+> *pietas*.** Carry it; settle it once, at the work close.
+>
+> ## The two settled register rulings BIND here, unchanged
+> ***pietas* → piety everywhere** (Douay yields) · ***intellectus* → understanding,
+> *intelligentia* → intelligence in body prose** (Douay left standing inside the quotation).
+> ⚠ They pull opposite ways on purpose: **the discriminator is whether the English is carrying a
+> Latin distinction — not whether the sentence is a quotation.**
+>
+> ## Cadence
+> **ONE gate, at the work close** (26 pp, under the ~100 pp trigger); the shakedown trigger does not
+> fire separately. **Deploy boundary = work close** — so nothing deploys until all seven land.
+> ⚠ Prod currently serves the *septem donis* deploy of 2026-08-29. **That line is DATED — never
+> restate prod from a note; check it.** Plates per collatio, never in bulk.
+
+---
+
+> # (superseded) previous START HERE — front was the *De decem praeceptis* mini-pilot, 2026-08-29
+
 > # ▶▶▶ START HERE — **THE WORK-CLOSE GATE IS CLOSED. THE ONLY THING LEFT IS THE PUSH AND THE DEPLOY, AND BOTH ARE WILSON'S.**
 > The *Collationes de septem donis Spiritus Sancti* is **COMPLETE — all NINE collationes Tier 2**,
 > pp. 457–503, 178 ¶¶, 403 apparatus entries. The **four-pass work-close polish gate ran

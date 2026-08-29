@@ -284,11 +284,11 @@ Vols V–X (2026-07-28).**
 | 7 | **De reductione artium** | 319–325 | `de-reductione` | 7 | **COMPLETE 2026-08-14** |
 | 8 | **Collationes in Hexaemeron** | 327–454 | `hexaemeron` | 11 | **COMPLETE 2026-08-23 — 23 collationes + Scholion; gated + deployed 2026-08-24.** (It is in Vol V, not Vol VII as the old tracker claimed.) |
 | 9 | **Coll. de septem donis** | 455–**503** | `septem-donis` | 12 | **COMPLETE 2026-08-29 — all 9 collationes Tier 2; work-close gate CLOSED CLEAN and DEPLOYED 2026-08-29.** End fixed positively from `EXPLICIUNT` on p. 503. |
-| 10 | Coll. de decem praeceptis | ~505–532 | `decem-praeceptis` | 13 | planned |
-| 11 | Sermones selecti | ~535–579 | `sermones-selecti` | 14 | planned |
+| 10 | **Coll. de decem praeceptis** | **505–532** | `decem-praeceptis` | 13 | **mini-pilot FROZEN 2026-08-29 — 7 collationes, spans frozen; no chunk built yet.** Half-title 505, blank 506, body 507–532, all plate-verified. |
+| 11 | Sermones selecti | **533**–~579 | `sermones-selecti` | 14 | planned. ⚠ **Half-title is p. 533, NOT ~535** (plate-read 2026-08-29): 533 half-title, 534 blank, body opens 535. |
 
 Order as actually run: Breviloquium → Itinerarium → De reductione → **Hexaemeron** (taken
-ahead of the QD, Wilson's call) → **septem donis** (in progress) → decem praeceptis → the
+ahead of the QD, Wilson's call) → **septem donis** (complete) → **decem praeceptis** (pilot frozen) → the
 three QD → Sermones. The two remaining Collationes sets follow the Hexaemeron because the
 reportatio register is freshly proven; the QD register carries over from the Sentences
 almost unchanged and keeps.
@@ -756,6 +756,97 @@ English title: **"Collations on the Seven Gifts of the Holy Spirit."**
   register but the one the Hexaemeron just exercised over 128 pages, and its single
   divergence (the heading anchor) is settled above. ~5.2 printed pp and ~35 apparatus
   entries per chunk. **Plates per collatio, never in bulk.**
+
+### DECEM PRAECEPTIS — mini-pilot conventions (frozen 2026-08-29; evidence in `manual-review/decem-praeceptis-pilot-scouting.md`)
+
+*Collationes de decem praeceptis*, work 10, book id 13, slug `decem-praeceptis`.
+**The third reportatio.** English title: **"Collations on the Ten Commandments."**
+p. 505 half-title (**plate-verified — no longer an estimate**; no alternate title, foot
+carries `S. Bonav. — Tom. V.` and signature `64`) · p. 506 MEASURED BLANK (0.047 % dark
+px) · **body opens p. 507** · **work ends p. 532**, fixed positively on the plate from
+`EXPLICIUNT COLLATIONES DE DECEM PRAECEPTIS.` (raw L86881) set full-measure beneath both
+columns. **Body extent pp. 507–532 = 26 printed pages.** Raw band **L83158 → L86893**.
+
+- **SEVEN CHUNKS: `bon-praec-c{1..7}` (divisions 1–7), `type: collatio`.** The volume
+  index (raw L94252–L94270) lists exactly seven and nothing finer; seven bare
+  `COLLATIO N.` headers stand on the band. **NO work-level Scholion** (index and plate
+  agree). **No suffix-less slug** — no prologue, no scholion, so the census blind-spot
+  class does not apply, as in the *septem donis*.
+- **⛔ `COLLATIO I.` CARRIES NO APPARATUS ANCHOR** — read at 4× on p. 507; nothing stands
+  after the period, and none of the leaf's notes documents the title or the codices.
+  **Two works running now answer this way, so the Hexaemeron's anchored heading is the
+  EXCEPTION in Vol V, not the rule.** The collatio is the chunk unit on the index and on
+  Quaracchi's citation practice, not on an anchor. Do not go looking for one.
+- **The `SUMMARIUM` is present, full-measure and UNANCHORED** (verified at 3× on p. 507);
+  it prints cleanly there but the raw gives `SuMMARiuM` — **find it by content, never by
+  header grep.** Render as `### Summarium` at the head of each language block. **Count the
+  body every time** — Collatio I's ends at `23. 24.`
+- **★★★ SIX INTERIOR BOUNDARIES, SIX SHARED PAGES — and it was PREDICTED, not discovered.**
+  The unit is **~3.7 printed pp**, thoroughly non-integral, so the *septem donis*' closing
+  rule (*boundary shape is a function of unit size against page size*) was used forwards
+  for the first time and paid out six for six. **There is no clean crossing in this work.**
+  Frozen spans, each inclusive of its shared last page:
+  **c1 507–510 · c2 510–515 · c3 515–519 · c4 519–522 · c5 522–525 · c6 525–529 · c7 529–532.**
+  (Display headings at raw L83170 · 83700 · 84397 · 85022 · 85435 · 85883 · 86407.)
+  Consequences: **every interior chunk both receives a runover hand-off and makes one**
+  (only c1 makes without receiving, only c7 receives without making) — **but the p. 498
+  rule still governs each one individually**: a shared page forwards a runover only when
+  the incoming collatio's numbered BODY reaches it. Expect a hand-off at all six and
+  **verify it at all six.** ⚠ **Never derive a span's last page by subtracting one from
+  the next collatio's index page.**
+- **★★ THE RUNNING HEAD NAMES THE COLLATIO THAT BEGINS MID-PAGE — NEW HERE, AND IT IS THE
+  PRINTING, NOT THE OCR.** On all six shared pages the running head is already set to the
+  *incoming* collatio while the top of the page is still the outgoing one's text (p. 510's
+  head reads `COLLATIO II.` above four columns of Collatio I). **A running head is not
+  evidence of who owns the top of a page.** This is the case that shows why the frozen rule
+  says *fix every span from the next real bare `COLLATIO N.` header, never from a running head*.
+- **Header hazards:** running head `DE DECEM PRAECEPTIS COLLATIO N.` garbles as `DE DF.CEM`,
+  `DE DFXEM`, `DE DFrEM`, `DE DECEM PRAECEPTES`, `DE DECEM PKAECEPTIS`, `DE DECEM PRAECEFnS`,
+  `COLL\TIO`, `C0LL\T10`, `COIJ.ATK)`, `COLLATIO K.`/`\l` (= II), `COLLATIO 1.` (= I),
+  `COLLATIO 111.` (= III). Real bare headers: `COLLATIO L` (= I), `IL`, `IIL`, `VL`, `VIL`.
+- **A page map exists and is cross-checked twelve times, but it is a PREDICTION TABLE.**
+  Running heads give page → raw line for all 26 pages; twelve standalone page numerals
+  survive in the OCR and agree with it, zero disagreements, and both ends are closed on
+  the plate. ⚠ **A surviving page numeral is still a raw digit — p. 508's prints as `308`.**
+  **Every chunk still closes its own span positively on the plate.** Full table in the
+  scouting doc.
+- **Index page claims (all seven agree with the band; none yet closed on a plate):**
+  507 · 510 · 515 · **519** · 522 · 525 · **529**. ⚠ The index OCR prints `SI9` for 519 and
+  `.529` for 529 — **those are the band's answers, not the raw's.** Division titles, to be
+  verified in place ONE AT A TIME before entering the registry: I *De quatuor motivis ad
+  observantiam divinorum praeceptorum inducentibus et de decalogo in genere* ✅ **verified
+  in place on p. 507, word for word** · II *De primo praecepto decalogi in specie* ·
+  III *De secundo praecepto decalogi* · IV *De tertio praecepto decalogi* ·
+  V *De quarto praecepto* · VI *De quinto, sexto et septimo praecepto* ·
+  VII *De octavo, nono et decimo praecepto*.
+- **Gutter, p. 507: ADOPT 1157.** `colcrop.py vol5 507` gives **1178 on a 15 px run** — the
+  loud failure, and the expected one (heading + subtitle + Summarium stacked across the
+  gutter). The skew screen's 41 px walk with three empty slices is **the stack, not skew**.
+  Below the Summarium four windows return the identical band **1127–1186 (57–59 px),
+  midpoint 1156–1157**, centre-rule island 1151–1160 — the frozen rule-5 case, a heavily
+  inked rule truncating the zero-ink run. **Profile below the Summarium at every opening,
+  and at every mid-page opening too** (which here is all six); per the p. 473/p. 479
+  precedent, **profile above and below only when the mid-page heading falls inside the
+  default 45–92 % window.**
+- **★ REGISTER: THE TWO *SEPTEM DONIS* RULINGS BIND, UNCHANGED** — *pietas* → "piety"
+  everywhere; *intellectus* → understanding / *intelligentia* → intelligence in body prose,
+  with the Douay's "understanding" left standing inside a quotation. Stated in full in
+  § SEPTEM DONIS above. **The discriminator is whether the English is carrying a Latin
+  distinction — not whether the sentence is a quotation.**
+  ⚠ **Expect a third question of the same shape and CARRY IT TO THE GATE, do not settle it
+  chunk by chunk:** the decalogue vocabulary (*praeceptum* / *mandatum* / *lex*) is under
+  continuous Douay pressure across all seven collationes, and Collatio I ¶ 20 enumerates
+  the ten. Settle it once, for the work, the way *pietas* was settled.
+- **Cadence: ONE gate, at the work close** (26 pp — well under the ~100 pp trigger); deploy
+  boundary = work close. **The shakedown trigger does not fire separately** — the register
+  is the one the Hexaemeron and the *septem donis* have exercised over 177 pages, and its
+  two open questions were settled at the *septem donis* gate. ~3.7 printed pp and **~26–30
+  apparatus entries per chunk** (~7 footer notes per page; ~180 for the work).
+  **Plates per collatio, never in bulk.**
+- **Registry:** add `decem-praeceptis` to `WORKS` in `site/scripts/build-content.mjs`
+  (book 13, tome 5, `divisionLabel: "Collationes"`) **and to the collatio branch of
+  `buildWorkChunkTitle`** beside `hexaemeron` and `septem-donis`, so the breadcrumb reads
+  `Coll. N`. Do it when c1 lands, with division 1 only.
 
 ### Vol V mechanics
 
