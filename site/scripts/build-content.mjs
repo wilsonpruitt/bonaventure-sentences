@@ -353,6 +353,7 @@ const WORKS = {
       6: "Collatio VI: De dono fortitudinis collatio secunda",
       7: "Collatio VII: De dono consilii",
       8: "Collatio VIII: De dono intellectus",
+      9: "Collatio IX: De dono sapientiae",
     },
   },
   // Future Vol V works claim book ids here as their mini-pilots run:

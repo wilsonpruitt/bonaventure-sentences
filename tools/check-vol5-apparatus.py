@@ -1984,6 +1984,42 @@ KNOWN_TOTALS = {
               # book-number-only genre trait. n. 8 reads Sap. 9, 15. (raw 9, 13).
               # ⚠ gutter 1306, measured on the UPPER region (rows 0.06-0.52) only: the
               # default returns 1294 on a 13 px run because the leaf stacks four regions.
+    499: 7,   # bon-don-c9 opens here: Collatio IX's FIRST numbered paragraph is on this
+              # leaf, and p. 498 forwarded nothing, so the register restarts at 1 legitimately.
+              # Block 4/3, anchors 4/3 -- the two splits coincide, no note crosses the gutter.
+              # n. 1 reads III. Sent. d. 35. q. 1. (raw 33); n. 7 reads et v. 25 (raw 23) and
+              # is the FOURTH attestation of the cousin shape Epist. <roman>. <ch>, <v>
+              # (Epist. I. 1, 19. = I Cor. 1:19, book named only in the body).
+              # ⚠ n. 3 ends "In Vulgata interseruntur multa" with NO final period, as printed.
+              # Gutter 1229: default sat on a 55 px run, profile band 1199-1257 midpoint 1228,
+              # so the default was CONFIRMED, not corrected.
+    500: 8,   # block 5/3, anchors 4/4 -- the splits do NOT coincide: n. 5 prints in the left
+              # block and anchors in paragraph 6, which opens the right column. No note crosses
+              # the gutter. Gutter 1347 on a healthy 62 px run, used as measured.
+    501: 7,   # block 3.5/3.5, anchors 4/3. n. 3 -- the Rufinus/Baronius/Peter de Natalibus
+              # dossier on Gregory Nazianzen's dream -- spans both blocks and is the longest
+              # entry of the span. ⚠ gutter 1169, NOT the default 1147: colcrop returned 1147
+              # on a 3 px run (WEAK RUN) and 21 of 24 windows repeated it; the ink profile gave
+              # band 1140-1198, midpoint 1169, island 1165-1173 at peak 659 -- a heavily inked
+              # centre rule sitting on the minimum. 22 px correction.
+    502: 11,  # block 5/6, anchors 5/6, no note crossing the gutter. The heaviest register of
+              # the span. n. 5 reads Prov. 25, 12. (raw 23) and n. 7 tertius Sap. 3, 15.
+              # (raw 1S), both settled by the verses the body quotes.
+              # ⚠ gutter 1399, NOT the default 1303-1329: this is the body/footer-gap mechanism
+              # in its blown-out form (388-453 px runs) on a leaf with NO inked centre rule
+              # (island peak 5-8). Every window from 0.12-0.72 to 0.40-0.72 returned band
+              # 1365-1433, midpoint ~1399. ~96 px correction.
+              # ⚠ The scan (not the printing) is smeared across "melius" and "adulatione" in
+              # the right column; the reading is fixed by n. 6's own citation, Eccle. 7, 6.
+    503: 7,   # THE LAST LEAF OF THE WORK. block 4/3, anchors 4/3. The full-measure line
+              # EXPLICIUNT COLLATIONES DE DONIS SPIRITUS S. stands between the columns and the
+              # footer rule, and fixes the work's end POSITIVELY at 503 (the work map's ~503).
+              # n. 3 reads Isai. 5, 20 (raw S). ⚠ n. 7 prints "Seq locus est" with NO period
+              # after Seq, verified at 4x and set as printed. n. 5 is Libr. III. Reg. 10, 18.,
+              # which NAMES its book and is therefore NOT the bare genre trait.
+              # Gutter 1147: the whole-leaf profile returns a 32 px island because the default
+              # window straddles body, EXPLICIUNT line and register; re-profiled over rows
+              # 0.10-0.55 the default is CONFIRMED (band 1118-1176, midpoint 1147).
 }
 
 
