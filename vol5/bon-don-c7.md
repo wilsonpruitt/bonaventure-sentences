@@ -455,6 +455,18 @@ fixed once and repeated verbatim at each of its six occurrences, since Bonaventu
 *Intelligentia* is **understanding** both as the hermeneutical sense (¶¶ 9–10, *allegorica, anagogica,
 tropologica*) and as the faculty the bad counsellor destroys (¶ 17), which is the printed text's own
 pun and is preserved.
+★★ **BOTH REGISTER QUESTIONS WERE SETTLED AT THE WORK-CLOSE GATE, 2026-08-29 (Wilson's ruling), and
+this chunk stands unchanged on both.** (1) ***pietas* → "piety" everywhere**, body prose and inside
+scripture quotations alike — so ¶ 17's I Tim. 4:8 keeps the "piety" this chunk chose, and c2's four
+"godliness" sites were moved to match rather than the reverse. (2) ***intellectus* → understanding,
+*intelligentia* → intelligence in BODY PROSE, with the Douay's "understanding" left standing inside a
+quotation** — c8's distinction is the work rule, and this chunk's four *intelligentia* sites need no
+edit, being a Quaracchi *summarium*, the Douay quotations of Job 28:12 and Ecclus. 37:20, and the body
+echo of the Ecclesiasticus quotation it glosses (the printed text's own pun, preserved). ⚠ The two
+rules pull opposite ways on purpose: *pietas* is one Latin word needing one English root, so the Douay
+yields; *intelligentia* stands beside a contrasting Latin word, so the contrast is what must survive.
+The note below is the provisional reasoning that led there; it is superseded as to the disposition.
+
 ⭐ **The open register question gains a fourth member, and it points the same way as the third.**
 ¶ 17 quotes I Tim. 4:8, whose Douay wording is "godliness"; it is rendered **"but piety is profitable
 to all things,"** following c3's and c6's *pietas* → **piety** rather than c2's "godliness," so that

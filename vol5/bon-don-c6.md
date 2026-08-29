@@ -519,6 +519,9 @@ formula *fortis et strenua*). ⭐ **The open register question is now three memb
 *donum pietatis* as "the gift of godliness" against c3's and c6's "piety," and c5's and c6's
 "fortitude" — and it is still to be settled once for the whole work at the c9 close, not chunk by
 chunk.
+✅ **SETTLED AT THE WORK-CLOSE GATE, 2026-08-29 (Wilson's ruling): *pietas* → "piety" EVERYWHERE**,
+body prose and inside scripture quotations alike. c2's four sites moved to match this chunk and c3;
+"fortitude" stands. See repo `CLAUDE.md` § SEPTEM DONIS.
 
 **Marginalia** (Quaracchi's editorial outline, trimmed from the body, body order): Introductio. ·
 Repetitio. · Explicatio textus. · Continuatur et confirmatur. · Continuatur. · Divisio argumenti. ·

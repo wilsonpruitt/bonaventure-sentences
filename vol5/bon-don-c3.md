@@ -490,6 +490,11 @@ and no adverb for *impie* that survives in English; "piety / pious / impious / i
 visible root in every slot,** so the family wins over the catalogue word. ⭐ This should be settled
 one way for the whole work at the c9 close — either c2's four instances move to "piety", or a note
 records why the gift is named differently in its own collatio.
+✅ **SETTLED AT THE WORK-CLOSE GATE, 2026-08-29 (Wilson's ruling): c2's four instances MOVED to
+"piety."** This chunk's reasoning carried, and the rule is now *pietas* → **piety everywhere**, body
+prose and inside scripture quotations alike — the Douay's "godliness" is adjusted at Isaias 11:2 and
+I Tim. 4:8. ⚠ One correction to the sentence above: **three of c2's four were body prose, not three
+inside the Isaiah quotation** — only one was the quotation. See repo `CLAUDE.md` § SEPTEM DONIS.
 *reverentia venerationis divinae* → the reverence of divine veneration (kept as the double abstract
 Bonaventure builds the part on; not flattened to "reverent worship"). *custodia sanctificationis
 intrinsecae* → the guarding of inward sanctification. *superaffluentia / affluentia miserationis

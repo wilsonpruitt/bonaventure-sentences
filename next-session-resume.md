@@ -1,5 +1,109 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **THE WORK-CLOSE GATE IS CLOSED. THE ONLY THING LEFT IS THE PUSH AND THE DEPLOY, AND BOTH ARE WILSON'S.**
+> The *Collationes de septem donis Spiritus Sancti* is **COMPLETE — all NINE collationes Tier 2**,
+> pp. 457–503, 178 ¶¶, 403 apparatus entries. The **four-pass work-close polish gate ran
+> 2026-08-29 and closed CLEAN**; full log: `manual-review/vol5-septem-donis-workclose-gate.md`.
+>
+> ## ⛔ TWO PROTECTED ACTIONS OWED, IN THIS ORDER — NOTHING ELSE IS
+> 1. **Push.** `master` is ahead of `origin/master`; the push is Wilson's call.
+> 2. **Deploy.** The deploy boundary for this work *is* its close, so **prod still serves the
+>    2026-08-24 Hexaemeron deploy and this whole work is unpublished.** ⚠ That live-state line is
+>    DATED and expires — never restate prod from a note.
+>
+> **Do not start *De decem praeceptis* until the deploy lands.** Its Coll. I is at p. 507 per the
+> index; **only `~505` for its half-title is still an estimate** — fix it positively when it opens.
+>
+> ## ★★ THE TWO REGISTER QUESTIONS ARE SETTLED (Wilson, 2026-08-29) — do NOT reopen either
+> Both are stated in full in repo `CLAUDE.md` § SEPTEM DONIS and repeated in the Notes of c2, c3,
+> c6, c7 and c9. **They bind *De decem praeceptis*.**
+> 1. ***pietas* → "piety" EVERYWHERE**, body prose AND inside scripture quotations — so the Douay's
+>    "godliness" is adjusted at **Isaias 11:2** and **I Tim. 4:8**. c2's four sites were edited;
+>    c3, c6, c7 already conformed.
+> 2. ***intellectus* → understanding, *intelligentia* → intelligence in BODY PROSE**, with the
+>    Douay's "understanding" left standing inside a quotation. c8's distinction is the work rule and
+>    it cost **zero edits**.
+> ⚠⚠ **The two rulings pull opposite ways ON PURPOSE.** *pietas* is one Latin word needing one
+> English root, so the Douay yields; *intelligentia* stands beside a contrasting Latin word, so the
+> contrast must survive and the quotation is left alone. **The discriminator is whether the English
+> is carrying a Latin distinction — not whether the sentence is a quotation.** Do not flatten this
+> into "always follow the Douay" or "never."
+>
+> ## ★★ WHAT THE GATE ACTUALLY FOUND — a wrong TALLY, not a wrong text
+> ⚠ **Every note from c3 forward, and this resume file, said c2's four "godliness" sites were
+> "three of them inside the Douay wording of Isaiah 11:2." The truth is the INVERSE: one was the
+> Isaiah quotation, THREE were Bonaventure's own body prose.** c3 wrote it while making its own
+> (correct) decision; c6 and c7 quoted c3, c9 quoted c7, this file quoted c9, and **nobody between
+> c3 and the gate re-read c2.** It was never a Douay-fidelity question with a bit of spill — it was
+> a straight body-register inconsistency wearing a Douay costume.
+>
+> ⭐ **THE TRANSFERABLE RULE: A TALLY THAT IS COPIED FORWARD IS NOT A MEASUREMENT.** When a note
+> hands a count to the next chunk, the next chunk inherits the **question**, not the **number** —
+> and a gate re-derives every number it is asked to rule on. This is also the cleanest statement yet
+> of why the work-boundary gate exists: per-commit checks catch what is inconsistent *inside* a
+> chunk, and nothing but a reader with the whole work in view catches a claim every chunk agrees on
+> and none re-measured. Nine passes of clean tooling could not see it, because the defect was in the
+> reasoning about the text rather than in the text.
+>
+> ## Gate results in one line each (numbers to cite; full log in `manual-review/`)
+> - **Pass 1** — `check-live-flags.py`: **0 live flags** in c1–c9. Corpus 237 (vol1 150 · vol2 9 ·
+>   vol3 2 · vol4 66 · vol5 10). ★ **Vol V moved 2 → 10 since the Hexaemeron gate and every one of
+>   the eight is a formally ACCEPT-ILLEGIBLE printed defect** (broken Quaracchi type, editorial
+>   lacunae) in `brev-p6-c13` / `hex-c15` / `hex-c19` / `hex-c22` — **verified chunk by chunk, not
+>   inferred from the count.** The number rising is the discipline working.
+> - **Pass 2** — `polish-style-scan.py` over 2,075 chunks: this work **CLEAN**; corpus 11 issues /
+>   6 chunks, all pre-existing and all outside pp. 457–503 (`hex-c23`'s `51` label + the 10-item J4
+>   PAIR residue in Vols III–IV, unchanged since the Itinerarium gate). Not fixed — a gate here
+>   authorises no edit under `vol3/` or `vol4/`.
+> - **Pass 3** — **8 interior boundaries** (⚠ `seam-screen.py` sees only 6; it is blind to leaf
+>   crossings, so c1→c2 at 461|462 and c2→c3 at 467|468 were counted by hand). All 8 pass
+>   grammatical continuity; **0 tail-not-terminal suspects** across all 102 vol5 mid-page
+>   boundaries. All **47 pages** contiguous `1..N`, no gap, no double-claim, no unowned page.
+>   Digit-multiset sweep over all **403 entries**: 2 hits, **both the known word-numeral false
+>   positive**, 0 defects.
+> - **Pass 4** — **~967 MB reclaimed** (49 page images, 162 MB; colcrop bands, 805 MB). The vol5
+>   PDF was confirmed present before deleting, so every plate is regenerable.
+>
+> ## What outlives this work (carry into *De decem praeceptis*)
+> - **★ SIX SHARED LEAVES CONSECUTIVELY (473, 479, 483, 489, 493, 498) after two clean crossings** —
+>   the run that built the "shared leaf ⇒ hand-off" reflex p. 498 broke. Cause is structural: the
+>   unit is ~5.2 pages, i.e. **just over** a leaf. (Contrast the Itinerarium, where the unit was
+>   smaller than a leaf and *every* boundary was mid-page.) **Boundary shape is a function of unit
+>   size against leaf size — predict it, don't be surprised by it.**
+> - **★ A shared leaf forwards a runover only when the incoming unit's BODY reaches it** — now
+>   attested from both ends of the p. 498 seam and confirmed a third time by the page map
+>   (`498 → c8:1-9`, no c9 share). ★ **A Summarium can span two leaves** (498→499), neither anchored.
+> - **★ A span can be shared at BOTH ends** — c4, 473–479, register p. 473 n. 6 → p. 479 n. 1.
+> - **⚠ Gutter: a run outside 58–64 px means GO AND LOOK; it does not mean the default is wrong.**
+>   Both directions attested. Worst case measured: p. 502, an ordinary leaf with no heading and no
+>   inked centre rule, where the default was **~96 px wrong**.
+> - **⚠ NEVER ADOPT A DIGIT FROM THE RAW**, and **brackets are as corruptible as digits**.
+> - **`Libr. <roman>. <ch>, <v>` stands at ten attestations** (barrier engaged in
+>   `build-citations.py`); the cousin **`Epist. <roman>. <ch>, <v>` at four** (NOT covered by the
+>   barrier — it emits no record rather than a wrong one).
+> - **⚠ The scan, not the printing, can fail** (p. 502's smeared right column) — fix from the leaf's
+>   own apparatus + the Vulgate and LOG it; that is not a `[?]` case.
+> - **Body vs. Summarium: nine of nine agreed.** The c6/c14 short-Summarium mechanism never fired
+>   here; it is a property of the genre, not a spent one. **Count it every time.**
+>
+> ## ⚠ Still open elsewhere (none urgent, none mechanical, none this work's)
+> - **A scripture `ibid. <ch>, <v>` keeps the right BOOK but the stale VERSE** (c7, p. 492 n. 4).
+>   Corpus-wide existing behaviour, not a regression. **Wilson's call whether it earns a tool pass.**
+> - The About page's **"What Is Known to Be Wrong"** — Wilson's to frame; the Vol I
+>   cross-reference digit class is the strongest candidate.
+> - `bon-hex-c23`'s one non-page-qualified apparatus label (`51`).
+> - Vols I and IV's `[?]` backlog — 150 and 66 occurrences; a scoped job, not a gate's business.
+> - `d30-a1-q3`'s transposed `s`-series labels · `d37-p2-dubia` `[^6]`'s merged notes ·
+>   Book IV `d. 2. p. I.` cite · `prol-comm` p. 24 n. 2 (jointly impossible; flag stands).
+> - **Vols II–IV have never been swept** for the cross-reference digit class — and a clean grep
+>   would not prove them sound.
+> - **⛔ The Vol I page-gap hunt stays PARKED** (Wilson, 2026-08-24). Reopening trigger: a reader
+>   reports a gap. Nothing else.
+
+---
+
+> # (superseded) previous START HERE — front was the work-close gate, 2026-08-29
+
 > # ▶▶▶ START HERE — **THE WORK IS FINISHED. THE FRONT IS THE *SEPTEM DONIS* WORK-CLOSE GATE, AND IT NEEDS WILSON'S OK.**
 > The *Collationes de septem donis Spiritus Sancti* is **COMPLETE — all NINE collationes Tier 2**,
 > pp. 457–503, `bon-don-c9` landed 2026-08-29 (`5589a92`, pp. 498–503, 17 ¶¶, 40 apparatus entries,

@@ -517,6 +517,13 @@ Collatio IX (*intellectus* occurs only in ¶ 5's *descendit ... in intellectum*,
 which the c8 convention already covers). So the tally is unchanged — **c2 "godliness" against c3, c6,
 c7 "piety"** for *donum pietatis*, and c8's *intellectus/intelligentia*-against-the-Douay question —
 and both remain for the four-pass polish gate to settle **once, for the whole work.**
+✅ **BOTH WERE SETTLED THERE, 2026-08-29 (Wilson's ruling).** (1) ***pietas* → "piety" everywhere**,
+body prose and inside scripture quotations alike; c2's four sites were moved. ⚠ The tally above
+repeated a mischaracterisation carried forward from c3: **three of c2's four were body prose**, only
+one was the Isaiah 11:2 quotation. (2) ***intellectus* → understanding, *intelligentia* → intelligence
+in body prose, the Douay's "understanding" left standing inside a quotation** — c8's distinction is
+the work rule and needed no edit anywhere. ¶ 5's *intellectum* → **intellect** stands. See repo
+`CLAUDE.md` § SEPTEM DONIS and `manual-review/vol5-septem-donis-workclose-gate.md`.
 
 **Marginalia** (Quaracchi's editorial outline, trimmed from the body, body order): Introductio. ·
 Conditio 1. · Conditio 2. · Notandum. · Explicatur textus. · Sapientia deorsum est triplex. ·

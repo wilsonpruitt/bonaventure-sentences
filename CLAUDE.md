@@ -1,6 +1,6 @@
 # Bonaventure Sentences — Project Guide for Claude
 
-You are working on an English translation of **St. Bonaventure's *Opera Omnia*** (Quaracchi edition, 1882–1902). Status (2026-08-27): **Books I–IV are complete and published** (Vols I–IV, all Tier 2). The active front is **Vol V**, where the Breviloquium, Itinerarium, De reductione and the Collationes in Hexaemeron are all complete; the *Collationes de septem donis Spiritus Sancti* (pp. 457–**503**) is **COMPLETE 2026-08-29** and its work-close gate + deploy are the front; **next work = *De decem praeceptis*, half-title ~505**. The live site is https://bonaventure.wrootpress.com. Always defer to `next-session-resume.md` for the exact current position.
+You are working on an English translation of **St. Bonaventure's *Opera Omnia*** (Quaracchi edition, 1882–1902). Status (2026-08-27): **Books I–IV are complete and published** (Vols I–IV, all Tier 2). The active front is **Vol V**, where the Breviloquium, Itinerarium, De reductione and the Collationes in Hexaemeron are all complete; the *Collationes de septem donis Spiritus Sancti* (pp. 457–**503**) is **COMPLETE 2026-08-29**, its **work-close gate closed CLEAN 2026-08-29** (`manual-review/vol5-septem-donis-workclose-gate.md`), and the **push + deploy are the front, both protected**; **next work = *De decem praeceptis*, half-title ~505**. The live site is https://bonaventure.wrootpress.com. Always defer to `next-session-resume.md` for the exact current position.
 
 This file is loaded into every Claude Code session in this repo. Read it before making changes to translation files or the build pipeline.
 
@@ -283,7 +283,7 @@ Vols V–X (2026-07-28).**
 | 6 | **Itinerarium mentis in Deum** | 293–316 | `itinerarium` | 6 | **COMPLETE 2026-08-14 — all 10 chunks Tier 2; work-close gate + deploy due** |
 | 7 | **De reductione artium** | 319–325 | `de-reductione` | 7 | **COMPLETE 2026-08-14** |
 | 8 | **Collationes in Hexaemeron** | 327–454 | `hexaemeron` | 11 | **COMPLETE 2026-08-23 — 23 collationes + Scholion; gated + deployed 2026-08-24.** (It is in Vol V, not Vol VII as the old tracker claimed.) |
-| 9 | **Coll. de septem donis** | 455–**503** | `septem-donis` | 12 | **COMPLETE 2026-08-29 — all 9 collationes Tier 2; work-close gate + deploy due.** End fixed positively from `EXPLICIUNT` on p. 503. |
+| 9 | **Coll. de septem donis** | 455–**503** | `septem-donis` | 12 | **COMPLETE 2026-08-29 — all 9 collationes Tier 2; work-close gate CLOSED CLEAN 2026-08-29; deploy due.** End fixed positively from `EXPLICIUNT` on p. 503. |
 | 10 | Coll. de decem praeceptis | ~505–532 | `decem-praeceptis` | 13 | planned |
 | 11 | Sermones selecti | ~535–579 | `sermones-selecti` | 14 | planned |
 
@@ -732,6 +732,25 @@ English title: **"Collations on the Seven Gifts of the Holy Spirit."**
   `Epist. I. 2, 14.`). It currently produces **no ledger record at all** rather than a wrong
   one, so nothing is silently mis-bound; but the note's own primary citation is invisible to
   the index. Transcribe as printed and expect it again in c6–c9.
+- **★★ REGISTER SETTLED AT THE WORK-CLOSE GATE (2026-08-29, Wilson's ruling — the work's two
+  carried-forward questions, decided once for the whole work and binding on *De decem praeceptis*).**
+  1. ***pietas* → "piety" EVERYWHERE, body prose and inside scripture quotations alike.** The gift
+     keeps one visible English root across the work, so the Douay's "godliness" is adjusted at
+     **Isaias 11:2** (c2 ¶ 2) and **I Tim. 4:8** (c7 ¶ 17). This is the frozen corpus rule —
+     *"Scripture on the Douay-Rheims base **adjusted to Quaracchi's actual Latin**"* — doing its job:
+     Quaracchi prints *pietatis* and the collatio is titled *De dono pietatis*. Applied at the gate:
+     c2's four sites were changed (⚠ the resume note had the split backwards — **three of the four
+     were body prose**, only one was the Isaiah quotation); c3, c6 and c7 already conformed.
+  2. ***intellectus* → "understanding", *intelligentia* → "intelligence" in BODY PROSE; inside a
+     scripture quotation the Douay's "understanding" stands.** c8's distinction is the work rule,
+     because its ¶ 11 divides *intelligentia* into *memoria praeteritorum, intelligentia praesentium,
+     circumspectio futurorum* and that division collapses if both words share one English root.
+     **Zero edits were needed:** c7's four sites are a Quaracchi *summarium*, the Douay quotations of
+     **Job 28:12** and **Ecclus. 37:20**, and one body echo of the Ecclesiasticus quotation it
+     glosses — the printed text's own pun, deliberately preserved. ⚠ **The two rules pull opposite
+     ways on purpose:** *pietas* has ONE Latin word and needs one English root, so the Douay yields;
+     *intelligentia* has a CONTRASTING Latin word beside it, so the contrast is what must survive and
+     the quotation is left alone. Do not flatten either into "always follow the Douay."
 - **Cadence: ONE gate, at the work close** (49 pp, per the frozen table); deploy boundary =
   work close. **The shakedown trigger does not fire separately** — this is not a new
   register but the one the Hexaemeron just exercised over 128 pages, and its single
