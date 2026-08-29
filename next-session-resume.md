@@ -1,5 +1,100 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **THE FRONT IS `bon-don-c8` (Collatio VIII, *De dono intellectus*).**
+> The *Collationes de septem donis Spiritus Sancti* is open: mini-pilot frozen, **Collationes I–VII
+> are all Tier 2** (c7 on 2026-08-29). ⚠ **NOT YET PUSHED as of this note — check `git status` and
+> `git log origin/master..HEAD` first and push if anything is ahead.** The deploy boundary for this
+> work is its **close at c9**, so prod still serves the 2026-08-24 Hexaemeron deploy and nothing needs
+> to ship yet. ⚠ That live-state line is DATED and expires — never restate prod from a note.
+>
+> ## ⛔ READ BEFORE TOUCHING c8
+> - **★ c8 INHERITS p. 493 AND MUST NOT RESTART IT AT 1.** Collatio VII closes **mid-leaf on p. 493**,
+>   its ¶ 19 ending at the foot of the RIGHT column above the `COLLATIO VIII.` display heading; the
+>   heading, its subtitle *De dono intellectus.*, a full-measure Summarium and Collatio VIII's ¶ 1 fill
+>   the lower half of the same leaf. The leaf carries **seven** notes, left block nn. 1–3 and right
+>   block nn. 4–7. **Only n. 7 is c8's**; nn. 1–6 are Collatio VII's and are transcribed in
+>   `bon-don-c7`. n. 7 is already read off the band: `Psalm. 15, 7. — Seq. locus est Prov. 1, 5.`,
+>   anchoring at c8 ¶ 1's *qui tribuit mihi intellectum* ⁷. ⭐ Its second numeral was checked against
+>   the 1/4 class and **is `1`, not `4`** — the glyph carries the flag-topped `1` of `15` and `12` on
+>   the same line, and Prov. 1:5 is *Audiens sapiens sapientior erit,* which is the very sentence ¶ 1
+>   quotes. **A hand-off tells you which notes are yours, never where they land — re-derive the anchor
+>   off the band.** p. 493's leaf total (7) is already in `check-vol5-apparatus.py`'s `KNOWN_TOTALS`;
+>   the audit currently reports n. 7 as a legitimate PENDING, and c8 closes it.
+> - **★ c8's span is 493–?**, and its end must be fixed positively from `COLLATIO IX.` (raw L82381,
+>   index p. 498) on the band. **Never subtract one from the next collatio's index page** — FIVE
+>   consecutive index pages (473, 479, 483, 489, 493) have now proved to be SHARED.
+> - **★ p. 493's gutter is a REGION property and the default is catastrophically wrong there.**
+>   `colcrop`'s default returns **1532 on a 1 px run** and prints its own `⚠ WEAK RUN` warning, because
+>   the leaf stacks four regions (two-column body · display heading + subtitle · full-measure
+>   Summarium · two-column body). Rows 0.55–0.92 return **no low-ink column at all.** c7 measured the
+>   UPPER region (rows 0.08–0.38) at **1183**; **c8 must measure its own LOWER region separately** and
+>   must not carry 1183 down the leaf. **Gutters measured in c7:** 489 = 1176 (confirming c6's) ·
+>   490 = **1383** · 491 = **1152** · 492 = **1419** · 493 (upper region) = **1183**.
+> - **⭐ A sub-60 px run is a trigger to check, not a verdict — c6's faded-leaf rule has a negative
+>   case now.** p. 490 measured 1383 on a **46 px** run and is also the faintest full leaf of the span
+>   (mean row ink 104 at thresh 110 against p. 489's 195), so it looked exactly like c6's starved
+>   threshold. Re-profiling at thresh 140/160/180 **reproduced the default** — 1381–1385 across every
+>   threshold and every window. **Screen for the faded-leaf mechanism, but do not assume it; a narrow
+>   run and a starved threshold look alike and only re-profiling tells them apart.**
+> - **⚠ NEVER ADOPT A DIGIT FROM THE RAW.** c7 corrected four, all of the **3/5 class**, none of the
+>   1/4 class: the Summarium reads `De aliis bonis consiliariis, 15. 16.` (raw `13. 16.` — predicted by
+>   the c6 note and confirmed); p. 491 n. 1 reads `Exod. 25, 18.` (raw `23`); p. 492 n. 7 reads
+>   `Ps. 65, 15` (raw `63`); p. 493 n. 2 reads `c. 6, 25. 30. et 31.` (raw `23`). All four were settled
+>   by sense as well as by the plate.
+> - **⭐ The `Libr. <roman>. <ch>, <v>` genre trait FIRED AGAIN — nine attestations now, not eight.**
+>   p. 493 n. 4 is `Libr. I. 5, 3.` for I Esdras 5:3, the book named only in the body
+>   (*dicitur in Esdra*). `build-citations.py`'s barrier is engaged and the ledger records it as
+>   `book-unnamed / unresolvable`, which is the designed behaviour — verified in `index/citations.tsv`.
+>   ⚠ The cousin `Epist. <roman>. <ch>, <v>` did NOT fire in c7; three attestations still stand.
+> - **⚠ Two footer notes set on one line — FOURTH attestation, and it decided a reading.** p. 490's
+>   n. 2 ends flush left and **n. 3 (`Cap. 8, 12.`) is set flush right on that same line.** Read by
+>   line, n. 3 vanishes and the left block looks like three notes. **Read a footer block by numeral,
+>   never by line.**
+> - **⚠ The running head names the collatio that BEGINS on a shared leaf, not the one that opens it.**
+>   Three attestations in a row now (p. 483, p. 489, p. 493). Fix every span from the display heading
+>   on the band, never from the running head.
+> - **Count the body against the Summarium, every time.** c1 (18/18), c2 (21/21), c3 (19/19),
+>   c4 (25/25), c5 (15/15), c6 (24/24) and c7 (19/19) have all agreed. c8's Summarium ends at **20.**
+>   The c6/c14 short-Summarium mechanism has not fired in this work yet; it is a property of the genre,
+>   not a spent one.
+> - **⛔ `COLLATIO I.` CARRIES NO APPARATUS ANCHOR, and the question is CLOSED.** Do not reopen it.
+>
+> ## ⭐ One register question to settle at the c9 close, not before — now with FOUR members
+> c3, c6 and now **c7** render *pietas* as **piety** (c7 at p. 492 n. 6's I Tim. 4:8, where the Douay
+> wording is "godliness" and the objector is mocking the friars). Against them, c2 rendered
+> *donum pietatis* "the gift of **godliness**" in four incidental places, three of them inside the
+> Douay wording of Isaiah 11:2. c5 and c6 render *fortitudo* → **fortitude** in body and Douay alike.
+> **Settle it one way for the whole work at the close** — either c2's four move, or a note records why
+> a gift is named differently in its own collatio. Do not churn it chunk by chunk. The tally is now
+> **c2 "godliness" against c3, c6, c7 "piety."**
+>
+> ## Cadence for this work
+> **ONE gate, at the work close (c9).** The shakedown trigger does not fire separately. **Deploy
+> boundary = work close.** Plates per collatio, never in bulk.
+>
+> ## ⚠ Still open elsewhere (none urgent, none mechanical)
+> - **NEW (c7): a scripture `ibid. <ch>, <v>` keeps the right BOOK but the stale VERSE.** p. 492 n. 4's
+>   `Seq. locus est ibid. 32, 22` records as `Eccli 37:9`. This is corpus-wide existing behaviour, not
+>   a c7 regression (`bon-don-c3` p. 468 n. 4's `ibid. 22, 1` does the same), and the barrier
+>   `build-citations.py` documents was built against the wrong-BOOK failure, which it still prevents.
+>   Recorded, not repaired. **Wilson's call whether it is worth a tool pass.**
+> - ✅ **CLOSED (c7): `I. Petri` / `II. Petri` were not in the abbrev table** and produced no ledger
+>   record. Added to `tools/scripture-books.json`; the rebuild recovered four scripture citations
+>   corpus-wide (A 7209 → 7213) and changed nothing else.
+> - The About page's **"What Is Known to Be Wrong"** — Wilson's to frame; the Vol I
+>   cross-reference digit class is the strongest candidate.
+> - `d30-a1-q3`'s transposed `s`-series labels · `d37-p2-dubia` `[^6]`'s merged notes ·
+>   Book IV `d. 2. p. I.` cite · `prol-comm` p. 24 n. 2 (jointly impossible; flag stands).
+> - **Vols II–IV have never been swept** for the cross-reference digit class — and a clean grep
+>   would not prove them sound.
+> - `bon-hex-c23` carries one non-page-qualified apparatus label (`51`), flagged by polish-style-scan.
+> - **⛔ The Vol I page-gap hunt stays PARKED** (Wilson, 2026-08-24). Reopening trigger: a reader
+>   reports a gap. Nothing else.
+
+---
+
+> # (superseded) previous START HERE — front was `bon-don-c7`, 2026-08-29
+
 > # ▶▶▶ START HERE — **THE FRONT IS `bon-don-c7` (Collatio VII, *De dono consilii*).**
 > The *Collationes de septem donis Spiritus Sancti* is open: mini-pilot frozen, **Collationes I–VI
 > are all Tier 2** (c6 on 2026-08-28). ✅ **PUSHED 2026-08-29 — `origin/master` = `57066fd`,
