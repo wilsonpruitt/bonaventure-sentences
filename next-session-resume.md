@@ -1,5 +1,100 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **THE FRONT IS `bon-don-c9` (Collatio IX, *De dono sapientiae*) — THE LAST CHUNK OF THE WORK.**
+> The *Collationes de septem donis Spiritus Sancti* is open: mini-pilot frozen, **Collationes I–VIII
+> are all Tier 2** (c8 on 2026-08-29). ⬜ **NOT PUSHED — `921cc39` is committed locally and
+> `origin/master` is behind. The push is Wilson's to authorise.**
+> The deploy boundary for this work is its **close at c9**, so prod still serves the 2026-08-24
+> Hexaemeron deploy. ⚠ That live-state line is DATED and expires — never restate prod from a note.
+>
+> ## ⛔ READ BEFORE TOUCHING c9
+> - **★★ c9 INHERITS NOTHING. p. 498's REGISTER IS ENTIRELY c8's — this is the first shared leaf in
+>   the work that forwards no note, and it is a NEW RULE, not an exception.** Collatio VIII closes
+>   mid-leaf on p. 498, and the `COLLATIO IX.` display heading, its subtitle *De dono sapientiae.*
+>   and Collatio IX's full-measure Summarium fill the lower half of that leaf — **but Collatio IX's
+>   ¶ 1 does not begin until p. 499.** The leaf's nine notes all answer to Collatio VIII anchors, and
+>   the Summarium is unanchored (verified again on the plate at c8). **A shared leaf implies a
+>   runover only when the incoming unit's BODY reaches the leaf.** c9 must open p. 498 expecting
+>   nothing, must NOT read any of its nine notes as its own, and must NOT restart p. 499 at anything
+>   but 1. p. 498's leaf total (9) is already in `check-vol5-apparatus.py`'s `KNOWN_TOTALS` and the
+>   audit passes clean today.
+> - **★ c9's span is 498–?** — it OWNS p. 498's heading, subtitle and Summarium even though it owns
+>   none of its footer — **and its end must be fixed positively from `EXPLICIUNT COLLATIONES DE DONIS
+>   SPIRITUS S.` (raw L83126) on the band, then from *De decem praeceptis*'s half-title.** The work
+>   map's "~503" and "~505" are ESTIMATES and c9 is where they get fixed. Six consecutive index pages
+>   (473, 479, 483, 489, 493, 498) have now proved to be SHARED.
+> - **★ p. 498's gutter is a REGION property.** The default returns **1294 on a 13 px run** and the
+>   skew screen reports 210 px of apparent drift with slices 0.51/0.68 outlying — a stacked region,
+>   not skew. c8 measured the **UPPER** region (rows 0.06–0.52) at **1306**; **c9 must measure its own
+>   LOWER region separately** and must not carry 1306 down the leaf. **Gutters measured in c8:**
+>   493 (lower) = 1180 · 494 = **1352** · 495 = **1160** · 496 = 1387 · 497 = 1223 · 498 (upper) = 1306.
+> - **⭐ A run ABOVE the 58–64 px band is a trigger too, and c8 has the fresh case.** p. 495's default
+>   was 1154 on a **74 px** run; the ink profile returned band 1129–1191, **midpoint 1160**, and 1160
+>   is what was used. Meanwhile p. 494's **54 px** run was step-(3)'d and the default was CONFIRMED —
+>   the profile found a 14 px centre-rule island inside the band, the frozen "heavily inked rule"
+>   case. **Narrow and wide both mean go and look; neither means the default is wrong.**
+> - **⚠ NEVER ADOPT A DIGIT FROM THE RAW.** c8 corrected four, all of the **3/5 class**, none of the
+>   1/4 class — the third collatio running in which every correction was 3/5: p. 494 n. 6 reads
+>   `(pag. 154)` (raw `134`); p. 494 n. 9 reads `Epist. II. Cor. 10, 5` (raw `10, 3`); p. 495 n. 10
+>   reads `Ps. 35, 10` (raw `33`); p. 498 n. 8 reads `Sap. 9, 15` (raw `9, 13`). Three of the four
+>   were settled by sense as well as by the plate. ⚠ **The raw also closes a PARENTHESIS in the wrong
+>   place** (p. 494 n. 8: raw `(alias 234. de Tempore;` where the plate closes after *Tempore*) —
+>   brackets are as corruptible as digits.
+> - **⭐ The `Libr. <roman>. <ch>, <v>` genre trait FIRED AGAIN — ten attestations now.** p. 498 n. 2
+>   is `Libr. II. 7, 28.` for II Machabees 7:28, the book named only in the body (*in libro
+>   Machabaeorum*). `build-citations.py`'s barrier is engaged as designed. ⚠ The cousin `Epist.
+>   <roman>. <ch>, <v>` did NOT fire in c8; three attestations still stand.
+> - **⚠ Two footer notes set on one line — FIFTH attestation.** p. 495's n. 3 (`Psalm. 48, 13.`) ends
+>   flush left and n. 4 (`Prov. 2, 3-5.`) is set flush right on that same line. **Read a footer block
+>   by numeral, never by line.**
+> - **⚠ The running head names the collatio that BEGINS on a shared leaf, not the one that opens it.**
+>   Four attestations in a row now (pp. 483, 489, 493, 498). Fix every span from the display heading.
+> - **Count the body against the Summarium, every time.** c1 (18/18) … c8 (20/20) have all agreed,
+>   eight for eight. The c6/c14 short-Summarium mechanism has not fired in this work yet; it is a
+>   property of the genre, not a spent one.
+> - **⛔ `COLLATIO I.` CARRIES NO APPARATUS ANCHOR, and the question is CLOSED.** Do not reopen it.
+> - **⚠ The registry had been missing Collatio VII's division title** — the site was rendering it
+>   untitled. c8 added **both** VII (*De dono consilii*) and VIII (*De dono intellectus*) to
+>   `site/scripts/build-content.mjs`. **Add IX's at c9, against the in-place subtitle on p. 498
+>   (`De dono sapientiae.`), and check the registry before assuming a predecessor filled it in.**
+>
+> ## ⭐ TWO register questions to settle at the c9 close — the second is NEW
+> 1. ***pietas*, four members.** c3, c6 and c7 render it **piety**; c2 rendered *donum pietatis* "the
+>    gift of **godliness**" in four incidental places, three of them inside the Douay wording of
+>    Isaiah 11:2. Tally: **c2 "godliness" against c3, c6, c7 "piety."**
+> 2. **NEW (c8): *intellectus* / *intelligentia* against the Douay.** c8 holds them apart in the body
+>    — *intellectus* → **understanding**, *intelligentia* → **intelligence** — because ¶ 11 divides
+>    *intelligentia* into *memoria praeteritorum, intelligentia praesentium, circumspectio futurorum*,
+>    which collapses if both share one English root. But **inside quotations the Douay renders
+>    *intelligentia* "understanding"** (Wisdom 5:6's *sol intelligentiae*, Job 28:28's *prudentia* for
+>    the Vulgate's *intelligentia*, Daniel 8:15's *quaererem intelligentiam* as "sought the meaning").
+>    So the same Latin word is Englished two ways three lines apart. **This is the same SHAPE as the
+>    *pietas* question — body register vs. Douay wording — and should be settled with it, once, for
+>    the whole work.** Do not churn either chunk by chunk.
+>
+> ## Cadence for this work
+> **ONE gate, at the work close (c9).** The shakedown trigger does not fire separately. **Deploy
+> boundary = work close** — so c9 is followed by the four-pass polish gate AND the deploy, and both
+> need Wilson's explicit OK. Plates per collatio, never in bulk.
+>
+> ## ⚠ Still open elsewhere (none urgent, none mechanical)
+> - **A scripture `ibid. <ch>, <v>` keeps the right BOOK but the stale VERSE** (c7, p. 492 n. 4).
+>   Corpus-wide existing behaviour, not a regression; recorded, not repaired. **Wilson's call whether
+>   it is worth a tool pass.**
+> - The About page's **"What Is Known to Be Wrong"** — Wilson's to frame; the Vol I
+>   cross-reference digit class is the strongest candidate.
+> - `d30-a1-q3`'s transposed `s`-series labels · `d37-p2-dubia` `[^6]`'s merged notes ·
+>   Book IV `d. 2. p. I.` cite · `prol-comm` p. 24 n. 2 (jointly impossible; flag stands).
+> - **Vols II–IV have never been swept** for the cross-reference digit class — and a clean grep
+>   would not prove them sound.
+> - `bon-hex-c23` carries one non-page-qualified apparatus label (`51`), flagged by polish-style-scan.
+> - **⛔ The Vol I page-gap hunt stays PARKED** (Wilson, 2026-08-24). Reopening trigger: a reader
+>   reports a gap. Nothing else.
+
+---
+
+> # (superseded) previous START HERE — front was `bon-don-c8`, 2026-08-29
+
 > # ▶▶▶ START HERE — **THE FRONT IS `bon-don-c8` (Collatio VIII, *De dono intellectus*).**
 > The *Collationes de septem donis Spiritus Sancti* is open: mini-pilot frozen, **Collationes I–VII
 > are all Tier 2** (c7 on 2026-08-29). ✅ **PUSHED 2026-08-29 — `origin/master` = `a81bbbf`,
