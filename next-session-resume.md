@@ -2,8 +2,8 @@
 
 > # ▶▶▶ START HERE — **THE FRONT IS `bon-don-c9` (Collatio IX, *De dono sapientiae*) — THE LAST CHUNK OF THE WORK.**
 > The *Collationes de septem donis Spiritus Sancti* is open: mini-pilot frozen, **Collationes I–VIII
-> are all Tier 2** (c8 on 2026-08-29). ⬜ **NOT PUSHED — `921cc39` is committed locally and
-> `origin/master` is behind. The push is Wilson's to authorise.**
+> are all Tier 2** (c8 on 2026-08-29). ✅ **PUSHED 2026-08-29 — `origin/master` = `c4372d6`,
+> 0 ahead, tree clean. NOTHING IS OWED.**
 > The deploy boundary for this work is its **close at c9**, so prod still serves the 2026-08-24
 > Hexaemeron deploy. ⚠ That live-state line is DATED and expires — never restate prod from a note.
 >
