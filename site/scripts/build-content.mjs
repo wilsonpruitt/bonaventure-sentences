@@ -356,9 +356,28 @@ const WORKS = {
       9: "Collatio IX: De dono sapientiae",
     },
   },
+  // The third reportatio: seven collationes, pp. 507-532, and NO work-level
+  // Scholion (the index lists none, and the plate confirms it - the same
+  // answer as the septem donis). The collatio is the chunk unit, settled by
+  // the volume index and by Quaracchi's citation practice, NOT by an anchor:
+  // `COLLATIO I.` on p. 507 carries NO apparatus anchor, read at 4x. Two
+  // works running now answer this way, so the Hexaemeron's anchored heading
+  // is the exception in Vol V, not the rule. Division titles added one at a
+  // time, each verified against the in-place printed subtitle.
+  // See manual-review/decem-praeceptis-pilot-scouting.md.
+  "decem-praeceptis": {
+    book: 13,
+    tome: 5,
+    title: "Collationes de decem praeceptis",
+    initial: "P",
+    divisionLabel: "Collationes",
+    divisions: {
+      1: "Collatio I: De quatuor motivis ad observantiam divinorum praeceptorum inducentibus et de decalogo in genere",
+    },
+  },
   // Future Vol V works claim book ids here as their mini-pilots run:
   // scientia-christi: 8, mysterio-trinitatis: 9,
-  // perfectione-evangelica: 10, decem-praeceptis: 13, sermones-selecti: 14.
+  // perfectione-evangelica: 10, sermones-selecti: 14.
 };
 
 function buildWorkChunkTitle(meta) {
@@ -375,7 +394,11 @@ function buildWorkChunkTitle(meta) {
   if (meta.workSlug === "itinerarium") return `Cap. ${meta.division}`;
   // Flat works whose division is the collatio (Hexaemeron, and the two
   // Collationes sets when they land).
-  if (meta.workSlug === "hexaemeron" || meta.workSlug === "septem-donis")
+  if (
+    meta.workSlug === "hexaemeron" ||
+    meta.workSlug === "septem-donis" ||
+    meta.workSlug === "decem-praeceptis"
+  )
     return `Coll. ${meta.division}`;
   // Breviloquium-style: "Pars 3, Cap. 4".
   const parts = [`Pars ${meta.division}`];

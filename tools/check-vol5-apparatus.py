@@ -2020,6 +2020,31 @@ KNOWN_TOTALS = {
               # Gutter 1147: the whole-leaf profile returns a 32 px island because the default
               # window straddles body, EXPLICIUNT line and register; re-profiled over rows
               # 0.10-0.55 the default is CONFIRMED (band 1118-1176, midpoint 1147).
+
+    # --- Collationes de decem praeceptis (the third reportatio, pp. 507-532) ---
+    507: 6,   # OPENING LEAF. block 2/4, anchors 2/4. COLLATIO I. carries NO apparatus
+              # anchor (4x). The left footer holds only TWO notes: the OCR reads an em-dash
+              # inside n. 2 as a third marker, but on the plate the codex-C addition
+              # "Et multum convenienter praemittitur motivum" is the SECOND HALF OF n. 2.
+              # Gutter 1157 adopted per the mini-pilot (colcrop gives 1178 on a 15 px run --
+              # the stacked heading + subtitle + Summarium failure).
+    508: 8,   # block 6/2, anchors 6/2. n. 1 is Cap. 14, 15. et 16. (raw "U, 13."); n. 5 is
+              # Cap. 26, 14. et 16 (raw "26, U."); n. 6 is Psalm. 37, 11. (raw "37, M.");
+              # n. 8 is Matth. 25, 41 (raw "25, il"). Four raw digits, four corrections.
+              # Gutter 1418 measured clean on a 56 px run.
+    509: 9,   # block 8/1, anchors 8/1. n. 3 is `Epist. I. 5, 3.` -- the cousin shape the
+              # build-citations barrier does NOT cover (the body names John aloud).
+              # n. 8's long Augustine block carries I. Cor. 15, 27. and [Rom. 8, 35.]
+              # (raw "13, 27" and "8, 33"). n. 9 is Libr. I. Confess., which NAMES its work.
+              # Gutter 1285 measured clean on a 59 px run.
+    510: 7,   # SHARED LEAF -- and it forwards NOTHING. All seven notes are Collatio I's;
+              # COLLATIO II's heading and Summarium stand on this leaf but its numbered
+              # body does not begin until p. 511, so the p. 498 rule governs. block 3/4.
+              # n. 1 is Hexaem. collat. 4. n. 19 (raw "collat. i."). ⚠ n. 3's
+              # "supra pag. 121, nota 3" reads as 124 at 1.3x -- re-read at 4x, it is 121.
+              # Gutter 1298: colcrop's 16 px run is the loud value, but two row windows
+              # clearing the COLLATIO II block (0.15-0.55, 0.20-0.60) return a 58 px band
+              # 1270-1327 with the SAME midpoint 1298. Default confirmed.
 }
 
 
