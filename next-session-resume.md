@@ -1,5 +1,90 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **`bon-praec-c2` IS LANDED. THE FRONT IS `bon-praec-c3`.**
+> Collatio II of the *Collationes de decem praeceptis*, **pp. 510–515**, Tier 2, built
+> 2026-08-30. 29 numbered ¶¶, **32 apparatus entries** (510 none · 511 six · 512 eight ·
+> 513 nine · 514 six · 515 three), **zero `[?]` flags**. Registry division 2 went in with
+> it. Conventions: repo `CLAUDE.md` § **DECEM PRAECEPTIS** — that block is authoritative,
+> this is a pointer. **NOTHING IS OWED and nothing is gated.** One gate only, at the work close.
+>
+> ## ⛔⛔ TWO BOUNDARIES, TWO OPPOSITE ANSWERS, ONE TEST — THIS IS THE FINDING
+> c1 measured **boundary 1 (p. 510): forwards NOTHING.** c2 measured **boundary 2
+> (p. 515): FORWARDS.** p. 515's register splits — **nn. 1–3 are Collatio II's, nn. 4–5
+> are Collatio III's** — because Collatio III's numbered ¶ 1 *does* begin on that leaf,
+> where Collatio II's did not begin on p. 510. **Same rule (p. 498), opposite answers.**
+> ⭐ So the pilot's "expect a hand-off at all six" is now known to be wrong at one
+> boundary and right at the next. **Neither answer may be copied forward.** Re-ask it on
+> the plate at pp. 519, 522, 525, 529 — read anchors, only anchors.
+> ⚠ c2 also confirmed the running-head rule at BOTH its ends: p. 510's head reads
+> `COLLATIO II.` above four columns of Collatio I, p. 515's reads `COLLATIO III.` above
+> two columns of Collatio II. **A running head is not evidence of who owns the top of a page.**
+>
+> ## ▶ FRONT = `bon-praec-c3` — Collatio III, **pp. 515–519**, shared at BOTH ends
+> `work: decem-praeceptis`, `division: 3`, `type: collatio`, book id 13.
+> Display heading at raw **L84397**; the next real bare header (`COLLATIO IV`) is at
+> **L85022**. Index subtitle to verify in place, word for word: *De secundo praecepto
+> decalogi.* Expect **~26–32 apparatus entries**, ~7 footer notes per page.
+> ⛔ **RECEIVES A HAND-OFF: p. 515 nn. 4 and 5 are yours.** n. 4 is `Exod. 20, 7. — Seq.
+> locus est Ps. 118, 125. 127. et 128. Cfr. III. Sent. d. 37. dub. 2.` answering ¶ 1's
+> *Non assumes nomen Dei tui in vanum;* n. 5 is `Hanc sententiam non invenimus in Gregorio.
+> Similis allegatur supra in Hexaëm. collat. 19. n. 16. — Subinde respicitur Matth. 19, 17:
+> Si autem vis ad vitam ingredi, serva mandata.` **Both read off the 450 dpi footer band at
+> 2.6×, not from a whole-page read.** **Do not restart p. 515's
+> register at 1** — c2 owns 1–3 and `check-vol5-apparatus.py` already records the leaf as
+> holding 5 and prints `PENDING n.4,5` until you write them.
+> **Makes a hand-off at p. 519 only if Collatio IV's numbered body reaches that leaf.**
+> ⚠ **Gutter p. 515 = 1258, NOT colcrop's 1274.** colcrop returns 1274 on a **1 px run** —
+> the stacked-region failure, because the `COLLATIO III.` heading + subtitle + Summarium
+> cross the gutter at ~65–73 % down the leaf. Four windows over rows 0.09–0.33 give a
+> clean 64 px band 1227–1290. **Your region is BELOW that block, so profile it separately
+> — do not reuse c2's upper-region value without re-measuring.**
+> ⚠ **A Summarium can span two leaves and both halves are unanchored** — Collatio II's did
+> (510→511), as Collatio IX's did in the *septem donis* (498→499). Count the body on the plate.
+>
+> ## ★ WHAT c2 CONFIRMED (do not re-litigate)
+> 1. **`COLLATIO II.` carries NO apparatus anchor**, and neither half of its Summarium does.
+>    **Three works running now answer this way.** Do not go looking for one.
+> 2. **Four raw digits were wrong and the plate caught all four** — p. 512 n. 2
+>    `collat. 8. n. 4` (raw `n. l.`), p. 512 n. 8 `in Ps. 69` (raw `Ps. C9.`), p. 513 n. 8
+>    `Psalm. 95, 5` (raw `93`, and 95:5 is the verse ¶ 20 quotes), p. 514 n. 6
+>    `sub n. 104.` (raw `101.`). **Never adopt a digit from the raw.**
+> 3. **⚠ A NEW HAZARD CLASS: a footnote can run over onto the NEXT PAGE's footer block.**
+>    p. 512 n. 8's last two lines are set at the head of **p. 513's** register, above
+>    p. 513's own n. 1. **This is a register runover, not a hand-off** — reading it as
+>    p. 513's would have invented a spurious tenth entry there. Ledgered as `p.512 n.8:page`.
+> 4. **A marginale can be PRINTED INCOMPLETE.** p. 512 ¶ 9's reads `Duplex no-` and nothing
+>    follows (read at 3× and 4×; blank line beneath, well inside the trimmed edge).
+>    Transcribed as printed, not completed.
+> 5. Gutters: 511 **1263** and 512 **1302** clean as returned; 513 **1213** (48 px run →
+>    inked-rule case, profile confirms midpoint 1212); 514 **1290** (52 px run → 15 px SKEW
+>    walk, not a rule; one split suffices); 515 **1258** (see above).
+> 6. **32 entries is two above the pilot's 26–30 band, and legitimately so** — that band was
+>    ~7 notes × ~3.7 pages, and this collatio spans six leaves and owns register on five.
+>    **Treat the band as an estimate, not a gate.**
+>
+> ## Register — two rulings bind; the third is CARRIED; and c2 made ONE disclosed departure
+> ***pietas* → piety everywhere** (does not occur in c2) · ***intellectus* → understanding,
+> *intelligentia* → intelligence in body prose** · ▶ ***praeceptum* → precept · *mandatum* →
+> commandment · *lex* → law**, following c1, **carried not settled.**
+> ⛔ **c2 DEPARTED from the *intellectus* rule at ONE site and says so out loud.** ¶ 25's
+> *unus intellectus sit in omnibus* is the Averroist unity-of-the-intellect thesis and is
+> rendered **"one intellect in all"** — "one understanding in all" would not name the
+> doctrine Bonaventure is condemning. ¶¶ 24/26's *perverso intellectu sacrae Scripturae*
+> keep **"understanding"**; ¶¶ 2 and 5's *intelligentia* keep **"intelligence"** at the
+> usual idiomatic cost. **The rule was NOT reopened.** The gate must either ratify the
+> substantival exception or reverse that one rendering. **Follow c2 for consistency until it does.**
+>
+> ## Cadence
+> **ONE gate, at the work close** (26 pp); the shakedown trigger does not fire separately.
+> **Deploy boundary = work close** — nothing deploys until all seven land. Plates per
+> collatio, never in bulk.
+> ⚠ Prod currently serves the *septem donis* deploy of 2026-08-29. **That line is DATED —
+> never restate prod from a note; check it.**
+
+---
+
+> # (superseded) previous START HERE — the front was `bon-praec-c2`, 2026-08-29
+
 > # ▶▶▶ START HERE — **`bon-praec-c1` IS LANDED. THE FRONT IS `bon-praec-c2`.**
 > Collatio I of the *Collationes de decem praeceptis*, **pp. 507–510**, Tier 2, built
 > 2026-08-29. 24 numbered ¶¶, **30 apparatus entries** (507 six · 508 eight · 509 nine ·

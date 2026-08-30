@@ -805,6 +805,35 @@ columns. **Body extent pp. 507–532 = 26 printed pages.** Raw band **L83158 →
   be re-asked on the plate at each of the remaining five.** Do not let "six shared
   pages" harden into "six hand-offs" — that is a tally copied forward, the exact defect
   the *septem donis* work-close gate caught.
+  ⭐⭐ **MEASURED AT BOUNDARY 2 (`bon-praec-c2`, 2026-08-30): p. 515 FORWARDS. The two
+  boundaries answer OPPOSITE ways under ONE test, and that settles how the remaining four
+  are to be read.** p. 515's register splits — **nn. 1–3 are Collatio II's** (n. 1 answers
+  ¶ 28's *dicit Ieremias,* n. 3 answers ¶ 29's *dicit Propheta*), **nn. 4–5 are Collatio
+  III's** — because Collatio III's numbered ¶ 1 *does* begin on that leaf, where Collatio
+  II's did not begin on p. 510. **Same p. 498 rule, opposite outcomes, and the heading was
+  present on both leaves.** ⛔ So neither answer may be copied forward: **re-ask it on the
+  plate at pp. 519, 522, 525, 529**, and read anchors, only anchors. ⭐ c2 also confirmed
+  the p. 498 rule from the RECEIVING side at boundary 1: it opened p. 510 expecting
+  nothing, read none of that leaf's seven notes as its own, and restarted at p. 511 n. 1
+  legitimately.
+- **⚠ NEW HAZARD CLASS, found at `bon-praec-c2`: A FOOTNOTE CAN RUN OVER ONTO THE NEXT
+  PAGE'S FOOTER BLOCK, AND THAT IS NOT A HAND-OFF.** p. 512 n. 8 (Augustine, *Enarrat. in
+  Ps.* 69) begins in p. 512's register and its last two lines are set at the head of
+  **p. 513's** footer block, above p. 513's own n. 1. The note belongs to p. 512's sequence
+  throughout; reading the runover as p. 513's would have invented a spurious tenth entry
+  there and shifted every subsequent number on the leaf. **Distinguish the two: a hand-off
+  moves OWNERSHIP between chunks and is decided by the body anchor; a register runover is
+  one note's TEXT continuing across a page break and changes no numbering at all.**
+  Ledgered as `p.512 n.8:page`.
+- **⚠ A MARGINALE CAN BE PRINTED INCOMPLETE.** p. 512's marginale at ¶ 9 reads **`Duplex
+  no-`** and nothing follows — read at 3× and 4×, the line beneath is blank and the
+  marginale sits well inside the trimmed edge, so it is the printing, not the scan or the
+  crop. The intended reading is evidently *Duplex notitia.* **Record it as printed and say
+  so; do not silently complete it.**
+- **The `~26–30 apparatus entries` figure is an ESTIMATE, not a gate.** `bon-praec-c2`
+  returned **32**, and legitimately: the band was derived as ~7 notes × ~3.7 printed pages,
+  while c2 spans six leaves and owns register on five of them. A count outside the band is
+  a prompt to recount on the plate, never a defect on its own.
 - **★★ THE RUNNING HEAD NAMES THE COLLATIO THAT BEGINS MID-PAGE — NEW HERE, AND IT IS THE
   PRINTING, NOT THE OCR.** On all six shared pages the running head is already set to the
   *incoming* collatio while the top of the page is still the outgoing one's text (p. 510's
@@ -839,6 +868,16 @@ columns. **Body extent pp. 507–532 = 26 printed pages.** Raw band **L83158 →
   and at every mid-page opening too** (which here is all six); per the p. 473/p. 479
   precedent, **profile above and below only when the mid-page heading falls inside the
   default 45–92 % window.**
+  ⚠ **Two more leaves in this work defeat the default, and in two different ways
+  (`bon-praec-c2`).** p. 513's 48 px run is the frozen **inked-rule** case — the profile
+  finds a 13 px centre-rule island (peak 466) inside band 1186–1238, midpoint 1212, and
+  24 windows agree within 3 px, so the default **1213** is confirmed, not corrected.
+  p. 514's 52 px run is **SKEW** — the screen shows the gutter walking 15 px down the leaf;
+  one split still suffices (max left 1262 < min right 1309) and **1290** stands. **Escalate
+  on a narrow run, then let the skew screen say WHICH failure it is before adopting
+  anything.** p. 515 is the stacked-region case again — a **1 px** run, corrected to
+  **1258** by profiling only the rows above the mid-leaf `COLLATIO III.` block; ⛔ note that
+  c3's region is *below* that block, so **c2's value must be re-measured, not reused.**
 - **★ REGISTER: THE TWO *SEPTEM DONIS* RULINGS BIND, UNCHANGED** — *pietas* → "piety"
   everywhere; *intellectus* → understanding / *intelligentia* → intelligence in body prose,
   with the Douay's "understanding" left standing inside a quotation. Stated in full in
@@ -861,6 +900,19 @@ columns. **Body extent pp. 507–532 = 26 printed pages.** Raw band **L83158 →
   "understanding" standing untouched in the Psalm 118:100 quotation two lines above.
   The rule worked exactly as written; it is simply the first place where the required
   word is the less idiomatic one. **c1 made no edit and did not reopen it.**
+  ⛔ **`bon-praec-c2` (2026-08-30) made ONE DISCLOSED DEPARTURE from the *intellectus*
+  ruling, and the gate must ratify or reverse it.** ¶ 25's *ponere, quod unus intellectus
+  sit in omnibus* is the Averroist unity-of-the-intellect thesis, which has a fixed English
+  name; "one understanding in all" would not name the doctrine Bonaventure is condemning,
+  so it is rendered **"one intellect in all."** ¶¶ 24 and 26's *perverso intellectu sacrae
+  Scripturae* — the act, not the faculty — keep **"understanding"** on the rule, and ¶¶ 2
+  and 5's *intelligentia* keep **"intelligence"** at the usual idiomatic cost.
+  ⭐ **The justification is the frozen discriminator itself:** the rule exists so that a
+  Latin *distinction* survives in English, and in ¶ 25 there is no *intelligentia* anywhere
+  near, so nothing is being carried and the rule's purpose is not engaged. ⚠ **This is the
+  first place where following the rule would produce not a cost but an ERROR** — c1's ¶ 8
+  cost idiom, this would cost the doctrine's name. **The rule was NOT reopened and no other
+  site was touched. Follow c2 for consistency until the work-close gate rules.**
 - **Cadence: ONE gate, at the work close** (26 pp — well under the ~100 pp trigger); deploy
   boundary = work close. **The shakedown trigger does not fire separately** — the register
   is the one the Hexaemeron and the *septem donis* have exercised over 177 pages, and its
@@ -870,7 +922,9 @@ columns. **Body extent pp. 507–532 = 26 printed pages.** Raw band **L83158 →
 - **Registry:** add `decem-praeceptis` to `WORKS` in `site/scripts/build-content.mjs`
   (book 13, tome 5, `divisionLabel: "Collationes"`) **and to the collatio branch of
   `buildWorkChunkTitle`** beside `hexaemeron` and `septem-donis`, so the breadcrumb reads
-  `Coll. N`. Do it when c1 lands, with division 1 only.
+  `Coll. N`. Do it when c1 lands, with division 1 only. **Both went in with c1; each later
+  chunk adds only its own `divisions` line**, after verifying the printed subtitle in
+  place word for word (c2's *De primo praecepto decalogi in specie* verified on p. 510).
 
 ### Vol V mechanics
 
