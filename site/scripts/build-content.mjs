@@ -373,6 +373,7 @@ const WORKS = {
     divisionLabel: "Collationes",
     divisions: {
       1: "Collatio I: De quatuor motivis ad observantiam divinorum praeceptorum inducentibus et de decalogo in genere",
+      2: "Collatio II: De primo praecepto decalogi in specie",
     },
   },
   // Future Vol V works claim book ids here as their mini-pilots run:

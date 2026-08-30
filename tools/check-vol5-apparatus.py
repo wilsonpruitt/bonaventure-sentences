@@ -2045,6 +2045,49 @@ KNOWN_TOTALS = {
               # Gutter 1298: colcrop's 16 px run is the loud value, but two row windows
               # clearing the COLLATIO II block (0.15-0.55, 0.20-0.60) return a 58 px band
               # 1270-1327 with the SAME midpoint 1298. Default confirmed.
+    511: 6,   # bon-praec-c2 opens its register here: Collatio II's FIRST numbered
+              # paragraph is on this leaf, p. 510 forwarded nothing, so the register
+              # restarts at 1 legitimately -- the p. 498 rule attested from the receiving
+              # side at this seam. The Summarium finishes at the head of this leaf, above
+              # the body, and is unanchored on BOTH leaves. Block 2/4, anchors 2/4.
+              # n. 1 reads Ps. 118, 115. Gutter 1263 measured clean on a 61 px run.
+    512: 8,   # block 2.5/5.5, anchors 3/5. n. 3 (the long Vatican longior expositio)
+              # spans both blocks; rendered joined. n. 2 is Hexaem. collat. 8. n. 4. seqq.
+              # (raw "n. l."); n. 8 is Enarrat. in Ps. 69. n. 13 (raw "Ps. C9.").
+              # ⚠ n. 8 RUNS OVER onto p. 513's footer block -- its last two lines are set
+              # above p. 513's own n. 1. A register runover, NOT a hand-off: the note
+              # belongs to p. 512's sequence throughout, and reading it as p. 513's would
+              # invent a spurious tenth entry there. Gutter 1302 clean on a 60 px run.
+              # ⚠ The marginale at paragraph 9 is PRINTED INCOMPLETE -- it reads
+              # "Duplex no-" and nothing follows (read at 3x and 4x; the line beneath is
+              # blank and the marginale sits well inside the trimmed edge).
+    513: 9,   # block 4/5, anchors 5/4 -- the splits do NOT coincide; no note crosses the
+              # gutter. n. 8 reads Psalm. 95, 5. (raw 93), confirmed by sense: Ps. 95:5 is
+              # the omnes dii gentium daemonia that paragraph 20 quotes. n. 7 is
+              # Epist. I. Cor. 8, 4 -- names its book, so NOT the cousin shape. The
+              # signature line S. Bonav. -- Tom. V. and the sheet number 65 print inside
+              # this register. ⚠ gutter 1213 on a 48 px run -- BELOW the sound band, so
+              # step (3) fired and found a 13 px centre-rule island (peak 466) inside a
+              # band 1186-1238 whose midpoint is 1212, with 24 row windows agreeing within
+              # 3 px. The frozen "heavily inked rule" case; default adopted.
+    514: 6,   # block 4/2, anchors 4/2. n. 6 reads haeres. 25. n. 1 (raw "2S.") and
+              # sub n. 104. de Saracenis (raw "n. 101."). n. 2 is Libr. II. de Doctr.
+              # christiana -- names its WORK, so NOT the book-number-only genre trait.
+              # ⚠ gutter 1290 on a 52 px run: the skew screen shows the gutter walking
+              # 15 px down the leaf, so the narrow run is DRIFT, not an inked rule. One
+              # split still suffices (max left 1262 < min right 1309) and the windows
+              # cluster at 1290-1294; default adopted.
+    515: 5,   # SHARED leaf -- and unlike p. 510 it DOES forward. COLLATIO III's display
+              # heading, subtitle and Summarium stand mid-leaf AND its numbered body
+              # begins on the leaf, so the register splits: nn. 1-3 are Collatio II's
+              # (bon-praec-c2) and nn. 4-5 are Collatio III's (forwarded to bon-praec-c3).
+              # ★ The two interior boundaries of this work so far answer OPPOSITE ways
+              # under one test -- the p. 498 rule -- so no boundary's answer may be copied
+              # forward to the remaining four (pp. 519, 522, 525, 529). Full-leaf block
+              # 3/2. ⚠ gutter 1258, measured on the UPPER region (rows 0.09-0.33) only:
+              # the default returns 1274 on a 1 px run because the leaf stacks the
+              # COLLATIO III block across the gutter at roughly 65-73 % down the page.
+              # Four windows over that region agree on a 64 px band 1227-1290.
 }
 
 
