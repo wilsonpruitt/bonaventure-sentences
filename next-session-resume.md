@@ -1,6 +1,100 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — **`bon-praec-c4` IS LANDED. THE FRONT IS `bon-praec-c5`.**
+> # ▶▶▶ START HERE — **`bon-praec-c5` IS LANDED. THE FRONT IS `bon-praec-c6`.**
+> Collatio V of the *Collationes de decem praeceptis*, **pp. 522–525**, Tier 2, built
+> 2026-08-31. 21 numbered ¶¶, **20 apparatus entries** (522 one of eight, received ·
+> 523 eight · 524 eight · 525 three of four), **zero `[?]` flags**. Registry division 5
+> went in with it. Conventions: repo `CLAUDE.md` § **DECEM PRAECEPTIS** — that block is
+> authoritative, this is a pointer. **NOTHING IS OWED and nothing is gated.** One gate
+> only, at the work close.
+>
+> ## ⛔⛔ FIVE BOUNDARIES, ONE "NO" AND FOUR "YES" — AND p. 529 IS THE LAST ONE
+> c1 measured **boundary 1 (p. 510): forwards NOTHING.** c2 **(p. 515): FORWARDS.**
+> c3 **(p. 519): FORWARDS.** c4 **(p. 522): FORWARDS.** c5 measured **boundary 5
+> (p. 525): FORWARDS** — that leaf carries only **four** notes; **nn. 1–3 are Collatio V's**
+> and **n. 4 is Collatio VI's**, because Collatio VI's numbered ¶ 1 (*Non occides. Non
+> moechaberis. Non furtum facies*) begins on the leaf below the heading and Summarium and
+> carries the anchor at *facies.*
+> ⭐ **Four consecutive "yes" answers are not a pattern and a majority is not evidence.**
+> ⛔ **p. 529 is the work's LAST boundary — there is no later chunk to catch a wrong answer
+> there.** It is the one place where copying the tally forward would be cheapest to do and
+> most expensive to keep. **Re-ask the p. 498 rule on the plate: read anchors, only anchors.**
+> ⭐ p. 525 is the sharpest block-vs-anchor case the work has produced, in BOTH directions
+> on one leaf: **not one** of Collatio V's three anchors is in the left column, yet the
+> **left** block carries n. 1 (six lines, it opened the block), while Collatio VI's n. 4
+> anchors **left** and prints last in the **right** block.
+> ⭐ c5 re-derived the incoming hand-off instead of adopting it, and verified p. 522 n. 8
+> **for position and column, not merely ownership.** Do the same at p. 525.
+>
+> ## ▶ FRONT = `bon-praec-c6` — Collatio VI, **pp. 525–529**, shared at BOTH ends
+> `work: decem-praeceptis`, `division: 6`, `type: collatio`, book id 13.
+> Display heading at raw **L85883**; the next real bare header (`COLLATIO VII`) is at
+> **L86407**. Index subtitle, read on p. 525's plate and to be re-verified in place, word
+> for word: *De quinto, sexto et septimo praecepto.* (the shorter form again — no
+> *decalogi*). Expect **~20 numbered ¶¶** (the Summarium runs to *De simonia,* 20.).
+> ⛔ **RECEIVES A HAND-OFF: p. 525 n. 4 is yours** — `Exod. 20, 13-15. — Seq. locus est
+> Ps. 118, 6; tertius Iac. 2, 10: Quicumque autem totam legem etc. (cfr. III. Sent. d. 36.
+> q. 4. ad 1. et 2; IV. Sent. d. 22. a. 1. q. 2. in corp.).` Read it off the 450 dpi footer
+> band, not from a whole-page read. **Do not restart p. 525's register at 1** — c5 owns
+> 1–3 and `check-vol5-apparatus.py` already records the leaf as holding 4 and prints
+> `PENDING n.4` until you write it.
+> **Makes a hand-off at p. 529 only if Collatio VII's numbered body reaches that leaf.**
+> ⚠ **Gutter p. 525 = 1216, and that is the UPPER region only** (rows 0.08–0.50), because
+> the `COLLATIO VI.` heading, subtitle, Summarium and ¶ 1 fill the leaf below 50 % and the
+> default returns 1168 on a **4 px** run. **c6's region is BELOW that block — profile it
+> separately.** Across this work the two regions of one leaf have come in 1, 2 and 4 px
+> apart; **checkable against each other, never predictable from each other.**
+>
+> ## ★★ NEW GUTTER MECHANISM FOUND AT c5 — READ THIS BEFORE MEASURING ANYTHING
+> **The centre rule can print TOO LIGHT for the frozen `ink<110` threshold, and then the
+> profile reports NO ISLAND and a run that is too WIDE.** This is the exact inverse of the
+> frozen heavy-rule case. p. 524's default came back **1356 on a 75 px run** with an island
+> of peak **7**, and its window consensus blew out (69 px spread, runs of 211–458 px)
+> because the criterion had no rule to hold on to; re-profiled at **thr 150–180** the rule
+> stands isolated at 1360–1364 and four row-regions all give band 1332–1392 → **1362**.
+> p. 522's lower region behaved the same way (101 px run, no island → **1314** at thr 150–200).
+> ⚠ **The tell is a wide run with NO island.** ⚠ On p. 524 the same faintness shows in the
+> **type** of the right column, so it is one fact about the forme, not two coincidences.
+> **Diagnose from the ink, not from the run width alone.**
+> ⚠ c5 also hit the first region **too thin for the window loop** (p. 522's three-line ¶ 1,
+> 0.04 of the leaf; the loop needs 0.12). `gutter-profile.py` was hardened to say so rather
+> than crash — step 3 alone decides there, and the number is licensed only by the other
+> region's agreeing value.
+>
+> ## Register — three rulings bind, the fourth is carried UNTESTED, and c5 made NO departure
+> ***pietas* → piety** ⭐ **PAYS for the first time in this work:** ¶ 10's body *pietas
+> exhibenda* and Jerome's quoted *pietatis genus,* three sentences apart, are one turn on
+> one word, and p. 524 n. 2 quotes it a third time. · ***intellectus* → understanding,
+> *intelligentia* → intelligence** ⚠ **strongest counter-datum yet — a cost where the Latin
+> makes NO distinction at all** (¶¶ 4/19's *litteralis intelligentia* against ¶ 10's
+> *intellectus verborum secundum sensum litteralem,* the same thing in different nouns).
+> Rule followed, not reopened; the gate decides whether it is a work rule or a passage rule.
+> · ***praeceptum* → precept · *mandatum* → commandment · *lex* → law,** carried, and c5
+> gives it its best evidence: Quaracchi's Eph. 6:2 *mandatum primum* and the Douay's "first
+> commandment" agree exactly.
+> ⛔ ***vacatio* / *quies*: NEITHER WORD OCCURS IN c5** — c4's fourth question is carried
+> **untested.** Watch for it in c6 and c7.
+>
+> ## Digits — the 3/5 class fired FOUR times and the check now runs BOTH ways
+> c5's four raw errors are all 3/5: the **Summarium's** `5.` (raw `3.`) and `15.` (raw
+> `13.`), and the **body's** ¶ 5 and ¶ 15. ⭐ Where c4's Summarium settled two corrected
+> body numerals, **here the body settles two corrected Summarium numerals.** One apparatus
+> digit likewise: p. 523 n. 4 `Cap. 3, 14.` (raw `Cap. 3, a.`), settled by sense — Ecclus.
+> 3:14 is *Fili, suscipe senectam patris tui,* the sentence the note answers.
+> **Never adopt a digit from the raw.**
+>
+> ## Cadence
+> **ONE gate, at the work close** (26 pp); the shakedown trigger does not fire separately.
+> **Deploy boundary = work close** — nothing deploys until all seven land. Plates per
+> collatio, never in bulk. ⚠ The apparatus band (26–30) is now wrong in both directions and
+> by six: c2 returned 32, c4 returned 23, **c5 returned 20.** It is an estimate, never a gate.
+> ⚠ Prod currently serves the *septem donis* deploy of 2026-08-29. **That line is DATED —
+> never restate prod from a note; check it.**
+
+---
+
+> # (superseded) previous START HERE — the front was `bon-praec-c5`, 2026-08-31
+> # **`bon-praec-c4` IS LANDED. THE FRONT IS `bon-praec-c5`.**
 > Collatio IV of the *Collationes de decem praeceptis*, **pp. 519–522**, Tier 2, built
 > 2026-08-31. 16 numbered ¶¶, **23 apparatus entries** (519 one of eight, received ·
 > 520 eight · 521 seven · 522 seven of eight), **zero `[?]` flags**. Registry division 4

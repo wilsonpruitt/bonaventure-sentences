@@ -2159,6 +2159,55 @@ KNOWN_TOTALS = {
               # UPPER region (rows 0.15-0.45): the default returns 1374 on a 326 px run,
               # nonsense far ABOVE the sound band, because the COLLATIO V block fills the
               # lower half. Band 1300-1334, 13 px island, window median 1315.
+              # ⭐ bon-praec-c5 re-measured the LOWER region of this leaf -- the three
+              # lines of Collatio V's ¶ 1, a region only 0.04 of the leaf deep and so too
+              # thin for the window loop, which needs 0.12 and returns nothing. Step 3
+              # alone decides, and only at a RAISED threshold: at ink<110 the region
+              # gives a meaningless 101 px run with NO island, because the centre rule
+              # printed grey on this forme. At thr 150-200 the columns close at 1284 and
+              # 1345 with an isolated island 1313-1316 (peak 142), midpoint 1314 -- 2 px
+              # from c4's 1316 for the upper region. A region value is checkable against
+              # the other region and never predictable from it, and here the check is
+              # what licenses the number: the region alone could not have produced one.
+    523: 8,   # block 5/3, anchors 3/5 -- an exact inversion. gutter 1276 on a 60 px run,
+              # exactly at the confidence floor, so escalated: 21 of 24 windows agree at
+              # 1276-1277, band 1247-1306, 8 px island peak 492 dead centre. The default
+              # is CONFIRMED, not corrected. The skew screen's 197 px drift is the two
+              # head slices forking; discarded.
+    524: 8,   # block 4/4, anchors 4/4 -- the SECOND exact block/anchor coincidence in
+              # this work, after p. 520.
+              # ⭐⭐ NEW GUTTER MECHANISM, the INVERSE of the frozen inked-rule case:
+              # THE CENTRE RULE CAN PRINT TOO LIGHT FOR THE ink<110 THRESHOLD, and then
+              # the profile reports NO island and a run that is too WIDE. The default
+              # returns 1356 on a 75 px run -- wider than the sound 58-64 px band -- and
+              # the window consensus blows out (69 px spread, runs of 211-458 px),
+              # because the criterion had no rule to hold on to. At thr 180 the rule
+              # stands isolated at 1360-1364; four separate row regions all return band
+              # 1332-1392, midpoint 1362 ADOPTED. ⚠ The same faintness is visible in the
+              # TYPE of the right column (intelligitur, debilitantur, adiutorio print
+              # grey), so it is ONE physical fact about the forme -- rule and type inked
+              # together -- not two coincidences. The tell is a wide run with no island,
+              # on a volume where the island is on essentially every leaf.
+    525: 4,   # SHARED leaf -- and it FORWARDS, as pp. 515, 519 and 522 did and p. 510
+              # did not. nn. 1-3 are Collatio V's (bon-praec-c5; n. 1 answers ¶ 20's
+              # `episcopus Parisiensis`, n. 2 ¶ 21's `tenellis`, n. 3 ¶ 21's closing
+              # `mortuus est ille`) and n. 4 (`Exod. 20, 13-15. -- Seq. locus est Ps.
+              # 118, 6; tertius Iac. 2, 10...`) is Collatio VI's, because Collatio VI's
+              # numbered ¶ 1 (`Non occides. Non moechaberis. Non furtum facies`) begins
+              # on the leaf, below the COLLATIO VI heading and Summarium, and carries the
+              # anchor at `facies`.
+              # ⛔ The tally is now one "no" and four "yes" and it STILL may not be
+              # summed. ONLY p. 529 is left, and it is the work's LAST boundary -- there
+              # is no later chunk to catch a wrong answer there. Re-ask it on the plate.
+              # ⭐ Sharpest block-vs-anchor case in the work: block 1/3, and NOT ONE of
+              # Collatio V's three anchors stands in the left column, yet the left block
+              # carries n. 1 (six lines long, it opened the block); meanwhile Collatio
+              # VI's n. 4 anchors LEFT and prints last in the RIGHT block. Uncorrelated
+              # in both directions on one leaf. Read anchors, only anchors.
+              # ⚠ gutter 1216 for the UPPER region (rows 0.08-0.50): the default returns
+              # 1168 on a 4 px run because the COLLATIO VI heading, subtitle, Summarium
+              # and ¶ 1 fill the leaf below 50 %. Band 1186-1247 (62 px), 2 px island
+              # peak 301, 15 of 23 windows agree at 1216-1217.
 }
 
 

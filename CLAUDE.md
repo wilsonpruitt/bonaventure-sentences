@@ -838,10 +838,27 @@ columns. **Body extent pp. 507–532 = 26 printed pages.** Raw band **L83158 →
   full-measure mid-leaf, outgoing collatio above. The difference is one line of body:
   Collatio V's ¶ 1 begins below the Summarium on p. 522 where Collatio II's did not on
   p. 510. **Leaf shape does not decide it; the body anchor does.**
-  ⛔ **The tally now stands at one "no" and three "yes," and it STILL may NOT be summed.**
-  Three consecutive "yes" answers are not a pattern and a majority is not evidence; the
-  discriminator is still the p. 498 rule and nothing else. **Re-ask it on the plate at
-  pp. 525 and 529, one boundary at a time.**
+  ⭐⭐⭐⭐⭐ **MEASURED AT BOUNDARY 5 (`bon-praec-c5`, 2026-08-31): p. 525 FORWARDS.** That
+  leaf carries only **four** footer notes; **nn. 1–3 are Collatio V's** (n. 1 answers
+  ¶ 20's *episcopus Parisiensis,* n. 2 ¶ 21's *tenellis,* n. 3 ¶ 21's closing *mortuus est
+  ille*) and **n. 4 — `Exod. 20, 13-15. — Seq. locus est Ps. 118, 6; tertius Iac. 2, 10…`
+  — is Collatio VI's**, because Collatio VI's numbered ¶ 1 (*Non occides. Non moechaberis.
+  Non furtum facies*) begins on the leaf, below the `COLLATIO VI.` heading and Summarium,
+  and carries the anchor at *facies.* c5 also re-derived the boundary-4 hand-off rather
+  than adopting it, verifying p. 522 n. 8 **for POSITION and COLUMN** (anchor at ¶ 1's
+  *daturus est tibi,* third and last line of the **left** column of that leaf's lowest
+  region; entry printed last in the **right** footer block).
+  ⛔ **The tally now stands at one "no" and FOUR "yes," and it STILL may NOT be summed.**
+  Four consecutive "yes" answers are not a pattern and a majority is not evidence; the
+  discriminator is still the p. 498 rule and nothing else. ⭐ **Only p. 529 is left, and it
+  is the work's LAST boundary — there is no later chunk to catch a wrong answer there, so
+  it is the one place where copying the tally forward would be both cheapest to do and
+  most expensive to keep. Re-ask it on the plate.**
+  ⭐ **p. 525 is also the sharpest block-vs-anchor case the work has produced, in BOTH
+  directions on one leaf:** not one of Collatio V's three anchors stands in the left
+  column (all three are in the right), yet the **left** block carries n. 1 — six lines
+  long, it opened the block; meanwhile Collatio VI's n. 4 anchors in the **left** column
+  and prints last in the **right** block. **Read anchors, only anchors.**
 - **⚠ NEW HAZARD CLASS, found at `bon-praec-c2`: A FOOTNOTE CAN RUN OVER ONTO THE NEXT
   PAGE'S FOOTER BLOCK, AND THAT IS NOT A HAND-OFF.** p. 512 n. 8 (Augustine, *Enarrat. in
   Ps.* 69) begins in p. 512's register and its last two lines are set at the head of
@@ -861,8 +878,11 @@ columns. **Body extent pp. 507–532 = 26 printed pages.** Raw band **L83158 →
   while c2 spans six leaves and owns register on five of them. `bon-praec-c4` returned
   **23**, three BELOW the band, by the same arithmetic read the other way: it spans four
   leaves and owns a full register on only three, contributing a single note from p. 519.
-  **The band is now attested wrong in both directions.** A count outside it is a prompt to
-  recount on the plate, never a defect on its own.
+  **The band is now attested wrong in both directions.** `bon-praec-c5` returned **20**,
+  six below — the lowest the work has produced, and by the same arithmetic pushed one step
+  further: four leaves, a full register on only two of them, one note from p. 522 and three
+  from p. 525. A count outside it is a prompt to recount on the plate, never a defect on
+  its own.
 - **★★ THE RUNNING HEAD NAMES THE COLLATIO THAT BEGINS MID-PAGE — NEW HERE, AND IT IS THE
   PRINTING, NOT THE OCR.** On all six shared pages the running head is already set to the
   *incoming* collatio while the top of the page is still the outgoing one's text (p. 510's
@@ -938,6 +958,32 @@ columns. **Body extent pp. 507–532 = 26 printed pages.** Raw band **L83158 →
   band: default **1374 on a 326 px run**, because the `COLLATIO V.` block fills the lower
   half; profiling rows 0.15–0.45 gives band 1300–1334, **1316 adopted.**
   **Eight of the fourteen leaves this work has measured now defeat the default.**
+  ⭐⭐ **`bon-praec-c5` (2026-08-31) found a MECHANISM THE FROZEN RULE DOES NOT NAME, and it
+  is the exact INVERSE of the inked-rule case: THE CENTRE RULE CAN PRINT TOO LIGHT FOR THE
+  `ink<110` THRESHOLD, and then the profile reports NO ISLAND and a run that is too WIDE.**
+  The frozen rule reads a *narrow* run as a heavily inked rule truncating the blank band.
+  Two leaves in c5's span do the opposite: p. 524's island registers **peak 7** and
+  p. 522's lower region shows none at all, so the zero-ink run walks straight through where
+  the rule stands and comes back **wider** than the sound 58–64 px band — **75 px** on
+  p. 524, **101 px** on p. 522. Re-profiled at **threshold 150–180** the rule appears at
+  once and the band's true edges with it: p. 524's rule stands isolated at **1360–1364**,
+  four separate row regions all return band 1332–1392, **1362 adopted** against the
+  default's 1356; p. 522's lower region closes at 1284 and 1345 with an island at
+  **1313–1316** (peak 142), **1314 adopted**, 2 px from c4's 1316 for the upper region.
+  ⚠ **The tell is a wide run with NO island**, on a volume where the island is on
+  essentially every leaf — the standing instruction to print the per-column profile even
+  when the windows agree is what makes the absence legible. ⚠ On p. 524 the same faintness
+  is visible in the **type** of the right column (*intelligitur, debilitantur, adiutorio*
+  print grey), so this is ONE physical fact about the forme — rule and type inked together
+  — not two coincidences. **Diagnose from the ink, not from the run width alone.**
+  ⚠ **c5 also hit the first region TOO THIN for the window loop.** p. 522's lower region —
+  the three lines of Collatio V's ¶ 1 between the Summarium and the footer rule — is 0.04
+  of the leaf deep, and `gutter-profile.py`'s consensus loop needs 0.12 and returns
+  nothing. **Step 3 alone decides there, and the tool was hardened to say so instead of
+  crashing on an empty window list.** The number is licensed only by the other region's
+  agreeing value: **a region value is checkable against the other region and never
+  predictable from it.**
+  **Eleven of the eighteen leaves this work has measured now defeat the default.**
 - **★ REGISTER: THE TWO *SEPTEM DONIS* RULINGS BIND, UNCHANGED** — *pietas* → "piety"
   everywhere; *intellectus* → understanding / *intelligentia* → intelligence in body prose,
   with the Douay's "understanding" left standing inside a quotation. Stated in full in
@@ -994,8 +1040,39 @@ columns. **Body extent pp. 507–532 = 26 printed pages.** Raw band **L83158 →
   **understanding.** The note and the body are about two different things and one English
   root would have flattened them together. **This is the c8 case the *septem donis* gate
   named, arriving in a second work.** c2's exception was not extended.
+  ▶ **`bon-praec-c5` followed every rule at every site and made NO departure, and it is
+  the first place in this work where the *pietas* ruling visibly PAYS.** The word occurs
+  three times in one argument at ¶ 10 and its apparatus: the body says that when parents
+  command against our salvation *non est ipsis in talibus pietas exhibenda,* and three
+  sentences later Jerome's quotation closes *Solum enim pietatis genus est in hoc esse
+  crudelem,* which p. 524 n. 2 then quotes again in its fuller text. **The passage turns on
+  the one word going over between the two clauses** — the piety owed a parent, and the
+  piety that consists in refusing it — and a second English root in the body would have
+  destroyed the turn. It costs idiom in the body clause, **and the cost is the price of the
+  pun, which is the trade the rule was written to make.**
+  ⚠⚠ **c5 ALSO CARRIES THE STRONGEST COUNTER-DATUM YET AGAINST THE *intellectus* /
+  *intelligentia* RULING, AND IT IS A NEW SPECIES OF COST.** ¶ 1 makes *intelligentia* the
+  precious faculty (*dissipant intelligentiam nostram… nihil in nobis est pretiosius
+  intelligentia*), where "intelligence" is right and easy. But ¶¶ 4 and 19 then use
+  *litteralis intelligentia* for the literal construing of a text while ¶ 10 uses
+  *intellectus verborum secundum sensum litteralem* **for the same thing**, so the English
+  reads "the literal intelligence" twice and "the understanding of the words" once.
+  ⭐ **The Latin makes NO distinction here at all, and the rule still forces two English
+  roots.** That is neither c2's case (following the rule would have been an *error,*
+  failing to name the Averroist doctrine) nor quite c3's (a cost where the distinction is
+  real and worth paying for): **it is a cost where there is no distinction to protect.**
+  c5 followed the rule and did not reopen it — a chunk does not get to suspend a work rule
+  locally — **but this is the site on which the gate has to decide whether the ruling is a
+  work rule or a passage rule.**
+  ⭐ **c5 also supplies the *praeceptum*/*mandatum*/*lex* rule's best evidence so far, and
+  it is in a quotation:** Quaracchi prints Ephesians 6:2 as *quod est mandatum primum in
+  promissione* and the Douay reads "the first commandment with a promise" — **Latin and
+  Douay agree exactly on the word the rule assigns,** so the rendering costs nothing at the
+  one place a clash would have been most visible.
   ⚠ **A FOURTH REGISTER QUESTION OPENED AT c4 AND IS CARRIED, NOT SETTLED: *vacatio* /
-  *vacare* → "leisure" / "to keep leisure," against *quies* / *requies* → "rest."** The
+  *vacare* → "leisure" / "to keep leisure," against *quies* / *requies* → "rest."**
+  ⛔ **Neither word occurs anywhere in c5, so the question is carried UNTESTED** — watch
+  for it in c6 and c7. The
   collation is about the Sabbath, so "rest" is the idiomatic English for all four words —
   but ¶ 7 puts *quietem animarum,* *quietem Domini in sepulcro,* *cum vacatione et
   contemplatione Dei* and *quietationem* in one span, and ¶ 12 names *divina vacatio* as

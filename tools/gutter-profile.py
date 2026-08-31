@@ -175,8 +175,18 @@ def main():
             vals.append((x, run))
     xs = [v[0] for v in vals]
     print("  windows: " + " ".join(f"{x}/{run}px" for x, run in vals))
-    print(f"  spread: {min(xs)}-{max(xs)} ({max(xs) - min(xs)} px), "
-          f"median {sorted(xs)[len(xs) // 2]}")
+    if xs:
+        print(f"  spread: {min(xs)}-{max(xs)} ({max(xs) - min(xs)} px), "
+              f"median {sorted(xs)[len(xs) // 2]}")
+    else:
+        # A region thinner than 0.12 of the leaf admits no sub-window that
+        # satisfies the consensus loop's minimum height. That is not a
+        # failure: a three-line block between a Summarium and a footer rule
+        # is a legitimate region (p. 522, `bon-praec-c5`). Step 2 simply has
+        # nothing to say about it, and step 3 below carries the measurement
+        # alone -- read the band and its island, and say so in the notes.
+        print("  spread: n/a -- region too thin for the window consensus; "
+              "step 3 alone decides, and the run width is still the signal.")
 
     # --- step 3: direct per-column ink profile
     a = np.asarray(im.convert("L"))
