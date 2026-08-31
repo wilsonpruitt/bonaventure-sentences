@@ -1133,6 +1133,16 @@ columns. **Body extent pp. 507–532 = 26 printed pages.** Raw band **L83158 →
   two open questions were settled at the *septem donis* gate. ~3.7 printed pp and **~26–30
   apparatus entries per chunk** (~7 footer notes per page; ~180 for the work).
   **Plates per collatio, never in bulk.**
+  ★★★ **GATE RUN 2026-08-31 (`manual-review/vol5-decem-praeceptis-workclose-gate.md`):
+  CLEAN, zero corpus defects, no edits to any `bon-praec-c*` file.** The gate's three
+  register rulings: (1) *praeceptum*→precept / *mandatum*→commandment / *lex*→law
+  **RATIFIED** as the work rule — seven chunks, zero corrective edits. (2)
+  *intellectus*→understanding / *intelligentia*→intelligence **RATIFIED**, and c2's ¶ 25
+  Averroist-unity departure **RATIFIED as a correctly-scoped exception** (applies only
+  when the rule would misname a fixed philosophical doctrine, never a general escape
+  hatch). (3) *vacatio*/*vacare*→leisure vs *quies*/*requies*→rest **CLOSES OPEN, NOT
+  SETTLED** — opened at c4, never recurred in c5/c6/c7, so there is no second data point
+  either way; the next work that uses either family is where this actually gets tested.
 - **Registry:** add `decem-praeceptis` to `WORKS` in `site/scripts/build-content.mjs`
   (book 13, tome 5, `divisionLabel: "Collationes"`) **and to the collatio branch of
   `buildWorkChunkTitle`** beside `hexaemeron` and `septem-donis`, so the breadcrumb reads

@@ -1,5 +1,63 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **THE *DE DECEM PRAECEPTIS* WORK-CLOSE GATE IS CLEAN. THE FRONT IS THE DEPLOY.**
+> Gate run 2026-08-31, `manual-review/vol5-decem-praeceptis-workclose-gate.md`. Scope: all
+> seven `bon-praec-c1`–`c7`, pp. 507–532, 187 apparatus entries. **Verdict: CLEAN — zero
+> corpus defects, no edits made to any `bon-praec-c*` file.**
+>
+> **Pass 1** (`check-live-flags.py`, not grep): **0 live flags** in `bon-praec-c*`; corpus
+> baseline unchanged at 237 (vol1 150 · vol2 9 · vol3 2 · vol4 66 · vol5 10).
+> **Pass 2** (`polish-style-scan.py`, full corpus, 2,082 chunks): this work **CLEAN**;
+> corpus's 11 pre-existing issues / 6 chunks unchanged, none in this work.
+> **Pass 3** (all six interior shared-leaf boundaries — pp. 510, 515, 519, 522, 525, 529):
+> all six PASS on grammatical continuity, footer-note accounting (independently
+> re-extracted, matches `CLAUDE.md`'s frozen "five yes, one no" record exactly at every
+> boundary) and cascade-merge screening (`seam-screen.py --volume 5`: 0 tail-not-terminal
+> suspects across 108 vol5 mid-page boundaries, this work's six included).
+> **Pass 4:** deleted `raw/vision/vol5/p-505.png`–`p-532.png` (28 files, 84 MB) and all 202
+> files in `/tmp/colcrop/` (408 MB, entirely this work's page range) — **~492 MB
+> reclaimed.** Both gitignored and fully regenerable; source PDF confirmed present.
+> Supplementary: digit-multiset sweep over all 187 entries found 2 mismatches, both the
+> known roman-numeral false positive, 0 defects; `build-citations.py` found this work's
+> only QA flag (`bon-praec-c6 [p528-9]`, a dangling `IV. Sent. d. 25. a. 4. q. 3.`
+> cross-ref, transcribed exactly as printed — a genuine digit-confusion candidate in
+> Quaracchi's own text, non-blocking, logged for a future targeted pass).
+>
+> ## The three register rulings, settled at the gate
+> 1. ***praeceptum*→precept / *mandatum*→commandment / *lex*→law — RATIFIED** as the work
+>    rule. Seven chunks, zero corrective edits, including at three deliberately hostile
+>    density tests (c3 ¶2, c5's Ephes. 6:2 Douay quotation, c6's ¶¶2–3/6–7 run).
+> 2. ***intellectus*→understanding / *intelligentia*→intelligence — RATIFIED**, and c2's
+>    ¶25 Averroist-unity-of-intellect departure **RATIFIED as a correctly-scoped
+>    exception** — applies only when the rule would misname a fixed philosophical
+>    doctrine, never as a general escape hatch. c3–c7 all followed the base rule with no
+>    further departure; c4/c7 showed the rule genuinely paying.
+> 3. ***vacatio*/*vacare*→leisure vs *quies*/*requies*→rest — LEFT OPEN, explicitly NOT
+>    settled.** Opened at c4, never recurred in c5/c6/c7 (four consecutive chunks with
+>    zero occurrences), so there is no second data point in either direction. Recorded as
+>    an open question the work ran out of text to re-test, not a validated rule. The next
+>    work that uses either word family (Sermones selecti is a plausible candidate per the
+>    work map below) is where this actually gets tested — do not assume c4's single
+>    instance generalizes.
+>
+> Both rulings and the open question are also logged in repo `CLAUDE.md` § DECEM
+> PRAECEPTIS, immediately after the cadence line.
+>
+> ## ▶▶ THE FRONT IS NOW THE DEPLOY — needs Wilson's explicit go-ahead, not run here
+> The gate is the last step before deploy per the frozen cadence table. **Pushing to
+> `main` and running `vercel build`/`vercel deploy` are both protected actions and were
+> NOT run this session** — no push, no deploy, no vercel command of any kind. Only a local
+> commit was made (gate doc + this resume update + the CLAUDE.md ratification note). Prod
+> currently still serves the *septem donis* deploy of 2026-08-29 — re-check that line
+> fresh at deploy time rather than trusting it. **After the gate + deploy, the next work
+> is one of the three remaining QD** (scientia-christi pp. 3–43, mysterio-trinitatis
+> pp. 45–115, or perfectione-evangelica pp. 117–198 — Wilson's call on order) or Sermones
+> selecti (pp. 533–579, half-title verified at p. 533), per the work map in `CLAUDE.md`
+> § VOL V.
+
+---
+
+> # (superseded) previous START HERE — the front was the work-close polish gate, 2026-08-31
 > # ▶▶▶ START HERE — **`bon-praec-c7` IS LANDED. *DE DECEM PRAECEPTIS* IS COMPLETE.**
 > Collatio VII, **pp. 529–532**, Tier 2, built 2026-08-31. **THE WORK'S LAST CHUNK.**
 > Eighteen numbered ¶¶, **26 apparatus entries** (529 five of six, received —
