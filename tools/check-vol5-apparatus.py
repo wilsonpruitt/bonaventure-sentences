@@ -2119,6 +2119,46 @@ KNOWN_TOTALS = {
               # region (rows 0.10-0.40) only: the default returns 1164 on a 1 px run
               # because the COLLATIO IV block occupies roughly 45-60 % of the leaf.
               # Band 1146-1207 (62 px), 3 px centre-rule island.
+              # ⚠ bon-praec-c4 re-measured the LOWER region (below the COLLATIO IV
+              # block) and got 1178 on band 1164-1193 with a 26 px island. The two
+              # halves of THIS leaf agree to within 1 px where p. 515's differed by
+              # 4 px -- both are the region rule; a region value is checkable against
+              # the other region, never predictable from it.
+    520: 8,   # block 3/5, anchors 3/5 -- the only exact block/anchor coincidence in
+              # c4's span. ⚠ gutter 1320: the default is a LOUD failure, 1347 on an
+              # 8 px run, because the centre rule inked heavily and off centre (5 px
+              # island, peak 582) inside a clean 63 px band 1289-1351. The skew screen
+              # reports 61 px of drift, but six of its eight slices read 1283-1351 and
+              # only the two head slices fork -- the frozen INKED-RULE case, not skew.
+              # ⚠ n. 5 is `Epist. I. 3, 15.` where the raw gives `3, 13.`: the 3/5 class
+              # in an apparatus digit, settled by sense (I Pet. 3:15 is the sentence the
+              # note answers). ⚠ n. 3 opens a SECOND quotation with a guillemet and
+              # never closes it -- the printing, read at 2.4x; transcribed as printed
+              # on the p. 512 `Duplex no-` precedent.
+    521: 7,   # block 4/3, anchors 3/4 -- the left block overruns by one AND n. 4's own
+              # text runs over into the right block. That runover is an IN-PAGE COLUMN
+              # runover: not a page runover, not a hand-off, and it changes no numbering.
+              # ⚠ gutter 1255 on a 51 px run -- under the 60 px confidence floor, so
+              # escalated; 23 of 24 windows agree within 4 px at 1253-1257 and the band
+              # 1230-1281 gives midpoint 1255. The default is CONFIRMED, not corrected.
+              # The skew screen's 185 px "drift" is two head slices catching the running
+              # head and the body/footer gap, and is discarded.
+    522: 8,   # SHARED leaf -- and it FORWARDS, as pp. 515 and 519 did and p. 510 did not.
+              # nn. 1-7 are Collatio IV's (bon-praec-c4; n. 1 answers ¶ 14's `volatilia`,
+              # n. 7 ¶ 16's `dicit Psalmus`) and n. 8 (`Exod. 20, 12: Honora... dabit
+              # tibi.`) is Collatio V's, because Collatio V's numbered ¶ 1 (`Honora
+              # patrem tuum`) begins on the leaf, below the COLLATIO V heading and
+              # Summarium, and carries the anchor.
+              # ⛔ The tally is now one "no" and three "yes" across four boundaries, and
+              # it STILL may not be summed: the p. 498 rule is re-asked on the plate at
+              # pp. 525 and 529. Three consecutive "yes" answers are not a pattern.
+              # ⭐ p. 522 is structurally the SAME leaf-shape as p. 510, which forwarded
+              # nothing -- heading + subtitle + Summarium full-measure mid-leaf. The
+              # difference is one line of body. Leaf shape does not decide it.
+              # Block 3/5, Collatio IV's anchors 3/4. ⚠ gutter 1316, measured on the
+              # UPPER region (rows 0.15-0.45): the default returns 1374 on a 326 px run,
+              # nonsense far ABOVE the sound band, because the COLLATIO V block fills the
+              # lower half. Band 1300-1334, 13 px island, window median 1315.
 }
 
 

@@ -375,6 +375,7 @@ const WORKS = {
       1: "Collatio I: De quatuor motivis ad observantiam divinorum praeceptorum inducentibus et de decalogo in genere",
       2: "Collatio II: De primo praecepto decalogi in specie",
       3: "Collatio III: De secundo praecepto decalogi",
+      4: "Collatio IV: De tertio praecepto decalogi",
     },
   },
   // Future Vol V works claim book ids here as their mini-pilots run:

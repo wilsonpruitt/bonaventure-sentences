@@ -1,6 +1,98 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — **`bon-praec-c3` IS LANDED. THE FRONT IS `bon-praec-c4`.**
+> # ▶▶▶ START HERE — **`bon-praec-c4` IS LANDED. THE FRONT IS `bon-praec-c5`.**
+> Collatio IV of the *Collationes de decem praeceptis*, **pp. 519–522**, Tier 2, built
+> 2026-08-31. 16 numbered ¶¶, **23 apparatus entries** (519 one of eight, received ·
+> 520 eight · 521 seven · 522 seven of eight), **zero `[?]` flags**. Registry division 4
+> went in with it. Conventions: repo `CLAUDE.md` § **DECEM PRAECEPTIS** — that block is
+> authoritative, this is a pointer. **NOTHING IS OWED and nothing is gated.** One gate
+> only, at the work close.
+>
+> ## ⛔⛔ FOUR BOUNDARIES, ONE "NO" AND THREE "YES" — AND THE LEAF-SHAPE ARGUMENT IS DEAD
+> c1 measured **boundary 1 (p. 510): forwards NOTHING.** c2 measured **boundary 2
+> (p. 515): FORWARDS.** c3 measured **boundary 3 (p. 519): FORWARDS.** c4 measured
+> **boundary 4 (p. 522): FORWARDS** — that leaf's **nn. 1–7 are Collatio IV's** and
+> **n. 8 is Collatio V's**, because Collatio V's numbered ¶ 1 (*Honora patrem tuum et
+> matrem tuam*) begins on the leaf, below the `COLLATIO V.` heading and Summarium, and
+> carries the anchor.
+> ⭐ **p. 522 is structurally the SAME leaf-shape as p. 510, which forwarded nothing** —
+> heading + subtitle + Summarium set full-measure mid-leaf, outgoing collatio above. The
+> difference is one line of body. **Leaf shape does not decide it; the body anchor does.**
+> ⭐ **Three consecutive "yes" answers are not a pattern and a majority is not evidence.**
+> Re-ask it on the plate at pp. 525 and 529 — read anchors, only anchors.
+> ⚠ c4 also confirmed the running-head rule at both its ends (p. 519's head reads
+> `COLLATIO IV.` above a leaf and a half of Collatio III; p. 522's reads `COLLATIO V.`
+> above two full columns of Collatio IV), now attested on **five** of the six shared leaves.
+> ⭐ c4 re-derived the incoming hand-off instead of adopting it, and verified p. 519 n. 8
+> **for position and column, not merely ownership.** Do the same at p. 522.
+>
+> ## ▶ FRONT = `bon-praec-c5` — Collatio V, **pp. 522–525**, shared at BOTH ends
+> `work: decem-praeceptis`, `division: 5`, `type: collatio`, book id 13.
+> Display heading at raw **L85435**; the next real bare header (`COLLATIO VI`) is at
+> **L85883**. Index subtitle to verify in place, word for word: *De quarto praecepto.*
+> ⚠ **Note the shorter form** — V and VI/VII drop *decalogi*, where I–IV carry it. Expect
+> **~21 numbered ¶¶** (the Summarium runs to 20. 21.) and ~7 footer notes per page.
+> ⛔ **RECEIVES A HAND-OFF: p. 522 n. 8 is yours** — `Exod. 20, 12: Honora... dabit tibi.
+> — Seq. locus est Eccli. 3, 22. Cfr. III. Sent. d. 37. dub. 4.`, answering ¶ 1's *Honora
+> patrem tuum et matrem tuam.* Read it off the 450 dpi footer band, not from a whole-page
+> read. **Do not restart p. 522's register at 1** — c4 owns 1–7 and
+> `check-vol5-apparatus.py` already records the leaf as holding 8 and prints `PENDING n.8`
+> until you write it.
+> **Makes a hand-off at p. 525 only if Collatio VI's numbered body reaches that leaf.**
+> ⚠ **Gutter p. 522 = 1316, and that is the UPPER region only** (rows 0.15–0.45), because
+> the `COLLATIO V.` heading + subtitle + Summarium fill the lower half and `colcrop`
+> returns 1374 on a **326 px** run — nonsense far ABOVE the sound 58–64 px band, which is
+> as much a failure signal as far below it. **c5's region is BELOW that block — profile it
+> separately.** p. 519's two regions came in 1 px apart and p. 515's 4 px apart; both were
+> right, and **neither is predictable from the other.**
+>
+> ## ★ WHAT c4 CONFIRMED (do not re-litigate)
+> 1. **`COLLATIO IV.` carries NO apparatus anchor**, and neither does its Summarium.
+>    **Five works running now answer this way.** Do not go looking for one.
+> 2. **The `3`/`5` class fired three times, twice in BODY numerals.** ¶ 5 prints `5.`
+>    (raw `3.`) and ¶ 15 prints `15.` (raw `13.`) — both confirmed independently by the
+>    Summarium's own numbering. p. 520 n. 5 prints `Epist. I. 3, 15.` (raw `3, 13.`) and is
+>    settled by sense: I Pet. 3:15 is *Dominum autem Christum sanctificate,* the sentence
+>    the note answers. **Never adopt a digit from the raw.**
+> 3. **⚠ AN APPARATUS QUOTATION CAN BE OPENED AND NEVER CLOSED, AND THAT IS THE PRINTING.**
+>    p. 520 n. 3 closes its first Augustine quotation correctly and leaves the second
+>    (`« in signo tertio defecerunt…`) unclosed at the note's end. Read at 2.4×; the note
+>    ends flush with no mark. **Transcribed as printed and flagged** — the p. 512
+>    `Duplex no-` precedent.
+> 4. **A footnote ran over the GUTTER inside one leaf (p. 521 n. 4) and that is neither a
+>    hand-off nor the p. 512 page-runover class.** It changes no numbering. The p. 512
+>    page-crossing class did NOT recur — now a negative on two consecutive chunks.
+> 5. **Block-vs-anchor structure: p. 520 blocks 3/5 vs anchors 3/5 — the only EXACT
+>    coincidence in the span; p. 521 4/3 vs 3/4; p. 522 3/5 vs 3/4.** Read anchors, only
+>    anchors.
+> 6. **The 26–30 apparatus band is now wrong in BOTH directions** — c2 returned 32, c4
+>    returned 23. It is an estimate, never a gate.
+>
+> ## Register — three rulings bind, a FOURTH question opened, and c4 made NO departure
+> ***pietas* → piety everywhere** (does not occur in c4) · ***intellectus* → understanding,
+> *intelligentia* → intelligence in body prose** · ▶ ***praeceptum* → precept · *mandatum*
+> → commandment · *lex* → law**, following c1–c3, **carried not settled.**
+> ⭐ **c4 is the first place in this work where the *intellectus* rule PAYS rather than
+> costs.** Both words stand within one argument — ¶ 7's *in intelligentia creata* against
+> p. 520 n. 8's *de intellectu angelico* — and one English root would have flattened two
+> different things together. c2's exception was not extended.
+> ⚠ **NEW, FOURTH REGISTER QUESTION, CARRIED TO THE GATE: *vacatio* / *vacare* → "leisure"
+> / "to keep leisure," against *quies* / *requies* → "rest."** In a Sabbath collation
+> "rest" is the idiomatic English for all four words, but ¶ 7 puts *quies,* *vacatio* and
+> *quietatio* in one span and ¶ 12 makes *divina vacatio* the first of three requisites.
+> Same discriminator as *intellectus*: the English is carrying a Latin distinction.
+> **Disclosed, applied consistently, and NOT settled chunk by chunk.**
+>
+> ## Cadence
+> **ONE gate, at the work close** (26 pp); the shakedown trigger does not fire separately.
+> **Deploy boundary = work close** — nothing deploys until all seven land. Plates per
+> collatio, never in bulk.
+> ⚠ Prod currently serves the *septem donis* deploy of 2026-08-29. **That line is DATED —
+> never restate prod from a note; check it.**
+
+---
+
+> # (superseded) previous START HERE — the front was `bon-praec-c3`, 2026-08-30
 > Collatio III of the *Collationes de decem praeceptis*, **pp. 515–519**, Tier 2, built
 > 2026-08-30. 27 numbered ¶¶, **31 apparatus entries** (515 two, received · 516 six ·
 > 517 eight · 518 eight · 519 seven of eight), **zero `[?]` flags**. Registry division 3
