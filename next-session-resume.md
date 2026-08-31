@@ -1,6 +1,131 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — **`bon-praec-c5` IS LANDED. THE FRONT IS `bon-praec-c6`.**
+> # ▶▶▶ START HERE — **`bon-praec-c6` IS LANDED. THE FRONT IS `bon-praec-c7`.**
+> Collatio VI of the *Collationes de decem praeceptis*, **pp. 525–529**, Tier 2, built
+> 2026-08-31. 20 numbered ¶¶, **25 numbered apparatus entries plus 1 unanchored**
+> (525 one of four, received · 526 six numbered plus one unanchored editorial note ·
+> 527 eight · 528 nine · 529 one, this chunk's), **zero `[?]` flags**. Registry division 6
+> went in with it. Conventions: repo `CLAUDE.md` § **DECEM PRAECEPTIS** — that block is
+> authoritative, this is a pointer. **NOTHING IS OWED and nothing is gated.** One gate
+> only, at the work close.
+>
+> ## ⛔⛔ ALL SIX SHARED LEAVES NOW MEASURED — FIVE "YES," ONE "NO," AND THE LAST ONE (p. 529) FORWARDS
+> c1 measured **boundary 1 (p. 510): forwards NOTHING.** c2–c5 measured boundaries 2–5
+> (pp. 515, 519, 522, 525): **all FORWARD.** c6 now measures **boundary 6 (p. 529), the
+> work's LAST boundary: FORWARDS.** ¶ 20 — this collation's own last paragraph — does not
+> finish on p. 528; it crosses the gutter and runs three lines into p. 529, ending at
+> *Rogemus ergo Dominum Iesum Christum etc.* immediately before the full-measure
+> `COLLATIO VII.` heading, subtitle and Summarium, beneath which **Collation VII's own
+> ¶ 1 (*Non loqueris contra proximum tuum falsum testimonium…*) begins on that same leaf
+> and carries the anchor at *eius*²** (n. 2 answers *Nec desiderabis uxorem eius*²).
+> **The tally over all six shared leaves is now closed: five "yes," one "no" (p. 510
+> alone).** Every one was re-asked on the plate independently — none was copied forward,
+> including this last one, where a copied "yes" would have been cheapest to write and
+> impossible to catch afterward. `bon-praec-c6` also re-derived the p. 525 hand-off from
+> `bon-praec-c5` rather than adopting it: p. 525 n. 4 (`Exod. 20, 13-15…`) anchors at
+> ¶ 1's *facies*⁴, confirmed on the plate.
+> ⭐ **Self-caught error, disclosed in `bon-praec-c6`'s Notes:** p. 529 n. 1 was first
+> misread at low zoom as `Matth. 24, 13`; a 4× re-crop showed `Matth. 21, 13` clearly —
+> the correct verse (*vos autem fecistis eam speluncam latronum*), matching the body's
+> own echo of it. **This was the transcriber's misreading, not a printer's error** — a
+> reminder that the digit-correction discipline below exists to catch this class of
+> mistake regardless of which side of the plate/transcriber boundary it falls on.
+>
+> ## ▶ FRONT = `bon-praec-c7` — Collatio VII, **pp. 529–532, the WORK'S LAST CHUNK**
+> `work: decem-praeceptis`, `division: 7`, `type: collatio`, book id 13.
+> Display heading at raw (re-derive from the plate; the raw-line prediction table was
+> built before this span was re-verified — do not trust it uncrossed). The work's fixed
+> end is **p. 532**, closed positively already in the pilot scouting from
+> `EXPLICIUNT COLLATIONES DE DECEM PRAECEPTIS.` set full-measure beneath both columns —
+> **c7 is the work's LAST chunk, and its own last boundary needs no p. 498 test: there is
+> no Collatio VIII to hand off to.** Index subtitle, read on p. 529's plate and to be
+> re-verified in place, word for word: *De octavo, nono et decimo praecepto.* Summarium
+> read in full already (on `bon-praec-c6`'s plate pass of p. 529, ahead of building it):
+> runs to **17** — *Introductio, 1. — Repetitio, 2. — Pars I. De octavo praecepto.
+> Triplex mendacium: officiosum, iocosum, perniciosum, 3. 4. — Octo genera mendaciorum,
+> 5. — Pars II. De nono et decimo praecepto. Prohibetur duplex concupiscentia, scilicet
+> internus actus illicitus concupiscentiae carnis et oculorum, 6. — Repetitio et
+> confirmatio praecedentium collationum, 7-9. — Pars III. De decem plagis Aegyptiorum et
+> decem Christi condescensionibus. Sapientia discitur per flagella; decem plagae, 10. —
+> Hae respondent transgressionibus decem praeceptorum, 11-14. — Solus Christus ab his
+> liberat per decem condescensiones, 15-17. — Admonitio, ut fiat pascha cum Christo.*
+> Expect **17 numbered ¶¶,** already read to ¶ 5 on the plate in the course of closing
+> `bon-praec-c6` (see below).
+> ⛔ **RECEIVES A HAND-OFF: p. 529 n. 1 is Collatio VI's, already spent — `bon-praec-c7`
+> opens its OWN register at n. 2** (`Exod. 20, 16. et 17. Seq. locus est Deut. 30, 15. et
+> 16. — De his tribus praeceptis cfr. III. Sent. d. 37. dub. 8; d. 40. dub. 1. et 2.`,
+> anchoring ¶ 1's *eius*² — *Nec desiderabis uxorem eius*). **Do not restart p. 529's
+> register at 1** — `check-vol5-apparatus.py` already records the leaf as holding 1 (from
+> `bon-praec-c6`) and expects n. 2 onward from this chunk.
+> ⭐ **This work's LAST chunk needs no forwarding boundary test at its far end** — verify
+> p. 532 closes on `EXPLICIUNT COLLATIONES DE DECEM PRAECEPTIS.` (already known from the
+> pilot scouting) rather than asking the p. 498 rule, which has no next collation to ask
+> it about.
+> ⚠ **Already read from `bon-praec-c6`'s plate pass of p. 529 (full-page overview,
+> 1.3–1.7×, not yet column-cropped for building):** ¶¶ 1–5 in full, both columns. ¶ 1
+> (*Non loqueris contra proximum tuum falsum testimonium. Non concupisces rem proximi
+> tui. Nec desiderabis uxorem eius². — Considera, quod proposuerim in conspectu tuo
+> vitam et bonum…*) through ¶ 5 (*Sic igitur patet, quod sunt octo genera mendacii. Et
+> dicit Augustinus⁶, quod Deus potest facere…*) are legible on that overview and can be
+> transcribed from it directly rather than re-extracted from scratch, though `build-chunk`
+> should still re-verify every apparatus digit and anchor at proper zoom before adopting
+> anything from the overview pass.
+> ⚠ **Gutter, p. 529, this chunk's own region (below the `COLLATIO VII.` block, i.e. from
+> ¶ 1 onward):** UNMEASURED by `bon-praec-c6` — that chunk only needed the three lines
+> *above* the heading and left this region alone. Profile it fresh; do not reuse
+> `bon-praec-c6`'s failed measurement of the region above the heading (undetermined) or
+> its p. 526–528 values (different leaves entirely).
+>
+> ## ★ WHAT `bon-praec-c6` CONFIRMED (do not re-litigate)
+> 1. **`COLLATIO VI.` carries NO apparatus anchor**, and neither does its Summarium.
+>    **Seven works running now answer this way.**
+> 2. **No `3`/`5`-class digit correction was needed anywhere in this chunk** — a first
+>    for the work, after three consecutive chunks that each needed one. The one digit
+>    problem found (p. 529 n. 1) was the transcriber's own low-zoom misread, corrected on
+>    re-crop, not a printer's error — see above.
+> 3. **A stale, low-resolution extraction (1143×1699) of pp. 526–529 was caught and
+>    corrected before any text was committed.** `extract-pages.py --dpi 450` silently
+>    skips a page whose file already exists at ANY resolution — it does not check the
+>    existing file's actual dpi. **Always verify `PIL.Image.open(...).size` on a
+>    freshly-touched page before trusting it is at 450 dpi, especially early in a chunk
+>    when a prior default-dpi pull may already have populated the directory.** Re-extract
+>    with `--force` if the size looks wrong (vol5 pages at 450 dpi run ~2500×3800; the
+>    stale pull here was 1143×1699).
+> 4. **Two of this chunk's five leaves (525 and 529) are too structurally thin in this
+>    chunk's own region for the window-consensus gutter method to arbitrate at all** —
+>    p. 525's region is three lines above a footer, p. 529's is three lines above a
+>    full-measure heading. Where c5 found "too thin" at 0.04 of a leaf, these are
+>    comparably thin. **A gutter value was reported for p. 525 (1163) with the instability
+>    disclosed; none was reported for p. 529 — it is left undetermined rather than forced.**
+>    Reading such regions is still possible by eye from a full-page overview even when no
+>    reliable column-split number can be produced.
+>
+> ## Register — three rulings bind unchanged, the fourth is STILL untested, and c6 gives the *mandatum*/*lex* rule its heaviest run yet
+> ***pietas* → piety** — does not occur in this chunk. · ***intellectus* → understanding,
+> *intelligentia* → intelligence** — applied once (¶ 11's *principalem intellectum*), not
+> stressed against itself here since *intelligentia* does not occur. · ***praeceptum* →
+> precept · *mandatum* → commandment · *lex* → law,** carried, and **this chunk is the
+> heaviest sustained test yet:** ¶¶ 2–3 use *mandatum/mandata* nine times describing the
+> two tables, ¶¶ 6–7 turn *lex* over repeatedly in the technical sense across six
+> consecutive paragraphs, and the subheads *Sextum praeceptum.* / *Septimum praeceptum.*
+> keep *praeceptum* visible throughout. **The rule held everywhere and cost nothing new** —
+> offered to the gate as the density test, not a cost test.
+> ⛔ ***vacatio* / *quies*: STILL NEITHER WORD OCCURS** — untested across three consecutive
+> chunks now (c4, c5, c6). **Only `bon-praec-c7` remains to test it before the gate.**
+>
+> ## Cadence
+> **ONE gate, at the work close** (26 pp), now one chunk away — `bon-praec-c7` closes the
+> work. **Deploy boundary = work close** — nothing deploys until c7 lands and the gate
+> runs. ⚠ The apparatus band (26–30) is now confirmed sound at this chunk: c6 returned 26
+> (25 numbered + 1 unanchored), inside the band for the first time since c1. Still an
+> estimate, never a gate.
+> ⚠ Prod currently serves the *septem donis* deploy of 2026-08-29. **That line is DATED —
+> never restate prod from a note; check it before the work-close gate runs.**
+
+---
+
+> # (superseded) previous START HERE — the front was `bon-praec-c6`, 2026-08-31
+> # **`bon-praec-c5` IS LANDED. THE FRONT IS `bon-praec-c6`.**
 > Collatio V of the *Collationes de decem praeceptis*, **pp. 522–525**, Tier 2, built
 > 2026-08-31. 21 numbered ¶¶, **20 apparatus entries** (522 one of eight, received ·
 > 523 eight · 524 eight · 525 three of four), **zero `[?]` flags**. Registry division 5

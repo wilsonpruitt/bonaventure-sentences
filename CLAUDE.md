@@ -859,6 +859,29 @@ columns. **Body extent pp. 507–532 = 26 printed pages.** Raw band **L83158 →
   column (all three are in the right), yet the **left** block carries n. 1 — six lines
   long, it opened the block; meanwhile Collatio VI's n. 4 anchors in the **left** column
   and prints last in the **right** block. **Read anchors, only anchors.**
+  ⭐⭐⭐⭐⭐⭐ **MEASURED AT BOUNDARY 6 (`bon-praec-c6`, 2026-08-31): p. 529 FORWARDS — the
+  work's LAST boundary, and all six are now closed.** Collatio VI's own ¶ 20 does not
+  finish on p. 528; it crosses the gutter and runs three lines into p. 529, ending at
+  *Rogemus ergo Dominum Iesum Christum etc.,* immediately before the full-measure
+  `COLLATIO VII.` heading, subtitle and Summarium. **Collatio VII's ¶ 1
+  (*Non loqueris contra proximum tuum falsum testimonium…*) begins on that same leaf and
+  carries the anchor at *eius*²** (n. 2 answers *Nec desiderabis uxorem eius*), so
+  `bon-praec-c6` closes its own register at p. 529 n. 1 and `bon-praec-c7` opens at n. 2.
+  c6 also re-derived the boundary-5 hand-off rather than adopting it, confirming p. 525
+  n. 4 anchors ¶ 1's *facies*⁴ exactly as `bon-praec-c5` predicted.
+  ⛔⛔ **THE TALLY OVER ALL SIX SHARED LEAVES IS NOW CLOSED: FIVE "YES," ONE "NO" (p. 510
+  alone forwards nothing).** Every one of the six was re-asked on the plate independently
+  — none was ever copied forward, including this last one, where a copied "yes" would
+  have been cheapest to write and impossible to catch afterward. **The p. 498 rule —
+  a shared page forwards a runover only when the incoming unit's numbered BODY reaches
+  it, never merely its heading or Summarium — is the only discriminator that held across
+  all six, and it held every time.**
+  ⭐ **Self-caught error, not a printer's one:** c6 first misread p. 529 n. 1 as
+  `Matth. 24, 13` at low zoom; a 4× re-crop showed `Matth. 21, 13` clearly, the verse the
+  note is citing and the one the body's own *speluncam latronum* echoes. Disclosed in
+  `bon-praec-c6`'s Notes as the transcriber's own error, not the compositor's — the first
+  time in this work the digit-correction discipline caught a mistake on that side of the
+  boundary rather than the printer's.
 - **⚠ NEW HAZARD CLASS, found at `bon-praec-c2`: A FOOTNOTE CAN RUN OVER ONTO THE NEXT
   PAGE'S FOOTER BLOCK, AND THAT IS NOT A HAND-OFF.** p. 512 n. 8 (Augustine, *Enarrat. in
   Ps.* 69) begins in p. 512's register and its last two lines are set at the head of
@@ -882,7 +905,22 @@ columns. **Body extent pp. 507–532 = 26 printed pages.** Raw band **L83158 →
   six below — the lowest the work has produced, and by the same arithmetic pushed one step
   further: four leaves, a full register on only two of them, one note from p. 522 and three
   from p. 525. A count outside it is a prompt to recount on the plate, never a defect on
-  its own.
+  its own. `bon-praec-c6` returned **26** (25 numbered plus one unanchored editorial note
+  on p. 526's Introductio) — inside the band for the first time since c1, spanning five
+  leaves and owning a full register on three of them (526, 527, 528).
+- **⚠ A STALE, LOW-DPI EXTRACTION CAN SIT SILENTLY IN `raw/vision/` AND BE READ AS IF IT
+  WERE THE 450 DPI PLATE.** Found and corrected at `bon-praec-c6`: `extract-pages.py`
+  skips any page whose output file already exists, **regardless of the dpi it was
+  extracted at** — it does not check the existing file's actual resolution against the
+  requested one. pp. 526–529 had been pulled once at the volume's low default dpi before
+  a `--dpi 450` request was made for the same range; the request silently skipped all four
+  as "already existed," and two of them were read and partially transcribed at 1143×1699
+  before `PIL.Image.open(...).size` caught the mismatch (vol5 pages at 450 dpi run
+  ~2500×3800). Re-extracted with `--force` and every line re-verified before commit.
+  **Check the actual pixel size of a freshly-touched page before trusting it, especially
+  early in a chunk when an earlier default-dpi pull may already have populated the
+  directory** — the tool's own "Skipped: N (already existed)" message does not distinguish
+  a correct skip from this one.
 - **★★ THE RUNNING HEAD NAMES THE COLLATIO THAT BEGINS MID-PAGE — NEW HERE, AND IT IS THE
   PRINTING, NOT THE OCR.** On all six shared pages the running head is already set to the
   *incoming* collatio while the top of the page is still the outgoing one's text (p. 510's
@@ -1071,15 +1109,24 @@ columns. **Body extent pp. 507–532 = 26 printed pages.** Raw band **L83158 →
   one place a clash would have been most visible.
   ⚠ **A FOURTH REGISTER QUESTION OPENED AT c4 AND IS CARRIED, NOT SETTLED: *vacatio* /
   *vacare* → "leisure" / "to keep leisure," against *quies* / *requies* → "rest."**
-  ⛔ **Neither word occurs anywhere in c5, so the question is carried UNTESTED** — watch
-  for it in c6 and c7. The
-  collation is about the Sabbath, so "rest" is the idiomatic English for all four words —
-  but ¶ 7 puts *quietem animarum,* *quietem Domini in sepulcro,* *cum vacatione et
-  contemplatione Dei* and *quietationem* in one span, and ¶ 12 names *divina vacatio* as
-  the first of the three requisites. Collapsing *vacatio* into "rest" destroys the
-  distinction the paragraph is built on. **Same discriminator as the *intellectus* ruling —
-  the English is carrying a Latin distinction — so it goes to the work-close gate with the
-  other three, not settled chunk by chunk.**
+  ⛔ **Neither word occurs anywhere in c5, so the question was carried UNTESTED there** —
+  and `bon-praec-c6` (pp. 525–529, killing/adultery/theft) does not use either word
+  either. **Untested across three consecutive chunks now (c4, c5, c6); only `bon-praec-c7`
+  remains to test it before the work-close gate.** The
+  collation the question first arose in is about the Sabbath, so "rest" is the idiomatic
+  English for all four words there — but ¶ 7 puts *quietem animarum,* *quietem Domini in
+  sepulcro,* *cum vacatione et contemplatione Dei* and *quietationem* in one span, and ¶ 12
+  names *divina vacatio* as the first of the three requisites. Collapsing *vacatio* into
+  "rest" destroys the distinction the paragraph is built on. **Same discriminator as the
+  *intellectus* ruling — the English is carrying a Latin distinction — so it goes to the
+  work-close gate with the other three, not settled chunk by chunk.**
+  ⭐ **`bon-praec-c6` gives the *praeceptum*/*mandatum*/*lex* rule its heaviest sustained
+  run yet, and it cost nothing new:** ¶¶ 2–3 use *mandatum/mandata* nine times describing
+  the two tables of the Decalogue, ¶¶ 6–7 turn *lex* over repeatedly in the technical sense
+  of positive law and its minister across six consecutive paragraphs, and the subheads
+  *Sextum praeceptum.* / *Septimum praeceptum.* keep *praeceptum* visible at the
+  chapter-division level throughout — the longest stretch of continuous three-way pressure
+  the rule has faced, offered to the gate as a density test rather than a cost test.
 - **Cadence: ONE gate, at the work close** (26 pp — well under the ~100 pp trigger); deploy
   boundary = work close. **The shakedown trigger does not fire separately** — the register
   is the one the Hexaemeron and the *septem donis* have exercised over 177 pages, and its
@@ -1092,7 +1139,8 @@ columns. **Body extent pp. 507–532 = 26 printed pages.** Raw band **L83158 →
   `Coll. N`. Do it when c1 lands, with division 1 only. **Both went in with c1; each later
   chunk adds only its own `divisions` line**, after verifying the printed subtitle in
   place word for word (c2's *De primo praecepto decalogi in specie* verified on p. 510; c3's *De secundo
-  praecepto decalogi* verified on p. 515).
+  praecepto decalogi* verified on p. 515; c6's *De quinto, sexto et septimo praecepto*
+  verified on p. 525, the shorter form without *decalogi*, as V, VI and VII all carry it).
 
 ### Vol V mechanics
 
