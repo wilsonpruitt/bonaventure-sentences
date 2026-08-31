@@ -1,6 +1,66 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — **`bon-praec-c6` IS LANDED. THE FRONT IS `bon-praec-c7`.**
+> # ▶▶▶ START HERE — **`bon-praec-c7` IS LANDED. *DE DECEM PRAECEPTIS* IS COMPLETE.**
+> Collatio VII, **pp. 529–532**, Tier 2, built 2026-08-31. **THE WORK'S LAST CHUNK.**
+> Eighteen numbered ¶¶, **26 apparatus entries** (529 five of six, received —
+> n. 1 is Collation VI's, spent in `bon-praec-c6` · 530 seven · 531 twelve ·
+> 532 two), **zero `[?]` flags**. Registry division 7 went in with it, verified
+> against the in-place printed subtitle *De octavo, nono et decimo praecepto.*
+> word for word. Conventions: repo `CLAUDE.md` § **DECEM PRAECEPTIS** — that
+> block is authoritative, this is a pointer.
+>
+> ## ✅ THE WORK IS COMPLETE — all seven collationes Tier 2, pp. 507–532, zero `[?]` flags
+> `bon-praec-c1` through `bon-praec-c7` are all built and committed. The
+> work's own last boundary needed **no** p. 498-style forwarding test — there
+> is no Collatio VIII — and was fixed positively instead: p. 532 reads
+> **`EXPLICIUNT COLLATIONES DE DECEM PRAECEPTIS.`** set full-measure beneath
+> both columns, immediately after ¶ 18's closing *…vivit et regnat in saecula
+> saeculorum. Amen.*, with two more footnotes printed below it and blank paper
+> for the rest of the leaf (confirmed by direct inspection, not inferred from
+> white space). The p. 529 hand-off received from `bon-praec-c6` (n. 1 spent
+> there; this chunk opens its own register at n. 2, anchoring ¶ 1's *eius*²)
+> closes the work's sixth and last shared-leaf boundary, already measured and
+> logged at `bon-praec-c6`.
+>
+> ## Register — all four carried questions now closed at this chunk (three settled, one closes UNRESOLVED)
+> ***pietas* → piety** — applied cleanly once (¶ 8, *pietas ad parentes*), no
+> cost. ***intellectus* → understanding, *intelligentia* → intelligence** —
+> one disclosed cost site (¶ 3's *secundum generalem intelligentiam*), no
+> departure, same shape as `bon-praec-c1`'s ¶ 8 and `bon-praec-c5`'s ¶¶ 4/19.
+> ***praeceptum* → precept · *mandatum* → commandment · *lex* → law** — the
+> work's densest test yet (¶¶ 2, 6–9 alternate all three continuously), held
+> everywhere, cost nothing new; carried unbroken from c1 to the work's last
+> paragraph and never formally settled — **offer this to the gate as a
+> pattern of zero cost across seven chunks, which is itself the strongest
+> evidence a rule this corpus has for adopting a convention outright.**
+> ⛔ ***vacatio*/*vacare* vs *quies*/*requies* — CLOSES UNRESOLVED, not settled.**
+> Neither word occurs anywhere in pp. 529–532, the **fourth consecutive chunk**
+> (c4, c5, c6, c7) without either word since the question was opened at c4's
+> ¶¶ 7 and 12. **The work-close gate cannot test this against the plate — it
+> can only record that the distinction, real where first observed, was never
+> exercised again.** State this plainly at the gate as an open question the
+> work simply ran out of text to re-test, not as a rule validated by silence.
+>
+> ## ▶ THE FRONT IS NOW THE FOUR-PASS WORK-CLOSE POLISH GATE, THEN THE DEPLOY
+> Per the frozen Vol V cadence table: **decem-praeceptis gets ONE gate, at
+> the work close** (26 pp, well under the ~100 pp trigger) — this chunk closing
+> the work IS that trigger firing. Run the four passes (`[?]` flag resolution
+> — none pending; full-corpus style/formatting audit; cross-chunk boundary
+> integrity sweep over all seven collationes' six shared leaves; disk
+> cleanup) before deploying. **Both the polish gate's disposition and the
+> deploy itself need Wilson's explicit go-ahead — do NOT run either without
+> asking.** ⚠ Prod currently serves the *septem donis* deploy of 2026-08-29 —
+> that line is DATED, re-check it fresh at gate time rather than restating it.
+> **After the gate + deploy, the next work is one of the three remaining QD**
+> (scientia-christi pp. 3–43, mysterio-trinitatis pp. 45–115, or
+> perfectione-evangelica pp. 117–198 — Wilson's call on order) or Sermones
+> selecti (pp. 533–579, half-title verified at p. 533), per the work map in
+> `CLAUDE.md` § VOL V.
+
+---
+
+> # (superseded) previous START HERE — the front was `bon-praec-c7`, 2026-08-31
+> # **`bon-praec-c6` IS LANDED. THE FRONT IS `bon-praec-c7`.**
 > Collatio VI of the *Collationes de decem praeceptis*, **pp. 525–529**, Tier 2, built
 > 2026-08-31. 20 numbered ¶¶, **25 numbered apparatus entries plus 1 unanchored**
 > (525 one of four, received · 526 six numbered plus one unanchored editorial note ·
