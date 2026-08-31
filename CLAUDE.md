@@ -284,11 +284,11 @@ Vols V–X (2026-07-28).**
 | 7 | **De reductione artium** | 319–325 | `de-reductione` | 7 | **COMPLETE 2026-08-14** |
 | 8 | **Collationes in Hexaemeron** | 327–454 | `hexaemeron` | 11 | **COMPLETE 2026-08-23 — 23 collationes + Scholion; gated + deployed 2026-08-24.** (It is in Vol V, not Vol VII as the old tracker claimed.) |
 | 9 | **Coll. de septem donis** | 455–**503** | `septem-donis` | 12 | **COMPLETE 2026-08-29 — all 9 collationes Tier 2; work-close gate CLOSED CLEAN and DEPLOYED 2026-08-29.** End fixed positively from `EXPLICIUNT` on p. 503. |
-| 10 | **Coll. de decem praeceptis** | **505–532** | `decem-praeceptis` | 13 | **mini-pilot FROZEN 2026-08-29 — 7 collationes, spans frozen; no chunk built yet.** Half-title 505, blank 506, body 507–532, all plate-verified. |
+| 10 | **Coll. de decem praeceptis** | **505–532** | `decem-praeceptis` | 13 | **COMPLETE 2026-08-31 — all 7 collationes Tier 2; work-close gate CLOSED CLEAN, pushed and DEPLOYED to production 2026-08-31 (verified live: `/browse/13/d/7/q/bon-praec-c7` serves the `EXPLICIUNT`).** Half-title 505, blank 506, body 507–532, all plate-verified. |
 | 11 | Sermones selecti | **533**–~579 | `sermones-selecti` | 14 | planned. ⚠ **Half-title is p. 533, NOT ~535** (plate-read 2026-08-29): 533 half-title, 534 blank, body opens 535. |
 
 Order as actually run: Breviloquium → Itinerarium → De reductione → **Hexaemeron** (taken
-ahead of the QD, Wilson's call) → **septem donis** (complete) → **decem praeceptis** (pilot frozen) → the
+ahead of the QD, Wilson's call) → **septem donis** (complete) → **decem praeceptis** (COMPLETE, deployed) → the
 three QD → Sermones. The two remaining Collationes sets follow the Hexaemeron because the
 reportatio register is freshly proven; the QD register carries over from the Sentences
 almost unchanged and keeps.
@@ -1143,6 +1143,9 @@ columns. **Body extent pp. 507–532 = 26 printed pages.** Raw band **L83158 →
   hatch). (3) *vacatio*/*vacare*→leisure vs *quies*/*requies*→rest **CLOSES OPEN, NOT
   SETTLED** — opened at c4, never recurred in c5/c6/c7, so there is no second data point
   either way; the next work that uses either family is where this actually gets tested.
+  ★★★ **PUSHED AND DEPLOYED 2026-08-31.** `origin/master` is at the gate commit
+  `71a5470`; production serves all seven collationes (verified live at
+  `/browse/13/d/7/q/bon-praec-c7`). **The work is closed end to end — nothing is owed.**
 - **Registry:** add `decem-praeceptis` to `WORKS` in `site/scripts/build-content.mjs`
   (book 13, tome 5, `divisionLabel: "Collationes"`) **and to the collatio branch of
   `buildWorkChunkTitle`** beside `hexaemeron` and `septem-donis`, so the breadcrumb reads

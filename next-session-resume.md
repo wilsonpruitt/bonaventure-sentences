@@ -1,6 +1,33 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — **THE *DE DECEM PRAECEPTIS* WORK-CLOSE GATE IS CLEAN. THE FRONT IS THE DEPLOY.**
+> # ▶▶▶ START HERE — ***DE DECEM PRAECEPTIS* IS CLOSED END TO END. THE FRONT IS CHOOSING THE NEXT WORK.**
+> Verified 2026-08-31, at the start of the session after the gate. The gate block below
+> said push and deploy were still owed; **both have since happened.**
+>
+> - **Pushed:** `git ls-remote origin master` = `71a5470` = local `HEAD` = the gate commit
+>   ("Work-close polish gate: De decem praeceptis — CLEAN"). Working tree clean, 0 ahead.
+> - **Deployed:** production serves all seven collationes. `/browse/13` lists Collatio I–VII
+>   with links `bon-praec-c1`–`c7`; `/browse/13/d/7/q/bon-praec-c7` returns 200 and contains
+>   `EXPLICIUNT COLLATIONES DE DECEM PRAECEPTIS.` — i.e. the deploy postdates c7, the work's
+>   last chunk, built 2026-08-31. (The gate made zero corpus edits, so the deployed content
+>   is identical to the gate commit's.)
+>
+> **NOTHING IS OWED on *De decem praeceptis*.** Do not re-run the gate, do not re-deploy.
+>
+> ## ▶ THE FRONT: pick the next work — Wilson's call, per `CLAUDE.md` § VOL V work map
+> Four candidates remain in Vol V: **QD de scientia Christi** (pp. 3–43), **QD de mysterio
+> Trinitatis** (pp. 45–115), **QD de perfectione evangelica** (pp. 117–198), and **Sermones
+> selecti** (pp. 533–579, half-title verified at p. 533). Whichever is chosen starts with
+> its mini-pilot. ⚠ The three QD are a *different genre* from the four Collationes sets the
+> register was tuned on — expect the pilot to do real work, not to rubber-stamp.
+> ⚠ Carry forward the one open register question: ***vacatio*/*vacare*→leisure vs
+> *quies*/*requies*→rest**, opened at `bon-praec-c4` and never re-tested. Sermones selecti
+> is the likelier place it recurs.
+
+---
+
+> # (superseded — the deploy has since happened) previous START HERE, the gate close, 2026-08-31
+> # **THE *DE DECEM PRAECEPTIS* WORK-CLOSE GATE IS CLEAN.**
 > Gate run 2026-08-31, `manual-review/vol5-decem-praeceptis-workclose-gate.md`. Scope: all
 > seven `bon-praec-c1`–`c7`, pp. 507–532, 187 apparatus entries. **Verdict: CLEAN — zero
 > corpus defects, no edits made to any `bon-praec-c*` file.**
