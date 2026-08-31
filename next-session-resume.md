@@ -1,6 +1,58 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — ***DE DECEM PRAECEPTIS* IS CLOSED END TO END. THE FRONT IS CHOOSING THE NEXT WORK.**
+> # ▶▶▶ START HERE — **THE *DE SCIENTIA CHRISTI* MINI-PILOT IS FROZEN. THE FRONT IS `bon-qsc-q1`.**
+> Pilot run 2026-08-31, evidence in `manual-review/scientia-christi-pilot-scouting.md`;
+> conventions frozen in repo `CLAUDE.md` § **SCIENTIA CHRISTI** — **that block is
+> authoritative, this is a pointer.** The previous work, *De decem praeceptis*, is closed
+> end to end (gate CLEAN, pushed, deployed, verified live); nothing is owed on it.
+>
+> **The work:** *Quaestiones disputatae de scientia Christi*, work 2, book id **8**, slug
+> `scientia-christi`, id prefix **`bon-qsc-`**. Body **pp. 3–43 = 41 printed pages**, raw
+> band **L10048 → L16033**. **SEVEN chunks, `bon-qsc-q{1..7}`, `type: quaestio`.**
+> **The first *quaestio disputata* in Vol V — the Sentences conventions port, the
+> reportatio ones do not.**
+>
+> ## The five things the pilot settled that a chunk would otherwise get wrong
+> 1. **NO `SUMMARIUM`, NO scholia, NO articuli** — all three confirmed, the last two
+>    negatively on the band (grep returns zero for `ARTICULUS` and `SCHOLION`).
+> 2. **`QUAESTIO I.` carries NO apparatus anchor** — and a note of exactly the Hexaemeron's
+>    kind EXISTS, anchored in the **body** at p. 3's *ad infinita*¹. Such a note's presence
+>    is not evidence of an anchored heading.
+> 3. **p. 1's half-title covers ALL THREE QD**, so **works 3 and 4 have no half-title leaf.**
+> 4. **The work ends on NO colophon** — an ornamental rule, p. 44 blank at 0.0008 %, and
+>    p. 45's display heading fix p. 43 positively. Do not hunt for an `EXPLICIUNT`.
+> 5. ***vacatio*/*quies* cannot be tested in this work** — measured at the pilot, zero
+>    *vacatio*/*vacare*, and *quies*'s two hits are the verb *quiescat*. **No chunk has to
+>    re-ask it**; the question carries forward untested for a second work.
+>
+> ## ▶ FRONT = `bon-qsc-q1` — Quaestio I, **pp. 3–6**
+> `work: scientia-christi`, `division: 1`, `type: quaestio`, book id 8.
+> Title: *Utrum scientia Christi, secundum quod est Verbum, actu se extendat ad infinita.*
+> Header at raw **L10063**; body opens *Quaeritur de scientia Christi…* Eleven numbered
+> arguments on p. 3, `CONTRA`, `CONCLUSIO`, `Respondeo`, replies running onto p. 6.
+> **Gutter p. 3: ADOPT 1130** (the default's 1103 sits on an 8 px run — the display stack).
+> **p. 3 carries 9 footer notes.** ⭐ **Boundary 1 (p. 6) is already MEASURED: it FORWARDS**
+> — that leaf's nine notes split **nn. 1–6 Q. I / nn. 7–9 Q. II**, so q1 closes its register
+> at p. 6 n. 6 and `bon-qsc-q2` opens at n. 7. Re-derive it, do not adopt it.
+> ⛔ **Boundaries at pp. 10, 17, 27, 32, 37 are UNMEASURED — re-ask the p. 498 rule at each.**
+>
+> ## Two things to plan for, not to do now
+> - **`bon-qsc-q4` (pp. 17–27) is the largest chunk Vol V has attempted, 11 printed pp.** —
+>   the illumination question. **Not split** (the quaestio is Quaracchi's citation unit).
+>   **Use the small-incremental-append content-filter discipline from the start.**
+> - **Cadence is TWO gates:** a **shakedown gate at the close of `bon-qsc-q4` (p. 27)** — the
+>   trigger fires because this is a new genre, and has not fired since the Hexaemeron — then
+>   the work-close gate at p. 43. Deploy boundary = work close.
+>
+> ## Registry, to go in with q1 (division 1 only)
+> `WORKS["scientia-christi"] = { book: 8, tome: 5, divisionLabel: "Quaestiones", … }` **and a
+> new branch in `buildWorkChunkTitle` returning `Quaest. ${division}`** for the QD slugs,
+> beside the existing `Coll. ${division}` branch.
+
+---
+
+> # (superseded — the next work is chosen and its pilot is frozen) previous START HERE, 2026-08-31
+> # ***DE DECEM PRAECEPTIS* IS CLOSED END TO END.**
 > Verified 2026-08-31, at the start of the session after the gate. The gate block below
 > said push and deploy were still owed; **both have since happened.**
 >
