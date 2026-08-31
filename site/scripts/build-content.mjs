@@ -378,6 +378,7 @@ const WORKS = {
       4: "Collatio IV: De tertio praecepto decalogi",
       5: "Collatio V: De quarto praecepto",
       6: "Collatio VI: De quinto, sexto et septimo praecepto",
+      7: "Collatio VII: De octavo, nono et decimo praecepto",
     },
   },
   // Future Vol V works claim book ids here as their mini-pilots run:

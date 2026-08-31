@@ -2208,6 +2208,22 @@ KNOWN_TOTALS = {
               # 1168 on a 4 px run because the COLLATIO VI heading, subtitle, Summarium
               # and ¶ 1 fill the leaf below 50 %. Band 1186-1247 (62 px), 2 px island
               # peak 301, 15 of 23 windows agree at 1216-1217.
+    526: 6,   # bon-praec-c6, own register (6 numbered + 1 unanchored editorial note,
+              # the unanchored one not counted in this per-page footnote total).
+    527: 8,   # bon-praec-c6, own register.
+    528: 9,   # bon-praec-c6, own register.
+    529: 6,   # SHARED leaf -- FORWARDS, the work's last boundary and the sixth
+              # measured (bon-praec-c6/c7). n. 1 is Collatio VI's (bon-praec-c6); nn.
+              # 2-6 are Collatio VII's (bon-praec-c7), because Collatio VII's numbered
+              # ¶ 1 (`Non loqueris contra proximum tuum falsum testimonium...`) begins
+              # on the leaf, below the COLLATIO VII heading and Summarium, and carries
+              # the anchor at `eius`².
+    530: 7,   # bon-praec-c7, own register -- ordinary two-column leaf, no shared
+              # boundary at either end.
+    531: 12,  # bon-praec-c7, own register.
+    532: 2,   # bon-praec-c7, own register -- the work's last leaf; EXPLICIUNT
+              # COLLATIONES DE DECEM PRAECEPTIS. closes the work full-measure beneath
+              # both columns, with these two notes printed below it.
 }
 
 
