@@ -2088,6 +2088,37 @@ KNOWN_TOTALS = {
               # the default returns 1274 on a 1 px run because the leaf stacks the
               # COLLATIO III block across the gutter at roughly 65-73 % down the page.
               # Four windows over that region agree on a 64 px band 1227-1290.
+              # ⚠ c3 re-measured the LOWER region (rows 0.75-0.93, the two columns
+              # beneath that block) and got 1254 on a clean 63 px band 1223-1285. The two
+              # halves of the leaf differ by 4 px and BOTH are right -- region rule.
+    516: 6,   # block 4/2, anchors 2/4 -- the left block holds nn. 1-4 although nn. 3 and 4
+              # anchor in the right column (the standing overrun case). gutter 1336: the
+              # default returns 1327 on an 8 px run because the centre rule inked heavily
+              # (island 1333-1342, peak 510); band 1307-1365 (59 px) and every wide window
+              # agree at 1335-1338. The skew screen's 45 px drift is the head slice
+              # catching the running head, not skew.
+    517: 8,   # block 6/2, anchors 4/4 -- left block overruns by two. gutter 1209 (61 px)
+              # clean as returned. n. 4 is `Libr. IV. Reg. 1, 13`, the FIRST instance in
+              # this work of the unresolvable `Libr. <roman>.` scripture-book shape;
+              # settled by sense (the third captain of fifty before Elijah).
+    518: 8,   # block 3/5, anchors 4/4 -- here the left block UNDERRUNS by one: n. 4
+              # anchors at ¶ 20 in the left column, its entry prints in the right block.
+              # gutter 1363 (58 px) clean. ⚠ n. 3 is the densest raw failure in the span
+              # (`oejttos` for `veritas`, `ceritatv!` for `veritatis`, `adiscrete` for
+              # `« discrete`); the plate is the only witness and the body prose either
+              # side of it is clean.
+    519: 8,   # SHARED leaf -- and it FORWARDS, as p. 515 did and p. 510 did not. nn. 1-7
+              # are Collatio III's (bon-praec-c3; n. 1 answers ¶ 25's `ad Titum`, n. 7
+              # ¶ 27's `in Levitico`) and n. 8 (`Exod. 20, 8.`) is Collatio IV's, because
+              # Collatio IV's numbered ¶ 1 begins on the leaf and carries the anchor.
+              # ★ The tally is now one "no" and two "yes" across three boundaries, and it
+              # may NOT be summed: the p. 498 rule is re-asked on the plate at pp. 522,
+              # 525 and 529. Two consecutive "yes" answers are not a pattern.
+              # Block 2/6, anchors 2/5 -- the only leaf in c3's span where the block break
+              # coincides with the anchor break. ⚠ gutter 1177, measured on the UPPER
+              # region (rows 0.10-0.40) only: the default returns 1164 on a 1 px run
+              # because the COLLATIO IV block occupies roughly 45-60 % of the leaf.
+              # Band 1146-1207 (62 px), 3 px centre-rule island.
 }
 
 

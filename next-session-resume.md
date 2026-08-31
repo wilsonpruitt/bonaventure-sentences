@@ -1,6 +1,94 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — **`bon-praec-c2` IS LANDED. THE FRONT IS `bon-praec-c3`.**
+> # ▶▶▶ START HERE — **`bon-praec-c3` IS LANDED. THE FRONT IS `bon-praec-c4`.**
+> Collatio III of the *Collationes de decem praeceptis*, **pp. 515–519**, Tier 2, built
+> 2026-08-30. 27 numbered ¶¶, **31 apparatus entries** (515 two, received · 516 six ·
+> 517 eight · 518 eight · 519 seven of eight), **zero `[?]` flags**. Registry division 3
+> went in with it. Conventions: repo `CLAUDE.md` § **DECEM PRAECEPTIS** — that block is
+> authoritative, this is a pointer. **NOTHING IS OWED and nothing is gated.** One gate
+> only, at the work close.
+>
+> ## ⛔⛔ THREE BOUNDARIES, THREE READINGS — ONE "NO," TWO "YES," AND IT MAY NOT BE SUMMED
+> c1 measured **boundary 1 (p. 510): forwards NOTHING.** c2 measured **boundary 2
+> (p. 515): FORWARDS.** c3 measured **boundary 3 (p. 519): FORWARDS** — that leaf's
+> **nn. 1–7 are Collatio III's** and **n. 8 is Collatio IV's**, because Collatio IV's
+> numbered ¶ 1 (*Memento, ut diem Sabbati sanctifices*) begins on the leaf and carries the
+> anchor. **Same p. 498 rule every time; the answer is a fresh reading every time.**
+> ⭐ **Two consecutive "yes" answers are not a pattern and a majority is not evidence.**
+> Re-ask it on the plate at pp. 522, 525, 529 — read anchors, only anchors.
+> ⚠ c3 also confirmed the running-head rule at both its ends (p. 515's head reads
+> `COLLATIO III.` above two columns of Collatio II; p. 519's reads `COLLATIO IV.` above a
+> leaf and a half of Collatio III), now attested on **four** of the six shared leaves.
+> ⭐ c3 re-derived the incoming hand-off instead of adopting it, and verified p. 515
+> nn. 4 and 5 **for position and column, not merely ownership.** Do the same at p. 519.
+>
+> ## ▶ FRONT = `bon-praec-c4` — Collatio IV, **pp. 519–522**, shared at BOTH ends
+> `work: decem-praeceptis`, `division: 4`, `type: collatio`, book id 13.
+> Display heading at raw **L85022**; the next real bare header (`COLLATIO V`) is at
+> **L85435**. Index subtitle to verify in place, word for word: *De tertio praecepto
+> decalogi.* Expect **~26–32 apparatus entries**, ~7 footer notes per page.
+> ⛔ **RECEIVES A HAND-OFF: p. 519 n. 8 is yours** — `Exod. 20, 8. — Seq. locus est
+> Ps. 102, 17. et 18. Cfr. III. Sent. d. 37. dub. 3.`, answering ¶ 1's *Memento, ut diem
+> Sabbati sanctifices.* Read it off the 450 dpi footer band, not from a whole-page read.
+> **Do not restart p. 519's register at 1** — c3 owns 1–7 and `check-vol5-apparatus.py`
+> already records the leaf as holding 8 and prints `PENDING n.8` until you write it.
+> **Makes a hand-off at p. 522 only if Collatio V's numbered body reaches that leaf.**
+> ⚠ **Gutter p. 519 = 1177, and that is the UPPER region only** (rows 0.10–0.40), because
+> the `COLLATIO IV.` heading + subtitle + Summarium occupy roughly 45–60 % of the leaf and
+> `colcrop` returns 1164 on a **1 px** run. **c4's region is BELOW that block — profile it
+> separately and expect a value a few px off c3's**, exactly as p. 515 came in at 1258
+> above the heading and 1254 below it. Both were right.
+> ⚠ Collatio IV's Summarium stands whole on p. 519 (Collatio III's stood whole on p. 515;
+> Collatio II's spanned two leaves). **Count the body on the plate every time** — c4's
+> Summarium body count runs to `16`, read at 2.2× on p. 519.
+>
+> ## ★ WHAT c3 CONFIRMED (do not re-litigate)
+> 1. **`COLLATIO III.` carries NO apparatus anchor**, and neither does its Summarium.
+>    **Four works running now answer this way.** Do not go looking for one.
+> 2. **No digit had to be settled against the raw's arithmetic on this span** — but four
+>    raw garbles that read like digit errors are letter-for-digit OCR (`n. iO.` → `n. 40.`,
+>    `Matlh. S, 33.` → `Matth. 5, 33`, `d. XX.XIX.` → `d. XXXIX.`, `Cap. 6, l6` →
+>    `Cap. 6, 16`), and two BODY numerals in the raw are wrong in the `3`/`5` class
+>    (¶ 25 prints `25.`, raw `23.`; the Summarium prints `25.` and `15.`, raw `23.`/`IS.`).
+>    p. 517 n. 4's `Libr. IV. Reg. 1, 13` was ambiguous on the plate and is settled by
+>    sense. **Never adopt a digit from the raw; never adopt one from the plate alone
+>    either when the glyph is the 1/4 shape.**
+> 3. **⚠ ONE APPARATUS ENTRY CAN BE THE DENSEST RAW FAILURE ON A LEAF WHOSE BODY IS
+>    CLEAN.** p. 518 n. 3 gives `oejttos` for `veritas`, `ceritatv!` for `veritatis` and
+>    `adiscrete` for `« discrete` — three corruptions in one note, with clean prose either
+>    side of it. **Grade the raw per region, never per page.**
+> 4. **The `Libr. <roman>. <ch>, <v>` genre trait fires here for the first time in this
+>    work** — p. 517 n. 4's `Libr. IV. Reg. 1, 13` is the unresolvable shape; p. 519 n. 6's
+>    `Libr. IV. Dialog. c. 18` is its near-twin and is NOT (it names a work, not a book).
+> 5. **No footnote runs over a page boundary on this span** — the p. 512 hazard class did
+>    not recur. Ledgered as a negative.
+> 6. Block-vs-anchor structure disagreed in a different way on every leaf: p. 516 blocks
+>    4/2 vs anchors 2/4 (left overruns), p. 517 6/2 vs 4/4 (overruns), p. 518 3/5 vs 4/4
+>    (left **underruns**), p. 519 2/6 vs 2/5 (the only coincidence). **Read anchors, only
+>    anchors.**
+>
+> ## Register — two rulings bind, the third is CARRIED, and c3 made NO departure
+> ***pietas* → piety everywhere** (does not occur in c3) · ***intellectus* → understanding,
+> *intelligentia* → intelligence in body prose** · ▶ ***praeceptum* → precept · *mandatum*
+> → commandment · *lex* → law**, following c1 and c2, **carried not settled.**
+> ⭐ **c3 is the control on c2's one disclosed departure.** *Intellectus* occurs four times
+> as a noun in c3 and is rendered **understanding** every time, including ¶¶ 23/24 where
+> "sense" would have been the idiomatic English. **That is a cost, not an error — c2's
+> departure was licensed only because following the rule there would have failed to NAME
+> the Averroist doctrine.** The exception the gate must rule on stayed narrow.
+> ⚠ The *praeceptum*/*mandatum*/*lex* pressure is heaviest so far in c3, whose ¶ 2 puts all
+> three words in one clause. Still carried, still unsettled, still for the gate.
+>
+> ## Cadence
+> **ONE gate, at the work close** (26 pp); the shakedown trigger does not fire separately.
+> **Deploy boundary = work close** — nothing deploys until all seven land. Plates per
+> collatio, never in bulk.
+> ⚠ Prod currently serves the *septem donis* deploy of 2026-08-29. **That line is DATED —
+> never restate prod from a note; check it.**
+
+---
+
+> # (superseded) previous START HERE — the front was `bon-praec-c3`, 2026-08-30
 > Collatio II of the *Collationes de decem praeceptis*, **pp. 510–515**, Tier 2, built
 > 2026-08-30. 29 numbered ¶¶, **32 apparatus entries** (510 none · 511 six · 512 eight ·
 > 513 nine · 514 six · 515 three), **zero `[?]` flags**. Registry division 2 went in with

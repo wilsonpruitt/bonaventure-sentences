@@ -816,6 +816,18 @@ columns. **Body extent pp. 507–532 = 26 printed pages.** Raw band **L83158 →
   the p. 498 rule from the RECEIVING side at boundary 1: it opened p. 510 expecting
   nothing, read none of that leaf's seven notes as its own, and restarted at p. 511 n. 1
   legitimately.
+  ⭐⭐⭐ **MEASURED AT BOUNDARY 3 (`bon-praec-c3`, 2026-08-30): p. 519 FORWARDS.** That leaf
+  carries eight footer notes; **nn. 1–7 are Collatio III's** (n. 1 answers ¶ 25's *ad
+  Titum,* n. 7 ¶ 27's *in Levitico*) and **n. 8 — `Exod. 20, 8. — Seq. locus est Ps. 102,
+  17. et 18. Cfr. III. Sent. d. 37. dub. 3.` — is Collatio IV's**, because Collatio IV's
+  numbered ¶ 1 (*Memento, ut diem Sabbati sanctifices*) begins on the leaf and carries the
+  anchor. c3 also re-derived the boundary-2 hand-off rather than adopting it, and verified
+  p. 515 nn. 4 and 5 **for POSITION and COLUMN, not merely ownership** (n. 4 anchors left,
+  n. 5 right, both entries printed in the right block).
+  ⛔ **The tally now stands at one "no" and two "yes," and it may NOT be summed.** Two
+  consecutive "yes" answers are not a pattern and a majority is not evidence; the
+  discriminator is still the p. 498 rule and nothing else. **Re-ask it on the plate at
+  pp. 522, 525 and 529, one boundary at a time.**
 - **⚠ NEW HAZARD CLASS, found at `bon-praec-c2`: A FOOTNOTE CAN RUN OVER ONTO THE NEXT
   PAGE'S FOOTER BLOCK, AND THAT IS NOT A HAND-OFF.** p. 512 n. 8 (Augustine, *Enarrat. in
   Ps.* 69) begins in p. 512's register and its last two lines are set at the head of
@@ -878,6 +890,20 @@ columns. **Body extent pp. 507–532 = 26 printed pages.** Raw band **L83158 →
   anything.** p. 515 is the stacked-region case again — a **1 px** run, corrected to
   **1258** by profiling only the rows above the mid-leaf `COLLATIO III.` block; ⛔ note that
   c3's region is *below* that block, so **c2's value must be re-measured, not reused.**
+  ⭐ **`bon-praec-c3` re-measured it and the two halves of p. 515 differ by 4 px, BOTH
+  right:** the lower region (rows 0.75–0.93, the columns beneath the `COLLATIO III.` block)
+  gives a clean 63 px band 1223–1285, midpoint **1254**, against c2's 1258 above. A gutter
+  is a property of a region; a 4 px difference across a mid-leaf heading is the region rule
+  working, not a correction. **c3's further measurements:** p. 516 = **1336** — the
+  default's 1327 sits on an 8 px run because the centre rule inked heavily (island
+  1333–1342, peak 510) and every wide window agrees with the band's midpoint; ⚠ the skew
+  screen's reported 45 px drift there is the head slice catching the running head, not
+  skew. pp. 517 (**1209**, 61 px) and 518 (**1363**, 58 px) clean as returned. p. 519 =
+  **1177**, the stacked-region case again — the default returns 1164 on a **1 px** run
+  because the `COLLATIO IV.` heading, subtitle and Summarium occupy roughly 45–60 % of the
+  leaf; profiling rows 0.10–0.40 gives a 62 px band 1146–1207. **Five of the eleven leaves
+  this work has measured defeat the default, and the stacked region is the reason on three
+  of them.**
 - **★ REGISTER: THE TWO *SEPTEM DONIS* RULINGS BIND, UNCHANGED** — *pietas* → "piety"
   everywhere; *intellectus* → understanding / *intelligentia* → intelligence in body prose,
   with the Douay's "understanding" left standing inside a quotation. Stated in full in
@@ -913,6 +939,19 @@ columns. **Body extent pp. 507–532 = 26 printed pages.** Raw band **L83158 →
   first place where following the rule would produce not a cost but an ERROR** — c1's ¶ 8
   cost idiom, this would cost the doctrine's name. **The rule was NOT reopened and no other
   site was touched. Follow c2 for consistency until the work-close gate rules.**
+  ▶ **`bon-praec-c3` followed the rule at every site and made NO departure**, which is the
+  datum that shows where c2's line falls. *Intelligentia* does not occur in the collatio;
+  *intellectus* occurs four times as a noun and is rendered **understanding** each time —
+  ¶ 5's *perverso intellectu sacrae Scripturae* (the same phrase c2 rendered so at its
+  ¶¶ 24 and 26), ¶ 21's *fides in intellectu,* and ¶¶ 23/24's *intellectus verborum
+  litteralis* / *spiritualis intellectus,* where "sense" would have been the idiomatic
+  English. ⭐ **That is a COST, not an error, and so it is not c2's case.** c2 departed
+  because "understanding" would have failed to *name* the Averroist doctrine; here it names
+  the thing correctly and merely reads less naturally. **The exception the gate has to rule
+  on is narrow, and c3 is the control that shows it stayed narrow.**
+  ⚠ The *praeceptum*/*mandatum*/*lex* pressure is heaviest so far in c3, whose ¶ 2 puts all
+  three words in one clause (*decem sunt mandata decalogi, quae sunt fundamenta omnium
+  legum*) while its title says *praecepto.* c3 followed c1 and c2 and carried it.
 - **Cadence: ONE gate, at the work close** (26 pp — well under the ~100 pp trigger); deploy
   boundary = work close. **The shakedown trigger does not fire separately** — the register
   is the one the Hexaemeron and the *septem donis* have exercised over 177 pages, and its
@@ -924,7 +963,8 @@ columns. **Body extent pp. 507–532 = 26 printed pages.** Raw band **L83158 →
   `buildWorkChunkTitle`** beside `hexaemeron` and `septem-donis`, so the breadcrumb reads
   `Coll. N`. Do it when c1 lands, with division 1 only. **Both went in with c1; each later
   chunk adds only its own `divisions` line**, after verifying the printed subtitle in
-  place word for word (c2's *De primo praecepto decalogi in specie* verified on p. 510).
+  place word for word (c2's *De primo praecepto decalogi in specie* verified on p. 510; c3's *De secundo
+  praecepto decalogi* verified on p. 515).
 
 ### Vol V mechanics
 
