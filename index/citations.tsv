@@ -21910,6 +21910,29 @@ bon-praec-c7	5	apparatus:p532-1	p532-1	scripture	apparatus-explicit	Luc. 1, 79	L
 bon-praec-c7	5	apparatus:p532-1	p532-1	crossref	logical	III. Sent. d. 22. q. 1.	bon-sent-III-d22-a1-q1		chunk		
 bon-praec-c7	5	apparatus:p532-2	p532-2	scripture	apparatus-explicit	Rom. 6, 4	Rom 6:4	A	verse		
 bon-praec-c7	5	apparatus:p532-2	p532-2	scripture	apparatus-explicit	Exod. 12, 3	Exod 12:3	A	verse		
+bon-qsc-q1	5	apparatus:p3-1	p3-1	crossref	logical	III. Sent. d. 14	III:d14		distinctio		
+bon-qsc-q1	5	apparatus:p3-1	p3-1	crossref	logical	I. Sent. d. 35. q. 5	bon-sent-I-d35-a1-q5		chunk		
+bon-qsc-q1	5	apparatus:p3-1	p3-1	crossref	chain-continuation	d. 39. a. 1. q. 1	bon-sent-I-d39-a1-q1		chunk		
+bon-qsc-q1	5	apparatus:p3-1	p3-1	crossref	chain-continuation	d. 43. q. 1	bon-sent-I-d43-a1-q1		chunk		
+bon-qsc-q1	5	apparatus:p3-3	p3-3	crossref	page	tom. III. pag. 314, nota 4	bon-sent-III-d14-a2-q3		chunk		
+bon-qsc-q1	5	apparatus:p3-7	p3-7	scripture	apparatus-explicit	Ps. 146, 5	Ps 146:5	A	verse		
+bon-qsc-q1	5	apparatus:p4-1	p4-1	crossref	page	tom. I. pag. 685, nota 7	bon-sent-I-d39-a1-q1		chunk		
+bon-qsc-q1	5	apparatus:p4-1	p4-1	crossref	page	pag. 690, nota 2	bon-sent-I-d39-a1-q2+bon-sent-I-d39-a1-q3		page-multi		
+bon-qsc-q1	5	apparatus:p4-2	p4-2	crossref	page	tom. II. pag. 21, nota 6	bon-sent-II-d1-p1-a1-q2		chunk		
+bon-qsc-q1	5	apparatus:p4-4	p4-4	crossref	page	tom. II. pag. 21, nota 3	bon-sent-II-d1-p1-a1-q2		chunk		
+bon-qsc-q1	5	apparatus:p4-8	p4-8	scripture	apparatus-explicit	Psalm. 146, 5	Ps 146:5	A	verse		
+bon-qsc-q1	5	apparatus:p5-1	p5-1	scripture	apparatus-explicit	Psalm. 146, 5	Ps 146:5	A	verse		
+bon-qsc-q1	5	apparatus:p5-3	p5-3	crossref	logical	I. Sent. d. 39. a. 1. q. 3.	bon-sent-I-d39-a1-q3		chunk		
+bon-qsc-q1	5	apparatus:p5-3	p5-3	crossref	logical	III. Sent. d. 14. a. 2. q. 3.	bon-sent-III-d14-a2-q3		chunk		
+bon-qsc-q1	5	apparatus:p5-4	p5-4	crossref	logical	I. Sent. d. 35. q. 1.	bon-sent-I-d35-a1-q1		chunk		
+bon-qsc-q1	5	apparatus:p5-5	p5-5	crossref	logical	I. Sent. d. 41. a. 2. q. 2.	bon-sent-I-d41-a2-q2		chunk		
+bon-qsc-q1	5	apparatus:p5-5	p5-5	crossref	chain-continuation	d. 45. a. 1. q. 2.	bon-sent-I-d45-a1-q2		chunk		
+bon-qsc-q1	5	apparatus:p5-6	p5-6	authority	authority:August.	I. Sent. d. 35. q. 5.			excluded		
+bon-qsc-q1	5	apparatus:p6-1	p6-1	crossref	page	tom. I. pag. 348, nota 5	bon-sent-I-d19-p1-a1-q4		chunk		
+bon-qsc-q1	5	apparatus:p6-2	p6-2	scripture	apparatus-explicit	Psalm. 61, 12	Ps 61:12	A	verse		
+bon-qsc-q1	5	apparatus:p6-2	p6-2	crossref	logical	I. Sent. d. 27. p. II. q. 2.	bon-sent-I-d27-p2-a1-q2		chunk		
+bon-qsc-q1	5	apparatus:p6-5	p6-5	crossref	page	tom. I. pag. 623, nota 3	bon-sent-I-d36-a2-q1		chunk		
+bon-qsc-q1	5	apparatus:p6-6	p6-6	crossref	logical	I. Sent. d. 45. a. 1. q. 2.	bon-sent-I-d45-a1-q2		chunk		
 bon-red	5	latin_body	p323-4	scripture	body-ordinal	Ioannis decimo quarto	Ioan 14:6	B	verse		
 bon-red	5	latin_body		scripture	body-ordinal	Matthaei undecimo	Matth 11	C	chapter		
 bon-red	5	latin_body	p323-10	scripture	body-ordinal	Proverbiorum octavo	Prov 8:24	B	verse		

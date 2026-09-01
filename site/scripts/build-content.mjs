@@ -381,9 +381,19 @@ const WORKS = {
       7: "Collatio VII: De octavo, nono et decimo praecepto",
     },
   },
+  // See manual-review/scientia-christi-pilot-scouting.md.
+  "scientia-christi": {
+    book: 8,
+    tome: 5,
+    title: "Quaestiones disputatae de scientia Christi",
+    initial: "Q",
+    divisionLabel: "Quaestiones",
+    divisions: {
+      1: "Quaestio I: Utrum scientia Christi, secundum quod est Verbum, actu se extendat ad infinita",
+    },
+  },
   // Future Vol V works claim book ids here as their mini-pilots run:
-  // scientia-christi: 8, mysterio-trinitatis: 9,
-  // perfectione-evangelica: 10, sermones-selecti: 14.
+  // mysterio-trinitatis: 9, perfectione-evangelica: 10, sermones-selecti: 14.
 };
 
 function buildWorkChunkTitle(meta) {
@@ -406,6 +416,8 @@ function buildWorkChunkTitle(meta) {
     meta.workSlug === "decem-praeceptis"
   )
     return `Coll. ${meta.division}`;
+  // Flat works whose division is the quaestio (the three quaestiones disputatae).
+  if (meta.workSlug === "scientia-christi") return `Quaest. ${meta.division}`;
   // Breviloquium-style: "Pars 3, Cap. 4".
   const parts = [`Pars ${meta.division}`];
   if (meta.capitulum) parts.push(`Cap. ${meta.capitulum}`);

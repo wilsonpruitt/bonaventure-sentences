@@ -43,6 +43,11 @@ VOL5 = os.path.join(REPO_ROOT, "vol5")
 # Printed-page → true total number of footer notes, where known from an
 # eyes-on band read. Lets the script distinguish "still pending" from "lost".
 KNOWN_TOTALS = {
+    # QD de scientia Christi (pp. 3-43) — the work opens the volume.
+    3: 9,
+    4: 9,
+    5: 7,
+    6: 9,   # nn.7-9 are Quaest. II's — pending until bon-qsc-q2 lands
     205: 8,
     206: 11,
     207: 8,
