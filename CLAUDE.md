@@ -1,6 +1,6 @@
 # Bonaventure Sentences — Project Guide for Claude
 
-You are working on an English translation of **St. Bonaventure's *Opera Omnia*** (Quaracchi edition, 1882–1902). Status (2026-08-31): **Books I–IV are complete and published** (Vols I–IV, all Tier 2). The active front is **Vol V**, where the Breviloquium, Itinerarium, De reductione, the Collationes in Hexaemeron, the *Collationes de septem donis* (pp. 457–503, gated + deployed 2026-08-29) and the *Collationes de decem praeceptis* (pp. 507–532, gate CLEAN, **pushed + DEPLOYED 2026-08-31**) are ALL COMPLETE. **The next work is the *QD de scientia Christi*, pp. 3–43** — its **mini-pilot is FROZEN 2026-08-31** (§ SCIENTIA CHRISTI below; evidence in `manual-review/scientia-christi-pilot-scouting.md`), and the front is its first chunk, `bon-qsc-q1` (pp. 3–6). The live site is https://bonaventure.wrootpress.com. Always defer to `next-session-resume.md` for the exact current position.
+You are working on an English translation of **St. Bonaventure's *Opera Omnia*** (Quaracchi edition, 1882–1902). Status (2026-08-31): **Books I–IV are complete and published** (Vols I–IV, all Tier 2). The active front is **Vol V**, where the Breviloquium, Itinerarium, De reductione, the Collationes in Hexaemeron, the *Collationes de septem donis* (pp. 457–503, gated + deployed 2026-08-29) and the *Collationes de decem praeceptis* (pp. 507–532, gate CLEAN, **pushed + DEPLOYED 2026-08-31**) are ALL COMPLETE. **The next work is the *QD de scientia Christi*, pp. 3–43** — its **mini-pilot is FROZEN 2026-08-31** (§ SCIENTIA CHRISTI below; evidence in `manual-review/scientia-christi-pilot-scouting.md`), and its first chunk **`bon-qsc-q1` (pp. 3–6) is BUILT** (2026-08-31, Tier 2, 31 entries, zero `[?]`); the front is `bon-qsc-q2` (pp. 6–10). The live site is https://bonaventure.wrootpress.com. Always defer to `next-session-resume.md` for the exact current position.
 
 This file is loaded into every Claude Code session in this repo. Read it before making changes to translation files or the build pipeline.
 
@@ -1241,6 +1241,20 @@ Raw band **L10048 → L16033**.
   genre in Vol V.** ▶ **Shakedown gate at the close of `bon-qsc-q4` (p. 27, 24 pp in)** —
   inside the frozen 15–25 pp window and immediately after the work's largest and most-read
   chunk. Deploy boundary = work close. **Plates per quaestio, never in bulk.**
+- **✅ `bon-qsc-q1` IS BUILT (pp. 3–6, 31 entries, zero `[?]`, 2026-08-31).** Four pilot claims
+  confirmed on its own plates: the unanchored `QUAESTIO I.`, the body-anchored p. 3 n. 1, the
+  absent `SUMMARIUM`/scholia, and **boundary 1 at p. 6 re-derived and FORWARDING** (nn. 1–6
+  Q. I / nn. 7–9 Q. II). Two things the pilot could not have known: **(a) the default gutter
+  window is unsafe on any leaf carrying a mid-leaf `QUAESTIO` heading** — p. 6's default gave
+  1398 on a 2 px run *and* ~1242 on a 315 px run at once; profiling rows 0.20–0.50 (above the
+  heading) locks to **1424** on a 1 px spread. Gutters: p. 3 **1130** · p. 4 **1417** ·
+  p. 5 **1152** · p. 6 **1424**. **(b) ⚠ THE OCR'S DIGITS LIE IN THIS WORK, and the raw is
+  otherwise clean enough to lull you** — five apparatus defects caught on pp. 3–5 alone
+  (`III. Sent. j. U` → **d. 14** · `pag. 683` → **685** · `text. 2-3. (I.V. c. 1.)` →
+  **2-5. (IX. c. 1.)** · `Psalm. 146, 3` → **146, 5** · `d. 43. a. 1. q. 2` → **d. 45**).
+  **Read every `pag. N` and every `d. N. a. M. q. K` off the plate.** Also: p. 5's marginale
+  prints defectively as `tinctio.` (margin blank above it at full threshold) — transcribed
+  **Distinctio.** on plate evidence, recorded in the chunk's Notes, not carried as a flag.
 - **★ REGISTER: the Sentences key-terminology and scholastic-formulae tables govern** — this
   is the genre they were written for. Both *septem donis* rulings continue to bind.
   ⚠ ***intellectus*/*intelligentia* is under MAXIMUM pressure here** — the work is about
