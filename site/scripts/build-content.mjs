@@ -390,6 +390,7 @@ const WORKS = {
     divisionLabel: "Quaestiones",
     divisions: {
       1: "Quaestio I: Utrum scientia Christi, secundum quod est Verbum, actu se extendat ad infinita",
+      2: "Quaestio II: Utrum Deus res cognoscat per similitudines rerum, an per earum essentiam",
     },
   },
   // Future Vol V works claim book ids here as their mini-pilots run:

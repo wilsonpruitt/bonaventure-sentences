@@ -47,7 +47,11 @@ KNOWN_TOTALS = {
     3: 9,
     4: 9,
     5: 7,
-    6: 9,   # nn.7-9 are Quaest. II's — pending until bon-qsc-q2 lands
+    6: 9,   # nn.1-6 Quaest. I, nn.7-9 Quaest. II; page fully consumed
+    7: 11,
+    8: 7,
+    9: 6,
+    10: 8,  # nn.1-7 Quaest. II, n.8 Quaest. III — pending until bon-qsc-q3 lands
     205: 8,
     206: 11,
     207: 8,
