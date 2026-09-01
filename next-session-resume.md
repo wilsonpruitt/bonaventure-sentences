@@ -1,6 +1,63 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — **`bon-qsc-q1` IS LANDED. THE FRONT IS `bon-qsc-q2`.**
+> # ▶▶▶ START HERE — **`bon-qsc-q2` IS LANDED. THE FRONT IS `bon-qsc-q3`.**
+> Quaestio II, **pp. 6–10**, Tier 2, built 2026-09-01. Eleven affirmative arguments,
+> **thirteen** `CONTRA`, `CONCLUSIO`, `Respondeo`, thirteen replies; **34 apparatus entries**
+> (p. 6 nn. 7–9 three, picked up from `q1` · p. 7 eleven · p. 8 seven · p. 9 six · p. 10 nn. 1–7
+> seven), **zero `[?]` flags**. Registry division 2 went in with it; no `buildWorkChunkTitle`
+> change was needed. Conventions: repo `CLAUDE.md` § **SCIENTIA CHRISTI** — **that block is
+> authoritative, this is a pointer.** Committed locally, **not pushed, not deployed** — deploy
+> boundary is the work close at p. 43.
+>
+> ## ▶ FRONT = `bon-qsc-q3` — Quaestio III, **pp. 10–17**
+> `work: scientia-christi`, `division: 3`, `type: quaestio`, book id 8, id `bon-qsc-q3`.
+> Title: *Utrum Deus res cognoscat per similitudines realiter differentes.*
+> Header at raw **L11131**; body opens *Supposito, quod Deus cognoscat res per similitudines
+> exemplares, quaeritur…*
+> ⭐ **IT RECEIVES A HAND-OFF AT p. 10.** The boundary was measured on the plate for `q2` and
+> **FORWARDS**: `QUAESTIO III.` stands full-measure at ~63 % of the leaf and Q. III's own numbered
+> body begins on the same leaf. **p. 10 nn. 1–7 are spent in `bon-qsc-q2`; this chunk's register
+> opens at n. 8**, which anchors argument 1's *de ideis*⁸ (*Quaest. 46. n. 2. — Cfr. I. Sent. d. 35.
+> q. 2. seqq., ubi eadem quaestio solvitur.*). `tools/check-vol5-apparatus.py` carries p. 10's total
+> as 8 with n. 8 marked PENDING — that clears when this chunk lands.
+> **Gutter p. 10: ADOPT 1354** — but re-derive it for *this* chunk's region (rows below the
+> `QUAESTIO III.` heading).
+> ⛔ **Boundary at p. 17 is UNMEASURED — re-ask the p. 498 rule on the plate.**
+>
+> ## What `q2` settled that `q3` should not re-litigate
+> 1. **⭐ THE DEFAULT GUTTER WINDOW IS UNSAFE ACROSS THIS WORK, heading or no heading.** pp. 8 and 9
+>    carry no mid-leaf heading and the default still returns 2–3 px runs. **Profile rows 0.20–0.50
+>    on every leaf**; treat `colcrop.py`'s auto value as advisory. Measured so far: p. 3 **1130** ·
+>    p. 4 **1417** · p. 5 **1152** · p. 6 **1424** · p. 7 **1141** · p. 8 **1397** · p. 9 **1214** ·
+>    p. 10 **1354**. Parity is still retired — do not predict from it.
+> 2. **A footnote CAN run over the gutter here** (p. 9 n. 4). `q1`'s "no entry runs over a boundary
+>    or the gutter" was a chunk observation and is **not** a work-level rule.
+> 3. **⚠ THE OCR'S DIGITS STILL LIE — and Quaracchi's own can too.** No new OCR digit defect was
+>    found in `q2`'s eleven cross-references, which is a negative result, not a licence. Separately,
+>    p. 8 n. 7's *cfr. supra pag. **1**, nota 2* is a **Quaracchi** slip for **pag. 3** (p. 1 is the
+>    shared half-title and has no notes); transcribed as printed and logged, per the `bon-praec-c6`
+>    precedent. **Keep reading every `pag. N` / `d. N. a. M. q. K` off the plate.**
+> 4. ***intellectus*→understanding / *intelligentia*→intelligence HELD** under nineteen occurrences
+>    with *intellectus* as the running subject; no departure, exception not reached for.
+>    ***Ad intelligentiam ipsius quaestionis* → "for the understanding of the question"** follows
+>    `q1`'s identical formula and is the ordinary idiom, not a departure.
+> 5. ***similitudo*→likeness (~90×), *ratio*→account, *notitia*→knowledge vs *cognitio*→cognition.**
+>    The last is new and is offered to the gate, not proposed as a table entry on one chunk.
+> 6. ***vacatio*/*quies* stays UNTESTED**; the *quietans* family that occurs here is **not** a datum
+>    on it.
+> 7. **`CONCLUSIO.` printed correctly here** — the first undamaged spelling. Five questions remain,
+>    so **keep finding it by content, never by header grep**.
+>
+> ## Cadence, unchanged
+> **TWO gates.** Shakedown gate at the close of **`bon-qsc-q4` (p. 27)**, then the work-close gate
+> at **p. 43**. **Deploy boundary = work close.** ⚠ `bon-qsc-q4` (pp. 17–27, 11 printed pp.) is the
+> largest chunk Vol V has attempted, is **not** split, and needs the small-incremental-append
+> content-filter discipline from the start. **Plates per quaestio, never in bulk.**
+
+---
+
+> # (superseded — `bon-qsc-q2` is built) previous START HERE, 2026-08-31
+> # **`bon-qsc-q1` IS LANDED. THE FRONT WAS `bon-qsc-q2`.**
 > Quaestio I, **pp. 3–6**, Tier 2, built 2026-08-31 — the *De scientia Christi*'s first chunk
 > and **the first *quaestio disputata* in Vol V**. Eleven affirmative arguments, eleven
 > `CONTRA`, `CONCLUSIO`, `Respondeo`, eleven replies; **31 apparatus entries** (p. 3 nine ·

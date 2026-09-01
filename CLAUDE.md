@@ -1,6 +1,6 @@
 # Bonaventure Sentences — Project Guide for Claude
 
-You are working on an English translation of **St. Bonaventure's *Opera Omnia*** (Quaracchi edition, 1882–1902). Status (2026-08-31): **Books I–IV are complete and published** (Vols I–IV, all Tier 2). The active front is **Vol V**, where the Breviloquium, Itinerarium, De reductione, the Collationes in Hexaemeron, the *Collationes de septem donis* (pp. 457–503, gated + deployed 2026-08-29) and the *Collationes de decem praeceptis* (pp. 507–532, gate CLEAN, **pushed + DEPLOYED 2026-08-31**) are ALL COMPLETE. **The next work is the *QD de scientia Christi*, pp. 3–43** — its **mini-pilot is FROZEN 2026-08-31** (§ SCIENTIA CHRISTI below; evidence in `manual-review/scientia-christi-pilot-scouting.md`), and its first chunk **`bon-qsc-q1` (pp. 3–6) is BUILT** (2026-08-31, Tier 2, 31 entries, zero `[?]`); the front is `bon-qsc-q2` (pp. 6–10). The live site is https://bonaventure.wrootpress.com. Always defer to `next-session-resume.md` for the exact current position.
+You are working on an English translation of **St. Bonaventure's *Opera Omnia*** (Quaracchi edition, 1882–1902). Status (2026-08-31): **Books I–IV are complete and published** (Vols I–IV, all Tier 2). The active front is **Vol V**, where the Breviloquium, Itinerarium, De reductione, the Collationes in Hexaemeron, the *Collationes de septem donis* (pp. 457–503, gated + deployed 2026-08-29) and the *Collationes de decem praeceptis* (pp. 507–532, gate CLEAN, **pushed + DEPLOYED 2026-08-31**) are ALL COMPLETE. **The next work is the *QD de scientia Christi*, pp. 3–43** — its **mini-pilot is FROZEN 2026-08-31** (§ SCIENTIA CHRISTI below; evidence in `manual-review/scientia-christi-pilot-scouting.md`), and its first two chunks **`bon-qsc-q1` (pp. 3–6) and `bon-qsc-q2` (pp. 6–10) are BUILT** (2026-08-31 / 2026-09-01, Tier 2, 31 + 34 entries, zero `[?]`); the front is `bon-qsc-q3` (pp. 10–17). The live site is https://bonaventure.wrootpress.com. Always defer to `next-session-resume.md` for the exact current position.
 
 This file is loaded into every Claude Code session in this repo. Read it before making changes to translation files or the build pipeline.
 
@@ -1255,6 +1255,31 @@ Raw band **L10048 → L16033**.
   **Read every `pag. N` and every `d. N. a. M. q. K` off the plate.** Also: p. 5's marginale
   prints defectively as `tinctio.` (margin blank above it at full threshold) — transcribed
   **Distinctio.** on plate evidence, recorded in the chunk's Notes, not carried as a flag.
+- **✅ `bon-qsc-q2` IS BUILT (pp. 6–10, 34 entries, zero `[?]`, 2026-09-01).** Eleven arguments,
+  **thirteen** `CONTRA`, `CONCLUSIO`, `Respondeo`, thirteen replies (Quaracchi prints replies 3 and
+  4 combined as a single `3. 4.` paragraph — preserved, not split). **BOUNDARY 2 (p. 10) MEASURED:
+  it FORWARDS** — Q. II's replies fill ~63 % of the leaf, then `QUAESTIO III.` stands full-measure
+  and Q. III's numbered body begins on the same leaf; the leaf's eight notes split **nn. 1–7 Q. II /
+  n. 8 Q. III**. ⚠ **Two boundaries measured, two "yes" — still not a pattern; pp. 17, 27, 32, 37
+  remain UNMEASURED.** Three things this chunk settled that a later one should not re-derive:
+  **(a) ⭐ THE DEFAULT GUTTER WINDOW IS UNSAFE ON THIS WORK'S LEAVES GENERALLY, not only under a
+  mid-leaf heading.** pp. 8 and 9 carry no heading and the default still returns 2–3 px runs
+  (p. 8 → 1418/2 px, p. 9 → 1226/3 px). **Profile rows 0.20–0.50 on every leaf in this work and
+  treat the default as advisory.** Gutters: p. 7 **1141** (the one leaf where the default is safe) ·
+  p. 8 **1397** · p. 9 **1214** · p. 10 **1354**. **(b) A footnote DOES run over the gutter here**
+  (p. 9 n. 4, left-column register into right) — so `q1`'s "no entry runs over a boundary or the
+  gutter" is a *chunk* observation, **not** a work-level rule; do not carry it forward.
+  **(c) ⚠ A Quaracchi-side digit slip, transcribed as printed and logged:** p. 8 n. 7 reads
+  *cfr. supra pag. **1**, nota 2*, but p. 1 is the shared half-title and carries no notes — the
+  locus is **p. 3 n. 2**, which records this very Augustine text and says *Idem locus occurrit infra
+  q. 2. in corp.* Disposed like `bon-praec-c6`'s dangling cross-ref: **transcribe as printed, log,
+  non-blocking.** Also settled for the register: ***notitia*→knowledge / *cognitio*→cognition** held
+  apart where the *Respondeo* turns on *notitia causans res* vs *causata a rebus* (cost disclosed:
+  *scientia* in the work's title is also "knowledge"); and ***Ad intelligentiam ipsius quaestionis*
+  → "for the understanding of the question,"** following `q1`'s identical formula — the ordinary
+  idiom, **not** a departure from *intelligentia*→intelligence, which governs the term of art.
+  ⚠ The *quietans* family DOES occur (reply 8, *quietantis ipsum cognoscentem*) and is **still not**
+  a datum on the open *vacatio*/*quies* question.
 - **★ REGISTER: the Sentences key-terminology and scholastic-formulae tables govern** — this
   is the genre they were written for. Both *septem donis* rulings continue to bind.
   ⚠ ***intellectus*/*intelligentia* is under MAXIMUM pressure here** — the work is about
