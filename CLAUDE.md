@@ -1,6 +1,6 @@
 # Bonaventure Sentences — Project Guide for Claude
 
-You are working on an English translation of **St. Bonaventure's *Opera Omnia*** (Quaracchi edition, 1882–1902). Status (2026-09-04): **Books I–IV are complete and published** (Vols I–IV, all Tier 2). The active front is **Vol V**, where the Breviloquium, Itinerarium, De reductione, the Collationes in Hexaemeron, the *Collationes de septem donis* (pp. 457–503, gated + deployed 2026-08-29) and the *Collationes de decem praeceptis* (pp. 507–532, gate CLEAN, **pushed + DEPLOYED 2026-08-31**) are ALL COMPLETE. **The next work is the *QD de scientia Christi*, pp. 3–43** — its **mini-pilot is FROZEN 2026-08-31** (§ SCIENTIA CHRISTI below; evidence in `manual-review/scientia-christi-pilot-scouting.md`), and its first four chunks **`bon-qsc-q1` (pp. 3–6), `bon-qsc-q2` (pp. 6–10), `bon-qsc-q3` (pp. 10–16) and `bon-qsc-q4` (pp. 17–27) are BUILT** (2026-08-31 / 09-01 / 09-03 / 09-03, Tier 2, 31 + 34 + 48 + 93 entries, zero `[?]`), **the SHAKEDOWN GATE RAN 2026-09-04 — three defects, all repaired, four register rulings frozen (§ SCIENTIA CHRISTI below)**, and `bon-qsc-q5` (pp. 27–32) and `bon-qsc-q6` (pp. 32–37) are BUILT (2026-09-04, Tier 2, 39 + 39 entries, zero `[?]`). **The front is `bon-qsc-q7` (pp. 37–43), the work's last chunk**, inheriting p. 37 nn. 4–7; the work-close gate is at p. 43 and **nothing in this work is deployed**. The live site is https://bonaventure.wrootpress.com. Always defer to `next-session-resume.md` for the exact current position.
+You are working on an English translation of **St. Bonaventure's *Opera Omnia*** (Quaracchi edition, 1882–1902). Status (2026-09-04): **Books I–IV are complete and published** (Vols I–IV, all Tier 2). The active front is **Vol V**, where the Breviloquium, Itinerarium, De reductione, the Collationes in Hexaemeron, the *Collationes de septem donis* (pp. 457–503, gated + deployed 2026-08-29) and the *Collationes de decem praeceptis* (pp. 507–532, gate CLEAN, **pushed + DEPLOYED 2026-08-31**) are ALL COMPLETE. **The next work is the *QD de scientia Christi*, pp. 3–43** — its **mini-pilot is FROZEN 2026-08-31** (§ SCIENTIA CHRISTI below; evidence in `manual-review/scientia-christi-pilot-scouting.md`), and its first four chunks **`bon-qsc-q1` (pp. 3–6), `bon-qsc-q2` (pp. 6–10), `bon-qsc-q3` (pp. 10–16) and `bon-qsc-q4` (pp. 17–27) are BUILT** (2026-08-31 / 09-01 / 09-03 / 09-03, Tier 2, 31 + 34 + 48 + 93 entries, zero `[?]`), **the SHAKEDOWN GATE RAN 2026-09-04 — three defects, all repaired, four register rulings frozen (§ SCIENTIA CHRISTI below)**, and `bon-qsc-q5` (pp. 27–32) and `bon-qsc-q6` (pp. 32–37) are BUILT (2026-09-04, Tier 2, 39 + 39 entries, zero `[?]`). **ALL SEVEN CHUNKS ARE NOW BUILT — `bon-qsc-q7` (pp. 37–43) landed 2026-09-04 (Tier 2, 39 entries, zero `[?]`), and the work's body pp. 3–43 is COMPLETE.** The front is now the **WORK-CLOSE GATE** at p. 43; **nothing in this work is deployed** and the deploy boundary is that gate. The live site is https://bonaventure.wrootpress.com. Always defer to `next-session-resume.md` for the exact current position.
 
 This file is loaded into every Claude Code session in this repo. Read it before making changes to translation files or the build pipeline.
 
@@ -1251,8 +1251,8 @@ Raw band **L10048 → L16033**.
 - **Cadence: TWO gates.** ONE at the work close (41 pp), and the shakedown at p. 27.
   ★★★ **SHAKEDOWN GATE RUN 2026-09-04 — `manual-review/vol5-scientia-christi-shakedown-gate.md`.
   THREE defects, all in scope, ALL REPAIRED; the first gate in Vol V to find a real defect.**
-  **The front is now `bon-qsc-q7` (pp. 37–43), the work's LAST chunk, which inherits p. 37 nn. 4–7.** The work-close gate follows at p. 43; **deploy
-  boundary = work close**, nothing in this work is deployed. **Plates per quaestio, never in bulk**
+  **★★★ ALL SEVEN CHUNKS ARE BUILT (2026-09-04). The front is the WORK-CLOSE GATE at p. 43**;
+  **deploy boundary = work close**, nothing in this work is deployed. **Plates per quaestio, never in bulk**
   — and Pass 4 deleted them, so **re-extract before any plate work**.
   **The four register rulings, which are now the work's rules and are NOT to be re-litigated:**
   1. ***intellectus agens* → "the agent intellect" RATIFIED** — not an extension of the narrow
@@ -1279,6 +1279,54 @@ Raw band **L10048 → L16033**.
      that stops it generalising, since Bonaventure quotes constantly. ⚠ The Ps. 35:10 exemption
      survives because **a received English wording exists that a reader will recognise**; Dionysius'
      clause has none. **That, not "it is a quotation," is the line.**
+- **✅✅✅ `bon-qsc-q7` IS BUILT (pp. 37–43, 39 entries, zero `[?]`, 2026-09-04) — THE WORK'S LAST
+  QUAESTIO, AND THE BODY pp. 3–43 IS COMPLETE.** Twenty-one affirmative arguments, twelve `Cᴏɴᴛʀᴀ`,
+  `CONCLUSIO`, a *Respondeo* on the *exemplar factivum* / *exemplar expressivum* distinction with the
+  four differences of *comprehensio* and *excessus*, twenty-one replies in fifteen paragraphs (three
+  combined: `1. 2. 3.`, `15. 16.`, `19. 20. 21.`), and the **epilogue of the whole treatise**
+  (*Epilogus omnium huius tractatus quaestionum.*). **Work total 323 apparatus entries over 41 pp.**,
+  inside the pilot's ~370 planning band. Six things it settles:
+  **(a) ⛔ THE WORK CLOSE AT p. 43 IS EXACTLY AS THE PILOT FIXED IT** — no `EXPLICIUNT`, body level in
+  both columns at ~20 % of the leaf, register to ~48 %, ornamental rule at ~64 %, p. 44 blank, p. 45's
+  display heading. ⚠ **But the pilot's one over-estimate is worth keeping:** p. 43 n. 3 was budgeted as
+  "a dissertation filling half the leaf" and fills **a quarter**, ~20 lines across both columns. The
+  **count** of 3 was exact; the **extent** was a guess. **A planning figure for an entry's LENGTH is not
+  a measurement, even when the same note's COUNT was measured.**
+  **(b) ⭐⭐ THE `q6` WORN-`5`-READS-AS-`3` RULE PAID FIVE TIMES IN ONE CHUNK** and is the most productive
+  single rule the work produced: p. 39 n. 1 `35`→raw `33` · p. 39 n. 7 `15`→raw `1.3` · p. 39 n. 8
+  `59`→raw `39` · p. 39 n. 8 `765`→raw `763` · body p. 41 reply numeral `5`→raw `3`. ⚠ **Three of the
+  five are inside a `pag. N` / `c. N` / `text. N` reference where NO sequence exists to catch them** —
+  the rule has to be applied to references, not only to numbered series.
+  **(c) ⭐ THE 1-vs-4 CALIBRATION GOT ITS CONTROL INSIDE ONE LINE.** p. 40 n. 1 prints *Quaest. **1**, in
+  cuius **4**. fundam.* — both glyphs, four words apart, same size, same ink; **the raw read the 4 as a
+  1**, the reverse of `q5`'s failure direction. Second control: p. 38's register sets n. 5's `q. 1.`
+  four lines from n. 8's `q. 4.` **Settled twice over; not open again.**
+  **(d) ⭐ RULING 4 WAS APPLIED, NOT QUIETLY DROPPED.** The Dionysius quotation in the *Respondeo*
+  (*nostrum intellectum… intellectus naturam*) is exactly `q3`'s disputed case — a quotation rendering
+  Greek νοῦς — and it goes to **"understanding"**, because "quotation boundary" was NOT ratified as a
+  licence class. **The one place the rejected licence would have applied, and it was refused.**
+  Meanwhile the ratified narrow exception IS reached for the first time since `q4` and stayed scoped to
+  the PHRASE: ten Latin `intellect-` nouns, five → "understanding", five → bare "intellect", **every one
+  inside *intellectus agens* or *intellectus possibilis*.**
+  **(e) ⛔ *vacatio* / *quies* CLOSES AS UNTESTABLE ON THIS WORK, not as untested.** `q7` has **zero** of
+  the family — not merely the noun absent, as in `q2` and `q4`–`q6`, but verb and verbal noun too.
+  **Six consecutive chunks; *quies* never once occurred and *vacatio*/*vacare* never occurred in the work
+  at all.** Carry it to *de mysterio Trinitatis* / *de perfectione evangelica*; do not re-open it against
+  a text with no data for it. ⚠ Same class, recorded so the gate is not misled: ***lumen* does not occur
+  in `q7` at all**, so the *lux*/*lumen* ruling is absent here rather than broken, and Ps. 35:10 is not
+  reached for a third consecutive chunk; ***notitia* does not occur either**, a first for the work.
+  **(f) FINAL TALLIES FOR THE WORK, all of which retire their rules by closing the work, not by being
+  disproved:** the opposing formula ran **four `Cᴏɴᴛʀᴀ` (q1, q2, q6, q7), two `Sᴇᴅ ᴄᴏɴᴛʀᴀ` (q3, q5), one
+  none (q4) — in no series whatever**; `CONCLUSIO` was found **by content seven times out of seven** and
+  garbled in the raw every time; and marginalia density belonged to the **solution** in all five chunks
+  that could test it — `q7`'s pp. 37–39 carry 21 arguments, 12 *contra* and the conclusio and hold
+  **three** marginalia, while pp. 40–42 hold **twenty-three**, and **p. 38 is the work's second wholly
+  empty margin** (thirteen arguments, none), after `q3`'s p. 11 (thirteen arguments, none).
+  ⭐ Gutters: p. 37 **1147** · 38 **1446** · 39 **1155** · 40 **1398** · 41 **1139** · 42 **1368** ·
+  43 **1172** — and **p. 43 is the leaf the `bon-itin-c7` region rule was written for**: a whole-leaf
+  window returns a 199–720 px "band" (the blank-leaf signature, not a gutter), while body rows
+  0.05–0.19 and register rows 0.25–0.47 profiled separately intersect at **1172**. The two regions here
+  *do* share a measure — **a result of the measurement, not an assumption that licensed skipping it.**
 - **✅ `bon-qsc-q6` IS BUILT (pp. 32–37, 39 entries, zero `[?]`, 2026-09-04).** Three things it
   settles for the rest of the work. **(a) A DEGENERATE GUTTER BAND IS EVIDENCE, NOT A FAILED
   MEASUREMENT** — p. 37's upper region (rows 0.20–0.50) returned fifteen windows all ~249 px wide

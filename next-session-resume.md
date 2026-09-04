@@ -1,5 +1,60 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **`bon-qsc-q7` IS LANDED. THE *DE SCIENTIA CHRISTI* IS COMPLETE (pp. 3–43).**
+> **THE FRONT IS THE WORK-CLOSE GATE at p. 43. There is no next chunk in this work.**
+> Quaestio VII, **pp. 37–43**, Tier 2, built 2026-09-04 — whether the soul of Christ comprehends
+> everything uncreated wisdom comprehends. Twenty-one affirmative arguments, `Cᴏɴᴛʀᴀ` with twelve,
+> `CONCLUSIO`, a *Respondeo* on the ***exemplar factivum*** / ***exemplar expressivum*** distinction
+> with the **four declared differences** between the *modus comprehensionis* and the *modus excessus*,
+> twenty-one replies — three printed combined (`1. 2. 3.`, `15. 16.`, `19. 20. 21.`), so **fifteen
+> numbered paragraphs carry twenty-one replies** — and then the **EPILOGUE OF THE WHOLE TREATISE**
+> (marginale *Epilogus omnium huius tractatus quaestionum.*), closing on Apoc. 2:17, Eph. 3:17 and
+> *internum silentium*. **39 apparatus entries** (p. 37 nn. 4–7 four, **picked up** · p. 38 eight ·
+> p. 39 nine · p. 40 six · p. 41 three · p. 42 six · p. 43 three), **zero `[?]` flags**. Registry
+> division 7 went in with it; no `buildWorkChunkTitle` change needed. Conventions: repo `CLAUDE.md`
+> § **SCIENTIA CHRISTI** — **that block is authoritative, this is a pointer.** Committed locally,
+> **not pushed, not deployed** — deploy boundary is the work-close gate.
+>
+> ## ▶ FRONT = THE WORK-CLOSE GATE, pp. 3–43, seven chunks, 323 entries
+> Nothing is forwarded and nothing is pending: `check-vol5-apparatus.py` carries pp. 37–43 as
+> **7 · 8 · 9 · 6 · 3 · 6 · 3**, all `ok`, and p. 37's PENDING cleared with this chunk. **Four things
+> the gate should be told rather than left to re-derive**, all recorded in the chunk's own `## Notes`:
+> 1. ***vacatio* / *quies* CLOSES AS UNTESTABLE ON THIS WORK, not as untested** — six consecutive
+>    chunks, the noun *quies* never once present, *vacatio*/*vacare* absent from the work entirely, and
+>    `q7` has none of the family at all. **Carry it to the next QD; do not re-open it here.**
+> 2. Same class: ***lumen* does not occur in `q7`** (body or apparatus), so the *lux*/*lumen* ruling is
+>    **absent, not broken**, and Ps. 35:10 is unreached for a third consecutive chunk. ***notitia* is
+>    likewise absent** — a first for the work. **An absent term is not a broken one.**
+> 3. **Ruling 4 was applied where it bites**: the Dionysius quotation's *nostrum intellectum* →
+>    "understanding", refusing the licence class `q3` had offered. The ratified narrow exception was
+>    reached (first time since `q4`) and stayed scoped to *intellectus agens* / *possibilis*.
+> 4. ⚠ **The pilot over-estimated ONE thing and it is worth carrying**: p. 43 n. 3 fills a **quarter**
+>    of the leaf, not half. The **count** of 3 was exact. **A length budget is not a measurement.**
+>
+> ## ⭐⭐ WHAT `q7` ADDS TO THE GLYPH RULES — **the worn `5` fired FIVE times, and three of them in REFERENCES**
+> `35`→raw `33` (p. 39 n. 1) · `15`→raw `1.3` (p. 39 n. 7) · `59`→raw `39` and `765`→raw `763`
+> (p. 39 n. 8) · body reply numeral `5`→raw `3` (p. 41). **Three sit inside a `pag. N` / `c. N` /
+> `text. N` where no sequence exists to catch them** — apply the rule to references, not only to
+> numbered series. ★ And the **1-vs-4 calibration finally got its control inside ONE LINE**: p. 40 n. 1
+> prints *Quaest. **1**, in cuius **4**. fundam.*, both glyphs four words apart, and **the raw read the
+> 4 as a 1** — the reverse of `q5`'s direction. Seven raw-vs-plate disagreements in all, every one
+> resolved to the plate, **and no Quaracchi-side slip in this span.**
+>
+> ## Numbers, derived after `q7`
+> `check-vol5-apparatus.py` **137 chunks / 2,776 entries, all passed**, no page left PENDING in this
+> work · `check-vol5-census.py` **137/137**, **190 runovers (169 gutter-crossing, 21 page-crossing)** —
+> `q7` adds two gutter runovers, p. 40 n. 2 and p. 43 n. 3, and no page-crossing one; ⚠ **append to the
+> ledger with COMMAS, never semicolons** · `check-live-flags.py` **237 corpus-wide, `bon-qsc-*`
+> contributes ZERO** · `polish-style-scan --volume 5` **CLEAN in scope** (the one item is
+> `bon-hex-c23`'s **deliberate** non-page-qualified `[^51]`, documented in its own frontmatter; the
+> Hexaemeron is deployed, no edit) · `build-content.mjs` **11 books, 2,088 questions**.
+> ★ **Denominator checked, not assumed:** disk 2,090 top-level `.md` = 2,088 built + `vol1/punch-list.md`
+> (not a chunk) + `vol1/bon-sent-I-proleg.md` (**deliberately** excluded by a documented guard).
+> **No silent skip.**
+
+---
+
+> # (superseded by `bon-qsc-q7`, 2026-09-04) previous START HERE
 > # ▶▶▶ START HERE — **`bon-qsc-q6` IS LANDED. THE FRONT IS `bon-qsc-q7` (pp. 37–43) — THE WORK'S LAST CHUNK.**
 > Quaestio VI, **pp. 32–37**, Tier 2, built 2026-09-04 — whether the soul of Christ *comprehends*
 > uncreated wisdom. Twenty affirmative arguments in one undivided run, `Cᴏɴᴛʀᴀ` with ten, `CONCLUSIO`,
