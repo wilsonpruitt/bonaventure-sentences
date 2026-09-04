@@ -1,6 +1,98 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — **`bon-qsc-q3` IS LANDED. THE FRONT IS `bon-qsc-q4`.**
+> # ▶▶▶ START HERE — **`bon-qsc-q4` IS LANDED. THE FRONT IS THE SHAKEDOWN GATE (p. 27).**
+> Quaestio IV, **pp. 17–27**, Tier 2, built 2026-09-03 — the illumination question, eleven printed
+> pages, **the largest single chunk Vol V has attempted**. Thirty-four affirmative arguments,
+> twenty-six opposing arguments, `CONCLUSIO`, a *Respondeo* in **three modi**, twenty-six replies;
+> **93 apparatus entries** (p. 17 ten · p. 18 nine · p. 19 eight · p. 20 ten · p. 21 twelve ·
+> p. 22 eight · p. 23 ten · p. 24 nine · p. 25 nine · p. 26 seven · p. 27 **n. 1 only**),
+> **zero `[?]` flags**. Registry division 4 went in with it; no `buildWorkChunkTitle` change needed.
+> Conventions: repo `CLAUDE.md` § **SCIENTIA CHRISTI** — **that block is authoritative, this is a
+> pointer.** Committed locally, **not pushed, not deployed** — deploy boundary is the work close at
+> p. 43.
+>
+> ## ▶▶ THE FRONT IS NOT A CHUNK. **THE SHAKEDOWN GATE FIRES NOW**, at the close of `bon-qsc-q4`
+> (p. 27, **25 printed pages into the work** — inside the frozen 15–25 pp window). It has not fired
+> since the Hexaemeron, and this is a new genre in Vol V. **Three things this chunk hands the gate as
+> open questions, not as answers:**
+> 1. ***intellectus agens* → "the agent intellect"** — a disclosed departure from *intellectus* →
+>    understanding, offered as an invocation of **the ratified narrow exception** (a fixed
+>    philosophical doctrine the rule would misname). Second instance the corpus has met, after the
+>    *praeceptis* c2 Averroist case. The gate rules on it, not the chunk.
+> 2. ***lumen* → "lumen"** — `q3`'s ruling, exercised ~20× here against `q3`'s handful, in the one
+>    question where the *lux*/*lumen* pair does the most work. **Cost: it is a transliteration and at
+>    this frequency it is conspicuous.** The gate is where it gets settled for the whole work.
+> 3. ***contueri* → "to contuit" / *contuibilis* → "contuitable"** — new here, load-bearing in the
+>    *Respondeo*'s own formula and in the question's last sentence, where the apparatus records a
+>    variant turning on the word.
+> After the gate: `bon-qsc-q5` (pp. 27–32), then the **work-close gate at p. 43**. **Deploy boundary
+> = work close.** **Plates per quaestio, never in bulk.**
+>
+> ## ⭐⭐ THE TWO THINGS TO CARRY FORWARD
+> **(a) BOUNDARY AT p. 27 MEASURED: IT FORWARDS.** Q. IV's last reply closes across the **top band of
+> BOTH columns** (~5 lines left, ~6 right, running left-then-right across the full measure); then
+> `QUAESTIO V.` stands full-measure mid-leaf and Q. V's own opening plus args 1–3 begin on the same
+> leaf. So `q4` = pp. 17–27 exactly as the index gave it. **Four boundaries measured now: pp. 6, 10
+> and 27 forward, p. 17 does not.** ⛔ **pp. 32 and 37 remain UNMEASURED — re-ask the p. 498 rule on
+> the plate at each.**
+> **(b) `bon-qsc-q5` INHERITS p. 27 nn. 2–8.** p. 27's **whole LEFT register is n. 1**, a full-column
+> editorial dissertation belonging to Q. IV. n. 2 (*Vers. 1. — Cfr. III. Sent. d. 14. a. 1. q. 1. et
+> a. 3. q. 1…*) anchors Q. V's argument 1 at *Ecclesiastici primo*² and heads the right register.
+> `tools/check-vol5-apparatus.py` carries p. 27's total as **8** with nn. 2–8 marked PENDING; that
+> clears when `q5` lands. ⚠ **Re-derive the inherited notes down to their DIGITS, not only their
+> ownership** — that is `q3`'s lesson and it has not been retired.
+>
+> ## What `q4` settled that a later chunk should not re-litigate
+> 1. **⭐⭐ THE WORK'S FIRST PAGE-CROSSING RUNOVERS — two, back to back.** p. 24 n. 9 breaks at the
+>    foot of p. 24's right register (*…cum mens sit potentior; dicendum,*) and completes at the HEAD
+>    of p. 25's left register; p. 25 n. 9 breaks at the foot of p. 25's right register and completes
+>    in **the whole of p. 26's left register**, so p. 26's own seven numerals all stand in its RIGHT
+>    register. Each counted on the leaf where it OPENS. ⚠ **A leaf whose register opens mid-sentence
+>    is not defective and its first numbered note is not missing — look at the previous leaf's foot.**
+> 2. **⭐⭐ THE OPPOSING SERIES IS NOT A DISPLAY HEADING HERE.** `q1`/`q2` printed `CONTRA:`, `q3`
+>    printed `SED CONTRA:`; **this question prints neither.** p. 21 runs straight on into an ordinary
+>    italic sentence, *Sed contra hoc obiicitur primo* auctoritate, *deinde* ratione, with a footnote
+>    anchor on it and the marginale `Ad oppositum.` beside it; the second half opens the same way at
+>    *Item obiicitur contra rationes Augustini sic:*. **Transcribed as running sentences, NOT lifted
+>    into a `**Sed contra:**` label.** ⭐ **The `CONTRA` unit in this work may not be a heading at all
+>    — find it by content, like `CONCLUSIO` and `SUMMARIUM`.**
+> 3. **⭐ THE REPLIES ANSWER THE OPPOSING SIDE HERE** (the conclusion goes WITH the affirmative), the
+>    reverse of `q3`. **Never assume the pairing; read which side the *Respondeo* concedes.** Three
+>    replies are printed combined — `5. 6.`, `7. 8. 9.`, `23. 24. 25. 26.` — and are preserved, not
+>    split (the `q2` `3. 4.` precedent): twenty numbered paragraphs carry twenty-six replies.
+> 4. **`CONCLUSIO.` printed correctly a THIRD time, at full measure.** Three undamaged spellings in
+>    four questions **does not retire** the "find it by content, never by header grep" rule — the
+>    pilot counted four spellings over seven questions and three questions remain.
+> 5. **A blown-out gutter run can mean a CLEAN leaf, not a damaged one.** pp. 19 and 22 return
+>    **426–463 px** runs on every window — the loud-failure signal — because their inter-line white
+>    bands run nearly to zero ink across the full measure and flood the window search. Step 3 settles
+>    both. Gutters: p. 17 **1203** · p. 18 **1366** · p. 19 **1180** · p. 20 **1405** · p. 21 **1105** ·
+>    p. 22 **1403** · p. 23 **1139** · p. 24 **1415** · p. 25 **1164** · p. 26 **1389** · p. 27 **1169**.
+>    The rows 0.20–0.50 rule held on all eleven; the `colcrop.py` default stays advisory.
+> 6. **A second Quaracchi-side slip, transcribed as printed and logged.** p. 17 n. 4 prints
+>    *de ceteris **iudices*** where the SAME Augustine sentence quoted in the body of argument 3 on the
+>    SAME leaf reads *iudicant*. Verified at 5×. Disposed like `q2`'s p. 8 n. 7 *pag. 1*: transcribe
+>    as printed, log, non-blocking.
+> 7. **Marginalia density belongs to the SOLUTION — confirmed decisively on a long span.** Forty-nine
+>    across eleven leaves: pp. 17–22 carry **sixty arguments and eleven marginalia**; pp. 23–26 carry
+>    the *Respondeo* and replies and hold **thirty-seven**. p. 23's first marginale printed defectively
+>    (cropped by the binding edge) and was resolved **Reprobatur.** from plate + raw + sense, not flagged.
+> 8. ***vacatio*/*quies* STILL UNTESTED, and this chunk shows why the distinction matters.** The
+>    *quiet-* family is heavier here than anywhere yet — *quietantes*, *quietativae*, and *quiescat* —
+>    but *quiescat* is one of the two **VERB** hits the pilot measured, not the noun. Neither *vacatio*
+>    nor the noun *quies* occurs. **Untested for a second work.**
+>
+> ## ⚠ A PRE-EXISTING LEDGER DEFECT FIXED IN PASSING
+> `manual-review/vol5-runover-ledger.tsv` is **comma-separated**, and `bon-qsc-q3`'s line used
+> semicolons — so its three gutter runovers were parsed as **one** event and the corpus-wide runover
+> count was understating by two. Both `q3`'s line and `q4`'s are now comma-separated. The census now
+> reads **182 runovers (161 gutter-crossing, 21 page-crossing)**. ⚠ **The checker accepts a
+> semicolon line silently — it regex-matches the tail and swallows the rest. Append with commas.**
+
+---
+
+> # (superseded — `bon-qsc-q4` is built) previous START HERE, 2026-09-03
+> # **`bon-qsc-q3` IS LANDED. THE FRONT WAS `bon-qsc-q4`.**
 > Quaestio III, **pp. 10–16** (NOT 10–17 — see below), Tier 2, built 2026-09-03. Twenty-one
 > affirmative arguments, **sixteen `SED CONTRA`**, `CONCLUSIO`, `Respondeo`, **twenty-one replies**;
 > **48 apparatus entries** (p. 10 n. 8 one, picked up from `q2` · p. 11 ten · p. 12 ten · p. 13 eight ·

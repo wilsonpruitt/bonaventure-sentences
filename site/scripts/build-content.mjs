@@ -392,6 +392,7 @@ const WORKS = {
       1: "Quaestio I: Utrum scientia Christi, secundum quod est Verbum, actu se extendat ad infinita",
       2: "Quaestio II: Utrum Deus res cognoscat per similitudines rerum, an per earum essentiam",
       3: "Quaestio III: Utrum Deus res cognoscat per similitudines realiter differentes",
+      4: "Quaestio IV: Utrum quidquid a nobis certitudinaliter cognoscitur cognoscatur in ipsis rationibus aeternis",
     },
   },
   // Future Vol V works claim book ids here as their mini-pilots run:

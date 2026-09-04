@@ -58,6 +58,23 @@ KNOWN_TOTALS = {
     14: 6,   # n.3 runs over the gutter
     15: 5,   # n.3 runs over the gutter
     16: 8,   # Quaest. III closes here under an ornamental rule; nothing forwarded
+    17: 10,
+    18: 9,
+    19: 8,
+    20: 10,
+    21: 12,
+    22: 8,
+    23: 10,
+    24: 9,   # n.9 BREAKS OFF at the foot and completes at the HEAD of p.25's
+             # left register — the work's first PAGE-CROSSING runover. Counted
+             # here, on the leaf where it opens.
+    25: 9,   # opens with p.24 n.9's runover above n.1; n.9 in turn BREAKS OFF
+             # and completes in the whole of p.26's left register.
+    26: 7,   # its OWN numerals all stand in the RIGHT register — the left
+             # register is entirely p.25 n.9's runover. Seven is not a miscount.
+    27: 8,   # n.1 (the whole LEFT register, a full-column editorial note) is
+             # Quaest. IV's; nn.2-8 are Quaest. V's and are a legitimate
+             # forwarded PENDING until bon-qsc-q5 lands.
     205: 8,
     206: 11,
     207: 8,

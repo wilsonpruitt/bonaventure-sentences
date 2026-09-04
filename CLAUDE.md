@@ -1,6 +1,6 @@
 # Bonaventure Sentences — Project Guide for Claude
 
-You are working on an English translation of **St. Bonaventure's *Opera Omnia*** (Quaracchi edition, 1882–1902). Status (2026-08-31): **Books I–IV are complete and published** (Vols I–IV, all Tier 2). The active front is **Vol V**, where the Breviloquium, Itinerarium, De reductione, the Collationes in Hexaemeron, the *Collationes de septem donis* (pp. 457–503, gated + deployed 2026-08-29) and the *Collationes de decem praeceptis* (pp. 507–532, gate CLEAN, **pushed + DEPLOYED 2026-08-31**) are ALL COMPLETE. **The next work is the *QD de scientia Christi*, pp. 3–43** — its **mini-pilot is FROZEN 2026-08-31** (§ SCIENTIA CHRISTI below; evidence in `manual-review/scientia-christi-pilot-scouting.md`), and its first three chunks **`bon-qsc-q1` (pp. 3–6), `bon-qsc-q2` (pp. 6–10) and `bon-qsc-q3` (pp. 10–16) are BUILT** (2026-08-31 / 09-01 / 09-03, Tier 2, 31 + 34 + 48 entries, zero `[?]`); the front is `bon-qsc-q4` (pp. 17–27), which is followed immediately by the shakedown gate. The live site is https://bonaventure.wrootpress.com. Always defer to `next-session-resume.md` for the exact current position.
+You are working on an English translation of **St. Bonaventure's *Opera Omnia*** (Quaracchi edition, 1882–1902). Status (2026-08-31): **Books I–IV are complete and published** (Vols I–IV, all Tier 2). The active front is **Vol V**, where the Breviloquium, Itinerarium, De reductione, the Collationes in Hexaemeron, the *Collationes de septem donis* (pp. 457–503, gated + deployed 2026-08-29) and the *Collationes de decem praeceptis* (pp. 507–532, gate CLEAN, **pushed + DEPLOYED 2026-08-31**) are ALL COMPLETE. **The next work is the *QD de scientia Christi*, pp. 3–43** — its **mini-pilot is FROZEN 2026-08-31** (§ SCIENTIA CHRISTI below; evidence in `manual-review/scientia-christi-pilot-scouting.md`), and its first four chunks **`bon-qsc-q1` (pp. 3–6), `bon-qsc-q2` (pp. 6–10), `bon-qsc-q3` (pp. 10–16) and `bon-qsc-q4` (pp. 17–27) are BUILT** (2026-08-31 / 09-01 / 09-03 / 09-03, Tier 2, 31 + 34 + 48 + 93 entries, zero `[?]`); **the front is not a chunk — the SHAKEDOWN GATE fires now, at the close of `bon-qsc-q4` (p. 27, 25 pp in)**, and `bon-qsc-q5` (pp. 27–32) follows it. The live site is https://bonaventure.wrootpress.com. Always defer to `next-session-resume.md` for the exact current position.
 
 This file is loaded into every Claude Code session in this repo. Read it before making changes to translation files or the build pipeline.
 
@@ -1215,6 +1215,10 @@ Raw band **L10048 → L16033**.
   opening *essentiam*⁷). ⛔ **The other five boundaries (pp. 10, 17, 27, 32, 37) are
   UNMEASURED — re-ask the p. 498 rule on the plate at each.** *De decem praeceptis* answered
   "no" at its first boundary and "yes" at five; one measurement licenses nothing.
+  ⭐ **UPDATE 2026-09-03: FOUR boundaries measured now — pp. 6, 10 and 27 FORWARD, p. 17 does NOT.
+  Only pp. 32 and 37 remain.** p. 27 forwards in a shape not seen before here: Q. IV's close fills the
+  **top band of BOTH columns**, running left-then-right across the full measure, before `QUAESTIO V.`
+  stands full-measure mid-leaf.
 - **⛔ `bon-qsc-q4` IS THE LARGEST SINGLE CHUNK VOL V HAS ATTEMPTED — 11 printed pp.**
   (against the Hexaemeron's ~5.5 and the *decem praeceptis*' ~3.7). It is the illumination
   question (*Utrum quidquid a nobis certitudinaliter cognoscitur cognoscatur in ipsis
@@ -1241,7 +1245,7 @@ Raw band **L10048 → L16033**.
   line after verifying the printed subtitle in place word for word.
 - **Cadence: TWO gates.** ONE at the work close (41 pp, under the ~100 pp trigger), **and the
   shakedown trigger DOES fire — it has not fired since the Hexaemeron, and this is a new
-  genre in Vol V.** ▶ **Shakedown gate at the close of `bon-qsc-q4` (p. 27, 24 pp in)** —
+  genre in Vol V.** ▶▶ **`bon-qsc-q4` HAS LANDED, so the SHAKEDOWN GATE IS NOW THE FRONT (p. 27, 25 pp in)** —
   inside the frozen 15–25 pp window and immediately after the work's largest and most-read
   chunk. Deploy boundary = work close. **Plates per quaestio, never in bulk.**
 - **✅ `bon-qsc-q1` IS BUILT (pp. 3–6, 31 entries, zero `[?]`, 2026-08-31).** Four pilot claims
@@ -1327,6 +1331,67 @@ Raw band **L10048 → L16033**.
   a **quotation-boundary** judgment (the clause renders Greek νοῦς and Bonaventure is quoting, not
   using) — **the ratified narrow exception was NOT invoked**; offered to the work-close gate as a
   distinct class. *vacatio*/*quies* stays untested; unlike q2, even the *quietans* family is absent.
+- **✅ `bon-qsc-q4` IS BUILT (pp. 17–27, 93 entries, zero `[?]`, 2026-09-03)** — the illumination
+  question, eleven printed pages, the largest single chunk Vol V has attempted, built without
+  splitting. Thirty-four affirmative arguments, twenty-six opposing arguments, `CONCLUSIO`, a
+  *Respondeo* in **three modi**, twenty-six replies. **BOUNDARY 4 (p. 27) MEASURED: it FORWARDS** —
+  Q. IV's last reply closes across the TOP BAND OF BOTH COLUMNS (running left-then-right across the
+  full measure), then `QUAESTIO V.` stands full-measure mid-leaf with its subtitle and Q. V's own
+  args 1–3 on the same leaf. ⚠ **Four boundaries measured, three "yes" and one "no"; pp. 32 and 37
+  remain UNMEASURED.** **It forwards p. 27 nn. 2–8 to `bon-qsc-q5`** (p. 27's whole LEFT register is
+  n. 1, a full-column editorial dissertation belonging to Q. IV; n. 2 anchors Q. V's arg. 1).
+  Eight things this chunk settled:
+  **(a) ⭐⭐ THE WORK'S FIRST PAGE-CROSSING RUNOVERS — TWO, BACK TO BACK.** p. 24 n. 9 breaks at the
+  foot of p. 24's right register and completes at the HEAD of p. 25's left register; p. 25 n. 9 breaks
+  at the foot of p. 25's right register and completes in **the whole of p. 26's left register**, so
+  p. 26's own seven numerals all stand in its RIGHT register. Each is counted on the leaf where it
+  OPENS. ⚠ **A leaf whose register opens mid-sentence is not defective and its first numbered note is
+  not missing — look at the previous leaf's foot.**
+  **(b) ⭐⭐ THE OPPOSING SERIES IS NOT A DISPLAY HEADING HERE — IT IS A RUNNING ITALIC FORMULA.**
+  `q1`/`q2` printed `CONTRA:`, `q3` printed `SED CONTRA:`, and `q3` said to assume neither form. This
+  question prints **neither**: p. 21 runs straight on from argument 34 into *Sed contra hoc obiicitur*
+  primo *auctoritate*, deinde *ratione* — italic, in the text measure, with a footnote anchor on it
+  and the marginale `Ad oppositum.` beside it — and the second half opens the same way at *Item
+  obiicitur contra rationes Augustini sic:*. Transcribed as the running sentences they are, **not
+  lifted into a `**Sed contra:**` label**. ⭐ **The `CONTRA` unit in this work may not be a heading at
+  all; find it by content, exactly as `CONCLUSIO` and `SUMMARIUM` must be found.**
+  **(c) ⭐ THE REPLIES ANSWER THE OPPOSING SIDE HERE** — the conclusion goes WITH the affirmative, so
+  the thirty-four *fundamenta* are conceded and the twenty-six replies dispose of the twenty-six
+  opposing arguments. That is the reverse of `q3`. **Never assume the pairing.** Three replies print
+  combined (`5. 6.`, `7. 8. 9.`, `23. 24. 25. 26.`) and are preserved, not split — the `q2` `3. 4.`
+  precedent; twenty numbered paragraphs carry twenty-six replies.
+  **(d) `CONCLUSIO.` printed correctly a THIRD time and at full measure** (p. 22's right column,
+  centred, conclusion in indented italic). Three undamaged spellings in four questions **does not
+  retire** the find-it-by-content rule; three questions remain.
+  **(e) ⭐ A BLOWN-OUT GUTTER RUN CAN MEAN A CLEAN LEAF, NOT A DAMAGED ONE.** pp. 19 and 22 return
+  **426–463 px** runs on every window — nonsense by the frozen rule — *because* their inter-line white
+  bands run nearly to zero ink across the full measure and flood the window search. Step 3 settles
+  both from the per-column ink band. Gutters: p. 17 **1203** · p. 18 **1366** · p. 19 **1180** ·
+  p. 20 **1405** · p. 21 **1105** · p. 22 **1403** · p. 23 **1139** · p. 24 **1415** · p. 25 **1164** ·
+  p. 26 **1389** · p. 27 **1169**. Rows 0.20–0.50 held on all eleven leaves.
+  **(f) ⚠ A SECOND QUARACCHI-SIDE SLIP, transcribed as printed and logged.** p. 17 n. 4 prints
+  *…non de ipsa, sed per ipsam de ceteris* ***iudices***, where the same Augustine sentence quoted in
+  the BODY of argument 3 **on the same leaf** reads *iudicant*. Read at 5× to be sure. Disposed like
+  `q2`'s p. 8 n. 7 *pag. 1*: transcribe as printed, log, non-blocking. Also p. 23's first marginale is
+  cropped by the scan's binding edge (only *…eprobatur.* survives); resolved **Reprobatur.** from
+  plate + djvu raw + sense, recorded, **not** flagged — the p. 5 `tinctio.` precedent.
+  **(g) MARGINALIA DENSITY BELONGS TO THE SOLUTION — confirmed decisively on a long span.** Forty-nine
+  across eleven leaves: pp. 17–22 carry **sixty arguments and eleven marginalia**; pp. 23–26 carry the
+  *Respondeo* and the replies and hold **thirty-seven**.
+  **(h) ⚠ *vacatio*/*quies* STILL UNTESTED — and this chunk shows why the distinction matters.** The
+  *quiet-* family is heavier here than anywhere yet (*quietantes*, *quietativae*, *quiescat*), but
+  *quiescat* is one of the two **VERB** hits the pilot measured, not the noun; neither *vacatio* nor the
+  noun *quies* occurs. Register: ***intellectus*→understanding held under the work's heaviest pressure
+  (~40 occurrences), with ONE disclosed departure — *intellectus agens* → "the agent intellect,"
+  offered to the gate as an invocation of the ratified narrow exception, the corpus's second candidate
+  after the *praeceptis* c2 Averroist case.** ***lumen*→"lumen" exercised ~20× (cost: a transliteration,
+  conspicuous at that rate)**; ***contueri*→"to contuit" / *contuibilis*→"contuitable"** new and
+  load-bearing twice. All three are handed to the shakedown gate as questions, not answers.
+  ⚠ **A PRE-EXISTING LEDGER DEFECT FIXED IN PASSING:** `manual-review/vol5-runover-ledger.tsv` is
+  **comma-separated**, and `bon-qsc-q3`'s line used semicolons, so its three gutter runovers parsed as
+  **one** and the corpus count was understating by two. Both lines are now comma-separated; the census
+  reads **182 runovers (161 gutter-crossing, 21 page-crossing)**. **The checker swallows a semicolon
+  line silently — append with commas.**
 - **★ REGISTER: the Sentences key-terminology and scholastic-formulae tables govern** — this
   is the genre they were written for. Both *septem donis* rulings continue to bind.
   ⚠ ***intellectus*/*intelligentia* is under MAXIMUM pressure here** — the work is about
