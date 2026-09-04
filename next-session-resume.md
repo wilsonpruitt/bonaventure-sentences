@@ -1,6 +1,73 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — **THE SHAKEDOWN GATE RAN AND IS CLOSED. THE FRONT IS `bon-qsc-q5` (pp. 27–32).**
+> # ▶▶▶ START HERE — **`bon-qsc-q5` IS LANDED. THE FRONT IS `bon-qsc-q6` (pp. 32–37).**
+> Quaestio V, **pp. 27–32**, Tier 2, built 2026-09-04 — the wisdom-of-Christ's-soul question.
+> Eighteen affirmative arguments (7 general, then a declared turn *Sed* specialius *de anima Christi*
+> and 11 more), **ten** `SED CONTRA`, `CONCLUSIO`, a *Respondeo* in one continuous exposition (no
+> *modi*), eighteen replies — three printed combined (`2. 3.`, `4. 5.`, `6. 7.`) and preserved, so
+> fifteen numbered paragraphs carry eighteen replies. **39 apparatus entries** (p. 27 seven, **picked
+> up** · p. 28 eight · p. 29 eight · p. 30 nine · p. 31 six · p. 32 **n. 1 only**), **zero `[?]` flags**.
+> Registry division 5 went in with it; no `buildWorkChunkTitle` change needed. Conventions: repo
+> `CLAUDE.md` § **SCIENTIA CHRISTI** — **that block is authoritative, this is a pointer.** Committed
+> locally, **not pushed, not deployed** — deploy boundary is the work close at p. 43.
+>
+> ## ▶ FRONT = `bon-qsc-q6`, pp. 32–37
+> **It INHERITS p. 32 nn. 2–9** — p. 32 n. 1 (*A B G communicantes.*) is Q. V's, anchoring reply 18 at
+> *immo necessario concomitantes*¹; **n. 2** (*Vers. 34. — Glossa est ordinaria apud Strabum et
+> Lyranum…*) anchors Q. VI's argument 1 at *Ioannis tertio*². `check-vol5-apparatus.py` carries p. 32's
+> total as **9** with nn. 2–9 PENDING; that clears when `q6` lands. ⚠ **Re-derive the inherited notes
+> down to their DIGITS, not only their ownership** — `q3`'s lesson, not retired, and `q5` caught three
+> more OCR digit defects proving it.
+> `title_la` (verify word-for-word on the plate; read at the head of p. 32's lower half):
+> *Utrum anima Christi comprehendat ipsam sapientiam increatam.* Raw band **L14368 → L15152**.
+> ⛔ **p. 37 IS THE LAST UNMEASURED BOUNDARY IN THIS WORK** — re-ask the p. 498 rule on the plate.
+> ⛔ **Plates are deleted after each chunk — RE-EXTRACT** via `extract-pages.py` + `colcrop.py`,
+> **per quaestio, never in bulk.** ⚠ In THIS work the default gutter window is unsafe on every leaf —
+> profile rows **0.20–0.50**, then confirm against a second region (rows 0.55–0.85) and take the
+> intersection midpoint. `colcrop`'s defaults were under the 58–64 px floor on **all six** of `q5`'s leaves.
+>
+> ## ⭐⭐ THE ONE THING `q5` ADDS — **A REPEATED SHAPE DOES NOT PREDICT A RATIO**
+> p. 32 forwards in **p. 27's exact shape** — a closing reply spanning the top band of BOTH columns,
+> then a full-measure `QUAESTIO` heading mid-leaf with its subtitle and the next question's own first
+> argument on the same leaf. **And its ratio is different anyway: nine notes splitting 1/8**, against
+> p. 27's eight splitting **1/7**, p. 6's nine splitting **6/3**, p. 10's eight splitting **7/1**, and
+> p. 17's **leaf edge**. Five boundaries, four "yes" and one "no", **and five different ratios.**
+> **Count the register on the plate; never infer the split from the shape, or from the last boundary.**
+>
+> ## ⭐⭐ AND ONE THAT PREVENTS *MANUFACTURED* DEFECTS — **THE 1-vs-4 GLYPH**
+> In this scan Quaracchi's digit **`1`** carries a heavy top flag and **reads as a `4` at 2.2×.** Five
+> of `q5`'s register digits turn on it (`d. 14. a. 1. q. 1.`, `q. 1. fundam. 1.`, `a. 1. q. 1.`,
+> `nota 1.`). Settled at **5×** on p. 28's left register, where `q. 1. fundam. 1.` sets directly above
+> `Vers. 19. — I. Cor. 13, 9` and the glyphs match: **all five are 1.** **Read a 1-vs-4 at 5× in this
+> volume, never at 2×.** The three *genuine* raw-vs-plate defects `q5` did find were all resolved to the
+> plate: p. 28 n. 2 `nota 5` (raw `h`), p. 29 n. 1 **Luc. 2, 52** (raw `32`), p. 30 n. 6 `pag. 562`
+> (raw `362`). **No Quaracchi-side slip in this span**, unlike `q2` and `q4`.
+>
+> ## ★★ THE GATE'S PER-SEGMENT INSTRUMENT WAS RUN, AND EVERY REGISTER CLAIM IN `q5` IS DERIVED FROM IT
+> This is the discipline the gate added and it cost about ten minutes. 39/39 anchors in the same order
+> in both halves. ***lux* 14 → 14 and *lumen* 5 → 5 with ZERO mismatched segments** (the dative *luci*
+> is in the pattern; **Ps. 35:10 does not occur here, so the standing exemption is neither exercised nor
+> extended**). **Six Latin `intellect-` nouns and ZERO bare "intellect"** — *intellectus agens* and
+> *possibilis* are both absent, so the ratified narrow exception is **not reached for at all**.
+> *sapientia* 153 → 156, three mismatched segments, **all confirmed by eye as elided-noun expansions**
+> (`superexcellit sapientia increata creatam` → "created **wisdom**") or pattern gaps (`sapientiaque`),
+> **not breaks**. *contueri* → "to contuit" exercised once and load-bearing (reply 8).
+> ⚠ ***vacatio*/*quies* STILL UNTESTED — a FOURTH consecutive chunk** with the *quiet-* family present
+> (*fine quietante*, *quietativi*, *quiescat*) and **the noun absent.** Strongest negative result yet.
+>
+> ## Numbers, derived after `q5`
+> `check-vol5-apparatus.py` **135 chunks / 2,698 entries, all passed** (p. 27's PENDING cleared, no
+> interior gap; p. 32 now PENDING nn. 2–9) · `check-vol5-census.py` **135/135**, **184 runovers
+> (163 gutter-crossing, 21 page-crossing)** — ⚠ **append to the ledger with COMMAS, never semicolons** ·
+> `check-live-flags.py` **`bon-qsc-*` contributes ZERO** · `polish-style-scan --volume 5` **CLEAN in
+> scope**, the one remaining item being `bon-hex-c23`'s **deliberate** non-page-qualified `[^51]`
+> (documented in its own frontmatter; the Hexaemeron is deployed, no edit) · `build-content.mjs`
+> **11 books, 2,086 questions**.
+
+---
+
+> # (superseded by `bon-qsc-q5`, 2026-09-04) previous START HERE
+> # ▶▶▶ START HERE — **THE SHAKEDOWN GATE RAN AND IS CLOSED. THE FRONT WAS `bon-qsc-q5` (pp. 27–32).**
 > `manual-review/vol5-scientia-christi-shakedown-gate.md`, 2026-09-04. Scope `bon-qsc-q1`…`q4`,
 > printed **pp. 3–27**, 25 leaves, **206 apparatus entries**. **THREE defects, all in scope, ALL
 > REPAIRED** — the first gate in Vol V to find a real one. Four register rulings frozen; repo

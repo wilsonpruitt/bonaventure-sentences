@@ -1215,8 +1215,11 @@ Raw band **L10048 → L16033**.
   opening *essentiam*⁷). ⛔ **The other five boundaries (pp. 10, 17, 27, 32, 37) are
   UNMEASURED — re-ask the p. 498 rule on the plate at each.** *De decem praeceptis* answered
   "no" at its first boundary and "yes" at five; one measurement licenses nothing.
-  ⭐ **UPDATE 2026-09-03: FOUR boundaries measured now — pp. 6, 10 and 27 FORWARD, p. 17 does NOT.
-  Only pp. 32 and 37 remain.** p. 27 forwards in a shape not seen before here: Q. IV's close fills the
+  ⭐ **UPDATE 2026-09-04: FIVE boundaries measured now — pp. 6, 10, 27 and 32 FORWARD, p. 17 does NOT.
+  Only p. 37 remains.** ⭐⭐ **AND A REPEATED SHAPE DOES NOT PREDICT A RATIO** — p. 32 has p. 27's exact
+  shape (a closing reply across the top band of BOTH columns, then a full-measure `QUAESTIO` heading
+  mid-leaf) yet its nine notes split **1/8** against p. 27's eight splitting **1/7**, p. 6's 6/3 and
+  p. 10's 7/1. **Count the register; never infer the split from the shape.** p. 27 forwards in a shape not seen before here: Q. IV's close fills the
   **top band of BOTH columns**, running left-then-right across the full measure, before `QUAESTIO V.`
   stands full-measure mid-leaf.
 - **⛔ `bon-qsc-q4` IS THE LARGEST SINGLE CHUNK VOL V HAS ATTEMPTED — 11 printed pp.**
@@ -1246,7 +1249,7 @@ Raw band **L10048 → L16033**.
 - **Cadence: TWO gates.** ONE at the work close (41 pp), and the shakedown at p. 27.
   ★★★ **SHAKEDOWN GATE RUN 2026-09-04 — `manual-review/vol5-scientia-christi-shakedown-gate.md`.
   THREE defects, all in scope, ALL REPAIRED; the first gate in Vol V to find a real defect.**
-  **The front is now `bon-qsc-q5` (pp. 27–32).** The work-close gate follows at p. 43; **deploy
+  **The front is now `bon-qsc-q6` (pp. 32–37), which inherits p. 32 nn. 2–9.** The work-close gate follows at p. 43; **deploy
   boundary = work close**, nothing in this work is deployed. **Plates per quaestio, never in bulk**
   — and Pass 4 deleted them, so **re-extract before any plate work**.
   **The four register rulings, which are now the work's rules and are NOT to be re-litigated:**
@@ -1416,8 +1419,46 @@ Raw band **L10048 → L16033**.
   ⚠ **A PRE-EXISTING LEDGER DEFECT FIXED IN PASSING:** `manual-review/vol5-runover-ledger.tsv` is
   **comma-separated**, and `bon-qsc-q3`'s line used semicolons, so its three gutter runovers parsed as
   **one** and the corpus count was understating by two. Both lines are now comma-separated; the census
-  reads **182 runovers (161 gutter-crossing, 21 page-crossing)**. **The checker swallows a semicolon
+  reads **184 runovers (163 gutter-crossing, 21 page-crossing)** after `q5`'s two. **The checker swallows a semicolon
   line silently — append with commas.**
+- **✅ `bon-qsc-q5` IS BUILT (pp. 27–32, 39 entries, zero `[?]`, 2026-09-04)** — the wisdom-of-Christ's-soul
+  question. Eighteen affirmative arguments (7 general, then a declared turn *Sed* specialius *de anima
+  Christi* and 11 more), **ten** `SED CONTRA`, `CONCLUSIO`, `Respondeo` in one continuous exposition
+  (no *modi*), eighteen replies. **It PICKED UP p. 27 nn. 2–8 and re-derived every digit; it FORWARDS
+  p. 32 nn. 2–9 to `bon-qsc-q6`.** Five things this chunk settled:
+  **(a) ⭐⭐ BOUNDARY 5 (p. 32) MEASURED: it FORWARDS — and THE SHAPE REPEATED WHILE THE RATIO DID NOT.**
+  Q. V's reply 18 closes across the top band of BOTH columns (3 lines left, 3 right), then `QUAESTIO VI.`
+  stands full measure mid-leaf with its subtitle and its own arg. 1 — p. 27's shape exactly. **But p. 32's
+  register holds nine notes splitting 1/8**, against p. 27's eight splitting 1/7, p. 6's nine splitting 6/3
+  and p. 10's eight splitting 7/1. ⛔ **p. 37 is the last unmeasured boundary in the work.**
+  **(b) ⭐ THE OPPOSING SERIES IS A DISPLAY FORMULA AGAIN — letter-spaced small-cap `Sᴇᴅ ᴄᴏɴᴛʀᴀ:`** on
+  p. 29's left column with the marginale `Fundamenta.`, rendered `**Sed contra:** 1.` **Three forms in five
+  questions** (`CONTRA` · `SED CONTRA` · none · `SED CONTRA`). The find-it-by-content rule is not retired.
+  **(c) ⭐ THE REPLIES ANSWER THE AFFIRMATIVE SIDE — the reverse of `q4`, the same as `q3`.** The *Respondeo*
+  concedes the *sed contra* (the soul is wise by BOTH wisdoms), so the eighteen replies answer the eighteen
+  *fundamenta*. Three print combined (`2. 3.`, `4. 5.`, `6. 7.`) and are preserved. `CONCLUSIO.` printed
+  correctly a FOURTH time and **in-column**, not full measure; two questions remain, rule not retired.
+  **(d) ⭐⭐ A GLYPH CALIBRATION THAT PREVENTS MANUFACTURED DEFECTS: in this scan Quaracchi's digit `1`
+  carries a heavy top flag and reads as a `4` at 2.2×.** Five register digits turn on it. Settled at **5×**
+  on p. 28's left register, where `q. 1. fundam. 1.` sets directly above `Vers. 19. — I. Cor. 13, 9` and the
+  glyphs match. **Read a 1-vs-4 at 5× in this volume, never at 2×.** Three genuine raw-vs-plate digit
+  defects were caught and resolved to the plate: p. 28 n. 2 `nota 5` (raw `h`), p. 29 n. 1 **Luc. 2, 52**
+  (raw `32`), p. 30 n. 6 `pag. 562` (raw `362`). **No Quaracchi-side slip in this span** — unlike `q2`/`q4`.
+  Gutters: p. 27 **1169** (independently re-derived, matching `q4`) · p. 28 **1441** · p. 29 **1172** ·
+  p. 30 **1381** · p. 31 **1197** · p. 32 **1398**; `colcrop`'s defaults sat under the 58–64 px floor on
+  **all six** leaves. Two gutter runovers (p. 28 n. 5, p. 29 n. 6), no page-crossing.
+  **(e) ★★ THE GATE'S PER-SEGMENT INSTRUMENT WAS RUN AND EVERY REGISTER CLAIM IS DERIVED FROM IT**, which
+  is the discipline the gate added: 39/39 anchors in the same order in both halves; ***lux* 14 → 14 and
+  *lumen* 5 → 5 with ZERO mismatched segments** (arg. 17 / reply 17's *lumina materialia* are the
+  load-bearing pair; the dative *luci* of arg. 14 is in the pattern; **Ps. 35:10 does not occur, so the
+  standing exemption is neither exercised nor extended**); **six Latin `intellect-` nouns and ZERO bare
+  "intellect"**, with *intellectus agens*/*possibilis* absent, so the narrow exception is not reached for
+  at all; *sapientia* 153 → 156 with three mismatches, **all confirmed by eye as elided-noun expansions**.
+  *contueri* → "to contuit" exercised once and load-bearing (reply 8, *ad contuendam lucem*).
+  ⚠ ***vacatio*/*quies* STILL UNTESTED, now for a FOURTH consecutive chunk** — *fine quietante*,
+  *quietativi*, *quiescat* all occur, the NOUN does not, and *vacatio*/*vacare* are absent from the work.
+  **Four chunks with the *quiet-* family present and the noun absent is the strongest negative result the
+  question has; it carries forward untested for a second work.**
 - **★ REGISTER: the Sentences key-terminology and scholastic-formulae tables govern** — this
   is the genre they were written for. Both *septem donis* rulings continue to bind.
   ⚠ ***intellectus*/*intelligentia* is under MAXIMUM pressure here** — the work is about
