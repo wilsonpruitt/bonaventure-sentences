@@ -1,6 +1,6 @@
 # Bonaventure Sentences — Project Guide for Claude
 
-You are working on an English translation of **St. Bonaventure's *Opera Omnia*** (Quaracchi edition, 1882–1902). Status (2026-09-04): **Books I–IV are complete and published** (Vols I–IV, all Tier 2). The active front is **Vol V**, where the Breviloquium, Itinerarium, De reductione, the Collationes in Hexaemeron, the *Collationes de septem donis* (pp. 457–503, gated + deployed 2026-08-29) and the *Collationes de decem praeceptis* (pp. 507–532, gate CLEAN, **pushed + DEPLOYED 2026-08-31**) are ALL COMPLETE. **The next work is the *QD de scientia Christi*, pp. 3–43** — its **mini-pilot is FROZEN 2026-08-31** (§ SCIENTIA CHRISTI below; evidence in `manual-review/scientia-christi-pilot-scouting.md`), and its first four chunks **`bon-qsc-q1` (pp. 3–6), `bon-qsc-q2` (pp. 6–10), `bon-qsc-q3` (pp. 10–16) and `bon-qsc-q4` (pp. 17–27) are BUILT** (2026-08-31 / 09-01 / 09-03 / 09-03, Tier 2, 31 + 34 + 48 + 93 entries, zero `[?]`), and **the SHAKEDOWN GATE RAN 2026-09-04 — three defects, all repaired, four register rulings frozen (§ SCIENTIA CHRISTI below).** **The front is `bon-qsc-q5` (pp. 27–32)**, inheriting p. 27 nn. 2–8; the work-close gate is at p. 43 and **nothing in this work is deployed**. The live site is https://bonaventure.wrootpress.com. Always defer to `next-session-resume.md` for the exact current position.
+You are working on an English translation of **St. Bonaventure's *Opera Omnia*** (Quaracchi edition, 1882–1902). Status (2026-09-04): **Books I–IV are complete and published** (Vols I–IV, all Tier 2). The active front is **Vol V**, where the Breviloquium, Itinerarium, De reductione, the Collationes in Hexaemeron, the *Collationes de septem donis* (pp. 457–503, gated + deployed 2026-08-29) and the *Collationes de decem praeceptis* (pp. 507–532, gate CLEAN, **pushed + DEPLOYED 2026-08-31**) are ALL COMPLETE. **The next work is the *QD de scientia Christi*, pp. 3–43** — its **mini-pilot is FROZEN 2026-08-31** (§ SCIENTIA CHRISTI below; evidence in `manual-review/scientia-christi-pilot-scouting.md`), and its first four chunks **`bon-qsc-q1` (pp. 3–6), `bon-qsc-q2` (pp. 6–10), `bon-qsc-q3` (pp. 10–16) and `bon-qsc-q4` (pp. 17–27) are BUILT** (2026-08-31 / 09-01 / 09-03 / 09-03, Tier 2, 31 + 34 + 48 + 93 entries, zero `[?]`), **the SHAKEDOWN GATE RAN 2026-09-04 — three defects, all repaired, four register rulings frozen (§ SCIENTIA CHRISTI below)**, and `bon-qsc-q5` (pp. 27–32) and `bon-qsc-q6` (pp. 32–37) are BUILT (2026-09-04, Tier 2, 39 + 39 entries, zero `[?]`). **The front is `bon-qsc-q7` (pp. 37–43), the work's last chunk**, inheriting p. 37 nn. 4–7; the work-close gate is at p. 43 and **nothing in this work is deployed**. The live site is https://bonaventure.wrootpress.com. Always defer to `next-session-resume.md` for the exact current position.
 
 This file is loaded into every Claude Code session in this repo. Read it before making changes to translation files or the build pipeline.
 
@@ -1215,8 +1215,10 @@ Raw band **L10048 → L16033**.
   opening *essentiam*⁷). ⛔ **The other five boundaries (pp. 10, 17, 27, 32, 37) are
   UNMEASURED — re-ask the p. 498 rule on the plate at each.** *De decem praeceptis* answered
   "no" at its first boundary and "yes" at five; one measurement licenses nothing.
-  ⭐ **UPDATE 2026-09-04: FIVE boundaries measured now — pp. 6, 10, 27 and 32 FORWARD, p. 17 does NOT.
-  Only p. 37 remains.** ⭐⭐ **AND A REPEATED SHAPE DOES NOT PREDICT A RATIO** — p. 32 has p. 27's exact
+  ⭐ **UPDATE 2026-09-04: ALL SIX boundaries measured — pp. 6, 10, 27, 32 and 37 FORWARD, p. 17 does NOT.
+  ⛔ THERE IS NO BOUNDARY LEFT TO MEASURE IN THIS WORK.** ⭐⭐ **And no two of the six split alike:**
+  6/3 · 7/1 · leaf edge · 1/7 · 1/8 · **3/4**. p. 37 repeats p. 27's and p. 32's shape for a THIRD time
+  and moved the ratio again. ⭐⭐ **AND A REPEATED SHAPE DOES NOT PREDICT A RATIO** — p. 32 has p. 27's exact
   shape (a closing reply across the top band of BOTH columns, then a full-measure `QUAESTIO` heading
   mid-leaf) yet its nine notes split **1/8** against p. 27's eight splitting **1/7**, p. 6's 6/3 and
   p. 10's 7/1. **Count the register; never infer the split from the shape.** p. 27 forwards in a shape not seen before here: Q. IV's close fills the
@@ -1249,7 +1251,7 @@ Raw band **L10048 → L16033**.
 - **Cadence: TWO gates.** ONE at the work close (41 pp), and the shakedown at p. 27.
   ★★★ **SHAKEDOWN GATE RUN 2026-09-04 — `manual-review/vol5-scientia-christi-shakedown-gate.md`.
   THREE defects, all in scope, ALL REPAIRED; the first gate in Vol V to find a real defect.**
-  **The front is now `bon-qsc-q6` (pp. 32–37), which inherits p. 32 nn. 2–9.** The work-close gate follows at p. 43; **deploy
+  **The front is now `bon-qsc-q7` (pp. 37–43), the work's LAST chunk, which inherits p. 37 nn. 4–7.** The work-close gate follows at p. 43; **deploy
   boundary = work close**, nothing in this work is deployed. **Plates per quaestio, never in bulk**
   — and Pass 4 deleted them, so **re-extract before any plate work**.
   **The four register rulings, which are now the work's rules and are NOT to be re-litigated:**
@@ -1277,6 +1279,30 @@ Raw band **L10048 → L16033**.
      that stops it generalising, since Bonaventure quotes constantly. ⚠ The Ps. 35:10 exemption
      survives because **a received English wording exists that a reader will recognise**; Dionysius'
      clause has none. **That, not "it is a quotation," is the line.**
+- **✅ `bon-qsc-q6` IS BUILT (pp. 32–37, 39 entries, zero `[?]`, 2026-09-04).** Three things it
+  settles for the rest of the work. **(a) A DEGENERATE GUTTER BAND IS EVIDENCE, NOT A FAILED
+  MEASUREMENT** — p. 37's upper region (rows 0.20–0.50) returned fifteen windows all ~249 px wide
+  and a 5 px band, which is neither noise nor skew but the signature of a region **that is not in
+  two columns**: the full-measure `QUAESTIO VII.` heading standing mid-leaf. **The profile predicted
+  the boundary before a column was read.** **(b) A WORN `5` READS AS A `3` IN THIS SCAN** — two of
+  the chunk's three raw-vs-plate defects are that one failure (p. 36 n. 1's raw `ad 3. scri.` →
+  plate **ad 5. seq.**, and the body's second reply paragraph, raw `3.` → plate **5.**, where the
+  raw's numeral would have duplicated a reply number and left a gap at 5); the third is p. 32 n. 5's
+  raw `c. 8. ct H.` → plate **c. 8. et 9.** ⚠ **Check any `3` that sits where a `5` belongs in a
+  sequence.** ★ Same class: **p. 35's numeral is NOT the predicted misprint `33`** — at 5× the second
+  glyph is a `5` whose upper arm failed to ink (p. 33 prints two identical `3`s one leaf earlier).
+  A scan defect on the leaf, **not** a Quaracchi misprint of the p. 508 class; the prediction table's
+  other thirty numerals stand. **(c) THE `q5` 1-vs-4 CALIBRATION GOT ITS CONTROL** — p. 33 nn. 6–7
+  read as `c. 4. n. 4` / `d. 4. a. 3. q. 4` at 3.2× and settle at 5.5× to **c. 1. n. 1** and
+  **d. 1. a. 3. q. 1.**, while p. 37 n. 2's `III. de Anima, text. 7. (c. 4.)` **is** a 4, one line
+  under n. 1's `ad 1.` **The two glyphs are distinguishable at 5×; they are not at 2–3×.**
+  ⭐ ***contueri* → "to contuit" EARNS RULING 3 HERE**: *contuendo* is the **fourth of the six named
+  modes** of being borne into the infinite, set between *admirando* and *excedendo*, and the
+  solution's own formula is *contuetur divinam sapientiam et* contuendo *excedit in ipsam*.
+  "Behold" would collapse three distinct acts into one. ⚠ ***vacatio*/*quies* untested for a FIFTH
+  consecutive chunk** — the *quiet-* family present every time, the noun absent every time.
+  ⚠ **The opposing formula reverted to `Cᴏɴᴛʀᴀ:`** (q1, q2, q6) against `Sᴇᴅ ᴄᴏɴᴛʀᴀ:` (q3, q5) and
+  q4's none. **Three forms in six questions, in no series. Find the opposing series by content.**
 - **✅ `bon-qsc-q1` IS BUILT (pp. 3–6, 31 entries, zero `[?]`, 2026-08-31).** Four pilot claims
   confirmed on its own plates: the unanchored `QUAESTIO I.`, the body-anchored p. 3 n. 1, the
   absent `SUMMARIUM`/scholia, and **boundary 1 at p. 6 re-derived and FORWARDING** (nn. 1–6

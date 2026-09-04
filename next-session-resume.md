@@ -1,6 +1,93 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — **`bon-qsc-q5` IS LANDED. THE FRONT IS `bon-qsc-q6` (pp. 32–37).**
+> # ▶▶▶ START HERE — **`bon-qsc-q6` IS LANDED. THE FRONT IS `bon-qsc-q7` (pp. 37–43) — THE WORK'S LAST CHUNK.**
+> Quaestio VI, **pp. 32–37**, Tier 2, built 2026-09-04 — whether the soul of Christ *comprehends*
+> uncreated wisdom. Twenty affirmative arguments in one undivided run, `Cᴏɴᴛʀᴀ` with ten, `CONCLUSIO`,
+> a *Respondeo* whose answer to the objections is set out in **three declared *principia*** plus **the
+> six *modi*** (*credendo, arguendo, admirando, contuendo, excedendo, comprehendendo*), and twenty
+> replies — four printed combined (`1. 2. 3. 4.`, `11. 12.`, `17. 18.`, `19. 20.`) and preserved, so
+> fourteen numbered paragraphs carry twenty replies. **39 apparatus entries** (p. 32 nn. 2–9 eight,
+> **picked up** · p. 33 twelve · p. 34 six · p. 35 seven · p. 36 **three** · p. 37 nn. 1–3 three),
+> **zero `[?]` flags**. Registry division 6 went in with it; no `buildWorkChunkTitle` change needed.
+> Conventions: repo `CLAUDE.md` § **SCIENTIA CHRISTI** — **that block is authoritative, this is a
+> pointer.** Committed locally, **not pushed, not deployed** — deploy boundary is the work close at p. 43.
+>
+> ## ⭐⭐⭐ THE LAST BOUNDARY IN THIS WORK IS MEASURED. **p. 37 FORWARDS.**
+> Q. VI's reply `19. 20.` closes across the **top band of BOTH columns** (sixteen lines left, breaking
+> mid-word at *…secundum suam omni-*, completing at the head of the right with the epilogue), then
+> `QUAESTIO VII.` stands full-measure mid-leaf and Q. VII's opening plus args 1–2 begin on the same leaf.
+> **All six boundaries measured now: pp. 6, 10, 27, 32, 37 forward; p. 17 does not.**
+> ⭐⭐ **And no two of the six split alike** — 6/3 · 7/1 · leaf edge · 1/7 · 1/8 · **3/4**. p. 37 repeats
+> p. 27's and p. 32's shape for the **third** time and moved the ratio again. **Count the register.**
+>
+> ## ▶ FRONT = `bon-qsc-q7`, pp. 37–43 — **the work close, and then the WORK-CLOSE GATE**
+> **It INHERITS p. 37 nn. 4–7.** n. 3 (*Ita F, alii* attingitur…) is Q. VI's, anchoring reply 19. 20's
+> *ad infinitum non attingit*³ in the right column; **n. 4** (*Vers. 33. — Deinde citatur Ioan. 5, 22.
+> et 27…*) anchors Q. VII's argument 1 at *Ad Romanos undecimo*⁴. `check-vol5-apparatus.py` carries
+> p. 37's total as **7** with nn. 4–7 PENDING; that clears when `q7` lands. ⚠ **Re-derive the inherited
+> notes down to their DIGITS, not only their ownership** — `q3`'s lesson, still paying.
+> `title_la` (verify word-for-word on the plate, at the head of p. 37's lower half):
+> *Utrum anima Christi comprehendat omnia, quae comprehendit sapientia increata.* Raw band **L15153 → L16033**.
+> ⚠ **p. 43's n. 3 is a full editorial dissertation filling half the leaf** — three note numbers over a
+> page of small type. Budget for it; a count outside the band is a prompt to recount, never a defect.
+> ⛔ **There is NO boundary left to measure.** p. 43's close was fixed positively at the pilot — no
+> colophon, an ornamental rule, p. 44 measured blank (0.0008 %), p. 45's display heading.
+> ⛔ **Plates are deleted after each chunk — RE-EXTRACT** via `extract-pages.py` + `colcrop.py`,
+> **per quaestio, never in bulk.** ⚠ Default gutter window unsafe on every leaf — profile rows
+> **0.20–0.50**, confirm against rows 0.55–0.85, take the intersection midpoint.
+>
+> ## ⭐⭐ THE ONE THING `q6` ADDS — **A DEGENERATE GUTTER BAND IS EVIDENCE, NOT A FAILED MEASUREMENT**
+> p. 37's upper region (rows 0.20–0.50) returned **fifteen windows all ~249 px wide and a 5 px band.**
+> That is not noise and not skew: it is the signature of a region **that is not in two columns** — here
+> the full-measure `QUAESTIO VII.` heading standing mid-leaf. **The profile predicted the boundary
+> before a single column was read.** The lower region gave a clean 60 px band at **1147**, in the
+> odd-page parity cluster. Gutters adopted: p. 32 **1398** · 33 **1103** · 34 **1378** · 35 **1180** ·
+> 36 **1426** · 37 **1147**.
+>
+> ## ⭐⭐ AND ONE MORE GLYPH RULE — **A WORN `5` READS AS A `3` IN THIS SCAN**
+> Three raw-vs-plate defects, all resolved to the plate, and **two are the same failure**: p. 36 n. 1's
+> raw `ad 3. scri. solut.` → plate **ad 5. seq. solut.**, and the body's second reply paragraph, which
+> the raw numbers `3.` and the plate prints **5.** (the raw's numeral would have duplicated a reply
+> number and left a gap at 5). Third: p. 32 n. 5's raw `c. 8. ct H. n. 18-21` → plate **c. 8. et 9.**
+> ⚠ **`check any 3 that sits where a 5 belongs in a sequence.`**
+> ★ Same class: **p. 35's numeral is NOT the predicted misprint `33`.** At 5× the second glyph has a
+> straight top bar over one bowl — a **5** whose upper arm failed to ink (p. 33, one leaf earlier,
+> prints two identical `3`s for comparison). A scan defect on the leaf, **not** a Quaracchi misprint.
+> ★ And the `q5` **1-vs-4** calibration was exercised twice and got its control: p. 33 nn. 6–7 read as
+> `c. 4. n. 4` / `d. 4. a. 3. q. 4` at 3.2× and settle at 5.5× to **c. 1. n. 1** and **d. 1. a. 3. q. 1.**,
+> while p. 37 n. 2's `III. de Anima, text. 7. (c. 4.)` **is** a 4, one line under n. 1's `ad 1.`
+> **The two glyphs are distinguishable at 5×; they are not at 2–3×.**
+>
+> ## ★★ THE GATE'S PER-SEGMENT INSTRUMENT WAS RUN, AND EVERY REGISTER CLAIM IN `q6` IS DERIVED FROM IT
+> 39/39 anchors in the same order in both halves. ***lux*/*lumen* fall on opposite sides of the
+> body/apparatus line**: six Latin *lux* and **zero *lumen*** in the body, **three *lumen* and zero
+> *lux*** in the apparatus (p. 32 n. 7, Isidore + I Tim. 6:16). Two mismatched *lux* segments, **both
+> confirmed by eye as PRONOUN expansions** (*illam* / *illa* → "that light"), not breaks. **Nine Latin
+> `intellect-` nouns and ZERO bare "intellect"** — *intellectus agens*/*possibilis* absent, so the
+> ratified narrow exception is **not reached for**, a second chunk running. *sapientia* has three
+> mismatched segments, **all elided-noun or pronoun expansions** confirmed by eye. *notitia* 6 → 7
+> "knowledge" (the 7th is Ps. 138:6's *scientia*); *cognitio* 5 → 5 "cognition", zero crossing.
+> ⭐ ***contueri* → "to contuit" EARNS THE RULING HERE** — *contuendo* is the **fourth of six named
+> modes**, set between *admirando* and *excedendo*, and the solution's formula is *contuetur… et*
+> contuendo *excedit in ipsam*. "Behold" would collapse three distinct acts into one.
+> ⚠ ***vacatio*/*quies* STILL UNTESTED — a FIFTH consecutive chunk** (*quiescat*, *quietatione* present;
+> the NOUN absent; *vacua* is *vacuus*, a different word). Carries to the work-close gate.
+>
+> ## Numbers, derived after `q6`
+> `check-vol5-apparatus.py` **136 chunks / 2,737 entries, all passed** (p. 32's PENDING cleared, no
+> interior gap; p. 37 now PENDING nn. 4–7) · `check-vol5-census.py` **136/136**, **188 runovers
+> (167 gutter-crossing, 21 page-crossing)** — ⚠ **append to the ledger with COMMAS, never semicolons** ·
+> `check-live-flags.py` **237 corpus-wide, `bon-qsc-*` contributes ZERO** · `polish-style-scan --volume 5`
+> **CLEAN in scope**, the one remaining item being `bon-hex-c23`'s **deliberate** non-page-qualified
+> `[^51]` (documented in its own frontmatter; the Hexaemeron is deployed, no edit) · `build-content.mjs`
+> **11 books, 2,087 questions**. ★ **Denominator checked, not assumed:** disk 2,089 `.md` = 2,087 built
+> + `vol1/punch-list.md` (not a chunk) + `vol1/bon-sent-I-proleg.md` (**deliberately** excluded by a
+> documented guard in `build-content.mjs`). **No silent skip.**
+
+---
+
+> # (superseded by `bon-qsc-q6`, 2026-09-04) previous START HERE
+> # ▶▶▶ START HERE — **`bon-qsc-q5` IS LANDED. THE FRONT WAS `bon-qsc-q6` (pp. 32–37).**
 > Quaestio V, **pp. 27–32**, Tier 2, built 2026-09-04 — the wisdom-of-Christ's-soul question.
 > Eighteen affirmative arguments (7 general, then a declared turn *Sed* specialius *de anima Christi*
 > and 11 more), **ten** `SED CONTRA`, `CONCLUSIO`, a *Respondeo* in one continuous exposition (no
