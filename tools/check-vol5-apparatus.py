@@ -51,7 +51,13 @@ KNOWN_TOTALS = {
     7: 11,
     8: 7,
     9: 6,
-    10: 8,  # nn.1-7 Quaest. II, n.8 Quaest. III — pending until bon-qsc-q3 lands
+    10: 8,  # nn.1-7 Quaest. II, n.8 Quaest. III — both now spent (q3 landed)
+    11: 10,
+    12: 10,
+    13: 8,   # n.5 runs over the gutter, left register into right
+    14: 6,   # n.3 runs over the gutter
+    15: 5,   # n.3 runs over the gutter
+    16: 8,   # Quaest. III closes here under an ornamental rule; nothing forwarded
     205: 8,
     206: 11,
     207: 8,
