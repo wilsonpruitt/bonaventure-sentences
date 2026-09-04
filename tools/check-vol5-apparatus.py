@@ -80,8 +80,17 @@ KNOWN_TOTALS = {
     30: 9,
     31: 6,
     32: 9,   # n.1 is Quaest. V's (reply 18 closes across the top band of both
-             # columns); nn.2-9 are Quaest. VI's and are a legitimate forwarded
-             # PENDING until bon-qsc-q6 lands. Same SHAPE as p.27, ratio 1/8.
+             # columns); nn.2-9 are Quaest. VI's -- picked up by bon-qsc-q6,
+             # so the leaf is now complete. Same SHAPE as p.27, ratio 1/8.
+    33: 12,  # n.8 runs over the gutter, left register into right
+    34: 6,   # n.5 runs over the gutter, left register into right
+    35: 7,   # n.4 runs over the gutter, left register into right
+    36: 3,   # a short register: the leaf is almost all reply prose
+    37: 7,   # BOUNDARY LEAF, and the work's LAST: nn.1-3 are Quaest. VI's
+             # (reply 19.20 closes across the top band of both columns);
+             # nn.4-7 are Quaest. VII's and are a legitimate forwarded
+             # PENDING until bon-qsc-q7 lands. Ratio 3/4 -- a sixth boundary
+             # and a sixth distinct ratio.
     205: 8,
     206: 11,
     207: 8,

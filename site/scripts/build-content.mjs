@@ -394,6 +394,7 @@ const WORKS = {
       3: "Quaestio III: Utrum Deus res cognoscat per similitudines realiter differentes",
       4: "Quaestio IV: Utrum quidquid a nobis certitudinaliter cognoscitur cognoscatur in ipsis rationibus aeternis",
       5: "Quaestio V: Utrum anima Christi fuerit sapiens tantum sapientia increata, an etiam sapientia creata cum increata",
+      6: "Quaestio VI: Utrum anima Christi comprehendat ipsam sapientiam increatam",
     },
   },
   // Future Vol V works claim book ids here as their mini-pilots run:
