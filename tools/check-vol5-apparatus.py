@@ -91,6 +91,17 @@ KNOWN_TOTALS = {
              # nn.4-7 are Quaest. VII's and are a legitimate forwarded
              # PENDING until bon-qsc-q7 lands. Ratio 3/4 -- a sixth boundary
              # and a sixth distinct ratio.
+    38: 8,   # thirteen arguments and an EMPTY MARGIN; nn.1-4 left, 5-8 right
+    39: 9,   # nn.1-5 left, 6-9 right; n.7 (Richard) is long but does not run over
+    40: 6,   # nn.1-2 left, 3-6 right; n.2 runs over the gutter, left into right
+    41: 3,   # n.1 left (with the `S. Bonav. - Tom. V.` signature line beneath
+             # it, which is NOT apparatus), nn.2-3 right; signature `6` at foot
+    42: 6,   # nn.1-2 left, 3-6 right
+    43: 3,   # THE WORK'S LAST LEAF: body ends at ~20% of the leaf, no colophon,
+             # ornamental rule at ~64%. n.3 is the work's longest single entry,
+             # an editorial dissertation running over the gutter, left into
+             # right -- but it fills a QUARTER of the leaf, not the half the
+             # mini-pilot budgeted for. The COUNT of 3 was exact.
     205: 8,
     206: 11,
     207: 8,
