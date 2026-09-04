@@ -73,8 +73,15 @@ KNOWN_TOTALS = {
     26: 7,   # its OWN numerals all stand in the RIGHT register — the left
              # register is entirely p.25 n.9's runover. Seven is not a miscount.
     27: 8,   # n.1 (the whole LEFT register, a full-column editorial note) is
-             # Quaest. IV's; nn.2-8 are Quaest. V's and are a legitimate
-             # forwarded PENDING until bon-qsc-q5 lands.
+             # Quaest. IV's; nn.2-8 are Quaest. V's -- picked up by bon-qsc-q5,
+             # so the leaf is now complete.
+    28: 8,   # n.5 runs over the gutter, left register into right
+    29: 8,   # n.6 runs over the gutter, left register into right
+    30: 9,
+    31: 6,
+    32: 9,   # n.1 is Quaest. V's (reply 18 closes across the top band of both
+             # columns); nn.2-9 are Quaest. VI's and are a legitimate forwarded
+             # PENDING until bon-qsc-q6 lands. Same SHAPE as p.27, ratio 1/8.
     205: 8,
     206: 11,
     207: 8,
