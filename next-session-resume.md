@@ -1,6 +1,75 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — **`bon-qsc-q2` IS LANDED. THE FRONT IS `bon-qsc-q3`.**
+> # ▶▶▶ START HERE — **`bon-qsc-q3` IS LANDED. THE FRONT IS `bon-qsc-q4`.**
+> Quaestio III, **pp. 10–16** (NOT 10–17 — see below), Tier 2, built 2026-09-03. Twenty-one
+> affirmative arguments, **sixteen `SED CONTRA`**, `CONCLUSIO`, `Respondeo`, **twenty-one replies**;
+> **48 apparatus entries** (p. 10 n. 8 one, picked up from `q2` · p. 11 ten · p. 12 ten · p. 13 eight ·
+> p. 14 six · p. 15 five · p. 16 eight), **zero `[?]` flags**, **nothing forwarded**. Registry division 3
+> went in with it; no `buildWorkChunkTitle` change needed. Conventions: repo `CLAUDE.md` §
+> **SCIENTIA CHRISTI** — **that block is authoritative, this is a pointer.** Committed locally,
+> **not pushed, not deployed** — deploy boundary is the work close at p. 43.
+>
+> ## ⭐⭐ THE ONE THING TO CARRY FORWARD: **p. 17 DOES NOT FORWARD. THE FIRST "NO" IN THIS WORK.**
+> `QUAESTIO IV.` stands full-measure at the **very head of p. 17**, under the running head, with its
+> subtitle and its own numbered body opening on the same leaf. Q. III closes instead on **p. 16** at
+> ~14 % of the leaf, under an **ornamental rule**, with the lower third blank. So `q3` = pp. 10–16 and
+> **`bon-qsc-q4` opens clean at p. 17 and INHERITS NOTHING.**
+> ⚠ **The index's "10–17" was a heading page paired with the next question's heading page — not a
+> span.** Three boundaries measured now: pp. 6 and 10 forward, p. 17 does not. **pp. 27, 32, 37 remain
+> UNMEASURED — re-ask the p. 498 rule on the plate at each.**
+> ⚠ **An ornamental rule is NOT a work-close signal** — the pilot read the p. 43 ornament that way;
+> Quaracchi sets one under any question that ends high on its leaf.
+>
+> ## ▶ FRONT = `bon-qsc-q4` — Quaestio IV, **pp. 17–27**
+> `work: scientia-christi`, `division: 4`, `type: quaestio`, book id 8, id `bon-qsc-q4`.
+> Title: *Utrum quidquid a nobis certitudinaliter cognoscitur cognoscatur in ipsis rationibus aeternis.*
+> Header at raw **L12047**; body opens *Supposito, quod rationes aeternae sint realiter indistinctae in
+> divina arte sive cognitione, quaeritur…* — **the illumination question, the most heavily read text in
+> the work.**
+> ⭐ **NO HAND-OFF. Its register opens at p. 17 n. 1**, and p. 17's plate is already on disk
+> (`raw/vision/vol5/p-017.png`); **gutter p. 17 = 1203**, already measured (56–60 px runs, every window
+> agrees, spread 2 px) — re-derive rather than adopt, but it is a sound reading.
+> ⛔ **Boundary at p. 27 is UNMEASURED — re-ask the p. 498 rule on the plate.**
+> ⛔ **ELEVEN PRINTED PAGES — the largest chunk Vol V has attempted. It is NOT split** (the quaestio is
+> Quaracchi's citation unit). **Use the small-incremental-append content-filter discipline from the
+> START**, not after a first kill.
+>
+> ## What `q3` settled that `q4` should not re-litigate
+> 1. **⭐ A FORWARDED NOTE IS EXPOSED DOWN TO ITS DIGITS, not only its ownership.** `q2` found no digit
+>    defect in its own eleven cross-refs and called that a negative result, not a licence — and the
+>    single note it handed `q3` (p. 10 n. 8) carried **two**: raw `Quacsl. i6` → **Quaest. 46**, raw
+>    `d. 33` → **d. 35**. Eight OCR digit defects total in this chunk (also `text. 36`→**56**,
+>    `§ 3`→**§ 5**, `pag. 333`→**355**, two `(c. i.)`→**(c. 4.)**, `q. t. ad I.`→**q. 4. ad 1.**).
+> 2. **The gutter rule is now SETTLED for this work: profile rows 0.20–0.50 on every leaf; the default
+>    is advisory.** Three of `q3`'s seven leaves would have been mis-split by it. Gutters: p. 11 **1209**
+>    (needed the third step — the printed centre rule inks only on the lower half and drags every low
+>    window left) · p. 12 **1359** · p. 13 **1103** · p. 14 **1406** · p. 15 **1145** · p. 16 **1454** ·
+>    p. 17 **1203**. Parity stays retired.
+> 3. **⚠ THE CONTRA HEADING VARIES: p. 12 prints `SED CONTRA`, not `CONTRA`.** Read it on the plate;
+>    assume neither form.
+> 4. **`CONCLUSIO.` printed correctly a second time — and it did NOT stand full measure** (inside the
+>    right column on p. 13). Two undamaged spellings in three questions; **the "find it by content,
+>    never by header grep" rule still stands**, four questions remain.
+> 5. **⚠ THE REPLY SERIES ANSWERS WHICHEVER SIDE THE *Respondeo* REJECTS.** In `q1`/`q2` the replies
+>    matched the `CONTRA` series; in `q3` the conclusion goes against the affirmative side, so the
+>    sixteen *sed contra* arguments are conceded wholesale and the **twenty-one replies answer the
+>    twenty-one affirmative arguments**. Never assume; read which side is conceded.
+> 6. **Gutter runovers are ORDINARY in this work — four in eleven leaves** (p. 9 n. 4, p. 13 n. 5,
+>    p. 14 n. 3, p. 15 n. 3). No page-crossing runover yet.
+> 7. **Marginalia density belongs to the SOLUTION, not the argument series** — p. 11 carries thirteen
+>    arguments and **zero** marginalia; pp. 14–16 carry 21 of the chunk's 25.
+> 8. ***vacatio*/*quies* stays UNTESTED** — zero on this band, and unlike `q2` the *quietans* family
+>    does not occur either.
+>
+> ## Cadence, unchanged
+> **TWO gates.** ▶ **Shakedown gate at the close of `bon-qsc-q4` (p. 27)** — the very next thing after
+> the chunk — then the work-close gate at **p. 43**. **Deploy boundary = work close.**
+> **Plates per quaestio, never in bulk.**
+
+---
+
+> # (superseded — `bon-qsc-q3` is built) previous START HERE, 2026-09-01
+> # **`bon-qsc-q2` IS LANDED. THE FRONT WAS `bon-qsc-q3`.**
 > Quaestio II, **pp. 6–10**, Tier 2, built 2026-09-01. Eleven affirmative arguments,
 > **thirteen** `CONTRA`, `CONCLUSIO`, `Respondeo`, thirteen replies; **34 apparatus entries**
 > (p. 6 nn. 7–9 three, picked up from `q1` · p. 7 eleven · p. 8 seven · p. 9 six · p. 10 nn. 1–7

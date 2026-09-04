@@ -1,6 +1,6 @@
 # Bonaventure Sentences — Project Guide for Claude
 
-You are working on an English translation of **St. Bonaventure's *Opera Omnia*** (Quaracchi edition, 1882–1902). Status (2026-08-31): **Books I–IV are complete and published** (Vols I–IV, all Tier 2). The active front is **Vol V**, where the Breviloquium, Itinerarium, De reductione, the Collationes in Hexaemeron, the *Collationes de septem donis* (pp. 457–503, gated + deployed 2026-08-29) and the *Collationes de decem praeceptis* (pp. 507–532, gate CLEAN, **pushed + DEPLOYED 2026-08-31**) are ALL COMPLETE. **The next work is the *QD de scientia Christi*, pp. 3–43** — its **mini-pilot is FROZEN 2026-08-31** (§ SCIENTIA CHRISTI below; evidence in `manual-review/scientia-christi-pilot-scouting.md`), and its first two chunks **`bon-qsc-q1` (pp. 3–6) and `bon-qsc-q2` (pp. 6–10) are BUILT** (2026-08-31 / 2026-09-01, Tier 2, 31 + 34 entries, zero `[?]`); the front is `bon-qsc-q3` (pp. 10–17). The live site is https://bonaventure.wrootpress.com. Always defer to `next-session-resume.md` for the exact current position.
+You are working on an English translation of **St. Bonaventure's *Opera Omnia*** (Quaracchi edition, 1882–1902). Status (2026-08-31): **Books I–IV are complete and published** (Vols I–IV, all Tier 2). The active front is **Vol V**, where the Breviloquium, Itinerarium, De reductione, the Collationes in Hexaemeron, the *Collationes de septem donis* (pp. 457–503, gated + deployed 2026-08-29) and the *Collationes de decem praeceptis* (pp. 507–532, gate CLEAN, **pushed + DEPLOYED 2026-08-31**) are ALL COMPLETE. **The next work is the *QD de scientia Christi*, pp. 3–43** — its **mini-pilot is FROZEN 2026-08-31** (§ SCIENTIA CHRISTI below; evidence in `manual-review/scientia-christi-pilot-scouting.md`), and its first three chunks **`bon-qsc-q1` (pp. 3–6), `bon-qsc-q2` (pp. 6–10) and `bon-qsc-q3` (pp. 10–16) are BUILT** (2026-08-31 / 09-01 / 09-03, Tier 2, 31 + 34 + 48 entries, zero `[?]`); the front is `bon-qsc-q4` (pp. 17–27), which is followed immediately by the shakedown gate. The live site is https://bonaventure.wrootpress.com. Always defer to `next-session-resume.md` for the exact current position.
 
 This file is loaded into every Claude Code session in this repo. Read it before making changes to translation files or the build pipeline.
 
@@ -1203,7 +1203,10 @@ Raw band **L10048 → L16033**.
   (`Fmdamenta.Civitate`).
 - **Index spans (index pages, all confirmed on the band; only the two ENDS are closed):**
   q1 **3–6** · q2 **6–10** · q3 **10–17** · q4 **17–27** · q5 **27–32** · q6 **32–37** ·
-  q7 **37–43**. Real `QUAESTIO N.` headers at raw L10063 · 10554 · 11131 · 12047 · 13607 ·
+  q7 **37–43**. ⛔ **AND q3's TRUE EXTENT IS pp. 10–16, NOT 10–17 — measured 2026-09-03.**
+  The "17" is Q. IV's heading page, and Q. IV opens at the very HEAD of it. This is the frozen
+  warning below paying off: **an index span's last page is the next question's heading page, and
+  that leaf may or may not be shared.** Real `QUAESTIO N.` headers at raw L10063 · 10554 · 11131 · 12047 · 13607 ·
   14368 · 15153. ⚠ **The index gives a HEADING page and a heading page may be SHARED —
   never derive a span's last page by subtracting one from the next question's index page.**
   ⭐ **BOUNDARY 1 (p. 6) MEASURED: it FORWARDS.** Q. I's replies fill the upper ~60 %, then
@@ -1280,6 +1283,50 @@ Raw band **L10048 → L16033**.
   idiom, **not** a departure from *intelligentia*→intelligence, which governs the term of art.
   ⚠ The *quietans* family DOES occur (reply 8, *quietantis ipsum cognoscentem*) and is **still not**
   a datum on the open *vacatio*/*quies* question.
+- **✅ `bon-qsc-q3` IS BUILT (pp. 10–16, 48 entries, zero `[?]`, 2026-09-03).** Twenty-one arguments,
+  **sixteen** `SED CONTRA`, `CONCLUSIO`, `Respondeo`, twenty-one replies. **⭐⭐ BOUNDARY 3 (p. 17)
+  MEASURED: IT DOES NOT FORWARD — the work's first "no."** `QUAESTIO IV.` stands full-measure at the
+  very head of p. 17 with its subtitle and its own numbered body on the same leaf; Q. III closes on
+  **p. 16** at ~14 % of the leaf under an **ornamental rule**, lower third blank. So **q3 = pp. 10–16
+  and `bon-qsc-q4` opens clean at p. 17 and inherits NOTHING.** Three boundaries measured, two "yes"
+  and one "no" — pp. 27, 32, 37 stay UNMEASURED. Seven things this chunk settled:
+  **(a) ⭐ A FORWARDED NOTE IS EXPOSED DOWN TO ITS DIGITS, not merely its ownership.** `q2` recorded
+  "no new digit defect in my own eleven cross-refs" as a negative result, not a licence — and the one
+  note it forwarded (p. 10 n. 8) carried **two**: raw `Quacsl. i6` → **Quaest. 46**, raw `d. 33` →
+  **d. 35**. Eight OCR digit defects in this chunk overall (`text. 36`→**56** · `§ 3`→**§ 5** ·
+  `pag. 333`→**355** · two `(c. i.)`→**(c. 4.)** · `q. t. ad I.`→**q. 4. ad 1.**). **Re-derive an
+  inherited note's digits on the plate like any other.**
+  **(b) THE GUTTER RULE IS SETTLED FOR THIS WORK — profile rows 0.20–0.50 on every leaf; the
+  `colcrop.py` default is advisory.** Three of seven leaves would have been mis-split by it. Gutters:
+  p. 11 **1209** · p. 12 **1359** · p. 13 **1103** · p. 14 **1406** · p. 15 **1145** · p. 16 **1454** ·
+  p. 17 **1203** (measured ahead for q4). p. 11 needed the third step: the printed centre rule inks on
+  the lower half only and drags every low window left (true band 1175–1247).
+  **(c) ⚠ THE CONTRA HEADING VARIES WITHIN THE WORK — p. 12 prints `SED CONTRA`, not `CONTRA`.** Read
+  it on the plate; assume neither form. Rendered `**Sed contra:** 1.`
+  **(d) `CONCLUSIO.` printed correctly a SECOND time — and NOT at full measure** (inside p. 13's right
+  column, against q2's full-measure setting). Still rendered as the `> **Conclusio.**` blockquote,
+  which encodes the unit and not the measure. **The "find it by content, never by header grep" rule
+  is NOT retired** — four questions remain.
+  **(e) ⚠ THE REPLY SERIES ANSWERS WHICHEVER SIDE THE `Respondeo` REJECTS.** q1 and q2's replies
+  matched the `CONTRA` series; here the conclusion goes against the affirmative side, the sixteen
+  *sed contra* arguments are conceded wholesale (*Et ideo concedendae sunt rationes, quae factae sunt
+  ad partem istam*), and the **twenty-one replies answer the twenty-one affirmative arguments.**
+  Never assume the pairing; read which side is conceded.
+  **(f) ⛔ AN ORNAMENTAL RULE IS NOT A WORK-CLOSE SIGNAL.** The pilot read the ornament under p. 43 as
+  one of three positive facts fixing the work's end; Quaracchi sets the same rule under **any** question
+  that ends high on its leaf. Gutter runovers are likewise now ordinary here — four in eleven leaves
+  (p. 9 n. 4, p. 13 n. 5, p. 14 n. 3, p. 15 n. 3); no page-crossing runover yet.
+  **(g) MARGINALIA DENSITY BELONGS TO THE SOLUTION, NOT THE ARGUMENT SERIES.** p. 11 carries thirteen
+  arguments and **zero** marginalia — the work's first empty margin — while pp. 14–16 carry 21 of the
+  chunk's 25. The pilot's "~one per argument" impression, formed on p. 6, does not generalise.
+  Register: ***ratio*→account** carried its heaviest load yet (the *secundum rem*/*secundum rationem*
+  axis survives intact in English); ***lux*→light / *lumen*→lumen** held apart because p. 14 sets both
+  in one phrase and the apparatus records a variant turning on the pair (**cost: "lumen" is a
+  transliteration**); ***status*→stopping-place** at *sed contra* 5. ⚠ **One disclosed departure from
+  *intellectus*→understanding:** Dionysius' *novit divinus intellectus* → "the divine intellect knows,"
+  a **quotation-boundary** judgment (the clause renders Greek νοῦς and Bonaventure is quoting, not
+  using) — **the ratified narrow exception was NOT invoked**; offered to the work-close gate as a
+  distinct class. *vacatio*/*quies* stays untested; unlike q2, even the *quietans* family is absent.
 - **★ REGISTER: the Sentences key-terminology and scholastic-formulae tables govern** — this
   is the genre they were written for. Both *septem donis* rulings continue to bind.
   ⚠ ***intellectus*/*intelligentia* is under MAXIMUM pressure here** — the work is about
