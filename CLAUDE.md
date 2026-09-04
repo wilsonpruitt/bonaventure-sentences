@@ -1,6 +1,6 @@
 # Bonaventure Sentences — Project Guide for Claude
 
-You are working on an English translation of **St. Bonaventure's *Opera Omnia*** (Quaracchi edition, 1882–1902). Status (2026-08-31): **Books I–IV are complete and published** (Vols I–IV, all Tier 2). The active front is **Vol V**, where the Breviloquium, Itinerarium, De reductione, the Collationes in Hexaemeron, the *Collationes de septem donis* (pp. 457–503, gated + deployed 2026-08-29) and the *Collationes de decem praeceptis* (pp. 507–532, gate CLEAN, **pushed + DEPLOYED 2026-08-31**) are ALL COMPLETE. **The next work is the *QD de scientia Christi*, pp. 3–43** — its **mini-pilot is FROZEN 2026-08-31** (§ SCIENTIA CHRISTI below; evidence in `manual-review/scientia-christi-pilot-scouting.md`), and its first four chunks **`bon-qsc-q1` (pp. 3–6), `bon-qsc-q2` (pp. 6–10), `bon-qsc-q3` (pp. 10–16) and `bon-qsc-q4` (pp. 17–27) are BUILT** (2026-08-31 / 09-01 / 09-03 / 09-03, Tier 2, 31 + 34 + 48 + 93 entries, zero `[?]`); **the front is not a chunk — the SHAKEDOWN GATE fires now, at the close of `bon-qsc-q4` (p. 27, 25 pp in)**, and `bon-qsc-q5` (pp. 27–32) follows it. The live site is https://bonaventure.wrootpress.com. Always defer to `next-session-resume.md` for the exact current position.
+You are working on an English translation of **St. Bonaventure's *Opera Omnia*** (Quaracchi edition, 1882–1902). Status (2026-09-04): **Books I–IV are complete and published** (Vols I–IV, all Tier 2). The active front is **Vol V**, where the Breviloquium, Itinerarium, De reductione, the Collationes in Hexaemeron, the *Collationes de septem donis* (pp. 457–503, gated + deployed 2026-08-29) and the *Collationes de decem praeceptis* (pp. 507–532, gate CLEAN, **pushed + DEPLOYED 2026-08-31**) are ALL COMPLETE. **The next work is the *QD de scientia Christi*, pp. 3–43** — its **mini-pilot is FROZEN 2026-08-31** (§ SCIENTIA CHRISTI below; evidence in `manual-review/scientia-christi-pilot-scouting.md`), and its first four chunks **`bon-qsc-q1` (pp. 3–6), `bon-qsc-q2` (pp. 6–10), `bon-qsc-q3` (pp. 10–16) and `bon-qsc-q4` (pp. 17–27) are BUILT** (2026-08-31 / 09-01 / 09-03 / 09-03, Tier 2, 31 + 34 + 48 + 93 entries, zero `[?]`), and **the SHAKEDOWN GATE RAN 2026-09-04 — three defects, all repaired, four register rulings frozen (§ SCIENTIA CHRISTI below).** **The front is `bon-qsc-q5` (pp. 27–32)**, inheriting p. 27 nn. 2–8; the work-close gate is at p. 43 and **nothing in this work is deployed**. The live site is https://bonaventure.wrootpress.com. Always defer to `next-session-resume.md` for the exact current position.
 
 This file is loaded into every Claude Code session in this repo. Read it before making changes to translation files or the build pipeline.
 
@@ -1243,11 +1243,37 @@ Raw band **L10048 → L16033**.
   `Quaest. ${meta.division}`** for the QD slugs, beside the existing `Coll. ${meta.division}`
   branch. Do it when q1 lands, division 1 only; each later chunk adds its own `divisions`
   line after verifying the printed subtitle in place word for word.
-- **Cadence: TWO gates.** ONE at the work close (41 pp, under the ~100 pp trigger), **and the
-  shakedown trigger DOES fire — it has not fired since the Hexaemeron, and this is a new
-  genre in Vol V.** ▶▶ **`bon-qsc-q4` HAS LANDED, so the SHAKEDOWN GATE IS NOW THE FRONT (p. 27, 25 pp in)** —
-  inside the frozen 15–25 pp window and immediately after the work's largest and most-read
-  chunk. Deploy boundary = work close. **Plates per quaestio, never in bulk.**
+- **Cadence: TWO gates.** ONE at the work close (41 pp), and the shakedown at p. 27.
+  ★★★ **SHAKEDOWN GATE RUN 2026-09-04 — `manual-review/vol5-scientia-christi-shakedown-gate.md`.
+  THREE defects, all in scope, ALL REPAIRED; the first gate in Vol V to find a real defect.**
+  **The front is now `bon-qsc-q5` (pp. 27–32).** The work-close gate follows at p. 43; **deploy
+  boundary = work close**, nothing in this work is deployed. **Plates per quaestio, never in bulk**
+  — and Pass 4 deleted them, so **re-extract before any plate work**.
+  **The four register rulings, which are now the work's rules and are NOT to be re-litigated:**
+  1. ***intellectus agens* → "the agent intellect" RATIFIED** — not an extension of the narrow
+     exception but **the same instance of it** (the exception was founded at `bon-praec-c2` on the
+     Averroist unity of the intellect; this is that doctrine's own name). ★ It stayed narrow, and
+     mechanically so: `q4` has **57 Latin `intellect-` nouns** and English "intellect" occurs **9
+     times, every one inside *intellectus agens* or *intellectus possibilis*, with zero bare
+     "intellect."** The control is p. 19's *circa **intellectum** intelligere oportet, quod est
+     **intellectus agens** et **intellectus possibilis*** → "concerning the **understanding**… an
+     **agent intellect** and a **possible intellect**." **The exception is scoped to the PHRASE,
+     never to the word.**
+  2. ***lux* → light / *lumen* → "lumen" HELD APART** (Wilson, 2026-09-04), 18 sites repaired in
+     `q4`. **Cost accepted: it is a transliteration and at this frequency conspicuous** — disclose
+     it in a translator's note. ⚠ **ONE STANDING EXEMPTION: Ps. 35:10 *In lumine tuo videbimus
+     lumen* keeps "In thy light we shall see light"** (received Psalter wording at a scriptural
+     quotation boundary). It is the only *lumen* in the work rendered "light"; **do not "fix" it.**
+  3. **The `contuit-` family RATIFIED for `q4`** (*contuita* → "contuited", *contuibilis* →
+     "contuitable"); **the `q1` repair was DECLINED** — `bon-qsc-q1` keeps *contuitum* →
+     "intuition." ⚠ **Consequence, recorded so it is not re-found as a new defect:** the work still
+     has one site where *contuitum* and *intuitionem* both go to "intuition." **Known and ruled
+     upon.** Follow `q4`, leave `q1` alone; p. 43 may revisit it, it is not open before then.
+  4. **"Quotation boundary" NOT RATIFIED as a licence class** — `q3`'s *novit divinus intellectus*
+     was repaired to "the divine **understanding** knows." One instance, no control, and no test
+     that stops it generalising, since Bonaventure quotes constantly. ⚠ The Ps. 35:10 exemption
+     survives because **a received English wording exists that a reader will recognise**; Dionysius'
+     clause has none. **That, not "it is a quotation," is the line.**
 - **✅ `bon-qsc-q1` IS BUILT (pp. 3–6, 31 entries, zero `[?]`, 2026-08-31).** Four pilot claims
   confirmed on its own plates: the unanchored `QUAESTIO I.`, the body-anchored p. 3 n. 1, the
   absent `SUMMARIUM`/scholia, and **boundary 1 at p. 6 re-derived and FORWARDING** (nn. 1–6

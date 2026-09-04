@@ -1,5 +1,90 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **THE SHAKEDOWN GATE RAN AND IS CLOSED. THE FRONT IS `bon-qsc-q5` (pp. 27–32).**
+> `manual-review/vol5-scientia-christi-shakedown-gate.md`, 2026-09-04. Scope `bon-qsc-q1`…`q4`,
+> printed **pp. 3–27**, 25 leaves, **206 apparatus entries**. **THREE defects, all in scope, ALL
+> REPAIRED** — the first gate in Vol V to find a real one. Four register rulings frozen; repo
+> `CLAUDE.md` § **SCIENTIA CHRISTI** is authoritative, this is a pointer. Passes 1–4 all complete
+> (Pass 4 reclaimed ~455 MB). **Committed locally, NOT pushed, NOT deployed — deploy boundary is the
+> work close at p. 43.**
+>
+> ## ⭐⭐⭐ THE ONE THING TO CARRY FORWARD — **A CHUNK'S `## Notes` ARE A CLAIM, NOT A MEASUREMENT**
+> **Two of the three defects were not transcription errors.** They were chunks whose `## Notes`
+> described a register practice **the chunk did not follow**, and both would have been quoted forward
+> as settled — by the next chunk, by the next gate, and by `CLAUDE.md`. `q4`'s *lumen* bullet said the
+> ruling was "exercised about twenty times"; the file exercised it **three** times and rendered
+> *lumen* as "light" **twenty**. It named four sites **as evidence** and **two of the four broke it**.
+> ⛔ **Verify a register claim against the TEXT.** This is the same rule as "never hand-carry a
+> corpus-wide count, derive it," applied to prose instead of numbers, and it is now the third
+> mechanism — after the runover ledger and the live-flag tool — where a self-reported figure was wrong.
+>
+> ## ★★ THE INSTRUMENT THAT FOUND IT. **REUSE IT; IT IS CHEAP AND IT GENERALISES.**
+> A whole-chunk word count is **blind** to this: `q4`'s totals **reconciled perfectly** (62 Latin
+> *lux*+*lumen* → 62 English "light"+"lumen") **while twenty sites were wrong**, because a collapse
+> moves words between two buckets that both stay full. What localises it: **the Latin and English
+> halves carry the same footnote anchors in the same order** (93/93 in `q4`, verified). Split both on
+> the anchor pattern, compare a term-of-art's count per matched segment, and a register break narrows
+> to a few sentences. ⚠ **Two traps met doing it, both of which LOOK like defects:** the *lux*
+> paradigm needs the dative ***luci*** (a `lux|luce|lucis|lucem` pattern reports a correct segment as
+> broken), and **an elided Latin noun legitimately expands in English** (p. 23 n. 3's *gratuiti
+> luminis, sed etiam naturalis* → "gratuitous lumen, but also of natural lumen", 2 → 3).
+> **Confirm every mismatch by eye before editing.**
+> ★ **And it predicts where to look:** the break was **positional** — the ruling was applied to the
+> *Respondeo*, replies and apparatus and never carried back over the argument series drafted first.
+> **In a long chunk, suspect the FIRST-DRAFTED section of carrying a pre-decision register.**
+>
+> ## ▶ THE FOUR RULINGS — these are the work's rules now, do not re-litigate them
+> 1. ***intellectus agens* → "the agent intellect" RATIFIED**, no edit. Not an extension of the narrow
+>    exception — **the same instance of it** (founded at `bon-praec-c2` on the Averroist unity of the
+>    intellect; this is that doctrine's own name). It stayed narrow mechanically: **57 Latin
+>    `intellect-` nouns in `q4`, 9 English "intellect", every one inside a doctrinal name, zero bare
+>    "intellect."** Control: p. 19 puts rule and exception in one clause and separates them.
+>    **The exception is scoped to the PHRASE, never to the word.**
+> 2. ***lux* → light / *lumen* → "lumen" HELD APART** (Wilson). 18 sites repaired in `q4`; it now reads
+>    23 Latin *lumen* → 21 English "lumen". **Cost accepted — a transliteration, conspicuous at this
+>    frequency; disclose it in a translator's note.** ⚠ **STANDING EXEMPTION: Ps. 35:10 *In lumine tuo
+>    videbimus lumen* keeps "In thy light we shall see light."** The only *lumen* in the work rendered
+>    "light". **NOT a defect — do not "fix" it.**
+> 3. **`contuit-` family RATIFIED for `q4`; the `q1` repair DECLINED** by Wilson. ⚠ **Consequence,
+>    recorded so nobody re-finds it as a new defect:** the work still has one site where *contuitum*
+>    (`q1`, p. 5) and *intuitionem* (`q4`, p. 24 apparatus) **both go to "intuition."** **Known and
+>    ruled upon.** Follow `q4`, leave `q1` alone. p. 43 may revisit it; it is not open before then.
+> 4. **"Quotation boundary" NOT RATIFIED as a licence class.** `q3`'s *novit divinus intellectus* →
+>    "the divine **understanding** knows". ⚠ The line is **not** "it is a quotation" — Bonaventure
+>    quotes constantly. It is that **Ps. 35:10 has a received English wording a reader recognises and
+>    Dionysius' clause has none.**
+>
+> ## ▶ FRONT = `bon-qsc-q5`, pp. 27–32
+> **It INHERITS p. 27 nn. 2–8** (p. 27's whole LEFT register is n. 1, Q. IV's; n. 2 — *Vers. 1. — Cfr.
+> III. Sent. d. 14. a. 1. q. 1. et a. 3. q. 1…* — anchors Q. V's argument 1 at *Ecclesiastici primo*²
+> and heads the right register). `check-vol5-apparatus.py` carries p. 27's total as **8** with nn. 2–8
+> PENDING; that clears when `q5` lands. ⚠ **Re-derive the inherited notes down to their DIGITS, not
+> only their ownership** — `q3`'s lesson, not retired.
+> ⛔ **p. 32 is UNMEASURED — re-ask the p. 498 rule on the plate.** (pp. 6, 10 and 27 forward; p. 17
+> does not; p. 37 also unmeasured.) ⛔ **Pass 4 deleted the vol5 plates — RE-EXTRACT** via
+> `extract-pages.py` + `colcrop.py`, **per quaestio, never in bulk.** ⚠ In THIS work the default
+> gutter window is unsafe on every leaf — profile rows **0.20–0.50**.
+>
+> ## Gate numbers, derived at the gate
+> `check-live-flags.py` **237 corpus-wide** (vol1 150 · vol2 9 · vol3 2 · vol4 66 · vol5 10), **`bon-qsc-*`
+> contributes ZERO** ⚠ vol5 moved 2→10 since the Hexaemeron baseline, all in already-deployed
+> Hexaemeron/Breviloquium chunks, **out of scope, not fixed** · `check-vol5-apparatus.py` **134 chunks /
+> 2,659 entries, all passed** · `check-vol5-census.py` **134/134**, 182 runovers (161 gutter, 21
+> page-crossing) · `polish-style-scan --volume 5` **CLEAN in scope**, the one remaining item being
+> `bon-hex-c23`'s **deliberate** non-page-qualified `[^51]` (documented in its own frontmatter; the
+> Hexaemeron is deployed, no edit) · `build-content.mjs` **11 books, 2,085 questions** · `build-citations.py`
+> **201 corpus QA, exactly 2 in scope**, both benign `ibid` anaphora.
+> ★ **Denominator checked, not assumed:** disk 2,087 `.md` = 2,085 built + `vol1/punch-list.md` (not a
+> chunk) + `vol1/bon-sent-I-proleg.md` (**deliberately** excluded by a documented guard in
+> `build-content.mjs`). **No silent skip** — the `bon-brev-prol` blind-spot class was checked and is clear.
+> ★ **Boundary shapes: THREE different ones in four boundaries, and the split ratio INVERTS.** p. 6
+> splits 6/3 and p. 10 splits 7/1 (outgoing owns most); p. 17 is a **leaf edge** (q4 inherits nothing);
+> p. 27 splits **1/7** (outgoing owns n. 1 only). **Never infer the next boundary's shape, or its ratio,
+> from the last one — read the anchors.**
+
+---
+
+> # (superseded by the shakedown gate, 2026-09-04) previous START HERE
 > # ▶▶▶ START HERE — **`bon-qsc-q4` IS LANDED. THE FRONT IS THE SHAKEDOWN GATE (p. 27).**
 > Quaestio IV, **pp. 17–27**, Tier 2, built 2026-09-03 — the illumination question, eleven printed
 > pages, **the largest single chunk Vol V has attempted**. Thirty-four affirmative arguments,
@@ -19,8 +104,9 @@
 >    understanding, offered as an invocation of **the ratified narrow exception** (a fixed
 >    philosophical doctrine the rule would misname). Second instance the corpus has met, after the
 >    *praeceptis* c2 Averroist case. The gate rules on it, not the chunk.
-> 2. ***lumen* → "lumen"** — `q3`'s ruling, exercised ~20× here against `q3`'s handful, in the one
->    question where the *lux*/*lumen* pair does the most work. **Cost: it is a transliteration and at
+> 2. ***lumen* → "lumen"** — ⛔ **THIS CLAIM WAS FALSE; THE GATE PROVED IT. As built, `q4` exercised
+>    the ruling THREE times and rendered *lumen* as "light" TWENTY.** Repaired 2026-09-04. `q3`'s
+>    ruling, in the one question where the *lux*/*lumen* pair does the most work. **Cost: it is a transliteration and at
 >    this frequency it is conspicuous.** The gate is where it gets settled for the whole work.
 > 3. ***contueri* → "to contuit" / *contuibilis* → "contuitable"** — new here, load-bearing in the
 >    *Respondeo*'s own formula and in the question's last sentence, where the apparatus records a
