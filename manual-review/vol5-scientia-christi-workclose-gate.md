@@ -276,14 +276,39 @@ their target pages did not yet exist in the corpus:
 | `bon-itin-c2` | *pag. 33, nota 5* | `bon-qsc-q6` |
 | `bon-red` | *supra pag. 29, nota 6* | `bon-qsc-q5` |
 
-⚠ **This is deploy-relevant, and it is the reason the regenerated index belongs in the gate commit.**
-The Breviloquium, Hexaemeron, Itinerarium and De reductione are **all already live**, and six of their
-apparatus cross-references currently resolve to nothing in production. **They start working the moment
-this work deploys** — the fix ships with `scientia-christi`, not with those works.
+⚠⚠ **CORRECTION, made at deploy time — the claim above was first written as "they start working the
+moment this work deploys," and THAT WAS WRONG.** Rebuilding `index/citations.tsv` is not sufficient:
+the ledger feeds the site only through **`tools/build-index-json.py` → `site/src/data/index-crossref.json`**,
+and that step had not been run. The deployed `index-crossref.json` was dated **2026-08-31 14:04 —
+older than `bon-qsc-q1` itself (19:10 the same day) — and contained ZERO `bon-qsc` records.** The
+first production deploy of this gate therefore shipped the corrected text with a cross-reference index
+that did not know the work existed. Caught by verifying **served content** on the citing pages rather
+than trusting the deploy's `"status": "ok"`; `build-index-json.py` was then run and the site rebuilt
+and redeployed.
 
-★ **The general lesson: a work's citation value is not only what IT cites, but what the corpus can
-finally cite INTO it.** A forward-reference is retired by the arrival of its target, so the gate that
-closes a work should always rebuild the index and look for what *other* works just gained.
+⛔ **THE STANDING LESSON: `build-citations.py` DOES NOT UPDATE THE SITE.** The chain is
+`chunks → build-citations.py → index/citations.tsv → build-index-json.py → site/src/data/index-*.json
+→ build-content/next → deploy`, and **the middle step is easy to miss because the ledger diff looks
+like the work is done.** Any gate that rebuilds the ledger must run `build-index-json.py` before
+building the site, or it deploys a stale index silently — no error, no failed build.
+
+### What the index actually gained — larger than the six
+
+With the index regenerated, the seven chunks carry **37 inbound backlinks**, of which ~30 come from
+**already-deployed works** — Breviloquium, Hexaemeron, Itinerarium, De reductione and the septem
+donis — clustering hardest on `q3` (10) and `q4` (13, the illumination question, as expected for the
+most-read text in the work). **None of this was live before this deploy.**
+
+Verified served after the redeploy: `bon-qsc-q7` shows `bon-brev-p1-c6` · `q6` shows `bon-hex-c12`
+and `bon-itin-c2` · `q5` shows `bon-red`. ⚠ **`bon-hex-c20`'s two references resolve `page-multi`
+(`q6`+`q7`) and are correctly NOT rendered as definite backlinks** — an ambiguous reference should not
+assert one target. So of the six retired ledger entries, **four render as reader-visible links and two
+resolve in the ledger only.** Stated precisely because the first version of this section was not.
+
+★ **The general lesson stands and is worth more than the correction: a work's citation value is not
+only what IT cites, but what the corpus can finally cite INTO it.** A forward-reference is retired by
+the arrival of its target, so the gate that closes a work should rebuild the index, run the JSON step,
+and look for what *other* works just gained.
 
 The work's only two rows anywhere in the QA report are in **unresolved anaphora** (`bon-qsc-q3` and
 `bon-qsc-q4`, one `ibid` each in the Latin body) — the pre-existing corpus-wide behaviour class
@@ -373,5 +398,23 @@ something. The rule that saved both: **when a ruling appears to break precisely 
 prior coverage, re-measure the instrument before believing the finding.**
 
 **Verdict: ONE DEFECT, FOUND AND REPAIRED. The text is otherwise clean.** Three apparatus strings
-changed across three files; no body text touched; no plate work required. **The work is ready to
-push and deploy, pending Wilson's go-ahead — and Pass 4's ~138 MB deletion is still owed.**
+changed across three files; no body text touched; no plate work required.
+
+## ✅ PUSHED AND DEPLOYED 2026-09-05 (Wilson's go-ahead)
+
+`origin/master` = the gate commit, 0 ahead. Production deploy aliased to
+**https://bonaventure.wrootpress.com**, built locally and shipped `--prebuilt --archive=tgz` per
+`reference_bonaventure-lectern-deploy` (30,804 files, over the 15,000 upload cap).
+
+**Verified by SERVED CONTENT, not by status string** — and the verification is what caught the stale
+index above, so it earned its keep:
+- all seven quaestiones serve `200` at `/browse/8/d/{1..7}/q/bon-qsc-q{1..7}`;
+- the ruling-5 repair serves on all three repaired chunks (`fundamentum 1` on q3 and q5,
+  `fundamentum 4` / `fundamentum 2` on q7) with **zero** surviving instances of the four stale forms;
+- inbound backlinks from already-live works serve on q5, q6 and q7 (see the correction above).
+
+⚠ **Two deploys were made** — the first shipped the corrected text with the stale cross-reference
+index; the second, after `build-index-json.py`, is the live one. ⚠ **This verification is DATED and
+expires — never restate live state from a note.**
+
+⛔ **Pass 4's ~138 MB deletion is still owed** (see Pass 4 above) — blocked, not forgotten.

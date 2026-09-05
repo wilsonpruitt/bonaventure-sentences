@@ -1260,8 +1260,15 @@ Raw band **L10048 → L16033**.
   ⚠ **Pass 4 is the ONE thing still owed** — `raw/vision/vol5/p-037..043.png` (7 files, 23 MB) and
   `/tmp/colcrop/*` (62 files, 115 MB), ~138 MB, all q7 leftovers, gitignored and regenerable. The
   deletion was refused by the session permission classifier and is **awaiting Wilson**.
-  **The work is gated and ready to push + deploy — deploy boundary = work close, and NOTHING in this
-  work is deployed yet.**
+  ✅✅ **PUSHED AND DEPLOYED 2026-09-05.** `origin/master` = the gate commit, 0 ahead; prod aliased to
+  bonaventure.wrootpress.com, **verified by served content** (all 7 quaestiones 200, ruling-5 repair
+  live on q3/q5/q7, inbound backlinks live). ⛔⛔ **THE TRAP THIS DEPLOY FOUND —
+  `build-citations.py` DOES NOT UPDATE THE SITE.** The ledger reaches the site only through
+  **`tools/build-index-json.py` → `site/src/data/index-*.json`**; that step was missed and the first
+  deploy shipped an `index-crossref.json` dated OLDER THAN `bon-qsc-q1`, with zero `bon-qsc` records —
+  no error, no failed build. **Run `python3.11 tools/build-index-json.py` after any ledger rebuild,
+  before building the site.** Regenerating it gave the work **37 inbound backlinks**, ~30 from
+  already-deployed works. ⚠ Live-state claims are DATED and expire.
   **The four register rulings, which are now the work's rules and are NOT to be re-litigated:**
   1. ***intellectus agens* → "the agent intellect" RATIFIED** — not an extension of the narrow
      exception but **the same instance of it** (the exception was founded at `bon-praec-c2` on the

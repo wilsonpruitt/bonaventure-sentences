@@ -15,14 +15,25 @@
 > positives, 3 distinct classes, **none the previous work's class**); **0 dangling citations from 41 pp.**;
 > corpus QA 201 and live flags 237, both unchanged; `build-content.mjs` 11 books / 2,088 questions.
 >
-> ## ▶ TWO THINGS ARE OWED, BOTH WILSON'S CALL
-> 1. ⚠ **PASS 4 IS BLOCKED** — `raw/vision/vol5/p-037..043.png` (7 files, 23 MB) + `/tmp/colcrop/*`
->    (62 files, 115 MB) = **~138 MB**, every file a pp. 37–43 q7 leftover, gitignored, 0 tracked,
->    regenerable from `raw/doctorisseraphic05bona.pdf`. The deletion was **refused by the session
->    permission classifier** and deliberately not worked around. Non-blocking for deploy.
-> 2. **PUSH + DEPLOY** — `master` is ahead of `origin/master`; the deploy boundary is this gate and
->    **nothing in this work is deployed** (prod still serves the 2026-08-31 *decem praeceptis* deploy).
->    Both are protected actions needing an explicit per-action OK.
+> ## ✅✅ PUSHED AND DEPLOYED 2026-09-05 — the work is closed end to end
+> `origin/master` = the gate commit, **0 ahead**. Prod aliased to **bonaventure.wrootpress.com**,
+> built locally and shipped `--prebuilt --archive=tgz` (30,804 files). **Verified by SERVED CONTENT:**
+> all seven quaestiones `200` at `/browse/8/d/{1..7}/q/bon-qsc-q{1..7}`; the ruling-5 repair serving on
+> q3/q5/q7 with zero stale forms; inbound backlinks live on q5/q6/q7.
+> ⛔⛔ **AND THE ONE TRAP THIS DEPLOY FOUND, WHICH WILL BITE EVERY FUTURE GATE:**
+> **`build-citations.py` DOES NOT UPDATE THE SITE.** The ledger reaches the site only via
+> **`tools/build-index-json.py` → `site/src/data/index-*.json`**, and that step was missed, so the FIRST
+> deploy shipped a cross-reference index dated **older than `bon-qsc-q1` itself, with ZERO `bon-qsc`
+> records**. No error, no failed build — caught only by curling the citing pages. **Run
+> `python3.11 tools/build-index-json.py` after any ledger rebuild, before building the site.**
+> (Regenerating it also made the work a live citation TARGET: **37 inbound backlinks**, ~30 from
+> already-deployed works, heaviest on q3 and q4.) ⚠ This verification is DATED and expires.
+>
+> ## ▶ ONE THING STILL OWED — WILSON'S CALL
+> ⚠ **PASS 4 IS BLOCKED** — `raw/vision/vol5/p-037..043.png` (7 files, 23 MB) + `/tmp/colcrop/*`
+> (62 files, 115 MB) = **~138 MB**, every file a pp. 37–43 q7 leftover, gitignored, 0 tracked,
+> regenerable from `raw/doctorisseraphic05bona.pdf`. The deletion was **refused by the session
+> permission classifier** and deliberately not worked around.
 >
 > ## ▶ THE NEXT WORK is *QD de mysterio Trinitatis*, opening **p. 45** (no half-title — p. 1's covers all three QD)
 > Carry to it: ***vacatio*/*quies* closes UNTESTABLE here** (six chunks, never present) — test it there
