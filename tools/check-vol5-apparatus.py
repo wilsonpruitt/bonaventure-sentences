@@ -102,6 +102,22 @@ KNOWN_TOTALS = {
              # an editorial dissertation running over the gutter, left into
              # right -- but it fills a QUARTER of the leaf, not the half the
              # mini-pilot budgeted for. The COUNT of 3 was exact.
+
+    # --- QD de mysterio Trinitatis (pp. 45-115) -------------------------------
+    45: 6,   # THE WORK'S FIRST LEAF: display heading, proemium, QUAESTIO I and
+             # ARTICULUS I headings all stand here, all unanchored. nn.1-4 left,
+             # 5-6 right; n.4 runs over the gutter, left into right.
+    46: 9,   # nn.1-5 left, 6-9 right; no runover
+    47: 11,  # nn.1-5 left, 6-11 right; n.5 runs over the gutter, left into right
+    48: 10,  # nn.1-4 left, 5-10 right; no runover
+    49: 6,   # nn.1-4 left, 5-6 right; n.4 runs over the gutter, and the
+             # `S. Bonav. - Tom. V.` signature line + gathering signature `7`
+             # sit between its two halves, which are NOT apparatus
+    50: 7,   # nn.1-3 left, 4-7 right; no runover
+    51: 6,   # nn.1-5 are Art. I's, n.6 is Art. II's (anchors its arg. 1 at
+             # `Matthaei ultimo`) -- PENDING until bon-qmt-q1-a2 lands.
+             # !! n.1 IS PRINTED WITHOUT ITS NUMERAL (plate and raw agree); the
+             # leaf carries six entries and this is n.1. Do not renumber.
     205: 8,
     206: 11,
     207: 8,

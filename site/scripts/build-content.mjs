@@ -398,8 +398,21 @@ const WORKS = {
       7: "Quaestio VII: Utrum anima Christi comprehendat omnia, quae comprehendit sapientia increata",
     },
   },
+  // See manual-review/mysterio-trinitatis-pilot-scouting.md.
+  // ⚠ The chunk here is finer than the division: divisions are the eight
+  // quaestiones, and fourteen of the fifteen chunks are articuli within them.
+  "mysterio-trinitatis": {
+    book: 9,
+    tome: 5,
+    title: "Quaestiones disputatae de mysterio Trinitatis",
+    initial: "Q",
+    divisionLabel: "Quaestiones",
+    divisions: {
+      1: "Quaestio I: De certitudine, qua existentia Dei cognoscitur, et de fide, qua eiusdem Trinitas creditur",
+    },
+  },
   // Future Vol V works claim book ids here as their mini-pilots run:
-  // mysterio-trinitatis: 9, perfectione-evangelica: 10, sermones-selecti: 14.
+  // perfectione-evangelica: 10, sermones-selecti: 14.
 };
 
 function buildWorkChunkTitle(meta) {
@@ -424,6 +437,13 @@ function buildWorkChunkTitle(meta) {
     return `Coll. ${meta.division}`;
   // Flat works whose division is the quaestio (the three quaestiones disputatae).
   if (meta.workSlug === "scientia-christi") return `Quaest. ${meta.division}`;
+  // The de mysterio Trinitatis divides its quaestiones into articuli, so its
+  // chunk is finer than its division: "Quaest. 1, Art. 1". Quaestio VIII is
+  // undivided and carries no `articulus`, so it names itself "Quaest. 8".
+  if (meta.workSlug === "mysterio-trinitatis")
+    return meta.articulus
+      ? `Quaest. ${meta.division}, Art. ${meta.articulus}`
+      : `Quaest. ${meta.division}`;
   // Breviloquium-style: "Pars 3, Cap. 4".
   const parts = [`Pars ${meta.division}`];
   if (meta.capitulum) parts.push(`Cap. ${meta.capitulum}`);

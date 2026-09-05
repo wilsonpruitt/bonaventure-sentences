@@ -19924,7 +19924,7 @@ bon-don-c8	5	apparatus:p496-6	p496-6	crossref	page	supra pag. 227, nota 3	bon-br
 bon-don-c8	5	apparatus:p496-7	p496-7	scripture	apparatus-explicit	Gen. 2, 19	Gen 2:19	A	verse		
 bon-don-c8	5	apparatus:p496-7	p496-7	scripture	anaphor->apparatus-explicit	ibid.	Gen 2:19	A	verse	yes	Gen. 2, 19
 bon-don-c8	5	apparatus:p496-7	p496-7	scripture	apparatus-explicit	Ps. 4, 7	Ps 4:7	A	verse		
-bon-don-c8	5	apparatus:p496-8	p496-8	crossref	page	supra pag. 49, nota 1	tom5:p49		forward		
+bon-don-c8	5	apparatus:p496-8	p496-8	crossref	page	supra pag. 49, nota 1	bon-qmt-q1-a1		chunk		
 bon-don-c8	5	apparatus:p496-8	p496-8	crossref	page	supra pag. 303, nota 6	bon-itin-c2+bon-itin-c3		page-multi		
 bon-don-c8	5	apparatus:p496-8	p496-8	crossref	work	de Scientia Christi q. 4.	bon-sci-q4		forward		
 bon-don-c8	5	apparatus:p496-9	p496-9	crossref	page	supra pag. 21, nota 10	bon-qsc-q4		chunk		
@@ -19993,7 +19993,7 @@ bon-don-c9	5	apparatus:p502-2	p502-2	scripture	apparatus-explicit	Eph. 4, 29	Eph
 bon-don-c9	5	apparatus:p502-3	p502-3	scripture	apparatus-explicit	Prov. 18, 21	Prov 18:21	A	verse		
 bon-don-c9	5	apparatus:p502-3	p502-3	scripture	apparatus-explicit	Gen. 3, 1	Gen 3:1	A	verse		
 bon-don-c9	5	apparatus:p502-3	p502-3	crossref	page	supra pag. 494, nota 6	bon-don-c8		chunk		
-bon-don-c9	5	apparatus:p502-3	p502-3	crossref	page	pag. 50	tom5:p50		forward		
+bon-don-c9	5	apparatus:p502-3	p502-3	crossref	page	pag. 50	bon-qmt-q1-a1		chunk		
 bon-don-c9	5	apparatus:p502-4	p502-4	scripture	apparatus-explicit	Iob 31, 14	Iob 31:14	A	verse		
 bon-don-c9	5	apparatus:p502-5	p502-5	scripture	apparatus-explicit	Sap. 1, 6	Sap 1:6	A	verse		
 bon-don-c9	5	apparatus:p502-5	p502-5	scripture	apparatus-explicit	Prov. 25, 12	Prov 25:12	A	verse		
@@ -20665,7 +20665,7 @@ bon-hex-c19	5	apparatus:p420-9	p420-9	crossref	logical	II. Sent. d. 5. a. 1. q. 
 bon-hex-c19	5	apparatus:p421-1	p421-1	scripture	apparatus-explicit	Gen. 2, 15	Gen 2:15	A	verse		
 bon-hex-c19	5	apparatus:p421-2	p421-2	scripture	anaphor->apparatus-explicit	ibid.	Gen 2:15	A	verse	yes	Gen. 2, 15
 bon-hex-c19	5	apparatus:p421-3	p421-3	crossref	page	supra pag. 202, nota 10	bon-brev-prol-s1+bon-brev-prol		page-multi		
-bon-hex-c19	5	apparatus:p421-5	p421-5	crossref	page	supra pag. 50, nota 7	tom5:p50		forward		
+bon-hex-c19	5	apparatus:p421-5	p421-5	crossref	page	supra pag. 50, nota 7	bon-qmt-q1-a1		chunk		
 bon-hex-c19	5	apparatus:p421-6	p421-6	scripture	apparatus-explicit	Ioan. 2, 7	Ioan 2:7	A	verse		
 bon-hex-c19	5	apparatus:p421-7	p421-7	scripture	apparatus-explicit	Act. 22, 3	Act 22:3	A	verse		
 bon-hex-c19	5	apparatus:p421-8	p421-8	scripture	apparatus-explicit	Rom. 10, 16	Rom 10:16	A	verse		
@@ -21152,7 +21152,7 @@ bon-hex-c4	5	apparatus:p349-2	p349-2	crossref	page	tom. III. pag. 528, nota 5	bo
 bon-hex-c4	5	apparatus:p349-3	p349-3	scripture	apparatus-explicit	Psalm. 4, 7	Ps 4:7	A	verse		
 bon-hex-c4	5	apparatus:p349-4	p349-4	scripture	apparatus-explicit	Rom. 1, 22	Rom 1:22	A	verse		
 bon-hex-c4	5	apparatus:p349-4	p349-4	scripture	apparatus-explicit	Exod. 10, 22	Exod 10:22	A	verse		
-bon-hex-c4	5	apparatus:p349-5	p349-5	crossref	page	supra pag. 47, nota 11	tom5:p47		forward		
+bon-hex-c4	5	apparatus:p349-5	p349-5	crossref	page	supra pag. 47, nota 11	bon-qmt-q1-a1		chunk		
 bon-hex-c4	5	apparatus:p349-6	p349-6	crossref	logical	IV. Sent. d. 14. p. II. a. 1. q. 1.	bon-sent-IV-d14-p2-a1-q1		chunk		
 bon-hex-c4	5	apparatus:p349-6	p349-6	crossref	page	tom. I. pag. 707, nota 5	bon-sent-I-d40-a2-q1		chunk		
 bon-hex-c4	5	apparatus:p349-8	p349-8	scripture	apparatus-explicit	Rom. 11, 36	Rom 11:36	A	verse		
@@ -21227,7 +21227,7 @@ bon-hex-c5	5	apparatus:p358-5	p358-5	crossref	logical	II. Sent. d. 1. p. I. a. 2
 bon-hex-c5	5	apparatus:p359-2	p359-2	crossref	page	supra pag. 344, nota 5	bon-hex-c3		chunk		
 bon-hex-c5	5	apparatus:p359-3	p359-3	crossref	page	tom. II. pag. 19, nota 1	bon-sent-II-d1-p1-a1-q1+bon-sent-II-d1-p1-a1-q2		page-multi		
 bon-hex-c5	5	apparatus:p359-4	p359-4	crossref	page	supra pag. 304, nota 3	bon-itin-c3		chunk		
-bon-hex-c5	5	apparatus:p359-6	p359-6	crossref	page	supra pag. 45, nota 6	tom5:p45		forward		
+bon-hex-c5	5	apparatus:p359-6	p359-6	crossref	page	supra pag. 45, nota 6	bon-qmt-q1-a1		chunk		
 bon-hex-c5	5	apparatus:p359-6	p359-6	crossref	work	Breviloq. p. I. c. 6.	bon-brev-p1-c6		chunk		
 bon-hex-c6	5	latin_body	p361-8	scripture	body-ordinal	Sapientiae septimo	Sap 7:25	B	verse		
 bon-hex-c6	5	apparatus:p360-1	p360-1	scripture	apparatus-explicit	Gen. 1, 4	Gen 1:4	A	verse		
@@ -21596,7 +21596,7 @@ bon-itin-c5	5	apparatus:p310-4	p310-4	scripture	apparatus-explicit	I. Cor. 15, 2
 bon-itin-c5	5	apparatus:p310-5	p310-5	scripture	apparatus-explicit	Rom. 11, 36	Rom 11:36	A	verse		
 bon-itin-c5	5	apparatus:p310-5	p310-5	scripture	apparatus-explicit	Exod. 33, 19	Exod 33:19	A	verse		
 bon-itin-c6	5	apparatus:p310-6	p310-6	scripture	apparatus-explicit	Exod. 25, 19	Exod 25:19	A	verse		
-bon-itin-c6	5	apparatus:p310-7	p310-7	crossref	page	supra pag. 47, nota 7	tom5:p47		forward		
+bon-itin-c6	5	apparatus:p310-7	p310-7	crossref	page	supra pag. 47, nota 7	bon-qmt-q1-a1		chunk		
 bon-itin-c6	5	apparatus:p310-7	p310-7	crossref	work	Breviloq. p. I. c. 2.	bon-brev-p1-c2		chunk		
 bon-itin-c6	5	apparatus:p310-7	p310-7	crossref	page	supra pag. 60, nota 7	tom5:p60		forward		
 bon-itin-c6	5	apparatus:p310-8	p310-8	crossref	logical	I. Sent. d. 29. a. 2.	bon-sent-I-d29-a2-q1+bon-sent-I-d29-a2-q2		articulus		
@@ -21663,7 +21663,7 @@ bon-itin-prol	5	apparatus:p296-1	p296-1	scripture	apparatus-explicit	Ps. 37, 9	P
 bon-itin-prol	5	apparatus:p296-2	p296-2	scripture	apparatus-explicit	Hebr. 1, 3	Hebr 1:3	A	verse		
 bon-itin-prol	5	apparatus:p296-2	p296-2	scripture	apparatus-explicit	I. Ioan. 2, 20	1Ioan 2:20	A	verse		
 bon-itin-prol	5	apparatus:p296-3	p296-3	scripture	apparatus-explicit	Psalm. 44, 8	Ps 44:8	A	verse		
-bon-itin-scholion	5	latin_body		crossref	page	supra pag. 47	tom5:p47		forward		
+bon-itin-scholion	5	latin_body		crossref	page	supra pag. 47	bon-qmt-q1-a1		chunk		
 bon-itin-scholion	5	latin_body		crossref	page	ibid. pag. 1	tom5:p1		forward		
 bon-itin-scholion	5	latin_body		crossref	anaphor->page	ibid.	tom5:p1		forward	yes	ibid. pag. 1
 bon-itin-scholion	5	latin_body		crossref	work	Breviloq. p. II. c. 12.	bon-brev-p2-c12		chunk		
@@ -21910,6 +21910,31 @@ bon-praec-c7	5	apparatus:p532-1	p532-1	scripture	apparatus-explicit	Luc. 1, 79	L
 bon-praec-c7	5	apparatus:p532-1	p532-1	crossref	logical	III. Sent. d. 22. q. 1.	bon-sent-III-d22-a1-q1		chunk		
 bon-praec-c7	5	apparatus:p532-2	p532-2	scripture	apparatus-explicit	Rom. 6, 4	Rom 6:4	A	verse		
 bon-praec-c7	5	apparatus:p532-2	p532-2	scripture	apparatus-explicit	Exod. 12, 3	Exod 12:3	A	verse		
+bon-qmt-q1-a1	5	latin_body		crossref	work	de mysterio Trinitatis	work:mysterio-trinitatis		work		
+bon-qmt-q1-a1	5	latin_body	p48-6	scripture	body-ordinal	ad Corinthios octavo	Cor* 8:4	B	verse		
+bon-qmt-q1-a1	5	latin_body	p49-2	scripture	body-ordinal	ad Hebraeos undecimo	Hebr 11:6	B	verse		
+bon-qmt-q1-a1	5	latin_body	p51-2	scripture	body-ordinal	ad Romanos primo	Rom 1:19	B	verse		
+bon-qmt-q1-a1	5	apparatus:p45-1	p45-1	crossref	logical	I. Sent. d. 8. p. I. a. 1. q. 2.	bon-sent-I-d8-p1-a1-q2		chunk		
+bon-qmt-q1-a1	5	apparatus:p45-2	p45-2	crossref	anaphor->logical	ibid.	bon-sent-I-d8-p1-a1-q2		chunk	yes	I. Sent. d. 8. p. I. a. 1. q. 2.
+bon-qmt-q1-a1	5	apparatus:p45-5	p45-5	crossref	logical	I. Sent. d. 3. p. II	I:d3		distinctio		
+bon-qmt-q1-a1	5	apparatus:p46-1	p46-1	crossref	page	supra pag. 45, nota 4	bon-qmt-q1-a1		chunk		
+bon-qmt-q1-a1	5	apparatus:p46-2	p46-2	crossref	logical	IV. Sent. d. 49. p. I. q. 2.	bon-sent-IV-d49-p1-a1-q2		chunk		
+bon-qmt-q1-a1	5	apparatus:p46-3	p46-3	crossref	anaphor->logical	ibid.	bon-sent-IV-d49-p1-a1-q2		chunk	yes	IV. Sent. d. 49. p. I. q. 2.
+bon-qmt-q1-a1	5	apparatus:p47-1	p47-1	crossref	page	tom. III. pag. 802, nota 8	bon-sent-III-d36-a1-q5		chunk		
+bon-qmt-q1-a1	5	apparatus:p47-1	p47-1	crossref	page	supra pag. 19, nota 8	bon-qsc-q4		chunk		
+bon-qmt-q1-a1	5	apparatus:p47-5	p47-5	crossref	page	tom. II. pag. 867, nota 1	bon-sent-II-d37-a1-q3		chunk		
+bon-qmt-q1-a1	5	apparatus:p47-9	p47-9	crossref	anaphor->page	ibid.	bon-sent-II-d37-a1-q3		chunk	yes	tom. II. pag. 867, nota 1
+bon-qmt-q1-a1	5	apparatus:p47-10	p47-10	crossref	page	tom. I. pag. 153, nota 5	bon-sent-I-d8-p1-a1-q2		chunk		
+bon-qmt-q1-a1	5	apparatus:p48-2	p48-2	crossref	page	tom. I. pag. 590, nota 5	bon-sent-I-d34-a1-q2		chunk		
+bon-qmt-q1-a1	5	apparatus:p48-4	p48-4	scripture	apparatus-explicit	Psalm. 13, 1	Ps 13:1	A	verse		
+bon-qmt-q1-a1	5	apparatus:p48-5	p48-5	crossref	page	tom. I. pag. 153, nota 9	bon-sent-I-d8-p1-a1-q2		chunk		
+bon-qmt-q1-a1	5	apparatus:p48-9	p48-9	scripture	apparatus-explicit	I. Tim. 6, 16	1Tim 6:16	A	verse		
+bon-qmt-q1-a1	5	apparatus:p50-2	p50-2	scripture	apparatus-explicit	Psalm. 4, 7	Ps 4:7	A	verse		
+bon-qmt-q1-a1	5	apparatus:p50-3	p50-3	scripture	apparatus-explicit	Rom. 1, 20	Rom 1:20	A	verse		
+bon-qmt-q1-a1	5	apparatus:p50-6	p50-6	crossref	logical	I. Sent. d. 8. p. I. a. 1. q. 2.	bon-sent-I-d8-p1-a1-q2		chunk		
+bon-qmt-q1-a1	5	apparatus:p51-1	p51-1	crossref	logical	III. Sent. d. 23. a. 1. q. 4.	bon-sent-III-d23-a1-q4		chunk		
+bon-qmt-q1-a1	5	apparatus:p51-2	p51-2	crossref	logical	I. Sent. d. 3. p. I. q. 4	bon-sent-I-d3-p1-a1-q4		chunk		
+bon-qmt-q1-a1	5	apparatus:p51-4	p51-4	scripture	apparatus-explicit	I. Cor. 13, 9	1Cor 13:9	A	verse		
 bon-qsc-q1	5	apparatus:p3-1	p3-1	crossref	logical	III. Sent. d. 14	III:d14		distinctio		
 bon-qsc-q1	5	apparatus:p3-1	p3-1	crossref	logical	I. Sent. d. 35. q. 5	bon-sent-I-d35-a1-q5		chunk		
 bon-qsc-q1	5	apparatus:p3-1	p3-1	crossref	chain-continuation	d. 39. a. 1. q. 1	bon-sent-I-d39-a1-q1		chunk		
@@ -21975,8 +22000,8 @@ bon-qsc-q4	5	latin_body	p26-2	scripture	body-ordinal	Actuum decimo septimo	Act 1
 bon-qsc-q4	5	latin_body	p26-4	scripture	body-ordinal	ad Romanos primo	Rom 1:19	B	verse		
 bon-qsc-q4	5	latin_body		crossref	logical	III. Sent. d. 14. a. 1. q. 1.	bon-sent-III-d14-a1-q1		chunk		
 bon-qsc-q4	5	latin_body		scripture	body-ordinal	Ecclesiastici primo	Eccli 1	C	chapter		
-bon-qsc-q4	5	apparatus:p17-1	p17-1	crossref	page	pag. 50	tom5:p50		forward		
-bon-qsc-q4	5	apparatus:p18-4	p18-4	crossref	anaphor->page	loc. cit.	tom5:p50		forward	yes	pag. 50
+bon-qsc-q4	5	apparatus:p17-1	p17-1	crossref	page	pag. 50	bon-qmt-q1-a1		chunk		
+bon-qsc-q4	5	apparatus:p18-4	p18-4	crossref	anaphor->page	loc. cit.	bon-qmt-q1-a1		chunk	yes	pag. 50
 bon-qsc-q4	5	apparatus:p18-7	p18-7	scripture	apparatus-explicit	Psalm. 118, 73	Ps 118:73	A	verse		
 bon-qsc-q4	5	apparatus:p18-7	p18-7	crossref	page	tom. III. pag. 895, nota 1	bon-sent-III-d40-dubia		chunk		
 bon-qsc-q4	5	apparatus:p18-7	p18-7	scripture	apparatus-explicit	I. Ioan. 1, 5	1Ioan 1:5	A	verse		
