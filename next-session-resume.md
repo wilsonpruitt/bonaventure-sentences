@@ -1,6 +1,73 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — **THE WORK-CLOSE GATE RAN 2026-09-05. THE *DE SCIENTIA CHRISTI* IS GATED AND READY TO PUSH + DEPLOY.**
+> # ▶▶▶ START HERE — **THE *DE MYSTERIO TRINITATIS* MINI-PILOT IS FROZEN (2026-09-05, commit `ab81acc`).**
+> **THE FRONT IS `bon-qmt-q1-a1`, pp. 45–51 — the work's first chunk. Nothing is built yet.**
+> Conventions: repo `CLAUDE.md` § **MYSTERIO TRINITATIS** — **that block is authoritative, this is a
+> pointer**; evidence in `manual-review/mysterio-trinitatis-pilot-scouting.md`.
+>
+> ## ▶ WHAT THE PILOT SETTLED
+> **FIFTEEN CHUNKS, ONE PER ARTICULUS** — `bon-qmt-q{1..7}-a{1,2}` + `bon-qmt-q8`, `division:`
+> = the quaestio (1–8), `articulus:` = 1|2, `type: quaestio`, prefix `bon-qmt-`.
+> ⭐⭐ **Settled by Quaracchi's own internal cross-references: 26 of the work's 27 `supra`/`infra
+> q. N.` references carry `a. N.`** The frozen anchor test returned nothing (4th work running).
+> Body **pp. 45–115 = 71 pp**, raw band **L16037 → L26475**. No half-title, no scholia, no
+> `SUMMARIUM`, **no colophon**; p. 44 blank 0.0007 %, p. 116 blank (0.1333 % = the scan's gutter
+> edge, read on the plate).
+>
+> ## ▶ THE FIRST CHUNK: `bon-qmt-q1-a1`, pp. 45–51, raw **L16037 → L17008**
+> `title_la` (verify word for word on the plate): *Utrum Deum esse sit verum indubitabile.*
+> Quaestio I's own subtitle stands above it: *De certitudine, qua existentia Dei cognoscitur, et de
+> fide, qua eiusdem Trinitas creditur.* **Both headings go into this chunk**, and so does the
+> **work-level proemium** (*Volentes circa mysterium Trinitatis aliquid indagare…* + the two
+> *praeambula*), which folds in under the short-opener rule and is unanchored.
+> ⭐ **Boundary 1 is ALREADY MEASURED: p. 51 FORWARDS, split 5/1** — this chunk owns p. 51 nn. 1–5
+> and **forwards n. 6** (anchoring Art. II's *Matthaei ultimo*⁶) to `bon-qmt-q1-a2`.
+> ⛔ **p. 51 n. 1 PRINTS WITH NO NUMERAL** (plate and raw agree; anchor is p. 51's opening
+> *…consideranti apparet*¹, raw L16909). The leaf has **six** entries. Do not renumber it.
+> **Gutter p. 45 = 1159** (measured; band 1128–1189, rule 1155–1161). pp. 46–51 **unmeasured** —
+> `colcrop`'s default is advisory in the QD, profile rows 0.20–0.50 on every leaf.
+> **p. 45 = 6 apparatus entries** (n. 4 runs over the gutter); p. 51 = 6.
+> ⛔ **Plates: 44, 45, 51, 115, 116 are extracted; pp. 46–50 are NOT — extract them first**
+> (`extract-pages.py --volume vol5 --pages 46-50 --dpi 450`, then `colcrop.py`). Per articulus,
+> never in bulk.
+> ⚠ **Registry not yet touched, by the frozen rule** — `bon-qmt-q1-a1` lands the `WORKS` entry
+> (`mysterio-trinitatis`, book 9, tome 5, `divisionLabel: "Quaestiones"`) **plus a NEW
+> `buildWorkChunkTitle` branch returning `Quaest. N, Art. M`** (and `Quaest. N` with no
+> `articulus`, for Q. VIII), division 1 only.
+>
+> ## ⭐⭐⭐ THE ONE REGISTER QUESTION THIS WORK CAN FINALLY ANSWER — AND IT IS NOT THIS CHUNK'S
+> ***vacatio*/*quies*, open since `bon-praec-c4` and closed as untestable on the *scientia Christi*,
+> IS TESTABLE HERE.** The noun *quietis* twice in **`q5-a2`** (raw L23636, L23645); *vacando* /
+> *vacabimus* in **`q7-a2`** (raw L25824, L25900), and **L25824 holds both families in one clause**:
+> *non **quiescit** nisi in summe amabili **vacando***. **Settled in those two chunks with the plate
+> in view — not at the pilot, and not by analogy.**
+> ⚠ **How it was nearly missed a third time:** the first census ran `vacatio|vacare|vacat` and
+> returned zero, missing both sites. **Run a stem census on the stem.**
+>
+> ## ▶ REGISTER, MEASURED SO NO CHUNK RE-ASKS IT
+> `intellect-` **96** and `intellectus agens`/`possibilis` **ZERO** — the ratified narrow exception
+> is unreachable here, so **any bare English "intellect" is a defect by construction**.
+> *lux* 26 / *lumen* 15 — ruling 2 LIVE, translator's note needed. ⚠ **Ps. 35:10's exemption is
+> UNREACHED** — the psalm is quoted at p. 115's last note (*Apud te est fons vitae*) but that clause
+> carries no *lumen*; **the exemption is scoped to the wording, not the verse number.**
+> `contuit-` **0** — ruling 3 absent, not broken. Ruling 5 (`fundam. N` → `fundamentum N`, apparatus
+> only) binds.
+>
+> ## ▶ CADENCE — TWO GATES
+> **Shakedown at q. 2's close (p. 67, after four chunks / 23 pp)** · **work-close gate at p. 115**.
+> Deploy boundary is the work close. ⚠ **`build-citations.py` DOES NOT UPDATE THE SITE** — run
+> `python3.11 tools/build-index-json.py` after any ledger rebuild, before building the site.
+>
+> ## ▶ STILL OWED FROM THE PREVIOUS WORK — WILSON'S CALL
+> Pass 4 of the *scientia Christi* gate: `raw/vision/vol5/p-037..043.png` + `/tmp/colcrop/*`,
+> ~138 MB of regenerable leftovers, deletion refused by the session permission classifier.
+> ⚠ **The pilot has since added pp. 44, 45, 51, 115, 116 to `raw/vision/vol5/`, which are IN USE.**
+
+---
+
+
+> # (superseded by the mysterio-trinitatis mini-pilot, 2026-09-05) previous START HERE
+> # ▶▶▶ **THE WORK-CLOSE GATE RAN 2026-09-05. THE *DE SCIENTIA CHRISTI* IS GATED AND READY TO PUSH + DEPLOY.**
 > `manual-review/vol5-scientia-christi-workclose-gate.md`. **ONE DEFECT, FOUND AND REPAIRED** — the
 > apparatus formula `fundam. N` was rendered **five ways at five sites, one per chunk**, so no chunk
 > and not even the shakedown could see it; three sites conformed to the corpus apparatus convention
