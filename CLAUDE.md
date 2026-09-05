@@ -1,6 +1,6 @@
 # Bonaventure Sentences — Project Guide for Claude
 
-You are working on an English translation of **St. Bonaventure's *Opera Omnia*** (Quaracchi edition, 1882–1902). Status (2026-09-04): **Books I–IV are complete and published** (Vols I–IV, all Tier 2). The active front is **Vol V**, where the Breviloquium, Itinerarium, De reductione, the Collationes in Hexaemeron, the *Collationes de septem donis* (pp. 457–503, gated + deployed 2026-08-29) and the *Collationes de decem praeceptis* (pp. 507–532, gate CLEAN, **pushed + DEPLOYED 2026-08-31**) are ALL COMPLETE. **The next work is the *QD de scientia Christi*, pp. 3–43** — its **mini-pilot is FROZEN 2026-08-31** (§ SCIENTIA CHRISTI below; evidence in `manual-review/scientia-christi-pilot-scouting.md`), and its first four chunks **`bon-qsc-q1` (pp. 3–6), `bon-qsc-q2` (pp. 6–10), `bon-qsc-q3` (pp. 10–16) and `bon-qsc-q4` (pp. 17–27) are BUILT** (2026-08-31 / 09-01 / 09-03 / 09-03, Tier 2, 31 + 34 + 48 + 93 entries, zero `[?]`), **the SHAKEDOWN GATE RAN 2026-09-04 — three defects, all repaired, four register rulings frozen (§ SCIENTIA CHRISTI below)**, and `bon-qsc-q5` (pp. 27–32) and `bon-qsc-q6` (pp. 32–37) are BUILT (2026-09-04, Tier 2, 39 + 39 entries, zero `[?]`). **ALL SEVEN CHUNKS ARE NOW BUILT — `bon-qsc-q7` (pp. 37–43) landed 2026-09-04 (Tier 2, 39 entries, zero `[?]`), and the work's body pp. 3–43 is COMPLETE.** **The WORK-CLOSE GATE RAN 2026-09-05 — one defect, repaired; all four register rulings hold; ruling 5 added (§ SCIENTIA CHRISTI). The work is GATED and ready to push + deploy, awaiting Wilson's go-ahead, with Pass 4's ~138 MB plate deletion still owed.** **Nothing in this work is deployed** and the deploy boundary is that gate. The live site is https://bonaventure.wrootpress.com. Always defer to `next-session-resume.md` for the exact current position.
+You are working on an English translation of **St. Bonaventure's *Opera Omnia*** (Quaracchi edition, 1882–1902). Status (2026-09-05): **Books I–IV are complete and published** (Vols I–IV, all Tier 2). The active front is **Vol V**, where the Breviloquium, Itinerarium, De reductione, the Collationes in Hexaemeron, the *Collationes de septem donis*, the *Collationes de decem praeceptis* and the **QD de scientia Christi** (pp. 3–43, seven quaestiones, shakedown + work-close gates closed, **pushed and DEPLOYED 2026-09-05**) are ALL COMPLETE. **The next work is the *QD de mysterio Trinitatis*, pp. 45–115** — its **mini-pilot is FROZEN 2026-09-05** (§ MYSTERIO TRINITATIS below; evidence in `manual-review/mysterio-trinitatis-pilot-scouting.md`): **fifteen chunks, one per articulus** (`bon-qmt-q{1..7}-a{1,2}` + `bon-qmt-q8`), settled on Quaracchi's own 26 internal `q. N. a. N.` cross-references. **No chunk is built yet; the front is `bon-qmt-q1-a1` (pp. 45–51).** Deploy boundary is the work close at p. 115. The live site is https://bonaventure.wrootpress.com. Always defer to `next-session-resume.md` for the exact current position.
 
 This file is loaded into every Claude Code session in this repo. Read it before making changes to translation files or the build pipeline.
 
@@ -276,8 +276,8 @@ Vols V–X (2026-07-28).**
 | # | Work | Printed pp. | Slug (frozen) | Book id | Status |
 |---|---|---|---|---|---|
 | 1 | Prolegomena | I–XL+ | — | — | NOT chunked (editorial apparatus, like INDEX QUAESTIONUM) |
-| 2 | QD de scientia Christi | **3–43** | `scientia-christi` | 8 | **ACTIVE — mini-pilot FROZEN 2026-08-31** (7 quaestiones, no articuli, no scholia; p. 1 half-title covers all THREE QD, p. 2 blank 0.0013 %, p. 44 blank 0.0008 %, **no `EXPLICIUNT` colophon**). No chunk built yet. |
-| 3 | QD de mysterio Trinitatis | 45–115 | `mysterio-trinitatis` | 9 | planned. ⚠ **NO half-title leaf** — p. 44 is blank and p. 45 opens directly on a display heading (p. 1's half-title covers all three QD). Questions divide into **articuli**, unlike work 2. |
+| 2 | QD de scientia Christi | **3–43** | `scientia-christi` | 8 | **COMPLETE 2026-09-05 — all 7 quaestiones Tier 2; shakedown + work-close gates CLOSED, pushed and DEPLOYED (verified live).** Mini-pilot frozen 2026-08-31 (7 quaestiones, no articuli, no scholia; p. 1 half-title covers all THREE QD, p. 2 blank 0.0013 %, p. 44 blank 0.0008 %, **no `EXPLICIUNT` colophon**). |
+| 3 | QD de mysterio Trinitatis | **45–115** | `mysterio-trinitatis` | 9 | **ACTIVE — mini-pilot FROZEN 2026-09-05** (§ MYSTERIO TRINITATIS below). **8 quaestiones / 14 articuli / Q. VIII undivided → FIFTEEN chunks, one per articulus**; no half-title (p. 44 blank 0.0007 %), no scholia, no Summarium, **no colophon** (ends p. 115, p. 116 blank). No chunk built yet. |
 | 4 | QD de perfectione evangelica | 117–198 | `perfectione-evangelica` | 10 | planned. ⚠ **NO half-title leaf expected** — same three-work half-title; fix p. 117 on the plate. |
 | 5 | **Breviloquium** | 199–291 | `breviloquium` | 5 | **COMPLETE — gated + deployed 2026-08-01** |
 | 6 | **Itinerarium mentis in Deum** | 293–316 | `itinerarium` | 6 | **COMPLETE 2026-08-14 — all 10 chunks Tier 2; work-close gate + deploy due** |
@@ -1569,6 +1569,124 @@ Raw band **L10048 → L16033**.
   forward untested for a second work.** ⚠ The *quietans*/*quietativus*/*quietatio* family
   that IS present (~7 occurrences) is a different word and is **not** a datum on it.
 
+### MYSTERIO TRINITATIS — mini-pilot conventions (frozen 2026-09-05; evidence in `manual-review/mysterio-trinitatis-pilot-scouting.md`)
+
+*Quaestiones disputatae de mysterio Trinitatis*, work 3, book id 9, slug
+`mysterio-trinitatis`, id prefix **`bon-qmt-`**. **The second *quaestio disputata*.** English
+title: **"Disputed Questions on the Mystery of the Trinity."**
+**NO half-title leaf** (p. 1's covers all three QD — the work-2 prediction, confirmed) ·
+**p. 44 MEASURED BLANK (0.0007 %)** · **body opens p. 45** on a `QUAESTIONES DISPUTATAE /
+DE MYSTERIO TRINITATIS` display heading + ornamental rule · **work ends p. 115, NO colophon**
+(the genre's no-`EXPLICIUNT` close, as predicted) · **p. 116 blank** — ⚠ it measures **0.1333 %**,
+far above p. 44's, and **the excess is the scan's dark gutter edge, identified by READING the
+plate**; a blankness number is a screen, the plate is the evidence.
+**Body extent pp. 45–115 = 71 printed pages.** Raw band **L16037 → L26475** (~147 lines/page).
+
+- **FIFTEEN CHUNKS, ONE PER ARTICULUS: `bon-qmt-q{1..7}-a{1,2}` + `bon-qmt-q8`**,
+  `division: <quaestio 1–8>`, `articulus: <1|2>`, `type: quaestio`. **Eight quaestiones,
+  fourteen articuli, Q. VIII undivided** — volume index and a header grep over the band agree
+  exactly. ⭐⭐ **The unit was settled by QUARACCHI'S OWN INTERNAL CROSS-REFERENCES: of 27
+  `supra`/`infra q. N.` references inside the work, 26 carry `a. N.`** (the single bare one is
+  `infra q. 7.`), plus two intra-question `supra a. N`. **Splitting on the quaestio would break
+  the citation match at 26 sites in this work alone.** ★ The frozen anchor test was still run
+  and returned nothing (below) — which is what freed the decision to rest on the citations, a
+  *stronger* warrant than an anchor, not a weaker one.
+- **⛔ NO APPARATUS ANCHOR ON ANY DIVISION HEADING — the FOURTH work running.** Read at 2.2× on
+  p. 45: nothing after `QUAESTIO I.`, nothing after `ARTICULUS I.`, **and both italic subtitles
+  unanchored.** The Hexaemeron's `COLLATIO I.`¹ stays the only anchored heading in Vol V.
+- **⛔ NO scholia · NO `SUMMARIUM` · NO `EXPLICIUNT`** — grep zero for all three over the band.
+  The reportatio conventions still do not port; the Sentences quaestio conventions do, entire.
+- **▶ THE WORK-LEVEL PROEMIUM FOLDS INTO `bon-qmt-q1-a1`.** p. 45 carries seven lines between
+  the display heading and `QUAESTIO I.` (*Volentes circa mysterium Trinitatis aliquid indagare…*
+  plus the two *praeambula*, which are q. 1's two articulus subtitles). **Unanchored.** It folds
+  under the frozen short-opener rule; a `division: 0` prologus chunk was **rejected** — the
+  Breviloquium prologue is 8 pp in six cited sections, this is seven lines nothing cites.
+  ⚠ *De perfectione evangelica* opens the same way (L26479) — **a prediction to check on p. 117,
+  not a rule already made.**
+- **⚠ A chunk that opens an articulus I also carries its QUAESTIO heading** (both stand on
+  consecutive lines, each with an italic subtitle).
+- **Index-derived spans, EVERY END PROVISIONAL** (an index span's last page is the next unit's
+  heading page and that leaf may or may not be shared): q1-a1 **45–51** · q1-a2 **51–58** ·
+  q2-a1 **59–63** · q2-a2 **63–67** · q3-a1 **68–73** · q3-a2 **73–78** · q4-a1 **79–84** ·
+  q4-a2 **84–85** · q5-a1 **86–93** · q5-a2 **93–96** · q6-a1 **97–102** · q6-a2 **102–105** ·
+  q7-a1 **106–109** · q7-a2 **109–111** · q8 **112–115**. Headers at raw L16054/16058 · 17009 ·
+  18089/18107 · 18701 · 19462/19477 · 20251 · 21029/21063 · 21831 · 22322/22336 · 23105 ·
+  23648/23685 · 24533 · 25101/25119 · 25571 · 26000.
+  ⭐ **BOUNDARY 1 (p. 51) MEASURED: it FORWARDS, split 5/1.** Art. I's replies 9–13 fill both
+  columns to ~72 %, then `ARTICULUS II.` stands full-measure mid-leaf and Art. II's opening plus
+  arg. 1 begin on the same leaf; n. 6 answers Art. II's *Matthaei ultimo*⁶. ⛔ **The other
+  THIRTEEN boundaries are UNMEASURED — re-ask the p. 498 rule on the plate at each.** Work 2
+  answered "yes" five times and "no" once, and no two of its six splits were alike.
+- **⛔ p. 51 n. 1 PRINTS WITHOUT ITS NUMERAL, and the plate and the raw agree.** The register's
+  first entry (`Cfr. III. Sent. d. 23. a. 1. q. 4.`) is indented like any entry and carries no
+  superscript at 3×; the raw likewise gives it no marker glyph where all five others have one.
+  **The anchor exists** — p. 51's opening sentence ends *…consideranti apparet*¹ (raw L16909).
+  ⚠ **The leaf carries six entries, nn. 1–6; do not renumber the register, and do not assume an
+  unnumbered entry is a runover from the previous page** — that hypothesis was tried here and
+  killed by finding the body anchor. This is the inverse of the digit class the last two works
+  fought (glyph misread) and it is caught the same way: **pair every footer entry with a body
+  anchor, never read the register alone.**
+- **⚠ THE RUNNING HEAD NAMES THE UNIT THAT *OPENS* ON THE LEAF, NOT THE ONE THAT FILLS IT.**
+  p. 51's reads `…QUAEST. I. ART. II.` over three-quarters of a leaf of **Art. I**. Verso heads
+  are the flat `QUAESTIONES DISPUTATAE`. **Never derive ownership from a running head** — and it
+  matters more here than anywhere, since `ART. N` appears nowhere else outside the headings.
+- **Page map: 49 surviving numerals over 71 leaves, strictly monotonic, ZERO disagreements** — no
+  repeat of work 2's p. 35 → `33`. ⚠ **It is a PREDICTION table**; every chunk fixes its own
+  pages on the plate. Full list in the scouting doc.
+- **Apparatus density:** p. 45 = **6** (n. 4 runs over the gutter), p. 51 = **6**. ~7/page × 71 pp
+  ≈ **500 for the work** — a PLANNING figure only, of the kind work 2's p. 43 n. 3 punished.
+  ⭐ p. 45 n. 1 is *Similis quaestio solvitur I. Sent. d. 8. p. I. a. 1. q. 2.* — **an outbound
+  citation into our own deployed Vol I on the work's first leaf.**
+- **Gutter, p. 45: ADOPT 1159.** `colcrop.py vol5 45` gives **1129 on a 1 px run** — the
+  work-opening failure at its purest (display heading, proemium and two heading stacks all cross
+  the gutter). Body rows 0.53–0.82 give six windows at **1159–1160 on 62–65 px runs** against six
+  at 1133/12 px; band **1128–1189 (62 px)**, centre-rule island **1155–1161** (peak 614).
+  ⚠ Work 2's p. 3 adopted **1130** on a leaf of the same kind — 29 px away. **Measure every leaf.**
+- **REGISTER — measured at the pilot, so no chunk has to re-ask the census:**
+  1. ***intellect-* occurs 96 times and `intellectus agens`/`possibilis` occur ZERO times.**
+     ⭐⭐ **The ratified narrow exception is UNREACHABLE in this work**, so all 96 go to
+     **understanding** and **any bare English "intellect" in a built chunk is a defect by
+     construction** — work 2's mechanical control, with a cleaner denominator.
+  2. ***lux* 26 / *lumen* 15 — ruling 2 is LIVE**; the translator's note is needed again.
+     ⚠ **The Ps. 35:10 exemption is UNREACHED**: *In lumine tuo videbimus lumen* does not occur.
+     The psalm IS quoted — p. 115's last note gives Ps. 35:10 *Apud te est fons vitae* — **a
+     different clause carrying no *lumen*. The exemption is scoped to the WORDING, not the verse
+     number.**
+  3. **`contuit-` occurs ZERO times — ruling 3 is absent, not broken.**
+  4. ⭐⭐⭐ ***vacatio*/*quies* IS FINALLY TESTABLE, and the decisive site is known.** Open since
+     `bon-praec-c4` and closed as *untestable* on work 2, the question meets both families here:
+     the noun *quietis* twice in **`q5-a2`** (raw L23636, L23645) and *vacando*/*vacabimus* in
+     **`q7-a2`** (raw L25824, L25900) — **and L25824 holds both in one clause**: *non **quiescit**
+     nisi in summe amabili **vacando***. ⚠ **DO NOT SETTLE IT AT THE PILOT.** It is settled in
+     `q5-a2` and `q7-a2` with the plate in view; **the pilot's job was to establish that it CAN be
+     settled and where**, so the chunk that meets it knows it is the deciding chunk. **A pilot's
+     term census is a MAP, not a ruling.**
+     ⚠⚠ **The near-miss, worth more than the finding:** the first census ran
+     `vacatio|vacare|vacat` and returned **zero** — it misses *vacando* and *vacabimus*, which are
+     the only two sites in the work, and the question would have closed "untestable" a third time
+     on a pattern bug. **Run a stem census on the STEM (`vaca`), never on a list of inflections**,
+     and when a search comes back empty while the text is plainly doing the thing, **the search is
+     wrong.**
+- **Marginalia DENSE, one per argument or reply** (p. 45: `Triplex via.`, `Via prima.`,
+  `Fundamenta.`; p. 51: `Certitudo duplex.`, `Notandum.` ×3, `Tres gradus in notitia.`,
+  `De ratione meritorii in fide Dei.`, `De debito credendi.`, `Fundamenta.`) — trimmed from the
+  body, transcribed to the `## Notes` Marginalia list in body order, per the standing convention.
+- **Registry:** add `mysterio-trinitatis` to `WORKS` (book 9, tome 5, `divisionLabel:
+  "Quaestiones"`) **and a NEW branch in `buildWorkChunkTitle`, because this is the first Vol V
+  work whose chunk is finer than its division** — return **`Quaest. N, Art. M`** when
+  `meta.articulus` is present and **`Quaest. N`** when it is not (Q. VIII). Leave the
+  `scientia-christi` branch alone. **Ordering inside a division already works**: `build-content.mjs`
+  sorts on `articulus` ahead of `section`/`capitulum`. Divisions go in ONE AT A TIME as each chunk
+  lands, subtitle verified word for word on the plate.
+- **Cadence: TWO gates.** **Shakedown at the close of q. 2 (p. 67, four chunks / 23 printed pp.)**
+  — trigger 3's 15–25 pp seam; and the **work-close gate at p. 115** — trigger 2, unconditional.
+  Trigger 1 (~100 pp) does not fire inside the work. ⚠ **Carry in from work 2's gate:** *a prior
+  gate's false-positive list is not a filter for the next work's*, and **`build-citations.py` does
+  not update the site — run `python3.11 tools/build-index-json.py` after any ledger rebuild,
+  before building the site.**
+- **⛔ Plates per articulus, never in bulk**, and they are deleted at each gate's pass 4 —
+  **re-extract before any plate work.** Extracted at the pilot: 44, 45, 51, 115, 116.
+
 ### Vol V mechanics
 
 - **Offset `pdf = printed + 76`** (verified at printed 174/176/201/320/507/530; PDF
@@ -1916,7 +2034,7 @@ the 450 dpi band, and where the plate is confirmed wrong, transcribe as printed 
 | Work | Printed pp. | Gates |
 |---|---|---|
 | QD de scientia Christi | 3–43 (41) | **2** — `bon-qsc-q4` shakedown (p. 27) + close (p. 43) |
-| QD de mysterio Trinitatis | 45–115 (71) | 1 at close |
+| QD de mysterio Trinitatis | 45–115 (71) | **2** — shakedown at q. 2's close (p. 67) + close (p. 115) |
 | QD de perfectione evangelica | 117–198 (82) | 1 at close |
 | **Breviloquium** | 199–291 (93) | **2** — Pars I shakedown (p.218) + close (p.291) |
 | Itinerarium | 293–316 (24) | 1 at close |
