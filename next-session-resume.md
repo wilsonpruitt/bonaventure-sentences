@@ -1,6 +1,70 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — **THE *DE MYSTERIO TRINITATIS* MINI-PILOT IS FROZEN (2026-09-05, commit `ab81acc`).**
+> # ▶▶▶ START HERE — **`bon-qmt-q1-a1` IS LANDED. THE FRONT IS `bon-qmt-q1-a2` (pp. 51–58).**
+> Quaestio I, Articulus I, **pp. 45–51**, Tier 2, built 2026-09-05 (`a6875e3`) — the work's first
+> chunk, carrying the display heading, the **work-level proemium**, and both the `QUAESTIO I.` and
+> `ARTICULUS I.` headings with their subtitles. Twenty-nine affirmative arguments in three declared
+> *viae*, a **fourteen-argument opposing series in two runs**, `CONCLUSIO`, `Respondeo`, and fourteen
+> replies in twelve numbered paragraphs (`1. 2. 3.` printed combined and preserved). **54 apparatus
+> entries** (p. 45 six · 46 nine · 47 eleven · 48 ten · 49 six · 50 seven · 51 nn. 1–5 five),
+> **zero `[?]` flags**. Registry division 1 went in with it, **plus a new `buildWorkChunkTitle`
+> branch** returning `Quaest. N, Art. M`. Conventions: repo `CLAUDE.md` § **MYSTERIO TRINITATIS** —
+> **that block is authoritative, this is a pointer.** Committed locally, **not pushed, not deployed**
+> — deploy boundary is the work close at p. 115.
+>
+> ## ▶ FRONT = `bon-qmt-q1-a2`, pp. 51–58, raw **L17009 → L18088**
+> `title_la` (verify word for word at the head of p. 51's lower half): *Utrum Deum esse trinum sit
+> verum credibile.* **It INHERITS p. 51 n. 6** — `Vers. 19: Euntes ergo docete etc. — Seq. locus est
+> Marc. 16, 16.`, answering Art. II's argument 1 at *Matthaei ultimo*⁶; `check-vol5-apparatus.py`
+> carries p. 51's total as **6** with n. 6 PENDING, and that clears when `q1-a2` lands.
+> ⚠ **Re-derive the inherited note down to its DIGITS, not only its ownership.**
+> ⛔ **p. 51's gutter is measured (1182) but pp. 52–58 are NOT, and no plate for them exists** —
+> extract per articulus (`extract-pages.py --volume vol5 --pages 52-58 --dpi 450`), never in bulk.
+> ⚠ `colcrop`'s default was rejected on two of this chunk's seven leaves; profile every leaf.
+> ⚠ **The 1-vs-4 calibration is LIVE in this work** — see below; read those digits at 5×, never 2×.
+>
+> ## ⭐⭐ WHAT `q1-a1` ADDS, AND THE ONE THING THAT COST A CORRECTION
+> **The plate can be read WRONG where the raw is right, and the fix is a same-line control.**
+> p. 46 n. 7 prints *…II. de Anima, **text. 47. (c. 4.)**… Cfr. August., I. de Trin. **c. 1. n. 1.***
+> — a true `4` and a true `1` four words apart in one entry. **At 1.6× the plate-read gave `c. 4. n. 4.`
+> and the raw's `c. 1. n. 1.` was right**; at 4.2× the `4`s show a closed bowl with a crossbar and the
+> `1`s a bare upright with a top flag. The same correction applies to n. 8 (`Metaph. tr. 1. c. 7.`, not
+> `tr. 4.`). ⚠ **The frozen rule is not "the plate always wins" — it is "settle the digit at 5× against
+> a control in the same line."** Second control, p. 51 n. 1: `d. 23. a. 1. q. 4.` in four characters.
+> Nine raw-vs-plate defects in all (`XII. c. i.`→`c. 4.` · `text. 3o.`→`35` · `et 1S.`→`et 15.` ·
+> `pag. 390`→`590` · `nola H`→`nota 5` · `Psalm. I.S, I.`→`13, 1` · `pag. 183`→`153` · …).
+>
+> ## ⚠ ONE REGISTER SITE IS CARRIED TO THE SHAKEDOWN GATE, NOT SETTLED
+> **p. 50 n. 2 quotes Psalm 4:7 *Signatum est super nos lumen*** — a **second scripture site of the
+> Ps. 35:10 class**, in a work where Ps. 35:10 itself is unreached. Ruling 2 was **followed, not
+> suspended** (*lumen* → "lumen", in the note and in the body's *lumen sufficiens*), and the site is
+> handed to the gate, because ruling 4's line — *a received English wording a reader will recognise* —
+> is arguable here in a way it was not for the Dionysius clause. **Do not settle it in a chunk.**
+> ⛔ *vacatio*/*quies*: **not testable in these seven leaves.** The deciding sites remain `q5-a2`
+> (raw L23636, L23645) and `q7-a2` (raw L25824 — both families in one clause).
+>
+> ## ▶ NUMBERS, DERIVED AFTER `q1-a1`
+> `check-vol5-apparatus.py` **138 chunks / 2,830 entries, all passed**; p. 51 PENDING n. 6.
+> `check-vol5-census.py` **138/138, rosters agree**, **193 runovers (172 gutter-crossing, 21
+> page-crossing)** — `q1-a1` adds three gutter runovers (p. 45 n. 4, p. 47 n. 5, p. 49 n. 4) and no
+> page-crossing one. ⚠ **append to the ledger with COMMAS, never semicolons.**
+> `check-live-flags.py` **237 corpus-wide, `bon-qmt-*` contributes ZERO**.
+> `polish-style-scan --volume 5` **CLEAN in scope** (the one item is `bon-hex-c23`'s documented
+> deliberate label). `build-citations.py` **QA flags 201 corpus-wide, this chunk ZERO, no dangling**;
+> `build-index-json.py` was run after the rebuild. `build-content.mjs` **12 books, 2,089 questions**.
+> ⭐ The chunk is already a citation TARGET: **10 inbound backlinks**, including `bon-don-c8`'s
+> *supra pag. 49* and `bon-don-c9`'s *pag. 50* from the deployed *septem donis*.
+>
+> ## ▶ STILL OWED — WILSON'S CALL, unchanged
+> Pass 4 of the *scientia Christi* gate: `raw/vision/vol5/p-037..043.png` + `/tmp/colcrop/*`,
+> ~138 MB of regenerable leftovers; the deletion was refused by the session permission classifier.
+> ⚠ pp. 44–51 and 115–116 are now also in `raw/vision/vol5/` and are IN USE.
+
+---
+
+
+> # (superseded by `bon-qmt-q1-a1`, 2026-09-05) previous START HERE
+> # ▶▶▶ **THE *DE MYSTERIO TRINITATIS* MINI-PILOT IS FROZEN (2026-09-05, commit `ab81acc`).**
 > **THE FRONT IS `bon-qmt-q1-a1`, pp. 45–51 — the work's first chunk. Nothing is built yet.**
 > Conventions: repo `CLAUDE.md` § **MYSTERIO TRINITATIS** — **that block is authoritative, this is a
 > pointer**; evidence in `manual-review/mysterio-trinitatis-pilot-scouting.md`.

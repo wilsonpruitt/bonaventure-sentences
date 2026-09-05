@@ -1,6 +1,6 @@
 # Bonaventure Sentences — Project Guide for Claude
 
-You are working on an English translation of **St. Bonaventure's *Opera Omnia*** (Quaracchi edition, 1882–1902). Status (2026-09-05): **Books I–IV are complete and published** (Vols I–IV, all Tier 2). The active front is **Vol V**, where the Breviloquium, Itinerarium, De reductione, the Collationes in Hexaemeron, the *Collationes de septem donis*, the *Collationes de decem praeceptis* and the **QD de scientia Christi** (pp. 3–43, seven quaestiones, shakedown + work-close gates closed, **pushed and DEPLOYED 2026-09-05**) are ALL COMPLETE. **The next work is the *QD de mysterio Trinitatis*, pp. 45–115** — its **mini-pilot is FROZEN 2026-09-05** (§ MYSTERIO TRINITATIS below; evidence in `manual-review/mysterio-trinitatis-pilot-scouting.md`): **fifteen chunks, one per articulus** (`bon-qmt-q{1..7}-a{1,2}` + `bon-qmt-q8`), settled on Quaracchi's own 26 internal `q. N. a. N.` cross-references. **No chunk is built yet; the front is `bon-qmt-q1-a1` (pp. 45–51).** Deploy boundary is the work close at p. 115. The live site is https://bonaventure.wrootpress.com. Always defer to `next-session-resume.md` for the exact current position.
+You are working on an English translation of **St. Bonaventure's *Opera Omnia*** (Quaracchi edition, 1882–1902). Status (2026-09-05): **Books I–IV are complete and published** (Vols I–IV, all Tier 2). The active front is **Vol V**, where the Breviloquium, Itinerarium, De reductione, the Collationes in Hexaemeron, the *Collationes de septem donis*, the *Collationes de decem praeceptis* and the **QD de scientia Christi** (pp. 3–43, seven quaestiones, shakedown + work-close gates closed, **pushed and DEPLOYED 2026-09-05**) are ALL COMPLETE. **The next work is the *QD de mysterio Trinitatis*, pp. 45–115** — its **mini-pilot is FROZEN 2026-09-05** (§ MYSTERIO TRINITATIS below; evidence in `manual-review/mysterio-trinitatis-pilot-scouting.md`): **fifteen chunks, one per articulus** (`bon-qmt-q{1..7}-a{1,2}` + `bon-qmt-q8`), settled on Quaracchi's own 26 internal `q. N. a. N.` cross-references. **`bon-qmt-q1-a1` (pp. 45–51) is BUILT (2026-09-05, 54 entries, zero `[?]`); the front is `bon-qmt-q1-a2` (pp. 51–58).** Deploy boundary is the work close at p. 115. The live site is https://bonaventure.wrootpress.com. Always defer to `next-session-resume.md` for the exact current position.
 
 This file is loaded into every Claude Code session in this repo. Read it before making changes to translation files or the build pipeline.
 
@@ -1686,6 +1686,48 @@ plate**; a blankness number is a screen, the plate is the evidence.
   before building the site.**
 - **⛔ Plates per articulus, never in bulk**, and they are deleted at each gate's pass 4 —
   **re-extract before any plate work.** Extracted at the pilot: 44, 45, 51, 115, 116.
+- **✅ `bon-qmt-q1-a1` IS BUILT (pp. 45–51, 54 entries, zero `[?]`, 2026-09-05)** — the work's first
+  chunk, carrying the display heading, the proemium and both headings. Twenty-nine affirmative
+  arguments in three *viae*, a fourteen-argument opposing series in two runs, `CONCLUSIO`,
+  `Respondeo`, fourteen replies in twelve paragraphs (`1. 2. 3.` combined, preserved). Registry
+  division 1 + the new `buildWorkChunkTitle` branch went in with it. **Boundary 1 (p. 51)
+  re-derived: FORWARDS, split 5/1; n. 6 forwarded to `q1-a2`.** Five things it settles:
+  **(a) ⭐⭐ THE PLATE CAN BE READ WRONG WHERE THE RAW IS RIGHT, AND THE FIX IS A SAME-LINE CONTROL.**
+  p. 46 n. 7 sets a true `4` (*text. 47. (c. 4.)*) four words from a true `1` (*I. de Trin. c. 1. n. 1.*):
+  **at 1.6× the plate-read gave `c. 4. n. 4.` and the RAW was right**; at 4.2× the `4`s show a closed
+  bowl with a crossbar, the `1`s a bare upright with a top flag. Same correction at n. 8 (`tr. 1.`,
+  not `tr. 4.`). ⚠ **The rule is not "the plate always wins" — it is "settle the digit at 5× against a
+  control in the same line."** Second control: p. 51 n. 1's `d. 23. a. 1. q. 4.` **Nine raw-vs-plate
+  defects in all**, the rest ordinary 3/5 and glyph-loss (`pag. 390`→**590**, `pag. 183`→**153**,
+  `text. 3o.`→**35**, `nola H`→**nota 5**, `Psalm. I.S, I.`→**13, 1**).
+  **(b) ⛔ THE OPPOSING SERIES IS A RUNNING ITALIC FORMULA, TWICE, NOT A DISPLAY HEADING** — p. 48's
+  *Sed e contrario obiicitur…* with the marginale `Ad oppositum.`, and mid-column *Item, ostenditur,
+  quod Deum esse sit verum dubitabile.* `bon-qsc-q4`'s shape in a second work. **Find it by content.**
+  ⭐ **And the replies answer the OPPOSING side** — the *Respondeo* concedes the affirmative, so the
+  fourteen replies dispose of the fourteen opposing arguments. **Never assume the pairing.**
+  `CONCLUSIO.` printed correctly and **in-column**, not at full measure; the find-it-by-content rule
+  is NOT retired at one chunk of fifteen.
+  **(c) ⚠ TWO PRINTING DEFECTS RECORDED AS PRINTED, NOT COMPLETED:** p. 51 n. 1 carries **no numeral**
+  (plate and raw agree; the anchor is in the body at *apparet*¹, so it IS n. 1 and the register is
+  **not** renumbered, and it is **not** a runover from p. 50 — that hypothesis was tried and killed by
+  finding the anchor); and **argument 21 prints without a period after its numeral** (`21 Nam
+  Anselmus…`), on the `bon-praec-c2` `Duplex no-` precedent.
+  **(d) ⚠ A REGISTER SITE CARRIED TO THE SHAKEDOWN GATE, NOT SETTLED: p. 50 n. 2's Psalm 4:7
+  *Signatum est super nos lumen*** — a **second scripture site of the Ps. 35:10 class**, in a work
+  where Ps. 35:10 itself is unreached. Ruling 2 was **followed, not suspended** (*lumen* → "lumen"),
+  and the question handed on, because ruling 4's line — *a received English wording a reader will
+  recognise* — is arguable here in a way it was not for the Dionysius clause. ⭐ Meanwhile
+  *intellectus* → "understanding" at all ~30 sites with **zero bare "intellect"**, which in this work
+  is mechanical: *intellectus agens*/*possibilis* occur nowhere in its 71 pages.
+  **(e) MARGINALIA DENSITY BELONGS TO THE SOLUTION, and this is the sharpest split yet** — pp. 45–48
+  carry **forty-three arguments and nine marginalia**, pp. 49–51 carry the *Respondeo* and replies and
+  hold **twenty-seven**; **p. 46's entire left column is an empty margin.** Thirty-six in all.
+  ⭐ Gutters: 45 **1159** · 46 **1385** · 47 **1139** · 48 **1438** · 49 **1208** · 50 **1384** ·
+  51 **1182**; the default was rejected on p. 49 (2 px run) and p. 51 (39 px). Three gutter runovers
+  (p. 45 n. 4, p. 47 n. 5, p. 49 n. 4), none page-crossing — ⚠ on p. 49 the `S. Bonav. — Tom. V.`
+  signature line and the gathering signature `7` sit **between the runover's two halves** and are not
+  apparatus. ⭐ The chunk is already a citation TARGET: **10 inbound backlinks**, two from the
+  deployed *septem donis*.
 
 ### Vol V mechanics
 
