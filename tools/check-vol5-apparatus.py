@@ -118,6 +118,18 @@ KNOWN_TOTALS = {
              # `Matthaei ultimo`) -- PENDING until bon-qmt-q1-a2 lands.
              # !! n.1 IS PRINTED WITHOUT ITS NUMERAL (plate and raw agree); the
              # leaf carries six entries and this is n.1. Do not renumber.
+             # RESOLVED 2026-09-05: bon-qmt-q1-a2 landed and owns n.6.
+    52: 9,   # nn.1-5 left, 6-9 right; no runover
+    53: 8,   # nn.1-4 left, 5-8 right; n.4 (Cicero on virtue) runs over the
+             # gutter and completes at the head of the right block
+    54: 7,   # nn.1-5 left, 6-7 right; no runover. n.5's anchor is in the RIGHT
+             # column (`ad hoc`5) though the entry is printed in the left block
+    55: 9,   # nn.1-3 left, 4-9 right; no runover
+    56: 5,   # nn.1-3 left, 4-5 right; n.4 runs over the gutter
+    57: 7,   # nn.1-3 left, 4-7 right; the `S. Bonav. - Tom. V.` signature line
+             # (left) and the gathering signature `8` (right) are NOT apparatus
+    58: 7,   # nn.1-3 left, 4-7 right; no runover. Article II closes mid-leaf
+             # and QUAESTIO II opens on p.59, so nothing is forwarded
     205: 8,
     206: 11,
     207: 8,
