@@ -522,7 +522,7 @@ A likeness of this is not perfectly found in the creature; but if it were unders
 
 [^p16-7]: **La.** Cap. 10. n. 3. Cfr. I. Sent. lit. Magistri, d. XXXVIII. c. 1, et Comment. a. 1. q. 2. fundam. 1. — In principio solut. post *a rationibus* C addit *aeternis*.
 
-     **En.** Chapter 10, n. 3. Compare I *Sentences,* the Master's text, d. XXXVIII, c. 1, and the Commentary, a. 1, q. 2, ground 1. — At the beginning of the solution, after *a rationibus*, C adds *aeternis*.
+     **En.** Chapter 10, n. 3. Compare I *Sentences,* the Master's text, d. XXXVIII, c. 1, and the Commentary, a. 1, q. 2, fundamentum 1. — At the beginning of the solution, after *a rationibus*, C adds *aeternis*.
 
 [^p16-8]: **La.** Pro *habere respectum* A B E H *respectus*. Inferius pro *Si ergo ponitur* C *Praeterea idea ad scientiam pertinet, quae essentialis est, non personalis, et ideo si ponitur.*
 

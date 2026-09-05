@@ -310,7 +310,7 @@ conditions; but created and uncreated *wisdom*, although they differ in nature, 
 
 [^p28-3]: **La.** Vide Glossam August. adductam III. Sent. d. 12. a. 2. q. 1. fundam. 1.
 
-     **En.** See the Augustinian Gloss adduced at III *Sentences,* d. 12, a. 2, q. 1, first ground.
+     **En.** See the Augustinian Gloss adduced at III *Sentences,* d. 12, a. 2, q. 1, fundamentum 1.
 
 [^p28-4]: **La.** Scil. honore latriae; cfr. III. Sent. d. 9. a. 1. q. 1.
 

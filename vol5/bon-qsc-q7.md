@@ -369,7 +369,7 @@ although it has to be borne into it *by excess*; and this excess is the last and
 
 [^p40-1]: **La.** Quaest. 1, in cuius 4. fundam. atque in corp. allegatur etiam August., XII. de Civ. Dei, c. 18, et in 2. fundam. citatur XI. c. 10. n. 3.
 
-     **En.** Question 1, in whose 4th ground and in the body Augustine, XII *On the City of God* c. 18, is also adduced, and in the 2nd ground XI, c. 10, n. 3 is cited.
+     **En.** Question 1, in whose fundamentum 4 and in the body Augustine, XII *On the City of God* c. 18, is also adduced, and in fundamentum 2, XI, c. 10, n. 3 is cited.
 
 [^p40-2]: **La.** Paragr. 1, ex quo seqq. verba. De Mystica Theolog. cfr. c. 1. § 1. — Pro *intelligendo* versio Scoti Erig. *intelligendum* (νοητέον), pro *deificatos*, quod habet A, E F *deifactos*, B *deificos* (Θεοῦ γιγνομένους). Finem verborum versio Scoti Erig. sic exhibet: *Sic enim erunt divina data cum Deo futuris* (τὰ θεῖα δοτὰ τοῖς μετὰ Θεοῦ γιγνομένοις).
 

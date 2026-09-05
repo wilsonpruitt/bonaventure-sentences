@@ -1,5 +1,37 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **THE WORK-CLOSE GATE RAN 2026-09-05. THE *DE SCIENTIA CHRISTI* IS GATED AND READY TO PUSH + DEPLOY.**
+> `manual-review/vol5-scientia-christi-workclose-gate.md`. **ONE DEFECT, FOUND AND REPAIRED** — the
+> apparatus formula `fundam. N` was rendered **five ways at five sites, one per chunk**, so no chunk
+> and not even the shakedown could see it; three sites conformed to the corpus apparatus convention
+> (`fundamentum N`, ~135 sites vs 4 in Vols I–IV), q4's two were already right. **Frozen as ruling 5,
+> scoped to the APPARATUS only** — the body register is genuinely mixed corpus-wide and was not touched.
+> **All four earlier rulings verified across all seven chunks and all four HOLD**: 14 English
+> "intellect" in the work, all 14 inside *agent/possible intellect*, **zero bare**; *lux*/*lumen*
+> reconciles exactly, q4's ±2 being the Ps. 35:10 exemption verified in place; 7/7 `contuit-` in q4–q6
+> with q1's ruled exception intact; and ruling 4 follows mechanically from the zero bare "intellect".
+> **All six boundaries re-derived from the built files — 6/3 · 7/1 · leaf edge · 1/7 · 1/8 · 3/4, no two
+> alike, matching the frozen record digit for digit.** 323 entries swept for digit drift (3 false
+> positives, 3 distinct classes, **none the previous work's class**); **0 dangling citations from 41 pp.**;
+> corpus QA 201 and live flags 237, both unchanged; `build-content.mjs` 11 books / 2,088 questions.
+>
+> ## ▶ TWO THINGS ARE OWED, BOTH WILSON'S CALL
+> 1. ⚠ **PASS 4 IS BLOCKED** — `raw/vision/vol5/p-037..043.png` (7 files, 23 MB) + `/tmp/colcrop/*`
+>    (62 files, 115 MB) = **~138 MB**, every file a pp. 37–43 q7 leftover, gitignored, 0 tracked,
+>    regenerable from `raw/doctorisseraphic05bona.pdf`. The deletion was **refused by the session
+>    permission classifier** and deliberately not worked around. Non-blocking for deploy.
+> 2. **PUSH + DEPLOY** — `master` is ahead of `origin/master`; the deploy boundary is this gate and
+>    **nothing in this work is deployed** (prod still serves the 2026-08-31 *decem praeceptis* deploy).
+>    Both are protected actions needing an explicit per-action OK.
+>
+> ## ▶ THE NEXT WORK is *QD de mysterio Trinitatis*, opening **p. 45** (no half-title — p. 1's covers all three QD)
+> Carry to it: ***vacatio*/*quies* closes UNTESTABLE here** (six chunks, never present) — test it there
+> from scratch · **ruling 5** · and the gate's own lesson: **a prior gate's false-positive list is not a
+> filter for the next work's** (three classes here, none shared with *decem praeceptis*' two).
+
+---
+
+> # (superseded by the work-close gate, 2026-09-05) previous START HERE
 > # ▶▶▶ START HERE — **`bon-qsc-q7` IS LANDED. THE *DE SCIENTIA CHRISTI* IS COMPLETE (pp. 3–43).**
 > **THE FRONT IS THE WORK-CLOSE GATE at p. 43. There is no next chunk in this work.**
 > Quaestio VII, **pp. 37–43**, Tier 2, built 2026-09-04 — whether the soul of Christ comprehends

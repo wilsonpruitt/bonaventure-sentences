@@ -1,6 +1,6 @@
 # Bonaventure Sentences — Project Guide for Claude
 
-You are working on an English translation of **St. Bonaventure's *Opera Omnia*** (Quaracchi edition, 1882–1902). Status (2026-09-04): **Books I–IV are complete and published** (Vols I–IV, all Tier 2). The active front is **Vol V**, where the Breviloquium, Itinerarium, De reductione, the Collationes in Hexaemeron, the *Collationes de septem donis* (pp. 457–503, gated + deployed 2026-08-29) and the *Collationes de decem praeceptis* (pp. 507–532, gate CLEAN, **pushed + DEPLOYED 2026-08-31**) are ALL COMPLETE. **The next work is the *QD de scientia Christi*, pp. 3–43** — its **mini-pilot is FROZEN 2026-08-31** (§ SCIENTIA CHRISTI below; evidence in `manual-review/scientia-christi-pilot-scouting.md`), and its first four chunks **`bon-qsc-q1` (pp. 3–6), `bon-qsc-q2` (pp. 6–10), `bon-qsc-q3` (pp. 10–16) and `bon-qsc-q4` (pp. 17–27) are BUILT** (2026-08-31 / 09-01 / 09-03 / 09-03, Tier 2, 31 + 34 + 48 + 93 entries, zero `[?]`), **the SHAKEDOWN GATE RAN 2026-09-04 — three defects, all repaired, four register rulings frozen (§ SCIENTIA CHRISTI below)**, and `bon-qsc-q5` (pp. 27–32) and `bon-qsc-q6` (pp. 32–37) are BUILT (2026-09-04, Tier 2, 39 + 39 entries, zero `[?]`). **ALL SEVEN CHUNKS ARE NOW BUILT — `bon-qsc-q7` (pp. 37–43) landed 2026-09-04 (Tier 2, 39 entries, zero `[?]`), and the work's body pp. 3–43 is COMPLETE.** The front is now the **WORK-CLOSE GATE** at p. 43; **nothing in this work is deployed** and the deploy boundary is that gate. The live site is https://bonaventure.wrootpress.com. Always defer to `next-session-resume.md` for the exact current position.
+You are working on an English translation of **St. Bonaventure's *Opera Omnia*** (Quaracchi edition, 1882–1902). Status (2026-09-04): **Books I–IV are complete and published** (Vols I–IV, all Tier 2). The active front is **Vol V**, where the Breviloquium, Itinerarium, De reductione, the Collationes in Hexaemeron, the *Collationes de septem donis* (pp. 457–503, gated + deployed 2026-08-29) and the *Collationes de decem praeceptis* (pp. 507–532, gate CLEAN, **pushed + DEPLOYED 2026-08-31**) are ALL COMPLETE. **The next work is the *QD de scientia Christi*, pp. 3–43** — its **mini-pilot is FROZEN 2026-08-31** (§ SCIENTIA CHRISTI below; evidence in `manual-review/scientia-christi-pilot-scouting.md`), and its first four chunks **`bon-qsc-q1` (pp. 3–6), `bon-qsc-q2` (pp. 6–10), `bon-qsc-q3` (pp. 10–16) and `bon-qsc-q4` (pp. 17–27) are BUILT** (2026-08-31 / 09-01 / 09-03 / 09-03, Tier 2, 31 + 34 + 48 + 93 entries, zero `[?]`), **the SHAKEDOWN GATE RAN 2026-09-04 — three defects, all repaired, four register rulings frozen (§ SCIENTIA CHRISTI below)**, and `bon-qsc-q5` (pp. 27–32) and `bon-qsc-q6` (pp. 32–37) are BUILT (2026-09-04, Tier 2, 39 + 39 entries, zero `[?]`). **ALL SEVEN CHUNKS ARE NOW BUILT — `bon-qsc-q7` (pp. 37–43) landed 2026-09-04 (Tier 2, 39 entries, zero `[?]`), and the work's body pp. 3–43 is COMPLETE.** **The WORK-CLOSE GATE RAN 2026-09-05 — one defect, repaired; all four register rulings hold; ruling 5 added (§ SCIENTIA CHRISTI). The work is GATED and ready to push + deploy, awaiting Wilson's go-ahead, with Pass 4's ~138 MB plate deletion still owed.** **Nothing in this work is deployed** and the deploy boundary is that gate. The live site is https://bonaventure.wrootpress.com. Always defer to `next-session-resume.md` for the exact current position.
 
 This file is loaded into every Claude Code session in this repo. Read it before making changes to translation files or the build pipeline.
 
@@ -1251,9 +1251,17 @@ Raw band **L10048 → L16033**.
 - **Cadence: TWO gates.** ONE at the work close (41 pp), and the shakedown at p. 27.
   ★★★ **SHAKEDOWN GATE RUN 2026-09-04 — `manual-review/vol5-scientia-christi-shakedown-gate.md`.
   THREE defects, all in scope, ALL REPAIRED; the first gate in Vol V to find a real defect.**
-  **★★★ ALL SEVEN CHUNKS ARE BUILT (2026-09-04). The front is the WORK-CLOSE GATE at p. 43**;
-  **deploy boundary = work close**, nothing in this work is deployed. **Plates per quaestio, never in bulk**
+  **★★★ ALL SEVEN CHUNKS ARE BUILT (2026-09-04).** **Plates per quaestio, never in bulk**
   — and Pass 4 deleted them, so **re-extract before any plate work**.
+  ★★★ **WORK-CLOSE GATE RUN 2026-09-05 — `manual-review/vol5-scientia-christi-workclose-gate.md`.
+  ONE defect, found and REPAIRED (ruling 5 below); all four frozen rulings verified across all seven
+  chunks and all four HOLD; all six boundaries re-derived from the built files and matching the frozen
+  record digit for digit; 0 dangling citations from 41 pp.; corpus QA total 201, unchanged.**
+  ⚠ **Pass 4 is the ONE thing still owed** — `raw/vision/vol5/p-037..043.png` (7 files, 23 MB) and
+  `/tmp/colcrop/*` (62 files, 115 MB), ~138 MB, all q7 leftovers, gitignored and regenerable. The
+  deletion was refused by the session permission classifier and is **awaiting Wilson**.
+  **The work is gated and ready to push + deploy — deploy boundary = work close, and NOTHING in this
+  work is deployed yet.**
   **The four register rulings, which are now the work's rules and are NOT to be re-litigated:**
   1. ***intellectus agens* → "the agent intellect" RATIFIED** — not an extension of the narrow
      exception but **the same instance of it** (the exception was founded at `bon-praec-c2` on the
@@ -1279,6 +1287,14 @@ Raw band **L10048 → L16033**.
      that stops it generalising, since Bonaventure quotes constantly. ⚠ The Ps. 35:10 exemption
      survives because **a received English wording exists that a reader will recognise**; Dionysius'
      clause has none. **That, not "it is a quotation," is the line.**
+  5. ★ **NEW at the work-close gate (2026-09-05): IN THE APPARATUS, `fundam. N` → `fundamentum N` /
+     `fundamenta N`** — retain the Latin, per the corpus convention (~135 apparatus sites in Vols I–IV
+     against 4 exceptions, ~97 %). The work had rendered it **five ways at five sites, one per chunk**
+     ("ground 1" · "fundamentum 8" · "fundamenta 2 and 3" · "first ground" · "4th/2nd ground"), two of
+     the forms with **zero precedent anywhere in the corpus apparatus**; three sites repaired, q4's two
+     were already correct. ⚠ **SCOPED TO THE APPARATUS.** The English **body** register is genuinely
+     mixed corpus-wide (~22 retained vs ~20 Englished) — there is no convention there to conform to, no
+     body text was touched, and this ruling must not be extended to it.
 - **✅✅✅ `bon-qsc-q7` IS BUILT (pp. 37–43, 39 entries, zero `[?]`, 2026-09-04) — THE WORK'S LAST
   QUAESTIO, AND THE BODY pp. 3–43 IS COMPLETE.** Twenty-one affirmative arguments, twelve `Cᴏɴᴛʀᴀ`,
   `CONCLUSIO`, a *Respondeo* on the *exemplar factivum* / *exemplar expressivum* distinction with the
