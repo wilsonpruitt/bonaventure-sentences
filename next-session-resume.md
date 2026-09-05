@@ -1,5 +1,92 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **`bon-qmt-q1-a2` IS LANDED. THE FRONT IS `bon-qmt-q2-a1` (pp. 59–63).**
+> Quaestio I, Articulus II, **pp. 51–58**, Tier 2, built 2026-09-05 — the work's second chunk and
+> the close of Quaestio I. Fourteen affirmative arguments in two runs (*debitum* 1–8, *congruum*
+> 9–14), a **thirteen-argument `SED CONTRA` series** in two runs, an **incidental question** on the
+> motive of faith, `CONCLUSIO`, a *Respondeo* on the three books (*creaturae / Scripturae / vitae*),
+> and **twelve replies**. **53 apparatus entries** (p. 51 n. 6 INHERITED · 52 nine · 53 eight ·
+> 54 seven · 55 nine · 56 five · 57 seven · 58 seven), **zero `[?]` flags**. Registry untouched —
+> q1-a2 is still division 1, already registered. Conventions: repo `CLAUDE.md` § **MYSTERIO
+> TRINITATIS** — **that block is authoritative, this is a pointer.** Committed locally, **not
+> pushed, not deployed** — deploy boundary is the work close at p. 115.
+>
+> ## ▶ FRONT = `bon-qmt-q2-a1`, pp. 59–63, raw **L18089 → L18700**
+> It opens **QUAESTIO II** as well as its Articulus I, so **both headings and both italic subtitles
+> go into it** (raw L18089 the quaestio, L18107 the articulus). Quaestio II's subtitle, L18091:
+> *Utrum possit simul stare trinitas personarum cum naturae unitate.* `title_la` for the chunk,
+> L18109: *Utrum divinum esse sit summe unum.* ⚠ **Verify both word for word on the plate** —
+> p. 58's own running head already proves the trap (a recto head names the unit that OPENS on the
+> leaf, not the one that fills it).
+> ▶ **A SHORT OPENER STANDS BETWEEN THE TWO HEADINGS** (raw L18094–18104): *Supposito, quod Deum
+> esse trinum sit verum credibile, quaeritur consequenter… Et circa hoc duo quaeruntur*, plus the
+> two *praeambula*. **It folds into `q2-a1` under the frozen short-opener rule** — the same shape
+> `q1-a1` met at the work's proemium; it is unanchored. ⚠ Confirm the anchor absence on the plate,
+> do not assume it from the shape.
+> ⚠ **Registry: `bon-qmt-q2-a1` LANDS DIVISION 2** in `build-content.mjs`'s `WORKS`
+> (`mysterio-trinitatis`, `divisions: { 2: "Quaestio II: …" }`), subtitle verified on the plate.
+> The `buildWorkChunkTitle` branch already exists and needs nothing.
+> ⛔ **NOTHING IS INHERITED — p. 58 does not forward** (measured: Art. II closes two-fifths down
+> p. 58's right column, the rest of the leaf is white, and no part of Quaestio II is on it).
+> ⛔ **No plate for pp. 59–63 exists** — extract per articulus
+> (`extract-pages.py --volume vol5 --pages 59-63 --dpi 450`), never in bulk.
+> ⚠ **Profile the gutter on EVERY leaf and do not trust the default window** — see below.
+> ⚠ **This chunk is the second of the four before the SHAKEDOWN GATE at q. 2's close (p. 67).**
+>
+> ## ⭐⭐ WHAT `q1-a2` ADDS — THREE THINGS, AND ONE OF THEM IS A NEW FAILURE SHAPE
+> **(a) THE REPLIES ARE PRINTED OUT OF ORDER — 10, 12, 11 — AND QUARACCHI SAYS SO.** p. 58 n. 2
+> ends `— Nota inversionem ordinis argg.` A gap in a numbered series reads as a *dropped unit* (the
+> d.27 failure mode) and the reflex is to hunt for missing text; here the unit was on the next
+> column, out of order, **and the register two inches below named the anomaly**. ⭐ **Read the page's
+> register before concluding a numbered series has lost a member.**
+> **(b) `colcrop.py`'s DEFAULT WINDOW FAILED ON p. 55, IN A NEW WAY.** The script's own body window
+> (rows 0.45–0.92) returned **1227 on a 3 px run**; rows **0.20–0.50** returned **1199 on a 62 px
+> run**, stable across three windows — 1199 adopted. The leaf's *lower* half closes the gutter up.
+> ⚠ p. 58 profiled too and is sound at **1296**; its 1389/247 px run over rows 0.60–0.90 is the
+> **white space below the article's close**, not a gutter, and a wider window would have taken it.
+> **Two leaves, two different reasons the default window is wrong: profile, do not just re-run.**
+> **(c) A QUARACCHI BACK-REFERENCE IS A FREE, DECISIVE CONTROL ON A PAGE NUMBER.** p. 54 n. 4's
+> *Gregor. supra pag. 53, nota 3* and p. 56 n. 4's *cfr. supra pag. 52, nota 7* were both OCR'd with
+> a `3` for the `5`; each was settled **not by the glyph** but by opening the named note and finding
+> it there (p. 53 n. 3 IS the Gregory; p. 52 n. 7 IS the II Cor. 10, 5). Six raw-vs-plate digit
+> defects in all. ⚠ The 1-vs-4 calibration was **re-run, not inherited**, at 3.0–3.2× against
+> same-line controls, and held every time.
+>
+> ## ⚠ THE PSALM 4:7 SITE RECURS AND IS STILL THE SHAKEDOWN GATE'S TO SETTLE
+> **p. 55 n. 9 is the same verse as p. 50 n. 2** (*Signatum est super nos lumen vultus tui*), and
+> here it is the **anchor for the body's own *lumen divini vultus***, so note and body must agree.
+> Ruling 2 was **followed, not suspended** ("The lumen of thy countenance…"). ⭐ What is new: the
+> site is now attested **twice, five pages apart, and the second time it is load-bearing** — the
+> *Respondeo*'s whole account of the *lumen inditum* rests on it. **Do not settle it in a chunk.**
+> ⛔ *vacatio*/*quies*: **still not testable.** Deciding sites remain `q5-a2` (raw L23636, L23645)
+> and `q7-a2` (raw L25824 — both families in one clause).
+>
+> ## ⚠ THE OPPOSING-SERIES HEADING IS NOW THREE DIFFERENT SHAPES IN VOL V
+> `bon-qsc-q1`/`q2` print `Cᴏɴᴛʀᴀ:` · `bon-qsc-q3` prints `Sᴇᴅ ᴄᴏɴᴛʀᴀ:` · `bon-qmt-q1-a1` prints
+> **no heading at all** · `bon-qmt-q1-a2` prints `Sᴇᴅ ᴄᴏɴᴛʀᴀ:` in-column. **Two consecutive chunks of the
+> same work disagree about whether the unit is headed.** The find-it-by-content rule is not retired.
+>
+> ## ▶ NUMBERS, DERIVED AFTER `q1-a2`
+> `check-vol5-apparatus.py` **139 chunks / 2,883 entries, all passed**; **p. 51's PENDING is CLEARED**
+> and pp. 52–58 were added to `KNOWN_TOTALS`.
+> `check-vol5-census.py` **139/139, rosters agree**, **194 runovers (173 gutter-crossing, 21
+> page-crossing)** — `q1-a2` adds one gutter runover (p. 53 n. 4) and no page-crossing one.
+> ⚠ **append to the ledger with COMMAS, never semicolons.**
+> `check-live-flags.py` **237 corpus-wide, `bon-qmt-*` contributes ZERO**.
+> `polish-style-scan --volume 5` **CLEAN in scope** (the one item is `bon-hex-c23`'s documented
+> deliberate label). `build-citations.py` **QA flags 201 corpus-wide, this chunk ZERO, no dangling**;
+> `build-index-json.py` was run after the rebuild. `build-content.mjs` **12 books, 2,090 questions**.
+> ⭐ The chunk is already a citation TARGET: **7 inbound backlinks**.
+>
+> ## ▶ STILL OWED — WILSON'S CALL, unchanged
+> Pass 4 of the *scientia Christi* gate: `raw/vision/vol5/p-037..043.png` + `/tmp/colcrop/*`,
+> ~138 MB of regenerable leftovers; the deletion was refused by the session permission classifier.
+> ⚠ pp. 44–58 and 115–116 are now in `raw/vision/vol5/` and pp. 51–58 are IN USE.
+
+---
+
+
+> # (superseded by `bon-qmt-q1-a2`, 2026-09-05) previous START HERE
 > # ▶▶▶ START HERE — **`bon-qmt-q1-a1` IS LANDED. THE FRONT IS `bon-qmt-q1-a2` (pp. 51–58).**
 > Quaestio I, Articulus I, **pp. 45–51**, Tier 2, built 2026-09-05 (`a6875e3`) — the work's first
 > chunk, carrying the display heading, the **work-level proemium**, and both the `QUAESTIO I.` and

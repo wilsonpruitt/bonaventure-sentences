@@ -1,6 +1,6 @@
 # Bonaventure Sentences — Project Guide for Claude
 
-You are working on an English translation of **St. Bonaventure's *Opera Omnia*** (Quaracchi edition, 1882–1902). Status (2026-09-05): **Books I–IV are complete and published** (Vols I–IV, all Tier 2). The active front is **Vol V**, where the Breviloquium, Itinerarium, De reductione, the Collationes in Hexaemeron, the *Collationes de septem donis*, the *Collationes de decem praeceptis* and the **QD de scientia Christi** (pp. 3–43, seven quaestiones, shakedown + work-close gates closed, **pushed and DEPLOYED 2026-09-05**) are ALL COMPLETE. **The next work is the *QD de mysterio Trinitatis*, pp. 45–115** — its **mini-pilot is FROZEN 2026-09-05** (§ MYSTERIO TRINITATIS below; evidence in `manual-review/mysterio-trinitatis-pilot-scouting.md`): **fifteen chunks, one per articulus** (`bon-qmt-q{1..7}-a{1,2}` + `bon-qmt-q8`), settled on Quaracchi's own 26 internal `q. N. a. N.` cross-references. **`bon-qmt-q1-a1` (pp. 45–51) is BUILT (2026-09-05, 54 entries, zero `[?]`); the front is `bon-qmt-q1-a2` (pp. 51–58).** Deploy boundary is the work close at p. 115. The live site is https://bonaventure.wrootpress.com. Always defer to `next-session-resume.md` for the exact current position.
+You are working on an English translation of **St. Bonaventure's *Opera Omnia*** (Quaracchi edition, 1882–1902). Status (2026-09-05): **Books I–IV are complete and published** (Vols I–IV, all Tier 2). The active front is **Vol V**, where the Breviloquium, Itinerarium, De reductione, the Collationes in Hexaemeron, the *Collationes de septem donis*, the *Collationes de decem praeceptis* and the **QD de scientia Christi** (pp. 3–43, seven quaestiones, shakedown + work-close gates closed, **pushed and DEPLOYED 2026-09-05**) are ALL COMPLETE. **The next work is the *QD de mysterio Trinitatis*, pp. 45–115** — its **mini-pilot is FROZEN 2026-09-05** (§ MYSTERIO TRINITATIS below; evidence in `manual-review/mysterio-trinitatis-pilot-scouting.md`): **fifteen chunks, one per articulus** (`bon-qmt-q{1..7}-a{1,2}` + `bon-qmt-q8`), settled on Quaracchi's own 26 internal `q. N. a. N.` cross-references. **`bon-qmt-q1-a1` (pp. 45–51, 54 entries) and `bon-qmt-q1-a2` (pp. 51–58, 53 entries) are BUILT (2026-09-05, zero `[?]` in both), closing Quaestio I; the front is `bon-qmt-q2-a1` (pp. 59–63).** Deploy boundary is the work close at p. 115. The live site is https://bonaventure.wrootpress.com. Always defer to `next-session-resume.md` for the exact current position.
 
 This file is loaded into every Claude Code session in this repo. Read it before making changes to translation files or the build pipeline.
 
@@ -277,7 +277,7 @@ Vols V–X (2026-07-28).**
 |---|---|---|---|---|---|
 | 1 | Prolegomena | I–XL+ | — | — | NOT chunked (editorial apparatus, like INDEX QUAESTIONUM) |
 | 2 | QD de scientia Christi | **3–43** | `scientia-christi` | 8 | **COMPLETE 2026-09-05 — all 7 quaestiones Tier 2; shakedown + work-close gates CLOSED, pushed and DEPLOYED (verified live).** Mini-pilot frozen 2026-08-31 (7 quaestiones, no articuli, no scholia; p. 1 half-title covers all THREE QD, p. 2 blank 0.0013 %, p. 44 blank 0.0008 %, **no `EXPLICIUNT` colophon**). |
-| 3 | QD de mysterio Trinitatis | **45–115** | `mysterio-trinitatis` | 9 | **ACTIVE — mini-pilot FROZEN 2026-09-05** (§ MYSTERIO TRINITATIS below). **8 quaestiones / 14 articuli / Q. VIII undivided → FIFTEEN chunks, one per articulus**; no half-title (p. 44 blank 0.0007 %), no scholia, no Summarium, **no colophon** (ends p. 115, p. 116 blank). No chunk built yet. |
+| 3 | QD de mysterio Trinitatis | **45–115** | `mysterio-trinitatis` | 9 | **ACTIVE — mini-pilot FROZEN 2026-09-05** (§ MYSTERIO TRINITATIS below). **8 quaestiones / 14 articuli / Q. VIII undivided → FIFTEEN chunks, one per articulus**; no half-title (p. 44 blank 0.0007 %), no scholia, no Summarium, **no colophon** (ends p. 115, p. 116 blank). **2 of 15 built — Quaestio I complete (pp. 45–58).** |
 | 4 | QD de perfectione evangelica | 117–198 | `perfectione-evangelica` | 10 | planned. ⚠ **NO half-title leaf expected** — same three-work half-title; fix p. 117 on the plate. |
 | 5 | **Breviloquium** | 199–291 | `breviloquium` | 5 | **COMPLETE — gated + deployed 2026-08-01** |
 | 6 | **Itinerarium mentis in Deum** | 293–316 | `itinerarium` | 6 | **COMPLETE 2026-08-14 — all 10 chunks Tier 2; work-close gate + deploy due** |
@@ -1728,6 +1728,64 @@ plate**; a blankness number is a screen, the plate is the evidence.
   signature line and the gathering signature `7` sit **between the runover's two halves** and are not
   apparatus. ⭐ The chunk is already a citation TARGET: **10 inbound backlinks**, two from the
   deployed *septem donis*.
+
+- **✅ `bon-qmt-q1-a2` IS BUILT (pp. 51–58, 53 entries, zero `[?]`, 2026-09-05) — QUAESTIO I IS COMPLETE.**
+  Fourteen affirmative arguments in two runs (*debitum* 1–8, *congruum* 9–14), a **thirteen-argument
+  `SED CONTRA` series** in two runs, an **incidental question** on the motive of faith, `CONCLUSIO`,
+  a *Respondeo* on the three books (*liber creaturae / Scripturae / vitae*), and **twelve replies**.
+  Registry untouched — division 1 was already in. **Boundary 2 (p. 58) MEASURED: it does NOT
+  forward** (Art. II closes two-fifths down the right column, rest of the leaf white, no part of
+  Quaestio II on it). Five things it settles:
+  **(a) ⛔⛔ THE REPLIES ARE PRINTED OUT OF ORDER — 10, 12, 11 — AND QUARACCHI SAYS SO.** p. 58 n. 2
+  ends `— Nota inversionem ordinis argg.` Transcribed as printed. ⭐ **The lesson is the direction of
+  the catch:** a gap in a numbered series (…10, 12…) reads as a *dropped unit* — the d.27 failure
+  mode — and the reflex is to hunt for missing text; here the unit was on the next column, out of
+  order, and the register two inches below named the anomaly. **Read the page's register before
+  concluding a numbered series has lost a member.**
+  **(b) ⚠⚠ `colcrop.py`'s DEFAULT ROW WINDOW FAILED ON p. 55 IN A NEW WAY, AND p. 58 SHOWS THE
+  MIRROR.** p. 55: the script's own body window (rows 0.45–0.92) gave **1227 on a 3 px run**;
+  rows **0.20–0.50** gave **1199 on a 62 px run**, stable across three overlapping windows — 1199
+  adopted, and the crops confirm it. The leaf's *lower* half is what closes the gutter up. p. 58:
+  body windows all agree at **1294–1297** (adopted 1296), but rows 0.60–0.90 return **1389 on a
+  247 px run** — that is the **white space below the article's close**, not a gutter, and a wider
+  window would have taken it. **Two leaves, two opposite reasons the default window is the wrong
+  window. Profile; do not just re-run the default and read its number.**
+  **(c) ⭐⭐ A QUARACCHI BACK-REFERENCE IS A FREE, DECISIVE CONTROL ON ITS OWN PAGE NUMBER.**
+  p. 54 n. 4 (*Gregor. supra pag. 53, nota 3*) and p. 56 n. 4 (*cfr. supra pag. 52, nota 7*) were
+  both OCR'd with a `3` for the `5`. Neither was settled by the glyph: **p. 53 n. 3 IS the Gregory
+  homily and p. 52 n. 7 IS the II Cor. 10, 5 note**, both inside this same chunk. Open the named
+  note before straining at the type. Six raw-vs-plate digit defects in all (`p. X. c. S.`→**c. 5.** ·
+  `pag. 33`→**53** · `d. II. c. i.`→**c. 4.** · `Psalm. i, 1`→**Psalm. 4, 7** · `pag. 32`→**52** ·
+  `q. L ad 2`→**q. 4. ad 2.**). ⚠ The 1-vs-4 calibration was **re-run, not inherited**, at 3.0–3.2×
+  against same-line controls, and held every time — including on the inherited p. 51 n. 6, where
+  `Vers. 19` and `Marc. 16, 16` both read as `4`s at 1.6×.
+  **(d) ⚠ THE OPPOSING-SERIES HEADING IS NOW THREE SHAPES IN VOL V, AND TWO CONSECUTIVE CHUNKS OF
+  THIS WORK DISAGREE.** `bon-qsc-q1`/`q2` print `Cᴏɴᴛʀᴀ:` · `bon-qsc-q3` prints `Sᴇᴅ ᴄᴏɴᴛʀᴀ:` ·
+  `bon-qmt-q1-a1` prints **no heading at all** (running italic formula) · `bon-qmt-q1-a2` prints
+  `Sᴇᴅ ᴄᴏɴᴛʀᴀ:` in letter-spaced small caps, in-column. **The find-it-by-content rule is not
+  retired.** ⭐ And the reply series again answers the OPPOSING side (the *Respondeo* concedes the
+  affirmative), **twelve replies for thirteen arguments**: 5 and 6 are printed combined, and
+  argument 13 is answered by the incidental question, not by a reply — Quaracchi's own marginale
+  says so (`Ad arg. 13. circa quaestionem incid.`). **Never assume the reply count matches.**
+  **(e) ⚠ TWO PRINTING DEFECTS RECORDED AS PRINTED:** p. 57 n. 7 prints **`Cfc. Ioan. 3, 16.`** —
+  `Cfc.`, not `Cfr.`, with plate and raw agreeing (two independent witnesses); and **p. 58 n. 6
+  carries a blank gap of about a dozen characters inside its scripture quotation**, where the
+  Vulgate has *Christi et*. Both reproduced, neither completed.
+  ⭐ Register: **ruling 2 does its heaviest work in the work so far** — *lumen inditum/infusum*,
+  *lumen divini vultus*, *lumen aeternum* against *lux vera*, *lux hominum*, *influentia lucis*,
+  *lux desuper infusa*, and **the pair stands in one sentence** (*liber iste vitae est lux vera…
+  Illuminat autem dupliciter, scilicet per lumen inditum et per lumen infusum*). ⚠⚠ **The Psalm 4:7
+  site RECURS at p. 55 n. 9** — same verse as p. 50 n. 2, and here it is the **anchor for the body's
+  own *lumen divini vultus***, so note and body must agree; ruling 2 was **followed, not suspended**,
+  and the site is handed to the shakedown gate **now attested twice and load-bearing the second
+  time**. **Do not settle it in a chunk.** *intellectus* → "understanding" at every site, zero bare
+  "intellect". Ruling 5 not reached; *vacatio*/*quies* not testable here.
+  ⭐ Gutters: 51 **1182** (carried) · 52 **1396** · 53 **1140** · 54 **1382** · 55 **1199** ·
+  56 **1389** · 57 **1183** · 58 **1296**. One gutter runover (p. 53 n. 4), none page-crossing.
+  ⚠ On p. 57 the `S. Bonav. — Tom. V.` signature line and the gathering signature `8` are not
+  apparatus and interrupt nothing. **Marginalia 52 in all, and the solution-heavy split repeats and
+  sharpens:** pp. 51–53 carry twenty-seven arguments and **six** marginalia; pp. 54–58 carry the
+  incidental question, the *Respondeo* and the replies and hold **forty-six**.
 
 ### Vol V mechanics
 
