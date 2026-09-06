@@ -1,6 +1,124 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — **`bon-qmt-q3-a1` IS LANDED. THE FRONT IS `bon-qmt-q3-a2`, index span 73–78.**
+> # ▶▶▶ START HERE — **`bon-qmt-q3-a2` IS LANDED. QUAESTIO III IS COMPLETE. THE FRONT IS `bon-qmt-q4-a1`, index span 79–84.**
+> Quaestio III, Articulus II, **pp. 73–78**, Tier 2, built 2026-09-06 — the work's sixth chunk,
+> **6 of 15**. Sixteen arguments that trinity and the highest simplicity are incompossible
+> (marginale `Ad oppositum.`, standing on p. 73 for the whole run), a **`Contra` series of ten**
+> (marginale `Fundamenta.`), `CONCLUSIO` in-column, a *Respondeo* in **two declared praenotanda**
+> (the modes of personal distinction; the modes of divine attribution), and **sixteen replies**.
+> **35 apparatus entries** (p. 73 nn. 5–6 INHERITED · 74 eleven · 75 eight · 76 four · 77 six ·
+> **78 all four**), **zero `[?]` flags, ZERO runovers**. Conventions: repo `CLAUDE.md` §
+> **MYSTERIO TRINITATIS** — **that block is authoritative, this is a pointer.** Committed locally
+> (`66845a2`), **not pushed, not deployed** — the deploy boundary is still the work close at p. 115.
+>
+> ## ⭐ THE STANDING ORDER PAID A THIRD TIME
+> p. 78 was extracted **alone** and read first; only then were 74–77 pulled. The index span 73–78
+> is right. ⚠ **And the shape here was the dangerous one**: the index gives `q3-a2 73–78` and
+> `q4-a1 79–84`, i.e. **non-overlapping**, which is exactly the shape that was WRONG at `q2-a2`
+> (index 63–67, actual 63–68). It is right this time because the running head numbered **79** stands
+> above `ARTICULUS I.`, so Quaestio IV's heading and opener sit on p. 78. **Being right is not the
+> same as being known to be right.**
+> ⭐ **BOUNDARY 6 (p. 78) MEASURED: it FORWARDS IN THE BODY ONLY, split 4/0.** `QUAESTIO IV.`, its
+> subtitle and the two-column opener stand on p. 78 and belong to `q4-a1`; **all four of p. 78's
+> register entries stay with `q3-a2`**, because Quaestio IV's opener is unanchored and all four notes
+> pair with replies 10, 13, 14 and 16. ▶ **Six boundaries measured now, in FIVE shapes:
+> 5/1 · LEAF EDGE · 2/8 · 1/4 · 4/2 · 4/0.** ⛔ **The ratio still carries no rule.**
+>
+> ## ⚠⚠ REPLY 4 ON p. 77 CARRIES NO ANCHOR, AND THE AUDIT CAUGHT IT — NOT THE READ
+> The raw prints a marker glyph after *…a sua proprietate personali* and the first pass trusted it,
+> which pushed every later anchor on the leaf down one and produced a **seventh anchor on a six-note
+> leaf**. `check-vol5-apparatus.py` refused it as *anchored but undefined*. At 5× the plate shows
+> nothing after *personali*. ⭐⭐ **The correction was then confirmed from the targets, not from the
+> type:** `I. Sent. d. 19. p. II` has four questions that divide the ground exactly — **q. 2
+> *Utrum sit ponere totum universale*** (n. 1 → reply 3, on *commune*/*universale*), **q. 1 *Utrum in
+> divinis sit ponere totum integrale*** (n. 3 → reply 6, on part and whole), and n. 3's own closing
+> *Ibid. q. 4. insinuatur solutio seq.* pointing at **q. 4 *Utrum in divinis sit differentia secundum
+> numerum*, which is reply 7, the very next reply**. ⛔ **A raw marker glyph is not evidence of an
+> anchor, and a mid-zoom plate read is not a control.**
+>
+> ## ⚠⚠ TWO PRINTED BLANKS IN CONSECUTIVE LINES OF ONE PARAGRAPH — REPRODUCED, NOT FILLED
+> Reply 16 prints *…sed relati〈blank〉Unde dici potest, vel quod ratio illa non con〈blank〉aut quod
+> propositio illa…* The sense wants *relativa.* and *concludit,*; **neither is supplied.** The
+> ratified rule was applied by **measurement, not by eye**: the letters flanking each blank run to a
+> minimum grey of **13–36** with the same dark fraction as their line's opening words — **full
+> strength on both sides**, so the first branch (*the forme never carried the letters*) governs.
+> Three checks ruled out the alternatives: the lines above and below run unbroken through the same
+> pixel column (not a stain or a scanner artefact), the paper inside the blanks measures **min 141 and
+> min 228** against a text minimum of 13 (no ghost of a failed impression), and the raw shows the same
+> two gaps. ▶ **Fourth attestation of the compositor's-blank class, and the first with two in one
+> paragraph.** English carries `[*sic*]` at each, on the p. 59 *eandem* precedent.
+>
+> ## ⭐ THE MARGINALIA ARE **NOT** CLIPPED ON THIS SPAN
+> `q3-a1` found the scan cutting the gutter-side gloss on every one of its leaves and predicted the
+> same for the work. **On pp. 73–78 it does not happen** — full-image-width strips of **both** margins
+> of **every** leaf show every gloss complete with clear paper beyond it. **The clipping is a property
+> of leaves 69–73, not of the work.** ⚠ Keep checking it on every leaf; the failure mode is silent and
+> a crop that stops short of the edge manufactures the same symptom.
+> ⭐ **And p. 74 carries NO marginale at all** — fourteen arguments, eleven register entries, bare
+> paper in both margins. The argument runs take **one gloss at the head of the whole series** and
+> nothing after; the *solutions* are where the density lives (28 glosses on this span, 27 of them on
+> pp. 75–78).
+>
+> ## ⚠ SMALLER THINGS
+> **p. 74 n. 2 prints `Ethic.` with a stray wedge-shaped ink blot above the point, NOT `Ethic:`** —
+> settled at **22×** against the true colon four words later. ⛔ **The raw and a 3× plate read are ONE
+> witness read twice, not two witnesses** — the OCR is reading the same ink. · **p. 77 n. 2 raw
+> `d. 23` → `d. 25`**, the digit class `q3-a1` fixed on p. 71 n. 4, decided the same way (d. 25 is the
+> *de persona* distinction). · **p. 74 n. 7 raw `(c. 23.)` → `(c. 25.)`** at 12×. · **p. 74 n. 11 raw
+> `nota «` → `nota 9.`** · **p. 73 n. 5's final digit → `q. 1`, decided from the target**: of d. 8
+> p. II's four questions **only q. 1 contains *abstractum*, *concretum* and *suppositum* at all**.
+> · ⚠ **Block and anchor come apart on p. 77 and p. 78, both times because the outgoing reply crosses
+> the gutter** — p. 77 blocks 3/3 against anchors 2/4, p. 78 blocks 2/2 against anchors 1/3.
+> · ⭐ **The digit multiset caught a `<!-- page 73 -->` marker present in the Latin and absent from the
+> English.** Nothing else sees that class: the file parses, both blocks extract, marker pairing is
+> unaffected. **Run it on every chunk.**
+>
+> ## ⚠ A REGISTRY GAP, BELONGING TO THE PREVIOUS CHUNK, CLOSED HERE
+> **`bon-qmt-q3-a1` landed without adding division 3 to the `WORKS` registry**, so Quaestio III has
+> been rendering under the fallback label `Quaestio 3` instead of its subtitle. The line went in with
+> this chunk (*Quaestio III: Utrum simul stent trinitas et summa simplicitas*, verified word for word
+> on p. 68). ⛔ **Nothing audits this — the fallback is silent and looks deliberate.** Divisions go in
+> ONE AT A TIME, and the chunk that opens a division owns that line.
+>
+> ## ▶ GUTTERS, ALL SIX MEASURED
+> 73 **1163** · 74 **1317** · 75 **1213** · 76 **1367** · 77 **1178** · 78 **1395**.
+> ⚠ **`colcrop.py`'s default was wrong on FOUR of six** — p. 73 gave 1187 on an 8 px run, p. 77 gave
+> 1203 on an 11 px run against a true 1178, p. 78 gave 1384 on a **2 px** run against a true 1395, and
+> p. 76 was off by 4. ⚠⚠ **Both shared leaves needed the region treatment, for opposite reasons**:
+> p. 73 because `ARTICULUS II.` stands full measure across its middle (profile BELOW it), p. 78 because
+> `QUAESTIO IV.` stands full measure across its lower third (profile ABOVE it, rows 0.05–0.68).
+> **This span met a full-measure heading at each end.**
+>
+> ## ▶ NUMBERS, DERIVED AFTER `q3-a2`
+> `check-vol5-apparatus.py` **143 chunks / 3,021 entries, all passed** (pp. 74–78 added to
+> `KNOWN_TOTALS`; p. 73 unchanged) · `check-vol5-census.py` **rosters agree 143/143**, **201 runovers
+> (180 gutter, 21 page) — UNMOVED**, this chunk's ledger line is a negative · `check-live-flags.py`
+> **237 corpus-wide, `bon-qmt-*` ZERO** · `polish-style-scan` **2,095 scanned, 11 issues / 6 chunks,
+> ZERO in scope** (the same out-of-scope list as the last five gates) · `build-content.mjs` **12 books,
+> 2,094 questions** · `build-citations.py` **22,351 records, QA 201 (unchanged), and this chunk's 26
+> records are ZERO dangling / ZERO unresolvable / ZERO ambiguous** · `build-index-json.py` run after
+> the rebuild. Denominator reconciles at all three stages: **2,096 files on disk → 2,095 style-scanned
+> → 2,094 built.**
+>
+> ## ▶▶▶ FRONT = `bon-qmt-q4-a1`, index span **79–84**, raw **L21029 → L21830**
+> It **inherits p. 78's BODY, not its register**: `QUAESTIO IV.` (subtitle *Utrum trinitas stet cum
+> summa infinitate*), and the two-column opener (*Consequenter quaeritur…* / *Primum est, utrum divinum
+> esse sit infinitissimum.* / *Secundum est, utrum stent simul trinitas et summa infinitas.*), all on
+> p. 78 and all unanchored. **`ARTICULUS I.` (*Utrum divinum esse sit infinitissimum*) opens at the
+> head of p. 79.** ⚠ **Look for an anchor on the opener anyway** — `q2-a1` found n. 1 on Q. II's, and
+> the working expectation is now that it is there.
+> ⛔⛔ **FIX THE END OF THE SPAN ON THE PLATE BEFORE EXTRACTING PLATES** — extract p. 84 first and read
+> it, then pull 79–83. ⚠ **The vol5 plates for pp. 68–78 are on disk now** (`raw/vision/vol5/`);
+> **pass 4 of the next gate will delete them, so do not assume.**
+> ⚠ **PROFILE THE GUTTER ON EVERY LEAF, and where a full-measure heading falls mid-leaf, profile the
+> regions separately.** The next gate is the work-close gate at p. 115; **nothing in this work is
+> deployed.**
+
+---
+
+
+> # (superseded by `bon-qmt-q3-a2`, 2026-09-06) previous START HERE
+> # ▶▶▶ **`bon-qmt-q3-a1` IS LANDED. THE FRONT IS `bon-qmt-q3-a2`, index span 73–78.**
 > Quaestio III, Articulus I, **pp. 68–73**, Tier 2, built 2026-09-06 — the work's fifth chunk,
 > **5 of 15**. Ten arguments that the divine *esse* is most simple (marginale `Fundamenta.`), a
 > **`Contra` series of fourteen** (marginale `[A]d oppositum.`), `CONCLUSIO` in-column, a
