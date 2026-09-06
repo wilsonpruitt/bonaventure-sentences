@@ -141,7 +141,21 @@ KNOWN_TOTALS = {
     62: 7,   # nn.1-2 left, 3-7 right; no runover
     63: 10,  # nn.1-2 ONLY are q2-a1's (anchors in reply 9 and reply 10);
              # ARTICULUS II opens full measure mid-leaf and nn.3-10 are
-             # FORWARDED to bon-qmt-q2-a2
+             # FORWARDED to bon-qmt-q2-a2, which picked them up
+    64: 12,  # nn.1-6 left, 7-12 right; no runover. n.7's `c. 4.` settled at 6x
+             # against the `(c. 11.)` on the same line; n.8's `nota 5` settled
+             # by opening our own p.32 n.5 (Bernard, de Considerat. V.8)
+    65: 5,   # nn.1-3 left, 4-5 right; no runover. The `S. Bonav. -- Tom. V.`
+             # signature line and the gathering signature `9` print inside this
+             # register and are NOT apparatus
+    66: 6,   # nn.1-4 left, 4-6 right; n.4 runs over the gutter. n.3 is owned by
+             # reply 4 on CONTENT (both its halves quote reply 4), not position
+    67: 8,   # nn.1-4 left, 4-8 right; n.4 runs over the gutter. n.8 ends on a
+             # trailing em-dash with nothing after it -- NOT a page-crossing
+             # runover; p.68 opens with a fresh n.1
+    68: 5,   # n.1 ONLY is q2-a2's (anchor in reply 18 at `cum` on the leaf's
+             # first line); QUAESTIO III opens full measure mid-leaf and nn.2-5
+             # are FORWARDED to bon-qmt-q3-a1. n.5 runs over the gutter (q3-a1's)
     205: 8,
     206: 11,
     207: 8,
