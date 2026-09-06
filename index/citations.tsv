@@ -22082,6 +22082,32 @@ bon-qmt-q3-a1	5	apparatus:p73-1	p73-1	crossref	work	Quaest. de scientia Christi	
 bon-qmt-q3-a1	5	apparatus:p73-3	p73-3	crossref	logical	I. Sent. d. 43. q. 3.	bon-sent-I-d43-a1-q3		chunk		
 bon-qmt-q3-a1	5	apparatus:p73-3	p73-3	crossref	logical	II. Sent. d. 37. a. 1. q. 1.	bon-sent-II-d37-a1-q1		chunk		
 bon-qmt-q3-a1	5	apparatus:p73-4	p73-4	crossref	work	Quaest. de scientia Christi	work:scientia-christi		work		
+bon-qmt-q3-a2	5	apparatus:p73-5	p73-5	crossref	logical	I. Sent. d. 2. q. 2.	bon-sent-I-d2-a1-q2		chunk		
+bon-qmt-q3-a2	5	apparatus:p73-5	p73-5	crossref	chain-continuation	d. 8. p. II. q. 1	bon-sent-I-d8-p2-a1-q1		chunk		
+bon-qmt-q3-a2	5	apparatus:p74-1	p74-1	crossref	page	supra pag. 65, nota 3	bon-qmt-q2-a2		chunk		
+bon-qmt-q3-a2	5	apparatus:p74-1	p74-1	crossref	page	pag. 67, nota 1	bon-qmt-q2-a2		chunk		
+bon-qmt-q3-a2	5	apparatus:p74-3	p74-3	crossref	page	supra pag. 65, nota 3	bon-qmt-q2-a2		chunk		
+bon-qmt-q3-a2	5	apparatus:p74-11	p74-11	crossref	page	pag. 46, nota 9	bon-qmt-q1-a1		chunk		
+bon-qmt-q3-a2	5	apparatus:p75-1	p75-1	crossref	page	supra pag. 66, nota 2	bon-qmt-q2-a2		chunk		
+bon-qmt-q3-a2	5	apparatus:p75-2	p75-2	crossref	logical	III. Sent. d. 6. a. 1. q. 2.	bon-sent-III-d6-a1-q2		chunk		
+bon-qmt-q3-a2	5	apparatus:p75-3	p75-3	crossref	page	supra pag. 34, nota 6	bon-qsc-q6		chunk		
+bon-qmt-q3-a2	5	apparatus:p75-7	p75-7	crossref	page	tom. I. pag. 587, nota 7	bon-sent-I-d34-a1-q1		chunk		
+bon-qmt-q3-a2	5	apparatus:p75-7	p75-7	crossref	page	tom. II. pag. 103, nota 6	bon-sent-II-d3-p1-a2-q1		chunk		
+bon-qmt-q3-a2	5	apparatus:p75-7	p75-7	crossref	page	pag. 104, nota 5	bon-sent-II-d3-p1-a2-q1		chunk		
+bon-qmt-q3-a2	5	apparatus:p76-1	p76-1	crossref	logical	I. Sent. d. 26. q. 1.	bon-sent-I-d26-a1-q1		chunk		
+bon-qmt-q3-a2	5	apparatus:p76-1	p76-1	crossref	chain-continuation	d. 33.	I:d33		distinctio		
+bon-qmt-q3-a2	5	apparatus:p76-1	p76-1	crossref	chain-continuation	d. 34. q. 1.	bon-sent-I-d34-a1-q1		chunk		
+bon-qmt-q3-a2	5	apparatus:p76-3	p76-3	crossref	page	tom. I. pag. 576, nota 1	bon-sent-I-d33-a1-q2+bon-sent-I-d33-a1-q3		page-multi		
+bon-qmt-q3-a2	5	apparatus:p76-4	p76-4	crossref	logical	I. Sent. d. 8. p. II. q. 1.	bon-sent-I-d8-p2-a1-q1		chunk		
+bon-qmt-q3-a2	5	apparatus:p77-1	p77-1	crossref	logical	I. Sent. d. 19. p. II. q. 2.	bon-sent-I-d19-p2-a1-q2		chunk		
+bon-qmt-q3-a2	5	apparatus:p77-2	p77-2	crossref	logical	I. Sent. d. 25. a. 1.	bon-sent-I-d25-a1-q1+bon-sent-I-d25-a1-q2		articulus		
+bon-qmt-q3-a2	5	apparatus:p77-2	p77-2	crossref	chain-continuation	d. 34. q. 1.	bon-sent-I-d34-a1-q1		chunk		
+bon-qmt-q3-a2	5	apparatus:p77-3	p77-3	crossref	logical	I. Sent. d. 19. p. II. q. 1.	bon-sent-I-d19-p2-a1-q1		chunk		
+bon-qmt-q3-a2	5	apparatus:p77-4	p77-4	crossref	work	Quaest. de scientia Christi	work:scientia-christi		work		
+bon-qmt-q3-a2	5	apparatus:p77-6	p77-6	crossref	logical	I. Sent. d. 34. q. 1.	bon-sent-I-d34-a1-q1		chunk		
+bon-qmt-q3-a2	5	apparatus:p78-2	p78-2	crossref	page	supra pag. 68, nota 3	bon-qmt-q2-a2+bon-qmt-q3-a1		page-multi		
+bon-qmt-q3-a2	5	apparatus:p78-2	p78-2	crossref	logical	I. Sent. d. 33. q. 2	bon-sent-I-d33-a1-q2		chunk		
+bon-qmt-q3-a2	5	apparatus:p78-3	p78-3	crossref	logical	I. Sent. d. 33. q. 2.	bon-sent-I-d33-a1-q2		chunk		
 bon-qsc-q1	5	apparatus:p3-1	p3-1	crossref	logical	III. Sent. d. 14	III:d14		distinctio		
 bon-qsc-q1	5	apparatus:p3-1	p3-1	crossref	logical	I. Sent. d. 35. q. 5	bon-sent-I-d35-a1-q5		chunk		
 bon-qsc-q1	5	apparatus:p3-1	p3-1	crossref	chain-continuation	d. 39. a. 1. q. 1	bon-sent-I-d39-a1-q1		chunk		
@@ -22265,7 +22291,7 @@ bon-red	5	apparatus:p320-7	p320-7	crossref	page	pag. 120, nota 11	tom5:p120		for
 bon-red	5	apparatus:p320-7	p320-7	crossref	anaphor->page	ibid.	tom5:p120		forward	yes	pag. 120, nota 11
 bon-red	5	apparatus:p320-8	p320-8	crossref	page	supra pag. 19, nota 7	bon-qsc-q4		chunk		
 bon-red	5	apparatus:p320-8	p320-8	crossref	work	Itinerar.	work:itinerarium		work		
-bon-red	5	apparatus:p320-8	p320-8	crossref	page	pag. 73, nota 7	bon-qmt-q3-a1		chunk		
+bon-red	5	apparatus:p320-8	p320-8	crossref	page	pag. 73, nota 7	bon-qmt-q3-a1+bon-qmt-q3-a2		page-multi		
 bon-red	5	apparatus:p321-2	p321-2	crossref	page	supra pag. 206, nota 11	bon-brev-prol-s4+bon-brev-prol-s5		page-multi		
 bon-red	5	apparatus:p321-2	p321-2	crossref	page	supra pag. 287, nota 5	bon-brev-p7-c5+bon-brev-p7-c6		page-multi		
 bon-red	5	apparatus:p321-4	p321-4	crossref	logical	II. Sent. d. 1. p. I. a. 1. q. 1.	bon-sent-II-d1-p1-a1-q1		chunk		

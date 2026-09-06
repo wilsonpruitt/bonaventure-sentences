@@ -169,6 +169,15 @@ KNOWN_TOTALS = {
              # n.4 at the article's last); ARTICULUS II opens full measure
              # mid-leaf and nn.5-6 are FORWARDED to bon-qmt-q3-a2. n.2 runs
              # over the gutter (q3-a1's)
+    74: 11,  # all eleven are q3-a2's; the leaf carries NO marginalia at all
+    75: 8,   # all eight are q3-a2's (Contra series, CONCLUSIO, Respondeo)
+    76: 4,   # all four are q3-a2's
+    77: 6,   # all six are q3-a2's; reply 4 carries NO anchor, and the six
+             # notes pair with replies 3, 5, 6, 7, 8, 9
+    78: 4,   # ALL FOUR are q3-a2's, although QUAESTIO IV opens full measure
+             # on the lower third of the leaf: its heading, subtitle and
+             # opener are unanchored, so the leaf forwards BODY but no
+             # register entry (split 4/0)
     205: 8,
     206: 11,
     207: 8,
