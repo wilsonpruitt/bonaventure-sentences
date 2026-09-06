@@ -1,6 +1,84 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — **`bon-qmt-q2-a2` IS LANDED. QUAESTIO II IS COMPLETE. THE NEXT DISPATCH IS THE SHAKEDOWN GATE, NOT `q3-a1`.**
+> # ▶▶▶ START HERE — **THE MYSTERIO TRINITATIS SHAKEDOWN GATE IS CLOSED. THE FRONT IS `bon-qmt-q3-a1`.**
+> Fired at the close of `bon-qmt-q2-a2` per trigger 3, scope **pp. 45–68, 24 leaves, 176 apparatus
+> entries, four chunks**. Log: **`manual-review/vol5-mysterio-trinitatis-shakedown-gate.md`** — read
+> it before `q3-a1`. **Result: ZERO corpus defects in scope across all four passes**, both carried
+> questions RULED by Wilson, one docket item recorded outside this work, **pass 4 run (~663 MB
+> reclaimed)**. Committed locally, **not pushed, not deployed** — the deploy boundary is still the
+> work close at p. 115.
+>
+> ## ▶ THE TWO RULINGS (Wilson, 2026-09-06) — both are in `CLAUDE.md`, which is authoritative
+> **1. Ps. 4:7 *Signatum est super nos lumen vultus tui* KEEPS "lumen"** at both attestations
+> (`q1-a1` p. 50 n. 2, `q1-a2` p. 55 n. 9). Ruling 2 followed as written, no edit. ⭐⭐ **And the
+> exemption class finally has a TEST:** *a received scriptural wording is exempt only where the verse
+> is quoted AS A VERSE and no surrounding body prose leans on the term.* Ps. 35:10 stays exempt under
+> it; Ps. 4:7 does not, because at p. 55 n. 9 the note is the anchor for the body's own *lumen divini
+> vultus* five words later, on which the whole *Respondeo* turns — exempting it would either split the
+> note from its own body text or push "light" into doctrinal prose. ⛔ **Ruled at two attestations with
+> the load-bearing one in view. Do not re-raise it.**
+> **2. THE FAILING-IMPRESSION TREATMENT IS RATIFIED, AND THE CLASS IS NOT NEW.** Two-part rule, now
+> corpus-general: flanking letters at **full strength** = the forme never carried the letters →
+> **reproduce, never fill**; flanking letters **lighter than their own line** = this copy failed to
+> take set type → **restore in square brackets where determinate from same-page evidence**. ⭐ The
+> precedent the chunk did not know it had: **`bon-brev-p7-c7` p. 291 n. 7, built, gated and DEPLOYED**,
+> restored `sit plenu[m]` / `[M]ulti codd.` / `[origin]alis` on exactly this reasoning. `q2-a2`'s
+> `## Notes` were corrected to cite it. ⛔ **Before naming a defect class new, sweep the corpus for it.**
+>
+> ## ⭐⭐ WHAT THE GATE ESTABLISHED, BEYOND THE RULINGS
+> **(a) The register claim was verified, not believed.** Both chunks that contain *lux*/*lumen* carry
+> the same anchors in the same order in both languages (54 and 53); split on the anchor pattern,
+> **every segment holding either family agrees exactly, with no offsetting pair.** This is the
+> instrument the *scientia Christi* gate built after a chunk's totals reconciled while twenty sites
+> were wrong — **this is the first span measured with it prospectively, and it held.** ⛔ *lux*/*lumen*
+> occur in **neither** `q2-a1` nor `q2-a2`, so the question sat at two attestations exactly.
+> **(b) ▶ NEW DOCKET ITEM, out of scope and NOT fixed: five undocumented leaf-edge seams.** Mechanical
+> sweep of every consecutive-chunk pair in vol5 → **17 leaf-edge seams; 12 carry explicit boundary
+> language, 5 carry none**: `brev-p2-c12|p3-c1` (230→231) · `hex-c1|c2` (335→336) ·
+> `hex-c23|scholion` (449→450) · `don-c1|c2` (461→462) · `don-c2|c3` (467→468). ⚠ **Absence of
+> boundary language is not evidence of an unmeasured span** and all five sit in closed, deployed
+> works — but the failure mode is SILENT (a span short by a leaf loses body and register and still
+> passes every audit), and the settlement is one plate look per seam. **It belongs to those works'
+> own next boundary, not to a gate in another work.** Both in-work leaf edges in Vol V (this work's
+> p. 58, `scientia Christi`'s p. 17) were measured.
+> **(c) The four boundaries take three shapes: p. 51 forwards 5/1 · p. 58 LEAF EDGE, does not forward
+> · p. 63 forwards 2/8 · p. 68 forwards 1/4.** ★★ **A leaf-edge seam is the dangerous class and being
+> measured is what makes it safe** — p. 58 is the exact shape the index gets wrong.
+> **(d) Two checked negatives, both mechanical.** Corpus denominator reconciles at all three stages
+> (**2,094 on disk → 2,093 scanned → 2,092 built**; `punch-list.md` is not a chunk, `bon-sent-I-proleg`
+> is excluded by a documented guard). The **digit-multiset sweep** across all four chunks returns three
+> mismatches and **all three are the documented false-positive class** (`pro *minori* 3. arg.` → "the
+> third argument"; `83 Qq.` → "*Eighty-three Questions*" ×2).
+> **(e) ⭐ THE CLEANEST CITATION PROFILE IN THE CORPUS, DERIVED NOT CLAIMED.** The four chunks
+> contribute **145 ledger records — ZERO dangling, ZERO unresolvable, ZERO ambiguous, and ZERO QA
+> flags** (corpus runs ~2 % in each of the first three). That is the return on `q2-a2`'s rule:
+> **when a citation names a target you hold, open it.**
+>
+> ## ▶ NUMBERS AT THE GATE
+> `check-live-flags.py` **237 corpus-wide (vol1 150 · vol2 9 · vol3 2 · vol4 66 · vol5 10), `bon-qmt-*`
+> ZERO — unchanged in every volume since the `scientia Christi` baseline** · `check-vol5-apparatus.py`
+> **141 chunks / 2,952 entries, all passed**, pp. 45–68 contiguous with p. 68 a legitimate PENDING ·
+> `check-vol5-census.py` **rosters agree 141/141**, 199 runovers (178 gutter, 21 page) ·
+> `polish-style-scan` **2,093 chunks, 11 issues / 6 chunks, ZERO in scope** (the same out-of-scope
+> list as the last three gates: `hex-c23`'s deliberate `[^51]` + 10 J4 class-B `PAIR` residue in
+> Vols III–IV) · `build-content.mjs` **12 books, 2,092 questions** · `build-citations.py` **22,298
+> records, QA 201, ZERO in scope**.
+>
+> ## ▶▶▶ FRONT = `bon-qmt-q3-a1`, index span **68–73**, raw **L19462 → L20250**
+> It **inherits p. 68 nn. 2–5** — re-derive them down to their DIGITS, not only their ownership; **n. 2
+> answers `Augustinus, secundo Confessionum`² in Quaestio III's argument 1**, and **n. 5
+> (Avicenna/Algazel) runs over the gutter**, so that runover belongs to `q3-a1`'s ledger line.
+> ⛔⛔ **FIX THE END OF THE SPAN ON THE PLATE BEFORE EXTRACTING PLATES.** The index has now been wrong
+> once in this work, and a span short by a leaf costs twice. ⚠ **The vol5 plates were DELETED at
+> pass 4 — re-extract pp. 68–73 with `extract-pages.py`, then `colcrop.py`, and PROFILE the gutter on
+> every leaf** (all six of `q2-a2`'s leaves returned sub-60 px runs from the default and two of the
+> six defaults were wrong). The work-close gate follows at p. 115; **nothing in this work is deployed.**
+
+---
+
+
+> # (superseded by the SHAKEDOWN GATE, 2026-09-06) previous START HERE
+> # ▶▶▶ **`bon-qmt-q2-a2` IS LANDED. QUAESTIO II IS COMPLETE. THE NEXT DISPATCH IS THE SHAKEDOWN GATE, NOT `q3-a1`.**
 > Quaestio II, Articulus II, **pp. 63–68**, Tier 2, built 2026-09-06 — the work's fourth chunk and
 > the close of Quaestio II. Twenty arguments that unity of nature and trinity of persons are
 > incompossible (one marginale, `Ad oppositum.`, for the whole run), an opposing series in **one**

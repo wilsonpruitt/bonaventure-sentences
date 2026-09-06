@@ -1,6 +1,6 @@
 # Bonaventure Sentences — Project Guide for Claude
 
-You are working on an English translation of **St. Bonaventure's *Opera Omnia*** (Quaracchi edition, 1882–1902). Status (2026-09-06): **Books I–IV are complete and published** (Vols I–IV, all Tier 2). The active front is **Vol V**, where the Breviloquium, Itinerarium, De reductione, the Collationes in Hexaemeron, the *Collationes de septem donis*, the *Collationes de decem praeceptis* and the **QD de scientia Christi** (pp. 3–43, seven quaestiones, shakedown + work-close gates closed, **pushed and DEPLOYED 2026-09-05**) are ALL COMPLETE. **The next work is the *QD de mysterio Trinitatis*, pp. 45–115** — its **mini-pilot is FROZEN 2026-09-05** (§ MYSTERIO TRINITATIS below; evidence in `manual-review/mysterio-trinitatis-pilot-scouting.md`): **fifteen chunks, one per articulus** (`bon-qmt-q{1..7}-a{1,2}` + `bon-qmt-q8`), settled on Quaracchi's own 26 internal `q. N. a. N.` cross-references. **`bon-qmt-q1-a1` (pp. 45–51, 54 entries), `bon-qmt-q1-a2` (pp. 51–58, 53 entries) and `bon-qmt-q2-a1` (pp. 59–63, 29 entries) are BUILT (zero `[?]` in all three), closing Quaestio I and opening Quaestio II; the front is `bon-qmt-q2-a2` (pp. 63–67), which closes q. 2 and is the last chunk before the SHAKEDOWN GATE at p. 67.** Deploy boundary is the work close at p. 115. The live site is https://bonaventure.wrootpress.com. Always defer to `next-session-resume.md` for the exact current position.
+You are working on an English translation of **St. Bonaventure's *Opera Omnia*** (Quaracchi edition, 1882–1902). Status (2026-09-06): **Books I–IV are complete and published** (Vols I–IV, all Tier 2). The active front is **Vol V**, where the Breviloquium, Itinerarium, De reductione, the Collationes in Hexaemeron, the *Collationes de septem donis*, the *Collationes de decem praeceptis* and the **QD de scientia Christi** (pp. 3–43, seven quaestiones, shakedown + work-close gates closed, **pushed and DEPLOYED 2026-09-05**) are ALL COMPLETE. **The next work is the *QD de mysterio Trinitatis*, pp. 45–115** — its **mini-pilot is FROZEN 2026-09-05** (§ MYSTERIO TRINITATIS below; evidence in `manual-review/mysterio-trinitatis-pilot-scouting.md`): **fifteen chunks, one per articulus** (`bon-qmt-q{1..7}-a{1,2}` + `bon-qmt-q8`), settled on Quaracchi's own 26 internal `q. N. a. N.` cross-references. **FOUR of fifteen are BUILT and QUAESTIONES I–II ARE COMPLETE (pp. 45–68, 176 apparatus entries, zero `[?]` in all four): `bon-qmt-q1-a1` (45–51, 54) · `bon-qmt-q1-a2` (51–58, 53) · `bon-qmt-q2-a1` (59–63, 29) · `bon-qmt-q2-a2` (63–68, 40). The SHAKEDOWN GATE IS CLOSED at p. 68 (2026-09-06, `manual-review/vol5-mysterio-trinitatis-shakedown-gate.md`) — ZERO defects in scope, both carried questions ruled. The front is `bon-qmt-q3-a1`, index span 68–73, whose END must be fixed on the plate first.** Deploy boundary is the work close at p. 115. The live site is https://bonaventure.wrootpress.com. Always defer to `next-session-resume.md` for the exact current position.
 
 This file is loaded into every Claude Code session in this repo. Read it before making changes to translation files or the build pipeline.
 
@@ -277,7 +277,7 @@ Vols V–X (2026-07-28).**
 |---|---|---|---|---|---|
 | 1 | Prolegomena | I–XL+ | — | — | NOT chunked (editorial apparatus, like INDEX QUAESTIONUM) |
 | 2 | QD de scientia Christi | **3–43** | `scientia-christi` | 8 | **COMPLETE 2026-09-05 — all 7 quaestiones Tier 2; shakedown + work-close gates CLOSED, pushed and DEPLOYED (verified live).** Mini-pilot frozen 2026-08-31 (7 quaestiones, no articuli, no scholia; p. 1 half-title covers all THREE QD, p. 2 blank 0.0013 %, p. 44 blank 0.0008 %, **no `EXPLICIUNT` colophon**). |
-| 3 | QD de mysterio Trinitatis | **45–115** | `mysterio-trinitatis` | 9 | **ACTIVE — mini-pilot FROZEN 2026-09-05** (§ MYSTERIO TRINITATIS below). **8 quaestiones / 14 articuli / Q. VIII undivided → FIFTEEN chunks, one per articulus**; no half-title (p. 44 blank 0.0007 %), no scholia, no Summarium, **no colophon** (ends p. 115, p. 116 blank). **3 of 15 built — Quaestio I complete (pp. 45–58), Quaestio II open (Art. I at pp. 59–63).** |
+| 3 | QD de mysterio Trinitatis | **45–115** | `mysterio-trinitatis` | 9 | **ACTIVE — mini-pilot FROZEN 2026-09-05** (§ MYSTERIO TRINITATIS below). **8 quaestiones / 14 articuli / Q. VIII undivided → FIFTEEN chunks, one per articulus**; no half-title (p. 44 blank 0.0007 %), no scholia, no Summarium, **no colophon** (ends p. 115, p. 116 blank). **4 of 15 built — Quaestiones I–II COMPLETE (pp. 45–68); shakedown gate CLOSED at p. 68, zero defects.** |
 | 4 | QD de perfectione evangelica | 117–198 | `perfectione-evangelica` | 10 | planned. ⚠ **NO half-title leaf expected** — same three-work half-title; fix p. 117 on the plate. |
 | 5 | **Breviloquium** | 199–291 | `breviloquium` | 5 | **COMPLETE — gated + deployed 2026-08-01** |
 | 6 | **Itinerarium mentis in Deum** | 293–316 | `itinerarium` | 6 | **COMPLETE 2026-08-14 — all 10 chunks Tier 2; work-close gate + deploy due** |
@@ -1284,6 +1284,15 @@ Raw band **L10048 → L16033**.
      it in a translator's note. ⚠ **ONE STANDING EXEMPTION: Ps. 35:10 *In lumine tuo videbimus
      lumen* keeps "In thy light we shall see light"** (received Psalter wording at a scriptural
      quotation boundary). It is the only *lumen* in the work rendered "light"; **do not "fix" it.**
+     ★★ **THE EXEMPTION NOW HAS A TEST (mysterio Trinitatis shakedown gate, Wilson 2026-09-06):**
+     *a received scriptural wording is exempt only where the verse is quoted AS A VERSE and no
+     surrounding body prose leans on the term.* ▶ **Applied: Ps. 4:7 *Signatum est super nos lumen
+     vultus tui* KEEPS "lumen"** at both its attestations (`bon-qmt-q1-a1` p. 50 n. 2 and
+     `bon-qmt-q1-a2` p. 55 n. 9), **although the Douay wording is just as recognisable as
+     Ps. 35:10's** — because at p. 55 n. 9 the note is the anchor for the body's own *lumen divini
+     vultus* five words later, on which the whole *Respondeo* turns. Exempting it would either split
+     the note from its own body text or push "light" into doctrinal prose. ⛔ **Ruled at two
+     attestations with the load-bearing one in view; do not re-raise it in a later chunk.**
   3. **The `contuit-` family RATIFIED for `q4`** (*contuita* → "contuited", *contuibilis* →
      "contuitable"); **the `q1` repair was DECLINED** — `bon-qsc-q1` keeps *contuitum* →
      "intuition." ⚠ **Consequence, recorded so it is not re-found as a new defect:** the work still
@@ -1630,9 +1639,20 @@ plate**; a blankness number is a screen, the plate is the evidence.
   on the plate; the raw band is the reliable half of the prediction, the page range is not.
   ⭐ **BOUNDARY 1 (p. 51) MEASURED: it FORWARDS, split 5/1.** Art. I's replies 9–13 fill both
   columns to ~72 %, then `ARTICULUS II.` stands full-measure mid-leaf and Art. II's opening plus
-  arg. 1 begin on the same leaf; n. 6 answers Art. II's *Matthaei ultimo*⁶. ⛔ **The other
-  THIRTEEN boundaries are UNMEASURED — re-ask the p. 498 rule on the plate at each.** Work 2
-  answered "yes" five times and "no" once, and no two of its six splits were alike.
+  arg. 1 begin on the same leaf; n. 6 answers Art. II's *Matthaei ultimo*⁶.
+  ⭐ **BOUNDARY 2 (p. 58) MEASURED: it does NOT forward — the only LEAF EDGE so far.** Art. II closes
+  two-fifths down p. 58's right column, the rest of the leaf is white, and `QUAESTIO II.` opens on
+  p. 59 (raw L18089); `q1-a2` owns all seven of p. 58, `q2-a1` all five of p. 59, nothing inherited.
+  ⭐ **BOUNDARY 3 (p. 63) MEASURED: it FORWARDS, split 2/8.** ⭐ **BOUNDARY 4 (p. 68) MEASURED: it
+  FORWARDS, split 1/4** — n. 1 is `q2-a2`'s, nn. 2–5 forward to `q3-a1`, and n. 5 (Avicenna/Algazel)
+  runs over the gutter into `q3-a1`'s ledger line. **The split was taken by BODY ANCHOR, not by block
+  position** — p. 68's whole left footer block sits under Quaestio III's opening columns.
+  ⛔ **The other TEN boundaries are UNMEASURED — re-ask the p. 498 rule on the plate at each.** Work 2
+  answered "yes" five times and "no" once, and no two of its six splits were alike; this work is
+  3 forwarding / 1 leaf edge, with split ratios 5/1, 2/8 and 1/4. **The ratio carries no rule.**
+  ★★ **A LEAF-EDGE SEAM IS THE DANGEROUS CLASS, AND BEING MEASURED IS WHAT MAKES IT SAFE**
+  (shakedown gate, 2026-09-06): p. 58 is the exact shape the index gets wrong, and it is right here
+  only because `q1-a2` put the p. 498 rule to the plate rather than to the index.
 - **⛔ p. 51 n. 1 PRINTS WITHOUT ITS NUMERAL, and the plate and the raw agree.** The register's
   first entry (`Cfr. III. Sent. d. 23. a. 1. q. 4.`) is indented like any entry and carries no
   superscript at 3×; the raw likewise gives it no marker glyph where all five others have one.
@@ -1683,6 +1703,22 @@ plate**; a blankness number is a screen, the plate is the evidence.
      on a pattern bug. **Run a stem census on the STEM (`vaca`), never on a list of inflections**,
      and when a search comes back empty while the text is plainly doing the thing, **the search is
      wrong.**
+- ★★ **FAILING IMPRESSION vs COMPOSITOR'S BLANK — a two-part rule, RATIFIED (Wilson, 2026-09-06 at
+  the shakedown gate). Corpus-general, not this work's.** When letters are missing from a printed
+  line, **locate the defect by the FLANKING letters, not by the gap**:
+  · flanking letters at **full strength** on either side = the forme never carried the letters
+  (dropped or broken type) → **reproduce the gap and NEVER fill it** (p. 58 n. 6's blank inside a
+  Vulgate quotation; p. 59's *ean-dem* in body text);
+  · flanking letters **lighter than the rest of their own line**, sloping off and recovering across a
+  few characters = the type was set and **this copy** failed to take it → **restore in square
+  brackets, disclosed, where the reading is determinate from evidence on the same page**
+  (`q2-a2`'s *rebu[s], si[mili]a* · *plura[lit]as* · *excl[ud]it*).
+  ⚠ **Determinacy is the limit of the restoration:** the em-dash that failed to print before
+  `tom. III.` on p. 63 was correctly NOT supplied, because only house usage would supply it. Restore
+  what the surviving traces plus a same-page control decide; reproduce everything else.
+  ⛔ **This class is NOT new — `bon-brev-p7-c7` p. 291 n. 7 (deployed) ruled it first**, restoring
+  `sit plenu[m]`, `[M]ulti codd.`, `[origin]alis` on the same reasoning: *a defect in the photograph
+  is not a defect in Quaracchi.* **Before naming a defect class new, sweep the corpus for it.**
 - **Marginalia DENSE, one per argument or reply** (p. 45: `Triplex via.`, `Via prima.`,
   `Fundamenta.`; p. 51: `Certitudo duplex.`, `Notandum.` ×3, `Tres gradus in notitia.`,
   `De ratione meritorii in fide Dei.`, `De debito credendi.`, `Fundamenta.`) — trimmed from the
