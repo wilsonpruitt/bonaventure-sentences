@@ -1621,6 +1621,13 @@ plate**; a blankness number is a screen, the plate is the evidence.
   q7-a1 **106–109** · q7-a2 **109–111** · q8 **112–115**. Headers at raw L16054/16058 · 17009 ·
   18089/18107 · 18701 · 19462/19477 · 20251 · 21029/21063 · 21831 · 22322/22336 · 23105 ·
   23648/23685 · 24533 · 25101/25119 · 25571 · 26000.
+  ⚠⚠ **AND THE INDEX'S LAST PAGE IS NOT THE UNIT'S LAST PAGE — MEASURED 2026-09-06 at q2-a2.**
+  The index gives `q2-a2 63–67` and `q3-a1 68–73`; **q2-a2 in fact runs to p. 68**, whose first
+  fifth carries replies 18–20 before `QUAESTIO III.` stands full measure on the same leaf. The
+  index's last page is the page on which the NEXT unit's heading falls, which says nothing about
+  where the previous unit ends. **A span wrong by one leaf silently loses a page of body AND its
+  share of a footer register, and the chunk still parses clean.** Re-derive the END of every span
+  on the plate; the raw band is the reliable half of the prediction, the page range is not.
   ⭐ **BOUNDARY 1 (p. 51) MEASURED: it FORWARDS, split 5/1.** Art. I's replies 9–13 fill both
   columns to ~72 %, then `ARTICULUS II.` stands full-measure mid-leaf and Art. II's opening plus
   arg. 1 begin on the same leaf; n. 6 answers Art. II's *Matthaei ultimo*⁶. ⛔ **The other
@@ -1687,7 +1694,7 @@ plate**; a blankness number is a screen, the plate is the evidence.
   `scientia-christi` branch alone. **Ordering inside a division already works**: `build-content.mjs`
   sorts on `articulus` ahead of `section`/`capitulum`. Divisions go in ONE AT A TIME as each chunk
   lands, subtitle verified word for word on the plate.
-- **Cadence: TWO gates.** **Shakedown at the close of q. 2 (p. 67, four chunks / 23 printed pp.)**
+- **Cadence: TWO gates.** **Shakedown at the close of q. 2 (p. 68 — measured, NOT p. 67; four chunks / 24 printed pp.)**
   — trigger 3's 15–25 pp seam; and the **work-close gate at p. 115** — trigger 2, unconditional.
   Trigger 1 (~100 pp) does not fire inside the work. ⚠ **Carry in from work 2's gate:** *a prior
   gate's false-positive list is not a filter for the next work's*, and **`build-citations.py` does
@@ -1852,6 +1859,62 @@ plate**; a blankness number is a screen, the plate is the evidence.
   contextum *Scripturae*`, where Quaracchi prints *creaturae* and the next paragraph expounds it.
   ⛔ *lux*/*lumen* do not occur in these five leaves, so ruling 2 is not exercised and **the Ps. 4:7
   question stands at two attestations, still the shakedown gate's to settle.**
+
+- **✅ `bon-qmt-q2-a2` IS BUILT (pp. 63–68, 40 entries, zero `[?]`, 2026-09-06) — QUAESTIO II IS COMPLETE.**
+  Twenty arguments that unity of nature and trinity of persons are incompossible (one marginale for
+  the whole run, `Ad oppositum.`), an opposing series in **one** declared run (`Sed obiicitur in
+  contrarium auctoritate et ratione; auctoritate sic`, marginale `Fundamenta.`, ten arguments),
+  `CONCLUSIO` **in-column**, a *Respondeo* in **two declared notanda** (how *persona* and *natura*
+  are notified; how each is related to production), and twenty replies. Registry untouched —
+  division 2 was already in. Five things it settles:
+  **(a) ⚠⚠⚠ THE INDEX SPAN WAS SHORT BY A LEAF, AND THE RAW BAND WAS NOT.** See the boundary note
+  above. `q2-a2` = **63–68**, `q3-a1` opens on the shared p. 68. The banked raw range
+  (L18701→L19461) was exact; the page range was not, because an index span's last page is the next
+  unit's *heading* page. **Fix the END of a span on the plate before extracting plates for it** —
+  this one cost a second `extract-pages` run and would have cost a whole page of body and a footer
+  entry if the raw had not been walked to its end.
+  **(b) ⭐⭐⭐ THE TARGET'S TITLE BEAT THE GLYPH FIVE TIMES.** Nine outbound citations resolve into
+  the deployed Vols I and III and every one lands on a chunk whose own `title_la` is the note's
+  subject: `I. Sent. d. 26. q. 1.` = *Utrum in divinis ponendae sint proprietates personarum* on an
+  anchor reading *sine pluralitate proprietatum*; `d. 25. a. 1. q. 1.` = *Utrum nomen persona in
+  divinis dicatur secundum substantiam, an secundum relationem*, **which is argument 9's own
+  question**; `III. Sent. d. 24. a. 1. q. 3.` = *Utrum fides sit circa complexum, an circa
+  incomplexum* on a reply that turns on nothing else. **Five raw readings were overturned by the
+  target rather than by the type** (`d. 23`→**25**, `d. 3`→**5** twice, `d. o.`→**5**,
+  `d. 26 … ad i.`→**d. 25 … ad 3.**), and a sixth by opening our own p. 32 n. 5 (`nota 3`→**5**).
+  ⭐ `build-citations.py` returns **34 records from this chunk, ZERO dangling, ZERO unresolvable,
+  ZERO ambiguous** — the cleanest resolution profile of any chunk in the work.
+  **(c) ⚠⚠ A NEW DEFECT CLASS: THE IMPRESSION FAILS, AND IT IS NOT A COMPOSITOR'S BLANK.** Three
+  sites lose letters — p. 63 n. 10 (*rebu[s], si[mili]a*, plus a broken `0` in `nota 10.` and an
+  em-dash that did not print at all), p. 64 arg. 19 (*plura[lit]as*), p. 66 reply 3 (*exclᵘᵈit*,
+  only the ascenders of *ud* surviving). **The diagnostic is the NEIGHBOURS, not the gap**: on
+  p. 59 the letters flanking the gap printed at full strength, which is dropped type; here they are
+  visibly lighter than the rest of their own line, which is a failing impression. **The two call for
+  opposite treatment** — a compositor's blank is reproduced and never filled; a failing impression
+  *did* set the letters, and the honest rendering restores them **in square brackets** with the
+  evidence stated. Both are disclosed, neither is silent.
+  **(d) ⭐ BOUNDARY 4 (p. 68) MEASURED: IT FORWARDS, AND THE REGISTER SPLITS 1/4.** p. 68 n. 1
+  (`In codd., A excepto, desideratur cum`) anchors at *…cum*¹ four words into the leaf's first line,
+  inside reply 18; nn. 2–5 forward to `q3-a1`. ⚠ **The split was taken by body anchor, not by block
+  position** — the whole left footer block sits under Quaestio III's columns.
+  **(e) ⚠⚠ `colcrop.py`'s DEFAULT RETURNED A SUB-60 px RUN ON ALL SIX LEAVES AND WAS WRONG ON TWO.**
+  p. 66 default **1334/35 px**, true **1327**; p. 67 default **1262/39 px**, true **1253** (its
+  centre rule peaks at **487**, the most heavily inked on the span). The other four agree within
+  2 px. Gutters: 63 **1135** (carried) · 64 **1440** · 65 **1192** · 66 **1327** · 67 **1253** ·
+  68 **1342**. **Profiling accepted four and corrected two — a narrow run is a reason to profile,
+  never by itself a reason to reject.**
+  ⚠ **Three smaller printing defects recorded as printed:** p. 65 n. 1 sets `I. Homil in Evang.`
+  without its abbreviating point while the second *homil.* on the same line has one; **p. 67 n. 8
+  ends on an em-dash with nothing after it** (and it is NOT a page-crossing runover — p. 68 opens
+  with a fresh n. 1); and the marginale `Alia solutio` on p. 66 prints without its final point,
+  alone among the span's thirty-two. ⭐ **The opener prints *personae* where the subtitle prints
+  *personarum*, and p. 63 n. 8 records a variant of exactly that shape** (`In fine arg. cum G
+  posuimus personarum pro personae`) — so neither was harmonised to the other.
+  ⭐ Two gutter runovers (p. 66 n. 4, p. 67 n. 4), none page-crossing. **Marginalia 32, and the
+  solution-heavy split is now total:** pp. 63–64 carry thirty arguments and **two** marginalia;
+  pp. 65–68 carry the *Conclusio*, the *Respondeo* and the twenty replies and hold **thirty**.
+  ⛔ *lux*/*lumen* do not occur in these six leaves either, so **the Ps. 4:7 question reaches the
+  shakedown gate at exactly the two attestations `q1-a1` and `q1-a2` gave it.**
 
 
 ### Vol V mechanics

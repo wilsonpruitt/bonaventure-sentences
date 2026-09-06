@@ -1,5 +1,125 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **`bon-qmt-q2-a2` IS LANDED. QUAESTIO II IS COMPLETE. THE NEXT DISPATCH IS THE SHAKEDOWN GATE, NOT `q3-a1`.**
+> Quaestio II, Articulus II, **pp. 63–68**, Tier 2, built 2026-09-06 — the work's fourth chunk and
+> the close of Quaestio II. Twenty arguments that unity of nature and trinity of persons are
+> incompossible (one marginale, `Ad oppositum.`, for the whole run), an opposing series in **one**
+> declared run (*Sed obiicitur in contrarium auctoritate et ratione; auctoritate sic*, marginale
+> `Fundamenta.`, ten arguments), `CONCLUSIO` in-column, a *Respondeo* in **two declared notanda**
+> (how *persona* and *natura* are notified; how each is related to production), and **twenty
+> replies**. **40 apparatus entries** (p. 63 nn. 3–10 INHERITED · 64 twelve · 65 five · 66 six ·
+> 67 eight · **68 n. 1 of five**), **zero `[?]` flags**. Registry untouched — division 2 was already
+> in. Conventions: repo `CLAUDE.md` § **MYSTERIO TRINITATIS** — **that block is authoritative, this
+> is a pointer.** Committed locally, **not pushed, not deployed** — deploy boundary is the work
+> close at p. 115.
+>
+> ## ⚠⚠⚠ THE THING THIS CHUNK FOUND, AND IT CHANGES THE NEXT ELEVEN SPANS
+> **THE INDEX-DERIVED SPAN WAS SHORT BY A LEAF.** `CLAUDE.md` gave `q2-a2 63–67` and
+> `q3-a1 68–73`; **q2-a2 runs to p. 68**, whose first fifth carries replies 18–20 before
+> `QUAESTIO III.` stands full measure on the same leaf. The banked **raw** range (L18701→L19461)
+> was exact — it is the **page** range that was wrong, because *an index span's last page is the
+> page on which the NEXT unit's heading falls, and that says nothing about where the previous unit
+> ends.* ⚠ A span wrong by one leaf loses a page of body **and its share of a footer register**, and
+> the chunk still parses clean and passes every audit. ▶ **Consequence for every remaining span in
+> this work: fix the END on the plate BEFORE extracting plates**, or you extract the wrong set and
+> pay for it twice. ⚠ **And the gate moved with it: the shakedown seam is p. 68, not p. 67**
+> (four chunks / **24** printed pp., still inside trigger 3's 15–25 pp).
+>
+> ## ▶▶▶ FRONT = **THE SHAKEDOWN GATE** at Quaestio II's close (pp. 45–68, four chunks)
+> Trigger 3's 15–25 pp seam. `CLAUDE.md` § **Polish-gate cadence for Vols V–X** has the four passes;
+> run them in order and log to `manual-review/`. **Do NOT start `q3-a1` before the gate** — the
+> frozen cadence makes the gate the next dispatch, and this work has now produced four chunks'
+> worth of findings that the gate exists to test.
+> ⭐ **Three things this span hands the gate specifically:**
+> 1. **The Psalm 4:7 / ruling-2 question, at exactly two attestations** (`q1-a1` p. 50 n. 2 and
+>    `q1-a2` p. 55 n. 9, the second load-bearing). ⛔ *lux*/*lumen* occur in **neither** `q2-a1`'s
+>    five leaves nor `q2-a2`'s six, so the count has not moved and **the gate still owns it.**
+> 2. **The new impression-failure class** (below) — three sites in one chunk, and the question the
+>    gate should settle is whether the bracketed-restoration treatment is right or whether the
+>    p. 59 reproduce-the-gap treatment should govern both.
+> 3. **The span-end failure above** — worth a pass-3 check that no earlier Vol V chunk was built to
+>    an index span's last page without measuring it.
+>
+> ## ⭐⭐⭐ WHAT `q2-a2` ADDS — FOUR THINGS
+> **(a) ⭐⭐⭐ THE TARGET'S TITLE BEAT THE GLYPH FIVE TIMES, AND THE RAW NEVER BEAT THE PLATE.**
+> Nine outbound citations resolve into the deployed Vols I and III and **every one lands on a chunk
+> whose own `title_la` is the note's subject**: `I. Sent. d. 26. q. 1.` = *Utrum in divinis ponendae
+> sint proprietates personarum*, on an anchor reading *sine pluralitate proprietatum*;
+> `d. 25. a. 1. q. 1.` = *Utrum nomen persona in divinis dicatur secundum substantiam, an secundum
+> relationem* — **argument 9's own question**; `III. Sent. d. 24. a. 1. q. 3.` = *Utrum fides sit
+> circa complexum, an circa incomplexum*, and reply 15 turns on nothing else; `I. Sent. d. 5. a. 1.`
+> = *Utrum substantia sive essentia generet*, which is the *suppositi est agere* doctrine exactly.
+> **Five raw readings were overturned by the target, not by the type** (`d. 23`→**25** · `d. 3`→**5**
+> twice · `d. o.`→**5** · `d. 26 … ad i.`→**d. 25 … ad 3.**), and a sixth by opening our own
+> **p. 32 n. 5** (`nota 3`→**5**: p. 32 n. 5 IS the Bernard *de Consideratione* V.8 note naming
+> *unitas Trinitatis… quae arcem tenet inter omnes unitates*, the exact sentence the anchor quotes;
+> p. 32 n. 3 is an Augustine note and cannot be it). **Sixteen raw-vs-plate defects in all.**
+> ⭐ `build-citations.py`: **34 records, ZERO dangling, ZERO unresolvable, ZERO ambiguous** — the
+> cleanest resolution profile in the work.
+> **(b) ⚠⚠ A NEW DEFECT CLASS: THE IMPRESSION FAILS, AND IT IS NOT A COMPOSITOR'S BLANK.**
+> Three sites lose letters — **p. 63 n. 10** (*rebu[s], si[mili]a*, plus a broken `0` in `nota 10.`
+> and **an em-dash that did not print at all**), **p. 64 arg. 19** (*plura[lit]as*), **p. 66 reply 3**
+> (*exclᵘᵈit*, only the ascenders of *ud* surviving). ⭐⭐ **The diagnostic is the NEIGHBOURS, not the
+> gap.** On p. 59 the letters flanking the gap printed at full strength — dropped type. Here the
+> flanking letters are visibly **lighter than the rest of their own line** — a failing impression,
+> sloping off and recovering across a few characters. **The two demand opposite treatment**: a
+> compositor's blank is reproduced and never filled; a failing impression *did* set the letters, so
+> the honest rendering restores them **in square brackets** with the evidence stated. Both
+> disclosed, neither silent. ⚠ `nota 10.` is the weakest of the three (the raw independently gives
+> the same broken shape, which is evidence about the copy, not about the number).
+> **(c) ⭐ BOUNDARY 4 (p. 68): IT FORWARDS, AND THE REGISTER SPLITS 1/4.** p. 68 n. 1
+> (`In codd., A excepto, desideratur cum`) anchors at *…cum*¹ four words into the leaf's first line,
+> inside reply 18. nn. 2–5 forward to `q3-a1`; **n. 2 is `Cap. 6. n. 13: Te simplicius quidquam non
+> reperitur` etc., answering `Augustinus, secundo Confessionum`² in Quaestio III's argument 1**, and
+> **n. 5 (Avicenna/Algazel) runs over the gutter** — that runover belongs to `q3-a1`'s ledger line,
+> not this one. ⚠ **The split was taken by body anchor, not by block position**: the whole left
+> footer block of p. 68 sits under Quaestio III's opening columns.
+> **(d) ⚠⚠ ALL SIX LEAVES RETURNED A SUB-60 px RUN FROM `colcrop.py`'s DEFAULT, AND TWO WERE WRONG.**
+> p. 66 default **1334 on a 35 px run**, true **1327** (band 1301–1354, rule at 1321–1326, peak 160);
+> p. 67 default **1262 on a 39 px run**, true **1253** (band 1224–1283, rule at 1251–1257, **peak
+> 487** — the most heavily inked on the span). The other four agree with the band midpoint within
+> 2 px. Gutters: 63 **1135** (carried) · 64 **1440** · 65 **1192** · 66 **1327** · 67 **1253** ·
+> 68 **1342**. **The centre rule stands inside the blank band on all six and no leaf is the
+> exception.**
+>
+> ## ⚠ SMALLER THINGS, ALL RECORDED AS PRINTED
+> **p. 65 n. 1** sets `I. Homil in Evang.` **without its abbreviating point** while the second
+> *homil.* on the same line has one (plate at 6× and raw agree) · **p. 67 n. 8 ends on an em-dash
+> with nothing after it** — ⚠ **not** a page-crossing runover, since p. 68's register opens with a
+> fresh numbered n. 1 and nothing stands above it · **the marginale `Alia solutio` on p. 66 prints
+> without its final point**, alone among the span's thirty-two · **the opener prints *personae*
+> where the subtitle prints *personarum*, and neither was harmonised** — p. 63 n. 8 records a
+> variant of exactly that shape (`In fine arg. cum G posuimus personarum pro personae`), so the
+> editors were watching this alternation on this very leaf.
+> ⭐ **A near-miss worth keeping: on p. 66 a mark after *nomen trinitatis* reads as an anchor in the
+> raw and at 1.9×, which would have made seven anchors on a six-note page. At 6× it is a COMMA**
+> whose tail is clipped by the line below. **Count anchors and register entries both ways on every
+> leaf; a mark is not an anchor until the register has a seat for it.** And **p. 66 n. 3's ownership
+> was fixed by CONTENT** — both halves of the note (`E addit quod obiicitur` · `post Alia ratio A B E
+> subiungunt quae`) quote reply 4, which is what makes the `Ad aliud`³ anchor certain.
+>
+> ## ▶ NUMBERS, DERIVED AFTER `q2-a2`
+> `check-vol5-apparatus.py` **141 chunks / 2,952 entries, all passed**; pp. 64–68 added to
+> `KNOWN_TOTALS` (**68 carried as 5 with nn. 2–5 PENDING**), and p. 63's PENDING cleared.
+> `check-vol5-census.py` **141/141, rosters agree**, **199 runovers (178 gutter-crossing, 21
+> page-crossing)** — `q2-a2` adds two gutter runovers (p. 66 n. 4, p. 67 n. 4) and no page-crossing
+> one. ⚠ **append to the ledger with COMMAS, never semicolons.**
+> `check-live-flags.py` **237 corpus-wide, `bon-qmt-*` contributes ZERO**.
+> `polish-style-scan --volume 5` **CLEAN in scope** (the one item is `bon-hex-c23`'s documented
+> deliberate label). `build-citations.py` **34 records from this chunk, ZERO dangling / unresolvable
+> / ambiguous**, QA total unchanged at **201**; `build-index-json.py` was run after the rebuild.
+> `build-content.mjs` **12 books, 2,092 questions**; the chunk renders as `Quaest. 2, Art. 2` with
+> its 40 entries.
+>
+> ## ▶ STILL OWED — WILSON'S CALL, unchanged
+> Pass 4 of the *scientia Christi* gate: `raw/vision/vol5/p-037..043.png` + `/tmp/colcrop/*`,
+> ~138 MB of regenerable leftovers; the deletion was refused by the session permission classifier.
+> ⚠ pp. 44–68 and 115–116 are now in `raw/vision/vol5/` and pp. 63–68 are IN USE by the gate.
+
+---
+
+
+> # (superseded by `bon-qmt-q2-a2`, 2026-09-06) previous START HERE
 > # ▶▶▶ START HERE — **`bon-qmt-q2-a1` IS LANDED. THE FRONT IS `bon-qmt-q2-a2` (pp. 63–67).**
 > Quaestio II, Articulus I, **pp. 59–63**, Tier 2, built 2026-09-06 (`f1a89db`) — the work's third
 > chunk. It opens **QUAESTIO II** as well as its Articulus I and carries **both display headings,
