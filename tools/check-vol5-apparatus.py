@@ -156,6 +156,19 @@ KNOWN_TOTALS = {
     68: 5,   # n.1 ONLY is q2-a2's (anchor in reply 18 at `cum` on the leaf's
              # first line); QUAESTIO III opens full measure mid-leaf and nn.2-5
              # are FORWARDED to bon-qmt-q3-a1. n.5 runs over the gutter (q3-a1's)
+    69: 9,   # all nine are q3-a1's. n.4 (`Quaest. 2. a. 1.`) is the internal
+             # cross-reference that names bon-qmt-q2-a1 by its own subject
+    70: 7,   # all seven are q3-a1's. n.7 (`Quaest. 4. a. 1.`) is a FORWARD
+             # internal cross-reference into a chunk not yet built
+    71: 5,   # all five are q3-a1's. An ink SMEAR crosses two lines of the left
+             # block; the type is present under it, so nothing is bracketed --
+             # nn.1's digits were recovered from the cited targets
+    72: 5,   # all five are q3-a1's. nn.4 and 5 SHARE ONE PRINTED LINE, so the
+             # leaf shows four register lines for five entries
+    73: 6,   # nn.1-4 ONLY are q3-a1's (n.1 anchors at the leaf's first word,
+             # n.4 at the article's last); ARTICULUS II opens full measure
+             # mid-leaf and nn.5-6 are FORWARDED to bon-qmt-q3-a2. n.2 runs
+             # over the gutter (q3-a1's)
     205: 8,
     206: 11,
     207: 8,
