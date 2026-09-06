@@ -130,6 +130,18 @@ KNOWN_TOTALS = {
              # (left) and the gathering signature `8` (right) are NOT apparatus
     58: 7,   # nn.1-3 left, 4-7 right; no runover. Article II closes mid-leaf
              # and QUAESTIO II opens on p.59, so nothing is forwarded
+    59: 5,   # nn.1-2 left, 3-5 right; n.2 runs over the gutter. QUAESTIO II and
+             # ARTICULUS I both open here, full measure across both columns;
+             # neither heading nor either subtitle is anchored. Five body
+             # anchors, five entries.
+    60: 7,   # nn.1-5 left, 5-7 right; n.5 runs over the gutter
+    61: 8,   # nn.1-5 left, 5-8 right; n.5 runs over the gutter. nn.1, 6 and 8
+             # are back-references to pp. 13, 50 and 23, all three confirmed
+             # against the built chunks
+    62: 7,   # nn.1-2 left, 3-7 right; no runover
+    63: 10,  # nn.1-2 ONLY are q2-a1's (anchors in reply 9 and reply 10);
+             # ARTICULUS II opens full measure mid-leaf and nn.3-10 are
+             # FORWARDED to bon-qmt-q2-a2
     205: 8,
     206: 11,
     207: 8,

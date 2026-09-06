@@ -409,6 +409,7 @@ const WORKS = {
     divisionLabel: "Quaestiones",
     divisions: {
       1: "Quaestio I: De certitudine, qua existentia Dei cognoscitur, et de fide, qua eiusdem Trinitas creditur",
+      2: "Quaestio II: Utrum possit simul stare trinitas personarum cum naturae unitate",
     },
   },
   // Future Vol V works claim book ids here as their mini-pilots run:
