@@ -1,6 +1,117 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — **THE MYSTERIO TRINITATIS SHAKEDOWN GATE IS CLOSED. THE FRONT IS `bon-qmt-q3-a1`.**
+> # ▶▶▶ START HERE — **`bon-qmt-q3-a1` IS LANDED. THE FRONT IS `bon-qmt-q3-a2`, index span 73–78.**
+> Quaestio III, Articulus I, **pp. 68–73**, Tier 2, built 2026-09-06 — the work's fifth chunk,
+> **5 of 15**. Ten arguments that the divine *esse* is most simple (marginale `Fundamenta.`), a
+> **`Contra` series of fourteen** (marginale `[A]d oppositum.`), `CONCLUSIO` in-column, a
+> *Respondeo* in **two declared members** (the perfection of the divine conditions; the modes of our
+> considerations), and **fourteen numbered replies plus ONE UNNUMBERED**. **34 apparatus entries**
+> (p. 68 nn. 2–5 INHERITED · 69 nine · 70 seven · 71 five · 72 five · **73 nn. 1–4 of six**),
+> **zero `[?]` flags**. Conventions: repo `CLAUDE.md` § **MYSTERIO TRINITATIS** — **that block is
+> authoritative, this is a pointer.** Committed locally (`379bfef`), **not pushed, not deployed** —
+> the deploy boundary is still the work close at p. 115.
+>
+> ## ⭐ THE STANDING ORDER WAS FOLLOWED AND IT PAID
+> `q2-a2` left the order **fix the END on the plate BEFORE extracting plates**. p. 73 alone was
+> extracted and read first; **the index span 68–73 is right this time**, and `ARTICULUS II.` stands
+> full measure about three-fifths down p. 73. ⚠ **Being right is not the same as being known to be
+> right** — the order costs one page extraction and it is what makes the span safe.
+> ⭐ **BOUNDARY 5 (p. 73) MEASURED: it FORWARDS, split 4/2.** nn. 1–4 are `q3-a1`'s (n. 1 anchors at
+> the leaf's FIRST WORD, reply 10's *…ad af-* | *fectum*¹; n. 4 at the article's last word); **nn. 5–6
+> forward to `q3-a2`** — n. 5 (*Quod praeter formam sive naturam includit suppositum*) answers Art.
+> II's arg. 1, n. 6 (Aristot. *Metaph.* V) answers arg. 2. **n. 2 runs over the gutter** (in `q3-a1`'s
+> ledger line). ▶ **Five boundaries measured now, in four shapes: 5/1 · LEAF EDGE · 2/8 · 1/4 · 4/2.**
+>
+> ## ⚠⚠ A THIRD DEFECT CLASS — AN INK SMEAR, AND IT IS NEITHER OF THE TWO THE GATE RULED
+> The gate froze: flanking letters at full strength → **reproduce, never fill**; lighter than their own
+> line → **restore in square brackets**. **p. 71 is neither.** A heavy black stroke lies *across* two
+> lines of the left register (n. 1's citation chain, n. 2's *verius est, quam cogitatur*), and the raw
+> returns garbage at exactly those two places. **The type is PRESENT under the ink, not absent from the
+> page** — ink added, not lost — so nothing is bracketed and nothing is reproduced as a gap. ⭐ **The
+> diagnostic is still the neighbours, read the other way: they are DARKER than their line, not lighter.**
+> ⭐⭐ **Three readings under the smear were decided by opening what the note cites, and one overturns
+> the raw:** `d. 23` not the raw's `d. 33` (**I. Sent. d. 23. a. 1. q. 3** is the *essentia/subsistentia*
+> question and carries *quo est* nine times; d. 33 offers nothing of the kind) · **`d. 27. p. I. q. 3`
+> where the digit is blotted out ENTIRELY** and was recovered because **q. 3 is the only one of d. 27
+> p. I's four questions that contains *quo est* at all** (five hits against zero, zero, zero) ·
+> `d. 19. p. II. q. 4`. ⛔ **A digit no eye can read is still recoverable from the target.**
+>
+> ## ⚠⚠ THE SCAN CLIPS THE GUTTER-SIDE MARGINALIA ON EVERY LEAF OF THIS SPAN
+> Quaracchi sets a gloss outside each column; the narrow (gutter-side) one is **cut by the edge of the
+> scanned image**. On rectos (69, 71, 73) it costs one letter — `[A]d oppositum.` · `[A]pplicatio.` ·
+> `[C]orollarium.` — determinate. **On p. 70 eight right-hand glosses lose their line-ends.** The
+> `bon-brev-p7-c7` test governs and was applied **strictly**: `Confirma[tio].`, `Corollari[um].`,
+> `Triplex co[m]positio n[on] est in D[eo].` and the three that word-for-word summarise the sentence
+> beside them are restored; ⛔ **`Sed sim[pli]citas ve[re…]` and `Et simp[lici]tas perfec[te…]` are
+> NOT completed** — the body sentences make a guess easy and that is exactly why it is refused.
+> ▶ **Expect this on every leaf of this work; check BOTH margins, and crop to the full image width —
+> a crop that stops short of the edge fakes the same symptom.**
+>
+> ## ⭐ THE REPLY WITH NO NUMBER, AND QUARACCHI SAYS WHY
+> Between replies 4 and 5 on p. 72 stands a full reply (*Ad illud quod obiicitur, quod summum bonum
+> se habet ex additione ad bonum*) **with no numeral**; plate and raw agree none was set. **p. 72 n. 2,
+> anchored at that reply's own last word, reads *Ipsa* obiecto *supra tantum implicite invenitur*** —
+> the objection is only implicit in the arguments above, so it is answered without being counted.
+> ⚠ *obiecto* stands as printed where *obiectio* is wanted; not emended.
+>
+> ## ⭐ SIX CROSS-REFERENCES OPENED AS CONTROLS, ALL SIX LAND
+> p. 68 n. 4 → `bon-qsc-q3` p. 12 n. 9 **IS argument 3's own premiss word for word** (*simplex prius
+> composito*) · p. 69 n. 4 `Quaest. 2. a. 1.` → `bon-qmt-q2-a1`, whose title *Utrum divinum esse sit
+> summe unum* **is what the anchor says was shown** · p. 70 n. 1 → `q2-a1` p. 61 n. 2 gives the same
+> Aristotle citation in full, **corroborating `text. 56.` and `(c. 10.)` from our own deployed page** ·
+> p. 70 n. 3 → `bon-qsc-q2` p. 9 n. 1 · p. 73 n. 4 → `bon-qsc-q2`. ⭐⭐ **And a FORWARD one:
+> p. 70 n. 7's `Quaest. 4. a. 1.` → the raw's own heading gives Q. IV a. 1 = *Utrum divinum esse sit
+> infinitissimum*, exactly the *immensitas* the *Respondeo* promises to search out *in consequentibus*.
+> That is the first internal cross-reference this work has checked against a target it does not yet
+> hold — checked against the RAW HEADING, never the index.**
+>
+> ## ⚠ SMALLER THINGS
+> **p. 69 n. 3 prints `Boeth., III de Differentiis topic.` without its abbreviating point** while n. 2
+> four lines above prints `XI. de Civ. Dei` with one — ⭐ and our own deployed `bon-qsc-q2` p. 9 n. 1
+> cites the same work **with** the point, so it is an accident of this leaf, not house usage ·
+> **p. 72's nn. 4 and 5 SHARE ONE PRINTED LINE**, so the leaf shows four register lines for five
+> entries — ⚠ counting lines instead of numerals would make it a four-note page · **p. 72 n. 1's
+> `q. 4` prints without a following point** · ⭐ **a near-miss anchor, second attestation of the class:**
+> `Actualitas·` on p. 71 carries a mark the raw also picks up, which would make a sixth anchor on a
+> five-note leaf — **at 3.2× it sits on the BASELINE and the register has no seat for it.** A stray mark
+> also stands above *trinitas* in p. 68's subtitle. ⛔ **A mark is not an anchor until the register has
+> a seat for it.** · ⚠ **the raw beat a first plate read once:** p. 69 n. 2's `[componentia ?]` was read
+> `[componenda ?]` off a whole-page view. **An apparatus entry is never transcribed from a whole-page read.**
+>
+> ## ▶ GUTTERS, ALL SIX MEASURED
+> 68 **1342** (matches the carried value exactly) · 69 **1119** · 70 **1431** · 71 **1139** ·
+> 72 **1431** · 73 **1162**. ⚠ **`colcrop.py`'s default was wrong on three of six**, and **p. 71's was
+> wrong by 25 px on a 4 px run** — the printed centre rule inked at peak 358 and truncated the blank
+> band outright. ⚠⚠ **p. 73 needed the REGION treatment**: over the whole body window its band collapsed
+> to 5 px because `ARTICULUS II.` stands full measure across the middle of the leaf; profiled above and
+> below the heading separately it gives 1161 and 1163. **A full-measure heading INSIDE the body window
+> is as destructive as one at the head of a page.**
+>
+> ## ▶ NUMBERS, DERIVED AFTER `q3-a1`
+> `check-vol5-apparatus.py` **142 chunks / 2,986 entries, all passed** (pp. 69–73 added to
+> `KNOWN_TOTALS`; p. 68's PENDING cleared, p. 73 carried as 6 with nn. 5–6 PENDING) ·
+> `check-vol5-census.py` **rosters agree 142/142**, **201 runovers (180 gutter, 21 page)** — this chunk
+> adds p. 68 n. 5 and p. 73 n. 2, both gutter, no page-crossing one ·
+> `check-live-flags.py` **237 corpus-wide, `bon-qmt-*` contributes ZERO** · `polish-style-scan`
+> **2,094 scanned, 11 issues / 6 chunks, ZERO in scope** (the same out-of-scope list as the last four
+> gates) · `build-content.mjs` **12 books, 2,093 questions** · `build-citations.py` **22,325 records,
+> QA 201 (unchanged), and this chunk's 31 records are ZERO dangling / ZERO unresolvable / ZERO
+> ambiguous** · `build-index-json.py` run after the rebuild. Denominator reconciles at all three
+> stages: **2,095 files on disk → 2,094 style-scanned → 2,093 built.**
+>
+> ## ▶▶▶ FRONT = `bon-qmt-q3-a2`, index span **73–78**, raw **L20251 → L21028**
+> It **inherits p. 73 nn. 5–6** — re-derive them down to their digits, not only their ownership.
+> ⛔⛔ **FIX THE END OF THE SPAN ON THE PLATE BEFORE EXTRACTING PLATES** — extract p. 78 first and read
+> it, then pull 74–77. ⚠ **The vol5 plates for pp. 68–73 are on disk now** (`raw/vision/vol5/`) and
+> pp. 44–73 + 115–116 with them; **pass 4 of the next gate will delete them, so do not assume.**
+> ⚠ **PROFILE THE GUTTER ON EVERY LEAF, and where a full-measure heading falls mid-leaf, profile the
+> regions separately.** The next gate is the work-close gate at p. 115; **nothing in this work is deployed.**
+
+---
+
+
+> # (superseded by `bon-qmt-q3-a1`, 2026-09-06) previous START HERE
+> # ▶▶▶ **THE MYSTERIO TRINITATIS SHAKEDOWN GATE IS CLOSED. THE FRONT IS `bon-qmt-q3-a1`.**
 > Fired at the close of `bon-qmt-q2-a2` per trigger 3, scope **pp. 45–68, 24 leaves, 176 apparatus
 > entries, four chunks**. Log: **`manual-review/vol5-mysterio-trinitatis-shakedown-gate.md`** — read
 > it before `q3-a1`. **Result: ZERO corpus defects in scope across all four passes**, both carried
