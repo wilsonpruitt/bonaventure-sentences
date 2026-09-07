@@ -345,7 +345,7 @@ and this is in the divine persons, which are distinguished by the fact that one 
 
 [^p75-5]: **La.** Art. 1. fundam. 6. et de scientia Christi q. 6. in corp. — Lib. de Causis, propos. 17.
 
-     **En.** Article 1, foundation 6, and *On the Knowledge of Christ*, q. 6, in the body. — *Book of Causes*, proposition 17.
+     **En.** Article 1, fundamentum 6, and *On the Knowledge of Christ*, q. 6, in the body. — *Book of Causes*, proposition 17.
 
 [^p75-6]: **La.** Libr. de Trin. c. 6.
 
@@ -393,7 +393,7 @@ and this is in the divine persons, which are distinguished by the fact that one 
 
 [^p77-5]: **La.** Vide supra q. 2. a. 1. fundam. 7.
 
-     **En.** See above, q. 2, a. 1, foundation 7.
+     **En.** See above, q. 2, a. 1, fundamentum 7.
 
 [^p77-6]: **La.** Cfr. etiam I. Sent. d. 34. q. 1. — In principio solut. vocibus *intellectu vero* A B E interserunt *nominis*.
 

@@ -191,6 +191,18 @@ KNOWN_TOTALS = {
     83: 6,   # all six are q4-a1's; n.3 runs over the gutter
     84: 7,   # n.1 is q4-a1's -- and it anchors in the RIGHT body column, at
              # Art. I's last word; nn.2-7 forward to bon-qmt-q4-a2 (split 1/6)
+    85: 8,   # all eight are q4-a2's; no runover, gutter or page. Register head
+             # read from the top: n.1 is numbered and indented.
+    86: 7,   # all seven are q4-a2's; no runover. Gutter 1369 -- colcrop's
+             # default returns 1297 on a 362 px run, the work's worst default
+             # failure; the run WIDTH is the tell, not the value.
+    87: 5,   # nn.1-3 are q4-a2's (Art. II closes two-fifths down the RIGHT
+             # column); nn.4-5 forward to bon-qmt-q5-a1 (boundary 8, split 3/2
+             # by anchor against 1/4 by block). n.3 is `B E regula`, whose own
+             # lemma IS the anchor word (reply 10's `a via` veritatis).
+             # WARNING: Quaracchi's volume index gives Quaest. V Art. I as
+             # pag. 86. It opens on 87. Neither number in an index line is
+             # evidence; the raw band is (q4-a2 = L21831-L22321, exact).
     205: 8,
     206: 11,
     207: 8,

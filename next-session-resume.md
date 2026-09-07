@@ -1,5 +1,93 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **`bon-qmt-q4-a2` IS LANDED. QUAESTIO IV IS COMPLETE. THE FRONT IS `bon-qmt-q5-a1`.**
+> Quaestio IV, Articulus II, **pp. 84–87** — **FOUR printed pages, not the two the index promised** —
+> Tier 2, built 2026-09-06; the work's eighth chunk, **8 of 15**. Ten arguments that trinity and
+> infinity are incompossible (marginale `Ad oppositum.`), a **`Cᴏɴᴛʀᴀ:` series of ten** in
+> letter-spaced small caps in-column (marginale `Fundamenta.`), `CONCLUSIO` in-column, a *Respondeo*
+> in **three declared moves** (`Ratio 1.` · `Rursus` · `Postremo`), and **nine reply paragraphs for
+> ten arguments** (5 and 6 combined). **24 apparatus entries** (p. 84 nn. 2–7 of seven · 85 all eight ·
+> 86 all seven · **87 nn. 1–3 of five**), **zero `[?]` flags, ZERO runovers**. Conventions: repo
+> `CLAUDE.md` § **MYSTERIO TRINITATIS** — **that block is authoritative, this is a pointer.**
+> Committed locally, **not pushed, not deployed** — the deploy boundary is still the work close at p. 115.
+>
+> ## ⛔⛔⛔ THE INDEX IS WRONG BY TWO LEAVES, AND IT IS WRONG AT A UNIT'S *FIRST* PAGE
+> The banked span was `84–85`, "the shortest unit in the work". **Article II runs to p. 87.** ⚠⚠ And
+> the mechanism is **not** `q2-a2`'s: that was a bad *derivation* (an index span's last page is the
+> next unit's heading page). Here **Quaracchi's own printed number is wrong** — the volume index
+> (printed p. 582, PDF 657, read at 8× on the plate) gives `Art. I. Utrum divinum esse sit aeternum
+> … 86` for Quaestio V, and **Quaestio V opens on 87**, with the leaves running 84·85·86·87, every
+> numeral surviving, Art. II's text continuous across all four. ⭐ **The raw band was exact where the
+> page numbers were not**: `L21831 → L22321` ends at *…patet solutio ad totum*, and `QUAESTIO V.`
+> opens at L22322. ⛔ **NEITHER NUMBER IN AN INDEX LINE IS EVIDENCE. The raw band is.**
+> ★ The standing order has now paid a **fifth** time, and this is its first two-leaf catch.
+>
+> ## ⚠⚠ A RULING VIOLATION RUNNING BACK TWO CHUNKS, REPAIRED HERE
+> Ruling 5 (*scientia Christi* work-close gate, 2026-09-05): **in the apparatus, `fundam. N` is
+> RETAINED as `fundamentum N`.** `bon-qmt-q3-a2` pp. 75 n. 5 and 77 n. 5 and `bon-qmt-q4-a1`
+> p. 79 n. 11 Englished it as "foundation N". **All three repaired in place.**
+> ⛔⛔ **The mechanism is worth more than the fixes:** the four chunks of this work with **no**
+> `fundam.` site all wrote *"Ruling 5 is not reached"* into their Notes; **the two that met the site
+> are the two that dropped the line.** A register line asserting a ruling was not exercised is cheap
+> when true and is silently omitted by exactly the chunk that must obey it. ▶ **A chunk that MEETS a
+> reserved site must say so and quote its own rendering.** Expect this for every cross-work ruling.
+>
+> ## ⭐ BOUNDARY 8 (p. 87): FORWARDS, 3/2 BY ANCHOR AGAINST 1/4 BY BLOCK
+> Art. II closes two-fifths down the RIGHT column; `QUAESTIO V.` then stands full measure with its
+> subtitle, opener, two *praeambula*, `ARTICULUS I.` and its first arguments. nn. 1–3 are ours,
+> nn. 4–5 forward. **The left footer block holds n. 1 alone.** ⭐ **n. 3 is the cleanest anchor
+> confirmation the work has produced — it is `B E regula`, a variant whose own lemma IS the anchor
+> word** (reply 10's *declinandi a via*³ *veritatis*). **A variant note tells you where its anchor is.**
+> ▶ **Eight boundaries, SEVEN shapes: 5/1 · LEAF EDGE · 2/8 · 1/4 · 4/2 · 4/0 · 1/6 · 3/2.**
+>
+> ## ⚠ TWO READING TRAPS, BOTH TRANSFERABLE
+> **(1) A punctuation mark that makes the sentence ungrammatical is a ZOOM problem, not a defect.**
+> p. 86 reply 7 reads *…cum duae tantum sint origines*. *distinctae…* at ⅓ scale and in a 1.7× band,
+> **and the raw agrees**; at 7× the mark has a descending tail identical to the comma two lines above.
+> It is a comma. ⛔ **The raw and a mid-zoom plate read agreeing are ONE witness read twice.**
+> **(2) The raw grade moves inside a four-leaf span.** p. 85's body is **badly degraded**
+> (*gennanitas suniina* for *germanitas summa*, *heatitudinis*, *superahundarenl*) and its Latin was
+> re-set from the plate; pp. 84, 86, 87 clean, footers clean on all four.
+>
+> ## ▶ GUTTERS — THE DEFAULT WAS WRONG ON ALL FOUR
+> 84 **1358** *(Art. II's region; 1351 above the heading)* · 85 **1126** · 86 **1369** · 87 **1168**.
+> ⚠⚠ **p. 86 is the work's worst default failure: 1297 against a true 1369, 72 px out**, and the tell
+> was the run WIDTH — **362 px**, six times the sound band. Band 1338–1401 (64 px), centre rule inside
+> it peaking at only **15**. · p. 85's default gave 1129 on a 45 px run against a rule peaking at 467.
+> · p. 87 failed outright at 1171/**3 px** because `QUAESTIO V.` stands full measure mid-leaf; by
+> region, rows 0.06–0.43 give 1168 on 61 px with twenty windows agreeing.
+>
+> ## ▶ NUMBERS, DERIVED AFTER `q4-a2`
+> `check-vol5-apparatus.py` **145 chunks / 3,089 entries, all passed** (pp. 85–87 added to
+> `KNOWN_TOTALS`) · `check-vol5-census.py` **rosters agree 145/145**, **207 runovers (184 gutter,
+> 23 page)** — this chunk adds none · `check-live-flags.py` **237 corpus-wide, `bon-qmt-*` ZERO** ·
+> `polish-style-scan` **2,097 scanned, 11 issues / 6 chunks, ZERO in scope** · `build-content.mjs`
+> **12 books, 2,096 questions** · `build-citations.py` **22,414 records, QA 201, and this chunk's 23
+> records are ZERO dangling / ZERO unresolvable / ZERO ambiguous** · `build-index-json.py` run after.
+> Registry untouched — division 4 was already in.
+>
+> ## ▶▶▶ FRONT = `bon-qmt-q5-a1`, **pp. 87–?**, raw **L22322 → L23104**
+> ⛔⛔ **The index says 86. IT IS 87 — measured on the plate at this chunk's boundary.** It inherits
+> **p. 87's BODY** (`QUAESTIO V.`, subtitle *Utrum personarum trinitas simul stet cum summa
+> aeternitate*, the opener *Consequenter quaeritur…*, the two *praeambula*, `ARTICULUS I.` with
+> subtitle *Utrum divinum esse sit aeternum*, and arguments 1–3) **and nn. 4–5 of p. 87's five
+> register entries** (`Vers. 18. — Seq. locus est Rom. 1, 20.` on Exodi 15:18; `Libr. I. de Trin.
+> c. 6. 8. et 11.` on Richard). ⚠ **Q. V Art. I's opener carries no anchor on p. 87** — nn. 4–5 pair
+> with the *arguments*, not with the opener; the register's arithmetic says so.
+> ⛔⛔ **FIX THE END OF THE SPAN ON THE PLATE BEFORE EXTRACTING** — the index gives `q5-a2 93`, and
+> after this chunk that number carries no weight at all. **Extract the candidate last leaf ALONE and
+> read it first**, then walk the raw band to its end; the band is the reliable half.
+> ⚠ **The vol5 plates for pp. 68–87 are on disk now** (`raw/vision/vol5/`); **pass 4 of the work-close
+> gate will delete them, so do not assume.**
+> ⚠ **PROFILE THE GUTTER ON EVERY LEAF, and where a full-measure heading falls mid-leaf, profile the
+> regions separately** — p. 87 is exactly that leaf and its default failed outright.
+> ⚠ **Ruling 5 is now LIVE in this work** (`fundam. N` → `fundamentum N`, apparatus only) — if a chunk
+> meets it, say so in the Notes and quote the rendering.
+> The next gate is the work-close gate at p. 115; **nothing in this work is deployed.**
+
+---
+
+> # (superseded by `bon-qmt-q4-a2`, 2026-09-06) previous START HERE
 > # ▶▶▶ START HERE — **`bon-qmt-q4-a1` IS LANDED. THE FRONT IS `bon-qmt-q4-a2`, index span 84–85.**
 > Quaestio IV, Articulus I, **pp. 78–84**, Tier 2, built 2026-09-06 — the work's seventh chunk,
 > **7 of 15**, and the one that opens Quaestio IV. Thirteen arguments that the divine *esse* is

@@ -1662,13 +1662,49 @@ plate**; a blankness number is a screen, the plate is the evidence.
   of the leaf's seven entries is `q4-a1`'s — and ⭐ **n. 1 is the FIRST entry of the LEFT footer
   block while its anchor is in the RIGHT body column**, the sharpest demonstration yet of why the
   split is taken by anchor and never by block position.
-  ⛔ **The other SEVEN boundaries are UNMEASURED — re-ask the p. 498 rule on the plate at each.** Work 2
+  ⭐⭐ **BOUNDARY 8 (p. 87) MEASURED: it FORWARDS, split 3/2 BY ANCHOR against 1/4 BY BLOCK.** Art. II
+  closes *— Et ex his patet solutio ad totum.* two-fifths down p. 87's RIGHT column; `QUAESTIO V.` then
+  stands full measure and Q. V's opener, *praeambula*, `ARTICULUS I.` and first arguments fill the leaf.
+  nn. 1–3 are `q4-a2`'s, nn. 4–5 forward — **and the left footer block holds n. 1 ALONE**, so block and
+  anchor divide differently on the same leaf for the third time in this work. ⭐ **n. 3 is the cleanest
+  anchor confirmation the work has produced: it is `B E regula`, a variant whose own lemma IS the anchor
+  word** (reply 10's *declinandi a via*³ *veritatis*). **A variant note tells you where its anchor is.**
+  ⛔ **The other SIX boundaries are UNMEASURED — re-ask the p. 498 rule on the plate at each.** Work 2
   answered "yes" five times and "no" once, and no two of its six splits were alike; this work is
-  6 forwarding / 1 leaf edge, with split ratios 5/1, 2/8, 1/4, 4/2, 4/0 and 1/6 — **six shapes in seven
-  boundaries. The ratio carries no rule.**
+  7 forwarding / 1 leaf edge, with split ratios 5/1, 2/8, 1/4, 4/2, 4/0, 1/6 and 3/2 — **seven shapes in
+  eight boundaries. The ratio carries no rule.**
   ★★ **A LEAF-EDGE SEAM IS THE DANGEROUS CLASS, AND BEING MEASURED IS WHAT MAKES IT SAFE**
   (shakedown gate, 2026-09-06): p. 58 is the exact shape the index gets wrong, and it is right here
   only because `q1-a2` put the p. 498 rule to the plate rather than to the index.
+- **⛔⛔⛔ THE INDEX'S *FIRST* PAGE CAN BE WRONG TOO, NOT ONLY ITS DERIVED LAST (`q4-a2`, 2026-09-06).**
+  The banked span `q4-a2 84–85` is wrong by **TWO leaves**: Art. II runs to p. 87. ⚠⚠ **And the mechanism
+  is NOT `q2-a2`'s.** `q2-a2` failed because an index span's last page is the *next* unit's heading page —
+  a failure of derivation. Here **Quaracchi's own printed number is wrong**: the volume index (printed
+  p. 582, PDF 657; read at 8× on the plate, not from the raw) gives `Art. I. Utrum divinum esse sit
+  aeternum … 86` for Quaestio V, and **Quaestio V opens on 87**. The leaves run 84·85·86·87 with every
+  numeral surviving and Art. II's text continuous across all four. ⭐ **The raw band was exact where the
+  page numbers were not** — the banked `L21831 → L22321` ends at the article's last word, and
+  `QUAESTIO V.` opens at L22322. ▶ **`q5-a1` therefore opens on 87, not 86, and its index end of 93 is
+  doubly untrustworthy.** ⛔ **NEITHER NUMBER IN AN INDEX LINE IS EVIDENCE. The raw band is.** ★ The
+  standing order (extract the span's last leaf ALONE and read it first) has now paid a FIFTH time and
+  this is the first miss of two leaves rather than one.
+- **⚠⚠ A RULING CARRIED IN FROM ANOTHER WORK IS TRACKED BY THE CHUNKS THAT DON'T MEET IT AND DROPPED BY
+  THE ONE THAT DOES (`q4-a2` on `q3-a2` and `q4-a1`, 2026-09-06).** Ruling 5 — *in the apparatus,
+  `fundam. N` is RETAINED as `fundamentum N` / `fundamenta N`* — was ratified at the *scientia Christi*
+  work-close gate. Four chunks of this work with **no** `fundam.` site each wrote *"Ruling 5 is not
+  reached"* into their Notes. **The two chunks that actually met the site — `q3-a2` pp. 75 n. 5 and
+  77 n. 5, `q4-a1` p. 79 n. 11 — Englished it as "foundation N" and dropped the tracking line.** All
+  three repaired at `q4-a2`. ⛔ **A line asserting a ruling was NOT exercised is cheap when true and is
+  silently omitted by exactly the chunk that has to obey it.** ▶ **Turn it round: a chunk that MEETS a
+  reserved site must say so in its Notes and quote its own rendering.** Expect this failure for every
+  cross-work ruling, not just this one.
+- **⚠ A PUNCTUATION MARK THAT MAKES THE SENTENCE UNGRAMMATICAL IS A ZOOM PROBLEM, NOT A DEFECT
+  (`q4-a2` p. 86, 2026-09-06).** Reply 7 reads *…cum duae tantum sint origines***.** *distinctae et
+  distinctivae…* at ⅓ scale and in a 1.7× column band, and **the raw agrees** (`origines. distinctae`).
+  At **7×** the mark carries a descending tail identical to the comma after *essentia* two lines above:
+  it is a **comma** and the sentence is unbroken. ⛔ Same lesson as `q3-a2`'s `Ethic.`/`Ethic:` — **the
+  raw and a mid-zoom plate read agreeing are ONE witness read twice**, because the OCR is reading the
+  same ink at the same resolution.
 - **⚠⚠ THE SCAN CLIPS THE GUTTER-SIDE MARGINALIA ON SOME LEAVES (found `q3-a1`, 2026-09-06; ⛔ SCOPED
   BY `q3-a2` AND AGAIN BY `q4-a1` (79–84 clean) THE SAME DAY — it happens on leaves 69–73 and NOT on 73–78, where full-image-width strips
   of both margins of all six leaves show every gloss complete. It is a property of particular leaves,
@@ -1924,6 +1960,48 @@ plate**; a blankness number is a screen, the plate is the evidence.
   p. 72 n. 3 · p. 83 n. 3 → `q3-a2` p. 75 n. 8 · p. 81 n. 7 → `q3-a2` p. 75 n. 4), and **one of them is
   INTERNAL and closes inside this chunk** (p. 79 n. 7 → p. 81 n. 5, argument 7 wired to its own answer
   two pages later).
+
+- **✅✅ `bon-qmt-q4-a2` IS BUILT (pp. 84–87, 24 entries, zero `[?]`, 2026-09-06) — QUAESTIO IV IS COMPLETE.**
+  **Four printed pages, not the two the index promised.** Ten arguments that trinity and infinity are
+  incompossible (marginale `Ad oppositum.`), a **`Cᴏɴᴛʀᴀ:` series of ten** in letter-spaced small caps
+  in-column (marginale `Fundamenta.`), `CONCLUSIO` in-column, a *Respondeo* in **three declared moves**
+  (`Ratio 1.` infinity as excess not defect · `Rursus` the singleness of paternity, filiation, procession ·
+  `Postremo` gathering the six perfections), and **nine reply paragraphs for ten arguments** (5 and 6
+  printed combined). Registry untouched — division 4 was already in. Five things it settles beyond the
+  three conventions above:
+  **(a) ⛔⛔ THE REPLIES ANSWER THE *OPENING* SERIES, AND THE TWO ARTICLES OF ONE QUESTION DISAGREE.**
+  The *Respondeo* closes *Et ideo concedendae sunt rationes ad partem istam*, conceding the `Contra` side,
+  and reply 1 quotes argument 1 word for word. `q4-a1`'s replies answered its `Contra` series. ⭐ **And the
+  two marginalia have SWAPPED SIDES between the two articles** — `Fundamenta.` stood on `q4-a1`'s opening
+  series and stands here on the `Contra`. **Find the series by content; the marginale names the side, and
+  the side changes inside a single quaestio.**
+  **(b) ⚠⚠ `colcrop.py`'s DEFAULT WAS WRONG ON ALL FOUR LEAVES, AND p. 86 IS THE WORST FAILURE IN THE
+  WORK: 1297 against a true 1369, 72 px out.** The tell was the run WIDTH — **362 px**, six times the
+  sound band, the same species of nonsense as a 5 px run. Direct profile: blank band **1338–1401 (64 px)**,
+  midpoint 1369, centre rule inside it at 1368–1371 peaking at only **15**. Gutters: 84 **1358** (Art. II's
+  region; 1351 above the heading) · 85 **1126** (default 1129 on a 45 px run; band 1097–1155, rule at
+  1121–1128 peak **467**) · 86 **1369** · 87 **1168** (default failed outright at 1171/**3 px**, because
+  `QUAESTIO V.` stands full measure mid-leaf; profiled by region, rows 0.06–0.43 give 1168 on 61 px with
+  twenty windows agreeing).
+  **(c) ⚠ FOUR RAW-VS-PLATE DEFECTS, ALL DIGITS:** `et i.`→**`et 4.`** · `fundam. I.`→**`fundam. 1.`** ·
+  `pag. 36`→**`pag. 56`** · `d. 14. a. 2. q. I.`→**`q. 1.`** ⭐ **The third was settled by the TARGET:**
+  p. 85 n. 8 and p. 84 n. 6 cite the same place for the same *duplex modus productionis*, and p. 84 n. 6
+  prints *tom. I. pag. 56, nota 6* unambiguously — **Quaracchi's own doubled citation is a free control.**
+  **(d) ⭐⭐ AN INTERNAL CROSS-REFERENCE CLOSES INSIDE THE CHUNK FOR THE SECOND TIME IN TWO CHUNKS:**
+  p. 86 n. 5's *Cfr. supra pag. 84, nota 5* lands on p. 84 n. 5, **Hebr. 1, 3** — the very verse reply 4 is
+  quoting (*splendor Patris*), and both ends are ours. Twenty-three citation records, **ZERO dangling,
+  ZERO unresolvable, ZERO ambiguous.**
+  **(e) ⭐ RULING 2 EXERCISED ON ONE SIDE ONLY, FOR THE FIRST TIME IN THE WORK:** *lux/lucis* **seven**
+  sites, *lumen* **ZERO**, so all seven go to "light" and nothing is transliterated. **Record it, or a
+  later reader finds seven bare "light"s and takes them for a lapse.** ⭐ *intellect-* **twenty-one**
+  occurrences with **zero bare "intellect"** in the English — the heaviest such span in the work. ⛔
+  *vacatio*/*quies* and *contuit-* absent; `q5-a2` and `q7-a2` remain the deciding chunks.
+  ⭐ **ZERO runovers, gutter or page — and the negative was ESTABLISHED, not assumed**: the head of each
+  incoming register (pp. 85, 86, 87) was read before its first numeral and each opens numbered and
+  indented. **Marginalia 19, none clipped** (third scoping of the 69–73 clipping); the solution-heavy
+  split is total again — twenty arguments carry **two** glosses, the *Respondeo* and replies **seventeen**.
+  ⚠ **Raw grade moves inside the span: p. 85's body is BADLY degraded** (*gennanitas suniina* for
+  *germanitas summa*) and was re-set from the plate; pp. 84, 86, 87 clean, footers clean throughout.
 
 - **✅ `bon-qmt-q1-a2` IS BUILT (pp. 51–58, 53 entries, zero `[?]`, 2026-09-05) — QUAESTIO I IS COMPLETE.**
   Fourteen affirmative arguments in two runs (*debitum* 1–8, *congruum* 9–14), a **thirteen-argument

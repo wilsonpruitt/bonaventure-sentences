@@ -343,7 +343,7 @@ are finite; whence if he could act upon one thing alone, it would follow that hi
 
 [^p79-11]: **La.** Cfr. II. Sent. d. 3. p. I. a. 1. q. 1. fundam. 3. — *Minor* ostensa est I. Sent. d. 19. p. II. q. 3.
 
-     **En.** Compare II *Sentences*, d. 3, p. I, a. 1, q. 1, foundation 3. — The *minor* was shown in I *Sentences*, d. 19, p. II, q. 3.
+     **En.** Compare II *Sentences*, d. 3, p. I, a. 1, q. 1, fundamentum 3. — The *minor* was shown in I *Sentences*, d. 19, p. II, q. 3.
 
 [^p79-12]: **La.** Libr. de Trin. c. 2: Divina substantia sine materia forma est. — De *maiori* cfr. tom. I. pag. 360, nota 5. — Inferius pro *finitissimum* A B *finitissimus*.
 
