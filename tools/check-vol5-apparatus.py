@@ -177,7 +177,20 @@ KNOWN_TOTALS = {
     78: 4,   # ALL FOUR are q3-a2's, although QUAESTIO IV opens full measure
              # on the lower third of the leaf: its heading, subtitle and
              # opener are unanchored, so the leaf forwards BODY but no
-             # register entry (split 4/0)
+             # register entry (split 4/0). n.4 RUNS OVER onto p.79 -- missed
+             # when q3-a2 landed, found and repaired by q4-a1
+    79: 12,  # all twelve are q4-a1's; the leaf's footer OPENS with the
+             # unnumbered runover of p.78 n.4, and n.6 runs over the gutter.
+             # Blocks 6/6 against anchors 7/5
+    80: 11,  # all eleven are q4-a1's; n.11 RUNS OVER onto p.81.
+             # Blocks 5/6 against anchors 7/4
+    81: 7,   # all seven are q4-a1's; the footer opens with p.80 n.11's
+             # runover, and n.3 runs over the gutter. Blocks and anchors agree
+    82: 7,   # all seven are q4-a1's; n.5 runs over the gutter.
+             # Blocks 5/2 against anchors 3/4
+    83: 6,   # all six are q4-a1's; n.3 runs over the gutter
+    84: 7,   # n.1 is q4-a1's -- and it anchors in the RIGHT body column, at
+             # Art. I's last word; nn.2-7 forward to bon-qmt-q4-a2 (split 1/6)
     205: 8,
     206: 11,
     207: 8,

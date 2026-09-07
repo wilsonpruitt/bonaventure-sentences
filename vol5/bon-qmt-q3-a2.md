@@ -411,9 +411,9 @@ and this is in the divine persons, which are distinguished by the fact that one 
 
      **En.** G reads *terminum* (so too it stands in I *Sentences*, d. 33, q. 2, in the body). Below, B inserts *tamen* between the words *ipsa non*.
 
-[^p78-4]: **La.** Distinctio siquidem generatim est negatio unius respectu alterius; *distincta* enim dicimus quorum unum non est alterum.
+[^p78-4]: **La.** Distinctio siquidem generatim est negatio unius respectu alterius; *distincta* enim dicimus quorum unum non est alterum. Distinctio opponitur identitati i. e. convenientiae rei cum se ipsa vel unitati plurium in entitate. Aristot., V. Metaph. text 16. (IV. c. 9.): Identitas unitas quaedam essentiae est aut plurium, aut cum ut pluribus utatur, ut puta cum dicat ipsum sibi ipsi idem; ut duobus enim ipso utitur.
 
-     **En.** For distinction in general is the negation of one with respect to another; for we call those things *distinct* of which one is not the other.
+     **En.** For distinction in general is the negation of one with respect to another; for we call those things *distinct* of which one is not the other. Distinction is opposed to identity, that is, to the agreement of a thing with itself or to the unity of several in entity. Aristotle, *Metaphysics* V, text 16 (IV, c. 9): "Identity is a certain unity of the being either of several things, or when one uses a thing as several — as, for instance, when one says that a thing is the same as itself; for one uses it as two."
 
 ---
 

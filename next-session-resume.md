@@ -1,5 +1,116 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **`bon-qmt-q4-a1` IS LANDED. THE FRONT IS `bon-qmt-q4-a2`, index span 84–85.**
+> Quaestio IV, Articulus I, **pp. 78–84**, Tier 2, built 2026-09-06 — the work's seventh chunk,
+> **7 of 15**, and the one that opens Quaestio IV. Thirteen arguments that the divine *esse* is
+> most infinite (marginale `Fundamenta.`), a **`Contra` series of fifteen** (marginale
+> `Ad oppositum.`), `CONCLUSIO` in-column, a *Respondeo* whose whole work is a double distinction
+> (*infinitum privative* / *negative*, then *finis-terminus* / *finis-complementum*, then
+> *quantitas molis* / *quantitas virtutis*), and **fifteen replies**. **44 apparatus entries**
+> (p. 78 NONE · 79 twelve · 80 eleven · 81 seven · 82 seven · 83 six · **84 n. 1 of seven**),
+> **zero `[?]` flags**. Conventions: repo `CLAUDE.md` § **MYSTERIO TRINITATIS** — **that block is
+> authoritative, this is a pointer.** Committed locally, **not pushed, not deployed** — the deploy
+> boundary is still the work close at p. 115.
+>
+> ## ⚠⚠ THIS CHUNK FOUND A DEFECT IN THE ONE BEFORE IT — A PAGE-CROSSING RUNOVER `q3-a2` MISSED
+> p. 79's footer **opens with an unnumbered, flush-left paragraph before n. 1**: it is the tail of
+> **p. 78 n. 4**, which `q3-a2` transcribed as ending at *…quorum unum non est alterum* and whose
+> ledger line it recorded as a **negative** — *zero runovers, stated positively rather than by
+> silence*. Repaired here in both languages; the ledger line went from `-` to `p.78 n.4:page`.
+> ⛔⛔ **THE LESSON, and it is the most useful thing this chunk produced:** a ledger line reading `-`
+> asserts that a test was run and came back empty, and **no later audit re-derives it** —
+> `check-vol5-census.py` checks that every chunk *appears* in the ledger, never that a negative is
+> true. **The only thing that catches a false negative is the next chunk reading the next leaf's
+> register from the TOP, before its first numeral.** Do that on every incoming leaf.
+>
+> ## ⭐⭐ THE FAILING IMPRESSION TOOK A WHOLE WORD, AND A 12× READ RETURNED A NON-WORD
+> p. 79 n. 7 ends *Augustini* **sementia** — not a Latin word, and the raw independently gave
+> *seinentia*. **Measurement decided it**: the word runs to min grey **58 / dark fraction 0.040**
+> against **6 / 0.109** for *Augustini* beside it and **2 / 0.106** for *nota 5.* on the same line —
+> the ratified rule's **second** branch, *this copy failed to take the type*. A contrast-stretched
+> read at 14× then shows the stem of a **t with no crossbar**: the word is ***sententia***.
+> Transcribed **plain, not bracketed**, because the letter is present minus one stroke and the
+> precedent restorations bracket letters that are *absent*.
+> ⛔ **NEW TRANSFERABLE RULE: when a high-zoom read returns a NON-WORD, measure the ink before
+> believing the read.** A dropped crossbar turns *nt* into *m* and hands you a plausible string that
+> no dictionary contains.
+>
+> ## ⭐ BOUNDARY 7 (p. 84) MEASURED: IT FORWARDS, SPLIT 1/6
+> Art. I closes **five lines into p. 84's right column**; `ARTICULUS II.` then stands full measure
+> and Art. II fills the leaf. **Only n. 1 of the leaf's seven entries is `q4-a1`'s** — and ⭐ **n. 1
+> is the FIRST entry of the LEFT footer block while its anchor is in the RIGHT body column**, the
+> sharpest demonstration yet of why the split is taken by anchor and never by block position.
+> ▶ **Seven boundaries measured now, in SIX shapes: 5/1 · LEAF EDGE · 2/8 · 1/4 · 4/2 · 4/0 · 1/6.**
+> ⛔ The ratio still carries no rule. ★ The standing order paid a **fourth** time: p. 84 was
+> extracted alone and read first, and the index span 79–84 is right.
+>
+> ## ⚠ TWO CHECKS THAT MISLED, BOTH WORTH CARRYING FORWARD
+> **(1) The digit-multiset screen FIRED FALSELY.** Latin vs English differ by `1`×2, `8`, `4`, `0` —
+> all of it **Quaracchi's spelled-out chapter numbers rendered as numerals in English** (*tertio
+> Regum octavo* → "III Kings, chapter 8", *Sapientiae undecimo* → "Wisdom, chapter 11", *Isaiae
+> quadragesimo* → "Isaiah, chapter 40"), on the house form `q1-a2` set at *Genesis, chapter 18*.
+> ⛔ **Compare the `<!-- page N -->` markers DIRECTLY**; the multiset is a screen, not the test.
+> **(2) The marginalia are NOT clipped on this span** — but at ⅓ scale p. 79's `Fundamenta.` looked
+> cut, and a column-crop agreed; at **9× on a full-image-width strip the `F` is intact with ~60 px of
+> clean paper** before the scan's dark gutter band. ⛔ The warning is **symmetrical**: a crop that
+> stops short of the edge manufactures a clipping, and a crop that includes the edge at low zoom
+> manufactures one too. Clipping remains a property of leaves 69–73 only.
+>
+> ## ⚠ SMALLER THINGS
+> **`Aristot., V. Metaph. text 16.` prints with NO point after *text*** (p. 78 n. 4's runover),
+> against *Metaph.* on the same line and `text. 15.`/`text. 12.` on p. 80 — third attestation of the
+> missing-abbreviating-point class. · **Six raw-vs-plate defects, ALL digits, five of them the 1↔4
+> and 3↔5 pairs**: `ad i.`→**`ad 4.`** · `pag. 3C0`→**`360`** · `(p. 6.)`→**`(c. 6.)`** ·
+> `pag. 13`→**`15`** · `pag. 288`→**`258`** · `a. 4.`→**`a. 1.`** · **Reply 3 on p. 82 prints its
+> numeral with a COLON, `3:`** — recorded as printed. · **Two near-miss marks**, before *ineffabili*
+> (p. 79 arg. 5) and after *trinitas* in Q. IV's opener (p. 78); neither has a seat in its register,
+> and the p. 78 one is what settles that the **quaestio opener is unanchored** against the working
+> expectation `q2-a1` created. · ⭐ **p. 80 n. 11 carries an editorial ARGUMENT, not a citation:** the
+> *Respondeo*'s opening stretch was already printed at **tom. I, p. 769 n. 7** from **cod. M of Monte
+> Cassino** as an additamentum, *ex quo novum arg. insinuatur pro genuitate huius quaestionis*.
+> · ⚠ ***quietatur* occurs in reply 7 and the *vacatio*/*quies* ruling is LEFT OPEN** — it is a verb,
+> the reserved sites in `q5-a2`/`q7-a2` are the noun and the gerund. Recorded because a verb is
+> exactly what a noun-shaped census misses.
+>
+> ## ▶ GUTTERS, ALL SIX MEASURED
+> 79 **1151** · 80 **1360** · 81 **1178** · 82 **1335** · 83 **1198** · 84 **1351** *(top region)*.
+> ⭐ **`colcrop.py`'s default was right on all six — the first clean span in this work.** ⚠⚠ p. 84
+> still needed the REGION treatment and is the cleanest case yet: the five-line block above
+> `ARTICULUS II.` gives **1351/63 px**, Art. II's region below it **1358/60 px**, and a window
+> straddling the heading (rows 0.05–0.28) collapses to **5 px**.
+>
+> ## ▶ NUMBERS, DERIVED AFTER `q4-a1`
+> `check-vol5-apparatus.py` **144 chunks / 3,065 entries, all passed** (pp. 79–84 added to
+> `KNOWN_TOTALS`; p. 78's comment amended to record the runover) · `check-vol5-census.py`
+> **rosters agree 144/144**, **207 runovers (184 gutter, 23 page)** — this chunk adds four gutter and
+> one page-crossing, and `q3-a2`'s repair adds the twenty-third page-crossing ·
+> `check-live-flags.py` **237 corpus-wide, `bon-qmt-*` ZERO** · `polish-style-scan` **2,096 scanned,
+> 11 issues / 6 chunks, ZERO in scope** (the same out-of-scope list as the last six gates) ·
+> `build-content.mjs` **12 books, 2,095 questions** · `build-citations.py` **22,391 records, QA 201
+> (unchanged), and this chunk's 40 records are ZERO dangling / ZERO unresolvable / ZERO ambiguous**
+> (26 chunk · 6 work · 5 verse · 2 page-multi · 1 chapter) · `build-index-json.py` run after the
+> rebuild. Registry **division 4 went in with this chunk**, subtitle verified word for word on p. 78.
+>
+> ## ▶▶▶ FRONT = `bon-qmt-q4-a2`, index span **84–85**, raw **L21831 → L22321**
+> **The shortest unit in the work — two printed pages.** It **inherits p. 84's BODY and SIX of its
+> seven register entries**: `ARTICULUS II.` (subtitle *Utrum possint stare simul trinitas et
+> infinitas*), the opener (*Deinde quaeritur, utrum possint simul stare trinitas et infinitas sive
+> immensitas*²), arguments 1–10 and the first arguments of its `Contra` series, all on p. 84;
+> **nn. 2–7 of p. 84 are its**, pairing with the opener and args 2, 3, 5 and Contra 1–2. ⭐ **Q. IV's
+> opener carries an anchor and Art. II's opener carries one too** — n. 2 sits on *immensitas*; the
+> `q2-a1` expectation holds for Art. II even though it failed for Q. IV.
+> ⛔⛔ **FIX THE END OF THE SPAN ON THE PLATE BEFORE EXTRACTING — extract p. 85 first and read it**,
+> then pull p. 84 (already on disk). ⚠ On a 2-page span the index is at its least trustworthy: q5-a1
+> is given as 86–93, so the question is whether Art. II closes on p. 85 or spills, and one leaf of
+> error is the whole chunk. ⚠ **The vol5 plates for pp. 68–84 are on disk now** (`raw/vision/vol5/`);
+> **pass 4 of the work-close gate will delete them, so do not assume.**
+> ⚠ **PROFILE THE GUTTER ON EVERY LEAF, and where a full-measure heading falls mid-leaf, profile the
+> regions separately** — p. 84 is exactly that leaf and its top region is NOT the default.
+> The next gate is the work-close gate at p. 115; **nothing in this work is deployed.**
+
+---
+
+> # (superseded by `bon-qmt-q4-a1`, 2026-09-06) previous START HERE
 > # ▶▶▶ START HERE — **`bon-qmt-q3-a2` IS LANDED. QUAESTIO III IS COMPLETE. THE FRONT IS `bon-qmt-q4-a1`, index span 79–84.**
 > Quaestio III, Articulus II, **pp. 73–78**, Tier 2, built 2026-09-06 — the work's sixth chunk,
 > **6 of 15**. Sixteen arguments that trinity and the highest simplicity are incompossible
