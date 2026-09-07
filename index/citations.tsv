@@ -22200,6 +22200,30 @@ bon-qmt-q5-a1	5	apparatus:p92-5	p92-5	crossref	logical	I. Sent. d. 7. q. 3.	bon-
 bon-qmt-q5-a1	5	apparatus:p92-6	p92-6	crossref	logical	I. Sent. d. 30. q. 1.	bon-sent-I-d30-a1-q1		chunk		
 bon-qmt-q5-a1	5	apparatus:p92-6	p92-6	crossref	chain-continuation	d. 39. a. 2. q. 2.	bon-sent-I-d39-a2-q2		chunk		
 bon-qmt-q5-a1	5	apparatus:p92-6	p92-6	crossref	chain-continuation	d. 41. a. 2. q. 2.	bon-sent-I-d41-a2-q2		chunk		
+bon-qmt-q5-a2	5	apparatus:p93-1	p93-1	crossref	page	supra pag. 89, nota 1	bon-qmt-q5-a1		chunk		
+bon-qmt-q5-a2	5	apparatus:p93-1	p93-1	crossref	logical	I. Sent. d. 9. q. 3.	bon-sent-I-d9-a1-q3		chunk		
+bon-qmt-q5-a2	5	apparatus:p93-2	p93-2	crossref	page	tom. I. pag. 118, nota 2	bon-sent-I-d5-a2-q2		chunk		
+bon-qmt-q5-a2	5	apparatus:p93-2	p93-2	crossref	page	pag. 120, nota 7	tom5:p120		forward		
+bon-qmt-q5-a2	5	apparatus:p93-2	p93-2	crossref	page	tom. IV. pag. 102, nota 3	bon-sent-IV-d4-p1-a2-q1+bon-sent-IV-d4-p1-a2-q2		page-multi		
+bon-qmt-q5-a2	5	apparatus:p93-2	p93-2	crossref	page	pag. 103, nota 10	tom5:p103		forward		
+bon-qmt-q5-a2	5	apparatus:p93-4	p93-4	crossref	page	supra pag. 89, nota 1	bon-qmt-q5-a1		chunk		
+bon-qmt-q5-a2	5	apparatus:p93-5	p93-5	crossref	page	supra pag. 79, nota 9	bon-qmt-q4-a1		chunk		
+bon-qmt-q5-a2	5	apparatus:p94-2	p94-2	crossref	work	Quaest. de scientia Christi	work:scientia-christi		work		
+bon-qmt-q5-a2	5	apparatus:p94-8	p94-8	crossref	anaphor->work	ibid.	work:scientia-christi		work	yes	Quaest. de scientia Christi
+bon-qmt-q5-a2	5	apparatus:p95-1	p95-1	crossref	logical	I. Sent. d. 26. q. 1.	bon-sent-I-d26-a1-q1		chunk		
+bon-qmt-q5-a2	5	apparatus:p95-1	p95-1	crossref	chain-continuation	d. 33. q. 1.	bon-sent-I-d33-a1-q1		chunk		
+bon-qmt-q5-a2	5	apparatus:p95-3	p95-3	crossref	anaphor->chain-continuation	ibid.	bon-sent-I-d33-a1-q1		chunk	yes	d. 33. q. 1.
+bon-qmt-q5-a2	5	apparatus:p95-4	p95-4	crossref	logical	I. Sent. d. 20. a. 2. q. 2.	bon-sent-I-d20-a2-q2		chunk		
+bon-qmt-q5-a2	5	apparatus:p95-5	p95-5	crossref	logical	I. Sent. d. 20. a. 2. q. 1.	bon-sent-I-d20-a2-q1		chunk		
+bon-qmt-q5-a2	5	apparatus:p95-6	p95-6	crossref	logical	I. Sent. d. 9. q. 1.	bon-sent-I-d9-a1-q1		chunk		
+bon-qmt-q5-a2	5	apparatus:p95-7	p95-7	crossref	logical	I. Sent. d. 9. q. 4.	bon-sent-I-d9-a1-q4		chunk		
+bon-qmt-q5-a2	5	apparatus:p95-8	p95-8	crossref	logical	I. Sent. d. 9. q. 3.	bon-sent-I-d9-a1-q3		chunk		
+bon-qmt-q5-a2	5	apparatus:p96-1	p96-1	crossref	page	supra pag. 14, nota 5	bon-qsc-q3		chunk		
+bon-qmt-q5-a2	5	apparatus:p96-3	p96-3	crossref	logical	I. Sent. d. 2. q. 4.	bon-sent-I-d2-a1-q4		chunk		
+bon-qmt-q5-a2	5	apparatus:p96-4	p96-4	crossref	logical	I. Sent. d. 8. p. I. dub. 7.	bon-sent-I-d8-p1-dubia		chunk		
+bon-qmt-q5-a2	5	apparatus:p96-4	p96-4	crossref	chain-continuation	d. 9. dub. 5.	bon-sent-I-d9-dubia		chunk		
+bon-qmt-q5-a2	5	apparatus:p96-5	p96-5	scripture	apparatus-explicit	Ioan. 17, 3	Ioan 17:3	A	verse		
+bon-qmt-q5-a2	5	apparatus:p96-5	p96-5	crossref	page	supra pag. 71, nota 2	bon-qmt-q3-a1		chunk		
 bon-qsc-q1	5	apparatus:p3-1	p3-1	crossref	logical	III. Sent. d. 14	III:d14		distinctio		
 bon-qsc-q1	5	apparatus:p3-1	p3-1	crossref	logical	I. Sent. d. 35. q. 5	bon-sent-I-d35-a1-q5		chunk		
 bon-qsc-q1	5	apparatus:p3-1	p3-1	crossref	chain-continuation	d. 39. a. 1. q. 1	bon-sent-I-d39-a1-q1		chunk		

@@ -248,6 +248,39 @@ KNOWN_TOTALS = {
              # BOUNDARY 9 (p. 93) IS A LEAF EDGE: ARTICULUS II. stands at the
              # very head of p. 93 and that leaf's register opens numbered and
              # indented, so q5-a1 forwards NOTHING, body or register.
+    93: 8,   # all eight are q5-a2's -- ARTICULUS II. opens at the very head of
+             # the leaf (boundary 9, a LEAF EDGE) and the article fills it.
+             # n.1 (`cfr. supra pag. 89, nota 1.`) is an INBOUND reference into
+             # q5-a1, verified to land on the Boethius definition.
+             # Gutter 1188 -- colcrop's default 1214 on a 4 px run is WRONG BY
+             # 26 px; true band 1159-1217 (59 px), rule 1184-1189 peak 1242,
+             # the most heavily inked centre rule in the work.
+             # Digits: n.3's `(c. 1.)` corrects the raw's `(c. 4.)`, n.8's
+             # `d. II. c. 4. et 5.` corrects the raw's `d. 11, c. i. et 5`,
+             # both against the true 4/true 1 pair standing four words apart
+             # on n.2's own last line (`taph. tr. 4. c. 1.`).
+    94: 9,   # all nine are q5-a2's. n.5 is the work's THIRD `fundam. N` site
+             # (`fundam. 10.`) and ruling 5 is obeyed: `fundamentum 10`.
+             # Gutter 1338 on a sound 61 px run -- the only leaf of the four
+             # where colcrop's default was right, and the profile reproduced it.
+    95: 8,   # all eight are q5-a2's. n.3 RUNS OVER THE GUTTER, breaking at
+             # `sed quod` and completing flush left at the head of the right
+             # block above n.4. Body raw for this leaf is DEGRADED and was
+             # re-set from the plate. Gutter 1138 -- default 1163 on a 3 px
+             # run, WRONG BY 25 px; band 1108-1168 (61 px), rule peak 643.
+    96: 5,   # all five are q5-a2's -- BOUNDARY 10 FORWARDS IN THE BODY ONLY,
+             # split 5/0. QUAESTIO VI., its subtitle and its UNANCHORED opener
+             # stand on this leaf and belong to q6-a1; all five notes anchor in
+             # Article II's replies 8, 9, 9, 11 and 11. Same shape as boundary 6
+             # (p. 78), the work's second body-only forward.
+             # Gutter 1391 for Article II's REGION -- the whole-leaf default
+             # gave 1381 on a 3 px run with a 203 px window spread, because the
+             # leaf stacks three regions. Region rows 0.06-0.63: band 1361-1422
+             # (62 px), rule 1389-1394 peak 1028.
+             # n.1's `pag. 14` (raw `pag. 1i`) settled by the TARGET -- qsc-q3
+             # p.14 n.5 is the Sophistici Elenchi locus for figura dictionis --
+             # and n.5's `pag. 71` by q3-a1 p.71 n.2, the Augustine the body
+             # quotes. p.97's register opens numbered, so nothing forwards.
     205: 8,
     206: 11,
     207: 8,
