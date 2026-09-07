@@ -1,5 +1,99 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **`bon-qmt-q5-a1` IS LANDED. THE FRONT IS `bon-qmt-q5-a2`.**
+> Quaestio V, Articulus I, **pp. 87–92** — Tier 2, built 2026-09-06; the work's ninth chunk, **9 of 15**.
+> Twelve arguments that the divine *esse* is eternal (marginale `Fundamenta.`), a **`Cᴏɴᴛʀᴀ:` series of
+> seventeen** in letter-spaced small caps in-column (marginale `Ad oppositum.`), `Cᴏɴᴄʟᴜsɪᴏ` in-column,
+> a *Respondeo* whose whole work is that **simplicity and infinity taken together yield eternity**
+> (Boethius' *interminabilis vitae possessio tota simul* resolved into *simultas* from simplicity and
+> *interminabilitas* from immensity), and **seventeen replies in fifteen paragraphs** (`1. 2.`, `7. 8.`,
+> `15. 16.` combined). **35 apparatus entries** (p. 87 nn. 4–5 of five · 88 all eleven · 89 all seven ·
+> 90 all four · 91 all five · 92 all six), **zero `[?]` flags**, two gutter runovers, zero page-crossing.
+> Conventions: repo `CLAUDE.md` § **MYSTERIO TRINITATIS** — **that block is authoritative, this is a pointer.**
+> Committed locally, **not pushed, not deployed** — the deploy boundary is still the work close at p. 115.
+>
+> ## ⛔⛔ BOUNDARY 9 (p. 93) IS A LEAF EDGE — THE WORK'S SECOND, AND THE INDEX WAS WRONG AT BOTH ENDS
+> Art. I fills p. 92 to the **foot of both columns** and `ARTICULUS II.` stands at the **very head of
+> p. 93**, whose register opens numbered and indented — so `q5-a1` owns all six of p. 92's entries and
+> **forwards NOTHING, body or register.** ⚠ The index gave `q5-a1 86–93`: `q4-a2` had already measured
+> the **first** page wrong by two leaves, and this chunk measures the **last** wrong by one. ⭐ **The raw
+> band was exact a second time** — `L22322 → L23104` ends at the article's last word, `ARTICULUS II.`
+> opens at L23106. ⛔ **The page range is the unreliable half of an index line; the raw band is the
+> reliable half — now attested at both ends of ONE line.** ★ The standing order paid a **sixth** time.
+> ▶ **Nine boundaries, SEVEN shapes: 5/1 · LEAF EDGE · 2/8 · 1/4 · 4/2 · 4/0 · 1/6 · 3/2 · LEAF EDGE.**
+>
+> ## ⭐⭐ A SPURIOUS ANCHOR MARK KILLED BY THE REGISTER'S OWN BACK-REFERENCE
+> p. 89's body carries **EIGHT** raised marker glyphs against **SEVEN** register entries, and the raw
+> shows the same eight — two witnesses, one reading. **n. 3's own text settles it:** `A Boethio supra in
+> arg. 9. datam` cannot stand at argument 9, so it stands at **Contra 11** (`per definitionem`), fixing
+> the sequence 7/9/11/13/14/16/17 and leaving **Contra 4's mark with no seat**. All seven were then
+> confirmed independently from content. ⛔ This is `q3-a2`'s p. 77 finding caught by a **new instrument**:
+> not the targets, but the register's back-reference to a numbered argument. ▶ **A note that names an
+> argument number is a free control on the anchor sequence of its whole leaf.**
+>
+> ## ⭐ A FIFTH COMPOSITOR'S BLANK — THE FIRST INSIDE A WORK'S TITLE
+> p. 88 n. 1 prints Boethius' *De hebdomadibus* as `in lib. Quomodo substantiae in 〈 〉o, quod sint…` —
+> the *e* of *eo* is absent. **Measured, not eyeballed:** flanking letters at full strength (*n* min 51,
+> *o* min 31, against a line running 28–100), gap paper **min 136 / dark fraction 0.001**, the lines
+> below unbroken through the same pixel column, and the raw independently giving `in  o,`. **First
+> branch: reproduced, NOT filled**; English carries `[*sic*]`. ⚠ **The first of the class to fall inside
+> a TITLE, which is exactly why it had to be refused** — the reading is determinate from outside
+> evidence and the rule turns on the ink, not on the reader's learning.
+>
+> ## ⭐⭐ SIX FREE CONTROLS; FIVE DIGITS SETTLED BY THE TARGET RATHER THAN THE TYPE
+> `pag. 47, nota 11` (raw `pag. il, nota II`) → our own `q1-a1` p. 47 n. 11, the *Soliloquia* note, which
+> cites **Anselm Monolog. c. 18 — this leaf's own n. 9** · `pag. 79, nota 9` → `q4-a1` · `supra q. 4. a. 1.`
+> → `q4-a1`, whose `title_la` IS the note's subject · `q. 4. a. 1. in corp. et ad 2.` (raw `q. i. a. I.`)
+> → the target's *Respondeo* IS the *quantitas molis/virtutis* distinction reply 9 turns on ·
+> `supra pag. 21, nota 8` → **`bon-qsc-q4` p. 21 n. 8, the Aristotle the body quotes verbatim**, so the
+> 1-vs-4 never reached the plate. ⭐⭐⭐ **p. 92 n. 4 is the work's sharpest 1-vs-4 calibration and it goes
+> BOTH ways on adjacent lines of one note:** `pag. 447` (raw `ii7`, corrected at 4× against `(c. 4.)` and
+> `text. 12.` on the same line) and `pag. 81` (raw right, confirmed at 12× against `nota 4.` three words
+> later). ⭐ **A third internal cross-reference closes inside this work in the third consecutive chunk**
+> (p. 92 n. 3 → `bon-qmt-q3-a1`), and `II. Sent. d. 2. p. I. a. 1. q. 1.` = *Utrum spiritualia habeant
+> propriam mensuram* is cited **three times across two leaves** — Quaracchi checking his own digits.
+>
+> ## ▶ GUTTERS — WRONG ON THREE OF SIX, AND p. 87 IS A SECOND REGION ON AN ALREADY-MEASURED LEAF
+> 87 **1161** *(Art. I's region; `q4-a2` measured 1168 for the region ABOVE `QUAESTIO V.` and was right)* ·
+> 88 **1381** · 89 **1157** · 90 **1380** · 91 **1152** *(default 1130 on a 15 px run, 22 px out)* ·
+> 92 **1406** *(default 1442 on a 2 px run, 36 px out)*. ⭐ **A neighbour chunk's measurement of the same
+> leaf is a thing to check against, never to adopt.** pp. 89 and 90 escalated under the 60 px floor and
+> were **confirmed** (p. 89's rule island peaks at **991**, the most heavily inked in the work).
+>
+> ## ▶ NUMBERS, DERIVED AFTER `q5-a1`
+> `check-vol5-apparatus.py` **146 chunks / 3,124 entries, all passed** (pp. 88–92 added to `KNOWN_TOTALS`) ·
+> `check-vol5-census.py` **rosters agree 146/146**, **209 runovers (186 gutter, 23 page)** — this chunk
+> adds two gutter · `check-live-flags.py` **237 corpus-wide, `bon-qmt-*` ZERO** · `polish-style-scan`
+> **2,098 scanned, 11 issues / 6 chunks, ZERO in scope** · `build-content.mjs` **12 books, 2,097
+> questions, 2,097 translated** · `build-citations.py` **22,443 records, QA 201, and this chunk's 29
+> records are ZERO dangling / ZERO unresolvable / ZERO ambiguous** · `build-index-json.py` run after.
+> Registry **division 5 went in** (*Utrum personarum trinitas simul stet cum summa aeternitate*, verified
+> word for word on p. 87).
+>
+> ## ▶▶▶ FRONT = `bon-qmt-q5-a2`, **pp. 93–?**, raw **L23105 → L23647**
+> ⭐ **It opens CLEAN on p. 93 and inherits NOTHING** — no body, no register, no runover; p. 93's own
+> register opens at n. 1 legitimately (`Ex definitione aeternitatis a Boethio data; cfr. supra pag. 89,
+> nota 1.` — ⭐ **an inbound reference into THIS chunk**, so the seam is wired even though nothing crosses it).
+> ⛔⛔ **FIX THE END OF THE SPAN ON THE PLATE BEFORE EXTRACTING.** The index gives `q5-a2 93–96`, and after
+> two consecutive chunks in which an index line failed — once at its first page, once at its last —
+> that number carries no weight. **Extract the candidate last leaf ALONE and read it first**, then walk
+> the raw band to its end.
+> ⭐⭐⭐ **`q5-a2` IS ONE OF THE TWO DECIDING CHUNKS FOR *vacatio*/*quies*, AND IT IS THE FIRST.** The
+> pilot measured the noun *quietis* twice on this band, at **raw L23636 and L23645** — both inside
+> `q5-a2`. The question has been open since `bon-praec-c4`, closed as *untestable* on work 2, and carried
+> untested through every chunk of this work so far (`q5-a1` returns **zero** for a stem census on both
+> `vaca` and `quie`). **Settle it with the plate in view, and say so in the Notes.**
+> ⚠ **PROFILE THE GUTTER ON EVERY LEAF**, and where a full-measure heading falls mid-leaf, profile the
+> regions separately — `q5-a1` found the default wrong on three leaves of six.
+> ⚠ **Ruling 5 (`fundam. N` → `fundamentum N`, apparatus only) was NOT reached in `q5-a1`** and that is
+> stated positively in its Notes; a chunk that MEETS the site must say so and quote its rendering.
+> ⚠ **The vol5 plates for pp. 68–93 are on disk now** (`raw/vision/vol5/`); **pass 4 of the work-close
+> gate will delete them, so do not assume.**
+> The next gate is the work-close gate at p. 115; **nothing in this work is deployed.**
+
+---
+
+> # (superseded by `bon-qmt-q5-a1`, 2026-09-06) previous START HERE
 > # ▶▶▶ START HERE — **`bon-qmt-q4-a2` IS LANDED. QUAESTIO IV IS COMPLETE. THE FRONT IS `bon-qmt-q5-a1`.**
 > Quaestio IV, Articulus II, **pp. 84–87** — **FOUR printed pages, not the two the index promised** —
 > Tier 2, built 2026-09-06; the work's eighth chunk, **8 of 15**. Ten arguments that trinity and

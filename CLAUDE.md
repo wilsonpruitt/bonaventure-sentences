@@ -1,6 +1,6 @@
 # Bonaventure Sentences — Project Guide for Claude
 
-You are working on an English translation of **St. Bonaventure's *Opera Omnia*** (Quaracchi edition, 1882–1902). Status (2026-09-06): **Books I–IV are complete and published** (Vols I–IV, all Tier 2). The active front is **Vol V**, where the Breviloquium, Itinerarium, De reductione, the Collationes in Hexaemeron, the *Collationes de septem donis*, the *Collationes de decem praeceptis* and the **QD de scientia Christi** (pp. 3–43, seven quaestiones, shakedown + work-close gates closed, **pushed and DEPLOYED 2026-09-05**) are ALL COMPLETE. **The next work is the *QD de mysterio Trinitatis*, pp. 45–115** — its **mini-pilot is FROZEN 2026-09-05** (§ MYSTERIO TRINITATIS below; evidence in `manual-review/mysterio-trinitatis-pilot-scouting.md`): **fifteen chunks, one per articulus** (`bon-qmt-q{1..7}-a{1,2}` + `bon-qmt-q8`), settled on Quaracchi's own 26 internal `q. N. a. N.` cross-references. **SEVEN of fifteen are BUILT (pp. 45–84, 289 apparatus entries, zero `[?]` in all seven): `bon-qmt-q1-a1` (45–51, 54) · `bon-qmt-q1-a2` (51–58, 53) · `bon-qmt-q2-a1` (59–63, 29) · `bon-qmt-q2-a2` (63–68, 40) · `bon-qmt-q3-a1` (68–73, 34) · `bon-qmt-q3-a2` (73–78, 35) · `bon-qmt-q4-a1` (78–84, 44). The SHAKEDOWN GATE IS CLOSED at p. 68 (2026-09-06, `manual-review/vol5-mysterio-trinitatis-shakedown-gate.md`) — ZERO defects in scope, both carried questions ruled. The front is `bon-qmt-q4-a2`, index span 84–85 — the work's SHORTEST unit, whose END must be fixed on the plate first.** Deploy boundary is the work close at p. 115. The live site is https://bonaventure.wrootpress.com. Always defer to `next-session-resume.md` for the exact current position.
+You are working on an English translation of **St. Bonaventure's *Opera Omnia*** (Quaracchi edition, 1882–1902). Status (2026-09-06): **Books I–IV are complete and published** (Vols I–IV, all Tier 2). The active front is **Vol V**, where the Breviloquium, Itinerarium, De reductione, the Collationes in Hexaemeron, the *Collationes de septem donis*, the *Collationes de decem praeceptis* and the **QD de scientia Christi** (pp. 3–43, seven quaestiones, shakedown + work-close gates closed, **pushed and DEPLOYED 2026-09-05**) are ALL COMPLETE. **The next work is the *QD de mysterio Trinitatis*, pp. 45–115** — its **mini-pilot is FROZEN 2026-09-05** (§ MYSTERIO TRINITATIS below; evidence in `manual-review/mysterio-trinitatis-pilot-scouting.md`): **fifteen chunks, one per articulus** (`bon-qmt-q{1..7}-a{1,2}` + `bon-qmt-q8`), settled on Quaracchi's own 26 internal `q. N. a. N.` cross-references. **NINE of fifteen are BUILT (pp. 45–92, 348 apparatus entries, zero `[?]` in all nine): `bon-qmt-q1-a1` (45–51, 54) · `bon-qmt-q1-a2` (51–58, 53) · `bon-qmt-q2-a1` (59–63, 29) · `bon-qmt-q2-a2` (63–68, 40) · `bon-qmt-q3-a1` (68–73, 34) · `bon-qmt-q3-a2` (73–78, 35) · `bon-qmt-q4-a1` (78–84, 44) · `bon-qmt-q4-a2` (84–87, 24) · `bon-qmt-q5-a1` (87–92, 35). The SHAKEDOWN GATE IS CLOSED at p. 68 (2026-09-06, `manual-review/vol5-mysterio-trinitatis-shakedown-gate.md`) — ZERO defects in scope, both carried questions ruled. The front is `bon-qmt-q5-a2`, index span 93–96 — and it is ONE OF THE TWO DECIDING CHUNKS FOR the open *vacatio*/*quies* question (raw L23636, L23645).** Deploy boundary is the work close at p. 115. The live site is https://bonaventure.wrootpress.com. Always defer to `next-session-resume.md` for the exact current position.
 
 This file is loaded into every Claude Code session in this repo. Read it before making changes to translation files or the build pipeline.
 
@@ -277,7 +277,7 @@ Vols V–X (2026-07-28).**
 |---|---|---|---|---|---|
 | 1 | Prolegomena | I–XL+ | — | — | NOT chunked (editorial apparatus, like INDEX QUAESTIONUM) |
 | 2 | QD de scientia Christi | **3–43** | `scientia-christi` | 8 | **COMPLETE 2026-09-05 — all 7 quaestiones Tier 2; shakedown + work-close gates CLOSED, pushed and DEPLOYED (verified live).** Mini-pilot frozen 2026-08-31 (7 quaestiones, no articuli, no scholia; p. 1 half-title covers all THREE QD, p. 2 blank 0.0013 %, p. 44 blank 0.0008 %, **no `EXPLICIUNT` colophon**). |
-| 3 | QD de mysterio Trinitatis | **45–115** | `mysterio-trinitatis` | 9 | **ACTIVE — mini-pilot FROZEN 2026-09-05** (§ MYSTERIO TRINITATIS below). **8 quaestiones / 14 articuli / Q. VIII undivided → FIFTEEN chunks, one per articulus**; no half-title (p. 44 blank 0.0007 %), no scholia, no Summarium, **no colophon** (ends p. 115, p. 116 blank). **7 of 15 built (pp. 45–84); shakedown gate CLOSED at p. 68, zero defects. Next gate = the WORK-CLOSE gate at p. 115.** |
+| 3 | QD de mysterio Trinitatis | **45–115** | `mysterio-trinitatis` | 9 | **ACTIVE — mini-pilot FROZEN 2026-09-05** (§ MYSTERIO TRINITATIS below). **8 quaestiones / 14 articuli / Q. VIII undivided → FIFTEEN chunks, one per articulus**; no half-title (p. 44 blank 0.0007 %), no scholia, no Summarium, **no colophon** (ends p. 115, p. 116 blank). **9 of 15 built (pp. 45–92); shakedown gate CLOSED at p. 68, zero defects. Next gate = the WORK-CLOSE gate at p. 115.** |
 | 4 | QD de perfectione evangelica | 117–198 | `perfectione-evangelica` | 10 | planned. ⚠ **NO half-title leaf expected** — same three-work half-title; fix p. 117 on the plate. |
 | 5 | **Breviloquium** | 199–291 | `breviloquium` | 5 | **COMPLETE — gated + deployed 2026-08-01** |
 | 6 | **Itinerarium mentis in Deum** | 293–316 | `itinerarium` | 6 | **COMPLETE 2026-08-14 — all 10 chunks Tier 2; work-close gate + deploy due** |
@@ -1669,10 +1669,19 @@ plate**; a blankness number is a screen, the plate is the evidence.
   anchor divide differently on the same leaf for the third time in this work. ⭐ **n. 3 is the cleanest
   anchor confirmation the work has produced: it is `B E regula`, a variant whose own lemma IS the anchor
   word** (reply 10's *declinandi a via*³ *veritatis*). **A variant note tells you where its anchor is.**
-  ⛔ **The other SIX boundaries are UNMEASURED — re-ask the p. 498 rule on the plate at each.** Work 2
+  ⭐⭐ **BOUNDARY 9 (p. 93) MEASURED: it does NOT forward — the work's SECOND LEAF EDGE.** Art. I fills
+  p. 92 to the **foot of both columns**, closing *— Et per hoc patet responsio ad praehabitam quaestionem.*,
+  and `ARTICULUS II.` stands at the **very head of p. 93**, whose register opens numbered and indented at
+  n. 1; `q5-a1` owns all six of p. 92's entries and **forwards NOTHING, body or register.** ⚠⚠ **The index
+  line `q5-a1 86–93` is wrong at BOTH ENDS** — `q4-a2` measured its first page wrong by two leaves and
+  `q5-a1` measures its last wrong by one — **the first index line in the work to fail on both sides.**
+  ⭐ The raw band was exact a second time: `L22322 → L23104` ends at the article's last word and
+  `ARTICULUS II.` opens at L23106. ⛔ **The page range is the unreliable half of an index line and the
+  raw band is the reliable half; that is now attested at both ends of ONE line.**
+  ⛔ **The other FIVE boundaries are UNMEASURED — re-ask the p. 498 rule on the plate at each.** Work 2
   answered "yes" five times and "no" once, and no two of its six splits were alike; this work is
-  7 forwarding / 1 leaf edge, with split ratios 5/1, 2/8, 1/4, 4/2, 4/0, 1/6 and 3/2 — **seven shapes in
-  eight boundaries. The ratio carries no rule.**
+  **7 forwarding / 2 leaf edges**, with split ratios 5/1, 2/8, 1/4, 4/2, 4/0, 1/6 and 3/2 — **seven shapes
+  in nine boundaries. The ratio carries no rule.**
   ★★ **A LEAF-EDGE SEAM IS THE DANGEROUS CLASS, AND BEING MEASURED IS WHAT MAKES IT SAFE**
   (shakedown gate, 2026-09-06): p. 58 is the exact shape the index gets wrong, and it is right here
   only because `q1-a2` put the p. 498 rule to the plate rather than to the index.
@@ -2002,6 +2011,82 @@ plate**; a blankness number is a screen, the plate is the evidence.
   split is total again — twenty arguments carry **two** glosses, the *Respondeo* and replies **seventeen**.
   ⚠ **Raw grade moves inside the span: p. 85's body is BADLY degraded** (*gennanitas suniina* for
   *germanitas summa*) and was re-set from the plate; pp. 84, 86, 87 clean, footers clean throughout.
+
+- **✅✅ `bon-qmt-q5-a1` IS BUILT (pp. 87–92, 35 entries, zero `[?]`, 2026-09-06) — QUAESTIO V IS OPENED.**
+  Carries `QUAESTIO V.`, its subtitle, its opener, its two *praeambula* and `ARTICULUS I.` with its
+  subtitle, all set full measure on p. 87 below Article II's close. Twelve arguments that the divine
+  *esse* is eternal (marginale `Fundamenta.`), a **`Cᴏɴᴛʀᴀ:` series of seventeen** in letter-spaced small
+  caps in-column (marginale `Ad oppositum.`), `Cᴏɴᴄʟᴜsɪᴏ` in-column, a *Respondeo* whose whole work is
+  that **simplicity and infinity taken together yield eternity** — Boethius' *interminabilis vitae
+  possessio tota simul* resolved into *simultas* from simplicity and *interminabilitas* from immensity,
+  with two corollaries, a simile in God and a twofold simile in the creature — and **seventeen replies in
+  fifteen paragraphs** (`1. 2.`, `7. 8.`, `15. 16.` combined). Registry **division 5** went in with it,
+  subtitle *Utrum personarum trinitas simul stet cum summa aeternitate* verified word for word on p. 87.
+  **Boundary 9 (p. 93) MEASURED: LEAF EDGE** (above). Five things it settles:
+  **(a) ⭐⭐ A SPURIOUS ANCHOR MARK KILLED BY THE REGISTER'S OWN BACK-REFERENCE — a NEW instrument for
+  `q3-a2`'s p. 77 class.** p. 89's body carries **EIGHT** raised marker glyphs against **SEVEN** register
+  entries, and the raw shows the same eight, so the two witnesses are one reading. **n. 3's own text
+  settles it**: `A Boethio supra in arg. 9. datam` cannot itself stand at argument 9, so it stands at
+  **Contra 11** (`per definitionem`), which fixes the sequence 7/9/11/13/14/16/17 and leaves **Contra 4's
+  mark with no seat.** All seven were then confirmed independently from content (n. 1 pairs the short
+  Boethius with Aristotle on circular motion, against Contra 7's *interminabilitas → circularitas*;
+  n. 2's bare repeat pairs with Contra 9's **fuller** quotation adding *tota simul*; n. 4 is the variant
+  `G cum toto nunc` on Contra 13; n. 5 is Aristotle on the indivisibility of the *instans*, Contra 14's
+  *punctus*/*nunc*; n. 6 is divine simplicity, Contra 16's *substantia, virtus et operatio*; n. 7 is the
+  *ante mundi constitutionem* locus, Contra 17's own phrase). ▶ **A note that names an argument number is
+  a free control on the anchor sequence of its whole leaf.**
+  **(b) ⭐ A FIFTH COMPOSITOR'S BLANK, AND THE FIRST INSIDE A WORK'S TITLE.** p. 88 n. 1 prints Boethius'
+  *De hebdomadibus* as `in lib. Quomodo substantiae in 〈 〉o, quod sint…` — the *e* of *eo* absent. All
+  three controls run: flanking letters **at full strength** (*n* min 51, *o* min 31, against a line whose
+  text minima run 28–100), gap paper **min 136 / dark fraction 0.001** against a text minimum of 28, the
+  lines below **unbroken through the same pixel column**, and the raw independently giving `in  o,`.
+  **First branch: the gap is reproduced and NOT filled**; English carries `[*sic*]`. ⚠ **That it falls
+  inside a TITLE is exactly why it had to be refused** — the reading is determinate from outside evidence
+  (anyone who knows the treatise supplies *eo*) and **the rule turns on the ink, not on the reader's
+  learning.**
+  **(c) ⭐⭐⭐ FIVE DIGITS SETTLED BY THE TARGET RATHER THAN THE TYPE, AND ONE 1-vs-4 GOING BOTH WAYS ON
+  ADJACENT LINES OF ONE NOTE.** `pag. 47, nota 11` (raw `pag. il, nota II`) → our own `q1-a1` p. 47 n. 11,
+  the *Soliloquia* note, **which cites Anselm *Monolog.* c. 18 — this leaf's own n. 9**, so one target
+  confirms two entries · `pag. 79, nota 9` → `q4-a1` · `supra q. 4. a. 1.` → `q4-a1`, whose `title_la` IS
+  the note's subject · `q. 4. a. 1. in corp. et ad 2.` (raw `q. i. a. I.`) → the target's *Respondeo* IS
+  the *quantitas molis*/*virtutis* distinction reply 9 turns on · `supra pag. 21, nota 8` → **`bon-qsc-q4`
+  p. 21 n. 8, the Aristotle the body quotes verbatim**, so the 1-vs-4 never reached the plate at all.
+  ⭐⭐ **p. 92 n. 4:** `pag. 447` (raw `ii7`) corrected at **4×** against `(c. 4.)` and `text. 12.` on the
+  same line, and `pag. 81` (raw right) confirmed at **12×** against `nota 4.` three words later — **two
+  digits of one note, one line apart, answering opposite ways.**
+  **(d) ⭐ A THIRD INTERNAL CROSS-REFERENCE CLOSES INSIDE THE WORK IN THE THIRD CONSECUTIVE CHUNK**
+  (p. 92 n. 3's `Quaest. 3. a. 1.` → `bon-qmt-q3-a1`, *Utrum divinum esse sit simplicissimum*, against
+  reply 13's *quae in Deo idem sunt… secundum quod praetactum est supra*). ⭐ And **`II. Sent. d. 2. p. I.
+  a. 1. q. 1.` = *Utrum spiritualia habeant propriam mensuram* is cited THREE TIMES ACROSS TWO LEAVES**
+  (p. 88 nn. 7 and 10, p. 89 n. 7) — **Quaracchi checking his own digits for us**, and settling p. 89
+  n. 7's roman `d. II.` against p. 88's arabic `d. 2.`, both left as printed. **29 citation records, ZERO
+  dangling, ZERO unresolvable, ZERO ambiguous.**
+  **(e) ⚠⚠ THE GUTTER DEFAULT WAS WRONG ON THREE LEAVES OF SIX, AND p. 87 IS A SECOND REGION ON A LEAF A
+  NEIGHBOUR CHUNK HAD ALREADY MEASURED.** `q4-a2` gives p. 87 **1168** and is right — for the region
+  ABOVE the full-measure `QUAESTIO V.` stack; Article I's region below it profiles to band 1131–1192
+  (62 px), rule island 1155–1162 (peak 153), **1161**. ⭐ **A neighbour's measurement of the same leaf is
+  a thing to check against, never to adopt.** Gutters: 87 **1161** · 88 **1381** · 89 **1157** ·
+  90 **1380** · 91 **1152** (default 1130 on a 15 px run, **22 px out**) · 92 **1406** (default 1442 on a
+  **2 px** run, **36 px out**). pp. 89 and 90 escalated under the 60 px floor and were **confirmed**;
+  p. 89's centre-rule island peaks at **991**, the most heavily inked in the work.
+  ⭐ **Two gutter runovers (p. 91 n. 1, p. 92 n. 4), ZERO page-crossing — the negative ESTABLISHED**, the
+  head of every incoming register read before its first numeral, p. 93's included. **Marginalia 31, none
+  clipped** (fourth scoping of the 69–73 clipping); the solution-heavy split is **total** a sixth time —
+  the twenty-nine arguments of the two series carry **two** glosses, the *Conclusio*, *Respondeo* and
+  seventeen replies **twenty-nine**, and **pp. 88 and 89 have wholly empty left margins.**
+  ⚠ **Register:** *simultas* → "simultaneity" (corpus precedent) and *interminabilitas* →
+  "interminability", **which DIVERGES from `bon-brev-p7-c6`'s "endlessness" — and that chunk scoped its
+  own choice to its own capitulum**, where the word stood in a chain of like-shaped nouns; here the pair
+  *simultas*/*interminabilitas* is the *Respondeo*'s hinge and must sound like a pair. **Neither is a
+  correction of the other.** ⭐⭐ ***intelligentia* → "intelligence" PAYS at the sharpest site the work has
+  offered** — p. 90's *memoria praeteritorum, **intelligentia** praesentium et praevidentia futurorum*, a
+  three-term division standing eleven lines from *intelligi* and thirty from *intellectus noster*; **the
+  *septem donis* c8 case arriving in a third work.** *intellect-* → "understanding" with **zero bare
+  "intellect"**. ⛔ ***lux*/*lumen* do not occur on the span at all**, so ruling 2 is unexercised and the
+  Ps. 4:7 site unreached; **`fundam.` occurs in none of the 35 entries, so ruling 5 is NOT reached, and
+  that is stated positively in the chunk's Notes.** ⛔ ***vacatio*/*quies* returns ZERO on a stem census
+  (`vaca`, `quie`) over the whole band** — and `q5-a2`, the very next chunk, holds the noun *quietis*
+  twice (raw L23636, L23645) and is **the first of the two deciding chunks.**
 
 - **✅ `bon-qmt-q1-a2` IS BUILT (pp. 51–58, 53 entries, zero `[?]`, 2026-09-05) — QUAESTIO I IS COMPLETE.**
   Fourteen affirmative arguments in two runs (*debitum* 1–8, *congruum* 9–14), a **thirteen-argument
