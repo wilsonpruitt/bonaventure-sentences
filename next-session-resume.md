@@ -1,5 +1,89 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **`bon-qmt-q5-a2` IS LANDED. THE FRONT IS `bon-qmt-q6-a1`.**
+> Quaestio V, Articulus II, **pp. 93–96** — Tier 2, built 2026-09-07; the work's tenth chunk, **10 of 15**,
+> and **QUAESTIO V IS COMPLETE**. Eleven arguments that trinity and eternity are incompossible (marginale
+> `Ad oppositum.`), a **`Sᴇᴅ ᴄᴏɴᴛʀᴀ` series of ten** (marginale `Fundamenta`, **printed without its final
+> point**), `Cᴏɴᴄʟᴜsɪᴏ` in-column, a *Respondeo* in **three declared moves** (*ex parte conditionum
+> essentialium* · *emanationum originalium* · *relationum personalium*, marginalia `Ratio 1.` /
+> `Ratio 2, trimembris.` / `Ratio 3.`), and **eleven replies for eleven arguments, none combined** —
+> answering the **OPENING** series, the reverse of `q5-a1` inside one quaestio, exactly as Quaestio IV did.
+> **30 apparatus entries** (p. 93 all eight · 94 all nine · 95 all eight · 96 all five), **zero `[?]` flags**,
+> one gutter runover, zero page-crossing. Conventions: repo `CLAUDE.md` § **MYSTERIO TRINITATIS** — **that
+> block is authoritative, this is a pointer.** Committed locally, **not pushed, not deployed** — the deploy
+> boundary is still the work close at p. 115.
+>
+> ## ⭐⭐⭐ *VACATIO*/*QUIES* IS RULED — AND ONE OF THE TWO PREDICTED SITES WAS A HYPHENATION ARTEFACT
+> The pilot measured the noun *quietis* twice on this band, **L23636 and L23645**. ⛔ **L23636 is not the
+> noun**: it is *…silentium **quietis-*** — the first half of ***quietissimum***, broken across a line by
+> Quaracchi's own hyphenation and completed at the head of the next. **A stem census over two-column OCR
+> counts line-broken half-words as hits, silently, because the fragment is a real Latin string.** The band
+> holds **ONE** occurrence, L23645, the article's last words: *in libertatem supercaelestis **quietis**
+> plenius elevetur* → **"rest"**, with *quietissimum* kept adjectival → **"most quiet"**. `vaca` returns
+> zero, as the pilot said. ▶ **The chunk settles the *quies* side and CANNOT settle the pair** — the two
+> families meet only in **`q7-a2`** (raw **L25824**, *non quiescit nisi in summe amabili vacando*; and
+> **L25900** *vacabimus*), which now inherits a fixed "rest" **and a corrected count: one noun site on the
+> `q5-a2` band, not two.**
+>
+> ## ⭐⭐ BOUNDARY 10 (p. 96): FORWARDS IN THE BODY ONLY, SPLIT 5/0 — AND THE INDEX WAS RIGHT AT BOTH ENDS
+> Art. II runs to the foot of p. 96's right column; **`QUAESTIO VI.` then stands full measure on the same
+> leaf** with its subtitle, its **unanchored** opener and its two *praeambula*, all `q6-a1`'s — while **all
+> five of that leaf's register entries stay with `q5-a2`**, every one anchoring in replies 8, 9, 9, 11, 11.
+> Same shape as **boundary 6 (p. 78)**, the work's second body-only forward. ▶ **Ten boundaries, EIGHT
+> shapes: 5/1 · LEAF EDGE · 2/8 · 1/4 · 4/2 · 4/0 · 1/6 · 3/2 · LEAF EDGE · 5/0** — **8 forwarding / 2 leaf
+> edges.** ⭐⭐ **The index line `93–96` is right at BOTH ends, the first in this work verified sound on both
+> sides** — and it is a *measurement* only because p. 96 was extracted **alone** and read before pp. 94–95
+> were pulled. ⛔ **A line being right is a fact about that line.** ★ The standing order paid a **seventh** time.
+>
+> ## ⭐⭐ TWO FREE CONTROLS, BOTH INTERNAL, BOTH BEAT THE GLYPH
+> p. 96 n. 1 `pag. 14` (raw `pag. 1i`) → **`bon-qsc-q3` p. 14 n. 5, the *Sophistici Elenchi* locus for
+> *figura dictionis*** — which is the very phrase reply 8 hangs the note on · p. 96 n. 5 `pag. 71` →
+> **`bon-qmt-q3-a1` p. 71 n. 2, Augustine *de Trin.* VII.4.7 *Verius cogitatur Deus, quam dicitur***, word
+> for word the *verbum Augustini* the body echoes. ⭐ **A FOURTH internal cross-reference closes inside the
+> work, in the fourth of five consecutive chunks.** Five raw-vs-plate digit defects, each settled at 3× or
+> better against a same-line control or a target — p. 93 n. 2's `taph. tr. 4. c. 1.` sets a true `4` and a
+> true `1` **four words apart on one line** and corrects n. 3's `(c. 1.)` and n. 8's `c. 4. et 5.`
+> **in opposite directions**.
+>
+> ## ▶ GUTTERS — WRONG ON THREE OF FOUR; p. 93's CENTRE RULE IS THE WORK'S MOST HEAVILY INKED
+> 93 **1188** *(default 1214 on a 4 px run, 26 px out; rule peak **1242**, beating p. 89's 991)* ·
+> 94 **1338** *(the only sound default, 61 px, reproduced by the profile)* · 95 **1138** *(default 1163 on a
+> 3 px run, 25 px out)* · 96 **1391** *(Art. II's REGION; the whole-leaf default gave 1381 on a 3 px run with
+> a **203 px** window spread, the leaf stacking three regions)*.
+>
+> ## ▶ NUMBERS, DERIVED AFTER `q5-a2`
+> `check-vol5-apparatus.py` **147 chunks / 3,154 entries, all passed** (pp. 93–96 added to `KNOWN_TOTALS`) ·
+> `check-vol5-census.py` **rosters agree 147/147**, **210 runovers (187 gutter, 23 page)** · `check-live-flags.py`
+> **237 corpus-wide, `bon-qmt-*` ZERO** · `polish-style-scan` **11 issues / 6 chunks, ZERO in scope** ·
+> `build-content.mjs` **12 books, 2,098 questions, 2,098 translated** · `build-citations.py` **22,467 records,
+> QA 201, and this chunk's 24 records are ZERO dangling / ZERO unresolvable / ZERO ambiguous** ·
+> `build-index-json.py` run after. Registry **untouched — division 5 was already in.**
+> ⚠ **Three RESOLVER artefacts named in the chunk's Notes, not defects in the register:** p. 93 n. 2's two
+> **bare** `pag. N` coordinates are resolved as Vol V forward references when they inherit the note's own
+> last-named tome (I and IV), and p. 94 n. 8's `ibid.` is carried by **cross-note** anaphora onto
+> `scientia-christi` when it means `I. Sent. lit. Magistri, d. III`. **For the work-close gate.**
+>
+> ## ▶▶▶ FRONT = `bon-qmt-q6-a1`, **pp. 96–?** *(index says 97–102)*, raw **L23648 → L24532**
+> ⭐ **It inherits BODY, not register**: `QUAESTIO VI.` with its subtitle *Utrum trinitas possit stare cum
+> summa immutabilitate*, its opener *Consequenter quaeritur…* and its two *praeambula* all stand on **p. 96**
+> below Art. II's close, and **`q5-a2` owns all five of that leaf's entries** — so `q6-a1` **starts at p. 96
+> and its first apparatus entry is p. 97 n. 1** (`Vers. 6: Ego enim Dominus et non mutor. — Glossa…`, read
+> and confirmed numbered-and-indented). ⚠ **The opener is UNANCHORED** — checked at 1.8× across both its
+> columns — so do not go hunting a seat for it; but per `q2-a1`, **look at every opener anyway.**
+> ⛔⛔ **FIX THE END OF THE SPAN ON THE PLATE BEFORE EXTRACTING.** `ARTICULUS II.` opens at **L24533**;
+> the index's `102` is the leaf on which that heading falls and says nothing about where Art. I ends.
+> **Extract the candidate last leaf ALONE and read it first.**
+> ⚠ **PROFILE THE GUTTER ON EVERY LEAF**, by REGION where a full-measure heading falls mid-leaf — p. 96 is
+> already measured at **1391 for Art. II's region** and that value is a thing for `q6-a1` to check against,
+> **never to adopt**, since its own region is below `QUAESTIO VI.`
+> ⚠ **Ruling 5 (`fundam. N` → `fundamentum N`, apparatus only) WAS MET in `q5-a2`** (p. 94 n. 5,
+> `fundam. 10.` → *fundamentum 10*) and the rendering is quoted in its Notes; a chunk that meets the site
+> must say so, a chunk that does not must say that positively.
+> ⚠ **The vol5 plates for pp. 68–97 are on disk now** (`raw/vision/vol5/`); **pass 4 of the work-close gate
+> will delete them, so do not assume.**
+> The next gate is the work-close gate at p. 115; **nothing in this work is deployed.**
+
+
 > # ▶▶▶ START HERE — **`bon-qmt-q5-a1` IS LANDED. THE FRONT IS `bon-qmt-q5-a2`.**
 > Quaestio V, Articulus I, **pp. 87–92** — Tier 2, built 2026-09-06; the work's ninth chunk, **9 of 15**.
 > Twelve arguments that the divine *esse* is eternal (marginale `Fundamenta.`), a **`Cᴏɴᴛʀᴀ:` series of
