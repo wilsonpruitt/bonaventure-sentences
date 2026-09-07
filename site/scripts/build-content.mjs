@@ -412,6 +412,7 @@ const WORKS = {
       2: "Quaestio II: Utrum possit simul stare trinitas personarum cum naturae unitate",
       3: "Quaestio III: Utrum simul stent trinitas et summa simplicitas",
       4: "Quaestio IV: Utrum trinitas stet cum summa infinitate",
+      5: "Quaestio V: Utrum personarum trinitas simul stet cum summa aeternitate",
     },
   },
   // Future Vol V works claim book ids here as their mini-pilots run:

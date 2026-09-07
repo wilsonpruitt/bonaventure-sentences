@@ -19917,7 +19917,7 @@ bon-don-c8	5	apparatus:p495-7	p495-7	scripture	apparatus-explicit	Eccle. 8, 6	Ec
 bon-don-c8	5	apparatus:p495-10	p495-10	scripture	apparatus-explicit	Prov. 3, 16	Prov 3:16	A	verse		
 bon-don-c8	5	apparatus:p495-10	p495-10	scripture	apparatus-explicit	Ps. 35, 10	Ps 35:10	A	verse		
 bon-don-c8	5	apparatus:p496-1	p496-1	scripture	apparatus-explicit	Deut. 32, 28	Deut 32:28	A	verse		
-bon-don-c8	5	apparatus:p496-1	p496-1	crossref	page	supra pag. 90, nota 1	tom5:p90		forward		
+bon-don-c8	5	apparatus:p496-1	p496-1	crossref	page	supra pag. 90, nota 1	bon-qmt-q5-a1		chunk		
 bon-don-c8	5	apparatus:p496-2	p496-2	scripture	apparatus-explicit	Psalm. 31, 8	Ps 31:8	A	verse		
 bon-don-c8	5	apparatus:p496-3	p496-3	crossref	page	supra pag. 356, nota 2	bon-hex-c5		chunk		
 bon-don-c8	5	apparatus:p496-6	p496-6	crossref	page	supra pag. 227, nota 3	bon-brev-p2-c10+bon-brev-p2-c9		page-multi		
@@ -21067,7 +21067,7 @@ bon-hex-c3	5	apparatus:p344-1	p344-1	scripture	apparatus-explicit	Gen. 1, 3	Gen 
 bon-hex-c3	5	apparatus:p344-1	p344-1	crossref	page	supra pag. 323, nota 3	bon-red		chunk		
 bon-hex-c3	5	apparatus:p344-1	p344-1	crossref	page	tom. I. pag. 482, nota 4	bon-sent-I-d27-p2-a1-q1+bon-sent-I-d27-p2-a1-q2		page-multi		
 bon-hex-c3	5	apparatus:p344-1	p344-1	crossref	page	Ibid. pag. 484, nota 3	bon-sent-I-d27-p2-a1-q1+bon-sent-I-d27-p2-a1-q2		page-multi		
-bon-hex-c3	5	apparatus:p344-1	p344-1	crossref	page	supra pag. 87, nota 1	bon-qmt-q4-a2		chunk		
+bon-hex-c3	5	apparatus:p344-1	p344-1	crossref	page	supra pag. 87, nota 1	bon-qmt-q4-a2+bon-qmt-q5-a1		page-multi		
 bon-hex-c3	5	apparatus:p344-2	p344-2	crossref	page	tom. I. pag. 447, nota 2	bon-sent-I-d25-dubia+bon-sent-I-d26-littera		page-multi		
 bon-hex-c3	5	apparatus:p344-2	p344-2	crossref	page	supra pag. 12, nota 8	bon-qsc-q3		chunk		
 bon-hex-c3	5	apparatus:p344-3	p344-3	crossref	logical	I. Sent. d. 8. p. I. a. 2. q. 1.	bon-sent-I-d8-p1-a2-q1		chunk		
@@ -21603,7 +21603,7 @@ bon-itin-c6	5	apparatus:p310-8	p310-8	crossref	logical	I. Sent. d. 29. a. 2.	bon
 bon-itin-c6	5	apparatus:p310-8	p310-8	crossref	relative-inherited	ibid.	bon-sent-I-d29-a2-q1+bon-sent-I-d29-a2-q2		articulus		
 bon-itin-c6	5	apparatus:p311-1	p311-1	crossref	page	tom. I. pag. 57, nota 7	bon-sent-I-d2-a1-q4		chunk		
 bon-itin-c6	5	apparatus:p311-1	p311-1	crossref	page	pag. 199, nota 4	bon-sent-I-d10-a1-q2+bon-sent-I-d10-a1-q3		page-multi		
-bon-itin-c6	5	apparatus:p311-1	p311-1	crossref	page	supra pag. 87, nota 1	bon-qmt-q4-a2		chunk		
+bon-itin-c6	5	apparatus:p311-1	p311-1	crossref	page	supra pag. 87, nota 1	bon-qmt-q4-a2+bon-qmt-q5-a1		page-multi		
 bon-itin-c6	5	apparatus:p311-1	p311-1	crossref	page	pag. 211, nota 3	bon-brev-p1-c2+bon-brev-p1-c3		page-multi		
 bon-itin-c6	5	apparatus:p311-5	p311-5	scripture	apparatus-explicit	Exod. 25, 20	Exod 25:20	A	verse		
 bon-itin-c6	5	apparatus:p311-5	p311-5	scripture	apparatus-explicit	Ioan. 17, 3	Ioan 17:3	A	verse		
@@ -21683,7 +21683,7 @@ bon-itin-scholion	5	latin_body		authority	authority:Bonav.	I. Sent. d. 3. p. I. 
 bon-itin-scholion	5	latin_body		authority	authority:Bonav.	II. Sent. d. 3. p. II. a. 2. q. 2.			excluded		
 bon-itin-scholion	5	latin_body		scripture	apparatus-explicit	Act. 17, 27	Act 17:27	A	verse		
 bon-itin-scholion	5	latin_body		authority	authority:Bonav.	II. Sent. d. 28. a. 2. q. 3.			excluded		
-bon-itin-scholion	5	latin_body		crossref	page	pag. 87	bon-qmt-q4-a2		chunk		
+bon-itin-scholion	5	latin_body		crossref	page	pag. 87	bon-qmt-q4-a2+bon-qmt-q5-a1		page-multi		
 bon-itin-scholion	5	latin_body		authority	authority:Bonav.	ibid.			excluded		
 bon-itin-scholion	5	latin_body		crossref	page	pag. 26	bon-qsc-q4		chunk		
 bon-itin-scholion	5	latin_body		authority	authority:S. Thom.	I. Sent. d. 3. q. 4.			excluded		
@@ -21804,7 +21804,7 @@ bon-praec-c4	5	apparatus:p520-3	p520-3	scripture	apparatus-explicit	Matth. 12, 2
 bon-praec-c4	5	apparatus:p520-3	p520-3	scripture	apparatus-explicit	Exod. 8, 19	Exod 8:19	A	verse		
 bon-praec-c4	5	apparatus:p520-6	p520-6	crossref	page	supra pag. 203, nota 8	bon-brev-prol-s1+bon-brev-prol-s2		page-multi		
 bon-praec-c4	5	apparatus:p520-6	p520-6	crossref	page	pag. 220, nota 4	bon-brev-p2-c2+bon-brev-p2-c3		page-multi		
-bon-praec-c4	5	apparatus:p520-7	p520-7	crossref	page	supra pag. 89, nota 1	tom5:p89		forward		
+bon-praec-c4	5	apparatus:p520-7	p520-7	crossref	page	supra pag. 89, nota 1	bon-qmt-q5-a1		chunk		
 bon-praec-c4	5	apparatus:p520-8	p520-8	crossref	logical	II. Sent. d. 3. p. II. a. 1. q. 2.	bon-sent-II-d3-p2-a1-q2		chunk		
 bon-praec-c4	5	apparatus:p521-1	p521-1	crossref	work	Breviloq. p. II. c. 2.	bon-brev-p2-c2		chunk		
 bon-praec-c4	5	apparatus:p521-4	p521-4	crossref	anaphor->work	ibid.	bon-brev-p2-c2		chunk	yes	Breviloq. p. II. c. 2.
@@ -22171,6 +22171,35 @@ bon-qmt-q4-a2	5	apparatus:p86-6	p86-6	crossref	logical	I. Sent. d. 7. q. 2.	bon-
 bon-qmt-q4-a2	5	apparatus:p86-7	p86-7	crossref	page	supra pag. 75, nota 7	bon-qmt-q3-a2		chunk		
 bon-qmt-q4-a2	5	apparatus:p87-1	p87-1	crossref	page	tom. I. pag. 707, nota 5	bon-sent-I-d40-a2-q1		chunk		
 bon-qmt-q4-a2	5	apparatus:p87-2	p87-2	crossref	work	Quaest. de scientia Christi	work:scientia-christi		work		
+bon-qmt-q5-a1	5	latin_body	p87-4	scripture	body-ordinal	Exodi decimo quinto	Exod 15:18	B	verse		
+bon-qmt-q5-a1	5	latin_body		scripture	body-ordinal	ad Romanos primo	Rom 1	C	chapter		
+bon-qmt-q5-a1	5	apparatus:p87-4	p87-4	scripture	apparatus-explicit	Rom. 1, 20	Rom 1:20	A	verse		
+bon-qmt-q5-a1	5	apparatus:p88-2	p88-2	crossref	page	supra pag. 47, nota 11	bon-qmt-q1-a1		chunk		
+bon-qmt-q5-a1	5	apparatus:p88-5	p88-5	crossref	anaphor->page	ibid.	bon-qmt-q1-a1		chunk	yes	supra pag. 47, nota 11
+bon-qmt-q5-a1	5	apparatus:p88-6	p88-6	crossref	anaphor->page	ibid.	bon-qmt-q1-a1		chunk	yes	supra pag. 47, nota 11
+bon-qmt-q5-a1	5	apparatus:p88-7	p88-7	crossref	logical	II. Sent. d. 2. p. I. a. 1. q. 1.	bon-sent-II-d2-p1-a1-q1		chunk		
+bon-qmt-q5-a1	5	apparatus:p88-10	p88-10	crossref	logical	II. Sent. d. 2. p. I. a. 1. q. 1.	bon-sent-II-d2-p1-a1-q1		chunk		
+bon-qmt-q5-a1	5	apparatus:p88-11	p88-11	crossref	page	supra pag. 79, nota 9	bon-qmt-q4-a1		chunk		
+bon-qmt-q5-a1	5	apparatus:p89-6	p89-6	crossref	logical	I. Sent. d. 8. p. II. q. 2.	bon-sent-I-d8-p2-a1-q2		chunk		
+bon-qmt-q5-a1	5	apparatus:p89-7	p89-7	scripture	apparatus-explicit	Ioan. 17, 24	Ioan 17:24	A	verse		
+bon-qmt-q5-a1	5	apparatus:p89-7	p89-7	scripture	apparatus-explicit	Eph. 1, 4	Eph 1:4	A	verse		
+bon-qmt-q5-a1	5	apparatus:p89-7	p89-7	scripture	apparatus-explicit	I. Petr. 1, 20	1Petr 1:20	A	verse		
+bon-qmt-q5-a1	5	apparatus:p90-1	p90-1	crossref	page	tom. III. pag. 728, nota 6	bon-sent-III-d33-dubia		chunk		
+bon-qmt-q5-a1	5	apparatus:p90-2	p90-2	crossref	logical	I. Sent. d. 39. a. 2. q. 3.	bon-sent-I-d39-a2-q3		chunk		
+bon-qmt-q5-a1	5	apparatus:p90-2	p90-2	crossref	logical	II. Sent. d. 2. p. I. a. 1. q. 2.	bon-sent-II-d2-p1-a1-q2		chunk		
+bon-qmt-q5-a1	5	apparatus:p90-3	p90-3	crossref	page	supra pag. 21, nota 8	bon-qsc-q4		chunk		
+bon-qmt-q5-a1	5	apparatus:p90-3	p90-3	crossref	anaphor->page	ibid.	bon-qsc-q4		chunk	yes	supra pag. 21, nota 8
+bon-qmt-q5-a1	5	apparatus:p91-1	p91-1	crossref	page	tom. III. pag. 175, nota 2	bon-sent-III-d7-a1-q2+bon-sent-III-d7-a1-q3		page-multi		
+bon-qmt-q5-a1	5	apparatus:p91-1	p91-1	crossref	logical	I. Sent. d. 8. p. I. dub. 7.	bon-sent-I-d8-p1-dubia		chunk		
+bon-qmt-q5-a1	5	apparatus:p91-1	p91-1	crossref	chain-continuation	d. 9. dub. 5.	bon-sent-I-d9-dubia		chunk		
+bon-qmt-q5-a1	5	apparatus:p92-2	p92-2	crossref	logical	II. Sent. d. 37. a. 1. q. 2.	bon-sent-II-d37-a1-q2		chunk		
+bon-qmt-q5-a1	5	apparatus:p92-2	p92-2	crossref	logical	I. Sent. d. 8. p. I. a. 2. q. 2.	bon-sent-I-d8-p1-a2-q2		chunk		
+bon-qmt-q5-a1	5	apparatus:p92-4	p92-4	crossref	page	tom. I. pag. 447, nota 2	bon-sent-I-d25-dubia+bon-sent-I-d26-littera		page-multi		
+bon-qmt-q5-a1	5	apparatus:p92-4	p92-4	crossref	page	tom. II. pag. 81, nota 4	bon-sent-II-d2-p2-a2-q3		chunk		
+bon-qmt-q5-a1	5	apparatus:p92-5	p92-5	crossref	logical	I. Sent. d. 7. q. 3.	bon-sent-I-d7-a1-q3		chunk		
+bon-qmt-q5-a1	5	apparatus:p92-6	p92-6	crossref	logical	I. Sent. d. 30. q. 1.	bon-sent-I-d30-a1-q1		chunk		
+bon-qmt-q5-a1	5	apparatus:p92-6	p92-6	crossref	chain-continuation	d. 39. a. 2. q. 2.	bon-sent-I-d39-a2-q2		chunk		
+bon-qmt-q5-a1	5	apparatus:p92-6	p92-6	crossref	chain-continuation	d. 41. a. 2. q. 2.	bon-sent-I-d41-a2-q2		chunk		
 bon-qsc-q1	5	apparatus:p3-1	p3-1	crossref	logical	III. Sent. d. 14	III:d14		distinctio		
 bon-qsc-q1	5	apparatus:p3-1	p3-1	crossref	logical	I. Sent. d. 35. q. 5	bon-sent-I-d35-a1-q5		chunk		
 bon-qsc-q1	5	apparatus:p3-1	p3-1	crossref	chain-continuation	d. 39. a. 1. q. 1	bon-sent-I-d39-a1-q1		chunk		

@@ -203,6 +203,51 @@ KNOWN_TOTALS = {
              # WARNING: Quaracchi's volume index gives Quaest. V Art. I as
              # pag. 86. It opens on 87. Neither number in an index line is
              # evidence; the raw band is (q4-a2 = L21831-L22321, exact).
+    88: 11,  # all eleven are q5-a1's. Gutter 1381 (band 1353-1409, rule
+             # island 1374-1386 peak 380 -- the inked-rule case; colcrop's
+             # default 1383 on a sound 60 px run, the span's only clean one).
+             # n.1 carries a COMPOSITOR'S BLANK inside the Boethius title
+             # (`in < >o` for `in eo`): flanking letters at full strength
+             # (min 51 / 31 against a line running 28-100), gap paper min 136,
+             # lines below unbroken through the same pixel column, raw agrees.
+             # Reproduced, not filled. n.2's `pag. 47, nota 11` (raw `pag. il,
+             # nota II`) settled by the TARGET -- q1-a1 p.47 n.11 is the
+             # Soliloquia note and it cites Anselm Monolog. c. 18, which is
+             # this leaf's own n.9.
+    89: 7,   # all seven are q5-a1's. Gutter 1157 (band 1132-1183, rule island
+             # 1150-1165 peak 991, the most heavily inked in the work; default
+             # 1156/53 px CONFIRMED, not corrected).
+             # WARNING: the body carries EIGHT raised marker glyphs for SEVEN
+             # entries, and the raw shows the same eight. The spurious one is
+             # after Contra 4's `divinum esse`. It is killed by n.3's OWN TEXT
+             # -- `A Boethio supra in arg. 9. datam` -- which cannot stand at
+             # arg. 9 and therefore stands at Contra 11 (`per definitionem`),
+             # fixing the sequence 7/9/11/13/14/16/17. All seven then confirmed
+             # independently from content. A raw marker glyph is not an anchor.
+    90: 4,   # all four are q5-a1's. Gutter 1380 (band 1354-1406, island
+             # 1374-1385 peak 340; default 1381/56 px confirmed).
+             # n.3's `supra pag. 21, nota 8` settled by the TARGET -- bon-qsc-q4
+             # p.21 n.8 is the Aristotle the body quotes verbatim -- so the
+             # 1-vs-4 question never reached the plate.
+    91: 5,   # all five are q5-a1's. n.1 RUNS OVER THE GUTTER (Gilbert
+             # Porretanus; tail set flush left at the head of the right block).
+             # Gutter 1152 -- colcrop's default 1130 on a 15 px run is WRONG
+             # BY 22 px; true band 1123-1182 (60 px), rule 1149-1154 peak 352.
+             # n.4's `supra q. 4. a. 1.` (raw `q. i. a. I.`) settled by the
+             # target's Respondeo, which IS the quantitas molis/virtutis
+             # distinction reply 9 turns on.
+    92: 6,   # all six are q5-a1's -- Art. I fills the leaf to the foot of both
+             # columns. n.4 RUNS OVER THE GUTTER. Gutter 1406 -- colcrop's
+             # default 1442 on a 2 px run is WRONG BY 36 px; true band
+             # 1376-1436 (61 px), rule 1405-1409 peak 595.
+             # n.4 is the work's sharpest 1-vs-4 calibration: `pag. 447` (raw
+             # `ii7`, corrected at 4x against `(c. 4.)` and `text. 12.` on the
+             # same line) and `pag. 81` (raw right, confirmed at 12x against
+             # `nota 4.` three words later). Both digits on adjacent lines of
+             # ONE note, going opposite ways.
+             # BOUNDARY 9 (p. 93) IS A LEAF EDGE: ARTICULUS II. stands at the
+             # very head of p. 93 and that leaf's register opens numbered and
+             # indented, so q5-a1 forwards NOTHING, body or register.
     205: 8,
     206: 11,
     207: 8,
