@@ -281,6 +281,30 @@ KNOWN_TOTALS = {
              # p.14 n.5 is the Sophistici Elenchi locus for figura dictionis --
              # and n.5's `pag. 71` by q3-a1 p.71 n.2, the Augustine the body
              # quotes. p.97's register opens numbered, so nothing forwards.
+    97: 12,  # all twelve are q6-a1's -- ARTICULUS I. stands at the head of the
+             # leaf. Block 5/7 (n.8 `Quaest. 5. a. 1.` set right-justified on
+             # n.7's last line). Gutter 1131 (default 1118 on a 13 px run; band
+             # 1103-1159, rule 1126-1136). nn.1-4, 6-8, 11-12 all confirmed by
+             # TARGET (pag. 47 nn. 2 and 6, raw `i7`; I Sent. d.8 p.I a.2 q.1).
+    98: 11,  # all eleven are q6-a1's -- 12 raised marks against 11 notes: the
+             # tick after the second *dicas* (arg. 11) has no digit shape at 5x;
+             # n.9 sits at *doctores*. n.8 `d. 45.` (raw `d. 43.`) by target.
+             # Block 7/4, no runover. Gutter 1364 confirmed.
+    99: 7,   # all seven are q6-a1's. Block 4/3. Gutter 1205 (default 1226 on a
+             # 4 px run, 21 px out). Right column body raw degraded, re-set.
+    100: 5,  # all five are q6-a1's. n.3 (Dionysius) RUNS OVER THE GUTTER, the
+             # right block opening flush left `dit immensurabili`. n.4 is the
+             # work's FOURTH `fundam. N` site (ruling 5). Gutter 1384 confirmed.
+    101: 6,  # all six are q6-a1's. n.3 (Boethius) RUNS OVER THE GUTTER. n.1
+             # prints `p. J.` -- a real J sort, as printed. Gutter 1161.
+    102: 4,  # SHARED leaf -- BOUNDARY 11 FORWARDS, split 3/1. nn.1-3 are
+             # q6-a1's (reply 13.14 *cogniti*, reply 15 *divina* -- n.2's variant
+             # `G addit potentia vel` seats it; the mark after *quod* is below
+             # the baseline -- and reply 17 *in hoc*); n.3 RUNS OVER THE GUTTER.
+             # n.4 (Porphyry, at Art. II arg. 1 *genere*) is PENDING until
+             # bon-qmt-q6-a2 lands, and itself runs onto p.103.
+             # Gutter 1419 for Art. I's REGION (rows 0.05-0.66; whole-leaf
+             # default 1411 on 50 px).
     205: 8,
     206: 11,
     207: 8,
