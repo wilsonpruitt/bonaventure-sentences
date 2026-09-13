@@ -1,5 +1,54 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **`bon-qmt-q6-a1` IS LANDED (`248feb2`). THE FRONT IS `bon-qmt-q6-a2`.**
+> Quaestio VI, Articulus I, **pp. 96–102** — Tier 2, built 2026-09-13; the work's eleventh chunk, **11 of 15**.
+> Opens Quaestio VI on p. 96 (body-only forward from `q5-a2`, opener re-read and confirmed unanchored); ten
+> arguments (`Fundamenta.`), a **`Sᴇᴅ ᴄᴏɴᴛʀᴀ:` series of seventeen** along a *via septiformis*, `Cᴏɴᴄʟᴜsɪᴏ`
+> in-column, a *Respondeo* in three moves, **seventeen replies in eleven paragraphs** answering the `Sed contra`.
+> **44 apparatus entries, zero `[?]`**, three gutter runovers, zero page-crossing. Conventions: repo `CLAUDE.md`
+> § **MYSTERIO TRINITATIS** — authoritative; the chunk's own `## Notes` is the full record.
+> Committed locally, **not pushed, not deployed** — the deploy boundary is still the work close at p. 115.
+>
+> ## ⭐⭐ BOUNDARY 11 (p. 102): FORWARDS, SPLIT 3/1 — ELEVEN BOUNDARIES, NINE SHAPES
+> Art. I closes two-thirds down p. 102 (*…primaria et suprema.*); `ARTICULUS II.` + subtitle full measure, then
+> Art. II's opener and **arg. 1** on the leaf. **nn. 1–3 are `q6-a1`'s; n. 4 (Porphyry, *de Praedicab.*, at arg. 1
+> *genere*⁴) FORWARDS to `q6-a2` — and its text RUNS ON TO p. 103** (a page-crossing runover for `q6-a2` to ledger).
+> ▶ **5/1 · LE · 2/8 · 1/4 · 4/2 · 4/0 · 1/6 · 3/2 · LE · 5/0 · 3/1** — 9 forwarding / 2 leaf edges.
+> ★ p. 102 was extracted ALONE and read first — the standing order paid an **eighth** time.
+>
+> ## ⭐ WHAT THIS CHUNK FOUND
+> - **Two spurious anchor marks, killed two ways:** p. 98's tick after *dicas* (no digit shape at 5×; register
+>   count 11 vs 12 raw marks) and p. 102's mark after reply 15's *quod* (below baseline; **n. 2's variant `G addit
+>   potentia vel` seats the anchor at *divina***).
+> - **Two WRONG SORTS, as printed:** *compa-**rattonis*** (p. 100, t for i) and **`p. J.`** (p. 101 n. 1, a J with
+>   descender for roman I). Two fouled-but-present letters read plain (p. 96 *stare*, p. 100 n. 3 *S. Thomae*).
+> - **Ruling 5 MET (4th site): p. 100 n. 4 `fundam. 2.` → *fundamentum 2*, quoted in Notes.**
+> - **A fifth internal cross-reference closes inside the work:** p. 101 n. 4 → `q4-a1` p. 81 n. 3, Gregory's
+>   *intra omnia… extra omnia* = the body's *sic est intra, quod extra*.
+> - **Gutters wrong on 3 of 7:** 97 **1131** (13 px default) · 99 **1205** (4 px) · 102 **1419** Art. I region.
+> - ⚠ **Two RESOLVER artefacts for the work-close gate** (no text edited): p. 97 n. 12 `vide IV. d. 49…` flagged
+>   dangling though the target exists (book numeral without `Sent.` after a `II. Sent.` chain); p. 101 n. 1 stops at
+>   distinctio level because of the printed `p. J.`. Corpus QA 201 → **202**, the one new line is n. 12.
+>
+> ## ▶ NUMBERS, DERIVED AFTER `q6-a1`
+> `check-vol5-apparatus.py` **148 chunks / 3,198 entries, all passed** (p. 102 shows `PENDING n.4`) ·
+> `check-vol5-census.py` **rosters agree 148/148, 213 runovers (190 gutter, 23 page)** · `check-live-flags.py vol5`
+> 10 (all pre-existing, `bon-qmt-*` ZERO) · `polish-style-scan` **11 / 6, ZERO in scope** · `build-content.mjs`
+> **2,099 / 2,099** · `build-citations.py` **42 records here, 1 dangling (artefact above), 0 unresolvable, 0
+> ambiguous** · `build-index-json.py` run after. Registry **division 6** added, subtitle verified on p. 96.
+>
+> ## ▶▶▶ FRONT = `bon-qmt-q6-a2`, **pp. 102–? (index says 102–105)**, raw **L24533 → L25100**
+> ⭐ **It inherits p. 102 n. 4 and Art. II's heading, opener and arg. 1 on p. 102** — re-derive, don't adopt.
+> **Its first footer job is p. 103's register HEAD: n. 4's page-crossing continuation stands there unnumbered and
+> flush left** before p. 103's n. 1 (raw L24557–24559 shows it beginning *Genera [speciebus] praeiacere opor-*).
+> ⛔⛔ **THE RAW ALREADY SAYS THE INDEX'S `105` IS WRONG:** `QUAESTIO VII.` opens at **L25101, ~63 lines into
+> p. 106** (numerals 103 L24567 · 104 L24718 · 106 L25038; 105's didn't survive). **Predicted span 102–106,
+> shared at BOTH ends.** ⛔ A prediction — **extract p. 106 ALONE and read it first**, and measure boundary 12
+> there (does Q. VII / `ARTICULUS I.`'s numbered body carry an anchor on p. 106?).
+> ⚠ Ruling 5 — say positively in Notes whether a `fundam.` site is met. ⚠ Plates for pp. 68–102 are on disk
+> (`raw/vision/vol5/`); pass 4 of the work-close gate deletes them. **Nothing in this work is deployed.**
+
+
 > # ▶▶▶ START HERE — **`bon-qmt-q5-a2` IS LANDED. THE FRONT IS `bon-qmt-q6-a1`.**
 > Quaestio V, Articulus II, **pp. 93–96** — Tier 2, built 2026-09-07; the work's tenth chunk, **10 of 15**,
 > and **QUAESTIO V IS COMPLETE**. Eleven arguments that trinity and eternity are incompossible (marginale
