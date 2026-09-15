@@ -1,5 +1,52 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **`bon-qmt-q8` IS LANDED (`743b980`). THE *DE MYSTERIO TRINITATIS* IS COMPLETE — 15 OF 15. THE FRONT IS THE WORK-CLOSE GATE.**
+> Quaestio VIII, undivided, **pp. 112–115** — Tier 2, built 2026-09-15; the work's last chunk. Opens on p. 112 below
+> Q. VII Art. II's close (`QUAESTIO VIII.` + subtitle *Utrum possit simul stare trinitas cum summa primitate*, opener
+> **unanchored — confirmed on the plate**, args 1–3). Seven arguments (`Ad oppositum.`), a **`Sᴇᴅ ᴄᴏɴᴛʀᴀ:` series of
+> eight** (`Fundamenta.`), `Cᴏɴᴄʟᴜsɪᴏ` in-column, a *Respondeo* (supreme actuality / fontality / fecundity → two
+> intrinsic emanations → three hypostases coequal, coeternal, consubstantial), `Corollaria.` closing on Rachel as
+> *visum principium*, **seven replies in six paragraphs (`1. 2.` combined) answering the OPENING series.**
+> **22 entries, zero `[?]`**; two gutter runovers (p. 113 n. 4, p. 114 n. 3), zero page-crossing (established).
+> Registry **division 8** added (subtitle read on p. 112). Committed locally, **not pushed, not deployed.**
+>
+> ## ⭐⭐ THE WORK'S END FIXED POSITIVELY
+> pp. 115–117 extracted and read FIRST (the standing order's **twelfth** payment). p. 115: reply 7 ends *…in
+> beatissimam Trinitatem.* ~0.55 down, register, **ornamental rule, NO colophon**. p. 116 blank (plate read; 0.047 %
+> at thr 110). p. 117: `DE PERFECTIONE EVANGELICA` display heading. **Body pp. 45–115, raw L16037 → L26475, confirmed.**
+> ⭐ Hand-off to work 4: **p. 117's proemium *Volentes¹* IS ANCHORED** (n. 1 *Hanc quaestionem sumsimus ex codicibus
+> E D I…*) — unlike this work's p. 45. A pilot prediction confirmed, nothing built.
+>
+> ## ⭐ WHAT THIS CHUNK FOUND
+> - **Ruling 5 MET TWICE, both quoted:** p. 112 n. 4 *fundamentum 6* (→ `q2-a1` arg. 6), p. 113 n. 10 *fundamentum 12 ff.*
+>   (→ `q1-a1` arg. 12 ff.) — the work's 6th and 7th sites.
+> - **D alone to the last word**; five Quaracchi supplements shape the wording, incl. a saut du même au même filled
+>   (p. 115 n. 1) and **the work's last two words in Quaracchi's case, not D's** (p. 115 n. 6).
+> - Wrong sort **`jnaequale`** (true *j*, 4×) and **`Joan.`** — as printed. Quaracchi slip **`Manifestum omissionem`** — as
+>   printed. Unmatched `]` in p. 114 n. 3 — as printed. Stray raised mark after *Causis,* (p. 113 n. 3) — not transcribed.
+> - Every target opened landed: `I. Sent. d. 2. q. 2. arg. 4. ad oppos.` quoted verbatim by p. 112 n. 5; `tom. I. pag. 471`
+>   = *Liber de causis* prop. **1** (fixes raw `4`); `tom. III. pag. 720, nota 4` = *de Caelo* text. **18**.
+> - Ruling 2 one side only (*lux* ×1, *lumen* 0); **Ps. 35:10 exemption UNREACHED** (*Apud te est fons vitae*);
+>   *vacatio*/*quies* ZERO; zero bare "intellect". Gutters 112 **1387** (Q. VIII region) · 113 **1156** (default 29 px out) ·
+>   114 **1403** · 115 **1185** (default 29 px out). Marginalia 14, none clipped (`Corollaria.` plural).
+>
+> ## ▶ NUMBERS, DERIVED AFTER `q8`
+> `check-vol5-apparatus.py` **152 chunks / 3,295 entries, all passed** (no PENDING left in the work) ·
+> `check-vol5-census.py` **rosters agree 152/152, 223 runovers (199 gutter, 24 page)** · `check-live-flags.py vol5`
+> `bon-qmt-*` ZERO · `polish-style-scan` **11 / 6, ZERO in scope** · `build-content.mjs` **2,103 / 2,103** ·
+> `build-citations.py` **12 records here, 0 dangling / 0 unresolvable / 0 ambiguous, QA 202, no inbound line changed** ·
+> `build-index-json.py` run after.
+>
+> ## ▶▶▶ FRONT = THE *DE MYSTERIO TRINITATIS* WORK-CLOSE GATE (p. 115) — four passes, then push + deploy (each a hard stop)
+> **Carried for it:** ⭐⭐⭐ **the *vacatio* ruling — WILSON'S CALL** (`q7-a2` p. 111: applied not ratified; the site's own
+> note doubts the word) · p. 109 unidentifiable sort (`q7-a1`) · `bon-hex-c5` p. 355 n. 1 `tom IV.` resolving wrongly
+> into `q7-a1` · anaphora artefacts (now **6** sites: `q5-a2` p. 94 n. 8, `q6-a2` p. 103 n. 2, `q7-a1` p. 107 nn. 1/8/10,
+> **`q8` p. 114 n. 3 `loc. cit.` → I Sent. d. 19**) · `bon-itin-c5` p. 309 n. 2 now `page-multi` · the `q5-a2` bare-`pag.`
+> tome inheritance / `q6-a1` `IV. d. N` dangling / `q6-a2` `authority:Magister` resolver classes. **Plates on disk
+> pp. 68–117 (`raw/vision/vol5/`); pass 4 deletes them** (gitignored, regenerable). Nothing in this work is deployed;
+> `master` is **30 ahead of origin**.
+
+
 > # ▶▶▶ START HERE — **`bon-qmt-q7-a2` IS LANDED (`26a28c3`). QUAESTIO VII IS COMPLETE. THE FRONT IS `bon-qmt-q8` — THE WORK'S LAST CHUNK.**
 > Quaestio VII, Articulus II, **pp. 109–112** — Tier 2, built 2026-09-15; the work's fourteenth chunk, **14 of 15**.
 > Opens on p. 109 below Art. I's close (`ARTICULUS II.` + subtitle, opener and arg. 1 — none anchored but arg. 1's
