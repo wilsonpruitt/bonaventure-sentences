@@ -326,6 +326,16 @@ KNOWN_TOTALS = {
              # Quaestio VII's OPENER (*summa necessitas*), the work's second
              # anchored quaestio opener after p.59. Gutter 1421 for Art. II's
              # REGION (rows 0.03-0.42; whole-leaf default 1435 on 2 px).
+             # nn.5-8 landed with bon-qmt-q7-a1 (opener *necessitas*, args 1-3
+             # *necessarium*, *quod*, *huiusmodi*); Q. VII region gutter 1409.
+    107: 12, # all twelve are q7-a1's. n.6 RUNS OVER THE GUTTER (`(X. c. 8.)`
+             # flush left). Gutter 1145 (9 px skew; default 1133/41 px).
+    108: 6,  # all six are q7-a1's. n.5 RUNS OVER THE GUTTER (`construere.`
+             # flush left). Gutter 1390 (skewed leaf; default 1412/13 px).
+    109: 7,  # SHARED leaf -- BOUNDARY 13 FORWARDS, split 6/1. nn.1-6 are
+             # q7-a1's (replies 6-8); n.7 (*Orosium*, Art. II arg. 1) is
+             # PENDING until bon-qmt-q7-a2 lands. n.3 RUNS OVER THE GUTTER.
+             # Gutter 1162 for Art. I's REGION (rows 0.06-0.58).
     205: 8,
     206: 11,
     207: 8,
