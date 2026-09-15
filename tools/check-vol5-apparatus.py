@@ -344,9 +344,19 @@ KNOWN_TOTALS = {
              # flush left). n.1 = the vacando note (D potius legi deberet
              # vetando). Gutter 1194 (default 1161/2 px).
     112: 5,  # SHARED leaf -- BOUNDARY 14 FORWARDS, split 3/2. nn.1-3 are
-             # q7-a2's (replies 6-8); nn.4-5 (Q. VIII args 1-2) are PENDING
-             # until bon-qmt-q8 lands. n.3 RUNS OVER THE GUTTER. Gutter 1380
-             # for Art. II's REGION (rows 0.05-0.50).
+             # q7-a2's (replies 6-8); nn.4-5 (Q. VIII args 1-2) are
+             # bon-qmt-q8's (landed). n.3 RUNS OVER THE GUTTER. Gutter 1380
+             # for Art. II's REGION (rows 0.05-0.50); 1387 for Q. VIII's
+             # region (rows 0.62-0.685), measured by q8.
+    113: 10, # all ten are q8's (arg 6, Sed contra 1-8). Opens numbered at
+             # n.1 -- no runover from p.112. n.4 RUNS OVER THE GUTTER (`est
+             # definire` flush left). Gutter 1156 (default 1127/3 px).
+    114: 4,  # all four are q8's (Respondeo, Corollaria, reply 1.2). n.3 RUNS
+             # OVER THE GUTTER (`interpretatur laborans` flush left). Gutter
+             # 1403 (default sound, 59 px).
+    115: 6,  # all six are q8's (replies 3-7). THE WORK'S LAST LEAF -- ends
+             # with an ornamental rule, no colophon; p.116 blank. Gutter 1185
+             # (default 1156/9 px).
     205: 8,
     206: 11,
     207: 8,

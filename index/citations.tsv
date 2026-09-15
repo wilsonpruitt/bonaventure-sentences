@@ -22302,6 +22302,18 @@ bon-qmt-q7-a2	5	apparatus:p112-2	p112-2	scripture	apparatus-explicit	Ioan. 16, 1
 bon-qmt-q7-a2	5	apparatus:p112-2	p112-2	crossref	logical	I. Sent. d. 15. p. I. q. 4.	bon-sent-I-d15-p1-a1-q4		chunk		
 bon-qmt-q7-a2	5	apparatus:p112-2	p112-2	crossref	page	pag. 19, nota 7	bon-qsc-q4		chunk		
 bon-qmt-q7-a2	5	apparatus:p112-3	p112-3	scripture	apparatus-explicit	Eccli. 31, 9	Eccli 31:9	A	verse		
+bon-qmt-q8	5	apparatus:p112-5	p112-5	crossref	logical	I. Sent. d. 2. q. 2.	bon-sent-I-d2-a1-q2		chunk		
+bon-qmt-q8	5	apparatus:p113-1	p113-1	crossref	page	supra pag. 64, nota 4	bon-qmt-q2-a2		chunk		
+bon-qmt-q8	5	apparatus:p113-3	p113-3	crossref	page	tom. I. pag. 471, nota 3	bon-sent-I-d27-p1-a1-q2		chunk		
+bon-qmt-q8	5	apparatus:p113-4	p113-4	crossref	page	tom. III. pag. 720, nota 4	bon-sent-III-d33-a1-q4		chunk		
+bon-qmt-q8	5	apparatus:p113-5	p113-5	crossref	logical	II. Sent. d. 1. p. I. a. 1. q. 2.	bon-sent-II-d1-p1-a1-q2		chunk		
+bon-qmt-q8	5	apparatus:p113-10	p113-10	crossref	page	supra pag. 12, nota 9	bon-qsc-q3		chunk		
+bon-qmt-q8	5	apparatus:p114-1	p114-1	crossref	logical	I. Sent. d. 19. p. I. q. 2.	bon-sent-I-d19-p1-a1-q2		chunk		
+bon-qmt-q8	5	apparatus:p114-3	p114-3	crossref	anaphor->logical	loc. cit.	bon-sent-I-d19-p1-a1-q2		chunk	yes	I. Sent. d. 19. p. I. q. 2.
+bon-qmt-q8	5	apparatus:p115-2	p115-2	crossref	logical	I. Sent. d. 28. q. 1.	bon-sent-I-d28-a1-q1		chunk		
+bon-qmt-q8	5	apparatus:p115-3	p115-3	crossref	logical	I. Sent. d. 7. q. 2.	bon-sent-I-d7-a1-q2		chunk		
+bon-qmt-q8	5	apparatus:p115-6	p115-6	scripture	apparatus-explicit	Psalm. 35, 10	Ps 35:10	A	verse		
+bon-qmt-q8	5	apparatus:p115-6	p115-6	scripture	apparatus-explicit	Joan. 5, 26	Ioan 5:26	A	verse		
 bon-qsc-q1	5	apparatus:p3-1	p3-1	crossref	logical	III. Sent. d. 14	III:d14		distinctio		
 bon-qsc-q1	5	apparatus:p3-1	p3-1	crossref	logical	I. Sent. d. 35. q. 5	bon-sent-I-d35-a1-q5		chunk		
 bon-qsc-q1	5	apparatus:p3-1	p3-1	crossref	chain-continuation	d. 39. a. 1. q. 1	bon-sent-I-d39-a1-q1		chunk		
