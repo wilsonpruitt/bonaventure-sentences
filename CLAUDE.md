@@ -2474,8 +2474,11 @@ until Wilson rules on the two items marked ⛔ below — do not dispatch `q2-a2`
   - ⬜ **OWED at the next deploy boundary:** add the note to the two deployed *vacatio* sites
     (`bon-praec-c4`, `bon-qmt-q7-a2`), and the *lumen* ruling's owed translator's note (first
     *lumen* in `bon-qsc-q3`/`q4`, `bon-qmt` chunks). Deploy-only work — batch it, don't ship alone.
-- ⛔ **OWED WILSON (2): building `q2-a2` (~21 pp).** Kept ONE chunk (citation unit), built in
-  **three sequential subagent passes into one uncommitted file**, committed only at Tier 2.
+- ✅ **APPROVED (Wilson, 2026-09-15): building `q2-a2` (~21 pp).** ONE chunk (citation unit), built
+  in **three sequential subagent passes into one uncommitted file** — A: heading, arguments,
+  opposing series (~134–139); B: *Conclusio*, *Respondeo*, replies to ~p. 147; C: remaining replies,
+  audits, both commits — each pass briefed with the previous pass's hand-off; committed only when
+  pass C closes it at Tier 2.
 - **New register — WORKING, carried to the shakedown gate:** *mendicitas*/*mendicatio* →
   mendicancy/begging (kept apart) · *abrenuntiatio* → renunciation · *usus*/*dominium* → use /
   ownership (⚠ "lordship" the alternative — ruling at shakedown) · *castitas*/*pudicitia* both
