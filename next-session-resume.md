@@ -1,5 +1,18 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — ***DE PERFECTIONE EVANGELICA* MINI-PILOT RUN (2026-09-15). TWO RULINGS OWED WILSON, THEN `bon-qpe-q1`.**
+> Scouting: `manual-review/perfectione-evangelica-pilot-scouting.md`; summary in repo CLAUDE.md § PERFECTIONE EVANGELICA.
+> **10 chunks, one per articulus** (`bon-qpe-q1` undivided, then `q{2,3,4}-a{1,2,3}`), pp. 117–198, raw L26470 → ~L38640.
+> Measured: p. 117 opening (proemium ANCHORED, headings not), **boundary 1 p. 124 = body-only forward 5/0**, work end p. 198
+> (no colophon; p. 199 = Breviloquium half-title), gutter p. 117 = 1164. Plates on disk: 117, 124, 125, 198, 199.
+> ⛔ **Owed Wilson before `q2-a2` is dispatched:** (1) *vacare* + dative (~11 sites, *qui divinis vacant*) against today's
+> ratified *vacatio* → "leisure" — pilot recommends scoping it to "to be free for"; (2) `q2-a2` is ~21 pp — one chunk,
+> three sequential subagent passes into one uncommitted file. Also recommended: a **shakedown gate at `q2-a1`'s close
+> (p. 134)** for the new poverty/vows register (working table in the scouting doc).
+> ▶ **`bon-qpe-q1` (pp. 117–124) needs neither ruling and can go now:** extract 118–123, add the `WORKS` entry (book 10)
+> + the slug in `buildWorkChunkTitle`'s mysterio branch, settle *vilificare* vs *humiliare* and p. 117's *ch istianae*.
+> `master` is ahead of origin (pilot commit + 2 deploy-record commits); **push needs Wilson's OK**.
+
 > # ▶▶▶ START HERE — **THE *DE MYSTERIO TRINITATIS* IS CLOSED END TO END: gate `f768613`, PUSHED, DEPLOYED (`dpl_ByF2aLV4VhPVbeXRbTGU6K35ymU7`, verified live 2026-09-15), plates deleted. NEXT = the *De perfectione evangelica* (pp. 117–198) MINI-PILOT — re-extract plates first.**
 > Log: `manual-review/vol5-mysterio-trinitatis-workclose-gate.md`. **One text defect repaired** (`q3-a1` *proprio lumine
 > rationis* "light" → "lumen", ruling 2, unrecorded) · ✅ ***vacatio* → "leisure" / *quies* → "rest" RATIFIED by Wilson**

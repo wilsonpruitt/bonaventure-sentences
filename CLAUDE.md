@@ -278,7 +278,7 @@ Vols V–X (2026-07-28).**
 | 1 | Prolegomena | I–XL+ | — | — | NOT chunked (editorial apparatus, like INDEX QUAESTIONUM) |
 | 2 | QD de scientia Christi | **3–43** | `scientia-christi` | 8 | **COMPLETE 2026-09-05 — all 7 quaestiones Tier 2; shakedown + work-close gates CLOSED, pushed and DEPLOYED (verified live).** Mini-pilot frozen 2026-08-31 (7 quaestiones, no articuli, no scholia; p. 1 half-title covers all THREE QD, p. 2 blank 0.0013 %, p. 44 blank 0.0008 %, **no `EXPLICIUNT` colophon**). |
 | 3 | QD de mysterio Trinitatis | **45–115** | `mysterio-trinitatis` | 9 | **ACTIVE — mini-pilot FROZEN 2026-09-05** (§ MYSTERIO TRINITATIS below). **8 quaestiones / 14 articuli / Q. VIII undivided → FIFTEEN chunks, one per articulus**; no half-title (p. 44 blank 0.0007 %), no scholia, no Summarium, **no colophon** (ends p. 115, p. 116 blank). **ALL 15 built (pp. 45–115); shakedown gate CLOSED at p. 68, zero defects. Next = the WORK-CLOSE gate at p. 115.** |
-| 4 | QD de perfectione evangelica | 117–198 | `perfectione-evangelica` | 10 | planned. ⚠ **NO half-title leaf expected** — same three-work half-title; fix p. 117 on the plate. |
+| 4 | QD de perfectione evangelica | **117–198** | `perfectione-evangelica` | 10 | **MINI-PILOT RUN 2026-09-15, NOT YET FROZEN — two rulings owed Wilson** (§ PERFECTIONE EVANGELICA below; evidence `manual-review/perfectione-evangelica-pilot-scouting.md`). No half-title (confirmed); body 117–198, ends on p. 198 with NO colophon, p. 199 = Breviloquium half-title. **10 chunks, one per articulus** (Q. I undivided). |
 | 5 | **Breviloquium** | 199–291 | `breviloquium` | 5 | **COMPLETE — gated + deployed 2026-08-01** |
 | 6 | **Itinerarium mentis in Deum** | 293–316 | `itinerarium` | 6 | **COMPLETE 2026-08-14 — all 10 chunks Tier 2; work-close gate + deploy due** |
 | 7 | **De reductione artium** | 319–325 | `de-reductione` | 7 | **COMPLETE 2026-08-14** |
@@ -2416,6 +2416,51 @@ plate**; a blankness number is a screen, the plate is the evidence.
   shakedown gate at exactly the two attestations `q1-a1` and `q1-a2` gave it.**
 
 
+### PERFECTIONE EVANGELICA — mini-pilot run 2026-09-15 (evidence + full detail in `manual-review/perfectione-evangelica-pilot-scouting.md`)
+
+*Quaestiones disputatae de perfectione evangelica*, work 4, book id 10, slug
+`perfectione-evangelica`, id prefix **`bon-qpe-`**. English title: **"Disputed Questions on
+Evangelical Perfection."** **Body pp. 117–198 (82 pp), raw L26470 → ~L38640.** ⛔ **NOT FROZEN
+until Wilson rules on the two items marked ⛔ below — do not dispatch `q2-a2` before then.**
+
+- **Structure (plate-verified):** no half-title; p. 117 display heading + ornament + proemium
+  (**anchored**, n. 1 = the work's textual note: codex **E** chiefly, with D and I); no scholia,
+  no Summarium, **no colophon** — p. 198 ends under an ornament and **p. 199 is the Breviloquium
+  half-title**. Q. I undivided; Qq. II–IV three articuli each. ⭐ Q. II's opener says *quaeruntur
+  **duo*** and the question has three (Art. III presents itself as a supplement) — transcribe as
+  printed.
+- **TEN CHUNKS:** `bon-qpe-q1` (117–124, **measured**) · `q2-a1` 124–134 · `q2-a2` 134–156 ·
+  `q2-a3` 156–166 · `q3-a1` 166–171 · `q3-a2` 171–175 · `q3-a3` 175–179 · `q4-a1` 179–183 ·
+  `q4-a2` 183–189 · `q4-a3` 189–198 (end **measured**). Interior ends are index-derived and
+  provisional; raw bands in the scouting doc are the reliable half. The unit is settled by the
+  corpus's own citations into the work (4 of 5 name `q. N. a. M.`).
+- **Boundary 1 (p. 124) MEASURED: body-only forward, split 5/0** (Q. II heading + opener on 124,
+  unanchored; `ARTICULUS I.` at the head of 125). **No division heading anchored — fifth work
+  running;** openers still looked at one by one.
+- **Gutter p. 117: 1164** (default confirmed on a 56 px run; band 1135–1192, rule 1160–1168).
+- **Carried rulings, census over the band:** *intellect-* 4 (bare "intellect" = defect) ·
+  *lux* 4 / *lumen* 6 (Ps. 4:7 and Jas. 1:17 *Patri luminum* recur — apply the *mysterio* verse
+  test at each) · *contuitio* 1 → "contuition" · ***fundam.* 15 — ruling 5 met repeatedly; each
+  chunk quotes its rendering** · *pietas* → piety · *praeceptum* → precept against *consilium* →
+  counsel (the work's backbone).
+- ⛔ **OWED WILSON (1): *vacare* + dative.** ~11 of 15 `vaca-` sites are *vacare divinis /
+  orationi / lectioni* ("to be free for"), a construction the just-ratified *vacatio* → "leisure"
+  rule was not ratified on. Pilot recommends: keep the rule for absolute uses (incl. Augustine's
+  *vacare manibus* pun and *licentia vacationis*), scope *vacare* + dative → "to be free for /
+  give oneself to". Deciding chunks: `q2-a2`, `q2-a3`.
+- ⛔ **OWED WILSON (2): building `q2-a2` (~21 pp).** Kept ONE chunk (citation unit), built in
+  **three sequential subagent passes into one uncommitted file**, committed only at Tier 2.
+- **New register — WORKING, carried to the shakedown gate:** *mendicitas*/*mendicatio* →
+  mendicancy/begging (kept apart) · *abrenuntiatio* → renunciation · *usus*/*dominium* → use /
+  ownership (⚠ "lordship" the alternative — ruling at shakedown) · *castitas*/*pudicitia* both
+  occur (23/30), so they cannot share "chastity" · *vilificare se* ≠ *humiliare* (open, settle at
+  `q1`) · *votum* → vow · *praelatus* → prelate · *opera manualia* → manual labour. Table in the
+  scouting doc.
+- **p. 198 n. 3 is an 1890s editorial dissertation on papal primacy/infallibility** — rendered
+  literally and in full as Quaracchi's text of its date.
+- **Registry (when `q1` lands):** `WORKS` entry (book 10) + add the slug to the
+  `mysterio-trinitatis` branch of `buildWorkChunkTitle` (`Quaest. 1` for undivided Q. I).
+
 ### Vol V mechanics
 
 - **Offset `pdf = printed + 76`** (verified at printed 174/176/201/320/507/530; PDF
@@ -2764,7 +2809,7 @@ the 450 dpi band, and where the plate is confirmed wrong, transcribe as printed 
 |---|---|---|
 | QD de scientia Christi | 3–43 (41) | **2** — `bon-qsc-q4` shakedown (p. 27) + close (p. 43) |
 | QD de mysterio Trinitatis | 45–115 (71) | **2** — shakedown at q. 2's close (p. 67) + close (p. 115) |
-| QD de perfectione evangelica | 117–198 (82) | 1 at close |
+| QD de perfectione evangelica | 117–198 (82) | **2 (pilot recommends)** — shakedown at `q2-a1`'s close (p. 134; new register) + close (p. 198) |
 | **Breviloquium** | 199–291 (93) | **2** — Pars I shakedown (p.218) + close (p.291) |
 | Itinerarium | 293–316 (24) | 1 at close |
 | De reductione | 319–325 (7) | 1 at close |
