@@ -1,5 +1,66 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **`bon-qmt-q7-a2` IS LANDED (`26a28c3`). QUAESTIO VII IS COMPLETE. THE FRONT IS `bon-qmt-q8` — THE WORK'S LAST CHUNK.**
+> Quaestio VII, Articulus II, **pp. 109–112** — Tier 2, built 2026-09-15; the work's fourteenth chunk, **14 of 15**.
+> Opens on p. 109 below Art. I's close (`ARTICULUS II.` + subtitle, opener and arg. 1 — none anchored but arg. 1's
+> *Orosium*⁷ — re-read at full width). Nine arguments (`Ad oppositum.`), a **`Cᴏɴᴛʀᴀ:` series of six** (`Fundamenta.`),
+> `Cᴏɴᴄʟᴜsɪᴏ` in-column, a *Respondeo* on a **threefold will** (*accedens* / *antecedens* / *concomitans et acceptans*)
+> answering Art. I's threefold necessity, three *rationes* + a `Corollarium` on beatitude, **nine replies for nine,
+> none combined, answering the OPENING series** (reverse of `q7-a1`). **19 entries, zero `[?]`**; two gutter runovers
+> (p. 111 n. 2, p. 112 n. 3), zero page-crossing (established). Registry untouched (division 7 already in).
+> Committed locally, **not pushed, not deployed** — the deploy boundary is the work close at p. 115, which `q8` reaches.
+>
+> ## ⭐⭐⭐ THE *VACATIO* DECIDING SITE IS TEXTUALLY INSECURE — A QUESTION FOR THE WORK-CLOSE GATE / WILSON
+> p. 111 prints *affectus noster non **quiescit** nisi in summe amabili **vacando***¹ exactly as banked, but **n. 1 is an
+> editorial argument about the word**: after Augustine *De civ. Dei* XXII.30.5 *Ibi vacabimus et videbimus…* it reads
+> ***D potius legi deberet vetando. Fortasse originale habuit amabili et amativo…*** — the sole witness reads rather
+> *vetando*, and the editors suspect *amativo*. **Applied, not ratified:** `bon-praec-c4`'s pair — *quiescit* → "rest",
+> *vacando* → "keeping leisure", *vacabimus* → "we shall keep leisure". The English keeps the families apart in the one
+> clause where they meet, but the test is weak. **Gate/Wilson: ratify *vacatio* → "leisure" on this, or leave open with
+> the note?** Reversible in one line. (Bonus control: `bon-brev-prol` p. 202 n. 3's `supra pag. 111, nota 1` now resolves
+> here, correctly — Quaracchi's Breviloquium editors quote the sentence from *videbimus* on, without *vacabimus*.)
+>
+> ## ⭐⭐ BOUNDARY 14 (p. 112): FORWARDS, SPLIT 3/2 — INDEX `111` WRONG BY A LEAF, RAW BAND EXACT
+> p. 112 extracted ALONE and read first (the standing order's **eleventh** payment). Replies 5 (tail)–9 fill ~½ the leaf;
+> `QUAESTIO VIII.` + subtitle *Utrum possit simul stare trinitas cum summa primitate*, opener *Ultimo quaeritur…* and
+> **args 1–3** follow. **nn. 1–3 are `q7-a2`'s; n. 4** (arg. 1 *prima*⁴, left col.) **and n. 5** (arg. 2 *primam*⁵,
+> right col.) **FORWARD to `q8`.** Five marks, five seats → **Q. VIII's opener UNANCHORED by count** (re-read it at full
+> width). ▶ **5/1 · LE · 2/8 · 1/4 · 4/2 · 4/0 · 1/6 · 3/2 · LE · 5/0 · 3/1 · 4/4 · 6/1 · 3/2** — 12 forwarding / 2 LE.
+>
+> ## ⭐ WHAT ELSE THIS CHUNK FOUND
+> - **D alone throughout**, Quaracchi's conjectures visible: a **whole objection missing** (reply 1 answers *Augustini et
+>   Hilarii*; the Hilary is supplied only in p. 111 n. 2, not the body), two conjectures in reply 5 (p. 111 n. 5), a
+>   lacuna filled in reply 8 (p. 112 n. 3).
+> - **Printed dittography** `simi-`|`militer` → *simimiliter* (p. 110 *Respondeo*), as printed. **Greek η sort** for *n.*
+>   in p. 111 n. 2 `[η. 58. XXV.]`, as printed; **58** fixed by `bon-sent-I-d6-a1-q1` n. 5. ⚠ That chunk's sibling `-q2`
+>   n. 2 prints *n. 88. XXIV* — probably a deployed Vol I 5→8, **for the Vol I polish, not edited**.
+> - **Ruling 2 exercised on BOTH sides** (*lucis* → light, *luminis* → lumen). Ruling 5 NOT reached here.
+> - Gutters: 109 **1162** (Art. II region) · 110 **1387** (default 1363/16 px) · 111 **1194** (default 1161/**2 px**) ·
+>   112 **1380** (Art. II region). Marginalia **18, none clipped**.
+>
+> ## ▶ NUMBERS, DERIVED AFTER `q7-a2`
+> `check-vol5-apparatus.py` **151 chunks / 3,273 entries, all passed** (p. 112 shows `PENDING n.4,5`) ·
+> `check-vol5-census.py` **rosters agree 151/151, 221 runovers (197 gutter, 24 page)** · `check-live-flags.py vol5`
+> `bon-qmt-*` ZERO · `polish-style-scan` **11 / 6, ZERO in scope** · `build-content.mjs` **2,102 / 2,102** ·
+> `build-citations.py` **9 records here, 0 dangling / 0 unresolvable / 0 ambiguous, QA 202** · `build-index-json.py` run after.
+>
+> ## ▶▶▶ FRONT = `bon-qmt-q8`, **pp. 112–115**, raw **L26000 → ~L26470** — QUAESTIO VIII, UNDIVIDED, THE WORK'S LAST
+> ⭐ **It inherits p. 112 nn. 4–5 AND body**: `QUAESTIO VIII.` + subtitle, opener, **args 1–3** — re-derive, don't adopt.
+> ⚠⚠ **p. 112 n. 4 carries `q. 2. a. 1. fundam. 6.` — a RULING 5 SITE; `q8` must render *fundamentum 6* and quote it.**
+> p. 112's gutter for Q. VIII's region is **UNMEASURED** (`q7-a2` measured rows 0.05–0.50). Numerals: 113 L26072 ·
+> 114 L26223 · 115 L26367. **The work ends on p. 115 with NO colophon**; fix the end positively from p. 116 (blank,
+> 0.1333 % = gutter-edge darkness, per the pilot) and p. 117's `QUAESTIONES DISPUTATAE / DE PERFECTIONE EVANGELICA`
+> display heading (raw ~L26474). ⚠ The raw shows a marker after p. 117's *Volentes*\* — **a prediction for work 4's
+> proemium anchor, NOT q8's business.** p. 115's last note gives Ps. 35:10 *Apud te est fons vitae* (no *lumen*; the
+> exemption is not reached). `buildWorkChunkTitle` returns `Quaest. 8` when `articulus` is absent — **add registry
+> division 8 with its subtitle verified on the plate.**
+> ▶▶ **THEN THE WORK-CLOSE GATE (p. 115)** — four passes; carried for it: the *vacatio* question above · p. 109
+> unidentifiable sort (`q7-a1`) · `bon-hex-c5` p. 355 n. 1 `tom IV.` resolving wrongly into `q7-a1` · `ibid.` anaphora
+> artefacts (5 sites) · `bon-itin-c5` p. 309 n. 2 now `page-multi` · the `q5-a2`/`q6-a1`/`q6-a2` resolver classes. Then
+> **push + deploy, each a hard stop.** Plates on disk pp. 68–112 (`raw/vision/vol5/`); pass 4 deletes them.
+
+
+
 > # ▶▶▶ START HERE — **`bon-qmt-q7-a1` IS LANDED (`f6882e3`). QUAESTIO VII IS OPENED. THE FRONT IS `bon-qmt-q7-a2`.**
 > Quaestio VII, Articulus I, **pp. 106–109** — Tier 2, built 2026-09-15; the work's thirteenth chunk, **13 of 15**.
 > Opens on p. 106 below Q. VI's close (`QUAESTIO VII.` + subtitle, opener + *praeambula* — the second ANCHORED, n. 5 —
