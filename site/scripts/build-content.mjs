@@ -418,8 +418,21 @@ const WORKS = {
       8: "Quaestio VIII: Utrum possit simul stare trinitas cum summa primitate",
     },
   },
+  // See manual-review/perfectione-evangelica-pilot-scouting.md.
+  // Mixed division shape: Quaestio I is undivided (one chunk, no `articulus`);
+  // Quaestiones II-IV divide into three articuli each.
+  "perfectione-evangelica": {
+    book: 10,
+    tome: 5,
+    title: "Quaestiones disputatae de perfectione evangelica",
+    initial: "Q",
+    divisionLabel: "Quaestiones",
+    divisions: {
+      1: "Quaestio I: De humilitate quoad actum ipsius, utrum scilicet christianae perfectionis sit se ipsum vilificare pro Christo",
+    },
+  },
   // Future Vol V works claim book ids here as their mini-pilots run:
-  // perfectione-evangelica: 10, sermones-selecti: 14.
+  // sermones-selecti: 14.
 };
 
 function buildWorkChunkTitle(meta) {
@@ -447,7 +460,12 @@ function buildWorkChunkTitle(meta) {
   // The de mysterio Trinitatis divides its quaestiones into articuli, so its
   // chunk is finer than its division: "Quaest. 1, Art. 1". Quaestio VIII is
   // undivided and carries no `articulus`, so it names itself "Quaest. 8".
-  if (meta.workSlug === "mysterio-trinitatis")
+  // De perfectione evangelica has the same shape (its undivided Quaestio I
+  // is "Quaest. 1").
+  if (
+    meta.workSlug === "mysterio-trinitatis" ||
+    meta.workSlug === "perfectione-evangelica"
+  )
     return meta.articulus
       ? `Quaest. ${meta.division}, Art. ${meta.articulus}`
       : `Quaest. ${meta.division}`;

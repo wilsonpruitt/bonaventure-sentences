@@ -357,6 +357,18 @@ KNOWN_TOTALS = {
     115: 6,  # all six are q8's (replies 3-7). THE WORK'S LAST LEAF -- ends
              # with an ornamental rule, no colophon; p.116 blank. Gutter 1185
              # (default 1156/9 px).
+    # --- De perfectione evangelica (bon-qpe-q1, pp. 117-124) ---
+    117: 8,  # proemium n.1 (the work's textual note, codd. E D I) + Q. I args 1-6.
+             # Gutter 1164.
+    118: 9,  # args 7-15. n.5 RUNS OVER THE GUTTER (`dicitur:` flush left).
+    119: 12, # args 16-25, Contra 1-3. Gutter 1176 (sound).
+    120: 12, # Contra 4-14, Solutio. n.8 RUNS OVER THE GUTTER (`et vivens`).
+    121: 8,  # Solutio. n.6 RUNS OVER THE GUTTER (`nalis primam`).
+    122: 7,  # Solutio, reply 1. n.5 RUNS OVER THE GUTTER (`canonicum regularem`).
+    123: 8,  # replies 1-6. n.4 RUNS OVER THE GUTTER (`cepta, quibus`).
+    124: 5,  # SHARED leaf -- BOUNDARY 1 FORWARDS IN THE BODY ONLY, split 5/0: all
+             # five are q1's (replies 8, 9, 11.12, 13.14, 15); Q. II heading +
+             # opener unanchored. Gutter 1379 for Q. I's region (default 1389/17 px).
     205: 8,
     206: 11,
     207: 8,
