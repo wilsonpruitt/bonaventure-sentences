@@ -2504,6 +2504,19 @@ until Wilson rules on the two items marked ⛔ below — do not dispatch `q2-a2`
   for the gate: cross-note `ibid.` (p. 119 nn. 1–2), `loc. cit. in praeced. nota` (p. 118 n. 3), `ibid. d. N` after a
   `tom. II. pag.` locus unresolvable (p. 119 n. 3), and `Quaest. de mysterio Trin. q. N. a. M.` NOT PARSED (p. 123 n. 1).
   ⚠ **Never `git stash` in this repo** — it emptied `.git/index` once (repaired with `git read-tree HEAD`).
+- **✅ `bon-qpe-q2-a1` IS BUILT (pp. 124–134, 74 entries, zero `[?]`, 2026-09-15).** Transferable findings only:
+  **(a) Boundary 2 (p. 134) FORWARDS THE WHOLE REGISTER, split 0/8** — Art. I's replies 9 (tail)–10 carry no anchor; **Art. II's
+  SUBTITLE *De paupertate quoad mendicitatem*¹ IS ANCHORED** (n. 1 = Art. II's textual note, codd. A D E K M + the L *reportatio*) —
+  **the first anchored division heading in this work.** `q2-a2` opens on p. 134 at n. 1. Raw band exact (L28998/L28999).
+  **(b) Labels vary inside one work: `q1` printed `Sᴏʟᴜᴛɪᴏ`/`Cᴏɴᴛʀᴀ`, this articulus `Rᴇsᴘᴏɴᴅᴇᴏ`/`Sᴇᴅ ᴄᴏɴᴛʀᴀ`** — find by content.
+  Replies answer the `Sᴇᴅ ᴄᴏɴᴛʀᴀ` (lemmata checked). **(c) Three Quaracchi verse slips transcribed as printed** (p. 126 n. 4
+  `Matth. 19, 15` for 19:21; p. 132 n. 1 `II. Cor. 6, 13` and p. 133 n. 2 `8, 10` for 8:13) — in range, so the resolver cannot see
+  them. **(d) p. 131 n. 1 *ab [ip]so*** restored as a failing impression by measurement (flanking 77–103 vs line 46–59, no ghost) —
+  borderline, for the gate. **(e) Forced register choices for the SHAKEDOWN GATE (p. 134, recommended, NOT yet ruled on by Wilson):**
+  *dominium* → ownership (reply 3's *usum… non dominium*); *ab-/renuntiare* both → renounce vs *relinquere* → leave; *in privato* /
+  *in speciali* kept apart; *mendicitas* → mendicancy inside Prov. 30:8 (Douay adjusted); *egenus/egestas* → needy/need vs
+  *pauper* (II Cor. 8:9 Douay adjusted); *largitas* → largesse vs *liberalitas*; *lumen* → "lumen" once (Cyprian). Ruling 5 met
+  3× (all internal). Resolver: `ed. Maurin. tom. 3. pag. 448` resolves into our p. 448 (wrong); bare `supra q. 1.` not parsed.
 
 ### Vol V mechanics
 

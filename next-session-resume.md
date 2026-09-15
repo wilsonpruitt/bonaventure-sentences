@@ -1,5 +1,21 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **`bon-qpe-q2-a1` IS LANDED (`3a064ba`). NEXT = THE SHAKEDOWN GATE AT p. 134 (recommended; WILSON HAS NOT RULED ON RUNNING IT), THEN `bon-qpe-q2-a2`.**
+> Q. II Art. I *De paupertate quoad abrenuntiationem*, **pp. 124–134**, Tier 2 (2026-09-15): Q. II heading + opener from p. 124
+> (unanchored, printed *duo*), 32 arguments, `Sᴇᴅ ᴄᴏɴᴛʀᴀ` 10, `CONCLUSIO`, **`Rᴇsᴘᴏɴᴅᴇᴏ`** (q1 printed *Solutio*), 10 replies answering
+> the `Sᴇᴅ ᴄᴏɴᴛʀᴀ`. **74 entries (0/10/9/9/14/7/6/7/6/6/0), zero `[?]`**; seven gutter runovers, zero page-crossing (established).
+> Registry division 2. Build **2105**. 94 citation records, **0 QA** (corpus 201); two inbound `bon-don-c7` forwards resolve here.
+> **Boundary 2 (p. 134) forwards the WHOLE register, 0/8** — and **Art. II's subtitle *mendicitatem*¹ IS ANCHORED** (the work's first).
+> Committed locally, **not pushed, not deployed.** Plates 117–134 on disk (pass 4 owed at the gate).
+> ▶ **Gate carry-list** (all in `q2-a1`'s Notes § FOR THE SHAKEDOWN GATE): *dominium* ownership/lordship · *ab-/renuntiare* → renounce ·
+> *mendicitas* mendicancy (Prov. 30:8 Douay adjusted) · *egenus* needy vs *pauper* · *vilificare se* (q1) · *castitas/pudicitia* (later) ·
+> p. 131 n. 1 *ab [ip]so* borderline restoration · three printed verse slips the resolver cannot see.
+> ▶ **`q2-a2` hand-off (pp. 134–156, raw L28999–L32211): THE THREE-PASS BUILD WILSON APPROVED** (CLAUDE.md § PERFECTIONE EVANGELICA) —
+> pass A heading/arguments/opposing series (~134–139), B *Conclusio*/*Respondeo*/replies to ~147, C rest + audits + both commits; one
+> uncommitted file, small appends. It owns **all eight of p. 134's register** starting at **n. 1 on the subtitle** (nn. 2–8 = args 1–7);
+> p. 134's Art. II region gutter unmeasured (Art. I's region = 1370). 9 `vaca-` sites → dikaisune rule + `[^tr-vacare]` notes.
+> ⚠ **Never `git stash` in this repo.**
+
 > # ▶▶▶ START HERE — **`bon-qpe-q1` IS LANDED (`12d6f2c`). NEXT FRONT = `bon-qpe-q2-a1` (pp. 124–134, raw L27584–L28998).**
 > *De perfectione evangelica* Quaestio I, undivided, **pp. 117–124**, Tier 2 (2026-09-15) — the work's first chunk: display
 > heading, **anchored** proemium (p. 117 n. 1, codd. E D I), unanchored `QUAESTIO I.` + subtitle, 25 arguments, a `Cᴏɴᴛʀᴀ`
