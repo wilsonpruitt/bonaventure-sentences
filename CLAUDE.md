@@ -2459,7 +2459,22 @@ until Wilson rules on the two items marked ⛔ below — do not dispatch `q2-a2`
 - **p. 198 n. 3 is an 1890s editorial dissertation on papal primacy/infallibility** — rendered
   literally and in full as Quaracchi's text of its date.
 - **Registry (when `q1` lands):** `WORKS` entry (book 10) + add the slug to the
-  `mysterio-trinitatis` branch of `buildWorkChunkTitle` (`Quaest. 1` for undivided Q. I).
+  `mysterio-trinitatis` branch of `buildWorkChunkTitle` (`Quaest. 1` for undivided Q. I). ✅ Done with `q1`.
+- **✅ `bon-qpe-q1` IS BUILT (pp. 117–124, 69 entries, zero `[?]`, 2026-09-15).** Transferable findings only:
+  **(a) THE SOLUTION IS PRINTED `Sᴏʟᴜᴛɪᴏ:`, not *Respondeo*** — keep the printed label; find every series by content.
+  Q. I's replies answer the `Cᴏɴᴛʀᴀ` (checked from their lemmata — p. 117 n. 1 warns cod. I writes a bare *ad 1.
+  dicendum*). **(b) *vilificare se* → "to make oneself vile" / *vilificatio sui* → "the making of oneself vile"
+  (WORKING, to the shakedown gate)**, kept apart from *humiliare* → humble / *humiliatio* → humiliation and from
+  *abiectio* → abjection; the whole *vil-* family stays "vile" (*vilescere* grow vile, *vilitas* vileness). Modern
+  "vilify" = slander, rejected. **(c) Boundary 1 re-derived: body-only forward 5/0** — `q2-a1` takes p. 124's Q. II
+  heading + opener and nothing from the register. **(d) p. 117 subtitle *ch[r]istianae* = failing impression** (flanking
+  *h* stroke min 86–102 vs line 17–40; ghost in the gap at 125) → bracketed in the Latin heading, plain in title fields.
+  **(e) Raw body grade: pp. 121 and 123 badly degraded; footers usable.** Five gutter runovers, zero page-crossing; the
+  default gutter was within 6 px on seven leaves, but the shared leaf p. 124 needed its region (1379 vs default 1389/17 px).
+  Ruling 5 met once (p. 122 n. 6, an INTERNAL `supra fundam. 9.`); ruling 2 unreached; `vaca-` zero. Resolver artefacts
+  for the gate: cross-note `ibid.` (p. 119 nn. 1–2), `loc. cit. in praeced. nota` (p. 118 n. 3), `ibid. d. N` after a
+  `tom. II. pag.` locus unresolvable (p. 119 n. 3), and `Quaest. de mysterio Trin. q. N. a. M.` NOT PARSED (p. 123 n. 1).
+  ⚠ **Never `git stash` in this repo** — it emptied `.git/index` once (repaired with `git read-tree HEAD`).
 
 ### Vol V mechanics
 

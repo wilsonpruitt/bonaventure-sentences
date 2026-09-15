@@ -1,5 +1,22 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **`bon-qpe-q1` IS LANDED (`12d6f2c`). NEXT FRONT = `bon-qpe-q2-a1` (pp. 124–134, raw L27584–L28998).**
+> *De perfectione evangelica* Quaestio I, undivided, **pp. 117–124**, Tier 2 (2026-09-15) — the work's first chunk: display
+> heading, **anchored** proemium (p. 117 n. 1, codd. E D I), unanchored `QUAESTIO I.` + subtitle, 25 arguments, a `Cᴏɴᴛʀᴀ`
+> series of 15, `CONCLUSIO`, a **`Sᴏʟᴜᴛɪᴏ`** (so printed — not *Respondeo*), 13 reply paragraphs answering the `Cᴏɴᴛʀᴀ`.
+> **69 entries (8/9/12/12/8/7/8/5), zero `[?]`**; five gutter runovers, zero page-crossing (established). Registry: `WORKS`
+> entry (book 10) + division 1 + the slug in `buildWorkChunkTitle`'s mysterio branch ("Quaest. 1"). Build 2103 → **2104**.
+> 74 citation records, **0 QA** (corpus 201); **nine inbound `forward` records now resolve here** (pp. 120 n. 11, 121 n. 3,
+> 123 n. 4 from Brev/Hex/Red/Itin/Don/Praec). *ch[r]istianae* = failing impression, restored in brackets (measured).
+> *vilificare se* → **"to make oneself vile"** (working; to the shakedown gate). Committed locally, **not pushed, not deployed.**
+> ▶ **`q2-a1` hand-off:** it inherits from p. 124 **the body only** — `QUAESTIO II.`, *De paupertate.* and the two-line opener
+> (*Quaestio est de paupertate, et quaeruntur duo…*, printed *duo* though Q. II has three articles — as printed) —
+> and **NOTHING from p. 124's register** (all five are q1's). p. 124 gutter for the Q. II region is unmeasured (Q. I's is 1379).
+> `ARTICULUS I.` heads p. 125 (plate on disk). Extract p. 134 ALONE and read it first. Then the **shakedown gate** at `q2-a1`'s
+> close (register: *vilificare*, *usus/dominium*, *castitas/pudicitia*…). ⛔ `q2-a2` still waits on Wilson's two rulings.
+> ⚠ Plates 117–125, 198, 199 on disk (pass 4 owed at the gate). ⚠ **Never `git stash` in this repo** — a stash/pop this
+> session left `.git/index` empty (every file staged as deleted); repaired with `git read-tree HEAD`, working tree untouched.
+
 > # ▶▶▶ START HERE — ***DE PERFECTIONE EVANGELICA* MINI-PILOT RUN (2026-09-15). TWO RULINGS OWED WILSON, THEN `bon-qpe-q1`.**
 > Scouting: `manual-review/perfectione-evangelica-pilot-scouting.md`; summary in repo CLAUDE.md § PERFECTIONE EVANGELICA.
 > **10 chunks, one per articulus** (`bon-qpe-q1` undivided, then `q{2,3,4}-a{1,2,3}`), pp. 117–198, raw L26470 → ~L38640.
