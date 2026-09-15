@@ -2591,9 +2591,25 @@ def main():
         en = section(text, "English")
         app = section(text, "Apparatus")
 
-        defs = re.findall(r"^\[\^([^\]]+)\]:", app, re.M)
-        la_anchors = re.findall(r"\[\^([^\]]+)\]", la)
-        en_anchors = re.findall(r"\[\^([^\]]+)\]", en)
+        all_defs = re.findall(r"^\[\^([^\]]+)\]:", app, re.M)
+        la_all = re.findall(r"\[\^([^\]]+)\]", la)
+        en_all = re.findall(r"\[\^([^\]]+)\]", en)
+        # TRANSLATOR'S NOTES (`[^tr-…]`, the dikaisune rule, 2026-09-15) are OURS,
+        # not Quaracchi's: anchored in the ENGLISH ONLY, never in the Latin, never
+        # counted as apparatus entries and never owning a printed page's footer.
+        is_tr = lambda l: l.startswith("tr-")
+        tr_defs = [d for d in all_defs if is_tr(d)]
+        tr_la = [a for a in la_all if is_tr(a)]
+        tr_en = [a for a in en_all if is_tr(a)]
+        if tr_la:
+            problems.append("%s: TRANSLATOR'S NOTE anchored in the LATIN %s"
+                            % (name, sorted(set(tr_la))))
+        if sorted(set(tr_defs)) != sorted(set(tr_en)):
+            problems.append("%s: TRANSLATOR'S NOTE pairing — defs %s vs English anchors %s"
+                            % (name, sorted(set(tr_defs)), sorted(set(tr_en))))
+        defs = [d for d in all_defs if not is_tr(d)]
+        la_anchors = [a for a in la_all if not is_tr(a)]
+        en_anchors = [a for a in en_all if not is_tr(a)]
         total_entries += len(defs)
 
         dupes = sorted({d for d in defs if defs.count(d) > 1})

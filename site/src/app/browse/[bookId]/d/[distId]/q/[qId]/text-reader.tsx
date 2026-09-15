@@ -184,22 +184,51 @@ function Scholion({
 }
 
 function ApparatusBlock({ apparatus }: { apparatus: ApparatusEntry[] }) {
+  // Translator's notes (`tr-` labels) are ours, not Quaracchi's: they render in
+  // their own block, after the edition's apparatus, and are never mixed into it.
+  const editorial = apparatus.filter((e) => !isTranslatorNote(e.id));
+  const translator = apparatus.filter((e) => isTranslatorNote(e.id));
   return (
     <div className="apparatus-block">
-      <div className="section-title" style={{ fontSize: "12px" }}>
-        Apparatus Criticus
-      </div>
-      <ol className="apparatus-list">
-        {apparatus.map((e) => (
-          <li key={e.id} id={`fn-${e.id}`} className="apparatus-entry">
-            <span className="apparatus-num">{displayLabel(e.id)}</span>
-            <div className="apparatus-la">{renderInline(e.la)}</div>
-            {e.en && <div className="apparatus-en">{renderInline(e.en)}</div>}
-          </li>
-        ))}
-      </ol>
+      {editorial.length > 0 && (
+        <>
+          <div className="section-title" style={{ fontSize: "12px" }}>
+            Apparatus Criticus
+          </div>
+          <ol className="apparatus-list">
+            {editorial.map((e) => (
+              <li key={e.id} id={`fn-${e.id}`} className="apparatus-entry">
+                <span className="apparatus-num">{displayLabel(e.id)}</span>
+                <div className="apparatus-la">{renderInline(e.la)}</div>
+                {e.en && <div className="apparatus-en">{renderInline(e.en)}</div>}
+              </li>
+            ))}
+          </ol>
+        </>
+      )}
+      {translator.length > 0 && (
+        <div className="translator-notes">
+          <div className="section-title" style={{ fontSize: "12px" }}>
+            Translator&rsquo;s Notes
+          </div>
+          <ol className="apparatus-list">
+            {translator.map((e) => (
+              <li key={e.id} id={`fn-${e.id}`} className="apparatus-entry apparatus-entry-tr">
+                <span className="apparatus-num">{displayLabel(e.id)}</span>
+                <div className="apparatus-en">{renderInline(e.en)}</div>
+              </li>
+            ))}
+          </ol>
+        </div>
+      )}
     </div>
   );
+}
+
+// Translator's notes (the dikaisune rule, 2026-09-15): an English-only note in
+// our own voice, labelled `tr-<word>` in the chunk and shown as "tr.".
+function isTranslatorNote(id: string): boolean {
+  return id.startsWith("tr-");
 }
 
 // --- Rendering helpers ------------------------------------------------------
@@ -210,6 +239,7 @@ function ApparatusBlock({ apparatus }: { apparatus: ApparatusEntry[] }) {
 // The reader should still see the number the page actually prints, so strip the
 // `p<page>` namespace and show the rest. Bare labels (`12`, `2b`) pass through.
 function displayLabel(id: string): string {
+  if (isTranslatorNote(id)) return "tr.";
   const m = id.match(/^p\d+[a-z]*-(.+)$/);
   return m ? m[1] : id;
 }
@@ -305,7 +335,7 @@ function renderInline(text: string, pageMode: PageMode = "off"): React.ReactNode
     } else if (m[2] !== undefined) {
       const id = m[2];
       tokens.push(
-        <sup key={`fn-${key++}`} className="fn-ref">
+        <sup key={`fn-${key++}`} className={isTranslatorNote(id) ? "fn-ref fn-ref-tr" : "fn-ref"}>
           <a href={`#fn-${id}`}>{displayLabel(id)}</a>
         </sup>
       );

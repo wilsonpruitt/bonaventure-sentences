@@ -2459,12 +2459,21 @@ until Wilson rules on the two items marked ⛔ below — do not dispatch `q2-a2`
   `bon-praec-c4` and `bon-qmt-q7-a2`, are already contextually right and need only the note).
   Sites: 9 in `q2-a2`, 3 in `q2-a3`. ⛔ **The note needs a mechanism that does not exist yet** —
   every footnote in the corpus is Quaracchi's; see OWED WILSON (1b).
-- ⛔ **OWED WILSON (1b): the translator's-note mechanism**, needed before `q2-a2`. Proposed: an
-  ENGLISH-ONLY anchor with a non-numeric label (`[^tr-vacare]`, displayed "tr."), a def carrying
-  only `**En.** Translator's note: …`, visibly distinct from Quaracchi's apparatus; `build-content.mjs`
-  and `check-vol5-apparatus.py` extended to accept English-only `tr-` anchors and to exclude them
-  from per-page footer ownership. Footnote at the first occurrence per chunk and wherever the sense
-  leans to the other side. (The *lumen* ruling's owed translator's note would use it too.)
+- ✅ **TRANSLATOR'S NOTES — APPROVED (Wilson) AND BUILT 2026-09-15. The corpus's first note in OUR
+  voice; every other footnote is Quaracchi's.** Convention:
+  - Label **`[^tr-<word>]`** (e.g. `[^tr-vacare]`; a second in one chunk `[^tr-vacare-2]`), anchored
+    in the **ENGLISH ONLY** — never in the Latin — right after the rendered word.
+  - Def in `## Apparatus`, after Quaracchi's entries: `[^tr-vacare]: **En.** Translator's note: …`
+    — no `**La.**` half. Say what the Latin holds together and which side the English took.
+  - The reader shows it as italic **"tr."** in a separate **Translator's Notes** block beneath the
+    Apparatus Criticus (`text-reader.tsx` `isTranslatorNote`). `check-vol5-apparatus.py` excludes
+    `tr-` from entry counts, KNOWN_TOTALS and page ownership, requires English-only pairing, and
+    FAILS a `tr-` anchor in the Latin; `polish-style-scan.py` likewise. `build-citations.py` reads
+    only `**La.**` halves, so notes never enter the index. Tested positive and negative 2026-09-15.
+  - **Where:** at the first occurrence per chunk, and wherever the sense leans to the other side.
+  - ⬜ **OWED at the next deploy boundary:** add the note to the two deployed *vacatio* sites
+    (`bon-praec-c4`, `bon-qmt-q7-a2`), and the *lumen* ruling's owed translator's note (first
+    *lumen* in `bon-qsc-q3`/`q4`, `bon-qmt` chunks). Deploy-only work — batch it, don't ship alone.
 - ⛔ **OWED WILSON (2): building `q2-a2` (~21 pp).** Kept ONE chunk (citation unit), built in
   **three sequential subagent passes into one uncommitted file**, committed only at Tier 2.
 - **New register — WORKING, carried to the shakedown gate:** *mendicitas*/*mendicatio* →

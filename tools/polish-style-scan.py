@@ -158,7 +158,12 @@ def main():
 
         if has_app:
             # every def should be anchored in both bodies
-            missing_lat = def_set - lat_markers
+            # Translator's notes (`[^tr-…]`, dikaisune rule 2026-09-15) are
+            # anchored in the English only — never required in the Latin.
+            missing_lat = {d for d in def_set - lat_markers if not d.startswith("tr-")}
+            tr_in_lat = {m for m in lat_markers if m.startswith("tr-")}
+            if tr_in_lat:
+                issues.append((name, "PAIR", f"translator's note anchored in Latin: {sorted(tr_in_lat)}"))
             missing_eng = def_set - eng_markers
             if missing_lat:
                 issues.append((name, "PAIR", f"defs not anchored in Latin: {sorted(missing_lat, key=lambda s:(len(s),s))}"))

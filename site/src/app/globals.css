@@ -743,6 +743,22 @@ a { color: inherit; text-decoration: none; }
   opacity: 0.92;
 }
 
+/* Translator's notes — our voice, set apart from Quaracchi's apparatus */
+.translator-notes {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px dashed rgba(139,105,20,0.3);
+}
+.apparatus-entry-tr .apparatus-num {
+  font-family: var(--font-eb-garamond), serif;
+  font-style: italic;
+  font-size: 12px;
+  background: transparent;
+}
+.fn-ref-tr a {
+  font-style: italic;
+}
+
 /* Support */
 .site-support {
   max-width: 34rem;
