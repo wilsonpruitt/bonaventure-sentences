@@ -1867,6 +1867,8 @@ plate**; a blankness number is a screen, the plate is the evidence.
      `bon-praec-c4` pair was **APPLIED, not ratified** (*quiescit* → "rest", *vacando* → "keeping leisure", Augustine's
      *vacabimus* → "we shall keep leisure"); the English keeps the families apart, but **a distinction confirmed at a
      site whose word the editors doubt is weak evidence. The work-close gate (Wilson) decides whether to ratify.**
+     ⚠⚠ **SUPERSEDED THE SAME DAY (Wilson): *vacatio*/*vacare* is now CONTEXTUAL under the dikaisune rule, with a
+     translator's note — see § PERFECTIONE EVANGELICA. What survives below is the NEGATIVE half: never "rest".**
      ✅✅ **RATIFIED (Wilson, 2026-09-15, at the work-close gate): *vacatio*/*vacare* → "leisure" / "to keep leisure" against
      *quies*/*requies* → "rest" is now the CORPUS RULE**, closing the question open since `bon-praec-c4`. Ratified knowing the one
      meeting site is textually insecure; no text edit was needed anywhere.
@@ -2443,11 +2445,26 @@ until Wilson rules on the two items marked ⛔ below — do not dispatch `q2-a2`
   test at each) · *contuitio* 1 → "contuition" · ***fundam.* 15 — ruling 5 met repeatedly; each
   chunk quotes its rendering** · *pietas* → piety · *praeceptum* → precept against *consilium* →
   counsel (the work's backbone).
-- ⛔ **OWED WILSON (1): *vacare* + dative.** ~11 of 15 `vaca-` sites are *vacare divinis /
-  orationi / lectioni* ("to be free for"), a construction the just-ratified *vacatio* → "leisure"
-  rule was not ratified on. Pilot recommends: keep the rule for absolute uses (incl. Augustine's
-  *vacare manibus* pun and *licentia vacationis*), scope *vacare* + dative → "to be free for /
-  give oneself to". Deciding chunks: `q2-a2`, `q2-a3`.
+- ✅ **RULED (Wilson, 2026-09-15): *vacatio*/*vacare* falls under the DIKAISUNE RULE — CONTEXTUAL,
+  not fixed, and NOTED in the translation.** Wilson's rule (from δικαιοσύνη = righteousness *and*
+  justice; first stated for `~/jeong-theology`): when a Latin word holds together senses English
+  divides, **choose the English by context each time and footnote the word** — say what the Latin
+  holds together and which side the English took. Here *vacare* holds "leisure / being free /
+  being free FOR / being free FROM / idleness" together: *qui divinis vacant* → "who are free for
+  divine things" · *ab occupationibus vacant* → "are free from occupations" · absolute *vacatio* →
+  "leisure" · pejorative *licentia vacationis* → "licence of idleness" · Augustine's *vacare manibus
+  … omnino vacarent* pun keeps ONE English root across both halves. ⛔ **The ratified *vacatio*/
+  *quies* distinction still binds: no `vaca-` word is ever rendered "rest".** This SUPERSEDES the
+  fixed "leisure / keep leisure" gloss of the 2026-09-15 *mysterio* gate (the deployed sites,
+  `bon-praec-c4` and `bon-qmt-q7-a2`, are already contextually right and need only the note).
+  Sites: 9 in `q2-a2`, 3 in `q2-a3`. ⛔ **The note needs a mechanism that does not exist yet** —
+  every footnote in the corpus is Quaracchi's; see OWED WILSON (1b).
+- ⛔ **OWED WILSON (1b): the translator's-note mechanism**, needed before `q2-a2`. Proposed: an
+  ENGLISH-ONLY anchor with a non-numeric label (`[^tr-vacare]`, displayed "tr."), a def carrying
+  only `**En.** Translator's note: …`, visibly distinct from Quaracchi's apparatus; `build-content.mjs`
+  and `check-vol5-apparatus.py` extended to accept English-only `tr-` anchors and to exclude them
+  from per-page footer ownership. Footnote at the first occurrence per chunk and wherever the sense
+  leans to the other side. (The *lumen* ruling's owed translator's note would use it too.)
 - ⛔ **OWED WILSON (2): building `q2-a2` (~21 pp).** Kept ONE chunk (citation unit), built in
   **three sequential subagent passes into one uncommitted file**, committed only at Tier 2.
 - **New register — WORKING, carried to the shakedown gate:** *mendicitas*/*mendicatio* →

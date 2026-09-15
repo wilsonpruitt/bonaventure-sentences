@@ -157,7 +157,13 @@ inked-rule case. **Default confirmed, not corrected.** ⚠ *mysterio*'s p. 45 ad
 6. ***praeceptum* 63** → "precept"; its partner ***consilium* 55** → "counsel" — **the
    counsels/precepts axis is this work's backbone**, and *decem praeceptis*' ruling carries it.
 
-### ⭐⭐⭐ *vacare* — THE RULE RATIFIED TODAY MEETS A CONSTRUCTION IT WAS NOT RATIFIED ON. Wilson's call.
+### ⭐⭐⭐ *vacare* — THE RULE RATIFIED TODAY MEETS A CONSTRUCTION IT WAS NOT RATIFIED ON.
+
+✅ **RULED (Wilson, 2026-09-15): the dikaisune rule — contextual rendering + a translator's note;
+never "rest". Recorded in repo CLAUDE.md § PERFECTIONE EVANGELICA.** Site map: `q2-a2` L29436,
+29507, 29508, 29935 (the *vacare manibus* pun), 30009, 30348, 30594, 30808, 31960 (*ab …
+occupationibus vacant* — "free from") · `q2-a3` L32457, 32883 (*licentia vacationis*), 33371
+(*vacando … vacatio*). The analysis below is kept as the record of why.
 
 *vacatio*/*vacare* → "leisure" / "to keep leisure" was ratified at the *mysterio* gate
 (2026-09-15) on **absolute** uses (`bon-praec-c4`'s Sabbath *vacatio*; `q7-a2`'s *vacando*).
