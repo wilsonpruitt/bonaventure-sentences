@@ -2479,7 +2479,12 @@ until Wilson rules on the two items marked ⛔ below — do not dispatch `q2-a2`
   opposing series (~134–139); B: *Conclusio*, *Respondeo*, replies to ~p. 147; C: remaining replies,
   audits, both commits — each pass briefed with the previous pass's hand-off; committed only when
   pass C closes it at Tier 2.
-- **New register — WORKING, carried to the shakedown gate:** *mendicitas*/*mendicatio* →
+- ✅ **NO SHAKEDOWN GATE (Wilson, 2026-09-15): the working register below, plus `q1`'s and `q2-a1`'s
+  choices (*vilificare se* → "to make oneself vile", *dominium* → ownership, *abrenuntiare*/*renuntiare*
+  → renounce, *egenus* → needy vs *pauper*, *largitas* → largesse vs *liberalitas*), IS THE WORK'S
+  REGISTER GOING FORWARD — follow it; do not re-litigate chunk by chunk. Items the chunks carried
+  "for the gate" (the p. 131 *ab [ip]so* restoration, resolver artefacts) go to the WORK-CLOSE gate.**
+- **New register — ADOPTED (formerly working):** *mendicitas*/*mendicatio* →
   mendicancy/begging (kept apart) · *abrenuntiatio* → renunciation · *usus*/*dominium* → use /
   ownership (⚠ "lordship" the alternative — ruling at shakedown) · *castitas*/*pudicitia* both
   occur (23/30), so they cannot share "chastity" · *vilificare se* ≠ *humiliare* (open, settle at
@@ -2866,7 +2871,7 @@ the 450 dpi band, and where the plate is confirmed wrong, transcribe as printed 
 |---|---|---|
 | QD de scientia Christi | 3–43 (41) | **2** — `bon-qsc-q4` shakedown (p. 27) + close (p. 43) |
 | QD de mysterio Trinitatis | 45–115 (71) | **2** — shakedown at q. 2's close (p. 67) + close (p. 115) |
-| QD de perfectione evangelica | 117–198 (82) | **2 (pilot recommends)** — shakedown at `q2-a1`'s close (p. 134; new register) + close (p. 198) |
+| QD de perfectione evangelica | 117–198 (82) | **1 at close** (p. 198) — shakedown recommended at p. 134, **declined by Wilson 2026-09-15** |
 | **Breviloquium** | 199–291 (93) | **2** — Pars I shakedown (p.218) + close (p.291) |
 | Itinerarium | 293–316 (24) | 1 at close |
 | De reductione | 319–325 (7) | 1 at close |
