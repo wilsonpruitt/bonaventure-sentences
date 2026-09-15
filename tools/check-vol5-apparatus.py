@@ -334,8 +334,19 @@ KNOWN_TOTALS = {
              # flush left). Gutter 1390 (skewed leaf; default 1412/13 px).
     109: 7,  # SHARED leaf -- BOUNDARY 13 FORWARDS, split 6/1. nn.1-6 are
              # q7-a1's (replies 6-8); n.7 (*Orosium*, Art. II arg. 1) is
-             # PENDING until bon-qmt-q7-a2 lands. n.3 RUNS OVER THE GUTTER.
-             # Gutter 1162 for Art. I's REGION (rows 0.06-0.58).
+             # bon-qmt-q7-a2's (landed). n.3 RUNS OVER THE GUTTER.
+             # Gutter 1162 for Art. I's REGION (rows 0.06-0.58); 1162 again
+             # for Art. II's region (rows 0.705-0.775), measured by q7-a2.
+    110: 10, # all ten are q7-a2's (args 2-8, Contra 1-2, Respondeo). Opens
+             # numbered at n.1 -- no runover from p.109. Gutter 1387 (default
+             # 1363/16 px).
+    111: 5,  # all five are q7-a2's. n.2 RUNS OVER THE GUTTER (`dis [η. 58.`
+             # flush left). n.1 = the vacando note (D potius legi deberet
+             # vetando). Gutter 1194 (default 1161/2 px).
+    112: 5,  # SHARED leaf -- BOUNDARY 14 FORWARDS, split 3/2. nn.1-3 are
+             # q7-a2's (replies 6-8); nn.4-5 (Q. VIII args 1-2) are PENDING
+             # until bon-qmt-q8 lands. n.3 RUNS OVER THE GUTTER. Gutter 1380
+             # for Art. II's REGION (rows 0.05-0.50).
     205: 8,
     206: 11,
     207: 8,
