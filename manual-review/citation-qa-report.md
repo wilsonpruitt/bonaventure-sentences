@@ -15,7 +15,6 @@ Each line is a citation whose target should exist and does not, or a scripture c
 | `bon-itin-c3` | apparatus:p303-7 | `d. 49. p. I. q. 2.` | target locus does not exist — digit-confusion candidate |
 | `bon-praec-c6` | apparatus:p528-9 | `IV. Sent. d. 25. a. 4. q. 3.` | target locus does not exist — digit-confusion candidate |
 | `bon-qmt-q6-a1` | apparatus:p97-12 | `d. 49. p. II. sect. 2. a. 4. q. 1.` | target locus does not exist — digit-confusion candidate |
-| `bon-red` | apparatus:p324-9 | `pag. 907, nota 9` | no chunk owns printed page 907 of tom. 1 |
 | `bon-sent-I-d13-dubia` | apparatus:8 | `d. 13. p. 2. dub. 6.` | target locus does not exist — digit-confusion candidate |
 | `bon-sent-I-d15-p1-a1-q1` | scholion | `infra d. 18. p. I. a. 3. q. 1.` | target locus does not exist — digit-confusion candidate |
 | `bon-sent-I-d15-p2-a1-q1` | scholion | `Sent. d. 17. a. 9.` | target locus does not exist — digit-confusion candidate |

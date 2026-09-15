@@ -564,11 +564,16 @@ def scan_relative(text, cfg):
 def scan_page(text, cfg):
     """`supra pag. 120, nota 11` · `tom. III. pag. 773, nota 5` — physical-page locus."""
     pat = re.compile(
-        rf"(?:tom\.\s*(?P<tom>{ROMAN_RE})\.?\s*)?"
+        # `tom\.?` — Quaracchi occasionally drops the abbreviating point (`bon-hex-c5`
+        # p. 355 n. 1 `tom IV. pag. 107`); without it the tome was lost and the page
+        # resolved into the CITING volume (mysterio Trinitatis work-close gate).
+        rf"(?:\btom\.?\s+(?P<tom>{ROMAN_RE})\.?\s*)?"
         rf"(?:(?P<rel>supra|infra)\s+)?(?P<ibid>[Ii]bid\.?\s+)?pag\.\s*(?P<page>\d{{1,4}})"
         r"(?:\s*,\s*nota\s*(?P<nota>\d+))?"
     )
-    tom_lookback = re.compile(rf"tom\.\s*({ROMAN_RE})\.?")
+    # `(?![IVX])`: without it ROMAN_RE's first alternative takes the `I` of `IV`/`IX`
+    # and stops, so `tom. IV. … pag. 103` inherited tome I (work-close gate, 2026-09-15).
+    tom_lookback = re.compile(rf"\btom\.?\s+({ROMAN_RE})(?![IVX])\.?")
     book_lookback = re.compile(rf"({ROMAN_RE})\.?\s*Sent\.")
     for m in pat.finditer(text):
         d = m.groupdict()
@@ -593,7 +598,12 @@ def scan_page(text, cfg):
             # note — Quaracchi states the tome once and then lists pages. Without this
             # lookback every such page is measured against the CITING volume and reads
             # as dangling. `supra pag.` is explicitly same-volume and never inherits.
-            lb = tom_lookback.findall(clause_before(text, m.start(), window=400))
+            # `;` separates pages of the SAME stated tome (`tom. IV. pag. 102, nota 3;
+            # pag. 103, nota 10` — `bon-qmt-q5-a2` p. 93 n. 2), so this lookback uses the
+            # CHAIN splitter, which stops only at `—`, `Cfr.`, `Vide` (work-close gate,
+            # 2026-09-15). Stopping at `;` sent such pages into the citing volume.
+            lb = tom_lookback.findall(clause_before(text, m.start(), window=400,
+                                                    splitter=CHAIN_SPLIT_RE))
             if lb:
                 tom = ROMAN.get(lb[-1])
         yield {

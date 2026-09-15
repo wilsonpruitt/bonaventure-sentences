@@ -253,7 +253,7 @@ the consequent effect, it does not hold true. For just as such a cause is not ch
 
 [^p107-11]: **La.** Ita describit Aristot. III. Ethic. c. 1. *violentum* (cfr. II. Sent. d. 25. p. II. q. 4. et 5.). — De diversis acceptionibus necessitatis vide Aristot., V. Metaph. text. 6. (IV. c. 5.). De necessitate *indigentiae* cfr. August., 83 Qq. q. 22.
 
-     **En.** So Aristotle describes the *violent* in III *Ethics*, c. 1 (compare II *Sentences*, d. 25, p. II, q. 4 and 5). — On the various senses of necessity, see Aristotle, V *Metaphysics*, text 6 (IV, c. 5). On the necessity of *need*, compare Augustine, *Eighty-Three Questions*, q. 22.
+     **En.** So Aristotle describes the *violent* in III *Ethics*, c. 1 (compare II *Sentences*, d. 25, p. II, q. 4 and 5). — On the various senses of necessity, see Aristotle, V *Metaphysics*, text 6 (IV, c. 5). On the necessity of *need*, compare Augustine, *Eighty-three Questions*, q. 22.
 
 [^p107-12]: **La.** D hic male omittit *in*, quod primo loco posuit.
 

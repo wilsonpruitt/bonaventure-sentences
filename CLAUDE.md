@@ -1867,6 +1867,9 @@ plate**; a blankness number is a screen, the plate is the evidence.
      `bon-praec-c4` pair was **APPLIED, not ratified** (*quiescit* → "rest", *vacando* → "keeping leisure", Augustine's
      *vacabimus* → "we shall keep leisure"); the English keeps the families apart, but **a distinction confirmed at a
      site whose word the editors doubt is weak evidence. The work-close gate (Wilson) decides whether to ratify.**
+     ✅✅ **RATIFIED (Wilson, 2026-09-15, at the work-close gate): *vacatio*/*vacare* → "leisure" / "to keep leisure" against
+     *quies*/*requies* → "rest" is now the CORPUS RULE**, closing the question open since `bon-praec-c4`. Ratified knowing the one
+     meeting site is textually insecure; no text edit was needed anywhere.
      ▶ **A pilot's "deciding site" is a MAP entry until its apparatus has been read — a note can argue the word away.**
 - ★★ **FAILING IMPRESSION vs COMPOSITOR'S BLANK — a two-part rule, RATIFIED (Wilson, 2026-09-06 at
   the shakedown gate). Corpus-general, not this work's.** When letters are missing from a printed
