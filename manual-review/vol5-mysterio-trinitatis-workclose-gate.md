@@ -23,7 +23,7 @@ against the register rulings here for the first time.**
 **Result: ONE TEXT DEFECT, repaired (a *lumen* rendered "light" against ruling 2, unrecorded) · ONE RULING
 RATIFIED (*vacatio* → "leisure", Wilson) · ONE TOOL DEFECT, repaired (`build-citations.py` tome inheritance —
 eleven wrong resolutions corrected corpus-wide, zero regressions, QA 202 → 201) · one cosmetic normalisation.
-Passes 1–3 clean. Pass 4 awaiting Wilson.**
+Passes 1–3 clean. Pass 4 done; pushed and deployed (below).**
 
 ---
 
