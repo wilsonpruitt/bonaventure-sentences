@@ -1,5 +1,19 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **THE *DE MYSTERIO TRINITATIS* WORK-CLOSE GATE IS CLOSED (`f768613`, 2026-09-15). OWED: PUSH + DEPLOY + PASS 4 — each needs Wilson's OK.**
+> Log: `manual-review/vol5-mysterio-trinitatis-workclose-gate.md`. **One text defect repaired** (`q3-a1` *proprio lumine
+> rationis* "light" → "lumen", ruling 2, unrecorded) · ✅ ***vacatio* → "leisure" / *quies* → "rest" RATIFIED by Wilson**
+> (now the corpus rule) · **`build-citations.py` fixed** — bare `pag. N` now inherits its tome across `;`, reads unpointed
+> `tom`, and no longer truncates `IV`/`IX` to `I`: **11 records corrected corpus-wide (6 in deployed Vols III–IV), 0
+> regressions, QA 202 → 201.** Passes 1–3 clean; all 14 boundaries match the frozen record. **Docketed:** cross-note
+> `ibid.`/`loc. cit.` governance (6 sites), `q6-a1` `IV. d. 49` dangling, `bon-don-c8` `bon-sci-q4` slug.
+> ▶ **Deploy recipe** (repo CLAUDE.md § Build and deploy): `build-citations.py` → `build-index-json.py` (both already run
+> at the gate) → from `site/`: `node scripts/build-content.mjs`, `npx vercel build --prod`, `npx vercel deploy --prod
+> --prebuilt --archive=tgz --scope wilson-pruitts-projects`; retry a `fetch failed` deploy once; verify SERVED content
+> (e.g. `/browse/9/d/8/q/bon-qmt-q8`, and a Cited-by panel on a `bon-qmt` page). **Pass 4:** `raw/vision/vol5/*.png`
+> (50 plates, 161 MB) + `/tmp/colcrop/*` (34, 61 MB). **Then the next work: *De perfectione evangelica* (pp. 117–198)
+> needs its mini-pilot** — p. 117's proemium is ANCHORED (n. 1 *Hanc quaestionem sumsimus ex codicibus E D I…*).
+
 > # ▶▶▶ START HERE — **`bon-qmt-q8` IS LANDED (`743b980`). THE *DE MYSTERIO TRINITATIS* IS COMPLETE — 15 OF 15. THE FRONT IS THE WORK-CLOSE GATE.**
 > Quaestio VIII, undivided, **pp. 112–115** — Tier 2, built 2026-09-15; the work's last chunk. Opens on p. 112 below
 > Q. VII Art. II's close (`QUAESTIO VIII.` + subtitle *Utrum possit simul stare trinitas cum summa primitate*, opener
