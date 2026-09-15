@@ -301,10 +301,31 @@ KNOWN_TOTALS = {
              # q6-a1's (reply 13.14 *cogniti*, reply 15 *divina* -- n.2's variant
              # `G addit potentia vel` seats it; the mark after *quod* is below
              # the baseline -- and reply 17 *in hoc*); n.3 RUNS OVER THE GUTTER.
-             # n.4 (Porphyry, at Art. II arg. 1 *genere*) is PENDING until
-             # bon-qmt-q6-a2 lands, and itself runs onto p.103.
+             # n.4 (Porphyry, at Art. II arg. 1 *genere*) is q6-a2's, and
+             # itself runs onto p.103 (PAGE-CROSSING, ledgered by q6-a2).
              # Gutter 1419 for Art. I's REGION (rows 0.05-0.66; whole-leaf
-             # default 1411 on 50 px).
+             # default 1411 on 50 px); 1409 for Art. II's thin region below.
+    103: 10, # all ten are q6-a2's. The register HEAD is p.102 n.4's runover,
+             # unnumbered and FLUSH LEFT (`et... unde et priora`) -- its first
+             # word lacks the `t` of *opor-tet*: first-ink x=155 against the
+             # flush margin 146, paper before it min 229, the *e* min 67, so
+             # the forme never carried the letter (reproduced, not filled).
+             # Block 3/7. Gutter 1129 (63 px, sound).
+    104: 7,  # all seven are q6-a2's. 8 raised marks against 7 notes: the dot
+             # after *ab esse* has no digit shape at 5x. n.4 = *Hic desinunt
+             # omnes codd., excepto D* -- from here the text rests on D alone.
+             # n.4 RUNS OVER THE GUTTER (`tamen suppari manu`). Gutter 1371.
+    105: 6,  # all six are q6-a2's. 7 marks against 6 notes: the stroke over
+             # *ipsius* (reply 7) is not a digit. n.3 RUNS OVER THE GUTTER
+             # (`dub. 4,` flush left; the `S. Bonav. -- Tom. V.` signature and
+             # gathering signature `14` are not apparatus). Gutter 1140
+             # (default 1139; centre rule peak 1304, the work's heaviest).
+    106: 8,  # SHARED leaf -- BOUNDARY 12 FORWARDS, split 4/4. nn.1-4 are
+             # q6-a2's (replies 9 *actus*, 10 *a*, 11 *ipsum*, 12 *partem*);
+             # nn.5-8 are PENDING until bon-qmt-q7-a1 lands -- n.5 anchors
+             # Quaestio VII's OPENER (*summa necessitas*), the work's second
+             # anchored quaestio opener after p.59. Gutter 1421 for Art. II's
+             # REGION (rows 0.03-0.42; whole-leaf default 1435 on 2 px).
     205: 8,
     206: 11,
     207: 8,

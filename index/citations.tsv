@@ -22205,7 +22205,7 @@ bon-qmt-q5-a2	5	apparatus:p93-1	p93-1	crossref	logical	I. Sent. d. 9. q. 3.	bon-
 bon-qmt-q5-a2	5	apparatus:p93-2	p93-2	crossref	page	tom. I. pag. 118, nota 2	bon-sent-I-d5-a2-q2		chunk		
 bon-qmt-q5-a2	5	apparatus:p93-2	p93-2	crossref	page	pag. 120, nota 7	tom5:p120		forward		
 bon-qmt-q5-a2	5	apparatus:p93-2	p93-2	crossref	page	tom. IV. pag. 102, nota 3	bon-sent-IV-d4-p1-a2-q1+bon-sent-IV-d4-p1-a2-q2		page-multi		
-bon-qmt-q5-a2	5	apparatus:p93-2	p93-2	crossref	page	pag. 103, nota 10	tom5:p103		forward		
+bon-qmt-q5-a2	5	apparatus:p93-2	p93-2	crossref	page	pag. 103, nota 10	bon-qmt-q6-a2		chunk		
 bon-qmt-q5-a2	5	apparatus:p93-4	p93-4	crossref	page	supra pag. 89, nota 1	bon-qmt-q5-a1		chunk		
 bon-qmt-q5-a2	5	apparatus:p93-5	p93-5	crossref	page	supra pag. 79, nota 9	bon-qmt-q4-a1		chunk		
 bon-qmt-q5-a2	5	apparatus:p94-2	p94-2	crossref	work	Quaest. de scientia Christi	work:scientia-christi		work		
@@ -22266,6 +22266,18 @@ bon-qmt-q6-a1	5	apparatus:p101-5	p101-5	crossref	logical	I. Sent. d. 42. q. 3	bo
 bon-qmt-q6-a1	5	apparatus:p101-5	p101-5	authority	authority:August.	d. 44. a. 2.			excluded		
 bon-qmt-q6-a1	5	apparatus:p102-1	p102-1	crossref	work	Quaest. de scientia Christi	work:scientia-christi		work		
 bon-qmt-q6-a1	5	apparatus:p102-2	p102-2	crossref	logical	I. Sent. d. 45. a. 2. q. 2.	bon-sent-I-d45-a2-q2		chunk		
+bon-qmt-q6-a2	5	apparatus:p102-4	p102-4	crossref	page	tom. I. pag. 664, nota 4	bon-sent-I-d37-p2-a2-q3		chunk		
+bon-qmt-q6-a2	5	apparatus:p103-1	p103-1	crossref	page	supra pag. 93, nota 3	bon-qmt-q5-a2		chunk		
+bon-qmt-q6-a2	5	apparatus:p103-2	p103-2	crossref	anaphor->page	loc. cit.	bon-qmt-q5-a2		chunk	yes	supra pag. 93, nota 3
+bon-qmt-q6-a2	5	apparatus:p103-2	p103-2	authority	authority:Magister	I. Sent. d. 7. dub. 4.			excluded		
+bon-qmt-q6-a2	5	apparatus:p103-3	p103-3	crossref	page	supra pag. 75, nota 7	bon-qmt-q3-a2		chunk		
+bon-qmt-q6-a2	5	apparatus:p103-4	p103-4	crossref	page	tom. I. pag. 180, nota 8	bon-sent-I-d9-a1-q1+bon-sent-I-d9-divisio		page-multi		
+bon-qmt-q6-a2	5	apparatus:p104-6	p104-6	crossref	logical	I. Sent. d. 9. q. 1.	bon-sent-I-d9-a1-q1		chunk		
+bon-qmt-q6-a2	5	apparatus:p105-3	p105-3	crossref	logical	I. Sent. d. 7. dub. 4	bon-sent-I-d7-dubia		chunk		
+bon-qmt-q6-a2	5	apparatus:p105-6	p105-6	scripture	apparatus-explicit	Sap. 13, 3	Sap 13:3	A	verse		
+bon-qmt-q6-a2	5	apparatus:p105-6	p105-6	scripture	apparatus-explicit	Isai. 66, 9	Isai 66:9	A	verse		
+bon-qmt-q6-a2	5	apparatus:p106-3	p106-3	crossref	page	supra pag. 46, nota 7	bon-qmt-q1-a1		chunk		
+bon-qmt-q6-a2	5	apparatus:p106-4	p106-4	crossref	logical	I. Sent. d. 19. p. II. q. 1.	bon-sent-I-d19-p2-a1-q1		chunk		
 bon-qsc-q1	5	apparatus:p3-1	p3-1	crossref	logical	III. Sent. d. 14	III:d14		distinctio		
 bon-qsc-q1	5	apparatus:p3-1	p3-1	crossref	logical	I. Sent. d. 35. q. 5	bon-sent-I-d35-a1-q5		chunk		
 bon-qsc-q1	5	apparatus:p3-1	p3-1	crossref	chain-continuation	d. 39. a. 1. q. 1	bon-sent-I-d39-a1-q1		chunk		
