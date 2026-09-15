@@ -1,5 +1,55 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **`bon-qmt-q7-a1` IS LANDED (`f6882e3`). QUAESTIO VII IS OPENED. THE FRONT IS `bon-qmt-q7-a2`.**
+> Quaestio VII, Articulus I, **pp. 106–109** — Tier 2, built 2026-09-15; the work's thirteenth chunk, **13 of 15**.
+> Opens on p. 106 below Q. VI's close (`QUAESTIO VII.` + subtitle, opener + *praeambula* — the second ANCHORED, n. 5 —
+> `ARTICULUS I.` + subtitle, args 1–5, all re-read at full width). Six arguments (`Fundamenta.`), a **`Cᴏɴᴛʀᴀ:` series of
+> nine** (`Ad oppositum.`), `Cᴏɴᴄʟᴜsɪᴏ` in-column, a *Respondeo* on a **threefold necessity** (wholly extrinsic /
+> partly / wholly intrinsic), **nine replies for nine, none combined, answering the `Cᴏɴᴛʀᴀ`**. **28 entries, zero `[?]`**;
+> three gutter runovers (p. 107 n. 6, p. 108 n. 5, p. 109 n. 3), zero page-crossing (established). Registry **division 7**
+> added. Conventions: repo `CLAUDE.md` § **MYSTERIO TRINITATIS**; the chunk's own `## Notes` is the full record.
+> Committed locally, **not pushed, not deployed** — the deploy boundary is still the work close at p. 115.
+>
+> ## ⭐⭐ BOUNDARY 13 (p. 109): FORWARDS, SPLIT 6/1 — THE INDEX RIGHT AT BOTH ENDS
+> p. 109 extracted ALONE and read first (the standing order's **tenth** payment). Art. I's replies 5–9 fill ~⅗ of the leaf;
+> `ARTICULUS II.` + subtitle *Utrum stent simul trinitas et summa necessitas*, opener and **arg. 1** follow. **nn. 1–6 are
+> `q7-a1`'s; n. 7** (*Sive Quaest. 65 dialog.… I. Sent. d. 6. q. 1. et 2.*) anchors at *Augustinus ad Orosium*⁷ and
+> **FORWARDS to `q7-a2`.** ▶ **5/1 · LE · 2/8 · 1/4 · 4/2 · 4/0 · 1/6 · 3/2 · LE · 5/0 · 3/1 · 4/4 · 6/1** — 11 forwarding / 2 LE.
+>
+> ## ⭐ WHAT THIS CHUNK FOUND
+> - **The whole chunk rests on codex D** (every variant note names D or *Cod.* alone); **two Quaracchi conjectures shape the
+>   wording** — Contra 1 re-formed (p. 107 n. 3), *non* struck from reply 7's last sentence (p. 109 n. 3).
+> - ⭐ **Ruling 5 MET (5th site): p. 108 n. 2 `fundam. 13. et 20.` → *fundamenta 13 and 20*** — target `q1-a1` args 13/20 confirmed.
+> - ⭐ **Quaracchi argues authenticity in a footnote a second time** (p. 109 n. 6, Olivi; after `q4-a1` p. 80 n. 11).
+> - ⚠ **An UNIDENTIFIABLE sort**: p. 109 reply 7 *~~n~~ecessarium* prints two arch-less strokes, the second a dotted *i* set
+>   ~4 px low; matches no sort on its line → **read plain, disclosed with pixel-map evidence, flagged for the gate.**
+> - Wrong sort `test.` (p. 107 n. 9, as printed); missing points `I. Phys text.`, `IX text.`; italic-fount `c` (p. 109 n. 1).
+> - ⭐ **`bon-itin-c5` p. 309 n. 2's forward `supra pag. 109, nota 5` now closes CORRECTLY here** (Metaph. II text. 1, the
+>   owl's eye) — ⛔ but **`bon-hex-c5` p. 355 n. 1's `tom IV. pag. 107, nota 5` now lands here WRONGLY** (unpointed `tom`).
+>   Plus three `ibid.`-in-Aristotle anaphora artefacts (p. 107 nn. 1, 8, 10). **All for the work-close gate.**
+> - Gutters: 106 **1409** (Q. VII region) · 107 **1145** (9 px skew) · 108 **1390** (default 1412/13 px, skewed) ·
+>   109 **1162** (Art. I region; rule peak 1107). **Marginalia 16, none clipped** (full-width strips on every gutter-side gloss).
+>
+> ## ▶ NUMBERS, DERIVED AFTER `q7-a1`
+> `check-vol5-apparatus.py` **150 chunks / 3,254 entries, all passed** (p. 109 shows `PENDING n.7`) ·
+> `check-vol5-census.py` **rosters agree 150/150, 219 runovers (195 gutter, 24 page)** · `check-live-flags.py vol5` 10 (all
+> pre-existing, `bon-qmt-*` ZERO) · `polish-style-scan` **11 / 6, ZERO in scope** · `build-content.mjs` **2,101 / 2,101** ·
+> `build-citations.py` **15 records here, 0 dangling / 0 unresolvable / 0 ambiguous, QA 202** · `build-index-json.py` run after.
+>
+> ## ▶▶▶ FRONT = `bon-qmt-q7-a2`, **pp. 109–? (index says 109–111)**, raw **L25571 → L25999**
+> ⭐ **It inherits p. 109 n. 7 AND body**: `ARTICULUS II.` + subtitle, opener *Deinde quaeritur…* and **arg. 1** (n. 7 at
+> *Orosium*) — re-derive, don't adopt. ⚠ **p. 109's gutter for the Art. II region is UNMEASURED** (`q7-a1` measured rows 0.06–0.58).
+> ⛔ **THE RAW ALREADY SAYS THE INDEX'S `111` IS WRONG:** heads p. 110 L25621 · p. 111 L25773 · numeral 112 L25925;
+> `QUAESTIO VIII.` (*Utrum possit simul stare trinitas cum summa primitate*) at **L26000, ~72 lines into p. 112** →
+> **predicted span 109–112, shared at BOTH ends.** A prediction — **extract p. 112 ALONE and read it first**; measure
+> boundary 14 there (and whether Q. VIII's opener is anchored — two of seven so far).
+> ⭐⭐⭐ **`q7-a2` IS THE DECIDING CHUNK FOR *vacatio*/*quies*:** raw **L25824** (p. 111) *non quiescit nisi in summe amabili
+> vacando* and **L25900** *vacabimus et videbimus*. "rest" is ruled for *quies*; decide *vacare* with the plate in view.
+> `q7-a1` met *quiescentis* once (participle → "resting", not deciding). ⚠ D is the only witness. ⚠ Ruling 5 — say
+> positively whether a `fundam.` site is met. Plates on disk for pp. 68–109 (`raw/vision/vol5/`); pass 4 of the work-close
+> gate deletes them. **Nothing in this work is deployed.**
+
+
 > # ▶▶▶ START HERE — **`bon-qmt-q6-a2` IS LANDED (`3334286`). QUAESTIO VI IS COMPLETE. THE FRONT IS `bon-qmt-q7-a1`.**
 > Quaestio VI, Articulus II, **pp. 102–106** — Tier 2, built 2026-09-14; the work's twelfth chunk, **12 of 15**.
 > Opens on p. 102 below Art. I's close (heading, subtitle, opener, arg. 1 — all unanchored, re-read at full width);

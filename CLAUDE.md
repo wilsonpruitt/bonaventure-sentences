@@ -1,6 +1,6 @@
 # Bonaventure Sentences — Project Guide for Claude
 
-You are working on an English translation of **St. Bonaventure's *Opera Omnia*** (Quaracchi edition, 1882–1902). Status (2026-09-06): **Books I–IV are complete and published** (Vols I–IV, all Tier 2). The active front is **Vol V**, where the Breviloquium, Itinerarium, De reductione, the Collationes in Hexaemeron, the *Collationes de septem donis*, the *Collationes de decem praeceptis* and the **QD de scientia Christi** (pp. 3–43, seven quaestiones, shakedown + work-close gates closed, **pushed and DEPLOYED 2026-09-05**) are ALL COMPLETE. **The next work is the *QD de mysterio Trinitatis*, pp. 45–115** — its **mini-pilot is FROZEN 2026-09-05** (§ MYSTERIO TRINITATIS below; evidence in `manual-review/mysterio-trinitatis-pilot-scouting.md`): **fifteen chunks, one per articulus** (`bon-qmt-q{1..7}-a{1,2}` + `bon-qmt-q8`), settled on Quaracchi's own 26 internal `q. N. a. N.` cross-references. **ELEVEN of fifteen are BUILT (pp. 45–102, 422 apparatus entries, zero `[?]` in all eleven): `bon-qmt-q1-a1` (45–51, 54) · `bon-qmt-q1-a2` (51–58, 53) · `bon-qmt-q2-a1` (59–63, 29) · `bon-qmt-q2-a2` (63–68, 40) · `bon-qmt-q3-a1` (68–73, 34) · `bon-qmt-q3-a2` (73–78, 35) · `bon-qmt-q4-a1` (78–84, 44) · `bon-qmt-q4-a2` (84–87, 24) · `bon-qmt-q5-a1` (87–92, 35) · `bon-qmt-q5-a2` (93–96, 30) · `bon-qmt-q6-a1` (96–102, 44). The SHAKEDOWN GATE IS CLOSED at p. 68 (2026-09-06, `manual-review/vol5-mysterio-trinitatis-shakedown-gate.md`) — ZERO defects in scope, both carried questions ruled. ⭐⭐⭐ ***vacatio*/*quies* IS RULED at `q5-a2` on the *quies* side ONLY — and one of the two predicted sites was a hyphenation artefact** (below). The front is `bon-qmt-q6-a2`, pp. 102–? (raw predicts 106, index says 105), raw L24533 → L25100.** Deploy boundary is the work close at p. 115. The live site is https://bonaventure.wrootpress.com. Always defer to `next-session-resume.md` for the exact current position.
+You are working on an English translation of **St. Bonaventure's *Opera Omnia*** (Quaracchi edition, 1882–1902). Status (2026-09-06): **Books I–IV are complete and published** (Vols I–IV, all Tier 2). The active front is **Vol V**, where the Breviloquium, Itinerarium, De reductione, the Collationes in Hexaemeron, the *Collationes de septem donis*, the *Collationes de decem praeceptis* and the **QD de scientia Christi** (pp. 3–43, seven quaestiones, shakedown + work-close gates closed, **pushed and DEPLOYED 2026-09-05**) are ALL COMPLETE. **The next work is the *QD de mysterio Trinitatis*, pp. 45–115** — its **mini-pilot is FROZEN 2026-09-05** (§ MYSTERIO TRINITATIS below; evidence in `manual-review/mysterio-trinitatis-pilot-scouting.md`): **fifteen chunks, one per articulus** (`bon-qmt-q{1..7}-a{1,2}` + `bon-qmt-q8`), settled on Quaracchi's own 26 internal `q. N. a. N.` cross-references. **THIRTEEN of fifteen are BUILT (pp. 45–109, 478 apparatus entries, zero `[?]` in all thirteen): `bon-qmt-q1-a1` (45–51, 54) · `bon-qmt-q1-a2` (51–58, 53) · `bon-qmt-q2-a1` (59–63, 29) · `bon-qmt-q2-a2` (63–68, 40) · `bon-qmt-q3-a1` (68–73, 34) · `bon-qmt-q3-a2` (73–78, 35) · `bon-qmt-q4-a1` (78–84, 44) · `bon-qmt-q4-a2` (84–87, 24) · `bon-qmt-q5-a1` (87–92, 35) · `bon-qmt-q5-a2` (93–96, 30) · `bon-qmt-q6-a1` (96–102, 44) · `bon-qmt-q6-a2` (102–106, 28) · `bon-qmt-q7-a1` (106–109, 28). The SHAKEDOWN GATE IS CLOSED at p. 68 (2026-09-06, `manual-review/vol5-mysterio-trinitatis-shakedown-gate.md`) — ZERO defects in scope, both carried questions ruled. ⭐⭐⭐ ***vacatio*/*quies* IS RULED at `q5-a2` on the *quies* side ONLY — and one of the two predicted sites was a hyphenation artefact** (below). The front is `bon-qmt-q7-a2`, pp. 109–? (raw predicts 112, index says 111), raw L25571 → L25999 — the deciding chunk for *vacatio*/*quies*.** Deploy boundary is the work close at p. 115. The live site is https://bonaventure.wrootpress.com. Always defer to `next-session-resume.md` for the exact current position.
 
 This file is loaded into every Claude Code session in this repo. Read it before making changes to translation files or the build pipeline.
 
@@ -1627,7 +1627,7 @@ plate**; a blankness number is a screen, the plate is the evidence.
   heading page and that leaf may or may not be shared): q1-a1 **45–51** · q1-a2 **51–58** ·
   q2-a1 **59–63** · q2-a2 **63–67** · q3-a1 **68–73** · q3-a2 **73–78** · q4-a1 **79–84** ·
   q4-a2 **84–85** · q5-a1 **86–93** · q5-a2 **93–96** · q6-a1 **97–102** · q6-a2 **102–105** *(measured **102–106**)* ·
-  q7-a1 **106–109** · q7-a2 **109–111** · q8 **112–115**. Headers at raw L16054/16058 · 17009 ·
+  q7-a1 **106–109** *(measured **106–109**, shared both ends)* · q7-a2 **109–111** · q8 **112–115**. Headers at raw L16054/16058 · 17009 ·
   18089/18107 · 18701 · 19462/19477 · 20251 · 21029/21063 · 21831 · 22322/22336 · 23105 ·
   23648/23685 · 24533 · 25101/25119 · 25571 · 26000.
   ⚠⚠ **AND THE INDEX'S LAST PAGE IS NOT THE UNIT'S LAST PAGE — MEASURED 2026-09-06 at q2-a2.**
@@ -2183,6 +2183,23 @@ plate**; a blankness number is a screen, the plate is the evidence.
   Gutters 102 **1409** (Art. II region) · 103 **1129** · 104 **1371** · 105 **1140** (rule peak **1304**, the work's
   heaviest) · 106 **1421** (Art. II region; default 1435 on 2 px). Ruling 5 not reached; *vacatio*/*quies* zero on a
   stem census — **`q7-a2` decides**.
+
+- **✅ `bon-qmt-q7-a1` IS BUILT (pp. 106–109, 28 entries, zero `[?]`, 2026-09-15) — QUAESTIO VII IS OPENED.**
+  Registry **division 7** went in with it (*Utrum possit stare trinitas cum summa necessitate*, verified on p. 106). Six
+  arguments (`Fundamenta.`), a `Cᴏɴᴛʀᴀ:` series of nine (`Ad oppositum.`), a *Respondeo* on a threefold necessity, nine
+  replies answering the `Cᴏɴᴛʀᴀ`. **Boundary 13 (p. 109) FORWARDS, split 6/1 — thirteen boundaries, ELEVEN shapes**
+  (…4/4 · 6/1), 11 forwarding / 2 leaf edges; **index `106–109` right at both ends.** Four transferable things:
+  **(a) ⚠ A SORT THAT CANNOT BE NAMED IS NOT A "WRONG SORT":** p. 109 *~~n~~ecessarium* prints two arch-less strokes (the
+  second a dotted *i* set ~4 px low) that match no letter on the line; the `q6-a1` as-printed rule needs an identifiable
+  sort, so it was **read plain and disclosed with pixel-map controls** — reserved for the work-close gate to re-decide.
+  **(b) ⭐ A FORWARD REFERENCE FROM ANOTHER WORK CLOSES — AND ANOTHER LANDS WRONGLY:** `bon-itin-c5` p. 309 n. 2's `supra
+  pag. 109, nota 5` now resolves here to the owl's-eye Aristotle it itself cites (right); `bon-hex-c5` p. 355 n. 1's
+  `tom IV. pag. 107, nota 5` resolves here too (wrong — unpointed `tom` not read as a tome). **Building a chunk changes
+  what OTHER chunks' citations resolve to; read the citations.tsv diff for inbound lines, not just the chunk's own.**
+  **(c) ⚠ `ibid.` after an author's name inside a note is carried by anaphora to the last cross-reference** (p. 107
+  nn. 1, 8, 10) — five sites of this class in the work now, all for the gate. **(d) Ruling 5 MET a fifth time**
+  (p. 108 n. 2 `fundam. 13. et 20.`); *quiescentis* (participle) met once → "resting", not deciding; *lux* once, *lumen*
+  zero. Gutters 106 **1409** · 107 **1145** · 108 **1390** (default 1412/13 px) · 109 **1162**. **`q7-a2` decides *vacatio*.**
 
 - **✅ `bon-qmt-q1-a2` IS BUILT (pp. 51–58, 53 entries, zero `[?]`, 2026-09-05) — QUAESTIO I IS COMPLETE.**
   Fourteen affirmative arguments in two runs (*debitum* 1–8, *congruum* 9–14), a **thirteen-argument
