@@ -1,6 +1,6 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — **THE *DE MYSTERIO TRINITATIS* WORK-CLOSE GATE IS CLOSED (`f768613`, 2026-09-15). OWED: PUSH + DEPLOY + PASS 4 — each needs Wilson's OK.**
+> # ▶▶▶ START HERE — **THE *DE MYSTERIO TRINITATIS* IS CLOSED END TO END: gate `f768613`, PUSHED, DEPLOYED (`dpl_ByF2aLV4VhPVbeXRbTGU6K35ymU7`, verified live 2026-09-15), plates deleted. NEXT = the *De perfectione evangelica* (pp. 117–198) MINI-PILOT — re-extract plates first.**
 > Log: `manual-review/vol5-mysterio-trinitatis-workclose-gate.md`. **One text defect repaired** (`q3-a1` *proprio lumine
 > rationis* "light" → "lumen", ruling 2, unrecorded) · ✅ ***vacatio* → "leisure" / *quies* → "rest" RATIFIED by Wilson**
 > (now the corpus rule) · **`build-citations.py` fixed** — bare `pag. N` now inherits its tome across `;`, reads unpointed

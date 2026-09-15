@@ -169,7 +169,7 @@ Hexaemeron, *scientia Christi*, *septem donis*, Breviloquium, *de reductione*, *
 this work — **none live until deploy.** `build-index-json.py` was run after the ledger rebuild (the
 *scientia Christi* deploy's lesson): **1,660 chunks cited, 10,027 backlinks.**
 
-## Pass 4 — disk: ⚠ AWAITING WILSON
+## Pass 4 — disk: ✅ DONE (Wilson's OK, 2026-09-15), ~222 MB reclaimed
 
 `raw/vision/vol5/` — **50 plates, 161 MB** (pp. 68–117) — and `/tmp/colcrop/` — **34 crops, 61 MB**. Gitignored,
 fully regenerable from the PDF via `extract-pages.py` + `colcrop.py`. Deletion held for Wilson's per-action OK,
@@ -190,3 +190,15 @@ exercising ruling 2; `q3-a1`'s single *lumen rationis* sat alone in a chunk with
 nothing recorded the choice. **The count sweep caught it; no chunk-level check could, because a chunk with one
 site has nothing to compare against.** ▶ For the next work: a chunk with ZERO *lux* and ONE *lumen* is the
 exposed shape — run the per-chunk count as part of the chunk, not only at the gate.
+
+## ✅ PUSHED AND DEPLOYED 2026-09-15 (Wilson's go-ahead, each action separately)
+
+`git push origin master` (`523dee5..96b18ff`). `vercel build --prod` exit 0, "Build completed successfully", no font
+404s, output **574 MB**. `vercel deploy --prod --prebuilt --archive=tgz --scope wilson-pruitts-projects` → `dpl_ByF2aLV4VhPVbeXRbTGU6K35ymU7`
+**READY**, aliased to bonaventure.wrootpress.com, first attempt (no `fetch failed`). **Verified by SERVED content:**
+`/browse/9/d/8/q/bon-qmt-q8` 200 with *in beatissimam Trinitatem* / "most blessed Trinity." and *fundamentum 12*;
+`q3-a1` serves "proper **lumen** of reason"; `q1-a1`'s Cited-by lists the deployed Itinerarium, Hexaemeron and *septem
+donis* backlinks; `q7-a1` no longer lists `bon-hex-c5` (the tome-inheritance fix is live). ⚠ The corrected Vol III/IV →
+Vol II links are in the shipped index but **not displayed** on `bon-sent-II-d7-p2-a2-q1`: that page has 38 inbound and
+`cited-by.tsx` shows `MAX_SHOWN = 25`. Existing design, not a deploy fault. Pass 4 then deleted `raw/vision/vol5/*.png`
+(50) and `/tmp/colcrop/*` (34). ⚠ Live-state claims are DATED and expire.
