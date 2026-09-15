@@ -1,5 +1,68 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **`bon-qmt-q6-a2` IS LANDED (`3334286`). QUAESTIO VI IS COMPLETE. THE FRONT IS `bon-qmt-q7-a1`.**
+> Quaestio VI, Articulus II, **pp. 102–106** — Tier 2, built 2026-09-14; the work's twelfth chunk, **12 of 15**.
+> Opens on p. 102 below Art. I's close (heading, subtitle, opener, arg. 1 — all unanchored, re-read at full width);
+> twelve arguments (`Ad oppositum.`), a **`Sᴇᴅ ᴄᴏɴᴛʀᴀ:` series of seven** (`Fundamenta.`), `Cᴏɴᴄʟᴜsɪᴏ` in-column,
+> a *Respondeo* on eternity + simplicity with an *alia argumentatio* from actuality, **twelve replies for twelve
+> arguments, none combined, answering the OPENING series** (the reverse of `q6-a1`). **28 apparatus entries, zero
+> `[?]`**; one page-crossing runover (p. 102 n. 4 → 103) and two gutter (p. 104 n. 4, p. 105 n. 3). Conventions:
+> repo `CLAUDE.md` § **MYSTERIO TRINITATIS** — authoritative; the chunk's own `## Notes` is the full record.
+> Committed locally, **not pushed, not deployed** — the deploy boundary is still the work close at p. 115.
+>
+> ## ⭐⭐ BOUNDARY 12 (p. 106): FORWARDS, SPLIT 4/4 — AND QUAESTIO VII'S OPENER IS ANCHORED
+> The raw said it first and the plate confirmed it: **the index's `q6-a2 102–105` is wrong at its end by one leaf.**
+> Art. II's replies 9–12 fill two-fifths of p. 106; `QUAESTIO VII.` + subtitle, opener, *praeambula*, `ARTICULUS I.`
+> + subtitle and **args 1–5** follow on the leaf. **nn. 1–4 are `q6-a2`'s; nn. 5–8 FORWARD to `q7-a1`** — and
+> ⭐ **n. 5 anchors in Q. VII's OPENER** (*Secundum est, utrum stent simul trinitas et summa necessitas*⁵ — *Haec
+> secunda pars… deficiens in D, a nobis pro more auctoris suppleta est*), read at 1.4× full width. **Seven quaestio
+> openers in the work, two anchored (pp. 59, 106)** — recounted from the chunks' Latin, not carried.
+> ▶ **5/1 · LE · 2/8 · 1/4 · 4/2 · 4/0 · 1/6 · 3/2 · LE · 5/0 · 3/1 · 4/4** — 10 forwarding / 2 leaf edges.
+> ★ p. 106 extracted ALONE and read first — the standing order paid a **ninth** time.
+>
+> ## ⭐ WHAT THIS CHUNK FOUND
+> - ⭐⭐ **From p. 104 n. 4 the text rests on CODEX D ALONE** (*Hic desinunt omnes codd., excepto D… coniectura
+>   corrigenda nobis erant*) — the rest of the *Respondeo* and all twelve replies; Quaracchi's conjectures are visible
+>   note by note. **p. 106 n. 5 shows D still alone at Q. VII's opener — expect a one-witness text from here on.**
+> - ⭐⭐ **A letter never set, measured:** p. 102 n. 4's runover opens p. 103 as *opor-* | ***et…*** — first ink x=155
+>   vs the flush margin 146, paper min 229, *e* min 67 → first branch; transcribed *oporet*, English `[*sic*]`. Same
+>   runover prints **`de Pradicam.`** (letter omitted, no room; control n. 9 `de Praedicam.`) — as printed.
+> - ⭐ **A descender is not a *j*:** p. 105 *aljis* (raw) has the *i*'s full FOOT SERIF at 10× + a detached blob →
+>   fouled *aliis*, read plain. Contrast `q6-a1`'s real `p. J.`.
+> - **Two spurious marks killed by glyph + count** (p. 104 after *ab esse*, 8 vs 7; p. 105 over *ipsius*, 7 vs 6).
+> - ⭐ **Clipped gutter-side marginale OUTSIDE the 69–73 range**: p. 106 `In Deo ne[c] pars nec to[-]tum.`,
+>   restored from the gloss's own *nec… nec* and the body. **Check every leaf, still.**
+> - **Sixth internal cross-reference closes** (p. 106 n. 3 → `q1-a1` p. 46 n. 7, *Generat autem nihil ipsum se ipsum*
+>   = reply 11). p. 105 centre rule peaks **1304**, the work's heaviest.
+> - ⚠ **Resolver artefacts for the work-close gate:** p. 103 n. 2's `Magister loc. cit.` carried by cross-note
+>   anaphora onto n. 1's `pag. 93`; its `S. Bonav. I. Sent. d. 7. dub. 4.` filed as `authority:Magister`, excluded.
+>   ⚠⚠ **And `q5-a2` p. 93 n. 2's bare `pag. 103, nota 10` now RESOLVES — to this chunk's p. 103 n. 10 — which is
+>   wrong (it meant the Sentences tome) and now LOOKS resolved. A resolver error that finds a target is harder to see.**
+>
+> ## ▶ NUMBERS, DERIVED AFTER `q6-a2`
+> `check-vol5-apparatus.py` **149 chunks / 3,226 entries, all passed** (p. 106 shows `PENDING n.5,6,7,8`) ·
+> `check-vol5-census.py` **rosters agree 149/149, 216 runovers (192 gutter, 24 page)** · `check-live-flags.py vol5`
+> 10 (all pre-existing, `bon-qmt-*` ZERO) · `polish-style-scan` **11 / 6, ZERO in scope** · `build-content.mjs`
+> **2,100 / 2,100** · `build-citations.py` **13 records here, 0 dangling / 0 unresolvable / 0 ambiguous, QA 202** ·
+> `build-index-json.py` run after. Registry **untouched — division 6 was already in.** ⚠ **`q7-a1` needs division 7.**
+>
+> ## ▶▶▶ FRONT = `bon-qmt-q7-a1`, **pp. 106–? (index says 106–109)**, raw **L25101 → L25570**
+> ⭐ **It inherits p. 106 nn. 5–8 AND body**: `QUAESTIO VII.` + subtitle *Utrum possit stare trinitas cum summa
+> necessitate*, the opener (**anchored, n. 5**), both *praeambula*, `ARTICULUS I.` + subtitle *Utrum esse divinum sit
+> summe necessarium*, and **args 1–5** (n. 6 at arg. 1 *necessarium*, n. 7 at arg. 2 *quod*, n. 8 at arg. 3
+> *huiusmodi*) — re-derive, don't adopt. ⚠ **p. 106's gutter for the Q. VII region is UNMEASURED** (`q6-a2` measured
+> only Art. II's region above, 1421); the whole-leaf default gave 1435 on a 2 px run.
+> **Registry division 7** goes in with it — subtitle verified on the plate (read here at 1.4×: *Utrum possit stare
+> trinitas cum summa necessitate.*).
+> ⛔ **The end is a prediction:** numerals 107 L25175 · 108 L25326 · 109 L25474; `ARTICULUS II.` at **L25571**,
+> ~97 lines into p. 109 → **predicted span 106–109, shared at BOTH ends.** Extract **p. 109 ALONE** first and measure
+> boundary 13 there. ⚠ D is the only witness (p. 105 n. 4 says in D *Quaest. seq. a. 2* stands first).
+> ⚠ Ruling 5 — say positively whether a `fundam.` site is met. `q7-a2` (next after) is the **deciding chunk for
+> *vacatio*/*quies*** (raw L25824 *non quiescit nisi in summe amabili vacando*; L25900 *vacabimus*).
+> Plates on disk for pp. 68–106 (`raw/vision/vol5/`); pass 4 of the work-close gate deletes them. **Nothing in this
+> work is deployed.**
+
+
 > # ▶▶▶ START HERE — **`bon-qmt-q6-a1` IS LANDED (`248feb2`). THE FRONT IS `bon-qmt-q6-a2`.**
 > Quaestio VI, Articulus I, **pp. 96–102** — Tier 2, built 2026-09-13; the work's eleventh chunk, **11 of 15**.
 > Opens Quaestio VI on p. 96 (body-only forward from `q5-a2`, opener re-read and confirmed unanchored); ten

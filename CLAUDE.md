@@ -1626,7 +1626,7 @@ plate**; a blankness number is a screen, the plate is the evidence.
 - **Index-derived spans, EVERY END PROVISIONAL** (an index span's last page is the next unit's
   heading page and that leaf may or may not be shared): q1-a1 **45–51** · q1-a2 **51–58** ·
   q2-a1 **59–63** · q2-a2 **63–67** · q3-a1 **68–73** · q3-a2 **73–78** · q4-a1 **79–84** ·
-  q4-a2 **84–85** · q5-a1 **86–93** · q5-a2 **93–96** · q6-a1 **97–102** · q6-a2 **102–105** ·
+  q4-a2 **84–85** · q5-a1 **86–93** · q5-a2 **93–96** · q6-a1 **97–102** · q6-a2 **102–105** *(measured **102–106**)* ·
   q7-a1 **106–109** · q7-a2 **109–111** · q8 **112–115**. Headers at raw L16054/16058 · 17009 ·
   18089/18107 · 18701 · 19462/19477 · 20251 · 21029/21063 · 21831 · 22322/22336 · 23105 ·
   23648/23685 · 24533 · 25101/25119 · 25571 · 26000.
@@ -2158,6 +2158,31 @@ plate**; a blankness number is a screen, the plate is the evidence.
   **(d) Ruling 5 MET a fourth time** (p. 100 n. 4 `fundam. 2.` → *fundamentum 2*, quoted in Notes); a **fifth
   internal cross-reference** closes inside the work (p. 101 n. 4 → `q4-a1` p. 81 n. 3); gutters wrong on 3 of 7
   (97 **1131** · 99 **1205** · 102 **1419** by region). *quiescunt*/*quietari* are verbs — `q7-a2` still decides.
+
+- **✅ `bon-qmt-q6-a2` IS BUILT (pp. 102–106, 28 entries, zero `[?]`, 2026-09-14) — QUAESTIO VI IS COMPLETE.**
+  Twelve arguments (`Ad oppositum.`), a `Sᴇᴅ ᴄᴏɴᴛʀᴀ:` series of seven (`Fundamenta.`), `Cᴏɴᴄʟᴜsɪᴏ` in-column, a
+  *Respondeo* on eternity + simplicity with an *alia argumentatio* from actuality, twelve replies answering the
+  **OPENING** series (the reverse of `q6-a1`, as in Quaestiones IV and V). Registry untouched. **Boundary 12 (p. 106)
+  FORWARDS, split 4/4 — twelve boundaries, TEN shapes** (…3/1 · 4/4), 10 forwarding / 2 leaf edges; **the index's
+  `102–105` is wrong at its end by a leaf** (the `q2-a2` mechanism), caught first by the raw band. Five transferable things:
+  **(a) ⭐⭐ QUAESTIO VII'S OPENER IS ANCHORED (p. 106 n. 5) — seven quaestio openers, two anchored (pp. 59, 106).**
+  Recounted from the chunks' own Latin. The instruction to look at every opener is the rule; neither expectation is.
+  **(b) ⭐⭐ FROM p. 104 n. 4 THE TEXT RESTS ON CODEX D ALONE** (*Hic desinunt omnes codd., excepto D … coniectura
+  corrigenda nobis erant*); Quaracchi's conjectures then show note by note (p. 104 nn. 5, 7; p. 105 nn. 1, 3, 4; p. 106
+  nn. 1, 2, 4), and p. 106 n. 5 shows D still alone at Q. VII. **Expect a one-witness text for the rest of the work.**
+  **(c) ⭐ A LETTER NEVER SET, FIXED BY MEASUREMENT AT A PAGE TURN:** p. 102 n. 4's runover opens p. 103 as *opor-* |
+  ***et…*** — first ink x=155 vs flush margin 146, paper min 229, *e* min 67 → the first branch; *oporet* reproduced,
+  English `[*sic*]`. The same runover's `de Pradicam.` is an omitted letter with no room for it (control: n. 9's
+  `de Praedicam.`), as printed. **A fault exactly at a page turn has no same-register evidence; only the ink decides.**
+  **(d) ⭐ A DESCENDER IS NOT A *j* UNTIL THE FOOT IS CHECKED:** p. 105's raw `aljis` and a 4× read both say *j*; at
+  10× the *i* has its full foot serif and a detached blob below → fouled *aliis*, read plain (vs `q6-a1`'s real `p. J.`).
+  **(e) ⚠ THE GUTTER-SIDE CLIPPING RECURS OUTSIDE 69–73:** p. 106's `In Deo ne[c] pars nec to[-]tum.`, restored under
+  `bon-brev-p7-c7` from the gloss's own *nec… nec* and the body. ⚠ **Resolver:** `q5-a2` p. 93 n. 2's bare `pag. 103,
+  nota 10` now resolves to THIS chunk — wrong, and now it looks resolved; p. 103 n. 2's `Magister loc. cit.` carried by
+  cross-note anaphora; its `S. Bonav. I. Sent. d. 7. dub. 4.` misfiled `authority:Magister`. **All for the work-close gate.**
+  Gutters 102 **1409** (Art. II region) · 103 **1129** · 104 **1371** · 105 **1140** (rule peak **1304**, the work's
+  heaviest) · 106 **1421** (Art. II region; default 1435 on 2 px). Ruling 5 not reached; *vacatio*/*quies* zero on a
+  stem census — **`q7-a2` decides**.
 
 - **✅ `bon-qmt-q1-a2` IS BUILT (pp. 51–58, 53 entries, zero `[?]`, 2026-09-05) — QUAESTIO I IS COMPLETE.**
   Fourteen affirmative arguments in two runs (*debitum* 1–8, *congruum* 9–14), a **thirteen-argument
