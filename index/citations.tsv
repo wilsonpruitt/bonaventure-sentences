@@ -19872,7 +19872,7 @@ bon-don-c7	5	apparatus:p491-6	p491-6	scripture	apparatus-explicit	Ps. 32, 11	Ps 
 bon-don-c7	5	apparatus:p491-7	p491-7	scripture	apparatus-explicit	I. Cor. 7, 40	1Cor 7:40	A	verse		
 bon-don-c7	5	apparatus:p491-7	p491-7	scripture	apparatus-explicit	II. Cor. 8, 9	2Cor 8:9	A	verse		
 bon-don-c7	5	apparatus:p491-7	p491-7	scripture	apparatus-explicit	I. Cor. 7, 25	1Cor 7:25	A	verse		
-bon-don-c7	5	apparatus:p492-1	p492-1	crossref	page	supra pag. 126, nota 2	tom5:p126		forward		
+bon-don-c7	5	apparatus:p492-1	p492-1	crossref	page	supra pag. 126, nota 2	bon-qpe-q2-a1		chunk		
 bon-don-c7	5	apparatus:p492-1	p492-1	scripture	apparatus-explicit	Matth. 8, 20	Matth 8:20	A	verse		
 bon-don-c7	5	apparatus:p492-1	p492-1	scripture	apparatus-explicit	Luc. 12, 33	Luc 12:33	A	verse		
 bon-don-c7	5	apparatus:p492-1	p492-1	scripture	apparatus-explicit	Matth. 11, 29	Matth 11:29	A	verse		
@@ -19882,7 +19882,7 @@ bon-don-c7	5	apparatus:p492-4	p492-4	scripture	apparatus-explicit	Eccli. 37, 9	E
 bon-don-c7	5	apparatus:p492-4	p492-4	scripture	anaphor->apparatus-explicit	ibid.	Eccli 37:9	A	verse	yes	Eccli. 37, 9
 bon-don-c7	5	apparatus:p492-5	p492-5	scripture	apparatus-explicit	Luc. 7, 30	Luc 7:30	A	verse		
 bon-don-c7	5	apparatus:p492-6	p492-6	scripture	apparatus-explicit	I. Tim. 4, 8	1Tim 4:8	A	verse		
-bon-don-c7	5	apparatus:p492-7	p492-7	crossref	page	supra pag. 125, nota 2	tom5:p125		forward		
+bon-don-c7	5	apparatus:p492-7	p492-7	crossref	page	supra pag. 125, nota 2	bon-qpe-q2-a1		chunk		
 bon-don-c7	5	apparatus:p492-7	p492-7	scripture	apparatus-explicit	Matth. 19, 27	Matth 19:27	A	verse		
 bon-don-c7	5	apparatus:p492-7	p492-7	scripture	apparatus-explicit	I. Cor. 9, 27	1Cor 9:27	A	verse		
 bon-don-c7	5	apparatus:p492-7	p492-7	scripture	apparatus-explicit	Ps. 65, 15	Ps 65:15	A	verse		
@@ -22388,6 +22388,100 @@ bon-qpe-q1	5	apparatus:p124-2	p124-2	scripture	apparatus-explicit	Malach. 1, 6	M
 bon-qpe-q1	5	apparatus:p124-3	p124-3	scripture	apparatus-explicit	Phil. 2, 7	Phil 2:7	A	verse		
 bon-qpe-q1	5	apparatus:p124-4	p124-4	scripture	apparatus-explicit	Iac. 4, 6	Iac 4:6	A	verse		
 bon-qpe-q1	5	apparatus:p124-4	p124-4	scripture	apparatus-explicit	Ps. 118, 71	Ps 118:71	A	verse		
+bon-qpe-q2-a1	5	latin_body	p125-1	scripture	body-ordinal	Matthaei decimo nono	Matth 19:21	B	verse		
+bon-qpe-q2-a1	5	latin_body	p125-2	scripture	body-ordinal	Matthaei decimo nono	Matth 19:27	B	verse		
+bon-qpe-q2-a1	5	latin_body	p125-3	scripture	body-ordinal	Marci decimo	Marc 10:21	B	verse		
+bon-qpe-q2-a1	5	latin_body	p125-4	scripture	body-ordinal	Marci duodecimo	Marc 12:43	B	verse		
+bon-qpe-q2-a1	5	latin_body	p125-5	scripture	body-ordinal	Lucae duodecimo	Luc 12:24	B	verse		
+bon-qpe-q2-a1	5	latin_body	p125-6	scripture	body-ordinal	Lucae decimo quarto	Luc 14:33	B	verse		
+bon-qpe-q2-a1	5	latin_body	p125-7	scripture	body-ordinal	Matthaei octavo	Matth 8:20	B	verse		
+bon-qpe-q2-a1	5	latin_body	p125-8	scripture	body-ordinal	Matthaei decimo septimo	Matth 17:26	B	verse		
+bon-qpe-q2-a1	5	latin_body	p125-9	scripture	body-ordinal	Lucae nono	Luc 9:58	B	verse		
+bon-qpe-q2-a1	5	latin_body	p125-10	scripture	body-ordinal	Ioannis decimo quarto	Ioan 14:30	B	verse		
+bon-qpe-q2-a1	5	latin_body	p126-1	scripture	body-ordinal	ad Corinthios octavo	Cor* 8:9	B	verse		
+bon-qpe-q2-a1	5	latin_body	p126-2	scripture	anaphor->body-ordinal	ibid	Cor* 8:9	B	verse	yes	ad Corinthios octavo
+bon-qpe-q2-a1	5	latin_body		scripture	body-ordinal	Lucae secundo	Luc 2	C	chapter		
+bon-qpe-q2-a1	5	latin_body	p126-4	scripture	body-ordinal	Petri secundo	Petr* 2:21	B	verse		
+bon-qpe-q2-a1	5	latin_body	p126-8	scripture	body-ordinal	Matthaei sexto	Matth 6:25	B	verse		
+bon-qpe-q2-a1	5	latin_body	p126-9	scripture	body-ordinal	Matthaei sexto	Matth 6:26	B	verse		
+bon-qpe-q2-a1	5	latin_body	p128-3	scripture	body-ordinal	Ecclesiastici vigesimo septimo	Eccli 27:1	B	verse		
+bon-qpe-q2-a1	5	latin_body	p128-5	scripture	body-ordinal	Proverbiorum trigesimo	Prov 30:8	B	verse		
+bon-qpe-q2-a1	5	latin_body	p128-6	scripture	body-ordinal	Lucae sexto	Luc 6:40	B	verse		
+bon-qpe-q2-a1	5	latin_body		scripture	body-ordinal	Ioannis duodecimo	Ioan 12	C	chapter		
+bon-qpe-q2-a1	5	latin_body	p128-8	scripture	body-ordinal	ad Timotheum sexto	Tim* 6:8	B	verse		
+bon-qpe-q2-a1	5	latin_body	p128-9	scripture	body-ordinal	ad Corinthios octavo	Cor* 8:12	B	verse		
+bon-qpe-q2-a1	5	latin_body	p129-2	scripture	body-ordinal	ad Timotheum sexto	Tim* 6:7	B	verse		
+bon-qpe-q2-a1	5	latin_body	p130-5	scripture	body-ordinal	ad Corinthios sexto	Cor* 6:10	B	verse		
+bon-qpe-q2-a1	5	latin_body	p131-4	scripture	body-ordinal	Ioannis duodecimo	Ioan 12:6	B	verse		
+bon-qpe-q2-a1	5	latin_body	p131-5	scripture	body-ordinal	Lucae vigesimo secundo	Luc 22:35	B	verse		
+bon-qpe-q2-a1	5	latin_body		scripture	body-ordinal	ad Corinthios quarto	Cor* 4	C	chapter		
+bon-qpe-q2-a1	5	latin_body	p133-4	scripture	body-ordinal	Marci decimo	Marc 10:29	B	verse		
+bon-qpe-q2-a1	5	apparatus:p125-2	p125-2	scripture	apparatus-explicit	Matth. 4, 18-22	Matth 4:18-22	A	verse		
+bon-qpe-q2-a1	5	apparatus:p125-3	p125-3	scripture	apparatus-explicit	Act. 5, 2	Act 5:2	A	verse		
+bon-qpe-q2-a1	5	apparatus:p126-3	p126-3	scripture	apparatus-explicit	Luc. 2, 7	Luc 2:7	A	verse		
+bon-qpe-q2-a1	5	apparatus:p126-4	p126-4	scripture	apparatus-explicit	Matth. 19, 15	Matth 19:15	A	verse		
+bon-qpe-q2-a1	5	apparatus:p126-5	p126-5	scripture	apparatus-explicit	Luc. 9, 3	Luc 9:3	A	verse		
+bon-qpe-q2-a1	5	apparatus:p126-6	p126-6	scripture	apparatus-explicit	Matth. 5, 3	Matth 5:3	A	verse		
+bon-qpe-q2-a1	5	apparatus:p126-6	p126-6	scripture	apparatus-explicit	Luc. 6, 20	Luc 6:20	A	verse		
+bon-qpe-q2-a1	5	apparatus:p126-7	p126-7	scripture	apparatus-explicit	Matth. 6, 33	Matth 6:33	A	verse		
+bon-qpe-q2-a1	5	apparatus:p126-7	p126-7	scripture	apparatus-explicit	Luc. 9, 3	Luc 9:3	A	verse		
+bon-qpe-q2-a1	5	apparatus:p127-3	p127-3	scripture	anaphor->apparatus-explicit	ibid.	Luc 9:3	A	verse	yes	Luc. 9, 3
+bon-qpe-q2-a1	5	apparatus:p127-4	p127-4	crossref	page	pag. 448	bon-hex-c23		chunk		
+bon-qpe-q2-a1	5	apparatus:p127-5	p127-5	scripture	apparatus-explicit	Matth. 8, 20	Matth 8:20	A	verse		
+bon-qpe-q2-a1	5	apparatus:p127-5	p127-5	scripture	apparatus-explicit	Ioan. 12, 6	Ioan 12:6	A	verse		
+bon-qpe-q2-a1	5	apparatus:p127-5	p127-5	scripture	apparatus-explicit	Luc. 2, 7	Luc 2:7	A	verse		
+bon-qpe-q2-a1	5	apparatus:p127-7	p127-7	crossref	page	supra pag. 119, nota 4	bon-qpe-q1		chunk		
+bon-qpe-q2-a1	5	apparatus:p127-8	p127-8	scripture	apparatus-explicit	Matth. 19, 22	Matth 19:22	A	verse		
+bon-qpe-q2-a1	5	apparatus:p127-8	p127-8	scripture	apparatus-explicit	I. Tim. 6, 9	1Tim 6:9	A	verse		
+bon-qpe-q2-a1	5	apparatus:p128-1	p128-1	scripture	apparatus-explicit	Rom. 12, 2	Rom 12:2	A	verse		
+bon-qpe-q2-a1	5	apparatus:p128-1	p128-1	scripture	apparatus-explicit	Iac. 1, 27	Iac 1:27	A	verse		
+bon-qpe-q2-a1	5	apparatus:p128-2	p128-2	scripture	apparatus-explicit	I. Tim. 6, 7	1Tim 6:7	A	verse		
+bon-qpe-q2-a1	5	apparatus:p128-2	p128-2	scripture	apparatus-explicit	Iob 1, 21	Iob 1:21	A	verse		
+bon-qpe-q2-a1	5	apparatus:p128-2	p128-2	scripture	apparatus-explicit	Eccle. 5, 14	Eccle 5:14	A	verse		
+bon-qpe-q2-a1	5	apparatus:p128-5	p128-5	scripture	anaphor->apparatus-explicit	ibid.	Eccle 5:14	A	verse	yes	Eccle. 5, 14
+bon-qpe-q2-a1	5	apparatus:p128-6	p128-6	scripture	apparatus-explicit	Ioan. 12, 6	Ioan 12:6	A	verse		
+bon-qpe-q2-a1	5	apparatus:p128-6	p128-6	scripture	anaphor->apparatus-explicit	ibid.	Ioan 12:6	A	verse	yes	Ioan. 12, 6
+bon-qpe-q2-a1	5	apparatus:p128-10	p128-10	scripture	apparatus-explicit	Deut. 6, 16	Deut 6:16	A	verse		
+bon-qpe-q2-a1	5	apparatus:p128-10	p128-10	scripture	apparatus-explicit	Matth. 4, 7	Matth 4:7	A	verse		
+bon-qpe-q2-a1	5	apparatus:p128-14	p128-14	scripture	apparatus-explicit	Luc. 11, 3	Luc 11:3	A	verse		
+bon-qpe-q2-a1	5	apparatus:p129-2	p129-2	scripture	anaphor->apparatus-explicit	ibid.	Luc 11:3	A	verse	yes	Luc. 11, 3
+bon-qpe-q2-a1	5	apparatus:p129-3	p129-3	crossref	logical	III. Sent. d. 40. q. 1.	bon-sent-III-d40-a1-q1		chunk		
+bon-qpe-q2-a1	5	apparatus:p129-4	p129-4	scripture	apparatus-explicit	I. Tim. 6, 10	1Tim 6:10	A	verse		
+bon-qpe-q2-a1	5	apparatus:p129-4	p129-4	scripture	apparatus-explicit	I. Ioan. 4, 18	1Ioan 4:18	A	verse		
+bon-qpe-q2-a1	5	apparatus:p129-5	p129-5	scripture	apparatus-explicit	Matth. 19, 21	Matth 19:21	A	verse		
+bon-qpe-q2-a1	5	apparatus:p129-5	p129-5	scripture	anaphor->apparatus-explicit	ibid.	Matth 19:21	A	verse	yes	Matth. 19, 21
+bon-qpe-q2-a1	5	apparatus:p129-5	p129-5	scripture	apparatus-explicit	Luc. 12, 33	Luc 12:33	A	verse		
+bon-qpe-q2-a1	5	apparatus:p129-5	p129-5	scripture	apparatus-explicit	Ioan. 18, 36	Ioan 18:36	A	verse		
+bon-qpe-q2-a1	5	apparatus:p129-5	p129-5	scripture	apparatus-explicit	Hebr. 13, 14	Hebr 13:14	A	verse		
+bon-qpe-q2-a1	5	apparatus:p129-7	p129-7	scripture	apparatus-explicit	I. Petr. 5, 7	1Petr 5:7	A	verse		
+bon-qpe-q2-a1	5	apparatus:p129-7	p129-7	scripture	apparatus-explicit	Ps. 54, 23	Ps 54:23	A	verse		
+bon-qpe-q2-a1	5	apparatus:p130-3	p130-3	scripture	apparatus-explicit	Matth. 6, 26	Matth 6:26	A	verse		
+bon-qpe-q2-a1	5	apparatus:p130-3	p130-3	scripture	apparatus-explicit	Luc. 16, 14	Luc 16:14	A	verse		
+bon-qpe-q2-a1	5	apparatus:p130-6	p130-6	scripture	apparatus-explicit	Phil. 1, 23	Phil 1:23	A	verse		
+bon-qpe-q2-a1	5	apparatus:p131-1	p131-1	scripture	apparatus-explicit	Matth. 8, 20	Matth 8:20	A	verse		
+bon-qpe-q2-a1	5	apparatus:p131-3	p131-3	scripture	apparatus-explicit	Psalm. 103, 14	Ps 103:14	A	verse		
+bon-qpe-q2-a1	5	apparatus:p131-3	p131-3	scripture	apparatus-explicit	Matth. 26, 38	Matth 26:38	A	verse		
+bon-qpe-q2-a1	5	apparatus:p131-5	p131-5	scripture	apparatus-explicit	I. Cor. 9, 14	1Cor 9:14	A	verse		
+bon-qpe-q2-a1	5	apparatus:p131-6	p131-6	scripture	apparatus-explicit	II. Cor. 8, 9	2Cor 8:9	A	verse		
+bon-qpe-q2-a1	5	apparatus:p132-2	p132-2	scripture	apparatus-explicit	Luc. 22, 32	Luc 22:32	A	verse		
+bon-qpe-q2-a1	5	apparatus:p132-3	p132-3	scripture	apparatus-explicit	Matth. 6, 25	Matth 6:25	A	verse		
+bon-qpe-q2-a1	5	apparatus:p132-3	p132-3	crossref	page	supra pag. 126, nota 8	bon-qpe-q2-a1		chunk		
+bon-qpe-q2-a1	5	apparatus:p132-4	p132-4	scripture	apparatus-explicit	Psalm. 77, 20	Ps 77:20	A	verse		
+bon-qpe-q2-a1	5	apparatus:p132-4	p132-4	scripture	apparatus-explicit	II. Cor. 4	2Cor 4	C	chapter		
+bon-qpe-q2-a1	5	apparatus:p132-5	p132-5	scripture	apparatus-explicit	Ios. 1, 5	Ios 1:5	A	verse		
+bon-qpe-q2-a1	5	apparatus:p132-5	p132-5	scripture	anaphor->apparatus-explicit	ibid.	Ios 1:5	A	verse	yes	Ios. 1, 5
+bon-qpe-q2-a1	5	apparatus:p132-6	p132-6	scripture	apparatus-explicit	Matth. 19, 17	Matth 19:17	A	verse		
+bon-qpe-q2-a1	5	apparatus:p132-6	p132-6	scripture	apparatus-explicit	Matth. 5, 44	Matth 5:44	A	verse		
+bon-qpe-q2-a1	5	apparatus:p133-1	p133-1	scripture	anaphor->apparatus-explicit	ibid.	Matth 5:44	A	verse	yes	Matth. 5, 44
+bon-qpe-q2-a1	5	apparatus:p133-2	p133-2	scripture	apparatus-explicit	II. Cor. 8, 10	2Cor 8:10	A	verse		
+bon-qpe-q2-a1	5	apparatus:p133-3	p133-3	scripture	apparatus-explicit	III. Reg. 19, 21	3Reg 19:21	A	verse		
+bon-qpe-q2-a1	5	apparatus:p133-4	p133-4	scripture	apparatus-explicit	Matth. 19, 29	Matth 19:29	A	verse		
+bon-qpe-q2-a1	5	apparatus:p133-5	p133-5	crossref	page	pag. 132, nota 2	bon-qpe-q2-a1		chunk		
+bon-qpe-q2-a1	5	apparatus:p133-6	p133-6	scripture	apparatus-explicit	Prov. 10, 3	Prov 10:3	A	verse		
+bon-qpe-q2-a1	5	apparatus:p133-6	p133-6	scripture	apparatus-explicit	Ps. 36, 25	Ps 36:25	A	verse		
+bon-qpe-q2-a1	5	apparatus:p133-6	p133-6	scripture	apparatus-explicit	Matth. 6, 31	Matth 6:31	A	verse		
+bon-qpe-q2-a1	5	apparatus:p133-6	p133-6	scripture	apparatus-explicit	Dan. 14, 30	Dan 14:30	A	verse		
+bon-qpe-q2-a1	5	apparatus:p133-6	p133-6	scripture	apparatus-explicit	III. Reg. 17, 6	3Reg 17:6	A	verse		
 bon-qsc-q1	5	apparatus:p3-1	p3-1	crossref	logical	III. Sent. d. 14	III:d14		distinctio		
 bon-qsc-q1	5	apparatus:p3-1	p3-1	crossref	logical	I. Sent. d. 35. q. 5	bon-sent-I-d35-a1-q5		chunk		
 bon-qsc-q1	5	apparatus:p3-1	p3-1	crossref	chain-continuation	d. 39. a. 1. q. 1	bon-sent-I-d39-a1-q1		chunk		

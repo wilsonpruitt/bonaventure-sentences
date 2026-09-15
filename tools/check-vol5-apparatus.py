@@ -369,6 +369,21 @@ KNOWN_TOTALS = {
     124: 5,  # SHARED leaf -- BOUNDARY 1 FORWARDS IN THE BODY ONLY, split 5/0: all
              # five are q1's (replies 8, 9, 11.12, 13.14, 15); Q. II heading +
              # opener unanchored. Gutter 1379 for Q. I's region (default 1389/17 px).
+    # --- bon-qpe-q2-a1 (pp. 124-134) ---
+    125: 10, # ARTICULUS I at the head (unanchored), args 1-10. n.5 RUNS OVER THE
+             # GUTTER (`pro agentes`). Gutter 1158 (default 1130/3 px).
+    126: 9,  # args 11-19. n.5 RUNS OVER THE GUTTER (`ed. Maurin. legit`).
+    127: 9,  # args 20-28. n.6 RUNS OVER THE GUTTER (`aut parentibus`).
+    128: 14, # args 30-32, Sed contra 1-10. n.8 RUNS OVER THE GUTTER (`Lombardo`).
+    129: 7,  # Conclusio, Respondeo. Gutter 1139.
+    130: 6,  # Respondeo, Epilogus, reply 1.
+    131: 7,  # replies 1-3. n.5 RUNS OVER THE GUTTER (`loc.), est apud`). Gutter 1176.
+    132: 6,  # replies 4-6. n.4 RUNS OVER THE GUTTER (`Lyrano ut`).
+    133: 6,  # replies 6-9. n.4 RUNS OVER THE GUTTER (`secutionibus`).
+    134: 8,  # SHARED leaf -- BOUNDARY 2 FORWARDS THE WHOLE REGISTER, split 0/8:
+             # q2-a1's replies 9 (tail)-10 carry no anchor; n.1 is ART. II's
+             # SUBTITLE (anchored), nn.2-8 its args 1-7. PENDING until q2-a2.
+             # Gutter 1370 for Art. I's region.
     205: 8,
     206: 11,
     207: 8,
