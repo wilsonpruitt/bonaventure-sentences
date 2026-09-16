@@ -2471,6 +2471,17 @@ until Wilson rules on the two items marked ⛔ below — do not dispatch `q2-a2`
     FAILS a `tr-` anchor in the Latin; `polish-style-scan.py` likewise. `build-citations.py` reads
     only `**La.**` halves, so notes never enter the index. Tested positive and negative 2026-09-15.
   - **Where:** at the first occurrence per chunk, and wherever the sense leans to the other side.
+  - ✅ **THE MODEL NOTE, APPROVED BY WILSON 2026-09-16** (`bon-qpe-q2-a2` p. 137, on *qui divinis
+    vacant* → "who are free for divine things"). Follow its shape: what the Latin holds together ·
+    which construction governs HERE · which side the English took and why, tied to the passage's own
+    point · the standing negative constraint. Plain English, no jargon, 2–4 sentences, and it argues
+    from the sentence in front of the reader rather than lecturing on the word:
+    > Translator's note: the Latin *vacare* holds together several senses that English has to split:
+    > being at leisure, being free, being free *for* something (with a dative, as here, *divinis
+    > vacant*) and being free *from* something (with *ab*). Here the dative governs, so the English
+    > takes the side of being free *for* divine things: the point of the Gloss is what these poor are
+    > given over to, not what they are released from. No *vaca-* word is rendered "rest" in this
+    > translation, because *quies* and *requies* take that word.
   - ⬜ **OWED at the next deploy boundary:** add the note to the two deployed *vacatio* sites
     (`bon-praec-c4`, `bon-qmt-q7-a2`), and the *lumen* ruling's owed translator's note (first
     *lumen* in `bon-qsc-q3`/`q4`, `bon-qmt` chunks). Deploy-only work — batch it, don't ship alone.
