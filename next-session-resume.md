@@ -1,5 +1,21 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **`bon-qpe-q2-a3` IS LANDED (`647e743`). NEXT FRONT = `bon-qpe-q3-a1` (pp. 166–171, raw L33707–L34548) — ONE AGENT, THE NORMAL CADENCE.**
+> Q. II Art. III *Utrum pauperes validi … ad opera manualia universaliter sint astricti*, **pp. 156–165** (measured), Tier 2 (2026-09-16).
+> **82 entries (5/8/11/11/10/7/6/9/8/7), zero `[?]`.** Unanchored subtitle, opener n. 1 at *quaeritur*; 16 arguments FOR the obligation,
+> `Cᴏɴᴛʀᴀ` 17, `CONCLUSIO`, `Rᴇsᴘᴏɴᴅᴇᴏ`, **16 replies answering the OPENING series** (every lemma checked). Three gutter runovers, zero
+> page-crossing; 53 marginalia. Ruling 5 met once (p. 158 n. 11 → *fundamentum 15*). Build **2107**. 79 citation records, 0 dangling, QA 201.
+> ⭐ **Boundary 4 (p. 166) MEASURED: LEAF EDGE, split 0/10.** p. 166 extracted ALONE and read first: numeral `166`, `QUAESTIO III.` *De continentia*
+> at the very head, Q. III's opener carries **n. 1** (*A D omittunt agere*), `ARTICULUS I.` *De pudicitia coniugali* on the same leaf. **`q3-a1`
+> inherits NOTHING and owns all ten of p. 166's notes** (opens indented at n. 1). ⚠ The raw prints **p. 165's numeral `163`** (worn-5 class).
+> ⭐⭐ **CORRECTION TO `q2-a2`'s ADDITAMENTUM RECORD:** it does NOT break off at p. 156's foot — it **continues at the head of p. 156's RIGHT
+> footer block and closes there** (*Ex his igitur et aliis auctoritatibus praedictae quaestionis veritas probatur.*), directly above p. 156's
+> nn. 1–5. A complete, unanchored editorial appendix on pp. 155–156. Still NOT transcribed; **the work-close gate / Wilson decides** — now closer
+> in shape to the `bon-hex-c23` precedent. ▶ ***vacare*: five sites, all covered by `tr-vacare` / `tr-vacare-2`; no new note** (one is *ad* +
+> acc., same "free for" side). ▶ Inbound: `bon-brev-p2-c10`'s *Aristot. supra pag. 161, nota 2* now resolves here — **correctly** (Aristotle on the hand).
+> ▶ Four of ten gutters had `colcrop`'s default on one sub-band of a heavy centre rule (158/160/164/165) — band midpoint adopted. Plates 156–166 on disk.
+> Committed locally, **not pushed, not deployed.** ⚠ **Never `git stash` in this repo.**
+
 > # ▶▶▶ START HERE — **`bon-qpe-q2-a2` IS LANDED (`6c009ad`). NEXT FRONT = `bon-qpe-q2-a3` (pp. 156–166, raw L32212–L33706) — ONE AGENT, THE NORMAL CADENCE.**
 > Q. II Art. II *De paupertate quoad mendicitatem*, **pp. 134–155** — measured, not 134–156 — Tier 2 (2026-09-16). **Vol V's largest
 > single chunk: 22 printed pp., 170 entries (8/10/8/7/10/9/7/5/6/7/9/7/6/9/5/6/8/9/10/7/9/8), zero `[?]`.** Twenty arguments, `Sᴇᴅ ᴄᴏɴᴛʀᴀ`

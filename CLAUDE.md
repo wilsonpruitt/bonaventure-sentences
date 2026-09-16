@@ -2432,7 +2432,7 @@ until Wilson rules on the two items marked ⛔ below — do not dispatch `q2-a2`
   **duo*** and the question has three (Art. III presents itself as a supplement) — transcribe as
   printed.
 - **TEN CHUNKS:** `bon-qpe-q1` (117–124, **measured**) · `q2-a1` 124–134 · `q2-a2` 134–155 (**measured**) ·
-  `q2-a3` 156–166 · `q3-a1` 166–171 · `q3-a2` 171–175 · `q3-a3` 175–179 · `q4-a1` 179–183 ·
+  `q2-a3` 156–165 (**measured**) · `q3-a1` 166–171 · `q3-a2` 171–175 · `q3-a3` 175–179 · `q4-a1` 179–183 ·
   `q4-a2` 183–189 · `q4-a3` 189–198 (end **measured**). Interior ends are index-derived and
   provisional; raw bands in the scouting doc are the reliable half. The unit is settled by the
   corpus's own citations into the work (4 of 5 name `q. N. a. M.`).
@@ -2578,6 +2578,20 @@ until Wilson rules on the two items marked ⛔ below — do not dispatch `q2-a2`
   ~21 px monotonic drift — the stacked-region signature is outlying slices against a stable rest) · 151 **1160** · 152 **1376** (the
   default sat on the right sub-band alone) · 153 **1144** · 154 **1420** · 155 **1158**. Also: p. 148's marginale prints
   `Determinator.` and p. 153's beside section **V.** prints `Censura quarta.` — both as printed, neither normalised.
+- **✅ `bon-qpe-q2-a3` IS BUILT (pp. 156–165, 82 entries, zero `[?]`, 2026-09-16).** Transferable findings only:
+  **(a) ⭐⭐ THE `q2-a2` ADDITAMENTUM RECORD WAS WRONG IN ONE PARTICULAR, AND THE GUTTER IS WHY.** It does not break off at p. 156's foot:
+  it continues at the **head of p. 156's RIGHT footer block** and closes there (*Ex his igitur … veritas probatur.*), above that leaf's nn. 1–5.
+  `q2-a2` read the left block's foot and stopped at the white under it. ▶ **A footer passage that "breaks off" at a left-block foot must be
+  looked for at the head of the right block before it is called truncated** — the same test as a gutter runover. Disposition still the
+  work-close gate's; not transcribed. **(b) Replies answer the OPENING series** (16 for 16, every lemma checked) — which here argues the thesis
+  the *Respondeo* rejects; the `Cᴏɴᴛʀᴀ` is conceded. Score in this work: `q1` Contra, `q2-a1` Sed contra, `q2-a2` opening, `q2-a3` opening.
+  **(c) Boundary 4 (p. 166) LEAF EDGE 0/10**; the raw prints p. 165 as `163`. **(d) *vacare*: five sites** (dative ×3 incl. reflexive
+  *sibi vacando*, `ad` + acc. ×1, absolute *vacatio* ×2) — **all covered by `tr-vacare`/`tr-vacare-2`; no fourth note.** A new construction
+  (*ad ista vacari*) on an already-noted SIDE does not earn a note. *otium* likewise contextual ("idleness" / "spiritual leisure").
+  **(e) Gutters** 156 **1392** · 157 **1208** · 158 **1343** · 159 **1229** · 160 **1334** · 161 **1237** · 162 **1361** · 163 **1181** · 164 **1339** ·
+  165 **1143** — on 158/160/164/165 the `colcrop` default sat on ONE sub-band of a heavy centre rule (160 and 164 with tight 1–2 px window
+  spreads, i.e. confidently wrong); band midpoint adopted. Ruling 5 met once (p. 158 n. 11, internal). Inbound `bon-brev-p2-c10`
+  `supra pag. 161, nota 2` now resolves here and is right.
 
 ### Vol V mechanics
 
