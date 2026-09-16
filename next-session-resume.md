@@ -1,5 +1,35 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **`bon-qpe-q2-a2` IS LANDED (`6c009ad`). NEXT FRONT = `bon-qpe-q2-a3` (pp. 156–166, raw L32212–L33706) — ONE AGENT, THE NORMAL CADENCE.**
+> Q. II Art. II *De paupertate quoad mendicitatem*, **pp. 134–155** — measured, not 134–156 — Tier 2 (2026-09-16). **Vol V's largest
+> single chunk: 22 printed pp., 170 entries (8/10/8/7/10/9/7/5/6/7/9/7/6/9/5/6/8/9/10/7/9/8), zero `[?]`.** Twenty arguments, `Sᴇᴅ ᴄᴏɴᴛʀᴀ`
+> 37, `CONCLUSIO`, `Rᴇsᴘᴏɴᴅᴇᴏ`, **twenty replies answering the OPENING series one for one** (reply 20 ↔ arg. 20, checked on the lemma),
+> an *Epilogus* — **and then a SECOND UNIT: `Rᴇᴘʟɪᴄᴀᴛɪᴏ ᴀᴅᴠᴇʀsᴜs ᴏʙɪᴇᴄᴛɪᴏɴᴇs ᴘᴏsᴛᴇᴀ ꜰᴀᴄᴛᴀs` (pp. 149–155), in-column small caps,
+> UNANCHORED (its opener carries p. 149 n. 1), in FIVE censurae, closing `Amen.` on p. 155.** p. 134 n. 1 predicted it; it was checked.
+> **Boundary 3 (p. 156) MEASURED: LEAF EDGE, split 0/5.** `ARTICULUS III.` stands at the very head of p. 156 with its subtitle and its own
+> numbered opener, and **all five of that leaf's notes anchor in its body**, so `q2-a2` owns nothing of p. 156 and **`q2-a3` inherits
+> NOTHING** — no body, no register. p. 156 was extracted ALONE and read first, per the standing order; ⚠ the raw prints its numeral `136`.
+> **Fourteen runovers (12 gutter, 2 page: p. 136 n. 8 → 137, p. 138 n. 10 → 139); 111 marginalia, none clipped.** Ruling 5 met **nine** times,
+> all internal to `q2-a1`. Build **2106**. **169 citation records, ZERO dangling/unresolvable/ambiguous, 0 QA** (corpus 201).
+> ⭐ **THE THREE-PASS BUILD WORKED, AND IT IS FOR THIS OUTLIER ONLY.** One uncommitted file, three agents, small incremental appends;
+> no content-filter kill and nothing lost. **What the hand-off had to carry was the resume POINT, not the resume PAGE** — pass C opened
+> mid-leaf on p. 147 with all nine of that leaf's register already written and no new page marker owed, and the hand-off said so in
+> those terms. **What nearly went wrong: pass B banked a *prediction* that reply 20 answers arg. 20 and that "whether anything follows
+> the replies is unmeasured" — and something does follow, a seven-page *replicatio*.** Had the prediction been written as a finding,
+> pass C would have closed the chunk seven pages short and it would have parsed clean. **A hand-off's predictions must be labelled as
+> predictions; pass B's were, and that is why the chunk is whole.** ⛔ **`q2-a3` onward is the normal one-agent cadence.**
+> ▶ **Three things `q2-a3` must do:** (1) **read p. 156's LEFT footer block** — the ADDITAMENTUM (p. 155 n. 8's nine disowned
+> authorities) begins below p. 155's register, continues there, and **breaks off mid-clause at p. 156's foot**; pp. 157–158 carry none.
+> It is NOT transcribed in `q2-a2` (reasons in that chunk's Notes § OPEN QUESTIONS 1) and its disposition is **Wilson's / the
+> work-close gate's**, on the `bon-hex-c23` precedent. (2) **Numeral sigla for the printed editions are real in this work** (`M et 5`,
+> `ex D et 1, 2, 3`, `cum 1, 2, 3, 4`) — do not read a bare numeral in the apparatus as a damaged letter. (3) **Read the citations.tsv
+> diff for INBOUND lines**: building `q2-a2` made `bon-hex-c7`'s `supra pag. 149, nota 8` and `bon-don-c8`'s `pag. 154` resolve here,
+> and **p. 149 has only six notes, so the first is demonstrably wrong** — the bare-`pag. N` tome-inheritance artefact, for the gate.
+> ▶ Register: the third translator's note **`tr-vacare-3`** was written for the **`ab` + ablative** sites (p. 154, twice) — "free FROM",
+> a side neither earlier note covers. Three `tr-` notes in one chunk, a corpus first. ⚠ `polish-style-scan.py` was fixed to exempt
+> `tr-` labels from the V5LABEL page-qualified check. Committed locally, **not pushed, not deployed.** Plates 117–159 on disk.
+> ⚠ **Never `git stash` in this repo.**
+
 > # ▶▶▶ START HERE — **`bon-qpe-q2-a1` IS LANDED (`3a064ba`). NEXT = THE SHAKEDOWN GATE AT p. 134 (recommended; WILSON HAS NOT RULED ON RUNNING IT), THEN `bon-qpe-q2-a2`.**
 > Q. II Art. I *De paupertate quoad abrenuntiationem*, **pp. 124–134**, Tier 2 (2026-09-15): Q. II heading + opener from p. 124
 > (unanchored, printed *duo*), 32 arguments, `Sᴇᴅ ᴄᴏɴᴛʀᴀ` 10, `CONCLUSIO`, **`Rᴇsᴘᴏɴᴅᴇᴏ`** (q1 printed *Solutio*), 10 replies answering

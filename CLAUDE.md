@@ -2431,7 +2431,7 @@ until Wilson rules on the two items marked ⛔ below — do not dispatch `q2-a2`
   half-title**. Q. I undivided; Qq. II–IV three articuli each. ⭐ Q. II's opener says *quaeruntur
   **duo*** and the question has three (Art. III presents itself as a supplement) — transcribe as
   printed.
-- **TEN CHUNKS:** `bon-qpe-q1` (117–124, **measured**) · `q2-a1` 124–134 · `q2-a2` 134–156 ·
+- **TEN CHUNKS:** `bon-qpe-q1` (117–124, **measured**) · `q2-a1` 124–134 · `q2-a2` 134–155 (**measured**) ·
   `q2-a3` 156–166 · `q3-a1` 166–171 · `q3-a2` 171–175 · `q3-a3` 175–179 · `q4-a1` 179–183 ·
   `q4-a2` 183–189 · `q4-a3` 189–198 (end **measured**). Interior ends are index-derived and
   provisional; raw bands in the scouting doc are the reliable half. The unit is settled by the
@@ -2533,6 +2533,51 @@ until Wilson rules on the two items marked ⛔ below — do not dispatch `q2-a2`
   *in speciali* kept apart; *mendicitas* → mendicancy inside Prov. 30:8 (Douay adjusted); *egenus/egestas* → needy/need vs
   *pauper* (II Cor. 8:9 Douay adjusted); *largitas* → largesse vs *liberalitas*; *lumen* → "lumen" once (Cyprian). Ruling 5 met
   3× (all internal). Resolver: `ed. Maurin. tom. 3. pag. 448` resolves into our p. 448 (wrong); bare `supra q. 1.` not parsed.
+- **✅✅ `bon-qpe-q2-a2` IS BUILT (pp. 134–155, 170 entries, zero `[?]`, 2026-09-16) — VOL V'S LARGEST SINGLE CHUNK, AND THE CORPUS'S
+  FIRST MULTI-PASS BUILD.** Transferable findings only:
+  **(a) ⭐⭐⭐ SOMETHING FOLLOWS THE REPLIES, AND A NOTE ON THE FIRST LEAF SAID SO 21 PAGES EARLIER.** After reply 20 and an *Epilogus*
+  a second unit opens on p. 149: `Rᴇᴘʟɪᴄᴀᴛɪᴏ ᴀᴅᴠᴇʀsᴜs ᴏʙɪᴇᴄᴛɪᴏɴᴇs ᴘᴏsᴛᴇᴀ ꜰᴀᴄᴛᴀs`, in-column letter-spaced small caps, **UNANCHORED**
+  (its opening sentence carries p. 149 n. 1), running pp. 149–155 in **five censurae** and closing *Amen.* **p. 134 n. 1 named it**
+  (*replicatio ad obiectiones denuo factas, quae immediate post hanc quaestionem sequitur*), and p. 148 n. 5 and p. 155 n. 8 name it
+  again. ▶ **When a chunk's own first note forecasts a unit, that forecast is a thing to MEASURE before closing the chunk, not a
+  gloss to read past** — a reply series that ends at *n* looks complete, and this one would have closed seven printed pages short.
+  **(b) ⭐⭐ THE THREE-PASS BUILD HELD, AND THE HAND-OFF IS WHY.** One uncommitted file, three agents, small incremental `Edit` appends
+  throughout; **no content-filter kill in any pass and nothing lost.** What the hand-off had to carry was the resume **POINT**, not the
+  resume page: pass C opened **mid-leaf on p. 147** with all nine of that leaf's register already written, no new page marker owed and
+  one marginale explicitly reserved — and the hand-off said so in exactly those terms, per note, not in a summary. ⛔ **What nearly went
+  wrong is the rule to keep:** pass B banked *"reply 20 answers arg. 20"* and *"whether anything follows the replies is UNMEASURED"* as a
+  **labelled prediction**. Both were then checked and one of them was wrong in a way no audit could catch. **Had the prediction been
+  written as a finding, the chunk would have been short by a whole structural unit and would have parsed clean.** ▶ **A hand-off states
+  measurements as measurements and predictions as predictions, and the receiving pass measures every prediction.** ⭐ **The three-pass
+  build was for this 21-page outlier only; `q2-a3` onward is the normal one-agent cadence.**
+  **(c) ⭐⭐ BOUNDARY 3 (p. 156) IS A LEAF EDGE, split 0/5** — `ARTICULUS III.` stands at the very head of p. 156 with its subtitle and its
+  own numbered opener, and all five of that leaf's notes anchor in its body, so `q2-a2` owns nothing of it and **`q2-a3` inherits
+  NOTHING.** p. 156 was extracted ALONE and read first (the standing order, paying again); ⚠ **the raw prints p. 156's numeral `136`** —
+  the worn-`5`-reads-as-`3` class — so the raw alone would have left the heading's leaf ambiguous.
+  **(d) ⭐⭐ NUMERAL SIGLA FOR THE PRINTED EDITIONS ARE REAL IN THIS WORK.** p. 150 n. 2's `M et 5` was doubted as a damaged letter until
+  p. 152 nn. 5 and 9 and p. 154 nn. 3 and 5 settled it (`Ex D et 1, 2, 3`, `cum 1, 2, 3, 4`, `M 1, 2, 3, 4`): Quaracchi sigles this work's
+  printed editions by arabic numerals beside the letter sigla for the codices. **Transcribed as printed, expanded in the English only.**
+  ⛔ **Do not read a bare numeral in this work's apparatus as a damaged letter.**
+  **(e) ⭐ A THIRD SIDE OF *vacare*, AND THE THIRD TRANSLATOR'S NOTE.** p. 154 has two sites governing **`ab` + ablative**
+  (*ab ecclesiasticis occupationibus vacant,* Augustine's and then Bonaventure's own) — "free FROM", which neither `tr-vacare` (dative,
+  free FOR) nor `tr-vacare-2` (absolute, at leisure) covers. **`tr-vacare-3` written, anchored in the ENGLISH ONLY**, keeping the same
+  English root as the "free for" sites so the reader sees one Latin word turning on its preposition. **Three `tr-` notes in one chunk,
+  a corpus first.** ⚠ `polish-style-scan.py` was fixed to exempt `tr-` labels from its V5LABEL page-qualified check, which they were
+  always meant to be. ⚠ **A `[^…]` token written literally in `## Notes` prose trips V5NOTES — quote the label in backticks.**
+  **(f) ⛔ AN *ADDITAMENTUM* THAT STRADDLES THE BOUNDARY IS NOT THIS CHUNK'S TO DECIDE.** p. 155 n. 8 records nine authorities the editors
+  judge *non genuinum* and relegate *ad calcem.* Measured: it opens below p. 155's register under its own marginale, continues in
+  **p. 156's LEFT footer block beneath Articulus III's body**, and **breaks off mid-clause at p. 156's foot**; pp. 157–158 carry none.
+  **NOT transcribed** — the editors' *ad calcem* is not this articulus's foot, a 134–155 span cannot own p. 156, and the corpus's one
+  precedent (`bon-hex-c23`, an anchored apparatus entry) was **Wilson's own ruling on a case that closed on its own leaf.** Nothing is
+  lost meanwhile: n. 8 states its existence, extent and the editors' reasoning verbatim. **`q2-a3` reads p. 156's left block; the
+  work-close gate settles it.**
+  **(g) ⚠ BUILDING A CHUNK CHANGES WHAT OTHER CHUNKS' CITATIONS RESOLVE TO — AND ONE OF THE NEW ONES IS PROVABLY WRONG.**
+  `bon-hex-c7`'s `supra pag. 149, nota 8` now lands here, **but p. 149 carries six notes**, so it is the bare-`pag. N` tome-inheritance
+  artefact now *looking* resolved; `bon-don-c8`'s `pag. 154` is the same shape with no arithmetic check. **Read the citations.tsv diff
+  for INBOUND lines, not only for your own.** Gutters 148 **1352** · 149 **1169** · 150 **1381** (the chunk's only genuine SKEW leaf,
+  ~21 px monotonic drift — the stacked-region signature is outlying slices against a stable rest) · 151 **1160** · 152 **1376** (the
+  default sat on the right sub-band alone) · 153 **1144** · 154 **1420** · 155 **1158**. Also: p. 148's marginale prints
+  `Determinator.` and p. 153's beside section **V.** prints `Censura quarta.` — both as printed, neither normalised.
 
 ### Vol V mechanics
 
