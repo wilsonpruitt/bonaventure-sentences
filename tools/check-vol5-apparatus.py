@@ -384,6 +384,47 @@ KNOWN_TOTALS = {
              # q2-a1's replies 9 (tail)-10 carry no anchor; n.1 is ART. II's
              # SUBTITLE (anchored), nn.2-8 its args 1-7. PENDING until q2-a2.
              # Gutter 1370 for Art. I's region.
+
+    # --- bon-qpe-q2-a2 (pp. 134-155) -- the mendicancy articulus, Vol V's
+    # largest chunk; p.134 above is its opening leaf, now CLOSED by q2-a2.
+    135: 10, # args 8-13. n.4 RUNS OVER THE GUTTER. Gutter 1190.
+    136: 8,  # args 14-20, Sed contra 1. n.4 RUNS OVER THE GUTTER; n.8 RUNS OVER
+             # ONTO p.137 (PAGE-CROSSING). Gutter 1338.
+    137: 7,  # Sed contra 2-10. n.5 RUNS OVER THE GUTTER. Gutter 1150. Signature
+             # line `S. Bonav. -- Tom. V.` + gathering signature 18, not apparatus.
+    138: 10, # Sed contra 11-21. n.10 RUNS OVER ONTO p.139 (PAGE-CROSSING).
+    139: 9,  # Sed contra 22-37. Gutter 1192.
+    140: 7,  # CONCLUSIO, Respondeo opens. Gutter 1367.
+    141: 5,  # Respondeo. Gutter 1171 (default 1180/38 px rejected).
+    142: 6,  # Respondeo ends, replies 1-3. Gutter 1366.
+    143: 7,  # replies 4-7. Gutter 1176.
+    144: 9,  # replies 8-10. Gutter 1334.
+    145: 7,  # replies 11-13. n.5 RUNS OVER THE GUTTER. Gutter 1176. Signature
+             # line `S. Bonav. -- Tom. V.`, not apparatus.
+    146: 6,  # replies 13-16. n.4 RUNS OVER THE GUTTER. Gutter 1356.
+    147: 9,  # replies 17-19 (n.9 is the leaf's last anchor, inside reply 19);
+             # reply 20 opens below it and carries no anchor on this leaf.
+             # n.5 RUNS OVER THE GUTTER. Gutter 1190.
+    148: 5,  # reply 20 ends, Epilogus. n.5 RUNS OVER THE GUTTER and is the
+             # chunk's largest entry (L's colophon + the William of Saint-Amour
+             # animadversions). Gutter 1352.
+    149: 6,  # REPLICATIO opens here, in-column small caps, UNANCHORED; its
+             # opening sentence carries n.1. Censura I. n.3 RUNS OVER THE
+             # GUTTER. Gutter 1169 (default 1155/38 px rejected).
+    150: 8,  # Censura I ends, Censura II. n.4 RUNS OVER THE GUTTER.
+             # Gutter 1381 -- the chunk's only SKEW leaf (~21 px drift).
+    151: 9,  # Censura II ends, Censura III. n.4 RUNS OVER THE GUTTER. Gutter 1160.
+    152: 10, # Censura III ends, Censura IV. No gutter runover. Gutter 1376
+             # (default 1399/21 px was the right sub-band alone).
+    153: 7,  # Censura IV ends, Censura V opens (its marginale misprints
+             # `Censura quarta.`). n.5 RUNS OVER THE GUTTER. Gutter 1144.
+             # Signature line + gathering signature 20, not apparatus.
+    154: 9,  # Censura V, Epilogus totius quaestionis. Gutter 1420.
+    155: 8,  # Censura V ends `Amen.`; the ARTICULUS CLOSES HERE. n.8 records the
+             # ADDITAMENTUM, which begins below it and is NOT transcribed in this
+             # chunk (see the chunk's Notes). Gutter 1158. BOUNDARY 3 (p.156) is a
+             # LEAF EDGE: ARTICULUS III opens at the head of p.156 and q2-a2 owns
+             # nothing of it.
     205: 8,
     206: 11,
     207: 8,

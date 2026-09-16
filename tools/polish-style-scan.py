@@ -180,8 +180,15 @@ def main():
         if is_vol5:
             # 7a. page-qualified labels. A bare [^9] collides with the next
             # page's n.9 -> duplicate def -> an entry vanishes at render.
+            # Translator's notes (`[^tr-…]`, the dikaisune rule, 2026-09-15) are
+            # OURS, not Quaracchi's, and are deliberately not page-qualified:
+            # they answer to a word in the English, not to a printed footer
+            # note, so there is no page to qualify them with and no collision
+            # risk (no printed page carries a note called `tr-…`). Exempt them
+            # here exactly as the pairing check above already does.
             bare = sorted({d for d in def_set
-                           if not re.fullmatch(r"p\d+-\d+", d)})
+                           if not re.fullmatch(r"p\d+-\d+", d)
+                           and not d.startswith("tr-")})
             if bare:
                 issues.append((name, "V5LABEL",
                                f"apparatus labels not page-qualified: {bare} "
