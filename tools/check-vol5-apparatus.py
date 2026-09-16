@@ -425,6 +425,21 @@ KNOWN_TOTALS = {
              # chunk (see the chunk's Notes). Gutter 1158. BOUNDARY 3 (p.156) is a
              # LEAF EDGE: ARTICULUS III opens at the head of p.156 and q2-a2 owns
              # nothing of it.
+    # bon-qpe-q2-a3 (Q. II Art. III, manual labour), pp. 156-165, 2026-09-16.
+    156: 5,  # ARTICULUS III at the head; opener n.1 at quaeritur. The ADDITAMENTUM
+             # fills the LEFT footer block and CLOSES at the head of the RIGHT block,
+             # above nn.1-5; NOT transcribed (work-close gate). Gutter 1392.
+    157: 8,  # Gutter 1208.
+    158: 11, # CONTRA series opens. n.11 = ruling 5 (fundam. 15). Gutter 1343.
+    159: 11, # Gutter 1229.
+    160: 10, # CONCLUSIO + Respondeo. n.7 RUNS OVER THE GUTTER. Gutter 1334.
+    161: 7,  # Signature line + gathering signature 21, not apparatus. Gutter 1237.
+    162: 6,  # Replies begin (answer the OPENING series). n.4 RUNS OVER THE GUTTER.
+             # Gutter 1361.
+    163: 9,  # Gutter 1181.
+    164: 8,  # Gutter 1339.
+    165: 7,  # Articulus closes. n.5 RUNS OVER THE GUTTER. Gutter 1143 (default 4 px).
+             # BOUNDARY 4 (p.166) is a LEAF EDGE, 0/10: QUAESTIO III at its head.
     205: 8,
     206: 11,
     207: 8,
