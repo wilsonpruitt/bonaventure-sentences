@@ -2592,6 +2592,24 @@ until Wilson rules on the two items marked ⛔ below — do not dispatch `q2-a2`
   165 **1143** — on 158/160/164/165 the `colcrop` default sat on ONE sub-band of a heavy centre rule (160 and 164 with tight 1–2 px window
   spreads, i.e. confidently wrong); band midpoint adopted. Ruling 5 met once (p. 158 n. 11, internal). Inbound `bon-brev-p2-c10`
   `supra pag. 161, nota 2` now resolves here and is right.
+- **✅ `bon-qpe-q3-a1` IS BUILT (pp. 166–171, 55 entries, zero `[?]`, 2026-09-17).** Transferable findings only:
+  **(a) ⭐⭐ BOUNDARY 5 (p. 171) IS A SHARED LEAF, split 3/5** — the first mid-leaf articulus break in this work since boundary 1. Art. I closes in
+  p. 171's right column; `ARTICULUS II.` stands full measure below with an UNANCHORED subtitle (*De continentia viduali servanda et vovenda*)
+  and an unanchored opener; nn. 1–3 are Art. I's, nn. 4–8 Art. II's fundamenta 1–5. **The footer block break (6/2) is not the ownership break** —
+  anchors only. `q3-a2` opens at the heading, no runover in. Extracted alone and read first (the standing order, paying again).
+  **(b) Replies answer the `Cᴏɴᴛʀᴀ`** (15 for 15; numbered `2. 3.` jointly); the *Respondeo* concedes the fundamenta. Score: `q1` Contra,
+  `q2-a1` Sed contra, `q2-a2` opening, `q2-a3` opening, `q3-a1` Contra — **no pattern; keep checking lemmata.** p. 167 n. 4: the editors
+  ORDERED the arguments by the order of the replies (the codices disagree).
+  **(c) ⭐ Q. III REGISTER, as applied (no collision here):** *pudicitia* → purity · *castitas* → chastity · *continentia* → continence
+  (*continere* → "to contain oneself", one root because Contra 15 argues from the pair) · *sanctimonia* → holiness. ***puritas*/*munditia*
+  absent**, so "purity" was not forced. Reply 15 is Bonaventure's own definition of the pair (*pudicitia … castum usum, continentia … castam
+  cessationem ab usu*) and calls Art. I's *continentia coniugalis* *magis proprie coniugalis pudicitia*; the English keeps "conjugal continence"
+  where it is printed — for the WORK-CLOSE gate. Also: *coniugium* wedlock / *matrimonium* matrimony / *nuptiae* marriage; *libido* lust;
+  *indulgentia* indulgence vs *venia* pardon; *quies ordinata* "ordered rest".
+  **(d) No *vacare*, no tr- note. Ruling 5 once (p. 168 n. 12, internal `fundam. 3`).** p. 168 n. 3 prints `Vers. 8.` for Gen. 1:28 — a Quaracchi
+  slip transcribed as printed. Resolver artefacts: `II. Sent. pag. 671` → `tom5` forward; `ibid. a. 2` after a d. 26 → d. 31 chain misattached;
+  `II. Sent. d. 30. seq. et IV. d. 31.` → II:d31. Inbound `bon-brev-p3-c6` / `bon-red` now resolve here, both right.
+  **(e) Gutters** 166 **1373** · 167 **1158** · 168 **1443** · 169 **1155** · 170 **1377** · 171 **1155** — defaults within 5 px on every body leaf.
 
 ### Vol V mechanics
 

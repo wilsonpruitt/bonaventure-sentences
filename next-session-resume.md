@@ -1,5 +1,20 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **`bon-qpe-q3-a1` IS LANDED (`758a2be`). NEXT FRONT = `bon-qpe-q3-a2` (p. 171 → ~175, raw from ~L34525) — ONE AGENT, THE NORMAL CADENCE.**
+> Q. III Art. I *De pudicitia coniugali*, **pp. 166–171** (measured), Tier 2 (2026-09-17). **55 entries (10/14/14/8/6/3), zero `[?]`.**
+> Carries `QUAESTIO III.` *De continentia* + opener (n. 1 at *agere*) from p. 166's head. 13 fundamenta, `Cᴏɴᴛʀᴀ` 15, `CONCLUSIO`, `Rᴇsᴘᴏɴᴅᴇᴏ`,
+> **replies `1.`, `2. 3.`, `4.`–`15.` answering the `Cᴏɴᴛʀᴀ`** (lemmata checked; score: q1 Contra, q2-a1 Sed contra, q2-a2/a3 opening, q3-a1 Contra).
+> ⭐ **Boundary 5 (p. 171) MEASURED: SHARED LEAF, split 3/5.** Art. I closes mid-leaf in the right column; `ARTICULUS II.` full measure with
+> subtitle ***De continentia viduali servanda et vovenda.*** (UNANCHORED) and an unanchored opener *Secundo quaeritur de continentia viduali*.
+> **`q3-a2` opens at that heading and owns p. 171 nn. 4–8** (fundamenta 1–5: *nono*⁴, *septimo*⁵, *post*⁶, *ibidem*⁷, *Viduitate*⁸); no runover in.
+> Footer block break 6/2 ≠ ownership break 3/5. `KNOWN_TOTALS[171]=8` already set, nn. 4–8 PENDING. ⚠ Raw p. 171 body badly degraded — read the plate.
+> ▶ Register held apart with no collision: *pudicitia* purity / *castitas* chastity / *continentia* continence / *continere* "contain oneself" /
+> *sanctimonia* holiness; ***puritas*/*munditia* absent** (if they appear in q3-a2/a3, "purity" is taken). Reply 15 defines *pudicitia* (chaste use) vs
+> *continentia* (chaste cessation) — `q3-a2` builds on it. **No *vacare*; no tr- note.** Ruling 5 once (p. 168 n. 12, internal). p. 168 n. 3 prints
+> `Vers. 8.` for Gen. 1:28 (as printed). One gutter runover (p. 170 n. 3). Gutters 1373/1158/1443/1155/1377/1155. Division 3 added to the registry.
+> Inbound `bon-brev-p3-c6` (pag. 170 n. 3) and `bon-red` (pag. 167 n. 2) now resolve here — both right. QA 201, build 2108. Plates 166–171 on disk.
+> Committed locally, **not pushed, not deployed.** ⚠ **Never `git stash` in this repo.**
+
 > # ▶▶▶ START HERE — **`bon-qpe-q2-a3` IS LANDED (`647e743`). NEXT FRONT = `bon-qpe-q3-a1` (pp. 166–171, raw L33707–L34548) — ONE AGENT, THE NORMAL CADENCE.**
 > Q. II Art. III *Utrum pauperes validi … ad opera manualia universaliter sint astricti*, **pp. 156–165** (measured), Tier 2 (2026-09-16).
 > **82 entries (5/8/11/11/10/7/6/9/8/7), zero `[?]`.** Unanchored subtitle, opener n. 1 at *quaeritur*; 16 arguments FOR the obligation,
