@@ -21178,7 +21178,7 @@ bon-hex-c5	5	apparatus:p354-3	p354-3	scripture	apparatus-explicit	Exod. 19, 3	Ex
 bon-hex-c5	5	apparatus:p354-3	p354-3	scripture	apparatus-explicit	Hebr. 12, 20	Hebr 12:20	A	verse		
 bon-hex-c5	5	apparatus:p354-3	p354-3	scripture	apparatus-explicit	Exod. 19, 13	Exod 19:13	A	verse		
 bon-hex-c5	5	apparatus:p354-4	p354-4	scripture	anaphor->apparatus-explicit	ibid.	Exod 19:13	A	verse	yes	Exod. 19, 13
-bon-hex-c5	5	apparatus:p354-7	p354-7	crossref	page	supra pag. 174, nota 3	tom5:p174		forward		
+bon-hex-c5	5	apparatus:p354-7	p354-7	crossref	page	supra pag. 174, nota 3	bon-qpe-q3-a2		chunk		
 bon-hex-c5	5	apparatus:p354-9	p354-9	scripture	apparatus-explicit	Luc. 9, 3	Luc 9:3	A	verse		
 bon-hex-c5	5	apparatus:p355-1	p355-1	crossref	page	tom. II. pag. 924, nota 5	bon-sent-II-d40-a1-q2+bon-sent-II-d40-a1-q3		page-multi		
 bon-hex-c5	5	apparatus:p355-1	p355-1	crossref	page	tom IV. pag. 107, nota 5	bon-sent-IV-d4-p2-a1-q1		chunk		
@@ -22779,6 +22779,38 @@ bon-qpe-q3-a1	5	apparatus:p170-2	p170-2	scripture	apparatus-explicit	I. Cor. 7, 
 bon-qpe-q3-a1	5	apparatus:p170-3	p170-3	crossref	page	tom. II. pag. 754, nota 11	bon-sent-II-d31-a2-q3		chunk		
 bon-qpe-q3-a1	5	apparatus:p170-4	p170-4	scripture	apparatus-explicit	I. Cor. 5, 5	1Cor 5:5	A	verse		
 bon-qpe-q3-a1	5	apparatus:p171-3	p171-3	crossref	logical	IV. Sent. d. 32. a. 3. q. 1.	bon-sent-IV-d32-a3-q1		chunk		
+bon-qpe-q3-a2	5	latin_body	p171-4	scripture	body-ordinal	Matthaei decimo nono	Matth 19:12	B	verse		
+bon-qpe-q3-a2	5	latin_body	p171-5	scripture	body-ordinal	ad Corinthios septimo	Cor* 7:1	B	verse		
+bon-qpe-q3-a2	5	latin_body	p171-7	scripture	anaphor->body-ordinal	ibid	Cor* 7:1	B	verse	yes	ad Corinthios septimo
+bon-qpe-q3-a2	5	latin_body	p172-2	scripture	body-ordinal	ad Romanos duodecimo	Rom 12:1	B	verse		
+bon-qpe-q3-a2	5	latin_body	p172-5	scripture	body-ordinal	ad Corinthios septimo	Cor* 7:2	B	verse		
+bon-qpe-q3-a2	5	latin_body	p172-6	scripture	body-ordinal	ad Timotheum quinto	Tim* 5:14	B	verse		
+bon-qpe-q3-a2	5	latin_body	p172-7	scripture	body-ordinal	ad Timotheum quinto	Tim* 5:9	B	verse		
+bon-qpe-q3-a2	5	latin_body		scripture	anaphor->body-ordinal	ibid	Tim* 5:9	B	verse	yes	ad Timotheum quinto
+bon-qpe-q3-a2	5	latin_body	p172-8	scripture	body-ordinal	Genesis primo	Gen 1:28	B	verse		
+bon-qpe-q3-a2	5	latin_body	p172-13	scripture	body-ordinal	ad Corinthios septimo	Cor* 7:28	B	verse		
+bon-qpe-q3-a2	5	latin_body	p173-1	scripture	body-ordinal	ad Corinthios septimo	Cor* 7:39	B	verse		
+bon-qpe-q3-a2	5	apparatus:p171-7	p171-7	scripture	apparatus-explicit	Rom. 7, 2	Rom 7:2	A	verse		
+bon-qpe-q3-a2	5	apparatus:p171-8	p171-8	scripture	apparatus-explicit	I. Cor. 7, 40	1Cor 7:40	A	verse		
+bon-qpe-q3-a2	5	apparatus:p172-1	p172-1	scripture	apparatus-explicit	I. Cor. 7, 7	1Cor 7:7	A	verse		
+bon-qpe-q3-a2	5	apparatus:p172-3	p172-3	scripture	apparatus-explicit	Gal. 5, 17	Gal 5:17	A	verse		
+bon-qpe-q3-a2	5	apparatus:p172-11	p172-11	crossref	page	supra pag. 167, nota 12	bon-qpe-q3-a1		chunk		
+bon-qpe-q3-a2	5	apparatus:p172-12	p172-12	crossref	logical	IV. Sent. d. 31. a. 1. q. 1.	bon-sent-IV-d31-a1-q1		chunk		
+bon-qpe-q3-a2	5	apparatus:p173-1	p173-1	crossref	anaphor->logical	ibid.	bon-sent-IV-d31-a1-q1		chunk	yes	IV. Sent. d. 31. a. 1. q. 1.
+bon-qpe-q3-a2	5	apparatus:p173-4	p173-4	scripture	apparatus-explicit	I. Cor. 7, 2	1Cor 7:2	A	verse		
+bon-qpe-q3-a2	5	apparatus:p173-6	p173-6	scripture	apparatus-explicit	Matth. 19, 11	Matth 19:11	A	verse		
+bon-qpe-q3-a2	5	apparatus:p173-7	p173-7	scripture	apparatus-explicit	I. Tim. 5, 3	1Tim 5:3	A	verse		
+bon-qpe-q3-a2	5	apparatus:p173-7	p173-7	scripture	anaphor->apparatus-explicit	ibid.	1Tim 5:3	A	verse	yes	I. Tim. 5, 3
+bon-qpe-q3-a2	5	apparatus:p174-1	p174-1	crossref	logical	IV. Sent. d. 26. a. 1. q. 3.	bon-sent-IV-d26-a1-q3		chunk		
+bon-qpe-q3-a2	5	apparatus:p174-1	p174-1	scripture	apparatus-explicit	Gen. 1, 22	Gen 1:22	A	verse		
+bon-qpe-q3-a2	5	apparatus:p174-2	p174-2	crossref	page	supra pag. 167, nota 2	bon-qpe-q3-a1		chunk		
+bon-qpe-q3-a2	5	apparatus:p174-3	p174-3	crossref	anaphor->page	ibid.	bon-qpe-q3-a1		chunk	yes	supra pag. 167, nota 2
+bon-qpe-q3-a2	5	apparatus:p174-3	p174-3	crossref	logical	III. Sent. d. 36. q. 3.	bon-sent-III-d36-a1-q3		chunk		
+bon-qpe-q3-a2	5	apparatus:p174-4	p174-4	crossref	logical	II. Sent. d. 9. q. 5.	bon-sent-II-d9-a1-q5		chunk		
+bon-qpe-q3-a2	5	apparatus:p174-4	p174-4	crossref	relative-inherited	ibid.	bon-sent-II-d9-a1-q5		chunk		
+bon-qpe-q3-a2	5	apparatus:p174-5	p174-5	scripture	apparatus-explicit	I. Tim. 1, 5	1Tim 1:5	A	verse		
+bon-qpe-q3-a2	5	apparatus:p174-7	p174-7	crossref	logical	IV. Sent. d. 37. a. 1. q. 3.	bon-sent-IV-d37-a1-q3		chunk		
+bon-qpe-q3-a2	5	apparatus:p174-8	p174-8	scripture	apparatus-explicit	Iac. 1, 17	Iac 1:17	A	verse		
 bon-qsc-q1	5	apparatus:p3-1	p3-1	crossref	logical	III. Sent. d. 14	III:d14		distinctio		
 bon-qsc-q1	5	apparatus:p3-1	p3-1	crossref	logical	I. Sent. d. 35. q. 5	bon-sent-I-d35-a1-q5		chunk		
 bon-qsc-q1	5	apparatus:p3-1	p3-1	crossref	chain-continuation	d. 39. a. 1. q. 1	bon-sent-I-d39-a1-q1		chunk		

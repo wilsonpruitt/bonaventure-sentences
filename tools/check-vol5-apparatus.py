@@ -447,8 +447,16 @@ KNOWN_TOTALS = {
     169: 8,  # Replies begin (answer the CONTRA series). Gutter 1155.
     170: 6,  # n.3 RUNS OVER THE GUTTER. Gutter 1377.
     171: 8,  # BOUNDARY 5 SHARED LEAF, split 3/5: Art. I closes mid-leaf (nn.1-3);
-             # ARTICULUS II (unanchored subtitle + opener) owns nn.4-8 -- PENDING
-             # until bon-qpe-q3-a2 lands. Gutter 1155.
+             # ARTICULUS II (unanchored subtitle + opener) owns nn.4-8 -- landed in
+             # bon-qpe-q3-a2. Gutter 1155.
+    # bon-qpe-q3-a2 (Q. III Art. II, De continentia viduali), pp. 171-175, 2026-09-17.
+    172: 13, # Fundamenta 6-10 + SED CONTRA 1-9 + CONCLUSIO + Respondeo. Gutter 1381
+             # (default 1371 on a 14 px run sat on the left sub-band; midpoint adopted).
+    173: 8,  # Epilogus + replies 1-4 (answer the SED CONTRA). Gutter 1173.
+    174: 8,  # n.4 RUNS OVER THE GUTTER; n.4 = ruling 5 (II Sent. fundam. 3). Gutter 1364.
+    175: 10, # BOUNDARY 6 SHARED LEAF, split 1/9: Art. II closes mid-leaf (n.1 at
+             # apparebit, reply 9); ARTICULUS III (unanchored subtitle + opener) owns
+             # nn.2-10 -- PENDING until bon-qpe-q3-a3 lands. Gutter 1169.
     205: 8,
     206: 11,
     207: 8,
