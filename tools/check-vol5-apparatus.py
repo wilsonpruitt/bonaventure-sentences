@@ -475,9 +475,22 @@ KNOWN_TOTALS = {
     182: 7,  # Respondeo (tail) + replies 1.2.3-9 (answer the SED CONTRA); n.3 RUNS OVER THE
              # GUTTER. Gutter 1401.
     183: 8,  # BOUNDARY 8 SHARED LEAF, split 1/7: Art. I closes mid-leaf (n.1 at virtutis,
-             # reply 10); ARTICULUS II (unanchored subtitle + opener) owns nn.2-8 -- PENDING
-             # until bon-qpe-q4-a2 lands; n.4 RUNS OVER THE GUTTER. Gutter 1195 over Art. I's
-             # rows, 1190 over Art. II's body.
+             # reply 10); ARTICULUS II (unanchored subtitle + opener) owns nn.2-8 -- LANDED
+             # with bon-qpe-q4-a2; n.4 RUNS OVER THE GUTTER (logged by q4-a2). Gutter 1195
+             # over Art. I's rows, 1190 over Art. II's body.
+    # bon-qpe-q4-a2 (Q. IV Art. II, votum obedientiae), pp. 183-189, 2026-09-17.
+    184: 10, # Arguments 11-20 + SED CONTRA (13 fundamenta) 1-6. Gutter 1330 (band midpoint;
+             # default 1336, ~6 px skew between the upper and lower regions).
+    185: 10, # Fundamenta 7-13 + CONCLUSIO + Respondeo; n.7 RUNS OVER THE GUTTER. Gutter 1145
+             # (band midpoint; default 1138).
+    186: 9,  # Respondeo (tail) + replies 1-3 (answer the OPENING series); n.5 RUNS OVER THE
+             # GUTTER. Gutter 1397.
+    187: 6,  # Replies 3 (tail)-11; n.3 RUNS OVER THE GUTTER. Gutter 1141.
+    188: 8,  # Replies 11 (tail)-17; n.4 RUNS OVER THE GUTTER. Gutter 1352 (the colcrop
+             # default 1376 came off a 7 px run and was rejected).
+    189: 6,  # BOUNDARY 9 SHARED LEAF, split 1/5: Art. II closes mid-leaf (n.1 at gubernantis,
+             # reply 18); ARTICULUS III (unanchored subtitle, ANCHORED opener) owns nn.2-6 --
+             # PENDING until bon-qpe-q4-a3 lands. Gutter 1162 over Art. III's body.
     205: 8,
     206: 11,
     207: 8,
