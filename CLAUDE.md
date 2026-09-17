@@ -2664,6 +2664,24 @@ until Wilson rules on the two items marked ⛔ below — do not dispatch `q2-a2`
   `page-multi` (q3-a3+q4-a1 — right chunk in the set, owner unpicked); `bon-brev-p7-c6` / `bon-itin-c5` `pag. 180` right; ⚠ `bon-brev-p4-c1` `pag. 183, nota 3` → here but is
   **`q4-a2`'s** (Anselm); `bon-hex-c6` `(pag. 180)` = Jourdain (artefact). Own artefacts: cross-note `ibid.` inherits body Scripture (p. 179 n. 6 → Deut. 17) or a preceding
   *Sent.* crossref (p. 181 n. 4, p. 182 n. 2 → II d. 44). **(f) Gutters** 179 **1192** (Q. IV body) · 180 **1427** (default 1425; midpoint) · 181 **1208** · 182 **1401** · 183 **1195** (Art. I rows) / **1190** (Art. II).
+- **✅ `bon-qpe-q4-a2` IS BUILT (pp. 183–189, 51 entries, zero `[?]`, 2026-09-17).** Transferable findings only:
+  **(a) ⭐⭐ BOUNDARY 9 (p. 189) IS A SHARED LEAF, split 1/5 — and Art. III's OPENER IS ANCHORED, which no other articulus opener in this quaestio is.**
+  Replies 18–20 close in both upper blocks (n. 1 at *gubernantis*); `ARTICULUS III.` full measure, subtitle *De obedientia summo Pontifici debita* UNANCHORED, but the opener
+  *Ultimo quaeritur … quod omnes obediant uni*² carries the article's textual note (*Hic articulus exhibetur a codd. D E.*). ▶ **"The opener is unanchored" had held for four consecutive boundaries in this work and is
+  NOT a rule — read the opener's own line each time.** `q4-a3` owns p. 189 nn. 2–6; no runover crosses that leaf's gutter. Extracted alone and read first. Hand-off p. 183 (1/7, n. 4 gutter) re-derived and right in every particular.
+  **(b) ⭐⭐ REPLIES ANSWER THE OPENING SERIES, 20 for 20 — and here the COUNT TEST and the lemmata agree** (20 arguments *quod non*, 13 *fundamenta* conceded). ⚠ **The run-head marginalia SWAP SIDES with the argument's polarity:**
+  `Ad opposi-tum.` stands beside the OPENING series here and `Fundamenta.` beside the `Sᴇᴅ ᴄᴏɴᴛʀᴀ`, the mirror of `q4-a1` one articulus earlier — **the marginale names the series' ROLE, not its position, so it is a witness to
+  which series is which and never to which one the replies answer.** Score: `q1` Contra, `q2-a1` Sed contra, `q2-a2`/`a3` opening, `q3-a1` Contra, `q3-a2`/`a3` Sed contra, `q4-a1` Sed contra, `q4-a2` opening.
+  **(c) ⭐ THE *replicatio* FORECAST CHECK PAID AND CAME BACK EMPTY.** Every forward-pointing note in the chunk (p. 183 n. 4, p. 185 n. 8, p. 187 n. 3) points inside this article's own body; measured on the plate, nothing
+  stands between reply 20 and `ARTICULUS III.` ▶ **A negative measurement is a finding worth writing** — it is what makes the next chunk's silence readable.
+  **(d) ⭐ FORCED: *necessitas coactionis* vs *necessitas tentionis* → "necessity of coercion" / "necessity of holding"** (reply 1; the printed word is *tentionis*, read at 2.5×, not *retentionis*). Also strained: *ordo dignativus*
+  → "the order of deigning". ***dominium* does not occur in this chunk**, so `q4-a1`'s strained *dominium potentiae* site gains no second witness; *proprietas* → property is kept off "ownership". **No *vacare*, no *lumen*, no tr- note.**
+  Ruling 5 once, EXTERNAL (p. 184 n. 2 `II. Sent. d. 21. a. 3. q. 2. fundam. 2`). p. 183 arg. 5 prints `5 Item` with no point after the numeral (as printed, normalised in the body and recorded).
+  **(e) ⚠ A LOUD GUTTER FAILURE AND FOUR QUIET ONES.** p. 188's `colcrop` default was **1376 on a 7 px run** — rejected outright; the two flanking low-ink runs put the rule island at 1349–1353 → **1352**. On pp. 184, 185 and 187
+  the default sat on one sub-band and the band midpoint was taken. Gutters 183 **1190** (Art. II) · 184 **1330** (~6 px skew) · 185 **1145** · 186 **1397** · 187 **1141** · 188 **1352** · 189 **1162** (Art. III's body).
+  **(f) Inbound:** ⭐ `bon-brev-p4-c1` `pag. 183, nota 3` (Anselm) went from a false `chunk` on `q4-a1` to **`page-multi` q4-a1+q4-a2** — right chunk in the set, owner unpicked, exactly as `q4-a1` predicted; `bon-brev-p3-c1`
+  (p. 188 n. 6), `bon-brev-p5-c9` (p. 186 n. 1) and `bon-praec-c1` (p. 187 n. 2) land here and are RIGHT; ⚠ `bon-qsc-q4`'s two bare `pag. 186` lines are the tome-inheritance artefact and are WRONG. Own: 49 records,
+  zero dangling, zero unresolvable, zero QA flags of ours; QA 201 unchanged. Unparsed: `supra q. 2. a. 3. ad 12.` (verbal back-reference) and the Benedictine `In regula c. 68`.
 
 ### Vol V mechanics
 

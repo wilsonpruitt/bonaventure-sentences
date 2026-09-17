@@ -1,5 +1,24 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **`bon-qpe-q4-a2` IS LANDED (`27d1578`). NEXT FRONT = `bon-qpe-q4-a3` (p. 189 → 198, raw from ~L37199) — THE WORK'S LAST CHUNK, ONE AGENT, THE NORMAL CADENCE.**
+> Q. IV Art. II *Utrum sit consonum evangelicae perfectioni, quod unus se astringat voto ad obediendum alteri*, **pp. 183–189** (measured), Tier 2 (2026-09-17). **51 entries (7/10/10/9/6/8/1), zero `[?]`.**
+> Opens mid-leaf on p. 183 at `ARTICULUS II.` (nn. 2–8). **20 arguments *quod non*** (marginale `Ad opposi-tum.`), `Sᴇᴅ ᴄᴏɴᴛʀᴀ` with **13 *fundamenta*** (marginale `Fundamenta.` — the run-head labels sit opposite to `q4-a1`'s),
+> `CONCLUSIO`, `Rᴇsᴘᴏɴᴅᴇᴏ` (vow as *pars constitutiva* / *via praeambula* / *completio ultimata*; *rectificatio–ordinatio–recompensatio*), then **20 replies ANSWERING THE OPENING SERIES** — count test AND lemmata agree,
+> 20 for 20, fundamenta conceded (score: q1 Contra, q2-a1 Sed contra, q2-a2/a3 opening, q3-a1 Contra, q3-a2/a3 Sed contra, q4-a1 Sed contra, **q4-a2 opening**). ✅ Forecast MEASURED: no note forecasts a post-reply unit, and
+> nothing stands between reply 20 and `ARTICULUS III.` — the *replicatio* precedent paid its check and came back empty.
+> ⭐ **Boundary 9 (p. 189) MEASURED: SHARED LEAF, split 1/5.** Replies 18–20 fill both upper blocks (n. 1 at *gubernantis*); then full measure `ARTICULUS III.` + italic subtitle *De obedientia summo Pontifici debita.*
+> (UNANCHORED) + a two-column opener *Ultimo quaeritur, utrum christianae religionis sit, quod omnes obediant uni*² — ⚠ **ANCHORED, unlike every other articulus opener in this quaestio** (n. 2 = the article's textual
+> note, *Hic articulus exhibetur a codd. D E.*). **`q4-a3` opens at `ARTICULUS III.` and owns p. 189 nn. 2–6** (*septimo*³ Deut. 17, *Psalmus*⁴, *Eugenium*⁵ Bernard, *sexto*⁶ Matt. 16); no runover in, none out.
+> `KNOWN_TOTALS[189]=6`, nn. 2–6 pending. **Gutter p. 189: 1162 over Art. III's body.** Plates through 189 on disk. ⚠ p. 198 ends the work with **no colophon**; p. 198 n. 3 is the 1890s papal-primacy dissertation
+> (render literally and in full). `q4-a3` is ~10 printed pages — if it runs past 10, stop at a clean reply boundary and report.
+> Register: **no *vacare* site, no *lumen* site → no translator's note.** Ruling 5 once, EXTERNAL (p. 184 n. 2 `fundam. 2`). FORCED: ***necessitas tentionis* → "necessity of holding"** (against *coactionis*);
+> ***ordo dignativus* → "the order of deigning"**, strained — both for the WORK-CLOSE gate. ***dominium* does not occur**, so `q4-a1`'s strained site gains no second witness. *proprietas* → property, kept off "ownership".
+> Runovers: **five, ALL gutter-crossing** — p. 183 n. 4 (inherited, logged here), p. 185 n. 7, p. 186 n. 5, p. 187 n. 3, p. 188 n. 4; **zero page-crossing.** Gutters 1190|1330|1145|1397|1141|**1352**|1162
+> (⚠ p. 188's `colcrop` default 1376 came off a **7 px** run — rejected, band midpoint taken).
+> Citations: 49 own records, zero dangling/unresolvable, **zero QA flags of ours**; QA 201 unchanged, build 2112. ⭐ Inbound `bon-brev-p4-c1` `pag. 183, nota 3` (Anselm) is now **`page-multi` q4-a1+q4-a2** — right
+> chunk in the set, owner unpicked (as `q4-a1` predicted). `bon-brev-p3-c1` (p. 188 n. 6), `bon-brev-p5-c9` (p. 186 n. 1), `bon-praec-c1` (p. 187 n. 2) all land here and are RIGHT; ⚠ `bon-qsc-q4`'s two bare
+> `pag. 186` lines are the tome-inheritance artefact and are WRONG. Committed locally, **not pushed, not deployed.** ⚠ **Never `git stash` in this repo.**
+
 > # ▶▶▶ START HERE — **`bon-qpe-q4-a1` IS LANDED (`0f4a423`). NEXT FRONT = `bon-qpe-q4-a2` (p. 183 → ~189, raw from ~L36301) — ONE AGENT, THE NORMAL CADENCE.**
 > Q. IV Art. I *Utrum sit consonum iuri naturali, quod homo obediendo subiaceat alteri*, **pp. 179–183** (measured), Tier 2 (2026-09-17). **36 entries (5/16/7/7/1), zero `[?]`.**
 > Opens mid-leaf on p. 179 at `QUAESTIO IV.` (nn. 5–9). 10 fundamenta, `Sᴇᴅ ᴄᴏɴᴛʀᴀ` 10, `CONCLUSIO`, `Rᴇsᴘᴏɴᴅᴇᴏ`, *Unde rationes … concedendae sunt*, **replies `1. 2. 3.`, 4–10 answering the `Sᴇᴅ ᴄᴏɴᴛʀᴀ`**
