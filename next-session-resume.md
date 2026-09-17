@@ -1,5 +1,41 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **THE *DE PERFECTIONE EVANGELICA* WORK-CLOSE GATE IS ✅ CLOSED (2026-09-17). THE FRONT IS NOW: PUSH, THEN DEPLOY — EACH ONE WILSON'S SEPARATE PER-ACTION OK.**
+> Gate log: **`manual-review/vol5-perfectione-evangelica-workclose-gate.md`** (full evidence). Ten chunks, pp. 117–198, **689 apparatus entries**, ONE gate (Wilson declined the shakedown 2026-09-15).
+> **ZERO TEXT DEFECTS.** One repair: `q3-a3` p. 179 n. 3's English gloss printed a **bare `[?]`** where the Latin printed the EDITORS' query as `[*?*]` — `check-live-flags.py` counted it as the corpus's one live flag
+> in this work (238 → **237**, the mysterio baseline exactly, `bon-qpe-*` ZERO). Plus one stale Notes line in `q2-a1` brought up to date (its *dominium* bullet still said "Wilson's call at the gate"; the gate has ruled).
+> **ALL SEVEN OF WILSON'S RULINGS VERIFIED PRESENT IN THE TEXT AS RULED** (purity triple + *castitas*; *dominium* lordship/ownership split with **zero** "ownership of power"; *ius canonicum* → "canon right";
+> *Antistes* → "Prelate"; "necessity of holding"; "the order of deigning"; the pp. 155–156 additamentum NOT transcribed). ⚠ **One count on the ruling sheet was wrong, not one ruling** — ruling 3's "eight
+> *ius canonicum* sites" is a whole-FILE grep; **three are rendered** (p. 189 opener, p. 191, p. 195's Epilogus), all three read "canon right", zero "canon law" in rendered text. ▶ **Take every evidence-sheet census
+> over the LIVE REGION (frontmatter + `## Notes` stripped) and say so on the sheet.** ⭐ Carried rulings all hold: **zero bare "intellect"** in all ten live regions · ruling 2 holds and **`q3-a2` hit the mysterio gate's
+> exposed shape (0 *lux* / 1 *lumen* / "light") and is NOT a defect** — it is Jas. 1:17 *Patri luminum* → "Father of lights", Douay, precedent `bon-don-c1`, and the chunk's Notes say so · ruling 5 holds at **all 19**
+> `fundam. N` sites (⚠ the English form is italic — `fundamentum\s+\d` finds none of them) · `contuit-` holds at its one site.
+> **BOUNDARIES: ELEVEN OF ELEVEN.** All nine interior splits match the frozen record digit for digit — p. 124 **5/0 body-only** · p. 134 **0/8** · p. 156 **LEAF EDGE 0/5** · p. 166 **LEAF EDGE 0/10** · p. 171 **3/5** ·
+> p. 175 **1/9** · p. 179 **4/5** · p. 183 **1/7** · p. 189 **1/5**. Derived from the files, not from the chunks' claims: **every page 117–198 owned, zero gaps, zero double-ownership, every page's register contiguous 1..N.**
+> Work start p. 117 (display heading, anchored proemium, p. 116 blank); **work end p. 198, no colophon, `p198-nota` last, fixed positively from p. 199 = Breviloquium half-title.**
+> **SUITE:** apparatus **162 chunks / 3,984 entries all passed** · census **rosters agree 162/162, 273 runovers (246 gutter, 27 page)** · live flags **237, ours ZERO** · style scan **11 issues / 6 chunks, ZERO in scope**
+> (pre-existing, Vols III–IV + `bon-hex-c23`, deliberately NOT fixed) · **QA 201** · index **1,674 chunks cited / 10,193 backlinks** · build **2,113 / 2,113**. Own ledger **701 records, ZERO dangling, ZERO ambiguous,
+> ZERO QA flags of ours**; **32 inbound records from 24 deployed chunks**, none live until deploy; ⭐ **no forward reference into pp. 117–198 remains anywhere in the corpus.**
+> **PASS 4 DONE — ~420 MB reclaimed** (83 plates / 279 MB in `raw/vision/vol5/`, 60 crops / 141 MB in `/tmp/colcrop/`; both gitignored and regenerable via `extract-pages.py` + `colcrop.py`).
+>
+> ### ▶▶ WHAT REMAINS, IN ORDER — nothing else is blocking
+> 1. ⛔ **`git push origin master`** — WILSON'S HARD STOP, his per-action OK. (Merging/pushing ≠ deploying.)
+> 2. ⛔ **DEPLOY** — WILSON'S SEPARATE HARD STOP. ✅ `build-citations.py` **and** `build-index-json.py` have **both already been run, in that order**, so the recipe starts at the site build:
+>    `cd site && node scripts/build-content.mjs` → `npx vercel build --prod` → `npx vercel deploy --prod --prebuilt --archive=tgz --scope wilson-pruitts-projects`. **Run both commands from `site/`, never the repo root.**
+>    Retry once on a `next/font/google` 404 storm (build) or `Error: fetch failed` after "Deploying outputs…" (deploy — retry the DEPLOY, do not rebuild). **Verify SERVED CONTENT, not the status string.**
+> 3. **AT THE DEPLOY BOUNDARY, batched** (the carry-list, full form in the gate log): add the approved `tr-vacare` note to the two deployed sites `bon-praec-c4` + `bon-qmt-q7-a2` (owed since the mysterio gate) ·
+>    write the *lumen* translator's note at the first *lumen* in `bon-qsc-q3`/`q4` and the `bon-qmt` chunks **and at `bon-qpe-q4-a3` p. 195**, the work's only bare-"lumen" site · fix the works-table slug
+>    `bon-sci-` → `bon-qsc-` in `scripture-books.json` (clears `bon-don-c8`'s false forward). ⚠ `cited-by.tsx`'s `MAX_SHOWN = 25` still hides backlinks on `bon-sent-II-d7-p2-a2-q1` — existing design, not a regression.
+> 4. **RESOLVER DOCKET — a scoped job with its own before/after diff, NOT a gate edit:** author governance for `ibid.`/`loc. cit.` (8 sites in this work) · ⭐ **named-work references to chunks we HOLD are not parsed**
+>    (`p198-nota`'s *Breviloquium p. VI. c. 10/12* and *Hexaëmeron sermo 22* are all deployed and all silent — the only class where the resolver is mute about a target that certainly exists and is certainly named) ·
+>    verbal back-references (`supra q. 1.`, `art. praeced.`, …) · bare-`pag. N` inbound false hits with NO tome printed (6 sites; a DIFFERENT residue from the tome-inheritance bug the mysterio gate fixed) ·
+>    `page-multi` owner-unpicked (correct, not wrong).
+> 5. **AFTER the deploy:** the **Sermones selecti** mini-pilot (half-title p. 533, blank 534, body opens 535).
+> ⭐ **THE GATE'S FINDING: a work whose register is ruled on the morning of its gate arrives with nothing to repair.** *scientia Christi* repaired a five-way rendering; *mysterio* repaired an unrecorded *lumen* plus a
+> resolver bug; **this gate repaired one punctuation mark in a gloss.** Wilson's procedure (read-only agent compiles an evidence sheet → Wilson rules from the sheet → rulings applied → THEN the gate) shrinks the gate
+> from *discovering* the register to *verifying* it. ▶ **Run the evidence sheet before the work is finished, and run it live-region-only.**
+> ⚠ **Never `git stash` in this repo.**
+
 > # ▶▶▶ START HERE — **`bon-qpe-q4-a3` IS LANDED (`344355b`). THE *DE PERFECTIONE EVANGELICA* IS COMPLETE (pp. 117–198). NEXT FRONT = its WORK-CLOSE GATE at p. 198.**
 > Q. IV Art. III *De obedientia summo Pontifici debita*, **pp. 189–198** (measured), Tier 2 (2026-09-17). **77 entries (5/8/6/13/7/10/8/10/6/4), zero `[?]`.**
 > Opens mid-leaf on p. 189 at `ARTICULUS III.` (subtitle UNANCHORED, **opener ANCHORED** at n. 2 = the article's textual note, *codd. D E*). **24 fundamenta under four declared heads**
