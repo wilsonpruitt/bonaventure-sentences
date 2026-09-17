@@ -2629,6 +2629,23 @@ until Wilson rules on the two items marked ⛔ below — do not dispatch `q2-a2`
   Aristotle locus inherits the preceding `pag. 167` (p. 174 n. 3); `quaest. praeced.` / `art. praeced.` / `infra a. 3. solut. ad 11.` not parsed.
   Inbound `bon-hex-c5` `supra pag. 174, nota 3` now resolves here and is right. **(f) Gutters** 171 **1155** · 172 **1381** (default 1371 on a
   14 px run on the left sub-band — midpoint adopted) · 173 **1173** · 174 **1364** · 175 **1169**.
+- **✅ `bon-qpe-q3-a3` IS BUILT (pp. 175–179, 40 entries, zero `[?]`, 2026-09-17) — CLOSES QUAESTIO III.** Transferable findings only:
+  **(a) ⭐⭐ BOUNDARY 7 (p. 179) IS A SHARED LEAF, split 4/5** — the third consecutive mid-leaf break, and the first mid-leaf QUAESTIO break. Replies 8–11
+  close in both upper blocks (nn. 1–4); `QUAESTIO IV.` + subtitle *De obedientia* (UNANCHORED) + a two-column three-part opener (unanchored) + `ARTICULUS I.`
+  + subtitle (UNANCHORED) follow full measure; nn. 5–9 are Q. IV Art. I's (n. 5 = its textual note), **n. 6 runs over the gutter**. `q4-a1` takes the
+  heading + opener and **adds division 4 to the registry**. On a leaf that opens a quaestio the default gutter is wrecked (1197/40 px) — **measure each region**
+  (1201 above, 1192 below). Hand-off p. 175 (1/9, n. 5 gutter) re-derived and right in every particular.
+  **(b) Replies answer the `Sᴇᴅ ᴄᴏɴᴛʀᴀ`** (11 for 11 against 12 fundamenta, whose opener announces *auctoritate, exemplo et ratione*). Score: `q1` Contra,
+  `q2-a1` Sed contra, `q2-a2`/`a3` opening, `q3-a1` Contra, `q3-a2`/`a3` Sed contra. **The labelled prediction (reply 11 per p. 174 n. 4) MEASURED TRUE.**
+  **(c) ⭐ *puritas* → "pureness" at all four sites (FORCED)** — and p. 179 reply 8 (*ratione tamen puritatis et munditiae maior est in virginitate*, against
+  *pudicitia coniugali*) is the sentence that proves the triple must stay three words. *munditia* → cleanness ×3, *immunditia* → uncleanness. Also kept apart:
+  *decor* comeliness / *pulcritudo* beauty; *coitus* coition (vs *concubitus* intercourse); *per interemptionem solvenda* "to be solved by destruction";
+  I Tim. 1:5 *de corde puro* left in Douay ("pure heart", adjective *purus*) — for the gate with the triple.
+  **(d) No *vacare*, no tr- note, ruling 5 not met.** p. 177 reply 1 prints `oum` (failing `c`) → *cum*.
+  **(e) ⚠ BOTH NEW INBOUND RESOLUTIONS ARE WRONG:** `bon-hex-c9` `(tom. 12. pag. 178)` is Surius (bare-`pag. N` tome artefact); `bon-itin-c1`
+  `supra pag. 179, nota 9` is the right page but **Q. IV's note** — the resolver cannot tell which chunk on a shared leaf owns note *n*; `q4-a1` re-reads it.
+  Own artefacts: `loc. cit.` (p. 175 n. 4) → IV Sent. crossref; `ibid. q. 1` → q. 2 (p. 178 n. 2); `Seq. locus ibid. c. 7` → Matt. 12:50 (p. 178 n. 3).
+  **(f) Gutters** 175 **1169** · 176 **1356** (default 1361 on 48 px on the right sub-band — midpoint adopted) · 177 **1166** · 178 **1418** · 179 **1201**.
 
 ### Vol V mechanics
 

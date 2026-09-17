@@ -1,5 +1,22 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **`bon-qpe-q3-a3` IS LANDED (`fff13b9`). NEXT FRONT = `bon-qpe-q4-a1` (p. 179 → ~183, raw from ~L35703) — ONE AGENT, THE NORMAL CADENCE.**
+> Q. III Art. III *De sanctimonia virginali*, **pp. 175–179** (measured), Tier 2 (2026-09-17). **40 entries (9/12/6/9/4), zero `[?]`.** Closes Quaestio III.
+> Opens mid-leaf on p. 175 (nn. 2–10). 12 fundamenta (auctoritas 1 / exemplum 5 / ratio 6), `Sᴇᴅ ᴄᴏɴᴛʀᴀ` 11, `CONCLUSIO`, `Rᴇsᴘᴏɴᴅᴇᴏ`, *Concedendum*, fundamenta conceded,
+> **eleven replies answering the `Sᴇᴅ ᴄᴏɴᴛʀᴀ`** (lemmata checked; score: q1 Contra, q2-a1 Sed contra, q2-a2/a3 opening, q3-a1 Contra, q3-a2 Sed contra, q3-a3 Sed contra).
+> ✅ PREDICTION MEASURED: **reply 11 exists** and is the matter p. 174 n. 4 points to (*consummationem civitatis supernae*).
+> ⭐ **Boundary 7 (p. 179) MEASURED: SHARED LEAF, split 4/5.** Replies 8–11 fill the upper blocks (nn. 1–4); then full measure `QUAESTIO IV.` + subtitle ***De obedientia.***
+> (UNANCHORED) + a two-column opener *Postquam quaesitum est de humilitate … tria possunt quaeri. Primum … Secundum … Tertium …* (unanchored), then `ARTICULUS I.` + subtitle
+> *Utrum sit consonum iuri naturali, quod homo obediendo subiaceat alteri.* (UNANCHORED). **`q4-a1` opens at `QUAESTIO IV.` (takes heading + opener, as `q2-a1`/`q3-a1` did)
+> and owns p. 179 nn. 5–9** (*primum*⁵ = Art. I's textual note *Hic articulus sumtus est ex codd. A D.*, *honorandos*⁶, *naturae*⁷, *sexto*⁸, *Dei*⁹), no runover in;
+> **p. 179 n. 6 runs over the gutter** (left block → head of right block) — `q4-a1` logs it. `KNOWN_TOTALS[179]=9`, nn. 5–9 PENDING. ⚠ **Registry: DIVISION 4 NOT PRESENT —
+> `q4-a1` adds it** (`build-content.mjs` ~L431, as `q3-a1` added 3). Gutter p. 179: 1201 over Art. III's rows, **1192 over Q. IV's body** — use the region.
+> ⚠ Inbound `bon-itin-c1` `supra pag. 179, nota 9` (Augustine's *ordo* definition) is **q4-a1's note** but resolves to `q3-a3` today — re-read that line after the build.
+> Also wrong and now `chunk`: `bon-hex-c9` `(tom. 12. pag. 178)` = Surius, not our p. 178 (gate artefact).
+> Register: ***puritas* → "pureness" at all 4 sites (FORCED)**; p. 179 reply 8 sets *puritas*, *munditia* (cleanness ×3) and *pudicitia coniugalis* in one sentence — the
+> WORK-CLOSE gate rules the triple. **No *vacare*; no tr- note; ruling 5 not met.** Two gutter runovers (p. 175 n. 5, p. 177 n. 3). Gutters 1169/1356/1166/1418/1201
+> (p. 176's default sat on a sub-band). QA 201, build 2110. Plates 175–179 on disk. Committed locally, **not pushed, not deployed.** ⚠ **Never `git stash` in this repo.**
+
 > # ▶▶▶ START HERE — **`bon-qpe-q3-a2` IS LANDED (`af31948`). NEXT FRONT = `bon-qpe-q3-a3` (p. 175 → ~179, raw from ~L35099) — ONE AGENT, THE NORMAL CADENCE.**
 > Q. III Art. II *De continentia viduali servanda et vovenda*, **pp. 171–175** (measured), Tier 2 (2026-09-17). **35 entries (5/13/8/8/1), zero `[?]`.**
 > Opens mid-leaf on p. 171 (nn. 4–8). 10 fundamenta, `Sᴇᴅ ᴄᴏɴᴛʀᴀ` 9, `CONCLUSIO`, `Rᴇsᴘᴏɴᴅᴇᴏ`, `Epilogus`, fundamenta conceded,
