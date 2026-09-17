@@ -430,6 +430,7 @@ const WORKS = {
     divisions: {
       1: "Quaestio I: De humilitate quoad actum ipsius, utrum scilicet christianae perfectionis sit se ipsum vilificare pro Christo",
       2: "Quaestio II: De paupertate",
+      3: "Quaestio III: De continentia",
     },
   },
   // Future Vol V works claim book ids here as their mini-pilots run:

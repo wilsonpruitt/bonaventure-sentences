@@ -440,6 +440,15 @@ KNOWN_TOTALS = {
     164: 8,  # Gutter 1339.
     165: 7,  # Articulus closes. n.5 RUNS OVER THE GUTTER. Gutter 1143 (default 4 px).
              # BOUNDARY 4 (p.166) is a LEAF EDGE, 0/10: QUAESTIO III at its head.
+    # bon-qpe-q3-a1 (Q. III Art. I, De pudicitia coniugali), pp. 166-171, 2026-09-17.
+    166: 10, # QUAESTIO III + opener (n.1 at agere) + ARTICULUS I. Gutter 1373.
+    167: 14, # CONTRA series + CONCLUSIO + Respondeo. Gutter 1158.
+    168: 14, # n.12 = ruling 5 (fundam. 3). Gutter 1443.
+    169: 8,  # Replies begin (answer the CONTRA series). Gutter 1155.
+    170: 6,  # n.3 RUNS OVER THE GUTTER. Gutter 1377.
+    171: 8,  # BOUNDARY 5 SHARED LEAF, split 3/5: Art. I closes mid-leaf (nn.1-3);
+             # ARTICULUS II (unanchored subtitle + opener) owns nn.4-8 -- PENDING
+             # until bon-qpe-q3-a2 lands. Gutter 1155.
     205: 8,
     206: 11,
     207: 8,
