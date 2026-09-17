@@ -1,5 +1,20 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **`bon-qpe-q3-a2` IS LANDED (`af31948`). NEXT FRONT = `bon-qpe-q3-a3` (p. 175 → ~179, raw from ~L35099) — ONE AGENT, THE NORMAL CADENCE.**
+> Q. III Art. II *De continentia viduali servanda et vovenda*, **pp. 171–175** (measured), Tier 2 (2026-09-17). **35 entries (5/13/8/8/1), zero `[?]`.**
+> Opens mid-leaf on p. 171 (nn. 4–8). 10 fundamenta, `Sᴇᴅ ᴄᴏɴᴛʀᴀ` 9, `CONCLUSIO`, `Rᴇsᴘᴏɴᴅᴇᴏ`, `Epilogus`, fundamenta conceded,
+> **nine replies answering the `Sᴇᴅ ᴄᴏɴᴛʀᴀ`** (lemmata checked; score: q1 Contra, q2-a1 Sed contra, q2-a2/a3 opening, q3-a1 Contra, q3-a2 Sed contra).
+> ⭐ **Boundary 6 (p. 175) MEASURED: SHARED LEAF, split 1/9.** Reply 9 heads both columns and closes (*apparebit*¹); `ARTICULUS III.` full measure,
+> subtitle ***De sanctimonia virginali.*** (UNANCHORED), unanchored opener *Tertio quaeritur de sanctimonia virginali*. **`q3-a3` opens at that heading and
+> owns p. 175 nn. 2–10** (*septimo*², *abstulit*³, *Hieronymus*⁴, *Scripturae*⁵, *quarto*⁶, *Hieronymum*⁷, *bonum*⁸, *impermixtus*⁹, *requiritur*¹⁰), no runover in;
+> **p. 175 n. 5 runs over the gutter** (left block 1–5 → head of right block) — `q3-a3` logs it. `KNOWN_TOTALS[175]=10`, nn. 2–10 PENDING. Gutter 1169.
+> ⛔ **REGISTER COLLISION ARRIVES IN `q3-a3`: *puritas* twice on p. 175** (arg. 10 *honestas et puritas*, arg. 12 *maxima puritas*). "Purity" = *pudicitia*;
+> `q3-a2` spent "cleanness" on *munditia* (p. 173, once, FORCED). Candidate "pureness"; record as forced for the WORK-CLOSE gate, which should rule
+> the *pudicitia / munditia / puritas* triple together. **No *vacare*; no tr- note.** Ruling 5 once (p. 174 n. 4, EXTERNAL II Sent. d. 9 q. 5 fundam. 3).
+> PREDICTION, not finding: p. 174 n. 4 cites *infra a. 3. solut. ad 11.*, so Art. III should have a reply 11 — measure it. One gutter runover (p. 174 n. 4). Gutters 1155/1381/1173/1364/1169 (p. 172's
+> default sat on a sub-band, 14 px run). Inbound `bon-hex-c5` (pag. 174 nota 3) now resolves here — right. QA 201, build 2109. Plates 166–175 on disk.
+> Committed locally, **not pushed, not deployed.** ⚠ **Never `git stash` in this repo.**
+
 > # ▶▶▶ START HERE — **`bon-qpe-q3-a1` IS LANDED (`758a2be`). NEXT FRONT = `bon-qpe-q3-a2` (p. 171 → ~175, raw from ~L34525) — ONE AGENT, THE NORMAL CADENCE.**
 > Q. III Art. I *De pudicitia coniugali*, **pp. 166–171** (measured), Tier 2 (2026-09-17). **55 entries (10/14/14/8/6/3), zero `[?]`.**
 > Carries `QUAESTIO III.` *De continentia* + opener (n. 1 at *agere*) from p. 166's head. 13 fundamenta, `Cᴏɴᴛʀᴀ` 15, `CONCLUSIO`, `Rᴇsᴘᴏɴᴅᴇᴏ`,

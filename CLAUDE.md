@@ -2610,6 +2610,25 @@ until Wilson rules on the two items marked ⛔ below — do not dispatch `q2-a2`
   slip transcribed as printed. Resolver artefacts: `II. Sent. pag. 671` → `tom5` forward; `ibid. a. 2` after a d. 26 → d. 31 chain misattached;
   `II. Sent. d. 30. seq. et IV. d. 31.` → II:d31. Inbound `bon-brev-p3-c6` / `bon-red` now resolve here, both right.
   **(e) Gutters** 166 **1373** · 167 **1158** · 168 **1443** · 169 **1155** · 170 **1377** · 171 **1155** — defaults within 5 px on every body leaf.
+- **✅ `bon-qpe-q3-a2` IS BUILT (pp. 171–175, 35 entries, zero `[?]`, 2026-09-17).** Transferable findings only:
+  **(a) ⭐⭐ BOUNDARY 6 (p. 175) IS A SHARED LEAF, split 1/9** — the second consecutive mid-leaf articulus break. Reply 9 heads both columns and
+  closes with n. 1 (*apparebit*); `ARTICULUS III.` full measure, subtitle *De sanctimonia virginali* UNANCHORED, opener unanchored; nn. 2–10 are
+  Art. III's, **n. 5 runs over the gutter** (Art. III's to log). Extracted alone and read first (the standing order, paying again). Hand-off p. 171
+  (3/5) re-derived and right in every particular.
+  **(b) Replies answer the `Sᴇᴅ ᴄᴏɴᴛʀᴀ`** (9 for 9 against 10 fundamenta); an *Epilogus* and *Concedendum est igitur* concede the fundamenta before
+  the replies. Score: `q1` Contra, `q2-a1` Sed contra, `q2-a2`/`a3` opening, `q3-a1` Contra, `q3-a2` Sed contra — still no pattern; the reply COUNT
+  matching one series is the fastest first test, the lemmata the proof.
+  **(c) ⭐ THE Q. III REGISTER COLLIDES, AS PREDICTED: *munditia* → "cleanness"** (p. 173, once, FORCED — "purity" is *pudicitia*'s). **And *puritas*
+  appears twice in Art. III's arguments on p. 175** — `q3-a3` needs a third word ("pureness" the named candidate); the WORK-CLOSE gate should rule
+  *pudicitia / munditia / puritas* as one triple. Also new and kept apart: *commodum* → the advantageous, *iucundum/iucunditas* → the joyful/joyfulness
+  (the Epilogus's *honesti / commodi / iucundi* against the *Respondeo*'s *honestum / conferens / delectabile*); *dictamen naturale* → "the dictate of nature".
+  **(d) No *vacare*, no tr- note. Ruling 5 once, EXTERNAL** (p. 174 n. 4 `II. Sent. d. 9. q. 5. fundam. 3` → "*fundamentum* 3"). *Patri luminum* in
+  Augustine → "Father of lights" (Douay, as `bon-don-c1`). p. 174 n. 3's Greek (τὸ πάθος ἐγκεχρωσμένον τῷ βίῳ) is garbage in the raw — plate only.
+  p. 174 n. 4 prints an editors' `[? A terrenae]` — transcribed, not our flag. Raw misnumbers reply 5 as `3.` and p. 173 as `178`.
+  **(e) Resolver artefacts for the gate:** a Scripture `ibid. v. 35` inherits a preceding `IV. Sent.` crossref (p. 173 n. 1); `ibid. c. 8` after an
+  Aristotle locus inherits the preceding `pag. 167` (p. 174 n. 3); `quaest. praeced.` / `art. praeced.` / `infra a. 3. solut. ad 11.` not parsed.
+  Inbound `bon-hex-c5` `supra pag. 174, nota 3` now resolves here and is right. **(f) Gutters** 171 **1155** · 172 **1381** (default 1371 on a
+  14 px run on the left sub-band — midpoint adopted) · 173 **1173** · 174 **1364** · 175 **1169**.
 
 ### Vol V mechanics
 
