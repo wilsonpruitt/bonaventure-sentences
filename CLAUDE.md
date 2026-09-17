@@ -278,7 +278,7 @@ Vols V–X (2026-07-28).**
 | 1 | Prolegomena | I–XL+ | — | — | NOT chunked (editorial apparatus, like INDEX QUAESTIONUM) |
 | 2 | QD de scientia Christi | **3–43** | `scientia-christi` | 8 | **COMPLETE 2026-09-05 — all 7 quaestiones Tier 2; shakedown + work-close gates CLOSED, pushed and DEPLOYED (verified live).** Mini-pilot frozen 2026-08-31 (7 quaestiones, no articuli, no scholia; p. 1 half-title covers all THREE QD, p. 2 blank 0.0013 %, p. 44 blank 0.0008 %, **no `EXPLICIUNT` colophon**). |
 | 3 | QD de mysterio Trinitatis | **45–115** | `mysterio-trinitatis` | 9 | **ACTIVE — mini-pilot FROZEN 2026-09-05** (§ MYSTERIO TRINITATIS below). **8 quaestiones / 14 articuli / Q. VIII undivided → FIFTEEN chunks, one per articulus**; no half-title (p. 44 blank 0.0007 %), no scholia, no Summarium, **no colophon** (ends p. 115, p. 116 blank). **ALL 15 built (pp. 45–115); shakedown gate CLOSED at p. 68, zero defects. Next = the WORK-CLOSE gate at p. 115.** |
-| 4 | QD de perfectione evangelica | **117–198** | `perfectione-evangelica` | 10 | **MINI-PILOT RUN 2026-09-15, NOT YET FROZEN — two rulings owed Wilson** (§ PERFECTIONE EVANGELICA below; evidence `manual-review/perfectione-evangelica-pilot-scouting.md`). No half-title (confirmed); body 117–198, ends on p. 198 with NO colophon, p. 199 = Breviloquium half-title. **10 chunks, one per articulus** (Q. I undivided). |
+| 4 | QD de perfectione evangelica | **117–198** | `perfectione-evangelica` | 10 | **COMPLETE 2026-09-17 — all TEN chunks Tier 2, pp. 117–198, zero `[?]` in every one; work-close gate at p. 198 is the front. Mini-pilot run 2026-09-15** (§ PERFECTIONE EVANGELICA below; evidence `manual-review/perfectione-evangelica-pilot-scouting.md`). No half-title (confirmed); body 117–198, ends on p. 198 with NO colophon, p. 199 = Breviloquium half-title. **10 chunks, one per articulus** (Q. I undivided). |
 | 5 | **Breviloquium** | 199–291 | `breviloquium` | 5 | **COMPLETE — gated + deployed 2026-08-01** |
 | 6 | **Itinerarium mentis in Deum** | 293–316 | `itinerarium` | 6 | **COMPLETE 2026-08-14 — all 10 chunks Tier 2; work-close gate + deploy due** |
 | 7 | **De reductione artium** | 319–325 | `de-reductione` | 7 | **COMPLETE 2026-08-14** |
@@ -2422,8 +2422,9 @@ plate**; a blankness number is a screen, the plate is the evidence.
 
 *Quaestiones disputatae de perfectione evangelica*, work 4, book id 10, slug
 `perfectione-evangelica`, id prefix **`bon-qpe-`**. English title: **"Disputed Questions on
-Evangelical Perfection."** **Body pp. 117–198 (82 pp), raw L26470 → ~L38640.** ⛔ **NOT FROZEN
-until Wilson rules on the two items marked ⛔ below — do not dispatch `q2-a2` before then.**
+Evangelical Perfection."** **Body pp. 117–198 (82 pp), raw L26470 → L38635 (measured at the close).**
+✅✅✅ **THE WORK IS COMPLETE (2026-09-17): all TEN chunks Tier 2, zero `[?]` in every one. The front is
+the WORK-CLOSE GATE at p. 198** — its full carry-list is the START HERE block in `next-session-resume.md`.
 
 - **Structure (plate-verified):** no half-title; p. 117 display heading + ornament + proemium
   (**anchored**, n. 1 = the work's textual note: codex **E** chiefly, with D and I); no scholia,
@@ -2433,7 +2434,7 @@ until Wilson rules on the two items marked ⛔ below — do not dispatch `q2-a2`
   printed.
 - **TEN CHUNKS:** `bon-qpe-q1` (117–124, **measured**) · `q2-a1` 124–134 · `q2-a2` 134–155 (**measured**) ·
   `q2-a3` 156–165 (**measured**) · `q3-a1` 166–171 · `q3-a2` 171–175 · `q3-a3` 175–179 · `q4-a1` 179–183 ·
-  `q4-a2` 183–189 · `q4-a3` 189–198 (end **measured**). Interior ends are index-derived and
+  `q4-a2` 183–189 (**measured**) · `q4-a3` 189–198 (**measured**, both ends). **All ten spans are now measured.** Interior ends were index-derived and
   provisional; raw bands in the scouting doc are the reliable half. The unit is settled by the
   corpus's own citations into the work (4 of 5 name `q. N. a. M.`).
 - **Boundary 1 (p. 124) MEASURED: body-only forward, split 5/0** (Q. II heading + opener on 124,
@@ -2501,8 +2502,9 @@ until Wilson rules on the two items marked ⛔ below — do not dispatch `q2-a2`
   occur (23/30), so they cannot share "chastity" · *vilificare se* ≠ *humiliare* (open, settle at
   `q1`) · *votum* → vow · *praelatus* → prelate · *opera manualia* → manual labour. Table in the
   scouting doc.
-- **p. 198 n. 3 is an 1890s editorial dissertation on papal primacy/infallibility** — rendered
-  literally and in full as Quaracchi's text of its date.
+- ⛔ **CORRECTED AT `q4-a3` (2026-09-17): the 1890s editorial dissertation on papal primacy/infallibility
+  is NOT p. 198 n. 3** (which is three lines long). It is **UNNUMBERED**, and is rendered literally and in
+  full under the frozen closing-note label `p198-nota`. See the `q4-a3` bullet.
 - **Registry (when `q1` lands):** `WORKS` entry (book 10) + add the slug to the
   `mysterio-trinitatis` branch of `buildWorkChunkTitle` (`Quaest. 1` for undivided Q. I). ✅ Done with `q1`.
 - **✅ `bon-qpe-q1` IS BUILT (pp. 117–124, 69 entries, zero `[?]`, 2026-09-15).** Transferable findings only:
@@ -2682,6 +2684,32 @@ until Wilson rules on the two items marked ⛔ below — do not dispatch `q2-a2`
   **(f) Inbound:** ⭐ `bon-brev-p4-c1` `pag. 183, nota 3` (Anselm) went from a false `chunk` on `q4-a1` to **`page-multi` q4-a1+q4-a2** — right chunk in the set, owner unpicked, exactly as `q4-a1` predicted; `bon-brev-p3-c1`
   (p. 188 n. 6), `bon-brev-p5-c9` (p. 186 n. 1) and `bon-praec-c1` (p. 187 n. 2) land here and are RIGHT; ⚠ `bon-qsc-q4`'s two bare `pag. 186` lines are the tome-inheritance artefact and are WRONG. Own: 49 records,
   zero dangling, zero unresolvable, zero QA flags of ours; QA 201 unchanged. Unparsed: `supra q. 2. a. 3. ad 12.` (verbal back-reference) and the Benedictine `In regula c. 68`.
+- **✅✅✅ `bon-qpe-q4-a3` IS BUILT (pp. 189–198, 77 entries, zero `[?]`, 2026-09-17) — THE WORK'S LAST CHUNK; THE *DE PERFECTIONE EVANGELICA* IS COMPLETE (pp. 117–198).** Transferable findings only:
+  **(a) ⭐⭐⭐ THE WORK ENDS ON p. 198 UNDER AN ORNAMENT WITH NO COLOPHON, AND p. 199 IS THE BREVILOQUIUM HALF-TITLE — RE-VERIFIED ON THE PLATE BEFORE THE SPAN WAS PULLED.** Reply 16 closes at ~⅓ of the leaf, register to ~68 %,
+  ornamental squiggle rule, rest white. Fixed POSITIVELY from p. 199, never from white space — the frozen rule observed at the one place in the work where breaking it would have been irrecoverable. p. 198's running head is a
+  **fifth, shorter variant** (`QUAEST. DISP. DE PERFECT. EVANG. Q. IV. A. III.`), as printed.
+  **(b) ⛔⛔ THE MINI-PILOT'S "p. 198 n. 3 is the 1890s dissertation" WAS WRONG IN ITS LABEL, AND THE CONTENT CLAIM WAS EXACT.** n. 3 is three lines (*Respicitur Ioan. 10, 16, et superius Matth. 18, 10, una cum Cant. 3, 11.*),
+  answering reply 16's *ad ovile summi Pastoris*³. The dissertation begins **below it as a fresh indented paragraph carrying NO superscript** (read at 4× against n. 3's clear ³), fills the rest of the left block and closes at
+  the head of the right. It is therefore the frozen `bon-sent-II-proem` class and is rendered under **`p198-nota`, anchored after the body's final word in BOTH languages**, literally and in full. ▶ **A planning note that names
+  an entry by its NUMBER has not measured the number** — the pilot read the leaf's last numeral and inferred the label. ⚠ `polish-style-scan.py` was extended to exempt `p<page>-nota` from V5LABEL exactly as it already exempts
+  `tr-`; `check-vol5-apparatus.py` needs nothing (its ownership scan keys on numerals, so the nota is counted as an entry and owns no footer number). **`KNOWN_TOTALS[198] = 3`, not 4.**
+  **(c) ⭐ THE REPLIES ANSWER THE `Sᴇᴅ ᴄᴏɴᴛʀᴀ`, 16 for 16, with the COUNT TEST DECISIVE** (24 fundamenta against 16) **and the lemmata agreeing.** ⚠ The run-head marginalia swap BACK — `Fundamenta.` on the opening series and
+  `Ad oppositum.` on the `Sed contra`, the mirror of `q4-a2` and the same as `q4-a1`: **three consecutive articuli of one quaestio, labels alternating.** **FINAL SCORE FOR THE WORK: q1 Contra · q2-a1 Sed contra · q2-a2/a3 opening ·
+  q3-a1 Contra · q3-a2/a3 Sed contra · q4-a1 Sed contra · q4-a2 opening · q4-a3 Sed contra — ten chunks, NO PATTERN, and the work closes without one. Keep checking lemmata in Vols VI–X.**
+  **(d) ⭐ THE *replicatio* FORECAST CHECK PAID A SECOND TIME AND CAME BACK EMPTY** — p. 192 n. 3's *supra Quaest. de Paupert. pag. 155, in fine replicationis* points BACKWARD at `q2-a2`'s own unit; nothing stands between reply 16
+  and the ornament. **A negative measurement is what licenses a work-close gate to treat the corpus as complete.**
+  **(e) ⭐ FORCED: *ius canonicum* → "canon right", because the Epilogus builds the *ius*/*lex* figure deliberately** — p. 195 sets *legi naturae et legi scriptae* against *iuri pontificio et iuri canonico* in one four-member chain,
+  so `q4-a1`'s *ius*→right / *lex*→law ruling cannot be relaxed for the phrase that has a fixed English name. Cost conspicuous (opener, transition, Epilogus). STRAINED: ***Antistes* → "Prelate"** (Conclusio, once; *praelatus* absent
+  there). ***dominium* and *proprietas* do not occur**, so `q4-a1`'s strained *dominium potentiae* site closes the work with NO second witness. Ruling 5 met **twice**, both inside `p198-nota`, both quoted. **Ruling 2 met on BOTH
+  sides in one sentence** (p. 195 Cyprian: *multi radii… sed unum* **lumen** against *Ecclesia Dei* **luce** *perfusa*) — one bare "lumen" in ten printed pages; record it. *intellect-* ZERO on the span; `vaca`/`quie`/*otium* ZERO.
+  **(f) ⚠ GUTTERS: one loud failure and one skew leaf.** p. 195's default was **1137 on a 13 px run**, sitting on the LEFT sub-band alone (1125–1145) of a rule peaking 696 — true band 1125–1179, midpoint **1152**, 15 px out.
+  p. 196 is **SKEW, 17 px** (slices 1371–1432 head, 1388–1451 foot), so its whole-body default 1418 is the FOOT's value; one split suffices → **1410**. Others 189 **1162** · 190 **1345** · 191 **1170** · 192 **1347** · 193 **1106** ·
+  194 **1410** · 197 **1165** · 198 **1350**. **Seven runovers, all gutter-crossing** (incl. **`p.198 nota:gutter`, the first non-numeric ledger label in Vol V**), **zero page-crossing**; ⚠ p. 196 does NOT forward.
+  **(g) ⭐⭐ AT A WORK'S LAST CHUNK THE INBOUND CHANGES ALL RUN ONE WAY: `forward` → `chunk`.** Three records changed and **all three are right**, all citing p. 195 n. 7 (`bon-brev-p5-c5`, `bon-brev-p6-c12`, `bon-hex-c22`); the
+  Hexaemeron one names *in fine* and the end of that note IS Ambrose applying the ark's summit to the human head, which is exactly what a note on *De partibus animalium* wants. Own: 89 records, zero dangling/unresolvable/ambiguous,
+  zero QA flags of ours; QA 201 unchanged, build **2113**. ⭐ **`p198-nota` is itself a citation source and eight of its loci resolve.** ⚠ New resolver class for the gate: **a NAMED-WORK reference to a chunk we hold is not parsed**
+  (*Breviloquium p. VI. c. 10. et c. 12*, *Hexaëmeron sermo 22* → `bon-brev-p6-c10/c12`, `bon-hex-c22`, all deployed, all silent). ⭐ Negative result: Gratian's `Dist. 21.`/`Dist. 22.` and sixteen `C. <incipit> (N.)` canons
+  produced **no false Sentences crossrefs** — the one place this work's canon-law density could have manufactured them.
 
 ### Vol V mechanics
 

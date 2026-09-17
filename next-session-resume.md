@@ -1,5 +1,61 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **`bon-qpe-q4-a3` IS LANDED (`344355b`). THE *DE PERFECTIONE EVANGELICA* IS COMPLETE (pp. 117–198). NEXT FRONT = its WORK-CLOSE GATE at p. 198.**
+> Q. IV Art. III *De obedientia summo Pontifici debita*, **pp. 189–198** (measured), Tier 2 (2026-09-17). **77 entries (5/8/6/13/7/10/8/10/6/4), zero `[?]`.**
+> Opens mid-leaf on p. 189 at `ARTICULUS III.` (subtitle UNANCHORED, **opener ANCHORED** at n. 2 = the article's textual note, *codd. D E*). **24 fundamenta under four declared heads**
+> (*vetus testamentum* 1–3 · *novum* 4–11 · *ius canonicum* 12–14 · *evidentia rationum* 15–24), `Sᴇᴅ ᴄᴏɴᴛʀᴀ:` **16**, `CONCLUSIO`, `Rᴇsᴘᴏɴᴅᴇᴏ` in **three rationes** (the threefold order of universal
+> justice; the unity of the Church; the solidity of both), an `Epilogus.` conceding the fundamenta, then **16 replies in 14 paragraphs ANSWERING THE `Sᴇᴅ ᴄᴏɴᴛʀᴀ`** — count test DECISIVE
+> (24 vs 16) and the lemmata agree. **Final score: q1 Contra · q2-a1 Sed contra · q2-a2/a3 opening · q3-a1 Contra · q3-a2/a3 Sed contra · q4-a1 Sed contra · q4-a2 opening · q4-a3 Sed contra —
+> ten chunks, NO PATTERN, and the work closes without one.** ⚠ The run-head marginalia swap back (`Fundamenta.` on the opening series, `Ad oppositum.` on the `Sed contra`) — three articuli of
+> one quaestio, labels alternating. ✅ Forecast MEASURED a second time: no note forecasts a post-reply unit (p. 192 n. 3's *pag. 155, in fine replicationis* points BACKWARD at `q2-a2`'s).
+> ⭐⭐ **THE WORK ENDS ON p. 198 — RE-VERIFIED ON THE PLATE BEFORE ANYTHING ELSE WAS BUILT.** Reply 16 closes at ~⅓ of the leaf, register to ~68 %, an **ornamental squiggle rule** beneath, rest white;
+> **NO colophon**; **p. 199 is the Breviloquium half-title** (gathering signature `26`). The end is fixed POSITIVELY from p. 199, never from white space. p. 198's running head is a FIFTH, shorter variant.
+> ⛔⛔ **THE MINI-PILOT'S "p. 198 n. 3 is the 1890s dissertation" IS WRONG IN ITS LABEL.** n. 3 is three lines (*Respicitur Ioan. 10, 16…*). The dissertation is **UNNUMBERED**, begins below n. 3 as a fresh
+> indented paragraph with no superscript (read at 4×), fills the rest of the left block and closes at the head of the right — i.e. the frozen `bon-sent-II-proem` class, rendered under the label
+> **`p198-nota`, anchored after the body's final word in BOTH languages**, literally and IN FULL (Bonaventure's 14 other loci · *obiter* in the 13th c. · the western schism · *Pastor aeternus* c. 1–4
+> mapped onto this article's own replies and fundamenta · Petrus Ioannis Olivi). ▶ **A planning note that names an entry by its NUMBER has not measured the number.**
+> `polish-style-scan.py` now exempts `p<page>-nota` as it already exempts `tr-`. Register: **FORCED *ius canonicum* → "canon right"** (the Epilogus sets *legi naturae*/*legi scriptae* against
+> *iuri pontificio*/*iuri canonico* — flattening it would kill the figure; cost conspicuous); **STRAINED *Antistes* → "Prelate"** (Conclusio, once; *praelatus* absent there). *dominium* and *proprietas*
+> do not occur. Ruling 5 met **TWICE**, both in `p198-nota`, both quoted (*fundamentum* 3 external, *fundamenta* 12–14, 23 internal). **Ruling 2 met on BOTH sides in one sentence** (p. 195 Cyprian:
+> *unum* **lumen** vs *Ecclesia Dei* **luce** *perfusa*) — one bare "lumen" in ten pages, recorded so it is not read as a lapse. *intellectus* ZERO on the span; *vacare*/*quies*/*otium* ZERO → **no tr- note.**
+> Runovers: **seven, ALL gutter-crossing** (p. 190 n. 5, p. 191 n. 2, p. 192 n. 8, p. 194 n. 8, p. 195 n. 5, p. 197 n. 4, **p. 198 nota** — the first non-numeric ledger label in Vol V); **zero page-crossing**,
+> established by reading every incoming register head. ⚠ **p. 196 does NOT forward** (its left block closes complete at n. 5). Gutters 1162|1345|1170|1347|1106|1410|**1152**|**1410**|1165|1350 —
+> ⚠ p. 195's default was **1137 on a 13 px run**, sitting on the LEFT sub-band alone of a rule peaking 696 (15 px out); ⚠ **p. 196 is a SKEW leaf, 17 px**, and its default 1418 is the FOOT's value.
+> Citations: 89 own records, ZERO dangling/unresolvable/ambiguous, **zero QA flags of ours**; QA 201 unchanged, build **2113**. ⭐ **Three inbound records changed and ALL THREE ARE RIGHT**, all moving
+> `forward` → `chunk` (`bon-brev-p5-c5`, `bon-brev-p6-c12`, `bon-hex-c22`, all citing p. 195 n. 7; the Hexaemeron one names *in fine* and the end of that note IS Ambrose on the human head). Committed
+> locally, **not pushed, not deployed.** ⚠ **Never `git stash` in this repo.**
+>
+> ### ▶ THE WORK-CLOSE GATE — EVERY ITEM PRIOR CHUNKS CARRIED TO IT (p. 198, ~82 printed pp., ONE gate; Wilson declined the shakedown 2026-09-15)
+> **Register rulings owed (Wilson's):**
+> 1. ⭐ ***pudicitia* / *munditia* / *puritas* AS ONE TRIPLE**, plus **I Tim. 1:5 *de corde puro*** left in Douay ("pure heart"). As applied: purity / cleanness / **pureness** (`q3-a3`, FORCED at four sites);
+>    `q3-a2`'s *munditia* → "cleanness" was forced because "purity" is *pudicitia*'s. The proof sentence is `q3-a3` p. 179 reply 8 (*ratione tamen puritatis et munditiae maior est in virginitate*).
+> 2. ***dominium* → ownership vs lordship** (`q2-a1` recommended ownership on reply 3's *usum… non dominium*) — ⚠ **`q4-a1`'s *dominium potentiae seu praesidentiae* is the one site where it plainly means
+>    political RULE, and it gained NO second witness**: *dominium* does not occur in `q4-a2` or `q4-a3`.
+> 3. ***ius* → "right" vs *lex* → "law"** (`q4-a1`, FORCED and interleaved) — **now extended by `q4-a3` to *ius canonicum* → "canon right"**, on the Epilogus's four-member chain. The heaviest-cost item.
+> 4. ***necessitas tentionis* → "necessity of holding"** (`q4-a2` reply 1, against *necessitas coactionis*; the printed word is *tentionis*, read at 2.5×).
+> 5. ***ordo dignativus* → "the order of deigning"** (`q4-a2`, strained, the word is rare).
+> 6. **"conjugal continence" kept where printed** against reply 15's *magis proprie coniugalis pudicitia* (`q3-a1`).
+> 7. ***Antistes* → "Prelate"** (`q4-a3` Conclusio, once) — colliding with *praelatus* → "prelate", invisible at that one site.
+> **Textual dispositions owed:**
+> 8. ⛔ **The pp. 155–156 ADDITAMENTUM** (p. 155 n. 8's nine authorities judged *non genuinum* and relegated *ad calcem*): measured by `q2-a2` as opening below p. 155's register and continuing in p. 156's
+>    LEFT block, and **corrected by `q2-a3` — it does NOT break off: it continues at the head of p. 156's RIGHT block and closes there.** NOT transcribed by either chunk. **The gate settles it.**
+> 9. **The p. 131 *ab [ip]so* restoration** (`q2-a1`, a failing impression restored by measurement — flanking 77–103 vs line 46–59, no ghost; borderline).
+> **Resolver artefacts (QA lines, NOT edits) — the work's full list:**
+> 10. **Cross-note `ibid.` anaphora**, six sites: `q1` p. 119 nn. 1–2 · `q3-a2` p. 173 n. 1 (a Scripture *ibid.* inheriting a `IV. Sent.` crossref) and p. 174 n. 3 · `q4-a1` p. 179 n. 6, p. 181 n. 4,
+>     p. 182 n. 2 · `q4-a3` p. 191 n. 2 (a canon *ibid.*) and p. 193 n. 1 (a Scripture *ibid.*).
+> 11. **Verbal back-references not parsed:** `supra q. 1.` (`q2-a1`), `supra q. 2. a. 3. ad 12.` (`q4-a2`), `quaest. praeced.` / `art. praeced.` / `infra a. 3. solut. ad 11.` (`q3-a2`),
+>     `loc. cit. in praeced. nota` (`q1`), `Quaest. de mysterio Trin. q. N. a. M.` (`q1` p. 123 n. 1).
+> 12. ⭐ **NAMED-WORK references to chunks we HOLD are not parsed** (`q4-a3` p. 198's nota: *Breviloquium p. VI. c. 10. et c. 12*, *Hexaëmeron sermo 22* — `bon-brev-p6-c10`, `bon-brev-p6-c12`,
+>     `bon-hex-c22` are all built and deployed and none produces a record). **The only class where the resolver is silent about a target that certainly exists and is certainly named.**
+> 13. **Bare-`pag. N` tome-inheritance FALSE HITS, inbound:** `bon-qsc-q4` p. 25 n. 9 and p. 27 n. 1 (`pag. 186` — Fr. Eustachius / *Zeitschr. f. kath. Theol.*) · `bon-hex-c7` (`pag. 149`) ·
+>     `bon-don-c8` (`pag. 154`) · `bon-hex-c9` (`(tom. 12. pag. 178)` = Surius) · `bon-hex-c6` (`(pag. 180)` = Jourdain). **Wrong, all of them.**
+> 14. **`page-multi` right-page/owner-unpicked (correct-but-unresolved, NOT wrong):** `bon-brev-p4-c1` `pag. 183, nota 3` (Anselm) → q4-a1+q4-a2 · `bon-itin-c1` `pag. 179, nota 9` → q3-a3+q4-a1 ·
+>     `q4-a3`'s own `tom. IV. pag. 497` and `tom. II. pag. 464`. · Own oddity: `ed. Maurin. tom. 3. pag. 448` resolves into OUR p. 448 (`q2-a1`) — wrong, a Maurist page.
+> **Owed at the NEXT DEPLOY BOUNDARY (deploy-only, batch it):**
+> 15. Add the approved `tr-vacare` note to the two DEPLOYED *vacatio* sites (`bon-praec-c4`, `bon-qmt-q7-a2`), and write the *lumen* ruling's owed translator's note at the first *lumen* in
+>     `bon-qsc-q3`/`q4` and the `bon-qmt` chunks — ⭐ **and now at `bon-qpe-q4-a3` p. 195 too**, which is the work's only *lumen* site.
+> **After the gate:** push + deploy (each a hard stop, Wilson's), then the **Sermones selecti** mini-pilot (half-title p. 533, blank 534, body opens 535).
+
 > # ▶▶▶ START HERE — **`bon-qpe-q4-a2` IS LANDED (`27d1578`). NEXT FRONT = `bon-qpe-q4-a3` (p. 189 → 198, raw from ~L37199) — THE WORK'S LAST CHUNK, ONE AGENT, THE NORMAL CADENCE.**
 > Q. IV Art. II *Utrum sit consonum evangelicae perfectioni, quod unus se astringat voto ad obediendum alteri*, **pp. 183–189** (measured), Tier 2 (2026-09-17). **51 entries (7/10/10/9/6/8/1), zero `[?]`.**
 > Opens mid-leaf on p. 183 at `ARTICULUS II.` (nn. 2–8). **20 arguments *quod non*** (marginale `Ad opposi-tum.`), `Sᴇᴅ ᴄᴏɴᴛʀᴀ` with **13 *fundamenta*** (marginale `Fundamenta.` — the run-head labels sit opposite to `q4-a1`'s),
