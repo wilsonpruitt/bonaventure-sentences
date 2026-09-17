@@ -1,5 +1,22 @@
 # Bonaventure Sentences — Next Session Resume
 
+> # ▶▶▶ START HERE — **`bon-qpe-q4-a1` IS LANDED (`0f4a423`). NEXT FRONT = `bon-qpe-q4-a2` (p. 183 → ~189, raw from ~L36301) — ONE AGENT, THE NORMAL CADENCE.**
+> Q. IV Art. I *Utrum sit consonum iuri naturali, quod homo obediendo subiaceat alteri*, **pp. 179–183** (measured), Tier 2 (2026-09-17). **36 entries (5/16/7/7/1), zero `[?]`.**
+> Opens mid-leaf on p. 179 at `QUAESTIO IV.` (nn. 5–9). 10 fundamenta, `Sᴇᴅ ᴄᴏɴᴛʀᴀ` 10, `CONCLUSIO`, `Rᴇsᴘᴏɴᴅᴇᴏ`, *Unde rationes … concedendae sunt*, **replies `1. 2. 3.`, 4–10 answering the `Sᴇᴅ ᴄᴏɴᴛʀᴀ`**
+> (both series number TEN, so the count test is silent — lemmata decided; score: q1 Contra, q2-a1 Sed contra, q2-a2/a3 opening, q3-a1 Contra, q3-a2/a3 Sed contra, q4-a1 Sed contra).
+> Registry **division 4 ADDED**. Opener's *de humilitate* is right (Q. I = *De humilitate*). No note forecasts a unit after the replies (measured: nothing before Art. II).
+> ⭐ **Boundary 8 (p. 183) MEASURED: SHARED LEAF, split 1/7.** Reply 9 (tail) + reply 10 fill both upper blocks (n. 1 at *virtutis*); then full measure `ARTICULUS II.` + italic subtitle
+> *Utrum sit consonum evangelicae perfectioni, quod unus se astringat voto ad obediendum alteri.* (UNANCHORED; the opener prints *astringat se* — as printed) + two-column opener
+> *Secundo quaeritur … Et videtur, quod non.* (UNANCHORED). **`q4-a2` opens at `ARTICULUS II.` and owns p. 183 nn. 2–8** (*libertatis*², *homo*³ Anselm, *Gregorius*⁴, *leve*⁵, *se*⁶, *sexto*⁷,
+> *subiicere*⁸); no runover in; **p. 183 n. 4 runs over the gutter** — `q4-a2` logs it. `KNOWN_TOTALS[183]=8`, nn. 2–8 PENDING. Gutter p. 183: **1190 over Art. II's body** (1195 was Art. I's rows).
+> PREDICTION (not measured): the opening series argues *quod non* with marginale `Ad opposi-tum.`, so the fundamenta presumably FOLLOW it — find the reply series on the lemmata.
+> ⚠ Inbound `bon-brev-p4-c1` `supra pag. 183, nota 3` (Anselm *Cur Deus homo* I c. 5) is **q4-a2's note** but resolves to `q4-a1` today — re-read after the build.
+> Inbound `bon-itin-c1` `pag. 179, nota 9` is now `page-multi` (q3-a3+q4-a1) — right chunk in the set, owner not picked. `bon-hex-c6` `(pag. 180)` = Jourdain (artefact, now false `chunk`).
+> Register: ***ius*/*lex* both occur → "right"/"law" (FORCED, for the gate)**; ***dominium potentiae* → "ownership of power" KEPT but strained** (first site where *dominium* plainly means rule —
+> Wilson's call at the gate). No *vacare*; no tr- note. Ruling 5 once (p. 181 n. 2, external). Ps. 4:7 keeps "lumen". p. 182 n. 6 prints `Iob 24, 5` for Job 26:5 (as printed).
+> Runovers: gutter p. 179 n. 6, p. 180 n. 9, p. 181 n. 3, p. 182 n. 3; **page-crossing p. 181 n. 7 → head of p. 182**. Gutters 1192/1427/1208/1401/1195|1190 (p. 180 default sat 2 px off; midpoint).
+> QA 201, build 2111. Plates 179–183 on disk. Committed locally, **not pushed, not deployed.** ⚠ **Never `git stash` in this repo.**
+
 > # ▶▶▶ START HERE — **`bon-qpe-q3-a3` IS LANDED (`fff13b9`). NEXT FRONT = `bon-qpe-q4-a1` (p. 179 → ~183, raw from ~L35703) — ONE AGENT, THE NORMAL CADENCE.**
 > Q. III Art. III *De sanctimonia virginali*, **pp. 175–179** (measured), Tier 2 (2026-09-17). **40 entries (9/12/6/9/4), zero `[?]`.** Closes Quaestio III.
 > Opens mid-leaf on p. 175 (nn. 2–10). 12 fundamenta (auctoritas 1 / exemplum 5 / ratio 6), `Sᴇᴅ ᴄᴏɴᴛʀᴀ` 11, `CONCLUSIO`, `Rᴇsᴘᴏɴᴅᴇᴏ`, *Concedendum*, fundamenta conceded,

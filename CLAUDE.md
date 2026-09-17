@@ -2646,6 +2646,24 @@ until Wilson rules on the two items marked ⛔ below — do not dispatch `q2-a2`
   `supra pag. 179, nota 9` is the right page but **Q. IV's note** — the resolver cannot tell which chunk on a shared leaf owns note *n*; `q4-a1` re-reads it.
   Own artefacts: `loc. cit.` (p. 175 n. 4) → IV Sent. crossref; `ibid. q. 1` → q. 2 (p. 178 n. 2); `Seq. locus ibid. c. 7` → Matt. 12:50 (p. 178 n. 3).
   **(f) Gutters** 175 **1169** · 176 **1356** (default 1361 on 48 px on the right sub-band — midpoint adopted) · 177 **1166** · 178 **1418** · 179 **1201**.
+- **✅ `bon-qpe-q4-a1` IS BUILT (pp. 179–183, 36 entries, zero `[?]`, 2026-09-17) — OPENS QUAESTIO IV.** Transferable findings only:
+  **(a) ⭐⭐ BOUNDARY 8 (p. 183) IS A SHARED LEAF, split 1/7** — the fourth consecutive mid-leaf break. Reply 10 closes both upper blocks (n. 1); `ARTICULUS II.`
+  full measure, subtitle UNANCHORED (prints *se astringat* where the opener prints *astringat se* — as printed), opener unanchored; nn. 2–8 Art. II's, **n. 4 runs over
+  the gutter**. Extracted alone and read first. Hand-off p. 179 (4/5, n. 6 gutter) re-derived and right in every particular. **Registry division 4 added.**
+  **(b) Replies answer the `Sᴇᴅ ᴄᴏɴᴛʀᴀ`** (`1. 2. 3.` jointly, then 4–10). ⚠ **Both series number TEN, so the count test is SILENT here** — only the lemmata decided.
+  Score: `q1` Contra, `q2-a1` Sed contra, `q2-a2`/`a3` opening, `q3-a1` Contra, `q3-a2`/`a3` Sed contra, `q4-a1` Sed contra. The opener's *de humilitate* is exact (Q. I).
+  **(c) ⭐ FORCED — *ius* and *lex* INTERLEAVE and are kept apart: *ius naturale* → "natural right", *ius naturae* → "the right of nature", *ius gentium* → "the right of
+  nations"; *lex naturalis* → "the natural law", *lex naturae* → "the law of nature".** The article does not mark a distinction (fund. 9 argues from *legis naturae* for a
+  *ius* thesis); the English keeps the Latin visible without inventing one. ⚠ **"*dominium potentiae seu praesidentiae*" → "ownership of power or presidency" KEPT per register
+  but STRAINED** — the first site in the work where *dominium* plainly means political rule; for the WORK-CLOSE gate with `q2-a1`'s ownership/lordship item. Also: *praelatio*
+  prelacy · *subiectio* subjection · *imperare/imperium* command · *regimen* government · *gubernatio* governance · *obtemperare* comply · *dictamen* dictate · *gradus* rank ·
+  *arduum* the arduous · *servus* servant (Exod. 21:20 Douay "bondman" adjusted).
+  **(d) No *vacare* (*evacuare* is not *vacare*), no tr- note. Ruling 5 once, EXTERNAL** (p. 181 n. 2 `II. Sent. d. 44. a. 2. q. 2. fundam. 5`). **Ruling 2: Ps. 4:7 keeps "lumen"**
+  (p. 180 n. 16). p. 182 n. 6 prints `Iob 24, 5` for Job 26:5 — a Quaracchi slip, confirmed at 2.5×, transcribed as printed. p. 182's raw body is near-useless; set from the plate.
+  **(e) ⭐ ONE PAGE-CROSSING RUNOVER** (p. 181 n. 7 → head of p. 182's left block, unindented) plus four gutter runovers. **Inbound:** `bon-itin-c1` `pag. 179, nota 9` is now
+  `page-multi` (q3-a3+q4-a1 — right chunk in the set, owner unpicked); `bon-brev-p7-c6` / `bon-itin-c5` `pag. 180` right; ⚠ `bon-brev-p4-c1` `pag. 183, nota 3` → here but is
+  **`q4-a2`'s** (Anselm); `bon-hex-c6` `(pag. 180)` = Jourdain (artefact). Own artefacts: cross-note `ibid.` inherits body Scripture (p. 179 n. 6 → Deut. 17) or a preceding
+  *Sent.* crossref (p. 181 n. 4, p. 182 n. 2 → II d. 44). **(f) Gutters** 179 **1192** (Q. IV body) · 180 **1427** (default 1425; midpoint) · 181 **1208** · 182 **1401** · 183 **1195** (Art. I rows) / **1190** (Art. II).
 
 ### Vol V mechanics
 
