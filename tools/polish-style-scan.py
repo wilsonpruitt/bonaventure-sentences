@@ -186,8 +186,14 @@ def main():
             # note, so there is no page to qualify them with and no collision
             # risk (no printed page carries a note called `tr-…`). Exempt them
             # here exactly as the pairing check above already does.
+            # An UNNUMBERED editorial note standing last in a unit is anchored
+            # as a CLOSING note with the non-numeric label `[^p<page>-nota]`
+            # (Wilson's frozen ruling, 2026-08-20, at bon-sent-II-proem; first
+            # met in Vol V at bon-qpe-q4-a3 p.198). It IS page-qualified -- it
+            # simply has no numeral, because the page prints none -- so it
+            # carries the same collision guarantee and is exempt here.
             bare = sorted({d for d in def_set
-                           if not re.fullmatch(r"p\d+-\d+", d)
+                           if not re.fullmatch(r"p\d+-(\d+|nota)", d)
                            and not d.startswith("tr-")})
             if bare:
                 issues.append((name, "V5LABEL",
@@ -196,7 +202,7 @@ def main():
             # 7b. every label's page must be one the chunk claims.
             pages = set(re.findall(r"\d+", fm.get("printed_pages", "")))
             for d in sorted(def_set):
-                mm = re.fullmatch(r"p(\d+)-\d+", d)
+                mm = re.fullmatch(r"p(\d+)-(?:\d+|nota)", d)
                 if mm and pages and mm.group(1) not in pages:
                     issues.append((name, "V5PAGE",
                                    f"label [^{d}] cites p.{mm.group(1)}, not in "

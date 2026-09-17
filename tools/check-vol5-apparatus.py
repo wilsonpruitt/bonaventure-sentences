@@ -490,7 +490,25 @@ KNOWN_TOTALS = {
              # default 1376 came off a 7 px run and was rejected).
     189: 6,  # BOUNDARY 9 SHARED LEAF, split 1/5: Art. II closes mid-leaf (n.1 at gubernantis,
              # reply 18); ARTICULUS III (unanchored subtitle, ANCHORED opener) owns nn.2-6 --
-             # PENDING until bon-qpe-q4-a3 lands. Gutter 1162 over Art. III's body.
+             # LANDED with bon-qpe-q4-a3. Gutter 1162 over Art. III's body.
+    190: 8,  # Fundamenta 4 (tail)-12; n.5 RUNS OVER THE GUTTER. Gutter 1345.
+    191: 6,  # Fundamenta 12 (tail)-14; n.2 RUNS OVER THE GUTTER. Gutter 1170.
+    192: 13, # Fundamenta 15-24 + SED CONTRA 1-4; n.8 RUNS OVER THE GUTTER. Gutter 1347.
+    193: 7,  # SED CONTRA 5-16 + CONCLUSIO + Respondeo. Gutter 1106.
+    194: 10, # Respondeo (rationes 1-2); n.8 RUNS OVER THE GUTTER. Gutter 1410.
+    195: 8,  # Respondeo (ratio 3) + Epilogus + reply 1; n.5 RUNS OVER THE GUTTER. Gutter 1152
+             # (the colcrop default 1137 sat on the LEFT sub-band of a heavily inked rule,
+             # 13 px run -- rejected).
+    196: 10, # Replies 1 (tail)-8; NO runover (the left block closes complete at n.5's
+             # "eodem modo explicatur."). Gutter 1410 (17 px SKEW; the default 1418 is the
+             # foot of the leaf, not its body).
+    197: 6,  # Replies 9-13; n.4 RUNS OVER THE GUTTER. Gutter 1165.
+    198: 3,  # THE WORK'S LAST LEAF: replies 14-16, then an ornamental rule and NO colophon
+             # (p.199 = the Breviloquium half-title). THREE numbered notes; the register also
+             # carries an UNNUMBERED editorial closing note on the primacy and infallibility
+             # of the Roman Pontiff, filling the rest of both blocks -- rendered as
+             # [^p198-nota] per the frozen bon-sent-II-proem rule, and so not counted here.
+             # Gutter 1350.
     205: 8,
     206: 11,
     207: 8,
