@@ -21386,7 +21386,7 @@ bon-hex-c9	5	apparatus:p375-4	p375-4	scripture	apparatus-explicit	Luc. 1, 31	Luc
 bon-hex-c9	5	apparatus:p375-4	p375-4	scripture	apparatus-explicit	Matth. 26, 4	Matth 26:4	A	verse		
 bon-hex-c9	5	apparatus:p375-6	p375-6	scripture	apparatus-explicit	Apoc. 4, 4	Apoc 4:4	A	verse		
 bon-hex-c9	5	apparatus:p375-6	p375-6	crossref	page	supra pag. 368, nota 7	bon-hex-c7+bon-hex-c8		page-multi		
-bon-hex-c9	5	apparatus:p375-7	p375-7	crossref	page	pag. 178	tom5:p178		forward		
+bon-hex-c9	5	apparatus:p375-7	p375-7	crossref	page	pag. 178	bon-qpe-q3-a3		chunk		
 bon-hex-c9	5	apparatus:p376-1	p376-1	crossref	work	Breviloq. p. I. c. 2.	bon-brev-p1-c2		chunk		
 bon-hex-c9	5	apparatus:p376-3	p376-3	crossref	logical	II. Sent. d. 1. p. I. a. 1. q. 1.	bon-sent-II-d1-p1-a1-q1		chunk		
 bon-hex-c9	5	apparatus:p376-3	p376-3	crossref	relative-inherited	ibid.	bon-sent-II-d1-p1-a1-q1		chunk		
@@ -21479,7 +21479,7 @@ bon-itin-c1	5	apparatus:p299-5	p299-5	crossref	logical	II. Sent. d. 7. p. II. a.
 bon-itin-c1	5	apparatus:p299-5	p299-5	crossref	chain-continuation	d. 18. a. 1. q. 2.	bon-sent-II-d18-a1-q2		chunk		
 bon-itin-c1	5	apparatus:p299-6	p299-6	crossref	page	pag. 19, nota 7	bon-qsc-q4		chunk		
 bon-itin-c1	5	apparatus:p299-6	p299-6	crossref	page	supra pag. 12, nota 7	bon-qsc-q3		chunk		
-bon-itin-c1	5	apparatus:p299-7	p299-7	crossref	page	supra pag. 179, nota 9	tom5:p179		forward		
+bon-itin-c1	5	apparatus:p299-7	p299-7	crossref	page	supra pag. 179, nota 9	bon-qpe-q3-a3		chunk		
 bon-itin-c1	5	apparatus:p299-7	p299-7	crossref	work	Breviloq. p. II. c. 3.	bon-brev-p2-c3		chunk		
 bon-itin-c1	5	apparatus:p299-7	p299-7	crossref	anaphor->work	ibid.	bon-brev-p2-c3		chunk	yes	Breviloq. p. II. c. 3.
 bon-itin-c1	5	apparatus:p299-8	p299-8	scripture	apparatus-explicit	Prov. 22, 17	Prov 22:17	A	verse		
@@ -22811,6 +22811,29 @@ bon-qpe-q3-a2	5	apparatus:p174-4	p174-4	crossref	relative-inherited	ibid.	bon-se
 bon-qpe-q3-a2	5	apparatus:p174-5	p174-5	scripture	apparatus-explicit	I. Tim. 1, 5	1Tim 1:5	A	verse		
 bon-qpe-q3-a2	5	apparatus:p174-7	p174-7	crossref	logical	IV. Sent. d. 37. a. 1. q. 3.	bon-sent-IV-d37-a1-q3		chunk		
 bon-qpe-q3-a2	5	apparatus:p174-8	p174-8	scripture	apparatus-explicit	Iac. 1, 17	Iac 1:17	A	verse		
+bon-qpe-q3-a3	5	latin_body	p175-2	scripture	body-ordinal	ad Corinthios septimo	Cor* 7:38	B	verse		
+bon-qpe-q3-a3	5	latin_body	p175-6	scripture	body-ordinal	Apocalypsis decimo quarto	Apoc 14:4	B	verse		
+bon-qpe-q3-a3	5	apparatus:p175-2	p175-2	crossref	logical	IV. Sent. d. 33. a. 2. q. 1	bon-sent-IV-d33-a2-q1		chunk		
+bon-qpe-q3-a3	5	apparatus:p175-4	p175-4	crossref	anaphor->logical	loc. cit.	bon-sent-IV-d33-a2-q1		chunk	yes	IV. Sent. d. 33. a. 2. q. 1
+bon-qpe-q3-a3	5	apparatus:p175-5	p175-5	crossref	page	tom. IV. pag. 184, nota 8	bon-sent-IV-d8-p1-a2-q1		chunk		
+bon-qpe-q3-a3	5	apparatus:p175-8	p175-8	crossref	page	tom. I. pag. 40, nota 5	bon-sent-I-d1-a3-q2		chunk		
+bon-qpe-q3-a3	5	apparatus:p176-3	p176-3	crossref	logical	II. Sent. d. 27. dub. 2.	bon-sent-II-d27-dubia		chunk		
+bon-qpe-q3-a3	5	apparatus:p176-5	p176-5	crossref	page	supra pag. 139, nota 4	bon-qpe-q2-a2		chunk		
+bon-qpe-q3-a3	5	apparatus:p176-6	p176-6	crossref	logical	II. Sent. d. 20. q. 1.	bon-sent-II-d20-a1-q1		chunk		
+bon-qpe-q3-a3	5	apparatus:p176-8	p176-8	crossref	page	tom. IV. pag. 642, nota 5	bon-sent-IV-d25-a1-q1		chunk		
+bon-qpe-q3-a3	5	apparatus:p177-1	p177-1	scripture	apparatus-explicit	Dan. 3, 92	Dan 3:92	A	verse		
+bon-qpe-q3-a3	5	apparatus:p177-1	p177-1	scripture	apparatus-explicit	Act. 9, 15	Act 9:15	A	verse		
+bon-qpe-q3-a3	5	apparatus:p177-1	p177-1	scripture	apparatus-explicit	I. Cor. 7, 25	1Cor 7:25	A	verse		
+bon-qpe-q3-a3	5	apparatus:p177-2	p177-2	scripture	apparatus-explicit	Ps. 44, 2	Ps 44:2	A	verse		
+bon-qpe-q3-a3	5	apparatus:p177-3	p177-3	scripture	apparatus-explicit	Luc. 12, 35	Luc 12:35	A	verse		
+bon-qpe-q3-a3	5	apparatus:p177-3	p177-3	scripture	apparatus-explicit	Ps. 95, 1	Ps 95:1	A	verse		
+bon-qpe-q3-a3	5	apparatus:p177-3	p177-3	scripture	apparatus-explicit	Apoc. 14, 3	Apoc 14:3	A	verse		
+bon-qpe-q3-a3	5	apparatus:p178-2	p178-2	crossref	logical	IV. Sent. d. 33. a. 2. q. 2.	bon-sent-IV-d33-a2-q2		chunk		
+bon-qpe-q3-a3	5	apparatus:p178-2	p178-2	crossref	relative-inherited	ibid.	bon-sent-IV-d33-a2-q2		chunk		
+bon-qpe-q3-a3	5	apparatus:p178-3	p178-3	scripture	apparatus-explicit	I. Tim. 1, 5	1Tim 1:5	A	verse		
+bon-qpe-q3-a3	5	apparatus:p178-3	p178-3	scripture	apparatus-explicit	Matth. 12, 50	Matth 12:50	A	verse		
+bon-qpe-q3-a3	5	apparatus:p178-3	p178-3	scripture	anaphor->apparatus-explicit	ibid.	Matth 12:50	A	verse	yes	Matth. 12, 50
+bon-qpe-q3-a3	5	apparatus:p178-6	p178-6	crossref	page	tom. IV. pag. 756, nota 3	bon-sent-IV-d33-a2-q3		chunk		
 bon-qsc-q1	5	apparatus:p3-1	p3-1	crossref	logical	III. Sent. d. 14	III:d14		distinctio		
 bon-qsc-q1	5	apparatus:p3-1	p3-1	crossref	logical	I. Sent. d. 35. q. 5	bon-sent-I-d35-a1-q5		chunk		
 bon-qsc-q1	5	apparatus:p3-1	p3-1	crossref	chain-continuation	d. 39. a. 1. q. 1	bon-sent-I-d39-a1-q1		chunk		

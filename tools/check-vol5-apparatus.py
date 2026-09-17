@@ -456,7 +456,17 @@ KNOWN_TOTALS = {
     174: 8,  # n.4 RUNS OVER THE GUTTER; n.4 = ruling 5 (II Sent. fundam. 3). Gutter 1364.
     175: 10, # BOUNDARY 6 SHARED LEAF, split 1/9: Art. II closes mid-leaf (n.1 at
              # apparebit, reply 9); ARTICULUS III (unanchored subtitle + opener) owns
-             # nn.2-10 -- PENDING until bon-qpe-q3-a3 lands. Gutter 1169.
+             # nn.2-10 -- landed in bon-qpe-q3-a3; n.5 RUNS OVER THE GUTTER. Gutter 1169.
+    # bon-qpe-q3-a3 (Q. III Art. III, De sanctimonia virginali), pp. 175-179, 2026-09-17.
+    176: 12, # SED CONTRA 1-11 + CONCLUSIO + Respondeo. Gutter 1356 (default 1361 on a
+             # 48 px run sat on the right sub-band; band midpoint adopted).
+    177: 6,  # Respondeo cont. + Concedendum + replies 1 (answer the SED CONTRA); n.3 RUNS
+             # OVER THE GUTTER. Gutter 1166.
+    178: 9,  # Replies 1 (tail)-7. Gutter 1418.
+    179: 9,  # BOUNDARY 7 SHARED LEAF, split 4/5: Art. III closes mid-leaf (nn.1-4, replies
+             # 8-11); QUAESTIO IV (unanchored heading + opener) + ARTICULUS I (unanchored
+             # subtitle) own nn.5-9 -- PENDING until bon-qpe-q4-a1 lands. Gutter 1201 over
+             # Art. III's rows (Q. IV's body region measures 1192).
     205: 8,
     206: 11,
     207: 8,
