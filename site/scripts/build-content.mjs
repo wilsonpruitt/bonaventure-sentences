@@ -431,6 +431,7 @@ const WORKS = {
       1: "Quaestio I: De humilitate quoad actum ipsius, utrum scilicet christianae perfectionis sit se ipsum vilificare pro Christo",
       2: "Quaestio II: De paupertate",
       3: "Quaestio III: De continentia",
+      4: "Quaestio IV: De obedientia",
     },
   },
   // Future Vol V works claim book ids here as their mini-pilots run:

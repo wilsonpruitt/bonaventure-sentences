@@ -465,8 +465,19 @@ KNOWN_TOTALS = {
     178: 9,  # Replies 1 (tail)-7. Gutter 1418.
     179: 9,  # BOUNDARY 7 SHARED LEAF, split 4/5: Art. III closes mid-leaf (nn.1-4, replies
              # 8-11); QUAESTIO IV (unanchored heading + opener) + ARTICULUS I (unanchored
-             # subtitle) own nn.5-9 -- PENDING until bon-qpe-q4-a1 lands. Gutter 1201 over
-             # Art. III's rows (Q. IV's body region measures 1192).
+             # subtitle) own nn.5-9 -- landed in bon-qpe-q4-a1; n.6 RUNS OVER THE GUTTER.
+             # Gutter 1201 over Art. III's rows, 1192 over Q. IV's body.
+    # bon-qpe-q4-a1 (Q. IV Art. I, De obedientia / iure naturali), pp. 179-183, 2026-09-17.
+    180: 16, # Fundamenta 5 (tail)-10 + SED CONTRA 1-10; n.9 RUNS OVER THE GUTTER. Gutter 1427
+             # (band midpoint; default 1425).
+    181: 7,  # CONCLUSIO + Respondeo; n.3 RUNS OVER THE GUTTER; n.7 RUNS OVER THE PAGE into
+             # the head of p.182's left block. Gutter 1208.
+    182: 7,  # Respondeo (tail) + replies 1.2.3-9 (answer the SED CONTRA); n.3 RUNS OVER THE
+             # GUTTER. Gutter 1401.
+    183: 8,  # BOUNDARY 8 SHARED LEAF, split 1/7: Art. I closes mid-leaf (n.1 at virtutis,
+             # reply 10); ARTICULUS II (unanchored subtitle + opener) owns nn.2-8 -- PENDING
+             # until bon-qpe-q4-a2 lands; n.4 RUNS OVER THE GUTTER. Gutter 1195 over Art. I's
+             # rows, 1190 over Art. II's body.
     205: 8,
     206: 11,
     207: 8,
