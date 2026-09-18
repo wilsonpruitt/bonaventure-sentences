@@ -60,12 +60,22 @@ for every page, so the plain `.txt` extension is unavailable at that path. `.jso
 free (Next writes no `.json` files at all) and is unchanged from the other sites'
 convention. Documented in `llms.txt`.
 
-## Not done in this session (deploy boundary)
+## Deployed 2026-09-18
 
-- **Push + deploy** — both Wilson's separate hard stops, and this deploy should carry
-  the already-closed *De perfectione evangelica* work (pushed, not yet deployed) in the
-  same batch, per the migne precedent ("ship in a deploy that also ships whatever is
-  queued, not a separate one").
+Pushed (`3e6e197`) and deployed to production (Wilson's OK on both, separately) —
+`npx vercel deploy --prod --prebuilt --archive=tgz --scope wilson-pruitts-projects`
+(bare `vercel deploy` returns `"Not authorized"`; the repo's own CLAUDE.md already
+names the `--scope` fix). This deploy carried the already-closed *De perfectione
+evangelica* work (pp. 117–198) live at the same time, per the migne precedent — one
+deploy, not two. Verified by served content, not the status string: work page text
+("canon right" from the work-close gate rulings), robots.txt, llms.txt, the rights
+page's Machine Use clause, both `.json` and `.plain.txt` siblings, and the `/export`
+page all confirmed live via `curl`.
+
+## Not done in this session
+
 - **R2 bucket provisioning** — shared across all four sites, its own hard stop (per the
   status log below CL's entry in `~/open-corpus/PLAN.md`).
 - **HF org claim + dataset push** — after ≥2 exports exist on R2, per §4.
+- **Vercel Firewall rate-limit backstop** — parked per-site rollout item, not yet done
+  for any of the four shipped sites.

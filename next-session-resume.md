@@ -1,6 +1,10 @@
 # Bonaventure Sentences — Next Session Resume
 
-> # ▶▶▶ START HERE — **THE *DE PERFECTIONE EVANGELICA* WORK-CLOSE GATE IS ✅ CLOSED (2026-09-17). THE FRONT IS NOW: PUSH, THEN DEPLOY — EACH ONE WILSON'S SEPARATE PER-ACTION OK.**
+> # ▶▶▶ START HERE — **PUSHED (`3e6e197`) AND DEPLOYED 2026-09-18 (both Wilson's OK). THE *DE PERFECTIONE EVANGELICA* WORK (pp. 117–198) IS LIVE, together with the Open Corpus Plan reading-layer rollout for this site** (robots/llms.txt, LICENSE §3a + `/rights` Machine Use clause, canonical + JSON-LD on all 2,113 chunk pages, `.json`/`.plain.txt` siblings, bulk export — see `metadata/open-layer-launch-checks.md`; plan at `~/open-corpus/PLAN.md`, this site's turn logged 2026-09-18, next site is Milton). Verified by served content: `curl https://bonaventure.wrootpress.com/browse/10/d/4/q/bon-qpe-q4-a3` shows "canon right"; robots.txt/llms.txt/rights/export/siblings all confirmed live. **Deploy used `--scope wilson-pruitts-projects`** — a bare `vercel deploy` returned `"Not authorized"` (known issue, see "Build and deploy" in `CLAUDE.md`). Front is now: the **Sermones selecti** mini-pilot (half-title p. 533, blank 534, body opens 535), per the Vol V work map.
+>
+> ---
+>
+> # ▶▶▶ (superseded) — **THE *DE PERFECTIONE EVANGELICA* WORK-CLOSE GATE IS ✅ CLOSED (2026-09-17). THE FRONT IS NOW: PUSH, THEN DEPLOY — EACH ONE WILSON'S SEPARATE PER-ACTION OK.**
 > Gate log: **`manual-review/vol5-perfectione-evangelica-workclose-gate.md`** (full evidence). Ten chunks, pp. 117–198, **689 apparatus entries**, ONE gate (Wilson declined the shakedown 2026-09-15).
 > **ZERO TEXT DEFECTS.** One repair: `q3-a3` p. 179 n. 3's English gloss printed a **bare `[?]`** where the Latin printed the EDITORS' query as `[*?*]` — `check-live-flags.py` counted it as the corpus's one live flag
 > in this work (238 → **237**, the mysterio baseline exactly, `bon-qpe-*` ZERO). Plus one stale Notes line in `q2-a1` brought up to date (its *dominium* bullet still said "Wilson's call at the gate"; the gate has ruled).
