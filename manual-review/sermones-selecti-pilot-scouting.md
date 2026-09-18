@@ -47,10 +47,8 @@ ipso fere 35 locos alius et melioris lectionis quam recepta ab illo. Pauca manif
 Bonelli emendata erant.* Three facts converge: the editors **annex** it to the four sermons as a
 *tractatulus* of the same form; the colophon that closes it is the **sermons'** colophon; the volume
 index lists it inside the Sermones section. ⚠ Against that, the *Index alphabeticus* gives it its own
-siglum **DPL** beside **SS** (raw L94290). **Recommendation: one work, five divisions**; the siglum
-is an indexing convenience, and a separate book id for six printed pages would fragment nothing but
-cost a registry entry, a title builder branch and a half-title that does not exist.
-**Wilson rules it** (item 1 below).
+siglum **DPL** beside **SS** (raw L94290). ✅ **RULED (Wilson, 2026-09-18): ONE WORK, FIVE DIVISIONS** — the
+editors' *annectimus* outranks their own back-matter siglum (ruling 1 below).
 
 ⭐ **It is a ONE-WITNESS text** (*ex unico cod. Tudertino*), collated by the editors against
 Bonelli's edition with ~35 improved readings. Expect conjectures note by note, as in
@@ -79,10 +77,10 @@ silent class (named-work references) and goes on the resolver docket, not the bu
 
 ⚠ **Sermo II (15 pp) and Sermo III (14 pp) are the largest single-agent chunks Vol V would have
 attempted** (previous single-agent max: `bon-qsc-q4`, 11 pp; the 21-page `q2-a2` took three passes).
-**Recommendation: build each in TWO sequential passes into one uncommitted file** (A: heading,
+✅ **RULED (Wilson, 2026-09-18): TWO sequential passes each** into one uncommitted file (A: heading,
 Summarium, Pars I; B: the rest, audits, both commits), with the `q2-a2` hand-off discipline —
-measurements as measurements, predictions as predictions, resume POINT not resume page. Sermones I,
-IV and the Tractatus: one agent, the normal cadence. **Wilson rules it** (item 3 below).
+measurements as measurements, predictions as predictions, resume POINT not resume page. **Sermones I,
+IV and the Tractatus: one agent, the normal cadence.**
 
 ## ▶ BOUNDARIES — ALL FOUR INTERIOR SEAMS MEASURED ON THE PLATE
 
@@ -157,12 +155,15 @@ n. 3) — a **printed-edition witness by name**, not a siglum; transcribe as pri
 **Census over the band (L87022–93513, p. 535 excluded as unreadable in the raw):**
 - ***intellect-* 9, *intelligent-* 8** → understanding / intelligence on the rule; bare "intellect" is
   a defect unless inside *intellectus agens/possibilis* (none seen).
-- ⭐⭐ ***lux/luc-* ~37 against *lumen/lumin-* ~45 — RULING 2 AT ITS HEAVIEST IN VOL V.** The
-  Tractatus turns on *duodecim rerum creatarum lumina* (the twelve *lumina* of created things,
-  §§ 4–6) and Sermo IV on *lumen revelationis*. "Lumen/lumina" will stand ~45 times in 45 pages, and
-  the owed translator's note (`tr-lumen`) goes in at the first *lumen* of each chunk. **The ruling
-  is corpus law; the cost is stated so it is not re-found.** Verse test at every scriptural site
-  (Ps. 4:7 keeps "lumen"; Jas. 1:17 *Patri luminum* → "Father of lights", `bon-don-c1` precedent).
+- ⭐⭐ ✅ ***lux/luc-* ~37 against *lumen/lumin-* ~45 — RULING 2 AT ITS HEAVIEST IN VOL V, AND IT
+  STANDS UNCHANGED (Wilson, 2026-09-18).** The Tractatus turns on *duodecim rerum creatarum lumina*
+  (§§ 4–6) and Sermo IV on *lumen revelationis*. "Lumen/lumina" stands at all ~45 sites; the
+  `tr-lumen` note goes in **at the first occurrence of each chunk**, per the frozen convention.
+  Verse test at every scriptural site (**Ps. 4:7 keeps "lumen"**; **Jas. 1:17 *Patri luminum* →
+  "Father of lights"**, `bon-don-c1` precedent). ⛔ **The *lumina* → "lights" carve-out for the
+  Tractatus was REFUSED** — *lux* stands in the same treatise (*veritatis lumina et caritatis
+  solatia* against the closing *arma lucis*), so the carve-out would collide at exactly the sites
+  the ruling protects. **Cost accepted: a transliteration ~45 times in 45 pages.**
 - ***vaca-* ZERO; noun *quies* ZERO** (only *conquiescat*, *quiescens* and *quietudo* — p. 579
   *internarum quietudinum* → "inward quietudes", a different noun). **The pair is untestable here;
   record it, do not reopen it.**
@@ -173,17 +174,13 @@ n. 3) — a **printed-edition witness by name**, not a siglum; transcribe as pri
   *lex* law; *intellectus*/*intelligentia*; *pietas*.
 
 **New — the work's own vocabulary, WORKING renderings for Wilson's shakedown ruling:**
-- ⭐ ***magister* → "teacher" throughout Sermo IV** (title *Christus unus omnium magister* →
-  "Christ the one teacher of all"; *magisterium* → "teaching office" / "mastership" by context).
-  ⚠ **This is the work's one headline register question.** The sermon is built on Matt. 23:10
-  *unus est magister vester, Christus*, which the Douay renders **"one is your master, Christ"**; and
-  the corpus renders *Magister* (Lombard) as "the Master" everywhere. "Master" in the Douay is a
-  teacher-word that modern English has lost; the whole sermon argues from *docere*, *doctrina*,
-  *discipulus*. Recommendation: **"teacher"**, with the Matt. 23 quotation adjusted to it (the frozen
-  Douay-adjusted-to-Quaracchi rule permits this where the Latin word is the sermon's subject — the
-  *pietas* precedent), and "the Master" left to Lombard. Cost: the received English title of the
-  sermon in scholarship is already "Christ the One Teacher of All," so the cost is nil that way and
-  real only against the Douay. **Wilson rules** (item 2 below).
+- ⭐ ✅ ***magister* → "teacher" throughout Sermo IV — RULED (Wilson, 2026-09-18), including inside
+  Matt. 23:10.** Title *Christus unus omnium magister* → "Christ the one teacher of all";
+  *magisterium* → "teaching office" / "mastership" by context; the Douay's *"one is your master,
+  Christ"* adjusted to *"one is your teacher, Christ."* The sermon argues throughout from *docere*,
+  *doctrina*, *discipulus*, so quotation and expounding prose carry one English word (the
+  Douay-adjusted-to-Quaracchi rule, *pietas* precedent). ⛔ **Lombard stays "the Master"** —
+  the two never meet here. See ruling 2 below.
 - ***testimonium* → "testimony"**, *testis* → "witness" (Sermo I; I John 5:7 Douay *there are three
   who give testimony* agrees).
 - ***regnum Dei* → "the kingdom of God"**; *parabola* → parable; *regnare* → reign.
@@ -216,26 +213,62 @@ for scan clipping (the `bon-qmt-q3-a1` class) on a full-image-width strip.
 
 ## Gate cadence
 
-45 pp, one work → **ONE gate, at the close (p. 579)** — trigger 2. Trigger 1 does not fire. The
-"every-N-sermones" rule is retired unused. **A shakedown after Sermo II (p. 553, two chunks, 19 pp)
-is the trigger-3 seam** — recommended only because Sermo IV's *magister* and the Tractatus's
-*lumina* are the two register loads and both come AFTER it, so a shakedown there would see neither;
-▶ **better: rule the register items (below) NOW, off this sheet, and take one gate at the close**,
-which is exactly what made the *perfectione* gate cheap. Deploy boundary = work close = the end of
-Vol V.
+✅ **RULED (Wilson, 2026-09-18): ONE GATE, AT THE CLOSE (p. 579). NO SHAKEDOWN.** 45 pp, one work,
+trigger 2; trigger 1 does not fire; the "every-N-sermones" rule is retired unused. The trigger-3
+seam after Sermo II (p. 553, two chunks, 19 pp) was **declined for a stated reason**: Sermo IV's
+*magister* and the Tractatus's *lumina* are the work's two register loads and **both fall after
+it**, so a shakedown there would see neither. The register was ruled instead — off this sheet,
+before the first chunk — which is what made the *perfectione* gate arrive with nothing to repair.
+Deploy boundary = work close = **the end of Vol V**.
 
-## ▶ DECISIONS FOR WILSON — rule from this sheet, no file needs opening
+## ✅✅ THE FIVE RULINGS — WILSON, 2026-09-18, off this sheet, before a chunk existed
 
-1. **The Tractatus: fifth division of `sermones-selecti` (recommended), or its own work (book 15,
-   slug `plantatione-paradisi`)?** Evidence: editors' *annectimus … tractatulum*, the shared colophon,
-   the index placement — against the DPL siglum. Cost of "own work": registry entry + title branch +
-   a work with no half-title and a shared opening leaf. Cost of "fifth division": the Cited-by panel
-   and breadcrumb say *Sermones selecti › Tractatus*, which is what Quaracchi's page says too.
-2. ***magister* → "teacher" (recommended) or "master"** in Sermo IV, incl. the Matt. 23:10 quotation.
-3. **Sermo II and III (15 and 14 pp): two passes each (recommended) or one agent each.**
-4. **Shakedown at p. 553, or one gate at the close with the register ruled now (recommended).**
-5. ***lumen* → "lumen" at ~45 sites with a `tr-lumen` note per chunk** — ruling 2 as it stands; no
-   change proposed, stated so the cost is seen before it is paid.
+**All five taken as recommended, in one sitting, no file opened.** These are the work's settled
+conventions; do not re-litigate them chunk by chunk.
+
+1. ✅ **THE TRACTATUS IS THE FIFTH DIVISION OF `sermones-selecti`** — `bon-serm-tract`,
+   `division: 5`, `type: tractatus`. **The editors' own sentence decided it** (p. 574 n. 8,
+   *Quatuor praecedentibus sermonibus **annectimus** hunc tractatulum, secundum formam valde
+   similem sermonibus*), with the shared colophon and the index placement agreeing. The
+   *Index alphabeticus*' separate **DPL** siglum is an indexing convenience and does not
+   outweigh the editors' statement of what the piece IS.
+   ▶ **Transferable: when the edition says in words what a unit is, that outranks how the
+   edition's own back-matter files it.** An index is a finding aid; a note is a claim.
+2. ✅ ***magister* → "teacher" THROUGHOUT SERMO IV, INCLUDING INSIDE Matt. 23:10.** The Douay's
+   *"one is your master, Christ"* is adjusted to *"one is your teacher, Christ"* on the frozen
+   Douay-adjusted-to-Quaracchi rule and the *pietas* precedent: the sermon's whole argument runs
+   on *docere* / *doctrina* / *discipulus*, so the quotation and the prose expounding it must
+   carry one English word. ⛔ **Lombard remains "the Master" everywhere in the corpus** — the two
+   never meet in this work. ⚠ The third option (teacher in the body, master in the quotation) was
+   **refused**: it is the shape the *scientia Christi* gate rejected when it declined "quotation
+   boundary" as a licence class.
+3. ✅ **SERMO II AND SERMO III ARE BUILT IN TWO SEQUENTIAL PASSES EACH**, one uncommitted file per
+   sermon, `q2-a2` hand-off discipline — **measurements as measurements, predictions as
+   predictions, resume POINT not resume page.** Pass A: heading, Summarium, Pars I. Pass B: the
+   rest, audits, both commits. Committed only when pass B closes it at Tier 2.
+   ⛔ **Splitting either sermon into two chunks was refused** — Quaracchi cites these pieces whole
+   and by name, and splitting breaks the citation match.
+4. ✅ **ONE GATE, AT THE WORK CLOSE (p. 579). No shakedown.** ▶ **The reason is the one the
+   *perfectione* gate proved: a shakedown is worth firing only where it can see the work's
+   register loads, and both of this work's — Sermo IV's *magister* and the Tractatus's twelve
+   *lumina* — fall AFTER the p. 553 seam.** Ruling the register now, off the evidence sheet,
+   does what the shakedown would have done and does it for the whole work.
+5. ✅ **RULING 2 STANDS UNCHANGED AT ALL ~45 SITES** — *lux* → light, *lumen*/*lumina* → "lumen"/
+   "lumina", with a **`tr-lumen` note at the first occurrence in each chunk** (the frozen `tr-`
+   convention, unchanged) and the verse test at every scriptural site: **Ps. 4:7 keeps "lumen"**,
+   **Jas. 1:17 *Patri luminum* → "Father of lights"** (Douay, `bon-don-c1` precedent).
+   ⛔ **The *lumina* → "lights" carve-out for the Tractatus was refused**, because *lux* occurs in
+   the same treatise (*veritatis lumina et caritatis solatia* against the closing *arma lucis*) and
+   the carve-out would collide with it at exactly the sites the ruling exists to keep apart.
+   **Cost accepted knowingly: a transliteration standing ~45 times in 45 printed pages.**
+
+▶ **Procedure note — the *perfectione* finding held a second time, and earlier.** There the
+evidence sheet was compiled the morning of the gate; here it was compiled **before a single chunk
+existed**, and the rulings are in hand before the first dispatch rather than at the close. All five
+turned on the same three columns: the site census, the decisive quoted sentence, and the one-line
+cost of each alternative. **Two of the five (1 and 5) were decided by a sentence the edition itself
+prints; two (2 and 3) by a precedent already ratified elsewhere in the corpus; one (4) by where the
+load falls.** None needed a file opened.
 
 ## Plates
 

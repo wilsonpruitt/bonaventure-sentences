@@ -285,7 +285,7 @@ Vols V–X (2026-07-28).**
 | 8 | **Collationes in Hexaemeron** | 327–454 | `hexaemeron` | 11 | **COMPLETE 2026-08-23 — 23 collationes + Scholion; gated + deployed 2026-08-24.** (It is in Vol V, not Vol VII as the old tracker claimed.) |
 | 9 | **Coll. de septem donis** | 455–**503** | `septem-donis` | 12 | **COMPLETE 2026-08-29 — all 9 collationes Tier 2; work-close gate CLOSED CLEAN and DEPLOYED 2026-08-29.** End fixed positively from `EXPLICIUNT` on p. 503. |
 | 10 | **Coll. de decem praeceptis** | **505–532** | `decem-praeceptis` | 13 | **COMPLETE 2026-08-31 — all 7 collationes Tier 2; work-close gate CLOSED CLEAN, pushed and DEPLOYED to production 2026-08-31 (verified live: `/browse/13/d/7/q/bon-praec-c7` serves the `EXPLICIUNT`).** Half-title 505, blank 506, body 507–532, all plate-verified. |
-| 11 | Sermones selecti | **533–579** | `sermones-selecti` | 14 | **Mini-pilot run 2026-09-18** (§ SERMONES SELECTI below; evidence `manual-review/sermones-selecti-pilot-scouting.md`). 533 half-title, 534 blank, **body 535–579 (45 pp), ends on `EXPLICIUNT SERMONES SELECTI.`**, 580 blank, 581 index. ⛔ **FOUR sermons + ONE annexed *Tractatus de plantatione Paradisi* = FIVE chunks** — not "dozens." Pilot decisions await Wilson's ruling. |
+| 11 | Sermones selecti | **533–579** | `sermones-selecti` | 14 | **Mini-pilot run 2026-09-18** (§ SERMONES SELECTI below; evidence `manual-review/sermones-selecti-pilot-scouting.md`). 533 half-title, 534 blank, **body 535–579 (45 pp), ends on `EXPLICIUNT SERMONES SELECTI.`**, 580 blank, 581 index. ⛔ **FOUR sermons + ONE annexed *Tractatus de plantatione Paradisi* = FIVE chunks** — not "dozens." ✅ **All five pilot decisions RULED (Wilson, 2026-09-18); the front is `bon-serm-s1` (pp. 535–538).** |
 
 Order as actually run: Breviloquium → Itinerarium → De reductione → **Hexaemeron** (taken
 ahead of the QD, Wilson's call) → **septem donis** (complete) → **decem praeceptis** (COMPLETE, deployed) → the
@@ -2730,16 +2730,43 @@ the WORK-CLOSE GATE at p. 198** — its full carry-list is the START HERE block 
 Vol V.** p. 533 half-title · p. 534 MEASURED BLANK (0.0005 %) · **body 535–579 (45 pp)** · ends on
 **`EXPLICIUNT SERMONES SELECTI.`** set full measure on p. 579 · p. 580 MEASURED BLANK (0.0016 %) ·
 p. 581 the unnumbered volume index. Raw band **L86894 → L93513**.
-⛔ **PILOT DECISIONS 1–5 (scouting doc, last section) AWAIT WILSON'S RULING BEFORE `s1` IS DISPATCHED.**
+✅✅ **ALL FIVE PILOT DECISIONS RULED (Wilson, 2026-09-18, off the evidence sheet before a chunk
+existed — full reasoning in the scouting doc's rulings section). The front is `bon-serm-s1`.**
 
 - ⛔ **THE WORK MAP WAS WRONG: FOUR SERMONS + ONE ANNEXED *TRACTATUS DE PLANTATIONE PARADISI* = FIVE
   CHUNKS**, all spans measured at both ends on the plate: `bon-serm-s1` 535–538 · `s2` 539–553 ·
   `s3` 553–566 · `s4` 567–574 · **`bon-serm-tract` 574–579** (`type: sermo` / `tractatus`,
-  `division: 1..5`). p. 574 n. 8 is the editors' own word: *Quatuor praecedentibus sermonibus
-  annectimus hunc tractatulum, secundum formam valde similem sermonibus* — a one-witness text
-  (*ex unico cod. Tudertino*) collated against Bonelli. **`bon-serm-tract` is a suffix-less slug —
-  census blind-spot class; roster = 5.** The every-N-sermones gate rule is retired unused: **ONE gate
-  at the close**, deploy boundary = work close = the end of Vol V.
+  `division: 1..5`). **`bon-serm-tract` is a suffix-less slug — census blind-spot class; roster = 5.**
+
+- **⭐⭐⭐ THE FIVE RULINGS — WILSON, 2026-09-18, taken in one sitting off the evidence sheet BEFORE A
+  CHUNK EXISTED. These are the work's settled conventions; do not re-litigate them chunk by chunk.**
+  **(1) THE TRACTATUS IS THE WORK'S FIFTH DIVISION**, not its own work — decided by p. 574 n. 8's own
+  sentence (*Quatuor praecedentibus sermonibus **annectimus** hunc tractatulum, secundum formam valde
+  similem sermonibus*), with the shared colophon and the index placement agreeing; the
+  *Index alphabeticus*' separate **DPL** siglum was overruled. ▶ **When the edition says in words what
+  a unit IS, that outranks how its own back-matter files it — an index is a finding aid, a note is a
+  claim.** ⚠ It is a **one-witness text** (*ex unico cod. Tudertino*) collated against Bonelli with
+  ~35 improved readings, so expect conjectures note by note (the `bon-qmt-q6-a2` shape) and
+  **printed-edition variants named in words** (*Bonelli: …*), not by siglum.
+  **(2) *magister* → "teacher" THROUGHOUT SERMO IV, INCLUDING INSIDE Matt. 23:10** — the Douay's
+  *"one is your master, Christ"* adjusted to *"one is your teacher, Christ"* on the frozen
+  Douay-adjusted-to-Quaracchi rule and the *pietas* precedent, because the sermon argues throughout
+  from *docere*/*doctrina*/*discipulus* and quotation and expounding prose must carry one English
+  word. *magisterium* → "teaching office"/"mastership" by context. ⛔ **Lombard stays "the Master"**
+  corpus-wide; the two never meet in this work. ⚠ **"Teacher in the body, master in the quotation"
+  was REFUSED** — it is the shape the *scientia Christi* gate rejected when it declined "quotation
+  boundary" as a licence class.
+  **(3) SERMO II (15 pp) AND SERMO III (14 pp) ARE BUILT IN TWO SEQUENTIAL PASSES EACH**, one
+  uncommitted file per sermon, `q2-a2` hand-off discipline (**measurements as measurements,
+  predictions as predictions, resume POINT not resume page**): pass A heading + Summarium + Pars I,
+  pass B the rest + audits + both commits, committed only when B closes it at Tier 2. Sermones I, IV
+  and the Tractatus take one agent each. ⛔ **Splitting either sermon was refused** — Quaracchi cites
+  these pieces whole and by name.
+  **(4) ONE GATE, AT THE CLOSE (p. 579). NO SHAKEDOWN.** ▶ **The reason generalises: a shakedown is
+  worth firing only where it can SEE the work's register loads, and both of this work's — Sermo IV's
+  *magister*, the Tractatus's twelve *lumina* — fall after the p. 553 seam.** The register was ruled
+  instead, before the first chunk. Deploy boundary = work close = **the end of Vol V**.
+  **(5) RULING 2 STANDS UNCHANGED AT ALL ~45 SITES** — see the register bullet below.
 - **Form = the reportatio shape** (display heading + italic subtitle + full-measure unanchored
   `SUMMARIUM` + numbered paragraphs + dense marginalia; no *Sed contra*/*Conclusio*), so the whole
   Hexaemeron/*donis*/*praeceptis* block ports. Sermo II's Summarium announces *quinque quaestiones*
@@ -2761,19 +2788,25 @@ p. 581 the unnumbered volume index. Raw band **L86894 → L93513**.
   (flipped): 1356**, 63 px band, 24 windows at 0 px spread — a verso-range value on an odd leaf
   because the mirror moves the gutter; right for the image you read, no evidence about the leaf.
   Only p. 535 is affected (checked by numerals and running heads from 536 on).
-- **Register, census over the band:** *intellect-* 9 (bare "intellect" = defect) · ⭐⭐ ***lux* ~37 /
-  *lumen–lumina* ~45 — ruling 2 at its heaviest in Vol V** (the Tractatus's *duodecim lumina*; a
-  `tr-lumen` note at the first *lumen* of each chunk; verse test at every scriptural site) · *vaca-*
-  ZERO and noun *quies* ZERO (only verbs and *quietudo*) → the pair is untestable, record it ·
-  *contuitum* 1 → "contuition" · *fundam.* ZERO → ruling 5 not reached, say so · *pietas* 3 → piety ·
-  Collationes rulings bind (*praeceptum*/*mandatum*/*lex*; *intellectus*/*intelligentia*).
-  **WORKING, for Wilson:** ***magister* → "teacher"** in Sermo IV incl. Matt. 23:10 (Douay "master";
-  Lombard stays "the Master") · *testimonium* → testimony / *testis* → witness · *regnum Dei* → the
-  kingdom of God · *corpus Christi* → the Body of Christ · *plantatio* → planting, *paradisus* →
-  paradise, *lignum vitae* → the tree of life · *contemplatio*/*meditatio*/*devotio* as the
-  Itinerarium, *excessus* → transport.
-- **Sermo II (15 pp) and Sermo III (14 pp) exceed the single-agent maximum so far (11 pp)** —
-  recommended two sequential passes each into one uncommitted file, `q2-a2` hand-off discipline.
+- **Register, census over the band:** *intellect-* 9 (bare "intellect" = defect) · *vaca-* ZERO and
+  noun *quies* ZERO (only verbs and *quietudo*) → the pair is untestable here, record it ·
+  *contuitum* 1 → "contuition" · *fundam.* ZERO → ruling 5 not reached, say so positively ·
+  *pietas* 3 → piety · Collationes rulings bind (*praeceptum*/*mandatum*/*lex*;
+  *intellectus*/*intelligentia*).
+  ⭐⭐ ✅ ***lux* ~37 / *lumen–lumina* ~45 — RULING 2 AT ITS HEAVIEST IN VOL V AND IT STANDS
+  UNCHANGED (ruling 5).** All ~45 sites take "lumen"/"lumina"; the **`tr-lumen` note goes at the
+  first occurrence of each chunk**, per the frozen convention; the verse test runs at every
+  scriptural site (**Ps. 4:7 keeps "lumen"**, **Jas. 1:17 *Patri luminum* → "Father of lights"**,
+  `bon-don-c1`). ⛔ **The *lumina* → "lights" carve-out for the Tractatus was REFUSED** — *lux*
+  stands in the same treatise (*veritatis lumina et caritatis solatia* against the closing *arma
+  lucis*), so it would collide at exactly the sites the ruling protects. **Cost accepted knowingly:
+  a transliteration ~45 times in 45 printed pages.**
+  **ADOPTED (the work's own vocabulary):** ***magister* → "teacher"** (ruling 2) · *testimonium* →
+  testimony / *testis* → witness · *regnum Dei* → the kingdom of God, *parabola* → parable ·
+  *corpus Christi* → the Body of Christ, *figura* → figure · *plantatio* → planting, *plantula* →
+  little plant, *paradisus* → paradise (never "garden" unless *hortus* is printed), *lignum vitae* →
+  the tree of life · *contemplatio*/*meditatio*/*devotio* as the Itinerarium, *excessus* →
+  transport · *sapientia* → wisdom.
 - **Registry (when `s1` lands):** `WORKS["sermones-selecti"]` (book 14, `divisionLabel: "Sermones"`,
   initial "S"), a `Sermo ${division}` branch in `buildWorkChunkTitle` and a type-first
   `tractatus → "Tractatus"` beside `capitula`/`scholion`/`opusculum`. Divisions one at a time,
