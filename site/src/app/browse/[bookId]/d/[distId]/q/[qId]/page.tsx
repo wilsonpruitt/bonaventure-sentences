@@ -4,6 +4,28 @@ import { CrossDivider } from "@/components/decorations";
 import { TextReader } from "./text-reader";
 import { CitedBy } from "@/components/cited-by";
 
+const SITE_URL = "https://bonaventure.wrootpress.com";
+const chunkUrl = (bookId: number, distId: number, qId: string) =>
+  `${SITE_URL}/browse/${bookId}/d/${distId}/q/${encodeURIComponent(qId)}`;
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ bookId: string; distId: string; qId: string }>;
+}) {
+  const { bookId, distId, qId } = await params;
+  const books = loadAllContent();
+  const book = books.find((b) => b.id === parseInt(bookId));
+  const dist = book?.distinctions.find((d) => d.id === parseInt(distId));
+  const question = dist?.questions.find((q) => q.id === decodeURIComponent(qId));
+  if (!book || !dist || !question) return {};
+  const url = chunkUrl(book.id, dist.id, question.id);
+  return {
+    title: question.title,
+    alternates: { canonical: url },
+  };
+}
+
 export function generateStaticParams() {
   const books = loadAllContent();
   const params: { bookId: string; distId: string; qId: string }[] = [];
@@ -40,8 +62,38 @@ export default async function QuestionPage({
   const prevQ = qIdx > 0 ? dist.questions[qIdx - 1] : null;
   const nextQ = qIdx < dist.questions.length - 1 ? dist.questions[qIdx + 1] : null;
 
+  const canonicalUrl = chunkUrl(book.id, dist.id, question.id);
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "CreativeWork",
+    "@id": canonicalUrl,
+    url: canonicalUrl,
+    name: question.title,
+    author: { "@type": "Person", name: "St. Bonaventure" },
+    translator: { "@type": "Organization", name: "Wroot Press" },
+    publisher: {
+      "@type": "Organization",
+      name: "Wroot Press",
+      url: "https://bonaventure.wrootpress.com",
+    },
+    inLanguage: ["en", "la"],
+    isBasedOn: {
+      "@type": "Book",
+      name: "Opera Omnia (Quaracchi critical edition)",
+      volumeNumber: book.tome ?? book.id,
+    },
+    isPartOf: { "@type": "Collection", "@id": `${SITE_URL}/browse/${book.id}` },
+    license: "https://creativecommons.org/licenses/by-nc/4.0/",
+    dateModified: new Date().toISOString().slice(0, 10),
+  };
+
   return (
     <div>
+      <script
+        type="application/ld+json"
+        // eslint-disable-next-line react/no-danger
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <Link href={`/browse/${book.id}/d/${dist.id}`} className="back-link">
         &larr; Back to {dist.title}
       </Link>

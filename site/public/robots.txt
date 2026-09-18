@@ -1,38 +1,38 @@
-# All crawlers welcome. Please pace yourselves — this is a small
-# independent press serving a large corpus of static pages, and a
-# full-speed sweep costs real money. The sitemap below lists every
-# page, so there is no need to crawl by guessing URLs.
+# Bonaventure — Opera Omnia. All crawlers welcome, including AI training
+# and retrieval crawlers. The sitemap lists every page; there is no need
+# to guess URLs.
+# Licence: see https://bonaventure.wrootpress.com/rights (Quaracchi Latin
+# public domain; English translation and apparatus CC BY-NC 4.0;
+# machine-learning use permitted with attribution — see the rights page).
 
 User-agent: *
 Allow: /
-Crawl-delay: 10
 
-# AI/training crawlers: same welcome, slower pace.
 User-agent: GPTBot
-Crawl-delay: 30
-
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
 User-agent: ClaudeBot
-Crawl-delay: 30
-
-User-agent: CCBot
-Crawl-delay: 30
-
-User-agent: Bytespider
-Crawl-delay: 30
-
-User-agent: Amazonbot
-Crawl-delay: 30
-
-User-agent: PerplexityBot
-Crawl-delay: 30
-
-User-agent: meta-externalagent
-Crawl-delay: 30
-
-User-agent: Applebot-Extended
-Crawl-delay: 30
-
+Allow: /
+User-agent: Claude-SearchBot
+Allow: /
+User-agent: Claude-User
+Allow: /
 User-agent: Google-Extended
-Crawl-delay: 30
+Allow: /
+User-agent: CCBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+User-agent: Amazonbot
+Allow: /
+User-agent: Bytespider
+Allow: /
+User-agent: meta-externalagent
+Allow: /
 
 Sitemap: https://bonaventure.wrootpress.com/sitemap.xml

@@ -9,7 +9,16 @@ const BASE = "https://bonaventure.wrootpress.com";
 export const dynamic = "force-static";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const urls: string[] = ["/", "/about", "/browse", "/scripture", "/search", "/progress", "/rights"];
+  const urls: string[] = [
+    "/",
+    "/about",
+    "/browse",
+    "/scripture",
+    "/search",
+    "/progress",
+    "/rights",
+    "/export",
+  ];
 
   const books = loadAllContent();
 

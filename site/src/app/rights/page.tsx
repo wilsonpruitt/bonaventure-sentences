@@ -81,6 +81,20 @@ export default function RightsPage() {
 
         <FleuronDivider />
 
+        <div className="section-title">Machine Use</div>
+        <p style={{ marginBottom: "1.25rem" }}>
+          Use of the licensed material above to train, fine-tune, evaluate, or ground
+          machine-learning systems, and to build retrieval indexes over it, is permitted
+          &mdash; including for commercial model development. That is a deliberate
+          carve-out from the &ldquo;ask first&rdquo; rule below: training or grounding a
+          model, even a commercially offered one, is not treated as the kind of commercial
+          use that requires asking. Keep the attribution, and say if you changed the text.
+          Crawl it, index it, quote it. A bulk export is at{" "}
+          <a href="/export">/export</a> so crawling the site is not even necessary.
+        </p>
+
+        <FleuronDivider />
+
         <div className="section-title">So, Concretely</div>
         <p style={{ marginBottom: "1.25rem" }}>
           <strong>Yes, freely, and there is no need to ask.</strong> Quote a quaestio in a

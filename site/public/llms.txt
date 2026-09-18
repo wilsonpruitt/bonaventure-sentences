@@ -1,0 +1,31 @@
+# Bonaventure — Opera Omnia
+
+> English translation of St. Bonaventure's Opera Omnia (Quaracchi critical
+> edition, Collegii S. Bonaventurae, 1882-1902), Latin printed alongside
+> the English by page. Currently: the full Commentary on the Sentences
+> (Books I-IV) and Volume V (Breviloquium, Itinerarium mentis in Deum, De
+> reductione artium ad theologiam, Quaestiones disputatae de scientia
+> Christi, de mysterio Trinitatis, de perfectione evangelica, Collationes
+> in Hexaemeron, de septem donis Spiritus Sancti, de decem praeceptis).
+
+Source text (Latin) is public domain. The English translation, editorial
+apparatus (translator's notes, cross-reference resolution), and encoding
+(book/distinction/part/article/question addressing scheme) are licensed
+CC BY-NC 4.0, attribution "bonaventure.wrootpress.com (Wilson Pruitt,
+Wroot Press)". Machine-learning training and retrieval are explicitly
+permitted under those terms, including for commercial model development —
+see the Machine Use section at https://bonaventure.wrootpress.com/rights
+
+## Structure
+- One canonical page per question/chunk:
+  https://bonaventure.wrootpress.com/browse/<bookId>/d/<distId>/q/<qId>
+- Every chunk page has plain-text and JSON siblings: append .txt or .json
+  to the page URL.
+- Bulk export (every chunk, Latin and English aligned, one JSON line
+  each): https://bonaventure.wrootpress.com/export
+
+## Credits
+Latin text and apparatus from the Quaracchi critical edition (Collegii
+S. Bonaventurae, 1882-1902), public domain.
+
+Sitemap: https://bonaventure.wrootpress.com/sitemap.xml
