@@ -20,14 +20,19 @@
  *   Vol V      MEASURED from the volume's own index, via the work map frozen
  *              in the repo CLAUDE.md § VOL V: the ten works run from p. 3
  *              (QD de scientia Christi) to the end of the Sermones selecti.
- *              ⚠ The last leaf is the one soft edge — the index gives the
- *              Sermones as 533–~579 and that end has not been plate-verified.
- *   Vols VI–X  ESTIMATED. No source text for these volumes is on disk: no
- *              PDF, no OCR, no index. The only figures that exist are the
- *              scoping estimates in the repo's OPERA-OMNIA-TRACKER.md, which
- *              are round numbers to the nearest hundred. They are carried
- *              here AS ESTIMATES and are labelled as such on the page. They
- *              are never added silently into a measured total.
+ *              The last leaf — formerly the one soft edge, carried as ~579 —
+ *              was SETTLED on 2026-09-17 against the digitized volume; see
+ *              VOL5_BODY_LAST below.
+ *   Vols VI–X  MEASURED on 2026-09-17 from the digitized Quaracchi volumes on
+ *              the Internet Archive, leaf by leaf, replacing the round-hundred
+ *              scoping estimates that stood here before. See MEASURED_EXTENTS
+ *              below, which records for each volume its archive.org identifier,
+ *              how its identity was confirmed, and how its last body page was
+ *              established. Vol X is measured but NOT COUNTED — see below.
+ *
+ * The estimate machinery is deliberately left standing: any volume whose extent
+ * could not be settled would fall back to UNSOURCED_VOLUMES and render hatched
+ * and labelled. As of 2026-09-17 that set is empty.
  *
  * Anything that cannot be derived is either labelled an estimate or left out.
  */
@@ -69,8 +74,14 @@ const VOL5_WORKS = [
     slug: "sermones-selecti",
     title: "Sermones selecti de rebus theologicis",
     first: 533,
+    // 579 was carried as approximate until 2026-09-17, when it was read off the
+    // running head of the volume's last body leaf: archive.org
+    // doctorisseraphic05bona, leaf 0657, head "TRACTATUS DE PLANTATIONE
+    // PARADISI. 579" — the close of the fourth sermon. Leaf 0658 is blank and
+    // leaf 0659 opens "INDEX OPUSCULORUM THEOLOGICORUM ... IN QUINTO TOMO" at
+    // p. 581. Corroborated by the item's own _page_numbers.json (leaf 657 =
+    // "579"). The tilde is gone.
     last: 579,
-    lastIsApprox: true,
     complete: false,
   },
 ];
@@ -85,21 +96,105 @@ const NON_TEXT_LEAF_ALLOWANCE = 4;
 // leaf); the end is the Sermones' approximate close.
 const VOL5_BODY_FIRST = VOL5_WORKS[0].first;
 const VOL5_BODY_LAST = VOL5_WORKS[VOL5_WORKS.length - 1].last;
-const VOL5_LAST_IS_APPROX = true;
+const VOL5_LAST_IS_APPROX = false; // settled 2026-09-17, see the Sermones entry
 
 // ---------------------------------------------------------------------------
-// Vols VI–X: ESTIMATES ONLY. Source: OPERA-OMNIA-TRACKER.md, "Scope table —
-// all 10 volumes", the "Printed pp." column, every entry of which is written
-// there with a tilde. Nothing on disk can improve on these until the volumes
-// are fetched from the Internet Archive.
+// Vols VI–X: MEASURED, 2026-09-17, from the digitized Quaracchi volumes on the
+// Internet Archive. These replace the round-hundred scoping estimates that
+// OPERA-OMNIA-TRACKER.md carried ("~700/~700/~900/~800/~350"), which had no
+// stated provenance.
+//
+// ⛔ THE DIGITS IN AN ARCHIVE.ORG IDENTIFIER ARE THE ITEM NUMBER, NOT THE
+// VOLUME NUMBER. In this very family, `doctorisseraphic11bona` and
+// `doctorisseraphic12bona` are the two halves of Tome I, not Tomes 11 and 12.
+// So every identifier below was confirmed against the volume's own printed
+// witness — its title page and its prolegomena heading — and never from the id.
+//
+// Method, identical for each volume:
+//   1. Identity: read the title page and the "PROLEGOMENA IN <N>UM TOMUM"
+//      heading out of the item's own OCR (`_djvu.xml`, which carries every
+//      word on the leaf including the running heads — unlike `_djvu.txt` and
+//      `_hocr_searchtext.txt`, neither of which is page-delimited here, and
+//      whose hOCR page index drifts against the leaf numbering).
+//   2. Body start: the volume's "OPERA HUIUS TOMI" contents leaf, which gives
+//      the first work's opening page.
+//   3. Body end: the last leaf before the volume's own index section, read by
+//      its running head; the index heading on the following leaf is quoted.
+//   4. Corroboration: the item's `_page_numbers.json`, which is an independent
+//      OCR of the printed folio numbers, agreed at every boundary leaf.
+// Leaf counts are NOT used as page counts: they differ by front matter, plates
+// and the index, by 30–130 leaves in these volumes.
 // ---------------------------------------------------------------------------
-const UNSOURCED_VOLUMES = {
-  6: 700,
-  7: 700,
-  8: 900,
-  9: 800,
-  10: 350,
+const MEASURED_EXTENTS = {
+  6: {
+    first: 1,
+    last: 634,
+    archiveId: "doctorisseraphic06bona",
+    identity:
+      'title page "COMMENTARII IN SACRAM SCRIPTURAM — TOMUS VI"; prolegomena head "PROLEGOMENA IN SEXTUM TOMUM"',
+    bodyStart: 'contents leaf "OPERA HUIUS TOMI": Commentarius in librum Ecclesiastae, pag. 1',
+    bodyEnd:
+      'leaf 0678, running head "634 APPENDIX COLL. II"; leaf 0679 opens "INDEX EORUM QUAE IN HOC SEXTO TOMO CONTINENTUR"',
+    confidence: "high",
+  },
+  7: {
+    first: 1,
+    last: 655,
+    archiveId: "doctorisseraphic07bona",
+    identity:
+      'title page "COMMENTARIUS IN EVANGELIUM S. LUCAE — TOMUS VII"; prolegomena head "PROLEGOMENA IN SEPTIMUM TOMUM"; sheet signature "S. Bonav. — Tom. VII."',
+    bodyStart: 'contents leaf "OPERA HUIUS TOMI": Commentarius in Evangelium S. Lucae, pag. 1',
+    bodyEnd:
+      'leaf 0681, running head "655 EXPOSITIO ORATIONIS DOMINICAE" (the appendix closes the volume); leaf 0682 blank, leaf 0683 opens "INDEX EORUM QUAE IN SEPTIMO TOMO CONTINENTUR"',
+    confidence: "high",
+  },
+  8: {
+    first: 3,
+    last: 678,
+    archiveId: "doctorisseraphic08bona",
+    identity:
+      'title page "OPUSCULA VARIA AD THEOLOGIAM MYSTICAM ET RES ORDINIS"; prolegomena head "PROLEGOMENA IN OCTAVUM TOMUM"',
+    bodyStart: 'contents leaf "OPUSCULA HUIUS TOMI": Opusc. I, De Triplici Via, pag. 3',
+    bodyEnd:
+      'leaf 0810, running head "678 OPUSCULUM VII. RHYTHMICA"; leaf 0811 opens "INDEX ALPHABETICUS PRAECIPUARUM RERUM ET SENTENTIARUM QUAE IN HOC VOLUMINE CONTINENTUR"',
+    confidence: "high",
+  },
+  9: {
+    first: 3,
+    last: 731,
+    archiveId: "doctorisseraphic09bona",
+    identity:
+      'title page "SERMONES DE TEMPORE, DE SANCTIS, DE B. VIRGINE MARIA"; prolegomena head "PROLEGOMENA IN NONUM TOMUM"',
+    bodyStart:
+      'contents leaf "OPERA HUIUS TOMI": Introductio cum Opusculo de arte praedicandi, pag. 3',
+    bodyEnd:
+      'leaf 0761, the close of Sermones de diversis at p. 731 (leaf 0760 reads "730 SERMONES DE DIVERSIS"); leaf 0762 blank, leaf 0763 opens "INDEX SERMONUM ET SCHEMATUM HUIUS TOMI"',
+    confidence: "high",
+  },
+  // Vol X is measured but NOT COUNTED. Wilson's scope call, 2026-09-17: the
+  // volume is Quaracchi's own prolegomena, general indices and apparatus, and
+  // this project generates its indexes from the text itself (INDEX-PLAN.md,
+  // approved 2026-07-31). It is not text to translate, so it sits outside the
+  // denominator — stated on the page, never dropped silently.
+  10: {
+    first: 1,
+    last: 277,
+    counted: false,
+    archiveId: "doctorisseraphic10bona",
+    identity:
+      'item metadata volume "t.10"; contents leaf "TABULA OPERUM OMNIUM HUIUS EDITIONIS IN TOM. I.–IV."; the running indices reference tomes I–IX throughout',
+    bodyStart: "the volume is index and apparatus throughout; the first numbered leaf is p. 5",
+    bodyEnd:
+      'leaf 0291, running head "277 INDEX LOCORUM SS. PATRUM" (Plotinus–Xenocrates); leaf 0293 is the Tabula operum, leaf 0294 the Corrigenda and Imprimatur of 16 August 1902',
+    confidence: "high",
+  },
 };
+
+// Volumes whose extent could NOT be settled fall back to a round estimate and
+// are rendered hatched and named as estimates. Emptied 2026-09-17, when Vols
+// VI–X were measured. Leave the machinery in place: it is what keeps a future
+// unmeasured volume from being quietly added to a measured total.
+const UNSOURCED_VOLUMES = {};
 
 // Volume identity — titles and years as the landing page already gives them.
 const VOLUMES = [
@@ -252,21 +347,68 @@ const volumes = VOLUMES.map((v) => {
     };
   }
 
+  const m = MEASURED_EXTENTS[v.n];
+  if (m) {
+    const total = m.last - m.first + 1;
+    return {
+      ...v,
+      done,
+      total,
+      basis: "measured",
+      counted: m.counted !== false,
+      extent: `pp. ${m.first}\u2013${m.last}`,
+      state: "planned",
+      shortfall: total - done,
+      source: {
+        archiveId: m.archiveId,
+        identity: m.identity,
+        bodyStart: m.bodyStart,
+        bodyEnd: m.bodyEnd,
+        confidence: m.confidence,
+      },
+    };
+  }
+
+  if (UNSOURCED_VOLUMES[v.n] === undefined) {
+    throw new Error(
+      `build-progress: Vol ${v.tome} has neither a measured extent nor an estimate. ` +
+        `A volume with no extent at all cannot be rendered — add it to MEASURED_EXTENTS ` +
+        `or to UNSOURCED_VOLUMES; do not let it fall through as zero.`
+    );
+  }
+
   return {
     ...v,
     done,
     total: UNSOURCED_VOLUMES[v.n],
     basis: "estimated",
+    counted: true,
     extent: "",
     state: "planned",
     shortfall: UNSOURCED_VOLUMES[v.n] - done,
   };
 });
 
-const measured = volumes.filter((v) => v.basis === "measured");
-const estimated = volumes.filter((v) => v.basis === "estimated");
+// `counted` is the scope gate, and it is separate from `basis`. A volume can be
+// measured and still sit outside the denominator (Vol X), and nothing outside
+// the denominator may contribute to the numerator either — if it ever did, the
+// ratio would be a lie in the project's own favour, so the build refuses.
+const counted = volumes.filter((v) => v.counted !== false);
+const uncounted = volumes.filter((v) => v.counted === false);
+for (const v of uncounted) {
+  if (v.done > 0) {
+    throw new Error(
+      `build-progress: Vol ${v.tome} is excluded from the denominator but ${v.done} of its ` +
+        `pages are translated. Either count the volume or stop counting its pages — ` +
+        `do not publish a percentage that has it both ways.`
+    );
+  }
+}
 
-const pagesTranslated = volumes.reduce((s, v) => s + v.done, 0);
+const measured = counted.filter((v) => v.basis === "measured");
+const estimated = counted.filter((v) => v.basis === "estimated");
+
+const pagesTranslated = counted.reduce((s, v) => s + v.done, 0);
 const measuredTotal = measured.reduce((s, v) => s + v.total, 0);
 const estimatedTotal = estimated.reduce((s, v) => s + v.total, 0);
 
@@ -281,6 +423,9 @@ const progress = {
   editionTotal: measuredTotal + estimatedTotal,
   pctOfMeasured: round1((pagesTranslated / measuredTotal) * 100),
   pctOfEdition: round1((pagesTranslated / (measuredTotal + estimatedTotal)) * 100),
+  anyEstimated: estimated.length > 0,
+  estimatedTomes: estimated.map((v) => v.tome),
+  uncountedTomes: uncounted.map((v) => ({ tome: v.tome, total: v.total })),
   volumes,
   audit: { chunksScanned, chunksWithPages },
 };
@@ -309,11 +454,20 @@ fs.writeFileSync(OUT_FILE, JSON.stringify(progress, null, 2) + "\n");
 console.log(
   `build-progress: ${chunksWithPages}/${chunksScanned} chunks carry printed_pages · ` +
     `${pagesTranslated} distinct printed pages translated · ` +
-    `${progress.pctOfMeasured}% of the ${measuredTotal} measured pp. (Vols I–V) · ` +
-    `${progress.pctOfEdition}% of the ~${progress.editionTotal} pp. edition (Vols VI–X estimated)`
+    `${progress.pctOfMeasured}% of the ${measuredTotal} measured pp. · ` +
+    (estimated.length
+      ? `${progress.pctOfEdition}% of the ~${progress.editionTotal} pp. counted edition ` +
+        `(Tome${estimated.length > 1 ? "s" : ""} ${progress.estimatedTomes.join(", ")} estimated)`
+      : `every counted volume measured; no estimate in the denominator`) +
+    (uncounted.length
+      ? ` · outside the count: Tome${uncounted.length > 1 ? "s" : ""} ` +
+        progress.uncountedTomes.map((u) => `${u.tome} (${u.total} pp.)`).join(", ")
+      : "")
 );
 for (const v of volumes) {
   console.log(
-    `  Tome ${v.tome.padEnd(4)} ${String(v.done).padStart(5)} / ${String(v.total).padStart(5)} pp.  (${v.basis})`
+    `  Tome ${v.tome.padEnd(4)} ${String(v.done).padStart(5)} / ${String(v.total).padStart(5)} pp.  ` +
+      `(${v.basis}${v.counted === false ? ", NOT COUNTED" : ""})` +
+      (v.source ? `  [${v.source.archiveId}]` : "")
   );
 }

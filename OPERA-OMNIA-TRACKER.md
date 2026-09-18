@@ -4,7 +4,7 @@ What it would take to cover all ten Quaracchi volumes of Bonaventure's *Opera
 Omnia* end-to-end. Companion to `PLAN.md` (phases) and `progress.md`
 (checkbox log). This file is the quantified rollup.
 
-Last updated: 2026-04-14.
+Last updated: 2026-09-17 (the "Printed pp." column, measured — see the scope table).
 
 > ⛔ **STALE — DO NOT TRUST THE SCOPE TABLE BELOW (noted 2026-08-19).** It reports Vols II, III and
 > IV as raw text "❌ empty file" with 0 chunks done. All three are chunked (464 / 412 / 646 files)
@@ -41,19 +41,60 @@ Sentences commentary ≈ 48 distinctions ≈ 60 sessions.
 Chunk counts for Vol I are actual; II–X are estimates from page count ÷ 5
 (Vol I ratio). Flag any row as "estimate" until the raw text exists.
 
+> ✅ **THE "Printed pp." COLUMN IS NO LONGER AN ESTIMATE (measured 2026-09-17).** Every figure in
+> it was a round hundred with no stated provenance, and `/progress` was resting on them. All ten
+> volumes are now MEASURED — Vols I–V from the corpus and its own work map, **Vols VI–X leaf by
+> leaf from the digitized Quaracchi volumes on the Internet Archive**. The column below gives the
+> **body extent** (first body page to last body page); Quaracchi's own back-matter indices are not
+> body text and are excluded, on both sides of the ratio, exactly as `/progress` counts them.
+>
+> | Vol | Body extent | Printed pp. | archive.org id | Last body page established from |
+> |----:|---|---:|---|---|
+> | I | 1–861 | 861 | `doctorisseraphic11bona` + `12bona` | corpus (commentary complete) |
+> | II | 1–1016 | 1016 | `doctorisseraphic02bona` | corpus |
+> | III | 1–896 | 896 | `doctorisseraphic03bona` | corpus |
+> | IV | 1–1054 | 1054 | `doctorisseraphic04bona` | corpus |
+> | V | 3–579 | 577 | `doctorisseraphic05bona` | **leaf 0657 running head "TRACTATUS DE PLANTATIONE PARADISI. 579"; leaf 0659 opens the INDEX at p. 581. The `~579` tilde is GONE.** |
+> | VI | 1–634 | 634 | `doctorisseraphic06bona` | leaf 0678 "634 APPENDIX COLL. II"; leaf 0679 opens "INDEX EORUM QUAE IN HOC SEXTO TOMO CONTINENTUR" |
+> | VII | 1–655 | 655 | `doctorisseraphic07bona` | leaf 0681 "655 EXPOSITIO ORATIONIS DOMINICAE"; leaf 0683 opens "INDEX EORUM QUAE IN SEPTIMO TOMO CONTINENTUR" |
+> | VIII | 3–678 | 676 | `doctorisseraphic08bona` | leaf 0810 "678 OPUSCULUM VII. RHYTHMICA"; leaf 0811 opens the INDEX ALPHABETICUS |
+> | IX | 3–731 | 729 | `doctorisseraphic09bona` | leaf 0761 (close of Sermones de diversis, p. 731); leaf 0763 opens "INDEX SERMONUM ET SCHEMATUM HUIUS TOMI" |
+> | X | index throughout | 277 | `doctorisseraphic10bona` | leaf 0291 "277 INDEX LOCORUM SS. PATRUM"; Tabula + Corrigenda follow. ⛔ **NOT COUNTED — see below.** |
+>
+> ⛔ **THE IDENTIFIER'S DIGITS ARE THE ITEM NUMBER, NOT THE VOLUME NUMBER** — in this very family
+> `…11bona` and `…12bona` are the two halves of Tome I. Each item above was confirmed to be the
+> volume claimed **from its own title page and its `PROLEGOMENA IN <N>UM TOMUM` heading**, never
+> from the id. Vols VI and VII additionally name themselves in their index headings ("IN HOC SEXTO
+> TOMO", "IN SEPTIMO TOMO") and Vol VII in its sheet signature (`S. Bonav. — Tom. VII.`).
+>
+> **Method:** identity and running heads read from each item's `_djvu.xml` (which carries every
+> word on the leaf, including the folio numbers — `_djvu.txt` and `_hocr_searchtext.txt` are not
+> page-delimited for these items, and the hOCR page index drifts against the leaf numbering);
+> body start from each volume's own `OPERA HUIUS TOMI` contents leaf; corroborated at every
+> boundary leaf by the item's `_page_numbers.json`, an independent OCR of the printed folio
+> numbers, which agreed in every case. Confidence **high** on all ten. ⛔ Leaf counts are NOT page
+> counts — they differ here by 30–130 leaves.
+>
+> ⛔ **VOL X IS MEASURED BUT NOT COUNTED (Wilson's scope call, 2026-09-17).** It is Quaracchi's
+> prolegomena, general indices and apparatus, superseded here by indexes generated from the text
+> itself (`INDEX-PLAN.md`, approved 2026-07-31) — the Vol X row below already said so. Counting
+> its 277 pages as "remaining" understates the project. The `/progress` denominator is therefore
+> **Vols I–IX = 7,098 printed pages**, and the page says so in prose rather than dropping the
+> volume silently.
+
 | Vol | Works | Printed pp. | Raw text | Chunks (est.) | Done | Sessions needed | Phase |
 |----:|---|---:|---|---:|---:|---:|:---:|
-| I   | *Comm. in I Sent.* (d. 1–48, pt. 1 + pt. 2) | ~1000 | ⚠️ pt. 1 only (3.1 MB); pt. 2 missing | ~270 | 70 (d. 1–8) | ~80 | **C (active)** |
-| II  | *Comm. in II Sent.* (d. 1–44) | ~1100 | ❌ empty file | ~240 | 0 | ~150 | D |
-| III | *Comm. in III Sent.* (d. 1–40) | ~900 | ❌ empty file | ~200 | 0 | ~125 | D |
-| IV  | *Comm. in IV Sent.* (d. 1–50) | ~1100 | ❌ empty file | ~240 | 0 | ~150 | D |
-| V   | *Opuscula Theologica Selecta* — 3 QD (scientia Christi, myst. Trinitatis, perfectione evang.), Breviloquium, Itinerarium, De reductione artium, **Collationes in Hexaemeron** + de septem donis + de decem praeceptis, Sermones selecti | ~580 | ✅ downloaded 2026-07-28 (offset +76; see CLAUDE.md VOL V section) | ~250 | 1 | — | **E (ACTIVE — Breviloquium pilot done 2026-07-28)** |
-| VI  | *Comm. in Sacram Scripturam* I — Eccl., Sap., Luke 1–8 | ~700 | ❌ | ~150 | 0 | ~90 | F |
-| VII | *Comm. in Sacram Scripturam* II — Luke 9–24, John | ~700 | ❌ | ~150 | 0 | ~90 | F — ⚠ correction 2026-07-28: the *Hexaemeron* is in **Vol V**, not here; the "Hexaemeron priority" flag moves to Vol V |
-| VIII| *Opuscula Varia Theologica* — Apologia pauperum, De perfectione vitae ad sorores, De regimine animae, et al. | ~900 | ❌ | ~120 | 0 | ~80 | E/F |
-| IX  | *Sermones* (de tempore, de sanctis, de B. V. Maria) | ~800 | ❌ | ~180 | 0 | ~110 | F |
-| X   | Prolegomena, indexes, apparatus criticus, fragments | ~350 | ❌ | ~30 | 0 | ~20 | F — Quaracchi's index volume is SUPERSEDED by generated indexes (scripture + cross-ref, see `INDEX-PLAN.md`, approved 2026-07-31); prolegomena/fragments still likely skip |
-| **Total** | | **~8150** | | **~1660** | **70** | **~955** | |
+| I   | *Comm. in I Sent.* (d. 1–48, pt. 1 + pt. 2) | **861** | ⚠️ pt. 1 only (3.1 MB); pt. 2 missing | ~270 | 70 (d. 1–8) | ~80 | **C (active)** |
+| II  | *Comm. in II Sent.* (d. 1–44) | **1016** | ❌ empty file | ~240 | 0 | ~150 | D |
+| III | *Comm. in III Sent.* (d. 1–40) | **896** | ❌ empty file | ~200 | 0 | ~125 | D |
+| IV  | *Comm. in IV Sent.* (d. 1–50) | **1054** | ❌ empty file | ~240 | 0 | ~150 | D |
+| V   | *Opuscula Theologica Selecta* — 3 QD (scientia Christi, myst. Trinitatis, perfectione evang.), Breviloquium, Itinerarium, De reductione artium, **Collationes in Hexaemeron** + de septem donis + de decem praeceptis, Sermones selecti | **577** (pp. 3–579) | ✅ downloaded 2026-07-28 (offset +76; see CLAUDE.md VOL V section) | ~250 | 1 | — | **E (ACTIVE — Breviloquium pilot done 2026-07-28)** |
+| VI  | *Comm. in Sacram Scripturam* I — Eccl. (p. 1), Sap. (105), Comm. in Ioan. (237), Collationes in Ioan. (533) ⚠ **corrected 2026-09-17 from the volume's own contents leaf: John is in Vol VI, and Luke is not** | **634** (pp. 1–634) | ❌ | ~150 | 0 | ~90 | F |
+| VII | *Comm. in Evangelium S. Lucae* — Luke entire (p. 1), + appendix: Expositio in Lamentationes (605), Expositio Orationis Dominicae (652) ⚠ **corrected 2026-09-17** | **655** (pp. 1–655) | ❌ | ~150 | 0 | ~90 | F — ⚠ correction 2026-07-28: the *Hexaemeron* is in **Vol V**, not here; the "Hexaemeron priority" flag moves to Vol V |
+| VIII| *Opuscula Varia Theologica* — Apologia pauperum, De perfectione vitae ad sorores, De regimine animae, et al. | **676** (pp. 3–678) | ❌ | ~120 | 0 | ~80 | E/F |
+| IX  | *Sermones* (de tempore, de sanctis, de B. V. Maria) | **729** (pp. 3–731) | ❌ | ~180 | 0 | ~110 | F |
+| X   | Prolegomena, indexes, apparatus criticus, fragments | **277** — ⛔ NOT COUNTED | ❌ | ~30 | 0 | ~20 | F — Quaracchi's index volume is SUPERSEDED by generated indexes (scripture + cross-ref, see `INDEX-PLAN.md`, approved 2026-07-31); prolegomena/fragments still likely skip |
+| **Total** | | **7,098** (I–IX; Vol X's 277 excluded) | | **~1660** | **70** | **~955** | |
 
 ---
 

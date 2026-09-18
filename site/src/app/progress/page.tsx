@@ -26,9 +26,19 @@ type Volume = (typeof progress.volumes)[number] & {
   pendingPages?: number;
   nonTextLeaves?: number;
   approxEnd?: boolean;
+  counted?: boolean;
+  extent?: string;
+  source?: {
+    archiveId: string;
+    identity: string;
+    bodyStart: string;
+    bodyEnd: string;
+    confidence: string;
+  };
 };
 
 const n = (x: number) => x.toLocaleString("en-US");
+const round1 = (x: number) => Math.round(x * 10) / 10;
 
 function Bar({
   done,
@@ -65,8 +75,11 @@ function Bar({
 }
 
 export default function ProgressPage() {
-  const volumes = progress.volumes as Volume[];
+  const all = progress.volumes as Volume[];
+  const volumes = all.filter((v) => v.counted !== false);
+  const uncounted = all.filter((v) => v.counted === false);
   const volV = volumes.find((v) => v.n === 5)!;
+  const anyEstimated = volumes.some((v) => v.basis === "estimated");
 
   return (
     <div style={{ maxWidth: "820px", margin: "0 auto" }}>
@@ -97,7 +110,8 @@ export default function ProgressPage() {
         <div className="prog-headline-figure">
           {n(progress.pagesTranslated)}{" "}
           <span className="prog-of">
-            of about {n(progress.editionTotal)} printed pages
+            of {anyEstimated ? "about " : ""}
+            {n(progress.editionTotal)} printed pages
           </span>
         </div>
       </div>
@@ -116,9 +130,11 @@ export default function ProgressPage() {
         <span>
           <i className="prog-swatch prog-seg--todo" /> Remaining, extent measured
         </span>
-        <span>
-          <i className="prog-swatch prog-seg--est" /> Remaining, extent estimated
-        </span>
+        {anyEstimated && (
+          <span>
+            <i className="prog-swatch prog-seg--est" /> Remaining, extent estimated
+          </span>
+        )}
       </div>
 
       <p className="body-text" style={{ marginTop: "1.5rem" }}>
@@ -129,15 +145,40 @@ export default function ProgressPage() {
         {n(volV.done)} of the {n(volV.total)} pages of Volume V, the <em>Opuscula</em>.
       </p>
       <p className="body-text" style={{ marginTop: "1.25rem" }}>
-        That is {progress.pctOfMeasured}% of the {n(progress.measuredTotal)} pages of Volumes
-        I through V, which is the part of the edition whose extent has actually been measured,
-        page by page, against the printed leaves. Volumes VI through X have not been set in type
-        here at all &mdash; not a page of their source text is yet in hand &mdash; so their
-        length is an <em>estimate</em>, drawn from the project&rsquo;s own scoping notes and
-        rounded to the nearest hundred pages. Against the edition as a whole, estimate included,
-        the figure is about {progress.pctOfEdition}%. The two numbers are kept apart on purpose:
-        the first is measured, the second is not.
+        That is {progress.pctOfMeasured}% of the {n(progress.measuredTotal)} pages this project
+        counts as text to translate &mdash; and every one of those pages is{" "}
+        <em>measured</em>, not estimated. Volumes I through V are measured from the corpus
+        itself, page by page. Volumes VI through IX have not been set in type here at all, but
+        their extent is no longer a guess either: each was measured in September 2026 against
+        the digitized Quaracchi volume, by finding the last leaf of its body text and reading
+        the page number off the running head. What that replaced were round hundreds carried
+        over from the project&rsquo;s own scoping notes, which were never more than a guess and
+        are now gone from this page.{anyEstimated ? " " : ""}
+        {anyEstimated && (
+          <>
+            Volume{progress.estimatedTomes.length > 1 ? "s" : ""}{" "}
+            {progress.estimatedTomes.join(", ")} could not be settled and{" "}
+            {progress.estimatedTomes.length > 1 ? "remain estimates" : "remains an estimate"};{" "}
+            {progress.estimatedTomes.length > 1 ? "they are" : "it is"} shown hatched above and
+            counted apart, which is why the figure against the whole is{" "}
+            {progress.pctOfEdition}% rather than {progress.pctOfMeasured}%.
+          </>
+        )}
       </p>
+      {uncounted.length > 0 && (
+        <p className="body-text" style={{ marginTop: "1.25rem" }}>
+          One volume is deliberately outside that count. Volume X ({n(uncounted[0].total)}{" "}
+          pages, also measured) is the edition&rsquo;s prolegomena, general indices and critical
+          apparatus rather than a work of Bonaventure&rsquo;s; the indices this site offers are
+          generated from the text itself, which supersedes Quaracchi&rsquo;s. It is therefore
+          not counted as text to translate. That is a scope decision, and it is stated rather
+          than made silently: counting it would put the figure at{" "}
+          {round1(
+            (progress.pagesTranslated / (progress.editionTotal + uncounted[0].total)) * 100
+          )}
+          % instead.
+        </p>
+      )}
 
       <FleuronDivider />
 
@@ -190,8 +231,13 @@ export default function ProgressPage() {
             <div className="prog-count">
               {estimated ? (
                 <>
-                  0 / ~{n(v.total)} pp.
+                  {n(v.done)} / ~{n(v.total)} pp.
                   <em>Estimated extent</em>
+                </>
+              ) : v.state === "planned" ? (
+                <>
+                  {n(v.done)} / {n(v.total)} pp.
+                  <em>Extent measured</em>
                 </>
               ) : (
                 <>
@@ -205,6 +251,22 @@ export default function ProgressPage() {
             <div className="prog-rowbar">
               <Bar done={v.done} total={v.total} estimated={estimated} />
             </div>
+
+            {v.state === "planned" && v.source && (
+              <p className="prog-note">
+                Not yet begun. Its extent is measured, not assumed: pp. {v.extent?.replace("pp. ", "")}{" "}
+                of the Quaracchi volume digitized as{" "}
+                <a
+                  href={`https://archive.org/details/${v.source.archiveId}`}
+                  style={{ textDecoration: "underline" }}
+                >
+                  {v.source.archiveId}
+                </a>
+                , whose identity was confirmed from its {v.n === 10 ? "own contents leaf" : "title page and prolegomena"} rather than
+                from its identifier, and whose last body page was read from the running head of
+                the last leaf before the volume&rsquo;s own index.
+              </p>
+            )}
 
             {v.state === "complete" && v.shortfall > 0 && (
               <p className="prog-note">
@@ -247,6 +309,43 @@ export default function ProgressPage() {
           </div>
         );
       })}
+
+      {uncounted.length > 0 && (
+        <>
+          <div className="section-title" style={{ marginTop: "2rem" }}>
+            Outside the Count
+          </div>
+          {uncounted.map((v) => (
+            <div key={v.n} className="prog-row prog-row--planned">
+              <span className="prog-tome">{v.tome}</span>
+              <div>
+                <span className="prog-title">
+                  {v.title} <span className="scope-year">&middot; {v.year}</span>
+                </span>
+                <br />
+                <span className="prog-gloss">{v.gloss}</span>
+              </div>
+              <div className="prog-count">
+                {n(v.total)} pp.
+                <em>Not counted</em>
+              </div>
+              <p className="prog-note">
+                Quaracchi&rsquo;s prolegomena, general indices and critical apparatus &mdash; the
+                editors&rsquo; volume about the edition, not a further work of
+                Bonaventure&rsquo;s. This site generates its own indices from the translated
+                text, which supersedes it. Its {n(v.total)} pages are measured all the same, from{" "}
+                <a
+                  href={`https://archive.org/details/${v.source?.archiveId}`}
+                  style={{ textDecoration: "underline" }}
+                >
+                  {v.source?.archiveId}
+                </a>
+                , and they are named here rather than dropped out of sight.
+              </p>
+            </div>
+          ))}
+        </>
+      )}
 
       <FleuronDivider />
 
