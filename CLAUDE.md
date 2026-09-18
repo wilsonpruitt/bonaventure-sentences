@@ -285,7 +285,7 @@ Vols V–X (2026-07-28).**
 | 8 | **Collationes in Hexaemeron** | 327–454 | `hexaemeron` | 11 | **COMPLETE 2026-08-23 — 23 collationes + Scholion; gated + deployed 2026-08-24.** (It is in Vol V, not Vol VII as the old tracker claimed.) |
 | 9 | **Coll. de septem donis** | 455–**503** | `septem-donis` | 12 | **COMPLETE 2026-08-29 — all 9 collationes Tier 2; work-close gate CLOSED CLEAN and DEPLOYED 2026-08-29.** End fixed positively from `EXPLICIUNT` on p. 503. |
 | 10 | **Coll. de decem praeceptis** | **505–532** | `decem-praeceptis` | 13 | **COMPLETE 2026-08-31 — all 7 collationes Tier 2; work-close gate CLOSED CLEAN, pushed and DEPLOYED to production 2026-08-31 (verified live: `/browse/13/d/7/q/bon-praec-c7` serves the `EXPLICIUNT`).** Half-title 505, blank 506, body 507–532, all plate-verified. |
-| 11 | Sermones selecti | **533**–~579 | `sermones-selecti` | 14 | planned. ⚠ **Half-title is p. 533, NOT ~535** (plate-read 2026-08-29): 533 half-title, 534 blank, body opens 535. |
+| 11 | Sermones selecti | **533–579** | `sermones-selecti` | 14 | **Mini-pilot run 2026-09-18** (§ SERMONES SELECTI below; evidence `manual-review/sermones-selecti-pilot-scouting.md`). 533 half-title, 534 blank, **body 535–579 (45 pp), ends on `EXPLICIUNT SERMONES SELECTI.`**, 580 blank, 581 index. ⛔ **FOUR sermons + ONE annexed *Tractatus de plantatione Paradisi* = FIVE chunks** — not "dozens." Pilot decisions await Wilson's ruling. |
 
 Order as actually run: Breviloquium → Itinerarium → De reductione → **Hexaemeron** (taken
 ahead of the QD, Wilson's call) → **septem donis** (complete) → **decem praeceptis** (COMPLETE, deployed) → the
@@ -2723,6 +2723,64 @@ the WORK-CLOSE GATE at p. 198** — its full carry-list is the START HERE block 
   ▶ **PROCEDURE THAT MADE THIS CHEAP, and worth repeating at every work-close gate: one read-only agent compiled an evidence sheet FIRST — per item, the site count by chunk, the decisive quoted sentence in both languages, the realistic alternatives with their one-line cost, and whether the change is mechanical or per-site. Wilson then ruled seven items in one sitting without opening a file.** The sheet's most useful column was the census: three rulings turned on how many sites there were, not on what the words meant.
 - **✅ WORK-CLOSE GATE RUN AND CLOSED 2026-09-17 — ZERO TEXT DEFECTS** (`manual-review/vol5-perfectione-evangelica-workclose-gate.md`; ten chunks, pp. 117–198, **689 apparatus entries**, ONE gate since the shakedown was declined). All eleven boundaries match the frozen record digit for digit and **every page 117–198 is owned exactly once with a contiguous 1..N register, derived from the files**; all seven of Wilson's rulings verified present as ruled; carried rulings 1/2/3/5 and `contuit-` all hold. One repair (`q3-a3` p. 179 n. 3: a **bare `[?]` in an English gloss** of the editors' own `[*?*]` query — the corpus's one live flag in the work; **238 → 237**, ours ZERO) and one stale Notes line in `q2-a1`. Suite: apparatus **162/3,984 all passed** · census rosters **162/162** · style scan **11/6, zero in scope** · **QA 201** · index **1,674 cited / 10,193 backlinks** · build **2,113/2,113**. Pass 4 deleted 83 plates + 60 crops, **~420 MB**. ⚠ **Ruling 3's "eight *ius canonicum* sites" is a whole-FILE count — three are rendered**, all reading "canon right"; ▶ **take every evidence-sheet census over the LIVE REGION.** Committed locally; **NOT pushed, NOT deployed** (both Wilson's hard stops).
 
+### SERMONES SELECTI — mini-pilot run 2026-09-18 (evidence + full detail in `manual-review/sermones-selecti-pilot-scouting.md`)
+
+*Sermones selecti de rebus theologicis*, work 11, book id 14, slug `sermones-selecti`, id prefix
+**`bon-serm-`**. English title: **"Selected Sermons on Theological Matters."** **The last work in
+Vol V.** p. 533 half-title · p. 534 MEASURED BLANK (0.0005 %) · **body 535–579 (45 pp)** · ends on
+**`EXPLICIUNT SERMONES SELECTI.`** set full measure on p. 579 · p. 580 MEASURED BLANK (0.0016 %) ·
+p. 581 the unnumbered volume index. Raw band **L86894 → L93513**.
+⛔ **PILOT DECISIONS 1–5 (scouting doc, last section) AWAIT WILSON'S RULING BEFORE `s1` IS DISPATCHED.**
+
+- ⛔ **THE WORK MAP WAS WRONG: FOUR SERMONS + ONE ANNEXED *TRACTATUS DE PLANTATIONE PARADISI* = FIVE
+  CHUNKS**, all spans measured at both ends on the plate: `bon-serm-s1` 535–538 · `s2` 539–553 ·
+  `s3` 553–566 · `s4` 567–574 · **`bon-serm-tract` 574–579** (`type: sermo` / `tractatus`,
+  `division: 1..5`). p. 574 n. 8 is the editors' own word: *Quatuor praecedentibus sermonibus
+  annectimus hunc tractatulum, secundum formam valde similem sermonibus* — a one-witness text
+  (*ex unico cod. Tudertino*) collated against Bonelli. **`bon-serm-tract` is a suffix-less slug —
+  census blind-spot class; roster = 5.** The every-N-sermones gate rule is retired unused: **ONE gate
+  at the close**, deploy boundary = work close = the end of Vol V.
+- **Form = the reportatio shape** (display heading + italic subtitle + full-measure unanchored
+  `SUMMARIUM` + numbered paragraphs + dense marginalia; no *Sed contra*/*Conclusio*), so the whole
+  Hexaemeron/*donis*/*praeceptis* block ports. Sermo II's Summarium announces *quinque quaestiones*
+  inside Pars I — quaestio-shaped paragraphs with no display heading; find by content. **Sermo II,
+  IV and the Tractatus close on a printed `— Explicit.` — transcribe it.**
+- **Boundaries, ALL FOUR MEASURED:** p. 539 LEAF EDGE · **p. 553 SHARED 2/1** (n. 3 = Sermo III's
+  anchored subtitle note, runs over the gutter; Sermo III's Summarium fills the leaf and continues on
+  554) · p. 567 LEAF EDGE · **p. 574 SHARED 7/2** (n. 8 = the Tractatus's anchored title, n. 9 = ¶ 1).
+  ⭐ **p. 553 is a NEW CASE for the p. 498 rule: the incoming body does NOT reach the leaf, yet it
+  forwards, because the SUBTITLE is anchored** — restate the rule as *a shared leaf forwards whatever
+  the incoming unit anchors on it: body, subtitle or opener*. Subtitle anchors run I no · II yes ·
+  III yes · IV no · Tract yes — read the line every time. Both shared leaves' running heads name the
+  INCOMING unit.
+- ⛔ **`SERMO I.` carries no apparatus anchor — the SIXTH work running.**
+- ⛔⛔ **THE p. 535 PLATE IS SCANNED MIRROR-REVERSED, and its OCR (raw L86902–87020) is reversed-letter
+  garbage.** `ImageOps.mirror()` restores the leaf exactly; the flipped image was written over
+  `raw/vision/vol5/p-535.png` at the pilot, and **any `--force` re-extraction brings the mirror back —
+  the `s1` builder flips first and says so.** The leaf is set from the plate alone. **Gutter p. 535
+  (flipped): 1356**, 63 px band, 24 windows at 0 px spread — a verso-range value on an odd leaf
+  because the mirror moves the gutter; right for the image you read, no evidence about the leaf.
+  Only p. 535 is affected (checked by numerals and running heads from 536 on).
+- **Register, census over the band:** *intellect-* 9 (bare "intellect" = defect) · ⭐⭐ ***lux* ~37 /
+  *lumen–lumina* ~45 — ruling 2 at its heaviest in Vol V** (the Tractatus's *duodecim lumina*; a
+  `tr-lumen` note at the first *lumen* of each chunk; verse test at every scriptural site) · *vaca-*
+  ZERO and noun *quies* ZERO (only verbs and *quietudo*) → the pair is untestable, record it ·
+  *contuitum* 1 → "contuition" · *fundam.* ZERO → ruling 5 not reached, say so · *pietas* 3 → piety ·
+  Collationes rulings bind (*praeceptum*/*mandatum*/*lex*; *intellectus*/*intelligentia*).
+  **WORKING, for Wilson:** ***magister* → "teacher"** in Sermo IV incl. Matt. 23:10 (Douay "master";
+  Lombard stays "the Master") · *testimonium* → testimony / *testis* → witness · *regnum Dei* → the
+  kingdom of God · *corpus Christi* → the Body of Christ · *plantatio* → planting, *paradisus* →
+  paradise, *lignum vitae* → the tree of life · *contemplatio*/*meditatio*/*devotio* as the
+  Itinerarium, *excessus* → transport.
+- **Sermo II (15 pp) and Sermo III (14 pp) exceed the single-agent maximum so far (11 pp)** —
+  recommended two sequential passes each into one uncommitted file, `q2-a2` hand-off discipline.
+- **Registry (when `s1` lands):** `WORKS["sermones-selecti"]` (book 14, `divisionLabel: "Sermones"`,
+  initial "S"), a `Sermo ${division}` branch in `buildWorkChunkTitle` and a type-first
+  `tractatus → "Tractatus"` beside `capitula`/`scholion`/`opusculum`. Divisions one at a time,
+  subtitle verified in place.
+- **Plates per unit, never in bulk**; extracted at the pilot: 533, 534, 535 (flipped), 539, 553, 567,
+  574, 579, 580, 581.
+
 ### Vol V mechanics
 
 - **Offset `pdf = printed + 76`** (verified at printed 174/176/201/320/507/530; PDF
@@ -3078,7 +3136,7 @@ the 450 dpi band, and where the plate is confirmed wrong, transcribe as printed 
 | Collationes in Hexaemeron | ~327–454 (128) | **3** + its own mini-pilot — see below |
 | Coll. de septem donis | ~455–503 (49) | 1 at close |
 | Coll. de decem praeceptis | ~505–532 (28) | 1 at close |
-| Sermones selecti | ~535–579 (45) | every-N-sermones — see below |
+| Sermones selecti | 535–579 (45) | **1 at close** (p. 579) — the every-N rule is retired unused: five units, not dozens (pilot 2026-09-18) |
 
 **This replaces the pilot's "one gate per pars," which would have given the Breviloquium
 seven.** The per-pars rule was frozen before a single chunk existed; sixteen chunks in,
@@ -3090,8 +3148,10 @@ firing a full three-pass cycle every ~15 pages buys almost nothing.
 - **Hexaemeron** — ~128 pages of *reportatio*, a register nobody has touched. It earns
   its own mini-pilot before the grind (per the genre-boundary rule above), and probably
   three gates rather than the two page count alone would give.
-- **Sermones selecti** — dozens of independent short pieces, where "work boundary"
-  stops meaning anything. Use a simple every-N-sermones rule; pick N at the mini-pilot.
+- **Sermones selecti** — ✅ SETTLED at the mini-pilot (2026-09-18): the "dozens of short
+  pieces" premise was wrong; it is four sermons and one annexed tractatulus, 45 pp, ONE gate
+  at the close. Nothing here was measured before the pilot — a work map's description of an
+  unopened work is a guess wearing a table cell.
 
 ## Index conventions (frozen 2026-07-31 by the Phase 0 pilot)
 
