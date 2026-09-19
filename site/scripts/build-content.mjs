@@ -450,6 +450,7 @@ const WORKS = {
     divisionLabel: "Sermones",
     divisions: {
       1: "Sermo I: De triplici testimonio sanctissimae Trinitatis",
+      2: "Sermo II: De regno Dei descripto in parabolis evangelicis",
     },
   },
 };

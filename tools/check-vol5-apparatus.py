@@ -2710,6 +2710,71 @@ KNOWN_TOTALS = {
               # drops that line entirely -- it is not a runover. Sermo I closes here
               # on a printed `-- EXPLICIT.`; p. 539 is a leaf edge (SERMO II. at the
               # head), so nothing is forwarded.
+    539: 4,   # bon-serm-s2 (PASS A), the sermon's OPENING leaf -- LEAF EDGE, split
+              # 0/all. n. 1 is the anchor on the italic SUBTITLE (Sermo II's subtitle
+              # IS anchored, unlike Sermo I's), and its note is the Bonelli/Laurentian
+              # provenance note. Anchors: subtitle + L nn. 2-3, R n. 4; footer blocks
+              # split 2/2, and n. 2 RUNS OVER THE GUTTER (breaks at `auctorem
+              # principaliter quidem agere`, completes at the head of the right block).
+    540: 10,  # bon-serm-s2, own register. Anchors L nn. 1-4, R nn. 5-10; the footer
+              # blocks split 3/7, so the left block UNDERRUNS by one. Nothing forwarded.
+    541: 12,  # bon-serm-s2, own register. Anchors L nn. 1-6, R nn. 7-12; the footer
+              # blocks split 9/3 -- a divergence of THREE, the widest so far in this
+              # work. n. 9 RUNS OVER THE GUTTER (breaks at `Post facere cod. Assisiens.
+              # (et`).
+    542: 13,  # bon-serm-s2, own register. Anchors L nn. 1-6, R nn. 7-13; the footer
+              # blocks split 6/7 -- anchors and blocks AGREE on this leaf. No runover.
+    543: 12,  # bon-serm-s2, own register. Anchors L nn. 1-7, R nn. 8-12; the footer
+              # blocks split 5/7, so the left block UNDERRUNS by two. n. 12 (Gregory,
+              # IV Moral. c. 36 n. 70) BREAKS OFF at the foot at `Sed in eisdem multis
+              # man-` and completes at the HEAD of p. 544's left block: a PAGE-CROSSING
+              # runover, counted here, on the leaf where it opens.
+    544: 11,  # bon-serm-s2, own register -- its left block OPENS with p. 543 n. 12's
+              # runover, above its own n. 1, so the register is NOT indented at n. 1.
+              # Anchors L nn. 1-5, R nn. 6-11; blocks split 6/5, so the left block
+              # overruns by one. n. 6 RUNS OVER THE GUTTER. The chunk's first
+              # lumen site (Wisd. 6:23) is anchored on this leaf at n. 9.
+    545: 13,  # bon-serm-s2, own register. Anchors L nn. 1-7, R nn. 8-13; blocks split
+              # 8/5, so the left block overruns by one. The gathering signature
+              # `S. Bonav. -- Tom. V.` stands beneath the left block and the signature
+              # numeral `69` beneath the right; neither is apparatus and neither is
+              # counted in the 13.
+    546: 12,  # bon-serm-s2, own register. Anchors L nn. 1-7, R nn. 8-12; blocks split
+              # 7/5 -- anchors and blocks AGREE. No runover.
+    547: 12,  # bon-serm-s2, own register. Anchors L nn. 1-6, R nn. 7-12; blocks split
+              # 5/7, so the left block UNDERRUNS by one. No runover.
+    548: 12,  # bon-serm-s2, the last leaf wholly inside Pars I. Anchors L nn. 1-6,
+              # R nn. 7-12; blocks split 6/6 -- anchors and blocks AGREE. n. 12 closes
+              # complete, so nothing crosses into p. 549; but the BODY does: para. 36
+              # opens here and completes at the head of p. 549's left column.
+    549: 11,  # bon-serm-s2 (PASS B closes the leaf). SHARED between the two passes
+              # of the one chunk, not between chunks: Pars I's para. 36 completes at
+              # ~24% of the left column and para. 37 opens beneath it. Anchors L
+              # nn. 1-5, R nn. 6-11 (5/6); footer BLOCKS split 3/8 -- the left block
+              # holds only nn. 1-3, so it UNDERRUNS the anchor break by two. n. 1 is
+              # Pass A's (Prov. 24, 16 on para. 36's `resurget`); nn. 2-11 are Pass
+              # B's. The register opens indented at its own n. 1 and n. 11 closes
+              # complete, so nothing crosses either page break in the apparatus.
+    550: 10,  # bon-serm-s2. Anchors L nn. 1-5, R nn. 6-10 (5/5); footer blocks split
+              # 6/4 -- the left block OVERRUNS by one (n. 6 answers `animadvertatur`
+              # in the RIGHT column). Register opens indented at n. 1, n. 10 closes
+              # complete: no runover either way.
+    551: 13,  # bon-serm-s2. Anchors L nn. 1-6, R nn. 7-13 (6/7); footer blocks split
+              # 8/5 -- the left block OVERRUNS by two, and n. 8 (the long note on the
+              # failure of codd. A C) RUNS OVER THE GUTTER into the head of the right
+              # block. Logged `p.551 n.8:gutter`.
+    552: 10,  # bon-serm-s2. Anchors L nn. 1-3, R nn. 4-10 (3/7); footer blocks split
+              # 4/6 -- the left block OVERRUNS by one, and n. 4 RUNS OVER THE GUTTER
+              # (breaking at `quibus-`). Logged `p.552 n.4:gutter`. n. 4 also carries
+              # this chunk's ONLY `fundam. N` site (`fundam. 3`), rendered
+              # *fundamentum* 3 per the scientia-Christi ruling 5.
+    553: 3,   # bon-serm-s2 closes here at ~25% of the RIGHT column on a printed
+              # `— Exᴘʟɪᴄɪᴛ.`; SERMO III's display heading, anchored subtitle and
+              # full-measure Summarium fill the rest of the leaf. SHARED 2/1: nn. 1-2
+              # are Sermo II's (anchored at `temporis` and `iustitiae` in the right
+              # column); n. 3 is SERMO III's subtitle note and belongs to
+              # `bon-serm-s3` -- it opens in the left block and RUNS OVER THE GUTTER,
+              # and that runover is s3's to log, NOT s2's.
 }
 
 
