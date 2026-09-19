@@ -434,8 +434,24 @@ const WORKS = {
       4: "Quaestio IV: De obedientia",
     },
   },
-  // Future Vol V works claim book ids here as their mini-pilots run:
-  // sermones-selecti: 14.
+  // See manual-review/sermones-selecti-pilot-scouting.md.
+  // The LAST work in Tome V. English title: "Selected Sermons on Theological
+  // Matters." FOUR sermons plus one annexed Tractatus de plantatione Paradisi
+  // = FIVE divisions, not "dozens of short pieces" (the work map was wrong;
+  // corrected at the mini-pilot, 2026-09-18). Division 5 is the Tractatus and
+  // carries `type: tractatus`, which buildWorkChunkTitle handles type-first;
+  // divisions 1-4 carry `type: sermo`. Divisions are added one at a time, each
+  // subtitle verified in place on the plate.
+  "sermones-selecti": {
+    book: 14,
+    tome: 5,
+    title: "Sermones selecti de rebus theologicis",
+    initial: "S",
+    divisionLabel: "Sermones",
+    divisions: {
+      1: "Sermo I: De triplici testimonio sanctissimae Trinitatis",
+    },
+  },
 };
 
 function buildWorkChunkTitle(meta) {
@@ -445,6 +461,10 @@ function buildWorkChunkTitle(meta) {
   if (meta.type === "scholion") return "Scholion";
   // An undivided work is one chunk and names itself (De reductione).
   if (meta.type === "opusculum") return "Opusculum";
+  // The Sermones selecti's fifth division is an annexed tractatulus, not a
+  // sermon; it names itself by type, like the capitula/scholion/opusculum
+  // cases above, so the Sermo branch below never has to special-case it.
+  if (meta.type === "tractatus") return "Tractatus";
   if (meta.division === 0) {
     return meta.section ? `Prologus, §${meta.section}` : "Prologus";
   }
@@ -460,6 +480,9 @@ function buildWorkChunkTitle(meta) {
     return `Coll. ${meta.division}`;
   // Flat works whose division is the quaestio (the three quaestiones disputatae).
   if (meta.workSlug === "scientia-christi") return `Quaest. ${meta.division}`;
+  // Flat work whose division is the sermon (Sermones selecti). Division 5, the
+  // annexed Tractatus, is caught type-first above and never reaches here.
+  if (meta.workSlug === "sermones-selecti") return `Sermo ${meta.division}`;
   // The de mysterio Trinitatis divides its quaestiones into articuli, so its
   // chunk is finer than its division: "Quaest. 1, Art. 1". Quaestio VIII is
   // undivided and carries no `articulus`, so it names itself "Quaest. 8".

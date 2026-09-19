@@ -2690,6 +2690,26 @@ KNOWN_TOTALS = {
     532: 2,   # bon-praec-c7, own register -- the work's last leaf; EXPLICIUNT
               # COLLATIONES DE DECEM PRAECEPTIS. closes the work full-measure beneath
               # both columns, with these two notes printed below it.
+    # Sermones selecti de rebus theologicis (pp. 535-579) -- the volume's last
+    # work. p. 533 half-title, p. 534 measured blank.
+    535: 4,   # bon-serm-s1, the work's OPENING leaf. Anchors split 2/2 across the
+              # columns; the footer blocks split 1/3, because n. 1 is a long
+              # editorial cross-reference note that fills the left block ALONE and
+              # RUNS OVER THE GUTTER to finish at the head of the right block.
+              # SERMO I. and its subtitle carry no anchor.
+    536: 9,   # bon-serm-s1, own register. Anchors L nn. 1-6, R nn. 7-9; the footer
+              # blocks split 5/4, so the left block UNDERRUNS the anchor division by
+              # one (n. 6 is anchored in the left column, printed in the right block).
+    537: 8,   # bon-serm-s1, own register. Anchors L nn. 1-4, R nn. 5-8; the footer
+              # blocks split 5/3, so the left block OVERRUNS by one -- the mirror of
+              # p. 536, on the very next leaf. The foot also carries the gathering
+              # signature `S. Bonav. -- Tom. V.` and the numeral 68; neither is a note.
+    538: 12,  # bon-serm-s1, the sermon's last leaf. Anchors L nn. 1-5, R nn. 6-12;
+              # the footer blocks split 6/6, so the left block overruns by one again.
+              # n. 2 WRAPS to a second line inside the left block and the djvu raw
+              # drops that line entirely -- it is not a runover. Sermo I closes here
+              # on a printed `-- EXPLICIT.`; p. 539 is a leaf edge (SERMO II. at the
+              # head), so nothing is forwarded.
 }
 
 
