@@ -2781,15 +2781,18 @@ existed — full reasoning in the scouting doc's rulings section). The front is 
   III yes · IV no · Tract yes — read the line every time. Both shared leaves' running heads name the
   INCOMING unit.
 - ⛔ **`SERMO I.` carries no apparatus anchor — the SIXTH work running.**
-- ⛔⛔ **A DEFECTIVE SUPERSCRIPT-`4` SORT RUNS THROUGH THIS WORK: four footnote numerals failed to
-  print, and ALL FOUR ARE AN `n. 4`** — p. 558's wholly blank (the entry stands indented between
-  nn. 3 and 5 with no numeral at all), pp. 560 / 563 / 566 a glyph fragment. **This is one defective
-  sort, not four independent miscounts**, and each was settled by content plus sequence on the plate.
-  ▶ **It is invisible to every tool, because Vol V's raw has no footnote numerals to begin with** —
-  only the band shows it. **Expect it on every remaining leaf of this work: when a register seems to
-  skip a number, look for an unnumbered indented entry in the sequence position before concluding a
-  miscount.** ⭐ Generalises: *a run of "missing" numerals that are all the SAME digit is a typeface
-  fact, not a counting error* — the `II`→`H` flattening taught the same lesson one glyph over.
+- ⛔⛔ **FOOTNOTE NUMERALS FAIL TO PRINT THROUGHOUT THIS WORK — SIX SO FAR, AND THE DEFECT IS NOT
+  CONFINED TO ONE SORT.** `s3` met four and all four were an **`n. 4`** (p. 558's wholly blank, the
+  entry standing indented between nn. 3 and 5 with no numeral at all; pp. 560 / 563 / 566 a glyph
+  fragment), which looked like one defective sort. **`s4` then met `n. 7` at p. 570 and `n. 13` at
+  p. 573 — so the `4`-only reading was an artefact of a four-item sample, and the real class is ANY
+  numeral.** ⚠ **Corrected 2026-09-19; the narrower claim stood for one chunk.** Each was settled by
+  content plus sequence on the plate. ▶ **It is invisible to every tool, because Vol V's raw has no
+  footnote numerals to begin with** — only the band shows it. **When a register seems to skip a
+  number, look for an unnumbered or fragmentary indented entry in the sequence position before
+  concluding a miscount.** ⭐ And the correction is itself the lesson: *a run of defects sharing one
+  value is evidence about the run, not yet about the mechanism* — four of a kind out of four is a
+  sample, not a pattern. Cf. the `II`→`H` flattening, a genuine typeface fact one glyph over.
 - ⛔⛔ **`check-live-flags.py --volume 5` SCANS ZERO CHUNKS AND THEN PRINTS A CLEAN VERDICT.** The
   script takes a **bare positional volume name**: `check-live-flags.py vol5` → 165 chunks; bare, with
   no argument → the whole corpus. `--volume 5` matches nothing and reports success. **This trap was
