@@ -2790,7 +2790,16 @@ existed — full reasoning in the scouting doc's rulings section). The front is 
   Only p. 535 is affected (checked by numerals and running heads from 536 on).
 - **Register, census over the band:** *intellect-* 9 (bare "intellect" = defect) · *vaca-* ZERO and
   noun *quies* ZERO (only verbs and *quietudo*) → the pair is untestable here, record it ·
-  *contuitum* 1 → "contuition" · *fundam.* ZERO → ruling 5 not reached, say so positively ·
+  *contuitum* 1 → "contuition" ·
+  ⛔⛔ ***fundam.* IS NOT ZERO — THE PILOT'S CENSUS WAS WRONG, and `s2` pass A repeated it before
+  pass B caught the site on the plate: p. 552 n. 4 prints `fundam. 3`** (retained as *fundamentum* 3
+  under ruling 5, quoted in `bon-serm-s2`'s Notes). ▶ **THE MECHANISM, and it generalises past this
+  work: the census was run over the RAW, and Vol V's raw is cascade-fragmented precisely in the
+  APPARATUS — which is where ruling 5 lives.** A raw-side census is therefore structurally blind to
+  the register items that occur only in footers. **Re-run the `fundam.` census over the BUILT FILES
+  for every remaining chunk, and never report a ruling-5 zero off the raw again.** (Same species as
+  the `check-live-flags.py --volume 5` finding: a tool's verdict is worthless until you read its
+  denominator.) ·
   *pietas* 3 → piety · Collationes rulings bind (*praeceptum*/*mandatum*/*lex*;
   *intellectus*/*intelligentia*).
   ⭐⭐ ✅ ***lux* ~37 / *lumen–lumina* ~45 — RULING 2 AT ITS HEAVIEST IN VOL V AND IT STANDS

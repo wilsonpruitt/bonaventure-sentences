@@ -168,7 +168,13 @@ n. 3) — a **printed-edition witness by name**, not a siglum; transcribe as pri
   *internarum quietudinum* → "inward quietudes", a different noun). **The pair is untestable here;
   record it, do not reopen it.**
 - ***contuitum* 1** (Sermo IV, *per simplicem contuitum*) → "contuition" (ruling 3).
-- ***fundam.* ZERO** — ruling 5 not reached; say so in each chunk's Notes.
+- ⛔⛔ ~~***fundam.* ZERO** — ruling 5 not reached~~ **— THIS CENSUS LINE IS WRONG (corrected
+  2026-09-18 at `bon-serm-s2` pass B).** p. 552 n. 4 prints **`fundam. 3`**, retained as
+  *fundamentum* 3 under ruling 5. `s2` pass A repeated the false zero because it inherited it from
+  this sheet. ▶ **Cause: this census was run over the RAW, and Vol V's raw is cascade-fragmented
+  precisely in the APPARATUS — where ruling 5 lives.** A raw-side census cannot see a register item
+  that occurs only in footers. **Every remaining chunk re-runs the `fundam.` census over the BUILT
+  FILES; no ruling-5 zero is ever reported off the raw again.**
 - ***pietas* 3** → piety.
 - **Carried from the Collationes and binding:** *praeceptum* precept / *mandatum* commandment /
   *lex* law; *intellectus*/*intelligentia*; *pietas*.
