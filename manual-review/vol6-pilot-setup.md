@@ -88,3 +88,18 @@ Vol V work opening; **unlike Vol V's three QD, EVERY work here has its own half-
 - `extract-pages.py` skips an existing file **whatever its dpi** — check pixel size of any page touched twice.
 - ⛔ Never `git stash` in this repo.
 - Disk: **6.9 GB free (97 %)**. Plates per unit, never in bulk; pass-4 deletion at each gate.
+
+---
+
+# ECCLESIASTES — RULINGS (Wilson, 2026-09-19; taken off the evidence sheet before any chunk existed)
+
+Evidence (measured 2026-09-19): Quaracchi cites the work by chapter+verse (`Comment. in Eccle. 1, 4.`); the volume index (PDF 677–678, read on the plate) gives Prooemium pp. 3–9 (Introductio generalis, De quadruplici causa, Quaestio I–IV, Jerome's Prologus, Expositio prologi) → 12 capitula → ~41 verse-pericopes each followed by `Quaestiones` → Cap. XII Scholion p. 99, Schemata p. 100. The raw has no footnote numerals (bands-only apparatus). Gutter runs measure 45–49 px at 2067 px width — recalibrate; Vol V's 58–64 px band is not the floor here.
+
+1. **Chunk unit = the index verse-pericope, with its Quaestiones** (~41 chunks; `division` = capitulum, `verses: [a, b]` in frontmatter). Capitulum-level chunking refused.
+2. **Prooemium = TWO chunks, division 0:** Bonaventure's opener pp. 3–8 (`bon-eccl-prooem`) and Jerome's Prologue + Expositio pp. 8–9 (`bon-eccl-prol`).
+3. **Scholion (p. 99) and Schemata (p. 100) = own chunks, rendered in full**; a schema's form is decided when reached.
+4. **Small-cap divisio headings kept as `####` headings; `(Vers. N.)` addresses kept verbatim in both languages; `QUAESTIONES.` rendered `### Quaestiones`.**
+5. **Register:** Vol V rulings carry. *Ecclesiastes* stays the name, *concionator* → "preacher"; *vanitas* → "vanity" throughout; the lemma is Douay adjusted to Quaracchi's Vulgate; the scripture index must not count a chunk's own lemma as a citation (first-chunk resolver job).
+6. **Cadence:** shakedown gate after Cap. I (p. 19), work-close gate at p. 103; deploy at each, each a separate OK.
+8. **Work order after Eccl.:** Sap → Ioan → Collationes (Sap a confirmation pilot; Coll a full pilot).
+7. *(pilot chunk — awaiting answer)*
