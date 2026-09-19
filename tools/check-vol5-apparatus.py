@@ -2848,6 +2848,54 @@ KNOWN_TOTALS = {
               # !! p. 566 n. 4's SUPERSCRIPT NUMERAL PRINTED ONLY AS A FRAGMENT --
               # the FOURTH instance in this chunk and the fourth to fall on an n. 4
               # (558, 560, 563, 566). A defective superscript-4 sort, not a miscount.
+    567: 7,   # bon-serm-s4, the sermon's OPENING leaf -- LEAF EDGE (running head
+              # `SERMO IV.`, full-measure display heading and the numeral 567 all on
+              # the leaf; p. 566's register closes complete, so nothing is inherited).
+              # Heading AND subtitle UNANCHORED, read at 2x. Anchors L nn. 1-5,
+              # R nn. 6-7 (5/2); footer blocks 7/0 -- divergence 2. n. 7 RUNS OVER
+              # THE GUTTER and carries the work's one `contuitum` site
+              # (`per simplicem contuitum`). Logged `p.567 n.7:gutter`.
+    568: 14,  # bon-serm-s4. Anchors L nn. 1-6, R nn. 7-14 (6/8); footer blocks 11/3
+              # -- ANCHOR/BLOCK DIVERGENCE 5, the widest on the span, because n. 11
+              # (the Glossa on Ioan. 17, 17) is eight lines long. n. 11 RUNS OVER THE
+              # GUTTER; logged `p.568 n.11:gutter`.
+    569: 13,  # bon-serm-s4. Anchors L nn. 1-8, R nn. 9-13 (8/5); footer blocks 8/5 --
+              # NO divergence. n. 8 is an editorial dissertation on Augustine's
+              # illumination doctrine filling most of the left block, and it RUNS OVER
+              # THE GUTTER; logged `p.569 n.8:gutter`. The `S. Bonav. - Tom. V.`
+              # signature line and the gathering signature `72` are not apparatus.
+    570: 12,  # bon-serm-s4. Anchors L nn. 1-7, R nn. 8-12 (7/5); footer blocks 7/5 --
+              # NO divergence. n. 7 RUNS OVER THE GUTTER; logged `p.570 n.7:gutter`.
+              # !! n. 7's SUPERSCRIPT NUMERAL PRINTED ONLY AS A FRAGMENT (read at 8x:
+              # a top bar and a descending stroke, no bowl) -- settled as 7 by content
+              # and sequence. It is a fragment of a 7, NOT of a 4: the defective-sort
+              # class `bon-serm-s3` found is NOT confined to the 4 sort.
+              # n. 3 prints `Num. 24.` -- Quaracchi's *numerus*, not the book of
+              # Numbers (the `require_verse` class).
+    571: 9,   # bon-serm-s4. Anchors L nn. 1-5, R nn. 6-9 (5/4); footer blocks 5/4 --
+              # NO divergence, and NO RUNOVER: n. 5 closes inside the left block and
+              # the right block opens numbered at n. 6. n. 8 cites `Petrus Lomb.,
+              # I. Sent. d. 2. c. 1` by NAME, not as `Magister` -- so the Lombard
+              # carve-out on ruling 2 is not engaged anywhere in this chunk.
+    572: 15,  # bon-serm-s4. Anchors L nn. 1-6, R nn. 7-15 (6/9); footer blocks 7/8 --
+              # divergence 1. NO RUNOVER. n. 5's `Cfr. supra pag. 360, nota 6.` is a
+              # Hexaemeron locus, settled at 5x (both bowls of the 3 present).
+    573: 15,  # bon-serm-s4. Anchors L nn. 1-8, R nn. 9-15 (8/7); footer blocks 7/8 --
+              # divergence 1, and REVERSED against p. 572. NO RUNOVER.
+              # !! n. 13's SUPERSCRIPT NUMERAL IS A FRAGMENT -- a clean `1` followed by
+              # a faint speck where the `3` should be (read at 6x). Settled by content
+              # (Prov. 19, 11, answering the body's `doctrina viri per patientiam
+              # noscitur`) and by sequence between nn. 12 and 14. SECOND defective
+              # numeral in this chunk and the second that is not a 4.
+    574: 9,   # bon-serm-s4 closes here at ~30% of the RIGHT column on a printed
+              # `— Exᴘʟɪᴄɪᴛ.` (read at 4x); `TRACTATUS DE PLANTATIONE PARADISI`, its
+              # anchored title and its Summarium fill the rest of the leaf.
+              # SHARED 7/2, re-derived on the plate: nn. 1-7 are Sermo IV's (left
+              # block, n. 7 = `Vers. 13.` its last line), and n. 8 (the *annectimus*
+              # note) and n. 9 (Gen. 2, 8) open the RIGHT block and belong to
+              # `bon-serm-tract`. NO RUNOVER crosses the gutter: n. 7 is one complete
+              # line. The running head already reads `TRACTATUS DE PLANTATIONE
+              # PARADISI.` over four columns of Sermo IV.
 }
 
 
