@@ -2781,6 +2781,22 @@ existed — full reasoning in the scouting doc's rulings section). The front is 
   III yes · IV no · Tract yes — read the line every time. Both shared leaves' running heads name the
   INCOMING unit.
 - ⛔ **`SERMO I.` carries no apparatus anchor — the SIXTH work running.**
+- ⛔⛔ **A DEFECTIVE SUPERSCRIPT-`4` SORT RUNS THROUGH THIS WORK: four footnote numerals failed to
+  print, and ALL FOUR ARE AN `n. 4`** — p. 558's wholly blank (the entry stands indented between
+  nn. 3 and 5 with no numeral at all), pp. 560 / 563 / 566 a glyph fragment. **This is one defective
+  sort, not four independent miscounts**, and each was settled by content plus sequence on the plate.
+  ▶ **It is invisible to every tool, because Vol V's raw has no footnote numerals to begin with** —
+  only the band shows it. **Expect it on every remaining leaf of this work: when a register seems to
+  skip a number, look for an unnumbered indented entry in the sequence position before concluding a
+  miscount.** ⭐ Generalises: *a run of "missing" numerals that are all the SAME digit is a typeface
+  fact, not a counting error* — the `II`→`H` flattening taught the same lesson one glyph over.
+- ⛔⛔ **`check-live-flags.py --volume 5` SCANS ZERO CHUNKS AND THEN PRINTS A CLEAN VERDICT.** The
+  script takes a **bare positional volume name**: `check-live-flags.py vol5` → 165 chunks; bare, with
+  no argument → the whole corpus. `--volume 5` matches nothing and reports success. **This trap was
+  already recorded once and is still live — read the denominator on every run.** ⚠ And the counter
+  counts occurrences **BY LINE**: `s3`'s four new `[?]` flags moved the corpus total 237 → **239**,
+  not 245, because all four share one paragraph per language. **A flag delta smaller than the flag
+  count is not a discrepancy.**
 - ⛔⛔ **THE p. 535 PLATE IS SCANNED MIRROR-REVERSED, and its OCR (raw L86902–87020) is reversed-letter
   garbage.** `ImageOps.mirror()` restores the leaf exactly; the flipped image was written over
   `raw/vision/vol5/p-535.png` at the pilot, and **any `--force` re-extraction brings the mirror back —
