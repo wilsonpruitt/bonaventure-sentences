@@ -171,9 +171,11 @@ n. 3) — a **printed-edition witness by name**, not a siglum; transcribe as pri
   Tractatus was REFUSED** — *lux* stands in the same treatise (*veritatis lumina et caritatis
   solatia* against the closing *arma lucis*), so the carve-out would collide at exactly the sites
   the ruling protects. **Cost accepted: a transliteration ~45 times in 45 pages.**
-- ***vaca-* ZERO; noun *quies* ZERO** (only *conquiescat*, *quiescens* and *quietudo* — p. 579
-  *internarum quietudinum* → "inward quietudes", a different noun). **The pair is untestable here;
-  record it, do not reopen it.**
+- ***vaca-* ZERO;** ~~**noun *quies* ZERO**~~ **— CORRECTED 2026-09-19: noun *quies* is ONE site,**
+  p. 574's Summarium *in paradisi quiete* → "the rest of paradise" (`bon-serm-tract`; this raw-side
+  census missed it) — besides *conquiescat*, *quiescens* and *quietudo* (p. 579
+  *internarum quietudinum* → "inward quietudes", a different noun). **The pair is still untested here,
+  because *vaca-* is still ZERO; record it, do not reopen it.**
 - ***contuitum* 1** (Sermo IV, *per simplicem contuitum*) → "contuition" (ruling 3).
 - ⛔⛔ ~~***fundam.* ZERO** — ruling 5 not reached~~ **— THIS CENSUS LINE IS WRONG (corrected
   2026-09-18 at `bon-serm-s2` pass B).** p. 552 n. 4 prints **`fundam. 3`**, retained as

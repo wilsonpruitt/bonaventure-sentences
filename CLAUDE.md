@@ -2483,7 +2483,8 @@ the WORK-CLOSE GATE at p. 198** — its full carry-list is the START HERE block 
     > takes the side of being free *for* divine things: the point of the Gloss is what these poor are
     > given over to, not what they are released from. No *vaca-* word is rendered "rest" in this
     > translation, because *quies* and *requies* take that word.
-  - ⬜ **OWED at the next deploy boundary:** add the note to the two deployed *vacatio* sites
+  - ✅ **DONE — committed `65a73d3` (2026-09-17)**, verified at the Vol V deploy-batch clearance
+    2026-09-19 (first occurrence, oblique stems, one per chunk). ~~OWED at the next deploy boundary:~~ add the note to the two deployed *vacatio* sites
     (`bon-praec-c4`, `bon-qmt-q7-a2`), and the *lumen* ruling's owed translator's note (first
     *lumen* in `bon-qsc-q3`/`q4`, `bon-qmt` chunks). Deploy-only work — batch it, don't ship alone.
 - ✅ **APPROVED (Wilson, 2026-09-15): building `q2-a2` (~21 pp).** ONE chunk (citation unit), built
@@ -2817,7 +2818,11 @@ existed — full reasoning in the scouting doc's rulings section). The front is 
   because the mirror moves the gutter; right for the image you read, no evidence about the leaf.
   Only p. 535 is affected (checked by numerals and running heads from 536 on).
 - **Register, census over the band:** *intellect-* 9 (bare "intellect" = defect) · *vaca-* ZERO and
-  noun *quies* ZERO (only verbs and *quietudo*) → the pair is untestable here, record it ·
+  ~~noun *quies* ZERO (only verbs and *quietudo*)~~ **— CORRECTED 2026-09-19: noun *quies* is ONE
+  site, not zero** — `bon-serm-tract`'s Summarium, p. 574, *anima collocari potest in paradisi
+  **quiete*** → "the rest of paradise" (found by the `tract` build; the pilot's raw-side census missed
+  it). **The *vacatio*/*quies* pair nonetheless REMAINS UNTESTED in this work, because *vaca-* is
+  still ZERO** — one side of a pair cannot test the distinction; record it, do not reopen it ·
   *contuitum* 1 → "contuition" ·
   ⛔⛔ ***fundam.* IS NOT ZERO — THE PILOT'S CENSUS WAS WRONG, and `s2` pass A repeated it before
   pass B caught the site on the plate: p. 552 n. 4 prints `fundam. 3`** (retained as *fundamentum* 3
