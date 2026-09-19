@@ -46,7 +46,7 @@ _arg = sys.argv[3] if len(sys.argv) > 3 else None
 # the right column, padding L with gutter+right text and truncating R. Never
 # let a constant stand in for a measurement on this volume.
 if _arg is None:
-    split_x = "auto" if vol == "vol5" else 1660
+    split_x = "auto" if vol in ("vol5", "vol6") else 1660
 elif _arg == "auto":
     split_x = "auto"
 else:

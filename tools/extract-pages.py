@@ -134,6 +134,14 @@ VOLUMES: dict[str, VolumeConfig] = {
         printed_max=582,
         description="Opera Omnia, Tomus V — Opuscula theologica (Breviloquium, Itinerarium, QD, Collationes; two-column, body pp.3–~579)",
     ),
+    "vol6": VolumeConfig(
+        name="vol6",
+        pdf_path=REPO_ROOT / "raw" / "doctorisseraphic06bona.pdf",
+        pdf_offset=42,           # PDF page = printed page + 42 (verified 2026-09-19 at printed 19/78/98/138/178/218/298/318/378/418/478/538/578/598; PDF=688pp, two-column; ⚠ worn-5-reads-as-3 in the raw folios, e.g. "38" is p.58 and "238" is p.258)
+        printed_min=1,
+        printed_max=634,
+        description="Opera Omnia, Tomus VI — Commentarii in Sacram Scripturam I (Ecclesiastes, Sapientia, Ioannes, Collationes in Ioannem; two-column, body pp.3–634)",
+    ),
 }
 
 
