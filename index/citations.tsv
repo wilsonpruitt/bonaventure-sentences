@@ -23708,3 +23708,39 @@ bon-serm-s4	5	apparatus:p572-5	p572-5	crossref	page	supra pag. 360, nota 6	bon-h
 bon-serm-s4	5	apparatus:p572-8	p572-8	scripture	apparatus-explicit	Exod. 25, 40	Exod 25:40	A	verse		
 bon-serm-s4	5	apparatus:p573-5	p573-5	scripture	apparatus-explicit	Psalm. 118, 66	Ps 118:66	A	verse		
 bon-serm-s4	5	apparatus:p573-9	p573-9	scripture	apparatus-explicit	Rom. 13, 10	Rom 13:10	A	verse		
+bon-serm-tract	5	apparatus:p574-9	p574-9	scripture	apparatus-explicit	Gen. 2, 8	Gen 2:8	A	verse		
+bon-serm-tract	5	apparatus:p575-6	p575-6	crossref	work	Breviloq. p. V. c. 6.	bon-brev-p5-c6		chunk		
+bon-serm-tract	5	apparatus:p575-7	p575-7	crossref	work	Breviloq. p. II. c. 2.	bon-brev-p2-c2		chunk		
+bon-serm-tract	5	apparatus:p575-7	p575-7	crossref	work	Breviloq.	work:breviloquium		work		
+bon-serm-tract	5	apparatus:p575-8	p575-8	scripture	apparatus-explicit	II. Cor. 12, 2-4	2Cor 12:2-4	A	verse		
+bon-serm-tract	5	apparatus:p575-8	p575-8	scripture	apparatus-explicit	Eccli. 44, 16	Eccli 44:16	A	verse		
+bon-serm-tract	5	apparatus:p576-5	p576-5	scripture	apparatus-explicit	II. Cor. 3, 18	2Cor 3:18	A	verse		
+bon-serm-tract	5	apparatus:p576-9	p576-9	scripture	apparatus-explicit	Rom. 1, 21	Rom 1:21	A	verse		
+bon-serm-tract	5	apparatus:p576-9	p576-9	crossref	work	Breviloq.	work:breviloquium		work		
+bon-serm-tract	5	apparatus:p576-10	p576-10	scripture	apparatus-explicit	Prov. 9, 9	Prov 9:9	A	verse		
+bon-serm-tract	5	apparatus:p576-10	p576-10	scripture	anaphor->apparatus-explicit	ibid.	Prov 9:9	A	verse	yes	Prov. 9, 9
+bon-serm-tract	5	apparatus:p577-1	p577-1	scripture	apparatus-explicit	Eccli. 1, 5	Eccli 1:5	A	verse		
+bon-serm-tract	5	apparatus:p577-2	p577-2	crossref	work	Breviloq. p. IV. c. 1.	bon-brev-p4-c1		chunk		
+bon-serm-tract	5	apparatus:p577-3	p577-3	crossref	page	tom. I. pag. 2, nota 8	bon-sent-I-proem		chunk		
+bon-serm-tract	5	apparatus:p577-5	p577-5	scripture	apparatus-explicit	Rom. 6, 5	Rom 6:5	A	verse		
+bon-serm-tract	5	apparatus:p577-6	p577-6	scripture	apparatus-explicit	Luc. 23, 43	Luc 23:43	A	verse		
+bon-serm-tract	5	apparatus:p577-6	p577-6	scripture	apparatus-explicit	Gen. 2, 9	Gen 2:9	A	verse		
+bon-serm-tract	5	apparatus:p577-7	p577-7	crossref	logical	II. Sent. d. 19. a. 2. q. 2.	bon-sent-II-d19-a2-q2		chunk		
+bon-serm-tract	5	apparatus:p577-9	p577-9	crossref	work	Itiner.	work:itinerarium		work		
+bon-serm-tract	5	apparatus:p577-9	p577-9	scripture	apparatus-explicit	Cant. 4, 12	Cant 4:12	A	verse		
+bon-serm-tract	5	apparatus:p578-2	p578-2	scripture	apparatus-explicit	Ps. 18, 10	Ps 18:10	A	verse		
+bon-serm-tract	5	apparatus:p578-3	p578-3	scripture	apparatus-explicit	Ps. 85, 12	Ps 85:12	A	verse		
+bon-serm-tract	5	apparatus:p578-5	p578-5	crossref	work	Itiner.	work:itinerarium		work		
+bon-serm-tract	5	apparatus:p578-5	p578-5	crossref	work	Breviloq. p. II. c. 12.	bon-brev-p2-c12		chunk		
+bon-serm-tract	5	apparatus:p578-5	p578-5	scripture	apparatus-explicit	Cant. 1, 6	Cant 1:6	A	verse		
+bon-serm-tract	5	apparatus:p578-6	p578-6	crossref	work	Itiner.	work:itinerarium		work		
+bon-serm-tract	5	apparatus:p578-6	p578-6	crossref	logical	I. Sent. d. 3. p. II. a. 1	bon-sent-I-d3-p2-a1-q1+bon-sent-I-d3-p2-a1-q2+bon-sent-I-d3-p2-a1-q3		articulus		
+bon-serm-tract	5	apparatus:p578-6	p578-6	crossref	logical	II. Sent. d. 16.	II:d16		distinctio		
+bon-serm-tract	5	apparatus:p578-8	p578-8	crossref	work	Itiner.	work:itinerarium		work		
+bon-serm-tract	5	apparatus:p578-9	p578-9	crossref	work	Itiner.	work:itinerarium		work		
+bon-serm-tract	5	apparatus:p578-10	p578-10	crossref	logical	II. Sent. d. 23. a. 2. q. 3.	bon-sent-II-d23-a2-q3		chunk		
+bon-serm-tract	5	apparatus:p578-11	p578-11	scripture	apparatus-explicit	Cant. 3, 7	Cant 3:7	A	verse		
+bon-serm-tract	5	apparatus:p579-2	p579-2	scripture	apparatus-explicit	Cant. 3, 4	Cant 3:4	A	verse		
+bon-serm-tract	5	apparatus:p579-4	p579-4	scripture	apparatus-explicit	Rom. 13, 12	Rom 13:12	A	verse		
+bon-serm-tract	5	apparatus:p579-5	p579-5	crossref	work	Breviloq. p. V. c. 6.	bon-brev-p5-c6		chunk		
+bon-serm-tract	5	apparatus:tr-lumen	tr-lumen	scripture	apparatus-explicit	Rom. 13	Rom 13	C	chapter		

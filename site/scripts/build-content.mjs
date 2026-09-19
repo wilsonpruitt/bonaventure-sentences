@@ -453,6 +453,7 @@ const WORKS = {
       2: "Sermo II: De regno Dei descripto in parabolis evangelicis",
       3: "Sermo III: De sanctissimo corpore Christi",
       4: "Sermo IV: Christus unus omnium magister",
+      5: "Tractatus de plantatione Paradisi",
     },
   },
 };

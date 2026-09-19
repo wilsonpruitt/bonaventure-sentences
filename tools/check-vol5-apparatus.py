@@ -2896,6 +2896,33 @@ KNOWN_TOTALS = {
               # `bon-serm-tract`. NO RUNOVER crosses the gutter: n. 7 is one complete
               # line. The running head already reads `TRACTATUS DE PLANTATIONE
               # PARADISI.` over four columns of Sermo IV.
+              # ⛔ CORRECTED 2026-09-19 by `bon-serm-tract`: n. 9 DOES run over, off
+              # the FOOT OF THE LEAF (page-crossing) -- it breaks at `Bonelli citat`
+              # and continues unnumbered at the head of p. 575's LEFT block. `s4`'s
+              # "no runover" was true of the GUTTER only.
+    575: 12,  # bon-serm-tract. Anchors L nn. 1-7, R nn. 8-12 (7/5); the LEFT footer
+              # block opens with p. 574 n. 9's unnumbered PAGE-CROSSING continuation
+              # and only then reaches its own n. 1. n. 7 runs over the gutter.
+    576: 10,  # bon-serm-tract. Anchors L nn. 1-6, R nn. 7-10 (6/4); n. 5 runs over
+              # the gutter. ⛔ TWO DEFECTIVE NUMERALS: n. 4 prints as an inked blob
+              # and n. 10 prints as a bare tick -- BOTH DIGITS of a two-digit numeral
+              # failed, the worst instance in the work. Both settled by content plus
+              # sequence at 7x, never by the blob.
+    577: 13,  # bon-serm-tract. Anchors L nn. 1-7, R nn. 8-13 (7/6); n. 8 runs over
+              # the gutter. n. 4's numeral is a clogged blob (defective sort).
+    578: 11,  # bon-serm-tract. Anchors L nn. 1-4, R nn. 5-11 (4/7); n. 5 runs over
+              # the gutter. n. 4's numeral is a clogged blob, settled decisively --
+              # its own text is `Bonelli omittit *vero*` and *vero* is the word its
+              # anchor sits on.
+    579: 5,   # bon-serm-tract, THE WORK'S LAST LEAF AND VOL V's. Anchors L nn. 1-3,
+              # R nn. 4-5 (3/2); footer blocks 2/3 -- one divergence of block against
+              # anchor, and NO runover: the left block closes complete at n. 2.
+              # n. 4's numeral is a blob. ⛔ THIS UNIT CARRIES NO PRINTED
+              # `— Exᴘʟɪᴄɪᴛ.` (read at 4x across the whole column foot): the body ends
+              # at `Amen.` and the FULL-MEASURE colophon `EXPLICIUNT SERMONES
+              # SELECTI.` follows. The work is FOUR of five on the Explicit, and the
+              # pilot's claim that the Tractatus carries one is WITHDRAWN. p. 580 is
+              # measured blank and p. 581 is the unnumbered volume index.
 }
 
 
