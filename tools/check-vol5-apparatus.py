@@ -2775,6 +2775,79 @@ KNOWN_TOTALS = {
               # column); n. 3 is SERMO III's subtitle note and belongs to
               # `bon-serm-s3` -- it opens in the left block and RUNS OVER THE GUTTER,
               # and that runover is s3's to log, NOT s2's.
+    554: 6,   # bon-serm-s3 (PASS A). Anchors L nn. 1-3, R nn. 4-6 (3/3); footer
+              # blocks 3/3 -- they AGREE. n. 3 RUNS OVER THE GUTTER, breaking
+              # mid-word at `de sa-` / `-crosanctissimo`. Logged `p.554 n.3:gutter`.
+    555: 14,  # bon-serm-s3 (PASS A). Anchors L nn. 1-7, R nn. 8-14 (7/7); footer
+              # blocks 7/7 -- they AGREE. No runover: the left block closes complete
+              # at `dissipat etc.` and the right block opens indented at its own n. 8.
+    556: 8,   # bon-serm-s3 (PASS A). Anchors L nn. 1-3, R nn. 4-8 (3/5); footer
+              # blocks 6/2 -- the left block OVERRUNS BY THREE. n. 6 RUNS OVER THE
+              # GUTTER, breaking at `substituimus` / `post mentium`.
+    557: 11,  # bon-serm-s3 (PASS A). Anchors L nn. 1-6, R nn. 7-11 (6/5); footer
+              # blocks 5/6 -- the left block UNDERRUNS by one. n. 5 RUNS OVER THE
+              # GUTTER, breaking at `parum inter se variantes;` / `secuti sumus D.`
+    558: 11,  # bon-serm-s3. Anchors L nn. 1-5, R nn. 6-11 (5/6); footer blocks 5/6 --
+              # they AGREE. n. 5 RUNS OVER THE GUTTER (`a Vulgata recedentes,` /
+              # `ter habent`). PASS A writes nn. 1-8 (through the close of Pars I at
+              # the end of numero 16); nn. 9-11 are anchored in numero 17, which opens
+              # Pars II and is PASS B's. The leaf is therefore legitimately PENDING
+              # at nn. 9-11 until Pass B closes it.
+              # !! p. 558 n. 4's SUPERSCRIPT NUMERAL DID NOT PRINT -- the entry stands
+              # indented in its own paragraph between nn. 3 and 5 with no numeral on
+              # the plate. Ownership is unambiguous (Exod. 3, 1 seqq., matching the
+              # body anchor at `Exodi tertio`). Not a miscount.
+    559: 9,   # bon-serm-s3 (PASS B). Anchors L nn. 1-4, R nn. 5-9 (4/5); footer
+              # blocks 5/4 -- the ANCHOR/BLOCK DIVERGENCE IS 1, and it runs the
+              # OPPOSITE WAY from the anchors, because n. 5 RUNS OVER THE GUTTER
+              # (`in Tract. de` / `Contemplando Deo, c. 2. n. 5.`). Logged
+              # `p.559 n.5:gutter`. n. 5's anchor word `Bernardus` is itself split
+              # by the gutter (`Ber-` at the foot of L, `nardus` at the head of R).
+    560: 9,   # bon-serm-s3 (PASS B). Anchors L nn. 1-6, R nn. 7-9 (6/3); footer
+              # blocks 6/3 -- they AGREE, divergence 0. n. 6 RUNS OVER THE GUTTER
+              # (`seq. loc. sententia-` / `liter continetur`). Logged `p.560 n.6:gutter`.
+              # !! p. 560 n. 4's SUPERSCRIPT NUMERAL PRINTED ONLY AS A FRAGMENT --
+              # a small ink blob where the `4` should be, read at 7x. Ownership is
+              # settled by content (Vers. 27, matching the body anchor `legitur hic`
+              # before `Illuminati sunt oculi eius`) and by position between nn. 3
+              # and 5. SECOND instance of this class in this chunk, and both fell on
+              # an n. 4 (cf. p. 558). Not a miscount.
+    561: 8,   # bon-serm-s3 (PASS B). Anchors L nn. 1-4, R nn. 5-8 (4/4); footer
+              # blocks 5/3 -- divergence 1, because n. 5 RUNS OVER THE GUTTER
+              # (`Lev. 6, 12: Ignis autem` / `in altari semper ardebit`). Logged
+              # `p.561 n.5:gutter`. The left footer block also carries the volume
+              # signature line `S. Bonav. - Tom. V.` beneath n. 5's first half and
+              # the sheet number `71` beneath the right block: signature furniture,
+              # NOT apparatus, and not counted.
+    562: 11,  # bon-serm-s3 (PASS B). Anchors L nn. 1-4, R nn. 5-11 (4/7); footer
+              # blocks 6/5 -- ANCHOR/BLOCK DIVERGENCE 2, the largest on this chunk's
+              # leaves. NO RUNOVER: n. 6 closes inside the left block at
+              # `quietae mentis.` and the right block opens indented at n. 7.
+    563: 8,   # bon-serm-s3 (PASS B). Anchors L nn. 1-3, R nn. 4-8 (3/5); footer
+              # blocks 4/4 -- divergence 1. n. 4 RUNS OVER THE GUTTER
+              # (`pro illuminat omne lumen. - De` / `lumine omne lumen illuminante`).
+              # Logged `p.563 n.4:gutter`.
+              # !! p. 563 n. 4's SUPERSCRIPT NUMERAL PRINTED ONLY AS A FRAGMENT, the
+              # same defect as p. 560 n. 4 and p. 558 n. 4. THREE instances in this
+              # chunk and ALL THREE fell on an n. 4 -- a defective superscript-4 sort,
+              # not three independent miscounts. Ownership settled by content
+              # (Ioan. 8, 12 / Coloss. 2, 3) and by position between nn. 3 and 5.
+    564: 8,   # bon-serm-s3 (PASS B). Anchors L nn. 1-6, R nn. 7-8 (6/2); footer
+              # blocks 4/4 -- ANCHOR/BLOCK DIVERGENCE 2. n. 4 RUNS OVER THE GUTTER
+              # (`cfr. supra pag. 53,` / `nota 3. et pag. 60, nota 4.`). Logged
+              # `p.564 n.4:gutter`. THIRD consecutive leaf whose runover is n. 4.
+    565: 11,  # bon-serm-s3 (PASS B). Anchors L nn. 1-6, R nn. 7-11 (6/5); footer
+              # blocks 7/4 -- divergence 1. NO RUNOVER: n. 7 closes inside the left
+              # block at `benedictionibus.` and the right block opens at n. 8.
+              # n. 11 records `Hic explicit cod. B` -- the codex drops out mid-chunk.
+    566: 6,   # bon-serm-s3 (PASS B), the CLOSING leaf. Anchors L nn. 1-4, R nn. 5-6
+              # (4/2); footer blocks 2/4 -- divergence 2, and REVERSED. NO RUNOVER:
+              # n. 2 closes inside the left block at `Exod. 13-15.` The body ends at
+              # ~52% of the RIGHT column on a printed `- Explicit.`, and the leaf's
+              # register is the lightest of the span at 6.
+              # !! p. 566 n. 4's SUPERSCRIPT NUMERAL PRINTED ONLY AS A FRAGMENT --
+              # the FOURTH instance in this chunk and the fourth to fall on an n. 4
+              # (558, 560, 563, 566). A defective superscript-4 sort, not a miscount.
 }
 
 

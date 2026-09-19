@@ -23524,3 +23524,115 @@ bon-serm-s2	5	apparatus:p552-10	p552-10	crossref	work	Breviloq. p. VII. c. 6.	bo
 bon-serm-s2	5	apparatus:p553-1	p553-1	crossref	page	supra pag. 332, nota 6	bon-hex-c1		chunk		
 bon-serm-s2	5	apparatus:p553-2	p553-2	crossref	page	tom. II. pag. 770, nota 1	bon-sent-II-d32-a3-q1		chunk		
 bon-serm-s2	5	apparatus:p553-2	p553-2	crossref	work	Breviloq. p. II. c. 7	bon-brev-p2-c7		chunk		
+bon-serm-s3	5	latin_body		scripture	body-ordinal	ad Galatas quinto	Gal 5	C	chapter		
+bon-serm-s3	5	latin_body	p555-9	scripture	body-ordinal	Sapientiae decimo sexto	Sap 16:20	B	verse		
+bon-serm-s3	5	latin_body	p555-11	scripture	body-ordinal	Ieremiae trigesimo primo	Ierem 31:14	B	verse		
+bon-serm-s3	5	latin_body	p556-5	scripture	body-ordinal	Ioannis sexto	Ioan 6:51	B	verse		
+bon-serm-s3	5	latin_body		scripture	anaphor->body-ordinal	ibid	Ioan 6:51	B	verse	yes	Ioannis sexto
+bon-serm-s3	5	latin_body		scripture	body-ordinal	Regum decimo nono	Reg* 19	C	chapter		
+bon-serm-s3	5	latin_body	p557-7	scripture	body-ordinal	Deuteronomii octavo	Deut 8:15	B	verse		
+bon-serm-s3	5	latin_body	p558-4	scripture	body-ordinal	Exodi tertio	Exod 3:1	B	verse		
+bon-serm-s3	5	latin_body	p558-9	scripture	body-ordinal	Proverbiorum vigesimo quarto	Prov 24:13	B	verse		
+bon-serm-s3	5	latin_body	p559-1	scripture	body-ordinal	Ecclesiastici undecimo	Eccli 11:3	B	verse		
+bon-serm-s3	5	latin_body	p559-2	scripture	body-ordinal	Regum decimo quarto	Reg* 14:27	B	verse		
+bon-serm-s3	5	latin_body	p559-8	scripture	body-ordinal	Isaiae undecimo	Isai 11:1	B	verse		
+bon-serm-s3	5	latin_body	p561-1	scripture	body-ordinal	Exodi duodecimo	Exod 12:3	B	verse		
+bon-serm-s3	5	latin_body		scripture	body-ordinal	Ioannis primo	Ioan 1	C	chapter		
+bon-serm-s3	5	latin_body		scripture	anaphor->body-ordinal	ibid	Ioan 1	C	chapter	yes	Ioannis primo
+bon-serm-s3	5	latin_body	p562-6	scripture	body-ordinal	Regum quarto	Reg* 4:9	B	verse		
+bon-serm-s3	5	latin_body	p563-1	scripture	body-ordinal	Isaiae quadragesimo quinto	Isai 45:3	B	verse		
+bon-serm-s3	5	latin_body		scripture	body-ordinal	Matthaei decimo tertio	Matth 13	C	chapter		
+bon-serm-s3	5	latin_body	p563-4	scripture	body-ordinal	Ioannis octavo	Ioan 8:12	B	verse		
+bon-serm-s3	5	latin_body	p563-6	scripture	body-ordinal	Matthaei decimo tertio	Matth 13:44	B	verse		
+bon-serm-s3	5	latin_body	p563-7	scripture	body-ordinal	Ioannis sexto	Ioan 6:55	B	verse		
+bon-serm-s3	5	latin_body		scripture	body-ordinal	Matthaei sexto	Matth 6	C	chapter		
+bon-serm-s3	5	latin_body		scripture	body-ordinal	Iob tertio	Iob 3	C	chapter		
+bon-serm-s3	5	latin_body	p564-8	scripture	body-ordinal	Exodi decimo sexto	Exod 16:4	B	verse		
+bon-serm-s3	5	latin_body		scripture	body-ordinal	Ioannis secundo	Ioan 2	C	chapter		
+bon-serm-s3	5	apparatus:p554-1	p554-1	scripture	apparatus-explicit	Psalm. 106, 8-10	Ps 106:8-10	A	verse		
+bon-serm-s3	5	apparatus:p554-3	p554-3	crossref	logical	I. Sent. d. 40. a. 1. q. 2.	bon-sent-I-d40-a1-q2		chunk		
+bon-serm-s3	5	apparatus:p554-4	p554-4	crossref	logical	IV. Sent. d. 8. p. I. a. 1. q. 1	bon-sent-IV-d8-p1-a1-q1		chunk		
+bon-serm-s3	5	apparatus:p554-6	p554-6	crossref	logical	IV. Sent. d. 8. p. I. dub. 3.	bon-sent-IV-d8-p1-dubia		chunk		
+bon-serm-s3	5	apparatus:p554-6	p554-6	crossref	work	Breviloq. p. VI. c. 9.	bon-brev-p6-c9		chunk		
+bon-serm-s3	5	apparatus:p555-3	p555-3	scripture	apparatus-explicit	Gen. 49, 20	Gen 49:20	A	verse		
+bon-serm-s3	5	apparatus:p555-3	p555-3	crossref	logical	II. Sent. d. 22. dub. 2	bon-sent-II-d22-dubia		chunk		
+bon-serm-s3	5	apparatus:p555-3	p555-3	crossref	work	Breviloq. p. III. c. 5.	bon-brev-p3-c5		chunk		
+bon-serm-s3	5	apparatus:p555-4	p555-4	scripture	apparatus-explicit	Psalm. 37, 9	Ps 37:9	A	verse		
+bon-serm-s3	5	apparatus:p555-6	p555-6	scripture	apparatus-explicit	Gen. 49, 20	Gen 49:20	A	verse		
+bon-serm-s3	5	apparatus:p555-7	p555-7	scripture	apparatus-explicit	Prov. 20, 8	Prov 20:8	A	verse		
+bon-serm-s3	5	apparatus:p555-9	p555-9	crossref	work	Hexaem.	work:hexaemeron		work		
+bon-serm-s3	5	apparatus:p555-10	p555-10	crossref	work	Breviloq. p. VI. c. 9.	bon-brev-p6-c9		chunk		
+bon-serm-s3	5	apparatus:p556-1	p556-1	scripture	apparatus-explicit	Psalm. 62, 5	Ps 62:5	A	verse		
+bon-serm-s3	5	apparatus:p556-1	p556-1	crossref	logical	IV. Sent. d. 12. p. II. a. 1. q. 1	bon-sent-IV-d12-p2-a1-q1		chunk		
+bon-serm-s3	5	apparatus:p556-2	p556-2	scripture	apparatus-explicit	Coloss. 3, 17	Col 3:17	A	verse		
+bon-serm-s3	5	apparatus:p556-5	p556-5	scripture	anaphor->apparatus-explicit	ibid.	Col 3:17	A	verse	yes	Coloss. 3, 17
+bon-serm-s3	5	apparatus:p556-5	p556-5	scripture	apparatus-explicit	III. Reg. 19, 6	3Reg 19:6	A	verse		
+bon-serm-s3	5	apparatus:p556-8	p556-8	scripture	apparatus-explicit	III. Reg. 19, 3	3Reg 19:3	A	verse		
+bon-serm-s3	5	apparatus:p557-4	p557-4	scripture	apparatus-explicit	I. Cor. 14, 20	1Cor 14:20	A	verse		
+bon-serm-s3	5	apparatus:p557-10	p557-10	scripture	apparatus-explicit	III. Reg. 19, 5	3Reg 19:5	A	verse		
+bon-serm-s3	5	apparatus:p558-5	p558-5	scripture	apparatus-explicit	III. Reg. 19, 11	3Reg 19:11	A	verse		
+bon-serm-s3	5	apparatus:p558-6	p558-6	scripture	apparatus-explicit	Psalm. 75, 3	Ps 75:3	A	verse		
+bon-serm-s3	5	apparatus:p559-2	p559-2	scripture	anaphor->apparatus-explicit	ibid.	Ps 75:3	A	verse	yes	Psalm. 75, 3
+bon-serm-s3	5	apparatus:p559-4	p559-4	scripture	apparatus-explicit	Psalm. 83, 6	Ps 83:6	A	verse		
+bon-serm-s3	5	apparatus:p560-4	p560-4	scripture	anaphor->apparatus-explicit	ibid.	Ps 83:6	A	verse	yes	Psalm. 83, 6
+bon-serm-s3	5	apparatus:p560-8	p560-8	scripture	anaphor->apparatus-explicit	ibid.	Ps 83:6	A	verse	yes	Psalm. 83, 6
+bon-serm-s3	5	apparatus:p560-8	p560-8	scripture	apparatus-explicit	Iob 7, 15	Iob 7:15	A	verse		
+bon-serm-s3	5	apparatus:p560-8	p560-8	scripture	apparatus-explicit	Exod. 33, 20	Exod 33:20	A	verse		
+bon-serm-s3	5	apparatus:p560-8	p560-8	crossref	work	Itiner.	work:itinerarium		work		
+bon-serm-s3	5	apparatus:p561-1	p561-1	scripture	apparatus-explicit	Isai. 16, 1	Isai 16:1	A	verse		
+bon-serm-s3	5	apparatus:p561-1	p561-1	scripture	apparatus-explicit	Ioan. 1, 29	Ioan 1:29	A	verse		
+bon-serm-s3	5	apparatus:p561-1	p561-1	crossref	logical	IV. Sent. d. 8. p. 1. a. 1. q. 1.	bon-sent-IV-d8-p1-a1-q1		chunk		
+bon-serm-s3	5	apparatus:p561-5	p561-5	scripture	apparatus-explicit	Lev. 6, 12	Lev 6:12	A	verse		
+bon-serm-s3	5	apparatus:p561-6	p561-6	scripture	apparatus-explicit	I. Cor. 11, 3	1Cor 11:3	A	verse		
+bon-serm-s3	5	apparatus:p561-6	p561-6	scripture	apparatus-explicit	Tob. 6, 2-4	Tob 6:2-4	A	verse		
+bon-serm-s3	5	apparatus:p561-7	p561-7	crossref	logical	IV. Sent. d. 11. p. II. a. 1. q. 4.	bon-sent-IV-d11-p2-a1-q4		chunk		
+bon-serm-s3	5	apparatus:p562-1	p562-1	scripture	apparatus-explicit	Eph. 6, 15	Eph 6:15	A	verse		
+bon-serm-s3	5	apparatus:p562-2	p562-2	scripture	apparatus-explicit	Gen. 32, 10	Gen 32:10	A	verse		
+bon-serm-s3	5	apparatus:p562-3	p562-3	scripture	apparatus-explicit	Luc. 22, 19	Luc 22:19	A	verse		
+bon-serm-s3	5	apparatus:p562-3	p562-3	scripture	apparatus-explicit	I. Cor. 11, 24	1Cor 11:24	A	verse		
+bon-serm-s3	5	apparatus:p562-4	p562-4	scripture	apparatus-explicit	Exod. 12, 11	Exod 12:11	A	verse		
+bon-serm-s3	5	apparatus:p562-4	p562-4	scripture	anaphor->apparatus-explicit	ibid.	Exod 12:11	A	verse	yes	Exod. 12, 11
+bon-serm-s3	5	apparatus:p562-4	p562-4	crossref	work	Itiner.	work:itinerarium		work		
+bon-serm-s3	5	apparatus:p562-6	p562-6	crossref	anaphor->work	ibid	work:itinerarium		work	yes	Itiner.
+bon-serm-s3	5	apparatus:p562-9	p562-9	scripture	apparatus-explicit	Ps. 80, 10	Ps 80:10	A	verse		
+bon-serm-s3	5	apparatus:p562-11	p562-11	scripture	apparatus-explicit	Isai. 11, 4	Isai 11:4	A	verse		
+bon-serm-s3	5	apparatus:p563-2	p563-2	scripture	apparatus-explicit	Psalm. 145, 6	Ps 145:6	A	verse		
+bon-serm-s3	5	apparatus:p563-2	p563-2	scripture	apparatus-explicit	Rom. 11, 36	Rom 11:36	A	verse		
+bon-serm-s3	5	apparatus:p563-2	p563-2	scripture	apparatus-explicit	Matth. 13, 52	Matth 13:52	A	verse		
+bon-serm-s3	5	apparatus:p563-2	p563-2	scripture	apparatus-explicit	Ps. 134, 7	Ps 134:7	A	verse		
+bon-serm-s3	5	apparatus:p563-2	p563-2	crossref	work	Itiner.	work:itinerarium		work		
+bon-serm-s3	5	apparatus:p563-4	p563-4	scripture	apparatus-explicit	Coloss. 2, 3	Col 2:3	A	verse		
+bon-serm-s3	5	apparatus:p563-4	p563-4	crossref	page	tom. II. pag. 266, nota 2	bon-sent-II-d10-a2-q2		chunk		
+bon-serm-s3	5	apparatus:p563-5	p563-5	scripture	apparatus-explicit	Ioan. 1, 14	Ioan 1:14	A	verse		
+bon-serm-s3	5	apparatus:p563-5	p563-5	scripture	apparatus-explicit	Ps. 144, 16	Ps 144:16	A	verse		
+bon-serm-s3	5	apparatus:p563-8	p563-8	scripture	apparatus-explicit	Psalm. 32, 7	Ps 32:7	A	verse		
+bon-serm-s3	5	apparatus:p563-8	p563-8	scripture	apparatus-explicit	Matth. 6, 20	Matth 6:20	A	verse		
+bon-serm-s3	5	apparatus:p563-8	p563-8	scripture	apparatus-explicit	Iob 3, 21	Iob 3:21	A	verse		
+bon-serm-s3	5	apparatus:p563-8	p563-8	crossref	work	Breviloq. p. VII. c. 7	bon-brev-p7-c7		chunk		
+bon-serm-s3	5	apparatus:p563-8	p563-8	crossref	logical	IV. Sent. d. 33. a. 2. q. 3.	bon-sent-IV-d33-a2-q3		chunk		
+bon-serm-s3	5	apparatus:p563-8	p563-8	crossref	chain-continuation	d. 49. p. I.	IV:d49		distinctio		
+bon-serm-s3	5	apparatus:p564-1	p564-1	scripture	apparatus-explicit	Isai. 45, 3	Isai 45:3	A	verse		
+bon-serm-s3	5	apparatus:p564-2	p564-2	crossref	logical	IV. Sent. d. 11. p. II. dub. 1	bon-sent-IV-d11-p2-dubia		chunk		
+bon-serm-s3	5	apparatus:p564-2	p564-2	crossref	chain-continuation	d. 12. p. I. a. 1. q. 2	bon-sent-IV-d12-p1-a1-q2		chunk		
+bon-serm-s3	5	apparatus:p564-2	p564-2	crossref	work	Breviloq. p. VI. c. 9	bon-brev-p6-c9		chunk		
+bon-serm-s3	5	apparatus:p564-3	p564-3	crossref	logical	III. Sent. d. 23. a. 1. q. 1.	bon-sent-III-d23-a1-q1		chunk		
+bon-serm-s3	5	apparatus:p564-3	p564-3	crossref	logical	II. Sent. d. 30. a. 1. q. 1.	bon-sent-II-d30-a1-q1		chunk		
+bon-serm-s3	5	apparatus:p564-3	p564-3	crossref	work	Breviloq. p. V. c. 7.	bon-brev-p5-c7		chunk		
+bon-serm-s3	5	apparatus:p564-4	p564-4	crossref	page	supra pag. 53, nota 3	bon-qmt-q1-a2		chunk		
+bon-serm-s3	5	apparatus:p564-4	p564-4	crossref	page	pag. 60, nota 4	bon-qmt-q2-a1		chunk		
+bon-serm-s3	5	apparatus:p564-4	p564-4	crossref	logical	III. Sent. d. 24. a. 2. q. 2.	bon-sent-III-d24-a2-q2		chunk		
+bon-serm-s3	5	apparatus:p564-6	p564-6	scripture	apparatus-explicit	Exod. 34, 30-35	Exod 34:30-35	A	verse		
+bon-serm-s3	5	apparatus:p564-7	p564-7	scripture	apparatus-explicit	Matth. 7, 6	Matth 7:6	A	verse		
+bon-serm-s3	5	apparatus:p564-8	p564-8	scripture	apparatus-explicit	Sap. 16, 20	Sap 16:20	A	verse		
+bon-serm-s3	5	apparatus:p565-9	p565-9	scripture	apparatus-explicit	Psalm. 17, 26	Ps 17:26	A	verse		
+bon-serm-s3	5	apparatus:p565-9	p565-9	scripture	apparatus-explicit	Sap. 16, 27	Sap 16:27	A	verse		
+bon-serm-s3	5	apparatus:p565-10	p565-10	scripture	apparatus-explicit	Sap. 16, 25	Sap 16:25	A	verse		
+bon-serm-s3	5	apparatus:p566-2	p566-2	scripture	apparatus-explicit	Eph. 5, 8	Eph 5:8	A	verse		
+bon-serm-s3	5	apparatus:p566-2	p566-2	scripture	apparatus-explicit	Exod. 13	Exod 13	C	chapter		
+bon-serm-s3	5	apparatus:p566-3	p566-3	scripture	apparatus-explicit	Thren. 2, 13	Thren 2:13	A	verse		
+bon-serm-s3	5	apparatus:p566-3	p566-3	scripture	apparatus-explicit	I. Ioan. 2, 16	1Ioan 2:16	A	verse		
+bon-serm-s3	5	apparatus:p566-4	p566-4	scripture	apparatus-explicit	Exod. 3, 18	Exod 3:18	A	verse		
+bon-serm-s3	5	apparatus:p566-5	p566-5	scripture	apparatus-explicit	Matth. 10, 38	Matth 10:38	A	verse		
+bon-serm-s3	5	apparatus:tr-lumen	tr-lumen	scripture	apparatus-explicit	Psalm 106	Ps 106	C	chapter		
+bon-serm-s3	5	apparatus:tr-lumen	tr-lumen	scripture	apparatus-explicit	Psalm 37	Ps 37	C	chapter		
+bon-serm-s3	5	apparatus:tr-lumen	tr-lumen	scripture	apparatus-explicit	Ps. 4	Ps 4	C	chapter		
