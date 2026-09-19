@@ -40,6 +40,13 @@ from collections import defaultdict
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 VOL5 = os.path.join(REPO_ROOT, "vol5")
 
+# ⛔ KNOWN_TOTALS IS KEYED BY PRINTED PAGE, AND PRINTED PAGES COLLIDE ACROSS
+# TOMES. Vol V's body opens at p. 3 and Vol VI's at p. 3 as well, so a single
+# shared map would silently apply Vol V's total for p. 9 to Vol VI's p. 9 and
+# report a clean verdict on a page it had never measured. The map is therefore
+# PER VOLUME, selected by `--volume=volN` (default vol5), and so is the chunk
+# directory. Extending to Vols VII-X = one more entry here.
+
 # Printed-page → true total number of footer notes, where known from an
 # eyes-on band read. Lets the script distinguish "still pending" from "lost".
 KNOWN_TOTALS = {
@@ -2926,6 +2933,19 @@ KNOWN_TOTALS = {
 }
 
 
+# Vol VI — Commentarii in Sacram Scripturam I. Totals are eyes-on band reads.
+KNOWN_TOTALS_VOL6 = {
+    # Commentarius in Ecclesiasten (pp. 3-103).
+    9: 6,    # nn.1-2 Expositio prologi (bon-eccl-prol), nn.3-6 Cap. I Vers. 1
+    10: 10,  # nn.1-7 Cap. I Vers. 1, nn.8-10 the tractatus (Vers. 2-7)
+}
+
+KNOWN_TOTALS_BY_VOL = {
+    "vol5": KNOWN_TOTALS,
+    "vol6": KNOWN_TOTALS_VOL6,
+}
+
+
 def section(text, name):
     """Return the body of a `## name` section, up to the next `## ` heading."""
     m = re.search(r"^## %s\s*$" % re.escape(name), text, re.M)
@@ -2937,7 +2957,16 @@ def section(text, name):
 
 
 def main():
-    expect = dict(KNOWN_TOTALS)
+    vol = "vol5"
+    for arg in sys.argv[1:]:
+        if arg.startswith("--volume"):
+            _, _, v = arg.partition("=")
+            vol = v or vol
+    if vol not in KNOWN_TOTALS_BY_VOL:
+        sys.exit("unknown volume %r (have %s)"
+                 % (vol, ", ".join(sorted(KNOWN_TOTALS_BY_VOL))))
+    vol_dir = os.path.join(REPO_ROOT, vol)
+    expect = dict(KNOWN_TOTALS_BY_VOL[vol])
     for arg in sys.argv[1:]:
         if arg.startswith("--expect-max"):
             _, _, spec = arg.partition("=")
@@ -2945,10 +2974,12 @@ def main():
             if pg and n:
                 expect[int(pg)] = int(n)
 
-    files = sorted(glob.glob(os.path.join(VOL5, "*.md")))
+    files = sorted(glob.glob(os.path.join(vol_dir, "*.md")))
     if not files:
-        print("no chunks in vol5/ — nothing to check")
+        print("no chunks in %s/ — nothing to check" % vol)
         return 0
+    print("volume: %s  (%d chunks, %d known page totals)"
+          % (vol, len(files), len(expect)))
 
     owners = defaultdict(dict)   # page -> {note_number: [chunk, ...]}
     problems = []

@@ -215,7 +215,10 @@ def build_indexes(chunks):
 # volume is `forward` (it will resolve itself when that work is translated), not
 # `dangling` (which asserts a defect). Vol V is 10 works of which only the
 # Breviloquium is under way — most of its pages legitimately have no owner yet.
-VOLUME_COMPLETE = {1: True, 2: True, 3: True, 4: True, 5: False}
+# ⭐ Vol V went True when its tenth and last work closed (2026-09-19); Vol VI
+# opened the same day and is one pericope in, so nearly every page 1-634 has no
+# owner yet and a ref into it must read `forward`, never `dangling`.
+VOLUME_COMPLETE = {1: True, 2: True, 3: True, 4: True, 5: True, 6: False}
 
 
 # ------------------------------------------------------------------ ordinal parsing
@@ -953,7 +956,7 @@ def dedupe(rows):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--volumes", default="1,2,3,4,5",
+    ap.add_argument("--volumes", default="1,2,3,4,5,6",
                     help="volumes to EMIT records for. Resolution always indexes the "
                          "whole corpus — a vol5 cross-ref targets vols I-IV, so a "
                          "subset index would report the rest of the corpus as dangling.")
@@ -970,8 +973,15 @@ def main():
     vols = [int(v) for v in args.volumes.split(",") if v.strip()]
 
     # Glob, never recurse — vol1/_backup-*/ holds 538 stale files (INDEX-PLAN.md).
+    # ⛔ THE CORPUS RANGE IS DERIVED FROM VOLUME_COMPLETE, NEVER WRITTEN OUT.
+    # It was once the literal (1, 2, 3, 4, 5), independent of --volumes: adding
+    # a volume to the flag then emitted ZERO records for it, silently, because
+    # no chunk of it was ever loaded into `corpus` to be filtered. The run
+    # printed a clean summary with an UNCHANGED record total — the only tell.
+    # Caught 2026-09-19 on Vol VI's first chunk. Resolution still always indexes
+    # the WHOLE corpus, which is why this list is not `vols`.
     glob_ = __import__("glob").glob
-    all_paths = [p for v in (1, 2, 3, 4, 5)
+    all_paths = [p for v in sorted(VOLUME_COMPLETE)
                  for p in sorted(glob_(os.path.join(ROOT, f"vol{v}", "*.md")))]
     corpus = [c for c in (Chunk(p) for p in all_paths) if c.cid]
     by_locus, by_dist, by_page, by_id = build_indexes(corpus)

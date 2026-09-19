@@ -15,7 +15,7 @@ const SITE_DIR = path.resolve(__dirname, "..");
 const REPO_ROOT = path.resolve(SITE_DIR, "..");
 
 // Scan all volume dirs; each dir's files declare their own `book:` in frontmatter.
-const VOL_DIRS = ["vol1", "vol2", "vol3", "vol4", "vol5"]
+const VOL_DIRS = ["vol1", "vol2", "vol3", "vol4", "vol5", "vol6"]
   .map((v) => path.join(REPO_ROOT, v))
   .filter((p) => fs.existsSync(p));
 const TRANS_DIR = path.join(REPO_ROOT, "translations", "vol1");
@@ -225,6 +225,7 @@ const BOOK_TITLES = {
 // single work each and need no entry — their Book IS the tome.
 const TOMES = {
   5: { title: "Book V: Opuscula Theologica", initial: "5" },
+  6: { title: "Book VI: Commentarii in Sacram Scripturam I", initial: "6" },
 };
 
 const WORKS = {
@@ -456,6 +457,25 @@ const WORKS = {
       5: "Tractatus de plantatione Paradisi",
     },
   },
+  // ---- Tome VI ----------------------------------------------------------
+  // The first Scripture commentary. Its chunk is FINER than its division:
+  // division is the capitulum, the chunk is the verse-pericope the volume
+  // index itself lists (`Vers. 2-7`), which is also Quaracchi's citation unit
+  // (`Comment. in Eccle. 1, 1`). Pericopes carry `verses:` in frontmatter and
+  // buildWorkChunkTitle renders "Cap. N, Vers. a-b". Divisions go in one at a
+  // time; a capitulum heading is a bare `CAPITULUM N.` with no subtitle, so
+  // there is no in-place subtitle to verify against the index.
+  ecclesiasten: {
+    book: 15,
+    tome: 6,
+    title: "Commentarius in Ecclesiasten",
+    initial: "E",
+    divisionLabel: "Capitula",
+    divisions: {
+      0: "Prooemium",
+      1: "Capitulum I",
+    },
+  },
 };
 
 function buildWorkChunkTitle(meta) {
@@ -499,6 +519,15 @@ function buildWorkChunkTitle(meta) {
     return meta.articulus
       ? `Quaest. ${meta.division}, Art. ${meta.articulus}`
       : `Quaest. ${meta.division}`;
+  // The Scripture commentaries: division is the capitulum and the chunk is the
+  // verse-pericope inside it, so the chunk title needs both. `verses` is the
+  // index's own form ("1", "2-7"); a pericope always has one, so its absence
+  // means a non-pericope chunk (Scholion, Schemata) caught type-first above.
+  if (meta.workSlug === "ecclesiasten") {
+    return meta.verses
+      ? `Cap. ${meta.division}, Vers. ${meta.verses}`
+      : `Cap. ${meta.division}`;
+  }
   // Breviloquium-style: "Pars 3, Cap. 4".
   const parts = [`Pars ${meta.division}`];
   if (meta.capitulum) parts.push(`Cap. ${meta.capitulum}`);
@@ -576,6 +605,11 @@ for (const { file, dir } of latinFiles) {
     quaestio: meta.quaestio ? parseInt(meta.quaestio) : undefined,
     capitulum: meta.capitulum ? parseInt(meta.capitulum) : undefined,
     section: meta.section ? parseInt(meta.section) : undefined,
+    // Scripture-commentary pericopes: the verse range as the volume index
+    // prints it ("1", "2-7"). DISPLAY ONLY — the ordering key inside a
+    // capitulum is `section:`, the pericope's ordinal, so a chunk is never
+    // sorted by parsing this string.
+    verses: meta.verses || undefined,
     division: work ? parseInt(meta.division) || 0 : undefined,
     // The RAW frontmatter type, `undefined` when the file declares none. The
     // front-matter guard tests this and never `type` below, which defaults —

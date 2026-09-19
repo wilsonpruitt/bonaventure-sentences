@@ -31,7 +31,7 @@ Usage:
 """
 import re, sys, glob, os
 
-DIRS = ["vol1", "vol2", "vol3", "vol4", "vol5"]
+DIRS = ["vol1", "vol2", "vol3", "vol4", "vol5", "vol6"]
 REQUIRED_FM = ["title_la", "title_en", "printed_pages", "pdf_pages",
                "source", "has_apparatus", "transcription_status"]
 # Vol V work chunks declare `work:` instead of `book:`; `division:` replaces
@@ -100,7 +100,11 @@ def main():
             text = fh.read()
         fm, body = parse_frontmatter(text)
         name = os.path.basename(f)
-        is_vol5 = os.path.dirname(f) == "vol5"
+        # Vol VI inherits Vol V's work-chunk conventions entire: `work:` in
+        # place of `book:`, page-qualified apparatus labels, bands-only
+        # apparatus. The flag name is kept for continuity with the checks
+        # below, which were written for Vol V and apply unchanged.
+        is_vol5 = os.path.dirname(f) in ("vol5", "vol6")
         if fm is None:
             issues.append((name, "ERR", "no frontmatter block"))
             continue

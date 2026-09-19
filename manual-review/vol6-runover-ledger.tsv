@@ -1,0 +1,18 @@
+# Vol VI runover ledger — THE authoritative record of footer-runover tests.
+#
+# One line per chunk, in BUILD order. Every chunk in vol6/ must appear exactly
+# once, including the ones that tested negative — the roster IS the denominator,
+# and `tools/check-vol5-census.py` cross-checks it against the filesystem.
+#
+# Format: <slug>\t<events>   where <events> is `-` for none, else a
+# comma-separated list of `p.<page> n.<note>:<gutter|page>`.
+# ⛔ COMMAS, never semicolons — the checker swallows a semicolon line silently.
+#
+# ⛔ A `-` IS AN ASSERTION, NOT AN ABSENCE. Write it only after reading the head
+# of every incoming register BEFORE its first numeral; a runover's first line is
+# set flush left where a numbered entry is indented. Nothing re-derives a `-`
+# except the next chunk reading the same leaf.
+#
+# ⚠ An inherited runover is logged by the chunk that OWNS the note, once. A
+# runover on a leaf this chunk shares but does not own is the neighbour's line.
+bon-eccl-c1-v1	-

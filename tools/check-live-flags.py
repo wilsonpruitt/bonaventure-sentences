@@ -25,7 +25,7 @@ import re
 import sys
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-VOLUMES = sys.argv[1:] or ["vol1", "vol2", "vol3", "vol4", "vol5"]
+VOLUMES = sys.argv[1:] or ["vol1", "vol2", "vol3", "vol4", "vol5", "vol6"]
 
 
 def live_region(text):

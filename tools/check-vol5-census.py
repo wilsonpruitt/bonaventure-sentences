@@ -37,6 +37,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 VOLUMES = [
     ("vol5", "manual-review/vol5-runover-ledger.tsv", "bon-brev-"),
+    ("vol6", "manual-review/vol6-runover-ledger.tsv", "bon-eccl-"),
 ]
 
 
