@@ -2830,6 +2830,28 @@ existed — full reasoning in the scouting doc's rulings section). The front is 
   denominator.) ·
   *pietas* 3 → piety · Collationes rulings bind (*praeceptum*/*mandatum*/*lex*;
   *intellectus*/*intelligentia*).
+- **⭐⭐ RULINGS 6 AND 7 — WILSON, 2026-09-19, off a live-region evidence sheet after all five chunks
+  were built. BOTH COST ZERO TEXT CHANGES.**
+  **(6) THE *DE PERFECTIONE EVANGELICA* PURITY TRIPLE IS RELEASED OUTSIDE ITS OWN WORK — *puritas*
+  → "purity" STANDS** at this work's one site (`bon-serm-s2` p. 546, Bonelli's variant *innocentia
+  et puritas sive castitas*). **Decided on the census: ONE site, and *pudicitia* — the word the
+  triple reserved "purity" for — is ZERO across all five chunks.** At n=1 with the competing word
+  absent, the rule protects nothing; this is the *dominium* test, not the *ius*/*lex* test. ⛔ **The
+  triple still binds INSIDE *De perfectione evangelica***, where it was forced at four sites against
+  a live *pudicitia* — so *puritas* reads "pureness" there and "purity" here, **deliberately, and the
+  scope limit is recorded so no later work inherits a phantom rule.** ⭐ The rest of the triple is
+  followed here anyway, by the text's own behaviour: *munditia* → "cleanness" at all four sites
+  (`s3` ×3, `s4` ×1), *castitas* → "chastity" at three (`s2`).
+  **(7) *praeceptor* → "PRECEPTOR" CONFIRMED** at its two sites, both in `bon-serm-s1` (Isa. 55:4
+  *ducem ac praeceptorem gentibus* and the exposition glossing *testem*/*ducem*/*praeceptorem*).
+  Douay's "master" stays refused: **"the Master" is Lombard's corpus-wide, and ruling 2 spent
+  "teacher" on *magister*** — which is the same sermon-cycle. Archaic but exact, and it collides with
+  nothing.
+  ⭐ **THE GATE'S FINDING, AND IT IS THE *PERFECTIONE* FINDING A THIRD TIME: a work whose register is
+  ruled before its first chunk arrives with nothing to change.** Both items the chunks raised were
+  already built the way Wilson ruled them. ▶ **The evidence sheet's value is not that it finds
+  defects — it is that it converts a builder's judgement call into a recorded decision before the
+  call hardens into precedent by default.**
   ⭐⭐ ✅ ***lux* ~37 / *lumen–lumina* ~45 — RULING 2 AT ITS HEAVIEST IN VOL V AND IT STANDS
   UNCHANGED (ruling 5).** All ~45 sites take "lumen"/"lumina"; the **`tr-lumen` note goes at the
   first occurrence of each chunk**, per the frozen convention; the verse test runs at every
