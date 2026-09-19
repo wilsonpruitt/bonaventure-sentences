@@ -3507,6 +3507,20 @@ npx vercel build --prod                   # Must use --prebuilt because build-co
 npx vercel deploy --prod --prebuilt --archive=tgz
 ```
 
+⭐ **The `/progress` tracker (the "about 61.5 % complete" page) is NOT a separate deploy step.**
+`npx vercel build --prod` runs `npm run build`, whose chain is `build-content.mjs` →
+**`build-progress.mjs`** → `build-export.mjs` → `next build` → `build-siblings.mjs`, so the tracker
+regenerates on EVERY deploy with no action. Its numerator is derived from every chunk's
+`printed_pages:` frontmatter (distinct pages, never typed by hand); `src/data/progress.json` is
+gitignored and generated. **Verify after a deploy by served content:** the build log prints a
+`build-progress: N/M chunks carry printed_pages · P distinct printed pages · X% of the T measured pp.`
+line, and `curl -s https://bonaventure.wrootpress.com/progress | grep -oE '61\.5|4,363'` should show
+the new figures (Vol V close, 2026-09-19: **4,363 of 7,098 pp. = 61.5 %**). ⚠ A chunk with no
+`printed_pages:` is silently uncounted (the log's "N/M" gap — 2,118/2,119 at Vol V close), so a new
+chunk that never moves the tracker is a frontmatter question, not a deploy question. ⚠ The
+denominators for Vols VI–X are hardcoded in `MEASURED_EXTENTS` inside `build-progress.mjs`;
+a new volume's numerator counts automatically, its denominator does not.
+
 Both index tools run **before** `build-content.mjs` at every deploy boundary, so the
 indexes grow with the corpus (see § "Index conventions"). They write nothing under
 `vol*/` and never touch `content.json`. Their site outputs
