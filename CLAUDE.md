@@ -2770,8 +2770,17 @@ existed — full reasoning in the scouting doc's rulings section). The front is 
 - **Form = the reportatio shape** (display heading + italic subtitle + full-measure unanchored
   `SUMMARIUM` + numbered paragraphs + dense marginalia; no *Sed contra*/*Conclusio*), so the whole
   Hexaemeron/*donis*/*praeceptis* block ports. Sermo II's Summarium announces *quinque quaestiones*
-  inside Pars I — quaestio-shaped paragraphs with no display heading; find by content. **Sermo II,
-  IV and the Tractatus close on a printed `— Explicit.` — transcribe it.**
+  inside Pars I — quaestio-shaped paragraphs with no display heading; find by content.
+  ⛔⛔ ~~**Sermo II, IV and the Tractatus close on a printed `— Explicit.`**~~ **— MEASURED OUT,
+  2026-09-19. THE TRUTH IS FOUR OF FIVE: SERMONES I, II, III AND IV CARRY IT; THE TRACTATUS DOES
+  NOT.** Sermo I's and Sermo III's were found by `s1` and `s3` and the pilot had never claimed them;
+  the Tractatus's was claimed by the pilot and **read at 4× across the whole column foot of p. 579 by
+  `bon-serm-tract`, which found nothing.** The work ends on the colophon `EXPLICIUNT SERMONES
+  SELECTI.` alone. ▶ **The lesson is the shape of the error, not the count: the pilot asserted the
+  Explicit for three units and was wrong about the one nobody re-checked, while being silently right
+  about two it never mentioned.** An unverified claim that happens to hold for its checked members
+  buys no credit for its unchecked ones — **and an absence is only a finding once it has been read
+  for; `tract` recorded the negative at a stated magnification, which is what makes it usable.**
 - **Boundaries, ALL FOUR MEASURED:** p. 539 LEAF EDGE · **p. 553 SHARED 2/1** (n. 3 = Sermo III's
   anchored subtitle note, runs over the gutter; Sermo III's Summarium fills the leaf and continues on
   554) · p. 567 LEAF EDGE · **p. 574 SHARED 7/2** (n. 8 = the Tractatus's anchored title, n. 9 = ¶ 1).

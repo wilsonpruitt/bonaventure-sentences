@@ -34,9 +34,16 @@ Plates extracted for the pilot: **533, 534, 535, 539, 553, 567, 574, 579, 580, 5
   sermon; find them by content, they carry no display heading.** Everything in the Hexaemeron /
   *septem donis* / *decem praeceptis* block ports: `### Summarium` at the head of each language
   block, marginalia trimmed to `## Notes`, count the body every time.
-- **Sermo IV and the Tractatus each end on a printed `— Explicit.`** (small caps, inline, after the
-  closing *etc.* / *Amen.*); Sermo II ends *Amen. — EXPLICIT.* on p. 553. **Transcribe the word;
-  it is Quaracchi's text, and it is the positive end-marker of the unit.**
+- ⛔⛔ ~~**Sermo IV and the Tractatus each end on a printed `— Explicit.`**~~ **— HALF WRONG,
+  corrected 2026-09-19 when every unit had been read.** The measured truth is **FOUR OF FIVE**:
+  **Sermones I, II, III and IV carry the printed `— Explicit.`** (small caps, inline, after the
+  closing *etc.* / *Amen.*; Sermo II's at p. 553, Sermo III's at p. 566, Sermo IV's at p. 574, all
+  confirmed at 4×) — **and THE TRACTATUS DOES NOT**, read at 4× across the whole column foot of
+  p. 579. It ends on the colophon `EXPLICIUNT SERMONES SELECTI.` alone.
+  ▶ **This sheet was wrong about the one unit nobody re-checked, and silently right about two it
+  never claimed** (Sermones I and III, found by `s1` and `s3`). **Transcribe the word where it
+  stands; it is Quaracchi's text and the positive end-marker of the unit — but never infer it, and
+  record its absence at a stated magnification, as `bon-serm-tract` did.**
 
 ## ⭐⭐ THE TRACTATUS IS A FIFTH UNIT OF THIS WORK, NOT A WORK OF ITS OWN — Quaracchi says so
 
