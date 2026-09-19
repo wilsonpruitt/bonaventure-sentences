@@ -204,7 +204,7 @@
       {"abbrev": ["Itiner.", "Itinerar."], "slug": "itinerarium", "chunk_pattern": "bon-itin-c{cap}"},
       {"abbrev": ["Hexaem.", "Hexaemer.", "Collat. in Hexaem."], "slug": "hexaemeron", "chunk_pattern": "bon-hex-coll{coll}"},
       {"abbrev": ["de Reduct.", "De reduct."], "slug": "de-reductione", "chunk_pattern": "bon-red-n{n}"},
-      {"abbrev": ["de Scientia Christi", "Quaest. de scientia Christi"], "slug": "scientia-christi", "chunk_pattern": "bon-sci-q{q}"},
+      {"abbrev": ["de Scientia Christi", "Quaest. de scientia Christi"], "slug": "scientia-christi", "chunk_pattern": "bon-qsc-q{q}"},
       {"abbrev": ["de Myst. Trin.", "Quaest. de mysterio Trinitatis", "de mysterio Trinitatis"], "slug": "mysterio-trinitatis", "chunk_pattern": "bon-myst-q{q}"},
       {"abbrev": ["de Perf. evang.", "de perfectione evangelica"], "slug": "perfectione-evangelica", "chunk_pattern": "bon-perf-q{q}"}
     ]
