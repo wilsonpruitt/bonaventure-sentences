@@ -2990,6 +2990,19 @@ KNOWN_TOTALS_VOL6 = {
              # anchor split of 1/6: n.3 anchors in the RIGHT column and prints
              # left. No runover on the leaf, and p.24's left block opens
              # numbered, so nothing crosses from p.23's foot.
+    25: 9,   # all Cap. II Vers. 11-17 (its Quaestiones open mid-right-column
+             # on this leaf). Block split 3/6 (nn.1-3 left, nn.4-9 right) and
+             # the anchor split is 9/0. No runover on the leaf; both blocks
+             # open numbered. The `S. Bonav. - Tom. VI.` signature line and
+             # the gathering signature 4 are not apparatus.
+    26: 8,   # nn.1-6 Cap. II Vers. 11-17 (its Quaestiones II-IV close mid-
+             # right-column on this leaf); nn.7-8 the pericope Vers. 18-26,
+             # whose divisio heading stands immediately below that close.
+             # Block split 6/2 and anchor split 6/2 AGREE here - the first
+             # leaf-boundary in this work since p.19 where they do. n.6 runs
+             # over the gutter, so p.26's RIGHT block opens unnumbered and
+             # flush left; its LEFT block opens numbered, so nothing crosses
+             # from p.25's foot.
 }
 
 KNOWN_TOTALS_BY_VOL = {
