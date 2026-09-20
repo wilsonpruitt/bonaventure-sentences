@@ -39,6 +39,17 @@ export default function AboutPage() {
           Ecclesiastes; the intention is to finish all ten volumes. No complete English edition of
           the Opera Omnia has ever been published.
         </p>
+        <p style={{ marginBottom: "1.25rem" }}>
+          A few leaves of each printed volume are deliberately not translated, and they are left out
+          of the page counts on both sides. They are the furniture of a physical book: the half-title
+          that announces a work, the blank verso facing it, and in one case an editorial table of
+          chapter headings. A printed edition needs them to make its gatherings fall right; a digital
+          one has nothing to put on them. Volume V has twenty such leaves in its five hundred and
+          seventy-seven, which is why it is counted as five hundred and fifty-seven pages and reads
+          as finished. Nothing Bonaventure wrote, and nothing his editors wrote about him, is passed
+          over on those grounds &mdash; the editorial prefaces, scholia and apparatus are all
+          translated in full.
+        </p>
 
         <FleuronDivider />
 

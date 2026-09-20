@@ -4,7 +4,7 @@
  * /progress route to render.
  *
  * ⛔ THE NUMERATOR IS NEVER TYPED BY HAND. It is derived from the corpus:
- * every chunk file in vol1/…vol5/ declares `printed_pages:` in its
+ * every chunk file in vol1/…vol6/ declares `printed_pages:` in its
  * frontmatter, and this script unions those page numbers per volume. The
  * union matters — adjacent chunks share boundary leaves, so naive summing
  * double-counts every shared page. Distinct pages is the only honest count.
@@ -19,7 +19,11 @@
  *              text and is not counted on either side of the ratio.
  *   Vol V      MEASURED from the volume's own index, via the work map frozen
  *              in the repo CLAUDE.md § VOL V: the ten works run from p. 3
- *              (QD de scientia Christi) to the end of the Sermones selecti.
+ *              (QD de scientia Christi) to the end of the Sermones selecti,
+ *              LESS the twenty non-text leaves enumerated in
+ *              VOL5_NON_TEXT_LEAVES — half-titles, blank versos and the
+ *              Breviloquium's capitula table, which the printed edition needs
+ *              and a digital one has nothing to put on.
  *              The last leaf — formerly the one soft edge, carried as ~579 —
  *              was SETTLED on 2026-09-17 against the digitized volume; see
  *              VOL5_BODY_LAST below.
@@ -50,11 +54,12 @@ const VOL_DIRS = ["vol1", "vol2", "vol3", "vol4", "vol5", "vol6"];
 
 // ---------------------------------------------------------------------------
 // Vol V work map. Page ranges are Quaracchi's own, read off the volume index
-// and frozen in CLAUDE.md § VOL V (work map). `pages` is the work's whole
-// extent INCLUDING its half-title and the blank verso that faces it, which is
-// why e.g. the Hexaemeron reads 327–454 while its translated body opens on
-// p. 329. Those two leaves are part of the volume and are counted in the
-// denominator; they carry no text, so they never appear in the numerator.
+// and frozen in CLAUDE.md § VOL V (work map). A work's extent INCLUDES its
+// half-title and the blank verso facing it, which is why e.g. the Hexaemeron
+// reads 327–454 while its translated body opens on p. 329.
+// ⚠ Those furniture leaves are NO LONGER counted in the denominator — see
+// VOL5_NON_TEXT_LEAVES below, which subtracts them, so a finished work reads
+// N/N. (Until 2026-09-20 they were counted, and Volume V read 557/577.)
 // ---------------------------------------------------------------------------
 // `done` is always counted, never declared. `done` is a fact about the files;
 // `complete` is a fact about the work-close gate, which no page count can see —
@@ -89,11 +94,56 @@ const VOL5_WORKS = [
   },
 ];
 
-// How many leaves of a completed work may legitimately stand untranslated:
-// its half-title, the blank verso facing it, and — in the Breviloquium alone —
-// the editorial capitula table at pp. 209–210, which is apparatus and is not
-// chunked. Above this, a "complete" claim is not credible and the build says so.
-const NON_TEXT_LEAF_ALLOWANCE = 4;
+// ★ THE NON-TEXT LEAVES OF VOLUME V, ENUMERATED — NOT AN ALLOWANCE, A LIST.
+//
+// These twenty leaves stand inside the volume's body extent and carry no text
+// to translate: they are the physical edition's furniture — a work's half-title,
+// the blank verso facing it, and the Breviloquium's editorial capitula table,
+// which is apparatus and is deliberately not chunked. A printed book needs them;
+// a digital edition has nothing to put on them. They are therefore subtracted
+// from the DENOMINATOR, so a finished volume reads 557/557 rather than 557/577.
+//
+// ⛔ WHY THIS IS A LIST AND NOT `total = done`. The obvious way to make a volume
+// read 100 % is to define its total as the number of pages we translated. That is
+// circular: the denominator becomes the numerator by construction, and a page
+// genuinely LOST — dropped at a seam, never chunked, silently missing — would
+// vanish from both sides at once and could never be detected. Enumerating the
+// exempt leaves keeps the extent independently measured (pp. 3–579 from the
+// running heads), so if a real text leaf ever goes missing the count falls short
+// and the guard below fires. The check gets STRONGER by this change, not weaker:
+// the old ±4 tolerance is gone, and any shortfall at all is now a defect.
+//
+// Provenance, leaf by leaf. Fifteen are attested directly in the repo's CLAUDE.md,
+// most of them as measured dark-pixel fractions on the plate ("p. 294 MEASURED
+// BLANK"); five — 200, 292, 318, 504 and the versos' general shape — are inferred
+// from the neighbouring works' own measured body extents rather than from a
+// blankness reading of their own. That distinction is recorded rather than
+// smoothed over: an inferred leaf is a weaker claim than a measured one.
+const VOL5_NON_TEXT_LEAVES = new Set([
+  44,                   // blank, between de scientia Christi (ends 43) and de mysterio Trinitatis (opens 45)
+  116,                  // blank, after de mysterio Trinitatis ends p. 115
+  199, 200,             // Breviloquium half-title + blank verso (body opens 201)
+  209,                  // Breviloquium editorial capitula table (209–210 top); apparatus, not chunked
+  292,                  // blank, after the Breviloquium ends p. 291
+  293, 294,             // Itinerarium half-title (VERIFIED) + MEASURED BLANK verso
+  317, 318,             // De reductione half-title (verified) + blank verso (body 319–325)
+  326, 327, 328,        // MEASURED BLANK · Hexaemeron half-title · MEASURED BLANK
+  455, 456,             // Coll. de septem donis half-title + MEASURED BLANK (0.084 %)
+  504,                  // blank, after the septem donis ends p. 503
+  505, 506,             // Coll. de decem praeceptis half-title (plate-verified) + MEASURED BLANK (0.047 %)
+  533, 534,             // Sermones selecti half-title + MEASURED BLANK (0.0005 %)
+]);
+
+// Non-text leaves falling inside an arbitrary printed range.
+const nonTextIn = (first, last) => {
+  let n = 0;
+  for (const p of VOL5_NON_TEXT_LEAVES) if (p >= first && p <= last) n += 1;
+  return n;
+};
+
+// A completed work must now account for EVERY text leaf of its extent. The old
+// ±4 tolerance existed only because the furniture was in the denominator.
+const NON_TEXT_LEAF_ALLOWANCE = 0;
 
 // The volume's body extent. Start is fixed (p. 3, the first work's opening
 // leaf); the end is the Sermones' approximate close.
@@ -303,10 +353,11 @@ const volumes = VOLUMES.map((v) => {
   }
 
   if (v.n === 5) {
-    const total = VOL5_BODY_LAST - VOL5_BODY_FIRST + 1;
+    const total =
+      VOL5_BODY_LAST - VOL5_BODY_FIRST + 1 - nonTextIn(VOL5_BODY_FIRST, VOL5_BODY_LAST);
     const works = VOL5_WORKS.map((w) => {
       const wDone = count(workPages.get(w.slug));
-      const wTotal = w.last - w.first + 1;
+      const wTotal = w.last - w.first + 1 - nonTextIn(w.first, w.last);
       return {
         slug: w.slug,
         title: w.title,

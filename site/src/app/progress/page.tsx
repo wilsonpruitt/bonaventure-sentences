@@ -156,8 +156,12 @@ export default function ProgressPage() {
       <p className="body-text" style={{ marginTop: "1.25rem" }}>
         That is {progress.pctOfMeasured}% of the {n(progress.measuredTotal)} pages this project
         counts as text to translate &mdash; and every one of those pages is{" "}
-        <em>measured</em>, not estimated. Volumes I through V are measured from the corpus
-        itself, page by page, as is what exists of Volume VI. The volumes still untranslated have
+        <em>measured</em>, not estimated. A volume&rsquo;s furniture &mdash; half-titles, the blank
+        versos facing them, an editorial table of chapter headings &mdash; is left out of both
+        sides of the ratio once it has been identified leaf by leaf, which so far has been done for
+        Volume V and not for the volumes after it; their denominators still carry a page or two of
+        it. Volumes I through V are measured from the corpus itself, page by page, as is what
+        exists of Volume VI. The volumes still untranslated have
         not been set in type here at all, but
         their extent is no longer a guess either: each was measured in September 2026 against
         the digitized Quaracchi volume, by finding the last leaf of its body text and reading
