@@ -25,7 +25,25 @@ import re
 import sys
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-VOLUMES = sys.argv[1:] or ["vol1", "vol2", "vol3", "vol4", "vol5", "vol6"]
+ALL_VOLUMES = ["vol1", "vol2", "vol3", "vol4", "vol5", "vol6"]
+
+# ⛔⛔ THIS SCRIPT TAKES BARE POSITIONAL VOLUME NAMES, AND IT USED TO ACCEPT
+# ANYTHING. `--volume 5` — the form every other tool in this repo takes — was
+# read as two "volume names", matched nothing, and the script then printed
+# "LIVE [?] FLAGS: none — checked, not assumed." A CLEAN VERDICT ON ZERO
+# CHUNKS. It was recorded as a live trap TWICE (Vol V Sermones notes, then the
+# Vol V close) and fixed neither time; the fix is eleven lines and is below.
+# Every argument is now validated against ALL_VOLUMES and the run dies on
+# anything else, so the failure can no longer be silent.
+_args = sys.argv[1:]
+for _a in _args:
+    if _a.startswith("-"):
+        sys.exit("this script takes BARE volume names, not flags: "
+                 "%r\n  use:  check-live-flags.py vol6   (or no argument for "
+                 "the whole corpus)" % _a)
+    if _a not in ALL_VOLUMES:
+        sys.exit("unknown volume %r (have %s)" % (_a, ", ".join(ALL_VOLUMES)))
+VOLUMES = _args or ALL_VOLUMES
 
 
 def live_region(text):

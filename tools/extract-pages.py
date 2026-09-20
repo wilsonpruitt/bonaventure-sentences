@@ -203,9 +203,23 @@ MAX_SAFE_BYTES = 3_600_000  # ~4.9 MB once base64-encoded
 class Result:
     extracted: list[int]
     skipped: list[int]
+    # (printed_page, why) for files that exist but NOT at the requested dpi.
+    stale: list[tuple[int, str]]
     errored: list[tuple[int, str]]
     # (printed_page, size_bytes) for files too large to Read without cropping.
     oversized: list[tuple[int, int]]
+
+
+def _png_dpi(path: Path):
+    """The dpi a PNG was rendered at, from its own pHYs chunk, or None."""
+    try:
+        from PIL import Image
+
+        with Image.open(path) as im:
+            d = im.info.get("dpi")
+        return round(float(d[0])) if d else None
+    except Exception:
+        return None
 
 
 def output_path(volume: str, printed: int) -> Path:
@@ -230,6 +244,19 @@ def extract_one(
 
     out_path = output_path(config.name, printed)
     if out_path.exists() and not force:
+        # ⛔⛔ A SKIP USED TO IGNORE THE DPI THE EXISTING FILE WAS MADE AT, and
+        # that is a silent wrong-resolution read waiting to happen: at
+        # `bon-praec-c6` (Vol V) pp. 526-529 had been pulled once at the default
+        # dpi, a later `--dpi 450` request skipped all four as "already
+        # existed", and two leaves were partially transcribed at 1143x1699
+        # before the mismatch was caught by hand. pdftoppm writes the real dpi
+        # into the PNG's pHYs chunk, so the test is exact and costs one open().
+        actual = _png_dpi(out_path)
+        if actual is None:
+            return ("stale", "exists but its dpi could not be read — "
+                             "re-extract with --force to be sure")
+        if abs(actual - dpi) > 1:
+            return ("stale", "exists at %d dpi, %d requested" % (actual, dpi))
         return ("skipped", None)
 
     out_path.parent.mkdir(parents=True, exist_ok=True)
@@ -280,7 +307,7 @@ def extract_pages(
     if not config.pdf_path.exists():
         raise FileNotFoundError(f"PDF not found at {config.pdf_path}")
 
-    result = Result(extracted=[], skipped=[], errored=[], oversized=[])
+    result = Result(extracted=[], skipped=[], errored=[], oversized=[], stale=[])
     for printed in pages:
         status, err = extract_one(config, printed, dpi, force)
         if status == "extracted":
@@ -290,6 +317,8 @@ def extract_pages(
                 result.oversized.append((printed, size))
         elif status == "skipped":
             result.skipped.append(printed)
+        elif status == "stale":
+            result.stale.append((printed, err or ""))
         else:
             result.errored.append((printed, err or "unknown error"))
     return result
@@ -345,7 +374,16 @@ def main() -> int:
     print(f"Volume: {args.volume} ({VOLUMES[args.volume].description})")
     print(f"Requested: {len(pages)} pages ({args.pages})")
     print(f"Extracted: {len(result.extracted)}")
-    print(f"Skipped:   {len(result.skipped)} (already existed)")
+    print(f"Skipped:   {len(result.skipped)} (already existed, at the requested dpi)")
+    if result.stale:
+        print(
+            f"⛔ STALE: {len(result.stale)} page(s) exist at a DIFFERENT dpi and were "
+            "NOT re-extracted. Do not read them as if they were the requested plate."
+        )
+        for printed, why in result.stale:
+            print(f"  p. {printed}: {why}")
+        print(f"      re-extract: python3.11 tools/extract-pages.py --volume "
+              f"{args.volume} --pages <range> --dpi {args.dpi} --force")
     if result.oversized:
         print(
             f"⚠ Oversized: {len(result.oversized)} page(s) exceed ~{MAX_SAFE_BYTES // 1_000_000} MB — "

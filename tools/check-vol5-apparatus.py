@@ -2957,11 +2957,33 @@ def section(text, name):
 
 
 def main():
-    vol = "vol5"
-    for arg in sys.argv[1:]:
-        if arg.startswith("--volume"):
-            _, _, v = arg.partition("=")
-            vol = v or vol
+    # ⛔ AN ARGUMENT PARSER THAT GUESSES IS WORSE THAN ONE THAT FAILS. The first
+    # cut of this block matched `--volume` with startswith() and partitioned on
+    # "=", so `--volume vol6` (a space, not an equals) left vol at its default
+    # and the script scanned **vol5** while printing an entirely plausible
+    # verdict — the wrong volume, not an empty one. Caught the same day it was
+    # written, and only because the `volume:` line below prints the denominator.
+    # Every form is now accepted or REFUSED; nothing falls through to a default.
+    vol = None
+    argv = sys.argv[1:]
+    i = 0
+    while i < len(argv):
+        arg = argv[i]
+        if arg.startswith("--volume="):
+            vol = arg.partition("=")[2]
+        elif arg == "--volume":
+            if i + 1 >= len(argv):
+                sys.exit("--volume needs a value, e.g. --volume vol6")
+            i += 1
+            vol = argv[i]
+        elif arg.startswith("--expect-max"):
+            pass
+        else:
+            sys.exit("unrecognised argument %r — use --volume vol6 "
+                     "or --expect-max=<page>:<n>" % arg)
+        i += 1
+    if vol is None:
+        vol = "vol5"
     if vol not in KNOWN_TOTALS_BY_VOL:
         sys.exit("unknown volume %r (have %s)"
                  % (vol, ", ".join(sorted(KNOWN_TOTALS_BY_VOL))))
