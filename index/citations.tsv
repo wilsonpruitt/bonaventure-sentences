@@ -23750,7 +23750,76 @@ bon-eccl-c1-v1	6	latin_body	p9-5	scripture	body-ordinal	Matthaei decimo quinto	M
 bon-eccl-c1-v1	6	apparatus:p9-4	p9-4	scripture	apparatus-explicit	Prov. 26, 9	Prov 26:9	A	verse		
 bon-eccl-c1-v1	6	apparatus:p10-2	p10-2	scripture	apparatus-explicit	Hebr. 5, 14	Hebr 5:14	A	verse		
 bon-eccl-c1-v1	6	apparatus:p10-4	p10-4	scripture	apparatus-explicit	Psalm. 44, 1	Ps 44:1	A	verse		
-bon-eccl-c1-v1	6	apparatus:p10-5	p10-5	crossref	page	supra pag. 8, nota 5	tom6:p8		forward		
+bon-eccl-c1-v1	6	apparatus:p10-5	p10-5	crossref	page	supra pag. 8, nota 5	bon-eccl-prooem		chunk		
 bon-eccl-c1-v1	6	apparatus:p10-6	p10-6	scripture	apparatus-explicit	Hebr. 13, 14	Hebr 13:14	A	verse		
 bon-eccl-c1-v1	6	apparatus:p10-6	p10-6	scripture	apparatus-explicit	Rom. 12, 3	Rom 12:3	A	verse		
 bon-eccl-c1-v1	6	apparatus:p10-7	p10-7	scripture	apparatus-explicit	Prov. 1, 2	Prov 1:2	A	verse		
+bon-eccl-prooem	6	latin_body	p3-2	scripture	body-ordinal	ad Corinthios quarto	Cor* 4:18	B	verse		
+bon-eccl-prooem	6	latin_body		scripture	body-ordinal	Matthaei sexto	Matth 6	C	chapter		
+bon-eccl-prooem	6	latin_body	p3-5	scripture	body-ordinal	ad Timotheum sexto	Tim* 6:14	B	verse		
+bon-eccl-prooem	6	latin_body	p3-6	scripture	body-ordinal	Apocalypsis decimo nono	Apoc 19:9	B	verse		
+bon-eccl-prooem	6	latin_body	p3-7	scripture	body-ordinal	Proverbiorum tertio	Prov 3:15	B	verse		
+bon-eccl-prooem	6	latin_body		scripture	body-ordinal	Sapientiae septimo	Sap 7	C	chapter		
+bon-eccl-prooem	6	latin_body	p4-1	scripture	body-ordinal	Iacobi primo	Iac 1:17	B	verse		
+bon-eccl-prooem	6	latin_body	p4-2	scripture	body-ordinal	Apocalypsis decimo quarto	Apoc 14:13	B	verse		
+bon-eccl-prooem	6	latin_body		scripture	body-ordinal	Isaiae trigesimo quinto	Isai 35	C	chapter		
+bon-eccl-prooem	6	latin_body	p4-5	scripture	body-ordinal	Ieremiae secundo	Ierem 2:5	B	verse		
+bon-eccl-prooem	6	latin_body		scripture	body-ordinal	Isaiae trigesimo	Isai 30	C	chapter		
+bon-eccl-prooem	6	latin_body		scripture	body-ordinal	Ecclesiastici trigesimo quarto	Eccli 34	C	chapter		
+bon-eccl-prooem	6	latin_body		scripture	body-ordinal	Matthaei decimo sexto	Matth 16	C	chapter		
+bon-eccl-prooem	6	latin_body	p4-10	scripture	body-ordinal	Iob undecimo	Iob 11:12	B	verse		
+bon-eccl-prooem	6	latin_body		scripture	body-ordinal	Iob trigesimo	Iob 30	C	chapter		
+bon-eccl-prooem	6	latin_body	p4-11	scripture	body-ordinal	Esdrae tertio	Esdr* 3:18	B	verse		
+bon-eccl-prooem	6	latin_body		scripture	body-ordinal	ad Ephesios quinto	Eph 5	C	chapter		
+bon-eccl-prooem	6	latin_body	p5-1	scripture	body-ordinal	Proverbiorum vigesimo primo	Prov 21:6	B	verse		
+bon-eccl-prooem	6	latin_body		scripture	body-ordinal	Ecclesiastici decimo	Eccli 10	C	chapter		
+bon-eccl-prooem	6	latin_body	p5-2	scripture	body-ordinal	ad Corinthios tertio	Cor* 3:20	B	verse		
+bon-eccl-prooem	6	latin_body		scripture	body-ordinal	Ieremiae decimo	Ierem 10	C	chapter		
+bon-eccl-prooem	6	latin_body		scripture	body-ordinal	ad Corinthios primo	Cor* 1	C	chapter		
+bon-eccl-prooem	6	latin_body	p5-3	scripture	body-ordinal	Ecclesiastici sexto	Eccli 6:2	B	verse		
+bon-eccl-prooem	6	latin_body		scripture	body-ordinal	Ieremiae decimo sexto	Ierem 16	C	chapter		
+bon-eccl-prooem	6	latin_body	p5-5	scripture	body-ordinal	Sapientiae secundo	Sap 2:8	B	verse		
+bon-eccl-prooem	6	latin_body	p5-6	scripture	body-ordinal	ad Timotheum primo	Tim* 1:5	B	verse		
+bon-eccl-prooem	6	latin_body		scripture	body-ordinal	ad Titum primo	Tit 1	C	chapter		
+bon-eccl-prooem	6	latin_body	p6-3	scripture	body-ordinal	Iacobi quarto	Iac 4:4	B	verse		
+bon-eccl-prooem	6	latin_body	p6-4	scripture	body-ordinal	Ioannis secundo	Ioan 2:15	B	verse		
+bon-eccl-prooem	6	latin_body	p6-6	scripture	body-ordinal	Proverbiorum decimo sexto	Prov 16:4	B	verse		
+bon-eccl-prooem	6	latin_body	p6-11	scripture	body-ordinal	Genesis primo	Gen 1:31	B	verse		
+bon-eccl-prooem	6	latin_body	p7-8	scripture	body-ordinal	Ecclesiastici vigesimo	Eccli 20:22	B	verse		
+bon-eccl-prooem	6	latin_body	p8-8	scripture	body-ordinal	Regum tertio	Reg* 3:5	B	verse		
+bon-eccl-prooem	6	apparatus:p3-1	p3-1	scripture	apparatus-explicit	Psalm. 39, 5	Ps 39:5	A	verse		
+bon-eccl-prooem	6	apparatus:p3-4	p3-4	scripture	apparatus-explicit	Psalm. 143, 15	Ps 143:15	A	verse		
+bon-eccl-prooem	6	apparatus:p3-4	p3-4	scripture	apparatus-explicit	Matth. 6, 24	Matth 6:24	A	verse		
+bon-eccl-prooem	6	apparatus:p3-5	p3-5	scripture	apparatus-explicit	Act. 4, 12	Act 4:12	A	verse		
+bon-eccl-prooem	6	apparatus:p3-7	p3-7	scripture	apparatus-explicit	Sap. 7, 11	Sap 7:11	A	verse		
+bon-eccl-prooem	6	apparatus:p4-4	p4-4	scripture	apparatus-explicit	Psalm. 83, 5	Ps 83:5	A	verse		
+bon-eccl-prooem	6	apparatus:p4-4	p4-4	scripture	apparatus-explicit	Isai. 35, 10	Isai 35:10	A	verse		
+bon-eccl-prooem	6	apparatus:p4-5	p4-5	scripture	apparatus-explicit	Isai. 30, 7	Isai 30:7	A	verse		
+bon-eccl-prooem	6	apparatus:p4-5	p4-5	scripture	anaphor->apparatus-explicit	ibid.	Isai 30:7	A	verse	yes	Isai. 30, 7
+bon-eccl-prooem	6	apparatus:p4-6	p4-6	scripture	apparatus-explicit	Psalm. 59, 13	Ps 59:13	A	verse		
+bon-eccl-prooem	6	apparatus:p4-7	p4-7	scripture	apparatus-explicit	Eccli. 34, 1	Eccli 34:1	A	verse		
+bon-eccl-prooem	6	apparatus:p4-7	p4-7	scripture	apparatus-explicit	Gen. 1	Gen 1	C	chapter		
+bon-eccl-prooem	6	apparatus:p4-7	p4-7	scripture	apparatus-explicit	Ier. 4	Ierem 4	C	chapter		
+bon-eccl-prooem	6	apparatus:p4-8	p4-8	scripture	apparatus-explicit	Ps. 11, 9	Ps 11:9	A	verse		
+bon-eccl-prooem	6	apparatus:p4-9	p4-9	scripture	apparatus-explicit	Matth. 16, 26	Matth 16:26	A	verse		
+bon-eccl-prooem	6	apparatus:p4-10	p4-10	scripture	anaphor->apparatus-explicit	ibid.	Matth 16:26	A	verse	yes	Matth. 16, 26
+bon-eccl-prooem	6	apparatus:p5-1	p5-1	scripture	apparatus-explicit	Eccli. 10, 10	Eccli 10:10	A	verse		
+bon-eccl-prooem	6	apparatus:p5-1	p5-1	scripture	apparatus-explicit	Matth. 6, 21	Matth 6:21	A	verse		
+bon-eccl-prooem	6	apparatus:p5-2	p5-2	scripture	apparatus-explicit	Ps. 93, 11	Ps 93:11	A	verse		
+bon-eccl-prooem	6	apparatus:p5-3	p5-3	scripture	apparatus-explicit	Ier. 10, 15	Ierem 10:15	A	verse		
+bon-eccl-prooem	6	apparatus:p5-4	p5-4	scripture	apparatus-explicit	Ier. 16, 13	Ierem 16:13	A	verse		
+bon-eccl-prooem	6	apparatus:p5-5	p5-5	scripture	apparatus-explicit	Prov. 31, 30	Prov 31:30	A	verse		
+bon-eccl-prooem	6	apparatus:p5-5	p5-5	scripture	apparatus-explicit	I. Petri 1, 24	1Petr 1:24	A	verse		
+bon-eccl-prooem	6	apparatus:p5-6	p5-6	scripture	apparatus-explicit	Tit. 1, 10	Tit 1:10	A	verse		
+bon-eccl-prooem	6	apparatus:p5-8	p5-8	scripture	apparatus-explicit	Phil. 2, 15	Phil 2:15	A	verse		
+bon-eccl-prooem	6	apparatus:p5-8	p5-8	crossref	page	tom. V. pag. 363, nota 8	bon-hex-c6		chunk		
+bon-eccl-prooem	6	apparatus:p6-2	p6-2	scripture	apparatus-explicit	Eccli. 34, 10	Eccli 34:10	A	verse		
+bon-eccl-prooem	6	apparatus:p6-5	p6-5	scripture	apparatus-explicit	Eccli. 9, 24	Eccli 9:24	A	verse		
+bon-eccl-prooem	6	apparatus:p7-3	p7-3	scripture	apparatus-explicit	Rom. 8, 20	Rom 8:20	A	verse		
+bon-eccl-prooem	6	apparatus:p7-3	p7-3	crossref	logical	I. Sent. d. 8. p. I. a. 1. q. 1.	bon-sent-I-d8-p1-a1-q1		chunk		
+bon-eccl-prooem	6	apparatus:p7-5	p7-5	crossref	page	tom. V. pag. 363, nota 8	bon-hex-c6		chunk		
+bon-eccl-prooem	6	apparatus:p7-7	p7-7	crossref	anaphor->page	loc. cit.	bon-hex-c6		chunk	yes	tom. V. pag. 363, nota 8
+bon-eccl-prooem	6	apparatus:p8-3	p8-3	scripture	apparatus-explicit	Psalm. 49, 16	Ps 49:16	A	verse		
+bon-eccl-prooem	6	apparatus:p8-6	p8-6	scripture	apparatus-explicit	Matth. 23, 3	Matth 23:3	A	verse		
+bon-eccl-prooem	6	apparatus:p8-7	p8-7	scripture	apparatus-explicit	Matth. 25, 14	Matth 25:14	A	verse		
+bon-eccl-prooem	6	apparatus:p8-7	p8-7	scripture	apparatus-explicit	Luc. 19, 12	Luc 19:12	A	verse		

@@ -489,6 +489,11 @@ function buildWorkChunkTitle(meta) {
   // sermon; it names itself by type, like the capitula/scholion/opusculum
   // cases above, so the Sermo branch below never has to special-case it.
   if (meta.type === "tractatus") return "Tractatus";
+  // The Ecclesiastes Prooemium is a division-0 chunk that is NOT a prologue:
+  // the `division === 0` branch below would name it "Prologus", so it names
+  // itself by type first, like the cases above. (Jerome's Prologus + its
+  // Expositio, the work's other division-0 chunk, is a separate decision.)
+  if (meta.type === "prooemium") return "Prooemium";
   if (meta.division === 0) {
     return meta.section ? `Prologus, §${meta.section}` : "Prologus";
   }

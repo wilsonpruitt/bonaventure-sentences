@@ -2936,6 +2936,16 @@ KNOWN_TOTALS = {
 # Vol VI — Commentarii in Sacram Scripturam I. Totals are eyes-on band reads.
 KNOWN_TOTALS_VOL6 = {
     # Commentarius in Ecclesiasten (pp. 3-103).
+    # pp. 3-8 are the Prooemium (bon-eccl-prooem) and every register on them is
+    # that chunk's in full: Jerome's PROLOGUS opens in-column on p. 8 at ~57% of
+    # the leaf and carries no anchor before p. 9, so p. 8 splits 8/0 by anchor
+    # against 4/4 by block.
+    3: 7,
+    4: 11,
+    5: 9,
+    6: 12,
+    7: 8,
+    8: 8,
     9: 6,    # nn.1-2 Expositio prologi (bon-eccl-prol), nn.3-6 Cap. I Vers. 1
     10: 10,  # nn.1-7 Cap. I Vers. 1, nn.8-10 the tractatus (Vers. 2-7)
 }
