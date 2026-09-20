@@ -23750,7 +23750,7 @@ bon-eccl-c1-v1	6	latin_body	p9-5	scripture	body-ordinal	Matthaei decimo quinto	M
 bon-eccl-c1-v1	6	apparatus:p9-4	p9-4	scripture	apparatus-explicit	Prov. 26, 9	Prov 26:9	A	verse		
 bon-eccl-c1-v1	6	apparatus:p10-2	p10-2	scripture	apparatus-explicit	Hebr. 5, 14	Hebr 5:14	A	verse		
 bon-eccl-c1-v1	6	apparatus:p10-4	p10-4	scripture	apparatus-explicit	Psalm. 44, 1	Ps 44:1	A	verse		
-bon-eccl-c1-v1	6	apparatus:p10-5	p10-5	crossref	page	supra pag. 8, nota 5	bon-eccl-prooem		chunk		
+bon-eccl-c1-v1	6	apparatus:p10-5	p10-5	crossref	page	supra pag. 8, nota 5	bon-eccl-prol+bon-eccl-prooem		page-multi		
 bon-eccl-c1-v1	6	apparatus:p10-6	p10-6	scripture	apparatus-explicit	Hebr. 13, 14	Hebr 13:14	A	verse		
 bon-eccl-c1-v1	6	apparatus:p10-6	p10-6	scripture	apparatus-explicit	Rom. 12, 3	Rom 12:3	A	verse		
 bon-eccl-c1-v1	6	apparatus:p10-7	p10-7	scripture	apparatus-explicit	Prov. 1, 2	Prov 1:2	A	verse		

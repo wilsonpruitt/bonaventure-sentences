@@ -494,6 +494,15 @@ function buildWorkChunkTitle(meta) {
   // itself by type first, like the cases above. (Jerome's Prologus + its
   // Expositio, the work's other division-0 chunk, is a separate decision.)
   if (meta.type === "prooemium") return "Prooemium";
+  // Jerome's Prologus + Bonaventure's Expositio of it, the work's other
+  // division-0 chunk. It cannot take `type: prologus`: eight Vol V chunks
+  // already carry that value and six of them (bon-brev-prol-s1..s6) depend on
+  // the `division === 0` branch below rendering "Prologus, §N", which a
+  // type-first prologus branch would flatten. The type names Bonaventure's own
+  // unit, an expositio, as the other type values name his (capitulum, collatio,
+  // quaestio, sermo, tractatus, prooemium); Jerome's prologue is the
+  // transmitted text expounded, carried with it.
+  if (meta.type === "expositio") return "Expositio prologi";
   if (meta.division === 0) {
     return meta.section ? `Prologus, §${meta.section}` : "Prologus";
   }

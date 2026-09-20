@@ -2937,8 +2937,9 @@ KNOWN_TOTALS = {
 KNOWN_TOTALS_VOL6 = {
     # Commentarius in Ecclesiasten (pp. 3-103).
     # pp. 3-8 are the Prooemium (bon-eccl-prooem) and every register on them is
-    # that chunk's in full: Jerome's PROLOGUS opens in-column on p. 8 at ~57% of
-    # the leaf and carries no anchor before p. 9, so p. 8 splits 8/0 by anchor
+    # that chunk's in full: Jerome's PROLOGUS opens in-column on p. 8 at rows
+    # 0.505-0.545 of the leaf (measured at bon-eccl-prol; the earlier "~57%" was
+    # an eyeball) and carries no anchor before p. 9, so p. 8 splits 8/0 by anchor
     # against 4/4 by block.
     3: 7,
     4: 11,
