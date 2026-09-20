@@ -23887,6 +23887,44 @@ bon-eccl-c1-v8-11	6	apparatus:p16-3	p16-3	scripture	apparatus-explicit	Eccle. 2,
 bon-eccl-c1-v8-11	6	apparatus:p17-5	p17-5	crossref	page	tom. III. pag. 39	bon-sent-III-d2-a1-q1+bon-sent-III-d2-a1-q2		page-multi		
 bon-eccl-c1-v8-11	6	apparatus:p17-7	p17-7	crossref	logical	II. Sent. d. 15. a. 2. q. 3.	bon-sent-II-d15-a2-q3		chunk		
 bon-eccl-c1-v8-11	6	apparatus:p17-8	p17-8	scripture	apparatus-explicit	Psalm. 76, 12	Ps 76:12	A	verse		
+bon-eccl-c2-v1-3	6	latin_body		scripture	body-ordinal	Isaiae vigesimo secundo	Isai 22	C	chapter		
+bon-eccl-c2-v1-3	6	latin_body		scripture	body-ordinal	Sapientiae secundo	Sap 2	C	chapter		
+bon-eccl-c2-v1-3	6	latin_body		scripture	body-ordinal	Proverbiorum septimo	Prov 7	C	chapter		
+bon-eccl-c2-v1-3	6	latin_body	p20-3	scripture	body-ordinal	Proverbiorum decimo quarto	Prov 14:13	B	verse		
+bon-eccl-c2-v1-3	6	latin_body		scripture	body-ordinal	Iacobi quarto	Iac 4	C	chapter		
+bon-eccl-c2-v1-3	6	latin_body		scripture	body-ordinal	Lucae sexto	Luc 6	C	chapter		
+bon-eccl-c2-v1-3	6	latin_body	p20-4	scripture	body-ordinal	Iob vigesimo primo	Iob 21:12	B	verse		
+bon-eccl-c2-v1-3	6	latin_body		scripture	body-ordinal	Iob vigesimo	Iob 20	C	chapter		
+bon-eccl-c2-v1-3	6	latin_body	p20-5	scripture	body-ordinal	ad Ephesios quinto	Eph 5:18	B	verse		
+bon-eccl-c2-v1-3	6	latin_body		scripture	body-ordinal	Proverbiorum vigesimo	Prov 20	C	chapter		
+bon-eccl-c2-v1-3	6	latin_body	p20-6	scripture	body-ordinal	Proverbiorum primo	Prov 1:22	B	verse		
+bon-eccl-c2-v1-3	6	latin_body		scripture	body-ordinal	Proverbiorum decimo nono	Prov 19	C	chapter		
+bon-eccl-c2-v1-3	6	latin_body	p20-8	scripture	body-ordinal	ad Timotheum secundo	Tim* 2:21	B	verse		
+bon-eccl-c2-v1-3	6	latin_body		scripture	body-ordinal	ad Timotheum quarto	Tim* 4	C	chapter		
+bon-eccl-c2-v1-3	6	latin_body	p21-1	scripture	body-ordinal	Paralipomenon vigesimo quarto	Par* 24:20	B	verse		
+bon-eccl-c2-v1-3	6	latin_body		scripture	body-ordinal	Ecclesiastici vigesimo	Eccli 20	C	chapter		
+bon-eccl-c2-v1-3	6	latin_body		scripture	body-ordinal	Lucae decimo quarto	Luc 14	C	chapter		
+bon-eccl-c2-v1-3	6	latin_body		scripture	body-ordinal	ad Timotheum secundo	Tim* 2	C	chapter		
+bon-eccl-c2-v1-3	6	latin_body	p21-3	scripture	body-ordinal	Sapientiae octavo	Sap 8:16	B	verse		
+bon-eccl-c2-v1-3	6	apparatus:p20-2	p20-2	scripture	apparatus-explicit	Psalm. 77, 39	Ps 77:39	A	verse		
+bon-eccl-c2-v1-3	6	apparatus:p20-2	p20-2	scripture	apparatus-explicit	Cantic. 7, 6	Cant 7:6	A	verse		
+bon-eccl-c2-v1-3	6	apparatus:p20-2	p20-2	scripture	apparatus-explicit	Isai. 22, 12	Isai 22:12	A	verse		
+bon-eccl-c2-v1-3	6	apparatus:p20-2	p20-2	scripture	apparatus-explicit	Sap. 2, 6	Sap 2:6	A	verse		
+bon-eccl-c2-v1-3	6	apparatus:p20-2	p20-2	scripture	apparatus-explicit	Prov. 7, 18	Prov 7:18	A	verse		
+bon-eccl-c2-v1-3	6	apparatus:p20-3	p20-3	scripture	apparatus-explicit	Iac. 4, 9	Iac 4:9	A	verse		
+bon-eccl-c2-v1-3	6	apparatus:p20-3	p20-3	scripture	apparatus-explicit	Luc. 6, 25	Luc 6:25	A	verse		
+bon-eccl-c2-v1-3	6	apparatus:p20-4	p20-4	scripture	anaphor->apparatus-explicit	ibid.	Luc 6:25	A	verse	yes	Luc. 6, 25
+bon-eccl-c2-v1-3	6	apparatus:p20-5	p20-5	scripture	apparatus-explicit	Prov. 20, 1	Prov 20:1	A	verse		
+bon-eccl-c2-v1-3	6	apparatus:p20-7	p20-7	scripture	anaphor->apparatus-explicit	ibid.	Prov 20:1	A	verse	yes	Prov. 20, 1
+bon-eccl-c2-v1-3	6	apparatus:p20-7	p20-7	scripture	apparatus-explicit	Prov. 19, 16	Prov 19:16	A	verse		
+bon-eccl-c2-v1-3	6	apparatus:p20-8	p20-8	scripture	anaphor->apparatus-explicit	ibid.	Prov 19:16	A	verse	yes	Prov. 19, 16
+bon-eccl-c2-v1-3	6	apparatus:p20-8	p20-8	scripture	apparatus-explicit	I. Tim. 4, 7	1Tim 4:7	A	verse		
+bon-eccl-c2-v1-3	6	apparatus:p21-1	p21-1	scripture	apparatus-explicit	Eccli. 20, 32	Eccli 20:32	A	verse		
+bon-eccl-c2-v1-3	6	apparatus:p21-1	p21-1	scripture	apparatus-explicit	Luc. 14, 34	Luc 14:34	A	verse		
+bon-eccl-c2-v1-3	6	apparatus:p21-1	p21-1	scripture	apparatus-explicit	II. Tim. 2, 14	2Tim 2:14	A	verse		
+bon-eccl-c2-v1-3	6	apparatus:p21-4	p21-4	crossref	page	pag. 23	tom6:p23		forward		
+bon-eccl-c2-v1-3	6	apparatus:tr-doctrina	tr-doctrina	scripture	apparatus-explicit	II Tim. 3	2Tim 3	C	chapter		
+bon-eccl-c2-v1-3	6	apparatus:tr-doctrina	tr-doctrina	scripture	apparatus-explicit	Prov. 8	Prov 8	C	chapter		
 bon-eccl-prooem	6	latin_body	p3-2	scripture	body-ordinal	ad Corinthios quarto	Cor* 4:18	B	verse		
 bon-eccl-prooem	6	latin_body		scripture	body-ordinal	Matthaei sexto	Matth 6	C	chapter		
 bon-eccl-prooem	6	latin_body	p3-5	scripture	body-ordinal	ad Timotheum sexto	Tim* 6:14	B	verse		

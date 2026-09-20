@@ -2969,6 +2969,12 @@ KNOWN_TOTALS_VOL6 = {
              # the leaf below that block. Block split 4/4 (nn.1-4 left,
              # nn.5-8 right); no runover on the leaf, and p.20's left block
              # opens numbered, so nothing crosses from p.19's foot.
+    21: 9,   # nn.1-4 Cap. II Vers. 1-3 (its Quaestio closes mid-left-column on
+             # this leaf); nn.5-9 the pericope Vers. 4-10, whose divisio
+             # heading stands immediately below that close, in the same
+             # column. Block split 5/4 (nn.1-5 left, nn.6-9 right) against an
+             # anchor split of 4/5: n.5 anchors in the RIGHT column and prints
+             # left. No runover on the leaf, and both blocks open numbered.
 }
 
 KNOWN_TOTALS_BY_VOL = {
