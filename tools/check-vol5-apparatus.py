@@ -2958,6 +2958,11 @@ KNOWN_TOTALS_VOL6 = {
              # against an anchor split 4/3. n.7 runs over onto p.17's foot.
     17: 11,  # nn.1-8 Vers. 8-11, nn.9-11 the pericope Vers. 12-15, whose
              # ART. 2 heading stands mid-right-column on the same leaf.
+    18: 9,   # all Vers. 12-15; block split 6/3 (nn.1-6 left, nn.7-9 right),
+             # anchor split the same. n.6 runs over the gutter.
+    19: 9,   # nn.1-3 Vers. 12-15 (its two Quaestiones), nn.4-9 the pericope
+             # Vers. 16-18, whose divisio heading stands mid-left-column on
+             # the same leaf. n.5 runs over the gutter (the next chunk's).
 }
 
 KNOWN_TOTALS_BY_VOL = {
