@@ -2963,6 +2963,12 @@ KNOWN_TOTALS_VOL6 = {
     19: 9,   # nn.1-3 Vers. 12-15 (its two Quaestiones), nn.4-9 the pericope
              # Vers. 16-18, whose divisio heading stands mid-left-column on
              # the same leaf. n.5 runs over the gutter (the next chunk's).
+    20: 8,   # n.1 Vers. 16-18 (its anchor is in the RIGHT column of the leaf's
+             # top two-column block, which carries Cap. I's last six lines);
+             # nn.2-8 Capitulum II, whose full-width display heading crosses
+             # the leaf below that block. Block split 4/4 (nn.1-4 left,
+             # nn.5-8 right); no runover on the leaf, and p.20's left block
+             # opens numbered, so nothing crosses from p.19's foot.
 }
 
 KNOWN_TOTALS_BY_VOL = {

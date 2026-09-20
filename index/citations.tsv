@@ -23776,6 +23776,20 @@ bon-eccl-c1-v12-15	6	apparatus:p18-9	p18-9	scripture	apparatus-explicit	Prov. 17
 bon-eccl-c1-v12-15	6	apparatus:p18-9	p18-9	scripture	apparatus-explicit	Isai. 1, 16	Isai 1:16	A	verse		
 bon-eccl-c1-v12-15	6	apparatus:p19-2	p19-2	crossref	logical	II. Sent. d. 28. a. 1. q. 1.	bon-sent-II-d28-a1-q1		chunk		
 bon-eccl-c1-v12-15	6	apparatus:p19-3	p19-3	crossref	page	tom. II. pag. 655, nota 3	bon-sent-II-d27-a1-q1		chunk		
+bon-eccl-c1-v16-18	6	latin_body	p19-4	scripture	body-ordinal	Regum quarto	Reg* 4:30	B	verse		
+bon-eccl-c1-v16-18	6	latin_body		scripture	body-ordinal	Ecclesiastici quadragesimo septimo	Eccli 47	C	chapter		
+bon-eccl-c1-v16-18	6	latin_body	p19-5	scripture	body-ordinal	Proverbiorum quarto	Prov 4:3	B	verse		
+bon-eccl-c1-v16-18	6	latin_body		scripture	body-ordinal	Regum quarto	Reg* 4	C	chapter		
+bon-eccl-c1-v16-18	6	latin_body	p19-6	scripture	body-ordinal	Proverbiorum octavo	Prov 8:10	B	verse		
+bon-eccl-c1-v16-18	6	latin_body	p19-8	scripture	body-ordinal	Iob trigesimo secundo	Iob 32:2	B	verse		
+bon-eccl-c1-v16-18	6	latin_body	p20-1	scripture	body-ordinal	Ieremiae trigesimo primo	Ierem 31:19	B	verse		
+bon-eccl-c1-v16-18	6	apparatus:p19-4	p19-4	scripture	apparatus-explicit	Eccli. 47, 15	Eccli 47:15	A	verse		
+bon-eccl-c1-v16-18	6	apparatus:p19-5	p19-5	scripture	anaphor->apparatus-explicit	ibid.	Eccli 47:15	A	verse	yes	Eccli. 47, 15
+bon-eccl-c1-v16-18	6	apparatus:p19-5	p19-5	scripture	apparatus-explicit	III. Reg. 4, 33	3Reg 4:33	A	verse		
+bon-eccl-c1-v16-18	6	apparatus:p19-7	p19-7	scripture	apparatus-explicit	Psalm. 72, 16	Ps 72:16	A	verse		
+bon-eccl-c1-v16-18	6	apparatus:p19-7	p19-7	scripture	apparatus-explicit	I. Cor. 8, 1	1Cor 8:1	A	verse		
+bon-eccl-c1-v16-18	6	apparatus:p19-8	p19-8	scripture	apparatus-explicit	Prov. 19, 19	Prov 19:19	A	verse		
+bon-eccl-c1-v16-18	6	apparatus:p20-1	p20-1	scripture	apparatus-explicit	Iob 42, 5	Iob 42:5	A	verse		
 bon-eccl-c1-v2-7	6	latin_body	p11-2	scripture	body-ordinal	ad Romanos octavo	Rom 8:20	B	verse		
 bon-eccl-c1-v2-7	6	latin_body		scripture	body-ordinal	Iob decimo quarto	Iob 14	C	chapter		
 bon-eccl-c1-v2-7	6	latin_body	p11-6	scripture	body-ordinal	Numerorum vigesimo quarto	Num 24:4	B	verse		
