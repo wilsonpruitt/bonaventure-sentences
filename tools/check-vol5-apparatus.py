@@ -2949,6 +2949,11 @@ KNOWN_TOTALS_VOL6 = {
     8: 8,
     9: 6,    # nn.1-2 Expositio prologi (bon-eccl-prol), nn.3-6 Cap. I Vers. 1
     10: 10,  # nn.1-7 Cap. I Vers. 1, nn.8-10 the tractatus (Vers. 2-7)
+    11: 13,
+    12: 10,
+    13: 10,
+    14: 9,
+    15: 6,   # nn.1-4 Vers. 2-7 (Quaestio V), nn.5-6 the pericope Vers. 8-11
 }
 
 KNOWN_TOTALS_BY_VOL = {
