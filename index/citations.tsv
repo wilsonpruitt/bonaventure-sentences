@@ -23990,6 +23990,47 @@ bon-eccl-c2-v11-17	6	apparatus:p26-1	p26-1	scripture	apparatus-explicit	Prov. 4,
 bon-eccl-c2-v11-17	6	apparatus:p26-6	p26-6	scripture	anaphor->apparatus-explicit	ibid.	Prov 4:9	A	verse	yes	Prov. 4, 9
 bon-eccl-c2-v11-17	6	apparatus:p26-6	p26-6	scripture	apparatus-explicit	Sap. 14, 11	Sap 14:11	A	verse		
 bon-eccl-c2-v11-17	6	apparatus:p26-6	p26-6	scripture	apparatus-explicit	Eccli. 39, 32	Eccli 39:32	A	verse		
+bon-eccl-c2-v18-26	6	latin_body	p26-7	scripture	body-ordinal	Ieremiae sexto	Ierem 6:13	B	verse		
+bon-eccl-c2-v18-26	6	latin_body	p26-8	scripture	body-ordinal	Regum duodecimo	Reg* 12:6	B	verse		
+bon-eccl-c2-v18-26	6	latin_body		scripture	body-ordinal	Genesis tertio	Gen 3	C	chapter		
+bon-eccl-c2-v18-26	6	latin_body		scripture	body-ordinal	Matthaei sexto	Matth 6	C	chapter		
+bon-eccl-c2-v18-26	6	latin_body		scripture	body-ordinal	Ieremiae quinquagesimo primo	Ierem 51	C	chapter		
+bon-eccl-c2-v18-26	6	latin_body		scripture	body-ordinal	Deuteronomii vigesimo octavo	Deut 28	C	chapter		
+bon-eccl-c2-v18-26	6	latin_body	p27-3	scripture	body-ordinal	Proverbiorum vigesimo tertio	Prov 23:4	B	verse		
+bon-eccl-c2-v18-26	6	latin_body		scripture	body-ordinal	Iob septimo	Iob 7	C	chapter		
+bon-eccl-c2-v18-26	6	latin_body		scripture	body-ordinal	Proverbiorum decimo quinto	Prov 15	C	chapter		
+bon-eccl-c2-v18-26	6	latin_body		scripture	anaphor->body-ordinal	ibid	Prov 15	C	chapter	yes	Proverbiorum decimo quinto
+bon-eccl-c2-v18-26	6	latin_body	p27-6	scripture	body-ordinal	Isaiae vigesimo secundo	Isai 22:13	B	verse		
+bon-eccl-c2-v18-26	6	latin_body		scripture	body-ordinal	Ieremiae quinto	Ierem 5	C	chapter		
+bon-eccl-c2-v18-26	6	latin_body		scripture	body-ordinal	Regum quarto	Reg* 4	C	chapter		
+bon-eccl-c2-v18-26	6	latin_body		scripture	body-ordinal	Iob trigesimo octavo	Iob 38	C	chapter		
+bon-eccl-c2-v18-26	6	latin_body		scripture	body-ordinal	Proverbiorum decimo tertio	Prov 13	C	chapter		
+bon-eccl-c2-v18-26	6	latin_body		scripture	body-ordinal	Proverbiorum vigesimo octavo	Prov 28	C	chapter		
+bon-eccl-c2-v18-26	6	latin_body		scripture	body-ordinal	Proverbiorum undecimo	Prov 11	C	chapter		
+bon-eccl-c2-v18-26	6	latin_body	p27-8	scripture	body-ordinal	Proverbiorum vigesimo septimo	Prov 27:11	B	verse		
+bon-eccl-c2-v18-26	6	latin_body		scripture	body-ordinal	Ieremiae septimo	Ierem 7	C	chapter		
+bon-eccl-c2-v18-26	6	latin_body		scripture	body-ordinal	Proverbiorum vigesimo tertio	Prov 23	C	chapter		
+bon-eccl-c2-v18-26	6	latin_body		scripture	body-ordinal	Ieremiae sexto	Ierem 6	C	chapter		
+bon-eccl-c2-v18-26	6	latin_body		scripture	body-ordinal	Proverbiorum vigesimo	Prov 20	C	chapter		
+bon-eccl-c2-v18-26	6	apparatus:p26-8	p26-8	scripture	apparatus-explicit	Gen. 3, 19	Gen 3:19	A	verse		
+bon-eccl-c2-v18-26	6	apparatus:p26-8	p26-8	scripture	apparatus-explicit	Matth. 6, 25	Matth 6:25	A	verse		
+bon-eccl-c2-v18-26	6	apparatus:p27-2	p27-2	scripture	apparatus-explicit	Ier. 51, 18	Ierem 51:18	A	verse		
+bon-eccl-c2-v18-26	6	apparatus:p27-2	p27-2	scripture	apparatus-explicit	Deut. 28, 32	Deut 28:32	A	verse		
+bon-eccl-c2-v18-26	6	apparatus:p27-3	p27-3	scripture	apparatus-explicit	Eccle. 5, 10	Eccle 5:10	A	verse		
+bon-eccl-c2-v18-26	6	apparatus:p27-4	p27-4	scripture	apparatus-explicit	Iob 7, 3	Iob 7:3	A	verse		
+bon-eccl-c2-v18-26	6	apparatus:p27-4	p27-4	scripture	apparatus-explicit	Prov. 15, 15	Prov 15:15	A	verse		
+bon-eccl-c2-v18-26	6	apparatus:p27-6	p27-6	crossref	page	supra pag. 20, nota 2	bon-eccl-c1-v16-18+bon-eccl-c2-v1-3		page-multi		
+bon-eccl-c2-v18-26	6	apparatus:p27-6	p27-6	scripture	apparatus-explicit	Ier. 5, 7	Ierem 5:7	A	verse		
+bon-eccl-c2-v18-26	6	apparatus:p27-6	p27-6	scripture	apparatus-explicit	III. Reg. 4, 22	3Reg 4:22	A	verse		
+bon-eccl-c2-v18-26	6	apparatus:p27-7	p27-7	scripture	apparatus-explicit	Psalm. 67, 4	Ps 67:4	A	verse		
+bon-eccl-c2-v18-26	6	apparatus:p27-7	p27-7	scripture	apparatus-explicit	Iob 38, 36	Iob 38:36	A	verse		
+bon-eccl-c2-v18-26	6	apparatus:p27-7	p27-7	scripture	apparatus-explicit	Prov. 13, 22	Prov 13:22	A	verse		
+bon-eccl-c2-v18-26	6	apparatus:p27-8	p27-8	scripture	apparatus-explicit	Ier. 7, 3	Ierem 7:3	A	verse		
+bon-eccl-c2-v18-26	6	apparatus:p27-8	p27-8	scripture	apparatus-explicit	Prov. 23, 29	Prov 23:29	A	verse		
+bon-eccl-c2-v18-26	6	apparatus:p27-8	p27-8	scripture	apparatus-explicit	Ier. 6, 13	Ierem 6:13	A	verse		
+bon-eccl-c2-v18-26	6	apparatus:p27-8	p27-8	scripture	apparatus-explicit	Prov. 20, 11	Prov 20:11	A	verse		
+bon-eccl-c2-v18-26	6	apparatus:tr-doctrina	tr-doctrina	scripture	apparatus-explicit	Eccles. 2	Eccle 2	C	chapter		
+bon-eccl-c2-v18-26	6	apparatus:tr-studium	tr-studium	scripture	apparatus-explicit	Prov. 20	Prov 20	C	chapter		
 bon-eccl-c2-v4-10	6	latin_body	p21-5	scripture	body-ordinal	Regum decimo	Reg* 10:23	B	verse		
 bon-eccl-c2-v4-10	6	latin_body		scripture	body-ordinal	Regum nono	Reg* 9	C	chapter		
 bon-eccl-c2-v4-10	6	latin_body	p21-6	scripture	body-ordinal	Isaiae quinto	Isai 5:8	B	verse		

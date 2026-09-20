@@ -3003,6 +3003,21 @@ KNOWN_TOTALS_VOL6 = {
              # over the gutter, so p.26's RIGHT block opens unnumbered and
              # flush left; its LEFT block opens numbered, so nothing crosses
              # from p.25's foot.
+    27: 8,   # all Cap. II Vers. 18-26. Block split 4/4 (nn.1-4 left, nn.5-8
+             # right) and the anchor split is 4/4 too - they agree, for the
+             # second consecutive leaf. No runover on the leaf: both blocks
+             # open numbered and indented (L `1 Vers. 8, post habet...`,
+             # R `5 Vers. 9. et 12...`), so nothing crosses from p.26's foot
+             # and nothing crosses the gutter.
+    28: 7,   # NOT ONE of them is Cap. II's. The leaf's four opening lines
+             # close the pericope Vers. 18-26 (and with it Capitulum II) and
+             # carry NO anchor; `CAPITULUM III.` then stands full measure
+             # below them, and all seven notes answer its own divisio and
+             # expositio. Block split 5/2 (nn.1-5 left, nn.6-7 right); n.5
+             # runs over the gutter, so p.28's RIGHT block opens unnumbered
+             # and flush left - that runover is Capitulum III's to log, not
+             # ours. p.28's LEFT block opens numbered, which is the page-
+             # crossing negative for p.27.
 }
 
 KNOWN_TOTALS_BY_VOL = {
