@@ -919,8 +919,12 @@ columns. **Body extent pp. 507–532 = 26 printed pages.** Raw band **L83158 →
   ~2500×3800). Re-extracted with `--force` and every line re-verified before commit.
   **Check the actual pixel size of a freshly-touched page before trusting it, especially
   early in a chunk when an earlier default-dpi pull may already have populated the
-  directory** — the tool's own "Skipped: N (already existed)" message does not distinguish
-  a correct skip from this one.
+  directory.** ✅ **FIXED 2026-09-19 (`434b6f1`): the skip now compares the existing PNG's
+  OWN dpi — pdftoppm writes it into the pHYs chunk, so the test is exact and costs one
+  `open()` — and a file at the wrong dpi is reported `⛔ STALE` with the `--force` command
+  to re-pull it, never counted as a correct skip.** ⚠ The habit stays worth keeping: the
+  check protects a file this tool wrote, and says nothing about one that arrived any other
+  way (a hand-copied plate, a mirror-flipped leaf, a crop saved into `raw/vision/`).
 - **★★ THE RUNNING HEAD NAMES THE COLLATIO THAT BEGINS MID-PAGE — NEW HERE, AND IT IS THE
   PRINTING, NOT THE OCR.** On all six shared pages the running head is already set to the
   *incoming* collatio while the top of the page is still the outgoing one's text (p. 510's
@@ -2803,10 +2807,18 @@ existed — full reasoning in the scouting doc's rulings section). The front is 
   concluding a miscount.** ⭐ And the correction is itself the lesson: *a run of defects sharing one
   value is evidence about the run, not yet about the mechanism* — four of a kind out of four is a
   sample, not a pattern. Cf. the `II`→`H` flattening, a genuine typeface fact one glyph over.
-- ⛔⛔ **`check-live-flags.py --volume 5` SCANS ZERO CHUNKS AND THEN PRINTS A CLEAN VERDICT.** The
+- ✅ **`check-live-flags.py --volume 5` USED TO SCAN ZERO CHUNKS AND PRINT A CLEAN VERDICT — FIXED
+  2026-09-19 (`434b6f1`), after being recorded as live TWICE and worked around both times.** The
   script takes a **bare positional volume name**: `check-live-flags.py vol5` → 165 chunks; bare, with
-  no argument → the whole corpus. `--volume 5` matches nothing and reports success. **This trap was
-  already recorded once and is still live — read the denominator on every run.** ⚠ And the counter
+  no argument → the whole corpus. It now validates every argument against the volume list and dies on
+  a flag-shaped one, so `--volume 5` can no longer report success on nothing. ⭐ **The lesson outlives
+  the fix, and the fix is the proof of it: READ THE DENOMINATOR ON EVERY RUN.** Two other tools were
+  caught the same day with the identical shape — `build-citations.py`, whose corpus range was a
+  literal `(1,2,3,4,5)` independent of its own `--volumes` flag (adding a volume emitted ZERO records
+  for it and still printed a clean summary; the only tell was an unmoved ledger total), and
+  `check-vol5-apparatus.py`, whose `--volume vol6` with a SPACE silently scanned vol5 — **the wrong
+  volume, not an empty one, with 167 plausible chunks of output.** ⛔ **A tool that takes a volume in
+  two places will one day be given it in only one. When a verdict is clean, look at what it counted.** ⚠ And the counter
   counts occurrences **BY LINE**: `s3`'s four new `[?]` flags moved the corpus total 237 → **239**,
   not 245, because all four share one paragraph per language. **A flag delta smaller than the flag
   count is not a discrepancy.**
