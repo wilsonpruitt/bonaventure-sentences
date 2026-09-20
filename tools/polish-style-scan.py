@@ -157,8 +157,10 @@ def main():
         # regions
         lat = re.search(r"## Latin(.*?)(?:## English|\Z)", body, re.S)
         eng = re.search(r"## English(.*?)(?:## Apparatus|## Notes|\Z)", body, re.S)
+        app = re.search(r"## Apparatus(.*?)(?:## Notes|\Z)", body, re.S)
         lat_markers = set(body_markers(lat.group(1))) if lat else set()
         eng_markers = set(body_markers(eng.group(1))) if eng else set()
+        app_markers = set(body_markers(app.group(1))) if app else set()
 
         if has_app:
             # every def should be anchored in both bodies
@@ -168,7 +170,16 @@ def main():
             tr_in_lat = {m for m in lat_markers if m.startswith("tr-")}
             if tr_in_lat:
                 issues.append((name, "PAIR", f"translator's note anchored in Latin: {sorted(tr_in_lat)}"))
-            missing_eng = def_set - eng_markers
+            # A translator's note on a word that occurs ONLY inside an apparatus
+            # entry's **En.** half has nowhere in `## English` to stand, because
+            # `## Apparatus` is outside the English region. Ruled 2026-09-20 at
+            # the Vol VI Cap. I shakedown gate (first site: `bon-eccl-c1-v12-15`
+            # p. 18 n. 1, *nec vacare ad hoc potest*): an English-side anchor
+            # standing in `## Apparatus` satisfies the pairing — for `tr-` defs
+            # ONLY. Quaracchi's own numbered entries are unaffected and still
+            # require an anchor in both bodies.
+            missing_eng = {d for d in def_set - eng_markers
+                           if not (d.startswith("tr-") and d in app_markers)}
             if missing_lat:
                 issues.append((name, "PAIR", f"defs not anchored in Latin: {sorted(missing_lat, key=lambda s:(len(s),s))}"))
             if missing_eng:

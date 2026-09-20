@@ -2468,13 +2468,30 @@ the WORK-CLOSE GATE at p. 198** — its full carry-list is the START HERE block 
   voice; every other footnote is Quaracchi's.** Convention:
   - Label **`[^tr-<word>]`** (e.g. `[^tr-vacare]`; a second in one chunk `[^tr-vacare-2]`), anchored
     in the **ENGLISH ONLY** — never in the Latin — right after the rendered word.
+  - ⭐ **EXTENDED 2026-09-20 (Vol VI Cap. I shakedown gate): the anchor may stand in an APPARATUS
+    entry's `**En.**` half**, for the case where the word being noted occurs only there and has no
+    site in `## English` at all (first site: `bon-eccl-c1-v12-15` p. 18 n. 1, *nec vacare ad hoc
+    potest*, inside a quotation of the Vatican edition's addition). `polish-style-scan.py` and
+    `check-vol5-apparatus.py` both now accept an apparatus-region anchor **for `tr-` labels only**;
+    Quaracchi's numbered entries still require an anchor in both bodies. The renderer needed no
+    change — `renderInline` already runs over an entry's `en` half, so the marker resolves to the
+    Translator's Notes block. ⛔ **Before the extension the note could not be written at all**: `tr-`
+    was exempt from the Latin anchor requirement but not from the English one, and `## Apparatus` is
+    outside the English region — **a gap in the mechanism, not a builder's lapse.**
   - Def in `## Apparatus`, after Quaracchi's entries: `[^tr-vacare]: **En.** Translator's note: …`
     — no `**La.**` half. Say what the Latin holds together and which side the English took.
   - The reader shows it as italic **"tr."** in a separate **Translator's Notes** block beneath the
     Apparatus Criticus (`text-reader.tsx` `isTranslatorNote`). `check-vol5-apparatus.py` excludes
     `tr-` from entry counts, KNOWN_TOTALS and page ownership, requires English-only pairing, and
-    FAILS a `tr-` anchor in the Latin; `polish-style-scan.py` likewise. `build-citations.py` reads
-    only `**La.**` halves, so notes never enter the index. Tested positive and negative 2026-09-15.
+    FAILS a `tr-` anchor in the Latin; `polish-style-scan.py` likewise. ⛔⛔ **"`build-citations.py` reads
+    only `**La.**` halves, so notes never enter the index" WAS WRONG AND IS CORRECTED 2026-09-20** (Vol VI
+    Cap. I shakedown gate). A `tr-` note that NAMES a scripture reference in its English prose is parsed like
+    any apparatus text: `bon-serm-s3`'s `tr-lumen` contributes **three** ledger records (Ps 106, Ps 37, Ps 4)
+    and `bon-serm-tract`'s one (Rom 13) — all pre-existing, all confidence C at chapter level, all in
+    DEPLOYED Vol V. The records are correct about what the note says; what nobody decided is that **our own
+    editorial voice is indexed alongside Quaracchi's.** Carried to the Vol VI work-close gate (p. 103) as a
+    corpus-wide question. ⭐ The general lesson: **a claim that a tool "never" does something is a claim about
+    a denominator, and this one was never measured.** Tested positive and negative 2026-09-15.
   - **Where:** at the first occurrence per chunk, and wherever the sense leans to the other side.
   - ✅ **THE MODEL NOTE, APPROVED BY WILSON 2026-09-16** (`bon-qpe-q2-a2` p. 137, on *qui divinis
     vacant* → "who are free for divine things"). Follow its shape: what the Latin holds together ·

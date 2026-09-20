@@ -137,7 +137,7 @@ II. Likewise it is asked concerning that which he says: *The eye is not filled w
 
 I respond: it must be said that he mentions these two senses alone for this reason, that he is speaking of the senses according as they are a way into knowledge and are referred to sensual pleasantness. And there is a twofold word by which we recognize all things: namely the *divine* word and the *human* word. The *divine* word is every creature, because it speaks God; this word the eye perceives. The *human* word is the voice uttered, and this the ear perceives[^p16-7]. — Or because knowledge is twofold: by
 <!-- page 17 -->
-*finding out* and by *teaching*; for the first looks to sight, but the second looks to hearing.
+*finding out* and by *teaching*[^tr-doctrina]; for the first looks to sight, but the second looks to hearing.
 
 1. 2. As to what is objected concerning satiety; I say that he is speaking of the satiety of these senses according as they are organs of the heart and of the will or appetite; and because the heart is not filled, neither are these two senses. Whence Hugh[^p17-1]: « All the beauty, all the pleasantness, all the sweetness of created things can affect the human heart, but cannot satisfy it save that sweetness alone for which it was made ».
 
@@ -238,6 +238,8 @@ I respond: to this some say that that is understood of evil things, not of good.
      **En.** Ps. 76:12.
 
 [^tr-vacare]: **En.** Translator's note: the Latin *vacare* holds together senses that English has to split — being at leisure, being free, being free *for* something and being free *from* something. Here Quaracchi prints *ad nihil aliud vacabant*, with *ad* and the accusative, so the English takes the side of being free *for*: the point of the verse is what the Athenians gave themselves to, not what they were released from. (The Douay renders it "employed themselves in nothing else".) No *vaca-* word is rendered "rest" in this translation, because *quies* and *requies* take that word — and *quies* itself stands a page later, in the third argument of this chunk's second question.
+
+[^tr-doctrina]: **En.** Translator's note: the Latin *doctrina* holds together what English divides among doctrine, teaching and learning. Here it is one of the two ways cognition comes about — *per inventionem et doctrinam*, by finding a thing out for oneself and by being taught it — and it is set against sight as what answers to hearing, so the English takes the act, "teaching". Elsewhere this translation renders the same word "doctrine" where it stands in the pair *scientia et doctrina*, and "learning" where it names what a learner acquires.
 
 ---
 

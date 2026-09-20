@@ -3055,9 +3055,18 @@ def main():
         # not Quaracchi's: anchored in the ENGLISH ONLY, never in the Latin, never
         # counted as apparatus entries and never owning a printed page's footer.
         is_tr = lambda l: l.startswith("tr-")
+        # A translator's note on a word that occurs ONLY inside an apparatus
+        # entry's **En.** half has nowhere in `## English` to stand. Ruled
+        # 2026-09-20 at the Vol VI Cap. I shakedown gate (first site:
+        # `bon-eccl-c1-v12-15` p. 18 n. 1, *nec vacare ad hoc potest*): an
+        # English-side anchor standing in an entry's **En.** half counts. Only
+        # `tr-` labels may do this; Quaracchi's numbered entries are unaffected.
+        app_anchor_lines = [l for l in app.splitlines()
+                            if not re.match(r"^\[\^([^\]]+)\]:", l)]
+        app_all = re.findall(r"\[\^([^\]]+)\]", "\n".join(app_anchor_lines))
         tr_defs = [d for d in all_defs if is_tr(d)]
         tr_la = [a for a in la_all if is_tr(a)]
-        tr_en = [a for a in en_all if is_tr(a)]
+        tr_en = [a for a in en_all if is_tr(a)] + [a for a in app_all if is_tr(a)]
         if tr_la:
             problems.append("%s: TRANSLATOR'S NOTE anchored in the LATIN %s"
                             % (name, sorted(set(tr_la))))

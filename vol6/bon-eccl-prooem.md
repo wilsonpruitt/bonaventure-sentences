@@ -213,7 +213,7 @@ and Boethius, that all things desire the good, and also the Philosopher: therefo
 
 4. Moreover, if the vain is found, this science too is founded upon it as upon its subject; and what is founded upon the vain is vain: therefore this science is vain.
 
-**I respond:** for the understanding of the foregoing it can be said in one way thus, that *the vain* is spoken of in two ways: in one way *simply*, and so it takes away the true and the good, and such a thing is not in the universe. There is another way in which a thing is *vain* by *comparison with its initial term*, because it is from nothing; and in this way it is not repugnant to the good, but rather one and the same thing is good and vain: *good*, because from good and to good; *vain*, because from nothing and, left to itself, tending to nothing; and such vanity has goodness under science, and therefore of such a thing there can be science and doctrine. — And by this an answer can be given to all the objections, because they proceed as though they were about the vain taken simply.
+**I respond:** for the understanding of the foregoing it can be said in one way thus, that *the vain* is spoken of in two ways: in one way *simply*, and so it takes away the true and the good, and such a thing is not in the universe. There is another way in which a thing is *vain* by *comparison with its initial term*, because it is from nothing; and in this way it is not repugnant to the good, but rather one and the same thing is good and vain: *good*, because from good and to good; *vain*, because from nothing and, left to itself, tending to nothing; and such vanity has goodness under science, and therefore of such a thing there can be science and doctrine[^tr-doctrina]. — And by this an answer can be given to all the objections, because they proceed as though they were about the vain taken simply.
 
 But this solution does not solve, because Ecclesiastes does not treat of things according as they are from nothing, but rather according as they are desired by men; and moreover he treats of the vanity of *fault*, which is a privation: therefore it must be said otherwise.
 
@@ -482,6 +482,8 @@ Another answer can be given: that the Holy Spirit speaks true and good things no
 [^p8-8]: **La.** Vers. 5. seqq.
 
      **En.** V. 5 ff.
+
+[^tr-doctrina]: **En.** Translator's note: the Latin *doctrina* holds together what English divides among doctrine, teaching and learning — the body of what is taught, the act of teaching it, and what a learner takes away. Here it stands in the fixed pair *scientia et doctrina*, the settled terms in which a scholastic asks whether a thing can be an object of study at all, so the English keeps the received "science and doctrine" and the pair is not broken up. Where this translation renders the same word "teaching" or "learning", it is because the Latin there names the act or the thing learned rather than this pair.
 
 ---
 

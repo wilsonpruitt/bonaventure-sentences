@@ -103,3 +103,38 @@ Evidence (measured 2026-09-19): Quaracchi cites the work by chapter+verse (`Comm
 6. **Cadence:** shakedown gate after Cap. I (p. 19), work-close gate at p. 103. ~~Deploy at each, each a separate OK.~~ ⭐⭐ **AMENDED BY WILSON 2026-09-20: BOTH GATES STILL RUN, BUT THERE IS ONLY ONE DEPLOY AND IT IS AT THE END OF ECCLESIASTES (p. 103).** The shakedown gate is a QUALITY gate and fires as ruled; it simply no longer carries a deploy with it. ▶ **Do not surface a deploy at p. 19** — the two cadences are separate (repo CLAUDE.md § DEPLOY CADENCE: *a polish gate and a deploy boundary coincide at a work boundary and nowhere else*), and here they have been deliberately decoupled. The deploy at p. 103 is still Wilson's own per-action hard stop, and it carries the **deploy-only batch** with it — see the resume note's carry-list.
 8. **Work order after Eccl.:** Sap → Ioan → Collationes (Sap a confirmation pilot; Coll a full pilot).
 7. *(pilot chunk — awaiting answer)*
+
+---
+
+# CAPITULUM I SHAKEDOWN GATE — RULINGS 9–14 (Wilson, 2026-09-20)
+
+**Run over pp. 3–20, seven chunks, 156 entries. Full log + evidence: `manual-review/vol6-cap1-shakedown-gate.md`
+and `manual-review/vol6-cap1-shakedown-evidence.md`.** Procedure as at the `perfectione` and `serm` gates: a
+read-only agent compiled the evidence sheet first; Wilson ruled all six items in one sitting without opening a
+chunk. ⛔ **No deploy, per ruling 6 as amended.** ⭐ **ZERO text lines changed by the gate** — rulings 9, 10, 12
+and 14 changed nothing by design, and 11 and 13 added notes beside text that was already right.
+
+9. **THE ITALIC CONVENTION: p. 11 STANDS AS PRINTED; the exception is RECORDED, not repaired.** The inversion
+   stated at p. 9 n. 4 holds in the *expositio* on every leaf but p. 11 and does not reach the Prooemium or the
+   Quaestiones. Normalising was refused — Quaracchi is never silently emended, and five builders have found no
+   discriminator. ⛔ The "self-quotation" hypothesis is **dead**, measured: p. 16 sets Ecclesiastes quoting
+   itself roman-in-guillemets. To the p. 103 gate, with an exact expositio count for pp. 10/12/13 owed there.
+10. ***magister* RATIFIED at n = 3** (two of the ruling + Lombard → "the Master", an exception fixed by its own
+    object). Off the docket. ⚠ ***doctor* is NOT zero in Vol VI** — one Latin site, `prooem` p. 5 n. 6,
+    untranslated in the **En.** half. The zero was true of the English only.
+11. ***doctrina* CONTEXTUAL under the dikaisune rule, with `tr-doctrina` notes.** Ten Latin sites in four chunks
+    taking three English words; all three renderings stand. **Four notes written, one per chunk carrying the
+    word**, because notes do not reach across chunks on the site — the same argument that decided ruling 13.
+12. **HEADING FLATTENING KEPT. Level tracks FUNCTION and is uncorrelated with class and size**, settled by the
+    p. 10 pair (one leaf, one column, one class, one size, three lines apart, different levels). ⚠ The docket's
+    premise was wrong: classes 1 and 2 each take both levels; only class 3 is uniform. Revisit depth at p. 103.
+13. **THE `tr-` MECHANISM EXTENDED: an English-side anchor inside `## Apparatus` satisfies the pairing, for
+    `tr-` labels only.** Applied in `polish-style-scan.py`, `check-vol5-apparatus.py` and
+    `vol6/bon-eccl-c1-v12-15.md`; tested positive and negative; renderer needed no change.
+14. **THE RESOLVER DOCKET RECORDED, NOT SCHEDULED.** Five artefacts confirmed live off the ledger; 2a and 2b are
+    one missing rule (*an apparatus note's `ibid.` takes its antecedent from WITHIN the note*) and 2b is the only
+    one filed confidence A on a wrong target. Its own scoped job with its own before/after diff, unscheduled.
+
+⚠⚠ **A FROZEN CLAIM IN THE REPO CLAUDE.md WAS FALSE AND IS CORRECTED:** translator's notes DO enter the citation
+ledger when their English prose names a scripture reference (four such records already stand in deployed Vol V).
+Corpus-wide; carried to p. 103.

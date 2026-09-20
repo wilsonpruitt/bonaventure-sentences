@@ -135,7 +135,7 @@ I respond: the reason is taken both on the part of the *evil work*, because « g
 
 [^p18-1]: **La.** Vers. 15. — Sequitur I. Paral. 22, 9, ubi Vulgata *vir quietissimus* pro *pacificus.* — Inferius post *retrahebat* Vat. addit: Solet defectus talium multos retrahere a consideratione rerum; non enim aptus est ad considerandum rerum naturas, qui habet harum ignorantiam; non potest etiam bene cogitare de huiusmodi, qui sustinet paupertatis inopiam, nec vacare etiam ad hoc potest qui non habet pacem et concordiam.
 
-     **En.** V. 15. — There follows I Par. 22:9, where the Vulgate has *vir quietissimus* for *pacificus.* — Below, after *retrahebat*, the Vatican edition adds: The defect of such things is wont to draw many back from the consideration of things; for he is not fit to consider the natures of things who has ignorance of them; nor can he think well about such matters who endures the want of poverty, nor can he even be free for this who has not peace and concord.
+     **En.** V. 15. — There follows I Par. 22:9, where the Vulgate has *vir quietissimus* for *pacificus.* — Below, after *retrahebat*, the Vatican edition adds: The defect of such things is wont to draw many back from the consideration of things; for he is not fit to consider the natures of things who has ignorance of them; nor can he think well about such matters who endures the want of poverty, nor can he even be free for this[^tr-vacare] who has not peace and concord.
 
 [^p18-2]: **La.** Vers. 3. — Sequitur Prov. 25, 16.
 
@@ -180,6 +180,8 @@ I respond: the reason is taken both on the part of the *evil work*, because « g
 [^p19-3]: **La.** Secundum Aristot., I. Magnor. Moral. c. 22. (c. 25.); VII. Moral. Eudem. c. 6. (c. 5.) et II. Ethic. c. 6. (cfr. tom. II. pag. 655, nota 3.). Idem, Praedicam. c. de Oppositis, ait: Ex habitu enim in privationem mutatio fit, a privatione vero in habitum impossibile est. — Inferius post *redire* F supplet *a privatione in habitum.*
 
      **En.** According to Aristotle, *Magna Moralia* I c. 22 (c. 25); *Eudemian Ethics* VII c. 6 (c. 5) and *Ethics* II c. 6 (compare tom. II p. 655, note 3). The same, in the *Categories*, the chapter *On Opposites*, says: For a change takes place from a habit into a privation, but from a privation into a habit it is impossible. — Below, after *redire*, F supplies *a privatione in habitum.*
+
+[^tr-vacare]: **En.** Translator's note: the Latin *vacare* holds together several senses that English has to split: being at leisure, being free, being free *for* something and being free *from* something (with *ab*). Here it governs *ad* with the accusative (*vacare ad hoc*), so the English takes the side of being free *for*: the Vatican edition's addition is about what a man who lacks peace and concord cannot give himself to, not about what he is released from. No *vaca-* word is rendered "rest" in this translation, because *quies* and *requies* take that word.
 
 ---
 

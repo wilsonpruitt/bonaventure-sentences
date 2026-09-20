@@ -88,7 +88,7 @@ I respond: it must be said that there is one manner of speaking that is *proper*
 
 III. The question is why in the title of Proverbs he calls himself by his own name, while here he calls himself *Ecclesiastes*?
 
-I respond: it must be said that, as Jerome says[^p10-3], Solomon was three-named, which indeed belongs to him according to the threefold writing which he published. For he was called *Salomon*, called *Ecclesiastes*, and *Idida*. *Salomon*, the peaceable, because he possessed the whole kingdom in peace; whence also he handed on to all the teaching of parables. *Ecclesiastes*, the preacher, because he speaks in the persons of divers men. *Idida* is the same as *beloved of the Lord*. — Therefore, then, he calls himself *Ecclesiastes*, because in this book he brings forward the opinions of divers men and according to this persuades in divers ways. He is called *Idida* in the title of the Psalm[^p10-4] *Eructavit*, which is about him literally.
+I respond: it must be said that, as Jerome says[^p10-3], Solomon was three-named, which indeed belongs to him according to the threefold writing which he published. For he was called *Salomon*, called *Ecclesiastes*, and *Idida*. *Salomon*, the peaceable, because he possessed the whole kingdom in peace; whence also he handed on to all the teaching[^tr-doctrina] of parables. *Ecclesiastes*, the preacher, because he speaks in the persons of divers men. *Idida* is the same as *beloved of the Lord*. — Therefore, then, he calls himself *Ecclesiastes*, because in this book he brings forward the opinions of divers men and according to this persuades in divers ways. He is called *Idida* in the title of the Psalm[^p10-4] *Eructavit*, which is about him literally.
 
 IV. Likewise it is asked why here he calls himself *the son of David* and *king of Jerusalem*, but in Proverbs calls himself *king of Israel*?
 
@@ -149,6 +149,8 @@ From these things it appears why he said *words*, why he said *Ecclesiastes*, wh
 [^p10-7]: **La.** Prov. 1, 2. seqq.: Ad sciendam sapientiam etc.
 
      **En.** Prov. 1:2 ff.: *To know wisdom* etc.
+
+[^tr-doctrina]: **En.** Translator's note: the Latin *doctrina* holds together what English divides among doctrine, teaching and learning. Here Solomon *doctrinam parabolarum tradidit* — he handed it on to all — so the word names the act of teaching and its matter rather than a body of doctrine, and the English takes "teaching". The same word is rendered "doctrine" where it stands in the pair *scientia et doctrina*, and "learning" where it names what a learner acquires.
 
 ---
 
