@@ -2954,6 +2954,10 @@ KNOWN_TOTALS_VOL6 = {
     13: 10,
     14: 9,
     15: 6,   # nn.1-4 Vers. 2-7 (Quaestio V), nn.5-6 the pericope Vers. 8-11
+    16: 7,   # all Vers. 8-11; block split 5/2 (nn.1-5 left, nn.6-7 right)
+             # against an anchor split 4/3. n.7 runs over onto p.17's foot.
+    17: 11,  # nn.1-8 Vers. 8-11, nn.9-11 the pericope Vers. 12-15, whose
+             # ART. 2 heading stands mid-right-column on the same leaf.
 }
 
 KNOWN_TOTALS_BY_VOL = {

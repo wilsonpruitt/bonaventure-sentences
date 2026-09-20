@@ -23830,6 +23830,26 @@ bon-eccl-c1-v2-7	6	apparatus:p14-7	p14-7	crossref	chain-continuation	d. 48. a. 2
 bon-eccl-c1-v2-7	6	apparatus:p14-8	p14-8	scripture	apparatus-explicit	Ps. 109	Ps 109	C	chapter		
 bon-eccl-c1-v2-7	6	apparatus:p14-8	p14-8	scripture	apparatus-explicit	Ps. 101, 13	Ps 101:13	A	verse		
 bon-eccl-c1-v2-7	6	apparatus:p14-8	p14-8	crossref	logical	IV. Sent. d. 3. p. II. a. 3. q. 1.	bon-sent-IV-d3-p2-a3-q1		chunk		
+bon-eccl-c1-v8-11	6	latin_body	p15-5	scripture	body-ordinal	Sapientiae nono	Sap 9:16	B	verse		
+bon-eccl-c1-v8-11	6	latin_body		scripture	body-ordinal	Iob trigesimo octavo	Iob 38	C	chapter		
+bon-eccl-c1-v8-11	6	latin_body		scripture	body-ordinal	Ecclesiastici quadragesimo tertio	Eccli 43	C	chapter		
+bon-eccl-c1-v8-11	6	latin_body	p15-6	scripture	body-ordinal	Proverbiorum vigesimo septimo	Prov 27:20	B	verse		
+bon-eccl-c1-v8-11	6	latin_body		scripture	body-ordinal	ad Timotheum quarto	Tim* 4	C	chapter		
+bon-eccl-c1-v8-11	6	latin_body		scripture	body-ordinal	ad Corinthios secundo	Cor* 2	C	chapter		
+bon-eccl-c1-v8-11	6	latin_body	p16-1	scripture	body-ordinal	Actuum decimo septimo	Act 17:21	B	verse		
+bon-eccl-c1-v8-11	6	latin_body	p16-2	scripture	body-ordinal	Petri tertio	Petr* 3:4	B	verse		
+bon-eccl-c1-v8-11	6	latin_body	p16-3	scripture	body-ordinal	Sapientiae secundo	Sap 2:4	B	verse		
+bon-eccl-c1-v8-11	6	latin_body	p17-3	scripture	body-ordinal	Ieremiae trigesimo primo	Ierem 31:22	B	verse		
+bon-eccl-c1-v8-11	6	latin_body	p17-4	scripture	body-ordinal	Apocalypsis vigesimo primo	Apoc 21:1	B	verse		
+bon-eccl-c1-v8-11	6	apparatus:p15-5	p15-5	scripture	apparatus-explicit	Eccle. 8, 17	Eccle 8:17	A	verse		
+bon-eccl-c1-v8-11	6	apparatus:p15-5	p15-5	scripture	apparatus-explicit	Iob 38, 37	Iob 38:37	A	verse		
+bon-eccl-c1-v8-11	6	apparatus:p15-5	p15-5	scripture	apparatus-explicit	Eccli. 43, 29	Eccli 43:29	A	verse		
+bon-eccl-c1-v8-11	6	apparatus:p15-6	p15-6	scripture	apparatus-explicit	II. Tim. 4, 3	2Tim 4:3	A	verse		
+bon-eccl-c1-v8-11	6	apparatus:p15-6	p15-6	scripture	apparatus-explicit	I. Cor. 2, 9	1Cor 2:9	A	verse		
+bon-eccl-c1-v8-11	6	apparatus:p16-3	p16-3	scripture	apparatus-explicit	Eccle. 2, 16	Eccle 2:16	A	verse		
+bon-eccl-c1-v8-11	6	apparatus:p17-5	p17-5	crossref	page	tom. III. pag. 39	bon-sent-III-d2-a1-q1+bon-sent-III-d2-a1-q2		page-multi		
+bon-eccl-c1-v8-11	6	apparatus:p17-7	p17-7	crossref	logical	II. Sent. d. 15. a. 2. q. 3.	bon-sent-II-d15-a2-q3		chunk		
+bon-eccl-c1-v8-11	6	apparatus:p17-8	p17-8	scripture	apparatus-explicit	Psalm. 76, 12	Ps 76:12	A	verse		
 bon-eccl-prooem	6	latin_body	p3-2	scripture	body-ordinal	ad Corinthios quarto	Cor* 4:18	B	verse		
 bon-eccl-prooem	6	latin_body		scripture	body-ordinal	Matthaei sexto	Matth 6	C	chapter		
 bon-eccl-prooem	6	latin_body	p3-5	scripture	body-ordinal	ad Timotheum sexto	Tim* 6:14	B	verse		
