@@ -46,7 +46,7 @@ const SITE_DIR = path.resolve(__dirname, "..");
 const REPO_ROOT = path.resolve(SITE_DIR, "..");
 const OUT_FILE = path.join(SITE_DIR, "src", "data", "progress.json");
 
-const VOL_DIRS = ["vol1", "vol2", "vol3", "vol4", "vol5"];
+const VOL_DIRS = ["vol1", "vol2", "vol3", "vol4", "vol5", "vol6"];
 
 // ---------------------------------------------------------------------------
 // Vol V work map. Page ranges are Quaracchi's own, read off the volume index
@@ -82,7 +82,10 @@ const VOL5_WORKS = [
     // p. 581. Corroborated by the item's own _page_numbers.json (leaf 657 =
     // "579"). The tilde is gone.
     last: 579,
-    complete: false,
+    // Work-close gate run and closed 2026-09-19, pushed and deployed the same
+    // day; this closed Volume V. `complete` is a fact about the gate, which no
+    // page count can see, so it is set by hand when the gate closes.
+    complete: true,
   },
 ];
 
@@ -250,7 +253,11 @@ for (const dir of VOL_DIRS) {
 
     const work = field(front, "work");
     if (work) {
-      if (!VOL5_WORKS.some((w) => w.slug === work)) unknownWorkSlugs.add(work);
+      // The map this checks against is Vol V's, so the check is Vol V's too.
+      // Before vol6 existed the test was volume-blind and happened to be right;
+      // the first Vol VI chunk made it fire on a slug it was never about. A
+      // later volume that grows a per-work denominator gets its own guard here.
+      if (vol === 5 && !VOL5_WORKS.some((w) => w.slug === work)) unknownWorkSlugs.add(work);
       if (!workPages.has(work)) workPages.set(work, new Set());
       for (const p of pages) workPages.get(work).add(p);
     }

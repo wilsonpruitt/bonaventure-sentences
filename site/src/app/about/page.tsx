@@ -32,11 +32,12 @@ export default function AboutPage() {
         </p>
         <p style={{ marginBottom: "1.25rem" }}>
           All four books of the <em>Commentary on the Sentences of Peter Lombard</em> — Volumes I
-          through IV — are complete and published here. Work is now under way on Volume V, the
-          opuscula, beginning with the <em>Breviloquium</em>; the intention is to finish all ten
-          volumes, through the <em>Itinerarium mentis in Deum</em>, the{" "}
-          <em>Collationes in Hexaemeron</em>, the disputed questions, and the sermons. No complete
-          English edition of the Opera Omnia has ever been published.
+          through IV — are complete and published here, and so is Volume V, the opuscula: the{" "}
+          <em>Breviloquium</em>, the <em>Itinerarium mentis in Deum</em>, the{" "}
+          <em>Collationes in Hexaemeron</em>, the disputed questions and the sermons. Work is now
+          under way on Volume VI, the scriptural commentaries, beginning with the commentary on
+          Ecclesiastes; the intention is to finish all ten volumes. No complete English edition of
+          the Opera Omnia has ever been published.
         </p>
 
         <FleuronDivider />

@@ -79,6 +79,8 @@ export default function ProgressPage() {
   const volumes = all.filter((v) => v.counted !== false);
   const uncounted = all.filter((v) => v.counted === false);
   const volV = volumes.find((v) => v.n === 5)!;
+  // Vol VI is counted only once a chunk of it carries printed_pages; until then it is undefined.
+  const volVI = volumes.find((v) => v.n === 6);
   const anyEstimated = volumes.some((v) => v.basis === "estimated");
 
   return (
@@ -141,14 +143,22 @@ export default function ProgressPage() {
         The Quaracchi <em>Opera Omnia</em>&thinsp; (Vols. I&ndash;X, 1882&ndash;1902) is the
         critical edition of everything Bonaventure wrote.{" "}
         <strong>{n(progress.pagesTranslated)} of its printed pages are translated here</strong> —
-        every page of the commentary on all four books of the <em>Sentences</em>, and{" "}
-        {n(volV.done)} of the {n(volV.total)} pages of Volume V, the <em>Opuscula</em>.
+        every page of the commentary on all four books of the <em>Sentences</em>, every one of the{" "}
+        {n(volV.total)} pages of Volume V, the <em>Opuscula</em>
+        {volVI ? (
+          <>
+            , and the first {n(volVI.done)} of the {n(volVI.total)} pages of Volume VI, the
+            scriptural commentaries
+          </>
+        ) : null}
+        .
       </p>
       <p className="body-text" style={{ marginTop: "1.25rem" }}>
         That is {progress.pctOfMeasured}% of the {n(progress.measuredTotal)} pages this project
         counts as text to translate &mdash; and every one of those pages is{" "}
         <em>measured</em>, not estimated. Volumes I through V are measured from the corpus
-        itself, page by page. Volumes VI through IX have not been set in type here at all, but
+        itself, page by page, as is what exists of Volume VI. The volumes still untranslated have
+        not been set in type here at all, but
         their extent is no longer a guess either: each was measured in September 2026 against
         the digitized Quaracchi volume, by finding the last leaf of its body text and reading
         the page number off the running head. What that replaced were round hundreds carried

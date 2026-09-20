@@ -75,11 +75,12 @@ export default function HomePage() {
           An English translation of the <em>Opera Omnia</em>&thinsp; of St. Bonaventure of Bagnoregio
           (1221&ndash;1274), the Seraphic Doctor, from the Quaracchi critical edition (1882&ndash;1902).
           The project will eventually present all ten volumes. Volumes I through IV &mdash; the whole{" "}
-          <em>Commentary on the Sentences of Peter Lombard</em> &mdash; are complete. Volume V, the{" "}
-          <em>Opuscula</em>, is under way: the <em>Breviloquium</em>, the{" "}
-          <em>Itinerarium mentis in Deum</em> and the <em>De reductione artium ad theologiam</em> are
-          complete, the <em>Collationes in Hexaemeron</em> are being published collation by
-          collation, and the sermons will follow.
+          <em>Commentary on the Sentences of Peter Lombard</em> &mdash; are complete. Volume V is now
+          complete as well: all ten of the <em>Opuscula</em>, among them the <em>Breviloquium</em>, the{" "}
+          <em>Itinerarium mentis in Deum</em>, the <em>De reductione artium ad theologiam</em>, the
+          three <em>Disputed Questions</em>, the <em>Collationes in Hexaemeron</em> and the selected
+          sermons. Volume VI &mdash; the scriptural commentaries on Ecclesiastes, Wisdom and John
+          &mdash; is in preparation, and is being published as each part of it is finished.
         </p>
       </div>
 
