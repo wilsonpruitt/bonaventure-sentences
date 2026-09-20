@@ -23922,9 +23922,69 @@ bon-eccl-c2-v1-3	6	apparatus:p20-8	p20-8	scripture	apparatus-explicit	I. Tim. 4,
 bon-eccl-c2-v1-3	6	apparatus:p21-1	p21-1	scripture	apparatus-explicit	Eccli. 20, 32	Eccli 20:32	A	verse		
 bon-eccl-c2-v1-3	6	apparatus:p21-1	p21-1	scripture	apparatus-explicit	Luc. 14, 34	Luc 14:34	A	verse		
 bon-eccl-c2-v1-3	6	apparatus:p21-1	p21-1	scripture	apparatus-explicit	II. Tim. 2, 14	2Tim 2:14	A	verse		
-bon-eccl-c2-v1-3	6	apparatus:p21-4	p21-4	crossref	page	pag. 23	tom6:p23		forward		
+bon-eccl-c2-v1-3	6	apparatus:p21-4	p21-4	crossref	page	pag. 23	bon-eccl-c2-v4-10		chunk		
 bon-eccl-c2-v1-3	6	apparatus:tr-doctrina	tr-doctrina	scripture	apparatus-explicit	II Tim. 3	2Tim 3	C	chapter		
 bon-eccl-c2-v1-3	6	apparatus:tr-doctrina	tr-doctrina	scripture	apparatus-explicit	Prov. 8	Prov 8	C	chapter		
+bon-eccl-c2-v4-10	6	latin_body	p21-5	scripture	body-ordinal	Regum decimo	Reg* 10:23	B	verse		
+bon-eccl-c2-v4-10	6	latin_body		scripture	body-ordinal	Regum nono	Reg* 9	C	chapter		
+bon-eccl-c2-v4-10	6	latin_body	p21-6	scripture	body-ordinal	Isaiae quinto	Isai 5:8	B	verse		
+bon-eccl-c2-v4-10	6	latin_body		scripture	body-ordinal	Genesis nono	Gen 9	C	chapter		
+bon-eccl-c2-v4-10	6	latin_body	p21-7	scripture	body-ordinal	Iob duodecimo	Iob 12:15	B	verse		
+bon-eccl-c2-v4-10	6	latin_body		scripture	body-ordinal	Deuteronomii undecimo	Deut 11	C	chapter		
+bon-eccl-c2-v4-10	6	latin_body	p21-8	scripture	body-ordinal	Regum decimo	Reg* 10:4	B	verse		
+bon-eccl-c2-v4-10	6	latin_body	p21-9	scripture	body-ordinal	Regum quarto	Reg* 4:22	B	verse		
+bon-eccl-c2-v4-10	6	latin_body	p22-1	scripture	body-ordinal	Regum decimo	Reg* 10:25	B	verse		
+bon-eccl-c2-v4-10	6	latin_body	p22-3	scripture	body-ordinal	Proverbiorum vigesimo quarto	Prov 24:15	B	verse		
+bon-eccl-c2-v4-10	6	latin_body		scripture	body-ordinal	Ecclesiastici vigesimo primo	Eccli 21	C	chapter		
+bon-eccl-c2-v4-10	6	latin_body	p22-4	scripture	body-ordinal	Iudicum nono	Iudic 9:13	B	verse		
+bon-eccl-c2-v4-10	6	latin_body		scripture	body-ordinal	Numerorum vigesimo quarto	Num 24	C	chapter		
+bon-eccl-c2-v4-10	6	latin_body		scripture	body-ordinal	Iob nono	Iob 9	C	chapter		
+bon-eccl-c2-v4-10	6	latin_body		scripture	body-ordinal	ad Corinthios secundo	Cor* 2	C	chapter		
+bon-eccl-c2-v4-10	6	latin_body		scripture	body-ordinal	Ieremiae nono	Ierem 9	C	chapter		
+bon-eccl-c2-v4-10	6	latin_body	p22-5	scripture	body-ordinal	Lucae decimo septimo	Luc 17:10	B	verse		
+bon-eccl-c2-v4-10	6	latin_body		scripture	body-ordinal	Iob primo	Iob 1	C	chapter		
+bon-eccl-c2-v4-10	6	latin_body		scripture	body-ordinal	Ecclesiastici septimo	Eccli 7	C	chapter		
+bon-eccl-c2-v4-10	6	latin_body		scripture	body-ordinal	Matthaei decimo	Matth 10	C	chapter		
+bon-eccl-c2-v4-10	6	latin_body		scripture	body-ordinal	Petri secundo	Petr* 2	C	chapter		
+bon-eccl-c2-v4-10	6	latin_body		scripture	body-ordinal	Danielis secundo	Dan 2	C	chapter		
+bon-eccl-c2-v4-10	6	latin_body		scripture	body-ordinal	Ecclesiastici sexto	Eccli 6	C	chapter		
+bon-eccl-c2-v4-10	6	latin_body		scripture	body-ordinal	Ecclesiastici decimo tertio	Eccli 13	C	chapter		
+bon-eccl-c2-v4-10	6	latin_body	p22-8	scripture	body-ordinal	Amos sexto	Amos 6:1	B	verse		
+bon-eccl-c2-v4-10	6	latin_body	p22-9	scripture	body-ordinal	Regum tertio	Reg* 3:13	B	verse		
+bon-eccl-c2-v4-10	6	latin_body		scripture	body-ordinal	Regum quarto	Reg* 4	C	chapter		
+bon-eccl-c2-v4-10	6	latin_body	p23-2	scripture	body-ordinal	Threnorum tertio	Thren 3:51	B	verse		
+bon-eccl-c2-v4-10	6	latin_body		scripture	body-ordinal	Ecclesiastici decimo octavo	Eccli 18	C	chapter		
+bon-eccl-c2-v4-10	6	latin_body	p23-7	scripture	body-ordinal	Ecclesiastici sexto	Eccli 6:23	B	verse		
+bon-eccl-c2-v4-10	6	apparatus:p21-5	p21-5	scripture	anaphor->body-ordinal	ibid.	Eccli 6:23	B	verse	yes	Ecclesiastici sexto
+bon-eccl-c2-v4-10	6	apparatus:p21-6	p21-6	scripture	apparatus-explicit	Gen. 9, 20	Gen 9:20	A	verse		
+bon-eccl-c2-v4-10	6	apparatus:p21-6	p21-6	scripture	apparatus-explicit	Cantic. 6, 10	Cant 6:10	A	verse		
+bon-eccl-c2-v4-10	6	apparatus:p21-7	p21-7	scripture	apparatus-explicit	Deut. 11, 10	Deut 11:10	A	verse		
+bon-eccl-c2-v4-10	6	apparatus:p22-2	p22-2	scripture	apparatus-explicit	Psalm. 103, 24	Ps 103:24	A	verse		
+bon-eccl-c2-v4-10	6	apparatus:p22-3	p22-3	scripture	apparatus-explicit	Eccli. 21, 25	Eccli 21:25	A	verse		
+bon-eccl-c2-v4-10	6	apparatus:p22-4	p22-4	scripture	apparatus-explicit	Cantic. 4, 12	Cant 4:12	A	verse		
+bon-eccl-c2-v4-10	6	apparatus:p22-4	p22-4	scripture	apparatus-explicit	Num. 24, 5	Num 24:5	A	verse		
+bon-eccl-c2-v4-10	6	apparatus:p22-4	p22-4	scripture	apparatus-explicit	Iob 9, 26	Iob 9:26	A	verse		
+bon-eccl-c2-v4-10	6	apparatus:p22-4	p22-4	scripture	apparatus-explicit	II. Cor. 2, 15	2Cor 2:15	A	verse		
+bon-eccl-c2-v4-10	6	apparatus:p22-4	p22-4	scripture	apparatus-explicit	Cantic. 7, 4	Cant 7:4	A	verse		
+bon-eccl-c2-v4-10	6	apparatus:p22-4	p22-4	scripture	apparatus-explicit	Ier. 9, 1	Ierem 9:1	A	verse		
+bon-eccl-c2-v4-10	6	apparatus:p22-5	p22-5	scripture	apparatus-explicit	Iob 1, 14	Iob 1:14	A	verse		
+bon-eccl-c2-v4-10	6	apparatus:p22-5	p22-5	scripture	apparatus-explicit	Eccli. 7, 16	Eccli 7:16	A	verse		
+bon-eccl-c2-v4-10	6	apparatus:p22-5	p22-5	scripture	apparatus-explicit	Matth. 10, 16	Matth 10:16	A	verse		
+bon-eccl-c2-v4-10	6	apparatus:p22-5	p22-5	scripture	apparatus-explicit	I. Petr. 2, 2	1Petr 2:2	A	verse		
+bon-eccl-c2-v4-10	6	apparatus:p22-5	p22-5	scripture	apparatus-explicit	Dan. 2, 32	Dan 2:32	A	verse		
+bon-eccl-c2-v4-10	6	apparatus:p22-6	p22-6	scripture	apparatus-explicit	Psalm. 11, 7	Ps 11:7	A	verse		
+bon-eccl-c2-v4-10	6	apparatus:p22-6	p22-6	scripture	apparatus-explicit	Eccli. 6, 5	Eccli 6:5	A	verse		
+bon-eccl-c2-v4-10	6	apparatus:p22-6	p22-6	scripture	apparatus-explicit	Eccli. 13, 30	Eccli 13:30	A	verse		
+bon-eccl-c2-v4-10	6	apparatus:p22-8	p22-8	scripture	anaphor->apparatus-explicit	ibid.	Eccli 13:30	A	verse	yes	Eccli. 13, 30
+bon-eccl-c2-v4-10	6	apparatus:p23-1	p23-1	scripture	anaphor->apparatus-explicit	ibid.	Eccli 13:30	A	verse	yes	Eccli. 13, 30
+bon-eccl-c2-v4-10	6	apparatus:p23-2	p23-2	scripture	apparatus-explicit	Ier. 9, 21	Ierem 9:21	A	verse		
+bon-eccl-c2-v4-10	6	apparatus:p23-2	p23-2	scripture	apparatus-explicit	Eccli. 18, 30	Eccli 18:30	A	verse		
+bon-eccl-c2-v4-10	6	apparatus:p23-3	p23-3	scripture	apparatus-explicit	Psalm. 141, 6	Ps 141:6	A	verse		
+bon-eccl-c2-v4-10	6	apparatus:p23-3	p23-3	scripture	anaphor->apparatus-explicit	ibid.	Ps 141:6	A	verse	yes	Psalm. 141, 6
+bon-eccl-c2-v4-10	6	apparatus:p23-5	p23-5	scripture	apparatus-explicit	II. Reg. 5, 6	2Reg 5:6	A	verse		
+bon-eccl-c2-v4-10	6	apparatus:p23-8	p23-8	crossref	page	tom. III. pag. 773, nota 2	bon-sent-III-d35-a1-q1		chunk		
+bon-eccl-c2-v4-10	6	apparatus:p23-8	p23-8	crossref	anaphor->page	ibid.	bon-sent-III-d35-a1-q1		chunk	yes	tom. III. pag. 773, nota 2
+bon-eccl-c2-v4-10	6	apparatus:p24-1	p24-1	scripture	apparatus-explicit	II. Reg. 11, 15	2Reg 11:15	A	verse		
 bon-eccl-prooem	6	latin_body	p3-2	scripture	body-ordinal	ad Corinthios quarto	Cor* 4:18	B	verse		
 bon-eccl-prooem	6	latin_body		scripture	body-ordinal	Matthaei sexto	Matth 6	C	chapter		
 bon-eccl-prooem	6	latin_body	p3-5	scripture	body-ordinal	ad Timotheum sexto	Tim* 6:14	B	verse		

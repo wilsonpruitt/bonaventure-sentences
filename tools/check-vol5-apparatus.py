@@ -2975,6 +2975,21 @@ KNOWN_TOTALS_VOL6 = {
              # column. Block split 5/4 (nn.1-5 left, nn.6-9 right) against an
              # anchor split of 4/5: n.5 anchors in the RIGHT column and prints
              # left. No runover on the leaf, and both blocks open numbered.
+    22: 9,   # all Cap. II Vers. 4-10. Block split 5/4 (nn.1-5 left, nn.6-9
+             # right) against an anchor split of 9/0. n.5 runs over the
+             # gutter, so p.22's RIGHT block opens unnumbered and flush left;
+             # its LEFT block opens numbered, so nothing crosses from p.21.
+    23: 8,   # all Cap. II Vers. 4-10 (its four Quaestiones open mid-left-
+             # column on this leaf). Block split 5/3 (nn.1-5 left, nn.6-8
+             # right) against an anchor split of 8/0. n.5 runs over the
+             # gutter. Both the leaf's own opening and p.24's are numbered.
+    24: 7,   # n.1 Cap. II Vers. 4-10 (its Quaestio IV closes mid-left-column
+             # on this leaf); nn.2-7 the pericope Vers. 11-17, whose divisio
+             # heading stands immediately below that close, in the same
+             # column. Block split 3/4 (nn.1-3 left, nn.4-7 right) against an
+             # anchor split of 1/6: n.3 anchors in the RIGHT column and prints
+             # left. No runover on the leaf, and p.24's left block opens
+             # numbered, so nothing crosses from p.23's foot.
 }
 
 KNOWN_TOTALS_BY_VOL = {
