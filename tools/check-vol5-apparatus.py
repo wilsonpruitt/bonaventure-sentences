@@ -3037,6 +3037,19 @@ KNOWN_TOTALS_VOL6 = {
              # inset at x~700) - a setting economy for the leaf's two
              # shortest entries, NOT a second sub-column: nn.1, 4, 5 and 6
              # all run the block's full measure.
+    30: 7,   # all Cap. III Vers. 2-8; block split 3/4 (nn.1-3 left, nn.4-7
+             # right) and anchor split 3/4 AGREE.
+    31: 10,  # all Cap. III Vers. 2-8; block split 6/4 by NUMERAL (nn.1-6
+             # left, nn.7-10 right) and anchor split 6/4 AGREE - but n.6
+             # RUNS OVER THE GUTTER, so the right block opens unnumbered and
+             # flush left with the tail of n.6 (`esse plantationes, et
+             # vitulamina interpretati sunt...`).
+    32: 6,   # nn.1-5 Cap. III Vers. 2-8 (nn.1-3 anchor in the LEFT column's
+             # expositio, nn.4-5 in the RIGHT column's Quaestio); n.6 is the
+             # pericope Vers. 9-15's, answering `ad Romanos primo` in the
+             # (Vers. 9. 10. 11.) expositio below `ART. 2.` Block split 4/2
+             # against anchor split 5/1 - they DISAGREE, n.4 printing in the
+             # LEFT block while its anchor is in the RIGHT column.
 }
 
 KNOWN_TOTALS_BY_VOL = {
