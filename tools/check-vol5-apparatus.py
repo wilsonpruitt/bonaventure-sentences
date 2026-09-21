@@ -3018,6 +3018,25 @@ KNOWN_TOTALS_VOL6 = {
              # and flush left - that runover is Capitulum III's to log, not
              # ours. p.28's LEFT block opens numbered, which is the page-
              # crossing negative for p.27.
+             # RE-DERIVED at Cap. III Vers. 1, by anchor, with position and
+             # column for each of the seven: the ANCHOR split is 2/5 (nn.1-2
+             # in the left column, nn.3-7 in the right) against a BLOCK split
+             # of 5/2 - the two are exact mirrors, the sharpest disagreement
+             # the work has produced, after two consecutive leaf-boundaries
+             # (pp.26, 27) at which they agreed.
+    29: 10,  # nn.1-6 Cap. III Vers. 1 (its Quaestio I closes and its whole
+             # Quaestio II stands in the leaf's LEFT column); nn.7-10 the
+             # pericope Vers. 2-8, whose divisio heading stands MID-LEFT-
+             # COLUMN, so the leaf divides horizontally and not by column and
+             # the WHOLE RIGHT COLUMN is Vers. 2-8's. Block split 6/4 and
+             # anchor split 6/4 AGREE. No runover on the leaf: both blocks
+             # open numbered and indented (L `1 Cfr. II. Sent. d. 2. p. I.
+             # a. 1. et 2.`, R `7 Vers. 1. - Sequuntur Eccli. 40, 1...`), so
+             # nothing crosses the gutter and nothing crosses from p.28's
+             # foot. The LEFT block sets nn.2 and 3 TWO-UP on one line (n.3
+             # inset at x~700) - a setting economy for the leaf's two
+             # shortest entries, NOT a second sub-column: nn.1, 4, 5 and 6
+             # all run the block's full measure.
 }
 
 KNOWN_TOTALS_BY_VOL = {

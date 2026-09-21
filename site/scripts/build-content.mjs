@@ -474,6 +474,13 @@ const WORKS = {
     divisions: {
       0: "Prooemium",
       1: "Capitulum I",
+      // ⚠ 2 was never added when Capitulum II landed, so its four chunks have
+      // been rendering the arabic FALLBACK (`Capitulum 2`) beside division 1's
+      // roman. Both are supplied here; each display heading was read in place
+      // on the plate (`CAPITULUM II.` at bon-eccl-c2-v1-3 p. 20, `CAPITULUM
+      // III.` at bon-eccl-c3-v1 p. 28) and neither carries a subtitle.
+      2: "Capitulum II",
+      3: "Capitulum III",
     },
   },
 };
