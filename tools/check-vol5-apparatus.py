@@ -3050,6 +3050,13 @@ KNOWN_TOTALS_VOL6 = {
              # (Vers. 9. 10. 11.) expositio below `ART. 2.` Block split 4/2
              # against anchor split 5/1 - they DISAGREE, n.4 printing in the
              # LEFT block while its anchor is in the RIGHT column.
+    33: 5,   # all Cap. III Vers. 9-15: nn.1-3 anchor LEFT (n.3 the Glossa's,
+             # running over the gutter to open the RIGHT block unnumbered),
+             # nn.4-5 RIGHT (Art. 3's (Vers. 14. 15.) expositio). 3/2 both ways.
+    34: 11,  # nn.1-7 Cap. III Vers. 9-15's Quaestio (nn.1-6 anchor LEFT, n.7
+             # RIGHT at `e contrario`, printing LAST in the LEFT block and
+             # running over the gutter); nn.8-11 are Vers. 16-22's, anchored
+             # below the PARS II. heading in the RIGHT column.
 }
 
 KNOWN_TOTALS_BY_VOL = {
