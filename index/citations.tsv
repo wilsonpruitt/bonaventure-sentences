@@ -24203,6 +24203,32 @@ bon-eccl-c3-v2-8	6	apparatus:p32-3	p32-3	scripture	apparatus-explicit	Eccli. 7, 
 bon-eccl-c3-v2-8	6	apparatus:p32-3	p32-3	scripture	apparatus-explicit	Luc. 10, 6	Luc 10:6	A	verse		
 bon-eccl-c3-v2-8	6	apparatus:p32-5	p32-5	crossref	page	tom. IV. pag. 853, nota 6	bon-sent-IV-d40-a1-q3+bon-sent-IV-d40-dubia		page-multi		
 bon-eccl-c3-v2-8	6	apparatus:p32-5	p32-5	crossref	logical	I. Sent. d. 2. q. 4.	bon-sent-I-d2-a1-q4		chunk		
+bon-eccl-c3-v9-15	6	latin_body	p32-6	scripture	body-ordinal	ad Romanos primo	Rom 1:28	B	verse		
+bon-eccl-c3-v9-15	6	latin_body		scripture	body-ordinal	Ecclesiastici undecimo	Eccli 11	C	chapter		
+bon-eccl-c3-v9-15	6	latin_body		scripture	body-ordinal	Ecclesiastici trigesimo nono	Eccli 39	C	chapter		
+bon-eccl-c3-v9-15	6	latin_body	p33-1	scripture	body-ordinal	Ecclesiastici decimo septimo	Eccli 17:5	B	verse		
+bon-eccl-c3-v9-15	6	latin_body		scripture	body-ordinal	Iob trigesimo sexto	Iob 36	C	chapter		
+bon-eccl-c3-v9-15	6	latin_body	p33-2	scripture	body-ordinal	Sapientiae secundo	Sap 2:9	B	verse		
+bon-eccl-c3-v9-15	6	latin_body		scripture	body-ordinal	Lucae duodecimo	Luc 12	C	chapter		
+bon-eccl-c3-v9-15	6	latin_body		scripture	body-ordinal	Ecclesiastici trigesimo	Eccli 30	C	chapter		
+bon-eccl-c3-v9-15	6	latin_body		scripture	body-ordinal	ad Galatas sexto	Gal 6	C	chapter		
+bon-eccl-c3-v9-15	6	latin_body		scripture	body-ordinal	Proverbiorum nono	Prov 9	C	chapter		
+bon-eccl-c3-v9-15	6	latin_body		scripture	body-ordinal	ad Corinthios tertio	Cor* 3	C	chapter		
+bon-eccl-c3-v9-15	6	latin_body	p33-4	scripture	body-ordinal	Proverbiorum trigesimo	Prov 30:6	B	verse		
+bon-eccl-c3-v9-15	6	latin_body		scripture	body-ordinal	Genesis secundo	Gen 2	C	chapter		
+bon-eccl-c3-v9-15	6	latin_body	p34-2	scripture	body-ordinal	Genesis primo	Gen 1:31	B	verse		
+bon-eccl-c3-v9-15	6	apparatus:p32-6	p32-6	scripture	apparatus-explicit	Eccle. 2, 26	Eccle 2:26	A	verse		
+bon-eccl-c3-v9-15	6	apparatus:p32-6	p32-6	scripture	apparatus-explicit	Eccli. 11, 10	Eccli 11:10	A	verse		
+bon-eccl-c3-v9-15	6	apparatus:p33-1	p33-1	scripture	apparatus-explicit	Iob 36, 24	Iob 36:24	A	verse		
+bon-eccl-c3-v9-15	6	apparatus:p33-1	p33-1	scripture	apparatus-explicit	Eccle. 8, 17	Eccle 8:17	A	verse		
+bon-eccl-c3-v9-15	6	apparatus:p33-2	p33-2	scripture	apparatus-explicit	Luc. 12, 19	Luc 12:19	A	verse		
+bon-eccl-c3-v9-15	6	apparatus:p33-2	p33-2	scripture	apparatus-explicit	Eccle. 5, 18	Eccle 5:18	A	verse		
+bon-eccl-c3-v9-15	6	apparatus:p33-3	p33-3	scripture	apparatus-explicit	Eccli. 30, 23	Eccli 30:23	A	verse		
+bon-eccl-c3-v9-15	6	apparatus:p33-3	p33-3	scripture	apparatus-explicit	Gal. 6, 10	Gal 6:10	A	verse		
+bon-eccl-c3-v9-15	6	apparatus:p33-3	p33-3	scripture	apparatus-explicit	Prov. 9, 5	Prov 9:5	A	verse		
+bon-eccl-c3-v9-15	6	apparatus:p33-3	p33-3	scripture	apparatus-explicit	II. Cor. 3, 5	2Cor 3:5	A	verse		
+bon-eccl-c3-v9-15	6	apparatus:p33-5	p33-5	scripture	apparatus-explicit	Gen. 2, 2	Gen 2:2	A	verse		
+bon-eccl-c3-v9-15	6	apparatus:p34-7	p34-7	crossref	page	supra pag. 32, nota 4	bon-eccl-c3-v2-8+bon-eccl-c3-v9-15		page-multi		
 bon-eccl-prooem	6	latin_body	p3-2	scripture	body-ordinal	ad Corinthios quarto	Cor* 4:18	B	verse		
 bon-eccl-prooem	6	latin_body		scripture	body-ordinal	Matthaei sexto	Matth 6	C	chapter		
 bon-eccl-prooem	6	latin_body	p3-5	scripture	body-ordinal	ad Timotheum sexto	Tim* 6:14	B	verse		
