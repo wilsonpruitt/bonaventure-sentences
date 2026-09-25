@@ -3057,6 +3057,15 @@ KNOWN_TOTALS_VOL6 = {
              # RIGHT at `e contrario`, printing LAST in the LEFT block and
              # running over the gutter); nn.8-11 are Vers. 16-22's, anchored
              # below the PARS II. heading in the RIGHT column.
+    35: 7,   # all Cap. III Vers. 16-22: nn.1-3 anchor LEFT, nn.4-7 RIGHT; n.4
+             # prints LAST in the LEFT block and runs over the gutter to open
+             # the RIGHT block unnumbered and flush left (block 4/3, anchor 3/4).
+    36: 9,   # all Cap. III Vers. 16-22: nn.1-4 anchor LEFT, nn.5-9 RIGHT;
+             # nn.1-6 print LEFT, nn.7-9 RIGHT (block 6/3 vs anchor 4/5).
+    37: 8,   # nn.1-3 Cap. III Vers. 16-22's Quaestio II (n.1-2 anchor LEFT, n.3
+             # RIGHT; all three print LEFT); nn.4-8 are Capitulum IV's, below
+             # the full-measure CAPITULUM IV. heading. n.4 prints WITHOUT its
+             # numeral, indented at the head of the RIGHT block (`Pro in B ...`).
 }
 
 KNOWN_TOTALS_BY_VOL = {

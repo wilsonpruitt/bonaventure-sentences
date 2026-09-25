@@ -481,6 +481,10 @@ const WORKS = {
       // III.` at bon-eccl-c3-v1 p. 28) and neither carries a subtitle.
       2: "Capitulum II",
       3: "Capitulum III",
+      // `CAPITULUM IV.` read in place on the plate at bon-eccl-c3-v16-22's last
+      // leaf (p. 37, full measure, ~39 % down the leaf, no subtitle — the next
+      // line is the divisio heading `Secundo, de vanitate malitiae in subditis…`).
+      4: "Capitulum IV",
     },
   },
 };
