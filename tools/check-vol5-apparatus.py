@@ -3066,6 +3066,13 @@ KNOWN_TOTALS_VOL6 = {
              # RIGHT; all three print LEFT); nn.4-8 are Capitulum IV's, below
              # the full-measure CAPITULUM IV. heading. n.4 prints WITHOUT its
              # numeral, indented at the head of the RIGHT block (`Pro in B ...`).
+    38: 8,   # all Cap. IV Vers. 1-6: nn.1-4 anchor LEFT, nn.5-8 RIGHT; nn.1-3
+             # print LEFT, nn.4-8 RIGHT (block 3/5 vs anchor 4/4). n.3 runs over
+             # the gutter: the RIGHT block opens unnumbered, flush left, `post Hic
+             # stultus complicat manus E addit ...`.
+    39: 7,   # nn.1-3 Cap. IV Vers. 1-6's Quaestiones III-IV (all anchor and print
+             # LEFT, above the in-column ART. 2. heading); nn.4-7 are Vers. 7-12's
+             # (RIGHT block, opens numbered at 4).
 }
 
 KNOWN_TOTALS_BY_VOL = {

@@ -24265,6 +24265,35 @@ bon-eccl-c3-v9-15	6	apparatus:p33-3	p33-3	scripture	apparatus-explicit	Prov. 9, 
 bon-eccl-c3-v9-15	6	apparatus:p33-3	p33-3	scripture	apparatus-explicit	II. Cor. 3, 5	2Cor 3:5	A	verse		
 bon-eccl-c3-v9-15	6	apparatus:p33-5	p33-5	scripture	apparatus-explicit	Gen. 2, 2	Gen 2:2	A	verse		
 bon-eccl-c3-v9-15	6	apparatus:p34-7	p34-7	crossref	page	supra pag. 32, nota 4	bon-eccl-c3-v2-8+bon-eccl-c3-v9-15		page-multi		
+bon-eccl-c4-v1-6	6	latin_body	p37-5	scripture	body-ordinal	Ezechielis vigesimo secundo	Ezech 22:29	B	verse		
+bon-eccl-c4-v1-6	6	latin_body	p37-6	scripture	body-ordinal	Iob trigesimo quinto	Iob 35:9	B	verse		
+bon-eccl-c4-v1-6	6	latin_body		scripture	body-ordinal	Threnorum primo	Thren 1	C	chapter		
+bon-eccl-c4-v1-6	6	latin_body		scripture	body-ordinal	Ecclesiastici septimo	Eccli 7	C	chapter		
+bon-eccl-c4-v1-6	6	latin_body	p37-7	scripture	body-ordinal	Proverbiorum vigesimo secundo	Prov 22:22	B	verse		
+bon-eccl-c4-v1-6	6	latin_body		scripture	body-ordinal	Paralipomenon vigesimo	Par* 20	C	chapter		
+bon-eccl-c4-v1-6	6	latin_body	p37-8	scripture	body-ordinal	Regum decimo nono	Reg* 19:4	B	verse		
+bon-eccl-c4-v1-6	6	latin_body		scripture	body-ordinal	Machabaeorum secundo	Mach* 2	C	chapter		
+bon-eccl-c4-v1-6	6	latin_body		scripture	body-ordinal	Ecclesiastici decimo quarto	Eccli 14	C	chapter		
+bon-eccl-c4-v1-6	6	latin_body		scripture	body-ordinal	Proverbiorum vigesimo octavo	Prov 28	C	chapter		
+bon-eccl-c4-v1-6	6	latin_body		scripture	body-ordinal	Proverbiorum vigesimo tertio	Prov 23	C	chapter		
+bon-eccl-c4-v1-6	6	latin_body	p38-3	scripture	body-ordinal	Proverbiorum duodecimo	Prov 12:11	B	verse		
+bon-eccl-c4-v1-6	6	latin_body		scripture	body-ordinal	Proverbiorum sexto	Prov 6	C	chapter		
+bon-eccl-c4-v1-6	6	latin_body		scripture	body-ordinal	Proverbiorum vigesimo sexto	Prov 26	C	chapter		
+bon-eccl-c4-v1-6	6	latin_body	p38-4	scripture	body-ordinal	Proverbiorum vigesimo primo	Prov 21:25	B	verse		
+bon-eccl-c4-v1-6	6	latin_body	p38-7	scripture	body-ordinal	ad Romanos septimo	Rom 7:24	B	verse		
+bon-eccl-c4-v1-6	6	latin_body	p39-1	scripture	body-ordinal	Matthaei vigesimo sexto	Matth 26:24	B	verse		
+bon-eccl-c4-v1-6	6	apparatus:p37-6	p37-6	scripture	apparatus-explicit	Thren. 1, 2	Thren 1:2	A	verse		
+bon-eccl-c4-v1-6	6	apparatus:p37-6	p37-6	scripture	apparatus-explicit	Eccli. 7, 38	Eccli 7:38	A	verse		
+bon-eccl-c4-v1-6	6	apparatus:p37-7	p37-7	scripture	apparatus-explicit	II. Paral. 20, 12	2Par 20:12	A	verse		
+bon-eccl-c4-v1-6	6	apparatus:p37-8	p37-8	scripture	apparatus-explicit	I. Machab. 2, 7	1Mach 2:7	A	verse		
+bon-eccl-c4-v1-6	6	apparatus:p38-2	p38-2	scripture	apparatus-explicit	Eccle. 2, 18	Eccle 2:18	A	verse		
+bon-eccl-c4-v1-6	6	apparatus:p38-2	p38-2	scripture	apparatus-explicit	Eccli. 14, 8	Eccli 14:8	A	verse		
+bon-eccl-c4-v1-6	6	apparatus:p38-2	p38-2	scripture	apparatus-explicit	Prov. 28, 22	Prov 28:22	A	verse		
+bon-eccl-c4-v1-6	6	apparatus:p38-3	p38-3	scripture	anaphor->apparatus-explicit	ibid.	Prov 28:22	A	verse	yes	Prov. 28, 22
+bon-eccl-c4-v1-6	6	apparatus:p38-4	p38-4	scripture	anaphor->apparatus-explicit	ibid.	Prov 28:22	A	verse	yes	Prov. 28, 22
+bon-eccl-c4-v1-6	6	apparatus:p38-7	p38-7	scripture	apparatus-explicit	Ion. 4, 8	Ionas 4:8	A	verse		
+bon-eccl-c4-v1-6	6	apparatus:p38-7	p38-7	scripture	anaphor->apparatus-explicit	ibid.	Ionas 4:8	A	verse	yes	Ion. 4, 8
+bon-eccl-c4-v1-6	6	apparatus:p39-2	p39-2	crossref	logical	IV. Sent. d. 50. p. I. a. 1. q. 2.	bon-sent-IV-d50-p1-a1-q2		chunk		
 bon-eccl-prooem	6	latin_body	p3-2	scripture	body-ordinal	ad Corinthios quarto	Cor* 4:18	B	verse		
 bon-eccl-prooem	6	latin_body		scripture	body-ordinal	Matthaei sexto	Matth 6	C	chapter		
 bon-eccl-prooem	6	latin_body	p3-5	scripture	body-ordinal	ad Timotheum sexto	Tim* 6:14	B	verse		
