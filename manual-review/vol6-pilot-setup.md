@@ -138,3 +138,21 @@ and 14 changed nothing by design, and 11 and 13 added notes beside text that was
 ⚠⚠ **A FROZEN CLAIM IN THE REPO CLAUDE.md WAS FALSE AND IS CORRECTED:** translator's notes DO enter the citation
 ledger when their English prose names a scripture reference (four such records already stand in deployed Vol V).
 Corpus-wide; carried to p. 103.
+
+# RULING 15 — THE UNINDEXED `(Vers. 17.)` UNIT (Wilson, 2026-09-30, at `bon-eccl-c4-v13-16`)
+
+15. **ECCLE. 4:17 FOLDS INTO THE FIRST CAPITULUM V CHUNK, `bon-eccl-c5-v1-8`, whose `verses` stays `"1-8"`;
+    the Cap. IV verse is recorded in its Notes and `transcription_status`, not in the label.** The chunk opens
+    seven lines down p. 42's LEFT column at the in-column italic *Partis secundae membrum II. De remedio triplici
+    contra triplicem vanitatem culpae…*, carries the *Custodi pedem tuum* Divisio, `Aʀᴛ. 1.` *De remedio contra
+    vanitatem malitiae, ex qua oritur triplex inordinatio.*, *Primo datur remedium contra inobedientiam.* and the
+    `(Vers. 17.)` exposition, then the full-measure `Cᴀᴘɪᴛᴜʟᴜᴍ V.` heading and Cap. V's verses. `division: 5`.
+    **Why:** ruling 1's index pericope has no line for Vers. 17, and the text's own structure decides it —
+    Art. 1's subdivisio names its three remedies at 4:17 (*contra inobedientiam*), 5:1 (*ibi: Ne temere quid
+    loquaris*) and 5:7 (*ibi: Si videris calumnias egenorum*), so Art. 1 = 4:17 → 5:7, the head of the index's
+    Cap. V `Vers. 1-8`. A stand-alone `c4-v17` would split Art. 1 across two chunks; extending `c4-v13-16` would
+    put a new membrum's opening inside the previous article's chunk. Both refused.
+    ▶ **General rule for Vols VI–X: when a verse falls outside every index pericope, it goes with the unit whose
+    printed divisio claims it, not with the chapter number it happens to carry.** ⚠ The breadcrumb will read
+    `Cap. 5, Vers. 1-8` although the chunk opens on Eccle. 4:17 — accepted cost; the `verses` field keeps the
+    index's label so the build needs no new title shape.
