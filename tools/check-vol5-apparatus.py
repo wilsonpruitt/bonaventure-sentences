@@ -3077,6 +3077,10 @@ KNOWN_TOTALS_VOL6 = {
              # print LEFT, nn.5-10 RIGHT (block 4/6 vs anchor 5/5). n.4 runs over
              # the gutter: the RIGHT block opens unnumbered, flush left, `in Cantic.
              # serm. 40, in quo ...`. The ART. 3. region below carries no anchor.
+    41: 8,   # all Cap. IV Vers. 13-16: nn.1-4 anchor LEFT, nn.5-8 RIGHT; nn.1-5
+             # print LEFT, nn.6-8 RIGHT (block 5/3 vs anchor 4/4). n.5 runs over
+             # the gutter: the RIGHT block opens unnumbered, flush left, `cuit
+             # animae meae. -- Sequuntur II. Cor. 8, 9 ...`. p. 42 NOT fed (next unit's).
 }
 
 KNOWN_TOTALS_BY_VOL = {

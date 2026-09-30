@@ -24294,6 +24294,37 @@ bon-eccl-c4-v1-6	6	apparatus:p38-4	p38-4	scripture	anaphor->apparatus-explicit	i
 bon-eccl-c4-v1-6	6	apparatus:p38-7	p38-7	scripture	apparatus-explicit	Ion. 4, 8	Ionas 4:8	A	verse		
 bon-eccl-c4-v1-6	6	apparatus:p38-7	p38-7	scripture	anaphor->apparatus-explicit	ibid.	Ionas 4:8	A	verse	yes	Ion. 4, 8
 bon-eccl-c4-v1-6	6	apparatus:p39-2	p39-2	crossref	logical	IV. Sent. d. 50. p. I. a. 1. q. 2.	bon-sent-IV-d50-p1-a1-q2		chunk		
+bon-eccl-c4-v13-16	6	latin_body		scripture	body-ordinal	Proverbiorum duodecimo	Prov 12	C	chapter		
+bon-eccl-c4-v13-16	6	latin_body	p41-2	scripture	body-ordinal	Deuteronomii trigesimo secundo	Deut 32:29	B	verse		
+bon-eccl-c4-v13-16	6	latin_body		scripture	body-ordinal	Sapientiae decimo	Sap 10	C	chapter		
+bon-eccl-c4-v13-16	6	latin_body		scripture	body-ordinal	Ecclesiastici decimo	Eccli 10	C	chapter		
+bon-eccl-c4-v13-16	6	latin_body	p41-3	scripture	body-ordinal	Regum quinto	Reg* 5:1	B	verse		
+bon-eccl-c4-v13-16	6	latin_body	p41-4	scripture	body-ordinal	Ecclesiastici vigesimo	Eccli 20:17	B	verse		
+bon-eccl-c4-v13-16	6	latin_body	p41-5	scripture	body-ordinal	Isaiae quadragesimo secundo	Isai 42:1	B	verse		
+bon-eccl-c4-v13-16	6	latin_body		scripture	body-ordinal	ad Corinthios octavo	Cor* 8	C	chapter		
+bon-eccl-c4-v13-16	6	latin_body		scripture	body-ordinal	ad Corinthios primo	Cor* 1	C	chapter		
+bon-eccl-c4-v13-16	6	latin_body	p41-6	scripture	body-ordinal	Iob quadragesimo	Iob 40:14	B	verse		
+bon-eccl-c4-v13-16	6	latin_body		scripture	body-ordinal	Iob quadragesimo primo	Iob 41	C	chapter		
+bon-eccl-c4-v13-16	6	latin_body		scripture	body-ordinal	Isaiae decimo quarto	Isai 14	C	chapter		
+bon-eccl-c4-v13-16	6	latin_body	p41-7	scripture	body-ordinal	ad Hebraeos primo	Hebr 1:3	B	verse		
+bon-eccl-c4-v13-16	6	latin_body		scripture	body-ordinal	ad Colossenses secundo	Col 2	C	chapter		
+bon-eccl-c4-v13-16	6	latin_body	p41-8	scripture	body-ordinal	Ioannis duodecimo	Ioan 12:19	B	verse		
+bon-eccl-c4-v13-16	6	latin_body		scripture	body-ordinal	Ioannis duodecimo	Ioan 12	C	chapter		
+bon-eccl-c4-v13-16	6	apparatus:p41-1	p41-1	scripture	apparatus-explicit	Prov. 12, 9	Prov 12:9	A	verse		
+bon-eccl-c4-v13-16	6	apparatus:p41-1	p41-1	crossref	logical	III. Sent. d. 33. dub. 2.	bon-sent-III-d33-dubia		chunk		
+bon-eccl-c4-v13-16	6	apparatus:p41-2	p41-2	scripture	apparatus-explicit	Sap. 10, 13	Sap 10:13	A	verse		
+bon-eccl-c4-v13-16	6	apparatus:p41-2	p41-2	scripture	apparatus-explicit	Eccli. 10, 17	Eccli 10:17	A	verse		
+bon-eccl-c4-v13-16	6	apparatus:p41-4	p41-4	scripture	apparatus-explicit	Eccle. 1, 14	Eccle 1:14	A	verse		
+bon-eccl-c4-v13-16	6	apparatus:p41-5	p41-5	scripture	apparatus-explicit	Matth. 12, 18	Matth 12:18	A	verse		
+bon-eccl-c4-v13-16	6	apparatus:p41-5	p41-5	scripture	apparatus-explicit	II. Cor. 8, 9	2Cor 8:9	A	verse		
+bon-eccl-c4-v13-16	6	apparatus:p41-5	p41-5	scripture	apparatus-explicit	I. Cor. 1, 24	1Cor 1:24	A	verse		
+bon-eccl-c4-v13-16	6	apparatus:p41-5	p41-5	scripture	apparatus-explicit	Eccle. 9, 15	Eccle 9:15	A	verse		
+bon-eccl-c4-v13-16	6	apparatus:p41-5	p41-5	crossref	page	tom. II. pag. 192, nota 1	bon-sent-II-d7-p2-a1-q1+bon-sent-II-d7-p2-a1-q2		page-multi		
+bon-eccl-c4-v13-16	6	apparatus:p41-6	p41-6	scripture	apparatus-explicit	Iob 41, 25	Iob 41:25	A	verse		
+bon-eccl-c4-v13-16	6	apparatus:p41-6	p41-6	scripture	apparatus-explicit	Isai. 14, 13	Isai 14:13	A	verse		
+bon-eccl-c4-v13-16	6	apparatus:p41-7	p41-7	scripture	apparatus-explicit	Col. 2, 15	Col 2:15	A	verse		
+bon-eccl-c4-v13-16	6	apparatus:p41-8	p41-8	scripture	anaphor->apparatus-explicit	ibid.	Col 2:15	A	verse	yes	Col. 2, 15
+bon-eccl-c4-v13-16	6	apparatus:p41-8	p41-8	scripture	apparatus-explicit	Phil. 4, 4	Phil 4:4	A	verse		
 bon-eccl-c4-v7-12	6	latin_body	p39-4	scripture	body-ordinal	Ecclesiastici undecimo	Eccli 11:19	B	verse		
 bon-eccl-c4-v7-12	6	latin_body		scripture	body-ordinal	Ecclesiastici trigesimo primo	Eccli 31	C	chapter		
 bon-eccl-c4-v7-12	6	latin_body		scripture	body-ordinal	Ecclesiastici decimo quarto	Eccli 14	C	chapter		
