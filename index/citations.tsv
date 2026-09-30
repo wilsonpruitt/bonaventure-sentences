@@ -24424,6 +24424,33 @@ bon-eccl-c5-v1-8	6	apparatus:p45-11	p45-11	crossref	page	tom. I. pag. 831, nota 
 bon-eccl-c5-v1-8	6	apparatus:p45-12	p45-12	crossref	anaphor->page	ibid.	bon-sent-I-d46-a1-q5		chunk	yes	tom. I. pag. 831, nota 7
 bon-eccl-c5-v1-8	6	apparatus:p46-1	p46-1	scripture	apparatus-explicit	Sap. 4, 11	Sap 4:11	A	verse		
 bon-eccl-c5-v1-8	6	apparatus:p46-1	p46-1	scripture	apparatus-explicit	Eccli. 44, 16	Eccli 44:16	A	verse		
+bon-eccl-c5-v9-11	6	latin_body	p46-3	scripture	body-ordinal	Ecclesiastici decimo quarto	Eccli 14:9	B	verse		
+bon-eccl-c5-v9-11	6	latin_body	p46-4	scripture	body-ordinal	Ecclesiastici decimo	Eccli 10:10	B	verse		
+bon-eccl-c5-v9-11	6	latin_body		scripture	body-ordinal	Matthaei decimo sexto	Matth 16	C	chapter		
+bon-eccl-c5-v9-11	6	latin_body		scripture	body-ordinal	Iob trigesimo nono	Iob 39	C	chapter		
+bon-eccl-c5-v9-11	6	latin_body		scripture	body-ordinal	Proverbiorum decimo nono	Prov 19	C	chapter		
+bon-eccl-c5-v9-11	6	latin_body		scripture	body-ordinal	Ecclesiastici undecimo	Eccli 11	C	chapter		
+bon-eccl-c5-v9-11	6	latin_body	p47-1	scripture	body-ordinal	Ecclesiastici trigesimo primo	Eccli 31:24	B	verse		
+bon-eccl-c5-v9-11	6	latin_body	p47-2	scripture	body-ordinal	Iob decimo quinto	Iob 15:21	B	verse		
+bon-eccl-c5-v9-11	6	latin_body		scripture	body-ordinal	Ecclesiastici trigesimo primo	Eccli 31	C	chapter		
+bon-eccl-c5-v9-11	6	latin_body	p47-4	scripture	body-ordinal	Proverbiorum decimo tertio	Prov 13:8	B	verse		
+bon-eccl-c5-v9-11	6	latin_body		scripture	body-ordinal	Danielis quarto	Dan 4	C	chapter		
+bon-eccl-c5-v9-11	6	latin_body		scripture	body-ordinal	ad Timotheum quarto	Tim* 4	C	chapter		
+bon-eccl-c5-v9-11	6	latin_body		scripture	body-ordinal	Lucae decimo sexto	Luc 16	C	chapter		
+bon-eccl-c5-v9-11	6	apparatus:p46-4	p46-4	scripture	apparatus-explicit	Matth. 16, 26	Matth 16:26	A	verse		
+bon-eccl-c5-v9-11	6	apparatus:p46-5	p46-5	scripture	apparatus-explicit	Psalm. 4, 3	Ps 4:3	A	verse		
+bon-eccl-c5-v9-11	6	apparatus:p46-5	p46-5	scripture	apparatus-explicit	Ps. 77, 33	Ps 77:33	A	verse		
+bon-eccl-c5-v9-11	6	apparatus:p46-6	p46-6	scripture	apparatus-explicit	Iob 39, 30	Iob 39:30	A	verse		
+bon-eccl-c5-v9-11	6	apparatus:p46-6	p46-6	scripture	apparatus-explicit	Prov. 19, 6	Prov 19:6	A	verse		
+bon-eccl-c5-v9-11	6	apparatus:p46-6	p46-6	scripture	apparatus-explicit	Eccli. 11, 10	Eccli 11:10	A	verse		
+bon-eccl-c5-v9-11	6	apparatus:p47-2	p47-2	scripture	apparatus-explicit	Eccle. 2, 23	Eccle 2:23	A	verse		
+bon-eccl-c5-v9-11	6	apparatus:p47-2	p47-2	scripture	apparatus-explicit	Eccli. 31, 23	Eccli 31:23	A	verse		
+bon-eccl-c5-v9-11	6	apparatus:p47-5	p47-5	scripture	apparatus-explicit	Matth. 19	Matth 19	C	chapter		
+bon-eccl-c5-v9-11	6	apparatus:p47-5	p47-5	scripture	apparatus-explicit	Marc. 10	Marc 10	C	chapter		
+bon-eccl-c5-v9-11	6	apparatus:p47-5	p47-5	scripture	apparatus-explicit	Luc. 18	Luc 18	C	chapter		
+bon-eccl-c5-v9-11	6	apparatus:p47-7	p47-7	scripture	apparatus-explicit	Dan. 4, 24	Dan 4:24	A	verse		
+bon-eccl-c5-v9-11	6	apparatus:p47-7	p47-7	scripture	apparatus-explicit	I. Tim. 4	1Tim 4	C	chapter		
+bon-eccl-c5-v9-11	6	apparatus:p47-7	p47-7	scripture	apparatus-explicit	Luc. 16, 9	Luc 16:9	A	verse		
 bon-eccl-prooem	6	latin_body	p3-2	scripture	body-ordinal	ad Corinthios quarto	Cor* 4:18	B	verse		
 bon-eccl-prooem	6	latin_body		scripture	body-ordinal	Matthaei sexto	Matth 6	C	chapter		
 bon-eccl-prooem	6	latin_body	p3-5	scripture	body-ordinal	ad Timotheum sexto	Tim* 6:14	B	verse		

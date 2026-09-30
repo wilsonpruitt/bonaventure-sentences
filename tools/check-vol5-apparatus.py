@@ -3095,6 +3095,15 @@ KNOWN_TOTALS_VOL6 = {
              # RIGHT; nn.1-11 print LEFT, n.12 RIGHT. n.11 runs over the gutter:
              # RIGHT block opens `hoc idem, licet in alium ...`. p. 46 NOT fed:
              # its n.1 is this chunk's, nn.2 ff. the next unit's (Art. 2).
+    46: 6,   # SHARED: n.1 is Cap. V Vers. 1-8's (Henoch, Q. III reply 3, above
+             # `Art. 2.`); nn.2-6 are Vers. 9-11's. Anchors: nn.1-2 LEFT, nn.3-6
+             # RIGHT; nn.1-3 print LEFT, nn.4-6 RIGHT. n.3 runs over the gutter:
+             # RIGHT block opens unnumbered, flush left, `potest esse. At hic ...`.
+    47: 8,   # all Cap. V Vers. 9-11: nn.1-5 anchor LEFT, nn.6-8 RIGHT; nn.1-6 print
+             # LEFT, nn.7-8 RIGHT. n.6 runs over the gutter: RIGHT block opens
+             # `aurum] quidem, quod ad animi bonum spectat ...`. Vers. 12-19 opens
+             # ~52 % down p. 47 R but carries NO anchor on the leaf (p. 498 rule):
+             # nothing forwards to it.
 }
 
 KNOWN_TOTALS_BY_VOL = {
