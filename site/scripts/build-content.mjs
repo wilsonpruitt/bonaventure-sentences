@@ -485,6 +485,10 @@ const WORKS = {
       // leaf (p. 37, full measure, ~39 % down the leaf, no subtitle — the next
       // line is the divisio heading `Secundo, de vanitate malitiae in subditis…`).
       4: "Capitulum IV",
+      // `CAPITULUM V.` read in place on the plate at bon-eccl-c5-v1-8 (p. 42,
+      // full measure, ~73 % down the leaf, no subtitle). ⚠ The raw OCR DROPS
+      // the heading entirely. Per ruling 15 that chunk opens on Eccle. 4:17.
+      5: "Capitulum V",
     },
   },
 };

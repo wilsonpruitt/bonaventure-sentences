@@ -3081,6 +3081,20 @@ KNOWN_TOTALS_VOL6 = {
              # print LEFT, nn.6-8 RIGHT (block 5/3 vs anchor 4/4). n.5 runs over
              # the gutter: the RIGHT block opens unnumbered, flush left, `cuit
              # animae meae. -- Sequuntur II. Cor. 8, 9 ...`. p. 42 NOT fed (next unit's).
+    42: 6,   # all Cap. V Vers. 1-8 (ruling 15: opens on Eccle. 4:17 below the top
+             # seven lines, which carry no anchor): nn.1-2 anchor LEFT, nn.3-6
+             # RIGHT; nn.1-5 print LEFT, n.6 RIGHT (block 5/1 vs anchor 2/4). n.5
+             # runs over the gutter: the RIGHT block opens unnumbered, flush left,
+             # `15, 22.] ait: Melior est obedientia ...`.
+    43: 8,   # all Cap. V Vers. 1-8: nn.1-4 anchor LEFT, nn.5-8 RIGHT; nn.1-6 print
+             # LEFT, nn.7-8 RIGHT (block 6/2 vs anchor 4/4). n.6 runs over the
+             # gutter: RIGHT block opens `d. XXXIX. c. 9; ibid. c. 1. ...`.
+    44: 10,  # all Cap. V Vers. 1-8: nn.1-4 anchor LEFT, nn.5-10 RIGHT (Quaestio I);
+             # block 4/6 = anchor 4/6. No runover.
+    45: 12,  # all Cap. V Vers. 1-8 (Quaestiones I-IV): nn.1-5 anchor LEFT, nn.6-12
+             # RIGHT; nn.1-11 print LEFT, n.12 RIGHT. n.11 runs over the gutter:
+             # RIGHT block opens `hoc idem, licet in alium ...`. p. 46 NOT fed:
+             # its n.1 is this chunk's, nn.2 ff. the next unit's (Art. 2).
 }
 
 KNOWN_TOTALS_BY_VOL = {
