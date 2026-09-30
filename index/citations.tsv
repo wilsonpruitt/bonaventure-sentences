@@ -24294,6 +24294,37 @@ bon-eccl-c4-v1-6	6	apparatus:p38-4	p38-4	scripture	anaphor->apparatus-explicit	i
 bon-eccl-c4-v1-6	6	apparatus:p38-7	p38-7	scripture	apparatus-explicit	Ion. 4, 8	Ionas 4:8	A	verse		
 bon-eccl-c4-v1-6	6	apparatus:p38-7	p38-7	scripture	anaphor->apparatus-explicit	ibid.	Ionas 4:8	A	verse	yes	Ion. 4, 8
 bon-eccl-c4-v1-6	6	apparatus:p39-2	p39-2	crossref	logical	IV. Sent. d. 50. p. I. a. 1. q. 2.	bon-sent-IV-d50-p1-a1-q2		chunk		
+bon-eccl-c4-v7-12	6	latin_body	p39-4	scripture	body-ordinal	Ecclesiastici undecimo	Eccli 11:19	B	verse		
+bon-eccl-c4-v7-12	6	latin_body		scripture	body-ordinal	Ecclesiastici trigesimo primo	Eccli 31	C	chapter		
+bon-eccl-c4-v7-12	6	latin_body		scripture	body-ordinal	Ecclesiastici decimo quarto	Eccli 14	C	chapter		
+bon-eccl-c4-v7-12	6	latin_body		scripture	body-ordinal	Psalmo trigesimo octavo	Ps 38	C	chapter		
+bon-eccl-c4-v7-12	6	latin_body	p39-5	scripture	body-ordinal	Lucae decimo	Luc 10:1	B	verse		
+bon-eccl-c4-v7-12	6	latin_body	p39-6	scripture	body-ordinal	Deuteronomii vigesimo secundo	Deut 22:4	B	verse		
+bon-eccl-c4-v7-12	6	latin_body	p39-7	scripture	body-ordinal	ad Ephesios quinto	Eph 5:29	B	verse		
+bon-eccl-c4-v7-12	6	latin_body		scripture	body-ordinal	Regum primo	Reg* 1	C	chapter		
+bon-eccl-c4-v7-12	6	latin_body	p40-1	scripture	body-ordinal	Regum decimo	Reg* 10:11	B	verse		
+bon-eccl-c4-v7-12	6	latin_body		scripture	body-ordinal	Proverbiorum decimo octavo	Prov 18	C	chapter		
+bon-eccl-c4-v7-12	6	latin_body		scripture	body-ordinal	Ecclesiastici trigesimo septimo	Eccli 37	C	chapter		
+bon-eccl-c4-v7-12	6	latin_body		scripture	body-ordinal	ad Thessalonicenses quinto	Thess* 5	C	chapter		
+bon-eccl-c4-v7-12	6	latin_body		scripture	anaphor->body-ordinal	ibid	Thess* 5	C	chapter	yes	ad Thessalonicenses quinto
+bon-eccl-c4-v7-12	6	latin_body		scripture	body-ordinal	Isaiae quinquagesimo	Isai 50	C	chapter		
+bon-eccl-c4-v7-12	6	latin_body		scripture	body-ordinal	Osee undecimo	Osee 11	C	chapter		
+bon-eccl-c4-v7-12	6	latin_body	p40-3	scripture	body-ordinal	Threnorum tertio	Thren 3:28	B	verse		
+bon-eccl-c4-v7-12	6	latin_body	p40-5	scripture	body-ordinal	ad Corinthios septimo	Cor* 7:32	B	verse		
+bon-eccl-c4-v7-12	6	latin_body	p40-6	scripture	body-ordinal	Genesis secundo	Gen 2:18	B	verse		
+bon-eccl-c4-v7-12	6	latin_body	p40-7	scripture	body-ordinal	Matthaei decimo octavo	Matth 18:20	B	verse		
+bon-eccl-c4-v7-12	6	apparatus:p39-4	p39-4	scripture	apparatus-explicit	Eccli. 31, 3	Eccli 31:3	A	verse		
+bon-eccl-c4-v7-12	6	apparatus:p39-4	p39-4	scripture	apparatus-explicit	Ps. 38, 7	Ps 38:7	A	verse		
+bon-eccl-c4-v7-12	6	apparatus:p39-4	p39-4	scripture	apparatus-explicit	Eccle. 5, 12	Eccle 5:12	A	verse		
+bon-eccl-c4-v7-12	6	apparatus:p39-6	p39-6	scripture	apparatus-explicit	Ps. 24, 16	Ps 24:16	A	verse		
+bon-eccl-c4-v7-12	6	apparatus:p39-7	p39-7	scripture	apparatus-explicit	III. Reg. 1, 1	3Reg 1:1	A	verse		
+bon-eccl-c4-v7-12	6	apparatus:p40-1	p40-1	scripture	apparatus-explicit	Prov. 18, 19	Prov 18:19	A	verse		
+bon-eccl-c4-v7-12	6	apparatus:p40-2	p40-2	scripture	apparatus-explicit	Eccli. 37, 17	Eccli 37:17	A	verse		
+bon-eccl-c4-v7-12	6	apparatus:p40-2	p40-2	scripture	apparatus-explicit	I. Thess. 5, 14	1Thess 5:14	A	verse		
+bon-eccl-c4-v7-12	6	apparatus:p40-2	p40-2	scripture	apparatus-explicit	Isai. 50, 8	Isai 50:8	A	verse		
+bon-eccl-c4-v7-12	6	apparatus:p40-2	p40-2	scripture	apparatus-explicit	Osee 11, 4	Osee 11:4	A	verse		
+bon-eccl-c4-v7-12	6	apparatus:p40-8	p40-8	scripture	apparatus-explicit	Eccle. 4, 9-12	Eccle 4:9-12	A	verse		
+bon-eccl-c4-v7-12	6	apparatus:p40-9	p40-9	scripture	apparatus-explicit	Psalm. 24, 16	Ps 24:16	A	verse		
 bon-eccl-prooem	6	latin_body	p3-2	scripture	body-ordinal	ad Corinthios quarto	Cor* 4:18	B	verse		
 bon-eccl-prooem	6	latin_body		scripture	body-ordinal	Matthaei sexto	Matth 6	C	chapter		
 bon-eccl-prooem	6	latin_body	p3-5	scripture	body-ordinal	ad Timotheum sexto	Tim* 6:14	B	verse		

@@ -3073,6 +3073,10 @@ KNOWN_TOTALS_VOL6 = {
     39: 7,   # nn.1-3 Cap. IV Vers. 1-6's Quaestiones III-IV (all anchor and print
              # LEFT, above the in-column ART. 2. heading); nn.4-7 are Vers. 7-12's
              # (RIGHT block, opens numbered at 4).
+    40: 10,  # all Cap. IV Vers. 7-12: nn.1-5 anchor LEFT, nn.6-10 RIGHT; nn.1-4
+             # print LEFT, nn.5-10 RIGHT (block 4/6 vs anchor 5/5). n.4 runs over
+             # the gutter: the RIGHT block opens unnumbered, flush left, `in Cantic.
+             # serm. 40, in quo ...`. The ART. 3. region below carries no anchor.
 }
 
 KNOWN_TOTALS_BY_VOL = {
