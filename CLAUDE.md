@@ -1,6 +1,6 @@
 # Bonaventure Sentences — Project Guide for Claude
 
-You are working on an English translation of **St. Bonaventure's *Opera Omnia*** (Quaracchi edition, 1882–1902). Status (2026-09-06): **Books I–IV are complete and published** (Vols I–IV, all Tier 2). The active front is **Vol V**, where the Breviloquium, Itinerarium, De reductione, the Collationes in Hexaemeron, the *Collationes de septem donis*, the *Collationes de decem praeceptis* and the **QD de scientia Christi** (pp. 3–43, seven quaestiones, shakedown + work-close gates closed, **pushed and DEPLOYED 2026-09-05**) are ALL COMPLETE. **The next work is the *QD de mysterio Trinitatis*, pp. 45–115** — its **mini-pilot is FROZEN 2026-09-05** (§ MYSTERIO TRINITATIS below; evidence in `manual-review/mysterio-trinitatis-pilot-scouting.md`): **fifteen chunks, one per articulus** (`bon-qmt-q{1..7}-a{1,2}` + `bon-qmt-q8`), settled on Quaracchi's own 26 internal `q. N. a. N.` cross-references. **ALL FIFTEEN are BUILT (pp. 45–115, 519 apparatus entries, zero `[?]` in all fifteen): `bon-qmt-q1-a1` (45–51, 54) · `bon-qmt-q1-a2` (51–58, 53) · `bon-qmt-q2-a1` (59–63, 29) · `bon-qmt-q2-a2` (63–68, 40) · `bon-qmt-q3-a1` (68–73, 34) · `bon-qmt-q3-a2` (73–78, 35) · `bon-qmt-q4-a1` (78–84, 44) · `bon-qmt-q4-a2` (84–87, 24) · `bon-qmt-q5-a1` (87–92, 35) · `bon-qmt-q5-a2` (93–96, 30) · `bon-qmt-q6-a1` (96–102, 44) · `bon-qmt-q6-a2` (102–106, 28) · `bon-qmt-q7-a1` (106–109, 28) · `bon-qmt-q7-a2` (109–112, 19) · `bon-qmt-q8` (112–115, 22). The SHAKEDOWN GATE IS CLOSED at p. 68 (2026-09-06, `manual-review/vol5-mysterio-trinitatis-shakedown-gate.md`) — ZERO defects in scope, both carried questions ruled. ⭐⭐⭐ ***vacatio*/*quies* IS RULED at `q5-a2` on the *quies* side ONLY — and one of the two predicted sites was a hyphenation artefact** (below). ⚠ **`q7-a2` met the *vacatio* site and found it textually insecure (its own note: *D potius legi deberet vetando*) — the pair was APPLIED, not ratified; for the work-close gate.** **The work is COMPLETE and its WORK-CLOSE GATE IS CLOSED (2026-09-15, `manual-review/vol5-mysterio-trinitatis-workclose-gate.md`); owed: push + deploy (each a hard stop), then the *De perfectione evangelica* mini-pilot.** Deploy boundary is the work close at p. 115. The live site is https://bonaventure.wrootpress.com. Always defer to `next-session-resume.md` for the exact current position.
+You are working on an English translation of **St. Bonaventure's *Opera Omnia*** (Quaracchi edition, 1882–1902). ⭐ **Current front (2026-10-04): Vol VI (Commentary on Ecclesiastes); Vol V is closed and deployed. Sessions follow § "VOL VI — SESSION WORKFLOW": build chunks one subagent at a time, continuously, and check in only at a stop.** Older status (2026-09-06): **Books I–IV are complete and published** (Vols I–IV, all Tier 2). The active front is **Vol V**, where the Breviloquium, Itinerarium, De reductione, the Collationes in Hexaemeron, the *Collationes de septem donis*, the *Collationes de decem praeceptis* and the **QD de scientia Christi** (pp. 3–43, seven quaestiones, shakedown + work-close gates closed, **pushed and DEPLOYED 2026-09-05**) are ALL COMPLETE. **The next work is the *QD de mysterio Trinitatis*, pp. 45–115** — its **mini-pilot is FROZEN 2026-09-05** (§ MYSTERIO TRINITATIS below; evidence in `manual-review/mysterio-trinitatis-pilot-scouting.md`): **fifteen chunks, one per articulus** (`bon-qmt-q{1..7}-a{1,2}` + `bon-qmt-q8`), settled on Quaracchi's own 26 internal `q. N. a. N.` cross-references. **ALL FIFTEEN are BUILT (pp. 45–115, 519 apparatus entries, zero `[?]` in all fifteen): `bon-qmt-q1-a1` (45–51, 54) · `bon-qmt-q1-a2` (51–58, 53) · `bon-qmt-q2-a1` (59–63, 29) · `bon-qmt-q2-a2` (63–68, 40) · `bon-qmt-q3-a1` (68–73, 34) · `bon-qmt-q3-a2` (73–78, 35) · `bon-qmt-q4-a1` (78–84, 44) · `bon-qmt-q4-a2` (84–87, 24) · `bon-qmt-q5-a1` (87–92, 35) · `bon-qmt-q5-a2` (93–96, 30) · `bon-qmt-q6-a1` (96–102, 44) · `bon-qmt-q6-a2` (102–106, 28) · `bon-qmt-q7-a1` (106–109, 28) · `bon-qmt-q7-a2` (109–112, 19) · `bon-qmt-q8` (112–115, 22). The SHAKEDOWN GATE IS CLOSED at p. 68 (2026-09-06, `manual-review/vol5-mysterio-trinitatis-shakedown-gate.md`) — ZERO defects in scope, both carried questions ruled. ⭐⭐⭐ ***vacatio*/*quies* IS RULED at `q5-a2` on the *quies* side ONLY — and one of the two predicted sites was a hyphenation artefact** (below). ⚠ **`q7-a2` met the *vacatio* site and found it textually insecure (its own note: *D potius legi deberet vetando*) — the pair was APPLIED, not ratified; for the work-close gate.** **The work is COMPLETE and its WORK-CLOSE GATE IS CLOSED (2026-09-15, `manual-review/vol5-mysterio-trinitatis-workclose-gate.md`); owed: push + deploy (each a hard stop), then the *De perfectione evangelica* mini-pilot.** Deploy boundary is the work close at p. 115. The live site is https://bonaventure.wrootpress.com. Always defer to `next-session-resume.md` for the exact current position.
 
 This file is loaded into every Claude Code session in this repo. Read it before making changes to translation files or the build pipeline.
 
@@ -3279,6 +3279,50 @@ firing a full three-pass cycle every ~15 pages buys almost nothing.
   pieces" premise was wrong; it is four sermons and one annexed tractatulus, 45 pp, ONE gate
   at the close. Nothing here was measured before the pilot — a work map's description of an
   unopened work is a guess wearing a table cell.
+
+## VOL VI — SESSION WORKFLOW (Wilson, 2026-10-04): build chunks continuously, check in at stops
+
+Vol VI runs on the same per-chunk machinery as Vol V (§ Vol V mechanics, gutter rule, apparatus
+bands-only, census/ledger, `tr-` notes, polish-gate cadence, index conventions all apply; `vol6/`,
+offset `pdf = printed + 42`, ledger `manual-review/vol6-runover-ledger.tsv`, `KNOWN_TOTALS_VOL6`).
+Vol VI's own conventions and rulings live in `manual-review/vol6-pilot-setup.md` (Ecclesiastes
+rulings 1–8, shakedown rulings 9–14, ruling 15) and in the START HERE block of
+`next-session-resume.md`, which is authoritative for the exact front.
+
+**The session loop.** When Wilson opens a session with "continue in bonaventure" (or similar), that
+IS the go-ahead to build chunks — do not stop after orientation to ask whether to start, and do not
+stop after each chunk to ask whether to continue:
+
+1. **Orient (main thread, cheap):** read the START HERE block of `next-session-resume.md` and
+   `git log --oneline origin/master..HEAD`. Do not read plates, raw OCR or chunk bodies in the
+   main thread.
+2. **Dispatch ONE subagent for ONE chunk** (the Vol II "efficient single-chunk dispatch" cadence;
+   Opus for translation work). The brief: target id + frontmatter; what the resume note says it
+   opens on and inherits; "fix the END on the plate from the next heading, extract that leaf
+   alone and read it first"; read the START HERE block, the MECHANICS (a)–(g) paragraph and the
+   COLLECTION CHANGE block; format reference = the previous chunk; full per-chunk recipe
+   (transcribe from the plate → literal English → full apparatus → marginalia → registry /
+   `KNOWN_TOTALS_VOL6` / ledger → the whole verification suite with denominators read) → **two
+   commits** (chunk; then the resume note with a new START HERE block advancing the front) →
+   ≤200-word report. No push, no deploy, no `git stash`.
+3. **On the report:** relay a two-line summary to Wilson, check `git status` is clean and both
+   commits exist, then **dispatch the next chunk immediately** from the new START HERE block.
+   One agent at a time (8 GB machine).
+4. **Repeat** until a STOP below. Then check in with Wilson: chunks built this session (ids, pp.,
+   entry counts), anything flagged for his ruling, the unpushed commit count, and the next front.
+
+**STOPS — end the loop and check in:**
+- a **polish gate** is due (Vol VI cadence: Ecclesiastes work-close gate at **p. 103**; later works
+  per their pilots) — a gate is run only on Wilson's go, and it decides its own rulings with him;
+- a **new work** begins (it needs its mini-pilot first — a Fable-shaped decision, not a chunk);
+- a chunk reports something that **needs Wilson's ruling** (register question, structural surprise,
+  index/text disagreement not settled by an existing ruling) — record it, don't guess, stop;
+- a chunk **fails verification** or leaves the tree dirty and one retry does not fix it;
+- the session is getting long (context pressure) — stop at a chunk boundary, never mid-chunk.
+
+**Never inside the loop:** push and deploy are Wilson's, separately and per action (and Vol VI's
+single Ecclesiastes deploy is at p. 103 with the deploy-only batch). A gate is never run as a side
+effect of the loop.
 
 ## Index conventions (frozen 2026-07-31 by the Phase 0 pilot)
 
