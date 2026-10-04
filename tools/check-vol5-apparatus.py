@@ -3166,7 +3166,16 @@ KNOWN_TOTALS_VOL6 = {
              # iustitiam.` ~38% down R). Anchors L nn.1-8 / R nn.9-10; blocks
              # L nn.1-6 / R nn.6-12 (n.6 runs over the gutter; n.3 run-in on
              # n.2's line, n.8 on n.7's). nn.11-12 (secundo, primo, below the
-             # heading) are Vers. 17-23's, PENDING until it lands.
+             # heading) are Vers. 17-23's; they landed with bon-eccl-c7-v17-23
+             # (Jas. 2:13 / Jer. 31:30, both printed last in the R block).
+    60: 8,   # all Cap. VII Vers. 17-23's (expositio Vers. 17-23 + Quaestiones
+             # I-II). Anchors L nn.1-5 / R nn.6-8; blocks L nn.1-4 / R nn.5-8
+             # (n.5 anchors L, prints R). Both blocks open numbered: no runover.
+    61: 14,  # all Cap. VII Vers. 17-23's (Quaestiones I-V). Anchors L nn.1-7 /
+             # R nn.8-14; blocks L nn.1-5 / R nn.6-14 (n.4 run-in on n.3's
+             # line, n.11 on n.10's). Both blocks open numbered: no runover.
+             # The pericope closes at the foot of p. 61; p. 62 opens with
+             # `Pars III.` and its L block opens `1 Vers. 1.`, numbered.
 }
 
 KNOWN_TOTALS_BY_VOL = {
