@@ -24553,6 +24553,52 @@ bon-eccl-c7-v1	6	apparatus:p54-4	p54-4	scripture	apparatus-explicit	Rom. 11, 20	
 bon-eccl-c7-v1	6	apparatus:p54-5	p54-5	scripture	apparatus-explicit	Ps. 33, 6	Ps 33:6	A	verse		
 bon-eccl-c7-v1	6	apparatus:p55-1	p55-1	crossref	logical	I. Sent. d. 19. p. I. dub. 8.	bon-sent-I-d19-p1-dubia		chunk		
 bon-eccl-c7-v1	6	apparatus:p55-1	p55-1	crossref	chain-continuation	d. 7. p. II. a. 1. q. 3.			dangling		
+bon-eccl-c7-v11-16	6	latin_body	p58-1	scripture	body-ordinal	Proverbiorum decimo tertio	Prov 13:8	B	verse		
+bon-eccl-c7-v11-16	6	latin_body		scripture	body-ordinal	Ecclesiastici decimo tertio	Eccli 13	C	chapter		
+bon-eccl-c7-v11-16	6	latin_body		scripture	body-ordinal	Proverbiorum secundo	Prov 2	C	chapter		
+bon-eccl-c7-v11-16	6	latin_body		scripture	body-ordinal	Ecclesiastici vigesimo nono	Eccli 29	C	chapter		
+bon-eccl-c7-v11-16	6	latin_body	p58-2	scripture	body-ordinal	Proverbiorum quarto	Prov 4:10	B	verse		
+bon-eccl-c7-v11-16	6	latin_body		scripture	body-ordinal	Proverbiorum tertio	Prov 3	C	chapter		
+bon-eccl-c7-v11-16	6	latin_body		scripture	body-ordinal	Iacobi quinto	Iac 5	C	chapter		
+bon-eccl-c7-v11-16	6	latin_body		scripture	body-ordinal	Proverbiorum octavo	Prov 8	C	chapter		
+bon-eccl-c7-v11-16	6	latin_body	p58-3	scripture	body-ordinal	Regum secundo	Reg* 2:25	B	verse		
+bon-eccl-c7-v11-16	6	latin_body		scripture	body-ordinal	Habacuc tertio	Habac 3	C	chapter		
+bon-eccl-c7-v11-16	6	latin_body	p58-4	scripture	body-ordinal	Ecclesiastici decimo quarto	Eccli 14:14	B	verse		
+bon-eccl-c7-v11-16	6	latin_body		scripture	body-ordinal	Ioannis nono	Ioan 9	C	chapter		
+bon-eccl-c7-v11-16	6	latin_body	p58-5	scripture	body-ordinal	Sophoniae primo	Soph 1:15	B	verse		
+bon-eccl-c7-v11-16	6	latin_body		scripture	body-ordinal	Ecclesiastici undecimo	Eccli 11	C	chapter		
+bon-eccl-c7-v11-16	6	latin_body	p58-6	scripture	body-ordinal	Isaiae quinquagesimo septimo	Isai 57:1	B	verse		
+bon-eccl-c7-v11-16	6	latin_body	p59-1	scripture	body-ordinal	Matthaei decimo nono	Matth 19:21	B	verse		
+bon-eccl-c7-v11-16	6	latin_body	p59-2	scripture	body-ordinal	Ecclesiastici decimo tertio	Eccli 13:30	B	verse		
+bon-eccl-c7-v11-16	6	latin_body	p59-8	scripture	body-ordinal	Exodi vigesimo	Exod 20:12	B	verse		
+bon-eccl-c7-v11-16	6	latin_body	p59-9	scripture	body-ordinal	Sapientiae quarto	Sap 4:13	B	verse		
+bon-eccl-c7-v11-16	6	latin_body	p59-10	scripture	body-ordinal	Sapientiae quarto	Sap 4:11	B	verse		
+bon-eccl-c7-v11-16	6	latin_body		scripture	body-ordinal	Ecclesiastici secundo	Eccli 2	C	chapter		
+bon-eccl-c7-v11-16	6	latin_body		scripture	body-ordinal	ad Romanos secundo	Rom 2	C	chapter		
+bon-eccl-c7-v11-16	6	apparatus:p58-1	p58-1	scripture	apparatus-explicit	Eccli. 13, 30	Eccli 13:30	A	verse		
+bon-eccl-c7-v11-16	6	apparatus:p58-1	p58-1	scripture	apparatus-explicit	Prov. 2, 10	Prov 2:10	A	verse		
+bon-eccl-c7-v11-16	6	apparatus:p58-1	p58-1	scripture	apparatus-explicit	Eccli. 29, 16	Eccli 29:16	A	verse		
+bon-eccl-c7-v11-16	6	apparatus:p58-2	p58-2	scripture	apparatus-explicit	Prov. 3, 18	Prov 3:18	A	verse		
+bon-eccl-c7-v11-16	6	apparatus:p58-2	p58-2	scripture	apparatus-explicit	Iac. 5, 1	Iac 5:1	A	verse		
+bon-eccl-c7-v11-16	6	apparatus:p58-2	p58-2	scripture	apparatus-explicit	Prov. 8, 10	Prov 8:10	A	verse		
+bon-eccl-c7-v11-16	6	apparatus:p58-3	p58-3	scripture	apparatus-explicit	Habac. 3, 2	Habac 3:2	A	verse		
+bon-eccl-c7-v11-16	6	apparatus:p58-4	p58-4	scripture	apparatus-explicit	Ioan. 9, 4	Ioan 9:4	A	verse		
+bon-eccl-c7-v11-16	6	apparatus:p58-4	p58-4	scripture	apparatus-explicit	Gal. 6, 10	Gal 6:10	A	verse		
+bon-eccl-c7-v11-16	6	apparatus:p58-5	p58-5	scripture	apparatus-explicit	Eccli. 11, 27	Eccli 11:27	A	verse		
+bon-eccl-c7-v11-16	6	apparatus:p58-5	p58-5	scripture	apparatus-explicit	Ps. 144, 17	Ps 144:17	A	verse		
+bon-eccl-c7-v11-16	6	apparatus:p58-6	p58-6	scripture	apparatus-explicit	Ier. 12, 1	Ierem 12:1	A	verse		
+bon-eccl-c7-v11-16	6	apparatus:p58-6	p58-6	scripture	apparatus-explicit	Eccle. 8, 14	Eccle 8:14	A	verse		
+bon-eccl-c7-v11-16	6	apparatus:p58-7	p58-7	crossref	page	supra pag. 47, nota 8	bon-eccl-c5-v12-19+bon-eccl-c5-v9-11		page-multi		
+bon-eccl-c7-v11-16	6	apparatus:p59-2	p59-2	crossref	anaphor->page	ibid.	bon-eccl-c5-v12-19+bon-eccl-c5-v9-11		page-multi	yes	supra pag. 47, nota 8
+bon-eccl-c7-v11-16	6	apparatus:p59-4	p59-4	scripture	apparatus-explicit	Sap. 14, 9	Sap 14:9	A	verse		
+bon-eccl-c7-v11-16	6	apparatus:p59-5	p59-5	crossref	logical	I. Sent. d. 40. a. 2. q. 2.	bon-sent-I-d40-a2-q2		chunk		
+bon-eccl-c7-v11-16	6	apparatus:p59-5	p59-5	crossref	anaphor->logical	loc. cit.	bon-sent-I-d40-a2-q2		chunk	yes	I. Sent. d. 40. a. 2. q. 2.
+bon-eccl-c7-v11-16	6	apparatus:p59-5	p59-5	crossref	relative-inherited	ibid.	bon-sent-I-d40-a2-q2		chunk		
+bon-eccl-c7-v11-16	6	apparatus:p59-7	p59-7	scripture	apparatus-explicit	Psalm. 54, 24	Ps 54:24	A	verse		
+bon-eccl-c7-v11-16	6	apparatus:p59-10	p59-10	scripture	apparatus-explicit	Ps. 54, 24	Ps 54:24	A	verse		
+bon-eccl-c7-v11-16	6	apparatus:p59-10	p59-10	scripture	apparatus-explicit	Eccli. 2, 5	Eccli 2:5	A	verse		
+bon-eccl-c7-v11-16	6	apparatus:p59-10	p59-10	scripture	apparatus-explicit	Rom. 2, 4	Rom 2:4	A	verse		
+bon-eccl-c7-v11-16	6	apparatus:tr-doctrina	tr-doctrina	scripture	apparatus-explicit	Prov. 8	Prov 8	C	chapter		
 bon-eccl-c7-v2-7	6	latin_body	p55-2	scripture	body-ordinal	Sapientiae octavo	Sap 8:7	B	verse		
 bon-eccl-c7-v2-7	6	latin_body	p55-3	scripture	body-ordinal	Ecclesiastici quadragesimo primo	Eccli 41:15	B	verse		
 bon-eccl-c7-v2-7	6	latin_body		scripture	body-ordinal	Ioannis duodecimo	Ioan 12	C	chapter		

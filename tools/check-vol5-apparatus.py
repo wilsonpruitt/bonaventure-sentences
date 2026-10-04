@@ -3154,8 +3154,19 @@ KNOWN_TOTALS_VOL6 = {
              # nn.1-7 / R nn.8-10 (nn.5-7 anchor RIGHT, print LEFT; n.5 set
              # run-in at the end of n.4's last line). n.10 (errare, below the
              # class-3 heading `Tertio, documenta quatuor ad habendam
-             # prudentiam.` ~2/5 down R) is Vers. 11-16's, PENDING until it
-             # lands. No runover (both blocks open numbered and indented).
+             # prudentiam.` ~2/5 down R) is Vers. 11-16's; it landed with
+             # bon-eccl-c7-v11-16 (printed LAST in the R block, closes on p. 57).
+             # No runover (both blocks open numbered and indented).
+    58: 7,   # all Cap. VII Vers. 11-16's (expositio Vers. 12-16 + Quaestio I's
+             # two arguments). Anchors L nn.1-3 / R nn.4-7; blocks L nn.1-3 /
+             # R nn.3-7: n.3 (Hab. 3:2) runs over the gutter. L block opens
+             # numbered, so nothing crosses from p. 57.
+    59: 12,  # SHARED: nn.1-10 are Cap. VII Vers. 11-16's (Quaestiones I-III,
+             # above the class-3 heading `Quarto, documenta quatuor ad habendam
+             # iustitiam.` ~38% down R). Anchors L nn.1-8 / R nn.9-10; blocks
+             # L nn.1-6 / R nn.6-12 (n.6 runs over the gutter; n.3 run-in on
+             # n.2's line, n.8 on n.7's). nn.11-12 (secundo, primo, below the
+             # heading) are Vers. 17-23's, PENDING until it lands.
 }
 
 KNOWN_TOTALS_BY_VOL = {
