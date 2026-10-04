@@ -3149,6 +3149,13 @@ KNOWN_TOTALS_VOL6 = {
              # anchors LEFT, prints RIGHT). No anchor below the class-3 heading
              # `Secundo, documenta quatuor ad habendam constantiam.` (~3/5 down
              # R) on this leaf, so Vers. 8-10 inherits nothing. No runover.
+    57: 10,  # SHARED: nn.1-9 are Cap. VII Vers. 8-10's (expositio Vers. 8-10
+             # + Quaestiones I-II). Anchors L nn.1-4 / R nn.5-9; blocks L
+             # nn.1-7 / R nn.8-10 (nn.5-7 anchor RIGHT, print LEFT; n.5 set
+             # run-in at the end of n.4's last line). n.10 (errare, below the
+             # class-3 heading `Tertio, documenta quatuor ad habendam
+             # prudentiam.` ~2/5 down R) is Vers. 11-16's, PENDING until it
+             # lands. No runover (both blocks open numbered and indented).
 }
 
 KNOWN_TOTALS_BY_VOL = {
