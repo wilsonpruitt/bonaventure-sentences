@@ -3121,6 +3121,16 @@ KNOWN_TOTALS_VOL6 = {
              # PENDING until it lands. Blocks: L nn.1-2, R nn.3-8. n.2 runs over
              # the gutter: the RIGHT block opens unnumbered, flush left,
              # `Cfr. ibid. q. 54. Vide etiam I. Sent. lit. Magistri ...`.
+             # Cap. VI Vers. 8-11 (bon-eccl-c6-v8-11) owns nn.4-8: anchors
+             # n.4 imprudentiae / n.5 ibi LEFT (below `Art. 3.`), n.6 inquirat /
+             # n.7 quinto / n.8 secundo RIGHT; all five print in the RIGHT block.
+    53: 7,   # SHARED: nn.1-4 are Cap. VI Vers. 8-11's (anchors n.1 quarto, n.2
+             # quarto LEFT; n.3 nono, n.4 decimo RIGHT, all above the full-measure
+             # CAPITULUM VII. ~41 % down the leaf); nn.5-7 anchor in Cap. VII
+             # Vers. 1 and are the NEXT chunk's, PENDING until it lands. Blocks:
+             # L nn.1-4, R (n.4's tail) + nn.5-7. n.4 runs over the gutter: the
+             # RIGHT block opens unnumbered, flush left, `Dominus novit... quoniam
+             # vanae sunt (codd. ...`.
 }
 
 KNOWN_TOTALS_BY_VOL = {

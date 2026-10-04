@@ -24516,6 +24516,29 @@ bon-eccl-c6-v1-7	6	apparatus:p51-7	p51-7	crossref	page	supra pag. 46, nota 3	bon
 bon-eccl-c6-v1-7	6	apparatus:p52-2	p52-2	scripture	apparatus-explicit	Matth. 22, 37	Matth 22:37	A	verse		
 bon-eccl-c6-v1-7	6	apparatus:p52-2	p52-2	scripture	anaphor->apparatus-explicit	ibid.	Matth 22:37	A	verse	yes	Matth. 22, 37
 bon-eccl-c6-v1-7	6	apparatus:p52-3	p52-3	crossref	logical	I. Sent. d. 17. p. I. q. 4	bon-sent-I-d17-p1-a1-q4		chunk		
+bon-eccl-c6-v8-11	6	latin_body	p52-7	scripture	body-ordinal	Matthaei quinto	Matth 5:3	B	verse		
+bon-eccl-c6-v8-11	6	latin_body		scripture	body-ordinal	Proverbiorum tertio	Prov 3	C	chapter		
+bon-eccl-c6-v8-11	6	latin_body		scripture	body-ordinal	Iob quinto	Iob 5	C	chapter		
+bon-eccl-c6-v8-11	6	latin_body		scripture	body-ordinal	Ioannis decimo septimo	Ioan 17	C	chapter		
+bon-eccl-c6-v8-11	6	latin_body		scripture	body-ordinal	Ioannis decimo quarto	Ioan 14	C	chapter		
+bon-eccl-c6-v8-11	6	latin_body	p53-1	scripture	body-ordinal	Proverbiorum quarto	Prov 4:25	B	verse		
+bon-eccl-c6-v8-11	6	latin_body		scripture	body-ordinal	Matthaei vigesimo	Matth 20	C	chapter		
+bon-eccl-c6-v8-11	6	latin_body	p53-2	scripture	body-ordinal	ad Romanos quarto	Rom 4:17	B	verse		
+bon-eccl-c6-v8-11	6	latin_body		scripture	body-ordinal	Genesis tertio	Gen 3	C	chapter		
+bon-eccl-c6-v8-11	6	latin_body	p53-3	scripture	body-ordinal	Iob nono	Iob 9:2	B	verse		
+bon-eccl-c6-v8-11	6	latin_body		scripture	body-ordinal	Iob nono	Iob 9	C	chapter		
+bon-eccl-c6-v8-11	6	latin_body		scripture	body-ordinal	ad Corinthios tertio	Cor* 3	C	chapter		
+bon-eccl-c6-v8-11	6	apparatus:p52-7	p52-7	scripture	apparatus-explicit	Prov. 3, 35	Prov 3:35	A	verse		
+bon-eccl-c6-v8-11	6	apparatus:p52-7	p52-7	scripture	apparatus-explicit	Iob 5, 3	Iob 5:3	A	verse		
+bon-eccl-c6-v8-11	6	apparatus:p52-8	p52-8	scripture	apparatus-explicit	Ioan. 17, 3	Ioan 17:3	A	verse		
+bon-eccl-c6-v8-11	6	apparatus:p52-8	p52-8	scripture	apparatus-explicit	Eccle. 2, 14	Eccle 2:14	A	verse		
+bon-eccl-c6-v8-11	6	apparatus:p52-8	p52-8	scripture	apparatus-explicit	Ioan. 14, 6	Ioan 14:6	A	verse		
+bon-eccl-c6-v8-11	6	apparatus:p52-8	p52-8	scripture	apparatus-explicit	Eccle. 10, 15	Eccle 10:15	A	verse		
+bon-eccl-c6-v8-11	6	apparatus:p53-1	p53-1	scripture	apparatus-explicit	Matth. 20, 22	Matth 20:22	A	verse		
+bon-eccl-c6-v8-11	6	apparatus:p53-2	p53-2	scripture	apparatus-explicit	Gen. 3, 19	Gen 3:19	A	verse		
+bon-eccl-c6-v8-11	6	apparatus:p53-3	p53-3	scripture	anaphor->apparatus-explicit	ibid.	Gen 3:19	A	verse	yes	Gen. 3, 19
+bon-eccl-c6-v8-11	6	apparatus:p53-4	p53-4	scripture	anaphor->apparatus-explicit	ibid.	Gen 3:19	A	verse	yes	Gen. 3, 19
+bon-eccl-c6-v8-11	6	apparatus:p53-4	p53-4	scripture	apparatus-explicit	I. Cor. 3, 20	1Cor 3:20	A	verse		
 bon-eccl-prooem	6	latin_body	p3-2	scripture	body-ordinal	ad Corinthios quarto	Cor* 4:18	B	verse		
 bon-eccl-prooem	6	latin_body		scripture	body-ordinal	Matthaei sexto	Matth 6	C	chapter		
 bon-eccl-prooem	6	latin_body	p3-5	scripture	body-ordinal	ad Timotheum sexto	Tim* 6:14	B	verse		
