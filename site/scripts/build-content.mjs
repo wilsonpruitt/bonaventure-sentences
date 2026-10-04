@@ -495,6 +495,11 @@ const WORKS = {
       // `Tertio detestatur avaritiam…`). ⚠ The raw OCR DROPS the heading, as
       // it dropped CAPITULUM V.
       6: "Capitulum VI",
+      // `CAPITULUM VII.` read in place on the plate at bon-eccl-c7-v1 (p. 53,
+      // full measure, centred, ~44 % down the leaf below c6-v8-11's close, no
+      // subtitle and no anchor — read at 2.5x; the next line is `(Vers. 1.)`).
+      // The raw keeps it this time, garbled `Capitulum  VH.` (L11446).
+      7: "Capitulum VII",
     },
   },
 };

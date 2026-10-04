@@ -24539,6 +24539,20 @@ bon-eccl-c6-v8-11	6	apparatus:p53-2	p53-2	scripture	apparatus-explicit	Gen. 3, 1
 bon-eccl-c6-v8-11	6	apparatus:p53-3	p53-3	scripture	anaphor->apparatus-explicit	ibid.	Gen 3:19	A	verse	yes	Gen. 3, 19
 bon-eccl-c6-v8-11	6	apparatus:p53-4	p53-4	scripture	anaphor->apparatus-explicit	ibid.	Gen 3:19	A	verse	yes	Gen. 3, 19
 bon-eccl-c6-v8-11	6	apparatus:p53-4	p53-4	scripture	apparatus-explicit	I. Cor. 3, 20	1Cor 3:20	A	verse		
+bon-eccl-c7-v1	6	latin_body	p53-5	scripture	body-ordinal	Ecclesiastici tertio	Eccli 3:22	B	verse		
+bon-eccl-c7-v1	6	latin_body		scripture	body-ordinal	ad Romanos undecimo	Rom 11	C	chapter		
+bon-eccl-c7-v1	6	latin_body		scripture	body-ordinal	Sapientiae nono	Sap 9	C	chapter		
+bon-eccl-c7-v1	6	latin_body	p53-6	scripture	body-ordinal	Genesis quadragesimo septimo	Gen 47:9	B	verse		
+bon-eccl-c7-v1	6	latin_body		scripture	body-ordinal	ad Corinthios quinto	Cor* 5	C	chapter		
+bon-eccl-c7-v1	6	latin_body	p53-7	scripture	body-ordinal	Isaiae quadragesimo octavo	Isai 48:7	B	verse		
+bon-eccl-c7-v1	6	apparatus:p53-5	p53-5	scripture	apparatus-explicit	Rom. 11, 20	Rom 11:20	A	verse		
+bon-eccl-c7-v1	6	apparatus:p53-5	p53-5	scripture	apparatus-explicit	Sap. 9, 16	Sap 9:16	A	verse		
+bon-eccl-c7-v1	6	apparatus:p53-6	p53-6	scripture	apparatus-explicit	II. Cor. 5, 6	2Cor 5:6	A	verse		
+bon-eccl-c7-v1	6	apparatus:p53-7	p53-7	scripture	apparatus-explicit	Eccle. 8, 7	Eccle 8:7	A	verse		
+bon-eccl-c7-v1	6	apparatus:p54-4	p54-4	scripture	apparatus-explicit	Rom. 11, 20	Rom 11:20	A	verse		
+bon-eccl-c7-v1	6	apparatus:p54-5	p54-5	scripture	apparatus-explicit	Ps. 33, 6	Ps 33:6	A	verse		
+bon-eccl-c7-v1	6	apparatus:p55-1	p55-1	crossref	logical	I. Sent. d. 19. p. I. dub. 8.	bon-sent-I-d19-p1-dubia		chunk		
+bon-eccl-c7-v1	6	apparatus:p55-1	p55-1	crossref	chain-continuation	d. 7. p. II. a. 1. q. 3.			dangling		
 bon-eccl-prooem	6	latin_body	p3-2	scripture	body-ordinal	ad Corinthios quarto	Cor* 4:18	B	verse		
 bon-eccl-prooem	6	latin_body		scripture	body-ordinal	Matthaei sexto	Matth 6	C	chapter		
 bon-eccl-prooem	6	latin_body	p3-5	scripture	body-ordinal	ad Timotheum sexto	Tim* 6:14	B	verse		

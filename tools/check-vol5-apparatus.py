@@ -3130,7 +3130,18 @@ KNOWN_TOTALS_VOL6 = {
              # Vers. 1 and are the NEXT chunk's, PENDING until it lands. Blocks:
              # L nn.1-4, R (n.4's tail) + nn.5-7. n.4 runs over the gutter: the
              # RIGHT block opens unnumbered, flush left, `Dominus novit... quoniam
-             # vanae sunt (codd. ...`.
+             # vanae sunt (codd. ...`. nn.5-7 LANDED with bon-eccl-c7-v1:
+             # anchors n.5 tertio, n.6 septimo LEFT, n.7 octavo RIGHT, all
+             # three printed in the RIGHT block (re-derived on the plate).
+    54: 9,   # all Cap. VII Vers. 1's Quaestiones I-III. Anchors L nn.1-6 /
+             # R nn.7-9; blocks L nn.1-8 / R (n.8's tail) + n.9. n.8 (Aristotle,
+             # de Anima III) runs over the gutter: the RIGHT block opens
+             # unnumbered, flush left, `quia omnia facit, ut habitus quidam...`.
+    55: 8,   # SHARED: n.1 is Cap. VII Vers. 1's (Q. III Respondeo's last word
+             # *rebus*, 2nd line of the LEFT column, above the class-3 heading
+             # `Secundo proponuntur documenta sapientiae...`); nn.2-8 anchor in
+             # Vers. 2-7 and are the NEXT chunk's, PENDING. Blocks (1/3 scale,
+             # count only): L nn.1-3 / R nn.4-8.
 }
 
 KNOWN_TOTALS_BY_VOL = {
