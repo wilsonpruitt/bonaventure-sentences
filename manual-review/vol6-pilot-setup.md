@@ -156,3 +156,14 @@ Corpus-wide; carried to p. 103.
     printed divisio claims it, not with the chapter number it happens to carry.** ⚠ The breadcrumb will read
     `Cap. 5, Vers. 1-8` although the chunk opens on Eccle. 4:17 — accepted cost; the `verses` field keeps the
     index's label so the build needs no new title shape.
+
+# RULING 16 — CAP. VII VERS. 1 AND THE QUAESTIONES AFTER IT (Wilson, 2026-10-04, at `bon-eccl-c6-v8-11`)
+
+16. **`bon-eccl-c7-v1` takes Eccle. 7:1 AND all the Quaestiones printed after it, including Q. I on 6:9;
+    `bon-eccl-c6-v8-11` is unchanged and closes above the full-width `CAPITULUM VII` heading (p. 53, ~41 %).**
+    Art. 3 announces three steps — 6:8–9, 6:10–11, *non inquirat sublimia* — and the third is expounded only
+    after the heading, at 7:1; the index files the Quaestiones under Cap. VII Vers. 1. **Why (a):** the printed
+    capitulum heading and the index agree, nothing already built changes, and Art. 3's steps still read in order
+    across the seam. ▶ **Distinguishes ruling 15:** there a verse had NO index line, so the divisio decided; here
+    both units have index lines and a printed heading stands between them, so the heading + index decide. Record
+    in `c7-v1`'s Notes that its first exposition completes Art. 3 of Cap. VI and that Q. I concerns 6:9.
