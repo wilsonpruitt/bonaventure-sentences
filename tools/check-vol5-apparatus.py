@@ -3141,7 +3141,14 @@ KNOWN_TOTALS_VOL6 = {
              # *rebus*, 2nd line of the LEFT column, above the class-3 heading
              # `Secundo proponuntur documenta sapientiae...`); nn.2-8 anchor in
              # Vers. 2-7 and are the NEXT chunk's, PENDING. Blocks (1/3 scale,
-             # count only): L nn.1-3 / R nn.4-8.
+             # count only): L nn.1-3 / R nn.4-8. nn.2-8 LANDED with
+             # bon-eccl-c7-v2-7: anchors L nn.2-4 / R nn.5-8 (re-derived on
+             # the plate); n.4 anchors LEFT, prints RIGHT.
+    56: 9,   # all Cap. VII Vers. 2-7's (expositio Vers. 6-7 + Quaestiones I-II).
+             # Anchors L nn.1-5 / R nn.6-9; blocks L nn.1-4 / R nn.5-9 (n.5
+             # anchors LEFT, prints RIGHT). No anchor below the class-3 heading
+             # `Secundo, documenta quatuor ad habendam constantiam.` (~3/5 down
+             # R) on this leaf, so Vers. 8-10 inherits nothing. No runover.
 }
 
 KNOWN_TOTALS_BY_VOL = {
