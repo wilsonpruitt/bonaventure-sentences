@@ -3104,6 +3104,12 @@ KNOWN_TOTALS_VOL6 = {
              # `aurum] quidem, quod ad animi bonum spectat ...`. Vers. 12-19 opens
              # ~52 % down p. 47 R but carries NO anchor on the leaf (p. 498 rule):
              # nothing forwards to it.
+    48: 9,   # all Cap. V Vers. 12-19: nn.1-5 anchor LEFT, nn.6-9 RIGHT; nn.1-4
+             # print LEFT (n.4 two-up on n.3's last line), nn.5-9 RIGHT (n.7
+             # two-up on n.6's last line). NO runover: both blocks open numbered.
+    49: 10,  # all Cap. V Vers. 12-19: nn.1-7 anchor LEFT, nn.8-10 RIGHT; nn.1-5
+             # print LEFT, nn.6-10 RIGHT (n.9 two-up on n.8's line). NO runover.
+             # p. 50 opens Capitulum VI (Vers. 1-7): nothing forwards.
 }
 
 KNOWN_TOTALS_BY_VOL = {
