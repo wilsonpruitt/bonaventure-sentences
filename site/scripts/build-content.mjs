@@ -489,6 +489,12 @@ const WORKS = {
       // full measure, ~73 % down the leaf, no subtitle). ⚠ The raw OCR DROPS
       // the heading entirely. Per ruling 15 that chunk opens on Eccle. 4:17.
       5: "Capitulum V",
+      // `CAPITULUM VI.` read in place on the plate at bon-eccl-c6-v1-7 (p. 50,
+      // full measure, centred at the HEAD of the leaf under the running head,
+      // no subtitle and no anchor — the next line is the class-3 heading
+      // `Tertio detestatur avaritiam…`). ⚠ The raw OCR DROPS the heading, as
+      // it dropped CAPITULUM V.
+      6: "Capitulum VI",
     },
   },
 };

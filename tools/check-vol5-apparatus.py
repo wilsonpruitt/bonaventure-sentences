@@ -3110,6 +3110,17 @@ KNOWN_TOTALS_VOL6 = {
     49: 10,  # all Cap. V Vers. 12-19: nn.1-7 anchor LEFT, nn.8-10 RIGHT; nn.1-5
              # print LEFT, nn.6-10 RIGHT (n.9 two-up on n.8's line). NO runover.
              # p. 50 opens Capitulum VI (Vers. 1-7): nothing forwards.
+    50: 8,   # all Cap. VI Vers. 1-7 (CAPITULUM VI. at the head of the leaf): nn.1-4
+             # anchor LEFT, nn.5-8 RIGHT; block 4/4 = anchor 4/4. NO runover:
+             # both blocks open numbered (L `1`, R `5`).
+    51: 8,   # all Cap. VI Vers. 1-7 (exposition + Quaestiones I-III): nn.1-5
+             # anchor LEFT, nn.6-8 RIGHT; block 5/3 = anchor 5/3. NO runover.
+    52: 8,   # SHARED: nn.1-3 are Cap. VI Vers. 1-7's (Q. III Respondeo and its
+             # two replies, all three anchors in the LEFT column above `Art. 3.`);
+             # nn.4-8 anchor in Art. 3 (Vers. 8-11) and are the NEXT chunk's,
+             # PENDING until it lands. Blocks: L nn.1-2, R nn.3-8. n.2 runs over
+             # the gutter: the RIGHT block opens unnumbered, flush left,
+             # `Cfr. ibid. q. 54. Vide etiam I. Sent. lit. Magistri ...`.
 }
 
 KNOWN_TOTALS_BY_VOL = {
