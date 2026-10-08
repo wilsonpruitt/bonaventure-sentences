@@ -3186,7 +3186,20 @@ KNOWN_TOTALS_VOL6 = {
              # II, above the full-measure `CAPITULUM VIII.` heading ~49% down);
              # L block nn.1-5 (n.5 runs over the gutter), R block nn.6-9.
              # nn.6-9 anchor BELOW the heading (sapiens 6 L, sapientia 7 L,
-             # octavo 8 R, septimo 9 R) and are bon-eccl-c8-v1-8's: PENDING.
+             # octavo 8 R, septimo 9 R) and are bon-eccl-c8-v1-8's (verified
+             # there for position, column and digits).
+    65: 9,   # all Cap. VIII Vers. 1-8's (Vers. 1-8 expositio). Anchors L nn.1-6
+             # / R nn.7-9; blocks L nn.1-5 / R nn.5 (tail)-9 (n.5 runs over the
+             # gutter; the signature `S. Bonav. -- Tom. VI.` and gathering `9`
+             # are not apparatus).
+    66: 10,  # all Cap. VIII Vers. 1-8's (Vers. 5-8 + Quaestiones I-II).
+             # Anchors L nn.1-3 / R nn.4-10; blocks L nn.1-6 / R nn.7-10 (n.10
+             # run-in on n.9's last line). No runover.
+    67: 8,   # nn.1-2 are Cap. VIII Vers. 1-8's (Quaestio II Respondeo, Quaestio
+             # III), above the in-column `ART. 2.` heading ~49% down the LEFT
+             # column; L block nn.1-3, R block nn.4-8. nn.3-8 anchor in Art. 2
+             # (decimo 3 L, nono 4 R, ibi 5 R, primo 6 R, tertio 7 R, octavo 8
+             # R) and are bon-eccl-c8-v9-13's: PENDING.
 }
 
 KNOWN_TOTALS_BY_VOL = {

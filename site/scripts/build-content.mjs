@@ -500,6 +500,13 @@ const WORKS = {
       // subtitle and no anchor — read at 2.5x; the next line is `(Vers. 1.)`).
       // The raw keeps it this time, garbled `Capitulum  VH.` (L11446).
       7: "Capitulum VII",
+      // `CAPITULUM VIII.` read in place on the plate at bon-eccl-c8-v1-8 (p. 64,
+      // full measure, centred, ~47 % down the leaf below c7-v24-30's close, no
+      // subtitle and no anchor — read at 2.5x; the next line is the class-3
+      // heading `Secundo, contra inventam concupiscentiam datur remedium
+      // sapientiae…`). The raw keeps it (`Capitulum  VIII.`, L13113). Per
+      // ruling 16 the chunk's first exposition is Eccle. 7:30b.
+      8: "Capitulum VIII",
     },
   },
 };

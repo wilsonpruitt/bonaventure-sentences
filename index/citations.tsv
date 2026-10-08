@@ -24748,6 +24748,68 @@ bon-eccl-c7-v8-10	6	apparatus:p57-9	p57-9	crossref	page	supra pag. 56, nota 9	bo
 bon-eccl-c7-v8-10	6	apparatus:p57-9	p57-9	scripture	apparatus-explicit	Ps. 4, 5	Ps 4:5	A	verse		
 bon-eccl-c7-v8-10	6	apparatus:p57-9	p57-9	scripture	apparatus-explicit	Prov. 27, 4	Prov 27:4	A	verse		
 bon-eccl-c7-v8-10	6	apparatus:p57-9	p57-9	crossref	logical	III. Sent. d. 15. a. 2. q. 3.	bon-sent-III-d15-a2-q3		chunk		
+bon-eccl-c8-v1-8	6	latin_body	p64-8	scripture	body-ordinal	Sapientiae octavo	Sap 8:10	B	verse		
+bon-eccl-c8-v1-8	6	latin_body		scripture	body-ordinal	Sapientiae octavo	Sap 8	C	chapter		
+bon-eccl-c8-v1-8	6	latin_body	p64-9	scripture	body-ordinal	Proverbiorum decimo septimo	Prov 17:24	B	verse		
+bon-eccl-c8-v1-8	6	latin_body		scripture	body-ordinal	Ecclesiastici decimo nono	Eccli 19	C	chapter		
+bon-eccl-c8-v1-8	6	latin_body	p65-2	scripture	body-ordinal	Iob trigesimo sexto	Iob 36:5	B	verse		
+bon-eccl-c8-v1-8	6	latin_body	p65-3	scripture	body-ordinal	Proverbiorum vigesimo primo	Prov 21:1	B	verse		
+bon-eccl-c8-v1-8	6	latin_body		scripture	body-ordinal	ad Hebraeos primo	Hebr 1	C	chapter		
+bon-eccl-c8-v1-8	6	latin_body		scripture	body-ordinal	Lucae undecimo	Luc 11	C	chapter		
+bon-eccl-c8-v1-8	6	latin_body		scripture	body-ordinal	Deuteronomii sexto	Deut 6	C	chapter		
+bon-eccl-c8-v1-8	6	latin_body	p65-5	scripture	body-ordinal	Matthaei vigesimo quarto	Matth 24:35	B	verse		
+bon-eccl-c8-v1-8	6	latin_body		scripture	body-ordinal	Exodi vigesimo quarto	Exod 24	C	chapter		
+bon-eccl-c8-v1-8	6	latin_body	p65-6	scripture	body-ordinal	Deuteronomii trigesimo secundo	Deut 32:15	B	verse		
+bon-eccl-c8-v1-8	6	latin_body		scripture	body-ordinal	Ecclesiastici decimo sexto	Eccli 16	C	chapter		
+bon-eccl-c8-v1-8	6	latin_body		scripture	body-ordinal	Ecclesiastici quinto	Eccli 5	C	chapter		
+bon-eccl-c8-v1-8	6	latin_body		scripture	body-ordinal	Isaiae quadragesimo sexto	Isai 46	C	chapter		
+bon-eccl-c8-v1-8	6	latin_body		scripture	body-ordinal	Ieremiae trigesimo secundo	Ierem 32	C	chapter		
+bon-eccl-c8-v1-8	6	latin_body		scripture	body-ordinal	Ad Romanos nono	Rom 9	C	chapter		
+bon-eccl-c8-v1-8	6	latin_body	p65-8	scripture	body-ordinal	Matthaei decimo nono	Matth 19:17	B	verse		
+bon-eccl-c8-v1-8	6	latin_body		scripture	body-ordinal	Ioannis octavo	Ioan 8	C	chapter		
+bon-eccl-c8-v1-8	6	latin_body	p65-9	scripture	body-ordinal	ad Ephesios quinto	Eph 5:15	B	verse		
+bon-eccl-c8-v1-8	6	latin_body		scripture	body-ordinal	ad Colossenses quarto	Col 4	C	chapter		
+bon-eccl-c8-v1-8	6	latin_body		scripture	body-ordinal	Ecclesiastici trigesimo octavo	Eccli 38	C	chapter		
+bon-eccl-c8-v1-8	6	latin_body		scripture	body-ordinal	ad Galatas sexto	Gal 6	C	chapter		
+bon-eccl-c8-v1-8	6	latin_body		scripture	body-ordinal	Iob decimo quarto	Iob 14	C	chapter		
+bon-eccl-c8-v1-8	6	latin_body	p66-3	scripture	body-ordinal	Sapientiae quinto	Sap 5:21	B	verse		
+bon-eccl-c8-v1-8	6	latin_body		scripture	body-ordinal	Apocalypsis sexto	Apoc 6	C	chapter		
+bon-eccl-c8-v1-8	6	latin_body		scripture	body-ordinal	Iob trigesimo sexto	Iob 36	C	chapter		
+bon-eccl-c8-v1-8	6	latin_body		scripture	body-ordinal	Proverbiorum undecimo	Prov 11	C	chapter		
+bon-eccl-c8-v1-8	6	latin_body		scripture	body-ordinal	Iob decimo	Iob 10	C	chapter		
+bon-eccl-c8-v1-8	6	latin_body	p66-4	scripture	body-ordinal	Matthaei quinto	Matth 5:37	B	verse		
+bon-eccl-c8-v1-8	6	apparatus:p64-8	p64-8	scripture	anaphor->body-ordinal	ibid.	Matth 5:37	B	verse	yes	Matthaei quinto
+bon-eccl-c8-v1-8	6	apparatus:p64-9	p64-9	scripture	apparatus-explicit	Eccli. 19, 26	Eccli 19:26	A	verse		
+bon-eccl-c8-v1-8	6	apparatus:p65-4	p65-4	scripture	apparatus-explicit	Hebr. 1, 1	Hebr 1:1	A	verse		
+bon-eccl-c8-v1-8	6	apparatus:p65-4	p65-4	scripture	apparatus-explicit	Luc. 11, 28	Luc 11:28	A	verse		
+bon-eccl-c8-v1-8	6	apparatus:p65-4	p65-4	scripture	apparatus-explicit	Deut. 6, 3	Deut 6:3	A	verse		
+bon-eccl-c8-v1-8	6	apparatus:p65-5	p65-5	scripture	apparatus-explicit	Exod. 24, 8	Exod 24:8	A	verse		
+bon-eccl-c8-v1-8	6	apparatus:p65-6	p65-6	scripture	apparatus-explicit	Eccli. 16, 16	Eccli 16:16	A	verse		
+bon-eccl-c8-v1-8	6	apparatus:p65-6	p65-6	scripture	apparatus-explicit	Gen. 4, 14	Gen 4:14	A	verse		
+bon-eccl-c8-v1-8	6	apparatus:p65-6	p65-6	scripture	apparatus-explicit	Eccli. 5, 8	Eccli 5:8	A	verse		
+bon-eccl-c8-v1-8	6	apparatus:p65-7	p65-7	scripture	apparatus-explicit	Psalm. 113, 11	Ps 113:11	A	verse		
+bon-eccl-c8-v1-8	6	apparatus:p65-7	p65-7	scripture	apparatus-explicit	Isai. 46, 10	Isai 46:10	A	verse		
+bon-eccl-c8-v1-8	6	apparatus:p65-7	p65-7	scripture	apparatus-explicit	Ps. 28, 4	Ps 28:4	A	verse		
+bon-eccl-c8-v1-8	6	apparatus:p65-7	p65-7	scripture	apparatus-explicit	Ier. 32, 17	Ierem 32:17	A	verse		
+bon-eccl-c8-v1-8	6	apparatus:p65-7	p65-7	scripture	apparatus-explicit	Rom. 9, 20	Rom 9:20	A	verse		
+bon-eccl-c8-v1-8	6	apparatus:p65-8	p65-8	scripture	apparatus-explicit	Ioan. 8, 31	Ioan 8:31	A	verse		
+bon-eccl-c8-v1-8	6	apparatus:p65-9	p65-9	scripture	apparatus-explicit	Col. 4, 5	Col 4:5	A	verse		
+bon-eccl-c8-v1-8	6	apparatus:p66-1	p66-1	scripture	apparatus-explicit	Eccli. 38, 25	Eccli 38:25	A	verse		
+bon-eccl-c8-v1-8	6	apparatus:p66-1	p66-1	scripture	apparatus-explicit	Ps. 118, 62	Ps 118:62	A	verse		
+bon-eccl-c8-v1-8	6	apparatus:p66-1	p66-1	scripture	apparatus-explicit	Gal. 6, 10	Gal 6:10	A	verse		
+bon-eccl-c8-v1-8	6	apparatus:p66-2	p66-2	scripture	apparatus-explicit	Eccle. 7, 1	Eccle 7:1	A	verse		
+bon-eccl-c8-v1-8	6	apparatus:p66-2	p66-2	scripture	apparatus-explicit	Iob 14, 5	Iob 14:5	A	verse		
+bon-eccl-c8-v1-8	6	apparatus:p66-3	p66-3	scripture	apparatus-explicit	Amos 2, 14	Amos 2:14	A	verse		
+bon-eccl-c8-v1-8	6	apparatus:p66-3	p66-3	scripture	apparatus-explicit	Apoc. 6, 16	Apoc 6:16	A	verse		
+bon-eccl-c8-v1-8	6	apparatus:p66-3	p66-3	scripture	apparatus-explicit	Iob 36, 6	Iob 36:6	A	verse		
+bon-eccl-c8-v1-8	6	apparatus:p66-3	p66-3	scripture	apparatus-explicit	Prov. 11, 4	Prov 11:4	A	verse		
+bon-eccl-c8-v1-8	6	apparatus:p66-3	p66-3	scripture	apparatus-explicit	Iob 10, 15	Iob 10:15	A	verse		
+bon-eccl-c8-v1-8	6	apparatus:p66-5	p66-5	scripture	apparatus-explicit	Hebr. 6, 18	Hebr 6:18	A	verse		
+bon-eccl-c8-v1-8	6	apparatus:p66-6	p66-6	scripture	apparatus-explicit	Hebr. 6, 16	Hebr 6:16	A	verse		
+bon-eccl-c8-v1-8	6	apparatus:p66-6	p66-6	scripture	anaphor->apparatus-explicit	ibid.	Hebr 6:16	A	verse	yes	Hebr. 6, 16
+bon-eccl-c8-v1-8	6	apparatus:p66-7	p66-7	scripture	anaphor->apparatus-explicit	ibid.	Hebr 6:16	A	verse	yes	Hebr. 6, 16
+bon-eccl-c8-v1-8	6	apparatus:p66-9	p66-9	scripture	apparatus-explicit	Hebr. 6, 13	Hebr 6:13	A	verse		
+bon-eccl-c8-v1-8	6	apparatus:p67-2	p67-2	crossref	logical	III. Sent. d. 36. q. 4.	bon-sent-III-d36-a1-q4		chunk		
 bon-eccl-prooem	6	latin_body	p3-2	scripture	body-ordinal	ad Corinthios quarto	Cor* 4:18	B	verse		
 bon-eccl-prooem	6	latin_body		scripture	body-ordinal	Matthaei sexto	Matth 6	C	chapter		
 bon-eccl-prooem	6	latin_body	p3-5	scripture	body-ordinal	ad Timotheum sexto	Tim* 6:14	B	verse		
