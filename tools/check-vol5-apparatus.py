@@ -3176,6 +3176,17 @@ KNOWN_TOTALS_VOL6 = {
              # line, n.11 on n.10's). Both blocks open numbered: no runover.
              # The pericope closes at the foot of p. 61; p. 62 opens with
              # `Pars III.` and its L block opens `1 Vers. 1.`, numbered.
+    62: 9,   # all Cap. VII Vers. 24-30's (Pars III, membrum I, Art. 1 and
+             # Vers. 24-27). Anchors L nn.1-4 / R nn.5-9; blocks L nn.1-6 /
+             # R nn.7-9 (nn.5-6 anchor R, print L). No runover.
+    63: 11,  # all Cap. VII Vers. 24-30's (Vers. 27-30 + Quaestio I). Anchors
+             # L nn.1-5 / R nn.6-11; blocks L nn.1-5 / R nn.5-11 (n.5, the
+             # Alcuin note, runs over the gutter; n.8 run-in on n.7's line).
+    64: 9,   # nn.1-5 are Cap. VII Vers. 24-30's (Quaestio I tail + Quaestio
+             # II, above the full-measure `CAPITULUM VIII.` heading ~49% down);
+             # L block nn.1-5 (n.5 runs over the gutter), R block nn.6-9.
+             # nn.6-9 anchor BELOW the heading (sapiens 6 L, sapientia 7 L,
+             # octavo 8 R, septimo 9 R) and are bon-eccl-c8-v1-8's: PENDING.
 }
 
 KNOWN_TOTALS_BY_VOL = {
