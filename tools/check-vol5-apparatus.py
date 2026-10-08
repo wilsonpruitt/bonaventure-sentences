@@ -3199,7 +3199,17 @@ KNOWN_TOTALS_VOL6 = {
              # III), above the in-column `ART. 2.` heading ~49% down the LEFT
              # column; L block nn.1-3, R block nn.4-8. nn.3-8 anchor in Art. 2
              # (decimo 3 L, nono 4 R, ibi 5 R, primo 6 R, tertio 7 R, octavo 8
-             # R) and are bon-eccl-c8-v9-13's: PENDING.
+             # R) and are bon-eccl-c8-v9-13's (re-derived there on the plate,
+             # position, column and digits confirmed; `Matth. 8; 22` semicolon
+             # and `Seq locus` without point settled at 4x).
+    68: 11,  # all Cap. VIII Vers. 9-13's (Vers. 9-13 + Quaestio I's args).
+             # Anchors L nn.1-5 / R nn.6-11; blocks L nn.1-6 / R nn.7-11
+             # (n.6 anchors R, prints L). No runover.
+    69: 10,  # nn.1-8 are Cap. VIII Vers. 9-13's (Quaestiones I-II), above the
+             # in-column class-3 `Secundo, de bonorum adversitate.` ~13% down
+             # the RIGHT column; L block nn.1-4, R block n.4 (tail)-10 -- n.4
+             # runs over the gutter. nn.9-10 anchor below that heading
+             # (undecimo 9 R, sexto 10 R) and are bon-eccl-c8-v14-15's: PENDING.
 }
 
 KNOWN_TOTALS_BY_VOL = {

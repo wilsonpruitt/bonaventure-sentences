@@ -24810,6 +24810,55 @@ bon-eccl-c8-v1-8	6	apparatus:p66-6	p66-6	scripture	anaphor->apparatus-explicit	i
 bon-eccl-c8-v1-8	6	apparatus:p66-7	p66-7	scripture	anaphor->apparatus-explicit	ibid.	Hebr 6:16	A	verse	yes	Hebr. 6, 16
 bon-eccl-c8-v1-8	6	apparatus:p66-9	p66-9	scripture	apparatus-explicit	Hebr. 6, 13	Hebr 6:13	A	verse		
 bon-eccl-c8-v1-8	6	apparatus:p67-2	p67-2	crossref	logical	III. Sent. d. 36. q. 4.	bon-sent-III-d36-a1-q4		chunk		
+bon-eccl-c8-v9-13	6	latin_body	p67-7	scripture	body-ordinal	ad Timotheum tertio	Tim* 3:1	B	verse		
+bon-eccl-c8-v9-13	6	latin_body		scripture	body-ordinal	Ecclesiastici septimo	Eccli 7	C	chapter		
+bon-eccl-c8-v9-13	6	latin_body	p67-8	scripture	body-ordinal	Proverbiorum decimo octavo	Prov 18:3	B	verse		
+bon-eccl-c8-v9-13	6	latin_body		scripture	body-ordinal	Matthaei octavo	Matth 8	C	chapter		
+bon-eccl-c8-v9-13	6	latin_body	p68-1	scripture	body-ordinal	Regum decimo sexto	Reg* 16:18	B	verse		
+bon-eccl-c8-v9-13	6	latin_body		scripture	body-ordinal	Ioannis octavo	Ioan 8	C	chapter		
+bon-eccl-c8-v9-13	6	latin_body		scripture	body-ordinal	Matthaei vigesimo quarto	Matth 24	C	chapter		
+bon-eccl-c8-v9-13	6	latin_body		scripture	body-ordinal	Proverbiorum vigesimo octavo	Prov 28	C	chapter		
+bon-eccl-c8-v9-13	6	latin_body	p68-3	scripture	body-ordinal	Petri tertio	Petr* 3:9	B	verse		
+bon-eccl-c8-v9-13	6	latin_body	p68-4	scripture	body-ordinal	Proverbiorum vigesimo octavo	Prov 28:5	B	verse		
+bon-eccl-c8-v9-13	6	latin_body		scripture	body-ordinal	Isaiae vigesimo sexto	Isai 26	C	chapter		
+bon-eccl-c8-v9-13	6	latin_body	p68-5	scripture	body-ordinal	Ieremiae secundo	Ierem 2:36	B	verse		
+bon-eccl-c8-v9-13	6	latin_body		scripture	body-ordinal	ad Romanos secundo	Rom 2	C	chapter		
+bon-eccl-c8-v9-13	6	latin_body		scripture	body-ordinal	Threnorum tertio	Thren 3	C	chapter		
+bon-eccl-c8-v9-13	6	latin_body	p68-6	scripture	body-ordinal	Proverbiorum decimo sexto	Prov 16:6	B	verse		
+bon-eccl-c8-v9-13	6	latin_body		scripture	body-ordinal	Iob trigesimo primo	Iob 31	C	chapter		
+bon-eccl-c8-v9-13	6	latin_body	p68-8	scripture	body-ordinal	Proverbiorum decimo	Prov 10:27	B	verse		
+bon-eccl-c8-v9-13	6	latin_body		scripture	body-ordinal	Sapientiae quinto	Sap 5	C	chapter		
+bon-eccl-c8-v9-13	6	latin_body	p68-9	scripture	body-ordinal	ad Romanos decimo tertio	Rom 13:1	B	verse		
+bon-eccl-c8-v9-13	6	latin_body	p68-11	scripture	body-ordinal	ad Ephesios sexto	Eph 6:5	B	verse		
+bon-eccl-c8-v9-13	6	latin_body		scripture	apparatus-explicit	Iacob. 1	Iac 1	C	chapter		
+bon-eccl-c8-v9-13	6	latin_body	p69-6	scripture	body-ordinal	Threnorum tertio	Thren 3:22	B	verse		
+bon-eccl-c8-v9-13	6	latin_body	p69-7	scripture	body-ordinal	ad Romanos secundo	Rom 2:4	B	verse		
+bon-eccl-c8-v9-13	6	apparatus:p67-5	p67-5	scripture	anaphor->body-ordinal	ibid.	Rom 2:4	B	verse	yes	ad Romanos secundo
+bon-eccl-c8-v9-13	6	apparatus:p67-7	p67-7	scripture	apparatus-explicit	Eccli. 7, 8	Eccli 7:8	A	verse		
+bon-eccl-c8-v9-13	6	apparatus:p67-8	p67-8	scripture	apparatus-explicit	Matth. 8	Matth 8	C	chapter		
+bon-eccl-c8-v9-13	6	apparatus:p67-8	p67-8	scripture	apparatus-explicit	Luc. 9, 60	Luc 9:60	A	verse		
+bon-eccl-c8-v9-13	6	apparatus:p68-1	p68-1	scripture	apparatus-explicit	Ioan. 8, 21	Ioan 8:21	A	verse		
+bon-eccl-c8-v9-13	6	apparatus:p68-1	p68-1	scripture	apparatus-explicit	Matth. 24, 15	Matth 24:15	A	verse		
+bon-eccl-c8-v9-13	6	apparatus:p68-2	p68-2	scripture	apparatus-explicit	Psalm. 10, 3	Ps 10:3	A	verse		
+bon-eccl-c8-v9-13	6	apparatus:p68-2	p68-2	scripture	apparatus-explicit	Prov. 28, 4	Prov 28:4	A	verse		
+bon-eccl-c8-v9-13	6	apparatus:p68-4	p68-4	scripture	apparatus-explicit	Isai. 26, 10	Isai 26:10	A	verse		
+bon-eccl-c8-v9-13	6	apparatus:p68-5	p68-5	scripture	apparatus-explicit	Rom. 2, 4	Rom 2:4	A	verse		
+bon-eccl-c8-v9-13	6	apparatus:p68-5	p68-5	scripture	apparatus-explicit	Thren. 3, 22	Thren 3:22	A	verse		
+bon-eccl-c8-v9-13	6	apparatus:p68-6	p68-6	scripture	apparatus-explicit	Iob 31, 23	Iob 31:23	A	verse		
+bon-eccl-c8-v9-13	6	apparatus:p68-7	p68-7	scripture	apparatus-explicit	Psalm. 9, 18	Ps 9:18	A	verse		
+bon-eccl-c8-v9-13	6	apparatus:p68-7	p68-7	scripture	apparatus-explicit	Isai. 26, 10	Isai 26:10	A	verse		
+bon-eccl-c8-v9-13	6	apparatus:p68-8	p68-8	scripture	apparatus-explicit	Ps. 54, 24	Ps 54:24	A	verse		
+bon-eccl-c8-v9-13	6	apparatus:p68-8	p68-8	scripture	apparatus-explicit	Ps. 36, 35	Ps 36:35	A	verse		
+bon-eccl-c8-v9-13	6	apparatus:p68-8	p68-8	scripture	apparatus-explicit	Sap. 5, 9	Sap 5:9	A	verse		
+bon-eccl-c8-v9-13	6	apparatus:p68-9	p68-9	scripture	anaphor->apparatus-explicit	ibid.	Sap 5:9	A	verse	yes	Sap. 5, 9
+bon-eccl-c8-v9-13	6	apparatus:p68-11	p68-11	scripture	apparatus-explicit	Col. 3, 22	Col 3:22	A	verse		
+bon-eccl-c8-v9-13	6	apparatus:p69-1	p69-1	scripture	anaphor->apparatus-explicit	ibid.	Col 3:22	A	verse	yes	Col. 3, 22
+bon-eccl-c8-v9-13	6	apparatus:p69-3	p69-3	scripture	apparatus-explicit	Gen. 9, 25	Gen 9:25	A	verse		
+bon-eccl-c8-v9-13	6	apparatus:p69-4	p69-4	scripture	apparatus-explicit	Gen. 1, 26	Gen 1:26	A	verse		
+bon-eccl-c8-v9-13	6	apparatus:p69-5	p69-5	crossref	logical	II. Sent. d. 44. a. 2. q. 1.	bon-sent-II-d44-a2-q1		chunk		
+bon-eccl-c8-v9-13	6	apparatus:p69-8	p69-8	scripture	apparatus-explicit	Apoc. 22, 11	Apoc 22:11	A	verse		
+bon-eccl-c8-v9-13	6	apparatus:p69-8	p69-8	crossref	logical	I. Sent. d. 40. a. 4. q. 2.	bon-sent-I-d40-a4-q2		chunk		
+bon-eccl-c8-v9-13	6	apparatus:p69-8	p69-8	crossref	chain-continuation	d. 46. q. 3.	bon-sent-I-d46-a1-q3		chunk		
 bon-eccl-prooem	6	latin_body	p3-2	scripture	body-ordinal	ad Corinthios quarto	Cor* 4:18	B	verse		
 bon-eccl-prooem	6	latin_body		scripture	body-ordinal	Matthaei sexto	Matth 6	C	chapter		
 bon-eccl-prooem	6	latin_body	p3-5	scripture	body-ordinal	ad Timotheum sexto	Tim* 6:14	B	verse		
