@@ -185,3 +185,18 @@ Corpus-wide; carried to p. 103.
     `title_la` is the first sentence of its divisio after the lemma** (italics dropped in the title fields). Extends
     the `c7-v1` / `c9-v1-3` "first sentence" precedent from an exposition below a capitulum heading to a divisio with
     no heading at all.
+
+# RULING 18 — THE FORM OF THE SCHEMATA (Wilson, 2026-10-11, at `bon-eccl-scholion`)
+
+18. **The Schemata (pp. 100–103, `Schema I.`–`IV.`) render as NESTED INDENTED OUTLINES, in Latin and in English,
+    each branch keeping its verse range** (e.g. *titulus* 1,1 · *tractatus* 1,3–12,8 · *epilogus* 12,9–14). Chosen
+    over tables and over plate images. **Why:** an outline is searchable, reads on a phone, and is consistent with the
+    rest of the site, where every other unit is text; a table cannot carry a bracket-tree's depth without merged cells,
+    and an image is neither searchable nor translatable. This is the form ruling 3 left open (*a schema's form is
+    decided when reached*); ruling 3 still governs that the Schemata are their own chunk(s), rendered in full. ▶ The
+    Scholion's own section II says what the schemata are for — *multitudinem divisionum et principalium sententiarum,
+    quae sunt in expositione litterali … in uno conspectu* — so each branch carries its divisio member WITH its
+    governing sentence, and the outline's job is the single view. ⛔ Nothing printed is dropped: the rotated part-title,
+    every bracket member, every verse range, p. 100's one footnote, and p. 103's closing line *(Post tertiam partem
+    sequitur conclusio…)* are all transcribed as printed (ruling 9). ▶ **General rule for Vols VI–X:** a printed
+    bracket-tree schema is rendered as a nested indented outline in both languages, its addresses kept verbatim.

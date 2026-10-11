@@ -531,6 +531,12 @@ const WORKS = {
       // italic in-column `Partis tertiae membrum II.` and `Art. 1. Poena, quae
       // est pura afflictio, describitur generaliter.` (the chunk's title_la).
       12: "Capitulum XII",
+      // The work-level `SCHOLION.` read in place on the plate at bon-eccl-scholion
+      // (p. 99, full measure, letter-spaced, ~0.41 of the leaf below the
+      // `EXPLICIT ECCLESIASTES` colophon; no anchor). The next division after the
+      // last capitulum, on the bon-itin-scholion (8) / bon-hex-scholion (24)
+      // precedent; the chunk title is caught type-first ("Scholion").
+      13: "Scholion",
     },
   },
 };
