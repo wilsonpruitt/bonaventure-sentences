@@ -513,6 +513,12 @@ const WORKS = {
       // chunk's first exposition is the second member of c8-v16-17's p. 71
       // subdivisio (ruling-16 shape).
       9: "Capitulum IX",
+      // `CAPITULUM X.` read in place on the plate at bon-eccl-c10-v1-3 (p. 79,
+      // full measure, centred, ~51 % down the leaf below c9-v13-18's close, no
+      // subtitle and no anchor). The raw OMITS it (L15344-15345 blank). The
+      // chunk's first expositions complete c9-v13-18's second part (ruling-16
+      // shape).
+      10: "Capitulum X",
     },
   },
 };

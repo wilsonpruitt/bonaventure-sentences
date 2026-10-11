@@ -3264,8 +3264,16 @@ KNOWN_TOTALS_VOL6 = {
              # subtitle, no anchor; the raw OMITS it). Anchors L nn.1-3 /
              # R nn.4-5; blocks L nn.1-5 / R nn.6-8; n.5 runs over the gutter.
              # nn.6-8 anchor below the heading (primae Ioannis secundo 6,
-             # supra quarto 7, Matthaei vigesimo quinto 8) -- PENDING until
-             # bon-eccl-c10-v1-3 lands.
+             # supra quarto 7, Matthaei vigesimo quinto 8) and are
+             # bon-eccl-c10-v1-3's (verified there for position, column and
+             # digits).
+    80: 11,  # nn.1-9 are Cap. X Vers. 1-3's (10:1-3 expositio + the Quaestio
+             # on 9:18), above the HEADING-LESS divisio paragraph `Si spiritus
+             # potestatem habentis. Praemissa est...` (marginale `De 3. parte.`,
+             # ~40% of the leaf, RIGHT column). Anchors L nn.1-8 / R n.9;
+             # blocks L nn.1-7 / R nn.8-11. No runover. nn.10-11 anchor below
+             # the seam (Isaiae secundo 10, Lucae vigesimo primo 11, R) and are
+             # bon-eccl-c10-v4-7's: PENDING.
 }
 
 KNOWN_TOTALS_BY_VOL = {

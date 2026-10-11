@@ -23887,6 +23887,26 @@ bon-eccl-c1-v8-11	6	apparatus:p16-3	p16-3	scripture	apparatus-explicit	Eccle. 2,
 bon-eccl-c1-v8-11	6	apparatus:p17-5	p17-5	crossref	page	tom. III. pag. 39	bon-sent-III-d2-a1-q1+bon-sent-III-d2-a1-q2		page-multi		
 bon-eccl-c1-v8-11	6	apparatus:p17-7	p17-7	crossref	logical	II. Sent. d. 15. a. 2. q. 3.	bon-sent-II-d15-a2-q3		chunk		
 bon-eccl-c1-v8-11	6	apparatus:p17-8	p17-8	scripture	apparatus-explicit	Psalm. 76, 12	Ps 76:12	A	verse		
+bon-eccl-c10-v1-3	6	latin_body	p79-6	scripture	body-ordinal	Ioannis secundo	Ioan 2:27	B	verse		
+bon-eccl-c10-v1-3	6	latin_body		scripture	body-ordinal	Proverbiorum vigesimo septimo	Prov 27	C	chapter		
+bon-eccl-c10-v1-3	6	latin_body	p79-8	scripture	body-ordinal	Matthaei vigesimo quinto	Matth 25:33	B	verse		
+bon-eccl-c10-v1-3	6	latin_body		scripture	body-ordinal	Proverbiorum decimo	Prov 10	C	chapter		
+bon-eccl-c10-v1-3	6	latin_body		scripture	body-ordinal	Proverbiorum tertio	Prov 3	C	chapter		
+bon-eccl-c10-v1-3	6	latin_body	p80-2	scripture	body-ordinal	Proverbiorum duodecimo	Prov 12:15	B	verse		
+bon-eccl-c10-v1-3	6	latin_body		scripture	body-ordinal	Proverbiorum vigesimo sexto	Prov 26	C	chapter		
+bon-eccl-c10-v1-3	6	latin_body	p80-6	scripture	body-ordinal	Iacobi secundo	Iac 2:10	B	verse		
+bon-eccl-c10-v1-3	6	apparatus:p79-6	p79-6	scripture	apparatus-explicit	Prov. 27, 9	Prov 27:9	A	verse		
+bon-eccl-c10-v1-3	6	apparatus:p79-8	p79-8	scripture	apparatus-explicit	Prov. 10, 32	Prov 10:32	A	verse		
+bon-eccl-c10-v1-3	6	apparatus:p79-8	p79-8	scripture	apparatus-explicit	Cant. 2, 6	Cant 2:6	A	verse		
+bon-eccl-c10-v1-3	6	apparatus:p80-2	p80-2	scripture	apparatus-explicit	Eccle. 2, 14	Eccle 2:14	A	verse		
+bon-eccl-c10-v1-3	6	apparatus:p80-2	p80-2	scripture	apparatus-explicit	Prov. 26, 16	Prov 26:16	A	verse		
+bon-eccl-c10-v1-3	6	apparatus:p80-4	p80-4	scripture	apparatus-explicit	Thren. 2, 5	Thren 2:5	A	verse		
+bon-eccl-c10-v1-3	6	apparatus:p80-4	p80-4	scripture	apparatus-explicit	Sap. 11, 27	Sap 11:27	A	verse		
+bon-eccl-c10-v1-3	6	apparatus:p80-4	p80-4	crossref	logical	IV. Sent. d. 46. a. 2. q. 2.	bon-sent-IV-d46-a2-q2		chunk		
+bon-eccl-c10-v1-3	6	apparatus:p80-5	p80-5	crossref	logical	III. Sent. d. 36. q. 1.	bon-sent-III-d36-a1-q1		chunk		
+bon-eccl-c10-v1-3	6	apparatus:p80-6	p80-6	crossref	page	supra pag. 79, nota 5	bon-eccl-c10-v1-3+bon-eccl-c9-v13-18		page-multi		
+bon-eccl-c10-v1-3	6	apparatus:p80-8	p80-8	crossref	logical	III. Sent. d. 36. q. 1.	bon-sent-III-d36-a1-q1		chunk		
+bon-eccl-c10-v1-3	6	apparatus:p80-9	p80-9	crossref	logical	III. Sent. d. 36. q. 4.	bon-sent-III-d36-a1-q4		chunk		
 bon-eccl-c2-v1-3	6	latin_body		scripture	body-ordinal	Isaiae vigesimo secundo	Isai 22	C	chapter		
 bon-eccl-c2-v1-3	6	latin_body		scripture	body-ordinal	Sapientiae secundo	Sap 2	C	chapter		
 bon-eccl-c2-v1-3	6	latin_body		scripture	body-ordinal	Proverbiorum septimo	Prov 7	C	chapter		
