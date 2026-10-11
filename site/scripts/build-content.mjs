@@ -525,6 +525,12 @@ const WORKS = {
       // small-bold `Secundo datur remedium contra vanitatem securitatis ortam
       // ex defectu retributionis iustitiae.` (the chunk's title_la).
       11: "Capitulum XI",
+      // `CAPITULUM XII.` read in place on the plate at bon-eccl-c12-v1-14 (p. 92,
+      // full measure, centred, ~0.11 of the leaf below two lines of Cap. XI,
+      // no subtitle and no anchor; the raw keeps it, L17198). Below it the
+      // italic in-column `Partis tertiae membrum II.` and `Art. 1. Poena, quae
+      // est pura afflictio, describitur generaliter.` (the chunk's title_la).
+      12: "Capitulum XII",
     },
   },
 };

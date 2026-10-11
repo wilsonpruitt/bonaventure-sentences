@@ -3325,7 +3325,33 @@ KNOWN_TOTALS_VOL6 = {
     92: 11,  # n.1 is Cap. XI Vers. 1-10's (primae Ioannis secundo 1, LEFT, the
              # two lines heading the leaf above the full-measure `Capitulum
              # XII.` heading, ~0.10 of the leaf); nn.2-11 anchor below the
-             # heading and are Cap. XII Vers. 1-14's: PENDING.
+             # heading and are Cap. XII Vers. 1-14's (n.2 at Ecclesiastici
+             # decimo septimo 2, LEFT -- NOT at *laudem*, whose raised speck has
+             # no seat). Anchors L nn.1-4 / R nn.5-11; blocks L nn.1-7 / R
+             # nn.8-11 (nn.5-7 anchor RIGHT, print LEFT). No runover. Gutter
+             # 1136 below the heading.
+    93: 8,   # all Cap. XII Vers. 1-14's (12:2-4, Art. 2, De miseriis mortem
+             # antecedentibus). Anchors L nn.1-4 / R nn.5-8; blocks L nn.1-4 /
+             # R n.4 (tail), 5-8. n.4 (Aristotle) RUNS OVER the gutter. Gutter 930.
+    94: 6,   # all Cap. XII Vers. 1-14's (12:4-6). Anchors L nn.1-2 / R nn.3-6;
+             # blocks L nn.1-4 / R n.4 (tail), 5-6 (nn.3-4 anchor RIGHT, print
+             # LEFT). n.4 RUNS OVER the gutter. Gutter 1127.
+    95: 8,   # all Cap. XII Vers. 1-14's (12:6-7 and the spiritual exposition).
+             # Anchors L nn.1-4 / R nn.5-8; blocks L nn.1-4 / R n.4 (tail), 5-8.
+             # n.4 RUNS OVER the gutter. Gutter 921.
+    96: 8,   # all Cap. XII Vers. 1-14's. Anchors L nn.1-4 / R nn.5-8; blocks
+             # L nn.1-3 / R nn.4-8 (n.4 anchors LEFT, prints RIGHT). No runover.
+             # Gutter 1128.
+    97: 10,  # all Cap. XII Vers. 1-14's (12:6-10, the Conclusio and Epilogus).
+             # Anchors L nn.1-6 / R nn.7-10; blocks L nn.1-5 / R nn.6-10 (n.6
+             # anchors LEFT, prints RIGHT). n.5 ends on a printed `;`, no
+             # runover. Gutter 916.
+    98: 10,  # all Cap. XII Vers. 1-14's (12:10-13). Anchors L nn.1-5 / R
+             # nn.6-10; blocks L nn.1-6 / R nn.7-10 (n.6 anchors RIGHT, prints
+             # LEFT). No runover. Gutter 1140.
+    99: 4,   # all Cap. XII Vers. 1-14's: n.1 L, nn.2-3 R, n.4 on the
+             # full-measure `EXPLICIT ECCLESIASTES` colophon. Blocks L nn.1-2 /
+             # R nn.3-4. The SCHOLION below carries no anchor. Gutter 916.
 }
 
 KNOWN_TOTALS_BY_VOL = {
