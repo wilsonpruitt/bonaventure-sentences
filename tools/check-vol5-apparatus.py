@@ -3296,7 +3296,20 @@ KNOWN_TOTALS_VOL6 = {
              # praeficitur praelatus stultus.` (~0.48 of the leaf, R column).
              # Anchors L nn.1-4 / R nn.5-8; blocks L nn.1-4 / R nn.5-8. No
              # runover. n.8 anchors below the heading (Ecclesiastici
-             # vigesimo 8, R) and is the next chunk's: PENDING.
+             # vigesimo 8, R) and is bon-eccl-c10-v12-20's (verified there
+             # for position, column and digit; ends complete, p.85's LEFT
+             # block opens numbered 1 -- nothing crosses to p.85).
+    85: 6,   # all Cap. X Vers. 12-20's. Anchors L nn.1-3 / R nn.4-6; blocks
+             # L nn.1-4 / R nn.5-6 (n.4 anchors RIGHT, prints LEFT). No
+             # runover. Leaf ~9 px askew (rule 929 -> 938); one split at 932.
+    86: 9,   # all Cap. X Vers. 12-20's. Anchors L nn.1-5 / R nn.6-9; blocks
+             # L nn.1-4 / R n.4 (tail), 5-9 (n.5 anchors LEFT, prints RIGHT).
+             # n.4 RUNS OVER the gutter. Gutter 1115.
+    87: 7,   # all Cap. X Vers. 12-20's (10:20 expositio + the two
+             # Quaestiones), above the full-measure `Capitulum XI.` heading
+             # (~0.61 of the leaf); nothing below the heading is anchored.
+             # Anchors L nn.1-4 / R nn.5-7; blocks agree. n.4 RUNS OVER the
+             # gutter. p.88's LEFT block opens numbered 1.
 }
 
 KNOWN_TOTALS_BY_VOL = {

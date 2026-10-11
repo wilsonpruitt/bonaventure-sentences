@@ -23907,6 +23907,82 @@ bon-eccl-c10-v1-3	6	apparatus:p80-5	p80-5	crossref	logical	III. Sent. d. 36. q. 
 bon-eccl-c10-v1-3	6	apparatus:p80-6	p80-6	crossref	page	supra pag. 79, nota 5	bon-eccl-c10-v1-3+bon-eccl-c9-v13-18		page-multi		
 bon-eccl-c10-v1-3	6	apparatus:p80-8	p80-8	crossref	logical	III. Sent. d. 36. q. 1.	bon-sent-III-d36-a1-q1		chunk		
 bon-eccl-c10-v1-3	6	apparatus:p80-9	p80-9	crossref	logical	III. Sent. d. 36. q. 4.	bon-sent-III-d36-a1-q4		chunk		
+bon-eccl-c10-v12-20	6	latin_body	p84-8	scripture	body-ordinal	Ecclesiastici vigesimo	Eccli 20:13	B	verse		
+bon-eccl-c10-v12-20	6	latin_body		scripture	body-ordinal	Proverbiorum decimo octavo	Prov 18	C	chapter		
+bon-eccl-c10-v12-20	6	latin_body		scripture	body-ordinal	Proverbiorum vigesimo nono	Prov 29	C	chapter		
+bon-eccl-c10-v12-20	6	latin_body	p85-1	scripture	body-ordinal	Proverbiorum decimo quarto	Prov 14:8	B	verse		
+bon-eccl-c10-v12-20	6	latin_body		scripture	body-ordinal	Proverbiorum decimo nono	Prov 19	C	chapter		
+bon-eccl-c10-v12-20	6	latin_body		scripture	body-ordinal	Proverbiorum decimo quarto	Prov 14	C	chapter		
+bon-eccl-c10-v12-20	6	latin_body	p85-2	scripture	body-ordinal	Iacobi primo	Iac 1:24	B	verse		
+bon-eccl-c10-v12-20	6	latin_body		scripture	body-ordinal	Deuteronomii trigesimo secundo	Deut 32	C	chapter		
+bon-eccl-c10-v12-20	6	latin_body	p85-3	scripture	body-ordinal	Ieremiae nono	Ierem 9:5	B	verse		
+bon-eccl-c10-v12-20	6	latin_body		scripture	body-ordinal	Sapientiae quinto	Sap 5	C	chapter		
+bon-eccl-c10-v12-20	6	latin_body		scripture	body-ordinal	Isaiae vigesimo sexto	Isai 26	C	chapter		
+bon-eccl-c10-v12-20	6	latin_body		scripture	body-ordinal	Lucae secundo	Luc 2	C	chapter		
+bon-eccl-c10-v12-20	6	latin_body		scripture	body-ordinal	Ioannis septimo	Ioan 7	C	chapter		
+bon-eccl-c10-v12-20	6	latin_body		scripture	body-ordinal	Iob decimo octavo	Iob 18	C	chapter		
+bon-eccl-c10-v12-20	6	latin_body		scripture	body-ordinal	Danielis undecimo	Dan 11	C	chapter		
+bon-eccl-c10-v12-20	6	latin_body		scripture	body-ordinal	ad Thessalonicenses secundo	Thess* 2	C	chapter		
+bon-eccl-c10-v12-20	6	latin_body	p85-6	scripture	body-ordinal	ad Thessalonicenses secundo	Thess* 2:8	B	verse		
+bon-eccl-c10-v12-20	6	latin_body		scripture	body-ordinal	Isaiae tertio	Isai 3	C	chapter		
+bon-eccl-c10-v12-20	6	latin_body	p86-2	scripture	body-ordinal	Proverbiorum vigesimo	Prov 20:1	B	verse		
+bon-eccl-c10-v12-20	6	latin_body		scripture	body-ordinal	Petri secundo	Petr* 2	C	chapter		
+bon-eccl-c10-v12-20	6	latin_body	p86-5	scripture	body-ordinal	Proverbiorum decimo octavo	Prov 18:9	B	verse		
+bon-eccl-c10-v12-20	6	latin_body		scripture	body-ordinal	Ecclesiastici vigesimo septimo	Eccli 27	C	chapter		
+bon-eccl-c10-v12-20	6	latin_body	p86-6	scripture	body-ordinal	Proverbiorum vigesimo septimo	Prov 27:15	B	verse		
+bon-eccl-c10-v12-20	6	latin_body		scripture	body-ordinal	ad Hebraeos duodecimo	Hebr 12	C	chapter		
+bon-eccl-c10-v12-20	6	latin_body		scripture	body-ordinal	Lucae duodecimo	Luc 12	C	chapter		
+bon-eccl-c10-v12-20	6	latin_body		scripture	body-ordinal	Iacobi quinto	Iac 5	C	chapter		
+bon-eccl-c10-v12-20	6	latin_body		scripture	body-ordinal	Isaiae quinto	Isai 5	C	chapter		
+bon-eccl-c10-v12-20	6	latin_body	p86-8	scripture	body-ordinal	Isaiae primo	Isai 1:23	B	verse		
+bon-eccl-c10-v12-20	6	latin_body		scripture	body-ordinal	Ieremiae sexto	Ierem 6	C	chapter		
+bon-eccl-c10-v12-20	6	latin_body	p86-9	scripture	body-ordinal	Exodi vigesimo secundo	Exod 22:28	B	verse		
+bon-eccl-c10-v12-20	6	latin_body		scripture	body-ordinal	ad Romanos duodecimo	Rom 12	C	chapter		
+bon-eccl-c10-v12-20	6	latin_body		scripture	body-ordinal	Petri tertio	Petr* 3	C	chapter		
+bon-eccl-c10-v12-20	6	latin_body	p87-1	scripture	body-ordinal	Genesis decimo quinto	Gen 15:11	B	verse		
+bon-eccl-c10-v12-20	6	latin_body		scripture	body-ordinal	Matthaei decimo tertio	Matth 13	C	chapter		
+bon-eccl-c10-v12-20	6	latin_body	p87-2	scripture	body-ordinal	Matthaei decimo	Matth 10:26	B	verse		
+bon-eccl-c10-v12-20	6	latin_body		scripture	body-ordinal	Apocalypsis duodecimo	Apoc 12	C	chapter		
+bon-eccl-c10-v12-20	6	apparatus:p84-8	p84-8	scripture	apparatus-explicit	Prov. 18, 7	Prov 18:7	A	verse		
+bon-eccl-c10-v12-20	6	apparatus:p85-1	p85-1	scripture	apparatus-explicit	Eccle. 2, 14	Eccle 2:14	A	verse		
+bon-eccl-c10-v12-20	6	apparatus:p85-1	p85-1	scripture	apparatus-explicit	Ps. 140, 4	Ps 140:4	A	verse		
+bon-eccl-c10-v12-20	6	apparatus:p85-1	p85-1	scripture	apparatus-explicit	Prov. 19, 7	Prov 19:7	A	verse		
+bon-eccl-c10-v12-20	6	apparatus:p85-2	p85-2	scripture	apparatus-explicit	Eccle. 8, 7	Eccle 8:7	A	verse		
+bon-eccl-c10-v12-20	6	apparatus:p85-2	p85-2	scripture	apparatus-explicit	Deut. 32, 29	Deut 32:29	A	verse		
+bon-eccl-c10-v12-20	6	apparatus:p85-3	p85-3	scripture	apparatus-explicit	Sap. 5, 7	Sap 5:7	A	verse		
+bon-eccl-c10-v12-20	6	apparatus:p85-3	p85-3	scripture	apparatus-explicit	Isai. 26, 1	Isai 26:1	A	verse		
+bon-eccl-c10-v12-20	6	apparatus:p85-3	p85-3	scripture	apparatus-explicit	Eccle. 6, 8	Eccle 6:8	A	verse		
+bon-eccl-c10-v12-20	6	apparatus:p85-4	p85-4	scripture	apparatus-explicit	Psalm. 44, 3	Ps 44:3	A	verse		
+bon-eccl-c10-v12-20	6	apparatus:p85-4	p85-4	scripture	apparatus-explicit	Luc. 2, 47	Luc 2:47	A	verse		
+bon-eccl-c10-v12-20	6	apparatus:p85-4	p85-4	scripture	apparatus-explicit	Ioan. 7, 46	Ioan 7:46	A	verse		
+bon-eccl-c10-v12-20	6	apparatus:p85-5	p85-5	scripture	apparatus-explicit	Psalm. 13, 1	Ps 13:1	A	verse		
+bon-eccl-c10-v12-20	6	apparatus:p85-5	p85-5	scripture	apparatus-explicit	Iob 18, 7	Iob 18:7	A	verse		
+bon-eccl-c10-v12-20	6	apparatus:p85-5	p85-5	scripture	apparatus-explicit	Dan. 11, 36	Dan 11:36	A	verse		
+bon-eccl-c10-v12-20	6	apparatus:p85-5	p85-5	scripture	apparatus-explicit	II. Thess. 2, 3	2Thess 2:3	A	verse		
+bon-eccl-c10-v12-20	6	apparatus:p85-6	p85-6	scripture	anaphor->apparatus-explicit	ibid.	2Thess 2:3	A	verse	yes	II. Thess. 2, 3
+bon-eccl-c10-v12-20	6	apparatus:p85-6	p85-6	scripture	apparatus-explicit	Ps. 81, 5	Ps 81:5	A	verse		
+bon-eccl-c10-v12-20	6	apparatus:p86-1	p86-1	scripture	anaphor->apparatus-explicit	ibid.	Ps 81:5	A	verse	yes	Ps. 81, 5
+bon-eccl-c10-v12-20	6	apparatus:p86-3	p86-3	scripture	apparatus-explicit	II. Petr. 2, 13	2Petr 2:13	A	verse		
+bon-eccl-c10-v12-20	6	apparatus:p86-5	p86-5	scripture	apparatus-explicit	Eccli. 27, 4	Eccli 27:4	A	verse		
+bon-eccl-c10-v12-20	6	apparatus:p86-6	p86-6	scripture	apparatus-explicit	Hebr. 12, 12	Hebr 12:12	A	verse		
+bon-eccl-c10-v12-20	6	apparatus:p86-7	p86-7	scripture	apparatus-explicit	Luc. 12, 19	Luc 12:19	A	verse		
+bon-eccl-c10-v12-20	6	apparatus:p86-7	p86-7	scripture	apparatus-explicit	Iac. 5, 5	Iac 5:5	A	verse		
+bon-eccl-c10-v12-20	6	apparatus:p86-7	p86-7	scripture	apparatus-explicit	Isai. 5, 12	Isai 5:12	A	verse		
+bon-eccl-c10-v12-20	6	apparatus:p86-8	p86-8	scripture	apparatus-explicit	Ier. 6, 13	Ierem 6:13	A	verse		
+bon-eccl-c10-v12-20	6	apparatus:p86-9	p86-9	scripture	apparatus-explicit	Rom. 12, 14	Rom 12:14	A	verse		
+bon-eccl-c10-v12-20	6	apparatus:p86-9	p86-9	scripture	apparatus-explicit	I. Petr. 3, 9	1Petr 3:9	A	verse		
+bon-eccl-c10-v12-20	6	apparatus:p87-1	p87-1	scripture	apparatus-explicit	Matth. 13, 4	Matth 13:4	A	verse		
+bon-eccl-c10-v12-20	6	apparatus:p87-1	p87-1	scripture	apparatus-explicit	Marc. 4, 4	Marc 4:4	A	verse		
+bon-eccl-c10-v12-20	6	apparatus:p87-1	p87-1	scripture	apparatus-explicit	Luc. 8, 5	Luc 8:5	A	verse		
+bon-eccl-c10-v12-20	6	apparatus:p87-1	p87-1	crossref	logical	II. Sent. d. 6. a. 2. q. 1.	bon-sent-II-d6-a2-q1		chunk		
+bon-eccl-c10-v12-20	6	apparatus:p87-2	p87-2	scripture	apparatus-explicit	Apoc. 12, 10	Apoc 12:10	A	verse		
+bon-eccl-c10-v12-20	6	apparatus:p87-3	p87-3	scripture	apparatus-explicit	Psalm. 7, 10	Ps 7:10	A	verse		
+bon-eccl-c10-v12-20	6	apparatus:p87-3	p87-3	scripture	apparatus-explicit	Apoc. 2, 23	Apoc 2:23	A	verse		
+bon-eccl-c10-v12-20	6	apparatus:p87-5	p87-5	crossref	logical	II. Sent. d. 7. p. II. q. 3.	bon-sent-II-d7-p2-a1-q3+bon-sent-II-d7-p2-a2-q3		ambiguous		
+bon-eccl-c10-v12-20	6	apparatus:p87-5	p87-5	crossref	chain-continuation	d. 8. p. II. q. 6.	bon-sent-II-d8-p2-a1-q6		chunk		
+bon-eccl-c10-v12-20	6	apparatus:p87-6	p87-6	scripture	apparatus-explicit	Act. 17, 27	Act 17:27	A	verse		
+bon-eccl-c10-v12-20	6	apparatus:p87-7	p87-7	scripture	apparatus-explicit	Tob. 12, 12	Tob 12:12	A	verse		
+bon-eccl-c10-v12-20	6	apparatus:p87-7	p87-7	scripture	apparatus-explicit	Apoc. 12, 10	Apoc 12:10	A	verse		
 bon-eccl-c10-v4-7	6	latin_body	p80-10	scripture	body-ordinal	Isaiae secundo	Isai 2:22	B	verse		
 bon-eccl-c10-v4-7	6	latin_body		scripture	body-ordinal	Regum decimo nono	Reg* 19	C	chapter		
 bon-eccl-c10-v4-7	6	latin_body		scripture	body-ordinal	Ieremiae quarto	Ierem 4	C	chapter		
