@@ -24833,6 +24833,14 @@ bon-eccl-c8-v14-15	6	apparatus:p69-10	p69-10	scripture	apparatus-explicit	Ier. 1
 bon-eccl-c8-v14-15	6	apparatus:p70-2	p70-2	scripture	apparatus-explicit	Sap. 2, 9	Sap 2:9	A	verse		
 bon-eccl-c8-v14-15	6	apparatus:p70-11	p70-11	scripture	apparatus-explicit	I. Petr. 1, 6	1Petr 1:6	A	verse		
 bon-eccl-c8-v14-15	6	apparatus:p70-11	p70-11	scripture	apparatus-explicit	II. Reg. 11, 1	2Reg 11:1	A	verse		
+bon-eccl-c8-v16-17	6	latin_body	p71-1	scripture	body-ordinal	ad Romanos primo	Rom 1:20	B	verse		
+bon-eccl-c8-v16-17	6	latin_body	p71-2	scripture	body-ordinal	Ecclesiastici quadragesimo tertio	Eccli 43:34	B	verse		
+bon-eccl-c8-v16-17	6	latin_body	p71-3	scripture	body-ordinal	ad Romanos primo	Rom 1:22	B	verse		
+bon-eccl-c8-v16-17	6	latin_body	p71-6	scripture	body-ordinal	Ecclesiastici tertio	Eccli 3:24	B	verse		
+bon-eccl-c8-v16-17	6	apparatus:p71-1	p71-1	scripture	apparatus-explicit	Eccle. 3, 10	Eccle 3:10	A	verse		
+bon-eccl-c8-v16-17	6	apparatus:p71-2	p71-2	scripture	apparatus-explicit	Ps. 63, 7	Ps 63:7	A	verse		
+bon-eccl-c8-v16-17	6	apparatus:p71-3	p71-3	scripture	apparatus-explicit	Eccle. 7, 24	Eccle 7:24	A	verse		
+bon-eccl-c8-v16-17	6	apparatus:p71-4	p71-4	crossref	page	supra pag. 18, nota 6	bon-eccl-c1-v12-15		chunk		
 bon-eccl-c8-v9-13	6	latin_body	p67-7	scripture	body-ordinal	ad Timotheum tertio	Tim* 3:1	B	verse		
 bon-eccl-c8-v9-13	6	latin_body		scripture	body-ordinal	Ecclesiastici septimo	Eccli 7	C	chapter		
 bon-eccl-c8-v9-13	6	latin_body	p67-8	scripture	body-ordinal	Proverbiorum decimo octavo	Prov 18:3	B	verse		

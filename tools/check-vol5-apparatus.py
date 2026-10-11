@@ -3217,7 +3217,14 @@ KNOWN_TOTALS_VOL6 = {
              # bonorum et malorum, de qua agitur dupliciter.` ~52% down the RIGHT
              # column. Anchors L nn.1-8 / R nn.9-13; blocks L nn.1-8 / R nn.9-13.
              # No runover. n.13 (ibi 13 R, `Cap. 9, 4.`) anchors below that
-             # heading and is bon-eccl-c8-v16-17's: PENDING.
+             # heading and is bon-eccl-c8-v16-17's (re-derived there: position,
+             # column and digits confirmed; the `4` settled at 4x and by target).
+    71: 10,  # nn.1-6 are Cap. VIII Vers. 16-17's (primo 1 L; tertio 2,
+             # primo 3, curiositas 4, curiose 5, tertio 6 R), above the
+             # full-measure `Capitulum IX.` heading ~40% of the leaf (ABSENT from
+             # the raw). Blocks L nn.1-4 / R nn.5-10; no runover. nn.7-10 anchor
+             # below the heading (Prov. primo 7 L; I Cor. quarto 8, Habacuc
+             # secundo 9, Tobiae quarto 10 R) and are Cap. IX Vers. 1-3's: PENDING.
 }
 
 KNOWN_TOTALS_BY_VOL = {
