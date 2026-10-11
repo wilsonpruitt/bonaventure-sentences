@@ -167,3 +167,21 @@ Corpus-wide; carried to p. 103.
     across the seam. ▶ **Distinguishes ruling 15:** there a verse had NO index line, so the divisio decided; here
     both units have index lines and a printed heading stands between them, so the heading + index decide. Record
     in `c7-v1`'s Notes that its first exposition completes Art. 3 of Cap. VI and that Q. I concerns 6:9.
+
+# RULING 17 — THE HEADING-LESS PERICOPE OPENING (Wilson, 2026-10-11, at `bon-eccl-c10-v4-7`)
+
+17. **`bon-eccl-c10-v4-7` opens with NO `####` heading, and its `title_la` is the divisio's first sentence after the
+    lemma: *Praemissa est supra sapientis despectio et econtra ipsius iusta commendatio; subiungitur hic tertio
+    stultorum promotio* (option (a)).** The pericope opens ~41 % down p. 80's RIGHT column on an ordinary indented
+    paragraph standing directly below `c10-v1-3`'s Quaestio reply 1 (*…et ideo totum meretur amittere.*) — no blank
+    line, no class-2 `Art.`, no class-3 or small-bold heading — whose italic lemma (*Si spiritus potestatem
+    habentis.*) is the next index verse and whose divisio says *tertio* (marginale `De 3. parte.`). The first such
+    opening in the work: every earlier pericope opened on a printed heading, so the `####` opener and the
+    heading-text `title_la` precedent had nothing to take. Option (b) (the same, with the marginale as a guide only)
+    was not needed. **Why:** a heading invented for the reader would be our text set where Quaracchi set none (ruling 9
+    — transcribe as printed); the divisio's first sentence after the lemma is the unit's own statement of what it is,
+    exactly as the first sentence served at `c7-v1` and `c9-v1-3` where no heading stood below a capitulum heading.
+    ▶ **General rule for Vols VI–X: a pericope that opens with no printed heading takes no opener heading, and its
+    `title_la` is the first sentence of its divisio after the lemma** (italics dropped in the title fields). Extends
+    the `c7-v1` / `c9-v1-3` "first sentence" precedent from an exposition below a capitulum heading to a divisio with
+    no heading at all.

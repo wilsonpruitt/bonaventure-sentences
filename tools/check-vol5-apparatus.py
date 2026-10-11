@@ -3273,7 +3273,20 @@ KNOWN_TOTALS_VOL6 = {
              # ~40% of the leaf, RIGHT column). Anchors L nn.1-8 / R n.9;
              # blocks L nn.1-7 / R nn.8-11. No runover. nn.10-11 anchor below
              # the seam (Isaiae secundo 10, Lucae vigesimo primo 11, R) and are
-             # bon-eccl-c10-v4-7's: PENDING.
+             # bon-eccl-c10-v4-7's (verified there for position, column and
+             # digits; n.11 ends complete, nothing crosses to p.81).
+    81: 9,   # all Cap. X Vers. 4-7's (10:4-7 expositio + the Quaestio
+             # opener). Anchors L nn.1-5 / R nn.6-9; blocks L nn.1-5 / R
+             # nn.6-9, agreeing. n.5 RUNS OVER the gutter (the R block opens
+             # unnumbered and flush left, `gna (ita ed. Migne...`). Leaf
+             # scanned ~13 px askew; one split at 922 holds.
+    82: 12,  # nn.1-11 are Cap. X Vers. 4-7's (the Quaestio: args, Contra,
+             # Respondeo, replies), above the centred heading `Secundo datur
+             # remedium contra vanitatem securitatis.` (~0.61 of the leaf, R
+             # column). Anchors L nn.1-9 / R nn.10-12; blocks L nn.1-6 / R
+             # nn.7-12 (nn.7-9 anchor LEFT, print RIGHT). No runover. n.12
+             # anchors below the heading (infra undecimo 12, R) and is the
+             # next chunk's: PENDING.
 }
 
 KNOWN_TOTALS_BY_VOL = {
