@@ -3209,7 +3209,15 @@ KNOWN_TOTALS_VOL6 = {
              # in-column class-3 `Secundo, de bonorum adversitate.` ~13% down
              # the RIGHT column; L block nn.1-4, R block n.4 (tail)-10 -- n.4
              # runs over the gutter. nn.9-10 anchor below that heading
-             # (undecimo 9 R, sexto 10 R) and are bon-eccl-c8-v14-15's: PENDING.
+             # (undecimo 9 R, sexto 10 R) and are bon-eccl-c8-v14-15's
+             # (re-derived there: position, column and digits confirmed; the
+             # flagged 1s of n.9 settled at 2x by glyph and target).
+    70: 13,  # nn.1-12 are Cap. VIII Vers. 14-15's (Vers. 14-15 + the one
+             # Quaestio), above the in-column class-3 `Tertio, de indistinctione
+             # bonorum et malorum, de qua agitur dupliciter.` ~52% down the RIGHT
+             # column. Anchors L nn.1-8 / R nn.9-13; blocks L nn.1-8 / R nn.9-13.
+             # No runover. n.13 (ibi 13 R, `Cap. 9, 4.`) anchors below that
+             # heading and is bon-eccl-c8-v16-17's: PENDING.
 }
 
 KNOWN_TOTALS_BY_VOL = {

@@ -24810,6 +24810,29 @@ bon-eccl-c8-v1-8	6	apparatus:p66-6	p66-6	scripture	anaphor->apparatus-explicit	i
 bon-eccl-c8-v1-8	6	apparatus:p66-7	p66-7	scripture	anaphor->apparatus-explicit	ibid.	Hebr 6:16	A	verse	yes	Hebr. 6, 16
 bon-eccl-c8-v1-8	6	apparatus:p66-9	p66-9	scripture	apparatus-explicit	Hebr. 6, 13	Hebr 6:13	A	verse		
 bon-eccl-c8-v1-8	6	apparatus:p67-2	p67-2	crossref	logical	III. Sent. d. 36. q. 4.	bon-sent-III-d36-a1-q4		chunk		
+bon-eccl-c8-v14-15	6	latin_body	p69-9	scripture	body-ordinal	ad Hebraeos undecimo	Hebr 11:36	B	verse		
+bon-eccl-c8-v14-15	6	latin_body		scripture	body-ordinal	Tobiae secundo	Tob 2	C	chapter		
+bon-eccl-c8-v14-15	6	latin_body		scripture	body-ordinal	Iob primo	Iob 1	C	chapter		
+bon-eccl-c8-v14-15	6	latin_body		scripture	body-ordinal	Iudith octavo	Iudith 8	C	chapter		
+bon-eccl-c8-v14-15	6	latin_body	p69-10	scripture	body-ordinal	Lucae decimo sexto	Luc 16:25	B	verse		
+bon-eccl-c8-v14-15	6	latin_body		scripture	body-ordinal	Ieremiae duodecimo	Ierem 12	C	chapter		
+bon-eccl-c8-v14-15	6	latin_body	p70-1	scripture	body-ordinal	Habacuc primo	Habac 1:13	B	verse		
+bon-eccl-c8-v14-15	6	latin_body	p70-2	scripture	body-ordinal	Isaiae vigesimo secundo	Isai 22:13	B	verse		
+bon-eccl-c8-v14-15	6	latin_body		scripture	body-ordinal	Sapientiae secundo	Sap 2	C	chapter		
+bon-eccl-c8-v14-15	6	latin_body	p70-3	scripture	body-ordinal	Apocalypsis tertio	Apoc 3:19	B	verse		
+bon-eccl-c8-v14-15	6	latin_body	p70-4	scripture	body-ordinal	ad Hebraeos duodecimo	Hebr 12:6	B	verse		
+bon-eccl-c8-v14-15	6	latin_body	p70-5	scripture	body-ordinal	Tobiae duodecimo	Tob 12:13	B	verse		
+bon-eccl-c8-v14-15	6	latin_body	p70-6	scripture	body-ordinal	Iudith octavo	Iudith 8:23	B	verse		
+bon-eccl-c8-v14-15	6	latin_body	p70-8	scripture	body-ordinal	ad Timotheum secundo	Tim* 2:1	B	verse		
+bon-eccl-c8-v14-15	6	latin_body	p70-11	scripture	body-ordinal	Proverbiorum duodecimo	Prov 12:21	B	verse		
+bon-eccl-c8-v14-15	6	latin_body	p70-12	scripture	body-ordinal	ad Philippenses primo	Phil 1:29	B	verse		
+bon-eccl-c8-v14-15	6	apparatus:p69-9	p69-9	scripture	apparatus-explicit	Tob. 2, 11	Tob 2:11	A	verse		
+bon-eccl-c8-v14-15	6	apparatus:p69-9	p69-9	scripture	apparatus-explicit	Iob 1, 13	Iob 1:13	A	verse		
+bon-eccl-c8-v14-15	6	apparatus:p69-9	p69-9	scripture	apparatus-explicit	Iudith 8, 23	Iudith 8:23	A	verse		
+bon-eccl-c8-v14-15	6	apparatus:p69-10	p69-10	scripture	apparatus-explicit	Ier. 12, 1	Ierem 12:1	A	verse		
+bon-eccl-c8-v14-15	6	apparatus:p70-2	p70-2	scripture	apparatus-explicit	Sap. 2, 9	Sap 2:9	A	verse		
+bon-eccl-c8-v14-15	6	apparatus:p70-11	p70-11	scripture	apparatus-explicit	I. Petr. 1, 6	1Petr 1:6	A	verse		
+bon-eccl-c8-v14-15	6	apparatus:p70-11	p70-11	scripture	apparatus-explicit	II. Reg. 11, 1	2Reg 11:1	A	verse		
 bon-eccl-c8-v9-13	6	latin_body	p67-7	scripture	body-ordinal	ad Timotheum tertio	Tim* 3:1	B	verse		
 bon-eccl-c8-v9-13	6	latin_body		scripture	body-ordinal	Ecclesiastici septimo	Eccli 7	C	chapter		
 bon-eccl-c8-v9-13	6	latin_body	p67-8	scripture	body-ordinal	Proverbiorum decimo octavo	Prov 18:3	B	verse		
