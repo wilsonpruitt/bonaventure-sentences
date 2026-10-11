@@ -3234,7 +3234,18 @@ KNOWN_TOTALS_VOL6 = {
              # inde nascatur voluptas.` (~36% of the leaf, RIGHT column). Anchors
              # L nn.1-6 / R n.7; blocks L nn.1-6 / R nn.7-9. nn.8-9 anchor below
              # the heading (in Psalmo 8, Proverbiorum trigesimo 9, R) and are
-             # bon-eccl-c9-v4-10's: PENDING.
+             # bon-eccl-c9-v4-10's (verified there for position, column and
+             # digits: Psalm. 88, 49 / Prov. 30:30).
+    74: 10,  # all Cap. IX Vers. 4-10's (expositio of 9:5-10, literal + the
+             # opening of the spiritual exposition). Anchors L nn.1-6 / R
+             # nn.7-10; blocks L nn.1-7 / R nn.8-10 (n.7 anchors RIGHT, prints
+             # LEFT). No runover.
+    75: 10,  # all Cap. IX Vers. 4-10's (spiritual exposition + Quaestiones
+             # I-IV and the two replies), above the in-column class-3 heading
+             # `Secundo oritur securitas ex apparentia defectus regiminis
+             # providentiae` (~62% of the leaf, RIGHT column), which opens Vers.
+             # 11-12 and carries no anchor on this leaf. Anchors L nn.1-6 / R
+             # nn.7-10; blocks L nn.1-4 / R nn.5-10. No runover.
 }
 
 KNOWN_TOTALS_BY_VOL = {

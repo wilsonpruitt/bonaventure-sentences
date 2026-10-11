@@ -24935,6 +24935,59 @@ bon-eccl-c9-v1-3	6	apparatus:p73-4	p73-4	crossref	logical	I. Sent. d. 40. a. 2. 
 bon-eccl-c9-v1-3	6	apparatus:p73-4	p73-4	crossref	chain-continuation	d. 41. a. 1. q. 1.	bon-sent-I-d41-a1-q1		chunk		
 bon-eccl-c9-v1-3	6	apparatus:p73-5	p73-5	crossref	logical	I. Sent. d. 17. p. I. q. 3.	bon-sent-I-d17-p1-a1-q3		chunk		
 bon-eccl-c9-v1-3	6	apparatus:p73-7	p73-7	crossref	anaphor->logical	ibid.	bon-sent-I-d17-p1-a1-q3		chunk	yes	I. Sent. d. 17. p. I. q. 3.
+bon-eccl-c9-v4-10	6	latin_body		scripture	body-ordinal	Genesis tertio	Gen 3	C	chapter		
+bon-eccl-c9-v4-10	6	latin_body		scripture	body-ordinal	Iob septimo	Iob 7	C	chapter		
+bon-eccl-c9-v4-10	6	latin_body	p73-9	scripture	body-ordinal	Proverbiorum trigesimo	Prov 30:30	B	verse		
+bon-eccl-c9-v4-10	6	latin_body	p74-1	scripture	body-ordinal	Regum decimo	Reg* 10:14	B	verse		
+bon-eccl-c9-v4-10	6	latin_body		scripture	body-ordinal	ad Romanos octavo	Rom 8	C	chapter		
+bon-eccl-c9-v4-10	6	latin_body	p74-3	scripture	body-ordinal	Ioannis nono	Ioan 9:4	B	verse		
+bon-eccl-c9-v4-10	6	latin_body	p74-5	scripture	body-ordinal	Isaiae vigesimo secundo	Isai 22:13	B	verse		
+bon-eccl-c9-v4-10	6	latin_body	p74-6	scripture	body-ordinal	Iudith decimo	Iudith 10:2	B	verse		
+bon-eccl-c9-v4-10	6	latin_body		scripture	body-ordinal	Ecclesiastici undecimo	Eccli 11	C	chapter		
+bon-eccl-c9-v4-10	6	latin_body	p74-7	scripture	body-ordinal	Proverbiorum septimo	Prov 7:18	B	verse		
+bon-eccl-c9-v4-10	6	latin_body		scripture	body-ordinal	Iob decimo quarto	Iob 14	C	chapter		
+bon-eccl-c9-v4-10	6	latin_body	p74-8	scripture	body-ordinal	Sapientiae secundo	Sap 2:9	B	verse		
+bon-eccl-c9-v4-10	6	latin_body	p74-9	scripture	body-ordinal	Iob decimo	Iob 10:21	B	verse		
+bon-eccl-c9-v4-10	6	latin_body		scripture	body-ordinal	Iob decimo septimo	Iob 17	C	chapter		
+bon-eccl-c9-v4-10	6	latin_body		scripture	body-ordinal	Deuteronomii trigesimo secundo	Deut 32	C	chapter		
+bon-eccl-c9-v4-10	6	latin_body	p74-10	scripture	body-ordinal	Proverbiorum nono	Prov 9:5	B	verse		
+bon-eccl-c9-v4-10	6	latin_body	p75-1	scripture	body-ordinal	Apocalypsis tertio	Apoc 3:4	B	verse		
+bon-eccl-c9-v4-10	6	latin_body		scripture	body-ordinal	Isaiae nono	Isai 9	C	chapter		
+bon-eccl-c9-v4-10	6	latin_body		scripture	body-ordinal	Matthaei sexto	Matth 6	C	chapter		
+bon-eccl-c9-v4-10	6	latin_body	p75-3	scripture	body-ordinal	Proverbiorum quinto	Prov 5:18	B	verse		
+bon-eccl-c9-v4-10	6	latin_body		scripture	body-ordinal	Genesis vigesimo nono	Gen 29	C	chapter		
+bon-eccl-c9-v4-10	6	latin_body	p75-4	scripture	body-ordinal	Ecclesiastici trigesimo primo	Eccli 31:27	B	verse		
+bon-eccl-c9-v4-10	6	latin_body		scripture	body-ordinal	Proverbiorum decimo octavo	Prov 18	C	chapter		
+bon-eccl-c9-v4-10	6	latin_body		scripture	body-ordinal	Ecclesiastici vigesimo septimo	Eccli 27	C	chapter		
+bon-eccl-c9-v4-10	6	latin_body		scripture	body-ordinal	ad Timotheum secundo	Tim* 2	C	chapter		
+bon-eccl-c9-v4-10	6	latin_body	p75-6	scripture	body-ordinal	Iob duodecimo	Iob 12:25	B	verse		
+bon-eccl-c9-v4-10	6	latin_body		scripture	body-ordinal	Isaiae decimo nono	Isai 19	C	chapter		
+bon-eccl-c9-v4-10	6	latin_body		scripture	body-ordinal	Isaiae trigesimo tertio	Isai 33	C	chapter		
+bon-eccl-c9-v4-10	6	apparatus:p73-8	p73-8	scripture	apparatus-explicit	Psalm. 88, 49	Ps 88:49	A	verse		
+bon-eccl-c9-v4-10	6	apparatus:p73-8	p73-8	scripture	apparatus-explicit	Gen. 3, 19	Gen 3:19	A	verse		
+bon-eccl-c9-v4-10	6	apparatus:p73-8	p73-8	scripture	apparatus-explicit	Iob 7, 6	Iob 7:6	A	verse		
+bon-eccl-c9-v4-10	6	apparatus:p74-1	p74-1	crossref	page	supra pag. 25, nota 2	bon-eccl-c2-v11-17		chunk		
+bon-eccl-c9-v4-10	6	apparatus:p74-1	p74-1	scripture	apparatus-explicit	Rom. 8, 10	Rom 8:10	A	verse		
+bon-eccl-c9-v4-10	6	apparatus:p74-2	p74-2	scripture	apparatus-explicit	Iob 7, 9	Iob 7:9	A	verse		
+bon-eccl-c9-v4-10	6	apparatus:p74-6	p74-6	scripture	apparatus-explicit	Eccli. 11, 4	Eccli 11:4	A	verse		
+bon-eccl-c9-v4-10	6	apparatus:p74-7	p74-7	scripture	apparatus-explicit	Iob 14, 2	Iob 14:2	A	verse		
+bon-eccl-c9-v4-10	6	apparatus:p74-7	p74-7	scripture	apparatus-explicit	Ps. 143, 4	Ps 143:4	A	verse		
+bon-eccl-c9-v4-10	6	apparatus:p74-9	p74-9	scripture	apparatus-explicit	Iob 17, 16	Iob 17:16	A	verse		
+bon-eccl-c9-v4-10	6	apparatus:p74-9	p74-9	scripture	apparatus-explicit	Deut. 32, 35	Deut 32:35	A	verse		
+bon-eccl-c9-v4-10	6	apparatus:p75-1	p75-1	scripture	apparatus-explicit	Isai. 9, 5	Isai 9:5	A	verse		
+bon-eccl-c9-v4-10	6	apparatus:p75-2	p75-2	scripture	apparatus-explicit	Psalm. 103, 15	Ps 103:15	A	verse		
+bon-eccl-c9-v4-10	6	apparatus:p75-2	p75-2	scripture	apparatus-explicit	Matth. 6, 17	Matth 6:17	A	verse		
+bon-eccl-c9-v4-10	6	apparatus:p75-3	p75-3	scripture	apparatus-explicit	Gen. 29, 20	Gen 29:20	A	verse		
+bon-eccl-c9-v4-10	6	apparatus:p75-3	p75-3	crossref	page	tom. V. pag. 114, nota 3	bon-qmt-q8		chunk		
+bon-eccl-c9-v4-10	6	apparatus:p75-3	p75-3	crossref	page	pag. 446, nota 1	bon-hex-c23		chunk		
+bon-eccl-c9-v4-10	6	apparatus:p75-4	p75-4	scripture	apparatus-explicit	Prov. 18, 9	Prov 18:9	A	verse		
+bon-eccl-c9-v4-10	6	apparatus:p75-4	p75-4	scripture	apparatus-explicit	Eccli. 27, 4	Eccli 27:4	A	verse		
+bon-eccl-c9-v4-10	6	apparatus:p75-4	p75-4	scripture	apparatus-explicit	II. Tim. 2, 5	2Tim 2:5	A	verse		
+bon-eccl-c9-v4-10	6	apparatus:p75-5	p75-5	scripture	apparatus-explicit	Gal. 6, 10	Gal 6:10	A	verse		
+bon-eccl-c9-v4-10	6	apparatus:p75-6	p75-6	scripture	apparatus-explicit	Isai. 19, 14	Isai 19:14	A	verse		
+bon-eccl-c9-v4-10	6	apparatus:p75-7	p75-7	crossref	page	supra pag. 37, nota 2	bon-eccl-c3-v16-22+bon-eccl-c4-v1-6		page-multi		
+bon-eccl-c9-v4-10	6	apparatus:p75-9	p75-9	crossref	logical	IV. Sent. d. 50. p. II. a. 1. q. 2.	bon-sent-IV-d50-p2-a1-q2		chunk		
+bon-eccl-c9-v4-10	6	apparatus:tr-lumen	tr-lumen	scripture	apparatus-explicit	Job 12	Iob 12	C	chapter		
 bon-eccl-prooem	6	latin_body	p3-2	scripture	body-ordinal	ad Corinthios quarto	Cor* 4:18	B	verse		
 bon-eccl-prooem	6	latin_body		scripture	body-ordinal	Matthaei sexto	Matth 6	C	chapter		
 bon-eccl-prooem	6	latin_body	p3-5	scripture	body-ordinal	ad Timotheum sexto	Tim* 6:14	B	verse		
