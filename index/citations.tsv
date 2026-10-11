@@ -23950,6 +23950,36 @@ bon-eccl-c10-v4-7	6	apparatus:p82-6	p82-6	crossref	page	tom. II. pag. 168, nota 
 bon-eccl-c10-v4-7	6	apparatus:p82-6	p82-6	crossref	page	pag. 1008, nota 3	bon-sent-II-d44-a2-q2		chunk		
 bon-eccl-c10-v4-7	6	apparatus:p82-10	p82-10	scripture	apparatus-explicit	Iob 34, 30	Iob 34:30	A	verse		
 bon-eccl-c10-v4-7	6	apparatus:p82-11	p82-11	crossref	logical	II. Sent. d. 44. a. 2.	bon-sent-II-d44-a2-q1+bon-sent-II-d44-a2-q2		articulus		
+bon-eccl-c10-v8-11	6	latin_body		scripture	body-ordinal	Ecclesiastici trigesimo sexto	Eccli 36	C	chapter		
+bon-eccl-c10-v8-11	6	latin_body		scripture	body-ordinal	Ieremiae octavo	Ierem 8	C	chapter		
+bon-eccl-c10-v8-11	6	latin_body	p83-2	scripture	body-ordinal	Proverbiorum vigesimo sexto	Prov 26:8	B	verse		
+bon-eccl-c10-v8-11	6	latin_body		scripture	body-ordinal	Ecclesiastici vigesimo septimo	Eccli 27	C	chapter		
+bon-eccl-c10-v8-11	6	latin_body	p83-4	scripture	body-ordinal	Matthaei septimo	Matth 7:19	B	verse		
+bon-eccl-c10-v8-11	6	latin_body		scripture	body-ordinal	Isaiae primo	Isai 1	C	chapter		
+bon-eccl-c10-v8-11	6	latin_body	p83-5	scripture	body-ordinal	Proverbiorum vigesimo septimo	Prov 27:17	B	verse		
+bon-eccl-c10-v8-11	6	latin_body		scripture	body-ordinal	Proverbiorum decimo quinto	Prov 15	C	chapter		
+bon-eccl-c10-v8-11	6	latin_body		scripture	body-ordinal	Proverbiorum secundo	Prov 2	C	chapter		
+bon-eccl-c10-v8-11	6	latin_body	p83-6	scripture	body-ordinal	Levitici decimo nono	Lev 19:14	B	verse		
+bon-eccl-c10-v8-11	6	latin_body		scripture	body-ordinal	ad Galatas quinto	Gal 5	C	chapter		
+bon-eccl-c10-v8-11	6	latin_body		scripture	body-ordinal	Proverbiorum vigesimo sexto	Prov 26	C	chapter		
+bon-eccl-c10-v8-11	6	latin_body	p83-7	scripture	body-ordinal	Sapientiae decimo sexto	Sap 16:7	B	verse		
+bon-eccl-c10-v8-11	6	latin_body		scripture	body-ordinal	Ioannis decimo quinto	Ioan 15	C	chapter		
+bon-eccl-c10-v8-11	6	latin_body	p84-1	scripture	body-ordinal	Matthaei decimo octavo	Matth 18:15	B	verse		
+bon-eccl-c10-v8-11	6	apparatus:p83-1	p83-1	scripture	apparatus-explicit	Psalm. 7, 16	Ps 7:16	A	verse		
+bon-eccl-c10-v8-11	6	apparatus:p83-1	p83-1	scripture	apparatus-explicit	Eccli. 36, 27	Eccli 36:27	A	verse		
+bon-eccl-c10-v8-11	6	apparatus:p83-1	p83-1	scripture	apparatus-explicit	Ier. 8, 17	Ierem 8:17	A	verse		
+bon-eccl-c10-v8-11	6	apparatus:p83-2	p83-2	scripture	apparatus-explicit	Eccli. 27, 28	Eccli 27:28	A	verse		
+bon-eccl-c10-v8-11	6	apparatus:p83-4	p83-4	scripture	apparatus-explicit	Eccli. 27, 28	Eccli 27:28	A	verse		
+bon-eccl-c10-v8-11	6	apparatus:p83-4	p83-4	scripture	apparatus-explicit	Isai. 1, 6	Isai 1:6	A	verse		
+bon-eccl-c10-v8-11	6	apparatus:p83-5	p83-5	scripture	apparatus-explicit	Prov. 15, 31	Prov 15:31	A	verse		
+bon-eccl-c10-v8-11	6	apparatus:p83-6	p83-6	scripture	apparatus-explicit	Gal. 5, 15	Gal 5:15	A	verse		
+bon-eccl-c10-v8-11	6	apparatus:p83-6	p83-6	scripture	apparatus-explicit	Prov. 26, 22	Prov 26:22	A	verse		
+bon-eccl-c10-v8-11	6	apparatus:p83-7	p83-7	scripture	apparatus-explicit	Ioan. 15, 20	Ioan 15:20	A	verse		
+bon-eccl-c10-v8-11	6	apparatus:p84-2	p84-2	scripture	apparatus-explicit	Tob. 4, 16	Tob 4:16	A	verse		
+bon-eccl-c10-v8-11	6	apparatus:p84-2	p84-2	scripture	apparatus-explicit	Matth. 7, 12	Matth 7:12	A	verse		
+bon-eccl-c10-v8-11	6	apparatus:p84-2	p84-2	scripture	apparatus-explicit	Luc. 6, 31	Luc 6:31	A	verse		
+bon-eccl-c10-v8-11	6	apparatus:p84-3	p84-3	scripture	apparatus-explicit	Prov. 22, 1	Prov 22:1	A	verse		
+bon-eccl-c10-v8-11	6	apparatus:p84-3	p84-3	scripture	apparatus-explicit	Eccle. 7, 2	Eccle 7:2	A	verse		
 bon-eccl-c2-v1-3	6	latin_body		scripture	body-ordinal	Isaiae vigesimo secundo	Isai 22	C	chapter		
 bon-eccl-c2-v1-3	6	latin_body		scripture	body-ordinal	Sapientiae secundo	Sap 2	C	chapter		
 bon-eccl-c2-v1-3	6	latin_body		scripture	body-ordinal	Proverbiorum septimo	Prov 7	C	chapter		

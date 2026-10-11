@@ -3285,8 +3285,18 @@ KNOWN_TOTALS_VOL6 = {
              # remedium contra vanitatem securitatis.` (~0.61 of the leaf, R
              # column). Anchors L nn.1-9 / R nn.10-12; blocks L nn.1-6 / R
              # nn.7-12 (nn.7-9 anchor LEFT, print RIGHT). No runover. n.12
-             # anchors below the heading (infra undecimo 12, R) and is the
-             # next chunk's: PENDING.
+             # anchors below the heading (infra undecimo 12, R) and is
+             # bon-eccl-c10-v8-11's (verified there for position, column and
+             # digit; ends complete, nothing crosses to p.83).
+    83: 7,   # all Cap. X Vers. 8-11's (10:8-11 expositio). Anchors L nn.1-4 /
+             # R nn.5-7; blocks L nn.1-4 / R nn.5-7, agreeing. No runover.
+             # Leaf scanned ~10 px askew; one split at 911 holds.
+    84: 8,   # nn.1-7 are Cap. X Vers. 8-11's (the Quaestio on 10:11), above
+             # the centred heading `Secundo, quoad defectum regiminis, quando
+             # praeficitur praelatus stultus.` (~0.48 of the leaf, R column).
+             # Anchors L nn.1-4 / R nn.5-8; blocks L nn.1-4 / R nn.5-8. No
+             # runover. n.8 anchors below the heading (Ecclesiastici
+             # vigesimo 8, R) and is the next chunk's: PENDING.
 }
 
 KNOWN_TOTALS_BY_VOL = {
