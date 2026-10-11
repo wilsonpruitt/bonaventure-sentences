@@ -3255,7 +3255,17 @@ KNOWN_TOTALS_VOL6 = {
              # column), which opens Vers. 13-18 and carries no anchor. Anchors
              # L nn.1-4 / R n.5; blocks L nn.1-4 / R nn.5-7; n.4 runs over the
              # gutter. nn.6-7 anchor below the heading (ibi 6, Iob vigesimo
-             # sexto 7, R) -- PENDING until bon-eccl-c9-v13-18 lands.
+             # sexto 7, R) and are bon-eccl-c9-v13-18's.
+    78: 7,   # all Cap. IX Vers. 13-18's (9:14-16 literal + spiritual
+             # exposition). Anchors L nn.1-4 / R nn.5-7; blocks L nn.1-5 /
+             # R nn.6-7 (n.5 anchors RIGHT, prints LEFT). No runover.
+    79: 8,   # nn.1-5 are Cap. IX Vers. 13-18's (9:16-18), above the
+             # full-measure `Capitulum X.` heading (~51% of the leaf, no
+             # subtitle, no anchor; the raw OMITS it). Anchors L nn.1-3 /
+             # R nn.4-5; blocks L nn.1-5 / R nn.6-8; n.5 runs over the gutter.
+             # nn.6-8 anchor below the heading (primae Ioannis secundo 6,
+             # supra quarto 7, Matthaei vigesimo quinto 8) -- PENDING until
+             # bon-eccl-c10-v1-3 lands.
 }
 
 KNOWN_TOTALS_BY_VOL = {

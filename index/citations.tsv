@@ -24970,6 +24970,63 @@ bon-eccl-c9-v11-12	6	apparatus:p77-2	p77-2	crossref	logical	II. Sent. d. 37. a. 
 bon-eccl-c9-v11-12	6	apparatus:p77-2	p77-2	crossref	page	tom. I. pag. 600, nota 2	bon-sent-I-d35-a1-q1		chunk		
 bon-eccl-c9-v11-12	6	apparatus:p77-2	p77-2	crossref	page	pag. 714, nota 3	bon-sent-I-d40-a3-q1		chunk		
 bon-eccl-c9-v11-12	6	apparatus:p77-4	p77-4	crossref	logical	II. Sent. d. 37. a. 2. q. 2.	bon-sent-II-d37-a2-q2		chunk		
+bon-eccl-c9-v13-18	6	latin_body	p77-7	scripture	body-ordinal	Iob vigesimo sexto	Iob 26:12	B	verse		
+bon-eccl-c9-v13-18	6	latin_body		scripture	body-ordinal	Paralipomenon vigesimo	Par* 20	C	chapter		
+bon-eccl-c9-v13-18	6	latin_body		scripture	body-ordinal	Iudith septimo	Iudith 7	C	chapter		
+bon-eccl-c9-v13-18	6	latin_body		scripture	body-ordinal	Lucae decimo nono	Luc 19	C	chapter		
+bon-eccl-c9-v13-18	6	latin_body		scripture	body-ordinal	Regum vigesimo	Reg* 20	C	chapter		
+bon-eccl-c9-v13-18	6	latin_body		scripture	body-ordinal	Baruch tertio	Baruch 3	C	chapter		
+bon-eccl-c9-v13-18	6	latin_body	p78-3	scripture	body-ordinal	Ecclesiastici vigesimo nono	Eccli 29:20	B	verse		
+bon-eccl-c9-v13-18	6	latin_body		scripture	body-ordinal	Matthaei vigesimo	Matth 20	C	chapter		
+bon-eccl-c9-v13-18	6	latin_body		scripture	anaphor->body-ordinal	ibid	Matth 20	C	chapter	yes	Matthaei vigesimo
+bon-eccl-c9-v13-18	6	latin_body	p78-6	scripture	body-ordinal	Ieremiae trigesimo primo	Ierem 31:22	B	verse		
+bon-eccl-c9-v13-18	6	latin_body		scripture	body-ordinal	ad Corinthios octavo	Cor* 8	C	chapter		
+bon-eccl-c9-v13-18	6	latin_body		scripture	body-ordinal	ad Corinthios primo	Cor* 1	C	chapter		
+bon-eccl-c9-v13-18	6	latin_body		scripture	body-ordinal	Matthaei septimo	Matth 7	C	chapter		
+bon-eccl-c9-v13-18	6	latin_body		scripture	body-ordinal	Iob vigesimo sexto	Iob 26	C	chapter		
+bon-eccl-c9-v13-18	6	latin_body	p78-7	scripture	body-ordinal	Proverbiorum decimo nono	Prov 19:7	B	verse		
+bon-eccl-c9-v13-18	6	latin_body		scripture	body-ordinal	Threnorum tertio	Thren 3	C	chapter		
+bon-eccl-c9-v13-18	6	latin_body		scripture	body-ordinal	Amos sexto	Amos 6	C	chapter		
+bon-eccl-c9-v13-18	6	latin_body		scripture	body-ordinal	Lucae decimo septimo	Luc 17	C	chapter		
+bon-eccl-c9-v13-18	6	latin_body		scripture	body-ordinal	Isaiae decimo septimo	Isai 17	C	chapter		
+bon-eccl-c9-v13-18	6	latin_body		scripture	body-ordinal	Genesis quadragesimo	Gen 40	C	chapter		
+bon-eccl-c9-v13-18	6	latin_body	p79-1	scripture	body-ordinal	Sapientiae sexto	Sap 6:1	B	verse		
+bon-eccl-c9-v13-18	6	latin_body		scripture	body-ordinal	Ecclesiastici decimo tertio	Eccli 13	C	chapter		
+bon-eccl-c9-v13-18	6	latin_body	p79-2	scripture	body-ordinal	Proverbiorum octavo	Prov 8:32	B	verse		
+bon-eccl-c9-v13-18	6	latin_body		scripture	body-ordinal	Ecclesiastici trigesimo secundo	Eccli 32	C	chapter		
+bon-eccl-c9-v13-18	6	latin_body	p79-3	scripture	body-ordinal	Ecclesiastici vigesimo secundo	Eccli 22:9	B	verse		
+bon-eccl-c9-v13-18	6	latin_body		scripture	body-ordinal	ad Corinthios secundo	Cor* 2	C	chapter		
+bon-eccl-c9-v13-18	6	latin_body	p79-4	scripture	body-ordinal	Proverbiorum secundo	Prov 2:11	B	verse		
+bon-eccl-c9-v13-18	6	latin_body		scripture	body-ordinal	Sapientiae septimo	Sap 7	C	chapter		
+bon-eccl-c9-v13-18	6	latin_body		scripture	body-ordinal	Iacobi secundo	Iac 2	C	chapter		
+bon-eccl-c9-v13-18	6	apparatus:p78-1	p78-1	scripture	apparatus-explicit	II. Paral. 20, 12	2Par 20:12	A	verse		
+bon-eccl-c9-v13-18	6	apparatus:p78-1	p78-1	scripture	apparatus-explicit	Iudith 7, 1	Iudith 7:1	A	verse		
+bon-eccl-c9-v13-18	6	apparatus:p78-1	p78-1	scripture	apparatus-explicit	Luc. 19, 43	Luc 19:43	A	verse		
+bon-eccl-c9-v13-18	6	apparatus:p78-2	p78-2	scripture	apparatus-explicit	II. Reg. 20, 16	2Reg 20:16	A	verse		
+bon-eccl-c9-v13-18	6	apparatus:p78-2	p78-2	scripture	apparatus-explicit	Baruch 3, 28	Baruch 3:28	A	verse		
+bon-eccl-c9-v13-18	6	apparatus:p78-4	p78-4	scripture	apparatus-explicit	Psalm. 86, 3	Ps 86:3	A	verse		
+bon-eccl-c9-v13-18	6	apparatus:p78-4	p78-4	scripture	apparatus-explicit	Isai. 66, 2	Isai 66:2	A	verse		
+bon-eccl-c9-v13-18	6	apparatus:p78-4	p78-4	scripture	apparatus-explicit	Matth. 20, 16	Matth 20:16	A	verse		
+bon-eccl-c9-v13-18	6	apparatus:p78-5	p78-5	scripture	anaphor->apparatus-explicit	ibid.	Matth 20:16	A	verse	yes	Matth. 20, 16
+bon-eccl-c9-v13-18	6	apparatus:p78-5	p78-5	scripture	apparatus-explicit	Luc. 19, 43	Luc 19:43	A	verse		
+bon-eccl-c9-v13-18	6	apparatus:p78-6	p78-6	crossref	page	tom. III. pag. 380, nota 1	bon-sent-III-d18-a1-q1		chunk		
+bon-eccl-c9-v13-18	6	apparatus:p78-6	p78-6	crossref	page	supra pag. 63, nota 5	bon-eccl-c7-v24-30		chunk		
+bon-eccl-c9-v13-18	6	apparatus:p78-6	p78-6	scripture	apparatus-explicit	II. Cor. 8, 9	2Cor 8:9	A	verse		
+bon-eccl-c9-v13-18	6	apparatus:p78-6	p78-6	scripture	apparatus-explicit	I. Cor. 1, 24	1Cor 1:24	A	verse		
+bon-eccl-c9-v13-18	6	apparatus:p78-6	p78-6	scripture	apparatus-explicit	Matth. 7, 8	Matth 7:8	A	verse		
+bon-eccl-c9-v13-18	6	apparatus:p78-6	p78-6	scripture	apparatus-explicit	Isai. 19, 20	Isai 19:20	A	verse		
+bon-eccl-c9-v13-18	6	apparatus:p78-6	p78-6	scripture	apparatus-explicit	Iob 26, 12	Iob 26:12	A	verse		
+bon-eccl-c9-v13-18	6	apparatus:p78-7	p78-7	scripture	apparatus-explicit	Thren. 3, 19	Thren 3:19	A	verse		
+bon-eccl-c9-v13-18	6	apparatus:p78-7	p78-7	scripture	apparatus-explicit	Amos 6, 6	Amos 6:6	A	verse		
+bon-eccl-c9-v13-18	6	apparatus:p78-7	p78-7	scripture	apparatus-explicit	Luc. 17, 18	Luc 17:18	A	verse		
+bon-eccl-c9-v13-18	6	apparatus:p78-7	p78-7	scripture	apparatus-explicit	Isai. 17, 9	Isai 17:9	A	verse		
+bon-eccl-c9-v13-18	6	apparatus:p78-7	p78-7	scripture	apparatus-explicit	Gen. 40, 23	Gen 40:23	A	verse		
+bon-eccl-c9-v13-18	6	apparatus:p79-1	p79-1	scripture	apparatus-explicit	Eccli. 13, 27	Eccli 13:27	A	verse		
+bon-eccl-c9-v13-18	6	apparatus:p79-2	p79-2	scripture	apparatus-explicit	Eccli. 32, 9	Eccli 32:9	A	verse		
+bon-eccl-c9-v13-18	6	apparatus:p79-3	p79-3	scripture	apparatus-explicit	Matth. 7, 6	Matth 7:6	A	verse		
+bon-eccl-c9-v13-18	6	apparatus:p79-3	p79-3	scripture	apparatus-explicit	I. Cor. 2, 14	1Cor 2:14	A	verse		
+bon-eccl-c9-v13-18	6	apparatus:p79-5	p79-5	scripture	apparatus-explicit	Sap. 7, 11	Sap 7:11	A	verse		
+bon-eccl-c9-v13-18	6	apparatus:p79-5	p79-5	scripture	apparatus-explicit	Iac. 2, 10	Iac 2:10	A	verse		
 bon-eccl-c9-v4-10	6	latin_body		scripture	body-ordinal	Genesis tertio	Gen 3	C	chapter		
 bon-eccl-c9-v4-10	6	latin_body		scripture	body-ordinal	Iob septimo	Iob 7	C	chapter		
 bon-eccl-c9-v4-10	6	latin_body	p73-9	scripture	body-ordinal	Proverbiorum trigesimo	Prov 30:30	B	verse		
