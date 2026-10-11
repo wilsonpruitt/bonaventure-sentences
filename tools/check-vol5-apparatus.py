@@ -3310,6 +3310,22 @@ KNOWN_TOTALS_VOL6 = {
              # (~0.61 of the leaf); nothing below the heading is anchored.
              # Anchors L nn.1-4 / R nn.5-7; blocks agree. n.4 RUNS OVER the
              # gutter. p.88's LEFT block opens numbered 1.
+    88: 9,   # all Cap. XI Vers. 1-10's (11:1-3). Anchors L nn.1-4 / R nn.5-9;
+             # blocks agree. No runover. Gutter 1124 (heavy rule, peak 1079).
+    89: 8,   # all Cap. XI Vers. 1-10's (11:3-7). Anchors L nn.1-4 / R nn.5-8;
+             # blocks L nn.1-5 / R n.5 (tail), 6-8 (n.5 anchors RIGHT, prints
+             # LEFT). n.5 RUNS OVER the gutter. Gutter 922.
+    90: 7,   # all Cap. XI Vers. 1-10's (11:7-8, the spiritual-alms exposition,
+             # the heading `Secundo revocat a malo consideratione futuri
+             # supplicii.`). Anchors L nn.1-5 / R nn.6-7; blocks L nn.1-5 / R
+             # n.5 (tail), 6-7. n.5 RUNS OVER the gutter. Gutter 1136.
+    91: 9,   # all Cap. XI Vers. 1-10's (11:8-10). Anchors L nn.1-5 / R nn.6-9;
+             # blocks L nn.1-3 / R n.3 (tail), 4-9 (nn.4-5 anchor LEFT, print
+             # RIGHT). n.3 RUNS OVER the gutter. Gutter 924.
+    92: 11,  # n.1 is Cap. XI Vers. 1-10's (primae Ioannis secundo 1, LEFT, the
+             # two lines heading the leaf above the full-measure `Capitulum
+             # XII.` heading, ~0.10 of the leaf); nn.2-11 anchor below the
+             # heading and are Cap. XII Vers. 1-14's: PENDING.
 }
 
 KNOWN_TOTALS_BY_VOL = {

@@ -519,6 +519,12 @@ const WORKS = {
       // chunk's first expositions complete c9-v13-18's second part (ruling-16
       // shape).
       10: "Capitulum X",
+      // `CAPITULUM XI.` read in place on the plate at bon-eccl-c11-v1-10 (p. 87,
+      // full measure, centred, ~0.61 of the leaf below c10-v12-20's close, no
+      // subtitle and no anchor; the raw KEEPS it, L16562). Below it the
+      // small-bold `Secundo datur remedium contra vanitatem securitatis ortam
+      // ex defectu retributionis iustitiae.` (the chunk's title_la).
+      11: "Capitulum XI",
     },
   },
 };
