@@ -507,6 +507,12 @@ const WORKS = {
       // sapientiae…`). The raw keeps it (`Capitulum  VIII.`, L13113). Per
       // ruling 16 the chunk's first exposition is Eccle. 7:30b.
       8: "Capitulum VIII",
+      // `CAPITULUM IX.` read in place on the plate at bon-eccl-c9-v1-3 (p. 71,
+      // full measure, centred, ~35 % down the leaf below c8-v16-17's close, no
+      // subtitle and no anchor). The raw OMITS it (L14157-14158 blank). The
+      // chunk's first exposition is the second member of c8-v16-17's p. 71
+      // subdivisio (ruling-16 shape).
+      9: "Capitulum IX",
     },
   },
 };

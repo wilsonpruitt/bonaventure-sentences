@@ -3224,7 +3224,17 @@ KNOWN_TOTALS_VOL6 = {
              # full-measure `Capitulum IX.` heading ~40% of the leaf (ABSENT from
              # the raw). Blocks L nn.1-4 / R nn.5-10; no runover. nn.7-10 anchor
              # below the heading (Prov. primo 7 L; I Cor. quarto 8, Habacuc
-             # secundo 9, Tobiae quarto 10 R) and are Cap. IX Vers. 1-3's: PENDING.
+             # secundo 9, Tobiae quarto 10 R) and are bon-eccl-c9-v1-3's (verified
+             # there for position, column and digits).
+    72: 12,  # all Cap. IX Vers. 1-3's (Vers. 2-3 expositio + Quaestiones I-II).
+             # Anchors L nn.1-4 / R nn.5-12; blocks L nn.1-6 / R nn.7-12. No
+             # runover.
+    73: 9,   # nn.1-7 are Cap. IX Vers. 1-3's (Q. II Contra + replies, Q. III),
+             # above the in-column class-3 heading `Secundo ostenditur, quomodo
+             # inde nascatur voluptas.` (~36% of the leaf, RIGHT column). Anchors
+             # L nn.1-6 / R n.7; blocks L nn.1-6 / R nn.7-9. nn.8-9 anchor below
+             # the heading (in Psalmo 8, Proverbiorum trigesimo 9, R) and are
+             # bon-eccl-c9-v4-10's: PENDING.
 }
 
 KNOWN_TOTALS_BY_VOL = {
