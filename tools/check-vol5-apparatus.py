@@ -3246,6 +3246,16 @@ KNOWN_TOTALS_VOL6 = {
              # providentiae` (~62% of the leaf, RIGHT column), which opens Vers.
              # 11-12 and carries no anchor on this leaf. Anchors L nn.1-6 / R
              # nn.7-10; blocks L nn.1-4 / R nn.5-10. No runover.
+    76: 5,   # all Cap. IX Vers. 11-12's (literal + spiritual expositio of
+             # 9:11-12, Quaestio I opening). Anchors L nn.1-3 / R nn.4-5; blocks
+             # L nn.1-2 / R nn.3-5 (n.3 anchors LEFT, prints RIGHT). No runover.
+    77: 7,   # nn.1-5 are Cap. IX Vers. 11-12's (Quaestiones I-II), above the
+             # centred sub-heading `Secundo ostenditur defectus ordinis in
+             # regimine providentiae in speciali` (~37% of the leaf, RIGHT
+             # column), which opens Vers. 13-18 and carries no anchor. Anchors
+             # L nn.1-4 / R n.5; blocks L nn.1-4 / R nn.5-7; n.4 runs over the
+             # gutter. nn.6-7 anchor below the heading (ibi 6, Iob vigesimo
+             # sexto 7, R) -- PENDING until bon-eccl-c9-v13-18 lands.
 }
 
 KNOWN_TOTALS_BY_VOL = {
