@@ -95,13 +95,13 @@ Contrarium huius ostenditur: 1. Per illud quod dicitur Matthaei vigesimo primo[^
 ## English
 <!-- page 62 -->
 
-#### Part III. The vanity of a twofold penality is proved, both that which is an occasion of sin and that which is pure affliction.
+#### Part III. The vanity of a twofold penalty is proved, both that which is an occasion of sin and that which is pure affliction.
 
-*I have tried all things* etc. Above he treated of the vanity of mutability and of iniquity; in this part he intends to treat of the vanity of *penality.* And since penalty is twofold: one, which is an *occasion of sin,* as concupiscence; another, which is *pure affliction,* as death and infirmity of body: therefore first he treats of the first penality, which is an *occasion of sin;* secondly, of that which is *pure affliction,* below in the twelfth[^p62-1]: *Remember thy Creator* etc.
+*I have tried all things* etc. Above he treated of the vanity of mutability and of iniquity; in this part he intends to treat of the vanity of *penalty.* And since punishment is twofold: one, which is an *occasion of sin,* as concupiscence; another, which is *pure affliction,* as death and infirmity of body: therefore first he treats of the first penalty, which is an *occasion of sin;* secondly, of that which is *pure affliction,* below in the twelfth[^p62-1]: *Remember thy Creator* etc.
 
-#### *Member I of the third part. The twofold penalty which is an occasion of sin is shown.*
+#### *Member I of the third part. The twofold punishment which is an occasion of sin is shown.*
 
-And since the penalty which is an occasion of sin is twofold, one, namely, from a defect of love, and this is *proneness;* the other from a defect of fear, and this is *security;* the first renders one prone to evil, and the second secure, because he does not fear, so long as he does not believe he will be punished: therefore this part has two: in the first he treats of the vanity of *proneness,* in the second, of the vanity of *security;* and the second part begins below in the eighth[^p62-2]: *All these things have I considered and I gave my heart* etc.
+And since the punishment which is an occasion of sin is twofold, one, namely, from a defect of love, and this is *proneness;* the other from a defect of fear, and this is *security;* the first renders one prone to evil, and the second secure, because he does not fear, so long as he does not believe he will be punished: therefore this part has two: in the first he treats of the vanity of *proneness,* in the second, of the vanity of *security;* and the second part begins below in the eighth[^p62-2]: *All these things have I considered and I gave my heart* etc.
 
 #### Art. 1. *On the first occasion of sin, which is proneness to sin through concupiscence, it is treated in two ways.*
 
@@ -270,6 +270,8 @@ The contrary of this is shown: 1. By that which is said in Matthew, the twenty-f
 ---
 
 ## Notes
+
+**⭐ WORK-CLOSE GATE, 2026-10-11 — RULING 20 APPLIED.** *poenalitas* → "penalty" (was "penality" ×3) and *poena* → "punishment" (was "penalty" ×3, at *duplex est poena*, the membrum I heading and *poena, quae est peccati occasio*). The "penality" discussion elsewhere in these Notes is superseded. See `manual-review/vol6-ecclesiastes-workclose-gate.md`.
 
 **⭐⭐ THE SPAN IS THE HEAD OF p. 62 → ~49 % DOWN p. 64, BOTH ENDS FIXED POSITIVELY ON THE PLATE.** It opens at the very head of p. 62's LEFT column with the in-column heading ***Pᴀʀs III. Probatur vanitas poenalitatis duplicis…*** (read on the plate; `c7-v17-23` closed at the foot of p. 61, a leaf edge, so nothing is inherited — p. 62's L footer block opens `¹ Vers. 1.`, numbered and indented). It closes at *…secundum morem Scripturae*⁵ (Q. II reply 2), the last line of p. 64's RIGHT column above the **full-measure centred small-cap `Cᴀᴘɪᴛᴜʟᴜᴍ VIII.` heading** at ~49 % of the leaf. **How the end was fixed:** p. 64 was extracted ALONE and read FIRST (⅓-scale structure view; 2067 × 2985, 450 dpi by pixel size and pHYs), as the resume note ordered; the raw's prediction (close on p. 64 above `Capitulum VIII.`, raw L13113) **held in leaf AND heading** this time. pp. 62–63 were extracted after. Raw band **L12757 → L13112** (p. 62 running head L12757, *Pars III* L12760, membrum L12775, Art. 1 L12788, `(Vers. 24. 23. 26.)` [sic raw] L12809, `(Vers. 27.)` L12882, p. 63 L12898, `(Vers. 28. 29.)` L12928, `(Vers. 30.)` L12952, `QUAESTIONES.` L12967, p. 64 L13044, Q. II L13053, close L13110; `Capitulum VIII.` L13113).
 

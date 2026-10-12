@@ -853,7 +853,10 @@ def extract(chunks, cfg, by_locus, by_dist, by_page, by_id):
         # per chunk and sorted before the `ibid.` pass runs. Apparatus entries arrive
         # from split_sections in file order, which is Quaracchi's printed order.
         sections = [("latin_body", c.latin_body), ("scholion", c.scholion)]
-        sections += [(f"apparatus:{lab}", txt) for lab, txt in c.apparatus.items()]
+        # Translator's notes (`tr-` labels) are our voice, not Quaracchi's: never indexed
+        # (ruling 24, Vol VI Ecclesiastes work-close gate, 2026-10-11).
+        sections += [(f"apparatus:{lab}", txt) for lab, txt in c.apparatus.items()
+                     if not lab.startswith("tr-")]
         chunk_rows = []
 
         for sec_i, (section, text) in enumerate(sections):

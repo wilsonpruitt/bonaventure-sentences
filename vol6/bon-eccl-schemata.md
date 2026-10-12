@@ -311,7 +311,7 @@ format_version: 1
     - the proof of the threefold vanity (1,3-12,7.)
       - there is proved first the vanity of mutability (1,3-3,15.)
       - there is proved secondly the vanity of iniquity (3,16-7,23.)
-      - there is proved thirdly the vanity of penality[^p100-1] (7,24-12,7.)
+      - there is proved thirdly the vanity of penalty[^p100-1] (7,24-12,7.)
     - the conclusion (12,8.)
   - the epilogue (12,9-14.)
     - it intimates the studiousness of the writer
@@ -418,7 +418,7 @@ format_version: 1
         - the malice of envy
           - its consideration
           - » malice
-          - » penalty
+          - » punishment
         - the malice of acedia
           - the torpor of acedia
           - the endurance of penury
@@ -493,8 +493,8 @@ format_version: 1
 
 ### Schema IV.
 
-- Part III. The vanity of penality is proved (7,24-12,7.)
-  - penalty, which is an occasion of sin
+- Part III. The vanity of penalty is proved (7,24-12,7.)
+  - punishment, which is an occasion of sin
     - from a defect of love, or proneness
       - first the finding of concupiscence is noted
         - by describing its diligent inquiry
@@ -553,7 +553,7 @@ format_version: 1
             - exhorting that memory be had of the future time
             - reproving present gladness
             - warning that all wickedness be cast away
-  - penalty, which is pure affliction
+  - punishment, which is pure affliction
     - it is described in general
       - as to the presence of what harms
       - as to the absence of what is pleasant
@@ -585,6 +585,8 @@ format_version: 1
 ---
 
 ## Notes
+
+**⭐ WORK-CLOSE GATE, 2026-10-11 — RULING 20 APPLIED, superseding the "penality / penalty / punishment" system recorded above.** *poenalitas* → "penalty" (Schema I, Schema IV part-title); *poena* → "punishment" (Schema III `» poena`, Schema IV's two branch roots); *supplicium* → "punishment" (unchanged). Rulings 21 and 22 confirm this chunk's "mutability" and its two kept-apart pairs. See `manual-review/vol6-ecclesiastes-workclose-gate.md`.
 
 **SPAN — pp. 100–103, BOTH ENDS POSITIVE.** Opens at the head of p. 100 under the running head `100 COMMENT. IN ECCLESIASTEN` with the centred small-cap `Sᴄʜᴇᴍᴀ I.` (~0.26 of the leaf; the upper quarter of the leaf is blank); closes on p. 103's full-measure closing line *(Post tertiam partem … ut in schemate I.).* at ~0.89 of the leaf, the rest of the leaf blank. **p. 104 is blank** and the *Commentarius in librum Sapientiae* follows (a NEW WORK — not this chunk's). The Scholion (`bon-eccl-scholion`, p. 99) precedes; nothing of p. 99 is in this chunk.
 

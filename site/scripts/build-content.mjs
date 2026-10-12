@@ -79,7 +79,9 @@ function parseApparatus(body) {
   if (!app) return [];
   // Append a sentinel entry so the lookahead reliably terminates the last
   // real entry without needing to match end-of-string.
-  const text = app[1] + "\n[^__SENTINEL__]:";
+  // A `---` rule between the last entry and `## Notes` is not part of that entry
+  // (ruling (c), Vol VI Ecclesiastes work-close gate, 2026-10-11).
+  const text = app[1].replace(/\n\s*-{3,}\s*$/, "") + "\n[^__SENTINEL__]:";
   const entries = [];
   const re = /\[\^([^\]]+)\]:\s*([\s\S]*?)(?=\n\[\^[^\]]+\]:)/g;
   let m;

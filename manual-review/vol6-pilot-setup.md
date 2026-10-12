@@ -212,3 +212,16 @@ Corpus-wide; carried to p. 103.
     indented outlines, each branch keeping its verse range) are unchanged; this settles only what ruling 3's plural
     left open. Division 14 is the next after the Scholion's 13. ▶ **General rule for Vols VI–X: a set of editorial
     schemata that cross-refer to one another is one chunk with one section per schema.**
+
+# ECCLESIASTES WORK-CLOSE GATE — RULINGS 20–26 (Wilson, 2026-10-11)
+
+Full evidence and edit list: `manual-review/vol6-ecclesiastes-workclose-gate.md`. All taken as recommended.
+
+- **20.** *poenalitas* → "penalty" · *poena* → "punishment" · *supplicium* → "punishment" (shared with *poena*, as the body already had it). `c7-v24-30` and the Schemata conformed (10 edits); `c7-v2-7`'s legal "liable to penalty" stands.
+- **21.** *mutabilitas* → "mutability" everywhere; the Prooemium/Scholion "changeableness" conformed (4 edits). *intransmutabilitas* ("unchangeableness") and *volubilitas* ("changeableness") are other words and stand.
+- **22.** *commotio* "shaking" / *tremor* "trembling" · *resolutio* "resolution" / *dissolutio* "dissolution" — kept apart; `c12-v1-14` conformed to the Schemata (3 edits).
+- **23.** *iucunditas*: no fixed term (the `bon-serm` ruling-6 release — nothing contrasts it).
+- **24.** Translator's (`tr-`) notes are never indexed: `build-citations.py` skips them (−11 ledger records).
+- **25.** p. 11's italic Scripture reproduced as printed; question CLOSED. Exact count pp. 10/12/13 = 0/11/23.
+- **26.** Heading depth stays flat; CLOSED.
+- **Housekeeping:** Schemata wording differences recorded as printed; Schemata verse ranges not indexed; trailing-`---` bug fixed in `build-content.mjs`; `tr-studium` confirmed.

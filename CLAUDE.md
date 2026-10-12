@@ -2489,8 +2489,8 @@ the WORK-CLOSE GATE at p. 198** — its full carry-list is the START HERE block 
     any apparatus text: `bon-serm-s3`'s `tr-lumen` contributes **three** ledger records (Ps 106, Ps 37, Ps 4)
     and `bon-serm-tract`'s one (Rom 13) — all pre-existing, all confidence C at chapter level, all in
     DEPLOYED Vol V. The records are correct about what the note says; what nobody decided is that **our own
-    editorial voice is indexed alongside Quaracchi's.** Carried to the Vol VI work-close gate (p. 103) as a
-    corpus-wide question. ⭐ The general lesson: **a claim that a tool "never" does something is a claim about
+    editorial voice is indexed alongside Quaracchi's.** ✅ **RULED 2026-10-11 (Vol VI work-close gate, ruling 24): `tr-`
+    notes are NEVER indexed — `build-citations.py` skips `tr-` apparatus labels (ledger −11 records, all `tr-`).** ⭐ The general lesson: **a claim that a tool "never" does something is a claim about
     a denominator, and this one was never measured.** Tested positive and negative 2026-09-15.
   - **Where:** at the first occurrence per chunk, and wherever the sense leans to the other side.
   - ✅ **THE MODEL NOTE, APPROVED BY WILSON 2026-09-16** (`bon-qpe-q2-a2` p. 137, on *qui divinis
@@ -3286,7 +3286,7 @@ Vol VI runs on the same per-chunk machinery as Vol V (§ Vol V mechanics, gutter
 bands-only, census/ledger, `tr-` notes, polish-gate cadence, index conventions all apply; `vol6/`,
 offset `pdf = printed + 42`, ledger `manual-review/vol6-runover-ledger.tsv`, `KNOWN_TOTALS_VOL6`).
 Vol VI's own conventions and rulings live in `manual-review/vol6-pilot-setup.md` (Ecclesiastes
-rulings 1–8, shakedown rulings 9–14, ruling 15) and in the START HERE block of
+rulings 1–8, shakedown rulings 9–14, rulings 15–19, work-close rulings 20–26 — gate CLOSED 2026-10-11) and in the START HERE block of
 `next-session-resume.md`, which is authoritative for the exact front.
 
 **The session loop.** When Wilson opens a session with "continue in bonaventure" (or similar), that
