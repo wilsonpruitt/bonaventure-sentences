@@ -85,23 +85,14 @@ export function TextReader({
       </div>
 
       {viewMode === "parallel" ? (
-        <div className="parallel-grid">
-          <TextColumn
-            label="Textus Latinus"
-            body={latin}
-            scholion={latinScholion}
-            pageMode={pageMode}
-            className="latin-text"
-          />
-          <TextColumn
-            label="English Translation"
-            body={english}
-            scholion={englishScholion}
-            pageMode={pageMode}
-            className="english-text"
-            pendingFallback={!hasTranslation}
-          />
-        </div>
+        <ParallelText
+          latin={latin}
+          english={english}
+          latinScholion={latinScholion}
+          englishScholion={englishScholion}
+          pageMode={pageMode}
+          hasTranslation={hasTranslation}
+        />
       ) : viewMode === "latin" ? (
         <div style={{ maxWidth: "700px" }}>
           <TextColumn
@@ -127,6 +118,83 @@ export function TextReader({
 
       {hasApparatus && <ApparatusBlock apparatus={apparatus} />}
     </>
+  );
+}
+
+// Parallel view. When the Latin and the English carry the same heading
+// sequence (2,132 of 2,163 chunks at 2026-10-12), each heading opens a new grid
+// row, so the two columns re-align at every section — Conclusio, Doubt,
+// Chapter — instead of drifting apart down a long question. Where the
+// sequences differ the two columns run free, as before. At phone width the
+// grid is one column and `order` puts all the Latin before all the English.
+function ParallelText({
+  latin,
+  english,
+  latinScholion,
+  englishScholion,
+  pageMode,
+  hasTranslation,
+}: {
+  latin: string;
+  english: string;
+  latinScholion: string;
+  englishScholion: string;
+  pageMode: PageMode;
+  hasTranslation: boolean;
+}) {
+  const la = splitSections(joinPageTurns(latin));
+  const en = splitSections(joinPageTurns(english));
+  if (!hasTranslation || !sameShape(la, en)) {
+    return (
+      <div className="parallel-grid">
+        <TextColumn
+          label="Textus Latinus"
+          body={latin}
+          scholion={latinScholion}
+          pageMode={pageMode}
+          className="latin-text"
+        />
+        <TextColumn
+          label="English Translation"
+          body={english}
+          scholion={englishScholion}
+          pageMode={pageMode}
+          className="english-text"
+          pendingFallback={!hasTranslation}
+        />
+      </div>
+    );
+  }
+  const n = la.length;
+  return (
+    <div className="parallel-grid parallel-sync">
+      <div className="section-title" style={{ fontSize: "12px", gridColumn: 1, gridRow: 1, order: 0 }}>
+        Textus Latinus
+      </div>
+      <div className="section-title" style={{ fontSize: "12px", gridColumn: 2, gridRow: 1, order: 3 }}>
+        English Translation
+      </div>
+      {la.map((sec, i) => (
+        <div key={`la-${i}`} className="text-column" style={{ gridColumn: 1, gridRow: i + 2, order: 1 }}>
+          {renderParas(sec, "latin-text", pageMode)}
+        </div>
+      ))}
+      {en.map((sec, i) => (
+        <div key={`en-${i}`} className="text-column" style={{ gridColumn: 2, gridRow: i + 2, order: 4 }}>
+          {renderParas(sec, "english-text", pageMode)}
+        </div>
+      ))}
+      {latinScholion && (
+        <div style={{ gridColumn: 1, gridRow: n + 2, order: 2 }}>
+          <Scholion text={latinScholion} className="latin-text" pageMode={pageMode} />
+        </div>
+      )}
+      {englishScholion && (
+        <div style={{ gridColumn: 2, gridRow: n + 2, order: 5 }}>
+          <Scholion text={englishScholion} className="english-text" pageMode={pageMode} />
+        </div>
+      )}
+    </div>
   );
 }
 
@@ -244,15 +312,112 @@ function displayLabel(id: string): string {
   return m ? m[1] : id;
 }
 
+const PAGE_ONLY_RE = /^<!--\s*page\s+(\d+)\s*-->$/;
+const HEADING_START_RE = /^#{3,4}\s/;
+const CONCLUSION_RE = /^(CONCLUSION\.|DOUBT\s+[IVXLCDM]+\.?)$/i;
+
+function isOutline(para: string): boolean {
+  const lines = para.split("\n").filter((l) => l.trim().length > 0);
+  return lines.length > 0 && lines.every((l) => /^( *)- \S/.test(l));
+}
+
+// Running prose — the only kind of paragraph a page marker may be folded into.
+function isProse(para: string): boolean {
+  return (
+    !HEADING_START_RE.test(para) &&
+    !para.startsWith(">") &&
+    !para.startsWith("<!--") &&
+    !para.startsWith("---") &&
+    !CONCLUSION_RE.test(para) &&
+    !isOutline(para)
+  );
+}
+
+// Does `next` carry on the sentence that `prev` broke off at a page turn?
+// A lowercase start always does (incl. the 345 words hyphenated across the
+// turn); otherwise only when `prev` stops without closing punctuation and
+// `next` does not open a numbered argument or a bold rubric.
+function continuesAcross(prev: string, next: string): boolean {
+  if (/^\d+\.\s/.test(next) || next.startsWith("**")) return false;
+  if (/^\p{Ll}/u.test(next)) return true;
+  const last = prev.split("\n").pop()!.trimEnd();
+  return !/[.!?»)\]*"”]$/.test(last);
+}
+
+// The chunks store every page turn as its own paragraph (`<!-- page N -->`
+// between blank lines), even mid-sentence, which split the sentence in two
+// around a block marker. Fold each marker into the text instead: a turn inside
+// a sentence rejoins the halves (no space after a hyphen, so `quae-` + `stio`
+// reads as printed); a turn at a real paragraph break goes onto the start of
+// the next paragraph. Either way the marker renders inline (margin or boxed)
+// and adds no vertical space. Markers next to headings stay standalone.
+function joinPageTurns(body: string): string[] {
+  if (!body) return [];
+  const paras = body.split(/\n{2,}/).map((p) => p.trim()).filter(Boolean);
+  const out: string[] = [];
+  for (let i = 0; i < paras.length; i++) {
+    const para = paras[i];
+    const next = paras[i + 1];
+    if (!PAGE_ONLY_RE.test(para) || next === undefined || !isProse(next)) {
+      out.push(para);
+      continue;
+    }
+    const prev = out[out.length - 1];
+    if (prev !== undefined && isProse(prev) && continuesAcross(prev, next)) {
+      out[out.length - 1] = prev.endsWith("-") ? prev + para + next : `${prev} ${para}${next}`;
+    } else {
+      out.push(para + next);
+    }
+    i += 1;
+  }
+  return out;
+}
+
+// Split paragraphs into sections, each opening at a heading. A heading opens a
+// new section only once the current one has body text: a stack of headings
+// (Articulus over Quaestio) is one section start however the two languages
+// happen to break it into paragraphs, and a standalone page marker just before
+// a heading travels with the heading rather than ending the previous section.
+function splitSections(paras: string[]): string[][] {
+  const sections: string[][] = [[]];
+  let hasBody = false;
+  for (const para of paras) {
+    if (HEADING_START_RE.test(para)) {
+      if (hasBody) {
+        const current = sections[sections.length - 1];
+        const carried: string[] = [];
+        while (current.length > 0 && PAGE_ONLY_RE.test(current[current.length - 1])) {
+          carried.unshift(current.pop()!);
+        }
+        sections.push(carried);
+        hasBody = false;
+      }
+    } else if (!PAGE_ONLY_RE.test(para)) {
+      hasBody = true;
+    }
+    sections[sections.length - 1].push(para);
+  }
+  return sections;
+}
+
+function sameShape(a: string[][], b: string[][]): boolean {
+  if (a.length !== b.length) return false;
+  const level = (sec: string[]) => sec.find((p) => !PAGE_ONLY_RE.test(p))?.match(/^#+/)?.[0] ?? "";
+  return a.every((sec, i) => level(sec) === level(b[i]));
+}
+
 function renderBody(body: string, className: string, pageMode: PageMode) {
-  if (!body) return null;
-  const paragraphs = body.split(/\n{2,}/);
+  return renderParas(joinPageTurns(body), className, pageMode);
+}
+
+function renderParas(paragraphs: string[], className: string, pageMode: PageMode) {
+  if (paragraphs.length === 0) return null;
   const nodes: React.ReactNode[] = [];
   paragraphs.forEach((para, i) => {
     const trimmed = para.trim();
     if (!trimmed) return;
 
-    const pageOnly = trimmed.match(/^<!--\s*page\s+(\d+)\s*-->$/);
+    const pageOnly = trimmed.match(PAGE_ONLY_RE);
     if (pageOnly) {
       if (pageMode !== "off") {
         nodes.push(
@@ -304,8 +469,8 @@ function renderBody(body: string, className: string, pageMode: PageMode) {
     // level) is a NESTED INDENTED OUTLINE — the printed bracket-tree schemata
     // (Vol VI ruling 18: Commentarius in Ecclesiasten, Schemata I–IV). No other
     // body paragraph in the corpus has this shape, so nothing else changes.
-    const outlineLines = para.split("\n").filter((l) => l.trim().length > 0);
-    if (outlineLines.length > 0 && outlineLines.every((l) => /^( *)- \S/.test(l))) {
+    if (isOutline(para)) {
+      const outlineLines = para.split("\n").filter((l) => l.trim().length > 0);
       nodes.push(
         <div key={i} className={className} style={{ marginBottom: "1rem" }}>
           {renderOutline(outlineLines, pageMode)}
@@ -314,7 +479,7 @@ function renderBody(body: string, className: string, pageMode: PageMode) {
       return;
     }
 
-    if (/^(CONCLUSION\.|DOUBT\s+[IVXLCDM]+\.?)$/i.test(trimmed)) {
+    if (CONCLUSION_RE.test(trimmed)) {
       nodes.push(
         <p key={i} className="conclusion-header">
           {trimmed}

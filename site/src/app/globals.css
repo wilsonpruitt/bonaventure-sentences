@@ -289,6 +289,21 @@ a { color: inherit; text-decoration: none; }
 @media (max-width: 768px) {
   .parallel-grid { grid-template-columns: 1fr; }
 }
+/* Section-synced parallel text: one row per heading-led section, so both
+   columns open each section on the same line. No row gap and stretched cells
+   keep each column's left rule continuous down the page. */
+.parallel-sync {
+  row-gap: 0;
+  align-items: stretch;
+}
+@media (max-width: 768px) {
+  /* One column: drop the explicit placement and let `order` stack all the
+     Latin before all the English, as the free-running layout does. */
+  .parallel-sync > * {
+    grid-column: auto !important;
+    grid-row: auto !important;
+  }
+}
 .text-column {
   border-left: 2px solid rgba(139,105,20,0.2);
   padding-left: 1.25rem;
