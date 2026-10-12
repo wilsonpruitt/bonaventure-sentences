@@ -3352,6 +3352,9 @@ KNOWN_TOTALS_VOL6 = {
     99: 4,   # all Cap. XII Vers. 1-14's: n.1 L, nn.2-3 R, n.4 on the
              # full-measure `EXPLICIT ECCLESIASTES` colophon. Blocks L nn.1-2 /
              # R nn.3-4. The SCHOLION below carries no anchor. Gutter 916.
+    100: 1,  # bon-eccl-schemata: the one note under Schema I, anchored on
+             # *poenalitatis*. pp.101-103 (Schemata II-IV) carry NO register
+             # (measured: zero ink below each tree), so they take no entry.
 }
 
 KNOWN_TOTALS_BY_VOL = {

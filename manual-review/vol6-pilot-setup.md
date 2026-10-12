@@ -200,3 +200,15 @@ Corpus-wide; carried to p. 103.
     every bracket member, every verse range, p. 100's one footnote, and p. 103's closing line *(Post tertiam partem
     sequitur conclusio…)* are all transcribed as printed (ruling 9). ▶ **General rule for Vols VI–X:** a printed
     bracket-tree schema is rendered as a nested indented outline in both languages, its addresses kept verbatim.
+
+# RULING 19 — THE CHUNKING OF THE SCHEMATA (Wilson, 2026-10-11, at `bon-eccl-schemata`)
+
+19. **The four Schemata are ONE chunk, `bon-eccl-schemata`, `division: 14`, with `Schema I.`–`IV.` as four sections
+    on one page** (option (a), chosen over four chunks `bon-eccl-schema-1`…`-4`). **Why:** the editors' own p. 100
+    footnote ties them together — *Harum trium partium divisiones exhibentur in schematibus II. III. IV.* — so Schema I
+    is the trunk and II–IV are its three branches drawn out; split into four pages, the note on Schema I would point
+    across chunks at the very trees it introduces. The index's single line (`Schemata » 100`) and the Scholion's *his
+    quatuor schematibus … in uno conspectu* agree. Ruling 3 (their own chunk, rendered in full) and ruling 18 (nested
+    indented outlines, each branch keeping its verse range) are unchanged; this settles only what ruling 3's plural
+    left open. Division 14 is the next after the Scholion's 13. ▶ **General rule for Vols VI–X: a set of editorial
+    schemata that cross-refer to one another is one chunk with one section per schema.**

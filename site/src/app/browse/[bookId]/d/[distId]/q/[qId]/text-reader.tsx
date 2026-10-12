@@ -300,6 +300,20 @@ function renderBody(body: string, className: string, pageMode: PageMode) {
       return;
     }
 
+    // A paragraph whose every line is a `- ` item (two spaces of indent per
+    // level) is a NESTED INDENTED OUTLINE — the printed bracket-tree schemata
+    // (Vol VI ruling 18: Commentarius in Ecclesiasten, Schemata I–IV). No other
+    // body paragraph in the corpus has this shape, so nothing else changes.
+    const outlineLines = para.split("\n").filter((l) => l.trim().length > 0);
+    if (outlineLines.length > 0 && outlineLines.every((l) => /^( *)- \S/.test(l))) {
+      nodes.push(
+        <div key={i} className={className} style={{ marginBottom: "1rem" }}>
+          {renderOutline(outlineLines, pageMode)}
+        </div>
+      );
+      return;
+    }
+
     if (/^(CONCLUSION\.|DOUBT\s+[IVXLCDM]+\.?)$/i.test(trimmed)) {
       nodes.push(
         <p key={i} className="conclusion-header">
@@ -316,6 +330,43 @@ function renderBody(body: string, className: string, pageMode: PageMode) {
     );
   });
   return nodes;
+}
+
+type OutlineNode = { text: string; children: OutlineNode[] };
+
+// Parse `- ` lines (depth = leading spaces / 2) into a tree and render it as
+// nested lists. Each level below the root is indented and carries a faint
+// left rule standing for the printed brace, so the depth reads at phone width.
+function renderOutline(lines: string[], pageMode: PageMode): React.ReactNode {
+  const root: OutlineNode = { text: "", children: [] };
+  const stack: { depth: number; node: OutlineNode }[] = [{ depth: -1, node: root }];
+  for (const line of lines) {
+    const m = line.match(/^( *)- (.*)$/);
+    if (!m) continue;
+    const depth = Math.floor(m[1].length / 2);
+    const node: OutlineNode = { text: m[2], children: [] };
+    while (stack.length > 1 && stack[stack.length - 1].depth >= depth) stack.pop();
+    stack[stack.length - 1].node.children.push(node);
+    stack.push({ depth, node });
+  }
+  const renderLevel = (nodes: OutlineNode[], depth: number, keyPrefix: string): React.ReactNode => (
+    <ul
+      style={{
+        listStyle: "none",
+        margin: depth === 0 ? 0 : "0.15rem 0 0.15rem 0.3rem",
+        padding: depth === 0 ? 0 : "0 0 0 0.7rem",
+        borderLeft: depth === 0 ? "none" : "1px solid rgba(128, 128, 128, 0.45)",
+      }}
+    >
+      {nodes.map((n, idx) => (
+        <li key={`${keyPrefix}-${idx}`} style={{ margin: "0.1rem 0" }}>
+          {renderInline(n.text, pageMode)}
+          {n.children.length > 0 && renderLevel(n.children, depth + 1, `${keyPrefix}-${idx}`)}
+        </li>
+      ))}
+    </ul>
+  );
+  return renderLevel(root.children, 0, "o");
 }
 
 function renderInline(text: string, pageMode: PageMode = "off"): React.ReactNode[] {

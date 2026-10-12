@@ -537,6 +537,11 @@ const WORKS = {
       // last capitulum, on the bon-itin-scholion (8) / bon-hex-scholion (24)
       // precedent; the chunk title is caught type-first ("Scholion").
       13: "Scholion",
+      // The four `SCHEMA I.`–`IV.` read in place on the plates at
+      // bon-eccl-schemata (pp. 100–103; Schema I upright, II–IV each under a
+      // part-title set rotated up the left margin). Ruling 19: ONE chunk, the
+      // next division after the Scholion; caught type-first ("Schemata").
+      14: "Schemata",
     },
   },
 };
@@ -546,6 +551,8 @@ function buildWorkChunkTitle(meta) {
   // (Itinerarium shape) name themselves regardless of division.
   if (meta.type === "capitula") return "Capitula";
   if (meta.type === "scholion") return "Scholion";
+  // The Ecclesiastes Schemata (Vol VI ruling 19: one chunk, four sections).
+  if (meta.type === "schemata") return "Schemata";
   // An undivided work is one chunk and names itself (De reductione).
   if (meta.type === "opusculum") return "Opusculum";
   // The Sermones selecti's fifth division is an annexed tractatulus, not a
