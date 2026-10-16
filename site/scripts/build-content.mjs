@@ -712,8 +712,13 @@ const WORKS = {
       // bon-sap-c19: CAPITULUM XIX. read in place mid-leaf on p. 228 (full measure,
       // no subtitle, no anchor), its Vers. 1 on the same leaf. The work's last
       // chapter runs to p. 233, closing on the unanchored EXPLICIT POSTILLA IN
-      // LIBRUM SAPIENTIAE., above the Scholion (division 20, not yet built).
+      // LIBRUM SAPIENTIAE., above the Scholion (division 20).
       19: "Capitulum XIX",
+      // bon-sap-scholion (ruling 30): the full-measure display heading SCHOLION.
+      // read in place on p. 233 (~0.46 of the leaf), below the Explicit; six
+      // lines in two columns, unanchored. Its own chunk; the chunk title is
+      // caught type-first ("Scholion"). Schema I. opens p. 234 (division 21).
+      20: "Scholion",
     },
   },
 };
