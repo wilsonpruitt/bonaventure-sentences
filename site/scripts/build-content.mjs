@@ -719,6 +719,12 @@ const WORKS = {
       // lines in two columns, unanchored. Its own chunk; the chunk title is
       // caught type-first ("Scholion"). Schema I. opens p. 234 (division 21).
       20: "Scholion",
+      // bon-sap-schemata (ruling 30): Schema I. read in place at the head of
+      // p. 234 and Schema II. at the head of p. 235 — two upright bracket-trees
+      // under part-titles rotated up the left margin. ONE chunk, two sections;
+      // the chunk title is caught type-first ("Schemata"). The work ends here:
+      // p. 236 blank, p. 237 the Commentarius in Evangelium S. Ioannis half-title.
+      21: "Schemata",
     },
   },
 };
