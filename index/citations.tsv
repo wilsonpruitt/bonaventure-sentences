@@ -25572,3 +25572,37 @@ bon-eccl-prooem	6	apparatus:p8-3	p8-3	scripture	apparatus-explicit	Psalm. 49, 16
 bon-eccl-prooem	6	apparatus:p8-6	p8-6	scripture	apparatus-explicit	Matth. 23, 3	Matth 23:3	A	verse		
 bon-eccl-prooem	6	apparatus:p8-7	p8-7	scripture	apparatus-explicit	Matth. 25, 14	Matth 25:14	A	verse		
 bon-eccl-prooem	6	apparatus:p8-7	p8-7	scripture	apparatus-explicit	Luc. 19, 12	Luc 19:12	A	verse		
+bon-sap-prooem	6	latin_body	p107-1	scripture	body-ordinal	Sapientiae sexto	Sap 6:23	B	verse		
+bon-sap-prooem	6	latin_body	p107-4	scripture	body-ordinal	Sapientiae septimo	Sap 7:30	B	verse		
+bon-sap-prooem	6	latin_body	p107-7	scripture	body-ordinal	Proverbiorum vigesimo septimo	Prov 27:11	B	verse		
+bon-sap-prooem	6	latin_body	p107-9	scripture	body-ordinal	Ecclesiastici trigesimo octavo	Eccli 38:25	B	verse		
+bon-sap-prooem	6	latin_body	p107-10	scripture	body-ordinal	Ecclesiastici decimo quarto	Eccli 14:22	B	verse		
+bon-sap-prooem	6	latin_body		scripture	body-ordinal	Proverbiorum tertio	Prov 3	C	chapter		
+bon-sap-prooem	6	latin_body		scripture	body-ordinal	Proverbiorum vigesimo secundo	Prov 22	C	chapter		
+bon-sap-prooem	6	latin_body	p108-1	scripture	body-ordinal	Iob trigesimo secundo	Iob 32:8	B	verse		
+bon-sap-prooem	6	latin_body		scripture	body-ordinal	Ecclesiastici primo	Eccli 1	C	chapter		
+bon-sap-prooem	6	latin_body	p108-5	scripture	body-ordinal	Iob vigesimo octavo	Iob 28:18	B	verse		
+bon-sap-prooem	6	latin_body		scripture	body-ordinal	Sapientiae sexto	Sap 6	C	chapter		
+bon-sap-prooem	6	latin_body	p108-6	scripture	body-ordinal	Ecclesiastici vigesimo primo	Eccli 21:16	B	verse		
+bon-sap-prooem	6	latin_body		scripture	body-ordinal	Ecclesiastici quadragesimo tertio	Eccli 43	C	chapter		
+bon-sap-prooem	6	apparatus:p107-1	p107-1	scripture	apparatus-explicit	Ps. 103, 24	Ps 103:24	A	verse		
+bon-sap-prooem	6	apparatus:p107-2	p107-2	scripture	apparatus-explicit	Matth. 22, 20	Matth 22:20	A	verse		
+bon-sap-prooem	6	apparatus:p107-2	p107-2	scripture	apparatus-explicit	Gen. 1, 26	Gen 1:26	A	verse		
+bon-sap-prooem	6	apparatus:p107-6	p107-6	scripture	anaphor->apparatus-explicit	ibid.	Gen 1:26	A	verse	yes	Gen. 1, 26
+bon-sap-prooem	6	apparatus:p107-9	p107-9	crossref	page	supra pag. 66, nota 1	bon-eccl-c8-v1-8		chunk		
+bon-sap-prooem	6	apparatus:p107-10	p107-10	scripture	apparatus-explicit	Prov. 3, 3	Prov 3:3	A	verse		
+bon-sap-prooem	6	apparatus:p108-1	p108-1	scripture	apparatus-explicit	Eccli. 1, 1	Eccli 1:1	A	verse		
+bon-sap-prooem	6	apparatus:p108-2	p108-2	crossref	page	tom. II. pag. 94, nota 4	bon-sent-II-d3-p1-a1-q2		chunk		
+bon-sap-prooem	6	apparatus:p108-4	p108-4	scripture	apparatus-explicit	II. Reg. 12, 25	2Reg 12:25	A	verse		
+bon-sap-prooem	6	apparatus:p108-4	p108-4	crossref	page	supra pag. 10, nota 3	bon-eccl-c1-v1+bon-eccl-c1-v2-7		page-multi		
+bon-sap-prooem	6	apparatus:p108-4	p108-4	crossref	page	tom. V. pag. 361	bon-hex-c6		chunk		
+bon-sap-prooem	6	apparatus:p108-4	p108-4	crossref	anaphor->page	ibid.	bon-hex-c6		chunk	yes	tom. V. pag. 361
+bon-sap-prooem	6	apparatus:p108-5	p108-5	scripture	apparatus-explicit	Sap. 6, 13	Sap 6:13	A	verse		
+bon-sap-prooem	6	apparatus:p108-7	p108-7	scripture	apparatus-explicit	Cor. 12, 8	Cor* 12:8	A	verse		
+bon-sap-prooem	6	apparatus:p109-3	p109-3	scripture	apparatus-explicit	Ps. 75, 5	Ps 75:5	A	verse		
+bon-sap-prooem	6	apparatus:p109-3	p109-3	scripture	apparatus-explicit	Eccli. 43, 4	Eccli 43:4	A	verse		
+bon-sap-prooem	6	apparatus:p109-4	p109-4	scripture	apparatus-explicit	Psalm. 71, 3	Ps 71:3	A	verse		
+bon-sap-prooem	6	apparatus:p109-4	p109-4	scripture	apparatus-explicit	Sap. 8, 1	Sap 8:1	A	verse		
+bon-sap-prooem	6	apparatus:p109-5	p109-5	crossref	page	tom. II. pag. 473	bon-sent-II-d19-a3-q2+bon-sent-II-d19-dubia		page-multi		
+bon-sap-prooem	6	apparatus:p109-5	p109-5	crossref	page	tom. II. pag. 134	bon-sent-II-d4-a1-q2		chunk		
+bon-sap-prooem	6	apparatus:p109-5	p109-5	scripture	apparatus-explicit	Eccli. 10, 2	Eccli 10:2	A	verse		

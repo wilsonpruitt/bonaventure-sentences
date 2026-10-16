@@ -546,6 +546,30 @@ const WORKS = {
       14: "Schemata",
     },
   },
+  // The second Scripture commentary (Sapientiae mini-pilot, rulings 27–35,
+  // manual-review/vol6-pilot-setup.md; evidence sapientiae-pilot-scouting.md).
+  // English title "Commentary on the Book of Wisdom" (ruling 32). Unlike
+  // Ecclesiastes, the volume index gives each capitulum ONE line (`Vers. 1-N`)
+  // and lists no Quaestiones, so the chunk IS the capitulum (ruling 27):
+  // `bon-sap-c{1..19}`, `verses: "1-N"`, rendered "Cap. N, Vers. 1-N" by the
+  // ecclesiasten branch of buildWorkChunkTitle. Division 0 holds two chunks
+  // (ruling 28): `bon-sap-prooem` (section 1, type prooemium) and
+  // `bon-sap-prol` (section 2, type expositio). The printed `PARS I.` (p. 110)
+  // and `PARS II.` (p. 144) are headings inside c1 and c6, with NO `pars:`
+  // field (ruling 29). Planned: 20 Scholion, 21 Schemata (ruling 30). Each
+  // capitulum adds its own line after its heading is read in place.
+  sapientiam: {
+    book: 16,
+    tome: 6,
+    title: "Commentarius in librum Sapientiae",
+    initial: "S",
+    divisionLabel: "Capitula",
+    divisions: {
+      // `PROOEMIUM / COMMENTARII IN SAPIENTIAM` read in place on p. 107 (full
+      // measure, unanchored) at bon-sap-prooem.
+      0: "Prooemium",
+    },
+  },
 };
 
 function buildWorkChunkTitle(meta) {
@@ -609,7 +633,9 @@ function buildWorkChunkTitle(meta) {
   // verse-pericope inside it, so the chunk title needs both. `verses` is the
   // index's own form ("1", "2-7"); a pericope always has one, so its absence
   // means a non-pericope chunk (Scholion, Schemata) caught type-first above.
-  if (meta.workSlug === "ecclesiasten") {
+  // The Commentarius in librum Sapientiae has the same shape (ruling 33), its
+  // pericope being the whole chapter ("Cap. 3, Vers. 1-19").
+  if (meta.workSlug === "ecclesiasten" || meta.workSlug === "sapientiam") {
     return meta.verses
       ? `Cap. ${meta.division}, Vers. ${meta.verses}`
       : `Cap. ${meta.division}`;

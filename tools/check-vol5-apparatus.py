@@ -3355,6 +3355,18 @@ KNOWN_TOTALS_VOL6 = {
     100: 1,  # bon-eccl-schemata: the one note under Schema I, anchored on
              # *poenalitatis*. pp.101-103 (Schemata II-IV) carry NO register
              # (measured: zero ink below each tree), so they take no entry.
+    # Commentarius in librum Sapientiae (pp. 107-235).
+    107: 10, # bon-sap-prooem. Anchors L nn.1-6 / R nn.7-10; blocks L nn.1-6 /
+             # R nn.7-10 (agree). Display stack + INTRODUCTIO GENERALIS
+             # unanchored. No runover. Gutter 939.
+    108: 7,  # bon-sap-prooem. Anchors L nn.1-3 / R nn.4-7; blocks L nn.1-4 /
+             # R n.4 (tail), 5-7 (DISAGREE: n.4 anchors RIGHT, prints LEFT and
+             # RUNS OVER the gutter). Gutter 1113.
+    109: 8,  # nn.1-5 bon-sap-prooem (nn.1-4 L, n.5 R above the in-column
+             # PROLOGUS S. HIERONYMI heading); nn.6-8 bon-sap-prol (n.6 at
+             # *exprimitur* in Jerome's Prologus, nn.7-8 in the Expositio).
+             # Blocks L nn.1-6 (n.6 head) / R n.6 (tail), 7-8: n.6 runs over the
+             # gutter and is prol's to ledger. Gutter 919.
 }
 
 KNOWN_TOTALS_BY_VOL = {
