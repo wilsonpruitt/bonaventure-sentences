@@ -678,6 +678,12 @@ const WORKS = {
       // label), above `CAPITULUM XIV.` on p. 196 (~0.21) — the index's 196 is
       // the page of XIV's heading AND its `(Vers. 1.)` (ruling 55 confirmed).
       13: "Capitulum XIII",
+      // bon-sap-c14 (2026-10-16): CAPITULUM XIV. read in place on p. 196
+      // (~0.21, full measure, no subtitle, no anchor); title_la = the small
+      // bold `Secundo agitur de detestatione idolorum quadrupliciter.` directly
+      // below it (covers exactly Cap. XIV; plain, no descent). Runs to Vers. 31
+      // (= index label) on p. 203; CAPITULUM XV. heads p. 204.
+      14: "Capitulum XIV",
     },
   },
 };
