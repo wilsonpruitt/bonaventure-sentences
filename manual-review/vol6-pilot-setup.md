@@ -260,3 +260,31 @@ register census, mechanics). Taken before any chunk existed.
   p. 235. ONE deploy, at p. 235.** Each gate on Wilson's go only.
 - **35. One Opus agent per chunk, incremental-append discipline from the start; a two-pass build only for a chunk that
   dies once or measures over ~10 pp.** ~50–70 apparatus entries per capitulum is a planning figure, never a gate.
+
+# SAPIENTIAE SHAKEDOWN GATE (p. 125) — RULINGS 36–43 (Wilson, 2026-10-16; "all as recommended")
+
+Evidence sheet: `manual-review/vol6-sapientiae-shakedown-evidence.md`; gate log
+`manual-review/vol6-sapientiae-shakedown-gate.md`. Scope `bon-sap-prooem` · `prol` · `c1` · `c2`, pp. 107–125.
+
+- **36. `title_la` procedure RATIFIED:** take the first heading printed below `Capitulum N.`; if that heading
+  governs a run of capitula, descend to the next; if nothing stands below, take the subdivisio heading above that
+  covers exactly the chapter (c1/c2 as built). Expect XIII, XVI, XVIII to need it. 0 lines.
+- **37. A Quaracchi verse slip is transcribed as printed in the Latin and bracketed in the English** —
+  `[so printed; the verse is Job 6:25]` at c1 p. 115 n. 6 (the `bon-qpe-q4-a1` form). No `[?]`; the ledger's
+  Job 6:2 record goes to the resolver docket. 1 line.
+- **38. The same treatment for a locus slip:** c2 p. 121 n. 3 `I. de Doctr. christ. c. 3. n. 4` →
+  English `[so printed; the passage is I, c. 4, n. 4]`. 1 line.
+- **39. Ruling 31 KEPT at the measured density** — c1 **9**, c2 **4** `Quaestio` marginalia (c1's Notes and the
+  resume note had said "seven"; corrected). **From `bon-sap-c3` on, each chunk's Notes carries a
+  `### Marginal quaestiones` table** (page, column, marginale, incipit) so the p. 192 / p. 235 gates can derive
+  the count. Notes only; nothing rendered. 0 text lines.
+- **40. Resolver docket (ruling 14) gains:** "2c" — c2 p. 121 n. 2's stray `ibid. 37, 20` binds to a false
+  crossref (p. 118) and loses Gen. 37:20; plus c1 p. 116 n. 2 `d. 38. q. 5. et 6.` (q. 6 never emitted),
+  prooem p. 108 n. 7 `[I: Cor.` → `Cor*`, prol p. 109 n. 8 `Supra n. 5. 6.` unparsed. No text edit.
+- **41. DEFECT REPAIRED:** c2 English `**Contra:**` at pp. 123 and 125 → "**On the contrary:**" (c1's form and
+  the formula table's). The Latin keeps `**Contra:**`. 2 lines.
+- **42. Optional conformings DECLINED:** *malorum* → "wicked men" (c2 p. 122) and Sap. 5:6 "hath not shone"
+  stand. One site each; no ruling earned.
+- **43. OUT OF SCOPE, PARKED as its own scoped job:** untranslated `Contra:` / `Sed contra:` labels in DEPLOYED
+  English (Ecclesiastes 14 + 2; scattered in Vols III–V — ~34 English sites corpus-wide against ~1,170
+  "On the contrary:"). Mechanical conform to "On the contrary:"; needs a deploy, so after the Vercel freeze.

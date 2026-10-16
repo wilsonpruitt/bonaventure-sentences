@@ -228,7 +228,7 @@ In the first part, on the side of *works,* he touches on a threefold cause, of w
 
 (V. 15.). *He is grievous unto us even to behold,* namely on account of the *manifestation* of their sins; Augustine[^p123-1]: « To sick eyes light is hateful »; John, the third: « He that doth evil hateth the light ». And this, that they could not bear to see him, was a sign of envy; whence the first of Kings, the eighteenth: « Saul did not look on David with a right eye », namely because he envied him. *For his life is unlike to others,* namely the whole outward life or conversation.
 
-**Contra:** to the Hebrews, the second[^p123-2]: « It behoved him in all things to be made like unto his brethren ».
+**On the contrary:** to the Hebrews, the second[^p123-2]: « It behoved him in all things to be made like unto his brethren ».
 
 It must be said that the Apostle speaks of likeness of passible nature; here, of likeness of guilt.
 
@@ -264,7 +264,7 @@ Now the death of Christ was most shameful by reason of *place,* because outside 
 <!-- page 125 -->
 likeness »; *to the image,* namely in natural things; *of his own likeness,* namely in gratuitous things; or: *to the image,* in the *cognitive* power; *to the likeness,* in the *affective* power; for an *image* is the principle of knowing, a *likeness* the ground of loving; for « every » « beast loveth its like », Ecclesiasticus, the thirteenth[^p125-1]; *he made him.* — *But by the envy of the devil,* who namely envied the happiness of our first parents, *death came into the world.*
 
-**Contra:** to the Romans, the fifth[^p125-2]: « By one man sin entered, and by sin death ».
+**On the contrary:** to the Romans, the fifth[^p125-2]: « By one man sin entered, and by sin death ».
 
 It must be said that it entered through the devil suggesting and through man consenting.
 
@@ -370,7 +370,7 @@ It must be said that it entered through the devil suggesting and through man con
 
 [^p121-3]: **La.** Vers. 41. — Sequuntur tres loci August.; primus est ex I. de Doctr. christ. c. 3. n. 4: Frui enim est etc.; secundus ex X. de Trin. c. 11. n. 17: Uti est etc.; tertius ex 83 Qq. q. 30, de quo vide supra pag. 51, nota 8.
 
-     **En.** V. 41. — There follow three passages of Augustine; the first is from I *On Christian Doctrine,* c. 3, n. 4: *For to enjoy is* etc.; the second from X *On the Trinity,* c. 11, n. 17: *To use is* etc.; the third from the *Eighty-three Questions,* q. 30, on which see above, p. 51, note 8.
+     **En.** V. 41. — There follow three passages of Augustine; the first is from I *On Christian Doctrine,* c. 3, n. 4 [so printed; the passage is I, c. 4, n. 4]: *For to enjoy is* etc.; the second from X *On the Trinity,* c. 11, n. 17: *To use is* etc.; the third from the *Eighty-three Questions,* q. 30, on which see above, p. 51, note 8.
 
 [^p121-4]: **La.** Vers. 35. — Sequuntur Eccle. 11, 9. et Isai. 22, 13. Glossa inferius allegata neque a Strabo neque a Lyrano exhibetur. Card. Hugo a S. Charo: *Celeriter,* quia tempus breve est, et nos vel illa transeamus.
 
@@ -565,7 +565,7 @@ It must be said that it entered through the devil suggesting and through man con
 - p. 123 n. 4 calls the lemma *viae eius* where the body prints *viae illius*; p. 124 n. 8's guillemet `« Consilia Dei…` is not closed — both reproduced.
 - p. 122 n. 3 (*Edd., contradicentibus codd., hoc secundum membrum omittit*) anchors on the divisio's *Et improperat nobis*³; p. 119 n. 1, n. 2 and p. 123 n. 11 record Quaracchi's supplements from the codices; the body is transcribed as Quaracchi prints it.
 
-**⭐ RULING 31 — FOUR MARGINAL `Quaestio.` SITES, ordinary paragraphs, marginale to Notes:** p. 120 L `Quaestio 1.`/`Resp.` (*Sed obiicitur, quod opera multorum reproborum… adhuc memorantur*) · p. 120 R `Quaestio 2.`/`Resp.` (*facta celebria et laudabilia*) · p. 123 L `Quaestio.`/`Resp.` (`Cᴏɴᴛʀᴀ:` Hebr. 2:17) · p. 125 R `Quaestio.`/`Resp.` (`Cᴏɴᴛʀᴀ:` Rom. 5:12). The small-cap `Cᴏɴᴛʀᴀ:` → `**Contra:**` ("On the contrary:", c1's house form). Nothing lifted into `### Quaestiones`. With c1's seven, **eleven sites in two chapters against the pilot's ~5 for the whole work** — for the gate.
+**⭐ RULING 31 — FOUR MARGINAL `Quaestio.` SITES, ordinary paragraphs, marginale to Notes:** p. 120 L `Quaestio 1.`/`Resp.` (*Sed obiicitur, quod opera multorum reproborum… adhuc memorantur*) · p. 120 R `Quaestio 2.`/`Resp.` (*facta celebria et laudabilia*) · p. 123 L `Quaestio.`/`Resp.` (`Cᴏɴᴛʀᴀ:` Hebr. 2:17) · p. 125 R `Quaestio.`/`Resp.` (`Cᴏɴᴛʀᴀ:` Rom. 5:12). The small-cap `Cᴏɴᴛʀᴀ:` → `**Contra:**` in the Latin, "**On the contrary:**" in the English (c1's house form; the English was left as `**Contra:**` at both sites and repaired at the p. 125 shakedown gate). Nothing lifted into `### Quaestiones`. With c1's nine, **thirteen `Quaestio` marginalia in two chapters against the pilot's ~5 for the whole work** — for the gate.
 
 **⭐ ITALIC (COLLECTION CHANGE).** *Expositio* exceptions: **NONE — a positive zero.** Every scriptural quotation in the expositio is roman in guillemets; lemma and divisio incipits italic.
 ### Italic — non-expositio sites
