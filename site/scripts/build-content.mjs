@@ -568,6 +568,14 @@ const WORKS = {
       // `PROOEMIUM / COMMENTARII IN SAPIENTIAM` read in place on p. 107 (full
       // measure, unanchored) at bon-sap-prooem.
       0: "Prooemium",
+      // `CAPITULUM I.` read in place on the plate at bon-sap-c1 (p. 110, full
+      // measure, centred, ~0.61 of the leaf, no subtitle and no anchor; the
+      // raw keeps it, L19411). Above it on the same leaf stand the
+      // COMMENTARIUS stack, DIVISIO GENERALIS and `PARS I. EXHORTATIO AD
+      // IUSTITIAM.` with its subdivisiones — headings inside c1, no `pars:`
+      // field (ruling 29). The chunk runs to Vers. 16, before `CAPITULUM II.`
+      // on p. 118, though its `verses` keeps the index label "1-15".
+      1: "Capitulum I",
     },
   },
 };

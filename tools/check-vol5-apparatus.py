@@ -3376,6 +3376,18 @@ KNOWN_TOTALS_VOL6 = {
              # *Anselmum* L, n.7 *dilexit* R). Blocks L nn.1-3 / R n.3 (tail),
              # 4-7: n.3 RUNS OVER the gutter and is c1's to ledger. Gutter:
              # top region cut at the printed rule 1117; register 1139.
+             # bon-sap-c1 re-derived nn.2-7 by anchor and ledgered p.110 n.3:gutter.
+    111: 11, # bon-sap-c1. Anchors L nn.1-6 / R nn.7-11; blocks L 1-3 / R 4-11. Gutter 913.
+    112: 10, # bon-sap-c1. Anchors and blocks agree L 1-5 / R 6-10. Gutter 1123.
+    113: 11, # bon-sap-c1. Anchors L 1-6 / R 7-11; n.5 RUNS OVER the gutter. Gutter 906.
+    114: 8,  # bon-sap-c1. Anchors L 1-4 / R 5-8; n.4 RUNS OVER the gutter. Gutter 1130.
+    115: 8,  # bon-sap-c1. Anchors L 1-3 / R 4-8; blocks L 1-7 / R 7-8, n.7 RUNS OVER. Gutter 900.
+    116: 14, # bon-sap-c1. Anchors L 1-6 / R 7-14; n.7 RUNS OVER the gutter. Gutter 1133.
+    117: 12, # bon-sap-c1. Anchors L 1-7 / R 8-12; n.5 RUNS OVER the gutter. Gutter 907.
+    118: 8,  # SHARED. nn.1-3 bon-sap-c1 (n.1 *Glossa* L, nn.2-3 R, above the
+             # full-measure CAPITULUM II. at ~0.28); nn.4-8 bon-sap-c2 (n.4
+             # *Bene dixi* L at Cap. II Vers. 1, nn.5-8 R). Blocks L 1-5 / R 6-8.
+             # No runover. Register gutter 1131.
 }
 
 KNOWN_TOTALS_BY_VOL = {
