@@ -620,6 +620,15 @@ const WORKS = {
       // this chapter (the title_la, ruling 36). The chunk runs to Vers. 21,
       // above `CAPITULUM IX.` on p. 166 (~0.48 of the leaf).
       8: "Capitulum VIII",
+      // `CAPITULUM IX.` read in place on the plate at bon-sap-c9 (p. 166, full
+      // measure, centred small capitals, ~0.43 of the leaf below Cap. VIII's
+      // close, no subtitle, no anchor; the raw DROPS it). Below it the centred
+      // italic `Tertio ostendit, quam devote sapientiam a Deo petierit.` — the
+      // third member of c7's ratio, governing exactly this chapter (title_la,
+      // ruling 36). The chunk runs to Vers. 19, above `CAPITULUM X.` on p. 171
+      // (~0.25 of the leaf). The index's "174" for Cap. X is a pilot misreading
+      // of a printed 171 (the 1/4 class); see the chunk's Notes.
+      9: "Capitulum IX",
     },
   },
 };
