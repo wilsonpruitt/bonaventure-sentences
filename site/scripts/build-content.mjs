@@ -709,6 +709,11 @@ const WORKS = {
       // chapter runs to p. 228, where CAPITULUM XIX. stands mid-leaf with its
       // Vers. 1 on the same leaf (the index's 228).
       18: "Capitulum XVIII",
+      // bon-sap-c19: CAPITULUM XIX. read in place mid-leaf on p. 228 (full measure,
+      // no subtitle, no anchor), its Vers. 1 on the same leaf. The work's last
+      // chapter runs to p. 233, closing on the unanchored EXPLICIT POSTILLA IN
+      // LIBRUM SAPIENTIAE., above the Scholion (division 20, not yet built).
+      19: "Capitulum XIX",
     },
   },
 };

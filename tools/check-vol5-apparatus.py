@@ -3546,8 +3546,15 @@ KNOWN_TOTALS_VOL6 = {
     225: 11, # bon-sap-c18 (n.6 runs over the gutter).
     226: 10, # bon-sap-c18 (n.5 runs over the gutter).
     227: 9,  # bon-sap-c18.
-    228: 8,  # n.1 bon-sap-c18 (above the mid-leaf CAPITULUM XIX.); nn.2-8 PENDING bon-sap-c19.
-             # Anchors L 1-6 / R 7-12; blocks L 1-7 / R 8-12. Gutter 897 (above the heading).
+    228: 8,  # n.1 bon-sap-c18 (above the mid-leaf CAPITULUM XIX.); nn.2-8 bon-sap-c19 (anchors L 2-4 / R 5-8;
+             # blocks L 1-5 head / R 5 tail + 6-8, n.5 RUNS OVER the gutter). Gutter 1142 (below the heading).
+    229: 9,  # bon-sap-c19. Anchors L 1-5 / R 6-9; blocks L 1-7 head / R 7 tail + 8-9, n.7 RUNS OVER the gutter. Gutter 896.
+    230: 12, # bon-sap-c19. Anchors L 1-5 / R 6-12; blocks L 1-7 head / R 7 tail + 8-12, n.7 RUNS OVER the gutter.
+             # Gutter 1151 (SKEW 26 px, one split suffices).
+    231: 13, # bon-sap-c19. Anchors L 1-4 / R 5-13; blocks L 1-6 / R 7-13 (nn.5-6 print LEFT, anchor RIGHT). Gutter 890.
+    232: 10, # bon-sap-c19. Anchors L 1-4 / R 5-10; blocks L 1-3 / R 4-10 (n.4 anchors LEFT, prints RIGHT). Gutter 1158.
+    233: 6,  # bon-sap-c19 owns all six (anchored above the EXPLICIT; the Scholion below carries none). Anchors L 1-3 /
+             # R 4-6; blocks L 1-4 head / R 4 tail + 5-6, n.4 RUNS OVER the gutter. Gutter 900.
 }
 
 KNOWN_TOTALS_BY_VOL = {
