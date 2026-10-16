@@ -3491,6 +3491,16 @@ KNOWN_TOTALS_VOL6 = {
              # (nn.6-7 print LEFT, anchor RIGHT; n.6 set flush right on n.5's last line). Gutter 1124.
     191: 8,  # SHARED: nn.1-7 bon-sap-c12 (above the full-measure CAPITULUM XIII. heading, ~0.58; anchors L 1-4 / R 5-7);
              # n.8 bon-sap-c13 (LEFT, below the heading, at *Supra*). Blocks L 1-4 / R 5-8. Gutter 897 above the heading.
+             # c13 re-derived n.8: POSITION and COLUMN right; its entry prints last in the RIGHT block. Gutter 900 below.
+    192: 13, # bon-sap-c13. Anchors L 1-5 / R 6-13; blocks L 1-7 head / R 7 tail + 8-13, n.7 RUNS OVER the gutter
+             # (nn.6-7 print LEFT, anchor RIGHT). Gutter 1115.
+    193: 11, # bon-sap-c13. Anchors L 1-6 / R 7-11; blocks L 1-8 head / R 8 tail + 9-11, n.8 RUNS OVER the gutter
+             # (nn.7-8 print LEFT, anchor RIGHT). Gutter 887.
+    194: 10, # bon-sap-c13. Anchors L 1-5 / R 6-10; blocks L 1-7 head / R 7 tail + 8-10, n.7 RUNS OVER the gutter
+             # (nn.6-7 print LEFT, anchor RIGHT). Gutter 1139.
+    195: 12, # bon-sap-c13. Anchors L 1-5 / R 6-12; blocks L 1-5 / R 6-12 (blocks and anchors coincide). Gutter 890.
+    196: 11, # SHARED: nn.1-4 bon-sap-c13 (above the full-measure CAPITULUM XIV. heading, ~0.21; anchors L 1-2 / R 3-4,
+             # all four print in the LEFT block); nn.5-11 bon-sap-c14 (PENDING). Gutter 1151 above the heading.
 }
 
 KNOWN_TOTALS_BY_VOL = {

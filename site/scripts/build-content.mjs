@@ -666,6 +666,18 @@ const WORKS = {
       // (~0.58 of the leaf) — the index prints 192 for Cap. XIII, the page on
       // which its `(Vers. 1.)` first stands; the heading is on 191.
       12: "Capitulum XII",
+      // `CAPITULUM XIII.` read in place on the plate at bon-sap-c13 (p. 191, full
+      // measure, centred small capitals, ~0.58 of the leaf below Cap. XII's
+      // close, no subtitle, no anchor). Below it, descended twice under ruling
+      // 36: the italic `Secundo, de punitione per poenas graviores…` (cc.
+      // XIII–XIX) and the small bold `Primo determinatur de demerito culpae
+      // tripliciter.` (cc. XIII–XV) both govern runs; the small bold `Primo
+      // agitur de errore idololatrantium.` covers exactly this chapter (sibling
+      // `Secundo agitur de detestatione idolorum quadrupliciter.` heads Cap. XIV),
+      // plain, not fused: the title_la. The chunk runs to Vers. 19 (= index
+      // label), above `CAPITULUM XIV.` on p. 196 (~0.21) — the index's 196 is
+      // the page of XIV's heading AND its `(Vers. 1.)` (ruling 55 confirmed).
+      13: "Capitulum XIII",
     },
   },
 };
