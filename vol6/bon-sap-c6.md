@@ -161,7 +161,7 @@ Ecclesiastici decimo: « Iudex sapiens iudicabit populum suum, et principatus se
 
 #### First he takes a reason from the peril of the office of superiors.
 
-In the first he touches first on the *punishment* and torment *of unwise rulers;* secondly, on the contrary, on the *reward of wise rulers: To you therefore;* thirdly, he admonishes both *to covet wisdom: Covet ye* etc.; fourthly, he promises *to teach it: Now what wisdom is.*
+In the first he touches first on the *punishment* and penalty *of unwise rulers;* secondly, on the contrary, on the *reward of wise rulers: To you therefore;* thirdly, he admonishes both *to covet wisdom: Covet ye* etc.; fourthly, he promises *to teach it: Now what wisdom is.*
 
 #### *First, of the punishment of unwise rulers.*
 
@@ -199,7 +199,7 @@ But if the care of providence he has of good and wicked is equal [so printed; *s
 
 I respond: it must be said that he speaks of natural providence, not of gratuitous. Or: *equally,* that is, alike.
 
-And although he has *care* of all equally, yet he will not *punish* all equally[^p146-12]. — *But* (*autem*), for *sed. For the mightier,* in evil, *a mightier torment is ready,* in punishment, as is plain in Lucifer and the other demons.
+And although he has *care* of all equally, yet he will not *punish* all equally[^p146-12]. — *But* (*autem*), for *sed. For the mightier,* in evil, *a mightier torment is ready,* in penalty, as is plain in Lucifer and the other demons.
 <!-- page 147 -->
 
 #### *Secondly, of the reward of wise rulers.*
@@ -647,3 +647,5 @@ Banked, not resolved.
 **⭐ GUTTERS, profiled and printed (Vol VI's sound band ~46–52 px).** p. 144 below the heading **1137** (rows 0.40–0.72, band 1115–1159, 45 px, 5 px spread; c5's value reproduced) · p. 145 **914** (band 891–937, 47 px, 3 px spread, rule peak 1053) · p. 146 **1136** (band 1111–1161, 51 px, 0 px) · p. 147 **907** (band 883–931, 49 px, 1 px) · p. 148 **1141** (band 1117–1165, 49 px, 0 px) · p. 149 **907** (band 885–929, 45 px, 1 px, rule peak 936) · p. 150 **1133** (band 1110–1157, 48 px, 1 px) · p. 151 above the heading **907** (rows 0.035–0.105, too thin for the window consensus; direct ink profile: rule 905–907, text edges 883 / 930) and below it **911** (rows 0.19–0.72, band 888–934, 47 px, 1 px) — two regions, both measured.
 
 **Citation ledger:** 180 records ours (171 scripture: A 83 · B 31 · C 57; 9 crossrefs — 7 `chunk`, 2 `page-multi`), zero dangling/unresolvable/ambiguous, **QA 208 unchanged, ZERO QA lines ours, ZERO inbound lines moved** (the citations.tsv diff is 180 additions, all this chunk's). Crossrefs land as they should: p. 144 n. 7 and p. 150 n. 4 → `bon-sap-prooem` (p. 108 n. 7); p. 148 n. 6 → `bon-sap-prooem` (p. 107 n. 5); p. 149 n. 1 `tom. V. pag. 336` → `bon-hex-c2`; p. 149 n. 2 `tom. IV. pag. 336, nota 5` → `bon-sent-IV-d14-p2-a2-q1`; p. 149 n. 4 → `bon-sent-III-d34-p1-dubia`; p. 146 n. 12 → `bon-sent-IV-d46-a1-q3`. ⚠ For the resolver docket (rulings 14/40): p. 145 n. 4 `supra pag. 82, nota 2` and p. 149 n. 10 `supra pag. 109, nota 5` come back `page-multi` though each note is defined in one chunk only (`bon-eccl-c10-v4-7`; `bon-sap-prol`) — the shared-leaf owner class; and three chained loci are not emitted: p. 146 n. 11 `I. Sent. lit. Magistri, d. XXXIX. c. 4, et ibid. Comment. dub. 6`, p. 146 n. 12's `et 4.` (q. 4), p. 149 n. 4's `et p. II. dub. 5.` No text edit.
+
+- **Work-close gate (p. 235), 2026-10-16 — Wilson, "all as recommended" (rulings 59–68, `manual-review/vol6-pilot-setup.md`):** ruling 59 (A1): *supplicium* → "penalty" at both sites (p. 144 *poenam et supplicium* → "*punishment* and penalty", formerly "torment"; p. 146 *in supplicio* → "in penalty", beside *cruciatio* "torment"). English only.

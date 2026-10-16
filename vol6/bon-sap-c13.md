@@ -129,7 +129,7 @@ Sed dicendum, quod non est simile: quia idololatrae adorabant imagines ut *res,*
 
 #### *Secondly, on punishing through heavier punishments ordained to condemnation, it is determined in two ways.*
 
-*But all men are vain* etc. Above[^p191-8] he determined of the punishing of the adversaries through lighter punishments ordained to correction, but here of their punishing through *heavier* punishments ordained to condemnation. And first he determines of the merit of their *fault,* namely up to the sixteenth chapter; secondly, of the punishment of their *punishment,* namely from the sixteenth chapter onward.
+*But all men are vain* etc. Above[^p191-8] he determined of the punishing of the adversaries through lighter punishments ordained to correction, but here of their punishing through *heavier* punishments ordained to condemnation. And first he determines of the merit of their *fault,* namely up to the sixteenth chapter; secondly, of the penalty of their *punishment,* namely from the sixteenth chapter onward.
 
 #### First is determined the demerit of fault, in three ways.
 
@@ -509,3 +509,5 @@ Banked, not resolved.
 - **item (3) gains:** the C3/C4 sites above, the four lost *Baruch ultimo* records, and the tier-B mis-join (c) — a body sentence carrying two ordinals before one anchor hands the note's verse to both.
 - **ruling 55 measured at XIV:** heading and `(Vers. 1.)` share p. 196; the index's 196 is right. Nothing for Wilson.
 - No register question for Wilson's ruling arose in this chunk.
+
+- **Work-close gate (p. 235), 2026-10-16 — Wilson, "all as recommended" (rulings 59–68, `manual-review/vol6-pilot-setup.md`):** ruling 59 (A1): p. 191 *de supplicio poenae eorum* → "the penalty of their *punishment*", superseding the "punishment of their punishment" banked above. English only.

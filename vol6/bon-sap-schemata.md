@@ -11,7 +11,7 @@ pdf_pages: [276, 277]
 source: "S. Bonaventurae, Opera Omnia, Tomus VI (Quaracchi, 1893), pp. 234–235"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — the two SCHEMATA of the Commentarius in librum Sapientiae, pp. 234–235, the work's last unit (ruling 30: ONE chunk, division 21, type schemata, two sections; rulings 18/19: nested indented outlines in Latin and English, every printed node, ditto mark and chapter reference kept verbatim). Schema I (p. 234) = Pars I, Schema II (p. 235) = Pars II, each an upright bracket-tree under a part-title set ROTATED up the left margin (Pars I. Hortatio ad exercendam iustitiam triplicem · Pars II. Hortatio ad sapientiam acquirendam, adducta triplici ratione), read by rotating the margin strip. Every node transcribed from the 450 dpi plates in tiles at 1:1, suspect sites at 2.5–5x. NO Quaracchi apparatus: neither leaf carries a footer register or a superscript (measured: no ink below y 2686 / 2660 on 2985-row leaves). Two translator's notes (tr-vacare, tr-doctrina). Work end fixed positively: p. 236 blank (0.0059 % dark px, read on a 1/4-scale view), p. 237 the Commentarius in Evangelium S. Ioannis half-title. Zero marginalia, zero runovers, zero [?] flags (2026-10-16)."
+transcription_status: "Phase C Tier 2 complete — the two SCHEMATA of the Commentarius in librum Sapientiae, pp. 234–235, the work's last unit (ruling 30: ONE chunk, division 21, type schemata, two sections; rulings 18/19: nested indented outlines in Latin and English, every printed node, ditto mark and chapter reference kept verbatim). Schema I (p. 234) = Pars I, Schema II (p. 235) = Pars II, each an upright bracket-tree under a part-title set ROTATED up the left margin (Pars I. Hortatio ad exercendam iustitiam triplicem · Pars II. Hortatio ad sapientiam acquirendam, adducta triplici ratione), read by rotating the margin strip. Every node transcribed from the 450 dpi plates in tiles at 1:1, suspect sites at 2.5–5x. NO Quaracchi apparatus: neither leaf carries a footer register or a superscript (measured: no ink below y 2686 / 2660 on 2985-row leaves). Two translator's notes (tr-vacare, tr-doctrina); a third, tr-studium, added at the p. 235 work-close gate 2026-10-16 (ruling 67). Work end fixed positively: p. 236 blank (0.0059 % dark px, read on a 1/4-scale view), p. 237 the Commentarius in Evangelium S. Ioannis half-title. Zero marginalia, zero runovers, zero [?] flags (2026-10-16)."
 format_version: 1
 ---
 
@@ -213,7 +213,7 @@ format_version: 1
       - through reasons on the side of creation
         - taken from the goodness of the Creator — on the side of the end of creation — on the side of the condition of the creature
       - » » » » retribution
-        - touching the reward of justice — the punishment of injustice — the equity of the punishment, for four reasons
+        - touching the reward of justice — the penalty of injustice — the equity of the penalty, for four reasons
   - secondly, towards the neighbour (c. 2. 3.)
     - he is drawn back from the likeness of the unjust (c. 2.)
       - touching the threefold moving cause of living unjustly
@@ -275,7 +275,7 @@ format_version: 1
         - first the reward of the just
           - for the doing of good
           - for the victory over evil
-        - the punishment of the reprobate under the metaphor of one taking up arms
+        - the penalty of the reprobate under the metaphor of one taking up arms
           - the king's purpose — equipment — war — the effect of the war — the remedy of the war
 
 <!-- page 235 -->
@@ -307,7 +307,7 @@ format_version: 1
         - on account of her absolute worth, compared in four ways
       - from the purpose of acquiring her
         - on account of the goods pertaining to the active and the contemplative life — specially to the active — to the contemplative
-      - from the study of finding her
+      - from the study of finding her[^tr-studium]
         - the diligence of seeking — the aptitude in receiving — the confidence of obtaining
     - how devoutly he sought her from the Lord (c. 9.)
       - the form of the petition is touched
@@ -335,7 +335,7 @@ format_version: 1
           - the instruction of the people in both, shown in four ways
           - the condemnation of the incorrigible adversaries
       - through heavier punishments, to condemnation (c. 13-19.)
-        - on the desert of fault
+        - on the merit of fault
           - the error of those practising idolatry (c. 13.)
             - first of those worshipping the creatures of God
               - the twofold cause of the error — the effect — the inexcusability — the comparison with others
@@ -350,7 +350,7 @@ format_version: 1
             - » » reward
             - » the vileness of idols
             - » the folly of those practising idolatry.
-        - on the punishment of punishment
+        - on the penalty of punishment
           - on the punishments preceding death (c. 16. 17.)
             - the twofold punishment of sense
             - the punishment of loss
@@ -362,11 +362,13 @@ format_version: 1
 
 ## Apparatus
 
-> **The two schemata carry NO Quaracchi footnote:** neither p. 234 nor p. 235 has a footer register, and no superscript stands anywhere in either tree. The two entries below are translator's notes (ours, not the edition's), anchored in the English only.
+> **The two schemata carry NO Quaracchi footnote:** neither p. 234 nor p. 235 has a footer register, and no superscript stands anywhere in either tree. The three entries below are translator's notes (ours, not the edition's), anchored in the English only.
 
 [^tr-vacare]: **En.** Translator's note: the Latin *vacare* holds together several senses that English has to split: being at leisure, being free, being free *for* something (with a dative) and being free *from* something (with *ab*). Here the dative governs, *ad vacandum dissolutioni,* so the English takes the side of being free *for*, as Capitulum II does at the same phrase: the impious exhort one another to give their freedom over to dissolution, so that the leisure the word elsewhere commends is here spent on licence. No *vaca-* word is rendered "rest" in this translation, because *quies* and *requies* take that word.
 
 [^tr-doctrina]: **En.** Translator's note: the Latin *doctrina* holds together what English divides among doctrine, teaching and learning. Here *doctrinae manifestatio* stands in a row with *docendi fidelitas* and *audiendi utilitas*, the act of teaching set against the act of hearing, so the English takes "teaching", as Capitulum VI does at the passage this branch summarises.
+
+[^tr-studium]: **En.** Translator's note: the Latin *studium* — with *studere* and *studiosus* — holds together zeal, eager pursuit, application and study. Here the second reason of Part II, *ex studio eam inveniendi,* summarises Capitulum VIII's proof *ex studio quaerendi sapientiam,* made within the exhortation *ad studium et amorem sapientiae* with which the Prooemium opened, and so the English keeps the work's one root, "study", as Capitulum VIII does at the passage this branch summarises. The word means the eager pursuit of wisdom rather than study in the narrow modern sense.
 
 ---
 
@@ -399,7 +401,7 @@ format_version: 1
 - **A FAILING IMPRESSION, READ PLAIN (the `bon-qmt-q4-a1` *sententia* precedent):** the lower right of p. 235 is lightly inked throughout (*Iacob — Ioseph*, *vilitate*, *fatuitate*, the c. 18/19 branches print grey), and in *ex eorum **inutilitate*** (read at 7×) the first two *t*s keep their crossbars but lose most of their stems, so the word reads *inufilitate* at 1:1. **A letter present minus part of a stroke, not a wrong sort**; transcribed plain *inutilitate* (= `bon-sap-c14`'s *ob inutilitatem ipsorum*), disclosed here.
 - **Capitals as printed:** *Creatoris* (twice), *Spiritus S.*, *Sanctorum contemptum*, *Domino*, *per Spiritum a Sapientia procedentem* (→ "Wisdom", ruling 32: capital in the print), *Israel*, *Israelitarum*, the proper names. *Spiritus S.* → "the Holy Spirit".
 
-**APPARATUS — NONE, MEASURED (the `bon-sap-scholion` / `bon-itin-scholion` shape for Quaracchi's notes).** No superscript anywhere in either tree (every tile read at 1:1, suspect marks at 2.5×+); no footer register on either leaf (no ink below y 2686 / 2660, above). **Zero Quaracchi entries**; `KNOWN_TOTALS_VOL6` takes no entry for pp. 234–235 (no register). **Ledger row `-`, established:** no footer, so no runover of either kind is possible; nothing forwarded to or from p. 233 or p. 236. The `## Apparatus` section holds only **two translator's notes, anchored in the English only**: `tr-vacare` (the chunk's one *vaca-* site, *ad vacandum dissolutioni*, dative, the dikaisune rule's note at its first occurrence per chunk) and `tr-doctrina` (ruling 53: one note per chunk carrying the word). Hence `has_apparatus: true` for the section, with zero numbered entries.
+**APPARATUS — NONE, MEASURED (the `bon-sap-scholion` / `bon-itin-scholion` shape for Quaracchi's notes).** No superscript anywhere in either tree (every tile read at 1:1, suspect marks at 2.5×+); no footer register on either leaf (no ink below y 2686 / 2660, above). **Zero Quaracchi entries**; `KNOWN_TOTALS_VOL6` takes no entry for pp. 234–235 (no register). **Ledger row `-`, established:** no footer, so no runover of either kind is possible; nothing forwarded to or from p. 233 or p. 236. The `## Apparatus` section holds only **two translator's notes, anchored in the English only** (three since the work-close gate, ruling 67: `tr-studium` added): `tr-vacare` (the chunk's one *vaca-* site, *ad vacandum dissolutioni*, dative, the dikaisune rule's note at its first occurrence per chunk) and `tr-doctrina` (ruling 53: one note per chunk carrying the word). Hence `has_apparatus: true` for the section, with zero numbered entries.
 
 **MARGINALIA: ZERO** (the rotated part-titles are display matter of the schema, rendered as its roots, not marginal glosses; nothing stands outboard of either tree).
 
@@ -441,3 +443,5 @@ Not applicable: the schemata are editorial matter, not *expositio*.
 
 ### For the p. 235 gate
 Four *supplicium* sites S1–S4 above (S4 the *supplicium poenae* collocation); one ruling-45 letter bracket (*iudicum*); *de merito culpae* against `c13`'s *de demerito culpae*, left plain; the Ratio 2 label's `(c. 7. 8.)` against its brace's three members (cc. 7–9). Nothing forwarded: this is the work's last unit.
+
+- **Work-close gate (p. 235), 2026-10-16 — Wilson, "all as recommended" (rulings 59–68, `manual-review/vol6-pilot-setup.md`):** ruling 59 (A1): S1–S4 → "the penalty of injustice", "the equity of the penalty", "the penalty of the reprobate", "on the penalty of punishment". Ruling 63 (A5): *de merito culpae* → "on the merit of fault" (conformed to c13/c16; the Latin and c13's printed *demerito* untouched), superseding "on the desert of fault" above. Ruling 67 (B2): `tr-studium` WRITTEN at *ex studio eam inveniendi* (English-only anchor), superseding "No `tr-studium`" above — the Schemata now carry three translator's notes. English only.

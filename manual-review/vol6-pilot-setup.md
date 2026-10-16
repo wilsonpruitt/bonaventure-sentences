@@ -336,3 +336,43 @@ Evidence sheet: `manual-review/vol6-sapientiae-midwork-evidence.md` (commit `7fe
 - **58. (C2–C5) PARKED** (ruling 40: logged, chunks never edited): C2 printed slips in the ledger (fold into C1's job as a
   small override table) · C3 dropped chain continuations · C4 unparsed named units · C5 owner-blind `page-multi` (1,178
   corpus-wide; a design improvement, not a defect).
+
+# SAPIENTIAE WORK-CLOSE GATE (p. 235) — RULINGS 59–68 (Wilson, 2026-10-16; "all as recommended")
+
+Evidence sheet: `manual-review/vol6-sapientiae-workclose-evidence.md` (commit `e36a25f`); gate log
+`manual-review/vol6-sapientiae-workclose-gate.md`. Scope: the whole work, all 23 units `bon-sap-prooem` … `bon-sap-schemata`,
+pp. 107–235. The third of ruling 34's three gates. Wilson's ruling, verbatim: **"all as recommended"**.
+
+- **59. (A1) *supplicium* → "penalty" throughout the work; *poena* stays "punishment" (ruling 20), *punitio* "punishing"
+  (ruling 44).** Per-site, English only, 24 sites in 11 units (c1 5 · c2 1 + 1 apparatus · c3 1 · c5 4 · c6 2 · c10 1 · c13 1 ·
+  c16 3 · c17 1 · Schemata 4), the three former "torment" sites (c5 ×2, c6) included. **Matt. 25:46 inside c3's Gloss
+  (p. 129, *impii ibunt in supplicium aeternum*) keeps Douay "eternal punishment"** — the quotation branch (rulings 46/53).
+  c1 p. 117 *aequitatem supplicii seu poenae inflictae* → "the equity of the penalty or of the punishment inflicted", the
+  earlier undisclosed *poena* → "penalty" reverted to ruling 20. Reason: one Latin word with one sense; ruling 20's sharing
+  produced "the punishment of punishment" ×5, including the run heading of cc. XVI–XIX (*de supplicio poenae*), the hinge
+  of ratio 3's second member — the ruling-44 argument at n = 25. "Torment" refused by census (it is *tormentum* /
+  *cruciatus*'s, and meets *supplicium* on pp. 138 and 146). "Penalty" is otherwise used only for *poenalitas* (c2 p. 118,
+  ruling 20), in a different paragraph — **no sentence holds both.** ⚠ Ecclesiastes' four body *supplicium* sites stay
+  "punishment" under ruling 20 — a cross-work divergence, recorded, not extended.
+- **60. (A2) c11 p. 182 *poenas seu punitiones* → "punishments or punishings" KEPT** (ruling 44 exactly; the *seu* pair is the
+  Latin's). 0 lines.
+- **61. (A3) Job 24:13 RATIFIED as built:** c14 p. 201 "the light" (quoted only as a verse) and c17 p. 218 "lumen" (the body's
+  *merito defuit eis lumen* leans on it). Ruling 46 decides by passage, not by verse. 0 lines.
+- **62. (A4) c17 p. 218 *id est dati radii* keeps its bracket "[so printed: *dati* for *clari*]"** (ruling 45): *dati* does not
+  gloss *limpidae*, unlike c7's *actum* (ruling 49), which construes. 0 lines.
+- **63. (A5) Schemata p. 235 *de merito culpae* → "on the merit of fault"**, conformed to c13 p. 191 and c16 p. 209, whose
+  sentences the Schemata summarise; the Latin and c13's printed heading *demerito* ("demerit") untouched. 1 line.
+- **64. (A6) Ruling 51 KEPT: 61 marginal quaestiones in the work.** c19 p. 229 `[O]pponitur.` and its sibling c16 p. 214
+  `Obiectio.` / `Solutio.` are labelled non-`Quaestio` objections, recorded, not counted (63 if the class were counted). 0 lines.
+- **65. (A7) *tormentum* → "torment(s)" at the two Douay sites:** c11 p. 180 lemma Sap. 11:14 *per sua tormenta* → "by their
+  torments"; c5 p. 142 n. 8 *in tormentum* → "(unto torment)", so Sap. 16:24 reads one way with c16 p. 216. Douay adjusted to
+  Quaracchi's Latin (ruling 5, the *impius* precedent of ruling 32); after ruling 59 "punishment" is *poena*'s alone (save c3's Douay Matt. 25:46). 2 lines.
+- **66. (B1) Ruling 44 applied to the two pre-c3 sites the mid-work gate's scope missed:** `bon-sap-prooem` p. 108–109
+  *in punitione rebellium* → "in the punishing of the rebellious"; `bon-sap-c1` p. 115 *id est punitionem* → "that is, the
+  punishing". *punire* forms untouched. 2 lines. The work's 69 *punitio* noun sites now all read "punishing".
+- **67. (B2) `tr-studium` written in `bon-sap-schemata`** at *ex studio eam inveniendi* → "the study of finding her" (p. 235),
+  English-only anchor, shaped as c8's note (ruling 54); ruling 11's one-note-per-chunk logic, as the Schemata already
+  followed for `tr-vacare` and `tr-doctrina`. 1 note, 0 text lines.
+- **68. (B3) Documentation:** *poenas seu punitiones* is on **p. 182**, not p. 183 — corrected in the mid-work gate log and
+  c11's Notes; the running list's "c18 … *supplicium* ZERO" is true of *supplicium* only — c18's two `supplic-` hits (p. 222)
+  are *supplicatio* / *supplicationis* ("supplication"), stated in the next resume block. Doc only.

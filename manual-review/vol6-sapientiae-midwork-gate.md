@@ -124,7 +124,7 @@ All gitignored or outside the repo, and regenerable (`tools/extract-pages.py --v
 sheet's census (c10 5, c11 20+1, c12 11) also counted the *punire* participles *puniti / punitis / punitum* ("the punished"),
 which are not *punitio* and were left alone, and c11's/c12's title lines. Every one of the 34 was paired to its English by reading
 the sentence; all took "punishing" with at most an added article ("on the *punishing of them in themselves*", c3; "from the
-punishing and torment", c6). One rendering moved off a third word: c11 p. 183 *poenas seu punitiones* had read "punishments or
+punishing and torment", c6). One rendering moved off a third word: c11 p. 182 *poenas seu punitiones* [corrected from "p. 183" at the p. 235 gate, ruling 68 — the phrase stands before the 182→183 break] had read "punishments or
 chastisements" → **"punishments or punishings"** (*castigatio* is live in c3, so "chastisements" was a collision).
 
 **Lines changed, by chunk** (`git diff --numstat`; English + Notes only):
