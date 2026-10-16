@@ -704,6 +704,11 @@ const WORKS = {
       // no subtitle); the chapter runs to p. 221, where CAPITULUM XVIII. stands
       // mid-leaf with its Vers. 1 on p. 222 (ruling 55: the index's 222).
       17: "Capitulum XVII",
+      // bon-sap-c18: CAPITULUM XVIII. read in place mid-leaf on p. 221 (full measure,
+      // no subtitle); its Vers. 1 is on p. 222 (ruling 55: the index's 222). The
+      // chapter runs to p. 228, where CAPITULUM XIX. stands mid-leaf with its
+      // Vers. 1 on the same leaf (the index's 228).
+      18: "Capitulum XVIII",
     },
   },
 };

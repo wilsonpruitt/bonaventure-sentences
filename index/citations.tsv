@@ -26965,6 +26965,145 @@ bon-sap-c17	6	apparatus:p221-10	p221-10	scripture	apparatus-explicit	Matth. 25, 
 bon-sap-c17	6	apparatus:p221-10	p221-10	scripture	apparatus-explicit	Iob 10, 22	Iob 10:22	A	verse		
 bon-sap-c17	6	apparatus:p221-11	p221-11	scripture	apparatus-explicit	Iob 34, 25	Iob 34:25	A	verse		
 bon-sap-c17	6	apparatus:p221-12	p221-12	scripture	apparatus-explicit	Eph. 5, 8	Eph 5:8	A	verse		
+bon-sap-c18	6	latin_body	p222-2	scripture	body-ordinal	Levitici undecimo	Lev 11:44	B	verse		
+bon-sap-c18	6	latin_body		scripture	body-ordinal	Exodi decimo	Exod 10	C	chapter		
+bon-sap-c18	6	latin_body		scripture	body-ordinal	ad Thessalonicenses quinto	Thess* 5	C	chapter		
+bon-sap-c18	6	latin_body		scripture	body-ordinal	Ioannis primo	Ioan 1	C	chapter		
+bon-sap-c18	6	latin_body		scripture	body-ordinal	Malachiae quarto	Malach 4	C	chapter		
+bon-sap-c18	6	latin_body		scripture	body-ordinal	Lucae primo	Luc 1	C	chapter		
+bon-sap-c18	6	latin_body		scripture	body-ordinal	Ecclesiastici quadragesimo tertio	Eccli 43	C	chapter		
+bon-sap-c18	6	latin_body	p222-6	scripture	body-ordinal	Exodi primo	Exod 1:10	B	verse		
+bon-sap-c18	6	latin_body		scripture	body-ordinal	Isaiae quinquagesimo primo	Isai 51	C	chapter		
+bon-sap-c18	6	latin_body		scripture	body-ordinal	Genesis decimo octavo	Gen 18	C	chapter		
+bon-sap-c18	6	latin_body	p222-8	scripture	body-ordinal	Exodi decimo quarto	Exod 14:19	B	verse		
+bon-sap-c18	6	latin_body	p222-9	scripture	body-ordinal	Exodi decimo tertio	Exod 13:21	B	verse		
+bon-sap-c18	6	latin_body		scripture	anaphor->body-ordinal	ibid	Exod 13:21	B	verse	yes	Exodi decimo tertio
+bon-sap-c18	6	latin_body	p222-10	scripture	body-ordinal	Isaiae quarto	Isai 4:5	B	verse		
+bon-sap-c18	6	latin_body	p222-11	scripture	body-ordinal	Exodi quinto	Exod 5:2	B	verse		
+bon-sap-c18	6	latin_body	p223-1	scripture	body-ordinal	Proverbiorum sexto	Prov 6:23	B	verse		
+bon-sap-c18	6	latin_body	p223-2	scripture	body-ordinal	Exodi primo	Exod 1:15	B	verse		
+bon-sap-c18	6	latin_body		scripture	body-ordinal	Exodi secundo	Exod 2	C	chapter		
+bon-sap-c18	6	latin_body	p223-3	scripture	body-ordinal	Exodi duodecimo	Exod 12:29	B	verse		
+bon-sap-c18	6	latin_body		scripture	body-ordinal	Exodi decimo quarto	Exod 14	C	chapter		
+bon-sap-c18	6	latin_body	p223-4	scripture	body-ordinal	Genesis decimo quinto	Gen 15:13	B	verse		
+bon-sap-c18	6	latin_body		scripture	body-ordinal	Exodi duodecimo	Exod 12	C	chapter		
+bon-sap-c18	6	latin_body	p223-5	scripture	body-ordinal	Genesis vigesimo secundo	Gen 22:16	B	verse		
+bon-sap-c18	6	latin_body		scripture	body-ordinal	ad Hebraeos sexto	Hebr 6	C	chapter		
+bon-sap-c18	6	latin_body		scripture	anaphor->body-ordinal	ibid	Exod 12	C	chapter	yes	Exodi duodecimo
+bon-sap-c18	6	latin_body		scripture	body-ordinal	Deuteronomii trigesimo secundo	Deut 32	C	chapter		
+bon-sap-c18	6	latin_body		scripture	body-ordinal	Iob secundo	Iob 2	C	chapter		
+bon-sap-c18	6	latin_body		scripture	body-ordinal	Lucae decimo sexto	Luc 16	C	chapter		
+bon-sap-c18	6	latin_body	p224-2	scripture	body-ordinal	Exodi duodecimo	Exod 12:30	B	verse		
+bon-sap-c18	6	latin_body		scripture	body-ordinal	Ieremiae sexto	Ierem 6	C	chapter		
+bon-sap-c18	6	latin_body		scripture	body-ordinal	Isaiae vigesimo quarto	Isai 24	C	chapter		
+bon-sap-c18	6	latin_body		scripture	body-ordinal	Ieremiae decimo sexto	Ierem 16	C	chapter		
+bon-sap-c18	6	latin_body		scripture	body-ordinal	Exodi septimo	Exod 7	C	chapter		
+bon-sap-c18	6	latin_body	p224-7	scripture	body-ordinal	Exodi duodecimo	Exod 12:31	B	verse		
+bon-sap-c18	6	latin_body		scripture	body-ordinal	Isaiae vigesimo sexto	Isai 26	C	chapter		
+bon-sap-c18	6	latin_body		scripture	body-ordinal	ad Hebraeos quarto	Hebr 4	C	chapter		
+bon-sap-c18	6	latin_body		scripture	body-ordinal	ad Hebraeos primo	Hebr 1	C	chapter		
+bon-sap-c18	6	latin_body	p225-1	scripture	body-ordinal	ad Hebraeos quarto	Hebr 4:12	B	verse		
+bon-sap-c18	6	latin_body		scripture	body-ordinal	ad Ephesios sexto	Eph 6	C	chapter		
+bon-sap-c18	6	latin_body	p225-2	scripture	body-ordinal	ad Romanos decimo tertio	Rom 13:1	B	verse		
+bon-sap-c18	6	latin_body	p225-3	scripture	body-ordinal	Exodi duodecimo	Exod 12:12	B	verse		
+bon-sap-c18	6	latin_body		scripture	body-ordinal	Matthaei decimo octavo	Matth 18	C	chapter		
+bon-sap-c18	6	latin_body	p225-5	scripture	body-ordinal	Ioannis primo	Ioan 1:1	B	verse		
+bon-sap-c18	6	latin_body		scripture	body-ordinal	ad Galatas quarto	Gal 4	C	chapter		
+bon-sap-c18	6	latin_body	p225-7	scripture	body-ordinal	Lucae undecimo	Luc 11:21	B	verse		
+bon-sap-c18	6	latin_body		scripture	body-ordinal	Ioannis decimo nono	Ioan 19	C	chapter		
+bon-sap-c18	6	latin_body		scripture	body-ordinal	Ioannis tertio	Ioan 3	C	chapter		
+bon-sap-c18	6	latin_body	p225-10	scripture	body-ordinal	Iob septimo	Iob 7:14	B	verse		
+bon-sap-c18	6	latin_body		scripture	body-ordinal	Iob quarto	Iob 4	C	chapter		
+bon-sap-c18	6	latin_body	p225-11	scripture	body-ordinal	ad Romanos secundo	Rom 2:5	B	verse		
+bon-sap-c18	6	latin_body	p226-1	scripture	body-ordinal	Isaiae vigesimo octavo	Isai 28:19	B	verse		
+bon-sap-c18	6	latin_body	p226-2	scripture	body-ordinal	Numerorum decimo sexto	Num 16:41	B	verse		
+bon-sap-c18	6	latin_body	p226-3	scripture	body-ordinal	Numerorum decimo sexto	Num 16:47	B	verse		
+bon-sap-c18	6	latin_body	p226-4	scripture	body-ordinal	Ioannis nono	Ioan 9:31	B	verse		
+bon-sap-c18	6	latin_body	p226-5	scripture	body-ordinal	Ezechielis vigesimo	Ezech 20:30	B	verse		
+bon-sap-c18	6	latin_body	p226-6	scripture	body-ordinal	ad Hebraeos quinto	Hebr 5:1	B	verse		
+bon-sap-c18	6	latin_body	p226-7	scripture	body-ordinal	ad Ephesios sexto	Eph 6:16	B	verse		
+bon-sap-c18	6	latin_body		scripture	body-ordinal	Proverbiorum trigesimo	Prov 30	C	chapter		
+bon-sap-c18	6	latin_body		scripture	body-ordinal	Ecclesiastici vigesimo nono	Eccli 29	C	chapter		
+bon-sap-c18	6	latin_body		scripture	body-ordinal	Regum primo	Reg* 1	C	chapter		
+bon-sap-c18	6	latin_body		scripture	body-ordinal	Machabaeorum decimo quarto	Mach* 14	C	chapter		
+bon-sap-c18	6	latin_body	p226-10	scripture	body-ordinal	Ioannis decimo	Ioan 10:11	B	verse		
+bon-sap-c18	6	latin_body		scripture	body-ordinal	Ecclesiastici quadragesimo quinto	Eccli 45	C	chapter		
+bon-sap-c18	6	latin_body		scripture	body-ordinal	Ezechielis decimo tertio	Ezech 13	C	chapter		
+bon-sap-c18	6	latin_body	p227-1	scripture	body-ordinal	Iudicum decimo quinto	Iudic 15:15	B	verse		
+bon-sap-c18	6	latin_body		scripture	body-ordinal	Regum decimo septimo	Reg* 17	C	chapter		
+bon-sap-c18	6	latin_body		scripture	body-ordinal	Machabaeorum tertio	Mach* 3	C	chapter		
+bon-sap-c18	6	latin_body	p227-2	scripture	body-ordinal	ad Corinthios undecimo	Cor* 11:29	B	verse		
+bon-sap-c18	6	latin_body		scripture	body-ordinal	Genesis duodecimo	Gen 12	C	chapter		
+bon-sap-c18	6	latin_body	p227-3	scripture	body-ordinal	Numerorum decimo sexto	Num 16:48	B	verse		
+bon-sap-c18	6	latin_body		scripture	body-ordinal	ad Hebraeos undecimo	Hebr 11	C	chapter		
+bon-sap-c18	6	latin_body	p227-4	scripture	body-ordinal	Exodi vigesimo octavo	Exod 28:33	B	verse		
+bon-sap-c18	6	latin_body	p227-8	scripture	body-ordinal	Exodi vigesimo octavo	Exod 28:21	B	verse		
+bon-sap-c18	6	latin_body		scripture	body-ordinal	Apocalypsis vigesimo primo	Apoc 21	C	chapter		
+bon-sap-c18	6	apparatus:p222-2	p222-2	scripture	apparatus-explicit	Exod. 10, 23	Exod 10:23	A	verse		
+bon-sap-c18	6	apparatus:p222-3	p222-3	scripture	apparatus-explicit	I. Thess. 5, 5	1Thess 5:5	A	verse		
+bon-sap-c18	6	apparatus:p222-3	p222-3	scripture	apparatus-explicit	Ioan. 1, 9	Ioan 1:9	A	verse		
+bon-sap-c18	6	apparatus:p222-3	p222-3	scripture	apparatus-explicit	Malach. 4, 2	Malach 4:2	A	verse		
+bon-sap-c18	6	apparatus:p222-4	p222-4	scripture	apparatus-explicit	Exod. 10, 21-23	Exod 10:21-23	A	verse		
+bon-sap-c18	6	apparatus:p222-5	p222-5	scripture	apparatus-explicit	Luc. 1, 46	Luc 1:46	A	verse		
+bon-sap-c18	6	apparatus:p222-5	p222-5	scripture	apparatus-explicit	Eccli. 43, 35	Eccli 43:35	A	verse		
+bon-sap-c18	6	apparatus:p222-6	p222-6	scripture	apparatus-explicit	Isai. 51, 3	Isai 51:3	A	verse		
+bon-sap-c18	6	apparatus:p222-7	p222-7	scripture	apparatus-explicit	Ps. 42, 1	Ps 42:1	A	verse		
+bon-sap-c18	6	apparatus:p222-7	p222-7	scripture	apparatus-explicit	Gen. 18, 23	Gen 18:23	A	verse		
+bon-sap-c18	6	apparatus:p222-9	p222-9	scripture	apparatus-explicit	Sap. 10, 17	Sap 10:17	A	verse		
+bon-sap-c18	6	apparatus:p222-10	p222-10	scripture	anaphor->apparatus-explicit	ibid.	Sap 10:17	A	verse	yes	Sap. 10, 17
+bon-sap-c18	6	apparatus:p222-11	p222-11	scripture	apparatus-explicit	Ioan. 1, 12	Ioan 1:12	A	verse		
+bon-sap-c18	6	apparatus:p223-1	p223-1	scripture	apparatus-explicit	Ps. 11, 7	Ps 11:7	A	verse		
+bon-sap-c18	6	apparatus:p223-1	p223-1	scripture	apparatus-explicit	II. Reg. 22, 31	2Reg 22:31	A	verse		
+bon-sap-c18	6	apparatus:p223-2	p223-2	scripture	anaphor->apparatus-explicit	ibid.	2Reg 22:31	A	verse	yes	II. Reg. 22, 31
+bon-sap-c18	6	apparatus:p223-3	p223-3	scripture	apparatus-explicit	Exod. 14, 28	Exod 14:28	A	verse		
+bon-sap-c18	6	apparatus:p223-4	p223-4	scripture	apparatus-explicit	Exod. 12, 21	Exod 12:21	A	verse		
+bon-sap-c18	6	apparatus:p223-5	p223-5	scripture	apparatus-explicit	Hebr. 6, 18	Hebr 6:18	A	verse		
+bon-sap-c18	6	apparatus:p223-5	p223-5	crossref	page	supra pag. 189, nota 11	bon-sap-c12		chunk		
+bon-sap-c18	6	apparatus:p223-6	p223-6	scripture	apparatus-explicit	Exod. 12, 28	Exod 12:28	A	verse		
+bon-sap-c18	6	apparatus:p223-6	p223-6	scripture	anaphor->apparatus-explicit	ibid.	Exod 12:28	A	verse	yes	Exod. 12, 28
+bon-sap-c18	6	apparatus:p223-7	p223-7	scripture	apparatus-explicit	Deut. 32, 11	Deut 32:11	A	verse		
+bon-sap-c18	6	apparatus:p223-8	p223-8	scripture	apparatus-explicit	Exod. 12, 3	Exod 12:3	A	verse		
+bon-sap-c18	6	apparatus:p223-9	p223-9	scripture	apparatus-explicit	Psalm. 49, 5	Ps 49:5	A	verse		
+bon-sap-c18	6	apparatus:p223-10	p223-10	scripture	apparatus-explicit	Iob 2, 10	Iob 2:10	A	verse		
+bon-sap-c18	6	apparatus:p223-10	p223-10	scripture	apparatus-explicit	Luc. 16, 25	Luc 16:25	A	verse		
+bon-sap-c18	6	apparatus:p224-1	p224-1	scripture	apparatus-explicit	Psalm. 33, 2	Ps 33:2	A	verse		
+bon-sap-c18	6	apparatus:p224-2	p224-2	scripture	apparatus-explicit	Ier. 6, 26	Ierem 6:26	A	verse		
+bon-sap-c18	6	apparatus:p224-3	p224-3	scripture	apparatus-explicit	Isai. 24, 2	Isai 24:2	A	verse		
+bon-sap-c18	6	apparatus:p224-4	p224-4	scripture	apparatus-explicit	Ier. 16, 6	Ierem 16:6	A	verse		
+bon-sap-c18	6	apparatus:p224-7	p224-7	scripture	apparatus-explicit	Isai. 26, 16	Isai 26:16	A	verse		
+bon-sap-c18	6	apparatus:p224-7	p224-7	scripture	apparatus-explicit	Ps. 77, 34	Ps 77:34	A	verse		
+bon-sap-c18	6	apparatus:p224-8	p224-8	scripture	apparatus-explicit	I. Thess. 5, 7	1Thess 5:7	A	verse		
+bon-sap-c18	6	apparatus:p224-8	p224-8	scripture	apparatus-explicit	Exod. 12, 29	Exod 12:29	A	verse		
+bon-sap-c18	6	apparatus:p224-9	p224-9	scripture	apparatus-explicit	Hebr. 4, 12	Hebr 4:12	A	verse		
+bon-sap-c18	6	apparatus:p224-10	p224-10	scripture	apparatus-explicit	Psalm. 79, 2	Ps 79:2	A	verse		
+bon-sap-c18	6	apparatus:p224-10	p224-10	scripture	apparatus-explicit	Hebr. 1, 14	Hebr 1:14	A	verse		
+bon-sap-c18	6	apparatus:p225-1	p225-1	scripture	apparatus-explicit	Eph. 6, 17	Eph 6:17	A	verse		
+bon-sap-c18	6	apparatus:p225-2	p225-2	scripture	apparatus-explicit	Exod. 12, 30	Exod 12:30	A	verse		
+bon-sap-c18	6	apparatus:p225-4	p225-4	scripture	apparatus-explicit	Psalm. 138, 8	Ps 138:8	A	verse		
+bon-sap-c18	6	apparatus:p225-4	p225-4	crossref	page	supra pag. 157, nota 8	bon-sap-c7		chunk		
+bon-sap-c18	6	apparatus:p225-4	p225-4	scripture	apparatus-explicit	Matth. 18, 10	Matth 18:10	A	verse		
+bon-sap-c18	6	apparatus:p225-5	p225-5	scripture	apparatus-explicit	Ps. 18, 7	Ps 18:7	A	verse		
+bon-sap-c18	6	apparatus:p225-5	p225-5	scripture	apparatus-explicit	Gal. 4, 4	Gal 4:4	A	verse		
+bon-sap-c18	6	apparatus:p225-6	p225-6	scripture	apparatus-explicit	Rom. 7, 7	Rom 7:7	A	verse		
+bon-sap-c18	6	apparatus:p225-6	p225-6	scripture	apparatus-explicit	Isai. 30	Isai 30	C	chapter		
+bon-sap-c18	6	apparatus:p225-7	p225-7	scripture	apparatus-explicit	Ps. 73, 12	Ps 73:12	A	verse		
+bon-sap-c18	6	apparatus:p225-8	p225-8	scripture	apparatus-explicit	Matth. 28, 18	Matth 28:18	A	verse		
+bon-sap-c18	6	apparatus:p225-8	p225-8	scripture	apparatus-explicit	Ioan. 19, 30	Ioan 19:30	A	verse		
+bon-sap-c18	6	apparatus:p225-10	p225-10	scripture	anaphor->apparatus-explicit	ibid.	Ioan 19:30	A	verse	yes	Ioan. 19, 30
+bon-sap-c18	6	apparatus:p226-1	p226-1	crossref	page	supra pag. 180, nota 5	bon-sap-c11		chunk		
+bon-sap-c18	6	apparatus:p226-2	p226-2	scripture	apparatus-explicit	Habac. 3, 2	Habac 3:2	A	verse		
+bon-sap-c18	6	apparatus:p226-6	p226-6	scripture	anaphor->apparatus-explicit	ibid.	Habac 3:2	A	verse	yes	Habac. 3, 2
+bon-sap-c18	6	apparatus:p226-7	p226-7	scripture	apparatus-explicit	Prov. 30, 5	Prov 30:5	A	verse		
+bon-sap-c18	6	apparatus:p226-8	p226-8	scripture	apparatus-explicit	Eccli. 29, 16-18	Eccli 29:16-18	A	verse		
+bon-sap-c18	6	apparatus:p226-8	p226-8	scripture	apparatus-explicit	II. Reg. 1, 21	2Reg 1:21	A	verse		
+bon-sap-c18	6	apparatus:p226-8	p226-8	scripture	apparatus-explicit	I. Machab. 14, 24	1Mach 14:24	A	verse		
+bon-sap-c18	6	apparatus:p226-10	p226-10	scripture	apparatus-explicit	Eccli. 45, 20	Eccli 45:20	A	verse		
+bon-sap-c18	6	apparatus:p226-10	p226-10	scripture	apparatus-explicit	Ezech. 13, 5	Ezech 13:5	A	verse		
+bon-sap-c18	6	apparatus:p227-1	p227-1	scripture	apparatus-explicit	I. Reg. 17, 49	1Reg 17:49	A	verse		
+bon-sap-c18	6	apparatus:p227-1	p227-1	scripture	apparatus-explicit	I. Machab. 3, 19	1Mach 3:19	A	verse		
+bon-sap-c18	6	apparatus:p227-2	p227-2	scripture	apparatus-explicit	Gen. 12, 7	Gen 12:7	A	verse		
+bon-sap-c18	6	apparatus:p227-3	p227-3	scripture	apparatus-explicit	Hebr. 11, 34	Hebr 11:34	A	verse		
+bon-sap-c18	6	apparatus:p227-8	p227-8	scripture	apparatus-explicit	Apoc. 21, 14	Apoc 21:14	A	verse		
 bon-sap-c2	6	latin_body	p118-5	scripture	body-ordinal	Iob decimo quarto	Iob 14:5	B	verse		
 bon-sap-c2	6	latin_body		scripture	body-ordinal	Iob decimo quarto	Iob 14	C	chapter		
 bon-sap-c2	6	latin_body		scripture	body-ordinal	ad Corinthios quinto	Cor* 5	C	chapter		
