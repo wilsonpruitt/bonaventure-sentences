@@ -691,6 +691,15 @@ const WORKS = {
       // label) at the head of p. 209's right column; CAPITULUM XVI. stands
       // mid-leaf on p. 209 (the index's 209: heading and Vers. 1 both there).
       15: "Capitulum XV",
+      // Capitulum XVI (bon-sap-c16): heading read in place mid-leaf on p. 209
+      // (~0.37, full measure, no subtitle, no anchor). title_la descends TWICE
+      // (ruling 36): past the italic run `Secundo determinatur de supplicio
+      // poenae culpabilium.` (XVI-XIX) and the bold `Primo agitur de duabus
+      // poenis antecedentibus mortem.` (XVI-XVII) to `De poena sensus duplici.`
+      // (exactly XVI; plain). Runs to Vers. 29 (= index label) at the head of
+      // p. 217; CAPITULUM XVII. stands mid-leaf on p. 217 (the index's 217:
+      // heading and Vers. 1 both there).
+      16: "Capitulum XVI",
     },
   },
 };

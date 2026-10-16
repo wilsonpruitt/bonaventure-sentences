@@ -3523,7 +3523,19 @@ KNOWN_TOTALS_VOL6 = {
              # (n.5 prints RIGHT, anchor LEFT). Gutter 929.
     208: 12, # bon-sap-c15. Anchors L 1-5 / R 6-12; blocks L 1-7 / R 8-12 (nn.6-7 print LEFT, anchor RIGHT). Gutter 1128.
     209: 7,  # bon-sap-c15 owns nn.1-5 (above the mid-leaf CAPITULUM XVI.); nn.6-7 anchor in Cap. XVI and are
-             # bon-sap-c16's (PENDING). Anchors L 1-2 / R 3-5 (XV), R 6-7 (XVI); blocks L 1-4 / R 5-7. Gutter 919 (upper).
+             # bon-sap-c16's (nn.6-7 picked up there, both anchor and print RIGHT). Anchors L 1-2 / R 3-5 (XV), R 6-7 (XVI);
+             # blocks L 1-4 / R 5-7. Gutter 919 (upper), 915 (below the heading).
+    210: 11, # bon-sap-c16. Anchors L 1-6 / R 7-11; blocks L 1-5 / R 5 tail + 6-11, n.5 RUNS OVER the gutter. Gutter 1134.
+    211: 9,  # bon-sap-c16. Anchors L 1-3 / R 4-9; blocks L 1-4 head / R 4 tail + 5-9, n.4 RUNS OVER the gutter. Gutter 918.
+    212: 8,  # bon-sap-c16. Anchors L 1-3 / R 4-8; blocks L 1-4 / R 5-8 (n.4 prints LEFT, anchor RIGHT). Gutter 1135.
+    213: 10, # bon-sap-c16. Anchors L 1-6 / R 7-10; blocks L 1-5 / R 6-10 (n.6 prints RIGHT, anchor LEFT). Gutter 911.
+    214: 15, # bon-sap-c16. Anchors L 1-6 / R 7-15; blocks L 1-9 / R 10-15 (nn.7-9 print LEFT, anchor RIGHT). Gutter 1130.
+    215: 15, # bon-sap-c16. Anchors L 1-8 / R 9-15; blocks L 1-8 / R 9-15 (coincide). Gutter 901.
+    216: 9,  # bon-sap-c16. Anchors L 1-4 / R 5-9; blocks L 1-8 head / R 8 tail + 9; n.8 RUNS OVER the gutter and n.9
+             # RUNS OVER the PAGE onto the head of p. 217's left block. Gutter 1148.
+    217: 8,  # bon-sap-c16 owns nn.1-4 (above the mid-leaf CAPITULUM XVII.); nn.5-8 anchor in Cap. XVII and are
+             # bon-sap-c17's (PENDING). Left block opens with p.216 n.9's tail, then nn.1-3; right block nn.4-8.
+             # Gutter 922 (upper), 918 (below the heading).
 }
 
 KNOWN_TOTALS_BY_VOL = {
