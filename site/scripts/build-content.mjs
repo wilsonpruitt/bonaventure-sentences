@@ -591,6 +591,11 @@ const WORKS = {
       // the raw DROPS it). The chunk runs to Vers. 20, above `CAPITULUM V.`
       // on p. 137.
       4: "Capitulum IV",
+      // `CAPITULUM V.` read in place at bon-sap-c5 (p. 137, full measure,
+      // centred small capitals, ~0.10 of the leaf, no subtitle and no anchor;
+      // the raw keeps it here). The chunk runs to Vers. 24, above
+      // `CAPITULUM VI.` on p. 144.
+      5: "Capitulum V",
     },
   },
 };

@@ -3414,6 +3414,15 @@ KNOWN_TOTALS_VOL6 = {
              # above the full-measure CAPITULUM V. (~0.10 of the leaf) and carry NO anchor.
              # Anchors L 1-4 / R 5-9; blocks L 1-6 head / R 6 tail + 7-9, n.6 RUNS OVER the gutter.
              # Gutters 901 above / 899 below.
+    138: 12, # bon-sap-c5. Anchors L 1-5 / R 6-12; blocks L 1-4 / R 5-12. No runover. Gutter 1126.
+    139: 11, # bon-sap-c5. Anchors L 1-7 / R 8-11; blocks L 1-6 / R 7-11. No runover. Gutter 919.
+    140: 12, # bon-sap-c5. Anchors L 1-6 / R 7-12; blocks L 1-5 head / R 5 tail + 6-12, n.5 RUNS OVER the gutter. Gutter 1132.
+    141: 12, # bon-sap-c5. Anchors L 1-6 / R 7-12; blocks L 1-8 head / R 8 tail + 9-12, n.8 RUNS OVER the gutter. Gutter 907.
+    142: 9,  # bon-sap-c5. Anchors L 1-4 / R 5-9; blocks L 1-5 head / R 5 tail + 6-9, n.5 RUNS OVER the gutter. Gutter 1132.
+    143: 12, # bon-sap-c5. Anchors L 1-6 / R 7-12; blocks L 1-5 head / R 5 tail + 6-12, n.5 RUNS OVER the gutter. Gutter 916.
+    144: 9,  # SHARED. nn.1-5 bon-sap-c5 (nn.1-2 L, nn.3-5 R, above the full-measure CAPITULUM VI.
+             # heading ~0.37 of the leaf); nn.6-9 bon-sap-c6 (n.6 L at Melior est sapientia, nn.7-8 L, n.9 R).
+             # Blocks L 1-4 / R 5-9. No runover. Gutters 1126 above / 1137 below.
 }
 
 KNOWN_TOTALS_BY_VOL = {
