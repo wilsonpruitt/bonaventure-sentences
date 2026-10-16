@@ -3405,6 +3405,15 @@ KNOWN_TOTALS_VOL6 = {
     131: 11, # SHARED. nn.1-8 bon-sap-c3 (nn.1-3 L, nn.4-8 R, above the full-measure
              # CAPITULUM IV. at ~0.39); nn.9-11 bon-sap-c4 (all three R, below it).
              # Blocks L 1-5 / R 6-11. No runover. Gutters 900 above / 902 below.
+    132: 11, # bon-sap-c4. Anchors L 1-5 / R 6-11; blocks L 1-7 / R 8-11. No runover. Gutter 1145.
+    133: 13, # bon-sap-c4. Anchors L 1-7 / R 8-13; blocks L 1-5 / R 6-13. No runover. Gutter 906.
+    134: 8,  # bon-sap-c4. Anchors L 1-3 / R 4-8; blocks L 1-4 / R 5-8. No runover. Gutter 1129.
+    135: 11, # bon-sap-c4. Anchors L 1-4 / R 5-11; blocks L 1-5 / R 6-11. No runover. Gutter 906.
+    136: 12, # bon-sap-c4. Anchors L 1-6 / R 7-12; blocks L 1-7 head / R 7 tail + 8-12, n.7 RUNS OVER the gutter. Gutter 1137.
+    137: 9,  # SHARED LEAF, but ALL nine notes are bon-sap-c5's: c4's last three lines per column stand
+             # above the full-measure CAPITULUM V. (~0.10 of the leaf) and carry NO anchor.
+             # Anchors L 1-4 / R 5-9; blocks L 1-6 head / R 6 tail + 7-9, n.6 RUNS OVER the gutter.
+             # Gutters 901 above / 899 below.
 }
 
 KNOWN_TOTALS_BY_VOL = {
