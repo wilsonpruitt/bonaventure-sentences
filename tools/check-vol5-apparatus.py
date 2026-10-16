@@ -3397,6 +3397,14 @@ KNOWN_TOTALS_VOL6 = {
     125: 11, # SHARED. nn.1-3 bon-sap-c2 (n.1 L, nn.2-3 R, above the full-measure
              # CAPITULUM III. at ~0.23); nn.4-11 bon-sap-c3 (nn.4-6 L, nn.7-11 R).
              # Blocks L 1-6 / R 7-11. No runover. Gutters 909 above / 913 below.
+    126: 9,  # bon-sap-c3. Anchors L 1-5 / R 6-9; blocks L 1 head / R 1 tail + 2-9, n.1 RUNS OVER the gutter. Gutter 1132.
+    127: 12, # bon-sap-c3. Anchors L 1-7 / R 8-12; blocks L 1-9 head / R 9 tail + 10-12, n.9 RUNS OVER the gutter. Gutter 908.
+    128: 8,  # bon-sap-c3. Anchors L 1-6 / R 7-8; blocks L 1-5 head / R 5 tail + 6-8, n.5 RUNS OVER the gutter. Gutter 1135.
+    129: 10, # bon-sap-c3. Anchors L 1-6 / R 7-10; blocks L 1-4 head / R 4 tail + 5-10, n.4 RUNS OVER the gutter. Gutter 905.
+    130: 12, # bon-sap-c3. Anchors L 1-7 / R 8-12; blocks L 1-8 / R 9-12. Gutter 1143.
+    131: 11, # SHARED. nn.1-8 bon-sap-c3 (nn.1-3 L, nn.4-8 R, above the full-measure
+             # CAPITULUM IV. at ~0.39); nn.9-11 bon-sap-c4 (all three R, below it).
+             # Blocks L 1-5 / R 6-11. No runover. Gutters 900 above / 902 below.
 }
 
 KNOWN_TOTALS_BY_VOL = {

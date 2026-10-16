@@ -25922,6 +25922,172 @@ bon-sap-c2	6	apparatus:p124-8	p124-8	scripture	apparatus-explicit	Phil. 2, 9	Phi
 bon-sap-c2	6	apparatus:p124-9	p124-9	scripture	apparatus-explicit	Ps. 138, 17	Ps 138:17	A	verse		
 bon-sap-c2	6	apparatus:p124-9	p124-9	scripture	apparatus-explicit	I. Petr. 2, 7	1Petr 2:7	A	verse		
 bon-sap-c2	6	apparatus:p124-10	p124-10	crossref	logical	II. Sent. d. 16. a. 2. q. 3.	bon-sent-II-d16-a2-q3		chunk		
+bon-sap-c3	6	latin_body	p125-6	scripture	body-ordinal	Proverbiorum duodecimo	Prov 12:26	B	verse		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	ad Hebraeos undecimo	Hebr 11	C	chapter		
+bon-sap-c3	6	latin_body	p125-7	scripture	body-ordinal	Iob nono	Iob 9:24	B	verse		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	Iob primo	Iob 1	C	chapter		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	Ioannis decimo	Ioan 10	C	chapter		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	Iob quinto	Iob 5	C	chapter		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	Iob vigesimo quarto	Iob 24	C	chapter		
+bon-sap-c3	6	latin_body	p125-9	scripture	body-ordinal	Ioannis quinto	Ioan 5:24	B	verse		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	Iob undecimo	Iob 11	C	chapter		
+bon-sap-c3	6	latin_body	p126-1	scripture	body-ordinal	ad Philippenses primo	Phil 1:23	B	verse		
+bon-sap-c3	6	latin_body	p126-3	scripture	body-ordinal	ad Romanos quinto	Rom 5:12	B	verse		
+bon-sap-c3	6	latin_body	p126-4	scripture	body-ordinal	Baruch tertio	Baruch 3:19	B	verse		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	Apocalypsis decimo quarto	Apoc 14	C	chapter		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	Isaiae trigesimo secundo	Isai 32	C	chapter		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	Proverbiorum decimo quarto	Prov 14	C	chapter		
+bon-sap-c3	6	latin_body	p126-7	scripture	body-ordinal	Apocalypsis nono	Apoc 9:6	B	verse		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	ad Romanos quinto	Rom 5	C	chapter		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	Matthaei vigesimo quinto	Matth 25	C	chapter		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	Lucae vigesimo secundo	Luc 22	C	chapter		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	Isaiae sexagesimo quarto	Isai 64	C	chapter		
+bon-sap-c3	6	latin_body	p126-9	scripture	body-ordinal	ad Hebraeos undecimo	Hebr 11:37	B	verse		
+bon-sap-c3	6	latin_body	p127-1	scripture	body-ordinal	Genesis vigesimo nono	Gen 29:20	B	verse		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	Threnorum primo	Thren 1	C	chapter		
+bon-sap-c3	6	latin_body	p127-2	scripture	body-ordinal	ad Romanos octavo	Rom 8:18	B	verse		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	ad Corinthios quarto	Cor* 4	C	chapter		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	Iob sexto	Iob 6	C	chapter		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	ad Corinthios sexto	Cor* 6	C	chapter		
+bon-sap-c3	6	latin_body	p127-5	scripture	body-ordinal	Iacobi primo	Iac 1:13	B	verse		
+bon-sap-c3	6	latin_body	p127-6	scripture	body-ordinal	Danielis primo	Dan 1:12	B	verse		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	Matthaei quarto	Matth 4	C	chapter		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	ad Corinthios septimo	Cor* 7	C	chapter		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	Actuum decimo quarto	Act 14	C	chapter		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	Tobiae tertio	Tob 3	C	chapter		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	Ecclesiastici secundo	Eccli 2	C	chapter		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	Iob vigesimo tertio	Iob 23	C	chapter		
+bon-sap-c3	6	latin_body	p127-9	scripture	body-ordinal	ad Romanos duodecimo	Rom 12:1	B	verse		
+bon-sap-c3	6	latin_body	p127-11	scripture	body-ordinal	Matthaei decimo tertio	Matth 13:43	B	verse		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	Isaiae trigesimo	Isai 30	C	chapter		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	Isaiae quadragesimo	Isai 40	C	chapter		
+bon-sap-c3	6	latin_body	p128-3	scripture	body-ordinal	Ioannis quinto	Ioan 5:22	B	verse		
+bon-sap-c3	6	latin_body	p128-4	scripture	body-ordinal	Matthaei duodecimo	Matth 12:41	B	verse		
+bon-sap-c3	6	latin_body	p128-5	scripture	body-ordinal	Apocalypsis quinto	Apoc 5:10	B	verse		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	Matthaei decimo quinto	Matth 15	C	chapter		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	Apocalypsis decimo nono	Apoc 19	C	chapter		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	Lucae primo	Luc 1	C	chapter		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	Ioannis tertio	Ioan 3	C	chapter		
+bon-sap-c3	6	latin_body	p128-7	scripture	body-ordinal	ad Romanos octavo	Rom 8:35	B	verse		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	Ecclesiastici sexto	Eccli 6	C	chapter		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	ad Philippenses quarto	Phil 4	C	chapter		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	Ioannis decimo quinto	Ioan 15	C	chapter		
+bon-sap-c3	6	latin_body	p129-2	scripture	body-ordinal	Ieremiae quadragesimo octavo	Ierem 48:10	B	verse		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	Ieremiae secundo	Ierem 2	C	chapter		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	Proverbiorum tertio	Prov 3	C	chapter		
+bon-sap-c3	6	latin_body		scripture	anaphor->body-ordinal	ibid	Prov 3	C	chapter	yes	Proverbiorum tertio
+bon-sap-c3	6	latin_body		scripture	body-ordinal	ad Hebraeos duodecimo	Hebr 12	C	chapter		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	Ecclesiastici trigesimo quarto	Eccli 34	C	chapter		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	Habacuc secundo	Habac 2	C	chapter		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	ad Galatas quinto	Gal 5	C	chapter		
+bon-sap-c3	6	latin_body	p129-9	scripture	body-ordinal	Lucae vigesimo tertio	Luc 23:29	B	verse		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	Proverbiorum sexto	Prov 6	C	chapter		
+bon-sap-c3	6	latin_body	p130-1	scripture	body-ordinal	Lucae octavo	Luc 8:8	B	verse		
+bon-sap-c3	6	latin_body	p130-2	scripture	body-ordinal	Matthaei decimo nono	Matth 19:12	B	verse		
+bon-sap-c3	6	latin_body	p130-4	scripture	body-ordinal	Ioannis vigesimo	Ioan 20:29	B	verse		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	ad Philippenses primo	Phil 1	C	chapter		
+bon-sap-c3	6	latin_body	p130-6	scripture	body-ordinal	Apocalypsis vigesimo primo	Apoc 21:22	B	verse		
+bon-sap-c3	6	latin_body	p130-7	scripture	body-ordinal	Iacobi primo	Iac 1:17	B	verse		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	ad Corinthios tertio	Cor* 3	C	chapter		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	Ecclesiastici primo	Eccli 1	C	chapter		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	Exodi vigesimo	Exod 20	C	chapter		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	Baruch tertio	Baruch 3	C	chapter		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	ad Corinthios secundo	Cor* 2	C	chapter		
+bon-sap-c3	6	latin_body	p131-1	scripture	body-ordinal	Regum secundo	Reg* 2:30	B	verse		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	Levitici decimo nono	Lev 19	C	chapter		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	Proverbiorum decimo	Prov 10	C	chapter		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	Genesis quadragesimo quinto	Gen 45	C	chapter		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	ad Corinthios decimo tertio	Cor* 13	C	chapter		
+bon-sap-c3	6	latin_body	p131-4	scripture	body-ordinal	Isaiae quadragesimo	Isai 40:5	B	verse		
+bon-sap-c3	6	latin_body		scripture	body-ordinal	Apocalypsis primo	Apoc 1	C	chapter		
+bon-sap-c3	6	latin_body	p131-5	scripture	body-ordinal	Matthaei vigesimo quinto	Matth 25:41	B	verse		
+bon-sap-c3	6	latin_body	p131-8	scripture	body-ordinal	Ecclesiastici quadragesimo primo	Eccli 41:9	B	verse		
+bon-sap-c3	6	apparatus:p125-6	p125-6	scripture	apparatus-explicit	Hebr. 11, 35	Hebr 11:35	A	verse		
+bon-sap-c3	6	apparatus:p125-7	p125-7	scripture	apparatus-explicit	Iob 1, 12	Iob 1:12	A	verse		
+bon-sap-c3	6	apparatus:p125-7	p125-7	scripture	apparatus-explicit	Ps. 90, 1	Ps 90:1	A	verse		
+bon-sap-c3	6	apparatus:p125-7	p125-7	scripture	apparatus-explicit	Ioan. 10, 28	Ioan 10:28	A	verse		
+bon-sap-c3	6	apparatus:p125-8	p125-8	scripture	apparatus-explicit	Iob 5, 19	Iob 5:19	A	verse		
+bon-sap-c3	6	apparatus:p125-8	p125-8	scripture	apparatus-explicit	Ps. 10, 7	Ps 10:7	A	verse		
+bon-sap-c3	6	apparatus:p125-11	p125-11	scripture	apparatus-explicit	Psalm. 16, 11	Ps 16:11	A	verse		
+bon-sap-c3	6	apparatus:p125-11	p125-11	scripture	apparatus-explicit	Iob 11, 17	Iob 11:17	A	verse		
+bon-sap-c3	6	apparatus:p126-1	p126-1	scripture	apparatus-explicit	Phil. 1, 23	Phil 1:23	A	verse		
+bon-sap-c3	6	apparatus:p126-1	p126-1	scripture	apparatus-explicit	Iob 24, 19	Iob 24:19	A	verse		
+bon-sap-c3	6	apparatus:p126-4	p126-4	scripture	apparatus-explicit	Iob 24, 19	Iob 24:19	A	verse		
+bon-sap-c3	6	apparatus:p126-4	p126-4	scripture	apparatus-explicit	Sap. 5, 4	Sap 5:4	A	verse		
+bon-sap-c3	6	apparatus:p126-5	p126-5	scripture	apparatus-explicit	Apoc. 14, 13	Apoc 14:13	A	verse		
+bon-sap-c3	6	apparatus:p126-5	p126-5	scripture	apparatus-explicit	Isai. 32, 17	Isai 32:17	A	verse		
+bon-sap-c3	6	apparatus:p126-6	p126-6	scripture	apparatus-explicit	Hebr. 11, 37	Hebr 11:37	A	verse		
+bon-sap-c3	6	apparatus:p126-6	p126-6	scripture	apparatus-explicit	Prov. 14, 32	Prov 14:32	A	verse		
+bon-sap-c3	6	apparatus:p126-7	p126-7	scripture	apparatus-explicit	Rom. 5, 2	Rom 5:2	A	verse		
+bon-sap-c3	6	apparatus:p126-8	p126-8	scripture	apparatus-explicit	Matth. 25, 23	Matth 25:23	A	verse		
+bon-sap-c3	6	apparatus:p126-8	p126-8	scripture	apparatus-explicit	Luc. 22, 29	Luc 22:29	A	verse		
+bon-sap-c3	6	apparatus:p126-8	p126-8	scripture	apparatus-explicit	Isai. 64, 4	Isai 64:4	A	verse		
+bon-sap-c3	6	apparatus:p127-1	p127-1	scripture	apparatus-explicit	Thren. 1, 12	Thren 1:12	A	verse		
+bon-sap-c3	6	apparatus:p127-1	p127-1	scripture	apparatus-explicit	Ps. 140, 6	Ps 140:6	A	verse		
+bon-sap-c3	6	apparatus:p127-2	p127-2	scripture	apparatus-explicit	II. Cor. 4, 17	2Cor 4:17	A	verse		
+bon-sap-c3	6	apparatus:p127-2	p127-2	scripture	apparatus-explicit	Iob 6, 16	Iob 6:16	A	verse		
+bon-sap-c3	6	apparatus:p127-3	p127-3	scripture	apparatus-explicit	Psalm. 115, 12	Ps 115:12	A	verse		
+bon-sap-c3	6	apparatus:p127-4	p127-4	scripture	apparatus-explicit	II. Cor. 6, 9	2Cor 6:9	A	verse		
+bon-sap-c3	6	apparatus:p127-6	p127-6	scripture	apparatus-explicit	Matth. 4, 3	Matth 4:3	A	verse		
+bon-sap-c3	6	apparatus:p127-6	p127-6	scripture	apparatus-explicit	I. Cor. 7, 5	1Cor 7:5	A	verse		
+bon-sap-c3	6	apparatus:p127-6	p127-6	scripture	apparatus-explicit	Ps. 25, 2	Ps 25:2	A	verse		
+bon-sap-c3	6	apparatus:p127-6	p127-6	crossref	logical	II. Sent. d. 21. a. 2. q. 1.	bon-sent-II-d21-a2-q1		chunk		
+bon-sap-c3	6	apparatus:p127-7	p127-7	scripture	apparatus-explicit	Act. 14, 21	Act 14:21	A	verse		
+bon-sap-c3	6	apparatus:p127-7	p127-7	scripture	apparatus-explicit	Tob. 3, 21	Tob 3:21	A	verse		
+bon-sap-c3	6	apparatus:p127-8	p127-8	scripture	apparatus-explicit	Eccli. 2, 5	Eccli 2:5	A	verse		
+bon-sap-c3	6	apparatus:p127-8	p127-8	scripture	apparatus-explicit	Iob 23, 10	Iob 23:10	A	verse		
+bon-sap-c3	6	apparatus:p127-9	p127-9	scripture	apparatus-explicit	Ps. 115, 15	Ps 115:15	A	verse		
+bon-sap-c3	6	apparatus:p127-10	p127-10	scripture	apparatus-explicit	Psalm. 85, 16	Ps 85:16	A	verse		
+bon-sap-c3	6	apparatus:p127-10	p127-10	scripture	apparatus-explicit	Ps. 21, 2	Ps 21:2	A	verse		
+bon-sap-c3	6	apparatus:p127-11	p127-11	scripture	apparatus-explicit	Isai. 30, 26	Isai 30:26	A	verse		
+bon-sap-c3	6	apparatus:p128-1	p128-1	crossref	logical	IV. Sent. d. 49. p. II. sect. I. a. 2. q. 1.	bon-sent-IV-d49-p2-s1-a2-q1		chunk		
+bon-sap-c3	6	apparatus:p128-2	p128-2	scripture	apparatus-explicit	Psalm. 1, 5	Ps 1:5	A	verse		
+bon-sap-c3	6	apparatus:p128-4	p128-4	crossref	logical	IV. Sent. d. 47. a. 1. q. 1.	bon-sent-IV-d47-a1-q1		chunk		
+bon-sap-c3	6	apparatus:p128-4	p128-4	crossref	chain-continuation	d. 48. a. 1. q. 1.	bon-sent-IV-d48-a1-q1		chunk		
+bon-sap-c3	6	apparatus:p128-5	p128-5	scripture	apparatus-explicit	Matth. 15, 27	Matth 15:27	A	verse		
+bon-sap-c3	6	apparatus:p128-5	p128-5	scripture	apparatus-explicit	Apoc. 19, 16	Apoc 19:16	A	verse		
+bon-sap-c3	6	apparatus:p128-5	p128-5	scripture	apparatus-explicit	Luc. 1, 33	Luc 1:33	A	verse		
+bon-sap-c3	6	apparatus:p128-5	p128-5	scripture	apparatus-explicit	Isai. 9	Isai 9	C	chapter		
+bon-sap-c3	6	apparatus:p128-5	p128-5	scripture	apparatus-explicit	Ps. 144, 13	Ps 144:13	A	verse		
+bon-sap-c3	6	apparatus:p128-6	p128-6	scripture	apparatus-explicit	Psalm. 124, 1	Ps 124:1	A	verse		
+bon-sap-c3	6	apparatus:p128-6	p128-6	scripture	apparatus-explicit	I. Ioan. 3, 2	1Ioan 3:2	A	verse		
+bon-sap-c3	6	apparatus:p128-7	p128-7	scripture	apparatus-explicit	Eccli. 6, 15	Eccli 6:15	A	verse		
+bon-sap-c3	6	apparatus:p128-8	p128-8	scripture	apparatus-explicit	Ps. 16, 15	Ps 16:15	A	verse		
+bon-sap-c3	6	apparatus:p128-8	p128-8	scripture	apparatus-explicit	Isai. 32, 18	Isai 32:18	A	verse		
+bon-sap-c3	6	apparatus:p128-8	p128-8	scripture	apparatus-explicit	Phil. 4, 7	Phil 4:7	A	verse		
+bon-sap-c3	6	apparatus:p128-8	p128-8	scripture	apparatus-explicit	Ioan. 15, 16	Ioan 15:16	A	verse		
+bon-sap-c3	6	apparatus:p129-2	p129-2	scripture	apparatus-explicit	Ier. 2, 19	Ierem 2:19	A	verse		
+bon-sap-c3	6	apparatus:p129-3	p129-3	crossref	page	supra pag. 108, nota 7	bon-sap-prooem		chunk		
+bon-sap-c3	6	apparatus:p129-3	p129-3	scripture	apparatus-explicit	Prov. 3, 13	Prov 3:13	A	verse		
+bon-sap-c3	6	apparatus:p129-3	p129-3	scripture	apparatus-explicit	Hebr. 12, 5	Hebr 12:5	A	verse		
+bon-sap-c3	6	apparatus:p129-4	p129-4	scripture	apparatus-explicit	Eccli. 34, 1	Eccli 34:1	A	verse		
+bon-sap-c3	6	apparatus:p129-4	p129-4	scripture	apparatus-explicit	Eccle. 10, 15	Eccle 10:15	A	verse		
+bon-sap-c3	6	apparatus:p129-5	p129-5	scripture	apparatus-explicit	Psalm. 127, 2	Ps 127:2	A	verse		
+bon-sap-c3	6	apparatus:p129-5	p129-5	scripture	apparatus-explicit	Sap. 5, 7	Sap 5:7	A	verse		
+bon-sap-c3	6	apparatus:p129-5	p129-5	scripture	apparatus-explicit	Habac. 2, 13	Habac 2:13	A	verse		
+bon-sap-c3	6	apparatus:p129-6	p129-6	scripture	apparatus-explicit	Gal. 5, 21	Gal 5:21	A	verse		
+bon-sap-c3	6	apparatus:p129-9	p129-9	scripture	apparatus-explicit	Eccli. 42, 9	Eccli 42:9	A	verse		
+bon-sap-c3	6	apparatus:p129-9	p129-9	scripture	apparatus-explicit	Prov. 6, 30	Prov 6:30	A	verse		
+bon-sap-c3	6	apparatus:p130-1	p130-1	crossref	page	tom. IV. pag. 754, nota 6	bon-sent-IV-d33-a2-q1+bon-sent-IV-d33-a2-q2		page-multi		
+bon-sap-c3	6	apparatus:p130-3	p130-3	crossref	logical	IV. Sent. d. 33. a. 2. q. 3.	bon-sent-IV-d33-a2-q3		chunk		
+bon-sap-c3	6	apparatus:p130-4	p130-4	scripture	apparatus-explicit	Phil. 1, 29	Phil 1:29	A	verse		
+bon-sap-c3	6	apparatus:p130-5	p130-5	scripture	apparatus-explicit	Ps. 10, 5	Ps 10:5	A	verse		
+bon-sap-c3	6	apparatus:p130-8	p130-8	scripture	apparatus-explicit	I. Cor. 3, 8	1Cor 3:8	A	verse		
+bon-sap-c3	6	apparatus:p130-9	p130-9	scripture	apparatus-explicit	Eccli. 1, 25	Eccli 1:25	A	verse		
+bon-sap-c3	6	apparatus:p130-9	p130-9	scripture	apparatus-explicit	Ps. 13, 3	Ps 13:3	A	verse		
+bon-sap-c3	6	apparatus:p130-9	p130-9	scripture	apparatus-explicit	Eccli. 1, 6	Eccli 1:6	A	verse		
+bon-sap-c3	6	apparatus:p130-10	p130-10	scripture	apparatus-explicit	Exod. 20, 5	Exod 20:5	A	verse		
+bon-sap-c3	6	apparatus:p130-10	p130-10	scripture	apparatus-explicit	Baruch 3, 19	Baruch 3:19	A	verse		
+bon-sap-c3	6	apparatus:p130-11	p130-11	scripture	apparatus-explicit	II. Cor. 2, 17	2Cor 2:17	A	verse		
+bon-sap-c3	6	apparatus:p131-1	p131-1	scripture	apparatus-explicit	Levit. 19, 32	Lev 19:32	A	verse		
+bon-sap-c3	6	apparatus:p131-1	p131-1	scripture	apparatus-explicit	Sap. 4, 8	Sap 4:8	A	verse		
+bon-sap-c3	6	apparatus:p131-2	p131-2	scripture	apparatus-explicit	Psalm. 54, 24	Ps 54:24	A	verse		
+bon-sap-c3	6	apparatus:p131-2	p131-2	scripture	apparatus-explicit	Prov. 10, 28	Prov 10:28	A	verse		
+bon-sap-c3	6	apparatus:p131-3	p131-3	scripture	apparatus-explicit	Gen. 45, 1	Gen 45:1	A	verse		
+bon-sap-c3	6	apparatus:p131-3	p131-3	scripture	apparatus-explicit	I. Cor. 4, 5	1Cor 4:5	A	verse		
+bon-sap-c3	6	apparatus:p131-4	p131-4	scripture	anaphor->apparatus-explicit	ibid.	1Cor 4:5	A	verse	yes	I. Cor. 4, 5
+bon-sap-c3	6	apparatus:p131-4	p131-4	scripture	apparatus-explicit	Apoc. 1, 7	Apoc 1:7	A	verse		
+bon-sap-c3	6	apparatus:p131-4	p131-4	scripture	apparatus-explicit	Ps. 17, 16	Ps 17:16	A	verse		
 bon-sap-prooem	6	latin_body	p107-1	scripture	body-ordinal	Sapientiae sexto	Sap 6:23	B	verse		
 bon-sap-prooem	6	latin_body	p107-4	scripture	body-ordinal	Sapientiae septimo	Sap 7:30	B	verse		
 bon-sap-prooem	6	latin_body	p107-7	scripture	body-ordinal	Proverbiorum vigesimo septimo	Prov 27:11	B	verse		
