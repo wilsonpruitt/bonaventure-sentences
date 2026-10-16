@@ -15,6 +15,11 @@ FROZEN RULES THIS TOOL EMBODIES (do not "simplify" them away):
     with an invented target.
   * Census: the ledger's chunk roster must equal the vol*/ glob, asserted at exit
     (same pattern as tools/check-vol5-census.py).
+  * Ruling 57 (C1, 2026-10-16): an `ibid. C, V` / `ibid. v. N` keeps its OWN
+    coordinates and inherits only its BOOK (for `v. N`, book + chapter) — see
+    resolve_coord_ibid(). Printed slips (C2) are filed as printed and annotated
+    from PRINTED_SLIPS, never corrected. Capital `Ibid.` and body `ibidem` are
+    NOT in scope (separately reported classes).
 
 Usage:
     python3.11 tools/build-citations.py                     # all volumes
@@ -504,6 +509,16 @@ def scan_chain_continuation(text, cfg):
         }
 
 
+# Ruling 57 (C1): the coordinates printed after a lower-case `ibid.` — `ibid. 41, 3`,
+# `ibid. 1, 20-22`, `ibid. v. 11`, `ibid v. 22` (point dropped). Matched from just
+# after the four letters `ibid`, so `ibidem` never qualifies. A bare number
+# (`ibid. 54.`) is NOT matched: it may be a chapter or a verse, and guessing which
+# is exactly what this ledger refuses to do — those stay with the bare-`ibid.` rule.
+IBID_COORD_RE = re.compile(
+    r"\.?\s*(?:v\.\s*(?P<v>\d{1,3})(?:\s*[-–]\s*(?P<vend>\d{1,3}))?"
+    r"|(?P<c>\d{1,3})\s*,\s*(?P<cv>\d{1,3})(?:\s*[-–]\s*(?P<cvend>\d{1,3}))?)(?!\d)")
+
+
 def scan_relative(text, cfg):
     """`supra d. 12` · `infra d. 43` · `ibid. d. 14` — same-book relative locus."""
     pat = re.compile(
@@ -518,6 +533,21 @@ def scan_relative(text, cfg):
             # scanner owns it. Emitting a locus record here duplicated the
             # preceding citation and pointed it at the wrong thing.
             if re.match(r"\.?\s*(?:pag|tom)\.", text[m.end(): m.end() + 8]):
+                continue
+            # Ruling 57 (C1): `ibid. 41, 3` / `ibid. v. 11` prints its OWN coordinates.
+            # It is a scripture anaphor whose BOOK (and, for `v. N`, chapter) is
+            # inherited and whose C:V is its own — never a Sentences inheritance, and
+            # never a copy of the antecedent's verse. Resolved in resolve_anaphora().
+            cm = (IBID_COORD_RE.match(text, m.start("rel") + 4)
+                  if d["rel"] == "ibid" else None)
+            if cm:
+                yield {"cls": "crossref", "sub": "relative-bare", "dist": None,
+                       "raw": text[m.start(): cm.end()].strip(), "pos": m.start(),
+                       "rel": d["rel"], "ibid_coords": {
+                           "chapter": as_int(cm.group("c")),
+                           "verse": as_int(cm.group("v") or cm.group("cv")),
+                           "verse_end": as_int(cm.group("vend") or cm.group("cvend")),
+                           "kind": "v" if cm.group("v") else "cv"}}
                 continue
             prev = (last_locus_before(text, m.start())
                     if d["rel"].lower().startswith("ibid") else None)
@@ -734,7 +764,226 @@ VERS_RE = re.compile(r"\bVers\.\s*(\d{1,3})")
 # Quaracchi's Latin `id` and `idem` are ordinary pronouns ("id est", "idem est"), and
 # admitting them turned 88 anaphors into 823 in a 148-chunk pilot. Quaracchi's
 # anaphoric forms are `Ibid.` and `loc. cit.` only.
-def resolve_anaphora(chunk_rows):
+def _closed_paren_spans(text, end):
+    """(start, stop) of every parenthesis that has CLOSED before `end`."""
+    spans, depth, start = [], 0, None
+    for i, ch in enumerate(text[:end]):
+        if ch == "(":
+            if depth == 0:
+                start = i
+            depth += 1
+        elif ch == ")" and depth:
+            depth -= 1
+            if depth == 0 and start is not None:
+                spans.append((start, i))
+    return spans
+
+
+TARGET_BC_RE = re.compile(r"^(\S+) (\d+)")
+
+
+def _book_chapter(target):
+    m = TARGET_BC_RE.match(target or "")
+    return (m.group(1), int(m.group(2))) if m else None
+
+
+def _skip_as_antecedent(p):
+    """Records a coordinate `ibid.` may not inherit from: an unresolved anaphor, or a
+    BARE anaphor (rule 2 — a bare `ibid.` only copies, so inheriting through it
+    drifts). A RESOLVED coordinate `ibid.` IS a valid antecedent: its chapter is its
+    own (`Rom. 5, 12; ibid. 6, 23; ibid. v. 9` is Rom 6:9, not Rom 5:9)."""
+    if p["subclass"] == "relative-bare":
+        return True
+    return bool(p["ibid_resolved"]) and not p.get("_coords")
+
+
+# The printed slips of ruling 37/48 (C2 of ruling 57): Quaracchi's own wrong book,
+# chapter or verse, transcribed as printed. The ledger FILES THEM AS PRINTED — the
+# index is derived from the text and never emends it — and each gets a QA line
+# naming the true passage, so the slip is visible rather than silently indexed.
+# Keyed narrowly: (chunk, section, anchor label, filed target) must match EXACTLY ONE
+# record; a stale or ambiguous entry is itself reported. Add a row only for a slip
+# a chunk's Notes have recorded and a gate has ruled on.
+PRINTED_SLIPS = [
+    # chunk, section, anchor, target as filed, the passage meant, where recorded
+    ("bon-sap-c1", "apparatus:p115-6", "p115-6", "Iob 6:2", "Iob 6:25",
+     "ruling 37 — p. 115 n. 6 prints `Iob 6, 2`"),
+    ("bon-sap-c3", "apparatus:p126-1", "p126-1", "Iob 24:19", "Iob 5:19",
+     "ruling 57/C2 — p. 126 n. 1 prints `Iob 24, 19`"),
+    ("bon-sap-c5", "latin_body", "p140-3", "Cor* 12:30", "1Cor 12:31",
+     "ruling 57/C2 — body `ad Corinthios duodecimo` + n. 3 `Vers. 30`"),
+    ("bon-sap-c11", "latin_body", "", "Prov 16", "Prov 24:16",
+     "ruling 57/C2 — body p. 180 `Proverbiorum decimo sexto` (n. 9 gives 24, 16)"),
+    ("bon-sap-c16", "latin_body", "p213-4", "Eccli 11:3", "Eccle 11:3",
+     "ruling 48 — body p. 213 `Ecclesiastici undecimo` for Ecclesiastes"),
+    ("bon-sap-c18", "latin_body", "p226-5", "Ezech 20:30", "Ezech 22:30",
+     "ruling 48 — body p. 226 `Ezechielis vigesimo` + n. 5 `Vers. 30`"),
+]
+
+
+def apply_printed_slips(rows):
+    """Annotate (never correct) the C2 printed slips. Returns QA-note tuples."""
+    notes = []
+    for cid, sec, lab, filed, meant, why in PRINTED_SLIPS:
+        hits = [r for r in rows if r["chunk_id"] == cid and r["section"] == sec
+                and r["anchor_label"] == lab and r["normalized_target"] == filed]
+        if len(hits) == 1:
+            notes.append((cid, sec, hits[0]["raw_text"],
+                          f"printed slip, filed as printed at `{filed}`; the passage is "
+                          f"`{meant}` ({why})"))
+        else:
+            notes.append((cid, sec, filed,
+                          f"⚠ PRINTED_SLIPS entry matched {len(hits)} records (expected 1) "
+                          f"— the table is stale; fix the entry, not the chunk"))
+    return notes
+
+
+def resolve_coord_ibid(i, r, chunk_rows, sections, cfg, qa):
+    """Ruling 57 (C1). `ibid. C, V` takes the antecedent's BOOK and its own C:V;
+    `ibid. v. N` the antecedent's book AND chapter and its own verse. The antecedent,
+    in order of preference — and if none qualifies the record is LEFT UNRESOLVABLE,
+    never guessed:
+
+      (a) the nearest preceding SCRIPTURE locus in the SAME note, walking past a
+          non-scripture or Sentences locus (`IV. Sent. d. 15 …; ibid. 5, 3` is not a
+          Sentences reference: Sentences coordinates always carry `d.`). A locus inside
+          a parenthesis that has closed is an aside and never governs (index rule 3).
+          An author siglum named between that locus and the `ibid.` hands the chain
+          to that author (index rule 5) — unresolvable. A `Libr. II. 3, 1` barrier
+          (book named only in the body) stops the walk — unresolvable.
+      (b) the BODY-ORDINAL join through the note's own anchor: `Vers. 21; ibid. 6, 3`
+          — the note's first locus is the body's `<Book> <ordinal>`[^n], which is a
+          body record, not a note record. One body book only; for `v. N` one chapter.
+      (c) only when the `ibid.` OPENS its note (nothing numeric before it), the
+          previous apparatus note's last citation, if it is scripture. A note that
+          already has an uncaptured locus of its own (`Cap. 10, 4. Ibid. …`, `Vers.
+          N; ibid. …` with no body join) is not allowed to reach across the boundary:
+          that is how c12 p. 186 n. 2 became Ps 73:12 instead of Gen 6:3.
+    """
+    sec = r["section"]
+    text = sections.get(sec) or ""
+    pos = r["_order"][1]
+    sigla = cfg["_author_sigla"]
+    co = r["_coords"]
+    spans = _closed_paren_spans(text, pos)
+    # An author named inside a closed parenthesis is an aside too (`Comment. in Epist.
+    # ad Rom. 7, 18. (inter opera S. Ambros.). Seq. locus est ibid. v. 22.`): mask
+    # those spans before testing governance.
+    atext = list(text)
+    for a, b in spans:
+        atext[a:b + 1] = " " * (b + 1 - a)
+    atext = "".join(atext)
+    ant, how = None, ""
+
+    # (a) same note
+    for j in range(i - 1, -1, -1):
+        p = chunk_rows[j]
+        if p["section"] != sec:
+            break
+        # A `loc. cit.` between the locus and the `ibid.` points somewhere the note
+        # does not say (III d9 a1 q5 n. 4: `Psalm. 5, 8. — … loc. cit. v. 17. Cfr.
+        # ibid. 6, 19` is I Cor 6:19, not Ps 6:19). The chain is unreadable: stop.
+        if p["raw_text"].lower().startswith("loc"):
+            r["_why"] = "a `loc. cit.` intervenes"
+            return False
+        if _skip_as_antecedent(p):
+            continue
+        ppos = p["_order"][1]
+        if any(a < ppos < b for a, b in spans):
+            continue
+        if p["subclass"] == "book-unnamed":
+            r["_why"] = "book named only in the body (`Libr. N.` barrier)"
+            return False
+        if p["class"] != "scripture":
+            continue
+        if author_between(atext, p["_end"], pos, sigla):
+            r["_why"] = f"author `{author_between(atext, p['_end'], pos, sigla)}` named between"
+            return False
+        ant, how = p, "note"
+        break
+
+    if ant is None and sec.startswith("apparatus:"):
+        who = author_between(atext, 0, pos, sigla)
+        if who:
+            r["_why"] = f"no scripture locus in the note; author `{who}` named before it"
+            return False
+        # (b) body-ordinal join
+        label = sec.split(":", 1)[1]
+        body = [p for p in chunk_rows if p["section"] == "latin_body"
+                and p["subclass"] == "body-ordinal" and p["anchor_label"] == label]
+        # `ibid. C, V` needs only the body's BOOK; `ibid. v. N` needs its chapter too.
+        def join_key(p):
+            bcj = _book_chapter(p["normalized_target"])
+            if bcj is None:
+                return None
+            return bcj if co["kind"] == "v" else bcj[0]
+        keys = {join_key(p) for p in body}
+        if len(keys) == 1 and None not in keys:
+            ant, how = body[0], "body"
+        elif len(keys) > 1:
+            r["_why"] = f"body join through [^{label}] names {len(keys)} different loci"
+            return False
+        # (c) the `ibid.` opens its note: inherit across the note boundary
+        elif not re.search(r"\d", text[:pos]):
+            for j in range(i - 1, -1, -1):
+                p = chunk_rows[j]
+                if not p["section"].startswith("apparatus:"):
+                    break
+                if p["raw_text"].lower().startswith("loc"):
+                    r["_why"] = "opens its note; a `loc. cit.` precedes it"
+                    return False
+                if _skip_as_antecedent(p):
+                    continue
+                if p["class"] == "scripture" and p["subclass"] != "book-unnamed" \
+                        and _book_chapter(p["normalized_target"]):
+                    ant, how = p, "prev-note"
+                else:
+                    r["_why"] = "opens its note; the previous note's last citation is not scripture"
+                    return False
+                break
+            if ant is None:
+                r["_why"] = "no-antecedent"   # may still chain across chunks
+                return False
+        else:
+            r["_why"] = "the note has a locus of its own the ledger did not capture"
+            return False
+
+    if ant is None:
+        r["_why"] = r.get("_why") or "no scripture antecedent"
+        return False
+    return apply_coord_ibid(r, ant, how, cfg, qa)
+
+
+def apply_coord_ibid(r, ant, how, cfg, qa, cross_chunk_prefix=""):
+    bc = _book_chapter(ant["normalized_target"])
+    if not bc:
+        r["_why"] = "antecedent has no book"
+        return False
+    book, ach = bc
+    co = r["_coords"]
+    chap = ach if co["kind"] == "v" else co["chapter"]
+    tgt = f"{book} {chap}:{co['verse']}"
+    if co.get("verse_end"):
+        tgt += f"-{co['verse_end']}"
+    res = "verse"
+    if chap > cfg["_meta"].get(book, {}).get("chapters", 999):
+        res = "chapter-out-of-range"
+        qa.append((r["chunk_id"], r["section"], r["raw_text"],
+                   f"chapter {chap} exceeds {book}'s "
+                   f"{cfg['_meta'][book].get('chapters')} — digit-confusion candidate"))
+    r["class"] = "scripture"
+    r["subclass"] = "anaphor->" + ant["subclass"].replace("anaphor->", "")
+    r["normalized_target"] = tgt
+    r["confidence"] = "B" if how == "body" else "A"
+    r["resolution"] = res
+    r["ibid_resolved"] = "cross-chunk" if cross_chunk_prefix else "yes"
+    tag = {"body": "body: ", "prev-note": "prev note: "}.get(how, "")
+    r["antecedent"] = (cross_chunk_prefix + tag + ant["raw_text"])[:60]
+    r["_why"] = ""
+    return True
+
+
+def resolve_anaphora(chunk_rows, sections=None, cfg=None, qa=None):
     """Resolve bare `ibid.` / `loc. cit.` / `Id.` against the printed sequence.
 
     Ported from ~/patrologia `scripts/index-work.mjs` (Migne rule 9), which solved this
@@ -763,6 +1012,10 @@ def resolve_anaphora(chunk_rows):
     for i, r in enumerate(chunk_rows):
         if r["subclass"] != "relative-bare":
             continue
+        if r.get("_coords"):
+            if sections is None or not resolve_coord_ibid(i, r, chunk_rows, sections, cfg, qa):
+                unresolved += 1
+            continue
         ant = None
         for j in range(i - 1, -1, -1):
             p = chunk_rows[j]
@@ -782,7 +1035,7 @@ def resolve_anaphora(chunk_rows):
     return unresolved
 
 
-def resolve_anaphora_across_chunks(chunks, per_chunk):
+def resolve_anaphora_across_chunks(chunks, per_chunk, cfg=None, qa=None):
     """Second pass: an `ibid.` opening a chunk's apparatus can point into the PREVIOUS
     chunk's footer, because a printed page's footnote register routinely splits across
     a chunk boundary ("per-page footer splits are the NORM" — repo CLAUDE.md).
@@ -827,6 +1080,17 @@ def resolve_anaphora_across_chunks(chunks, per_chunk):
             if r["subclass"] != "relative-bare" or r["ibid_resolved"]:
                 continue
             if not r["section"].startswith("apparatus:"):
+                continue
+            if r.get("_coords"):
+                # Ruling 57: a coordinate `ibid.` crosses a chunk boundary only on the
+                # same terms as a note boundary — it opened its note and found no
+                # antecedent in this chunk at all — and only onto a scripture locus.
+                if r.get("_why") == "no-antecedent":
+                    if tail["class"] == "scripture" and tail["subclass"] != "book-unnamed":
+                        apply_coord_ibid(r, tail, "prev-note", cfg, qa,
+                                         cross_chunk_prefix=f"{prev.cid}: ")
+                    else:
+                        r["_why"] = "opens the chunk's first note; the previous chunk's last citation is not scripture"
                 continue
             r["class"] = tail["class"]
             r["subclass"] = f"anaphor->{tail['subclass'].replace('anaphor->', '')}"
@@ -927,14 +1191,16 @@ def extract(chunks, cfg, by_locus, by_dist, by_page, by_id):
                         "resolution": res, "ibid_resolved": "",
                         "antecedent": "",
                         "_order": (sec_i, rec["pos"]),
+                        "_end": rec["pos"] + len(rec["raw"]),
+                        "_coords": rec.get("ibid_coords"),
                     })
 
         chunk_rows.sort(key=lambda r: r["_order"])
-        resolve_anaphora(chunk_rows)
+        resolve_anaphora(chunk_rows, dict(sections), cfg, qa)
         per_chunk[c.cid] = chunk_rows
         rows.extend(chunk_rows)
 
-    unresolved_anaphora = resolve_anaphora_across_chunks(chunks, per_chunk)
+    unresolved_anaphora = resolve_anaphora_across_chunks(chunks, per_chunk, cfg, qa)
     return rows, qa, unresolved_anaphora
 
 
@@ -999,6 +1265,7 @@ def main():
     chunks = [c for c in corpus if in_scope(c)]
     rows, qa, unresolved_anaphora = extract(chunks, cfg, by_locus, by_dist, by_page, by_id)
     rows = dedupe(rows)
+    slip_notes = apply_printed_slips(rows)
 
     os.makedirs(os.path.dirname(args.out), exist_ok=True)
     with open(args.out, "w", encoding="utf-8") as fh:
@@ -1011,11 +1278,17 @@ def main():
     roster_disk = {c.cid for c in chunks}
     silent = sorted(roster_disk - roster_ledger)
 
-    write_qa(args.qa, chunks, rows, qa, silent, cfg, vols)
+    write_qa(args.qa, chunks, rows, qa, silent, cfg, vols, slip_notes)
     if args.sample:
         write_sample(rows, args.sample, args.seed)
 
     report(chunks, rows, qa, silent, unresolved_anaphora)
+    coord = [r for r in rows if r.get("_coords")]
+    print(f"coordinate ibid. (r.57): {len(coord)}  honoured "
+          f"{sum(1 for r in coord if r['ibid_resolved'])}  left unresolvable "
+          f"{sum(1 for r in coord if not r['ibid_resolved'])}")
+    print(f"printed slips (r.57 C2) : {sum(1 for n in slip_notes if not n[3].startswith('⚠'))} "
+          f"annotated, {sum(1 for n in slip_notes if n[3].startswith('⚠'))} stale")
     return 0
 
 
@@ -1048,7 +1321,7 @@ def report(chunks, rows, qa, silent, unresolved_anaphora=0):
     print(f"chunks with no citation : {len(silent)}")
 
 
-def write_qa(path, chunks, rows, qa, silent, cfg, vols):
+def write_qa(path, chunks, rows, qa, silent, cfg, vols, slip_notes=()):
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, "w", encoding="utf-8") as fh:
         fh.write("# Citation QA report\n\n")
@@ -1096,6 +1369,32 @@ def write_qa(path, chunks, rows, qa, silent, cfg, vols):
                      + "\n\n| Chunk | Section | Raw |\n|---|---|---|\n")
             for r in sorted(una, key=lambda r: (r["volume"], r["chunk_id"], r["section"])):
                 fh.write(f"| `{r['chunk_id']}` | {r['section']} | `{r['raw_text']}` |\n")
+        else:
+            fh.write("_None._\n")
+
+        fh.write("\n## Printed slips filed as printed (ruling 57, C2 override table)\n\n")
+        fh.write("Quaracchi's own wrong book, chapter or verse, transcribed as printed "
+                 "(rulings 37/48). The ledger indexes the text as printed and never "
+                 "emends it; each slip is listed here with the passage meant. Source: "
+                 "`PRINTED_SLIPS` in `tools/build-citations.py`.\n\n")
+        if slip_notes:
+            fh.write("| Chunk | Section | Raw | Note |\n|---|---|---|---|\n")
+            for cid, sec, raw, why in slip_notes:
+                fh.write(f"| `{cid}` | {sec} | `{raw}` | {why} |\n")
+        else:
+            fh.write("_None._\n")
+
+        coord_un = [r for r in rows if r.get("_coords") and not r["ibid_resolved"]]
+        fh.write("\n## Coordinate `ibid.` left unresolvable (ruling 57, C1)\n\n")
+        fh.write("An `ibid. C, V` / `ibid. v. N` keeps its own coordinates and takes only "
+                 "its BOOK (for `v. N`, book and chapter) from an antecedent. These found "
+                 "no antecedent the rules allow, and are left unresolvable rather than "
+                 "guessed. They also appear in the anaphora list above.\n\n")
+        if coord_un:
+            fh.write("| Chunk | Section | Raw | Why |\n|---|---|---|---|\n")
+            for r in sorted(coord_un, key=lambda r: (r["volume"], r["chunk_id"], r["section"])):
+                fh.write(f"| `{r['chunk_id']}` | {r['section']} | `{r['raw_text']}` | "
+                         f"{r.get('_why') or ''} |\n")
         else:
             fh.write("_None._\n")
 
