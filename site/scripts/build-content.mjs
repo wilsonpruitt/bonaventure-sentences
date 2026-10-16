@@ -612,6 +612,14 @@ const WORKS = {
       // title_la, ruling 36). The chunk runs to Vers. 30, above `CAPITULUM
       // VIII.` on p. 159.
       7: "Capitulum VII",
+      // `CAPITULUM VIII.` read in place on the plate at bon-sap-c8 (p. 159,
+      // full measure, centred small capitals, ~0.65 of the leaf below Cap.
+      // VII's close, no subtitle, no anchor). Below it the centred italic
+      // `Secundo ostendit tripliciter, quantum amaverit sapientiam` (no final
+      // point, read at 3x) — the second member of c7's ratio, governing exactly
+      // this chapter (the title_la, ruling 36). The chunk runs to Vers. 21,
+      // above `CAPITULUM IX.` on p. 166 (~0.48 of the leaf).
+      8: "Capitulum VIII",
     },
   },
 };

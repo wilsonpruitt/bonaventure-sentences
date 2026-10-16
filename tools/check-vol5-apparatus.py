@@ -3443,6 +3443,15 @@ KNOWN_TOTALS_VOL6 = {
     159: 11, # bon-sap-c7, WHOLE register: all eleven anchor in Cap. VII above the full-measure CAPITULUM VIII.
              # heading (~0.65); Cap. VIII's lines below it carry no anchor. Anchors L 1-5 / R 6-11; blocks L 1-6 / R 7-11.
              # No runover. Gutter 909 (above the heading).
+    160: 11, # bon-sap-c8. Anchors L 1-6 / R 7-11; blocks L 1-6 / R 7-11. No runover. Gutter 1127.
+    161: 12, # bon-sap-c8. Anchors L 1-6 / R 7-12; blocks L 1-7 / R 8-12 (n.7 prints LEFT on n.6's line). No runover. Gutter 915.
+    162: 14, # bon-sap-c8. Anchors L 1-9 / R 10-14; blocks same. No runover. Gutter 1117.
+    163: 11, # bon-sap-c8. Anchors L 1-5 / R 6-11; blocks L 1-7 / R 8-11 (nn.6-7 print LEFT, anchor RIGHT). No runover. Gutter 899.
+    164: 12, # bon-sap-c8. Anchors L 1-7 / R 8-12; blocks L 1-7 head / R 7 tail + 8-12, n.7 RUNS OVER the gutter. Gutter 1144.
+    165: 7,  # bon-sap-c8. Anchors L 1-2 / R 3-7; blocks L 1-4 head / R 4 tail + 5-7, n.4 RUNS OVER the gutter. Gutter 914.
+    166: 12, # SHARED: nn.1-8 bon-sap-c8 (above the full-measure CAPITULUM IX. heading, ~0.48; anchors L 1-3 / R 4-8);
+             # nn.9-12 bon-sap-c9 (n.9 LEFT at Cap. IX's divisio *Tu autem*; nn.10-12 RIGHT). Blocks L 1-3 head /
+             # R 3 tail + 4-12, n.3 RUNS OVER the gutter. Gutter 1137 (above the heading).
 }
 
 KNOWN_TOTALS_BY_VOL = {
