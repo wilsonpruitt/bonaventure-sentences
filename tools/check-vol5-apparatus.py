@@ -3367,6 +3367,15 @@ KNOWN_TOTALS_VOL6 = {
              # *exprimitur* in Jerome's Prologus, nn.7-8 in the Expositio).
              # Blocks L nn.1-6 (n.6 head) / R n.6 (tail), 7-8: n.6 runs over the
              # gutter and is prol's to ledger. Gutter 919.
+             # bon-sap-prol re-derived nn.6-8 by anchor (all R column) and
+             # ledgered p.109 n.6:gutter.
+    110: 7,  # SHARED. n.1 bon-sap-prol (*de Viris illustribus* in the 4-line
+             # top region, L column; `Cap. 11.`); nn.2-7 bon-sap-c1 (n.2 *sicut
+             # dictum est* Divisio generalis L, n.3 *infra capitulo primo* L,
+             # n.4 *iustitiae generalis* Pars I L, n.5 *Glossa* Cap. I L, n.6
+             # *Anselmum* L, n.7 *dilexit* R). Blocks L nn.1-3 / R n.3 (tail),
+             # 4-7: n.3 RUNS OVER the gutter and is c1's to ledger. Gutter:
+             # top region cut at the printed rule 1117; register 1139.
 }
 
 KNOWN_TOTALS_BY_VOL = {
