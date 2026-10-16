@@ -576,6 +576,11 @@ const WORKS = {
       // field (ruling 29). The chunk runs to Vers. 16, before `CAPITULUM II.`
       // on p. 118, though its `verses` keeps the index label "1-15".
       1: "Capitulum I",
+      // `CAPITULUM II.` read in place at bon-sap-c2 (p. 118, full measure,
+      // centred small capitals, ~0.28 of the leaf, no subtitle and no anchor;
+      // the raw DROPS it). The chunk runs to Vers. 25, above `CAPITULUM III.`
+      // on p. 125.
+      2: "Capitulum II",
     },
   },
 };

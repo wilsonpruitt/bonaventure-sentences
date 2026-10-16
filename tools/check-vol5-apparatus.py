@@ -3388,6 +3388,15 @@ KNOWN_TOTALS_VOL6 = {
              # full-measure CAPITULUM II. at ~0.28); nn.4-8 bon-sap-c2 (n.4
              # *Bene dixi* L at Cap. II Vers. 1, nn.5-8 R). Blocks L 1-5 / R 6-8.
              # No runover. Register gutter 1131.
+    119: 7,  # bon-sap-c2. Anchors L 1-4 / R 5-7; blocks L 1-3 / R 3 tail + 4-7, n.3 RUNS OVER the gutter. Gutter 905.
+    120: 9,  # bon-sap-c2. Anchors L 1-3 / R 4-9; blocks L 1-5 / R 6-9. Gutter 1138.
+    121: 10, # bon-sap-c2. Anchors and blocks agree L 1-5 / R 6-10. Gutter 910.
+    122: 9,  # bon-sap-c2. Anchors L 1-4 / R 5-9; blocks L 1-6 / R 7-9. Gutter 1122.
+    123: 11, # bon-sap-c2. Anchors L 1-5 / R 6-11; blocks L 1-6 / R 7-11. Gutter 912.
+    124: 10, # bon-sap-c2. Anchors L 1-4 / R 5-10; blocks L 1-5 / R 6-10. Gutter 1129 (skew ~14 px, one split).
+    125: 11, # SHARED. nn.1-3 bon-sap-c2 (n.1 L, nn.2-3 R, above the full-measure
+             # CAPITULUM III. at ~0.23); nn.4-11 bon-sap-c3 (nn.4-6 L, nn.7-11 R).
+             # Blocks L 1-6 / R 7-11. No runover. Gutters 909 above / 913 below.
 }
 
 KNOWN_TOTALS_BY_VOL = {
