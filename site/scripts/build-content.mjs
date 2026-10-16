@@ -596,6 +596,14 @@ const WORKS = {
       // the raw keeps it here). The chunk runs to Vers. 24, above
       // `CAPITULUM VI.` on p. 144.
       5: "Capitulum V",
+      // `CAPITULUM VI.` read in place at bon-sap-c6 (p. 144, full measure,
+      // centred small capitals, ~0.37 of the leaf, no subtitle and no anchor;
+      // the raw DROPS it). Below it stand Sap. 6:1 (Melior est sapientia) and
+      // then the `PARS II. EXHORTATIO AD SAPIENTIAM.` heading: Part II opens
+      // INSIDE this chapter, transcribed as a heading, no `pars:` field
+      // (ruling 29). The chunk runs to Vers. 27, above `CAPITULUM VII.` on
+      // p. 151.
+      6: "Capitulum VI",
     },
   },
 };
