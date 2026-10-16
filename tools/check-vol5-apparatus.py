@@ -3430,8 +3430,19 @@ KNOWN_TOTALS_VOL6 = {
     149: 11, # bon-sap-c6. Anchors L 1-5 / R 6-11; blocks L 1-8 head / R 8 tail + 9-11, n.8 RUNS OVER the gutter. Gutter 907.
     150: 13, # bon-sap-c6. Anchors L 1-6 / R 7-13; blocks L 1-10 / R 11-13. No runover. Gutter 1133.
     151: 9,  # SHARED. n.1 bon-sap-c6 (R, Ecclesiastici primo, above the full-measure CAPITULUM VII.
-             # heading ~0.17 of the leaf); nn.2-9 bon-sap-c7 (anchors L 2-6, R 7-9). Blocks L 1-6 / R 7-9.
+             # heading ~0.17 of the leaf); nn.2-9 bon-sap-c7 (anchors L 2-4, R 5-9 — re-derived by c7;
+             # the earlier "L 2-6, R 7-9" here described the BLOCKS). Blocks L 1-6 / R 7-9; no runover.
              # Gutters 907 above / 911 below.
+    152: 11, # bon-sap-c7. Anchors L 1-6 / R 7-11; blocks L 1-3 head / R 3 tail + 4-11, n.3 RUNS OVER the gutter. Gutter 1131.
+    153: 12, # bon-sap-c7. Anchors L 1-6 / R 7-12; blocks L 1-7 head / R 7 tail + 8-12, n.7 RUNS OVER the gutter. Gutter 906.
+    154: 9,  # bon-sap-c7. Anchors L 1-5 / R 6-9; blocks L 1-4 / R 5-9. No runover. Gutter 1134.
+    155: 12, # bon-sap-c7. Anchors L 1-5 / R 6-12; blocks L 1-5 / R 6-12. No runover. Gutter 905.
+    156: 11, # bon-sap-c7. Anchors L 1-6 / R 7-11; blocks L 1-6 / R 7-11. No runover. Gutter 1128.
+    157: 13, # bon-sap-c7. Anchors L 1-7 / R 8-13; blocks L 1-8 head / R 8 tail + 9-13, n.8 RUNS OVER the gutter. Gutter 911.
+    158: 18, # bon-sap-c7. Anchors L 1-9 / R 10-18; blocks L 1-10 / R 11-18. No runover. Gutter 1124.
+    159: 11, # bon-sap-c7, WHOLE register: all eleven anchor in Cap. VII above the full-measure CAPITULUM VIII.
+             # heading (~0.65); Cap. VIII's lines below it carry no anchor. Anchors L 1-5 / R 6-11; blocks L 1-6 / R 7-11.
+             # No runover. Gutter 909 (above the heading).
 }
 
 KNOWN_TOTALS_BY_VOL = {

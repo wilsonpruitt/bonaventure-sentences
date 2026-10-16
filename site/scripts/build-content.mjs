@@ -604,6 +604,14 @@ const WORKS = {
       // (ruling 29). The chunk runs to Vers. 27, above `CAPITULUM VII.` on
       // p. 151.
       6: "Capitulum VI",
+      // Capitulum VII — read in place on p. 151 (full measure, centred small
+      // capitals, ~0.17 of the leaf, no subtitle, no anchor). Below it the
+      // roman `Secundo sumit rationem exhortandi ad sapientiam a suo exemplo.`
+      // (Part II's second ratio, governing cc. VII-IX) and the italic
+      // `Primo ostendit, qualiter sapientiam acceperit.` (this chapter, the
+      // title_la, ruling 36). The chunk runs to Vers. 30, above `CAPITULUM
+      // VIII.` on p. 159.
+      7: "Capitulum VII",
     },
   },
 };
