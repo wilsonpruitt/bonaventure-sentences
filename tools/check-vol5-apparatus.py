@@ -3534,8 +3534,13 @@ KNOWN_TOTALS_VOL6 = {
     216: 9,  # bon-sap-c16. Anchors L 1-4 / R 5-9; blocks L 1-8 head / R 8 tail + 9; n.8 RUNS OVER the gutter and n.9
              # RUNS OVER the PAGE onto the head of p. 217's left block. Gutter 1148.
     217: 8,  # bon-sap-c16 owns nn.1-4 (above the mid-leaf CAPITULUM XVII.); nn.5-8 anchor in Cap. XVII and are
-             # bon-sap-c17's (PENDING). Left block opens with p.216 n.9's tail, then nn.1-3; right block nn.4-8.
-             # Gutter 922 (upper), 918 (below the heading).
+             # bon-sap-c17's (picked up there: anchors L 5-6 / R 7-8, all four print RIGHT). Left block opens with
+             # p.216 n.9's tail, then nn.1-3; right block nn.4-8. Gutter 922 (upper), 918 (below the heading).
+    218: 9,  # bon-sap-c17. Anchors L 1-3 / R 4-9; blocks L 1-6 / R 7-9 (nn.4-6 print LEFT, anchor RIGHT). Gutter 1129.
+    219: 14, # bon-sap-c17. Anchors L 1-6 / R 7-14; blocks L 1-7 / R 8-14 (n.7 prints LEFT, anchor RIGHT). Gutter 923.
+    220: 12, # bon-sap-c17. Anchors L 1-5 / R 6-12; blocks L 1-4 head / R 4 tail + 5-12, n.4 RUNS OVER the gutter. Gutter 1132.
+    221: 12, # bon-sap-c17 owns all twelve (above the mid-leaf CAPITULUM XVIII.; XVIII's divisio on the leaf is unanchored).
+             # Anchors L 1-6 / R 7-12; blocks L 1-7 / R 8-12. Gutter 897 (above the heading).
 }
 
 KNOWN_TOTALS_BY_VOL = {

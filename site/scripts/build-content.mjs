@@ -700,6 +700,10 @@ const WORKS = {
       // p. 217; CAPITULUM XVII. stands mid-leaf on p. 217 (the index's 217:
       // heading and Vers. 1 both there).
       16: "Capitulum XVI",
+      // bon-sap-c17: CAPITULUM XVII. read in place mid-leaf on p. 217 (full measure,
+      // no subtitle); the chapter runs to p. 221, where CAPITULUM XVIII. stands
+      // mid-leaf with its Vers. 1 on p. 222 (ruling 55: the index's 222).
+      17: "Capitulum XVII",
     },
   },
 };
