@@ -3460,6 +3460,15 @@ KNOWN_TOTALS_VOL6 = {
     171: 9,  # SHARED: nn.1-4 bon-sap-c9 (above the full-measure CAPITULUM X. heading, ~0.25; anchors L 1 / R 2-4);
              # nn.5-9 bon-sap-c10 (all RIGHT, in Cap. X's region). Blocks L 1-4 head / R 4 tail + 5-9, n.4 RUNS OVER
              # the gutter. Gutter 898 (above the heading) / 897 (below).
+    172: 14, # bon-sap-c10. Anchors L 1-7 / R 8-14; blocks L 1-8 head / R 8 tail + 9-14, n.8 RUNS OVER the gutter. Gutter 1137 (4 px drift).
+    173: 12, # bon-sap-c10. Anchors L 1-6 / R 7-12; blocks L 1-5 / R 6-12 (n.6 prints RIGHT, anchors LEFT). No runover. Gutter 898.
+    174: 13, # bon-sap-c10. Anchors L 1-7 / R 8-13; blocks L 1-6 / R 7-13 (n.7 prints RIGHT, anchors LEFT). No runover. Gutter 1128 (10 px drift).
+    175: 10, # bon-sap-c10. Anchors L 1-6 / R 7-10; blocks L 1-5 head / R 5 tail + 6-10, n.5 RUNS OVER the gutter
+             # (n.6 prints RIGHT, anchors LEFT). Gutter 893.
+    176: 11, # bon-sap-c10. Anchors L 1-5 / R 6-11; blocks L 1-4 / R 5-11 (n.5 prints RIGHT, anchors LEFT). No runover. Gutter 1151.
+    177: 9,  # SHARED: nn.1-6 bon-sap-c10 (above the full-measure CAPITULUM XI. heading, ~0.40; anchors L 1-4 / R 5-6);
+             # nn.7-9 bon-sap-c11 (n.7 LEFT at Cap. XI's divisio *capitulo duodecimo*; nn.8-9 RIGHT). Blocks L 1-5 / R 6-9
+             # (n.5 prints LEFT, anchors RIGHT). No runover. Gutter 904 (both regions).
 }
 
 KNOWN_TOTALS_BY_VOL = {

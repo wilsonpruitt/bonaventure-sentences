@@ -629,6 +629,18 @@ const WORKS = {
       // (~0.25 of the leaf). The index's "174" for Cap. X is a pilot misreading
       // of a printed 171 (the 1/4 class); see the chunk's Notes.
       9: "Capitulum IX",
+      // `CAPITULUM X.` read in place on the plate at bon-sap-c10 (p. 171, full
+      // measure, centred small capitals, ~0.25 of the leaf below Cap. IX's
+      // close, no subtitle, no anchor). Below it the divisio *Haec illam etc.*
+      // and then the centred italic `Tertio hortatur ad sapientiam acquirendam
+      // per rationes sumtas ab eius effectibus, et primo a beneficiis
+      // pertinentibus ad amicorum Dei promotionem.` — the third ratio of Part II
+      // (cc. X–XIX) fused in ONE heading with its first member, which governs
+      // exactly this chapter; no lower heading does (title_la, ruling 36, taken
+      // whole — see the chunk's Notes). The chunk runs to Vers. 21, above
+      // `CAPITULUM XI.` on p. 177 (~0.40 of the leaf); the index's 177 for
+      // Cap. XI re-read on the plate and right.
+      10: "Capitulum X",
     },
   },
 };
