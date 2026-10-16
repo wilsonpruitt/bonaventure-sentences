@@ -641,6 +641,20 @@ const WORKS = {
       // `CAPITULUM XI.` on p. 177 (~0.40 of the leaf); the index's 177 for
       // Cap. XI re-read on the plate and right.
       10: "Capitulum X",
+      // `CAPITULUM XI.` read in place on the plate at bon-sap-c11 (p. 177, full
+      // measure, centred small capitals, ~0.40 of the leaf below Cap. X's
+      // close, no subtitle, no anchor). Below it three headings descend: the
+      // roman `De beneficiis pertinentibus principaliter ad adversariorum
+      // punitionem.` (cc. XI–XIX), the italic `Primo, de punitione per poenas
+      // leviores agitur dupliciter.` (cc. XI–XII), and the small bold `Primo, de
+      // punitione Aegyptiorum propter duplex peccatum, primo propter
+      // depressionem iniustam.` — whose first clause covers exactly this chapter
+      // (its sibling `Secundo, de punitione Chananaeorum…` heads Cap. XII) and
+      // whose second names Vers. 1-15 (sibling `Secundo, … propter
+      // idololatriam.` on p. 180): the title_la, ruling 36, taken whole. The
+      // chunk runs to Vers. 27 (index label 1-26), above `CAPITULUM XII.` on
+      // p. 184 (~0.36 of the leaf); the index's 184 read on the plate and right.
+      11: "Capitulum XI",
     },
   },
 };

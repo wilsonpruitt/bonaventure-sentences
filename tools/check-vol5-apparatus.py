@@ -3469,6 +3469,19 @@ KNOWN_TOTALS_VOL6 = {
     177: 9,  # SHARED: nn.1-6 bon-sap-c10 (above the full-measure CAPITULUM XI. heading, ~0.40; anchors L 1-4 / R 5-6);
              # nn.7-9 bon-sap-c11 (n.7 LEFT at Cap. XI's divisio *capitulo duodecimo*; nn.8-9 RIGHT). Blocks L 1-5 / R 6-9
              # (n.5 prints LEFT, anchors RIGHT). No runover. Gutter 904 (both regions).
+             # bon-sap-c11 re-derived nn.7-9: position and column as stated; all three print RIGHT.
+    178: 10, # bon-sap-c11. Anchors L 1-5 / R 6-10; blocks L 1-6 + 7 head / R 7 tail + 8-10, n.7 RUNS OVER the gutter
+             # (n.6 prints LEFT, anchors RIGHT). Gutter 1124.
+    179: 11, # bon-sap-c11. Anchors L 1-7 / R 8-11; blocks L 1-7 / R 8-11. No runover. Gutter 902.
+    180: 12, # bon-sap-c11. Anchors L 1-7 / R 8-12; blocks L 1-6 / R 7-12 (n.7 prints RIGHT, anchors LEFT). No runover. Gutter 1132.
+    181: 11, # bon-sap-c11. Anchors L 1-4 / R 5-11; blocks L 1-6 / R 7-11 (nn.5-6 print LEFT, anchor RIGHT). No runover. Gutter 906.
+    182: 9,  # bon-sap-c11. Anchors L 1-4 / R 5-9; blocks L 1-6 head / R 6 tail + 7-9, n.6 RUNS OVER the gutter
+             # (nn.5-6 print LEFT, anchor RIGHT). Gutter 1129.
+    183: 11, # bon-sap-c11. Anchors L 1-5 / R 6-11; blocks L 1-8 head / R 8 tail + 9-11, n.8 RUNS OVER the gutter
+             # (nn.6-8 print LEFT, anchor RIGHT). Gutter 897.
+    184: 10, # SHARED: nn.1-5 bon-sap-c11 (above the full-measure CAPITULUM XII. heading, ~0.36; anchors L 1-3 / R 4-5,
+             # all five print LEFT); nn.6-10 bon-sap-c12 (n.6 LEFT at *Dionysium*, nn.7-10 RIGHT). Blocks L 1-6 head /
+             # R 6 tail + 7-10, n.6 RUNS OVER the gutter (c12's). Gutter 1124 above the heading / 1127 below.
 }
 
 KNOWN_TOTALS_BY_VOL = {
