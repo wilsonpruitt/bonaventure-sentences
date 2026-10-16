@@ -288,3 +288,51 @@ Evidence sheet: `manual-review/vol6-sapientiae-shakedown-evidence.md`; gate log
 - **43. OUT OF SCOPE, PARKED as its own scoped job:** untranslated `Contra:` / `Sed contra:` labels in DEPLOYED
   English (Ecclesiastes 14 + 2; scattered in Vols III–V — ~34 English sites corpus-wide against ~1,170
   "On the contrary:"). Mechanical conform to "On the contrary:"; needs a deploy, so after the Vercel freeze.
+
+# SAPIENTIAE MID-WORK GATE (p. 191) — RULINGS 44–58 (Wilson, 2026-10-16; "all as recommended")
+
+Evidence sheet: `manual-review/vol6-sapientiae-midwork-evidence.md` (commit `7fefe3d`); gate log
+`manual-review/vol6-sapientiae-midwork-gate.md`. Scope `bon-sap-c3` … `bon-sap-c12`, pp. 125–191. Ruling 34 placed the gate
+"at p. 192"; the seam is p. 191.
+
+- **44. (A1) *punitio* → "punishing"; *poena* → "punishment".** Per-site, English only; *supplicium* untouched here (its
+  sharing with *poena* under ruling 20 is c16's question). **Binding on `bon-sap-c13` onward.** Reason: the divisio of
+  cc. XI–XIX is built on the act/penalty pair (*punitionem per poenas leviores / graviores*), and one English word for both
+  hid the hinge of Part II's third ratio at a site count that is large and growing. Applied: 34 body sites + 2 `title_en`.
+- **45. (A2) The misprint class RATIFIED as built:** an identifiable wrong sort or slip → as printed + English bracket
+  (`[so printed: X for Y]` for a letter fault, `[so printed; the verse/passage is …]` for a locus slip); an unnameable sort →
+  read plain and disclosed (the `necessarium` rule); a compositor's blank → reproduced + `[*sic*]`. Reason: one rule for the
+  whole class, consistent at all ten sites; ruling 9 forbids silent emendation. 0 lines.
+- **46. (A3) The verse test RATIFIED at Job 37:3, Col. 1:12 and Isa. 50:11** — received "light" kept; each is quoted only as
+  a verse and nothing in the prose turns on *lumen*. 0 lines.
+- **47. (A4) A fused heading is taken WHOLE for `title_la`, never split — a corollary of ruling 36** (c10 run + member; c11
+  member + sub-member). Reason: cutting invents a title Quaracchi did not print. 0 lines.
+- **48. (A5) Ruling 37's bracket applies in the BODY as in the apparatus** (c11 p. 180, *Proverbiorum decimo sexto* for
+  Prov. 24:16). Reason: the bracket marks a certain printed slip wherever it stands. 0 lines.
+- **49. (A6) c7 p. 156 *Amans bonum, actum* LEFT as printed, no bracket.** Reason: it construes as a gloss, and a bracket
+  would assert a slip nobody has shown; one site. 0 lines.
+- **50. (A7) The `verses` field keeps the index label VERBATIM even when the last address exceeds it** (c11 reaches
+  `(Vers. 27.)` under `"1-26"`; ruling 27, the c1 Vers. 16 precedent). 0 lines.
+- **51. (A8) Marginal quaestiones are counted by the PRINTED marginale** (a numbered `Quaestio 1./2.` pair = two); an
+  unlabelled pair (c7 p. 159 L) is recorded in Notes, not counted. 25 in pp. 125–191. 0 lines.
+- **52. (A9) The c6 Sap. 6:27 *accipite disciplinam* → "instruction" conform is DECLINED** (ruling 42: one site of 46, no
+  ruling earned). 0 lines.
+- **53. (B1) `tr-doctrina` — one note per chunk carrying the word, apparatus-only included (ruling 11); "instruction"
+  RATIFIED as the quotation branch** (Douay kept inside a quotation nothing leans on: c8 Ecclus. 6:18, c10 Prov. 1:7).
+  Written in c6, c7 (apparatus-anchored, p. 154 n. 3, ruling 13) and c8. 3 notes, 0 text lines.
+- **54. (B2) c8 *studium* → "study" (the work's one root, with the prooem/c1/c6 notes); `tr-studium` written in c8.**
+  Reason: c8's heading *ex studio quaerendi sapientiam* is a proof inside the exhortation *ad studium et amorem
+  sapientiae*. Five "zeal" sites conformed; Prov. 20:11 *Ex studiis suis* keeps Douay. 5 lines + 1 note.
+- **55. (B3) The index page = the page of `(Vers. 1.)`; the `Capitulum N.` heading may stand on the leaf before — the
+  end-prediction rule for c13–c19** (11 of 11 openings; VIII 159/160 and XIII 191/192 discriminate). The scouting table's
+  `Cap. X … 174` corrected to `171`. 1 doc line.
+- **56. (B4) Carry-list drift corrected in the next resume block** (item 8 "first numbered quaestiones" false — c1 p. 112/116,
+  c6 p. 146 came first; item 2 "3×" = one site read at 3×; item 20 "indistinguishable until here" — VIII had decided it), and
+  c6's Notes *doctrina* count "one" → two, corrected at the gate because c6 was being edited for ruling 53. Doc only.
+- **57. (C1) The `ibid. C, V` / `ibid. v. N` coordinate drop in `build-citations.py` is a SCOPED JOB BEFORE THE p. 235
+  DEPLOY** — capture the coordinates after `ibid.`, take the antecedent's BOOK and the ibid.'s own C:V, look back past a
+  non-scripture antecedent — with a before/after ledger diff reviewed by Wilson. NOT done at this gate. Measured: 30 records
+  in scope, 251 corpus-wide, 1 honoured.
+- **58. (C2–C5) PARKED** (ruling 40: logged, chunks never edited): C2 printed slips in the ledger (fold into C1's job as a
+  small override table) · C3 dropped chain continuations · C4 unparsed named units · C5 owner-blind `page-multi` (1,178
+  corpus-wide; a design improvement, not a defect).

@@ -25,7 +25,7 @@ numbering continues from 26 (`vol6-pilot-setup.md`).
 | unit | pp. | | unit | pp. |
 |---|---|---|---|---|
 | Prooemium Commentarii | 107 | | Cap. IX Vers. 1-19 | 166 |
-| Introductio generalis | ib. | | Cap. X Vers. 1-21 | 174 |
+| Introductio generalis | ib. | | Cap. X Vers. 1-21 | 171 ⁽ᶜᵒʳʳ⁾ |
 | De quadruplici causa huius libri | 108 | | Cap. XI Vers. 1-26 | 177 |
 | Prologus S. Hieronymi in librum Sapientiae | 109 | | Cap. XII Vers. 1-26 | 184 |
 | Expositio prologi | ib. | | Cap. XIII Vers. 1-19 | 192 |
@@ -38,6 +38,10 @@ numbering continues from 26 (`vol6-pilot-setup.md`).
 | Cap. VI Vers. 1-27 | 144 | | Scholion | 233 |
 | Cap. VII Vers. 1-30 | 151 | | Schemata | 234 |
 | Cap. VIII Vers. 1-21 | 160 | | | |
+
+⁽ᶜᵒʳʳ⁾ **Corrected 2026-10-16 at the Sapientiae mid-work gate (ruling 55, docket B3):** this line read `174`; the index
+prints **`171`** (carry-list items 9 and 20; Cap. X's `(Vers. 1.)` stands on p. 171, `bon-sap-c10`'s first page). The index page is the page of
+the chapter's `(Vers. 1.)`; the `Capitulum N.` heading may stand on the leaf before (Cap. VIII 159/160, Cap. XIII 191/192).
 
 ⭐⭐ **Every capitulum has exactly ONE index line, and it is the whole chapter (`Vers. 1-N`). There is NO
 `Quaestiones` line anywhere in this work's index** — against Ecclesiastes (a `Quaestiones` line after nearly every
