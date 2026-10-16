@@ -3515,6 +3515,15 @@ KNOWN_TOTALS_VOL6 = {
              # (n.8 prints RIGHT, anchor LEFT). Gutter 1150.
     203: 15, # bon-sap-c14 (Cap. XIV ends on this leaf; CAPITULUM XV. heads p. 204, whose register opens numbered).
              # Anchors L 1-8 / R 9-15; blocks L 1-9 / R 10-15 (n.9 prints LEFT, anchor RIGHT). Gutter 901.
+    204: 9,  # bon-sap-c15 (CAPITULUM XV. at the head; register opens numbered at n.1). Anchors L 1-5 / R 6-9;
+             # blocks L 1-4 head / R 4 tail + 5-9, n.4 RUNS OVER the gutter (n.5 prints RIGHT, anchor LEFT). Gutter 1135.
+    205: 13, # bon-sap-c15. Anchors L 1-6 / R 7-13; blocks L 1-6 / R 7-13 (coincide). Gutter 919.
+    206: 11, # bon-sap-c15. Anchors L 1-4 / R 5-11; blocks L 1-4 / R 5-11 (coincide). Gutter 1116.
+    207: 9,  # bon-sap-c15. Anchors L 1-5 / R 6-9; blocks L 1-4 head / R 4 tail + 5-9, n.4 RUNS OVER the gutter
+             # (n.5 prints RIGHT, anchor LEFT). Gutter 929.
+    208: 12, # bon-sap-c15. Anchors L 1-5 / R 6-12; blocks L 1-7 / R 8-12 (nn.6-7 print LEFT, anchor RIGHT). Gutter 1128.
+    209: 7,  # bon-sap-c15 owns nn.1-5 (above the mid-leaf CAPITULUM XVI.); nn.6-7 anchor in Cap. XVI and are
+             # bon-sap-c16's (PENDING). Anchors L 1-2 / R 3-5 (XV), R 6-7 (XVI); blocks L 1-4 / R 5-7. Gutter 919 (upper).
 }
 
 KNOWN_TOTALS_BY_VOL = {

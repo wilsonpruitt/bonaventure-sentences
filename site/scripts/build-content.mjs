@@ -684,6 +684,13 @@ const WORKS = {
       // below it (covers exactly Cap. XIV; plain, no descent). Runs to Vers. 31
       // (= index label) on p. 203; CAPITULUM XV. heads p. 204.
       14: "Capitulum XIV",
+      // bon-sap-c15 (2026-10-16): CAPITULUM XV. read in place at the head of
+      // p. 204 (full measure, no subtitle, no anchor); title_la = the small
+      // bold `Tertio agitur de commendatione veri Dei.` directly below it
+      // (covers exactly Cap. XV; plain, no descent). Runs to Vers. 19 (= index
+      // label) at the head of p. 209's right column; CAPITULUM XVI. stands
+      // mid-leaf on p. 209 (the index's 209: heading and Vers. 1 both there).
+      15: "Capitulum XV",
     },
   },
 };
