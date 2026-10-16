@@ -3482,6 +3482,15 @@ KNOWN_TOTALS_VOL6 = {
     184: 10, # SHARED: nn.1-5 bon-sap-c11 (above the full-measure CAPITULUM XII. heading, ~0.36; anchors L 1-3 / R 4-5,
              # all five print LEFT); nn.6-10 bon-sap-c12 (n.6 LEFT at *Dionysium*, nn.7-10 RIGHT). Blocks L 1-6 head /
              # R 6 tail + 7-10, n.6 RUNS OVER the gutter (c12's). Gutter 1124 above the heading / 1127 below.
+    185: 10, # bon-sap-c12. Anchors L 1-4 / R 5-10; blocks L 1-5 / R 6-10 (n.5 prints LEFT, anchors RIGHT). Gutter 908.
+    186: 12, # bon-sap-c12. Anchors L 1-4 / R 5-12; blocks L 1-9 / R 10-12 (nn.5-9 print LEFT, anchor RIGHT). Gutter 1128.
+    187: 12, # bon-sap-c12. Anchors L 1-4 / R 5-12; blocks L 1-5 / R 6-12 (n.5 prints LEFT, anchors RIGHT). Gutter 907.
+    188: 11, # bon-sap-c12. Anchors L 1-6 / R 7-11; blocks L 1-4 / R 5-11 (nn.5-6 print RIGHT, anchor LEFT). Gutter 1125.
+    189: 11, # bon-sap-c12. Anchors L 1-6 / R 7-11; blocks L 1-5 / R 6-11 (n.6 prints RIGHT, anchors LEFT). Gutter 913.
+    190: 9,  # bon-sap-c12. Anchors L 1-5 / R 6-9; blocks L 1-7 head / R 7 tail + 8-9, n.7 RUNS OVER the gutter
+             # (nn.6-7 print LEFT, anchor RIGHT; n.6 set flush right on n.5's last line). Gutter 1124.
+    191: 8,  # SHARED: nn.1-7 bon-sap-c12 (above the full-measure CAPITULUM XIII. heading, ~0.58; anchors L 1-4 / R 5-7);
+             # n.8 bon-sap-c13 (LEFT, below the heading, at *Supra*). Blocks L 1-4 / R 5-8. Gutter 897 above the heading.
 }
 
 KNOWN_TOTALS_BY_VOL = {

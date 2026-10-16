@@ -655,6 +655,17 @@ const WORKS = {
       // chunk runs to Vers. 27 (index label 1-26), above `CAPITULUM XII.` on
       // p. 184 (~0.36 of the leaf); the index's 184 read on the plate and right.
       11: "Capitulum XI",
+      // `CAPITULUM XII.` read in place on the plate at bon-sap-c12 (p. 184, full
+      // measure, centred small capitals, ~0.36 of the leaf below Cap. XI's
+      // close, no subtitle, no anchor). Below it the small bold `Secundo, de
+      // punitione Chananaeorum et Amorrhaeorum.` — the second member of c11's
+      // italic `Primo, de punitione per poenas leviores agitur dupliciter.` (cc.
+      // XI–XII), covering exactly this chapter: the title_la, ruling 36, no
+      // descent, not fused. The chunk runs to Vers. 26 (index label 1-26, last
+      // address on the plate `(Vers. 26.)`), above `CAPITULUM XIII.` on p. 191
+      // (~0.58 of the leaf) — the index prints 192 for Cap. XIII, the page on
+      // which its `(Vers. 1.)` first stands; the heading is on 191.
+      12: "Capitulum XII",
     },
   },
 };
