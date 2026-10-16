@@ -3285,7 +3285,7 @@ firing a full three-pass cycle every ~15 pages buys almost nothing.
 Vol VI runs on the same per-chunk machinery as Vol V (§ Vol V mechanics, gutter rule, apparatus
 bands-only, census/ledger, `tr-` notes, polish-gate cadence, index conventions all apply; `vol6/`,
 offset `pdf = printed + 42`, ledger `manual-review/vol6-runover-ledger.tsv`, `KNOWN_TOTALS_VOL6`).
-Vol VI's own conventions and rulings live in `manual-review/vol6-pilot-setup.md` (Ecclesiastes
+Vol VI's own conventions and rulings live in `manual-review/vol6-pilot-setup.md` (Sapientiae pilot rulings 27–35, 2026-10-15; Ecclesiastes
 rulings 1–8, shakedown rulings 9–14, rulings 15–19, work-close rulings 20–26 — gate CLOSED 2026-10-11) and in the START HERE block of
 `next-session-resume.md`, which is authoritative for the exact front.
 

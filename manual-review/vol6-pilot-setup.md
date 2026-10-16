@@ -225,3 +225,38 @@ Full evidence and edit list: `manual-review/vol6-ecclesiastes-workclose-gate.md`
 - **25.** p. 11's italic Scripture reproduced as printed; question CLOSED. Exact count pp. 10/12/13 = 0/11/23.
 - **26.** Heading depth stays flat; CLOSED.
 - **Housekeeping:** Schemata wording differences recorded as printed; Schemata verse ranges not indexed; trailing-`---` bug fixed in `build-content.mjs`; `tr-studium` confirmed.
+
+# SAPIENTIAE MINI-PILOT — RULINGS 27–35 (Wilson, 2026-10-15; "all as recommended")
+
+Evidence sheet: `manual-review/sapientiae-pilot-scouting.md` (index read on the plate, idx-678 both halves; structure,
+register census, mechanics). Taken before any chunk existed.
+
+- **27. Chunk unit = the CAPITULUM: nineteen chunks `bon-sap-c{1..19}`**, `division: N`, `verses: "1-N"` (the index label
+  verbatim), `type: pericope`. The index gives each chapter ONE line and lists NO Quaestiones; Quaracchi's self-citations
+  are chapter+verse. Ruling 1's principle (the index unit) applied to an index whose unit is the chapter.
+- **28. Prooemium = TWO chunks, division 0:** `bon-sap-prooem` (section 1, `type: prooemium`, pp. 107–109, Introductio
+  generalis + De quadruplici causa, ¶¶1–9) and `bon-sap-prol` (section 2, `type: expositio`, pp. 109–110, Prologus
+  S. Hieronymi + Expositio prologi). **The p. 110 `COMMENTARIUS / IN LIBRUM SAPIENTIAE.` stack, `DIVISIO GENERALIS.`, the
+  `PARS I.` heading and its three subdivisiones go to `bon-sap-c1`.**
+- **29. `PARS I.` (p. 110) and `PARS II.` (p. 144) are transcribed as headings inside `c1` and `c6`; NO `pars:` field;
+  breadcrumb stays `Cap. N, Vers. 1-N`.** Recorded in those chunks' Notes and the registry comments.
+- **30. `bon-sap-scholion` (p. 233, division 20, `type: scholion`) and `bon-sap-schemata` (pp. 234–235, division 21,
+  `type: schemata`, ONE chunk, two sections)** — rulings 3, 18, 19 as written.
+- **31. Marginal `Quaestio.` paragraphs (~5 sites) are ordinary paragraphs, transcribed as printed; the marginale goes to
+  Notes.** Not lifted into `### Quaestiones`. Ruling 4 otherwise ports whole.
+- **32. Register:** *Sapientia* capitalised in the print → "Wisdom", lower-case → "wisdom" (follow the print, never decide
+  it); *Sapiens* as the book's author → "the Wise Man", generic → "the wise man"; *iustus/iniustus* → just/unjust;
+  *impius* → **impious** (Douay "wicked" adjusted — one Latin word, one root); *iniquus* → wicked, *iniquitas* → iniquity;
+  *idolum* → idol, *idololatria* → idolatry, *idololatra* → idolater, *simulacrum* → image. **Purity triple APPLIED**
+  (*pudicitia* purity · *puritas* pureness · *munditia* cleanness — *pudicitia* is live here, so the *serm* release does
+  not apply). Carried unchanged: ruling 2 (`tr-lumen` per chunk; Sap 6:23 *Diligite lumen sapientiae* keeps "lumen"),
+  rulings 5, 10, 11, 20, 21, the *vacare* dikaisune rule, `tr-studium`, *intellectus*/*intelligentia*. Work title
+  "Commentarius in librum Sapientiae" / **"Commentary on the Book of Wisdom"**.
+- **33. Registry:** slug `sapientiam`, id prefix `bon-sap-`, book 16, tome 6, initial "S", `divisionLabel: "Capitula"`,
+  divisions 0 Prooemium · 1–19 Capitulum N · 20 Scholion · 21 Schemata; `sapientiam` joins the `ecclesiasten` branch of
+  `buildWorkChunkTitle`. Entry goes in with `prooem` (division 0 only); each capitulum adds its line after reading its
+  heading in place.
+- **34. Cadence: THREE gates — shakedown at p. 125 (after Cap. II), mid-work at p. 192 (Cap. XII/XIII seam), work-close at
+  p. 235. ONE deploy, at p. 235.** Each gate on Wilson's go only.
+- **35. One Opus agent per chunk, incremental-append discipline from the start; a two-pass build only for a chunk that
+  dies once or measures over ~10 pp.** ~50–70 apparatus entries per capitulum is a planning figure, never a gate.
