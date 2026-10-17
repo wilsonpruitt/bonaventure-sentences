@@ -604,8 +604,8 @@ transmitted alternate title *sive Illuminationes Ecclesiae*) · p. 328 MEASURED 
   bounds the far end. Every span still gets fixed positively on the band.
 - **Cadence: THREE gates**, not the two page count alone would give (~128 pp), **plus a
   shakedown gate ~15–25 pp in — i.e. after roughly Collatio IV.**
-- **⚠ Plates: extract PER COLLATIO, never in bulk.** 128 leaves at 450 dpi is ~600 MB on an
-  8 GB machine.
+- **⚠ Plates: extract PER COLLATIO, never in bulk.** 128 leaves at 450 dpi is ~600 MB of
+  scratch for images only one collatio needs at a time.
 
 ### SEPTEM DONIS — mini-pilot conventions (frozen 2026-08-27; evidence in `manual-review/septem-donis-pilot-scouting.md`)
 
@@ -3307,7 +3307,8 @@ stop after each chunk to ask whether to continue:
    ≤200-word report. No push, no deploy, no `git stash`.
 3. **On the report:** relay a two-line summary to Wilson, check `git status` is clean and both
    commits exist, then **dispatch the next chunk immediately** from the new START HERE block.
-   One agent at a time (8 GB machine).
+   One agent at a time — each chunk commits and advances the START HERE front the next one
+   reads, so they can't overlap. (Sequencing, not RAM: the 8 GB limit is gone on the Pro.)
 4. **Repeat** until a STOP below. Then check in with Wilson: chunks built this session (ids, pp.,
    entry counts), anything flagged for his ruling, the unpushed commit count, and the next front.
 
@@ -3644,7 +3645,7 @@ Run both, in this order.
   **527 MB / 29,318 files**, up from 466 MB / 29,080 at the Breviloquium deploy (2,012
   chunks). ⚠ **The scaling decision is deliberately PARKED (Wilson, 2026-08-01) — record
   the numbers, do NOT re-raise the decision unprompted.** The local build did **not** OOM
-  on the 8 GB machine under the 1 GB Node heap cap.
+  even on the old 8 GB Air under a 1 GB Node heap cap; the Pro (24 GB, 4 GB heap) has ample room.
 - **Only the project owner deploys** to the production custom domain (bonaventure.wrootpress.com). Other contributors should commit their work to a branch; owner pulls and deploys.
 
 ### ★ DEPLOY CADENCE — at structural boundaries (Wilson, 2026-07-28)
