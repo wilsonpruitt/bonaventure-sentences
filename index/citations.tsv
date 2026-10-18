@@ -25597,6 +25597,78 @@ bon-eccl-prooem	6	apparatus:p8-3	p8-3	scripture	apparatus-explicit	Psalm. 49, 16
 bon-eccl-prooem	6	apparatus:p8-6	p8-6	scripture	apparatus-explicit	Matth. 23, 3	Matth 23:3	A	verse		
 bon-eccl-prooem	6	apparatus:p8-7	p8-7	scripture	apparatus-explicit	Matth. 25, 14	Matth 25:14	A	verse		
 bon-eccl-prooem	6	apparatus:p8-7	p8-7	scripture	apparatus-explicit	Luc. 19, 12	Luc 19:12	A	verse		
+bon-ioan-prooem	6	latin_body	p239-2	scripture	body-ordinal	Isaiae quinquagesimo secundo	Isai 52:13	B	verse		
+bon-ioan-prooem	6	latin_body	p239-3	scripture	body-ordinal	Numerorum duodecimo	Num 12:7	B	verse		
+bon-ioan-prooem	6	latin_body	p239-5	scripture	body-ordinal	Isaiae quadragesimo nono	Isai 49:1	B	verse		
+bon-ioan-prooem	6	latin_body	p240-2	scripture	body-ordinal	Isaiae quadragesimo secundo	Isai 42:1	B	verse		
+bon-ioan-prooem	6	latin_body	p240-4	scripture	body-ordinal	Isaiae vigesimo octavo	Isai 28:9	B	verse		
+bon-ioan-prooem	6	latin_body		scripture	body-ordinal	ad Corinthios secundo	Cor* 2	C	chapter		
+bon-ioan-prooem	6	latin_body	p240-6	scripture	body-ordinal	Danielis primo	Dan 1:17	B	verse		
+bon-ioan-prooem	6	latin_body		scripture	body-ordinal	Danielis octavo	Dan 8	C	chapter		
+bon-ioan-prooem	6	latin_body	p240-7	scripture	body-ordinal	Apocalypsis decimo nono	Apoc 19:10	B	verse		
+bon-ioan-prooem	6	latin_body	p240-8	scripture	body-ordinal	Regum tertio	Reg* 3:12	B	verse		
+bon-ioan-prooem	6	latin_body		scripture	body-ordinal	Ecclesiastici decimo quinto	Eccli 15	C	chapter		
+bon-ioan-prooem	6	latin_body	p240-10	scripture	body-ordinal	Ezechielis octavo	Ezech 8:3	B	verse		
+bon-ioan-prooem	6	latin_body		scripture	body-ordinal	Apocalypsis vigesimo primo	Apoc 21	C	chapter		
+bon-ioan-prooem	6	latin_body	p240-11	scripture	body-ordinal	Apocalypsis primo	Apoc 1:19	B	verse		
+bon-ioan-prooem	6	latin_body	p241-1	scripture	body-ordinal	Genesis septimo	Gen 7:17	B	verse		
+bon-ioan-prooem	6	latin_body	p241-4	scripture	body-ordinal	Ezechielis decimo septimo	Ezech 17:22	B	verse		
+bon-ioan-prooem	6	latin_body	p241-7	scripture	body-ordinal	Ezechielis primo	Ezech 1:10	B	verse		
+bon-ioan-prooem	6	latin_body		scripture	body-ordinal	Ioannis tertio	Ioan 3	C	chapter		
+bon-ioan-prooem	6	latin_body		scripture	body-ordinal	Ioannis decimo nono	Ioan 19	C	chapter		
+bon-ioan-prooem	6	latin_body	p241-9	scripture	body-ordinal	ad Corinthios quarto	Cor* 4:17	B	verse		
+bon-ioan-prooem	6	latin_body	p242-1	scripture	body-ordinal	Ioannis vigesimo	Ioan 20:31	B	verse		
+bon-ioan-prooem	6	latin_body		scripture	body-ordinal	Ioannis vigesimo	Ioan 20	C	chapter		
+bon-ioan-prooem	6	latin_body	p244-1	scripture	body-ordinal	Ecclesiastici tertio	Eccli 3:22	B	verse		
+bon-ioan-prooem	6	latin_body		scripture	body-ordinal	Proverbiorum vigesimo quinto	Prov 25	C	chapter		
+bon-ioan-prooem	6	latin_body	p244-2	scripture	body-ordinal	Isaiae quinquagesimo tertio	Isai 53:8	B	verse		
+bon-ioan-prooem	6	latin_body	p244-3	scripture	body-ordinal	ad Corinthios secundo	Cor* 2:1	B	verse		
+bon-ioan-prooem	6	latin_body	p244-4	scripture	body-ordinal	ad Corinthios secundo	Cor* 2:10	B	verse		
+bon-ioan-prooem	6	latin_body	p244-5	scripture	body-ordinal	Regum secundo	Reg* 2:3	B	verse		
+bon-ioan-prooem	6	latin_body	p244-6	scripture	body-ordinal	ad Colossenses secundo	Col 2:4	B	verse		
+bon-ioan-prooem	6	apparatus:p239-1	p239-1	crossref	page	pag. 128	bon-sap-c3		chunk		
+bon-ioan-prooem	6	apparatus:p239-1	p239-1	crossref	page	pag. 132	bon-sap-c4		chunk		
+bon-ioan-prooem	6	apparatus:p239-1	p239-1	scripture	apparatus-explicit	Isai. 52, 13	Isai 52:13	A	verse		
+bon-ioan-prooem	6	apparatus:p239-1	p239-1	scripture	apparatus-explicit	Num. 12, 7	Num 12:7	A	verse		
+bon-ioan-prooem	6	apparatus:p239-1	p239-1	scripture	apparatus-explicit	Isai. 49, 5	Isai 49:5	A	verse		
+bon-ioan-prooem	6	apparatus:p239-1	p239-1	scripture	apparatus-explicit	Isai. 42, 1	Isai 42:1	A	verse		
+bon-ioan-prooem	6	apparatus:p239-1	p239-1	scripture	apparatus-explicit	Isai. 28, 9	Isai 28:9	A	verse		
+bon-ioan-prooem	6	apparatus:p239-1	p239-1	scripture	apparatus-explicit	Reg. 3, 12	Reg* 3:12	A	verse		
+bon-ioan-prooem	6	apparatus:p239-1	p239-1	scripture	apparatus-explicit	Dan. 1, 17	Dan 1:17	A	verse		
+bon-ioan-prooem	6	apparatus:p239-1	p239-1	scripture	apparatus-explicit	Psal. 106, 32	Ps 106:32	A	verse		
+bon-ioan-prooem	6	apparatus:p239-1	p239-1	scripture	apparatus-explicit	Ezech. 8, 3	Ezech 8:3	A	verse		
+bon-ioan-prooem	6	apparatus:p239-1	p239-1	scripture	apparatus-explicit	Gen. 7, 17	Gen 7:17	A	verse		
+bon-ioan-prooem	6	apparatus:p239-4	p239-4	scripture	apparatus-explicit	Ioan. 19, 26	Ioan 19:26	A	verse		
+bon-ioan-prooem	6	apparatus:p240-2	p240-2	scripture	apparatus-explicit	Ioan. 21, 7	Ioan 21:7	A	verse		
+bon-ioan-prooem	6	apparatus:p240-4	p240-4	scripture	apparatus-explicit	I. Cor. 2, 14	1Cor 2:14	A	verse		
+bon-ioan-prooem	6	apparatus:p240-4	p240-4	scripture	apparatus-explicit	Ioan. 14, 17	Ioan 14:17	A	verse		
+bon-ioan-prooem	6	apparatus:p240-5	p240-5	scripture	apparatus-explicit	Matth. 4, 22	Matth 4:22	A	verse		
+bon-ioan-prooem	6	apparatus:p240-6	p240-6	scripture	anaphor->body-ordinal	ibid. 8, 16	Dan 8:16	B	verse	yes	body: Danielis primo
+bon-ioan-prooem	6	apparatus:p240-7	p240-7	crossref	logical	III. Sent. d. 9. a. 1. q. 5.	bon-sent-III-d9-a1-q5		chunk		
+bon-ioan-prooem	6	apparatus:p240-8	p240-8	crossref	logical	III. Sent. d. 32. q. 6.	bon-sent-III-d32-a1-q6		chunk		
+bon-ioan-prooem	6	apparatus:p240-9	p240-9	scripture	apparatus-explicit	Psalm. 106, 32	Ps 106:32	A	verse		
+bon-ioan-prooem	6	apparatus:p240-9	p240-9	scripture	apparatus-explicit	Eccli. 15, 3	Eccli 15:3	A	verse		
+bon-ioan-prooem	6	apparatus:p240-10	p240-10	scripture	apparatus-explicit	Apoc. 21, 10	Apoc 21:10	A	verse		
+bon-ioan-prooem	6	apparatus:p241-3	p241-3	scripture	anaphor->apparatus-explicit	ibid	Apoc 21:10	A	verse	yes	Apoc. 21, 10
+bon-ioan-prooem	6	apparatus:p241-5	p241-5	scripture	apparatus-explicit	Dan. 2, 34	Dan 2:34	A	verse		
+bon-ioan-prooem	6	apparatus:p241-5	p241-5	scripture	apparatus-explicit	Ezech. 17, 3	Ezech 17:3	A	verse		
+bon-ioan-prooem	6	apparatus:p241-6	p241-6	scripture	apparatus-explicit	Isai. 2, 2	Isai 2:2	A	verse		
+bon-ioan-prooem	6	apparatus:p241-8	p241-8	scripture	apparatus-explicit	Num. 23, 19	Num 23:19	A	verse		
+bon-ioan-prooem	6	apparatus:p241-8	p241-8	scripture	apparatus-explicit	Ioan. 3, 11	Ioan 3:11	A	verse		
+bon-ioan-prooem	6	apparatus:p242-1	p242-1	scripture	apparatus-explicit	I. Cor. 2, 9	1Cor 2:9	A	verse		
+bon-ioan-prooem	6	apparatus:p242-4	p242-4	scripture	apparatus-explicit	Ezech. 1, 6	Ezech 1:6	A	verse		
+bon-ioan-prooem	6	apparatus:p242-5	p242-5	scripture	apparatus-explicit	Eccli. 4, 28	Eccli 4:28	A	verse		
+bon-ioan-prooem	6	apparatus:p243-2	p243-2	scripture	apparatus-explicit	Rom. 1, 20	Rom 1:20	A	verse		
+bon-ioan-prooem	6	apparatus:p243-3	p243-3	scripture	apparatus-explicit	I. Ioan. 1, 1	1Ioan 1:1	A	verse		
+bon-ioan-prooem	6	apparatus:p243-5	p243-5	crossref	page	tom. III. pag. 480, nota 3	bon-sent-III-d23-a1-q3+bon-sent-III-d23-a1-q4		page-multi		
+bon-ioan-prooem	6	apparatus:p243-5	p243-5	scripture	apparatus-explicit	Ioan. 20, 31	Ioan 20:31	A	verse		
+bon-ioan-prooem	6	apparatus:p243-7	p243-7	crossref	logical	III. Sent. d. 23. a. 1. q. 4.	bon-sent-III-d23-a1-q4		chunk		
+bon-ioan-prooem	6	apparatus:p243-7	p243-7	crossref	chain-continuation	d. 24. dub. 3.	bon-sent-III-d24-dubia		chunk		
+bon-ioan-prooem	6	apparatus:p243-8	p243-8	crossref	page	supra pag. 5, nota 9	bon-eccl-prooem		chunk		
+bon-ioan-prooem	6	apparatus:p243-9	p243-9	crossref	work	Breviloq.	work:breviloquium		work		
+bon-ioan-prooem	6	apparatus:p243-10	p243-10	crossref	page	tom. V. pag. 207, nota 1	bon-brev-prol-s5+bon-brev-prol-s6		page-multi		
+bon-ioan-prooem	6	apparatus:p244-1	p244-1	scripture	apparatus-explicit	Prov. 25, 27	Prov 25:27	A	verse		
+bon-ioan-prooem	6	apparatus:p244-6	p244-6	scripture	anaphor->body-ordinal	ibid. v. 8	Col 2:8	B	verse	yes	body: ad Colossenses secundo
 bon-sap-c1	6	latin_body		scripture	body-ordinal	Ecclesiastici primo	Eccli 1	C	chapter		
 bon-sap-c1	6	latin_body		scripture	body-ordinal	Matthaei quinto	Matth 5	C	chapter		
 bon-sap-c1	6	latin_body	p111-2	scripture	body-ordinal	ad Corinthios secundo	Cor* 2:15	B	verse		

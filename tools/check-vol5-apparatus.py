@@ -3555,6 +3555,20 @@ KNOWN_TOTALS_VOL6 = {
     232: 10, # bon-sap-c19. Anchors L 1-4 / R 5-10; blocks L 1-3 / R 4-10 (n.4 anchors LEFT, prints RIGHT). Gutter 1158.
     233: 6,  # bon-sap-c19 owns all six (anchored above the EXPLICIT; the Scholion below carries none). Anchors L 1-3 /
              # R 4-6; blocks L 1-4 head / R 4 tail + 5-6, n.4 RUNS OVER the gutter. Gutter 900.
+    # Commentarius in Evangelium S. Ioannis (pp. 239-532). Prooemium = bon-ioan-prooem (pp. 239-244).
+    239: 5,  # bon-ioan-prooem. n.1 anchored on the full-measure PROOEMIUM / COMMENTARII IN IOANNEM heading and
+             # carries the whole reportatio Sermo (ruling 70); anchors L 2 / R 3-5; blocks L 1 head / R 1 tail + 2-5,
+             # n.1 RUNS OVER the gutter. Gutter 947 (profiled below the display stack).
+    240: 11, # bon-ioan-prooem. Anchors L 1-6 / R 7-11; blocks L 1-7 head / R 7 tail + 8-11, n.7 RUNS OVER the gutter.
+             # Gutter 1121 (SKEW 15 px, one split suffices).
+    241: 9,  # bon-ioan-prooem. Anchors L 1-5 / R 6-9; blocks L 1-5 head / R 5 tail + 6-9, n.5 RUNS OVER the gutter.
+             # Gutter 922.
+    242: 8,  # bon-ioan-prooem. Anchors L 1-4 / R 5-8; blocks L 1-3 / R 4-8 (n.4 prints RIGHT, anchor LEFT). Gutter 1117.
+    243: 11, # bon-ioan-prooem. Anchors L 1-5 / R 6-11; blocks L 1-3 head / R 3 tail + 4-11 (n.3 RUNS OVER the gutter;
+             # nn.4-5 print RIGHT, anchor LEFT). Gutter 920.
+    244: 9,  # bon-ioan-prooem owns nn.1-8 (anchors L 1-7 / R 8, all above the in-column PROLOGUS S. HIERONYMI heading);
+             # n.9 is anchored ON that heading and is bon-ioan-prol's. Blocks L 1-6 / R 7-9 (n.7 prints RIGHT, anchor
+             # LEFT). Gutter 1120.
 }
 
 KNOWN_TOTALS_BY_VOL = {

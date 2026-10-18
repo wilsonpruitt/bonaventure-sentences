@@ -727,6 +727,35 @@ const WORKS = {
       21: "Schemata",
     },
   },
+  // The third Scripture commentary (Ioannem mini-pilot, rulings 69–77,
+  // manual-review/vol6-pilot-setup.md; evidence ioannem-pilot-scouting.md).
+  // English title "Commentary on the Gospel of John" (ruling 74); the registry
+  // title is the half-title form (index: in Evangelium Ioannis; running head:
+  // in Ioannem). The index shape is Ecclesiastes' (verse-pericopes, each with
+  // its Quaestiones), so the chunk is the pericope (ruling 69):
+  // `bon-ioan-c{N}-v{a}-{b}`, `verses: "a-b"`, `type: pericope`, rendered
+  // "Cap. N, Vers. a-b" by the ecclesiasten branch of buildWorkChunkTitle.
+  // Each chunk also records `paragraphs: "a-b"` (ruling 73) — Quaracchi cites
+  // this work by per-chapter paragraph number. Division 0 holds two chunks
+  // (ruling 70): `bon-ioan-prooem` (section 1, type prooemium, pp. 239–244)
+  // and `bon-ioan-prol` (section 2, type expositio, pp. 244–246). The printed
+  // `PARS I.` (p. 246) and `PARS II.` (p. 250) are headings inside c1-v1-2 and
+  // c1-v6-8, NO `pars:` field (ruling 71). Planned: 1–21 Capitula, 22 Scholion,
+  // 23 Schemata (ruling 72). Each capitulum adds its own line after its
+  // heading is read in place.
+  ioannem: {
+    book: 17,
+    tome: 6,
+    title: "Commentarius in Evangelium S. Ioannis",
+    initial: "I",
+    divisionLabel: "Capitula",
+    divisions: {
+      // `PROOEMIUM / COMMENTARII IN IOANNEM¹` read in place on p. 239 (full
+      // measure, ornament below) at bon-ioan-prooem — ANCHORED: n. 1 carries
+      // the whole reportatio Sermo ... quando incepit Ioannem (ruling 70).
+      0: "Prooemium",
+    },
+  },
 };
 
 function buildWorkChunkTitle(meta) {
@@ -792,7 +821,11 @@ function buildWorkChunkTitle(meta) {
   // means a non-pericope chunk (Scholion, Schemata) caught type-first above.
   // The Commentarius in librum Sapientiae has the same shape (ruling 33), its
   // pericope being the whole chapter ("Cap. 3, Vers. 1-19").
-  if (meta.workSlug === "ecclesiasten" || meta.workSlug === "sapientiam") {
+  if (
+    meta.workSlug === "ecclesiasten" ||
+    meta.workSlug === "sapientiam" ||
+    meta.workSlug === "ioannem"
+  ) {
     return meta.verses
       ? `Cap. ${meta.division}, Vers. ${meta.verses}`
       : `Cap. ${meta.division}`;
