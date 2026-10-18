@@ -3572,6 +3572,15 @@ KNOWN_TOTALS_VOL6 = {
     245: 8,  # bon-ioan-prol (whole leaf: Expositio huius prologi, ¶ 12). Anchors L 1-4 / R 5-8; blocks L 1-4 head /
              # R 4 tail + 5-8, n.4 RUNS OVER the gutter. Gutter 912 body / 916 register. p.246 opens with the
              # COMMENTARIUS stack at its head: nothing of prol stands on it.
+    246: 7,  # bon-ioan-c1-v1-2 (whole leaf: COMMENTARIUS stack, Capitulum I, ¶¶ 1-3, PARS. I.). Anchors L 1-3 /
+             # R 4-7; blocks L 1-6 head / R 6 tail + 7, n.6 RUNS OVER the gutter. Gutter 1119 body / 1120 register
+             # (profiled below the display stack).
+    247: 10, # bon-ioan-c1-v1-2 (whole leaf: ¶¶ 3-7, QUAESTIONES). Anchors L 1-6 / R 7-10; blocks L 1-7 / R 8-10
+             # (n.7 prints LEFT, anchor RIGHT). No runover. Gutter 908 body / 910 register.
+    248: 9,  # bon-ioan-c1-v1-2 owns nn.1-5 (LEFT column, Quaest. II tail + ¶ 8, Quaest. III); nn.6-9 anchor in the
+             # RIGHT column under the in-column heading Secundo, de Verbo in comparatione ad ea quae per ipsum
+             # dicuntur. / 9. (Vers. 3.) and are bon-ioan-c1-v3-5's. Blocks L 1-3 / R 4-9 (nn.4-5 print RIGHT,
+             # anchor LEFT). No runover. Gutter 1131.
 }
 
 KNOWN_TOTALS_BY_VOL = {

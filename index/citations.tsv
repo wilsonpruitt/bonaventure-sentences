@@ -25597,6 +25597,29 @@ bon-eccl-prooem	6	apparatus:p8-3	p8-3	scripture	apparatus-explicit	Psalm. 49, 16
 bon-eccl-prooem	6	apparatus:p8-6	p8-6	scripture	apparatus-explicit	Matth. 23, 3	Matth 23:3	A	verse		
 bon-eccl-prooem	6	apparatus:p8-7	p8-7	scripture	apparatus-explicit	Matth. 25, 14	Matth 25:14	A	verse		
 bon-eccl-prooem	6	apparatus:p8-7	p8-7	scripture	apparatus-explicit	Luc. 19, 12	Luc 19:12	A	verse		
+bon-ioan-c1-v1-2	6	latin_body	p247-2	scripture	body-ordinal	Ecclesiastici vigesimo quarto	Eccli 24:5	B	verse		
+bon-ioan-c1-v1-2	6	latin_body	p247-6	scripture	body-ordinal	Proverbiorum octavo	Prov 8:22	B	verse		
+bon-ioan-c1-v1-2	6	apparatus:p246-1	p246-1	crossref	logical	I. Sent. d. 27. p. II.	I:d27		distinctio		
+bon-ioan-c1-v1-2	6	apparatus:p246-3	p246-3	crossref	logical	II. Sent. d. 1. p. I. dub. 2.	bon-sent-II-d1-p1-dubia		chunk		
+bon-ioan-c1-v1-2	6	apparatus:p246-4	p246-4	scripture	apparatus-explicit	Ioan. 8, 25	Ioan 8:25	A	verse		
+bon-ioan-c1-v1-2	6	apparatus:p246-5	p246-5	crossref	relative-bare	ibid. 10, 30			unresolvable		
+bon-ioan-c1-v1-2	6	apparatus:p246-7	p246-7	crossref	page	tom. I. pag. 812	bon-sent-I-d45-dubia		chunk		
+bon-ioan-c1-v1-2	6	apparatus:p246-7	p246-7	crossref	logical	I. Sent. d. 37. p. I. dub. 2.	bon-sent-I-d37-p1-dubia		chunk		
+bon-ioan-c1-v1-2	6	apparatus:p247-1	p247-1	crossref	logical	I. Sent. d. 9. dub. 11	bon-sent-I-d9-dubia		chunk		
+bon-ioan-c1-v1-2	6	apparatus:p247-1	p247-1	crossref	chain-continuation	d. 13. dub. 4	bon-sent-I-d13-dubia		chunk		
+bon-ioan-c1-v1-2	6	apparatus:p247-1	p247-1	crossref	chain-continuation	d. 15. p. I. q. 1.	bon-sent-I-d15-p1-a1-q1		chunk		
+bon-ioan-c1-v1-2	6	apparatus:p247-1	p247-1	crossref	chain-continuation	d. 19. p. I. q. 3.	bon-sent-I-d19-p1-a1-q3		chunk		
+bon-ioan-c1-v1-2	6	apparatus:p247-1	p247-1	crossref	chain-continuation	d. 20. a. 1. q. 2.	bon-sent-I-d20-a1-q2		chunk		
+bon-ioan-c1-v1-2	6	apparatus:p247-4	p247-4	scripture	apparatus-explicit	Ioan. 14, 1	Ioan 14:1	A	verse		
+bon-ioan-c1-v1-2	6	apparatus:p247-7	p247-7	scripture	apparatus-explicit	I. Cor. 1, 24	1Cor 1:24	A	verse		
+bon-ioan-c1-v1-2	6	apparatus:p247-7	p247-7	scripture	apparatus-explicit	Ioan. 1, 1	Ioan 1:1	A	verse		
+bon-ioan-c1-v1-2	6	apparatus:p247-8	p247-8	crossref	logical	I. Sent. d. 27. p. II. q. 4	bon-sent-I-d27-p2-a1-q4		chunk		
+bon-ioan-c1-v1-2	6	apparatus:p247-8	p247-8	crossref	relative-inherited	ibid.	bon-sent-I-d27-p2-a1-q4		chunk		
+bon-ioan-c1-v1-2	6	apparatus:p247-9	p247-9	crossref	page	tom. V. pag. 18, nota 6	bon-qsc-q4		chunk		
+bon-ioan-c1-v1-2	6	apparatus:p248-4	p248-4	crossref	logical	I. Sent. d. 27. p. II. q. 4	bon-sent-I-d27-p2-a1-q4		chunk		
+bon-ioan-c1-v1-2	6	apparatus:p248-4	p248-4	crossref	relative-inherited	ibid.	bon-sent-I-d27-p2-a1-q4		chunk		
+bon-ioan-c1-v1-2	6	apparatus:p248-5	p248-5	crossref	logical	I. Sent. d. 9. dub. 3.	bon-sent-I-d9-dubia		chunk		
+bon-ioan-c1-v1-2	6	apparatus:p248-5	p248-5	crossref	chain-continuation	d. 13. dub. 8.	bon-sent-I-d13-dubia		chunk		
 bon-ioan-prol	6	latin_body		scripture	body-ordinal	Apocalypsis primo	Apoc 1	C	chapter		
 bon-ioan-prol	6	apparatus:p245-1	p245-1	crossref	page	supra pag. 243, nota 2	bon-ioan-prooem		chunk		
 bon-ioan-prol	6	apparatus:p245-2	p245-2	scripture	apparatus-explicit	Ioan. 1, 1	Ioan 1:1	A	verse		

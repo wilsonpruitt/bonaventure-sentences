@@ -754,6 +754,11 @@ const WORKS = {
       // measure, ornament below) at bon-ioan-prooem — ANCHORED: n. 1 carries
       // the whole reportatio Sermo ... quando incepit Ioannem (ruling 70).
       0: "Prooemium",
+      // `CAPITULUM I.` read in place on p. 246 at bon-ioan-c1-v1-2: full-measure
+      // centred small capitals under the COMMENTARIUS / IN EVANGELIUM IOANNIS.
+      // stack, above ¶ 1 (the raw drops the heading). `PARS. I.` (printed with a
+      // point after PARS) stands inside that chunk (ruling 71).
+      1: "Capitulum I",
     },
   },
 };
