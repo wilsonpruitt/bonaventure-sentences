@@ -25620,6 +25620,37 @@ bon-ioan-c1-v1-2	6	apparatus:p248-4	p248-4	crossref	logical	I. Sent. d. 27. p. I
 bon-ioan-c1-v1-2	6	apparatus:p248-4	p248-4	crossref	relative-inherited	ibid.	bon-sent-I-d27-p2-a1-q4		chunk		
 bon-ioan-c1-v1-2	6	apparatus:p248-5	p248-5	crossref	logical	I. Sent. d. 9. dub. 3.	bon-sent-I-d9-dubia		chunk		
 bon-ioan-c1-v1-2	6	apparatus:p248-5	p248-5	crossref	chain-continuation	d. 13. dub. 8.	bon-sent-I-d13-dubia		chunk		
+bon-ioan-c1-v3-5	6	latin_body	p248-6	scripture	body-ordinal	Ecclesiastici decimo octavo	Eccli 18:1	B	verse		
+bon-ioan-c1-v3-5	6	latin_body		scripture	body-ordinal	Ecclesiastici vigesimo tertio	Eccli 23	C	chapter		
+bon-ioan-c1-v3-5	6	latin_body		scripture	body-ordinal	Iacobi primo	Iac 1	C	chapter		
+bon-ioan-c1-v3-5	6	latin_body	p249-5	scripture	body-ordinal	Genesis primo	Gen 1:2	B	verse		
+bon-ioan-c1-v3-5	6	latin_body		scripture	body-ordinal	ad Ephesios quinto	Eph 5	C	chapter		
+bon-ioan-c1-v3-5	6	latin_body		scripture	body-ordinal	Ioannis primo	Ioan 1	C	chapter		
+bon-ioan-c1-v3-5	6	apparatus:p248-6	p248-6	crossref	logical	I. Sent. d. 42. dub. 2.	bon-sent-I-d42-dubia		chunk		
+bon-ioan-c1-v3-5	6	apparatus:p248-6	p248-6	crossref	logical	II. Sent. d. 12. a. 1. q. 2.	bon-sent-II-d12-a1-q2		chunk		
+bon-ioan-c1-v3-5	6	apparatus:p248-6	p248-6	scripture	apparatus-explicit	Ps. 32, 9	Ps 32:9	A	verse		
+bon-ioan-c1-v3-5	6	apparatus:p248-7	p248-7	crossref	logical	I. Sent. d. 27. p. II. q. 2.	bon-sent-I-d27-p2-a1-q2		chunk		
+bon-ioan-c1-v3-5	6	apparatus:p248-8	p248-8	crossref	relative-bare	ibid. 15, 5			unresolvable		
+bon-ioan-c1-v3-5	6	apparatus:p248-9	p248-9	crossref	logical	II. Sent. d. 1. p. I. a. 2. q. 1.	bon-sent-II-d1-p1-a2-q1		chunk		
+bon-ioan-c1-v3-5	6	apparatus:p249-2	p249-2	crossref	logical	I. Sent. d. 36. a. 2. q. 1.	bon-sent-I-d36-a2-q1		chunk		
+bon-ioan-c1-v3-5	6	apparatus:p249-2	p249-2	scripture	apparatus-explicit	Eccli. 23, 29	Eccli 23:29	A	verse		
+bon-ioan-c1-v3-5	6	apparatus:p249-2	p249-2	scripture	apparatus-explicit	Iac. 1, 17	Iac 1:17	A	verse		
+bon-ioan-c1-v3-5	6	apparatus:p249-3	p249-3	scripture	apparatus-explicit	Psalm. 4, 7	Ps 4:7	A	verse		
+bon-ioan-c1-v3-5	6	apparatus:p249-5	p249-5	scripture	apparatus-explicit	Eph. 5, 8	Eph 5:8	A	verse		
+bon-ioan-c1-v3-5	6	apparatus:p249-5	p249-5	scripture	apparatus-explicit	I. Ioan. 1, 5	1Ioan 1:5	A	verse		
+bon-ioan-c1-v3-5	6	apparatus:p249-5	p249-5	crossref	page	supra pag. 211, nota 4	bon-sap-c16		chunk		
+bon-ioan-c1-v3-5	6	apparatus:p249-6	p249-6	crossref	logical	I. Sent. d. 38. a. 2. q. 1	bon-sent-I-d38-a2-q1		chunk		
+bon-ioan-c1-v3-5	6	apparatus:p249-6	p249-6	crossref	chain-continuation	d. 39. a. 1. q. 1	bon-sent-I-d39-a1-q1		chunk		
+bon-ioan-c1-v3-5	6	apparatus:p249-7	p249-7	crossref	page	supra pag. 130, nota 12	bon-sap-c3		chunk		
+bon-ioan-c1-v3-5	6	apparatus:p249-8	p249-8	crossref	logical	II. Sent. d. 35.	II:d35		distinctio		
+bon-ioan-c1-v3-5	6	apparatus:p249-8	p249-8	crossref	chain-continuation	d. 37. a. 1. q. 1.	bon-sent-II-d37-a1-q1		chunk		
+bon-ioan-c1-v3-5	6	apparatus:p249-10	p249-10	scripture	apparatus-explicit	Psalm. 103, 24	Ps 103:24	A	verse		
+bon-ioan-c1-v3-5	6	apparatus:p249-11	p249-11	crossref	page	supra pag. 144, nota 1	bon-sap-c5+bon-sap-c6		page-multi		
+bon-ioan-c1-v3-5	6	apparatus:p250-2	p250-2	scripture	apparatus-explicit	Ps. 103, 24	Ps 103:24	A	verse		
+bon-ioan-c1-v3-5	6	apparatus:p250-4	p250-4	crossref	logical	I. Sent. d. 6. q. 3.	bon-sent-I-d6-a1-q3		chunk		
+bon-ioan-c1-v3-5	6	apparatus:p250-4	p250-4	crossref	chain-continuation	d. 36. a. 2. q. 1.	bon-sent-I-d36-a2-q1		chunk		
+bon-ioan-c1-v3-5	6	apparatus:p250-6	p250-6	scripture	apparatus-explicit	I. Tim. 6, 16	1Tim 6:16	A	verse		
+bon-ioan-c1-v3-5	6	apparatus:p250-6	p250-6	crossref	logical	I. Sent. d. 3. p. I. q. 1.	bon-sent-I-d3-p1-a1-q1		chunk		
 bon-ioan-prol	6	latin_body		scripture	body-ordinal	Apocalypsis primo	Apoc 1	C	chapter		
 bon-ioan-prol	6	apparatus:p245-1	p245-1	crossref	page	supra pag. 243, nota 2	bon-ioan-prooem		chunk		
 bon-ioan-prol	6	apparatus:p245-2	p245-2	scripture	apparatus-explicit	Ioan. 1, 1	Ioan 1:1	A	verse		

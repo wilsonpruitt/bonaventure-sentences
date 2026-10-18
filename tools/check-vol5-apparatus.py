@@ -3580,7 +3580,12 @@ KNOWN_TOTALS_VOL6 = {
     248: 9,  # bon-ioan-c1-v1-2 owns nn.1-5 (LEFT column, Quaest. II tail + ¶ 8, Quaest. III); nn.6-9 anchor in the
              # RIGHT column under the in-column heading Secundo, de Verbo in comparatione ad ea quae per ipsum
              # dicuntur. / 9. (Vers. 3.) and are bon-ioan-c1-v3-5's. Blocks L 1-3 / R 4-9 (nn.4-5 print RIGHT,
-             # anchor LEFT). No runover. Gutter 1131.
+             # anchor LEFT). No runover. Gutter 1131. bon-ioan-c1-v3-5 re-derived nn.6-9 (anchors RIGHT, entries RIGHT).
+    249: 11, # bon-ioan-c1-v3-5 (whole leaf: ¶¶ 11-13, QUAESTIONES ¶¶ 14-15). Anchors L 1-5 / R 6-11; blocks L 1-7 head /
+             # R 7 tail + 8-11: n.7 RUNS OVER THE GUTTER. Gutter 926.
+    250: 13, # bon-ioan-c1-v3-5 owns nn.1-7 (LEFT column, ¶ 15 tail + ¶ 16); nn.8-13 anchor in the RIGHT column below
+             # PARS. II. / 17. Fuit homo missus a Deo and are bon-ioan-c1-v6-8's. Blocks L 1-7 head / R 7 tail + 8-13:
+             # n.7 RUNS OVER THE GUTTER. Gutter 1106-1115 (9 px skew walk).
 }
 
 KNOWN_TOTALS_BY_VOL = {
