@@ -376,3 +376,74 @@ pp. 107–235. The third of ruling 34's three gates. Wilson's ruling, verbatim: 
 - **68. (B3) Documentation:** *poenas seu punitiones* is on **p. 182**, not p. 183 — corrected in the mid-work gate log and
   c11's Notes; the running list's "c18 … *supplicium* ZERO" is true of *supplicium* only — c18's two `supplic-` hits (p. 222)
   are *supplicatio* / *supplicationis* ("supplication"), stated in the next resume block. Doc only.
+
+# IOANNEM MINI-PILOT (pp. 237–532) — RULINGS 69–77 (Wilson, 2026-10-18; "all as recommended")
+
+Evidence sheet: `manual-review/ioannem-pilot-scouting.md` (commit `70c0d01`), whose PROPOSED RULINGS section carries the
+full argument and the refused alternatives for each item. Wilson's ruling, verbatim: **"All as recommended."** The
+*Commentarius in Evangelium S. Ioannis* is the volume's third work: half-title 237, blank 238, body 239–532, Scholion +
+Schema I on 530, Schemata II–III 531–532, the Collationes half-title on 533. Index shape = Ecclesiastes (verse-pericopes
+with Quaestiones), not Sapientiae (capitula).
+
+- **69. Chunk unit = the index verse-pericope WITH its Quaestiones (ruling 1 unchanged): 105 chunks `bon-ioan-c{N}-v{a}-{b}`,
+  `division: N`, `verses: "a-b"`, `type: pericope`, ~2.7 pp each (max ~6).** The two pericopes without Quaestiones (XV 18-27,
+  XVIII 39-40) and the two with a singular `Quaestio` (I 29-30, XXI 24-25) are the same unit. The capitulum (21 chunks, mean
+  14 pp) refused, as for Ecclesiastes.
+- **70. Prooemium = TWO chunks, division 0:** `bon-ioan-prooem` (section 1, `type: prooemium`, pp. 239–244, the Prooemium
+  ¶¶ + its Quaestiones, shaped like `bon-eccl-prooem`) and `bon-ioan-prol` (section 2, `type: expositio`, pp. 244–246,
+  *Prologus S. Hieronymi* + whatever stands with it — measure). The p. 246 `COMMENTARIUS` stack, ¶ 1's *Divisio generalis*
+  and the `PARS I` heading go to `bon-ioan-c1-v1-2` (short-opener rule, Sap ruling 28). ⭐ **p. 239 n. 1 — the anchored
+  heading's note carrying the whole reportatio *Sermo … quando incepit Ioannem* — is transcribed IN FULL as entry n. 1,
+  both languages** (the `bon-hex-c23` precedent: an anchored entry carrying a text). Lifting the Sermo out as a `p239-nota`
+  refused: the note is anchored, so the closing-note rule does not apply.
+- **71. The printed `PARS I.` (p. 246) and `PARS II.` (p. 250, ¶ 17) are headings inside `c1-v1-2` and `c1-v6-8`,**
+  recorded in Notes and registry comments; NO `pars:` field; breadcrumb `Cap. N, Vers. a-b` — ruling 29 as written.
+- **72. Scholion (p. 530, one line) = own chunk `bon-ioan-scholion`, division 22; Schemata I–III (pp. 530–532) = ONE chunk
+  `bon-ioan-schemata`, division 23, three sections** — rulings 3/18/19/30 as written. Folding the Scholion into the
+  Schemata refused (ruling 3; the Sap pilot refused the same trade at six lines).
+- **73. Quaestiones rendered `### Quaestiones` (ruling 4); the printed singular `QUAESTIO.` → `### Quaestio`; `Quaest. N.`
+  and the per-chapter paragraph numbers kept verbatim in both languages — and ⭐ each pericope chunk records its paragraph
+  range in frontmatter, `paragraphs: "17-24"`,** because Quaracchi cites this work by `c. N, n. M` (177 raw `supra/infra
+  n. N` sites) and the chunk is coarser than the paragraph. One line per chunk at build; it is what a later resolver job
+  needs to land `n. M` on a chunk. (The build does not read the field yet; the chunk records it.)
+- **74. Register — the working register; the shakedown gate reviews it with sites in view:**
+  - ⭐⭐ ***lux* → light / *lumen* → "lumen": RULING 2 UNCHANGED**, `tr-lumen` at the first site of each chunk, the verse
+    test at every scriptural site — knowing that **the test fails at John 1:7–8 by its own terms** (the expositio leans on
+    *lumine*), so the Prologue reads *"to give testimony of the lumen … He was not the light, but was to give testimony of
+    the lumen"* against *"the true light"* at 1:9. Reasons: six gates have ratified the rule with the cost stated; Eccl and
+    Sap in this volume carry it; the quaestio here turns on *lux per essentiam / per participationem*. **Alt (b) — release
+    ruling 2 for this work alone — REFUSED** (a cross-work divergence inside Vol VI and a precedent that the rule yields
+    where the text is famous; the Sermones gate refused the same carve-out for the Tractatus). **Alt (c) — exempt the
+    Vulgate lemma only — REFUSED** (it splits the gloss from its lemma, the very thing the *mysterio* test prevents).
+  - *Verbum* (capital) → **"the Word"**; *verbum* → word — follow the print, never decide it (ruling 9).
+  - *signum* → **sign** (Douay "miracle" adjusted at 2:11, 2:23, 3:2, 4:54, 6:2, 6:14 …); *miraculum* → miracle (135 sites).
+  - *caritas* → charity · ***dilectio* → "dilection"** (the corpus's 927 sites) · *amor* → love; the verbs *diligere* /
+    *amare* both → "love", and **at 21:15–17, where *diligis* and *amas* are set against each other, one `tr-dilectio`
+    note** says the Latin distinguishes what the Douay's "lovest" does not.
+  - *testimonium* → testimony, *testis* → witness, *testimonium perhibere* → "give testimony" (Douay).
+  - ***magister* → "teacher"** (Sermones ruling 2), **inside the Douay quotations too** (1:38, 3:2, 11:28, 13:13–14,
+    20:16); **Lombard → "the Master"** in the apparatus (Eccl ruling 10). *doctor* → doctor; *discipulus* → disciple.
+  - *Glossa* → "the Gloss" · *Evangelista* → "the Evangelist" · *Iudaei* → "the Jews" · *Paraclitus* → "the Paraclete" ·
+    *Rabbi* kept.
+  - **Carried unchanged:** *doctrina* dikaisune + `tr-doctrina` (ruling 11); *intellectus*/*intelligentia*; *pietas* →
+    piety; the *vacare* dikaisune rule + `tr-vacare`, never "rest"; ruling 5 (*fundam.* in the apparatus; census the BUILT
+    text); the purity triple **if** *pudicitia* is live (census at the shakedown; release per Sermones ruling 6 if zero);
+    rulings 10, `tr-studium`, 21; the lemma = Douay adjusted to Quaracchi's Vulgate (ruling 5).
+  - ***supplicium* → "penalty"** — Sap ruling 59 governs (the later ruling), not Eccl ruling 20.
+  - **Title:** registry `title: "Commentarius in Evangelium S. Ioannis"` (half-title form; index *in Evangelium Ioannis*
+    and running head *in Ioannem* recorded), English **"Commentary on the Gospel of John"**.
+- **75. Registry and ids:** slug **`ioannem`**, id prefix **`bon-ioan-`**, **book 17**, tome 6, initial "I",
+  `divisionLabel: "Capitula"`, divisions `0: Prooemium`, `1..21: Capitulum N`, `22: Scholion`, `23: Schemata`;
+  `buildWorkChunkTitle`: add `ioannem` to the `ecclesiasten`/`sapientiam` branch (`Cap. N, Vers. a-b`). Goes in with
+  `prooem` (division 0 only); each capitulum adds its own line after reading the heading in place.
+- **76. Cadence = FOUR gates, ONE default deploy:** **shakedown at p. 268** (close of Cap. I, 13 chunks, ~30 pp — the whole
+  Prologue register falls inside it) · **mid-work gate at p. 371** (close of Cap. VIII, ~103 pp) · **mid-work gate at
+  p. 466** (close of Cap. XVI, ~95 pp) · **work-close gate at p. 532**. **ONE deploy, at p. 532, by default** (the Eccl
+  amendment); **the two mid-work gates are legitimate deploy boundaries Wilson may call, per action.** Three gates
+  (dropping p. 466) refused: cc. IX–XXI, 161 pp, reviewed only at the close.
+- **77. Build cadence:** one Opus agent per chunk, incremental-append discipline from the start; the two-pass build only
+  for a chunk that dies once or that the plate measures over ~10 pp (none predicted). Planning figure **~20–35 apparatus
+  entries per pericope chunk** — a prompt to recount, never a gate. The session loop (repo CLAUDE.md § VOL VI — SESSION
+  WORKFLOW) runs unchanged: one chunk, two commits, next chunk; STOP at each gate.
+
+**The front after the rulings: `bon-ioan-prooem` (pp. 239–244)** — brief in the START HERE block of `next-session-resume.md`.
