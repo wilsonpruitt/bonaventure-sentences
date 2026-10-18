@@ -3569,6 +3569,9 @@ KNOWN_TOTALS_VOL6 = {
     244: 9,  # bon-ioan-prooem owns nn.1-8 (anchors L 1-7 / R 8, all above the in-column PROLOGUS S. HIERONYMI heading);
              # n.9 is anchored ON that heading and is bon-ioan-prol's. Blocks L 1-6 / R 7-9 (n.7 prints RIGHT, anchor
              # LEFT). Gutter 1120.
+    245: 8,  # bon-ioan-prol (whole leaf: Expositio huius prologi, ¶ 12). Anchors L 1-4 / R 5-8; blocks L 1-4 head /
+             # R 4 tail + 5-8, n.4 RUNS OVER the gutter. Gutter 912 body / 916 register. p.246 opens with the
+             # COMMENTARIUS stack at its head: nothing of prol stands on it.
 }
 
 KNOWN_TOTALS_BY_VOL = {
