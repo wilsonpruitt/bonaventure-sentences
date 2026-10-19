@@ -25668,6 +25668,43 @@ bon-ioan-c1-v6-8	6	apparatus:p250-13	p250-13	scripture	apparatus-explicit	Ier. 2
 bon-ioan-c1-v6-8	6	apparatus:p251-1	p251-1	crossref	page	tom. V. pag. 206, nota 8	bon-brev-prol-s4+bon-brev-prol-s5		page-multi		
 bon-ioan-c1-v6-8	6	apparatus:p251-11	p251-11	scripture	apparatus-explicit	Phil. 2, 15	Phil 2:15	A	verse		
 bon-ioan-c1-v6-8	6	apparatus:p251-12	p251-12	authority	authority:Bonav.	IV. Sent. d. 5. a. 3. q. 1.			excluded		
+bon-ioan-c1-v9-14	6	latin_body		scripture	body-ordinal	Sapientiae septimo	Sap 7	C	chapter		
+bon-ioan-c1-v9-14	6	latin_body	p252-2	scripture	body-ordinal	Sapientiae decimo tertio	Sap 13:5	B	verse		
+bon-ioan-c1-v9-14	6	latin_body	p252-5	scripture	body-ordinal	Isaiae primo	Isai 1:2	B	verse		
+bon-ioan-c1-v9-14	6	latin_body	p252-6	scripture	body-ordinal	Deuteronomii vigesimo sexto	Deut 26:18	B	verse		
+bon-ioan-c1-v9-14	6	latin_body	p252-7	scripture	body-ordinal	Ioannis tertio	Ioan 3:1	B	verse		
+bon-ioan-c1-v9-14	6	latin_body	p252-8	scripture	body-ordinal	ad Romanos octavo	Rom 8:17	B	verse		
+bon-ioan-c1-v9-14	6	latin_body		scripture	body-ordinal	Ioannis quinto	Ioan 5	C	chapter		
+bon-ioan-c1-v9-14	6	latin_body		scripture	body-ordinal	Petri primo	Petr* 1	C	chapter		
+bon-ioan-c1-v9-14	6	latin_body	p252-11	scripture	body-ordinal	ad Philippenses secundo	Phil 2:7	B	verse		
+bon-ioan-c1-v9-14	6	latin_body	p252-12	scripture	body-ordinal	Levitici vigesimo sexto	Lev 26:11	B	verse		
+bon-ioan-c1-v9-14	6	apparatus:p252-1	p252-1	scripture	apparatus-explicit	Sap. 7, 24	Sap 7:24	A	verse		
+bon-ioan-c1-v9-14	6	apparatus:p252-3	p252-3	crossref	page	supra pag. 243, nota 3	bon-ioan-prooem		chunk		
+bon-ioan-c1-v9-14	6	apparatus:p252-4	p252-4	scripture	apparatus-explicit	Ioan. 1, 11	Ioan 1:11	A	verse		
+bon-ioan-c1-v9-14	6	apparatus:p252-9	p252-9	scripture	apparatus-explicit	Matth. 1, 23	Matth 1:23	A	verse		
+bon-ioan-c1-v9-14	6	apparatus:p252-9	p252-9	scripture	apparatus-explicit	Isai. 7, 14	Isai 7:14	A	verse		
+bon-ioan-c1-v9-14	6	apparatus:p252-9	p252-9	scripture	apparatus-explicit	I. Ioan. 5, 1	1Ioan 5:1	A	verse		
+bon-ioan-c1-v9-14	6	apparatus:p252-10	p252-10	scripture	apparatus-explicit	I. Petr. 1, 23	1Petr 1:23	A	verse		
+bon-ioan-c1-v9-14	6	apparatus:p252-12	p252-12	scripture	apparatus-explicit	Ps. 75, 2	Ps 75:2	A	verse		
+bon-ioan-c1-v9-14	6	apparatus:p253-1	p253-1	scripture	apparatus-explicit	Gen. 50, 19	Gen 50:19	A	verse		
+bon-ioan-c1-v9-14	6	apparatus:p253-1	p253-1	scripture	apparatus-explicit	Esther 13, 9	Esth 13:9	A	verse		
+bon-ioan-c1-v9-14	6	apparatus:p253-1	p253-1	scripture	apparatus-explicit	Rom. 9, 19	Rom 9:19	A	verse		
+bon-ioan-c1-v9-14	6	apparatus:p253-2	p253-2	crossref	page	tom. I. pag. 820, nota 4	bon-sent-I-d46-a1-q1		chunk		
+bon-ioan-c1-v9-14	6	apparatus:p253-3	p253-3	scripture	apparatus-explicit	Eccli. 1, 1	Eccli 1:1	A	verse		
+bon-ioan-c1-v9-14	6	apparatus:p253-3	p253-3	scripture	apparatus-explicit	Ps. 4, 7	Ps 4:7	A	verse		
+bon-ioan-c1-v9-14	6	apparatus:p253-5	p253-5	scripture	apparatus-explicit	I. Tim. 2, 4	1Tim 2:4	A	verse		
+bon-ioan-c1-v9-14	6	apparatus:p253-5	p253-5	crossref	logical	I. Sent. d. 46. q. 1.	bon-sent-I-d46-a1-q1		chunk		
+bon-ioan-c1-v9-14	6	apparatus:p253-7	p253-7	crossref	page	supra pag. 252, nota 4	bon-ioan-c1-v9-14		chunk		
+bon-ioan-c1-v9-14	6	apparatus:p253-9	p253-9	crossref	page	supra pag. 51, nota 6	bon-eccl-c6-v1-7		chunk		
+bon-ioan-c1-v9-14	6	apparatus:p253-9	p253-9	crossref	logical	II. Sent. d. 28. dub. 3.	bon-sent-II-d28-dubia		chunk		
+bon-ioan-c1-v9-14	6	apparatus:p253-9	p253-9	crossref	work	Breviloq. p. V. c. 2.	bon-brev-p5-c2		chunk		
+bon-ioan-c1-v9-14	6	apparatus:p253-10	p253-10	crossref	logical	IV. Sent. d. 14. p. I. a. 2. q. 3.	bon-sent-IV-d14-p1-a2-q3		chunk		
+bon-ioan-c1-v9-14	6	apparatus:p253-10	p253-10	crossref	chain-continuation	d. 22. a. 3. q. 1.	bon-sent-IV-d22-a3-q1		chunk		
+bon-ioan-c1-v9-14	6	apparatus:p253-13	p253-13	crossref	logical	III. Sent. d. 1. a. 2. q. 3.	bon-sent-III-d1-a2-q3		chunk		
+bon-ioan-c1-v9-14	6	apparatus:p253-13	p253-13	crossref	work	Breviloq. p. IV. c. 2.	bon-brev-p4-c2		chunk		
+bon-ioan-c1-v9-14	6	apparatus:p254-1	p254-1	crossref	logical	I. Sent. d. 27. p. II. q. 4.	bon-sent-I-d27-p2-a1-q4		chunk		
+bon-ioan-c1-v9-14	6	apparatus:p254-2	p254-2	crossref	page	supra pag. 185, nota 7	bon-sap-c12		chunk		
+bon-ioan-c1-v9-14	6	apparatus:p254-3	p254-3	crossref	logical	III. Sent. d. 2. a. 2. q. 2.	bon-sent-III-d2-a2-q2		chunk		
 bon-ioan-prol	6	latin_body		scripture	body-ordinal	Apocalypsis primo	Apoc 1	C	chapter		
 bon-ioan-prol	6	apparatus:p245-1	p245-1	crossref	page	supra pag. 243, nota 2	bon-ioan-prooem		chunk		
 bon-ioan-prol	6	apparatus:p245-2	p245-2	scripture	apparatus-explicit	Ioan. 1, 1	Ioan 1:1	A	verse		

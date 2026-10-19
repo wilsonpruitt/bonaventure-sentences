@@ -3590,6 +3590,14 @@ KNOWN_TOTALS_VOL6 = {
     251: 12, # bon-ioan-c1-v6-8 (¶ 18 tail - ¶ 23, QUAESTIONES; all twelve anchors above De adventu Christi. / 24.,
              # so bon-ioan-c1-v9-14 owns none). Anchors L 1-7 / R 8-12; blocks L 1-8 head / R 8 tail + 9-12:
              # n.8 RUNS OVER THE GUTTER. Gutter 925 top / 920 mid / 917 register (8 px skew walk; split 921).
+    252: 13, # bon-ioan-c1-v9-14 (whole leaf: ¶ 24 tail - ¶ 30 head, QUAESTIONES). Anchors L 1-8 / R 9-13; blocks
+             # L 1-6 / R 7-13. No runover. Gutter 1117 body / 1123 register.
+    253: 13, # bon-ioan-c1-v9-14 (whole leaf: ¶ 30 tail - ¶ 33). Anchors L 1-7 / R 8-13; blocks L 1-4 head /
+             # R 4 tail + 5-13: n.4 RUNS OVER THE GUTTER. Gutter 914 body / 916 register.
+    254: 10, # bon-ioan-c1-v9-14 owns nn.1-3 (LEFT column, ¶ 33 tail + ¶ 34, Quaest. V); nn.4-10 anchor below the
+             # italic in-column heading Secundo, de ipsa incarnatione quoad eius manifestationem dupliciter. / 35.
+             # and belong to the next chunk (index pericope Vers. 15-18). Blocks L 1-5 / R 6-10 (nn.4-5 print
+             # LEFT). No runover. Gutter 1114 body / 1108 register.
 }
 
 KNOWN_TOTALS_BY_VOL = {
