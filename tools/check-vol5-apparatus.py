@@ -3627,6 +3627,19 @@ KNOWN_TOTALS_VOL6 = {
              # dubitare.; ¶ 72 Altera die iterum stabat opens at ~0.80 R with NO anchor on this leaf). Anchors
              # L 1-4 / R 5-12; blocks L 1-7 head / R 7 tail + 8-12: n.7 RUNS OVER THE GUTTER (ledgered).
              # Gutter 927 (auto, run 46 px; rule 927 body / 930 register).
+             # bon-ioan-c1-v35-42 re-derived: no anchor in ¶ 72's lines; nothing inherited (confirmed).
+    262: 14, # bon-ioan-c1-v35-42 (¶ 72 divisio tail - ¶ 79). Anchors L 1-6 / R 7-14; blocks L 1-7 / R 8-14.
+             # No runover. Gutter 1101 (auto, run 46 px).
+    263: 10, # bon-ioan-c1-v35-42 (¶ 79 tail - ¶ 83, QUAESTIONES from ¶ 81). Anchors L 1-5 / R 6-10; blocks
+             # L 1-4 head / R 4 tail + 5-10: n.4 RUNS OVER THE GUTTER (ledgered). Gutter 917 (auto, run 44 px).
+    264: 12, # bon-ioan-c1-v35-42 (¶ 83 tail - ¶ 87). Anchors L 1-5 / R 6-12; blocks L 1-7 head / R 7 tail +
+             # 8-12 head: n.7 RUNS OVER THE GUTTER; n.12 RUNS OVER THE PAGE, its tail opening p.265's LEFT
+             # block unnumbered (gius « adiutorium gratiae...). Both ledgered. Gutter 1108 (auto, run 45 px).
+    265: 8,  # bon-ioan-c1-v35-42 owns nn.1-2 (¶ 87 tail - ¶ 88, closing at ~0.37 L on ...in summo Pontifice.);
+             # nn.3-8 anchor in ¶ 89 (In crastinum, under the centred heading De manifestatione Verbi per se
+             # ipsum.) and after, and belong to the next chunk (index pericope Vers. 43-51). Anchors L 1-5 /
+             # R 6-8; blocks L (p.264 n.12 tail) + 1 + 2 head / R 2 tail + 3-8: n.2 RUNS OVER THE GUTTER
+             # (ledgered). Gutter 926 (auto, run 49 px).
 }
 
 KNOWN_TOTALS_BY_VOL = {
