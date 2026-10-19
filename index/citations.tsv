@@ -25651,6 +25651,23 @@ bon-ioan-c1-v3-5	6	apparatus:p250-4	p250-4	crossref	logical	I. Sent. d. 6. q. 3.
 bon-ioan-c1-v3-5	6	apparatus:p250-4	p250-4	crossref	chain-continuation	d. 36. a. 2. q. 1.	bon-sent-I-d36-a2-q1		chunk		
 bon-ioan-c1-v3-5	6	apparatus:p250-6	p250-6	scripture	apparatus-explicit	I. Tim. 6, 16	1Tim 6:16	A	verse		
 bon-ioan-c1-v3-5	6	apparatus:p250-6	p250-6	crossref	logical	I. Sent. d. 3. p. I. q. 1.	bon-sent-I-d3-p1-a1-q1		chunk		
+bon-ioan-c1-v6-8	6	latin_body		scripture	body-ordinal	Malachiae tertio	Malach 3	C	chapter		
+bon-ioan-c1-v6-8	6	latin_body	p250-13	scripture	body-ordinal	ad Romanos decimo	Rom 10:15	B	verse		
+bon-ioan-c1-v6-8	6	latin_body	p251-1	scripture	body-ordinal	Lucae primo	Luc 1:13	B	verse		
+bon-ioan-c1-v6-8	6	latin_body	p251-2	scripture	body-ordinal	Actuum decimo nono	Act 19:4	B	verse		
+bon-ioan-c1-v6-8	6	latin_body	p251-9	scripture	body-ordinal	Ad Ephesios quinto	Eph 5:8	B	verse		
+bon-ioan-c1-v6-8	6	latin_body	p251-11	scripture	body-ordinal	Matthaei quinto	Matth 5:16	B	verse		
+bon-ioan-c1-v6-8	6	latin_body		scripture	body-ordinal	ad Philippenses secundo	Phil 2	C	chapter		
+bon-ioan-c1-v6-8	6	apparatus:p250-8	p250-8	crossref	logical	III. Sent. d. 19. a. 1. q. 1.	bon-sent-III-d19-a1-q1		chunk		
+bon-ioan-c1-v6-8	6	apparatus:p250-8	p250-8	crossref	chain-continuation	d. 2. dub. 2.	bon-sent-III-d2-dubia		chunk		
+bon-ioan-c1-v6-8	6	apparatus:p250-10	p250-10	crossref	relative-bare	ibid. v. 9			unresolvable		
+bon-ioan-c1-v6-8	6	apparatus:p250-11	p250-11	scripture	apparatus-explicit	Malach. 3, 1	Malach 3:1	A	verse		
+bon-ioan-c1-v6-8	6	apparatus:p250-11	p250-11	scripture	apparatus-explicit	Matth. 11, 10	Matth 11:10	A	verse		
+bon-ioan-c1-v6-8	6	apparatus:p250-12	p250-12	crossref	page	supra pag. 157, nota 9	bon-sap-c7		chunk		
+bon-ioan-c1-v6-8	6	apparatus:p250-13	p250-13	scripture	apparatus-explicit	Ier. 23, 21	Ierem 23:21	A	verse		
+bon-ioan-c1-v6-8	6	apparatus:p251-1	p251-1	crossref	page	tom. V. pag. 206, nota 8	bon-brev-prol-s4+bon-brev-prol-s5		page-multi		
+bon-ioan-c1-v6-8	6	apparatus:p251-11	p251-11	scripture	apparatus-explicit	Phil. 2, 15	Phil 2:15	A	verse		
+bon-ioan-c1-v6-8	6	apparatus:p251-12	p251-12	authority	authority:Bonav.	IV. Sent. d. 5. a. 3. q. 1.			excluded		
 bon-ioan-prol	6	latin_body		scripture	body-ordinal	Apocalypsis primo	Apoc 1	C	chapter		
 bon-ioan-prol	6	apparatus:p245-1	p245-1	crossref	page	supra pag. 243, nota 2	bon-ioan-prooem		chunk		
 bon-ioan-prol	6	apparatus:p245-2	p245-2	scripture	apparatus-explicit	Ioan. 1, 1	Ioan 1:1	A	verse		

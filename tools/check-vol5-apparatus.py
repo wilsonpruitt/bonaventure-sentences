@@ -3585,7 +3585,11 @@ KNOWN_TOTALS_VOL6 = {
              # R 7 tail + 8-11: n.7 RUNS OVER THE GUTTER. Gutter 926.
     250: 13, # bon-ioan-c1-v3-5 owns nn.1-7 (LEFT column, ¶ 15 tail + ¶ 16); nn.8-13 anchor in the RIGHT column below
              # PARS. II. / 17. Fuit homo missus a Deo and are bon-ioan-c1-v6-8's. Blocks L 1-7 head / R 7 tail + 8-13:
-             # n.7 RUNS OVER THE GUTTER. Gutter 1106-1115 (9 px skew walk).
+             # n.7 RUNS OVER THE GUTTER. Gutter 1106-1115 (9 px skew walk). bon-ioan-c1-v6-8 re-derived nn.8-13
+             # (anchors RIGHT, entries RIGHT; n.8's anchor is resurrectionem, not redemptionem as handed off).
+    251: 12, # bon-ioan-c1-v6-8 (¶ 18 tail - ¶ 23, QUAESTIONES; all twelve anchors above De adventu Christi. / 24.,
+             # so bon-ioan-c1-v9-14 owns none). Anchors L 1-7 / R 8-12; blocks L 1-8 head / R 8 tail + 9-12:
+             # n.8 RUNS OVER THE GUTTER. Gutter 925 top / 920 mid / 917 register (8 px skew walk; split 921).
 }
 
 KNOWN_TOTALS_BY_VOL = {

@@ -445,5 +445,6 @@ with Quaestiones), not Sapientiae (capitula).
   for a chunk that dies once or that the plate measures over ~10 pp (none predicted). Planning figure **~20–35 apparatus
   entries per pericope chunk** — a prompt to recount, never a gate. The session loop (repo CLAUDE.md § VOL VI — SESSION
   WORKFLOW) runs unchanged: one chunk, two commits, next chunk; STOP at each gate.
+- **78. Hand additions in the scanned copy stay OUT of the apparatus (Wilson, 2026-10-18):** the p. 249 n. 7 tail `C.P I. Sent. d. 5. dub. 11.` (larger, irregular, hand-lettered) is excluded, its verbatim record in `bon-ioan-c1-v3-5`'s Notes stands (no edit to that chunk), and every later hand-lettered addition is likewise excluded and recorded verbatim in its chunk's Notes — never admitted on aptness.
 
 **The front after the rulings: `bon-ioan-prooem` (pp. 239–244)** — brief in the START HERE block of `next-session-resume.md`.
