@@ -25696,6 +25696,17 @@ bon-ioan-c1-v24-28	6	apparatus:p259-3	p259-3	crossref	logical	IV. Sent. d. 2. a.
 bon-ioan-c1-v24-28	6	apparatus:p259-7	p259-7	scripture	apparatus-explicit	Matth. 18, 20	Matth 18:20	A	verse		
 bon-ioan-c1-v24-28	6	apparatus:p259-8	p259-8	scripture	apparatus-explicit	Matth. 18, 2	Matth 18:2	A	verse		
 bon-ioan-c1-v24-28	6	apparatus:p259-14	p259-14	scripture	apparatus-explicit	Matth. 11, 7	Matth 11:7	A	verse		
+bon-ioan-c1-v29-30	6	latin_body	p259-17	scripture	body-ordinal	Matthaei tertio	Matth 3:13	B	verse		
+bon-ioan-c1-v29-30	6	latin_body	p260-1	scripture	body-ordinal	Isaiae decimo sexto	Isai 16:1	B	verse		
+bon-ioan-c1-v29-30	6	latin_body	p260-2	scripture	body-ordinal	Isaiae quadragesimo tertio	Isai 43:25	B	verse		
+bon-ioan-c1-v29-30	6	latin_body		scripture	body-ordinal	Matthaei undecimo	Matth 11	C	chapter		
+bon-ioan-c1-v29-30	6	latin_body	p260-3	scripture	body-ordinal	Ieremiae trigesimo primo	Ierem 31:22	B	verse		
+bon-ioan-c1-v29-30	6	latin_body		scripture	body-ordinal	Matthaei tertio	Matth 3	C	chapter		
+bon-ioan-c1-v29-30	6	apparatus:p260-2	p260-2	scripture	apparatus-explicit	Matth. 11, 9	Matth 11:9	A	verse		
+bon-ioan-c1-v29-30	6	apparatus:p260-3	p260-3	scripture	apparatus-explicit	Ioan. 1, 1	Ioan 1:1	A	verse		
+bon-ioan-c1-v29-30	6	apparatus:p260-4	p260-4	scripture	apparatus-explicit	Matth. 3, 14	Matth 3:14	A	verse		
+bon-ioan-c1-v29-30	6	apparatus:p260-4	p260-4	scripture	anaphor->apparatus-explicit	ibid. v. 15	Matth 3:15	A	verse	yes	Matth. 3, 14
+bon-ioan-c1-v29-30	6	apparatus:p260-5	p260-5	crossref	logical	IV. Sent. d. 2. a. 2. q. 2.	bon-sent-IV-d2-a2-q2		chunk		
 bon-ioan-c1-v3-5	6	latin_body	p248-6	scripture	body-ordinal	Ecclesiastici decimo octavo	Eccli 18:1	B	verse		
 bon-ioan-c1-v3-5	6	latin_body		scripture	body-ordinal	Ecclesiastici vigesimo tertio	Eccli 23	C	chapter		
 bon-ioan-c1-v3-5	6	latin_body		scripture	body-ordinal	Iacobi primo	Iac 1	C	chapter		
