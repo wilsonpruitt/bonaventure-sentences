@@ -25738,6 +25738,24 @@ bon-ioan-c1-v3-5	6	apparatus:p250-4	p250-4	crossref	logical	I. Sent. d. 6. q. 3.
 bon-ioan-c1-v3-5	6	apparatus:p250-4	p250-4	crossref	chain-continuation	d. 36. a. 2. q. 1.	bon-sent-I-d36-a2-q1		chunk		
 bon-ioan-c1-v3-5	6	apparatus:p250-6	p250-6	scripture	apparatus-explicit	I. Tim. 6, 16	1Tim 6:16	A	verse		
 bon-ioan-c1-v3-5	6	apparatus:p250-6	p250-6	crossref	logical	I. Sent. d. 3. p. I. q. 1.	bon-sent-I-d3-p1-a1-q1		chunk		
+bon-ioan-c1-v31-34	6	latin_body	p260-6	scripture	body-ordinal	Marci primo	Marc 1:8	B	verse		
+bon-ioan-c1-v31-34	6	latin_body	p260-7	scripture	body-ordinal	Lucae tertio	Luc 3:22	B	verse		
+bon-ioan-c1-v31-34	6	latin_body		scripture	body-ordinal	Isaiae undecimo	Isai 11	C	chapter		
+bon-ioan-c1-v31-34	6	latin_body	p260-9	scripture	body-ordinal	Actuum secundo	Act 2:38	B	verse		
+bon-ioan-c1-v31-34	6	latin_body	p261-9	scripture	body-ordinal	Matthaei tertio	Matth 3:14	B	verse		
+bon-ioan-c1-v31-34	6	apparatus:p260-7	p260-7	scripture	apparatus-explicit	Isai. 11, 2	Isai 11:2	A	verse		
+bon-ioan-c1-v31-34	6	apparatus:p260-9	p260-9	crossref	logical	IV. Sent. d. 3. p. I. a. 2. q. 2.	bon-sent-IV-d3-p1-a2-q2		chunk		
+bon-ioan-c1-v31-34	6	apparatus:p260-9	p260-9	crossref	work	Breviloq. p. VI. c. 7.	bon-brev-p6-c7		chunk		
+bon-ioan-c1-v31-34	6	apparatus:p261-2	p261-2	scripture	apparatus-explicit	Exod. 19, 9	Exod 19:9	A	verse		
+bon-ioan-c1-v31-34	6	apparatus:p261-3	p261-3	crossref	logical	I. Sent. d. 37. p. I. a. 3. q. 2.	bon-sent-I-d37-p1-a3-q2		chunk		
+bon-ioan-c1-v31-34	6	apparatus:p261-3	p261-3	crossref	work	Breviloq. p. I. c. 5.	bon-brev-p1-c5		chunk		
+bon-ioan-c1-v31-34	6	apparatus:p261-4	p261-4	crossref	logical	I. Sent. d. 16. q. 3.	bon-sent-I-d16-a1-q3		chunk		
+bon-ioan-c1-v31-34	6	apparatus:p261-4	p261-4	crossref	logical	III. Sent. d. 1. dub. 4.	bon-sent-III-d1-dubia		chunk		
+bon-ioan-c1-v31-34	6	apparatus:p261-5	p261-5	scripture	apparatus-explicit	Sap. 1, 5	Sap 1:5	A	verse		
+bon-ioan-c1-v31-34	6	apparatus:p261-7	p261-7	crossref	logical	III. Sent. d. 25. dub. 3	bon-sent-III-d25-dubia		chunk		
+bon-ioan-c1-v31-34	6	apparatus:p261-7	p261-7	crossref	logical	IV. Sent. d. 5. dub. 3	bon-sent-IV-d5-dubia		chunk		
+bon-ioan-c1-v31-34	6	apparatus:p261-8	p261-8	crossref	logical	IV. Sent. d. 6. p. II. dub. 1	bon-sent-IV-d6-p2-dubia		chunk		
+bon-ioan-c1-v31-34	6	apparatus:p261-11	p261-11	authority	authority:Bonav.	IV. Sent. d. 5. a. 3. q. 1.			excluded		
 bon-ioan-c1-v6-8	6	latin_body		scripture	body-ordinal	Malachiae tertio	Malach 3	C	chapter		
 bon-ioan-c1-v6-8	6	latin_body	p250-13	scripture	body-ordinal	ad Romanos decimo	Rom 10:15	B	verse		
 bon-ioan-c1-v6-8	6	latin_body	p251-1	scripture	body-ordinal	Lucae primo	Luc 1:13	B	verse		

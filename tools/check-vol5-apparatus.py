@@ -3621,7 +3621,12 @@ KNOWN_TOTALS_VOL6 = {
     260: 10, # bon-ioan-c1-v29-30 owns nn.1-5 (¶ 62 tail - ¶ 64, QUAESTIO, closing in the RIGHT column on
              # ...tangitur in littera5.); nn.6-10 anchor in ¶ 65 (Et ego nesciebam, Vers. 31, NO heading) and
              # after, and belong to the next chunk (index pericope Vers. 31-34). Anchors L 1-4 / R 5-10; blocks
-             # L 1-6 / R 7-10. No runover. Gutter 1131 (auto, run 43 px).
+             # L 1-6 / R 7-10. No runover. Gutter 1131 (auto, run 43 px). bon-ioan-c1-v31-34 re-derived nn.6-10
+             # (anchors all R; entries L 6 / R 7-10; confirmed as handed off).
+    261: 12, # bon-ioan-c1-v31-34 (¶ 68 tail - ¶ 71, QUAESTIONES, closing in the RIGHT column on ...potuit
+             # dubitare.; ¶ 72 Altera die iterum stabat opens at ~0.80 R with NO anchor on this leaf). Anchors
+             # L 1-4 / R 5-12; blocks L 1-7 head / R 7 tail + 8-12: n.7 RUNS OVER THE GUTTER (ledgered).
+             # Gutter 927 (auto, run 46 px; rule 927 body / 930 register).
 }
 
 KNOWN_TOTALS_BY_VOL = {
