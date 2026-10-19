@@ -3604,7 +3604,15 @@ KNOWN_TOTALS_VOL6 = {
     256: 11, # bon-ioan-c1-v15-18 owns nn.1-3 (LEFT column, ¶ 43 tail); nn.4-11 anchor below the centred heading
              # Secundo, de manifestatione Verbi incarnati in speciali dupliciter. / 44. and belong to the next
              # chunk (index pericope Vers. 19-23). Blocks L 1-3 / R 4-11. No runover. Gutter 1124 top / 1130 body /
-             # 1134 register (skew walk).
+             # 1134 register (skew walk). bon-ioan-c1-v19-23 re-derived nn.4-11 (anchors L 4-6 / R 7-11,
+             # entries all R; confirmed as handed off; n.7 is Vers. 15, the raw's 13 wrong).
+    257: 12, # bon-ioan-c1-v19-23 (whole leaf: ¶ 47 tail - ¶ 52, QUAESTIONES). Anchors L 1-5 / R 6-12; blocks
+             # L 1-7 / R 8-12. No runover. Signature line S. Bonav. - Tom. VI. below n.7 and gathering 33 are
+             # furniture. Gutter 931-933 body / 935 register.
+    258: 11, # bon-ioan-c1-v19-23 owns nn.1-3 (LEFT column, ¶ 52 tail + Ad 2.); nn.4-11 anchor in ¶ 53 (Et qui
+             # missi fuerant, Vers. 24, NO heading) and after, and belong to the next chunk (index pericope
+             # Vers. 24-28). Blocks L 1-5 / R 5 tail + 6-11: n.5 RUNS OVER THE GUTTER (next chunk's to ledger).
+             # Gutter 1110 top / 1114 body / 1119 register.
 }
 
 KNOWN_TOTALS_BY_VOL = {
