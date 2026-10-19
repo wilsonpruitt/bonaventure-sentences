@@ -25678,6 +25678,24 @@ bon-ioan-c1-v19-23	6	apparatus:p257-9	p257-9	scripture	apparatus-explicit	Matth.
 bon-ioan-c1-v19-23	6	apparatus:p258-3	p258-3	crossref	logical	II. Sent. d. 28.	II:d28		distinctio		
 bon-ioan-c1-v19-23	6	apparatus:p258-3	p258-3	crossref	logical	IV. Sent. d. 17. p. I. q. 2.	bon-sent-IV-d17-p1-a1-q2+bon-sent-IV-d17-p1-a2-q2		ambiguous		
 bon-ioan-c1-v19-23	6	apparatus:p258-3	p258-3	crossref	work	Breviloq. p. V. c. 3.	bon-brev-p5-c3		chunk		
+bon-ioan-c1-v24-28	6	latin_body	p258-6	scripture	body-ordinal	Actuum decimo nono	Act 19:4	B	verse		
+bon-ioan-c1-v24-28	6	latin_body	p258-9	scripture	body-ordinal	Matthaei octavo	Matth 8:8	B	verse		
+bon-ioan-c1-v24-28	6	latin_body	p258-10	scripture	body-ordinal	Isaiae quinquagesimo tertio	Isai 53:8	B	verse		
+bon-ioan-c1-v24-28	6	latin_body	p259-4	scripture	body-ordinal	Matthaei tertio	Matth 3:6	B	verse		
+bon-ioan-c1-v24-28	6	latin_body	p259-8	scripture	body-ordinal	Lucae vigesimo secundo	Luc 22:27	B	verse		
+bon-ioan-c1-v24-28	6	latin_body		scripture	body-ordinal	Matthaei decimo octavo	Matth 18	C	chapter		
+bon-ioan-c1-v24-28	6	latin_body	p259-9	scripture	body-ordinal	Actuum decimo	Act 10:34	B	verse		
+bon-ioan-c1-v24-28	6	latin_body	p259-10	scripture	body-ordinal	ad Ephesios secundo	Eph 2:14	B	verse		
+bon-ioan-c1-v24-28	6	latin_body	p259-11	scripture	body-ordinal	ad Corinthios tertio	Cor* 3:11	B	verse		
+bon-ioan-c1-v24-28	6	latin_body	p259-12	scripture	body-ordinal	Actuum decimo septimo	Act 17:27	B	verse		
+bon-ioan-c1-v24-28	6	latin_body	p259-13	scripture	body-ordinal	Matthaei undecimo	Matth 11:2	B	verse		
+bon-ioan-c1-v24-28	6	apparatus:p258-6	p258-6	crossref	logical	IV. Sent. d. 2. a. 2. q. 2.	bon-sent-IV-d2-a2-q2		chunk		
+bon-ioan-c1-v24-28	6	apparatus:p258-10	p258-10	crossref	logical	III. Sent. d. 22. dub. 5.	bon-sent-III-d22-dubia		chunk		
+bon-ioan-c1-v24-28	6	apparatus:p259-2	p259-2	crossref	logical	IV. Sent. d. 1. p. II. a. 2. q. 3.	bon-sent-IV-d1-p2-a2-q3		chunk		
+bon-ioan-c1-v24-28	6	apparatus:p259-3	p259-3	crossref	logical	IV. Sent. d. 2. a. 2. q. 2.	bon-sent-IV-d2-a2-q2		chunk		
+bon-ioan-c1-v24-28	6	apparatus:p259-7	p259-7	scripture	apparatus-explicit	Matth. 18, 20	Matth 18:20	A	verse		
+bon-ioan-c1-v24-28	6	apparatus:p259-8	p259-8	scripture	apparatus-explicit	Matth. 18, 2	Matth 18:2	A	verse		
+bon-ioan-c1-v24-28	6	apparatus:p259-14	p259-14	scripture	apparatus-explicit	Matth. 11, 7	Matth 11:7	A	verse		
 bon-ioan-c1-v3-5	6	latin_body	p248-6	scripture	body-ordinal	Ecclesiastici decimo octavo	Eccli 18:1	B	verse		
 bon-ioan-c1-v3-5	6	latin_body		scripture	body-ordinal	Ecclesiastici vigesimo tertio	Eccli 23	C	chapter		
 bon-ioan-c1-v3-5	6	latin_body		scripture	body-ordinal	Iacobi primo	Iac 1	C	chapter		

@@ -3612,7 +3612,12 @@ KNOWN_TOTALS_VOL6 = {
     258: 11, # bon-ioan-c1-v19-23 owns nn.1-3 (LEFT column, ¶ 52 tail + Ad 2.); nn.4-11 anchor in ¶ 53 (Et qui
              # missi fuerant, Vers. 24, NO heading) and after, and belong to the next chunk (index pericope
              # Vers. 24-28). Blocks L 1-5 / R 5 tail + 6-11: n.5 RUNS OVER THE GUTTER (next chunk's to ledger).
-             # Gutter 1110 top / 1114 body / 1119 register.
+             # Gutter 1110 top / 1114 body / 1119 register. bon-ioan-c1-v24-28 re-derived nn.4-11 (anchors L 4-5 /
+             # R 6-11; blocks L 4-5 head / R 5 tail + 6-11; ledgered p.258 n.5:gutter; confirmed as handed off).
+    259: 17, # bon-ioan-c1-v24-28 owns nn.1-15 (whole LEFT column + RIGHT to ¶ 60's close, QUAESTIONES); nn.16-17
+             # anchor in ¶ 61 (Altera die vidit Ioannes, Vers. 29, NO heading) and after, and belong to the next
+             # chunk (index pericope Vers. 29-30). Anchors L 1-9 / R 10-17; blocks L 1-8 / R 9-17. No runover.
+             # Gutter 902 body.
 }
 
 KNOWN_TOTALS_BY_VOL = {
