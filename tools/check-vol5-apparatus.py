@@ -3597,7 +3597,14 @@ KNOWN_TOTALS_VOL6 = {
     254: 10, # bon-ioan-c1-v9-14 owns nn.1-3 (LEFT column, ¶ 33 tail + ¶ 34, Quaest. V); nn.4-10 anchor below the
              # italic in-column heading Secundo, de ipsa incarnatione quoad eius manifestationem dupliciter. / 35.
              # and belong to the next chunk (index pericope Vers. 15-18). Blocks L 1-5 / R 6-10 (nn.4-5 print
-             # LEFT). No runover. Gutter 1114 body / 1108 register.
+             # LEFT). No runover. Gutter 1114 body / 1108 register. bon-ioan-c1-v15-18 re-derived nn.4-10
+             # (anchors L 4-5 / R 6-10, entries L 4-5 / R 6-10; confirmed as handed off).
+    255: 15, # bon-ioan-c1-v15-18 (whole leaf: ¶ 37 tail - ¶ 43, QUAESTIONES). Anchors L 1-6 / R 7-15; blocks
+             # L 1-6 / R 7-15. No runover. Gutter 903 body / register split 915.
+    256: 11, # bon-ioan-c1-v15-18 owns nn.1-3 (LEFT column, ¶ 43 tail); nn.4-11 anchor below the centred heading
+             # Secundo, de manifestatione Verbi incarnati in speciali dupliciter. / 44. and belong to the next
+             # chunk (index pericope Vers. 19-23). Blocks L 1-3 / R 4-11. No runover. Gutter 1124 top / 1130 body /
+             # 1134 register (skew walk).
 }
 
 KNOWN_TOTALS_BY_VOL = {
