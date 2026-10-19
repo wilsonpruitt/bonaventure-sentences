@@ -25796,6 +25796,49 @@ bon-ioan-c1-v35-42	6	apparatus:p265-1	p265-1	crossref	page	supra pag. 246, nota 
 bon-ioan-c1-v35-42	6	apparatus:p265-1	p265-1	crossref	page	supra pag. 263, nota 2	bon-ioan-c1-v35-42		chunk		
 bon-ioan-c1-v35-42	6	apparatus:p265-2	p265-2	scripture	apparatus-explicit	Gen. 17, 5	Gen 17:5	A	verse		
 bon-ioan-c1-v35-42	6	apparatus:p265-2	p265-2	scripture	apparatus-explicit	Marc. 3, 17	Marc 3:17	A	verse		
+bon-ioan-c1-v43-51	6	latin_body	p265-8	scripture	body-ordinal	Lucae decimo quinto	Luc 15:8	B	verse		
+bon-ioan-c1-v43-51	6	latin_body	p266-1	scripture	body-ordinal	ad Philippenses tertio	Phil 3:12	B	verse		
+bon-ioan-c1-v43-51	6	latin_body	p266-2	scripture	body-ordinal	Exodi vigesimo sexto	Exod 26:3	B	verse		
+bon-ioan-c1-v43-51	6	latin_body	p266-4	scripture	body-ordinal	Lucae vigesimo primo	Luc 21:15	B	verse		
+bon-ioan-c1-v43-51	6	latin_body		scripture	body-ordinal	Matthaei quinto	Matth 5	C	chapter		
+bon-ioan-c1-v43-51	6	latin_body		scripture	body-ordinal	Ieremiae decimo sexto	Ierem 16	C	chapter		
+bon-ioan-c1-v43-51	6	latin_body	p266-8	scripture	body-ordinal	Deuteronomii decimo octavo	Deut 18:15	B	verse		
+bon-ioan-c1-v43-51	6	latin_body		scripture	body-ordinal	Isaiae septimo	Isai 7	C	chapter		
+bon-ioan-c1-v43-51	6	latin_body		scripture	body-ordinal	Lucae tertio	Luc 3	C	chapter		
+bon-ioan-c1-v43-51	6	latin_body	p266-10	scripture	body-ordinal	Matthaei secundo	Matth 2:23	B	verse		
+bon-ioan-c1-v43-51	6	latin_body		scripture	body-ordinal	Isaiae undecimo	Isai 11	C	chapter		
+bon-ioan-c1-v43-51	6	latin_body	p266-11	scripture	body-ordinal	Michaeae quinto	Mich 5:2	B	verse		
+bon-ioan-c1-v43-51	6	latin_body	p267-1	scripture	body-ordinal	Proverbiorum duodecimo	Prov 12:20	B	verse		
+bon-ioan-c1-v43-51	6	latin_body	p267-2	scripture	body-ordinal	Genesis tertio	Gen 3:7	B	verse		
+bon-ioan-c1-v43-51	6	latin_body	p267-3	scripture	body-ordinal	Ieremiae decimo septimo	Ierem 17:10	B	verse		
+bon-ioan-c1-v43-51	6	latin_body		scripture	body-ordinal	Matthaei tertio	Matth 3	C	chapter		
+bon-ioan-c1-v43-51	6	latin_body	p267-6	scripture	body-ordinal	Matthaei quarto	Matth 4:11	B	verse		
+bon-ioan-c1-v43-51	6	latin_body	p267-7	scripture	body-ordinal	Genesis vigesimo octavo	Gen 28:12	B	verse		
+bon-ioan-c1-v43-51	6	latin_body	p267-8	scripture	body-ordinal	Matthaei quarto	Matth 4:1	B	verse		
+bon-ioan-c1-v43-51	6	latin_body	p267-9	scripture	body-ordinal	Marci primo	Marc 1	C	chapter		
+bon-ioan-c1-v43-51	6	latin_body	p267-9	scripture	anaphor->body-ordinal	ibid	Marc 1	C	chapter	yes	Marci primo
+bon-ioan-c1-v43-51	6	latin_body	p268-1	scripture	body-ordinal	Matthaei quarto	Matth 4:18	B	verse		
+bon-ioan-c1-v43-51	6	latin_body	p268-7	scripture	body-ordinal	ad Corinthios primo	Cor* 1:26	B	verse		
+bon-ioan-c1-v43-51	6	latin_body	p268-13	scripture	body-ordinal	Lucae quinto	Luc 5:3	B	verse		
+bon-ioan-c1-v43-51	6	apparatus:p266-4	p266-4	scripture	apparatus-explicit	Matth. 5 	Matth 5	C	chapter		
+bon-ioan-c1-v43-51	6	apparatus:p266-4	p266-4	scripture	apparatus-explicit	Ier. 16, 16	Ierem 16:16	A	verse		
+bon-ioan-c1-v43-51	6	apparatus:p266-8	p266-8	scripture	apparatus-explicit	Isai. 7, 14	Isai 7:14	A	verse		
+bon-ioan-c1-v43-51	6	apparatus:p266-8	p266-8	scripture	apparatus-explicit	Luc. 3, 23	Luc 3:23	A	verse		
+bon-ioan-c1-v43-51	6	apparatus:p266-10	p266-10	scripture	apparatus-explicit	Isai. 11, 1	Isai 11:1	A	verse		
+bon-ioan-c1-v43-51	6	apparatus:p266-11	p266-11	scripture	apparatus-explicit	Ioan. 7, 41	Ioan 7:41	A	verse		
+bon-ioan-c1-v43-51	6	apparatus:p267-1	p267-1	crossref	page	supra pag. 202, nota 7	bon-sap-c14		chunk		
+bon-ioan-c1-v43-51	6	apparatus:p267-2	p267-2	scripture	apparatus-explicit	Gen. 3, 7	Gen 3:7	A	verse		
+bon-ioan-c1-v43-51	6	apparatus:p267-3	p267-3	scripture	apparatus-explicit	Ioan. 12, 13	Ioan 12:13	A	verse		
+bon-ioan-c1-v43-51	6	apparatus:p267-5	p267-5	scripture	apparatus-explicit	Matth. 3, 16	Matth 3:16	A	verse		
+bon-ioan-c1-v43-51	6	apparatus:p267-8	p267-8	scripture	apparatus-explicit	Marc. 1, 12	Marc 1:12	A	verse		
+bon-ioan-c1-v43-51	6	apparatus:p267-9	p267-9	scripture	apparatus-explicit	Marc. 1, 14	Marc 1:14	A	verse		
+bon-ioan-c1-v43-51	6	apparatus:p267-9	p267-9	scripture	apparatus-explicit	Ioan. 3, 23	Ioan 3:23	A	verse		
+bon-ioan-c1-v43-51	6	apparatus:p267-10	p267-10	scripture	apparatus-explicit	Ioan. 2, 1	Ioan 2:1	A	verse		
+bon-ioan-c1-v43-51	6	apparatus:p268-5	p268-5	scripture	apparatus-explicit	Ioan. 7, 52	Ioan 7:52	A	verse		
+bon-ioan-c1-v43-51	6	apparatus:p268-6	p268-6	crossref	page	tom. IV. pag. 83, nota 1	bon-sent-IV-d3-p2-a3-q1		chunk		
+bon-ioan-c1-v43-51	6	apparatus:p268-9	p268-9	crossref	page	supra pag. 266, nota 12	bon-ioan-c1-v43-51		chunk		
+bon-ioan-c1-v43-51	6	apparatus:p268-11	p268-11	scripture	apparatus-explicit	I. Cor. 15, 8	1Cor 15:8	A	verse		
+bon-ioan-c1-v43-51	6	apparatus:p269-1	p269-1	crossref	work	Breviloq. p. IV. c. 3.	bon-brev-p4-c3		chunk		
 bon-ioan-c1-v6-8	6	latin_body		scripture	body-ordinal	Malachiae tertio	Malach 3	C	chapter		
 bon-ioan-c1-v6-8	6	latin_body	p250-13	scripture	body-ordinal	ad Romanos decimo	Rom 10:15	B	verse		
 bon-ioan-c1-v6-8	6	latin_body	p251-1	scripture	body-ordinal	Lucae primo	Luc 1:13	B	verse		

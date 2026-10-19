@@ -3640,6 +3640,16 @@ KNOWN_TOTALS_VOL6 = {
              # ipsum.) and after, and belong to the next chunk (index pericope Vers. 43-51). Anchors L 1-5 /
              # R 6-8; blocks L (p.264 n.12 tail) + 1 + 2 head / R 2 tail + 3-8: n.2 RUNS OVER THE GUTTER
              # (ledgered). Gutter 926 (auto, run 49 px).
+             # bon-ioan-c1-v43-51 took nn.3-8 (re-derived on the plate 2026-10-18).
+    266: 12, # bon-ioan-c1-v43-51 (¶ 90 tail - ¶ 94). Anchors L 1-8 / R 9-12; blocks L 1-9 head / R 9 tail +
+             # 10-12: n.9 RUNS OVER THE GUTTER (ledgered). Gutter 1094 (auto, run 32 px).
+    267: 12, # bon-ioan-c1-v43-51 (¶ 94 tail - ¶ 100, QUAESTIONES from ¶ 99). Anchors L 1-6 / R 7-12; blocks
+             # L 1-7 / R 8-12, no runover. Gutter 918 (auto, run 41 px).
+    268: 15, # bon-ioan-c1-v43-51 (¶ 100 tail - ¶ 103). Anchors L 1-7 / R 8-15; blocks L 1-8 / R 9-15, no
+             # runover. Gutter 1109 (auto, run 49 px).
+    269: 13, # bon-ioan-c1-v43-51 owns n.1 (¶ 103 tail, closing above the centred CAPITULUM II. on ...filium
+             # hominis se appellat.); nn.2-13 belong to Capitulum II (1. Et die tertio nuptiae). Gutter 910
+             # (auto, run 36 px).
 }
 
 KNOWN_TOTALS_BY_VOL = {
