@@ -3719,7 +3719,16 @@ KNOWN_TOTALS_VOL6 = {
     289: 12, # bon-ioan-c3-v27-36 owns nn.1-7 (¶¶ 62-64, above the mid-leaf CAPITULUM IV. at ~0.45):
              # anchors L 1-4 / R 5-7; n.7 runs over the gutter (sponsio haec est...). nn.8-12
              # anchor in Cap. IV (Ut ergo cognovit Iesus): the next chunk. Gutter 909 (Cap. III region).
-             # nn.8-12 PENDING.
+             # bon-ioan-c4-v1-6 owns nn.8-12 (¶¶ 1-5, below the heading): all anchor below it
+             # (ibi8 ¶1, audierant9 ¶2 L; Ioanne10, primo11, mediam12 R) and print in the RIGHT
+             # block after n.7's runover tail. Gutter 908 (Cap. IV region). Re-derived.
+    290: 13, # bon-ioan-c4-v1-6 (¶¶ 5-9): anchors L 1-6 / R 7-13; blocks L 1-5 / R 6-13 (n.6
+             # anchors LEFT, prints RIGHT). No runover. Gutter 1131.
+    291: 15, # bon-ioan-c4-v1-6 owns nn.1-12 (¶¶ 10-13, QUAESTIONES, closing at ~0.52 R on
+             # ...et fons et puteus dicitur.); nn.13-15 anchor in ¶ 14 (Venit mulier de Samaria.,
+             # no heading): the next pericope (Vers. 7-). Anchors L 1-7 / R 8-15; blocks L 1-8
+             # head / R 8 tail + 9-15: n.8 runs over the gutter (Regulis iuris...). Gutter 907.
+             # nn.13-15 PENDING.
 }
 
 KNOWN_TOTALS_BY_VOL = {

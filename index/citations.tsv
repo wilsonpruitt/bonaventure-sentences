@@ -26125,6 +26125,49 @@ bon-ioan-c3-v3-12	6	apparatus:p281-7	p281-7	crossref	logical	II. Sent. d. 32. a.
 bon-ioan-c3-v3-12	6	apparatus:p281-7	p281-7	crossref	logical	IV. Sent. d. 4. p. I. a. 1. q. 2.	bon-sent-IV-d4-p1-a1-q2		chunk		
 bon-ioan-c3-v3-12	6	apparatus:p281-8	p281-8	crossref	logical	I. Sent. d. 31. p. II. a. 2. q. 1.	bon-sent-I-d31-p2-a2-q1		chunk		
 bon-ioan-c3-v3-12	6	apparatus:p281-11	p281-11	crossref	logical	I. Sent. d. 27. p. II. q. 2.	bon-sent-I-d27-p2-a1-q2		chunk		
+bon-ioan-c4-v1-6	6	latin_body		scripture	body-ordinal	Lucae decimo septimo	Luc 17	C	chapter		
+bon-ioan-c4-v1-6	6	latin_body	p290-2	scripture	body-ordinal	Genesis trigesimo quarto	Gen 34:25	B	verse		
+bon-ioan-c4-v1-6	6	latin_body		scripture	body-ordinal	Genesis quadragesimo octavo	Gen 48	C	chapter		
+bon-ioan-c4-v1-6	6	latin_body		scripture	body-ordinal	ad Romanos undecimo	Rom 11	C	chapter		
+bon-ioan-c4-v1-6	6	latin_body		scripture	body-ordinal	Actuum decimo tertio	Act 13	C	chapter		
+bon-ioan-c4-v1-6	6	latin_body		scripture	body-ordinal	Ieremiae decimo quarto	Ierem 14	C	chapter		
+bon-ioan-c4-v1-6	6	latin_body	p290-8	scripture	body-ordinal	Genesis secundo	Gen 2:6	B	verse		
+bon-ioan-c4-v1-6	6	latin_body		scripture	body-ordinal	Zachariae decimo tertio	Zach 13	C	chapter		
+bon-ioan-c4-v1-6	6	latin_body	p290-10	scripture	body-ordinal	Ecclesiastici decimo quinto	Eccli 15:3	B	verse		
+bon-ioan-c4-v1-6	6	latin_body		scripture	body-ordinal	Ecclesiastici primo	Eccli 1	C	chapter		
+bon-ioan-c4-v1-6	6	latin_body		scripture	body-ordinal	Proverbiorum quinto	Prov 5	C	chapter		
+bon-ioan-c4-v1-6	6	latin_body	p290-12	scripture	body-ordinal	Ieremiae secundo	Ierem 2:13	B	verse		
+bon-ioan-c4-v1-6	6	latin_body		scripture	body-ordinal	Apocalypsis septimo	Apoc 7	C	chapter		
+bon-ioan-c4-v1-6	6	latin_body	p290-13	scripture	body-ordinal	Isaiae duodecimo	Isai 12:3	B	verse		
+bon-ioan-c4-v1-6	6	latin_body	p291-1	scripture	body-ordinal	Levitici vigesimo	Lev 20:18	B	verse		
+bon-ioan-c4-v1-6	6	latin_body	p291-2	scripture	body-ordinal	Proverbiorum vigesimo quinto	Prov 25:26	B	verse		
+bon-ioan-c4-v1-6	6	latin_body	p291-3	scripture	body-ordinal	Ecclesiastici vigesimo sexto	Eccli 26:15	B	verse		
+bon-ioan-c4-v1-6	6	latin_body	p291-4	scripture	body-ordinal	Apocalypsis octavo	Apoc 8:10	B	verse		
+bon-ioan-c4-v1-6	6	latin_body		scripture	body-ordinal	Matthaei decimo quinto	Matth 15	C	chapter		
+bon-ioan-c4-v1-6	6	apparatus:p289-9	p289-9	scripture	apparatus-explicit	Ioan. 3, 26	Ioan 3:26	A	verse		
+bon-ioan-c4-v1-6	6	apparatus:p289-11	p289-11	scripture	apparatus-explicit	Ioan. 7, 1	Ioan 7:1	A	verse		
+bon-ioan-c4-v1-6	6	apparatus:p289-12	p289-12	scripture	apparatus-explicit	Luc. 17, 11	Luc 17:11	A	verse		
+bon-ioan-c4-v1-6	6	apparatus:p290-2	p290-2	scripture	anaphor->body-ordinal	ibid. 48, 22	Gen 48:22	B	verse	yes	body: Genesis trigesimo quarto
+bon-ioan-c4-v1-6	6	apparatus:p290-2	p290-2	scripture	apparatus-explicit	Iosue 24, 32	Ios 24:32	A	verse		
+bon-ioan-c4-v1-6	6	apparatus:p290-4	p290-4	scripture	apparatus-explicit	Ps. 87, 16	Ps 87:16	A	verse		
+bon-ioan-c4-v1-6	6	apparatus:p290-5	p290-5	scripture	apparatus-explicit	Rom. 11, 25	Rom 11:25	A	verse		
+bon-ioan-c4-v1-6	6	apparatus:p290-5	p290-5	scripture	apparatus-explicit	Act. 13, 46	Act 13:46	A	verse		
+bon-ioan-c4-v1-6	6	apparatus:p290-6	p290-6	crossref	work	Breviloq.	work:breviloquium		work		
+bon-ioan-c4-v1-6	6	apparatus:p290-6	p290-6	scripture	apparatus-explicit	Ier. 14, 8	Ierem 14:8	A	verse		
+bon-ioan-c4-v1-6	6	apparatus:p290-9	p290-9	scripture	apparatus-explicit	Zach. 13, 1	Zach 13:1	A	verse		
+bon-ioan-c4-v1-6	6	apparatus:p290-10	p290-10	scripture	apparatus-explicit	Eccli. 1, 5	Eccli 1:5	A	verse		
+bon-ioan-c4-v1-6	6	apparatus:p290-10	p290-10	scripture	apparatus-explicit	Prov. 5, 16	Prov 5:16	A	verse		
+bon-ioan-c4-v1-6	6	apparatus:p290-11	p290-11	scripture	apparatus-explicit	Ioan. 4, 13	Ioan 4:13	A	verse		
+bon-ioan-c4-v1-6	6	apparatus:p290-11	p290-11	scripture	apparatus-explicit	Ier. 2, 13	Ierem 2:13	A	verse		
+bon-ioan-c4-v1-6	6	apparatus:p290-12	p290-12	scripture	apparatus-explicit	Ps. 35, 10	Ps 35:10	A	verse		
+bon-ioan-c4-v1-6	6	apparatus:p290-12	p290-12	scripture	apparatus-explicit	Apoc. 7, 17	Apoc 7:17	A	verse		
+bon-ioan-c4-v1-6	6	apparatus:p290-13	p290-13	scripture	apparatus-explicit	Ps. 103, 10	Ps 103:10	A	verse		
+bon-ioan-c4-v1-6	6	apparatus:p291-5	p291-5	scripture	apparatus-explicit	Matth. 24, 36	Matth 24:36	A	verse		
+bon-ioan-c4-v1-6	6	apparatus:p291-5	p291-5	scripture	apparatus-explicit	Marc. 13, 32	Marc 13:32	A	verse		
+bon-ioan-c4-v1-6	6	apparatus:p291-5	p291-5	crossref	logical	IV. Sent. d. 48. a. 1. q. 4.	bon-sent-IV-d48-a1-q4		chunk		
+bon-ioan-c4-v1-6	6	apparatus:p291-6	p291-6	crossref	logical	III. Sent. d. 14. a. 3. q. 2.	bon-sent-III-d14-a3-q2		chunk		
+bon-ioan-c4-v1-6	6	apparatus:p291-8	p291-8	scripture	apparatus-explicit	Matth. 15, 12	Matth 15:12	A	verse		
+bon-ioan-c4-v1-6	6	apparatus:p291-10	p291-10	scripture	apparatus-explicit	Matth. 7, 29	Matth 7:29	A	verse		
 bon-ioan-prol	6	latin_body		scripture	body-ordinal	Apocalypsis primo	Apoc 1	C	chapter		
 bon-ioan-prol	6	apparatus:p245-1	p245-1	crossref	page	supra pag. 243, nota 2	bon-ioan-prooem		chunk		
 bon-ioan-prol	6	apparatus:p245-2	p245-2	scripture	apparatus-explicit	Ioan. 1, 1	Ioan 1:1	A	verse		

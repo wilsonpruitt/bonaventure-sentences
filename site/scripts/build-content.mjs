@@ -769,6 +769,12 @@ const WORKS = {
       // NO heading beneath it (ruling 79(a)). The raw has NO line for it --
       // only the running head `COMMENT. IN lOANNEM C. III.`. Unanchored.
       3: "Capitulum III",
+      // `CAPITULUM IV.` read in place on p. 289 at bon-ioan-c4-v1-6: full-measure
+      // centred small capitals MID-LEAF at ~0.38, below Cap. III's last Quaestio,
+      // with the small bold heading `Tertia manifestatio, quae facta est
+      // Samaritanis.` set in the LEFT column beneath it (ruling 79(b): the chunk
+      // is titled from that heading). Both unanchored.
+      4: "Capitulum IV",
     },
   },
 };
