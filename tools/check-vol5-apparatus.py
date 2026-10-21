@@ -3662,6 +3662,12 @@ KNOWN_TOTALS_VOL6 = {
              # tollit a me.); nn.3-10 anchor in ¶ 18 (Post haec descendit, under the centred heading
              # Secunda manifestatio, quae facta est Iudaeis.) and after: the next pericope (Vers. 12-17).
              # Blocks L 1-5 / R 6-10 by count. Gutter 921 (region above the heading).
+             # bon-ioan-c2-v12-17 took nn.3-10 (re-derived 2026-10-21): anchors L 3-5 / R 6-10, blocks
+             # match. Gutter 916 below the heading.
+    274: 15, # bon-ioan-c2-v12-17 (¶ 23 tail - ¶ 25). Anchors L 1-8 / R 9-15; blocks L 1-7 head /
+             # R 7 tail + 8-15: n.7 runs over the gutter. Gutter 1109.
+    275: 13, # bon-ioan-c2-v12-17 (QUAESTIONES ¶¶ 26-31). Anchors L 1-6 / R 7-13; blocks match. n.13 runs
+             # over the PAGE (last lines unnumbered, flush left, head of p. 276 L block). Gutter 905.
 }
 
 KNOWN_TOTALS_BY_VOL = {
