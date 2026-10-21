@@ -3679,6 +3679,15 @@ KNOWN_TOTALS_VOL6 = {
     279: 13, # bon-ioan-c3-v1-2 owns nn.1-5 (¶ 6 tail, closing at ~0.37 L on ...faciebat miracula.);
              # nn.6-13 anchor in ¶ 7 (Respondit Iesus et dixit ei etc., no heading) and after: the
              # next pericope (Vers. 3-). Anchors L 1-6 / R 7-13; blocks match. Gutter 920.
+             # bon-ioan-c3-v3-12 owns nn.6-13 (¶¶ 7-10 head): n.6 L (ibi), nn.7-13 R. All re-derived.
+    280: 14, # bon-ioan-c3-v3-12 (¶ 10 tail - QUAESTIONES ¶ 18). Anchors L 1-5 / R 6-14; blocks
+             # L 1-7 head / R 7 tail + 8-14: nn.6-7 print LEFT but anchor RIGHT; n.7 runs over the
+             # gutter. Gutter 1117 (SKEW 21 px, one split suffices).
+    281: 12, # bon-ioan-c3-v3-12 (QUAESTIONES ¶¶ 18-22). Anchors L 1-5 / R 6-12; blocks L 1-6 /
+             # R 7-12 (n.6 prints LEFT, anchors RIGHT). Gutter 918.
+    282: 9,  # bon-ioan-c3-v3-12 owns nn.1-2 (¶ 22 tail, Quaest. V reply, LEFT); nn.3-9 anchor in
+             # ¶ 23 (Et nemo ascendit in caelum, no heading) and after: the next pericope (Vers. 13-).
+             # Blocks L 1-3 / R 4-9. Gutter 1135.
 }
 
 KNOWN_TOTALS_BY_VOL = {
