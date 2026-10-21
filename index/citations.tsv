@@ -26209,6 +26209,42 @@ bon-ioan-c4-v15-27	6	apparatus:p296-6	p296-6	crossref	logical	III. Sent. d. 9. a
 bon-ioan-c4-v15-27	6	apparatus:p296-9	p296-9	scripture	apparatus-explicit	Rom. 2, 28	Rom 2:28	A	verse		
 bon-ioan-c4-v15-27	6	apparatus:p296-9	p296-9	scripture	anaphor->apparatus-explicit	ibid.	Rom 2:28	A	verse	yes	Rom. 2, 28
 bon-ioan-c4-v15-27	6	apparatus:p296-10	p296-10	scripture	apparatus-explicit	Rom. 9, 28	Rom 9:28	A	verse		
+bon-ioan-c4-v28-42	6	latin_body	p297-5	scripture	body-ordinal	Ieremiae quadragesimo octavo	Ierem 48:28	B	verse		
+bon-ioan-c4-v28-42	6	latin_body		scripture	body-ordinal	ad Corinthios secundo	Cor* 2	C	chapter		
+bon-ioan-c4-v28-42	6	latin_body	p298-2	scripture	body-ordinal	Matthaei nono	Matth 9:37	B	verse		
+bon-ioan-c4-v28-42	6	latin_body	p298-3	scripture	body-ordinal	Matthaei sexto	Matth 6:20	B	verse		
+bon-ioan-c4-v28-42	6	latin_body		scripture	body-ordinal	Lucae sexto	Luc 6	C	chapter		
+bon-ioan-c4-v28-42	6	latin_body	p298-6	scripture	body-ordinal	Matthaei nono	Matth 9:38	B	verse		
+bon-ioan-c4-v28-42	6	latin_body		scripture	body-ordinal	Petri primo	Petr* 1	C	chapter		
+bon-ioan-c4-v28-42	6	latin_body		scripture	body-ordinal	Matthaei vigesimo primo	Matth 21	C	chapter		
+bon-ioan-c4-v28-42	6	latin_body		scripture	body-ordinal	Matthaei octavo	Matth 8	C	chapter		
+bon-ioan-c4-v28-42	6	latin_body	p298-11	scripture	body-ordinal	ad Romanos decimo	Rom 10:17	B	verse		
+bon-ioan-c4-v28-42	6	latin_body		scripture	body-ordinal	Ioannis secundo	Ioan 2	C	chapter		
+bon-ioan-c4-v28-42	6	latin_body		scripture	body-ordinal	Genesis quadragesimo primo	Gen 41	C	chapter		
+bon-ioan-c4-v28-42	6	latin_body	p299-4	scripture	body-ordinal	Matthaei duodecimo	Matth 12:41	B	verse		
+bon-ioan-c4-v28-42	6	latin_body	p299-11	scripture	body-ordinal	ad Corinthios nono	Cor* 9:6	B	verse		
+bon-ioan-c4-v28-42	6	latin_body	p300-1	scripture	body-ordinal	Matthaei decimo tertio	Matth 13:39	B	verse		
+bon-ioan-c4-v28-42	6	apparatus:p297-4	p297-4	scripture	apparatus-explicit	Hebr. 13, 12	Hebr 13:12	A	verse		
+bon-ioan-c4-v28-42	6	apparatus:p297-5	p297-5	scripture	apparatus-explicit	Ps. 62, 3	Ps 62:3	A	verse		
+bon-ioan-c4-v28-42	6	apparatus:p297-8	p297-8	scripture	apparatus-explicit	I. Cor. 2, 14	1Cor 2:14	A	verse		
+bon-ioan-c4-v28-42	6	apparatus:p297-11	p297-11	scripture	apparatus-explicit	Psalm. 144, 9	Ps 144:9	A	verse		
+bon-ioan-c4-v28-42	6	apparatus:p297-11	p297-11	scripture	apparatus-explicit	Ioan. 6, 29	Ioan 6:29	A	verse		
+bon-ioan-c4-v28-42	6	apparatus:p298-3	p298-3	scripture	apparatus-explicit	Luc. 6, 23	Luc 6:23	A	verse		
+bon-ioan-c4-v28-42	6	apparatus:p298-3	p298-3	scripture	apparatus-explicit	Matth. 5, 12	Matth 5:12	A	verse		
+bon-ioan-c4-v28-42	6	apparatus:p298-4	p298-4	scripture	apparatus-explicit	Psalm. 125, 6	Ps 125:6	A	verse		
+bon-ioan-c4-v28-42	6	apparatus:p298-5	p298-5	scripture	apparatus-explicit	Lev. 26, 16	Lev 26:16	A	verse		
+bon-ioan-c4-v28-42	6	apparatus:p298-5	p298-5	scripture	apparatus-explicit	Mich. 6, 15	Mich 6:15	A	verse		
+bon-ioan-c4-v28-42	6	apparatus:p298-6	p298-6	scripture	apparatus-explicit	I. Petr. 1, 12	1Petr 1:12	A	verse		
+bon-ioan-c4-v28-42	6	apparatus:p298-7	p298-7	scripture	apparatus-explicit	Matth. 21, 31	Matth 21:31	A	verse		
+bon-ioan-c4-v28-42	6	apparatus:p298-8	p298-8	scripture	apparatus-explicit	Luc. 24, 29	Luc 24:29	A	verse		
+bon-ioan-c4-v28-42	6	apparatus:p298-9	p298-9	scripture	apparatus-explicit	Matth. 8, 34	Matth 8:34	A	verse		
+bon-ioan-c4-v28-42	6	apparatus:p298-10	p298-10	scripture	apparatus-explicit	Ioan. 6, 69	Ioan 6:69	A	verse		
+bon-ioan-c4-v28-42	6	apparatus:p298-11	p298-11	crossref	logical	III. Sent. d. 24. a. 2. q. 3.	bon-sent-III-d24-a2-q3		chunk		
+bon-ioan-c4-v28-42	6	apparatus:p299-1	p299-1	scripture	apparatus-explicit	I. Ioan. 2, 2	1Ioan 2:2	A	verse		
+bon-ioan-c4-v28-42	6	apparatus:p299-1	p299-1	scripture	apparatus-explicit	Gen. 41, 45	Gen 41:45	A	verse		
+bon-ioan-c4-v28-42	6	apparatus:p299-2	p299-2	scripture	apparatus-explicit	Psalm. 92, 5	Ps 92:5	A	verse		
+bon-ioan-c4-v28-42	6	apparatus:p299-9	p299-9	crossref	logical	IV. Sent. d. 9. a. 1. q. 2.	bon-sent-IV-d9-a1-q2		chunk		
+bon-ioan-c4-v28-42	6	apparatus:p299-10	p299-10	scripture	apparatus-explicit	Luc. 8, 11	Luc 8:11	A	verse		
 bon-ioan-c4-v7-14	6	latin_body		scripture	body-ordinal	Lucae nono	Luc 9	C	chapter		
 bon-ioan-c4-v7-14	6	latin_body	p292-4	scripture	body-ordinal	Genesis quadragesimo tertio	Gen 43:32	B	verse		
 bon-ioan-c4-v7-14	6	latin_body	p292-5	scripture	body-ordinal	Actuum secundo	Act 2:38	B	verse		

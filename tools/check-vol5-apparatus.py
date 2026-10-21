@@ -3743,6 +3743,16 @@ KNOWN_TOTALS_VOL6 = {
              # blocks L 1-9 head / R 9 tail + 10-13: n.9 runs over the gutter (interlinearis...).
              # n.13 is anchored in ¶ 47 (Reliquit ergo hydriam suam etc., no heading; Christi ad13
              # suscipiendum, RIGHT) and is PENDING for the next pericope (Vers. 28-42). Gutter 1125.
+             # n.13 WRITTEN by bon-ioan-c4-v28-42 (re-derived: anchor R ~0.66, entry last in R block).
+    297: 12, # bon-ioan-c4-v28-42 (¶¶ 47-55): anchors L 1-5 / R 6-12; blocks L 1-10 / R 11-12;
+             # n.12 (Rupert/Card. Hugo) runs over the PAGE onto the head of p.298's LEFT block. Gutter 904.
+    298: 11, # bon-ioan-c4-v28-42 (¶¶ 55-62): anchors L 1-6 / R 7-11; blocks L (p.297 n.12 tail) + 1-4
+             # / R 5-11. Gutter 1116.
+    299: 11, # bon-ioan-c4-v28-42 (¶¶ 62-68, QUAESTIONES): anchors L 1-5 / R 6-11; blocks L 1-6 / R 7-11.
+             # Gutter 920 (~6 px skew).
+    300: 10, # bon-ioan-c4-v28-42 owns nn.1-2 (¶ 68, Quaest. VI obj. 3 + Respondeo, closing ~0.28 L);
+             # nn.3-10 anchor below the heading Quarta manifestatio, quae facta est Galilaeis. (¶ 69 ff.)
+             # and are PENDING for the next pericope (Vers. 43-54). Gutter 1117 for the region above.
 }
 
 KNOWN_TOTALS_BY_VOL = {
