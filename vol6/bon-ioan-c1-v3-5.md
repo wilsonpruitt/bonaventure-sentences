@@ -7,8 +7,8 @@ section: 2
 verses: "3-5"
 type: pericope
 paragraphs: "9-16"
-title_la: "De Verbo in comparatione ad ea quae per ipsum dicuntur"
-title_en: "On the Word in comparison to the things which are said through him"
+title_la: "Secundo, de Verbo in comparatione ad ea quae per ipsum dicuntur"
+title_en: "Second, on the Word in comparison to the things which are said through him"
 printed_pages: [248, 249, 250]
 pdf_pages: [290, 291, 292]
 source: "S. Bonaventurae, Opera Omnia, Tomus VI (Quaracchi, 1893), pp. 248–250"
@@ -19,7 +19,7 @@ format_version: 1
 ---
 
 # Commentarius in Evangelium S. Ioannis — Cap. I, Vers. 3-5
-## *De Verbo in comparatione ad ea quae per ipsum dicuntur*
+## *Secundo, de Verbo in comparatione ad ea quae per ipsum dicuntur*
 
 ---
 
@@ -113,7 +113,7 @@ necting it to the prior clause, so that the stop comes here: *without him was ma
 
 2. Likewise, why does he say it of *the darkness?* For no one, not even a good man, comprehends it[^p250-5], since it is incomprehensible.
 
-**I respond:** It must be said that it is not alike with bodily and spiritual light, for a threefold cause: both on the part of the *moving*, because bodily light manifests itself naturally, but spiritual light voluntarily; and on the part of the *eye*, because the eye of the understanding is blind with respect to one thing, and yet sees with respect to another, as we see that it has ignorance of one thing and knowledge of another; so the eye of the unbeliever is blind with respect to God. The third reason is on the part of the *comparison*, because there is some proportion of our eye to bodily light, but spiritual light exceeds it beyond all proportion, and therefore he *inhabiteth light inaccessible*[^p250-6].
+**I respond:** It must be said that it is not alike with bodily and spiritual light, for a threefold cause: both on the part of the *moving*, because bodily light manifests itself naturally, but spiritual light voluntarily; and on the part of the *eye*, because the eye of the understanding is blind with respect to one thing, and yet sees with respect to another, as we see that it has ignorance of one thing and knowledge of another; so the eye of the unbeliever is blind with respect to God. The third reason is on the part of the *comparison*, because there is some proportion of our eye to bodily light, but spiritual light exceeds it beyond all proportion, and therefore he *dwelleth in light inaccessible*[^p250-6].
 
 2. As to what is asked about *comprehension:* it must be said that there is comprehension by *inclusion*[^p250-7], by open *vision*, by the *adhesion* of faith and charity. In the first way he is comprehended by no one, in the second way by the Blessed, in the third way by the Saints, in none of the said ways by the wicked; therefore he says: *And the darkness did not comprehend it*, that is, they did not adhere to it by faith nor by love.
 
@@ -217,7 +217,7 @@ necting it to the prior clause, so that the stop comes here: *without him was ma
 
 ## Notes
 
-**THE SECOND PERICOPE OF CAPITULUM I** (rulings 69, 71, 73): Vers. 3-5 with its Quaestiones, pp. 248–250. Format reference `bon-ioan-c1-v1-2`. Frontmatter `division: 1`, `section: 2`, `verses: "3-5"`, `type: pericope`, **`paragraphs: "9-16"`**. Title from the in-column italic heading that opens the chunk (`Secundo, de Verbo in comparatione ad ea / quae per ipsum dicuntur.`), the subdivision announced in ¶ 1 of `c1-v1-2`; it is rendered as an italic `####` heading in both languages, as printed (italic, centred over the right column, no small capitals). Registry: nothing to add — division 1 went in with `c1-v1-2`.
+**THE SECOND PERICOPE OF CAPITULUM I** (rulings 69, 71, 73): Vers. 3-5 with its Quaestiones, pp. 248–250. Format reference `bon-ioan-c1-v1-2`. Frontmatter `division: 1`, `section: 2`, `verses: "3-5"`, `type: pericope`, **`paragraphs: "9-16"`**. Title from the in-column italic heading that opens the chunk (`Secundo, de Verbo in comparatione ad ea / quae per ipsum dicuntur.`), the subdivision announced in ¶ 1 of `c1-v1-2`; it is rendered as an italic `####` heading in both languages, as printed (italic, centred over the right column, no small capitals). Registry: nothing to add — division 1 went in with `c1-v1-2`. **Title (gate, 2026-10-21):** the leading ordinal is RESTORED, `Secundo, de Verbo …` / "Second, on the Word …", as Eccl and Sap keep it (33 of 64 titles) and Sap ruling 47's reason requires (cutting invents a title Quaracchi did not print); the build had dropped it.
 
 **Provenance.** Latin set from the 450 dpi plates of pp. 248–250 (2067×2985), body as column crops at 0.85×, register at 1.25–1.6×, digits at 2–5×. The IA djvu raw (`doctorisseraphic06bona_djvu.txt` L39694–L40035 body, registers interleaved) was a scaffold only: body raw good with letter noise (`simt`, `Verbura`, `suffwiens`, `Fihus`), and **it prints ¶ 13 as `(Vers. 3.)` where the plate prints `(Vers. 5.)`** (read at 0.85×; John 1:5 *Et lux in tenebris lucet*). Register raw digit-garbled and without numerals (p. 249 n. 5 raw `Eph. 3,8` → plate **5, 8**; n. 2 raw `n. M` → **11**; p. 248 n. 8 raw `13, '6.` → **15, 5.**).
 

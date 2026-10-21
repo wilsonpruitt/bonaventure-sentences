@@ -58,7 +58,7 @@ This is John the Evangelist, one of the disciples of the Lord, who was chosen a 
 
 12. To this book Jerome prefixes a Prologue[^p245-1], in which the work is made known in many ways. For first *the dignity of the writer* is touched on. Secondly, *the manner of writing*, there: *Finally, showing in the Gospel.* Thirdly, *the time* and *place* of writing, there: *This Gospel, moreover, he wrote in Asia.* Fourthly, *the death of the author*, there: *And this is John who, knowing.* Lastly, the *order* of this one to the other Gospels, there: *Nevertheless after all the others he wrote the Gospel.*
 
-*The dignity*, then, of the author he expresses in this, that « he was called a virgin by the Lord from a wedding », and that great and noble testimonies are borne to his virginity, namely the familiar dilection of Christ and the commission of the Mother[^p245-2].
+*The dignity*, then, of the author he expresses in this, that « he was called a virgin by the Lord from a wedding », and that great and noble testimonies are given to his virginity, namely the familiar dilection of Christ and the commission of the Mother[^p245-2].
 
 *The manner*, moreover, *of writing* he describes as consonant with the writer in this: that because the writer was incorrupt in the flesh[^p245-3] and called from a wedding, therefore he first « begins the generation of the incorruptible Word », and then among the *signs* begins from the changing of water into wine done at a wedding; from these « showing that which he *himself* was », which is a name[^p245-4], and he means as much as "showing of what sort he was", as we commonly say: you show what you are.
 

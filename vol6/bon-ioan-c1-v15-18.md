@@ -4,11 +4,11 @@ volume: 6
 work: "ioannem"
 division: 1
 section: 5
-verses: "14-18"
+verses: "15-18"
 type: pericope
 paragraphs: "35-43"
-title_la: "De manifestatione Verbi incarnati in generali"
-title_en: "On the manifestation of the incarnate Word in general"
+title_la: "Primo, de manifestatione Verbi incarnati in generali"
+title_en: "First, on the manifestation of the incarnate Word in general"
 printed_pages: [254, 255, 256]
 pdf_pages: [296, 297, 298]
 source: "S. Bonaventurae, Opera Omnia, Tomus VI (Quaracchi, 1893), pp. 254–256"
@@ -18,8 +18,8 @@ transcription_status: "Phase C Tier 2 complete — Capitulum I, Vers. 14b-18 wit
 format_version: 1
 ---
 
-# Commentarius in Evangelium S. Ioannis — Cap. I, Vers. 14-18
-## *De manifestatione Verbi incarnati in generali*
+# Commentarius in Evangelium S. Ioannis — Cap. I, Vers. 15-18
+## *Primo, de manifestatione Verbi incarnati in generali*
 
 ---
 
@@ -159,7 +159,7 @@ In another way God is known *in himself;* and this in two ways: either *clearly*
 
 [^p254-9]: **La.** Vers. 5, in quo multi codd. *mentietur.* — Sequitur Isai. 58, 1. — Superius respicitur Luc. 1, 15: Et Spiritu sancto replebitur adhuc ex utero matris suae.
 
-     **En.** Verse 5, in which many codices read *mentietur* ("will lie"). — There follows Isa. 58:1. — Above, Luke 1:15 is in view: And he shall be filled with the Holy Ghost, even from his mother's womb.
+     **En.** Verse 5, in which many codices read *mentietur* ("will lie"). — There follows Isa. 58:1. — Above, Luke 1:15 is in view: And he shall be filled with the Holy Spirit, even from his mother's womb.
 
 [^p254-10]: **La.** Vers. 22. — Seq. locus est Ioan. 8, 58.
 
@@ -241,11 +241,11 @@ In another way God is known *in himself;* and this in two ways: either *clearly*
 
 ## Notes
 
-**THE FIFTH PERICOPE OF CAPITULUM I** (rulings 69, 73): the index's *Vers. 15-18* with its Quaestiones, pp. 254–256. Format reference `bon-ioan-c1-v9-14`. Frontmatter `division: 1`, `section: 5`, **`verses: "14-18"`**, `type: pericope`, **`paragraphs: "35-43"`**. Registry: nothing to add.
+**THE FIFTH PERICOPE OF CAPITULUM I** (rulings 69, 73): the index's *Vers. 15-18* with its Quaestiones, pp. 254–256. Format reference `bon-ioan-c1-v9-14`. Frontmatter `division: 1`, `section: 5`, **`verses: "15-18"`**, `type: pericope`, **`paragraphs: "35-43"`**. Registry: nothing to add.
 
-**⭐⭐ `verses: "14-18"` — CHOSEN FROM THE PLATE; THE ID STAYS THE INDEX'S (`c1-v15-18`, ruling 69). For Wilson at the p. 268 gate.** This is the first pericope that opens inside the previous one's verse. ¶ 35 opens on the lemma **`Et vidimus gloriam eius`**, the second half of 1:14, and its *Expositio litteralis* runs through *Gloriam quasi Unigeniti a Patre* and *plenum gratiae et veritatis*, all of 1:14b. The first `(Vers. N.)` marker in the chunk is **`(Vers. 15.)`**, inside ¶ 36 (p. 254 R). ¶ 35 cannot belong to `c1-v9-14`: it stands under this section's own italic heading, after that pericope's Quaestiones. The index's *Vers. 15-18* (p. 254) names the first verse that gets a `(Vers.)` marker. `verses:` records what the chunk actually expounds, so it reads `"14-18"`. `c1-v9-14` keeps `"9-14"`, which is also true, since its ¶ 29 expounds 1:14a. The two chunks therefore share verse 14, split at the half-verse. **Alternative, not taken:** `"15-18"` would follow the index and the first marker, but then a reader looking up John 1:14b would not find the chunk that expounds it. If Wilson prefers the index form, the change is one frontmatter line, and nothing in the body or apparatus depends on it.
+**⭐⭐ `verses: "15-18"` — RULED at the p. 268 gate (Wilson, 2026-10-21): conformed to the index label, per Eccl ruling 15 and Sap ruling 50 (a folded-in earlier verse is recorded in Notes and `transcription_status`, not in the label); the folded-in 1:14b stays in the chunk and is explained here. The id is the index's (`c1-v15-18`, ruling 69). The build had `"14-18"`, and the paragraph below records that build state.** This is the first pericope that opens inside the previous one's verse. ¶ 35 opens on the lemma **`Et vidimus gloriam eius`**, the second half of 1:14, and its *Expositio litteralis* runs through *Gloriam quasi Unigeniti a Patre* and *plenum gratiae et veritatis*, all of 1:14b. The first `(Vers. N.)` marker in the chunk is **`(Vers. 15.)`**, inside ¶ 36 (p. 254 R). ¶ 35 cannot belong to `c1-v9-14`: it stands under this section's own italic heading, after that pericope's Quaestiones. The index's *Vers. 15-18* (p. 254) names the first verse that gets a `(Vers.)` marker. `verses:` records what the chunk actually expounds, so it reads `"14-18"`. `c1-v9-14` keeps `"9-14"`, which is also true, since its ¶ 29 expounds 1:14a. The two chunks therefore share verse 14, split at the half-verse. **Alternative, not taken:** `"15-18"` would follow the index and the first marker, but then a reader looking up John 1:14b would not find the chunk that expounds it. If Wilson prefers the index form, the change is one frontmatter line, and nothing in the body or apparatus depends on it.
 
-**TITLE: from the subordinate heading (Sap ruling 36's "descend" step).** Two centred headings stand at the chunk's head: the italic **`Secundo, de ipsa incarnatione quoad eius manifestationem dupliciter.`**, and below ¶ 35's divisio the roman **`Primo, de manifestatione Verbi incarnati in generali.`**. The italic heading governs a run. Its *Secundo* half, *in speciali*, is the next chunk's heading (p. 256 L, `Secundo, de manifestatione Verbi incarnati in speciali dupliciter.`) and continues beyond it. The roman heading covers exactly this chunk. So, as with Sap ruling 36 (descend when the first heading governs a run) and `c1-v6-8`'s choice of its own heading over the PARS heading, the title is **`De manifestatione Verbi incarnati in generali`** / "On the manifestation of the incarnate Word in general", with the ordinal *Primo* dropped as `c1-v3-5` dropped *Secundo*. Both headings are transcribed in place, the italic one as an italic `####` and the roman one as a roman `####`, in both languages.
+**TITLE: from the subordinate heading (Sap ruling 36's "descend" step).** Two centred headings stand at the chunk's head: the italic **`Secundo, de ipsa incarnatione quoad eius manifestationem dupliciter.`**, and below ¶ 35's divisio the roman **`Primo, de manifestatione Verbi incarnati in generali.`**. The italic heading governs a run. Its *Secundo* half, *in speciali*, is the next chunk's heading (p. 256 L, `Secundo, de manifestatione Verbi incarnati in speciali dupliciter.`) and continues beyond it. The roman heading covers exactly this chunk. So, as with Sap ruling 36 (descend when the first heading governs a run) and `c1-v6-8`'s choice of its own heading over the PARS heading, the title is **`De manifestatione Verbi incarnati in generali`** / "On the manifestation of the incarnate Word in general", with the ordinal *Primo* dropped as `c1-v3-5` dropped *Secundo*. **RESTORED at the p. 268 gate (Wilson, 2026-10-21):** the title is `Primo, de manifestatione Verbi incarnati in generali` / "First, on the manifestation of the incarnate Word in general", as Eccl and Sap keep the ordinal; the two chunks' dropped ordinals were restored together. Both headings are transcribed in place, the italic one as an italic `####` and the roman one as a roman `####`, in both languages.
 
 **Provenance.** The Latin is set from the 450 dpi plates of pp. 254–256 (2067×2985) against the IA djvu raw (lines ~40634–40945). Body text was read as column crops at 0.9×, registers at 1.3×, and digits at 2–2.2×. The raw agrees with the plate in substance at every point checked. Its OCR noise (*Lexper*, *etvoHtas*, *Tnentielm*, *dnpliciter*) was corrected off the plate.
 

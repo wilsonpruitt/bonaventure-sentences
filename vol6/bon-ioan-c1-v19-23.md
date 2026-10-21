@@ -7,8 +7,8 @@ section: 6
 verses: "19-23"
 type: pericope
 paragraphs: "44-52"
-title_la: "De manifestatione per Ioannem"
-title_en: "On the manifestation through John"
+title_la: "Primo, de manifestatione per Ioannem"
+title_en: "First, on the manifestation through John"
 printed_pages: [256, 257, 258]
 pdf_pages: [298, 299, 300]
 source: "S. Bonaventurae, Opera Omnia, Tomus VI (Quaracchi, 1893), pp. 256–258"
@@ -19,7 +19,7 @@ format_version: 1
 ---
 
 # Commentarius in Evangelium S. Ioannis — Cap. I, Vers. 19-23
-## *De manifestatione per Ioannem*
+## *Primo, de manifestatione per Ioannem*
 
 ---
 
@@ -243,7 +243,7 @@ leaves the word remaining; so John leaves Christ; below in the third[^p258-1]: �
 
 **`verses: "19-23"` — index and plate agree.** The first `(Vers. N.)` marker is `(Vers. 19.)` at ¶ 45, and ¶ 44's lemma *Et hoc est testimonium Ioannis* is 1:19 itself. Unlike `c1-v15-18`, this pericope does not open inside the previous one's verse, so no half-verse question arises. The last marker is `(Vers. 23.)` at ¶ 49. ¶ 44 also points forward to 1:24, 1:29, 1:35 and 1:43 (the *ibi* pointers of the divisio); those verses are announced, not expounded, here.
 
-**⭐ TITLE: from the lowest heading, `Primo, de manifestatione per Ioannem.` — disclosed for the p. 268 gate.** Two centred headings stand at the chunk's head: the roman **`Secundo, de manifestatione Verbi incarnati / in speciali dupliciter.`** (it governs the whole *in speciali* section: through John, then through the Word himself from 1:43) and, below ¶ 44, the small roman **`Primo, de manifestatione per Ioannem.`** Neither covers exactly this chunk: the *Primo* heading governs John's three testimonies (Christ absent, 1:19–28; coming, 1:29 ff.; walking by, 1:35 ff.), so it runs over several pericopes, and ¶ 53 (*Et qui missi fuerant*, the next chunk) opens under it with no heading of its own (marginale *Secundo, testimonium de Christo.*). There is no lower printed heading in the chunk. Sap ruling 36's "descend" step was followed as far as the print allows: the title is the lowest heading the chunk carries, **`De manifestatione per Ioannem`** / "On the manifestation through John", with the ordinal dropped as `c1-v15-18` dropped *Primo*. ⚠ Consequence: the next chunk (`c1-v24-28`) has no heading of its own either and will have to title from something else (its marginale, or the same heading). That is a question for Wilson at the gate, not decided here. Both headings are transcribed in place as roman `####` in both languages.
+**⭐ TITLE: from the lowest heading, `Primo, de manifestatione per Ioannem.` — disclosed for the p. 268 gate.** Two centred headings stand at the chunk's head: the roman **`Secundo, de manifestatione Verbi incarnati / in speciali dupliciter.`** (it governs the whole *in speciali* section: through John, then through the Word himself from 1:43) and, below ¶ 44, the small roman **`Primo, de manifestatione per Ioannem.`** Neither covers exactly this chunk: the *Primo* heading governs John's three testimonies (Christ absent, 1:19–28; coming, 1:29 ff.; walking by, 1:35 ff.), so it runs over several pericopes, and ¶ 53 (*Et qui missi fuerant*, the next chunk) opens under it with no heading of its own (marginale *Secundo, testimonium de Christo.*). There is no lower printed heading in the chunk. Sap ruling 36's "descend" step was followed as far as the print allows: the title is the lowest heading the chunk carries, **`De manifestatione per Ioannem`** / "On the manifestation through John", with the ordinal dropped as `c1-v15-18` dropped *Primo*. **RESTORED at the p. 268 gate (Wilson, 2026-10-21):** the title is `Primo, de manifestatione per Ioannem` / "First, on the manifestation through John", as Eccl and Sap keep the ordinal. ⚠ Consequence: the next chunk (`c1-v24-28`) has no heading of its own either and will have to title from something else (its marginale, or the same heading). That is a question for Wilson at the gate, not decided here. Both headings are transcribed in place as roman `####` in both languages.
 
 **Provenance.** The Latin is set from the 450 dpi plates of pp. 256–258 (2067×2985) against the IA djvu raw (lines ~40941–41240). Body text was read as column crops at 0.8–0.9×, registers at 1.1–1.25×, and digits at 2–2.4×. The raw agrees with the plate in substance at every point checked. Its OCR noise (*tesSimonium*, *Piimo … pei* for the truncated heading, *QUAESHONES*, *30.* for ¶ 50, *bl.* for ¶ 51, *Quaest. 111.*, p. 256 n. 7 *Vers. 13.* for the plate's **15**) was corrected off the plate.
 
