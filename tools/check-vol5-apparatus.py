@@ -3673,6 +3673,12 @@ KNOWN_TOTALS_VOL6 = {
              # n.6 anchored RIGHT, printed LEFT, runs over the gutter. Gutter 1120.
     277: 12, # bon-ioan-c2-v18-25 (¶ 37 tail - QUAESTIONES ¶¶ 40-42). Anchors L 1-6 / R 7-12; blocks
              # match. p.278 (Capitulum III) opens its register numbered. Gutter 932.
+    278: 13, # bon-ioan-c3-v1-2 (¶¶ 1-6 head, QUAESTIONES from ¶ 4). Register opens numbered. Anchors
+             # L 1-7 / R 8-13; blocks L 1-7 head / R 7 tail + 8-13: n.7 runs over the gutter.
+             # Gutter 1096 (sound windows 1095-1097, runs 48-50 px; heading rows excluded).
+    279: 13, # bon-ioan-c3-v1-2 owns nn.1-5 (¶ 6 tail, closing at ~0.37 L on ...faciebat miracula.);
+             # nn.6-13 anchor in ¶ 7 (Respondit Iesus et dixit ei etc., no heading) and after: the
+             # next pericope (Vers. 3-). Anchors L 1-6 / R 7-13; blocks match. Gutter 920.
 }
 
 KNOWN_TOTALS_BY_VOL = {

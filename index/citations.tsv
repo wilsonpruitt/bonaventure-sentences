@@ -26010,6 +26010,12 @@ bon-ioan-c2-v18-25	6	apparatus:p277-7	p277-7	scripture	apparatus-explicit	Matth.
 bon-ioan-c2-v18-25	6	apparatus:p277-9	p277-9	scripture	anaphor->apparatus-explicit	loc. cit.	Matth 12:39	A	verse	yes	Matth. 12, 39
 bon-ioan-c2-v18-25	6	apparatus:p277-10	p277-10	crossref	page	supra pag. 151, nota 9	bon-sap-c6+bon-sap-c7		page-multi		
 bon-ioan-c2-v18-25	6	apparatus:p277-12	p277-12	crossref	logical	III. Sent. d. 3. p. II. a. 3.	bon-sent-III-d3-p2-a3-q1+bon-sent-III-d3-p2-a3-q2		articulus		
+bon-ioan-c3-v1-2	6	latin_body	p278-3	scripture	body-ordinal	ad Philippenses tertio	Phil 3:5	B	verse		
+bon-ioan-c3-v1-2	6	latin_body	p279-1	scripture	body-ordinal	Matthaei septimo	Matth 7:22	B	verse		
+bon-ioan-c3-v1-2	6	apparatus:p278-5	p278-5	scripture	apparatus-explicit	Psalm. 118, 62	Ps 118:62	A	verse		
+bon-ioan-c3-v1-2	6	apparatus:p278-7	p278-7	scripture	apparatus-explicit	Ioan. 2, 23	Ioan 2:23	A	verse		
+bon-ioan-c3-v1-2	6	apparatus:p278-11	p278-11	crossref	page	supra pag. 275, nota 11	bon-ioan-c2-v12-17		chunk		
+bon-ioan-c3-v1-2	6	apparatus:p279-4	p279-4	crossref	logical	II. Sent. d. 7. p. II. a. 2. q. 2.	bon-sent-II-d7-p2-a2-q2		chunk		
 bon-ioan-prol	6	latin_body		scripture	body-ordinal	Apocalypsis primo	Apoc 1	C	chapter		
 bon-ioan-prol	6	apparatus:p245-1	p245-1	crossref	page	supra pag. 243, nota 2	bon-ioan-prooem		chunk		
 bon-ioan-prol	6	apparatus:p245-2	p245-2	scripture	apparatus-explicit	Ioan. 1, 1	Ioan 1:1	A	verse		

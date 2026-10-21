@@ -764,6 +764,11 @@ const WORKS = {
       // with NO heading beneath it (ruling 79: the chunk is titled from the
       // divisio's first sentence). Unanchored.
       2: "Capitulum II",
+      // `CAPITULUM III.` read in place on p. 278 at bon-ioan-c3-v1-2: centred
+      // small capitals at the head of the leaf, under the running head, with
+      // NO heading beneath it (ruling 79(a)). The raw has NO line for it --
+      // only the running head `COMMENT. IN lOANNEM C. III.`. Unanchored.
+      3: "Capitulum III",
     },
   },
 };
