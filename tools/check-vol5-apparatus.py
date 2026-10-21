@@ -3668,6 +3668,11 @@ KNOWN_TOTALS_VOL6 = {
              # R 7 tail + 8-15: n.7 runs over the gutter. Gutter 1109.
     275: 13, # bon-ioan-c2-v12-17 (QUAESTIONES ¶¶ 26-31). Anchors L 1-6 / R 7-13; blocks match. n.13 runs
              # over the PAGE (last lines unnumbered, flush left, head of p. 276 L block). Gutter 905.
+    276: 11, # bon-ioan-c2-v18-25 (¶¶ 32-37). Register opens with p.275 n.13's unnumbered tail (not
+             # counted here). Anchors L 1-5 / R 6-11; blocks L runover + 1-6 head / R 6 tail + 7-11:
+             # n.6 anchored RIGHT, printed LEFT, runs over the gutter. Gutter 1120.
+    277: 12, # bon-ioan-c2-v18-25 (¶ 37 tail - QUAESTIONES ¶¶ 40-42). Anchors L 1-6 / R 7-12; blocks
+             # match. p.278 (Capitulum III) opens its register numbered. Gutter 932.
 }
 
 KNOWN_TOTALS_BY_VOL = {
