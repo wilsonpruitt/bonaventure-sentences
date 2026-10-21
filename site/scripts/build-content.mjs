@@ -775,6 +775,13 @@ const WORKS = {
       // Samaritanis.` set in the LEFT column beneath it (ruling 79(b): the chunk
       // is titled from that heading). Both unanchored.
       4: "Capitulum IV",
+      // `CAPITULUM V.` read in place on p. 303 at bon-ioan-c5-v1-9: full-measure
+      // centred small capitals MID-LEAF at ~0.34, below Cap. IV's last Quaestio,
+      // with TWO stacked small bold headings in the LEFT column: `Secundo, de
+      // manifestatione Verbi quoad conditiones a parte ipsius Verbi manifestati.`
+      // over ¶ 1 and `Primo, Filius Dei se manifestat curatorem.` over ¶ 2
+      // (ruling 79(b): the chunk is titled from the lowest). All unanchored.
+      5: "Capitulum V",
     },
   },
 };
