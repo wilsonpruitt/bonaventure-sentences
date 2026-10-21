@@ -3703,7 +3703,14 @@ KNOWN_TOTALS_VOL6 = {
     285: 9,  # p.285 carries only ¶ 38's tail for bon-ioan-c3-v17-21 (no anchors there) and the
              # flush-left tail of p.284 n.13; nn.1-9 anchor in ¶ 39 (Post haec venit Iesus etc.,
              # no heading) and after: the next pericope (Vers. 22-). Blocks L (runover) 1-2 / R 3-9.
-             # Gutter 920. nn.1-9 PENDING.
+             # Gutter 920.
+             # bon-ioan-c3-v22-26 owns nn.1-9 (¶¶ 39-45 head): anchors L 1-5 / R 6-9; nn.3-5
+             # print RIGHT but anchor LEFT. n.9 reads `pag. 286, nota 5` (raw `8`). All re-derived.
+    286: 14, # bon-ioan-c3-v22-26 owns nn.1-13 (QUAESTIONES ¶¶ 45 tail-48, closing at ~0.42 R on
+             # ...tamen dandi gratiam.); n.14 anchors in ¶ 49 (Respondit Ioannes et dixit., no
+             # heading): the next pericope (Vers. 27-). Anchors L 1-7 / R 8-14; blocks L 1-8 head /
+             # R 8 tail + 9-14: n.8 runs over the gutter (— Ed. legit: ...). Gutter 1126.
+             # n.14 PENDING.
 }
 
 KNOWN_TOTALS_BY_VOL = {
