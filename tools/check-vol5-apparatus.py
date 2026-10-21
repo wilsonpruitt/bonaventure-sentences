@@ -3764,8 +3764,13 @@ KNOWN_TOTALS_VOL6 = {
     305: 13, # bon-ioan-c5-v1-9 (¶¶ 13-16, Moraliter + QUAESTIONES): anchors L 1-9 / R 10-13;
              # blocks L 1-11 head / R 11 tail + 12-13 (n.11 runs over the gutter). Gutter 919.
     306: 12, # bon-ioan-c5-v1-9 owns nn.1-7 (¶¶ 16-18, Quaest. I close - IV), closing ~0.38 L;
-             # nn.8-12 anchor in ¶ 19 ff. and are PENDING for Cap. V's second pericope.
-             # Anchors L 1-8 / R 9-12; blocks L 1-6 / R 7-12. Gutter 1110 for the region above ¶ 19.
+             # nn.8-12 anchor in ¶ 19 ff. and are bon-ioan-c5-v10-18's (¶¶ 19-24): n.8 L, nn.9-12 R.
+             # Anchors L 1-8 / R 9-12; blocks L 1-6 / R 7-12. Gutter 1110 above ¶ 19 and below it.
+    307: 11, # bon-ioan-c5-v10-18 (¶¶ 24-31, QUAESTIONES): anchors L 1-6 / R 7-11; blocks L 1-5 / R 6-11.
+             # No runover. Gutter 922.
+    308: 12, # bon-ioan-c5-v10-18 owns nn.1-11 (¶¶ 31-34, Quaest. I - IV), closing ~0.56 R; n.12 anchors
+             # in ¶ 35 (ibi, 5:24) and is PENDING for Cap. V's third pericope. Anchors L 1-6 / R 7-12;
+             # blocks L 1-4 / R 5-12. No runover. Gutter 1112 for the region above ¶ 35.
 }
 
 KNOWN_TOTALS_BY_VOL = {

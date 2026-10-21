@@ -26356,6 +26356,28 @@ bon-ioan-c5-v1-9	6	apparatus:p305-11	p305-11	scripture	anaphor->apparatus-explic
 bon-ioan-c5-v1-9	6	apparatus:p306-2	p306-2	crossref	page	tom. IV. pag. 960, nota 5	bon-sent-IV-d46-a1-q2+bon-sent-IV-d46-a1-q3		page-multi		
 bon-ioan-c5-v1-9	6	apparatus:p306-4	p306-4	scripture	anaphor->body-ordinal	ibid. v. 26	Matth 9:26	B	verse	yes	body: Matthaei nono
 bon-ioan-c5-v1-9	6	apparatus:p306-6	p306-6	crossref	relative-bare	ibid. 11, 4			unresolvable		
+bon-ioan-c5-v10-18	6	latin_body		scripture	body-ordinal	Levitici vigesimo tertio	Lev 23	C	chapter		
+bon-ioan-c5-v10-18	6	latin_body	p306-10	scripture	body-ordinal	Matthaei nono	Matth 9:6	B	verse		
+bon-ioan-c5-v10-18	6	latin_body	p306-11	scripture	body-ordinal	Proverbiorum undecimo	Prov 11:27	B	verse		
+bon-ioan-c5-v10-18	6	latin_body	p307-3	scripture	body-ordinal	Matthaei nono	Matth 9:24	B	verse		
+bon-ioan-c5-v10-18	6	latin_body		scripture	body-ordinal	Lucae undecimo	Luc 11	C	chapter		
+bon-ioan-c5-v10-18	6	latin_body		scripture	body-ordinal	Lucae sexto	Luc 6	C	chapter		
+bon-ioan-c5-v10-18	6	latin_body	p307-7	scripture	body-ordinal	Matthaei duodecimo	Matth 12:8	B	verse		
+bon-ioan-c5-v10-18	6	latin_body	p308-4	scripture	body-ordinal	Lucae decimo quarto	Luc 14:2	B	verse		
+bon-ioan-c5-v10-18	6	latin_body	p308-9	scripture	body-ordinal	Genesis secundo	Gen 2:2	B	verse		
+bon-ioan-c5-v10-18	6	apparatus:p306-9	p306-9	scripture	apparatus-explicit	Lev. 23, 8	Lev 23:8	A	verse		
+bon-ioan-c5-v10-18	6	apparatus:p306-12	p306-12	scripture	apparatus-explicit	Psalm. 63, 7	Ps 63:7	A	verse		
+bon-ioan-c5-v10-18	6	apparatus:p306-12	p306-12	scripture	apparatus-explicit	Ioan. 7, 36	Ioan 7:36	A	verse		
+bon-ioan-c5-v10-18	6	apparatus:p307-4	p307-4	crossref	page	supra pag. 306, nota 7	bon-ioan-c5-v1-9+bon-ioan-c5-v10-18		page-multi		
+bon-ioan-c5-v10-18	6	apparatus:p307-4	p307-4	scripture	apparatus-explicit	Luc. 11, 26	Luc 11:26	A	verse		
+bon-ioan-c5-v10-18	6	apparatus:p307-6	p307-6	scripture	apparatus-explicit	Luc. 6, 7	Luc 6:7	A	verse		
+bon-ioan-c5-v10-18	6	apparatus:p307-10	p307-10	crossref	logical	I. Sent. d. 47. q. 4.	bon-sent-I-d47-a1-q4		chunk		
+bon-ioan-c5-v10-18	6	apparatus:p308-1	p308-1	crossref	logical	III. Sent. d. 37. dub. 3.	bon-sent-III-d37-dubia		chunk		
+bon-ioan-c5-v10-18	6	apparatus:p308-2	p308-2	crossref	logical	III. Sent. d. 37. a. 2. q. 1.	bon-sent-III-d37-a2-q1		chunk		
+bon-ioan-c5-v10-18	6	apparatus:p308-3	p308-3	scripture	apparatus-explicit	Rom. 13, 8	Rom 13:8	A	verse		
+bon-ioan-c5-v10-18	6	apparatus:p308-6	p308-6	scripture	apparatus-explicit	Ioan. 9, 6	Ioan 9:6	A	verse		
+bon-ioan-c5-v10-18	6	apparatus:p308-11	p308-11	scripture	anaphor->apparatus-explicit	ibid.	Ioan 9:6	A	verse	yes	Ioan. 9, 6
+bon-ioan-c5-v10-18	6	apparatus:p308-11	p308-11	crossref	work	Breviloq. p. II. c. 2.	bon-brev-p2-c2		chunk		
 bon-ioan-prol	6	latin_body		scripture	body-ordinal	Apocalypsis primo	Apoc 1	C	chapter		
 bon-ioan-prol	6	apparatus:p245-1	p245-1	crossref	page	supra pag. 243, nota 2	bon-ioan-prooem		chunk		
 bon-ioan-prol	6	apparatus:p245-2	p245-2	scripture	apparatus-explicit	Ioan. 1, 1	Ioan 1:1	A	verse		
