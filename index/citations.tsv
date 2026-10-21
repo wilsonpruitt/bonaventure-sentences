@@ -26168,6 +26168,34 @@ bon-ioan-c4-v1-6	6	apparatus:p291-5	p291-5	crossref	logical	IV. Sent. d. 48. a. 
 bon-ioan-c4-v1-6	6	apparatus:p291-6	p291-6	crossref	logical	III. Sent. d. 14. a. 3. q. 2.	bon-sent-III-d14-a3-q2		chunk		
 bon-ioan-c4-v1-6	6	apparatus:p291-8	p291-8	scripture	apparatus-explicit	Matth. 15, 12	Matth 15:12	A	verse		
 bon-ioan-c4-v1-6	6	apparatus:p291-10	p291-10	scripture	apparatus-explicit	Matth. 7, 29	Matth 7:29	A	verse		
+bon-ioan-c4-v7-14	6	latin_body		scripture	body-ordinal	Lucae nono	Luc 9	C	chapter		
+bon-ioan-c4-v7-14	6	latin_body	p292-4	scripture	body-ordinal	Genesis quadragesimo tertio	Gen 43:32	B	verse		
+bon-ioan-c4-v7-14	6	latin_body	p292-5	scripture	body-ordinal	Actuum secundo	Act 2:38	B	verse		
+bon-ioan-c4-v7-14	6	latin_body		scripture	body-ordinal	Actuum octavo	Act 8	C	chapter		
+bon-ioan-c4-v7-14	6	latin_body	p292-7	scripture	body-ordinal	Matthaei septimo	Matth 7:8	B	verse		
+bon-ioan-c4-v7-14	6	latin_body		scripture	body-ordinal	Habacuc secundo	Habac 2	C	chapter		
+bon-ioan-c4-v7-14	6	latin_body		scripture	body-ordinal	Genesis vigesimo nono	Gen 29	C	chapter		
+bon-ioan-c4-v7-14	6	latin_body	p292-9	scripture	body-ordinal	Genesis vigesimo nono	Gen 29:11	B	verse		
+bon-ioan-c4-v7-14	6	latin_body		scripture	body-ordinal	Isaiae quinquagesimo quinto	Isai 55	C	chapter		
+bon-ioan-c4-v7-14	6	latin_body	p293-1	scripture	body-ordinal	Matthaei decimo	Matth 10:5	B	verse		
+bon-ioan-c4-v7-14	6	latin_body		scripture	body-ordinal	Matthaei decimo quinto	Matth 15	C	chapter		
+bon-ioan-c4-v7-14	6	latin_body	p293-4	scripture	body-ordinal	Matthaei decimo	Matth 10:9	B	verse		
+bon-ioan-c4-v7-14	6	latin_body	p293-8	scripture	body-ordinal	Ecclesiastici vigesimo quarto	Eccli 24:29	B	verse		
+bon-ioan-c4-v7-14	6	apparatus:p291-15	p291-15	crossref	work	Breviloq. p. V. c. 2.	bon-brev-p5-c2		chunk		
+bon-ioan-c4-v7-14	6	apparatus:p292-2	p292-2	scripture	apparatus-explicit	Luc. 9, 52	Luc 9:52	A	verse		
+bon-ioan-c4-v7-14	6	apparatus:p292-5	p292-5	scripture	anaphor->body-ordinal	ibid. 8, 20	Act 8:20	B	verse	yes	body: Actuum secundo
+bon-ioan-c4-v7-14	6	apparatus:p292-7	p292-7	scripture	apparatus-explicit	Habac. 2, 4	Habac 2:4	A	verse		
+bon-ioan-c4-v7-14	6	apparatus:p292-7	p292-7	scripture	apparatus-explicit	Hebr. 10, 38	Hebr 10:38	A	verse		
+bon-ioan-c4-v7-14	6	apparatus:p292-8	p292-8	scripture	apparatus-explicit	Gen. 29, 1	Gen 29:1	A	verse		
+bon-ioan-c4-v7-14	6	apparatus:p292-11	p292-11	scripture	apparatus-explicit	Psalm. 35, 10	Ps 35:10	A	verse		
+bon-ioan-c4-v7-14	6	apparatus:p292-11	p292-11	scripture	apparatus-explicit	Ps. 35, 9	Ps 35:9	A	verse		
+bon-ioan-c4-v7-14	6	apparatus:p292-11	p292-11	scripture	apparatus-explicit	Isai. 55, 1	Isai 55:1	A	verse		
+bon-ioan-c4-v7-14	6	apparatus:p293-1	p293-1	scripture	anaphor->body-ordinal	ibid. 15, 24	Matth 15:24	B	verse	yes	body: Matthaei decimo
+bon-ioan-c4-v7-14	6	apparatus:p293-2	p293-2	scripture	apparatus-explicit	I. Tim. 2, 4	1Tim 2:4	A	verse		
+bon-ioan-c4-v7-14	6	apparatus:p293-3	p293-3	scripture	apparatus-explicit	Matth. 15, 11	Matth 15:11	A	verse		
+bon-ioan-c4-v7-14	6	apparatus:p293-5	p293-5	scripture	apparatus-explicit	Act. 10, 14	Act 10:14	A	verse		
+bon-ioan-c4-v7-14	6	apparatus:p293-6	p293-6	scripture	apparatus-explicit	IV. Reg. 17, 24	4Reg 17:24	A	verse		
+bon-ioan-c4-v7-14	6	apparatus:p293-10	p293-10	crossref	page	supra pag. 52, nota 2	bon-eccl-c6-v1-7+bon-eccl-c6-v8-11		page-multi		
 bon-ioan-prol	6	latin_body		scripture	body-ordinal	Apocalypsis primo	Apoc 1	C	chapter		
 bon-ioan-prol	6	apparatus:p245-1	p245-1	crossref	page	supra pag. 243, nota 2	bon-ioan-prooem		chunk		
 bon-ioan-prol	6	apparatus:p245-2	p245-2	scripture	apparatus-explicit	Ioan. 1, 1	Ioan 1:1	A	verse		

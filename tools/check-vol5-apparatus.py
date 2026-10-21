@@ -3728,7 +3728,13 @@ KNOWN_TOTALS_VOL6 = {
              # ...et fons et puteus dicitur.); nn.13-15 anchor in ¶ 14 (Venit mulier de Samaria.,
              # no heading): the next pericope (Vers. 7-). Anchors L 1-7 / R 8-15; blocks L 1-8
              # head / R 8 tail + 9-15: n.8 runs over the gutter (Regulis iuris...). Gutter 907.
-             # nn.13-15 PENDING.
+             # bon-ioan-c4-v7-14 owns nn.13-15 (¶ 14: praedicandi13, ibi14, Deo15, all RIGHT,
+             # printed last in the RIGHT block). Gutter 903 for the ¶ 14 region. Re-derived.
+    292: 11, # bon-ioan-c4-v7-14 (¶¶ 14-22): anchors L 1-5 / R 6-11; blocks L 1-6 head / R 6 tail
+             # + 7-11: n.6 runs over the gutter (tando est dictum...). Gutter 1137.
+    293: 10, # bon-ioan-c4-v7-14 owns ALL TEN (¶¶ 22-27, QUAESTIONES): anchors L 1-3 / R 4-10;
+             # blocks L 1-6 / R 7-10. ¶ 28 (Dicit ad eum mulier etc., no heading) opens at the
+             # foot of the RIGHT column with NO anchor: the next pericope inherits nothing. Gutter 920.
 }
 
 KNOWN_TOTALS_BY_VOL = {
