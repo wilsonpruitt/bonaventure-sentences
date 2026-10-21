@@ -3752,7 +3752,14 @@ KNOWN_TOTALS_VOL6 = {
              # Gutter 920 (~6 px skew).
     300: 10, # bon-ioan-c4-v28-42 owns nn.1-2 (¶ 68, Quaest. VI obj. 3 + Respondeo, closing ~0.28 L);
              # nn.3-10 anchor below the heading Quarta manifestatio, quae facta est Galilaeis. (¶ 69 ff.)
-             # and are PENDING for the next pericope (Vers. 43-54). Gutter 1117 for the region above.
+             # and are bon-ioan-c4-v43-54's (¶¶ 69-75): anchors L 3 / R 4-10; blocks L 1-6 / R 7-10.
+             # Gutter 1117 for the region above, 1123 below.
+    301: 16, # bon-ioan-c4-v43-54 (¶¶ 75-83): anchors L 1-8 / R 9-16; blocks L 1-6 / R 7-16. No runover.
+    302: 13, # bon-ioan-c4-v43-54 (¶¶ 83-84, Moraliter + QUAESTIONES): anchors L 1-7 / R 8-13;
+             # blocks L 1-10 / R 11-13. No runover.
+    303: 11, # bon-ioan-c4-v43-54 owns nn.1-6 (¶¶ 84-86, Quaest. I ad 2 - III): anchors L 1-3 / R 4-6;
+             # nn.7-11 anchor below CAPITULUM V. (~0.34) and are PENDING for Cap. V's first pericope.
+             # Blocks L 1-4 / R 5-11. Gutter 909 for the region above the heading.
 }
 
 KNOWN_TOTALS_BY_VOL = {
