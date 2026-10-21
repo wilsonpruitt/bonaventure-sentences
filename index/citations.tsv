@@ -26016,6 +26016,19 @@ bon-ioan-c3-v1-2	6	apparatus:p278-5	p278-5	scripture	apparatus-explicit	Psalm. 1
 bon-ioan-c3-v1-2	6	apparatus:p278-7	p278-7	scripture	apparatus-explicit	Ioan. 2, 23	Ioan 2:23	A	verse		
 bon-ioan-c3-v1-2	6	apparatus:p278-11	p278-11	crossref	page	supra pag. 275, nota 11	bon-ioan-c2-v12-17		chunk		
 bon-ioan-c3-v1-2	6	apparatus:p279-4	p279-4	crossref	logical	II. Sent. d. 7. p. II. a. 2. q. 2.	bon-sent-II-d7-p2-a2-q2		chunk		
+bon-ioan-c3-v13-16	6	latin_body	p282-3	scripture	body-ordinal	ad Ephesios quarto	Eph 4:10	B	verse		
+bon-ioan-c3-v13-16	6	latin_body	p282-4	scripture	body-ordinal	Numerorum vigesimo primo	Num 21:9	B	verse		
+bon-ioan-c3-v13-16	6	latin_body	p282-6	scripture	body-ordinal	ad Ephesios secundo	Eph 2:4	B	verse		
+bon-ioan-c3-v13-16	6	latin_body	p282-7	scripture	body-ordinal	ad Romanos octavo	Rom 8:32	B	verse		
+bon-ioan-c3-v13-16	6	latin_body	p282-9	scripture	body-ordinal	ad Hebraeos undecimo	Hebr 11:6	B	verse		
+bon-ioan-c3-v13-16	6	apparatus:p282-3	p282-3	scripture	apparatus-explicit	Ioan. 1, 18	Ioan 1:18	A	verse		
+bon-ioan-c3-v13-16	6	apparatus:p282-3	p282-3	crossref	logical	III. Sent. d. 22. dub. 4.	bon-sent-III-d22-dubia		chunk		
+bon-ioan-c3-v13-16	6	apparatus:p282-5	p282-5	scripture	apparatus-explicit	Ioan. 11, 25	Ioan 11:25	A	verse		
+bon-ioan-c3-v13-16	6	apparatus:p282-8	p282-8	crossref	relative	ibid. d. 19. a. 1. q. 2.			unresolvable		
+bon-ioan-c3-v13-16	6	apparatus:p283-2	p283-2	scripture	apparatus-explicit	Eph. 2, 6	Eph 2:6	A	verse		
+bon-ioan-c3-v13-16	6	apparatus:p283-3	p283-3	crossref	logical	III. Sent. d. 22. dub. 4.	bon-sent-III-d22-dubia		chunk		
+bon-ioan-c3-v13-16	6	apparatus:p283-7	p283-7	crossref	anaphor->logical	loc. cit.	bon-sent-III-d22-dubia		chunk	yes	III. Sent. d. 22. dub. 4.
+bon-ioan-c3-v13-16	6	apparatus:p283-8	p283-8	scripture	apparatus-explicit	Matth. 10, 22	Matth 10:22	A	verse		
 bon-ioan-c3-v3-12	6	latin_body	p279-8	scripture	body-ordinal	Ioannis decimo sexto	Ioan 16:21	B	verse		
 bon-ioan-c3-v3-12	6	latin_body	p279-9	scripture	body-ordinal	ad Ephesios secundo	Eph 2:3	B	verse		
 bon-ioan-c3-v3-12	6	latin_body		scripture	body-ordinal	Iob tertio	Iob 3	C	chapter		

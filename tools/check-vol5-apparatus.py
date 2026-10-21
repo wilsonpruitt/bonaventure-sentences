@@ -3688,6 +3688,12 @@ KNOWN_TOTALS_VOL6 = {
     282: 9,  # bon-ioan-c3-v3-12 owns nn.1-2 (¶ 22 tail, Quaest. V reply, LEFT); nn.3-9 anchor in
              # ¶ 23 (Et nemo ascendit in caelum, no heading) and after: the next pericope (Vers. 13-).
              # Blocks L 1-3 / R 4-9. Gutter 1135.
+             # bon-ioan-c3-v13-16 owns nn.3-9 (¶¶ 23-27 head): anchors L 3-5 / R 6-9; nn.4-5
+             # print RIGHT but anchor LEFT. All re-derived.
+    283: 10, # bon-ioan-c3-v13-16 owns nn.1-8 (QUAESTIONES ¶¶ 27 tail-29, closing at ~0.18 R on
+             # ...omnis talis salvabitur.); nn.9-10 anchor in ¶¶ 30-31 (Non enim misit Deus., no
+             # heading): the next pericope (Vers. 17-). Anchors L 1-7 / R 8-10; blocks L 1-4 head /
+             # R 4 tail + 5-10: n.4 runs over the gutter. Gutter 922.
 }
 
 KNOWN_TOTALS_BY_VOL = {
