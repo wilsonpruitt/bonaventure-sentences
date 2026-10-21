@@ -3735,6 +3735,14 @@ KNOWN_TOTALS_VOL6 = {
     293: 10, # bon-ioan-c4-v7-14 owns ALL TEN (¶¶ 22-27, QUAESTIONES): anchors L 1-3 / R 4-10;
              # blocks L 1-6 / R 7-10. ¶ 28 (Dicit ad eum mulier etc., no heading) opens at the
              # foot of the RIGHT column with NO anchor: the next pericope inherits nothing. Gutter 920.
+    294: 12, # bon-ioan-c4-v15-27 (¶¶ 28-33): anchors L 1-3 / R 4-12; blocks L 1-3 head / R 3 tail
+             # + 4-12: n.3 runs over the gutter (tione manifeste est realis antithesis...). Gutter 1121.
+    295: 12, # bon-ioan-c4-v15-27 (¶¶ 33-40): anchors L 1-8 / R 9-12; blocks L 1-4 head / R 4 tail
+             # + 5-12: n.4 runs over the gutter (allegat Deut. 27, 12...). Gutter 910.
+    296: 13, # bon-ioan-c4-v15-27 owns nn.1-12 (¶¶ 41-46, QUAESTIONES): anchors L 1-4 / R 5-12;
+             # blocks L 1-9 head / R 9 tail + 10-13: n.9 runs over the gutter (interlinearis...).
+             # n.13 is anchored in ¶ 47 (Reliquit ergo hydriam suam etc., no heading; Christi ad13
+             # suscipiendum, RIGHT) and is PENDING for the next pericope (Vers. 28-42). Gutter 1125.
 }
 
 KNOWN_TOTALS_BY_VOL = {

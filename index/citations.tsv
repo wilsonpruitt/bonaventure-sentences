@@ -26168,6 +26168,47 @@ bon-ioan-c4-v1-6	6	apparatus:p291-5	p291-5	crossref	logical	IV. Sent. d. 48. a. 
 bon-ioan-c4-v1-6	6	apparatus:p291-6	p291-6	crossref	logical	III. Sent. d. 14. a. 3. q. 2.	bon-sent-III-d14-a3-q2		chunk		
 bon-ioan-c4-v1-6	6	apparatus:p291-8	p291-8	scripture	apparatus-explicit	Matth. 15, 12	Matth 15:12	A	verse		
 bon-ioan-c4-v1-6	6	apparatus:p291-10	p291-10	scripture	apparatus-explicit	Matth. 7, 29	Matth 7:29	A	verse		
+bon-ioan-c4-v15-27	6	latin_body		scripture	body-ordinal	Matthaei undecimo	Matth 11	C	chapter		
+bon-ioan-c4-v15-27	6	latin_body	p294-4	scripture	body-ordinal	ad Corinthios undecimo	Cor* 11:22	B	verse		
+bon-ioan-c4-v15-27	6	latin_body	p294-5	scripture	body-ordinal	ad Corinthios undecimo	Cor* 11:7	B	verse		
+bon-ioan-c4-v15-27	6	latin_body	p294-7	scripture	body-ordinal	ad Timotheum secundo	Tim* 2:22	B	verse		
+bon-ioan-c4-v15-27	6	latin_body		scripture	body-ordinal	Lucae decimo quarto	Luc 14	C	chapter		
+bon-ioan-c4-v15-27	6	latin_body		scripture	body-ordinal	Isaiae vigesimo secundo	Isai 22	C	chapter		
+bon-ioan-c4-v15-27	6	latin_body	p294-9	scripture	body-ordinal	Sapientiae secundo	Sap 2:8	B	verse		
+bon-ioan-c4-v15-27	6	latin_body	p294-10	scripture	body-ordinal	Sapientiae secundo	Sap 2:7	B	verse		
+bon-ioan-c4-v15-27	6	latin_body	p294-11	scripture	body-ordinal	Ecclesiastici decimo quarto	Eccli 14:9	B	verse		
+bon-ioan-c4-v15-27	6	latin_body	p294-12	scripture	body-ordinal	Actuum decimo septimo	Act 17:21	B	verse		
+bon-ioan-c4-v15-27	6	latin_body	p295-5	scripture	body-ordinal	Deuteronomii duodecimo	Deut 12:13	B	verse		
+bon-ioan-c4-v15-27	6	latin_body	p295-7	scripture	body-ordinal	ad Romanos decimo tertio	Rom 13:11	B	verse		
+bon-ioan-c4-v15-27	6	latin_body		scripture	body-ordinal	ad Timotheum secundo	Tim* 2	C	chapter		
+bon-ioan-c4-v15-27	6	latin_body	p295-8	scripture	body-ordinal	Regum decimo septimo	Reg* 17:33	B	verse		
+bon-ioan-c4-v15-27	6	latin_body		scripture	body-ordinal	ad Galatas tertio	Gal 3	C	chapter		
+bon-ioan-c4-v15-27	6	latin_body	p295-9	scripture	body-ordinal	ad Corinthios tertio	Cor* 3:18	B	verse		
+bon-ioan-c4-v15-27	6	latin_body	p295-10	scripture	body-ordinal	Isaiae quadragesimo	Isai 40:18	B	verse		
+bon-ioan-c4-v15-27	6	latin_body		scripture	body-ordinal	ad Romanos octavo	Rom 8	C	chapter		
+bon-ioan-c4-v15-27	6	latin_body		scripture	body-ordinal	Sapientiae primo	Sap 1	C	chapter		
+bon-ioan-c4-v15-27	6	latin_body	p295-12	scripture	body-ordinal	Genesis quadragesimo nono	Gen 49:10	B	verse		
+bon-ioan-c4-v15-27	6	apparatus:p294-2	p294-2	scripture	apparatus-explicit	Luc. 14, 23	Luc 14:23	A	verse		
+bon-ioan-c4-v15-27	6	apparatus:p294-2	p294-2	scripture	apparatus-explicit	Matth. 11, 28	Matth 11:28	A	verse		
+bon-ioan-c4-v15-27	6	apparatus:p294-5	p294-5	crossref	logical	II. Sent. d. 16. a. 2. q. 2.	bon-sent-II-d16-a2-q2		chunk		
+bon-ioan-c4-v15-27	6	apparatus:p294-5	p294-5	crossref	relative-inherited	ibid.	bon-sent-II-d16-a2-q2		chunk		
+bon-ioan-c4-v15-27	6	apparatus:p294-7	p294-7	scripture	apparatus-explicit	Luc. 14, 19	Luc 14:19	A	verse		
+bon-ioan-c4-v15-27	6	apparatus:p294-7	p294-7	scripture	apparatus-explicit	II. Tim. 2	2Tim 2	C	chapter		
+bon-ioan-c4-v15-27	6	apparatus:p294-8	p294-8	scripture	apparatus-explicit	Isai. 22, 13	Isai 22:13	A	verse		
+bon-ioan-c4-v15-27	6	apparatus:p294-12	p294-12	crossref	page	supra pag. 16, nota 1	bon-eccl-c1-v8-11		chunk		
+bon-ioan-c4-v15-27	6	apparatus:p295-1	p295-1	scripture	apparatus-explicit	Psalm. 31, 9	Ps 31:9	A	verse		
+bon-ioan-c4-v15-27	6	apparatus:p295-1	p295-1	scripture	anaphor->apparatus-explicit	ibid.	Ps 31:9	A	verse	yes	Psalm. 31, 9
+bon-ioan-c4-v15-27	6	apparatus:p295-4	p295-4	scripture	apparatus-explicit	Gen. 33, 18	Gen 33:18	A	verse		
+bon-ioan-c4-v15-27	6	apparatus:p295-4	p295-4	scripture	apparatus-explicit	Deut. 27, 12	Deut 27:12	A	verse		
+bon-ioan-c4-v15-27	6	apparatus:p295-7	p295-7	scripture	apparatus-explicit	I. Tim. 2, 8	1Tim 2:8	A	verse		
+bon-ioan-c4-v15-27	6	apparatus:p295-8	p295-8	scripture	apparatus-explicit	Gal. 3, 16	Gal 3:16	A	verse		
+bon-ioan-c4-v15-27	6	apparatus:p295-10	p295-10	scripture	apparatus-explicit	Rom. 8, 8	Rom 8:8	A	verse		
+bon-ioan-c4-v15-27	6	apparatus:p295-10	p295-10	scripture	apparatus-explicit	Sap. 1, 5	Sap 1:5	A	verse		
+bon-ioan-c4-v15-27	6	apparatus:p296-5	p296-5	scripture	apparatus-explicit	Psalm. 67, 26	Ps 67:26	A	verse		
+bon-ioan-c4-v15-27	6	apparatus:p296-6	p296-6	crossref	logical	III. Sent. d. 9. a. 1. q. 2.	bon-sent-III-d9-a1-q2		chunk		
+bon-ioan-c4-v15-27	6	apparatus:p296-9	p296-9	scripture	apparatus-explicit	Rom. 2, 28	Rom 2:28	A	verse		
+bon-ioan-c4-v15-27	6	apparatus:p296-9	p296-9	scripture	anaphor->apparatus-explicit	ibid.	Rom 2:28	A	verse	yes	Rom. 2, 28
+bon-ioan-c4-v15-27	6	apparatus:p296-10	p296-10	scripture	apparatus-explicit	Rom. 9, 28	Rom 9:28	A	verse		
 bon-ioan-c4-v7-14	6	latin_body		scripture	body-ordinal	Lucae nono	Luc 9	C	chapter		
 bon-ioan-c4-v7-14	6	latin_body	p292-4	scripture	body-ordinal	Genesis quadragesimo tertio	Gen 43:32	B	verse		
 bon-ioan-c4-v7-14	6	latin_body	p292-5	scripture	body-ordinal	Actuum secundo	Act 2:38	B	verse		
