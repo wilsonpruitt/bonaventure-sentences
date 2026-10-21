@@ -25893,6 +25893,60 @@ bon-ioan-c1-v9-14	6	apparatus:p253-13	p253-13	crossref	work	Breviloq. p. IV. c. 
 bon-ioan-c1-v9-14	6	apparatus:p254-1	p254-1	crossref	logical	I. Sent. d. 27. p. II. q. 4.	bon-sent-I-d27-p2-a1-q4		chunk		
 bon-ioan-c1-v9-14	6	apparatus:p254-2	p254-2	crossref	page	supra pag. 185, nota 7	bon-sap-c12		chunk		
 bon-ioan-c1-v9-14	6	apparatus:p254-3	p254-3	crossref	logical	III. Sent. d. 2. a. 2. q. 2.	bon-sent-III-d2-a2-q2		chunk		
+bon-ioan-c2-v1-11	6	latin_body	p269-5	scripture	body-ordinal	Lucae primo	Luc 1:39	B	verse		
+bon-ioan-c2-v1-11	6	latin_body		scripture	body-ordinal	Lucae decimo quarto	Luc 14	C	chapter		
+bon-ioan-c2-v1-11	6	latin_body		scripture	body-ordinal	ad Corinthios octavo	Cor* 8	C	chapter		
+bon-ioan-c2-v1-11	6	latin_body	p269-10	scripture	body-ordinal	Lucae secundo	Luc 2:51	B	verse		
+bon-ioan-c2-v1-11	6	latin_body	p269-11	scripture	body-ordinal	Regum quinto	Reg* 5:13	B	verse		
+bon-ioan-c2-v1-11	6	latin_body	p269-13	scripture	body-ordinal	Genesis vigesimo quarto	Gen 24:17	B	verse		
+bon-ioan-c2-v1-11	6	latin_body	p270-1	scripture	body-ordinal	Marci septimo	Marc 7:4	B	verse		
+bon-ioan-c2-v1-11	6	latin_body	p270-3	scripture	body-ordinal	Genesis primo	Gen 1:31	B	verse		
+bon-ioan-c2-v1-11	6	latin_body		scripture	body-ordinal	Deuteronomii trigesimo secundo	Deut 32	C	chapter		
+bon-ioan-c2-v1-11	6	latin_body	p270-7	scripture	body-ordinal	ad Ephesios quinto	Eph 5:18	B	verse		
+bon-ioan-c2-v1-11	6	latin_body	p270-10	scripture	body-ordinal	Matthaei vigesimo secundo	Matth 22:2	B	verse		
+bon-ioan-c2-v1-11	6	latin_body	p270-11	scripture	body-ordinal	ad Hebraeos decimo	Hebr 10:1	B	verse		
+bon-ioan-c2-v1-11	6	latin_body		scripture	body-ordinal	ad Hebraeos decimo	Hebr 10	C	chapter		
+bon-ioan-c2-v1-11	6	latin_body	p270-12	scripture	body-ordinal	Actuum decimo quinto	Act 15:10	B	verse		
+bon-ioan-c2-v1-11	6	latin_body		scripture	body-ordinal	ad Corinthios tertio	Cor* 3	C	chapter		
+bon-ioan-c2-v1-11	6	latin_body	p270-13	scripture	body-ordinal	ad Romanos octavo	Rom 8:15	B	verse		
+bon-ioan-c2-v1-11	6	latin_body	p271-1	scripture	body-ordinal	Lucae primo	Luc 1:68	B	verse		
+bon-ioan-c2-v1-11	6	latin_body		scripture	body-ordinal	Lucae primo	Luc 1	C	chapter		
+bon-ioan-c2-v1-11	6	latin_body	p271-2	scripture	body-ordinal	Osee secundo	Osee 2:20	B	verse		
+bon-ioan-c2-v1-11	6	latin_body	p271-3	scripture	body-ordinal	Apocalypsis tertio	Apoc 3:20	B	verse		
+bon-ioan-c2-v1-11	6	latin_body		scripture	body-ordinal	Matthaei nono	Matth 9	C	chapter		
+bon-ioan-c2-v1-11	6	latin_body	p271-5	scripture	body-ordinal	Exodi decimo quinto	Exod 15:25	B	verse		
+bon-ioan-c2-v1-11	6	latin_body	p271-7	scripture	body-ordinal	Tobiae quinto	Tob 5:12	B	verse		
+bon-ioan-c2-v1-11	6	latin_body	p271-8	scripture	body-ordinal	ad Corinthios undecimo	Cor* 11:3	B	verse		
+bon-ioan-c2-v1-11	6	latin_body	p271-9	scripture	body-ordinal	Ieremiae secundo	Ierem 2:19	B	verse		
+bon-ioan-c2-v1-11	6	latin_body	p271-11	scripture	body-ordinal	Genesis octavo	Gen 8:21	B	verse		
+bon-ioan-c2-v1-11	6	latin_body		scripture	body-ordinal	Zachariae nono	Zach 9	C	chapter		
+bon-ioan-c2-v1-11	6	apparatus:p269-6	p269-6	scripture	apparatus-explicit	Luc. 14, 10	Luc 14:10	A	verse		
+bon-ioan-c2-v1-11	6	apparatus:p269-7	p269-7	scripture	apparatus-explicit	Eph. 2, 4	Eph 2:4	A	verse		
+bon-ioan-c2-v1-11	6	apparatus:p269-7	p269-7	scripture	apparatus-explicit	II. Cor. 8, 9	2Cor 8:9	A	verse		
+bon-ioan-c2-v1-11	6	apparatus:p269-9	p269-9	scripture	apparatus-explicit	Ioan. 17, 1	Ioan 17:1	A	verse		
+bon-ioan-c2-v1-11	6	apparatus:p269-11	p269-11	scripture	apparatus-explicit	Ioan. 11, 40	Ioan 11:40	A	verse		
+bon-ioan-c2-v1-11	6	apparatus:p269-12	p269-12	scripture	apparatus-explicit	Sap. 11, 21	Sap 11:21	A	verse		
+bon-ioan-c2-v1-11	6	apparatus:p270-3	p270-3	scripture	apparatus-explicit	Deut. 32, 4	Deut 32:4	A	verse		
+bon-ioan-c2-v1-11	6	apparatus:p270-8	p270-8	scripture	apparatus-explicit	Ioan. 14, 21	Ioan 14:21	A	verse		
+bon-ioan-c2-v1-11	6	apparatus:p270-11	p270-11	scripture	anaphor->body-ordinal	ibid. v. 11	Hebr 10:11	B	verse	yes	body: ad Hebraeos decimo
+bon-ioan-c2-v1-11	6	apparatus:p270-12	p270-12	scripture	apparatus-explicit	II. Cor. 3, 15	2Cor 3:15	A	verse		
+bon-ioan-c2-v1-11	6	apparatus:p271-1	p271-1	scripture	anaphor->body-ordinal	ibid v. 30	Luc 1:30	B	verse	yes	body: Lucae primo
+bon-ioan-c2-v1-11	6	apparatus:p271-4	p271-4	scripture	apparatus-explicit	Psalm. 103, 15	Ps 103:15	A	verse		
+bon-ioan-c2-v1-11	6	apparatus:p271-4	p271-4	scripture	apparatus-explicit	Matth. 9, 17	Matth 9:17	A	verse		
+bon-ioan-c2-v1-11	6	apparatus:p271-4	p271-4	scripture	apparatus-explicit	Ps. 142, 6	Ps 142:6	A	verse		
+bon-ioan-c2-v1-11	6	apparatus:p271-10	p271-10	scripture	apparatus-explicit	Psalm. 37, 11	Ps 37:11	A	verse		
+bon-ioan-c2-v1-11	6	apparatus:p271-13	p271-13	scripture	apparatus-explicit	Ps. 6, 7	Ps 6:7	A	verse		
+bon-ioan-c2-v1-11	6	apparatus:p271-13	p271-13	scripture	apparatus-explicit	Zach. 9, 17	Zach 9:17	A	verse		
+bon-ioan-c2-v1-11	6	apparatus:p271-14	p271-14	scripture	apparatus-explicit	Psalm. 29, 12	Ps 29:12	A	verse		
+bon-ioan-c2-v1-11	6	apparatus:p272-4	p272-4	crossref	page	supra pag. 243, nota 2	bon-ioan-prooem		chunk		
+bon-ioan-c2-v1-11	6	apparatus:p272-4	p272-4	crossref	page	supra pag. 245, nota 2	bon-ioan-prol		chunk		
+bon-ioan-c2-v1-11	6	apparatus:p272-5	p272-5	crossref	page	supra pag. 246, nota 7	bon-ioan-c1-v1-2		chunk		
+bon-ioan-c2-v1-11	6	apparatus:p272-5	p272-5	crossref	logical	IV. Sent. d. 33. a. 2. q. 1.	bon-sent-IV-d33-a2-q1		chunk		
+bon-ioan-c2-v1-11	6	apparatus:p272-6	p272-6	crossref	page	supra pag. 268, nota 10	bon-ioan-c1-v43-51		chunk		
+bon-ioan-c2-v1-11	6	apparatus:p272-8	p272-8	crossref	logical	IV. Sent. d. 28. q. 6	bon-sent-IV-d28-a1-q6		chunk		
+bon-ioan-c2-v1-11	6	apparatus:p272-9	p272-9	authority	authority:Leo	IV. Sent. d. 33. a. 2. q. 3.			excluded		
+bon-ioan-c2-v1-11	6	apparatus:p272-9	p272-9	authority	anaphor->authority:Leo	loc. cit.			excluded	yes	IV. Sent. d. 33. a. 2. q. 3.
+bon-ioan-c2-v1-11	6	apparatus:p273-2	p273-2	scripture	apparatus-explicit	Ioan. 10, 18	Ioan 10:18	A	verse		
 bon-ioan-prol	6	latin_body		scripture	body-ordinal	Apocalypsis primo	Apoc 1	C	chapter		
 bon-ioan-prol	6	apparatus:p245-1	p245-1	crossref	page	supra pag. 243, nota 2	bon-ioan-prooem		chunk		
 bon-ioan-prol	6	apparatus:p245-2	p245-2	scripture	apparatus-explicit	Ioan. 1, 1	Ioan 1:1	A	verse		

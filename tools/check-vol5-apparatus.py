@@ -3650,6 +3650,18 @@ KNOWN_TOTALS_VOL6 = {
     269: 13, # bon-ioan-c1-v43-51 owns n.1 (¶ 103 tail, closing above the centred CAPITULUM II. on ...filium
              # hominis se appellat.); nn.2-13 belong to Capitulum II (1. Et die tertio nuptiae). Gutter 910
              # (auto, run 36 px).
+             # bon-ioan-c2-v1-11 took nn.2-13 (re-derived 2026-10-21): anchors L 2-7 / R 8-13; blocks
+             # L 1-7 head / R 7 tail + 8-13: n.7 RUNS OVER THE GUTTER (ledgered). Gutter 915 (profiled).
+    270: 13, # bon-ioan-c2-v1-11 (¶ 6 tail - ¶ 12). Anchors L 1-6 / R 7-13; blocks L 1-5 / R 6-13, no
+             # runover. Gutter 1109.
+    271: 16, # bon-ioan-c2-v1-11 (¶ 12 tail - ¶ 14, QUAESTIONES from ¶ 14). Anchors L 1-8 / R 9-16; blocks
+             # L 1-13 / R 14-16, no runover. Gutter 905.
+    272: 12, # bon-ioan-c2-v1-11 (¶ 14 tail - ¶ 17 obj. 3). Anchors L 1-8 / R 9-12; blocks match, no
+             # runover. Gutter 1110 (default 1126/16 px rejected).
+    273: 10, # bon-ioan-c2-v1-11 owns nn.1-2 (¶ 17 Respondeo + reply 2, closing at ~0.39 L on ...nemo eam
+             # tollit a me.); nn.3-10 anchor in ¶ 18 (Post haec descendit, under the centred heading
+             # Secunda manifestatio, quae facta est Iudaeis.) and after: the next pericope (Vers. 12-17).
+             # Blocks L 1-5 / R 6-10 by count. Gutter 921 (region above the heading).
 }
 
 KNOWN_TOTALS_BY_VOL = {

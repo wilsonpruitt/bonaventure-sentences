@@ -759,6 +759,11 @@ const WORKS = {
       // stack, above ¶ 1 (the raw drops the heading). `PARS. I.` (printed with a
       // point after PARS) stands inside that chunk (ruling 71).
       1: "Capitulum I",
+      // `CAPITULUM II.` read in place on p. 269 at bon-ioan-c2-v1-11: centred
+      // small capitals at ~0.12 of the leaf, below Cap. I's last four lines,
+      // with NO heading beneath it (ruling 79: the chunk is titled from the
+      // divisio's first sentence). Unanchored.
+      2: "Capitulum II",
     },
   },
 };
