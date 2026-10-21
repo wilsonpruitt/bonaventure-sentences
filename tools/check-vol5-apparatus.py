@@ -3710,7 +3710,16 @@ KNOWN_TOTALS_VOL6 = {
              # ...tamen dandi gratiam.); n.14 anchors in ¶ 49 (Respondit Ioannes et dixit., no
              # heading): the next pericope (Vers. 27-). Anchors L 1-7 / R 8-14; blocks L 1-8 head /
              # R 8 tail + 9-14: n.8 runs over the gutter (— Ed. legit: ...). Gutter 1126.
-             # n.14 PENDING.
+             # bon-ioan-c3-v27-36 owns n.14 (Vers. 22. et 25., at supra14 in 49, last of the RIGHT
+             # block). Re-derived.
+    287: 12, # bon-ioan-c3-v27-36 (¶¶ 50-55): anchors L 1-6 / R 7-12; blocks L 1-6 head / R 6 tail
+             # + 7-12: n.6 runs over the gutter (accederet, tunc dolerem...). Gutter 926.
+    288: 11, # bon-ioan-c3-v27-36 (¶¶ 55-62, QUAESTIONES): anchors L 1-6 / R 7-11; blocks L 1-11
+             # head / R 11 tail: n.11 runs over the gutter (buuntur Alcuino...). Gutter 1126.
+    289: 12, # bon-ioan-c3-v27-36 owns nn.1-7 (¶¶ 62-64, above the mid-leaf CAPITULUM IV. at ~0.45):
+             # anchors L 1-4 / R 5-7; n.7 runs over the gutter (sponsio haec est...). nn.8-12
+             # anchor in Cap. IV (Ut ergo cognovit Iesus): the next chunk. Gutter 909 (Cap. III region).
+             # nn.8-12 PENDING.
 }
 
 KNOWN_TOTALS_BY_VOL = {

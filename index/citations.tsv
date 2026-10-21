@@ -26060,12 +26060,39 @@ bon-ioan-c3-v22-26	6	apparatus:p285-3	p285-3	scripture	apparatus-explicit	Hebr. 
 bon-ioan-c3-v22-26	6	apparatus:p285-4	p285-4	scripture	apparatus-explicit	Matth. 3, 5	Matth 3:5	A	verse		
 bon-ioan-c3-v22-26	6	apparatus:p285-5	p285-5	crossref	logical	IV. Sent. d. 2. a. 2. q. 1.	bon-sent-IV-d2-a2-q1		chunk		
 bon-ioan-c3-v22-26	6	apparatus:p285-5	p285-5	scripture	apparatus-explicit	Matth. 14, 3	Matth 14:3	A	verse		
-bon-ioan-c3-v22-26	6	apparatus:p285-9	p285-9	crossref	page	infra pag. 286, nota 5	bon-ioan-c3-v22-26		chunk		
+bon-ioan-c3-v22-26	6	apparatus:p285-9	p285-9	crossref	page	infra pag. 286, nota 5	bon-ioan-c3-v22-26+bon-ioan-c3-v27-36		page-multi		
 bon-ioan-c3-v22-26	6	apparatus:p286-4	p286-4	scripture	apparatus-explicit	Hebr. 7, 1	Hebr 7:1	A	verse		
 bon-ioan-c3-v22-26	6	apparatus:p286-5	p286-5	scripture	apparatus-explicit	Ioan. 4, 2	Ioan 4:2	A	verse		
 bon-ioan-c3-v22-26	6	apparatus:p286-10	p286-10	scripture	anaphor->apparatus-explicit	ibid.	Ioan 4:2	A	verse	yes	Ioan. 4, 2
 bon-ioan-c3-v22-26	6	apparatus:p286-12	p286-12	crossref	logical	III. Sent. d. 18. a. 2. q. 3.	bon-sent-III-d18-a2-q3		chunk		
 bon-ioan-c3-v22-26	6	apparatus:p286-12	p286-12	crossref	chain-continuation	d. 19. a. 1. q. 1.	bon-sent-III-d19-a1-q1		chunk		
+bon-ioan-c3-v27-36	6	latin_body	p287-1	scripture	body-ordinal	Iacobi primo	Iac 1:17	B	verse		
+bon-ioan-c3-v27-36	6	latin_body		scripture	body-ordinal	ad Corinthios quarto	Cor* 4	C	chapter		
+bon-ioan-c3-v27-36	6	latin_body	p287-3	scripture	body-ordinal	ad Ephesios quinto	Eph 5:25	B	verse		
+bon-ioan-c3-v27-36	6	latin_body		scripture	body-ordinal	ad Corinthios undecimo	Cor* 11	C	chapter		
+bon-ioan-c3-v27-36	6	latin_body		scripture	body-ordinal	ad Romanos decimo quarto	Rom 14	C	chapter		
+bon-ioan-c3-v27-36	6	latin_body	p287-9	scripture	body-ordinal	ad Philippenses primo	Phil 1:18	B	verse		
+bon-ioan-c3-v27-36	6	latin_body	p287-11	scripture	body-ordinal	ad Corinthios decimo quinto	Cor* 15:47	B	verse		
+bon-ioan-c3-v27-36	6	latin_body	p288-5	scripture	body-ordinal	Matthaei undecimo	Matth 11:27	B	verse		
+bon-ioan-c3-v27-36	6	latin_body		scripture	body-ordinal	Proverbiorum sexto	Prov 6	C	chapter		
+bon-ioan-c3-v27-36	6	latin_body		scripture	body-ordinal	ad Ephesios secundo	Eph 2	C	chapter		
+bon-ioan-c3-v27-36	6	latin_body	p289-5	scripture	body-ordinal	ad Corinthios duodecimo	Cor* 12:4	B	verse		
+bon-ioan-c3-v27-36	6	apparatus:p287-1	p287-1	scripture	apparatus-explicit	I. Cor. 4, 7	1Cor 4:7	A	verse		
+bon-ioan-c3-v27-36	6	apparatus:p287-2	p287-2	scripture	apparatus-explicit	Ioan. 1, 23	Ioan 1:23	A	verse		
+bon-ioan-c3-v27-36	6	apparatus:p287-4	p287-4	scripture	apparatus-explicit	II. Cor. 11, 2	2Cor 11:2	A	verse		
+bon-ioan-c3-v27-36	6	apparatus:p287-5	p287-5	scripture	apparatus-explicit	Rom. 14, 4	Rom 14:4	A	verse		
+bon-ioan-c3-v27-36	6	apparatus:p287-5	p287-5	scripture	apparatus-explicit	Ps. 84, 9	Ps 84:9	A	verse		
+bon-ioan-c3-v27-36	6	apparatus:p287-5	p287-5	scripture	apparatus-explicit	Phil. 4, 4	Phil 4:4	A	verse		
+bon-ioan-c3-v27-36	6	apparatus:p287-10	p287-10	scripture	apparatus-explicit	Ps. 8, 8	Ps 8:8	A	verse		
+bon-ioan-c3-v27-36	6	apparatus:p287-11	p287-11	scripture	apparatus-explicit	Ioan. 8, 23	Ioan 8:23	A	verse		
+bon-ioan-c3-v27-36	6	apparatus:p288-6	p288-6	scripture	apparatus-explicit	Prov. 6, 34	Prov 6:34	A	verse		
+bon-ioan-c3-v27-36	6	apparatus:p288-6	p288-6	scripture	apparatus-explicit	Eph. 2, 3	Eph 2:3	A	verse		
+bon-ioan-c3-v27-36	6	apparatus:p288-11	p288-11	scripture	apparatus-explicit	Phil. 3, 20	Phil 3:20	A	verse		
+bon-ioan-c3-v27-36	6	apparatus:p288-11	p288-11	scripture	apparatus-explicit	Gen. 3, 19	Gen 3:19	A	verse		
+bon-ioan-c3-v27-36	6	apparatus:p289-1	p289-1	crossref	logical	III. Sent. d. 3. p. II. a. 2. q. 1.	bon-sent-III-d3-p2-a2-q1		chunk		
+bon-ioan-c3-v27-36	6	apparatus:p289-4	p289-4	scripture	apparatus-explicit	Sap. 11, 21	Sap 11:21	A	verse		
+bon-ioan-c3-v27-36	6	apparatus:p289-6	p289-6	crossref	logical	III. Sent. d. 13. a. 1. q. 2.	bon-sent-III-d13-a1-q2		chunk		
+bon-ioan-c3-v27-36	6	apparatus:p289-7	p289-7	crossref	page	supra pag. 52, nota 2	bon-eccl-c6-v1-7+bon-eccl-c6-v8-11		page-multi		
 bon-ioan-c3-v3-12	6	latin_body	p279-8	scripture	body-ordinal	Ioannis decimo sexto	Ioan 16:21	B	verse		
 bon-ioan-c3-v3-12	6	latin_body	p279-9	scripture	body-ordinal	ad Ephesios secundo	Eph 2:3	B	verse		
 bon-ioan-c3-v3-12	6	latin_body		scripture	body-ordinal	Iob tertio	Iob 3	C	chapter		
