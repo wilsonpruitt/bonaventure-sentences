@@ -3694,6 +3694,16 @@ KNOWN_TOTALS_VOL6 = {
              # ...omnis talis salvabitur.); nn.9-10 anchor in ¶¶ 30-31 (Non enim misit Deus., no
              # heading): the next pericope (Vers. 17-). Anchors L 1-7 / R 8-10; blocks L 1-4 head /
              # R 4 tail + 5-10: n.4 runs over the gutter. Gutter 922.
+             # bon-ioan-c3-v17-21 owns nn.9-10 (¶¶ 30-31): n.9 at tertio (I Ioan. 3, 16; 4, 10),
+             # n.10 at quinto (Ioan. 5, 24), both anchored and printed RIGHT. All re-derived.
+    284: 13, # bon-ioan-c3-v17-21 (¶ 31 tail - QUAESTIONES ¶ 38 head). Anchors L 1-6 / R 7-13;
+             # blocks L 1-9 / R 10-13: nn.7-9 print LEFT but anchor RIGHT. n.13 runs over the
+             # PAGE (p.285 LEFT block opens with its flush-left tail, in Ioan. Evang. tr. 12...).
+             # Gutter 1137.
+    285: 9,  # p.285 carries only ¶ 38's tail for bon-ioan-c3-v17-21 (no anchors there) and the
+             # flush-left tail of p.284 n.13; nn.1-9 anchor in ¶ 39 (Post haec venit Iesus etc.,
+             # no heading) and after: the next pericope (Vers. 22-). Blocks L (runover) 1-2 / R 3-9.
+             # Gutter 920. nn.1-9 PENDING.
 }
 
 KNOWN_TOTALS_BY_VOL = {
