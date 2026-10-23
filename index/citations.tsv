@@ -26400,6 +26400,62 @@ bon-ioan-c5-v19-23	6	apparatus:p310-9	p310-9	crossref	work	Breviloq. p. I. c. 5.
 bon-ioan-c5-v19-23	6	apparatus:p311-2	p311-2	crossref	work	Breviloq. p. I. c. 3.	bon-brev-p1-c3		chunk		
 bon-ioan-c5-v19-23	6	apparatus:p311-2	p311-2	crossref	logical	I Sent. d. 5. a. 1. q. 1.	bon-sent-I-d5-a1-q1		chunk		
 bon-ioan-c5-v19-23	6	apparatus:p311-4	p311-4	crossref	logical	I. Sent. d. 11. q. 2.	bon-sent-I-d11-a1-q2		chunk		
+bon-ioan-c5-v24-30	6	latin_body		scripture	body-ordinal	ad Romanos decimo	Rom 10	C	chapter		
+bon-ioan-c5-v24-30	6	latin_body		scripture	body-ordinal	ad Romanos octavo	Rom 8	C	chapter		
+bon-ioan-c5-v24-30	6	latin_body	p311-9	scripture	body-ordinal	ad Romanos decimo tertio	Rom 13:11	B	verse		
+bon-ioan-c5-v24-30	6	latin_body		scripture	body-ordinal	ad Ephesios quinto	Eph 5	C	chapter		
+bon-ioan-c5-v24-30	6	latin_body		scripture	body-ordinal	Deuteronomii octavo	Deut 8	C	chapter		
+bon-ioan-c5-v24-30	6	latin_body	p312-1	scripture	body-ordinal	Apocalypsis primo	Apoc 1:7	B	verse		
+bon-ioan-c5-v24-30	6	latin_body		scripture	body-ordinal	Iob trigesimo sexto	Iob 36	C	chapter		
+bon-ioan-c5-v24-30	6	latin_body		scripture	body-ordinal	Iob decimo quarto	Iob 14	C	chapter		
+bon-ioan-c5-v24-30	6	latin_body	p312-4	scripture	body-ordinal	ad Thessalonicenses quarto	Thess* 4:16	B	verse		
+bon-ioan-c5-v24-30	6	latin_body	p312-5	scripture	body-ordinal	Machabaeorum septimo	Mach* 7:14	B	verse		
+bon-ioan-c5-v24-30	6	latin_body	p312-6	scripture	body-ordinal	ad Corinthios quinto	Cor* 5:13	B	verse		
+bon-ioan-c5-v24-30	6	latin_body		scripture	body-ordinal	Danielis duodecimo	Dan 12	C	chapter		
+bon-ioan-c5-v24-30	6	latin_body		scripture	body-ordinal	Deuteronomii trigesimo secundo	Deut 32	C	chapter		
+bon-ioan-c5-v24-30	6	latin_body	p312-11	scripture	body-ordinal	Deuteronomii trigesimo secundo	Deut 32:35	B	verse		
+bon-ioan-c5-v24-30	6	latin_body	p313-3	scripture	body-ordinal	Actuum decimo	Act 10:42	B	verse		
+bon-ioan-c5-v24-30	6	latin_body		scripture	body-ordinal	ad Corinthios quarto	Cor* 4	C	chapter		
+bon-ioan-c5-v24-30	6	latin_body	p313-4	scripture	body-ordinal	ad Corinthios undecimo	Cor* 11:31	B	verse		
+bon-ioan-c5-v24-30	6	latin_body	p313-5	scripture	body-ordinal	Matthaei decimo nono	Matth 19:28	B	verse		
+bon-ioan-c5-v24-30	6	latin_body		scripture	body-ordinal	ad Corinthios sexto	Cor* 6	C	chapter		
+bon-ioan-c5-v24-30	6	latin_body	p313-6	scripture	body-ordinal	ad Corinthios quarto	Cor* 4:5	B	verse		
+bon-ioan-c5-v24-30	6	latin_body	p313-7	scripture	body-ordinal	Matthaei septimo	Matth 7:1	B	verse		
+bon-ioan-c5-v24-30	6	latin_body		scripture	body-ordinal	ad Romanos decimo quarto	Rom 14	C	chapter		
+bon-ioan-c5-v24-30	6	latin_body	p313-10	scripture	body-ordinal	ad Corinthios quinto	Cor* 5:10	B	verse		
+bon-ioan-c5-v24-30	6	latin_body	p313-13	scripture	body-ordinal	Isaiae undecimo	Isai 11:3	B	verse		
+bon-ioan-c5-v24-30	6	apparatus:p311-6	p311-6	scripture	apparatus-explicit	Matth. 13, 19	Matth 13:19	A	verse		
+bon-ioan-c5-v24-30	6	apparatus:p311-6	p311-6	scripture	apparatus-explicit	Rom. 10, 17	Rom 10:17	A	verse		
+bon-ioan-c5-v24-30	6	apparatus:p311-6	p311-6	scripture	apparatus-explicit	Ioan. 12, 44	Ioan 12:44	A	verse		
+bon-ioan-c5-v24-30	6	apparatus:p311-7	p311-7	crossref	page	pag. 283, nota 10	bon-ioan-c3-v13-16+bon-ioan-c3-v17-21		page-multi		
+bon-ioan-c5-v24-30	6	apparatus:p311-7	p311-7	scripture	apparatus-explicit	Ioan. 3, 18	Ioan 3:18	A	verse		
+bon-ioan-c5-v24-30	6	apparatus:p311-7	p311-7	scripture	apparatus-explicit	Rom. 8, 10	Rom 8:10	A	verse		
+bon-ioan-c5-v24-30	6	apparatus:p311-8	p311-8	scripture	apparatus-explicit	Ps. 5, 12	Ps 5:12	A	verse		
+bon-ioan-c5-v24-30	6	apparatus:p311-9	p311-9	scripture	apparatus-explicit	Eph. 5, 14	Eph 5:14	A	verse		
+bon-ioan-c5-v24-30	6	apparatus:p311-10	p311-10	scripture	apparatus-explicit	Deut. 8, 3	Deut 8:3	A	verse		
+bon-ioan-c5-v24-30	6	apparatus:p311-10	p311-10	scripture	apparatus-explicit	Matth. 4, 4	Matth 4:4	A	verse		
+bon-ioan-c5-v24-30	6	apparatus:p311-10	p311-10	scripture	apparatus-explicit	Luc. 4, 4	Luc 4:4	A	verse		
+bon-ioan-c5-v24-30	6	apparatus:p311-11	p311-11	scripture	apparatus-explicit	Ioan. 11, 25	Ioan 11:25	A	verse		
+bon-ioan-c5-v24-30	6	apparatus:p311-11	p311-11	crossref	logical	I. Sent. d. 20. a. 1. q. 2.	bon-sent-I-d20-a1-q2		chunk		
+bon-ioan-c5-v24-30	6	apparatus:p312-1	p312-1	scripture	apparatus-explicit	Iob 36, 17	Iob 36:17	A	verse		
+bon-ioan-c5-v24-30	6	apparatus:p312-1	p312-1	crossref	logical	IV. Sent. d. 48. a. 1. q. 1	bon-sent-IV-d48-a1-q1		chunk		
+bon-ioan-c5-v24-30	6	apparatus:p312-2	p312-2	crossref	page	supra pag. 128, nota 2	bon-sap-c3		chunk		
+bon-ioan-c5-v24-30	6	apparatus:p312-2	p312-2	crossref	page	pag. 284, nota 10	bon-ioan-c3-v17-21		chunk		
+bon-ioan-c5-v24-30	6	apparatus:p312-3	p312-3	scripture	apparatus-explicit	Iob 14, 12	Iob 14:12	A	verse		
+bon-ioan-c5-v24-30	6	apparatus:p312-6	p312-6	scripture	apparatus-explicit	Dan. 12, 2	Dan 12:2	A	verse		
+bon-ioan-c5-v24-30	6	apparatus:p312-7	p312-7	scripture	apparatus-explicit	Deut. 24, 17	Deut 24:17	A	verse		
+bon-ioan-c5-v24-30	6	apparatus:p312-8	p312-8	scripture	apparatus-explicit	Deut. 32, 4	Deut 32:4	A	verse		
+bon-ioan-c5-v24-30	6	apparatus:p312-8	p312-8	scripture	apparatus-explicit	Ps. 144, 17	Ps 144:17	A	verse		
+bon-ioan-c5-v24-30	6	apparatus:p312-11	p312-11	scripture	apparatus-explicit	Rom. 12, 19	Rom 12:19	A	verse		
+bon-ioan-c5-v24-30	6	apparatus:p313-1	p313-1	crossref	logical	IV. Sent. d. 48. a. 1. q. 1	bon-sent-IV-d48-a1-q1		chunk		
+bon-ioan-c5-v24-30	6	apparatus:p313-3	p313-3	scripture	apparatus-explicit	I. Cor. 4, 4	1Cor 4:4	A	verse		
+bon-ioan-c5-v24-30	6	apparatus:p313-5	p313-5	scripture	apparatus-explicit	I. Cor. 6, 3	1Cor 6:3	A	verse		
+bon-ioan-c5-v24-30	6	apparatus:p313-7	p313-7	scripture	apparatus-explicit	Rom. 14, 4	Rom 14:4	A	verse		
+bon-ioan-c5-v24-30	6	apparatus:p313-8	p313-8	crossref	logical	IV. Sent. d. 47. a. 1.	bon-sent-IV-d47-a1-q1+bon-sent-IV-d47-a1-q2+bon-sent-IV-d47-a1-q3+bon-sent-IV-d47-a1-q4		articulus		
+bon-ioan-c5-v24-30	6	apparatus:p313-8	p313-8	crossref	chain-continuation	d. 48. a. 1. q. 1.	bon-sent-IV-d48-a1-q1		chunk		
+bon-ioan-c5-v24-30	6	apparatus:p313-9	p313-9	scripture	apparatus-explicit	Ioan. 3, 18	Ioan 3:18	A	verse		
+bon-ioan-c5-v24-30	6	apparatus:p313-10	p313-10	scripture	apparatus-explicit	Rom. 14, 10	Rom 14:10	A	verse		
+bon-ioan-c5-v24-30	6	apparatus:p313-16	p313-16	crossref	page	tom. III. pag. 252, nota 7	bon-sent-III-d11-a2-q2		chunk		
 bon-ioan-prol	6	latin_body		scripture	body-ordinal	Apocalypsis primo	Apoc 1	C	chapter		
 bon-ioan-prol	6	apparatus:p245-1	p245-1	crossref	page	supra pag. 243, nota 2	bon-ioan-prooem		chunk		
 bon-ioan-prol	6	apparatus:p245-2	p245-2	scripture	apparatus-explicit	Ioan. 1, 1	Ioan 1:1	A	verse		
