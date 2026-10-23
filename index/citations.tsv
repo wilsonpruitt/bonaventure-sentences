@@ -26456,6 +26456,64 @@ bon-ioan-c5-v24-30	6	apparatus:p313-8	p313-8	crossref	chain-continuation	d. 48. 
 bon-ioan-c5-v24-30	6	apparatus:p313-9	p313-9	scripture	apparatus-explicit	Ioan. 3, 18	Ioan 3:18	A	verse		
 bon-ioan-c5-v24-30	6	apparatus:p313-10	p313-10	scripture	apparatus-explicit	Rom. 14, 10	Rom 14:10	A	verse		
 bon-ioan-c5-v24-30	6	apparatus:p313-16	p313-16	crossref	page	tom. III. pag. 252, nota 7	bon-sent-III-d11-a2-q2		chunk		
+bon-ioan-c5-v31-39	6	latin_body		scripture	body-ordinal	Proverbiorum duodecimo	Prov 12	C	chapter		
+bon-ioan-c5-v31-39	6	latin_body		scripture	body-ordinal	Proverbiorum decimo quarto	Prov 14	C	chapter		
+bon-ioan-c5-v31-39	6	latin_body		scripture	body-ordinal	Ecclesiastici quadragesimo octavo	Eccli 48	C	chapter		
+bon-ioan-c5-v31-39	6	latin_body	p314-7	scripture	body-ordinal	Matthaei undecimo	Matth 11:18	B	verse		
+bon-ioan-c5-v31-39	6	latin_body		scripture	body-ordinal	Matthaei vigesimo primo	Matth 21	C	chapter		
+bon-ioan-c5-v31-39	6	latin_body		scripture	body-ordinal	Deuteronomii trigesimo secundo	Deut 32	C	chapter		
+bon-ioan-c5-v31-39	6	latin_body	p315-1	scripture	body-ordinal	Matthaei decimo sexto	Matth 16:17	B	verse		
+bon-ioan-c5-v31-39	6	latin_body		scripture	body-ordinal	Exodi trigesimo tertio	Exod 33	C	chapter		
+bon-ioan-c5-v31-39	6	latin_body	p315-2	scripture	body-ordinal	ad Ephesios tertio	Eph 3:17	B	verse		
+bon-ioan-c5-v31-39	6	latin_body		scripture	body-ordinal	Isaiae nono	Isai 9	C	chapter		
+bon-ioan-c5-v31-39	6	latin_body	p315-3	scripture	body-ordinal	ad Corinthios tertio	Cor* 3:6	B	verse		
+bon-ioan-c5-v31-39	6	latin_body	p315-4	scripture	body-ordinal	Sapientiae decimo quinto	Sap 15:3	B	verse		
+bon-ioan-c5-v31-39	6	latin_body		scripture	body-ordinal	Actuum decimo octavo	Act 18	C	chapter		
+bon-ioan-c5-v31-39	6	latin_body	p316-1	scripture	body-ordinal	Numerorum vigesimo tertio	Num 23:19	B	verse		
+bon-ioan-c5-v31-39	6	latin_body	p316-9	scripture	body-ordinal	Lucae tertio	Luc 3:22	B	verse		
+bon-ioan-c5-v31-39	6	latin_body		scripture	body-ordinal	Deuteronomii quinto	Deut 5	C	chapter		
+bon-ioan-c5-v31-39	6	latin_body		scripture	body-ordinal	Exodi vigesimo	Exod 20	C	chapter		
+bon-ioan-c5-v31-39	6	apparatus:p314-2	p314-2	scripture	apparatus-explicit	Ioan. 1, 34	Ioan 1:34	A	verse		
+bon-ioan-c5-v31-39	6	apparatus:p314-2	p314-2	scripture	apparatus-explicit	Prov. 12, 17	Prov 12:17	A	verse		
+bon-ioan-c5-v31-39	6	apparatus:p314-3	p314-3	scripture	apparatus-explicit	Deut. 17, 6	Deut 17:6	A	verse		
+bon-ioan-c5-v31-39	6	apparatus:p314-3	p314-3	scripture	apparatus-explicit	Matth. 18, 16	Matth 18:16	A	verse		
+bon-ioan-c5-v31-39	6	apparatus:p314-4	p314-4	scripture	apparatus-explicit	Prov. 14, 5	Prov 14:5	A	verse		
+bon-ioan-c5-v31-39	6	apparatus:p314-5	p314-5	scripture	apparatus-explicit	Psalm. 15, 2	Ps 15:2	A	verse		
+bon-ioan-c5-v31-39	6	apparatus:p314-5	p314-5	scripture	apparatus-explicit	Marc. 16, 16	Marc 16:16	A	verse		
+bon-ioan-c5-v31-39	6	apparatus:p314-6	p314-6	scripture	apparatus-explicit	Eccli. 48, 1	Eccli 48:1	A	verse		
+bon-ioan-c5-v31-39	6	apparatus:p314-7	p314-7	scripture	anaphor->body-ordinal	ibid. 21, 32	Matth 21:32	B	verse	yes	body: Matthaei undecimo
+bon-ioan-c5-v31-39	6	apparatus:p314-8	p314-8	scripture	apparatus-explicit	Deut. 32, 4	Deut 32:4	A	verse		
+bon-ioan-c5-v31-39	6	apparatus:p314-9	p314-9	crossref	relative-bare	ibid. 14, 10			unresolvable		
+bon-ioan-c5-v31-39	6	apparatus:p314-10	p314-10	scripture	anaphor->apparatus-explicit	loc. cit.	Deut 32:4	A	verse	yes	Deut. 32, 4
+bon-ioan-c5-v31-39	6	apparatus:p315-1	p315-1	scripture	apparatus-explicit	Exod. 33, 20	Exod 33:20	A	verse		
+bon-ioan-c5-v31-39	6	apparatus:p315-1	p315-1	scripture	apparatus-explicit	Ioan. 1, 18	Ioan 1:18	A	verse		
+bon-ioan-c5-v31-39	6	apparatus:p315-2	p315-2	scripture	apparatus-explicit	Isai. 9, 8	Isai 9:8	A	verse		
+bon-ioan-c5-v31-39	6	apparatus:p315-2	p315-2	scripture	apparatus-explicit	Ioan. 1, 11	Ioan 1:11	A	verse		
+bon-ioan-c5-v31-39	6	apparatus:p315-5	p315-5	scripture	apparatus-explicit	Act. 18, 28	Act 18:28	A	verse		
+bon-ioan-c5-v31-39	6	apparatus:p315-6	p315-6	scripture	apparatus-explicit	Ioan. 5, 37	Ioan 5:37	A	verse		
+bon-ioan-c5-v31-39	6	apparatus:p315-6	p315-6	scripture	apparatus-explicit	Ioan. 8, 18	Ioan 8:18	A	verse		
+bon-ioan-c5-v31-39	6	apparatus:p315-6	p315-6	scripture	apparatus-explicit	Ioan. 15, 26	Ioan 15:26	A	verse		
+bon-ioan-c5-v31-39	6	apparatus:p315-6	p315-6	scripture	apparatus-explicit	I. Ioan. 5, 7	1Ioan 5:7	A	verse		
+bon-ioan-c5-v31-39	6	apparatus:p315-6	p315-6	scripture	apparatus-explicit	Act. 10, 43	Act 10:43	A	verse		
+bon-ioan-c5-v31-39	6	apparatus:p315-6	p315-6	scripture	apparatus-explicit	Ioan. 19, 35	Ioan 19:35	A	verse		
+bon-ioan-c5-v31-39	6	apparatus:p315-6	p315-6	scripture	apparatus-explicit	Ioan. 12, 17	Ioan 12:17	A	verse		
+bon-ioan-c5-v31-39	6	apparatus:p315-6	p315-6	scripture	apparatus-explicit	Matth. 21, 19	Matth 21:19	A	verse		
+bon-ioan-c5-v31-39	6	apparatus:p315-6	p315-6	scripture	apparatus-explicit	Luc. 2, 10	Luc 2:10	A	verse		
+bon-ioan-c5-v31-39	6	apparatus:p315-6	p315-6	scripture	apparatus-explicit	Luc. 24, 4	Luc 24:4	A	verse		
+bon-ioan-c5-v31-39	6	apparatus:p315-6	p315-6	scripture	apparatus-explicit	Act. 1, 10	Act 1:10	A	verse		
+bon-ioan-c5-v31-39	6	apparatus:p315-6	p315-6	scripture	apparatus-explicit	Luc. 2, 27	Luc 2:27	A	verse		
+bon-ioan-c5-v31-39	6	apparatus:p315-6	p315-6	scripture	apparatus-explicit	Ioan. 15, 27	Ioan 15:27	A	verse		
+bon-ioan-c5-v31-39	6	apparatus:p315-6	p315-6	scripture	apparatus-explicit	Act. 22, 20	Act 22:20	A	verse		
+bon-ioan-c5-v31-39	6	apparatus:p315-6	p315-6	scripture	apparatus-explicit	Matth. 8, 27	Matth 8:27	A	verse		
+bon-ioan-c5-v31-39	6	apparatus:p315-6	p315-6	scripture	apparatus-explicit	Luc. 23, 45	Luc 23:45	A	verse		
+bon-ioan-c5-v31-39	6	apparatus:p315-6	p315-6	scripture	apparatus-explicit	Matth. 27, 51	Matth 27:51	A	verse		
+bon-ioan-c5-v31-39	6	apparatus:p315-6	p315-6	scripture	apparatus-explicit	Matth. 28, 2	Matth 28:2	A	verse		
+bon-ioan-c5-v31-39	6	apparatus:p316-6	p316-6	crossref	page	supra pag. 279, nota 4	bon-ioan-c3-v1-2+bon-ioan-c3-v3-12		page-multi		
+bon-ioan-c5-v31-39	6	apparatus:p316-8	p316-8	crossref	page	pag. 54	bon-eccl-c7-v1		chunk		
+bon-ioan-c5-v31-39	6	apparatus:p316-9	p316-9	scripture	apparatus-explicit	Deut. 5, 26	Deut 5:26	A	verse		
+bon-ioan-c5-v31-39	6	apparatus:p316-9	p316-9	scripture	apparatus-explicit	Exod. 20, 22	Exod 20:22	A	verse		
+bon-ioan-c5-v31-39	6	apparatus:p316-11	p316-11	scripture	apparatus-explicit	Ioan. 1, 9	Ioan 1:9	A	verse		
+bon-ioan-c5-v31-39	6	apparatus:p316-11	p316-11	crossref	logical	II. Sent. d. 10. a. 3. q. 2.	bon-sent-II-d10-a3-q2		chunk		
 bon-ioan-prol	6	latin_body		scripture	body-ordinal	Apocalypsis primo	Apoc 1	C	chapter		
 bon-ioan-prol	6	apparatus:p245-1	p245-1	crossref	page	supra pag. 243, nota 2	bon-ioan-prooem		chunk		
 bon-ioan-prol	6	apparatus:p245-2	p245-2	scripture	apparatus-explicit	Ioan. 1, 1	Ioan 1:1	A	verse		

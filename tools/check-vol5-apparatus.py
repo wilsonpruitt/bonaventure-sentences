@@ -3787,6 +3787,15 @@ KNOWN_TOTALS_VOL6 = {
     313: 18, # bon-ioan-c5-v24-30 owns nn.1-16 (¶¶ 55-58, Quaest. I - IV), closing ~0.47 R; nn.17-18
              # anchor in ¶ 59 (ibi, 5:40 and 5:33) and are PENDING for Cap. V's fifth pericope.
              # Anchors L 1-7 / R 8-18; blocks L 1-9 / R 10-18. No runover. Gutter 902.
+             # nn.17-18 now owned by bon-ioan-c5-v31-39 (¶ 59, from ~0.47 R): both anchor R and print
+             # side by side on the R block's last line (re-derived). No runover. Gutter 903 for ¶ 59's region.
+    314: 10, # bon-ioan-c5-v31-39 (¶¶ (Vers. 31)-65): anchors L 1-5 / R 6-10; blocks L 1-6 / R 7-10.
+             # No runover. Gutter 1129 (windows fork 1122/30 px vs 1128-1131/46-49 px; column edges 1105/1154).
+    315: 6,  # bon-ioan-c5-v31-39 (¶¶ 65-67): anchors L 1-2 / R 3-6; blocks L 1-3 / R 4-6; n.6 carries the
+             # full-measure schema *Testimonia Christo exhibita*. No runover. Gutter 902.
+    316: 13, # bon-ioan-c5-v31-39 owns nn.1-12 (Quaest. I - IV, ¶¶ 68-71), closing ~0.80 R; n.13 anchors in
+             # ¶ 72 (*certitudo*, 5:40) and is PENDING for Cap. V's sixth pericope.
+             # Anchors L 1-6 / R 7-13; blocks L 1-8 / R 9-13. No runover. Gutter 1135.
 }
 
 KNOWN_TOTALS_BY_VOL = {
