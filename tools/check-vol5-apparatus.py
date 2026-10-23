@@ -3816,6 +3816,17 @@ KNOWN_TOTALS_VOL6 = {
              # on *Proba me, Domine, et tenta me.*; nn.12-14 anchor in ¶ 15 (*Dicit*, 6:10) and after and
              # are PENDING for Cap. VI's second pericope. Anchors L 1-6 / R 7-14; blocks L 1-7 / R 8-14
              # (n.7 anchors R, prints L). No runover. Gutter 1120 (band 1099-1141, rule 1114-1125).
+             # nn.12-14 now owned by bon-ioan-c6-v10-13 (¶ 15, re-derived): anchors all R (*Dicit*,
+             # *quarto*, *quarto*); all three print in the R block after n.11. No runover. Gutter 1126
+             # for ¶ 15's region (rows 0.57-0.73; band 1101-1151, rule 1125-1127).
+    321: 13, # bon-ioan-c6-v10-13 (¶¶ 16-20): anchors L 1-5 / R 6-13; blocks L 1-7 / R 8-13 (nn.6-7
+             # anchor R, print L). No runover. Gutter 917 (band 895-939, rule 913-923; a 936/4 px fork
+             # rejected).
+    322: 12, # bon-ioan-c6-v10-13 owns nn.1-8 (Quaest. I's tail - IV, ¶¶ 20-23), closing ~0.09 R on
+             # *fructum multum.*; nn.9-12 anchor in ¶ 24 (*Illi autem*, 6:14) and after and are PENDING
+             # for Cap. VI's third pericope. Anchors L 1-7 / R 8-12; blocks L 1-6 (n.2 run in on n.1's
+             # line) / R 7-12 (n.7 anchors L, prints R). No runover. Gutter 1143 (band 1122-1164,
+             # rule 1138-1149).
 }
 
 KNOWN_TOTALS_BY_VOL = {
