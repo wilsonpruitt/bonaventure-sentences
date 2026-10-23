@@ -3796,6 +3796,15 @@ KNOWN_TOTALS_VOL6 = {
     316: 13, # bon-ioan-c5-v31-39 owns nn.1-12 (Quaest. I - IV, ¶¶ 68-71), closing ~0.80 R; n.13 anchors in
              # ¶ 72 (*certitudo*, 5:40) and is PENDING for Cap. V's sixth pericope.
              # Anchors L 1-6 / R 7-13; blocks L 1-8 / R 9-13. No runover. Gutter 1135.
+             # n.13 now owned by bon-ioan-c5-v40-47 (¶ 72, *certitudo*, low in R): anchors R, prints last
+             # in the R block (re-derived; numeral worn, sequence-settled). No runover. Gutter 1138-1140
+             # for ¶ 72's region.
+    317: 12, # bon-ioan-c5-v40-47 (¶¶ 72-80): anchors L 1-6 / R 7-12; blocks L 1-7 / R 8-12 (n.7
+             # anchors R, prints L). No runover. Gutter 913.
+    318: 15, # bon-ioan-c5-v40-47 owns nn.1-9 (Quaest. I - III, ¶¶ 80-82), closing ~0.31 R above the
+             # full-measure `Capitulum VI.` heading; nn.10-15 anchor in Cap. VI ¶¶ 1-3 and are PENDING
+             # for Cap. VI's first pericope. Anchors (Cap. V) L 1-4 / R 5-9; blocks L 1-7 / R 8-15.
+             # No runover. Gutter 1135 for Cap. V's region (band 1110-1159, rule 1133-1137).
 }
 
 KNOWN_TOTALS_BY_VOL = {

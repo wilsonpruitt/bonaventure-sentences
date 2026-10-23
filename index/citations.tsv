@@ -26514,6 +26514,29 @@ bon-ioan-c5-v31-39	6	apparatus:p316-9	p316-9	scripture	apparatus-explicit	Deut. 
 bon-ioan-c5-v31-39	6	apparatus:p316-9	p316-9	scripture	apparatus-explicit	Exod. 20, 22	Exod 20:22	A	verse		
 bon-ioan-c5-v31-39	6	apparatus:p316-11	p316-11	scripture	apparatus-explicit	Ioan. 1, 9	Ioan 1:9	A	verse		
 bon-ioan-c5-v31-39	6	apparatus:p316-11	p316-11	crossref	logical	II. Sent. d. 10. a. 3. q. 2.	bon-sent-II-d10-a3-q2		chunk		
+bon-ioan-c5-v40-47	6	latin_body		scripture	body-ordinal	Matthaei vigesimo secundo	Matth 22	C	chapter		
+bon-ioan-c5-v40-47	6	latin_body	p317-6	scripture	body-ordinal	ad Thessalonicenses secundo	Thess* 2:4	B	verse		
+bon-ioan-c5-v40-47	6	latin_body		scripture	body-ordinal	ad Thessalonicenses secundo	Thess* 2	C	chapter		
+bon-ioan-c5-v40-47	6	latin_body	p317-7	scripture	body-ordinal	Isaiae quadragesimo	Isai 40:6	B	verse		
+bon-ioan-c5-v40-47	6	latin_body		scripture	body-ordinal	ad Corinthios decimo	Cor* 10	C	chapter		
+bon-ioan-c5-v40-47	6	latin_body		scripture	body-ordinal	Ioannis secundo	Ioan 2	C	chapter		
+bon-ioan-c5-v40-47	6	latin_body	p317-11	scripture	body-ordinal	Deuteronomii decimo octavo	Deut 18:15	B	verse		
+bon-ioan-c5-v40-47	6	latin_body	p317-12	scripture	body-ordinal	Lucae decimo sexto	Luc 16:31	B	verse		
+bon-ioan-c5-v40-47	6	latin_body	p318-2	scripture	body-ordinal	ad Philippenses primo	Phil 1:20	B	verse		
+bon-ioan-c5-v40-47	6	latin_body	p318-5	scripture	body-ordinal	Ieremiae vigesimo nono	Ierem 29:23	B	verse		
+bon-ioan-c5-v40-47	6	apparatus:p317-4	p317-4	scripture	apparatus-explicit	Matth. 22, 12	Matth 22:12	A	verse		
+bon-ioan-c5-v40-47	6	apparatus:p317-5	p317-5	crossref	relative-bare	ibid. 1, 11			unresolvable		
+bon-ioan-c5-v40-47	6	apparatus:p317-7	p317-7	scripture	apparatus-explicit	Ps. 4, 3	Ps 4:3	A	verse		
+bon-ioan-c5-v40-47	6	apparatus:p317-8	p317-8	scripture	apparatus-explicit	Psalm. 83, 12	Ps 83:12	A	verse		
+bon-ioan-c5-v40-47	6	apparatus:p317-8	p317-8	scripture	apparatus-explicit	II. Cor. 10, 17	2Cor 10:17	A	verse		
+bon-ioan-c5-v40-47	6	apparatus:p317-9	p317-9	scripture	apparatus-explicit	I. Ioan. 2, 2	1Ioan 2:2	A	verse		
+bon-ioan-c5-v40-47	6	apparatus:p317-9	p317-9	scripture	apparatus-explicit	Apoc. 12, 10	Apoc 12:10	A	verse		
+bon-ioan-c5-v40-47	6	apparatus:p317-10	p317-10	scripture	apparatus-explicit	Ioan. 9, 28	Ioan 9:28	A	verse		
+bon-ioan-c5-v40-47	6	apparatus:p317-11	p317-11	scripture	apparatus-explicit	Act. 7, 37	Act 7:37	A	verse		
+bon-ioan-c5-v40-47	6	apparatus:p317-11	p317-11	crossref	page	supra pag. 292, nota 6	bon-ioan-c4-v7-14		chunk		
+bon-ioan-c5-v40-47	6	apparatus:p318-6	p318-6	scripture	apparatus-explicit	Luc. 23, 34	Luc 23:34	A	verse		
+bon-ioan-c5-v40-47	6	apparatus:p318-7	p318-7	crossref	page	tom. I. pag. 728, nota 2	bon-sent-I-d41-a1-q1+bon-sent-I-d41-p1-divisio		page-multi		
+bon-ioan-c5-v40-47	6	apparatus:p318-7	p318-7	scripture	apparatus-explicit	Matth. 25, 42	Matth 25:42	A	verse		
 bon-ioan-prol	6	latin_body		scripture	body-ordinal	Apocalypsis primo	Apoc 1	C	chapter		
 bon-ioan-prol	6	apparatus:p245-1	p245-1	crossref	page	supra pag. 243, nota 2	bon-ioan-prooem		chunk		
 bon-ioan-prol	6	apparatus:p245-2	p245-2	scripture	apparatus-explicit	Ioan. 1, 1	Ioan 1:1	A	verse		
