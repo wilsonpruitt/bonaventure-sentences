@@ -3900,6 +3900,16 @@ KNOWN_TOTALS_VOL6 = {
     335: 11, # bon-ioan-c6-v53-59 (¶¶ 92-94): anchors L 1-5 / R 6-11; blocks L 1-5 / R 6-11. No
              # runover. ¶ 95 (*Haec dixit in Synagoga*, 6:60) opens at ~0.92 R, its two lines unanchored.
              # PAGE COMPLETE. Gutter 903 (band 880-927, rule 901-908).
+    336: 11, # bon-ioan-c6-v60-72 (¶¶ 95-100): anchors L 1-5 / R 6-11; blocks L 1-6 head / R 6 tail +
+             # 7-11. n.6 RUNS OVER THE GUTTER (L ends *...de Con-*, R opens flush-left *secrat. d. 2;*).
+             # Register opens numbered (p. 335 forwards nothing). Gutter 1133 (band 1110-1156).
+    337: 12, # bon-ioan-c6-v60-72 (¶¶ 101-109): anchors L 1-7 / R 8-12; blocks L 1-6 / R 7-12. No
+             # runover. Recto, gutter L (glosses clipped: [Q]uintum.). Gutter 894 (band 871-917).
+    338: 10, # bon-ioan-c6-v60-72 owns nn.1-8 (¶¶ 109-112, Quaest. II-V): anchors L 1-4 / R 5-8;
+             # blocks L 1-5 head / R 5 tail + 6-10. n.5 RUNS OVER THE GUTTER (L ends *...et unus ex
+             # vobis*, R opens flush-left *diabolus est?*). Full-measure `Capitulum VII.` mid-leaf at
+             # ~0.53; nn.9-10 anchor in Cap. VII's ¶ 1 (*haec*9, *ibi*10) -- PENDING for Capitulum
+             # VII's first pericope. Gutter 1140 above the heading, 1147 below (band 1123-1172).
 }
 
 KNOWN_TOTALS_BY_VOL = {
