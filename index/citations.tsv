@@ -26378,6 +26378,28 @@ bon-ioan-c5-v10-18	6	apparatus:p308-3	p308-3	scripture	apparatus-explicit	Rom. 1
 bon-ioan-c5-v10-18	6	apparatus:p308-6	p308-6	scripture	apparatus-explicit	Ioan. 9, 6	Ioan 9:6	A	verse		
 bon-ioan-c5-v10-18	6	apparatus:p308-11	p308-11	scripture	anaphor->apparatus-explicit	ibid.	Ioan 9:6	A	verse	yes	Ioan. 9, 6
 bon-ioan-c5-v10-18	6	apparatus:p308-11	p308-11	crossref	work	Breviloq. p. II. c. 2.	bon-brev-p2-c2		chunk		
+bon-ioan-c5-v19-23	6	latin_body		scripture	body-ordinal	ad Colossenses primo	Col 1	C	chapter		
+bon-ioan-c5-v19-23	6	latin_body		scripture	body-ordinal	Lucae septimo	Luc 7	C	chapter		
+bon-ioan-c5-v19-23	6	latin_body		scripture	body-ordinal	Actuum decimo	Act 10	C	chapter		
+bon-ioan-c5-v19-23	6	latin_body	p309-8	scripture	body-ordinal	Proverbiorum septimo	Prov 7:1	B	verse		
+bon-ioan-c5-v19-23	6	latin_body	p309-9	scripture	body-ordinal	Matthaei decimo	Matth 10:28	B	verse		
+bon-ioan-c5-v19-23	6	apparatus:p309-1	p309-1	crossref	relative-bare	ibid. v. 38			unresolvable		
+bon-ioan-c5-v19-23	6	apparatus:p309-2	p309-2	scripture	apparatus-explicit	Col. 1, 16	Col 1:16	A	verse		
+bon-ioan-c5-v19-23	6	apparatus:p309-2	p309-2	scripture	apparatus-explicit	Ioan. 1, 3	Ioan 1:3	A	verse		
+bon-ioan-c5-v19-23	6	apparatus:p309-6	p309-6	crossref	relative-bare	ibid. v. 25			unresolvable		
+bon-ioan-c5-v19-23	6	apparatus:p309-6	p309-6	scripture	apparatus-explicit	Luc. 7, 15	Luc 7:15	A	verse		
+bon-ioan-c5-v19-23	6	apparatus:p309-7	p309-7	scripture	apparatus-explicit	Act. 10, 42	Act 10:42	A	verse		
+bon-ioan-c5-v19-23	6	apparatus:p309-7	p309-7	crossref	logical	IV. Sent. d. 48. a. 1. q. 1.	bon-sent-IV-d48-a1-q1		chunk		
+bon-ioan-c5-v19-23	6	apparatus:p309-9	p309-9	scripture	apparatus-explicit	Ioan. 8, 49	Ioan 8:49	A	verse		
+bon-ioan-c5-v19-23	6	apparatus:p310-1	p310-1	crossref	logical	I. Sent. d. 19. p. I. q. 2.	bon-sent-I-d19-p1-a1-q2		chunk		
+bon-ioan-c5-v19-23	6	apparatus:p310-1	p310-1	crossref	relative	ibid. d. 7. q. 2.	bon-sent-I-d7-a1-q2		chunk		
+bon-ioan-c5-v19-23	6	apparatus:p310-4	p310-4	crossref	logical	I. Sent. d. 6. q. 3.	bon-sent-I-d6-a1-q3		chunk		
+bon-ioan-c5-v19-23	6	apparatus:p310-8	p310-8	crossref	logical	I. Sent. d. 3. p. II. a. 1.	bon-sent-I-d3-p2-a1-q1+bon-sent-I-d3-p2-a1-q2+bon-sent-I-d3-p2-a1-q3		articulus		
+bon-ioan-c5-v19-23	6	apparatus:p310-8	p310-8	crossref	work	Itiner.	work:itinerarium		work		
+bon-ioan-c5-v19-23	6	apparatus:p310-9	p310-9	crossref	work	Breviloq. p. I. c. 5.	bon-brev-p1-c5		chunk		
+bon-ioan-c5-v19-23	6	apparatus:p311-2	p311-2	crossref	work	Breviloq. p. I. c. 3.	bon-brev-p1-c3		chunk		
+bon-ioan-c5-v19-23	6	apparatus:p311-2	p311-2	crossref	logical	I Sent. d. 5. a. 1. q. 1.	bon-sent-I-d5-a1-q1		chunk		
+bon-ioan-c5-v19-23	6	apparatus:p311-4	p311-4	crossref	logical	I. Sent. d. 11. q. 2.	bon-sent-I-d11-a1-q2		chunk		
 bon-ioan-prol	6	latin_body		scripture	body-ordinal	Apocalypsis primo	Apoc 1	C	chapter		
 bon-ioan-prol	6	apparatus:p245-1	p245-1	crossref	page	supra pag. 243, nota 2	bon-ioan-prooem		chunk		
 bon-ioan-prol	6	apparatus:p245-2	p245-2	scripture	apparatus-explicit	Ioan. 1, 1	Ioan 1:1	A	verse		
