@@ -3883,6 +3883,23 @@ KNOWN_TOTALS_VOL6 = {
              # dabo*, 6:52b, headless; marginale *Secundo, de caelesti pane sec. humanam naturam
              # tria*) and after and are PENDING for Cap. VI's seventh pericope. Anchors L 1-4; blocks
              # L 1-3 / R 4-12 (n.4 anchors L, prints R). No runover. Gutter 1153 (band 1132-1174).
+             # nn.5-12 NOW OWNED by bon-ioan-c6-v53-59 (¶¶ 81-83): anchors L 5-7 (*ibi*, *sexto*,
+             # *tertio*, ¶ 81) / R 8-12 (*ibi* ¶ 82, *secundo*, *supra*, *Chrysostomus*, *Psalmo*), all
+             # printed in the R block after n.4; nn.9-10 on one line. Digits settled by target (6:53/60,
+             # Matt. 6:11, I Cor. 10:16, Lam. 3:30, Isa. 50:6, Eph. 5:2, 6:54, II Tim. 2:24, John 3:4,
+             # Chrys. hom. 46, Ps. 118:107, Aug. tr. 26 n. 13). PAGE COMPLETE. Gutter 1155 for rows
+             # 0.33-0.78 (band 1133-1178).
+    333: 13, # bon-ioan-c6-v53-59 (¶¶ 83-88): anchors L 1-6 / R 7-13; blocks L 1-8 / R 9-13 (nn.7-8
+             # anchor R, print L). No runover. Gutter 912 (band 890-934, rule 906-917). Recto; gutter
+             # side L (glosses clipped: [M]aior et mi[no]r rationis.).
+    334: 11, # bon-ioan-c6-v53-59 (Quaest. I-III, ¶¶ 89-92): anchors L 1-5 / R 6-11; blocks L 1-8
+             # head / R 8 tail + 9-11. n.8 RUNS OVER THE GUTTER (L ends *...in Ioanne intelligitur*, R
+             # opens flush-left *de manducatione spirituali...*). n.8 *ubi ad 1.* (raw I) settled at 5x
+             # against *q. 1* on the same line and by target (IV d12 p2 a2 q1, reply 1 = John 6).
+             # Gutter 1142 (band 1119-1165).
+    335: 11, # bon-ioan-c6-v53-59 (¶¶ 92-94): anchors L 1-5 / R 6-11; blocks L 1-5 / R 6-11. No
+             # runover. ¶ 95 (*Haec dixit in Synagoga*, 6:60) opens at ~0.92 R, its two lines unanchored.
+             # PAGE COMPLETE. Gutter 903 (band 880-927, rule 901-908).
 }
 
 KNOWN_TOTALS_BY_VOL = {
