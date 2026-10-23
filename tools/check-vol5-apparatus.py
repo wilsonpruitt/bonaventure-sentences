@@ -3866,6 +3866,23 @@ KNOWN_TOTALS_VOL6 = {
              # se.*; nn.8-12 anchor in ¶ 65 (*Murmurabant ergo Iudaei*, 6:41, headless) and after and are
              # PENDING for Cap. VI's sixth pericope (n.8 L, nn.9-12 R). Blocks L 1-4 / R 5-12 (nn.5-7
              # anchor L, print R). No runover. Gutter 905 for the L column (band 881-928, rule 902-908).
+             # bon-ioan-c6-v41-52 owns nn.8-12 (¶¶ 65-67: *supra* L; *Chrysostomus*, *Nonne hic est*,
+             # *quarto*, *ad invicem* R), all printed in the R block after n.7. Digits settled by target
+             # (6:34, Chrysostom hom. 46 on 6:41, Num. 14:27, Luke 3:23, Matt. 13:55, John 4:44, Wis.
+             # 1:11, I Cor. 10:10); n.11's *Cfr. ibid. n. 83.* certain at 6x (the fitting c4 target is
+             # n. 84, Quaest. I; as printed, for the resolver job). PAGE COMPLETE. Gutter 905 for the R
+             # column's region too (rows 0.68-0.85, band 880-930).
+    330: 11, # bon-ioan-c6-v41-52 (¶¶ 68-77): anchors L 1-6 / R 7-11; blocks L 1-6 / R 7-11. No
+             # runover. n.11 *Bernard., de Diligendo Deo, c. 11. n. 31.* flag-topped 1s at 4x.
+             # Gutter 1157 (band 1135-1177, rule 1151-1163, 2 px spread). Verso; gutter side R.
+    331: 11, # bon-ioan-c6-v41-52 (¶¶ 77-79): anchors L 1-5 / R 6-11; blocks L 1-6 head / R 6 tail +
+             # 7-11. n.6 RUNS OVER THE GUTTER (L ends *Ex hoc loco il-*, R opens flush-left
+             # *lustratur doctrina ...*). Gutter 908 (band 886-931, rule 904-911, 2 px spread).
+    332: 12, # bon-ioan-c6-v41-52 owns nn.1-4 (Quaest. III's tail - IV, ¶¶ 79-80), closing ~0.32 L on
+             # *Et sic auctoritas valet ad propositum.*; nn.5-12 anchor in ¶ 81 (*Et panis, quem ego
+             # dabo*, 6:52b, headless; marginale *Secundo, de caelesti pane sec. humanam naturam
+             # tria*) and after and are PENDING for Cap. VI's seventh pericope. Anchors L 1-4; blocks
+             # L 1-3 / R 4-12 (n.4 anchors L, prints R). No runover. Gutter 1153 (band 1132-1174).
 }
 
 KNOWN_TOTALS_BY_VOL = {
