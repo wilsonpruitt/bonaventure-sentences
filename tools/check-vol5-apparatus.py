@@ -3805,6 +3805,17 @@ KNOWN_TOTALS_VOL6 = {
              # full-measure `Capitulum VI.` heading; nn.10-15 anchor in Cap. VI ¶¶ 1-3 and are PENDING
              # for Cap. VI's first pericope. Anchors (Cap. V) L 1-4 / R 5-9; blocks L 1-7 / R 8-15.
              # No runover. Gutter 1135 for Cap. V's region (band 1110-1159, rule 1133-1137).
+             # nn.10-15 now owned by bon-ioan-c6-v1-9 (Cap. VI ¶¶ 1-3, re-derived): anchors L 10-13
+             # (*invisibilia*, *ibi*, *ibi*, *occasio*) / R 14-15 (*haec*, *primo*); all six print in the
+             # R block below n.9. No runover. Gutter 1135 for Cap. VI's region below the heading too
+             # (band 1111-1160, rule 1136-1138; one blown window 1049/224 px rejected).
+    319: 11, # bon-ioan-c6-v1-9 (¶¶ 4-11): anchors L 1-5 / R 6-11; blocks L 1-7 head / R 7 tail + 8-11.
+             # n.7 RUNS OVER THE GUTTER (L ends *Allegorice sic:*, R opens flush-left *Puer unus etc.,
+             # ut infra n. 19 ... seq. n. 11.*). Gutter 891 (band 868-915, rule 889-893, 0 px spread).
+    320: 14, # bon-ioan-c6-v1-9 owns nn.1-11 (¶ 11's close, Quaest. I - III, ¶¶ 12-14), closing ~0.42 R
+             # on *Proba me, Domine, et tenta me.*; nn.12-14 anchor in ¶ 15 (*Dicit*, 6:10) and after and
+             # are PENDING for Cap. VI's second pericope. Anchors L 1-6 / R 7-14; blocks L 1-7 / R 8-14
+             # (n.7 anchors R, prints L). No runover. Gutter 1120 (band 1099-1141, rule 1114-1125).
 }
 
 KNOWN_TOTALS_BY_VOL = {

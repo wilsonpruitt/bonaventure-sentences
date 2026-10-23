@@ -26537,6 +26537,51 @@ bon-ioan-c5-v40-47	6	apparatus:p317-11	p317-11	crossref	page	supra pag. 292, not
 bon-ioan-c5-v40-47	6	apparatus:p318-6	p318-6	scripture	apparatus-explicit	Luc. 23, 34	Luc 23:34	A	verse		
 bon-ioan-c5-v40-47	6	apparatus:p318-7	p318-7	crossref	page	tom. I. pag. 728, nota 2	bon-sent-I-d41-a1-q1+bon-sent-I-d41-p1-divisio		page-multi		
 bon-ioan-c5-v40-47	6	apparatus:p318-7	p318-7	scripture	apparatus-explicit	Matth. 25, 42	Matth 25:42	A	verse		
+bon-ioan-c6-v1-9	6	latin_body	p318-15	scripture	body-ordinal	ad Corinthios primo	Cor* 1:22	B	verse		
+bon-ioan-c6-v1-9	6	latin_body		scripture	body-ordinal	Lucae quinto	Luc 5	C	chapter		
+bon-ioan-c6-v1-9	6	latin_body		scripture	body-ordinal	Exodi decimo quarto	Exod 14	C	chapter		
+bon-ioan-c6-v1-9	6	latin_body	p319-2	scripture	body-ordinal	Matthaei decimo quarto	Matth 14:13	B	verse		
+bon-ioan-c6-v1-9	6	latin_body		scripture	body-ordinal	Matthaei decimo quarto	Matth 14	C	chapter		
+bon-ioan-c6-v1-9	6	latin_body		scripture	body-ordinal	Isaiae quinquagesimo quinto	Isai 55	C	chapter		
+bon-ioan-c6-v1-9	6	latin_body	p319-6	scripture	body-ordinal	Matthaei decimo nono	Matth 19:27	B	verse		
+bon-ioan-c6-v1-9	6	latin_body		scripture	body-ordinal	Actuum tertio	Act 3	C	chapter		
+bon-ioan-c6-v1-9	6	latin_body	p319-7	scripture	body-ordinal	Matthaei duodecimo	Matth 12:1	B	verse		
+bon-ioan-c6-v1-9	6	latin_body		scripture	body-ordinal	Iudicum septimo	Iudic 7	C	chapter		
+bon-ioan-c6-v1-9	6	latin_body	p319-9	scripture	body-ordinal	Deuteronomii decimo sexto	Deut 16:3	B	verse		
+bon-ioan-c6-v1-9	6	latin_body		scripture	body-ordinal	Threnorum tertio	Thren 3	C	chapter		
+bon-ioan-c6-v1-9	6	latin_body		scripture	body-ordinal	Isaiae quarto	Isai 4	C	chapter		
+bon-ioan-c6-v1-9	6	latin_body	p319-11	scripture	body-ordinal	Tobiae secundo	Tob 2:5	B	verse		
+bon-ioan-c6-v1-9	6	latin_body	p320-2	scripture	body-ordinal	Matthaei decimo quarto	Matth 14:15	B	verse		
+bon-ioan-c6-v1-9	6	latin_body	p320-3	scripture	body-ordinal	Marci sexto	Marc 6:37	B	verse		
+bon-ioan-c6-v1-9	6	latin_body	p320-7	scripture	body-ordinal	Iacobi primo	Iac 1:13	B	verse		
+bon-ioan-c6-v1-9	6	latin_body		scripture	anaphor->body-ordinal	ibid	Iac 1:13	B	verse	yes	Iacobi primo
+bon-ioan-c6-v1-9	6	latin_body	p320-9	scripture	body-ordinal	Ecclesiastici decimo tertio	Eccli 13:14	B	verse		
+bon-ioan-c6-v1-9	6	latin_body	p320-10	scripture	body-ordinal	Genesis vigesimo secundo	Gen 22:1	B	verse		
+bon-ioan-c6-v1-9	6	apparatus:p318-10	p318-10	scripture	apparatus-explicit	Rom. 1, 20	Rom 1:20	A	verse		
+bon-ioan-c6-v1-9	6	apparatus:p318-12	p318-12	crossref	relative-bare	ibid. v. 14			unresolvable		
+bon-ioan-c6-v1-9	6	apparatus:p318-15	p318-15	scripture	apparatus-explicit	Luc. 5, 26	Luc 5:26	A	verse		
+bon-ioan-c6-v1-9	6	apparatus:p318-15	p318-15	scripture	apparatus-explicit	Exod. 14, 13	Exod 14:13	A	verse		
+bon-ioan-c6-v1-9	6	apparatus:p319-2	p319-2	scripture	anaphor->body-ordinal	ibid. v. 15	Matth 14:15	B	verse	yes	body: Matthaei decimo quarto
+bon-ioan-c6-v1-9	6	apparatus:p319-3	p319-3	crossref	page	supra pag. 276, nota 11	bon-ioan-c2-v18-25		chunk		
+bon-ioan-c6-v1-9	6	apparatus:p319-3	p319-3	crossref	page	pag. 318, nota 11	bon-ioan-c5-v40-47+bon-ioan-c6-v1-9		page-multi		
+bon-ioan-c6-v1-9	6	apparatus:p319-4	p319-4	scripture	apparatus-explicit	Psalm. 32, 18	Ps 32:18	A	verse		
+bon-ioan-c6-v1-9	6	apparatus:p319-4	p319-4	scripture	apparatus-explicit	Matth. 14, 13	Matth 14:13	A	verse		
+bon-ioan-c6-v1-9	6	apparatus:p319-5	p319-5	scripture	apparatus-explicit	I. Petr. 5, 7	1Petr 5:7	A	verse		
+bon-ioan-c6-v1-9	6	apparatus:p319-5	p319-5	scripture	apparatus-explicit	Isai. 55, 1	Isai 55:1	A	verse		
+bon-ioan-c6-v1-9	6	apparatus:p319-6	p319-6	scripture	apparatus-explicit	Act. 3, 6	Act 3:6	A	verse		
+bon-ioan-c6-v1-9	6	apparatus:p319-8	p319-8	scripture	apparatus-explicit	Psalm. 79, 6	Ps 79:6	A	verse		
+bon-ioan-c6-v1-9	6	apparatus:p319-8	p319-8	scripture	apparatus-explicit	Iud. 7, 13	Iudae 7:13	A	chapter-out-of-range		
+bon-ioan-c6-v1-9	6	apparatus:p319-9	p319-9	scripture	apparatus-explicit	Thren. 3, 19	Thren 3:19	A	verse		
+bon-ioan-c6-v1-9	6	apparatus:p319-10	p319-10	scripture	apparatus-explicit	Isai. 3, 7	Isai 3:7	A	verse		
+bon-ioan-c6-v1-9	6	apparatus:p319-11	p319-11	scripture	apparatus-explicit	Amos 8, 10	Amos 8:10	A	verse		
+bon-ioan-c6-v1-9	6	apparatus:p319-11	p319-11	scripture	apparatus-explicit	Tob. 2, 6	Tob 2:6	A	verse		
+bon-ioan-c6-v1-9	6	apparatus:p320-1	p320-1	scripture	apparatus-explicit	Psalm. 41, 4	Ps 41:4	A	verse		
+bon-ioan-c6-v1-9	6	apparatus:p320-2	p320-2	scripture	anaphor->body-ordinal	ibid. v. 16	Matth 14:16	B	verse	yes	body: Matthaei decimo quarto
+bon-ioan-c6-v1-9	6	apparatus:p320-5	p320-5	scripture	apparatus-explicit	Marc. 6, 38	Marc 6:38	A	verse		
+bon-ioan-c6-v1-9	6	apparatus:p320-6	p320-6	scripture	apparatus-explicit	Ioan. 14, 8	Ioan 14:8	A	verse		
+bon-ioan-c6-v1-9	6	apparatus:p320-8	p320-8	scripture	apparatus-explicit	Psalm. 25, 2	Ps 25:2	A	verse		
+bon-ioan-c6-v1-9	6	apparatus:p320-11	p320-11	scripture	apparatus-explicit	Psalm. 25, 2	Ps 25:2	A	verse		
+bon-ioan-c6-v1-9	6	apparatus:p320-11	p320-11	crossref	logical	II. Sent. d. 21. a. 2. q. 1.	bon-sent-II-d21-a2-q1		chunk		
 bon-ioan-prol	6	latin_body		scripture	body-ordinal	Apocalypsis primo	Apoc 1	C	chapter		
 bon-ioan-prol	6	apparatus:p245-1	p245-1	crossref	page	supra pag. 243, nota 2	bon-ioan-prooem		chunk		
 bon-ioan-prol	6	apparatus:p245-2	p245-2	scripture	apparatus-explicit	Ioan. 1, 1	Ioan 1:1	A	verse		

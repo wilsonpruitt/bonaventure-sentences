@@ -782,6 +782,13 @@ const WORKS = {
       // over ¶ 1 and `Primo, Filius Dei se manifestat curatorem.` over ¶ 2
       // (ruling 79(b): the chunk is titled from the lowest). All unanchored.
       5: "Capitulum V",
+      // `CAPITULUM VI.` read in place on p. 318 at bon-ioan-c6-v1-9: full-measure
+      // centred small capitals MID-LEAF at ~0.36, below Cap. V's last Quaestio,
+      // with TWO stacked small bold headings in the LEFT column: `Secundo, Filius
+      // Dei se manifestat conservatorem.` over ¶ 1 and `Primo se manifestat
+      // conservatorem corporum.` inside ¶ 1, after its first paragraph (ruling
+      // 79(b): the chunk is titled from the lowest). All unanchored.
+      6: "Capitulum VI",
     },
   },
 };
