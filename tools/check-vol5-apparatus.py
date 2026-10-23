@@ -3839,6 +3839,23 @@ KNOWN_TOTALS_VOL6 = {
              # Anchors L 1-3 / R 4-9; blocks L 1-5 head (nn.2-3 set on one line) / R 5 tail + 6-9.
              # n.5 RUNS OVER THE GUTTER (L ends *de dote impas-*, R opens flush-left *sibilitatis dicta
              # sunt ...*). Gutter 1140 (band 1116-1164, rule 1138-1143, 1 px spread).
+             # nn.7-9 now owned by bon-ioan-c6-v22-33 (¶ 37, under the heading, re-derived): anchors
+             # all R (*conservatorem*, *excitetur*, *ibi*); all three print in the R block after n.6;
+             # n.9 closes on *Vers. 34.* -- no runover. Gutter 1140 below the heading too (rows
+             # 0.45-0.70; band 1117-1164, rule 1139-1144, 2 px spread).
+    325: 15, # bon-ioan-c6-v22-33 (¶¶ 38-43): anchors L 1-7 / R 8-15; blocks L 1-7 / R 8-15. No
+             # runover. Gutter 913 (rows 0.05-0.40 912, band 888-936; rows 0.40-0.72 915, band 894-937).
+             # n.15's *Exod 13. 9.* is set in a heavier face with a flat-topped 3 (raw 15) -- settled
+             # 13 by target (the body's *Exodi decimo tertio*, Exod. 13:9).
+    326: 14, # bon-ioan-c6-v22-33 (¶¶ 44-51): anchors L 1-6 / R 7-14; blocks L 1-8 head / R 8 tail +
+             # 9-14 (nn.7-8 anchor R, print L). n.8 RUNS OVER THE GUTTER (L ends Augustine's
+             # *nondum enim poteratis, sed*, R opens flush-left *nec adhuc quidem potestis ...*).
+             # Gutter 1135 (1133 above / 1138 below 0.40; skew 8 px, one split suffices).
+    327: 15, # bon-ioan-c6-v22-33 owns nn.1-10 (Quaest. II's tail - IV, ¶¶ 51-53), closing ~0.07 R on
+             # *veritatem apertam.*; nn.11-15 anchor in ¶ 54 (*Dixerunt ergo ad eum*, 6:34, headless)
+             # and after and are PENDING for Cap. VI's fifth pericope. Anchors L 1-9 / R 10-15; blocks
+             # L 1-7 / R 8-15 (nn.8-9 anchor L, print R). No runover in. Gutter 913 (band 892-936,
+             # rule 910-919, 1 px spread).
 }
 
 KNOWN_TOTALS_BY_VOL = {

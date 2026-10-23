@@ -26638,6 +26638,51 @@ bon-ioan-c6-v14-21	6	apparatus:p323-14	p323-14	scripture	apparatus-explicit	Luc.
 bon-ioan-c6-v14-21	6	apparatus:p324-1	p324-1	scripture	apparatus-explicit	I. Cor. 13, 12	1Cor 13:12	A	verse		
 bon-ioan-c6-v14-21	6	apparatus:p324-5	p324-5	scripture	anaphor->apparatus-explicit	ibid.	1Cor 13:12	A	verse	yes	I. Cor. 13, 12
 bon-ioan-c6-v14-21	6	apparatus:p324-5	p324-5	crossref	logical	IV. Sent. d. 11. p. II. a. 2. q. 2.	bon-sent-IV-d11-p2-a2-q2		chunk		
+bon-ioan-c6-v22-33	6	latin_body	p325-1	scripture	body-ordinal	Matthaei decimo septimo	Matth 17:4	B	verse		
+bon-ioan-c6-v22-33	6	latin_body		scripture	body-ordinal	Sapientiae decimo quarto	Sap 14	C	chapter		
+bon-ioan-c6-v22-33	6	latin_body	p325-6	scripture	body-ordinal	Matthaei vigesimo quarto	Matth 24:3	B	verse		
+bon-ioan-c6-v22-33	6	latin_body	p325-8	scripture	body-ordinal	Exodi decimo sexto	Exod 16:3	B	verse		
+bon-ioan-c6-v22-33	6	latin_body	p325-9	scripture	body-ordinal	ad Corinthios sexto	Cor* 6:13	B	verse		
+bon-ioan-c6-v22-33	6	latin_body		scripture	body-ordinal	Matthaei decimo quinto	Matth 15	C	chapter		
+bon-ioan-c6-v22-33	6	latin_body		scripture	body-ordinal	Isaiae quadragesimo	Isai 40	C	chapter		
+bon-ioan-c6-v22-33	6	latin_body	p325-12	scripture	body-ordinal	Matthaei tertio	Matth 3:17	B	verse		
+bon-ioan-c6-v22-33	6	latin_body		scripture	body-ordinal	Exodi decimo tertio	Exod 13	C	chapter		
+bon-ioan-c6-v22-33	6	latin_body		scripture	body-ordinal	Proverbiorum duodecimo	Prov 12	C	chapter		
+bon-ioan-c6-v22-33	6	latin_body	p326-3	scripture	body-ordinal	ad Hebraeos undecimo	Hebr 11:6	B	verse		
+bon-ioan-c6-v22-33	6	latin_body		scripture	body-ordinal	Genesis decimo quinto	Gen 15	C	chapter		
+bon-ioan-c6-v22-33	6	latin_body	p326-4	scripture	body-ordinal	ad Corinthios primo	Cor* 1:22	B	verse		
+bon-ioan-c6-v22-33	6	latin_body		scripture	body-ordinal	ad Corinthios decimo	Cor* 10	C	chapter		
+bon-ioan-c6-v22-33	6	latin_body		scripture	body-ordinal	Matthaei sexto	Matth 6	C	chapter		
+bon-ioan-c6-v22-33	6	latin_body	p326-12	scripture	body-ordinal	Matthaei sexto	Matth 6:31	B	verse		
+bon-ioan-c6-v22-33	6	latin_body	p326-13	scripture	body-ordinal	Lucae decimo	Luc 10:41	B	verse		
+bon-ioan-c6-v22-33	6	latin_body	p326-14	scripture	body-ordinal	ad Thessalonicenses quarto	Thess* 4:11	B	verse		
+bon-ioan-c6-v22-33	6	latin_body	p327-4	scripture	body-ordinal	ad Romanos tertio	Rom 3:28	B	verse		
+bon-ioan-c6-v22-33	6	latin_body	p327-6	scripture	body-ordinal	Sapientiae decimo sexto	Sap 16:20	B	verse		
+bon-ioan-c6-v22-33	6	apparatus:p325-2	p325-2	scripture	apparatus-explicit	III. Reg. 3, 12	3Reg 3:12	A	verse		
+bon-ioan-c6-v22-33	6	apparatus:p325-2	p325-2	scripture	apparatus-explicit	Deuter. 29	Deut 29	C	chapter		
+bon-ioan-c6-v22-33	6	apparatus:p325-5	p325-5	scripture	apparatus-explicit	Sap. 14, 5	Sap 14:5	A	verse		
+bon-ioan-c6-v22-33	6	apparatus:p325-9	p325-9	scripture	apparatus-explicit	Matth. 15, 17	Matth 15:17	A	verse		
+bon-ioan-c6-v22-33	6	apparatus:p325-10	p325-10	scripture	apparatus-explicit	Isai. 40, 8	Isai 40:8	A	verse		
+bon-ioan-c6-v22-33	6	apparatus:p325-10	p325-10	scripture	apparatus-explicit	Ioan. 6, 69	Ioan 6:69	A	verse		
+bon-ioan-c6-v22-33	6	apparatus:p325-13	p325-13	scripture	apparatus-explicit	Coloss. 1, 18	Col 1:18	A	verse		
+bon-ioan-c6-v22-33	6	apparatus:p325-14	p325-14	crossref	relative-bare	ibid. 3, 34			unresolvable		
+bon-ioan-c6-v22-33	6	apparatus:p325-15	p325-15	scripture	apparatus-explicit	Exod 13	Exod 13	C	chapter		
+bon-ioan-c6-v22-33	6	apparatus:p326-2	p326-2	scripture	apparatus-explicit	Prov. 12, 11	Prov 12:11	A	verse		
+bon-ioan-c6-v22-33	6	apparatus:p326-3	p326-3	scripture	apparatus-explicit	Gen. 15, 6	Gen 15:6	A	verse		
+bon-ioan-c6-v22-33	6	apparatus:p326-5	p326-5	scripture	apparatus-explicit	Psalm. 77, 25	Ps 77:25	A	verse		
+bon-ioan-c6-v22-33	6	apparatus:p326-6	p326-6	scripture	apparatus-explicit	I. Cor. 10, 11	1Cor 10:11	A	verse		
+bon-ioan-c6-v22-33	6	apparatus:p326-6	p326-6	scripture	apparatus-explicit	Matth. 6, 11	Matth 6:11	A	verse		
+bon-ioan-c6-v22-33	6	apparatus:p326-7	p326-7	scripture	apparatus-explicit	Ioan. 10, 10	Ioan 10:10	A	verse		
+bon-ioan-c6-v22-33	6	apparatus:p326-8	p326-8	scripture	apparatus-explicit	Ioan. 1, 14	Ioan 1:14	A	verse		
+bon-ioan-c6-v22-33	6	apparatus:p326-8	p326-8	scripture	apparatus-explicit	I. Cor. 3, 2	1Cor 3:2	A	verse		
+bon-ioan-c6-v22-33	6	apparatus:p327-2	p327-2	scripture	apparatus-explicit	Psalm. 127, 2	Ps 127:2	A	verse		
+bon-ioan-c6-v22-33	6	apparatus:p327-5	p327-5	scripture	apparatus-explicit	Gal. 5, 6	Gal 5:6	A	verse		
+bon-ioan-c6-v22-33	6	apparatus:p327-6	p327-6	scripture	apparatus-explicit	I. Cor. 10, 3	1Cor 10:3	A	verse		
+bon-ioan-c6-v22-33	6	apparatus:p327-7	p327-7	scripture	apparatus-explicit	Matth. 13, 4	Matth 13:4	A	verse		
+bon-ioan-c6-v22-33	6	apparatus:p327-7	p327-7	scripture	apparatus-explicit	Ps. 8, 9	Ps 8:9	A	verse		
+bon-ioan-c6-v22-33	6	apparatus:p327-7	p327-7	scripture	apparatus-explicit	Ps. 17, 14	Ps 17:14	A	verse		
+bon-ioan-c6-v22-33	6	apparatus:p327-8	p327-8	scripture	apparatus-explicit	Psalm. 77, 25	Ps 77:25	A	verse		
+bon-ioan-c6-v22-33	6	apparatus:p327-9	p327-9	crossref	logical	IV. Sent. d. 8. p. I. a. 1. q. 2.	bon-sent-IV-d8-p1-a1-q2		chunk		
 bon-ioan-prol	6	latin_body		scripture	body-ordinal	Apocalypsis primo	Apoc 1	C	chapter		
 bon-ioan-prol	6	apparatus:p245-1	p245-1	crossref	page	supra pag. 243, nota 2	bon-ioan-prooem		chunk		
 bon-ioan-prol	6	apparatus:p245-2	p245-2	scripture	apparatus-explicit	Ioan. 1, 1	Ioan 1:1	A	verse		
