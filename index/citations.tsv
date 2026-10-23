@@ -26683,6 +26683,38 @@ bon-ioan-c6-v22-33	6	apparatus:p327-7	p327-7	scripture	apparatus-explicit	Ps. 8,
 bon-ioan-c6-v22-33	6	apparatus:p327-7	p327-7	scripture	apparatus-explicit	Ps. 17, 14	Ps 17:14	A	verse		
 bon-ioan-c6-v22-33	6	apparatus:p327-8	p327-8	scripture	apparatus-explicit	Psalm. 77, 25	Ps 77:25	A	verse		
 bon-ioan-c6-v22-33	6	apparatus:p327-9	p327-9	crossref	logical	IV. Sent. d. 8. p. I. a. 1. q. 2.	bon-sent-IV-d8-p1-a1-q2		chunk		
+bon-ioan-c6-v34-40	6	latin_body	p327-14	scripture	body-ordinal	Ecclesiastici quarto	Eccli 4:12	B	verse		
+bon-ioan-c6-v34-40	6	latin_body		scripture	body-ordinal	Matthaei undecimo	Matth 11	C	chapter		
+bon-ioan-c6-v34-40	6	latin_body		scripture	body-ordinal	Isaiae secundo	Isai 2	C	chapter		
+bon-ioan-c6-v34-40	6	latin_body	p328-5	scripture	body-ordinal	Canticorum secundo	Cant 2:4	B	verse		
+bon-ioan-c6-v34-40	6	latin_body		scripture	body-ordinal	Apocalypsis tertio	Apoc 3	C	chapter		
+bon-ioan-c6-v34-40	6	latin_body	p328-6	scripture	body-ordinal	ad Philippenses secundo	Phil 2:8	B	verse		
+bon-ioan-c6-v34-40	6	latin_body		scripture	body-ordinal	ad Romanos octavo	Rom 8	C	chapter		
+bon-ioan-c6-v34-40	6	latin_body		scripture	body-ordinal	ad Corinthios primo	Cor* 1	C	chapter		
+bon-ioan-c6-v34-40	6	latin_body	p328-8	scripture	body-ordinal	ad Romanos octavo	Rom 8:11	B	verse		
+bon-ioan-c6-v34-40	6	latin_body	p328-10	scripture	body-ordinal	ad Ephesios secundo	Eph 2:5	B	verse		
+bon-ioan-c6-v34-40	6	latin_body		scripture	body-ordinal	ad Corinthios decimo quinto	Cor* 15	C	chapter		
+bon-ioan-c6-v34-40	6	apparatus:p327-14	p327-14	scripture	apparatus-explicit	Matth. 11, 28	Matth 11:28	A	verse		
+bon-ioan-c6-v34-40	6	apparatus:p327-15	p327-15	scripture	apparatus-explicit	Ioan. 4, 13	Ioan 4:13	A	verse		
+bon-ioan-c6-v34-40	6	apparatus:p328-2	p328-2	crossref	relative-bare	ibid. 5, 44			unresolvable		
+bon-ioan-c6-v34-40	6	apparatus:p328-4	p328-4	scripture	apparatus-explicit	Psalm. 2, 8	Ps 2:8	A	verse		
+bon-ioan-c6-v34-40	6	apparatus:p328-4	p328-4	scripture	apparatus-explicit	Ioan. 17, 11	Ioan 17:11	A	verse		
+bon-ioan-c6-v34-40	6	apparatus:p328-4	p328-4	scripture	apparatus-explicit	Isai. 2, 3	Isai 2:3	A	verse		
+bon-ioan-c6-v34-40	6	apparatus:p328-5	p328-5	scripture	apparatus-explicit	Apoc. 3, 20	Apoc 3:20	A	verse		
+bon-ioan-c6-v34-40	6	apparatus:p328-6	p328-6	scripture	apparatus-explicit	Ioan. 5, 30	Ioan 5:30	A	verse		
+bon-ioan-c6-v34-40	6	apparatus:p328-7	p328-7	scripture	apparatus-explicit	Rom. 8, 29	Rom 8:29	A	verse		
+bon-ioan-c6-v34-40	6	apparatus:p328-7	p328-7	scripture	apparatus-explicit	I. Cor. 1, 19	1Cor 1:19	A	verse		
+bon-ioan-c6-v34-40	6	apparatus:p328-8	p328-8	scripture	apparatus-explicit	Ioan. 18, 9	Ioan 18:9	A	verse		
+bon-ioan-c6-v34-40	6	apparatus:p328-9	p328-9	crossref	page	tom. III. pag. 493, nota 3	bon-sent-III-d23-a2-q3		chunk		
+bon-ioan-c6-v34-40	6	apparatus:p328-10	p328-10	scripture	apparatus-explicit	I. Cor. 15, 26	1Cor 15:26	A	verse		
+bon-ioan-c6-v34-40	6	apparatus:p329-2	p329-2	scripture	apparatus-explicit	Ezech. 33, 13	Ezech 33:13	A	verse		
+bon-ioan-c6-v34-40	6	apparatus:p329-3	p329-3	scripture	apparatus-explicit	Hebr. 11, 1	Hebr 11:1	A	verse		
+bon-ioan-c6-v34-40	6	apparatus:p329-3	p329-3	crossref	logical	III. Sent. d. 23. a. 1. q. 5.	bon-sent-III-d23-a1-q5		chunk		
+bon-ioan-c6-v34-40	6	apparatus:p329-3	p329-3	scripture	apparatus-explicit	Hebr. 11	Hebr 11	C	chapter		
+bon-ioan-c6-v34-40	6	apparatus:p329-5	p329-5	scripture	apparatus-explicit	I. Cor. 13, 12	1Cor 13:12	A	verse		
+bon-ioan-c6-v34-40	6	apparatus:p329-5	p329-5	crossref	logical	III. Sent. d. 24. a. 2. q. 1.	bon-sent-III-d24-a2-q1		chunk		
+bon-ioan-c6-v34-40	6	apparatus:p329-7	p329-7	crossref	logical	I. Sent. d. 40. a. 2. q. 2.	bon-sent-I-d40-a2-q2		chunk		
+bon-ioan-c6-v34-40	6	apparatus:p329-7	p329-7	crossref	logical	III. Sent. d. 31. dub. 2.	bon-sent-III-d31-dubia		chunk		
 bon-ioan-prol	6	latin_body		scripture	body-ordinal	Apocalypsis primo	Apoc 1	C	chapter		
 bon-ioan-prol	6	apparatus:p245-1	p245-1	crossref	page	supra pag. 243, nota 2	bon-ioan-prooem		chunk		
 bon-ioan-prol	6	apparatus:p245-2	p245-2	scripture	apparatus-explicit	Ioan. 1, 1	Ioan 1:1	A	verse		

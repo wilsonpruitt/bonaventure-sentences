@@ -3855,7 +3855,17 @@ KNOWN_TOTALS_VOL6 = {
              # *veritatem apertam.*; nn.11-15 anchor in ¶ 54 (*Dixerunt ergo ad eum*, 6:34, headless)
              # and after and are PENDING for Cap. VI's fifth pericope. Anchors L 1-9 / R 10-15; blocks
              # L 1-7 / R 8-15 (nn.8-9 anchor L, print R). No runover in. Gutter 913 (band 892-936,
-             # rule 910-919, 1 px spread).
+             # rule 910-919, 1 px spread). bon-ioan-c6-v34-40 owns nn.11-15 (¶¶ 54-56: *ibi* x2,
+             # *quarto* x2, *aeternum*), all anchored R and printed in the R block after n.10; nn.12-13 on
+             # one line. Digits settled by target (6:52, 6:41, John 4:15, Ecclus. 4:12, Matt. 11:28,
+             # John 4:13-14). PAGE COMPLETE. Gutter 913 for ¶ 54's region too (rows 0.10-0.60).
+    328: 11, # bon-ioan-c6-v34-40 (¶¶ 56-62): anchors L 1-5 / R 6-11; blocks L 1-7 / R 8-11 (nn.6-7
+             # anchor R, print L). No runover. n.7's *I. Cor. 1, 19.* flag-topped 1, by target.
+             # Gutter 1150 (band 1126-1173, rule 1147-1153; skew 4 px).
+    329: 12, # bon-ioan-c6-v34-40 owns nn.1-7 (Quaest. I-III, ¶¶ 62-64), closing ~0.67 L on *sed ipsi
+             # se.*; nn.8-12 anchor in ¶ 65 (*Murmurabant ergo Iudaei*, 6:41, headless) and after and are
+             # PENDING for Cap. VI's sixth pericope (n.8 L, nn.9-12 R). Blocks L 1-4 / R 5-12 (nn.5-7
+             # anchor L, print R). No runover. Gutter 905 for the L column (band 881-928, rule 902-908).
 }
 
 KNOWN_TOTALS_BY_VOL = {
