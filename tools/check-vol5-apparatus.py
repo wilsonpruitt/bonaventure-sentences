@@ -3827,6 +3827,18 @@ KNOWN_TOTALS_VOL6 = {
              # for Cap. VI's third pericope. Anchors L 1-7 / R 8-12; blocks L 1-6 (n.2 run in on n.1's
              # line) / R 7-12 (n.7 anchors L, prints R). No runover. Gutter 1143 (band 1122-1164,
              # rule 1138-1149).
+             # nn.9-12 now owned by bon-ioan-c6-v14-21 (¶¶ 24-25, re-derived): anchors all R (*autem*,
+             # *septimo*, *erant*, *octavo*); all four print in the R block after n.8; n.12 closes on
+             # *separaverat etc.* -- no runover. Gutter 1143 for ¶ 24's region too (rows 0.09-0.70;
+             # band 1122-1164, rule 1138-1149; rows 0.09-0.30 alone give 1140 on a 48 px band).
+    323: 14, # bon-ioan-c6-v14-21 (¶¶ 26-33): anchors L 1-5 / R 6-14; blocks L 1-7 / R 8-14 (nn.6-7
+             # anchor R, print L). No runover. Gutter 906 (band 883-929, rule 903-909, 0 px spread).
+    324: 9,  # bon-ioan-c6-v14-21 owns nn.1-6 (Quaest. I's tail - IV, ¶¶ 33-36), closing ~0.41 R on
+             # *ostendit eis.* above the heading *Secundo, manifestat se conservatorem spirituum.*;
+             # nn.7-9 anchor in ¶ 37 (*Altera die*, 6:22) and are PENDING for Cap. VI's fourth pericope.
+             # Anchors L 1-3 / R 4-9; blocks L 1-5 head (nn.2-3 set on one line) / R 5 tail + 6-9.
+             # n.5 RUNS OVER THE GUTTER (L ends *de dote impas-*, R opens flush-left *sibilitatis dicta
+             # sunt ...*). Gutter 1140 (band 1116-1164, rule 1138-1143, 1 px spread).
 }
 
 KNOWN_TOTALS_BY_VOL = {
