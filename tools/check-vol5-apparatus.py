@@ -4133,6 +4133,25 @@ KNOWN_TOTALS_VOL6 = {
     390: 14, # bon-ioan-c10-v11-21 owns nn.1-2 (Quaest. VI's close, top of L: *ibi*, *exteriori*);
              # ¶ 33 *Facta sunt encaenia* (Vers. 22-42) opens HEADLESS at ~0.10 L and anchors
              # nn.3-14 — PENDING for the next pericope. Verso, gutter R. Gutter 1158.
+             # nn.3-14 COMPLETED by bon-ioan-c10-v22-42 (¶¶ 33-37): anchors L 3-8 / R 9-14;
+             # blocks L 1-6 head / R 6 tail-14: n.6 RUNS OVER THE GUTTER (L ends *quo Salomon
+             # novum*, R opens *templum dedicavit*).
+    391: 12, # bon-ioan-c10-v22-42 (¶¶ 38-43): anchors L 1-7 / R 8-12; blocks L 1-7 head / R 7
+             # tail-12: n.7 RUNS OVER THE GUTTER (L ends *Et brachium Domini*, R opens *cui
+             # revelatum est*). Recto, gutter L. Gutter 897.
+    392: 13, # bon-ioan-c10-v22-42 (¶¶ 44-51): anchors L 1-6 / R 7-13; blocks L 1-6 / R 7-13
+             # (block and anchor splits coincide). No runover. Verso, gutter R. Gutter 1159.
+    393: 13, # bon-ioan-c10-v22-42 (¶¶ 52-56, QUAESTIONES heading in L): anchors L 1-6 / R 7-13;
+             # blocks L 1-7 head / R 7 tail-13: n.7 RUNS OVER THE GUTTER (L ends *liberum*, R
+             # opens *arbitrium non mutetur*); n.13 RUNS OVER THE PAGE (R ends *Notamus, quod*;
+             # its tail opens p.394's LEFT block unnumbered, *Gregor. (I. Homil. in Ezech.*).
+             # Recto, gutter L. Gutter 898.
+    394: 13, # bon-ioan-c10-v22-42 owns nn.1-7 (Quaest. III's close and Quaest. IV, ¶¶ 56-57,
+             # closing at ~0.33 R on *nec eius discipulus.*; anchors L 1-3 / R 4-7) and the
+             # unnumbered tail of p.393 n.13 heading the L block; then the full-measure
+             # `Capitulum XI.` (~0.35) and Cap. XI ¶ 1 ff. anchor nn.8-13 — PENDING for
+             # bon-ioan-c11-v1-6. Blocks L (p.393 n.13 tail) 1-6 / R 7-13. Verso, gutter R.
+             # Gutter 1171 (Cap. X region, rows 0.06-0.32).
 }
 
 KNOWN_TOTALS_BY_VOL = {
