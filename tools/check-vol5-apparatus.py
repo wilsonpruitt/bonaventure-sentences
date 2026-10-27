@@ -4079,10 +4079,21 @@ KNOWN_TOTALS_VOL6 = {
              # R 8 tail-15. n.8 RUNS OVER THE GUTTER (L ends *Cfr. tom. II.*, R opens *pag. 850*).
              # Recto, gutter L. Gutter 909.
     376: 8,  # bon-ioan-c9-v1-11 owns nn.1-4 (¶ 17, Quaest. IV's reply, anchors all L, above the heading
-             # *In parte secunda describitur Pharisaeorum disceptatio.* at ~0.26 L). Register: L 1-3 head
-             # / R 3 tail-4 (n.3 RUNS OVER THE GUTTER, c9-v1-11's), n.4's two schemata full measure,
-             # then L 5 / R 5 tail-8. nn.5-8 PENDING for the next pericope (Vers. 12-34; n.5 also runs
-             # over the gutter, its to log). Verso, gutter R. Gutter 1155 above the heading.
+             # *In parte secunda describitur Pharisaeorum disceptatio.* at ~0.26 L); bon-ioan-c9-v12-34
+             # owns nn.5-8 (¶¶ 18-20: n.5 L, nn.6-8 R). Register: L 1-3 head / R 3 tail-4 (n.3 RUNS
+             # OVER THE GUTTER, c9-v1-11's), n.4's two schemata full measure, then L 5 head / R 5
+             # tail-8 (n.5 RUNS OVER THE GUTTER, c9-v12-34's). Verso, gutter R. Gutter 1155.
+    377: 13, # bon-ioan-c9-v12-34 (¶¶ 20-26): anchors L 1-7 / R 8-13; blocks L 1-7 / R 8-13, both open
+             # numbered, no runover. Recto, gutter L. Gutter 896.
+    378: 11, # bon-ioan-c9-v12-34 (¶¶ 26-33): anchors L 1-4 / R 5-11; blocks L 1-8 / R 9-11, no runover.
+             # Verso, gutter R. Gutter 1160.
+    379: 15, # bon-ioan-c9-v12-34 (¶¶ 33-42, Quaestiones from ¶ 41 at ~0.43 R): anchors L 1-9 / R 10-15;
+             # blocks L 1-10 head / R 10 tail-15. n.10 RUNS OVER THE GUTTER (L ends *topicis, pro*,
+             # R opens *loco ab antecedentibus*). Recto, gutter L. Gutter 905.
+    380: 12, # bon-ioan-c9-v12-34 owns nn.1-8 (¶¶ 42-45, Quaest. II-V, anchors all L); the RIGHT column
+             # opens under *In tertia parte describitur spiritualis caeci illuminatio.* (¶ 46, Vers.
+             # 35-41) and anchors nn.9-12 — PENDING for the next pericope. Blocks L 1-5 / R 6-12, no
+             # runover. Verso, gutter R. Gutter 1167.
 }
 
 KNOWN_TOTALS_BY_VOL = {
