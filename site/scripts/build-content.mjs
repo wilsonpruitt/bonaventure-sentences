@@ -805,6 +805,15 @@ const WORKS = {
       // is titled from ¶ 1's first sentence after the lemma). Unanchored. The
       // index (*Capitulum VIII … Vers. 1-11 … 353*) agrees.
       8: "Capitulum VIII",
+      // `CAPITULUM IX.` read in place on p. 372 at bon-ioan-c9-v1-11: full-measure
+      // centred small capitals MID-LEAF at ~0.22, below Cap. VIII's Quaest. IV
+      // (LEFT) and Quaest. V (RIGHT, …de secundo habetur hic.), with TWO stacked
+      // small bold headings in the LEFT column: `Secundo, Filius Dei se ostendit
+      // lucem et directorem miraculo potentiae.` over ¶ 1, and inside ¶ 1 `In
+      // parte prima insinuatur mirabilis caeci illuminatio.` (ruling 79(b): the
+      // chunk is titled from the lowest). All unanchored. The raw drops the
+      // capitulum heading. The index (*Capitulum IX … Vers. 1-11 … 372*) agrees.
+      9: "Capitulum IX",
     },
   },
 };

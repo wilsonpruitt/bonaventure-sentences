@@ -4065,10 +4065,24 @@ KNOWN_TOTALS_VOL6 = {
              # blocks L 1-5 head / R 5 tail-12. n.5 RUNS OVER THE GUTTER (L ends *Sed sustinere ista
              # aeter-*, R opens *nitatis verba*). Recto, gutter L. Gutter 903 (band 881-926).
     372: 12, # bon-ioan-c8-v51-59 owns nn.1-5 (¶¶ 86-88, Quaest. III-V; anchors L 1-2 / R 3-5), all
-             # above the full-measure mid-leaf `Capitulum IX.` heading (~0.22). nn.6-12 PENDING for
-             # Capitulum IX's first pericope (Vers. 1 ff.): n.6 *ibi*6, n.7 *ibi*7 (L), n.8-12 (R);
-             # blocks L 1-9 head / R 9 tail-12 (n.9 runs over the gutter, Cap. IX's). Verso, gutter
-             # R. Gutter 1155 above the heading (band 1131-1180), 1157 below (band 1133-1181).
+             # above the full-measure mid-leaf `Capitulum IX.` heading (~0.22). nn.6-12 are
+             # bon-ioan-c9-v1-11's (¶¶ 1-3: *ibi*6, *ibi*7 L; *Threnorum primo*8, *Chrysostomus*9,
+             # *supra quinto*10, *parentes eius*11, *supra secundo*12 R) — COMPLETE. Blocks L 1-9 head /
+             # R 9 tail-12 (n.9 RUNS OVER THE GUTTER, logged by c9-v1-11). Verso, gutter R. Gutter 1155
+             # above the heading (band 1131-1180), 1157 below (band 1133-1181).
+    373: 12, # bon-ioan-c9-v1-11 (¶¶ 3-8): anchors L 1-4 / R 5-12; blocks L 1-8 / R 9-12, both open
+             # numbered. No runover. Recto, gutter L. Gutter 908.
+    374: 14, # bon-ioan-c9-v1-11 (¶¶ 9-14, Quaestiones from ¶ 14 at ~0.50 R): anchors L 1-5 / R 6-14;
+             # blocks L 1-10 head / R 10 tail-14. n.10 RUNS OVER THE GUTTER (L ends *locutus esset,
+             # sed*, R opens *et de eo tanquam*). Verso, gutter R. Gutter 1158.
+    375: 15, # bon-ioan-c9-v1-11 (¶¶ 14-17, Quaest. I-IV): anchors L 1-9 / R 10-15; blocks L 1-8 head /
+             # R 8 tail-15. n.8 RUNS OVER THE GUTTER (L ends *Cfr. tom. II.*, R opens *pag. 850*).
+             # Recto, gutter L. Gutter 909.
+    376: 8,  # bon-ioan-c9-v1-11 owns nn.1-4 (¶ 17, Quaest. IV's reply, anchors all L, above the heading
+             # *In parte secunda describitur Pharisaeorum disceptatio.* at ~0.26 L). Register: L 1-3 head
+             # / R 3 tail-4 (n.3 RUNS OVER THE GUTTER, c9-v1-11's), n.4's two schemata full measure,
+             # then L 5 / R 5 tail-8. nn.5-8 PENDING for the next pericope (Vers. 12-34; n.5 also runs
+             # over the gutter, its to log). Verso, gutter R. Gutter 1155 above the heading.
 }
 
 KNOWN_TOTALS_BY_VOL = {
