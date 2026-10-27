@@ -4056,8 +4056,19 @@ KNOWN_TOTALS_VOL6 = {
     369: 12, # bon-ioan-c8-v37-50 owns nn.1-8 (¶¶ 72-74, Quaest. V-VII; anchors L 1-7 / R 8 at the
              # head of R); blocks L 1-7 head / R 7 tail-12. n.7 RUNS OVER THE GUTTER (L ends *sed etiam
              # textus*, R opens *originalis consensit*). ¶ 75 *Amen, amen dico vobis* (headless) follows
-             # at ~0.11 R; nn.9-12 PENDING for the next pericope (Vers. 51 ff.). Recto, gutter L.
-             # Gutter 895 (band 870-920).
+             # at ~0.11 R; nn.9-12 are bon-ioan-c8-v51-59's (¶¶ 75-76, all R: *ipsam*9, *gustabit*10,
+             # *ultimo*11, *quarto*12); n.9 reads *supra n. 17.* (the hand-off's 47 corrected by target,
+             # c8-v12-20 ¶ 17). Recto, gutter L. Gutter 895 (band 870-920).
+    370: 14, # bon-ioan-c8-v51-59 (¶¶ 76-80): anchors L 1-6 / R 7-14; blocks L 1-10 / R 11-14 (nn.7-10
+             # anchor R, print L). No runover. Verso, gutter R. Gutter 1165 (band 1141-1190).
+    371: 12, # bon-ioan-c8-v51-59 (¶¶ 80-86, Quaestiones I-III from ¶ 84): anchors L 1-6 / R 7-12;
+             # blocks L 1-5 head / R 5 tail-12. n.5 RUNS OVER THE GUTTER (L ends *Sed sustinere ista
+             # aeter-*, R opens *nitatis verba*). Recto, gutter L. Gutter 903 (band 881-926).
+    372: 12, # bon-ioan-c8-v51-59 owns nn.1-5 (¶¶ 86-88, Quaest. III-V; anchors L 1-2 / R 3-5), all
+             # above the full-measure mid-leaf `Capitulum IX.` heading (~0.22). nn.6-12 PENDING for
+             # Capitulum IX's first pericope (Vers. 1 ff.): n.6 *ibi*6, n.7 *ibi*7 (L), n.8-12 (R);
+             # blocks L 1-9 head / R 9 tail-12 (n.9 runs over the gutter, Cap. IX's). Verso, gutter
+             # R. Gutter 1155 above the heading (band 1131-1180), 1157 below (band 1133-1181).
 }
 
 KNOWN_TOTALS_BY_VOL = {
