@@ -4001,6 +4001,20 @@ KNOWN_TOTALS_VOL6 = {
              # opens the RIGHT column; nn.7-9 PENDING for bon-ioan-c8-v12-20, plus an UNNUMBERED
              # full-measure note *Sola ed. habet* (schema, *loquitur nobis Dominus*) beneath both
              # blocks, outside this count. Recto, gutter L. Gutter 901 (band 877-925).
+             # nn.7-9 written by bon-ioan-c8-v12-20 — page complete. Re-derived: n.7 *Iesus*7,
+             # n.8 *ibi*8 (the SECOND divisio member, *a servitute peccati, ibi: Dixit ergo eis
+             # iterum Iesus* -- not the *gustabit* member as handed off), n.9 *nobilitatem*9, all
+             # RIGHT. The unnumbered schema is carried as [^p357-nota] (closing-note label), not counted.
+    358: 16, # bon-ioan-c8-v12-20 (¶¶ 18-25): anchors L 1-9 / R 10-16; blocks L 1-7 head / R 7
+             # tail-16. n.7 RUNS OVER THE GUTTER (L ends *[v. 31.]: Si*, R opens flush-left *ego
+             # testimonium perhibeo*). Verso, gutter R. Gutter 1147 (band 1126-1169, rule 1143-1154).
+             # Plate digit against the raw: n.12 homil. 52 (raw 32).
+    359: 9,  # bon-ioan-c8-v12-20 (¶¶ 25-27, Quaest. I): anchors L 1-4 / R 5-9; blocks L 1-5 /
+             # R 6-9 (n.5 anchors R, prints L). No runover. Recto, gutter L. Gutter 912 (band 889-935).
+    360: 14, # bon-ioan-c8-v12-20 owns nn.1-10 (¶¶ 27-29, Quaest. I-III): anchors L 1-9 / R 10;
+             # blocks L 1-9 / R 10-14. No runover. Quaest. III closes at ~0.13 R on *...arbitrii
+             # libertas.*; ¶ 30 *Dixit ergo iterum eis Iesus* (headless) follows; nn.11-14 PENDING
+             # for bon-ioan-c8-v21-30. Verso, gutter R. Gutter 1146 (band 1123-1169).
 }
 
 KNOWN_TOTALS_BY_VOL = {
