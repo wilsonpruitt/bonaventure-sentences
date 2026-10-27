@@ -4119,6 +4119,20 @@ KNOWN_TOTALS_VOL6 = {
              # HEADLESS at ~0.12 R and anchors nn.8-10 — PENDING for the next pericope. Blocks
              # L 1-7 head / R 7 tail-10: n.7 RUNS OVER THE GUTTER (L ends *exire autem de*, R opens
              # *Ecclesia*), c10-v1-10's. Verso, gutter R. Gutter 1149.
+             # nn.8-10 COMPLETED by bon-ioan-c10-v11-21 (¶¶ 16-17: *decimo quinto*, *Gregorius*,
+             # *Gregorius*, all R; each opens numbered in the R block, no runover).
+    387: 9,  # bon-ioan-c10-v11-21 (¶¶ 17-21): anchors L 1-3 / R 4-9. Blocks L 1-3 head / R 3 tail-5,
+             # then the edition's full-measure schema in n.5 (*Et nota, quod* + vertical *bonitas
+             # pastoris consistit*), then L 6-7 head / R 7 tail-9. n.3 and n.7 RUN OVER THE GUTTER.
+             # Recto, gutter L. Gutter 908.
+    388: 16, # bon-ioan-c10-v11-21 (¶¶ 21-28, Quaestiones heading in R): anchors L 1-7 / R 8-16;
+             # blocks L 1-10 / R 11-16 (the L block overruns the anchor division by three). Verso,
+             # gutter R. Gutter 1167.
+    389: 12, # bon-ioan-c10-v11-21 (¶¶ 28-32): anchors L 1-7 / R 8-12; blocks L 1-8 / R 9-12. No
+             # runover. Recto, gutter L. Gutter 907.
+    390: 14, # bon-ioan-c10-v11-21 owns nn.1-2 (Quaest. VI's close, top of L: *ibi*, *exteriori*);
+             # ¶ 33 *Facta sunt encaenia* (Vers. 22-42) opens HEADLESS at ~0.10 L and anchors
+             # nn.3-14 — PENDING for the next pericope. Verso, gutter R. Gutter 1158.
 }
 
 KNOWN_TOTALS_BY_VOL = {
