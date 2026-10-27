@@ -789,6 +789,16 @@ const WORKS = {
       // conservatorem corporum.` inside ¶ 1, after its first paragraph (ruling
       // 79(b): the chunk is titled from the lowest). All unanchored.
       6: "Capitulum VI",
+      // `CAPITULUM VII.` read in place on p. 338 at bon-ioan-c7-v1-13: full-measure
+      // centred small capitals MID-LEAF at ~0.53, below Cap. VI's last Quaestio
+      // (the index's `Capitulum VII … 339` is the page of `(Vers. 1.)`, one leaf
+      // late, ruling 82(d)), with THREE stacked small bold headings in the LEFT
+      // column: `Tertio, Filius Dei se manifestat directorem et illustratorem
+      // tripliciter.` over ¶ 1 (p. 338), and inside ¶ 1 on p. 339 `Primo se
+      // ostendit lucem et directorem verbo doctrinae.` and `Pars prima de
+      // Doctoris propalatione agit dupliciter.` (ruling 79(b): the chunk is
+      // titled from the lowest). All unanchored.
+      7: "Capitulum VII",
     },
   },
 };

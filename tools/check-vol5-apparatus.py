@@ -3910,6 +3910,24 @@ KNOWN_TOTALS_VOL6 = {
              # vobis*, R opens flush-left *diabolus est?*). Full-measure `Capitulum VII.` mid-leaf at
              # ~0.53; nn.9-10 anchor in Cap. VII's ¶ 1 (*haec*9, *ibi*10) -- PENDING for Capitulum
              # VII's first pericope. Gutter 1140 above the heading, 1147 below (band 1123-1172).
+             # nn.9-10 PICKED UP by bon-ioan-c7-v1-13 (*haec*9 L, *ibi*10 R; printed at the foot of
+             # the R block below n.8). PAGE COMPLETE.
+    339: 4,  # bon-ioan-c7-v1-13 (¶¶ 1-2): anchors L 1-3 / R 4. n.1 is a FULL-MEASURE note carrying the
+             # schema *Verbum Dei fructum habet in comparatione* (four groups x three), rendered whole as
+             # a nested outline (the p. 315 n.6 precedent). Below it nn.2-3 share one line (L), n.4
+             # opens L and RUNS OVER THE GUTTER (L ends *...hic autem Sce-*, R opens flush-left
+             # *nopegiae meminit*). Gutter 907 body / 911 footer.
+    340: 12, # bon-ioan-c7-v1-13 (¶¶ 2-8): anchors L 1-6 / R 7-12; blocks L 1-4 head / R 4 tail + 5-12.
+             # n.4 RUNS OVER THE GUTTER (L ends *...huiusmodi co-*, R opens flush-left *gnationes
+             # fratres appellat*). Verso, gutter R (gloss clipped: *Duplex ex[cu]satio.*). Gutter 1154
+             # (band 1130-1178, rule 1152-1155).
+    341: 11, # bon-ioan-c7-v1-13 (¶¶ 8-16, Quaest. I-II): anchors L 1-6 / R 7-11; blocks L 1-4 / R 5-11.
+             # No runover. Gutter 897 (band 874-921, rule 894-900).
+    342: 13, # bon-ioan-c7-v1-13 owns nn.1-9 (¶¶ 16-18, Quaest. II-IV): anchors L 1-8 / R 9; blocks
+             # L 1-4 / R 5-13. No runover. ¶ 19 (*Iam*10 *die festo mediante*, 7:14) opens at ~0.17 R
+             # with NO heading; nn.10-13 anchor in ¶¶ 19-21 -- PENDING for bon-ioan-c7-v14-18.
+             # n.9 *c. 2. n. 17.* (1-vs-4) settled by target (c. 2 ¶ 17 = Quaest. IV on 2:4).
+             # Gutter 1137 (band 1114-1161, rule 1136-1140).
 }
 
 KNOWN_TOTALS_BY_VOL = {
