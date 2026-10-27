@@ -3939,6 +3939,15 @@ KNOWN_TOTALS_VOL6 = {
              # R 10-15. No runover. The heading *Pars secunda agit de doctrinae communicatione
              # dupliciter.* and ¶ 27 (two lines, unanchored) stand at ~0.68 R: the leaf forwards
              # NOTHING. Gutter 1145 (band 1123-1168, rule 1142-1150).
+             # Re-derived by bon-ioan-c7-v19-24: forwards nothing (body-only share).
+    345: 15, # bon-ioan-c7-v19-24 (¶¶ 27-32): anchors L 1-8 / R 9-15; blocks L 1-7 / R 8-15
+             # (n.8 anchors L, prints R). No runover. Recto, gutter L. Gutter 885 (band 861-909,
+             # rule 883-886).
+    346: 12, # bon-ioan-c7-v19-24 owns nn.1-9 (¶¶ 33-35, Quaest. I-III): anchors L 1-6 / R 7-9;
+             # blocks L 1-7 / R 8-12 (n.7 anchors R, prints L). No runover. Quaest. III closes at
+             # ~0.37 R on *docet castitatem*9; ¶ 36 *Dicebant ergo* (headless) follows.
+             # nn.10-12 PENDING for bon-ioan-c7-v25-31 (*interficere*10 ¶ 36, *quoniam*11 ¶ 37,
+             # *primo*12 ¶ 38, all R). Gutter 1149 (band 1125-1173, rule 1148-1151).
 }
 
 KNOWN_TOTALS_BY_VOL = {
