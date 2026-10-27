@@ -4013,8 +4013,23 @@ KNOWN_TOTALS_VOL6 = {
              # R 6-9 (n.5 anchors R, prints L). No runover. Recto, gutter L. Gutter 912 (band 889-935).
     360: 14, # bon-ioan-c8-v12-20 owns nn.1-10 (¶¶ 27-29, Quaest. I-III): anchors L 1-9 / R 10;
              # blocks L 1-9 / R 10-14. No runover. Quaest. III closes at ~0.13 R on *...arbitrii
-             # libertas.*; ¶ 30 *Dixit ergo iterum eis Iesus* (headless) follows; nn.11-14 PENDING
-             # for bon-ioan-c8-v21-30. Verso, gutter R. Gutter 1146 (band 1123-1169).
+             # libertas.*; ¶ 30 *Dixit ergo iterum eis Iesus* (headless) follows; nn.11-14 are
+             # bon-ioan-c8-v21-30's (¶¶ 30-32, all R: *ibi*11, *decimo tertio*12, *Dixerunt*13,
+             # *Augustinus*14; n.14 completes on the leaf). Verso, gutter R. Gutter 1146 (band 1123-1169).
+    361: 14, # bon-ioan-c8-v21-30 (¶¶ 32-38): anchors L 1-6 / R 7-14; blocks L 1-12 head / R 12
+             # tail-14. n.12 RUNS OVER THE GUTTER (L ends *alii codd.* above the signature line
+             # *S. Bonav. -- Tom. VI.*, R opens flush-left *et Gorranus iudicando*). n.6 prints *hoe*
+             # (wrong sort for *hoc*). Recto, gutter L. Gutter 899 (band 877-922, rule 895-903).
+    362: 12, # bon-ioan-c8-v21-30 (¶¶ 38-44, Quaest. I-IV): anchors L 1-6 / R 7-12; blocks L 1-10
+             # head / R 10 tail-12. n.10 RUNS OVER THE GUTTER (L ends *De quibusdam quae-*, R opens
+             # *ramus:*). Plate digit against the raw: n.3 II. Paralip. 12, 5 (raw 3). Verso, gutter R.
+             # Gutter 1159 (band 1137-1182, rule 1155-1165).
+    363: 11, # bon-ioan-c8-v21-30 owns nn.1-2 (¶ 44 Quaest. IV, head of L): n.1 *salutem*1, n.2
+             # *sapientiae*2; n.2 RUNS OVER THE GUTTER (L ends *de derelictione tertia et*, R opens
+             # *quarta, quae est iracundiae*) and its text introduces the full-measure schema *Et nota,
+             # quod ... est derelictio* (four members) set beneath both blocks -- part of n.2, not
+             # counted separately. ¶ 45 *Dicebat ergo Iesus etc.* (headless) follows at ~0.08 L;
+             # nn.3-11 PENDING for bon-ioan-c8-v31-36. Recto, gutter L. Gutter 903 (band 879-927).
 }
 
 KNOWN_TOTALS_BY_VOL = {
