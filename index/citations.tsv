@@ -26972,6 +26972,40 @@ bon-ioan-c7-v19-24	6	apparatus:p346-3	p346-3	scripture	apparatus-explicit	Act. 1
 bon-ioan-c7-v19-24	6	apparatus:p346-7	p346-7	scripture	apparatus-explicit	Luc. 13, 15	Luc 13:15	A	verse		
 bon-ioan-c7-v19-24	6	apparatus:p346-8	p346-8	scripture	apparatus-explicit	Gen. 12, 1	Gen 12:1	A	verse		
 bon-ioan-c7-v19-24	6	apparatus:p346-9	p346-9	crossref	logical	IV. Sent. d. 1. p. II. a. 2.	bon-sent-IV-d1-p2-a2-q1+bon-sent-IV-d1-p2-a2-q2+bon-sent-IV-d1-p2-a2-q3		articulus		
+bon-ioan-c7-v25-31	6	latin_body		scripture	body-ordinal	Proverbiorum primo	Prov 1	C	chapter		
+bon-ioan-c7-v25-31	6	latin_body		scripture	body-ordinal	Isaiae quinquagesimo tertio	Isai 53	C	chapter		
+bon-ioan-c7-v25-31	6	latin_body		scripture	body-ordinal	Sapientiae decimo octavo	Sap 18	C	chapter		
+bon-ioan-c7-v25-31	6	latin_body	p347-1	scripture	body-ordinal	Proverbiorum primo	Prov 1:20	B	verse		
+bon-ioan-c7-v25-31	6	latin_body		scripture	body-ordinal	Isaiae quinquagesimo octavo	Isai 58	C	chapter		
+bon-ioan-c7-v25-31	6	latin_body		scripture	body-ordinal	Matthaei decimo tertio	Matth 13	C	chapter		
+bon-ioan-c7-v25-31	6	latin_body		scripture	body-ordinal	Numerorum vigesimo tertio	Num 23	C	chapter		
+bon-ioan-c7-v25-31	6	latin_body	p347-4	scripture	body-ordinal	Matthaei undecimo	Matth 11:27	B	verse		
+bon-ioan-c7-v25-31	6	latin_body		scripture	body-ordinal	Isaiae sexagesimo primo	Isai 61	C	chapter		
+bon-ioan-c7-v25-31	6	latin_body	p347-7	scripture	body-ordinal	Ieremiae octavo	Ierem 8:5	B	verse		
+bon-ioan-c7-v25-31	6	latin_body	p347-9	scripture	body-ordinal	Matthaei undecimo	Matth 11:25	B	verse		
+bon-ioan-c7-v25-31	6	latin_body		scripture	body-ordinal	ad Corinthios primo	Cor* 1	C	chapter		
+bon-ioan-c7-v25-31	6	latin_body	p348-4	scripture	anaphor->body-ordinal	ibid	Cor* 1	C	chapter	yes	ad Corinthios primo
+bon-ioan-c7-v25-31	6	latin_body	p348-5	scripture	body-ordinal	Isaiae quadragesimo secundo	Isai 42:2	B	verse		
+bon-ioan-c7-v25-31	6	latin_body		scripture	body-ordinal	Ioannis octavo	Ioan 8	C	chapter		
+bon-ioan-c7-v25-31	6	apparatus:p346-10	p346-10	scripture	apparatus-explicit	Prov. 1, 16	Prov 1:16	A	verse		
+bon-ioan-c7-v25-31	6	apparatus:p346-12	p346-12	scripture	apparatus-explicit	Isai. 53, 8	Isai 53:8	A	verse		
+bon-ioan-c7-v25-31	6	apparatus:p346-12	p346-12	scripture	apparatus-explicit	Sap. 18, 14	Sap 18:14	A	verse		
+bon-ioan-c7-v25-31	6	apparatus:p347-1	p347-1	scripture	apparatus-explicit	Isai. 58, 1	Isai 58:1	A	verse		
+bon-ioan-c7-v25-31	6	apparatus:p347-1	p347-1	scripture	apparatus-explicit	Matth. 13, 55	Matth 13:55	A	verse		
+bon-ioan-c7-v25-31	6	apparatus:p347-2	p347-2	scripture	apparatus-explicit	Psalm. 115, 11	Ps 115:11	A	verse		
+bon-ioan-c7-v25-31	6	apparatus:p347-2	p347-2	scripture	apparatus-explicit	Num. 23, 19	Num 23:19	A	verse		
+bon-ioan-c7-v25-31	6	apparatus:p347-2	p347-2	scripture	apparatus-explicit	Ioan. 5, 37	Ioan 5:37	A	verse		
+bon-ioan-c7-v25-31	6	apparatus:p347-4	p347-4	scripture	apparatus-explicit	Ioan. 1, 18	Ioan 1:18	A	verse		
+bon-ioan-c7-v25-31	6	apparatus:p347-5	p347-5	scripture	apparatus-explicit	Isai. 61, 1	Isai 61:1	A	verse		
+bon-ioan-c7-v25-31	6	apparatus:p347-8	p347-8	crossref	page	supra pag. 273	bon-ioan-c2-v1-11+bon-ioan-c2-v12-17		page-multi		
+bon-ioan-c7-v25-31	6	apparatus:p347-8	p347-8	scripture	apparatus-explicit	Ioan. 17, 1	Ioan 17:1	A	verse		
+bon-ioan-c7-v25-31	6	apparatus:p347-9	p347-9	scripture	apparatus-explicit	I. Cor. 1, 26	1Cor 1:26	A	verse		
+bon-ioan-c7-v25-31	6	apparatus:p347-10	p347-10	scripture	apparatus-explicit	Ioan. 15, 24	Ioan 15:24	A	verse		
+bon-ioan-c7-v25-31	6	apparatus:p347-12	p347-12	scripture	apparatus-explicit	Isai. 7, 14	Isai 7:14	A	verse		
+bon-ioan-c7-v25-31	6	apparatus:p347-12	p347-12	scripture	apparatus-explicit	Luc. 1, 34	Luc 1:34	A	verse		
+bon-ioan-c7-v25-31	6	apparatus:p348-3	p348-3	scripture	apparatus-explicit	Ioan. 9, 29	Ioan 9:29	A	verse		
+bon-ioan-c7-v25-31	6	apparatus:p348-4	p348-4	crossref	logical	I. Sent. d. 36. dub. 3.	bon-sent-I-d36-dubia		chunk		
+bon-ioan-c7-v25-31	6	apparatus:p348-4	p348-4	crossref	chain-continuation	d. 38. dub. 3.	bon-sent-I-d38-dubia		chunk		
 bon-ioan-prol	6	latin_body		scripture	body-ordinal	Apocalypsis primo	Apoc 1	C	chapter		
 bon-ioan-prol	6	apparatus:p245-1	p245-1	crossref	page	supra pag. 243, nota 2	bon-ioan-prooem		chunk		
 bon-ioan-prol	6	apparatus:p245-2	p245-2	scripture	apparatus-explicit	Ioan. 1, 1	Ioan 1:1	A	verse		

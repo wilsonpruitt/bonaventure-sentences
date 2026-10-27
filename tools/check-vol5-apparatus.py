@@ -3948,6 +3948,17 @@ KNOWN_TOTALS_VOL6 = {
              # ~0.37 R on *docet castitatem*9; ¶ 36 *Dicebant ergo* (headless) follows.
              # nn.10-12 PENDING for bon-ioan-c7-v25-31 (*interficere*10 ¶ 36, *quoniam*11 ¶ 37,
              # *primo*12 ¶ 38, all R). Gutter 1149 (band 1125-1173, rule 1148-1151).
+             # Re-derived by bon-ioan-c7-v25-31: nn.10-12 anchor R (¶¶ 36-38) and print last in
+             # the R block, as handed off; digits settled by target (Prov. 1:16; John 1:45;
+             # Isa. 53:8; Wis. 18:14). Now complete.
+    347: 12, # bon-ioan-c7-v25-31 (¶¶ 38-43): anchors L 1-5 / R 6-12; blocks L 1-6 / R 7-12
+             # (n.6 anchors R, prints L). No runover. Recto, gutter L. Gutter 886 (band 864-908,
+             # rule 880-890, the inked-rule case). Plate digits against the raw: n.2 Psalm. 115
+             # (raw 113), n.3 8, 55 (raw 53).
+    348: 16, # bon-ioan-c7-v25-31 owns nn.1-7 (¶¶ 43-46, Quaest. I-IV, all anchors L);
+             # blocks L 1-6 / R 7-16 (n.7 anchors L, prints R). No runover. Quaest. IV closes at
+             # ~0.47 L on *...dicitur Ioannis octavo.*; ¶ 47 *Audierunt autem*8 (headless) follows.
+             # nn.8-16 PENDING for bon-ioan-c7-v32-39. Gutter 1160 (band 1136-1184, rule 1158-1161).
 }
 
 KNOWN_TOTALS_BY_VOL = {
