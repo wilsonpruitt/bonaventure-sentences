@@ -1,5 +1,7 @@
 # Vol VI *Ioannem* MID-WORK GATE (p. 371, ruling 76): EVIDENCE SHEET
 
+**STATUS: CLOSED 2026-10-27 — Wilson ruled "ALL AS RECOMMENDED" on §§ 1–8; recorded as rulings 88–95 in `vol6-pilot-setup.md`; edits applied (English/brackets only), resolver jobs (§ 7) queued, not done.**
+
 Compiled 2026-10-27 by a read-only agent on Wilson's go. **Nothing here is settled. Wilson rules off this sheet.** No file
 under `vol*/` was edited; no tool, ledger, registry or resume note was touched; nothing pushed, deployed or stashed; no plate
 deleted. Passes 1–3 are in `manual-review/vol6-ioannem-midwork-gate-passes.md`.
