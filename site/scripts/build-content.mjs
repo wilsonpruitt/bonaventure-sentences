@@ -799,6 +799,12 @@ const WORKS = {
       // Doctoris propalatione agit dupliciter.` (ruling 79(b): the chunk is
       // titled from the lowest). All unanchored.
       7: "Capitulum VII",
+      // `CAPITULUM VIII.` read in place on p. 353 at bon-ioan-c8-v1-11: full-measure
+      // centred small capitals MID-LEAF at ~0.32, below Cap. VII's Quaest. IV
+      // (…ideo erraverunt.), with NO heading beneath it (ruling 79(a): the chunk
+      // is titled from ¶ 1's first sentence after the lemma). Unanchored. The
+      // index (*Capitulum VIII … Vers. 1-11 … 353*) agrees.
+      8: "Capitulum VIII",
     },
   },
 };

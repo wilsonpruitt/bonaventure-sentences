@@ -3982,8 +3982,25 @@ KNOWN_TOTALS_VOL6 = {
     353: 6,  # bon-ioan-c7-v40-53 owns nn.1-4 (¶¶ 74-75, Quaest. III-IV): anchors L 1-2 / R 3-4;
              # upper block L 1-2 / R 3-4, then n.4's FULL-MEASURE schema (*Est iudicium laudandum*),
              # then a lower block L 5-6 head / R 6 tail. CAPITULUM VIII. (no subtitle) mid-leaf at
-             # ~0.32; Cap. VIII ¶ 1 *occidere*5 (L), ¶ 2 *primo*6 (R). nn.5-6 PENDING for
-             # Capitulum VIII's first pericope (n.6 runs over the gutter). Gutter 889 (heavy rule).
+             # ~0.32; Cap. VIII ¶ 1 *occidere*5 (L), ¶ 2 *primo*6 (R). nn.5-6 written by
+             # bon-ioan-c8-v1-11 — page complete (n.6 runs over the gutter: L ends *Quia mos*,
+             # R opens flush-left *ei erat die docere*). Gutter 889 above the heading, 881 in ¶¶ 1-2.
+    354: 13, # bon-ioan-c8-v1-11 (¶¶ 3-10 + the unnumbered *Iesus autem, inclinans se* paragraph):
+             # anchors L 1-7 / R 8-13; blocks L 1-7 / R 8-13. No runover. Verso, gutter R.
+             # Gutter 1157 (band 1134-1181, rule 1155-1160).
+    355: 13, # bon-ioan-c8-v1-11 (¶¶ 10-13, Quaest. I): anchors L 1-6 / R 7-13; blocks L 1-10 /
+             # R 11-13 (n.11 the long note on the pericope's authenticity). No runover. Recto,
+             # gutter L. Gutter 885 (band 865-906, heavy 13 px rule). n.6 prints a stray
+             # *[B Non est bonum,* (compositor's slip, transcribed as printed).
+    356: 14, # bon-ioan-c8-v1-11 (¶¶ 14-15, Quaest. II-III): anchors L 1-9 / R 10-14; blocks
+             # L 1-7 head / R 7 tail-14. n.7 RUNS OVER THE GUTTER (L ends *ad Irenaeum,*, R opens
+             # flush-left *n. 13: Hoc autem dixit*). Verso, gutter R. Gutter 1147 (band 1124-1171).
+    357: 9,  # bon-ioan-c8-v1-11 owns nn.1-6 (¶¶ 15-16, Quaest. III-IV): anchors L 1-6; blocks
+             # L 1-6 head / R 6 tail + 7-9. n.6 RUNS OVER THE GUTTER (L ends *vade,*, R opens
+             # flush-left *vive, ut vis etc.*). ¶ 17 *Iterum ergo locutus est eis Iesus*7 (headless)
+             # opens the RIGHT column; nn.7-9 PENDING for bon-ioan-c8-v12-20, plus an UNNUMBERED
+             # full-measure note *Sola ed. habet* (schema, *loquitur nobis Dominus*) beneath both
+             # blocks, outside this count. Recto, gutter L. Gutter 901 (band 877-925).
 }
 
 KNOWN_TOTALS_BY_VOL = {

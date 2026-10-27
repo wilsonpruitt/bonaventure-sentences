@@ -27090,6 +27090,53 @@ bon-ioan-c7-v40-53	6	apparatus:p353-4	p353-4	scripture	apparatus-explicit	Exod. 
 bon-ioan-c7-v40-53	6	apparatus:p353-4	p353-4	scripture	apparatus-explicit	Sap. 12, 18	Sap 12:18	A	verse		
 bon-ioan-c7-v40-53	6	apparatus:p353-4	p353-4	scripture	apparatus-explicit	Eccle. 7, 17	Eccle 7:17	A	verse		
 bon-ioan-c7-v40-53	6	apparatus:p353-4	p353-4	scripture	apparatus-explicit	Deut. 25, 2	Deut 25:2	A	verse		
+bon-ioan-c8-v1-11	6	latin_body	p353-6	scripture	body-ordinal	Lucae vigesimo primo	Luc 21:37	B	verse		
+bon-ioan-c8-v1-11	6	latin_body	p354-1	scripture	body-ordinal	Sapientiae sexto	Sap 6:14	B	verse		
+bon-ioan-c8-v1-11	6	latin_body		scripture	body-ordinal	Proverbiorum octavo	Prov 8	C	chapter		
+bon-ioan-c8-v1-11	6	latin_body	p354-2	scripture	body-ordinal	Lucae vigesimo primo	Luc 21:38	B	verse		
+bon-ioan-c8-v1-11	6	latin_body		scripture	body-ordinal	Matthaei vigesimo tertio	Matth 23	C	chapter		
+bon-ioan-c8-v1-11	6	latin_body	p354-4	scripture	body-ordinal	Lucae undecimo	Luc 11:53	B	verse		
+bon-ioan-c8-v1-11	6	latin_body		scripture	body-ordinal	Matthaei vigesimo secundo	Matth 22	C	chapter		
+bon-ioan-c8-v1-11	6	latin_body	p354-6	scripture	body-ordinal	Deuteronomii vigesimo secundo	Deut 22:22	B	verse		
+bon-ioan-c8-v1-11	6	latin_body	p354-7	scripture	body-ordinal	Matthaei vigesimo secundo	Matth 22:18	B	verse		
+bon-ioan-c8-v1-11	6	latin_body		scripture	body-ordinal	Matthaei vigesimo septimo	Matth 27	C	chapter		
+bon-ioan-c8-v1-11	6	latin_body	p354-9	scripture	body-ordinal	Deuteronomii nono	Deut 9:10	B	verse		
+bon-ioan-c8-v1-11	6	latin_body		scripture	body-ordinal	Exodi trigesimo primo	Exod 31	C	chapter		
+bon-ioan-c8-v1-11	6	latin_body	p354-11	scripture	body-ordinal	Matthaei septimo	Matth 7:3	B	verse		
+bon-ioan-c8-v1-11	6	latin_body		scripture	body-ordinal	Ieremiae decimo septimo	Ierem 17	C	chapter		
+bon-ioan-c8-v1-11	6	latin_body		scripture	body-ordinal	Ieremiae vigesimo secundo	Ierem 22	C	chapter		
+bon-ioan-c8-v1-11	6	latin_body	p355-1	scripture	body-ordinal	Danielis decimo tertio	Dan 13:5	B	verse		
+bon-ioan-c8-v1-11	6	latin_body	p355-2	scripture	body-ordinal	Osee secundo	Osee 2:14	B	verse		
+bon-ioan-c8-v1-11	6	latin_body	p355-5	scripture	body-ordinal	Matthaei septimo	Matth 7:1	B	verse		
+bon-ioan-c8-v1-11	6	latin_body		scripture	body-ordinal	ad Romanos octavo	Rom 8	C	chapter		
+bon-ioan-c8-v1-11	6	latin_body		scripture	body-ordinal	Ecclesiastici quinto	Eccli 5	C	chapter		
+bon-ioan-c8-v1-11	6	latin_body		scripture	body-ordinal	Isaiae quadragesimo secundo	Isai 42	C	chapter		
+bon-ioan-c8-v1-11	6	latin_body	p356-11	scripture	body-ordinal	Exodi trigesimo primo	Exod 31:18	B	verse		
+bon-ioan-c8-v1-11	6	apparatus:p354-1	p354-1	scripture	apparatus-explicit	Prov. 8, 17	Prov 8:17	A	verse		
+bon-ioan-c8-v1-11	6	apparatus:p354-2	p354-2	scripture	apparatus-explicit	Matth. 23, 2	Matth 23:2	A	verse		
+bon-ioan-c8-v1-11	6	apparatus:p354-5	p354-5	scripture	apparatus-explicit	Matth. 22, 16	Matth 22:16	A	verse		
+bon-ioan-c8-v1-11	6	apparatus:p354-7	p354-7	scripture	anaphor->body-ordinal	ibid. 27, 12	Matth 27:12	B	verse	yes	body: Matthaei vigesimo secundo
+bon-ioan-c8-v1-11	6	apparatus:p354-9	p354-9	scripture	apparatus-explicit	Exod. 31, 18	Exod 31:18	A	verse		
+bon-ioan-c8-v1-11	6	apparatus:p354-12	p354-12	scripture	apparatus-explicit	Ier. 17, 13	Ierem 17:13	A	verse		
+bon-ioan-c8-v1-11	6	apparatus:p355-2	p355-2	scripture	apparatus-explicit	Ps. 50, 6	Ps 50:6	A	verse		
+bon-ioan-c8-v1-11	6	apparatus:p355-3	p355-3	crossref	page	supra pag. 306, nota 2	bon-ioan-c5-v1-9+bon-ioan-c5-v10-18		page-multi		
+bon-ioan-c8-v1-11	6	apparatus:p355-5	p355-5	scripture	apparatus-explicit	Luc. 6, 37	Luc 6:37	A	verse		
+bon-ioan-c8-v1-11	6	apparatus:p355-5	p355-5	scripture	apparatus-explicit	Rom. 8, 33	Rom 8:33	A	verse		
+bon-ioan-c8-v1-11	6	apparatus:p355-6	p355-6	scripture	apparatus-explicit	Eccli. 5, 7	Eccli 5:7	A	verse		
+bon-ioan-c8-v1-11	6	apparatus:p355-7	p355-7	scripture	apparatus-explicit	Ps. 24, 8	Ps 24:8	A	verse		
+bon-ioan-c8-v1-11	6	apparatus:p355-7	p355-7	scripture	apparatus-explicit	Isai. 42, 14	Isai 42:14	A	verse		
+bon-ioan-c8-v1-11	6	apparatus:p355-7	p355-7	scripture	apparatus-explicit	Ps. 85, 15	Ps 85:15	A	verse		
+bon-ioan-c8-v1-11	6	apparatus:p355-12	p355-12	scripture	apparatus-explicit	Psalm. 44, 5	Ps 44:5	A	verse		
+bon-ioan-c8-v1-11	6	apparatus:p355-13	p355-13	crossref	page	tom. I. pag. 131, nota 6	bon-sent-I-d6-dubia		chunk		
+bon-ioan-c8-v1-11	6	apparatus:p356-7	p356-7	scripture	apparatus-explicit	Ier. 22, 29	Ierem 22:29	A	verse		
+bon-ioan-c8-v1-11	6	apparatus:p356-7	p356-7	scripture	apparatus-explicit	Matth. 7, 3	Matth 7:3	A	verse		
+bon-ioan-c8-v1-11	6	apparatus:p356-8	p356-8	scripture	apparatus-explicit	Ier. 17, 13	Ierem 17:13	A	verse		
+bon-ioan-c8-v1-11	6	apparatus:p356-12	p356-12	scripture	apparatus-explicit	Iob 14, 4	Iob 14:4	A	verse		
+bon-ioan-c8-v1-11	6	apparatus:p356-13	p356-13	scripture	apparatus-explicit	Matth. 18, 15	Matth 18:15	A	verse		
+bon-ioan-c8-v1-11	6	apparatus:p356-14	p356-14	crossref	logical	II. Sent. d. 40. a. 2. q. 1.	bon-sent-II-d40-a2-q1		chunk		
+bon-ioan-c8-v1-11	6	apparatus:p357-1	p357-1	crossref	logical	IV. Sent. d. 19. dub. 4.	bon-sent-IV-d19-dubia		chunk		
+bon-ioan-c8-v1-11	6	apparatus:p357-5	p357-5	scripture	apparatus-explicit	Luc. 19, 10	Luc 19:10	A	verse		
+bon-ioan-c8-v1-11	6	apparatus:p357-6	p357-6	crossref	page	supra pag. 355, nota 7	bon-ioan-c8-v1-11		chunk		
 bon-ioan-prol	6	latin_body		scripture	body-ordinal	Apocalypsis primo	Apoc 1	C	chapter		
 bon-ioan-prol	6	apparatus:p245-1	p245-1	crossref	page	supra pag. 243, nota 2	bon-ioan-prooem		chunk		
 bon-ioan-prol	6	apparatus:p245-2	p245-2	scripture	apparatus-explicit	Ioan. 1, 1	Ioan 1:1	A	verse		
