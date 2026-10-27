@@ -4149,9 +4149,20 @@ KNOWN_TOTALS_VOL6 = {
     394: 13, # bon-ioan-c10-v22-42 owns nn.1-7 (Quaest. III's close and Quaest. IV, ¶¶ 56-57,
              # closing at ~0.33 R on *nec eius discipulus.*; anchors L 1-3 / R 4-7) and the
              # unnumbered tail of p.393 n.13 heading the L block; then the full-measure
-             # `Capitulum XI.` (~0.35) and Cap. XI ¶ 1 ff. anchor nn.8-13 — PENDING for
-             # bon-ioan-c11-v1-6. Blocks L (p.393 n.13 tail) 1-6 / R 7-13. Verso, gutter R.
-             # Gutter 1171 (Cap. X region, rows 0.06-0.32).
+             # `Capitulum XI.` (~0.35) and Cap. XI ¶ 1 ff. anchor nn.8-13 — bon-ioan-c11-v1-6's,
+             # COMPLETED there (anchors L 8-11: *reparatorem*, *ibi*, *ibi*, *ibi*; R 12-13:
+             # *dilatio*, *venire*; all printed in the R block, none runs over). Blocks
+             # L (p.393 n.13 tail) 1-6 / R 7-13. Verso, gutter R. Gutter 1171 (Cap. X region,
+             # rows 0.06-0.32); 1172 (Cap. XI region, rows 0.38-0.72, band 1148-1196).
+    395: 13, # bon-ioan-c11-v1-6 (¶¶ 3-9): anchors L 1-4 / R 5-13; blocks L 1-6 head / R 6
+             # tail-13 (n.6 RUNS OVER THE GUTTER, *omit-* / *tuntur*). Recto, gutter L. Gutter 896.
+    396: 14, # bon-ioan-c11-v1-6 (¶¶ 9-13, QUAESTIONES heading in R): anchors L 1-8 / R 9-14;
+             # blocks L 1-13 head / R 13 tail-14 (n.13 RUNS OVER THE GUTTER, *ut intres* /
+             # *sub tectum meum*). Verso, gutter R. Gutter 1168.
+    397: 9,  # bon-ioan-c11-v1-6 (¶¶ 13-16, closing at ~0.39 R on *quia non est ibi vis.*):
+             # anchors L 1-5 / R 6-9; blocks L 1-8 head / R 8 tail-9 (n.8 RUNS OVER THE
+             # GUTTER, *haec* / *vero et honesta*). p.398 opens ¶ 17 headless; nothing forwarded.
+             # Recto, gutter L. Gutter 891.
 }
 
 KNOWN_TOTALS_BY_VOL = {

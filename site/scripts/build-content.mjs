@@ -823,6 +823,16 @@ const WORKS = {
       // titled from the lowest). All unanchored. The raw drops the capitulum
       // heading. The index (*Capitulum X … Vers. 1-10 … 382*) agrees.
       10: "Capitulum X",
+      // `CAPITULUM XI.` read in place on p. 394 at bon-ioan-c11-v1-6: full-measure
+      // centred small capitals MID-LEAF at ~0.355, below Cap. X's Quaest. IV
+      // (…nec eius discipulus.), with the small bold capitulum subtitle `Quarto,
+      // Filius Dei se manifestat perfectum reparatorem.` over ¶ 1 in the LEFT
+      // column and, lower in the same column below ¶ 1, `Pars prima, de
+      // antecedentibus ad miraculum.` (ruling 79(b): the chunk is titled from the
+      // lowest). All unanchored. The raw drops the capitulum heading (only
+      // `CAPrruLUM XI.` survives, garbled). The index (*Capitulum XI … Vers. 1-6
+      // … 394*) agrees.
+      11: "Capitulum XI",
     },
   },
 };
