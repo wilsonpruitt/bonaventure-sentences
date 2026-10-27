@@ -3970,8 +3970,20 @@ KNOWN_TOTALS_VOL6 = {
              # blocks L 1-7 / R 7-12. n.7 (anchor R) opens at the foot of L and RUNS OVER THE GUTTER
              # (L ends *spiritu pur-*, R opens flush-left *gata vivit*). n.5 carries a braced schema.
              # Quaest. II closes at ~0.38 R on *in evidentia et abundantia*11; ¶ 58 *Ex illa autem*12
-             # (headless) follows with (Vers. 40.) in the same column. n.12 PENDING for
-             # bon-ioan-c7-v40-53 (*Vulgata ergo.*). Gutter 1158 (band 1136-1181, rule 1155-1163).
+             # (headless) follows with (Vers. 40.) in the same column. n.12 (*Vulgata ergo.*)
+             # written by bon-ioan-c7-v40-53 — page complete. Gutter 1158 (band 1136-1181, rule 1155-1163).
+    351: 15, # bon-ioan-c7-v40-53 (¶¶ 59-67): anchors L 1-8 / R 9-15; blocks L 1-5 / R 6-15.
+             # No runover. Recto, gutter L. Gutter 894 (band 874-915, rule 889-900). Plate digits:
+             # n.1 Matth. 16, 13 (serif 1s read as 4 at 1.1x; target).
+    352: 13, # bon-ioan-c7-v40-53 (¶¶ 67-74, Quaest. I-III): anchors L 1-5 / R 6-13; blocks L 1-7 /
+             # R 7-13. n.7 (anchor R) opens at the foot of L and RUNS OVER THE GUTTER (L ends
+             # *Glossa in-*, R opens flush-left *terlinearis:*). Verso, gutter R. Gutter 1153
+             # (band 1130-1177). Plate digits against the raw: n.6 Orat. 4 (raw i.), n.9 alias 51 (raw 81).
+    353: 6,  # bon-ioan-c7-v40-53 owns nn.1-4 (¶¶ 74-75, Quaest. III-IV): anchors L 1-2 / R 3-4;
+             # upper block L 1-2 / R 3-4, then n.4's FULL-MEASURE schema (*Est iudicium laudandum*),
+             # then a lower block L 5-6 head / R 6 tail. CAPITULUM VIII. (no subtitle) mid-leaf at
+             # ~0.32; Cap. VIII ¶ 1 *occidere*5 (L), ¶ 2 *primo*6 (R). nn.5-6 PENDING for
+             # Capitulum VIII's first pericope (n.6 runs over the gutter). Gutter 889 (heavy rule).
 }
 
 KNOWN_TOTALS_BY_VOL = {

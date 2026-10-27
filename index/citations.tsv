@@ -27039,6 +27039,57 @@ bon-ioan-c7-v32-39	6	apparatus:p350-11	p350-11	crossref	logical	I. Sent. d. 15. 
 bon-ioan-c7-v32-39	6	apparatus:p350-11	p350-11	crossref	logical	II. Sent. d. 29. a. 3. q. 2.	bon-sent-II-d29-a3-q2		chunk		
 bon-ioan-c7-v32-39	6	apparatus:p350-11	p350-11	crossref	logical	IV. Sent. d. 7. a. 1. q. 1.	bon-sent-IV-d7-a1-q1		chunk		
 bon-ioan-c7-v32-39	6	apparatus:p350-11	p350-11	crossref	chain-continuation	d. 23. a. 1. q. 2.	bon-sent-IV-d23-a1-q2		chunk		
+bon-ioan-c7-v40-53	6	latin_body		scripture	body-ordinal	Matthaei decimo sexto	Matth 16	C	chapter		
+bon-ioan-c7-v40-53	6	latin_body	p351-3	scripture	body-ordinal	Regum septimo	Reg* 7:12	B	verse		
+bon-ioan-c7-v40-53	6	latin_body	p351-4	scripture	body-ordinal	Michaeae quinto	Mich 5:2	B	verse		
+bon-ioan-c7-v40-53	6	latin_body	p351-11	scripture	body-ordinal	Lucae undecimo	Luc 11:27	B	verse		
+bon-ioan-c7-v40-53	6	latin_body		scripture	body-ordinal	Canticorum quarto	Cant 4	C	chapter		
+bon-ioan-c7-v40-53	6	latin_body	p351-12	scripture	body-ordinal	Lucae secundo	Luc 2:47	B	verse		
+bon-ioan-c7-v40-53	6	latin_body		scripture	body-ordinal	Marci primo	Marc 1	C	chapter		
+bon-ioan-c7-v40-53	6	latin_body		scripture	body-ordinal	Matthaei septimo	Matth 7	C	chapter		
+bon-ioan-c7-v40-53	6	latin_body		scripture	body-ordinal	Deuteronomii vigesimo septimo	Deut 27	C	chapter		
+bon-ioan-c7-v40-53	6	latin_body	p352-2	scripture	body-ordinal	Matthaei vigesimo tertio	Matth 23:13	B	verse		
+bon-ioan-c7-v40-53	6	latin_body		scripture	body-ordinal	Lucae undecimo	Luc 11	C	chapter		
+bon-ioan-c7-v40-53	6	latin_body		scripture	body-ordinal	Deuteronomii decimo septimo	Deut 17	C	chapter		
+bon-ioan-c7-v40-53	6	latin_body		scripture	body-ordinal	Actuum vigesimo quinto	Act 25	C	chapter		
+bon-ioan-c7-v40-53	6	latin_body	p352-8	scripture	body-ordinal	Ecclesiastici vigesimo primo	Eccli 21:10	B	verse		
+bon-ioan-c7-v40-53	6	latin_body	p352-12	scripture	body-ordinal	Paralipomenon decimo nono	Par* 19:7	B	verse		
+bon-ioan-c7-v40-53	6	latin_body	p352-13	scripture	body-ordinal	Exodi vigesimo tertio	Exod 23:7	B	verse		
+bon-ioan-c7-v40-53	6	latin_body	p353-1	scripture	body-ordinal	Deuteronomii decimo sexto	Deut 16:20	B	verse		
+bon-ioan-c7-v40-53	6	latin_body	p353-2	scripture	body-ordinal	Exodi decimo octavo	Exod 18:21	B	verse		
+bon-ioan-c7-v40-53	6	latin_body	p353-3	scripture	body-ordinal	Matthaei secundo	Matth 2:23	B	verse		
+bon-ioan-c7-v40-53	6	apparatus:p351-1	p351-1	scripture	apparatus-explicit	Matth. 16, 13	Matth 16:13	A	verse		
+bon-ioan-c7-v40-53	6	apparatus:p351-3	p351-3	scripture	apparatus-explicit	Ps. 131, 11	Ps 131:11	A	verse		
+bon-ioan-c7-v40-53	6	apparatus:p351-5	p351-5	scripture	apparatus-explicit	Ps. 34, 16	Ps 34:16	A	verse		
+bon-ioan-c7-v40-53	6	apparatus:p351-8	p351-8	scripture	apparatus-explicit	Psalm. 93, 11	Ps 93:11	A	verse		
+bon-ioan-c7-v40-53	6	apparatus:p351-8	p351-8	scripture	apparatus-explicit	Ps. 32, 11	Ps 32:11	A	verse		
+bon-ioan-c7-v40-53	6	apparatus:p351-11	p351-11	scripture	apparatus-explicit	Cant. 4, 11	Cant 4:11	A	verse		
+bon-ioan-c7-v40-53	6	apparatus:p351-12	p351-12	scripture	apparatus-explicit	Marc. 1, 22	Marc 1:22	A	verse		
+bon-ioan-c7-v40-53	6	apparatus:p351-12	p351-12	scripture	apparatus-explicit	Matth. 7, 29	Matth 7:29	A	verse		
+bon-ioan-c7-v40-53	6	apparatus:p351-12	p351-12	scripture	apparatus-explicit	Ioan. 6, 64	Ioan 6:64	A	verse		
+bon-ioan-c7-v40-53	6	apparatus:p351-15	p351-15	scripture	apparatus-explicit	Deut. 27, 26	Deut 27:26	A	verse		
+bon-ioan-c7-v40-53	6	apparatus:p352-2	p352-2	scripture	apparatus-explicit	Luc. 11, 52	Luc 11:52	A	verse		
+bon-ioan-c7-v40-53	6	apparatus:p352-3	p352-3	scripture	apparatus-explicit	Ioan. 3, 1	Ioan 3:1	A	verse		
+bon-ioan-c7-v40-53	6	apparatus:p352-4	p352-4	scripture	apparatus-explicit	Deut. 17, 4	Deut 17:4	A	verse		
+bon-ioan-c7-v40-53	6	apparatus:p352-4	p352-4	scripture	apparatus-explicit	Iob 29, 16	Iob 29:16	A	verse		
+bon-ioan-c7-v40-53	6	apparatus:p352-4	p352-4	scripture	apparatus-explicit	Act. 25, 16	Act 25:16	A	verse		
+bon-ioan-c7-v40-53	6	apparatus:p352-8	p352-8	scripture	apparatus-explicit	Ps. 67, 31	Ps 67:31	A	verse		
+bon-ioan-c7-v40-53	6	apparatus:p352-11	p352-11	scripture	apparatus-explicit	Matth. 23, 2	Matth 23:2	A	verse		
+bon-ioan-c7-v40-53	6	apparatus:p353-1	p353-1	crossref	logical	IV. Sent. d. 18. p. II. dub. 2.	bon-sent-IV-d18-p2-dubia		chunk		
+bon-ioan-c7-v40-53	6	apparatus:p353-4	p353-4	scripture	apparatus-explicit	III. Reg. 3, 9	3Reg 3:9	A	verse		
+bon-ioan-c7-v40-53	6	apparatus:p353-4	p353-4	scripture	anaphor->apparatus-explicit	ibid. v. 28	3Reg 3:28	A	verse	yes	III. Reg. 3, 9
+bon-ioan-c7-v40-53	6	apparatus:p353-4	p353-4	scripture	apparatus-explicit	Eccli. 20, 31	Eccli 20:31	A	verse		
+bon-ioan-c7-v40-53	6	apparatus:p353-4	p353-4	scripture	apparatus-explicit	Rom. 2, 1	Rom 2:1	A	verse		
+bon-ioan-c7-v40-53	6	apparatus:p353-4	p353-4	scripture	apparatus-explicit	Matth. 7, 5	Matth 7:5	A	verse		
+bon-ioan-c7-v40-53	6	apparatus:p353-4	p353-4	scripture	apparatus-explicit	Rom. 14, 4	Rom 14:4	A	verse		
+bon-ioan-c7-v40-53	6	apparatus:p353-4	p353-4	scripture	apparatus-explicit	Luc. 12, 14	Luc 12:14	A	verse		
+bon-ioan-c7-v40-53	6	apparatus:p353-4	p353-4	scripture	apparatus-explicit	Exod. 18, 21	Exod 18:21	A	verse		
+bon-ioan-c7-v40-53	6	apparatus:p353-4	p353-4	scripture	apparatus-explicit	Iob 29, 16	Iob 29:16	A	verse		
+bon-ioan-c7-v40-53	6	apparatus:p353-4	p353-4	scripture	apparatus-explicit	Levit. 19, 15	Lev 19:15	A	verse		
+bon-ioan-c7-v40-53	6	apparatus:p353-4	p353-4	scripture	apparatus-explicit	Exod. 23, 3	Exod 23:3	A	verse		
+bon-ioan-c7-v40-53	6	apparatus:p353-4	p353-4	scripture	apparatus-explicit	Sap. 12, 18	Sap 12:18	A	verse		
+bon-ioan-c7-v40-53	6	apparatus:p353-4	p353-4	scripture	apparatus-explicit	Eccle. 7, 17	Eccle 7:17	A	verse		
+bon-ioan-c7-v40-53	6	apparatus:p353-4	p353-4	scripture	apparatus-explicit	Deut. 25, 2	Deut 25:2	A	verse		
 bon-ioan-prol	6	latin_body		scripture	body-ordinal	Apocalypsis primo	Apoc 1	C	chapter		
 bon-ioan-prol	6	apparatus:p245-1	p245-1	crossref	page	supra pag. 243, nota 2	bon-ioan-prooem		chunk		
 bon-ioan-prol	6	apparatus:p245-2	p245-2	scripture	apparatus-explicit	Ioan. 1, 1	Ioan 1:1	A	verse		
