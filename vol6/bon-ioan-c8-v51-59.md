@@ -111,7 +111,7 @@ it is said that Abraham laughed, whence also he was glad, Genesis, the seventeen
 
 84. Quaest. I. But here it is asked: since the Jews were scandalized and did not understand the Lord, because they savoured only carnally; whence is it that the Lord did not cease from preaching?
 
-**I answer:** It must be said that the Lord so spoke that they could understand spiritually, but by the just judgement of God they had been blinded; and yet he did not cease from preaching, because, as Gregory says[^p371-8], « when the perversity of the wicked grows, preaching ought not to be diminished, but increased ».
+**I respond:** It must be said that the Lord so spoke that they could understand spiritually, but by the just judgement of God they had been blinded; and yet he did not cease from preaching, because, as Gregory says[^p371-8], « when the perversity of the wicked grows, preaching ought not to be diminished, but increased ».
 
 85. Quaest. II. It is asked concerning this which he says: *If I glorify myself, my glory is nothing.*
 
@@ -119,21 +119,21 @@ it is said that Abraham laughed, whence also he was glad, Genesis, the seventeen
 
 2. Likewise, the heretic opposes[^p371-10]: The Father glorifies the Son; the Son cannot glorify himself: therefore he is less than the Father.
 
-**I answer:** This is solved in two ways: either thus, that this which is now said is understood according to the *human* nature; or thus, that *glory being nothing* is understood not according to truth, but according to the estimation of the Jews[^p371-11].
+**I respond:** This is solved in two ways: either thus, that this which is now said is understood according to the *human* nature; or thus, that *glory being nothing* is understood not according to truth, but according to the estimation of the Jews[^p371-11].
 
 86. Quaest. III. Likewise it is asked concerning this which he says, that they did not know the Father, since it is said in the Law[^p371-12]: *Thy God is one God;* and this they believed.
 
-**I answer:** It must be said that *Father* is said in two ways: in one way *essentially,* and so the Jews knew the Father, God, because so it belongs to the whole Trinity in comparison with the creature. In the other way
+**I respond:** It must be said that *Father* is said in two ways: in one way *essentially,* and so the Jews knew the Father, God, because so it belongs to the whole Trinity in comparison with the creature. In the other way
 <!-- page 372 -->
 it is said *personally* in relation to the Son, and so they did not know him, as Augustine says[^p372-1], just as they did not know the Son.
 
 87. Quaest. IV. Likewise it is asked concerning this, that the Lord hid himself. — It seems that he was afraid and was imperfect, because it belongs to the imperfect to fear and to flee.
 
-**I answer:** He hid himself *as a sign* that « truth, when it does not find a humble mind, flees », as Gregory says[^p372-2]. *As an example,* « that, even when we can resist, we may turn aside from the wrath of the proud », as Gregory also says. *To keep the opportune time* he hid himself, who later offered himself to the persecutions, that he might show himself a true man: whence Augustine[^p372-3]: « As man he flees from the stones, but woe to those from whose stony hearts God flees! ».
+**I respond:** He hid himself *as a sign* that « truth, when it does not find a humble mind, flees », as Gregory says[^p372-2]. *As an example,* « that, even when we can resist, we may turn aside from the wrath of the proud », as Gregory also says. *To keep the opportune time* he hid himself, who later offered himself to the persecutions, that he might show himself a true man: whence Augustine[^p372-3]: « As man he flees from the stones, but woe to those from whose stony hearts God flees! ».
 
 88. Quaest. V. Likewise it is asked concerning this which he says: *There is one that seeketh and judgeth.* — *On the contrary:* above, in the fifth chapter[^p372-4]: *The Father judgeth not any man, but hath given all judgement to the Son.*
 
-**I answer:** There is a judgement *of condemnation* and one *of discernment;* of the first above[^p372-5], of the second here.
+**I respond:** There is a judgement *of condemnation* and one *of discernment;* of the first above[^p372-5], of the second here.
 
 ---
 

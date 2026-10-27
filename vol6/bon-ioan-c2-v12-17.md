@@ -88,7 +88,7 @@ Ad hoc respondet Victor[^p275-11], quod *zelus* dicitur dupliciter: uno modo imp
 
 18. *After this*[^p273-3] *he went down* etc. The Lord manifested himself above to the disciples. In this part, up to the fourth chapter, there is treatment of the manifestation made to the Jews, to whom he manifests himself in three ways, namely by *sign, word* and *Sacrament.* Therefore this part has three parts.
 
-In the first there is treatment of the manifestation made through a *sign* of virtue; in the second, through the *word* of instruction, there[^p273-4]: *And there was a certain man of the Pharisees;* in the third, through the *Sacrament* of regeneration, there: *After these things Jesus came into Judea.*
+In the first there is treatment of the manifestation made through a *sign* of virtue; in the second, through the *word* of erudition, there[^p273-4]: *And there was a certain man of the Pharisees;* in the third, through the *Sacrament* of regeneration, there: *After these things Jesus came into Judea.*
 
 The first part has two parts. In the first he manifests himself by a sign *of authority;* in the second, by a sign *of virtue and power,* there[^p273-5]: *The Jews therefore answered, and said.*
 

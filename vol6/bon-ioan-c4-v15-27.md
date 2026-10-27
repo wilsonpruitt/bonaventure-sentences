@@ -140,13 +140,13 @@ led all the way to Christ and is now ready to believe in him, what remains, exce
 
 2. Likewise, if they that adore must adore *in spirit:* then they sin who make bodily images for praying.
 
-**Respondeo:** It must be said that of the conditions of prayer some are *essential,* such as a right intention and a just petition; some *accidental,* such as time and place. I say therefore that the Lord did not say that a determinate place is to be cut away from true prayer as superfluous; but that it is to be recognised as not being of the essence of prayer, because the true adorers adore God everywhere. And although place is not *necessary,* yet it is not *superfluous;* for it avails for having *memory,* for stirring up *devotion,* for keeping *unity,* for obtaining *the company of the Angels,* because *princes went before joined with singers*[^p296-5].
+**I respond:** It must be said that of the conditions of prayer some are *essential,* such as a right intention and a just petition; some *accidental,* such as time and place. I say therefore that the Lord did not say that a determinate place is to be cut away from true prayer as superfluous; but that it is to be recognised as not being of the essence of prayer, because the true adorers adore God everywhere. And although place is not *necessary,* yet it is not *superfluous;* for it avails for having *memory,* for stirring up *devotion,* for keeping *unity,* for obtaining *the company of the Angels,* because *princes went before joined with singers*[^p296-5].
 
 2. As to what he objects about images, it must be said that now they do no harm, because it is not believed that anything *divine* is in them, nor that God is there *bodily,* but only *by way of signifying*[^p296-6].
 
-44. Question II. Likewise it is asked about this, that the Lord says of himself and[^p296-7] of the Jews: *We adore that which we know. — Contra:* Below, in the eighth chapter[^p296-8]: *Neither me do you know, nor my Father* do you know, says the Lord Jesus to the Jews.
+44. Question II. Likewise it is asked about this, that the Lord says of himself and[^p296-7] of the Jews: *We adore that which we know. — On the contrary:* Below, in the eighth chapter[^p296-8]: *Neither me do you know, nor my Father* do you know, says the Lord Jesus to the Jews.
 
-**Respondeo:** Below he means the unbelievers, who were Jews in name only; but here he speaks of the true Jews, who in reality and by merit are called *Jews*[^p296-9].
+**I respond:** Below he means the unbelievers, who were Jews in name only; but here he speaks of the true Jews, who in reality and by merit are called *Jews*[^p296-9].
 
 45. Question III. Likewise it is asked: since « the Lord has made a shortened word upon the earth[^p296-10] »; whence is it that he drew out the Samaritan woman through so many words?
 

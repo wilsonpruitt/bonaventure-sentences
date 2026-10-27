@@ -61,7 +61,7 @@ Propterea dicendum, quod etsi boni et mali faciant miracula, distinguuntur tamen
 
 ### Chapter III.
 
-1. *Now there was a certain*[^p278-1] *man* etc. Above, the Lord manifested himself to the Jews by a sign of virtue; here, second, he manifests himself *by a word of instruction,* and this instructing all the Jews in the person of Nicodemus, a ruler of the Jews. And because a word of instruction ought not to be handed on except to an attentive ear; therefore here there is noted first *the diligence of Nicodemus;* but second, *the teaching*[^tr-doctrina] *of the Lord,* at the place[^p278-2]: *Jesus answered, and said to him: Amen.*
+1. *Now there was a certain*[^p278-1] *man* etc. Above, the Lord manifested himself to the Jews by a sign of virtue; here, second, he manifests himself *by a word of erudition,* and this instructing all the Jews in the person of Nicodemus, a ruler of the Jews. And because a word of erudition ought not to be handed on except to an attentive ear; therefore here there is noted first *the diligence of Nicodemus;* but second, *the teaching*[^tr-doctrina] *of the Lord,* at the place[^p278-2]: *Jesus answered, and said to him: Amen.*
 
 Nicodemus, then, is described by a fourfold condition, that he may be shown fit for discipline: he is described by *the uprightness of his life,* by *the dignity of his office,* by *his solicitude to learn,* by *his aptitude to learn.*
 

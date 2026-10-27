@@ -279,7 +279,7 @@ It is answered otherwise, that *to operate at a determined time* is in two ways:
 
 [^p340-8]: **La.** Vers. 44. (vide ibi lectionem Vulgatae); ibid. 1, 11. est seq. textus. Cfr. supra c. 4. n. 83.
 
-     **En.** Verse 44 (see the reading of the Vulgate there); ibid. 1:11 is the following text. Compare above, c. 4, n. 83.
+     **En.** Verse 44 (see the reading of the Vulgate there); ibid. 1:11 is the following text. Compare above, c. 4, n. 83 [so printed; the question is n. 84].
 
 [^p340-9]: **La.** Vulgata *Dicit.*
 

@@ -81,7 +81,7 @@ Dicendum, quod *verax* dicitur, quia verba vera dicit. Quia ergo Pater dicit Fil
 ## English
 <!-- page 360 -->
 
-30. *Again therefore Jesus said to them.* It was shown above that the teaching[^tr-doctrina] of Christ frees from the blindness of error; here it is shown and commended that it frees *from the servitude of sin.* And this part is divided: because first it is shown that without the knowledge of Christ *servitude is perpetuated;* second, that through the teaching and word of Christ man *is freed from servitude,* there[^p360-11]: *Jesus therefore said to those who orediderunt* [*so printed*, for *crediderunt*, "believed"].
+30. *Again therefore Jesus said to them.* It was shown above that the teaching[^tr-doctrina] of Christ frees from the blindness of error; here it is shown and commended that it frees *from the servitude of sin.* And this part is divided: because first it is shown that without the knowledge of Christ *servitude is perpetuated;* second, that through the teaching and word of Christ man *is freed from servitude,* there[^p360-11]: *Jesus therefore said to those who orediderunt* [so printed: *orediderunt* for *crediderunt*].
 
 The first, then, is shown in this order: first is set down the *threat of a servitude to be perpetuated;* second, because of the doubt of the Jews, *the exposition of the threat;* third, *the explication of the things to be believed;* fourth, *the multiplication of believers.*
 
@@ -119,15 +119,15 @@ To this it is answered in three ways: that the Lord did not say this by revealin
 
 42. Quaest. II. Again, since *beginning* states the account of emanation, which first and principally belongs to the Father; whence is it that the Son appropriates it to himself?
 
-**I answer:** It must be said that this name *beginning* is sometimes taken *essentially,* according as it states a relation to the creature, and so the whole Trinity is called *beginning;* sometimes *notionally,* and so the Father and the Son are *one beginning* of the Holy Spirit; sometimes *personally,* and so *beginning* states the fontal emanation itself, which is found in the Father. And so Augustine says[^p362-8] that « the Father is the beginning of the Divinity ». — It must be said, then, that this name *beginning*, according as it is *essential*, is drawn to the person of the Son in two ways: in one way through *the property of generation,* and so the Son is called *beginning from beginning,* that is, begotten; in another way through *the property of the Word,* because the Son is the Word, and so it is drawn here: *The beginning, who also speak unto you*[^p362-9].
+**I respond:** It must be said that this name *beginning* is sometimes taken *essentially,* according as it states a relation to the creature, and so the whole Trinity is called *beginning;* sometimes *notionally,* and so the Father and the Son are *one beginning* of the Holy Spirit; sometimes *personally,* and so *beginning* states the fontal emanation itself, which is found in the Father. And so Augustine says[^p362-8] that « the Father is the beginning of the Divinity ». — It must be said, then, that this name *beginning*, according as it is *essential*, is drawn to the person of the Son in two ways: in one way through *the property of generation,* and so the Son is called *beginning from beginning,* that is, begotten; in another way through *the property of the Word,* because the Son is the Word, and so it is drawn here: *The beginning, who also speak unto you*[^p362-9].
 
 43. Quaest. III. Again it is asked: since *truth* is appropriated to the Son, whence is it that the Son, speaking of the Father, attributes it to him[^p362-10]?
 
 It must be said that he is called *true* because he speaks true words. Because, then, the Father speaks the Son, who is the true Word, to whom truth is appropriated, *true*, by reason of the origin connoted, can rightly be appropriated to the Father[^p362-11].
 
-44. Quaest. IV. Again it is asked concerning this which he says, that *he hath not left me alone, because I do always the things that please him.* — *Against:* in Matthew, the twenty-seventh chapter[^p362-12], the Son said in the passion: *My God, my God, why hast thou forsaken me?*
+44. Quaest. IV. Again it is asked concerning this which he says, that *he hath not left me alone, because I do always the things that please him.* — *On the contrary:* in Matthew, the twenty-seventh chapter[^p362-12], the Son said in the passion: *My God, my God, why hast thou forsaken me?*
 
-**I answer:** It must be said that there is a *forsaking of dispensation, of probation, of permission, of eternal*
+**I respond:** It must be said that there is a *forsaking of dispensation, of probation, of permission, of eternal*
 <!-- page 363 -->
 *damnation.* The first, *of dispensation,* was to expose the Son to the passion for the salvation of the human race[^p363-1]. The second, *of probation,* is in the just, as the Lord left Job in the hand of satan. The third is in those who sin, in the present. The fourth is in the damned eternally, which is a forsaking without any visitation. The word of the Lord, then, is here understood of the forsaking of wrath, not of the dispensation of the divine wisdom[^p363-2].
 
@@ -175,7 +175,7 @@ It must be said that he is called *true* because he speaks true words. Because, 
 
 [^p361-6]: **La.** Ed., verbis transpositis: *ideo hoe quod eis implicite dixerat.*
 
-     **En.** The edition, with the words transposed: *ideo hoe* [*so printed*, for *hoc*] *quod eis implicite dixerat* ("therefore that which he had said to them implicitly").
+     **En.** The edition, with the words transposed: *ideo hoe* [so printed: *hoe* for *hoc*] *quod eis implicite dixerat* ("therefore that which he had said to them implicitly").
 
 [^p361-7]: **La.** Vers. 19.
 

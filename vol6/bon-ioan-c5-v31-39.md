@@ -159,7 +159,7 @@ Otherwise it is said that the works were not a *coercive* testimony, but an *ind
 
 [^p314-1]: **La.** Vers. 18. — Superius pro *incertum* plures codd. *in Deum.*
 
-     **En.** Verse 18 [*so printed*]. — Higher up, for *incertum* ("uncertain") several codices have *in Deum* ("in God").
+     **En.** Verse 18 [so printed; the verse is John 8:13]. — Higher up, for *incertum* ("uncertain") several codices have *in Deum* ("in God").
 
 [^p314-2]: **La.** Vers. 26. — Duo seqq. loci sunt Ioan. 1, 34. et Prov. 12, 17.
 

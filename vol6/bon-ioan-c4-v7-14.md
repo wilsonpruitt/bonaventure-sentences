@@ -115,7 +115,7 @@ consenting he *announces the truth of faith,* at the place[^p292-1]: *The woman 
 
 23. Question I. It is asked here: since the Lord commands his disciples that they should not enter into *the cities of the Samaritans* nor *into the way of the Gentiles,* Matthew, the tenth chapter[^p293-1], and also, in Matthew, the fifteenth chapter, says: *I was not sent but to the sheep that are lost of the house of Israel;* whence is it that the Lord now preaches to the Samaritans? For he seems to go against his own command, and from this to give a bad example.
 
-**Respondeo:** It must be said that the Lord forbade this to the disciples, not because it was evil, but lest he should scandalize the Jews, to whom he had first come. Therefore he commanded that they should not go to them of principal purpose, whence neither did the Lord thrust himself upon them. But because *he wills all men to be saved*[^p293-2], and the opportunity offered itself, and the woman came to him; therefore he opened the word of preaching.
+**I respond:** It must be said that the Lord forbade this to the disciples, not because it was evil, but lest he should scandalize the Jews, to whom he had first come. Therefore he commanded that they should not go to them of principal purpose, whence neither did the Lord thrust himself upon them. But because *he wills all men to be saved*[^p293-2], and the opportunity offered itself, and the woman came to him; therefore he opened the word of preaching.
 
 24. Question II. Likewise it is asked: 1. Since the Jews repute the Samaritans unclean, and the Lord kept the Law; whence is it that he asked to drink from the Samaritan woman?
 
@@ -127,21 +127,21 @@ Chrysostom answers[^p293-3] that the Lord reputed it a thing indifferent to keep
 
 25. Question III. Likewise it is asked about this, that he says that *the disciples had gone into the city, to buy meats.*
 
-**Contra:** 1. The disciples were Jews: therefore they ought not to communicate with the Samaritans.
+**On the contrary:** 1. The disciples were Jews: therefore they ought not to communicate with the Samaritans.
 
 2. Likewise, the Lord commanded them that they should not have money, Matthew, the tenth chapter[^p293-4]; how then did they go to buy, if they did not have money?
 
-**Respondeo:** It must be said that the disciples had learned from the Lord that nothing is unclean or[^p293-5] common. — Or it must be said that some foods were indifferent as regards the Jews and the Samaritans, such as bread and fruits; and such foods they had gone to buy.
+**I respond:** It must be said that the disciples had learned from the Lord that nothing is unclean or[^p293-5] common. — Or it must be said that some foods were indifferent as regards the Jews and the Samaritans, such as bread and fruits; and such foods they had gone to buy.
 
 2. As to what he objects, that they did not have the wherewithal to buy; it must be said that they had not yet been sent to work miracles and to preach. — Moreover, they were in an unknown land, where they would not find bread and other foods for nothing; therefore for the time of necessity they carried money.
 
-26. Question IV. Likewise it is asked about this, that the woman says: *Art thou greater than our father Jacob? — Contra:* From this she seems to imply that Jacob was the father of the Samaritans; and this is false, because they had been sent by the king of the Assyrians[^p293-6].
+26. Question IV. Likewise it is asked about this, that the woman says: *Art thou greater than our father Jacob? — On the contrary:* From this she seems to imply that Jacob was the father of the Samaritans; and this is false, because they had been sent by the king of the Assyrians[^p293-6].
 
-**Respondeo:** It must be said that one is sometimes called *father* on account of *antiquity of time,* as we call old men *fathers;* sometimes by *authority,* thus we call prelates and authoritative men *fathers;* sometimes by *benefit* or by *upbringing,* thus we call *fathers* those from whom we receive benefits; sometimes by *generation,* thus those who begot[^p293-7]. The woman calls Jacob *father* for the three reasons first had.
+**I respond:** It must be said that one is sometimes called *father* on account of *antiquity of time,* as we call old men *fathers;* sometimes by *authority,* thus we call prelates and authoritative men *fathers;* sometimes by *benefit* or by *upbringing,* thus we call *fathers* those from whom we receive benefits; sometimes by *generation,* thus those who begot[^p293-7]. The woman calls Jacob *father* for the three reasons first had.
 
-27. Question V. Likewise it is asked about this, that he says: *He that shall drink of the water that I will give him, shall not thirst for ever. — Contra:* Either he understands it of *bodily* thirst, or of *spiritual;* if of *bodily,* it is false, because those who have grace thirst; if of *spiritual,* it still seems false; Ecclesiasticus, the twenty-fourth chapter[^p293-8]: « They that drink shall yet thirst ».
+27. Question V. Likewise it is asked about this, that he says: *He that shall drink of the water that I will give him, shall not thirst for ever. — On the contrary:* Either he understands it of *bodily* thirst, or of *spiritual;* if of *bodily,* it is false, because those who have grace thirst; if of *spiritual,* it still seems false; Ecclesiasticus, the twenty-fourth chapter[^p293-8]: « They that drink shall yet thirst ».
 
-**Respondeo:** It must be said that he speaks of spiritual thirst[^p293-9]. For one thirst is of a thing *not had,* that it may be had; another of a thing *had,* that it may be had more fully; another is of a thing *perfectly had,* that it may be continued. The first is in concupiscence; the second, in grace; but the third, in glory. Here he speaks of the first thirst, therefore etc. For the thirst of grace is not of a thing *not had;* because, as Augustine says[^p293-10], he who has the eternal gift has it by loving, although not *perfectly.*
+**I respond:** It must be said that he speaks of spiritual thirst[^p293-9]. For one thirst is of a thing *not had,* that it may be had; another of a thing *had,* that it may be had more fully; another is of a thing *perfectly had,* that it may be continued. The first is in concupiscence; the second, in grace; but the third, in glory. Here he speaks of the first thirst, therefore etc. For the thirst of grace is not of a thing *not had;* because, as Augustine says[^p293-10], he who has the eternal gift has it by loving, although not *perfectly.*
 
 ---
 

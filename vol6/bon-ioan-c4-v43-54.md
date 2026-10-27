@@ -145,11 +145,11 @@ there was no room for them in the inn.* — The third, *the circumcision,* and t
 
 84. Quaest. I. It is asked about this which he says, that *a prophet hath no honour in his own country.*
 
-**Against this:** 1. Because a man is not honoured except where he is known: therefore if he is known among his fellow-countrymen, not among foreigners; it seems that he is honoured more in his own country than in a foreign one.
+**On the contrary:** 1. Because a man is not honoured except where he is known: therefore if he is known among his fellow-countrymen, not among foreigners; it seems that he is honoured more in his own country than in a foreign one.
 
 2. Likewise we see that David the prophet had the honour of a kingdom in his own country. — Likewise it seems that Christ had honour. For it is said in the letter[^p302-11] that *the Galileans received him:* therefore they honoured him.
 
-**Respondeo:** It must be said that for a twofold reason a prophet is not honoured in his own country: both by reason of *carnal generation* and by reason of *familiar conversation.* By reason of *generation;* for when he has a father and mother who are ignoble and vile and poor, as Christ was believed to have, by reason of these he is despised[^p302-12]. By reason of *familiar conversation,* because familiarity breeds contempt; therefore, since they knew Christ's parents to be poor, and his upbringing, they believed that there was nothing divine in him.
+**I respond:** It must be said that for a twofold reason a prophet is not honoured in his own country: both by reason of *carnal generation* and by reason of *familiar conversation.* By reason of *generation;* for when he has a father and mother who are ignoble and vile and poor, as Christ was believed to have, by reason of these he is despised[^p302-12]. By reason of *familiar conversation,* because familiarity breeds contempt; therefore, since they knew Christ's parents to be poor, and his upbringing, they believed that there was nothing divine in him.
 
 1. To what is objected, then, that knowledge makes a man honoured; it must be said that knowledge of *virtue* helps, but knowledge of *origin* and *infirmity* hinders.
 
@@ -163,13 +163,13 @@ Augustine[^p303-1] answers that they received him *outwardly* in body, but not i
 
 2. This same is argued from the letter[^p303-3]: because he asked that he should come down, as though he could not heal except in his presence.
 
-**Sed contra** this is: if he did not believe, how did he ask the Lord for the health of his son?
+**On the contrary** this is: if he did not believe, how did he ask the Lord for the health of his son?
 
-**Respondeo:** It must be said that *he believed,* but *half-fully: he believed* that there was in Christ power to save his son; but *he did not believe* that there was in him the Divinity, by which he could act everywhere. Hence there was faith when he asked for health; but a defect of faith when he required bodily presence[^p303-4].
+**I respond:** It must be said that *he believed,* but *half-fully: he believed* that there was in Christ power to save his son; but *he did not believe* that there was in him the Divinity, by which he could act everywhere. Hence there was faith when he asked for health; but a defect of faith when he required bodily presence[^p303-4].
 
 86. Quaest. III. Likewise the said Gregory[^p303-5] asks: whence is it that the Lord offered himself to go to the centurion's servant, and, when he was asked, refused to go to the ruler's son?
 
-**Respondeo:** It must be said that this was for the edification of *faith* and of *morals:* of *faith,* because, while he offered himself to the centurion, he manifested to us the devotion of his faith; while he withdrew himself from the ruler's son, curing him in his absence, he invited him to *faith in the Divinity.* But for the *edification* of *morals,* that he might restrain our pride, who venerate the great and despise the little, the Lord offered himself to go to the centurion's servant, and refused to go to the ruler's son[^p303-6].
+**I respond:** It must be said that this was for the edification of *faith* and of *morals:* of *faith,* because, while he offered himself to the centurion, he manifested to us the devotion of his faith; while he withdrew himself from the ruler's son, curing him in his absence, he invited him to *faith in the Divinity.* But for the *edification* of *morals,* that he might restrain our pride, who venerate the great and despise the little, the Lord offered himself to go to the centurion's servant, and refused to go to the ruler's son[^p303-6].
 
 ---
 
@@ -227,7 +227,7 @@ Augustine[^p303-1] answers that they received him *outwardly* in body, but not i
 
 [^p301-5]: **La.** Scilicet *interlinearis,* quae ut ed. addit *et sibi.* Beda, in hunc locum: Incipiebat enim fidem habere in sermone Iesu, et ideo sanitatem meruit filii, et qui ex parte dubius venit fidelis recessit; et ideo sanitatem meruit filii. — Subinde allegatur Marc. 9, 32.
 
-     **En.** Namely the *interlinear* Gloss, which, like the edition, adds *et sibi* ("and for himself"). Bede, on this place: For he was beginning to have faith in the word of Jesus, and therefore he merited the health of his son, and he who came in part doubtful went away faithful; and therefore he merited the health of his son. — Next is cited Mark 9:32 [so printed].
+     **En.** Namely the *interlinear* Gloss, which, like the edition, adds *et sibi* ("and for himself"). Bede, on this place: For he was beginning to have faith in the word of Jesus, and therefore he merited the health of his son, and he who came in part doubtful went away faithful; and therefore he merited the health of his son. — Next is cited Mark 9:32 [so printed; the verse is Mark 9:22].
 
 [^p301-6]: **La.** Vers. 6. — Inferius post *Et nuntiaverunt ei* Vulgata prosequitur *dicentes, quia filius* etc.
 

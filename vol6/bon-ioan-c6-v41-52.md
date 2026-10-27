@@ -203,7 +203,7 @@ On this account it is expounded otherwise, that those who will be taught will be
 
 [^p329-11]: **La.** Vers. 44. Cfr. ibid. n. 83.
 
-     **En.** Verse 44. Compare the same place, n. 83.
+     **En.** Verse 44. Compare the same place, n. 83 [so printed; the question is n. 84].
 
 [^p329-12]: **La.** Vulgata *in invicem.* — Subinde allegantur Sap. 1, 11. (cfr. supra Comment. in hunc locum) et I. Cor. 10, 10.
 
