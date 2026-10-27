@@ -4029,7 +4029,20 @@ KNOWN_TOTALS_VOL6 = {
              # *quarta, quae est iracundiae*) and its text introduces the full-measure schema *Et nota,
              # quod ... est derelictio* (four members) set beneath both blocks -- part of n.2, not
              # counted separately. ¶ 45 *Dicebat ergo Iesus etc.* (headless) follows at ~0.08 L;
-             # nn.3-11 PENDING for bon-ioan-c8-v31-36. Recto, gutter L. Gutter 903 (band 879-927).
+             # nn.3-11 are bon-ioan-c8-v31-36's (¶¶ 45-49): anchors L 3-6 (*ibi*3, *ei*4, *quinto*5,
+             # *vos*6) / R 7-11 (*octavo*7, *ita*8, *quarto*9, *infra*10, *Qui*11); lower blocks L 3-7
+             # head / R 7 tail-11. n.7 RUNS OVER THE GUTTER (L ends *in animae et*, R opens *corporis
+             # felici unione*). Recto, gutter L. Gutter 903 (band 879-927).
+    364: 12, # bon-ioan-c8-v31-36 (¶¶ 49-53, Quaest. I-II): anchors L 1-6 / R 7-12; blocks L 1-4 /
+             # R 5-12 (nn.5-6 anchor L, print R). No runover. n.5 prints *Duo seqq. < >ci sunt* -- a
+             # compositor's blank for *lo* (clean paper). Verso, gutter R. Gutter 1164 (band 1141-1188,
+             # the rule walking 1158 -> 1167 down the leaf).
+    365: 9,  # bon-ioan-c8-v31-36 owns nn.1-5 (¶ 53 Quaest. II, head of L, all L anchors: *primo*1,
+             # *primo*2, *octavo*3, *octavo*4, *liberae*5); blocks L 1-3 / R 4-5; n.5 (*Sola ed. hoc loco
+             # habet verba et schema, quae sequuntur:*) introduces the full-measure schema *Nota quoad
+             # ... [S]ermo Dei est efficax* (13 members) set beneath both blocks -- part of n.5, not
+             # counted separately. ¶ 54 *Scio, quia filii Abrahae estis* (headless) follows at ~0.37 L;
+             # nn.6-9 PENDING for bon-ioan-c8-v37-50. Recto, gutter L. Gutter 899 (band 875-923).
 }
 
 KNOWN_TOTALS_BY_VOL = {
