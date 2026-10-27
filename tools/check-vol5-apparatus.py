@@ -4092,8 +4092,15 @@ KNOWN_TOTALS_VOL6 = {
              # R opens *loco ab antecedentibus*). Recto, gutter L. Gutter 905.
     380: 12, # bon-ioan-c9-v12-34 owns nn.1-8 (¶¶ 42-45, Quaest. II-V, anchors all L); the RIGHT column
              # opens under *In tertia parte describitur spiritualis caeci illuminatio.* (¶ 46, Vers.
-             # 35-41) and anchors nn.9-12 — PENDING for the next pericope. Blocks L 1-5 / R 6-12, no
-             # runover. Verso, gutter R. Gutter 1167.
+             # 35-41) and anchors nn.9-12 — bon-ioan-c9-v35-41's (¶¶ 46-48, all R). Blocks L 1-5 /
+             # R 6-12, no runover. Verso, gutter R. Gutter 1167.
+    381: 14, # bon-ioan-c9-v35-41 (¶¶ 48-54, Quaestiones from ¶ 53 at ~0.17 R): anchors L 1-6 / R 7-14;
+             # blocks L 1-6 / R 7-14, both open numbered, no runover. Recto, gutter L. Gutter 907.
+    382: 12, # bon-ioan-c9-v35-41 owns nn.1-9 (¶¶ 54-55, Quaest. II tail-III: L 1-4 / R 5-9, closing
+             # at ~0.42 R on *ita dicit Augustinus*); CAPITULUM X opens full measure at ~0.45 and
+             # anchors nn.10-12 — PENDING for Cap. X's first pericope. Blocks L 1-6 head / R 6 tail-12:
+             # n.6 RUNS OVER THE GUTTER (L ends *variata in-*, R opens *terpunctione*), c9-v35-41's.
+             # Verso, gutter R. Gutter 1129.
 }
 
 KNOWN_TOTALS_BY_VOL = {
