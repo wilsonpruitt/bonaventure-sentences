@@ -4042,7 +4042,22 @@ KNOWN_TOTALS_VOL6 = {
              # habet verba et schema, quae sequuntur:*) introduces the full-measure schema *Nota quoad
              # ... [S]ermo Dei est efficax* (13 members) set beneath both blocks -- part of n.5, not
              # counted separately. ¶ 54 *Scio, quia filii Abrahae estis* (headless) follows at ~0.37 L;
-             # nn.6-9 PENDING for bon-ioan-c8-v37-50. Recto, gutter L. Gutter 899 (band 875-923).
+             # nn.6-9 are bon-ioan-c8-v37-50's (¶¶ 54-55): anchors L 6 (*quia*6) / R 7-9 (*primo*7,
+             # *primo*8, *hoc*9); lower blocks L 6-8 head / R 8 tail-9. n.8 RUNS OVER THE GUTTER (L ends
+             # *C E N alle-*, R opens *gant Eph. 5, 1*). Recto, gutter L. Gutter 899 (band 875-923).
+    366: 13, # bon-ioan-c8-v37-50 (¶¶ 55-61): anchors L 1-6 / R 7-13; blocks L 1-7 / R 8-13 (n.7
+             # anchors R, prints L); n.12 set at the right of n.11's last line. No runover. Verso,
+             # gutter R. Gutter 1150 (band 1127-1174).
+    367: 14, # bon-ioan-c8-v37-50 (¶¶ 61-67): anchors L 1-8 / R 9-14; blocks L 1-8 / R 9-14. No
+             # runover. Recto, gutter L. Gutter 908 (band 884-932).
+    368: 12, # bon-ioan-c8-v37-50 (¶¶ 68-72, Quaestiones I-V): anchors L 1-6 / R 7-12; blocks L 1-7
+             # head / R 7 tail-12. n.7 RUNS OVER THE GUTTER (L ends *Dionys., de Div.*, R opens *Nom.
+             # c. 4. § 19*). Verso, gutter R. Gutter 1145 (band 1123-1167).
+    369: 12, # bon-ioan-c8-v37-50 owns nn.1-8 (¶¶ 72-74, Quaest. V-VII; anchors L 1-7 / R 8 at the
+             # head of R); blocks L 1-7 head / R 7 tail-12. n.7 RUNS OVER THE GUTTER (L ends *sed etiam
+             # textus*, R opens *originalis consensit*). ¶ 75 *Amen, amen dico vobis* (headless) follows
+             # at ~0.11 R; nn.9-12 PENDING for the next pericope (Vers. 51 ff.). Recto, gutter L.
+             # Gutter 895 (band 870-920).
 }
 
 KNOWN_TOTALS_BY_VOL = {
