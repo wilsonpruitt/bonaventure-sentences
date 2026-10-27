@@ -3928,6 +3928,17 @@ KNOWN_TOTALS_VOL6 = {
              # with NO heading; nn.10-13 anchor in ¶¶ 19-21 -- PENDING for bon-ioan-c7-v14-18.
              # n.9 *c. 2. n. 17.* (1-vs-4) settled by target (c. 2 ¶ 17 = Quaest. IV on 2:4).
              # Gutter 1137 (band 1114-1161, rule 1136-1140).
+             # nn.10-13 PICKED UP by bon-ioan-c7-v14-18 (*Iam*10, *Glossa*11, *Augustinus*12,
+             # *trigesimo*13, all R; printed in the R block after n.9). PAGE COMPLETE.
+    343: 8,  # bon-ioan-c7-v14-18 (¶¶ 21-24): anchors L 1-3 / R 4-8. Upper register L 1-3 / R 4-6;
+             # n.6 opens at the foot of R and continues FULL MEASURE as the schema *commendabilis
+             # comparate* (ad discipulum x4 / ad Magistrum x4), rendered whole as a nested outline.
+             # Lower register: n.7 L, n.8 opens L and RUNS OVER THE GUTTER (L ends *...quod
+             # mirabiliter*, R opens flush-left *sit locutus*). Recto, gutter L. Gutter 888 body.
+    344: 15, # bon-ioan-c7-v14-18 (¶¶ 25-26, Quaest. II-III): anchors L 1-8 / R 9-15; blocks L 1-9 /
+             # R 10-15. No runover. The heading *Pars secunda agit de doctrinae communicatione
+             # dupliciter.* and ¶ 27 (two lines, unanchored) stand at ~0.68 R: the leaf forwards
+             # NOTHING. Gutter 1145 (band 1123-1168, rule 1142-1150).
 }
 
 KNOWN_TOTALS_BY_VOL = {
