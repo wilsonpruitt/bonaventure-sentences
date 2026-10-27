@@ -814,6 +814,15 @@ const WORKS = {
       // chunk is titled from the lowest). All unanchored. The raw drops the
       // capitulum heading. The index (*Capitulum IX … Vers. 1-11 … 372*) agrees.
       9: "Capitulum IX",
+      // `CAPITULUM X.` read in place on p. 382 at bon-ioan-c10-v1-10: full-measure
+      // centred small capitals MID-LEAF at ~0.45, below Cap. IX's Quaest. III
+      // (…ita dicit Augustinus.), with the small bold capitulum subtitle `Tertio
+      // Filius Dei se ostendit lucem et directorem exemplo bonae vitae.` over ¶ 1
+      // in the LEFT column and, lower in the RIGHT column below ¶ 1's tail, `Pars
+      // prima demonstrat bonum pastorem in parabola.` (ruling 79(b): the chunk is
+      // titled from the lowest). All unanchored. The raw drops the capitulum
+      // heading. The index (*Capitulum X … Vers. 1-10 … 382*) agrees.
+      10: "Capitulum X",
     },
   },
 };

@@ -4098,9 +4098,27 @@ KNOWN_TOTALS_VOL6 = {
              # blocks L 1-6 / R 7-14, both open numbered, no runover. Recto, gutter L. Gutter 907.
     382: 12, # bon-ioan-c9-v35-41 owns nn.1-9 (¶¶ 54-55, Quaest. II tail-III: L 1-4 / R 5-9, closing
              # at ~0.42 R on *ita dicit Augustinus*); CAPITULUM X opens full measure at ~0.45 and
-             # anchors nn.10-12 — PENDING for Cap. X's first pericope. Blocks L 1-6 head / R 6 tail-12:
-             # n.6 RUNS OVER THE GUTTER (L ends *variata in-*, R opens *terpunctione*), c9-v35-41's.
-             # Verso, gutter R. Gutter 1129.
+             # anchors nn.10-12 — bon-ioan-c10-v1-10's (¶ 1 L *supra*; ¶ 1 tail R *ibi*; *Describit
+             # igitur* R *veri*), all three printed in the R block, each opening numbered. Blocks L 1-6
+             # head / R 6 tail-12: n.6 RUNS OVER THE GUTTER (L ends *variata in-*, R opens
+             # *terpunctione*), c9-v35-41's. Verso, gutter R. Gutter 1129 (above the heading), 1130
+             # (Cap. X rows).
+    383: 7,  # bon-ioan-c10-v1-10 (¶¶ 2-4): anchors L 1-3 / R 4-7. Blocks L 1-2 head / R 2 tail-4,
+             # then n.5 FULL MEASURE (the edition's schema *Nota vero, quod … non ingreditur per
+             # ostium*), then L 6 head / R 6 tail-7. n.2 and n.6 RUN OVER THE GUTTER. Recto, gutter L.
+             # Gutter 905.
+    384: 14, # bon-ioan-c10-v1-10 (¶¶ 4-8): anchors L 1-6 / R 7-14; blocks L 1-11 / R 12-14. n.14
+             # RUNS OVER THE PAGE onto the head of p. 385's LEFT block (*et parabolas composuerit*).
+             # Verso, gutter R. Gutter 1147.
+    385: 13, # bon-ioan-c10-v1-10 (¶¶ 8-12; *Pars secunda exponit parabolam et applicat ad Christum.*
+             # at the head of L): anchors L 1-6 / R 7-13. L block opens UNNUMBERED (p. 384 n.14's
+             # tail), then 1-10 head / R 10 tail-13: n.10 RUNS OVER THE GUTTER. Recto, gutter L.
+             # Gutter 891.
+    386: 10, # bon-ioan-c10-v1-10 owns nn.1-7 (¶ 12 tail, Quaestiones ¶¶ 13-15, all anchors L; closing
+             # at ~0.11 R on *usque ad vesperam »*); ¶ 16 *Ego sum pastor bonus* (Vers. 11-21) opens
+             # HEADLESS at ~0.12 R and anchors nn.8-10 — PENDING for the next pericope. Blocks
+             # L 1-7 head / R 7 tail-10: n.7 RUNS OVER THE GUTTER (L ends *exire autem de*, R opens
+             # *Ecclesia*), c10-v1-10's. Verso, gutter R. Gutter 1149.
 }
 
 KNOWN_TOTALS_BY_VOL = {
