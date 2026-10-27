@@ -3959,6 +3959,19 @@ KNOWN_TOTALS_VOL6 = {
              # blocks L 1-6 / R 7-16 (n.7 anchors L, prints R). No runover. Quaest. IV closes at
              # ~0.47 L on *...dicitur Ioannis octavo.*; ¶ 47 *Audierunt autem*8 (headless) follows.
              # nn.8-16 PENDING for bon-ioan-c7-v32-39. Gutter 1160 (band 1136-1184, rule 1158-1161).
+             # Re-derived by bon-ioan-c7-v32-39: n.8 *autem*8, n.9 *ibi*9, n.10 *dubitantium*10 L
+             # (¶ 47); nn.11-16 R (¶¶ 47-49); all print in the R block after n.7, as handed off.
+             # Gutter 1158 in ¶ 47's region (rows 0.49-0.66). Now complete.
+    349: 10, # bon-ioan-c7-v32-39 (¶¶ 49-54): anchors L 1-5 / R 6-10; blocks L 1-8 / R 8-10.
+             # n.8 RUNS OVER THE GUTTER (L ends *...sicut dicit*, R opens flush-left *Scriptura?*).
+             # Recto, gutter L. Gutter 888 (band 865-911, rule 885-891). Plate digits against the
+             # raw: n.6 homil. 51 (raw 31), n.8 Isai. 58 (raw 38).
+    350: 12, # bon-ioan-c7-v32-39 owns nn.1-11 (¶¶ 55-57, Quaest. I-II): anchors L 1-6 / R 7-12;
+             # blocks L 1-7 / R 7-12. n.7 (anchor R) opens at the foot of L and RUNS OVER THE GUTTER
+             # (L ends *spiritu pur-*, R opens flush-left *gata vivit*). n.5 carries a braced schema.
+             # Quaest. II closes at ~0.38 R on *in evidentia et abundantia*11; ¶ 58 *Ex illa autem*12
+             # (headless) follows with (Vers. 40.) in the same column. n.12 PENDING for
+             # bon-ioan-c7-v40-53 (*Vulgata ergo.*). Gutter 1158 (band 1136-1181, rule 1155-1163).
 }
 
 KNOWN_TOTALS_BY_VOL = {
