@@ -4184,8 +4184,25 @@ KNOWN_TOTALS_VOL6 = {
     404: 15, # bon-ioan-c11-v33-42 (¶¶ 54-57): anchors L 1-6 / R 7-15; blocks L 1-7 / R 8-15, n.7
              # prints LEFT and anchors RIGHT, no runover. Verso, gutter R. Gutter 1148.
     405: 12, # bon-ioan-c11-v33-42 owns nn.1-4 (¶ 58, closing at ~0.25 L on *homo*, above the
-             # centred `Pars secunda capituli, de ipso miraculo.`); nn.5-12 anchor ¶¶ 59-61
-             # below it — PENDING for the next chunk. Recto, gutter L. Gutter 885.
+             # centred `Pars secunda capituli, de ipso miraculo.`); nn.5-12 anchor ¶¶ 59-60
+             # below it and are bon-ioan-c11-v43-56's: anchors L 5-6 / R 7-12; blocks L 1-7 head /
+             # R 7 tail-12 (n.7 RUNS OVER THE GUTTER, *contemnunt;* / *ideoque*). Recto, gutter L.
+             # Gutter 886 (rows 0.06-0.25) / 884 (rows 0.30-0.48).
+    406: 11, # bon-ioan-c11-v43-56 (¶¶ 61-64): anchors L 1-5 / R 6-11; blocks L 1-7 / R 8-11
+             # (nn.6-7 print LEFT, anchor RIGHT), no runover. Verso, gutter R. Gutter 1158.
+    407: 11, # bon-ioan-c11-v43-56 (¶¶ 64-68): anchors L 1-6 / R 7-11; blocks L 1-7 / R 8-11
+             # (n.7 prints LEFT, anchors RIGHT), no runover; nn.9-10 share a line's end.
+             # Recto, gutter L. Gutter 894.
+    408: 11, # bon-ioan-c11-v43-56 (¶¶ 68-73): anchors L 1-5 / R 6-11; blocks L 1-7 / R 8-11
+             # (nn.6-7 print LEFT, anchor RIGHT), no runover. Verso, gutter R. Gutter 1157.
+    409: 14, # bon-ioan-c11-v43-56 (¶¶ 73-76): anchors L 1-7 / R 8-14; blocks L 1-13 head / R 13
+             # tail-14 head (n.13 RUNS OVER THE GUTTER, *Nos* / *in hanc*; n.14 RUNS OVER THE
+             # PAGE, *di-* / p.410 L head *citur*, unnumbered); nn.11-12 share a line.
+             # Recto, gutter L. Gutter 890.
+    410: 7,  # bon-ioan-c11-v43-56 owns nn.1-2 (¶ 76, closing at ~0.17 of the leaf above the
+             # centred `Capitulum XII.`; blocks: L opens with p.409 n.14's tail, n.2 RUNS OVER THE
+             # GUTTER, *prophe-* / *tiae*); nn.3-7 anchor Cap. XII ¶¶ 1-3 below it — PENDING for
+             # the next chunk. Verso, gutter R. Gutter 1140 above the heading, 1144 below it.
 }
 
 KNOWN_TOTALS_BY_VOL = {
