@@ -4239,9 +4239,19 @@ KNOWN_TOTALS_VOL6 = {
     420: 10, # bon-ioan-c12-v24-36 (¶¶ 44-50): anchors L 1-4 / R 5-10; blocks L 1-5 head / R 5 tail-10
              # (n.5 runs over the gutter; nn.1-4 fill the L block). Verso. Gutter 1151 / 1157.
     421: 11, # bon-ioan-c12-v24-36 owns nn.1-9 (¶¶ 50-54: anchors L 1-4 / R 5-9, Quaest. IV closing at
-             # ~0.30 of the RIGHT column above the headless ¶ 55); nn.10-11 anchor ¶ 55 below it —
-             # PENDING for the next chunk. Blocks L 1-7 / R 8-11 (nn.5-7 print LEFT, anchor RIGHT),
-             # no runover. Recto. Gutter 910 / 913.
+             # ~0.30 of the RIGHT column above the headless ¶ 55); bon-ioan-c12-v36-50 owns nn.10-11
+             # (¶ 55, both RIGHT). Blocks L 1-7 / R 8-11 (nn.5-7 print LEFT, anchor RIGHT), no
+             # runover. Recto. Gutter 910 / 913.
+    422: 12, # bon-ioan-c12-v36-50 (¶¶ 55-65): anchors L 1-8 / R 9-12; blocks L 1-10 head / R 10 tail-12
+             # (n.10 runs over the gutter; nn.9-10 print LEFT, anchor RIGHT). Verso. Gutter walks
+             # 1153 head / 1159 mid / 1162 register.
+    423: 8,  # bon-ioan-c12-v36-50 (¶¶ 65-70): anchors L 1-4 / R 5-8; n.1 full measure with its braced
+             # schema, then blocks L 2-5 / R 6-8 (n.5 prints LEFT, anchors RIGHT). No runover. Recto.
+             # Gutter walks 895 head / 898 mid / 909 register.
+    424: 11, # bon-ioan-c12-v36-50 owns nn.1-8 (¶¶ 70-71: anchors L 1-4 / R 5-8, Quaest. II closing at
+             # ~0.41 of the RIGHT column above the full-measure Capitulum XIII.); nn.9-11 anchor
+             # Cap. XIII ¶ 1 below it — PENDING for the next chunk. Blocks L 1-4 head / R 4 tail-11
+             # (n.4 runs over the gutter). Verso. Gutter 1152 body / 1155 register.
 }
 
 KNOWN_TOTALS_BY_VOL = {
