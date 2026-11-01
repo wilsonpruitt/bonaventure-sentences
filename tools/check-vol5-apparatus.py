@@ -4163,6 +4163,20 @@ KNOWN_TOTALS_VOL6 = {
              # anchors L 1-5 / R 6-9; blocks L 1-8 head / R 8 tail-9 (n.8 RUNS OVER THE
              # GUTTER, *haec* / *vero et honesta*). p.398 opens ¶ 17 headless; nothing forwarded.
              # Recto, gutter L. Gutter 891.
+    398: 17, # bon-ioan-c11-v7-32 (¶¶ 17-24, opens HEADLESS at the head of L): anchors L 1-7 / R 8-17;
+             # blocks L 1-7 / R 8-17, no runover. Verso, gutter R. Gutter 1166 (band 1149-1184, the
+             # inked rule 1163-1175 inside it).
+    399: 15, # bon-ioan-c11-v7-32 (¶¶ 25-30): anchors L 1-7 / R 8-15; blocks L 1-5 head / R 5 tail-15
+             # head (n.5 RUNS OVER THE GUTTER, *amantium* / *affectus*; n.15 RUNS OVER THE PAGE,
+             # *in Ioan.* / p.400 L head *Evang. tr. 49.*). Recto, gutter L. Gutter 851.
+    400: 14, # bon-ioan-c11-v7-32 (¶¶ 30-33): anchors L 1-9 / R 10-14; blocks L (p.399 n.15 tail) 1-6
+             # head / R 6 tail-14 (n.6 RUNS OVER THE GUTTER, *lapi-* / *dibus*). Verso, gutter R.
+             # Gutter 1152.
+    401: 12, # bon-ioan-c11-v7-32 (¶¶ 33-42): anchors L 1-7 / R 8-12; blocks L 1-8 head / R 8 tail-12
+             # (n.8 RUNS OVER THE GUTTER, *in Ioan.* / *Evang. tr. 49.*). Recto, gutter L. Gutter 890.
+    402: 15, # bon-ioan-c11-v7-32 owns nn.1-14 (¶¶ 42-45, closing at ~0.47 R on *omnipotentiam.*;
+             # anchors L 1-7 / R 8-14); n.15 anchors ¶ 46 *Supra*, headless below — PENDING for
+             # the next chunk. Blocks L 1-8 / R 9-15, no runover. Verso, gutter R. Gutter 1149.
 }
 
 KNOWN_TOTALS_BY_VOL = {
