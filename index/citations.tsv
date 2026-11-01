@@ -26372,6 +26372,20 @@ bon-ioan-c12-v1-8	6	apparatus:p412-12	p412-12	scripture	apparatus-explicit	Luc. 
 bon-ioan-c12-v1-8	6	apparatus:p413-3	p413-3	scripture	apparatus-explicit	Matth. 17, 23-26	Matth 17:23-26	A	verse		
 bon-ioan-c12-v1-8	6	apparatus:p413-4	p413-4	crossref	page	tom. V. pag. 354, nota 9	bon-hex-c5		chunk		
 bon-ioan-c12-v1-8	6	apparatus:p413-7	p413-7	crossref	page	supra pag. 275, nota 11	bon-ioan-c2-v12-17		chunk		
+bon-ioan-c12-v20-23	6	latin_body	p416-9	scripture	body-ordinal	Regum octavo	Reg* 8:41	B	verse		
+bon-ioan-c12-v20-23	6	latin_body		scripture	body-ordinal	Matthaei vigesimo primo	Matth 21	C	chapter		
+bon-ioan-c12-v20-23	6	latin_body	p416-13	scripture	body-ordinal	Deuteronomii quinto	Deut 5:5	B	verse		
+bon-ioan-c12-v20-23	6	latin_body		scripture	body-ordinal	ad Hebraeos quinto	Hebr 5	C	chapter		
+bon-ioan-c12-v20-23	6	latin_body	p417-1	scripture	body-ordinal	ad Romanos decimo tertio	Rom 13:11	B	verse		
+bon-ioan-c12-v20-23	6	latin_body	p417-3	scripture	body-ordinal	Matthaei decimo	Matth 10:5	B	verse		
+bon-ioan-c12-v20-23	6	latin_body		scripture	body-ordinal	Matthaei decimo quinto	Matth 15	C	chapter		
+bon-ioan-c12-v20-23	6	apparatus:p416-11	p416-11	scripture	apparatus-explicit	Psalm. 44, 3	Ps 44:3	A	verse		
+bon-ioan-c12-v20-23	6	apparatus:p416-11	p416-11	scripture	apparatus-explicit	Cant. 5, 16	Cant 5:16	A	verse		
+bon-ioan-c12-v20-23	6	apparatus:p416-11	p416-11	scripture	apparatus-explicit	Matth. 21, 43	Matth 21:43	A	verse		
+bon-ioan-c12-v20-23	6	apparatus:p416-13	p416-13	scripture	apparatus-explicit	Hebr. 5, 1	Hebr 5:1	A	verse		
+bon-ioan-c12-v20-23	6	apparatus:p417-1	p417-1	scripture	apparatus-explicit	Ioan. 7, 30	Ioan 7:30	A	verse		
+bon-ioan-c12-v20-23	6	apparatus:p417-5	p417-5	scripture	apparatus-explicit	Matth. 10, 5	Matth 10:5	A	verse		
+bon-ioan-c12-v20-23	6	apparatus:p417-6	p417-6	scripture	anaphor->apparatus-explicit	loc. cit.	Matth 10:5	A	verse	yes	Matth. 10, 5
 bon-ioan-c12-v9-19	6	latin_body	p413-15	scripture	body-ordinal	Isaiae primo	Isai 1:15	B	verse		
 bon-ioan-c12-v9-19	6	latin_body	p414-1	scripture	body-ordinal	Matthaei vigesimo tertio	Matth 23:13	B	verse		
 bon-ioan-c12-v9-19	6	latin_body	p414-3	scripture	body-ordinal	Esdrae octavo	Esdr* 8:15	B	verse		

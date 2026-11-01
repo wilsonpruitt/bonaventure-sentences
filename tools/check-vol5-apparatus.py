@@ -4223,8 +4223,13 @@ KNOWN_TOTALS_VOL6 = {
              # RIGHT). Recto, gutter L. Gutter 880.
     416: 13, # bon-ioan-c12-v9-19 owns nn.1-6 (¶ 27, all anchors LEFT, Quaest. II closing at ~0.46
              # of the column above the interior heading *Secundo, de passionis praedictione*);
-             # nn.7-13 anchor ¶ 28 ff. — PENDING for the next chunk. Blocks L 1-5 / R 6-13 (n.6
-             # prints RIGHT, anchors LEFT). Verso, gutter R. Gutter 1146-1154 by region.
+             # nn.7-13 anchor ¶ 28 ff. and are the next chunk (bon-ioan-c12-v20-23: n.7 anchors LEFT
+             # below the heading, nn.8-13 RIGHT; all print RIGHT, no page runover). Blocks L 1-5 /
+             # R 6-13 (n.6 prints RIGHT, anchors LEFT). Verso, gutter R. Gutter 1146-1154 by region.
+    417: 12, # bon-ioan-c12-v20-23 owns nn.1-6 (¶¶ 32-35: anchors L 1-4 / R 5-6, Quaest. III closing
+             # at ~0.17 of the RIGHT column); nn.7-12 anchor ¶ 36 ff. below it — PENDING for the
+             # next chunk. Blocks L 1-6 / R 7-12 (nn.5-6 print LEFT, anchor RIGHT), no gutter
+             # runover; n.12 breaks at the register's foot (*conte-*). Recto, gutter L. Gutter 903-906.
 }
 
 KNOWN_TOTALS_BY_VOL = {
