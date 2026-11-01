@@ -26329,6 +26329,49 @@ bon-ioan-c11-v7-32	6	apparatus:p402-12	p402-12	crossref	logical	III. Sent. d. 23
 bon-ioan-c11-v7-32	6	apparatus:p402-12	p402-12	crossref	chain-continuation	d. 26. a. 1. q. 4.	bon-sent-III-d26-a1-q4		chunk		
 bon-ioan-c11-v7-32	6	apparatus:p402-14	p402-14	crossref	logical	III. Sent. d. 23. a. 1. q. 1.	bon-sent-III-d23-a1-q1		chunk		
 bon-ioan-c11-v7-32	6	apparatus:p402-14	p402-14	crossref	chain-continuation	d. 27. a. 2. q. 1.	bon-sent-III-d27-a2-q1		chunk		
+bon-ioan-c12-v1-8	6	latin_body	p410-4	scripture	body-ordinal	Apocalypsis tertio	Apoc 3:20	B	verse		
+bon-ioan-c12-v1-8	6	latin_body		scripture	body-ordinal	Marci quinto	Marc 5	C	chapter		
+bon-ioan-c12-v1-8	6	latin_body		scripture	body-ordinal	Lucae decimo	Luc 10	C	chapter		
+bon-ioan-c12-v1-8	6	latin_body		scripture	body-ordinal	Canticis primo	Cant 1	C	chapter		
+bon-ioan-c12-v1-8	6	latin_body	p411-1	scripture	body-ordinal	Marci decimo quarto	Marc 14:3	B	verse		
+bon-ioan-c12-v1-8	6	latin_body	p411-3	scripture	body-ordinal	Exodi trigesimo	Exod 30:25	B	verse		
+bon-ioan-c12-v1-8	6	latin_body	p411-4	scripture	body-ordinal	Matthaei vigesimo sexto	Matth 26:8	B	verse		
+bon-ioan-c12-v1-8	6	latin_body	p411-5	scripture	body-ordinal	Ecclesiastici quarto	Eccli 4:1	B	verse		
+bon-ioan-c12-v1-8	6	latin_body	p411-6	scripture	body-ordinal	Matthaei vigesimo sexto	Matth 26:15	B	verse		
+bon-ioan-c12-v1-8	6	latin_body		scripture	body-ordinal	Deuteronomii decimo quinto	Deut 15	C	chapter		
+bon-ioan-c12-v1-8	6	latin_body		scripture	body-ordinal	Matthaei vigesimo sexto	Matth 26	C	chapter		
+bon-ioan-c12-v1-8	6	latin_body	p411-10	scripture	body-ordinal	Matthaei nono	Matth 9:10	B	verse		
+bon-ioan-c12-v1-8	6	latin_body	p411-11	scripture	body-ordinal	Lucae septimo	Luc 7:36	B	verse		
+bon-ioan-c12-v1-8	6	latin_body		scripture	body-ordinal	Matthaei decimo nono	Matth 19	C	chapter		
+bon-ioan-c12-v1-8	6	latin_body	p412-1	scripture	body-ordinal	Lucae septimo	Luc 7:38	B	verse		
+bon-ioan-c12-v1-8	6	latin_body	p412-2	scripture	body-ordinal	Matthaei vigesimo sexto	Matth 26:6	B	verse		
+bon-ioan-c12-v1-8	6	latin_body	p412-5	scripture	body-ordinal	Matthaei vigesimo sexto	Matth 26:2	B	verse		
+bon-ioan-c12-v1-8	6	latin_body	p412-6	scripture	body-ordinal	Matthaei vigesimo sexto	Matth 26:7	B	verse		
+bon-ioan-c12-v1-8	6	latin_body	p412-9	scripture	anaphor->body-ordinal	ibid	Matth 26:7	B	verse	yes	Matthaei vigesimo sexto
+bon-ioan-c12-v1-8	6	latin_body		scripture	body-ordinal	Matthaei decimo septimo	Matth 17	C	chapter		
+bon-ioan-c12-v1-8	6	latin_body	p413-9	scripture	body-ordinal	Marci decimo quarto	Marc 14:8	B	verse		
+bon-ioan-c12-v1-8	6	apparatus:p410-3	p410-3	scripture	apparatus-explicit	Exod. 12, 3	Exod 12:3	A	verse		
+bon-ioan-c12-v1-8	6	apparatus:p410-4	p410-4	scripture	apparatus-explicit	Marc. 5, 43	Marc 5:43	A	verse		
+bon-ioan-c12-v1-8	6	apparatus:p410-5	p410-5	scripture	apparatus-explicit	Luc. 10, 40	Luc 10:40	A	verse		
+bon-ioan-c12-v1-8	6	apparatus:p410-7	p410-7	scripture	apparatus-explicit	Cant. 1, 11	Cant 1:11	A	verse		
+bon-ioan-c12-v1-8	6	apparatus:p411-1	p411-1	crossref	page	pag. 355	bon-ioan-c8-v1-11		chunk		
+bon-ioan-c12-v1-8	6	apparatus:p411-3	p411-3	scripture	apparatus-explicit	Lev. 1, 13	Lev 1:13	A	verse		
+bon-ioan-c12-v1-8	6	apparatus:p411-9	p411-9	scripture	apparatus-explicit	Deut. 15, 11	Deut 15:11	A	verse		
+bon-ioan-c12-v1-8	6	apparatus:p411-9	p411-9	scripture	apparatus-explicit	Ioan. 16, 10	Ioan 16:10	A	verse		
+bon-ioan-c12-v1-8	6	apparatus:p411-9	p411-9	scripture	apparatus-explicit	Matth. 26, 10	Matth 26:10	A	verse		
+bon-ioan-c12-v1-8	6	apparatus:p411-12	p411-12	crossref	page	supra pag. 394, nota 13	bon-ioan-c10-v22-42+bon-ioan-c11-v1-6		page-multi		
+bon-ioan-c12-v1-8	6	apparatus:p411-12	p411-12	scripture	apparatus-explicit	Matth. 19, 21	Matth 19:21	A	verse		
+bon-ioan-c12-v1-8	6	apparatus:p412-2	p412-2	scripture	apparatus-explicit	Marc. 14, 3	Marc 14:3	A	verse		
+bon-ioan-c12-v1-8	6	apparatus:p412-5	p412-5	scripture	apparatus-explicit	Ioan. 12, 1	Ioan 12:1	A	verse		
+bon-ioan-c12-v1-8	6	apparatus:p412-7	p412-7	scripture	apparatus-explicit	Matth. 26, 8	Matth 26:8	A	verse		
+bon-ioan-c12-v1-8	6	apparatus:p412-7	p412-7	scripture	apparatus-explicit	Ioan. 12, 4	Ioan 12:4	A	verse		
+bon-ioan-c12-v1-8	6	apparatus:p412-9	p412-9	crossref	page	supra pag. 268, nota 2	bon-ioan-c1-v43-51		chunk		
+bon-ioan-c12-v1-8	6	apparatus:p412-10	p412-10	scripture	apparatus-explicit	Marc. 14, 3	Marc 14:3	A	verse		
+bon-ioan-c12-v1-8	6	apparatus:p412-11	p412-11	crossref	page	supra pag. 405, nota 8	bon-ioan-c11-v33-42+bon-ioan-c11-v43-56		page-multi		
+bon-ioan-c12-v1-8	6	apparatus:p412-12	p412-12	scripture	apparatus-explicit	Luc. 9, 3	Luc 9:3	A	verse		
+bon-ioan-c12-v1-8	6	apparatus:p413-3	p413-3	scripture	apparatus-explicit	Matth. 17, 23-26	Matth 17:23-26	A	verse		
+bon-ioan-c12-v1-8	6	apparatus:p413-4	p413-4	crossref	page	tom. V. pag. 354, nota 9	bon-hex-c5		chunk		
+bon-ioan-c12-v1-8	6	apparatus:p413-7	p413-7	crossref	page	supra pag. 275, nota 11	bon-ioan-c2-v12-17		chunk		
 bon-ioan-c2-v1-11	6	latin_body	p269-5	scripture	body-ordinal	Lucae primo	Luc 1:39	B	verse		
 bon-ioan-c2-v1-11	6	latin_body		scripture	body-ordinal	Lucae decimo quarto	Luc 14	C	chapter		
 bon-ioan-c2-v1-11	6	latin_body		scripture	body-ordinal	ad Corinthios octavo	Cor* 8	C	chapter		

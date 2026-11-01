@@ -4203,6 +4203,18 @@ KNOWN_TOTALS_VOL6 = {
              # centred `Capitulum XII.`; blocks: L opens with p.409 n.14's tail, n.2 RUNS OVER THE
              # GUTTER, *prophe-* / *tiae*); nn.3-7 anchor Cap. XII ¶¶ 1-3 below it — PENDING for
              # the next chunk. Verso, gutter R. Gutter 1140 above the heading, 1144 below it.
+             # nn.3-7 are bon-ioan-c12-v1-8's: anchors L 3-4 / R 5-7; all five print in the RIGHT
+             # block below n.2's tail, no runover.
+    411: 12, # bon-ioan-c12-v1-8 (¶¶ 3-9): anchors L 1-6 / R 7-12; blocks L 1-3 / R 4-12 (nn.4-6
+             # print RIGHT, anchor LEFT), no runover; the anchor at *trigesimo* is a worn 3 that
+             # reads as a 5. Recto, gutter L. Gutter 900.
+    412: 14, # bon-ioan-c12-v1-8 (¶¶ 10-12): anchors L 1-8 / R 9-14; blocks L 1-10 head / R 10
+             # tail-14 (n.10 RUNS OVER THE GUTTER, *pedes,* / *antequam*); nn.2-3 and nn.5-6 each
+             # share a line. Verso, gutter R. Gutter 1150.
+    413: 16, # bon-ioan-c12-v1-8 owns nn.1-9 (¶¶ 12-13, all anchors LEFT, Quaest. III closing two
+             # lines into the RIGHT column); nn.10-16 anchor ¶ 14 ff. below it — PENDING for the
+             # next chunk. Blocks L 1-6 head / R 6 tail-16 (n.6 RUNS OVER THE GUTTER, *servet et* /
+             # *adhuc*). Recto, gutter L. Gutter 880.
 }
 
 KNOWN_TOTALS_BY_VOL = {

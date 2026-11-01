@@ -833,6 +833,12 @@ const WORKS = {
       // `CAPrruLUM XI.` survives, garbled). The index (*Capitulum XI … Vers. 1-6
       // … 394*) agrees.
       11: "Capitulum XI",
+      // `CAPITULUM XII.` read in place on p. 410 at bon-ioan-c12-v1-8: full-measure
+      // centred small capitals MID-LEAF at ~0.20, below Cap. XI's Quaest. II
+      // (…quando suam pervertit intentionem.), directly over ¶ 1 with no heading
+      // beneath it (ruling 17 / 79(a): the chunk is titled from ¶ 1's first
+      // sentence). Unanchored. The index (*Capitulum XII … Vers. 1-8 … 410*) agrees.
+      12: "Capitulum XII",
     },
   },
 };
