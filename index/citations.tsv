@@ -26145,6 +26145,35 @@ bon-ioan-c11-v1-6	6	apparatus:p397-9	p397-9	scripture	apparatus-explicit	Marc. 1
 bon-ioan-c11-v1-6	6	apparatus:p397-9	p397-9	scripture	apparatus-explicit	Luc. 7, 38	Luc 7:38	A	verse		
 bon-ioan-c11-v1-6	6	apparatus:p397-9	p397-9	scripture	apparatus-explicit	Luc. 8, 7	Luc 8:7	A	verse		
 bon-ioan-c11-v1-6	6	apparatus:p397-9	p397-9	scripture	apparatus-explicit	Matth. 26, 7	Matth 26:7	A	verse		
+bon-ioan-c11-v33-42	6	latin_body	p403-1	scripture	body-ordinal	Regum vigesimo	Reg* 20:5	B	verse		
+bon-ioan-c11-v33-42	6	latin_body	p403-3	scripture	body-ordinal	Iob trigesimo	Iob 30:25	B	verse		
+bon-ioan-c11-v33-42	6	latin_body		scripture	body-ordinal	Lucae decimo nono	Luc 19	C	chapter		
+bon-ioan-c11-v33-42	6	latin_body		scripture	body-ordinal	ad Romanos duodecimo	Rom 12	C	chapter		
+bon-ioan-c11-v33-42	6	latin_body	p403-4	scripture	body-ordinal	Sapientiae undecimo	Sap 11:25	B	verse		
+bon-ioan-c11-v33-42	6	latin_body		scripture	body-ordinal	Lucae primo	Luc 1	C	chapter		
+bon-ioan-c11-v33-42	6	latin_body	p403-9	scripture	body-ordinal	Actuum septimo	Act 7:55	B	verse		
+bon-ioan-c11-v33-42	6	latin_body	p403-10	scripture	body-ordinal	Lucae primo	Luc 1:45	B	verse		
+bon-ioan-c11-v33-42	6	latin_body		scripture	body-ordinal	ad Hebraeos quinto	Hebr 5	C	chapter		
+bon-ioan-c11-v33-42	6	latin_body	p404-4	scripture	body-ordinal	Isaiae quadragesimo secundo	Isai 42:4	B	verse		
+bon-ioan-c11-v33-42	6	latin_body	p404-13	scripture	body-ordinal	Lucae decimo nono	Luc 19:41	B	verse		
+bon-ioan-c11-v33-42	6	latin_body	p404-14	scripture	body-ordinal	ad Hebraeos quinto	Hebr 5:7	B	verse		
+bon-ioan-c11-v33-42	6	apparatus:p403-3	p403-3	scripture	apparatus-explicit	Luc. 19, 41	Luc 19:41	A	verse		
+bon-ioan-c11-v33-42	6	apparatus:p403-3	p403-3	scripture	apparatus-explicit	Rom. 12, 15	Rom 12:15	A	verse		
+bon-ioan-c11-v33-42	6	apparatus:p403-6	p403-6	scripture	apparatus-explicit	Luc. 1, 37	Luc 1:37	A	verse		
+bon-ioan-c11-v33-42	6	apparatus:p403-7	p403-7	scripture	apparatus-explicit	Ioan. 9, 3	Ioan 9:3	A	verse		
+bon-ioan-c11-v33-42	6	apparatus:p404-2	p404-2	scripture	apparatus-explicit	Hebr. 5, 7	Hebr 5:7	A	verse		
+bon-ioan-c11-v33-42	6	apparatus:p404-3	p404-3	scripture	apparatus-explicit	Ioan. 5, 19	Ioan 5:19	A	verse		
+bon-ioan-c11-v33-42	6	apparatus:p404-6	p404-6	crossref	page	tom. III. pag. 339, nota 10	bon-sent-III-d15-a2-q2+bon-sent-III-d15-a2-q3		page-multi		
+bon-ioan-c11-v33-42	6	apparatus:p404-7	p404-7	crossref	page	tom. III. pag. 342, nota 4	bon-sent-III-d15-dubia		chunk		
+bon-ioan-c11-v33-42	6	apparatus:p404-8	p404-8	crossref	logical	III. Sent. d. 15. dub. 4.	bon-sent-III-d15-dubia		chunk		
+bon-ioan-c11-v33-42	6	apparatus:p404-9	p404-9	crossref	logical	III. Sent. d. 15. a. 2. q. 2.	bon-sent-III-d15-a2-q2		chunk		
+bon-ioan-c11-v33-42	6	apparatus:p404-9	p404-9	crossref	relative-inherited	ibid.	bon-sent-III-d15-a2-q2		chunk		
+bon-ioan-c11-v33-42	6	apparatus:p404-11	p404-11	crossref	logical	I. Sent. d. 48. a. 2. q. 2.	bon-sent-I-d48-a2-q2		chunk		
+bon-ioan-c11-v33-42	6	apparatus:p404-11	p404-11	crossref	logical	III. Sent. d. 17. a. 1. q. 3.	bon-sent-III-d17-a1-q3		chunk		
+bon-ioan-c11-v33-42	6	apparatus:p404-12	p404-12	scripture	apparatus-explicit	Luc. 19, 41	Luc 19:41	A	verse		
+bon-ioan-c11-v33-42	6	apparatus:p404-13	p404-13	scripture	anaphor->body-ordinal	ibid. v. 42	Luc 19:42	B	verse	yes	body: Lucae decimo nono
+bon-ioan-c11-v33-42	6	apparatus:p404-15	p404-15	crossref	logical	II. Sent. d. 22. dub. 2	bon-sent-II-d22-dubia		chunk		
+bon-ioan-c11-v33-42	6	apparatus:p405-4	p405-4	crossref	logical	III. Sent. d. 17. a. 2. q. 1.	bon-sent-III-d17-a2-q1		chunk		
 bon-ioan-c11-v7-32	6	latin_body	p398-4	scripture	body-ordinal	Matthaei decimo sexto	Matth 16:22	B	verse		
 bon-ioan-c11-v7-32	6	latin_body		scripture	body-ordinal	Proverbiorum quarto	Prov 4	C	chapter		
 bon-ioan-c11-v7-32	6	latin_body	p398-7	scripture	body-ordinal	Matthaei decimo quinto	Matth 15:14	B	verse		

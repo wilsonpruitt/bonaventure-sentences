@@ -4175,8 +4175,17 @@ KNOWN_TOTALS_VOL6 = {
     401: 12, # bon-ioan-c11-v7-32 (¶¶ 33-42): anchors L 1-7 / R 8-12; blocks L 1-8 head / R 8 tail-12
              # (n.8 RUNS OVER THE GUTTER, *in Ioan.* / *Evang. tr. 49.*). Recto, gutter L. Gutter 890.
     402: 15, # bon-ioan-c11-v7-32 owns nn.1-14 (¶¶ 42-45, closing at ~0.47 R on *omnipotentiam.*;
-             # anchors L 1-7 / R 8-14); n.15 anchors ¶ 46 *Supra*, headless below — PENDING for
-             # the next chunk. Blocks L 1-8 / R 9-15, no runover. Verso, gutter R. Gutter 1149.
+             # anchors L 1-7 / R 8-14); n.15 anchors ¶ 46 *Supra*, headless below, and is
+             # bon-ioan-c11-v33-42's. Blocks L 1-8 / R 9-15, no runover. Verso, gutter R.
+             # Gutter 1149 (rows 0.04-0.60); 1154 at the ¶ 46 region (rows 0.40-0.72).
+    403: 10, # bon-ioan-c11-v33-42 (¶¶ 46-54): anchors L 1-6 / R 7-10; blocks L 1-8 head / R 8
+             # tail-10 (n.8 RUNS OVER THE GUTTER, *diffiden-* / *tia*; nn.9-10 share a line).
+             # Recto, gutter L. Gutter 907.
+    404: 15, # bon-ioan-c11-v33-42 (¶¶ 54-57): anchors L 1-6 / R 7-15; blocks L 1-7 / R 8-15, n.7
+             # prints LEFT and anchors RIGHT, no runover. Verso, gutter R. Gutter 1148.
+    405: 12, # bon-ioan-c11-v33-42 owns nn.1-4 (¶ 58, closing at ~0.25 L on *homo*, above the
+             # centred `Pars secunda capituli, de ipso miraculo.`); nn.5-12 anchor ¶¶ 59-61
+             # below it — PENDING for the next chunk. Recto, gutter L. Gutter 885.
 }
 
 KNOWN_TOTALS_BY_VOL = {
