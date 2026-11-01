@@ -4227,9 +4227,21 @@ KNOWN_TOTALS_VOL6 = {
              # below the heading, nn.8-13 RIGHT; all print RIGHT, no page runover). Blocks L 1-5 /
              # R 6-13 (n.6 prints RIGHT, anchors LEFT). Verso, gutter R. Gutter 1146-1154 by region.
     417: 12, # bon-ioan-c12-v20-23 owns nn.1-6 (¶¶ 32-35: anchors L 1-4 / R 5-6, Quaest. III closing
-             # at ~0.17 of the RIGHT column); nn.7-12 anchor ¶ 36 ff. below it — PENDING for the
-             # next chunk. Blocks L 1-6 / R 7-12 (nn.5-6 print LEFT, anchor RIGHT), no gutter
-             # runover; n.12 breaks at the register's foot (*conte-*). Recto, gutter L. Gutter 903-906.
+             # at ~0.17 of the RIGHT column); bon-ioan-c12-v24-36 owns nn.7-12 (¶¶ 36-37, all anchors
+             # and entries RIGHT). Blocks L 1-6 / R 7-12 (nn.5-6 print LEFT, anchor RIGHT), no gutter
+             # runover; n.12 breaks at the register's foot (*conte-*) and finishes at the head of
+             # p.418's LEFT block (page runover). Recto, gutter L. Gutter 903-906.
+    418: 11, # bon-ioan-c12-v24-36 (¶¶ 37-40): anchors L 1-5 / R 6-11; blocks L 1-5 / R 6-11, the L
+             # block opening on p.417 n.12's tail. Verso, gutter R. Gutter 1150 body / 1163 register
+             # (the leaf skews 13 px between them).
+    419: 10, # bon-ioan-c12-v24-36 (¶¶ 41-43, interior Quaestiones): anchors L 1-7 / R 8-10; blocks
+             # L 1-5 head / R 5 tail-10 (n.5 runs over the gutter). Recto. Gutter 904 / 907.
+    420: 10, # bon-ioan-c12-v24-36 (¶¶ 44-50): anchors L 1-4 / R 5-10; blocks L 1-5 head / R 5 tail-10
+             # (n.5 runs over the gutter; nn.1-4 fill the L block). Verso. Gutter 1151 / 1157.
+    421: 11, # bon-ioan-c12-v24-36 owns nn.1-9 (¶¶ 50-54: anchors L 1-4 / R 5-9, Quaest. IV closing at
+             # ~0.30 of the RIGHT column above the headless ¶ 55); nn.10-11 anchor ¶ 55 below it —
+             # PENDING for the next chunk. Blocks L 1-7 / R 8-11 (nn.5-7 print LEFT, anchor RIGHT),
+             # no runover. Recto. Gutter 910 / 913.
 }
 
 KNOWN_TOTALS_BY_VOL = {
