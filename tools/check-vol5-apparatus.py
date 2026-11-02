@@ -4259,8 +4259,14 @@ KNOWN_TOTALS_VOL6 = {
              # (nn.7-10 print LEFT, anchor RIGHT). No runover. Verso. Gutter 1152.
     427: 11, # bon-ioan-c13-v1-11 owns nn.1-7 (¶¶ 14-15: anchors L 1-6 / R 7, Quaest. III closing at
              # ~0.08 of the RIGHT column above the headless ¶ 16); nn.8-11 anchor the next
-             # chunk — PENDING. Blocks L 1-6 head / R 6 tail-11 (n.6 runs over the gutter).
-             # Recto. Gutter 901.
+             # chunk (bon-ioan-c13-v12-20, ¶¶ 16-19: all four anchor and print RIGHT). Blocks
+             # L 1-6 head / R 6 tail-11 (n.6 runs over the gutter). Recto. Gutter 901.
+    428: 8,  # bon-ioan-c13-v12-20 (¶¶ 19-25): anchors L 1-5 / R 6-8; blocks L 1-5 head / R 5
+             # tail-8 (n.5 runs over the gutter, no hyphen). Verso. Gutter 1167.
+    429: 11, # bon-ioan-c13-v12-20 owns nn.1-8 (¶¶ 25-27: anchors L 1-7 / R 8, Quaest. III closing
+             # at ~0.14 of the RIGHT column above the headless ¶ 28); nn.9-11 anchor the next
+             # chunk — PENDING. Blocks L 1-5 / R 6-11 (nn.6-7 print RIGHT, anchor LEFT; no
+             # runover). Recto. Gutter 901.
 }
 
 KNOWN_TOTALS_BY_VOL = {
