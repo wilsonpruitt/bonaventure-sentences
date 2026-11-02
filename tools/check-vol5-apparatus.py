@@ -4327,7 +4327,11 @@ KNOWN_TOTALS_VOL6 = {
     452: 11, # bon-ioan-c15-v12-17 (¶¶ 26-29): anchors L 1-5 / R 6-11; blocks L 1-7 head / R 7 tail-11,
              # n.7 over the gutter (Sicut enim duo | sunt timores). Verso. Gutter 1147 / 1150 / 1153.
     453: 12, # bon-ioan-c15-v12-17 owns nn.1-4 (¶¶ 29-30): anchors L 1-4; blocks L 1-6 / R 7-12, no
-             # runover. nn.5-12 anchor ¶¶ 31-34, PENDING. Recto. Gutter 884 / 886 / 886.
+             # runover. nn.5-12 anchor ¶¶ 31-34, closed at bon-ioan-c15-v18-27 (L 5-6 / R 7-12, each
+             # printing in its anchor's column). Recto. Gutter 884 / 886 / 886.
+    454: 11, # bon-ioan-c15-v18-27 owns nn.1-10 (¶¶ 35-40): anchors L 1-4 / R 5-10; blocks L 1-4 /
+             # R 5-11, no runover. n.11 anchors Cap. XVI ¶ 1 (quinto, under the heading), PENDING.
+             # Verso. Gutter 1153 / 1160 / 1166 (the leaf walks 13 px).
 }
 
 KNOWN_TOTALS_BY_VOL = {
