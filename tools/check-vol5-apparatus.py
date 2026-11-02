@@ -4277,6 +4277,12 @@ KNOWN_TOTALS_VOL6 = {
     433: 9,  # bon-ioan-c13-v21-30 owns n.1 (¶ 43, closing at ~0.13 of the LEFT column above the
              # headless ¶ 44); nn.2-9 anchor the next chunk — PENDING. Blocks L [432 n.9 tail],
              # 1-6 head / R 6 tail-9 (n.6 runs over the gutter). Recto. Gutter 898 / 904.
+             # nn.2-9 = bon-ioan-c13-v31-38 (¶¶ 44-46): anchors L 2-6 / R 7-9.
+    434: 12, # bon-ioan-c13-v31-38 (¶¶ 47-53): anchors L 1-6 / R 7-12; blocks L 1-5 / R 6-12
+             # (n.6 prints RIGHT, anchor LEFT; no runover). Verso. Gutter 1157 / 1157.
+    435: 11, # bon-ioan-c13-v31-38 owns nn.1-7 (¶¶ 53-55): anchors L 1-3 / R 4-7; blocks L 1-6 /
+             # R 7-11 (nn.4-6 print LEFT, anchor RIGHT). nn.8-11 anchor Capitulum XIV's first
+             # pericope — PENDING (L 8-9 / R 10-11). Recto. Gutter 889 / 891.
 }
 
 KNOWN_TOTALS_BY_VOL = {
