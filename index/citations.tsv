@@ -26587,6 +26587,31 @@ bon-ioan-c13-v12-20	6	apparatus:p429-2	p429-2	crossref	logical	II. Sent. d. 5. a
 bon-ioan-c13-v12-20	6	apparatus:p429-2	p429-2	crossref	chain-continuation	d. 22. a. 1. q. 1.	bon-sent-II-d22-a1-q1		chunk		
 bon-ioan-c13-v12-20	6	apparatus:p429-5	p429-5	crossref	logical	III. Sent. d. 9. a. 1. q. 5.	bon-sent-III-d9-a1-q5		chunk		
 bon-ioan-c13-v12-20	6	apparatus:p429-8	p429-8	crossref	logical	III. Sent. d. 9. a. 1. q. 2	bon-sent-III-d9-a1-q2		chunk		
+bon-ioan-c13-v21-30	6	latin_body		scripture	body-ordinal	ad Corinthios duodecimo	Cor* 12	C	chapter		
+bon-ioan-c13-v21-30	6	latin_body	p430-11	scripture	body-ordinal	Ecclesiastici vigesimo nono	Eccli 29:12	B	verse		
+bon-ioan-c13-v21-30	6	latin_body		scripture	body-ordinal	Iob vigesimo quarto	Iob 24	C	chapter		
+bon-ioan-c13-v21-30	6	latin_body	p432-1	scripture	body-ordinal	Matthaei vigesimo sexto	Matth 26:22	B	verse		
+bon-ioan-c13-v21-30	6	apparatus:p429-10	p429-10	scripture	apparatus-explicit	Ioan. 6, 71	Ioan 6:71	A	verse		
+bon-ioan-c13-v21-30	6	apparatus:p430-1	p430-1	scripture	apparatus-explicit	II. Cor. 12, 2	2Cor 12:2	A	verse		
+bon-ioan-c13-v21-30	6	apparatus:p430-3	p430-3	crossref	page	supra pag. 272, nota 7	bon-ioan-c2-v1-11		chunk		
+bon-ioan-c13-v21-30	6	apparatus:p430-4	p430-4	scripture	apparatus-explicit	Coloss. 2, 3	Col 2:3	A	verse		
+bon-ioan-c13-v21-30	6	apparatus:p430-4	p430-4	crossref	page	supra pag. 241, nota 2	bon-ioan-prooem		chunk		
+bon-ioan-c13-v21-30	6	apparatus:p430-6	p430-6	scripture	apparatus-explicit	Ps. 54, 13	Ps 54:13	A	verse		
+bon-ioan-c13-v21-30	6	apparatus:p430-7	p430-7	scripture	apparatus-explicit	Psalm. 108, 6	Ps 108:6	A	verse		
+bon-ioan-c13-v21-30	6	apparatus:p431-1	p431-1	scripture	apparatus-explicit	Iob 24, 15	Iob 24:15	A	verse		
+bon-ioan-c13-v21-30	6	apparatus:p431-1	p431-1	scripture	apparatus-explicit	Ioan. 3, 20	Ioan 3:20	A	verse		
+bon-ioan-c13-v21-30	6	apparatus:p431-2	p431-2	crossref	page	tom. III. pag. 369, nota 1	bon-sent-III-d17-a1-q3		chunk		
+bon-ioan-c13-v21-30	6	apparatus:p431-5	p431-5	crossref	logical	III. Sent. d. 15. dub. 4.	bon-sent-III-d15-dubia		chunk		
+bon-ioan-c13-v21-30	6	apparatus:p431-8	p431-8	scripture	apparatus-explicit	Ioan. 13, 22	Ioan 13:22	A	verse		
+bon-ioan-c13-v21-30	6	apparatus:p431-9	p431-9	scripture	anaphor->apparatus-explicit	loc. cit.	Ioan 13:22	A	verse	yes	Ioan. 13, 22
+bon-ioan-c13-v21-30	6	apparatus:p431-10	p431-10	crossref	page	supra pag. 430, nota 5	bon-ioan-c13-v21-30		chunk		
+bon-ioan-c13-v21-30	6	apparatus:p431-10	p431-10	scripture	apparatus-explicit	Luc. 22, 21	Luc 22:21	A	verse		
+bon-ioan-c13-v21-30	6	apparatus:p432-3	p432-3	scripture	apparatus-explicit	Ioan. 13	Ioan 13	C	chapter		
+bon-ioan-c13-v21-30	6	apparatus:p432-8	p432-8	scripture	apparatus-explicit	II. Cor. 12, 7	2Cor 12:7	A	verse		
+bon-ioan-c13-v21-30	6	apparatus:p432-8	p432-8	scripture	apparatus-explicit	I. Cor. 11, 29	1Cor 11:29	A	verse		
+bon-ioan-c13-v21-30	6	apparatus:p432-9	p432-9	crossref	page	supra pag. 436, nota 7	tom6:p436		forward		
+bon-ioan-c13-v21-30	6	apparatus:p432-9	p432-9	crossref	logical	IV. Sent. d. 11. p. II. dub. 8.	bon-sent-IV-d11-p2-dubia		chunk		
+bon-ioan-c13-v21-30	6	apparatus:p433-1	p433-1	crossref	logical	II. Sent. d. 8. p. II. q. 2.	bon-sent-II-d8-p2-a1-q2		chunk		
 bon-ioan-c2-v1-11	6	latin_body	p269-5	scripture	body-ordinal	Lucae primo	Luc 1:39	B	verse		
 bon-ioan-c2-v1-11	6	latin_body		scripture	body-ordinal	Lucae decimo quarto	Luc 14	C	chapter		
 bon-ioan-c2-v1-11	6	latin_body		scripture	body-ordinal	ad Corinthios octavo	Cor* 8	C	chapter		
