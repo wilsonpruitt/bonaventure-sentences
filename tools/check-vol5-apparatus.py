@@ -4310,7 +4310,17 @@ KNOWN_TOTALS_VOL6 = {
              # n.3's last line). Recto. Gutter 906 / 903.
     446: 12, # bon-ioan-c14-v25-31 owns nn.1-8 (¶¶ 48-49): anchors L 1-3 / R 4-8; blocks L 1-6 head /
              # R 6 tail-12, n.6 over the gutter (in corp.; | d. 20.). nn.9-12 anchor Capitulum XV ¶¶ 1-2,
-             # PENDING. Verso. Gutter 1151 / 1156.
+             # closed at bon-ioan-c15-v1-11 (L 9-10 / R 11-12, all printing RIGHT). Verso. Gutter
+             # 1151 / 1156 head and register; below the heading 1155 / 1153.
+    447: 13, # bon-ioan-c15-v1-11 (¶¶ 2-8): anchors L 1-6 / R 7-13; blocks L 1-5 head / R 5 tail-13,
+             # n.5 over the gutter (Utrumque autem | prodest). n.10 right-set on n.9's last line.
+             # Recto. Gutter 897 / 894 / 893.
+    448: 11, # bon-ioan-c15-v1-11 (¶¶ 8-13): anchors L 1-5 / R 6-11; blocks L 1-6 head / R 6 tail-11,
+             # n.6 over the gutter (sed de | Creatore). Verso. Gutter 1160 / 1163 / 1165.
+    449: 13, # bon-ioan-c15-v1-11 (¶¶ 14-16): anchors L 1-6 / R 7-13; blocks L 1-8 head / R 8 tail-13,
+             # n.8 over the gutter (fundata est. | — De seq.). Recto. Gutter 891 / 895 / 898.
+    450: 10, # bon-ioan-c15-v1-11 owns nn.1-4 (¶¶ 17-18): anchors L 1-4; blocks L 1-3 / R 4-10, no
+             # runover. nn.5-10 anchor ¶¶ 19-20 (RIGHT), PENDING. Verso. Gutter 1152 / 1153 / 1155.
 }
 
 KNOWN_TOTALS_BY_VOL = {

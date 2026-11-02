@@ -855,6 +855,14 @@ const WORKS = {
       // the unnumbered *Prima pars* (the chunk's title_la, the lowest heading: rulings
       // 79(b) / 92). Unanchored. The index gives 435 for *Vers. 1-14*.
       14: "Capitulum XIV",
+      // `CAPITULUM XV.` read in place on p. 446 at bon-ioan-c15-v1-11: full-measure
+      // centred small capitals at ~0.43, a shared verso, below Cap. XIV's Quaest. IV
+      // (…quia diligo Patrem.). Under it, `Secundo, circa constantiam in vera dilectione
+      // tria ponuntur.` heads the LEFT column over ¶ 1, and ¶ 1 ends at the foot of that
+      // column; `Primo hortatur discipulos ad dilectionem Dei.` heads the RIGHT column over
+      // the unnumbered *Hortatur eos primo* (the chunk's title_la, the lower heading in
+      // reading order: rulings 79(b) / 92). Unanchored. The index gives 446 for *Vers. 1-11*.
+      15: "Capitulum XV",
     },
   },
 };
