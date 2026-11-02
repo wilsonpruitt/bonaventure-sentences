@@ -848,6 +848,13 @@ const WORKS = {
       // (the chunk's title_la, the lower heading in reading order: rulings 79(b) / 92).
       // Unanchored. The index gives 425 for *Vers. 1-11*, the page of `(Vers. 1.)`.
       13: "Capitulum XIII",
+      // `CAPITULUM XIV.` read in place on p. 435 at bon-ioan-c14-v1-14: full-measure
+      // centred small capitals at ~0.33, a shared recto. `Secundo confirmantur discipuli
+      // eruditionis et consolationis verbo tripliciter.` heads the LEFT column over ¶ 1;
+      // `Primo, circa constantiam in fide tria ponuntur.` stands lower in that column over
+      // the unnumbered *Prima pars* (the chunk's title_la, the lowest heading: rulings
+      // 79(b) / 92). Unanchored. The index gives 435 for *Vers. 1-14*.
+      14: "Capitulum XIV",
     },
   },
 };

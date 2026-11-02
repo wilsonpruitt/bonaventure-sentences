@@ -26609,7 +26609,7 @@ bon-ioan-c13-v21-30	6	apparatus:p431-10	p431-10	scripture	apparatus-explicit	Luc
 bon-ioan-c13-v21-30	6	apparatus:p432-3	p432-3	scripture	apparatus-explicit	Ioan. 13	Ioan 13	C	chapter		
 bon-ioan-c13-v21-30	6	apparatus:p432-8	p432-8	scripture	apparatus-explicit	II. Cor. 12, 7	2Cor 12:7	A	verse		
 bon-ioan-c13-v21-30	6	apparatus:p432-8	p432-8	scripture	apparatus-explicit	I. Cor. 11, 29	1Cor 11:29	A	verse		
-bon-ioan-c13-v21-30	6	apparatus:p432-9	p432-9	crossref	page	supra pag. 436, nota 7	tom6:p436		forward		
+bon-ioan-c13-v21-30	6	apparatus:p432-9	p432-9	crossref	page	supra pag. 436, nota 7	bon-ioan-c14-v1-14		chunk		
 bon-ioan-c13-v21-30	6	apparatus:p432-9	p432-9	crossref	logical	IV. Sent. d. 11. p. II. dub. 8.	bon-sent-IV-d11-p2-dubia		chunk		
 bon-ioan-c13-v21-30	6	apparatus:p433-1	p433-1	crossref	logical	II. Sent. d. 8. p. II. q. 2.	bon-sent-II-d8-p2-a1-q2		chunk		
 bon-ioan-c13-v31-38	6	latin_body	p433-4	scripture	body-ordinal	ad Philippenses secundo	Phil 2:8	B	verse		
@@ -26632,6 +26632,71 @@ bon-ioan-c13-v31-38	6	apparatus:p435-5	p435-5	scripture	apparatus-explicit	Matth
 bon-ioan-c13-v31-38	6	apparatus:p435-6	p435-6	scripture	apparatus-explicit	Matth. 26, 34	Matth 26:34	A	verse		
 bon-ioan-c13-v31-38	6	apparatus:p435-6	p435-6	scripture	apparatus-explicit	Ioan. 13, 38	Ioan 13:38	A	verse		
 bon-ioan-c13-v31-38	6	apparatus:p435-7	p435-7	crossref	logical	II. Sent. d. 4. a. 2. q. 2.	bon-sent-II-d4-a2-q2		chunk		
+bon-ioan-c14-v1-14	6	latin_body	p436-2	scripture	body-ordinal	ad Ephesios primo	Eph 1:4	B	verse		
+bon-ioan-c14-v1-14	6	latin_body		scripture	body-ordinal	Lucae decimo	Luc 10	C	chapter		
+bon-ioan-c14-v1-14	6	latin_body	p437-5	scripture	body-ordinal	Proverbiorum quarto	Prov 4:11	B	verse		
+bon-ioan-c14-v1-14	6	latin_body		scripture	body-ordinal	ad Romanos sexto	Rom 6	C	chapter		
+bon-ioan-c14-v1-14	6	latin_body		scripture	body-ordinal	Matthaei undecimo	Matth 11	C	chapter		
+bon-ioan-c14-v1-14	6	latin_body		scripture	body-ordinal	Ieremiae trigesimo primo	Ierem 31	C	chapter		
+bon-ioan-c14-v1-14	6	latin_body	p437-10	scripture	body-ordinal	ad Corinthios decimo quinto	Cor* 15:28	B	verse		
+bon-ioan-c14-v1-14	6	latin_body		scripture	body-ordinal	ad Corinthios duodecimo	Cor* 12	C	chapter		
+bon-ioan-c14-v1-14	6	latin_body	p438-1	scripture	body-ordinal	Genesis decimo octavo	Gen 18:2	B	verse		
+bon-ioan-c14-v1-14	6	latin_body	p438-7	scripture	body-ordinal	Matthaei decimo septimo	Matth 17:19	B	verse		
+bon-ioan-c14-v1-14	6	latin_body		scripture	body-ordinal	Ioannis secundo	Ioan 2	C	chapter		
+bon-ioan-c14-v1-14	6	latin_body		scripture	body-ordinal	Ioannis tertio	Ioan 3	C	chapter		
+bon-ioan-c14-v1-14	6	latin_body	p440-2	scripture	body-ordinal	Actuum quinto	Act 5:15	B	verse		
+bon-ioan-c14-v1-14	6	latin_body	p440-4	scripture	body-ordinal	ad Corinthios decimo tertio	Cor* 13:2	B	verse		
+bon-ioan-c14-v1-14	6	latin_body	p440-5	scripture	body-ordinal	Matthaei septimo	Matth 7:22	B	verse		
+bon-ioan-c14-v1-14	6	latin_body	p440-8	scripture	body-ordinal	Matthaei vigesimo primo	Matth 21:21	B	verse		
+bon-ioan-c14-v1-14	6	apparatus:p435-10	p435-10	scripture	apparatus-explicit	Iac. 2, 20	Iac 2:20	A	verse		
+bon-ioan-c14-v1-14	6	apparatus:p436-1	p436-1	scripture	apparatus-explicit	Eph. 1, 4	Eph 1:4	A	verse		
+bon-ioan-c14-v1-14	6	apparatus:p436-1	p436-1	scripture	apparatus-explicit	Rom. 8, 30	Rom 8:30	A	verse		
+bon-ioan-c14-v1-14	6	apparatus:p436-1	p436-1	scripture	apparatus-explicit	Isai. 45, 11	Isai 45:11	A	verse		
+bon-ioan-c14-v1-14	6	apparatus:p436-2	p436-2	crossref	page	tom. III. pag. 802, nota 8	bon-sent-III-d36-a1-q5		chunk		
+bon-ioan-c14-v1-14	6	apparatus:p436-7	p436-7	crossref	anaphor->page	ibid.	bon-sent-III-d36-a1-q5		chunk	yes	tom. III. pag. 802, nota 8
+bon-ioan-c14-v1-14	6	apparatus:p436-8	p436-8	scripture	apparatus-explicit	Matth. 20, 23	Matth 20:23	A	verse		
+bon-ioan-c14-v1-14	6	apparatus:p437-1	p437-1	crossref	page	supra pag. 399	bon-ioan-c11-v7-32		chunk		
+bon-ioan-c14-v1-14	6	apparatus:p437-4	p437-4	scripture	apparatus-explicit	Psalm. 106, 40	Ps 106:40	A	verse		
+bon-ioan-c14-v1-14	6	apparatus:p437-4	p437-4	scripture	apparatus-explicit	Ps. 144, 13	Ps 144:13	A	verse		
+bon-ioan-c14-v1-14	6	apparatus:p437-4	p437-4	scripture	apparatus-explicit	Luc. 10, 42	Luc 10:42	A	verse		
+bon-ioan-c14-v1-14	6	apparatus:p437-5	p437-5	scripture	apparatus-explicit	Malach. 4, 2	Malach 4:2	A	verse		
+bon-ioan-c14-v1-14	6	apparatus:p437-5	p437-5	scripture	apparatus-explicit	Ioan. 10, 9	Ioan 10:9	A	verse		
+bon-ioan-c14-v1-14	6	apparatus:p437-6	p437-6	scripture	apparatus-explicit	Ps. 88, 35	Ps 88:35	A	verse		
+bon-ioan-c14-v1-14	6	apparatus:p437-8	p437-8	scripture	apparatus-explicit	Matth. 11, 27	Matth 11:27	A	verse		
+bon-ioan-c14-v1-14	6	apparatus:p437-9	p437-9	scripture	apparatus-explicit	Ier. 31, 33	Ierem 31:33	A	verse		
+bon-ioan-c14-v1-14	6	apparatus:p437-10	p437-10	scripture	apparatus-explicit	II. Cor. 12, 9	2Cor 12:9	A	verse		
+bon-ioan-c14-v1-14	6	apparatus:p437-10	p437-10	crossref	page	supra pag. 436, nota 10	bon-ioan-c14-v1-14		chunk		
+bon-ioan-c14-v1-14	6	apparatus:p437-11	p437-11	crossref	page	infra pag. 438, nota 4	bon-ioan-c14-v1-14		chunk		
+bon-ioan-c14-v1-14	6	apparatus:p438-1	p438-1	crossref	page	tom. V. pag. 339, nota 3	bon-hex-c2		chunk		
+bon-ioan-c14-v1-14	6	apparatus:p438-1	p438-1	crossref	anaphor->page	loc. cit.	bon-hex-c2		chunk	yes	tom. V. pag. 339, nota 3
+bon-ioan-c14-v1-14	6	apparatus:p438-1	p438-1	scripture	apparatus-explicit	Gen. 18, 2	Gen 18:2	A	verse		
+bon-ioan-c14-v1-14	6	apparatus:p438-2	p438-2	crossref	logical	I. Sent. d. 19. p. I. q. 4.	bon-sent-I-d19-p1-a1-q4		chunk		
+bon-ioan-c14-v1-14	6	apparatus:p438-3	p438-3	crossref	logical	I. Sent. d. 32. dub. 6.	bon-sent-I-d32-dubia		chunk		
+bon-ioan-c14-v1-14	6	apparatus:p438-3	p438-3	crossref	page	tom. IV. pag. 42	bon-sent-IV-d1-p2-a2-q3		chunk		
+bon-ioan-c14-v1-14	6	apparatus:p438-8	p438-8	scripture	apparatus-explicit	Hebr. 7, 25	Hebr 7:25	A	verse		
+bon-ioan-c14-v1-14	6	apparatus:p438-8	p438-8	scripture	apparatus-explicit	I. Ioan. 2, 1	1Ioan 2:1	A	verse		
+bon-ioan-c14-v1-14	6	apparatus:p438-9	p438-9	scripture	apparatus-explicit	Ioan. 7, 18	Ioan 7:18	A	verse		
+bon-ioan-c14-v1-14	6	apparatus:p438-10	p438-10	scripture	apparatus-explicit	I. Ioan. 3, 21	1Ioan 3:21	A	verse		
+bon-ioan-c14-v1-14	6	apparatus:p439-1	p439-1	crossref	page	supra pag. 436, nota 10	bon-ioan-c14-v1-14		chunk		
+bon-ioan-c14-v1-14	6	apparatus:p439-1	p439-1	scripture	apparatus-explicit	Ioan. 13, 18	Ioan 13:18	A	verse		
+bon-ioan-c14-v1-14	6	apparatus:p439-2	p439-2	scripture	anaphor->apparatus-explicit	ibid.	Ioan 13:18	A	verse	yes	Ioan. 13, 18
+bon-ioan-c14-v1-14	6	apparatus:p439-2	p439-2	crossref	page	tom. II. pag. 472, nota 10	bon-sent-II-d19-a3-q2		chunk		
+bon-ioan-c14-v1-14	6	apparatus:p439-4	p439-4	scripture	apparatus-explicit	I. Tim. 2, 5	1Tim 2:5	A	verse		
+bon-ioan-c14-v1-14	6	apparatus:p439-4	p439-4	crossref	page	supra pag. 437, nota 3	bon-ioan-c14-v1-14		chunk		
+bon-ioan-c14-v1-14	6	apparatus:p439-5	p439-5	scripture	apparatus-explicit	Act. 15, 9	Act 15:9	A	verse		
+bon-ioan-c14-v1-14	6	apparatus:p439-6	p439-6	crossref	page	pag. 436, nota 10	bon-ioan-c14-v1-14		chunk		
+bon-ioan-c14-v1-14	6	apparatus:p439-8	p439-8	scripture	apparatus-explicit	I. Cor. 13, 12	1Cor 13:12	A	verse		
+bon-ioan-c14-v1-14	6	apparatus:p439-8	p439-8	scripture	anaphor->apparatus-explicit	ibid.	1Cor 13:12	A	verse	yes	I. Cor. 13, 12
+bon-ioan-c14-v1-14	6	apparatus:p439-9	p439-9	crossref	logical	I. Sent. d. 19. p. I. q. 4.	bon-sent-I-d19-p1-a1-q4		chunk		
+bon-ioan-c14-v1-14	6	apparatus:p439-9	p439-9	crossref	logical	II. Sent. d. 13. dub. 4	bon-sent-II-d13-dubia		chunk		
+bon-ioan-c14-v1-14	6	apparatus:p439-10	p439-10	crossref	logical	I. Sent. d. 31. p. I. q. 2.	bon-sent-I-d31-p1-a1-q2		chunk		
+bon-ioan-c14-v1-14	6	apparatus:p440-2	p440-2	crossref	anaphor->logical	ibid.	bon-sent-I-d31-p1-a1-q2		chunk	yes	I. Sent. d. 31. p. I. q. 2.
+bon-ioan-c14-v1-14	6	apparatus:p440-2	p440-2	scripture	apparatus-explicit	Act. 19, 12	Act 19:12	A	verse		
+bon-ioan-c14-v1-14	6	apparatus:p440-3	p440-3	scripture	apparatus-explicit	Act. 3, 12	Act 3:12	A	verse		
+bon-ioan-c14-v1-14	6	apparatus:p440-6	p440-6	crossref	page	supra pag. 205, nota 2	bon-sap-c15		chunk		
+bon-ioan-c14-v1-14	6	apparatus:p440-7	p440-7	crossref	logical	III. Sent. d. 23. a. 2. q. 2	bon-sent-III-d23-a2-q2		chunk		
+bon-ioan-c14-v1-14	6	apparatus:p440-7	p440-7	crossref	logical	I. Sent. d. 41. a. 1. q. 1.	bon-sent-I-d41-a1-q1		chunk		
+bon-ioan-c14-v1-14	6	apparatus:p440-7	p440-7	crossref	logical	II. Sent. d. 27. a. 2. q. 2.	bon-sent-II-d27-a2-q2		chunk		
 bon-ioan-c2-v1-11	6	latin_body	p269-5	scripture	body-ordinal	Lucae primo	Luc 1:39	B	verse		
 bon-ioan-c2-v1-11	6	latin_body		scripture	body-ordinal	Lucae decimo quarto	Luc 14	C	chapter		
 bon-ioan-c2-v1-11	6	latin_body		scripture	body-ordinal	ad Corinthios octavo	Cor* 8	C	chapter		

@@ -4282,7 +4282,20 @@ KNOWN_TOTALS_VOL6 = {
              # (n.6 prints RIGHT, anchor LEFT; no runover). Verso. Gutter 1157 / 1157.
     435: 11, # bon-ioan-c13-v31-38 owns nn.1-7 (¶¶ 53-55): anchors L 1-3 / R 4-7; blocks L 1-6 /
              # R 7-11 (nn.4-6 print LEFT, anchor RIGHT). nn.8-11 anchor Capitulum XIV's first
-             # pericope — PENDING (L 8-9 / R 10-11). Recto. Gutter 889 / 891.
+             # pericope — closed at bon-ioan-c14-v1-14 (anchors L 8-9 / R 10-11, all four print
+             # RIGHT). Recto. Gutter 889 / 891 above the heading, 890 / 892 below it.
+    436: 10, # bon-ioan-c14-v1-14 (¶¶ 1-5): anchors L 1-5 / R 6-10; blocks L 1-4 head / R 4 tail-10,
+             # n.4 over the gutter; n.10 runs onto p.437 (PAGE). Verso. Gutter 1163 / 1161.
+    437: 11, # bon-ioan-c14-v1-14 (¶¶ 5-10): anchors L 1-6 / R 7-11; blocks L (p.436 n.10 tail), 1-3 /
+             # R 4-11 (nn.4-6 print RIGHT, anchor LEFT; no gutter runover). Recto. Gutter 899 / 899.
+    438: 11, # bon-ioan-c14-v1-14 (¶¶ 10-16): anchors L 1-7 / R 8-11; blocks L 1-5 head / R 5 tail-11,
+             # n.5 over the gutter (Ne- | que). Verso. Gutter 1144 / 1145.
+    439: 10, # bon-ioan-c14-v1-14 (¶¶ 16-21): anchors L 1-6 / R 7-10; blocks L 1-4 / R 5-10 (nn.5-6
+             # print RIGHT, anchor LEFT; no runover). Recto. Gutter 891 / 894.
+    440: 11, # bon-ioan-c14-v1-14 owns nn.1-9 (¶¶ 21-23): anchors L 1-7 / R 8-9; blocks L 1-7 head /
+             # R 7 tail-11, n.7 over the gutter (a bare dash | De merito). nn.10-11 anchor ¶ 24,
+             # Capitulum XIV's second pericope, PENDING. Verso. Gutter walks 1169 head / 1172 mid /
+             # 1175 register.
 }
 
 KNOWN_TOTALS_BY_VOL = {
