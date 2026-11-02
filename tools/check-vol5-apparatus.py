@@ -4252,6 +4252,15 @@ KNOWN_TOTALS_VOL6 = {
              # ~0.41 of the RIGHT column above the full-measure Capitulum XIII.); nn.9-11 anchor
              # Cap. XIII ¶ 1 below it — PENDING for the next chunk. Blocks L 1-4 head / R 4 tail-11
              # (n.4 runs over the gutter). Verso. Gutter 1152 body / 1155 register.
+             # bon-ioan-c13-v1-11 owns nn.9-11 (¶ 1 + the unnumbered Praesens igitur).
+    425: 10, # bon-ioan-c13-v1-11 (¶¶ 1-7): anchors L 1-6 / R 7-10; blocks L 1-3 head / R 3 tail-10
+             # (n.3 runs over the gutter; nn.4-6 print RIGHT, anchor LEFT). Recto. Gutter 902.
+    426: 12, # bon-ioan-c13-v1-11 (¶¶ 7-14): anchors L 1-6 / R 7-12; blocks L 1-10 / R 11-12
+             # (nn.7-10 print LEFT, anchor RIGHT). No runover. Verso. Gutter 1152.
+    427: 11, # bon-ioan-c13-v1-11 owns nn.1-7 (¶¶ 14-15: anchors L 1-6 / R 7, Quaest. III closing at
+             # ~0.08 of the RIGHT column above the headless ¶ 16); nn.8-11 anchor the next
+             # chunk — PENDING. Blocks L 1-6 head / R 6 tail-11 (n.6 runs over the gutter).
+             # Recto. Gutter 901.
 }
 
 KNOWN_TOTALS_BY_VOL = {

@@ -26521,6 +26521,46 @@ bon-ioan-c12-v9-19	6	apparatus:p415-3	p415-3	scripture	apparatus-explicit	II. Ti
 bon-ioan-c12-v9-19	6	apparatus:p415-5	p415-5	scripture	apparatus-explicit	Eccli. 14, 10	Eccli 14:10	A	verse		
 bon-ioan-c12-v9-19	6	apparatus:p415-12	p415-12	scripture	anaphor->body-ordinal	ibid. v. 8	Matth 21:8	B	verse	yes	body: Matthaei vigesimo primo
 bon-ioan-c12-v9-19	6	apparatus:p416-2	p416-2	scripture	apparatus-explicit	Ioan. 12, 14	Ioan 12:14	A	verse		
+bon-ioan-c13-v1-11	6	latin_body	p425-2	scripture	body-ordinal	ad Corinthios decimo	Cor* 10:1	B	verse		
+bon-ioan-c13-v1-11	6	latin_body	p425-4	scripture	body-ordinal	Isaiae quadragesimo nono	Isai 49:15	B	verse		
+bon-ioan-c13-v1-11	6	latin_body	p425-7	scripture	body-ordinal	Actuum duodecimo	Act 12:7	B	verse		
+bon-ioan-c13-v1-11	6	latin_body	p425-8	scripture	body-ordinal	Lucae duodecimo	Luc 12:37	B	verse		
+bon-ioan-c13-v1-11	6	latin_body		scripture	body-ordinal	Lucae vigesimo secundo	Luc 22	C	chapter		
+bon-ioan-c13-v1-11	6	latin_body	p426-6	scripture	body-ordinal	Isaiae primo	Isai 1:16	B	verse		
+bon-ioan-c13-v1-11	6	latin_body		scripture	body-ordinal	Zachariae decimo tertio	Zach 13	C	chapter		
+bon-ioan-c13-v1-11	6	latin_body		scripture	body-ordinal	Ieremiae quarto	Ierem 4	C	chapter		
+bon-ioan-c13-v1-11	6	latin_body	p426-7	scripture	body-ordinal	Canticorum quinto	Cant 5:3	B	verse		
+bon-ioan-c13-v1-11	6	latin_body		scripture	body-ordinal	Threnorum primo	Thren 1	C	chapter		
+bon-ioan-c13-v1-11	6	latin_body	p426-8	scripture	body-ordinal	Ezechielis trigesimo sexto	Ezech 36:25	B	verse		
+bon-ioan-c13-v1-11	6	latin_body		scripture	body-ordinal	ad Ephesios secundo	Eph 2	C	chapter		
+bon-ioan-c13-v1-11	6	apparatus:p425-2	p425-2	scripture	apparatus-explicit	Exod. 12, 11	Exod 12:11	A	verse		
+bon-ioan-c13-v1-11	6	apparatus:p425-3	p425-3	scripture	apparatus-explicit	Rom. 10, 4	Rom 10:4	A	verse		
+bon-ioan-c13-v1-11	6	apparatus:p425-3	p425-3	scripture	apparatus-explicit	Ps. 118, 96	Ps 118:96	A	verse		
+bon-ioan-c13-v1-11	6	apparatus:p425-6	p425-6	scripture	apparatus-explicit	Ioan. 16, 28	Ioan 16:28	A	verse		
+bon-ioan-c13-v1-11	6	apparatus:p425-7	p425-7	scripture	apparatus-explicit	Matth. 20, 26	Matth 20:26	A	verse		
+bon-ioan-c13-v1-11	6	apparatus:p425-9	p425-9	scripture	apparatus-explicit	Luc. 22, 27	Luc 22:27	A	verse		
+bon-ioan-c13-v1-11	6	apparatus:p425-9	p425-9	scripture	apparatus-explicit	Matth. 20, 28	Matth 20:28	A	verse		
+bon-ioan-c13-v1-11	6	apparatus:p426-3	p426-3	scripture	apparatus-explicit	Psalm. 15, 5	Ps 15:5	A	verse		
+bon-ioan-c13-v1-11	6	apparatus:p426-3	p426-3	scripture	apparatus-explicit	Ps. 141, 6	Ps 141:6	A	verse		
+bon-ioan-c13-v1-11	6	apparatus:p426-5	p426-5	scripture	apparatus-explicit	Psalm. 56, 8	Ps 56:8	A	verse		
+bon-ioan-c13-v1-11	6	apparatus:p426-6	p426-6	scripture	apparatus-explicit	Zach. 13, 1	Zach 13:1	A	verse		
+bon-ioan-c13-v1-11	6	apparatus:p426-6	p426-6	scripture	apparatus-explicit	Ier. 4, 14	Ierem 4:14	A	verse		
+bon-ioan-c13-v1-11	6	apparatus:p426-7	p426-7	scripture	apparatus-explicit	Thren. 1, 9	Thren 1:9	A	verse		
+bon-ioan-c13-v1-11	6	apparatus:p426-7	p426-7	scripture	apparatus-explicit	I. Ioan. 1, 8	1Ioan 1:8	A	verse		
+bon-ioan-c13-v1-11	6	apparatus:p426-7	p426-7	crossref	page	supra pag. 166, nota 7	bon-sap-c8+bon-sap-c9		page-multi		
+bon-ioan-c13-v1-11	6	apparatus:p426-8	p426-8	scripture	apparatus-explicit	Ioan. 15, 3	Ioan 15:3	A	verse		
+bon-ioan-c13-v1-11	6	apparatus:p426-10	p426-10	scripture	apparatus-explicit	Matth. 26, 17	Matth 26:17	A	verse		
+bon-ioan-c13-v1-11	6	apparatus:p426-10	p426-10	scripture	apparatus-explicit	Marc. 14, 12	Marc 14:12	A	verse		
+bon-ioan-c13-v1-11	6	apparatus:p426-10	p426-10	scripture	apparatus-explicit	Luc. 22, 7	Luc 22:7	A	verse		
+bon-ioan-c13-v1-11	6	apparatus:p426-11	p426-11	scripture	apparatus-explicit	Ioan. 18, 28	Ioan 18:28	A	verse		
+bon-ioan-c13-v1-11	6	apparatus:p426-12	p426-12	crossref	logical	IV. Sent. d. 11. p. II. a. 2. q. 1	bon-sent-IV-d11-p2-a2-q1		chunk		
+bon-ioan-c13-v1-11	6	apparatus:p427-1	p427-1	scripture	apparatus-explicit	II. Cor. 4, 4	2Cor 4:4	A	verse		
+bon-ioan-c13-v1-11	6	apparatus:p427-1	p427-1	scripture	apparatus-explicit	Eph. 2, 2	Eph 2:2	A	verse		
+bon-ioan-c13-v1-11	6	apparatus:p427-2	p427-2	crossref	logical	II. Sent. d. 1. p. II. a. 2. q. 2.	bon-sent-II-d1-p2-a2-q2		chunk		
+bon-ioan-c13-v1-11	6	apparatus:p427-3	p427-3	crossref	logical	II. Sent. d. 8. p. II. q. 4.	bon-sent-II-d8-p2-a1-q4		chunk		
+bon-ioan-c13-v1-11	6	apparatus:p427-3	p427-3	crossref	relative	ibid. d. 10. a. 2. q. 2.	bon-sent-II-d10-a2-q2		chunk		
+bon-ioan-c13-v1-11	6	apparatus:p427-4	p427-4	crossref	logical	II. Sent. d. 6. dub. 3.	bon-sent-II-d6-dubia		chunk		
+bon-ioan-c13-v1-11	6	apparatus:p427-4	p427-4	crossref	chain-continuation	d. 28. a. 2. q. 2.	bon-sent-II-d28-a2-q2		chunk		
 bon-ioan-c2-v1-11	6	latin_body	p269-5	scripture	body-ordinal	Lucae primo	Luc 1:39	B	verse		
 bon-ioan-c2-v1-11	6	latin_body		scripture	body-ordinal	Lucae decimo quarto	Luc 14	C	chapter		
 bon-ioan-c2-v1-11	6	latin_body		scripture	body-ordinal	ad Corinthios octavo	Cor* 8	C	chapter		

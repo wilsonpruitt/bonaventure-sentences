@@ -839,6 +839,15 @@ const WORKS = {
       // beneath it (ruling 17 / 79(a): the chunk is titled from ¶ 1's first
       // sentence). Unanchored. The index (*Capitulum XII … Vers. 1-8 … 410*) agrees.
       12: "Capitulum XII",
+      // `CAPITULUM XIII.` read in place on p. 424 at bon-ioan-c13-v1-11: full-measure
+      // centred small capitals at ~0.44 of the leaf, below Cap. XII's Quaest. II
+      // (…cum dicit: Qui credit in me etc.). Under it, `Tertio, de discipulorum
+      // confirmatione ponuntur tria.` heads the LEFT column over ¶ 1, and ¶ 1 ends
+      // at the foot of that column; `Primo confirmantur discipuli humilitatis exemplo
+      // quadrupliciter.` heads the RIGHT column over the unnumbered *Praesens igitur*
+      // (the chunk's title_la, the lower heading in reading order: rulings 79(b) / 92).
+      // Unanchored. The index gives 425 for *Vers. 1-11*, the page of `(Vers. 1.)`.
+      13: "Capitulum XIII",
     },
   },
 };
