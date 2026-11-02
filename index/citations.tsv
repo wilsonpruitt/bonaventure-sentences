@@ -26697,6 +26697,49 @@ bon-ioan-c14-v1-14	6	apparatus:p440-6	p440-6	crossref	page	supra pag. 205, nota 
 bon-ioan-c14-v1-14	6	apparatus:p440-7	p440-7	crossref	logical	III. Sent. d. 23. a. 2. q. 2	bon-sent-III-d23-a2-q2		chunk		
 bon-ioan-c14-v1-14	6	apparatus:p440-7	p440-7	crossref	logical	I. Sent. d. 41. a. 1. q. 1.	bon-sent-I-d41-a1-q1		chunk		
 bon-ioan-c14-v1-14	6	apparatus:p440-7	p440-7	crossref	logical	II. Sent. d. 27. a. 2. q. 2.	bon-sent-II-d27-a2-q2		chunk		
+bon-ioan-c14-v15-24	6	latin_body	p441-1	scripture	body-ordinal	Ioannis secundo	Ioan 2:1	B	verse		
+bon-ioan-c14-v15-24	6	latin_body	p441-2	scripture	body-ordinal	Regum decimo sexto	Reg* 16:14	B	verse		
+bon-ioan-c14-v15-24	6	latin_body	p441-4	scripture	body-ordinal	Sapientiae primo	Sap 1:5	B	verse		
+bon-ioan-c14-v15-24	6	latin_body		scripture	body-ordinal	ad Corinthios secundo	Cor* 2	C	chapter		
+bon-ioan-c14-v15-24	6	latin_body	p441-5	scripture	body-ordinal	Apocalypsis secundo	Apoc 2:17	B	verse		
+bon-ioan-c14-v15-24	6	latin_body		scripture	body-ordinal	Sapientiae decimo quinto	Sap 15	C	chapter		
+bon-ioan-c14-v15-24	6	latin_body	p441-8	scripture	body-ordinal	Actuum decimo	Act 10:40	B	verse		
+bon-ioan-c14-v15-24	6	latin_body		scripture	body-ordinal	Habacuc secundo	Habac 2	C	chapter		
+bon-ioan-c14-v15-24	6	latin_body		scripture	body-ordinal	ad Corinthios tertio	Cor* 3	C	chapter		
+bon-ioan-c14-v15-24	6	latin_body		scripture	body-ordinal	Ioannis tertio	Ioan 3	C	chapter		
+bon-ioan-c14-v15-24	6	latin_body	p442-1	scripture	body-ordinal	Proverbiorum octavo	Prov 8:17	B	verse		
+bon-ioan-c14-v15-24	6	latin_body	p442-3	scripture	body-ordinal	Lucae sexto	Luc 6:46	B	verse		
+bon-ioan-c14-v15-24	6	latin_body	p442-4	scripture	body-ordinal	Sapientiae septimo	Sap 7:11	B	verse		
+bon-ioan-c14-v15-24	6	latin_body	p443-2	scripture	body-ordinal	ad Romanos octavo	Rom 8:26	B	verse		
+bon-ioan-c14-v15-24	6	latin_body	p443-3	scripture	body-ordinal	Matthaei decimo	Matth 10:19	B	verse		
+bon-ioan-c14-v15-24	6	apparatus:p440-10	p440-10	scripture	apparatus-explicit	Iac. 2, 20	Iac 2:20	A	verse		
+bon-ioan-c14-v15-24	6	apparatus:p440-11	p440-11	crossref	logical	III. Sent. d. 40. q. 1.	bon-sent-III-d40-a1-q1		chunk		
+bon-ioan-c14-v15-24	6	apparatus:p441-4	p441-4	scripture	apparatus-explicit	I. Cor. 2, 14	1Cor 2:14	A	verse		
+bon-ioan-c14-v15-24	6	apparatus:p441-5	p441-5	scripture	apparatus-explicit	Sap. 15, 3	Sap 15:3	A	verse		
+bon-ioan-c14-v15-24	6	apparatus:p441-6	p441-6	scripture	apparatus-explicit	Psalm. 58, 11	Ps 58:11	A	verse		
+bon-ioan-c14-v15-24	6	apparatus:p441-6	p441-6	scripture	apparatus-explicit	Ps. 22, 6	Ps 22:6	A	verse		
+bon-ioan-c14-v15-24	6	apparatus:p441-6	p441-6	crossref	logical	II. Sent. d. 27. dub. 1.	bon-sent-II-d27-dubia		chunk		
+bon-ioan-c14-v15-24	6	apparatus:p441-9	p441-9	scripture	apparatus-explicit	Habac. 2, 4	Habac 2:4	A	verse		
+bon-ioan-c14-v15-24	6	apparatus:p441-9	p441-9	crossref	page	supra pag. 292, nota 7	bon-ioan-c4-v7-14		chunk		
+bon-ioan-c14-v15-24	6	apparatus:p441-10	p441-10	scripture	apparatus-explicit	Ioan. 15, 4	Ioan 15:4	A	verse		
+bon-ioan-c14-v15-24	6	apparatus:p441-10	p441-10	scripture	apparatus-explicit	I. Cor. 3, 17	1Cor 3:17	A	verse		
+bon-ioan-c14-v15-24	6	apparatus:p441-10	p441-10	scripture	apparatus-explicit	Rom. 8, 10	Rom 8:10	A	verse		
+bon-ioan-c14-v15-24	6	apparatus:p441-11	p441-11	scripture	apparatus-explicit	Ps. 102, 17	Ps 102:17	A	verse		
+bon-ioan-c14-v15-24	6	apparatus:p441-11	p441-11	scripture	apparatus-explicit	I. Ioan. 3, 18	1Ioan 3:18	A	verse		
+bon-ioan-c14-v15-24	6	apparatus:p442-1	p442-1	scripture	apparatus-explicit	Ps. 90, 16	Ps 90:16	A	verse		
+bon-ioan-c14-v15-24	6	apparatus:p442-1	p442-1	scripture	apparatus-explicit	Ioan. 17, 3	Ioan 17:3	A	verse		
+bon-ioan-c14-v15-24	6	apparatus:p442-2	p442-2	crossref	page	supra pag. 434, nota 3	bon-ioan-c13-v31-38		chunk		
+bon-ioan-c14-v15-24	6	apparatus:p442-4	p442-4	crossref	anaphor->page	loc. cit.	bon-ioan-c13-v31-38		chunk	yes	supra pag. 434, nota 3
+bon-ioan-c14-v15-24	6	apparatus:p442-10	p442-10	crossref	logical	III. Sent. d. 17. a. 2. q. 1	bon-sent-III-d17-a2-q1		chunk		
+bon-ioan-c14-v15-24	6	apparatus:p443-1	p443-1	scripture	apparatus-explicit	Eph. 1, 14	Eph 1:14	A	verse		
+bon-ioan-c14-v15-24	6	apparatus:p443-3	p443-3	scripture	apparatus-explicit	Ioan. 16, 8	Ioan 16:8	A	verse		
+bon-ioan-c14-v15-24	6	apparatus:p443-4	p443-4	scripture	apparatus-explicit	Eccle. 9, 1	Eccle 9:1	A	verse		
+bon-ioan-c14-v15-24	6	apparatus:p443-4	p443-4	crossref	logical	I. Sent. d. 37. p. I. a. 3. q. 2.	bon-sent-I-d37-p1-a3-q2		chunk		
+bon-ioan-c14-v15-24	6	apparatus:p443-5	p443-5	scripture	apparatus-explicit	Act. 2, 2	Act 2:2	A	verse		
+bon-ioan-c14-v15-24	6	apparatus:p443-7	p443-7	crossref	logical	I. Sent. d. 17. p. I. q. 3.	bon-sent-I-d17-p1-a1-q3		chunk		
+bon-ioan-c14-v15-24	6	apparatus:p443-8	p443-8	crossref	logical	I. Sent. d. 15. p. I. q. 3.	bon-sent-I-d15-p1-a1-q3		chunk		
+bon-ioan-c14-v15-24	6	apparatus:p443-11	p443-11	crossref	page	tom. III. pag. 12, nota 2	bon-sent-III-d1-a1-q2		chunk		
+bon-ioan-c14-v15-24	6	apparatus:p443-11	p443-11	crossref	anaphor->page	ibid.	bon-sent-III-d1-a1-q2		chunk	yes	tom. III. pag. 12, nota 2
 bon-ioan-c2-v1-11	6	latin_body	p269-5	scripture	body-ordinal	Lucae primo	Luc 1:39	B	verse		
 bon-ioan-c2-v1-11	6	latin_body		scripture	body-ordinal	Lucae decimo quarto	Luc 14	C	chapter		
 bon-ioan-c2-v1-11	6	latin_body		scripture	body-ordinal	ad Corinthios octavo	Cor* 8	C	chapter		
