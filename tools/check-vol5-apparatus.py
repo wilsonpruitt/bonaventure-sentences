@@ -4320,7 +4320,14 @@ KNOWN_TOTALS_VOL6 = {
     449: 13, # bon-ioan-c15-v1-11 (¶¶ 14-16): anchors L 1-6 / R 7-13; blocks L 1-8 head / R 8 tail-13,
              # n.8 over the gutter (fundata est. | — De seq.). Recto. Gutter 891 / 895 / 898.
     450: 10, # bon-ioan-c15-v1-11 owns nn.1-4 (¶¶ 17-18): anchors L 1-4; blocks L 1-3 / R 4-10, no
-             # runover. nn.5-10 anchor ¶¶ 19-20 (RIGHT), PENDING. Verso. Gutter 1152 / 1153 / 1155.
+             # runover. nn.5-10 anchor ¶¶ 19-20, closed at bon-ioan-c15-v12-17 (all RIGHT, all
+             # printing RIGHT). Verso. Gutter 1152 / 1153 / 1155.
+    451: 9,  # bon-ioan-c15-v12-17 (¶¶ 21-25): anchors L 1-6 / R 7-9; blocks L 1-5 / R 6-9, no
+             # runover. Recto. Gutter 889 / 897 / 900.
+    452: 11, # bon-ioan-c15-v12-17 (¶¶ 26-29): anchors L 1-5 / R 6-11; blocks L 1-7 head / R 7 tail-11,
+             # n.7 over the gutter (Sicut enim duo | sunt timores). Verso. Gutter 1147 / 1150 / 1153.
+    453: 12, # bon-ioan-c15-v12-17 owns nn.1-4 (¶¶ 29-30): anchors L 1-4; blocks L 1-6 / R 7-12, no
+             # runover. nn.5-12 anchor ¶¶ 31-34, PENDING. Recto. Gutter 884 / 886 / 886.
 }
 
 KNOWN_TOTALS_BY_VOL = {
