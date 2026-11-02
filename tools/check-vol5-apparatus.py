@@ -4301,8 +4301,16 @@ KNOWN_TOTALS_VOL6 = {
     442: 10, # bon-ioan-c14-v15-24 (¶¶ 30-35): anchors L 1-4 / R 5-10; blocks L 1-4 / R 5-10, no
              # runover. Verso. Gutter walks 1158 head / 1159 / 1163 register.
     443: 14, # bon-ioan-c14-v15-24 owns nn.1-12 (¶¶ 36-38): anchors L 1-5 / R 6-12; blocks L 1-5 /
-             # R 6-14, no runover. nn.13-14 anchor ¶ 39, Capitulum XIV's third pericope, PENDING.
+             # R 6-14, no runover. nn.13-14 anchor ¶ 39, closed at bon-ioan-c14-v25-31 (both RIGHT).
              # Recto. Gutter 888 / 887.
+    444: 12, # bon-ioan-c14-v25-31 (¶¶ 39-44): anchors L 1-7 / R 8-12; blocks L 1-5 / R 6-12 (nn.6-7
+             # print RIGHT, anchor LEFT; no runover). Verso. Gutter 1161 / 1159.
+    445: 9,  # bon-ioan-c14-v25-31 (¶¶ 44-48): anchors L 1-6 / R 7-9; blocks L 1-5 head / R 5 tail-9,
+             # n.5 over the gutter (Sed | habebat). n.4's numeral NOT PRINTED (`Vers. 16.` right-set on
+             # n.3's last line). Recto. Gutter 906 / 903.
+    446: 12, # bon-ioan-c14-v25-31 owns nn.1-8 (¶¶ 48-49): anchors L 1-3 / R 4-8; blocks L 1-6 head /
+             # R 6 tail-12, n.6 over the gutter (in corp.; | d. 20.). nn.9-12 anchor Capitulum XV ¶¶ 1-2,
+             # PENDING. Verso. Gutter 1151 / 1156.
 }
 
 KNOWN_TOTALS_BY_VOL = {
