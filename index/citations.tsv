@@ -27062,6 +27062,31 @@ bon-ioan-c16-v5-15	6	apparatus:p460-10	p460-10	crossref	page	supra pag. 291	bon-
 bon-ioan-c16-v5-15	6	apparatus:p460-10	p460-10	scripture	apparatus-explicit	Luc. 17, 1	Luc 17:1	A	verse		
 bon-ioan-c16-v5-15	6	apparatus:p460-11	p460-11	crossref	page	supra pag. 291, nota 8	bon-ioan-c4-v1-6+bon-ioan-c4-v7-14		page-multi		
 bon-ioan-c16-v5-15	6	apparatus:p461-3	p461-3	crossref	logical	I. Sent. d. 11. q. 1	bon-sent-I-d11-a1-q1		chunk		
+bon-ioan-c17-v1-5	6	latin_body		scripture	body-ordinal	Threnorum tertio	Thren 3	C	chapter		
+bon-ioan-c17-v1-5	6	latin_body		scripture	body-ordinal	Regum decimo	Reg* 10	C	chapter		
+bon-ioan-c17-v1-5	6	latin_body		scripture	body-ordinal	Sapientiae decimo quinto	Sap 15	C	chapter		
+bon-ioan-c17-v1-5	6	latin_body		scripture	body-ordinal	Lucae duodecimo	Luc 12	C	chapter		
+bon-ioan-c17-v1-5	6	latin_body		scripture	body-ordinal	ad Hebraeos secundo	Hebr 2	C	chapter		
+bon-ioan-c17-v1-5	6	latin_body		scripture	body-ordinal	ad Romanos primo	Rom 1	C	chapter		
+bon-ioan-c17-v1-5	6	apparatus:p467-6	p467-6	scripture	apparatus-explicit	Ps. 122, 1	Ps 122:1	A	verse		
+bon-ioan-c17-v1-5	6	apparatus:p467-6	p467-6	scripture	apparatus-explicit	Thren. 3, 41	Thren 3:41	A	verse		
+bon-ioan-c17-v1-5	6	apparatus:p468-1	p468-1	scripture	anaphor->apparatus-explicit	ibid.	Thren 3:41	A	verse	yes	Thren. 3, 41
+bon-ioan-c17-v1-5	6	apparatus:p468-1	p468-1	crossref	page	supra pag. 442, nota 6	bon-ioan-c14-v15-24		chunk		
+bon-ioan-c17-v1-5	6	apparatus:p468-2	p468-2	scripture	apparatus-explicit	III. Reg. 10, 8	3Reg 10:8	A	verse		
+bon-ioan-c17-v1-5	6	apparatus:p468-2	p468-2	scripture	apparatus-explicit	Sap. 15, 3	Sap 15:3	A	verse		
+bon-ioan-c17-v1-5	6	apparatus:p468-3	p468-3	scripture	apparatus-explicit	Luc. 12, 50	Luc 12:50	A	verse		
+bon-ioan-c17-v1-5	6	apparatus:p468-3	p468-3	scripture	apparatus-explicit	Hebr. 2, 10	Hebr 2:10	A	verse		
+bon-ioan-c17-v1-5	6	apparatus:p468-4	p468-4	scripture	apparatus-explicit	Ioan. 17, 10	Ioan 17:10	A	verse		
+bon-ioan-c17-v1-5	6	apparatus:p468-5	p468-5	crossref	page	supra pag. 442, nota 9	bon-ioan-c14-v15-24		chunk		
+bon-ioan-c17-v1-5	6	apparatus:p468-6	p468-6	crossref	logical	III. Sent. d. 17. a. 2. q. 1	bon-sent-III-d17-a2-q1		chunk		
+bon-ioan-c17-v1-5	6	apparatus:p468-7	p468-7	crossref	logical	III. Sent. d. 18.	III:d18		distinctio		
+bon-ioan-c17-v1-5	6	apparatus:p469-2	p469-2	crossref	page	supra pag. 371	bon-ioan-c8-v51-59		chunk		
+bon-ioan-c17-v1-5	6	apparatus:p469-3	p469-3	scripture	apparatus-explicit	Rom. 1, 4	Rom 1:4	A	verse		
+bon-ioan-c17-v1-5	6	apparatus:p469-4	p469-4	crossref	page	supra pag. 144, nota 1	bon-sap-c5+bon-sap-c6		page-multi		
+bon-ioan-c17-v1-5	6	apparatus:p469-9	p469-9	crossref	page	supra pag. 332, nota 3	bon-ioan-c6-v41-52+bon-ioan-c6-v53-59		page-multi		
+bon-ioan-c17-v1-5	6	apparatus:p469-11	p469-11	crossref	page	supra pag. 442, nota 1	bon-ioan-c14-v15-24		chunk		
+bon-ioan-c17-v1-5	6	apparatus:p469-11	p469-11	scripture	apparatus-explicit	I. Cor. 13, 12	1Cor 13:12	A	verse		
+bon-ioan-c17-v1-5	6	apparatus:p469-11	p469-11	crossref	logical	IV. Sent. d. 49. p. I. q. 5.	bon-sent-IV-d49-p1-a1-q5		chunk		
 bon-ioan-c2-v1-11	6	latin_body	p269-5	scripture	body-ordinal	Lucae primo	Luc 1:39	B	verse		
 bon-ioan-c2-v1-11	6	latin_body		scripture	body-ordinal	Lucae decimo quarto	Luc 14	C	chapter		
 bon-ioan-c2-v1-11	6	latin_body		scripture	body-ordinal	ad Corinthios octavo	Cor* 8	C	chapter		

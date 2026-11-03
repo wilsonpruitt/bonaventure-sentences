@@ -870,6 +870,14 @@ const WORKS = {
       // 17 / 79(a)'s first sentence after the lemma, to the full stop (ruling 92).
       // Unanchored. The index gives 454 for *Vers. 1-4*.
       16: "Capitulum XVI",
+      // `CAPITULUM XVII.` read in place on p. 467 at bon-ioan-c17-v1-5: full-measure
+      // centred small capitals at ~0.25, a shared recto, below Cap. XVI's ¶ 50 (…Nunc
+      // scimus etc.). Under it, `Tertio confirmantur discipuli orationis subsidio
+      // quadrupliciter.` heads the LEFT column over ¶ 1, and inside ¶ 1, at ~0.50, `In
+      // prima capituli parte Christus petit sibi claritatis suae manifestationem.` (the
+      // chunk's title_la, the lowest heading: rulings 79(b) / 92). Unanchored. The index
+      // gives 467 for *Vers. 1-5*.
+      17: "Capitulum XVII",
     },
   },
 };
