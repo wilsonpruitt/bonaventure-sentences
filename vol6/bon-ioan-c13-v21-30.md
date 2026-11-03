@@ -120,28 +120,28 @@ alius panis fuit, et post illum satanas intravit; quia tot modis excitatus est p
 
 28. *When he had said these things, he was troubled.* After the example has been set forth, and the disciples have been led to imitate; here begins the third part of the chapter[^p429-9], in which the Lord shows *the perversity of Judas* in going astray; and he does this in this order. First there is made *in general the intimation of the traitor;* second, *the hesitating inquiry of the disciples;* third, *the secret response of the Lord;* fourth, *the hastening of the traitor.*
 
-(V. 21.). First, then, there is made *in general the intimation of the traitor,* and though in general, yet not in doubt, but in certitude. And this the troubling of Christ manifests; on which account he says: *When Jesus had said these things,* which, namely, looked to the instruction of the disciples; *he was troubled in spirit,* that is, in will[^p429-10]; *and he testified and said,* because he asserted it most certainly: *Amen, amen I say to you, that one of you shall betray me;* that one, namely, was to betray him, of whom above, in the sixth: « One of you is a devil ».
+(Vers. 21.). First, then, there is made *in general the intimation of the traitor,* and though in general, yet not in doubt, but in certitude. And this the troubling of Christ manifests; on which account he says: *When Jesus had said these things,* which, namely, looked to the instruction of the disciples; *he was troubled in spirit,* that is, in will[^p429-10]; *and he testified and said,* because he asserted it most certainly: *Amen, amen I say to you, that one of you shall betray me;* that one, namely, was to betray him, of whom above, in the sixth: « One of you is a devil ».
 
-29. (V. 22.). *They looked therefore one upon another.* Here is touched the second, namely *the inquiry of the disciples;* and first they began *to doubt;* on which account he says: *The disciples therefore looked one upon another, hesitating of whom he spoke;* therefore they looked one upon another, because one doubted of another. Augustine[^p429-11]: « So in them toward their Teacher was there pious charity, that yet among them human infirmity spurred on one concerning another ». And because doubt leads to inquiry, and inquiry requires familiarity; therefore the familiarity of John is shown, that through him *the inquiry might be made.* Therefore he says:
+29. (Vers. 22.). *They looked therefore one upon another.* Here is touched the second, namely *the inquiry of the disciples;* and first they began *to doubt;* on which account he says: *The disciples therefore looked one upon another, hesitating of whom he spoke;* therefore they looked one upon another, because one doubted of another. Augustine[^p429-11]: « So in them toward their Teacher was there pious charity, that yet among them human infirmity spurred on one concerning another ». And because doubt leads to inquiry, and inquiry requires familiarity; therefore the familiarity of John is shown, that through him *the inquiry might be made.* Therefore he says:
 
-30. (V. 23.). *There was therefore one of his disciples leaning on the bosom of Jesus,* as the most familiar among the others, and this on account of the prerogative of love; *whom Jesus loved.* That disciple was
+30. (Vers. 23.). *There was therefore one of his disciples leaning on the bosom of Jesus,* as the most familiar among the others, and this on account of the prerogative of love; *whom Jesus loved.* That disciple was
 <!-- page 430 -->
 John; whence Chrysostom[^p430-1]: « Behold the not-glorying of John; for he does not say his name, but *whom Jesus loved,* as the Apostle, the second to the Corinthians, the twelfth chapter: *I know a man* », he did not say: I know Paul. This disciple, then, being so familiar, was a fit inquirer; on which account he says:
 
-31. (V. 24.). *Simon Peter therefore beckoned to him, and says*[^p430-2] *to him: Who is it of whom he speaketh?* As if he said: ask of him. Peter was always solicitous to ask, by himself and through others. At Peter's petition that disciple inquires:
+31. (Vers. 24.). *Simon Peter therefore beckoned to him, and says*[^p430-2] *to him: Who is it of whom he speaketh?* As if he said: ask of him. Peter was always solicitous to ask, by himself and through others. At Peter's petition that disciple inquires:
 
-32. (V. 25.). *Therefore when he had leaned upon the breast of Jesus,* as beloved and familiar and near, which is a sign of dilection; Canticles, the last chapter[^p430-3]: « Who is this that cometh up from the desert, flowing with delights, leaning upon her beloved »? *He saith to him: Lord, who is it?* Supply: namely he who will betray you. He leaned upon the breast of Jesus, that he might hear the secret, because in him were all « the treasures of wisdom and knowledge hidden[^p430-4] ». Whence Augustine says of John that « he drank the streams of the Gospel from the very fountain of the Lord's breast ».
+32. (Vers. 25.). *Therefore when he had leaned upon the breast of Jesus,* as beloved and familiar and near, which is a sign of dilection; Canticles, the last chapter[^p430-3]: « Who is this that cometh up from the desert, flowing with delights, leaning upon her beloved »? *He saith to him: Lord, who is it?* Supply: namely he who will betray you. He leaned upon the breast of Jesus, that he might hear the secret, because in him were all « the treasures of wisdom and knowledge hidden[^p430-4] ». Whence Augustine says of John that « he drank the streams of the Gospel from the very fountain of the Lord's breast ».
 
-33. (V. 26.). *Jesus answered* him. Here is touched the third, namely *the secret response of the Lord,* by which he satisfies the familiar disciple; on which account he did not say it by a word, but manifested it by the sign itself; therefore he says: *He it is to whom*[^p430-5] *I shall reach bread dipped;* the dipping of the bread signifies the feigning of Judas. *And when he had dipped the bread, he gave it to Judas Iscariot, the son of Simon,* and in this John knew who was to betray him. Augustine[^p430-6]: « The bread given to the traitor is a demonstration of the grace to which the traitor was ungrateful ». Whence in the Psalm he complains of the ingratitude of Judas: « For if my enemy had reviled me, I would verily have borne with it; but thou a man of one mind, my guide, and my familiar, who didst take sweetmeats together with me » etc.
+33. (Vers. 26.). *Jesus answered* him. Here is touched the third, namely *the secret response of the Lord,* by which he satisfies the familiar disciple; on which account he did not say it by a word, but manifested it by the sign itself; therefore he says: *He it is to whom*[^p430-5] *I shall reach bread dipped;* the dipping of the bread signifies the feigning of Judas. *And when he had dipped the bread, he gave it to Judas Iscariot, the son of Simon,* and in this John knew who was to betray him. Augustine[^p430-6]: « The bread given to the traitor is a demonstration of the grace to which the traitor was ungrateful ». Whence in the Psalm he complains of the ingratitude of Judas: « For if my enemy had reviled me, I would verily have borne with it; but thou a man of one mind, my guide, and my familiar, who didst take sweetmeats together with me » etc.
 
-34. (V. 27.). *And after the morsel.* Here is touched the fourth, namely *the hastening of the traitor,* which was brought about through the vehement infestation of the devil, which he had against Judas after his correction. On which account he says: *And after the morsel, Satan entered into him,* that he might possess him more efficaciously and more quickly consummate the wickedness conceived; whence in the Psalm[^p430-7]: « Set thou the sinner over him, and may the devil stand at his right hand ». *And,* because this was not hidden from the Lord, *Jesus said to him: That which thou dost, do quickly,* he says it predictively, not imperatively[^p430-8]. Yet lest he should seem to have disclosed his wickedness, the Evangelist shows that this word was hidden from all; therefore he says:
+34. (Vers. 27.). *And after the morsel.* Here is touched the fourth, namely *the hastening of the traitor,* which was brought about through the vehement infestation of the devil, which he had against Judas after his correction. On which account he says: *And after the morsel, Satan entered into him,* that he might possess him more efficaciously and more quickly consummate the wickedness conceived; whence in the Psalm[^p430-7]: « Set thou the sinner over him, and may the devil stand at his right hand ». *And,* because this was not hidden from the Lord, *Jesus said to him: That which thou dost, do quickly,* he says it predictively, not imperatively[^p430-8]. Yet lest he should seem to have disclosed his wickedness, the Evangelist shows that this word was hidden from all; therefore he says:
 
-35. (V. 28.). *Now no man at the table knew what*[^p430-9] *he said to him,* nor even John himself, who already knew his wickedness. Whence Chrysostom: « It was not of a benign and gentle mind to suspect evil of another », rather on the contrary they interpreted it in a good sense; whence he says:
+35. (Vers. 28.). *Now no man at the table knew what*[^p430-9] *he said to him,* nor even John himself, who already knew his wickedness. Whence Chrysostom: « It was not of a benign and gentle mind to suspect evil of another », rather on the contrary they interpreted it in a good sense; whence he says:
 
-36. (V. 29.). *For some thought, because Judas had the purse,* as dispenser, *that Jesus had said to him: Buy those things which are needed*[^p430-10] *for the festival day: or that he should give something to the poor,* because he had the purse chiefly on their account; in which it is signified that from the purse of the Church it is lawful for prelates to buy *what is needed,* that is, the things that are necessary, and to give the rest to the poor; and to them specially has been given the commandment about feeding the poor; whence Ecclesiasticus, the twenty-ninth[^p430-11]: « Because of the commandment help the poor, and because of his poverty send him not away empty handed ». And as the devil was suggesting, and Christ had foretold, Judas hastened; therefore he says:
+36. (Vers. 29.). *For some thought, because Judas had the purse,* as dispenser, *that Jesus had said to him: Buy those things which are needed*[^p430-10] *for the festival day: or that he should give something to the poor,* because he had the purse chiefly on their account; in which it is signified that from the purse of the Church it is lawful for prelates to buy *what is needed,* that is, the things that are necessary, and to give the rest to the poor; and to them specially has been given the commandment about feeding the poor; whence Ecclesiasticus, the twenty-ninth[^p430-11]: « Because of the commandment help the poor, and because of his poverty send him not away empty handed ». And as the devil was suggesting, and Christ had foretold, Judas hastened; therefore he says:
 
 <!-- page 431 -->
-37. (V. 30.). *When therefore he had received*[^p431-1] *the morsel, he went out immediately,* that he might swiftly fulfil it. And the time was fitting for the deed; *and it was night;* Job, the twenty-fourth: « The eye of the adulterer observeth darkness »; and above, in the third: « He that doth evil hateth the light ».
+37. (Vers. 30.). *When therefore he had received*[^p431-1] *the morsel, he went out immediately,* that he might swiftly fulfil it. And the time was fitting for the deed; *and it was night;* Job, the twenty-fourth: « The eye of the adulterer observeth darkness »; and above, in the third: « He that doth evil hateth the light ».
 
 ### Questions.
 
@@ -159,7 +159,7 @@ And if you object that this is a reversed order; some say that nothing prevented
 
 It must be said to this that the cognition of death was not the whole cause, but the cognition of death *imminent;* whence nature abhors an imminent danger more than a distant one. Nor yet is that the whole cause, but the cognition of imminent death *with the will to trouble himself;* and this he willed then, that he might show himself to be true man[^p431-6].
 
-41. Quaest. IV. Again, it is asked concerning the inquiry of the disciples:
+41. Quaest. IV. Likewise it is asked concerning the inquiry of the disciples:
 
 1. How is it that the disciples dared to ask about a hidden crime? — It seems to have been curiosity.
 
@@ -169,14 +169,14 @@ To this it must be said that they were not asking out of curiosity to know the f
 
 2. And therefore Peter did not speak, but beckoned to him who was near and could ask secretly; for he was leaning upon the breast of Jesus in secret and could ask, not so Peter.
 
-42. Quaest. V. Again, it is asked concerning the response of the Lord: because he says: *To whom I shall reach bread dipped.* — It seems that the Lord betrayed Judas.
+42. Quaest. V. Likewise it is asked concerning the response of the Lord: because he says: *To whom I shall reach bread dipped.* — It seems that the Lord betrayed Judas.
 
 To this Chrysostom[^p431-10] says that he gave dipped bread to all.
 
 But then 1. it is asked what sign it would have been to John that he was the one *to whom I shall reach bread dipped.*
 
 <!-- page 432 -->
-2. Again, it is said in Matthew, the twenty-sixth[^p432-1], that *they began every one to say: Is it I, Lord?* and after, of Judas: *Is it I, Rabbi?* And it is said there that the Lord answered: *Thou hast said it.* Therefore it seems that the Lord openly manifested him, and not only by a sign, but by a word.
+2. Likewise, it is said in Matthew, the twenty-sixth[^p432-1], that *they began every one to say: Is it I, Lord?* and after, of Judas: *Is it I, Rabbi?* And it is said there that the Lord answered: *Thou hast said it.* Therefore it seems that the Lord openly manifested him, and not only by a sign, but by a word.
 
 **I respond:** It must be said that the Lord revealed the traitor, but not to all, rather to some, but secretly. And he revealed him to John for a twofold cause: both because he had compassion on his desolation[^p432-2], and also that he might be a witness that Christ foreknew with certitude, not by conjectures, that his own disciple was the traitor.
 
@@ -184,15 +184,15 @@ But as for what is said, that a sinner is not to be betrayed; it is to be unders
 
 2. But as for what is said about Matthew, it must be said that that word of the Lord, as Augustine says, *On the Agreement of the Evangelists*[^p432-4], determined nothing certain: *Thou hast said it,* as if he said: not I, but you. — Or it may be that the Lord so said it to him that no one else understood. — And this indeed, which Matthew narrates, was said earlier; and because Peter and John were not made certain, John still asked in secret.
 
-43. Quaest. VI. Again, it is asked concerning what he says, that *after the morsel Satan entered into him.*
+43. Quaest. VI. Likewise it is asked concerning what he says, that *after the morsel Satan entered into him.*
 
 1. It seems that the Lord did not do well in giving the morsel to Judas, through which he was made worse.
 
-2. Again, by what reason *after the morsel?*
+2. Likewise, by what reason *after the morsel?*
 
 3. And he seems to say what is false, because, as Augustine[^p432-5] says, God alone enters into the soul, therefore not Satan.
 
-4. Again, he had said earlier[^p432-6] that the devil had put it into the heart of Judas; how then *after the morsel?*
+4. Likewise, he had said earlier[^p432-6] that the devil had put it into the heart of Judas; how then *after the morsel?*
 
 **I respond:** On these there are diverse opinions. Some have wished to say that that dipped bread was the body of Christ; and this the Master says in the Histories[^p432-7], and therefore dipped bread is not given to us communicating. And Augustine seems to say this in the original[^p432-8]: « Why do you wonder, he says, if there was given to Judas the bread of Christ, by which he was handed over to the devil, when you see that there was given to the Apostle an angel of the devil, by which he might advance in Christ »? And therefore they say that Satan entered then, because, receiving the body of Christ unworthily, he ate and drank judgement to himself.
 

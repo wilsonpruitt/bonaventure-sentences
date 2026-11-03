@@ -99,31 +99,31 @@ latenter dimittere, ut ipsum non invenirent; ideo praemisit discipulos suos, ut 
 
 24. *Now those*[^p322-9] *men* etc. The antecedents to the wonderful refection and the concomitants have been described above; here are described the *consequents,* which are four, namely *the devotion of the multitudes* to honour Christ; *the hiding of the Lord* to flee honour; *the going down of the disciples* to cross over; *the coming of Christ* to succour.
 
-(Verse 14.). The first consequent, then, of the aforesaid miracle was *the devotion of the multitudes* to honour Christ, and this, as they knew him through the sign which he had done; whence he says: *Those men therefore, when they had seen what a sign Jesus had done,* that is, had considered the greatness of the sign, *said: This is of a truth the prophet, that is to come into the world,* that is, the Christ, who was awaited as the Lord of the whole world. They said this on account of the signs; below, the seventh[^p322-10]: « Will the Christ, when he cometh, do more signs than these which this man doth » ?
+(Vers. 14.). The first consequent, then, of the aforesaid miracle was *the devotion of the multitudes* to honour Christ, and this, as they knew him through the sign which he had done; whence he says: *Those men therefore, when they had seen what a sign Jesus had done,* that is, had considered the greatness of the sign, *said: This is of a truth the prophet, that is to come into the world,* that is, the Christ, who was awaited as the Lord of the whole world. They said this on account of the signs; below, the seventh[^p322-10]: « Will the Christ, when he cometh, do more signs than these which this man doth » ?
 
-25. (Verse 15.). *Jesus therefore.* Here is touched the second, namely *the hiding of the Lord* to flee honour, which he foresaw the multitudes wished to offer him. Therefore he says: *Jesus therefore, when he knew,* namely as God, *that they were to come*[^p322-11]*, to take him by force,* as it were violently, *and make him king, fled again into the mountain himself alone,* as it were not waiting for the disciples by reason of his speed. For they wished, by seizing him, to make him king before the time, as he himself says below, the eighteenth[^p322-12]: « My kingdom is not of this world ». Augustine: « Christ fled when they wished to make him king; for the man Christ despised all earthly goods, that he might show they were to be despised; he endured all evils, that neither in the former should happiness be sought, nor in the latter adversity be feared ».
+25. (Vers. 15.). *Jesus therefore.* Here is touched the second, namely *the hiding of the Lord* to flee honour, which he foresaw the multitudes wished to offer him. Therefore he says: *Jesus therefore, when he knew,* namely as God, *that they were to come*[^p322-11]*, to take him by force,* as it were violently, *and make him king, fled again into the mountain himself alone,* as it were not waiting for the disciples by reason of his speed. For they wished, by seizing him, to make him king before the time, as he himself says below, the eighteenth[^p322-12]: « My kingdom is not of this world ». Augustine: « Christ fled when they wished to make him king; for the man Christ despised all earthly goods, that he might show they were to be despised; he endured all evils, that neither in the former should happiness be sought, nor in the latter adversity be feared ».
 
-26. (Verse 16.). *And when evening was come* etc. Here is touched the third, namely *the going down of the disciples* to withdraw; for the Lord wished to dismiss the multitudes
+26. (Vers. 16.). *And when evening was come* etc. Here is touched the third, namely *the going down of the disciples* to withdraw; for the Lord wished to dismiss the multitudes
 <!-- page 323 -->
 secretly, so that they might not find him; therefore he sent his disciples before, that going down from the mountain they might cross the sea. Therefore he says: *And when evening was come,* this is the hour of returning to one's lodging; *his disciples went down to the sea,* namely that they might cross over.
 
-27. (Verse 17.). *And when they had gone up into the ship, they came over the sea to Capharnaum. They came,* that is, they began to come, said by anticipation. Therefore *they came,* because the Lord dwelt there; Matthew, the fourth[^p323-1]: « He went down to Capharnaum and dwelt there ».
+27. (Vers. 17.). *And when they had gone up into the ship, they came over the sea to Capharnaum. They came,* that is, they began to come, said by anticipation. Therefore *they came,* because the Lord dwelt there; Matthew, the fourth[^p323-1]: « He went down to Capharnaum and dwelt there ».
 
 *And it was now dark* etc. Here is touched the fourth, namely *the coming of Christ* to succour, because they were set in danger by reason of the darkness of the night and the tempest of the sea; therefore he says: *And it was now dark;* behold, the danger of the night, and above all because the guide was lacking; therefore he says: *And Jesus was not yet*[^p323-2] *come unto them;* therefore they were in danger; below, the twelfth: « He that walketh in darkness knoweth not whither he goeth ». There was also the danger of the tempest; therefore he says:
 
-28. (Verse 18.). *And the sea arose, by reason of a great wind that blew.* For the sea rises at the wind; whence Jonas, the first[^p323-3]: « The Lord sent a great wind into the sea, and a great tempest was made ». And because the Lord is nigh « unto them that are of a contrite heart »; therefore the coming of the Lord to succour is brought in. Therefore he says:
+28. (Vers. 18.). *And the sea arose, by reason of a great wind that blew.* For the sea rises at the wind; whence Jonas, the first[^p323-3]: « The Lord sent a great wind into the sea, and a great tempest was made ». And because the Lord is nigh « unto them that are of a contrite heart »; therefore the coming of the Lord to succour is brought in. Therefore he says:
 
-29. (Verse 19.). *When they had rowed therefore about five and twenty or thirty furlongs; about* he says on account of the uncertainty of distance on the sea; *they saw*[^p323-4] *Jesus walking upon the sea, and drawing nigh to the ship,* to succour; but they did not know him; therefore it is added: *And they were afraid;* and the reason for this is given in Mark, the sixth: « They thought it was an apparition ». And because the Lord strengthens timid hearts, therefore he adds:
+29. (Vers. 19.). *When they had rowed therefore about five and twenty or thirty furlongs; about* he says on account of the uncertainty of distance on the sea; *they saw*[^p323-4] *Jesus walking upon the sea, and drawing nigh to the ship,* to succour; but they did not know him; therefore it is added: *And they were afraid;* and the reason for this is given in Mark, the sixth: « They thought it was an apparition ». And because the Lord strengthens timid hearts, therefore he adds:
 
-30. (Verse 20.). *But he said*[^p323-5] *to them: It is I,* namely I who protect; *be not afraid.* When the Lord is present, there is nothing to fear, according to that of the Psalm: « The Lord is my protector; of whom shall I be afraid » ? And from this they took confidence.
+30. (Vers. 20.). *But he said*[^p323-5] *to them: It is I,* namely I who protect; *be not afraid.* When the Lord is present, there is nothing to fear, according to that of the Psalm: « The Lord is my protector; of whom shall I be afraid » ? And from this they took confidence.
 
-31. (Verse 21.). *They were willing therefore to take him into the ship,* recognizing him and rejoicing securely; *and presently the ship was at the land into which they were going,* that is, to which, because the omnipotent Lord was there, who was not carried by the ship, but carried it; to the Hebrews, the first[^p323-6]: « Upholding all things by the word of his power »; and *presently,* because Wisdom, the twelfth: « For thy power is at hand when thou wilt ». Hence the miracle was threefold, namely the walking upon the sea, the quieting of the tempest, and the most swift bringing to the port.
+31. (Vers. 21.). *They were willing therefore to take him into the ship,* recognizing him and rejoicing securely; *and presently the ship was at the land into which they were going,* that is, to which, because the omnipotent Lord was there, who was not carried by the ship, but carried it; to the Hebrews, the first[^p323-6]: « Upholding all things by the word of his power »; and *presently,* because Wisdom, the twelfth: « For thy power is at hand when thou wilt ». Hence the miracle was threefold, namely the walking upon the sea, the quieting of the tempest, and the most swift bringing to the port.
 
 32. *Spiritually* it is to be noted *what the town is* to which they go, *how they cross,* and *by what guide* they arrive. — *The town* to which they go is Capharnaum, which is interpreted *most beautiful town*[^p323-7]. This is the heavenly fatherland, in which is the highest beauty, as is said of the Saints in Wisdom, the fifth[^p323-8]: *They shall receive a kingdom of glory, and a crown of beauty at the hand of the Lord.* — To this town *one crosses by the sea,* that is, through the bitternesses of tribulations; Acts, the fourteenth[^p323-9]: *Through many tribulations we must enter into the kingdom of God.* — Over this sea *the little ship of penance* carries across, in which man is saved, according to that of Acts, the twenty-seventh[^p323-10]: *Except you stay in the ship, you cannot be saved;* likewise: *If we do not penance, we shall fall into the hands of the Lord,* Ecclesiasticus, the second. — This *little ship is shaken* when it is vexed by the blasts of temptations; Matthew, the seventh[^p323-11]: *The floods came, and the winds blew.* — *Those sailing* see the Lord *walking,* as here; *those fighting* see him *standing,* Acts, the seventh[^p323-12]; *those contemplating, sitting,* Isaias, the sixth: *I saw the Lord sitting.* — But the Lord *is present* and *leads through to the port,* according to that of Isaias, the forty-third[^p323-13]: *When thou shalt pass through the waters, I will be with thee, and the rivers shall not cover thee;* and according to that of the Psalm: *I am with him in tribulation, I will deliver him, and I will glorify him; I will fill him with length of days, and I will shew him my salvation.*
 
 ### Questions.
 
-33. Question I. It is asked here first about what the multitudes say of Christ: *This is of a truth the prophet,* whether they say what is *true,* or what is *false.* — That it is *true* seems so: because it is said in Deuteronomy, the eighteenth[^p323-14]:
+33. Quaest. I. It is asked here first about what the multitudes say of Christ: *This is of a truth the prophet,* whether they say what is *true,* or what is *false.* — That it is *true* seems so: because it is said in Deuteronomy, the eighteenth[^p323-14]:
 <!-- page 324 -->
 *The Lord will raise up a prophet to you;* and the Gloss says that it understands this of Christ according to the letter.
 
@@ -131,7 +131,7 @@ secretly, so that they might not find him; therefore he sent his disciples befor
 
 **I respond:** It must be said that *prophet* is said in two ways: either by reason of interior inspiration and revelation, and so it carries with it ignorance joined to it; a prophet is also so called by reason of an infallible and truthful announcement. By reason of the first Christ is not called a prophet, but by reason of the second, because he said what is true in all things and infallibly.
 
-34. Question II. It is asked about this, that the Lord *fled into the mountain.*
+34. Quaest. II. It is asked about this, that the Lord *fled into the mountain.*
 
 1. For if he was king, then he was to be received as king, and he ought to have willed that his own should receive him, as they ought: therefore he ought not to have fled, but rather to have offered himself.
 
@@ -145,7 +145,7 @@ secretly, so that they might not find him; therefore he sent his disciples befor
 
 3. As to what is asked: why does he *flee alone?* I respond: on account of *acceleration* he did not wait for the others; on account of *hiding* he would not have company; on account of *instruction,* that he might show that in the receiving of honours counsel is not to be sought from familiar friends, because in this that of Micheas, the seventh[^p324-2], is verified: *A man's enemies are they of his own household.*
 
-35. Question III. It is asked about the going down of the disciples:
+35. Quaest. III. It is asked about the going down of the disciples:
 
 1. Because it is said that *they went down when evening was come;* how did they leave the Teacher solitary? — It seems that they were reprehensible.
 
@@ -155,7 +155,7 @@ secretly, so that they might not find him; therefore he sent his disciples befor
 
 2. As to what is objected about the contrariety, it must be said that Mark names the nearest town, but John the one to which they intended to go.
 
-36. Question IV. It is asked also about the walking of the Lord upon the sea:
+36. Quaest. IV. It is asked also about the walking of the Lord upon the sea:
 
 1. On which side the miracle was, either of the *water* supporting, or of the *body* walking upon it.
 

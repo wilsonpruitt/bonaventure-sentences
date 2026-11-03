@@ -3496,6 +3496,8 @@ Extending to Vols VI–X = adding the volume to the glob range and to `VOLUME_CO
 - *Unde...* → "Hence..." or "Whence..."
 - *Per consequens* → "consequently"
 - *Propter quod* → "on account of which"
+- *Isaiae vigesimo quarto* (ordinal Scripture citation, Vol VI *Ioannem*) → "Isaias, the twenty-fourth chapter", never the bare "the twenty-fourth" (Vol VI ruling 98)
+- Print addresses, verbatim in both languages (Vol VI rulings 4, 73, 97): `(Vers. N.)`, `Quaest. N.`; never "(V. N.)", "(Verse N.)", "Question N"
 
 ### Key terminology (lock these consistent)
 | Latin | English |
