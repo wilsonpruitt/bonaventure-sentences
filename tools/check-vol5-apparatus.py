@@ -4369,8 +4369,12 @@ KNOWN_TOTALS_VOL6 = {
              # GUTTER runover n.3. Verso. Gutter 1150 / 1152.
     469: 11, # bon-ioan-c17-v1-5 (¶¶ 9-11): anchors L 1-6 / R 7-11; blocks L 1-7 head / R 7 tail-11,
              # GUTTER runover n.7. Recto. Gutter 895 / 893.
-    470: 13, # bon-ioan-c17-v1-5 owns nn.1-2 (¶ 11, L). nn.3-13 PENDING (Cap. XVII's second pericope,
-             # ¶ 12 on). Blocks L 1-7 / R 8-13, no runover. Verso. Gutter 1149 / 1151.
+    470: 13, # bon-ioan-c17-v1-5 owns nn.1-2 (¶ 11, L); bon-ioan-c17-v6-11 owns nn.3-13 (¶¶ 12-16),
+             # closed. Anchors L 3-7 / R 8-13. Blocks L 1-7 / R 8-13, no runover. Verso. Gutter 1149 / 1151.
+    471: 11, # bon-ioan-c17-v6-11 (¶¶ 17-22): anchors L 1-5 / R 6-11; blocks L 1-10 head / R 10 tail-11,
+             # GUTTER runover n.10. Recto. Gutter 896 / 896.
+    472: 13, # bon-ioan-c17-v6-11 owns nn.1-3 (¶ 22, L). nn.4-13 PENDING (bon-ioan-c17-v12-19, ¶ 23 on).
+             # Blocks L 1-6 / R 7-13, no runover. Verso. Gutter 1149 / 1153.
 }
 
 KNOWN_TOTALS_BY_VOL = {
