@@ -26973,6 +26973,40 @@ bon-ioan-c16-v16-23	6	apparatus:p463-8	p463-8	scripture	apparatus-explicit	Matth
 bon-ioan-c16-v16-23	6	apparatus:p463-12	p463-12	crossref	logical	I. Sent. d. 48. a. 2. q. 2.	bon-sent-I-d48-a2-q2		chunk		
 bon-ioan-c16-v16-23	6	apparatus:p463-12	p463-12	crossref	logical	III. Sent. d. 15. a. 2. q. 2.	bon-sent-III-d15-a2-q2		chunk		
 bon-ioan-c16-v16-23	6	apparatus:p463-13	p463-13	scripture	apparatus-explicit	Thess. 4, 13	Thess* 4:13	A	verse		
+bon-ioan-c16-v23-33	6	latin_body		scripture	body-ordinal	Iacobi primo	Iac 1	C	chapter		
+bon-ioan-c16-v23-33	6	latin_body	p464-7	scripture	body-ordinal	ad Corinthios tertio	Cor* 3:1	B	verse		
+bon-ioan-c16-v23-33	6	latin_body	p464-9	scripture	body-ordinal	Ieremiae trigesimo primo	Ierem 31:34	B	verse		
+bon-ioan-c16-v23-33	6	latin_body		scripture	body-ordinal	ad Romanos octavo	Rom 8	C	chapter		
+bon-ioan-c16-v23-33	6	latin_body		scripture	body-ordinal	Matthaei vigesimo primo	Matth 21	C	chapter		
+bon-ioan-c16-v23-33	6	latin_body		scripture	body-ordinal	Ieremiae decimo septimo	Ierem 17	C	chapter		
+bon-ioan-c16-v23-33	6	latin_body	p465-7	scripture	body-ordinal	Zachariae decimo tertio	Zach 13:7	B	verse		
+bon-ioan-c16-v23-33	6	latin_body		scripture	body-ordinal	Isaiae sexagesimo tertio	Isai 63	C	chapter		
+bon-ioan-c16-v23-33	6	latin_body		scripture	body-ordinal	Actuum decimo quarto	Act 14	C	chapter		
+bon-ioan-c16-v23-33	6	latin_body	p465-10	scripture	body-ordinal	ad Corinthios decimo quinto	Cor* 15:57	B	verse		
+bon-ioan-c16-v23-33	6	latin_body		scripture	body-ordinal	Ioannis quinto	Ioan 5	C	chapter		
+bon-ioan-c16-v23-33	6	latin_body	p466-1	scripture	body-ordinal	ad Corinthios duodecimo	Cor* 12:9	B	verse		
+bon-ioan-c16-v23-33	6	latin_body	p466-7	scripture	body-ordinal	Matthaei decimo tertio	Matth 13:11	B	verse		
+bon-ioan-c16-v23-33	6	apparatus:p464-4	p464-4	scripture	apparatus-explicit	Iac. 1, 5	Iac 1:5	A	verse		
+bon-ioan-c16-v23-33	6	apparatus:p464-6	p464-6	crossref	logical	IV. Sent. d. 49. p. I. q. 5.	bon-sent-IV-d49-p1-a1-q5		chunk		
+bon-ioan-c16-v23-33	6	apparatus:p464-9	p464-9	scripture	apparatus-explicit	Rom. 8, 26	Rom 8:26	A	verse		
+bon-ioan-c16-v23-33	6	apparatus:p464-9	p464-9	crossref	page	supra pag. 443, nota 2	bon-ioan-c14-v15-24+bon-ioan-c14-v25-31		page-multi		
+bon-ioan-c16-v23-33	6	apparatus:p464-11	p464-11	scripture	apparatus-explicit	Matth. 21, 22	Matth 21:22	A	verse		
+bon-ioan-c16-v23-33	6	apparatus:p465-1	p465-1	scripture	apparatus-explicit	Matth. 16, 16	Matth 16:16	A	verse		
+bon-ioan-c16-v23-33	6	apparatus:p465-2	p465-2	scripture	apparatus-explicit	Ps. 18, 7	Ps 18:7	A	verse		
+bon-ioan-c16-v23-33	6	apparatus:p465-5	p465-5	scripture	apparatus-explicit	Ioan. 6, 70	Ioan 6:70	A	verse		
+bon-ioan-c16-v23-33	6	apparatus:p465-5	p465-5	scripture	apparatus-explicit	Ier. 17, 9	Ierem 17:9	A	verse		
+bon-ioan-c16-v23-33	6	apparatus:p465-6	p465-6	crossref	page	supra pag. 266, nota 9	bon-ioan-c1-v43-51		chunk		
+bon-ioan-c16-v23-33	6	apparatus:p465-7	p465-7	scripture	apparatus-explicit	Isai. 63, 3	Isai 63:3	A	verse		
+bon-ioan-c16-v23-33	6	apparatus:p465-8	p465-8	scripture	apparatus-explicit	Ioan. 8, 29	Ioan 8:29	A	verse		
+bon-ioan-c16-v23-33	6	apparatus:p465-8	p465-8	scripture	apparatus-explicit	Ps. 21, 2	Ps 21:2	A	verse		
+bon-ioan-c16-v23-33	6	apparatus:p465-9	p465-9	scripture	apparatus-explicit	Act. 14, 21	Act 14:21	A	verse		
+bon-ioan-c16-v23-33	6	apparatus:p465-10	p465-10	scripture	apparatus-explicit	I. Ioan. 5, 4	1Ioan 5:4	A	verse		
+bon-ioan-c16-v23-33	6	apparatus:p466-2	p466-2	crossref	page	tom. II. pag. 662, nota 1	bon-sent-II-d27-a2-q1		chunk		
+bon-ioan-c16-v23-33	6	apparatus:p466-4	p466-4	crossref	anaphor->page	ibid.	bon-sent-II-d27-a2-q1		chunk	yes	tom. II. pag. 662, nota 1
+bon-ioan-c16-v23-33	6	apparatus:p466-5	p466-5	scripture	apparatus-explicit	II. Cor. 12, 9	2Cor 12:9	A	verse		
+bon-ioan-c16-v23-33	6	apparatus:p466-10	p466-10	scripture	apparatus-explicit	Matth. 13, 13	Matth 13:13	A	verse		
+bon-ioan-c16-v23-33	6	apparatus:p467-2	p467-2	scripture	apparatus-explicit	Ps. 7, 10	Ps 7:10	A	verse		
+bon-ioan-c16-v23-33	6	apparatus:p467-2	p467-2	scripture	apparatus-explicit	Ier. 17, 10	Ierem 17:10	A	verse		
 bon-ioan-c16-v5-15	6	latin_body	p457-11	scripture	body-ordinal	Matthaei nono	Matth 9:15	B	verse		
 bon-ioan-c16-v5-15	6	latin_body	p458-1	scripture	body-ordinal	ad Thessalonicenses quarto	Thess* 4:13	B	verse		
 bon-ioan-c16-v5-15	6	latin_body		scripture	body-ordinal	ad Corinthios secundo	Cor* 2	C	chapter		
