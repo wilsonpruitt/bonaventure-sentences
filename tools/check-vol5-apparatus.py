@@ -4338,7 +4338,18 @@ KNOWN_TOTALS_VOL6 = {
              # GUTTER runover n.8. Verso. Gutter 1151 / 1153 / 1155.
     457: 11, # bon-ioan-c16-v1-4 owns nn.1-6 (¶¶ 8-9): anchors L 1-6, n.7 L (¶ 10), 8-11 R; blocks
              # L 1-5 head / R 5 tail-11, GUTTER runover n.5; n.7 shares n.6's line. nn.7-11 PENDING
-             # (Cap. XVI's second pericope). Recto. Gutter 877 / 876 / 874.
+             # (Cap. XVI's second pericope), closed at bon-ioan-c16-v5-15 (hand-off right in every
+             # digit). Recto. Gutter 877 / 876 / 874.
+    458: 10, # bon-ioan-c16-v5-15 (¶¶ 12-18): anchors L 1-3 / R 4-10; blocks L 1-6 head / R 6 tail-10,
+             # GUTTER runover n.6. Verso. Gutter 1161 / 1163 / 1166.
+    459: 13, # bon-ioan-c16-v5-15 (¶¶ 18-24): anchors L 1-6 / R 7-13; blocks L 1-8 / R 9-13, no
+             # runover. Recto. Gutter 878 / 877 / 875 (window median 884 rejected, the island off centre).
+    460: 11, # bon-ioan-c16-v5-15 (¶¶ 24-26): anchors L 1-5 / R 6-11; blocks L 1-8 head / R 8 tail-11,
+             # GUTTER runover n.8; PAGE runover n.11, its tail at the head of p. 461's LEFT block.
+             # Verso. Gutter 1160 / 1161 / 1162.
+    461: 8,  # bon-ioan-c16-v5-15 owns nn.1-5 (¶ 26): anchors L 1-4, R 5; blocks L (n.460-11 tail) 1-4
+             # head / R 4 tail-8, GUTTER runover n.4. nn.6-8 (R, ¶ 27) PENDING (bon-ioan-c16-v16-23).
+             # Recto. Gutter 913 / 911 / 911.
 }
 
 KNOWN_TOTALS_BY_VOL = {

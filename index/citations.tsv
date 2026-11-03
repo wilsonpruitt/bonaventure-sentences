@@ -26940,6 +26940,61 @@ bon-ioan-c16-v1-4	6	apparatus:p457-4	p457-4	crossref	logical	III. Sent. d. 38. q
 bon-ioan-c16-v1-4	6	apparatus:p457-4	p457-4	crossref	page	tom. I. pag. 32, nota 6	bon-sent-I-d1-a1-q1+bon-sent-I-d1-a1-q2		page-multi		
 bon-ioan-c16-v1-4	6	apparatus:p457-5	p457-5	crossref	logical	II. Sent. d. 36. dub. 5	bon-sent-II-d36-dubia		chunk		
 bon-ioan-c16-v1-4	6	apparatus:p457-6	p457-6	crossref	logical	I. Sent. d. 47. q. 4.	bon-sent-I-d47-a1-q4		chunk		
+bon-ioan-c16-v5-15	6	latin_body	p457-11	scripture	body-ordinal	Matthaei nono	Matth 9:15	B	verse		
+bon-ioan-c16-v5-15	6	latin_body	p458-1	scripture	body-ordinal	ad Thessalonicenses quarto	Thess* 4:13	B	verse		
+bon-ioan-c16-v5-15	6	latin_body		scripture	body-ordinal	ad Corinthios secundo	Cor* 2	C	chapter		
+bon-ioan-c16-v5-15	6	latin_body		scripture	body-ordinal	Threnorum tertio	Thren 3	C	chapter		
+bon-ioan-c16-v5-15	6	latin_body	p458-2	scripture	body-ordinal	Matthaei quinto	Matth 5:5	B	verse		
+bon-ioan-c16-v5-15	6	latin_body	p458-3	scripture	body-ordinal	Isaiae vigesimo octavo	Isai 28:9	B	verse		
+bon-ioan-c16-v5-15	6	latin_body		scripture	body-ordinal	ad Hebraeos quinto	Hebr 5	C	chapter		
+bon-ioan-c16-v5-15	6	latin_body		scripture	body-ordinal	ad Hebraeos undecimo	Hebr 11	C	chapter		
+bon-ioan-c16-v5-15	6	latin_body		scripture	body-ordinal	ad Romanos tertio	Rom 3	C	chapter		
+bon-ioan-c16-v5-15	6	latin_body	p458-8	scripture	body-ordinal	ad Ephesios quinto	Eph 5:13	B	verse		
+bon-ioan-c16-v5-15	6	latin_body	p458-9	scripture	body-ordinal	ad Ephesios sexto	Eph 6:12	B	verse		
+bon-ioan-c16-v5-15	6	latin_body	p459-1	scripture	body-ordinal	ad Philippenses secundo	Phil 2:8	B	verse		
+bon-ioan-c16-v5-15	6	latin_body	p459-3	scripture	body-ordinal	ad Corinthios tertio	Cor* 3:1	B	verse		
+bon-ioan-c16-v5-15	6	latin_body	p459-4	scripture	body-ordinal	Ioannis secundo	Ioan 2:27	B	verse		
+bon-ioan-c16-v5-15	6	latin_body		scripture	body-ordinal	ad Timotheum quarto	Tim* 4	C	chapter		
+bon-ioan-c16-v5-15	6	latin_body	p460-6	scripture	body-ordinal	ad Corinthios undecimo	Cor* 11:6	B	verse		
+bon-ioan-c16-v5-15	6	latin_body	p460-10	scripture	body-ordinal	Matthaei vigesimo secundo	Matth 22:16	B	verse		
+bon-ioan-c16-v5-15	6	latin_body		scripture	body-ordinal	Isaiae trigesimo octavo	Isai 38	C	chapter		
+bon-ioan-c16-v5-15	6	latin_body		scripture	body-ordinal	Proverbiorum decimo octavo	Prov 18	C	chapter		
+bon-ioan-c16-v5-15	6	apparatus:p457-9	p457-9	crossref	logical	II. Sent. d. 24. p. I. a. 2. q. 1.	bon-sent-II-d24-p1-a2-q1		chunk		
+bon-ioan-c16-v5-15	6	apparatus:p457-9	p457-9	crossref	page	tom. III. pag. 579, nota 6	bon-sent-III-d26-a2-q5		chunk		
+bon-ioan-c16-v5-15	6	apparatus:p457-10	p457-10	scripture	apparatus-explicit	Matth. 10, 17	Matth 10:17	A	verse		
+bon-ioan-c16-v5-15	6	apparatus:p457-10	p457-10	scripture	apparatus-explicit	Marc. 13, 9	Marc 13:9	A	verse		
+bon-ioan-c16-v5-15	6	apparatus:p457-10	p457-10	scripture	apparatus-explicit	Luc. 12, 11	Luc 12:11	A	verse		
+bon-ioan-c16-v5-15	6	apparatus:p458-1	p458-1	scripture	apparatus-explicit	II. Cor. 2, 7	2Cor 2:7	A	verse		
+bon-ioan-c16-v5-15	6	apparatus:p458-1	p458-1	scripture	apparatus-explicit	Thren. 3, 15	Thren 3:15	A	verse		
+bon-ioan-c16-v5-15	6	apparatus:p458-3	p458-3	scripture	apparatus-explicit	Hebr. 5, 13	Hebr 5:13	A	verse		
+bon-ioan-c16-v5-15	6	apparatus:p458-4	p458-4	crossref	page	supra pag. 456, nota 2	bon-ioan-c16-v1-4		chunk		
+bon-ioan-c16-v5-15	6	apparatus:p458-5	p458-5	scripture	apparatus-explicit	Rom. 1, 17	Rom 1:17	A	verse		
+bon-ioan-c16-v5-15	6	apparatus:p458-6	p458-6	scripture	apparatus-explicit	Hebr. 11, 1	Hebr 11:1	A	verse		
+bon-ioan-c16-v5-15	6	apparatus:p458-6	p458-6	scripture	apparatus-explicit	Rom. 3, 28	Rom 3:28	A	verse		
+bon-ioan-c16-v5-15	6	apparatus:p458-7	p458-7	scripture	apparatus-explicit	Ioan. 12, 31	Ioan 12:31	A	verse		
+bon-ioan-c16-v5-15	6	apparatus:p458-10	p458-10	scripture	apparatus-explicit	Phil. 2, 3-8	Phil 2:3-8	A	verse		
+bon-ioan-c16-v5-15	6	apparatus:p459-2	p459-2	crossref	logical	IV. Sent. d. 47. a. 1. q. 4.	bon-sent-IV-d47-a1-q4		chunk		
+bon-ioan-c16-v5-15	6	apparatus:p459-5	p459-5	scripture	apparatus-explicit	Ioan. 8, 44	Ioan 8:44	A	verse		
+bon-ioan-c16-v5-15	6	apparatus:p459-6	p459-6	scripture	apparatus-explicit	I. Tim. 4, 1	1Tim 4:1	A	verse		
+bon-ioan-c16-v5-15	6	apparatus:p459-8	p459-8	crossref	logical	I. Sent. d. 11. q. 1.	bon-sent-I-d11-a1-q1		chunk		
+bon-ioan-c16-v5-15	6	apparatus:p459-9	p459-9	scripture	apparatus-explicit	Ioan. 17, 10	Ioan 17:10	A	verse		
+bon-ioan-c16-v5-15	6	apparatus:p460-2	p460-2	scripture	anaphor->apparatus-explicit	loc. cit.	Ioan 17:10	A	verse	yes	Ioan. 17, 10
+bon-ioan-c16-v5-15	6	apparatus:p460-4	p460-4	scripture	apparatus-explicit	Rom. 5, 10	Rom 5:10	A	verse		
+bon-ioan-c16-v5-15	6	apparatus:p460-4	p460-4	scripture	apparatus-explicit	Coloss. 1, 20	Col 1:20	A	verse		
+bon-ioan-c16-v5-15	6	apparatus:p460-5	p460-5	scripture	apparatus-explicit	I. Cor. 1, 24	1Cor 1:24	A	verse		
+bon-ioan-c16-v5-15	6	apparatus:p460-5	p460-5	crossref	page	supra pag. 444, nota 1	bon-ioan-c14-v25-31		chunk		
+bon-ioan-c16-v5-15	6	apparatus:p460-7	p460-7	crossref	logical	III. Sent. d. 35. q. 1	bon-sent-III-d35-a1-q1		chunk		
+bon-ioan-c16-v5-15	6	apparatus:p460-8	p460-8	scripture	apparatus-explicit	Tit. 1, 1	Tit 1:1	A	verse		
+bon-ioan-c16-v5-15	6	apparatus:p460-9	p460-9	crossref	page	supra pag. 332, nota 3	bon-ioan-c6-v41-52+bon-ioan-c6-v53-59		page-multi		
+bon-ioan-c16-v5-15	6	apparatus:p460-10	p460-10	scripture	apparatus-explicit	Isai. 38, 3	Isai 38:3	A	verse		
+bon-ioan-c16-v5-15	6	apparatus:p460-10	p460-10	scripture	apparatus-explicit	Prov. 18, 5	Prov 18:5	A	verse		
+bon-ioan-c16-v5-15	6	apparatus:p460-10	p460-10	authority	authority:Albert.	III. Sent. d. 37. a. 15.			excluded		
+bon-ioan-c16-v5-15	6	apparatus:p460-10	p460-10	scripture	apparatus-explicit	Luc. 19	Luc 19	C	chapter		
+bon-ioan-c16-v5-15	6	apparatus:p460-10	p460-10	scripture	apparatus-explicit	Matth. 18, 6	Matth 18:6	A	verse		
+bon-ioan-c16-v5-15	6	apparatus:p460-10	p460-10	crossref	page	supra pag. 291	bon-ioan-c4-v1-6+bon-ioan-c4-v7-14		page-multi		
+bon-ioan-c16-v5-15	6	apparatus:p460-10	p460-10	scripture	apparatus-explicit	Luc. 17, 1	Luc 17:1	A	verse		
+bon-ioan-c16-v5-15	6	apparatus:p460-11	p460-11	crossref	page	supra pag. 291, nota 8	bon-ioan-c4-v1-6+bon-ioan-c4-v7-14		page-multi		
+bon-ioan-c16-v5-15	6	apparatus:p461-3	p461-3	crossref	logical	I. Sent. d. 11. q. 1	bon-sent-I-d11-a1-q1		chunk		
 bon-ioan-c2-v1-11	6	latin_body	p269-5	scripture	body-ordinal	Lucae primo	Luc 1:39	B	verse		
 bon-ioan-c2-v1-11	6	latin_body		scripture	body-ordinal	Lucae decimo quarto	Luc 14	C	chapter		
 bon-ioan-c2-v1-11	6	latin_body		scripture	body-ordinal	ad Corinthios octavo	Cor* 8	C	chapter		
