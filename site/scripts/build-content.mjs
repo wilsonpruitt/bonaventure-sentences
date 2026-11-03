@@ -863,6 +863,13 @@ const WORKS = {
       // the unnumbered *Hortatur eos primo* (the chunk's title_la, the lower heading in
       // reading order: rulings 79(b) / 92). Unanchored. The index gives 446 for *Vers. 1-11*.
       15: "Capitulum XV",
+      // `CAPITULUM XVI.` read in place on p. 454 at bon-ioan-c16-v1-4: full-measure
+      // centred small capitals at ~0.65, a shared verso, below Cap. XV's ¶ 40 (…quam
+      // hominibus ».). NO bold heading stands under it: `1. (Vers. 1.). Haec locutus sum
+      // vobis etc.` follows across both columns' two-line tails, so title_la is ruling
+      // 17 / 79(a)'s first sentence after the lemma, to the full stop (ruling 92).
+      // Unanchored. The index gives 454 for *Vers. 1-4*.
+      16: "Capitulum XVI",
     },
   },
 };

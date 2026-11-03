@@ -26896,7 +26896,7 @@ bon-ioan-c15-v18-27	6	apparatus:p453-11	p453-11	scripture	apparatus-explicit	Mat
 bon-ioan-c15-v18-27	6	apparatus:p453-11	p453-11	scripture	apparatus-explicit	Ps. 36, 12	Ps 36:12	A	verse		
 bon-ioan-c15-v18-27	6	apparatus:p453-12	p453-12	scripture	apparatus-explicit	Ioan. 8, 19	Ioan 8:19	A	verse		
 bon-ioan-c15-v18-27	6	apparatus:p454-1	p454-1	scripture	apparatus-explicit	Luc. 12, 47	Luc 12:47	A	verse		
-bon-ioan-c15-v18-27	6	apparatus:p454-1	p454-1	crossref	page	infra pag. 456, nota 2	tom6:p456		forward		
+bon-ioan-c15-v18-27	6	apparatus:p454-1	p454-1	crossref	page	infra pag. 456, nota 2	bon-ioan-c16-v1-4		chunk		
 bon-ioan-c15-v18-27	6	apparatus:p454-2	p454-2	crossref	logical	II. Sent. d. 22. a. 2. q. 3	bon-sent-II-d22-a2-q3		chunk		
 bon-ioan-c15-v18-27	6	apparatus:p454-3	p454-3	scripture	apparatus-explicit	Psalm. 73, 23	Ps 73:23	A	verse		
 bon-ioan-c15-v18-27	6	apparatus:p454-3	p454-3	scripture	apparatus-explicit	Matth. 12, 42	Matth 12:42	A	verse		
@@ -26908,6 +26908,38 @@ bon-ioan-c15-v18-27	6	apparatus:p454-5	p454-5	scripture	apparatus-explicit	Gen. 
 bon-ioan-c15-v18-27	6	apparatus:p454-7	p454-7	scripture	apparatus-explicit	Act. 5, 32	Act 5:32	A	verse		
 bon-ioan-c15-v18-27	6	apparatus:p454-7	p454-7	scripture	apparatus-explicit	Ioan. 16, 8	Ioan 16:8	A	verse		
 bon-ioan-c15-v18-27	6	apparatus:p454-10	p454-10	scripture	apparatus-explicit	Act. 5, 29	Act 5:29	A	verse		
+bon-ioan-c16-v1-4	6	latin_body	p455-2	scripture	body-ordinal	Actuum octavo	Act 8:1	B	verse		
+bon-ioan-c16-v1-4	6	latin_body	p455-3	scripture	body-ordinal	Actuum nono	Act 9:2	B	verse		
+bon-ioan-c16-v1-4	6	latin_body	p455-4	scripture	body-ordinal	ad Timotheum primo	Tim* 1:13	B	verse		
+bon-ioan-c16-v1-4	6	latin_body	p455-6	scripture	body-ordinal	Deuteronomii octavo	Deut 8:11	B	verse		
+bon-ioan-c16-v1-4	6	latin_body	p455-7	scripture	body-ordinal	Matthaei vigesimo sexto	Matth 26:75	B	verse		
+bon-ioan-c16-v1-4	6	latin_body	p455-8	scripture	body-ordinal	Matthaei vigesimo primo	Matth 21:38	B	verse		
+bon-ioan-c16-v1-4	6	latin_body	p455-10	scripture	body-ordinal	Actuum tertio	Act 3:17	B	verse		
+bon-ioan-c16-v1-4	6	latin_body	p455-11	scripture	body-ordinal	ad Corinthios secundo	Cor* 2:8	B	verse		
+bon-ioan-c16-v1-4	6	apparatus:p455-5	p455-5	scripture	apparatus-explicit	Ps. 41, 9	Ps 41:9	A	verse		
+bon-ioan-c16-v1-4	6	apparatus:p455-7	p455-7	scripture	apparatus-explicit	Ps. 21, 28	Ps 21:28	A	verse		
+bon-ioan-c16-v1-4	6	apparatus:p455-12	p455-12	scripture	apparatus-explicit	Act. 3, 17	Act 3:17	A	verse		
+bon-ioan-c16-v1-4	6	apparatus:p455-12	p455-12	crossref	page	tom. III. pag. 394	bon-sent-III-d18-dubia		chunk		
+bon-ioan-c16-v1-4	6	apparatus:p455-12	p455-12	crossref	logical	II. Sent. d. 40. dub. 3.	bon-sent-II-d40-dubia		chunk		
+bon-ioan-c16-v1-4	6	apparatus:p456-1	p456-1	scripture	apparatus-explicit	Matth. 11, 21	Matth 11:21	A	verse		
+bon-ioan-c16-v1-4	6	apparatus:p456-1	p456-1	scripture	apparatus-explicit	Luc. 10, 13	Luc 10:13	A	verse		
+bon-ioan-c16-v1-4	6	apparatus:p456-2	p456-2	crossref	logical	II. Sent. d. 43. a. 2. q. 1.	bon-sent-II-d43-a2-q1		chunk		
+bon-ioan-c16-v1-4	6	apparatus:p456-2	p456-2	crossref	page	supra pag. 454, nota 4	bon-ioan-c15-v18-27+bon-ioan-c16-v1-4		page-multi		
+bon-ioan-c16-v1-4	6	apparatus:p456-4	p456-4	scripture	apparatus-explicit	Exod. 14, 21	Exod 14:21	A	verse		
+bon-ioan-c16-v1-4	6	apparatus:p456-4	p456-4	scripture	apparatus-explicit	Iosue 3, 13	Ios 3:13	A	verse		
+bon-ioan-c16-v1-4	6	apparatus:p456-4	p456-4	scripture	apparatus-explicit	Exod. 16, 35	Exod 16:35	A	verse		
+bon-ioan-c16-v1-4	6	apparatus:p456-4	p456-4	scripture	apparatus-explicit	III. Reg. 17, 21	3Reg 17:21	A	verse		
+bon-ioan-c16-v1-4	6	apparatus:p456-4	p456-4	scripture	apparatus-explicit	IV. Reg. 4, 32	4Reg 4:32	A	verse		
+bon-ioan-c16-v1-4	6	apparatus:p456-6	p456-6	scripture	apparatus-explicit	Ier. 31, 22	Ierem 31:22	A	verse		
+bon-ioan-c16-v1-4	6	apparatus:p456-13	p456-13	scripture	apparatus-explicit	Psalm. 10, 6	Ps 10:6	A	verse		
+bon-ioan-c16-v1-4	6	apparatus:p456-13	p456-13	crossref	logical	II. Sent. d. 35. a. 1. q. 3.	bon-sent-II-d35-a1-q3		chunk		
+bon-ioan-c16-v1-4	6	apparatus:p457-1	p457-1	scripture	apparatus-explicit	Ps. 73, 23	Ps 73:23	A	verse		
+bon-ioan-c16-v1-4	6	apparatus:p457-1	p457-1	crossref	logical	II. Sent. d. 5. dub. 1	bon-sent-II-d5-dubia		chunk		
+bon-ioan-c16-v1-4	6	apparatus:p457-2	p457-2	scripture	apparatus-explicit	I. Cor. 13, 12	1Cor 13:12	A	verse		
+bon-ioan-c16-v1-4	6	apparatus:p457-4	p457-4	crossref	logical	III. Sent. d. 38. q. 2	bon-sent-III-d38-a1-q2		chunk		
+bon-ioan-c16-v1-4	6	apparatus:p457-4	p457-4	crossref	page	tom. I. pag. 32, nota 6	bon-sent-I-d1-a1-q1+bon-sent-I-d1-a1-q2		page-multi		
+bon-ioan-c16-v1-4	6	apparatus:p457-5	p457-5	crossref	logical	II. Sent. d. 36. dub. 5	bon-sent-II-d36-dubia		chunk		
+bon-ioan-c16-v1-4	6	apparatus:p457-6	p457-6	crossref	logical	I. Sent. d. 47. q. 4.	bon-sent-I-d47-a1-q4		chunk		
 bon-ioan-c2-v1-11	6	latin_body	p269-5	scripture	body-ordinal	Lucae primo	Luc 1:39	B	verse		
 bon-ioan-c2-v1-11	6	latin_body		scripture	body-ordinal	Lucae decimo quarto	Luc 14	C	chapter		
 bon-ioan-c2-v1-11	6	latin_body		scripture	body-ordinal	ad Corinthios octavo	Cor* 8	C	chapter		
