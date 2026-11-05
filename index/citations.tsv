@@ -27261,6 +27261,26 @@ bon-ioan-c18-v24-27	6	apparatus:p486-3	p486-3	scripture	apparatus-explicit	Isai.
 bon-ioan-c18-v24-27	6	apparatus:p486-3	p486-3	scripture	apparatus-explicit	Matth. 26, 74	Matth 26:74	A	verse		
 bon-ioan-c18-v24-27	6	apparatus:p486-3	p486-3	scripture	apparatus-explicit	Luc. 22, 60	Luc 22:60	A	verse		
 bon-ioan-c18-v24-27	6	apparatus:p486-3	p486-3	scripture	apparatus-explicit	Ioan. 18, 27	Ioan 18:27	A	verse		
+bon-ioan-c18-v28-32	6	latin_body		scripture	body-ordinal	Numerorum nono	Num 9	C	chapter		
+bon-ioan-c18-v28-32	6	latin_body	p486-10	scripture	body-ordinal	Actuum vigesimo quinto	Act 25:16	B	verse		
+bon-ioan-c18-v28-32	6	latin_body	p487-1	scripture	body-ordinal	Exodi vigesimo tertio	Exod 23:7	B	verse		
+bon-ioan-c18-v28-32	6	latin_body		scripture	body-ordinal	Iob trigesimo sexto	Iob 36	C	chapter		
+bon-ioan-c18-v28-32	6	latin_body	p487-2	scripture	body-ordinal	Exodi vigesimo secundo	Exod 22:18	B	verse		
+bon-ioan-c18-v28-32	6	latin_body		scripture	body-ordinal	Actuum septimo	Act 7	C	chapter		
+bon-ioan-c18-v28-32	6	latin_body		scripture	body-ordinal	Matthaei vigesimo	Matth 20	C	chapter		
+bon-ioan-c18-v28-32	6	apparatus:p486-9	p486-9	scripture	apparatus-explicit	Num. 9, 6	Num 9:6	A	verse		
+bon-ioan-c18-v28-32	6	apparatus:p487-1	p487-1	scripture	apparatus-explicit	Ps. 34, 12	Ps 34:12	A	verse		
+bon-ioan-c18-v28-32	6	apparatus:p487-1	p487-1	scripture	apparatus-explicit	Iob 36, 17	Iob 36:17	A	verse		
+bon-ioan-c18-v28-32	6	apparatus:p487-3	p487-3	scripture	apparatus-explicit	Matth. 26, 66	Matth 26:66	A	verse		
+bon-ioan-c18-v28-32	6	apparatus:p487-3	p487-3	scripture	apparatus-explicit	Act. 7, 52	Act 7:52	A	verse		
+bon-ioan-c18-v28-32	6	apparatus:p487-4	p487-4	scripture	apparatus-explicit	Matth. 20, 18	Matth 20:18	A	verse		
+bon-ioan-c18-v28-32	6	apparatus:p487-5	p487-5	scripture	anaphor->apparatus-explicit	ibid.	Matth 20:18	A	verse	yes	Matth. 20, 18
+bon-ioan-c18-v28-32	6	apparatus:p487-7	p487-7	crossref	page	supra pag. 486, nota 8	bon-ioan-c18-v24-27+bon-ioan-c18-v28-32		page-multi		
+bon-ioan-c18-v28-32	6	apparatus:p487-9	p487-9	crossref	page	supra pag. 426, nota 11	bon-ioan-c13-v1-11		chunk		
+bon-ioan-c18-v28-32	6	apparatus:p487-10	p487-10	crossref	page	supra pag. 425	bon-ioan-c13-v1-11		chunk		
+bon-ioan-c18-v28-32	6	apparatus:p488-1	p488-1	scripture	apparatus-explicit	Num. 35, 19	Num 35:19	A	verse		
+bon-ioan-c18-v28-32	6	apparatus:p488-1	p488-1	scripture	apparatus-explicit	Deut. 13, 5	Deut 13:5	A	verse		
+bon-ioan-c18-v28-32	6	apparatus:p488-3	p488-3	crossref	page	supra pag. 484, nota 2	bon-ioan-c18-v13-23		chunk		
 bon-ioan-c18-v4-12	6	latin_body	p479-5	scripture	body-ordinal	Ecclesiastici vigesimo tertio	Eccli 23:28	B	verse		
 bon-ioan-c18-v4-12	6	latin_body	p479-6	scripture	body-ordinal	Isaiae quinquagesimo tertio	Isai 53:7	B	verse		
 bon-ioan-c18-v4-12	6	latin_body	p479-9	scripture	body-ordinal	Iob vigesimo sexto	Iob 26:14	B	verse		

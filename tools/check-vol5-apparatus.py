@@ -4415,8 +4415,14 @@ KNOWN_TOTALS_VOL6 = {
              # L 1-8 / R 9, n.9 (Comestor) a PAGE-crossing runover onto p. 486's LEFT block head.
              # Recto. Gutter 890 / 887.
     486: 10, # bon-ioan-c18-v24-27 owns nn.1-3 (¶ 50, Quaest. IV): anchors L 1-3; blocks L (485 n.9
-             # tail) 1-2 head / R 2 tail-10, GUTTER runover n.2. nn.4-10 PENDING (¶ 51 on, Adducunt
-             # ergo Iesum etc., HEADLESS at ~0.29 of the LEFT column; n.4 at Pilato). Verso. Gutter 1164 / 1164.
+             # tail) 1-2 head / R 2 tail-10, GUTTER runover n.2. bon-ioan-c18-v28-32 owns nn.4-10 (¶¶ 51-53,
+             # Adducunt ergo Iesum etc., HEADLESS at ~0.29 of the LEFT column; n.4 at Pilato): anchors L 4-6 /
+             # R 7-10, all printed in the R block below n.3, no runover. Verso. Gutter 1164 / 1164 (1165 below ¶ 51).
+    487: 10, # bon-ioan-c18-v28-32 owns ALL (¶¶ 53-59, Quaest. I-III): anchors L 1-4 / R 5-10; blocks
+             # L 1-8 head / R 8 tail-10, GUTTER runover n.8 (Chrysostom hom. 83). Recto. Gutter 889 / 893.
+    488: 13, # bon-ioan-c18-v28-32 owns nn.1-3 (¶ 60, Quaest. IV): anchors L 1-3; blocks L 1-7 head /
+             # R 7 tail-13. nn.4-13 PENDING (¶ 61 on, Introivit ergo iterum etc., HEADLESS at ~0.18 of
+             # the LEFT column; n.4 at Pilato). Verso. Gutter 1158 / 1159.
 }
 
 KNOWN_TOTALS_BY_VOL = {
