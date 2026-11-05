@@ -27783,6 +27783,20 @@ bon-ioan-c21-v1-8	6	apparatus:p520-10	p520-10	scripture	apparatus-explicit	Ioan.
 bon-ioan-c21-v1-8	6	apparatus:p521-1	p521-1	scripture	apparatus-explicit	Matth. 4, 19	Matth 4:19	A	verse		
 bon-ioan-c21-v1-8	6	apparatus:p521-7	p521-7	crossref	page	supra pag. 460, nota 10	bon-ioan-c16-v5-15		chunk		
 bon-ioan-c21-v1-8	6	apparatus:p521-8	p521-8	crossref	page	supra pag. 519, nota 5	bon-ioan-c21-v1-8		chunk		
+bon-ioan-c21-v15-17	6	latin_body	p525-1	scripture	body-ordinal	Ecclesiastici sexto	Eccli 6:10	B	verse		
+bon-ioan-c21-v15-17	6	latin_body		scripture	body-ordinal	Ioannis decimo	Ioan 10	C	chapter		
+bon-ioan-c21-v15-17	6	latin_body	p525-6	scripture	body-ordinal	Petri quinto	Petr* 5:1	B	verse		
+bon-ioan-c21-v15-17	6	latin_body	p525-12	scripture	body-ordinal	Ieremiae decimo septimo	Ierem 17:10	B	verse		
+bon-ioan-c21-v15-17	6	latin_body	p526-1	scripture	body-ordinal	Ezechielis trigesimo quarto	Ezech 34:2	B	verse		
+bon-ioan-c21-v15-17	6	apparatus:p525-2	p525-2	scripture	apparatus-explicit	Ioan. 10, 11	Ioan 10:11	A	verse		
+bon-ioan-c21-v15-17	6	apparatus:p525-4	p525-4	scripture	apparatus-explicit	Ier. 17, 16	Ierem 17:16	A	verse		
+bon-ioan-c21-v15-17	6	apparatus:p525-7	p525-7	scripture	anaphor->apparatus-explicit	ibid.	Ierem 17:16	A	verse	yes	Ier. 17, 16
+bon-ioan-c21-v15-17	6	apparatus:p525-8	p525-8	scripture	apparatus-explicit	Hebr. 4, 13	Hebr 4:13	A	verse		
+bon-ioan-c21-v15-17	6	apparatus:p525-9	p525-9	scripture	apparatus-explicit	Ps. 77, 72	Ps 77:72	A	verse		
+bon-ioan-c21-v15-17	6	apparatus:p525-11	p525-11	scripture	apparatus-explicit	Ioan. 13, 37	Ioan 13:37	A	verse		
+bon-ioan-c21-v15-17	6	apparatus:p526-7	p526-7	scripture	apparatus-explicit	Marc. 14, 29	Marc 14:29	A	verse		
+bon-ioan-c21-v15-17	6	apparatus:p526-7	p526-7	crossref	page	supra pag. 525, nota 11	bon-ioan-c21-v15-17		chunk		
+bon-ioan-c21-v15-17	6	apparatus:p526-11	p526-11	crossref	page	supra pag. 525, nota 13	bon-ioan-c21-v15-17		chunk		
 bon-ioan-c21-v9-14	6	latin_body	p522-4	scripture	body-ordinal	Matthaei vigesimo secundo	Matth 22:4	B	verse		
 bon-ioan-c21-v9-14	6	latin_body	p522-6	scripture	body-ordinal	Matthaei undecimo	Matth 11:11	B	verse		
 bon-ioan-c21-v9-14	6	latin_body	p522-7	scripture	body-ordinal	Lucae quinto	Luc 5:6	B	verse		

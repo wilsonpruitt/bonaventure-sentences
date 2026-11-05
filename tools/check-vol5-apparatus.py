@@ -4555,8 +4555,15 @@ KNOWN_TOTALS_VOL6 = {
              # 7-10 (nn.5-6 anchor RIGHT, print LEFT), no runover. Recto. Gutter 878.
     524: 11, # bon-ioan-c21-v9-14 owns nn.1-7 (QUAESTIONES in-column at the head of L, ¶¶ 26-29, Quaest.
              # I-IV; anchors L 1-5 / R 6-7); ¶ 30 Cum ergo prandissent follows HEADLESS at ~0.18 R (the
-             # next pericope, Vers. 15-17); nn.8-11 PENDING (the next chunk). Blocks L 1-5 head / R 5
-             # tail-11; n.5 a GUTTER runover (origi-/nalis). Verso. Gutter 1154.
+             # next pericope, Vers. 15-17); nn.8-11 are bon-ioan-c21-v15-17's (¶ 30: confirmatio⁸,
+             # ibi⁹, ibi¹⁰, igitur¹¹, all R), closed. Blocks L 1-5 head / R 5 tail-11; n.5 a GUTTER
+             # runover (origi-/nalis). Verso. Gutter 1154.
+    525: 13, # bon-ioan-c21-v15-17 owns ALL (¶¶ 30 tail-35): anchors L 1-6 / R 7-13; blocks L 1-10
+             # head / R 10 tail-13; n.10 a GUTTER runover (al-/legatur). Recto. Gutter 905.
+    526: 12, # bon-ioan-c21-v15-17 owns nn.1-11 (¶ 35's Notandum tail; QUAESTIONES in-column at
+             # ~0.11 L, ¶¶ 36-40; anchors L 1-7 / R 8-11); ¶ 41 Amen, amen dico tibi follows HEADLESS
+             # at ~0.38 R (the next pericope, Vers. 18-23); n.12 PENDING (invitatio¹², R). Blocks
+             # L 1-7 / R 8-12, no runover. Verso. Gutter 1121.
 }
 
 KNOWN_TOTALS_BY_VOL = {
