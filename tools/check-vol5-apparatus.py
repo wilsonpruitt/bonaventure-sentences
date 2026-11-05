@@ -4525,6 +4525,17 @@ KNOWN_TOTALS_VOL6 = {
              # notantur duo. stands over ¶ 55 Et post dies octo; n.9 PENDING (the next pericope,
              # at Thomae). Blocks L 1-4 head / R 4 tail-9; n.4 a GUTTER runover (remit-/tuntur).
              # Recto. Gutter 881 (region above the heading).
+             # bon-ioan-c20-v26-31 owns n.9 (¶ 55, Thomae, R; Cfr. supra n. 36.). Gutter 881
+             # for the region below the heading too. CLOSED.
+    516: 14, # bon-ioan-c20-v26-31 owns ALL (¶¶ 55-62): anchors L 1-6 / R 7-14; blocks L 1-7 head /
+             # R 7 tail-14; n.7 a GUTTER runover (Dicendo / autem). Verso. Gutter 1171.
+    517: 8,  # bon-ioan-c20-v26-31 owns ALL (¶¶ 62-64, QUAESTIONES at ~0.38 L, Quaest. I-II): anchors
+             # L 1-4 / R 5-8; blocks L 1-6 head / R 6 tail-8; n.6 a GUTTER runover (Quaeren-/dum).
+             # Recto. Gutter 896.
+    518: 11, # bon-ioan-c20-v26-31 owns ALL (¶¶ 64-68, Quaest. II-V): anchors L 1-5 / R 6-11; blocks
+             # L 1-6 head / R 6 tail-11; n.6 a GUTTER runover (sed / per hoc); n.11 a PAGE runover,
+             # completed at the head of p. 519's LEFT block (Christum? / Sed ille). Capitulum XX
+             # closes at ~0.55 R on tangere¹¹ »; p. 519 opens on Capitulum XXI. Verso. Gutter 1145.
 }
 
 KNOWN_TOTALS_BY_VOL = {
