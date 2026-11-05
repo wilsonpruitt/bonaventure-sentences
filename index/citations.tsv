@@ -27087,6 +27087,51 @@ bon-ioan-c17-v1-5	6	apparatus:p469-9	p469-9	crossref	page	supra pag. 332, nota 3
 bon-ioan-c17-v1-5	6	apparatus:p469-11	p469-11	crossref	page	supra pag. 442, nota 1	bon-ioan-c14-v15-24		chunk		
 bon-ioan-c17-v1-5	6	apparatus:p469-11	p469-11	scripture	apparatus-explicit	I. Cor. 13, 12	1Cor 13:12	A	verse		
 bon-ioan-c17-v1-5	6	apparatus:p469-11	p469-11	crossref	logical	IV. Sent. d. 49. p. I. q. 5.	bon-sent-IV-d49-p1-a1-q5		chunk		
+bon-ioan-c17-v12-19	6	latin_body		scripture	body-ordinal	Regum vigesimo	Reg* 20	C	chapter		
+bon-ioan-c17-v12-19	6	latin_body		scripture	body-ordinal	Deuteronomii trigesimo secundo	Deut 32	C	chapter		
+bon-ioan-c17-v12-19	6	latin_body	p472-8	scripture	body-ordinal	Matthaei vigesimo septimo	Matth 27:5	B	verse		
+bon-ioan-c17-v12-19	6	latin_body		scripture	body-ordinal	Matthaei vigesimo sexto	Matth 26	C	chapter		
+bon-ioan-c17-v12-19	6	latin_body		scripture	body-ordinal	ad Thessalonicenses secundo	Thess* 2	C	chapter		
+bon-ioan-c17-v12-19	6	latin_body		scripture	body-ordinal	ad Romanos primo	Rom 1	C	chapter		
+bon-ioan-c17-v12-19	6	latin_body	p473-1	scripture	body-ordinal	Genesis quinto	Gen 5:24	B	verse		
+bon-ioan-c17-v12-19	6	latin_body		scripture	body-ordinal	Sapientiae quarto	Sap 4	C	chapter		
+bon-ioan-c17-v12-19	6	latin_body		scripture	body-ordinal	Apocalypsis tertio	Apoc 3	C	chapter		
+bon-ioan-c17-v12-19	6	latin_body		scripture	body-ordinal	ad Ephesios quinto	Eph 5	C	chapter		
+bon-ioan-c17-v12-19	6	latin_body		scripture	body-ordinal	ad Timotheum secundo	Tim* 2	C	chapter		
+bon-ioan-c17-v12-19	6	latin_body		scripture	body-ordinal	Matthaei decimo	Matth 10	C	chapter		
+bon-ioan-c17-v12-19	6	latin_body		scripture	body-ordinal	ad Romanos duodecimo	Rom 12	C	chapter		
+bon-ioan-c17-v12-19	6	latin_body		scripture	body-ordinal	ad Hebraeos nono	Hebr 9	C	chapter		
+bon-ioan-c17-v12-19	6	apparatus:p472-5	p472-5	scripture	apparatus-explicit	III. Reg. 20, 39	3Reg 20:39	A	verse		
+bon-ioan-c17-v12-19	6	apparatus:p472-6	p472-6	scripture	apparatus-explicit	Psalm. 120, 4	Ps 120:4	A	verse		
+bon-ioan-c17-v12-19	6	apparatus:p472-6	p472-6	scripture	apparatus-explicit	Ps. 126, 1	Ps 126:1	A	verse		
+bon-ioan-c17-v12-19	6	apparatus:p472-6	p472-6	scripture	apparatus-explicit	Deut. 32, 10	Deut 32:10	A	verse		
+bon-ioan-c17-v12-19	6	apparatus:p472-8	p472-8	scripture	apparatus-explicit	Matth. 26, 24	Matth 26:24	A	verse		
+bon-ioan-c17-v12-19	6	apparatus:p472-8	p472-8	scripture	apparatus-explicit	II. Thess. 2, 3	2Thess 2:3	A	verse		
+bon-ioan-c17-v12-19	6	apparatus:p472-9	p472-9	scripture	apparatus-explicit	Psalm. 108	Ps 108	C	chapter		
+bon-ioan-c17-v12-19	6	apparatus:p472-9	p472-9	scripture	apparatus-explicit	Act. 1, 20	Act 1:20	A	verse		
+bon-ioan-c17-v12-19	6	apparatus:p472-10	p472-10	scripture	apparatus-explicit	Ioan. 16, 24	Ioan 16:24	A	verse		
+bon-ioan-c17-v12-19	6	apparatus:p472-13	p472-13	scripture	apparatus-explicit	Rom. 1, 1	Rom 1:1	A	verse		
+bon-ioan-c17-v12-19	6	apparatus:p472-13	p472-13	scripture	apparatus-explicit	Gal. 6, 14	Gal 6:14	A	verse		
+bon-ioan-c17-v12-19	6	apparatus:p473-1	p473-1	scripture	apparatus-explicit	Sap. 4, 11	Sap 4:11	A	verse		
+bon-ioan-c17-v12-19	6	apparatus:p473-2	p473-2	scripture	apparatus-explicit	Apoc. 3, 10	Apoc 3:10	A	verse		
+bon-ioan-c17-v12-19	6	apparatus:p473-3	p473-3	scripture	apparatus-explicit	Levit. 19, 2	Lev 19:2	A	verse		
+bon-ioan-c17-v12-19	6	apparatus:p473-3	p473-3	scripture	apparatus-explicit	Phil. 3, 20	Phil 3:20	A	verse		
+bon-ioan-c17-v12-19	6	apparatus:p473-3	p473-3	scripture	anaphor->apparatus-explicit	ibid.	Phil 3:20	A	verse	yes	Phil. 3, 20
+bon-ioan-c17-v12-19	6	apparatus:p473-4	p473-4	scripture	apparatus-explicit	Ioan. 15, 3	Ioan 15:3	A	verse		
+bon-ioan-c17-v12-19	6	apparatus:p473-5	p473-5	scripture	anaphor->apparatus-explicit	ibid.	Ioan 15:3	A	verse	yes	Ioan. 15, 3
+bon-ioan-c17-v12-19	6	apparatus:p473-5	p473-5	scripture	apparatus-explicit	Eph. 5, 25	Eph 5:25	A	verse		
+bon-ioan-c17-v12-19	6	apparatus:p473-5	p473-5	scripture	apparatus-explicit	II. Tim. 2, 21	2Tim 2:21	A	verse		
+bon-ioan-c17-v12-19	6	apparatus:p473-6	p473-6	scripture	apparatus-explicit	Matth. 10, 16	Matth 10:16	A	verse		
+bon-ioan-c17-v12-19	6	apparatus:p473-7	p473-7	scripture	apparatus-explicit	Rom. 12, 1	Rom 12:1	A	verse		
+bon-ioan-c17-v12-19	6	apparatus:p473-8	p473-8	scripture	apparatus-explicit	Hebr. 9, 13	Hebr 9:13	A	verse		
+bon-ioan-c17-v12-19	6	apparatus:p473-9	p473-9	crossref	page	tom. III. pag. 12, nota 2	bon-sent-III-d1-a1-q2		chunk		
+bon-ioan-c17-v12-19	6	apparatus:p474-1	p474-1	crossref	logical	II. Sent. d. 37. a. 1. q. 2.	bon-sent-II-d37-a1-q2		chunk		
+bon-ioan-c17-v12-19	6	apparatus:p474-1	p474-1	crossref	logical	III. Sent. d. 10. a. 2. q. 2.	bon-sent-III-d10-a2-q2		chunk		
+bon-ioan-c17-v12-19	6	apparatus:p474-2	p474-2	scripture	apparatus-explicit	I. Cor. 3, 7	1Cor 3:7	A	verse		
+bon-ioan-c17-v12-19	6	apparatus:p474-3	p474-3	scripture	apparatus-explicit	Ioan. 10, 29	Ioan 10:29	A	verse		
+bon-ioan-c17-v12-19	6	apparatus:p474-4	p474-4	scripture	apparatus-explicit	Rom. 8, 29	Rom 8:29	A	verse		
+bon-ioan-c17-v12-19	6	apparatus:p474-5	p474-5	crossref	logical	III. Sent. d. 30. q. 1.	bon-sent-III-d30-a1-q1		chunk		
+bon-ioan-c17-v12-19	6	apparatus:p474-6	p474-6	crossref	logical	II. Sent. d. 26. q. 1.	bon-sent-II-d26-a1-q1		chunk		
 bon-ioan-c17-v6-11	6	latin_body	p470-6	scripture	body-ordinal	Isaiae octavo	Isai 8:18	B	verse		
 bon-ioan-c17-v6-11	6	latin_body		scripture	body-ordinal	Actuum vigesimo septimo	Act 27	C	chapter		
 bon-ioan-c17-v6-11	6	latin_body	p471-5	scripture	body-ordinal	ad Ephesios quarto	Eph 4:3	B	verse		
