@@ -4394,7 +4394,14 @@ KNOWN_TOTALS_VOL6 = {
              # Verso. Gutter 1155 / 1157.
     479: 11, # bon-ioan-c18-v1-3 owns nn.1-3 (¶¶ 8-10, Quaest. IV-VI, L). nn.4-11 PENDING (¶ 11 on, the
              # next pericope, which opens HEADLESS at ~0.42 of the LEFT column: Iesus autem, sciens).
-             # Recto. Gutter 903 / 906.
+             # Recto. Gutter 903 / 906. nn.4-11 closed at bon-ioan-c18-v4-12: anchors L 4-6 / R 7-11;
+             # blocks L 1-7 head / R 7 tail-11, GUTTER runover n.7 (c18-v4-12's). Gutter 904 below ¶ 11.
+    480: 10, # bon-ioan-c18-v4-12 (¶¶ 15-21): anchors L 1-8 / R 9-10; blocks L 1-7 head / R 7 tail-10,
+             # GUTTER runover n.7. Verso. Gutter 1147 / 1141.
+    481: 13, # bon-ioan-c18-v4-12 owns nn.1-9 (¶¶ 21-25, Quaest. I-V): anchors L 1-8 / R 9; blocks
+             # L 1-6 head / R 6 tail-13, GUTTER runover n.6 (c18-v4-12's). nn.10-13 PENDING (¶ 26 on,
+             # under the bold Secundo, de Christi condemnatione. at ~0.24 of the RIGHT column). Recto.
+             # Gutter 899 / 895.
 }
 
 KNOWN_TOTALS_BY_VOL = {

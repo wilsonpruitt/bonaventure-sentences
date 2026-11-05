@@ -27209,6 +27209,44 @@ bon-ioan-c18-v1-3	6	apparatus:p478-8	p478-8	scripture	apparatus-explicit	Luc. 22
 bon-ioan-c18-v1-3	6	apparatus:p478-10	p478-10	scripture	apparatus-explicit	Luc. 22	Luc 22	C	chapter		
 bon-ioan-c18-v1-3	6	apparatus:p478-10	p478-10	scripture	apparatus-explicit	Ioan. 18, 1	Ioan 18:1	A	verse		
 bon-ioan-c18-v1-3	6	apparatus:p478-12	p478-12	crossref	page	supra pag. 275, nota 11	bon-ioan-c2-v12-17		chunk		
+bon-ioan-c18-v4-12	6	latin_body	p479-5	scripture	body-ordinal	Ecclesiastici vigesimo tertio	Eccli 23:28	B	verse		
+bon-ioan-c18-v4-12	6	latin_body	p479-6	scripture	body-ordinal	Isaiae quinquagesimo tertio	Isai 53:7	B	verse		
+bon-ioan-c18-v4-12	6	latin_body	p479-9	scripture	body-ordinal	Iob vigesimo sexto	Iob 26:14	B	verse		
+bon-ioan-c18-v4-12	6	latin_body		scripture	body-ordinal	Isaiae sexagesimo tertio	Isai 63	C	chapter		
+bon-ioan-c18-v4-12	6	latin_body	p480-2	scripture	body-ordinal	Matthaei decimo sexto	Matth 16:25	B	verse		
+bon-ioan-c18-v4-12	6	latin_body		scripture	body-ordinal	Machabaeorum secundo	Mach* 2	C	chapter		
+bon-ioan-c18-v4-12	6	latin_body		scripture	body-ordinal	Matthaei quinto	Matth 5	C	chapter		
+bon-ioan-c18-v4-12	6	latin_body		scripture	body-ordinal	Matthaei vigesimo sexto	Matth 26	C	chapter		
+bon-ioan-c18-v4-12	6	latin_body		scripture	body-ordinal	Matthaei vigesimo	Matth 20	C	chapter		
+bon-ioan-c18-v4-12	6	latin_body		scripture	body-ordinal	ad Romanos octavo	Rom 8	C	chapter		
+bon-ioan-c18-v4-12	6	latin_body		scripture	body-ordinal	Marci decimo quarto	Marc 14	C	chapter		
+bon-ioan-c18-v4-12	6	latin_body	p481-5	scripture	body-ordinal	Lucae vigesimo secundo	Luc 22:36	B	verse		
+bon-ioan-c18-v4-12	6	latin_body	p481-7	scripture	body-ordinal	Matthaei quinto	Matth 5:39	B	verse		
+bon-ioan-c18-v4-12	6	apparatus:p479-6	p479-6	scripture	apparatus-explicit	Ps. 34, 4	Ps 34:4	A	verse		
+bon-ioan-c18-v4-12	6	apparatus:p479-8	p479-8	scripture	apparatus-explicit	Psalm. 34, 4	Ps 34:4	A	verse		
+bon-ioan-c18-v4-12	6	apparatus:p479-10	p479-10	scripture	apparatus-explicit	Luc. 24, 16	Luc 24:16	A	verse		
+bon-ioan-c18-v4-12	6	apparatus:p480-1	p480-1	scripture	apparatus-explicit	Isai. 63, 3	Isai 63:3	A	verse		
+bon-ioan-c18-v4-12	6	apparatus:p480-6	p480-6	scripture	apparatus-explicit	I. Machab. 2	1Mach 2	C	chapter		
+bon-ioan-c18-v4-12	6	apparatus:p480-7	p480-7	scripture	anaphor->apparatus-explicit	ibid.	1Mach 2	C	chapter	yes	I. Machab. 2
+bon-ioan-c18-v4-12	6	apparatus:p480-7	p480-7	scripture	apparatus-explicit	Rom. 10, 2	Rom 10:2	A	verse		
+bon-ioan-c18-v4-12	6	apparatus:p480-7	p480-7	scripture	apparatus-explicit	Luc. 22, 53	Luc 22:53	A	verse		
+bon-ioan-c18-v4-12	6	apparatus:p480-7	p480-7	scripture	apparatus-explicit	Ioan. 18, 10	Ioan 18:10	A	verse		
+bon-ioan-c18-v4-12	6	apparatus:p480-8	p480-8	crossref	page	supra pag. 275, nota 11	bon-ioan-c2-v12-17		chunk		
+bon-ioan-c18-v4-12	6	apparatus:p480-8	p480-8	scripture	apparatus-explicit	Matth. 5, 39	Matth 5:39	A	verse		
+bon-ioan-c18-v4-12	6	apparatus:p480-9	p480-9	scripture	apparatus-explicit	Matth. 26, 39	Matth 26:39	A	verse		
+bon-ioan-c18-v4-12	6	apparatus:p480-9	p480-9	scripture	apparatus-explicit	Rom. 8, 32	Rom 8:32	A	verse		
+bon-ioan-c18-v4-12	6	apparatus:p480-10	p480-10	crossref	page	supra pag. 275, nota 11	bon-ioan-c2-v12-17		chunk		
+bon-ioan-c18-v4-12	6	apparatus:p480-10	p480-10	scripture	apparatus-explicit	Matth. 26, 55	Matth 26:55	A	verse		
+bon-ioan-c18-v4-12	6	apparatus:p480-10	p480-10	scripture	apparatus-explicit	Marc. 14, 44	Marc 14:44	A	verse		
+bon-ioan-c18-v4-12	6	apparatus:p481-3	p481-3	scripture	apparatus-explicit	Matth. 10, 10	Matth 10:10	A	verse		
+bon-ioan-c18-v4-12	6	apparatus:p481-4	p481-4	crossref	page	supra pag. 275, nota 11	bon-ioan-c2-v12-17		chunk		
+bon-ioan-c18-v4-12	6	apparatus:p481-5	p481-5	scripture	apparatus-explicit	Marc. 6, 8	Marc 6:8	A	verse		
+bon-ioan-c18-v4-12	6	apparatus:p481-5	p481-5	scripture	apparatus-explicit	I. Cor. 9, 14	1Cor 9:14	A	verse		
+bon-ioan-c18-v4-12	6	apparatus:p481-6	p481-6	crossref	page	supra pag. 480, nota 8	bon-ioan-c18-v4-12		chunk		
+bon-ioan-c18-v4-12	6	apparatus:p481-6	p481-6	scripture	apparatus-explicit	Matth. 10, 10	Matth 10:10	A	verse		
+bon-ioan-c18-v4-12	6	apparatus:p481-8	p481-8	scripture	apparatus-explicit	Act. 3, 3	Act 3:3	A	verse		
+bon-ioan-c18-v4-12	6	apparatus:p481-9	p481-9	scripture	apparatus-explicit	Luc. 22, 38	Luc 22:38	A	verse		
+bon-ioan-c18-v4-12	6	apparatus:p481-9	p481-9	crossref	page	tom. V. pag. 196, nota 10	bon-qpe-q4-a3		chunk		
 bon-ioan-c2-v1-11	6	latin_body	p269-5	scripture	body-ordinal	Lucae primo	Luc 1:39	B	verse		
 bon-ioan-c2-v1-11	6	latin_body		scripture	body-ordinal	Lucae decimo quarto	Luc 14	C	chapter		
 bon-ioan-c2-v1-11	6	latin_body		scripture	body-ordinal	ad Corinthios octavo	Cor* 8	C	chapter		
