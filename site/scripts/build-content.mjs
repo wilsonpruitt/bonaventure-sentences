@@ -906,6 +906,14 @@ const WORKS = {
       // heads the LEFT column over ¶ 1 (the chunk's title_la, the lower heading: rulings
       // 79(b) / 92). John's last chapter. The index's 519 is right (ruling 82(d) not engaged).
       21: "Capitulum XXI",
+      // The work-level `SCHOLION.` read in place on the plate at bon-ioan-scholion
+      // (p. 530, full measure, letter-spaced, ~0.52 of the leaf below p. 530's
+      // register and the unanchored `Explicit.` above it; no anchor). ONE line;
+      // `Schema I.` stands directly below (division 23). Ruling 72: its own
+      // chunk, the next division after the last capitulum, on the
+      // bon-eccl-scholion (13) / bon-sap-scholion (20) precedent; the chunk
+      // title is caught type-first ("Scholion").
+      22: "Scholion",
     },
   },
 };
