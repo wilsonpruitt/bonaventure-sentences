@@ -4381,8 +4381,12 @@ KNOWN_TOTALS_VOL6 = {
              # closed. Blocks L 1-6 head / R 6 tail-11, GUTTER runover n.6 (c17-v12-19's). Verso. Gutter 1155 / 1160.
     475: 12, # bon-ioan-c17-v20-23 (¶¶ 38-42): anchors L 1-6 / R 7-12; blocks L 1-10 / R 11-12, no runover.
              # Recto. Gutter 895 / 892.
-    476: 10, # bon-ioan-c17-v20-23 owns nn.1-2 (¶ 42, L). nn.3-10 PENDING (bon-ioan-c17-v24-26, ¶ 43 on).
-             # Right block opens with n.5's tail (a gutter runover, the next chunk's). Verso. Gutter 1152 / 1160.
+    476: 10, # bon-ioan-c17-v20-23 owns nn.1-2 (¶ 42, L); bon-ioan-c17-v24-26 owns nn.3-10 (¶¶ 43-45), closed.
+             # Anchors L 1-5 / R 6-10. Blocks L 1-5 head / R 5 tail-10, GUTTER runover n.5 (c17-v24-26's).
+             # Verso. Gutter 1152 / 1156 (below the heading) / 1160.
+    477: 11, # bon-ioan-c17-v24-26 owns nn.1-8 (¶¶ 45-49, Cap. XVII's close). nn.9-11 PENDING (Cap. XVIII ¶ 1,
+             # which opens mid-leaf at ~0.37; the index gives Vers. 1-3 at 478). Anchors L 1-3 / R 4-8.
+             # Blocks L 1-5 head / R 5 tail-11, GUTTER runover n.5 (c17-v24-26's). Recto. Gutter 892 / 906.
 }
 
 KNOWN_TOTALS_BY_VOL = {

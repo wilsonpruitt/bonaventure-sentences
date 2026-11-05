@@ -27156,6 +27156,31 @@ bon-ioan-c17-v20-23	6	apparatus:p475-12	p475-12	crossref	logical	I. Sent. d. 31.
 bon-ioan-c17-v20-23	6	apparatus:p476-1	p476-1	scripture	apparatus-explicit	Luc. 6, 36	Luc 6:36	A	verse		
 bon-ioan-c17-v20-23	6	apparatus:p476-2	p476-2	scripture	apparatus-explicit	Phil. 2, 21	Phil 2:21	A	verse		
 bon-ioan-c17-v20-23	6	apparatus:p476-2	p476-2	crossref	logical	I. Sent. d. 31. p. II. a. 2. q. 2.	bon-sent-I-d31-p2-a2-q2		chunk		
+bon-ioan-c17-v24-26	6	latin_body		scripture	body-ordinal	Isaiae vigesimo sexto	Isai 26	C	chapter		
+bon-ioan-c17-v24-26	6	latin_body		scripture	body-ordinal	ad Corinthios tertio	Cor* 3	C	chapter		
+bon-ioan-c17-v24-26	6	latin_body		scripture	body-ordinal	Matthaei undecimo	Matth 11	C	chapter		
+bon-ioan-c17-v24-26	6	latin_body	p476-9	scripture	body-ordinal	ad Romanos quinto	Rom 5:5	B	verse		
+bon-ioan-c17-v24-26	6	latin_body	p476-10	scripture	body-ordinal	Ioannis quarto	Ioan 4:16	B	verse		
+bon-ioan-c17-v24-26	6	latin_body		scripture	anaphor->body-ordinal	ibid	Ioan 4:16	B	verse	yes	Ioannis quarto
+bon-ioan-c17-v24-26	6	latin_body	p477-7	scripture	body-ordinal	Ad Romanos primo	Rom 1:21	B	verse		
+bon-ioan-c17-v24-26	6	apparatus:p476-4	p476-4	scripture	apparatus-explicit	Ioan. 12, 26	Ioan 12:26	A	verse		
+bon-ioan-c17-v24-26	6	apparatus:p476-5	p476-5	scripture	anaphor->apparatus-explicit	loc. cit.	Ioan 12:26	A	verse	yes	Ioan. 12, 26
+bon-ioan-c17-v24-26	6	apparatus:p476-6	p476-6	scripture	apparatus-explicit	Isai. 26, 10	Isai 26:10	A	verse		
+bon-ioan-c17-v24-26	6	apparatus:p476-6	p476-6	scripture	apparatus-explicit	II. Cor. 3, 18	2Cor 3:18	A	verse		
+bon-ioan-c17-v24-26	6	apparatus:p476-7	p476-7	scripture	apparatus-explicit	Matth. 16, 27	Matth 16:27	A	verse		
+bon-ioan-c17-v24-26	6	apparatus:p476-7	p476-7	scripture	apparatus-explicit	Ioan. 1, 9	Ioan 1:9	A	verse		
+bon-ioan-c17-v24-26	6	apparatus:p476-8	p476-8	scripture	apparatus-explicit	Psalm. 21, 23	Ps 21:23	A	verse		
+bon-ioan-c17-v24-26	6	apparatus:p476-8	p476-8	scripture	apparatus-explicit	Matth. 11, 27	Matth 11:27	A	verse		
+bon-ioan-c17-v24-26	6	apparatus:p476-10	p476-10	scripture	anaphor->body-ordinal	ibid. v. 13	Ioan 4:13	B	verse	yes	body: Ioannis quarto
+bon-ioan-c17-v24-26	6	apparatus:p477-3	p477-3	scripture	apparatus-explicit	I. Cor. 15, 28	1Cor 15:28	A	verse		
+bon-ioan-c17-v24-26	6	apparatus:p477-3	p477-3	crossref	page	tom. IV. pag. 999, nota 1	bon-sent-IV-d49-p1-divisio+bon-sent-IV-d49-p1-littera+bon-sent-IV-d49-p2-littera		page-multi		
+bon-ioan-c17-v24-26	6	apparatus:p477-3	p477-3	crossref	page	pag. 1010, nota 3	bon-sent-IV-d49-p1-a1-q5+bon-sent-IV-d49-p1-a1-q6		page-multi		
+bon-ioan-c17-v24-26	6	apparatus:p477-5	p477-5	crossref	page	supra pag. 424, nota 3	bon-ioan-c12-v36-50+bon-ioan-c13-v1-11		page-multi		
+bon-ioan-c17-v24-26	6	apparatus:p477-6	p477-6	crossref	page	tom. I. pag. 38, nota 5	bon-sent-I-d1-a3-q1		chunk		
+bon-ioan-c17-v24-26	6	apparatus:p477-6	p477-6	crossref	page	pag. 39	bon-sent-I-d1-a3-q1+bon-sent-I-d1-a3-q2		page-multi		
+bon-ioan-c17-v24-26	6	apparatus:p477-6	p477-6	crossref	anaphor->page	ibid.	bon-sent-I-d1-a3-q1+bon-sent-I-d1-a3-q2		page-multi	yes	pag. 39
+bon-ioan-c17-v24-26	6	apparatus:p477-8	p477-8	crossref	logical	I. Sent. d. 36. dub. 3.	bon-sent-I-d36-dubia		chunk		
+bon-ioan-c17-v24-26	6	apparatus:p477-8	p477-8	crossref	chain-continuation	d. 38. dub. 3.	bon-sent-I-d38-dubia		chunk		
 bon-ioan-c17-v6-11	6	latin_body	p470-6	scripture	body-ordinal	Isaiae octavo	Isai 8:18	B	verse		
 bon-ioan-c17-v6-11	6	latin_body		scripture	body-ordinal	Actuum vigesimo septimo	Act 27	C	chapter		
 bon-ioan-c17-v6-11	6	latin_body	p471-5	scripture	body-ordinal	ad Ephesios quarto	Eph 4:3	B	verse		
