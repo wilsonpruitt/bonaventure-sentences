@@ -4497,6 +4497,20 @@ KNOWN_TOTALS_VOL6 = {
              # at ~0.47 L on credidit, the printed Secundo, de manifestatione resurrectionis. stands
              # over ¶ 17 Abierunt ergo in the same column; nn.6-13 PENDING (the next pericope,
              # n.6 at ergo). Blocks L 1-9 head / R 9 tail-13. Recto. Gutter 867 (region above).
+             # bon-ioan-c20-v10-18 owns nn.6-13 (¶¶ 17-19): anchors L 6-7 / R 8-13; n.9 a GUTTER
+             # runover (ubi ha-/bitabant). Gutter 874 for the region below the heading. CLOSED.
+    508: 12, # bon-ioan-c20-v10-18 owns ALL (¶¶ 19-23): anchors L 1-5 / R 6-12; blocks L 1-4 head /
+             # R 4 tail-12; n.4 a GUTTER runover (Quia tulerunt). Verso. Gutter 1166.
+    509: 11, # bon-ioan-c20-v10-18 owns ALL (¶¶ 24-26): anchors L 1-7 / R 8-11; blocks L 1-8 head /
+             # R 8 tail-11; n.8 a GUTTER runover (cum subinfer-/tur). Recto. Gutter 897.
+    510: 15, # bon-ioan-c20-v10-18 owns ALL (¶¶ 26-31, QUAESTIONES at ~0.40 L, Quaest. I-IV): anchors
+             # L 1-7 / R 8-15; blocks L 1-9 / R 10-15; n.15 a PAGE runover, completed at the head of
+             # p. 511's LEFT block (tanquam / tunc Petrus). Verso. Gutter 1141.
+    511: 14, # bon-ioan-c20-v10-18 owns nn.1-13 (¶¶ 31-35, Quaest. IV-VIII): anchors L 1-7 / R 8-13;
+             # Quaest. VIII closes at ~0.52 R on bonis (n.13, the 3 printing open, like a 5); the
+             # printed Secundo, de manifestatione facta discipulis. stands over ¶ 36 Cum ergo esset
+             # sero; n.14 PENDING (the next pericope, at discipulis). Blocks L p510 n.15 tail, 1-8 /
+             # R 9-14. Recto. Gutter 883 (region above the heading).
 }
 
 KNOWN_TOTALS_BY_VOL = {
