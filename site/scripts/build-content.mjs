@@ -886,6 +886,12 @@ const WORKS = {
       // heading: rulings 79(b) / 92). Unanchored. The index gives 478 for *Vers. 1-3*, the
       // page of ¶ 2's (Vers. 1.) (ruling 82(d)).
       18: "Capitulum XVIII",
+      // bon-ioan-c19-v1-16: CAPITULUM XIX. read in place on p. 490 — full-measure centred
+      // small capitals at ~0.24, a shared verso, below Cap. XVIII's ¶ 73 (…auctorem vero
+      // vitae interfecistis ».), unanchored, with NO stacked heading under it (¶ 1 Tunc
+      // apprehendit eum etc. follows directly in the LEFT column). The index's 490 is right
+      // (ruling 82(d) not engaged).
+      19: "Capitulum XIX",
     },
   },
 };

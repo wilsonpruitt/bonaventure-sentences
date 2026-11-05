@@ -4432,7 +4432,24 @@ KNOWN_TOTALS_VOL6 = {
              # anchors L 1-2 / R 3-4; all four print whole in the L block, no runover. CAPITULUM XIX.
              # stands full measure at ~0.24 below ¶ 73; nn.5-12 PENDING (Cap. XIX ¶ 1 on, Tunc
              # apprehendit eum etc.; n.5 at Tunc). Blocks L 1-6 / R 7-12. Verso. Gutter 1129 (body
-             # above the heading) / 1137 (register).
+             # above the heading) / 1137 (register). bon-ioan-c19-v1-16 owns nn.5-12 (Cap. XIX ¶¶ 1-4):
+             # anchors L 5-9 / R 10-12; blocks L 1-6 / R 7-12, all whole, no runover. Gutter 1137
+             # (body below the heading).
+    491: 13, # bon-ioan-c19-v1-16 owns ALL (¶¶ 4-11): anchors L 1-6 / R 7-13; blocks L 1-6 head /
+             # R 6 tail-13; n.6 a GUTTER runover, n.13 a PAGE runover (B. Albert., completes at the
+             # head of p. 492's L block). Recto. Gutter 881.
+    492: 7,  # bon-ioan-c19-v1-16 owns ALL (¶¶ 11-14 and the (Vers. 13.) paragraph): anchors L 1-3 /
+             # R 4-7; blocks L (p.491 n.13 tail) 1-2 / R 3-7; n.7 a PAGE runover (Glossa interlin. +
+             # B. Albert., completes at the head of p. 493's L block). Verso. Gutter 1139.
+    493: 13, # bon-ioan-c19-v1-16 owns ALL (¶¶ 14-18, QUAESTIONES, Quaest. I): anchors L 1-5 / R 6-13;
+             # blocks L (p.492 n.7 tail) 1-2 / R 3-13, no new runover. Recto. Gutter 913.
+    494: 14, # bon-ioan-c19-v1-16 owns ALL (¶¶ 19-25, Quaest. II-VIII): anchors L 1-7 / R 8-14;
+             # blocks L 1-7 head / R 7 tail-14; n.7 a GUTTER runover (Chrysost. hom. 84). Verso.
+             # Gutter 1118.
+    495: 10, # bon-ioan-c19-v1-16 owns nn.1-4 (¶¶ 25-26, Quaest. VIII-IX): anchors L 1-4; blocks
+             # L 1-2 / R 3-10. The printed heading Tertio, de Christi passione notantur duo. stands
+             # in the LEFT column at ~0.36 over ¶ 27 (Susceperunt autem Iesum); nn.5-10 PENDING (the
+             # next pericope, n.5 at supra). Recto. Gutter 895.
 }
 
 KNOWN_TOTALS_BY_VOL = {
