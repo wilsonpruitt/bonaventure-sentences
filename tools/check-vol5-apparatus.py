@@ -4548,7 +4548,15 @@ KNOWN_TOTALS_VOL6 = {
              # runover. Recto. Gutter 877 (band 854-901, island 874-881).
     522: 8,  # bon-ioan-c21-v1-8 owns nn.1-2 (¶ 17 Quaest. V's reply, five lines at the head of L:
              # Chrysostomus¹, sollicitior²); ¶ 18 Ut ergo descenderunt in terram follows HEADLESS
-             # (the next pericope, Vers. 9-14); nn.3-8 PENDING (the next chunk). Verso. Gutter 1159.
+             # (the next pericope, Vers. 9-14); nn.3-8 are bon-ioan-c21-v9-14's (¶¶ 18-21: illuminatio³,
+             # secundo⁴ L; autem⁵, undecimo⁶, quinto⁷, numerali⁸ R), closed. Blocks L 1-6 head / R 6
+             # tail-8; n.6 a GUTTER runover (mandatis / istis). Verso. Gutter 1159 (head strip), 1165 below.
+    523: 10, # bon-ioan-c21-v9-14 owns ALL (¶¶ 21 tail-25): anchors L 1-4 / R 5-10; blocks L 1-6 / R
+             # 7-10 (nn.5-6 anchor RIGHT, print LEFT), no runover. Recto. Gutter 878.
+    524: 11, # bon-ioan-c21-v9-14 owns nn.1-7 (QUAESTIONES in-column at the head of L, ¶¶ 26-29, Quaest.
+             # I-IV; anchors L 1-5 / R 6-7); ¶ 30 Cum ergo prandissent follows HEADLESS at ~0.18 R (the
+             # next pericope, Vers. 15-17); nn.8-11 PENDING (the next chunk). Blocks L 1-5 head / R 5
+             # tail-11; n.5 a GUTTER runover (origi-/nalis). Verso. Gutter 1154.
 }
 
 KNOWN_TOTALS_BY_VOL = {
