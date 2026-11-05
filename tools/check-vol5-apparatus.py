@@ -4572,9 +4572,14 @@ KNOWN_TOTALS_VOL6 = {
              # RIGHT, print LEFT); n.8 a GUTTER runover (Ierosolymorum / thronum). Verso. Gutter 1125.
     529: 11, # bon-ioan-c21-v18-23 owns nn.1-7 (¶ 52 tail, ¶ 53 Quaest. VI; anchors L 1-6 / R 7);
              # the centred heading Tertio, de nostrae fidei confirmatione. then ¶ 54 Hic est
-             # discipulus ille at ~0.20 R (the next pericope, Vers. 24-25); nn.8-11 PENDING (ratio⁸,
-             # ibi⁹, Chrysostomus¹⁰, scripsisse¹¹, all R). Blocks L 1-5 / R 6-11 (n.6 anchors LEFT,
-             # prints RIGHT), no runover. Recto. Gutter 893.
+             # discipulus ille at ~0.20 R (the next pericope, Vers. 24-25); nn.8-11 are
+             # bon-ioan-c21-v24-25's (ratio⁸, ibi⁹, Chrysostomus¹⁰, scripsisse¹¹, all R), closed.
+             # Blocks L 1-5 / R 6-11 (n.6 anchors LEFT, prints RIGHT), no runover. Recto. Gutter 893.
+    530: 5,  # bon-ioan-c21-v24-25 owns ALL (¶ 56 tail, QUAESTIO in-column at ~0.10 L, ¶ 57 closing
+             # on Amen⁵ at ~0.24 R, then the centred Explicit.): anchors L 1-2 / R 3-5; blocks L 1-4
+             # head / R 4 tail-5 (nn.3-4 anchor RIGHT, print LEFT); n.4 a GUTTER runover
+             # (apprehendero / intelligentiam). SCHOLION + Schema I below carry no anchor. Verso.
+             # Gutter 1152.
 }
 
 KNOWN_TOTALS_BY_VOL = {
