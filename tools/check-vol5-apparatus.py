@@ -4562,8 +4562,19 @@ KNOWN_TOTALS_VOL6 = {
              # head / R 10 tail-13; n.10 a GUTTER runover (al-/legatur). Recto. Gutter 905.
     526: 12, # bon-ioan-c21-v15-17 owns nn.1-11 (¶ 35's Notandum tail; QUAESTIONES in-column at
              # ~0.11 L, ¶¶ 36-40; anchors L 1-7 / R 8-11); ¶ 41 Amen, amen dico tibi follows HEADLESS
-             # at ~0.38 R (the next pericope, Vers. 18-23); n.12 PENDING (invitatio¹², R). Blocks
-             # L 1-7 / R 8-12, no runover. Verso. Gutter 1121.
+             # at ~0.38 R (the next pericope, Vers. 18-23); n.12 is bon-ioan-c21-v18-23's (¶ 41
+             # invitatio¹², R), closed. Blocks L 1-7 / R 8-12, no runover. Verso. Gutter 1121.
+    527: 11, # bon-ioan-c21-v18-23 owns ALL (¶¶ 42 tail-47): anchors L 1-6 / R 7-11; blocks L 1-8
+             # head / R 8 tail-11 (nn.7-8 anchor RIGHT, print LEFT); n.8 a GUTTER runover
+             # (inter-/serit). Recto. Gutter 913.
+    528: 14, # bon-ioan-c21-v18-23 owns ALL (¶ 47 tail; QUAESTIONES in-column at ~0.14 L, ¶¶ 48-52,
+             # Quaest. I-V): anchors L 1-5 / R 6-14; blocks L 1-8 head / R 8 tail-14 (nn.6-8 anchor
+             # RIGHT, print LEFT); n.8 a GUTTER runover (Ierosolymorum / thronum). Verso. Gutter 1125.
+    529: 11, # bon-ioan-c21-v18-23 owns nn.1-7 (¶ 52 tail, ¶ 53 Quaest. VI; anchors L 1-6 / R 7);
+             # the centred heading Tertio, de nostrae fidei confirmatione. then ¶ 54 Hic est
+             # discipulus ille at ~0.20 R (the next pericope, Vers. 24-25); nn.8-11 PENDING (ratio⁸,
+             # ibi⁹, Chrysostomus¹⁰, scripsisse¹¹, all R). Blocks L 1-5 / R 6-11 (n.6 anchors LEFT,
+             # prints RIGHT), no runover. Recto. Gutter 893.
 }
 
 KNOWN_TOTALS_BY_VOL = {
