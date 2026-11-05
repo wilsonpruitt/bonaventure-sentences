@@ -337,7 +337,7 @@ format_version: 1
         - through a sign
           - of authority
           - of power
-        - through the word of instruction c. 3, 1.
+        - through the word of erudition c. 3, 1.
           - the diligence of Nicodemus etc.
           - the teaching of the Lord etc.
         - through the Sacrament of regeneration c. 3, 22-36.
@@ -544,7 +544,7 @@ format_version: 1
 - ***de confirmatione nostrae fidei*** (Schema I) reverses `bon-ioan-c21-v24-25`'s heading order (*de nostrae fidei confirmatione*). Record, not normalised.
 - **Capitals as printed:** *Verbo*, *Verbi*, *Pars*, *Primo* / *Secundo* (Schema II's two first-level members, capitalised), *Doctoris*, *Sacramentum*, *Spiritus S.* (→ "the Holy Spirit"), *Filii*, *Patris*, *Apostolis*, *Pontifice*, *Scripturae*, *Matrem*, *Domini*, *Christus*, the proper names; *medici* lower-case (→ "physician", lower-case, though `bon-ioan-c11-v7-32`'s title capitalises *Medici*). *Magd.* and *Bapt.* abbreviations kept in the English.
 
-**APPARATUS — NONE, MEASURED.** No superscript anywhere in the three trees (every tile read at 1:1, suspect marks at 2.5×+); no footer register below any tree (last ink rows 2717 / 2825 / 2714 on 2985-row leaves, all tree text; p. 531's lowest mark an isolated speck). **p. 530's register stands ABOVE the Scholion and closed at 5** (`bon-ioan-c21-v24-25`), so `KNOWN_TOTALS_VOL6` is unchanged — no sixth note on p. 530, nothing for pp. 531–532. **Zero Quaracchi entries, no translator's note owed** (no *lumen*, no *vaca-*, no *doctrina* note is a ruling-53 per-chunk note in this work — *doctrina* ×3 here, see Register), hence `has_apparatus: true` and no `## Apparatus` section (the `bon-ioan-scholion` shape). **Ledger row `-`:** no footer, no runover of either kind possible; nothing forwarded to or from p. 530's register or p. 533.
+**APPARATUS — NONE, MEASURED.** No superscript anywhere in the three trees (every tile read at 1:1, suspect marks at 2.5×+); no footer register below any tree (last ink rows 2717 / 2825 / 2714 on 2985-row leaves, all tree text; p. 531's lowest mark an isolated speck). **p. 530's register stands ABOVE the Scholion and closed at 5** (`bon-ioan-c21-v24-25`), so `KNOWN_TOTALS_VOL6` is unchanged — no sixth note on p. 530, nothing for pp. 531–532. **Zero Quaracchi entries.** ⚠ *Corrected at the p. 532 work-close gate (ruling 111): this paragraph was written before the translator's note was added and said "no translator's note owed … no `## Apparatus` section"; the file has `## Apparatus` holding `tr-doctrina` (the Register bullet's *doctrina* ×4 and the note written stand), hence `has_apparatus: true`.* **Ledger row `-`:** no footer, no runover of either kind possible; nothing forwarded to or from p. 530's register or p. 533.
 
 **MARGINALIA: ZERO** (the rotated titles are display matter of the schemata, rendered as their roots).
 
@@ -567,3 +567,5 @@ Not applicable: the schemata are editorial matter, not *expositio*.
 
 ### For the p. 532 work-close gate
 Record-only items from this chunk: the two English brackets (*c. 2, 63.* locus slip; *adoptatur* letter slip); the stray point after *adducunt*; the closing brace rendered as a last child; the address disagreements listed above; *apertio latens*; the *sepulturae conditio* "condition" rendering against `c18-v1-3`'s "laying-away"; *claritatis manifestatio* → "clarity". Nothing forwarded: this is the work's last unit.
+
+**⚖ p. 532 WORK-CLOSE GATE (rulings 106–114, 2026-11-05) — English edits applied here; where a sentence above says otherwise, this supersedes it.** Schema II *per verbum eruditionis* → "the word of erudition" (ruling 93's noun rule; ruling 109). Notes APPARATUS paragraph corrected (ruling 111).

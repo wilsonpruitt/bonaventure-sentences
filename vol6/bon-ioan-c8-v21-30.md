@@ -117,15 +117,15 @@ were not all going to die »? Because of this doubt the Lord sets down the expla
 
 To this it is answered in three ways: that the Lord did not say this by revealing, but by threatening; whence below[^p362-6] he adds a condition: *unless you believe.* — Otherwise it must be said that the Lord did not say this to men who gave him faith; therefore he did not compel them to despair; whence he did not say this to believers, but to the unbelieving. — In the third way it is said that the Lord was speaking to the multitude; therefore the word was taken generally, and no one took it specially for himself[^p362-7].
 
-42. Quaest. II. Again, since *beginning* states the account of emanation, which first and principally belongs to the Father; whence is it that the Son appropriates it to himself?
+42. Quaest. II. Likewise, since *beginning* states the account of emanation, which first and principally belongs to the Father; whence is it that the Son appropriates it to himself?
 
 **I respond:** It must be said that this name *beginning* is sometimes taken *essentially,* according as it states a relation to the creature, and so the whole Trinity is called *beginning;* sometimes *notionally,* and so the Father and the Son are *one beginning* of the Holy Spirit; sometimes *personally,* and so *beginning* states the fontal emanation itself, which is found in the Father. And so Augustine says[^p362-8] that « the Father is the beginning of the Divinity ». — It must be said, then, that this name *beginning*, according as it is *essential*, is drawn to the person of the Son in two ways: in one way through *the property of generation,* and so the Son is called *beginning from beginning,* that is, begotten; in another way through *the property of the Word,* because the Son is the Word, and so it is drawn here: *The beginning, who also speak unto you*[^p362-9].
 
-43. Quaest. III. Again it is asked: since *truth* is appropriated to the Son, whence is it that the Son, speaking of the Father, attributes it to him[^p362-10]?
+43. Quaest. III. Likewise it is asked: since *truth* is appropriated to the Son, whence is it that the Son, speaking of the Father, attributes it to him[^p362-10]?
 
 It must be said that he is called *true* because he speaks true words. Because, then, the Father speaks the Son, who is the true Word, to whom truth is appropriated, *true*, by reason of the origin connoted, can rightly be appropriated to the Father[^p362-11].
 
-44. Quaest. IV. Again it is asked concerning this which he says, that *he hath not left me alone, because I do always the things that please him.* — *On the contrary:* in Matthew, the twenty-seventh chapter[^p362-12], the Son said in the passion: *My God, my God, why hast thou forsaken me?*
+44. Quaest. IV. Likewise it is asked concerning this which he says, that *he hath not left me alone, because I do always the things that please him.* — *On the contrary:* in Matthew, the twenty-seventh chapter[^p362-12], the Son said in the passion: *My God, my God, why hast thou forsaken me?*
 
 **I respond:** It must be said that there is a *forsaking of dispensation, of probation, of permission, of eternal*
 <!-- page 363 -->

@@ -1,5 +1,7 @@
 # Vol VI *Ioannem* WORK-CLOSE GATE (p. 532, ruling 76): EVIDENCE SHEET
 
+**STATUS: CLOSED 2026-11-05 — Wilson ruled "ALL AS RECOMMENDED" on §§ 1–9, the four ⚖ decisions included (Psalm ordinal ratified; *poena* → "punishment"; *Maleficos* → "Malefactors" at p. 493 n. 11; p. 477 n. 5 a speck); recorded as rulings 106–114 in `vol6-pilot-setup.md`; edits applied (English, 2 `**La.**` halves, 2 `tr-` notes, Notes records), pass 4 run, resolver jobs (§ 8) queued, not done. Where the applied counts differ from this sheet: § 1 423 English lines, not 434 + 1 (the site list has 422 distinct lines; the 754 + 1 sites are exact; chapter 2,042 with the Canticles line); § 4 *poena* 40, not ~41 (`c4-v15-27` ¶ 29 is the adjective *poenalis*, left with *poenalitas*); § 3 15 English lines for 16 items (N1 and the stop share a line) (rulings 106, 108, 109).**
+
 Compiled 2026-11-05 by a read-only agent on Wilson's go. No file under `vol*/` was edited; no tool, ledger, registry or resume note
 was touched; nothing pushed, deployed or stashed; no plate deleted. Passes 1–3 are in `manual-review/vol6-ioannem-workclose-gate-passes.md`,
 whose Appendices A and B carry the two whole-work site lists owed at John's close.

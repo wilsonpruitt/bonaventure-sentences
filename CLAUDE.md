@@ -3496,7 +3496,8 @@ Extending to Vols VI–X = adding the volume to the glob range and to `VOLUME_CO
 - *Unde...* → "Hence..." or "Whence..."
 - *Per consequens* → "consequently"
 - *Propter quod* → "on account of which"
-- *Isaiae vigesimo quarto* (ordinal Scripture citation, Vol VI *Ioannem*) → "Isaias, the twenty-fourth chapter", never the bare "the twenty-fourth" (Vol VI ruling 98)
+- *Isaiae vigesimo quarto* (ordinal Scripture citation, Vol VI *Ioannem*) → "Isaias, the twenty-fourth chapter", never the bare "the twenty-fourth" (Vol VI ruling 98; the conform run over the whole work done at the p. 532 gate, ruling 106). A Psalm number is "the Nth Psalm" (*in Psalmo secundo* → "in the second Psalm"), never "chapter" (ruling 106)
+- *poena* → "punishment"; *supplicium* → "penalty" (Vol VI rulings 20, 101, 109; *poenalitas* / *poenalis* are other words)
 - Print addresses, verbatim in both languages (Vol VI rulings 4, 73, 97): `(Vers. N.)`, `Quaest. N.`; never "(V. N.)", "(Verse N.)", "Question N"
 
 ### Key terminology (lock these consistent)

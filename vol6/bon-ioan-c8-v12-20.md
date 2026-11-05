@@ -126,18 +126,18 @@ It is to be noted that the place where the offerings were made was called *gazop
 
 27. Quaest. I. But here it is asked, first, concerning this which the Lord says: *If I give testimony of myself, my testimony is true.*
 
-**On the contrary:** Proverbs, the twenty-seventh chapter[^p359-7]: *Let another praise thee, not thy own mouth; a stranger, not thy own lips.* — Again, no one's testimony is received for himself, and the Lord said above, in the fifth chapter[^p359-8]: *If I give testimony of myself, my testimony is not true;* therefore he contradicts himself.
+**On the contrary:** Proverbs, the twenty-seventh chapter[^p359-7]: *Let another praise thee, not thy own mouth; a stranger, not thy own lips.* — Likewise, no one's testimony is received for himself, and the Lord said above, in the fifth chapter[^p359-8]: *If I give testimony of myself, my testimony is not true;* therefore he contradicts himself.
 
-Again it is asked concerning this, that the Lord endeavours to approve his testimony through the Law[^p359-9]: *that the testimony of two is true.*
+Likewise it is asked concerning this, that the Lord endeavours to approve his testimony through the Law[^p359-9]: *that the testimony of two is true.*
 
 But 1. this argument seems to be worth nothing, because in the Law, when someone testifies of himself, and another of him, they are not reckoned except as one testimony: therefore the Son, according to this, had only a single testimony.
 <!-- page 360 -->
 
-2. Again, his Father was a person most closely joined; and such a person, according to the laws[^p360-1], is not admitted to testimony.
+2. Likewise his Father was a person most closely joined; and such a person, according to the laws[^p360-1], is not admitted to testimony.
 
-3. Again, below, in the tenth chapter[^p360-2]: *I and the Father are one,* therefore they were one: not, therefore, two witnesses; or if two witnesses, the Father and the Son are not one.
+3. Likewise, below, in the tenth chapter[^p360-2]: *I and the Father are one,* therefore they were one: not, therefore, two witnesses; or if two witnesses, the Father and the Son are not one.
 
-**I respond:** It must be said that the Son of God himself is light, but every creature is darkness and can, as far as it is of itself, be obscured. Because, then, it belongs to light to manifest itself and other things, therefore light itself can give testimony of itself; but the creature, because it is darkness, needs another to manifest it[^p360-3]. Again, because he is light, he cannot be obscured nor be made oblique; therefore he can at once *judge* and *testify,* and at once also *praise* and *be praised.* But because the creature can be made oblique, it cannot and ought not to hold these two at once[^p360-4].
+**I respond:** It must be said that the Son of God himself is light, but every creature is darkness and can, as far as it is of itself, be obscured. Because, then, it belongs to light to manifest itself and other things, therefore light itself can give testimony of itself; but the creature, because it is darkness, needs another to manifest it[^p360-3]. Likewise, because he is light, he cannot be obscured nor be made oblique; therefore he can at once *judge* and *testify,* and at once also *praise* and *be praised.* But because the creature can be made oblique, it cannot and ought not to hold these two at once[^p360-4].
 
 That, then, from Proverbs is said to men who are frail and prone to vain praise. — That which was said above, in the fifth chapter, is understood of Christ according to the human nature[^p360-5].
 

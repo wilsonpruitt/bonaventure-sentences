@@ -395,7 +395,7 @@ Chrysostom responds[^p495-3] that « this was the most opprobrious death. Fearin
 
 [^p493-11]: **La.** Exod. 22, 18: Maleficos non patieris vivere.
 
-     **En.** Exod. 22:18: Wizards thou shalt not suffer to live.
+     **En.** Exod. 22:18: Malefactors thou shalt not suffer to live.
 
 [^p493-12]: **La.** Cfr. supra c. 18, 39.
 
@@ -433,9 +433,9 @@ Chrysostom responds[^p495-3] that « this was the most opprobrious death. Fearin
 
      **En.** Verse 12. — Cf. Chrysostom, *On John,* hom. 84 (otherwise 83), n. 2, where he brings forward two reasons: Christ does not respond, namely that that prophecy of Isa. 53:7 f. might be fulfilled: *He shall not open his mouth* etc.; and because Pilate deserved that he should not respond; for he had heard above, 18:37: *For this was I born, and for this came I into the world,* and (v. 36): *My kingdom is not from hence,* and though he ought to have resisted and rescued him, he had not done it, but had followed the Jewish onset etc. — The edition, with Gorran, omits *Sic et nunc* ("So also now").
 
-[^p494-8]: **La.** Rom. 13, 1: Non est enim potestas nisi a Deo Cfr. supra n. 12.
+[^p494-8]: **La.** Rom. 13, 1: Nou est enim potestas nisi a Deo Cfr. supra n. 12.
 
-     **En.** Rom. 13:1: For there is no power but from God [so printed, without a stop] Cf. above, n. 12.
+     **En.** Rom. 13:1: For there is no [so printed: *Nou* for *Non*] power but from God Cf. above, n. 12.
 
 [^p494-9]: **La.** In Ioan. homil. 84. (alias 83.) n. 2. ad obiectionem: « Atqui, si *datum* erat, neque hic neque illi obnoxii erant », respondet: « Frustra sic loqueris; hic enim *datum* pro concessum dicitur, ac si diceret: Haec fieri permisit; nec ideo tamen culpa liberi vos estis ». Cfr. II. Sent. d. 44. a. 2. q. 1.
 
@@ -547,3 +547,5 @@ The Fathers in the *Quaestiones* (Augustine ¶¶ 19, 25; Chrysostom ¶ 26) are r
 **Verification.** apparatus (`--volume vol6`) **163 chunks / 5,213 entries, all passed** (p. 495 PENDING nn. 5–10) · form check by script, Latin against English, paragraph by paragraph: `(Vers.` 16 = 16, `Quaest.` 9 = 9, anchors 59 = 59 in the same order (= the 59 defs), page comments 6 = 6, paragraphs 48 = 48, ordinal 35, *Item* 9 = "Likewise" 9 · census **vol6 163/163**, **254 runovers (236 gutter / 18 page)**, four ours, 35 negative · style scan **11 issues / 6 chunks / 2,282 scanned, zero ours** (pre-existing) · live flags none in vol6 · `validate-chunk.py` OK · citations **32,247 records (+63 ours, no inbound line moved)**, QA 210 (zero new danglers), anaphora unresolved 284 (unchanged) · index **1,807 cited / 11,101 backlinks** · build **2,281/2,281 translated**.
 
 **⭐ HAND-OFF TO THE NEXT CHUNK.** Next front **`bon-ioan-c19-v16-27`** (ruling 87: ¶ 28 prints `(Vers. 16.)` against the index's *Vers. 17-27*; verse 16 shared with this chunk's ¶ 17), `division: 19`, `section: 2`, opening at **~0.36 of p. 495 LEFT** under the printed bold heading **`Tertio, de Christi passione notantur duo.`** (its title by rulings 79(b) / 92, the heading whole, stop dropped) on `27. Susceperunt autem Iesum. Actum est supra⁵ de Christi comprehensione et condemnatione; hic agitur de ipsius passione …` (margin `Divisio.`). **p. 495 FORWARDS nn. 5–10** (`495: 10`, nn. 1–4 written): n. 5 `Cfr. c. 18. n. 1. — Superius pro Susceperunt autem Iesum codd. Susceperunt ergo milites.` (*supra*⁵ ¶ 27) · n. 6 `Vers. 28.` (*ibi*⁶, *Postea sciens Iesus*) · n. 7 `Vers. 19; tertia pars incipit v. 23. et quarta v. 25. — Inferius ed. omittit sive cupiditas.` · n. 8 `Psalm. 16, 12. — Subinde pro duxerunt Vulgata et eduxerunt. …` · n. 9 `Vers. 22; sequitur 9, 6. — Sententia August. habetur in Ioan. Evang. tr. 117. n. 3, …` · n. 10 `Vulgata locum, quae etiam inferius post Hebraice addit autem. — Hieron., IV. in Matth. 27, 33, …` (read off the 0.4× overview only — **re-derive every anchor, column and digit; n. 10 runs to the foot of the RIGHT block, so look for a page-crossing runover at p. 496's LEFT block head**). Blocks on p. 495: L 1–2 / R 3–10. Recto; gutter 895 above the heading — the region below it is fresh: profile it. Index: *Vers. 17-27 … 495 · Quaestiones … 498 · Vers. 28-37 … 499*.
+
+**⚖ p. 532 WORK-CLOSE GATE (rulings 106–114, 2026-11-05) — English edits applied here; where a sentence above says otherwise, this supersedes it.** p. 494 n. 8: the plate's turned sort restored in the Latin (`Nou est enim`) and disclosed "[so printed: *Nou* for *Non*]"; the "[so printed, without a stop]" bracket dropped, a missing stop being kept silently as elsewhere in the work (ruling 108). p. 493 n. 11 Exod. 22:18 "Wizards" → "Malefactors", conformed to `c18-v28-32` ¶¶ 55, 60 (ruling 109).

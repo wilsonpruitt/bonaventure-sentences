@@ -75,7 +75,7 @@ Sed contra hoc est Matthaei quinto[^p251-11]: « Sic luceat lux vestra coram hom
 
 #### Part II. On the Word, inasmuch as it is united to flesh, three things are set forth.
 
-17. *There was a man sent from God, whose name was John.* Above he treated of the Word according to the *excellence of the Divinity;* in this part he treats of it according to the *assumption of the humanity.* And because this assumption was made for our salvation, which was wrought through the passion and consummated through the resurrection[^p250-8]; therefore this part has three parts. In the first he treats of the *incarnation;* in the second of the *passion*, below at the end of the eleventh[^p250-9]: *The chief priests therefore gathered;* in the third of the *resurrection*, at the beginning of the twentieth chapter: *And on the first day of the week* etc.
+17. *There was a man sent from God, whose name was John.* Above he treated of the Word according to the *excellence of the Divinity;* in this part he treats of it according to the *assumption of the humanity.* And because this assumption was made for our salvation, which was wrought through the passion and consummated through the resurrection[^p250-8]; therefore this part has three parts. In the first he treats of the *incarnation;* in the second of the *passion*, below at the end of the eleventh chapter[^p250-9]: *The chief priests therefore gathered;* in the third of the *resurrection*, at the beginning of the twentieth chapter: *And on the first day of the week* etc.
 
 #### *First, of the incarnation itself, in a twofold way: first, of it considered in itself.*
 
@@ -83,13 +83,13 @@ And because the incarnation is useless to us unless it is manifested; therefore 
 
 #### On the coming of the forerunner.
 
-18. (Vers. 6.). The forerunner, then, as he comes, is described by four conditions, namely by *nature*, by *authority*, by *name*, by *office*. By *nature*, when it is said: *There was a man;* the Gloss[^p250-11]: « A man, not an Angel, as the heretics would have it ». The heretics said this on account of that saying of Malachi, the third: « Behold, I send my Angel before thy face, who shall prepare the way before thee ». But « *Angel* is there the name of an office, not of a nature[^p250-12] ». — He is described by *authority*, when it is added: *Sent from God*, not from man, not from himself; to the Romans, the tenth[^p250-13]: « How shall they preach unless they be sent »? Against which it is said of the wicked prophets, in Jeremiah,
+18. (Vers. 6.). The forerunner, then, as he comes, is described by four conditions, namely by *nature*, by *authority*, by *name*, by *office*. By *nature*, when it is said: *There was a man;* the Gloss[^p250-11]: « A man, not an Angel, as the heretics would have it ». The heretics said this on account of that saying of Malachi, the third chapter: « Behold, I send my Angel before thy face, who shall prepare the way before thee ». But « *Angel* is there the name of an office, not of a nature[^p250-12] ». — He is described by *authority*, when it is added: *Sent from God*, not from man, not from himself; to the Romans, the tenth chapter[^p250-13]: « How shall they preach unless they be sent »? Against which it is said of the wicked prophets, in Jeremiah,
 <!-- page 251 -->
-the twenty-third: « They ran, and I did not send them ». — He is described by *name*, when it is said: *Whose name was John.* This name was authentic, because it was imposed not by man, but by God; in Luke, the first[^p251-1], it was said to Zachary: « Elizabeth thy wife shall bear thee a son, and thou shalt call his name John ». — He is described by *office*, when it is subjoined:
+the twenty-third: « They ran, and I did not send them ». — He is described by *name*, when it is said: *Whose name was John.* This name was authentic, because it was imposed not by man, but by God; in Luke, the first chapter[^p251-1], it was said to Zachary: « Elizabeth thy wife shall bear thee a son, and thou shalt call his name John ». — He is described by *office*, when it is subjoined:
 
-19. (Vers. 7.). *This man came for testimony.* For his office was to testify of the lumen[^tr-lumen], not on account of a defect of lumen, but of those believing; therefore it is said: *This man came for testimony, to give testimony of the lumen, that all men might believe through him;* Acts, the nineteenth[^p251-2]: « John baptized the people with the baptism of penance, saying that they should believe in him who was to come after him »; *believe*, I say, *through him*, not *in him;* because:
+19. (Vers. 7.). *This man came for testimony.* For his office was to testify of the lumen[^tr-lumen], not on account of a defect of lumen, but of those believing; therefore it is said: *This man came for testimony, to give testimony of the lumen, that all men might believe through him;* Acts, the nineteenth chapter[^p251-2]: « John baptized the people with the baptism of penance, saying that they should believe in him who was to come after him »; *believe*, I say, *through him*, not *in him;* because:
 
-20. (Vers. 8.). *He was not the light*, in which one is to believe; *but was to give testimony of the lumen;* which he also did; below in the fifth[^p251-3]: « You sent to John, and he gave testimony to the truth ».
+20. (Vers. 8.). *He was not the light*, in which one is to believe; *but was to give testimony of the lumen;* which he also did; below in the fifth chapter[^p251-3]: « You sent to John, and he gave testimony to the truth ».
 
 ### Questions.
 
@@ -107,11 +107,11 @@ the twenty-third: « They ran, and I did not send them ». — He is described b
 
 23. Quaest. III. Likewise it is asked about what he says: *He was not the light.*
 
-**On the contrary:** To the Ephesians, the fifth[^p251-9]: « You were heretofore darkness, but now light in the Lord »: therefore all good men are light.
+**On the contrary:** To the Ephesians, the fifth chapter[^p251-9]: « You were heretofore darkness, but now light in the Lord »: therefore all good men are light.
 
 The Gloss[^p251-10] responds that there is *illumining* light and *illumined* light. John and the other Saints are not illumining light, but light illumined by the first light.
 
-But against this is Matthew, the fifth[^p251-11]: « So let your light shine before men »; and to the Philippians, the second: « Among whom you shine as luminaries in the world ».
+But against this is Matthew, the fifth chapter[^p251-11]: « So let your light shine before men »; and to the Philippians, the second chapter: « Among whom you shine as luminaries in the world ».
 
 **I respond:** There is light illumining *effectively* and *dispositively.* Light illumining *effectively* is light by essence, and thus God alone is illumining light; *dispositively* it is light by participation, and thus the Saints, who illumine by word and example[^p251-12].
 
