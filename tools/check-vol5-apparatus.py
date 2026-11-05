@@ -4475,8 +4475,17 @@ KNOWN_TOTALS_VOL6 = {
     502: 10, # bon-ioan-c19-v28-37 owns nn.1-5 (¶¶ 58-60, Quaest. III-V): anchors L 1-5; blocks
              # L 1-5 / R 6-10, all whole. Quaest. V closes at the foot of L on ut bibendo
              # redimamur; the printed bold heading Quarto, de Christi sepultura notantur tria.
-             # stands at the head of R over ¶ 61 Post haec autem rogavit; nn.6-10 PENDING (the
-             # next pericope, n.6 at Supra). Verso. Gutter 1145.
+             # stands at the head of R over ¶ 61 Post haec autem rogavit. bon-ioan-c19-v38-42 owns
+             # nn.6-10 (¶¶ 61-62): anchors all R; nn.6-10 the R block, all whole, no page runover.
+             # Verso. Gutter 1145.
+    503: 12, # bon-ioan-c19-v38-42 owns ALL (¶¶ 62-68, QUAESTIONES at the head of R, Quaest. I-III):
+             # anchors L 1-5 / R 6-12; blocks L 1-5 head / R 5 tail-12; n.5 a GUTTER runover
+             # (Vulgata Iesum ... interserit eum). Recto. Gutter 890.
+    504: 11, # bon-ioan-c19-v38-42 owns nn.1-6 (¶¶ 68-69, Quaest. III-IV): anchors L 1-3 / R 4-6;
+             # blocks L 1-7 / R 8-11, all whole. Quaest. IV closes at ~0.38 R on corporis exanimis;
+             # the full-measure CAPITULUM XX. heading + subtitle Tertio tractatur de Christi
+             # resurrectione tripliciter. follow over Cap. XX ¶ 1 Una autem Sabbati; nn.7-11
+             # PENDING (Capitulum XX, n.7 at Egit supra). Verso. Gutter 1151 (region above the heading).
 }
 
 KNOWN_TOTALS_BY_VOL = {

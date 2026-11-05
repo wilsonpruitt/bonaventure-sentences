@@ -27500,6 +27500,21 @@ bon-ioan-c19-v28-37	6	apparatus:p502-1	p502-1	scripture	apparatus-explicit	Psalm
 bon-ioan-c19-v28-37	6	apparatus:p502-2	p502-2	scripture	apparatus-explicit	Matth. 27, 46	Matth 27:46	A	verse		
 bon-ioan-c19-v28-37	6	apparatus:p502-2	p502-2	scripture	apparatus-explicit	Marc. 15, 34	Marc 15:34	A	verse		
 bon-ioan-c19-v28-37	6	apparatus:p502-5	p502-5	scripture	apparatus-explicit	Ioan. 19, 34	Ioan 19:34	A	verse		
+bon-ioan-c19-v38-42	6	latin_body		scripture	body-ordinal	Regum primo	Reg* 1	C	chapter		
+bon-ioan-c19-v38-42	6	latin_body		scripture	body-ordinal	Proverbiorum decimo septimo	Prov 17	C	chapter		
+bon-ioan-c19-v38-42	6	latin_body	p503-7	scripture	body-ordinal	Marci decimo quinto	Marc 15:43	B	verse		
+bon-ioan-c19-v38-42	6	latin_body	p503-10	scripture	body-ordinal	Lucae vigesimo tertio	Luc 23:50	B	verse		
+bon-ioan-c19-v38-42	6	latin_body	p504-3	scripture	body-ordinal	Matthaei octavo	Matth 8:22	B	verse		
+bon-ioan-c19-v38-42	6	apparatus:p502-8	p502-8	scripture	apparatus-explicit	Luc. 23, 51	Luc 23:51	A	verse		
+bon-ioan-c19-v38-42	6	apparatus:p502-8	p502-8	scripture	anaphor->apparatus-explicit	ibid.	Luc 23:51	A	verse	yes	Luc. 23, 51
+bon-ioan-c19-v38-42	6	apparatus:p502-9	p502-9	scripture	apparatus-explicit	Prov. 17, 17	Prov 17:17	A	verse		
+bon-ioan-c19-v38-42	6	apparatus:p503-1	p503-1	scripture	apparatus-explicit	Psalm. 15, 10	Ps 15:10	A	verse		
+bon-ioan-c19-v38-42	6	apparatus:p503-2	p503-2	scripture	apparatus-explicit	Gen. 50, 2	Gen 50:2	A	verse		
+bon-ioan-c19-v38-42	6	apparatus:p503-8	p503-8	scripture	apparatus-explicit	Matth. 27, 64	Matth 27:64	A	verse		
+bon-ioan-c19-v38-42	6	apparatus:p503-9	p503-9	scripture	apparatus-explicit	Matth. 10, 32	Matth 10:32	A	verse		
+bon-ioan-c19-v38-42	6	apparatus:p504-1	p504-1	scripture	apparatus-explicit	Matth. 26, 10	Matth 26:10	A	verse		
+bon-ioan-c19-v38-42	6	apparatus:p504-4	p504-4	crossref	logical	IV. Sent. d. 43. a. 1. q. 1.	bon-sent-IV-d43-a1-q1		chunk		
+bon-ioan-c19-v38-42	6	apparatus:p504-4	p504-4	scripture	apparatus-explicit	I. Cor. 15, 12	1Cor 15:12	A	verse		
 bon-ioan-c2-v1-11	6	latin_body	p269-5	scripture	body-ordinal	Lucae primo	Luc 1:39	B	verse		
 bon-ioan-c2-v1-11	6	latin_body		scripture	body-ordinal	Lucae decimo quarto	Luc 14	C	chapter		
 bon-ioan-c2-v1-11	6	latin_body		scripture	body-ordinal	ad Corinthios octavo	Cor* 8	C	chapter		
