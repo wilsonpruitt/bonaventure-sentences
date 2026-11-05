@@ -563,7 +563,7 @@ Not applicable: the schemata are editorial matter, not *expositio*.
 **A measured positive zero for SCRIPTURE:** the schemata quote no verse and print no guillemets. The only italics are the two cross-references *vide continuationem in schemate II.* / *III.* (italic in the print, italic in both languages). Nothing to bank under the COLLECTION CHANGE.
 
 ### Resolver
-See the build record in the commit: the 37 printed addresses name no book and are expected to produce no index records (the Ecclesiastes / Sapientiae schemata shape).
+`build-citations.py`: **ZERO records from this chunk; ledger 32,588 → 32,588; ZERO lines moved** (full diff of `index/citations.tsv` against the pre-run copy: 0 lines); QA **211 unchanged**; anaphora unresolved **285 unchanged**; the QA report gains `bon-ioan-schemata` under *chunks with no citation* (234). The 37 printed addresses name no book and are not parsed as Scripture (the Ecclesiastes / Sapientiae schemata shape). Index: 1,816 cited / 11,154 backlinks, unchanged.
 
 ### For the p. 532 work-close gate
 Record-only items from this chunk: the two English brackets (*c. 2, 63.* locus slip; *adoptatur* letter slip); the stray point after *adducunt*; the closing brace rendered as a last child; the address disagreements listed above; *apertio latens*; the *sepulturae conditio* "condition" rendering against `c18-v1-3`'s "laying-away"; *claritatis manifestatio* → "clarity". Nothing forwarded: this is the work's last unit.
