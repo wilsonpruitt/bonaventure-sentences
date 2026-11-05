@@ -4486,6 +4486,17 @@ KNOWN_TOTALS_VOL6 = {
              # the full-measure CAPITULUM XX. heading + subtitle Tertio tractatur de Christi
              # resurrectione tripliciter. follow over Cap. XX ¶ 1 Una autem Sabbati; nn.7-11
              # PENDING (Capitulum XX, n.7 at Egit supra). Verso. Gutter 1151 (region above the heading).
+             # bon-ioan-c20-v1-9 owns nn.7-11 (Cap. XX ¶¶ 1-2): anchors L 7-8 / R 9-11; n.10 ends
+             # whole, no page runover. Gutter 1161 for the region below the heading. CLOSED.
+    505: 12, # bon-ioan-c20-v1-9 owns ALL (¶¶ 2-8): anchors L 1-7 / R 8-12; blocks L 1-8 head /
+             # R 8 tail-12; n.8 a GUTTER runover (Act. tertio ... ascen-/debant). Recto. Gutter 881.
+    506: 12, # bon-ioan-c20-v1-9 owns ALL (¶¶ 9-14, QUAESTIONES at ~0.42 L, Quaest. I-IV): anchors
+             # L 1-6 / R 7-12; blocks L 1-9 head / R 9 tail-12; n.9 a GUTTER runover (Bede,
+             # quod Matthaeus quidem/brevitatis causa). Verso. Gutter 1167.
+    507: 13, # bon-ioan-c20-v1-9 owns nn.1-5 (¶¶ 14-16, Quaest. IV-VI): anchors all L; ¶ 16 closes
+             # at ~0.47 L on credidit, the printed Secundo, de manifestatione resurrectionis. stands
+             # over ¶ 17 Abierunt ergo in the same column; nn.6-13 PENDING (the next pericope,
+             # n.6 at ergo). Blocks L 1-9 head / R 9 tail-13. Recto. Gutter 867 (region above).
 }
 
 KNOWN_TOTALS_BY_VOL = {

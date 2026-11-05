@@ -892,6 +892,14 @@ const WORKS = {
       // apprehendit eum etc. follows directly in the LEFT column). The index's 490 is right
       // (ruling 82(d) not engaged).
       19: "Capitulum XIX",
+      // bon-ioan-c20-v1-9: CAPITULUM XX. read in place on p. 504 — full-measure centred
+      // small capitals at ~0.37, a shared verso, below Cap. XIX's ¶ 69 (…de vilitate corporis
+      // exanimis.), unanchored. Under it the centred italic `Tertio tractatur de Christi
+      // resurrectione tripliciter.` heads the LEFT column over ¶ 1, and below ¶ 1 in the same
+      // column `Primo, de sollicitudine discipulorum et mulierum.` (the chunk's title_la, the
+      // lowest heading: rulings 79(b) / 92, the bon-ioan-c18-v1-3 shape). The index's 504 is
+      // right (ruling 82(d) not engaged).
+      20: "Capitulum XX",
     },
   },
 };
