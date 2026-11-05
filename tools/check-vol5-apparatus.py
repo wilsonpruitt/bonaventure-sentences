@@ -4449,7 +4449,23 @@ KNOWN_TOTALS_VOL6 = {
     495: 10, # bon-ioan-c19-v1-16 owns nn.1-4 (¶¶ 25-26, Quaest. VIII-IX): anchors L 1-4; blocks
              # L 1-2 / R 3-10. The printed heading Tertio, de Christi passione notantur duo. stands
              # in the LEFT column at ~0.36 over ¶ 27 (Susceperunt autem Iesum); nn.5-10 PENDING (the
-             # next pericope, n.5 at supra). Recto. Gutter 895.
+             # next pericope, n.5 at supra). Recto. Gutter 895. bon-ioan-c19-v16-27 owns nn.5-10
+             # (¶¶ 27-29): anchors L 5-6 / R 7-10; all in the R block; n.10 a PAGE runover (Hieron. /
+             # Bonav. in Luc. / Isidor. / card. Hugo, completes at the head of p. 496's L block).
+             # Gutter 892 (body below the heading).
+    496: 11, # bon-ioan-c19-v16-27 owns ALL (¶¶ 29-32): anchors L 1-7 / R 8-11; blocks L (p.495 n.10
+             # tail) 1-7 head / R 7 tail-11; n.7 a GUTTER runover (Petr. Comestor), n.11 a PAGE
+             # runover (August. tr. 117 / Theophylact., completes at the head of p. 497's L block).
+             # Verso. Gutter 1134.
+    497: 9,  # bon-ioan-c19-v16-27 owns ALL (¶¶ 32-37): anchors L 1-4 / R 5-9; blocks L (p.496 n.11
+             # tail) 1-3 / R 4-9, no new runover. Recto. Gutter 886.
+    498: 13, # bon-ioan-c19-v16-27 owns ALL (¶¶ 37-41, QUAESTIONES at ~0.12 R, Quaest. I-II):
+             # anchors L 1-6 / R 7-13; blocks L 1-4 / R 5-13, all whole. Verso. Gutter 1140.
+    499: 14, # bon-ioan-c19-v16-27 owns nn.1-9 (¶¶ 41-44, Quaest. II-V): anchors L 1-7 / R 8-9;
+             # blocks L 1-9 head / R 9 tail-14; n.9 a GUTTER runover. Quaest. V closes at ~0.23 R on
+             # ut Virginem virgo custodiret; ¶ 45 Postea sciens Iesus etc. follows HEADLESS (margin
+             # De 2. parte, sive passionis consummatione, tria.); nn.10-14 PENDING (the next pericope,
+             # n.10 at Supra). Recto. Gutter 890 (body above ¶ 45).
 }
 
 KNOWN_TOTALS_BY_VOL = {
