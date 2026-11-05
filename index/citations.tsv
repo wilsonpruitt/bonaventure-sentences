@@ -27195,6 +27195,20 @@ bon-ioan-c17-v6-11	6	apparatus:p471-8	p471-8	crossref	logical	III. Sent. d. 17. 
 bon-ioan-c17-v6-11	6	apparatus:p471-9	p471-9	scripture	anaphor->body-ordinal	ibid. 7, 25	Hebr 7:25	B	verse	yes	body: ad Hebraeos nono
 bon-ioan-c17-v6-11	6	apparatus:p472-2	p472-2	scripture	apparatus-explicit	Luc. 5, 31	Luc 5:31	A	verse		
 bon-ioan-c17-v6-11	6	apparatus:p472-3	p472-3	scripture	apparatus-explicit	Ioan. 17, 11	Ioan 17:11	A	verse		
+bon-ioan-c18-v1-3	6	latin_body	p478-2	scripture	body-ordinal	Regum decimo quinto	Reg* 15:23	B	verse		
+bon-ioan-c18-v1-3	6	latin_body	p478-3	scripture	body-ordinal	Canticorum sexto	Cant 6:10	B	verse		
+bon-ioan-c18-v1-3	6	latin_body	p478-5	scripture	body-ordinal	Lucae vigesimo primo	Luc 21:37	B	verse		
+bon-ioan-c18-v1-3	6	latin_body		scripture	body-ordinal	Matthaei vigesimo sexto	Matth 26	C	chapter		
+bon-ioan-c18-v1-3	6	latin_body	p478-7	scripture	body-ordinal	Iob vigesimo quarto	Iob 24:17	B	verse		
+bon-ioan-c18-v1-3	6	apparatus:p477-10	p477-10	crossref	relative-bare	ibid. v. 38			unresolvable		
+bon-ioan-c18-v1-3	6	apparatus:p478-2	p478-2	scripture	apparatus-explicit	Hebr. 13, 12	Hebr 13:12	A	verse		
+bon-ioan-c18-v1-3	6	apparatus:p478-3	p478-3	scripture	apparatus-explicit	Ps. 75, 3	Ps 75:3	A	verse		
+bon-ioan-c18-v1-3	6	apparatus:p478-4	p478-4	crossref	page	supra pag. 275, nota 11	bon-ioan-c2-v12-17		chunk		
+bon-ioan-c18-v1-3	6	apparatus:p478-6	p478-6	scripture	apparatus-explicit	Matth. 26, 14	Matth 26:14	A	verse		
+bon-ioan-c18-v1-3	6	apparatus:p478-8	p478-8	scripture	apparatus-explicit	Luc. 22, 24	Luc 22:24	A	verse		
+bon-ioan-c18-v1-3	6	apparatus:p478-10	p478-10	scripture	apparatus-explicit	Luc. 22	Luc 22	C	chapter		
+bon-ioan-c18-v1-3	6	apparatus:p478-10	p478-10	scripture	apparatus-explicit	Ioan. 18, 1	Ioan 18:1	A	verse		
+bon-ioan-c18-v1-3	6	apparatus:p478-12	p478-12	crossref	page	supra pag. 275, nota 11	bon-ioan-c2-v12-17		chunk		
 bon-ioan-c2-v1-11	6	latin_body	p269-5	scripture	body-ordinal	Lucae primo	Luc 1:39	B	verse		
 bon-ioan-c2-v1-11	6	latin_body		scripture	body-ordinal	Lucae decimo quarto	Luc 14	C	chapter		
 bon-ioan-c2-v1-11	6	latin_body		scripture	body-ordinal	ad Corinthios octavo	Cor* 8	C	chapter		

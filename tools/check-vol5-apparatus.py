@@ -4387,6 +4387,14 @@ KNOWN_TOTALS_VOL6 = {
     477: 11, # bon-ioan-c17-v24-26 owns nn.1-8 (¶¶ 45-49, Cap. XVII's close). nn.9-11 PENDING (Cap. XVIII ¶ 1,
              # which opens mid-leaf at ~0.37; the index gives Vers. 1-3 at 478). Anchors L 1-3 / R 4-8.
              # Blocks L 1-5 head / R 5 tail-11, GUTTER runover n.5 (c17-v24-26's). Recto. Gutter 892 / 906.
+             # nn.9-11 (¶ 1: L 9-10, R 11, all printed in the R block after n.5's tail), closed at
+             # bon-ioan-c18-v1-3 (hand-off right in every anchor, column and digit). Gutter 896 below
+             # the heading (rows 0.40-0.58).
+    478: 13, # bon-ioan-c18-v1-3 (¶¶ 1-7): anchors L 1-6 / R 7-13; blocks L 1-8 / R 9-13, no runover.
+             # Verso. Gutter 1155 / 1157.
+    479: 11, # bon-ioan-c18-v1-3 owns nn.1-3 (¶¶ 8-10, Quaest. IV-VI, L). nn.4-11 PENDING (¶ 11 on, the
+             # next pericope, which opens HEADLESS at ~0.42 of the LEFT column: Iesus autem, sciens).
+             # Recto. Gutter 903 / 906.
 }
 
 KNOWN_TOTALS_BY_VOL = {

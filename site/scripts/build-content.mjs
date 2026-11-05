@@ -878,6 +878,14 @@ const WORKS = {
       // chunk's title_la, the lowest heading: rulings 79(b) / 92). Unanchored. The index
       // gives 467 for *Vers. 1-5*.
       17: "Capitulum XVII",
+      // `CAPITULUM XVIII.` read in place on p. 477 at bon-ioan-c18-v1-3: full-measure
+      // centred small capitals at ~0.37, a shared recto, below Cap. XVII's ¶ 49 (…et ideo
+      // cognoscendo nihil meruerunt.). Under it, `Secundo agitur de his quae passionem
+      // concomitantur, quadrupliciter.` heads the LEFT column over ¶ 1, and in the RIGHT
+      // column `Primo, de Christi comprehensione.` (the chunk's title_la, the lowest
+      // heading: rulings 79(b) / 92). Unanchored. The index gives 478 for *Vers. 1-3*, the
+      // page of ¶ 2's (Vers. 1.) (ruling 82(d)).
+      18: "Capitulum XVIII",
     },
   },
 };
