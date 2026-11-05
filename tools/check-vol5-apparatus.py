@@ -4425,8 +4425,14 @@ KNOWN_TOTALS_VOL6 = {
              # HEADLESS at ~0.18 of the LEFT column; n.4 at Pilato): anchors L 4-7 / R 8-13; n.7 a GUTTER
              # runover (Augustine tr. 115 n. 1, ours), no page runover. Verso. Gutter 1158 / 1159.
     489: 14, # bon-ioan-c18-v33-38 owns nn.1-10 (¶¶ 67-69, Quaest. I-III): anchors L 1-8 / R 9-10; blocks
-             # L 1-5 / R 6-14, no runover. nn.11-14 PENDING (¶ 70 on, Et cum hoc dixisset etc., HEADLESS
-             # at ~0.15 of the RIGHT column; n.11 at condemnare). Recto. Gutter 885 / 881.
+             # L 1-5 / R 6-14, no runover. bon-ioan-c18-v38-40 owns nn.11-14 (¶¶ 70-71, Et cum hoc
+             # dixisset etc., HEADLESS at ~0.15 of the RIGHT column; n.11 at condemnare): anchors R 11-14,
+             # all printed in the R block below n.10, whole, no runover. Recto. Gutter 885 / 881.
+    490: 12, # bon-ioan-c18-v38-40 owns nn.1-4 (¶¶ 72-73, Victor / Vultis / dixerunt / Chrysostomus):
+             # anchors L 1-2 / R 3-4; all four print whole in the L block, no runover. CAPITULUM XIX.
+             # stands full measure at ~0.24 below ¶ 73; nn.5-12 PENDING (Cap. XIX ¶ 1 on, Tunc
+             # apprehendit eum etc.; n.5 at Tunc). Blocks L 1-6 / R 7-12. Verso. Gutter 1129 (body
+             # above the heading) / 1137 (register).
 }
 
 KNOWN_TOTALS_BY_VOL = {

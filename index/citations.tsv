@@ -27295,6 +27295,11 @@ bon-ioan-c18-v33-38	6	apparatus:p489-5	p489-5	scripture	anaphor->apparatus-expli
 bon-ioan-c18-v33-38	6	apparatus:p489-6	p489-6	crossref	logical	II. Sent. d. 1. p. I. a. 1. q. 1.	bon-sent-II-d1-p1-a1-q1		chunk		
 bon-ioan-c18-v33-38	6	apparatus:p489-7	p489-7	scripture	apparatus-explicit	Rom. 8, 28	Rom 8:28	A	verse		
 bon-ioan-c18-v33-38	6	apparatus:p489-7	p489-7	scripture	apparatus-explicit	Ioan. 6	Ioan 6	C	chapter		
+bon-ioan-c18-v38-40	6	latin_body		scripture	body-ordinal	Actuum tertio	Act 3	C	chapter		
+bon-ioan-c18-v38-40	6	apparatus:p489-13	p489-13	crossref	relative-bare	ibid. v. 6			unresolvable		
+bon-ioan-c18-v38-40	6	apparatus:p489-14	p489-14	scripture	apparatus-explicit	Ps. 58, 5	Ps 58:5	A	verse		
+bon-ioan-c18-v38-40	6	apparatus:p490-1	p490-1	crossref	page	supra pag. 275, nota 11	bon-ioan-c2-v12-17		chunk		
+bon-ioan-c18-v38-40	6	apparatus:p490-4	p490-4	scripture	apparatus-explicit	Act. 3, 14	Act 3:14	A	verse		
 bon-ioan-c18-v4-12	6	latin_body	p479-5	scripture	body-ordinal	Ecclesiastici vigesimo tertio	Eccli 23:28	B	verse		
 bon-ioan-c18-v4-12	6	latin_body	p479-6	scripture	body-ordinal	Isaiae quinquagesimo tertio	Isai 53:7	B	verse		
 bon-ioan-c18-v4-12	6	latin_body	p479-9	scripture	body-ordinal	Iob vigesimo sexto	Iob 26:14	B	verse		
