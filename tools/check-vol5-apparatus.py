@@ -4411,8 +4411,12 @@ KNOWN_TOTALS_VOL6 = {
     484: 15, # bon-ioan-c18-v13-23 (¶¶ 38-42, Quaest. I-V): anchors L 1-7 / R 8-15; blocks L 1-2 / R 3-15,
              # no runover. Verso. Gutter 1162 / 1160.
     485: 9,  # bon-ioan-c18-v13-23 owns NONE: ¶ 42's last four lines head the LEFT column unanchored.
-             # nn.1-9 PENDING (¶ 43 on, Et misit eum Annas etc., HEADLESS at ~0.07 of the LEFT column;
-             # n.1 at ibi Erat autem Simon Petrus). Recto. Gutter 890 / 887 (unread for the register).
+             # bon-ioan-c18-v24-27 owns nn.1-9 (¶¶ 43-49, Quaest. I-III): anchors L 1-4 / R 5-9; blocks
+             # L 1-8 / R 9, n.9 (Comestor) a PAGE-crossing runover onto p. 486's LEFT block head.
+             # Recto. Gutter 890 / 887.
+    486: 10, # bon-ioan-c18-v24-27 owns nn.1-3 (¶ 50, Quaest. IV): anchors L 1-3; blocks L (485 n.9
+             # tail) 1-2 head / R 2 tail-10, GUTTER runover n.2. nn.4-10 PENDING (¶ 51 on, Adducunt
+             # ergo Iesum etc., HEADLESS at ~0.29 of the LEFT column; n.4 at Pilato). Verso. Gutter 1164 / 1164.
 }
 
 KNOWN_TOTALS_BY_VOL = {
