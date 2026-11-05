@@ -4401,7 +4401,18 @@ KNOWN_TOTALS_VOL6 = {
     481: 13, # bon-ioan-c18-v4-12 owns nn.1-9 (¶¶ 21-25, Quaest. I-V): anchors L 1-8 / R 9; blocks
              # L 1-6 head / R 6 tail-13, GUTTER runover n.6 (c18-v4-12's). nn.10-13 PENDING (¶ 26 on,
              # under the bold Secundo, de Christi condemnatione. at ~0.24 of the RIGHT column). Recto.
-             # Gutter 899 / 895.
+             # Gutter 899 / 895. nn.10-13 closed at bon-ioan-c18-v13-23 (¶¶ 26-27, all anchored RIGHT,
+             # all printed in the R block below n.9; hand-off right in every anchor, column and digit).
+             # Gutter 898 below the heading (rows 0.25-0.60).
+    482: 9,  # bon-ioan-c18-v13-23 (¶¶ 27-32): anchors L 1-4 / R 5-9; blocks L 1-4 head / R 4 tail-9,
+             # GUTTER runover n.4. Verso. Gutter 1146 / 1153.
+    483: 11, # bon-ioan-c18-v13-23 (¶¶ 32-38): anchors L 1-4 / R 5-11; blocks L 1 head / R 1 tail-11,
+             # GUTTER runover n.1. Recto. Gutter 897 / 895.
+    484: 15, # bon-ioan-c18-v13-23 (¶¶ 38-42, Quaest. I-V): anchors L 1-7 / R 8-15; blocks L 1-2 / R 3-15,
+             # no runover. Verso. Gutter 1162 / 1160.
+    485: 9,  # bon-ioan-c18-v13-23 owns NONE: ¶ 42's last four lines head the LEFT column unanchored.
+             # nn.1-9 PENDING (¶ 43 on, Et misit eum Annas etc., HEADLESS at ~0.07 of the LEFT column;
+             # n.1 at ibi Erat autem Simon Petrus). Recto. Gutter 890 / 887 (unread for the register).
 }
 
 KNOWN_TOTALS_BY_VOL = {
