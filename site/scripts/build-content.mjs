@@ -914,6 +914,13 @@ const WORKS = {
       // bon-eccl-scholion (13) / bon-sap-scholion (20) precedent; the chunk
       // title is caught type-first ("Scholion").
       22: "Scholion",
+      // bon-ioan-schemata (ruling 72): `Schema I.` read in place at ~0.56 of
+      // p. 530 directly below the Scholion, `Schema II.` at the head of p. 531,
+      // `Schema III.` at the head of p. 532 — three upright bracket-trees, each
+      // under a title set rotated up the left margin. ONE chunk, three sections
+      // (ruling 19); caught type-first ("Schemata"). The work ends here: p. 533
+      // is the Collationes in Evangelium S. Ioannis half-title.
+      23: "Schemata",
     },
   },
 };
