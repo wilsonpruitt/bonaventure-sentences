@@ -4464,8 +4464,19 @@ KNOWN_TOTALS_VOL6 = {
     499: 14, # bon-ioan-c19-v16-27 owns nn.1-9 (¶¶ 41-44, Quaest. II-V): anchors L 1-7 / R 8-9;
              # blocks L 1-9 head / R 9 tail-14; n.9 a GUTTER runover. Quaest. V closes at ~0.23 R on
              # ut Virginem virgo custodiret; ¶ 45 Postea sciens Iesus etc. follows HEADLESS (margin
-             # De 2. parte, sive passionis consummatione, tria.); nn.10-14 PENDING (the next pericope,
-             # n.10 at Supra). Recto. Gutter 890 (body above ¶ 45).
+             # De 2. parte, sive passionis consummatione, tria.). bon-ioan-c19-v28-37 owns nn.10-14
+             # (¶¶ 45-46): anchors all R; nn.10-14 the R block's remainder, all whole, no page
+             # runover. Recto. Gutter 890 (body above ¶ 45), 899 (region below ¶ 45).
+    500: 10, # bon-ioan-c19-v28-37 owns ALL (¶¶ 46-51): anchors L 1-5 / R 6-10; blocks L 1-3 head /
+             # R 3 tail-10; n.3 a GUTTER runover (August. tr. 119 n. 6). Verso. Gutter 1144.
+    501: 10, # bon-ioan-c19-v28-37 owns ALL (¶¶ 52-58, QUAESTIONES at ~0.15 R, Quaest. I-III):
+             # anchors L 1-5 / R 6-10; blocks L 1-6 head / R 6 tail-10; n.6 a GUTTER runover
+             # (Chrysost. hom. 85 / card. Hugo). Recto. Gutter 891.
+    502: 10, # bon-ioan-c19-v28-37 owns nn.1-5 (¶¶ 58-60, Quaest. III-V): anchors L 1-5; blocks
+             # L 1-5 / R 6-10, all whole. Quaest. V closes at the foot of L on ut bibendo
+             # redimamur; the printed bold heading Quarto, de Christi sepultura notantur tria.
+             # stands at the head of R over ¶ 61 Post haec autem rogavit; nn.6-10 PENDING (the
+             # next pericope, n.6 at Supra). Verso. Gutter 1145.
 }
 
 KNOWN_TOTALS_BY_VOL = {

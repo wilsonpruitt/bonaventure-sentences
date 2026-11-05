@@ -27461,6 +27461,45 @@ bon-ioan-c19-v16-27	6	apparatus:p499-2	p499-2	scripture	anaphor->body-ordinal	ib
 bon-ioan-c19-v16-27	6	apparatus:p499-3	p499-3	scripture	apparatus-explicit	Ioan. 19, 24	Ioan 19:24	A	verse		
 bon-ioan-c19-v16-27	6	apparatus:p499-6	p499-6	scripture	anaphor->apparatus-explicit	loc. cit.	Ioan 19:24	A	verse	yes	Ioan. 19, 24
 bon-ioan-c19-v16-27	6	apparatus:p499-9	p499-9	crossref	page	supra pag. 245, nota 2	bon-ioan-prol		chunk		
+bon-ioan-c19-v28-37	6	latin_body	p500-1	scripture	body-ordinal	Matthaei vigesimo septimo	Matth 27:48	B	verse		
+bon-ioan-c19-v28-37	6	latin_body	p500-2	scripture	body-ordinal	Lucae decimo octavo	Luc 18:31	B	verse		
+bon-ioan-c19-v28-37	6	latin_body		scripture	body-ordinal	ad Hebraeos quinto	Hebr 5	C	chapter		
+bon-ioan-c19-v28-37	6	latin_body	p500-4	scripture	body-ordinal	ad Hebraeos quinto	Hebr 5:7	B	verse		
+bon-ioan-c19-v28-37	6	latin_body		scripture	body-ordinal	ad Hebraeos decimo	Hebr 10	C	chapter		
+bon-ioan-c19-v28-37	6	latin_body		scripture	body-ordinal	ad Hebraeos secundo	Hebr 2	C	chapter		
+bon-ioan-c19-v28-37	6	latin_body		scripture	body-ordinal	Deuteronomii vigesimo primo	Deut 21	C	chapter		
+bon-ioan-c19-v28-37	6	latin_body	p501-2	scripture	body-ordinal	Apocalypsis primo	Apoc 1:5	B	verse		
+bon-ioan-c19-v28-37	6	latin_body		scripture	body-ordinal	ad Ephesios quinto	Eph 5	C	chapter		
+bon-ioan-c19-v28-37	6	latin_body	p501-3	scripture	body-ordinal	Proverbiorum duodecimo	Prov 12:17	B	verse		
+bon-ioan-c19-v28-37	6	latin_body		scripture	body-ordinal	Ioannis primo	Ioan 1	C	chapter		
+bon-ioan-c19-v28-37	6	latin_body		scripture	body-ordinal	Exodi duodecimo	Exod 12	C	chapter		
+bon-ioan-c19-v28-37	6	latin_body	p501-5	scripture	body-ordinal	Zachariae duodecimo	Zach 12:10	B	verse		
+bon-ioan-c19-v28-37	6	latin_body		scripture	body-ordinal	Apocalypsis primo	Apoc 1	C	chapter		
+bon-ioan-c19-v28-37	6	apparatus:p499-13	p499-13	scripture	apparatus-explicit	Isaias 10, 23	Isai 10:23	A	verse		
+bon-ioan-c19-v28-37	6	apparatus:p499-14	p499-14	scripture	apparatus-explicit	Psalm. 68, 22	Ps 68:22	A	verse		
+bon-ioan-c19-v28-37	6	apparatus:p499-14	p499-14	crossref	logical	III. Sent. d. 2. a. 2. q. 1.	bon-sent-III-d2-a2-q1		chunk		
+bon-ioan-c19-v28-37	6	apparatus:p499-14	p499-14	crossref	chain-continuation	d. 16. a. 1. q. 1.	bon-sent-III-d16-a1-q1		chunk		
+bon-ioan-c19-v28-37	6	apparatus:p500-1	p500-1	scripture	apparatus-explicit	Matth. 27, 48	Matth 27:48	A	verse		
+bon-ioan-c19-v28-37	6	apparatus:p500-1	p500-1	scripture	apparatus-explicit	Marc. 15, 36	Marc 15:36	A	verse		
+bon-ioan-c19-v28-37	6	apparatus:p500-2	p500-2	scripture	apparatus-explicit	Hebr. 5, 9	Hebr 5:9	A	verse		
+bon-ioan-c19-v28-37	6	apparatus:p500-3	p500-3	scripture	apparatus-explicit	Ioan. 10, 18	Ioan 10:18	A	verse		
+bon-ioan-c19-v28-37	6	apparatus:p500-4	p500-4	scripture	anaphor->body-ordinal	ibid. 10, 14	Hebr 10:14	B	verse	yes	body: ad Hebraeos quinto
+bon-ioan-c19-v28-37	6	apparatus:p500-7	p500-7	crossref	page	supra pag. 492, nota 2	bon-ioan-c19-v1-16		chunk		
+bon-ioan-c19-v28-37	6	apparatus:p500-8	p500-8	scripture	apparatus-explicit	Deut. 21, 22	Deut 21:22	A	verse		
+bon-ioan-c19-v28-37	6	apparatus:p500-9	p500-9	scripture	apparatus-explicit	Ps. 6, 3	Ps 6:3	A	verse		
+bon-ioan-c19-v28-37	6	apparatus:p501-2	p501-2	scripture	apparatus-explicit	Eph. 5, 25	Eph 5:25	A	verse		
+bon-ioan-c19-v28-37	6	apparatus:p501-3	p501-3	scripture	apparatus-explicit	I. Ioan. 1, 1	1Ioan 1:1	A	verse		
+bon-ioan-c19-v28-37	6	apparatus:p501-4	p501-4	scripture	apparatus-explicit	Exod. 12, 46	Exod 12:46	A	verse		
+bon-ioan-c19-v28-37	6	apparatus:p501-5	p501-5	scripture	apparatus-explicit	Apoc. 1, 7	Apoc 1:7	A	verse		
+bon-ioan-c19-v28-37	6	apparatus:p501-6	p501-6	crossref	page	supra pag. 495, nota 3	bon-ioan-c19-v1-16+bon-ioan-c19-v16-27		page-multi		
+bon-ioan-c19-v28-37	6	apparatus:p501-7	p501-7	scripture	apparatus-explicit	Rom. 10, 4	Rom 10:4	A	verse		
+bon-ioan-c19-v28-37	6	apparatus:p501-8	p501-8	crossref	page	supra pag. 382, nota 1	bon-ioan-c10-v1-10+bon-ioan-c9-v35-41		page-multi		
+bon-ioan-c19-v28-37	6	apparatus:p501-10	p501-10	scripture	apparatus-explicit	Marc. 15, 23	Marc 15:23	A	verse		
+bon-ioan-c19-v28-37	6	apparatus:p501-10	p501-10	scripture	apparatus-explicit	Matth. 27, 34	Matth 27:34	A	verse		
+bon-ioan-c19-v28-37	6	apparatus:p502-1	p502-1	scripture	apparatus-explicit	Psalm. 68, 22	Ps 68:22	A	verse		
+bon-ioan-c19-v28-37	6	apparatus:p502-2	p502-2	scripture	apparatus-explicit	Matth. 27, 46	Matth 27:46	A	verse		
+bon-ioan-c19-v28-37	6	apparatus:p502-2	p502-2	scripture	apparatus-explicit	Marc. 15, 34	Marc 15:34	A	verse		
+bon-ioan-c19-v28-37	6	apparatus:p502-5	p502-5	scripture	apparatus-explicit	Ioan. 19, 34	Ioan 19:34	A	verse		
 bon-ioan-c2-v1-11	6	latin_body	p269-5	scripture	body-ordinal	Lucae primo	Luc 1:39	B	verse		
 bon-ioan-c2-v1-11	6	latin_body		scripture	body-ordinal	Lucae decimo quarto	Luc 14	C	chapter		
 bon-ioan-c2-v1-11	6	latin_body		scripture	body-ordinal	ad Corinthios octavo	Cor* 8	C	chapter		
