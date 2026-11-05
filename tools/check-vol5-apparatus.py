@@ -4511,6 +4511,20 @@ KNOWN_TOTALS_VOL6 = {
              # printed Secundo, de manifestatione facta discipulis. stands over ¶ 36 Cum ergo esset
              # sero; n.14 PENDING (the next pericope, at discipulis). Blocks L p510 n.15 tail, 1-8 /
              # R 9-14. Recto. Gutter 883 (region above the heading).
+             # bon-ioan-c20-v19-25 owns n.14 (¶ 36, discipulis, R; Cfr. supra n. 17.). Gutter 881
+             # for the region below the heading. CLOSED.
+    512: 12, # bon-ioan-c20-v19-25 owns ALL (¶¶ 36-42): anchors L 1-5 / R 6-12; blocks L 1-7 head /
+             # R 7 tail-12; n.7 a GUTTER runover (in Missa, di-/cit). Verso. Gutter 1128.
+    513: 10, # bon-ioan-c20-v19-25 owns ALL (¶¶ 42-49, QUAESTIONES at ~0.47 R): anchors L 1-5 /
+             # R 6-10; blocks L 1-5 / R 6-10, no runover. Recto. Gutter 882.
+    514: 8,  # bon-ioan-c20-v19-25 owns ALL (¶¶ 49-51, Quaest. I-III): anchors L 1-3 / R 4-8;
+             # blocks L 1-3 head / R 3 tail-8; n.3 a GUTTER runover (Si autem / antea). Verso.
+             # Gutter 1152.
+    515: 9,  # bon-ioan-c20-v19-25 owns nn.1-8 (¶¶ 51-54, Quaest. IV-VI): anchors L 1-5 / R 6-8;
+             # Quaest. VI closes at ~0.47 R on intravit., the printed De secunda manifestatione
+             # notantur duo. stands over ¶ 55 Et post dies octo; n.9 PENDING (the next pericope,
+             # at Thomae). Blocks L 1-4 head / R 4 tail-9; n.4 a GUTTER runover (remit-/tuntur).
+             # Recto. Gutter 881 (region above the heading).
 }
 
 KNOWN_TOTALS_BY_VOL = {
