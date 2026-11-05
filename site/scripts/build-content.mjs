@@ -900,6 +900,12 @@ const WORKS = {
       // lowest heading: rulings 79(b) / 92, the bon-ioan-c18-v1-3 shape). The index's 504 is
       // right (ruling 82(d) not engaged).
       20: "Capitulum XX",
+      // bon-ioan-c21-v1-8: CAPITULUM XXI. read in place on p. 519 — full-measure centred
+      // small capitals at the HEAD of a recto (no shared top: Cap. XX closed on p. 518 with
+      // ¶ 68), unanchored. Under it the centred bold `De tertia manifestatione notantur duo.`
+      // heads the LEFT column over ¶ 1 (the chunk's title_la, the lower heading: rulings
+      // 79(b) / 92). John's last chapter. The index's 519 is right (ruling 82(d) not engaged).
+      21: "Capitulum XXI",
     },
   },
 };

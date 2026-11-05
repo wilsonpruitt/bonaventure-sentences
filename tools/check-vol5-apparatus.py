@@ -4536,6 +4536,19 @@ KNOWN_TOTALS_VOL6 = {
              # L 1-6 head / R 6 tail-11; n.6 a GUTTER runover (sed / per hoc); n.11 a PAGE runover,
              # completed at the head of p. 519's LEFT block (Christum? / Sed ille). Capitulum XX
              # closes at ~0.55 R on tangere¹¹ »; p. 519 opens on Capitulum XXI. Verso. Gutter 1145.
+    519: 8,  # bon-ioan-c21-v1-8 owns ALL (¶¶ 1-4, Capitulum XXI. + De tertia manifestatione notantur
+             # duo. at the head): the LEFT block OPENS with the unnumbered tail of p. 518 n. 11
+             # (bon-ioan-c20-v26-31's PAGE runover), NOT counted here; anchors L 1-5 / R 6-8; blocks
+             # L 1-5 head / R 5 tail-8; n.5 a GUTTER runover (habi-/lis). Recto. Gutter 894.
+    520: 13, # bon-ioan-c21-v1-8 owns ALL (¶¶ 4-11): anchors L 1-5 / R 6-13; blocks L 1-5 head (n.2
+             # set at the end of n.1's last line) / R 5 tail-13; n.5 a GUTTER runover (panem, /
+             # scilicet). Verso. Gutter 1141.
+    521: 15, # bon-ioan-c21-v1-8 owns ALL (¶¶ 12-17, QUAESTIONES in-column at ~0.55 L, Quaest. I-V):
+             # anchors L 1-8 / R 9-15; blocks L 1-6 / R 7-15 (nn.7-8 anchor LEFT, print RIGHT), no
+             # runover. Recto. Gutter 877 (band 854-901, island 874-881).
+    522: 8,  # bon-ioan-c21-v1-8 owns nn.1-2 (¶ 17 Quaest. V's reply, five lines at the head of L:
+             # Chrysostomus¹, sollicitior²); ¶ 18 Ut ergo descenderunt in terram follows HEADLESS
+             # (the next pericope, Vers. 9-14); nn.3-8 PENDING (the next chunk). Verso. Gutter 1159.
 }
 
 KNOWN_TOTALS_BY_VOL = {
