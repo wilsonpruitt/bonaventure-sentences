@@ -963,6 +963,11 @@ const WORKS = {
       // dies festus. opens at the head of p. 560. It includes Coll. XVI, whose
       // address is (Cap. VI, 27.) (p. 556 n. 8: an anticipated exposition).
       4: "Capitulum IV: Ut autem cognovit",
+      // `Cᴀᴘɪᴛᴜʟᴜᴍ V. Post haec erat dies festus.` read in place on p. 560 at
+      // bon-cioan-c5: full measure at the head of the leaf, unanchored; the
+      // chapter runs to the top band of p. 565, where Cᴀᴘɪᴛᴜʟᴜᴍ VI. Post haec
+      // abiit Iesus. stands full measure below Annot. 21's close.
+      5: "Capitulum V: Post haec erat dies festus",
     },
   },
 };

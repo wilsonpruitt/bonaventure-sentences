@@ -4642,6 +4642,18 @@ KNOWN_TOTALS_VOL6 = {
              # blocks L 1-4 / R 5-7. Gutter 1165 (14 px drift, one split).
     559: 6,  # bon-cioan-c4: n.1 Coll. XVIII, nn.2-3 Coll. XIX, n.4-6 Annot. 15-17; L 1-3 / R 4-6.
              # LEAF EDGE: Cap. IV ends here, Cᴀᴘɪᴛᴜʟᴜᴍ V. opens at the head of p. 560. Gutter 916.
+    560: 7,  # bon-cioan-c5: nn.1-5 Coll. XX, nn.6-7 Annot. 18; anchors L 1-3 / R 4-7; blocks
+             # L 1-4 / R 5-7 (n.4 prints LEFT, anchors RIGHT). n.3 cites (Collat. 21.). Gutter 1177.
+    561: 10, # bon-cioan-c5: nn.1-5 Coll. XXI, nn.6-10 Coll. XXII (nn.8-9 Collat. XVIII.);
+             # anchors and blocks L 1-4 / R 5-10. Gutter 911.
+    562: 6,  # bon-cioan-c5: n.1 Coll. XXII, nn.2-5 Coll. XXIII, n.6 Coll. XXIV; anchors L 1-3 /
+             # R 4-6; blocks L 1-4 head / R 4 tail-6 (n.4 runs over the gutter). Gutter 1168.
+    563: 10, # bon-cioan-c5: nn.1-6 Coll. XXIV, nn.7-10 Coll. XXV (Vers. 28. 25.); anchors L 1-6 /
+             # R 7-10; blocks L 1-4 / R 5-10 (nn.5-6 print RIGHT, anchor LEFT). Gutter 920.
+    564: 8,  # bon-cioan-c5: nn.1-4 Coll. XXV, nn.5-6 Annot. 19, n.7 Annot. 20, n.8 Annot. 21;
+             # anchors L 1-4 / R 5-8; blocks L 1-3 / R 4-8 (n.4 prints RIGHT, anchors LEFT).
+             # Gutter 1149 (16 px skew, one split). p. 565's register (nn.1-8) is bon-cioan-c6's:
+             # Annot. 21 closes in its top band UNANCHORED; Cᴀᴘɪᴛᴜʟᴜᴍ VI. follows.
 }
 
 KNOWN_TOTALS_BY_VOL = {
