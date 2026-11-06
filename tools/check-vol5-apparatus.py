@@ -4609,6 +4609,18 @@ KNOWN_TOTALS_VOL6 = {
     545: 7,  # SHARED: bon-cioan-c1 owns n.1 only (Annot. 3's deserto¹, head of the RIGHT column,
              # printed first in the LEFT block); Cᴀᴘɪᴛᴜʟᴜᴍ II. + COLLATIO VIII. follow full measure
              # and nn.2-7 are bon-cioan-c2's (n.2 at sancitum²). Gutter 890 (head region).
+             # FULLY OWNED at bon-cioan-c2 (c1 1 + c2 6); n.6 a GUTTER runover; gutter 892 below
+             # the Cap. II heading.
+    546: 9,  # bon-cioan-c2 (Coll. VIII): anchors L 1-5 / R 6-9; blocks L 1-4 head / R 4 tail-9;
+             # n.4 (Hugh of St Victor) a GUTTER runover. Gutter 1159.
+    547: 8,  # bon-cioan-c2: n.1-8 Coll. IX; anchors L 1-3 / R 4-8; blocks L 1-7 / R 8. Gutter 893.
+    548: 8,  # bon-cioan-c2: nn.1-2 Coll. IX, nn.3-8 Coll. X; anchors L 1-3 / R 4-8; n.6
+             # (Augustine/Sedulius) a GUTTER runover. Gutter 1151.
+    549: 10, # bon-cioan-c2 (Coll. X): anchors L 1-6 / R 7-10; n.10 (Du Cange, emunitas) a
+             # PAGE-CROSSING runover completing at the head of p. 550's LEFT block. Gutter 906.
+    550: 5,  # SHARED: bon-cioan-c2 owns nn.1-4 (n.1 Coll. X ¶10, nn.2-4 Annot. 4-6); the full-
+             # measure Cᴀᴘɪᴛᴜʟᴜᴍ III. + COLLATIO XI. follow at ~0.665 and n.5 (Iob quinto⁵,
+             # Coll. XI ¶2) is bon-cioan-c3's. Gutter 1157 above the heading.
 }
 
 KNOWN_TOTALS_BY_VOL = {

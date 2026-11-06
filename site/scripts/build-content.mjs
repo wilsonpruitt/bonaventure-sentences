@@ -948,6 +948,10 @@ const WORKS = {
       // ruling 117); the heading itself unanchored. The chapter runs to the
       // head of p. 545's right column, where Cᴀᴘɪᴛᴜʟᴜᴍ II. stands full measure.
       1: "Capitulum I: In principio erat Verbum",
+      // `Cᴀᴘɪᴛᴜʟᴜᴍ II. Nuptiae factae sunt.` read in place on p. 545 at
+      // bon-cioan-c2: full measure, unanchored, below Annot. 3's close; the
+      // chapter runs to p. 550, where Cᴀᴘɪᴛᴜʟᴜᴍ III. stands full measure.
+      2: "Capitulum II: Nuptiae factae sunt",
     },
   },
 };
