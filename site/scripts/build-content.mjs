@@ -923,6 +923,33 @@ const WORKS = {
       23: "Schemata",
     },
   },
+  // The Collationes in Evangelium S. Ioannis (mini-pilot rulings 115–123,
+  // manual-review/vol6-pilot-setup.md; evidence
+  // collationes-ioannem-pilot-scouting.md). English title "Collations on the
+  // Gospel of John" (ruling 121). Ruling 115: the chunk is the CAPITULUM —
+  // `bon-cioan-c{N}`, `type: capitulum` — with its collationes and
+  // annotationes as `### Collatio N.` / `### Annotatio N.` sections, listed in
+  // frontmatter `collationes:` / `annotationes:` for the ruling-116 resolver.
+  // Planned divisions (ruling 122): 1–18 Capitula, 19 the joint Capitulum
+  // XVIII. et XIX. (c18-19), 20, 21, 22 Appendix. Rendered "Cap. N" by the
+  // collationes-ioannem branch of buildWorkChunkTitle. Each capitulum adds its
+  // own line after its heading is read in place (ruling 119).
+  "collationes-ioannem": {
+    book: 18,
+    tome: 6,
+    title: "Collationes in Evangelium S. Ioannis",
+    initial: "C",
+    divisionLabel: "Capitula",
+    divisions: {
+      // `Cᴀᴘɪᴛᴜʟᴜᴍ I. In principio erat Verbum.` read in place on p. 535 at
+      // bon-cioan-c1: full-measure small capitals with the italic subtitle,
+      // directly under the ANCHORED display stack COLLATIONES¹ / IN EVANGELIUM
+      // S. IOANNIS (n. 1, the editors' dissertation, in the chunk whole:
+      // ruling 117); the heading itself unanchored. The chapter runs to the
+      // head of p. 545's right column, where Cᴀᴘɪᴛᴜʟᴜᴍ II. stands full measure.
+      1: "Capitulum I: In principio erat Verbum",
+    },
+  },
 };
 
 function buildWorkChunkTitle(meta) {
@@ -957,6 +984,11 @@ function buildWorkChunkTitle(meta) {
   }
   // Flat works (no partes): division IS the capitulum (Itinerarium).
   if (meta.workSlug === "itinerarium") return `Cap. ${meta.division}`;
+  // The Collationes in Evangelium S. Ioannis (ruling 122): the chunk is the
+  // whole capitulum, its collationes and annotationes being sections inside it,
+  // so the division alone names it ("Cap. 1"). The joint XVIII–XIX unit
+  // (division 19) and the Appendix (22) are to be decided when they land.
+  if (meta.workSlug === "collationes-ioannem") return `Cap. ${meta.division}`;
   // Flat works whose division is the collatio (Hexaemeron, and the two
   // Collationes sets when they land).
   if (

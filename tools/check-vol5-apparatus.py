@@ -4580,6 +4580,35 @@ KNOWN_TOTALS_VOL6 = {
              # head / R 4 tail-5 (nn.3-4 anchor RIGHT, print LEFT); n.4 a GUTTER runover
              # (apprehendero / intelligentiam). SCHOLION + Schema I below carry no anchor. Verso.
              # Gutter 1152.
+    # Collationes in Evangelium S. Ioannis (pp. 535-634; rulings 115-123). p. 533 half-title,
+    # p. 534 blank. Capitulum I = bon-cioan-c1 (pp. 535-545). Every register read on the plate.
+    535: 5,  # bon-cioan-c1 owns ALL: n.1 = the editors' dissertation, anchored on the full-measure
+             # COLLATIONES¹ display stack (ruling 117), a GUTTER runover; nn.2-3 anchor LEFT, print
+             # RIGHT; nn.4-5 R. Coll. I opens here (index slip: the index says 536, ruling 120).
+             # Gutter 936.
+    536: 9,  # bon-cioan-c1 owns ALL (Coll. I ¶¶ 2 tail-8): anchors L 1-5 / R 6-9, blocks the same.
+             # Gutter 1130.
+    537: 6,  # bon-cioan-c1: n.1 Coll. I, nn.2-6 Coll. II; anchors L 1-2 / R 3-6; blocks L 1-3 /
+             # R 4-6. n.6 prints Ps. 75, 2 (the verse is 75:3; so printed). Gutter 898.
+    538: 8,  # bon-cioan-c1: n.1 Coll. II, nn.2-8 Coll. III; anchors L 1-4 / R 5-8; blocks L 1-5
+             # head / R 5 tail-8; n.5 (Bernard) a GUTTER runover. Gutter 1150.
+    539: 5,  # bon-cioan-c1 owns ALL (Coll. III ¶¶ 5-8); anchors and blocks L 1-3 / R 4-5.
+             # Gutter 881.
+    540: 9,  # bon-cioan-c1: nn.1-3 Coll. III, nn.4-9 Coll. IV; anchors L 1-3 / R 4-9; blocks
+             # L 1-6 head / R 6 tail-9; n.6 (Jerome) a GUTTER runover. Gutter 1148.
+    541: 10, # bon-cioan-c1 owns ALL (Coll. IV ¶¶ 4 tail-10); anchors and blocks L 1-3 / R 4-10.
+             # Gutter 906.
+    542: 8,  # bon-cioan-c1: nn.1-2 Coll. IV, nn.3-8 Coll. V; anchors L 1-3 / R 4-8; blocks L 1-4 /
+             # R 5-8. Gutter 1131.
+    543: 10, # bon-cioan-c1: nn.1-3 Coll. V, nn.4-9 Coll. VI, n.10 Coll. VII; anchors L 1-5 /
+             # R 6-10; blocks L 1-6 head / R 6 tail-10; n.6 a GUTTER runover. n.4 prints Horace
+             # v. 243 (Ars poetica 343; so printed). Gutter 898.
+    544: 9,  # bon-cioan-c1: nn.1-4 Coll. VII (L), nn.5-6 Annot. 1, nn.7-8 Annot. 2, n.9 Annot. 3
+             # (R); blocks L 1-5 head / R 5 tail-9; n.5 (Damascene) a GUTTER runover. Gutter 1145
+             # by region (the default 1139 on 11 px rejected).
+    545: 7,  # SHARED: bon-cioan-c1 owns n.1 only (Annot. 3's deserto¹, head of the RIGHT column,
+             # printed first in the LEFT block); Cᴀᴘɪᴛᴜʟᴜᴍ II. + COLLATIO VIII. follow full measure
+             # and nn.2-7 are bon-cioan-c2's (n.2 at sancitum²). Gutter 890 (head region).
 }
 
 KNOWN_TOTALS_BY_VOL = {
