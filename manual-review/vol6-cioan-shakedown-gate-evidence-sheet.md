@@ -1,6 +1,6 @@
 # Vol VI *Collationes in Evangelium S. Ioannis* SHAKEDOWN GATE (p. 559, ruling 123): EVIDENCE SHEET
 
-**STATUS: OPEN — awaiting Wilson's ruling.** Compiled 2026-11-06 by a read-only agent on Wilson's go. No file under `vol*/` was
+**STATUS: CLOSED 2026-11-06 — Wilson ruled "Approve all"; applied and recorded as rulings 124–135 (`manual-review/vol6-pilot-setup.md`); closed gate record `manual-review/vol6-cioan-shakedown-gate.md`.** (Original status: OPEN — awaiting Wilson's ruling.) Compiled 2026-11-06 by a read-only agent on Wilson's go. No file under `vol*/` was
 edited; no tool, ledger, registry or resume note was touched; nothing committed, pushed, deployed or stashed; no plate deleted
 (the plates pp. 533–560 were already on disk at 450 dpi and were cropped into the scratchpad only).
 

@@ -46,6 +46,20 @@ for _a in _args:
 VOLUMES = _args or ALL_VOLUMES
 
 
+# ⭐ PRINTED_QUERIES (ruling 131, p. 559 shakedown gate, 2026-11-06): a `[?]`
+# that QUARACCHI'S EDITORS printed, transcribed as printed (ruling 9), is not
+# our flag. Skip one only when (a) the line belongs to the named apparatus
+# entry (the last `[^label]:` def above it) of the named chunk AND (b) the
+# context string stands on that line — so a NEW printed query can never be
+# absorbed silently: it must be added here, keyed and quoted. Exempt hits are
+# reported on their own line, never dropped from the output.
+PRINTED_QUERIES = [
+    # (chunk path, apparatus label, context on the line)
+    ("vol6/bon-cioan-c2.md", "p545-6", "in caelo [?]"),       # La. — Bede, p. 545 n. 6
+    ("vol6/bon-cioan-c2.md", "p545-6", "in the heaven [?]"),  # En. mirror
+]
+
+
 def live_region(text):
     """Everything a reader can see: frontmatter and ## Notes removed."""
     if text.startswith("---"):
@@ -56,16 +70,31 @@ def live_region(text):
 
 total_files = 0
 hits = []
+exempt = []
 for vol in VOLUMES:
     for path in sorted(glob.glob(os.path.join(REPO, vol, "*.md"))):
         total_files += 1
         with open(path, encoding="utf-8") as fh:
             region = live_region(fh.read())
+        rel = os.path.relpath(path, REPO)
+        label = None
         for lineno, line in enumerate(region.split("\n"), 1):
+            m = re.match(r"\[\^([^\]]+)\]:", line)
+            if m:
+                label = m.group(1)
+            elif line.startswith("## "):
+                label = None
             if "[?]" in line:
-                hits.append((os.path.relpath(path, REPO), lineno, line.strip()))
+                if any(rel == q[0] and label == q[1] and q[2] in line
+                       for q in PRINTED_QUERIES):
+                    exempt.append((rel, lineno, label))
+                else:
+                    hits.append((rel, lineno, line.strip()))
 
 print(f"scanned {total_files} chunks in {', '.join(VOLUMES)}")
+if exempt:
+    print(f"printed by the editors, not ours (PRINTED_QUERIES, ruling 131): "
+          f"{len(exempt)} — " + ", ".join(f"{p}:{n} [^{l}]" for p, n, l in exempt))
 if not hits:
     print("LIVE [?] FLAGS: none — checked, not assumed.")
 else:
