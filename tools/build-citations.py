@@ -104,7 +104,7 @@ def normalize_abbrev(s: str) -> str:
 class Chunk:
     __slots__ = ("path", "cid", "volume", "book", "dist", "pars", "sectio", "art",
                  "quaestio", "ctype", "pages", "work", "division", "capitulum",
-                 "latin_body", "scholion", "apparatus")
+                 "latin_body", "scholion", "apparatus", "units")
 
     def __init__(self, path):
         self.path = path
@@ -127,6 +127,12 @@ class Chunk:
         self.work = (fm.get("work") or "").strip().strip('"')
         self.division = as_int(fm.get("division"))
         self.capitulum = as_int(fm.get("capitulum"))
+        # Ruling 116 (Vol VI Collationes in Ioannem, 2026-11-06): a capitulum chunk
+        # lists the editors' collatio / annotatio numbers it holds, so `Collat. N`
+        # and `annotat. N` land on a chunk. The Appendix restarts both numberings.
+        self.units = {k: parse_int_list(fm.get(k)) for k in
+                      ("collationes", "annotationes",
+                       "appendix_collationes", "appendix_annotationes")}
         body, schol, app = split_sections(raw)
         self.latin_body = body
         self.scholion = schol
@@ -749,6 +755,85 @@ def resolve_work(rec, by_id):
     return cid, "forward"
 
 
+# ------------------------------------------- Collationes in Ioannem units (r. 116)
+
+CIOAN_WORK = "collationes-ioannem"
+ROMAN_VAL = {"I": 1, "V": 5, "X": 10, "L": 50, "C": 100}
+
+
+def roman_value(s):
+    s = s.upper()
+    if not s or any(ch not in ROMAN_VAL for ch in s):
+        return None
+    total = 0
+    for i, ch in enumerate(s):
+        v = ROMAN_VAL[ch]
+        total += -v if i + 1 < len(s) and ROMAN_VAL[s[i + 1]] > v else v
+    return total
+
+
+CIOAN_COLL_RE = re.compile(
+    r"\b[Cc]ollat(?:io|ionem|ione|ionis|\.)\s*(?P<r>[IVXLC]+)\b\.?(?:\s*n\.\s*\d+)?")
+CIOAN_ANNOT_RE = re.compile(r"\b[Aa]nnotat(?:io|ionem|ione|ionis|\.)\s*(?P<a>\d+)")
+
+
+def scan_cioan_units(text, cfg=None):
+    """`Collat. XVIII. n. 3` · `supra collat. XXII. n. 2. et 3.` · `annotat. 22` —
+    the editors' unit numbers, meaningful only inside the Collationes in Ioannem
+    (the citing work's own; never applied to another work's chunks). Section
+    headings (`### Collatio N.`) are display, not citations, and are skipped."""
+    def is_heading(pos):
+        ls = text.rfind("\n", 0, pos) + 1
+        return text[ls:pos].lstrip().startswith("#")
+
+    for m in CIOAN_COLL_RE.finditer(text):
+        if is_heading(m.start()):
+            continue
+        n = roman_value(m.group("r"))
+        if n is None:
+            continue
+        yield {"cls": "crossref", "sub": "cioan-unit", "kind": "collationes",
+               "num": n, "raw": m.group(0).strip(), "pos": m.start()}
+        # `Collat. XXV. n. 2. et XL. n. 1.` — a second collatio stated bare.
+        end = m.end()
+        while True:
+            cm = re.compile(r"\.?\s*(?:seqq?\.\s*)?(?:et|,)\s*(?P<r>[IVXLC]+)\.\s*n\.\s*\d+").match(text, end)
+            if not cm:
+                break
+            n2 = roman_value(cm.group("r"))
+            if n2 is not None:
+                yield {"cls": "crossref", "sub": "cioan-unit", "kind": "collationes",
+                       "num": n2, "raw": cm.group(0).lstrip(". ").strip(), "pos": cm.start()}
+            end = cm.end()
+    for m in CIOAN_ANNOT_RE.finditer(text):
+        if is_heading(m.start()):
+            continue
+        yield {"cls": "crossref", "sub": "cioan-unit", "kind": "annotationes",
+               "num": int(m.group("a")), "raw": m.group(0).strip(), "pos": m.start()}
+
+
+def build_unit_index(by_id):
+    idx = defaultdict(list)
+    for cid, c in by_id.items():
+        if c.work != CIOAN_WORK:
+            continue
+        for kind, nums in c.units.items():
+            for n in nums:
+                idx[(kind, n)].append(cid)
+    return idx
+
+
+def resolve_cioan_unit(rec, unit_index):
+    ids = unit_index.get((rec["kind"], rec["num"]), [])
+    if len(ids) == 1:
+        return ids[0], "chunk"
+    if len(ids) > 1:
+        return "+".join(sorted(ids)), "ambiguous"
+    # Not built yet: the unit exists in the print and will self-resolve.
+    tag = "coll" if rec["kind"] == "collationes" else "annot"
+    return f"work:{CIOAN_WORK}:{tag}{rec['num']}", "forward"
+
+
 # -------------------------------------------------------------------------- driver
 
 
@@ -1107,6 +1192,7 @@ def resolve_anaphora_across_chunks(chunks, per_chunk, cfg=None, qa=None):
 def extract(chunks, cfg, by_locus, by_dist, by_page, by_id):
     rows, qa = [], []
     per_chunk = {}
+    unit_index = build_unit_index(by_id)
     scanners = (scan_scripture_apparatus, scan_scripture_book_unnamed,
                 scan_scripture_body,
                 scan_sentences, scan_chain_continuation, scan_relative,
@@ -1129,7 +1215,7 @@ def extract(chunks, cfg, by_locus, by_dist, by_page, by_id):
             is_app = section.startswith("apparatus:")
             app_label = section.split(":", 1)[1] if is_app else ""
 
-            for scanner in scanners:
+            for scanner in scanners + ((scan_cioan_units,) if c.work == CIOAN_WORK else ()):
                 # Body ordinals are a body phenomenon; apparatus never uses them.
                 if scanner is scan_scripture_body and is_app:
                     continue
@@ -1178,6 +1264,9 @@ def extract(chunks, cfg, by_locus, by_dist, by_page, by_id):
                                        f"of tom. {rec.get('tom') or c.volume}"))
                     elif rec["sub"] == "work":
                         tgt, res = resolve_work(rec, by_id)
+                        conf = ""
+                    elif rec["sub"] == "cioan-unit":
+                        tgt, res = resolve_cioan_unit(rec, unit_index)
                         conf = ""
                     else:
                         continue
