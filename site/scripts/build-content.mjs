@@ -973,6 +973,11 @@ const WORKS = {
       // chapter runs to p. 569 (a leaf edge), and Cᴀᴘɪᴛᴜʟᴜᴍ VII. Post haec autem
       // ambulavit. opens at the head of p. 570.
       6: "Capitulum VI: Post haec abiit Iesus",
+      // `Cᴀᴘɪᴛᴜʟᴜᴍ VII. Post haec autem ambulavit.` read in place on p. 570 at
+      // bon-cioan-c7: full measure at the head of the leaf, unanchored; the
+      // chapter runs to p. 573, where Annot. 32 closes above the full-measure
+      // Cᴀᴘɪᴛᴜʟᴜᴍ VIII. Iesus perrexit in montem.
+      7: "Capitulum VII: Post haec autem ambulavit",
     },
   },
 };

@@ -4667,6 +4667,18 @@ KNOWN_TOTALS_VOL6 = {
     569: 7,  # bon-cioan-c6: nn.1-3 Coll. XXIX, n.4-7 Annot. 24-27; anchors L 1-4 / R 5-7;
              # blocks L 1-3 / R 4-7. LEAF EDGE: Cᴀᴘɪᴛᴜʟᴜᴍ VII. opens at the head of p. 570.
              # Gutter 899.
+    570: 7,  # bon-cioan-c7: nn.1-3 Coll. XXX, nn.4-7 Coll. XXXI (below Cᴀᴘɪᴛᴜʟᴜᴍ VII. at the
+             # head of the leaf; nothing inherited). Anchors L 1-3 / R 4-7; blocks L 1-4 /
+             # R 5-7 (n.4 prints LEFT, anchors RIGHT). Gutter 1168.
+    571: 9,  # bon-cioan-c7: nn.1-9 Coll. XXXI; anchors L 1-6 / R 7-9; blocks L 1-5 / R 6-9
+             # (n.6 prints RIGHT, anchors LEFT). n.1 prints `Exod. 3, 8.` for Exod. 23:8
+             # (bracketed). Gutter 893 top / 903 foot (10 px skew, one split).
+    572: 10, # bon-cioan-c7: nn.1-8 Coll. XXXII, n.9 Annot. 28, n.10 Annot. 29; anchors and
+             # blocks L 1-5 / R 6-10. Gutter 1186.
+    573: 9,  # SHARED: bon-cioan-c7 owns nn.1-4 (n.1 Annot. 30, nn.2-3 Annot. 31, n.4 Annot. 32
+             # `Collat. XXXI.`); nn.5-9 anchor in Coll. XXXIII ¶¶ 1-3 below the full-measure
+             # Cᴀᴘɪᴛᴜʟᴜᴍ VIII. and are bon-cioan-c8's (PENDING until c8 lands).
+             # Blocks L 1-5 / R 6-9. Gutter 923 (Cap. VII region, rows 0.06-0.38).
 }
 
 KNOWN_TOTALS_BY_VOL = {
