@@ -181,7 +181,15 @@ This plan is the score. **Phases 0–3 are pattern-following execution:** Opus f
 Sonnet adequate for Phase 0's copy and labels. **Two places need real judgement:** the Phase 4 authority
 normalization pilot, and the Phase 5 sermon model (folded into the Vol IX pilot). The rest should not need it.
 
-## Questions for Wilson (none blocks Phase 0)
+## Answered (Wilson, 2026-11-06)
+- **Q1 slugs → LATIN** (`/ioannem`, `/sapientiam`, `/collationes-ioannem`); English titles shown on each landing page.
+- **Q2 home intro + footer appeal → written by a Bonaventure scholar** Wilson commissions, not drafted by Claude.
+  Phase 0 still corrects the FACTS (scope table, meta description), but leaves the prose slots for the scholar's
+  text. ⚠ The footer's donation tier labels (`$10 — a distinction`, `$100 — a decade`) are Sentences-shaped too.
+  The labels are text, but they sit on live Stripe Payment Links: change the wording only, never the links, and
+  only with Wilson's OK.
+
+## Questions for Wilson (none blocks Phase 0) — Q1 and Q2 answered above
 
 1. **Slug language.** Latin registry slugs (`/ioannem`, `/sapientiam`), as recommended, or English (`/john`,
    `/wisdom`)? Latin matches how the works are cited and is already frozen in the data. English reads more
