@@ -968,6 +968,11 @@ const WORKS = {
       // chapter runs to the top band of p. 565, where Cᴀᴘɪᴛᴜʟᴜᴍ VI. Post haec
       // abiit Iesus. stands full measure below Annot. 21's close.
       5: "Capitulum V: Post haec erat dies festus",
+      // `Cᴀᴘɪᴛᴜʟᴜᴍ VI. Post haec abiit Iesus.` read in place on p. 565 at
+      // bon-cioan-c6: full measure, unanchored, below Annot. 21's close; the
+      // chapter runs to p. 569 (a leaf edge), and Cᴀᴘɪᴛᴜʟᴜᴍ VII. Post haec autem
+      // ambulavit. opens at the head of p. 570.
+      6: "Capitulum VI: Post haec abiit Iesus",
     },
   },
 };

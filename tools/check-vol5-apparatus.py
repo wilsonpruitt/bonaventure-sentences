@@ -4654,6 +4654,19 @@ KNOWN_TOTALS_VOL6 = {
              # anchors L 1-4 / R 5-8; blocks L 1-3 / R 4-8 (n.4 prints RIGHT, anchors LEFT).
              # Gutter 1149 (16 px skew, one split). p. 565's register (nn.1-8) is bon-cioan-c6's:
              # Annot. 21 closes in its top band UNANCHORED; Cᴀᴘɪᴛᴜʟᴜᴍ VI. follows.
+    565: 8,  # bon-cioan-c6: nn.1-8 Coll. XXVI (below Cᴀᴘɪᴛᴜʟᴜᴍ VI.; the top band is c5's
+             # Annot. 21, unanchored). Anchors L 1-3 / R 4-8; blocks L 1-6 head / R 6 tail-8
+             # (n.6 runs over the gutter); n.8 (Bernard / Manipulus florum) runs over the
+             # page onto the head of p. 566's left block. Gutter 896.
+    566: 8,  # bon-cioan-c6: nn.1-3 Coll. XXVI, nn.4-8 Coll. XXVII; anchors L 1-5 / R 6-8;
+             # blocks L (p.565 n.8 tail) 1-3 / R 4-8. Gutter 1180.
+    567: 9,  # bon-cioan-c6: nn.1-2 Coll. XXVII, n.3 Annot. 22 (Collat. XVI.), n.4 Annot. 23
+             # (Collat. XXIV.), nn.5-9 Coll. XXVIII; anchors and blocks L 1-4 / R 5-9. Gutter 893.
+    568: 8,  # bon-cioan-c6: nn.1-3 Coll. XXVIII, nn.4-8 Coll. XXIX; anchors L 1-5 / R 6-8;
+             # blocks L 1-2 / R 3-8. Gutter 1175.
+    569: 7,  # bon-cioan-c6: nn.1-3 Coll. XXIX, n.4-7 Annot. 24-27; anchors L 1-4 / R 5-7;
+             # blocks L 1-3 / R 4-7. LEAF EDGE: Cᴀᴘɪᴛᴜʟᴜᴍ VII. opens at the head of p. 570.
+             # Gutter 899.
 }
 
 KNOWN_TOTALS_BY_VOL = {
