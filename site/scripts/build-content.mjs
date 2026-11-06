@@ -957,6 +957,12 @@ const WORKS = {
       // chapter runs to p. 554, where Cᴀᴘɪᴛᴜʟᴜᴍ IV. Ut autem cognovit. stands
       // full measure below Annot. 11.
       3: "Capitulum III: Erat autem homo ex Pharisaeis",
+      // `Cᴀᴘɪᴛᴜʟᴜᴍ IV. Ut autem cognovit.` read in place on p. 554 at
+      // bon-cioan-c4: full measure, unanchored, below Annot. 11's close; the
+      // chapter runs to p. 559 (a leaf edge), and Cᴀᴘɪᴛᴜʟᴜᴍ V. Post haec erat
+      // dies festus. opens at the head of p. 560. It includes Coll. XVI, whose
+      // address is (Cap. VI, 27.) (p. 556 n. 8: an anticipated exposition).
+      4: "Capitulum IV: Ut autem cognovit",
     },
   },
 };

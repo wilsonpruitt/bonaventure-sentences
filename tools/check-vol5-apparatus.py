@@ -4631,6 +4631,17 @@ KNOWN_TOTALS_VOL6 = {
              # n.7 Annot. 10, n.8 Annot. 11. Cᴀᴘɪᴛᴜʟᴜᴍ IV. + COLLATIO XIV. stand full measure
              # at ~0.645 and Coll. XIV's ¶1 begins on the leaf UNANCHORED, so nothing forwards
              # (p. 498 rule). Blocks L 1-6 head / R 6 tail-8. Gutter 1174 above the heading.
+    555: 9,  # bon-cioan-c4: nn.1-6 Coll. XIV, nn.7-8 Annot. 12, n.9 Coll. XV; anchors L 1-5 /
+             # R 6-9; blocks L 1-4 / R 5-9. Gutter 899-901 (42 px band, inked rule).
+    556: 10, # bon-cioan-c4: nn.1-7 Coll. XV, nn.8-10 Coll. XVI (n.8 on its (Cap. VI, 27.) lemma,
+             # runs over the gutter); anchors L 1-5 / R 6-10; blocks L 1-8 head / R 8 tail-10.
+             # n.1 prints Luc. 16, 10 (parable at 16:19). Gutter 1180.
+    557: 9,  # bon-cioan-c4: nn.1-6 Coll. XVI, nn.7-8 Annot. 13, n.9 Annot. 14; anchors L 1-5 /
+             # R 6-9; blocks L 1-4 / R 5-9. Gutter 915.
+    558: 7,  # bon-cioan-c4: nn.1-3 Annot. 14, nn.4-6 Coll. XVII, n.7 Coll. XVIII; anchors and
+             # blocks L 1-4 / R 5-7. Gutter 1165 (14 px drift, one split).
+    559: 6,  # bon-cioan-c4: n.1 Coll. XVIII, nn.2-3 Coll. XIX, n.4-6 Annot. 15-17; L 1-3 / R 4-6.
+             # LEAF EDGE: Cap. IV ends here, Cᴀᴘɪᴛᴜʟᴜᴍ V. opens at the head of p. 560. Gutter 916.
 }
 
 KNOWN_TOTALS_BY_VOL = {
