@@ -789,6 +789,11 @@ def scan_cioan_units(text, cfg=None):
     for m in CIOAN_COLL_RE.finditer(text):
         if is_heading(m.start()):
             continue
+        # Another work's collationes (`Hexaem. collat. XX.`, `de Donis collat. III.`)
+        # name THAT work just before the number — not this work's own unit.
+        if re.search(r"(?:Hexaem\w*|Donis|Spirit\w*\s*S\.|Praecept\w*|in\s+Hexaem\w*)\.?\s*$",
+                     text[max(0, m.start() - 30):m.start()]):
+            continue
         n = roman_value(m.group("r"))
         if n is None:
             continue
