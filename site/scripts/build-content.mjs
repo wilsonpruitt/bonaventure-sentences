@@ -978,6 +978,11 @@ const WORKS = {
       // chapter runs to p. 573, where Annot. 32 closes above the full-measure
       // Cᴀᴘɪᴛᴜʟᴜᴍ VIII. Iesus perrexit in montem.
       7: "Capitulum VII: Post haec autem ambulavit",
+      // `Cᴀᴘɪᴛᴜʟᴜᴍ VIII. Iesus perrexit in montem.` read in place on p. 573 at
+      // bon-cioan-c8: full measure mid-leaf, unanchored, below Annot. 32's close;
+      // the chapter runs to p. 578, where Coll. XXXVI closes above the
+      // full-measure Cᴀᴘɪᴛᴜʟᴜᴍ IX. Et praeteriens Iesus.
+      8: "Capitulum VIII: Iesus perrexit in montem",
     },
   },
 };

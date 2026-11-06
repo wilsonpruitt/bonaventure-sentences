@@ -4677,8 +4677,23 @@ KNOWN_TOTALS_VOL6 = {
              # blocks L 1-5 / R 6-10. Gutter 1186.
     573: 9,  # SHARED: bon-cioan-c7 owns nn.1-4 (n.1 Annot. 30, nn.2-3 Annot. 31, n.4 Annot. 32
              # `Collat. XXXI.`); nn.5-9 anchor in Coll. XXXIII ¶¶ 1-3 below the full-measure
-             # Cᴀᴘɪᴛᴜʟᴜᴍ VIII. and are bon-cioan-c8's (PENDING until c8 lands).
-             # Blocks L 1-5 / R 6-9. Gutter 923 (Cap. VII region, rows 0.06-0.38).
+             # Cᴀᴘɪᴛᴜʟᴜᴍ VIII. and are bon-cioan-c8's (FULLY OWNED once c8 landed:
+             # c8 re-derived nn.5-9 by anchor, n.5 at Coll. XXXIII ¶1 cum dicit).
+             # Blocks L 1-5 / R 6-9. Gutter 923 (both regions, Cap. VII rows 0.06-0.38,
+             # Cap. VIII rows 0.42-0.72).
+    574: 9,  # bon-cioan-c8: nn.1-2 Coll. XXXIII, n.3 Annot. 33 (Collat. I.), nn.4-9 Coll.
+             # XXXIV; anchors L 1-5 / R 6-9; blocks L 1-6 / R 7-9 (n.6 GUTTER runover).
+             # n.4 prints `Vers. 26.` for John 8:16 (bracketed). Gutter 1153.
+    575: 9,  # bon-cioan-c8: nn.1-3 Annot. 34, nn.4-9 Coll. XXXV; anchors and blocks
+             # L 1-4 / R 5-9. Gutter 918 (916 top / 920 foot).
+    576: 10, # bon-cioan-c8: nn.1-10 Coll. XXXV; anchors L 1-5 / R 6-10; blocks L 1-7 /
+             # R 8-10 (n.7 GUTTER runover). Gutter 1150.
+    577: 7,  # bon-cioan-c8: nn.1-3 Annot. 35, nn.4-5 Annot. 36, nn.6-7 Coll. XXXVI;
+             # anchors L 1-4 / R 5-7; blocks L 1-5 / R 6-7. Gutter 902.
+    578: 7,  # SHARED: bon-cioan-c8 owns nn.1-5 (Coll. XXXVI ¶¶ 3-6); nn.6-7 anchor in
+             # Coll. XXXVII ¶ 1 below the full-measure Cᴀᴘɪᴛᴜʟᴜᴍ IX. and are
+             # bon-cioan-c9's (PENDING until c9 lands). Blocks L 1-4 / R 5-7.
+             # Gutter 1165 (Cap. VIII region, rows 0.06-0.50); 1167 below.
 }
 
 KNOWN_TOTALS_BY_VOL = {
