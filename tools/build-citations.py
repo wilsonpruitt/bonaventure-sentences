@@ -773,7 +773,7 @@ def roman_value(s):
 
 
 CIOAN_COLL_RE = re.compile(
-    r"\b[Cc]ollat(?:io|ionem|ione|ionis|\.)\s*(?P<r>[IVXLC]+)\b\.?(?:\s*n\.\s*\d+)?")
+    r"\b[Cc]ollat(?:io|ionem|ione|ionis|\.)\s*(?P<r>[IVXLC]+|\d{1,2})\b\.?(?:\s*n\.\s*\d+)?")
 CIOAN_ANNOT_RE = re.compile(r"\b[Aa]nnotat(?:io|ionem|ione|ionis|\.)\s*(?P<a>\d+)")
 
 
@@ -791,10 +791,13 @@ def scan_cioan_units(text, cfg=None):
             continue
         # Another work's collationes (`Hexaem. collat. XX.`, `de Donis collat. III.`)
         # name THAT work just before the number — not this work's own unit.
-        if re.search(r"(?:Hexaem\w*|Donis|Spirit\w*\s*S\.|Praecept\w*|in\s+Hexaem\w*)\.?\s*$",
-                     text[max(0, m.start() - 30):m.start()]):
+        # The work may stand a parenthesis away (`in Hexaëm. (tom. V.) collat. 1.`), so look
+        # back over the current clause (to the last `—`/`;`/newline), diaeresis included.
+        clause = re.split(r"[—;\n]", text[max(0, m.start() - 60):m.start()])[-1]
+        if re.search(r"Hexa[eë]m|Donis|Spirit\w*\s*S\.|Praecept", clause):
             continue
-        n = roman_value(m.group("r"))
+        r = m.group("r")
+        n = int(r) if r.isdigit() else roman_value(r)
         if n is None:
             continue
         yield {"cls": "crossref", "sub": "cioan-unit", "kind": "collationes",

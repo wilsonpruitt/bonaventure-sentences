@@ -22,7 +22,7 @@
 > - **W1** (c5) Ps. 59:4 *Sana contritiones eius* kept in the Douay "Heal thou the breaches thereof" at both its sites, including Coll. XXI ¶ 2 where the prose (*dolor contritionis*) leans on *contritiones*; ruling 93's rule would give "the contritions thereof".
 > - **W2** (c5) ruling 93's rule applied over whole families: *testimonium perhibere* → "give testimony" (John 5:32 lemma adjusted from "beareth witness") and *vivificare* → "give life" (9 Douay sites in Coll. XXII; I Cor. 15:22's passive kept "made alive"). For ratification.
 > - **W3** (c5) Coll. XXV's composite lemma and double address `(Vers. 28. 25.)`, recorded as printed; no convention proposed.
-> - **W4** (c5) RESOLVER GAP: `CIOAN_COLL_RE` (`tools/build-citations.py`, ruling 116) reads roman collatio numbers only; p. 560 n. 3's arabic `(Collat. 21.)` produces no ledger record (silent). Widen to `\d+` with the D1–D7 queue, not run.
+> - **W4** (c5) RESOLVER GAP: `CIOAN_COLL_RE` (`tools/build-citations.py`, ruling 116) reads roman collatio numbers only; p. 560 n. 3's arabic `(Collat. 21.)` produces no ledger record (silent). ✅ **FIXED in the main thread after c5:** the scanner now reads arabic `Collat. N` too (p. 560 n. 3 → `bon-cioan-c5`, +1 record, nothing else moved), and the other-work guard now looks back over the whole clause with the diaeresis (`in Hexaëm. (tom. V.) collat. 1.` stays excluded). Record-only at the gate.
 >
 > (The items collected for the gate, S1–S12 + N1, are ruled: rulings 124–135 above; the evidence sheet keeps the detail.)
 >
