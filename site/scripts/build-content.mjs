@@ -952,6 +952,11 @@ const WORKS = {
       // bon-cioan-c2: full measure, unanchored, below Annot. 3's close; the
       // chapter runs to p. 550, where Cᴀᴘɪᴛᴜʟᴜᴍ III. stands full measure.
       2: "Capitulum II: Nuptiae factae sunt",
+      // `Cᴀᴘɪᴛᴜʟᴜᴍ III. Erat autem homo ex Pharisaeis.` read in place on p. 550 at
+      // bon-cioan-c3: full measure, unanchored, below Annot. 6's close; the
+      // chapter runs to p. 554, where Cᴀᴘɪᴛᴜʟᴜᴍ IV. Ut autem cognovit. stands
+      // full measure below Annot. 11.
+      3: "Capitulum III: Erat autem homo ex Pharisaeis",
     },
   },
 };

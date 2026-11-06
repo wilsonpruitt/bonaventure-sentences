@@ -4620,7 +4620,17 @@ KNOWN_TOTALS_VOL6 = {
              # PAGE-CROSSING runover completing at the head of p. 550's LEFT block. Gutter 906.
     550: 5,  # SHARED: bon-cioan-c2 owns nn.1-4 (n.1 Coll. X ¶10, nn.2-4 Annot. 4-6); the full-
              # measure Cᴀᴘɪᴛᴜʟᴜᴍ III. + COLLATIO XI. follow at ~0.665 and n.5 (Iob quinto⁵,
-             # Coll. XI ¶2) is bon-cioan-c3's. Gutter 1157 above the heading.
+             # Coll. XI ¶2) is bon-cioan-c3's. Gutter 1157 above the heading; 1160 below it.
+    551: 8,  # bon-cioan-c3 (Coll. XI): anchors L 1-4 / R 5-8; blocks L 1-4 head / R 4 tail-8
+             # (n.4 runs over the gutter). Gutter 914 (register 917).
+    552: 8,  # bon-cioan-c3: nn.1-6 Coll. XII, n.7 Annot. 7, n.8 Annot. 8 (Collat. III.);
+             # anchors L 1-5 / R 6-8; blocks L 1-4 head / R 4 tail-8. Skewed leaf: gutter
+             # walks 1152 (head) -> 1179 (foot); one split ~1165 suffices.
+    553: 11, # bon-cioan-c3 (Coll. XIII): anchors L 1-4 / R 5-11; blocks L 1-6 / R 7-11. Gutter 917.
+    554: 8,  # SHARED LEAF, REGISTER WHOLLY bon-cioan-c3's: nn.1-3 Coll. XIII, n.4-6 Annot. 9,
+             # n.7 Annot. 10, n.8 Annot. 11. Cᴀᴘɪᴛᴜʟᴜᴍ IV. + COLLATIO XIV. stand full measure
+             # at ~0.645 and Coll. XIV's ¶1 begins on the leaf UNANCHORED, so nothing forwards
+             # (p. 498 rule). Blocks L 1-6 head / R 6 tail-8. Gutter 1174 above the heading.
 }
 
 KNOWN_TOTALS_BY_VOL = {
