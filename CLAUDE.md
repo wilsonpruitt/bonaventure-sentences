@@ -3300,7 +3300,7 @@ stop after each chunk to ask whether to continue:
    Opus for translation work). The brief: target id + frontmatter; what the resume note says it
    opens on and inherits; "fix the END on the plate from the next heading, extract that leaf
    alone and read it first"; read the START HERE block, the MECHANICS (a)–(g) paragraph and the
-   COLLECTION CHANGE block; format reference = the previous chunk; full per-chunk recipe
+   COLLECTION CHANGE block (now in `manual-review/archive/next-session-resume-archive-2026-11-07.md`); format reference = the previous chunk; full per-chunk recipe
    (transcribe from the plate → literal English → full apparatus → marginalia → registry /
    `KNOWN_TOTALS_VOL6` / ledger → the whole verification suite with denominators read) → **two
    commits** (chunk; then the resume note with a new START HERE block advancing the front) →
