@@ -1018,6 +1018,9 @@ const WORKS = {
       // Capitulum XI: the full-measure Cᴀᴘɪᴛᴜʟᴜᴍ XI. Erat autem quidam languens.
       // stands mid-leaf on p. 585 (verified in place); the chapter runs to p. 593.
       11: "Capitulum XI: Erat autem quidam languens",
+      // Capitulum XII: the full-measure Cᴀᴘɪᴛᴜʟᴜᴍ XII. Iesus ergo ante sex dies Paschae.
+      // stands mid-leaf on p. 593 (verified in place); the chapter runs to p. 597.
+      12: "Capitulum XII: Iesus ergo ante sex dies Paschae",
     },
   },
 };
