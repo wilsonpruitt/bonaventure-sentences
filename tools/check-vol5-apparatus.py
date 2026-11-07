@@ -4821,7 +4821,16 @@ KNOWN_TOTALS_VOL6 = {
     619: 9,  # SHARED: bon-cioan-c18-19 owns nn.1-5 (Coll. LXXI ¶¶ 1-4; anchors L 1-3 / R 4-5,
              # all printed in the L block; n.5 runs over the gutter); nn.6-9 anchor in Annot. 70
              # below the full-measure, UNANCHORED Cᴀᴘɪᴛᴜʟᴜᴍ XX. Una autem Sabbati. and are
-             # bon-cioan-c20's (PENDING until c20 lands). Gutter 908 above the heading.
+             # bon-cioan-c20's (re-derived by anchor: L 6-7 / R 8-9, all printed in the R block).
+             # Gutter 908 above the heading, 906 below it.
+    620: 10, # bon-cioan-c20: nn.1-3 Coll. LXXII ¶ 1, nn.4-6 ¶ 2, nn.7-10 Coll. LXXIII ¶¶ 1-2;
+             # anchors L 1-5 / R 6-10; blocks L 1-2 / R 3-10 (nn.3-5 anchor L, print R). Gutter 1147.
+    621: 7,  # bon-cioan-c20: nn.1-3 Coll. LXXIII ¶¶ 3 (first)-4, n.4 ¶ 5, nn.5-7 Coll. LXXIV ¶¶ 1-3;
+             # anchors L 1-2 / R 3-7; blocks L 1-3 / R 4-7 (n.3 anchors R, prints L). Gutter 921.
+    622: 10, # SHARED: bon-cioan-c20 owns nn.1-8 (Coll. LXXIV ¶¶ 3-5 L 1-5, Annot. 71-72 R 6-8)
+             # above the full-measure, UNANCHORED Cᴀᴘɪᴛᴜʟᴜᴍ XXI. Postea manifestavit se iterum.;
+             # nn.9-10 anchor in Annot. 73 ¶ 1 below it (L 9 / R 10, both printed in the R block)
+             # and are bon-cioan-c21's (PENDING until c21 lands). Gutter 1166 above the heading.
 }
 
 KNOWN_TOTALS_BY_VOL = {

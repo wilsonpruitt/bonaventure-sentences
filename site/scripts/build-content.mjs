@@ -1043,6 +1043,11 @@ const WORKS = {
       // where Cᴀᴘɪᴛᴜʟᴜᴍ XX. stands full measure. The index's separate "Capitulum XIX." line
       // is recorded, not followed (ruling 119).
       19: "Capitulum XVIII et XIX: Tunc ergo apprehendit Pilatus Iesum",
+      // `Cᴀᴘɪᴛᴜʟᴜᴍ XX. Una autem Sabbati.` read in place on p. 619 at bon-cioan-c20:
+      // full measure, unanchored, below Coll. LXXI's close; the chapter runs to p. 622,
+      // where Cᴀᴘɪᴛᴜʟᴜᴍ XXI. Postea manifestavit se iterum. stands full measure below
+      // Annot. 72.
+      20: "Capitulum XX: Una autem Sabbati",
     },
   },
 };
