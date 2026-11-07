@@ -3784,3 +3784,24 @@ it from there. **Never build an address by hand anywhere else.**
   by their book's rule automatically. ⚠ **A new BOOK needs a fresh `pnpm build`** so its rules are written.
 - Verified 2026-11-06 against `npx vercel build --prod` output (`.vercel/output/config.json`, the compiled routes
   Vercel actually serves): **7,266/7,266 old addresses → expected page, permanent, file present, no chains.**
+
+### Look-up and anchors (SITE-PLAN Phase 3, 2026-11-06)
+
+- **`index/citations.tsv` has an `anchor` column** (last): where INSIDE the target chunk a chunk-resolved
+  cross-ref lands, as the id the site renders — `coll-N` / `annot-N` (Collationes units), `dub-N` (only if the
+  target's Latin really carries that dubium, as `#### Dub. N` or a `**Dub. N.**` opener), `n-N` (John
+  commentary paragraph), `fn-p{page}-{nota}` (a `pag. P, nota N` citation whose note exists). Never guessed;
+  **verified against the built pages: 1,494/1,494 present.** Reading it by column NAME only (DictReader).
+- **W10 closed:** `Comment. in Ioan. c. N. n. M` → the pericope whose `paragraphs:` range holds M (subclass
+  `ioan-paragraph`); Bonelli's pseudonymous commentary and other authors' are excluded. 4 records.
+- **Heading and paragraph ids** come from `site/src/lib/headings.ts` (from the LATIN headings) and the reader's
+  cursor (`n-N` only inside the chunk's `paragraphs:` range, first occurrence; `dub-N` for bold openers). One
+  column carries ids. **A new id scheme must keep `assign_anchors` in `build-citations.py` in step.**
+- **Cited-by links land on the citing NOTE** (`url#fn-{label}`), from the ledger's `section`.
+- **`python3.11 tools/build-index-json.py` also writes `site/public/goto.json`** (gitignored, like `index-*.json`):
+  every chunk's coordinates + `by_page`. It feeds the go-to box (`src/lib/goto.ts`, the ledger's wildcard rule
+  ported) and the `/tome/N/page/M` stubs (`scripts/build-page-stubs.mjs`, post-build). Run it after ANY ledger
+  rebuild and before `pnpm build` / `vercel build`.
+- ⚠ **Known, not fixed (Phase 4 territory):** the ledger's `works` table (`tools/scripture-books.json`) has stale
+  `chunk_pattern`s for hexaemeron / mysterio-trinitatis / perfectione-evangelica, and `Hexaem.` also names
+  Basil's and Ambrose's works, so those citations stop at the work level. Fixing it needs the author guard.

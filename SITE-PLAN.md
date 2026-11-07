@@ -203,6 +203,22 @@ old division pages redirect to `/{slug}#d-N`); the bare-id `bon-red` lives at `/
 - **Close W10:** a `works` entry for `Comment. in Ioan.` (chapter + paragraph → pericope chunk through the
   `paragraphs:` frontmatter of ruling 73), so the Commentary and the *Collationes* link to each other.
 
+**▶ Phase 3 STATUS (2026-11-06): BUILT and verified locally, NOT deployed.** (Detail: repo `CLAUDE.md` § "Look-up
+and anchors".)
+- **Go-to box** on /browse and /search (`src/lib/goto.ts` + `public/goto.json`). *Verified: 197/200 random
+  chunk-resolved ledger records (logical, relative, page, work) land on the ledger's own target = 98.5%; all 13
+  Collationes-unit + W10 records land.* The 3 misses are all inheritance from earlier in the same NOTE (a
+  `tom. N` or `III. Sent.` named before a bare `pag.` / `ibid. d.`), which a typed query never has.
+  Chain-continuations and anaphors are excluded from the sample for the same reason.
+- **`/tome/N/page/M`** for all 4,931 printed pages the translation holds (post-build stubs: forward to the owning
+  chunk, or list the sharers); `/tome/1–4` → `/sentences/1–4`. Vercel lists the stubs in its overrides, so the
+  clean address serves. ⏭ Not done: landing on the page MARKER inside a long chunk (markers have no ids yet).
+- **Anchor column** in the ledger: 1,494 anchors, every one present on its built target. Cited-by → 9,600 note
+  links, every one present. Ledger otherwise unchanged (+4 records, the W10 class; −0).
+- **W10 CLOSED** (4 `ioan-paragraph` records; *Collationes* ↔ *Commentary* now linked).
+- ⏭ **¶ anchors outside the John commentary** (Itinerarium, Collationes `n.` inside a collatio) still deferred:
+  they need unit-qualified ids (`coll-18-n-4`) and nothing cites them at that grain yet.
+
 **Phase 4: the authorities index (new extraction; one conventions pilot first).**
 - The judgement-dense part: an **authority normalization table**. Author sigla → canonical author; work titles →
   canonical work (Augustine's ~100 works under their many Quaracchi abbreviations); locus forms (book/chapter, PL/PG

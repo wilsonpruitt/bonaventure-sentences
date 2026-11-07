@@ -120,6 +120,7 @@ export function ChunkView({ stop }: { stop: ReadingStop }) {
       <TextReader
         anchorIds={ids}
         englishAnchors={englishAnchors}
+        paraRange={question.paragraphs}
         latin={question.latin}
         english={question.english}
         latinScholion={question.latinScholion ?? ""}

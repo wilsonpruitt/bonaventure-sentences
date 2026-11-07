@@ -1,12 +1,14 @@
 import Link from "next/link";
 import { loadAllContent, browseEntries, divisionCountLabel, tomePath } from "@/lib/content";
 import { Illumination } from "@/components/decorations";
+import { GotoBox } from "@/components/goto-box";
 
 export default function BrowsePage() {
   const entries = browseEntries(loadAllContent());
 
   return (
     <div>
+      <GotoBox />
       <div className="section-title">Browse All Books</div>
       {entries.map((entry) => {
         const { href, key, letter, title, meta } =

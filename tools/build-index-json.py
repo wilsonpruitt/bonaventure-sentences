@@ -231,15 +231,126 @@ def build_crossref(rows, urls):
                 if level == "chunk":
                     slot[src]["level"] = "chunk"
                 continue
+            # Land on the NOTE that cites, not the top of the citing chunk.
+            note = r["section"].split(":", 1)[1] if r["section"].startswith("apparatus:") else ""
             slot[src] = {
-                "chunk": src, "url": su["url"], "title": su["title"],
+                "chunk": src, "url": su["url"] + (f"#fn-{note}" if note else ""),
+                "title": su["title"],
                 "work": su["book"], "division": su["division"],
                 "raw": r["raw_text"], "level": level, "n": 1,
                 "viaIbid": bool(r["ibid_resolved"]),
+                "anchor": r.get("anchor", ""),
             }
 
     return {t: sorted(v.values(), key=lambda x: (x["work"], x["division"], x["chunk"]))
             for t, v in inbound.items()}
+
+
+GOTO_OUT = os.path.join(ROOT, "site", "public", "goto.json")
+
+# Abbreviations a reader may type for each work, beyond the ledger's own table
+# (tools/scripture-books.json `works`). Matching is case- and point-insensitive.
+GOTO_EXTRA_ABBREV = {
+    "breviloquium": ["Breviloquium", "Brev."],
+    "itinerarium": ["Itinerarium", "Itin."],
+    "de-reductione": ["de Reductione", "Red.", "De reductione artium"],
+    "hexaemeron": ["Collat. in Hexaem.", "in Hexaem.", "Hexaemeron", "Hex."],
+    "septem-donis": ["de Donis", "de septem donis", "Collat. de donis", "de donis Spiritus S."],
+    "decem-praeceptis": ["de decem praeceptis", "de Praeceptis", "Collat. de decem praec.", "Praec."],
+    "scientia-christi": ["de Scientia Christi", "Scient. Chr.", "QD de sc. Chr."],
+    "mysterio-trinitatis": ["de Mysterio Trinitatis", "Myst. Trin.", "de Myst. Trin."],
+    "perfectione-evangelica": ["de Perfectione evangelica", "Perf. ev.", "de Perf. evang."],
+    "sermones-selecti": ["Sermones selecti", "Serm. sel."],
+    "ecclesiasten": ["Comment. in Eccl.", "in Eccl.", "Ecclesiasten", "Eccl."],
+    "sapientiam": ["Comment. in Sap.", "in Sap.", "in librum Sapientiae", "Sap."],
+    "ioannem": ["Comment. in Ioan.", "Comment. in Ioannem", "in Ioan.", "in Ioannem"],
+    "collationes-ioannem": ["Collat. in Ioan.", "Collationes in Ioannem", "Collat. in Ioannem", "Coll. in Ioan."],
+}
+ID_TOKEN_RE = re.compile(r"^([a-z]+?)(\d+)(?:-(\d+))?$")
+
+
+def build_goto(bc, cfg):
+    """site/public/goto.json — everything the go-to box needs, fetched on first use.
+
+    Every chunk is listed with its COORDINATES, read from the frozen id and the
+    frontmatter, never typed by hand: Sentences (book, distinction, pars, sectio,
+    articulus, quaestio | type) exactly as build-citations.py's `by_locus` keys
+    them; a work chunk by its id tokens (`bon-brev-p5-c6` -> p=5 c=6;
+    `bon-ioan-c7-v40-53` -> c=7, verses 40-53) plus its paragraph range and
+    Collationes units. The client resolves with the ledger's own rule: an
+    unstated coordinate is a wildcard, and only a UNIQUE survivor resolves.
+    Printed pages come from `by_page`, the same index the ledger resolves on."""
+    with open(CONTENT, encoding="utf-8") as fh:
+        books = json.load(fh)
+    path_of, slug_of = {}, {}
+    for b in books:
+        for d in b["distinctions"]:
+            for q in d["questions"]:
+                path_of[q["id"]] = q["path"]
+                slug_of[q["id"]] = b["slug"]
+
+    paths = [p for v in sorted(bc.VOLUME_COMPLETE)
+             for p in sorted(glob.glob(os.path.join(ROOT, f"vol{v}", "*.md")))]
+    corpus = [c for c in (bc.Chunk(p) for p in paths) if c.cid in path_of]
+    _, _, by_page, _ = bc.build_indexes(corpus)
+
+    chunks = []
+    for c in corpus:
+        e = {"id": c.cid, "path": path_of[c.cid], "w": slug_of[c.cid]}
+        if c.book and c.dist is not None and slug_of[c.cid] == "sentences":
+            e["t"] = {k: v for k, v in (("b", c.book), ("d", c.dist), ("p", c.pars),
+                                        ("s", c.sectio), ("a", c.art),
+                                        ("q", c.quaestio)) if v is not None}
+            if not c.quaestio:
+                e["type"] = c.ctype
+        else:
+            t = {}
+            prefix = re.match(r"^bon-[a-z]+-?", c.cid).group(0)
+            # Tokens like p5 / c6 / q1 / a2 / v40 (+ range tail) / s1 / coll4.
+            rest = c.cid[len(prefix):] if c.cid.startswith(prefix) else ""
+            parts = rest.split("-") if rest else []
+            i = 0
+            while i < len(parts):
+                m = re.match(r"^([a-z]+)(\d+)$", parts[i])
+                if m:
+                    key, num = m.group(1), int(m.group(2))
+                    if key == "v":
+                        end = num
+                        if i + 1 < len(parts) and parts[i + 1].isdigit():
+                            end = int(parts[i + 1]); i += 1
+                        e["v"] = [num, end]
+                    else:
+                        t[key] = num
+                elif parts[i]:
+                    e["type"] = parts[i] if "type" not in e else e["type"] + "-" + parts[i]
+                i += 1
+            if t:
+                e["t"] = t
+            if c.paragraphs:
+                e["n"] = list(c.paragraphs)
+            units = {k: v for k, v in c.units.items() if v}
+            if units:
+                e["u"] = units
+        chunks.append(e)
+
+    works = {}
+    for entry in cfg["works"]["entries"]:
+        works.setdefault(entry["slug"], []).extend(entry["abbrev"])
+    for slug, abbrevs in GOTO_EXTRA_ABBREV.items():
+        works.setdefault(slug, []).extend(a for a in abbrevs if a not in works.get(slug, []))
+
+    pages = {f"{v}:{p}": [path_of[cid] for cid in ids if cid in path_of]
+             for (v, p), ids in by_page.items() if v is not None}
+    out = {
+        "_about": "Generated by tools/build-index-json.py. Do not hand-edit; regenerate.",
+        "works": works,
+        "chunks": chunks,
+        "pages": {k: v for k, v in pages.items() if v},
+    }
+    with open(GOTO_OUT, "w", encoding="utf-8") as fh:
+        json.dump(out, fh, ensure_ascii=False, separators=(",", ":"))
+    print(f"goto            : {len(chunks)} chunks, {len(out['pages'])} printed pages, "
+          f"{os.path.getsize(GOTO_OUT)/1e3:.0f} KB")
 
 
 def main():
@@ -300,6 +411,8 @@ def main():
 
     if args.scripture:
         return 0
+
+    build_goto(bc, cfg)
 
     inbound = build_crossref(rows, urls)
     xpath = os.path.join(OUT_DIR, "index-crossref.json")

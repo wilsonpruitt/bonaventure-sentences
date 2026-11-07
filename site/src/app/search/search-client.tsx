@@ -2,6 +2,7 @@
 
 import { useEffect, useRef, useState } from "react";
 import Link from "next/link";
+import { GotoBox } from "@/components/goto-box";
 
 // Pagefind's runtime is generated into out/pagefind/ by the post-build step
 // (`pagefind --site out`). It does not exist under `next dev`; the page says so
@@ -90,6 +91,7 @@ export function SearchClient() {
 
   return (
     <div>
+      <GotoBox />
       <div className="section-title">Search the Corpus</div>
       <p className="card-meta" style={{ marginBottom: "1rem" }}>
         Searches the full Latin and English text of every chunk, with the editors&rsquo; notes. Put

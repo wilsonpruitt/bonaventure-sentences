@@ -28,6 +28,8 @@ export interface Question {
   path: string;
   /** Printed span [first, last] from the chunk's `printed_pages`. */
   pages?: [number, number];
+  /** Quaracchi paragraph range [first, last] (John commentary, ruling 73). */
+  paragraphs?: [number, number];
 }
 
 export interface Distinction {

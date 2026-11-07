@@ -1189,6 +1189,13 @@ for (const { file, dir } of latinFiles) {
       const nums = String(meta.printed_pages ?? "").match(/\d+/g)?.map(Number) ?? [];
       return nums.length ? [Math.min(...nums), Math.max(...nums)] : undefined;
     })(),
+    // Quaracchi paragraph range [first, last] (`paragraphs: "58-75"`, ruling 73:
+    // the John commentary numbers its paragraphs per chapter). Drives the reader's
+    // `#n-N` anchors, which Comment. in Ioan. c. N. n. M citations land on.
+    paragraphs: (() => {
+      const m = String(meta.paragraphs ?? "").match(/^\s*"?(\d+)\s*-\s*(\d+)/);
+      return m ? [Number(m[1]), Number(m[2])] : undefined;
+    })(),
     title: meta.title || "",
     titleLa: meta.title_la || "",
     titleEn: meta.title_en || "",
@@ -1226,6 +1233,7 @@ for (const { file, dir } of latinFiles) {
     isFront: isSentencesFront(chunkMeta),
     firstPage: chunkMeta.firstPage,
     pages: chunkMeta.pages,
+    paragraphs: chunkMeta.paragraphs,
   });
 }
 

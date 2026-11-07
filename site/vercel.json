@@ -26,6 +26,11 @@
       "permanent": true
     },
     {
+      "source": "/tome/1",
+      "destination": "/sentences/1",
+      "permanent": true
+    },
+    {
       "source": "/browse/2/d/0/q/bon-sent-II-:unit",
       "destination": "/sentences/2/:unit",
       "permanent": true
@@ -47,6 +52,11 @@
     },
     {
       "source": "/browse/2",
+      "destination": "/sentences/2",
+      "permanent": true
+    },
+    {
+      "source": "/tome/2",
       "destination": "/sentences/2",
       "permanent": true
     },
@@ -76,6 +86,11 @@
       "permanent": true
     },
     {
+      "source": "/tome/3",
+      "destination": "/sentences/3",
+      "permanent": true
+    },
+    {
       "source": "/browse/4/d/0/q/bon-sent-IV-:unit",
       "destination": "/sentences/4/:unit",
       "permanent": true
@@ -97,6 +112,11 @@
     },
     {
       "source": "/browse/4",
+      "destination": "/sentences/4",
+      "permanent": true
+    },
+    {
+      "source": "/tome/4",
       "destination": "/sentences/4",
       "permanent": true
     },

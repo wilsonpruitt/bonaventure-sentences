@@ -104,7 +104,7 @@ def normalize_abbrev(s: str) -> str:
 class Chunk:
     __slots__ = ("path", "cid", "volume", "book", "dist", "pars", "sectio", "art",
                  "quaestio", "ctype", "pages", "work", "division", "capitulum",
-                 "latin_body", "scholion", "apparatus", "units")
+                 "latin_body", "scholion", "apparatus", "units", "paragraphs")
 
     def __init__(self, path):
         self.path = path
@@ -133,6 +133,15 @@ class Chunk:
         self.units = {k: parse_int_list(fm.get(k)) for k in
                       ("collationes", "annotationes",
                        "appendix_collationes", "appendix_annotationes")}
+        # Ruling 73 (Vol VI John commentary): a pericope chunk declares the range
+        # of Quaracchi paragraph numbers it holds (`paragraphs: "58-75"`); the
+        # numbering runs per chapter, so (chapter, n) names exactly one chunk.
+        pm = re.match(r'^\s*"?(\d+)\s*-\s*(\d+)', str(fm.get("paragraphs") or ""))
+        self.paragraphs = (int(pm.group(1)), int(pm.group(2))) if pm else None
+        if self.capitulum is None:
+            cm = re.match(r"^bon-ioan-c(\d+)-", self.cid)
+            if cm:
+                self.capitulum = int(cm.group(1))
         body, schol, app = split_sections(raw)
         self.latin_body = body
         self.scholion = schol
@@ -842,6 +851,110 @@ def resolve_cioan_unit(rec, unit_index):
     return f"work:{CIOAN_WORK}:{tag}{rec['num']}", "forward"
 
 
+# ------------------------------- Comment. in Ioan. c. N. n. M (W10, SITE-PLAN 3)
+
+IOAN_WORK = "ioannem"
+# Bonaventure's own John commentary, cited by chapter and Quaracchi paragraph
+# (`supra Comment. in Ioan. c. 5. n. 57.`). NOT the pseudonymous commentary in
+# Bonelli's Supplementum (`Comment. in Ioan. c. 14. n. 999. (Supplem. Bonelli…`),
+# nor another author's (`Origenes, Comment. in Ioan. tom. 32. n. 19`), which
+# cites by tome and is excluded by the required `c. N. n. M` shape.
+IOAN_PARA_RE = re.compile(
+    r"Comment\.?\*?\s+in\s+Ioan\.?\*?\s+c\.\s*(?P<c>\d+)\.?,?\s*n\.\s*(?P<n>\d+)\.?"
+)
+
+
+def scan_ioan_paragraph(text, cfg):
+    for m in IOAN_PARA_RE.finditer(text):
+        if re.search(r"Bonelli|Suppl", text[m.end():m.end() + 60]):
+            continue
+        if governed_by_author(text, m.start(), cfg["_author_sigla"]):
+            continue
+        yield {"cls": "crossref", "sub": "ioan-paragraph",
+               "chap": int(m.group("c")), "n": int(m.group("n")),
+               "raw": m.group(0).strip(), "pos": m.start()}
+
+
+def build_paragraph_index(by_id):
+    idx = defaultdict(list)
+    for cid, c in by_id.items():
+        if c.work == IOAN_WORK and c.paragraphs and c.capitulum:
+            for n in range(c.paragraphs[0], c.paragraphs[1] + 1):
+                idx[(c.capitulum, n)].append(cid)
+    return idx
+
+
+def resolve_ioan_paragraph(rec, para_index):
+    ids = para_index.get((rec["chap"], rec["n"]), [])
+    if len(ids) == 1:
+        return ids[0], "chunk"
+    if len(ids) > 1:
+        return "+".join(sorted(ids)), "ambiguous"
+    return "", "dangling"
+
+
+# ------------------------------------------- anchors inside the target (Phase 3)
+
+ANCHOR_DUB_RE = re.compile(r"\bdub\.\s*(\d+)")
+ANCHOR_NOTA_RE = re.compile(r"pag\.\s*(\d{1,4})\s*,\s*nota\s*(\d+)")
+
+
+def to_roman(n):
+    out = ""
+    for v, sym in ((50, "L"), (40, "XL"), (10, "X"), (9, "IX"), (5, "V"), (4, "IV"), (1, "I")):
+        while n >= v:
+            out, n = out + sym, n - v
+    return out
+
+
+def assign_anchors(rows, by_id):
+    """The `anchor` column: where INSIDE the target chunk a citation lands, as the
+    id the site renders (src/lib/headings.ts; text-reader paragraph and footnote
+    ids). Filled only where the citation itself names the unit; never guessed.
+    The site build verifies every value against the rendered target page."""
+    for r in rows:
+        r["anchor"] = ""
+        if r["class"] != "crossref" or r["resolution"] != "chunk":
+            continue
+        tgt, raw, sub = r["normalized_target"], r["raw_text"], r["subclass"]
+        c = by_id.get(tgt)
+        if not c:
+            continue
+        if sub == "cioan-unit":
+            m = CIOAN_ANNOT_RE.search(raw)
+            if m:
+                r["anchor"] = f"annot-{int(m.group('a'))}"
+            else:
+                m = CIOAN_COLL_RE.search(raw)
+                if m:
+                    v = m.groupdict()
+                    num = next((x for x in v.values() if x), None)
+                    n = roman_value(num) if num and not num.isdigit() else (int(num) if num else None)
+                    if n:
+                        r["anchor"] = f"coll-{n}"
+        elif sub == "ioan-paragraph":
+            m = IOAN_PARA_RE.search(raw)
+            if m:
+                r["anchor"] = f"n-{int(m.group('n'))}"
+        elif tgt.endswith("-dubia") or tgt.endswith("-dubium"):
+            m = ANCHOR_DUB_RE.search(raw)
+            # Only when the target really carries that dubium's label, as a
+            # heading (`#### Dub. V.`) or a bold opener (`**Dub. V.**`). A cited
+            # dubium the chunk does not hold (a printer's slip, or numbering
+            # running on across a distinction's partes) gets no anchor.
+            if m and re.search(rf"^(?:#{{3,4}}\s+|\*\*)Dub(?:ium)?\.\s*{to_roman(int(m.group(1)))}(?![IVXL])",
+                               c.latin_body, re.M | re.I):
+                r["anchor"] = f"dub-{int(m.group(1))}"
+        if not r["anchor"]:
+            m = ANCHOR_NOTA_RE.search(raw)
+            if m:
+                page, nota = m.group(1), m.group(2)
+                if f"p{page}-{nota}" in c.apparatus:
+                    r["anchor"] = f"fn-p{page}-{nota}"
+                elif nota in c.apparatus and c.pages and set(c.pages) == {int(page)}:
+                    r["anchor"] = f"fn-{nota}"
+
+
 # -------------------------------------------------------------------------- driver
 
 
@@ -1201,10 +1314,11 @@ def extract(chunks, cfg, by_locus, by_dist, by_page, by_id):
     rows, qa = [], []
     per_chunk = {}
     unit_index = build_unit_index(by_id)
+    para_index = build_paragraph_index(by_id)
     scanners = (scan_scripture_apparatus, scan_scripture_book_unnamed,
                 scan_scripture_body,
                 scan_sentences, scan_chain_continuation, scan_relative,
-                scan_page, scan_work)
+                scan_page, scan_work, scan_ioan_paragraph)
 
     for c in chunks:
         # DOCUMENT ORDER is the resolution key for anaphora, so records are collected
@@ -1276,6 +1390,12 @@ def extract(chunks, cfg, by_locus, by_dist, by_page, by_id):
                     elif rec["sub"] == "cioan-unit":
                         tgt, res = resolve_cioan_unit(rec, unit_index)
                         conf = ""
+                    elif rec["sub"] == "ioan-paragraph":
+                        tgt, res = resolve_ioan_paragraph(rec, para_index)
+                        conf = ""
+                        if res == "dangling":
+                            qa.append((c.cid, section, rec["raw"],
+                                       f"no pericope holds Ioan. c. {rec['chap']} n. {rec['n']}"))
                     else:
                         continue
 
@@ -1303,7 +1423,7 @@ def extract(chunks, cfg, by_locus, by_dist, by_page, by_id):
 
 COLUMNS = ["chunk_id", "volume", "section", "anchor_label", "class", "subclass",
            "raw_text", "normalized_target", "confidence", "resolution",
-           "ibid_resolved", "antecedent"]
+           "ibid_resolved", "antecedent", "anchor"]
 
 
 def dedupe(rows):
@@ -1363,6 +1483,7 @@ def main():
     rows, qa, unresolved_anaphora = extract(chunks, cfg, by_locus, by_dist, by_page, by_id)
     rows = dedupe(rows)
     slip_notes = apply_printed_slips(rows)
+    assign_anchors(rows, by_id)
 
     os.makedirs(os.path.dirname(args.out), exist_ok=True)
     with open(args.out, "w", encoding="utf-8") as fh:

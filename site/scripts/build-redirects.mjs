@@ -41,6 +41,8 @@ for (const b of books) {
     r(`/browse/${b.id}/d/:d`, `${b.path}#d-:d`);
   }
   r(`/browse/${b.id}`, b.path);
+  // Tomes I–IV are one work each: /tome/N is that book.
+  if (b.slug === "sentences") r(`/tome/${b.id}`, b.path);
 }
 r("/browse/tome/:n", "/tome/:n");
 

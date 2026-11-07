@@ -23,6 +23,7 @@ export function TextReader({
   hasTranslation,
   anchorIds = [],
   englishAnchors = false,
+  paraRange,
 }: {
   latin: string;
   english: string;
@@ -35,6 +36,8 @@ export function TextReader({
    *  carry the same headings (`englishAnchors`). Exactly one column has them. */
   anchorIds?: string[];
   englishAnchors?: boolean;
+  /** Quaracchi paragraph numbers this chunk owns; each gets `#n-N` once. */
+  paraRange?: [number, number];
 }) {
   const [viewMode, setViewMode] = useState(hasTranslation ? "parallel" : "latin");
   const [pageMode, setPageMode] = useState<PageMode>("margin");
@@ -95,6 +98,7 @@ export function TextReader({
       {viewMode === "parallel" ? (
         <ParallelText
           anchorIds={anchorIds}
+          paraRange={paraRange}
           latin={latin}
           english={english}
           latinScholion={latinScholion}
@@ -110,7 +114,7 @@ export function TextReader({
             scholion={latinScholion}
             pageMode={pageMode}
             className="latin-text"
-            anchors={cursor(anchorIds)}
+            anchors={cursor(anchorIds, paraRange)}
           />
         </div>
       ) : (
@@ -122,7 +126,7 @@ export function TextReader({
             pageMode={pageMode}
             className="english-text"
             pendingFallback={!hasTranslation}
-            anchors={englishAnchors ? cursor(anchorIds) : undefined}
+            anchors={englishAnchors ? cursor(anchorIds, paraRange) : undefined}
           />
         </div>
       )}
@@ -140,6 +144,7 @@ export function TextReader({
 // grid is one column and `order` puts all the Latin before all the English.
 function ParallelText({
   anchorIds,
+  paraRange,
   latin,
   english,
   latinScholion,
@@ -154,8 +159,9 @@ function ParallelText({
   pageMode: PageMode;
   hasTranslation: boolean;
   anchorIds: string[];
+  paraRange?: [number, number];
 }) {
-  const anchors = cursor(anchorIds);
+  const anchors = cursor(anchorIds, paraRange);
   const la = splitSections(joinPageTurns(latin));
   const en = splitSections(joinPageTurns(english));
   if (!hasTranslation || !sameShape(la, en)) {
@@ -362,9 +368,52 @@ function sameShape(a: string[][], b: string[][]): boolean {
   return a.every((sec, i) => level(sec) === level(b[i]));
 }
 
-// Hands out heading ids in render order; one cursor per rendered column.
-type Cursor = { ids: string[]; i: number };
-const cursor = (ids: string[]): Cursor => ({ ids, i: 0 });
+// Hands out heading ids in render order, and `n-N` ids to the first paragraph
+// opening with each Quaracchi number in the chunk's own range (a quaestio inside
+// a pericope restarts its arguments at 1., which must not take the id).
+// One cursor per rendered column, so exactly one column carries the ids.
+type Cursor = {
+  ids: string[];
+  i: number;
+  range?: [number, number];
+  used: Set<number>;
+  taken: Set<string>;
+};
+const cursor = (ids: string[], range?: [number, number]): Cursor => ({
+  ids,
+  i: 0,
+  range,
+  used: new Set(),
+  taken: new Set(ids),
+});
+const PARA_NUM_RE = /^(?:<!--\s*page\s+\d+\s*-->)?(\d+)\.\s/;
+// A dubium set as a bold opener (`**Dub. VI.** Item quaeritur…`, the Vol II
+// style) gets the same `#dub-N` a `#### Dub. VI.` heading would.
+const DUB_OPENER_RE = /^(?:<!--\s*page\s+\d+\s*-->)?\*\*Dub(?:ium)?\.\s*([IVXL]+)\.?\*\*/i;
+const romanToInt = (s: string) => {
+  const V: Record<string, number> = { I: 1, V: 5, X: 10, L: 50 };
+  let n = 0;
+  const u = s.toUpperCase();
+  for (let i = 0; i < u.length; i++) n += V[u[i]] < (V[u[i + 1]] ?? 0) ? -V[u[i]] : V[u[i]];
+  return n;
+};
+function paraId(text: string, anchors?: Cursor): string | undefined {
+  if (!anchors) return undefined;
+  const d = text.match(DUB_OPENER_RE);
+  if (d) {
+    const id = `dub-${romanToInt(d[1])}`;
+    if (anchors.taken.has(id)) return undefined;
+    anchors.taken.add(id);
+    return id;
+  }
+  if (!anchors.range) return undefined;
+  const m = text.match(PARA_NUM_RE);
+  if (!m) return undefined;
+  const n = Number(m[1]);
+  if (n < anchors.range[0] || n > anchors.range[1] || anchors.used.has(n)) return undefined;
+  anchors.used.add(n);
+  return `n-${n}`;
+}
 
 function renderBody(body: string, className: string, pageMode: PageMode, anchors?: Cursor) {
   return renderParas(joinPageTurns(body), className, pageMode, anchors);
@@ -458,7 +507,7 @@ function renderParas(
     }
 
     nodes.push(
-      <p key={i} className={className} style={{ marginBottom: "1rem" }}>
+      <p key={i} className={className} style={{ marginBottom: "1rem" }} id={paraId(trimmed, anchors)}>
         {renderInline(trimmed, pageMode)}
       </p>
     );
