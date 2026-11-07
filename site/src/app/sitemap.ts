@@ -1,6 +1,7 @@
 import type { MetadataRoute } from "next";
 import { loadAllContent, tomeGroups, tomePath } from "@/lib/content";
 import toc from "@/data/index-scripture-toc.json";
+import { authorityToc } from "@/lib/authorities";
 
 const BASE = "https://bonaventure.wrootpress.com";
 
@@ -14,6 +15,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/about",
     "/browse",
     "/scripture",
+    "/authorities",
     "/search",
     "/progress",
     "/rights",
@@ -37,6 +39,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   for (const b of toc.books as { slug: string }[]) {
     urls.push(`/scripture/${b.slug}`);
+  }
+
+  for (const a of authorityToc()) {
+    urls.push(`/authorities/${a.id}`);
+    for (const w of a.works) urls.push(`/authorities/${a.id}/${w.id}`);
   }
 
   return urls.map((url) => ({ url: `${BASE}${url}` }));

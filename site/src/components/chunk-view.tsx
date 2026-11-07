@@ -5,6 +5,7 @@ import progress from "@/data/progress.json";
 import { CrossDivider } from "@/components/decorations";
 import { TextReader } from "@/components/text-reader";
 import { CitedBy } from "@/components/cited-by";
+import { AuthoritiesCited } from "@/components/authorities-cited";
 
 const SITE_URL = "https://bonaventure.wrootpress.com";
 
@@ -144,6 +145,7 @@ export function ChunkView({ stop }: { stop: ReadingStop }) {
       </section>
 
       <div data-pagefind-ignore>
+        <AuthoritiesCited chunkId={question.id} />
         <CitedBy chunkId={question.id} />
       </div>
 

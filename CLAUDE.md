@@ -3577,7 +3577,8 @@ Flag (don't silently "fix") any genuinely ambiguous readings.
 
 ```bash
 python3.11 tools/build-citations.py       # Regenerates index/citations.tsv + the QA report
-python3.11 tools/build-index-json.py      # Ledger -> site/src/data/ index JSONs
+python3 tools/build-authorities.py        # Regenerates index/authorities.tsv (11 s, no tokens)
+python3.11 tools/build-index-json.py      # Ledgers -> site/src/data/ index JSONs (incl. authorities/)
 cd site
 node scripts/build-content.mjs            # Regenerates src/data/content.json
 npx vercel build --prod                   # Must use --prebuilt because build-content.mjs reads ../vol1/
@@ -3806,23 +3807,56 @@ it from there. **Never build an address by hand anywhere else.**
   `chunk_pattern`s for hexaemeron / mysterio-trinitatis / perfectione-evangelica, and `Hexaem.` also names
   Basil's and Ambrose's works, so those citations stop at the work level. Fixing it needs the author guard.
 
-## Authorities conventions (pilot 2026-11-06, SITE-PLAN Phase 4) — ⚠ R1–R7 AWAIT WILSON'S RULING
+## Authorities conventions (pilot 2026-11-06; full pass 2026-11-07, SITE-PLAN Phase 4)
 
-Evidence and rates: `manual-review/authorities-pilot.md`. Table `tools/authorities.json`; extractor
-`tools/build-authorities.py` (deterministic, 11 s for the corpus). **Final fresh sample: 50/50, zero wrong
-attributions.** Corpus run: 13,969 records, 92.4% to a work.
+⚠ **R1–R7 were applied AS RECOMMENDED** (Wilson said "Opus go" to the full pass, 2026-11-07, without
+ruling on them one by one). They are the working rules below; if Wilson reverses one, the change is a
+table/flag edit plus a rerun, not a rebuild. ⚠ **R6 departs from SITE-PLAN's wording:** the ledger is a
+separate `index/authorities.tsv`, not the `authority` class of `index/citations.tsv` (whose 1,166 rows are
+untouched).
 
-- **Table-driven.** Only `authorities.json` sigla are authorities (never discovered). Editions, manuscripts
-  (`not_authorities`), the Lombard's Sentences, Bonaventure himself: never records.
-- **Scope:** siglum → next siglum or em dash. Titles matched only in their author's scope, **case-sensitive**,
-  points optional, longest first. Book numeral before the title (Roman or arabic) or a Latin ordinal in the body.
-- **role:** `same-passage` iff the scope opens `hic` / `in hunc locum` (scholastics → their `here` work, the
-  Sentences commentary; exegetes in a Scripture commentary → their commentary on that book if the table has it).
-  Else `cited`.
-- **Implicit citations (~21%) are joined from the BODY** at the anchor (nearest name form ≤220 chars before it;
-  title from the note, else the body title NEAREST the anchor). Only a note opening with a real locus label or a
-  known title qualifies — **never a generic capitalized word** (rejected at the pilot: `Vat.`, `codd.`, `Exod.`).
-- **Witness readings are not citations** (`cod. X … falso alleget …`). `in Appendice` → pseudo. A siglum that names
-  its work (`Decret. Gregor.`) takes `default_work`.
-- **Never guessed:** no title → an author-level record (residue for the table), never a guessed work.
-- **Every table change is followed by a fresh sample** (report → fix → report); a fix never certifies itself.
+Evidence: `manual-review/authorities-pilot.md` (pilot) and **`manual-review/authorities-fullpass.md`**
+(full pass, rates, every fix). Table `tools/authorities.json` (**87 authors · 424 works · ~1,010
+abbreviations**); extractor `tools/build-authorities.py` (deterministic, ~12 s, no tokens).
+**Corpus: 17,078 records, 98.0% to a work. Precision 562/570 over five fresh draws; last draw 60/60.**
+
+- **Table-driven.** Only `authorities.json` sigla are authorities (never discovered). The Lombard's
+  Sentences, Bonaventure, editions, manuscripts, textual witnesses (*Gorranus*, *card. Hugo et Lyranus*
+  reading the Vulgate) and modern scholars (*Cornel. a Lapide*, *Forcellini*) are never records.
+- **Scope:** siglum → next siglum or em dash, or a **stop**: *Magistro Sententiarum* and *(S.) Bonav.*
+  directly before a `Sent.` locus. ⚠ A bare *Magistri* / *S. Bonav.* does NOT stop a scope (the author's
+  further citations follow it) and *Magistro* never stops one (*de Magistro* is Augustine's).
+- **Title matching:** per author, longest first, points optional. **The first significant word keeps its
+  printed case** (`Serm.` a title, `serm.` a locus); prefix words (*de*, *in*…) and later words are
+  case-free; **an abbreviated word may lengthen** (`concup.` matches `concupisc.`).
+  ⚠ **A title inferred from the note alone (unique-title) must STAND as a title** — followed by a locus,
+  `loc. cit.`, a book numeral, punctuation or sentence end — never by a prose word (*Distinctionem
+  ipsam…* is not Alan's `Distinct.`; *Canon Missae* is not Avicenna's `Canon`).
+- **Implicit citations (~a fifth) join the BODY** at the anchor: nearest name ≤220 chars before it; work
+  from the note (the author's OWN titles at any length, also after a locus-only prefix: *Tract. 27. in
+  Ioan. Evang.*), else a bracketed title (*[de Trin. IV]*), else the body title nearest the anchor (prose
+  forms, table abbreviations read in prose, the stemmed Latin title), else a title right AFTER the anchor
+  (*Augustinus decimo quarto[^n] de Civitate Dei*), else *in eodem libro* → the author's last work.
+  **A note that opens in the body author's voice continues in it**: later titles with no siglum are his
+  (`body-join+continued`).
+  ⛔ No record when, between the name and the anchor, the text points elsewhere (*et habetur in littera*,
+  *supra*, *distinctione…*) or the note is a Scripture verse (*Cap. 14, 12.*, *Vers.*) with no title.
+- **Body author vs. note title:** the body author's own work wins; otherwise a unique title wins even
+  against the body (*Isidorus[^n]* · *Libr. XXXI. Moral.* = Gregory) — **attribution follows Quaracchi (R2).**
+- **role:** `same-passage` iff the scope opens *hic* / *in hunc locum*; *X et Y, hic* shares it.
+  Scholastics → `here` (their Sentences commentary) — **except in a Scripture commentary**, where
+  everyone's *in hunc locum* is his commentary on that book. Exegetes → the **`exegesis` map** (Scripture
+  book key → work), the book being the last verse reference before the siglum (in a Scripture commentary:
+  only a verse in the siglum's own clause, else the book commented). *Card. Hugo: «…»* in a Scripture
+  commentary = his postilla on the verse.
+- **pseudo:** the work's own flag; *in Appendice*; and **`(inter opera August.)`** — a title before that
+  parenthesis is the named author's, always pseudo (`via inter-opera`).
+- **This edition's placeholders are not Quaracchi** — `[Quaracchi p. N footer entry N.]` prefixes are
+  stripped; entries that are our own notes (*OCR-bled … see ambiguities log*, *Editorial note*) yield no record.
+- **Never guessed:** no title → an author-level record ("work not identified" on the site), never a guess.
+- **Every table or rule change is followed by a fresh sample AND a diff of lost/changed records**
+  (report → fix → report). Two fixes in the full pass were too strict and were caught only by the diff.
+- **Site:** `build-index-json.py` writes `site/src/data/authorities/{author}.json`,
+  `index-authorities-toc.json`, `authorities-by-chunk.json` (all gitignored). Pages `/authorities`,
+  `/authorities/{author}`, `/authorities/{author}/{work}` (`unassigned` = not identified); the panel
+  "Authorities cited here" on every text page links into them; each locus opens the chunk at `#fn-{note}`.

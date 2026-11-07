@@ -230,12 +230,14 @@ and anchors".)
 - The `INDEX-PLAN.md` "Deferred" list (inline clickable citations in the reader; the *index rerum*) stays deferred
   unless Wilson promotes it.
 
-**▶ Phase 4 STATUS (2026-11-06): PILOT DONE — conventions written, rulings R1–R7 and the full pass AWAIT WILSON.**
-Record: `manual-review/authorities-pilot.md`. Table (52 authors, 284 works) + extractor committed; nothing published,
-no ledger in `index/` yet. Final precision 50/50; corpus 13,969 records, 92.4% to a work. Implicit (body-join)
-citations are ~21% of the whole — the pilot's main finding. **Full pass priced at ≈420–690K tokens, Opus**
-(residue identification, ~40 missing authors, exegetes' commentaries, per-volume verification, `/authorities`
-pages). ⛔ Big-token hard stop.
+**▶ Phase 4 STATUS (2026-11-07): BUILT — full pass done, not pushed, not deployed.** Record:
+`manual-review/authorities-fullpass.md` (pilot: `authorities-pilot.md`). R1–R7 applied as recommended (Wilson's
+"Opus go" approved the pass; the rulings were not taken one by one — see repo CLAUDE.md). Ledger
+`index/authorities.tsv`: **17,078 records, 98.0% to a work**; table 87 authors · 424 works. Precision **562/570**
+over five fresh draws, last 60/60; recall checked per volume. Site: `/authorities`, per-author and per-work pages,
+"Authorities cited here" on every text page; all 17,078 links verified. ⚠ R6 departs from this plan's wording
+("ledger class `authority` filled out"): the ledger is separate. Open: English work names (R7), one accepted
+ambiguity class.
 
 **Phase 5: paper-test the model against Tomes VII–IX (before their pilots, not after).**
 - **VII, the Luke commentary:** expected to be the *Ioannem* shape (pericope + quaestiones). Confirm the
