@@ -1,0 +1,3269 @@
+{
+ "_about": "Authority normalization table (SITE-PLAN Phase 4 pilot, 2026-11-06). Author sigla -> canonical author; per author, work abbreviations -> canonical work. Built from the pilot slice (Vol I d.1-10, Breviloquium, Ecclesiastes) and extended only from measured residue. Matching (tools/build-authorities.py): asterisks stripped, points optional, spacing free, CASE-SENSITIVE (Quaracchi capitalizes a work abbreviation, not a locus: 'Serm. 362' is a work, 'Enarrat. in Ps. 118, serm. 13' is a locus), longest match first, work matched only inside its own author's scope. Attribution follows Quaracchi: 'pseudo': true only where the attribution is modern consensus AND Quaracchi's own notes treat it so; the English name may use the modern scholarly form. 'here' marks the work a same-passage citation (hic / in hunc locum) of a scholastic means: his commentary on the Sentences.",
+ "not_authorities": [
+  "Vat.",
+  "Edd.",
+  "Ed.",
+  "Codd.",
+  "Cod.",
+  "Migne",
+  "Bonelli",
+  "Du Cange",
+  "Vulgata",
+  "Magister",
+  "Magistri",
+  "Bonav.",
+  "Bonaventura"
+ ],
+ "same_passage": [
+  "hic",
+  "in hunc locum",
+  "in hunc loc.",
+  "in hos locos",
+  "in hunc textum",
+  "ad hunc locum",
+  "super locum cit.",
+  "super hunc locum",
+  "Comment. in hunc locum",
+  "in suo Comment. in hunc locum",
+  "in loc. cit. Scripturae"
+ ],
+ "anaphora": [
+  "loc. cit.",
+  "locis citt.",
+  "l. c.",
+  "ibid.",
+  "Ibid.",
+  "ibidem"
+ ],
+ "authors": [
+  {
+   "id": "aristotle",
+   "la": "Aristoteles",
+   "en": "Aristotle",
+   "sigla": [
+    "Aristot.",
+    "Aristoteles",
+    "Arist.",
+    "Philosophus"
+   ],
+   "works": [
+    {
+     "id": "physica",
+     "la": "Physica",
+     "abbrev": [
+      "Phys.",
+      "Physic.",
+      "Physicor."
+     ],
+     "prose": [
+      "Physicorum",
+      "Physicis"
+     ]
+    },
+    {
+     "id": "metaphysica",
+     "la": "Metaphysica",
+     "abbrev": [
+      "Metaph.",
+      "Metaphys.",
+      "Metaphysic."
+     ],
+     "prose": [
+      "Metaphysicae",
+      "Metaphysica"
+     ]
+    },
+    {
+     "id": "de-anima",
+     "la": "De anima",
+     "abbrev": [
+      "de Anima",
+      "De anima"
+     ]
+    },
+    {
+     "id": "ethica-nicomachea",
+     "la": "Ethica Nicomachea",
+     "abbrev": [
+      "Ethic.",
+      "Ethica",
+      "Ethicor."
+     ],
+     "prose": [
+      "Ethicorum",
+      "Ethicis"
+     ]
+    },
+    {
+     "id": "analytica-posteriora",
+     "la": "Analytica posteriora",
+     "abbrev": [
+      "Poster.",
+      "Post. Analyt.",
+      "Posterior.",
+      "Poster. Analyt.",
+      "Analyt. post."
+     ]
+    },
+    {
+     "id": "analytica-priora",
+     "la": "Analytica priora",
+     "abbrev": [
+      "Prior.",
+      "Prior. Analyt.",
+      "Priorum"
+     ]
+    },
+    {
+     "id": "topica",
+     "la": "Topica",
+     "abbrev": [
+      "Topic.",
+      "Topicor."
+     ]
+    },
+    {
+     "id": "de-sophisticis-elenchis",
+     "la": "De sophisticis elenchis",
+     "abbrev": [
+      "Elench.",
+      "de Sophist. elench.",
+      "Elenchor.",
+      "de Sophist. Elench."
+     ]
+    },
+    {
+     "id": "de-generatione",
+     "la": "De generatione et corruptione",
+     "abbrev": [
+      "de Generat. et corrupt.",
+      "de Gen. et corr.",
+      "de Generatione et corruptione",
+      "de Generat."
+     ]
+    },
+    {
+     "id": "de-interpretatione",
+     "la": "De interpretatione (Perihermeneias)",
+     "abbrev": [
+      "Periherm.",
+      "Perihermen.",
+      "de Interpret.",
+      "Perihermenias"
+     ]
+    },
+    {
+     "id": "de-caelo",
+     "la": "De caelo",
+     "abbrev": [
+      "de Caelo et mundo",
+      "de Caelo"
+     ]
+    },
+    {
+     "id": "magna-moralia",
+     "la": "Magna moralia",
+     "abbrev": [
+      "Magnor. Moral.",
+      "Magn. Moral.",
+      "Magnorum Moral."
+     ]
+    },
+    {
+     "id": "de-partibus-animalium",
+     "la": "De partibus animalium",
+     "abbrev": [
+      "de Partib. animal.",
+      "de Partibus animal."
+     ]
+    },
+    {
+     "id": "categoriae",
+     "la": "Categoriae (Praedicamenta)",
+     "abbrev": [
+      "de Praedicam.",
+      "Praedicam.",
+      "Categ.",
+      "Praedicament."
+     ]
+    },
+    {
+     "id": "meteorologica",
+     "la": "Meteorologica",
+     "abbrev": [
+      "Meteor.",
+      "Meteorolog."
+     ]
+    },
+    {
+     "id": "rhetorica",
+     "la": "Rhetorica",
+     "abbrev": [
+      "Rhetor.",
+      "Rhet."
+     ]
+    },
+    {
+     "id": "politica",
+     "la": "Politica",
+     "abbrev": [
+      "Polit.",
+      "Politic."
+     ]
+    },
+    {
+     "id": "de-respiratione",
+     "la": "De respiratione",
+     "abbrev": [
+      "de Respiratione"
+     ]
+    },
+    {
+     "id": "de-somno",
+     "la": "De somno et vigilia",
+     "abbrev": [
+      "de Somno et vigil.",
+      "de Somno"
+     ]
+    },
+    {
+     "id": "de-sensu",
+     "la": "De sensu et sensato",
+     "abbrev": [
+      "de Sensu et sensato",
+      "de Sensu et sensibili",
+      "de Sensu"
+     ]
+    },
+    {
+     "id": "de-memoria",
+     "la": "De memoria et reminiscentia",
+     "abbrev": [
+      "de Memoria et reminisc.",
+      "de Memoria"
+     ]
+    },
+    {
+     "id": "de-animalibus",
+     "la": "De animalibus (Historia animalium)",
+     "abbrev": [
+      "de Histor. animal.",
+      "de Animal.",
+      "de Animalibus",
+      "Histor. animal."
+     ]
+    },
+    {
+     "id": "de-generatione-animalium",
+     "la": "De generatione animalium",
+     "abbrev": [
+      "de Generat. animal.",
+      "de Gen. animal."
+     ]
+    },
+    {
+     "id": "de-motu-animalium",
+     "la": "De motu animalium",
+     "abbrev": [
+      "de Motu animal."
+     ]
+    }
+   ],
+   "body": [
+    "Aristoteles",
+    "Aristotelis",
+    "Aristoteli",
+    "Aristotelem",
+    "Philosophus",
+    "Philosophi",
+    "Philosopho",
+    "Philosophum"
+   ]
+  },
+  {
+   "id": "augustine",
+   "la": "Augustinus",
+   "en": "Augustine of Hippo",
+   "sigla": [
+    "August.",
+    "Augustin.",
+    "Augustinus",
+    "Aug."
+   ],
+   "works": [
+    {
+     "id": "de-civitate-dei",
+     "la": "De civitate Dei",
+     "abbrev": [
+      "de Civ. Dei",
+      "de Civitate Dei",
+      "de Civit. Dei"
+     ]
+    },
+    {
+     "id": "de-genesi-ad-litteram",
+     "la": "De Genesi ad litteram",
+     "abbrev": [
+      "de Gen. ad lit.",
+      "de Genesi ad litt.",
+      "de Gen. ad litt.",
+      "de Genesi ad lit.",
+      "Gen. ad lit.",
+      "de Genes. ad lit.",
+      "super Genesim ad litteram",
+      "Genesi ad litteram"
+     ],
+     "prose": [
+      "super Genesim ad litteram",
+      "Genesi ad litteram"
+     ]
+    },
+    {
+     "id": "de-genesi-contra-manichaeos",
+     "la": "De Genesi contra Manichaeos",
+     "abbrev": [
+      "de Gen. contra Manich.",
+      "de Genesi contra Manich."
+     ]
+    },
+    {
+     "id": "enarrationes-in-psalmos",
+     "la": "Enarrationes in Psalmos",
+     "abbrev": [
+      "Enarrat. in Ps.",
+      "Enarrat. in Psalm.",
+      "in Ps.",
+      "in Psalm.",
+      "Enarrat.",
+      "in Expos. Psalmi",
+      "Sermo in Psalm.",
+      "Sermo I. in Psalm."
+     ]
+    },
+    {
+     "id": "de-trinitate",
+     "la": "De Trinitate",
+     "abbrev": [
+      "de Trin.",
+      "de Trinit.",
+      "de Trinitate",
+      "De Trinitate"
+     ]
+    },
+    {
+     "id": "de-libero-arbitrio",
+     "la": "De libero arbitrio",
+     "abbrev": [
+      "de Lib. Arb.",
+      "de Libero arb.",
+      "de Lib. arbitr.",
+      "de Libero arbitrio"
+     ]
+    },
+    {
+     "id": "enchiridion",
+     "la": "Enchiridion",
+     "abbrev": [
+      "Enchirid.",
+      "Enchir.",
+      "Enchiridion"
+     ],
+     "prose": [
+      "Enchiridio",
+      "Enchiridion"
+     ]
+    },
+    {
+     "id": "epistolae",
+     "la": "Epistolae",
+     "abbrev": [
+      "Epist.",
+      "Ep."
+     ]
+    },
+    {
+     "id": "de-vera-religione",
+     "la": "De vera religione",
+     "abbrev": [
+      "de Vera Relig.",
+      "de Vera Religione",
+      "de Vera relig."
+     ]
+    },
+    {
+     "id": "de-doctrina-christiana",
+     "la": "De doctrina christiana",
+     "abbrev": [
+      "de Doctr. christiana",
+      "de Doctr. christ.",
+      "De Doctr. christ.",
+      "de Doctrina christ."
+     ]
+    },
+    {
+     "id": "sermones",
+     "la": "Sermones",
+     "abbrev": [
+      "Serm.",
+      "Sermo",
+      "Sermon.",
+      "de Verbis Evangel.",
+      "de Verbis Domini",
+      "de Verb. Domini",
+      "de Verbis Apost.",
+      "de Verb. Apost."
+     ]
+    },
+    {
+     "id": "de-diversis-quaestionibus-83",
+     "la": "De diversis quaestionibus LXXXIII",
+     "abbrev": [
+      "83 Qq.",
+      "83 QQ.",
+      "83 Quaest.",
+      "LXXXIII Qq.",
+      "de Div. Qq. 83",
+      "libro LXXXIII quaest."
+     ],
+     "prose": [
+      "Octoginta trium Quaestionum",
+      "octoginta tribus Quaestionibus",
+      "Quaestionum octoginta trium",
+      "Octoginta tres Quaestiones"
+     ]
+    },
+    {
+     "id": "ad-simplicianum",
+     "la": "De diversis quaestionibus ad Simplicianum",
+     "abbrev": [
+      "de Diversis Qq. ad Simplician.",
+      "ad Simplician.",
+      "Qq. ad Simplician."
+     ]
+    },
+    {
+     "id": "in-ioannis-evangelium",
+     "la": "In Ioannis Evangelium tractatus",
+     "abbrev": [
+      "in Ioan. Evang.",
+      "In Ioan. Evang.",
+      "Tract. in Ioan.",
+      "in Ioan. tract.",
+      "Tractat. in Ioan."
+     ]
+    },
+    {
+     "id": "in-epistolam-ioannis",
+     "la": "In epistolam Ioannis ad Parthos tractatus",
+     "abbrev": [
+      "Tractat. [in I Ioan.]",
+      "in I. Ioan.",
+      "in Epist. Ioan.",
+      "in Epist. I. Ioan."
+     ]
+    },
+    {
+     "id": "confessiones",
+     "la": "Confessiones",
+     "abbrev": [
+      "Confess.",
+      "Confession."
+     ],
+     "prose": [
+      "Confessionum",
+      "Confessionibus"
+     ]
+    },
+    {
+     "id": "de-spiritu-et-littera",
+     "la": "De spiritu et littera",
+     "abbrev": [
+      "de Spiritu et lit.",
+      "de Spiritu et littera",
+      "de Spir. et lit."
+     ]
+    },
+    {
+     "id": "de-natura-boni",
+     "la": "De natura boni",
+     "abbrev": [
+      "de Natura boni"
+     ]
+    },
+    {
+     "id": "de-praedestinatione-sanctorum",
+     "la": "De praedestinatione sanctorum",
+     "abbrev": [
+      "de Praedest. Sanctor.",
+      "de Praedest. sanct.",
+      "de Praedestinatione Sanct."
+     ]
+    },
+    {
+     "id": "de-dono-perseverantiae",
+     "la": "De dono perseverantiae",
+     "abbrev": [
+      "de Dono persev.",
+      "de Dono persever.",
+      "de Bono persever."
+     ]
+    },
+    {
+     "id": "contra-iulianum",
+     "la": "Contra Iulianum",
+     "abbrev": [
+      "contra Iulian.",
+      "contra Iulianum"
+     ]
+    },
+    {
+     "id": "opus-imperfectum-contra-iulianum",
+     "la": "Opus imperfectum contra Iulianum",
+     "abbrev": [
+      "Oper. imperf. contra Iulian.",
+      "Op. imperf.",
+      "Oper. imperf."
+     ]
+    },
+    {
+     "id": "de-moribus-ecclesiae",
+     "la": "De moribus Ecclesiae catholicae et de moribus Manichaeorum",
+     "abbrev": [
+      "de Moribus Manich.",
+      "de Moribus Eccl.",
+      "de Moribus Ecclesiae"
+     ]
+    },
+    {
+     "id": "de-quantitate-animae",
+     "la": "De quantitate animae",
+     "abbrev": [
+      "de Quant. animae",
+      "de Quantitate animae"
+     ]
+    },
+    {
+     "id": "de-musica",
+     "la": "De musica",
+     "abbrev": [
+      "de Musica"
+     ]
+    },
+    {
+     "id": "de-magistro",
+     "la": "De magistro",
+     "abbrev": [
+      "de Magistro"
+     ]
+    },
+    {
+     "id": "soliloquia",
+     "la": "Soliloquia",
+     "abbrev": [
+      "Soliloq.",
+      "Soliloquia"
+     ]
+    },
+    {
+     "id": "de-immortalitate-animae",
+     "la": "De immortalitate animae",
+     "abbrev": [
+      "de Immort. animae",
+      "de Immortal. animae"
+     ]
+    },
+    {
+     "id": "de-natura-et-gratia",
+     "la": "De natura et gratia",
+     "abbrev": [
+      "de Natura et gratia",
+      "de Nat. et grat."
+     ]
+    },
+    {
+     "id": "de-nuptiis-et-concupiscentia",
+     "la": "De nuptiis et concupiscentia",
+     "abbrev": [
+      "de Nupt. et concup.",
+      "de Nuptiis et concup."
+     ]
+    },
+    {
+     "id": "de-peccatorum-meritis",
+     "la": "De peccatorum meritis et remissione",
+     "abbrev": [
+      "de Peccat. merit.",
+      "de Peccat. meritis",
+      "de Peccatorum meritis"
+     ]
+    },
+    {
+     "id": "de-correptione-et-gratia",
+     "la": "De correptione et gratia",
+     "abbrev": [
+      "de Corrept. et grat.",
+      "de Correptione et gratia"
+     ]
+    },
+    {
+     "id": "de-gratia-et-libero-arbitrio",
+     "la": "De gratia et libero arbitrio",
+     "abbrev": [
+      "de Grat. et lib. arb.",
+      "de Gratia et lib. arb."
+     ]
+    },
+    {
+     "id": "contra-faustum",
+     "la": "Contra Faustum",
+     "abbrev": [
+      "contra Faust.",
+      "contra Faustum"
+     ]
+    },
+    {
+     "id": "de-bono-coniugali",
+     "la": "De bono coniugali",
+     "abbrev": [
+      "de Bono coniug.",
+      "de Bono coniugali"
+     ]
+    },
+    {
+     "id": "de-sancta-virginitate",
+     "la": "De sancta virginitate",
+     "abbrev": [
+      "de S. Virginit.",
+      "de Sancta virginit."
+     ]
+    },
+    {
+     "id": "quaestiones-in-heptateuchum",
+     "la": "Quaestiones in Heptateuchum",
+     "abbrev": [
+      "Qq. in Exod.",
+      "Qq. in Gen.",
+      "Quaest. in Heptat.",
+      "Qq. in Heptat.",
+      "Qq. in Levit.",
+      "Qq. in Num."
+     ]
+    },
+    {
+     "id": "de-videndo-deo",
+     "la": "De videndo Deo (Epist. 147)",
+     "abbrev": [
+      "de Videndo Deo"
+     ]
+    },
+    {
+     "id": "de-agone-christiano",
+     "la": "De agone christiano",
+     "abbrev": [
+      "de Agone christ."
+     ]
+    },
+    {
+     "id": "de-fide-et-symbolo",
+     "la": "De fide et symbolo",
+     "abbrev": [
+      "de Fide et symb.",
+      "de Fide et symbolo"
+     ]
+    },
+    {
+     "id": "retractationes",
+     "la": "Retractationes",
+     "abbrev": [
+      "Retract.",
+      "Retractat."
+     ]
+    },
+    {
+     "id": "quaestiones-evangeliorum",
+     "la": "Quaestiones evangeliorum",
+     "abbrev": [
+      "Quaest. evang.",
+      "Qq. evang."
+     ]
+    },
+    {
+     "id": "de-sermone-domini",
+     "la": "De sermone Domini in monte",
+     "abbrev": [
+      "de Serm. Domini in monte",
+      "de Sermone Domini"
+     ]
+    },
+    {
+     "id": "de-consensu-evangelistarum",
+     "la": "De consensu evangelistarum",
+     "abbrev": [
+      "de Consensu evang.",
+      "de Consensu Evangel."
+     ]
+    },
+    {
+     "id": "de-haeresibus",
+     "la": "De haeresibus",
+     "abbrev": [
+      "de Haeres.",
+      "de Haeresibus"
+     ]
+    },
+    {
+     "id": "contra-maximinum",
+     "la": "Contra Maximinum",
+     "abbrev": [
+      "contra Maximin.",
+      "contra Maxim."
+     ]
+    },
+    {
+     "id": "de-catechizandis-rudibus",
+     "la": "De catechizandis rudibus",
+     "abbrev": [
+      "de Catech. rud."
+     ]
+    },
+    {
+     "id": "de-ordine",
+     "la": "De ordine",
+     "abbrev": [
+      "de Ordine"
+     ]
+    },
+    {
+     "id": "de-mendacio",
+     "la": "De mendacio",
+     "abbrev": [
+      "de Mendac.",
+      "de Mendacio"
+     ]
+    },
+    {
+     "id": "contra-mendacium",
+     "la": "Contra mendacium",
+     "abbrev": [
+      "contra Mendac.",
+      "contra Mendacium"
+     ]
+    },
+    {
+     "id": "de-anima-et-eius-origine",
+     "la": "De anima et eius origine",
+     "abbrev": [
+      "de Anima et eius orig.",
+      "de Anima et eius origine"
+     ]
+    },
+    {
+     "id": "de-cura-pro-mortuis",
+     "la": "De cura pro mortuis gerenda",
+     "abbrev": [
+      "de Cura pro mort."
+     ]
+    },
+    {
+     "id": "quaestiones-65-dialogus",
+     "la": "Dialogus quaestionum LXV",
+     "abbrev": [
+      "Quaest. 65 Dialog.",
+      "Dialog. Qq. 65"
+     ],
+     "pseudo": true
+    },
+    {
+     "id": "de-spiritu-et-anima",
+     "la": "De spiritu et anima",
+     "abbrev": [
+      "de Spiritu et anima",
+      "de Spir. et anima"
+     ],
+     "pseudo": true
+    },
+    {
+     "id": "hypomnesticon",
+     "la": "Hypomnesticon",
+     "abbrev": [
+      "Hypognost.",
+      "Hypomnest."
+     ],
+     "pseudo": true
+    },
+    {
+     "id": "de-fide-ad-petrum",
+     "la": "De fide ad Petrum",
+     "abbrev": [
+      "de Fide ad Petr.",
+      "de Fide ad Petrum"
+     ],
+     "pseudo": true
+    }
+   ],
+   "body": [
+    "Augustinus",
+    "Augustini",
+    "Augustino",
+    "Augustinum"
+   ]
+  },
+  {
+   "id": "jerome",
+   "la": "Hieronymus",
+   "en": "Jerome",
+   "sigla": [
+    "Hieron.",
+    "Hieronym.",
+    "Hieronymus"
+   ],
+   "works": [
+    {
+     "id": "in-ecclesiasten",
+     "la": "Commentarius in Ecclesiasten",
+     "abbrev": [
+      "Comment. in Eccle.",
+      "Comment. in Ecclesiast.",
+      "in Eccle.",
+      "in Ecclesiast."
+     ]
+    },
+    {
+     "id": "epistolae",
+     "la": "Epistolae",
+     "abbrev": [
+      "Epist.",
+      "Ep."
+     ]
+    },
+    {
+     "id": "in-ezechielem",
+     "la": "Commentarius in Ezechielem",
+     "abbrev": [
+      "Comment. in Ezech.",
+      "in Ezech."
+     ]
+    },
+    {
+     "id": "in-matthaeum",
+     "la": "Commentarius in Matthaeum",
+     "abbrev": [
+      "Comment. in Matth.",
+      "in Matth."
+     ]
+    },
+    {
+     "id": "in-isaiam",
+     "la": "Commentarius in Isaiam",
+     "abbrev": [
+      "Comment. in Isai.",
+      "in Isai."
+     ]
+    },
+    {
+     "id": "in-ephesios",
+     "la": "Commentarius in epistolam ad Ephesios",
+     "abbrev": [
+      "Super Epistolam ad Ephesios",
+      "in Ep. ad Ephes.",
+      "in Epist. ad Ephes.",
+      "ad Ephes."
+     ]
+    },
+    {
+     "id": "in-galatas",
+     "la": "Commentarius in epistolam ad Galatas",
+     "abbrev": [
+      "in Ep. ad Galat.",
+      "ad Galat."
+     ]
+    },
+    {
+     "id": "contra-iovinianum",
+     "la": "Adversus Iovinianum",
+     "abbrev": [
+      "contra Iovin.",
+      "adv. Iovin.",
+      "contra Iovinian."
+     ]
+    },
+    {
+     "id": "quaestiones-hebraicae",
+     "la": "Quaestiones hebraicae in Genesim",
+     "abbrev": [
+      "Quaest. hebr. in Gen.",
+      "Qq. hebr. in Gen."
+     ]
+    },
+    {
+     "id": "de-nominibus-hebraicis",
+     "la": "De nominibus hebraicis",
+     "abbrev": [
+      "de Nomin. hebr.",
+      "de Nominibus hebr."
+     ]
+    },
+    {
+     "id": "prologus-galeatus",
+     "la": "Prologus in libros Regum (Prologus galeatus)",
+     "abbrev": [
+      "Prolog. galeat.",
+      "Prologus galeatus",
+      "in I. Reg."
+     ]
+    }
+   ],
+   "body": [
+    "Hieronymus",
+    "Hieronymi",
+    "Hieronymo",
+    "Hieronymum"
+   ]
+  },
+  {
+   "id": "boethius",
+   "la": "Boethius",
+   "en": "Boethius",
+   "sigla": [
+    "Boeth.",
+    "Boethius"
+   ],
+   "works": [
+    {
+     "id": "de-consolatione",
+     "la": "De consolatione philosophiae",
+     "abbrev": [
+      "de Consol.",
+      "de Consolat.",
+      "de Consolatione"
+     ]
+    },
+    {
+     "id": "de-trinitate",
+     "la": "De Trinitate",
+     "abbrev": [
+      "de Trin.",
+      "de Trinitate",
+      "Libr. de Trin."
+     ]
+    },
+    {
+     "id": "de-differentiis-topicis",
+     "la": "De differentiis topicis",
+     "abbrev": [
+      "de Differentiis topic.",
+      "de Different. topic.",
+      "de Differentiis topicis"
+     ]
+    },
+    {
+     "id": "in-topica-ciceronis",
+     "la": "In Topica Ciceronis commentaria",
+     "abbrev": [
+      "Comment. in Topica Ciceronis",
+      "in Topic. Cicer."
+     ]
+    },
+    {
+     "id": "in-porphyrium",
+     "la": "In Isagogen Porphyrii commenta",
+     "abbrev": [
+      "Comment. in Porphyr.",
+      "in Porphyr.",
+      "Dialogus I. in Porphyrium",
+      "Dialog. in Porphyr."
+     ]
+    },
+    {
+     "id": "in-categorias",
+     "la": "In Categorias Aristotelis",
+     "abbrev": [
+      "de Categoriis Aristot.",
+      "in Categ.",
+      "in Praedicam."
+     ]
+    },
+    {
+     "id": "de-syllogismo-hypothetico",
+     "la": "De syllogismo hypothetico",
+     "abbrev": [
+      "de Syllogismo hypothetico",
+      "de Syllog. hypoth."
+     ]
+    },
+    {
+     "id": "de-syllogismo-categorico",
+     "la": "De syllogismo categorico",
+     "abbrev": [
+      "de Syllogismo categorico",
+      "de Syllog. categ."
+     ]
+    },
+    {
+     "id": "de-hebdomadibus",
+     "la": "De hebdomadibus (Quomodo substantiae)",
+     "abbrev": [
+      "de Hebdomad.",
+      "de Hebdomadibus"
+     ]
+    },
+    {
+     "id": "de-unitate-et-uno",
+     "la": "De unitate et uno",
+     "abbrev": [
+      "de Unitate et Uno",
+      "de Unitate et uno"
+     ],
+     "pseudo": true
+    },
+    {
+     "id": "de-arithmetica",
+     "la": "De institutione arithmetica",
+     "abbrev": [
+      "de Arithmetica",
+      "de Arithm."
+     ]
+    },
+    {
+     "id": "de-musica",
+     "la": "De institutione musica",
+     "abbrev": [
+      "de Musica"
+     ]
+    },
+    {
+     "id": "contra-eutychen",
+     "la": "Contra Eutychen et Nestorium (De duabus naturis)",
+     "abbrev": [
+      "de Duab. nat.",
+      "de Duabus naturis",
+      "contra Eutych."
+     ]
+    },
+    {
+     "id": "in-perihermeneias",
+     "la": "In Perihermeneias",
+     "abbrev": [
+      "in Periherm.",
+      "in Perihermen."
+     ]
+    }
+   ],
+   "body": [
+    "Boethius",
+    "Boethii",
+    "Boethio",
+    "Boethium"
+   ]
+  },
+  {
+   "id": "gregory-the-great",
+   "la": "Gregorius Magnus",
+   "en": "Gregory the Great",
+   "sigla": [
+    "Gregor.",
+    "Greg.",
+    "Gregorius"
+   ],
+   "works": [
+    {
+     "id": "moralia",
+     "la": "Moralia in Iob",
+     "abbrev": [
+      "Moral.",
+      "Moralia"
+     ]
+    },
+    {
+     "id": "homiliae-in-evangelia",
+     "la": "Homiliae in Evangelia",
+     "abbrev": [
+      "Homil. in Evang.",
+      "Hom. in Evang.",
+      "Homil. in Evangel."
+     ]
+    },
+    {
+     "id": "homiliae-in-ezechielem",
+     "la": "Homiliae in Ezechielem",
+     "abbrev": [
+      "Homil. in Ezech.",
+      "Hom. in Ezech."
+     ]
+    },
+    {
+     "id": "dialogi",
+     "la": "Dialogi",
+     "abbrev": [
+      "Dialog.",
+      "Dialogor."
+     ]
+    },
+    {
+     "id": "regula-pastoralis",
+     "la": "Regula pastoralis",
+     "abbrev": [
+      "Pastor.",
+      "Regul. pastor.",
+      "Curae pastor.",
+      "Past."
+     ]
+    },
+    {
+     "id": "registrum",
+     "la": "Registrum epistolarum",
+     "abbrev": [
+      "Registr.",
+      "Epist."
+     ]
+    }
+   ],
+   "body": [
+    "Gregorius",
+    "Gregorii",
+    "Gregorio",
+    "Gregorium"
+   ]
+  },
+  {
+   "id": "gregory-of-nyssa",
+   "la": "Gregorius Nyssenus",
+   "en": "Gregory of Nyssa",
+   "sigla": [
+    "Greg. Nyssen.",
+    "Gregor. Nyssen.",
+    "Nyssen."
+   ],
+   "works": [
+    {
+     "id": "de-hominis-opificio",
+     "la": "De hominis opificio",
+     "abbrev": [
+      "de Hom. opif.",
+      "de Opific. hom.",
+      "de Hominis opificio"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gregory-nazianzen",
+   "la": "Gregorius Nazianzenus",
+   "en": "Gregory of Nazianzus",
+   "sigla": [
+    "Greg. Naz.",
+    "Gregor. Naz.",
+    "Gregor. Nazianz.",
+    "Nazianz."
+   ],
+   "works": [
+    {
+     "id": "orationes",
+     "la": "Orationes",
+     "abbrev": [
+      "Orat.",
+      "Oratio"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dionysius",
+   "la": "Dionysius Areopagita",
+   "en": "Dionysius the Areopagite (Pseudo-Dionysius)",
+   "sigla": [
+    "Dionys.",
+    "Dionysius"
+   ],
+   "works": [
+    {
+     "id": "de-caelesti-hierarchia",
+     "la": "De caelesti hierarchia",
+     "abbrev": [
+      "de Caelest. Hierarch.",
+      "de Cael. Hierarch.",
+      "de Caelesti Hierarch.",
+      "Cael. Hier."
+     ]
+    },
+    {
+     "id": "de-divinis-nominibus",
+     "la": "De divinis nominibus",
+     "abbrev": [
+      "de Div. Nom.",
+      "de Divin. Nom.",
+      "de Divinis Nominibus"
+     ]
+    },
+    {
+     "id": "de-ecclesiastica-hierarchia",
+     "la": "De ecclesiastica hierarchia",
+     "abbrev": [
+      "de Eccles. Hierarch.",
+      "de Eccl. Hierarch."
+     ]
+    },
+    {
+     "id": "de-mystica-theologia",
+     "la": "De mystica theologia",
+     "abbrev": [
+      "de Myst. Theol.",
+      "de Mystica Theol.",
+      "de Mystic. Theol."
+     ]
+    },
+    {
+     "id": "epistolae",
+     "la": "Epistolae",
+     "abbrev": [
+      "Epist.",
+      "Ep."
+     ]
+    }
+   ],
+   "body": [
+    "Dionysius",
+    "Dionysii",
+    "Dionysio",
+    "Dionysium"
+   ]
+  },
+  {
+   "id": "anselm",
+   "la": "Anselmus",
+   "en": "Anselm of Canterbury",
+   "sigla": [
+    "Anselm.",
+    "Anselmus"
+   ],
+   "works": [
+    {
+     "id": "cur-deus-homo",
+     "la": "Cur Deus homo",
+     "abbrev": [
+      "Cur Deus homo",
+      "Cur Deus Homo"
+     ]
+    },
+    {
+     "id": "monologion",
+     "la": "Monologion",
+     "abbrev": [
+      "Monolog.",
+      "Monologium",
+      "Monologion"
+     ]
+    },
+    {
+     "id": "proslogion",
+     "la": "Proslogion",
+     "abbrev": [
+      "Proslog.",
+      "Proslogium",
+      "Proslogion"
+     ]
+    },
+    {
+     "id": "de-conceptu-virginali",
+     "la": "De conceptu virginali et de originali peccato",
+     "abbrev": [
+      "de Conceptu virgin. et orig. pecc.",
+      "de Conceptu virg. et orig. pecc.",
+      "de Conceptu virgin.",
+      "de Conceptu virg.",
+      "de Conceptu virginali"
+     ]
+    },
+    {
+     "id": "de-fide-trinitatis",
+     "la": "De fide Trinitatis et de incarnatione Verbi",
+     "abbrev": [
+      "de Fide Trin.",
+      "de Fide Trinit."
+     ]
+    },
+    {
+     "id": "de-concordia",
+     "la": "De concordia praescientiae et praedestinationis et gratiae Dei cum libero arbitrio",
+     "abbrev": [
+      "de Concord.",
+      "de Concordia"
+     ]
+    },
+    {
+     "id": "de-veritate",
+     "la": "De veritate",
+     "abbrev": [
+      "de Verit.",
+      "de Veritate"
+     ]
+    },
+    {
+     "id": "de-libertate-arbitrii",
+     "la": "De libertate arbitrii",
+     "abbrev": [
+      "de Lib. arb.",
+      "de Libert. arb.",
+      "de Libero arbitrio"
+     ]
+    },
+    {
+     "id": "de-casu-diaboli",
+     "la": "De casu diaboli",
+     "abbrev": [
+      "de Casu diab.",
+      "de Casu diaboli"
+     ]
+    },
+    {
+     "id": "de-processione-spiritus",
+     "la": "De processione Spiritus Sancti",
+     "abbrev": [
+      "de Process. Spir.",
+      "de Processione Spiritus S."
+     ]
+    },
+    {
+     "id": "meditationes",
+     "la": "Meditationes",
+     "abbrev": [
+      "Meditat.",
+      "Meditationes"
+     ]
+    }
+   ],
+   "body": [
+    "Anselmus",
+    "Anselmi",
+    "Anselmo",
+    "Anselmum"
+   ]
+  },
+  {
+   "id": "hugh-of-st-victor",
+   "la": "Hugo de S. Victore",
+   "en": "Hugh of St. Victor",
+   "sigla": [
+    "Hugo a S. Vict.",
+    "Hugo de S. Vict.",
+    "Hug. a S. Vict.",
+    "Hugo S. Vict.",
+    "Hugo Vict.",
+    "Hugo"
+   ],
+   "works": [
+    {
+     "id": "de-sacramentis",
+     "la": "De sacramentis christianae fidei",
+     "abbrev": [
+      "de Sacram.",
+      "de Sacramentis"
+     ]
+    },
+    {
+     "id": "in-ecclesiasten",
+     "la": "Homiliae in Ecclesiasten",
+     "abbrev": [
+      "in Eccle.",
+      "in Ecclesiast."
+     ]
+    },
+    {
+     "id": "de-quatuor-voluntatibus",
+     "la": "De quatuor voluntatibus in Christo",
+     "abbrev": [
+      "de Quatuor Voluntat.",
+      "Libello de Quatuor Voluntat."
+     ]
+    },
+    {
+     "id": "allegoriae",
+     "la": "Allegoriae in vetus testamentum",
+     "abbrev": [
+      "Allegor.",
+      "Allegor. in vetus testam."
+     ],
+     "pseudo": true
+    },
+    {
+     "id": "de-scripturis",
+     "la": "De scripturis et scriptoribus sacris",
+     "abbrev": [
+      "de Scripturis et scriptor. sacris",
+      "de Scripturis"
+     ]
+    },
+    {
+     "id": "didascalicon",
+     "la": "Didascalicon",
+     "abbrev": [
+      "Didasc.",
+      "Erudit. didasc.",
+      "Didascal."
+     ]
+    },
+    {
+     "id": "summa-sententiarum",
+     "la": "Summa sententiarum",
+     "abbrev": [
+      "Sum. Sent.",
+      "Summa Sent.",
+      "Summa sententiarum"
+     ],
+     "pseudo": true
+    },
+    {
+     "id": "de-arca-noe",
+     "la": "De arca Noe",
+     "abbrev": [
+      "de Arca Noe",
+      "de Arca"
+     ]
+    },
+    {
+     "id": "de-arrha-animae",
+     "la": "Soliloquium de arrha animae",
+     "abbrev": [
+      "de Arrha animae"
+     ]
+    },
+    {
+     "id": "in-hierarchiam-caelestem",
+     "la": "In Hierarchiam caelestem",
+     "abbrev": [
+      "in Hier. cael.",
+      "in Hierarch. cael.",
+      "in Caelest. Hierarch."
+     ]
+    }
+   ],
+   "body": [
+    "Hugo",
+    "Hugonis",
+    "Hugoni",
+    "Hugonem"
+   ]
+  },
+  {
+   "id": "hugh-of-st-cher",
+   "la": "Hugo de S. Caro",
+   "en": "Hugh of St. Cher",
+   "sigla": [
+    "Hugo de S. Charo",
+    "Hugo a S. Charo"
+   ],
+   "works": [
+    {
+     "id": "postilla",
+     "la": "Postilla in Bibliam",
+     "abbrev": [
+      "Postill.",
+      "Postilla"
+     ]
+    }
+   ],
+   "here": "postilla"
+  },
+  {
+   "id": "richard-of-st-victor",
+   "la": "Richardus de S. Victore",
+   "en": "Richard of St. Victor",
+   "sigla": [
+    "Richard. a S. Vict.",
+    "Richard. de S. Vict.",
+    "Rich. a S. Vict.",
+    "Richardus a S. Vict."
+   ],
+   "works": [
+    {
+     "id": "de-trinitate",
+     "la": "De Trinitate",
+     "abbrev": [
+      "de Trin.",
+      "de Trinitate"
+     ]
+    },
+    {
+     "id": "beniamin-maior",
+     "la": "Beniamin maior (De gratia contemplationis)",
+     "abbrev": [
+      "de Contempl.",
+      "de Gratia contempl.",
+      "Beniamin maior"
+     ]
+    },
+    {
+     "id": "beniamin-minor",
+     "la": "Beniamin minor",
+     "abbrev": [
+      "Beniamin minor"
+     ]
+    },
+    {
+     "id": "de-statu-interioris-hominis",
+     "la": "De statu interioris hominis",
+     "abbrev": [
+      "de Statu inter. hom."
+     ]
+    }
+   ],
+   "body": [
+    "Richardus",
+    "Richardi",
+    "Richardo",
+    "Richardum"
+   ]
+  },
+  {
+   "id": "john-damascene",
+   "la": "Ioannes Damascenus",
+   "en": "John of Damascus",
+   "sigla": [
+    "Damasc.",
+    "Damascenus",
+    "Ioan. Damasc."
+   ],
+   "works": [
+    {
+     "id": "de-fide-orthodoxa",
+     "la": "De fide orthodoxa",
+     "abbrev": [
+      "de Fide orthod.",
+      "de Fide orthodoxa",
+      "de Orthod. fide"
+     ]
+    },
+    {
+     "id": "orationes-de-imaginibus",
+     "la": "Orationes de imaginibus",
+     "abbrev": [
+      "Orat.",
+      "Orat. de Imag."
+     ]
+    },
+    {
+     "id": "dialectica",
+     "la": "Dialectica",
+     "abbrev": [
+      "Dialect.",
+      "Dialectica"
+     ]
+    }
+   ],
+   "body": [
+    "Damascenus",
+    "Damasceni",
+    "Damasceno",
+    "Damascenum"
+   ]
+  },
+  {
+   "id": "bernard",
+   "la": "Bernardus",
+   "en": "Bernard of Clairvaux",
+   "sigla": [
+    "Bernard.",
+    "Bernardus",
+    "S. Bernard."
+   ],
+   "works": [
+    {
+     "id": "sermones-in-cantica",
+     "la": "Sermones super Cantica canticorum",
+     "abbrev": [
+      "Serm. in Cantic.",
+      "in Cantic.",
+      "Serm. in Cant.",
+      "super Cantic."
+     ]
+    },
+    {
+     "id": "sermones",
+     "la": "Sermones",
+     "abbrev": [
+      "Serm.",
+      "Sermo"
+     ]
+    },
+    {
+     "id": "de-consideratione",
+     "la": "De consideratione",
+     "abbrev": [
+      "de Considerat.",
+      "de Consid.",
+      "de Consideratione"
+     ]
+    },
+    {
+     "id": "epistolae",
+     "la": "Epistolae",
+     "abbrev": [
+      "Epist.",
+      "Ep."
+     ]
+    },
+    {
+     "id": "de-gratia-et-libero-arbitrio",
+     "la": "De gratia et libero arbitrio",
+     "abbrev": [
+      "de Grat. et lib. arb.",
+      "de Gratia et lib. arb."
+     ]
+    },
+    {
+     "id": "de-diligendo-deo",
+     "la": "De diligendo Deo",
+     "abbrev": [
+      "de Dilig. Deo",
+      "de Diligendo Deo"
+     ]
+    },
+    {
+     "id": "de-gradibus-humilitatis",
+     "la": "De gradibus humilitatis",
+     "abbrev": [
+      "de Grad. humil.",
+      "de Gradibus humil."
+     ]
+    },
+    {
+     "id": "de-praecepto-et-dispensatione",
+     "la": "De praecepto et dispensatione",
+     "abbrev": [
+      "de Praec. et disp.",
+      "de Praecepto et dispens."
+     ]
+    },
+    {
+     "id": "de-conversione",
+     "la": "De conversione ad clericos",
+     "abbrev": [
+      "de Convers.",
+      "libro de conversione"
+     ]
+    }
+   ],
+   "body": [
+    "Bernardus",
+    "Bernardi",
+    "Bernardo",
+    "Bernardum"
+   ]
+  },
+  {
+   "id": "isidore",
+   "la": "Isidorus",
+   "en": "Isidore of Seville",
+   "sigla": [
+    "Isidor.",
+    "Isid.",
+    "Isidorus"
+   ],
+   "works": [
+    {
+     "id": "etymologiae",
+     "la": "Etymologiae",
+     "abbrev": [
+      "Etymolog.",
+      "Etymol.",
+      "Etymologiar."
+     ]
+    },
+    {
+     "id": "sententiae",
+     "la": "Sententiae (De summo bono)",
+     "abbrev": [
+      "Sent. sive de Sum. Bono",
+      "de Sum. Bono",
+      "de Summo bono",
+      "Sent."
+     ]
+    },
+    {
+     "id": "de-ecclesiasticis-officiis",
+     "la": "De ecclesiasticis officiis",
+     "abbrev": [
+      "de Eccles. Offic.",
+      "de Eccl. Offic."
+     ]
+    },
+    {
+     "id": "synonyma",
+     "la": "Synonyma",
+     "abbrev": [
+      "Synonym."
+     ]
+    }
+   ],
+   "body": [
+    "Isidorus",
+    "Isidori",
+    "Isidoro",
+    "Isidorum"
+   ]
+  },
+  {
+   "id": "priscian",
+   "la": "Priscianus",
+   "en": "Priscian",
+   "sigla": [
+    "Priscian.",
+    "Priscianus"
+   ],
+   "works": [
+    {
+     "id": "institutiones-grammaticae",
+     "la": "Institutiones grammaticae",
+     "abbrev": [
+      "Grammat.",
+      "Institut. grammat."
+     ]
+    }
+   ],
+   "body": [
+    "Priscianus",
+    "Prisciani"
+   ]
+  },
+  {
+   "id": "peter-of-spain",
+   "la": "Petrus Hispanus",
+   "en": "Peter of Spain",
+   "sigla": [
+    "Petr. Hispan.",
+    "Petrus Hispanus"
+   ],
+   "works": [
+    {
+     "id": "summulae-logicales",
+     "la": "Summulae logicales",
+     "abbrev": [
+      "Summulae",
+      "Summula",
+      "Summulam",
+      "Summul."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "avicenna",
+   "la": "Avicenna",
+   "en": "Avicenna (Ibn Sina)",
+   "sigla": [
+    "Avicenna",
+    "Avicenn."
+   ],
+   "works": [
+    {
+     "id": "metaphysica",
+     "la": "Metaphysica (Philosophia prima)",
+     "abbrev": [
+      "Metaph.",
+      "Metaphys."
+     ]
+    },
+    {
+     "id": "canon",
+     "la": "Canon medicinae",
+     "abbrev": [
+      "Canon."
+     ]
+    },
+    {
+     "id": "de-anima",
+     "la": "De anima (Liber sextus naturalium)",
+     "abbrev": [
+      "de Anima",
+      "VI. Natural.",
+      "Natural."
+     ]
+    },
+    {
+     "id": "sufficientia",
+     "la": "Sufficientia (Physica)",
+     "abbrev": [
+      "Sufficient.",
+      "Sufficientia"
+     ]
+    }
+   ],
+   "body": [
+    "Avicenna",
+    "Avicennae",
+    "Avicennam"
+   ]
+  },
+  {
+   "id": "averroes",
+   "la": "Averroes",
+   "en": "Averroes (Ibn Rushd)",
+   "sigla": [
+    "Averroes",
+    "Averr.",
+    "Commentator"
+   ],
+   "works": [
+    {
+     "id": "in-physicam",
+     "la": "Commentarium in Physicam",
+     "abbrev": [
+      "Phys.",
+      "Physic."
+     ]
+    },
+    {
+     "id": "in-metaphysicam",
+     "la": "Commentarium in Metaphysicam",
+     "abbrev": [
+      "Metaph.",
+      "Metaphys."
+     ]
+    },
+    {
+     "id": "in-de-anima",
+     "la": "Commentarium in De anima",
+     "abbrev": [
+      "de Anima"
+     ]
+    },
+    {
+     "id": "in-de-caelo",
+     "la": "Commentarium in De caelo",
+     "abbrev": [
+      "de Caelo"
+     ]
+    },
+    {
+     "id": "de-substantia-orbis",
+     "la": "De substantia orbis",
+     "abbrev": [
+      "libr. de Substantia orbis",
+      "de Substantia orbis"
+     ]
+    },
+    {
+     "id": "destructio-destructionum",
+     "la": "Destructio destructionum",
+     "abbrev": [
+      "libro Destructio Destructionum",
+      "Destructio Destructionum",
+      "Destruct. destruct."
+     ]
+    }
+   ],
+   "body": [
+    "Averroes",
+    "Commentator",
+    "Commentatoris",
+    "Commentatori",
+    "Commentatorem"
+   ]
+  },
+  {
+   "id": "seneca",
+   "la": "Seneca",
+   "en": "Seneca",
+   "sigla": [
+    "Seneca",
+    "Senec."
+   ],
+   "works": [
+    {
+     "id": "epistolae-ad-lucilium",
+     "la": "Epistolae morales ad Lucilium",
+     "abbrev": [
+      "Epist. ad Lucilium",
+      "Epist.",
+      "Ep."
+     ]
+    },
+    {
+     "id": "de-beneficiis",
+     "la": "De beneficiis",
+     "abbrev": [
+      "de Benef.",
+      "de Beneficiis"
+     ]
+    },
+    {
+     "id": "de-clementia",
+     "la": "De clementia",
+     "abbrev": [
+      "de Clement.",
+      "de Clementia"
+     ]
+    },
+    {
+     "id": "de-ira",
+     "la": "De ira",
+     "abbrev": [
+      "de Ira"
+     ]
+    },
+    {
+     "id": "naturales-quaestiones",
+     "la": "Naturales quaestiones",
+     "abbrev": [
+      "Natur. Qq.",
+      "Natural. Quaest."
+     ]
+    }
+   ],
+   "body": [
+    "Seneca",
+    "Senecae",
+    "Senecam"
+   ]
+  },
+  {
+   "id": "hilary",
+   "la": "Hilarius",
+   "en": "Hilary of Poitiers",
+   "sigla": [
+    "Hilar.",
+    "Hilarius"
+   ],
+   "works": [
+    {
+     "id": "de-trinitate",
+     "la": "De Trinitate",
+     "abbrev": [
+      "de Trin.",
+      "de Trinitate"
+     ]
+    },
+    {
+     "id": "de-synodis",
+     "la": "De synodis",
+     "abbrev": [
+      "de Synodis"
+     ]
+    },
+    {
+     "id": "in-matthaeum",
+     "la": "Commentarius in Matthaeum",
+     "abbrev": [
+      "in Matth.",
+      "Comment. in Matth."
+     ]
+    },
+    {
+     "id": "in-psalmos",
+     "la": "Tractatus in Psalmos",
+     "abbrev": [
+      "in Ps.",
+      "in Psalm."
+     ]
+    }
+   ],
+   "body": [
+    "Hilarius",
+    "Hilarii",
+    "Hilario",
+    "Hilarium"
+   ]
+  },
+  {
+   "id": "ambrose",
+   "la": "Ambrosius",
+   "en": "Ambrose of Milan",
+   "sigla": [
+    "Ambros.",
+    "Ambrosius"
+   ],
+   "works": [
+    {
+     "id": "de-fide",
+     "la": "De fide ad Gratianum",
+     "abbrev": [
+      "de Fide ad Gratian.",
+      "de Trin. sive de Fide ad Gratian.",
+      "de Fide"
+     ]
+    },
+    {
+     "id": "de-abraham",
+     "la": "De Abraham",
+     "abbrev": [
+      "de Abraham"
+     ]
+    },
+    {
+     "id": "de-officiis",
+     "la": "De officiis ministrorum",
+     "abbrev": [
+      "de Offic.",
+      "de Officiis"
+     ]
+    },
+    {
+     "id": "hexaemeron",
+     "la": "Hexaemeron",
+     "abbrev": [
+      "Hexaem.",
+      "Hexaemeron"
+     ]
+    },
+    {
+     "id": "de-paradiso",
+     "la": "De paradiso",
+     "abbrev": [
+      "de Paradiso",
+      "de Parad."
+     ]
+    },
+    {
+     "id": "in-lucam",
+     "la": "Expositio Evangelii secundum Lucam",
+     "abbrev": [
+      "in Luc.",
+      "Expos. in Luc.",
+      "in Lucam"
+     ]
+    },
+    {
+     "id": "de-spiritu-sancto",
+     "la": "De Spiritu Sancto",
+     "abbrev": [
+      "de Spiritu S.",
+      "de Spiritu Sancto"
+     ]
+    },
+    {
+     "id": "de-mysteriis",
+     "la": "De mysteriis",
+     "abbrev": [
+      "de Myster.",
+      "de Mysteriis"
+     ]
+    },
+    {
+     "id": "de-sacramentis",
+     "la": "De sacramentis",
+     "abbrev": [
+      "de Sacram.",
+      "de Sacramentis"
+     ]
+    },
+    {
+     "id": "de-poenitentia",
+     "la": "De poenitentia",
+     "abbrev": [
+      "de Poenit.",
+      "de Poenitentia"
+     ]
+    },
+    {
+     "id": "de-virginibus",
+     "la": "De virginibus",
+     "abbrev": [
+      "de Virginib.",
+      "de Virginibus"
+     ]
+    }
+   ],
+   "body": [
+    "Ambrosius",
+    "Ambrosii",
+    "Ambrosio",
+    "Ambrosium"
+   ]
+  },
+  {
+   "id": "justinian",
+   "la": "Iustinianus",
+   "en": "Justinian (Corpus iuris civilis)",
+   "sigla": [
+    "Iustinian.",
+    "Iustinianus"
+   ],
+   "works": [
+    {
+     "id": "institutiones",
+     "la": "Institutiones",
+     "abbrev": [
+      "Institut. imper.",
+      "Institut. Iur. civil.",
+      "Institut."
+     ]
+    },
+    {
+     "id": "digesta",
+     "la": "Digesta",
+     "abbrev": [
+      "Dig.",
+      "Digest."
+     ]
+    },
+    {
+     "id": "codex",
+     "la": "Codex",
+     "abbrev": [
+      "Cod.",
+      "Codex"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "alan-of-lille",
+   "la": "Alanus ab Insulis",
+   "en": "Alan of Lille",
+   "sigla": [
+    "Alan. ab Insulis",
+    "Alanus ab Insulis",
+    "Alan. ab Insul.",
+    "Alan."
+   ],
+   "works": [
+    {
+     "id": "regulae-theologicae",
+     "la": "Regulae theologicae",
+     "abbrev": [
+      "Theol. Regul.",
+      "Regul. theolog.",
+      "Regulae theol.",
+      "Regul.",
+      "ab Insul. Regul. theolog."
+     ]
+    },
+    {
+     "id": "contra-haereticos",
+     "la": "De fide catholica contra haereticos",
+     "abbrev": [
+      "contra Haereticos",
+      "contra Haeret."
+     ]
+    },
+    {
+     "id": "anticlaudianus",
+     "la": "Anticlaudianus",
+     "abbrev": [
+      "Anticlaud."
+     ]
+    },
+    {
+     "id": "de-planctu-naturae",
+     "la": "De planctu naturae",
+     "abbrev": [
+      "de Planctu naturae"
+     ]
+    },
+    {
+     "id": "distinctiones",
+     "la": "Distinctiones dictionum theologicalium",
+     "abbrev": [
+      "Distinct."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cicero",
+   "la": "Cicero",
+   "en": "Cicero",
+   "sigla": [
+    "Cicero",
+    "Cicer.",
+    "Tullius"
+   ],
+   "works": [
+    {
+     "id": "tusculanae",
+     "la": "Tusculanae disputationes",
+     "abbrev": [
+      "Disp. Tusc.",
+      "Tuscul. Disp.",
+      "Tuscul.",
+      "Tusc."
+     ]
+    },
+    {
+     "id": "de-officiis",
+     "la": "De officiis",
+     "abbrev": [
+      "de Offic.",
+      "de Officiis"
+     ]
+    },
+    {
+     "id": "de-finibus",
+     "la": "De finibus bonorum et malorum",
+     "abbrev": [
+      "de Finib. bonor. et malor.",
+      "de Finib.",
+      "de Finibus"
+     ]
+    },
+    {
+     "id": "de-inventione",
+     "la": "De inventione",
+     "abbrev": [
+      "de Invent.",
+      "de Inventione",
+      "Rhetor."
+     ]
+    },
+    {
+     "id": "de-natura-deorum",
+     "la": "De natura deorum",
+     "abbrev": [
+      "de Nat. Deor.",
+      "de Natura deorum"
+     ]
+    },
+    {
+     "id": "de-amicitia",
+     "la": "De amicitia",
+     "abbrev": [
+      "de Amicit.",
+      "de Amicitia"
+     ]
+    },
+    {
+     "id": "de-senectute",
+     "la": "De senectute",
+     "abbrev": [
+      "de Senect.",
+      "de Senectute"
+     ]
+    },
+    {
+     "id": "topica",
+     "la": "Topica",
+     "abbrev": [
+      "Topic."
+     ]
+    }
+   ],
+   "body": [
+    "Tullius",
+    "Tullii",
+    "Tullio",
+    "Tullium",
+    "Cicero",
+    "Ciceronis"
+   ]
+  },
+  {
+   "id": "origen",
+   "la": "Origenes",
+   "en": "Origen",
+   "sigla": [
+    "Origen.",
+    "Origenes"
+   ],
+   "works": [
+    {
+     "id": "homiliae-in-leviticum",
+     "la": "Homiliae in Leviticum",
+     "abbrev": [
+      "in Levit.",
+      "in Lev.",
+      "Homil. in Levit."
+     ]
+    },
+    {
+     "id": "homiliae-in-genesim",
+     "la": "Homiliae in Genesim",
+     "abbrev": [
+      "in Gen.",
+      "Homil. in Gen."
+     ]
+    },
+    {
+     "id": "homiliae-in-numeros",
+     "la": "Homiliae in Numeros",
+     "abbrev": [
+      "in Num.",
+      "Homil. in Num."
+     ]
+    },
+    {
+     "id": "in-matthaeum",
+     "la": "Commentarii in Matthaeum",
+     "abbrev": [
+      "in Matth."
+     ]
+    },
+    {
+     "id": "periarchon",
+     "la": "Peri archon (De principiis)",
+     "abbrev": [
+      "Periarch.",
+      "de Princip.",
+      "Peri Archon"
+     ]
+    },
+    {
+     "id": "in-ioannem",
+     "la": "Commentarii in Ioannem",
+     "abbrev": [
+      "Comment. in Ioan.",
+      "in Ioan."
+     ]
+    },
+    {
+     "id": "homiliae",
+     "la": "Homiliae",
+     "abbrev": [
+      "Homil."
+     ]
+    }
+   ],
+   "body": [
+    "Origenes",
+    "Origenis",
+    "Origeni",
+    "Origenem"
+   ]
+  },
+  {
+   "id": "bede",
+   "la": "Beda",
+   "en": "Bede",
+   "sigla": [
+    "Beda",
+    "Bed."
+   ],
+   "works": [
+    {
+     "id": "hexaemeron",
+     "la": "Hexaemeron",
+     "abbrev": [
+      "Hexaem."
+     ]
+    },
+    {
+     "id": "in-marcum",
+     "la": "In Marci Evangelium expositio",
+     "abbrev": [
+      "in Marc."
+     ]
+    },
+    {
+     "id": "in-lucam",
+     "la": "In Lucae Evangelium expositio",
+     "abbrev": [
+      "in Luc."
+     ]
+    },
+    {
+     "id": "homiliae",
+     "la": "Homiliae",
+     "abbrev": [
+      "Homil."
+     ]
+    },
+    {
+     "id": "historia-ecclesiastica",
+     "la": "Historia ecclesiastica gentis Anglorum",
+     "abbrev": [
+      "Hist. eccl.",
+      "Histor. eccles."
+     ]
+    },
+    {
+     "id": "de-temporum-ratione",
+     "la": "De temporum ratione",
+     "abbrev": [
+      "de Temp. rat.",
+      "de Temporum ratione"
+     ]
+    }
+   ],
+   "body": [
+    "Beda",
+    "Bedae",
+    "Bedam"
+   ]
+  },
+  {
+   "id": "porphyry",
+   "la": "Porphyrius",
+   "en": "Porphyry",
+   "sigla": [
+    "Porphyr.",
+    "Porphyrius"
+   ],
+   "works": [
+    {
+     "id": "isagoge",
+     "la": "Isagoge (De praedicabilibus)",
+     "abbrev": [
+      "de Praedicab.",
+      "Isagog.",
+      "Praedicab."
+     ]
+    }
+   ],
+   "body": [
+    "Porphyrius",
+    "Porphyrii"
+   ]
+  },
+  {
+   "id": "plato",
+   "la": "Plato",
+   "en": "Plato",
+   "sigla": [
+    "Plato"
+   ],
+   "works": [
+    {
+     "id": "timaeus",
+     "la": "Timaeus",
+     "abbrev": [
+      "Timaeus",
+      "Tim."
+     ]
+    },
+    {
+     "id": "gorgias",
+     "la": "Gorgias",
+     "abbrev": [
+      "Gorgias"
+     ]
+    },
+    {
+     "id": "phaedo",
+     "la": "Phaedo",
+     "abbrev": [
+      "Phaedon.",
+      "Phaedo"
+     ]
+    },
+    {
+     "id": "respublica",
+     "la": "Respublica",
+     "abbrev": [
+      "de Republ.",
+      "Republ."
+     ]
+    },
+    {
+     "id": "leges",
+     "la": "Leges",
+     "abbrev": [
+      "de Legib.",
+      "Leges"
+     ]
+    }
+   ],
+   "body": [
+    "Plato",
+    "Platonis",
+    "Platoni",
+    "Platonem"
+   ]
+  },
+  {
+   "id": "rabanus-maurus",
+   "la": "Rabanus Maurus",
+   "en": "Rabanus Maurus",
+   "sigla": [
+    "Raban.",
+    "Rabanus",
+    "Hraban."
+   ],
+   "works": [
+    {
+     "id": "de-universo",
+     "la": "De universo",
+     "abbrev": [
+      "de Univ.",
+      "de Universo"
+     ]
+    },
+    {
+     "id": "de-institutione-clericorum",
+     "la": "De institutione clericorum",
+     "abbrev": [
+      "de Instit. cleric.",
+      "de Institut. cleric."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "nicholas-of-lyra",
+   "la": "Nicolaus de Lyra",
+   "en": "Nicholas of Lyra",
+   "sigla": [
+    "Lyranus",
+    "Lyran.",
+    "Nicol. de Lyra"
+   ],
+   "works": [
+    {
+     "id": "postilla",
+     "la": "Postilla litteralis",
+     "abbrev": [
+      "Postill.",
+      "Postilla",
+      "in praefatione super Psalterium"
+     ]
+    }
+   ],
+   "here": "postilla"
+  },
+  {
+   "id": "walafrid-strabo",
+   "la": "Walafridus Strabo",
+   "en": "Walafrid Strabo",
+   "sigla": [
+    "Strabus",
+    "Strab.",
+    "Walafr. Strabo"
+   ],
+   "works": [
+    {
+     "id": "glossa-ordinaria",
+     "la": "Glossa ordinaria (attributed)",
+     "abbrev": [
+      "Glossa ordin.",
+      "Glossa"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "glossa",
+   "la": "Glossa",
+   "en": "The Gloss (Glossa ordinaria / interlinearis)",
+   "sigla": [
+    "Glossa",
+    "Gloss.",
+    "Glossa ordinaria",
+    "Glossa interlinearis",
+    "Glossa interlin."
+   ],
+   "works": [
+    {
+     "id": "ordinaria",
+     "la": "Glossa ordinaria",
+     "abbrev": [
+      "ordinaria",
+      "ordin.",
+      "[ordinaria]"
+     ]
+    },
+    {
+     "id": "interlinearis",
+     "la": "Glossa interlinearis",
+     "abbrev": [
+      "interlinearis",
+      "interlin.",
+      "[interlinearis"
+     ]
+    }
+   ],
+   "body": [
+    "Glossa",
+    "Glossae",
+    "Glossam"
+   ]
+  },
+  {
+   "id": "john-chrysostom",
+   "la": "Ioannes Chrysostomus",
+   "en": "John Chrysostom",
+   "sigla": [
+    "Chrysost.",
+    "Chrysostomus",
+    "Ioan. Chrysost."
+   ],
+   "works": [
+    {
+     "id": "in-matthaeum",
+     "la": "Homiliae in Matthaeum",
+     "abbrev": [
+      "in Matth. homil.",
+      "Homil. in Matth.",
+      "in Matth."
+     ]
+    },
+    {
+     "id": "in-ioannem",
+     "la": "Homiliae in Ioannem",
+     "abbrev": [
+      "in Ioan. homil.",
+      "Homil. in Ioan.",
+      "in Ioan."
+     ]
+    },
+    {
+     "id": "in-hebraeos",
+     "la": "Homiliae in epistolam ad Hebraeos",
+     "abbrev": [
+      "in Epist. ad Hebr.",
+      "in Hebr.",
+      "ad Hebr."
+     ]
+    },
+    {
+     "id": "in-romanos",
+     "la": "Homiliae in epistolam ad Romanos",
+     "abbrev": [
+      "in Epist. ad Rom.",
+      "ad Rom."
+     ]
+    },
+    {
+     "id": "opus-imperfectum-in-matthaeum",
+     "la": "Opus imperfectum in Matthaeum",
+     "abbrev": [
+      "Oper. imperf. in Matth.",
+      "Op. imperf. in Matth.",
+      "Opus imperf."
+     ],
+     "pseudo": true
+    },
+    {
+     "id": "de-compunctione",
+     "la": "De compunctione cordis",
+     "abbrev": [
+      "de Compunct.",
+      "de Compunctione"
+     ]
+    },
+    {
+     "id": "de-sacerdotio",
+     "la": "De sacerdotio",
+     "abbrev": [
+      "de Sacerdot.",
+      "de Sacerdotio"
+     ]
+    }
+   ],
+   "body": [
+    "Chrysostomus",
+    "Chrysostomi",
+    "Chrysostomo",
+    "Chrysostomum"
+   ]
+  },
+  {
+   "id": "fulgentius",
+   "la": "Fulgentius",
+   "en": "Fulgentius of Ruspe",
+   "sigla": [
+    "Fulgent.",
+    "Fulgentius"
+   ],
+   "works": [
+    {
+     "id": "ad-monimum",
+     "la": "Ad Monimum",
+     "abbrev": [
+      "ad Monimum",
+      "ad Monim."
+     ]
+    },
+    {
+     "id": "de-fide-ad-petrum",
+     "la": "De fide ad Petrum",
+     "abbrev": [
+      "de Fide ad Petr.",
+      "de Fide ad Petrum"
+     ]
+    },
+    {
+     "id": "de-remissione-peccatorum",
+     "la": "De remissione peccatorum",
+     "abbrev": [
+      "de Remiss. peccat."
+     ]
+    }
+   ],
+   "body": [
+    "Fulgentius",
+    "Fulgentii",
+    "Fulgentio",
+    "Fulgentium"
+   ]
+  },
+  {
+   "id": "gratian",
+   "la": "Gratianus",
+   "en": "Gratian (Decretum)",
+   "sigla": [
+    "Gratian.",
+    "Gratianus"
+   ],
+   "works": [
+    {
+     "id": "decretum",
+     "la": "Decretum",
+     "abbrev": [
+      "Decret.",
+      "Decretum"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "peter-comestor",
+   "la": "Petrus Comestor",
+   "en": "Peter Comestor",
+   "sigla": [
+    "Comestor",
+    "Petr. Comestor"
+   ],
+   "works": [
+    {
+     "id": "historia-scholastica",
+     "la": "Historia scholastica",
+     "abbrev": [
+      "Histor. scholast.",
+      "Hist. scholast.",
+      "Historia scholastica"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cassiodorus",
+   "la": "Cassiodorus",
+   "en": "Cassiodorus",
+   "sigla": [
+    "Cassiod.",
+    "Cassiodorus"
+   ],
+   "works": [
+    {
+     "id": "in-psalmos",
+     "la": "Expositio in Psalterium",
+     "abbrev": [
+      "in Ps.",
+      "in Psalm.",
+      "Expos. in Psalt."
+     ]
+    },
+    {
+     "id": "de-anima",
+     "la": "De anima",
+     "abbrev": [
+      "de Anima"
+     ]
+    }
+   ],
+   "body": [
+    "Cassiodorus",
+    "Cassiodori"
+   ]
+  },
+  {
+   "id": "prosper",
+   "la": "Prosper Aquitanus",
+   "en": "Prosper of Aquitaine",
+   "sigla": [
+    "Prosper.",
+    "Prosper"
+   ],
+   "works": [
+    {
+     "id": "sententiae",
+     "la": "Sententiae ex Augustino",
+     "abbrev": [
+      "Sent.",
+      "Sententiae"
+     ]
+    },
+    {
+     "id": "de-vocatione-gentium",
+     "la": "De vocatione omnium gentium",
+     "abbrev": [
+      "de Vocat. gent."
+     ]
+    }
+   ],
+   "body": [
+    "Prosper",
+    "Prosperi",
+    "Prospero"
+   ]
+  },
+  {
+   "id": "peter-lombard",
+   "la": "Petrus Lombardus",
+   "en": "Peter Lombard",
+   "sigla": [
+    "Petr. Lombard.",
+    "Petr. Lomb.",
+    "Lombard."
+   ],
+   "_note": "Lombard's Sentences are NOT an authority record: they are in this corpus (the littera chunks) and are the cross-reference ledger's business. Only his other works are indexed here.",
+   "works": [
+    {
+     "id": "collectanea",
+     "la": "Collectanea in epistolas Pauli",
+     "abbrev": [
+      "Collect.",
+      "in II. Cor.",
+      "in I. Cor.",
+      "in Rom.",
+      "in Epist.",
+      "in Hebr."
+     ]
+    },
+    {
+     "id": "in-psalmos",
+     "la": "Commentarius in Psalmos",
+     "abbrev": [
+      "in Ps.",
+      "in Psalm."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "thomas-aquinas",
+   "la": "Thomas de Aquino",
+   "en": "Thomas Aquinas",
+   "sigla": [
+    "S. Thom.",
+    "Thom.",
+    "S. Thomas",
+    "Thomas"
+   ],
+   "here": "in-sententias",
+   "works": [
+    {
+     "id": "in-sententias",
+     "la": "Scriptum super libros Sententiarum",
+     "abbrev": [
+      "Sent.",
+      "in Sent."
+     ]
+    },
+    {
+     "id": "summa-theologiae",
+     "la": "Summa theologiae",
+     "abbrev": [
+      "S.",
+      "Summa",
+      "S. Theol.",
+      "Summ."
+     ]
+    },
+    {
+     "id": "summa-contra-gentiles",
+     "la": "Summa contra Gentiles",
+     "abbrev": [
+      "S. c. Gent.",
+      "S. contra Gentil.",
+      "contra Gent.",
+      "contra Gentil.",
+      "S. contra Gent."
+     ]
+    },
+    {
+     "id": "de-veritate",
+     "la": "Quaestiones disputatae de veritate",
+     "abbrev": [
+      "de Verit.",
+      "Qq. disp. de Verit.",
+      "Quaest. de Verit."
+     ]
+    },
+    {
+     "id": "de-potentia",
+     "la": "Quaestiones disputatae de potentia",
+     "abbrev": [
+      "de Pot.",
+      "de Potent."
+     ]
+    },
+    {
+     "id": "de-malo",
+     "la": "Quaestiones disputatae de malo",
+     "abbrev": [
+      "de Malo"
+     ]
+    },
+    {
+     "id": "quodlibeta",
+     "la": "Quodlibeta",
+     "abbrev": [
+      "Quodl.",
+      "Quodlib."
+     ]
+    },
+    {
+     "id": "in-metaphysicam",
+     "la": "In Metaphysicam Aristotelis",
+     "abbrev": [
+      "in Metaph.",
+      "in V. Metaph."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "albert-the-great",
+   "la": "Albertus Magnus",
+   "en": "Albert the Great",
+   "sigla": [
+    "B. Albert.",
+    "Albert.",
+    "Albertus",
+    "B. Albertus",
+    "Alb. M."
+   ],
+   "here": "in-sententias",
+   "works": [
+    {
+     "id": "in-sententias",
+     "la": "Commentarii in Sententias",
+     "abbrev": [
+      "Sent.",
+      "in Sent."
+     ]
+    },
+    {
+     "id": "summa-theologiae",
+     "la": "Summa theologiae",
+     "abbrev": [
+      "S.",
+      "Summa",
+      "S. Theol."
+     ]
+    },
+    {
+     "id": "summa-de-creaturis",
+     "la": "Summa de creaturis",
+     "abbrev": [
+      "S. de Creat.",
+      "de IV coaequaev.",
+      "de Homine"
+     ]
+    },
+    {
+     "id": "in-metaphysicam",
+     "la": "In Metaphysicam",
+     "abbrev": [
+      "in Metaph."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "alexander-of-hales",
+   "la": "Alexander Halensis",
+   "en": "Alexander of Hales",
+   "sigla": [
+    "Alex. Hal.",
+    "Alexander Hal.",
+    "Alex. de Hales",
+    "Halens."
+   ],
+   "works": [
+    {
+     "id": "summa",
+     "la": "Summa theologica (Summa Halensis)",
+     "abbrev": [
+      "S.",
+      "Summa",
+      "S. Theol."
+     ]
+    },
+    {
+     "id": "glossa-in-sententias",
+     "la": "Glossa in Sententias",
+     "abbrev": [
+      "Glossa in Sent.",
+      "Glossa"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "richard-of-middleton",
+   "la": "Richardus de Mediavilla",
+   "en": "Richard of Middleton",
+   "sigla": [
+    "Richard. a Med.",
+    "Rich. a Med.",
+    "Richard. de Med.",
+    "Richard."
+   ],
+   "here": "in-sententias",
+   "works": [
+    {
+     "id": "in-sententias",
+     "la": "Super quatuor libros Sententiarum",
+     "abbrev": [
+      "Sent.",
+      "in Sent."
+     ]
+    },
+    {
+     "id": "quodlibeta",
+     "la": "Quodlibeta",
+     "abbrev": [
+      "Quodl.",
+      "Quodlib."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "peter-of-tarentaise",
+   "la": "Petrus de Tarantasia",
+   "en": "Peter of Tarentaise (Innocent V)",
+   "sigla": [
+    "Petr. a Tar.",
+    "Petrus a Tar.",
+    "Petr. de Tar."
+   ],
+   "here": "in-sententias",
+   "works": [
+    {
+     "id": "in-sententias",
+     "la": "In IV libros Sententiarum",
+     "abbrev": [
+      "Sent.",
+      "in Sent."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "giles-of-rome",
+   "la": "Aegidius Romanus",
+   "en": "Giles of Rome",
+   "sigla": [
+    "Aegid. R.",
+    "Aegid. Rom.",
+    "Aegid.",
+    "Aegidius"
+   ],
+   "here": "in-sententias",
+   "works": [
+    {
+     "id": "in-sententias",
+     "la": "In libros Sententiarum",
+     "abbrev": [
+      "Sent.",
+      "in Sent."
+     ]
+    },
+    {
+     "id": "quodlibeta",
+     "la": "Quodlibeta",
+     "abbrev": [
+      "Quodl.",
+      "Quodlib."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "duns-scotus",
+   "la": "Ioannes Duns Scotus",
+   "en": "John Duns Scotus",
+   "sigla": [
+    "Scot.",
+    "Scotus",
+    "Duns Scot."
+   ],
+   "here": "in-sententias",
+   "works": [
+    {
+     "id": "in-sententias",
+     "la": "In libros Sententiarum (Ordinatio)",
+     "abbrev": [
+      "Sent.",
+      "in Sent.",
+      "1. Sent."
+     ]
+    },
+    {
+     "id": "quaestiones-in-physicam",
+     "la": "Quaestiones super Physicam",
+     "abbrev": [
+      "Phys."
+     ],
+     "pseudo": true
+    },
+    {
+     "id": "in-analytica-posteriora",
+     "la": "Quaestiones in Analytica posteriora",
+     "abbrev": [
+      "in I. Poster.",
+      "Poster."
+     ],
+     "pseudo": true
+    },
+    {
+     "id": "de-grammatica-speculativa",
+     "la": "Grammatica speculativa (Thomas of Erfurt)",
+     "abbrev": [
+      "de Grammatica speculativa",
+      "Grammat. specul."
+     ],
+     "pseudo": true
+    },
+    {
+     "id": "quodlibeta",
+     "la": "Quodlibeta",
+     "abbrev": [
+      "Quodl.",
+      "Quodlib."
+     ]
+    },
+    {
+     "id": "reportata-parisiensia",
+     "la": "Reportata Parisiensia",
+     "abbrev": [
+      "Report. Paris.",
+      "Reportata"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "durandus",
+   "la": "Durandus de S. Porciano",
+   "en": "Durandus of Saint-Pourçain",
+   "sigla": [
+    "Durand.",
+    "Durandus"
+   ],
+   "here": "in-sententias",
+   "works": [
+    {
+     "id": "in-sententias",
+     "la": "In Sententias",
+     "abbrev": [
+      "Sent.",
+      "in Sent."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "henry-of-ghent",
+   "la": "Henricus Gandavensis",
+   "en": "Henry of Ghent",
+   "sigla": [
+    "Henr. Gand.",
+    "Henric. Gand.",
+    "Henricus Gand."
+   ],
+   "works": [
+    {
+     "id": "summa",
+     "la": "Summa quaestionum ordinariarum",
+     "abbrev": [
+      "S.",
+      "Summa"
+     ]
+    },
+    {
+     "id": "quodlibeta",
+     "la": "Quodlibeta",
+     "abbrev": [
+      "Quodl.",
+      "Quodlib."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dionysius-the-carthusian",
+   "la": "Dionysius Carthusianus",
+   "en": "Denys the Carthusian",
+   "sigla": [
+    "Dionys. Carth.",
+    "Dionysius Carth.",
+    "Carthus."
+   ],
+   "here": "in-sententias",
+   "works": [
+    {
+     "id": "in-sententias",
+     "la": "In libros Sententiarum",
+     "abbrev": [
+      "Sent.",
+      "in Sent."
+     ]
+    },
+    {
+     "id": "in-psalmos",
+     "la": "Expositio in Psalmos",
+     "abbrev": [
+      "Expos. in Psalm.",
+      "in Psalm.",
+      "in prooemio Expos. in Psalm."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gregory-ix",
+   "la": "Gregorius IX",
+   "en": "Gregory IX (Decretals)",
+   "sigla": [
+    "Decret. Gregor.",
+    "Decretal. Gregor.",
+    "Decretal.",
+    "Gregor. IX."
+   ],
+   "works": [
+    {
+     "id": "decretales",
+     "la": "Decretales (Liber Extra)",
+     "abbrev": [
+      "Decretales"
+     ]
+    }
+   ],
+   "default_work": "decretales",
+   "_note": "The siglum itself names the work (Decret. Gregor. = the Decretals), so a bare locus takes default_work."
+  },
+  {
+   "id": "gilbert-of-poitiers",
+   "la": "Gilbertus Porretanus",
+   "en": "Gilbert of Poitiers",
+   "sigla": [
+    "Gilbert. Porretan.",
+    "Gilbert. Porret.",
+    "Gilbertus Porretanus",
+    "Porretan.",
+    "Porret."
+   ],
+   "works": [
+    {
+     "id": "liber-sex-principiorum",
+     "la": "Liber sex principiorum",
+     "abbrev": [
+      "de Sex princ.",
+      "de Sex principiis",
+      "Sex princ."
+     ],
+     "pseudo": true
+    },
+    {
+     "id": "in-boethii-de-trinitate",
+     "la": "Commentaria in Boethii De Trinitate",
+     "abbrev": [
+      "in Boeth. de Trin.",
+      "Comment. in Boeth."
+     ]
+    }
+   ],
+   "default_work": "liber-sex-principiorum",
+   "body": [
+    "Gilbertus",
+    "Porretanus"
+   ]
+  }
+ ],
+ "witness_context": "A work matched where the editors REPORT A WITNESS'S READING (cod./codd./ed./edd./Vat./mss. ... allegat/citat/legit, or 'falso alleget') is not an authority record: it is the apparatus criticus.",
+ "_body_join": "A note giving ONLY a locus (Libr. X. c. 33.) takes its author from the body text before its anchor: the nearest name in 'body' within 220 characters. A title with no siglum whose abbreviation belongs to exactly ONE author takes that author. Both are marked in 'via' (body-join / unique-title) so they can be audited apart.",
+ "_prose": "'prose' lists the forms a work takes in running Latin (in libro Confessionum), for the body join; they are tried before the stemmed Latin title."
+}

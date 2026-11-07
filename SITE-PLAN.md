@@ -230,6 +230,13 @@ and anchors".)
 - The `INDEX-PLAN.md` "Deferred" list (inline clickable citations in the reader; the *index rerum*) stays deferred
   unless Wilson promotes it.
 
+**▶ Phase 4 STATUS (2026-11-06): PILOT DONE — conventions written, rulings R1–R7 and the full pass AWAIT WILSON.**
+Record: `manual-review/authorities-pilot.md`. Table (52 authors, 284 works) + extractor committed; nothing published,
+no ledger in `index/` yet. Final precision 50/50; corpus 13,969 records, 92.4% to a work. Implicit (body-join)
+citations are ~21% of the whole — the pilot's main finding. **Full pass priced at ≈420–690K tokens, Opus**
+(residue identification, ~40 missing authors, exegetes' commentaries, per-volume verification, `/authorities`
+pages). ⛔ Big-token hard stop.
+
 **Phase 5: paper-test the model against Tomes VII–IX (before their pilots, not after).**
 - **VII, the Luke commentary:** expected to be the *Ioannem* shape (pericope + quaestiones). Confirm the
   `pericope` unit, `paragraphs:` and the landing page carry over unchanged.

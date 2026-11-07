@@ -1,0 +1,1002 @@
+chunk_id	volume	note	author	work	pseudo	role	book	locus	locus_key	via	raw
+bon-sent-I-d1-a1-q1	1	2	aristotle	ethica-nicomachea		cited	2	c. 3. in fine	2.3	title	Aristot. II. Ethic. c. 3. in fine
+bon-sent-I-d1-a1-q1	1	3	augustine	de-trinitate		cited	10	Cap. 11. n. 17	10.11.17	body-join+title	Augustinus … Cap. 11. n. 17; vide supra in lit. Magistri, c. 3. in initio.
+bon-sent-I-d1-a1-q1	1	6	aristotle	categoriae		cited		c. de Oppositis circa finem		title	Aristot. de Praedicam. c. de Oppositis circa finem
+bon-sent-I-d1-a1-q1	1	7	albert-the-great	summa-theologiae		cited		I. tr. 2. q. 8. m. 1.	1.2.8.1	title	B. Albert. S. I. tr. 2. q. 8. m. 1.
+bon-sent-I-d1-a1-q1	1	7	aristotle	ethica-nicomachea		cited	2	c. 1.	2.1	title	Aristot. II. Ethic. c. 1.
+bon-sent-I-d1-a1-q1	1	8	aristotle	metaphysica		cited	9	text. 16. (Ed. Paris. VIII. c. 8.).	9.16.8.8	title	Aristot. IX. Metaph. text. 16. (Ed. Paris. VIII. c. 8.).
+bon-sent-I-d1-a1-q1	1	10	aristotle	de-anima		cited	1	text. 53. (c. 3.).	1.53.3	title	Aristot. I. de Anima text. 53. (c. 3.).
+bon-sent-I-d1-a1-q1	1	13	boethius	in-porphyrium		cited				title	Boeth. Dialogus I. in Porphyrium
+bon-sent-I-d1-a1-q1	1	13	boethius	in-topica-ciceronis		cited				title	Boeth. Comment. in Topica Ciceronis
+bon-sent-I-d1-a1-q2	1	2	dionysius			cited		Cap. 5.	5	body-join	Dionysius … Cap. 5. de Div. Nom., ubi secundum textum Graecum legitur: Non aliud dicit esse bonum et aliud ens. — Mox cod.
+bon-sent-I-d1-a1-q2	1	3	augustine	de-libero-arbitrio		cited	2	c. 18. et 19.	2.18.19	title	August. II. de Lib. Arb. c. 18. et 19.
+bon-sent-I-d1-a1-q2	1	4	aristotle	categoriae		cited		c. de Oppositis circa finem.		title	Aristot. de Praedicam. c. de Oppositis circa finem.
+bon-sent-I-d1-a1-q2	1	5	augustine	de-doctrina-christiana		cited	1	c. 23. n. 22	1.23.22	body-join+title	Augustinus … Lib. I. c. 23. n. 22: Cum ergo quatuor sint diligenda: unum, quod supra nos est; alterum, quod nos sumus; tert
+bon-sent-I-d1-a1-q2	1	6	aristotle	ethica-nicomachea		cited	2	c. 6	2.6	title	Aristot. II. Ethic. c. 6
+bon-sent-I-d1-a1-q2	1	7	augustine	de-libero-arbitrio		cited	2	c. 18. et 19. n. 50.	2.18.19.50	title	August. II. de Lib. Arb. c. 18. et 19. n. 50.
+bon-sent-I-d1-a1-q2	1	9	aristotle	ethica-nicomachea		cited	1		1	title	Aristot. I. Ethic.
+bon-sent-I-d1-a1-q2	1	11	augustine			cited		Quaest. 30	30	body-join	Augustinum … Quaest. 30: Sic enim utitur suo corpore: quibusdam assumendis vel respuendis ad valitudinem, quibusdam toleran
+bon-sent-I-d1-a1-q2	1	12	augustine	de-trinitate		cited	10	Cap. 11. n. 18	10.11.18	body-join+title	Augustinus … Cap. 11. n. 18: Voluntas etiam mea totam intelligentiam, totam memoriam meam capit, dum toto utor, quod intell
+bon-sent-I-d1-a1-q2	1	13	peter-of-tarentaise	in-sententias		same-passage		q. 1. a. 2.	1.2	here	Petr. a Tar., hic q. 1. a. 2. breviter sic proponit: Potest aliquid assumi in facultatem voluntatis quadrupliciter: vel voluntatis operantis
+bon-sent-I-d1-a1-q3	1	2	aristotle	ethica-nicomachea		cited	1	c. 1–7	1.1.7	title	Aristot. I. Ethic. c. 1–7
+bon-sent-I-d1-a1-q3	1	2	aristotle	magna-moralia		cited	1	c. 3.	1.3	title	Aristot. … I. Magnor. Moral. c. 3.
+bon-sent-I-d1-a1-q3	1	2	aristotle	topica		cited	3	c. 1	3.1	title	Aristot. … III. Topic. c. 1
+bon-sent-I-d1-a1-q3	1	4	augustine			cited		Quaest. 30	30	body-join	Augustinus … Quaest. 30: Honestum dicitur quod propter se ipsum expetendum est, utile autem quod ad aliud aliquid referendu
+bon-sent-I-d1-a1-q3	1	5	augustine			cited		Quaest. 30	30	body-join	Augustinus … Quaest. 30: Omnis itaque humana perversio est, quod etiam vitium vocatur, fruendis uti velle atque utendis fru
+bon-sent-I-d1-a1-q3	1	8	boethius	de-differentiis-topicis		cited	2		2	title	Boeth. II. de Differentiis topicis
+bon-sent-I-d1-a1-q3	1	8	aristotle	topica		cited	3	c. 1	3.1	title	Aristot. III. Topic. c. 1
+bon-sent-I-d1-a1-q3	1	9	boethius	de-differentiis-topicis		cited	2		2	title	Boeth. II. de Differentiis topic.
+bon-sent-I-d1-a2-q1	1	11	aristotle	magna-moralia		cited	1	c. 2	1.2	title	Aristot. I. Magnor. Moral. c. 2
+bon-sent-I-d1-a2-q1	1	14	augustine	de-doctrina-christiana		cited	1	c. 32. n. 35.	1.32.35	body-join+title	Augustinus … Libr. I. c. 32. n. 35.
+bon-sent-I-d1-a2-q1	1	15	augustine	enarrationes-in-psalmos		cited		90, 16.	90.16	title	August. in Expos. Psalmi 90, 16.
+bon-sent-I-d1-a2-q1	1	27	anselm	de-concordia		cited				body-join+note-title	Anselmus … Libr. de Concordia praescientiae Dei cum libero arbitrio c. 11. et 12, ubi dicit, quod voluntas movet omnia in
+bon-sent-I-d1-a3-q1	1	1	augustine	de-doctrina-christiana		cited	1	c. 33. n. 37	1.33.37	title	August. I. De Doctr. christ. c. 33. n. 37
+bon-sent-I-d1-a3-q1	1	2	aristotle	ethica-nicomachea		cited	1	c. 7	1.7	title	Aristot. I. Ethic. c. 7
+bon-sent-I-d1-a3-q1	1	2	aristotle	topica		cited	3	c. 1. seq.	3.1	title	Aristot. … III. Topic. c. 1. seq.
+bon-sent-I-d1-a3-q1	1	4	avicenna	metaphysica		cited	8	c. 7. circa finem	8.7	title	Avicenna … VIII. Metaph. c. 7. circa finem
+bon-sent-I-d1-a3-q1	1	4	aristotle	rhetorica		cited	1	c. 11.	1.11	title	Aristot. I. Rhetor. c. 11.
+bon-sent-I-d1-a3-q1	1	4	henry-of-ghent	summa		cited		a. 50. q. 2.	50.2	title	Henr. Gand. S. a. 50. q. 2.
+bon-sent-I-d1-a3-q1	1	4	aristotle	ethica-nicomachea		cited	7	c. 11. seq.	7.11	title	Aristot. … VII. Ethic. c. 11. seq.
+bon-sent-I-d1-a3-q1	1	4	aristotle	ethica-nicomachea		cited	10	c. 1-5.	10.1.5	title	Aristot. … X. Ethic. c. 1-5.
+bon-sent-I-d1-a3-q1	1	4	aristotle	magna-moralia		cited	2	c. 7	2.7	title	Aristot. … II. Magnor. Moral. c. 7
+bon-sent-I-d1-a3-q1	1	5	aristotle	de-anima		cited	2	text. 123.	2.123	title	Aristot. II. de Anima text. 123.
+bon-sent-I-d1-a3-q1	1	6	aristotle	physica		cited	3	text. 63. (c. 6.)	3.63.6	title	Aristot. III. Phys. text. 63. (c. 6.)
+bon-sent-I-d1-a3-q1	1	8	aristotle	categoriae		cited		c. 1.	1	title	Aristot. de Praedicam. c. 1.
+bon-sent-I-d1-a3-q1	1	8	aristotle	physica		cited	7	text. 21-34. (c. 4.).	7.21.34.4	title	Aristot. … VII. Phys. text. 21-34. (c. 4.).
+bon-sent-I-d1-a3-q1	1	14	aristotle	de-anima		cited	2	text. 123. et 143.	2.123.143	title	Aristot. II. de Anima text. 123. et 143.
+bon-sent-I-d1-a3-q2	1	1	aristotle	ethica-nicomachea		cited	8	c. 5	8.5	title	Aristot. VIII. Ethic. c. 5
+bon-sent-I-d1-a3-q2	1	1	aristotle	ethica-nicomachea		cited	1	c. 1. 2. et 8	1.1.2.8	title	Aristot. … I. Ethic. c. 1. 2. et 8
+bon-sent-I-d1-a3-q2	1	1	aristotle	magna-moralia		cited	1	c. 2	1.2	title	Aristot. … I. Magnor. Moral. c. 2
+bon-sent-I-d1-a3-q2	1	6	augustine	de-diversis-quaestionibus-83		cited		q. 30.	30	title	August. … 83 Qq. q. 30.
+bon-sent-I-d1-a3-q2	1	9	aristotle	de-anima		cited	3	text. 4.	3.4	title	Aristot. III. de Anima text. 4.
+bon-sent-I-d1-a3-q2	1	19	duns-scotus	quaestiones-in-physicam	true	cited	2	q. 1. n. 1. et 15.	2.1.1.15	title	Scot. II Phys. q. 1. n. 1. et 15.
+bon-sent-I-d1-a3-q2	1	21	anselm	proslogion		cited		c. 26	26	body-join+note-title	Anselmus … Proslog. c. 26: «Non ergo totum illud gaudium intrabit in gaudentes, sed toti gaudentes intrabunt in gaudium».
+bon-sent-I-d1-a3-q2	1	26	augustine	de-civitate-dei		cited	19	c. 25	19.25	title	August. XIX. de Civ. Dei c. 25
+bon-sent-I-d1-dubia	1	1	hugh-of-st-victor	de-sacramentis		cited	1	p. 8. c. 12. (ed. Paris. 1526)	1.8.12.1526	body-join+note-title	Hugonem … Libr. I. de Sacram. p. 8. c. 12. (ed. Paris. 1526): Si quis igitur quaerat tempus institutionis Sacramentorum,
+bon-sent-I-d1-dubia	1	17	augustine			cited				anaphor-unresolved	August. loc. cit.; insuper
+bon-sent-I-d1-dubia	1	17	albert-the-great	in-sententias		same-passage		a. 17.	17	here	B. Albert., hic a. 17. ad 2.
+bon-sent-I-d1-dubia	1	17	thomas-aquinas	in-sententias		same-passage		q. 1. a. 1.	1.1	here	Thom., hic q. 1. a. 1. et S. I. II. q. 11. a. 2.
+bon-sent-I-d1-dubia	1	17	duns-scotus	in-sententias		same-passage		q. 5.	5	here	Scot., hic q. 5.
+bon-sent-I-d1-dubia	1	17	richard-of-middleton	in-sententias		same-passage		a. 2. q. 2.	2.2	here	Richard., hic a. 2. q. 2.
+bon-sent-I-d1-dubia	1	17	peter-of-tarentaise	in-sententias		same-passage		q. 2. a. 3.	2.3	here	Petr. a Tar., hic q. 2. a. 3.
+bon-sent-I-d1-dubia	1	22	hugh-of-st-cher	postilla		same-passage				here	Hugo de S. Charo in hunc locum; Vulgata vero serire magnatis; Vat. autem citando Ecclesiasten 7, 15. legit fruere bonis.
+bon-sent-I-d1-dubia	1	25	augustine	de-doctrina-christiana		cited	1	c. 31. n. 34	1.31.34	body-join+note-title	Augustinus … Libr. I. de Doctr. christ. c. 31. n. 34: Sed si fruitur, eget bono nostro, quod nemo sanus dixerit. — Ex antiq
+bon-sent-I-d1-dubia	1	29	alexander-of-hales	summa		cited		1. q. 17. m. 9.	1.17.9	title	Alex. Hal. … S. 1. q. 17. m. 9.
+bon-sent-I-d1-dubia	1	30	aristotle			cited	2		2	body-join	Philosophus … Libr. II. Phys. text. 29. (c. 3.), ubi iuxta ed. Venet. 1489: Dicitur etiam (causa) secundum finem intentum, e
+bon-sent-I-d1-dubia	1	32	aristotle	analytica-posteriora		cited	1	text. 11. (c. 4.)	1.11.4	title	Aristot. I. Poster. text. 11. (c. 4.)
+bon-sent-I-d1-dubia	1	32	duns-scotus	in-analytica-posteriora	true	cited		q. 15-39.	15.39	title	Scot. in I. Poster. q. 15-39.
+bon-sent-I-d1-dubia	1	34	richard-of-middleton	in-sententias		same-passage		a. 2. q. 3.	2.3	here	Richard., hic a. 2. q. 3. ad 1.
+bon-sent-I-d1-dubia	1	37	albert-the-great	in-sententias		same-passage		a. 21.	21	here	B. Albert., hic a. 21.
+bon-sent-I-d1-dubia	1	37	giles-of-rome	in-sententias		same-passage				here	Aegid. R., hic l. princ. q. 2.
+bon-sent-I-d1-littera	1	1	augustine	de-doctrina-christiana		cited		Cap. 2. n. 2	2.2	body-join+title	Augustinus … Cap. 2. n. 2; hic et proximo loco, sed multis a Magistro omissis et nonnullis additis ac mutatis.
+bon-sent-I-d1-littera	1	6	augustine	de-doctrina-christiana		cited		c. 4.	4	anaphor	Aug. loc. cit. c. 4. et proximus locus, qui incipit: Res igitur, ibid. c. 5.
+bon-sent-I-d1-littera	1	7	augustine			cited	1	c. 4.	1.4	body-join	Augustinus … Libr. I. c. 4. et proximus locus ibid. c. 5.
+bon-sent-I-d1-littera	1	10	augustine	de-trinitate		cited	10	Cap. 10. n. 13.	10.10.13	body-join+title	Augustinus … Cap. 10. n. 13. — Vat. cum cod. A et omnibus edd., excepta 8, in principio propositionis: Idem loco Unde Augus
+bon-sent-I-d1-littera	1	11	augustine	de-trinitate		cited	10	Cap. 11. n. 17.	10.11.17	body-join+title	Augustinus … Cap. 11. n. 17. — In fine textus cod. B, ed. 1 et originale habent appetivit pro appetit.
+bon-sent-I-d1-littera	1	13	augustine	de-trinitate		cited	10	Cap. 10. n. 13.	10.10.13	body-join+title	Augustinus … Cap. 10. n. 13. — Integrum textum posuimus ex cod. D et ed. 1. Vat. cum ceteris edd. et codd. fruimur cognitis
+bon-sent-I-d1-littera	1	14	augustine	de-doctrina-christiana		cited	1	c. 30. n. 31.	1.30.31	body-join+title	Augustinus … Libr. I. c. 30. n. 31. — Scripturae locus, quem hic respicit Augustinus, est I. Cor. 13, 12.
+bon-sent-I-d1-littera	1	16	augustine	de-doctrina-christiana		cited	1	c. 33. n. 37	1.33.37	body-join+note-title	Augustinus … Libr. I. de Doctr. christ. c. 33. n. 37; proximus locus ibid. c. 31. n. 34.
+bon-sent-I-d1-littera	1	18	augustine	de-doctrina-christiana		cited	1	c. 22	1.22	body-join+title	Augustinus … Libr. I. c. 22, sed plura secundum sensum excerpta sunt. — Insuper mss. omnes et edd. 1, 8 male et contra text
+bon-sent-I-d1-littera	1	20	augustine	de-doctrina-christiana		cited		c. 33. n. 37	33.37	body-join+note-title	Augustinus … De Doctr. christ. c. 33. n. 37, ubi in originali: Inde ad Philemonem Paulus: Ita frater, inquit, ego te fruar 
+bon-sent-I-d1-littera	1	21	augustine	de-doctrina-christiana		cited		c. 31. n. 34.	31.34	body-join+note-title	Augustinus … De Doctr. christ. c. 31. n. 34. — Mox Vat. diligat pro diligit contra textum Augustini, codd. et fere omnes ed
+bon-sent-I-d1-littera	1	26	augustine	de-trinitate		cited	10	Cap. 8. n. 11.	10.8.11	body-join+title	Augustini … Cap. 8. n. 11. — Paulo ante mss. BCE sunt pro sint.
+bon-sent-I-d1-littera	1	33	augustine	de-doctrina-christiana		cited				body-join+note-title	Augustinus … De Doctr. christ. l. c. 33. n. 37; in quo textu praeter Vat. ceterae edd. et codd. omittunt tuae post laetitia
+bon-sent-I-d1-littera	1	34	augustine	de-trinitate		cited	10	Cap. 10. n. 13.	10.10.13	body-join+title	Augustinus … Cap. 10. n. 13.
+bon-sent-I-d10-a1-q1	1	1	duns-scotus	in-sententias		cited	3	d. 28.	3.28	title	Scot. III. Sent. d. 28.
+bon-sent-I-d10-a1-q1	1	1	aristotle	magna-moralia		cited	2	c. 17. (c. 13.).	2.17.13	title	Aristot. II. Magn. Moral. c. 17. (c. 13.).
+bon-sent-I-d10-a1-q1	1	6	augustine	enarrationes-in-psalmos		cited		61. n. 18. seq. V	61.18.5	title	August. Enarrat. in Psalm. 61. n. 18. seq. V
+bon-sent-I-d10-a1-q1	1	8	aristotle	metaphysica		cited	9	text. 10.	9.10	title	Aristot. IX. Metaph. text. 10.
+bon-sent-I-d10-a1-q1	1	17	aristotle	ethica-nicomachea		cited	3	c. 1.	3.1	title	Aristot. III. Ethic. c. 1.
+bon-sent-I-d10-a1-q1	1	17	aristotle	magna-moralia		cited	2	c. 8. et 9. (c. 7. et 8.).	2.8.9.7.8	title	Aristot. … II. Magn. Moral. c. 8. et 9. (c. 7. et 8.).
+bon-sent-I-d10-a1-q1	1	19	augustine	de-trinitate		cited	6	c. 10. n. 11.	6.10.11	title	August. VI. de Trin. c. 10. n. 11.
+bon-sent-I-d10-a1-q1	1	22	aristotle	physica		cited	1	text. 50. et 36. (c. 6.)	1.50.36.6	title	Aristot. … I. Phys. text. 50. et 36. (c. 6.)
+bon-sent-I-d10-a1-q1	1	22	aristotle	topica		cited	8	c. 1. (c. 9. circa finem)	8.1.9	title	Aristot. … VIII. Topic. c. 1. (c. 9. circa finem)
+bon-sent-I-d10-a1-q2	1	1	augustine	de-trinitate		cited	9	c. 10. n. 15.	9.10.15	title	August. IX. de Trin. c. 10. n. 15.
+bon-sent-I-d10-a1-q2	1	6	john-damascene	de-fide-orthodoxa		cited	2	c. 22	2.22	title	Ioan. Damasc. II. de Fide orthod. c. 22
+bon-sent-I-d10-a1-q2	1	6	aristotle	de-anima		cited	3	text. 41. et 53. (c. 9. seq.)	3.41.53.9	title	Aristot. III. de Anima text. 41. et 53. (c. 9. seq.)
+bon-sent-I-d10-a1-q2	1	6	aristotle	de-motu-animalium		cited		c. 3. (c. 6.)	3.6	title	Aristot. … de Motu animal. c. 3. (c. 6.)
+bon-sent-I-d10-a1-q2	1	6	aristotle	ethica-nicomachea		cited	2	c. 5	2.5	title	Aristot. … II. Ethic. c. 5
+bon-sent-I-d10-a1-q2	1	6	aristotle	magna-moralia		cited	1	c. 8. (c. 7. et 8.).	1.8.7.8	title	Aristot. … I. Magn. Moral. c. 8. (c. 7. et 8.).
+bon-sent-I-d10-a1-q2	1	11	augustine	de-civitate-dei		cited	10	Cap. 7-9.	10.7.9	body-join+title	Augustinus … Cap. 7-9. Mss. et omnes edd. falso citant XIV: de Trin. — Paulo ante ex plurimis mss. et ed. 1 substituimus os
+bon-sent-I-d10-a1-q2	1	13	aristotle	ethica-nicomachea		cited	9	c. 9	9.9	body-join+note-title	Philosophus … Libr. IX. Ethic. c. 9, ubi conversa probatur, quod scil. beatitudo non sit sine amicitia. — In seqq. locis pro
+bon-sent-I-d10-a1-q2	1	20	john-damascene	de-fide-orthodoxa		cited	2	c. 16	2.16	body-join+note-title	Damascenus … Libr. II. de Fide orthod. c. 16: Est porro ira rationis satelles, vindex cupiditatis.
+bon-sent-I-d10-a1-q3	1	4	richard-of-st-victor	de-trinitate		cited	5	c. 17.	5.17	body-join+note-title	Richardus … Libr. V. de Trin. c. 17. et seqq. — Mox post iste Vat. praeter fidem mss. et ed. 1 additur ergo, et paulo infr
+bon-sent-I-d10-a2-q1	1	1	augustine	de-trinitate		cited		l. XV, c. 19, n. 37	15.19.37	title	August. de Trin. l. XV, c. 19, n. 37
+bon-sent-I-d10-a2-q1	1	2	augustine	in-epistolam-ioannis		cited		VII, n. 6.	7.6	title	August. Tractat. [in I Ioan.] VII, n. 6.
+bon-sent-I-d10-a2-q1	1	2	augustine	de-trinitate		cited	15	c. 17-20.	15.17.20	title	August. … XV de Trin. c. 17-20.
+bon-sent-I-d10-a2-q1	1	5	augustine	de-trinitate		cited		l. XV, cap. 17, n. 28	15.17.28	title	August. de Trin. l. XV, cap. 17, n. 28
+bon-sent-I-d10-a2-q2	1	1	augustine	de-trinitate		cited	6	Cap. 5. n. 7	6.5.7	body-join+title	Augustinus … Cap. 5. n. 7: Manifestum est, quod non aliquis duorum est, quo uterque coniungitur.
+bon-sent-I-d10-a2-q3	1	6	augustine	de-trinitate		cited	5	c. 11, n. 12	5.11.12	body-join+note-title	Augustinus … Libr. V. de Trin. c. 11, n. 12, et ibid. XV. c. 19, n. 37.
+bon-sent-I-d10-a2-q3	1	10	aristotle	de-respiratione		cited				title	Aristot. de Respiratione
+bon-sent-I-d10-a2-q3	1	16	aristotle	de-respiratione		cited				title	Aristot. de Respiratione
+bon-sent-I-d10-dubia	1	5	augustine			cited		Tract. 123. n. 5	123.5	body-join	Augustinum … Tract. 123. n. 5, ubi in expositione horum verborum Simon Ioannis, diligis me etc. (Ioan. 21, 15-17.) ait: Ubi
+bon-sent-I-d10-dubia	1	9	thomas-aquinas	summa-theologiae		cited		p. I. II. q. 26. a. 3	1.2.26.3	title	S. Thom. S. p. I. II. q. 26. a. 3
+bon-sent-I-d10-dubia	1	9	albert-the-great	in-sententias		same-passage		a. 2.	2	here	B. Albert., hic a. 2.
+bon-sent-I-d10-dubia	1	11	richard-of-st-victor	de-trinitate		cited	5	c. 17.	5.17	body-join+note-title	Richardum … Libr. V. de Trin. c. 17. et seqq. Vide supra a. 1. q. 3. opp. 4. — Mox ex antiquioribus mss. et ed. 1 substitu
+bon-sent-I-d10-dubia	1	19	augustine	de-trinitate		cited	15	c. 7. n. 12, et c. 17. n. 28.	15.7.12.17.28	body-join+note-title	Augustinus … Libr. XV. de Trin. c. 7. n. 12, et c. 17. n. 28.
+bon-sent-I-d10-littera	1	1	augustine	de-trinitate		cited	10	Cap. 17. n. 27. et 28.	10.17.27.28	body-join+title	Augustinus … Cap. 17. n. 27. et 28. — In princip. dist. post Nunc codd. DE addunt vero.
+bon-sent-I-d10-littera	1	19	augustine	de-trinitate		cited	6	Cap. 4. et 5. n. 6. et 7	6.4.5.6.7	body-join+title	Augustinus … Cap. 4. et 5. n. 6. et 7; ex ultimo cap. etiam sequentis huius capituli textus excerpti sunt. In fine primi te
+bon-sent-I-d10-littera	1	22	augustine	de-trinitate		cited	5	Cap. 19. n. 37.	5.19.37	body-join+title	Augustinus … Cap. 19. n. 37. — Cod. C brevius: Filius Patrem loco Patrem diligit Filius. Mox codd. BCD et edd. 1, 8 cum ori
+bon-sent-I-d2-a1-q1	1	1	aristotle	metaphysica		cited	10	text. 12. (ed. Paris. IX. c. 3.).	10.12.9.3	title	Aristot. X. Metaph. text. 12. (ed. Paris. IX. c. 3.).
+bon-sent-I-d2-a1-q1	1	8	aristotle	physica		cited	3	text. 32	3.32	title	Aristot. III. Phys. text. 32
+bon-sent-I-d2-a1-q1	1	9	aristotle	metaphysica		cited	12	text. 39. (ed. Paris. XI. c. 7.)	12.39.11.7	title	Aristot. XII. Metaph. text. 39. (ed. Paris. XI. c. 7.)
+bon-sent-I-d2-a1-q1	1	9	boethius	de-consolatione		cited	3	Prosa 10.	3.10	title	Boeth. III. de Consol. Prosa 10.
+bon-sent-I-d2-a1-q1	1	10	averroes	in-metaphysicam		cited	12	text. 26	12.26	title	Averroes XII. Metaph. text. 26
+bon-sent-I-d2-a1-q1	1	10	boethius	de-consolatione		cited	3	Prosa 11.	3.11	title	Boeth. III. de Consol. Prosa 11.
+bon-sent-I-d2-a1-q1	1	10	albert-the-great	summa-theologiae		cited		1. tract. 6. q. 29. m. 1. a. 1.	1.6.29.1.1	title	B. Albert. S. 1. tract. 6. q. 29. m. 1. a. 1.
+bon-sent-I-d2-a1-q1	1	14	anselm	cur-deus-homo		cited	1	c. 20	1.20	title	Anselm. I. Cur Deus homo c. 20
+bon-sent-I-d2-a1-q1	1	17	augustine	de-trinitate		cited	4	c. 21. n. 30	4.21.30	body-join+note-title	Augustini … Libr. IV. de Trin. c. 21. n. 30: Quemadmodum cum memoriam meam et intellectum et voluntatem nomino, singula qu
+bon-sent-I-d2-a1-q2	1	2	dionysius	de-caelesti-hierarchia		cited		c. 4.	4	title	Dionys. de Cael. Hierarch. c. 4.
+bon-sent-I-d2-a1-q2	1	2	dionysius	de-divinis-nominibus		cited		c. 4.	4	title	Dionys. … de Div. Nom. c. 4.
+bon-sent-I-d2-a1-q2	1	3	seneca	epistolae-ad-lucilium		cited	1	epist. 6.	1.6	title	Seneca I. Epist. ad Lucilium epist. 6.
+bon-sent-I-d2-a1-q2	1	4	aristotle	de-anima		cited	2	text. 34. (c. 4.).	2.34.4	title	Aristot. II. de Anima text. 34. (c. 4.).
+bon-sent-I-d2-a1-q2	1	5	aristotle	metaphysica		cited	8	text. 45. (VI. c. 13.)	8.45.6.13	title	Aristot. VIII. Metaph. text. 45. (VI. c. 13.)
+bon-sent-I-d2-a1-q2	1	5	aristotle	analytica-posteriora		cited	1	c. 20. (c. 24.)	1.20.24	title	Aristot. … I. Poster. c. 20. (c. 24.)
+bon-sent-I-d2-a1-q2	1	11	aristotle	de-sophisticis-elenchis		cited	2	c. 5. (c. 25.)	2.5.25	title	Aristot. II. Elench. c. 5. (c. 25.)
+bon-sent-I-d2-a1-q2	1	11	aristotle	metaphysica		cited	11	c. 4. (X. c. 5.).	11.4.10.5	title	Aristot. … XI. Metaph. c. 4. (X. c. 5.).
+bon-sent-I-d2-a1-q2	1	18	augustine	de-doctrina-christiana		cited	1	c. 5. n. 5	1.5.5	body-join+note-title	Augustinus … Libr. I. de Doctr. christ. c. 5. n. 5: In Patre unitas, in Filio aequalitas, in Spiritu S. unitatis aequalitat
+bon-sent-I-d2-a1-q3	1	2	augustine	de-quantitate-animae		cited		c. 3.	3	title	August. de Quant. animae c. 3.
+bon-sent-I-d2-a1-q4	1	6	aristotle			cited	2		2	body-join	Philosophus … Libr. II Phys. text. 49 (c. 3), ubi dicit, quod eorum quae fiunt propter finem alia quidem secundum propositum
+bon-sent-I-d2-a1-q4	1	13	richard-of-st-victor	de-trinitate		cited	5	c. 23	5.23	body-join+note-title	Richardus … Libr. V. de Trin. c. 23: Quantum igitur ad substantiam dilectionis erit unus atque idem amor in omnibus person
+bon-sent-I-d2-a1-q4	1	18	albert-the-great	in-sententias		cited	1	d. 26. a. 10.	1.26.10	title	B. Albert. … I. Sent. d. 26. a. 10.
+bon-sent-I-d2-a1-q4	1	20	aristotle	de-caelo		cited	1	text. 2	1.2	body-join+title	Philosophus … Libr. I. text. 2, ubi iuxta ed. Venet. 1489 in translatione arabico-latina ita habetur: Et hoc (ternarius) est
+bon-sent-I-d2-a1-q4	1	22	aristotle	de-sophisticis-elenchis		cited	1	c. 4 (c. 5)	1.4.5	title	Aristot. I Elench. c. 4 (c. 5)
+bon-sent-I-d2-dubia	1	1	alexander-of-hales	summa		cited		p. I. q. 2. m. 2. a. 2.	1.2.2.2	title	Alex. Hal. S. p. I. q. 2. m. 2. a. 2.
+bon-sent-I-d2-dubia	1	1	albert-the-great	in-sententias		same-passage		a. 3.	3	here	B. Albert., hic a. 3.
+bon-sent-I-d2-dubia	1	1	peter-of-tarentaise	in-sententias		same-passage				here	Petr. a Tar., hic in expositione litterae.
+bon-sent-I-d2-dubia	1	6	john-damascene	de-fide-orthodoxa		cited	1	c. 9	1.9	body-join+note-title	Damascenus … Libr. 1. de Fide orthod. c. 9, ubi sic ait: Secundum nomen est Θεός (id est Deus), quae vox vel a verbo θεεῖν 
+bon-sent-I-d2-dubia	1	9	alexander-of-hales	summa		cited		p. I. q. 19. m. 4. a. 1.	1.19.4.1	title	Alex. Hal. S. p. I. q. 19. m. 4. a. 1.
+bon-sent-I-d2-dubia	1	23	augustine	de-trinitate		cited		c. 12. n. 24	12.24	title	August. … de Trin. c. 12. n. 24
+bon-sent-I-d2-dubia	1	23	hilary	de-trinitate		cited	12	n. 37.	12.37	title	Hilar. XII. de Trin. n. 37.
+bon-sent-I-d2-dubia	1	28	alexander-of-hales	summa		cited		p. I. q. 67. m. 4	1.67.4	title	Alex. Hal. S. p. I. q. 67. m. 4
+bon-sent-I-d2-dubia	1	28	richard-of-middleton	in-sententias		same-passage		a. 2. q. 4.	2.4	here	Richard. a Med., hic a. 2. q. 4.
+bon-sent-I-d2-dubia	1	30	augustine	de-genesi-ad-litteram		cited	12	c. 6.	12.6	title	August. XII. de Genes. ad lit. c. 6.
+bon-sent-I-d2-dubia	1	30	thomas-aquinas	summa-theologiae		cited				title	S. Thom. S.
+bon-sent-I-d2-dubia	1	30	nicholas-of-lyra	postilla		cited				title	Lyranus in praefatione super Psalterium
+bon-sent-I-d2-littera	1	2	augustine	de-trinitate		cited	1	Cap. 2. n. 4	1.2.4	body-join+title	Augustinus … Cap. 2. n. 4: «Quod Trinitas sit unus et solus verus Deus, et quam recte Pater et Filius et Spiritus sanctus u
+bon-sent-I-d2-littera	1	6	augustine	de-trinitate		cited	1	c. 3. n. 5	1.3.5	title	August. I. de Trin. c. 3. n. 5
+bon-sent-I-d2-littera	1	8	augustine	de-trinitate		cited	1	Cap. 2. n. 4	1.2.4	body-join+title	Augustinus … Cap. 2. n. 4, in quo textu loco audit haec Vat. cum codd. ABE et pluribus edd. legit audit hoc, sed contradice
+bon-sent-I-d2-littera	1	13	augustine	de-fide-ad-petrum	true	cited		Cap. 1. n. 5.	1.5	body-join+title	Augustinus … Cap. 1. n. 5. Hoc opus nunc communiter tribuitur Fulgentio Ruspensi († 533).
+bon-sent-I-d2-littera	1	18	ambrose	de-fide		cited	1		1	title	Ambros. I. de Fide
+bon-sent-I-d2-littera	1	20	gratian			cited		c. 1. n. 7	1.7	no-title	Gratian. c. 1. n. 7, ubi: Deus enim et Dominus nomen magnificentiae, nomen est potestatis. Vat. cum edd. 4, 5, 6, 9: Deus enim, ut ait
+bon-sent-I-d2-littera	1	25	hilary	de-trinitate		cited	3	n. 3	3.3	body-join+note-title	Hilarius … Libr. III. de Trin. n. 3; sed plura ibi adiunguntur.
+bon-sent-I-d2-littera	1	42	gratian			cited		c. 2. n. 68.	2.68	no-title	Gratian. c. 2. n. 68.
+bon-sent-I-d2-littera	1	56	ambrose	de-fide		cited				title	Ambros. … de Fide
+bon-sent-I-d2-littera	1	56	gratian			cited		I. c. 1. n. 8	1.1.8	no-title	Gratian. I. c. 1. n. 8: «Ite, baptizate gentes in nomine Patris et Filii et Spiritus sancti. In nomine utique, non in nominibus. Ipse etiam 
+bon-sent-I-d2-littera	1	58	ambrose			same-passage				here	Ambros. in hunc locum et
+bon-sent-I-d2-littera	1	58	augustine	enarrationes-in-psalmos		cited		118, serm. 14. n. 2	118.14.2	title	August. in Psalm. 118, serm. 14. n. 2
+bon-sent-I-d2-littera	1	58	augustine	sermones		cited				title	August. … de Verbis Evangel.
+bon-sent-I-d2-littera	1	60	augustine	de-trinitate		cited	1	c. 6. n. 12	1.6.12	body-join+title	Augustinus … Libr. I. c. 6. n. 12: Ex ipso, ex Patre; per ipsum, per Filium; in ipso, in Spiritu sancto. Codd. B C D et edd
+bon-sent-I-d3-littera	1	6	augustine	de-civitate-dei		cited	8	c. 6	8.6	body-join+title	Augustinus … Libr. VIII. c. 6, nonnullis transpositis et omissis. Etiam infra tertia et quarta ratio inde sumtae sunt. Paul
+bon-sent-I-d3-littera	1	9	augustine	de-trinitate		cited	6	Cap. 10, n. 12	6.10.12	body-join+title	Augustinus … Cap. 10, n. 12, sed transposito ordine propositionum. — In initio huius textus Vat. et ed. 4 male legunt intel
+bon-sent-I-d3-littera	1	11	augustine	de-vera-religione		cited		cap. 55, n. 113	55.113	body-join+title	Augustinus … Ex cap. 55, n. 113, passim collecta. — In prima propositione huius textus post omnia solus cod. C addit partic
+bon-sent-I-d3-littera	1	20	augustine	de-trinitate		cited	10	Cap. 11, n. 17, 18.	10.11.17.18	body-join+title	Augustinus … Cap. 11, n. 17, 18. Ex eodem capite sumta sunt omnia, quae sequuntur usque ad: Ecce illius summae Unitatis.
+bon-sent-I-d3-littera	1	25	augustine	de-trinitate		cited	15	c. 7, n. 11	15.7.11	body-join+note-title	Augustinus … Libr. XV. de Trin. c. 7, n. 11, secundum sensum.
+bon-sent-I-d3-littera	1	26	augustine	de-trinitate		cited	10	Cap. 11, n. 14	10.11.14	body-join+title	Augustinus … Cap. 11, n. 14, ubi longiore discursu hanc sententiam a S. Bonaventura receptam probat (cfr. hic. p. II. a. I.
+bon-sent-I-d3-littera	1	27	augustine	de-trinitate		cited	9	Cap. 3, n. 3	9.3.3	body-join+title	Augustinus … Cap. 3, n. 3, sed de suo addidit Magister quae ad memoriam referuntur, nempe vel meminisses et vel meminerit. 
+bon-sent-I-d3-littera	1	28	augustine	de-trinitate		cited	9	Cap. 4, n. 5.	9.4.5	body-join+title	Augustinus … Cap. 4, n. 5. Sed multo fusius Augustinus. Paulo ante pro et abesse Vat. cum edd. 2, 3, 4, 5, 7 legit vel abes
+bon-sent-I-d3-littera	1	30	augustine	de-trinitate		cited	10	Cap. 20, n. 39	10.20.39	body-join+title	Augustinus … Cap. 20, n. 39, ubi post reminiscitur deest enim, quod et a mss. B C D abest; ceterum, etiam omisso enim, verb
+bon-sent-I-d3-littera	1	37	augustine	de-trinitate		cited	10	Cap. 12, n. 15.	10.12.15	body-join+title	Augustinus … Cap. 12, n. 15. — Codd. ABDE et ed. 1 omittunt est post Sciendum vero. Mox in ipso textu Augustini codd., exce
+bon-sent-I-d3-littera	1	38	augustine	de-trinitate		cited	9	Cap. 4, n. 4	9.4.4	body-join+title	Augustinus … Cap. 4, n. 4: «Sicut autem quaedam sunt mens et amor eius, cum se amat; ita quaedam duo sunt mens et notitia e
+bon-sent-I-d3-littera	1	39	augustine	de-trinitate		cited	9	c. 12, n. 18	9.12.18	title	August. IX. de Trin. c. 12, n. 18
+bon-sent-I-d3-littera	1	43	augustine	de-trinitate		cited	9	Cap. 1, n. 1.	9.1.1	body-join+title	Augustinus … Cap. 1, n. 1.
+bon-sent-I-d3-littera	1	46	augustine	de-trinitate		cited	1	Cap. 1, n. 1.	1.1.1	body-join+title	Augustinus … Cap. 1, n. 1.
+bon-sent-I-d3-p1-a1-q1	1	1	dionysius	de-divinis-nominibus		cited		Cap. 1. circa medium	1	body-join+title	Dionysii … Cap. 1. circa medium: Quem neque intelligere possibile est neque dicere (ed. Migne iuxta transl. Scoti Erigena
+bon-sent-I-d3-p1-a1-q1	1	3	aristotle	ethica-nicomachea		cited	6	c. 1	6.1	title	Aristot. VI. Ethic. c. 1
+bon-sent-I-d3-p1-a1-q1	1	3	aristotle	de-caelo		cited	1	text. 82. (c. 6.)	1.82.6	title	Aristot. I. de Caelo text. 82. (c. 6.)
+bon-sent-I-d3-p1-a1-q1	1	4	boethius	de-consolatione		cited	5	Prosa 4.	5.4	title	Boeth. V. de Consol. Prosa 4.
+bon-sent-I-d3-p1-a1-q1	1	5	aristotle	metaphysica		cited	9	text. 16. (VIII. 8.)	9.16.8.8	title	Aristot. IX. Metaph. text. 16. (VIII. 8.)
+bon-sent-I-d3-p1-a1-q1	1	5	aristotle	de-anima		cited	3	text. 6. et 37-39. (c. 4. et 8.)	3.6.37.39.4	title	Aristot. III. de Anima text. 6. et 37-39. (c. 4. et 8.)
+bon-sent-I-d3-p1-a1-q1	1	6	augustine	de-vera-religione		cited		c. 29. n. 53	29.53	title	August. de Vera Relig. c. 29. n. 53
+bon-sent-I-d3-p1-a1-q1	1	8	augustine	de-trinitate		cited		Cap. 2. circa initium	2	body-join+title	Augustinus … Cap. 2. circa initium. In ipso textu Augustini mss. cum ed. 1 habent et pro eiusque, quod habet Vat. cum origi
+bon-sent-I-d3-p1-a1-q1	1	13	boethius	de-consolatione		cited	3	Prosa 11.	3.11	title	Boeth. III. de Consol. Prosa 11.
+bon-sent-I-d3-p1-a1-q1	1	17	augustine	de-videndo-deo		cited		c. 9. n. 21.	9.21	title	August. de Videndo Deo c. 9. n. 21.
+bon-sent-I-d3-p1-a1-q1	1	18	aristotle	de-anima		cited	3	text. 37. (c. 8.).	3.37.8	title	Aristot. III. de Anima text. 37. (c. 8.).
+bon-sent-I-d3-p1-a1-q1	1	21	aristotle	de-anima		cited	3	text. 3-6. (c. 4.).	3.3.6.4	title	Aristot. III. de Anima text. 3-6. (c. 4.).
+bon-sent-I-d3-p1-a1-q1	1	25	augustine	de-vera-religione		cited		Cap. 31. n. 58	31.58	body-join+title	Augustinus … Cap. 31. n. 58: Sicut in istis temporalibus legibus, quamquam de his homines iudicent, cum eas instituunt, tam
+bon-sent-I-d3-p1-a1-q2	1	2	augustine	de-libero-arbitrio		cited	2	c. 16, n. 43	2.16.43	body-join+title	Augustinus … Libr. II. c. 16, n. 43: Tanquam enim dorsum ad Te ponentes in carnali opere velut in umbra sua defiguntur.
+bon-sent-I-d3-p1-a1-q2	1	3	aristotle	analytica-posteriora		cited	1	c. 21. (23.)	1.21.23	title	Aristot. I. Poster. c. 21. (23.)
+bon-sent-I-d3-p1-a1-q2	1	3	aristotle	de-anima		cited	3	text. 25. (c. 6.)	3.25.6	title	Aristot. … III. de Anima text. 25. (c. 6.)
+bon-sent-I-d3-p1-a1-q2	1	3	aristotle	de-caelo		cited	2	text. 18. (c. 3.).	2.18.3	title	Aristot. … II. de Caelo text. 18. (c. 3.).
+bon-sent-I-d3-p1-a1-q2	1	4	aristotle	analytica-posteriora		cited	1	c. 7	1.7	title	Aristot. I. Poster. c. 7
+bon-sent-I-d3-p1-a1-q2	1	4	aristotle	metaphysica		cited	10	text. 22. (IX. c. 7.).	10.22.9.7	title	Aristot. … X. Metaph. text. 22. (IX. c. 7.).
+bon-sent-I-d3-p1-a1-q2	1	5	aristotle	analytica-posteriora		cited	1	c. 18. seqq. (c. 19. seqq.)	1.18.19	title	Aristot. I. Poster. c. 18. seqq. (c. 19. seqq.)
+bon-sent-I-d3-p1-a1-q2	1	8	aristotle	analytica-posteriora		cited	1	c. 10. (c. 13.)	1.10.13	title	Aristot. I. Poster. c. 10. (c. 13.)
+bon-sent-I-d3-p1-a1-q2	1	8	aristotle	analytica-posteriora		cited	2	c. 17. (c. 11.).	2.17.11	title	Aristot. … II. Poster. c. 17. (c. 11.).
+bon-sent-I-d3-p1-a1-q2	1	9	aristotle	de-anima		cited	3	text. 39. (c. 8.)	3.39.8	title	Aristot. III. de Anima text. 39. (c. 8.)
+bon-sent-I-d3-p1-a1-q2	1	10	aristotle	topica		cited	6	c. 1. (c. 2.)	6.1.2	title	Aristot. VI. Topic. c. 1. (c. 2.)
+bon-sent-I-d3-p1-a1-q2	1	10	aristotle	analytica-priora		cited	2	c. 27. et 28. (29. et 30.)	2.27.28.29.30	title	Aristot. … II. Prior. c. 27. et 28. (29. et 30.)
+bon-sent-I-d3-p1-a1-q2	1	10	dionysius	de-caelesti-hierarchia		cited		c. 1.	1	title	Dionys. de Caelest. Hierarch. c. 1.
+bon-sent-I-d3-p1-a1-q2	1	14	augustine	de-libero-arbitrio		cited	2	c. 16. n. 43.	2.16.43	body-join+title	Augustinus … Lib. II. c. 16. n. 43.
+bon-sent-I-d3-p1-a1-q2	1	15	dionysius	de-divinis-nominibus		cited		c. 6.	6	title	Dionys. de Div. Nom. c. 6.
+bon-sent-I-d3-p1-a1-q2	1	16	aristotle	metaphysica		cited	2	text. 1. (I. brevior, c. 1.)	2.1.1.1	title	Aristot. II. Metaph. text. 1. (I. brevior, c. 1.)
+bon-sent-I-d3-p1-a1-q2	1	18	augustine	de-diversis-quaestionibus-83		cited		q. 51. n. 2.	51.2	title	August. 83 QQ. q. 51. n. 2.
+bon-sent-I-d3-p1-a1-q2	1	18	augustine	de-spiritu-et-anima	true	cited		c. 11	11	title	August. … de Spiritu et anima c. 11
+bon-sent-I-d3-p1-a1-q3	1	5	bernard	de-consideratione		cited	5	c. 1	5.1	title	S. Bernard. V. de Consid. c. 1
+bon-sent-I-d3-p1-a1-q3	1	8	augustine	de-civitate-dei		cited	22	c. 30. n. 4	22.30.4	body-join+title	Augustinus … Libr. 22. c. 30. n. 4: Vacabimus in aeternum, videntes quia ipse est Deus, quo pleni erimus, quando ipse erit 
+bon-sent-I-d3-p1-a1-q3	1	9	bernard	de-consideratione		cited	5	c. 1.	5.1	body-join+note-title	Bernardus … Libr. V. de Consid. c. 1.
+bon-sent-I-d3-p1-a1-q4	1	2	augustine			cited				anaphor-unresolved	August. loc. cit.)? Unde vult dicere, quod naturalis philosophia est de his quae pertinent ad conditionem naturae; rationalis de his quae pe
+bon-sent-I-d3-p1-a1-q4	1	7	dionysius	de-divinis-nominibus		cited		c. 1.	1	title	Dionys. de Div. Nom. c. 1.
+bon-sent-I-d3-p1-a1-q4	1	8	dionysius	de-caelesti-hierarchia		cited		c. 2.	2	title	Dionys. de Caelest. Hierarch. c. 2.
+bon-sent-I-d3-p1-dubia	1	10	dionysius	de-divinis-nominibus		cited		c. 7	7	title	Dionys. de Div. Nom. c. 7
+bon-sent-I-d3-p1-dubia	1	10	alexander-of-hales	summa		cited		p. I. q. 48. m. 2. a. 1.	1.48.2.1	title	Alex. Hal. S. p. I. q. 48. m. 2. a. 1.
+bon-sent-I-d3-p1-dubia	1	10	thomas-aquinas	in-sententias		cited	1	d. 3. p. I.	1.3.1	title	S. Thom. I. Sent. d. 3. p. I.
+bon-sent-I-d3-p1-dubia	1	12	aristotle	physica		cited	8	text. 79. (c. ult.)	8.79	title	Aristot. VIII. Phys. text. 79. (c. ult.)
+bon-sent-I-d3-p1-dubia	1	12	aristotle	physica		cited	4		4	title	Aristot. … libr. IV. Phys.
+bon-sent-I-d3-p1-dubia	1	14	aristotle	physica		cited	7	text. 1. et 3.	7.1.3	title	Aristot. VII. Phys. text. 1. et 3.
+bon-sent-I-d3-p1-dubia	1	19	duns-scotus	in-sententias		cited		d. 2. q. 3. n. 6. et d. 42. q. unic.	2.3.6.42	title	Scot. 1. Sent. d. 2. q. 3. n. 6. et d. 42. q. unic.
+bon-sent-I-d3-p1-dubia	1	19	duns-scotus	quodlibeta		cited		q. 7.	7	title	Scot. … Quodlib. q. 7.
+bon-sent-I-d3-p1-dubia	1	23	augustine	de-natura-boni		cited		c. 3	3	body-join+note-title	Augustinus … Libr. de Natura boni, c. 3: Haec ergo tria: modus, species, ordo tanquam generalia bona sunt in rebus a Deo fa
+bon-sent-I-d3-p1-dubia	1	25	alexander-of-hales	summa		cited		p. I. q. 18. m. 1.	1.18.1	title	Alex. Hal. S. p. I. q. 18. m. 1.
+bon-sent-I-d3-p1-dubia	1	25	albert-the-great	in-sententias		same-passage		a. 15.	15	here	B. Albert., hic a. 15.
+bon-sent-I-d3-p1-dubia	1	25	richard-of-middleton	in-sententias		same-passage				here	Richard. a Med., hic circa lit. et d. 33. a. 3. q. 2.
+bon-sent-I-d3-p1-dubia	1	31	augustine	de-diversis-quaestionibus-83		cited		Quaest. 18	18	body-join+title	Augustini … Quaest. 18: Aliud est quo constat, aliud quo discernitur, aliud quo congruit. — In quo textu multi mss. cum se
+bon-sent-I-d3-p1-dubia	1	35	dionysius-the-carthusian	in-sententias		same-passage		q. 4.	4	here	Dionys. Carth., hic q. 4. Cfr. et
+bon-sent-I-d3-p1-dubia	1	35	albert-the-great	summa-theologiae		cited				title	B. Albert. S.
+bon-sent-I-d3-p1-dubia	1	35	thomas-aquinas	in-sententias		same-passage		q. 2 a. 3	2.3	here	S. Thom., hic q. 2 a. 3; et S. I. q. 45. a. 7. ac q. 93. a. 6.
+bon-sent-I-d3-p1-dubia	1	36	augustine	soliloquia		cited	2	c. 5	2.5	body-join+title	Augustinus … Libr. II. c. 5: Verum mihi videtur esse id quod est.
+bon-sent-I-d3-p1-dubia	1	42	aristotle	metaphysica		cited	2	Text. 3	2.3	body-join+title	Philosophus … Text. 3, secundum ed. Venet. 1489: Finis enim scientiae speculativae est veritas.
+bon-sent-I-d3-p2-a1-q1	1	7	aristotle	de-memoria		cited				body-join+note-title	Philosophus … Libr. de Memoria et Reminisc. c. 1. et 2. (in aliis edd. c. 2. et 4.). — Paulo infra post brutis Vat. absque u
+bon-sent-I-d3-p2-a1-q2	1	4	augustine	de-trinitate		cited	10	Cap. 8. n. 11	10.8.11	body-join+title	Augustinus … Cap. 8. n. 11; vide hic in lit. Magistri, cap. 2.
+bon-sent-I-d3-p2-a1-q2	1	5	augustine	de-trinitate		cited	14	c. 8. n. 11	14.8.11	body-join+note-title	Augustinus … Libr. XIV. de Trin. c. 8. n. 11: Imago tamen naturae eius, qua natura melior nulla est, ibi quaerenda et inven
+bon-sent-I-d3-p2-a1-q2	1	8	john-damascene	orationes-de-imaginibus		cited		1.	1	title	Ioan. Damasc. Orat. 1.
+bon-sent-I-d3-p2-a1-q2	1	8	john-damascene	orationes-de-imaginibus		cited		3	3	title	Ioan. Damasc. … Orat. 3
+bon-sent-I-d3-p2-a1-q2	1	12	augustine	de-trinitate		cited	9	Cap. 4. n. 4	9.4.4	body-join+title	Augustinus … Cap. 4. n. 4, in cuius imaginis assignatione Vat. tum contra textum Augustini tum contra mss. et ed. 1 loco no
+bon-sent-I-d3-p2-a1-q3	1	5	aristotle			cited		Serm. 11.	11	body-join	Philosophus … Serm. 11. In fine textus citati supple cum ed. operum Bernardi animam esse. Vat. in initio huius textus omitti
+bon-sent-I-d3-p2-a1-q3	1	7	aristotle	physica		cited	2	text. 28. (c. 3.)	2.28.3	title	Aristot. II. Phys. text. 28. (c. 3.)
+bon-sent-I-d3-p2-a1-q3	1	7	aristotle	metaphysica		cited	7	text. 59. 60. (VI. c. 17.)	7.59.60.6.17	title	Aristot. … VII. Metaph. text. 59. 60. (VI. c. 17.)
+bon-sent-I-d3-p2-a1-q3	1	7	aristotle	metaphysica		cited	8	text. 8. (VII. c. 3.)	8.8.7.3	title	Aristot. … VIII. Metaph. text. 8. (VII. c. 3.)
+bon-sent-I-d3-p2-a1-q3	1	7	aristotle	de-anima		cited	2	text. 2	2.2	title	Aristot. … II. de Anima text. 2
+bon-sent-I-d3-p2-a1-q3	1	7	aristotle	physica		cited	2	text. 11. seqq. (c. 1.)	2.11.1	title	Aristot. … II. Phys. text. 11. seqq. (c. 1.)
+bon-sent-I-d3-p2-a1-q3	1	7	aristotle	de-anima		cited	2	text. 24. (c. 2.)	2.24.2	title	Aristot. … II. de Anima text. 24. (c. 2.)
+bon-sent-I-d3-p2-a1-q3	1	8	aristotle	de-anima		cited	3	text. 17. et 37. seqq. (c. 5. et 8.).	3.17.37.5.8	title	Aristot. III. de Anima text. 17. et 37. seqq. (c. 5. et 8.).
+bon-sent-I-d3-p2-a1-q3	1	9	aristotle	physica		cited	1	text. 81. seq. (c. ult.)	1.81	title	Aristot. I. Phys. text. 81. seq. (c. ult.)
+bon-sent-I-d3-p2-a1-q3	1	9	aristotle	metaphysica		cited	8	text. 3. seqq.	8.3	title	Aristot. … VIII. Metaph. text. 3. seqq.
+bon-sent-I-d3-p2-a1-q3	1	9	averroes	de-substantia-orbis		cited				title	Averroes … libr. de Substantia orbis
+bon-sent-I-d3-p2-a1-q3	1	11	aristotle	physica		cited	1	text. 27. (c. 3.).	1.27.3	title	Aristot. I. Phys. text. 27. (c. 3.).
+bon-sent-I-d3-p2-a1-q3	1	17	aristotle	metaphysica		cited	10	text. 12. (IX. c. 3.)	10.12.9.3	title	Aristot. X. Metaph. text. 12. (IX. c. 3.)
+bon-sent-I-d3-p2-a1-q3	1	17	aristotle	categoriae		cited		c. de Quali.		title	Aristot. de Praedicam. c. de Quali.
+bon-sent-I-d3-p2-a1-q3	1	19	alexander-of-hales	summa		cited		p. II. q. 63. m. 1.	2.63.1	title	Alex. Hal. S. p. II. q. 63. m. 1.
+bon-sent-I-d3-p2-a1-q3	1	26	thomas-aquinas	summa-theologiae		cited		I. q. 77. a. 6.	1.77.6	title	S. Thom. S. I. q. 77. a. 6.
+bon-sent-I-d3-p2-a1-q3	1	26	dionysius-the-carthusian	in-sententias		same-passage		q. 14.	14	here	Dionys. Carth., hic q. 14.
+bon-sent-I-d3-p2-a1-q3	1	29	john-damascene	orationes-de-imaginibus		cited		3.	3	title	Ioan. Damasc. Orat. 3.
+bon-sent-I-d3-p2-a1-q3	1	30	alexander-of-hales	summa		cited		p. II. q. 21. m. 1. ad. 2. et q. 65. m. 1.	2.21.1.2.65	title	Alex. Hal. S. p. II. q. 21. m. 1. ad. 2. et q. 65. m. 1.
+bon-sent-I-d3-p2-a1-q3	1	36	aristotle	de-sophisticis-elenchis		cited	2	c. 3. (c. 18.)	2.3.18	title	Aristot. II. Elench. c. 3. (c. 18.)
+bon-sent-I-d3-p2-a2-q1	1	11	alexander-of-hales	summa		cited		p. II. q. 69. in princ.	2.69	title	Alex. Hal. S. p. II. q. 69. in princ.
+bon-sent-I-d3-p2-a2-q1	1	12	isidore	etymologiae		cited	11	c. 1.	11.1	title	Isidor. XI. Etymolog. c. 1.
+bon-sent-I-d3-p2-a2-q1	1	13	isidore	etymologiae		cited				anaphor	Isidor. loc. cit. et libr. de Spiritu et anima, c. 34.
+bon-sent-I-d3-p2-a2-q1	1	13	alexander-of-hales	summa		cited		p. IV. q. 12. m. 1. a. 2. circa finem (in aliis edd. q. 55.).	4.12.1.2.55	title	Alex. Hal. S. p. IV. q. 12. m. 1. a. 2. circa finem (in aliis edd. q. 55.).
+bon-sent-I-d3-p2-a2-q2	1	1	augustine	de-magistro		cited		Cap. 3. circa finem	3	body-join+title	Augustinus … Cap. 3. circa finem. — Mox Vat. contra plurimos codd. et ed. 1 post ordo addit autem et contra antiquiores cod
+bon-sent-I-d3-p2-a2-q2	1	3	augustine	de-trinitate		cited	9	Cap. 4. n. 5	9.4.5	body-join+title	Augustinus … Cap. 4. n. 5: Simul etiam admonemur, si utcumque videre possumus, haec in anima existere et tanquam involuta e
+bon-sent-I-d3-p2-a2-q2	1	6	augustine	de-trinitate		cited		Cap. 12. n. 18	12.18	body-join+title	Augustinus … Cap. 12. n. 18, in quo textu post appetitus originale addit quidam et in fine omittit verba quae est; Vat. aut
+bon-sent-I-d3-p2-a2-q2	1	11	augustine	de-trinitate		cited	9	c. 4. n. 5	9.4.5	body-join+note-title	Augustini … Libr. IX. de Trin. c. 4. n. 5; vide supra fundam. 1. huius q. — Paulo post Vat. praeter fidem mss. accidentia 
+bon-sent-I-d3-p2-a2-q2	1	12	augustine	de-trinitate		cited	9	c. 12. n. 18	9.12.18	body-join+note-title	Augustinus … Libr. IX. de Trin. c. 12. n. 18; vide in lit. Magistri, c. 3. circa finem.
+bon-sent-I-d3-p2-a2-q2	1	14	augustine	de-trinitate		cited	9	Cap. 4. n. 4	9.4.4	body-join+title	Augustinus … Cap. 4. n. 4: Recte igitur diximus, haec tria, cum perfecta sunt, esse consequenter aequalia.
+bon-sent-I-d3-p2-a2-q3	1	1	augustine	de-trinitate		cited		lib. IX, c. 4, n. 4.	9.4.4	title	Augustinus De Trinitate lib. IX, c. 4, n. 4.
+bon-sent-I-d3-p2-dubia	1	14	priscian	institutiones-grammaticae		cited	18	c. 2.	18.2	title	Priscian. XVIII. Grammat. c. 2.
+bon-sent-I-d3-p2-dubia	1	14	duns-scotus	de-grammatica-speculativa	true	cited		c. 46-53.	46.53	title	Scot. de Grammatica speculativa c. 46-53.
+bon-sent-I-d4-a1-q1	1	2	aristotle	metaphysica		cited	7	text. 28. (VI. 8.)	7.28.6.8	title	Aristot. VII. Metaph. text. 28. (VI. 8.)
+bon-sent-I-d4-a1-q1	1	2	aristotle	de-anima		cited	2	text. 34. (c. 4.).	2.34.4	title	Aristot. … II. de Anima text. 34. (c. 4.).
+bon-sent-I-d4-a1-q1	1	7	aristotle	de-interpretatione		cited	1	c. 6.	1.6	title	Aristot. I. Periherm. c. 6.
+bon-sent-I-d4-a1-q1	1	7	aristotle	topica		cited	6	c. 3. circa medium (c. 6.)	6.3.6	title	Aristot. … VI. Topic. c. 3. circa medium (c. 6.)
+bon-sent-I-d4-a1-q1	1	7	aristotle	metaphysica		cited	4	text. 15. (III. 4.)	4.15.3.4	title	Aristot. … IV. Metaph. text. 15. (III. 4.)
+bon-sent-I-d4-a1-q1	1	7	aristotle	de-interpretatione		cited	2	c. 3.	2.3	title	Aristot. … II. Periherm. c. 3.
+bon-sent-I-d4-a1-q1	1	10	aristotle	metaphysica		cited	7	text. 21. et 27.	7.21.27	title	Aristot. VII. Metaph. text. 21. et 27.
+bon-sent-I-d4-a1-q1	1	10	aristotle	metaphysica		cited	9	text. 12. (VI. c. 6. 8. et VIII. c. 7.)	9.12.6.6.8	title	Aristot. … IX. Metaph. text. 12. (VI. c. 6. 8. et VIII. c. 7.)
+bon-sent-I-d4-a1-q2	1	2	aristotle	de-anima		cited	2	text. 47 (c. 4.)	2.47.4	title	Aristot. II. de Anima text. 47 (c. 4.)
+bon-sent-I-d4-a1-q2	1	2	aristotle	metaphysica		cited	14	c. 3 (XIII. c. 1.)	14.3.13.1	title	Aristot. XIV. Metaph. c. 3 (XIII. c. 1.)
+bon-sent-I-d4-a1-q2	1	3	boethius	de-syllogismo-hypothetico		cited				title	Boeth. de Syllogismo hypothetico
+bon-sent-I-d4-a1-q3	1	1	aristotle	de-interpretatione		cited	1	c. 1	1.1	body-join+note-title	Philosophum … Libr. I. Periherm. c. 1: Et quemadmodum nec litterae omnibus eaedem sunt, ita nec voces omnibus eaedem: quorum
+bon-sent-I-d4-a1-q3	1	2	aristotle	de-interpretatione		cited	1	c. 2	1.2	body-join+note-title	Philosophus … Libr. I. Periherm. c. 2, iuxta translationem Boethii: «Nomen vero semper, ut Catonis est, vel non est; nondum 
+bon-sent-I-d4-a1-q3	1	5	priscian	institutiones-grammaticae		cited	2	c. 5.	2.5	title	Priscian. II. Grammat. c. 5.
+bon-sent-I-d4-a1-q3	1	8	priscian	institutiones-grammaticae		cited	17	c. 1. (de Constructione)	17.1	title	Priscian. XVII. Grammat. c. 1. (de Constructione)
+bon-sent-I-d4-a1-q4	1	5	priscian	institutiones-grammaticae		cited	17	c. 2	17.2	title	Priscian. XVII Grammat. c. 2
+bon-sent-I-d4-dubia	1	4	aristotle	metaphysica		cited	10	text. 12. (IX. c. 3.)	10.12.9.3	title	Aristot. X. Metaph. text. 12. (IX. c. 3.)
+bon-sent-I-d4-dubia	1	5	aristotle	analytica-priora		cited	2	c. 26. (c. 28.)	2.26.28	title	Aristot. II. Prior. c. 26. (c. 28.)
+bon-sent-I-d4-dubia	1	8	alexander-of-hales	summa		cited		p. I. q. 50. m. 3. a. 2. § 1	1.50.3.2.1	title	Alex. Hal. S. p. I. q. 50. m. 3. a. 2. § 1
+bon-sent-I-d4-dubia	1	8	thomas-aquinas	in-sententias		same-passage		q. 1. a. 3.	1.3	here	S. Thom., hic q. 1. a. 3. ad 3.
+bon-sent-I-d4-dubia	1	9	thomas-aquinas	in-sententias		same-passage		q. 1. a. 3.	1.3	here	S. Thom., hic q. 1. a. 3. ad 4. constructioni appositivae opponit mediatam.
+bon-sent-I-d4-dubia	1	10	aristotle	de-sophisticis-elenchis		cited	2	c. 3.	2.3	title	Aristot. II. Elench. c. 3.
+bon-sent-I-d4-dubia	1	11	priscian			cited	18	c. 1.	18.1	body-join	Priscianus … Libr. XVIII. c. 1. post medium: Subauditur enim participium verbi substantivi ens, quod in usu nunc nobis non 
+bon-sent-I-d4-dubia	1	18	alexander-of-hales	summa		cited		p. I. q. 50. m. 3. a. 2. § 4.	1.50.3.2.4	title	Alex. Hal. S. p. I. q. 50. m. 3. a. 2. § 4.
+bon-sent-I-d4-dubia	1	18	thomas-aquinas	in-sententias		same-passage		q. 1. a. 3.	1.3	here	S. Thom., hic q. 1. a. 3. ad 4. et S. I. q. 39. a. 4. ad 5.
+bon-sent-I-d4-dubia	1	22	duns-scotus	in-sententias		same-passage		q. 2.	2	here	Scot., hic q. 2.
+bon-sent-I-d4-dubia	1	27	alexander-of-hales	summa		cited		p. I. q. 50. m. 3. a. 2. § 7.	1.50.3.2.7	title	Alex. Hal. S. p. I. q. 50. m. 3. a. 2. § 7.
+bon-sent-I-d4-dubia	1	27	thomas-aquinas	summa-theologiae		cited		I. q. 39. a. 6.	1.39.6	title	S. Thom. S. I. q. 39. a. 6.
+bon-sent-I-d4-dubia	1	29	alexander-of-hales	summa		cited		p. I. q. 50. m. 3. a. 2. § 3.	1.50.3.2.3	title	Alex. Hal. S. p. I. q. 50. m. 3. a. 2. § 3.
+bon-sent-I-d4-dubia	1	29	thomas-aquinas	summa-theologiae		cited		I. q. 39. a. 4.	1.39.4	title	S. Thom. S. I. q. 39. a. 4.
+bon-sent-I-d4-dubia	1	32	porphyry	isagoge		cited		c. de Differentia.		title	Porphyr. de Praedicab. c. de Differentia.
+bon-sent-I-d4-dubia	1	33	alexander-of-hales	summa		cited		p. I. q. 65. m. 2. a. 2.	1.65.2.2	title	Alex. Hal. S. p. I. q. 65. m. 2. a. 2.
+bon-sent-I-d4-dubia	1	33	thomas-aquinas	summa-theologiae		cited		I. q. 31. a. 2.	1.31.2	title	S. Thom. S. I. q. 31. a. 2.
+bon-sent-I-d4-dubia	1	33	thomas-aquinas	summa-theologiae		cited		III. q. 17. a. 1.	3.17.1	title	S. Thom. … S. III. q. 17. a. 1.
+bon-sent-I-d4-littera	1	4	augustine	de-trinitate		cited	1	Cap. 1, n. 1	1.1.1	body-join+title	Augustinus … Cap. 1, n. 1, ubi pro putant et errant legitur in singulari putat etc., et codd. B C pro eius potentiae male l
+bon-sent-I-d4-littera	1	11	augustine	de-trinitate		cited	1	Cap. 6. n. 10	1.6.10	body-join+title	Augustinus … Cap. 6. n. 10, ubi et proximus locus, sed nonnullis omissis et mutatis.
+bon-sent-I-d4-littera	1	14	augustine	sermones		cited		Serm. 233.	233	body-join+title	Augustinus … Serm. 233. de Fide cathol., n. 1, sed paulo aliter, nempe: Credimus in unum Deum... Hunc unum Deum et hanc una
+bon-sent-I-d4-littera	1	15	augustine	de-trinitate		cited	6	Cap. 7, n. 9.	6.7.9	body-join+title	Augustinus … Cap. 7, n. 9. — Immediate ante Vat. et edd. 1, 2 habent item pro idem; mox post Ecce Vat. et ed. 4 addunt et. 
+bon-sent-I-d5-a1-q1	1	6	aristotle	topica		cited	7	c. 1.	7.1	title	Aristot. VII Topic. c. 1.
+bon-sent-I-d5-a1-q1	1	7	aristotle	metaphysica		cited	10	text. 13 (IX, c. 4)	10.13.9.4	title	Aristot. X Metaph. text. 13 (IX, c. 4)
+bon-sent-I-d5-a1-q1	1	8	aristotle	metaphysica		cited	7	text. 7 (VI, c. 3)	7.7.6.3	title	Aristot. VII Metaph. text. 7 (VI, c. 3)
+bon-sent-I-d5-a1-q1	1	8	aristotle	categoriae		cited		in princ.		title	Aristot. … Praedicam. in princ.
+bon-sent-I-d5-a1-q1	1	9	aristotle	topica		cited	1	c. 7 (c. 6)	1.7.6	title	Aristot. I Topic. c. 7 (c. 6)
+bon-sent-I-d5-a1-q1	1	10	aristotle	topica		cited	6	c. 1 (c. 3)	6.1.3	title	Aristot. VI Topic. c. 1 (c. 3)
+bon-sent-I-d5-a1-q1	1	10	peter-of-spain	summulae-logicales		cited		tract. de Syllog.		title	Petr. Hispan. Summula tract. de Syllog.
+bon-sent-I-d5-a1-q2	1	4	priscian	institutiones-grammaticae		cited	14	c. 1 seqq.	14.1	title	Priscian. XIV Grammat. c. 1 seqq.
+bon-sent-I-d5-a1-q2	1	5	priscian	institutiones-grammaticae		cited	15	c. 1	15.1	title	Priscian. XV Grammat. c. 1
+bon-sent-I-d5-a1-q2	1	6	aristotle	metaphysica		cited	5	text. 29 (IV, 24)	5.29.4.24	title	Aristot. V Metaph. text. 29 (IV, 24)
+bon-sent-I-d5-a2-q1	1	5	aristotle	physica		cited	5	text. 7 (c. 1)	5.7.1	title	Aristot. V Phys. text. 7 (c. 1)
+bon-sent-I-d5-a2-q1	1	6	aristotle	categoriae		cited		c. de Complexis et de		title	Aristot. de Praedicam. c. de Complexis et de
+bon-sent-I-d5-a2-q1	1	6	aristotle	physica		cited	1	text. 26–30 (c. 3)	1.26.30.3	title	Aristot. … I Phys. text. 26–30 (c. 3)
+bon-sent-I-d5-a2-q1	1	6	aristotle	metaphysica		cited	5	text. 13 seqq. (IV, c. 7).	5.13.4.7	title	Aristot. … V Metaph. text. 13 seqq. (IV, c. 7).
+bon-sent-I-d5-a2-q1	1	7	aristotle	physica		cited	5	text. 10 (c. 2)	5.10.2	title	Aristot. V Phys. text. 10 (c. 2)
+bon-sent-I-d5-a2-q1	1	8	aristotle	topica		cited	2	c. 3 (c. 7)	2.3.7	title	Aristot. II Topic. c. 3 (c. 7)
+bon-sent-I-d5-a2-q1	1	8	aristotle	topica		cited	2		2	title	Arist. II Topic.
+bon-sent-I-d5-a2-q1	1	8	aristotle	metaphysica		cited	7	text. 35 et 45 seqq. (VI, 10 et 13).	7.35.45.6.10	title	Arist. … VII Metaph. text. 35 et 45 seqq. (VI, 10 et 13).
+bon-sent-I-d5-a2-q1	1	9	aristotle	de-anima		cited	2	text. 34 (c. 4)	2.34.4	title	Aristot. II de Anima text. 34 (c. 4)
+bon-sent-I-d5-a2-q1	1	10	aristotle	de-anima		cited	2	text. 47 (c. 4)	2.47.4	title	Aristot. II de Anima text. 47 (c. 4)
+bon-sent-I-d5-a2-q1	1	11	aristotle	metaphysica		cited	4	text. 22 (ed. Venet. 1489)	4.22.1489	title	Aristot. IV Metaph. text. 22 (ed. Venet. 1489)
+bon-sent-I-d5-a2-q1	1	12	aristotle	de-anima		cited	2	text. 34–50 (c. 4)	2.34.50.4	title	Aristot. II de Anima text. 34–50 (c. 4)
+bon-sent-I-d5-a2-q1	1	13	aristotle	de-anima		cited	2	text. 34 (c. 4)	2.34.4	title	Aristot. II de Anima text. 34 (c. 4)
+bon-sent-I-d5-a2-q1	1	14	aristotle	metaphysica		cited	1	c. 1	1.1	title	Aristot. I Metaph. c. 1
+bon-sent-I-d5-a2-q1	1	15	aristotle	categoriae		cited		c. de Substantia.		title	Aristot. de Praedicam. c. de Substantia.
+bon-sent-I-d5-a2-q1	1	17	aristotle	metaphysica		cited	7	text. 28 (VI, c. 8).	7.28.6.8	title	Aristot. VII Metaph. text. 28 (VI, c. 8).
+bon-sent-I-d5-a2-q1	1	18	aristotle	metaphysica		cited	7	text. 26 seqq. (VI, c. 8).	7.26.6.8	title	Aristot. VII Metaph. text. 26 seqq. (VI, c. 8).
+bon-sent-I-d5-a2-q1	1	20	aristotle	metaphysica		cited	7		7	title	Aristot. VII Metaph.
+bon-sent-I-d5-a2-q2	1	2	aristotle	physica		cited	2	text. 37. (c. 3.)	2.37.3	title	Aristot. II. Phys. text. 37. (c. 3.)
+bon-sent-I-d5-a2-q2	1	2	thomas-aquinas	in-sententias		same-passage				here	S. Thom., Comment. in hunc locum.
+bon-sent-I-d5-dubia	1	8	aristotle	physica		cited	2	text. 28-38. (c. 3.)	2.28.38.3	title	Aristot. II. Phys. text. 28-38. (c. 3.)
+bon-sent-I-d5-dubia	1	8	aristotle	metaphysica		cited	2	text. 6. seq. (I. brevior. c. 2.)	2.6.1.2	title	Aristot. … II. Metaph. text. 6. seq. (I. brevior. c. 2.)
+bon-sent-I-d5-dubia	1	8	aristotle	metaphysica		cited	5	text. 2-4. (IV. c. 2.)	5.2.4.4.2	title	Aristot. … V. Metaph. text. 2-4. (IV. c. 2.)
+bon-sent-I-d5-dubia	1	20	alexander-of-hales	summa		cited		p. I. q. 42. m. 3. a. 1.	1.42.3.1	title	Alex. Hal. S. p. I. q. 42. m. 3. a. 1.
+bon-sent-I-d5-dubia	1	25	augustine	de-trinitate		cited	15	c. 19. n. 37.	15.19.37	title	August. XV. de Trin. c. 19. n. 37.
+bon-sent-I-d5-dubia	1	31	aristotle	de-generatione-animalium		cited	1	c. 19. 20.	1.19.20	title	Aristot. I. de Generat. animal. c. 19. 20.
+bon-sent-I-d5-dubia	1	36	anselm	monologion		cited		Cap. 8.	8	body-join+title	Anselmum … Cap. 8.
+bon-sent-I-d5-littera	1	3	augustine	de-trinitate		cited	5	Cap. 7. n. 8	5.7.8	body-join+title	Augustinus … Cap. 7. n. 8, ubi: Quod autem relative pronuntiatur etc. Paulo supra edd. 1, 8 post indicaret addunt divinam.
+bon-sent-I-d5-littera	1	7	augustine	de-trinitate		cited	7	Cap. 1. n. 2	7.1.2	body-join+title	Augustinus … Cap. 1. n. 2; in quo textu Vat. et edd. 2, 3, 4, 7, 9 bis pro ibi legit sibi; ed. 5 bis illi; codd. bis ibi, e
+bon-sent-I-d5-littera	1	14	augustine	de-trinitate		cited	7	cap. 1. n. 2 et c. 2. n. 3.	7.1.2.2.3	body-join+title	Augustinus … Ex cap. 1. n. 2 et c. 2. n. 3. passim excerptum. — Vat. omittit in libro septimo de Trinitate.
+bon-sent-I-d5-littera	1	15	augustine	de-fide-ad-petrum	true	cited		Cap. 2. n. 15.	2.15	body-join+title	Augustinus … Cap. 2. n. 15.
+bon-sent-I-d5-littera	1	18	augustine	de-trinitate		cited	7	Cap. 1. n. 2	7.1.2	body-join+title	Augustinus … Cap. 1. n. 2; ubi post sapientia de sapientia edd. 1, 8 addunt et essentia de essentia.
+bon-sent-I-d5-littera	1	27	augustine	de-fide-ad-petrum	true	cited		Cap. 2. n. 10.	2.10	body-join+title	Augustinus … Cap. 2. n. 10. — Paulo ante post Scriptura Vat. cum paucis edd. omittit sacra.
+bon-sent-I-d5-littera	1	28	augustine	de-trinitate		cited	10	Cap. 19. n. 37.	10.19.37	body-join+title	Augustinus … Cap. 19. n. 37. — Locus Apostoli est Col. 1, 13, in quo textu Vulgata habet filii dilectionis.
+bon-sent-I-d5-littera	1	30	augustine	contra-maximinum		cited	2	Cap. 14. n. 2.	2.14.2	body-join+title	Augustinus … Cap. 14. n. 2.
+bon-sent-I-d5-littera	1	38	augustine			cited	2		2	body-join	Augustinus … Libr. II. c. Maxim. c. 14. n. 2; quae sequuntur ibidem inveniuntur. — Paulo post Vat. addit pro addidit.
+bon-sent-I-d6-a1-q1	1	3	aristotle	physica		cited	3	text. 32 (c. 1)	3.32.1	title	Aristot. III. Phys. text. 32 (c. 1)
+bon-sent-I-d6-a1-q1	1	3	aristotle	de-interpretatione		cited	2	c. 3 (c. 13)	2.3.13	title	Aristot. II. Periherm. c. 3 (c. 13)
+bon-sent-I-d6-a1-q1	1	7	richard-of-st-victor	de-trinitate		cited	5	c. 17-19	5.17.19	body-join+note-title	Richardus … Libr. V. de Trin. c. 17-19, in quorum primo capite ait: Gratuitum autem amorem se habere ostendit, qui procede
+bon-sent-I-d6-a1-q1	1	9	aristotle	ethica-nicomachea		cited	3	c. 1	3.1	title	Aristot. III. Ethic. c. 1
+bon-sent-I-d6-a1-q1	1	9	aristotle	magna-moralia		cited	1	c. 11-16 (c. 12-17).	1.11.16.12.17	title	Aristot. … I. Magnor. Moral. c. 11-16 (c. 12-17).
+bon-sent-I-d6-a1-q1	1	12	aristotle	physica		cited	1	text. 81 (c. 9)	1.81.9	title	Aristot. I. Phys. text. 81 (c. 9)
+bon-sent-I-d6-a1-q1	1	12	aristotle	metaphysica		cited	5	text. 6 (IV. c. 5)	5.6.4.5	title	Aristot. … V. Metaph. text. 6 (IV. c. 5)
+bon-sent-I-d6-a1-q2	1	2	hilary	de-synodis		cited		n. 88.	88	title	Hilar. de Synodis n. 88.
+bon-sent-I-d6-a1-q2	1	7	augustine	de-trinitate		cited	9	Cap. 12.	9.12	body-join+title	Augustinum … Cap. 12. Vide supra d. 3. p. II. a. 2. q. 2. arg. 1. ad opp.
+bon-sent-I-d6-a1-q2	1	9	hilary	de-trinitate		cited	3	n. 3	3.3	title	Hilar. III de Trin. n. 3
+bon-sent-I-d6-a1-q2	1	17	augustine	de-trinitate		cited	15	c. 19. n. 37.	15.19.37	title	August. XV. de Trin. c. 19. n. 37.
+bon-sent-I-d6-a1-q2	1	19	augustine	de-trinitate		cited	15	c. 13. n. 22	15.13.22	title	August. XV de Trin. c. 13. n. 22
+bon-sent-I-d6-a1-q3	1	8	alan-of-lille	regulae-theologicae		cited		reg. 16.	16	title	Alan. ab Insulis Theol. Regul. reg. 16.
+bon-sent-I-d6-a1-q3	1	13	augustine	de-civitate-dei		cited				title	Augustinus … de Civ. Dei
+bon-sent-I-d6-dubia	1	4	augustine	de-trinitate		cited	7	c. 4. n. 1. et c. 6. n. 11.	7.4.1.6.11	body-join+note-title	Augustinus … Libr. VII. de Trin. c. 4. n. 1. et c. 6. n. 11. et Serm. 1. in Psalm. 68. n. 5, ubi sententialiter habetur. Cf
+bon-sent-I-d6-dubia	1	5	thomas-aquinas	in-sententias		same-passage		q. 1. a. 3.	1.3	here	S. Thom., hic q. 1. a. 3.
+bon-sent-I-d6-dubia	1	5	richard-of-middleton	in-sententias		same-passage		q. 3.	3	here	Richard., hic q. 3.
+bon-sent-I-d6-dubia	1	6	aristotle	topica		cited	8	c. 4. in princ. (c. 8.)	8.4.8	title	Aristot. VIII. Topic. c. 4. in princ. (c. 8.)
+bon-sent-I-d6-dubia	1	7	aristotle	de-sophisticis-elenchis		cited	2	c. 3. (c. 22.)	2.3.22	title	Aristot. II. Elench. c. 3. (c. 22.)
+bon-sent-I-d6-dubia	1	12	augustine	sermones		cited		2. n. 2.	2.2	title	August. … Serm. 2. n. 2.
+bon-sent-I-d6-dubia	1	14	aristotle	de-anima		cited	1	text. 83. (c. ult.)	1.83	title	Aristot. I. de Anima text. 83. (c. ult.)
+bon-sent-I-d6-dubia	1	17	john-damascene	de-fide-orthodoxa		cited	2	c. 22. circa medium	2.22	body-join+note-title	Damasceno … Libr. II. de Fide orthod. c. 22. circa medium: Deus quippe non deliberat, quia ignorantis est consilium inire.
+bon-sent-I-d6-dubia	1	20	gregory-the-great	moralia		cited	16	c. 10	16.10	body-join+note-title	Gregorius … Libr. XVI. Moral. c. 10: Deus etsi plerumque mutat sententiam, consilium nunquam.
+bon-sent-I-d6-littera	1	1	augustine	quaestiones-65-dialogus	true	cited		q. 7	7	title	August. Quaest. 65 Dialog. q. 7
+bon-sent-I-d6-littera	1	2	augustine	de-trinitate		cited		lib. XV, c. 20, n. 38	15.20.38	title	August. de Trinit. lib. XV, c. 20, n. 38
+bon-sent-I-d6-littera	1	7	augustine	de-trinitate		cited		lib. XV	15	title	August. de Trinit. lib. XV
+bon-sent-I-d6-littera	1	12	alexander-of-hales	summa		cited		p. I. q. 42. m. 4. a. 1.	1.42.4.1	title	Alex. Hal. S. p. I. q. 42. m. 4. a. 1.
+bon-sent-I-d6-littera	1	12	thomas-aquinas	in-sententias		same-passage		q. 2. a. 2	2.2	here	S. Thom., hic q. 2. a. 2; et S. I. q. 41. a. 3.
+bon-sent-I-d6-littera	1	12	albert-the-great	in-sententias		same-passage		a. 10.	10	here	B. Albert., hic a. 10.
+bon-sent-I-d6-littera	1	12	peter-of-tarentaise	in-sententias		same-passage		q. 3. a. 2.	3.2	here	Petr. de Tar., hic q. 3. a. 2.
+bon-sent-I-d6-littera	1	12	dionysius-the-carthusian	in-sententias		same-passage		q. 2. in fine	2	here	Dionys. Carth., hic q. 2. in fine.
+bon-sent-I-d6-littera	1	18	jerome	in-ephesios		cited				title	Hieron. Super Epistolam ad Ephesios
+bon-sent-I-d6-littera	1	19	hilary	de-synodis		cited		n. 39, 1 et n. 58	39.1.58	title	Hilar. de Synodis n. 39, 1 et n. 58
+bon-sent-I-d7-a1-q1	1	4	aristotle	magna-moralia		cited	1	c. 10.	1.10	title	Aristot. I. Magnor. Moral. c. 10.
+bon-sent-I-d7-a1-q1	1	4	aristotle	metaphysica		cited	5	text. 5. (IV. c. 4.).	5.5.4.4	title	Aristot. … V. Metaph. text. 5. (IV. c. 4.).
+bon-sent-I-d7-a1-q1	1	4	richard-of-middleton	in-sententias		same-passage		q. 1.	1	here	Richard. a Med., hic q. 1.) contra mss. et edd. 1, 2, 3 ponit Isaac (in eius libro de definitionibus haec non inveniuntur) pro
+bon-sent-I-d7-a1-q1	1	4	albert-the-great	in-sententias		cited	1	d. 7. a. 2.	1.7.2	title	B. Albert. I. Sent. d. 7. a. 2.
+bon-sent-I-d7-a1-q1	1	4	albert-the-great	summa-theologiae		cited		p. I. q. 30. m. 1.	1.30.1	title	B. Albert. … S. p. I. q. 30. m. 1.
+bon-sent-I-d7-a1-q1	1	8	aristotle	de-anima		cited	2	text. 33. (c. 4.)	2.33.4	title	Aristot. II. de Anima text. 33. (c. 4.)
+bon-sent-I-d7-a1-q1	1	9	dionysius	de-caelesti-hierarchia		cited		c. 11.	11	body-join+note-title	Dionysius … Libr. de Caelest. Hierarch. c. 11. et de Div. Nom. c. 4. §. 1.
+bon-sent-I-d7-a1-q1	1	22	aristotle	de-interpretatione		cited	2	c. 1.	2.1	title	Aristot. II. Periherm. c. 1.
+bon-sent-I-d7-a1-q2	1	2	augustine	contra-maximinum		cited	2	c. 12. n. 3	2.12.3	body-join+title	Augustinus … Libr. II. c. 12. n. 3; vide supra lit. Magistri c. 1. circa medium; in quo textu aliqui codd. non pro neque, a
+bon-sent-I-d7-a1-q2	1	6	augustine	contra-maximinum		cited	2	c. 12. n. 3	2.12.3	body-join+title	Augustinus … Libr. II. c. 12. n. 3; vide supra lit. Magistri c. 1. circa medium.
+bon-sent-I-d7-a1-q2	1	8	anselm	proslogion		cited		Cap. 7	7	body-join+title	Anselmus … Cap. 7: Nam qui haec potest, quod sibi non expedit, et quod non debet, potest, quae quanto magis potest, tanto
+bon-sent-I-d7-a1-q2	1	12	augustine	contra-maximinum		cited	2	c. 12. n. 3	2.12.3	body-join+note-title	Augustini … Libr. II. contra Maximin. c. 12. n. 3; vide in lit. Magistri c. 1. circa medium. — Paulo infra plures codd. ut
+bon-sent-I-d7-a1-q2	1	14	richard-of-st-victor	de-trinitate		cited	5	c. 10. seqq.	5.10	body-join+note-title	Richardi … Libr. V. de Trin. c. 10. seqq. et VI. c. 2. seqq. — Vat., obnitentibus mss. et ed. I, post Richardi addit ut e
+bon-sent-I-d7-a1-q3	1	2	augustine	de-trinitate		cited	7	c. 1. et 6.	7.1.6	body-join+note-title	Augustinus … Libr. VII. de Trin. c. 1. et 6.; ac Serm. 1. in Psalm. 68. n. 5. — Vat. contra antiquiores codd. per Augustinu
+bon-sent-I-d7-a1-q4	1	3	aristotle	metaphysica		cited	5	text. 17.	5.17	title	Aristot. V. Metaph. text. 17.
+bon-sent-I-d7-a1-q4	1	4	aristotle	metaphysica		cited	5	text. 31. (IV. c. 26)	5.31.4.26	title	Aristot. V. Metaph. text. 31. (IV. c. 26)
+bon-sent-I-d7-a1-q4	1	4	peter-of-spain	summulae-logicales		cited		tract. de Distributione.		title	Petr. Hispan. Summulae tract. de Distributione.
+bon-sent-I-d7-a1-q4	1	13	peter-of-spain	summulae-logicales		cited		tract. de Distributione.		title	Petr. Hispan. Summulam tract. de Distributione.
+bon-sent-I-d7-dubia	1	5	richard-of-st-victor	de-trinitate		cited	3	c. 4	3.4	body-join+note-title	Richardus … Libr. III. de Trin. c. 4: Sed qui absque dubio omnipotens est, per impossibilitatem excusari non potest.
+bon-sent-I-d7-dubia	1	16	aristotle	metaphysica		cited	5	text. 17.	5.17	title	Aristot. V. Metaph. text. 17.
+bon-sent-I-d7-littera	1	7	augustine	contra-maximinum		cited	2	Cap. 12, n. 2.	2.12.2	body-join+title	Augustinus … Cap. 12, n. 2. — Mox Vat., repugnantibus codd. et edd. 1, 8, post potentiorem addit esse. Dein cod. C bene gen
+bon-sent-I-d8-littera	1	2	augustine	de-trinitate		cited	5	Cap. 2. n. 3.	5.2.3	body-join+title	Augustinus … Cap. 2. n. 3. Cfr. etiam XII. de Civ. Dei, c. 2.
+bon-sent-I-d8-littera	1	4	augustine	de-civitate-dei		cited	8	c. 11.	8.11	title	August. VIII. de Civ. Dei c. 11.
+bon-sent-I-d8-littera	1	7	augustine			cited		Tract. 99. n. 4–5	99.4.5	body-join	Augustinus … Tract. 99. n. 4–5; est tamen aliqua differentia verborum in principio.
+bon-sent-I-d8-littera	1	15	augustine	de-trinitate		cited	5	Cap. 2. n. 3.	5.2.3	body-join+title	Augustinus … Cap. 2. n. 3. — In quo textu post non servat ipsum contra originale, codd. et ed. 1 Vat. cum aliis edd. addit 
+bon-sent-I-d8-littera	1	17	augustine	de-trinitate		cited	1	Cap. 1. n. 2.	1.1.2	body-join+title	Augustinus … Cap. 1. n. 2.
+bon-sent-I-d8-littera	1	21	augustine	contra-maximinum		cited	2	c. 12. n. 1.	2.12.1	body-join+title	Augustinus … Libr. II. c. 12. n. 1.
+bon-sent-I-d8-littera	1	22	augustine	de-trinitate		cited	1	Cap. 1. n. 3.	1.1.3	body-join+title	Augustinus … Cap. 1. n. 3.
+bon-sent-I-d8-littera	1	24	augustine	de-trinitate		cited	6	Cap. 6. n. 8.	6.6.8	body-join+title	Augustinus … Cap. 6. n. 8. — Paulo ante restituimus ex codd. et edd. 1, 6, 8 ut ante docet Augustinus. In ipso textu ante d
+bon-sent-I-d8-littera	1	27	augustine	de-trinitate		cited	6	c. 6. n. 8.	6.6.8	body-join+note-title	Augustinus … Libr. VI. de Trin. c. 6. n. 8. Quae sequuntur sumta sunt ex c. 6. et 7. Circa finem huius textus post eadem bo
+bon-sent-I-d8-littera	1	28	augustine	de-trinitate		cited	5	Cap. 1. n. 6.	5.1.6	body-join+title	Augustinus … Cap. 1. n. 6. — Vat. et ceterae edd. in principio post Deo addunt inquit.
+bon-sent-I-d8-littera	1	29	augustine	de-trinitate		cited	7	Cap. 1. n. 2.	7.1.2	body-join+title	Augustinus … Cap. 1. n. 2. — In principio huius cap. pro divina codd. B C D deitatis, A E divinitatis. In ipso textu post s
+bon-sent-I-d8-p1-a1-q1	1	1	jerome			cited		Cap. 1. circa initium	1	body-join	Hieronymus … Cap. 1. circa initium. — Vat. praeter fidem mss. et ed. 4 auctoritate Hieronymi pro Hieronymus.
+bon-sent-I-d8-p1-a1-q1	1	2	augustine	de-vera-religione		cited		Cap. 36. n. 66	36.66	body-join+title	Augustinus … Cap. 36. n. 66: Si enim falsitas ex iis est, quae imitantur unum, non in quantum id imitantur, sed in quantum 
+bon-sent-I-d8-p1-a1-q1	1	3	augustine	soliloquia		cited	1	c. 8. n. 15.	1.8.15	body-join+note-title	Augustinus … Libr. I. Soliloq. c. 8. n. 15. — De Vera Religione c. 31. n. 64. et c. 36. n. 66. — Vat. absque ulla auctorita
+bon-sent-I-d8-p1-a1-q1	1	4	anselm	de-veritate		cited		Cap. 13	13	body-join+title	Anselmus … Cap. 13, ubi probat omnium rerum unam solum esse rectitudinem, ex qua concludit: una igitur in omnibus illis e
+bon-sent-I-d8-p1-a1-q1	1	7	aristotle	metaphysica		cited	5	text. 34. (IV. c. 29.).	5.34.4.29	title	Aristot. V. Metaph. text. 34. (IV. c. 29.).
+bon-sent-I-d8-p1-a1-q1	1	9	aristotle	metaphysica		cited	2	text. 4. (I. brevior. c. 1.)	2.4.1.1	title	Aristot. II. Metaph. text. 4. (I. brevior. c. 1.)
+bon-sent-I-d8-p1-a1-q1	1	11	augustine	de-vera-religione		cited		c. 7. n. 13	7.13	title	August. de Vera Religione c. 7. n. 13
+bon-sent-I-d8-p1-a1-q1	1	12	augustine	soliloquia		cited	2	c. 5. n. 8	2.5.8	body-join+title	Augustinus … Libr. II. c. 5. n. 8: Verum mihi videtur esse id quod est.
+bon-sent-I-d8-p1-a1-q1	1	20	aristotle	topica		cited	5	c. 1. et 2.	5.1.2	title	Aristot. V. Topic. c. 1. et 2.
+bon-sent-I-d8-p1-a1-q2	1	1	anselm	proslogion		cited		c. 2. seqq.	2	body-join+note-title	Anselmum … Proslog. c. 2. seqq.
+bon-sent-I-d8-p1-a1-q2	1	3	john-damascene	de-fide-orthodoxa		cited	1	c. 1. et 3	1.1.3	body-join+note-title	Damascenus … Libr. 1. de Fide orthod. c. 1. et 3: Nemo quippe mortalium est, cui non hoc ab eo naturaliter insitum sit, ut 
+bon-sent-I-d8-p1-a1-q2	1	4	aristotle	analytica-posteriora		cited	1	c. 2	1.2	title	Aristot. I. Poster. c. 2
+bon-sent-I-d8-p1-a1-q2	1	4	boethius	de-hebdomadibus		cited				title	Boeth. de Hebdomad.
+bon-sent-I-d8-p1-a1-q2	1	7	aristotle	de-interpretatione		cited	1	c. de Enuntiatione.	1	title	Aristot. I. Periherm. c. de Enuntiatione.
+bon-sent-I-d8-p1-a1-q2	1	8	augustine	soliloquia		cited	2	c. 2. n. 2. et c. 15. n. 28.	2.2.2.15.28	body-join+title	Augustinus … Libr. II. c. 2. n. 2. et c. 15. n. 28. — Vat. cum cod. cc post ponit addit primam, sed contra ceteros codd. et
+bon-sent-I-d8-p1-a1-q2	1	9	john-damascene	de-fide-orthodoxa		cited	1	c. 3.	1.3	body-join+note-title	Damascenus … Libr. I. de Fide orthod. c. 3.: Quoniam vero Satanae improbitas tantum adversus hominum naturam valuit, ut et 
+bon-sent-I-d8-p1-a1-q2	1	18	aristotle	analytica-posteriora		cited	2	c. 1.	2.1	title	Aristot. II. Poster. c. 1.
+bon-sent-I-d8-p1-a1-q2	1	26	aristotle	analytica-posteriora		cited	1	c. 3. (iuxta transl. Boethii)	1.3	title	Aristot. I. Poster. c. 3. (iuxta transl. Boethii)
+bon-sent-I-d8-p1-a2-q1	1	1	aristotle	physica		cited	5	text. 1. seqq.	5.1	title	Aristot. V. Phys. text. 1. seqq.
+bon-sent-I-d8-p1-a2-q1	1	1	aristotle	metaphysica		cited	11	c. 10. (X. c. 11.).	11.10.10.11	title	Aristot. … XI. Metaph. c. 10. (X. c. 11.).
+bon-sent-I-d8-p1-a2-q1	1	2	aristotle	metaphysica		cited	12	text. 8. (XI. c. 2.)	12.8.11.2	title	Aristot. XII. Metaph. text. 8. (XI. c. 2.)
+bon-sent-I-d8-p1-a2-q1	1	3	richard-of-st-victor	de-trinitate		cited	2	c. 3	2.3	body-join+note-title	Richardi … Libr. II. de Trin. c. 3: Sciendum itaque, quia [omnis] mutatio est aut de statu in statum meliorem, aut de sta
+bon-sent-I-d8-p1-a2-q1	1	6	aristotle	physica		cited	5	text. 7.	5.7	title	Aristot. V. Phys. text. 7.
+bon-sent-I-d8-p1-a2-q1	1	7	augustine	de-trinitate		cited	5	Cap. 16. n. 17	5.16.17	body-join+title	Augustinus … Cap. 16. n. 17: Nummus autem cum dicitur pretium, relative dicitur nec tamen mutatus est, cum esse coepit pret
+bon-sent-I-d8-p1-a2-q1	1	8	ambrose	de-fide		cited	1	c. 9	1.9	body-join+note-title	Ambrosius … Libr. 1. de Fide, c. 9: Nam si Pater esse coepit, Deus ergo primo erat, postea Pater factus est. — Vat. cum co
+bon-sent-I-d8-p1-a2-q1	1	9	aristotle	physica		cited	8	text. 7	8.7	title	Aristot. VIII. Phys. text. 7
+bon-sent-I-d8-p1-a2-q1	1	9	aristotle	de-anima		cited	2	text. 43. (c. 4.)	2.43.4	title	Aristot. … II. de Anima text. 43. (c. 4.)
+bon-sent-I-d8-p1-a2-q1	1	11	averroes	destructio-destructionum		cited		disput. 1. dub. 1.	1.1	title	Averroes … libro Destructio Destructionum disput. 1. dub. 1.
+bon-sent-I-d8-p1-a2-q1	1	11	averroes	in-physicam		cited	8	text. 15.	8.15	title	Averroes … VIII. Physic. text. 15.
+bon-sent-I-d8-p1-a2-q1	1	13	boethius	de-consolatione		cited	3		3	body-join+note-title	Boethius … Libr. III. de Consol. Metro 9, post quem textum cod. Z addit Psalmus (101, 28.): mutabis res et mutabuntur etc
+bon-sent-I-d8-p1-a2-q1	1	14	augustine	de-genesi-ad-litteram		cited	8	c. 21.	8.21	body-join+note-title	Augustinus … Libr. VIII. de Genes. ad lit. c. 21. — Verba Aristotelis in libro de Motu animalium c. 1. haec sunt: Verumtame
+bon-sent-I-d8-p1-a2-q1	1	17	dionysius	de-divinis-nominibus		cited		c. 5.	5	title	Dionys. de Div. Nom. c. 5.
+bon-sent-I-d8-p1-a2-q2	1	2	augustine	contra-maximinum		cited	2	c. 12. n. 2.	2.12.2	body-join+title	Augustinus … Lib. II. c. 12. n. 2.
+bon-sent-I-d8-p1-a2-q2	1	3	john-damascene	de-fide-orthodoxa		cited	1	c. 3	1.3	body-join+note-title	Damascenus … Libr. I. de Fide orthod. c. 3: Quorum enim esse a mutatione incepit, ea mutationi quoque subsint necesse est.
+bon-sent-I-d8-p1-a2-q2	1	5	gregory-the-great	moralia		cited	16	c. 37	16.37	body-join+note-title	Gregorius … Libr. XVI. Moral. c. 37: Cuncta quippe ex nihilo facta sunt, eorumque essentia rursum ad nihilum tenderet, nis
+bon-sent-I-d8-p1-a2-q2	1	6	hilary			cited		Cap. 1. in fine	1	body-join	Hilarius … Cap. 1. in fine.
+bon-sent-I-d8-p1-a2-q2	1	8	augustine	confessiones		cited	12	Cap. 9. n. 9.	12.9.9	body-join+title	Augustinus … Cap. 9. n. 9.
+bon-sent-I-d8-p1-a2-q2	1	9	gilbert-of-poitiers	liber-sex-principiorum		cited		c. 1	1	default-work	Gilbert. Porretan., c. 1: Forma est compositioni contingens, simplici et invariabili essentia consistens.
+bon-sent-I-d8-p1-a2-q2	1	11	augustine	de-genesi-ad-litteram		cited	8	c. 20.	8.20	body-join+title	Augustinus … Libr. VIII. c. 20.
+bon-sent-I-d8-p1-a2-q2	1	12	aristotle	analytica-posteriora		cited	1	c. 24. (c. 31.).	1.24.31	title	Aristot. I. Poster. c. 24. (c. 31.).
+bon-sent-I-d8-p1-a2-q2	1	12	aristotle	de-caelo		cited	1	text. 100. (c. 9.).	1.100.9	title	Aristot. I. de Caelo text. 100. (c. 9.).
+bon-sent-I-d8-p1-a2-q2	1	14	aristotle	physica		cited	1	text. 42. et 82. (c. 6. et 9. in fine)	1.42.82.6.9	title	Aristot. I. Phys. text. 42. et 82. (c. 6. et 9. in fine)
+bon-sent-I-d8-p1-a2-q2	1	14	aristotle	de-generatione		cited	1	text. 11. seqq. (c. 3.)	1.11.3	title	Aristot. … I. de Generat. et corrupt. text. 11. seqq. (c. 3.)
+bon-sent-I-d8-p1-a2-q2	1	15	aristotle	de-caelo		cited	1	text. 110. seqq. (c. 11. et 12.).	1.110.11.12	title	Aristot. I. de Caelo text. 110. seqq. (c. 11. et 12.).
+bon-sent-I-d8-p1-a2-q2	1	17	aristotle	physica		cited	1	text. 81. (c. 9.)	1.81.9	title	Aristot. I. Phys. text. 81. (c. 9.)
+bon-sent-I-d8-p1-a2-q2	1	17	boethius	de-consolatione		cited	3	Prosa 11.	3.11	title	Boeth. III. de Consol. Prosa 11.
+bon-sent-I-d8-p1-a2-q2	1	18	aristotle	de-generatione		cited	1	text. 17. (c. 3.)	1.17.3	title	Aristot. I. de Generat. et corrupt. text. 17. (c. 3.)
+bon-sent-I-d8-p1-a2-q2	1	19	john-damascene	de-fide-orthodoxa		cited	2	c. 3.	2.3	title	Ioan. Damasc. II. de Fide orthod. c. 3.
+bon-sent-I-d8-p1-a2-q2	1	20	aristotle	de-interpretatione		cited	1	c. 1.	1.1	title	Aristot. I. Periherm. c. 1.
+bon-sent-I-d8-p1-a2-q2	1	23	aristotle	physica		cited	5	text. 7. seqq. (c. 1.)	5.7.1	title	Aristot. V. Phys. text. 7. seqq. (c. 1.)
+bon-sent-I-d8-p1-a2-q2	1	23	aristotle	de-generatione		cited	1	text. 23. et 24. (c. 4.).	1.23.24.4	title	Aristot. … I. de Generat. et corrupt. text. 23. et 24. (c. 4.).
+bon-sent-I-d8-p1-a2-q2	1	29	anselm	de-fide-trinitatis		cited		c. 3	3	body-join+note-title	Anselmus … Libr. de Fide Trin. c. 3: Quoniam omne compositum necesse est aut actu aut intellectu posse disiungi. — Mox pl
+bon-sent-I-d8-p1-a2-q2	1	32	boethius	de-consolatione		cited	3	Prosa 11	3.11	title	Boeth. III. de Consol. Prosa 11
+bon-sent-I-d8-p1-a2-q2	1	33	aristotle	de-caelo		cited	1		1	title	Aristot. I. de Caelo
+bon-sent-I-d8-p1-a2-q2	1	33	aristotle	de-anima		cited	3	text. 45. (c. 9.).	3.45.9	title	Aristot. … III. de Anima text. 45. (c. 9.).
+bon-sent-I-d8-p1-dubia	1	5	aristotle	categoriae		cited		c. 1.	1	title	Aristot. de Praedicam. c. 1.
+bon-sent-I-d8-p1-dubia	1	8	augustine	de-civitate-dei		cited	12	c. 15. n. 2.	12.15.2	body-join+title	Augustinus … Libr. XII. c. 15. n. 2.
+bon-sent-I-d8-p1-dubia	1	13	augustine	de-genesi-ad-litteram		cited	1	c. 3. n. 9–10	1.3.9.10	body-join+note-title	Augustinus … Libr. I. de Genes. ad lit. c. 3. n. 9–10, et libr. contra Epist. Manichaei, c. 40. n. 46.
+bon-sent-I-d8-p1-dubia	1	18	duns-scotus	in-sententias		cited	1	d. 9.	1.9	title	Scot. I. Sent. d. 9.
+bon-sent-I-d8-p1-dubia	1	19	alexander-of-hales	summa		cited		p. I. q. 12. m. 9. a. 3.	1.12.9.3	title	Alex. Hal. S. p. I. q. 12. m. 9. a. 3.
+bon-sent-I-d8-p1-dubia	1	19	thomas-aquinas	summa-theologiae		cited		I. q. 10. a. 5.	1.10.5	title	S. Thom. S. I. q. 10. a. 5.
+bon-sent-I-d8-p2-a1-q1	1	4	aristotle	metaphysica		cited	11	c. 1 (X, c. 1).	11.1.10.1	title	Aristot. XI Metaph. c. 1 (X, c. 1).
+bon-sent-I-d8-p2-a1-q1	1	5	boethius	de-hebdomadibus		cited				title	Boeth. de Hebdomadibus
+bon-sent-I-d8-p2-a1-q1	1	5	augustine	de-civitate-dei		cited	11	c. 10	11.10	title	August. XI de Civ. Dei c. 10
+bon-sent-I-d8-p2-a1-q1	1	5	boethius	de-trinitate		cited		c. 2.	2	title	Boeth. de Trinitate c. 2.
+bon-sent-I-d8-p2-a1-q1	1	11	aristotle	analytica-posteriora		cited	1	c. 20 (c. 24).	1.20.24	title	Aristot. I Poster. c. 20 (c. 24).
+bon-sent-I-d8-p2-a1-q2	1	4	avicenna	metaphysica		cited	9	c. 2. seqq.	9.2	title	Avicenna IX. Metaph. c. 2. seqq.
+bon-sent-I-d8-p2-a1-q2	1	4	averroes	in-metaphysicam		cited	12	text. 44.	12.44	title	Averroes … XII. Metaph. text. 44.
+bon-sent-I-d8-p2-a1-q2	1	7	aristotle	metaphysica		cited	2		2	title	Aristot. II. Metaph.
+bon-sent-I-d8-p2-a1-q2	1	7	aristotle	physica		cited	1	text. 42. 82. (c. 5. 9.)	1.42.82.5.9	title	Aristot. I. Phys. text. 42. 82. (c. 5. 9.)
+bon-sent-I-d8-p2-a1-q2	1	9	alan-of-lille	regulae-theologicae		cited		reg. 1	1	title	Alan. ab Insul. Regul. theolog. reg. 1
+bon-sent-I-d8-p2-a1-q2	1	12	dionysius	de-caelesti-hierarchia		cited		c. 11.	11	title	Dionys. de Caelest. Hierarch. c. 11.
+bon-sent-I-d8-p2-a1-q2	1	13	boethius	de-trinitate		cited		c. 2. seqq.	2	title	Boeth. de Trin. c. 2. seqq.
+bon-sent-I-d8-p2-a1-q2	1	13	boethius	de-hebdomadibus		cited				title	Boeth. … de Hebdomad.
+bon-sent-I-d8-p2-a1-q2	1	14	boethius	de-trinitate		cited		c. 2	2	title	Boeth. de Trin. c. 2
+bon-sent-I-d8-p2-a1-q2	1	14	alan-of-lille	regulae-theologicae		cited		reg. 12.	12	title	Alan. ab Insul. Regul. theolog. reg. 12.
+bon-sent-I-d8-p2-a1-q2	1	19	boethius	de-unitate-et-uno	true	cited				title	Boeth. de Unitate et Uno
+bon-sent-I-d8-p2-a1-q2	1	27	albert-the-great	summa-theologiae		cited		p. I. tract. 4. q. 20. m. 2	1.4.20.2	title	B. Albert. S. p. I. tract. 4. q. 20. m. 2
+bon-sent-I-d8-p2-a1-q3	1	1	augustine	de-spiritu-et-anima	true	cited		c. 13. in fine	13	body-join+note-title	Augustinus … Libr. de Spiritu et anima, c. 13. in fine. — Mox in propos. minore post maiori Vat. repetit mundo.
+bon-sent-I-d8-p2-a1-q3	1	2	aristotle	metaphysica		cited	8	text. 15. et 16. (VII. c. 6.).	8.15.16.7.6	title	Aristot. VIII. Metaph. text. 15. et 16. (VII. c. 6.).
+bon-sent-I-d8-p2-a1-q3	1	9	aristotle	de-anima		cited	2	text. 24 (c. 2.)	2.24.2	title	Aristot. II. de Anima text. 24 (c. 2.)
+bon-sent-I-d8-p2-a1-q3	1	9	aristotle	de-anima		cited	1	text. 68. (c. 4.)	1.68.4	title	Aristot. I. de Anima text. 68. (c. 4.)
+bon-sent-I-d8-p2-a1-q3	1	9	aristotle	metaphysica		cited	5	text. 12. (IV. c. 6.)	5.12.4.6	title	Aristot. … V. Metaph. text. 12. (IV. c. 6.)
+bon-sent-I-d8-p2-a1-q3	1	13	aristotle	de-anima		cited	2	text. 11. (c. 1.)	2.11.1	body-join+note-title	Philosophus … Lib. II. de Anima, text. 11. (c. 1.) et III. de Anima, text. 6. (c. 4.).
+bon-sent-I-d8-p2-a1-q3	1	15	aristotle	de-anima		cited	2	text. 9. (c. 1.).	2.9.1	body-join+note-title	Philosophus … Libr. II. de Anima, text. 9. (c. 1.).
+bon-sent-I-d8-p2-a1-q3	1	19	aristotle	de-partibus-animalium		cited	3	c. 3. et 4.	3.3.4	title	Aristot. III. de Partib. animal. c. 3. et 4.
+bon-sent-I-d8-p2-a1-q3	1	20	alexander-of-hales	summa		cited		p. II. q. 87. m. 2. a. 1. § 1. (in aliis edd. q. 94.).	2.87.2.1.1	title	Alex. Hal. S. p. II. q. 87. m. 2. a. 1. § 1. (in aliis edd. q. 94.).
+bon-sent-I-d8-p2-a1-q3	1	20	gregory-of-nyssa	de-hominis-opificio		cited		c. 12.	12	title	Greg. Nyssen. de Hominis opificio c. 12.
+bon-sent-I-d8-p2-a1-q3	1	21	aristotle	de-partibus-animalium		cited	3	c. 4.	3.4	title	Aristot. III. de Partib. animal. c. 4.
+bon-sent-I-d8-p2-a1-q3	1	22	augustine	de-ordine		cited	2	c. 11. n. 31. seq.	2.11.31	title	August. II. de Ordine c. 11. n. 31. seq.
+bon-sent-I-d8-p2-a1-q3	1	24	augustine			cited				body-join	Augustinus … Libr. de Praesentia Dei seu Epistol. 187. c. 4. n. 13: Qualitas vero corporis, quae sanitas dicitur, cum sanum
+bon-sent-I-d8-p2-a1-q3	1	35	aristotle	de-anima		cited	1	text. 61. (c. 4.).	1.61.4	title	Aristot. I. de Anima text. 61. (c. 4.).
+bon-sent-I-d8-p2-a1-q4	1	1	aristotle	categoriae		cited		in princ.		title	Aristot. de Praedicam. in princ.
+bon-sent-I-d8-p2-a1-q4	1	3	anselm	monologion		cited		c. 15.	15	title	Anselm. Monolog. c. 15.
+bon-sent-I-d8-p2-a1-q4	1	4	boethius	de-trinitate		cited		c. 4	4	title	Boeth. de Trin. c. 4
+bon-sent-I-d8-p2-a1-q4	1	4	alan-of-lille	regulae-theologicae		cited		reg. 9.	9	title	Alan. ab Insul. Regul. theolog. reg. 9.
+bon-sent-I-d8-p2-a1-q4	1	6	augustine	de-trinitate		cited	5	Cap. 1. n. 2	5.1.2	body-join+title	Augustinus … Cap. 1. n. 2: Ut sic intelligamus Deum.... sine qualitate bonum, sine quantitate magnum.
+bon-sent-I-d8-p2-dubia	1	4	aristotle	analytica-posteriora		cited	1	c. 10 (c. 13)	1.10.13	title	Aristot. I Poster. c. 10 (c. 13)
+bon-sent-I-d8-p2-dubia	1	5	aristotle	analytica-posteriora		cited	1	c. 2	1.2	title	Aristot. I Poster. c. 2
+bon-sent-I-d8-p2-dubia	1	7	boethius	de-trinitate		cited		c. 2	2	title	Boeth. Libr. de Trin. c. 2
+bon-sent-I-d8-p2-dubia	1	8	aristotle	topica		cited	4	c. 2	4.2	title	Aristot. IV Topic. c. 2
+bon-sent-I-d8-p2-dubia	1	8	peter-of-spain	summulae-logicales		cited		tract. de Syllog.		title	Petr. Hispan. Summula tract. de Syllog.
+bon-sent-I-d8-p2-dubia	1	9	thomas-aquinas	in-sententias		same-passage		q. 4, a. 3	4.3	here	S. Thom., hic q. 4, a. 3 hoc explicat dicens: Quantitas habet propriam rationem in comparatione ad subiectum; est enim quantitas mensura sub
+bon-sent-I-d8-p2-dubia	1	12	thomas-aquinas	in-sententias		same-passage		q. 4, a. 3	4.3	here	S. Thom., hic q. 4, a. 3, et clarius de Potentia q. 7, a. 4, ad 2;
+bon-sent-I-d8-p2-dubia	1	12	alexander-of-hales	summa		cited		p. I, q. 48, m. 4, a. 3, § 4	1.48.4.3.4	title	Alex. Hal. Summa p. I, q. 48, m. 4, a. 3, § 4
+bon-sent-I-d8-p2-dubia	1	12	albert-the-great	in-sententias		same-passage		a. 31	31	here	B. Albert., hic a. 31;
+bon-sent-I-d8-p2-dubia	1	12	peter-of-tarentaise	in-sententias		same-passage		q. 5	5	here	Petrus a Tar., hic q. 5; aliique. Secunda opinio est S. Doctoris, quae consistit in duobus, scil. 1.° in eo, quod nomina generum in quantum 
+bon-sent-I-d8-p2-dubia	1	19	aristotle	metaphysica		cited	7	text. 49 (VI, c. 13)	7.49.6.13	title	Aristot. VII Metaph. text. 49 (VI, c. 13)
+bon-sent-I-d8-p2-dubia	1	21	albert-the-great	in-sententias		same-passage		a. 33.	33	here	B. Albert., hic a. 33.
+bon-sent-I-d8-p2-dubia	1	21	richard-of-middleton	in-sententias		same-passage				here	Richard., hic circa litt.
+bon-sent-I-d9-a1-q1	1	5	aristotle	de-anima		cited	2	text. 34. (c. 4.)	2.34.4	body-join+note-title	Philosophus … Libr. II. de Anima, text. 34. (c. 4.) et IV. Meteor. text. 19. (c. 3.).
+bon-sent-I-d9-a1-q1	1	7	aristotle	physica		cited	5	text. 7. seqq.	5.7	title	Aristot. V. Phys. text. 7. seqq.
+bon-sent-I-d9-a1-q1	1	8	aristotle	de-generatione		cited				title	Philosophus … de Generat.
+bon-sent-I-d9-a1-q1	1	10	aristotle	de-anima		cited	2	text. 34. (c. 4.)	2.34.4	title	Aristot. II. de Anima text. 34. (c. 4.)
+bon-sent-I-d9-a1-q1	1	10	aristotle	metaphysica		cited	7	text. 22. et 28. (VI. c. 7. et 8.).	7.22.28.6.7	title	Aristot. … VII. Metaph. text. 22. et 28. (VI. c. 7. et 8.).
+bon-sent-I-d9-a1-q1	1	18	aristotle	de-anima		cited	2	text. 47. (c. 4.).	2.47.4	title	Aristot. II. de Anima text. 47. (c. 4.).
+bon-sent-I-d9-a1-q2	1	1	augustine	de-trinitate		cited	1	c. I. n. 1.	1.1.1	body-join+title	Augustinus … Libr. I. c. I. n. 1. — Circa finem argumenti fide multorum mss. et ed. 1 post inter aliam expunximus rem.
+bon-sent-I-d9-a1-q2	1	9	anselm	monologion		cited		c. 32	32	body-join+note-title	Anselmus … Monolog. c. 32, ubi hoc quoad sensum invenitur.
+bon-sent-I-d9-a1-q2	1	10	aristotle	categoriae		cited		c. de Oppositis.		title	Aristot. de Praedicam. c. de Oppositis.
+bon-sent-I-d9-a1-q2	1	18	aristotle	physica		cited	5	text. 10. (c. 2.).	5.10.2	title	Aristot. V. Phys. text. 10. (c. 2.).
+bon-sent-I-d9-a1-q2	1	19	aristotle	metaphysica		cited	5	text. 20. (IV. c. 15.)	5.20.4.15	title	Aristot. V. Metaph. text. 20. (IV. c. 15.)
+bon-sent-I-d9-a1-q3	1	1	aristotle	metaphysica		cited	9	text. 10. (VIII. c. 3.).	9.10.8.3	title	Aristot. IX. Metaph. text. 10. (VIII. c. 3.).
+bon-sent-I-d9-a1-q3	1	2	aristotle	meteorologica		cited	4	text. 19. (c. 3.)	4.19.3	title	Aristot. IV. Meteor. text. 19. (c. 3.)
+bon-sent-I-d9-a1-q3	1	2	aristotle	de-anima		cited	2	text. 34. (c. 4.).	2.34.4	title	Aristot. … II. de Anima text. 34. (c. 4.).
+bon-sent-I-d9-a1-q3	1	4	aristotle	physica		cited	5	text. 7	5.7	title	Aristot. V. Phys. text. 7
+bon-sent-I-d9-a1-q3	1	4	aristotle	de-anima		cited	2	text. 34. seqq. (c. 4.).	2.34.4	title	Aristot. … II. de Anima text. 34. seqq. (c. 4.).
+bon-sent-I-d9-a1-q4	1	1	augustine			cited		Quaest. 37	37	body-join	Augustinus … Quaest. 37: Qui semper nascitur nondum est natus; et nunquam natus est aut natus erit, si semper nascitur. Ali
+bon-sent-I-d9-a1-q4	1	4	john-damascene	de-fide-orthodoxa		cited	1	c. 8	1.8	body-join+note-title	Damascenus … Libr. I. de Fide orthod. c. 8: Deus enim, ut qui tempori non subsit et principio, passione ac fluxione omni va
+bon-sent-I-d9-a1-q4	1	10	augustine	de-genesi-ad-litteram		cited	8	Cap. 12. n. 26	8.12.26	body-join+title	Augustinus … Cap. 12. n. 26: Neque enim, ut dicebamus, sicut operatur homo terram… ita Deus operatur hominem iustum, id est
+bon-sent-I-d9-dubia	1	18	alexander-of-hales	summa		cited		p. 1. q. 49. m. 3.	1.49.3	title	Alex. Hal. S. p. 1. q. 49. m. 3.
+bon-sent-I-d9-dubia	1	18	thomas-aquinas	in-sententias		same-passage		q. 1. a. 2	1.2	here	S. Thom., hic q. 1. a. 2, et S. 1. q. 39. a. 3.
+bon-sent-I-d9-dubia	1	18	albert-the-great	in-sententias		same-passage		a. 7.	7	here	B. Albert., hic a. 7.
+bon-sent-I-d9-dubia	1	18	peter-of-tarentaise	in-sententias		same-passage		q. 3. a. 2.	3.2	here	Petr. a Tar., hic q. 3. a. 2.
+bon-sent-I-d9-dubia	1	18	richard-of-middleton	in-sententias		same-passage				here	Richard. a Med., hic circa litteram.
+bon-sent-I-d9-dubia	1	23	augustine	de-trinitate		cited	6	Cap. 1. n. 1.	6.1.1	body-join+title	Augustinus … Cap. 1. n. 1. Vide etiam ibid. VII. c. 1. n. 2. et XV. c. 7. n. 12.
+bon-sent-I-d9-dubia	1	24	augustine	de-trinitate		cited	6	Cap. 1. n. 2.	6.1.2	body-join+title	Augustinus … Cap. 1. n. 2.
+bon-sent-I-d9-dubia	1	27	aristotle	categoriae		cited		c. de Relativis.		title	Aristot. de Praedicam. c. de Relativis.
+bon-sent-I-d9-dubia	1	34	john-damascene	de-fide-orthodoxa		cited	2	c. 3	2.3	body-join+note-title	Damascenus … Libr. II. de Fide orthod. c. 3: Sed sine ulla prolati sermonis ope mutuo sibi sensa sua communicant et consili
+bon-sent-I-d9-dubia	1	52	albert-the-great	in-sententias		same-passage		a. 8. et 21	8.21	here	B. Albert., hic a. 8. et 21;
+bon-sent-I-d9-dubia	1	52	duns-scotus	in-sententias		cited	2	d. 13.	2.13	title	Scot. II. Sent. d. 13.
+bon-sent-I-d9-dubia	1	52	richard-of-middleton	in-sententias		cited	2	d. 13. a. 2. q. 1	2.13.2.1	title	Richard. a Med. II. Sent. d. 13. a. 2. q. 1
+bon-sent-I-d9-dubia	1	52	peter-of-tarentaise	in-sententias		same-passage		q. 4. a. 1.	4.1	here	Petr. a Tar., hic q. 4. a. 1. ad 4 etc.
+bon-sent-I-d9-dubia	1	53	alexander-of-hales	summa		cited		p. 1. q. 42. m. 5. a. 3	1.42.5.3	title	Alex. Hal. S. p. 1. q. 42. m. 5. a. 3
+bon-sent-I-d9-dubia	1	53	giles-of-rome	in-sententias		same-passage				here	Aegid. R., hic circa lit.
+bon-sent-I-d9-dubia	1	57	anselm	de-fide-trinitatis		cited		c. 8.	8	title	Anselm. de Fide Trin. c. 8.
+bon-sent-I-d9-littera	1	11	gratian			cited		c. 10. n. 64. et 65.	10.64.65	no-title	Gratian. c. 10. n. 64. et 65.
+bon-sent-I-d9-littera	1	14	jerome			cited		Cap. 3.	3	body-join	Hieronymi … Cap. 3.
+bon-sent-I-d9-littera	1	16	gregory-the-great	moralia		cited	29	c. 1. in principio	29.1	body-join+note-title	Gregorius … Libr. XXIX. Moral. c. 1. in principio. Etiam verba, quae sequuntur post resonamus, ibidem inveniuntur. In prin
+bon-sent-I-d9-littera	1	19	augustine	de-diversis-quaestionibus-83		cited				title	Augustinus … libro LXXXIII quaest.
+bon-sent-I-d9-littera	1	22	origen	homiliae		cited				body-join+note-title	Origenes … Homil. II. circa finem, sed non paucis mutatis.
+bon-brev-p1-c1	5	p210-6	augustine			cited		Cap. 11. n. 25.	11.25	body-join	Augustinum … Cap. 11. n. 25. — Cfr. supra pag. 205, nota 7. — De praenotatis cfr. Prooemium in I. Sent. — Superius pro repa
+bon-brev-p1-c4	5	p212-6	aristotle	categoriae		cited				title	Aristot. de Praedicam.
+bon-brev-p1-c4	5	p212-6	boethius	de-trinitate		cited		c. 4. seqq.	4	title	Boeth. de Trin. c. 4. seqq.
+bon-brev-p1-c4	5	p212-7	boethius	de-trinitate		cited		c. 6.	6	title	Boeth. de Trin. c. 6.
+bon-brev-p1-c4	5	p213-2	alexander-of-hales	summa		cited		p. I. q. 56. m. 5.	1.56.5	title	Alex. Hal. S. p. I. q. 56. m. 5.
+bon-brev-p1-c5	5	p214-8	augustine	de-trinitate		cited	2	c. 5. n. 8	2.5.8	title	August. II. de Trin. c. 5. n. 8
+bon-brev-p1-c6	5	p214-9	hilary	de-trinitate		cited	2	n. 1.	2.1	body-join+note-title	Hilarii … Libr. II. de Trin. n. 1. Cfr. I. Sent. d. 31. p. II. a. 1. q. 3. De aliis appropriationibus vide ibid. a. 2. q
+bon-brev-p1-c6	5	p215-1	augustine	de-vera-religione		cited		c. 7. n. 13	7.13	title	August. de Vera Relig. c. 7. n. 13
+bon-brev-p1-c6	5	p215-1	augustine	de-diversis-quaestionibus-83		cited		q. 18	18	title	August. … 83 Qq. q. 18
+bon-brev-p1-c6	5	p215-1	augustine	de-civitate-dei		cited	11	c. 28.	11.28	title	August. … XI. de Civ. Dei c. 28.
+bon-brev-p1-c6	5	p215-1	augustine	de-trinitate		cited	6	c. 10. n. 12.	6.10.12	title	August. … VI. de Trin. c. 10. n. 12.
+bon-brev-p1-c6	5	p215-1	alexander-of-hales	summa		cited		p. I. q. 13. m. 2. in fine	1.13.2	title	Alex. Hal. S. p. I. q. 13. m. 2. in fine
+bon-brev-p1-c6	5	p215-2	augustine	de-doctrina-christiana		cited	1	c. 5. n. 5.	1.5.5	body-join+note-title	Augustinus … Libr. I. de Doctr. christiana, c. 5. n. 5.
+bon-brev-p1-c6	5	p215-4	aristotle	ethica-nicomachea		cited	1	c. 2	1.2	title	Aristot. I. Ethic. c. 2
+bon-brev-p1-c7	5	p215-6	anselm	cur-deus-homo		cited	1	c. 20.	1.20	body-join+note-title	Anselmus … Libr. I. Cur Deus homo, c. 20. et de Fide Trin. c. 5. Cfr. tom. I. pag. 52, nota 4. — Vide de his I. Sent. d. 
+bon-brev-p1-c8	5	p216-5	alexander-of-hales	summa		cited		p. I. q. 23. m. 4. a. 1	1.23.4.1	title	Alex. Hal. S. p. I. q. 23. m. 4. a. 1
+bon-brev-p1-c9	5	p217-7	augustine	de-trinitate		cited	3	c. 4. n. 9.	3.4.9	title	August. III. de Trin. c. 4. n. 9.
+bon-brev-p1-c9	5	p217-7	alexander-of-hales	summa		cited		p. I. q. 26. per totam	1.26	title	Alex. Hal. S. p. I. q. 26. per totam
+bon-brev-p1-c9	5	p218-5	augustine	de-civitate-dei		cited	7	c. 30	7.30	title	August. VII. de Civ. Dei c. 30
+bon-brev-p1-c9	5	p218-6	anselm	proslogion		cited		c. 9-11	9.11	title	Anselm. Proslog. c. 9-11
+bon-brev-p1-c9	5	p218-6	augustine	enchiridion		cited		c. 99. n. 25	99.25	title	August. Enchirid. c. 99. n. 25
+bon-brev-p2-c1	5	p219-1	alexander-of-hales	summa		cited		p. II. q. 7.	2.7	title	Alex. Hal. S. p. II. q. 7.
+bon-brev-p2-c1	5	p219-3	augustine	enarrationes-in-psalmos		cited		29. enarrat. 2. n. 10	29.2.10	title	August. Enarrat. in Ps. 29. enarrat. 2. n. 10
+bon-brev-p2-c10	5	p228-6	alexander-of-hales	summa		cited		p. II. q. 81. m. 2	2.81.2	title	Alex. Hal. S. p. II. q. 81. m. 2
+bon-brev-p2-c10	5	p228-6	augustine	de-diversis-quaestionibus-83		cited		q. 51. n. 3.	51.3	title	August. 83 Qq. q. 51. n. 3.
+bon-brev-p2-c10	5	p228-8	augustine	de-genesi-ad-litteram		cited	6	c. 25. n. 36.	6.25.36	title	August. VI. de Gen. ad lit. c. 25. n. 36.
+bon-brev-p2-c10	5	p228-9	augustine	de-genesi-ad-litteram		cited	8	c. 4. n. 8	8.4.8	body-join+note-title	Augustinus … Libr. VIII. de Gen. ad lit. c. 4. n. 8: Erat ei ergo in lignis ceteris alimentum, in illo autem Sacramentum. C
+bon-brev-p2-c11	5	p229-4	hugh-of-st-victor	de-sacramentis		cited	1	p. VI. c. 5	1.6.5	title	Hug. a S. Vict. I. de Sacram. p. VI. c. 5
+bon-brev-p2-c11	5	p229-6	hugh-of-st-victor	de-sacramentis		cited	1	p. VI. c. 6.	1.6.6	title	Hugo a S. Vict. I. de Sacram. p. VI. c. 6.
+bon-brev-p2-c11	5	p229-6	augustine	de-genesi-ad-litteram		cited	8	c. 6. n. 12.	8.6.12	title	August. VIII. de Gen. ad lit. c. 6. n. 12.
+bon-brev-p2-c12	5	p230-5	augustine	de-genesi-ad-litteram		cited	2	c. 8. n. 16-20	2.8.16.20	title	August. II. de Gen. ad lit. c. 8. n. 16-20
+bon-brev-p2-c12	5	p230-6	hugh-of-st-victor	de-sacramentis		cited	1	p. X. c. 2.	1.10.2	body-join+note-title	Hugo … Libr. I. de Sacram. p. X. c. 2. — Pro animum et animo A animam et anima (textus originalis se ipsam et ipsa).
+bon-brev-p2-c12	5	p230-7	hugh-of-st-victor	de-sacramentis		cited				anaphor	Hugo a S. Vict., loc. cit.: Postquam autem tenebrae peccati in illam [animam] intraverunt, oculus quidem contemplationis exstinctus est, ut 
+bon-brev-p2-c2	5	p220-4	augustine	epistolae		cited		55. (alias 119.) c. 10. n. 19. seqq.	55.119.10.19	title	August. Epist. 55. (alias 119.) c. 10. n. 19. seqq.
+bon-brev-p2-c2	5	p220-4	augustine	de-genesi-ad-litteram		cited	4	c. 9. n. 16. seqq.	4.9.16	title	August. … IV. de Gen. ad lit. c. 9. n. 16. seqq.
+bon-brev-p2-c3	5	p221-1	aristotle	de-generatione		cited	1	text. 43-90. (c. 6-10.)	1.43.90.6.10	title	Aristot. I. de Generat. et corrupt. text. 43-90. (c. 6-10.)
+bon-brev-p2-c3	5	p221-3	boethius	de-arithmetica		cited	1	c. 1. seq.	1.1	title	Boeth. I. de Arithmetica c. 1. seq.
+bon-brev-p2-c4	5	p222-1	aristotle	physica		cited	2	text. 24. (c. 2.)	2.24.2	title	Aristot. II. Phys. text. 24. (c. 2.)
+bon-brev-p2-c5	5	p223-4	aristotle	de-anima		cited	2	text. 68. (c. 7.)	2.68.7	title	Aristot. II. de Anima text. 68. (c. 7.)
+bon-brev-p2-c5	5	p223-4	aristotle	de-sensu		cited				title	Aristot. … de Sensu
+bon-brev-p2-c6	5	p224-3	augustine	confessiones		cited	12	c. 7. n. 7	12.7.7	title	August. XII. Confess. c. 7. n. 7
+bon-brev-p2-c7	5	p224-8	augustine	de-libero-arbitrio		cited	3	c. 15. n. 44	3.15.44	title	August. III. de Lib. Arb. c. 15. n. 44
+bon-brev-p2-c7	5	p225-1	dionysius	de-divinis-nominibus		cited		c. 4. § 19	4.19	title	Dionys. de Div. Nom. c. 4. § 19
+bon-brev-p2-c7	5	p225-4	peter-lombard	collectanea		cited		6, 15.	6.15	title	Petr. Lombard. in II. Cor. 6, 15.
+bon-brev-p2-c8	5	p226-2	gregory-the-great	homiliae-in-evangelia		cited	2	homil. 34. n. 13	2.34.13	title	Gregor. II. Homil. in Evang. homil. 34. n. 13
+bon-brev-p2-c8	5	p226-2	gregory-the-great	moralia		cited	2	c. 3. n. 3.	2.3.3	title	Gregor. … II. Moral. c. 3. n. 3.
+bon-brev-p2-c8	5	p226-5	gregory-the-great	homiliae-in-evangelia		cited	2	homil. 34. n. 14.	2.34.14	title	Gregor. II. Homil. in Evang. homil. 34. n. 14.
+bon-brev-p2-c9	5	p226-7	anselm	monologion		cited		c. 13.	13	title	Anselm. Monolog. c. 13.
+bon-brev-p2-c9	5	p226-9	dionysius	de-caelesti-hierarchia		cited		c. 4. § 3, c. 8. § 2.	4.3.8.2	title	Dionys. de Caelest. Hierarch. c. 4. § 3, c. 8. § 2.
+bon-brev-p2-c9	5	p227-1	bernard	sermones-in-cantica		cited		n. 6	6	title	Bernard. … in Cantic. n. 6
+bon-brev-p2-c9	5	p227-2	aristotle	de-caelo		cited	1	text. 126. (c. 12.)	1.126.12	title	Aristot. I. de Caelo et mundo text. 126. (c. 12.)
+bon-brev-p2-c9	5	p227-3	aristotle	de-anima		cited	2	text. 24. (c. 2.)	2.24.2	title	Aristot. II. de Anima text. 24. (c. 2.)
+bon-brev-p2-c9	5	p227-4	aristotle	de-generatione		cited	1	text. 39. seqq. (c. 5.)	1.39.5	title	Aristot. I. de Generat. et corrupt. text. 39. seqq. (c. 5.)
+bon-brev-p2-c9	5	p227-4	aristotle	de-anima		cited	2	text. 47. seqq. (c. 4.).	2.47.4	title	Aristot. … II. de Anima text. 47. seqq. (c. 4.).
+bon-brev-p2-c9	5	p227-5	augustine	de-genesi-ad-litteram		cited	3	c. 4. n. 6.	3.4.6	title	August. III. de Gen. ad lit. c. 4. n. 6.
+bon-brev-p2-c9	5	p227-7	john-damascene	de-fide-orthodoxa		cited	2	c. 22.	2.22	title	Damasc. II. de Fide orthod. c. 22.
+bon-brev-p2-c9	5	p227-9	augustine			cited	3		3	body-join	Augustinus … Libr. III. Hypognosticon (inter opera August.), c. 5. n. 7: Cum de libero arbitrio agimus, non de parte homini
+bon-brev-p3-c1	5	p231-1	augustine	de-civitate-dei		cited	11	c. 9	11.9	title	August. XI. de Civ. Dei c. 9
+bon-brev-p3-c1	5	p231-1	augustine	de-natura-boni		cited		c. 4	4	title	August. … de Natura boni c. 4
+bon-brev-p3-c1	5	p231-4	augustine	de-civitate-dei		cited	12	c. 7	12.7	title	August. XII. de Civ. Dei c. 7
+bon-brev-p3-c1	5	p231-5	augustine	de-libero-arbitrio		cited	2	c. 19. n. 53.	2.19.53	title	August. II. de Lib. Arb. c. 19. n. 53.
+bon-brev-p3-c1	5	p231-5	augustine	de-natura-boni		cited		c. 34. et 36	34.36	title	August. de Natura boni c. 34. et 36
+bon-brev-p3-c1	5	p231-5	augustine	de-vera-religione		cited		c. 14. n. 27	14.27	title	August. de Vera Relig. c. 14. n. 27
+bon-brev-p3-c10	5	p239-2	augustine	enarrationes-in-psalmos		cited		57, 9. n. 18.	57.9.18	title	August. Enarrat. in Ps. 57, 9. n. 18.
+bon-brev-p3-c10	5	p239-5	anselm	de-concordia		cited				title	Anselm. de Concord.
+bon-brev-p3-c10	5	p239-6	augustine	de-libero-arbitrio		cited	3	c. 9. n. 26.	3.9.26	title	August. III. de Lib. Arb. c. 9. n. 26.
+bon-brev-p3-c10	5	p239-6	augustine	de-libero-arbitrio		cited	1	c. 1. n. 1.	1.1.1	title	August. … I. de Lib. Arb. c. 1. n. 1.
+bon-brev-p3-c11	5	p240-3	gregory-the-great	moralia		cited	25	c. 11. n. 28	25.11.28	title	Gregor. XXV. Moral. c. 11. n. 28
+bon-brev-p3-c11	5	p240-3	isidore	sententiae		cited	2	c. 17. n. 3. seqq.	2.17.3	title	Isidor. II. Sent. sive de Sum. Bono c. 17. n. 3. seqq.
+bon-brev-p3-c11	5	p240-3	isidore	sententiae		cited				title	Isidor. … Sent.
+bon-brev-p3-c11	5	p240-3	isidore	sententiae		cited	2	d. XXII. c. 4. in fine	2.22.4	title	Isidor. … II. Sent. d. XXII. c. 4. in fine
+bon-brev-p3-c11	5	p240-4	augustine	de-libero-arbitrio		cited	1	c. 12. n. 26	1.12.26	title	August. I. de Lib. Arb. c. 12. n. 26
+bon-brev-p3-c11	5	p240-5	aristotle	ethica-nicomachea		cited	3	c. 1	3.1	title	Aristot. III. Ethic. c. 1
+bon-brev-p3-c11	5	p240-5	john-damascene	de-fide-orthodoxa		cited	2	c. 24.	2.24	title	Damasc. II. de Fide orthod. c. 24.
+bon-brev-p3-c2	5	p232-2	augustine	de-civitate-dei		cited	7	c. 30.	7.30	title	August. VII. de Civ. Dei c. 30.
+bon-brev-p3-c3	5	p233-3	augustine	de-civitate-dei		cited	14	c. 11. n. 2	14.11.2	title	August. XIV. de Civ. Dei c. 11. n. 2
+bon-brev-p3-c4	5	p233-4	alexander-of-hales	summa		cited		p. II. q. 105. per totam	2.105	title	Alex. Hal. S. p. II. q. 105. per totam
+bon-brev-p3-c4	5	p233-5	boethius	de-consolatione		cited	4	prosa 6	4.6	title	Boeth. IV. de Consol. prosa 6
+bon-brev-p3-c4	5	p233-5	augustine	epistolae		cited		140. (alias 120.) c. 2. n. 4	140.120.2.4	title	August. Epist. 140. (alias 120.) c. 2. n. 4
+bon-brev-p3-c5	5	p234-5	augustine	enchiridion		cited		c. 93. n. 23.	93.23	title	August. Enchirid. c. 93. n. 23.
+bon-brev-p3-c5	5	p235-1	augustine	epistolae		cited				title	August. … Epist.
+bon-brev-p3-c6	5	p235-2	anselm	de-conceptu-virginali		cited		c. 23	23	title	Anselm. de Conceptu virgin. et orig. pecc. c. 23
+bon-brev-p3-c6	5	p235-7	fulgentius	de-fide-ad-petrum		cited		c. 2. n. 16	2.16	title	Fulgentius … de Fide ad Petrum c. 2. n. 16
+bon-brev-p3-c7	5	p236-6	anselm	de-conceptu-virginali		cited		c. 18.	18	title	Anselm. de Conceptu virgin. et orig. pecc. c. 18.
+bon-brev-p3-c8	5	p237-2	aristotle	categoriae		cited		c. de Oppositis et		title	Aristot. de Praedicam. c. de Oppositis et
+bon-brev-p3-c8	5	p237-2	aristotle	topica		cited	2	c. 3. (c. 7.)	2.3.7	title	Aristot. … II. Topic. c. 3. (c. 7.)
+bon-brev-p3-c8	5	p237-4	ambrose	de-paradiso		cited		c. 8. n. 39.	8.39	body-join+note-title	Ambrosius … Libr. de Paradiso, c. 8. n. 39. Pro mandatorum textus originalis praeceptorum, Vat. praeceptorum vel mandatoru
+bon-brev-p3-c8	5	p237-5	alexander-of-hales	summa		cited		p. II. q. 112. m. 2	2.112.2	title	Alex. Hal. S. p. II. q. 112. m. 2
+bon-brev-p3-c8	5	p237-9	augustine	de-trinitate		cited	12	Cap. 12. n. 17. seq.	12.12.17	body-join+title	Augustini … Cap. 12. n. 17. seq.
+bon-brev-p3-c9	5	p238-4	augustine	de-civitate-dei		cited	14	c. 7. n. 2	14.7.2	title	August. XIV. de Civ. Dei c. 7. n. 2
+bon-brev-p4-c1	5	p241-6	bernard	sermones		cited		3.	3	title	Bernard. Serm. 3.
+bon-brev-p4-c1	5	p241-6	bernard	sermones		cited		2.	2	title	Bernard. … Serm. 2.
+bon-brev-p4-c1	5	p241-9	augustine	de-vera-religione		cited		c. 16. n. 30. seqq. et c. 55. n. 110.	16.30.55.110	title	August. de Vera Relig. c. 16. n. 30. seqq. et c. 55. n. 110.
+bon-brev-p4-c10	5	p251-4	augustine	enarrationes-in-psalmos		cited		149, 6. n. 12	149.6.12	title	August. Enarrat. in Ps. 149, 6. n. 12
+bon-brev-p4-c10	5	p251-4	isidore	etymologiae		cited	18	c. 6	18.6	title	Isidor. XVIII. Etymolog. c. 6
+bon-brev-p4-c2	5	p243-3	aristotle	de-sophisticis-elenchis		cited	1	c. 5. (c. 6.).	1.5.6	title	Aristot. I. Elench. c. 5. (c. 6.).
+bon-brev-p4-c3	5	p243-4	augustine	sermones		cited		196. (alias 59. de Diversis) c. 1. n. 1.	196.59.1.1	title	August. Serm. 196. (alias 59. de Diversis) c. 1. n. 1.
+bon-brev-p4-c3	5	p243-4	augustine	sermones		cited		51. (alias 63. de Diversis), c. 11. n. 18.	51.63.11.18	title	August. … Serm. 51. (alias 63. de Diversis), c. 11. n. 18.
+bon-brev-p4-c3	5	p244-2	anselm	cur-deus-homo		cited	2	c. 8	2.8	title	Anselm. II. Cur Deus homo c. 8
+bon-brev-p4-c4	5	p245-1	bernard	sermones		cited		3.	3	title	Bernard. Serm. 3.
+bon-brev-p4-c7	5	p248-2	jerome	epistolae		cited		148. (alias 14.) n. 21	148.14.21	title	Hieron. Epist. 148. (alias 14.) n. 21
+bon-brev-p4-c8	5	p248-8	augustine	de-civitate-dei		cited	9	c. 15	9.15	title	August. IX. de Civ. Dei c. 15
+bon-brev-p4-c8	5	p249-6	hugh-of-st-victor	de-quatuor-voluntatibus		cited				title	Hugo a S. Vict. … Libello de Quatuor Voluntat.
+bon-brev-p4-c9	5	p250-2	anselm	cur-deus-homo		cited		c. 11. et 20.	11.20	title	Anselm. … Cur Deus homo c. 11. et 20.
+bon-brev-p4-c9	5	p250-3	augustine			same-passage				here	August. in hunc loc., ex quo quaedam referuntur II. Sent. lit. Magistri, d. XXII. c. 4.
+bon-brev-p5-c10	5	p263-7	john-damascene	de-fide-orthodoxa		cited	3	c. 24.	3.24	title	Damasc. III. de Fide orthod. c. 24.
+bon-brev-p5-c2	5	p253-7	augustine	enchiridion		cited		c. 32. n. 9.	32.9	title	August. Enchirid. c. 32. n. 9.
+bon-brev-p5-c2	5	p253-7	augustine	epistolae		cited		186. (alias 106.) c. 3. n. 10.	186.106.3.10	title	August. Epist. 186. (alias 106.) c. 3. n. 10.
+bon-brev-p5-c2	5	p254-2	avicenna	metaphysica		cited		tr. 6. c. 3.	6.3	title	Avicenna Metaph. tr. 6. c. 3.
+bon-brev-p5-c3	5	p255-8	augustine			cited		Serm. 169. (alias 15. de Verbis Apostoli) c. 11. n. 13.	169.15.11.13	body-join	Augustinus … Serm. 169. (alias 15. de Verbis Apostoli) c. 11. n. 13. Cfr. tom. IV. pag. 327, nota 2. — Seq. locus est Rom. 
+bon-brev-p5-c3	5	p255-10	augustine	sermones		cited		30. (alias 12. de Verbis Apostoli) c. 8. n. 10.	30.12.8.10	title	August. … Serm. 30. (alias 12. de Verbis Apostoli) c. 8. n. 10.
+bon-brev-p5-c4	5	p256-6	augustine	de-genesi-contra-manichaeos		cited	2	c. 10. n. 14.	2.10.14	title	August. II. de Gen. contra Manich. c. 10. n. 14.
+bon-brev-p5-c4	5	p256-6	anselm	de-conceptu-virginali		cited		c. 3.	3	title	Anselm. de Conceptu virg. et orig. pecc. c. 3.
+bon-brev-p5-c4	5	p256-6	anselm	de-veritate		cited		c. 12	12	title	Anselm. … de Veritate c. 12
+bon-brev-p5-c5	5	p257-4	cicero	tusculanae		cited	4	c. 23	4.23	title	Cicero IV. Disp. Tusc. c. 23
+bon-brev-p5-c5	5	p257-7	jerome	epistolae		cited		82. (alias 62.) n. 11.	82.62.11	title	Hieron. Epist. 82. (alias 62.) n. 11.
+bon-brev-p5-c5	5	p258-2	origen	homiliae		cited		2.	2	title	Origen. Homil. 2.
+bon-brev-p5-c5	5	p258-2	origen	homiliae-in-genesim		cited		n. 5	5	title	Origen. … in Gen. n. 5
+bon-brev-p5-c5	5	p258-2	hugh-of-st-victor	allegoriae	true	cited	1	c. 13	1.13	title	Hugo a S. Vict. I. Allegor. in vetus testam. c. 13
+bon-brev-p5-c5	5	p258-2	gregory-the-great	homiliae-in-ezechielem		cited	2	homil. 4. n. 16. seq.	2.4.16	title	Gregor. II. Homil. in Ezech. homil. 4. n. 16. seq.
+bon-brev-p5-c6	5	p259-8	gregory-the-great	homiliae-in-ezechielem		cited	2	homil. 7. n. 11	2.7.11	title	Gregor. II. Homil. in Ezech. homil. 7. n. 11
+bon-brev-p5-c6	5	p259-8	bernard	de-consideratione		cited	5	c. 13. n. 32.	5.13.32	title	Bernard. V. de Considerat. c. 13. n. 32.
+bon-brev-p5-c6	5	p259-8	bernard	sermones-in-cantica		cited		serm. 62. n. 4.	62.4	title	Bernard. … Serm. in Cantic. serm. 62. n. 4.
+bon-brev-p5-c6	5	p260-1	augustine	de-genesi-ad-litteram		cited	12	c. 6. n. 15. seqq.	12.6.15	title	August. XII. de Gen. ad lit. c. 6. n. 15. seqq.
+bon-brev-p5-c8	5	p261-6	augustine	de-doctrina-christiana		cited	1	c. 23. n. 22.	1.23.22	title	August. I. de Doctr. christiana c. 23. n. 22.
+bon-brev-p5-c8	5	p261-8	augustine	de-doctrina-christiana		cited		c. 32. n. 35.	32.35	title	August. de Doctr. christiana c. 32. n. 35.
+bon-brev-p6-c1	5	p265-1	isidore	etymologiae		cited	6	c. 19. n. 40.	6.19.40	title	Isidor. VI. Etymolog. c. 19. n. 40.
+bon-brev-p6-c1	5	p265-1	hugh-of-st-victor	de-sacramentis		cited	1	p. IX. c. 2	1.9.2	title	Hug. a S. Vict. I. de Sacram. p. IX. c. 2
+bon-brev-p6-c1	5	p265-5	hugh-of-st-victor	de-sacramentis		cited	1	p. IX. c. 4.	1.9.4	title	Hug. a S. Vict. I. de Sacram. p. IX. c. 4.
+bon-brev-p6-c1	5	p265-6	hugh-of-st-victor	de-sacramentis		cited	1	p. IX. c. 5.	1.9.5	title	Hug. a S. Vict. I. de Sacram. p. IX. c. 5.
+bon-brev-p6-c1	5	p266-1	aristotle	de-anima		cited	2	text. 49. (c. 4.)	2.49.4	title	Aristot. II. de Anima text. 49. (c. 4.)
+bon-brev-p6-c10	5	p275-5	jerome	epistolae		cited		130. (alias 8.) n. 9.	130.8.9	title	Hieron. Epist. 130. (alias 8.) n. 9.
+bon-brev-p6-c11	5	p277-2	aristotle	physica		cited	2	text. 88. seqq. (c. 9.).	2.88.9	title	Aristot. II. Phys. text. 88. seqq. (c. 9.).
+bon-brev-p6-c13	5	p279-2	justinian	institutiones		cited		lib. I. tit. 9.	1.9	title	Iustinian. Institut. imper. lib. I. tit. 9.
+bon-brev-p6-c13	5	p279-2	augustine	de-genesi-ad-litteram		cited	9	c. 7. n. 12.	9.7.12	title	August. IX. de Gen. ad lit. c. 7. n. 12.
+bon-brev-p6-c13	5	p279-3	augustine	de-genesi-ad-litteram		cited	9	c. 7. n. 12.	9.7.12	title	August. IX. de Gen. ad lit. c. 7. n. 12.
+bon-brev-p6-c2	5	p266-2	augustine	contra-faustum		cited	9	c. 13	9.13	title	August. IX. contra Faustum c. 13
+bon-brev-p6-c2	5	p266-2	hugh-of-st-victor	de-sacramentis		cited	1	p. VIII. c. 12.	1.8.12	title	Hug. a S. Vict. I. de Sacram. p. VIII. c. 12.
+bon-brev-p6-c2	5	p266-2	hugh-of-st-victor	de-sacramentis		cited				anaphor	Hug. a S. Vict., locis citt.) pro sub lege gratiae. Inferius pro omnium praedictorum I K L U V omnium praeteritorum.
+bon-brev-p6-c2	5	p266-3	hugh-of-st-victor	de-sacramentis		cited	1	p. XI. c. 6	1.11.6	title	Hug. a S. Vict. I. de Sacram. p. XI. c. 6
+bon-brev-p6-c2	5	p266-6	hugh-of-st-victor	de-sacramentis		cited	1	p. XI. c. 4	1.11.4	title	Hug. a S. Vict. I. de Sacram. p. XI. c. 4
+bon-brev-p6-c5	5	p270-2	augustine			cited	4		4	body-join	Augustinus … Libr. IV. de Baptismo contra Donat. c. 1. et 2. Respicitur in ipso textu Gen. 2, 8. et 10. seqq.; Matth. 16, 1
+bon-brev-p6-c7	5	p271-8	aristotle	de-caelo		cited	1	text. 32. (c. 4.)	1.32.4	title	Aristot. I. de Caelo et mundo text. 32. (c. 4.)
+bon-brev-p6-c7	5	p271-8	aristotle	de-anima		cited	3	text. 45. (c. 9.)	3.45.9	title	Aristot. … III. de Anima text. 45. (c. 9.)
+bon-brev-p6-c7	5	p272-5	aristotle	topica		cited	1	c. 6. (c. 5.).	1.6.5	title	Aristot. I. Topic. c. 6. (c. 5.).
+bon-brev-p6-c7	5	p272-6	hugh-of-st-victor	summa-sententiarum	true	cited		tr. 3. c. 11.	3.11	title	Hugo S. Vict. Sum. Sent. tr. 3. c. 11.
+bon-brev-p6-c7	5	p272-6	hugh-of-st-victor	de-sacramentis		cited	1	p. VII. c. 31.	1.7.31	title	Hugo S. Vict. … I. de Sacram. p. VII. c. 31.
+bon-brev-p6-c8	5	p273-3	aristotle	physica		cited	2	text. 88. seqq. (c. 9.).	2.88.9	title	Aristot. II. Phys. text. 88. seqq. (c. 9.).
+bon-brev-p6-c9	5	p274-8	augustine	in-ioannis-evangelium		cited		tr. 26. n. 17.	26.17	title	August. in Ioan. Evang. tr. 26. n. 17.
+bon-brev-p7-c1	5	p281-2	gregory-the-great	homiliae-in-evangelia		cited	2	homil. 21. n. 3	2.21.3	title	Gregor. II. Homil. in Evang. homil. 21. n. 3
+bon-brev-p7-c1	5	p281-3	augustine	de-trinitate		cited	14	c. 8. n. 11.	14.8.11	title	August. XIV. de Trin. c. 8. n. 11.
+bon-brev-p7-c1	5	p282-1	augustine	de-civitate-dei		cited	20	c. 14.	20.14	body-join+note-title	Augustinus … Libr. XX. de Civ. Dei, c. 14. Pro cuncta C opera (textus originalis opera sua, vel bona vel mala cuncta).
+bon-brev-p7-c2	5	p282-7	augustine	de-civitate-dei		cited	21	c. 26. n. 4.	21.26.4	body-join+note-title	Augustinus … Libr. XXI. de Civ. Dei, c. 26. n. 4. — Paulo ante pro levius B Q et 2 lenius.
+bon-brev-p7-c3	5	p283-4	augustine	enchiridion		cited		c. 109. n. 29.	109.29	title	August. Enchirid. c. 109. n. 29.
+bon-brev-p7-c3	5	p283-6	gregory-the-great	dialogi		cited	4	Cap. 55.	4.55	body-join+title	Gregorius … Cap. 55. De praecedente cfr. IV. Sent. d. 15. p. II. — Superius voci debitus ex G H I K L M V ad iunximus Deo.
+bon-brev-p7-c3	5	p284-1	augustine	de-cura-pro-mortuis		cited		Cap. 2. n. 4.	2.4	body-join+title	Augustinus … Cap. 2. n. 4. — Superius pro accuratio F P curatio.
+bon-brev-p7-c3	5	p284-2	aristotle	de-generatione		cited	2	text. 25. (c. 4.)	2.25.4	title	Aristot. II. de Generat. et corrupt. text. 25. (c. 4.)
+bon-brev-p7-c3	5	p284-4	augustine	enchiridion		cited		c. 109. n. 29	109.29	title	August. Enchirid. c. 109. n. 29
+bon-brev-p7-c5	5	p286-2	augustine	de-civitate-dei		cited	22	c. 17.	22.17	title	August. XXII. de Civ. Dei c. 17.
+bon-brev-p7-c5	5	p286-3	augustine	enchiridion		cited		c. 88. n. 23.	88.23	title	August. Enchirid. c. 88. n. 23.
+bon-brev-p7-c5	5	p286-5	aristotle	physica		cited	1	text. 81. (c. 9.)	1.81.9	title	Aristot. I. Phys. text. 81. (c. 9.)
+bon-brev-p7-c5	5	p286-5	augustine	de-genesi-ad-litteram		cited	12	c. 35. n. 68.	12.35.68	title	August. XII. de Gen. ad lit. c. 35. n. 68.
+bon-brev-p7-c5	5	p287-1	augustine	de-civitate-dei		cited	22	c. 14.	22.14	title	August. XXII. de Civ. Dei c. 14.
+bon-brev-p7-c5	5	p287-2	aristotle	de-anima		cited	2	text. 26. (c. 2.).	2.26.2	title	Aristot. II. de Anima text. 26. (c. 2.).
+bon-brev-p7-c7	5	p289-2	augustine	de-genesi-ad-litteram		cited	12	c. 35. n. 68.	12.35.68	title	Augustinus … XII. de Gen. ad lit. c. 35. n. 68.
+bon-brev-p7-c7	5	p289-6	augustine	de-quantitate-animae		cited		c. 36. n. 80	36.80	title	August. de Quantitate animae c. 36. n. 80
+bon-brev-p7-c7	5	p289-6	augustine	enarrationes-in-psalmos		cited		145. n. 5.	145.5	title	August. … Enarrat. in Ps. 145. n. 5.
+bon-brev-p7-c7	5	p289-9	boethius	de-consolatione		cited	3	prosa 2	3.2	title	Boeth. III. de Consol. prosa 2
+bon-brev-p7-c7	5	p290-5	anselm			cited		Cap. 24	24	body-join	Anselmi … Cap. 24: Excita nunc etc. — Vat., 1 et 3 Excitare nunc. Inferius post potes codd. et 2 omittunt quale et quant
+bon-brev-p7-c7	5	p290-6	anselm			cited		c. 25.	25	anaphor-unresolved	Anselm. loc. cit. c. 25.
+bon-brev-p7-c7	5	p291-5	anselm			cited		c. 26.	26	anaphor-unresolved	Anselm. loc. cit. c. 26.
+bon-brev-prol-s1	5	p202-10	jerome	prologus-galeatus		cited				title	Hieron. in I. Reg.
+bon-brev-prol-s1	5	p203-1	jerome			same-passage				here	Hieron. in hunc loc. et
+bon-brev-prol-s1	5	p203-1	gregory-the-great	homiliae-in-ezechielem		cited	1	homil. 6. n. 12.	1.6.12	title	Gregor. I. Homil. in Ezech. homil. 6. n. 12.
+bon-brev-prol-s1	5	p203-2	aristotle	metaphysica		cited	2	text. 3. (I. brevior, c. 1.)	2.3.1.1	title	Aristot. II. Metaph. text. 3. (I. brevior, c. 1.)
+bon-brev-prol-s1	5	p203-2	aristotle	ethica-nicomachea		cited	2	c. 1. seq.	2.1	title	Aristot. … II. Ethic. c. 1. seq.
+bon-brev-prol-s2	5	p203-8	augustine	de-genesi-ad-litteram		cited	4	c. 11. n. 21	4.11.21	title	August. IV. de Gen. ad lit. c. 11. n. 21
+bon-brev-prol-s2	5	p203-8	augustine	epistolae		cited		55. (alias 119.) c. 13. n. 23	55.119.13.23	title	August. … Epist. 55. (alias 119.) c. 13. n. 23
+bon-brev-prol-s2	5	p203-8	augustine	de-genesi-contra-manichaeos		cited	1	c. 23. n. 35. seqq.	1.23.35	title	August. … I. de Gen. contra Manich. c. 23. n. 35. seqq.
+bon-brev-prol-s2	5	p204-2	aristotle	physica		cited	2	text. 24. (c. 2.)	2.24.2	title	Aristot. II. Phys. text. 24. (c. 2.)
+bon-brev-prol-s2	5	p204-6	augustine	de-genesi-contra-manichaeos		cited	1	c. 23. n. 35	1.23.35	title	August. I. de Gen. contra Manich. c. 23. n. 35
+bon-brev-prol-s2	5	p204-7	augustine	epistolae		cited		138. (alias 5.) c. 1. n. 5.	138.5.1.5	title	August. Epist. 138. (alias 5.) c. 1. n. 5.
+bon-brev-prol-s3	5	p205-4	augustine	enarrationes-in-psalmos		cited		32. enarrat. 3. n. 25	32.3.25	title	August. Enarrat. in Ps. 32. enarrat. 3. n. 25
+bon-brev-prol-s4	5	p205-5	jerome	in-ezechielem		cited	5	16, 30. seq.	5.16.30	title	Hieron. V. Comment. in Ezech. 16, 30. seq.
+bon-brev-prol-s4	5	p205-5	hugh-of-st-victor	de-scripturis		cited		c. 3. seqq.	3	title	Hugo a S. Vict. de Scripturis et scriptor. sacris c. 3. seqq.
+bon-brev-prol-s4	5	p205-5	alexander-of-hales	summa		cited		p. I. q. 1. m. 4. a. 3. seqq.	1.1.4.3	title	Alex. Hal. S. p. I. q. 1. m. 4. a. 3. seqq.
+bon-brev-prol-s4	5	p205-7	alexander-of-hales	summa		cited		p. I. q. 1. m. 3.	1.1.3	title	Alex. Hal. S. p. I. q. 1. m. 3.
+bon-brev-prol-s4	5	p205-7	dionysius	de-caelesti-hierarchia		cited		c. 11. § 2	11.2	title	Dionys. de Caelest. Hierarch. c. 11. § 2
+bon-brev-prol-s4	5	p206-1	augustine	de-doctrina-christiana		cited	2	c. 41. n. 62. seq.	2.41.62	title	August. II. de Doctr. christiana c. 41. n. 62. seq.
+bon-brev-prol-s4	5	p206-4	origen	homiliae-in-leviticum		cited		homil. 1. n. 1.	1.1	title	Origen. in Lev. homil. 1. n. 1.
+bon-brev-prol-s5	5	p206-10	aristotle	ethica-nicomachea		cited	2	c. 2	2.2	title	Aristot. II. Ethic. c. 2
+bon-brev-prol-s5	5	p206-11	aristotle	analytica-posteriora		cited	1	c. 7	1.7	title	Aristot. I. Poster. c. 7
+bon-brev-prol-s5	5	p206-11	augustine	de-doctrina-christiana		cited	2	c. 34. 36. n. 48. 54.	2.34.36.48.54	title	August. II. de Doctr. christiana c. 34. 36. n. 48. 54.
+bon-brev-prol-s5	5	p207-1	aristotle	analytica-posteriora		cited	1	c. 14. (c. 18.)	1.14.18	title	Aristot. I. Poster. c. 14. (c. 18.)
+bon-brev-prol-s5	5	p207-1	aristotle	de-anima		cited	2	text. 60. (c. 5.).	2.60.5	title	Aristot. … II. de Anima text. 60. (c. 5.).
+bon-brev-prol-s5	5	p207-1	augustine	de-genesi-ad-litteram		cited	2	c. 5. n. 9	2.5.9	title	August. II. de Gen. ad lit. c. 5. n. 9
+bon-brev-prol-s6	5	p207-8	augustine	de-doctrina-christiana		cited	3	c. 10. n. 14. seqq.	3.10.14	body-join+title	Augustini … Libr. III. c. 10. n. 14. seqq. Cfr. ibid. II. c. 9. n. 14. seqq. — Inferius voci fidem L praefigit nudam.
+bon-brev-prol	5	p201-5	aristotle	analytica-posteriora		cited	1	c. 7. seqq.	1.7	title	Aristot. I. Poster. c. 7. seqq.
+bon-brev-prol	5	p201-5	aristotle	metaphysica		cited	6	text. 1. seqq. (V. c. 1.).	6.1.5.1	title	Aristot. … VI. Metaph. text. 1. seqq. (V. c. 1.).
+bon-eccl-c1-v1	6	p10-1	jerome	in-ecclesiasten		cited		1, 1	1.1	title	Hieron. Comment. in Eccle. 1, 1
+bon-eccl-c1-v1	6	p10-3	jerome	in-ecclesiasten		cited		1, 1.	1.1	body-join+note-title	Hieronymus … Comment. in Eccle. 1, 1.
+bon-eccl-c1-v12-15	6	p19-1	augustine	enarrationes-in-psalmos		cited		57, 9. n. 18.	57.9.18	title	August. Enarrat. in Ps. 57, 9. n. 18.
+bon-eccl-c1-v12-15	6	p19-2	john-damascene	de-fide-orthodoxa		cited	4	c. 20	4.20	title	Damasc. IV. de Fide orthod. c. 20
+bon-eccl-c1-v12-15	6	p19-3	aristotle	magna-moralia		cited	1	c. 22. (c. 25.)	1.22.25	title	Aristot. I. Magnor. Moral. c. 22. (c. 25.)
+bon-eccl-c1-v12-15	6	p19-3	aristotle	ethica-nicomachea		cited	2	c. 6.	2.6	title	Aristot. … II. Ethic. c. 6.
+bon-eccl-c1-v12-15	6	p19-3	aristotle	categoriae		cited		c. de Oppositis		title	Aristot. … Praedicam. c. de Oppositis
+bon-eccl-c1-v16-18	6	p19-9	glossa	interlinearis		cited				title	Glossa [interlinearis
+bon-eccl-c1-v16-18	6	p19-9	jerome	in-ecclesiasten		cited		1, 18.	1.18	title	Hieron. in Eccle. 1, 18.
+bon-eccl-c1-v16-18	6	p20-1	augustine	enarrationes-in-psalmos		cited		98. n. 12.	98.12	title	August. in Ps. 98. n. 12.
+bon-eccl-c1-v2-7	6	p10-8	aristotle	physica		cited	2	text. 88. seqq. (c. 9.).	2.88.9	title	Aristot. II. Phys. text. 88. seqq. (c. 9.).
+bon-eccl-c1-v2-7	6	p11-4	hugh-of-st-victor	in-ecclesiasten		cited		homil. 1.	1	title	Hug. a S. Vict. in Eccle. homil. 1.
+bon-eccl-c1-v2-7	6	p11-12	augustine	de-genesi-ad-litteram		cited	2	c. 8. n. 16. seqq., IV. c. 23. n. 40. seq. et c. 29. n. 46.	2.8.16.4.23	title	August. II. de Gen. ad lit. c. 8. n. 16. seqq., IV. c. 23. n. 40. seq. et c. 29. n. 46.
+bon-eccl-c1-v2-7	6	p12-8	aristotle	meteorologica		cited	2	c. 4	2.4	body-join+note-title	Aristotelem … Libr. II. Meteor. c. 4; ibid. I. Sum. 4. c. 1. (c. 13.) affertur etiam opinio illorum philosophorum, qui dicun
+bon-eccl-c1-v2-7	6	p12-10	isidore	etymologiae		cited	13	c. 11. n. 2. seqq.	13.11.2	title	Isidor. XIII. Etymolog. c. 11. n. 2. seqq.
+bon-eccl-c1-v2-7	6	p13-1	glossa	ordinaria		cited				title	Glossa … ordinaria
+bon-eccl-c1-v2-7	6	p13-1	jerome	in-ecclesiasten		same-passage				here	Hieron. in hunc locum.
+bon-eccl-c1-v2-7	6	p13-7	augustine	enarrationes-in-psalmos		cited		52. n. 5.	52.5	title	August. Enarrat. in Ps. 52. n. 5.
+bon-eccl-c1-v2-7	6	p15-3	aristotle	de-generatione		cited	2	text. 56. (c. 10.)	2.56.10	title	Aristot. II. de Generat. et corrupt. text. 56. (c. 10.)
+bon-eccl-c1-v2-7	6	p15-4	aristotle	meteorologica		cited	2	c. 3	2.3	title	Philosophus … II. Meteor. c. 3
+bon-eccl-c1-v8-11	6	p15-6	aristotle	de-sensu		cited				title	Aristot. de Sensu
+bon-eccl-c1-v8-11	6	p15-6	aristotle	metaphysica		cited	1	c. 1.	1.1	title	Aristot. … I. Metaph. c. 1.
+bon-eccl-c1-v8-11	6	p16-4	aristotle	metaphysica		cited	4	text. 8. (III. c. 3.)	4.8.3.3	title	Aristot. IV. Metaph. text. 8. (III. c. 3.)
+bon-eccl-c1-v8-11	6	p16-4	aristotle	de-anima		cited	2	text. 63. et 161. (II. c. 6. et III. c. 3.)	2.63.161.2.6	title	Aristot. … II. de Anima text. 63. et 161. (II. c. 6. et III. c. 3.)
+bon-eccl-c1-v8-11	6	p16-6	aristotle	ethica-nicomachea		cited	1	c. 2	1.2	title	Aristot. I. Ethic. c. 2
+bon-eccl-c1-v8-11	6	p16-7	hugh-of-st-victor	in-ecclesiasten		cited		homil. 2	2	title	Hug. a S. Vict. in Eccle. homil. 2
+bon-eccl-c1-v8-11	6	p16-7	aristotle	de-anima		cited	3	text. 8. (c. 4.)	3.8.4	title	Aristot. III. de Anima text. 8. (c. 4.)
+bon-eccl-c1-v8-11	6	p16-7	aristotle	de-sensu		cited				title	Aristot. … de Sensu
+bon-eccl-c1-v8-11	6	p17-2	augustine	confessiones		cited	1	c. 1. n. 1.	1.1.1	title	Augustinus I. Confess. c. 1. n. 1.
+bon-eccl-c1-v8-11	6	p17-5	augustine	de-genesi-ad-litteram		cited				title	August. de Gen. ad lit.
+bon-eccl-c1-v8-11	6	p17-5	plato	timaeus		cited		(ed. Serrani tom. III. pag. 39)	3.39	title	Plato Timaeus (ed. Serrani tom. III. pag. 39)
+bon-eccl-c1-v8-11	6	p17-5	jerome	in-ecclesiasten		cited		1, 10.	1.10	title	Hieron. Comment. in Eccle. 1, 10.
+bon-eccl-c1-v8-11	6	p17-7	aristotle	de-generatione		cited	2	in fine	2	title	Aristot. II. de Generat. et corrupt. in fine
+bon-eccl-c10-v1-3	6	p80-7	aristotle	de-interpretatione		cited	2	c. 4. (c. 14.)	2.4.14	title	Aristot. II. Periherm. c. 4. (c. 14.)
+bon-eccl-c10-v1-3	6	p80-8	aristotle	ethica-nicomachea		cited	2	c. 1	2.1	title	Aristot. II. Ethic. c. 1
+bon-eccl-c10-v12-20	6	p86-2	aristotle	de-sophisticis-elenchis		cited	1	c. 14. (c. 15.)	1.14.15	title	Aristot. I. Elench. c. 14. (c. 15.)
+bon-eccl-c10-v12-20	6	p86-2	aristotle	de-caelo		cited	2	text. 40. (c. 6.)	2.40.6	title	Aristot. … II. de Caelo et mundo text. 40. (c. 6.)
+bon-eccl-c10-v12-20	6	p86-4	glossa			same-passage				here	Glossa interlinearis in hunc locum apud Lyranum: Tigna congeries lapidum vel domorum [Card.
+bon-eccl-c10-v12-20	6	p86-4	hugh-of-st-cher	postilla		same-passage				here	Hugo a S. Charo in hunc locum: contignatio, id est tignorum constructio; tigna sunt ligna aedificii, quae in gallico caprones (chevrons) dic
+bon-eccl-c10-v12-20	6	p86-4	jerome	in-ecclesiasten		same-passage				here	Hieron., Comment. in hunc locum.
+bon-eccl-c10-v12-20	6	p87-4	augustine	de-genesi-ad-litteram		cited	12	c. 17. n. 34	12.17.34	body-join+note-title	Augustinus … Libr. XII. de Gen. ad lit. c. 17. n. 34: Certissimis tamen indiciis apud nos consistit, enuntiatas a daemonibu
+bon-eccl-c10-v12-20	6	p87-7	gregory-the-great	moralia		cited	2	c. 8. n. 14. seq.	2.8.14	title	Gregor. II. Moral. c. 8. n. 14. seq.
+bon-eccl-c10-v4-7	6	p81-3	jerome	in-ecclesiasten		same-passage				here	Hieron., Comment. in hunc locum: Symmachus verbum Hebraicum marphe, quod omnes ἴαμα, hoc est sanitatem vel curationem, similiter transtuleru
+bon-eccl-c10-v4-7	6	p81-5	jerome	in-ecclesiasten		same-passage				here	Hieron. in hunc locum.
+bon-eccl-c10-v4-7	6	p81-9	seneca	epistolae-ad-lucilium		cited		37	37	title	Seneca Epist. 37
+bon-eccl-c10-v4-7	6	p81-9	seneca	epistolae-ad-lucilium		cited		113. (alias 114.) circa finem	113.114	title	Seneca … Epist. 113. (alias 114.) circa finem
+bon-eccl-c10-v4-7	6	p82-2	augustine	enarrationes-in-psalmos		cited		32. enarrat. 3. n. 12	32.3.12	title	August. Enarrat. in Ps. 32. enarrat. 3. n. 12
+bon-eccl-c10-v4-7	6	p82-2	augustine	enarrationes-in-psalmos		cited		103. serm. 3. n. 22.	103.3.22	title	August. … in Ps. 103. serm. 3. n. 22.
+bon-eccl-c10-v4-7	6	p82-2	augustine	ad-simplicianum		cited	2	q. 1. n. 4.	2.1.4	title	August. … lib. II. de Diversis Qq. ad Simplician. q. 1. n. 4.
+bon-eccl-c10-v4-7	6	p82-6	ambrose	de-abraham		cited	2	c. 11. n. 79	2.11.79	title	Ambros. II. de Abraham c. 11. n. 79
+bon-eccl-c10-v4-7	6	p82-7	justinian	digesta		cited	1	tit. 6.	1.6	title	Iustinian. I. Dig. tit. 6.
+bon-eccl-c10-v4-7	6	p82-10	gregory-the-great	moralia		cited	25	c. 16. n. 34. seqq.	25.16.34	title	Gregor. XXV. Moral. c. 16. n. 34. seqq.
+bon-eccl-c10-v4-7	6	p82-11	alan-of-lille	contra-haereticos		cited	2	c. 2-6	2.2.6	title	Alan. ab Insulis II. contra Haereticos c. 2-6
+bon-eccl-c10-v8-11	6	p84-7	alexander-of-hales	summa		cited		p. II. q. 130. per totam	2.130	title	Alex. Hal. S. p. II. q. 130. per totam
+bon-eccl-c11-v1-10	6	p89-5	avicenna	canon		cited	1	Fen 1. doctr. 6. c. 2	1.1.6.2	title	Avicenna I. Canon. Fen 1. doctr. 6. c. 2
+bon-eccl-c11-v1-10	6	p89-5	avicenna	canon		cited	3	Fen 21. tr. 1. c. 2. in fine	3.21.1.2	title	Avicenna … III. Canon. Fen 21. tr. 1. c. 2. in fine
+bon-eccl-c11-v1-10	6	p89-5	avicenna	de-anima		cited		(Sexto Naturalium) p. II. c. 1.	2.1	title	Avicenna … de Anima (Sexto Naturalium) p. II. c. 1.
+bon-eccl-c11-v1-10	6	p89-8	aristotle	topica		cited	3	c. 2.	3.2	title	Aristot III. Topic. c. 2.
+bon-eccl-c11-v1-10	6	p90-3	jerome	in-ecclesiasten		same-passage				here	Hieron., Comment. in hunc locum, ubi inter alia dicit: « Praecipitur ergo, ut in utrumque instrumentum, tam vetus scilicet quam novum, pari 
+bon-eccl-c11-v1-10	6	p90-3	augustine	epistolae		cited		55. (alias 119.) c. 13. n. 23.	55.119.13.23	title	August. Epist. 55. (alias 119.) c. 13. n. 23.
+bon-eccl-c11-v1-10	6	p90-5	jerome	in-ecclesiasten		same-passage				here	Hieron., Comment. in hunc locum Eccle.: « Nubes igitur sunt prophetae et omnis vir sanctus, qui, cum plures in corde suo congregaverit disci
+bon-eccl-c11-v1-10	6	p90-5	augustine	enarrationes-in-psalmos		cited		10. n. 10	10.10	title	August. Enarrat. in Ps. 10. n. 10
+bon-eccl-c11-v1-10	6	p90-5	augustine	enarrationes-in-psalmos		cited		35. n. 8	35.8	title	August. … in Ps. 35. n. 8
+bon-eccl-c11-v1-10	6	p90-5	augustine	enarrationes-in-psalmos		cited		103. serm. 1. n. 11.	103.1.11	title	August. … in Ps. 103. serm. 1. n. 11.
+bon-eccl-c11-v1-10	6	p90-5	gregory-the-great	moralia		cited	17	c. 31. n. 36.	17.31.36	title	Gregor. XVII. Moral. c. 31. n. 36.
+bon-eccl-c11-v1-10	6	p90-7	jerome	in-ecclesiasten		same-passage				here	Hieron., Comment. in hunc locum.
+bon-eccl-c11-v1-10	6	p91-3	jerome	in-ecclesiasten		same-passage				here	Hieron., Comment. in hunc locum, dat duplicem explicationem; prima est: « Porro si et multis annis vixeris et omnia bona habueris vel bona o
+bon-eccl-c11-v1-10	6	p91-3	augustine	de-civitate-dei		cited	20	c. 23.	20.23	title	August. XX. de Civ. Dei c. 23.
+bon-eccl-c12-v1-14	6	p93-4	aristotle	de-partibus-animalium		cited	2	c. 9	2.9	body-join+note-title	Philosophus … Libr. II. de Partib. animal. c. 9: Ut enim qui ex limo aut alia massa humida animal effingunt firmo aliquo sub
+bon-eccl-c12-v1-14	6	p93-5	aristotle	de-partibus-animalium		cited	4	c. 10.	4.10	title	Aristot. IV. de Partib. animal. c. 10.
+bon-eccl-c12-v1-14	6	p94-2	jerome	in-ecclesiasten		same-passage				here	Hieron., Comment. in hunc locum, ait: In eo vero, ubi nos habemus capparim, in Hebraeo habet abiona, quod et ipsum ambiguum est interpretatu
+bon-eccl-c12-v1-14	6	p94-5	jerome	in-ecclesiasten		same-passage				here	Hieron. in hunc locum.
+bon-eccl-c12-v1-14	6	p98-5	augustine	epistolae		cited				title	August. … Epist.
+bon-eccl-c12-v1-14	6	p99-3	boethius			cited	5	prosa 6	5.6	body-join	Boethius … Libr. V. prosa 6: Magna vobis est, si dissimulare non vultis, necessitas indicta probitatis, cum ante oculos a
+bon-eccl-c2-v1-3	6	p21-2	aristotle	metaphysica		cited	1	c. 1.	1.1	title	Aristot. I. Metaph. c. 1.
+bon-eccl-c2-v11-17	6	p25-8	augustine	enarrationes-in-psalmos		cited		70. serm. 2. n. 6. seq.	70.2.6	title	August. Enarrat. in Ps. 70. serm. 2. n. 6. seq.
+bon-eccl-c2-v18-26	6	p27-3	bernard	sermones		cited				title	Bernard. … Serm.
+bon-eccl-c2-v18-26	6	p27-3	bernard	de-conversione		cited				title	Bernard. … libro de conversione
+bon-eccl-c2-v4-10	6	p22-7	glossa	ordinaria		cited				title	Glossa [ordinaria]
+bon-eccl-c2-v4-10	6	p23-2	aristotle	ethica-nicomachea		cited	6	c. 12	6.12	title	Aristot. VI. Ethic. c. 12
+bon-eccl-c2-v4-10	6	p23-4	augustine	confessiones		cited	10	c. 33. n. 50	10.33.50	body-join+title	Augustinus … Libr. X. c. 33. n. 50: Tamen cum mihi accidit, ut me amplius cantus quam res, quae canitur, moveat, poenaliter
+bon-eccl-c2-v4-10	6	p23-5	jerome	in-ecclesiasten		cited		2, 7	2.7	title	Hieron. Comment. in Eccle. 2, 7
+bon-eccl-c2-v4-10	6	p23-6	jerome	in-ecclesiasten		same-passage				here	Hieron., in hunc locum, ait. Quod autem ait: Qui fuerunt ante me in Ierusalem, de his dicit, qui ante adventum suum congregationem Sanctorum
+bon-eccl-c2-v4-10	6	p23-7	bernard	sermones-in-cantica		cited		serm. 50. n. 6	50.6	title	Bernard. in Cantic. serm. 50. n. 6
+bon-eccl-c2-v4-10	6	p23-8	cicero	tusculanae		cited	5	c. 3.	5.3	title	Cicero V. Tuscul. Disp. c. 3.
+bon-eccl-c2-v4-10	6	p23-8	cicero	de-officiis		cited	2	c. 2.	2.2	title	Cicero … II. de Offic. c. 2.
+bon-eccl-c3-v1	6	p28-4	aristotle	physica		cited	4	text. 114. seqq. (c. 12.).	4.114.12	title	Aristot. IV. Phys. text. 114. seqq. (c. 12.).
+bon-eccl-c3-v1	6	p28-5	augustine	de-genesi-ad-litteram		cited	8	c. 20. n. 39.	8.20.39	title	August. … VIII. de Gen. ad lit. c. 20. n. 39.
+bon-eccl-c3-v1	6	p28-6	john-damascene	de-fide-orthodoxa		cited	1	c. 13.	1.13	body-join+note-title	Damascenus … Libr. I. de Fide orthod. c. 13.
+bon-eccl-c3-v1	6	p28-7	peter-of-spain	summulae-logicales		cited		tr. de Distribution.		title	Petr. Hispan. Summul. tr. de Distribution.
+bon-eccl-c3-v1	6	p29-5	aristotle	de-caelo		cited	3	text. 52. seqq. (c. 6. seqq.)	3.52.6	title	Aristot. III. de Caelo text. 52. seqq. (c. 6. seqq.)
+bon-eccl-c3-v1	6	p29-5	aristotle	de-generatione		cited	2	text. 7. seqq. (c. 2. seqq.).	2.7.2	title	Aristot. … II. de Generat. et corrupt. text. 7. seqq. (c. 2. seqq.).
+bon-eccl-c3-v1	6	p29-6	bede			same-passage				here	Beda in hunc locum.
+bon-eccl-c3-v1	6	p29-6	jerome	in-matthaeum		cited		24, 35	24.35	title	Hieron. in Matth. 24, 35
+bon-eccl-c3-v1	6	p29-6	bede	in-marcum		cited		13, 31.	13.31	title	Beda … in Marc. 13, 31.
+bon-eccl-c3-v16-22	6	p35-2	gregory-the-great	homiliae-in-evangelia		cited	2	homil. 29. n. 2	2.29.2	title	Gregor. II. Homil. in Evang. homil. 29. n. 2
+bon-eccl-c3-v16-22	6	p35-2	gregory-the-great	moralia		cited	6	c. 16. n. 20	6.16.20	title	Gregor. … VI. Moral. c. 16. n. 20
+bon-eccl-c3-v16-22	6	p35-2	augustine	sermones		cited		43. (alias 27. de Verbis Apostoli) c. 3. n. 4.	43.27.3.4	title	August. Serm. 43. (alias 27. de Verbis Apostoli) c. 3. n. 4.
+bon-eccl-c3-v16-22	6	p36-5	aristotle	de-anima		cited	2	text. 150. seqq. (III. c. 3.)	2.150.3.3	title	Aristot. II. de Anima text. 150. seqq. (III. c. 3.)
+bon-eccl-c3-v16-22	6	p36-5	aristotle	de-memoria		cited		c. 1.	1	title	Aristot. … de Memoria et reminisc. c. 1.
+bon-eccl-c3-v16-22	6	p36-8	aristotle	de-anima		cited	3	text. 4. (c. 4.)	3.4.4	title	Aristot. III. de Anima text. 4. (c. 4.)
+bon-eccl-c3-v16-22	6	p37-2	john-damascene	de-fide-orthodoxa		cited	2	c. 23	2.23	title	Damasc. II. de Fide orthod. c. 23
+bon-eccl-c3-v2-8	6	p29-9	aristotle	ethica-nicomachea		cited	2	c. 3	2.3	title	Aristot. II. Ethic. c. 3
+bon-eccl-c3-v2-8	6	p32-4	augustine	de-musica		cited	6	c. 11. n. 30	6.11.30	body-join+note-title	Augustinus … Libr. VI. de Musica, c. 11. n. 30; de Vera Relig. c. 22. n. 42. seq.; Epist. 138. (alias 5.) c. 1. n. 5.
+bon-eccl-c3-v2-8	6	p32-5	augustine	enarrationes-in-psalmos		cited		118. serm. 31. n. 4	118.31.4	title	August. Enarrat. in Ps. 118. serm. 31. n. 4
+bon-eccl-c3-v2-8	6	p32-5	augustine	de-genesi-ad-litteram		cited	4	c. 2. n. 5	4.2.5	title	August. IV. de Gen. ad lit. c. 2. n. 5
+bon-eccl-c3-v9-15	6	p33-3	jerome	in-ecclesiasten		same-passage				here	Hieron. in hunc loc.) et interlinearis apud Lyranum. Abbas Rupert. Tuitiens. exponit hunc locum, sicut
+bon-eccl-c3-v9-15	6	p33-3	glossa	interlinearis		cited				title	Glossa … interlinearis
+bon-eccl-c3-v9-15	6	p33-5	aristotle	de-generatione		cited	1	text. 17. (c. 3.)	1.17.3	title	Aristot. I. de Generat. et corrupt. text. 17. (c. 3.)
+bon-eccl-c3-v9-15	6	p33-5	aristotle	metaphysica		cited	2	text. 7. (I. brevior, c. 2.).	2.7.1.2	title	Aristot. … II. Metaph. text. 7. (I. brevior, c. 2.).
+bon-eccl-c3-v9-15	6	p34-1	aristotle	physica		cited	2	text. 38. (c. 3.).	2.38.3	title	Aristot. II. Phys. text. 38. (c. 3.).
+bon-eccl-c3-v9-15	6	p34-6	aristotle	de-generatione		cited	2	text. 59. (c. 10.).	2.59.10	title	Aristot. II. de Generat. et corrupt. text. 59. (c. 10.).
+bon-eccl-c3-v9-15	6	p34-7	augustine	enchiridion		cited		c. 10. n. 3	10.3	title	August. Enchirid. c. 10. n. 3
+bon-eccl-c4-v1-6	6	p38-1	hugh-of-st-victor	in-ecclesiasten		cited		homil. 1	1	title	Hug. a S. Vict. in Eccle. homil. 1
+bon-eccl-c4-v1-6	6	p38-6	aristotle	topica		cited	2	c. 3. (c. 9.)	2.3.9	title	Aristot. II. Topic. c. 3. (c. 9.)
+bon-eccl-c4-v1-6	6	p38-8	augustine	de-libero-arbitrio		cited	3	c. 6-9. n. 18-24.	3.6.9.18.24	body-join+note-title	Augustinus … Libr. III. de Lib. Arb. c. 6-9. n. 18-24.
+bon-eccl-c4-v13-16	6	p41-5	jerome	in-ecclesiasten		cited		4, 13	4.13	title	Hieron. Comment. in Eccle. 4, 13
+bon-eccl-c4-v7-12	6	p40-4	seneca	epistolae-ad-lucilium		cited		7	7	title	Seneca Epist. 7
+bon-eccl-c4-v7-12	6	p40-10	bernard			cited		Serm. 40. n. 5	40.5	body-join	Bernardus … Serm. 40. n. 5: Solus es in quantacumque hominum verseris frequentia, tantum cave alienae conversationis esse 
+bon-eccl-c5-v1-8	6	p42-5	gregory-the-great	moralia		cited	35	c. 14 n. 28	35.14.28	body-join+note-title	Gregorius … Libr. XXXV. Moral. c. 14 n. 28: Hinc Samuel [I. Reg. 15, 22.] ait: Melior est obedientia quam victimae... Obed
+bon-eccl-c5-v1-8	6	p42-6	aristotle	physica		cited	7	text. 21. seqq. (c. 4.).	7.21.4	title	Aristot. VII. Phys. text. 21. seqq. (c. 4.).
+bon-eccl-c5-v1-8	6	p43-2	seneca	epistolae-ad-lucilium		cited		40. in fine	40	title	Seneca Epist. 40. in fine
+bon-eccl-c5-v1-8	6	p43-5	peter-lombard			same-passage				here	Petr. Lombard., in hunc locum, secundum
+bon-eccl-c5-v1-8	6	p43-6	isidore	synonyma		cited	2	n. 58.	2.58	body-join+note-title	Isidorus … Libr. II. Synonym. n. 58. Cfr. III. Sent. lit. Magistri, d. XXXIX. c. 9; ibid. c. 1. agitur etiam de tribus iu
+bon-eccl-c5-v1-8	6	p44-5	gregory-ix	decretales		cited		lib. II. tit. 1.	2.1	default-work	Decret. Gregor. lib. II. tit. 1.) de Iudiciis dicitur: Ne videatur de sua malitia commodum reportare.
+bon-eccl-c5-v1-8	6	p44-8	isidore	synonyma		cited	2	n. 58.	2.58	body-join+note-title	Isidorus … Libr. II. Synonym. n. 58.
+bon-eccl-c5-v1-8	6	p45-8	aristotle	ethica-nicomachea		cited	9	c. 7	9.7	title	Aristot. IX. Ethic. c. 7
+bon-eccl-c5-v1-8	6	p45-10	alexander-of-hales	summa		cited		p. I. q. 26. m. 8. a. 2	1.26.8.2	title	Alex. Hal. S. p. I. q. 26. m. 8. a. 2
+bon-eccl-c5-v1-8	6	p45-10	augustine	de-libero-arbitrio		cited	3	c. 2. n. 5.	3.2.5	title	August. III. de Lib. Arb. c. 2. n. 5.
+bon-eccl-c5-v1-8	6	p45-11	boethius	de-consolatione		cited	4	prosa 6	4.6	body-join+note-title	Boethius … Libr. IV. de Consol. prosa 6: Ordo enim quidam cuncta complectitur, ut quod ab assignata ordinis ratione disce
+bon-eccl-c5-v1-8	6	p45-12	augustine	de-genesi-ad-litteram		cited	3	c. 10. n. 14.	3.10.14	body-join+note-title	Augustini … Libr. III. de Gen. ad lit. c. 10. n. 14. ipse distinguit duplicem partem aëris, scil. superiorem, quae « propt
+bon-eccl-c5-v1-8	6	p46-1	alexander-of-hales	summa		cited		p. I. q. 26. m. 1. et m. 8. a. 2.	1.26.1.8.2	title	Alex. Hal. S. p. I. q. 26. m. 1. et m. 8. a. 2.
+bon-eccl-c5-v9-11	6	p46-3	jerome	epistolae		cited		100.	100	title	Hieron. Epist. 100.
+bon-eccl-c5-v9-11	6	p46-3	jerome	epistolae		cited				title	Hieron. … Epist.
+bon-eccl-c5-v9-11	6	p46-3	seneca	epistolae-ad-lucilium		cited		119. (alias 120.)	119.120	title	Seneca Epist. 119. (alias 120.)
+bon-eccl-c5-v9-11	6	p46-3	seneca	epistolae-ad-lucilium		cited		16.	16	title	Seneca … Epist. 16.
+bon-eccl-c5-v9-11	6	p47-6	bernard	de-consideratione		cited	2	c. 6. n. 10	2.6.10	body-join+note-title	Bernardus … Libr. II. de Considerat. c. 6. n. 10: Ipsa [argentum et aurum] quidem, quod ad animi bonum spectat, nec bona s
+bon-eccl-c5-v9-11	6	p47-8	aristotle	ethica-nicomachea		cited	2	c. 3	2.3	title	Aristot. II. Ethic. c. 3
+bon-eccl-c6-v1-7	6	p51-3	aristotle	metaphysica		cited	1	c. 1	1.1	title	Aristot. … I. Metaph. c. 1
+bon-eccl-c6-v1-7	6	p51-8	augustine	de-diversis-quaestionibus-83		cited		q. 30	30	title	August. 83 Qq. q. 30
+bon-eccl-c6-v1-7	6	p52-2	augustine	de-diversis-quaestionibus-83		cited		Quaest. 35	35	body-join+title	Augustinus … Quaest. 35, ubi dicit: Cuius ergo rei amor amandus est, nisi eius quae non potest deesse, dum amatur? Id autem
+bon-eccl-c6-v8-11	6	p53-3	gregory-the-great	moralia		cited	9	c. 2. n. 2	9.2.2	title	Gregor. IX. Moral. c. 2. n. 2
+bon-eccl-c7-v1	6	p54-1	augustine	de-trinitate		cited	8	c. 4. n. 6. seqq.	8.4.6	body-join+note-title	Augustinus … Libr. VIII. de Trin. c. 4. n. 6. seqq. et X. c. 1. n. 1. seqq. haec sententia fusius ostenditur.
+bon-eccl-c7-v1	6	p54-5	augustine	enarrationes-in-psalmos		cited		58. serm. 1. n. 18	58.1.18	body-join+note-title	Augustinus … Enarrat. in Ps. 58. serm. 1. n. 18: Est quaedam 〈 〉rigo fonsque virtutis, est quaedam radix sapientiae, est qu
+bon-eccl-c7-v1	6	p54-8	aristotle	de-anima		cited	3	text. 18. (c. 5.)	3.18.5	title	Aristot. III. de Anima text. 18. (c. 5.)
+bon-eccl-c7-v1	6	p54-9	aristotle	categoriae		cited		c. de His quae ad		title	Aristot. de Praedicam. c. de His quae ad
+bon-eccl-c7-v1	6	p54-9	aristotle	analytica-posteriora		cited	1	c. 14. (c. 18.)	1.14.18	title	Aristot. … I. Poster. c. 14. (c. 18.)
+bon-eccl-c7-v1	6	p54-9	aristotle	ethica-nicomachea		cited	1	c. 10.	1.10	title	Aristot. … I. Ethic. c. 10.
+bon-eccl-c7-v11-16	6	p57-10	aristotle	ethica-nicomachea		cited	6	c. 5. et 8. seqq.	6.5.8	title	Aristot. VI. Ethic. c. 5. et 8. seqq.
+bon-eccl-c7-v11-16	6	p58-1	rabanus-maurus			same-passage				here	Raban. in hos locos; in primo (17, 18.) concordat cum Vulgata, in secundo (29, 16.) legit: Eleemosyna viri quasi sacculus cum ipso etc.; Car
+bon-eccl-c7-v11-16	6	p58-7	aristotle	ethica-nicomachea		cited	2	c. 3.	2.3	title	Aristot. II. Ethic. c. 3.
+bon-eccl-c7-v11-16	6	p59-6	augustine			cited		Cap. 5. n. 7. seqq. et c. 14. n. 43. seq.	5.7.14.43	body-join	Augustinus … Cap. 5. n. 7. seqq. et c. 14. n. 43. seq. Secunda manus in E sententiam Augustini ita explicat: quia nemo corr
+bon-eccl-c7-v17-23	6	p60-8	aristotle	ethica-nicomachea		cited	2	c. 6.	2.6	title	Aristot. II. Ethic. c. 6.
+bon-eccl-c7-v17-23	6	p61-1	cicero	de-officiis		cited	1	c. 10	1.10	title	Cicero I. de Offic. c. 10
+bon-eccl-c7-v17-23	6	p61-1	bernard	de-consideratione		cited	1	c. 8. n. 10.	1.8.10	title	Bernard. I. de Considerat. c. 8. n. 10.
+bon-eccl-c7-v17-23	6	p61-1	augustine	in-ioannis-evangelium		cited		tr. 95. n. 2.	95.2	title	August. in Ioan. Evang. tr. 95. n. 2.
+bon-eccl-c7-v17-23	6	p61-8	gregory-the-great	moralia		cited	12	c. 2. n. 2.	12.2.2	title	Greg. XII. Moral. c. 2. n. 2.
+bon-eccl-c7-v17-23	6	p61-12	augustine	de-libero-arbitrio		cited	3	c. 18. n. 50	3.18.50	title	August. III. de Lib. Arb. c. 18. n. 50
+bon-eccl-c7-v17-23	6	p61-13	gregory-the-great	moralia		cited	13	c. 30. n. 34.	13.30.34	title	Gregor. XIII. Moral. c. 30. n. 34.
+bon-eccl-c7-v2-7	6	p55-6	jerome	epistolae		cited		140.	140	title	Hieron. Epist. 140.
+bon-eccl-c7-v2-7	6	p56-3	aristotle	physica		cited	1	text. 75. (c. 8.)	1.75.8	title	Aristot. I. Phys. text. 75. (c. 8.)
+bon-eccl-c7-v2-7	6	p56-3	aristotle	metaphysica		cited	5	text. 27. (IV. c. 22.).	5.27.4.22	title	Aristot. … V. Metaph. text. 27. (IV. c. 22.).
+bon-eccl-c7-v2-7	6	p56-4	aristotle	topica		cited	2	c. 3. (c. 9.)	2.3.9	title	Aristot. II Topic. c. 3. (c. 9.)
+bon-eccl-c7-v2-7	6	p56-8	augustine	retractationes		cited	2	c. 19. n. 4	2.19.4	title	August. II. Retract. c. 19. n. 4
+bon-eccl-c7-v24-30	6	p64-5	gregory-ix	decretales		cited		tit. 42.	42	default-work	Decret. Gregor. tit. 42.), ubi dicitur: « Nunc indistincte vox intonat evangelica: Nisi quis renatus fuerit ex aqua et Spiritu sancto, non i
+bon-eccl-c7-v24-30	6	p64-5	glossa			cited				anaphor-unresolved	Glossa ibid.: Immo includit, quoniam sub nomine masculino, dum dixit: Nisi quis renatus fuerit etc., femina comprehenditur. ff. de verb. sig
+bon-eccl-c7-v24-30	6	p64-5	justinian	digesta		cited	50	tit. 16.	50.16	title	Iustinian. lib. L. Dig. tit. 16.
+bon-eccl-c7-v8-10	6	p57-1	justinian	digesta		cited		lib. XLVIII. tit. 16. leg. 1	48.16.1	title	Iustinian. Dig. lib. XLVIII. tit. 16. leg. 1
+bon-eccl-c7-v8-10	6	p57-2	bernard	epistolae		cited		129. n. 2	129.2	title	Bernard. Epist. 129. n. 2
+bon-eccl-c7-v8-10	6	p57-9	alexander-of-hales	summa		cited		p. II. q. 140. m. 2	2.140.2	title	Alex. Hal. S. p. II. q. 140. m. 2
+bon-eccl-c7-v8-10	6	p57-9	gregory-the-great	moralia		cited	5	c. 45. n. 82.	5.45.82	title	Gregor. V. Moral. c. 45. n. 82.
+bon-eccl-c7-v8-10	6	p57-9	aristotle	ethica-nicomachea		cited	4	c. 5	4.5	title	Aristot. IV. Ethic. c. 5
+bon-eccl-c8-v1-8	6	p64-6	jerome	in-ecclesiasten		cited				title	Hieron. … Comment. in Eccle.
+bon-eccl-c8-v1-8	6	p65-3	gregory-the-great	moralia		cited	10	c. 15. n. 27	10.15.27	title	Gregor. X. Moral. c. 15. n. 27
+bon-eccl-c8-v1-8	6	p66-7	augustine	de-sermone-domini		cited	1	c. 17. n. 51	1.17.51	title	August. I. de Serm. Domini in monte c. 17. n. 51
+bon-eccl-c8-v1-8	6	p66-9	alexander-of-hales	summa		cited		p. III. q. 31. m. 2. a. 5.	3.31.2.5	title	Alex. Hal. S. p. III. q. 31. m. 2. a. 5.
+bon-eccl-c8-v14-15	6	p70-9	aristotle	topica		cited	3	c. 2.	3.2	title	Aristot. III. Topic. c. 2.
+bon-eccl-c8-v16-17	6	p71-2	augustine	sermones	true	cited		177.	177	title	August. Serm. 177.
+bon-eccl-c8-v16-17	6	p71-2	augustine	enarrationes-in-psalmos		cited		33. enarrat. 2. n. 23	33.2.23	title	August. … Enarrat. in Ps. 33. enarrat. 2. n. 23
+bon-eccl-c8-v16-17	6	p71-2	augustine	enarrationes-in-psalmos		cited		50. n. 21	50.21	title	August. … in Ps. 50. n. 21
+bon-eccl-c8-v16-17	6	p71-2	augustine	enarrationes-in-psalmos		cited		74. n. 2	74.2	title	August. … in Ps. 74. n. 2
+bon-eccl-c8-v16-17	6	p71-2	augustine	enarrationes-in-psalmos		cited		85. n. 2.	85.2	title	August. … in Ps. 85. n. 2.
+bon-eccl-c8-v16-17	6	p71-2	augustine	enarrationes-in-psalmos		cited		137. n. 11.	137.11	title	August. … in Ps. 137. n. 11.
+bon-eccl-c8-v9-13	6	p67-8	gregory-the-great	moralia		cited	4	c. 27. n. 52	4.27.52	title	Gregor. IV. Moral. c. 27. n. 52
+bon-eccl-c8-v9-13	6	p69-1	gregory-the-great	moralia		cited	21	c. 15. n. 22	21.15.22	title	Gregor. XXI. Moral. c. 15. n. 22
+bon-eccl-c8-v9-13	6	p69-2	justinian	institutiones		cited	1	tit. 3.	1.3	title	Iustinian. I. Institut. imper. tit. 3.
+bon-eccl-c9-v1-3	6	p72-7	aristotle	ethica-nicomachea		cited	2	c. 2.	2.2	title	Aristot. II. Ethic. c. 2.
+bon-eccl-c9-v1-3	6	p72-8	gregory-the-great	moralia		cited	32	c. 1. n. 1	32.1.1	title	Gregor. XXXII. Moral. c. 1. n. 1
+bon-eccl-c9-v1-3	6	p72-11	augustine	de-genesi-ad-litteram		cited	12	c. 6. n. 15. seqq.	12.6.15	body-join+note-title	Augustinus … Libr. XII. de Gen. ad lit. c. 6. n. 15. seqq.; IX. de Trin. c. 3. n. 3. seqq.; X. c. 3. n. 5. seqq.; XIII. c. 
+bon-eccl-c9-v1-3	6	p72-12	augustine	de-trinitate		cited	13	c. 1. n. 3	13.1.3	body-join+note-title	Augustinus … Libr. XIII. de Trin. c. 1. n. 3: Sed eam [fidem] tenet certissima scientia clamatque conscientia.
+bon-eccl-c9-v1-3	6	p73-7	aristotle	topica		cited	5	c. 3. (c. 5.).	5.3.5	title	Aristot. V. Topic. c. 3. (c. 5.).
+bon-eccl-c9-v11-12	6	p76-5	jerome	in-ecclesiasten		cited		9, 11. et 12.	9.11.12	title	Hieron. Comment. in Ecclesiast. 9, 11. et 12.
+bon-eccl-c9-v11-12	6	p77-3	aristotle	physica		cited	2	text. 39. seqq. (c. 4. seq.)	2.39.4	title	Aristot. II. Phys. text. 39. seqq. (c. 4. seq.)
+bon-eccl-c9-v11-12	6	p77-3	aristotle	metaphysica		cited	11	c. 7. (X. c. 8.).	11.7.10.8	title	Aristot. … XI. Metaph. c. 7. (X. c. 8.).
+bon-eccl-c9-v11-12	6	p77-4	aristotle	physica		cited	2	text. 49. (c. 5.)	2.49.5	title	Aristot. II. Phys. text. 49. (c. 5.)
+bon-eccl-c9-v11-12	6	p77-4	aristotle	metaphysica		cited	11	c. 7. (X. c. 8.)	11.7.10.8	title	Aristot. … XI. Metaph. c. 7. (X. c. 8.)
+bon-eccl-c9-v11-12	6	p77-5	boethius	de-consolatione		cited	5	prosa 1	5.1	title	Boeth. V. de Consol. prosa 1
+bon-eccl-c9-v13-18	6	p78-6	isidore	etymologiae		cited	11	c. 2. n. 17.	11.2.17	title	Isidor. XI. Etymolog. c. 2. n. 17.
+bon-eccl-c9-v4-10	6	p74-10	gregory-the-great	moralia		cited	1	c. 21. n. 29	1.21.29	title	Gregor. I. Moral. c. 21. n. 29
+bon-eccl-c9-v4-10	6	p74-10	gregory-the-great	homiliae-in-ezechielem		cited	1	homil. 10. n. 3.	1.10.3	title	Gregor. … I. Homil. in Ezech. homil. 10. n. 3.
+bon-eccl-c9-v4-10	6	p75-8	augustine	de-civitate-dei		cited	14	c. 6.	14.6	title	August. XIV. de Civ. Dei c. 6.
+bon-eccl-prooem	6	p3-1	dionysius	de-divinis-nominibus		cited		c. 4. § 4. 10. et 31.	4.4.10.31	title	Dionys. … de Div. Nom. c. 4. § 4. 10. et 31.
+bon-eccl-prooem	6	p3-2	augustine	de-genesi-ad-litteram		cited	11	c. 15. n. 19. seq.	11.15.19	title	August. XI. de Gen. ad lit. c. 15. n. 19. seq.
+bon-eccl-prooem	6	p3-2	augustine	de-diversis-quaestionibus-83		cited		q. 36. n. 1.	36.1	title	August. … 83 Qq. q. 36. n. 1.
+bon-eccl-prooem	6	p3-2	augustine	de-civitate-dei		cited	14	c. 28.	14.28	title	August. … XIV. de Civ. Dei c. 28.
+bon-eccl-prooem	6	p3-2	augustine	de-mendacio		cited		c. 7. n. 10.	7.10	title	August. … de Mendacio c. 7. n. 10.
+bon-eccl-prooem	6	p3-3	augustine	enarrationes-in-psalmos		cited		64. n. 1. seq.	64.1	title	August. Enarrat. in Ps. 64. n. 1. seq.
+bon-eccl-prooem	6	p3-3	augustine	de-civitate-dei		cited	15	c. 1. seq.	15.1	title	August. … XV. de Civ. Dei c. 1. seq.
+bon-eccl-prooem	6	p4-4	augustine	de-civitate-dei		cited	14	c. 25.	14.25	title	August. XIV. de Civ. Dei c. 25.
+bon-eccl-prooem	6	p5-8	jerome	in-ecclesiasten		cited		1, 1.	1.1	title	Hieron. Comment. in Eccle. 1, 1.
+bon-eccl-prooem	6	p5-9	aristotle	physica		cited	2	text. 88. seqq. (c. 9.).	2.88.9	title	Aristot. II. Phys. text. 88. seqq. (c. 9.).
+bon-eccl-prooem	6	p6-8	aristotle	ethica-nicomachea		cited	5	c. 1	5.1	title	Aristot. V. Ethic. c. 1
+bon-eccl-prooem	6	p6-8	aristotle	topica		cited	1	c. 13.	1.13	title	Aristot. … I. Topic. c. 13.
+bon-eccl-prooem	6	p6-10	aristotle	analytica-posteriora		cited	1	c. 2.	1.2	title	Aristot. I. Poster. c. 2.
+bon-eccl-prooem	6	p6-11	jerome	in-ecclesiasten		cited		1, 2.	1.2	title	Hieron. Comment. in Eccle. 1, 2.
+bon-eccl-prooem	6	p6-12	boethius	de-consolatione		cited	3	prosa 2.	3.2	title	Boeth. III. de Consol. prosa 2.
+bon-eccl-prooem	6	p6-12	aristotle	ethica-nicomachea		cited	1	c. 1	1.1	title	Aristot. I. Ethic. c. 1
+bon-eccl-prooem	6	p6-12	aristotle	physica		cited	2	text. 62. (c. 6.)	2.62.6	title	Aristot. … II. Phys. text. 62. (c. 6.)
+bon-eccl-prooem	6	p7-2	aristotle	meteorologica		cited	4	text. 54. (c. ult.)	4.54	title	Aristot. IV. Meteor. text. 54. (c. ult.)
+bon-eccl-prooem	6	p7-2	aristotle	metaphysica		cited	5	text. 34. (IV. c. 29.).	5.34.4.29	title	Aristot. … V. Metaph. text. 34. (IV. c. 29.).
+bon-eccl-prooem	6	p7-4	aristotle	analytica-posteriora		cited	1	c. 2	1.2	title	Aristot. I. Poster. c. 2
+bon-eccl-prooem	6	p7-5	aristotle	topica		cited	6	c. 3. (c. 5.)	6.3.5	body-join+note-title	Philosophus … Libr. VI. Topic. c. 3. (c. 5.), ubi tractans de hac definitione medicinae: scientia sanitatem et aegritudinem 
+bon-eccl-prooem	6	p7-6	aristotle	de-anima		cited	1	text. 85. (c. 5.)	1.85.5	title	Aristot. I. de Anima text. 85. (c. 5.)
+bon-eccl-prooem	6	p7-7	jerome	in-ecclesiasten		cited				anaphor	Hieron., loc. cit., obiectioni respondet: Possumus igitur et nos in hunc modum caelum, terram... bona quidem per se dicere, sed ad Deum comp
+bon-eccl-prooem	6	p8-4	boethius	de-differentiis-topicis		cited	2		2	title	Boeth. II. de Differentiis topic.
+bon-eccl-prooem	6	p8-4	peter-of-spain	summulae-logicales		cited				title	Petr. Hispan. Summul.
+bon-eccl-prooem	6	p8-5	jerome	in-ecclesiasten		cited		1, 12	1.12	body-join+note-title	Hieronymus … Comment. in Eccle. 1, 12: Aiunt Hebraei, hunc librum Salomonis esse poenitentiam agentis etc.

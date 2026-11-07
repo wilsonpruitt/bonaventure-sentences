@@ -3805,3 +3805,24 @@ it from there. **Never build an address by hand anywhere else.**
 - ⚠ **Known, not fixed (Phase 4 territory):** the ledger's `works` table (`tools/scripture-books.json`) has stale
   `chunk_pattern`s for hexaemeron / mysterio-trinitatis / perfectione-evangelica, and `Hexaem.` also names
   Basil's and Ambrose's works, so those citations stop at the work level. Fixing it needs the author guard.
+
+## Authorities conventions (pilot 2026-11-06, SITE-PLAN Phase 4) — ⚠ R1–R7 AWAIT WILSON'S RULING
+
+Evidence and rates: `manual-review/authorities-pilot.md`. Table `tools/authorities.json`; extractor
+`tools/build-authorities.py` (deterministic, 11 s for the corpus). **Final fresh sample: 50/50, zero wrong
+attributions.** Corpus run: 13,969 records, 92.4% to a work.
+
+- **Table-driven.** Only `authorities.json` sigla are authorities (never discovered). Editions, manuscripts
+  (`not_authorities`), the Lombard's Sentences, Bonaventure himself: never records.
+- **Scope:** siglum → next siglum or em dash. Titles matched only in their author's scope, **case-sensitive**,
+  points optional, longest first. Book numeral before the title (Roman or arabic) or a Latin ordinal in the body.
+- **role:** `same-passage` iff the scope opens `hic` / `in hunc locum` (scholastics → their `here` work, the
+  Sentences commentary; exegetes in a Scripture commentary → their commentary on that book if the table has it).
+  Else `cited`.
+- **Implicit citations (~21%) are joined from the BODY** at the anchor (nearest name form ≤220 chars before it;
+  title from the note, else the body title NEAREST the anchor). Only a note opening with a real locus label or a
+  known title qualifies — **never a generic capitalized word** (rejected at the pilot: `Vat.`, `codd.`, `Exod.`).
+- **Witness readings are not citations** (`cod. X … falso alleget …`). `in Appendice` → pseudo. A siglum that names
+  its work (`Decret. Gregor.`) takes `default_work`.
+- **Never guessed:** no title → an author-level record (residue for the table), never a guessed work.
+- **Every table change is followed by a fresh sample** (report → fix → report); a fix never certifies itself.
