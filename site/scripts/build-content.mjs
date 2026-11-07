@@ -1034,6 +1034,9 @@ const WORKS = {
       // Capitulum XVII: the full-measure Cᴀᴘɪᴛᴜʟᴜᴍ XVII. Haec locutus est Iesus.² (anchored)
       // stands mid-leaf on p. 609 (verified in place); the chapter runs to p. 611.
       17: "Capitulum XVII: Haec locutus est Iesus",
+      // Capitulum XVIII: the full-measure Cᴀᴘɪᴛᴜʟᴜᴍ XVIII. Haec cum dixisset Iesus. (unanchored)
+      // stands mid-leaf on p. 611 (verified in place); the chapter runs to p. 615.
+      18: "Capitulum XVIII: Haec cum dixisset Iesus",
     },
   },
 };

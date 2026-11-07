@@ -4797,7 +4797,20 @@ KNOWN_TOTALS_VOL6 = {
     611: 8,  # SHARED: bon-cioan-c17 owns nn.1-7 (n.1 Annot. 67's lemma, nn.2 Annot. 67,
              # nn.3-7 Coll. LXII; anchors L 1-3 / R 4-7; blocks L [p.610 n.11 tail] 1-3 /
              # R 4-8); n.8 anchors in Annot. 68 below the full-measure, unanchored
-             # Cᴀᴘɪᴛᴜʟᴜᴍ XVIII. and is bon-cioan-c18's (PENDING until c18 lands). Gutter 898.
+             # Cᴀᴘɪᴛᴜʟᴜᴍ XVIII. and is bon-cioan-c18's (FULLY OWNED once c18 landed). Gutter 898
+             # above the heading, 893 below it.
+    612: 7,  # bon-cioan-c18: n.1 Annot. 68, nn.2-4 Coll. LXIII ¶¶ 1-2, nn.5-7 ¶¶ 2-4; anchors
+             # L 1-4 / R 5-7; blocks L 1-4 / R 5-7. Gutter 1183.
+    613: 9,  # bon-cioan-c18: nn.1-4 Coll. LXIV ¶¶ 2-4, nn.5-9 Coll. LXV ¶¶ 2-4; anchors
+             # L 1-4 / R 5-9; blocks L 1-4 / R 5-9. Gutter 920.
+    614: 9,  # bon-cioan-c18: nn.1-2 Coll. LXV ¶¶ 5-6, nn.3-9 Coll. LXVI ¶¶ 1-2; anchors
+             # L 1-3 / R 4-9; blocks L 1-5 / R 6-9 (nn.4-5 anchor R, print L). Gutter 1153.
+    615: 10, # SHARED: bon-cioan-c18 owns nn.1-4 (Coll. LXVI ¶ 3, top band; anchors L 1-2 /
+             # R 3-4, all printed in the L block); n.5 anchors on the full-measure, ANCHORED
+             # Cᴀᴘɪᴛᴜʟᴜᴍ XVIII. et XIX. Tunc ergo apprehendit Pilatus Iesum.⁵ and nn.6-10 in the
+             # Introductio and Coll. LXVII: bon-cioan-c18-19's (PENDING until c18-19 lands).
+             # Blocks L 1-5 / R [n.5 tail] 6-10; n.5 runs over the gutter (c18-19's). Gutter 910
+             # in the top band.
 }
 
 KNOWN_TOTALS_BY_VOL = {
