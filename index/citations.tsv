@@ -24697,6 +24697,50 @@ bon-cioan-c14	6	apparatus:p603-10	p603-10	scripture	apparatus-explicit	Matth. 19
 bon-cioan-c14	6	apparatus:p603-11	p603-11	scripture	apparatus-explicit	Matth. 19, 17	Matth 19:17	A	verse			
 bon-cioan-c14	6	apparatus:p604-1	p604-1	scripture	apparatus-explicit	Habac. 2, 3	Habac 2:3	A	verse			
 bon-cioan-c14	6	apparatus:p604-2	p604-2	crossref	cioan-unit	collat. LVII. n. 1	work:collationes-ioannem:coll57		forward			
+bon-cioan-c15	6	latin_body	p604-4	scripture	body-ordinal	Isaiae quinquagesimo tertio	Isai 53:2	B	verse			
+bon-cioan-c15	6	latin_body	p604-5	scripture	body-ordinal	Ioannis decimo quinto	Ioan 15:5	B	verse			
+bon-cioan-c15	6	latin_body		scripture	body-ordinal	Ecclesiastici vigesimo quarto	Eccli 24	C	chapter			
+bon-cioan-c15	6	latin_body		scripture	body-ordinal	Canticorum secundo	Cant 2	C	chapter			
+bon-cioan-c15	6	latin_body	p604-6	scripture	body-ordinal	Regum decimo sexto	Reg* 16:1	B	verse			
+bon-cioan-c15	6	latin_body		scripture	body-ordinal	ad Corinthios quinto	Cor* 5	C	chapter			
+bon-cioan-c15	6	latin_body		scripture	body-ordinal	Matthaei decimo tertio	Matth 13	C	chapter			
+bon-cioan-c15	6	latin_body		scripture	body-ordinal	Matthaei vigesimo quinto	Matth 25	C	chapter			
+bon-cioan-c15	6	latin_body	p604-7	scripture	body-ordinal	Ioannis primo	Ioan 1:9	B	verse			
+bon-cioan-c15	6	latin_body		scripture	body-ordinal	Malachiae tertio	Malach 3	C	chapter			
+bon-cioan-c15	6	latin_body	p604-9	scripture	body-ordinal	Ioannis quarto	Ioan 4:15	B	verse			
+bon-cioan-c15	6	latin_body		scripture	body-ordinal	Ioannis quarto	Ioan 4	C	chapter			
+bon-cioan-c15	6	latin_body		scripture	body-ordinal	Ioannis decimo quinto	Ioan 15	C	chapter			
+bon-cioan-c15	6	latin_body		scripture	body-ordinal	Ioannis secundo	Ioan 2	C	chapter			
+bon-cioan-c15	6	latin_body	p604-10	scripture	body-ordinal	Ioannis tertio	Ioan 3:21	B	verse			
+bon-cioan-c15	6	latin_body	p605-1	scripture	body-ordinal	Matthaei septimo	Matth 7:7	B	verse			
+bon-cioan-c15	6	latin_body		scripture	body-ordinal	Lucae undecimo	Luc 11	C	chapter			
+bon-cioan-c15	6	latin_body	p605-3	scripture	body-ordinal	ad Ephesios primo	Eph 1:4	B	verse			
+bon-cioan-c15	6	latin_body		scripture	body-ordinal	Canticorum quinto	Cant 5	C	chapter			
+bon-cioan-c15	6	latin_body	p605-4	scripture	body-ordinal	Ioannis primo	Ioan 1:10	B	verse			
+bon-cioan-c15	6	latin_body		scripture	body-ordinal	Ioannis tertio	Ioan 3	C	chapter			
+bon-cioan-c15	6	latin_body	p605-6	scripture	body-ordinal	Ioannis tertio	Ioan 3:15	B	verse			
+bon-cioan-c15	6	latin_body		scripture	body-ordinal	Proverbiorum primo	Prov 1	C	chapter			
+bon-cioan-c15	6	latin_body	p605-7	scripture	body-ordinal	Ioannis decimo quinto	Ioan 15:23	B	verse			
+bon-cioan-c15	6	apparatus:p604-4	p604-4	scripture	apparatus-explicit	Ps. 79, 12	Ps 79:12	A	verse			
+bon-cioan-c15	6	apparatus:p604-5	p604-5	scripture	apparatus-explicit	Eccli. 24, 23	Eccli 24:23	A	verse			
+bon-cioan-c15	6	apparatus:p604-5	p604-5	scripture	apparatus-explicit	Cantic. 2, 3	Cant 2:3	A	verse			
+bon-cioan-c15	6	apparatus:p604-6	p604-6	scripture	apparatus-explicit	I. Cor. 5, 5	1Cor 5:5	A	verse			
+bon-cioan-c15	6	apparatus:p604-6	p604-6	scripture	apparatus-explicit	Matth. 13, 41	Matth 13:41	A	verse			
+bon-cioan-c15	6	apparatus:p604-7	p604-7	scripture	apparatus-explicit	Ps. 65, 10	Ps 65:10	A	verse			
+bon-cioan-c15	6	apparatus:p604-7	p604-7	scripture	apparatus-explicit	Malach. 3, 3	Malach 3:3	A	verse			
+bon-cioan-c15	6	apparatus:p604-8	p604-8	crossref	cioan-unit	Collat. LI.	bon-cioan-c13		chunk			coll-51
+bon-cioan-c15	6	apparatus:p604-9	p604-9	scripture	apparatus-explicit	I. Ioan. 4, 16	1Ioan 4:16	A	verse			
+bon-cioan-c15	6	apparatus:p604-9	p604-9	scripture	apparatus-explicit	Ioan. 15, 10	Ioan 15:10	A	verse			
+bon-cioan-c15	6	apparatus:p604-9	p604-9	scripture	apparatus-explicit	I. Ioan. 2, 6	1Ioan 2:6	A	verse			
+bon-cioan-c15	6	apparatus:p605-1	p605-1	scripture	apparatus-explicit	Ioan. 16, 24	Ioan 16:24	A	verse			
+bon-cioan-c15	6	apparatus:p605-1	p605-1	scripture	apparatus-explicit	Luc. 11, 8	Luc 11:8	A	verse			
+bon-cioan-c15	6	apparatus:p605-2	p605-2	crossref	cioan-unit	Collat. XXXV. n. 2	bon-cioan-c8		chunk			coll-35
+bon-cioan-c15	6	apparatus:p605-3	p605-3	scripture	apparatus-explicit	Ioan. 6, 71	Ioan 6:71	A	verse			
+bon-cioan-c15	6	apparatus:p605-3	p605-3	scripture	apparatus-explicit	Cantic. 5, 10	Cant 5:10	A	verse			
+bon-cioan-c15	6	apparatus:p605-4	p605-4	scripture	apparatus-explicit	Ioan. 3, 16	Ioan 3:16	A	verse			
+bon-cioan-c15	6	apparatus:p605-5	p605-5	crossref	cioan-unit	Collat. XXX.	bon-cioan-c7		chunk			coll-30
+bon-cioan-c15	6	apparatus:p605-6	p605-6	scripture	apparatus-explicit	Ps. 10, 6	Ps 10:6	A	verse			
+bon-cioan-c15	6	apparatus:p605-6	p605-6	scripture	apparatus-explicit	Prov. 1, 28	Prov 1:28	A	verse			
 bon-cioan-c2	6	latin_body	p545-3	scripture	body-ordinal	Genesis secundo	Gen 2:24	B	verse			
 bon-cioan-c2	6	latin_body	p545-5	scripture	body-ordinal	Sapientiae decimo quarto	Sap 14:26	B	verse			
 bon-cioan-c2	6	latin_body	p545-7	scripture	body-ordinal	Esther secundo	Esth 2	C	chapter			

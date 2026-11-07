@@ -1027,6 +1027,9 @@ const WORKS = {
       // Capitulum XIV: the full-measure Cᴀᴘɪᴛᴜʟᴜᴍ XIV. Non turbetur cor vestrum.
       // stands mid-leaf on p. 601 (verified in place); the chapter runs to p. 604.
       14: "Capitulum XIV: Non turbetur cor vestrum",
+      // Capitulum XV: the full-measure Cᴀᴘɪᴛᴜʟᴜᴍ XV. Surgite, eamus hinc.³ (anchored)
+      // stands mid-leaf on p. 604 (verified in place); the chapter runs to p. 605.
+      15: "Capitulum XV: Surgite, eamus hinc",
     },
   },
 };

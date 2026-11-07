@@ -4771,7 +4771,12 @@ KNOWN_TOTALS_VOL6 = {
     604: 10, # SHARED: bon-cioan-c14 owns nn.1-2 (Coll. LIV ¶ 5, both anchored in the
              # R column, both printed in the L block); n.3 anchors on the full-measure
              # Cᴀᴘɪᴛᴜʟᴜᴍ XV. Surgite, eamus hinc.³ heading and nn.4-10 in Annot. 58-61:
-             # bon-cioan-c15's (PENDING until c15 lands). Gutter 1174 above the heading.
+             # bon-cioan-c15's (FULLY OWNED once c15 landed; blocks L 1-5 / R 6-10,
+             # c15's nn.6-7 anchor L, print R). Gutter 1174 above / 1180 below the heading.
+    605: 11, # SHARED: bon-cioan-c15 owns nn.1-7 (Annot. 62 tail-65; anchors L 1-3 /
+             # R 4-7, blocks L 1-6 / R 7-11: nn.4-6 anchor R, print L); nn.8-11 anchor in
+             # Annot. 66 and Coll. LV below the full-measure, unanchored Cᴀᴘɪᴛᴜʟᴜᴍ XVI.
+             # and are bon-cioan-c16's (PENDING until c16 lands). Gutter 904 above the heading.
 }
 
 KNOWN_TOTALS_BY_VOL = {
