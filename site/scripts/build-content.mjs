@@ -1030,6 +1030,7 @@ const WORKS = {
       // Capitulum XV: the full-measure Cᴀᴘɪᴛᴜʟᴜᴍ XV. Surgite, eamus hinc.³ (anchored)
       // stands mid-leaf on p. 604 (verified in place); the chapter runs to p. 605.
       15: "Capitulum XV: Surgite, eamus hinc",
+      16: "Capitulum XVI: Haec locutus sum vobis",
     },
   },
 };

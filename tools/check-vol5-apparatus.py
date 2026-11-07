@@ -4776,7 +4776,19 @@ KNOWN_TOTALS_VOL6 = {
     605: 11, # SHARED: bon-cioan-c15 owns nn.1-7 (Annot. 62 tail-65; anchors L 1-3 /
              # R 4-7, blocks L 1-6 / R 7-11: nn.4-6 anchor R, print L); nn.8-11 anchor in
              # Annot. 66 and Coll. LV below the full-measure, unanchored Cᴀᴘɪᴛᴜʟᴜᴍ XVI.
-             # and are bon-cioan-c16's (PENDING until c16 lands). Gutter 904 above the heading.
+             # and are bon-cioan-c16's (FULLY OWNED once c16 landed; c16's nn.8-9 anchor L,
+             # nn.10-11 anchor R, all four print R). Gutter 904 above / 906 below the heading.
+    606: 10, # bon-cioan-c16: nn.1-2 Coll. LVI ¶ 1, nn.3-5 LVI ¶ 2, nn.6-9 LVI ¶ 3,
+             # n.10 Coll. LVII ¶ 1; anchors L 1-4 / R 5-10; blocks L 1-5 / R 6-10
+             # (n.5 anchors R, prints L). Gutter 1162.
+    607: 11, # bon-cioan-c16: nn.1-3 Coll. LVII ¶¶ 2-3, nn.4-11 Coll. LVIII; anchors
+             # L 1-6 / R 7-11; blocks L 1-4 / R 5-11 (nn.5-6 anchor L, print R). Gutter 892.
+    608: 7,  # bon-cioan-c16: nn.1-3 Coll. LIX, nn.4-7 Coll. LX ¶¶ 2-4; anchors L 1-3 /
+             # R 4-7; blocks L 1-4 / R 5-7 (n.4 anchors R, prints L). Gutter 1174.
+    609: 10, # SHARED: bon-cioan-c16 owns n.1 (Coll. LX ¶ 5, top band, anchor L); n.2
+             # anchors on the full-measure Cᴀᴘɪᴛᴜʟᴜᴍ XVII. Haec locutus est Iesus.² heading
+             # and nn.3-10 in Coll. LXI: bon-cioan-c17's (PENDING until c17 lands).
+             # Blocks L 1-4 / R 5-10; n.4 runs over the gutter (c17's). Gutter 892 top band.
 }
 
 KNOWN_TOTALS_BY_VOL = {
