@@ -238,7 +238,12 @@ def build_indexes(chunks):
 # ⭐ Vol V went True when its tenth and last work closed (2026-09-19); Vol VI
 # opened the same day and is one pericope in, so nearly every page 1-634 has no
 # owner yet and a ref into it must read `forward`, never `dangling`.
-VOLUME_COMPLETE = {1: True, 2: True, 3: True, 4: True, 5: True, 6: False}
+# Vol VI is True from 2026-11-07 (body complete, pp. 3-634). Measured before flipping: ledger,
+# QA report, authorities and every site data file byte-identical. The only behaviour it changes
+# is resolve_page(): a `tom. VI. pag. N` with NO owning chunk is now `dangling` (QA-flagged)
+# instead of `forward`; the unowned leaves are 104-106, 236-238, 533-534 (work half-titles and
+# blanks) and the unchunked volume index (pp. 635+), none of which is cited today.
+VOLUME_COMPLETE = {1: True, 2: True, 3: True, 4: True, 5: True, 6: True}
 
 
 # ------------------------------------------------------------------ ordinal parsing
