@@ -1,5 +1,7 @@
 import Link from "next/link";
-import { loadAllContent, tomeSequence, chunkHref, type ReadingStop } from "@/lib/content";
+import { loadAllContent, tomeSequence, chunkHref, pageSpan, type ReadingStop } from "@/lib/content";
+import { collectHeadings, headingIds, plainHeading } from "@/lib/headings";
+import progress from "@/data/progress.json";
 import { CrossDivider } from "@/components/decorations";
 import { TextReader } from "@/components/text-reader";
 import { CitedBy } from "@/components/cited-by";
@@ -29,6 +31,21 @@ export function ChunkView({ stop }: { stop: ReadingStop }) {
     st.book.id !== book.id ? st.book.title : st.dist.id !== dist.id ? st.dist.title : null;
 
   const canonicalUrl = `${SITE_URL}${question.path}`;
+
+  // In-chunk contents: ids from the Latin headings; labels in English when the
+  // two languages carry the same headings. Shown for 3+ sections, or 2+ over
+  // more than three printed pages.
+  const laHeads = collectHeadings(question.latin);
+  const enHeads = question.hasTranslation ? collectHeadings(question.english) : [];
+  const ids = headingIds(laHeads);
+  const englishAnchors = enHeads.length === laHeads.length && laHeads.length > 0;
+  const span = question.pages ? question.pages[1] - question.pages[0] + 1 : 0;
+  const showContents = laHeads.length >= 3 || (laHeads.length >= 2 && span > 3);
+  const labels = (englishAnchors ? enHeads : laHeads).map(plainHeading);
+
+  // Cite this: author, work, Quaracchi tome + pages, unit; the translation.
+  const tomeN = book.tome ?? book.id;
+  const vol = (progress.volumes as { n: number; tome: string; year: number }[]).find((v) => v.n === tomeN);
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "CreativeWork",
@@ -87,7 +104,22 @@ export function ChunkView({ stop }: { stop: ReadingStop }) {
 
       <CrossDivider />
 
+      {showContents && (
+        <details className="chunk-contents" data-pagefind-ignore open={laHeads.length <= 12}>
+          <summary>Contents</summary>
+          <ol>
+            {labels.map((label, i) => (
+              <li key={ids[i]}>
+                <a href={`#${ids[i]}`}>{label}</a>
+              </li>
+            ))}
+          </ol>
+        </details>
+      )}
+
       <TextReader
+        anchorIds={ids}
+        englishAnchors={englishAnchors}
         latin={question.latin}
         english={question.english}
         latinScholion={question.latinScholion ?? ""}
@@ -95,6 +127,20 @@ export function ChunkView({ stop }: { stop: ReadingStop }) {
         apparatus={question.apparatus ?? []}
         hasTranslation={question.hasTranslation}
       />
+
+      <section className="cite-this" data-pagefind-ignore aria-label="How to cite">
+        <div className="section-title" style={{ fontSize: "12px" }}>Cite this</div>
+        <p>
+          St. Bonaventure, <em>{book.titleLa}</em>, {question.title.replace(/\.$/, "")}, in{" "}
+          <em>Opera Omnia</em> (Quaracchi{vol ? `, ${vol.year}` : ""}), tom. {vol?.tome ?? tomeN}
+          {question.pages ? `, ${pageSpan(question.pages)}` : ""}.
+        </p>
+        <p>
+          English translation: Wroot Press, Bonaventure <em>Opera Omnia</em> Translation Project,{" "}
+          <a href={canonicalUrl}>{canonicalUrl.replace("https://", "")}</a>. Licensed{" "}
+          <a href="/rights">CC BY-NC 4.0</a>.
+        </p>
+      </section>
 
       <div data-pagefind-ignore>
         <CitedBy chunkId={question.id} />

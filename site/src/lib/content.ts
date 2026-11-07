@@ -26,6 +26,8 @@ export interface Question {
   section?: number;
   /** Readable address, derived from the id (scripts/lib/addresses.mjs). */
   path: string;
+  /** Printed span [first, last] from the chunk's `printed_pages`. */
+  pages?: [number, number];
 }
 
 export interface Distinction {
@@ -42,6 +44,11 @@ export interface Book {
   title: string;
   slug: string; // "sentences" for Tomes I–IV, else the WORKS registry slug
   path: string; // `/sentences/1` or `/{slug}`
+  titleLa: string;
+  titleEn: string;
+  genre: string;
+  unitLabel: [string, string]; // singular, plural: "collation", "collations"
+  pages?: [number, number]; // printed span of the whole work in its tome
   distinctions: Distinction[];
   // Vol V+ works only (Tome V onward holds multiple independent works;
   // each work is a Book whose divisions replace the Sentences' distinctions):
@@ -160,3 +167,14 @@ export function allChunks(books: Book[]): ReadingStop[] {
 
 /** Where a tome's page lives. */
 export const tomePath = (tome: number) => `/tome/${tome}`;
+
+/** "1 collation" / "24 collations": the work's own noun for one chunk. */
+export function unitCount(book: Book, n: number): string {
+  return `${n} ${n === 1 ? book.unitLabel[0] : book.unitLabel[1]}`;
+}
+
+export const chunkCount = (book: Book) =>
+  book.distinctions.reduce((s, d) => s + d.questions.length, 0);
+
+export const pageSpan = (p?: [number, number]) =>
+  !p ? "" : p[0] === p[1] ? `p. ${p[0]}` : `pp. ${p[0]}\u2013${p[1]}`;

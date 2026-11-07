@@ -79,7 +79,7 @@ function groupQuestions(questions: Question[]): Section[] {
   return sections;
 }
 
-function sectionHeading(section: Section): string {
+function sectionHeading(section: Section, fallback = "Questions"): string {
   if (section.kind === "proemium") return "Proemium";
   if (section.kind === "capitula") return "Capitula";
   if (section.kind === "littera") return "Littera Magistri";
@@ -92,7 +92,7 @@ function sectionHeading(section: Section): string {
   } else if (section.articulus === 0) {
     parts.push("Sole Article");
   }
-  return parts.join(" · ") || "Questions";
+  return parts.join(" · ") || fallback;
 }
 
 export function romanize(n: number): string {
@@ -146,17 +146,22 @@ export function DistinctionContent({
   bookId,
   distId,
   questions,
+  unitPlural,
 }: {
   bookId: number;
   distId: number;
   questions: Question[];
+  /** Heading for an untitled group of chunks; "" renders none (the works). */
+  unitPlural?: string;
 }) {
   const sections = groupQuestions(questions);
   return (
     <div className="dist-sections">
       {sections.map((section) => (
         <section key={section.key} className="dist-section">
-          <h3 className="article-heading">{sectionHeading(section)}</h3>
+          {sectionHeading(section, unitPlural) && (
+            <h3 className="article-heading">{sectionHeading(section, unitPlural)}</h3>
+          )}
           <ul className="question-list">
             {section.questions.map((q) => {
               const eyebrow = cardEyebrow(q);

@@ -231,6 +231,31 @@ const TOMES = {
   6: { title: "Book VI: Commentarii in Sacram Scripturam I", initial: "6" },
 };
 
+// Factual header for each work's landing page (SITE-PLAN Phase 1; Wilson,
+// 2026-11-06: factual headers only, no editorial introduction). `titleEn` is
+// the English title frozen at the work's pilot (repo CLAUDE.md) where one was
+// frozen; the four Vol VI titles marked (descriptive) were never frozen and are
+// plain descriptions. `unit` is the noun for one chunk of the work, singular
+// and plural, replacing the Sentences-shaped "question" in counts.
+const WORK_FACTS = {
+  breviloquium: { titleEn: "Breviloquium", genre: "Theological compendium", unit: ["chapter", "chapters"] },
+  itinerarium: { titleEn: "The Journey of the Mind into God", genre: "Treatise", unit: ["chapter", "chapters"] },
+  "de-reductione": { titleEn: "On the Reduction of the Arts to Theology", genre: "Treatise", unit: ["text", "texts"] },
+  hexaemeron: { titleEn: "Collations on the Hexaëmeron", genre: "Collationes (a reportatio)", unit: ["collation", "collations"] },
+  "septem-donis": { titleEn: "Collations on the Seven Gifts of the Holy Spirit", genre: "Collationes (a reportatio)", unit: ["collation", "collations"] },
+  "decem-praeceptis": { titleEn: "Collations on the Ten Commandments", genre: "Collationes (a reportatio)", unit: ["collation", "collations"] },
+  "scientia-christi": { titleEn: "Disputed Questions on the Knowledge of Christ", genre: "Disputed questions", unit: ["question", "questions"] },
+  "mysterio-trinitatis": { titleEn: "Disputed Questions on the Mystery of the Trinity", genre: "Disputed questions", unit: ["article", "articles"] },
+  "perfectione-evangelica": { titleEn: "Disputed Questions on Evangelical Perfection", genre: "Disputed questions", unit: ["article", "articles"] },
+  "sermones-selecti": { titleEn: "Selected Sermons on Theological Matters", genre: "Sermons", unit: ["sermon", "sermons"] },
+  ecclesiasten: { titleEn: "Commentary on Ecclesiastes", genre: "Scripture commentary", unit: ["pericope", "pericopes"] }, // (descriptive)
+  sapientiam: { titleEn: "Commentary on the Book of Wisdom", genre: "Scripture commentary", unit: ["pericope", "pericopes"] }, // (descriptive)
+  ioannem: { titleEn: "Commentary on the Gospel of John", genre: "Scripture commentary", unit: ["pericope", "pericopes"] }, // (descriptive)
+  "collationes-ioannem": { titleEn: "Collations on the Gospel of John", genre: "Collationes", unit: ["chapter", "chapters"] }, // (descriptive)
+};
+const SENTENCES_FACTS = { genre: "Commentary on the Sentences of Peter Lombard", unit: ["question", "questions"] };
+const SENTENCES_LA = (n) => `Commentarius in ${["I", "II", "III", "IV"][n - 1]} librum Sententiarum`;
+
 const WORKS = {
   breviloquium: {
     book: 5,
@@ -1158,6 +1183,12 @@ for (const { file, dir } of latinFiles) {
     firstPage: meta.printed_pages
       ? parseInt(String(meta.printed_pages).match(/\d+/)?.[0]) || undefined
       : undefined,
+    // Printed span [first, last] from `printed_pages`, for "cite this" and the
+    // work header. Absent when the frontmatter gives none.
+    pages: (() => {
+      const nums = String(meta.printed_pages ?? "").match(/\d+/g)?.map(Number) ?? [];
+      return nums.length ? [Math.min(...nums), Math.max(...nums)] : undefined;
+    })(),
     title: meta.title || "",
     titleLa: meta.title_la || "",
     titleEn: meta.title_en || "",
@@ -1194,6 +1225,7 @@ for (const { file, dir } of latinFiles) {
     // Sort-only, stripped before output.
     isFront: isSentencesFront(chunkMeta),
     firstPage: chunkMeta.firstPage,
+    pages: chunkMeta.pages,
   });
 }
 
@@ -1277,9 +1309,18 @@ for (const [bookId, distMap] of [...bookMap.entries()].sort((a, b) => a[0] - b[0
     distinctions.push({ id: distId, title: divTitle, questions: cleaned });
   }
   const bookWork = Object.values(WORKS).find((w) => w.book === bookId);
+  const workSlug = Object.entries(WORKS).find(([, w]) => w.book === bookId)?.[0];
+  const facts = bookWork ? WORK_FACTS[workSlug] : SENTENCES_FACTS;
+  if (!facts) throw new Error(`build-content: no WORK_FACTS entry for ${workSlug}`);
+  const allPages = distinctions.flatMap((d) => d.questions.flatMap((q) => q.pages ?? []));
   books.push({
     id: bookId,
     title: bookWork ? bookWork.title : BOOK_TITLES[bookId] || `Book ${bookId}`,
+    titleLa: bookWork ? bookWork.title : SENTENCES_LA(bookId),
+    titleEn: bookWork ? facts.titleEn : BOOK_TITLES[bookId],
+    genre: facts.genre,
+    unitLabel: facts.unit,
+    pages: allPages.length ? [Math.min(...allPages), Math.max(...allPages)] : undefined,
     ...(bookWork
       ? {
           tome: bookWork.tome,

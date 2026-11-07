@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { loadAllContent, browseEntries, divisionCountLabel, tomePath } from "@/lib/content";
+import { loadAllContent, browseEntries, divisionCountLabel, tomePath, unitCount } from "@/lib/content";
 import progress from "@/data/progress.json";
 import { HomeIntro } from "@/components/site-copy";
 import { Illumination, CrossDivider, FleuronDivider } from "@/components/decorations";
@@ -127,7 +127,9 @@ export default function HomePage() {
                 <div>
                   <h3 className="card-title">{title}</h3>
                   <p className="card-meta">
-                    {count} &middot; {translated} of {total} questions translated
+                    {count}
+                    {entry.kind === "book" ? <> &middot; {unitCount(entry.book, total)}</> : null}
+                    {translated < total ? <> &middot; {translated} of {total} translated</> : null}
                   </p>
                 </div>
               </div>

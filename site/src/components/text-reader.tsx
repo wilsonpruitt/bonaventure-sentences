@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import type { ApparatusEntry } from "@/lib/content";
+import { PAGE_ONLY_RE, HEADING_START_RE, CONCLUSION_RE, isOutline, joinPageTurns } from "@/lib/paragraphs";
 
 type PageMode = "off" | "margin" | "inline";
 
@@ -20,6 +21,8 @@ export function TextReader({
   englishScholion,
   apparatus,
   hasTranslation,
+  anchorIds = [],
+  englishAnchors = false,
 }: {
   latin: string;
   english: string;
@@ -27,6 +30,11 @@ export function TextReader({
   englishScholion: string;
   apparatus: ApparatusEntry[];
   hasTranslation: boolean;
+  /** Ids for the body's headings in order (src/lib/headings.ts), placed on the
+   *  Latin headings, or on the English ones in English-only view when the two
+   *  carry the same headings (`englishAnchors`). Exactly one column has them. */
+  anchorIds?: string[];
+  englishAnchors?: boolean;
 }) {
   const [viewMode, setViewMode] = useState(hasTranslation ? "parallel" : "latin");
   const [pageMode, setPageMode] = useState<PageMode>("margin");
@@ -86,6 +94,7 @@ export function TextReader({
 
       {viewMode === "parallel" ? (
         <ParallelText
+          anchorIds={anchorIds}
           latin={latin}
           english={english}
           latinScholion={latinScholion}
@@ -101,6 +110,7 @@ export function TextReader({
             scholion={latinScholion}
             pageMode={pageMode}
             className="latin-text"
+            anchors={cursor(anchorIds)}
           />
         </div>
       ) : (
@@ -112,6 +122,7 @@ export function TextReader({
             pageMode={pageMode}
             className="english-text"
             pendingFallback={!hasTranslation}
+            anchors={englishAnchors ? cursor(anchorIds) : undefined}
           />
         </div>
       )}
@@ -128,6 +139,7 @@ export function TextReader({
 // sequences differ the two columns run free, as before. At phone width the
 // grid is one column and `order` puts all the Latin before all the English.
 function ParallelText({
+  anchorIds,
   latin,
   english,
   latinScholion,
@@ -141,7 +153,9 @@ function ParallelText({
   englishScholion: string;
   pageMode: PageMode;
   hasTranslation: boolean;
+  anchorIds: string[];
 }) {
+  const anchors = cursor(anchorIds);
   const la = splitSections(joinPageTurns(latin));
   const en = splitSections(joinPageTurns(english));
   if (!hasTranslation || !sameShape(la, en)) {
@@ -153,6 +167,7 @@ function ParallelText({
           scholion={latinScholion}
           pageMode={pageMode}
           className="latin-text"
+          anchors={anchors}
         />
         <TextColumn
           label="English Translation"
@@ -176,7 +191,7 @@ function ParallelText({
       </div>
       {la.map((sec, i) => (
         <div key={`la-${i}`} className="text-column" style={{ gridColumn: 1, gridRow: i + 2, order: 1 }}>
-          {renderParas(sec, "latin-text", pageMode)}
+          {renderParas(sec, "latin-text", pageMode, anchors)}
         </div>
       ))}
       {en.map((sec, i) => (
@@ -205,6 +220,7 @@ function TextColumn({
   pageMode,
   className,
   pendingFallback,
+  anchors,
 }: {
   label: string;
   body: string;
@@ -212,6 +228,7 @@ function TextColumn({
   pageMode: PageMode;
   className: string;
   pendingFallback?: boolean;
+  anchors?: Cursor;
 }) {
   return (
     <div>
@@ -224,7 +241,7 @@ function TextColumn({
             Translation not yet available for this section.
           </p>
         ) : (
-          renderBody(body, className, pageMode)
+          renderBody(body, className, pageMode, anchors)
         )}
       </div>
       {scholion && !pendingFallback && (
@@ -312,67 +329,6 @@ function displayLabel(id: string): string {
   return m ? m[1] : id;
 }
 
-const PAGE_ONLY_RE = /^<!--\s*page\s+(\d+)\s*-->$/;
-const HEADING_START_RE = /^#{3,4}\s/;
-const CONCLUSION_RE = /^(CONCLUSION\.|DOUBT\s+[IVXLCDM]+\.?)$/i;
-
-function isOutline(para: string): boolean {
-  const lines = para.split("\n").filter((l) => l.trim().length > 0);
-  return lines.length > 0 && lines.every((l) => /^( *)- \S/.test(l));
-}
-
-// Running prose — the only kind of paragraph a page marker may be folded into.
-function isProse(para: string): boolean {
-  return (
-    !HEADING_START_RE.test(para) &&
-    !para.startsWith(">") &&
-    !para.startsWith("<!--") &&
-    !para.startsWith("---") &&
-    !CONCLUSION_RE.test(para) &&
-    !isOutline(para)
-  );
-}
-
-// Does `next` carry on the sentence that `prev` broke off at a page turn?
-// A lowercase start always does (incl. the 345 words hyphenated across the
-// turn); otherwise only when `prev` stops without closing punctuation and
-// `next` does not open a numbered argument or a bold rubric.
-function continuesAcross(prev: string, next: string): boolean {
-  if (/^\d+\.\s/.test(next) || next.startsWith("**")) return false;
-  if (/^\p{Ll}/u.test(next)) return true;
-  const last = prev.split("\n").pop()!.trimEnd();
-  return !/[.!?»)\]*"”]$/.test(last);
-}
-
-// The chunks store every page turn as its own paragraph (`<!-- page N -->`
-// between blank lines), even mid-sentence, which split the sentence in two
-// around a block marker. Fold each marker into the text instead: a turn inside
-// a sentence rejoins the halves (no space after a hyphen, so `quae-` + `stio`
-// reads as printed); a turn at a real paragraph break goes onto the start of
-// the next paragraph. Either way the marker renders inline (margin or boxed)
-// and adds no vertical space. Markers next to headings stay standalone.
-function joinPageTurns(body: string): string[] {
-  if (!body) return [];
-  const paras = body.split(/\n{2,}/).map((p) => p.trim()).filter(Boolean);
-  const out: string[] = [];
-  for (let i = 0; i < paras.length; i++) {
-    const para = paras[i];
-    const next = paras[i + 1];
-    if (!PAGE_ONLY_RE.test(para) || next === undefined || !isProse(next)) {
-      out.push(para);
-      continue;
-    }
-    const prev = out[out.length - 1];
-    if (prev !== undefined && isProse(prev) && continuesAcross(prev, next)) {
-      out[out.length - 1] = prev.endsWith("-") ? prev + para + next : `${prev} ${para}${next}`;
-    } else {
-      out.push(para + next);
-    }
-    i += 1;
-  }
-  return out;
-}
-
 // Split paragraphs into sections, each opening at a heading. A heading opens a
 // new section only once the current one has body text: a stack of headings
 // (Articulus over Quaestio) is one section start however the two languages
@@ -406,11 +362,20 @@ function sameShape(a: string[][], b: string[][]): boolean {
   return a.every((sec, i) => level(sec) === level(b[i]));
 }
 
-function renderBody(body: string, className: string, pageMode: PageMode) {
-  return renderParas(joinPageTurns(body), className, pageMode);
+// Hands out heading ids in render order; one cursor per rendered column.
+type Cursor = { ids: string[]; i: number };
+const cursor = (ids: string[]): Cursor => ({ ids, i: 0 });
+
+function renderBody(body: string, className: string, pageMode: PageMode, anchors?: Cursor) {
+  return renderParas(joinPageTurns(body), className, pageMode, anchors);
 }
 
-function renderParas(paragraphs: string[], className: string, pageMode: PageMode) {
+function renderParas(
+  paragraphs: string[],
+  className: string,
+  pageMode: PageMode,
+  anchors?: Cursor
+) {
   if (paragraphs.length === 0) return null;
   const nodes: React.ReactNode[] = [];
   paragraphs.forEach((para, i) => {
@@ -438,7 +403,11 @@ function renderParas(paragraphs: string[], className: string, pageMode: PageMode
         const Tag = hashes === "####" ? "h4" : "h3";
         const cls = hashes === "####" ? "reader-h4" : "reader-h3";
         nodes.push(
-          <Tag key={`h-${i}-${headingIdx}`} className={cls}>
+          <Tag
+            key={`h-${i}-${headingIdx}`}
+            className={cls}
+            id={anchors ? anchors.ids[anchors.i++] : undefined}
+          >
             {renderInline(headingText, pageMode)}
           </Tag>
         );

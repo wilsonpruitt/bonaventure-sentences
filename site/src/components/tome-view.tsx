@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { type tomeGroups, divisionCountLabel } from "@/lib/content";
+import { type tomeGroups, divisionCountLabel, pageSpan } from "@/lib/content";
 import { Illumination, CrossDivider } from "@/components/decorations";
 
 export function TomeView({ tome }: { tome: ReturnType<typeof tomeGroups>[number] }) {
@@ -28,7 +28,11 @@ export function TomeView({ tome }: { tome: ReturnType<typeof tomeGroups>[number]
               <Illumination size={44} letter={work.initial ?? `${work.id}`} />
               <div>
                 <h3 className="card-title">{work.title}</h3>
-                <p className="card-meta">{divisionCountLabel(work)}</p>
+                <p className="card-meta" style={{ fontStyle: "italic" }}>{work.titleEn}</p>
+                <p className="card-meta">
+                  {work.distinctions.length > 1 ? divisionCountLabel(work) : "One text"}
+                  {work.pages ? ` · Quaracchi ${pageSpan(work.pages)}` : ""}
+                </p>
               </div>
             </div>
           </div>

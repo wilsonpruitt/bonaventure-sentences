@@ -154,6 +154,26 @@ active (they edit the same file). The chunk loop pauses for it, or the phase lan
   memory `wroot-press-licensing`) and URL.
   *Verify: every chunk renders; anchor ids unique per page; the contents box matches the headings.*
 
+**▶ Phase 1 STATUS (2026-11-06): BUILT and verified locally, NOT deployed.**
+- **Work facts** in one block beside the registry, `WORK_FACTS` in `build-content.mjs`: `titleEn` (frozen at each
+  pilot; Ecclesiastes, Wisdom, John and the *Collationes* on John are DESCRIPTIVE, never frozen — Wilson or the
+  scholar may want to fix them), `genre`, `unit` (Sentences "question", Scripture commentaries "pericope", etc.).
+  Chunks and works now carry `pages` [first, last] from `printed_pages`.
+- **Landing pages** (`book-view.tsx`): Latin + English title, Genre, Edition (tome, year, page span), Structure
+  (Quaracchi's own divisions), On this site (N pages of text), Status (from progress.json), Citation. Factual only.
+  Unit nouns replace "questions" in counts; a count of 1 is hidden; division 0 counts as "sections". ⚠ The chunk
+  count is deliberately NOT given in the work's unit noun: chunks include prologues, capitula tables and scholia,
+  so "10 chapters" for the Itinerarium would be false. "Pages of text" is the honest count.
+- **In-chunk contents + anchors:** `src/lib/headings.ts` (ids from the LATIN headings: `#coll-14`, `#annot-12`,
+  `#dub-3`, `#q-2`, `#a-1`, `#c-4`, `#conclusio`, else `#sec-N`); paragraph helpers moved to `src/lib/paragraphs.ts`
+  so server and reader walk the same paragraphs. Box shown on 1,240 chunks (3+ headings, or 2+ over 3+ pp).
+  *Verified on all 2,303 pages: zero duplicate ids, zero broken contents links, anchored-heading count = Latin
+  heading count on every page.* ⏭ **Deferred to Phase 3:** Quaracchi ¶ anchors (`#n-12`) — paragraph numbers
+  restart inside a chunk (per collatio), so they need unit-qualified ids, which is Phase 3's anchor work anyway.
+  Footnotes already carry `#fn-p556-8`.
+- **Cite this** on every chunk: author, Latin work title, unit, *Opera Omnia* (Quaracchi, year), tom., pp.; the
+  translation, URL, CC BY-NC 4.0.
+
 **Phase 2: the address migration (its own deploy).** The scheme and redirects above, plus a sitemap,
 `rel=canonical` and JSON-LD. *Verify: the enumerate-every-old-address check (100% → 200); internal links contain no
 `/browse/…/d/…/q/` paths; the search index rebuilt on the new addresses.*
@@ -213,6 +233,8 @@ normalization pilot, and the Phase 5 sermon model (folded into the Vol IX pilot)
 
 ## Answered (Wilson, 2026-11-06)
 - **Q1 slugs → LATIN** (`/ioannem`, `/sapientiam`, `/collationes-ioannem`); English titles shown on each landing page.
+- **Q3 work introductions → FACTUAL HEADERS ONLY** (Wilson, 2026-11-06). No editorial introduction per work for now.
+- **Q4 phase order → 2 right after 0** (Wilson, 2026-11-06), then 1.
 - **Q2 home intro + footer appeal → written by a Bonaventure scholar** Wilson commissions, not drafted by Claude.
   Phase 0 still corrects the FACTS (scope table, meta description), but leaves the prose slots for the scholar's
   text. ⚠ The footer's donation tier labels (`$10 — a distinction`, `$100 — a decade`) are Sentences-shaped too.
