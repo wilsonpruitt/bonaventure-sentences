@@ -24944,6 +24944,89 @@ bon-cioan-c8	6	apparatus:p578-2	p578-2	scripture	apparatus-explicit	Psalm. 78, 1
 bon-cioan-c8	6	apparatus:p578-2	p578-2	scripture	apparatus-explicit	Ioan. 8, 59	Ioan 8:59	A	verse			
 bon-cioan-c8	6	apparatus:p578-3	p578-3	scripture	apparatus-explicit	Ioan. 2, 15	Ioan 2:15	A	verse			
 bon-cioan-c8	6	apparatus:p578-5	p578-5	scripture	anaphor->body-ordinal	ibid. v. 48	Ioan 8:48	B	verse	yes	body: Ioannis octavo	
+bon-cioan-c9	6	latin_body		scripture	body-ordinal	Deuteronomii vigesimo septimo	Deut 27	C	chapter			
+bon-cioan-c9	6	latin_body		scripture	body-ordinal	Matthaei decimo quinto	Matth 15	C	chapter			
+bon-cioan-c9	6	latin_body		scripture	body-ordinal	Isaiae quadragesimo secundo	Isai 42	C	chapter			
+bon-cioan-c9	6	latin_body	p578-7	scripture	body-ordinal	Sophoniae primo	Soph 1:17	B	verse			
+bon-cioan-c9	6	latin_body		scripture	body-ordinal	Deuteronomii vigesimo octavo	Deut 28	C	chapter			
+bon-cioan-c9	6	latin_body		scripture	body-ordinal	Petri primo	Petr* 1	C	chapter			
+bon-cioan-c9	6	latin_body		scripture	body-ordinal	Sapientiae secundo	Sap 2	C	chapter			
+bon-cioan-c9	6	latin_body	p579-1	scripture	body-ordinal	ad Romanos undecimo	Rom 11:25	B	verse			
+bon-cioan-c9	6	latin_body		scripture	body-ordinal	ad Ephesios quarto	Eph 4	C	chapter			
+bon-cioan-c9	6	latin_body		scripture	body-ordinal	Apocalypsis tertio	Apoc 3	C	chapter			
+bon-cioan-c9	6	latin_body	p579-2	scripture	body-ordinal	Threnorum quarto	Thren 4:14	B	verse			
+bon-cioan-c9	6	latin_body	p579-3	scripture	body-ordinal	Isaiae quadragesimo secundo	Isai 42:18	B	verse			
+bon-cioan-c9	6	latin_body		scripture	body-ordinal	Lucae sexto	Luc 6	C	chapter			
+bon-cioan-c9	6	latin_body		scripture	body-ordinal	Isaiae quinquagesimo nono	Isai 59	C	chapter			
+bon-cioan-c9	6	latin_body		scripture	body-ordinal	Tobiae undecimo	Tob 11	C	chapter			
+bon-cioan-c9	6	latin_body	p579-5	scripture	body-ordinal	Marci decimo	Marc 10:46	B	verse			
+bon-cioan-c9	6	latin_body		scripture	body-ordinal	Tobiae quinto	Tob 5	C	chapter			
+bon-cioan-c9	6	latin_body		scripture	body-ordinal	Marci decimo	Marc 10	C	chapter			
+bon-cioan-c9	6	latin_body	p579-6	scripture	body-ordinal	Regum quinto	Reg* 5:8	B	verse			
+bon-cioan-c9	6	latin_body	p579-7	scripture	body-ordinal	Sapientiae secundo	Sap 2:21	B	verse			
+bon-cioan-c9	6	latin_body	p579-8	scripture	body-ordinal	Iudicum decimo sexto	Iudic 16:4	B	verse			
+bon-cioan-c9	6	latin_body	p579-9	scripture	body-ordinal	Tobiae secundo	Tob 2:11	B	verse			
+bon-cioan-c9	6	latin_body		scripture	body-ordinal	ad Philippenses tertio	Phil 3	C	chapter			
+bon-cioan-c9	6	latin_body	p580-1	scripture	body-ordinal	Apocalypsis tertio	Apoc 3:18	B	verse			
+bon-cioan-c9	6	latin_body		scripture	body-ordinal	Ecclesiastici quadragesimo primo	Eccli 41	C	chapter			
+bon-cioan-c9	6	latin_body	p580-3	scripture	body-ordinal	Isaiae sexagesimo quarto	Isai 64:8	B	verse			
+bon-cioan-c9	6	latin_body		scripture	body-ordinal	Ieremiae decimo octavo	Ierem 18	C	chapter			
+bon-cioan-c9	6	latin_body		scripture	body-ordinal	Iob quadragesimo primo	Iob 41	C	chapter			
+bon-cioan-c9	6	latin_body		scripture	body-ordinal	Iob trigesimo	Iob 30	C	chapter			
+bon-cioan-c9	6	latin_body	p580-4	scripture	body-ordinal	Petri secundo	Petr* 2:22	B	verse			
+bon-cioan-c9	6	latin_body		scripture	body-ordinal	Ieremiae trigesimo octavo	Ierem 38	C	chapter			
+bon-cioan-c9	6	latin_body		scripture	body-ordinal	Exodi primo	Exod 1	C	chapter			
+bon-cioan-c9	6	latin_body	p580-5	scripture	body-ordinal	Habacuc tertio	Habac 3:15	B	verse			
+bon-cioan-c9	6	latin_body		scripture	body-ordinal	Isaiae decimo	Isai 10	C	chapter			
+bon-cioan-c9	6	latin_body		scripture	body-ordinal	Nahum tertio	Nahum 3	C	chapter			
+bon-cioan-c9	6	latin_body	p580-6	scripture	body-ordinal	Ioannis nono	Ioan 9:11	B	verse			
+bon-cioan-c9	6	latin_body		scripture	body-ordinal	Levitici decimo quarto	Lev 14	C	chapter			
+bon-cioan-c9	6	latin_body		scripture	body-ordinal	Lucae decimo tertio	Luc 13	C	chapter			
+bon-cioan-c9	6	latin_body	p580-8	scripture	body-ordinal	Isaiae vigesimo nono	Isai 29:16	B	verse			
+bon-cioan-c9	6	latin_body		scripture	body-ordinal	Isaiae quinquagesimo septimo	Isai 57	C	chapter			
+bon-cioan-c9	6	latin_body	p581-1	scripture	body-ordinal	Habacuc secundo	Habac 2:6	B	verse			
+bon-cioan-c9	6	latin_body		scripture	body-ordinal	Ecclesiastici vigesimo secundo	Eccli 22	C	chapter			
+bon-cioan-c9	6	latin_body		scripture	body-ordinal	Petri secundo	Petr* 2	C	chapter			
+bon-cioan-c9	6	apparatus:p578-6	p578-6	scripture	apparatus-explicit	Deut. 27, 18	Deut 27:18	A	verse			
+bon-cioan-c9	6	apparatus:p578-6	p578-6	scripture	apparatus-explicit	Matth. 15, 14	Matth 15:14	A	verse			
+bon-cioan-c9	6	apparatus:p578-6	p578-6	scripture	apparatus-explicit	Isai. 42, 6	Isai 42:6	A	verse			
+bon-cioan-c9	6	apparatus:p578-7	p578-7	scripture	apparatus-explicit	Deut. 28, 28	Deut 28:28	A	verse			
+bon-cioan-c9	6	apparatus:p578-7	p578-7	scripture	apparatus-explicit	II. Petr. 1, 9	2Petr 1:9	A	verse			
+bon-cioan-c9	6	apparatus:p578-7	p578-7	scripture	apparatus-explicit	Sap. 2, 21	Sap 2:21	A	verse			
+bon-cioan-c9	6	apparatus:p579-1	p579-1	scripture	apparatus-explicit	Eph. 4, 18	Eph 4:18	A	verse			
+bon-cioan-c9	6	apparatus:p579-1	p579-1	scripture	apparatus-explicit	Apoc. 3, 17	Apoc 3:17	A	verse			
+bon-cioan-c9	6	apparatus:p579-2	p579-2	scripture	apparatus-explicit	Matth. 15, 14	Matth 15:14	A	verse			
+bon-cioan-c9	6	apparatus:p579-3	p579-3	scripture	apparatus-explicit	Luc. 6, 39	Luc 6:39	A	verse			
+bon-cioan-c9	6	apparatus:p579-3	p579-3	scripture	apparatus-explicit	Isai. 59, 10	Isai 59:10	A	verse			
+bon-cioan-c9	6	apparatus:p579-3	p579-3	scripture	apparatus-explicit	Deut. 28, 28	Deut 28:28	A	verse			
+bon-cioan-c9	6	apparatus:p579-3	p579-3	scripture	apparatus-explicit	Tob. 11, 10	Tob 11:10	A	verse			
+bon-cioan-c9	6	apparatus:p579-5	p579-5	scripture	apparatus-explicit	Apoc. 3, 17	Apoc 3:17	A	verse			
+bon-cioan-c9	6	apparatus:p579-5	p579-5	scripture	apparatus-explicit	Tob. 5, 12	Tob 5:12	A	verse			
+bon-cioan-c9	6	apparatus:p579-5	p579-5	scripture	apparatus-explicit	Marc. 10, 51	Marc 10:51	A	verse			
+bon-cioan-c9	6	apparatus:p579-6	p579-6	scripture	apparatus-explicit	Eph. 4, 18	Eph 4:18	A	verse			
+bon-cioan-c9	6	apparatus:p579-7	p579-7	scripture	apparatus-explicit	I. Ioan. 2, 16	1Ioan 2:16	A	verse			
+bon-cioan-c9	6	apparatus:p579-9	p579-9	scripture	apparatus-explicit	Phil. 3, 8	Phil 3:8	A	verse			
+bon-cioan-c9	6	apparatus:p579-10	p579-10	scripture	apparatus-explicit	Ps. 18, 14	Ps 18:14	A	verse			
+bon-cioan-c9	6	apparatus:p580-1	p580-1	scripture	apparatus-explicit	Eccli. 41, 1	Eccli 41:1	A	verse			
+bon-cioan-c9	6	apparatus:p580-2	p580-2	crossref	page	supra pag. 91, nota 3	bon-eccl-c11-v1-10		chunk			fn-p91-3
+bon-cioan-c9	6	apparatus:p580-2	p580-2	scripture	apparatus-explicit	Tob. 11, 13-15	Tob 11:13-15	A	verse			
+bon-cioan-c9	6	apparatus:p580-3	p580-3	scripture	apparatus-explicit	Ier. 18, 6	Ierem 18:6	A	verse			
+bon-cioan-c9	6	apparatus:p580-3	p580-3	scripture	apparatus-explicit	Iob 41, 21	Iob 41:21	A	verse			
+bon-cioan-c9	6	apparatus:p580-4	p580-4	scripture	apparatus-explicit	Ps. 39, 2	Ps 39:2	A	verse			
+bon-cioan-c9	6	apparatus:p580-4	p580-4	scripture	apparatus-explicit	Ier. 38, 22	Ierem 38:22	A	verse			
+bon-cioan-c9	6	apparatus:p580-4	p580-4	scripture	apparatus-explicit	Ps. 68, 15	Ps 68:15	A	verse			
+bon-cioan-c9	6	apparatus:p580-4	p580-4	scripture	apparatus-explicit	Exod. 1, 14	Exod 1:14	A	verse			
+bon-cioan-c9	6	apparatus:p580-5	p580-5	scripture	apparatus-explicit	Isai. 10, 6	Isai 10:6	A	verse			
+bon-cioan-c9	6	apparatus:p580-5	p580-5	scripture	apparatus-explicit	Ps. 17, 43	Ps 17:43	A	verse			
+bon-cioan-c9	6	apparatus:p580-5	p580-5	scripture	apparatus-explicit	Nahum 3, 14	Nahum 3:14	A	verse			
+bon-cioan-c9	6	apparatus:p580-6	p580-6	scripture	apparatus-explicit	Lev. 14, 40	Lev 14:40	A	verse			
+bon-cioan-c9	6	apparatus:p580-6	p580-6	scripture	apparatus-explicit	Luc. 13, 8	Luc 13:8	A	verse			
+bon-cioan-c9	6	apparatus:p580-8	p580-8	scripture	apparatus-explicit	Isai. 57, 20	Isai 57:20	A	verse			
+bon-cioan-c9	6	apparatus:p580-8	p580-8	scripture	apparatus-explicit	Iob 41, 21	Iob 41:21	A	verse			
+bon-cioan-c9	6	apparatus:p581-1	p581-1	scripture	apparatus-explicit	Eccli. 22, 1	Eccli 22:1	A	verse			
+bon-cioan-c9	6	apparatus:p581-1	p581-1	scripture	apparatus-explicit	Ier. 38, 22	Ierem 38:22	A	verse			
+bon-cioan-c9	6	apparatus:p581-1	p581-1	scripture	apparatus-explicit	Ps. 68, 15	Ps 68:15	A	verse			
+bon-cioan-c9	6	apparatus:p581-1	p581-1	scripture	apparatus-explicit	II. Petr. 2, 22	2Petr 2:22	A	verse			
 bon-eccl-c1-v1	6	latin_body		scripture	body-ordinal	Proverbiorum vigesimo sexto	Prov 26	C	chapter			
 bon-eccl-c1-v1	6	latin_body		scripture	body-ordinal	Proverbiorum decimo septimo	Prov 17	C	chapter			
 bon-eccl-c1-v1	6	latin_body	p9-5	scripture	body-ordinal	Matthaei decimo quinto	Matth 15:22	B	verse			

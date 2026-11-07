@@ -1009,6 +1009,11 @@ const WORKS = {
       // the chapter runs to p. 578, where Coll. XXXVI closes above the
       // full-measure Cᴀᴘɪᴛᴜʟᴜᴍ IX. Et praeteriens Iesus.
       8: "Capitulum VIII: Iesus perrexit in montem",
+      // `Cᴀᴘɪᴛᴜʟᴜᴍ IX. Et praeteriens Iesus.` read in place on p. 578 at
+      // bon-cioan-c9: full measure mid-leaf, unanchored, below Coll. XXXVI's
+      // close; the chapter runs to the top band of p. 581, where Cᴀᴘɪᴛᴜʟᴜᴍ X.
+      // Amen, amen dico vobis. stands full measure below Coll. XXXVIII's close.
+      9: "Capitulum IX: Et praeteriens Iesus",
     },
   },
 };

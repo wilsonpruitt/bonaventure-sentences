@@ -4692,8 +4692,19 @@ KNOWN_TOTALS_VOL6 = {
              # anchors L 1-4 / R 5-7; blocks L 1-5 / R 6-7. Gutter 902.
     578: 7,  # SHARED: bon-cioan-c8 owns nn.1-5 (Coll. XXXVI ¶¶ 3-6); nn.6-7 anchor in
              # Coll. XXXVII ¶ 1 below the full-measure Cᴀᴘɪᴛᴜʟᴜᴍ IX. and are
-             # bon-cioan-c9's (PENDING until c9 lands). Blocks L 1-4 / R 5-7.
-             # Gutter 1165 (Cap. VIII region, rows 0.06-0.50); 1167 below.
+             # bon-cioan-c9's (FULLY OWNED once c9 landed: n.6 anchors LEFT at
+             # *sequitur infra*, n.7 RIGHT at *Sophoniae primo*; both print RIGHT).
+             # Blocks L 1-4 / R 5-7. Gutter 1165 (Cap. VIII region, rows 0.06-0.50);
+             # 1167 below (Cap. IX region, rows 0.56-0.75, re-profiled by c9).
+    579: 10, # bon-cioan-c9: nn.1-10 Coll. XXXVII ¶¶ 2-6; anchors and blocks L 1-5 /
+             # R 6-10. Gutter 918-919 (both halves).
+    580: 8,  # bon-cioan-c9: nn.1-2 Coll. XXXVII ¶ 7, nn.3-8 Coll. XXXVIII ¶¶ 1-5;
+             # anchors and blocks L 1-4 / R 5-8. n.4 prints `Ps. 39, 2` for Ps. 39:3
+             # (bracketed). Gutter 1163 top / 1169 foot, one split.
+    581: 8,  # SHARED: bon-cioan-c9 owns n.1 (Coll. XXXVIII ¶ 5, Habacuc secundo);
+             # nn.2-8 anchor in Coll. XXXIX below the full-measure Cᴀᴘɪᴛᴜʟᴜᴍ X. and
+             # are bon-cioan-c10's (PENDING until c10 lands). Blocks L 1-4 / R 5-8.
+             # Gutter 924 (rows 0.25-0.70).
 }
 
 KNOWN_TOTALS_BY_VOL = {
