@@ -4748,8 +4748,20 @@ KNOWN_TOTALS_VOL6 = {
              # Gutter 1169 top / 1177 foot (skew), one split.
     597: 10, # SHARED: bon-cioan-c12 owns nn.1-2 (Annot. 51; anchors R 1-2, block L
              # 1-2); nn.3-10 anchor in Coll. XLVIII below the full-measure
-             # Cᴀᴘɪᴛᴜʟᴜᴍ XIII. and are bon-cioan-c13's (PENDING until c13 lands).
+             # Cᴀᴘɪᴛᴜʟᴜᴍ XIII. and are bon-cioan-c13's (FULLY OWNED once c13 landed;
+             # anchors L 3-5 / R 6-10, blocks L 3-7 / R 8-10: nn.6-7 print L, anchor R).
              # Gutter 913-916.
+    598: 9,  # bon-cioan-c13: nn.1-3 Coll. XLVIII ¶ 3 tail + Coll. XLIX ¶ 1, nn.4-9
+             # Coll. XLIX ¶¶ 2-3 + Coll. L ¶ 1; anchors L 1-5 / R 6-9; blocks L 1-4 /
+             # R 5-9 (n.5 prints R, anchors L). Gutter 1161.
+    599: 9,  # bon-cioan-c13: nn.1-2 Coll. L ¶ 2, nn.3-9 Coll. LI ¶¶ 1-3; anchors
+             # L 1-4 / R 5-9; blocks L 1-4 / R 5-9. Gutter 905.
+    600: 11, # bon-cioan-c13: nn.1-11 Coll. LI ¶¶ 3-6; anchors L 1-6 / R 7-11;
+             # blocks L 1-6 / R 7-11. Gutter 1166 top / 1170 foot.
+    601: 9,  # SHARED: bon-cioan-c13 owns nn.1-8 (Coll. LI ¶ 6 tail, Annot. 52-56;
+             # anchors L 1-4 / R 5-8, blocks L 1-5 / R 6-8: n.5 prints L, anchors R);
+             # n.9 anchors in Coll. LII ¶ 2 below the full-measure Cᴀᴘɪᴛᴜʟᴜᴍ XIV. and
+             # is bon-cioan-c14's (PENDING until c14 lands). Gutter 898.
 }
 
 KNOWN_TOTALS_BY_VOL = {
