@@ -394,6 +394,45 @@ def scan_scripture_book_unnamed(text, cfg):
                "raw": m.group(0), "pos": m.start(), "conf": ""}
 
 
+# D5 (rulings 103 / 113 / 147; resolver session 2026-11-07): body ordinals that emitted no
+# record. (1) `<book form> ultimo / penultimo` (offset from the table's last chapter);
+# (2) the NOMINATIVE evangelist, `narrat Matthaeus vigesimo octavo`, `Lucas undecimo[^3]`.
+LAST_CHAPTER = {"ultimo": 0, "ultimum": 0, "penultimo": 1}
+LAST_CHAPTER_RE = "ultimo|ultimum|penultimo"
+EVANGELIST_NOM = {"Matthaeus": "Matth", "Marcus": "Marc", "Lucas": "Luc", "Ioannes": "Ioan"}
+# One speech verb may stand between the name and the ordinal (`Lucas dicat vigesimo quarto`).
+EVANGELIST_VERB = "dicit|dicat|ait|narrat|dixit|inquit|scribit|loquitur|refert|testatur|ponit"
+
+
+def scan_scripture_evangelist(text, cfg):
+    """Form B for the nominative evangelist. Unlike the genitive forms these are also
+    ordinary names and adverbs (`Ioannes primo credidit` = the Baptist first believed;
+    `beatus Ioannes decimo quarto Apocalypsis` names the book after the ordinal), so the
+    ordinal is read as a chapter only when it is CLOSED like a citation: followed by a
+    note anchor `[^…]`, or by `: . , ; )`, or by the end of the text. A bare `Ioannes
+    duodecimo vocat` is therefore left unrecorded (precision over recall)."""
+    meta, ordinals = cfg["_meta"], cfg["ordinals"]
+    ow = "|".join(sorted(ordinals, key=len, reverse=True))
+    pat = re.compile(
+        rf"(?<![A-Za-zÀ-ÿ])({'|'.join(EVANGELIST_NOM)})(?:\s*,)?\s+(?:(?:{EVANGELIST_VERB})\s+)?"
+        rf"((?:{ow})(?:\s+(?:{ow}))?|{LAST_CHAPTER_RE})(?![A-Za-zÀ-ÿ])(?=\s*(?:\[\^|[:.,;)]|$))")
+    for m in pat.finditer(text):
+        key = EVANGELIST_NOM[m.group(1)]
+        tok = m.group(2).lower()
+        if tok in LAST_CHAPTER:
+            chap = meta[key]["chapters"] - LAST_CHAPTER[tok]
+        else:
+            chap = parse_ordinal_run(m.group(2).split(), ordinals)
+            if chap is None:
+                continue
+        yield {
+            "_d5": True,
+            "cls": "scripture", "sub": "body-ordinal", "book": key, "chapter": chap,
+            "verse": None, "verse_end": None, "raw": m.group(0), "pos": m.start(),
+            "conf": "C", "over_chapters": chap > meta[key].get("chapters", 999),
+        }
+
+
 IOAN_EPISTLE = {"primae": "1Ioan", "secundae": "2Ioan", "tertiae": "3Ioan"}
 IOAN_EPISTLE_RE = re.compile(r"(?<![A-Za-zÀ-ÿ])(primae|secundae|tertiae)\s+$", re.IGNORECASE)
 
@@ -415,7 +454,7 @@ def scan_scripture_body(text, cfg):
     #      scripture citation.
     pat = re.compile(
         rf"(?<![A-Za-zÀ-ÿ])(?:ad\s+)?({'|'.join(map(re.escape, forms))})\s+"
-        rf"((?:{ow})(?:\s+(?:{ow}))?)(?![A-Za-zÀ-ÿ])",
+        rf"((?:{ow})(?:\s+(?:{ow}))?|{LAST_CHAPTER_RE})(?![A-Za-zÀ-ÿ])",
         re.IGNORECASE,
     )
     for m in pat.finditer(text):
@@ -425,7 +464,8 @@ def scan_scripture_body(text, cfg):
         if not key:
             continue
         chap = parse_ordinal_run(m.group(2).split(), ordinals)
-        if chap is None:
+        last = m.group(2).lower() in LAST_CHAPTER
+        if chap is None and not last:
             continue
         # D2 (rulings 94 / 147): `primae Ioannis secundo` is the FIRST EPISTLE, not the
         # Gospel — the epistle numeral stands before the book form and was dropped.
@@ -437,7 +477,15 @@ def scan_scripture_body(text, cfg):
             n = body_numeral_before(text, m.start())
             if n:
                 key = numbered_book_key(key, n, meta)
+        if last:
+            # D5: `ultimo` = the book's last chapter, `penultimo` the one before it, from the
+            # table's chapter count. An unnumbered `Regum ultimo` has no knowable last chapter
+            # (Reg* is not one book): no record, never a guess.
+            if key.endswith("*") or not meta[key].get("chapters"):
+                continue
+            chap = meta[key]["chapters"] - LAST_CHAPTER[m.group(2).lower()]
         yield {
+            "_d5": last,
             "cls": "scripture",
             "sub": "body-ordinal",
             "book": key,
@@ -1373,6 +1421,13 @@ def resolve_anaphora(chunk_rows, sections=None, cfg=None, qa=None):
         ant = None
         for j in range(i - 1, -1, -1):
             p = chunk_rows[j]
+            # D5 records (`ultimo`, nominative evangelist) are never the antecedent of a
+            # bare `ibid.` / `loc. cit.`: measured on the corpus, 5 of the 11 such binds
+            # were editorial `Sum. loc. cit.` / `S. Thom., loc. cit.` / `Augustine, ibidem`
+            # that the walk had correctly left unresolvable. Their COORDINATE `ibid. v. N`
+            # (note-anchor join, ruling 57 b) is a different path and does use them.
+            if p.get("_d5"):
+                continue
             if p["subclass"] != "relative-bare" and not p["ibid_resolved"]:
                 ant = p
                 break
@@ -1425,7 +1480,8 @@ def resolve_anaphora_across_chunks(chunks, per_chunk, cfg=None, qa=None):
             continue
         tail = None
         for r in reversed(per_chunk.get(prev.cid, [])):
-            if not r["subclass"].startswith("relative-bare") and r["ibid_resolved"] != "cross-chunk":
+            if (not r["subclass"].startswith("relative-bare") and r["ibid_resolved"] != "cross-chunk"
+                    and not r.get("_d5")):
                 tail = r
                 break
         if tail is None:
@@ -1464,7 +1520,7 @@ def extract(chunks, cfg, by_locus, by_dist, by_page, by_id):
     unit_index = build_unit_index(by_id)
     para_index = build_paragraph_index(by_id)
     scanners = (scan_scripture_apparatus, scan_scripture_book_unnamed,
-                scan_scripture_body,
+                scan_scripture_body, scan_scripture_evangelist,
                 scan_sentences, scan_chain_continuation, scan_relative,
                 scan_page, scan_work, scan_ioan_paragraph)
 
@@ -1487,7 +1543,7 @@ def extract(chunks, cfg, by_locus, by_dist, by_page, by_id):
 
             for scanner in scanners + ((scan_cioan_units,) if c.work == CIOAN_WORK else ()):
                 # Body ordinals are a body phenomenon; apparatus never uses them.
-                if scanner is scan_scripture_body and is_app:
+                if scanner in (scan_scripture_body, scan_scripture_evangelist) and is_app:
                     continue
                 for rec in scanner(text, cfg):
                     anchor = app_label if is_app else nearest_anchor(text, rec["pos"] + len(rec["raw"]))
@@ -1558,6 +1614,7 @@ def extract(chunks, cfg, by_locus, by_dist, by_page, by_id):
                         "_order": (sec_i, rec["pos"]),
                         "_end": rec["pos"] + len(rec["raw"]),
                         "_coords": rec.get("ibid_coords"),
+                        "_d5": rec.get("_d5", False),
                     })
 
         chunk_rows.sort(key=lambda r: r["_order"])
