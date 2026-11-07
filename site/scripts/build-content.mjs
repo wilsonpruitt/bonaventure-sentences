@@ -1031,6 +1031,9 @@ const WORKS = {
       // stands mid-leaf on p. 604 (verified in place); the chapter runs to p. 605.
       15: "Capitulum XV: Surgite, eamus hinc",
       16: "Capitulum XVI: Haec locutus sum vobis",
+      // Capitulum XVII: the full-measure Cᴀᴘɪᴛᴜʟᴜᴍ XVII. Haec locutus est Iesus.² (anchored)
+      // stands mid-leaf on p. 609 (verified in place); the chapter runs to p. 611.
+      17: "Capitulum XVII: Haec locutus est Iesus",
     },
   },
 };

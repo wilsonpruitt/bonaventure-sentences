@@ -24837,6 +24837,56 @@ bon-cioan-c16	6	apparatus:p608-7	p608-7	scripture	apparatus-explicit	Ioan. 16, 2
 bon-cioan-c16	6	apparatus:p609-1	p609-1	scripture	apparatus-explicit	Matth. 25, 21	Matth 25:21	A	verse			
 bon-cioan-c16	6	apparatus:p609-1	p609-1	scripture	apparatus-explicit	Ioan. 16, 22	Ioan 16:22	A	verse			
 bon-cioan-c16	6	apparatus:p609-1	p609-1	scripture	apparatus-explicit	Isai. 65, 18	Isai 65:18	A	verse			
+bon-cioan-c17	6	latin_body		scripture	body-ordinal	Iob quadragesimo primo	Iob 41	C	chapter			
+bon-cioan-c17	6	latin_body		scripture	body-ordinal	Proverbiorum primo	Prov 1	C	chapter			
+bon-cioan-c17	6	latin_body	p609-4	scripture	body-ordinal	ad Corinthios sexto	Cor* 6:16	B	verse			
+bon-cioan-c17	6	latin_body	p609-5	scripture	body-ordinal	ad Ephesios quarto	Eph 4:3	B	verse			
+bon-cioan-c17	6	latin_body	p609-6	scripture	body-ordinal	ad Corinthios sexto	Cor* 6:17	B	verse			
+bon-cioan-c17	6	latin_body	p609-7	scripture	body-ordinal	Canticorum sexto	Cant 6:8	B	verse			
+bon-cioan-c17	6	latin_body		scripture	body-ordinal	Osee decimo	Osee 10	C	chapter			
+bon-cioan-c17	6	latin_body	p609-8	scripture	body-ordinal	Actuum quarto	Act 4:32	B	verse			
+bon-cioan-c17	6	latin_body	p609-9	scripture	body-ordinal	ad Romanos duodecimo	Rom 12:5	B	verse			
+bon-cioan-c17	6	latin_body		scripture	body-ordinal	ad Corinthios duodecimo	Cor* 12	C	chapter			
+bon-cioan-c17	6	latin_body	p610-4	scripture	body-ordinal	ad Corinthios duodecimo	Cor* 12:13	B	verse			
+bon-cioan-c17	6	latin_body	p610-5	scripture	body-ordinal	Regum sexto	Reg* 6:12	B	verse			
+bon-cioan-c17	6	latin_body		scripture	body-ordinal	Actuum primo	Act 1	C	chapter			
+bon-cioan-c17	6	latin_body	p610-9	scripture	body-ordinal	Ezechielis trigesimo septimo	Ezech 37:21	B	verse			
+bon-cioan-c17	6	latin_body	p610-10	scripture	body-ordinal	Genesis trigesimo quarto	Gen 34:1	B	verse			
+bon-cioan-c17	6	latin_body		scripture	body-ordinal	Ioannis decimo septimo	Ioan 17	C	chapter			
+bon-cioan-c17	6	latin_body	p611-2	scripture	body-ordinal	Ioannis decimo sexto	Ioan 16:28	B	verse			
+bon-cioan-c17	6	latin_body		scripture	body-ordinal	Ioannis decimo sexto	Ioan 16	C	chapter			
+bon-cioan-c17	6	latin_body		scripture	body-ordinal	Ioannis septimo	Ioan 7	C	chapter			
+bon-cioan-c17	6	latin_body	p611-3	scripture	body-ordinal	Ioannis duodecimo	Ioan 12:23	B	verse			
+bon-cioan-c17	6	latin_body		scripture	body-ordinal	Ioannis decimo tertio	Ioan 13	C	chapter			
+bon-cioan-c17	6	latin_body		scripture	body-ordinal	Actuum secundo	Act 2	C	chapter			
+bon-cioan-c17	6	latin_body	p611-5	scripture	body-ordinal	Ioannis decimo sexto	Ioan 16:14	B	verse			
+bon-cioan-c17	6	latin_body	p611-6	scripture	body-ordinal	Sapientiae sexto	Sap 6:13	B	verse			
+bon-cioan-c17	6	latin_body		scripture	body-ordinal	ad Corinthios tertio	Cor* 3	C	chapter			
+bon-cioan-c17	6	latin_body	p611-7	scripture	body-ordinal	Sapientiae octavo	Sap 8:10	B	verse			
+bon-cioan-c17	6	latin_body		scripture	body-ordinal	ad Philippenses tertio	Phil 3	C	chapter			
+bon-cioan-c17	6	apparatus:p609-3	p609-3	scripture	apparatus-explicit	Psalm. 2, 2	Ps 2:2	A	verse			
+bon-cioan-c17	6	apparatus:p609-3	p609-3	scripture	apparatus-explicit	Iob 41, 6	Iob 41:6	A	verse			
+bon-cioan-c17	6	apparatus:p609-3	p609-3	scripture	apparatus-explicit	Prov. 1, 14	Prov 1:14	A	verse			
+bon-cioan-c17	6	apparatus:p609-7	p609-7	scripture	apparatus-explicit	Osee 10, 2	Osee 10:2	A	verse			
+bon-cioan-c17	6	apparatus:p609-7	p609-7	scripture	apparatus-explicit	Ps. 132, 1	Ps 132:1	A	verse			
+bon-cioan-c17	6	apparatus:p609-8	p609-8	scripture	apparatus-explicit	Ps. 67, 7	Ps 67:7	A	verse			
+bon-cioan-c17	6	apparatus:p609-9	p609-9	scripture	apparatus-explicit	I. Cor. 12, 12	1Cor 12:12	A	verse			
+bon-cioan-c17	6	apparatus:p610-1	p610-1	crossref	logical	II. Sent. d. 27. a. 2. q. 1.	bon-sent-II-d27-a2-q1		chunk			
+bon-cioan-c17	6	apparatus:p610-1	p610-1	crossref	relative-inherited	ibid.	bon-sent-II-d27-a2-q1		chunk			
+bon-cioan-c17	6	apparatus:p610-2	p610-2	scripture	apparatus-explicit	Psalm. 101, 20-23	Ps 101:20-23	A	verse			
+bon-cioan-c17	6	apparatus:p610-3	p610-3	scripture	apparatus-explicit	I. Reg. 11, 7	1Reg 11:7	A	verse			
+bon-cioan-c17	6	apparatus:p610-3	p610-3	scripture	apparatus-explicit	III. Reg. 22, 17	3Reg 22:17	A	verse			
+bon-cioan-c17	6	apparatus:p610-4	p610-4	scripture	apparatus-explicit	Rom. 12, 5	Rom 12:5	A	verse			
+bon-cioan-c17	6	apparatus:p610-7	p610-7	scripture	apparatus-explicit	Act. 1, 14	Act 1:14	A	verse			
+bon-cioan-c17	6	apparatus:p610-8	p610-8	scripture	apparatus-explicit	Psalm. 132, 1	Ps 132:1	A	verse			
+bon-cioan-c17	6	apparatus:p610-11	p610-11	scripture	apparatus-explicit	Ioan. 17, 11	Ioan 17:11	A	verse			
+bon-cioan-c17	6	apparatus:p611-2	p611-2	scripture	apparatus-explicit	Ioan. 16, 33	Ioan 16:33	A	verse			
+bon-cioan-c17	6	apparatus:p611-3	p611-3	scripture	apparatus-explicit	Ioan. 13, 32	Ioan 13:32	A	verse			
+bon-cioan-c17	6	apparatus:p611-4	p611-4	scripture	apparatus-explicit	Act. 2, 3	Act 2:3	A	verse			
+bon-cioan-c17	6	apparatus:p611-4	p611-4	scripture	apparatus-explicit	I. Cor. 12, 4	1Cor 12:4	A	verse			
+bon-cioan-c17	6	apparatus:p611-5	p611-5	scripture	apparatus-explicit	Ioan. 21, 19	Ioan 21:19	A	verse			
+bon-cioan-c17	6	apparatus:p611-6	p611-6	scripture	apparatus-explicit	II. Cor. 3, 18	2Cor 3:18	A	verse			
+bon-cioan-c17	6	apparatus:p611-7	p611-7	scripture	apparatus-explicit	Phil. 3, 21	Phil 3:21	A	verse			
 bon-cioan-c2	6	latin_body	p545-3	scripture	body-ordinal	Genesis secundo	Gen 2:24	B	verse			
 bon-cioan-c2	6	latin_body	p545-5	scripture	body-ordinal	Sapientiae decimo quarto	Sap 14:26	B	verse			
 bon-cioan-c2	6	latin_body	p545-7	scripture	body-ordinal	Esther secundo	Esth 2	C	chapter			

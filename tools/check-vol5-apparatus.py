@@ -4787,8 +4787,17 @@ KNOWN_TOTALS_VOL6 = {
              # R 4-7; blocks L 1-4 / R 5-7 (n.4 anchors R, prints L). Gutter 1174.
     609: 10, # SHARED: bon-cioan-c16 owns n.1 (Coll. LX ¶ 5, top band, anchor L); n.2
              # anchors on the full-measure Cᴀᴘɪᴛᴜʟᴜᴍ XVII. Haec locutus est Iesus.² heading
-             # and nn.3-10 in Coll. LXI: bon-cioan-c17's (PENDING until c17 lands).
-             # Blocks L 1-4 / R 5-10; n.4 runs over the gutter (c17's). Gutter 892 top band.
+             # and nn.3-10 in Coll. LXI: bon-cioan-c17's (FULLY OWNED once c17 landed;
+             # c17's anchors L 2-6 / R 7-10, nn.5-6 anchor L, print R).
+             # Blocks L 1-4 / R 5-10; n.4 runs over the gutter (c17's). Gutter 892 top band,
+             # 897 below the heading.
+    610: 11, # bon-cioan-c17: nn.1-5 Coll. LXI ¶ 6, nn.6-7 ¶ 7, nn.8-11 ¶ 8; anchors
+             # L 1-5 / R 6-11; blocks L 1-6 / R 7-11 (n.6 anchors R, opens L and runs over
+             # the gutter); n.11 runs over the PAGE onto the head of p. 611's L block. Gutter 1170.
+    611: 8,  # SHARED: bon-cioan-c17 owns nn.1-7 (n.1 Annot. 67's lemma, nn.2 Annot. 67,
+             # nn.3-7 Coll. LXII; anchors L 1-3 / R 4-7; blocks L [p.610 n.11 tail] 1-3 /
+             # R 4-8); n.8 anchors in Annot. 68 below the full-measure, unanchored
+             # Cᴀᴘɪᴛᴜʟᴜᴍ XVIII. and is bon-cioan-c18's (PENDING until c18 lands). Gutter 898.
 }
 
 KNOWN_TOTALS_BY_VOL = {
