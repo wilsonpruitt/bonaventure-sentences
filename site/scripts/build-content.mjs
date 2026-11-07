@@ -1037,6 +1037,12 @@ const WORKS = {
       // Capitulum XVIII: the full-measure Cᴀᴘɪᴛᴜʟᴜᴍ XVIII. Haec cum dixisset Iesus. (unanchored)
       // stands mid-leaf on p. 611 (verified in place); the chapter runs to p. 615.
       18: "Capitulum XVIII: Haec cum dixisset Iesus",
+      // The joint Capitulum XVIII. et XIX. (bon-cioan-c18-19, rulings 115 / 119 / 122): the
+      // full-measure Cᴀᴘɪᴛᴜʟᴜᴍ XVIII. et XIX. Tunc ergo apprehendit Pilatus Iesum.⁵ (anchored)
+      // stands mid-leaf on p. 615 (verified in place, word for word); the unit runs to p. 619,
+      // where Cᴀᴘɪᴛᴜʟᴜᴍ XX. stands full measure. The index's separate "Capitulum XIX." line
+      // is recorded, not followed (ruling 119).
+      19: "Capitulum XVIII et XIX: Tunc ergo apprehendit Pilatus Iesum",
     },
   },
 };

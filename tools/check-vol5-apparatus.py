@@ -4808,9 +4808,20 @@ KNOWN_TOTALS_VOL6 = {
     615: 10, # SHARED: bon-cioan-c18 owns nn.1-4 (Coll. LXVI ¶ 3, top band; anchors L 1-2 /
              # R 3-4, all printed in the L block); n.5 anchors on the full-measure, ANCHORED
              # Cᴀᴘɪᴛᴜʟᴜᴍ XVIII. et XIX. Tunc ergo apprehendit Pilatus Iesum.⁵ and nn.6-10 in the
-             # Introductio and Coll. LXVII: bon-cioan-c18-19's (PENDING until c18-19 lands).
+             # Introductio and Coll. LXVII: bon-cioan-c18-19's (FULLY OWNED once c18-19 landed).
              # Blocks L 1-5 / R [n.5 tail] 6-10; n.5 runs over the gutter (c18-19's). Gutter 910
-             # in the top band.
+             # in the top band, 916 below the joint heading.
+    616: 9,  # bon-cioan-c18-19: nn.1-4 Coll. LXVII ¶¶ 3-5, nn.5-9 Coll. LXVIII ¶¶ 1-3; anchors
+             # L 1-6 / R 7-9; blocks L 1-6 / R 7-9. Gutter 1161.
+    617: 11, # bon-cioan-c18-19: nn.1-7 Coll. LXVIII ¶¶ 4-7, nn.8-11 Coll. LXIX ¶¶ 1-4; anchors
+             # L 1-7 / R 8-11; blocks L 1-6 / R 7-11 (n.7 anchors L, prints R). Gutter 904.
+    618: 8,  # bon-cioan-c18-19: nn.1-5 Coll. LXX ¶¶ 1-3, nn.6-7 Annot. 69, n.8 Coll. LXXI ¶ 1;
+             # anchors L 1-4 / R 5-8; blocks L 1-4 / R [n.4 tail] 5-8 (n.4 runs over the
+             # gutter). Gutter 1162. No Cᴀᴘɪᴛᴜʟᴜᴍ XX. on this leaf.
+    619: 9,  # SHARED: bon-cioan-c18-19 owns nn.1-5 (Coll. LXXI ¶¶ 1-4; anchors L 1-3 / R 4-5,
+             # all printed in the L block; n.5 runs over the gutter); nn.6-9 anchor in Annot. 70
+             # below the full-measure, UNANCHORED Cᴀᴘɪᴛᴜʟᴜᴍ XX. Una autem Sabbati. and are
+             # bon-cioan-c20's (PENDING until c20 lands). Gutter 908 above the heading.
 }
 
 KNOWN_TOTALS_BY_VOL = {
