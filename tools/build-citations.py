@@ -1332,6 +1332,37 @@ def apply_printed_slips(rows):
     return notes
 
 
+W51_ON = os.environ.get("CITATIONS_W51") == "1"
+W51_VERS_ONLY_RE = re.compile(r"\s*(?:\*[^*]*\*\s*)?Vers\.\s*\d+")
+W51_STRIP_RE = re.compile(r"Vers\.\s*\d+(?:\.\s*et\s*\d+)?|\*[^*]*\*")
+W51_LEMMA_RE = re.compile(r"^bon-(ioan|cioan|eccl|sap)-c(\d+)")
+W51_LEMMA_BOOK = {"ioan": "Ioan", "cioan": "Ioan", "eccl": "Eccle", "sap": "Sap"}
+
+
+def w51_antecedent(r, sec, chunk_rows, sections):
+    """Pseudo-antecedent row (`normalized_target` = `Book C`) for a W51 note, or None."""
+    label = sec.split(":", 1)[1]
+    cands = {p["normalized_target"].split(":")[0] for p in chunk_rows
+             if p["section"] == "latin_body" and p["class"] == "scripture"
+             and p["anchor_label"] == label and _book_chapter(p["normalized_target"])}
+    if len(cands) == 1:
+        return {"normalized_target": cands.pop(), "subclass": "body-ordinal", "raw_text": "body join"}
+    m = W51_LEMMA_RE.match(r["chunk_id"])
+    if m:
+        return {"normalized_target": f"{W51_LEMMA_BOOK[m.group(1)]} {int(m.group(2))}",
+                "subclass": "lemma", "raw_text": "lemma"}
+    body = sections.get("latin_body") or ""
+    am = re.search(rf"\[\^{re.escape(label)}\](?!:)", body)
+    if am:
+        before = [p for p in chunk_rows if p["section"] == "latin_body" and p["class"] == "scripture"
+                  and p["_order"][1] < am.start() and _book_chapter(p["normalized_target"])]
+        if before:
+            p = max(before, key=lambda q: q["_order"][1])
+            return {"normalized_target": p["normalized_target"].split(":")[0],
+                    "subclass": "lookback", "raw_text": p["raw_text"]}
+    return None
+
+
 def resolve_coord_ibid(i, r, chunk_rows, sections, cfg, qa):
     """Ruling 57 (C1). `ibid. C, V` takes the antecedent's BOOK and its own C:V;
     `ibid. v. N` the antecedent's book AND chapter and its own verse. The antecedent,
@@ -1438,6 +1469,19 @@ def resolve_coord_ibid(i, r, chunk_rows, sections, cfg, qa):
             if ant is None:
                 r["_why"] = "no-antecedent"   # may still chain across chunks
                 return False
+        elif W51_ON and W51_VERS_ONLY_RE.match(text[:pos]) and not re.search(
+                r"\d", W51_STRIP_RE.sub("", text[:pos])):
+            # D6 / W51 — OFF BY DEFAULT (env CITATIONS_W51=1), awaiting Wilson's ruling: it
+            # relaxes ruling 57 C1's "right not to guess". A note that is only `Vers. N; ibid.
+            # v. M` names no book; the book (and for `v. M` the chapter) is taken from, in
+            # order, (1) the body's scripture record anchored at this note, (2) the chunk's own
+            # lemma (a commentary on John c. N is John N), (3) the nearest scripture record
+            # before the anchor in the body, looking back past any non-scripture record.
+            # Always confidence C: it is an inference, never a printed coordinate.
+            ant, how = w51_antecedent(r, sec, chunk_rows, sections), "w51"
+            if ant is None:
+                r["_why"] = "W51: no body join, no lemma, no scripture before the anchor"
+                return False
         else:
             r["_why"] = "the note has a locus of its own the ledger did not capture"
             return False
@@ -1445,7 +1489,11 @@ def resolve_coord_ibid(i, r, chunk_rows, sections, cfg, qa):
     if ant is None:
         r["_why"] = r.get("_why") or "no scripture antecedent"
         return False
-    return apply_coord_ibid(r, ant, how, cfg, qa)
+    ok = apply_coord_ibid(r, ant, how, cfg, qa)
+    if ok and how == "w51":
+        r["confidence"] = "C"
+        r["antecedent"] = f"W51 {ant['subclass']}: {ant['raw_text']}"[:60]
+    return ok
 
 
 def apply_coord_ibid(r, ant, how, cfg, qa, cross_chunk_prefix=""):
