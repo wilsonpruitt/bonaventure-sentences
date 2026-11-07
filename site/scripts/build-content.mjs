@@ -1082,8 +1082,12 @@ function buildWorkChunkTitle(meta) {
   // The Collationes in Evangelium S. Ioannis (ruling 122): the chunk is the
   // whole capitulum, its collationes and annotationes being sections inside it,
   // so the division alone names it ("Cap. 1"). The joint XVIII–XIX unit
-  // (division 19) and the Appendix (22) are to be decided when they land.
-  if (meta.workSlug === "collationes-ioannem") return `Cap. ${meta.division}`;
+  // (division 19) renders "Cap. 18–19" (ruling 136, Arabic per ruling 129, en
+  // dash). The Appendix (22) is to be decided when it lands.
+  if (meta.workSlug === "collationes-ioannem") {
+    if (meta.division === 19) return "Cap. 18–19";
+    return `Cap. ${meta.division}`;
+  }
   // Flat works whose division is the collatio (Hexaemeron, and the two
   // Collationes sets when they land).
   if (
