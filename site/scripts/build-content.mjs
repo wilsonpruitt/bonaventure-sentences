@@ -1015,6 +1015,9 @@ const WORKS = {
       // Amen, amen dico vobis. stands full measure below Coll. XXXVIII's close.
       9: "Capitulum IX: Et praeteriens Iesus",
       10: "Capitulum X: Amen, amen dico vobis",
+      // Capitulum XI: the full-measure Cᴀᴘɪᴛᴜʟᴜᴍ XI. Erat autem quidam languens.
+      // stands mid-leaf on p. 585 (verified in place); the chapter runs to p. 593.
+      11: "Capitulum XI: Erat autem quidam languens",
     },
   },
 };

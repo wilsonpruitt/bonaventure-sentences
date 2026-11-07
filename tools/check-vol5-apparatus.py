@@ -4714,8 +4714,29 @@ KNOWN_TOTALS_VOL6 = {
              # L 1-8 / R 8 tail-9 (n.8 GUTTER runover). Gutter 1171-1173.
     585: 11, # SHARED: bon-cioan-c10 owns nn.1-8 (Coll. XL ¶¶ 7-10; anchors L 1-4 /
              # R 5-8, blocks L 1-5 / R 6-8); nn.9-11 anchor in Annot. 37 below the
-             # full-measure Cᴀᴘɪᴛᴜʟᴜᴍ XI. and are bon-cioan-c11's (PENDING until c11
-             # lands). Gutter 890-891 (Coll. XL, rows 0.06-0.45); 893 below.
+             # full-measure Cᴀᴘɪᴛᴜʟᴜᴍ XI. and are bon-cioan-c11's (FULLY OWNED once
+             # c11 landed; anchors L 9 / R 10-11, block R 9-11). Gutter 890-891
+             # (Coll. XL, rows 0.06-0.45); 893 below.
+    586: 8,  # bon-cioan-c11: nn.1-8 Annot. 37 ¶ 2 + Coll. XLI ¶¶ 1-5; anchors L 1-4 /
+             # R 5-8; blocks L 1-5 / R 6-8 (n.5 prints L, anchors R). Gutter 1168-1169.
+    587: 8,  # bon-cioan-c11: nn.1-8 Coll. XLI ¶¶ 6-7, Annot. 38; anchors L 1-4 / R 5-8;
+             # blocks L 1-2 / R 2 tail-8 (n.2 GUTTER runover). Gutter 898-902.
+    588: 11, # bon-cioan-c11: nn.1-11 Annot. 39 + Coll. XLII ¶¶ 1-5; anchors L 1-5 /
+             # R 6-11; blocks L 1-8 / R 8 tail-11 (n.8 GUTTER runover). Gutter
+             # 1168 top / 1178 foot (skew), one split.
+    589: 9,  # bon-cioan-c11: nn.1-9 Coll. XLII ¶¶ 5-10; anchors and blocks L 1-4 /
+             # R 5-9. Gutter 911-916.
+    590: 9,  # bon-cioan-c11: nn.1-8 Coll. XLII ¶¶ 11-14, n.9 Coll. XLIII ¶ 1; anchors
+             # L 1-5 / R 6-9; blocks L 1-4 / R 5-9. n.8 prints `Ps. 115, 5.` for
+             # Ps. 115:15 (bracketed). Gutter 1157-1158.
+    591: 8,  # bon-cioan-c11: nn.1-5 Coll. XLIII, nn.6-8 Coll. XLIV; anchors L 1-4 /
+             # R 5-8; blocks L 1-4 / R 4 tail-8 (n.4 GUTTER runover). Gutter 915-917.
+    592: 9,  # bon-cioan-c11: nn.1-6 Coll. XLIV ¶¶ 3-5, nn.7-9 Annot. 40-42; anchors
+             # L 1-5 / R 6-9; blocks L 1-4 / R 5-9. Gutter 1155-1160.
+    593: 8,  # SHARED: bon-cioan-c11 owns nn.1-6 (Annot. 42-44; anchors L 1-3 / R 4-6,
+             # blocks L 1-5 / R 6); nn.7-8 anchor in Annot. 45 below the full-measure
+             # Cᴀᴘɪᴛᴜʟᴜᴍ XII. and are bon-cioan-c12's (PENDING until c12 lands).
+             # Gutter 901 above the heading.
 }
 
 KNOWN_TOTALS_BY_VOL = {
