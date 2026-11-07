@@ -4856,7 +4856,15 @@ KNOWN_TOTALS_VOL6 = {
     632: 7,  # SHARED: bon-cioan-c21 owns nn.1-3 (Annot. 79's close, top band of both
              # columns: L 1 / R 2-3, all printed in the L block; n.3 = codex C's Finitur.
              # Amen. + schema + index rerum, in full) above the full-measure, ANCHORED
-             # APPENDIX.⁴; nn.4-7 are bon-cioan-app's (PENDING until app lands).
+             # APPENDIX.⁴; nn.4-7 are bon-cioan-app's (n.4 the heading's, opens L, runs over
+             # the gutter into R; n.5 Annot. 1 lucet, n.6 undecimo, both anchor L / print R;
+             # n.7 Coll. I ¶ 2, R). Gutter below the heading 1133.
+    633: 12, # bon-cioan-app: nn.1-6 Coll. I ¶¶ 3-4, Coll. II opening + ¶ 1 (L), nn.7-12
+             # Coll. II ¶¶ 2-5 (R); blocks L 1-7 / R [n.7 tail] 8-12 (n.7 anchors R,
+             # prints L, gutter runover). Gutter 925.
+    634: 6,  # bon-cioan-app: nn.1-4 Coll. II ¶ 5 tail, Annot. 2 (L), nn.5-6 Annot. 2 ¶ 2
+             # (R); blocks L 1-6 / R [n.6 tail] (n.6 = the cod. B collation Vigilate in
+             # orationibus, in full, gutter runover). Gutter 1142. THE WORK'S LAST LEAF.
 }
 
 KNOWN_TOTALS_BY_VOL = {

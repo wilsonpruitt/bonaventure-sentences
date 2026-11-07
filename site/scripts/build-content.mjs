@@ -1052,6 +1052,13 @@ const WORKS = {
       // bon-cioan-c21: full measure, unanchored, below Annot. 72's close; the chapter
       // runs to p. 632, where the anchored APPENDIX.⁴ stands full measure below Annot. 79.
       21: "Capitulum XXI: Postea manifestavit se iterum",
+      // `APPENDIX.⁴` read in place on p. 632 at bon-cioan-app: full measure,
+      // letter-spaced, ANCHORED (n. 4, the editors' doubted authorship), below
+      // Annot. 79's close; no subtitle. Annot. 1, Coll. I–II, Annot. 2 (ruling
+      // 118); the work ends on p. 634, the volume index following. Ruling 119:
+      // the in-place heading titles the division. The breadcrumb renders
+      // "Cap. 22" as buildWorkChunkTitle stands (W57, Wilson's call at the gate).
+      22: "Appendix",
     },
   },
 };
