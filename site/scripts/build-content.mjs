@@ -1024,6 +1024,9 @@ const WORKS = {
       // Capitulum XIII: the full-measure Cᴀᴘɪᴛᴜʟᴜᴍ XIII. Ante diem festum Paschae.
       // stands mid-leaf on p. 597 (verified in place); the chapter runs to p. 601.
       13: "Capitulum XIII: Ante diem festum Paschae",
+      // Capitulum XIV: the full-measure Cᴀᴘɪᴛᴜʟᴜᴍ XIV. Non turbetur cor vestrum.
+      // stands mid-leaf on p. 601 (verified in place); the chapter runs to p. 604.
+      14: "Capitulum XIV: Non turbetur cor vestrum",
     },
   },
 };
