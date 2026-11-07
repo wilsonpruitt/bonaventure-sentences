@@ -229,7 +229,7 @@ An anaphor carries no target of its own, so it is resolved from the printed sequ
 
 Two classes are deliberately NOT chained across a chunk boundary: an anaphor in a **scholion or running body** (a different discourse from the previous chunk's), and one whose predecessor **shares no printed page** (no common footnote register). Chaining either would be inference, not reading.
 
-**322 total** — vol 1: 56 · vol 2: 52 · vol 3: 29 · vol 4: 61 · vol 5: 40 · vol 6: 84
+**337 total** — vol 1: 56 · vol 2: 52 · vol 3: 29 · vol 4: 61 · vol 5: 40 · vol 6: 99
 
 | Chunk | Section | Raw |
 |---|---|---|
@@ -494,6 +494,7 @@ Two classes are deliberately NOT chained across a chunk boundary: an anaphor in 
 | `bon-ioan-c11-v1-6` | apparatus:p395-5 | `ibid.` |
 | `bon-ioan-c11-v43-56` | apparatus:p407-3 | `ibid. v. 9` |
 | `bon-ioan-c11-v43-56` | apparatus:p408-6 | `ibid. v. 12` |
+| `bon-ioan-c11-v7-32` | apparatus:p400-3 | `ibid.` |
 | `bon-ioan-c12-v20-23` | apparatus:p417-6 | `loc. cit.` |
 | `bon-ioan-c12-v36-50` | apparatus:p424-4 | `loc. cit.` |
 | `bon-ioan-c13-v21-30` | apparatus:p431-9 | `loc. cit.` |
@@ -505,14 +506,19 @@ Two classes are deliberately NOT chained across a chunk boundary: an anaphor in 
 | `bon-ioan-c15-v1-11` | apparatus:p449-13 | `ibid.` |
 | `bon-ioan-c16-v23-33` | apparatus:p466-4 | `ibid.` |
 | `bon-ioan-c16-v5-15` | apparatus:p460-2 | `loc. cit.` |
+| `bon-ioan-c17-v1-5` | apparatus:p468-1 | `ibid.` |
+| `bon-ioan-c17-v12-19` | apparatus:p473-5 | `ibid.` |
 | `bon-ioan-c17-v24-26` | apparatus:p476-5 | `loc. cit.` |
+| `bon-ioan-c17-v6-11` | apparatus:p470-5 | `ibid.` |
 | `bon-ioan-c18-v1-3` | apparatus:p477-10 | `ibid. v. 38` |
 | `bon-ioan-c18-v13-23` | apparatus:p484-6 | `loc. cit.` |
 | `bon-ioan-c18-v24-27` | apparatus:p485-6 | `ibid.` |
 | `bon-ioan-c18-v24-27` | apparatus:p486-2 | `ibid. v. 67-72` |
 | `bon-ioan-c18-v28-32` | apparatus:p487-5 | `ibid.` |
+| `bon-ioan-c18-v33-38` | apparatus:p489-5 | `ibid` |
 | `bon-ioan-c18-v38-40` | apparatus:p489-13 | `ibid. v. 6` |
 | `bon-ioan-c18-v4-12` | apparatus:p480-7 | `ibid.` |
+| `bon-ioan-c19-v1-16` | apparatus:p490-11 | `ibid.` |
 | `bon-ioan-c19-v16-27` | apparatus:p498-7 | `ibid.` |
 | `bon-ioan-c19-v16-27` | apparatus:p499-6 | `loc. cit.` |
 | `bon-ioan-c2-v12-17` | apparatus:p273-4 | `ibid. v. 22` |
@@ -521,9 +527,13 @@ Two classes are deliberately NOT chained across a chunk boundary: an anaphor in 
 | `bon-ioan-c2-v18-25` | apparatus:p277-9 | `loc. cit.` |
 | `bon-ioan-c20-v1-9` | apparatus:p506-11 | `loc. cit.` |
 | `bon-ioan-c20-v10-18` | apparatus:p510-8 | `loc. cit.` |
+| `bon-ioan-c20-v19-25` | apparatus:p512-6 | `ibid.` |
 | `bon-ioan-c20-v19-25` | apparatus:p513-7 | `loc. cit.` |
 | `bon-ioan-c20-v19-25` | apparatus:p513-8 | `ibid.` |
+| `bon-ioan-c20-v19-25` | apparatus:p514-4 | `ibid.` |
 | `bon-ioan-c21-v18-23` | apparatus:p527-7 | `ibid. v. 26` |
+| `bon-ioan-c21-v18-23` | apparatus:p527-7 | `ibid.` |
+| `bon-ioan-c21-v9-14` | apparatus:p524-7 | `ibid.` |
 | `bon-ioan-c3-v13-16` | apparatus:p283-7 | `loc. cit.` |
 | `bon-ioan-c3-v22-26` | apparatus:p285-1 | `ibid. v. 27` |
 | `bon-ioan-c3-v3-12` | apparatus:p281-3 | `loc. cit.` |
@@ -532,6 +542,7 @@ Two classes are deliberately NOT chained across a chunk boundary: an anaphor in 
 | `bon-ioan-c5-v1-9` | apparatus:p306-6 | `ibid. 11, 4` |
 | `bon-ioan-c5-v19-23` | apparatus:p309-1 | `ibid. v. 38` |
 | `bon-ioan-c5-v19-23` | apparatus:p309-6 | `ibid. v. 25` |
+| `bon-ioan-c5-v31-39` | apparatus:p314-10 | `loc. cit.` |
 | `bon-ioan-c5-v31-39` | apparatus:p314-9 | `ibid. 14, 10` |
 | `bon-ioan-c5-v40-47` | apparatus:p317-5 | `ibid. 1, 11` |
 | `bon-ioan-c6-v1-9` | apparatus:p318-12 | `ibid. v. 14` |
@@ -539,9 +550,11 @@ Two classes are deliberately NOT chained across a chunk boundary: an anaphor in 
 | `bon-ioan-c6-v14-21` | apparatus:p324-5 | `ibid.` |
 | `bon-ioan-c6-v22-33` | apparatus:p325-14 | `ibid. 3, 34` |
 | `bon-ioan-c6-v34-40` | apparatus:p328-2 | `ibid. 5, 44` |
+| `bon-ioan-c6-v41-52` | apparatus:p329-11 | `ibid.` |
 | `bon-ioan-c6-v60-72` | apparatus:p338-7 | `loc. cit.` |
 | `bon-ioan-c7-v1-13` | apparatus:p340-8 | `ibid. 1, 11` |
 | `bon-ioan-c8-v12-20` | apparatus:p357-9 | `loc. cit.` |
+| `bon-ioan-c8-v12-20` | apparatus:p360-9 | `ibid.` |
 | `bon-ioan-c8-v21-30` | apparatus:p360-12 | `ibid. v. 36` |
 | `bon-ioan-c8-v21-30` | apparatus:p361-1 | `ibid. v. 13` |
 | `bon-ioan-c8-v21-30` | apparatus:p361-9 | `ibid. v. 3` |
@@ -550,8 +563,10 @@ Two classes are deliberately NOT chained across a chunk boundary: an anaphor in 
 | `bon-ioan-c8-v31-36` | apparatus:p363-3 | `ibid. v. 48` |
 | `bon-ioan-c8-v37-50` | apparatus:p368-5 | `loc. cit.` |
 | `bon-ioan-c8-v51-59` | apparatus:p371-11 | `loc. cit.` |
+| `bon-ioan-c8-v51-59` | apparatus:p372-5 | `ibid.` |
 | `bon-ioan-c9-v1-11` | apparatus:p372-6 | `ibid. v. 35` |
 | `bon-ioan-c9-v12-34` | apparatus:p379-14 | `ibid.` |
+| `bon-ioan-prooem` | apparatus:p241-3 | `ibid` |
 | `bon-sap-c10` | apparatus:p174-11 | `ibid. 3, 15` |
 | `bon-sap-c19` | apparatus:p232-8 | `ibid. v. 21` |
 | `bon-sap-c9` | apparatus:p170-8 | `ibid. 8, 16` |

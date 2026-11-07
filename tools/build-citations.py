@@ -1284,6 +1284,27 @@ D1_SITES = [
     ("bon-ioan-c20-v19-25", "apparatus:p515-3", "ibid.", "retarget", "bon-sent-IV-d19-a1-q2"),
     ("bon-ioan-c5-v10-18", "apparatus:p308-11", "ibid.", "retarget", "bon-sent-II-d15-a2-q3"),
     ("bon-ioan-c8-v37-50", "apparatus:p368-8", "ibid.", "retarget", "bon-sent-II-d3-p2-a1-q1"),
+    # Ruling 156 (Wilson, 2026-11-07): the 19 UNCERTAIN sites. 15 unbound (source not named in the
+    # note / coordinate ibid.); 4 retargeted to the chunk the note itself names (John 14:9, 7:39, 1:42; Eccl. 9:1).
+    ("bon-ioan-c11-v7-32", "apparatus:p400-3", "ibid.", "unbind"),
+    ("bon-ioan-c17-v1-5", "apparatus:p468-1", "ibid.", "unbind"),
+    ("bon-ioan-c17-v12-19", "apparatus:p473-5", "ibid.", "unbind"),
+    ("bon-ioan-c17-v6-11", "apparatus:p470-5", "ibid.", "unbind"),
+    ("bon-ioan-c18-v33-38", "apparatus:p489-5", "ibid", "unbind"),
+    ("bon-ioan-c19-v1-16", "apparatus:p490-11", "ibid.", "unbind"),
+    ("bon-ioan-c20-v19-25", "apparatus:p512-6", "ibid.", "unbind"),
+    ("bon-ioan-c20-v19-25", "apparatus:p514-4", "ibid.", "unbind"),
+    ("bon-ioan-c21-v18-23", "apparatus:p527-7", "ibid.", "unbind"),
+    ("bon-ioan-c21-v9-14", "apparatus:p524-7", "ibid.", "unbind"),
+    ("bon-ioan-c5-v31-39", "apparatus:p314-10", "loc. cit.", "unbind"),
+    ("bon-ioan-c6-v41-52", "apparatus:p329-11", "ibid.", "unbind"),
+    ("bon-ioan-c8-v12-20", "apparatus:p360-9", "ibid.", "unbind"),
+    ("bon-ioan-c8-v51-59", "apparatus:p372-5", "ibid.", "unbind"),
+    ("bon-ioan-prooem", "apparatus:p241-3", "ibid", "unbind"),
+    ("bon-ioan-c12-v36-50", "apparatus:p424-6", "ibid.", "retarget", "bon-ioan-c14-v1-14"),
+    ("bon-ioan-c3-v22-26", "apparatus:p286-10", "ibid.", "retarget", "bon-ioan-c7-v32-39"),
+    ("bon-ioan-c21-v15-17", "apparatus:p525-7", "ibid.", "retarget", "bon-ioan-c1-v35-42"),
+    ("bon-ioan-c21-v18-23", "apparatus:p528-11", "ibid.", "retarget", "bon-eccl-c9-v1-3"),
     # `Vers. 12. Loci duo, qui sequuntur, sunt ibid. c. 12, 36. et 1, 12.` — the body's
     # `Ioannis octavo`[^p568-5], so John 12:36 (the D7 run had moved it to bon-hex-c9).
     ("bon-serm-s4", "apparatus:p568-5", "ibid.", "retarget", "Ioan 12:36"),
