@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { loadAllContent, browseEntries, divisionCountLabel } from "@/lib/content";
+import { loadAllContent, browseEntries, divisionCountLabel, tomePath } from "@/lib/content";
 import { Illumination } from "@/components/decorations";
 
 export default function BrowsePage() {
@@ -12,14 +12,14 @@ export default function BrowsePage() {
         const { href, key, letter, title, meta } =
           entry.kind === "book"
             ? {
-                href: `/browse/${entry.book.id}`,
+                href: entry.book.path,
                 key: `b${entry.book.id}`,
                 letter: entry.book.initial ?? `${entry.book.id}`,
                 title: entry.book.title,
                 meta: divisionCountLabel(entry.book),
               }
             : {
-                href: `/browse/tome/${entry.tome}`,
+                href: tomePath(entry.tome),
                 key: `t${entry.tome}`,
                 letter: entry.initial,
                 title: entry.title,

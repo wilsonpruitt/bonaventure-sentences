@@ -1,5 +1,5 @@
 import type { MetadataRoute } from "next";
-import { loadAllContent, tomeGroups } from "@/lib/content";
+import { loadAllContent, tomeGroups, tomePath } from "@/lib/content";
 import toc from "@/data/index-scripture-toc.json";
 
 const BASE = "https://bonaventure.wrootpress.com";
@@ -23,16 +23,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const books = loadAllContent();
 
   for (const tome of tomeGroups(books)) {
-    urls.push(`/browse/tome/${tome.tome}`);
+    urls.push(tomePath(tome.tome));
   }
 
+  // Readable addresses only; a division of a work is an anchor, not a page.
   for (const book of books) {
-    urls.push(`/browse/${book.id}`);
+    urls.push(book.path);
     for (const dist of book.distinctions) {
-      urls.push(`/browse/${book.id}/d/${dist.id}`);
-      for (const q of dist.questions) {
-        urls.push(`/browse/${book.id}/d/${dist.id}/q/${encodeURIComponent(q.id)}`);
-      }
+      if (!dist.path.includes("#")) urls.push(dist.path);
+      for (const q of dist.questions) urls.push(q.path);
     }
   }
 

@@ -164,7 +164,7 @@ export function DistinctionContent({
               return (
                 <li key={q.id}>
                   <Link
-                    href={`/browse/${bookId}/d/${distId}/q/${encodeURIComponent(q.id)}`}
+                    href={q.path}
                     className="question-card"
                   >
                     <div className="question-card-body">

@@ -3763,3 +3763,24 @@ Generalizes the standing "batch deploys" rule (global memory
 
 - **Internet Archive**: `doctorisseraphic{VOL}{PART}bona` — Vols I–IV all local; V–X need download.
 - **Lombard's Sentences** (for littera chapters): same PDF as the body; Lombard text is printed at the top of each distinction's opening pages.
+
+## Site conventions — readable addresses (frozen 2026-11-06, SITE-PLAN Phase 2)
+
+**Every address on the site is DERIVED from the frozen chunk id, in ONE module: `site/scripts/lib/addresses.mjs`.**
+`build-content.mjs` stamps `path` onto every book, division and chunk in `content.json`; pages, the sitemap,
+the reading-layer siblings, `tools/build-index-json.py` (Scripture + cross-ref URLs) and the redirects all read
+it from there. **Never build an address by hand anywhere else.**
+
+- Sentences: `/sentences/{book}` · `/sentences/{book}/d{N}` · `/sentences/{book}/d{N}/{unit}` (id
+  `bon-sent-{R}-d{N}-{unit}`) · division-0 chunks at `/sentences/{book}/{unit}` (`proem`, `littera`, `capitula`).
+- Works: `/{slug}` (WORKS registry slug, Latin) · `/{slug}/{unit}` (id minus `bon-{abbr}-`) · a division is an
+  anchor on the landing page, `/{slug}#d-{N}` · a one-chunk work with a bare id is `/{slug}/text` (`bon-red`).
+- Tomes: `/tome/{n}`. `/browse` stays as the contents page.
+- **The build FAILS loudly** on an id that doesn't fit (wrong prefix, a Sentences id whose `dN` disagrees with
+  its division, a division-0 unit that looks like `dN`, an unsafe character, a collision, a slug that shadows an
+  app route). **A new work needs nothing but its registry entry**, as long as its ids share one `bon-{abbr}-` prefix.
+- **Old `/browse/{bookId}/d/{d}/q/{id}` addresses redirect permanently** via `site/vercel.json`, which
+  `scripts/build-redirects.mjs` GENERATES (pattern rules per book, ~65; never hand-edit). New chunks are covered
+  by their book's rule automatically. ⚠ **A new BOOK needs a fresh `pnpm build`** so its rules are written.
+- Verified 2026-11-06 against `npx vercel build --prod` output (`.vercel/output/config.json`, the compiled routes
+  Vercel actually serves): **7,266/7,266 old addresses → expected page, permanent, file present, no chains.**

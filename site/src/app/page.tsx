@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { loadAllContent, browseEntries, divisionCountLabel } from "@/lib/content";
+import { loadAllContent, browseEntries, divisionCountLabel, tomePath } from "@/lib/content";
 import progress from "@/data/progress.json";
 import { HomeIntro } from "@/components/site-copy";
 import { Illumination, CrossDivider, FleuronDivider } from "@/components/decorations";
@@ -25,17 +25,15 @@ interface ProgressVolume {
   counted?: boolean;
   works?: { slug: string; title: string; complete: boolean }[];
 }
-function scopeRows(published: Set<number>, tomesWithWorks: Set<number>) {
+function scopeRows(published: Map<number, string>, tomesWithWorks: Set<number>) {
   return (progress.volumes as ProgressVolume[]).map((v) => {
     const isIndexVolume = v.counted === false;
     const status: ScopeStatus = isIndexVolume ? "indices" : v.state;
     const href = isIndexVolume
       ? "/scripture"
       : tomesWithWorks.has(v.n)
-        ? `/browse/tome/${v.n}`
-        : published.has(v.n)
-          ? `/browse/${v.n}`
-          : undefined;
+        ? tomePath(v.n)
+        : published.get(v.n);
     const pending =
       v.state === "in-progress" && v.works ? v.works.filter((w) => !w.complete) : [];
     return { ...v, status, href, pending };
@@ -107,14 +105,14 @@ export default function HomePage() {
         const { href, key, letter, title, count } =
           entry.kind === "book"
             ? {
-                href: `/browse/${entry.book.id}`,
+                href: entry.book.path,
                 key: `b${entry.book.id}`,
                 letter: entry.book.initial ?? `${entry.book.id}`,
                 title: entry.book.title,
                 count: divisionCountLabel(entry.book),
               }
             : {
-                href: `/browse/tome/${entry.tome}`,
+                href: tomePath(entry.tome),
                 key: `t${entry.tome}`,
                 letter: entry.initial,
                 title: entry.title,
@@ -148,7 +146,7 @@ export default function HomePage() {
         <Link href="/progress">Progress</Link> for page counts.
       </p>
       {scopeRows(
-        new Set(books.filter((b) => b.tome === undefined).map((b) => b.id)),
+        new Map(books.filter((b) => b.tome === undefined).map((b) => [b.id, b.path])),
         new Set(books.filter((b) => b.tome !== undefined).map((b) => b.tome as number))
       ).map((t) => {
         const row = (

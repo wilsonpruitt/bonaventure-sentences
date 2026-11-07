@@ -158,6 +158,18 @@ active (they edit the same file). The chunk loop pauses for it, or the phase lan
 `rel=canonical` and JSON-LD. *Verify: the enumerate-every-old-address check (100% → 200); internal links contain no
 `/browse/…/d/…/q/` paths; the search index rebuilt on the new addresses.*
 
+**▶ Phase 2 STATUS (2026-11-06): BUILT and verified locally, NOT deployed.** Conventions frozen in repo
+`CLAUDE.md` § "Site conventions". Routes: `app/sentences/[book]/[seg]/[unit]`, `app/[work]/[unit]`, `app/tome/[n]`;
+the old `app/browse/[bookId]…` routes are gone (views moved to `src/components/*-view.tsx`). *Verified:* every old
+address (7,266: pages, `.json`/`.plain.txt` siblings, books, divisions, tomes) through Vercel's COMPILED routes →
+the expected new page, 308, target file present, no redirect chains; zero old-style links in any built HTML, RSC
+payload or sibling; canonical + JSON-LD `@id` + sitemap (2,590 URLs) on new addresses; Pagefind records new
+addresses, recall 30/30 again. ✅ The `--prebuilt` question is answered: `vercel build` compiles `vercel.json`
+redirects into `.vercel/output/config.json`, so a prebuilt deploy serves them. **After the deploy, spot-check
+with `curl -sI` on 3–4 old URLs (a Sentences chunk, a d0 chunk, `bon-red`, a `.json` sibling).**
+Two decisions made in passing: a work's DIVISION is an anchor on its landing page, not a page of its own (the
+old division pages redirect to `/{slug}#d-N`); the bare-id `bon-red` lives at `/de-reductione/text`.
+
 **Phase 3: look-up and landing on the unit.**
 - **The go-to box:** `tools/build-citations.py` (or a sibling) emits `goto.json`, a normalized-key → address table
   for every chunk, in-chunk unit and printed page. A small client parser normalizes what a reader types (*I Sent.

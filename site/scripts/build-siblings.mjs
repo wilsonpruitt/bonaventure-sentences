@@ -28,9 +28,9 @@ for (const book of books) {
   for (const dist of book.distinctions) {
     for (const q of dist.questions) {
       const record = buildRecord({ book, dist, q });
-      const dir = path.join(OUT_DIR, "browse", String(book.id), "d", String(dist.id), "q");
-      fs.mkdirSync(dir, { recursive: true });
-      const base = path.join(dir, encodeURIComponent(q.id));
+      // Siblings sit beside the chunk page at its readable address.
+      const base = path.join(OUT_DIR, ...q.path.split("/").filter(Boolean));
+      fs.mkdirSync(path.dirname(base), { recursive: true });
       fs.writeFileSync(`${base}.json`, JSON.stringify(record, null, 2));
       fs.writeFileSync(`${base}.plain.txt`, plainTextSibling(record));
       written++;

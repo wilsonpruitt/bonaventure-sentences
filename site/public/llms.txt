@@ -17,10 +17,14 @@ permitted under those terms, including for commercial model development —
 see the Machine Use section at https://bonaventure.wrootpress.com/rights
 
 ## Structure
-- One canonical page per question/chunk:
-  https://bonaventure.wrootpress.com/browse/<bookId>/d/<distId>/q/<qId>
-- Every chunk page has plain-text and JSON siblings: append .txt or .json
-  to the page URL.
+- One canonical page per question/chunk, at a readable address:
+  https://bonaventure.wrootpress.com/sentences/<book>/d<N>/<unit>
+    (Commentary on the Sentences, e.g. /sentences/1/d3/p1-a1-q2)
+  https://bonaventure.wrootpress.com/<work>/<unit>
+    (every other work, e.g. /breviloquium/p5-c6, /collationes-ioannem/c4)
+  Older /browse/<bookId>/d/<distId>/q/<qId> addresses redirect permanently.
+- Every chunk page has plain-text and JSON siblings: append .plain.txt or
+  .json to the page URL.
 - Bulk export (every chunk, Latin and English aligned, one JSON line
   each): https://bonaventure.wrootpress.com/export
 

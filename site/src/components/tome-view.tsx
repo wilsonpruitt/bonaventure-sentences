@@ -1,21 +1,8 @@
 import Link from "next/link";
-import { notFound } from "next/navigation";
-import { loadAllContent, tomeGroups, divisionCountLabel } from "@/lib/content";
+import { type tomeGroups, divisionCountLabel } from "@/lib/content";
 import { Illumination, CrossDivider } from "@/components/decorations";
 
-export function generateStaticParams() {
-  return tomeGroups(loadAllContent()).map((t) => ({ tomeId: `${t.tome}` }));
-}
-
-export default async function TomePage({
-  params,
-}: {
-  params: Promise<{ tomeId: string }>;
-}) {
-  const { tomeId } = await params;
-  const tome = tomeGroups(loadAllContent()).find((t) => `${t.tome}` === tomeId);
-  if (!tome) notFound();
-
+export function TomeView({ tome }: { tome: ReturnType<typeof tomeGroups>[number] }) {
   return (
     <div>
       <Link href="/browse" className="back-link">
@@ -35,7 +22,7 @@ export default async function TomePage({
       <CrossDivider />
       <div className="section-title">Works</div>
       {tome.works.map((work) => (
-        <Link key={work.id} href={`/browse/${work.id}`} className="card-link">
+        <Link key={work.id} href={work.path} className="card-link">
           <div className="card">
             <div style={{ display: "flex", alignItems: "flex-start", gap: "1rem" }}>
               <Illumination size={44} letter={work.initial ?? `${work.id}`} />

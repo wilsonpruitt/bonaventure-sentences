@@ -64,7 +64,7 @@ export function TextReader({
 
   return (
     <>
-      <div className="view-toggle">
+      <div className="view-toggle" data-pagefind-ignore>
         {modes.map((m) => (
           <button
             key={m.key}

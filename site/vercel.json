@@ -1,0 +1,329 @@
+{
+  "redirects": [
+    {
+      "source": "/browse/1/d/0/q/bon-sent-I-:unit",
+      "destination": "/sentences/1/:unit",
+      "permanent": true
+    },
+    {
+      "source": "/browse/1/d/:d/q/bon-sent-I-d:n(\\d+)-:unit",
+      "destination": "/sentences/1/d:d/:unit",
+      "permanent": true
+    },
+    {
+      "source": "/browse/1/d/0",
+      "destination": "/sentences/1#d-0",
+      "permanent": true
+    },
+    {
+      "source": "/browse/1/d/:d",
+      "destination": "/sentences/1/d:d",
+      "permanent": true
+    },
+    {
+      "source": "/browse/1",
+      "destination": "/sentences/1",
+      "permanent": true
+    },
+    {
+      "source": "/browse/2/d/0/q/bon-sent-II-:unit",
+      "destination": "/sentences/2/:unit",
+      "permanent": true
+    },
+    {
+      "source": "/browse/2/d/:d/q/bon-sent-II-d:n(\\d+)-:unit",
+      "destination": "/sentences/2/d:d/:unit",
+      "permanent": true
+    },
+    {
+      "source": "/browse/2/d/0",
+      "destination": "/sentences/2#d-0",
+      "permanent": true
+    },
+    {
+      "source": "/browse/2/d/:d",
+      "destination": "/sentences/2/d:d",
+      "permanent": true
+    },
+    {
+      "source": "/browse/2",
+      "destination": "/sentences/2",
+      "permanent": true
+    },
+    {
+      "source": "/browse/3/d/0/q/bon-sent-III-:unit",
+      "destination": "/sentences/3/:unit",
+      "permanent": true
+    },
+    {
+      "source": "/browse/3/d/:d/q/bon-sent-III-d:n(\\d+)-:unit",
+      "destination": "/sentences/3/d:d/:unit",
+      "permanent": true
+    },
+    {
+      "source": "/browse/3/d/0",
+      "destination": "/sentences/3#d-0",
+      "permanent": true
+    },
+    {
+      "source": "/browse/3/d/:d",
+      "destination": "/sentences/3/d:d",
+      "permanent": true
+    },
+    {
+      "source": "/browse/3",
+      "destination": "/sentences/3",
+      "permanent": true
+    },
+    {
+      "source": "/browse/4/d/0/q/bon-sent-IV-:unit",
+      "destination": "/sentences/4/:unit",
+      "permanent": true
+    },
+    {
+      "source": "/browse/4/d/:d/q/bon-sent-IV-d:n(\\d+)-:unit",
+      "destination": "/sentences/4/d:d/:unit",
+      "permanent": true
+    },
+    {
+      "source": "/browse/4/d/0",
+      "destination": "/sentences/4#d-0",
+      "permanent": true
+    },
+    {
+      "source": "/browse/4/d/:d",
+      "destination": "/sentences/4/d:d",
+      "permanent": true
+    },
+    {
+      "source": "/browse/4",
+      "destination": "/sentences/4",
+      "permanent": true
+    },
+    {
+      "source": "/browse/5/d/:d/q/bon-brev-:unit",
+      "destination": "/breviloquium/:unit",
+      "permanent": true
+    },
+    {
+      "source": "/browse/5/d/:d",
+      "destination": "/breviloquium#d-:d",
+      "permanent": true
+    },
+    {
+      "source": "/browse/5",
+      "destination": "/breviloquium",
+      "permanent": true
+    },
+    {
+      "source": "/browse/6/d/:d/q/bon-itin-:unit",
+      "destination": "/itinerarium/:unit",
+      "permanent": true
+    },
+    {
+      "source": "/browse/6/d/:d",
+      "destination": "/itinerarium#d-:d",
+      "permanent": true
+    },
+    {
+      "source": "/browse/6",
+      "destination": "/itinerarium",
+      "permanent": true
+    },
+    {
+      "source": "/browse/7/d/:d/q/bon-red",
+      "destination": "/de-reductione/text",
+      "permanent": true
+    },
+    {
+      "source": "/browse/7/d/:d/q/bon-red.json",
+      "destination": "/de-reductione/text.json",
+      "permanent": true
+    },
+    {
+      "source": "/browse/7/d/:d/q/bon-red.plain.txt",
+      "destination": "/de-reductione/text.plain.txt",
+      "permanent": true
+    },
+    {
+      "source": "/browse/7/d/:d",
+      "destination": "/de-reductione#d-:d",
+      "permanent": true
+    },
+    {
+      "source": "/browse/7",
+      "destination": "/de-reductione",
+      "permanent": true
+    },
+    {
+      "source": "/browse/8/d/:d/q/bon-qsc-:unit",
+      "destination": "/scientia-christi/:unit",
+      "permanent": true
+    },
+    {
+      "source": "/browse/8/d/:d",
+      "destination": "/scientia-christi#d-:d",
+      "permanent": true
+    },
+    {
+      "source": "/browse/8",
+      "destination": "/scientia-christi",
+      "permanent": true
+    },
+    {
+      "source": "/browse/9/d/:d/q/bon-qmt-:unit",
+      "destination": "/mysterio-trinitatis/:unit",
+      "permanent": true
+    },
+    {
+      "source": "/browse/9/d/:d",
+      "destination": "/mysterio-trinitatis#d-:d",
+      "permanent": true
+    },
+    {
+      "source": "/browse/9",
+      "destination": "/mysterio-trinitatis",
+      "permanent": true
+    },
+    {
+      "source": "/browse/10/d/:d/q/bon-qpe-:unit",
+      "destination": "/perfectione-evangelica/:unit",
+      "permanent": true
+    },
+    {
+      "source": "/browse/10/d/:d",
+      "destination": "/perfectione-evangelica#d-:d",
+      "permanent": true
+    },
+    {
+      "source": "/browse/10",
+      "destination": "/perfectione-evangelica",
+      "permanent": true
+    },
+    {
+      "source": "/browse/11/d/:d/q/bon-hex-:unit",
+      "destination": "/hexaemeron/:unit",
+      "permanent": true
+    },
+    {
+      "source": "/browse/11/d/:d",
+      "destination": "/hexaemeron#d-:d",
+      "permanent": true
+    },
+    {
+      "source": "/browse/11",
+      "destination": "/hexaemeron",
+      "permanent": true
+    },
+    {
+      "source": "/browse/12/d/:d/q/bon-don-:unit",
+      "destination": "/septem-donis/:unit",
+      "permanent": true
+    },
+    {
+      "source": "/browse/12/d/:d",
+      "destination": "/septem-donis#d-:d",
+      "permanent": true
+    },
+    {
+      "source": "/browse/12",
+      "destination": "/septem-donis",
+      "permanent": true
+    },
+    {
+      "source": "/browse/13/d/:d/q/bon-praec-:unit",
+      "destination": "/decem-praeceptis/:unit",
+      "permanent": true
+    },
+    {
+      "source": "/browse/13/d/:d",
+      "destination": "/decem-praeceptis#d-:d",
+      "permanent": true
+    },
+    {
+      "source": "/browse/13",
+      "destination": "/decem-praeceptis",
+      "permanent": true
+    },
+    {
+      "source": "/browse/14/d/:d/q/bon-serm-:unit",
+      "destination": "/sermones-selecti/:unit",
+      "permanent": true
+    },
+    {
+      "source": "/browse/14/d/:d",
+      "destination": "/sermones-selecti#d-:d",
+      "permanent": true
+    },
+    {
+      "source": "/browse/14",
+      "destination": "/sermones-selecti",
+      "permanent": true
+    },
+    {
+      "source": "/browse/15/d/:d/q/bon-eccl-:unit",
+      "destination": "/ecclesiasten/:unit",
+      "permanent": true
+    },
+    {
+      "source": "/browse/15/d/:d",
+      "destination": "/ecclesiasten#d-:d",
+      "permanent": true
+    },
+    {
+      "source": "/browse/15",
+      "destination": "/ecclesiasten",
+      "permanent": true
+    },
+    {
+      "source": "/browse/16/d/:d/q/bon-sap-:unit",
+      "destination": "/sapientiam/:unit",
+      "permanent": true
+    },
+    {
+      "source": "/browse/16/d/:d",
+      "destination": "/sapientiam#d-:d",
+      "permanent": true
+    },
+    {
+      "source": "/browse/16",
+      "destination": "/sapientiam",
+      "permanent": true
+    },
+    {
+      "source": "/browse/17/d/:d/q/bon-ioan-:unit",
+      "destination": "/ioannem/:unit",
+      "permanent": true
+    },
+    {
+      "source": "/browse/17/d/:d",
+      "destination": "/ioannem#d-:d",
+      "permanent": true
+    },
+    {
+      "source": "/browse/17",
+      "destination": "/ioannem",
+      "permanent": true
+    },
+    {
+      "source": "/browse/18/d/:d/q/bon-cioan-:unit",
+      "destination": "/collationes-ioannem/:unit",
+      "permanent": true
+    },
+    {
+      "source": "/browse/18/d/:d",
+      "destination": "/collationes-ioannem#d-:d",
+      "permanent": true
+    },
+    {
+      "source": "/browse/18",
+      "destination": "/collationes-ioannem",
+      "permanent": true
+    },
+    {
+      "source": "/browse/tome/:n",
+      "destination": "/tome/:n",
+      "permanent": true
+    }
+  ]
+}

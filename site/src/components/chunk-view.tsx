@@ -1,61 +1,23 @@
 import Link from "next/link";
 import { loadAllContent, tomeSequence, chunkHref, type ReadingStop } from "@/lib/content";
 import { CrossDivider } from "@/components/decorations";
-import { TextReader } from "./text-reader";
+import { TextReader } from "@/components/text-reader";
 import { CitedBy } from "@/components/cited-by";
 
 const SITE_URL = "https://bonaventure.wrootpress.com";
-const chunkUrl = (bookId: number, distId: number, qId: string) =>
-  `${SITE_URL}/browse/${bookId}/d/${distId}/q/${encodeURIComponent(qId)}`;
 
-export async function generateMetadata({
-  params,
-}: {
-  params: Promise<{ bookId: string; distId: string; qId: string }>;
-}) {
-  const { bookId, distId, qId } = await params;
-  const books = loadAllContent();
-  const book = books.find((b) => b.id === parseInt(bookId));
-  const dist = book?.distinctions.find((d) => d.id === parseInt(distId));
-  const question = dist?.questions.find((q) => q.id === decodeURIComponent(qId));
-  if (!book || !dist || !question) return {};
-  const url = chunkUrl(book.id, dist.id, question.id);
+/** Metadata for a chunk page, at its readable address. */
+export function chunkMetadata(stop: ReadingStop | undefined) {
+  if (!stop) return {};
   return {
-    title: question.title,
-    alternates: { canonical: url },
+    title: stop.q.title,
+    alternates: { canonical: `${SITE_URL}${stop.q.path}` },
   };
 }
 
-export function generateStaticParams() {
+export function ChunkView({ stop }: { stop: ReadingStop }) {
+  const { book, dist, q: question } = stop;
   const books = loadAllContent();
-  const params: { bookId: string; distId: string; qId: string }[] = [];
-  for (const book of books) {
-    for (const dist of book.distinctions) {
-      for (const q of dist.questions) {
-        params.push({
-          bookId: String(book.id),
-          distId: String(dist.id),
-          qId: q.id,
-        });
-      }
-    }
-  }
-  return params;
-}
-
-export default async function QuestionPage({
-  params,
-}: {
-  params: Promise<{ bookId: string; distId: string; qId: string }>;
-}) {
-  const { bookId, distId, qId } = await params;
-  const books = loadAllContent();
-  const book = books.find((b) => b.id === parseInt(bookId));
-  if (!book) return <p>Book not found.</p>;
-  const dist = book.distinctions.find((d) => d.id === parseInt(distId));
-  if (!dist) return <p>Distinction not found.</p>;
-  const question = dist.questions.find((q) => q.id === decodeURIComponent(qId));
-  if (!question) return <p>Question not found.</p>;
 
   // Prev/next run across divisions and works, within the tome.
   const seq = tomeSequence(books, book);
@@ -66,7 +28,7 @@ export default async function QuestionPage({
   const context = (st: ReadingStop) =>
     st.book.id !== book.id ? st.book.title : st.dist.id !== dist.id ? st.dist.title : null;
 
-  const canonicalUrl = chunkUrl(book.id, dist.id, question.id);
+  const canonicalUrl = `${SITE_URL}${question.path}`;
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "CreativeWork",
@@ -86,7 +48,7 @@ export default async function QuestionPage({
       name: "Opera Omnia (Quaracchi critical edition)",
       volumeNumber: book.tome ?? book.id,
     },
-    isPartOf: { "@type": "Collection", "@id": `${SITE_URL}/browse/${book.id}` },
+    isPartOf: { "@type": "Collection", "@id": `${SITE_URL}${book.path}` },
     license: "https://creativecommons.org/licenses/by-nc/4.0/",
     dateModified: new Date().toISOString().slice(0, 10),
   };
@@ -96,15 +58,15 @@ export default async function QuestionPage({
     // Pagefind indexes chunk pages only (data-pagefind-body), with work and
     // tome as filters; navigation and cited-by panels are excluded.
     <div data-pagefind-body>
-      <span data-pagefind-filter="work" hidden>{book.title}</span>
-      <span data-pagefind-filter="tome" hidden>{tomeLabel}</span>
-      <span data-pagefind-meta="context" hidden>{`${book.title} · ${dist.title}`}</span>
+      <span data-pagefind-filter="work" data-pagefind-ignore hidden>{book.title}</span>
+      <span data-pagefind-filter="tome" data-pagefind-ignore hidden>{tomeLabel}</span>
+      <span data-pagefind-meta="context" data-pagefind-ignore hidden>{`${book.title} · ${dist.title}`}</span>
       <script
         type="application/ld+json"
         // eslint-disable-next-line react/no-danger
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
-      <Link href={`/browse/${book.id}/d/${dist.id}`} className="back-link" data-pagefind-ignore>
+      <Link href={dist.path} className="back-link" data-pagefind-ignore>
         &larr; Back to {dist.title}
       </Link>
 

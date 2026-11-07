@@ -77,7 +77,7 @@ def chunk_urls():
         for d in b["distinctions"]:
             for q in d["questions"]:
                 out[q["id"]] = {
-                    "url": f"/browse/{b['id']}/d/{d['id']}/q/{q['id']}",
+                    "url": q["path"],  # readable address, derived in site/scripts/lib/addresses.mjs
                     "book": b["title"],
                     "division": d["title"],
                     "title": q.get("titleEn") or q.get("title") or q["id"],

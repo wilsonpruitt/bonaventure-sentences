@@ -7,6 +7,7 @@
  */
 
 import fs from "fs";
+import { assignAddresses } from "./lib/addresses.mjs";
 import path from "path";
 import { fileURLToPath } from "url";
 
@@ -1295,6 +1296,9 @@ for (const [bookId, distMap] of [...bookMap.entries()].sort((a, b) => a[0] - b[0
     distinctions,
   });
 }
+
+// Readable addresses (SITE-PLAN Phase 2), derived from the frozen ids.
+assignAddresses(books, (bookId) => Object.entries(WORKS).find(([, w]) => w.book === bookId)?.[0]);
 
 // Write output
 fs.mkdirSync(path.dirname(OUT_FILE), { recursive: true });

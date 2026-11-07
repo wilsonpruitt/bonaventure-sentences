@@ -43,8 +43,9 @@ export function lastPage(md) {
   return parseInt(all[all.length - 1][1], 10);
 }
 
-export function chunkUrl(bookId, distId, qId) {
-  return `${SITE_URL}/browse/${bookId}/d/${distId}/q/${encodeURIComponent(qId)}`;
+// The readable address stamped into content.json by scripts/lib/addresses.mjs.
+export function chunkUrl(q) {
+  return `${SITE_URL}${q.path}`;
 }
 
 // One record per chunk, shared by the .json sibling and the bulk export.
@@ -55,7 +56,7 @@ export function buildRecord({ book, dist, q }) {
 
   return {
     id: q.id,
-    url: chunkUrl(book.id, dist.id, q.id),
+    url: chunkUrl(q),
     site: "bonaventure",
     collection: book.title,
     title: q.title,

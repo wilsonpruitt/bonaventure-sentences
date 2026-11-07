@@ -24,17 +24,24 @@ export interface Question {
   quaestio?: number;
   capitulum?: number;
   section?: number;
+  /** Readable address, derived from the id (scripts/lib/addresses.mjs). */
+  path: string;
 }
 
 export interface Distinction {
   id: number;
   title: string;
   questions: Question[];
+  /** `/sentences/1/d3` for a Sentences distinction; `/{slug}#d-N` (an anchor
+   *  on the landing page) for a work's division and for any division 0. */
+  path: string;
 }
 
 export interface Book {
   id: number;
   title: string;
+  slug: string; // "sentences" for Tomes I–IV, else the WORKS registry slug
+  path: string; // `/sentences/1` or `/{slug}`
   distinctions: Distinction[];
   // Vol V+ works only (Tome V onward holds multiple independent works;
   // each work is a Book whose divisions replace the Sentences' distinctions):
@@ -126,7 +133,30 @@ export function tomeSequence(books: Book[], book: Book): ReadingStop[] {
   return _sequence.get(book.tome ?? book.id) ?? [];
 }
 
-/** Address of a chunk page (pre-Phase-2 scheme). */
+/** Address of a chunk page. */
 export function chunkHref(stop: ReadingStop): string {
-  return `/browse/${stop.book.id}/d/${stop.dist.id}/q/${encodeURIComponent(stop.q.id)}`;
+  return stop.q.path;
 }
+
+let _byPath: Map<string, ReadingStop> | null = null;
+
+/** Look a chunk up by its readable address. */
+export function findChunk(books: Book[], path: string): ReadingStop | undefined {
+  if (!_byPath) {
+    _byPath = new Map();
+    for (const book of books)
+      for (const dist of book.distinctions)
+        for (const q of dist.questions) _byPath.set(q.path, { book, dist, q });
+  }
+  return _byPath.get(path);
+}
+
+/** Every chunk, for generateStaticParams. */
+export function allChunks(books: Book[]): ReadingStop[] {
+  return books.flatMap((book) =>
+    book.distinctions.flatMap((dist) => dist.questions.map((q) => ({ book, dist, q })))
+  );
+}
+
+/** Where a tome's page lives. */
+export const tomePath = (tome: number) => `/tome/${tome}`;

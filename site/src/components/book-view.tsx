@@ -1,29 +1,15 @@
 import Link from "next/link";
-import { loadAllContent } from "@/lib/content";
+import { tomePath, type Book } from "@/lib/content";
 import { Illumination, CrossDivider } from "@/components/decorations";
 import { DistinctionContent, divisionHeading } from "@/components/distinction-content";
 
-export function generateStaticParams() {
-  const books = loadAllContent();
-  return books.map((b) => ({ bookId: String(b.id) }));
-}
-
-export default async function BookPage({
-  params,
-}: {
-  params: Promise<{ bookId: string }>;
-}) {
-  const { bookId } = await params;
-  const books = loadAllContent();
-  const book = books.find((b) => b.id === parseInt(bookId));
-  if (!book) return <p>Book not found.</p>;
-
+export function BookView({ book }: { book: Book }) {
   return (
     <div>
       {/* A work inside a multi-work tome goes back to its tome, not the top
-          level — otherwise Book V's page is unreachable except from /browse. */}
+          level. */}
       <Link
-        href={book.tomeTitle ? `/browse/tome/${book.tome}` : "/browse"}
+        href={book.tomeTitle && book.tome !== undefined ? tomePath(book.tome) : "/browse"}
         className="back-link"
       >
         &larr; {book.tomeTitle ?? "All Books"}
