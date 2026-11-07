@@ -279,6 +279,50 @@ POINT_VERSE_RE = re.compile(
     r"\.[ \t]*(\d{1,3})\b(?!\s*\.?\s*(?:Sent|q|d|a|n|c|p|pag|tom|text|lib|cap|art|dist|nota)\b)")
 
 
+# D4 (rulings 94 / 103 / 113 / 144 / 147; resolver session 2026-11-07): a numbered book
+# cited under its unnumbered form (`Reg*`, `Cor*`, `Petr*`, `Mach*`, `Tim*`, `Par*`,
+# `Thess*`, `Esdr*`) while the TEXT states the numeral. REFINE ONLY: the numeral picks
+# `<n><Group>` for the record that was already emitted; no record is added or removed.
+#   body:      `primae ad Corinthios secundo`, `tertii Regum quarto`, `secundae ad Timotheum`
+#   apparatus: `1. Cor. 4, 7` (Vols I-IV print the arabic digit), `I. ad Tim. 2, 6`, `[I: Cor.`
+BODY_BOOK_NUMERAL = {
+    "prima": 1, "primae": 1, "primi": 1,
+    "secunda": 2, "secundae": 2, "secundi": 2,
+    "tertia": 3, "tertiae": 3, "tertii": 3,
+    "quarta": 4, "quartae": 4, "quarti": 4,
+    # accusative / ablative (`Epistolam secundam ad Corinthios`, `primo Regum decimo`)
+    "primam": 1, "primo": 1, "secundam": 2, "secundo": 2,
+    "tertiam": 3, "tertio": 3, "quartam": 4, "quarto": 4,
+}
+BODY_BOOK_NUMERAL_RE = re.compile(
+    r"(?<![A-Za-z\u00c0-\u00ff])(" + "|".join(sorted(BODY_BOOK_NUMERAL, key=len, reverse=True)) + r")\s+$",
+    re.IGNORECASE)
+# Apparatus numeral: roman or one arabic digit, before the book name, optionally via `ad`.
+# The arabic digit is refused after a locus marker (`a. 1. Cor.` would be article 1).
+APP_BOOK_NUMERAL_RE = re.compile(
+    r"(?<![A-Za-z0-9\u00c0-\u00ff])(?<!\b[adqnpc]\. )(?<!pag\. )(?<!art\. )(?<!dist\. )(?<!dub\. )"
+    r"([IVX]{1,3}|[1-4])[.:]?[ \t]+(?:Epist\.[ \t]+)?(?:ad[ \t]+)?$")
+
+
+def numbered_book_key(star_key, n, meta):
+    """`Cor*` + 2 -> `2Cor`, only when that numbered book exists in the table."""
+    k = f"{n}{star_key[:-1]}"
+    return k if k in meta else star_key
+
+
+def body_numeral_before(text, pos):
+    m = BODY_BOOK_NUMERAL_RE.search(text[max(0, pos - 14): pos])
+    return BODY_BOOK_NUMERAL[m.group(1).lower()] if m else None
+
+
+def apparatus_numeral_before(text, pos):
+    m = APP_BOOK_NUMERAL_RE.search(text[max(0, pos - 20): pos])
+    if not m:
+        return body_numeral_before(text, pos)  # `tertii Reg. 3, 12` inside a note
+    v = m.group(1)
+    return int(v) if v.isdigit() else ROMAN.get(v)
+
+
 def scan_scripture_apparatus(text, cfg):
     """Form A/C: `Rom. 1, 20` · `Ps. 61, 12` · `I. Cor. 15, 54` · `Gen. 1` (chapter only)."""
     abbrev_map, meta = cfg["_abbrev_map"], cfg["_meta"]
@@ -294,6 +338,10 @@ def scan_scripture_apparatus(text, cfg):
         pre = text[max(0, m.start() - 6): m.start()].lower()
         if pre.endswith("in ") or pre.endswith("super "):
             continue
+        if key.endswith("*"):
+            n = apparatus_numeral_before(text, m.start())
+            if n:
+                key = numbered_book_key(key, n, meta)
         chap, verse = int(m.group(2)), (int(m.group(3)) if m.group(3) else None)
         raw, vend = m.group(0), (int(m.group(4)) if m.group(4) else None)
         if verse is None and "\n" not in raw:
@@ -385,6 +433,10 @@ def scan_scripture_body(text, cfg):
             em = IOAN_EPISTLE_RE.search(text[max(0, m.start() - 12): m.start()])
             if em:
                 key = IOAN_EPISTLE[em.group(1).lower()]
+        elif key.endswith("*"):
+            n = body_numeral_before(text, m.start())
+            if n:
+                key = numbered_book_key(key, n, meta)
         yield {
             "cls": "scripture",
             "sub": "body-ordinal",
@@ -1080,7 +1132,7 @@ PRINTED_SLIPS = [
      "ruling 37 — p. 115 n. 6 prints `Iob 6, 2`"),
     ("bon-sap-c3", "apparatus:p126-1", "p126-1", "Iob 24:19", "Iob 5:19",
      "ruling 57/C2 — p. 126 n. 1 prints `Iob 24, 19`"),
-    ("bon-sap-c5", "latin_body", "p140-3", "Cor* 12:30", "1Cor 12:31",
+    ("bon-sap-c5", "latin_body", "p140-3", "1Cor 12:30", "1Cor 12:31",
      "ruling 57/C2 — body `ad Corinthios duodecimo` + n. 3 `Vers. 30`"),
     ("bon-sap-c11", "latin_body", "", "Prov 16", "Prov 24:16",
      "ruling 57/C2 — body p. 180 `Proverbiorum decimo sexto` (n. 9 gives 24, 16)"),
