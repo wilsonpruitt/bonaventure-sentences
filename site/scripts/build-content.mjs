@@ -1014,6 +1014,7 @@ const WORKS = {
       // close; the chapter runs to the top band of p. 581, where Cᴀᴘɪᴛᴜʟᴜᴍ X.
       // Amen, amen dico vobis. stands full measure below Coll. XXXVIII's close.
       9: "Capitulum IX: Et praeteriens Iesus",
+      10: "Capitulum X: Amen, amen dico vobis",
     },
   },
 };

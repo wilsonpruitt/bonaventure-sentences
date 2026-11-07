@@ -4703,8 +4703,19 @@ KNOWN_TOTALS_VOL6 = {
              # (bracketed). Gutter 1163 top / 1169 foot, one split.
     581: 8,  # SHARED: bon-cioan-c9 owns n.1 (Coll. XXXVIII ¶ 5, Habacuc secundo);
              # nn.2-8 anchor in Coll. XXXIX below the full-measure Cᴀᴘɪᴛᴜʟᴜᴍ X. and
-             # are bon-cioan-c10's (PENDING until c10 lands). Blocks L 1-4 / R 5-8.
-             # Gutter 924 (rows 0.25-0.70).
+             # are bon-cioan-c10's (FULLY OWNED once c10 landed; anchors and blocks
+             # L 2-4 / R 5-8). Blocks L 1-4 / R 5-8. Gutter 924 (rows 0.25-0.70).
+    582: 12, # bon-cioan-c10: nn.1-12 Coll. XXXIX ¶¶ 4-8; anchors L 1-6 / R 7-12;
+             # blocks L 1-5 / R 6-12 (n.6 prints R, anchors L). Gutter 1171.
+    583: 13, # bon-cioan-c10: nn.1-11 Coll. XXXIX ¶¶ 9-12, nn.12-13 Coll. XL ¶¶ 1-2;
+             # anchors L 1-8 / R 9-13; blocks L 1-7 / R 8-13. n.9 prints
+             # `Psalm. 79, 1.` for Ps. 79:2 (bracketed). Gutter 915-917.
+    584: 9,  # bon-cioan-c10: nn.1-9 Coll. XL ¶¶ 2-6; anchors L 1-5 / R 6-9; blocks
+             # L 1-8 / R 8 tail-9 (n.8 GUTTER runover). Gutter 1171-1173.
+    585: 11, # SHARED: bon-cioan-c10 owns nn.1-8 (Coll. XL ¶¶ 7-10; anchors L 1-4 /
+             # R 5-8, blocks L 1-5 / R 6-8); nn.9-11 anchor in Annot. 37 below the
+             # full-measure Cᴀᴘɪᴛᴜʟᴜᴍ XI. and are bon-cioan-c11's (PENDING until c11
+             # lands). Gutter 890-891 (Coll. XL, rows 0.06-0.45); 893 below.
 }
 
 KNOWN_TOTALS_BY_VOL = {
