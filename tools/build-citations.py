@@ -1223,6 +1223,98 @@ PRINTED_SLIPS = [
 ]
 
 
+# D1 + (4) (rulings 94 / 103 / 113 / 147; resolver session 2026-11-07, per-site): a bare
+# `ibid.` / `loc. cit.` that the generic walk bound ACROSS A NOTE BOUNDARY to the previous
+# note's last locus, when the anaphor's OWN note names its source before it. Every row was read
+# against the note text; the table is explicit on purpose (a per-site judgement, not a rule) and
+# is checked for staleness exactly like PRINTED_SLIPS.
+#   "unbind"   the note's own author / title / work (`August., loc. cit.`, `In Ioan. Evang.
+#              tr. 80. n. 3; ibid.`) is the antecedent, which is not a ledger locus: the record
+#              goes back to `unresolvable`. NEVER a guess.
+#   "retarget" `II. Sent. lit. Magistri, d. XV. c. 7, et ibid. Comment. a. 2. q. 3` names its own
+#              locus (the Commentary on the same book and distinction).
+D1_SITES = [
+    ("bon-ioan-c10-v22-42", "apparatus:p393-13", "ibid.", "unbind"),
+    ("bon-ioan-c11-v1-6", "apparatus:p395-5", "ibid.", "unbind"),
+    ("bon-ioan-c12-v20-23", "apparatus:p417-6", "loc. cit.", "unbind"),
+    ("bon-ioan-c12-v36-50", "apparatus:p424-4", "loc. cit.", "unbind"),
+    ("bon-ioan-c13-v21-30", "apparatus:p431-9", "loc. cit.", "unbind"),
+    ("bon-ioan-c14-v1-14", "apparatus:p436-7", "ibid.", "unbind"),
+    ("bon-ioan-c14-v1-14", "apparatus:p439-2", "ibid.", "unbind"),
+    ("bon-ioan-c14-v1-14", "apparatus:p440-2", "ibid.", "unbind"),
+    ("bon-ioan-c15-v1-11", "apparatus:p448-11", "loc. cit.", "unbind"),
+    ("bon-ioan-c15-v1-11", "apparatus:p449-13", "ibid.", "unbind"),
+    ("bon-ioan-c16-v23-33", "apparatus:p466-4", "ibid.", "unbind"),
+    ("bon-ioan-c16-v5-15", "apparatus:p460-2", "loc. cit.", "unbind"),
+    ("bon-ioan-c17-v24-26", "apparatus:p476-5", "loc. cit.", "unbind"),
+    ("bon-ioan-c18-v13-23", "apparatus:p484-6", "loc. cit.", "unbind"),
+    ("bon-ioan-c18-v24-27", "apparatus:p485-6", "ibid.", "unbind"),
+    ("bon-ioan-c18-v28-32", "apparatus:p487-5", "ibid.", "unbind"),
+    ("bon-ioan-c18-v4-12", "apparatus:p480-7", "ibid.", "unbind"),
+    ("bon-ioan-c19-v16-27", "apparatus:p498-7", "ibid.", "unbind"),
+    ("bon-ioan-c19-v16-27", "apparatus:p499-6", "loc. cit.", "unbind"),
+    ("bon-ioan-c2-v12-17", "apparatus:p274-10", "loc. cit.", "unbind"),
+    ("bon-ioan-c2-v12-17", "apparatus:p274-13", "loc. cit.", "unbind"),
+    ("bon-ioan-c2-v18-25", "apparatus:p277-9", "loc. cit.", "unbind"),
+    ("bon-ioan-c20-v1-9", "apparatus:p506-11", "loc. cit.", "unbind"),
+    ("bon-ioan-c20-v10-18", "apparatus:p510-8", "loc. cit.", "unbind"),
+    ("bon-ioan-c20-v19-25", "apparatus:p513-7", "loc. cit.", "unbind"),
+    ("bon-ioan-c20-v19-25", "apparatus:p513-8", "ibid.", "unbind"),
+    ("bon-ioan-c3-v13-16", "apparatus:p283-7", "loc. cit.", "unbind"),
+    ("bon-ioan-c3-v3-12", "apparatus:p281-3", "loc. cit.", "unbind"),
+    ("bon-ioan-c4-v43-54", "apparatus:p303-4", "loc. cit.", "unbind"),
+    ("bon-ioan-c4-v43-54", "apparatus:p303-6", "loc. cit.", "unbind"),
+    ("bon-ioan-c6-v10-13", "apparatus:p322-6", "loc. cit.", "unbind"),
+    ("bon-ioan-c6-v14-21", "apparatus:p324-5", "ibid.", "unbind"),
+    ("bon-ioan-c6-v60-72", "apparatus:p338-7", "loc. cit.", "unbind"),
+    ("bon-ioan-c8-v12-20", "apparatus:p357-9", "loc. cit.", "unbind"),
+    ("bon-ioan-c8-v21-30", "apparatus:p362-11", "loc. cit.", "unbind"),
+    ("bon-ioan-c8-v21-30", "apparatus:p362-11", "ibid.", "unbind"),
+    ("bon-ioan-c8-v37-50", "apparatus:p368-5", "loc. cit.", "unbind"),
+    ("bon-ioan-c8-v51-59", "apparatus:p371-11", "loc. cit.", "unbind"),
+    ("bon-ioan-c9-v12-34", "apparatus:p379-14", "ibid.", "unbind"),
+    ("bon-cioan-c1", "apparatus:p541-6", "ibid.", "unbind"),
+    ("bon-ioan-c14-v15-24", "apparatus:p442-4", "loc. cit.", "unbind"),
+    ("bon-ioan-c10-v11-21", "apparatus:p389-10", "ibid.", "retarget", "bon-sent-III-d2-a3-q1"),
+    ("bon-ioan-c20-v19-25", "apparatus:p515-3", "ibid.", "retarget", "bon-sent-IV-d19-a1-q2"),
+    ("bon-ioan-c5-v10-18", "apparatus:p308-11", "ibid.", "retarget", "bon-sent-II-d15-a2-q3"),
+    ("bon-ioan-c8-v37-50", "apparatus:p368-8", "ibid.", "retarget", "bon-sent-II-d3-p2-a1-q1"),
+    # `Vers. 12. Loci duo, qui sequuntur, sunt ibid. c. 12, 36. et 1, 12.` — the body's
+    # `Ioannis octavo`[^p568-5], so John 12:36 (the D7 run had moved it to bon-hex-c9).
+    ("bon-serm-s4", "apparatus:p568-5", "ibid.", "retarget", "Ioan 12:36"),
+]
+
+
+def apply_d1_sites(per_chunk, qa):
+    n = 0
+    for entry in D1_SITES:
+        cid, sec, raw, action = entry[:4]
+        hits = [r for r in per_chunk.get(cid, [])
+                if r["section"] == sec and r["raw_text"] == raw and r["ibid_resolved"]]
+        if len(hits) != 1:
+            qa.append((cid, sec, raw, f"⚠ D1_SITES entry matched {len(hits)} records (expected 1) "
+                                      "— the table is stale; fix the entry, not the chunk"))
+            continue
+        r = hits[0]
+        if action == "unbind":
+            r["class"], r["subclass"] = "crossref", "relative-bare"
+            r["normalized_target"], r["confidence"], r["resolution"] = "", "", "unresolvable"
+            r["ibid_resolved"], r["antecedent"] = "", ""
+        else:
+            tgt = entry[4]
+            r["ibid_resolved"] = "yes"
+            r["antecedent"] = "D1 per-site: " + r["antecedent"][:40]
+            r["normalized_target"] = tgt
+            if tgt.startswith("bon-"):
+                r["class"], r["confidence"], r["resolution"] = "crossref", "", "chunk"
+                r["subclass"] = "anaphor->logical"
+            else:
+                r["class"], r["confidence"], r["resolution"] = "scripture", "B", "verse"
+                r["subclass"] = "anaphor->body-ordinal"
+        n += 1
+    return n
+
+
 def apply_printed_slips(rows):
     """Annotate (never correct) the C2 printed slips. Returns QA-note tuples."""
     notes = []
@@ -1622,7 +1714,10 @@ def extract(chunks, cfg, by_locus, by_dist, by_page, by_id):
         per_chunk[c.cid] = chunk_rows
         rows.extend(chunk_rows)
 
-    unresolved_anaphora = resolve_anaphora_across_chunks(chunks, per_chunk, cfg, qa)
+    resolve_anaphora_across_chunks(chunks, per_chunk, cfg, qa)
+    apply_d1_sites(per_chunk, qa)
+    unresolved_anaphora = sum(1 for rs in per_chunk.values() for r in rs
+                              if r["subclass"] == "relative-bare" and not r["ibid_resolved"])
     return rows, qa, unresolved_anaphora
 
 
