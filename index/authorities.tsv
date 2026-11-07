@@ -5618,6 +5618,7 @@ bon-sent-II-d38-a1-q3	2	3	aristotle	ethica-nicomachea		cited	1	c. 7.	1.7	title	A
 bon-sent-II-d38-a1-q3	2	5	peter-lombard			same-passage				here	Lombardum in hunc locum. In
 bon-sent-II-d38-a1-q3	2	7	aristotle	topica		cited	2	c. 4. (c. 11.)	2.4.11	title	Aristot. II. Topic. c. 4. (c. 11.)
 bon-sent-II-d38-a1-q3	2	9	albert-the-great	in-sententias		same-passage		a. 3.	3	here	B. Albert., hic a. 3. refert: In multis ecclesiis consuetudo est dare denarium venientibus ad matutinas, ut libentius veniant.
+bon-sent-II-d38-a1-q4	2	4	juvenal	satirae		cited		14, 109.	14.109	title	Iuvenalis Sat. 14, 109.
 bon-sent-II-d38-a1-q4	2	4	aristotle	ethica-nicomachea		cited	2	c. 8	2.8	title	Aristot. II. Ethic. c. 8
 bon-sent-II-d38-a1-q4	2	4	augustine	epistolae		cited		167. (alias 29.) c. 2. n. 6	167.29.2.6	title	August. Epist. 167. (alias 29.) c. 2. n. 6
 bon-sent-II-d38-a1-q4	2	4	augustine	contra-iulianum		cited	4		4	title	August. … IV. contra Iulian.
@@ -9696,6 +9697,7 @@ bon-sent-III-d9-a1-q5	3	17	avicenna	metaphysica		cited		tr. 6. c. 3	6.3	title	Av
 bon-sent-III-d9-a1-q6	3	2	justinian	codex		cited	4		4	title	Iustinian. … IV. Cod.
 bon-sent-III-d9-a1-q6	3	4	ambrose	de-officiis		cited	1	c. 30. n. 147.	1.30.147	title	Ambros. I. de Officiis c. 30. n. 147.
 bon-sent-III-d9-a1-q6	3	7	gregory-ix	decretales		cited				default-work	Decret. Gregor. IX. tit. 41. de celebrat. Missarum, c. 7: Gravius tamen videtur offendere qui sic fraudulenter illud praesumserit simulare; 
+bon-sent-III-d9-a1-q6	3	11	vitae-patrum	vitae-patrum		cited	5	libell. 15. n. 70.	5.15.70	unique-title	Libr. V. de Vitis Patrum, libell. 15. n. 70. (ed. Migne, Patrol. Lat. tom. 73.). — Aliquanto inferius pro repu
 bon-sent-III-d9-a2-q1	3	2	aristotle	ethica-nicomachea		cited	2	c. 3.	2.3	title	Aristot. II. Ethic. c. 3.
 bon-sent-III-d9-a2-q1	3	3	aristotle	ethica-nicomachea		cited	1	c. 12 seq.	1.12	title	Aristot. I. Ethic. c. 12 seq.
 bon-sent-III-d9-a2-q1	3	4	aristotle	ethica-nicomachea		cited	2	c. I	2.1	title	Aristot. II. Ethic. c. I
@@ -10961,6 +10963,7 @@ bon-sent-IV-d20-p1-a1-q4	4	11	aristotle			cited		Cap. 40. et 60.	40.60	body-join
 bon-sent-IV-d20-p1-a1-q4	4	12	gregory-the-great	homiliae-in-evangelia		cited	2	homil. 40. n. 8	2.40.8	title	Gregor. II. Homil. in Evang. homil. 40. n. 8
 bon-sent-IV-d20-p1-a1-q5	4	4	gregory-the-great	dialogi		cited	4	Cap. 5.	4.5	body-join+title	Gregorius … Cap. 5.
 bon-sent-IV-d20-p1-a1-q5	4	6	augustine	de-genesi-ad-litteram		cited	12	c. 17. n. 34	12.17.34	unique-title	Libr. XII. de Gen. ad lit. c. 17. n. 34: Qui [daemones] tamen, si virtutum internam speciem possent in hominib
+bon-sent-IV-d20-p1-a1-q5	4	8	vitae-patrum	vitae-patrum		cited		c. 4.	4	default-work	de Vitis Patrum, c. 4.
 bon-sent-IV-d20-p1-a1-q5	4	9	dionysius	de-divinis-nominibus		cited		c. 4. § 22.	4.22	title	Dionys. de Div. Nom. c. 4. § 22.
 bon-sent-IV-d20-p1-a1-q5	4	12	gregory-the-great	dialogi		cited	4	c. 38.	4.38	title	Gregor. IV. Dialog. c. 38.
 bon-sent-IV-d20-p1-a1-q5	4	12	hugh-of-st-victor	de-sacramentis		cited	2	p. XVI. c. 2.	2.16.2	title	Hug. a S. Vict. II. de Sacram. p. XVI. c. 2.
@@ -14637,6 +14640,7 @@ bon-serm-tract	5	p579-1	augustine	de-diversis-quaestionibus-83		cited		q. 55	55	
 bon-serm-tract	5	p579-2	gregory-the-great	moralia		cited	7	c. 21. n. 24.	7.21.24	title	Gregor. VII. Moral. c. 21. n. 24.
 bon-cioan-app	6	p632-5	john-damascene	de-fide-orthodoxa		cited	2	c. 7.	2.7	title	Damasc. II. de Fide orthod. c. 7.
 bon-cioan-app	6	p633-2	jerome	de-nominibus-hebraicis		cited				title	Hieron. de Nominib. Hebraic.
+bon-cioan-app	6	p633-7	jerome	in-ieremiam		cited	2		2	title	Hieron. II. Comment. in Ier.
 bon-cioan-app	6	p633-9	origen	in-matthaeum		cited		tom. 11. n. 18.	11.18	title	Origen. in Matth. tom. 11. n. 18.
 bon-cioan-app	6	p633-10	gregory-the-great	moralia		cited	31	c. 46. n. 92.	31.46.92	title	Gregor. XXXI. Moral. c. 46. n. 92.
 bon-cioan-app	6	p634-4	jerome	in-danielem		same-passage				here+verse	Hieron., in hunc locum.
@@ -14666,6 +14670,7 @@ bon-cioan-c12	6	p594-4	bernard	sermones		cited		1. et 2.	1.2	title	Bernard. Serm
 bon-cioan-c12	6	p594-4	bernard	sermones		cited		2.	2	title	Bernard. … Serm. 2.
 bon-cioan-c12	6	p594-7	gregory-the-great	homiliae-in-evangelia		cited	2	homil. 27. n. 1	2.27.1	title	Gregor. II. Homil. in Evang. homil. 27. n. 1
 bon-cioan-c12	6	p594-8	augustine	enarrationes-in-psalmos		same-passage		(serm. 1. n. 6.).	1.6	here+verse	August. in hunc locum (serm. 1. n. 6.).
+bon-cioan-c12	6	p596-4	juvenal	satirae		cited		8. v. 140. seq.	8.140	title	Iuvenal. Satyra 8. v. 140. seq.
 bon-cioan-c13	6	p598-4	glossa	ordinaria		cited				title	Glossa ordinaria
 bon-cioan-c13	6	p598-5	gregory-the-great	homiliae-in-evangelia		cited	1	homil. 13. n. 1.	1.13.1	body-join+note-title	Gregorius … Libr. I. Homil. in Evang. homil. 13. n. 1. — Inferius pro praecincti simus B C praecingendi sumus.
 bon-cioan-c15	6	p605-7	aristotle	politica		cited	5	c. 9. (c. 7.)	5.9.7	title	Aristot. V. Polit. c. 9. (c. 7.)
@@ -14674,11 +14679,13 @@ bon-cioan-c16	6	p606-3	aristotle	de-sophisticis-elenchis		cited	1	c. 3. et 4. (c
 bon-cioan-c16	6	p606-6	aristotle	analytica-priora		cited	2	c. 14	2.14	title	Aristot. II. Prior. c. 14
 bon-cioan-c16	6	p606-8	aristotle	analytica-posteriora		cited	1	c. 8. (c. 10.).	1.8.10	title	Aristot. I. Poster. c. 8. (c. 10.).
 bon-cioan-c17	6	p609-4	bernard	sermones		cited		88.	88	title	Bernard. … Serm. 88.
+bon-cioan-c17	6	p609-4	bernard	sermo-in-assumptione	true	cited		n. 10. et 11	10.11	inter-opera	Serm. in Assumt. B. Mariae (inter opera Bernard.), n. 10. et 11, ubi 
 bon-cioan-c17	6	p609-6	hugh-of-st-victor	de-sacramentis		cited	1	p. IX. c. 3.	1.9.3	title	Hug. … lib. I. de Sacram. p. IX. c. 3.
 bon-cioan-c17	6	p609-6	hugh-of-st-victor	miscellanea		cited	1		1	title	Hug. … I. Miscellan.
 bon-cioan-c17	6	p610-6	glossa	ordinaria		cited				title	Glossa ordinaria
 bon-cioan-c17	6	p610-6	jerome	de-nominibus-hebraicis		cited				title	Hieron. de Nominib. Hebraic.
 bon-cioan-c17	6	p610-7	glossa	ordinaria		cited				title	Glossa ordinaria
+bon-cioan-c17	6	p610-8	vitae-patrum	vitae-patrum		cited		c. 44. n. 2.	44.2	default-work	de Vitis Patrum, c. 44. n. 2. haec refertur sententia: Sic esto quotidie peregrinus et crastino liberandus. Hoc mihi quotidie consulebam.
 bon-cioan-c18-19	6	p619-5	isidore	etymologiae		cited	15	c. 11. n. 1	15.11.1	title	Isidor. XV. Etymolog. c. 11. n. 1
 bon-cioan-c18	6	p613-6	gregory-the-great	moralia		cited	22	c. 9. n. 20.	22.9.20	body-join+note-title	Gregorius … Libr. XXII. Moral. c. 9. n. 20.
 bon-cioan-c2	6	p545-3	augustine	in-ioannis-evangelium		cited		tr. 9. n. 2.	9.2	title	August. in Ioan. Evang. tr. 9. n. 2.
@@ -15711,6 +15718,7 @@ bon-ioan-c17-v24-26	6	p476-5	augustine	in-ioannis-evangelium		cited				anaphor	A
 bon-ioan-c17-v24-26	6	p476-5	albert-the-great	postilla-in-ioannem		cited		17, 24.	17.24	title	B. Albert. Postilla in Ioan. 17, 24.
 bon-ioan-c17-v24-26	6	p476-9	theophylact	in-ioannem		cited		17, 26	17.26	title	Theophylact. in Ioan. 17, 26
 bon-ioan-c17-v24-26	6	p476-9	augustine	in-ioannis-evangelium		cited		tr. 111. n. 6	111.6	title	August. in Ioan. Evang. tr. 111. n. 6
+bon-ioan-c17-v24-26	6	p477-1	augustine	manuale	true	cited		c. 26	26	title	August. … Manuale c. 26
 bon-ioan-c17-v24-26	6	p477-1	augustine	de-spiritu-et-anima	true	cited		c. 54. in fine	54	inter-opera	de Spiritu et anima (inter opera August.), c. 54. in fine: « 
 bon-ioan-c17-v24-26	6	p477-3	augustine			cited		n. 362. (alias 360.)	362.360	no-title	August. n. 362. (alias 360.): Multae quippe mansiones in una vita varias meritorum significant dignitates. Sed ut Deus omnia in omnibus erit
 bon-ioan-c17-v24-26	6	p477-3	augustine	in-ioannis-evangelium		cited		tr. 67. n. 2.	67.2	title	August. in Ioan. Evang. tr. 67. n. 2.
@@ -16984,6 +16992,7 @@ bon-sap-c5	6	p142-2	glossa	interlinearis		cited				title	Glossa … interlineari
 bon-sap-c5	6	p142-4	glossa	interlinearis		cited				title	Glossa interlinearis
 bon-sap-c5	6	p142-5	glossa	interlinearis		cited				title	Glossa interlinearis
 bon-sap-c5	6	p142-8	glossa	ordinaria		cited		(ex Rabano)		title	Glossa … ordinaria (ex Rabano)
+bon-sap-c5	6	p143-2	jerome	in-ieremiam		cited	3	15, 3	3.15.3	title	Hieron. III. Comment. in Ier. 15, 3
 bon-sap-c5	6	p143-2	glossa	ordinaria		cited				title	Glossa … ordinaria
 bon-sap-c5	6	p143-5	hugh-of-st-cher	postilla		same-passage				here-quoted	Card. Hugo: Quidam dicunt habenae et exponunt pro dativo singulari, vel nominativo plurali. Alii dicunt, quod non debet esse habenae, sed ha
 bon-sap-c5	6	p143-6	glossa	ordinaria		cited		(secundum Rabanum)		title	Glossa ordinaria (secundum Rabanum)

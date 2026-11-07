@@ -356,8 +356,8 @@ bon-sent-I-d17-p1-a1-q2	1	apparatus:3	3	crossref	relative	supra d. 12. q. 2.	bon
 bon-sent-I-d17-p1-a1-q2	1	apparatus:6	6	crossref	anaphor->relative	ibid.	bon-sent-I-d12-a1-q2		chunk	yes	supra d. 12. q. 2.	
 bon-sent-I-d17-p1-a1-q2	1	apparatus:7	7	crossref	relative	supra d. 3. p. 1. dub. 3.	bon-sent-I-d3-p1-dubia		chunk			dub-3
 bon-sent-I-d17-p1-a1-q2	1	apparatus:21	21	crossref	relative	ibid. d. 19. a. 1. q. 1.	bon-sent-I-d19-p1-a1-q1+bon-sent-I-d19-p2-a1-q1		ambiguous			
-bon-sent-I-d17-p1-a1-q3	1	latin_body	2	scripture	body-ordinal	Ioannis secundo	Ioan 2:10	B	verse			
-bon-sent-I-d17-p1-a1-q3	1	latin_body	3	scripture	body-ordinal	Ioannis secundo	Ioan 2:27	B	verse			
+bon-sent-I-d17-p1-a1-q3	1	latin_body	2	scripture	body-ordinal	Ioannis secundo	1Ioan 2:10	B	verse			
+bon-sent-I-d17-p1-a1-q3	1	latin_body	3	scripture	body-ordinal	Ioannis secundo	1Ioan 2:27	B	verse			
 bon-sent-I-d17-p1-a1-q3	1	latin_body	7	scripture	body-ordinal	ad Corinthios quarto	Cor* 4:4	B	verse			
 bon-sent-I-d17-p1-a1-q3	1	latin_body	15	scripture	body-ordinal	Apocalypsis tertio	Apoc 3:17	B	verse			
 bon-sent-I-d17-p1-a1-q3	1	scholion		crossref	logical	II. Sent. d. 38. dub. 1	bon-sent-II-d38-dubia		chunk			dub-1
@@ -401,7 +401,7 @@ bon-sent-I-d17-p2-a1-q4	1	apparatus:20	20	scripture	apparatus-explicit	Matth. 22
 bon-sent-I-d17-p2-a1-q4	1	apparatus:20	20	scripture	apparatus-explicit	Marc. 12, 30	Marc 12:30	A	verse			
 bon-sent-I-d17-p2-dubia	1	latin_body	6	scripture	body-ordinal	ad Galatas quinto	Gal 5:6	B	verse			
 bon-sent-I-d17-p2-dubia	1	latin_body	9	scripture	body-ordinal	Numerorum undecimo	Num 11:17	B	verse			
-bon-sent-I-d17-p2-dubia	1	latin_body	10	scripture	body-ordinal	Ioannis quarto	Ioan 4:13	B	verse			
+bon-sent-I-d17-p2-dubia	1	latin_body	10	scripture	body-ordinal	Ioannis quarto	1Ioan 4:13	B	verse			
 bon-sent-I-d17-p2-dubia	1	apparatus:1	1	crossref	logical	III. Sent. d. 13. a. 1.	bon-sent-III-d13-a1-q1+bon-sent-III-d13-a1-q2+bon-sent-III-d13-a1-q3		articulus			
 bon-sent-I-d18-a1-q1	1	latin_body	2	scripture	body-ordinal	ad Corinthios duodecimo	Cor* 12:4	B	verse			
 bon-sent-I-d18-a1-q1	1	latin_body	7	scripture	body-ordinal	Isaiae nono	Isai 9:6	B	verse			
@@ -888,7 +888,7 @@ bon-sent-I-d27-p2-a1-q1	1	apparatus:14	14	scripture	anaphor->apparatus-explicit	
 bon-sent-I-d27-p2-a1-q2	1	latin_body	18	scripture	body-ordinal	Ioannis tertio	Ioan 3:8	B	verse			
 bon-sent-I-d27-p2-a1-q2	1	latin_body	19	scripture	body-ordinal	Danielis decimo tertio	Dan 13	C	chapter			
 bon-sent-I-d27-p2-a1-q2	1	scholion		crossref	relative	supra d. 18. q. 5	bon-sent-I-d18-a1-q5		chunk			
-bon-sent-I-d27-p2-a1-q2	1	scholion		crossref	relative-inherited	ibid.	bon-sent-I-d18-a1-q5		chunk			
+bon-sent-I-d27-p2-a1-q2	1	scholion		crossref	relative-inherited	ibid. q. 6	bon-sent-I-d18-a1-q6		chunk			
 bon-sent-I-d27-p2-a1-q2	1	scholion		authority	authority:Albert.	d. 28. a. 10			excluded			
 bon-sent-I-d27-p2-a1-q2	1	apparatus:1	1	scripture	apparatus-explicit	Ps. 32, 9	Ps 32:9	A	verse			
 bon-sent-I-d27-p2-a1-q2	1	apparatus:7	7	scripture	apparatus-explicit	Ioan. 1, 1	Ioan 1:1	A	verse			
@@ -949,7 +949,7 @@ bon-sent-I-d29-a2-q1	1	scholion		crossref	chain-continuation	d. 7. q. 1.	bon-sen
 bon-sent-I-d29-a2-q1	1	scholion		crossref	chain-continuation	d. 7.	I:d7		distinctio			
 bon-sent-I-d29-a2-q1	1	scholion		crossref	anaphor->chain-continuation	loc. cit.	I:d7		distinctio	yes	d. 7.	
 bon-sent-I-d29-a2-q1	1	scholion		authority	authority:Scot.	I. Sent. d. 12. q. 1			excluded			
-bon-sent-I-d29-a2-q1	1	scholion		authority	authority:Scot.	ibid.			excluded			
+bon-sent-I-d29-a2-q1	1	scholion		authority	authority:Scot.	ibid. q. 1			excluded			
 bon-sent-I-d29-a2-q1	1	scholion		authority	authority:S. Thom.	I. Sent. d. 11. q. 1.			excluded			
 bon-sent-I-d29-a2-q1	1	scholion		authority	authority:Richard. a Med.	I. Sent. d. 11. q. 3			excluded			
 bon-sent-I-d29-a2-q1	1	scholion		authority	authority:Dionys. Carth.	d. 11. q. 3			excluded			
@@ -1428,7 +1428,7 @@ bon-sent-I-d38-a1-q2	1	scholion		crossref	relative	infra d. 40. a. 2. q. 1.	bon-
 bon-sent-I-d38-a1-q2	1	scholion		crossref	anaphor->relative	loc. cit.	bon-sent-I-d40-a2-q1		chunk	yes	infra d. 40. a. 2. q. 1.	
 bon-sent-I-d38-a1-q2	1	apparatus:2	2	crossref	anaphor->relative	loc. cit.	bon-sent-I-d40-a2-q1		chunk	yes	infra d. 40. a. 2. q. 1.	
 bon-sent-I-d38-a2-q1	1	scholion		crossref	relative	infra d. 40. dub. 7	bon-sent-I-d40-dubia		chunk			dub-7
-bon-sent-I-d38-a2-q1	1	scholion		crossref	relative-inherited	ibid.	bon-sent-I-d40-dubia		chunk			
+bon-sent-I-d38-a2-q1	1	scholion		crossref	relative-inherited	ibid. a. 2. q. 1	bon-sent-I-d40-a2-q1		chunk			
 bon-sent-I-d38-a2-q1	1	scholion		crossref	chain-continuation	d. 45. a. 2. q. 2.	bon-sent-I-d45-a2-q2		chunk			
 bon-sent-I-d38-a2-q1	1	scholion		crossref	relative	infra d. 40. a. 2. q. 1.	bon-sent-I-d40-a2-q1		chunk			
 bon-sent-I-d38-a2-q1	1	scholion		crossref	chain-continuation	d. 47. q. 1.	bon-sent-I-d47-a1-q1		chunk			
@@ -1584,7 +1584,7 @@ bon-sent-I-d40-a2-q1	1	apparatus:26	26	crossref	anaphor->relative	ibid.	bon-sent
 bon-sent-I-d40-a2-q1	1	apparatus:28	28	crossref	relative	supra d. 38. a. 2. q. 2.	bon-sent-I-d38-a2-q2		chunk			
 bon-sent-I-d40-a2-q2	1	latin_body	1	scripture	body-ordinal	Ioannis decimo tertio	Ioan 13:18	B	verse			
 bon-sent-I-d40-a2-q2	1	latin_body	2	scripture	body-ordinal	ad Timotheum secundo	Tim* 2:19	B	verse			
-bon-sent-I-d40-a2-q2	1	latin_body	3	scripture	body-ordinal	Ioannis secundo	Ioan 2	C	chapter			
+bon-sent-I-d40-a2-q2	1	latin_body	3	scripture	body-ordinal	Ioannis secundo	1Ioan 2	C	chapter			
 bon-sent-I-d40-a2-q2	1	latin_body	6	scripture	body-ordinal	Ioannis decimo quarto	Ioan 14:1	B	verse			
 bon-sent-I-d40-a2-q2	1	latin_body	7	scripture	body-ordinal	Apocalypsis tertio	Apoc 3:24	B	verse			
 bon-sent-I-d40-a2-q2	1	latin_body	8	scripture	body-ordinal	Iob trigesimo quarto	Iob 34:6	B	verse			
@@ -1713,7 +1713,7 @@ bon-sent-I-d41-littera	1	latin_body	17	crossref	relative-bare	ibid			unresolvabl
 bon-sent-I-d41-littera	1	apparatus:3	3	scripture	apparatus-explicit	Rom. 9, 18	Rom 9:18	A	verse			
 bon-sent-I-d41-littera	1	apparatus:5	5	scripture	apparatus-explicit	Rom. 9, 13	Rom 9:13	A	verse			
 bon-sent-I-d41-littera	1	apparatus:8	8	scripture	apparatus-explicit	Rom. 11, 5	Rom 11:5	A	verse			
-bon-sent-I-d41-littera	1	apparatus:9	9	scripture	apparatus-explicit	I. Cor. 12	1Cor 12	C	chapter			
+bon-sent-I-d41-littera	1	apparatus:9	9	scripture	apparatus-explicit	I. Cor. 12. 6	1Cor 12:6	A	verse			
 bon-sent-I-d41-littera	1	apparatus:10	10	scripture	apparatus-explicit	Rom. 5, 5	Rom 5:5	A	verse			
 bon-sent-I-d41-littera	1	apparatus:13	13	scripture	apparatus-explicit	Rom. 9, 18	Rom 9:18	A	verse			
 bon-sent-I-d41-littera	1	apparatus:17	17	scripture	apparatus-explicit	Rom. 9, 11	Rom 9:11	A	verse			
@@ -2085,7 +2085,7 @@ bon-sent-I-d5-littera	1	apparatus:28	28	scripture	apparatus-explicit	Col. 1, 13	
 bon-sent-I-d5-littera	1	apparatus:31	31	scripture	apparatus-explicit	Matth. 22, 29	Matth 22:29	A	verse			
 bon-sent-I-d5-littera	1	apparatus:33	33	scripture	apparatus-explicit	Ioan. 5, 20	Ioan 5:20	A	verse			
 bon-sent-I-d5-littera	1	apparatus:38	38	scripture	anaphor->apparatus-explicit	ibid	Ioan 5:20	A	verse	yes	Ioan. 5, 20	
-bon-sent-I-d6-a1-q1	1	latin_body	10	scripture	body-ordinal	Ioannis tertio	Ioan 3:17	B	verse			
+bon-sent-I-d6-a1-q1	1	latin_body	10	scripture	body-ordinal	Ioannis tertio	1Ioan 3:17	B	verse			
 bon-sent-I-d6-a1-q1	1	scholion		crossref	relative	infra d. 9.	I:d9		distinctio			
 bon-sent-I-d6-a1-q1	1	scholion		authority	authority:Bonav.	II. Sent. d. 7. p. I. a. 2. q. 2.			excluded			
 bon-sent-I-d6-a1-q1	1	scholion		authority	authority:Bonav.	ibid. d. 25. p. II. q. 2.			excluded			
@@ -2120,7 +2120,7 @@ bon-sent-I-d7-a1-q3	1	scholion		crossref	relative	infra d. 20. a. 1. q. 1.	bon-s
 bon-sent-I-d7-a1-q4	1	scholion		crossref	relative	infra d. 42. q. 1.	bon-sent-I-d42-a1-q1		chunk			
 bon-sent-I-d7-a1-q4	1	scholion		authority	authority:Alex. Hal.	I. Sent. d. 42. q. 2.			excluded			
 bon-sent-I-d7-a1-q4	1	scholion		crossref	relative	supra d. 1. dub. 5.	bon-sent-I-d1-dubia		chunk			dub-5
-bon-sent-I-d7-a1-q4	1	scholion		crossref	relative-inherited	ibid.	bon-sent-I-d1-dubia		chunk			
+bon-sent-I-d7-a1-q4	1	scholion		crossref	relative-inherited	ibid. a. 3. q. 1	bon-sent-I-d1-a3-q1		chunk			
 bon-sent-I-d7-a1-q4	1	scholion		authority	authority:Scot.	Sent. d. 20. q. 2.			excluded			
 bon-sent-I-d7-a1-q4	1	scholion		authority	authority:Aegid.	Sent. d. 20.			excluded			
 bon-sent-I-d7-a1-q4	1	scholion		authority	authority:S. Thom.	I. Sent. d. 20. q. 1.			excluded			
@@ -2257,7 +2257,7 @@ bon-sent-I-littera	1	apparatus:p17-8	p17-8	scripture	apparatus-explicit	Matth. 5
 bon-sent-I-littera	1	apparatus:p17-14	p17-14	scripture	anaphor->apparatus-explicit	ibid.	Matth 5:15	A	verse	yes	Matth. 5, 15	
 bon-sent-I-proem-q1	1	scholion		crossref	work	Breviloq. p. I. c. 1.	bon-brev-p1-c1		chunk			
 bon-sent-I-proem-q1	1	scholion		crossref	logical	III. Sent. d. 23. a. 1. q. 1.	bon-sent-III-d23-a1-q1		chunk			
-bon-sent-I-proem-q1	1	scholion		crossref	relative-inherited	ibid.	bon-sent-III-d23-a1-q1		chunk			
+bon-sent-I-proem-q1	1	scholion		crossref	relative-inherited	ibid. q. 4	bon-sent-III-d23-a1-q4		chunk			
 bon-sent-I-proem-q1	1	scholion		crossref	work	Breviloq. p. 1. c. 1.	bon-brev-p1-c1		chunk			
 bon-sent-I-proem-q1	1	scholion		crossref	logical	I. Sent. d. 1. a. 3.	bon-sent-I-d1-a3-q1+bon-sent-I-d1-a3-q2		articulus			
 bon-sent-I-proem-q1	1	scholion		crossref	anaphor->logical	loc. cit.	bon-sent-I-d1-a3-q1+bon-sent-I-d1-a3-q2		articulus	yes	I. Sent. d. 1. a. 3.	
@@ -2370,7 +2370,7 @@ bon-sent-II-d1-p1-a2-q1	2	latin_body		scripture	body-ordinal	ad Ephesios secundo
 bon-sent-II-d1-p1-a2-q1	2	latin_body	6	scripture	body-ordinal	ad Romanos septimo	Rom 7:23	B	verse			
 bon-sent-II-d1-p1-a2-q1	2	latin_body		scripture	body-ordinal	ad Galatas quinto	Gal 5	C	chapter			
 bon-sent-II-d1-p1-a2-q1	2	latin_body		scripture	body-ordinal	Matthaei quinto	Matth 5	C	chapter			
-bon-sent-II-d1-p1-a2-q1	2	latin_body	9	scripture	body-ordinal	Ioannis secundo	Ioan 2:15	B	verse			
+bon-sent-II-d1-p1-a2-q1	2	latin_body	9	scripture	body-ordinal	Ioannis secundo	1Ioan 2:15	B	verse			
 bon-sent-II-d1-p1-a2-q1	2	latin_body		scripture	body-ordinal	Ioannis duodecimo	Ioan 12	C	chapter			
 bon-sent-II-d1-p1-a2-q1	2	latin_body	10	scripture	body-ordinal	Ioannis primo	Ioan 1:3	B	verse			
 bon-sent-II-d1-p1-a2-q1	2	latin_body	12	scripture	body-ordinal	Actuum decimo tertio	Act 13:16	B	verse			
@@ -2718,7 +2718,7 @@ bon-sent-II-d12-dubia	2	apparatus:2	2	scripture	apparatus-explicit	Gen. 1, 2	Gen
 bon-sent-II-d12-dubia	2	apparatus:3	3	scripture	apparatus-explicit	Gen. 1, 1	Gen 1:1	A	verse			
 bon-sent-II-d12-dubia	2	apparatus:4	4	scripture	apparatus-explicit	Gen. 1, 6	Gen 1:6	A	verse			
 bon-sent-II-d12-dubia	2	apparatus:8	8	crossref	relative	supra d. 2. p. I. a. 1. q. 1.	bon-sent-II-d2-p1-a1-q1		chunk			
-bon-sent-II-d12-dubia	2	apparatus:8	8	crossref	relative-inherited	ibid.	bon-sent-II-d2-p1-a1-q1		chunk			
+bon-sent-II-d12-dubia	2	apparatus:8	8	crossref	relative-inherited	ibid. a. 2. q. 1	bon-sent-II-d2-p1-a2-q1		chunk			
 bon-sent-II-d12-dubia	2	apparatus:10	10	crossref	relative	supra d. 2. p. I. dub. 1.	bon-sent-II-d2-p1-dubia		chunk			dub-1
 bon-sent-II-d12-dubia	2	apparatus:10	10	crossref	page	pag. 96, nota 5	bon-sent-II-d3-p1-a1-q2		chunk			
 bon-sent-II-d12-dubia	2	apparatus:14	14	scripture	apparatus-explicit	Dan. 3, 72	Dan 3:72	A	verse			
@@ -3170,7 +3170,7 @@ bon-sent-II-d17-a1-q1	2	latin_body	8	scripture	body-ordinal	Genesis primo	Gen 1:
 bon-sent-II-d17-a1-q1	2	latin_body	16	scripture	body-ordinal	Ioannis vigesimo	Ioan 20:22	B	verse			
 bon-sent-II-d17-a1-q1	2	scholion		crossref	logical	I. Sent. d. 3. p. I.	I:d3		distinctio			
 bon-sent-II-d17-a1-q1	2	scholion		crossref	relative	supra d. 13. a. 2. q. 2.	bon-sent-II-d13-a2-q2		chunk			
-bon-sent-II-d17-a1-q1	2	apparatus:6	6	scripture	apparatus-explicit	Tim. 6	Tim* 6	C	chapter			
+bon-sent-II-d17-a1-q1	2	apparatus:6	6	scripture	apparatus-explicit	Tim. 6. 16	Tim* 6:16	A	verse			
 bon-sent-II-d17-a1-q1	2	apparatus:9	9	crossref	logical	I. Sent. d. 8. p. II. q. 2.	bon-sent-I-d8-p2-a1-q2		chunk			
 bon-sent-II-d17-a1-q1	2	apparatus:10	10	crossref	logical	I. Sent. d. 19. p. II. q. 3.	bon-sent-I-d19-p2-a1-q3		chunk			
 bon-sent-II-d17-a1-q1	2	apparatus:13	13	crossref	relative	supra d. 1. p. I. a. 2. q. 1.	bon-sent-II-d1-p1-a2-q1		chunk			
@@ -3302,7 +3302,7 @@ bon-sent-II-d18-a1-q3	2	scholion		crossref	chain-continuation	d. 30. a. 3. q. 1.
 bon-sent-II-d18-a1-q3	2	scholion		crossref	relative	supra d. 13. a. 2. q. 2	bon-sent-II-d13-a2-q2		chunk			
 bon-sent-II-d18-a1-q3	2	scholion		authority	authority:Petr. a Tar.	d. 7. p. II. a. 2. q. 1.			excluded			
 bon-sent-II-d18-a1-q3	2	scholion		crossref	relative	supra d. 13. a. 3. q. 2.	bon-sent-II-d13-a3-q2		chunk			
-bon-sent-II-d18-a1-q3	2	scholion		scripture	apparatus-explicit	Cor. 13	Cor* 13	C	chapter			
+bon-sent-II-d18-a1-q3	2	scholion		scripture	apparatus-explicit	Cor. 13. 9	Cor* 13:9	A	verse			
 bon-sent-II-d18-a1-q3	2	apparatus:3	3	crossref	page	tom. I. pag. 707, nota 5	bon-sent-I-d40-a2-q1		chunk			
 bon-sent-II-d18-a1-q3	2	apparatus:4	4	crossref	page	supra pag. 109, nota 8	bon-sent-II-d3-p1-a2-q3		chunk			
 bon-sent-II-d18-a1-q3	2	apparatus:9	9	crossref	page	supra pag. 197, nota 3	bon-sent-II-d7-p2-a2-q1		chunk			
@@ -3719,7 +3719,7 @@ bon-sent-II-d21-divisio	2	apparatus:1	1	crossref	relative-bare	loc. cit.			unres
 bon-sent-II-d21-divisio	2	apparatus:4	4	scripture	apparatus-explicit	Matth. 22, 30	Matth 22:30	A	verse			
 bon-sent-II-d21-divisio	2	apparatus:5	5	scripture	apparatus-explicit	I. Cor. 14, 35	1Cor 14:35	A	verse			
 bon-sent-II-d21-divisio	2	apparatus:6	6	scripture	anaphor->apparatus-explicit	ibid.	1Cor 14:35	A	verse	yes	I. Cor. 14, 35	
-bon-sent-II-d21-dubia	2	latin_body	8	scripture	body-ordinal	Ioannis secundo	Ioan 2:16	B	verse			
+bon-sent-II-d21-dubia	2	latin_body	8	scripture	body-ordinal	Ioannis secundo	1Ioan 2:16	B	verse			
 bon-sent-II-d21-dubia	2	latin_body	12	scripture	body-ordinal	ad Corinthios decimo	Cor* 10:13	B	verse			
 bon-sent-II-d21-dubia	2	latin_body		scripture	anaphor->body-ordinal	ibid	Cor* 10:13	B	verse	yes	ad Corinthios decimo	
 bon-sent-II-d21-dubia	2	latin_body	14	scripture	body-ordinal	Iacobi primo	Iac 1:14	B	verse			
@@ -3795,7 +3795,7 @@ bon-sent-II-d22-a2-q3	2	latin_body	7	scripture	body-ordinal	ad Romanos secundo	R
 bon-sent-II-d22-a2-q3	2	apparatus:3	3	scripture	anaphor->body-ordinal	ibid.	Rom 2:1	B	verse	yes	ad Romanos secundo	
 bon-sent-II-d22-a2-q3	2	apparatus:7	7	scripture	apparatus-explicit	Rom. 2, 5	Rom 2:5	A	verse			
 bon-sent-II-d22-a2-q3	2	apparatus:8	8	crossref	relative	infra d. 29. a. 1. q. 2.	bon-sent-II-d29-a1-q2		chunk			
-bon-sent-II-d22-a2-q3	2	apparatus:22	22	scripture	apparatus-explicit	Gen. 19	Gen 19	C	chapter			
+bon-sent-II-d22-a2-q3	2	apparatus:22	22	scripture	apparatus-explicit	Gen. 19. 33	Gen 19:33	A	verse			
 bon-sent-II-d22-dubia	2	apparatus:1	1	scripture	apparatus-explicit	Rom. 5, 14	Rom 5:14	A	verse			
 bon-sent-II-d22-dubia	2	apparatus:1	1	crossref	relative	infra d. 31. dub. 3	bon-sent-II-d31-dubia		chunk			dub-3
 bon-sent-II-d22-dubia	2	apparatus:2	2	crossref	page	supra pag. 306, nota 3	bon-sent-II-d12-a2-q3+bon-sent-II-d12-dubia		page-multi			
@@ -3884,7 +3884,7 @@ bon-sent-II-d23-a2-q3	2	latin_body	9	scripture	body-ordinal	Exodi trigesimo tert
 bon-sent-II-d23-a2-q3	2	latin_body	10	scripture	body-ordinal	Ioannis primo	Ioan 1:18	B	verse			
 bon-sent-II-d23-a2-q3	2	latin_body	11	scripture	body-ordinal	Isaiae sexto	Isai 6:1	B	verse			
 bon-sent-II-d23-a2-q3	2	latin_body	15	scripture	body-ordinal	ad Corinthios decimo tertio	Cor* 13	C	chapter			
-bon-sent-II-d23-a2-q3	2	latin_body		scripture	body-ordinal	Ioannis tertio	Ioan 3	C	chapter			
+bon-sent-II-d23-a2-q3	2	latin_body		scripture	body-ordinal	Ioannis tertio	1Ioan 3	C	chapter			
 bon-sent-II-d23-a2-q3	2	scholion		authority	authority:Bonav.	I. Sent. d. 3. p. I. q. 1.			excluded			
 bon-sent-II-d23-a2-q3	2	scholion		authority	anaphor->authority:Bonav.	ibid.			excluded	yes	I. Sent. d. 3. p. I. q. 1.	
 bon-sent-II-d23-a2-q3	2	scholion		crossref	logical	II. Sent. d. 3. p. II. a. 2. q. 2.	bon-sent-II-d3-p2-a2-q2		chunk			
@@ -4260,7 +4260,7 @@ bon-sent-II-d26-a1-q2	2	scholion		crossref	relative-inherited	ibid.	bon-sent-I-d
 bon-sent-II-d26-a1-q2	2	scholion		authority	authority:Durand.	I. Sent. d. 17. q. 1.			excluded			
 bon-sent-II-d26-a1-q2	2	scholion		authority	authority:Durand.	I. Sent. d. 17. q. 3.			excluded			
 bon-sent-II-d26-a1-q2	2	scholion		crossref	logical	I. Sent. d. 18. q. 1.	bon-sent-I-d18-a1-q1		chunk			
-bon-sent-II-d26-a1-q2	2	scholion		scripture	apparatus-explicit	II. Petr. 1	2Petr 1	C	chapter			
+bon-sent-II-d26-a1-q2	2	scholion		scripture	apparatus-explicit	II. Petr. 1. 2	2Petr 1:2	A	verse			
 bon-sent-II-d26-a1-q2	2	apparatus:1	1	scripture	apparatus-explicit	Luc. 11, 13	Luc 11:13	A	verse			
 bon-sent-II-d26-a1-q2	2	apparatus:1	1	scripture	apparatus-explicit	Matth. 7, 11	Matth 7:11	A	verse			
 bon-sent-II-d26-a1-q2	2	apparatus:4	4	crossref	page	supra pag. 43, nota 5	bon-sent-II-d1-p2-a1-q2+bon-sent-II-d1-p2-a2-q1		page-multi			
@@ -4306,7 +4306,7 @@ bon-sent-II-d26-a1-q5	2	apparatus:9	9	scripture	anaphor->apparatus-explicit	ibid
 bon-sent-II-d26-a1-q5	2	apparatus:9	9	crossref	page	supra pag. 45, nota 3	bon-sent-II-d1-p2-a2-q1+bon-sent-II-d1-p2-a2-q2		page-multi			
 bon-sent-II-d26-a1-q5	2	apparatus:12	12	crossref	relative	supra d. 23. p. I. q. 2.			dangling			
 bon-sent-II-d26-a1-q5	2	apparatus:15	15	crossref	relative	supra d. 17. a. 2. q. 3.	bon-sent-II-d17-a2-q3		chunk			
-bon-sent-II-d26-a1-q5	2	apparatus:15	15	crossref	relative-inherited	ibid.	bon-sent-II-d17-a2-q3		chunk			
+bon-sent-II-d26-a1-q5	2	apparatus:15	15	crossref	relative-inherited	ibid. a. 1. q. 2	bon-sent-II-d17-a1-q2		chunk			
 bon-sent-II-d26-a1-q6	2	scholion		crossref	relative	infra d. 27. a. 1.	bon-sent-II-d27-a1-q1+bon-sent-II-d27-a1-q2+bon-sent-II-d27-a1-q3		articulus			
 bon-sent-II-d26-a1-q6	2	scholion		crossref	relative	infra d. 27.	II:d27		distinctio			
 bon-sent-II-d26-a1-q6	2	scholion		crossref	relative-inherited	ibid.	II:d27		distinctio			
@@ -4335,8 +4335,8 @@ bon-sent-II-d26-littera	2	apparatus:3	3	scripture	apparatus-explicit	Ps. 36, 23	
 bon-sent-II-d26-littera	2	apparatus:4	4	scripture	apparatus-explicit	Cor. 15, 10	Cor* 15:10	A	verse			
 bon-sent-II-d26-littera	2	apparatus:8	8	scripture	apparatus-explicit	Rom. 5, 1	Rom 5:1	A	verse			
 bon-sent-II-d26-littera	2	apparatus:10	10	scripture	apparatus-explicit	Rom. 5, 1	Rom 5:1	A	verse			
-bon-sent-II-d26-littera	2	apparatus:13	13	scripture	apparatus-explicit	Cor. 4	Cor* 4	C	chapter			
-bon-sent-II-d26-littera	2	apparatus:15	15	scripture	anaphor->apparatus-explicit	ibid.	Cor* 4	C	chapter	yes	Cor. 4	
+bon-sent-II-d26-littera	2	apparatus:13	13	scripture	apparatus-explicit	Cor. 4. 7	Cor* 4:7	A	verse			
+bon-sent-II-d26-littera	2	apparatus:15	15	scripture	anaphor->apparatus-explicit	ibid.	Cor* 4:7	A	verse	yes	Cor. 4. 7	
 bon-sent-II-d26-littera	2	apparatus:16	16	scripture	apparatus-explicit	Ps. 58, 11	Ps 58:11	A	verse			
 bon-sent-II-d26-littera	2	apparatus:16	16	scripture	apparatus-explicit	Ps. 22, 6	Ps 22:6	A	verse			
 bon-sent-II-d26-littera	2	apparatus:16	16	scripture	apparatus-explicit	Matth. 5, 44	Matth 5:44	A	verse			
@@ -4506,7 +4506,7 @@ bon-sent-II-d28-a1-q1	2	latin_body		scripture	body-ordinal	ad Philippenses secun
 bon-sent-II-d28-a1-q1	2	scholion		authority	authority:Bonav.	IV. Sent. d. 17. p. I. a. 1. q. 1			excluded			
 bon-sent-II-d28-a1-q1	2	scholion		authority	authority:Bonav.	d. 29. a. 1. q. 1.			excluded			
 bon-sent-II-d28-a1-q1	2	scholion		authority	authority:Alex. Hal.	I. Sent. d. 17. q. 3			excluded			
-bon-sent-II-d28-a1-q1	2	scholion		authority	authority:Alex. Hal.	ibid.			excluded			
+bon-sent-II-d28-a1-q1	2	scholion		authority	authority:Alex. Hal.	ibid. q. 2			excluded			
 bon-sent-II-d28-a1-q1	2	scholion		authority	authority:S. Thom.	IV. Sent. d. 17. q. 1.			excluded			
 bon-sent-II-d28-a1-q1	2	scholion		authority	authority:Albert.	II. Sent. d. 26. a. 1			excluded			
 bon-sent-II-d28-a1-q1	2	apparatus:1	1	scripture	anaphor->body-ordinal	ibid. v. 20	Rom 3:20	B	verse	yes	body: ad Romanos tertio	
@@ -4798,7 +4798,7 @@ bon-sent-II-d3-p1-a1-q2	2	apparatus:11	11	crossref	logical	Sent. d. 7. q. 1.	bon
 bon-sent-II-d3-p1-a1-q2	2	apparatus:12	12	crossref	anaphor->logical	ibid.	bon-sent-II-d7-p1-a1-q1+bon-sent-II-d7-p1-a2-q1+bon-sent-II-d7-p2-a1-q1+bon-sent-II-d7-p2-a2-q1		ambiguous	yes	Sent. d. 7. q. 1.	
 bon-sent-II-d3-p1-a1-q2	2	apparatus:12	12	crossref	page	supra pag. 60, nota 1	bon-sent-II-d2-p1-a1-q2		chunk			
 bon-sent-II-d3-p1-a1-q2	2	apparatus:14	14	crossref	relative	supra d. 2. p. I. a. 1. q. 1.	bon-sent-II-d2-p1-a1-q1		chunk			
-bon-sent-II-d3-p1-a1-q2	2	apparatus:14	14	crossref	relative-inherited	ibid.	bon-sent-II-d2-p1-a1-q1		chunk			
+bon-sent-II-d3-p1-a1-q2	2	apparatus:14	14	crossref	relative-inherited	ibid. a. 2. q. 3	bon-sent-II-d2-p1-a2-q3		chunk			
 bon-sent-II-d3-p1-a1-q2	2	apparatus:16	16	crossref	page	supra pag. 89, nota 8	bon-sent-II-d3-p1-a1-q1		chunk			
 bon-sent-II-d3-p1-a1-q2	2	apparatus:19	19	crossref	page	supra pag. 15, nota 10	bon-sent-II-d1-p1-a1-q1		chunk			
 bon-sent-II-d3-p1-a1-q2	2	apparatus:38	38	crossref	relative	supra d. 2. p. I. a. 1. q. 2	bon-sent-II-d2-p1-a1-q2		chunk			
@@ -5049,7 +5049,7 @@ bon-sent-II-d30-a3-q1	2	apparatus:12	12	crossref	page	tom. I. pag. 316, nota 12	
 bon-sent-II-d30-a3-q1	2	apparatus:18	18	scripture	apparatus-explicit	Ioan. 6, 11	Ioan 6:11	A	verse			
 bon-sent-II-d30-a3-q1	2	apparatus:18	18	scripture	apparatus-explicit	Gen. 2, 21	Gen 2:21	A	verse			
 bon-sent-II-d30-a3-q1	2	apparatus:18	18	crossref	relative	supra d. 18. a. 1. q. 2.	bon-sent-II-d18-a1-q2		chunk			
-bon-sent-II-d30-a3-q1	2	apparatus:20	20	scripture	apparatus-explicit	I. Cor. 3	1Cor 3	C	chapter			
+bon-sent-II-d30-a3-q1	2	apparatus:20	20	scripture	apparatus-explicit	I. Cor. 3. 7	1Cor 3:7	A	verse			
 bon-sent-II-d30-a3-q1	2	apparatus:24	24	crossref	relative	supra d. 18. a. 2. q. 3.	bon-sent-II-d18-a2-q3		chunk			
 bon-sent-II-d30-a3-q1	2	apparatus:24	24	crossref	relative	supra d. 3. p. II. a. 1. q. 2.	bon-sent-II-d3-p2-a1-q2		chunk			
 bon-sent-II-d30-a3-q1	2	apparatus:29	29	crossref	relative	supra d. 20. q. 2.	bon-sent-II-d20-a1-q2		chunk			
@@ -5514,7 +5514,7 @@ bon-sent-II-d35-a2-q1	2	apparatus:7	7	crossref	page	supra pag. 812, nota 8	bon-s
 bon-sent-II-d35-a2-q1	2	apparatus:10	10	crossref	page	pag. 828, nota 5	bon-sent-II-d35-a1-q3+bon-sent-II-d35-a2-q1		page-multi			
 bon-sent-II-d35-a2-q2	2	apparatus:4	4	crossref	relative	infra d. 40. a. 1. q. 1.	bon-sent-II-d40-a1-q1		chunk			
 bon-sent-II-d35-a2-q2	2	apparatus:5	5	crossref	logical	I. Sent. d. 3. p. 1. dub. 3.	bon-sent-I-d3-p1-dubia		chunk			dub-3
-bon-sent-II-d35-a2-q2	2	apparatus:5	5	crossref	relative-inherited	ibid.	bon-sent-I-d3-p1-dubia		chunk			
+bon-sent-II-d35-a2-q2	2	apparatus:5	5	crossref	relative-inherited	ibid. q. 2	bon-sent-I-d3-p1-a1-q2		chunk			
 bon-sent-II-d35-a2-q2	2	apparatus:6	6	crossref	relative	infra d. 41. a. 2. q. 2.	bon-sent-II-d41-a2-q2		chunk			
 bon-sent-II-d35-a2-q2	2	apparatus:7	7	crossref	logical	I. Sent. d. 46. q. 5.	bon-sent-I-d46-a1-q5		chunk			
 bon-sent-II-d35-a2-q2	2	apparatus:11	11	crossref	page	supra pag. 543, nota 6	bon-sent-II-d23-a2-q3		chunk			
@@ -6447,7 +6447,7 @@ bon-sent-II-d42-littera	2	apparatus:4	4	scripture	apparatus-explicit	Exod. 20, 1
 bon-sent-II-d42-littera	2	apparatus:4	4	scripture	apparatus-explicit	Deut. 5, 19	Deut 5:19	A	verse			
 bon-sent-II-d42-littera	2	apparatus:10	10	scripture	anaphor->apparatus-explicit	ibid.	Deut 5:19	A	verse	yes	Deut. 5, 19	
 bon-sent-II-d42-littera	2	apparatus:11	11	scripture	apparatus-explicit	Exod. 23, 22	Exod 23:22	A	verse			
-bon-sent-II-d42-littera	2	apparatus:12	12	scripture	apparatus-explicit	Deut. 23	Deut 23	C	chapter			
+bon-sent-II-d42-littera	2	apparatus:12	12	scripture	apparatus-explicit	Deut. 23. 23	Deut 23:23	A	verse			
 bon-sent-II-d42-littera	2	apparatus:13	13	scripture	apparatus-explicit	Eccli. 10, 13	Eccli 10:13	A	verse			
 bon-sent-II-d42-littera	2	apparatus:15	15	scripture	apparatus-explicit	Tim. 6, 10	Tim* 6:10	A	verse			
 bon-sent-II-d42-littera	2	apparatus:16	16	scripture	apparatus-explicit	I. Tim. 6, 10	1Tim 6:10	A	verse			
@@ -6576,7 +6576,7 @@ bon-sent-II-d44-a2-q1	2	apparatus:7	7	scripture	apparatus-explicit	Matth. 19, 6	
 bon-sent-II-d44-a2-q1	2	apparatus:9	9	scripture	anaphor->body-ordinal	ibid. v. 11	Iob 34:11	B	verse	yes	body: Iob trigesimo quarto	
 bon-sent-II-d44-a2-q1	2	apparatus:11	11	crossref	logical	I. Sent. d. 48. a. 3. q. 2.			dangling			
 bon-sent-II-d44-a2-q1	2	apparatus:11	11	crossref	chain-continuation	d. 46. q. 1.	bon-sent-I-d46-a1-q1		chunk			
-bon-sent-II-d44-a2-q1	2	apparatus:17	17	scripture	apparatus-explicit	Exod. 22	Exod 22	C	chapter			
+bon-sent-II-d44-a2-q1	2	apparatus:17	17	scripture	apparatus-explicit	Exod. 22. 18	Exod 22:18	A	verse			
 bon-sent-II-d44-a2-q2	2	latin_body	1	scripture	body-ordinal	Genesis primo	Gen 1:26	B	verse			
 bon-sent-II-d44-a2-q2	2	latin_body	2	scripture	body-ordinal	ad Corinthios undecimo	Cor* 11:3	B	verse			
 bon-sent-II-d44-a2-q2	2	apparatus:3	3	crossref	relative	supra d. 9.	II:d9		distinctio			
@@ -6795,7 +6795,7 @@ bon-sent-II-d7-p1-a1-q1	2	apparatus:24	24	scripture	apparatus-explicit	Rom. 8, 3
 bon-sent-II-d7-p1-a1-q1	2	apparatus:27	27	scripture	apparatus-explicit	Matth. 27, 3	Matth 27:3	A	verse			
 bon-sent-II-d7-p1-a1-q1	2	apparatus:28	28	scripture	anaphor->apparatus-explicit	ibid.	Matth 27:3	A	verse	yes	Matth. 27, 3	
 bon-sent-II-d7-p1-a1-q2	2	latin_body	1	scripture	body-ordinal	ad Corinthios sexto	Cor* 6:15	B	verse			
-bon-sent-II-d7-p1-a1-q2	2	latin_body	2	scripture	body-ordinal	Ioannis tertio	Ioan 3:8	B	verse			
+bon-sent-II-d7-p1-a1-q2	2	latin_body	2	scripture	body-ordinal	Ioannis tertio	1Ioan 3:8	B	verse			
 bon-sent-II-d7-p1-a1-q2	2	latin_body	7	scripture	body-ordinal	Iacobi secundo	Iac 2:19	B	verse			
 bon-sent-II-d7-p1-a1-q2	2	latin_body	8	scripture	body-ordinal	Petri secundo	Petr* 2:11	B	verse			
 bon-sent-II-d7-p1-a1-q2	2	scholion		crossref	relative	infra d. 28. a. 2. q. 3.	bon-sent-II-d28-a2-q3		chunk			
@@ -6826,7 +6826,7 @@ bon-sent-II-d7-p1-a2-q1	2	scholion		crossref	relative	infra d. 41. dub. 3.	bon-s
 bon-sent-II-d7-p1-a2-q1	2	scholion		crossref	logical	IV. Sent. d. 50. p. I. a. 1. q. 1.	bon-sent-IV-d50-p1-a1-q1		chunk			
 bon-sent-II-d7-p1-a2-q1	2	scholion		crossref	logical	III. Sent. d. 18. a. 1. q. 2.	bon-sent-III-d18-a1-q2		chunk			
 bon-sent-II-d7-p1-a2-q1	2	scholion		authority	authority:Scot.	IV. Sent. d. 49. q. 6.			excluded			
-bon-sent-II-d7-p1-a2-q1	2	scholion		authority	authority:Scot.	ibid.			excluded			
+bon-sent-II-d7-p1-a2-q1	2	scholion		authority	authority:Scot.	ibid. q. 5			excluded			
 bon-sent-II-d7-p1-a2-q2	2	scholion		crossref	relative	infra d. 25. p. I. a. 1. q. 1.	bon-sent-II-d25-p1-a1-q1		chunk			
 bon-sent-II-d7-p1-a2-q2	2	scholion		crossref	relative	infra d. 24. p. I. dub. 3.	bon-sent-II-d24-p1-dubia		chunk			dub-3
 bon-sent-II-d7-p1-a2-q2	2	scholion		crossref	chain-continuation	d. 26. q. 6	bon-sent-II-d26-a1-q6		chunk			
@@ -6971,6 +6971,7 @@ bon-sent-II-d8-p1-a3-q2	2	apparatus:16	16	crossref	anaphor->relative	ibid	bon-se
 bon-sent-II-d8-p1-dubia	2	latin_body	4	scripture	body-ordinal	Exodi trigesimo tertio	Exod 33:11	B	verse			
 bon-sent-II-d8-p1-dubia	2	latin_body		scripture	body-ordinal	Numerorum duodecimo	Num 12	C	chapter			
 bon-sent-II-d8-p1-dubia	2	apparatus:3	3	crossref	logical	I. Sent. d. 3. p. I. q. 2.	bon-sent-I-d3-p1-a1-q2		chunk			
+bon-sent-II-d8-p1-dubia	2	apparatus:4	4	scripture	apparatus-explicit	Num. 12. 8	Num 12:8	A	verse			
 bon-sent-II-d8-p1-dubia	2	apparatus:7	7	crossref	page	supra pag. 31, nota 9	bon-sent-II-d1-p1-a3-q1		chunk			
 bon-sent-II-d8-p1-dubia	2	apparatus:7	7	crossref	page	pag. 663, nota 8	bon-sent-II-d27-a2-q1+bon-sent-II-d27-a2-q2		page-multi			
 bon-sent-II-d8-p1-dubia	2	apparatus:9	9	crossref	logical	I. Sent. d. 8. p. I. a. 2. q. 2.	bon-sent-I-d8-p1-a2-q2		chunk			
@@ -7022,7 +7023,7 @@ bon-sent-II-d8-p2-a1-q6	2	latin_body	7	scripture	body-ordinal	Ieremiae decimo se
 bon-sent-II-d8-p2-a1-q6	2	latin_body	8	scripture	body-ordinal	ad Corinthios secundo	Cor* 2:11	B	verse			
 bon-sent-II-d8-p2-a1-q6	2	scholion		crossref	relative	infra d. 39. a. 1. q. 1.	bon-sent-II-d39-a1-q1		chunk			
 bon-sent-II-d8-p2-a1-q6	2	scholion		authority	authority:Scot.	II. Sent. d. 9. q. 2.			excluded			
-bon-sent-II-d8-p2-a1-q6	2	scholion		authority	authority:Scot.	ibid.			excluded			
+bon-sent-II-d8-p2-a1-q6	2	scholion		authority	authority:Scot.	ibid. q. 2			excluded			
 bon-sent-II-d8-p2-a1-q6	2	scholion		crossref	logical	IV. Sent. d. 45. q. 4.			dangling			
 bon-sent-II-d8-p2-a1-q6	2	scholion		authority	authority:Aegid.	II. Sent. d. 7. q. 2.			excluded			
 bon-sent-II-d8-p2-a1-q6	2	scholion		authority	authority:Biel	II. Sent. d. 9. q. 2.			excluded			
@@ -7239,8 +7240,8 @@ bon-sent-III-d1-a2-q2	3	scholion		crossref	logical	III. Sent. d. 7. q. 4.			dang
 bon-sent-III-d1-a2-q2	3	scholion		authority	authority:Albert.	III. Sent. d. 20. a. 4.			excluded			
 bon-sent-III-d1-a2-q2	3	scholion		authority	authority:Biel	III. Sent. d. 2.			excluded			
 bon-sent-III-d1-a2-q2	3	apparatus:2	2	scripture	anaphor->body-ordinal	ibid. v. 16	Hebr 2:16	B	verse	yes	body: ad Hebraeos secundo	
-bon-sent-III-d1-a2-q2	3	apparatus:4	4	scripture	apparatus-explicit	Psalm. 68	Ps 68	C	chapter			
-bon-sent-III-d1-a2-q2	3	apparatus:5	5	scripture	anaphor->apparatus-explicit	loc. cit.	Ps 68	C	chapter	yes	Psalm. 68	
+bon-sent-III-d1-a2-q2	3	apparatus:4	4	scripture	apparatus-explicit	Psalm. 68. 3	Ps 68:3	A	verse			
+bon-sent-III-d1-a2-q2	3	apparatus:5	5	scripture	anaphor->apparatus-explicit	loc. cit.	Ps 68:3	A	verse	yes	Psalm. 68. 3	
 bon-sent-III-d1-a2-q2	3	apparatus:8	8	crossref	page	supra pag. 19, nota 5	bon-sent-III-d1-a2-q1		chunk			
 bon-sent-III-d1-a2-q2	3	apparatus:12	12	crossref	logical	I. Sent. d. 46. q. 3.	bon-sent-I-d46-a1-q3		chunk			
 bon-sent-III-d1-a2-q2	3	apparatus:13	13	crossref	relative	infra d. 13. a. 2.	bon-sent-III-d13-a2-q1+bon-sent-III-d13-a2-q2+bon-sent-III-d13-a2-q3		articulus			
@@ -7305,7 +7306,7 @@ bon-sent-III-d1-a2-q4	3	apparatus:1	1	scripture	anaphor->body-ordinal	ibid. v. 5
 bon-sent-III-d1-a2-q4	3	apparatus:1	1	scripture	anaphor->body-ordinal	ibid. v. 6	Gen 2:6	A	verse	yes	ibid. v. 5	
 bon-sent-III-d1-a2-q4	3	apparatus:3	3	scripture	apparatus-explicit	I. Tim. 2, 4	1Tim 2:4	A	verse			
 bon-sent-III-d1-a2-q4	3	apparatus:4	4	scripture	apparatus-explicit	Marc. 2, 17	Marc 2:17	A	verse			
-bon-sent-III-d1-a2-q4	3	apparatus:4	4	scripture	apparatus-explicit	Luc. 5	Luc 5	C	chapter			
+bon-sent-III-d1-a2-q4	3	apparatus:4	4	scripture	apparatus-explicit	Luc. 5. 31	Luc 5:31	A	verse			
 bon-sent-III-d1-a2-q4	3	apparatus:5	5	scripture	apparatus-explicit	Gal. 4, 4	Gal 4:4	A	verse			
 bon-sent-III-d1-a2-q4	3	apparatus:6	6	crossref	logical	IV. Sent. d. 40. dub. 3	bon-sent-IV-d40-dubia		chunk			dub-3
 bon-sent-III-d1-a2-q4	3	apparatus:6	6	crossref	work	Breviloq.	work:breviloquium		work			
@@ -7483,7 +7484,7 @@ bon-sent-III-d11-a1-q2	3	apparatus:10	10	crossref	logical	IV. Sent. d. 43.	IV:d4
 bon-sent-III-d11-a1-q2	3	apparatus:10	10	crossref	chain-continuation	d. 49. p. II. a. 2.	bon-sent-IV-d49-p2-s1-a2-q1+bon-sent-IV-d49-p2-s1-a2-q2+bon-sent-IV-d49-p2-s2-a2-q1+bon-sent-IV-d49-p2-s2-a2-q2		articulus			
 bon-sent-III-d11-a1-q2	3	apparatus:11	11	scripture	apparatus-explicit	Hebr. 12, 2	Hebr 12:2	A	verse			
 bon-sent-III-d11-a1-q2	3	apparatus:11	11	scripture	apparatus-explicit	Ioan. 13, 15	Ioan 13:15	A	verse			
-bon-sent-III-d11-a1-q2	3	apparatus:11	11	scripture	apparatus-explicit	I. Petr. 2	1Petr 2	C	chapter			
+bon-sent-III-d11-a1-q2	3	apparatus:11	11	scripture	apparatus-explicit	I. Petr. 2. 21	1Petr 2:21	A	verse			
 bon-sent-III-d11-a1-q2	3	apparatus:12	12	scripture	apparatus-explicit	Exod. 25, 40	Exod 25:40	A	verse			
 bon-sent-III-d11-a1-q2	3	apparatus:14	14	crossref	logical	I Sent. d. 35. q. 3.	bon-sent-I-d35-a1-q3		chunk			
 bon-sent-III-d11-a1-q2	3	apparatus:17	17	scripture	apparatus-explicit	Rom. 8, 29	Rom 8:29	A	verse			
@@ -7853,7 +7854,7 @@ bon-sent-III-d14-a1-q3	3	apparatus:p305-6	p305-6	crossref	page	tom. II. pag. 221
 bon-sent-III-d14-a1-q3	3	apparatus:p305-7	p305-7	crossref	page	tom. I. pag. 68, nota 3	bon-sent-I-d3-p1-a1-q1		chunk			
 bon-sent-III-d14-a1-q3	3	apparatus:p305-7	p305-7	crossref	page	pag. 69, nota 12	bon-sent-I-d3-p1-a1-q1		chunk			
 bon-sent-III-d14-a2-q1	3	scholion		crossref	logical	Sent. d. 36. a. 2. q. 4			dangling			
-bon-sent-III-d14-a2-q1	3	scholion		crossref	relative-inherited	ibid.			dangling			
+bon-sent-III-d14-a2-q1	3	scholion		crossref	relative-inherited	ibid. q. 2			dangling			
 bon-sent-III-d14-a2-q1	3	scholion		crossref	logical	II. Sent. d. 4. a. 3.	bon-sent-II-d4-a3-q1+bon-sent-II-d4-a3-q2		articulus			
 bon-sent-III-d14-a2-q1	3	scholion		crossref	anaphor->logical	loc. cit.	bon-sent-II-d4-a3-q1+bon-sent-II-d4-a3-q2		articulus	yes	II. Sent. d. 4. a. 3.	
 bon-sent-III-d14-a2-q1	3	scholion		crossref	logical	Sent. d. 36. a. 3. q. 2.			dangling			
@@ -7923,7 +7924,7 @@ bon-sent-III-d14-a3-q2	3	apparatus:p321-5	p321-5	crossref	anaphor->logical	ibid.
 bon-sent-III-d14-a3-q2	3	apparatus:p321-6	p321-6	crossref	page	supra pag. 274, nota 4	bon-sent-III-d13-littera		chunk			fn-p274-4
 bon-sent-III-d14-a3-q2	3	apparatus:p321-8	p321-8	scripture	apparatus-explicit	Ioan. 1, 14	Ioan 1:14	A	verse			
 bon-sent-III-d14-a3-q2	3	apparatus:p321-9	p321-9	crossref	page	tom. II. pag. 119, nota 8	bon-sent-II-d3-p2-a2-q1		chunk			
-bon-sent-III-d14-a3-q2	3	apparatus:p322-3	p322-3	scripture	apparatus-explicit	Hebr. 5	Hebr 5	C	chapter			
+bon-sent-III-d14-a3-q2	3	apparatus:p322-3	p322-3	scripture	apparatus-explicit	Hebr. 5. 8	Hebr 5:8	A	verse			
 bon-sent-III-d14-a3-q2	3	apparatus:p323-1	p323-1	crossref	logical	II. Sent. d. 3. p. II. a. 2. q. 1.	bon-sent-II-d3-p2-a2-q1		chunk			
 bon-sent-III-d14-a3-q3	3	latin_body	p323-2	scripture	body-ordinal	Ad Philippenses secundo	Phil 2:9	B	verse			
 bon-sent-III-d14-a3-q3	3	latin_body	p325-3	scripture	body-ordinal	Ioannis quinto	Ioan 5:19	B	verse			
@@ -7966,8 +7967,8 @@ bon-sent-III-d15-a1-q1	3	latin_body	p331-8	scripture	body-ordinal	ad Corinthios 
 bon-sent-III-d15-a1-q1	3	scholion		crossref	relative	infra d. 16. a. 1. q. 4.			dangling			
 bon-sent-III-d15-a1-q1	3	scholion		crossref	page	supra pag. 328, nota 2	bon-sent-III-d15-littera		chunk			fn-p328-2
 bon-sent-III-d15-a1-q1	3	scholion		authority	authority:Scot.	III. Sent. d. 7. q. 3.			excluded			
-bon-sent-III-d15-a1-q1	3	scholion		authority	authority:Scot.	ibid.			excluded			
-bon-sent-III-d15-a1-q1	3	scholion		authority	anaphor->authority:Scot.	loc. cit.			excluded	yes	ibid.	
+bon-sent-III-d15-a1-q1	3	scholion		authority	authority:Scot.	ibid. q. 4			excluded			
+bon-sent-III-d15-a1-q1	3	scholion		authority	anaphor->authority:Scot.	loc. cit.			excluded	yes	ibid. q. 4	
 bon-sent-III-d15-a1-q1	3	scholion		authority	authority:Scot.	III. Sent. d. 21.			excluded			
 bon-sent-III-d15-a1-q1	3	apparatus:p330-3	p330-3	scripture	apparatus-explicit	Luc. 24, 26	Luc 24:26	A	verse			
 bon-sent-III-d15-a1-q1	3	apparatus:p330-4	p330-4	crossref	relative	infra d. 20. q. 2.	bon-sent-III-d20-a1-q2		chunk			
@@ -8041,7 +8042,7 @@ bon-sent-III-d15-a2-q3	3	apparatus:p339-12	p339-12	scripture	apparatus-explicit	
 bon-sent-III-d15-a2-q3	3	apparatus:p339-13	p339-13	scripture	anaphor->apparatus-explicit	ibid.	Matth 11:29	A	verse	yes	Matth. 11, 29	
 bon-sent-III-d15-a2-q3	3	apparatus:p340-4	p340-4	scripture	apparatus-explicit	Ioan. 11, 33	Ioan 11:33	A	verse			
 bon-sent-III-d15-a2-q3	3	apparatus:p340-6	p340-6	scripture	apparatus-explicit	Matth. 5, 22	Matth 5:22	A	verse			
-bon-sent-III-d15-dubia	3	latin_body	p341-9	scripture	body-ordinal	Ioannis quarto	Ioan 4:18	B	verse			
+bon-sent-III-d15-dubia	3	latin_body	p341-9	scripture	body-ordinal	Ioannis quarto	1Ioan 4:18	B	verse			
 bon-sent-III-d15-dubia	3	latin_body	p341-12	scripture	body-ordinal	Isaiae undecimo	Isai 11:3	B	verse			
 bon-sent-III-d15-dubia	3	apparatus:p341-5	p341-5	scripture	apparatus-explicit	Luc. 24, 39	Luc 24:39	A	verse			
 bon-sent-III-d15-dubia	3	apparatus:p341-5	p341-5	scripture	apparatus-explicit	Ioan. 20, 20	Ioan 20:20	A	verse			
@@ -8720,8 +8721,8 @@ bon-sent-III-d20-a1-q5	3	latin_body		crossref	relative	supra d. 13. a. 1. q. 2	b
 bon-sent-III-d20-a1-q5	3	latin_body		crossref	logical	III. Sent. d. 13.	III:d13		distinctio			
 bon-sent-III-d20-a1-q5	3	latin_body		crossref	anaphor->logical	loc. cit.	III:d13		distinctio	yes	III. Sent. d. 13.	
 bon-sent-III-d20-a1-q5	3	apparatus:p427-3	p427-3	crossref	anaphor->logical	loc. cit.	III:d13		distinctio	yes	III. Sent. d. 13.	
-bon-sent-III-d20-a1-q5	3	apparatus:p427-4	p427-4	scripture	apparatus-explicit	Ps. 21	Ps 21	C	chapter			
-bon-sent-III-d20-a1-q5	3	apparatus:p427-4	p427-4	scripture	anaphor->apparatus-explicit	loc. cit.	Ps 21	C	chapter	yes	Ps. 21	
+bon-sent-III-d20-a1-q5	3	apparatus:p427-4	p427-4	scripture	apparatus-explicit	Ps. 21. 7	Ps 21:7	A	verse			
+bon-sent-III-d20-a1-q5	3	apparatus:p427-4	p427-4	scripture	anaphor->apparatus-explicit	loc. cit.	Ps 21:7	A	verse	yes	Ps. 21. 7	
 bon-sent-III-d20-a1-q5	3	apparatus:p427-5	p427-5	scripture	apparatus-explicit	Rom. 8, 32	Rom 8:32	A	verse			
 bon-sent-III-d20-a1-q5	3	apparatus:p427-5	p427-5	scripture	apparatus-explicit	Ioan. 14, 31	Ioan 14:31	A	verse			
 bon-sent-III-d20-a1-q5	3	apparatus:p427-6	p427-6	scripture	apparatus-explicit	Isai. 53, 6	Isai 53:6	A	verse			
@@ -8815,7 +8816,7 @@ bon-sent-III-d21-a2-q1	3	apparatus:p443-5	p443-5	crossref	relative	supra d. 16. 
 bon-sent-III-d21-a2-q1	3	apparatus:p443-6	p443-6	scripture	apparatus-explicit	Ioan. 11, 4	Ioan 11:4	A	verse			
 bon-sent-III-d21-a2-q1	3	apparatus:p443-9	p443-9	crossref	relative	supra d. 18. a. 2. q. 3.	bon-sent-III-d18-a2-q3		chunk			
 bon-sent-III-d21-a2-q2	3	apparatus:p444-2	p444-2	scripture	apparatus-explicit	Psalm. 35, 10	Ps 35:10	A	verse			
-bon-sent-III-d21-a2-q2	3	apparatus:p444-4	p444-4	scripture	apparatus-explicit	Ps. 15	Ps 15	C	chapter			
+bon-sent-III-d21-a2-q2	3	apparatus:p444-4	p444-4	scripture	apparatus-explicit	Ps. 15. 10	Ps 15:10	A	verse			
 bon-sent-III-d21-a2-q2	3	apparatus:p445-1	p445-1	crossref	logical	II. Sent. d. 16. a. 1. q. 1.	bon-sent-II-d16-a1-q1		chunk			
 bon-sent-III-d21-a2-q3	3	latin_body	p446-6	scripture	body-ordinal	ad Corinthios primo	Cor* 1:23	B	verse			
 bon-sent-III-d21-a2-q3	3	apparatus:p445-10	p445-10	crossref	relative	supra d. 20. q. 3.	bon-sent-III-d20-a1-q3		chunk			
@@ -9207,7 +9208,7 @@ bon-sent-III-d24-a1-q3	3	apparatus:p517-1	p517-1	crossref	page	pag. 179, nota 1	
 bon-sent-III-d24-a1-q3	3	apparatus:p517-2	p517-2	crossref	relative	supra d. 14. a. 2. q. 2.	bon-sent-III-d14-a2-q2		chunk			
 bon-sent-III-d24-a1-q3	3	apparatus:p517-3	p517-3	crossref	page	tom. I. pag. 562, nota 10	bon-sent-I-d32-a2-q1		chunk			
 bon-sent-III-d24-a2-q1	3	latin_body	p517-7	scripture	body-ordinal	Ioannis vigesimo	Ioan 20:29	B	verse			
-bon-sent-III-d24-a2-q1	3	latin_body	p517-8	scripture	body-ordinal	Ioannis primo	Ioan 1:1	B	verse			
+bon-sent-III-d24-a2-q1	3	latin_body	p517-8	scripture	body-ordinal	Ioannis primo	1Ioan 1:1	B	verse			
 bon-sent-III-d24-a2-q1	3	latin_body	p518-1	scripture	body-ordinal	Ioannis decimo quarto	Ioan 14:2	B	verse			
 bon-sent-III-d24-a2-q1	3	scholion		scripture	anaphor->body-ordinal	ibid.	Ioan 20:29	B	verse	yes	Ioannis vigesimo	
 bon-sent-III-d24-a2-q1	3	scholion		scripture	apparatus-explicit	Rom. 12, 3	Rom 12:3	A	verse			
@@ -9431,7 +9432,7 @@ bon-sent-III-d25-littera	3	apparatus:p532-9	p532-9	scripture	apparatus-explicit	
 bon-sent-III-d25-littera	3	apparatus:p532-9	p532-9	scripture	apparatus-explicit	Rom. 10	Rom 10	C	chapter			
 bon-sent-III-d25-littera	3	apparatus:p533-1	p533-1	scripture	anaphor->apparatus-explicit	ibid.	Rom 10	C	chapter	yes	Rom. 10	
 bon-sent-III-d25-littera	3	apparatus:p533-1	p533-1	crossref	page	supra pag. 467, nota 2	bon-sent-III-d23-littera		chunk			fn-p467-2
-bon-sent-III-d25-littera	3	apparatus:p533-2	p533-2	scripture	apparatus-explicit	Cor. 13	Cor* 13	C	chapter			
+bon-sent-III-d25-littera	3	apparatus:p533-2	p533-2	scripture	apparatus-explicit	Cor. 13. 8	Cor* 13:8	A	verse			
 bon-sent-III-d25-littera	3	apparatus:p533-3	p533-3	scripture	apparatus-explicit	Tim. 1, 5	Tim* 1:5	A	verse			
 bon-sent-III-d26-a1-q1	3	latin_body	1	scripture	body-ordinal	Ad Romanos octavo	Rom 8:24	B	verse			
 bon-sent-III-d26-a1-q1	3	latin_body		scripture	body-ordinal	ad Hebraeos sexto	Hebr 6	C	chapter			
@@ -9527,7 +9528,7 @@ bon-sent-III-d26-a1-q5	3	apparatus:8	8	scripture	apparatus-explicit	Matth. 10, 2
 bon-sent-III-d26-a1-q5	3	apparatus:8	8	crossref	page	supra pag. 375, nota 1	bon-sent-III-d17-a2-q3+bon-sent-III-d17-dubia		page-multi			
 bon-sent-III-d26-a1-q5	3	apparatus:15	15	crossref	page	supra pag. 514, nota 3	bon-sent-III-d24-a1-q2+bon-sent-III-d24-a1-q3		page-multi			
 bon-sent-III-d26-a1-q5	3	apparatus:15	15	crossref	relative	supra d. 23. a. 1. q. 3.	bon-sent-III-d23-a1-q3		chunk			
-bon-sent-III-d26-a1-q5	3	apparatus:15	15	crossref	relative-inherited	ibid.	bon-sent-III-d23-a1-q3		chunk			
+bon-sent-III-d26-a1-q5	3	apparatus:15	15	crossref	relative-inherited	ibid. a. 2. q. 2	bon-sent-III-d23-a2-q2		chunk			
 bon-sent-III-d26-a1-q5	3	apparatus:17	17	crossref	relative	supra d. 23. a. 1. q. 2.	bon-sent-III-d23-a1-q2		chunk			
 bon-sent-III-d26-a1-q5	3	apparatus:20	20	scripture	apparatus-explicit	II. Cor. 1, 12	2Cor 1:12	A	verse			
 bon-sent-III-d26-a1-q5	3	apparatus:20	20	crossref	relative	supra d. 23. dub. 1.	bon-sent-III-d23-dubia		chunk			dub-1
@@ -9823,7 +9824,7 @@ bon-sent-III-d27-a2-q3	3	apparatus:7	7	crossref	page	supra pag. 114, nota 3	bon-
 bon-sent-III-d27-a2-q3	3	apparatus:11	11	crossref	page	supra pag. 573, nota 5	bon-sent-III-d26-a2-q2+bon-sent-III-d26-a2-q3		page-multi			
 bon-sent-III-d27-a2-q3	3	apparatus:15	15	crossref	relative	supra d. 9. a. 1. q. 2.	bon-sent-III-d9-a1-q2		chunk			
 bon-sent-III-d27-a2-q3	3	apparatus:16	16	crossref	logical	II. Sent. d. 40. a. 2. q. 1.	bon-sent-II-d40-a2-q1		chunk			
-bon-sent-III-d27-a2-q4	3	latin_body	1	scripture	body-ordinal	Ioannis quarto	Ioan 4:20	B	verse			
+bon-sent-III-d27-a2-q4	3	latin_body	1	scripture	body-ordinal	Ioannis quarto	1Ioan 4:20	B	verse			
 bon-sent-III-d27-a2-q4	3	latin_body	2	scripture	body-ordinal	ad Corinthios decimo quinto	Cor* 15:16	B	verse			
 bon-sent-III-d27-a2-q4	3	latin_body	5	scripture	body-ordinal	Matthaei vigesimo secundo	Matth 22:37	B	verse			
 bon-sent-III-d27-a2-q4	3	latin_body		scripture	body-ordinal	Ioannis vigesimo	Ioan 20	C	chapter			
@@ -9870,7 +9871,7 @@ bon-sent-III-d27-dubia	3	latin_body	p615-9	scripture	body-ordinal	ad Timotheum p
 bon-sent-III-d27-dubia	3	latin_body	p616-2	scripture	body-ordinal	Actuum decimo quinto	Act 15:9	B	verse			
 bon-sent-III-d27-dubia	3	latin_body	p617-10	scripture	body-ordinal	ad Romanos decimo tertio	Rom 13:8	B	verse			
 bon-sent-III-d27-dubia	3	latin_body		scripture	anaphor->body-ordinal	ibid	Rom 13:8	B	verse	yes	ad Romanos decimo tertio	
-bon-sent-III-d27-dubia	3	latin_body	p618-9	scripture	body-ordinal	Ioannis tertio	Ioan 3:18	B	verse			
+bon-sent-III-d27-dubia	3	latin_body	p618-9	scripture	body-ordinal	Ioannis tertio	1Ioan 3:18	B	verse			
 bon-sent-III-d27-dubia	3	latin_body	p618-10	scripture	body-ordinal	Deuteronomii sexto	Deut 6:5	B	verse			
 bon-sent-III-d27-dubia	3	latin_body	p618-11	scripture	body-ordinal	Marci duodecimo	Marc 12:30	B	verse			
 bon-sent-III-d27-dubia	3	latin_body	p618-12	scripture	body-ordinal	Lucae decimo	Luc 10:27	B	verse			
@@ -9981,7 +9982,7 @@ bon-sent-III-d28-a1-q5	3	apparatus:9	9	crossref	page	tom. II. pag. 361, nota 3	b
 bon-sent-III-d28-a1-q5	3	apparatus:13	13	crossref	logical	I. Sent. d. 17. p. I. q. 2	bon-sent-I-d17-p1-a1-q2		chunk			
 bon-sent-III-d28-a1-q5	3	apparatus:14	14	crossref	page	tom. I. pag. 34, nota 4	bon-sent-I-d1-a1-q3		chunk			
 bon-sent-III-d28-a1-q5	3	apparatus:14	14	crossref	page	pag. 40, nota 5	bon-sent-I-d1-a3-q2		chunk			
-bon-sent-III-d28-a1-q5	3	apparatus:17	17	scripture	apparatus-explicit	Sap. 6	Sap 6	C	chapter			
+bon-sent-III-d28-a1-q5	3	apparatus:17	17	scripture	apparatus-explicit	Sap. 6. 21	Sap 6:21	A	verse			
 bon-sent-III-d28-a1-q5	3	apparatus:17	17	scripture	apparatus-explicit	Eccli. 6, 37	Eccli 6:37	A	verse			
 bon-sent-III-d28-a1-q5	3	apparatus:17	17	scripture	apparatus-explicit	Act. 5, 1	Act 5:1	A	verse			
 bon-sent-III-d28-a1-q5	3	apparatus:17	17	scripture	apparatus-explicit	I. Tim. 6, 9	1Tim 6:9	A	verse			
@@ -10084,7 +10085,7 @@ bon-sent-III-d29-a1-q5	3	scholion		scripture	anaphor->body-ordinal	ibid.	Col 3:1
 bon-sent-III-d29-a1-q5	3	apparatus:2	2	scripture	apparatus-explicit	I. Tim. 5, 8	1Tim 5:8	A	verse			
 bon-sent-III-d29-a1-q5	3	apparatus:6	6	scripture	apparatus-explicit	Eph. 4, 23	Eph 4:23	A	verse			
 bon-sent-III-d29-a1-q5	3	apparatus:6	6	scripture	apparatus-explicit	Gal. 3, 28	Gal 3:28	A	verse			
-bon-sent-III-d29-a1-q6	3	latin_body	1	scripture	body-ordinal	Ioannis tertio	Ioan 3:18	B	verse			
+bon-sent-III-d29-a1-q6	3	latin_body	1	scripture	body-ordinal	Ioannis tertio	1Ioan 3:18	B	verse			
 bon-sent-III-d29-a1-q6	3	apparatus:1	1	crossref	page	supra pag. 637, nota 5	bon-sent-III-d29-divisio+bon-sent-III-d29-littera		page-multi			
 bon-sent-III-d29-a1-q6	3	apparatus:3	3	scripture	apparatus-explicit	Gal. 6, 10	Gal 6:10	A	verse			
 bon-sent-III-d29-a1-q6	3	apparatus:4	4	crossref	page	tom. II. pag. 906, nota 6	bon-sent-II-d39-a1-q3		chunk			
@@ -10293,7 +10294,7 @@ bon-sent-III-d30-a1-q1	3	apparatus:24	24	crossref	logical	II. Sent. d. 25. p. II
 bon-sent-III-d30-a1-q1	3	apparatus:26	26	crossref	logical	II. Sent. d. 26. q. 4.	bon-sent-II-d26-a1-q4		chunk			
 bon-sent-III-d30-a1-q1	3	apparatus:27	27	crossref	page	supra pag. 499, nota 2	bon-sent-III-d23-a2-q5		chunk			fn-p499-2
 bon-sent-III-d30-a1-q2	3	latin_body	1	scripture	body-ordinal	Lucae nono	Luc 9:26	B	verse			
-bon-sent-III-d30-a1-q2	3	latin_body	2	scripture	body-ordinal	Ioannis tertio	Ioan 3:16	B	verse			
+bon-sent-III-d30-a1-q2	3	latin_body	2	scripture	body-ordinal	Ioannis tertio	1Ioan 3:16	B	verse			
 bon-sent-III-d30-a1-q2	3	latin_body	4	scripture	body-ordinal	Ioannis decimo quinto	Ioan 15:13	B	verse			
 bon-sent-III-d30-a1-q2	3	latin_body	5	scripture	body-ordinal	ad Romanos sexto	Rom 6:19	B	verse			
 bon-sent-III-d30-a1-q2	3	latin_body		scripture	body-ordinal	Ioannis decimo	Ioan 10	C	chapter			
@@ -10307,7 +10308,7 @@ bon-sent-III-d30-a1-q3	3	latin_body	8	scripture	body-ordinal	Iacobi tertio	Iac 3
 bon-sent-III-d30-a1-q3	3	latin_body	2a	scripture	body-ordinal	Matthaei decimo nono	Matth 19:21	B	verse			
 bon-sent-III-d30-a1-q3	3	latin_body	3a	scripture	body-ordinal	Lucae sexto	Luc 6:40	B	verse			
 bon-sent-III-d30-a1-q3	3	latin_body	4a	scripture	body-ordinal	Genesis sexto	Gen 6:9	B	verse			
-bon-sent-III-d30-a1-q3	3	latin_body	5a	scripture	body-ordinal	Ioannis quarto	Ioan 4:18	B	verse			
+bon-sent-III-d30-a1-q3	3	latin_body	5a	scripture	body-ordinal	Ioannis quarto	1Ioan 4:18	B	verse			
 bon-sent-III-d30-a1-q3	3	latin_body	8a	scripture	body-ordinal	Matthaei duodecimo	Matth 12:36	B	verse			
 bon-sent-III-d30-a1-q3	3	apparatus:8	8	scripture	anaphor->body-ordinal	ibid.	Matth 12:36	B	verse	yes	Matthaei duodecimo	
 bon-sent-III-d30-a1-q3	3	apparatus:9	9	scripture	apparatus-explicit	II. Cor. 3, 17	2Cor 3:17	A	verse			
@@ -10491,7 +10492,7 @@ bon-sent-III-d31-a2-q3	3	apparatus:10	10	scripture	apparatus-explicit	I. Tim. 6,
 bon-sent-III-d31-a2-q3	3	apparatus:14	14	crossref	page	supra pag. 686, nota 5	bon-sent-III-d31-a2-q3		chunk			
 bon-sent-III-d31-a2-q3	3	apparatus:18	18	crossref	relative	infra d. 34. p. I. a. 1. q. 3.	bon-sent-III-d34-p1-a1-q3		chunk			
 bon-sent-III-d31-a3-q1	3	latin_body	1	scripture	body-ordinal	ad Corinthios decimo tertio	Cor* 13:8	B	verse			
-bon-sent-III-d31-a3-q1	3	latin_body		scripture	body-ordinal	Ioannis tertio	Ioan 3	C	chapter			
+bon-sent-III-d31-a3-q1	3	latin_body		scripture	body-ordinal	Ioannis tertio	1Ioan 3	C	chapter			
 bon-sent-III-d31-a3-q1	3	latin_body	5	scripture	body-ordinal	ad Corinthios decimo tertio	Cor* 13:10	B	verse			
 bon-sent-III-d31-a3-q1	3	scholion		crossref	logical	II. Sent. d. 25. p. I. q. 6	bon-sent-II-d25-p1-a1-q6		chunk			
 bon-sent-III-d31-a3-q1	3	scholion		crossref	relative-inherited	ibid	bon-sent-II-d25-p1-a1-q6		chunk			
@@ -10888,7 +10889,7 @@ bon-sent-III-d34-p1-a2-q3	3	apparatus:16	16	crossref	logical	II. Sent. d. 29. a.
 bon-sent-III-d34-p1-a2-q3	3	apparatus:18	18	crossref	page	supra pag. 742, nota 5	bon-sent-III-d34-p1-a1-q3		chunk			
 bon-sent-III-d34-p1-a2-q3	3	apparatus:19	19	crossref	relative	infra d. 35. q. 1.	bon-sent-III-d35-a1-q1		chunk			
 bon-sent-III-d34-p1-a2-q3	3	apparatus:20	20	crossref	anaphor->relative	ibid.	bon-sent-III-d35-a1-q1		chunk	yes	infra d. 35. q. 1.	
-bon-sent-III-d34-p1-dubia	3	latin_body	12	scripture	body-ordinal	Ioannis quarto	Ioan 4:18	B	verse			
+bon-sent-III-d34-p1-dubia	3	latin_body	12	scripture	body-ordinal	Ioannis quarto	1Ioan 4:18	B	verse			
 bon-sent-III-d34-p1-dubia	3	apparatus:2	2	crossref	relative-bare	ibid. 57, 15			unresolvable			
 bon-sent-III-d34-p1-dubia	3	apparatus:5	5	crossref	logical	I. Sent. d. 34. q. 3.	bon-sent-I-d34-a1-q3		chunk			
 bon-sent-III-d34-p1-dubia	3	apparatus:8	8	crossref	page	supra pag. 722, nota 8	bon-sent-III-d33-a1-q5		chunk			
@@ -11303,7 +11304,7 @@ bon-sent-III-d37-a1-q3	3	apparatus:20	20	crossref	chain-continuation	d. 34. p. I
 bon-sent-III-d37-a1-q3	3	apparatus:20	20	scripture	apparatus-explicit	I. Cor. 15, 28	1Cor 15:28	A	verse			
 bon-sent-III-d37-a2-q1	3	latin_body	1	scripture	body-ordinal	ad Romanos decimo tertio	Rom 13:8	B	verse			
 bon-sent-III-d37-a2-q1	3	latin_body	2	scripture	body-ordinal	ad Romanos septimo	Rom 7:7	B	verse			
-bon-sent-III-d37-a2-q1	3	latin_body	7	scripture	body-ordinal	Ioannis secundo	Ioan 2:16	B	verse			
+bon-sent-III-d37-a2-q1	3	latin_body	7	scripture	body-ordinal	Ioannis secundo	1Ioan 2:16	B	verse			
 bon-sent-III-d37-a2-q1	3	scholion		scripture	apparatus-explicit	Exod. 34, 28	Exod 34:28	A	verse			
 bon-sent-III-d37-a2-q1	3	scholion		scripture	apparatus-explicit	Deut. 4, 13	Deut 4:13	A	verse			
 bon-sent-III-d37-a2-q1	3	scholion		scripture	anaphor->apparatus-explicit	loc. cit.	Deut 4:13	A	verse	yes	Deut. 4, 13	
@@ -11780,7 +11781,7 @@ bon-sent-III-d40-a1-q3	3	apparatus:16	16	scripture	apparatus-explicit	Levit. 5, 
 bon-sent-III-d40-a1-q3	3	apparatus:18	18	crossref	logical	II. Sent. d. 28. a. 1. q. 3.	bon-sent-II-d28-a1-q3		chunk			
 bon-sent-III-d40-a1-q3	3	apparatus:20	20	scripture	apparatus-explicit	Eccle. 1, 18	Eccle 1:18	A	verse			
 bon-sent-III-d40-a1-q3	3	apparatus:20	20	scripture	apparatus-explicit	Eccle. 1, 8	Eccle 1:8	A	verse			
-bon-sent-III-d40-dubia	3	latin_body	37	scripture	body-ordinal	Ioannis quinto	Ioan 5	C	chapter			
+bon-sent-III-d40-dubia	3	latin_body	37	scripture	body-ordinal	Ioannis quinto	1Ioan 5	C	chapter			
 bon-sent-III-d40-dubia	3	apparatus:1	1	crossref	page	supra pag. 815, nota 6	bon-sent-III-d37-a1-q1+bon-sent-III-d37-a1-q2		page-multi			
 bon-sent-III-d40-dubia	3	apparatus:1	1	scripture	apparatus-explicit	Gen. 8, 21	Gen 8:21	A	verse			
 bon-sent-III-d40-dubia	3	apparatus:1	1	scripture	apparatus-explicit	Rom. 7, 18	Rom 7:18	A	verse			
@@ -12129,7 +12130,7 @@ bon-sent-III-d9-a1-q5	3	apparatus:1	1	scripture	anaphor->body-ordinal	ibid.	Cor*
 bon-sent-III-d9-a1-q5	3	apparatus:4	4	scripture	apparatus-explicit	Psalm. 5, 8	Ps 5:8	A	verse			
 bon-sent-III-d9-a1-q5	3	apparatus:4	4	scripture	anaphor->apparatus-explicit	loc. cit.	Ps 5:8	A	verse	yes	Psalm. 5, 8	
 bon-sent-III-d9-a1-q5	3	apparatus:4	4	crossref	relative-bare	ibid. 6, 19			unresolvable			
-bon-sent-III-d9-a1-q5	3	apparatus:4	4	scripture	apparatus-explicit	II. Cor. 6	2Cor 6	C	chapter			
+bon-sent-III-d9-a1-q5	3	apparatus:4	4	scripture	apparatus-explicit	II. Cor. 6. 16	2Cor 6:16	A	verse			
 bon-sent-III-d9-a1-q5	3	apparatus:6	6	crossref	relative	infra d. 13. a. 2.	bon-sent-III-d13-a2-q1+bon-sent-III-d13-a2-q2+bon-sent-III-d13-a2-q3		articulus			
 bon-sent-III-d9-a1-q5	3	apparatus:7	7	crossref	page	supra pag. 202, nota 2	bon-sent-III-d9-a1-q1+bon-sent-III-d9-a1-q2		page-multi			
 bon-sent-III-d9-a1-q5	3	apparatus:9	9	scripture	apparatus-explicit	I. Ioan. 1, 3	1Ioan 1:3	A	verse			
@@ -13218,7 +13219,7 @@ bon-sent-IV-d14-p2-a1-q1	4	latin_body	2	scripture	body-ordinal	Ioannis quinto	Io
 bon-sent-IV-d14-p2-a1-q1	4	scholion		crossref	logical	III. Sent. d. 31. a. 1. q. 1	bon-sent-III-d31-a1-q1		chunk			
 bon-sent-IV-d14-p2-a1-q1	4	scholion		authority	authority:Richard. a Med.	III. Sent. d. 31. a. 1. q. 1.			excluded			
 bon-sent-IV-d14-p2-a1-q1	4	scholion		authority	anaphor->authority:Richard. a Med.	loc. cit.			excluded	yes	III. Sent. d. 31. a. 1. q. 1.	
-bon-sent-IV-d14-p2-a1-q1	4	apparatus:1	1	scripture	apparatus-explicit	II. Reg. 12	2Reg 12	C	chapter			
+bon-sent-IV-d14-p2-a1-q1	4	apparatus:1	1	scripture	apparatus-explicit	II. Reg. 12. 13	2Reg 12:13	A	verse			
 bon-sent-IV-d14-p2-a1-q1	4	apparatus:3	3	crossref	logical	II. Sent. d. 25. p. II. q. 4.	bon-sent-II-d25-p2-a1-q4		chunk			
 bon-sent-IV-d14-p2-a1-q1	4	apparatus:4	4	crossref	relative	supra d. 4. p. I. a. 1. q. 1.	bon-sent-IV-d4-p1-a1-q1		chunk			
 bon-sent-IV-d14-p2-a1-q1	4	apparatus:4	4	crossref	chain-continuation	d. 7. a. 2. q. 2.	bon-sent-IV-d7-a2-q2		chunk			
@@ -13327,7 +13328,7 @@ bon-sent-IV-d14-p2-dubia	4	apparatus:41	41	scripture	apparatus-explicit	Luc. 7, 
 bon-sent-IV-d14-p2-dubia	4	apparatus:41	41	scripture	apparatus-explicit	Ioan. 11, 38	Ioan 11:38	A	verse			
 bon-sent-IV-d14-p2-dubia	4	apparatus:42	42	scripture	apparatus-explicit	Psalm. 73, 23	Ps 73:23	A	verse			
 bon-sent-IV-d14-p2-dubia	4	apparatus:43	43	crossref	logical	II. Sent. d. 34. a. 2. q. 1.	bon-sent-II-d34-a2-q1		chunk			
-bon-sent-IV-d14-p2-dubia	4	apparatus:43	43	crossref	relative-inherited	ibid.	bon-sent-II-d34-a2-q1		chunk			
+bon-sent-IV-d14-p2-dubia	4	apparatus:43	43	crossref	relative-inherited	ibid. a. 1. q. 1	bon-sent-II-d34-a1-q1		chunk			
 bon-sent-IV-d14-p2-dubia	4	apparatus:44	44	crossref	logical	II. Sent. d. 43. a. 2. q. 1.	bon-sent-II-d43-a2-q1		chunk			
 bon-sent-IV-d14-p2-dubia	4	apparatus:45	45	scripture	apparatus-explicit	I. Reg. 11, 8	1Reg 11:8	A	verse			
 bon-sent-IV-d14-p2-dubia	4	apparatus:46	46	scripture	apparatus-explicit	II. Reg. 24, 1	2Reg 24:1	A	verse			
@@ -13543,7 +13544,7 @@ bon-sent-IV-d15-p2-a1-q4	4	latin_body	2b	scripture	body-ordinal	ad Timotheum qua
 bon-sent-IV-d15-p2-a1-q4	4	latin_body	4b	scripture	body-ordinal	ad Thessalonicenses quinto	Thess* 5:17	B	verse			
 bon-sent-IV-d15-p2-a1-q4	4	latin_body	6b	scripture	body-ordinal	Isaiae quinquagesimo octavo	Isai 58:6	B	verse			
 bon-sent-IV-d15-p2-a1-q4	4	latin_body	8b	scripture	body-ordinal	Ecclesiastici trigesimo	Eccli 30:24	B	verse			
-bon-sent-IV-d15-p2-a1-q4	4	latin_body	9b	scripture	body-ordinal	Ioannis secundo	Ioan 2:16	B	verse			
+bon-sent-IV-d15-p2-a1-q4	4	latin_body	9b	scripture	body-ordinal	Ioannis secundo	1Ioan 2:16	B	verse			
 bon-sent-IV-d15-p2-a1-q4	4	latin_body	10b	scripture	body-ordinal	ad Titum secundo	Tit 2:12	B	verse			
 bon-sent-IV-d15-p2-a1-q4	4	latin_body	12b	scripture	body-ordinal	Tobiae duodecimo	Tob 12:8	B	verse			
 bon-sent-IV-d15-p2-a1-q4	4	apparatus:2	2	scripture	apparatus-explicit	II. Cor. 7, 1	2Cor 7:1	A	verse			
@@ -13586,7 +13587,7 @@ bon-sent-IV-d15-p2-a2-q2	4	latin_body		scripture	body-ordinal	Ecclesiastici vige
 bon-sent-IV-d15-p2-a2-q2	4	latin_body		scripture	body-ordinal	Ezechielis quarto	Ezech 4	C	chapter			
 bon-sent-IV-d15-p2-a2-q2	4	latin_body		scripture	body-ordinal	ad Corinthios quarto	Cor* 4	C	chapter			
 bon-sent-IV-d15-p2-a2-q2	4	apparatus:1	1	scripture	anaphor->body-ordinal	ibid.	Cor* 4	C	chapter	yes	ad Corinthios quarto	
-bon-sent-IV-d15-p2-a2-q2	4	apparatus:6	6	scripture	apparatus-explicit	Matth. 5	Matth 5	C	chapter			
+bon-sent-IV-d15-p2-a2-q2	4	apparatus:6	6	scripture	apparatus-explicit	Matth. 5. 44	Matth 5:44	A	verse			
 bon-sent-IV-d15-p2-a2-q2	4	apparatus:7	7	crossref	page	supra pag. 14, nota 3	bon-sent-IV-d1-p1-a1-q2		chunk			
 bon-sent-IV-d15-p2-a2-q2	4	apparatus:8	8	scripture	apparatus-explicit	Isai. 61, 8	Isai 61:8	A	verse			
 bon-sent-IV-d15-p2-a2-q2	4	apparatus:10	10	scripture	apparatus-explicit	Marc. 9, 28	Marc 9:28	A	verse			
@@ -14115,7 +14116,7 @@ bon-sent-IV-d17-p2-a1-q3	4	apparatus:10	10	crossref	anaphor->page	loc. cit.	bon-
 bon-sent-IV-d17-p2-a1-q3	4	apparatus:11	11	scripture	apparatus-explicit	Iac. 5, 16	Iac 5:16	A	verse			
 bon-sent-IV-d17-p2-a1-q3	4	apparatus:11	11	scripture	anaphor->apparatus-explicit	loc. cit.	Iac 5:16	A	verse	yes	Iac. 5, 16	
 bon-sent-IV-d17-p2-a1-q3	4	apparatus:12	12	scripture	anaphor->apparatus-explicit	loc. cit.	Iac 5:16	A	verse	yes	Iac. 5, 16	
-bon-sent-IV-d17-p2-a2-q1	4	latin_body	2	scripture	body-ordinal	Ioannis primo	Ioan 1:8	B	verse			
+bon-sent-IV-d17-p2-a2-q1	4	latin_body	2	scripture	body-ordinal	Ioannis primo	1Ioan 1:8	B	verse			
 bon-sent-IV-d17-p2-a2-q1	4	latin_body	7	scripture	body-ordinal	Iacobi quinto	Iac 5:16	B	verse			
 bon-sent-IV-d17-p2-a2-q1	4	latin_body		scripture	body-ordinal	Ecclesiastici septimo	Eccli 7	C	chapter			
 bon-sent-IV-d17-p2-a2-q1	4	scholion		crossref	relative	supra d. 16. a. 12.			dangling			
@@ -14384,6 +14385,7 @@ bon-sent-IV-d18-p2-a1-q6	4	apparatus:11	11	scripture	anaphor->apparatus-explicit
 bon-sent-IV-d18-p2-a1-q6	4	apparatus:11	11	scripture	anaphor->apparatus-explicit	ibid.	Luc 11:13	A	verse	yes	Luc. 11, 13	
 bon-sent-IV-d18-p2-dubia	4	latin_body	9	scripture	body-ordinal	Lucae decimo sexto	Luc 16:8	B	verse			
 bon-sent-IV-d18-p2-dubia	4	apparatus:1	1	crossref	logical	II. Sent. d. 25. p. II. q. 3.	bon-sent-II-d25-p2-a1-q3		chunk			
+bon-sent-IV-d18-p2-dubia	4	apparatus:1	1	crossref	relative-inherited	ibid. q. 1	bon-sent-II-d25-p2-a1-q1		chunk			
 bon-sent-IV-d18-p2-dubia	4	apparatus:1	1	crossref	relative-inherited	ibid.	bon-sent-II-d25-p2-a1-q3		chunk			
 bon-sent-IV-d18-p2-dubia	4	apparatus:6	6	crossref	anaphor->relative-inherited	ibid.	bon-sent-II-d25-p2-a1-q3		chunk	yes	ibid.	
 bon-sent-IV-d18-p2-dubia	4	apparatus:8	8	crossref	anaphor->relative-inherited	ibid.	bon-sent-II-d25-p2-a1-q3		chunk	yes	ibid.	
@@ -14768,7 +14770,7 @@ bon-sent-IV-d21-p1-a1-q2	4	apparatus:9	9	crossref	logical	II. Sent. d. 40. a. 2.
 bon-sent-IV-d21-p1-a1-q2	4	apparatus:9	9	crossref	relative	supra d. 12. p. II. dub. 4.	bon-sent-IV-d12-p2-dubia		chunk			dub-4
 bon-sent-IV-d21-p1-a1-q2	4	apparatus:12	12	crossref	relative	supra d. 16. p. I. a. 4. q. 2.	bon-sent-IV-d16-p1-a4-q2		chunk			
 bon-sent-IV-d21-p1-a2-q1	4	latin_body	1	scripture	body-ordinal	Matthaei duodecimo	Matth 12:32	B	verse			
-bon-sent-IV-d21-p1-a2-q1	4	latin_body	5	scripture	body-ordinal	Ioannis quinto	Ioan 5:16	B	verse			
+bon-sent-IV-d21-p1-a2-q1	4	latin_body	5	scripture	body-ordinal	Ioannis quinto	1Ioan 5:16	B	verse			
 bon-sent-IV-d21-p1-a2-q1	4	latin_body	4b	scripture	body-ordinal	Matthaei tertio	Matth 3	C	chapter			
 bon-sent-IV-d21-p1-a2-q1	4	scholion		crossref	relative	infra d. 44. p. II. a. 2.	bon-sent-IV-d44-p2-a2-q1+bon-sent-IV-d44-p2-a2-q2		articulus			
 bon-sent-IV-d21-p1-a2-q1	4	scholion		crossref	anaphor->relative	loc. cit.	bon-sent-IV-d44-p2-a2-q1+bon-sent-IV-d44-p2-a2-q2		articulus	yes	infra d. 44. p. II. a. 2.	
@@ -15677,7 +15679,7 @@ bon-sent-IV-d29-a1-q1	4	apparatus:8	8	scripture	apparatus-explicit	I. Cor. 7, 4	
 bon-sent-IV-d29-a1-q1	4	apparatus:9	9	scripture	anaphor->apparatus-explicit	ibid.	1Cor 7:4	A	verse	yes	I. Cor. 7, 4	
 bon-sent-IV-d29-a1-q1	4	apparatus:10	10	scripture	apparatus-explicit	I. Cor. 7, 39	1Cor 7:39	A	verse			
 bon-sent-IV-d29-a1-q1	4	apparatus:16	16	crossref	relative	supra d. 4. p. I. a. 2. q. 1.	bon-sent-IV-d4-p1-a2-q1		chunk			
-bon-sent-IV-d29-a1-q1	4	apparatus:16	16	crossref	relative-inherited	ibid.	bon-sent-IV-d4-p1-a2-q1		chunk			
+bon-sent-IV-d29-a1-q1	4	apparatus:16	16	crossref	relative-inherited	ibid. q. 3	bon-sent-IV-d4-p1-a2-q3		chunk			
 bon-sent-IV-d29-a1-q1	4	apparatus:17	17	crossref	page	supra pag. 19, nota 7	bon-sent-IV-d1-p1-a1-q4		chunk			
 bon-sent-IV-d29-a1-q1	4	apparatus:18	18	crossref	anaphor->page	ibid.	bon-sent-IV-d1-p1-a1-q4		chunk	yes	supra pag. 19, nota 7	
 bon-sent-IV-d29-a1-q2	4	latin_body	2	scripture	body-ordinal	ad Colossenses tertio	Col 3:14	B	verse			
@@ -16775,7 +16777,7 @@ bon-sent-IV-d4-p2-a1-q2	4	latin_body	4b	scripture	body-ordinal	Apocalypsis septi
 bon-sent-IV-d4-p2-a1-q2	4	apparatus:2	2	crossref	logical	III. Sent. d. 20. q. 4.	bon-sent-III-d20-a1-q4		chunk			
 bon-sent-IV-d4-p2-a1-q2	4	apparatus:3	3	crossref	relative	infra d. 23. a. 2. q. 3.	bon-sent-IV-d23-a2-q3		chunk			
 bon-sent-IV-d4-p2-a1-q2	4	apparatus:7	7	crossref	page	tom. II. pag. 330, nota 5	bon-sent-II-d13-a3-q2+bon-sent-II-d13-dubia		page-multi			
-bon-sent-IV-d4-p2-a1-q2	4	apparatus:1b	1b	scripture	apparatus-explicit	I. Cor. 13	1Cor 13	C	chapter			
+bon-sent-IV-d4-p2-a1-q2	4	apparatus:1b	1b	scripture	apparatus-explicit	I. Cor. 13. 3	1Cor 13:3	A	verse			
 bon-sent-IV-d4-p2-a1-q3	4	latin_body	6	scripture	body-ordinal	ad Romanos quinto	Rom 5:14	B	verse			
 bon-sent-IV-d4-p2-a1-q3	4	latin_body	12	scripture	body-ordinal	Matthaei vigesimo sexto	Matth 26:28	B	verse			
 bon-sent-IV-d4-p2-a1-q3	4	latin_body	14	scripture	body-ordinal	Lucae duodecimo	Luc 12:50	B	verse			
@@ -16835,7 +16837,7 @@ bon-sent-IV-d4-p2-a2-q2	4	apparatus:16	16	crossref	relative	infra d. 50. p. II. 
 bon-sent-IV-d4-p2-a2-q3	4	apparatus:5	5	crossref	logical	II. Sent. d. 33. a. 2.	bon-sent-II-d33-a2-q1+bon-sent-II-d33-a2-q2		articulus			
 bon-sent-IV-d4-p2-a2-q3	4	apparatus:6	6	crossref	logical	II. Sent. d. 33. a. 2.	bon-sent-II-d33-a2-q1+bon-sent-II-d33-a2-q2		articulus			
 bon-sent-IV-d4-p2-a2-q3	4	apparatus:7	7	scripture	apparatus-explicit	Matth. 25, 15	Matth 25:15	A	verse			
-bon-sent-IV-d4-p2-a2-q3	4	apparatus:8	8	scripture	apparatus-explicit	Rom. 9	Rom 9	C	chapter			
+bon-sent-IV-d4-p2-a2-q3	4	apparatus:8	8	scripture	apparatus-explicit	Rom. 9. 13	Rom 9:13	A	verse			
 bon-sent-IV-d4-p2-a2-q3	4	apparatus:9	9	crossref	logical	II. Sent. d. 9. q. 3.	bon-sent-II-d9-a1-q3		chunk			
 bon-sent-IV-d4-p2-a2-q3	4	apparatus:10	10	crossref	page	supra pag. 14, nota 5	bon-sent-IV-d1-p1-a1-q2		chunk			
 bon-sent-IV-d4-p2-a2-q3	4	apparatus:1bis	1bis	crossref	logical	II. Sent. d. 9. q. 3.	bon-sent-II-d9-a1-q3		chunk			
@@ -18276,7 +18278,7 @@ bon-sent-IV-d6-p1-a1-q4	4	apparatus:5	5	crossref	anaphor->relative	ibid.	bon-sen
 bon-sent-IV-d6-p1-a1-q4	4	apparatus:6	6	crossref	page	tom. II. pag. 26, nota 5	bon-sent-II-d1-p1-a2-q1		chunk			
 bon-sent-IV-d6-p1-a1-q4	4	apparatus:8	8	scripture	apparatus-explicit	Exod. 11, 7	Exod 11:7	A	verse			
 bon-sent-IV-d6-p1-a1-q4	4	apparatus:8	8	scripture	apparatus-explicit	Num. 1, 3	Num 1:3	A	verse			
-bon-sent-IV-d6-p1-a1-q4	4	apparatus:8	8	scripture	apparatus-explicit	Deut. 20	Deut 20	C	chapter			
+bon-sent-IV-d6-p1-a1-q4	4	apparatus:8	8	scripture	apparatus-explicit	Deut. 20. 8	Deut 20:8	A	verse			
 bon-sent-IV-d6-p1-a1-q4	4	apparatus:8	8	scripture	apparatus-explicit	Exod. 18, 1	Exod 18:1	A	verse			
 bon-sent-IV-d6-p1-a1-q4	4	apparatus:8	8	scripture	apparatus-explicit	Num. 1, 49	Num 1:49	A	verse			
 bon-sent-IV-d6-p1-a1-q4	4	apparatus:9	9	scripture	apparatus-explicit	Ps. 77, 70	Ps 77:70	A	verse			
@@ -18371,7 +18373,7 @@ bon-sent-IV-d6-p2-a2-q1	4	apparatus:1p153	1p153	crossref	anaphor->relative	ibid.
 bon-sent-IV-d6-p2-a2-q1	4	apparatus:2p153	2p153	crossref	relative	supra d. 3. p. 1. a. 2. q. 1.	bon-sent-IV-d3-p1-a2-q1		chunk			
 bon-sent-IV-d6-p2-a2-q1	4	apparatus:3p153	3p153	crossref	logical	I. Sent. d. 43. a. 2. q. 2.			dangling			
 bon-sent-IV-d6-p2-a2-q1	4	apparatus:5p153	5p153	crossref	relative	supra d. 4. p. 1. a. 2. q. 2.	bon-sent-IV-d4-p1-a2-q2		chunk			
-bon-sent-IV-d6-p2-a2-q1	4	apparatus:5p153	5p153	crossref	relative-inherited	ibid.	bon-sent-IV-d4-p1-a2-q2		chunk			
+bon-sent-IV-d6-p2-a2-q1	4	apparatus:5p153	5p153	crossref	relative-inherited	ibid. q. 1	bon-sent-IV-d4-p1-a2-q1		chunk			
 bon-sent-IV-d6-p2-a2-q1	4	apparatus:7p153	7p153	crossref	page	tom. III. pag. 874, nota 4	bon-sent-III-d39-a2-q3+bon-sent-III-d39-a3-q1		page-multi			
 bon-sent-IV-d6-p2-a2-q1	4	apparatus:8p153	8p153	crossref	relative	infra d. 27. dub. 2.	bon-sent-IV-d27-dubia		chunk			dub-2
 bon-sent-IV-d6-p2-a2-q1	4	apparatus:1p154	1p154	crossref	page	tom. III. pag. 874, nota 8	bon-sent-III-d39-a2-q3+bon-sent-III-d39-a3-q1		page-multi			
@@ -18634,8 +18636,8 @@ bon-sent-IV-d9-a1-q1	4	latin_body		authority	authority:Scot.	IV. Sent. d. 8. q. 
 bon-sent-IV-d9-a1-q1	4	latin_body		authority	anaphor->authority:Scot.	loc. cit.			excluded	yes	IV. Sent. d. 8. q. 3.	
 bon-sent-IV-d9-a1-q1	4	apparatus:1	1	crossref	relative	infra d. 28. q. 4.	bon-sent-IV-d28-a1-q4		chunk			
 bon-sent-IV-d9-a1-q1	4	apparatus:1	1	crossref	logical	III. Sent. d. 27. a. 2. q. 3.	bon-sent-III-d27-a2-q3		chunk			
-bon-sent-IV-d9-a1-q1	4	apparatus:3	3	scripture	apparatus-explicit	Cor. 11	Cor* 11	C	chapter			
-bon-sent-IV-d9-a1-q1	4	apparatus:5	5	scripture	anaphor->apparatus-explicit	ibid.	Cor* 11	C	chapter	yes	Cor. 11	
+bon-sent-IV-d9-a1-q1	4	apparatus:3	3	scripture	apparatus-explicit	Cor. 11. 29	Cor* 11:29	A	verse			
+bon-sent-IV-d9-a1-q1	4	apparatus:5	5	scripture	anaphor->apparatus-explicit	ibid.	Cor* 11:29	A	verse	yes	Cor. 11. 29	
 bon-sent-IV-d9-a1-q1	4	apparatus:7	7	crossref	page	tom. II. pag. 639, nota 2	bon-sent-II-d26-a1-q3+bon-sent-II-d26-a1-q4		page-multi			
 bon-sent-IV-d9-a1-q1	4	apparatus:8	8	scripture	apparatus-explicit	Ioan. 6, 56	Ioan 6:56	A	verse			
 bon-sent-IV-d9-a1-q1	4	apparatus:12	12	crossref	relative	supra d. 3. p. I. a. 1. q. 1.	bon-sent-IV-d3-p1-a1-q1		chunk			
@@ -19658,6 +19660,7 @@ bon-don-c3	5	apparatus:p468-4	p468-4	scripture	apparatus-explicit	III. Reg. 11, 
 bon-don-c3	5	apparatus:p468-4	p468-4	scripture	apparatus-explicit	IV. Reg. 21, 1	4Reg 21:1	A	verse			
 bon-don-c3	5	apparatus:p468-4	p468-4	scripture	anaphor->apparatus-explicit	ibid. 22, 1	4Reg 22:1	A	verse	yes	IV. Reg. 21, 1	
 bon-don-c3	5	apparatus:p469-1	p469-1	crossref	logical	III. Sent. d. 9. a. 2. q. 1.	bon-sent-III-d9-a2-q1		chunk			
+bon-don-c3	5	apparatus:p469-2	p469-2	crossref	work	Hexaëm. collat. 9.	bon-hex-c9		chunk			
 bon-don-c3	5	apparatus:p469-3	p469-3	scripture	apparatus-explicit	I. Ioan. 1, 5	1Ioan 1:5	A	verse			
 bon-don-c3	5	apparatus:p469-4	p469-4	scripture	apparatus-explicit	Eccle. 1, 7	Eccle 1:7	A	verse			
 bon-don-c3	5	apparatus:p469-5	p469-5	crossref	work	Breviloq. p. II. c. 12.	bon-brev-p2-c12		chunk			
@@ -19712,28 +19715,37 @@ bon-don-c4	5	apparatus:p474-1	p474-1	crossref	page	supra pag. 365, nota 4	bon-he
 bon-don-c4	5	apparatus:p474-4	p474-4	scripture	apparatus-explicit	Psalm. 138, 6	Ps 138:6	A	verse			
 bon-don-c4	5	apparatus:p474-5	p474-5	scripture	book-unnamed	Libr. I. 2, 3			unresolvable			
 bon-don-c4	5	apparatus:p474-5	p474-5	scripture	apparatus-explicit	Iob 37, 16	Iob 37:16	A	verse			
+bon-don-c4	5	apparatus:p474-6	p474-6	crossref	work	Hexaëm. collat. 4.	bon-hex-c4		chunk			
 bon-don-c4	5	apparatus:p474-6	p474-6	scripture	apparatus-explicit	Prov. 22, 20	Prov 22:20	A	verse			
 bon-don-c4	5	apparatus:p474-7	p474-7	crossref	page	supra pag. 19, nota 7	bon-qsc-q4		chunk			fn-p19-7
 bon-don-c4	5	apparatus:p474-8	p474-8	scripture	apparatus-explicit	III. Reg. 4, 33	3Reg 4:33	A	verse			
+bon-don-c4	5	apparatus:p475-1	p475-1	crossref	work	Hexaëm. collat. 4.	bon-hex-c4		chunk			
 bon-don-c4	5	apparatus:p475-1	p475-1	crossref	logical	IV. Sent. d. 14. p. II. a. 1. q. 1	bon-sent-IV-d14-p2-a1-q1		chunk			
 bon-don-c4	5	apparatus:p475-2	p475-2	crossref	page	supra pag. 344, nota 5	bon-hex-c3		chunk			fn-p344-5
+bon-don-c4	5	apparatus:p475-4	p475-4	crossref	work	Hexaëm. collat. 4.	bon-hex-c4		chunk			
 bon-don-c4	5	apparatus:p475-6	p475-6	scripture	apparatus-explicit	Sap. 7, 18	Sap 7:18	A	verse			
 bon-don-c4	5	apparatus:p475-8	p475-8	scripture	apparatus-explicit	Eccli. 10, 2	Eccli 10:2	A	verse			
 bon-don-c4	5	apparatus:p475-8	p475-8	scripture	apparatus-explicit	I. Tim. 3, 2	1Tim 3:2	A	verse			
+bon-don-c4	5	apparatus:p475-10	p475-10	crossref	work	Hexaëm. collat. 22.	bon-hex-c22		chunk			
 bon-don-c4	5	apparatus:p475-10	p475-10	scripture	apparatus-explicit	Ier. 10, 14	Ierem 10:14	A	verse			
+bon-don-c4	5	apparatus:p476-1	p476-1	crossref	work	Hexaëm. collat. 4.	bon-hex-c4		chunk			
 bon-don-c4	5	apparatus:p476-2	p476-2	scripture	apparatus-explicit	Matth. 16, 26	Matth 16:26	A	verse			
+bon-don-c4	5	apparatus:p476-3	p476-3	crossref	work	Hexaëm. collat. 5.	bon-hex-c5		chunk			
 bon-don-c4	5	apparatus:p476-4	p476-4	scripture	apparatus-explicit	Rom. 1, 21	Rom 1:21	A	verse			
 bon-don-c4	5	apparatus:p476-4	p476-4	scripture	apparatus-explicit	Sap. 13, 9	Sap 13:9	A	verse			
 bon-don-c4	5	apparatus:p476-5	p476-5	scripture	apparatus-explicit	I. Tim. 6, 16	1Tim 6:16	A	verse			
 bon-don-c4	5	apparatus:p476-5	p476-5	crossref	page	supra pag. 309, nota 2	bon-itin-c5		chunk			fn-p309-2
 bon-don-c4	5	apparatus:p476-5	p476-5	crossref	page	supra pag. 345, nota 1	bon-hex-c3		chunk			fn-p345-1
 bon-don-c4	5	apparatus:p476-6	p476-6	scripture	apparatus-explicit	Apoc. 21, 14	Apoc 21:14	A	verse			
+bon-don-c4	5	apparatus:p476-6	p476-6	crossref	work	Hexaëm. collat. 8.	bon-hex-c8		chunk			
 bon-don-c4	5	apparatus:p476-6	p476-6	scripture	apparatus-explicit	Isai. 11, 9	Isai 11:9	A	verse			
+bon-don-c4	5	apparatus:p476-9	p476-9	crossref	work	Hexaëm. collat. 13.	bon-hex-c13		chunk			
 bon-don-c4	5	apparatus:p476-10	p476-10	crossref	page	supra pag. 389, nota 6	bon-hex-c13		chunk			fn-p389-6
 bon-don-c4	5	apparatus:p476-11	p476-11	scripture	apparatus-explicit	Psalm. 23, 2	Ps 23:2	A	verse			
 bon-don-c4	5	apparatus:p476-11	p476-11	scripture	apparatus-explicit	Ps. 103, 5	Ps 103:5	A	verse			
 bon-don-c4	5	apparatus:p476-11	p476-11	scripture	anaphor->apparatus-explicit	ibid.	Ps 103:5	A	verse	yes	Ps. 103, 5	
 bon-don-c4	5	apparatus:p477-1	p477-1	scripture	apparatus-explicit	Isai. 40, 12	Isai 40:12	A	verse			
+bon-don-c4	5	apparatus:p477-1	p477-1	crossref	work	Hexaëm. collat. 9.	bon-hex-c9		chunk			
 bon-don-c4	5	apparatus:p477-1	p477-1	scripture	apparatus-explicit	I. Tim. 3, 14	1Tim 3:14	A	verse			
 bon-don-c4	5	apparatus:p477-2	p477-2	scripture	apparatus-explicit	Psalm. 81, 5	Ps 81:5	A	verse			
 bon-don-c4	5	apparatus:p477-5	p477-5	scripture	apparatus-explicit	Matth. 15, 14	Matth 15:14	A	verse			
@@ -19769,6 +19781,8 @@ bon-don-c5	5	apparatus:p480-2	p480-2	scripture	book-unnamed	Libr. I. 3, 19			unr
 bon-don-c5	5	apparatus:p480-2	p480-2	scripture	apparatus-explicit	Ps. 67, 36	Ps 67:36	A	verse			
 bon-don-c5	5	apparatus:p480-3	p480-3	crossref	logical	III. Sent. d. 35. q. 5.	bon-sent-III-d35-a1-q5		chunk			
 bon-don-c5	5	apparatus:p480-4	p480-4	crossref	relative-bare	ibid. 10, 15			unresolvable			
+bon-don-c5	5	apparatus:p480-4	p480-4	crossref	work	Hexaëm. collat. 17.	bon-hex-c17		chunk			
+bon-don-c5	5	apparatus:p480-5	p480-5	crossref	work	Hexaëm. collat. 21.	bon-hex-c21		chunk			
 bon-don-c5	5	apparatus:p480-7	p480-7	scripture	apparatus-explicit	Luc. 11, 21	Luc 11:21	A	verse			
 bon-don-c5	5	apparatus:p480-7	p480-7	scripture	apparatus-explicit	I. Cor. 1, 25	1Cor 1:25	A	verse			
 bon-don-c5	5	apparatus:p480-9	p480-9	scripture	apparatus-explicit	Isai. 11, 2	Isai 11:2	A	verse			
@@ -19778,6 +19792,7 @@ bon-don-c5	5	apparatus:p480-10	p480-10	scripture	apparatus-explicit	Iudic. 13, 3
 bon-don-c5	5	apparatus:p480-11	p480-11	scripture	apparatus-explicit	Iudic. 16, 7	Iudic 16:7	A	verse			
 bon-don-c5	5	apparatus:p480-11	p480-11	scripture	anaphor->apparatus-explicit	ibid.	Iudic 16:7	A	verse	yes	Iudic. 16, 7	
 bon-don-c5	5	apparatus:p481-1	p481-1	crossref	page	supra pag. 459, nota 9	bon-don-c1		chunk			fn-p459-9
+bon-don-c5	5	apparatus:p481-1	p481-1	crossref	work	Hexaëm. collat. 14.	bon-hex-c14		chunk			
 bon-don-c5	5	apparatus:p481-2	p481-2	scripture	apparatus-explicit	Eph. 6, 16	Eph 6:16	A	verse			
 bon-don-c5	5	apparatus:p481-3	p481-3	scripture	apparatus-explicit	I. Ioan. 2, 16	1Ioan 2:16	A	verse			
 bon-don-c5	5	apparatus:p481-4	p481-4	scripture	apparatus-explicit	Prov. 23, 31	Prov 23:31	A	verse			
@@ -19824,6 +19839,7 @@ bon-don-c6	5	apparatus:p485-1	p485-1	scripture	apparatus-explicit	Luc. 1, 28-35	
 bon-don-c6	5	apparatus:p485-1	p485-1	crossref	logical	III. Sent. d. 27. a. 1. q. 4.	bon-sent-III-d27-a1-q4		chunk			
 bon-don-c6	5	apparatus:p485-1	p485-1	crossref	chain-continuation	d. 34. p. II. a. 1. q. 1.	bon-sent-III-d34-p2-a1-q1		chunk			
 bon-don-c6	5	apparatus:p485-2	p485-2	scripture	apparatus-explicit	Exod. 3, 2	Exod 3:2	A	verse			
+bon-don-c6	5	apparatus:p485-2	p485-2	crossref	work	Hexaëm. collat. 3.	bon-hex-c3		chunk			
 bon-don-c6	5	apparatus:p485-3	p485-3	scripture	apparatus-explicit	Num. 17, 3	Num 17:3	A	verse			
 bon-don-c6	5	apparatus:p485-3	p485-3	scripture	apparatus-explicit	Hebr. 9, 4	Hebr 9:4	A	verse			
 bon-don-c6	5	apparatus:p485-3	p485-3	scripture	apparatus-explicit	Iudic. 6, 37	Iudic 6:37	A	verse			
@@ -19858,6 +19874,7 @@ bon-don-c6	5	apparatus:p488-2	p488-2	scripture	anaphor->apparatus-explicit	ibid.
 bon-don-c6	5	apparatus:p488-4	p488-4	scripture	apparatus-explicit	Ps. 136, 9	Ps 136:9	A	verse			
 bon-don-c6	5	apparatus:p488-5	p488-5	scripture	apparatus-explicit	Luc. 2, 35	Luc 2:35	A	verse			
 bon-don-c6	5	apparatus:p488-6	p488-6	scripture	apparatus-explicit	Iudic. 4, 21	Iudic 4:21	A	verse			
+bon-don-c6	5	apparatus:p488-6	p488-6	crossref	work	Hexaëm. collat. 19.	bon-hex-c19		chunk			
 bon-don-c6	5	apparatus:p488-7	p488-7	scripture	apparatus-explicit	Ps. 20, 4	Ps 20:4	A	verse			
 bon-don-c6	5	apparatus:p488-8	p488-8	scripture	apparatus-explicit	Isai. 28, 16	Isai 28:16	A	verse			
 bon-don-c6	5	apparatus:p488-8	p488-8	crossref	page	supra pag. 373, nota 5	bon-hex-c9		chunk			fn-p373-5
@@ -19874,6 +19891,7 @@ bon-don-c7	5	apparatus:p490-4	p490-4	scripture	apparatus-explicit	I. Cor. 6, 12	
 bon-don-c7	5	apparatus:p490-4	p490-4	scripture	apparatus-explicit	Prov. 15, 22	Prov 15:22	A	verse			
 bon-don-c7	5	apparatus:p490-6	p490-6	scripture	apparatus-explicit	Ps. 19, 5	Ps 19:5	A	verse			
 bon-don-c7	5	apparatus:p490-7	p490-7	crossref	page	supra pag. 323, nota 6	bon-red		chunk			fn-p323-6
+bon-don-c7	5	apparatus:p490-8	p490-8	crossref	work	Hexaëm. collat. 2.	bon-hex-c2		chunk			
 bon-don-c7	5	apparatus:p491-1	p491-1	scripture	apparatus-explicit	Ps. 118, 24	Ps 118:24	A	verse			
 bon-don-c7	5	apparatus:p491-1	p491-1	scripture	apparatus-explicit	Exod. 25, 18	Exod 25:18	A	verse			
 bon-don-c7	5	apparatus:p491-1	p491-1	crossref	page	supra pag. 375, nota 3	bon-hex-c9		chunk			fn-p375-3
@@ -19920,6 +19938,7 @@ bon-don-c8	5	apparatus:p494-6	p494-6	crossref	page	supra pag. 449, nota 1	bon-he
 bon-don-c8	5	apparatus:p494-7	p494-7	scripture	apparatus-explicit	Num. 12, 3	Num 12:3	A	verse			
 bon-don-c8	5	apparatus:p494-8	p494-8	crossref	page	supra pag. 306, nota 1	bon-itin-c3+bon-itin-c4		page-multi			
 bon-don-c8	5	apparatus:p494-9	p494-9	scripture	apparatus-explicit	II. Cor. 10, 5	2Cor 10:5	A	verse			
+bon-don-c8	5	apparatus:p495-1	p495-1	crossref	work	Hexaëm. collat. 3.	bon-hex-c3		chunk			
 bon-don-c8	5	apparatus:p495-2	p495-2	scripture	apparatus-explicit	Psalm. 31, 8	Ps 31:8	A	verse			
 bon-don-c8	5	apparatus:p495-3	p495-3	scripture	apparatus-explicit	Psalm. 48, 13	Ps 48:13	A	verse			
 bon-don-c8	5	apparatus:p495-4	p495-4	scripture	apparatus-explicit	Prov. 2, 3-5	Prov 2:3-5	A	verse			
@@ -19945,6 +19964,7 @@ bon-don-c8	5	apparatus:p496-8	p496-8	crossref	work	de Scientia Christi q. 4.	bon
 bon-don-c8	5	apparatus:p496-9	p496-9	crossref	page	supra pag. 21, nota 10	bon-qsc-q4		chunk			fn-p21-10
 bon-don-c8	5	apparatus:p496-10	p496-10	scripture	apparatus-explicit	II. Cor. 4, 6	2Cor 4:6	A	verse			
 bon-don-c8	5	apparatus:p496-10	p496-10	scripture	apparatus-explicit	Ioan. 1, 9	Ioan 1:9	A	verse			
+bon-don-c8	5	apparatus:p496-10	p496-10	crossref	work	Hexaëm. collat. 7.	bon-hex-c7		chunk			
 bon-don-c8	5	apparatus:p496-11	p496-11	crossref	page	supra pag. 17, nota 10	bon-qsc-q4		chunk			fn-p17-10
 bon-don-c8	5	apparatus:p496-11	p496-11	crossref	page	pag. 23, nota 6	bon-qsc-q4		chunk			fn-p23-6
 bon-don-c8	5	apparatus:p497-1	p497-1	crossref	page	supra pag. 348, nota 7	bon-hex-c3+bon-hex-c4		page-multi			
@@ -19954,6 +19974,7 @@ bon-don-c8	5	apparatus:p497-1	p497-1	crossref	page	supra pag. 338, nota 2	bon-he
 bon-don-c8	5	apparatus:p497-2	p497-2	scripture	apparatus-explicit	Act. 17, 27	Act 17:27	A	verse			
 bon-don-c8	5	apparatus:p497-2	p497-2	scripture	apparatus-explicit	Rom. 11, 36	Rom 11:36	A	verse			
 bon-don-c8	5	apparatus:p497-2	p497-2	crossref	page	supra pag. 349, nota 8	bon-hex-c4		chunk			fn-p349-8
+bon-don-c8	5	apparatus:p497-4	p497-4	crossref	work	Hexaëm. collat. 6.	bon-hex-c6		chunk			
 bon-don-c8	5	apparatus:p497-6	p497-6	scripture	apparatus-explicit	Gen. 1, 1	Gen 1:1	A	verse			
 bon-don-c8	5	apparatus:p498-1	p498-1	crossref	work	Breviloq. p. II. c. 1.	bon-brev-p2-c1		chunk			
 bon-don-c8	5	apparatus:p498-2	p498-2	scripture	book-unnamed	Libr. II. 7, 28			unresolvable			
@@ -19961,19 +19982,23 @@ bon-don-c8	5	apparatus:p498-3	p498-3	crossref	logical	II. Sent. d. 14. p. II. a.
 bon-don-c8	5	apparatus:p498-4	p498-4	crossref	logical	II. Sent. d. 18. a. 2. q. 1.	bon-sent-II-d18-a2-q1		chunk			
 bon-don-c8	5	apparatus:p498-4	p498-4	crossref	anaphor->logical	loc. cit.	bon-sent-II-d18-a2-q1		chunk	yes	II. Sent. d. 18. a. 2. q. 1.	
 bon-don-c8	5	apparatus:p498-5	p498-5	crossref	page	supra pag. 215, nota 4	bon-brev-p1-c6+bon-brev-p1-c7		page-multi			
+bon-don-c8	5	apparatus:p498-5	p498-5	crossref	work	Hexaëm. collat. 2.	bon-hex-c2		chunk			
 bon-don-c8	5	apparatus:p498-6	p498-6	crossref	logical	II. Sent. d. 3. p. II. a. 2. q. 1.	bon-sent-II-d3-p2-a2-q1		chunk			
 bon-don-c8	5	apparatus:p498-7	p498-7	crossref	page	supra pag. 299, nota 5	bon-itin-c1+bon-itin-c2		page-multi			
+bon-don-c8	5	apparatus:p498-7	p498-7	crossref	work	Hexaëm. collat. 5.	bon-hex-c5		chunk			
 bon-don-c8	5	apparatus:p498-8	p498-8	scripture	apparatus-explicit	Sap. 9, 15	Sap 9:15	A	verse			
 bon-don-c8	5	apparatus:p498-8	p498-8	crossref	page	supra pag. 309, nota 2	bon-itin-c5		chunk			fn-p309-2
 bon-don-c8	5	apparatus:p498-8	p498-8	crossref	logical	II. Sent. d. 24. p. I. a. 2. q. 4.	bon-sent-II-d24-p1-a2-q4		chunk			
+bon-don-c8	5	apparatus:p498-9	p498-9	crossref	work	Hexaëm. collat. 3.	bon-hex-c3		chunk			
 bon-don-c9	5	apparatus:p499-1	p499-1	scripture	apparatus-explicit	Col. 3, 1	Col 3:1	A	verse			
 bon-don-c9	5	apparatus:p499-1	p499-1	scripture	apparatus-explicit	Eccli. 1, 33	Eccli 1:33	A	verse			
 bon-don-c9	5	apparatus:p499-1	p499-1	crossref	logical	III. Sent. d. 35. q. 1.	bon-sent-III-d35-a1-q1		chunk			
 bon-don-c9	5	apparatus:p499-2	p499-2	scripture	apparatus-explicit	Sap. 7, 7	Sap 7:7	A	verse			
+bon-don-c9	5	apparatus:p499-2	p499-2	crossref	work	Hexaëm. collat. 2.	bon-hex-c2		chunk			
 bon-don-c9	5	apparatus:p499-3	p499-3	scripture	apparatus-explicit	Eccli. 51, 23	Eccli 51:23	A	verse			
 bon-don-c9	5	apparatus:p499-3	p499-3	scripture	apparatus-explicit	Ier. 9, 23	Ierem 9:23	A	verse			
 bon-don-c9	5	apparatus:p499-3	p499-3	scripture	apparatus-explicit	Ezech. 28, 12	Ezech 28:12	A	verse			
-bon-don-c9	5	apparatus:p499-5	p499-5	scripture	apparatus-explicit	Col. 3	Col 3	C	chapter			
+bon-don-c9	5	apparatus:p499-5	p499-5	scripture	apparatus-explicit	Col. 3. 1	Col 3:1	A	verse			
 bon-don-c9	5	apparatus:p499-6	p499-6	scripture	apparatus-explicit	I. Tim. 6, 10	1Tim 6:10	A	verse			
 bon-don-c9	5	apparatus:p499-7	p499-7	scripture	apparatus-explicit	Isai. 29, 14	Isai 29:14	A	verse			
 bon-don-c9	5	apparatus:p499-7	p499-7	scripture	apparatus-explicit	Ier. 4, 22	Ierem 4:22	A	verse			
@@ -21353,7 +21378,7 @@ bon-hex-c8	5	apparatus:p371-4	p371-4	scripture	apparatus-explicit	Ioan. 5, 17	Io
 bon-hex-c8	5	apparatus:p371-4	p371-4	crossref	work	Breviloq. p. I. c. 6.	bon-brev-p1-c6		chunk			
 bon-hex-c8	5	apparatus:p371-5	p371-5	crossref	work	Breviloq. p. V. c. 7.	bon-brev-p5-c7		chunk			
 bon-hex-c8	5	apparatus:p371-6	p371-6	scripture	apparatus-explicit	Exod. 28, 6	Exod 28:6	A	verse			
-bon-hex-c9	5	latin_body	p372-3	scripture	body-ordinal	Ioannis quinto	Ioan 5:7	B	verse			
+bon-hex-c9	5	latin_body	p372-3	scripture	body-ordinal	Ioannis quinto	1Ioan 5:7	B	verse			
 bon-hex-c9	5	latin_body	p373-7	scripture	body-ordinal	ad Hebraeos primo	Hebr 1:1	B	verse			
 bon-hex-c9	5	latin_body	p374-3	scripture	body-ordinal	ad Corinthios duodecimo	Cor* 12:2	B	verse			
 bon-hex-c9	5	latin_body		scripture	body-ordinal	Ecclesiastici vigesimo quarto	Eccli 24	C	chapter			
@@ -21411,7 +21436,7 @@ bon-hex-c9	5	apparatus:p375-6	p375-6	crossref	page	supra pag. 368, nota 7	bon-he
 bon-hex-c9	5	apparatus:p375-7	p375-7	crossref	page	pag. 178	bon-qpe-q3-a3		chunk			
 bon-hex-c9	5	apparatus:p376-1	p376-1	crossref	work	Breviloq. p. I. c. 2.	bon-brev-p1-c2		chunk			
 bon-hex-c9	5	apparatus:p376-3	p376-3	crossref	logical	II. Sent. d. 1. p. I. a. 1. q. 1.	bon-sent-II-d1-p1-a1-q1		chunk			
-bon-hex-c9	5	apparatus:p376-3	p376-3	crossref	relative-inherited	ibid.	bon-sent-II-d1-p1-a1-q1		chunk			
+bon-hex-c9	5	apparatus:p376-3	p376-3	crossref	relative-inherited	ibid. a. 2. q. 2	bon-sent-II-d1-p1-a2-q2		chunk			
 bon-hex-c9	5	apparatus:p376-4	p376-4	scripture	apparatus-explicit	Psalm. 26, 1	Ps 26:1	A	verse			
 bon-hex-c9	5	apparatus:p376-5	p376-5	scripture	apparatus-explicit	Rom. 8, 32	Rom 8:32	A	verse			
 bon-hex-c9	5	apparatus:p376-5	p376-5	scripture	apparatus-explicit	Ioan. 16, 15	Ioan 16:15	A	verse			
@@ -21440,7 +21465,7 @@ bon-hex-scholion	5	latin_body		crossref	anaphor->work	ibid.	work:breviloquium		w
 bon-hex-scholion	5	latin_body		crossref	logical	II. Sent. d. 23. a. 2. q. 3.	bon-sent-II-d23-a2-q3		chunk			
 bon-hex-scholion	5	latin_body		crossref	work	Itiner.	work:itinerarium		work			
 bon-hex-scholion	5	latin_body		crossref	relative-inherited	ibid.	bon-sent-II-d23-a2-q3		chunk			
-bon-hex-scholion	5	latin_body		scripture	apparatus-explicit	II. Cor. 4	2Cor 4	C	chapter			
+bon-hex-scholion	5	latin_body		scripture	apparatus-explicit	II. Cor. 4. 4	2Cor 4:4	A	verse			
 bon-hex-scholion	5	latin_body		scripture	apparatus-explicit	Gen. 1, 4	Gen 1:4	A	verse			
 bon-hex-scholion	5	latin_body		crossref	work	Breviloquio	work:breviloquium		work			
 bon-hex-scholion	5	latin_body		crossref	logical	I. Sent. d. 35.	I:d35		distinctio			
@@ -21753,9 +21778,12 @@ bon-praec-c1	5	apparatus:p509-8	p509-8	scripture	apparatus-explicit	Ps. 43, 22	P
 bon-praec-c1	5	apparatus:p509-8	p509-8	scripture	apparatus-explicit	Ps. 72, 28	Ps 72:28	A	verse			
 bon-praec-c1	5	apparatus:p509-8	p509-8	scripture	apparatus-explicit	I. Cor. 15, 27	1Cor 15:27	A	verse			
 bon-praec-c1	5	apparatus:p509-8	p509-8	scripture	apparatus-explicit	Rom. 8, 35	Rom 8:35	A	verse			
+bon-praec-c1	5	apparatus:p510-1	p510-1	crossref	work	Hexaëm. collat. 4.	bon-hex-c4		chunk			
+bon-praec-c1	5	apparatus:p510-1	p510-1	crossref	work	Hexaëm. collat. 3.	bon-hex-c3		chunk			
 bon-praec-c1	5	apparatus:p510-2	p510-2	scripture	apparatus-explicit	Exod. 20, 3	Exod 20:3	A	verse			
 bon-praec-c1	5	apparatus:p510-2	p510-2	scripture	apparatus-explicit	Deut. 5, 7	Deut 5:7	A	verse			
 bon-praec-c1	5	apparatus:p510-3	p510-3	crossref	page	supra pag. 121, nota 3	bon-qpe-q1		chunk			fn-p121-3
+bon-praec-c1	5	apparatus:p510-4	p510-4	crossref	work	Hexaëm. collat. 21.	bon-hex-c21		chunk			
 bon-praec-c1	5	apparatus:p510-4	p510-4	crossref	logical	III. Sent. d. 37. a. 2. q. 1	bon-sent-III-d37-a2-q1		chunk			
 bon-praec-c1	5	apparatus:p510-5	p510-5	scripture	apparatus-explicit	Tob. 4, 16	Tob 4:16	A	verse			
 bon-praec-c1	5	apparatus:p510-5	p510-5	scripture	apparatus-explicit	Matth. 7, 12	Matth 7:12	A	verse			
@@ -21769,6 +21797,7 @@ bon-praec-c2	5	apparatus:p511-3	p511-3	crossref	page	supra pag. 510, nota 4	bon-
 bon-praec-c2	5	apparatus:p511-4	p511-4	crossref	work	Breviloq. p. I. c. 6	bon-brev-p1-c6		chunk			
 bon-praec-c2	5	apparatus:p511-4	p511-4	crossref	page	tom. I. pag. 73, nota 7	bon-sent-I-d3-p1-a1-q2+bon-sent-I-d3-p1-a1-q3		page-multi			
 bon-praec-c2	5	apparatus:p512-1	p512-1	scripture	apparatus-explicit	Exod. 20, 2-6	Exod 20:2-6	A	verse			
+bon-praec-c2	5	apparatus:p512-2	p512-2	crossref	work	Hexaëm. collat. 8.	bon-hex-c8		chunk			
 bon-praec-c2	5	apparatus:p512-3	p512-3	scripture	apparatus-explicit	I. Petr. 1, 18	1Petr 1:18	A	verse			
 bon-praec-c2	5	apparatus:p512-3	p512-3	scripture	apparatus-explicit	Rom. 6, 3	Rom 6:3	A	verse			
 bon-praec-c2	5	apparatus:p512-4	p512-4	crossref	logical	I. Sent. d. 2. dub. 4.	bon-sent-I-d2-dubia		chunk			dub-4
@@ -21785,6 +21814,7 @@ bon-praec-c2	5	apparatus:p513-9	p513-9	scripture	apparatus-explicit	Rom. 1, 23	R
 bon-praec-c2	5	apparatus:p514-1	p514-1	scripture	apparatus-explicit	Exod. 7	Exod 7	C	chapter			
 bon-praec-c2	5	apparatus:p514-3	p514-3	crossref	relative-bare	ibid. v. 21			unresolvable			
 bon-praec-c2	5	apparatus:p514-3	p514-3	scripture	apparatus-explicit	Rom. 1, 26	Rom 1:26	A	verse			
+bon-praec-c2	5	apparatus:p514-5	p514-5	crossref	work	Hexaëm. collat. 4.	bon-hex-c4		chunk			
 bon-praec-c2	5	apparatus:p515-2	p515-2	crossref	logical	II. Sent. d. 1. p. I. a. 1. q. 2.	bon-sent-II-d1-p1-a1-q2		chunk			
 bon-praec-c2	5	apparatus:p515-3	p515-3	scripture	apparatus-explicit	Psalm. 80, 10	Ps 80:10	A	verse			
 bon-praec-c2	5	apparatus:p515-3	p515-3	scripture	apparatus-explicit	Eph. 5, 5	Eph 5:5	A	verse			
@@ -21793,6 +21823,7 @@ bon-praec-c3	5	latin_body	p518-5	scripture	body-ordinal	ad Romanos primo	Rom 1:9
 bon-praec-c3	5	apparatus:p515-4	p515-4	scripture	apparatus-explicit	Exod. 20, 7	Exod 20:7	A	verse			
 bon-praec-c3	5	apparatus:p515-4	p515-4	scripture	apparatus-explicit	Ps. 118, 125	Ps 118:125	A	verse			
 bon-praec-c3	5	apparatus:p515-4	p515-4	crossref	logical	III. Sent. d. 37. dub. 2.	bon-sent-III-d37-dubia		chunk			dub-2
+bon-praec-c3	5	apparatus:p515-5	p515-5	crossref	work	Hexaëm. collat. 19.	bon-hex-c19		chunk			
 bon-praec-c3	5	apparatus:p515-5	p515-5	scripture	apparatus-explicit	Matth. 19, 17	Matth 19:17	A	verse			
 bon-praec-c3	5	apparatus:p516-3	p516-3	scripture	apparatus-explicit	I. Tim. 6, 10	1Tim 6:10	A	verse			
 bon-praec-c3	5	apparatus:p516-6	p516-6	scripture	apparatus-explicit	Deut. 6, 4	Deut 6:4	A	verse			
@@ -21828,6 +21859,7 @@ bon-praec-c4	5	apparatus:p520-3	p520-3	scripture	apparatus-explicit	Exod. 8, 19	
 bon-praec-c4	5	apparatus:p520-6	p520-6	crossref	page	supra pag. 203, nota 8	bon-brev-prol-s1+bon-brev-prol-s2		page-multi			
 bon-praec-c4	5	apparatus:p520-6	p520-6	crossref	page	pag. 220, nota 4	bon-brev-p2-c2+bon-brev-p2-c3		page-multi			
 bon-praec-c4	5	apparatus:p520-7	p520-7	crossref	page	supra pag. 89, nota 1	bon-qmt-q5-a1		chunk			fn-p89-1
+bon-praec-c4	5	apparatus:p520-7	p520-7	crossref	work	Hexaëm. collat. 1.	bon-hex-c1		chunk			
 bon-praec-c4	5	apparatus:p520-8	p520-8	crossref	logical	II. Sent. d. 3. p. II. a. 1. q. 2.	bon-sent-II-d3-p2-a1-q2		chunk			
 bon-praec-c4	5	apparatus:p521-1	p521-1	crossref	work	Breviloq. p. II. c. 2.	bon-brev-p2-c2		chunk			
 bon-praec-c4	5	apparatus:p521-4	p521-4	crossref	anaphor->work	ibid.	bon-brev-p2-c2		chunk	yes	Breviloq. p. II. c. 2.	
@@ -21962,7 +21994,7 @@ bon-qmt-q1-a2	5	latin_body	p52-3	scripture	body-ordinal	Ioannis decimo quarto	Io
 bon-qmt-q1-a2	5	latin_body	p52-5	scripture	body-ordinal	Ioannis quinto	Ioan 5:23	B	verse			
 bon-qmt-q1-a2	5	latin_body	p53-2	scripture	body-ordinal	ad Corinthios decimo tertio	Cor* 13:12	B	verse			
 bon-qmt-q1-a2	5	latin_body	p55-3	scripture	body-ordinal	Genesis decimo octavo	Gen 18:2	B	verse			
-bon-qmt-q1-a2	5	latin_body	p55-6	scripture	body-ordinal	Ioannis quinto	Ioan 5:7	B	verse			
+bon-qmt-q1-a2	5	latin_body	p55-6	scripture	body-ordinal	Ioannis quinto	1Ioan 5:7	B	verse			
 bon-qmt-q1-a2	5	latin_body		scripture	body-ordinal	Ioannis primo	Ioan 1	C	chapter			
 bon-qmt-q1-a2	5	latin_body	p56-3	scripture	body-ordinal	ad Hebraeos secundo	Hebr 2:3	B	verse			
 bon-qmt-q1-a2	5	latin_body	p57-6	scripture	body-ordinal	ad Titum primo	Tit 1:1	B	verse			
@@ -22044,7 +22076,7 @@ bon-qmt-q2-a1	5	apparatus:p62-7	p62-7	crossref	logical	I. Sent. d. 37. p. I. a. 
 bon-qmt-q2-a1	5	apparatus:p62-7	p62-7	crossref	logical	II. Sent. d. 37. a. 1. q. 2.	bon-sent-II-d37-a1-q2		chunk			
 bon-qmt-q2-a1	5	apparatus:p63-1	p63-1	crossref	logical	I. Sent. d. 40. dub. 7.	bon-sent-I-d40-dubia		chunk			dub-7
 bon-qmt-q2-a1	5	apparatus:p63-1	p63-1	crossref	chain-continuation	d. 45. a. 2. q. 2.	bon-sent-I-d45-a2-q2		chunk			
-bon-qmt-q2-a2	5	latin_body	p64-7	scripture	body-ordinal	Ioannis quinto	Ioan 5:7	B	verse			
+bon-qmt-q2-a2	5	latin_body	p64-7	scripture	body-ordinal	Ioannis quinto	1Ioan 5:7	B	verse			
 bon-qmt-q2-a2	5	apparatus:p63-3	p63-3	authority	authority:Bonav.	I. Sent. d. 8. p. II. q. 1			excluded			
 bon-qmt-q2-a2	5	apparatus:p63-4	p63-4	crossref	logical	I. Sent. d. 26. q. 1.	bon-sent-I-d26-a1-q1		chunk			
 bon-qmt-q2-a2	5	apparatus:p63-5	p63-5	crossref	page	tom. I. pag. 405, nota 10	bon-sent-I-d23-a1-q1+bon-sent-I-d23-a1-q2+bon-sent-I-d23-divisio		page-multi			
@@ -22075,7 +22107,7 @@ bon-qmt-q2-a2	5	apparatus:p67-1	p67-1	crossref	logical	III. Sent. d. 5. a. 2. q.
 bon-qmt-q2-a2	5	apparatus:p67-2	p67-2	crossref	page	tom. I. pag. 359, nota 5	bon-sent-I-d19-p2-a1-q2		chunk			
 bon-qmt-q2-a2	5	apparatus:p67-2	p67-2	crossref	page	pag. 574, nota 5	bon-sent-I-d33-a1-q2		chunk			
 bon-qmt-q2-a2	5	apparatus:p67-4	p67-4	crossref	logical	I. Sent. d. 8. p. II. q. 2.	bon-sent-I-d8-p2-a1-q2		chunk			
-bon-qmt-q2-a2	5	apparatus:p67-4	p67-4	crossref	relative-inherited	ibid.	bon-sent-I-d8-p2-a1-q2		chunk			
+bon-qmt-q2-a2	5	apparatus:p67-4	p67-4	crossref	relative-inherited	ibid. q. 1	bon-sent-I-d8-p2-a1-q1		chunk			
 bon-qmt-q2-a2	5	apparatus:p67-6	p67-6	crossref	logical	III. Sent. d. 24. a. 1. q. 3.	bon-sent-III-d24-a1-q3		chunk			
 bon-qmt-q2-a2	5	apparatus:p67-8	p67-8	crossref	anaphor->logical	ibid.	bon-sent-III-d24-a1-q3		chunk	yes	III. Sent. d. 24. a. 1. q. 3.	
 bon-qmt-q3-a1	5	apparatus:p68-2	p68-2	crossref	logical	I. Sent. d. 8. p. II. q. 1.	bon-sent-I-d8-p2-a1-q1		chunk			
@@ -22490,7 +22522,7 @@ bon-qpe-q2-a1	5	apparatus:p132-2	p132-2	scripture	apparatus-explicit	Luc. 22, 32
 bon-qpe-q2-a1	5	apparatus:p132-3	p132-3	scripture	apparatus-explicit	Matth. 6, 25	Matth 6:25	A	verse			
 bon-qpe-q2-a1	5	apparatus:p132-3	p132-3	crossref	page	supra pag. 126, nota 8	bon-qpe-q2-a1		chunk			fn-p126-8
 bon-qpe-q2-a1	5	apparatus:p132-4	p132-4	scripture	apparatus-explicit	Psalm. 77, 20	Ps 77:20	A	verse			
-bon-qpe-q2-a1	5	apparatus:p132-4	p132-4	scripture	apparatus-explicit	II. Cor. 4	2Cor 4	C	chapter			
+bon-qpe-q2-a1	5	apparatus:p132-4	p132-4	scripture	apparatus-explicit	II. Cor. 4. 8	2Cor 4:8	A	verse			
 bon-qpe-q2-a1	5	apparatus:p132-5	p132-5	scripture	apparatus-explicit	Ios. 1, 5	Ios 1:5	A	verse			
 bon-qpe-q2-a1	5	apparatus:p132-5	p132-5	scripture	anaphor->apparatus-explicit	ibid.	Ios 1:5	A	verse	yes	Ios. 1, 5	
 bon-qpe-q2-a1	5	apparatus:p132-6	p132-6	scripture	apparatus-explicit	Matth. 19, 17	Matth 19:17	A	verse			
@@ -23281,24 +23313,24 @@ bon-red	5	apparatus:p325-7	p325-7	scripture	apparatus-explicit	Eph. 3, 10	Eph 3:
 bon-red	5	apparatus:p325-8	p325-8	scripture	apparatus-explicit	I. Petr. 4, 11	1Petr 4:11	A	verse			
 bon-red	5	apparatus:p325-9	p325-9	scripture	apparatus-explicit	Ioan. 16, 13	Ioan 16:13	A	verse			
 bon-red	5	apparatus:p325-9	p325-9	scripture	apparatus-explicit	Rom. 1, 25	Rom 1:25	A	verse			
-bon-serm-s1	5	latin_body	p535-1	scripture	body-ordinal	Ioannis quinto	Ioan 5:7	B	verse			
+bon-serm-s1	5	latin_body	p535-1	scripture	body-ordinal	Ioannis quinto	1Ioan 5:7	B	verse			
 bon-serm-s1	5	latin_body		scripture	body-ordinal	Genesis primo	Gen 1	C	chapter			
 bon-serm-s1	5	latin_body	p536-1	scripture	body-ordinal	Ecclesiastici trigesimo sexto	Eccli 36:16	B	verse			
 bon-serm-s1	5	latin_body	p536-2	scripture	body-ordinal	Exodi decimo quinto	Exod 15:11	B	verse			
 bon-serm-s1	5	latin_body		scripture	body-ordinal	Ioannis tertio	Ioan 3	C	chapter			
 bon-serm-s1	5	latin_body		scripture	body-ordinal	Ioannis primo	Ioan 1	C	chapter			
 bon-serm-s1	5	latin_body	p536-5	scripture	body-ordinal	Ioannis decimo octavo	Ioan 18:37	B	verse			
-bon-serm-s1	5	latin_body	p536-6	scripture	body-ordinal	Ioannis quinto	Ioan 5:8	B	verse			
+bon-serm-s1	5	latin_body	p536-6	scripture	body-ordinal	Ioannis quinto	1Ioan 5:8	B	verse			
 bon-serm-s1	5	latin_body	p536-7	scripture	body-ordinal	ad Romanos octavo	Rom 8:16	B	verse			
 bon-serm-s1	5	latin_body		scripture	body-ordinal	ad Titum tertio	Tit 3	C	chapter			
 bon-serm-s1	5	latin_body	p536-8	scripture	body-ordinal	Isaiae sexto	Isai 6:1	B	verse			
 bon-serm-s1	5	latin_body	p536-9	scripture	body-ordinal	Ioannis quinto	Ioan 5:36	B	verse			
 bon-serm-s1	5	latin_body	p537-1	scripture	body-ordinal	Ioannis decimo	Ioan 10:25	B	verse			
 bon-serm-s1	5	latin_body		scripture	body-ordinal	Ioannis decimo quinto	Ioan 15	C	chapter			
-bon-serm-s1	5	latin_body	p537-2	scripture	body-ordinal	Ioannis quinto	Ioan 5:9	B	verse			
+bon-serm-s1	5	latin_body	p537-2	scripture	body-ordinal	Ioannis quinto	1Ioan 5:9	B	verse			
 bon-serm-s1	5	latin_body	p537-3	scripture	body-ordinal	Ioannis octavo	Ioan 8:13	B	verse			
 bon-serm-s1	5	latin_body		scripture	body-ordinal	Ioannis quinto	Ioan 5	C	chapter			
-bon-serm-s1	5	latin_body	p537-5	scripture	body-ordinal	Ioannis quinto	Ioan 5:6	B	verse			
+bon-serm-s1	5	latin_body	p537-5	scripture	body-ordinal	Ioannis quinto	1Ioan 5:6	B	verse			
 bon-serm-s1	5	latin_body	p537-6	scripture	body-ordinal	Actuum primo	Act 1:8	B	verse			
 bon-serm-s1	5	latin_body	p537-8	scripture	body-ordinal	Isaiae quinquagesimo quinto	Isai 55:4	B	verse			
 bon-serm-s1	5	latin_body		scripture	body-ordinal	ad Timotheum secundo	Tim* 2	C	chapter			
@@ -23314,10 +23346,12 @@ bon-serm-s1	5	latin_body	p538-8	scripture	body-ordinal	Ioannis septimo	Ioan 7:7	
 bon-serm-s1	5	latin_body	p538-9	scripture	body-ordinal	Ieremiae vigesimo nono	Ierem 29:23	B	verse			
 bon-serm-s1	5	latin_body	p538-10	scripture	body-ordinal	Malachiae tertio	Malach 3:5	B	verse			
 bon-serm-s1	5	apparatus:p535-1	p535-1	crossref	page	pag. 54	bon-qmt-q1-a2		chunk			
+bon-serm-s1	5	apparatus:p535-1	p535-1	crossref	work	Hexaëm. collat. 9.	bon-hex-c9		chunk			
 bon-serm-s1	5	apparatus:p535-1	p535-1	crossref	logical	I. Sent. d. 2. q. 2.	bon-sent-I-d2-a1-q2		chunk			
 bon-serm-s1	5	apparatus:p535-1	p535-1	crossref	chain-continuation	d. 5. a. 2. q. 2	bon-sent-I-d5-a2-q2		chunk			
 bon-serm-s1	5	apparatus:p535-1	p535-1	crossref	logical	I. Sent. d. 2. q. 1.	bon-sent-I-d2-a1-q1		chunk			
 bon-serm-s1	5	apparatus:p535-1	p535-1	crossref	logical	III. Sent. d. 1. a. 1. q. 2.	bon-sent-III-d1-a1-q2		chunk			
+bon-serm-s1	5	apparatus:p535-2	p535-2	crossref	work	Hexaëm. collat. 9.	bon-hex-c9		chunk			
 bon-serm-s1	5	apparatus:p535-3	p535-3	scripture	apparatus-explicit	Psalm. 18, 7	Ps 18:7	A	verse			
 bon-serm-s1	5	apparatus:p535-3	p535-3	scripture	apparatus-explicit	Ps. 10, 5	Ps 10:5	A	verse			
 bon-serm-s1	5	apparatus:p535-3	p535-3	scripture	apparatus-explicit	Gen. 1, 6	Gen 1:6	A	verse			
@@ -23432,6 +23466,7 @@ bon-serm-s2	5	apparatus:p539-4	p539-4	scripture	apparatus-explicit	Matth. 13, 24
 bon-serm-s2	5	apparatus:p540-1	p540-1	scripture	apparatus-explicit	Matth. 13, 29	Matth 13:29	A	verse			
 bon-serm-s2	5	apparatus:p540-2	p540-2	scripture	anaphor->apparatus-explicit	loc. cit.	Matth 13:29	A	verse	yes	Matth. 13, 29	
 bon-serm-s2	5	apparatus:p540-5	p540-5	authority	authority:Bonav.	II. Sent. d. 25. p. I. a. 1. q. 2.			excluded			
+bon-serm-s2	5	apparatus:p540-8	p540-8	crossref	work	Hexaëm. collat. 5.	bon-hex-c5		chunk			
 bon-serm-s2	5	apparatus:p540-10	p540-10	scripture	apparatus-explicit	Eccle. 9, 1	Eccle 9:1	A	verse			
 bon-serm-s2	5	apparatus:p541-8	p541-8	scripture	apparatus-explicit	Eccle. 5, 9	Eccle 5:9	A	verse			
 bon-serm-s2	5	apparatus:p541-11	p541-11	crossref	logical	II. Sent. d. 18. a. 1. q. 2.	bon-sent-II-d18-a1-q2		chunk			
@@ -23503,13 +23538,17 @@ bon-serm-s2	5	apparatus:p548-5	p548-5	crossref	logical	IV. Sent. d. 44. p. II. a
 bon-serm-s2	5	apparatus:p548-6	p548-6	scripture	apparatus-explicit	Eccle. 11, 3	Eccle 11:3	A	verse			
 bon-serm-s2	5	apparatus:p548-7	p548-7	crossref	work	de Reduct.	work:de-reductione		work			
 bon-serm-s2	5	apparatus:p548-7	p548-7	crossref	logical	II. Sent. d. 40. a. 1. q. 3.	bon-sent-II-d40-a1-q3		chunk			
+bon-serm-s2	5	apparatus:p548-8	p548-8	crossref	work	Hexaëm. collat. 2.	bon-hex-c2		chunk			
 bon-serm-s2	5	apparatus:p548-8	p548-8	scripture	apparatus-explicit	Sap. 10, 10	Sap 10:10	A	verse			
+bon-serm-s2	5	apparatus:p548-9	p548-9	crossref	work	Hexaëm. collat. 3.	bon-hex-c3		chunk			
 bon-serm-s2	5	apparatus:p548-10	p548-10	scripture	apparatus-explicit	Dan. 10, 11	Dan 10:11	A	verse			
 bon-serm-s2	5	apparatus:p548-10	p548-10	scripture	anaphor->apparatus-explicit	ibid. 9, 23	Dan 9:23	A	verse	yes	Dan. 10, 11	
+bon-serm-s2	5	apparatus:p548-12	p548-12	crossref	work	Hexaëm. collat. 23.	bon-hex-c23		chunk			
 bon-serm-s2	5	apparatus:p549-1	p549-1	scripture	apparatus-explicit	Prov. 24, 16	Prov 24:16	A	verse			
 bon-serm-s2	5	apparatus:p549-1	p549-1	scripture	apparatus-explicit	Luc. 15, 18	Luc 15:18	A	verse			
 bon-serm-s2	5	apparatus:p549-1	p549-1	scripture	apparatus-explicit	Ier. 1, 14	Ierem 1:14	A	verse			
 bon-serm-s2	5	apparatus:p549-3	p549-3	scripture	apparatus-explicit	Matth. 13, 24	Matth 13:24	A	verse			
+bon-serm-s2	5	apparatus:p549-4	p549-4	crossref	work	Hexaëm. collat. 15.	bon-hex-c15		chunk			
 bon-serm-s2	5	apparatus:p549-7	p549-7	scripture	apparatus-explicit	Psalm. 24, 10	Ps 24:10	A	verse			
 bon-serm-s2	5	apparatus:p549-10	p549-10	scripture	apparatus-explicit	Ps. 2, 6	Ps 2:6	A	verse			
 bon-serm-s2	5	apparatus:p549-10	p549-10	scripture	apparatus-explicit	Prov. 31, 23	Prov 31:23	A	verse			
@@ -23572,7 +23611,7 @@ bon-serm-s3	5	latin_body	p563-7	scripture	body-ordinal	Ioannis sexto	Ioan 6:55	B
 bon-serm-s3	5	latin_body		scripture	body-ordinal	Matthaei sexto	Matth 6	C	chapter			
 bon-serm-s3	5	latin_body		scripture	body-ordinal	Iob tertio	Iob 3	C	chapter			
 bon-serm-s3	5	latin_body	p564-8	scripture	body-ordinal	Exodi decimo sexto	Exod 16:4	B	verse			
-bon-serm-s3	5	latin_body		scripture	body-ordinal	Ioannis secundo	Ioan 2	C	chapter			
+bon-serm-s3	5	latin_body		scripture	body-ordinal	Ioannis secundo	1Ioan 2	C	chapter			
 bon-serm-s3	5	apparatus:p554-1	p554-1	scripture	apparatus-explicit	Psalm. 106, 8-10	Ps 106:8-10	A	verse			
 bon-serm-s3	5	apparatus:p554-3	p554-3	crossref	logical	I. Sent. d. 40. a. 1. q. 2.	bon-sent-I-d40-a1-q2		chunk			
 bon-serm-s3	5	apparatus:p554-4	p554-4	crossref	logical	IV. Sent. d. 8. p. I. a. 1. q. 1	bon-sent-IV-d8-p1-a1-q1		chunk			
@@ -23584,7 +23623,7 @@ bon-serm-s3	5	apparatus:p555-3	p555-3	crossref	work	Breviloq. p. III. c. 5.	bon-
 bon-serm-s3	5	apparatus:p555-4	p555-4	scripture	apparatus-explicit	Psalm. 37, 9	Ps 37:9	A	verse			
 bon-serm-s3	5	apparatus:p555-6	p555-6	scripture	apparatus-explicit	Gen. 49, 20	Gen 49:20	A	verse			
 bon-serm-s3	5	apparatus:p555-7	p555-7	scripture	apparatus-explicit	Prov. 20, 8	Prov 20:8	A	verse			
-bon-serm-s3	5	apparatus:p555-9	p555-9	crossref	work	Hexaem.	work:hexaemeron		work			
+bon-serm-s3	5	apparatus:p555-9	p555-9	crossref	work	Hexaem. collat. 23.	bon-hex-c23		chunk			
 bon-serm-s3	5	apparatus:p555-10	p555-10	crossref	work	Breviloq. p. VI. c. 9.	bon-brev-p6-c9		chunk			
 bon-serm-s3	5	apparatus:p556-1	p556-1	scripture	apparatus-explicit	Psalm. 62, 5	Ps 62:5	A	verse			
 bon-serm-s3	5	apparatus:p556-1	p556-1	crossref	logical	IV. Sent. d. 12. p. II. a. 1. q. 1	bon-sent-IV-d12-p2-a1-q1		chunk			
@@ -23702,55 +23741,88 @@ bon-serm-s4	5	latin_body	p574-2	scripture	body-ordinal	Petri quarto	Petr* 4:10	B
 bon-serm-s4	5	latin_body	p574-3	scripture	body-ordinal	ad Corinthios primo	Cor* 1:10	B	verse			
 bon-serm-s4	5	latin_body	p574-5	scripture	body-ordinal	Proverbiorum decimo tertio	Prov 13:10	B	verse			
 bon-serm-s4	5	latin_body	p574-7	scripture	body-ordinal	Ioannis decimo sexto	Ioan 16:13	B	verse			
+bon-serm-s4	5	apparatus:p567-4	p567-4	crossref	work	Hexaëm. collat. 1.	bon-hex-c1		chunk			
 bon-serm-s4	5	apparatus:p567-7	p567-7	crossref	logical	III. Sent. d. 35. a. 1. q. 3.	bon-sent-III-d35-a1-q3		chunk			
-bon-serm-s4	5	apparatus:p568-5	p568-5	crossref	anaphor->logical	ibid.	bon-sent-III-d35-a1-q3		chunk	yes	III. Sent. d. 35. a. 1. q. 3.	
+bon-serm-s4	5	apparatus:p568-2	p568-2	crossref	work	Hexaëm. collat. 9.	bon-hex-c9		chunk			
+bon-serm-s4	5	apparatus:p568-5	p568-5	crossref	anaphor->work	ibid.	bon-hex-c9		chunk	yes	Hexaëm. collat. 9.	
 bon-serm-s4	5	apparatus:p568-11	p568-11	scripture	apparatus-explicit	I. Cor. 1, 24	1Cor 1:24	A	verse			
 bon-serm-s4	5	apparatus:p568-11	p568-11	crossref	work	Breviloq. p. V. c. 7.	bon-brev-p5-c7		chunk			
+bon-serm-s4	5	apparatus:p568-12	p568-12	crossref	work	Hexaëm. collat. 8.	bon-hex-c8		chunk			
 bon-serm-s4	5	apparatus:p568-14	p568-14	crossref	work	Itiner.	work:itinerarium		work			
 bon-serm-s4	5	apparatus:p569-2	p569-2	scripture	apparatus-explicit	Psalm. 101, 26	Ps 101:26	A	verse			
 bon-serm-s4	5	apparatus:p569-4	p569-4	scripture	apparatus-explicit	Psalm. 118, 89	Ps 118:89	A	verse			
 bon-serm-s4	5	apparatus:p569-4	p569-4	crossref	logical	III. Sent. d. 14. a. 3. q. 1.	bon-sent-III-d14-a3-q1		chunk			
+bon-serm-s4	5	apparatus:p569-8	p569-8	crossref	work	Hexaëm. collat. 4.	bon-hex-c4		chunk			
 bon-serm-s4	5	apparatus:p569-8	p569-8	crossref	page	supra pag. 314	bon-itin-scholion		chunk			
 bon-serm-s4	5	apparatus:p569-8	p569-8	crossref	work	Itiner.	work:itinerarium		work			
 bon-serm-s4	5	apparatus:p569-8	p569-8	crossref	logical	III. Sent. d. 14. a. 1. q. 1.	bon-sent-III-d14-a1-q1		chunk			
 bon-serm-s4	5	apparatus:p569-8	p569-8	crossref	anaphor->logical	ibid.	bon-sent-III-d14-a1-q1		chunk	yes	III. Sent. d. 14. a. 1. q. 1.	
 bon-serm-s4	5	apparatus:p570-1	p570-1	crossref	page	tom. II. pag. 266, nota 2	bon-sent-II-d10-a2-q2		chunk			
 bon-serm-s4	5	apparatus:p570-7	p570-7	crossref	work	Breviloq. p. V. c. 6	bon-brev-p5-c6		chunk			
+bon-serm-s4	5	apparatus:p570-7	p570-7	crossref	work	Hexaëm. collat. 2.	bon-hex-c2		chunk			
+bon-serm-s4	5	apparatus:p570-7	p570-7	crossref	work	Hexaëm. collat. 4.	bon-hex-c4		chunk			
 bon-serm-s4	5	apparatus:p570-8	p570-8	crossref	work	Itiner.	work:itinerarium		work			
 bon-serm-s4	5	apparatus:p570-9	p570-9	scripture	apparatus-explicit	Psalm. 41, 5	Ps 41:5	A	verse			
 bon-serm-s4	5	apparatus:p571-1	p571-1	crossref	work	Breviloq.	work:breviloquium		work			
+bon-serm-s4	5	apparatus:p571-1	p571-1	crossref	work	Hexaëm. collat. 3.	bon-hex-c3		chunk			
 bon-serm-s4	5	apparatus:p571-4	p571-4	crossref	work	Breviloq.	work:breviloquium		work			
 bon-serm-s4	5	apparatus:p571-4	p571-4	crossref	work	Itiner.	work:itinerarium		work			
 bon-serm-s4	5	apparatus:p571-5	p571-5	crossref	work	Breviloq. p. II. c. 11.	bon-brev-p2-c11		chunk			
 bon-serm-s4	5	apparatus:p571-8	p571-8	authority	authority:August.	I. Sent. d. 2.			excluded			
+bon-serm-s4	5	apparatus:p571-8	p571-8	crossref	work	Hexaëm. collat. 19.	bon-hex-c19		chunk			
+bon-serm-s4	5	apparatus:p571-8	p571-8	crossref	work	Hexaëm. collat. 4.	bon-hex-c4		chunk			
 bon-serm-s4	5	apparatus:p571-9	p571-9	crossref	work	Breviloq. p. II. c. 12	bon-brev-p2-c12		chunk			
 bon-serm-s4	5	apparatus:p572-2	p572-2	scripture	apparatus-explicit	I. Cor. 13, 12	1Cor 13:12	A	verse			
 bon-serm-s4	5	apparatus:p572-5	p572-5	crossref	page	supra pag. 360, nota 6	bon-hex-c6		chunk			fn-p360-6
 bon-serm-s4	5	apparatus:p572-8	p572-8	scripture	apparatus-explicit	Exod. 25, 40	Exod 25:40	A	verse			
 bon-serm-s4	5	apparatus:p573-5	p573-5	scripture	apparatus-explicit	Psalm. 118, 66	Ps 118:66	A	verse			
 bon-serm-s4	5	apparatus:p573-9	p573-9	scripture	apparatus-explicit	Rom. 13, 10	Rom 13:10	A	verse			
+bon-serm-s4	5	apparatus:p573-12	p573-12	crossref	work	Hexaëm. collat. 19.	bon-hex-c19		chunk			
+bon-serm-s4	5	apparatus:p573-15	p573-15	crossref	work	Hexaëm. collat. 1.	bon-hex-c1		chunk			
+bon-serm-s4	5	apparatus:p574-5	p574-5	crossref	work	Hexaëm. collat. 18.	bon-hex-c18		chunk			
 bon-serm-tract	5	apparatus:p574-9	p574-9	scripture	apparatus-explicit	Gen. 2, 8	Gen 2:8	A	verse			
+bon-serm-tract	5	apparatus:p574-9	p574-9	crossref	work	Hexaëm. collat. 17.	bon-hex-c17		chunk			
+bon-serm-tract	5	apparatus:p575-4	p575-4	crossref	work	Hexaëm. collat. 3.	bon-hex-c3		chunk			
+bon-serm-tract	5	apparatus:p575-5	p575-5	crossref	work	Hexaëm. collat. 13.	bon-hex-c13		chunk			
 bon-serm-tract	5	apparatus:p575-6	p575-6	crossref	work	Breviloq. p. V. c. 6.	bon-brev-p5-c6		chunk			
 bon-serm-tract	5	apparatus:p575-7	p575-7	crossref	work	Breviloq. p. II. c. 2.	bon-brev-p2-c2		chunk			
 bon-serm-tract	5	apparatus:p575-7	p575-7	crossref	work	Breviloq.	work:breviloquium		work			
+bon-serm-tract	5	apparatus:p575-7	p575-7	crossref	work	Hexaëm. collat. 20.	bon-hex-c20		chunk			
 bon-serm-tract	5	apparatus:p575-8	p575-8	scripture	apparatus-explicit	II. Cor. 12, 2-4	2Cor 12:2-4	A	verse			
 bon-serm-tract	5	apparatus:p575-8	p575-8	scripture	apparatus-explicit	Eccli. 44, 16	Eccli 44:16	A	verse			
+bon-serm-tract	5	apparatus:p575-10	p575-10	crossref	work	Hexaëm. collat. 17.	bon-hex-c17		chunk			
+bon-serm-tract	5	apparatus:p575-11	p575-11	crossref	work	Hexaëm. collat. 18.	bon-hex-c18		chunk			
+bon-serm-tract	5	apparatus:p576-1	p576-1	crossref	work	Hexaëm. collat. 21.	bon-hex-c21		chunk			
+bon-serm-tract	5	apparatus:p576-2	p576-2	crossref	work	Hexaëm. collat. 20.	bon-hex-c20		chunk			
+bon-serm-tract	5	apparatus:p576-5	p576-5	crossref	work	Hexaëm. collat. 22.	bon-hex-c22		chunk			
 bon-serm-tract	5	apparatus:p576-5	p576-5	scripture	apparatus-explicit	II. Cor. 3, 18	2Cor 3:18	A	verse			
+bon-serm-tract	5	apparatus:p576-6	p576-6	crossref	work	Hexaëm. collat. 22.	bon-hex-c22		chunk			
+bon-serm-tract	5	apparatus:p576-8	p576-8	crossref	work	Hexaëm. collat. 22.	bon-hex-c22		chunk			
 bon-serm-tract	5	apparatus:p576-9	p576-9	scripture	apparatus-explicit	Rom. 1, 21	Rom 1:21	A	verse			
+bon-serm-tract	5	apparatus:p576-9	p576-9	crossref	work	Hexaëm. collat. 22.	bon-hex-c22		chunk			
 bon-serm-tract	5	apparatus:p576-9	p576-9	crossref	work	Breviloq.	work:breviloquium		work			
 bon-serm-tract	5	apparatus:p576-10	p576-10	scripture	apparatus-explicit	Prov. 9, 9	Prov 9:9	A	verse			
 bon-serm-tract	5	apparatus:p576-10	p576-10	scripture	anaphor->apparatus-explicit	ibid. 1, 4	Prov 1:4	A	verse	yes	Prov. 9, 9	
 bon-serm-tract	5	apparatus:p577-1	p577-1	scripture	apparatus-explicit	Eccli. 1, 5	Eccli 1:5	A	verse			
+bon-serm-tract	5	apparatus:p577-2	p577-2	crossref	work	Hexaëm. collat. 1.	bon-hex-c1		chunk			
 bon-serm-tract	5	apparatus:p577-2	p577-2	crossref	work	Breviloq. p. IV. c. 1.	bon-brev-p4-c1		chunk			
 bon-serm-tract	5	apparatus:p577-3	p577-3	crossref	page	tom. I. pag. 2, nota 8	bon-sent-I-proem		chunk			fn-p2-8
+bon-serm-tract	5	apparatus:p577-4	p577-4	crossref	work	Hexaëm. collat. 17.	bon-hex-c17		chunk			
 bon-serm-tract	5	apparatus:p577-5	p577-5	scripture	apparatus-explicit	Rom. 6, 5	Rom 6:5	A	verse			
 bon-serm-tract	5	apparatus:p577-6	p577-6	scripture	apparatus-explicit	Luc. 23, 43	Luc 23:43	A	verse			
 bon-serm-tract	5	apparatus:p577-6	p577-6	scripture	apparatus-explicit	Gen. 2, 9	Gen 2:9	A	verse			
+bon-serm-tract	5	apparatus:p577-6	p577-6	crossref	work	Hexaëm. collat. 17.	bon-hex-c17		chunk			
 bon-serm-tract	5	apparatus:p577-7	p577-7	crossref	logical	II. Sent. d. 19. a. 2. q. 2.	bon-sent-II-d19-a2-q2		chunk			
+bon-serm-tract	5	apparatus:p577-7	p577-7	crossref	work	Hexaëm. collat. 17.	bon-hex-c17		chunk			
+bon-serm-tract	5	apparatus:p577-8	p577-8	crossref	work	Hexaëm. collat. 18.	bon-hex-c18		chunk			
 bon-serm-tract	5	apparatus:p577-9	p577-9	crossref	work	Itiner.	work:itinerarium		work			
 bon-serm-tract	5	apparatus:p577-9	p577-9	scripture	apparatus-explicit	Cant. 4, 12	Cant 4:12	A	verse			
+bon-serm-tract	5	apparatus:p577-11	p577-11	crossref	work	Hexaëm. collat. 17.	bon-hex-c17		chunk			
+bon-serm-tract	5	apparatus:p577-13	p577-13	crossref	work	Hexaëm. collat. 18.	bon-hex-c18		chunk			
+bon-serm-tract	5	apparatus:p578-1	p578-1	crossref	work	Hexaëm. collat. 19.	bon-hex-c19		chunk			
 bon-serm-tract	5	apparatus:p578-2	p578-2	scripture	apparatus-explicit	Ps. 18, 10	Ps 18:10	A	verse			
 bon-serm-tract	5	apparatus:p578-3	p578-3	scripture	apparatus-explicit	Ps. 85, 12	Ps 85:12	A	verse			
+bon-serm-tract	5	apparatus:p578-4	p578-4	crossref	work	Hexaëm. collat. 17.	bon-hex-c17		chunk			
 bon-serm-tract	5	apparatus:p578-5	p578-5	crossref	work	Itiner.	work:itinerarium		work			
 bon-serm-tract	5	apparatus:p578-5	p578-5	crossref	work	Breviloq. p. II. c. 12.	bon-brev-p2-c12		chunk			
 bon-serm-tract	5	apparatus:p578-5	p578-5	scripture	apparatus-explicit	Cant. 1, 6	Cant 1:6	A	verse			
@@ -23758,6 +23830,8 @@ bon-serm-tract	5	apparatus:p578-6	p578-6	crossref	work	Itiner.	work:itinerarium	
 bon-serm-tract	5	apparatus:p578-6	p578-6	crossref	logical	I. Sent. d. 3. p. II. a. 1	bon-sent-I-d3-p2-a1-q1+bon-sent-I-d3-p2-a1-q2+bon-sent-I-d3-p2-a1-q3		articulus			
 bon-serm-tract	5	apparatus:p578-6	p578-6	crossref	logical	II. Sent. d. 16.	II:d16		distinctio			
 bon-serm-tract	5	apparatus:p578-8	p578-8	crossref	work	Itiner.	work:itinerarium		work			
+bon-serm-tract	5	apparatus:p578-8	p578-8	crossref	work	Hexaëm. collat. 11.	bon-hex-c11		chunk			
+bon-serm-tract	5	apparatus:p578-9	p578-9	crossref	work	Hexaëm. collat. 20.	bon-hex-c20		chunk			
 bon-serm-tract	5	apparatus:p578-9	p578-9	crossref	work	Itiner.	work:itinerarium		work			
 bon-serm-tract	5	apparatus:p578-10	p578-10	crossref	logical	II. Sent. d. 23. a. 2. q. 3.	bon-sent-II-d23-a2-q3		chunk			
 bon-serm-tract	5	apparatus:p578-11	p578-11	scripture	apparatus-explicit	Cant. 3, 7	Cant 3:7	A	verse			
@@ -23778,7 +23852,7 @@ bon-cioan-app	6	latin_body	p633-10	scripture	body-ordinal	Iob trigesimo nono	Iob
 bon-cioan-app	6	latin_body	p634-1	scripture	body-ordinal	Ieremiae duodecimo	Ierem 12:9	B	verse			
 bon-cioan-app	6	latin_body	p634-3	scripture	body-ordinal	Isaiae quinquagesimo quarto	Isai 54:16	B	verse			
 bon-cioan-app	6	apparatus:p632-4	p632-4	scripture	apparatus-explicit	Cant. 6, 1	Cant 6:1	A	verse			
-bon-cioan-app	6	apparatus:p632-4	p632-4	scripture	apparatus-explicit	I. Petr. 4	1Petr 4	C	chapter			
+bon-cioan-app	6	apparatus:p632-4	p632-4	scripture	apparatus-explicit	I. Petr. 4. 7	1Petr 4:7	A	verse			
 bon-cioan-app	6	apparatus:p632-5	p632-5	scripture	apparatus-explicit	Ioan. 1, 5	Ioan 1:5	A	verse			
 bon-cioan-app	6	apparatus:p632-5	p632-5	scripture	apparatus-explicit	Sap. 7, 26	Sap 7:26	A	verse			
 bon-cioan-app	6	apparatus:p632-5	p632-5	scripture	apparatus-explicit	Gen. 1, 3	Gen 1:3	A	verse			
@@ -23816,6 +23890,7 @@ bon-cioan-c1	6	latin_body		scripture	body-ordinal	Habacuc tertio	Habac 3	C	chapt
 bon-cioan-c1	6	latin_body		scripture	body-ordinal	Ioannis octavo	Ioan 8	C	chapter			
 bon-cioan-c1	6	latin_body	p536-3	scripture	body-ordinal	Ioannis duodecimo	Ioan 12:46	B	verse			
 bon-cioan-c1	6	latin_body		scripture	body-ordinal	Sapientiae septimo	Sap 7	C	chapter			
+bon-cioan-c1	6	latin_body		scripture	body-ordinal	Ioannis primo	1Ioan 1	C	chapter			
 bon-cioan-c1	6	latin_body		scripture	body-ordinal	Isaiae quinquagesimo octavo	Isai 58	C	chapter			
 bon-cioan-c1	6	latin_body		scripture	body-ordinal	Threnorum tertio	Thren 3	C	chapter			
 bon-cioan-c1	6	latin_body		scripture	body-ordinal	Ecclesiastici undecimo	Eccli 11	C	chapter			
@@ -23896,7 +23971,7 @@ bon-cioan-c1	6	latin_body		scripture	body-ordinal	Ezechielis primo	Ezech 1	C	cha
 bon-cioan-c1	6	latin_body	p542-7	scripture	body-ordinal	ad Romanos quinto	Rom 5:5	B	verse			
 bon-cioan-c1	6	latin_body		scripture	body-ordinal	Lucae duodecimo	Luc 12	C	chapter			
 bon-cioan-c1	6	latin_body	p542-8	scripture	body-ordinal	ad Romanos octavo	Rom 8:26	B	verse			
-bon-cioan-c1	6	latin_body	p543-1	scripture	body-ordinal	Ioannis quarto	Ioan 4:16	B	verse			
+bon-cioan-c1	6	latin_body	p543-1	scripture	body-ordinal	Ioannis quarto	1Ioan 4:16	B	verse			
 bon-cioan-c1	6	latin_body		scripture	body-ordinal	Ioannis decimo quarto	Ioan 14	C	chapter			
 bon-cioan-c1	6	latin_body	p543-2	scripture	body-ordinal	Ioannis decimo quarto	Ioan 14:23	B	verse			
 bon-cioan-c1	6	latin_body		scripture	body-ordinal	Sapientiae primo	Sap 1	C	chapter			
@@ -24012,7 +24087,8 @@ bon-cioan-c1	6	apparatus:p540-9	p540-9	scripture	apparatus-explicit	Luc. 23, 12	
 bon-cioan-c1	6	apparatus:p541-3	p541-3	crossref	page	supra pag. 496, nota 4	bon-ioan-c19-v16-27		chunk			fn-p496-4
 bon-cioan-c1	6	apparatus:p541-4	p541-4	scripture	apparatus-explicit	Matth. 18, 2	Matth 18:2	A	verse			
 bon-cioan-c1	6	apparatus:p541-5	p541-5	scripture	apparatus-explicit	Psalm. 73, 12	Ps 73:12	A	verse			
-bon-cioan-c1	6	apparatus:p541-6	p541-6	scripture	anaphor->apparatus-explicit	ibid.	Ps 73:12	A	verse	yes	Psalm. 73, 12	
+bon-cioan-c1	6	apparatus:p541-5	p541-5	crossref	work	Hexaëm. (tom. V.) collat. 1.	bon-hex-c1		chunk			
+bon-cioan-c1	6	apparatus:p541-6	p541-6	crossref	anaphor->work	ibid.	bon-hex-c1		chunk	yes	Hexaëm. (tom. V.) collat. 1.	
 bon-cioan-c1	6	apparatus:p541-6	p541-6	crossref	page	supra pag. 248, nota 2	bon-ioan-c1-v1-2+bon-ioan-c1-v3-5		page-multi			
 bon-cioan-c1	6	apparatus:p541-7	p541-7	scripture	apparatus-explicit	Ioan. 20, 26	Ioan 20:26	A	verse			
 bon-cioan-c1	6	apparatus:p541-8	p541-8	scripture	apparatus-explicit	Apoc. 22, 1	Apoc 22:1	A	verse			
@@ -24240,7 +24316,7 @@ bon-cioan-c11	6	latin_body	p588-9	scripture	body-ordinal	Genesis vigesimo septim
 bon-cioan-c11	6	latin_body		scripture	body-ordinal	ad Thessalonicenses quinto	Thess* 5	C	chapter			
 bon-cioan-c11	6	latin_body	p588-11	scripture	body-ordinal	Iob decimo octavo	Iob 18:13	B	verse			
 bon-cioan-c11	6	latin_body		scripture	body-ordinal	Iob primo	Iob 1	C	chapter			
-bon-cioan-c11	6	latin_body		scripture	body-ordinal	Ioannis tertio	Ioan 3	C	chapter			
+bon-cioan-c11	6	latin_body		scripture	body-ordinal	Ioannis tertio	1Ioan 3	C	chapter			
 bon-cioan-c11	6	latin_body	p589-1	scripture	body-ordinal	Iob quinto	Iob 5:2	B	verse			
 bon-cioan-c11	6	latin_body		scripture	body-ordinal	Ecclesiastici trigesimo octavo	Eccli 38	C	chapter			
 bon-cioan-c11	6	latin_body		scripture	body-ordinal	ad Corinthios septimo	Cor* 7	C	chapter			
@@ -24252,6 +24328,7 @@ bon-cioan-c11	6	latin_body		scripture	body-ordinal	Proverbiorum septimo	Prov 7	C
 bon-cioan-c11	6	latin_body	p589-3	scripture	body-ordinal	Ecclesiastici vigesimo secundo	Eccli 22:10	B	verse			
 bon-cioan-c11	6	latin_body		scripture	body-ordinal	Ezechielis decimo octavo	Ezech 18	C	chapter			
 bon-cioan-c11	6	latin_body		scripture	body-ordinal	Proverbiorum undecimo	Prov 11	C	chapter			
+bon-cioan-c11	6	latin_body		scripture	body-ordinal	Ioannis quinto	1Ioan 5	C	chapter			
 bon-cioan-c11	6	latin_body	p589-5	scripture	body-ordinal	ad Romanos quinto	Rom 5:12	B	verse			
 bon-cioan-c11	6	latin_body		scripture	body-ordinal	Regum secundo	Reg* 2	C	chapter			
 bon-cioan-c11	6	latin_body		scripture	body-ordinal	Ieremiae secundo	Ierem 2	C	chapter			
@@ -24378,6 +24455,7 @@ bon-cioan-c11	6	apparatus:p589-3	p589-3	scripture	apparatus-explicit	Ezech. 18, 
 bon-cioan-c11	6	apparatus:p589-3	p589-3	scripture	apparatus-explicit	Prov. 11, 7	Prov 11:7	A	verse			
 bon-cioan-c11	6	apparatus:p589-3	p589-3	scripture	apparatus-explicit	I. Ioan. 5, 16	1Ioan 5:16	A	verse			
 bon-cioan-c11	6	apparatus:p589-4	p589-4	scripture	apparatus-explicit	Ps. 113, 17	Ps 113:17	A	verse			
+bon-cioan-c11	6	apparatus:p589-4	p589-4	crossref	cioan-unit	coll. XVIII.	bon-cioan-c4		chunk			coll-18
 bon-cioan-c11	6	apparatus:p589-5	p589-5	scripture	apparatus-explicit	I. Reg. 2, 6	1Reg 2:6	A	verse			
 bon-cioan-c11	6	apparatus:p589-5	p589-5	scripture	apparatus-explicit	Ier. 2, 6	Ierem 2:6	A	verse			
 bon-cioan-c11	6	apparatus:p589-5	p589-5	scripture	apparatus-explicit	Ps. 43, 22	Ps 43:22	A	verse			
@@ -24689,17 +24767,17 @@ bon-cioan-c14	6	latin_body		scripture	body-ordinal	ad Corinthios decimo tertio	C
 bon-cioan-c14	6	latin_body	p602-3	scripture	body-ordinal	Ieremiae trigesimo primo	Ierem 31:33	B	verse			
 bon-cioan-c14	6	latin_body	p602-4	scripture	body-ordinal	Ieremiae nono	Ierem 9:24	B	verse			
 bon-cioan-c14	6	latin_body		scripture	body-ordinal	Ioannis decimo quarto	Ioan 14	C	chapter			
-bon-cioan-c14	6	latin_body	p602-5	scripture	body-ordinal	Ioannis secundo	Ioan 2:3	B	verse			
+bon-cioan-c14	6	latin_body	p602-5	scripture	body-ordinal	Ioannis secundo	1Ioan 2:3	B	verse			
 bon-cioan-c14	6	latin_body	p602-6	scripture	body-ordinal	Ioannis primo	Ioan 1:10	B	verse			
-bon-cioan-c14	6	latin_body		scripture	body-ordinal	Ioannis quarto	Ioan 4	C	chapter			
-bon-cioan-c14	6	latin_body		scripture	body-ordinal	Ioannis secundo	Ioan 2	C	chapter			
+bon-cioan-c14	6	latin_body		scripture	body-ordinal	Ioannis quarto	1Ioan 4	C	chapter			
+bon-cioan-c14	6	latin_body		scripture	body-ordinal	Ioannis secundo	1Ioan 2	C	chapter			
 bon-cioan-c14	6	latin_body	p602-7	scripture	body-ordinal	Proverbiorum quarto	Prov 4:11	B	verse			
 bon-cioan-c14	6	latin_body		scripture	body-ordinal	Matthaei vigesimo secundo	Matth 22	C	chapter			
 bon-cioan-c14	6	latin_body		scripture	body-ordinal	Ioannis decimo	Ioan 10	C	chapter			
 bon-cioan-c14	6	latin_body		scripture	body-ordinal	Lucae decimo	Luc 10	C	chapter			
 bon-cioan-c14	6	latin_body	p602-9	scripture	body-ordinal	Ioannis decimo tertio	Ioan 13:15	B	verse			
 bon-cioan-c14	6	latin_body		scripture	body-ordinal	ad Romanos sexto	Rom 6	C	chapter			
-bon-cioan-c14	6	latin_body	p603-1	scripture	body-ordinal	Ioannis secundo	Ioan 2:1	B	verse			
+bon-cioan-c14	6	latin_body	p603-1	scripture	body-ordinal	Ioannis secundo	1Ioan 2:1	B	verse			
 bon-cioan-c14	6	latin_body		scripture	body-ordinal	Isaiae sexagesimo tertio	Isai 63	C	chapter			
 bon-cioan-c14	6	latin_body	p603-2	scripture	body-ordinal	ad Romanos octavo	Rom 8:26	B	verse			
 bon-cioan-c14	6	latin_body		scripture	body-ordinal	Matthaei decimo	Matth 10	C	chapter			
@@ -24746,20 +24824,20 @@ bon-cioan-c15	6	latin_body	p604-6	scripture	body-ordinal	Regum decimo sexto	Reg*
 bon-cioan-c15	6	latin_body		scripture	body-ordinal	ad Corinthios quinto	Cor* 5	C	chapter			
 bon-cioan-c15	6	latin_body		scripture	body-ordinal	Matthaei decimo tertio	Matth 13	C	chapter			
 bon-cioan-c15	6	latin_body		scripture	body-ordinal	Matthaei vigesimo quinto	Matth 25	C	chapter			
-bon-cioan-c15	6	latin_body	p604-7	scripture	body-ordinal	Ioannis primo	Ioan 1:9	B	verse			
+bon-cioan-c15	6	latin_body	p604-7	scripture	body-ordinal	Ioannis primo	1Ioan 1:9	B	verse			
 bon-cioan-c15	6	latin_body		scripture	body-ordinal	Malachiae tertio	Malach 3	C	chapter			
-bon-cioan-c15	6	latin_body	p604-9	scripture	body-ordinal	Ioannis quarto	Ioan 4:15	B	verse			
-bon-cioan-c15	6	latin_body		scripture	body-ordinal	Ioannis quarto	Ioan 4	C	chapter			
+bon-cioan-c15	6	latin_body	p604-9	scripture	body-ordinal	Ioannis quarto	1Ioan 4:15	B	verse			
+bon-cioan-c15	6	latin_body		scripture	body-ordinal	Ioannis quarto	1Ioan 4	C	chapter			
 bon-cioan-c15	6	latin_body		scripture	body-ordinal	Ioannis decimo quinto	Ioan 15	C	chapter			
-bon-cioan-c15	6	latin_body		scripture	body-ordinal	Ioannis secundo	Ioan 2	C	chapter			
-bon-cioan-c15	6	latin_body	p604-10	scripture	body-ordinal	Ioannis tertio	Ioan 3:21	B	verse			
+bon-cioan-c15	6	latin_body		scripture	body-ordinal	Ioannis secundo	1Ioan 2	C	chapter			
+bon-cioan-c15	6	latin_body	p604-10	scripture	body-ordinal	Ioannis tertio	1Ioan 3:21	B	verse			
 bon-cioan-c15	6	latin_body	p605-1	scripture	body-ordinal	Matthaei septimo	Matth 7:7	B	verse			
 bon-cioan-c15	6	latin_body		scripture	body-ordinal	Lucae undecimo	Luc 11	C	chapter			
 bon-cioan-c15	6	latin_body	p605-3	scripture	body-ordinal	ad Ephesios primo	Eph 1:4	B	verse			
 bon-cioan-c15	6	latin_body		scripture	body-ordinal	Canticorum quinto	Cant 5	C	chapter			
 bon-cioan-c15	6	latin_body	p605-4	scripture	body-ordinal	Ioannis primo	Ioan 1:10	B	verse			
 bon-cioan-c15	6	latin_body		scripture	body-ordinal	Ioannis tertio	Ioan 3	C	chapter			
-bon-cioan-c15	6	latin_body	p605-6	scripture	body-ordinal	Ioannis tertio	Ioan 3:15	B	verse			
+bon-cioan-c15	6	latin_body	p605-6	scripture	body-ordinal	Ioannis tertio	1Ioan 3:15	B	verse			
 bon-cioan-c15	6	latin_body		scripture	body-ordinal	Proverbiorum primo	Prov 1	C	chapter			
 bon-cioan-c15	6	latin_body	p605-7	scripture	body-ordinal	Ioannis decimo quinto	Ioan 15:23	B	verse			
 bon-cioan-c15	6	apparatus:p604-4	p604-4	scripture	apparatus-explicit	Ps. 79, 12	Ps 79:12	A	verse			
@@ -24806,7 +24884,7 @@ bon-cioan-c16	6	latin_body		scripture	body-ordinal	Proverbiorum decimo octavo	Pr
 bon-cioan-c16	6	latin_body		scripture	body-ordinal	Ioannis octavo	Ioan 8	C	chapter			
 bon-cioan-c16	6	latin_body		scripture	body-ordinal	Ioannis septimo	Ioan 7	C	chapter			
 bon-cioan-c16	6	latin_body		scripture	body-ordinal	Zachariae octavo	Zach 8	C	chapter			
-bon-cioan-c16	6	latin_body	p607-3	scripture	body-ordinal	Ioannis tertio	Ioan 3:18	B	verse			
+bon-cioan-c16	6	latin_body	p607-3	scripture	body-ordinal	Ioannis tertio	1Ioan 3:18	B	verse			
 bon-cioan-c16	6	latin_body		scripture	body-ordinal	Ioannis tertio	Ioan 3	C	chapter			
 bon-cioan-c16	6	latin_body	p607-5	scripture	body-ordinal	ad Corinthios septimo	Cor* 7:10	B	verse			
 bon-cioan-c16	6	latin_body		scripture	body-ordinal	Proverbiorum decimo	Prov 10	C	chapter			
@@ -24913,7 +24991,7 @@ bon-cioan-c17	6	apparatus:p609-7	p609-7	scripture	apparatus-explicit	Ps. 132, 1	
 bon-cioan-c17	6	apparatus:p609-8	p609-8	scripture	apparatus-explicit	Ps. 67, 7	Ps 67:7	A	verse			
 bon-cioan-c17	6	apparatus:p609-9	p609-9	scripture	apparatus-explicit	I. Cor. 12, 12	1Cor 12:12	A	verse			
 bon-cioan-c17	6	apparatus:p610-1	p610-1	crossref	logical	II. Sent. d. 27. a. 2. q. 1.	bon-sent-II-d27-a2-q1		chunk			
-bon-cioan-c17	6	apparatus:p610-1	p610-1	crossref	relative-inherited	ibid.	bon-sent-II-d27-a2-q1		chunk			
+bon-cioan-c17	6	apparatus:p610-1	p610-1	crossref	relative-inherited	ibid. q. 2	bon-sent-II-d27-a2-q2		chunk			
 bon-cioan-c17	6	apparatus:p610-2	p610-2	scripture	apparatus-explicit	Psalm. 101, 20-23	Ps 101:20-23	A	verse			
 bon-cioan-c17	6	apparatus:p610-3	p610-3	scripture	apparatus-explicit	I. Reg. 11, 7	1Reg 11:7	A	verse			
 bon-cioan-c17	6	apparatus:p610-3	p610-3	scripture	apparatus-explicit	III. Reg. 22, 17	3Reg 22:17	A	verse			
@@ -25032,8 +25110,8 @@ bon-cioan-c18	6	latin_body		scripture	body-ordinal	Ieremiae quadragesimo nono	Ie
 bon-cioan-c18	6	latin_body	p613-3	scripture	body-ordinal	Canticorum quinto	Cant 5:1	B	verse			
 bon-cioan-c18	6	latin_body	p613-4	scripture	body-ordinal	Matthaei vigesimo sexto	Matth 26:27	B	verse			
 bon-cioan-c18	6	latin_body		scripture	body-ordinal	Matthaei vigesimo	Matth 20	C	chapter			
-bon-cioan-c18	6	latin_body	p613-5	scripture	body-ordinal	Ioannis secundo	Ioan 2:23	B	verse			
-bon-cioan-c18	6	latin_body		scripture	anaphor->body-ordinal	ibid	Ioan 2:23	B	verse	yes	Ioannis secundo	
+bon-cioan-c18	6	latin_body	p613-5	scripture	body-ordinal	Ioannis secundo	1Ioan 2:23	B	verse			
+bon-cioan-c18	6	latin_body		scripture	anaphor->body-ordinal	ibid	1Ioan 2:23	B	verse	yes	Ioannis secundo	
 bon-cioan-c18	6	latin_body		scripture	body-ordinal	Iob trigesimo primo	Iob 31	C	chapter			
 bon-cioan-c18	6	latin_body	p613-7	scripture	body-ordinal	ad Titum primo	Tit 1:16	B	verse			
 bon-cioan-c18	6	latin_body	p613-8	scripture	body-ordinal	Matthaei vigesimo sexto	Matth 26:58	B	verse			
@@ -25074,7 +25152,7 @@ bon-cioan-c18	6	apparatus:p612-6	p612-6	scripture	apparatus-explicit	Isai. 1, 20
 bon-cioan-c18	6	apparatus:p612-7	p612-7	scripture	apparatus-explicit	Rom. 13, 3	Rom 13:3	A	verse			
 bon-cioan-c18	6	apparatus:p612-7	p612-7	scripture	apparatus-explicit	Ps. 44, 4	Ps 44:4	A	verse			
 bon-cioan-c18	6	apparatus:p613-1	p613-1	scripture	apparatus-explicit	Prov. 23, 29	Prov 23:29	A	verse			
-bon-cioan-c18	6	apparatus:p613-1	p613-1	scripture	apparatus-explicit	Ps. 10	Ps 10	C	chapter			
+bon-cioan-c18	6	apparatus:p613-1	p613-1	scripture	apparatus-explicit	Ps. 10. 7	Ps 10:7	A	verse			
 bon-cioan-c18	6	apparatus:p613-1	p613-1	scripture	apparatus-explicit	Apoc. 14, 9	Apoc 14:9	A	verse			
 bon-cioan-c18	6	apparatus:p613-2	p613-2	scripture	apparatus-explicit	Psalm. 22, 5	Ps 22:5	A	verse			
 bon-cioan-c18	6	apparatus:p613-2	p613-2	scripture	apparatus-explicit	Ps. 115, 13	Ps 115:13	A	verse			
@@ -25409,7 +25487,7 @@ bon-cioan-c21	6	latin_body	p630-1	scripture	body-ordinal	Actuum septimo	Act 7:55
 bon-cioan-c21	6	latin_body	p630-2	scripture	body-ordinal	ad Corinthios decimo	Cor* 10:13	B	verse			
 bon-cioan-c21	6	latin_body	p630-3	scripture	body-ordinal	Apocalypsis decimo nono	Apoc 19:11	B	verse			
 bon-cioan-c21	6	latin_body	p630-4	scripture	body-ordinal	Machabaeorum tertio	Mach* 3:25	B	verse			
-bon-cioan-c21	6	latin_body	p630-6	scripture	body-ordinal	Ioannis primo	Ioan 1:1	B	verse			
+bon-cioan-c21	6	latin_body	p630-6	scripture	body-ordinal	Ioannis primo	1Ioan 1:1	B	verse			
 bon-cioan-c21	6	latin_body		scripture	body-ordinal	Petri primo	Petr* 1	C	chapter			
 bon-cioan-c21	6	latin_body	p630-7	scripture	body-ordinal	Regum decimo	Reg* 10:24	B	verse			
 bon-cioan-c21	6	latin_body	p630-9	scripture	body-ordinal	Ioannis decimo tertio	Ioan 13:15	B	verse			
@@ -25552,14 +25630,16 @@ bon-cioan-c3	6	latin_body	p551-5	scripture	body-ordinal	Ioannis primo	Ioan 1:13	
 bon-cioan-c3	6	latin_body		scripture	body-ordinal	Ioannis tertio	Ioan 3	C	chapter			
 bon-cioan-c3	6	latin_body	p551-6	scripture	body-ordinal	ad Romanos octavo	Rom 8:17	B	verse			
 bon-cioan-c3	6	latin_body	p551-7	scripture	body-ordinal	Ioannis primo	Ioan 1:12	B	verse			
-bon-cioan-c3	6	latin_body		scripture	body-ordinal	Ioannis quinto	Ioan 5	C	chapter			
-bon-cioan-c3	6	latin_body	p551-8	scripture	body-ordinal	Ioannis quinto	Ioan 5:18	B	verse			
-bon-cioan-c3	6	latin_body		scripture	body-ordinal	Ioannis secundo	Ioan 2	C	chapter			
+bon-cioan-c3	6	latin_body		scripture	body-ordinal	Ioannis quinto	1Ioan 5	C	chapter			
+bon-cioan-c3	6	latin_body		scripture	body-ordinal	Ioannis tertio	1Ioan 3	C	chapter			
+bon-cioan-c3	6	latin_body	p551-8	scripture	body-ordinal	Ioannis quinto	1Ioan 5:18	B	verse			
+bon-cioan-c3	6	latin_body		scripture	body-ordinal	Ioannis secundo	1Ioan 2	C	chapter			
 bon-cioan-c3	6	latin_body	p552-2	scripture	body-ordinal	Ioannis tertio	Ioan 3:18	B	verse			
 bon-cioan-c3	6	latin_body		scripture	body-ordinal	Ioannis duodecimo	Ioan 12	C	chapter			
 bon-cioan-c3	6	latin_body		scripture	body-ordinal	Ioannis nono	Ioan 9	C	chapter			
 bon-cioan-c3	6	latin_body		scripture	body-ordinal	Petri quarto	Petr* 4	C	chapter			
 bon-cioan-c3	6	latin_body		scripture	body-ordinal	Apocalypsis vigesimo	Apoc 20	C	chapter			
+bon-cioan-c3	6	latin_body		scripture	body-ordinal	Ioannis quinto	Ioan 5	C	chapter			
 bon-cioan-c3	6	latin_body	p552-6	scripture	body-ordinal	Matthaei decimo nono	Matth 19:28	B	verse			
 bon-cioan-c3	6	latin_body		scripture	body-ordinal	Sapientiae tertio	Sap 3	C	chapter			
 bon-cioan-c3	6	latin_body		scripture	body-ordinal	Matthaei duodecimo	Matth 12	C	chapter			
@@ -25815,7 +25895,7 @@ bon-cioan-c4	6	apparatus:p559-3	p559-3	scripture	apparatus-explicit	Psalm. 71, 6
 bon-cioan-c4	6	apparatus:p559-3	p559-3	scripture	apparatus-explicit	Matth. 8, 7	Matth 8:7	A	verse			
 bon-cioan-c4	6	apparatus:p559-3	p559-3	scripture	apparatus-explicit	Ioan. 4, 49	Ioan 4:49	A	verse			
 bon-cioan-c4	6	apparatus:p559-3	p559-3	scripture	apparatus-explicit	Exod. 3, 7	Exod 3:7	A	verse			
-bon-cioan-c4	6	apparatus:p559-4	p559-4	scripture	apparatus-explicit	Eccli. 26	Eccli 26	C	chapter			
+bon-cioan-c4	6	apparatus:p559-4	p559-4	scripture	apparatus-explicit	Eccli. 26. 15	Eccli 26:15	A	verse			
 bon-cioan-c4	6	apparatus:p559-4	p559-4	scripture	apparatus-explicit	Isai. 65, 13	Isai 65:13	A	verse			
 bon-cioan-c4	6	apparatus:p559-4	p559-4	scripture	apparatus-explicit	Ps. 41, 3	Ps 41:3	A	verse			
 bon-cioan-c4	6	apparatus:p559-4	p559-4	scripture	apparatus-explicit	Eccli. 24, 29	Eccli 24:29	A	verse			
@@ -25877,6 +25957,7 @@ bon-cioan-c5	6	latin_body		scripture	body-ordinal	Ioannis undecimo	Ioan 11	C	cha
 bon-cioan-c5	6	latin_body		scripture	body-ordinal	Isaiae sexto	Isai 6	C	chapter			
 bon-cioan-c5	6	latin_body		scripture	body-ordinal	Iacobi primo	Iac 1	C	chapter			
 bon-cioan-c5	6	latin_body	p564-3	scripture	body-ordinal	Habacuc secundo	Habac 2:4	B	verse			
+bon-cioan-c5	6	latin_body		scripture	body-ordinal	Ioannis tertio	1Ioan 3	C	chapter			
 bon-cioan-c5	6	latin_body		scripture	body-ordinal	Proverbiorum quarto	Prov 4	C	chapter			
 bon-cioan-c5	6	latin_body		scripture	body-ordinal	Ezechielis decimo octavo	Ezech 18	C	chapter			
 bon-cioan-c5	6	latin_body	p564-5	scripture	body-ordinal	Lucae quinto	Luc 5:13	B	verse			
@@ -26089,7 +26170,7 @@ bon-cioan-c7	6	latin_body	p570-1	scripture	body-ordinal	Ioannis primo	Ioan 1:10	
 bon-cioan-c7	6	latin_body		scripture	body-ordinal	Ioannis decimo quinto	Ioan 15	C	chapter			
 bon-cioan-c7	6	latin_body		scripture	body-ordinal	Matthaei vigesimo primo	Matth 21	C	chapter			
 bon-cioan-c7	6	latin_body		scripture	body-ordinal	Iacobi quarto	Iac 4	C	chapter			
-bon-cioan-c7	6	latin_body		scripture	body-ordinal	Ioannis secundo	Ioan 2	C	chapter			
+bon-cioan-c7	6	latin_body		scripture	body-ordinal	Ioannis secundo	1Ioan 2	C	chapter			
 bon-cioan-c7	6	latin_body	p570-2	scripture	body-ordinal	Ioannis decimo quinto	Ioan 15:24	B	verse			
 bon-cioan-c7	6	latin_body	p570-3	scripture	body-ordinal	Ioannis decimo quinto	Ioan 15:19	B	verse			
 bon-cioan-c7	6	latin_body	p570-4	scripture	body-ordinal	Ioannis septimo	Ioan 7:51	B	verse			
@@ -26196,7 +26277,7 @@ bon-cioan-c8	6	latin_body	p574-2	scripture	body-ordinal	Apocalypsis duodecimo	Ap
 bon-cioan-c8	6	latin_body	p574-4	scripture	body-ordinal	Ioannis octavo	Ioan 8:26	B	verse			
 bon-cioan-c8	6	latin_body		scripture	body-ordinal	ad Galatas quarto	Gal 4	C	chapter			
 bon-cioan-c8	6	latin_body	p574-5	scripture	body-ordinal	ad Romanos octavo	Rom 8:3	B	verse			
-bon-cioan-c8	6	latin_body		scripture	body-ordinal	Ioannis quarto	Ioan 4	C	chapter			
+bon-cioan-c8	6	latin_body		scripture	body-ordinal	Ioannis quarto	1Ioan 4	C	chapter			
 bon-cioan-c8	6	latin_body		scripture	body-ordinal	Ioannis sexto	Ioan 6	C	chapter			
 bon-cioan-c8	6	latin_body	p574-8	scripture	body-ordinal	Sapientiae nono	Sap 9:10	B	verse			
 bon-cioan-c8	6	latin_body		scripture	body-ordinal	Lucae decimo quarto	Luc 14	C	chapter			
@@ -26558,7 +26639,7 @@ bon-eccl-c1-v8-11	6	apparatus:p16-3	p16-3	scripture	apparatus-explicit	Eccle. 2,
 bon-eccl-c1-v8-11	6	apparatus:p17-5	p17-5	crossref	page	tom. III. pag. 39	bon-sent-III-d2-a1-q1+bon-sent-III-d2-a1-q2		page-multi			
 bon-eccl-c1-v8-11	6	apparatus:p17-7	p17-7	crossref	logical	II. Sent. d. 15. a. 2. q. 3.	bon-sent-II-d15-a2-q3		chunk			
 bon-eccl-c1-v8-11	6	apparatus:p17-8	p17-8	scripture	apparatus-explicit	Psalm. 76, 12	Ps 76:12	A	verse			
-bon-eccl-c10-v1-3	6	latin_body	p79-6	scripture	body-ordinal	Ioannis secundo	Ioan 2:27	B	verse			
+bon-eccl-c10-v1-3	6	latin_body	p79-6	scripture	body-ordinal	Ioannis secundo	1Ioan 2:27	B	verse			
 bon-eccl-c10-v1-3	6	latin_body		scripture	body-ordinal	Proverbiorum vigesimo septimo	Prov 27	C	chapter			
 bon-eccl-c10-v1-3	6	latin_body	p79-8	scripture	body-ordinal	Matthaei vigesimo quinto	Matth 25:33	B	verse			
 bon-eccl-c10-v1-3	6	latin_body		scripture	body-ordinal	Proverbiorum decimo	Prov 10	C	chapter			
@@ -26789,7 +26870,7 @@ bon-eccl-c11-v1-10	6	latin_body	p91-8	scripture	body-ordinal	Matthaei quinto	Mat
 bon-eccl-c11-v1-10	6	latin_body		scripture	body-ordinal	ad Ephesios quarto	Eph 4	C	chapter			
 bon-eccl-c11-v1-10	6	latin_body	p91-9	scripture	body-ordinal	Iacobi primo	Iac 1:21	B	verse			
 bon-eccl-c11-v1-10	6	latin_body		scripture	body-ordinal	ad Colossenses tertio	Col 3	C	chapter			
-bon-eccl-c11-v1-10	6	latin_body	p92-1	scripture	body-ordinal	Ioannis secundo	Ioan 2:17	B	verse			
+bon-eccl-c11-v1-10	6	latin_body	p92-1	scripture	body-ordinal	Ioannis secundo	1Ioan 2:17	B	verse			
 bon-eccl-c11-v1-10	6	latin_body		scripture	body-ordinal	Sapientiae quinto	Sap 5	C	chapter			
 bon-eccl-c11-v1-10	6	apparatus:p88-1	p88-1	scripture	apparatus-explicit	I. Tim. 4, 8	1Tim 4:8	A	verse			
 bon-eccl-c11-v1-10	6	apparatus:p88-2	p88-2	scripture	apparatus-explicit	Eccli. 34, 24	Eccli 34:24	A	verse			
@@ -27031,7 +27112,7 @@ bon-eccl-c2-v1-3	6	apparatus:p21-4	p21-4	crossref	page	pag. 23	bon-eccl-c2-v4-10
 bon-eccl-c2-v11-17	6	latin_body	p24-2	scripture	body-ordinal	ad Galatas sexto	Gal 6:4	B	verse			
 bon-eccl-c2-v11-17	6	latin_body		scripture	body-ordinal	Sapientiae tertio	Sap 3	C	chapter			
 bon-eccl-c2-v11-17	6	latin_body	p24-3	scripture	body-ordinal	Ecclesiastici quadragesimo	Eccli 40:13	B	verse			
-bon-eccl-c2-v11-17	6	latin_body		scripture	body-ordinal	Ioannis secundo	Ioan 2	C	chapter			
+bon-eccl-c2-v11-17	6	latin_body		scripture	body-ordinal	Ioannis secundo	1Ioan 2	C	chapter			
 bon-eccl-c2-v11-17	6	latin_body	p24-6	scripture	body-ordinal	Ecclesiastici vigesimo quarto	Eccli 24:26	B	verse			
 bon-eccl-c2-v11-17	6	latin_body		scripture	body-ordinal	Isaiae sexagesimo quarto	Isai 64	C	chapter			
 bon-eccl-c2-v11-17	6	latin_body		scripture	body-ordinal	Iob undecimo	Iob 11	C	chapter			
@@ -27198,7 +27279,7 @@ bon-eccl-c3-v1	6	latin_body		scripture	body-ordinal	Sapientiae undecimo	Sap 11	C
 bon-eccl-c3-v1	6	latin_body		scripture	body-ordinal	ad Corinthios septimo	Cor* 7	C	chapter			
 bon-eccl-c3-v1	6	latin_body		scripture	body-ordinal	Iob decimo quarto	Iob 14	C	chapter			
 bon-eccl-c3-v1	6	latin_body	p29-2	scripture	body-ordinal	Apocalypsis vigesimo primo	Apoc 21:1	B	verse			
-bon-eccl-c3-v1	6	latin_body	p29-3	scripture	body-ordinal	Ioannis secundo	Ioan 2:17	B	verse			
+bon-eccl-c3-v1	6	latin_body	p29-3	scripture	body-ordinal	Ioannis secundo	1Ioan 2:17	B	verse			
 bon-eccl-c3-v1	6	latin_body	p29-4	scripture	body-ordinal	Matthaei vigesimo quarto	Matth 24:35	B	verse			
 bon-eccl-c3-v1	6	apparatus:p28-2	p28-2	scripture	apparatus-explicit	Sap. 11, 21	Sap 11:21	A	verse			
 bon-eccl-c3-v1	6	apparatus:p28-2	p28-2	scripture	apparatus-explicit	I. Cor. 7, 31	1Cor 7:31	A	verse			
@@ -27579,7 +27660,7 @@ bon-eccl-c5-v9-11	6	apparatus:p47-5	p47-5	scripture	apparatus-explicit	Matth. 19
 bon-eccl-c5-v9-11	6	apparatus:p47-5	p47-5	scripture	apparatus-explicit	Marc. 10	Marc 10	C	chapter			
 bon-eccl-c5-v9-11	6	apparatus:p47-5	p47-5	scripture	apparatus-explicit	Luc. 18	Luc 18	C	chapter			
 bon-eccl-c5-v9-11	6	apparatus:p47-7	p47-7	scripture	apparatus-explicit	Dan. 4, 24	Dan 4:24	A	verse			
-bon-eccl-c5-v9-11	6	apparatus:p47-7	p47-7	scripture	apparatus-explicit	I. Tim. 4	1Tim 4	C	chapter			
+bon-eccl-c5-v9-11	6	apparatus:p47-7	p47-7	scripture	apparatus-explicit	I. Tim. 4. 7	1Tim 4:7	A	verse			
 bon-eccl-c5-v9-11	6	apparatus:p47-7	p47-7	scripture	apparatus-explicit	Luc. 16, 9	Luc 16:9	A	verse			
 bon-eccl-c6-v1-7	6	latin_body	p50-2	scripture	body-ordinal	Proverbiorum tertio	Prov 3:16	B	verse			
 bon-eccl-c6-v1-7	6	latin_body		scripture	body-ordinal	Ecclesiastici decimo tertio	Eccli 13	C	chapter			
@@ -27713,7 +27794,7 @@ bon-eccl-c7-v17-23	6	latin_body	p60-3	scripture	body-ordinal	Ecclesiastici duode
 bon-eccl-c7-v17-23	6	latin_body	p60-4	scripture	body-ordinal	Ecclesiastici septimo	Eccli 7:31	B	verse			
 bon-eccl-c7-v17-23	6	latin_body		scripture	body-ordinal	Sapientiae sexto	Sap 6	C	chapter			
 bon-eccl-c7-v17-23	6	latin_body	p60-5	scripture	body-ordinal	Proverbiorum vigesimo quarto	Prov 24:16	B	verse			
-bon-eccl-c7-v17-23	6	latin_body		scripture	body-ordinal	Ioannis primo	Ioan 1	C	chapter			
+bon-eccl-c7-v17-23	6	latin_body		scripture	body-ordinal	Ioannis primo	1Ioan 1	C	chapter			
 bon-eccl-c7-v17-23	6	latin_body	p60-6	scripture	body-ordinal	Ecclesiastici decimo nono	Eccli 19:4	B	verse			
 bon-eccl-c7-v17-23	6	latin_body		scripture	body-ordinal	Ecclesiastici vigesimo octavo	Eccli 28	C	chapter			
 bon-eccl-c7-v17-23	6	latin_body		scripture	body-ordinal	Regum decimo sexto	Reg* 16	C	chapter			
@@ -27721,7 +27802,7 @@ bon-eccl-c7-v17-23	6	latin_body	p60-7	scripture	body-ordinal	Ecclesiastici trige
 bon-eccl-c7-v17-23	6	latin_body		scripture	body-ordinal	Matthaei decimo octavo	Matth 18	C	chapter			
 bon-eccl-c7-v17-23	6	latin_body	p61-4	scripture	body-ordinal	Iob decimo quarto	Iob 14:5	B	verse			
 bon-eccl-c7-v17-23	6	latin_body		scripture	body-ordinal	Regum vigesimo	Reg* 20	C	chapter			
-bon-eccl-c7-v17-23	6	latin_body	p61-10	scripture	body-ordinal	Ioannis primo	Ioan 1:8	B	verse			
+bon-eccl-c7-v17-23	6	latin_body	p61-10	scripture	body-ordinal	Ioannis primo	1Ioan 1:8	B	verse			
 bon-eccl-c7-v17-23	6	latin_body	p61-11	scripture	body-ordinal	Iob decimo septimo	Iob 17:2	B	verse			
 bon-eccl-c7-v17-23	6	apparatus:p59-11	p59-11	scripture	apparatus-explicit	Prov. 30, 33	Prov 30:33	A	verse			
 bon-eccl-c7-v17-23	6	apparatus:p59-11	p59-11	scripture	apparatus-explicit	Rom. 12, 3	Rom 12:3	A	verse			
@@ -28208,7 +28289,7 @@ bon-eccl-prooem	6	latin_body	p5-5	scripture	body-ordinal	Sapientiae secundo	Sap 
 bon-eccl-prooem	6	latin_body	p5-6	scripture	body-ordinal	ad Timotheum primo	Tim* 1:5	B	verse			
 bon-eccl-prooem	6	latin_body		scripture	body-ordinal	ad Titum primo	Tit 1	C	chapter			
 bon-eccl-prooem	6	latin_body	p6-3	scripture	body-ordinal	Iacobi quarto	Iac 4:4	B	verse			
-bon-eccl-prooem	6	latin_body	p6-4	scripture	body-ordinal	Ioannis secundo	Ioan 2:15	B	verse			
+bon-eccl-prooem	6	latin_body	p6-4	scripture	body-ordinal	Ioannis secundo	1Ioan 2:15	B	verse			
 bon-eccl-prooem	6	latin_body	p6-6	scripture	body-ordinal	Proverbiorum decimo sexto	Prov 16:4	B	verse			
 bon-eccl-prooem	6	latin_body	p6-11	scripture	body-ordinal	Genesis primo	Gen 1:31	B	verse			
 bon-eccl-prooem	6	latin_body	p7-8	scripture	body-ordinal	Ecclesiastici vigesimo	Eccli 20:22	B	verse			
@@ -28347,6 +28428,7 @@ bon-ioan-c1-v24-28	6	apparatus:p259-2	p259-2	crossref	logical	IV. Sent. d. 1. p.
 bon-ioan-c1-v24-28	6	apparatus:p259-3	p259-3	crossref	logical	IV. Sent. d. 2. a. 2. q. 2.	bon-sent-IV-d2-a2-q2		chunk			
 bon-ioan-c1-v24-28	6	apparatus:p259-7	p259-7	scripture	apparatus-explicit	Matth. 18, 20	Matth 18:20	A	verse			
 bon-ioan-c1-v24-28	6	apparatus:p259-8	p259-8	scripture	apparatus-explicit	Matth. 18, 2	Matth 18:2	A	verse			
+bon-ioan-c1-v24-28	6	apparatus:p259-12	p259-12	crossref	work	Hexaëm. (tom. V.) collat. 1.	bon-hex-c1		chunk			
 bon-ioan-c1-v24-28	6	apparatus:p259-14	p259-14	scripture	apparatus-explicit	Matth. 11, 7	Matth 11:7	A	verse			
 bon-ioan-c1-v29-30	6	latin_body	p259-17	scripture	body-ordinal	Matthaei tertio	Matth 3:13	B	verse			
 bon-ioan-c1-v29-30	6	latin_body	p260-1	scripture	body-ordinal	Isaiae decimo sexto	Isai 16:1	B	verse			
@@ -28364,7 +28446,7 @@ bon-ioan-c1-v3-5	6	latin_body		scripture	body-ordinal	Ecclesiastici vigesimo ter
 bon-ioan-c1-v3-5	6	latin_body		scripture	body-ordinal	Iacobi primo	Iac 1	C	chapter			
 bon-ioan-c1-v3-5	6	latin_body	p249-5	scripture	body-ordinal	Genesis primo	Gen 1:2	B	verse			
 bon-ioan-c1-v3-5	6	latin_body		scripture	body-ordinal	ad Ephesios quinto	Eph 5	C	chapter			
-bon-ioan-c1-v3-5	6	latin_body		scripture	body-ordinal	Ioannis primo	Ioan 1	C	chapter			
+bon-ioan-c1-v3-5	6	latin_body		scripture	body-ordinal	Ioannis primo	1Ioan 1	C	chapter			
 bon-ioan-c1-v3-5	6	apparatus:p248-6	p248-6	crossref	logical	I. Sent. d. 42. dub. 2.	bon-sent-I-d42-dubia		chunk			dub-2
 bon-ioan-c1-v3-5	6	apparatus:p248-6	p248-6	crossref	logical	II. Sent. d. 12. a. 1. q. 2.	bon-sent-II-d12-a1-q2		chunk			
 bon-ioan-c1-v3-5	6	apparatus:p248-6	p248-6	scripture	apparatus-explicit	Ps. 32, 9	Ps 32:9	A	verse			
@@ -28380,6 +28462,7 @@ bon-ioan-c1-v3-5	6	apparatus:p249-5	p249-5	scripture	apparatus-explicit	I. Ioan.
 bon-ioan-c1-v3-5	6	apparatus:p249-5	p249-5	crossref	page	supra pag. 211, nota 4	bon-sap-c16		chunk			fn-p211-4
 bon-ioan-c1-v3-5	6	apparatus:p249-6	p249-6	crossref	logical	I. Sent. d. 38. a. 2. q. 1	bon-sent-I-d38-a2-q1		chunk			
 bon-ioan-c1-v3-5	6	apparatus:p249-6	p249-6	crossref	chain-continuation	d. 39. a. 1. q. 1	bon-sent-I-d39-a1-q1		chunk			
+bon-ioan-c1-v3-5	6	apparatus:p249-6	p249-6	crossref	work	Hexaëm. collat. 6.	bon-hex-c6		chunk			
 bon-ioan-c1-v3-5	6	apparatus:p249-7	p249-7	crossref	page	supra pag. 130, nota 12	bon-sap-c3		chunk			fn-p130-12
 bon-ioan-c1-v3-5	6	apparatus:p249-8	p249-8	crossref	logical	II. Sent. d. 35.	II:d35		distinctio			
 bon-ioan-c1-v3-5	6	apparatus:p249-8	p249-8	crossref	chain-continuation	d. 37. a. 1. q. 1.	bon-sent-II-d37-a1-q1		chunk			
@@ -28416,7 +28499,7 @@ bon-ioan-c1-v35-42	6	latin_body	p262-5	scripture	body-ordinal	Apocalypsis quinto
 bon-ioan-c1-v35-42	6	latin_body	p262-7	scripture	body-ordinal	Zachariae primo	Zach 1:3	B	verse			
 bon-ioan-c1-v35-42	6	latin_body	p262-9	scripture	body-ordinal	Canticorum primo	Cant 1:6	B	verse			
 bon-ioan-c1-v35-42	6	latin_body	p262-10	scripture	body-ordinal	Matthaei octavo	Matth 8:19	B	verse			
-bon-ioan-c1-v35-42	6	latin_body	p262-12	scripture	body-ordinal	Ioannis secundo	Ioan 2:18	B	verse			
+bon-ioan-c1-v35-42	6	latin_body	p262-12	scripture	body-ordinal	Ioannis secundo	1Ioan 2:18	B	verse			
 bon-ioan-c1-v35-42	6	latin_body		scripture	body-ordinal	Lucae vigesimo secundo	Luc 22	C	chapter			
 bon-ioan-c1-v35-42	6	latin_body		scripture	body-ordinal	Matthaei decimo tertio	Matth 13	C	chapter			
 bon-ioan-c1-v35-42	6	latin_body	p263-2	scripture	body-ordinal	Genesis quadragesimo quarto	Gen 44:21	B	verse			
@@ -28512,9 +28595,9 @@ bon-ioan-c1-v9-14	6	latin_body		scripture	body-ordinal	Sapientiae septimo	Sap 7	
 bon-ioan-c1-v9-14	6	latin_body	p252-2	scripture	body-ordinal	Sapientiae decimo tertio	Sap 13:5	B	verse			
 bon-ioan-c1-v9-14	6	latin_body	p252-5	scripture	body-ordinal	Isaiae primo	Isai 1:2	B	verse			
 bon-ioan-c1-v9-14	6	latin_body	p252-6	scripture	body-ordinal	Deuteronomii vigesimo sexto	Deut 26:18	B	verse			
-bon-ioan-c1-v9-14	6	latin_body	p252-7	scripture	body-ordinal	Ioannis tertio	Ioan 3:1	B	verse			
+bon-ioan-c1-v9-14	6	latin_body	p252-7	scripture	body-ordinal	Ioannis tertio	1Ioan 3:1	B	verse			
 bon-ioan-c1-v9-14	6	latin_body	p252-8	scripture	body-ordinal	ad Romanos octavo	Rom 8:17	B	verse			
-bon-ioan-c1-v9-14	6	latin_body		scripture	body-ordinal	Ioannis quinto	Ioan 5	C	chapter			
+bon-ioan-c1-v9-14	6	latin_body		scripture	body-ordinal	Ioannis quinto	1Ioan 5	C	chapter			
 bon-ioan-c1-v9-14	6	latin_body		scripture	body-ordinal	Petri primo	Petr* 1	C	chapter			
 bon-ioan-c1-v9-14	6	latin_body	p252-11	scripture	body-ordinal	ad Philippenses secundo	Phil 2:7	B	verse			
 bon-ioan-c1-v9-14	6	latin_body	p252-12	scripture	body-ordinal	Levitici vigesimo sexto	Lev 26:11	B	verse			
@@ -28565,7 +28648,7 @@ bon-ioan-c10-v1-10	6	latin_body	p385-7	scripture	body-ordinal	Matthaei decimo no
 bon-ioan-c10-v1-10	6	latin_body	p385-9	scripture	body-ordinal	Numerorum vigesimo septimo	Num 27:16	B	verse			
 bon-ioan-c10-v1-10	6	latin_body		scripture	body-ordinal	Lucae sexto	Luc 6	C	chapter			
 bon-ioan-c10-v1-10	6	latin_body	p386-5	scripture	body-ordinal	Ieremiae vigesimo tertio	Ierem 23:21	B	verse			
-bon-ioan-c10-v1-10	6	latin_body		scripture	body-ordinal	Ioannis secundo	Ioan 2	C	chapter			
+bon-ioan-c10-v1-10	6	latin_body		scripture	body-ordinal	Ioannis secundo	1Ioan 2	C	chapter			
 bon-ioan-c10-v1-10	6	apparatus:p383-1	p383-1	crossref	page	supra pag. 86, nota 2	bon-eccl-c10-v12-20		chunk			fn-p86-2
 bon-ioan-c10-v1-10	6	apparatus:p383-4	p383-4	scripture	anaphor->body-ordinal	ibid. v. 5	Thess* 2:5	B	verse	yes	body: ad Thessalonicenses secundo	
 bon-ioan-c10-v1-10	6	apparatus:p383-5	p383-5	scripture	apparatus-explicit	III. Reg. 13, 33	3Reg 13:33	A	verse			
@@ -28619,7 +28702,7 @@ bon-ioan-c10-v11-21	6	latin_body	p388-5	scripture	body-ordinal	ad Philippenses s
 bon-ioan-c10-v11-21	6	latin_body	p388-8	scripture	body-ordinal	ad Corinthios secundo	Cor* 2:14	B	verse			
 bon-ioan-c10-v11-21	6	latin_body	p388-14	scripture	body-ordinal	ad Philippenses primo	Phil 1:18	B	verse			
 bon-ioan-c10-v11-21	6	latin_body	p388-15	scripture	body-ordinal	Lucae decimo quinto	Luc 15:17	B	verse			
-bon-ioan-c10-v11-21	6	latin_body	p389-1	scripture	body-ordinal	Ioannis tertio	Ioan 3:16	B	verse			
+bon-ioan-c10-v11-21	6	latin_body	p389-1	scripture	body-ordinal	Ioannis tertio	1Ioan 3:16	B	verse			
 bon-ioan-c10-v11-21	6	latin_body	p389-4	scripture	body-ordinal	Matthaei decimo quinto	Matth 15:24	B	verse			
 bon-ioan-c10-v11-21	6	latin_body	p389-6	scripture	body-ordinal	Matthaei decimo quinto	Matth 15	C	chapter			
 bon-ioan-c10-v11-21	6	apparatus:p386-8	p386-8	scripture	apparatus-explicit	II. Cor. 12, 15	2Cor 12:15	A	verse			
@@ -29266,10 +29349,10 @@ bon-ioan-c13-v21-30	6	apparatus:p432-9	p432-9	crossref	logical	IV. Sent. d. 11. 
 bon-ioan-c13-v21-30	6	apparatus:p433-1	p433-1	crossref	logical	II. Sent. d. 8. p. II. q. 2.	bon-sent-II-d8-p2-a1-q2		chunk			
 bon-ioan-c13-v31-38	6	latin_body	p433-4	scripture	body-ordinal	ad Philippenses secundo	Phil 2:8	B	verse			
 bon-ioan-c13-v31-38	6	latin_body	p434-1	scripture	body-ordinal	ad Romanos decimo tertio	Rom 13:8	B	verse			
-bon-ioan-c13-v31-38	6	latin_body	p434-2	scripture	body-ordinal	Ioannis tertio	Ioan 3:16	B	verse			
+bon-ioan-c13-v31-38	6	latin_body	p434-2	scripture	body-ordinal	Ioannis tertio	1Ioan 3:16	B	verse			
 bon-ioan-c13-v31-38	6	latin_body	p434-4	scripture	body-ordinal	ad Ephesios quarto	Eph 4:30	B	verse			
 bon-ioan-c13-v31-38	6	latin_body		scripture	body-ordinal	ad Romanos quinto	Rom 5	C	chapter			
-bon-ioan-c13-v31-38	6	latin_body	p435-3	scripture	body-ordinal	Ioannis secundo	Ioan 2:7	B	verse			
+bon-ioan-c13-v31-38	6	latin_body	p435-3	scripture	body-ordinal	Ioannis secundo	1Ioan 2:7	B	verse			
 bon-ioan-c13-v31-38	6	apparatus:p433-4	p433-4	scripture	apparatus-explicit	Ioan. 17, 6	Ioan 17:6	A	verse			
 bon-ioan-c13-v31-38	6	apparatus:p433-6	p433-6	scripture	apparatus-explicit	Ps. 15, 10	Ps 15:10	A	verse			
 bon-ioan-c13-v31-38	6	apparatus:p433-6	p433-6	crossref	logical	III. Sent. d. 18. a. 1. q. 3.	bon-sent-III-d18-a1-q3		chunk			
@@ -29294,8 +29377,8 @@ bon-ioan-c14-v1-14	6	latin_body	p437-10	scripture	body-ordinal	ad Corinthios dec
 bon-ioan-c14-v1-14	6	latin_body		scripture	body-ordinal	ad Corinthios duodecimo	Cor* 12	C	chapter			
 bon-ioan-c14-v1-14	6	latin_body	p438-1	scripture	body-ordinal	Genesis decimo octavo	Gen 18:2	B	verse			
 bon-ioan-c14-v1-14	6	latin_body	p438-7	scripture	body-ordinal	Matthaei decimo septimo	Matth 17:19	B	verse			
-bon-ioan-c14-v1-14	6	latin_body		scripture	body-ordinal	Ioannis secundo	Ioan 2	C	chapter			
-bon-ioan-c14-v1-14	6	latin_body		scripture	body-ordinal	Ioannis tertio	Ioan 3	C	chapter			
+bon-ioan-c14-v1-14	6	latin_body		scripture	body-ordinal	Ioannis secundo	1Ioan 2	C	chapter			
+bon-ioan-c14-v1-14	6	latin_body		scripture	body-ordinal	Ioannis tertio	1Ioan 3	C	chapter			
 bon-ioan-c14-v1-14	6	latin_body	p440-2	scripture	body-ordinal	Actuum quinto	Act 5:15	B	verse			
 bon-ioan-c14-v1-14	6	latin_body	p440-4	scripture	body-ordinal	ad Corinthios decimo tertio	Cor* 13:2	B	verse			
 bon-ioan-c14-v1-14	6	latin_body	p440-5	scripture	body-ordinal	Matthaei septimo	Matth 7:22	B	verse			
@@ -29349,7 +29432,7 @@ bon-ioan-c14-v1-14	6	apparatus:p440-6	p440-6	crossref	page	supra pag. 205, nota 
 bon-ioan-c14-v1-14	6	apparatus:p440-7	p440-7	crossref	logical	III. Sent. d. 23. a. 2. q. 2	bon-sent-III-d23-a2-q2		chunk			
 bon-ioan-c14-v1-14	6	apparatus:p440-7	p440-7	crossref	logical	I. Sent. d. 41. a. 1. q. 1.	bon-sent-I-d41-a1-q1		chunk			
 bon-ioan-c14-v1-14	6	apparatus:p440-7	p440-7	crossref	logical	II. Sent. d. 27. a. 2. q. 2.	bon-sent-II-d27-a2-q2		chunk			
-bon-ioan-c14-v15-24	6	latin_body	p441-1	scripture	body-ordinal	Ioannis secundo	Ioan 2:1	B	verse			
+bon-ioan-c14-v15-24	6	latin_body	p441-1	scripture	body-ordinal	Ioannis secundo	1Ioan 2:1	B	verse			
 bon-ioan-c14-v15-24	6	latin_body	p441-2	scripture	body-ordinal	Regum decimo sexto	Reg* 16:14	B	verse			
 bon-ioan-c14-v15-24	6	latin_body	p441-4	scripture	body-ordinal	Sapientiae primo	Sap 1:5	B	verse			
 bon-ioan-c14-v15-24	6	latin_body		scripture	body-ordinal	ad Corinthios secundo	Cor* 2	C	chapter			
@@ -29358,7 +29441,7 @@ bon-ioan-c14-v15-24	6	latin_body		scripture	body-ordinal	Sapientiae decimo quint
 bon-ioan-c14-v15-24	6	latin_body	p441-8	scripture	body-ordinal	Actuum decimo	Act 10:40	B	verse			
 bon-ioan-c14-v15-24	6	latin_body		scripture	body-ordinal	Habacuc secundo	Habac 2	C	chapter			
 bon-ioan-c14-v15-24	6	latin_body		scripture	body-ordinal	ad Corinthios tertio	Cor* 3	C	chapter			
-bon-ioan-c14-v15-24	6	latin_body		scripture	body-ordinal	Ioannis tertio	Ioan 3	C	chapter			
+bon-ioan-c14-v15-24	6	latin_body		scripture	body-ordinal	Ioannis tertio	1Ioan 3	C	chapter			
 bon-ioan-c14-v15-24	6	latin_body	p442-1	scripture	body-ordinal	Proverbiorum octavo	Prov 8:17	B	verse			
 bon-ioan-c14-v15-24	6	latin_body	p442-3	scripture	body-ordinal	Lucae sexto	Luc 6:46	B	verse			
 bon-ioan-c14-v15-24	6	latin_body	p442-4	scripture	body-ordinal	Sapientiae septimo	Sap 7:11	B	verse			
@@ -29412,6 +29495,7 @@ bon-ioan-c14-v25-31	6	apparatus:p444-10	p444-10	scripture	apparatus-explicit	Rom
 bon-ioan-c14-v25-31	6	apparatus:p445-1	p445-1	scripture	apparatus-explicit	Eph. 6, 12	Eph 6:12	A	verse			
 bon-ioan-c14-v25-31	6	apparatus:p445-1	p445-1	scripture	apparatus-explicit	Ioan. 1, 9	Ioan 1:9	A	verse			
 bon-ioan-c14-v25-31	6	apparatus:p445-1	p445-1	crossref	logical	II. Sent. d. 1. p. I. a. 2. q. 1.	bon-sent-II-d1-p1-a2-q1		chunk			
+bon-ioan-c14-v25-31	6	apparatus:p445-1	p445-1	crossref	work	Hexaëm. collat. 22.	bon-hex-c22		chunk			
 bon-ioan-c14-v25-31	6	apparatus:p445-2	p445-2	scripture	apparatus-explicit	Ioan. 10, 18	Ioan 10:18	A	verse			
 bon-ioan-c14-v25-31	6	apparatus:p445-5	p445-5	scripture	apparatus-explicit	Ps. 68, 5	Ps 68:5	A	verse			
 bon-ioan-c14-v25-31	6	apparatus:p445-9	p445-9	crossref	logical	I. Sent. d. 9. dub. 11	bon-sent-I-d9-dubia		chunk			dub-11
@@ -29427,9 +29511,9 @@ bon-ioan-c14-v25-31	6	apparatus:p446-6	p446-6	crossref	logical	II. Sent. d. 36. 
 bon-ioan-c14-v25-31	6	apparatus:p446-7	p446-7	crossref	logical	III. Sent. d. 19. a. 1. q. 2.	bon-sent-III-d19-a1-q2		chunk			
 bon-ioan-c15-v1-11	6	latin_body	p447-1	scripture	body-ordinal	ad Corinthios tertio	Cor* 3:6	B	verse			
 bon-ioan-c15-v1-11	6	latin_body	p447-2	scripture	body-ordinal	Matthaei tertio	Matth 3:10	B	verse			
-bon-ioan-c15-v1-11	6	latin_body	p447-3	scripture	body-ordinal	Ioannis primo	Ioan 1:9	B	verse			
+bon-ioan-c15-v1-11	6	latin_body	p447-3	scripture	body-ordinal	Ioannis primo	1Ioan 1:9	B	verse			
 bon-ioan-c15-v1-11	6	latin_body	p447-4	scripture	body-ordinal	Actuum decimo quinto	Act 15:9	B	verse			
-bon-ioan-c15-v1-11	6	latin_body	p447-5	scripture	body-ordinal	Ioannis quarto	Ioan 4:16	B	verse			
+bon-ioan-c15-v1-11	6	latin_body	p447-5	scripture	body-ordinal	Ioannis quarto	1Ioan 4:16	B	verse			
 bon-ioan-c15-v1-11	6	latin_body		scripture	body-ordinal	ad Ephesios primo	Eph 1	C	chapter			
 bon-ioan-c15-v1-11	6	latin_body		scripture	body-ordinal	Ioannis primo	Ioan 1	C	chapter			
 bon-ioan-c15-v1-11	6	latin_body	p447-9	scripture	body-ordinal	Isaiae vigesimo sexto	Isai 26:12	B	verse			
@@ -29440,8 +29524,8 @@ bon-ioan-c15-v1-11	6	latin_body		scripture	body-ordinal	Ezechielis decimo quinto
 bon-ioan-c15-v1-11	6	latin_body	p448-1	scripture	body-ordinal	Lucae octavo	Luc 8:13	B	verse			
 bon-ioan-c15-v1-11	6	latin_body	p448-2	scripture	body-ordinal	Matthaei quinto	Matth 5:16	B	verse			
 bon-ioan-c15-v1-11	6	latin_body		scripture	body-ordinal	ad Colossenses primo	Col 1	C	chapter			
-bon-ioan-c15-v1-11	6	latin_body	p448-4	scripture	body-ordinal	Ioannis quarto	Ioan 4:19	B	verse			
-bon-ioan-c15-v1-11	6	latin_body		scripture	body-ordinal	Ioannis secundo	Ioan 2	C	chapter			
+bon-ioan-c15-v1-11	6	latin_body	p448-4	scripture	body-ordinal	Ioannis quarto	1Ioan 4:19	B	verse			
+bon-ioan-c15-v1-11	6	latin_body		scripture	body-ordinal	Ioannis secundo	1Ioan 2	C	chapter			
 bon-ioan-c15-v1-11	6	latin_body		scripture	body-ordinal	Deuteronomii decimo	Deut 10	C	chapter			
 bon-ioan-c15-v1-11	6	latin_body		scripture	body-ordinal	Matthaei vigesimo quinto	Matth 25	C	chapter			
 bon-ioan-c15-v1-11	6	latin_body		scripture	body-ordinal	Ieremiae secundo	Ierem 2	C	chapter			
@@ -29635,7 +29719,7 @@ bon-ioan-c16-v23-33	6	latin_body	p465-7	scripture	body-ordinal	Zachariae decimo 
 bon-ioan-c16-v23-33	6	latin_body		scripture	body-ordinal	Isaiae sexagesimo tertio	Isai 63	C	chapter			
 bon-ioan-c16-v23-33	6	latin_body		scripture	body-ordinal	Actuum decimo quarto	Act 14	C	chapter			
 bon-ioan-c16-v23-33	6	latin_body	p465-10	scripture	body-ordinal	ad Corinthios decimo quinto	Cor* 15:57	B	verse			
-bon-ioan-c16-v23-33	6	latin_body		scripture	body-ordinal	Ioannis quinto	Ioan 5	C	chapter			
+bon-ioan-c16-v23-33	6	latin_body		scripture	body-ordinal	Ioannis quinto	1Ioan 5	C	chapter			
 bon-ioan-c16-v23-33	6	latin_body	p466-1	scripture	body-ordinal	ad Corinthios duodecimo	Cor* 12:9	B	verse			
 bon-ioan-c16-v23-33	6	latin_body	p466-7	scripture	body-ordinal	Matthaei decimo tertio	Matth 13:11	B	verse			
 bon-ioan-c16-v23-33	6	apparatus:p464-4	p464-4	scripture	apparatus-explicit	Iac. 1, 5	Iac 1:5	A	verse			
@@ -29672,7 +29756,7 @@ bon-ioan-c16-v5-15	6	latin_body	p458-8	scripture	body-ordinal	ad Ephesios quinto
 bon-ioan-c16-v5-15	6	latin_body	p458-9	scripture	body-ordinal	ad Ephesios sexto	Eph 6:12	B	verse			
 bon-ioan-c16-v5-15	6	latin_body	p459-1	scripture	body-ordinal	ad Philippenses secundo	Phil 2:8	B	verse			
 bon-ioan-c16-v5-15	6	latin_body	p459-3	scripture	body-ordinal	ad Corinthios tertio	Cor* 3:1	B	verse			
-bon-ioan-c16-v5-15	6	latin_body	p459-4	scripture	body-ordinal	Ioannis secundo	Ioan 2:27	B	verse			
+bon-ioan-c16-v5-15	6	latin_body	p459-4	scripture	body-ordinal	Ioannis secundo	1Ioan 2:27	B	verse			
 bon-ioan-c16-v5-15	6	latin_body		scripture	body-ordinal	ad Timotheum quarto	Tim* 4	C	chapter			
 bon-ioan-c16-v5-15	6	latin_body	p460-6	scripture	body-ordinal	ad Corinthios undecimo	Cor* 11:6	B	verse			
 bon-ioan-c16-v5-15	6	latin_body	p460-10	scripture	body-ordinal	Matthaei vigesimo secundo	Matth 22:16	B	verse			
@@ -29792,7 +29876,7 @@ bon-ioan-c17-v20-23	6	latin_body	p475-2	scripture	body-ordinal	Lucae nono	Luc 9:
 bon-ioan-c17-v20-23	6	latin_body		scripture	body-ordinal	Lucae vigesimo primo	Luc 21	C	chapter			
 bon-ioan-c17-v20-23	6	latin_body	p475-6	scripture	body-ordinal	Actuum secundo	Act 2:42	B	verse			
 bon-ioan-c17-v20-23	6	latin_body	p475-9	scripture	body-ordinal	ad Timotheum secundo	Tim* 2:19	B	verse			
-bon-ioan-c17-v20-23	6	latin_body		scripture	body-ordinal	Ioannis secundo	Ioan 2	C	chapter			
+bon-ioan-c17-v20-23	6	latin_body		scripture	body-ordinal	Ioannis secundo	1Ioan 2	C	chapter			
 bon-ioan-c17-v20-23	6	apparatus:p474-9	p474-9	scripture	apparatus-explicit	Gal. 3, 18	Gal 3:18	A	verse			
 bon-ioan-c17-v20-23	6	apparatus:p474-9	p474-9	scripture	apparatus-explicit	I. Cor. 6, 17	1Cor 6:17	A	verse			
 bon-ioan-c17-v20-23	6	apparatus:p474-10	p474-10	scripture	apparatus-explicit	Ioan. 1, 12	Ioan 1:12	A	verse			
@@ -29812,8 +29896,8 @@ bon-ioan-c17-v24-26	6	latin_body		scripture	body-ordinal	Isaiae vigesimo sexto	I
 bon-ioan-c17-v24-26	6	latin_body		scripture	body-ordinal	ad Corinthios tertio	Cor* 3	C	chapter			
 bon-ioan-c17-v24-26	6	latin_body		scripture	body-ordinal	Matthaei undecimo	Matth 11	C	chapter			
 bon-ioan-c17-v24-26	6	latin_body	p476-9	scripture	body-ordinal	ad Romanos quinto	Rom 5:5	B	verse			
-bon-ioan-c17-v24-26	6	latin_body	p476-10	scripture	body-ordinal	Ioannis quarto	Ioan 4:16	B	verse			
-bon-ioan-c17-v24-26	6	latin_body		scripture	anaphor->body-ordinal	ibid	Ioan 4:16	B	verse	yes	Ioannis quarto	
+bon-ioan-c17-v24-26	6	latin_body	p476-10	scripture	body-ordinal	Ioannis quarto	1Ioan 4:16	B	verse			
+bon-ioan-c17-v24-26	6	latin_body		scripture	anaphor->body-ordinal	ibid	1Ioan 4:16	B	verse	yes	Ioannis quarto	
 bon-ioan-c17-v24-26	6	latin_body	p477-7	scripture	body-ordinal	Ad Romanos primo	Rom 1:21	B	verse			
 bon-ioan-c17-v24-26	6	apparatus:p476-4	p476-4	scripture	apparatus-explicit	Ioan. 12, 26	Ioan 12:26	A	verse			
 bon-ioan-c17-v24-26	6	apparatus:p476-5	p476-5	scripture	anaphor->apparatus-explicit	loc. cit.	Ioan 12:26	A	verse	yes	Ioan. 12, 26	
@@ -29823,7 +29907,7 @@ bon-ioan-c17-v24-26	6	apparatus:p476-7	p476-7	scripture	apparatus-explicit	Matth
 bon-ioan-c17-v24-26	6	apparatus:p476-7	p476-7	scripture	apparatus-explicit	Ioan. 1, 9	Ioan 1:9	A	verse			
 bon-ioan-c17-v24-26	6	apparatus:p476-8	p476-8	scripture	apparatus-explicit	Psalm. 21, 23	Ps 21:23	A	verse			
 bon-ioan-c17-v24-26	6	apparatus:p476-8	p476-8	scripture	apparatus-explicit	Matth. 11, 27	Matth 11:27	A	verse			
-bon-ioan-c17-v24-26	6	apparatus:p476-10	p476-10	scripture	anaphor->body-ordinal	ibid. v. 13	Ioan 4:13	B	verse	yes	body: Ioannis quarto	
+bon-ioan-c17-v24-26	6	apparatus:p476-10	p476-10	scripture	anaphor->body-ordinal	ibid. v. 13	1Ioan 4:13	B	verse	yes	body: Ioannis quarto	
 bon-ioan-c17-v24-26	6	apparatus:p477-3	p477-3	scripture	apparatus-explicit	I. Cor. 15, 28	1Cor 15:28	A	verse			
 bon-ioan-c17-v24-26	6	apparatus:p477-3	p477-3	crossref	page	tom. IV. pag. 999, nota 1	bon-sent-IV-d49-p1-divisio+bon-sent-IV-d49-p1-littera+bon-sent-IV-d49-p2-littera		page-multi			
 bon-ioan-c17-v24-26	6	apparatus:p477-3	p477-3	crossref	page	pag. 1010, nota 3	bon-sent-IV-d49-p1-a1-q5+bon-sent-IV-d49-p1-a1-q6		page-multi			
@@ -29858,7 +29942,7 @@ bon-ioan-c18-v1-3	6	apparatus:p478-3	p478-3	scripture	apparatus-explicit	Ps. 75,
 bon-ioan-c18-v1-3	6	apparatus:p478-4	p478-4	crossref	page	supra pag. 275, nota 11	bon-ioan-c2-v12-17		chunk			fn-p275-11
 bon-ioan-c18-v1-3	6	apparatus:p478-6	p478-6	scripture	apparatus-explicit	Matth. 26, 14	Matth 26:14	A	verse			
 bon-ioan-c18-v1-3	6	apparatus:p478-8	p478-8	scripture	apparatus-explicit	Luc. 22, 24	Luc 22:24	A	verse			
-bon-ioan-c18-v1-3	6	apparatus:p478-10	p478-10	scripture	apparatus-explicit	Luc. 22	Luc 22	C	chapter			
+bon-ioan-c18-v1-3	6	apparatus:p478-10	p478-10	scripture	apparatus-explicit	Luc. 22. 39	Luc 22:39	A	verse			
 bon-ioan-c18-v1-3	6	apparatus:p478-10	p478-10	scripture	apparatus-explicit	Ioan. 18, 1	Ioan 18:1	A	verse			
 bon-ioan-c18-v1-3	6	apparatus:p478-12	p478-12	crossref	page	supra pag. 275, nota 11	bon-ioan-c2-v12-17		chunk			fn-p275-11
 bon-ioan-c18-v13-23	6	latin_body	p481-13	scripture	body-ordinal	Danielis decimo tertio	Dan 13:5	B	verse			
@@ -30123,7 +30207,7 @@ bon-ioan-c19-v28-37	6	latin_body		scripture	body-ordinal	Deuteronomii vigesimo p
 bon-ioan-c19-v28-37	6	latin_body	p501-2	scripture	body-ordinal	Apocalypsis primo	Apoc 1:5	B	verse			
 bon-ioan-c19-v28-37	6	latin_body		scripture	body-ordinal	ad Ephesios quinto	Eph 5	C	chapter			
 bon-ioan-c19-v28-37	6	latin_body	p501-3	scripture	body-ordinal	Proverbiorum duodecimo	Prov 12:17	B	verse			
-bon-ioan-c19-v28-37	6	latin_body		scripture	body-ordinal	Ioannis primo	Ioan 1	C	chapter			
+bon-ioan-c19-v28-37	6	latin_body		scripture	body-ordinal	Ioannis primo	1Ioan 1	C	chapter			
 bon-ioan-c19-v28-37	6	latin_body		scripture	body-ordinal	Exodi duodecimo	Exod 12	C	chapter			
 bon-ioan-c19-v28-37	6	latin_body	p501-5	scripture	body-ordinal	Zachariae duodecimo	Zach 12:10	B	verse			
 bon-ioan-c19-v28-37	6	latin_body		scripture	body-ordinal	Apocalypsis primo	Apoc 1	C	chapter			
@@ -30229,7 +30313,7 @@ bon-ioan-c2-v12-17	6	latin_body	p274-7	scripture	body-ordinal	Matthaei decimo	Ma
 bon-ioan-c2-v12-17	6	latin_body	p274-8	scripture	body-ordinal	ad Corinthios nono	Cor* 9	C	chapter			
 bon-ioan-c2-v12-17	6	latin_body	p274-10	scripture	body-ordinal	Matthaei tertio	Matth 3:16	B	verse			
 bon-ioan-c2-v12-17	6	latin_body		scripture	body-ordinal	ad Philippenses secundo	Phil 2	C	chapter			
-bon-ioan-c2-v12-17	6	latin_body	p274-13	scripture	body-ordinal	Ioannis secundo	Ioan 2:17	B	verse			
+bon-ioan-c2-v12-17	6	latin_body	p274-13	scripture	body-ordinal	Ioannis secundo	1Ioan 2:17	B	verse			
 bon-ioan-c2-v12-17	6	latin_body		scripture	body-ordinal	ad Corinthios septimo	Cor* 7	C	chapter			
 bon-ioan-c2-v12-17	6	latin_body	p275-5	scripture	body-ordinal	Matthaei decimo quinto	Matth 15:14	B	verse			
 bon-ioan-c2-v12-17	6	latin_body	p275-12	scripture	body-ordinal	Isaiae quadragesimo secundo	Isai 42:4	B	verse			
@@ -30385,7 +30469,7 @@ bon-ioan-c20-v26-31	6	latin_body	p516-8	scripture	body-ordinal	Petri primo	Petr*
 bon-ioan-c20-v26-31	6	latin_body		scripture	body-ordinal	Petri primo	Petr* 1	C	chapter			
 bon-ioan-c20-v26-31	6	latin_body	p516-13	scripture	body-ordinal	ad Romanos decimo quinto	Rom 15:4	B	verse			
 bon-ioan-c20-v26-31	6	latin_body	p516-14	scripture	body-ordinal	Lucae primo	Luc 1:31	B	verse			
-bon-ioan-c20-v26-31	6	latin_body		scripture	body-ordinal	Ioannis quinto	Ioan 5	C	chapter			
+bon-ioan-c20-v26-31	6	latin_body		scripture	body-ordinal	Ioannis quinto	1Ioan 5	C	chapter			
 bon-ioan-c20-v26-31	6	latin_body	p517-1	scripture	body-ordinal	ad Hebraeos undecimo	Hebr 11:6	B	verse			
 bon-ioan-c20-v26-31	6	latin_body	p517-2	scripture	body-ordinal	Actuum quarto	Act 4:12	B	verse			
 bon-ioan-c20-v26-31	6	latin_body	p518-1	scripture	body-ordinal	Apocalypsis primo	Apoc 1:7	B	verse			
@@ -30530,13 +30614,13 @@ bon-ioan-c3-v13-16	6	apparatus:p283-2	p283-2	scripture	apparatus-explicit	Eph. 2
 bon-ioan-c3-v13-16	6	apparatus:p283-3	p283-3	crossref	logical	III. Sent. d. 22. dub. 4.	bon-sent-III-d22-dubia		chunk			dub-4
 bon-ioan-c3-v13-16	6	apparatus:p283-7	p283-7	crossref	anaphor->logical	loc. cit.	bon-sent-III-d22-dubia		chunk	yes	III. Sent. d. 22. dub. 4.	
 bon-ioan-c3-v13-16	6	apparatus:p283-8	p283-8	scripture	apparatus-explicit	Matth. 10, 22	Matth 10:22	A	verse			
-bon-ioan-c3-v17-21	6	latin_body	p283-9	scripture	body-ordinal	Ioannis tertio	Ioan 3:16	B	verse			
+bon-ioan-c3-v17-21	6	latin_body	p283-9	scripture	body-ordinal	Ioannis tertio	1Ioan 3:16	B	verse			
 bon-ioan-c3-v17-21	6	latin_body	p284-1	scripture	body-ordinal	Actuum quarto	Act 4:12	B	verse			
 bon-ioan-c3-v17-21	6	latin_body		scripture	body-ordinal	Iob vigesimo quarto	Iob 24	C	chapter			
 bon-ioan-c3-v17-21	6	latin_body	p284-4	scripture	body-ordinal	Iob vigesimo quarto	Iob 24:15	B	verse			
 bon-ioan-c3-v17-21	6	latin_body		scripture	body-ordinal	ad Ephesios quinto	Eph 5	C	chapter			
 bon-ioan-c3-v17-21	6	latin_body	p284-5	scripture	body-ordinal	Matthaei quinto	Matth 5:15	B	verse			
-bon-ioan-c3-v17-21	6	latin_body	p284-6	scripture	body-ordinal	Ioannis quarto	Ioan 4:16	B	verse			
+bon-ioan-c3-v17-21	6	latin_body	p284-6	scripture	body-ordinal	Ioannis quarto	1Ioan 4:16	B	verse			
 bon-ioan-c3-v17-21	6	latin_body		scripture	body-ordinal	Matthaei quinto	Matth 5	C	chapter			
 bon-ioan-c3-v17-21	6	apparatus:p284-3	p284-3	scripture	apparatus-explicit	Ioan. 12, 46	Ioan 12:46	A	verse			
 bon-ioan-c3-v17-21	6	apparatus:p284-3	p284-3	scripture	apparatus-explicit	Iob 24, 13	Iob 24:13	A	verse			
@@ -30606,7 +30690,7 @@ bon-ioan-c3-v3-12	6	latin_body		scripture	body-ordinal	Iob nono	Iob 9	C	chapter
 bon-ioan-c3-v3-12	6	latin_body	p280-4	scripture	body-ordinal	ad Romanos sexto	Rom 6:4	B	verse			
 bon-ioan-c3-v3-12	6	latin_body	p280-6	scripture	body-ordinal	ad Hebraeos quinto	Hebr 5:12	B	verse			
 bon-ioan-c3-v3-12	6	latin_body	p280-10	scripture	body-ordinal	ad Corinthios tertio	Cor* 3:2	B	verse			
-bon-ioan-c3-v3-12	6	latin_body	p281-6	scripture	body-ordinal	Ioannis quinto	Ioan 5:1	B	verse			
+bon-ioan-c3-v3-12	6	latin_body	p281-6	scripture	body-ordinal	Ioannis quinto	1Ioan 5:1	B	verse			
 bon-ioan-c3-v3-12	6	latin_body	p281-8	scripture	body-ordinal	ad Corinthios sexto	Cor* 6:17	B	verse			
 bon-ioan-c3-v3-12	6	apparatus:p279-7	p279-7	scripture	apparatus-explicit	Apoc. 3, 14	Apoc 3:14	A	verse			
 bon-ioan-c3-v3-12	6	apparatus:p279-7	p279-7	scripture	apparatus-explicit	Ier. 28, 6	Ierem 28:6	A	verse			
@@ -30720,7 +30804,7 @@ bon-ioan-c4-v28-42	6	latin_body		scripture	body-ordinal	Petri primo	Petr* 1	C	ch
 bon-ioan-c4-v28-42	6	latin_body		scripture	body-ordinal	Matthaei vigesimo primo	Matth 21	C	chapter			
 bon-ioan-c4-v28-42	6	latin_body		scripture	body-ordinal	Matthaei octavo	Matth 8	C	chapter			
 bon-ioan-c4-v28-42	6	latin_body	p298-11	scripture	body-ordinal	ad Romanos decimo	Rom 10:17	B	verse			
-bon-ioan-c4-v28-42	6	latin_body		scripture	body-ordinal	Ioannis secundo	Ioan 2	C	chapter			
+bon-ioan-c4-v28-42	6	latin_body		scripture	body-ordinal	Ioannis secundo	1Ioan 2	C	chapter			
 bon-ioan-c4-v28-42	6	latin_body		scripture	body-ordinal	Genesis quadragesimo primo	Gen 41	C	chapter			
 bon-ioan-c4-v28-42	6	latin_body	p299-4	scripture	body-ordinal	Matthaei duodecimo	Matth 12:41	B	verse			
 bon-ioan-c4-v28-42	6	latin_body	p299-11	scripture	body-ordinal	ad Corinthios nono	Cor* 9:6	B	verse			
@@ -31020,7 +31104,7 @@ bon-ioan-c5-v40-47	6	latin_body	p317-6	scripture	body-ordinal	ad Thessalonicense
 bon-ioan-c5-v40-47	6	latin_body		scripture	body-ordinal	ad Thessalonicenses secundo	Thess* 2	C	chapter			
 bon-ioan-c5-v40-47	6	latin_body	p317-7	scripture	body-ordinal	Isaiae quadragesimo	Isai 40:6	B	verse			
 bon-ioan-c5-v40-47	6	latin_body		scripture	body-ordinal	ad Corinthios decimo	Cor* 10	C	chapter			
-bon-ioan-c5-v40-47	6	latin_body		scripture	body-ordinal	Ioannis secundo	Ioan 2	C	chapter			
+bon-ioan-c5-v40-47	6	latin_body		scripture	body-ordinal	Ioannis secundo	1Ioan 2	C	chapter			
 bon-ioan-c5-v40-47	6	latin_body	p317-11	scripture	body-ordinal	Deuteronomii decimo octavo	Deut 18:15	B	verse			
 bon-ioan-c5-v40-47	6	latin_body	p317-12	scripture	body-ordinal	Lucae decimo sexto	Luc 16:31	B	verse			
 bon-ioan-c5-v40-47	6	latin_body	p318-2	scripture	body-ordinal	ad Philippenses primo	Phil 1:20	B	verse			
@@ -31167,7 +31251,8 @@ bon-ioan-c6-v22-33	6	apparatus:p325-10	p325-10	scripture	apparatus-explicit	Isai
 bon-ioan-c6-v22-33	6	apparatus:p325-10	p325-10	scripture	apparatus-explicit	Ioan. 6, 69	Ioan 6:69	A	verse			
 bon-ioan-c6-v22-33	6	apparatus:p325-13	p325-13	scripture	apparatus-explicit	Coloss. 1, 18	Col 1:18	A	verse			
 bon-ioan-c6-v22-33	6	apparatus:p325-14	p325-14	crossref	relative-bare	ibid. 3, 34			unresolvable			
-bon-ioan-c6-v22-33	6	apparatus:p325-15	p325-15	scripture	apparatus-explicit	Exod 13	Exod 13	C	chapter			
+bon-ioan-c6-v22-33	6	apparatus:p325-15	p325-15	crossref	work	Hexaëm. (tom. V.) collat. 14	bon-hex-c14		chunk			
+bon-ioan-c6-v22-33	6	apparatus:p325-15	p325-15	scripture	apparatus-explicit	Exod 13. 9	Exod 13:9	A	verse			
 bon-ioan-c6-v22-33	6	apparatus:p326-2	p326-2	scripture	apparatus-explicit	Prov. 12, 11	Prov 12:11	A	verse			
 bon-ioan-c6-v22-33	6	apparatus:p326-3	p326-3	scripture	apparatus-explicit	Gen. 15, 6	Gen 15:6	A	verse			
 bon-ioan-c6-v22-33	6	apparatus:p326-5	p326-5	scripture	apparatus-explicit	Psalm. 77, 25	Ps 77:25	A	verse			
@@ -31197,6 +31282,7 @@ bon-ioan-c6-v34-40	6	latin_body	p328-10	scripture	body-ordinal	ad Ephesios secun
 bon-ioan-c6-v34-40	6	latin_body		scripture	body-ordinal	ad Corinthios decimo quinto	Cor* 15	C	chapter			
 bon-ioan-c6-v34-40	6	apparatus:p327-14	p327-14	scripture	apparatus-explicit	Matth. 11, 28	Matth 11:28	A	verse			
 bon-ioan-c6-v34-40	6	apparatus:p327-15	p327-15	scripture	apparatus-explicit	Ioan. 4, 13	Ioan 4:13	A	verse			
+bon-ioan-c6-v34-40	6	apparatus:p328-1	p328-1	crossref	work	Hexaëm. collat. 17.	bon-hex-c17		chunk			
 bon-ioan-c6-v34-40	6	apparatus:p328-2	p328-2	crossref	relative-bare	ibid. 5, 44			unresolvable			
 bon-ioan-c6-v34-40	6	apparatus:p328-4	p328-4	scripture	apparatus-explicit	Psalm. 2, 8	Ps 2:8	A	verse			
 bon-ioan-c6-v34-40	6	apparatus:p328-4	p328-4	scripture	apparatus-explicit	Ioan. 17, 11	Ioan 17:11	A	verse			
@@ -31230,7 +31316,7 @@ bon-ioan-c6-v41-52	6	latin_body	p330-7	scripture	body-ordinal	Proverbiorum terti
 bon-ioan-c6-v41-52	6	latin_body	p330-8	scripture	body-ordinal	Deuteronomii octavo	Deut 8:3	B	verse			
 bon-ioan-c6-v41-52	6	latin_body		scripture	body-ordinal	ad Hebraeos quarto	Hebr 4	C	chapter			
 bon-ioan-c6-v41-52	6	latin_body		scripture	body-ordinal	Habacuc secundo	Habac 2	C	chapter			
-bon-ioan-c6-v41-52	6	latin_body		scripture	body-ordinal	Ioannis tertio	Ioan 3	C	chapter			
+bon-ioan-c6-v41-52	6	latin_body		scripture	body-ordinal	Ioannis tertio	1Ioan 3	C	chapter			
 bon-ioan-c6-v41-52	6	latin_body		scripture	body-ordinal	Exodi tertio	Exod 3	C	chapter			
 bon-ioan-c6-v41-52	6	latin_body	p330-11	scripture	body-ordinal	Canticorum quinto	Cant 5:1	B	verse			
 bon-ioan-c6-v41-52	6	latin_body		scripture	body-ordinal	Genesis tertio	Gen 3	C	chapter			
@@ -31258,6 +31344,7 @@ bon-ioan-c6-v41-52	6	apparatus:p330-9	p330-9	scripture	apparatus-explicit	I. Ioa
 bon-ioan-c6-v41-52	6	apparatus:p330-10	p330-10	scripture	apparatus-explicit	Exod. 3, 7	Exod 3:7	A	verse			
 bon-ioan-c6-v41-52	6	apparatus:p330-11	p330-11	scripture	apparatus-explicit	Gen. 3, 22	Gen 3:22	A	verse			
 bon-ioan-c6-v41-52	6	apparatus:p331-1	p331-1	scripture	apparatus-explicit	Prov. 9, 7	Prov 9:7	A	verse			
+bon-ioan-c6-v41-52	6	apparatus:p331-6	p331-6	crossref	work	Hexaëm. collat. 2.	bon-hex-c2		chunk			
 bon-ioan-c6-v41-52	6	apparatus:p331-7	p331-7	crossref	page	tom. II. pag. 618, nota 2	bon-sent-II-d25-p2-a1-q4+bon-sent-II-d25-p2-a1-q5		page-multi			
 bon-ioan-c6-v41-52	6	apparatus:p331-9	p331-9	crossref	work	Itinerar.	work:itinerarium		work			
 bon-ioan-c6-v41-52	6	apparatus:p331-10	p331-10	crossref	logical	II. Sent. d. 25. p. II. q. 5.	bon-sent-II-d25-p2-a1-q5		chunk			
@@ -31277,7 +31364,7 @@ bon-ioan-c6-v53-59	6	latin_body		scripture	body-ordinal	Isaiae quinquagesimo	Isa
 bon-ioan-c6-v53-59	6	latin_body		scripture	body-ordinal	ad Ephesios quinto	Eph 5	C	chapter			
 bon-ioan-c6-v53-59	6	latin_body	p332-9	scripture	body-ordinal	ad Timotheum secundo	Tim* 2:24	B	verse			
 bon-ioan-c6-v53-59	6	latin_body	p333-3	scripture	body-ordinal	Isaiae quinquagesimo quinto	Isai 55:2	B	verse			
-bon-ioan-c6-v53-59	6	latin_body	p333-6	scripture	body-ordinal	Ioannis quarto	Ioan 4:16	B	verse			
+bon-ioan-c6-v53-59	6	latin_body	p333-6	scripture	body-ordinal	Ioannis quarto	1Ioan 4:16	B	verse			
 bon-ioan-c6-v53-59	6	latin_body		scripture	body-ordinal	Numerorum decimo quarto	Num 14	C	chapter			
 bon-ioan-c6-v53-59	6	latin_body	p333-12	scripture	body-ordinal	ad Corinthios undecimo	Cor* 11:29	B	verse			
 bon-ioan-c6-v53-59	6	latin_body	p333-13	scripture	body-ordinal	Matthaei decimo	Matth 10:37	B	verse			
@@ -31335,7 +31422,7 @@ bon-ioan-c6-v60-72	6	apparatus:p337-1	p337-1	scripture	apparatus-explicit	Iac. 1
 bon-ioan-c6-v60-72	6	apparatus:p337-4	p337-4	scripture	apparatus-explicit	Luc. 9, 62	Luc 9:62	A	verse			
 bon-ioan-c6-v60-72	6	apparatus:p337-6	p337-6	scripture	apparatus-explicit	Ps. 85, 8	Ps 85:8	A	verse			
 bon-ioan-c6-v60-72	6	apparatus:p337-7	p337-7	scripture	apparatus-explicit	Matth. 16, 16	Matth 16:16	A	verse			
-bon-ioan-c6-v60-72	6	apparatus:p337-7	p337-7	scripture	apparatus-explicit	Ioan. 11	Ioan 11	C	chapter			
+bon-ioan-c6-v60-72	6	apparatus:p337-7	p337-7	scripture	apparatus-explicit	Ioan. 11. 27	Ioan 11:27	A	verse			
 bon-ioan-c6-v60-72	6	apparatus:p337-7	p337-7	scripture	apparatus-explicit	Isai. 7, 9	Isai 7:9	A	verse			
 bon-ioan-c6-v60-72	6	apparatus:p337-8	p337-8	scripture	apparatus-explicit	Ps. 108, 6	Ps 108:6	A	verse			
 bon-ioan-c6-v60-72	6	apparatus:p337-10	p337-10	scripture	apparatus-explicit	Luc. 6, 13	Luc 6:13	A	verse			
@@ -31413,7 +31500,7 @@ bon-ioan-c7-v1-13	6	apparatus:p342-5	p342-5	crossref	page	supra pag. 72, nota 7	
 bon-ioan-c7-v1-13	6	apparatus:p342-7	p342-7	crossref	page	supra pag. 272	bon-ioan-c2-v1-11		chunk			
 bon-ioan-c7-v14-18	6	latin_body	p342-13	scripture	body-ordinal	Proverbiorum trigesimo	Prov 30:3	B	verse			
 bon-ioan-c7-v14-18	6	latin_body		scripture	body-ordinal	Lucae secundo	Luc 2	C	chapter			
-bon-ioan-c7-v14-18	6	latin_body	p343-2	scripture	body-ordinal	Ioannis secundo	Ioan 2:4	B	verse			
+bon-ioan-c7-v14-18	6	latin_body	p343-2	scripture	body-ordinal	Ioannis secundo	1Ioan 2:4	B	verse			
 bon-ioan-c7-v14-18	6	latin_body	p343-3	scripture	body-ordinal	Isaiae quadragesimo octavo	Isai 48:11	B	verse			
 bon-ioan-c7-v14-18	6	latin_body		scripture	body-ordinal	ad Timotheum primo	Tim* 1	C	chapter			
 bon-ioan-c7-v14-18	6	latin_body	p343-5	scripture	body-ordinal	ad Thessalonicenses secundo	Thess* 2:4	B	verse			
@@ -31648,10 +31735,10 @@ bon-ioan-c8-v12-20	6	latin_body		scripture	body-ordinal	Proverbiorum duodecimo	P
 bon-ioan-c8-v12-20	6	latin_body	p358-11	scripture	body-ordinal	ad Corinthios tertio	Cor* 3:3	B	verse			
 bon-ioan-c8-v12-20	6	latin_body	p358-13	scripture	body-ordinal	Isaiae undecimo	Isai 11:3	B	verse			
 bon-ioan-c8-v12-20	6	latin_body	p358-15	scripture	body-ordinal	Deuteronomii decimo nono	Deut 19:15	B	verse			
-bon-ioan-c8-v12-20	6	latin_body	p358-16	scripture	body-ordinal	Ioannis quinto	Ioan 5:7	B	verse			
+bon-ioan-c8-v12-20	6	latin_body	p358-16	scripture	body-ordinal	Ioannis quinto	1Ioan 5:7	B	verse			
 bon-ioan-c8-v12-20	6	latin_body	p359-1	scripture	body-ordinal	Ieremiae vigesimo tertio	Ierem 23:24	B	verse			
 bon-ioan-c8-v12-20	6	latin_body		scripture	body-ordinal	Matthaei undecimo	Matth 11	C	chapter			
-bon-ioan-c8-v12-20	6	latin_body		scripture	body-ordinal	Ioannis secundo	Ioan 2	C	chapter			
+bon-ioan-c8-v12-20	6	latin_body		scripture	body-ordinal	Ioannis secundo	1Ioan 2	C	chapter			
 bon-ioan-c8-v12-20	6	latin_body	p359-5	scripture	body-ordinal	Lucae vigesimo primo	Luc 21:1	B	verse			
 bon-ioan-c8-v12-20	6	latin_body	p359-6	scripture	body-ordinal	Matthaei vigesimo septimo	Matth 27:6	B	verse			
 bon-ioan-c8-v12-20	6	latin_body		scripture	body-ordinal	Regum decimo sexto	Reg* 16	C	chapter			
@@ -31788,12 +31875,12 @@ bon-ioan-c8-v37-50	6	latin_body		scripture	body-ordinal	Ieremiae vigesimo tertio
 bon-ioan-c8-v37-50	6	latin_body		scripture	body-ordinal	Exodi quarto	Exod 4	C	chapter			
 bon-ioan-c8-v37-50	6	latin_body	p366-10	scripture	body-ordinal	Sapientiae secundo	Sap 2:15	B	verse			
 bon-ioan-c8-v37-50	6	latin_body	p366-11	scripture	body-ordinal	Ezechielis decimo sexto	Ezech 16:3	B	verse			
-bon-ioan-c8-v37-50	6	latin_body		scripture	body-ordinal	Ioannis tertio	Ioan 3	C	chapter			
+bon-ioan-c8-v37-50	6	latin_body		scripture	body-ordinal	Ioannis tertio	1Ioan 3	C	chapter			
 bon-ioan-c8-v37-50	6	latin_body	p366-13	scripture	body-ordinal	Genesis tertio	Gen 3:4	B	verse			
 bon-ioan-c8-v37-50	6	latin_body		scripture	body-ordinal	Sapientiae secundo	Sap 2	C	chapter			
 bon-ioan-c8-v37-50	6	latin_body	p367-2	scripture	body-ordinal	Isaiae decimo quarto	Isai 14:12	B	verse			
 bon-ioan-c8-v37-50	6	latin_body		scripture	body-ordinal	Ezechielis vigesimo octavo	Ezech 28	C	chapter			
-bon-ioan-c8-v37-50	6	latin_body	p367-6	scripture	body-ordinal	Ioannis quarto	Ioan 4:6	B	verse			
+bon-ioan-c8-v37-50	6	latin_body	p367-6	scripture	body-ordinal	Ioannis quarto	1Ioan 4:6	B	verse			
 bon-ioan-c8-v37-50	6	latin_body	p367-7	scripture	body-ordinal	Ecclesiastici tertio	Eccli 3:31	B	verse			
 bon-ioan-c8-v37-50	6	latin_body		scripture	body-ordinal	Actuum septimo	Act 7	C	chapter			
 bon-ioan-c8-v37-50	6	latin_body	p367-10	scripture	body-ordinal	Matthaei duodecimo	Matth 12:24	B	verse			
@@ -31838,7 +31925,7 @@ bon-ioan-c8-v51-59	6	latin_body		scripture	body-ordinal	ad Corinthios decimo	Cor
 bon-ioan-c8-v51-59	6	latin_body		scripture	body-ordinal	Petri primo	Petr* 1	C	chapter			
 bon-ioan-c8-v51-59	6	latin_body	p370-8	scripture	body-ordinal	Exodi tertio	Exod 3:6	B	verse			
 bon-ioan-c8-v51-59	6	latin_body	p370-9	scripture	body-ordinal	ad Titum primo	Tit 1:16	B	verse			
-bon-ioan-c8-v51-59	6	latin_body	p370-11	scripture	body-ordinal	Ioannis secundo	Ioan 2:4	B	verse			
+bon-ioan-c8-v51-59	6	latin_body	p370-11	scripture	body-ordinal	Ioannis secundo	1Ioan 2:4	B	verse			
 bon-ioan-c8-v51-59	6	latin_body		scripture	body-ordinal	Genesis decimo octavo	Gen 18	C	chapter			
 bon-ioan-c8-v51-59	6	latin_body		scripture	body-ordinal	Lucae decimo	Luc 10	C	chapter			
 bon-ioan-c8-v51-59	6	latin_body	p370-13	scripture	body-ordinal	Genesis duodecimo	Gen 12:1	B	verse			
@@ -31873,7 +31960,7 @@ bon-ioan-c9-v1-11	6	latin_body		scripture	body-ordinal	Exodi vigesimo	Exod 20	C	
 bon-ioan-c9-v1-11	6	latin_body		scripture	body-ordinal	Apocalypsis decimo quarto	Apoc 14	C	chapter			
 bon-ioan-c9-v1-11	6	latin_body	p373-4	scripture	body-ordinal	Apocalypsis tertio	Apoc 3:18	B	verse			
 bon-ioan-c9-v1-11	6	latin_body	p373-8	scripture	body-ordinal	Ecclesiastici vigesimo quarto	Eccli 24:5	B	verse			
-bon-ioan-c9-v1-11	6	latin_body	p373-11	scripture	body-ordinal	Ioannis secundo	Ioan 2:27	B	verse			
+bon-ioan-c9-v1-11	6	latin_body	p373-11	scripture	body-ordinal	Ioannis secundo	1Ioan 2:27	B	verse			
 bon-ioan-c9-v1-11	6	latin_body	p373-12	scripture	body-ordinal	Isaiae octavo	Isai 8:6	B	verse			
 bon-ioan-c9-v1-11	6	latin_body		scripture	body-ordinal	Proverbiorum vigesimo octavo	Prov 28	C	chapter			
 bon-ioan-c9-v1-11	6	latin_body	p374-2	scripture	body-ordinal	Ieremiae trigesimo primo	Ierem 31:21	B	verse			
@@ -31907,6 +31994,7 @@ bon-ioan-c9-v1-11	6	apparatus:p373-9	p373-9	scripture	apparatus-explicit	Ps. 84,
 bon-ioan-c9-v1-11	6	apparatus:p373-10	p373-10	scripture	apparatus-explicit	Ioan. 1, 14	Ioan 1:14	A	verse			
 bon-ioan-c9-v1-11	6	apparatus:p373-10	p373-10	crossref	page	tom. V. pag. 413, nota 10	bon-hex-c17		chunk			fn-p413-10
 bon-ioan-c9-v1-11	6	apparatus:p373-12	p373-12	crossref	page	supra pag. 290, nota 13	bon-ioan-c4-v1-6		chunk			fn-p290-13
+bon-ioan-c9-v1-11	6	apparatus:p373-12	p373-12	crossref	work	Hexaëm. collat. 17.	bon-hex-c17		chunk			
 bon-ioan-c9-v1-11	6	apparatus:p374-1	p374-1	scripture	apparatus-explicit	Psalm. 37, 6	Ps 37:6	A	verse			
 bon-ioan-c9-v1-11	6	apparatus:p374-1	p374-1	scripture	apparatus-explicit	Prov. 28	Prov 28	C	chapter			
 bon-ioan-c9-v1-11	6	apparatus:p374-2	p374-2	scripture	apparatus-explicit	Isai. 38, 15	Isai 38:15	A	verse			
@@ -31962,7 +32050,7 @@ bon-ioan-c9-v12-34	6	latin_body	p379-4	scripture	body-ordinal	Exodi trigesimo te
 bon-ioan-c9-v12-34	6	latin_body	p379-7	scripture	body-ordinal	Isaiae sexto	Isai 6:9	B	verse			
 bon-ioan-c9-v12-34	6	latin_body		scripture	body-ordinal	Isaiae primo	Isai 1	C	chapter			
 bon-ioan-c9-v12-34	6	latin_body		scripture	body-ordinal	Iob octavo	Iob 8	C	chapter			
-bon-ioan-c9-v12-34	6	latin_body		scripture	body-ordinal	Ioannis tertio	Ioan 3	C	chapter			
+bon-ioan-c9-v12-34	6	latin_body		scripture	body-ordinal	Ioannis tertio	1Ioan 3	C	chapter			
 bon-ioan-c9-v12-34	6	latin_body	p379-12	scripture	body-ordinal	Lucae decimo octavo	Luc 18:11	B	verse			
 bon-ioan-c9-v12-34	6	latin_body		scripture	body-ordinal	Actuum septimo	Act 7	C	chapter			
 bon-ioan-c9-v12-34	6	latin_body	p380-3	scripture	body-ordinal	Matthaei septimo	Matth 7:22	B	verse			
@@ -32120,7 +32208,7 @@ bon-sap-c1	6	latin_body	p111-10	scripture	body-ordinal	ad Ephesios quarto	Eph 4:
 bon-sap-c1	6	latin_body		scripture	body-ordinal	ad Corinthios sexto	Cor* 6	C	chapter			
 bon-sap-c1	6	latin_body		scripture	body-ordinal	ad Ephesios quarto	Eph 4	C	chapter			
 bon-sap-c1	6	latin_body	p111-11	scripture	body-ordinal	Canticorum tertio	Cant 3:4	B	verse			
-bon-sap-c1	6	latin_body	p112-1	scripture	body-ordinal	Ioannis tertio	Ioan 3:2	B	verse			
+bon-sap-c1	6	latin_body	p112-1	scripture	body-ordinal	Ioannis tertio	1Ioan 3:2	B	verse			
 bon-sap-c1	6	latin_body		scripture	body-ordinal	ad Colossenses tertio	Col 3	C	chapter			
 bon-sap-c1	6	latin_body		scripture	body-ordinal	Matthaei decimo sexto	Matth 16	C	chapter			
 bon-sap-c1	6	latin_body		scripture	body-ordinal	Matthaei vigesimo secundo	Matth 22	C	chapter			
@@ -32196,7 +32284,7 @@ bon-sap-c1	6	apparatus:p111-5	p111-5	scripture	apparatus-explicit	Eccli. 33, 25	
 bon-sap-c1	6	apparatus:p111-6	p111-6	scripture	apparatus-explicit	I. Cor. 9, 27	1Cor 9:27	A	verse			
 bon-sap-c1	6	apparatus:p111-8	p111-8	scripture	apparatus-explicit	Iac. 1, 8	Iac 1:8	A	verse			
 bon-sap-c1	6	apparatus:p111-8	p111-8	scripture	apparatus-explicit	Eccli. 2, 14	Eccli 2:14	A	verse			
-bon-sap-c1	6	apparatus:p111-9	p111-9	scripture	apparatus-explicit	Eccli. 30	Eccli 30	C	chapter			
+bon-sap-c1	6	apparatus:p111-9	p111-9	scripture	apparatus-explicit	Eccli. 30. 24	Eccli 30:24	A	verse			
 bon-sap-c1	6	apparatus:p111-10	p111-10	scripture	apparatus-explicit	I. Cor. 6, 17	1Cor 6:17	A	verse			
 bon-sap-c1	6	apparatus:p111-10	p111-10	scripture	apparatus-explicit	Eph. 4, 3	Eph 4:3	A	verse			
 bon-sap-c1	6	apparatus:p111-11	p111-11	scripture	apparatus-explicit	Matth. 22, 18	Matth 22:18	A	verse			
@@ -32283,7 +32371,7 @@ bon-sap-c10	6	latin_body	p171-9	scripture	body-ordinal	Genesis tertio	Gen 3:6	B	
 bon-sap-c10	6	latin_body		scripture	body-ordinal	Ecclesiastici decimo septimo	Eccli 17	C	chapter			
 bon-sap-c10	6	latin_body	p172-3	scripture	body-ordinal	Proverbiorum primo	Prov 1:7	B	verse			
 bon-sap-c10	6	latin_body	p172-4	scripture	body-ordinal	Genesis quarto	Gen 4:6	B	verse			
-bon-sap-c10	6	latin_body		scripture	body-ordinal	Ioannis tertio	Ioan 3	C	chapter			
+bon-sap-c10	6	latin_body		scripture	body-ordinal	Ioannis tertio	1Ioan 3	C	chapter			
 bon-sap-c10	6	latin_body	p172-5	scripture	body-ordinal	Genesis quarto	Gen 4:8	B	verse			
 bon-sap-c10	6	latin_body		scripture	body-ordinal	Genesis sexto	Gen 6	C	chapter			
 bon-sap-c10	6	latin_body	p172-7	scripture	body-ordinal	Genesis sexto	Gen 6:7	B	verse			
@@ -32635,7 +32723,7 @@ bon-sap-c12	6	latin_body		scripture	body-ordinal	Ieremiae quinto	Ierem 5	C	chapt
 bon-sap-c12	6	latin_body	p186-6	scripture	body-ordinal	Ieremiae vigesimo tertio	Ierem 23:29	B	verse			
 bon-sap-c12	6	latin_body	p186-7	scripture	body-ordinal	Deuteronomii septimo	Deut 7:22	B	verse			
 bon-sap-c12	6	latin_body	p186-8	scripture	body-ordinal	Iob vigesimo quarto	Iob 24:23	B	verse			
-bon-sap-c12	6	latin_body		scripture	body-ordinal	Ioannis primo	Ioan 1	C	chapter			
+bon-sap-c12	6	latin_body		scripture	body-ordinal	Ioannis primo	1Ioan 1	C	chapter			
 bon-sap-c12	6	latin_body		scripture	body-ordinal	Ieremiae decimo tertio	Ierem 13	C	chapter			
 bon-sap-c12	6	latin_body		scripture	body-ordinal	Threnorum primo	Thren 1	C	chapter			
 bon-sap-c12	6	latin_body	p187-2	scripture	body-ordinal	Genesis nono	Gen 9:25	B	verse			
@@ -32687,7 +32775,7 @@ bon-sap-c12	6	latin_body	p191-1	scripture	body-ordinal	Exodi duodecimo	Exod 12:3
 bon-sap-c12	6	latin_body		scripture	body-ordinal	Iosue nono	Ios 9	C	chapter			
 bon-sap-c12	6	latin_body	p191-3	scripture	body-ordinal	Ecclesiastici trigesimo tertio	Eccli 33:5	B	verse			
 bon-sap-c12	6	latin_body		scripture	body-ordinal	Baruch tertio	Baruch 3	C	chapter			
-bon-sap-c12	6	latin_body	p191-4	scripture	body-ordinal	Ioannis quarto	Ioan 4:12	B	verse			
+bon-sap-c12	6	latin_body	p191-4	scripture	body-ordinal	Ioannis quarto	1Ioan 4:12	B	verse			
 bon-sap-c12	6	latin_body		scripture	body-ordinal	Exodi quinto	Exod 5	C	chapter			
 bon-sap-c12	6	latin_body	p191-5	scripture	body-ordinal	Iacobi secundo	Iac 2:19	B	verse			
 bon-sap-c12	6	latin_body		scripture	body-ordinal	Isaiae vigesimo sexto	Isai 26	C	chapter			
@@ -32799,7 +32887,7 @@ bon-sap-c12	6	apparatus:p191-7	p191-7	scripture	apparatus-explicit	Ps. 10, 7	Ps 
 bon-sap-c13	6	latin_body		scripture	body-ordinal	Ieremiae secundo	Ierem 2	C	chapter			
 bon-sap-c13	6	latin_body	p192-2	scripture	body-ordinal	ad Romanos primo	Rom 1:21	B	verse			
 bon-sap-c13	6	latin_body		scripture	body-ordinal	Ieremiae quinquagesimo primo	Ierem 51	C	chapter			
-bon-sap-c13	6	latin_body		scripture	body-ordinal	Ioannis quarto	Ioan 4	C	chapter			
+bon-sap-c13	6	latin_body		scripture	body-ordinal	Ioannis quarto	1Ioan 4	C	chapter			
 bon-sap-c13	6	latin_body	p192-9	scripture	body-ordinal	Malachiae tertio	Malach 3:6	B	verse			
 bon-sap-c13	6	latin_body	p192-10	scripture	body-ordinal	Exodi tertio	Exod 3:14	B	verse			
 bon-sap-c13	6	latin_body	p192-11	scripture	body-ordinal	ad Romanos primo	Rom 1:20	B	verse			
@@ -33075,7 +33163,7 @@ bon-sap-c15	6	latin_body		scripture	body-ordinal	Ioel secundo	Ioel 2	C	chapter
 bon-sap-c15	6	latin_body		scripture	body-ordinal	Matthaei quinto	Matth 5	C	chapter			
 bon-sap-c15	6	latin_body	p204-6	scripture	body-ordinal	Ioannis decimo sexto	Ioan 16:8	B	verse			
 bon-sap-c15	6	latin_body		scripture	body-ordinal	Deuteronomii trigesimo secundo	Deut 32	C	chapter			
-bon-sap-c15	6	latin_body	p204-8	scripture	body-ordinal	Ioannis primo	Ioan 1:8	B	verse			
+bon-sap-c15	6	latin_body	p204-8	scripture	body-ordinal	Ioannis primo	1Ioan 1:8	B	verse			
 bon-sap-c15	6	latin_body		scripture	body-ordinal	Lucae decimo	Luc 10	C	chapter			
 bon-sap-c15	6	latin_body	p205-1	scripture	body-ordinal	Matthaei vigesimo	Matth 20:16	B	verse			
 bon-sap-c15	6	latin_body		scripture	body-ordinal	Ieremiae sexto	Ierem 6	C	chapter			
@@ -33192,8 +33280,8 @@ bon-sap-c15	6	apparatus:p207-5	p207-5	scripture	apparatus-explicit	Iob 21, 12	Io
 bon-sap-c15	6	apparatus:p207-6	p207-6	scripture	apparatus-explicit	Eccle. 5, 12	Eccle 5:12	A	verse			
 bon-sap-c15	6	apparatus:p207-8	p207-8	scripture	apparatus-explicit	Rom. 1, 19	Rom 1:19	A	verse			
 bon-sap-c15	6	apparatus:p207-8	p207-8	scripture	anaphor->apparatus-explicit	ibid. 2, 15	Rom 2:15	A	verse	yes	Rom. 1, 19	
-bon-sap-c15	6	apparatus:p207-9	p207-9	scripture	apparatus-explicit	Ier. 4	Ierem 4	C	chapter			
-bon-sap-c15	6	apparatus:p207-9	p207-9	scripture	apparatus-explicit	Sap. 13	Sap 13	C	chapter			
+bon-sap-c15	6	apparatus:p207-9	p207-9	scripture	apparatus-explicit	Ier. 4. 22	Ierem 4:22	A	verse			
+bon-sap-c15	6	apparatus:p207-9	p207-9	scripture	apparatus-explicit	Sap. 13. 10	Sap 13:10	A	verse			
 bon-sap-c15	6	apparatus:p208-2	p208-2	scripture	apparatus-explicit	Esther 14, 8	Esth 14:8	A	verse			
 bon-sap-c15	6	apparatus:p208-3	p208-3	scripture	apparatus-explicit	Ps. 68, 10	Ps 68:10	A	verse			
 bon-sap-c15	6	apparatus:p208-4	p208-4	crossref	page	supra pag. 164, nota 7	bon-sap-c8		chunk			fn-p164-7
@@ -33278,6 +33366,7 @@ bon-sap-c16	6	latin_body	p215-6	scripture	body-ordinal	Numerorum undecimo	Num 11
 bon-sap-c16	6	latin_body		scripture	body-ordinal	Apocalypsis decimo quarto	Apoc 14	C	chapter			
 bon-sap-c16	6	latin_body		scripture	body-ordinal	Isaiae sexagesimo sexto	Isai 66	C	chapter			
 bon-sap-c16	6	latin_body		scripture	body-ordinal	ad Corinthios decimo tertio	Cor* 13	C	chapter			
+bon-sap-c16	6	latin_body		scripture	body-ordinal	Ioannis tertio	1Ioan 3	C	chapter			
 bon-sap-c16	6	latin_body		scripture	body-ordinal	Matthaei vigesimo octavo	Matth 28	C	chapter			
 bon-sap-c16	6	latin_body	p215-12	scripture	body-ordinal	Exodi nono	Exod 9:23	B	verse			
 bon-sap-c16	6	latin_body	p215-15	scripture	body-ordinal	Danielis tertio	Dan 3	C	chapter			
@@ -33425,7 +33514,7 @@ bon-sap-c17	6	latin_body	p219-6	scripture	body-ordinal	Numerorum vigesimo secund
 bon-sap-c17	6	latin_body	p219-7	scripture	body-ordinal	Deuteronomii vigesimo octavo	Deut 28:65	B	verse			
 bon-sap-c17	6	latin_body	p219-8	scripture	body-ordinal	ad Hebraeos decimo	Hebr 10:31	B	verse			
 bon-sap-c17	6	latin_body		scripture	body-ordinal	Ieremiae secundo	Ierem 2	C	chapter			
-bon-sap-c17	6	latin_body	p219-10	scripture	body-ordinal	Ioannis quarto	Ioan 4:18	B	verse			
+bon-sap-c17	6	latin_body	p219-10	scripture	body-ordinal	Ioannis quarto	1Ioan 4:18	B	verse			
 bon-sap-c17	6	latin_body		scripture	body-ordinal	Levitici vigesimo sexto	Lev 26	C	chapter			
 bon-sap-c17	6	latin_body	p219-11	scripture	body-ordinal	ad Romanos secundo	Rom 2:15	B	verse			
 bon-sap-c17	6	latin_body		scripture	body-ordinal	Genesis quadragesimo secundo	Gen 42	C	chapter			
@@ -33661,7 +33750,7 @@ bon-sap-c19	6	latin_body		scripture	body-ordinal	Habacuc tertio	Habac 3	C	chapte
 bon-sap-c19	6	latin_body		scripture	body-ordinal	Isaiae quinquagesimo primo	Isai 51	C	chapter			
 bon-sap-c19	6	latin_body		scripture	anaphor->body-ordinal	ibid	Isai 51	C	chapter	yes	Isaiae quinquagesimo primo	
 bon-sap-c19	6	latin_body	p229-9	scripture	body-ordinal	Isaiae quadragesimo nono	Isai 49:2	B	verse			
-bon-sap-c19	6	latin_body	p230-1	scripture	body-ordinal	Ioannis primo	Ioan 1:1	B	verse			
+bon-sap-c19	6	latin_body	p230-1	scripture	body-ordinal	Ioannis primo	1Ioan 1:1	B	verse			
 bon-sap-c19	6	latin_body	p230-2	scripture	body-ordinal	Habacuc tertio	Habac 3:15	B	verse			
 bon-sap-c19	6	latin_body		scripture	body-ordinal	Isaiae vigesimo quarto	Isai 24	C	chapter			
 bon-sap-c19	6	latin_body	p230-3	scripture	body-ordinal	Exodi decimo quinto	Exod 15:1	B	verse			
@@ -33985,7 +34074,7 @@ bon-sap-c3	6	latin_body	p128-5	scripture	body-ordinal	Apocalypsis quinto	Apoc 5:
 bon-sap-c3	6	latin_body		scripture	body-ordinal	Matthaei decimo quinto	Matth 15	C	chapter			
 bon-sap-c3	6	latin_body		scripture	body-ordinal	Apocalypsis decimo nono	Apoc 19	C	chapter			
 bon-sap-c3	6	latin_body		scripture	body-ordinal	Lucae primo	Luc 1	C	chapter			
-bon-sap-c3	6	latin_body		scripture	body-ordinal	Ioannis tertio	Ioan 3	C	chapter			
+bon-sap-c3	6	latin_body		scripture	body-ordinal	Ioannis tertio	1Ioan 3	C	chapter			
 bon-sap-c3	6	latin_body	p128-7	scripture	body-ordinal	ad Romanos octavo	Rom 8:35	B	verse			
 bon-sap-c3	6	latin_body		scripture	body-ordinal	Ecclesiastici sexto	Eccli 6	C	chapter			
 bon-sap-c3	6	latin_body		scripture	body-ordinal	ad Philippenses quarto	Phil 4	C	chapter			
@@ -34147,7 +34236,7 @@ bon-sap-c4	6	latin_body		scripture	body-ordinal	Proverbiorum decimo sexto	Prov 1
 bon-sap-c4	6	latin_body	p134-6	scripture	body-ordinal	ad Hebraeos undecimo	Hebr 11:6	B	verse			
 bon-sap-c4	6	latin_body		scripture	body-ordinal	Proverbiorum octavo	Prov 8	C	chapter			
 bon-sap-c4	6	latin_body		scripture	body-ordinal	Canticorum secundo	Cant 2	C	chapter			
-bon-sap-c4	6	latin_body	p134-8	scripture	body-ordinal	Ioannis tertio	Ioan 3:14	B	verse			
+bon-sap-c4	6	latin_body	p134-8	scripture	body-ordinal	Ioannis tertio	1Ioan 3:14	B	verse			
 bon-sap-c4	6	latin_body	p135-1	scripture	body-ordinal	ad Corinthios duodecimo	Cor* 12:2	B	verse			
 bon-sap-c4	6	latin_body		scripture	body-ordinal	ad Thessalonicenses quarto	Thess* 4	C	chapter			
 bon-sap-c4	6	latin_body		scripture	body-ordinal	ad Corinthios undecimo	Cor* 11	C	chapter			
@@ -34156,7 +34245,7 @@ bon-sap-c4	6	latin_body		scripture	body-ordinal	ad Corinthios decimo quinto	Cor*
 bon-sap-c4	6	latin_body		scripture	body-ordinal	Iacobi primo	Iac 1	C	chapter			
 bon-sap-c4	6	latin_body	p135-4	scripture	body-ordinal	Isaiae decimo	Isai 10:22	B	verse			
 bon-sap-c4	6	latin_body	p135-5	scripture	body-ordinal	Ecclesiastici primo	Eccli 1:34	B	verse			
-bon-sap-c4	6	latin_body		scripture	body-ordinal	Ioannis quinto	Ioan 5	C	chapter			
+bon-sap-c4	6	latin_body		scripture	body-ordinal	Ioannis quinto	1Ioan 5	C	chapter			
 bon-sap-c4	6	latin_body	p135-7	scripture	body-ordinal	Isaiae quinquagesimo septimo	Isai 57:1	B	verse			
 bon-sap-c4	6	latin_body	p135-8	scripture	body-ordinal	ad Corinthios decimo quinto	Cor* 15:10	B	verse			
 bon-sap-c4	6	latin_body	p135-9	scripture	body-ordinal	ad Ephesios primo	Eph 1:4	B	verse			
@@ -34221,7 +34310,7 @@ bon-sap-c4	6	apparatus:p134-7	p134-7	scripture	apparatus-explicit	Psalm. 17, 27	
 bon-sap-c4	6	apparatus:p134-7	p134-7	scripture	apparatus-explicit	Cant. 2, 2	Cant 2:2	A	verse			
 bon-sap-c4	6	apparatus:p134-8	p134-8	scripture	apparatus-explicit	II. Cor. 3, 18	2Cor 3:18	A	verse			
 bon-sap-c4	6	apparatus:p135-1	p135-1	scripture	apparatus-explicit	I. Thess. 4, 17	1Thess 4:17	A	verse			
-bon-sap-c4	6	apparatus:p135-2	p135-2	scripture	apparatus-explicit	II. Cor. 11	2Cor 11	C	chapter			
+bon-sap-c4	6	apparatus:p135-2	p135-2	scripture	apparatus-explicit	II. Cor. 11. 3	2Cor 11:3	A	verse			
 bon-sap-c4	6	apparatus:p135-3	p135-3	scripture	apparatus-explicit	I. Cor. 15, 33	1Cor 15:33	A	verse			
 bon-sap-c4	6	apparatus:p135-3	p135-3	scripture	apparatus-explicit	Iac. 1, 8	Iac 1:8	A	verse			
 bon-sap-c4	6	apparatus:p135-5	p135-5	scripture	apparatus-explicit	I. Ioan. 5, 19	1Ioan 5:19	A	verse			
@@ -34256,7 +34345,7 @@ bon-sap-c5	6	latin_body	p137-3	scripture	body-ordinal	Iob trigesimo primo	Iob 31
 bon-sap-c5	6	latin_body		scripture	body-ordinal	Apocalypsis vigesimo	Apoc 20	C	chapter			
 bon-sap-c5	6	latin_body		scripture	body-ordinal	Iob decimo sexto	Iob 16	C	chapter			
 bon-sap-c5	6	latin_body		scripture	body-ordinal	Ieremiae vigesimo nono	Ierem 29	C	chapter			
-bon-sap-c5	6	latin_body	p137-4	scripture	body-ordinal	Ioannis secundo	Ioan 2:1	B	verse			
+bon-sap-c5	6	latin_body	p137-4	scripture	body-ordinal	Ioannis secundo	1Ioan 2:1	B	verse			
 bon-sap-c5	6	latin_body		scripture	body-ordinal	ad Romanos octavo	Rom 8	C	chapter			
 bon-sap-c5	6	latin_body		scripture	body-ordinal	Apocalypsis duodecimo	Apoc 12	C	chapter			
 bon-sap-c5	6	latin_body	p137-6	scripture	body-ordinal	Genesis trigesimo septimo	Gen 37:27	B	verse			
@@ -34303,8 +34392,8 @@ bon-sap-c5	6	latin_body		scripture	body-ordinal	Iob vigesimo primo	Iob 21	C	chap
 bon-sap-c5	6	latin_body		scripture	body-ordinal	Proverbiorum decimo sexto	Prov 16	C	chapter			
 bon-sap-c5	6	latin_body		scripture	body-ordinal	Lucae primo	Luc 1	C	chapter			
 bon-sap-c5	6	latin_body		scripture	body-ordinal	Lucae sexto	Luc 6	C	chapter			
-bon-sap-c5	6	latin_body	p140-6	scripture	body-ordinal	Ioannis secundo	Ioan 2:16	B	verse			
-bon-sap-c5	6	latin_body		scripture	anaphor->body-ordinal	ibid	Ioan 2:16	B	verse	yes	Ioannis secundo	
+bon-sap-c5	6	latin_body	p140-6	scripture	body-ordinal	Ioannis secundo	1Ioan 2:16	B	verse			
+bon-sap-c5	6	latin_body		scripture	anaphor->body-ordinal	ibid	1Ioan 2:16	B	verse	yes	Ioannis secundo	
 bon-sap-c5	6	latin_body		scripture	body-ordinal	ad Corinthios septimo	Cor* 7	C	chapter			
 bon-sap-c5	6	latin_body		scripture	body-ordinal	Ecclesiastici trigesimo quarto	Eccli 34	C	chapter			
 bon-sap-c5	6	latin_body	p140-8	scripture	body-ordinal	Iob nono	Iob 9:25	B	verse			
@@ -34547,7 +34636,7 @@ bon-sap-c6	6	latin_body		scripture	body-ordinal	Proverbiorum tertio	Prov 3	C	cha
 bon-sap-c6	6	latin_body		scripture	body-ordinal	ad Corinthios nono	Cor* 9	C	chapter			
 bon-sap-c6	6	latin_body		scripture	body-ordinal	Matthaei vigesimo octavo	Matth 28	C	chapter			
 bon-sap-c6	6	latin_body	p149-3	scripture	body-ordinal	Ecclesiastici primo	Eccli 1:16	B	verse			
-bon-sap-c6	6	latin_body	p149-5	scripture	body-ordinal	Ioannis secundo	Ioan 2:16	B	verse			
+bon-sap-c6	6	latin_body	p149-5	scripture	body-ordinal	Ioannis secundo	1Ioan 2:16	B	verse			
 bon-sap-c6	6	latin_body		scripture	body-ordinal	ad Hebraeos duodecimo	Hebr 12	C	chapter			
 bon-sap-c6	6	latin_body	p149-7	scripture	body-ordinal	ad Romanos decimo tertio	Rom 13:10	B	verse			
 bon-sap-c6	6	latin_body		scripture	body-ordinal	ad Timotheum primo	Tim* 1	C	chapter			
@@ -34637,6 +34726,7 @@ bon-sap-c6	6	apparatus:p148-9	p148-9	scripture	apparatus-explicit	Prov. 3, 17	Pr
 bon-sap-c6	6	apparatus:p148-9	p148-9	scripture	apparatus-explicit	Ps. 118, 104	Ps 118:104	A	verse			
 bon-sap-c6	6	apparatus:p148-9	p148-9	scripture	apparatus-explicit	II. Cor. 9, 7	2Cor 9:7	A	verse			
 bon-sap-c6	6	apparatus:p148-11	p148-11	scripture	apparatus-explicit	Matth. 28, 9	Matth 28:9	A	verse			
+bon-sap-c6	6	apparatus:p149-1	p149-1	crossref	work	Hexaëm. collat. 2.	bon-hex-c2		chunk			
 bon-sap-c6	6	apparatus:p149-1	p149-1	crossref	page	tom. V. pag. 336	bon-hex-c2		chunk			
 bon-sap-c6	6	apparatus:p149-2	p149-2	crossref	page	tom. IV. pag. 336, nota 5	bon-sent-IV-d14-p2-a2-q1		chunk			
 bon-sap-c6	6	apparatus:p149-2	p149-2	scripture	apparatus-explicit	Ps. 118, 20	Ps 118:20	A	verse			
@@ -34739,6 +34829,7 @@ bon-sap-c7	6	latin_body	p158-2	scripture	body-ordinal	Actuum decimo septimo	Act 
 bon-sap-c7	6	latin_body	p158-4	scripture	body-ordinal	Iob vigesimo octavo	Iob 28:14	B	verse			
 bon-sap-c7	6	latin_body	p158-9	scripture	body-ordinal	ad Hebraeos primo	Hebr 1:3	B	verse			
 bon-sap-c7	6	latin_body		scripture	body-ordinal	Isaiae sexagesimo secundo	Isai 62	C	chapter			
+bon-sap-c7	6	latin_body		scripture	body-ordinal	Ioannis primo	1Ioan 1	C	chapter			
 bon-sap-c7	6	latin_body		scripture	body-ordinal	Ioannis decimo quarto	Ioan 14	C	chapter			
 bon-sap-c7	6	latin_body	p158-13	scripture	body-ordinal	Ioannis quinto	Ioan 5:19	B	verse			
 bon-sap-c7	6	latin_body	p158-14	scripture	body-ordinal	Petri secundo	Petr* 2	C	chapter			
@@ -34814,6 +34905,7 @@ bon-sap-c7	6	apparatus:p155-5	p155-5	scripture	apparatus-explicit	Eccli. 24, 8	E
 bon-sap-c7	6	apparatus:p155-5	p155-5	scripture	apparatus-explicit	Prov. 8, 27	Prov 8:27	A	verse			
 bon-sap-c7	6	apparatus:p155-5	p155-5	crossref	logical	II. Sent. d. 18. a. 1. q. 2.	bon-sent-II-d18-a1-q2		chunk			
 bon-sap-c7	6	apparatus:p155-7	p155-7	crossref	work	Breviloq.	work:breviloquium		work			
+bon-sap-c7	6	apparatus:p155-7	p155-7	crossref	work	Hexaëm. collat. 16.	bon-hex-c16		chunk			
 bon-sap-c7	6	apparatus:p155-7	p155-7	crossref	page	tom. V. pag. 203	bon-brev-prol-s1+bon-brev-prol-s2		page-multi			
 bon-sap-c7	6	apparatus:p155-8	p155-8	scripture	apparatus-explicit	Gen. 1, 14	Gen 1:14	A	verse			
 bon-sap-c7	6	apparatus:p155-8	p155-8	scripture	apparatus-explicit	Ps. 135, 9	Ps 135:9	A	verse			
@@ -34897,7 +34989,7 @@ bon-sap-c8	6	latin_body		scripture	body-ordinal	Ioannis octavo	Ioan 8	C	chapter
 bon-sap-c8	6	latin_body		scripture	body-ordinal	Lucae sexto	Luc 6	C	chapter			
 bon-sap-c8	6	latin_body		scripture	body-ordinal	Isaiae quinquagesimo tertio	Isai 53	C	chapter			
 bon-sap-c8	6	latin_body		scripture	body-ordinal	Ieremiae undecimo	Ierem 11	C	chapter			
-bon-sap-c8	6	latin_body		scripture	body-ordinal	Ioannis tertio	Ioan 3	C	chapter			
+bon-sap-c8	6	latin_body		scripture	body-ordinal	Ioannis tertio	1Ioan 3	C	chapter			
 bon-sap-c8	6	latin_body		scripture	body-ordinal	Proverbiorum octavo	Prov 8	C	chapter			
 bon-sap-c8	6	latin_body		scripture	body-ordinal	Ecclesiastici sexto	Eccli 6	C	chapter			
 bon-sap-c8	6	latin_body		scripture	body-ordinal	Lucae undecimo	Luc 11	C	chapter			
@@ -35228,6 +35320,7 @@ bon-sap-prooem	6	apparatus:p108-1	p108-1	scripture	apparatus-explicit	Eccli. 1, 
 bon-sap-prooem	6	apparatus:p108-2	p108-2	crossref	page	tom. II. pag. 94, nota 4	bon-sent-II-d3-p1-a1-q2		chunk			
 bon-sap-prooem	6	apparatus:p108-4	p108-4	scripture	apparatus-explicit	II. Reg. 12, 25	2Reg 12:25	A	verse			
 bon-sap-prooem	6	apparatus:p108-4	p108-4	crossref	page	supra pag. 10, nota 3	bon-eccl-c1-v1+bon-eccl-c1-v2-7		page-multi			
+bon-sap-prooem	6	apparatus:p108-4	p108-4	crossref	work	Hexaëm. collat. 6.	bon-hex-c6		chunk			
 bon-sap-prooem	6	apparatus:p108-4	p108-4	crossref	page	tom. V. pag. 361	bon-hex-c6		chunk			
 bon-sap-prooem	6	apparatus:p108-4	p108-4	crossref	anaphor->page	ibid.	bon-hex-c6		chunk	yes	tom. V. pag. 361	
 bon-sap-prooem	6	apparatus:p108-5	p108-5	scripture	apparatus-explicit	Sap. 6, 13	Sap 6:13	A	verse			

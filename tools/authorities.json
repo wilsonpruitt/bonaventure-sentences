@@ -1120,6 +1120,14 @@
       "de Gen. ad lit. liber imperf.",
       "de Genesi ad litt. imperfect."
      ]
+    },
+    {
+     "id": "manuale",
+     "la": "Manuale",
+     "abbrev": [
+      "Manuale"
+     ],
+     "pseudo": true
     }
    ],
    "body": [
@@ -1276,7 +1284,8 @@
      "la": "Commentarii in Ieremiam",
      "abbrev": [
       "Comment. in Ierem.",
-      "in Ierem."
+      "in Ierem.",
+      "Comment. in Ier."
      ],
      "prose": [
       "super Ieremiam"
@@ -2290,6 +2299,22 @@
       "de Convers.",
       "libro de conversione"
      ]
+    },
+    {
+     "id": "sermo-in-assumptione",
+     "la": "Sermo in Assumptione B. Mariae",
+     "abbrev": [
+      "Serm. in Assumt. B. Mariae",
+      "Serm. in Assumpt. B. Mariae"
+     ]
+    },
+    {
+     "id": "meditationes-piissimae",
+     "la": "Meditationes piissimae de cognitione humanae conditionis",
+     "abbrev": [
+      "Meditation. piissimis de cognitione humanae conditionis"
+     ],
+     "pseudo": true
     }
    ],
    "body": [
@@ -5484,6 +5509,45 @@
    ],
    "here": "collectorium",
    "default_work": "collectorium"
+  },
+  {
+   "id": "juvenal",
+   "la": "Iuvenalis",
+   "en": "Juvenal",
+   "sigla": [
+    "Iuvenal.",
+    "Iuvenalis"
+   ],
+   "works": [
+    {
+     "id": "satirae",
+     "la": "Satirae",
+     "abbrev": [
+      "Satyra",
+      "Sat."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "vitae-patrum",
+   "la": "Vitae Patrum",
+   "en": "Lives of the Fathers",
+   "sigla": [
+    "de Vitis Patrum",
+    "Vitae Patrum",
+    "Vitis Patrum"
+   ],
+   "default_work": "vitae-patrum",
+   "works": [
+    {
+     "id": "vitae-patrum",
+     "la": "Vitae Patrum",
+     "abbrev": [
+      "de Vitis Patrum"
+     ]
+    }
+   ]
   }
  ],
  "witness_context": "A work matched where the editors REPORT A WITNESS'S READING (cod./codd./ed./edd./Vat./mss. ... allegat/citat/legit, or 'falso alleget') is not an authority record: it is the apparatus criticus.",

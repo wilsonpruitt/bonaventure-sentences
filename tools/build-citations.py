@@ -275,6 +275,10 @@ def governed_by_author(text, pos, sigla, chain=False):
     return next((s for s in sigla if s in cl), None)
 
 
+POINT_VERSE_RE = re.compile(
+    r"\.[ \t]*(\d{1,3})\b(?!\s*\.?\s*(?:Sent|q|d|a|n|c|p|pag|tom|text|lib|cap|art|dist|nota)\b)")
+
+
 def scan_scripture_apparatus(text, cfg):
     """Form A/C: `Rom. 1, 20` · `Ps. 61, 12` · `I. Cor. 15, 54` · `Gen. 1` (chapter only)."""
     abbrev_map, meta = cfg["_abbrev_map"], cfg["_meta"]
@@ -291,6 +295,15 @@ def scan_scripture_apparatus(text, cfg):
         if pre.endswith("in ") or pre.endswith("super "):
             continue
         chap, verse = int(m.group(2)), (int(m.group(3)) if m.group(3) else None)
+        raw, vend = m.group(0), (int(m.group(4)) if m.group(4) else None)
+        if verse is None and "\n" not in raw:
+            # W41 (ruling 147): the point-for-comma misprint `Ps. 10. 7.` — `Book C. V.`
+            # was filed chapter-level. Read the verse only when nothing that makes the
+            # second number another coordinate (`Sent.`, `q.`, `n.` …) follows it, and
+            # never across a paragraph break (`…et Iacob.` + reply numerals `1. 2.`).
+            pm = POINT_VERSE_RE.match(text, m.end())
+            if pm:
+                verse, raw = int(pm.group(1)), raw + pm.group(0)
         # Abbreviations that collide with a non-scripture sense are admitted only in
         # their fully specified `C, V` form — see `require_verse` in scripture-books.json.
         if verse is None and meta[key].get("require_verse"):
@@ -301,8 +314,8 @@ def scan_scripture_apparatus(text, cfg):
             "book": key,
             "chapter": chap,
             "verse": verse,
-            "verse_end": int(m.group(4)) if m.group(4) else None,
-            "raw": m.group(0),
+            "verse_end": vend,
+            "raw": raw,
             "pos": m.start(),
             "conf": "A" if verse else "C",
             "over_chapters": chap > meta[key].get("chapters", 999),
@@ -331,6 +344,10 @@ def scan_scripture_book_unnamed(text, cfg):
     for m in BOOK_UNNAMED_RE.finditer(text):
         yield {"cls": "scripture", "sub": "book-unnamed",
                "raw": m.group(0), "pos": m.start(), "conf": ""}
+
+
+IOAN_EPISTLE = {"primae": "1Ioan", "secundae": "2Ioan", "tertiae": "3Ioan"}
+IOAN_EPISTLE_RE = re.compile(r"(?<![A-Za-zÀ-ÿ])(primae|secundae|tertiae)\s+$", re.IGNORECASE)
 
 
 def scan_scripture_body(text, cfg):
@@ -362,6 +379,12 @@ def scan_scripture_body(text, cfg):
         chap = parse_ordinal_run(m.group(2).split(), ordinals)
         if chap is None:
             continue
+        # D2 (rulings 94 / 147): `primae Ioannis secundo` is the FIRST EPISTLE, not the
+        # Gospel — the epistle numeral stands before the book form and was dropped.
+        if key == "Ioan":
+            em = IOAN_EPISTLE_RE.search(text[max(0, m.start() - 12): m.start()])
+            if em:
+                key = IOAN_EPISTLE[em.group(1).lower()]
         yield {
             "cls": "scripture",
             "sub": "body-ordinal",
@@ -534,6 +557,9 @@ IBID_COORD_RE = re.compile(
     r"|(?P<c>\d{1,3})\s*,\s*(?P<cv>\d{1,3})(?:\s*[-–]\s*(?P<cvend>\d{1,3}))?)(?!\d)")
 
 
+IBID_Q_RE = re.compile(r"\.?\s*(?:a\.\s*(?P<a>\d{1,2})\.?\s*)?q\.\s*(?P<q>\d{1,2})(?!\d)")
+
+
 def scan_relative(text, cfg):
     """`supra d. 12` · `infra d. 43` · `ibid. d. 14` — same-book relative locus."""
     pat = re.compile(
@@ -575,6 +601,23 @@ def scan_relative(text, cfg):
             # its coordinates: `Richard. a Med. … II. Sent. d. 23 …; ibid. d. 24. a. 3.
             # q. 5` is still Richard's numbering, not Bonaventure's.
             inherited_author = governed_by_author(text, prev["_pos"], cfg["_author_sigla"], chain=True)
+            art, q, qkind = as_int(prev["art"]), as_int(prev["q"]), (prev["qkind"] or "").rstrip(".")
+            raw_end = m.end()
+            # W37 (ruling 147): `ibid. q. 2` / `ibid. a. 2. q. 1` prints its OWN article
+            # and question; only the distinctio (and pars) are inherited. Without this the
+            # record kept the antecedent's question (p. 610 n. 1 → II-d27-a2-q1 for q. 2).
+            qm = IBID_Q_RE.match(text, m.start("rel") + 4) if d["rel"] == "ibid" else None
+            # Only where the antecedent is the locus IMMEDIATELY before, in the same
+            # chain (`II. Sent. d. 27. a. 2. q. 1. ad 3; ibid. q. 2`): no parenthesis or
+            # dash between, the antecedent itself naming a question. A far-off antecedent
+            # is the anaphora problem (D1), not this one, and is left as it was.
+            gap = text[prev["_pos"]: m.start()]
+            if qm and (prev["q"] is None or len(gap) > 60 or re.search(r"[()—]", gap)):
+                qm = None
+            if qm:
+                if qm.group("a"):
+                    art = int(qm.group("a"))
+                q, qkind, raw_end = int(qm.group("q")), "q", qm.end()
             yield {
                 "cls": "authority" if inherited_author else "crossref",
                 "sub": f"authority:{inherited_author}" if inherited_author else "relative-inherited",
@@ -582,9 +625,9 @@ def scan_relative(text, cfg):
                 "book": ROMAN.get(prev["bk"]) if prev["bk"] else None,
                 "dist": int(prev["dist"]),
                 "pars": roman_or_int(prev["pars"]), "sectio": roman_or_int(prev["sectio"]),
-                "art": as_int(prev["art"]), "q": as_int(prev["q"]),
-                "qkind": (prev["qkind"] or "").rstrip("."),
-                "raw": m.group(0).strip(), "pos": m.start(),
+                "art": art, "q": q,
+                "qkind": qkind,
+                "raw": text[m.start(): raw_end].strip(), "pos": m.start(),
             }
             continue
         # `supra`/`infra` are intra-WORK relative — they always mean the citing
@@ -662,8 +705,26 @@ def scan_page(text, cfg):
         }
 
 
+# Ruling 128 / 147 (D7): Bonaventure's own Hexaemeron cited by collatio —
+# `Hexaëm. collat. 17` · `in Hexaëm. (tom. V.) collat. 1`. Keyed on `collat.` so the
+# ~40 bare `Hexaëm` sites (Ambrose's, Basil's, Bede's Hexaemeron) are never touched.
+HEX_COLLAT_RE = re.compile(
+    r"Hexa[eë]m\w*\.\s*(?:\(tom\.\s*V\.\)\s*)?collat\.\s*(?P<cap>\d+)\.?")
+
+
 def scan_work(text, cfg):
     """`Breviloq. p. V. c. 6` · `Itiner. c. 1` — work-relative locus."""
+    hex_entry = next((e for e in cfg["works"]["entries"] if e["slug"] == "hexaemeron"), None)
+    hex_spans = []
+    if hex_entry:
+        for m in HEX_COLLAT_RE.finditer(text):
+            hex_spans.append((m.start(), m.end()))
+            yield {
+                "cls": "crossref", "sub": "work",
+                "work": hex_entry["slug"], "pattern": hex_entry["chunk_pattern"],
+                "pars": None, "cap": int(m.group("cap")),
+                "raw": m.group(0).strip(), "pos": m.start(),
+            }
     for entry in cfg["works"]["entries"]:
         for ab in entry["abbrev"]:
             pat = re.compile(
@@ -672,6 +733,8 @@ def scan_work(text, cfg):
                 + r"(?:\s*(?:c|coll|q)\.\s*(?P<cap>\d+)\.?)?"
             )
             for m in pat.finditer(text):
+                if any(s0 <= m.start() < s1 for s0, s1 in hex_spans):
+                    continue  # the keyed collatio record above supersedes the cap-less one
                 yield {
                     "cls": "crossref", "sub": "work",
                     "work": entry["slug"], "pattern": entry["chunk_pattern"],
@@ -781,8 +844,9 @@ def roman_value(s):
     return total
 
 
+# `coll\.` (lower case only): p. 589 n. 4's `supra coll. XVIII.` (W23, ruling 147).
 CIOAN_COLL_RE = re.compile(
-    r"\b[Cc]ollat(?:io|ionem|ione|ionis|\.)\s*(?P<r>[IVXLC]+|\d{1,2})\b\.?(?:\s*n\.\s*\d+)?")
+    r"\b(?:[Cc]ollat(?:io|ionem|ione|ionis|\.)|coll\.)\s*(?P<r>[IVXLC]+|\d{1,2})\b\.?(?:\s*n\.\s*\d+)?")
 CIOAN_ANNOT_RE = re.compile(r"\b[Aa]nnotat(?:io|ionem|ione|ionis|\.)\s*(?P<a>\d+)")
 
 
@@ -1024,6 +1088,38 @@ PRINTED_SLIPS = [
      "ruling 48 — body p. 213 `Ecclesiastici undecimo` for Ecclesiastes"),
     ("bon-sap-c18", "latin_body", "p226-5", "Ezech 20:30", "Ezech 22:30",
      "ruling 48 — body p. 226 `Ezechielis vigesimo` + n. 5 `Vers. 30`"),
+    # Vol VI rulings 126 / 145 (the p. 634 Collationes work-close gate): the
+    # Collationes in Ioannem's nine and the Ioannem rows queued at rulings 103 / 113.
+    ("bon-cioan-c1", "apparatus:p537-6", "p537-6", "Ps 75:2", "Ps 75:3",
+     "ruling 126 — p. 537 n. 6 prints `Ps. 75, 2` (the title verse)"),
+    ("bon-cioan-c4", "apparatus:p556-1", "p556-1", "Luc 16:10", "Luc 16:19",
+     "ruling 126 — p. 556 n. 1 prints `Luc. 16, 10. seqq.`"),
+    ("bon-cioan-c7", "apparatus:p571-1", "p571-1", "Exod 3:8", "Exod 23:8",
+     "ruling 145 (W8) — p. 571 n. 1 prints `Exod. 3, 8.`"),
+    ("bon-cioan-c8", "latin_body", "p574-4", "Ioan 8:26", "Ioan 8:16",
+     "ruling 145 (W11) — body `Ioannis octavo` + n. 4 `Vers. 26.`"),
+    ("bon-cioan-c9", "apparatus:p580-4", "p580-4", "Ps 39:2", "Ps 39:3",
+     "ruling 145 (W14) — p. 580 n. 4 prints `Ps. 39, 2`"),
+    ("bon-cioan-c10", "apparatus:p583-9", "p583-9", "Ps 79:1", "Ps 79:2",
+     "ruling 145 (W17) — p. 583 n. 9 prints `Psalm. 79, 1.`"),
+    ("bon-cioan-c11", "apparatus:p590-8", "p590-8", "Ps 115:5", "Ps 115:15",
+     "ruling 145 (W20) — p. 590 n. 8 prints `Ps. 115, 5.`"),
+    ("bon-cioan-c13", "apparatus:p598-2", "p598-2", "Ps 44:3", "Ps 44:4",
+     "ruling 145 (W26) — p. 598 n. 2 prints `Ps. 44, 3`"),
+    ("bon-cioan-c20", "apparatus:p622-4", "p622-4", "Isai 32:17", "Isai 32:18",
+     "ruling 145 (W49) — p. 622 n. 4 prints `Sequitur Isai. 32, 17.`"),
+    ("bon-ioan-c17-v20-23", "apparatus:p474-9", "p474-9", "Gal 3:18", "Gal 3:28",
+     "ruling 113/145 — p. 474 n. 9 prints `Gal. 3, 18`"),
+    ("bon-ioan-c18-v4-12", "apparatus:p481-8", "p481-8", "Act 3:3", "Act 4:3",
+     "ruling 113/145 — p. 481 n. 8 prints `Act. 3, 3`"),
+    ("bon-ioan-c20-v26-31", "apparatus:p518-11", "p518-11", "2Cor 15:53", "1Cor 15:53",
+     "ruling 113/145 — p. 518 n. 11 prints `II. Cor. 15, 53`"),
+    ("bon-ioan-c11-v1-6", "apparatus:p397-9", "p397-9", "Luc 8:7", "Luc 8:2",
+     "ruling 103/145 — p. 397 n. 9 prints `Luc. 8, 7`"),
+    ("bon-ioan-c13-v21-30", "apparatus:p432-9", "p432-9", "bon-ioan-c14-v1-14",
+     "bon-ioan-c13-v21-30",
+     "ruling 103/145 — p. 432 n. 9's page cross-reference lands in the wrong chunk "
+     "(the passage meant is p. 430 n. 7)"),
 ]
 
 

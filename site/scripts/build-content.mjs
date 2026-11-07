@@ -1057,7 +1057,7 @@ const WORKS = {
       // Annot. 79's close; no subtitle. Annot. 1, Coll. I–II, Annot. 2 (ruling
       // 118); the work ends on p. 634, the volume index following. Ruling 119:
       // the in-place heading titles the division. The breadcrumb renders
-      // "Cap. 22" as buildWorkChunkTitle stands (W57, Wilson's call at the gate).
+      // "Appendix" by the type-first branch in buildWorkChunkTitle (ruling 137).
       22: "Appendix",
     },
   },
@@ -1070,6 +1070,9 @@ function buildWorkChunkTitle(meta) {
   if (meta.type === "scholion") return "Scholion";
   // The Ecclesiastes Schemata (Vol VI ruling 19: one chunk, four sections).
   if (meta.type === "schemata") return "Schemata";
+  // The Collationes in Ioannem Appendix (division 22, the corpus's only
+  // `type: appendix` chunk) names itself, not "Cap. 22" (ruling 137).
+  if (meta.type === "appendix") return "Appendix";
   // An undivided work is one chunk and names itself (De reductione).
   if (meta.type === "opusculum") return "Opusculum";
   // The Sermones selecti's fifth division is an annexed tractatulus, not a
@@ -1099,7 +1102,7 @@ function buildWorkChunkTitle(meta) {
   // whole capitulum, its collationes and annotationes being sections inside it,
   // so the division alone names it ("Cap. 1"). The joint XVIII–XIX unit
   // (division 19) renders "Cap. 18–19" (ruling 136, Arabic per ruling 129, en
-  // dash). The Appendix (22) is to be decided when it lands.
+  // dash). The Appendix (22) names itself by type above (ruling 137).
   if (meta.workSlug === "collationes-ioannem") {
     if (meta.division === 19) return "Cap. 18–19";
     return `Cap. ${meta.division}`;

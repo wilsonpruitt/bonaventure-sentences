@@ -187,7 +187,7 @@ const VOL6_WORKS = [
   { slug: "ecclesiasten", title: "Commentarius in Ecclesiasten", first: 3, last: 103, complete: true },
   { slug: "sapientiam", title: "Commentarius in librum Sapientiae", first: 107, last: 235, complete: true },
   { slug: "ioannem", title: "Commentarius in Evangelium S. Ioannis", first: 239, last: 532, complete: true },
-  { slug: "collationes-ioannem", title: "Collationes in Evangelium S. Ioannis", first: 535, last: 634, complete: false },
+  { slug: "collationes-ioannem", title: "Collationes in Evangelium S. Ioannis", first: 535, last: 634, complete: true },
 ];
 
 const MEASURED_EXTENTS = {
