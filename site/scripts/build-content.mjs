@@ -1048,6 +1048,10 @@ const WORKS = {
       // where Cᴀᴘɪᴛᴜʟᴜᴍ XXI. Postea manifestavit se iterum. stands full measure below
       // Annot. 72.
       20: "Capitulum XX: Una autem Sabbati",
+      // `Cᴀᴘɪᴛᴜʟᴜᴍ XXI. Postea manifestavit se iterum.` read in place on p. 622 at
+      // bon-cioan-c21: full measure, unanchored, below Annot. 72's close; the chapter
+      // runs to p. 632, where the anchored APPENDIX.⁴ stands full measure below Annot. 79.
+      21: "Capitulum XXI: Postea manifestavit se iterum",
     },
   },
 };

@@ -4830,7 +4830,33 @@ KNOWN_TOTALS_VOL6 = {
     622: 10, # SHARED: bon-cioan-c20 owns nn.1-8 (Coll. LXXIV ¶¶ 3-5 L 1-5, Annot. 71-72 R 6-8)
              # above the full-measure, UNANCHORED Cᴀᴘɪᴛᴜʟᴜᴍ XXI. Postea manifestavit se iterum.;
              # nn.9-10 anchor in Annot. 73 ¶ 1 below it (L 9 / R 10, both printed in the R block)
-             # and are bon-cioan-c21's (PENDING until c21 lands). Gutter 1166 above the heading.
+             # and are bon-cioan-c21's (re-derived by anchor). Gutter 1166 above the heading,
+             # 1165 below it.
+    623: 9,  # bon-cioan-c21: nn.1-5 Coll. LXXV ¶¶ 1-3 (L), nn.6-9 ¶¶ 3-4 (R); blocks L 1-4 /
+             # R 5-9 (n.5 anchors L, prints R). Gutter 913.
+    624: 8,  # bon-cioan-c21: nn.1-3 Coll. LXXV ¶¶ 5-6 (L), nn.4-8 Coll. LXXVI ¶¶ 2-3 (R);
+             # blocks L 1-3 / R 4-8. Gutter 1158.
+    625: 9,  # bon-cioan-c21: nn.1-6 Coll. LXXVI ¶¶ 4-6 (L), nn.7-9 ¶ 6, Annot. 74, 76 (R);
+             # blocks L 1-5 / R [n.5 tail] 6-9 (n.5 runs over the gutter; n.6 anchors L,
+             # prints R). Gutter 903.
+    626: 8,  # bon-cioan-c21: nn.1-3 Annot. 77-78, Coll. LXXVII lemma (L), nn.4-8 Coll. LXXVII
+             # ¶¶ 2-5 (R); blocks L 1-4 / R [n.4 tail] 5-8 (n.4 runs over the gutter).
+             # Gutter 1148.
+    627: 10, # bon-cioan-c21: nn.1-5 Coll. LXXVII ¶¶ 6-8 (L), nn.6-10 ¶¶ 9-11 (R); blocks
+             # L 1-5 / R [n.5 tail] 6-10 (n.5 runs over the gutter). Gutter 917.
+    628: 11, # bon-cioan-c21: nn.1-6 Coll. LXXVIII ¶¶ 1-3, Coll. LXXIX ¶ 2 (L), nn.7-11
+             # Coll. LXXIX ¶¶ 2-5 (R); blocks L 1-5 / R 6-11 (n.6 anchors L, prints R).
+             # Gutter 1152.
+    629: 11, # bon-cioan-c21: nn.1-4 Coll. LXXIX ¶¶ 6-7 (L), nn.5-11 ¶¶ 9-11 (R); blocks
+             # L 1-5 / R 6-11 (n.5 anchors R, prints L). Gutter 925.
+    630: 12, # bon-cioan-c21: nn.1-5 Coll. LXXIX ¶¶ 11-13 (L), nn.6-12 ¶¶ 13-15 (R); blocks
+             # L 1-6 / R 7-12 (n.6 anchors R, prints L). Gutter 1128.
+    631: 9,  # bon-cioan-c21: nn.1-5 Coll. LXXIX ¶¶ 15-17 (L), nn.6-9 ¶¶ 17-18, Annot. 79
+             # (R); blocks L 1-5 / R 6-9. Gutter 939.
+    632: 7,  # SHARED: bon-cioan-c21 owns nn.1-3 (Annot. 79's close, top band of both
+             # columns: L 1 / R 2-3, all printed in the L block; n.3 = codex C's Finitur.
+             # Amen. + schema + index rerum, in full) above the full-measure, ANCHORED
+             # APPENDIX.⁴; nn.4-7 are bon-cioan-app's (PENDING until app lands).
 }
 
 KNOWN_TOTALS_BY_VOL = {
