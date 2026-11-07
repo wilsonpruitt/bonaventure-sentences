@@ -1,36 +1,46 @@
 import Link from "next/link";
 import { loadAllContent, browseEntries, divisionCountLabel } from "@/lib/content";
+import progress from "@/data/progress.json";
+import { HomeIntro } from "@/components/site-copy";
 import { Illumination, CrossDivider, FleuronDivider } from "@/components/decorations";
 
-// The ten tomes of the Quaracchi Opera Omnia (Ad Claras Aquas, 1882–1902).
-// Verified against the Quaracchi publisher listing, the Internet Archive
-// catalogue records, and per-work page citations. Status reflects this
-// project's progress; href is set only for volumes with published content.
-type ScopeStatus = "published" | "in-preparation" | "planned";
-const OPERA_OMNIA: {
+// The scope table is DERIVED: titles, years, glosses and status come from
+// progress.json (scripts/build-progress.mjs), never hand-written rows, so it
+// cannot go stale as volumes close. Vol X is not transcribed: the site's
+// generated indices replace it (SITE-PLAN decision 3).
+type ScopeStatus = "complete" | "in-progress" | "planned" | "indices";
+const SCOPE_LABEL: Record<ScopeStatus, string> = {
+  complete: "Complete",
+  "in-progress": "In progress",
+  planned: "Planned",
+  indices: "Generated indices",
+};
+interface ProgressVolume {
+  n: number;
   tome: string;
   year: number;
   title: string;
   gloss: string;
-  status: ScopeStatus;
-  href?: string;
-}[] = [
-  { tome: "I", year: 1882, title: "Commentarius in I librum Sententiarum", gloss: "Commentary on Book I of the Sentences — the Trinity", status: "published", href: "/browse/1" },
-  { tome: "II", year: 1885, title: "Commentarius in II librum Sententiarum", gloss: "Commentary on Book II — creation, the angels, and sin", status: "published", href: "/browse/2" },
-  { tome: "III", year: 1887, title: "Commentarius in III librum Sententiarum", gloss: "Commentary on Book III — the Incarnation and the virtues", status: "published", href: "/browse/3" },
-  { tome: "IV", year: 1889, title: "Commentarius in IV librum Sententiarum", gloss: "Commentary on Book IV — the sacraments and the last things", status: "published", href: "/browse/4" },
-  { tome: "V", year: 1891, title: "Opuscula varia theologica", gloss: "Breviloquium, Itinerarium mentis in Deum, De reductione artium ad theologiam, Collationes in Hexaemeron", status: "in-preparation", href: "/browse/tome/5" },
-  { tome: "VI", year: 1893, title: "Commentarii in Sacram Scripturam", gloss: "Commentaries on Ecclesiastes, Wisdom, and John", status: "planned" },
-  { tome: "VII", year: 1895, title: "Commentarius in Evangelium S. Lucae", gloss: "The full commentary on the Gospel of Luke", status: "planned" },
-  { tome: "VIII", year: 1898, title: "Opuscula ad theologiam mysticam et res Ordinis", gloss: "Mystical and ascetic opuscula; Franciscan-order writings", status: "planned" },
-  { tome: "IX", year: 1901, title: "Sermones", gloss: "Sermons — de tempore, de sanctis, Marian, and diverse", status: "planned" },
-  { tome: "X", year: 1902, title: "Operum omnium complementum", gloss: "Supplements, general indices, and editorial apparatus", status: "planned" },
-];
-const SCOPE_LABEL: Record<ScopeStatus, string> = {
-  published: "Published",
-  "in-preparation": "In preparation",
-  planned: "Planned",
-};
+  state: "complete" | "in-progress" | "planned";
+  counted?: boolean;
+  works?: { slug: string; title: string; complete: boolean }[];
+}
+function scopeRows(published: Set<number>, tomesWithWorks: Set<number>) {
+  return (progress.volumes as ProgressVolume[]).map((v) => {
+    const isIndexVolume = v.counted === false;
+    const status: ScopeStatus = isIndexVolume ? "indices" : v.state;
+    const href = isIndexVolume
+      ? "/scripture"
+      : tomesWithWorks.has(v.n)
+        ? `/browse/tome/${v.n}`
+        : published.has(v.n)
+          ? `/browse/${v.n}`
+          : undefined;
+    const pending =
+      v.state === "in-progress" && v.works ? v.works.filter((w) => !w.complete) : [];
+    return { ...v, status, href, pending };
+  });
+}
 
 export default function HomePage() {
   const books = loadAllContent();
@@ -71,17 +81,8 @@ export default function HomePage() {
           A New English Translation
         </p>
         <CrossDivider />
-        <p className="body-text" style={{ maxWidth: "700px", margin: "0 auto", textAlign: "center" }}>
-          An English translation of the <em>Opera Omnia</em>&thinsp; of St. Bonaventure of Bagnoregio
-          (1221&ndash;1274), the Seraphic Doctor, from the Quaracchi critical edition (1882&ndash;1902).
-          The project will eventually present all ten volumes. Volumes I through IV &mdash; the whole{" "}
-          <em>Commentary on the Sentences of Peter Lombard</em> &mdash; are complete. Volume V is now
-          complete as well: all ten of the <em>Opuscula</em>, among them the <em>Breviloquium</em>, the{" "}
-          <em>Itinerarium mentis in Deum</em>, the <em>De reductione artium ad theologiam</em>, the
-          three <em>Disputed Questions</em>, the <em>Collationes in Hexaemeron</em> and the selected
-          sermons. Volume VI &mdash; the scriptural commentaries on Ecclesiastes, Wisdom and John
-          &mdash; is in preparation, and is being published as each part of it is finished.
-        </p>
+        {/* Prose slot: placeholder until the commissioned text arrives (site-copy.tsx). */}
+        <HomeIntro />
       </div>
 
       <FleuronDivider />
@@ -141,13 +142,15 @@ export default function HomePage() {
 
       <div className="section-title">The Full Opera Omnia &mdash; Project Scope</div>
       <p className="body-text" style={{ marginBottom: "1.5rem" }}>
-        The Quaracchi <em>Opera Omnia</em>&thinsp; runs to ten volumes (1882&ndash;1902). Four are now
-        complete &mdash; the commentaries on all four books of the <em>Sentences</em> &mdash; and the
-        fifth, the <em>Opuscula</em>, is in preparation, published part by part as each is finished.
-        The remaining five, comprising Bonaventure&rsquo;s Scripture commentaries, further opuscula,
-        sermons, and the indices, are still to come.
+        The Quaracchi <em>Opera Omnia</em>&thinsp; runs to ten volumes (1882&ndash;1902). Volumes I
+        through IX hold the texts; Volume X is the edition&rsquo;s index volume, and its place is
+        taken here by indices generated from the translation itself. See{" "}
+        <Link href="/progress">Progress</Link> for page counts.
       </p>
-      {OPERA_OMNIA.map((t) => {
+      {scopeRows(
+        new Set(books.filter((b) => b.tome === undefined).map((b) => b.id)),
+        new Set(books.filter((b) => b.tome !== undefined).map((b) => b.tome as number))
+      ).map((t) => {
         const row = (
           <div className={`scope-row scope-${t.status}`}>
             <span className="scope-num">{t.tome}</span>
@@ -156,6 +159,17 @@ export default function HomePage() {
                 {t.title} <span className="scope-year">&middot; {t.year}</span>
               </span>
               <span className="scope-gloss">{t.gloss}</span>
+              {t.pending.length > 0 && (
+                <span className="scope-gloss">
+                  Still in progress:{" "}
+                  {t.pending.map((w, i) => (
+                    <span key={w.slug}>
+                      {i > 0 ? ", " : ""}
+                      <em>{w.title}</em>
+                    </span>
+                  ))}
+                </span>
+              )}
             </div>
             <span className="scope-status">{SCOPE_LABEL[t.status]}</span>
           </div>

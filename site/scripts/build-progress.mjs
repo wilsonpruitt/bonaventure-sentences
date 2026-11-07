@@ -178,6 +178,18 @@ const VOL5_LAST_IS_APPROX = false; // settled 2026-09-17, see the Sermones entry
 // Leaf counts are NOT used as page counts: they differ by front matter, plates
 // and the index, by 30–130 leaves in these volumes.
 // ---------------------------------------------------------------------------
+// Vol VI's works, same contract as VOL5_WORKS: `complete` is the work-close
+// gate's fact, declared here; `done` is counted. Extents are the first and last
+// printed pages of each work's body (the Collationes run through Appendix II,
+// p. 634). Vol VI's furniture leaves are not yet identified leaf by leaf, so no
+// N/N cross-check is enforced here; the home page uses this only for status.
+const VOL6_WORKS = [
+  { slug: "ecclesiasten", title: "Commentarius in Ecclesiasten", first: 3, last: 103, complete: true },
+  { slug: "sapientiam", title: "Commentarius in librum Sapientiae", first: 107, last: 235, complete: true },
+  { slug: "ioannem", title: "Commentarius in Evangelium S. Ioannis", first: 239, last: 532, complete: true },
+  { slug: "collationes-ioannem", title: "Collationes in Evangelium S. Ioannis", first: 535, last: 634, complete: false },
+];
+
 const MEASURED_EXTENTS = {
   6: {
     first: 1,
@@ -256,7 +268,7 @@ const VOLUMES = [
   { n: 3, tome: "III", year: 1887, title: "Commentarius in III librum Sententiarum", gloss: "Commentary on Book III — the Incarnation and the virtues" },
   { n: 4, tome: "IV", year: 1889, title: "Commentarius in IV librum Sententiarum", gloss: "Commentary on Book IV — the sacraments and the last things" },
   { n: 5, tome: "V", year: 1891, title: "Opuscula varia theologica", gloss: "The Breviloquium, Itinerarium, Hexaemeron, and the disputed questions" },
-  { n: 6, tome: "VI", year: 1893, title: "Commentarii in Sacram Scripturam", gloss: "Commentaries on Ecclesiastes, Wisdom, and John" },
+  { n: 6, tome: "VI", year: 1893, title: "Commentarii in Sacram Scripturam", gloss: "Commentaries on Ecclesiastes, Wisdom, and John; the Collations on John" },
   { n: 7, tome: "VII", year: 1895, title: "Commentarius in Evangelium S. Lucae", gloss: "The full commentary on the Gospel of Luke" },
   { n: 8, tome: "VIII", year: 1898, title: "Opuscula ad theologiam mysticam et res Ordinis", gloss: "Mystical and ascetic opuscula; Franciscan-order writings" },
   { n: 9, tome: "IX", year: 1901, title: "Sermones", gloss: "Sermons — de tempore, de sanctis, Marian, and diverse" },
@@ -308,6 +320,7 @@ for (const dir of VOL_DIRS) {
       // the first Vol VI chunk made it fire on a slug it was never about. A
       // later volume that grows a per-work denominator gets its own guard here.
       if (vol === 5 && !VOL5_WORKS.some((w) => w.slug === work)) unknownWorkSlugs.add(work);
+      if (vol === 6 && !VOL6_WORKS.some((w) => w.slug === work)) unknownWorkSlugs.add(work);
       if (!workPages.has(work)) workPages.set(work, new Set());
       for (const p of pages) workPages.get(work).add(p);
     }
@@ -318,7 +331,7 @@ if (unknownWorkSlugs.size) {
   // Loud, because a work outside the map is a page the denominator has not
   // accounted for — the one way this page could overstate itself.
   console.warn(
-    `build-progress: WORK SLUG NOT IN THE VOL V MAP: ${[...unknownWorkSlugs].join(", ")} — ` +
+    `build-progress: WORK SLUG NOT IN THE VOL V/VI MAP: ${[...unknownWorkSlugs].join(", ")} — ` +
       `its pages are in the numerator but its extent is not in the denominator.`
   );
 }
@@ -397,7 +410,8 @@ const volumes = VOLUMES.map((v) => {
       basis: "measured",
       extent: `pp. ${VOL5_BODY_FIRST}–${VOL5_LAST_IS_APPROX ? "~" : ""}${VOL5_BODY_LAST}`,
       approxEnd: VOL5_LAST_IS_APPROX,
-      state: "in-progress",
+      // Complete once every work in the map is declared complete (its gate closed).
+      state: works.every((w) => w.complete) ? "complete" : "in-progress",
       shortfall: total - done,
       pendingPages,
       nonTextLeaves: total - done - pendingPages,
@@ -415,7 +429,27 @@ const volumes = VOLUMES.map((v) => {
       basis: "measured",
       counted: m.counted !== false,
       extent: `pp. ${m.first}\u2013${m.last}`,
-      state: "planned",
+      // Begun as soon as one chunk carries its printed pages. A measured volume
+      // is never marked complete from the count alone: that waits for its gate.
+      state:
+        v.n === 6 && VOL6_WORKS.every((w) => w.complete)
+          ? "complete"
+          : done > 0
+            ? "in-progress"
+            : "planned",
+      ...(v.n === 6
+        ? {
+            works: VOL6_WORKS.map((w) => ({
+              slug: w.slug,
+              title: w.title,
+              extent: `pp. ${w.first}\u2013${w.last}`,
+              done: count(workPages.get(w.slug)),
+              total: w.last - w.first + 1,
+              complete: w.complete,
+              approxEnd: false,
+            })),
+          }
+        : {}),
       shortfall: total - done,
       source: {
         archiveId: m.archiveId,

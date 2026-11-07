@@ -7,6 +7,7 @@ import {
   Cinzel_Decorative,
 } from "next/font/google";
 import { Illumination } from "@/components/decorations";
+import { META_DESCRIPTION, SupportAppeal, SUPPORT_TIERS } from "@/components/site-copy";
 import "./globals.css";
 
 // next/font self-hosts these at build time — zero CLS, no external request.
@@ -42,8 +43,7 @@ const cinzelDecorative = Cinzel_Decorative({
 
 export const metadata: Metadata = {
   title: "Bonaventure — Opera Omnia",
-  description:
-    "An English translation of the Opera Omnia of St. Bonaventure from the Quaracchi critical edition. Currently presenting Volume I: Commentary on Book I of the Sentences of Peter Lombard.",
+  description: META_DESCRIPTION,
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
@@ -75,22 +75,13 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 
         <section className="site-support">
           <h2>Support the Translation</h2>
-          <p>
-            Bonaventure&apos;s commentary on the Sentences has never been fully translated into
-            English. All four books are now complete and free to read here; the <em>Opuscula</em>
-            {" "}&mdash; beginning with the <em>Breviloquium</em> &mdash; are underway. The pipeline
-            is proven; the pace is a compute bill.
-          </p>
+          <SupportAppeal />
           <div className="support-tiers">
-            <a href="https://buy.stripe.com/9B614m7iJfls3463z54gg08" target="_blank" rel="noopener">
-              $10 &mdash; a distinction
-            </a>
-            <a href="https://buy.stripe.com/3cI6oG32tfls7kmc5B4gg09" target="_blank" rel="noopener">
-              $100 &mdash; a decade
-            </a>
-            <a href="https://buy.stripe.com/cNi5kC8mN2yG5ce6Lh4gg0b" target="_blank" rel="noopener">
-              $10/mo &mdash; patron
-            </a>
+            {SUPPORT_TIERS.map((t) => (
+              <a key={t.href} href={t.href} target="_blank" rel="noopener">
+                {t.label}
+              </a>
+            ))}
           </div>
           <p className="support-fine">
             Everything stays free regardless. Wroot Press is a small independent press &mdash; an

@@ -292,14 +292,25 @@ export default function ProgressPage() {
               </p>
             )}
 
-            {v.n === 5 && v.works && (
+            {v.works && (
               <>
-                <p className="prog-note">
-                  Nine of the ten works are finished; the sermons remain. Of the{" "}
-                  {v.shortfall} pages still outstanding, {v.pendingPages} belong to the sermons
-                  and {v.nonTextLeaves} are half-titles, blank versos, and the editorial tables of
-                  chapters, which carry no text to translate.
-                </p>
+                {v.n === 5 && (<p className="prog-note">
+                  {v.works.every((w) => w.complete) ? (
+                    <>
+                      All {v.works.length} works are finished. The {v.shortfall} leaves not counted
+                      as translated are half-titles, blank versos, and the editorial tables of
+                      chapters, which carry no text to translate.
+                    </>
+                  ) : (
+                    <>
+                      {v.works.filter((w) => w.complete).length} of the {v.works.length} works are
+                      finished. Of the {v.shortfall} pages still outstanding, {v.pendingPages}{" "}
+                      belong to the works not yet finished and {v.nonTextLeaves} are half-titles,
+                      blank versos, and the editorial tables of chapters, which carry no text to
+                      translate.
+                    </>
+                  )}
+                </p>)}
                 <div className="prog-works">
                   {v.works.map((w) => (
                     <div

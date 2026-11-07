@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { loadAllContent } from "@/lib/content";
+import { loadAllContent, tomeSequence, chunkHref, type ReadingStop } from "@/lib/content";
 import { CrossDivider } from "@/components/decorations";
 import { TextReader } from "./text-reader";
 import { CitedBy } from "@/components/cited-by";
@@ -57,10 +57,14 @@ export default async function QuestionPage({
   const question = dist.questions.find((q) => q.id === decodeURIComponent(qId));
   if (!question) return <p>Question not found.</p>;
 
-  // Find prev/next
-  const qIdx = dist.questions.findIndex((q) => q.id === question.id);
-  const prevQ = qIdx > 0 ? dist.questions[qIdx - 1] : null;
-  const nextQ = qIdx < dist.questions.length - 1 ? dist.questions[qIdx + 1] : null;
+  // Prev/next run across divisions and works, within the tome.
+  const seq = tomeSequence(books, book);
+  const pos = seq.findIndex((st) => st.q.id === question.id && st.book.id === book.id);
+  const prevStop = pos > 0 ? seq[pos - 1] : null;
+  const nextStop = pos >= 0 && pos < seq.length - 1 ? seq[pos + 1] : null;
+  // When a step leaves this division (or work), say where it goes.
+  const context = (st: ReadingStop) =>
+    st.book.id !== book.id ? st.book.title : st.dist.id !== dist.id ? st.dist.title : null;
 
   const canonicalUrl = chunkUrl(book.id, dist.id, question.id);
   const jsonLd = {
@@ -87,18 +91,24 @@ export default async function QuestionPage({
     dateModified: new Date().toISOString().slice(0, 10),
   };
 
+  const tomeLabel = `Tome ${["I","II","III","IV","V","VI","VII","VIII","IX","X"][(book.tome ?? book.id) - 1]}`;
   return (
-    <div>
+    // Pagefind indexes chunk pages only (data-pagefind-body), with work and
+    // tome as filters; navigation and cited-by panels are excluded.
+    <div data-pagefind-body>
+      <span data-pagefind-filter="work" hidden>{book.title}</span>
+      <span data-pagefind-filter="tome" hidden>{tomeLabel}</span>
+      <span data-pagefind-meta="context" hidden>{`${book.title} · ${dist.title}`}</span>
       <script
         type="application/ld+json"
         // eslint-disable-next-line react/no-danger
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
-      <Link href={`/browse/${book.id}/d/${dist.id}`} className="back-link">
+      <Link href={`/browse/${book.id}/d/${dist.id}`} className="back-link" data-pagefind-ignore>
         &larr; Back to {dist.title}
       </Link>
 
-      <h2 className="h2" style={{ fontSize: "22px", marginBottom: "0.25rem" }}>
+      <h2 className="h2" style={{ fontSize: "22px", marginBottom: "0.25rem" }} data-pagefind-meta="title">
         {question.title}
       </h2>
       <p
@@ -124,37 +134,43 @@ export default async function QuestionPage({
         hasTranslation={question.hasTranslation}
       />
 
-      <CitedBy chunkId={question.id} />
+      <div data-pagefind-ignore>
+        <CitedBy chunkId={question.id} />
+      </div>
 
-      {(prevQ || nextQ) && (
-        <div
+      {(prevStop || nextStop) && (
+        <nav
+          data-pagefind-ignore
+          aria-label="Reading order"
           style={{
             display: "flex",
             justifyContent: "space-between",
+            gap: "1.5rem",
             marginTop: "2rem",
             paddingTop: "1rem",
             borderTop: "1px solid rgba(139,105,20,0.2)",
           }}
         >
-          {prevQ ? (
-            <Link
-              href={`/browse/${book.id}/d/${dist.id}/q/${encodeURIComponent(prevQ.id)}`}
-              className="back-link"
-            >
-              &larr; {prevQ.title}
+          {prevStop ? (
+            <Link href={chunkHref(prevStop)} className="back-link" rel="prev">
+              {context(prevStop) && <span className="seq-context">{context(prevStop)}</span>}
+              &larr; {prevStop.q.title}
             </Link>
           ) : (
             <span />
           )}
-          {nextQ && (
+          {nextStop && (
             <Link
-              href={`/browse/${book.id}/d/${dist.id}/q/${encodeURIComponent(nextQ.id)}`}
+              href={chunkHref(nextStop)}
               className="back-link"
+              rel="next"
+              style={{ textAlign: "right" }}
             >
-              {nextQ.title} &rarr;
+              {context(nextStop) && <span className="seq-context">{context(nextStop)}</span>}
+              {nextStop.q.title} &rarr;
             </Link>
           )}
-        </div>
+        </nav>
       )}
     </div>
   );

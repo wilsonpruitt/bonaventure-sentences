@@ -121,6 +121,24 @@ active (they edit the same file). The chunk loop pauses for it, or the phase lan
   Vol X as "Indices: replaced by this site's generated indices", linking to them. ⚠ **The footer appeal and the
   home intro are Wilson's voice and outward-facing: draft them, and Wilson approves the wording.**
 
+**▶ Phase 0 STATUS (2026-11-06): BUILT and verified locally, NOT deployed** (it rides the held p. 634 deploy).
+- Prev/next: tome-wide reading order (`tomeSequence` in `site/src/lib/content.ts`), with a context line when a step
+  leaves the division or work. *Verified: all 2,303 chunk pages link to the correct next/prev; only the last chunk
+  of each of the six tomes has no forward link.*
+- Pagefind: `pagefind --site out` in the `build` script; chunk pages only (`data-pagefind-body`), filters `work` +
+  `tome`; the search page no longer inlines an index (17 KB). *Verified: recall 30/30 on quoted four-word phrases
+  sampled from the second half of random chunks, both languages, all six tomes; apparatus present in indexed HTML
+  200/200.* ⚠ Two limits: no Latin/English language filter (Pagefind filters are per page, both languages share a
+  page), and no u/v or æ folding (the old client search folded them). Test script: re-derive from this note.
+- Facts: `build-progress.mjs` now derives Vol V `complete` and Vol VI `in-progress` (new `VOL6_WORKS` map; set
+  `collationes-ioannem` `complete: true` at the p. 634 gate), and the home scope table is derived from
+  `progress.json` (Vol X row = "Generated indices" → /scripture). The /progress page's Vol V note is derived too.
+- Prose: ALL scholar-owned copy is in ONE file, `site/src/components/site-copy.tsx` (`HomeIntro`,
+  `SupportAppeal`, `META_DESCRIPTION`, `SUPPORT_TIERS`). The current text is **neutral placeholder**, fact-only.
+  Tier labels unchanged; the Stripe hrefs moved file but are byte-identical.
+- Not done, still owed in Phase 0's spirit: the home "About this Project" card is still Sentences-only (scholar
+  copy, leave it for them), and the "N of M questions translated" cards wait on Phase 1's unit nouns.
+
 **Phase 1: work-aware reading.**
 - **Unit nouns.** Add `unitLabel` (singular/plural: "question", "chapter", "pericope", "collation", "sermon") to
   each `WORKS` entry, with the Sentences default "question". Replace every "N questions · M translated" and "X of Y

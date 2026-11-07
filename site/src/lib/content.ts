@@ -99,3 +99,34 @@ export function divisionCountLabel(book: Book): string {
   const label = n === 1 ? book.divisionLabel.replace(/s$/, "") : book.divisionLabel;
   return `${n} ${label.toLowerCase()}`;
 }
+
+/** One chunk's place in reading order. */
+export interface ReadingStop {
+  book: Book;
+  dist: Distinction;
+  q: Question;
+}
+
+let _sequence: Map<number, ReadingStop[]> | null = null;
+
+/** Reading order within a tome: every chunk of every division of every work,
+ *  in content order. Previous/next run across divisions and on into the next
+ *  work of the same tome, and stop at the tome's edge. Tomes I–IV hold one
+ *  work each, so there a book is a tome. */
+export function tomeSequence(books: Book[], book: Book): ReadingStop[] {
+  if (!_sequence) {
+    _sequence = new Map();
+    for (const b of books) {
+      const key = b.tome ?? b.id;
+      if (!_sequence.has(key)) _sequence.set(key, []);
+      const seq = _sequence.get(key)!;
+      for (const d of b.distinctions) for (const q of d.questions) seq.push({ book: b, dist: d, q });
+    }
+  }
+  return _sequence.get(book.tome ?? book.id) ?? [];
+}
+
+/** Address of a chunk page (pre-Phase-2 scheme). */
+export function chunkHref(stop: ReadingStop): string {
+  return `/browse/${stop.book.id}/d/${stop.dist.id}/q/${encodeURIComponent(stop.q.id)}`;
+}

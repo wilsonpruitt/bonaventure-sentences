@@ -213,12 +213,13 @@ a { color: inherit; text-decoration: none; }
   border-radius: 2px;
   white-space: nowrap;
 }
-.scope-published .scope-status {
+.scope-complete .scope-status {
   color: #3D1308;
   background: rgba(139,105,20,0.18);
   border: 1px solid rgba(139,105,20,0.35);
 }
-.scope-in-preparation .scope-status {
+.scope-in-progress .scope-status,
+.scope-indices .scope-status {
   color: #8B6914;
   background: rgba(139,105,20,0.07);
   border: 1px solid rgba(139,105,20,0.3);
@@ -967,4 +968,17 @@ a { color: inherit; text-decoration: none; }
   .prog-rowbar, .prog-note, .prog-works { grid-column: 1 / 3; }
   .prog-work { flex-direction: column; gap: 0.1rem; }
   .prog-headline-figure { font-size: 23px; }
+}
+.seq-context {
+  display: block;
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: rgba(139,105,20,0.75);
+  margin-bottom: 0.15rem;
+}
+.search-excerpt mark {
+  background: rgba(139,105,20,0.2);
+  color: inherit;
+  padding: 0 1px;
 }

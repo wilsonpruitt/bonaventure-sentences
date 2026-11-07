@@ -1,151 +1,149 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import Link from "next/link";
 
-interface SearchEntry {
+// Pagefind's runtime is generated into out/pagefind/ by the post-build step
+// (`pagefind --site out`). It does not exist under `next dev`; the page says so
+// rather than failing silently.
+interface PagefindResultData {
+  url: string;
+  excerpt: string; // HTML: Pagefind wraps matches in <mark>
+  meta: { title?: string; context?: string };
+}
+interface PagefindResult {
   id: string;
-  title: string;
-  bookId: number;
-  bookTitle: string;
-  distId: number;
-  distTitle: string;
-  hasTranslation: boolean;
-  latinPreview: string;
-  englishPreview: string;
+  data: () => Promise<PagefindResultData>;
+}
+interface Pagefind {
+  init: () => Promise<void>;
+  search: (
+    q: string,
+    opts?: { filters?: Record<string, string> }
+  ) => Promise<{ results: PagefindResult[] }>;
+  filters: () => Promise<Record<string, Record<string, number>>>;
 }
 
-type SearchMode = "both" | "latin" | "english";
+const PAGE_SIZE = 20;
+const TOME_ORDER = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X"];
 
-// Fold diacritics, ligatures, and the u/v distinction so queries like
-// "veritas" match "ueritas", "æternus", "aeternus", and forms with macrons.
-// Lowercase is applied at the call site.
-function fold(s: string): string {
-  return s
-    .normalize("NFKD")
-    .replace(/[\u0300-\u036f]/g, "")
-    .replace(/æ/g, "ae")
-    .replace(/œ/g, "oe")
-    .replace(/v/g, "u")
-    .replace(/j/g, "i");
+// Pagefind records exported pages as `…/chunk-id.html`; the site serves clean URLs.
+const cleanUrl = (u: string) => u.replace(/\.html$/, "").replace(/\/index$/, "/");
+
+async function loadPagefind(): Promise<Pagefind> {
+  const path = "/pagefind/pagefind.js";
+  const pf = (await import(/* webpackIgnore: true */ /* turbopackIgnore: true */ path)) as Pagefind;
+  await pf.init();
+  return pf;
 }
 
-export function SearchClient({ searchIndex }: { searchIndex: SearchEntry[] }) {
+export function SearchClient() {
+  const pf = useRef<Pagefind | null>(null);
+  const [status, setStatus] = useState<"loading" | "ready" | "unavailable">("loading");
+  const [tomes, setTomes] = useState<string[]>([]);
+  const [tome, setTome] = useState("");
   const [query, setQuery] = useState("");
-  const [mode, setMode] = useState<SearchMode>("both");
-  const [results, setResults] = useState<SearchEntry[]>([]);
+  const [all, setAll] = useState<PagefindResult[]>([]);
+  const [shown, setShown] = useState<PagefindResultData[]>([]);
   const [searched, setSearched] = useState(false);
+  const [busy, setBusy] = useState(false);
 
-  const doSearch = () => {
+  useEffect(() => {
+    loadPagefind()
+      .then(async (p) => {
+        pf.current = p;
+        const f = await p.filters();
+        setTomes(
+          Object.keys(f.tome ?? {}).sort(
+            (a, b) =>
+              TOME_ORDER.indexOf(a.replace("Tome ", "")) - TOME_ORDER.indexOf(b.replace("Tome ", ""))
+          )
+        );
+        setStatus("ready");
+      })
+      .catch(() => setStatus("unavailable"));
+  }, []);
+
+  const doSearch = async () => {
     const q = query.trim();
-    if (!q) {
-      setResults([]);
+    if (!pf.current || !q) {
+      setAll([]);
+      setShown([]);
       setSearched(false);
       return;
     }
-    const needle = fold(q.toLowerCase());
-    setResults(
-      searchIndex.filter((entry) => {
-        const title = fold(entry.title.toLowerCase());
-        const lat = fold(entry.latinPreview.toLowerCase());
-        const eng = fold(entry.englishPreview.toLowerCase());
-        if (title.includes(needle)) return true;
-        if (mode === "latin") return lat.includes(needle);
-        if (mode === "english") return eng.includes(needle);
-        return lat.includes(needle) || eng.includes(needle);
-      })
-    );
+    setBusy(true);
+    const res = await pf.current.search(q, tome ? { filters: { tome } } : undefined);
+    setAll(res.results);
+    setShown(await Promise.all(res.results.slice(0, PAGE_SIZE).map((r) => r.data())));
     setSearched(true);
+    setBusy(false);
   };
 
-  // Build a short snippet showing the match in context. Falls back to the
-  // first 150 chars if no match is found in the chosen preview field.
-  const snippet = (text: string, needleFolded: string): string => {
-    if (!text) return "";
-    const folded = fold(text.toLowerCase());
-    const idx = folded.indexOf(needleFolded);
-    if (idx < 0) return text.substring(0, 150) + "…";
-    const start = Math.max(0, idx - 60);
-    const end = Math.min(text.length, idx + needleFolded.length + 90);
-    const prefix = start > 0 ? "…" : "";
-    const suffix = end < text.length ? "…" : "";
-    return prefix + text.substring(start, end) + suffix;
+  const more = async () => {
+    setBusy(true);
+    const next = all.slice(shown.length, shown.length + PAGE_SIZE);
+    const data = await Promise.all(next.map((r) => r.data()));
+    setShown((s) => [...s, ...data]);
+    setBusy(false);
   };
-
-  const needle = fold(query.trim().toLowerCase());
 
   return (
     <div>
       <div className="section-title">Search the Corpus</div>
-      <div
-        style={{
-          display: "flex",
-          gap: "0.5rem",
-          marginBottom: "0.75rem",
-          flexWrap: "wrap",
-        }}
-      >
+      <p className="card-meta" style={{ marginBottom: "1rem" }}>
+        Searches the full Latin and English text of every chunk, with the editors&rsquo; notes. Put
+        a phrase in quotation marks to match it exactly.
+      </p>
+
+      {status === "unavailable" && (
+        <p className="body-text" style={{ color: "#6B4A3A" }}>
+          The search index is not available. It is built with the site (<code>pnpm build</code>);
+          it does not exist under the development server.
+        </p>
+      )}
+
+      <div style={{ display: "flex", gap: "0.5rem", marginBottom: "0.75rem", flexWrap: "wrap" }}>
         <input
           type="text"
           value={query}
           onChange={(e) => setQuery(e.target.value)}
           onKeyDown={(e) => e.key === "Enter" && doSearch()}
-          placeholder={
-            mode === "latin"
-              ? "Search Latin text (e.g. veritas, simplicitas)…"
-              : mode === "english"
-                ? "Search English translations…"
-                : "Search Latin or English…"
-          }
+          placeholder="Search Latin or English (e.g. veritas, “lumen gloriae”)…"
           className="search-input"
           style={{ flex: "1 1 260px" }}
+          disabled={status !== "ready"}
+          aria-label="Search terms"
         />
-        <button onClick={doSearch} className="search-btn">
+        <select
+          value={tome}
+          onChange={(e) => setTome(e.target.value)}
+          className="search-input"
+          style={{ flex: "0 0 auto" }}
+          disabled={status !== "ready"}
+          aria-label="Limit to a tome"
+        >
+          <option value="">All tomes</option>
+          {tomes.map((t) => (
+            <option key={t} value={t}>
+              {t}
+            </option>
+          ))}
+        </select>
+        <button onClick={doSearch} className="search-btn" disabled={status !== "ready" || busy}>
           Search
         </button>
       </div>
 
-      <div
-        style={{
-          display: "flex",
-          gap: "0.5rem",
-          marginBottom: "1.5rem",
-          fontFamily: "var(--font-cinzel), serif",
-          fontSize: "11px",
-          letterSpacing: "0.1em",
-        }}
-      >
-        {(["both", "latin", "english"] as const).map((m) => (
-          <button
-            key={m}
-            onClick={() => setMode(m)}
-            className={mode === m ? "mode-toggle active" : "mode-toggle"}
-            aria-pressed={mode === m}
-          >
-            {m === "both" ? "LATIN + ENGLISH" : m === "latin" ? "LATIN" : "ENGLISH"}
-          </button>
-        ))}
-      </div>
-
-      {results.length > 0 && (
+      {shown.length > 0 && (
         <div>
-          <p className="card-meta" style={{ marginBottom: "1rem" }}>
-            {results.length} result{results.length !== 1 ? "s" : ""} found
+          <p className="card-meta" style={{ margin: "1rem 0" }}>
+            {all.length} result{all.length !== 1 ? "s" : ""}
           </p>
-          {results.map((r) => {
-            const latSnip = snippet(r.latinPreview, needle);
-            const engSnip = snippet(r.englishPreview, needle);
-            const showLat =
-              mode !== "english" && r.latinPreview && (mode === "latin" || fold(r.latinPreview.toLowerCase()).includes(needle));
-            const showEng =
-              mode !== "latin" && r.englishPreview && (mode === "english" || fold(r.englishPreview.toLowerCase()).includes(needle));
-            return (
-              <Link
-                key={r.id}
-                href={`/browse/${r.bookId}/d/${r.distId}/q/${encodeURIComponent(r.id)}`}
-                className="card-link"
-              >
-                <div className="card">
+          {shown.map((r) => (
+            <Link key={r.url} href={cleanUrl(r.url)} className="card-link">
+              <div className="card">
+                {r.meta.context && (
                   <p
                     style={{
                       fontSize: "12px",
@@ -155,55 +153,42 @@ export function SearchClient({ searchIndex }: { searchIndex: SearchEntry[] }) {
                       marginBottom: "0.25rem",
                     }}
                   >
-                    {r.bookTitle} &middot; {r.distTitle}
-                    {!r.hasTranslation && (
-                      <span style={{ marginLeft: "0.5rem", color: "#B8862A" }}>
-                        · Latin only
-                      </span>
-                    )}
+                    {r.meta.context}
                   </p>
-                  <h3
-                    style={{
-                      fontFamily: "var(--font-cinzel), serif",
-                      fontSize: "15px",
-                      fontWeight: 500,
-                      color: "#3D1308",
-                      marginBottom: "0.5rem",
-                    }}
-                  >
-                    {r.title}
-                  </h3>
-                  {showLat && (
-                    <p
-                      style={{
-                        fontSize: "13px",
-                        color: "#4A3A2A",
-                        fontStyle: "italic",
-                        marginBottom: showEng ? "0.35rem" : 0,
-                      }}
-                    >
-                      {latSnip}
-                    </p>
-                  )}
-                  {showEng && (
-                    <p style={{ fontSize: "13px", color: "#6B4A3A" }}>
-                      {engSnip}
-                    </p>
-                  )}
-                </div>
-              </Link>
-            );
-          })}
+                )}
+                <h3
+                  style={{
+                    fontFamily: "var(--font-cinzel), serif",
+                    fontSize: "15px",
+                    fontWeight: 500,
+                    color: "#3D1308",
+                    marginBottom: "0.5rem",
+                  }}
+                >
+                  {r.meta.title ?? r.url}
+                </h3>
+                <p
+                  className="search-excerpt"
+                  style={{ fontSize: "13px", color: "#4A3A2A" }}
+                  // Excerpt HTML comes from the site's own index (only <mark> tags).
+                  dangerouslySetInnerHTML={{ __html: r.excerpt }}
+                />
+              </div>
+            </Link>
+          ))}
+          {shown.length < all.length && (
+            <div style={{ textAlign: "center", margin: "1.5rem 0" }}>
+              <button onClick={more} className="search-btn" disabled={busy}>
+                Show more
+              </button>
+            </div>
+          )}
         </div>
       )}
 
-      {searched && results.length === 0 && (
-        <p
-          className="body-text"
-          style={{ color: "#6B4A3A", textAlign: "center", margin: "3rem 0" }}
-        >
-          No results found for &ldquo;{query}&rdquo;. Try different terms or switch
-          search mode.
+      {searched && all.length === 0 && (
+        <p className="body-text" style={{ color: "#6B4A3A", textAlign: "center", margin: "3rem 0" }}>
+          No results for &ldquo;{query}&rdquo;.
         </p>
       )}
     </div>
