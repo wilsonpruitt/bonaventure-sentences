@@ -4895,6 +4895,13 @@ KNOWN_TOTALS_VOL7 = {
              # Blocks L 1-4 head / R 4 tail + 5-7 (n.4 RUNS OVER the gutter: c1-v1-4's to ledger). Gutter, top
              # region (rows 0.045-0.185): text edges 1148 | 1206, rule ~1180, ~1178; the default 1179/62 px window
              # sits on the c.1 region below the stack and is that region's value, not checked here.
+             # Re-read at bon-luc-c1-v1-4: the two readings AGREE (7; nn.4-7 here: n.4 L *Hieronymi*,
+             # n.5 R *in nobis*, nn.6-7 R *primo*/*primo*). c.1 region (rows 0.41-0.78) gutter 1180
+             # (band 1149-1211, 63 px, island 1178-1183): the default confirmed for that region.
+    12: 9,   # FULL leaf count. bon-luc-c1-v1-4 owns nn.1-7 (anchors L 1-4 in paras 4-5, R 5-7 in para 6, all
+             # above the in-column DIVISIO GENERALIS heading at ~0.69); nn.8-9 are bon-luc-c1-v5-17's (n.8
+             # anchored ON DIVISIO GENERALIS, n.9 para 7 *supra*). Blocks L 1-8 head / R 8 tail + 9 (n.8 RUNS
+             # OVER the gutter: c1-v5-17's to ledger). Gutter 1268 (edges 1236 | 1300, rule 1266-1270).
 }
 
 KNOWN_TOTALS_BY_VOL = {

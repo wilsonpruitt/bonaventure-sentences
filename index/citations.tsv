@@ -35602,6 +35602,27 @@ bon-sap-prooem	6	apparatus:p109-4	p109-4	scripture	apparatus-explicit	Sap. 8, 1	
 bon-sap-prooem	6	apparatus:p109-5	p109-5	crossref	page	tom. II. pag. 473	bon-sent-II-d19-a3-q2+bon-sent-II-d19-dubia		page-multi			
 bon-sap-prooem	6	apparatus:p109-5	p109-5	crossref	page	tom. II. pag. 134	bon-sent-II-d4-a1-q2		chunk			
 bon-sap-prooem	6	apparatus:p109-5	p109-5	scripture	apparatus-explicit	Eccli. 10, 2	Eccli 10:2	A	verse			
+bon-luc-c1-v1-4	7	latin_body		scripture	body-ordinal	ad Corinthios undecimo	2Cor 11	C	chapter			
+bon-luc-c1-v1-4	7	latin_body		scripture	body-ordinal	Ioannis primo	Ioan 1	C	chapter			
+bon-luc-c1-v1-4	7	latin_body	p11-6	scripture	body-ordinal	Ioannis primo	1Ioan 1:1	B	verse			
+bon-luc-c1-v1-4	7	latin_body		scripture	body-ordinal	Ioannis decimo nono	Ioan 19	C	chapter			
+bon-luc-c1-v1-4	7	latin_body	p11-7	scripture	body-ordinal	Actuum primo	Act 1:21	B	verse			
+bon-luc-c1-v1-4	7	latin_body		scripture	body-ordinal	ad Corinthios quarto	1Cor 4	C	chapter			
+bon-luc-c1-v1-4	7	latin_body	p12-2	scripture	body-ordinal	Machabaeorum secundo	2Mach 2:31	B	verse			
+bon-luc-c1-v1-4	7	latin_body	p12-3	scripture	body-ordinal	ad Timotheum tertio	2Tim 3:16	B	verse			
+bon-luc-c1-v1-4	7	latin_body		scripture	body-ordinal	Ioannis decimo quarto	Ioan 14	C	chapter			
+bon-luc-c1-v1-4	7	apparatus:p11-4	p11-4	crossref	page	pag. 7	bon-luc-prol+bon-luc-prooem		page-multi			
+bon-luc-c1-v1-4	7	apparatus:p11-4	p11-4	scripture	apparatus-explicit	II. Cor. 11, 13	2Cor 11:13	A	verse			
+bon-luc-c1-v1-4	7	apparatus:p11-4	p11-4	scripture	anaphor->apparatus-explicit	loc. cit.	2Cor 11:13	A	verse	yes	II. Cor. 11, 13	
+bon-luc-c1-v1-4	7	apparatus:p11-5	p11-5	scripture	apparatus-explicit	Ioan. 1, 14	Ioan 1:14	A	verse			
+bon-luc-c1-v1-4	7	apparatus:p11-6	p11-6	scripture	apparatus-explicit	Ioan. 19, 35	Ioan 19:35	A	verse			
+bon-luc-c1-v1-4	7	apparatus:p11-6	p11-6	scripture	anaphor->apparatus-explicit	loc. cit.	Ioan 19:35	A	verse	yes	Ioan. 19, 35	
+bon-luc-c1-v1-4	7	apparatus:p11-7	p11-7	scripture	apparatus-explicit	I. Cor. 4, 1	1Cor 4:1	A	verse			
+bon-luc-c1-v1-4	7	apparatus:p12-1	p12-1	crossref	page	supra pag. 7	bon-luc-prol+bon-luc-prooem		page-multi			
+bon-luc-c1-v1-4	7	apparatus:p12-2	p12-2	scripture	apparatus-explicit	Ioan. 21, 25	Ioan 21:25	A	verse			
+bon-luc-c1-v1-4	7	apparatus:p12-4	p12-4	scripture	apparatus-explicit	Ioan. 14, 21	Ioan 14:21	A	verse			
+bon-luc-c1-v1-4	7	apparatus:p12-6	p12-6	scripture	apparatus-explicit	Deut. 19, 15	Deut 19:15	A	verse			
+bon-luc-c1-v1-4	7	apparatus:p12-6	p12-6	scripture	apparatus-explicit	Matth. 18, 16	Matth 18:16	A	verse			
 bon-luc-prol	7	latin_body	p8-1	scripture	body-ordinal	ad Timotheum ultimo	2Tim 4:11	B	verse			
 bon-luc-prol	7	latin_body	p8-2	scripture	body-ordinal	Genesis quadragesimo primo	Gen 41:38	B	verse			
 bon-luc-prol	7	latin_body	p8-4	scripture	body-ordinal	Ioannis decimo nono	Ioan 19:19	B	verse			

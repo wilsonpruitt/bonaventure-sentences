@@ -1087,6 +1087,12 @@ const WORKS = {
       // also holds bon-luc-prol (section 2), whose in-column PROLOGUS SANCTI
       // HIERONYMI heading on p. 7L carries anchor 2.
       0: "Prooemium",
+      // `CAPITULUM I.` read in place on p. 11 at bon-luc-c1-v1-4: centred
+      // small capitals under the full-measure COMMENTARIUS / IN EVANGELIUM
+      // S. LUCAE stack (no period after LUCAE), UNANCHORED, with NO subtitle;
+      // the in-column `PROLOGUS EVANGELISTAE.` (tier 0, unanchored) stands at
+      // the head of 11L below it and titles that chunk.
+      1: "Capitulum I",
     },
   },
 };
