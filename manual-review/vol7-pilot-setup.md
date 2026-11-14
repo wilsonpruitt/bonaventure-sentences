@@ -176,7 +176,15 @@ the Tabula's printed reference looks wrong against the body; **check on the plat
 | p. 551, col. 1, l. 14 | *inclucit* → *includit* | **Already flagged** in the `bon-cioan-*` chunk holding p. 551 as "[so printed: *inclucit* for *includit*]". Caught independently; now confirmed by the editors. |
 | p. 573, col. 2, last line | *cogitationum* → *cogitationibus* | **UNAPPLIED.** `bon-cioan-c8.md` l. 39 "inter se invicem cogitationum accusantibus". |
 
-**Five of six are unapplied in a deployed volume.** And the wider finding: Vol V's raw has its own
+**✅ APPLIED 2026-11-14, commit `b804dec` (rulings 8–9): all six rows, each read on its Vol VI plate first.** The "State" column above
+is the state AS FOUND at scouting and is kept as the record. p. 551 lost its `[so printed]` bracket for the
+corrigenda convention like the other five. Two of the Corrigenda's own column references are loose against the
+plates (p. 551 *in-|clucit* stands at col. 2 ll. 13–14, not col. 1; p. 573 *cogitatio-|num* breaks across the
+column foot), and p. 252 needed three decisions the entry does not spell out (verse tag moves with the number;
+lemma capitalised at the paragraph head; the printed break before the second *In mundo erat* closed), all
+recorded in each chunk's `## Notes`. Local only: live when Wilson next pushes and deploys.
+
+**Five of six were unapplied in a deployed volume (as found).** And the wider finding: Vol V's raw has its own
 `CORRIGENDA ET ADDENDA` leaf (`doctorisseraphic05bona_djvu.txt` L99769, ≈ 20 entries), and the Vol II / III / IV
 raws each mention `CORRIGENDA` (1 / 2 / 2 hits). **The corpus has no corrigenda convention at all** (`CLAUDE.md`
 has none). Proposal 9 in the scouting sheet.
