@@ -4936,6 +4936,24 @@ KNOWN_TOTALS_VOL7 = {
              # *Bernardus*, n.8 para 40 *ibi*, n.9 para 41 *Martius*, n.10 para 41 *conditus*, all R) and are
              # bon-luc-c1-v26-38's. Blocks L 1-9 head / R 9 tail + 10 (n.9 RUNS OVER the gutter: c1-v26-38's
              # to ledger). nn.7-10 read at overview scale for the hand-off only. Gutter 1277 (default, 60 px).
+             # Re-read at bon-luc-c1-v26-38: the two readings AGREE (10; nn.7-10 here, all 20R below the
+             # rubric). n.9's gutter runover (*...Inferius allegatur Isai.* | *66, 22. seq.*) ledgered by c1-v26-38.
+    21: 10,  # bon-luc-c1-v26-38. Anchors L 1-5 / R 6-10; blocks L 1-5 head / R 5 tail + 6-10 (n.5 RUNS OVER
+             # the gutter). n.10 RUNS OVER THE PAGE: its tail (*Matthaeo: Mariam plerique...*) opens p.22's LEFT
+             # block unnumbered. Gutter 1185.
+    22: 9,   # bon-luc-c1-v26-38. Left block opens with p.21 n.10's tail, then nn.1-2; R 3-9 (n.3 prints RIGHT,
+             # anchor LEFT). Anchors L 1-3 / R 4-9. Corrigenda site (para 45 *de virgine et Deo*) is col.1 l.15
+             # on the plate (the Corrigenda says l.14). Gutter 1266.
+    23: 11,  # bon-luc-c1-v26-38. Anchors L 1-5 / R 6-11; blocks L 1-5 / R 6-11, no runover. Gutter 1178.
+    24: 8,   # bon-luc-c1-v26-38. Anchors L 1-4 / R 5-8; blocks L 1-4 / R 5-8, no runover. Gutter 1269.
+    25: 12,  # bon-luc-c1-v26-38. Anchors L 1-5 / R 6-12; blocks L 1-5 head / R 5 tail + 6-12 (n.5 RUNS OVER
+             # the gutter). Gutter 1165.
+    26: 9,   # bon-luc-c1-v26-38. Anchors L 1-4 / R 5-9; blocks L 1-7 head / R 7 tail + 8-9 (nn.5-7 print LEFT,
+             # anchor RIGHT; n.7 RUNS OVER the gutter). Gutter 1284.
+    27: 11,  # FULL leaf count. bon-luc-c1-v26-38 owns nn.1-6 (anchors L 1-5 in paras 69-70, n.6 R at para 70's
+             # closing *opportuno*, above the t3 cascade *Secundo, de gratiarum actione pro utraque conceptione.*);
+             # nn.7-11 anchor BELOW it (paras 71-72, all R) and are bon-luc-c1-v39-45's. Blocks L 1-4 / R 5-11
+             # (n.5 prints RIGHT, anchor LEFT), no runover; left block opens numbered. Gutter 1171.
 }
 
 KNOWN_TOTALS_BY_VOL = {
