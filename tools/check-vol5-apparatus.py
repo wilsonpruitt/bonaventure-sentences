@@ -4964,6 +4964,20 @@ KNOWN_TOTALS_VOL7 = {
              # above the t4 *Secundo subditur canticum laetitiae.* at ~0.35 of 30R); nn.8-10 anchor BELOW it
              # (n.8 para 86 *ibi*, n.9 para 87 *eius*, n.10 para 87 *tertio*, all R) and are bon-luc-c1-v46-56's.
              # Blocks L 1-5 / R 6-10, no runover. Gutter 1293 (auto 54 px; profile band 1261-1325 confirms).
+             # Re-read at bon-luc-c1-v46-56: the two readings AGREE (10; nn.8-10 here: para 86 *ibi* n.8,
+             # para 87 *eius* n.9 inside the Ps. 146:5 quotation, para 87 *tertio* n.10, all 30R below the t4).
+    31: 10,  # bon-luc-c1-v46-56. Anchors L 1-6 / R 7-10; blocks L 1-7 head / R 7 tail + 8-10 (n.7 RUNS OVER
+             # the gutter). Gutter 1160 (default, 61 px).
+    32: 9,   # bon-luc-c1-v46-56. Anchors L 1-5 / R 6-9; blocks L 1-2 head / R 2 tail + 3-9 (nn.3-5 print
+             # RIGHT, anchor LEFT; n.2 RUNS OVER the gutter). Gutter 1287 (default, 60 px).
+    33: 10,  # bon-luc-c1-v46-56. Anchors L 1-6 / R 7-10; blocks L 1-5 / R 6-10 (n.6 prints RIGHT, anchor LEFT),
+             # no runover. Gutter 1169 (default 1167 on 56 px; profile rows 0.40-0.75 band 1140-1198, island
+             # 1163-1173, confirms within 2 px).
+    34: 9,   # FULL leaf count. bon-luc-c1-v46-56 owns nn.1-8 (anchors L 1-3 in paras 100-101, R 4-8 in paras
+             # 101-103, all above the t4 *De gratiarum actione pro ortu praecursoris dicuntur tria.* at ~0.56
+             # of 34R); n.9 anchors BELOW it (para 104 *ibi*, R) and is bon-luc-c1-v57-66's. Blocks L 1-5
+             # head / R 5 tail + 6-9 (n.5 RUNS OVER the gutter: c1-v46-56's to ledger). Gutter 1284: default
+             # 1290 on 58 px; profile rows 0.10-0.55 band 1255-1312, island 1280-1289 (24 windows 1283-1286).
 }
 
 KNOWN_TOTALS_BY_VOL = {
