@@ -4978,6 +4978,19 @@ KNOWN_TOTALS_VOL7 = {
              # of 34R); n.9 anchors BELOW it (para 104 *ibi*, R) and is bon-luc-c1-v57-66's. Blocks L 1-5
              # head / R 5 tail + 6-9 (n.5 RUNS OVER the gutter: c1-v46-56's to ledger). Gutter 1284: default
              # 1290 on 58 px; profile rows 0.10-0.55 band 1255-1312, island 1280-1289 (24 windows 1283-1286).
+             # Re-read at bon-luc-c1-v57-66: the two readings AGREE (9; n.9 para 104 *ibi*, 34R below the t4).
+    35: 10,  # bon-luc-c1-v57-66. Anchors L 1-6 / R 7-10; blocks L 1-6 / R 7-10, no runover. Gutter 1166
+             # (default 1163 on 58 px; profile rows 0.15-0.75 band 1137-1195, island 1161-1171).
+    36: 9,   # bon-luc-c1-v57-66. Anchors L 1-5 / R 6-9; blocks L 1-5 head / R 5 tail + 6-9 (n.5 RUNS OVER
+             # the gutter). Gutter 1288 (default 1292 on 59 px; profile band 1260-1317, island 1283-1293).
+    37: 13,  # bon-luc-c1-v57-66. Anchors L 1-7 / R 8-13; blocks L 1-5 / R 6-13 (nn.6-7 print RIGHT, anchor
+             # LEFT), no runover. Gutter 1156: default 1163 on 47 px; profile rows 0.15-0.75 band 1127-1184,
+             # island 1151-1160 (windows 1155-1156).
+    38: 12,  # FULL leaf count. bon-luc-c1-v57-66 owns n.1 only (para 118 *Ezechielis tertio*, 38L, above the
+             # t4 *De laude et gratiarum actione ponuntur duo.* at ~0.28); nn.2-12 anchor BELOW it (n.2 para
+             # 119 *ibi*) and are bon-luc-c1-v67-80's. Blocks L 1-7 / R 8-12; n.12 does not finish on the leaf
+             # (*...Cuius nominis impositio [Israel pro*): a page-crossing runover onto p.39, c1-v67-80's to
+             # ledger. Gutter 1294 (default 62 px; profile band 1264-1325, island 1293-1297).
 }
 
 KNOWN_TOTALS_BY_VOL = {
