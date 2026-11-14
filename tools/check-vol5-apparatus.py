@@ -4881,6 +4881,20 @@ KNOWN_TOTALS_VOL7 = {
     7: 10,   # FULL leaf count. bon-luc-prooem owns n.1 only (anchor L, *primo*, above the in-column PROLOGUS SANCTI
              # HIERONYMI heading); nn.2-10 are bon-luc-prol's (n.2 anchored ON that heading, nn.3-10 in the Prologus
              # and its Expositio). Gutter 1170 (one region; the heading is in-column).
+             # Re-read at bon-luc-prol: the two readings AGREE (10; n.2 on the heading, nn.3-5 L, nn.6-10 R).
+             # Blocks L 1-4 / R 5-10, no runover.
+    8: 9,    # bon-luc-prol. Anchors L 1-3 / R 4-9; blocks L 1-7 head / R 7 tail + 8-9 (nn.4-6 print LEFT, anchor
+             # RIGHT; n.7 RUNS OVER the gutter). Gutter 1274.
+    9: 7,    # bon-luc-prol. Anchors L 1-5 / R 6-7; blocks L 1-5 head / R 5 tail + 6-7 (n.5 RUNS OVER the gutter).
+             # n.7 RUNS OVER THE PAGE: its tail opens p.10's LEFT block unnumbered. Gutter 1174.
+    10: 6,   # bon-luc-prol. Left block opens with p.9 n.7's tail (unnumbered), then nn.1-2 head; R 2 tail + 3-6
+             # (n.2 RUNS OVER the gutter; nn.3-4 print RIGHT, anchor LEFT). Anchors L 1-4 / R 5-6. Gutter 1267.
+    11: 7,   # FULL leaf count. bon-luc-prol owns nn.1-3 (anchors in expositio para.11's tail ABOVE the display stack
+             # COMMENTARIUS / IN EVANGELIUM S. LUCAE / Capitulum I.: n.1 L *edere*, nn.2-3 R *caritatis*, *nono*);
+             # nn.4-7 anchor BELOW the stack (PROLOGUS EVANGELISTAE, c.1 paras 1-3) and are bon-luc-c1-v1-4's.
+             # Blocks L 1-4 head / R 4 tail + 5-7 (n.4 RUNS OVER the gutter: c1-v1-4's to ledger). Gutter, top
+             # region (rows 0.045-0.185): text edges 1148 | 1206, rule ~1180, ~1178; the default 1179/62 px window
+             # sits on the c.1 region below the stack and is that region's value, not checked here.
 }
 
 KNOWN_TOTALS_BY_VOL = {

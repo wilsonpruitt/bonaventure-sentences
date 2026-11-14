@@ -16,3 +16,4 @@
 # ⚠ An inherited runover is logged by the chunk that OWNS the note, once. A
 # runover on a leaf this chunk shares but does not own is the neighbour's line.
 bon-luc-prooem	p.3 n.4:gutter,p.4 n.8:gutter,p.6 n.5:gutter
+bon-luc-prol	p.8 n.7:gutter,p.9 n.5:gutter,p.9 n.7:page,p.10 n.2:gutter
