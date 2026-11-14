@@ -301,6 +301,7 @@ bon-sent-I-d16-a1-q2	1	apparatus:20	20	crossref	relative-inherited	ibid	bon-sent
 bon-sent-I-d16-a1-q3	1	latin_body	10	scripture	body-ordinal	Ioannis decimo sexto	Ioan 16:13	B	verse			
 bon-sent-I-d16-a1-q3	1	latin_body	25	scripture	body-ordinal	Ioannis vigesimo	Ioan 20:22	B	verse			
 bon-sent-I-d16-a1-q3	1	scholion		scripture	apparatus-explicit	Matth. 17, 5	Matth 17:5	A	verse			
+bon-sent-I-d16-a1-q3	1	scholion		crossref	lucam	Comment. in Lucam c. 9. v. 34.	lucam:9:34		forward			
 bon-sent-I-d16-a1-q3	1	apparatus:3	3	scripture	apparatus-explicit	Hebr. 2, 7	Hebr 2:7	A	verse			
 bon-sent-I-d16-a1-q3	1	apparatus:8	8	scripture	apparatus-explicit	Act. 8, 17	Act 8:17	A	verse			
 bon-sent-I-d16-a1-q3	1	apparatus:24	24	scripture	apparatus-explicit	Levit. 12, 6	Lev 12:6	A	verse			
@@ -538,6 +539,7 @@ bon-sent-I-d2-dubia	1	apparatus:1	1	crossref	anaphor->work	ibid.	work:itinerariu
 bon-sent-I-d2-dubia	1	apparatus:1	1	crossref	work	Breviloq. p. V. c. 6	bon-brev-p5-c6		chunk			
 bon-sent-I-d2-dubia	1	apparatus:1	1	crossref	logical	II. Sent. d. 23. a. 2. q. 3.	bon-sent-II-d23-a2-q3		chunk			
 bon-sent-I-d2-dubia	1	apparatus:1	1	crossref	work	Hexaem.	work:hexaemeron		work			
+bon-sent-I-d2-dubia	1	apparatus:1	1	crossref	lucam	Comment. in Luc. IX, 28.	lucam:9:28		forward			
 bon-sent-I-d2-dubia	1	apparatus:9	9	crossref	relative	infra d. 22. q. 3.	bon-sent-I-d22-a1-q3		chunk			
 bon-sent-I-d2-dubia	1	apparatus:11	11	crossref	relative	infra d. 31. p. II. a. 1. q. 1.	bon-sent-I-d31-p2-a1-q1		chunk			
 bon-sent-I-d2-dubia	1	apparatus:17	17	crossref	relative	infra d. 24. a. 2. q. 1.	bon-sent-I-d24-a2-q1		chunk			
@@ -10368,6 +10370,7 @@ bon-sent-III-d30-a1-q4	3	scholion		crossref	relative	supra d. 28. q. 3.	bon-sent
 bon-sent-III-d30-a1-q4	3	scholion		authority	authority:Bonav.	d. 29. q. 6.			excluded			
 bon-sent-III-d30-a1-q4	3	scholion		crossref	relative	supra d. 28. q. 1	bon-sent-III-d28-a1-q1		chunk			
 bon-sent-III-d30-a1-q4	3	scholion		crossref	anaphor->relative	loc. cit.	bon-sent-III-d28-a1-q1		chunk	yes	supra d. 28. q. 1	
+bon-sent-III-d30-a1-q4	3	scholion		crossref	lucam	Comment. in Lucam, 17, 4.	lucam:17:4		forward			
 bon-sent-III-d30-a1-q4	3	apparatus:2	2	scripture	apparatus-explicit	Luc. 10, 36	Luc 10:36	A	verse			
 bon-sent-III-d30-a1-q4	3	apparatus:6	6	scripture	apparatus-explicit	Rom. 7, 23	Rom 7:23	A	verse			
 bon-sent-III-d30-a1-q4	3	apparatus:6	6	scripture	apparatus-explicit	Gal. 5, 17	Gal 5:17	A	verse			
@@ -11131,6 +11134,7 @@ bon-sent-III-d35-littera	3	apparatus:8	8	scripture	anaphor->apparatus-explicit	i
 bon-sent-III-d36-a1-q1	3	latin_body	1	scripture	body-ordinal	Isaiae decimo sexto	Isai 16:14	B	verse			
 bon-sent-III-d36-a1-q1	3	scholion		scripture	apparatus-explicit	Matth. 5, 3-10	Matth 5:3-10	A	verse			
 bon-sent-III-d36-a1-q1	3	scholion		crossref	work	Breviloq. p. V. c. 6	bon-brev-p5-c6		chunk			
+bon-sent-III-d36-a1-q1	3	scholion		crossref	lucam	Comment. in Lucam (c. 6. n. 20.	lucam:6:n20		forward			
 bon-sent-III-d36-a1-q1	3	apparatus:2	2	crossref	logical	IV. Sent. d. 15. p. I. q. 2.	bon-sent-IV-d15-p1-a1-q2		chunk			
 bon-sent-III-d36-a1-q1	3	apparatus:3	3	scripture	apparatus-explicit	II. Cor. 6, 15	2Cor 6:15	A	verse			
 bon-sent-III-d36-a1-q1	3	apparatus:3	3	crossref	logical	II. Sent. d. 27. a. 1. q. 1.	bon-sent-II-d27-a1-q1		chunk			
@@ -23612,6 +23616,7 @@ bon-serm-s2	5	apparatus:p545-10	p545-10	crossref	logical	II. Sent. d. 22. a. 1. 
 bon-serm-s2	5	apparatus:p545-10	p545-10	scripture	apparatus-explicit	Iob 11, 12	Iob 11:12	A	verse			
 bon-serm-s2	5	apparatus:p545-10	p545-10	scripture	apparatus-explicit	Ps. 73, 23	Ps 73:23	A	verse			
 bon-serm-s2	5	apparatus:p545-10	p545-10	scripture	apparatus-explicit	Matth. 18, 4	Matth 18:4	A	verse			
+bon-serm-s2	5	apparatus:p545-12	p545-12	crossref	lucam	Comment. in Lucam, ad 18, 25	lucam:18:25		forward			
 bon-serm-s2	5	apparatus:p546-1	p546-1	scripture	apparatus-explicit	Ps. 142, 3	Ps 142:3	A	verse			
 bon-serm-s2	5	apparatus:p546-3	p546-3	scripture	apparatus-explicit	Iob 8, 22	Iob 8:22	A	verse			
 bon-serm-s2	5	apparatus:p546-3	p546-3	scripture	apparatus-explicit	Iac. 2, 5	Iac 2:5	A	verse			
@@ -23654,6 +23659,7 @@ bon-serm-s2	5	apparatus:p550-4	p550-4	scripture	apparatus-explicit	Matth. 20, 16
 bon-serm-s2	5	apparatus:p550-4	p550-4	scripture	apparatus-explicit	Matth. 13, 48	Matth 13:48	A	verse			
 bon-serm-s2	5	apparatus:p550-6	p550-6	scripture	apparatus-explicit	Rom. 8, 28	Rom 8:28	A	verse			
 bon-serm-s2	5	apparatus:p550-8	p550-8	scripture	apparatus-explicit	Luc. 13, 21	Luc 13:21	A	verse			
+bon-serm-s2	5	apparatus:p550-9	p550-9	crossref	lucam	Comment. in Luc. 13, 21.	lucam:13:21		forward			
 bon-serm-s2	5	apparatus:p551-2	p551-2	scripture	apparatus-explicit	Phil. 3, 8	Phil 3:8	A	verse			
 bon-serm-s2	5	apparatus:p551-6	p551-6	scripture	apparatus-explicit	Luc. 13, 19	Luc 13:19	A	verse			
 bon-serm-s2	5	apparatus:p551-6	p551-6	scripture	apparatus-explicit	Marc. 4, 31	Marc 4:31	A	verse			
@@ -23715,6 +23721,7 @@ bon-serm-s3	5	apparatus:p554-4	p554-4	crossref	logical	IV. Sent. d. 8. p. I. a. 
 bon-serm-s3	5	apparatus:p554-6	p554-6	crossref	logical	IV. Sent. d. 8. p. I. dub. 3.	bon-sent-IV-d8-p1-dubia		chunk			dub-3
 bon-serm-s3	5	apparatus:p554-6	p554-6	crossref	work	Breviloq. p. VI. c. 9.	bon-brev-p6-c9		chunk			
 bon-serm-s3	5	apparatus:p555-3	p555-3	scripture	apparatus-explicit	Gen. 49, 20	Gen 49:20	A	verse			
+bon-serm-s3	5	apparatus:p555-3	p555-3	crossref	lucam	Comment. in Lucam, c. 22, 19.	lucam:22:19		forward			
 bon-serm-s3	5	apparatus:p555-3	p555-3	crossref	logical	II. Sent. d. 22. dub. 2	bon-sent-II-d22-dubia		chunk			dub-2
 bon-serm-s3	5	apparatus:p555-3	p555-3	crossref	work	Breviloq. p. III. c. 5.	bon-brev-p3-c5		chunk			
 bon-serm-s3	5	apparatus:p555-4	p555-4	scripture	apparatus-explicit	Psalm. 37, 9	Ps 37:9	A	verse			
@@ -23730,6 +23737,7 @@ bon-serm-s3	5	apparatus:p556-5	p556-5	scripture	apparatus-explicit	III. Reg. 19,
 bon-serm-s3	5	apparatus:p556-8	p556-8	scripture	apparatus-explicit	III. Reg. 19, 3	3Reg 19:3	A	verse			
 bon-serm-s3	5	apparatus:p557-4	p557-4	scripture	apparatus-explicit	I. Cor. 14, 20	1Cor 14:20	A	verse			
 bon-serm-s3	5	apparatus:p557-10	p557-10	scripture	apparatus-explicit	III. Reg. 19, 5	3Reg 19:5	A	verse			
+bon-serm-s3	5	apparatus:p558-3	p558-3	crossref	lucam	Comment. in Lucam, c. 9. ad v. 28.	lucam:9:28		forward			
 bon-serm-s3	5	apparatus:p558-5	p558-5	scripture	apparatus-explicit	III. Reg. 19, 11	3Reg 19:11	A	verse			
 bon-serm-s3	5	apparatus:p558-6	p558-6	scripture	apparatus-explicit	Psalm. 75, 3	Ps 75:3	A	verse			
 bon-serm-s3	5	apparatus:p559-2	p559-2	scripture	anaphor->body-ordinal	ibid. v. 13	1Reg 14:13	B	verse	yes	body: Regum decimo quarto	
@@ -23881,6 +23889,7 @@ bon-serm-s4	5	apparatus:p573-15	p573-15	crossref	work	Hexaëm. collat. 1.	bon-he
 bon-serm-s4	5	apparatus:p574-5	p574-5	crossref	work	Hexaëm. collat. 18.	bon-hex-c18		chunk			
 bon-serm-tract	5	apparatus:p574-9	p574-9	scripture	apparatus-explicit	Gen. 2, 8	Gen 2:8	A	verse			
 bon-serm-tract	5	apparatus:p574-9	p574-9	crossref	work	Hexaëm. collat. 17.	bon-hex-c17		chunk			
+bon-serm-tract	5	apparatus:p574-9	p574-9	crossref	lucam	Comment. in Lucam, c. 23, 43	lucam:23:43		forward			
 bon-serm-tract	5	apparatus:p575-4	p575-4	crossref	work	Hexaëm. collat. 3.	bon-hex-c3		chunk			
 bon-serm-tract	5	apparatus:p575-5	p575-5	crossref	work	Hexaëm. collat. 13.	bon-hex-c13		chunk			
 bon-serm-tract	5	apparatus:p575-6	p575-6	crossref	work	Breviloq. p. V. c. 6.	bon-brev-p5-c6		chunk			
@@ -25649,7 +25658,8 @@ bon-cioan-c21	6	apparatus:p623-3	p623-3	scripture	apparatus-explicit	Act. 1, 9	A
 bon-cioan-c21	6	apparatus:p623-4	p623-4	scripture	apparatus-explicit	Matth. 17, 1	Matth 17:1	A	verse			
 bon-cioan-c21	6	apparatus:p623-4	p623-4	scripture	apparatus-explicit	Ioan. 11, 1	Ioan 11:1	A	verse			
 bon-cioan-c21	6	apparatus:p623-5	p623-5	scripture	anaphor->body-ordinal	ibid. v. 27	Ioan 20:27	B	verse	yes	body: Ioannis vigesimo	
-bon-cioan-c21	6	apparatus:p623-6	p623-6	scripture	anaphor->apparatus-explicit	ibid.	Ioan 11:1	A	verse	yes	Ioan. 11, 1	
+bon-cioan-c21	6	apparatus:p623-6	p623-6	crossref	lucam	Comment. in Luc. 24, 13.	lucam:24:13		forward			
+bon-cioan-c21	6	apparatus:p623-6	p623-6	crossref	anaphor->lucam	ibid.	lucam:24:13		forward	yes	Comment. in Luc. 24, 13.	
 bon-cioan-c21	6	apparatus:p623-8	p623-8	scripture	apparatus-explicit	Ioan. 20, 26	Ioan 20:26	A	verse			
 bon-cioan-c21	6	apparatus:p623-9	p623-9	scripture	apparatus-explicit	Act. 1, 4	Act 1:4	A	verse			
 bon-cioan-c21	6	apparatus:p624-1	p624-1	scripture	apparatus-explicit	Luc. 24, 34	Luc 24:34	A	verse			
@@ -28595,6 +28605,7 @@ bon-ioan-c1-v24-28	6	latin_body	p259-12	scripture	body-ordinal	Actuum decimo sep
 bon-ioan-c1-v24-28	6	latin_body	p259-13	scripture	body-ordinal	Matthaei undecimo	Matth 11:2	B	verse			
 bon-ioan-c1-v24-28	6	apparatus:p258-6	p258-6	crossref	logical	IV. Sent. d. 2. a. 2. q. 2.	bon-sent-IV-d2-a2-q2		chunk			
 bon-ioan-c1-v24-28	6	apparatus:p258-10	p258-10	crossref	logical	III. Sent. d. 22. dub. 5.	bon-sent-III-d22-dubia		chunk			dub-5
+bon-ioan-c1-v24-28	6	apparatus:p258-10	p258-10	crossref	lucam	Comment. in Luc. 3, 16.	lucam:3:16		forward			
 bon-ioan-c1-v24-28	6	apparatus:p259-2	p259-2	crossref	logical	IV. Sent. d. 1. p. II. a. 2. q. 3.	bon-sent-IV-d1-p2-a2-q3		chunk			
 bon-ioan-c1-v24-28	6	apparatus:p259-3	p259-3	crossref	logical	IV. Sent. d. 2. a. 2. q. 2.	bon-sent-IV-d2-a2-q2		chunk			
 bon-ioan-c1-v24-28	6	apparatus:p259-7	p259-7	scripture	apparatus-explicit	Matth. 18, 20	Matth 18:20	A	verse			
@@ -28907,6 +28918,7 @@ bon-ioan-c10-v11-21	6	apparatus:p388-5	p388-5	scripture	apparatus-explicit	Ioan.
 bon-ioan-c10-v11-21	6	apparatus:p388-15	p388-15	crossref	page	tom III. pag. 606, nota 5	bon-sent-III-d27-a2-q2		chunk			
 bon-ioan-c10-v11-21	6	apparatus:p388-15	p388-15	crossref	page	tom. II. pag. 886, nota 4	bon-sent-II-d38-a1-q3		chunk			
 bon-ioan-c10-v11-21	6	apparatus:p388-16	p388-16	crossref	logical	III. Sent. d. 27. a. 2. q. 2.	bon-sent-III-d27-a2-q2		chunk			
+bon-ioan-c10-v11-21	6	apparatus:p388-16	p388-16	crossref	lucam	Comment. in Luc. 9, 50.	lucam:9:50		forward			
 bon-ioan-c10-v11-21	6	apparatus:p389-2	p389-2	scripture	apparatus-explicit	Ezech. 3, 18	Ezech 3:18	A	verse			
 bon-ioan-c10-v11-21	6	apparatus:p389-8	p389-8	scripture	apparatus-explicit	Ps. 87, 5	Ps 87:5	A	verse			
 bon-ioan-c10-v11-21	6	apparatus:p389-8	p389-8	crossref	logical	III. Sent. d. 21. a. 1. q. 1.	bon-sent-III-d21-a1-q1		chunk			
@@ -29241,6 +29253,7 @@ bon-ioan-c11-v7-32	6	apparatus:p402-12	p402-12	crossref	logical	III. Sent. d. 23
 bon-ioan-c11-v7-32	6	apparatus:p402-12	p402-12	crossref	chain-continuation	d. 26. a. 1. q. 4.	bon-sent-III-d26-a1-q4		chunk			
 bon-ioan-c11-v7-32	6	apparatus:p402-14	p402-14	crossref	logical	III. Sent. d. 23. a. 1. q. 1.	bon-sent-III-d23-a1-q1		chunk			
 bon-ioan-c11-v7-32	6	apparatus:p402-14	p402-14	crossref	chain-continuation	d. 27. a. 2. q. 1.	bon-sent-III-d27-a2-q1		chunk			
+bon-ioan-c11-v7-32	6	apparatus:p402-14	p402-14	crossref	lucam	Comment. in Luc. 17, 19.	lucam:17:19		forward			
 bon-ioan-c12-v1-8	6	latin_body	p410-4	scripture	body-ordinal	Apocalypsis tertio	Apoc 3:20	B	verse			
 bon-ioan-c12-v1-8	6	latin_body		scripture	body-ordinal	Marci quinto	Marc 5	C	chapter			
 bon-ioan-c12-v1-8	6	latin_body		scripture	body-ordinal	Lucae decimo	Luc 10	C	chapter			
@@ -29523,6 +29536,7 @@ bon-ioan-c13-v21-30	6	apparatus:p431-8	p431-8	scripture	apparatus-explicit	Ioan.
 bon-ioan-c13-v21-30	6	apparatus:p431-9	p431-9	crossref	relative-bare	loc. cit.			unresolvable			
 bon-ioan-c13-v21-30	6	apparatus:p431-10	p431-10	crossref	page	supra pag. 430, nota 5	bon-ioan-c13-v21-30		chunk			fn-p430-5
 bon-ioan-c13-v21-30	6	apparatus:p431-10	p431-10	scripture	apparatus-explicit	Luc. 22, 21	Luc 22:21	A	verse			
+bon-ioan-c13-v21-30	6	apparatus:p432-3	p432-3	crossref	lucam	Comment. in Luc. 22, 23	lucam:22:23		forward			
 bon-ioan-c13-v21-30	6	apparatus:p432-3	p432-3	scripture	apparatus-explicit	Ioan. 13	Ioan 13	C	chapter			
 bon-ioan-c13-v21-30	6	apparatus:p432-8	p432-8	scripture	apparatus-explicit	II. Cor. 12, 7	2Cor 12:7	A	verse			
 bon-ioan-c13-v21-30	6	apparatus:p432-8	p432-8	scripture	apparatus-explicit	I. Cor. 11, 29	1Cor 11:29	A	verse			
@@ -29985,6 +29999,7 @@ bon-ioan-c16-v5-15	6	apparatus:p460-8	p460-8	scripture	apparatus-explicit	Tit. 1
 bon-ioan-c16-v5-15	6	apparatus:p460-9	p460-9	crossref	page	supra pag. 332, nota 3	bon-ioan-c6-v41-52+bon-ioan-c6-v53-59		page-multi			
 bon-ioan-c16-v5-15	6	apparatus:p460-10	p460-10	scripture	apparatus-explicit	Isai. 38, 3	Isai 38:3	A	verse			
 bon-ioan-c16-v5-15	6	apparatus:p460-10	p460-10	scripture	apparatus-explicit	Prov. 18, 5	Prov 18:5	A	verse			
+bon-ioan-c16-v5-15	6	apparatus:p460-10	p460-10	crossref	lucam	Comment. in Luc. 17, 1	lucam:17:1		forward			
 bon-ioan-c16-v5-15	6	apparatus:p460-10	p460-10	authority	authority:Albert.	III. Sent. d. 37. a. 15.			excluded			
 bon-ioan-c16-v5-15	6	apparatus:p460-10	p460-10	scripture	apparatus-explicit	Luc. 19	Luc 19	C	chapter			
 bon-ioan-c16-v5-15	6	apparatus:p460-10	p460-10	scripture	apparatus-explicit	Matth. 18, 6	Matth 18:6	A	verse			
@@ -30125,6 +30140,7 @@ bon-ioan-c17-v6-11	6	apparatus:p470-13	p470-13	scripture	apparatus-explicit	Act.
 bon-ioan-c17-v6-11	6	apparatus:p471-1	p471-1	scripture	apparatus-explicit	Ioan. 16, 15	Ioan 16:15	A	verse			
 bon-ioan-c17-v6-11	6	apparatus:p471-3	p471-3	scripture	apparatus-explicit	Ioan. 16, 5	Ioan 16:5	A	verse			
 bon-ioan-c17-v6-11	6	apparatus:p471-8	p471-8	crossref	logical	III. Sent. d. 17. a. 2. q. 1.	bon-sent-III-d17-a2-q1		chunk			
+bon-ioan-c17-v6-11	6	apparatus:p471-8	p471-8	crossref	lucam	Comment. in Luc. 11, 1.	lucam:11:1		forward			
 bon-ioan-c17-v6-11	6	apparatus:p471-9	p471-9	scripture	anaphor->body-ordinal	ibid. 7, 25	Hebr 7:25	B	verse	yes	body: ad Hebraeos nono	
 bon-ioan-c17-v6-11	6	apparatus:p472-2	p472-2	scripture	apparatus-explicit	Luc. 5, 31	Luc 5:31	A	verse			
 bon-ioan-c17-v6-11	6	apparatus:p472-3	p472-3	scripture	apparatus-explicit	Ioan. 17, 11	Ioan 17:11	A	verse			
@@ -30187,6 +30203,7 @@ bon-ioan-c18-v24-27	6	apparatus:p485-3	p485-3	scripture	apparatus-explicit	Eccli
 bon-ioan-c18-v24-27	6	apparatus:p485-5	p485-5	scripture	apparatus-explicit	Ioan. 13, 37	Ioan 13:37	A	verse			
 bon-ioan-c18-v24-27	6	apparatus:p485-5	p485-5	scripture	apparatus-explicit	Matth. 26, 34	Matth 26:34	A	verse			
 bon-ioan-c18-v24-27	6	apparatus:p485-6	p485-6	crossref	relative-bare	ibid.			unresolvable			
+bon-ioan-c18-v24-27	6	apparatus:p485-9	p485-9	crossref	lucam	Comment in Luc. 22, 60	lucam:22:60		forward			
 bon-ioan-c18-v24-27	6	apparatus:p485-9	p485-9	scripture	apparatus-explicit	Ioan. 18	Ioan 18	C	chapter			
 bon-ioan-c18-v24-27	6	apparatus:p486-2	p486-2	crossref	relative-bare	ibid. v. 67-72			unresolvable			
 bon-ioan-c18-v24-27	6	apparatus:p486-2	p486-2	scripture	apparatus-explicit	Matth. 26, 34	Matth 26:34	A	verse			
@@ -30373,6 +30390,7 @@ bon-ioan-c19-v16-27	6	latin_body	p499-3	scripture	body-ordinal	Matthaei vigesimo
 bon-ioan-c19-v16-27	6	latin_body	p499-4	scripture	body-ordinal	Marci decimo quinto	Marc 15:24	B	verse			
 bon-ioan-c19-v16-27	6	apparatus:p495-8	p495-8	scripture	apparatus-explicit	Psalm. 16, 12	Ps 16:12	A	verse			
 bon-ioan-c19-v16-27	6	apparatus:p495-8	p495-8	scripture	apparatus-explicit	Hebr. 13, 13	Hebr 13:13	A	verse			
+bon-ioan-c19-v16-27	6	apparatus:p495-10	p495-10	crossref	lucam	Comment. in Luc. 23, 33	lucam:23:33		forward			
 bon-ioan-c19-v16-27	6	apparatus:p496-3	p496-3	scripture	apparatus-explicit	Marc. 15, 27	Marc 15:27	A	verse			
 bon-ioan-c19-v16-27	6	apparatus:p496-3	p496-3	scripture	apparatus-explicit	Isai. 53, 12	Isai 53:12	A	verse			
 bon-ioan-c19-v16-27	6	apparatus:p496-4	p496-4	crossref	page	tom. V. pag. 333, nota 1	bon-hex-c1		chunk			fn-p333-1
@@ -30809,6 +30827,7 @@ bon-ioan-c21-v9-14	6	apparatus:p523-6	p523-6	scripture	apparatus-explicit	Act. 1
 bon-ioan-c21-v9-14	6	apparatus:p523-6	p523-6	scripture	apparatus-explicit	Luc. 24, 43	Luc 24:43	A	verse			
 bon-ioan-c21-v9-14	6	apparatus:p523-9	p523-9	scripture	apparatus-explicit	Deut. 19, 15	Deut 19:15	A	verse			
 bon-ioan-c21-v9-14	6	apparatus:p523-9	p523-9	scripture	anaphor->apparatus-explicit	ibid.	Deut 19:15	A	verse	yes	Deut. 19, 15	
+bon-ioan-c21-v9-14	6	apparatus:p523-9	p523-9	crossref	lucam	Comment. in Luc. 24, 35.	lucam:24:35		forward			
 bon-ioan-c21-v9-14	6	apparatus:p523-10	p523-10	scripture	apparatus-explicit	Deut. 19	Deut 19	C	chapter			
 bon-ioan-c21-v9-14	6	apparatus:p524-3	p524-3	scripture	apparatus-explicit	Luc. 24, 36	Luc 24:36	A	verse			
 bon-ioan-c21-v9-14	6	apparatus:p524-6	p524-6	crossref	page	supra pag. 509	bon-ioan-c20-v10-18		chunk			
