@@ -4924,6 +4924,18 @@ KNOWN_TOTALS_VOL7 = {
              # anchor BELOW it (n.8 para 29 *ibi*, n.9 para 30 *primo*, both R) and are bon-luc-c1-v18-25's.
              # Blocks L 1-4 / R 5-9, no runover. Gutter 1179: default 1176 on a 35 px run; rows 0.06-0.60 band
              # 1152-1207 (56 px), 24 windows 1177-1182, rule island 1171-1188.
+             # Re-read at bon-luc-c1-v18-25: the two readings AGREE (9; n.8 para 29 *ibi*, n.9 para 30
+             # *primae ad Corinthios primo*, both 17R below the rubric, both printed last in the RIGHT block).
+    18: 7,   # bon-luc-c1-v18-25. Anchors L 1-3 / R 4-7; blocks L 1-5 head / R 5 tail + 6-7 (n.4 prints LEFT,
+             # anchor RIGHT; n.5 RUNS OVER the gutter). Left block opens numbered at n.1. Gutter 1269 (default,
+             # 59 px).
+    19: 6,   # bon-luc-c1-v18-25. Anchors L 1-3 / R 4-6; blocks L 1-5 / R 6 (nn.4-5 print LEFT, anchor RIGHT).
+             # No runover. Gutter 1175 (default, 62 px).
+    20: 10,  # FULL leaf count. bon-luc-c1-v18-25 owns nn.1-6 (anchors all LEFT, paras 36-39, above the 20R
+             # rubric *Tria dicuntur etiam de conceptu Salvatoris.*); nn.7-10 anchor BELOW it (n.7 para 40
+             # *Bernardus*, n.8 para 40 *ibi*, n.9 para 41 *Martius*, n.10 para 41 *conditus*, all R) and are
+             # bon-luc-c1-v26-38's. Blocks L 1-9 head / R 9 tail + 10 (n.9 RUNS OVER the gutter: c1-v26-38's
+             # to ledger). nn.7-10 read at overview scale for the hand-off only. Gutter 1277 (default, 60 px).
 }
 
 KNOWN_TOTALS_BY_VOL = {
