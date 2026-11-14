@@ -229,6 +229,10 @@ const BOOK_TITLES = {
 const TOMES = {
   5: { title: "Book V: Opuscula Theologica", initial: "5" },
   6: { title: "Book VI: Commentarii in Sacram Scripturam I", initial: "6" },
+  // Tome VII title page: "COMMENTARIUS IN EVANGELIUM S. LUCAE — TOMUS VII"
+  // (Lucam p. 27 gate, ruling 25, Wilson 2026-11-14). Holds Luke now; the
+  // Appendix works (Threni, Oratio Dominica) join it after Luke closes.
+  7: { title: "Book VII: Commentarius in Evangelium S. Lucae", initial: "7" },
 };
 
 // Factual header for each work's landing page (SITE-PLAN Phase 1; Wilson,

@@ -298,8 +298,10 @@ Binding summary. Evidence, alternatives and their costs: `manual-review/lucam-pi
   *clementia* clemency · *compassio* compassion · *miseratio* "commiseration" in Bonaventure's own prose, the
   Douay's wording inside a quotation). ⭐ ***pietas divina* in cc. 15–16: the "piety" rule HOLDS, with `tr-pietas`
   at the first site of each chunk where the *pietas* is God's; reviewed with sites in view at the p. 381 gate.**
-  *praedicare* preach / *praedicatio* preaching / *praedicator* preacher, never "proclaim"; *evangelizare* → the
-  Douay's "preach the gospel". *magisterium* → "teaching office". *Praeceptor* → "Master" + `tr-praeceptor` at
+  *praedicare* preach / *praedicatio* preaching / *praedicator* preacher, never "proclaim"; ~~*evangelizare* → the
+  Douay's "preach the gospel".~~ **[AMENDED by ruling 18, p. 27 gate, 2026-11-14: *evangelizare* → "preach the
+  gospel", never bare "preach"; the Douay's "bring good tidings" stands where the Douay has it (1:19, 2:10), with
+  `tr-evangelizare`. The struck sentence is kept visible.]** *magisterium* → "teaching office". *Praeceptor* → "Master" + `tr-praeceptor` at
   5:5. *paupertas* poverty · *mendicus* beggar · *mendicitas* beggary · *eleemosyna* alms · *avaritia* avarice ·
   *liberalitas* liberality. *remedium* remedy / *medicamentum* medicine · *tropaeum* trophy · *mysterium* mystery
   / *sacramentum* sacrament. *informatio*, *informare* → "formation", "to form". Sense labels: Morally,
@@ -317,7 +319,8 @@ Binding summary. Evidence, alternatives and their costs: `manual-review/lucam-pi
   still asked for, on its own, when the p. 88 gate closes.**
 - **15. Build cadence:** one Opus agent per chunk, incremental-append, the Vol VI session loop unchanged; plates
   at 300 dpi; apparatus counted from the plates. ⛔ **The burn is NOT approved by this ruling.** "Which model, and
-  go?" is asked, with the figure restated for the interval, before `bon-luc-prooem` is dispatched.
+  go?" is asked, with the figure restated for the interval, before `bon-luc-prooem` is dispatched. **[Cadence note, Wilson 2026-11-14 (p. 27 gate session): one Opus agent per chunk,
+  SEQUENTIALLY; a parallel pilot was proposed and declined. See the note after ruling 26.]**
 - **16. Manifest stage 1 (Cap. I–III + the two division-0 rows) is the next job, drawn on Opus;** low-confidence
   rows flagged for Wilson or a Fable look at the shakedown gate.
 
@@ -339,7 +342,9 @@ Read on 35 plate crops, one at every boundary. **Corrections to this sheet and t
 
 **Two readings fixed by the coordinator (Fable) under the rulings as given, no new ruling:**
 
-- **`title_la` under ruling 4 ("the governing rubric")** = the most specific heading in the chunk's opening
+- **[RESTATED by ruling 22, p. 27 gate: `title_la` = the LOWEST heading of the opening stack, whole (*Ioannem*
+  ruling 79(b)), whatever its scope; the wording that follows is superseded and kept for the record.]**
+  **`title_la` under ruling 4 ("the governing rubric")** = the most specific heading in the chunk's opening
   cascade whose scope covers the WHOLE chunk; where no heading stands (c. 2 vv. 25–39), the lemma + Bonaventure's
   dividing words. This is how the manifest is drawn.
 - **The two `low` rows, `bon-luc-c2-v25-35` / `bon-luc-c2-v36-39` (pp. 58–65, no in-column heading; the editors'
@@ -347,3 +352,66 @@ Read on 35 plate crops, one at every boundary. **Corrections to this sheet and t
   and Anna are the two witnesses the passage itself divides into, and the pieces are 4.4 + 2.7 pp. The marginal
   labels go to the Marginalia list in `## Notes` (standing convention), not into the body. The rows stay `low`
   in the TSV until their builder has read pp. 58–65 on the plates; Wilson may overrule at the p. 88 gate.
+
+# *LUCAM* SHAKEDOWN GATE (p. 27) — RULINGS 17–26 (Wilson, 2026-11-14; "Approve all")
+
+Binding summary. Docket items 1–10 of `manual-review/vol7-lucam-shakedown-gate-evidence-sheet.md` (each ⭐
+recommendation taken) became rulings 17–26; the evidence, censuses and alternatives are there, by item number, and
+are not repeated. Gate record: `manual-review/vol7-lucam-shakedown-gate.md`. Mechanical passes:
+`manual-review/vol7-lucam-shakedown-gate-passes-draft.md`. **No Latin line changed.**
+
+- **17. Ruling 12 is RATIFIED as the Luke register at every site, and the carried rulings bind over it** (sheet
+  § 1). A builder renders: ***eruditio* → "erudition" everywhere** (ruling 11 carrying Vol VI ruling 93; it must
+  stay off *instructio* "instruction"); **"Holy Spirit" everywhere, Douay quotations included** (Vol VI ruling
+  80(b)); ***intelligentia* → "intelligence" in body prose** (ruling 11, *septem donis*), wherever *intellectus*
+  stands in the chunk, not only in the sentence. *documentum*: plural *documenta* "lessons", singular "instruction",
+  ratified by number. Applied: `prooem` ¶ 17, `c1-v5-17` ¶ 7 ("teaching office of erudition"); `prooem` ¶ 18
+  (Acts 10:38 "Holy Spirit"); `prooem` ¶ 24 ("general intelligence"). Doc: `c1-v18-25`'s claim that III Kings
+  1:42 "bringest good tidings" is the Douay's is corrected (Douay: "good news"; the adjustment is licensed by ruling
+  93 because ¶ 31 leans on *bona nuntiatio*).
+- **18. *evangelizare* (amends ruling 12's sentence; sheet § 2).** Ruling 12 now reads: ***evangelizare* → "preach
+  the gospel", never bare "preach"** (the Douay's bare "preach" at 3:18, 4:43, 16:16 is adjusted, so the word stays
+  off *praedicare*); **where the Douay itself says "bring good tidings" (1:19, 2:10: an angel bringing a message,
+  with an object), the Douay stands, with `tr-evangelizare` at each chunk's first site.** 8:1 *praedicans et
+  evangelizans* keeps the Douay's "preaching and evangelizing". Both *bona nuntiatio* renderings stand ("good
+  announcement" where the gloss hangs on *annuntiare*, prooem ¶ 14; "good tidings" where it hangs on
+  *evangelizare*, `c1-v18-25` ¶ 31). `c1-v18-25` ratified as built, 0 lines; the prooem Notes' claim that 4:43
+  "preach the gospel" is the Douay's wording is corrected.
+- **19. *verecundia* (sheet § 3).** ***verecundia* → "shamefastness", *verecundus* → "shamefast", for the whole
+  work** (the Hexaemeron's *modestia, verecundia* precedent; `c1-v26-38` ¶¶ 50–51 as built). ***pudicitia* →
+  "purity"** (the QPE rendering). So *modestia* alone takes "modest(y)", and *pudor* "shame". Applied:
+  `c1-v18-25` ¶ 35, ¶ 38 ("the shamefast concealment"; "of humility and of purity"), p. 20 n. 3 ("shamefastness or
+  shame").
+- **20. Ps. 118:173 *Fiat manus tua* → "Let thy hand be done" RATIFIED** (sheet § 4; `c1-v26-38` ¶ 69, p. 26
+  n. 7). Vol VI ruling 93's test applies: where the exposition leans on the word, the Douay is adjusted to it,
+  **silently in the English and disclosed in the chunk's `## Notes`**; no `tr-` note and no bracket for a Douay
+  adjustment (`[so printed]` stays for misprints).
+- **21. *praedicabilis* and Cant. 6:8 (sheet § 5).** *praedicabilis* keeps **"worthy to be preached"** (ruling 12's
+  family). **Cant. 6:8 *beatissimam praedicaverunt* → "preached her most blessed"** (Douay "declared" adjusted,
+  ruling 93: ¶ 49 proves ¶ 46's *praedicabilis* from it). Applied: `c1-v26-38` ¶ 49. The ten other banked items
+  (sheet § 5b) need no text edit and stand as recorded.
+- **22. `title_la` = the LOWEST heading of the opening stack, whole** (*Ioannem* ruling 79(b) applied to Luke;
+  sheet § 6), even where its scope over- or under-covers the chunk; a sentence title (lemma + dividing words) only
+  where no heading stands. `c1-v18-25` kept as built. The stage-1 coordinator's gloss ("whose scope covers the
+  WHOLE chunk", § MANIFEST STAGE 1 above, and `lucam-chunk-manifest-notes.md`) is restated to this; no stage-1
+  title changes. Governs `c1-v46-56` and every later two-sibling row.
+- **23. A Corrigenda addendum inside an apparatus note keeps ruling 8's shape** (sheet § 7): the corrected Latin
+  in the note, and `tr-corrigenda[-N]` anchored at the word inside the note's **En**. It renders (code path read
+  end to end). **One browser look at the next local preview is owed** (`bon-luc-c1-v5-17`, p. 16 n. 8, click
+  "tr."). ~5 more uses are coming (pp. 114, 294, 300, 361; Threni p. 624).
+- **24. Ruling 13's citation class = the INBOUND "Comment. in Luc." class, keyed CHAPTER + VERSE** (sheet § 8):
+  `Comment.? in Luc(am)?` + `c.`/roman/bare chapter + verse (`ad` allowed), resolving to the chunk whose `verses:`
+  holds the verse (`forward` until built); the one `c. 6. n. 20` site resolves by `paragraphs:`; other authors'
+  "in Luc." excluded by the `governed_by_author` guard; the page+note branch fixed to break a shared page by its
+  note (`pag. 7, nota 5` → `bon-luc-prol`). ~22 sites in Vols I–VI, today filed as Gospel verses at confidence A.
+  **No in-work `supra n. N` class yet** (waits with the *Ioannem*'s identical docket item, ruling 82(a)). **A TOOL
+  JOB, run after the gate and separately; 0 text lines. QUEUED, not run at this close.**
+- **25. `TOMES[7]` = `{ title: "Book VII: Commentarius in Evangelium S. Lucae", initial: "7" }`** (the title-page
+  wording; sheet § 9). Added to `site/scripts/build-content.mjs` at this close. Live only with whatever deploy
+  Wilson calls.
+- **26. The ¶ 81 cut between `bon-luc-c2-v25-35` and `bon-luc-c2-v36-39` is KEPT** (sheet § 10; read on the p. 62
+  plate: ¶ 81 opens at the head of 62R, ¶ 80 closes at 62L's foot, marginale *De testimonio Annae*). The rows stay
+  `low` until their builder reads pp. 58–65, then are promoted to `high`.
+
+**Cadence note under ruling 15 (Wilson, this session, 2026-11-14):** the build continues **one Opus agent per chunk,
+SEQUENTIALLY**. A parallel pilot was proposed and **declined**; do not re-propose it as a default.

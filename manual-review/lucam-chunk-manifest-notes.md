@@ -55,14 +55,18 @@ Both belong to Cap. IV. The running head of p. 88 already reads `C. IV.`
   - **c. 3 vv. 10–20 split at the 78L t4:** 2.9 + 3.6.
   - **c. 3 vv. 21–38 split at the 85L t4:** 3.3 + 3.3.
   - **c. 1 vv. 39–56 split at the 30R t4:** 3.2 + 4.2.
-- **`title_la` rule as applied:** the most specific heading in the chunk's opening cascade whose scope covers the
-  whole chunk. If none covers it, the opening heading itself. If there is no heading, the divisio paragraph's
-  lemma plus its dividing words.
+- **`title_la` rule (RESTATED at the p. 27 gate, ruling 22, Wilson 2026-11-14; *Ioannem* ruling 79(b)):** the
+  LOWEST heading of the chunk's opening stack, taken whole, whether or not its scope covers the whole chunk (it may
+  overrun, as at `bon-ioan-c1-v43-51`, or under-cover, as at `bon-luc-c1-v18-25`). A sentence title (the divisio
+  paragraph's lemma plus its dividing words) only where no heading stands. No stage-1 title changes under the
+  restated rule (each row's `title_la` is already the lowest heading of its opening stack). *(Superseded wording, kept for the record: "the most specific heading in the chunk's opening cascade
+  whose scope covers the whole chunk. If none covers it, the opening heading itself. If there is no heading, the
+  divisio paragraph's lemma plus its dividing words.")*
   - Ruling 4 does not decide between this and "the opening heading". Under the opening-heading reading:
     - c1-v5-17 would be titled `Divisio generalis`;
     - c1-v39-45 would take the t3 *Secundo, de gratiarum actione…*;
     - c2-v1-7, c3-v1-9 and c3-v10-14 would take their t2/t3.
-  - This needs a one-word ruling before the build.
+  - This needs a one-word ruling before the build. **Settled by ruling 22 (lowest heading of the opening stack).**
 - **Tier labels** are by typography on the plate: small bold = t4, larger roman = t3, italic = t2. `Primo, de
   regeneratione Christi sacramentali duo.` (81R) and `Secundo, de genealogia temporali tria.` (85L) are Tabula
   members but are set in small bold, so they are labelled **t4**.
