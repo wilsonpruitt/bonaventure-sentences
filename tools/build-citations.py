@@ -104,7 +104,7 @@ def normalize_abbrev(s: str) -> str:
 class Chunk:
     __slots__ = ("path", "cid", "volume", "book", "dist", "pars", "sectio", "art",
                  "quaestio", "ctype", "pages", "work", "division", "capitulum",
-                 "latin_body", "scholion", "apparatus", "units", "paragraphs")
+                 "latin_body", "scholion", "apparatus", "units", "paragraphs", "verses")
 
     def __init__(self, path):
         self.path = path
@@ -138,6 +138,10 @@ class Chunk:
         # numbering runs per chapter, so (chapter, n) names exactly one chunk.
         pm = re.match(r'^\s*"?(\d+)\s*-\s*(\d+)', str(fm.get("paragraphs") or ""))
         self.paragraphs = (int(pm.group(1)), int(pm.group(2))) if pm else None
+        # Vol VII ruling 24 (Lucam): a Luke pericope chunk declares its verse range
+        # (`verses: "5-17"`) under `division` = the chapter.
+        vm = re.match(r'^\s*"?(\d+)\s*(?:-\s*(\d+))?', str(fm.get("verses") or ""))
+        self.verses = ((int(vm.group(1)), int(vm.group(2) or vm.group(1))) if vm else None)
         if self.capitulum is None:
             cm = re.match(r"^bon-ioan-c(\d+)-", self.cid)
             if cm:
@@ -1064,6 +1068,77 @@ def resolve_ioan_paragraph(rec, para_index):
     return "", "dangling"
 
 
+# ------------- Comment. in Luc. c. N, v. M (Vol VII ruling 24, 2026-11-14)
+
+LUC_WORK = "lucam"
+# Bonaventure's own Luke commentary cited INBOUND from Vols I-VI by chapter + verse,
+# in every printed shape the evidence sheet (§ 8) attests:
+#   `Comment. in Luc. 3, 16` · `Comment in Luc. 22, 60` · `Comment. in Lucam, 17, 4`
+#   `Comment. in Lucam c. 9. v. 34` · `c. 22, 19` · `c. 9. ad v. 28` · `ad 18, 25`
+#   `Comment. in Luc. IX, 28` · `Comment. in Lucam (c. 6. n. 20.)`  (chapter + PARAGRAPH).
+# Required lead is `Comment.? in Luc(am)?`, so other authors' commentaries (`Ambrosius,
+# Expos. in Luc.`) never match, and `governed_by_author` drops any that follow another
+# author's siglum. The chapter+verse sites were previously filed by the scripture
+# scanners as Luc C:V at confidence A; `extract` now suppresses a scripture record that
+# starts inside a span this class claims.
+LUC_RE = re.compile(
+    r"Comment\.?\*?\s+in\s+Luc(?:am|\.)?\*?\.?,?\s*\(?\s*"
+    r"(?:ad\s+)?(?:c\.\s*)?(?P<c>\d{1,2}|[IVXL]+)\s*[.,]\s*"
+    r"(?:ad\s+)?(?:(?P<k>[vn])\.\s*)?(?P<v>\d{1,3})\b\.?"
+)
+
+
+def luc_spans(text):
+    """Character spans of the Luke-commentary citations in `text` (for the scripture
+    scanners' double-count guard). Author-governed ones are NOT claimed."""
+    return [(m.start(), m.end()) for m in LUC_RE.finditer(text)]
+
+
+def scan_lucam(text, cfg):
+    for m in LUC_RE.finditer(text):
+        # `S. Bonav., Comment. in Luc.` is the work's OWN author, not a foreign one: the
+        # guard runs without the `Bonav.` siglum (it would otherwise drop every site).
+        # A `Bonav.` standing right before the title (`Similia habet Bonav. in Comment. in
+        # Luc. 13, 21`) outranks an earlier clause's author (`apud Lyranum`).
+        if "Bonav" not in text[max(0, m.start() - 20): m.start()] and governed_by_author(
+                text, m.start(), [a for a in cfg["_author_sigla"] if a != "Bonav."]):
+            continue
+        c = m.group("c")
+        chap = int(c) if c.isdigit() else roman_value(c)
+        if not chap:
+            continue
+        yield {"cls": "crossref", "sub": "lucam", "chap": chap,
+               "n": int(m.group("v")), "kind": "n" if m.group("k") == "n" else "v",
+               "raw": m.group(0).strip(), "pos": m.start()}
+
+
+def build_luc_index(by_id):
+    """(chapter, verse) -> chunk ids, and (chapter, paragraph) -> chunk ids."""
+    verse_idx, para_idx = defaultdict(list), defaultdict(list)
+    for cid, c in by_id.items():
+        if c.work != LUC_WORK or not c.division:
+            continue
+        if c.verses:
+            for v in range(c.verses[0], c.verses[1] + 1):
+                verse_idx[(c.division, v)].append(cid)
+        if c.paragraphs:
+            for n in range(c.paragraphs[0], c.paragraphs[1] + 1):
+                para_idx[(c.division, n)].append(cid)
+    return verse_idx, para_idx
+
+
+def resolve_lucam(rec, luc_index):
+    verse_idx, para_idx = luc_index
+    key = (rec["chap"], rec["n"])
+    ids = (para_idx if rec["kind"] == "n" else verse_idx).get(key, [])
+    if len(ids) == 1:
+        return ids[0], "chunk"
+    if len(ids) > 1:
+        return "+".join(sorted(ids)), "ambiguous"
+    # Not built yet (Vol VII is partly translated): it will resolve itself.
+    return f"lucam:{rec['chap']}:{'n' if rec['kind'] == 'n' else ''}{rec['n']}", "forward"
+
+
 # ------------------------------------------- anchors inside the target (Phase 3)
 
 ANCHOR_DUB_RE = re.compile(r"\bdub\.\s*(\d+)")
@@ -1687,10 +1762,11 @@ def extract(chunks, cfg, by_locus, by_dist, by_page, by_id):
     per_chunk = {}
     unit_index = build_unit_index(by_id)
     para_index = build_paragraph_index(by_id)
+    luc_index = build_luc_index(by_id)
     scanners = (scan_scripture_apparatus, scan_scripture_book_unnamed,
                 scan_scripture_body, scan_scripture_evangelist,
                 scan_sentences, scan_chain_continuation, scan_relative,
-                scan_page, scan_work, scan_ioan_paragraph)
+                scan_page, scan_work, scan_ioan_paragraph, scan_lucam)
 
     for c in chunks:
         # DOCUMENT ORDER is the resolution key for anaphora, so records are collected
@@ -1709,11 +1785,16 @@ def extract(chunks, cfg, by_locus, by_dist, by_page, by_id):
             is_app = section.startswith("apparatus:")
             app_label = section.split(":", 1)[1] if is_app else ""
 
+            lucam_spans = luc_spans(text)
             for scanner in scanners + ((scan_cioan_units,) if c.work == CIOAN_WORK else ()):
                 # Body ordinals are a body phenomenon; apparatus never uses them.
                 if scanner in (scan_scripture_body, scan_scripture_evangelist) and is_app:
                     continue
                 for rec in scanner(text, cfg):
+                    # Ruling 24 (Lucam): a Luke-commentary citation is not also a Gospel verse.
+                    if rec["cls"] == "scripture" and any(
+                            a <= rec["pos"] < b for a, b in lucam_spans):
+                        continue
                     anchor = app_label if is_app else nearest_anchor(text, rec["pos"] + len(rec["raw"]))
 
                     # Tier B join: body chapter + anchor -> apparatus `Vers. N`.
@@ -1768,6 +1849,9 @@ def extract(chunks, cfg, by_locus, by_dist, by_page, by_id):
                         if res == "dangling":
                             qa.append((c.cid, section, rec["raw"],
                                        f"no pericope holds Ioan. c. {rec['chap']} n. {rec['n']}"))
+                    elif rec["sub"] == "lucam":
+                        tgt, res = resolve_lucam(rec, luc_index)
+                        conf = ""
                     else:
                         continue
 
