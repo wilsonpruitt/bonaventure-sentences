@@ -232,3 +232,81 @@ has none). Proposal 9 in the scouting sheet.
   until p. 651 is read.
 - Everything in `vol6-pilot-setup.md` § Traps still binds (worn-digit folio misreads, blank-leaf ink percentages,
   the incremental-append discipline, never `git stash`).
+
+---
+
+# *LUCAM* PILOT (pp. 3–604) — RULINGS 1–16 (Wilson, 2026-11-14; "All as recommended")
+
+Binding summary. Evidence, alternatives and their costs: `manual-review/lucam-pilot-scouting.md` § PROPOSED RULINGS
+1–16 (the proposal text there is the ruling text; nothing was amended).
+
+- **1. Chunk unit = Bonaventure's own pericope, bounded by joints the print marks.** (a) Never across a
+  `CAPITULUM` heading; `division:` = the capitulum. (b) Every boundary is an editorial heading, or, where headings
+  stand more than ~8 pp apart, one of Bonaventure's divisio paragraphs. (c) Not every rubric is a boundary: sibling
+  rubric sections stay together up to **3–6 pp, cap 8, one-pass build to 10**; a stacked heading cascade opens one
+  chunk. (d) **A boundary always falls at the START of a numbered paragraph** (or at a heading standing between
+  paragraphs), never inside one. (e) id `bon-luc-c{N}-v{a}-{b}`, `verses: "a-b"`, `type: pericope`,
+  `paragraphs: "40-70"`. Refused: the capitulum; every rubric a chunk; verse-pericopes of our own.
+- **2. The chunk manifest is drawn BEFORE the build, in stages, and is the build's only source of spans.**
+  `manual-review/lucam-chunk-manifest.tsv`, one row per chunk, a plate crop read at every boundary. Stage 1 =
+  Cap. I–III before any chunk; thereafter complete through the NEXT gate before that interval's first chunk. A
+  builder who finds a row wrong on the plate STOPS and reports; the manifest is amended in its own commit.
+- **3. Front matter = two chunks, division 0:** `bon-luc-prooem` (section 1, `type: prooemium`, pp. 3–7) and
+  `bon-luc-prol` (section 2, `type: expositio`, pp. 7–10: the *Prologus S. Hieronymi* transcribed and translated
+  as text, italic as printed, + the expositio ¶¶ 1–11). The p. 11 display stack, `CAPITULUM I.` and `PROLOGUS
+  EVANGELISTAE.` go to `bon-luc-c1-v1-4`.
+- **4. Headings: all five tiers transcribed in place, both languages, with their typography; editorial, said once
+  in each chunk's Notes.** `CAPITULUM N.` → `### Capitulum N.`; tiers 1–4 → `####`, italic kept for tier 2; the
+  size/weight difference among tiers 1, 3, 4 is accepted as flattened. No `pars:` field; breadcrumb `Cap. N, Vers.
+  a-b`. `title_la` = the governing rubric **as amended by the Corrigenda**, else the lemma + Bonaventure's dividing
+  words.
+- **5. `paragraphs:` = the numbered paragraphs that BEGIN in the chunk;** numbers verbatim at paragraph heads in
+  both languages; un-numbered divisio text between headings is transcribed where it stands and belongs to the
+  paragraph it continues.
+- **6. The `TABULA DIVISIONUM PRINCIPALIUM` is NOT a chunk.** Manifest skeleton and gate positions only. (An
+  English outline on the work's landing page is a later, optional call; not ruled.)
+- **7. The Appendix is IN SCOPE, AFTER Luke closes,** as two separate small works (*Expositio Threnorum*,
+  *Expositio Orationis Dominicae*), each labelled as the editors label it (*saltem dubia*), each with its own
+  registry entry and its own short scouting sheet when it comes up. Nothing about their chunking is ruled.
+- **8. CORRIGENDA CONVENTION (corpus-level). Quaracchi's own Corrigenda are the edition's text.** The Latin
+  carries the corrected reading; the English translates the corrected reading; **one numbered translator's note,
+  anchored at the word,** records the printed reading and the source ("Printed: … ; corrected by the editors,
+  Corrigenda, t. VII p. 858."). Addenda to the apparatus are added to the note they extend, marked the same way.
+  `[so printed: …]` stays the mark for a misprint WE caught and the editors did not. The 16 Luke entries are
+  applied at build; the manifest names them per chunk.
+- **9. The five unapplied Vol VI corrigenda are fixed now, as one bounded job** (`bon-sap-c17`,
+  `bon-ioan-c1-v9-14`, `bon-ioan-c15-v1-11`, `bon-ioan-c19-v28-37`, `bon-cioan-c8`; + the p. 551 note updated from
+  bracket to confirmed corrigendum). Each site read on its plate first. Local commit; live with the next deploy
+  Wilson calls; no deploy asked on their account.
+- **10. Vols I–V: INVENTORY the Corrigenda leaves, apply nothing.** One short Sonnet-shaped session →
+  `manual-review/corrigenda-inventory.md` (applied / unapplied per entry). Queued behind the Luke manifest.
+  Applying is a later ruling.
+- **11. Register carried unchanged from Vols V and VI** (the list in the scouting sheet's proposal 11), and
+  **Luke takes the Ioannem's spellings** (Vol VI ruling 155's per-work scope).
+- **12. Register new to Luke, adopted as the working register; reviewed at the shakedown gate with sites in
+  view.** The six mercy nouns stay six words (*misericordia* mercy · *pietas* piety · *benignitas* kindness ·
+  *clementia* clemency · *compassio* compassion · *miseratio* "commiseration" in Bonaventure's own prose, the
+  Douay's wording inside a quotation). ⭐ ***pietas divina* in cc. 15–16: the "piety" rule HOLDS, with `tr-pietas`
+  at the first site of each chunk where the *pietas* is God's; reviewed with sites in view at the p. 381 gate.**
+  *praedicare* preach / *praedicatio* preaching / *praedicator* preacher, never "proclaim"; *evangelizare* → the
+  Douay's "preach the gospel". *magisterium* → "teaching office". *Praeceptor* → "Master" + `tr-praeceptor` at
+  5:5. *paupertas* poverty · *mendicus* beggar · *mendicitas* beggary · *eleemosyna* alms · *avaritia* avarice ·
+  *liberalitas* liberality. *remedium* remedy / *medicamentum* medicine · *tropaeum* trophy · *mysterium* mystery
+  / *sacramentum* sacrament. *informatio*, *informare* → "formation", "to form". Sense labels: Morally,
+  Spiritually, mystically, allegorically, "according to the letter". *publicanus* publican · *legisperitus*
+  lawyer · *sacerdos* priest. The canticles keep their Latin incipits as names. **Title: "Commentary on the
+  Gospel of Luke".**
+- **13. Registry and ids:** slug `lucam`, prefix `bon-luc-`, **book 19**, tome 7, initial "L",
+  `divisionLabel: "Capitula"`, divisions `0: Prooemium`, `1..24: Capitulum N`; title builder's `ioannem` branch
+  takes `lucam`; a citation class for "Comment. in Lucam c. N. v. M". Goes in with `bon-luc-prooem`, not before.
+- **14. EIGHT gates:** shakedown **p. 27** · **p. 88** (Pars I closes) · **p. 188** (close of c. 7) · **p. 288**
+  (c. 11 v. 13) · **p. 381** (close of c. 14; the *pietas* review) · **p. 472** (close of c. 18) · **p. 540**
+  (Pars II closes) · **work close p. 604**. Every gate runs on Wilson's go, never as a side effect of the loop.
+  **ONE deploy by default, at p. 604; every gate is a legitimate deploy boundary Wilson may call, per action.**
+  The recommendation to call **p. 88** (Luke 1–3 live for Advent) stands on the record; **the deploy itself is
+  still asked for, on its own, when the p. 88 gate closes.**
+- **15. Build cadence:** one Opus agent per chunk, incremental-append, the Vol VI session loop unchanged; plates
+  at 300 dpi; apparatus counted from the plates. ⛔ **The burn is NOT approved by this ruling.** "Which model, and
+  go?" is asked, with the figure restated for the interval, before `bon-luc-prooem` is dispatched.
+- **16. Manifest stage 1 (Cap. I–III + the two division-0 rows) is the next job, drawn on Opus;** low-confidence
+  rows flagged for Wilson or a Fable look at the shakedown gate.
