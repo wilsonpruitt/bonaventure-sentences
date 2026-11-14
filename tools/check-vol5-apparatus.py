@@ -4902,6 +4902,28 @@ KNOWN_TOTALS_VOL7 = {
              # above the in-column DIVISIO GENERALIS heading at ~0.69); nn.8-9 are bon-luc-c1-v5-17's (n.8
              # anchored ON DIVISIO GENERALIS, n.9 para 7 *supra*). Blocks L 1-8 head / R 8 tail + 9 (n.8 RUNS
              # OVER the gutter: c1-v5-17's to ledger). Gutter 1268 (edges 1236 | 1300, rule 1266-1270).
+             # Re-read at bon-luc-c1-v5-17: the two readings AGREE (9; n.8 ON the heading, n.9 *supra* in
+             # para 7, both R). The heading's line measures at ~0.54 of the leaf by row profile (the ~0.69 above
+             # is an overview-scale position). n.8's runover (*...editionem 1, quae vix* | *unquam a Vat.*)
+             # ledgered by c1-v5-17.
+    13: 10,  # bon-luc-c1-v5-17. Anchors L 1-4 (the heading cascade's divisio text) / R 5-10; blocks L 1-7 head /
+             # R 7 tail + 8-10 (nn.5-6 print LEFT, anchor RIGHT; n.7 RUNS OVER the gutter). n.10 RUNS OVER THE
+             # PAGE: its tail (*...saepe numero propter Sabbatum*) opens p.14's LEFT block unnumbered.
+             # Gutter 1140: the default 1154 on a 24 px run REJECTED (the cascade's centred headings sit in the
+             # left column); rows 0.40-0.75 band 1111-1169 (59 px), centre-rule island 1136-1142.
+    14: 12,  # bon-luc-c1-v5-17. Left block opens with p.13 n.10's tail, then nn.1-3; R 4-12. Anchors L 1-6 /
+             # R 7-12 (nn.4-6 print RIGHT, anchor LEFT). No gutter runover. Gutter 1278 (default, 61 px).
+    15: 9,   # bon-luc-c1-v5-17. Anchors L 1-5 / R 6-9; blocks L 1-5 / R 6-9, no runover. Gutter 1176 (default,
+             # 58 px).
+    16: 10,  # bon-luc-c1-v5-17. Anchors L 1-5 / R 6-10; blocks L 1-8 head / R 8 tail + 9-10 (nn.6-8 print LEFT,
+             # anchor RIGHT; n.8 RUNS OVER the gutter). n.8 carries the Corrigenda addendum (t. VII p. 858,
+             # "p. 16 col. 2 notes l. 2": *vel exigentiam veritatis*), the second line of the RIGHT block.
+             # Gutter 1281 (default, 60 px).
+    17: 9,   # FULL leaf count. bon-luc-c1-v5-17 owns nn.1-7 (anchors L 1-4 in paras 26-28, R 5-7 in para 28,
+             # all above the 17R rubric *Tertio describitur promissionis confirmatio quadrupliciter.*); nn.8-9
+             # anchor BELOW it (n.8 para 29 *ibi*, n.9 para 30 *primo*, both R) and are bon-luc-c1-v18-25's.
+             # Blocks L 1-4 / R 5-9, no runover. Gutter 1179: default 1176 on a 35 px run; rows 0.06-0.60 band
+             # 1152-1207 (56 px), 24 windows 1177-1182, rule island 1171-1188.
 }
 
 KNOWN_TOTALS_BY_VOL = {
