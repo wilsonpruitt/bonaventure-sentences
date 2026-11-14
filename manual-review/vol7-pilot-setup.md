@@ -55,8 +55,8 @@ opening page (plate p. 43: c. 1 ¶ 144 stands above `CAPITULUM II.`). First page
 | Cap. | Pages | Last ¶ (text layer) | | Cap. | Pages | Last ¶ |
 |---|---|---|---|---|---|---|
 | I | 11–43 | 144 (v. 80) | | XIII | 336–358 | ~73–74 |
-| II | 43–69 | 110 (v. 52) | | XIV | 358–381 | 68 |
-| III | 69–88 | ~63 | | XV | 381–402 | ~50+ |
+| II | 43–69 | **111** (corrected at manifest stage 1: ¶ 111 is an un-versed epilogue, 69R) | | XIV | 358–381 | 68 |
+| III | 69–88 | 63 (plate, 87R) | | XV | 381–402 | ~50+ |
 | IV | 88–112 | 98 (v. 44 at ¶ 97) | | XVI | 402–425 | 61 |
 | V | 112–134 | 85 (v. 39) | | XVII | 425–448 | 62 |
 | VI | 134–165 | 109 | | XVIII | 448–472 | 66 |
@@ -261,7 +261,9 @@ Binding summary. Evidence, alternatives and their costs: `manual-review/lucam-pi
   builder who finds a row wrong on the plate STOPS and reports; the manifest is amended in its own commit.
 - **3. Front matter = two chunks, division 0:** `bon-luc-prooem` (section 1, `type: prooemium`, pp. 3–7) and
   `bon-luc-prol` (section 2, `type: expositio`, pp. 7–10: the *Prologus S. Hieronymi* transcribed and translated
-  as text, italic as printed, + the expositio ¶¶ 1–11). The p. 11 display stack, `CAPITULUM I.` and `PROLOGUS
+  as text, italic as printed, + the expositio ¶¶ 1–11). **[Two facts corrected on the plates at manifest stage 1,
+  2026-11-14; the ruling itself stands: the chunk runs pp. 7–11 (expositio ¶ 11 crosses the top of p. 11, above the
+  display stack), and the Prologus is printed in ROMAN, a smaller face, not italic, so "as printed" means roman.]** The p. 11 display stack, `CAPITULUM I.` and `PROLOGUS
   EVANGELISTAE.` go to `bon-luc-c1-v1-4`.
 - **4. Headings: all five tiers transcribed in place, both languages, with their typography; editorial, said once
   in each chunk's Notes.** `CAPITULUM N.` → `### Capitulum N.`; tiers 1–4 → `####`, italic kept for tier 2; the
@@ -318,3 +320,30 @@ Binding summary. Evidence, alternatives and their costs: `manual-review/lucam-pi
   go?" is asked, with the figure restated for the interval, before `bon-luc-prooem` is dispatched.
 - **16. Manifest stage 1 (Cap. I–III + the two division-0 rows) is the next job, drawn on Opus;** low-confidence
   rows flagged for Wilson or a Fable look at the shakedown gate.
+
+### MANIFEST STAGE 1 — DRAWN 2026-11-14 (`lucam-chunk-manifest.tsv`, 22 rows; notes in `lucam-chunk-manifest-notes.md`)
+
+Read on 35 plate crops, one at every boundary. **Corrections to this sheet and to the scouting sheet, all MEASURED:**
+
+- Prooemium = ¶¶ 1–24 (not ≈ 27). `bon-luc-prol` = pp. 7–**11**. The *Prologus S. Hieronymi* is in **roman**
+  (re-read by the coordinator on the p. 7 plate), and its heading carries footnote anchor 2; `DIVISIO GENERALIS`
+  carries anchor 8. Anchored headings do occur in this work.
+- Last paragraph per capitulum: **I = 144, II = 111, III = 63.** `Pars II.` stands BELOW `CAPITULUM IV.` on p. 88
+  and belongs to c. 4.
+- c. 1: the 17R rubric stands above ¶ 29, so the chunks are ¶¶ 7–28 and 29–39.
+- Tabula divisionum: "c. 1, 30" is a misprint for v. 39, and "c. 1, 56" is one off (the body has v. 57).
+- The text layer misses every tier-3 heading in Cap. II–III; builders count headings on the plate.
+
+**The shakedown interval (gate p. 27) is SIX chunks:** `bon-luc-prooem` (3–7) · `bon-luc-prol` (7–11) ·
+`bon-luc-c1-v1-4` (11–12) · `bon-luc-c1-v5-17` (12–17) · `bon-luc-c1-v18-25` (17–20) · `bon-luc-c1-v26-38` (20–27).
+
+**Two readings fixed by the coordinator (Fable) under the rulings as given, no new ruling:**
+
+- **`title_la` under ruling 4 ("the governing rubric")** = the most specific heading in the chunk's opening
+  cascade whose scope covers the WHOLE chunk; where no heading stands (c. 2 vv. 25–39), the lemma + Bonaventure's
+  dividing words. This is how the manifest is drawn.
+- **The two `low` rows, `bon-luc-c2-v25-35` / `bon-luc-c2-v36-39` (pp. 58–65, no in-column heading; the editors'
+  divisions stand in the margin):** the cut at **¶ 81** (Anna, 62R) is kept. It is the higher-order joint, Simeon
+  and Anna are the two witnesses the passage itself divides into, and the pieces are 4.4 + 2.7 pp. The marginal
+  labels go to the Marginalia list in `## Notes` (standing convention), not into the body. The rows stay `low`
+  in the TSV until their builder has read pp. 58–65 on the plates; Wilson may overrule at the p. 88 gate.

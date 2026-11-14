@@ -10,9 +10,10 @@ table, the Corrigenda and the mechanics are in `vol7-pilot-setup.md` and are not
 ## What is on the leaves (plates pp. 3, 7, 11, 13, 43, 112, 128, 252, 604)
 
 - **p. 3** opens `PROOEMIUM COMMENTARII IN LUCAM`; numbered ¶¶ from 1, running to the top of p. 7 left column
-  ("…totius Libri generalis intelligentia"), ≈ 27 ¶¶ (text layer).
+  ("…totius Libri generalis intelligentia"), ≈ 27 ¶¶ (text layer). **[Corrected at manifest stage 1: 24 ¶¶, plate.]**
 - **p. 7** `PROLOGUS SANCTI HIERONYMI`: the prologue itself is **set in italic and unnumbered**, followed by
-  Bonaventure's expositio of it, ¶¶ 1–11, to p. 10.
+  Bonaventure's expositio of it, ¶¶ 1–11, to p. 10. **[Corrected at manifest stage 1, on the plates: the Prologus
+  is in ROMAN, a smaller face, not italic; the expositio runs to the top of p. 11.]**
 - **p. 11** the display stack `COMMENTARIUS IN EVANGELIUM S. LUCAE` / `CAPITULUM I.`, then `PROLOGUS EVANGELISTAE.`
   (Luke 1:1–4), ¶¶ 1–6; **p. 12R** `DIVISIO GENERALIS`, where ¶ 7 begins.
 - **p. 13** is the hardest leaf seen: ¶ 7 continues across **five stacked headings** (Pars I, tier 2, tier 3, two
