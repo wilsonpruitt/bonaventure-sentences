@@ -142,6 +142,14 @@ VOLUMES: dict[str, VolumeConfig] = {
         printed_max=634,
         description="Opera Omnia, Tomus VI — Commentarii in Sacram Scripturam I (Ecclesiastes, Sapientia, Ioannes, Collationes in Ioannem; two-column, body pp.3–634)",
     ),
+    "vol7": VolumeConfig(
+        name="vol7",
+        pdf_path=REPO_ROOT / "raw" / "doctorisseraphic07bona.pdf",
+        pdf_offset=26,           # PDF page = printed page + 26 (verified 2026-11-14 on the running-head folios of every 25th leaf, printed 24–604, and at the boundary leaves 3/11/604/607/652/655/657/858; PDF=892pp, two-column)
+        printed_min=1,
+        printed_max=858,         # body ends p. 655; p. 657 volume index; pp. 659–857 Index rerum for Tomes VI + VII; p. 858 Corrigenda et addenda (incl. six for Tome VI)
+        description="Opera Omnia, Tomus VII — Commentarius in Evangelium S. Lucae (pp. 3–604) + Appendix: Expositio Threnorum (607–651), Expositio Orationis Dominicae (652–655); two-column",
+    ),
 }
 
 
