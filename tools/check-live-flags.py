@@ -25,7 +25,7 @@ import re
 import sys
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-ALL_VOLUMES = ["vol1", "vol2", "vol3", "vol4", "vol5", "vol6"]
+ALL_VOLUMES = ["vol1", "vol2", "vol3", "vol4", "vol5", "vol6", "vol7"]
 
 # ⛔⛔ THIS SCRIPT TAKES BARE POSITIONAL VOLUME NAMES, AND IT USED TO ACCEPT
 # ANYTHING. `--volume 5` — the form every other tool in this repo takes — was

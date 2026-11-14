@@ -16,7 +16,7 @@ const SITE_DIR = path.resolve(__dirname, "..");
 const REPO_ROOT = path.resolve(SITE_DIR, "..");
 
 // Scan all volume dirs; each dir's files declare their own `book:` in frontmatter.
-const VOL_DIRS = ["vol1", "vol2", "vol3", "vol4", "vol5", "vol6"]
+const VOL_DIRS = ["vol1", "vol2", "vol3", "vol4", "vol5", "vol6", "vol7"]
   .map((v) => path.join(REPO_ROOT, v))
   .filter((p) => fs.existsSync(p));
 const TRANS_DIR = path.join(REPO_ROOT, "translations", "vol1");
@@ -252,6 +252,7 @@ const WORK_FACTS = {
   sapientiam: { titleEn: "Commentary on the Book of Wisdom", genre: "Scripture commentary", unit: ["pericope", "pericopes"] }, // (descriptive)
   ioannem: { titleEn: "Commentary on the Gospel of John", genre: "Scripture commentary", unit: ["pericope", "pericopes"] }, // (descriptive)
   "collationes-ioannem": { titleEn: "Collations on the Gospel of John", genre: "Collationes", unit: ["chapter", "chapters"] }, // (descriptive)
+  lucam: { titleEn: "Commentary on the Gospel of Luke", genre: "Scripture commentary", unit: ["pericope", "pericopes"] }, // frozen, Vol VII ruling 12
 };
 const SENTENCES_FACTS = { genre: "Commentary on the Sentences of Peter Lombard", unit: ["question", "questions"] };
 const SENTENCES_LA = (n) => `Commentarius in ${["I", "II", "III", "IV"][n - 1]} librum Sententiarum`;
@@ -1061,6 +1062,33 @@ const WORKS = {
       22: "Appendix",
     },
   },
+  // The fourth Scripture commentary, Tome VII (Lucam pilot, rulings 1–16 of
+  // manual-review/vol7-pilot-setup.md; evidence lucam-pilot-scouting.md).
+  // English title "Commentary on the Gospel of Luke" (ruling 12). The volume
+  // index gives no pericopes, so the chunk is Bonaventure's own pericope as
+  // drawn in manual-review/lucam-chunk-manifest.tsv (rulings 1–2):
+  // `bon-luc-c{N}-v{a}-{b}`, `verses: "a-b"`, `type: pericope`,
+  // `paragraphs: "a-b"`, rendered "Cap. N, Vers. a-b" by the ioannem branch of
+  // buildWorkChunkTitle (ruling 13). Division 0 holds two chunks (ruling 3):
+  // `bon-luc-prooem` (section 1, type prooemium, pp. 3–7) and `bon-luc-prol`
+  // (section 2, type expositio, pp. 7–11). No `pars:` field (ruling 4).
+  // Divisions 1–24 are the Capitula; each adds its own line after its heading
+  // is read in place.
+  lucam: {
+    book: 19,
+    tome: 7,
+    title: "Commentarius in Evangelium S. Lucae",
+    initial: "L",
+    divisionLabel: "Capitula",
+    divisions: {
+      // `PROOEMIUM / COMMENTARII IN LUCAM` read in place on p. 3 at
+      // bon-luc-prooem: full measure, ornament below, NO period and
+      // UNANCHORED (p. 3's seven notes all anchor in the body). Division 0
+      // also holds bon-luc-prol (section 2), whose in-column PROLOGUS SANCTI
+      // HIERONYMI heading on p. 7L carries anchor 2.
+      0: "Prooemium",
+    },
+  },
 };
 
 function buildWorkChunkTitle(meta) {
@@ -1141,7 +1169,8 @@ function buildWorkChunkTitle(meta) {
   if (
     meta.workSlug === "ecclesiasten" ||
     meta.workSlug === "sapientiam" ||
-    meta.workSlug === "ioannem"
+    meta.workSlug === "ioannem" ||
+    meta.workSlug === "lucam"
   ) {
     return meta.verses
       ? `Cap. ${meta.division}, Vers. ${meta.verses}`

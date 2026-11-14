@@ -270,6 +270,7 @@ GOTO_EXTRA_ABBREV = {
     "sapientiam": ["Comment. in Sap.", "in Sap.", "in librum Sapientiae", "Sap."],
     "ioannem": ["Comment. in Ioan.", "Comment. in Ioannem", "in Ioan.", "in Ioannem"],
     "collationes-ioannem": ["Collat. in Ioan.", "Collationes in Ioannem", "Collat. in Ioannem", "Coll. in Ioan."],
+    "lucam": ["Comment. in Luc.", "Comment. in Lucam", "in Luc.", "in Lucam"],
 }
 ID_TOKEN_RE = re.compile(r"^([a-z]+?)(\d+)(?:-(\d+))?$")
 

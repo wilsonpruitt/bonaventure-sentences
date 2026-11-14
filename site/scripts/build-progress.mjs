@@ -50,7 +50,7 @@ const SITE_DIR = path.resolve(__dirname, "..");
 const REPO_ROOT = path.resolve(SITE_DIR, "..");
 const OUT_FILE = path.join(SITE_DIR, "src", "data", "progress.json");
 
-const VOL_DIRS = ["vol1", "vol2", "vol3", "vol4", "vol5", "vol6"];
+const VOL_DIRS = ["vol1", "vol2", "vol3", "vol4", "vol5", "vol6", "vol7"];
 
 // ---------------------------------------------------------------------------
 // Vol V work map. Page ranges are Quaracchi's own, read off the volume index
@@ -190,6 +190,14 @@ const VOL6_WORKS = [
   { slug: "collationes-ioannem", title: "Collationes in Evangelium S. Ioannis", first: 535, last: 634, complete: true },
 ];
 
+// Vol VII, same contract. Luke's body is pp. 3–604 (lucam-pilot-scouting.md);
+// the Appendix's two small works (ruling 7) join this list when they come up.
+const VOL7_WORKS = [
+  { slug: "lucam", title: "Commentarius in Evangelium S. Lucae", first: 3, last: 604, complete: false },
+];
+
+const WORKS_BY_VOL = { 6: VOL6_WORKS, 7: VOL7_WORKS };
+
 const MEASURED_EXTENTS = {
   6: {
     first: 1,
@@ -321,6 +329,7 @@ for (const dir of VOL_DIRS) {
       // later volume that grows a per-work denominator gets its own guard here.
       if (vol === 5 && !VOL5_WORKS.some((w) => w.slug === work)) unknownWorkSlugs.add(work);
       if (vol === 6 && !VOL6_WORKS.some((w) => w.slug === work)) unknownWorkSlugs.add(work);
+      if (vol === 7 && !VOL7_WORKS.some((w) => w.slug === work)) unknownWorkSlugs.add(work);
       if (!workPages.has(work)) workPages.set(work, new Set());
       for (const p of pages) workPages.get(work).add(p);
     }
@@ -432,14 +441,14 @@ const volumes = VOLUMES.map((v) => {
       // Begun as soon as one chunk carries its printed pages. A measured volume
       // is never marked complete from the count alone: that waits for its gate.
       state:
-        v.n === 6 && VOL6_WORKS.every((w) => w.complete)
+        WORKS_BY_VOL[v.n] && WORKS_BY_VOL[v.n].every((w) => w.complete)
           ? "complete"
           : done > 0
             ? "in-progress"
             : "planned",
-      ...(v.n === 6
+      ...(WORKS_BY_VOL[v.n]
         ? {
-            works: VOL6_WORKS.map((w) => ({
+            works: WORKS_BY_VOL[v.n].map((w) => ({
               slug: w.slug,
               title: w.title,
               extent: `pp. ${w.first}\u2013${w.last}`,

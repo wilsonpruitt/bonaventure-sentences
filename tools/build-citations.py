@@ -243,7 +243,9 @@ def build_indexes(chunks):
 # is resolve_page(): a `tom. VI. pag. N` with NO owning chunk is now `dangling` (QA-flagged)
 # instead of `forward`; the unowned leaves are 104-106, 236-238, 533-534 (work half-titles and
 # blanks) and the unchunked volume index (pp. 635+), none of which is cited today.
-VOLUME_COMPLETE = {1: True, 2: True, 3: True, 4: True, 5: True, 6: True}
+# Vol VII opened 2026-11-14 with bon-luc-prooem (pp. 3-7): nearly every page of it has no
+# owner yet, so a ref into it reads `forward`, never `dangling` (the Vol VI 2026-09-19 shape).
+VOLUME_COMPLETE = {1: True, 2: True, 3: True, 4: True, 5: True, 6: True, 7: False}
 
 
 # ------------------------------------------------------------------ ordinal parsing
@@ -1816,7 +1818,7 @@ def dedupe(rows):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--volumes", default="1,2,3,4,5,6",
+    ap.add_argument("--volumes", default="1,2,3,4,5,6,7",
                     help="volumes to EMIT records for. Resolution always indexes the "
                          "whole corpus — a vol5 cross-ref targets vols I-IV, so a "
                          "subset index would report the rest of the corpus as dangling.")

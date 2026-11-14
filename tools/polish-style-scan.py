@@ -31,7 +31,7 @@ Usage:
 """
 import re, sys, glob, os
 
-DIRS = ["vol1", "vol2", "vol3", "vol4", "vol5", "vol6"]
+DIRS = ["vol1", "vol2", "vol3", "vol4", "vol5", "vol6", "vol7"]
 REQUIRED_FM = ["title_la", "title_en", "printed_pages", "pdf_pages",
                "source", "has_apparatus", "transcription_status"]
 # Vol V work chunks declare `work:` instead of `book:`; `division:` replaces
@@ -104,7 +104,7 @@ def main():
         # place of `book:`, page-qualified apparatus labels, bands-only
         # apparatus. The flag name is kept for continuity with the checks
         # below, which were written for Vol V and apply unchanged.
-        is_vol5 = os.path.dirname(f) in ("vol5", "vol6")
+        is_vol5 = os.path.dirname(f) in ("vol5", "vol6", "vol7")
         if fm is None:
             issues.append((name, "ERR", "no frontmatter block"))
             continue

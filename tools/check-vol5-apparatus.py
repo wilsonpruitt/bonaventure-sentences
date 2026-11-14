@@ -4867,9 +4867,26 @@ KNOWN_TOTALS_VOL6 = {
              # orationibus, in full, gutter runover). Gutter 1142. THE WORK'S LAST LEAF.
 }
 
+# Tome VII (pdf = printed + 26, 300 dpi native). Commentarius in Evangelium
+# S. Lucae, pp. 3-604; chunks from manual-review/lucam-chunk-manifest.tsv.
+KNOWN_TOTALS_VOL7 = {
+    # Commentarius in Evangelium S. Lucae (pp. 3-604). Prooemium = bon-luc-prooem (pp. 3-7).
+    3: 7,    # bon-luc-prooem. Display heading PROOEMIUM / COMMENTARII IN LUCAM UNANCHORED. Anchors L 1-3 / R 4-7;
+             # blocks L 1-4 head / R 4 tail + 5-7, n.4 RUNS OVER the gutter. Gutter 1167 (profiled below the heading).
+    4: 12,   # bon-luc-prooem. Anchors L 1-7 / R 8-12; blocks L 1-8 head / R 8 tail + 9-12, n.8 RUNS OVER the gutter.
+             # Gutter 1260.
+    5: 8,    # bon-luc-prooem. Anchors L 1-5 / R 6-8; blocks L 1-4 / R 5-8 (n.5 prints RIGHT, anchor LEFT). Gutter 1178.
+    6: 7,    # bon-luc-prooem. Anchors L 1-3 / R 4-7; blocks L 1-5 head / R 5 tail + 6-7 (n.4 prints LEFT, anchor RIGHT;
+             # n.5 RUNS OVER the gutter). Gutter 1276.
+    7: 10,   # FULL leaf count. bon-luc-prooem owns n.1 only (anchor L, *primo*, above the in-column PROLOGUS SANCTI
+             # HIERONYMI heading); nn.2-10 are bon-luc-prol's (n.2 anchored ON that heading, nn.3-10 in the Prologus
+             # and its Expositio). Gutter 1170 (one region; the heading is in-column).
+}
+
 KNOWN_TOTALS_BY_VOL = {
     "vol5": KNOWN_TOTALS,
     "vol6": KNOWN_TOTALS_VOL6,
+    "vol7": KNOWN_TOTALS_VOL7,
 }
 
 

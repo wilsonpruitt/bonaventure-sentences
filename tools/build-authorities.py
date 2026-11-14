@@ -55,6 +55,7 @@ CHUNK_BOOK = {
     "sapientiam": "Sap",
     "ioannem": "Ioan",
     "collationes-ioannem": "Ioan",
+    "lucam": "Luc",
 }
 _SB = json.load(open(os.path.join(ROOT, "tools", "scripture-books.json"), encoding="utf-8"))["books"]
 _VERSE_ABBR = sorted(((ab, b["key"]) for b in _SB for ab in b["abbrev"]), key=lambda x: -len(x[0]))
