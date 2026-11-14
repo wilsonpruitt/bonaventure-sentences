@@ -4954,6 +4954,16 @@ KNOWN_TOTALS_VOL7 = {
              # closing *opportuno*, above the t3 cascade *Secundo, de gratiarum actione pro utraque conceptione.*);
              # nn.7-11 anchor BELOW it (paras 71-72, all R) and are bon-luc-c1-v39-45's. Blocks L 1-4 / R 5-11
              # (n.5 prints RIGHT, anchor LEFT), no runover; left block opens numbered. Gutter 1171.
+             # Re-read at bon-luc-c1-v39-45: the two readings AGREE (11; nn.7-11 here: para 71 *ibi* n.7,
+             # *effectu* n.8, *ibi* n.9, *ibi* n.10, *ibi* n.11, all 27R below the cascade).
+    28: 12,  # bon-luc-c1-v39-45. Anchors L 1-7 / R 8-12; blocks L 1-6 / R 7-12 (n.7 prints RIGHT, anchor LEFT),
+             # no runover. Gutter 1298.
+    29: 10,  # bon-luc-c1-v39-45. Anchors L 1-4 / R 5-10; blocks L 1-9 head / R 9 tail + 10 (nn.5-9 print LEFT,
+             # anchor RIGHT; n.9 RUNS OVER the gutter). Gutter 1159.
+    30: 10,  # FULL leaf count. bon-luc-c1-v39-45 owns nn.1-7 (anchors L 1-5 in paras 82-84, R 6-7 in para 85,
+             # above the t4 *Secundo subditur canticum laetitiae.* at ~0.35 of 30R); nn.8-10 anchor BELOW it
+             # (n.8 para 86 *ibi*, n.9 para 87 *eius*, n.10 para 87 *tertio*, all R) and are bon-luc-c1-v46-56's.
+             # Blocks L 1-5 / R 6-10, no runover. Gutter 1293 (auto 54 px; profile band 1261-1325 confirms).
 }
 
 KNOWN_TOTALS_BY_VOL = {

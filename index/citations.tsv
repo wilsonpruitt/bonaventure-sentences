@@ -35858,6 +35858,88 @@ bon-luc-c1-v26-38	7	apparatus:p27-3	p27-3	scripture	apparatus-explicit	Cant. 3, 
 bon-luc-c1-v26-38	7	apparatus:p27-4	p27-4	scripture	apparatus-explicit	Psalm. 25, 8	Ps 25:8	A	verse			
 bon-luc-c1-v26-38	7	apparatus:p27-6	p27-6	scripture	apparatus-explicit	Hebr. 4, 16	Hebr 4:16	A	verse			
 bon-luc-c1-v26-38	7	apparatus:p27-6	p27-6	scripture	apparatus-explicit	Esther 2, 17	Esth 2:17	A	verse			
+bon-luc-c1-v39-45	7	latin_body	p28-1	scripture	body-ordinal	Canticorum secundo	Cant 2:10	B	verse			
+bon-luc-c1-v39-45	7	latin_body		scripture	body-ordinal	Proverbiorum trigesimo primo	Prov 31	C	chapter			
+bon-luc-c1-v39-45	7	latin_body		scripture	body-ordinal	Iosue secundo	Ios 2	C	chapter			
+bon-luc-c1-v39-45	7	latin_body		scripture	body-ordinal	Canticorum secundo	Cant 2	C	chapter			
+bon-luc-c1-v39-45	7	latin_body		scripture	body-ordinal	Genesis vigesimo nono	Gen 29	C	chapter			
+bon-luc-c1-v39-45	7	latin_body	p28-5	scripture	body-ordinal	ad Hebraeos quarto	Hebr 4:11	B	verse			
+bon-luc-c1-v39-45	7	latin_body		scripture	body-ordinal	ad Corinthios nono	1Cor 9	C	chapter			
+bon-luc-c1-v39-45	7	latin_body		scripture	body-ordinal	Matthaei vigesimo quinto	Matth 25	C	chapter			
+bon-luc-c1-v39-45	7	latin_body		scripture	body-ordinal	Ecclesiastici quinto	Eccli 5	C	chapter			
+bon-luc-c1-v39-45	7	latin_body	p28-6	scripture	body-ordinal	Sapientiae octavo	Sap 8:16	B	verse			
+bon-luc-c1-v39-45	7	latin_body		scripture	body-ordinal	Proverbiorum septimo	Prov 7	C	chapter			
+bon-luc-c1-v39-45	7	latin_body		scripture	body-ordinal	ad Romanos decimo sexto	Rom 16	C	chapter			
+bon-luc-c1-v39-45	7	latin_body	p28-7	scripture	body-ordinal	Isaiae sexagesimo secundo	Isai 62:1	B	verse			
+bon-luc-c1-v39-45	7	latin_body	p28-9	scripture	body-ordinal	Canticorum octavo	Cant 8:13	B	verse			
+bon-luc-c1-v39-45	7	latin_body		scripture	body-ordinal	Ioannis octavo	Ioan 8	C	chapter			
+bon-luc-c1-v39-45	7	latin_body		scripture	body-ordinal	ad Thessalonicenses secundo	1Thess 2	C	chapter			
+bon-luc-c1-v39-45	7	latin_body		scripture	body-ordinal	Iacobi primo	Iac 1	C	chapter			
+bon-luc-c1-v39-45	7	latin_body	p28-10	scripture	body-ordinal	Ioannis tertio	Ioan 3:29	B	verse			
+bon-luc-c1-v39-45	7	latin_body		scripture	body-ordinal	Ecclesiastici decimo quinto	Eccli 15	C	chapter			
+bon-luc-c1-v39-45	7	latin_body	p29-2	scripture	body-ordinal	Isaiae quadragesimo	Isai 40:3	B	verse			
+bon-luc-c1-v39-45	7	latin_body		scripture	anaphor->body-ordinal	ibid	Isai 40:3	B	verse	yes	Isaiae quadragesimo	
+bon-luc-c1-v39-45	7	latin_body	p29-4	scripture	body-ordinal	Genesis duodecimo	Gen 12:2	B	verse			
+bon-luc-c1-v39-45	7	latin_body		scripture	body-ordinal	Genesis vigesimo septimo	Gen 27	C	chapter			
+bon-luc-c1-v39-45	7	latin_body		scripture	body-ordinal	Genesis penultimo	Gen 49	C	chapter			
+bon-luc-c1-v39-45	7	latin_body	p29-5	scripture	body-ordinal	Deuteronomii vigesimo octavo	Deut 28:4	B	verse			
+bon-luc-c1-v39-45	7	latin_body	p29-6	scripture	body-ordinal	Ecclesiastici vigesimo quarto	Eccli 24:4	B	verse			
+bon-luc-c1-v39-45	7	latin_body		scripture	body-ordinal	Iudicum quinto	Iudic 5	C	chapter			
+bon-luc-c1-v39-45	7	latin_body		scripture	body-ordinal	Ruth tertio	Ruth 3	C	chapter			
+bon-luc-c1-v39-45	7	latin_body		scripture	body-ordinal	Regum vigesimo quinto	1Reg 25	C	chapter			
+bon-luc-c1-v39-45	7	latin_body	p29-9	scripture	body-ordinal	Regum ultimo	2Reg 24:21	B	verse			
+bon-luc-c1-v39-45	7	latin_body	p29-10	scripture	body-ordinal	Ecclesiastici vigesimo quarto	Eccli 24:24	B	verse			
+bon-luc-c1-v39-45	7	latin_body		scripture	body-ordinal	Isaiae quadragesimo nono	Isai 49	C	chapter			
+bon-luc-c1-v39-45	7	latin_body		scripture	body-ordinal	Zachariae nono	Zach 9	C	chapter			
+bon-luc-c1-v39-45	7	latin_body	p30-3	scripture	body-ordinal	Matthaei decimo sexto	Matth 16:17	B	verse			
+bon-luc-c1-v39-45	7	latin_body		scripture	body-ordinal	Ioannis vigesimo	Ioan 20	C	chapter			
+bon-luc-c1-v39-45	7	latin_body		scripture	body-ordinal	ad Philippenses primo	Phil 1	C	chapter			
+bon-luc-c1-v39-45	7	latin_body		scripture	body-ordinal	Matthaei octavo	Matth 8	C	chapter			
+bon-luc-c1-v39-45	7	latin_body		scripture	body-ordinal	Ecclesiastici quadragesimo octavo	Eccli 48	C	chapter			
+bon-luc-c1-v39-45	7	latin_body		scripture	body-ordinal	Ecclesiastici vigesimo quinto	Eccli 25	C	chapter			
+bon-luc-c1-v39-45	7	latin_body	p30-5	scripture	body-ordinal	Ioannis decimo tertio	Ioan 13:17	B	verse			
+bon-luc-c1-v39-45	7	latin_body		scripture	body-ordinal	Petri tertio	1Petr 3	C	chapter			
+bon-luc-c1-v39-45	7	latin_body		scripture	body-ordinal	Matthaei quinto	Matth 5	C	chapter			
+bon-luc-c1-v39-45	7	latin_body		scripture	body-ordinal	Regum decimo	3Reg 10	C	chapter			
+bon-luc-c1-v39-45	7	latin_body	p30-7	scripture	body-ordinal	Genesis trigesimo	Gen 30:13	B	verse			
+bon-luc-c1-v39-45	7	apparatus:p28-1	p28-1	scripture	apparatus-explicit	Prov. 31, 15	Prov 31:15	A	verse			
+bon-luc-c1-v39-45	7	apparatus:p28-2	p28-2	scripture	apparatus-explicit	Iosue 2, 16	Ios 2:16	A	verse			
+bon-luc-c1-v39-45	7	apparatus:p28-2	p28-2	scripture	apparatus-explicit	Cant. 2, 8	Cant 2:8	A	verse			
+bon-luc-c1-v39-45	7	apparatus:p28-4	p28-4	scripture	apparatus-explicit	Gen. 29, 12	Gen 29:12	A	verse			
+bon-luc-c1-v39-45	7	apparatus:p28-5	p28-5	scripture	apparatus-explicit	I. Cor. 9, 24	1Cor 9:24	A	verse			
+bon-luc-c1-v39-45	7	apparatus:p28-5	p28-5	scripture	apparatus-explicit	Matth. 25, 11	Matth 25:11	A	verse			
+bon-luc-c1-v39-45	7	apparatus:p28-5	p28-5	scripture	apparatus-explicit	Eccli. 5, 8	Eccli 5:8	A	verse			
+bon-luc-c1-v39-45	7	apparatus:p28-6	p28-6	scripture	apparatus-explicit	Prov. 7, 10	Prov 7:10	A	verse			
+bon-luc-c1-v39-45	7	apparatus:p28-6	p28-6	scripture	apparatus-explicit	Rom. 16, 16	Rom 16:16	A	verse			
+bon-luc-c1-v39-45	7	apparatus:p28-8	p28-8	scripture	apparatus-explicit	Matth. 10, 11	Matth 10:11	A	verse			
+bon-luc-c1-v39-45	7	apparatus:p28-9	p28-9	scripture	apparatus-explicit	Ioan. 8, 47	Ioan 8:47	A	verse			
+bon-luc-c1-v39-45	7	apparatus:p28-9	p28-9	scripture	apparatus-explicit	I. Thess. 2, 13	1Thess 2:13	A	verse			
+bon-luc-c1-v39-45	7	apparatus:p28-9	p28-9	scripture	apparatus-explicit	Iac. 1, 21	Iac 1:21	A	verse			
+bon-luc-c1-v39-45	7	apparatus:p28-10	p28-10	scripture	apparatus-explicit	Ioan. 8, 56	Ioan 8:56	A	verse			
+bon-luc-c1-v39-45	7	apparatus:p28-11	p28-11	scripture	apparatus-explicit	Luc. 1, 15	Luc 1:15	A	verse			
+bon-luc-c1-v39-45	7	apparatus:p29-1	p29-1	scripture	apparatus-explicit	Eccli. 15, 5	Eccli 15:5	A	verse			
+bon-luc-c1-v39-45	7	apparatus:p29-4	p29-4	scripture	apparatus-explicit	Gen. 27, 27	Gen 27:27	A	verse			
+bon-luc-c1-v39-45	7	apparatus:p29-5	p29-5	scripture	apparatus-explicit	Ps. 84, 2	Ps 84:2	A	verse			
+bon-luc-c1-v39-45	7	apparatus:p29-6	p29-6	scripture	apparatus-explicit	Iudic. 5, 24	Iudic 5:24	A	verse			
+bon-luc-c1-v39-45	7	apparatus:p29-6	p29-6	scripture	apparatus-explicit	Ruth 3, 10	Ruth 3:10	A	verse			
+bon-luc-c1-v39-45	7	apparatus:p29-6	p29-6	scripture	apparatus-explicit	I. Reg. 25, 33	1Reg 25:33	A	verse			
+bon-luc-c1-v39-45	7	apparatus:p29-6	p29-6	scripture	apparatus-explicit	Iudith 13, 23	Iudith 13:23	A	verse			
+bon-luc-c1-v39-45	7	apparatus:p29-7	p29-7	crossref	page	supra pag. 28, nota 10	bon-luc-c1-v39-45		chunk			fn-p28-10
+bon-luc-c1-v39-45	7	apparatus:p29-9	p29-9	scripture	apparatus-explicit	Eccli. 3, 20	Eccli 3:20	A	verse			
+bon-luc-c1-v39-45	7	apparatus:p29-9	p29-9	scripture	apparatus-explicit	Matth. 3, 11	Matth 3:11	A	verse			
+bon-luc-c1-v39-45	7	apparatus:p30-1	p30-1	scripture	apparatus-explicit	Psalm. 44, 3	Ps 44:3	A	verse			
+bon-luc-c1-v39-45	7	apparatus:p30-1	p30-1	scripture	apparatus-explicit	Isai. 49, 1	Isai 49:1	A	verse			
+bon-luc-c1-v39-45	7	apparatus:p30-3	p30-3	scripture	apparatus-explicit	Ioan. 20, 29	Ioan 20:29	A	verse			
+bon-luc-c1-v39-45	7	apparatus:p30-3	p30-3	scripture	apparatus-explicit	Phil. 1, 6	Phil 1:6	A	verse			
+bon-luc-c1-v39-45	7	apparatus:p30-3	p30-3	scripture	apparatus-explicit	Matth. 8, 13	Matth 8:13	A	verse			
+bon-luc-c1-v39-45	7	apparatus:p30-4	p30-4	scripture	apparatus-explicit	Psalm. 39, 5	Ps 39:5	A	verse			
+bon-luc-c1-v39-45	7	apparatus:p30-4	p30-4	scripture	apparatus-explicit	Eccli. 48, 11	Eccli 48:11	A	verse			
+bon-luc-c1-v39-45	7	apparatus:p30-4	p30-4	scripture	apparatus-explicit	Ps. 111, 1	Ps 111:1	A	verse			
+bon-luc-c1-v39-45	7	apparatus:p30-5	p30-5	scripture	apparatus-explicit	Luc. 11, 28	Luc 11:28	A	verse			
+bon-luc-c1-v39-45	7	apparatus:p30-5	p30-5	scripture	apparatus-explicit	I. Petr. 3, 14	1Petr 3:14	A	verse			
+bon-luc-c1-v39-45	7	apparatus:p30-5	p30-5	scripture	apparatus-explicit	Matth. 5, 11	Matth 5:11	A	verse			
+bon-luc-c1-v39-45	7	apparatus:p30-5	p30-5	scripture	apparatus-explicit	III. Reg. 10, 8	3Reg 10:8	A	verse			
+bon-luc-c1-v39-45	7	apparatus:p30-6	p30-6	scripture	apparatus-explicit	Luc. 1, 48	Luc 1:48	A	verse			
 bon-luc-c1-v5-17	7	latin_body		scripture	body-ordinal	ad Hebraeos septimo	Hebr 7	C	chapter			
 bon-luc-c1-v5-17	7	latin_body	p13-6	scripture	body-ordinal	Petri secundo	1Petr 2:9	B	verse			
 bon-luc-c1-v5-17	7	latin_body		scripture	body-ordinal	Exodi decimo nono	Exod 19	C	chapter			
