@@ -447,3 +447,182 @@ heading".
 - **Paragraph numbers inside rows** come from the text layer. Each is anchored by plate-read numbers at both ends.
 - **Verse ends** are taken from the `(Vers. N.)` tags and the lemma of the next row's first paragraph. ¶ 26 of c. 10
   (v. 16) is not legible in the text layer; `c10-v4-16`'s end verse rests on ¶ 25 (Vers. 15) and ¶ 28's lemma (v. 17).
+
+# Stage 4 notes (Cap. XI v. 14 – Cap. XIV, pp. 288–381; 2026-11-15, Opus)
+
+19 rows appended to `lucam-chunk-manifest.tsv` (XI 4 · XII 5 · XIII 5 · XIV 5), drawn at the p. 288 gate and before
+any chunk of the next interval (ruling 2). Labels as in stages 1–3: **MEASURED** (read on a 300 dpi plate crop this
+session) or **PREDICTION** (text layer only). No chunk was built.
+
+## Plates read (MEASURED)
+
+Plates pp. 291–382 extracted at 300 dpi (`raw/vision/vol7/p-291 … p-382.png`; pp. 288–290 were on disk). Three screens
+found the headings, and every hit was read on a crop:
+
+- a **vertical-gap screen**: each column's inner 76 % profiled for blank bands ≥ 38 px in the body zone, the
+  synchronised footer-rule pair set aside. Column-specific pairs (a heading leaves a gap above and below itself) stood
+  at 288L/R, 298L, 300L, 309L, 310L ×2, 311R, 313R, 315L, 316L ×2, 324L ×2, 330R, 336R, 341R ×2, 358L/R, 362L, 375L,
+  381: **every one a heading or a capitulum**. Single gaps at 289R, 301R, 304L, 307R, 312R, 315R, 321R, 325R, 327L,
+  338R, 347R, 366L, 374R, 378R were read: short closing lines, a centred verse list (304L), or the footer zone of
+  leaves whose body ends high. **None is a heading.**
+- a **divisio sweep**: the paragraphs that open on a lemma + *Post… / Postquam… / Supra… / Hic…* (~35 in pp. 288–381),
+  read on the plate wherever one is a boundary or a named joint;
+- the **text layer's** small-type lines in the body zone. It found every heading except the 288R t3 and the 341R
+  second t4, and was a cross-check only.
+
+Full-width crops: pp. **309**, **336**, **358**, **381**. Boundary and heading crops: **288L**, **288R** (×2), **290L**,
+**290R** (×2), **295R**, **297R**, **298L**, **300L**, **300R**, **302L**, **304R**, **309L**, **309R**, **310L**,
+**311R**, **313L**, **313R**, **315L**, **316L** (×2), **316R**, **324L**, **327L**, **330R**, **335R**, **338R**,
+**341R** (×2), **342L**, **346L**, **347R**, **350L**, **354L** (×2), **361R**, **362L**, **366L**, **370L**, **375L**.
+Every row's opening, ending and `title_la` was read on one of these.
+
+## Headings found in pp. 288–381 (MEASURED; wording from the plate)
+
+| Page | Tier (typography) | Wording | Row |
+|---|---|---|---|
+| 288L | t2 (italic) | *Secundo confutatur falsitas Iudaeorum adversantium quadrupliciter.* | c11-v14-26 (inside ¶ 36) |
+| 288R | t3 (larger roman) | Dolositas Iudaeorum calumniantium miracula confutatur dupliciter. | c11-v14-26 |
+| 288R | t4 (small bold) | Primo confutantur Iudaei calumniantes miracula ex parte causae efficientis, deinde discipuli informantur. | c11-v14-26 |
+| 288R | t4 | Primo, de Iudaeorum dolositate et triplici fallacia. | c11-v14-26 |
+| 288R | t4 | Confutatur fallacia blasphemantium per tria. | c11-v14-26 |
+| 298L | t4 | Confutatur fallacia tentantium sive incredulorum triplici via. | c11-v27-32 (interior) |
+| 300L | t4 | Confutatur fallacia simulantium per duo. | c11-v33-41 |
+| 309 | capitulum | CAPITULUM XII. | c12-v1-7 |
+| 309L | t4 | Secundo informat ad fallaciam confutatam vitandam duplici modo. | c12-v1-7 |
+| 310L | t4 | Primo ad cavendam duplicitatem venientem ex timiditate monet quadrupliciter. | c12-v1-7 |
+| 310L | t4 | Informatio duplex ad cavendam dolositatem. | c12-v1-7 |
+| 311R | t4 | Informatio ad repellendam timiditatem per duo. | c12-v1-7 (interior) |
+| 313R | t4 | Informatio duplex ad servandam veracitatem. | c12-v8-12 |
+| 315L | t4 | Informatio duplex ad securitatem contra pusillanimitatem. | c12-v8-12 (interior) |
+| 316L | t4 | Secundo ad cavendam cupiditatem venientem ex timiditate monet dupliciter. | c12-v13-34 |
+| 316L | t4 | A sollicitudine avaritiae revocatur quadrupliciter. | c12-v13-34 |
+| 324L | t4 | Ad sollicitudinem providentiae invitatur dupliciter. | c12-v35-48 |
+| 324L | t4 | Primo invitatur consideratione secundi adventus. | c12-v35-48 |
+| 330R | t4 | Secundo invitatur ad vigilantiam consideratione primi adventus. | c12-v49-59 |
+| 336 | capitulum | CAPITULUM XIII. (no heading beneath it) | c13-v1-9 |
+| 341R | t4 | Secundo confutantur calumniantes miracula ex parte circumstantiae temporis secundum duplicem opportunitatem. | c13-v10-17 |
+| 341R | t4 | Confutatio, quae fit in concilio, de qua duo. | c13-v10-17 |
+| 358 | capitulum | CAPITULUM XIV. | c14-v1-6 |
+| 358L | t4 | Confutatio calumniantium miracula, quae fit in convivio, de qua tria. | c14-v1-6 |
+| 358L | t4 | Primo confutantur Pharisaei observantes, de quo tria. | c14-v1-6 |
+| 362L | t4 | Secundo informantur convivantes quoad tria. | c14-v7-11 |
+| 375L | t4 | Tertio erudiuntur turbae subsequentes, de quo duo. | c14-v25-35 |
+| 381 | capitulum | CAPITULUM XV. + t4 *Impietas Iudaeorum confutatur tripliciter.* | (next interval) |
+
+The headings stand far apart in two stretches, and those rows are cut at Bonaventure's divisio paragraphs (ruling 1b):
+
+- **c. 11:** the 288R t4 to the 298L t4 is ~9.7 pp; the 300L t4 to `CAPITULUM XII.` ~9.6 pp.
+- **c. 13:** the 341R t4 to `CAPITULUM XIV.` is ~16.6 pp; `CAPITULUM XIII.` stands with no heading under it.
+- **c. 14:** the 362L t4 to the 375L t4 is ~13.1 pp.
+
+Every cut is named in a higher paragraph's own *ibi:* list.
+
+## Last paragraph per capitulum (MEASURED)
+
+**XI = 102** (309R, Vers. 54; the setup table's 102 is right). **XII = 88** (335R, the un-versed epilogue, marginale
+*Epilogus*, whose text runs unnumbered across the top of p. 336; the setup table's ~87–88 resolves to 88).
+**XIII = 76** (358L, un-versed *Et nota, quod, secundum quod exponit Glossa…*; ⚠ the setup table says **~73–74**: wrong).
+**XIV = 69** (381R, un-versed, closing v. 35; ⚠ the setup table says **68**: wrong, ¶ 68 is Vers. 35). Each
+capitulum's first and last pages are as the setup table predicts (277–309, 309–336, 336–358, 358–381). **None overran.**
+
+## The p. 381 gate (MEASURED)
+
+Ruling 14 places the gate at the **close of c. 14**, p. 381. On the plate: ¶ 68 is Vers. 35 (381L); ¶ 69 (*Tertio quantum
+ad spiritualem intelligentiam utriusque subiungit: Qui habet aures audiendi audiat…*) ends 381R at ~0.52 of the leaf; then
+`CAPITULUM XV.` full measure at ~0.55, the t4 *Impietas Iudaeorum confutatur tripliciter.* and ¶ 1 *Erant autem
+appropinquantes etc.* (the next interval's; it opens the 288L divisio's second part, *impietas*). **The last row,
+`bon-luc-c14-v25-35`, ends exactly there.** p. 381's running head already reads *C. XV.* above Cap. XIV's close (the
+p. 277 / p. 309 habit).
+
+## The p. 288 opening (MEASURED; as the stage-3 notes and the resume describe)
+
+¶ 35 closes v. 13 at ~0.37 of 288L; ¶ 36 *Et erat Iesus⁴ eiiciens daemonium etc. Sicut habitum fuit in principio libri…*
+opens at ~0.41 and runs eleven lines before the italic t2. The t2 / t3 / three t4s stand INSIDE ¶ 36 (ruling 1d), so
+`c11-v14-26` opens at ¶ 36 and its `title_la` is the lowest heading of that stack (ruling 22), the third 288R t4.
+`opens_on` is recorded as `divisio-para` because ¶ 36's head stands above the stack.
+
+## Corrections to the setup table and the record (MEASURED)
+
+- **Cap. XIII last ¶ = 76, not ~73–74.** **Cap. XIV last ¶ = 69, not 68.**
+- **The blasphemantium member's second joint is ¶ 43, not ¶ 41** (a text-layer reading would take ¶ 41, which is the
+  expositio's Vers. 16, *Tertio vero quantum ad controversiam litis adiunctae*; ¶ 42 is an *expositio spiritualis*;
+  ¶ 43 *Ipse autem, ut vidit cogitationes eorum* is the joint the 288R divisio names). It is not a cut in this stage.
+- **Cap. XIII has no heading under its `CAPITULUM`** (the c6 case; ruling 40 applies).
+
+## `low` rows (7, three decisions), with the alternatives
+
+1. **Cap. XI: `bon-luc-c11-v14-26`, `-v27-32`, `-v33-41`, `-v42-54` (¶¶ 36–57 / 58–69 / 70–84 / 85–102).**
+   - **The problem:** three sibling t4 sections of ~9.7, ~2.1 and ~9.6 pp. The first and third are over cap 8 and
+     must be cut; the middle one (tentantium, 298L) is under the ~2.7 test and cannot stand alone. Joint positions:
+     ¶ 36 288.3 · ¶ 43 290.8 · ¶ 58 295.9 · 298L t4 298.0 · 300L t4 300.1 · ¶ 77 302.3 · ¶ 85 304.8 · end 309.8.
+   - **Chosen:** ¶ 36–57 (~7.6) | ¶ 58–69 (~4.2, the blasphemantium tail joined to the tentantium section across the
+     298L t4, ruling 1c) | ¶ 70–84 (~4.6) | ¶ 85–102 (~5.0). Every piece ≥ 2.7, none over 8.
+   - **Alternatives:** (a) ¶ 36–63 kept whole (~9.7, one-pass to 10), then ¶ 64–76 (~4.3, across the 300L t4) and
+     ¶ 77–102 (~7.5) — the cuts at headings and at ¶ 70's own joint, but one row near 10; (b) ¶ 36–42 (~2.5) |
+     ¶ 43–57 (~5.1) | ¶ 58–69 (~4.2) | ¶ 70–84 | ¶ 85–102 — both named joints of the 288R divisio, but a first row
+     under ~2.7; (c) ¶ 36–57 | ¶ 58–76 (~6.4, across both t4s) | ¶ 77–102 (~7.5).
+   - ⚠ **New shape:** `c11-v27-32` opens on a divisio paragraph and carries an interior t4 (298L). Earlier stages carry
+     interior t4s only in heading-opened rows. The title is the ¶ 58 sentence (no heading in its opening stack).
+2. **Cap. XII (two decisions): `bon-luc-c12-v1-7`, `-v8-12` (¶¶ 1–11 / 12–20) and `bon-luc-c12-v13-34` (¶¶ 21–48).**
+   - **The 313R cut:** the four sibling t4 sections under the 310L t4 (dolositas · timiditas · veracitas · securitas)
+     run ~6.3 pp together. **Chosen:** cut at the 313R t4, 3.6 + 2.7, the subdivisio's own pairing (*duae postremae
+     correspondent duabus primis*). `c12-v8-12` is at the edge of the ≥ 2.7 test (the `c10-v1-3` case).
+     **Alternative:** one row ¶¶ 1–20 (`c12-v1-12`, ~6.3 pp), or the 311R cut (2.4 + 3.9, fails the test).
+   - **`c12-v13-34` kept whole at ~7.8 pp over 9 printed pages** (the `c7-v1-16` shape): the 316L to 324L headings
+     stand ~7.8 pp apart, just under ruling 1b's ~8, so no divisio cut is licensed. **Alternative:** if ~7.8 is read as
+     ~8, cut at ¶ 32 (*Dixitque ad discipulos suos*, 319L, the third member of the 316L divisio), 3.1 + 4.7 pp.
+
+Each row's builder applies ruling 39's procedure (reads its boundary plates, promotes its own row or STOPS).
+
+## Rule applications that needed a choice (not `low`)
+
+- **Required cuts at named joints** (heading gap over ~8 pp, member over cap 8):
+  - **c. 13 ¶¶ 36, 48, 64** (341R to `CAPITULUM XIV.` ~16.6 pp): the 341R subdivisio's second member (¶ 36), then
+    ¶ 36's (¶ 48), then ¶ 48's (¶ 64); ¶ 36–76 (~12.2) and ¶ 48–76 (~8.3) are each over 8.
+    4.35 + 3.9 + 4.35 + 3.9 pp.
+  - **c. 14 ¶¶ 26, 36** (362L to 375L ~13.1 pp): both named members of ¶ 14's division, 4.2 + 3.8 + 5.1 pp; ¶ 36 alone
+    would leave an 8.0 pp row, ¶ 26 alone an 8.9.
+- **Kept whole, no licensed cut** (heading gap under ~8 pp): `c12-v35-48` (~6.6; ¶ 60 would give 3.3 + 3.3),
+  `c12-v49-59` (~5.5), `c13-v1-9` (~5.6), `c14-v25-35` (~6.7; ¶ 56 would leave 1.7).
+
+## Titles (ruling 22 / 33 / 40)
+
+- **Lowest heading of the opening stack, whole:** `c11-v14-26` (the third 288R t4, below the t2 / t3 / two t4s inside
+  ¶ 36), `c11-v33-41` (300L), `c12-v1-7` (the second 310L t4, below the 309L and first 310L t4s), `c12-v8-12` (313R),
+  `c12-v13-34` (the second 316L t4), `c12-v35-48` (the second 324L t4), `c12-v49-59` (330R), `c13-v10-17` (the second
+  341R t4), `c14-v1-6` (the second 358L t4), `c14-v7-11` (362L), `c14-v25-35` (375L) — eleven.
+- **Sentence titles** (lemma + dividing words through the sentence naming the member; footnote anchors and `(Vers. N.)`
+  tags dropped, as stages 2–3): `c11-v27-32` (¶ 58), `c11-v42-54` (¶ 85, whose naming sentence runs on through the
+  Matthew quotation), `c13-v1-9` (¶ 1), `c13-v18-21` (¶ 36), `c13-v22-30` (¶ 48), `c13-v31-35` (¶ 64), `c14-v12-15`
+  (¶ 26), `c14-v16-24` (¶ 36) — eight.
+- **`c13-v1-9` opens on a bare `CAPITULUM XIII.`**: ruling 40 applies (a `CAPITULUM` heading is never a `title_la`).
+- No Corrigenda entry touches a title (ruling 4).
+
+## Corrigenda (assigned by page and column; positions as the Corrigenda gives them)
+
+- **p. 294 col. 2 note 13** (*ubi cum Vulgata* → delete *cum Vulgata*) → `c11-v14-26`.
+- **p. 300 col. 2 notes l. 5** (*suam* → *suum*) → `c11-v33-41`. ⚠ The line stands inside **p. 300 n. 8**, which begins
+  in the left block and runs over the gutter into the right (*…Bernardus: Suam vas et secretum conscientia*); its
+  anchor is in ¶¶ 70 ff. (the *lucerna*), so the builder of `c11-v33-41` re-derives the anchor.
+- **p. 320 col. 2 l. 18** (*insiderat* → *insederat*) → `c12-v13-34`.
+- **p. 333 col. 2 ll. 15 and 17** (*exterioris iudicii* → *indicii*, twice) → `c12-v49-59`.
+- **p. 343 col. 2 l. 7** (*similiter* → *simul*) → `c13-v10-17`.
+- **p. 346 col. 1 l. 16** (*Manducit* → *Manuducit*) → `c13-v18-21`; it stands in ¶ 36 (*Manducit igitur per exemplum
+  dupliciter*, read on the plate), below the title sentence.
+- **p. 361 col. 2 note 13** (*nota 3* → *nota 13*) → `c14-v1-6`.
+
+Seven entries, all of the Corrigenda's Luke entries between pp. 288 and 381.
+
+## Size distribution (19 rows)
+
+- **Printed pages touched:** min 4 / mean 5.8 / max 9.
+- **Estimated text extent** (column fractions from text-layer paragraph positions against plate-measured body ends;
+  capitulum breaks and headings placed from the plates; PREDICTION): min 2.7 / mean 4.9 / max 7.8 pp.
+
+## Not verified
+
+- **Paragraph numbers inside rows** come from the text layer, anchored by plate-read numbers at both ends of every row.
+- **Verse ends** are taken from the `(Vers. N.)` tags and the next row's lemma. The lemmas named in divisio *ibi:*
+  lists that are not boundaries (e.g. c. 12 ¶¶ 26, 41; c. 14 ¶¶ 40, 44) were matched to their ¶ numbers on the text
+  layer only.
+- **Footer registers** were not counted (the builders count them; ruling 15).

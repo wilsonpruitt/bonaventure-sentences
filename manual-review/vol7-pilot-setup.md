@@ -708,3 +708,32 @@ The evidence, censuses and alternatives are in the sheet, by § and item number,
 **Manifest stage 3 (`f03a544`, 22 rows, pp. 188–288) stands as drawn; its 8 `low` rows (four decisions) are settled at
 build time by ruling 39's procedure** (each builder reads its boundary plates, promotes its own row's `confidence` cell
 or STOPS). **The p. 288 gate** (c. 11 v. 13, ¶ 35 / ¶ 36 on 288L) is the next gate; its interval is the 22 stage-3 rows.
+
+### MANIFEST STAGE 4 — DRAWN 2026-11-15 (Cap. XI v. 14 – Cap. XIV, pp. 288–381; 19 rows appended to `lucam-chunk-manifest.tsv`; notes in `lucam-chunk-manifest-notes.md` § Stage 4)
+
+Rows per capitulum: **XI 4 · XII 5 · XIII 5 · XIV 5**. Every boundary and every heading candidate was read on a 300 dpi
+crop. The candidates came from a vertical-gap screen over the plates of pp. 288–381, a divisio sweep and the text
+layer. The p. 381 gate interval is these 19 chunks, `bon-luc-c11-v14-26` through `bon-luc-c14-v25-35`.
+
+**Corrections made by stage 4 (all MEASURED):**
+
+- **Cap. XIII's last ¶ is 76, not ~73–74** (358L). **Cap. XIV's last ¶ is 69, not 68** (381R; ¶ 68 is Vers. 35).
+  Cap. XI's is 102 (309R) and Cap. XII's 88 (335R), as the table has them. Each capitulum's first and last pages are as
+  predicted (277–309, 309–336, 336–358, 358–381); **none overran.**
+- **The p. 381 gate falls at ¶ 69 / `CAPITULUM XV.` on p. 381 (~0.52 / ~0.55 of the leaf).** The last row ends there.
+- **`CAPITULUM XIII.` has no heading under it** (ruling 40: `c13-v1-9` takes a sentence title).
+- The blasphemantium member's improbatio joint is **¶ 43** (290R), not ¶ 41 as the text layer suggests.
+
+**Corrigenda:** seven entries fall in pp. 288–381 (pp. 294, 300, 320, 333, 343, 346, 361), each assigned to its row's
+`corrigenda` cell; none touches a title (ruling 4). p. 300's stands inside n. 8's gutter runover.
+
+**`low` rows (7, three decisions).** The alternatives for each are in the notes.
+
+- `c11-v14-26` / `c11-v27-32` / `c11-v33-41` / `c11-v42-54`: three sibling t4 sections of ~9.7 / ~2.1 / ~9.6 pp. Cut at
+  ¶ 58 (the tentantium section joined to the blasphemantium tail across the 298L t4) and ¶ 85. Alternatives: ¶ 36–63 kept
+  whole (~9.7) then ¶ 64–76 / ¶ 77–102; or ¶ 43 + ¶ 58 (first row ~2.5 pp). ⚠ `c11-v27-32` is the first divisio-opened
+  row carrying an interior t4.
+- `c12-v1-7` / `c12-v8-12`: the 313R cut, 3.6 + 2.7 pp (the edge of the ≥ 2.7 test). Alternative: one row ~6.3 pp.
+- `c12-v13-34` kept whole at ~7.8 pp (headings ~7.8 apart, just under ruling 1b's ~8). Alternative: cut at ¶ 32.
+
+**The p. 381 gate** (ruling 14: close of c. 14; the *pietas* review) closes this interval.
