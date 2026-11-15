@@ -5754,6 +5754,24 @@ KNOWN_TOTALS_VOL7 = {
              # GUTTER (*...sed si ad eius medullam per-* | *veniatur, pascit et satiat. ...*); n.5 anchors RIGHT,
              # prints LEFT. Para 28 closes ~0.60 of 224R; the 225L t4 heads the next leaf. Gutter 1303 (rows
              # 0.20-0.50, band 1272-1335, rule 1302-1305).
+    225: 11, # bon-luc-c9-v18-27 (opens at the head of 225L under the t4 *Via proficiendi dupliciter explicatur.*; p. 225
+             # owes nothing backward). Anchors L 1-6 / R 7-11. Blocks L 1-7 / R 8-11. n.7 anchors RIGHT, prints LEFT. No
+             # runover. Gutter 1139 (rows 0.20-0.50, band 1110-1169, rule 1136-1144).
+    226: 11, # bon-luc-c9-v18-27. Anchors L 1-6 / R 7-11. Blocks L 1-9 / R (n.9 tail) + 10-11. n.9 RUNS OVER THE GUTTER
+             # (*...Idem refert Glossa interlinearis in Marc. 8, 29. Cfr.* | *Chrysost., Homil. 54. ...*); nn.7-9 anchor
+             # RIGHT, print LEFT. Gutter 1274 (rows 0.20-0.50, band 1243-1305, rule 1272-1275).
+    227: 14, # bon-luc-c9-v18-27. Anchors L 1-7 / R 8-14. Blocks L 1-7 / R (n.7 tail) + 8-14. n.7 RUNS OVER THE GUTTER
+             # (*...Pro duodecim A C D G discipulos, H* | *duodecim discipulos suos. ...*). Gutter 1176 (rows 0.20-0.50,
+             # band 1146-1206, rule 1173-1178).
+    228: 14, # bon-luc-c9-v18-27. Anchors L 1-7 / R 8-14. Blocks L 1-8 / R (n.8 tail) + 9-14. n.8 RUNS OVER THE GUTTER
+             # (*...habetur in Declamationi-* | *bus de colloquio Simonis...*); n.8 anchors RIGHT, prints LEFT. Gutter 1299
+             # (rows 0.20-0.50, band 1269-1329, rule 1297-1301).
+    229: 14, # bon-luc-c9-v18-27. Anchors L 1-8 / R 9-14. Blocks L 1-6 / R 7-14. nn.7-8 anchor LEFT, print RIGHT. No
+             # runover. Gutter 1172 (rows 0.20-0.50, band 1143-1202, rule 1169-1175).
+    230: 13, # SHARED. n.1 bon-luc-c9-v18-27 (para 42 closes ~0.15 of 230L on *...sed futuram inquirimus.*; Heb. 12, 1 /
+             # 13, 13); nn.2-13 bon-luc-c9-v28-31 (para 43 *Factum est autem post haec verba*, n.2 at *gloriae*, *Cfr.
+             # supra n. 29.*; read at 0.3x for the hand-off only). Gutter 1320 (rows 0.20-0.50, band 1290-1351, rule
+             # 1319-1323).
 }
 
 KNOWN_TOTALS_BY_VOL = {
