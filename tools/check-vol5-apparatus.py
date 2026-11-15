@@ -5120,6 +5120,32 @@ KNOWN_TOTALS_VOL7 = {
              # nn.3-12 anchor at or below para 91 (n.3 at *Supra*) and are bon-luc-c2-v40-52's. Blocks L 1-6 head
              # / R 6 tail + 7-12: n.6 (Bede/Glossa, bon-luc-c2-v40-52's) RUNS OVER the gutter. Gutter 1164
              # (rows 0.10-0.45 band 1132-1196; rows 0.45-0.80 band 1133-1196; island 1162-1167).
+             # Re-read whole at bon-luc-c2-v40-52: 12 confirmed, 2 / 10 by anchor, every digit re-read
+             # (n.5 *Vers. 41*, n.12 *Ver. 14.* as printed). Anchors (theirs) L 3-6 (para 91 *Supra*, *ibi* x2;
+             # para 92 *Beda*) / R 7-12 (para 92 *tertio*, *secundo*, *quarto*; para 93 *tertio*, *duodecimo*,
+             # *duodecimo*); nn.7-12 print RIGHT with their anchors.
+    66: 11,  # bon-luc-c2-v40-52. Anchors L 1-5 (para 94 *decimo octavo*; the un-numbered (Vers. 43.) para
+             # *sexto*, *secundo*; para 95 *quarto*; para 96 *patre*) / R 6-11 (para 97 *nono*; para 98 *reversi*,
+             # *tertio*; para 99 *secundo*, *dicitur*, *Hieronymus*); blocks L 1-10 head / R 10 tail + 11: n.10
+             # (Sulpicius / Gregory on Benedict) RUNS OVER the gutter (*...ab ipso suae* | *pueritiae tempore*);
+             # nn.6-9 print LEFT, anchor RIGHT. Gutter 1291 (rows 0.10-0.45 band 1260-1323; rows 0.45-0.80 band
+             # 1262-1323; island 1290-1295).
+    67: 12,  # bon-luc-c2-v40-52. Anchors L 1-7 (para 100's tail *ibi*; para 101 *eum*, *primo*, *secundo*,
+             # *octavo*, *Hieronymus*; para 102 *octavo*) / R 8-12 (para 102 *eodem*, *secundo*, *Psalmo*; para 103
+             # *quinto*, *decimo*); blocks L 1-8 / R 9-12: no runover; n.8 prints LEFT, anchors RIGHT. Gutter
+             # 1145 (rows 0.10-0.45 band 1115-1177; rows 0.45-0.80 band 1115-1176; island 1144-1148).
+    68: 11,  # bon-luc-c2-v40-52. Anchors L 1-5 (para 104 *septimo*; para 105 *ibi*; un-numbered para
+             # *vigesimo*, *decimo*; para 106 *tertio*) / R 6-11 (para 107 *intellexerunt*, *septimo*; para 108
+             # *tertio*, *Bernardus*, *nono*; para 109 *Glossa*); blocks L 1-8 / R 9-11: no runover; nn.6-8 print
+             # LEFT, anchor RIGHT. Gutter 1317 (rows 0.10-0.45 band 1284-1343 -> 1313; rows 0.45-0.80 band
+             # 1292-1350 -> 1321; 8 px drift, one split suffices).
+    69: 11,  # FULL leaf count (Cap. II vv. 40-52 / CAPITULUM III). bon-luc-c2-v40-52 owns nn.1-7: L 1-4
+             # (para 109's tail *Conferens*, *decimo tertio*; para 110 *secundo*, *proximo*) / R 5-7 (para 110
+             # *vigesimo*, *quarto*, *tertio*), all above the full-measure `CAPITULUM III.` (~0.57); nn.8-11 anchor
+             # in Cap. III para 1 and after (n.8 at *Anno*) and are the next chunk's. Blocks L 1-5 / R 6-11;
+             # n.5 prints LEFT, anchors RIGHT; no runover in nn.1-7. Gutter 1156 above the heading (rows
+             # 0.05-0.50 band 1146-1166, island 1151-1161, a heavily inked rule) / 1158 below (rows 0.62-0.76
+             # band 1128-1189).
 }
 
 KNOWN_TOTALS_BY_VOL = {
