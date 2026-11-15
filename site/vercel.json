@@ -341,6 +341,21 @@
       "permanent": true
     },
     {
+      "source": "/browse/19/d/:d/q/bon-luc-:unit",
+      "destination": "/lucam/:unit",
+      "permanent": true
+    },
+    {
+      "source": "/browse/19/d/:d",
+      "destination": "/lucam#d-:d",
+      "permanent": true
+    },
+    {
+      "source": "/browse/19",
+      "destination": "/lucam",
+      "permanent": true
+    },
+    {
       "source": "/browse/tome/:n",
       "destination": "/tome/:n",
       "permanent": true
