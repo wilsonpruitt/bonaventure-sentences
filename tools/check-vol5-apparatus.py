@@ -5818,6 +5818,28 @@ KNOWN_TOTALS_VOL7 = {
              # R 8-13. Blocks L 1-9 / R (n.9 tail) + 10-13; n.9 RUNS OVER THE GUTTER (*...illos utrumque fecisse, et primum* |
              # *quidem alio tempore...*), to be re-derived by its owner. Gutter 1152 (rows 0.20-0.50, band 1121-1183,
              # rule 1150-1154).
+             # Re-derived by bon-luc-c9-v46-56: nn.5-13 true in digit and anchor (nn.5-7 anchor LEFT; n.8 at *habendae*
+             # 243R; nn.5-9 print LEFT); n.9's tail (*quidem alio tempore ... Vide Euthym. in Luc. 9, 46. seq.*) heads
+             # the RIGHT block. Gutter 1152 re-derived.
+    244: 9,  # bon-luc-c9-v46-56. Anchors L 1-5 / R 6-9. Blocks L 1-2 (n.2 head) / R (n.2 tail) + 3-9. n.2 RUNS OVER
+             # THE GUTTER (*...Cfr. Cornel. a Lapide* | *in Matth. 18, 2. Simeon Metaphrastes...*); nn.3-5 anchor LEFT,
+             # print RIGHT. Gutter 1313 (rows 0.20-0.50, band 1283-1344, rule 1310-1316).
+    245: 12, # bon-luc-c9-v46-56. Anchors L 1-5 / R 6-12. Blocks L 1-7 (n.7 head) / R (n.7 tail) + 8-12. n.7 RUNS OVER
+             # THE GUTTER (*...pro palliatur C D G H palliat se.* | *— Inferius post non est similis...*); nn.6-7 anchor
+             # RIGHT, print LEFT. Gutter 1161 (rows 0.20-0.50, band 1133-1189, rule 1156-1167).
+    246: 12, # bon-luc-c9-v46-56 (para 94 *Factum est autem, dum complerentur*, the manifest's alternative cut, ~0.42 of
+             # 246L). Anchors L 1-6 / R 7-12. Blocks L 1-8 (n.8 head) / R (n.8 tail) + 9-12. n.8 RUNS OVER THE GUTTER
+             # (*...Quod sic exponitur: Iste* | *Psalmus attribuitur David...*); nn.7-8 anchor RIGHT, print LEFT. Gutter
+             # 1302 (rows 0.20-0.50, band 1272-1333, rule 1301-1305).
+    247: 9,  # bon-luc-c9-v46-56. Anchors L 1-5 / R 6-9. Blocks L 1-5 / R 6-9. No runover. Gutter 1142 (rows 0.20-0.50:
+             # windows spread 131 px, the band profile decides: band 1112-1173, rule 1140-1144).
+    248: 12, # SHARED. nn.1-10 bon-luc-c9-v46-56 (para 101 closes ~0.48 of 248R on *...rex apum non habet aculeum.*);
+             # nn.11-12 bon-luc-c9-v57-62 (para 102 *Factum est autem, ambulantibus*, n.11 at *iudicii*, *Cfr. supra
+             # n. 85.*; n.12 at its first *ibi*, *Vers. 59; tertium habetur v. 61.*; read at 1.0x for the hand-off only).
+             # Anchors L 1-6 / R 7-12. Blocks L 1-10 (n.10 head) / R (n.10 tail) + 11-12. n.10 RUNS OVER THE GUTTER
+             # (*...allegatus (pro Generosus* | *A C D H etiam hic Gloriosus)...*); nn.7-10 anchor RIGHT, print LEFT.
+             # Gutter 1309 (rows 0.20-0.50, band 1280-1338, rule 1305-1313); 249 = 1142 (measured ahead: band
+             # 1112-1172, rule 1139-1145).
 }
 
 KNOWN_TOTALS_BY_VOL = {
