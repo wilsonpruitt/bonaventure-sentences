@@ -1127,6 +1127,14 @@ const WORKS = {
       // 112L beneath it, the small-bold t4 `Primo, quomodo vocentur discipuli
       // de statu iustitiae.` (unanchored) standing in 112R after para 1.
       5: "Capitulum V",
+      // `CAPITULUM VI.` read in place on p. 134 at bon-luc-c6-v1-11: full-measure
+      // centred small capitals, WITH its period, UNANCHORED (p. 134's nn. 8-12
+      // anchor in para 1's body and after), with NO subtitle; it stands at
+      // ~0.5 of the leaf below Cap. V's close (para 85 + epilogue), and NO
+      // heading stands beneath it: para 1 `Factum est autem in Sabbato.` opens
+      // 134L directly (marginale `Pars II. habet duo membra.`), so the chunk
+      // takes a sentence title (rulings 33, 40).
+      6: "Capitulum VI",
     },
   },
 };

@@ -5440,6 +5440,26 @@ KNOWN_TOTALS_VOL7 = {
              # *quarto*). Anchors L 1-4 / R 5-7 above `CAPITULUM VI.` (full measure, ~0.5 of the leaf); Cap. VI
              # L 8-10 / R 11-12 below it. Blocks L (p.133 n.10 tail) 1-8 / R 9-12, none over the gutter.
              # Gutter 1286 (1289 rows 0.10-0.45, 1283 rows 0.45-0.80).
+             # bon-luc-c6-v1-11 re-read: nn.8-12 confirmed, n.12 ends on p.134 (p.135's block opens on n.1);
+             # Cap. VI region gutter 1285 (rows 0.52-0.72), footer 1279.
+    135: 10, # bon-luc-c6-v1-11. Anchors L 1-4 / R 5-10. Blocks L 1-5 head / R 5 tail + 6-10: n.5 (Bede,
+             # *Retinuimus cum Vat. Beda*) RUNS OVER THE GUTTER (*...secundum Glos-* | *sam ordinariam*).
+             # Gutter 1135.
+    136: 10, # bon-luc-c6-v1-11. Anchors L 1-4 / R 5-10. Blocks L 1-7 / R 8-10 (nn.5-7 anchor RIGHT, print
+             # LEFT); no runover. Gutter 1307 (band 1280-1334, heavy 14 px centre-rule island).
+    137: 12, # bon-luc-c6-v1-11. Anchors L 1-6 / R 7-12. Blocks L 1-8 head / R 8 tail + 9-12: n.8 (Zach. 11, 17)
+             # RUNS OVER THE GUTTER (*...Zachar. 11, 17: Bra-* | *chium eius*); nn.7-8 anchor RIGHT, print LEFT.
+             # Gutter 1177.
+    138: 13, # bon-luc-c6-v1-11. Anchors L 1-6 / R 7-13. Blocks L 1-9 head / R 9 tail + 10-13: n.9 (August.,
+             # de Consensu Evang. II c. 35 n. 82) RUNS OVER THE GUTTER (*...quem fuerat sanatu-* | *rus*);
+             # nn.7-9 anchor RIGHT, print LEFT. Gutter 1291 (band 1263-1319).
+    139: 13, # bon-luc-c6-v1-11. Anchors L 1-6 / R 7-13. Blocks L 1-7 head / R 7 tail + 8-13: n.7 (Isai. 33, 6
+             # + Aristotle, Boethius) RUNS OVER THE GUTTER (*...II. Rhetor.* | *c. 30. (c. 23.)*). Gutter 1172.
+    140: 12, # FULL leaf count; SHARED. nn.1-7 bon-luc-c6-v1-11's (n.7 at para 23 *Angliae*, 140L, its last
+             # anchor); nn.8-12 belong to bon-luc-c6-v12-19 (n.8 at para 24 *instructio*, below the 140R t3
+             # *Tertio determinatur vocatorum instructio per duo.*; nn.9-12 in the divisio after it). Anchors
+             # L 1-7 / R 8-12. Blocks L 1-7 head / R 7 tail + 8-12: n.7 (Oswald and Aidan, Bede) RUNS OVER THE
+             # GUTTER (*...mentio fit,* | *fuit Aedanus*). Gutter 1276.
 }
 
 KNOWN_TOTALS_BY_VOL = {
