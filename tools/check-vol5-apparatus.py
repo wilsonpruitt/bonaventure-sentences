@@ -5511,7 +5511,23 @@ KNOWN_TOTALS_VOL7 = {
     156: 9,  # SHARED. nn.1-2 bon-luc-c6-v27-31 (para 76, 156L; both print first in the LEFT block); nn.3-9
              # bon-luc-c6-v32-38 (para 77 opens ~0.50 of 156L, no heading; n.3 *Vulgata eos.* at its *illos*).
              # Blocks L 1-4 / R 5-9 (read at overview scale for the hand-off). Gutter 1311 (rows 0.20-0.50,
-             # band 1281-1342, rule 1309-1314).
+             # band 1281-1342, rule 1309-1314). bon-luc-c6-v32-38 CONFIRMED on the plate: nn.3-4 anchor LEFT
+             # (para 77 *illos*, *superius*), nn.5-9 RIGHT; blocks L 1-4 / R 5-9, no runover. Gutter for the
+             # para 77 region (rows 0.50-0.80) 1313 (band 1283-1344, rule 1312-1315).
+    157: 12, # bon-luc-c6-v32-38, the WHOLE register. Anchors L 1-8 / R 9-12. Blocks L 1-7 / R 8-12 (n.8,
+             # I Sent. d.47 + IV Sent. d.33, anchors LEFT at para 81 *mali*, prints RIGHT). No runover.
+             # Gutter 1168 (band 1140-1197, rule 1165-1173).
+    158: 12, # bon-luc-c6-v32-38. Anchors L 1-7 / R 8-12. Blocks L 1-6 / R 7-12 (n.7, Joel 2:13, anchors LEFT,
+             # prints RIGHT). No runover. Gutter 1298 (band 1270-1326, rule 1292-1303).
+    159: 11, # bon-luc-c6-v32-38. Anchors L 1-5 / R 6-11. Blocks L 1-7 / R (n.7 tail) 8-11: nn.6-7 anchor
+             # RIGHT, print LEFT; n.7 (Job 5:26 + Gregory, Moral. VI c.37) RUNS OVER THE GUTTER (*vitae prae-* |
+             # *sentis opera*). Gutter 1161 (band 1131-1191, rule 1158-1163).
+    160: 10, # SHARED. nn.1-6 bon-luc-c6-v32-38 (paras 90-91, 160L; para 91 closes at 160L foot); nn.7-10
+             # bon-luc-c6-v39-49 (para 92 *Dicebat autem illis et similitudinem* opens 160R top, no heading,
+             # marginale *In parte 2. documenta similitudinaria traduntur quadrupliciter.*; n.7 at its *ibi*).
+             # Anchors L 1-6 / R 7-10. Blocks L 1-4 head / R 4 tail + 5-10: n.4 (Augustine, City of God XXI +
+             # Ep. 102) RUNS OVER THE GUTTER (*Illud enim fit longa* | *mora*). Gutter 1289 (band 1261-1317,
+             # rule 1283-1294; rows 0.10-0.80).
 }
 
 KNOWN_TOTALS_BY_VOL = {
