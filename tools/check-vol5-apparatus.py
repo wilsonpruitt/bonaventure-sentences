@@ -5075,6 +5075,34 @@ KNOWN_TOTALS_VOL7 = {
              # bon-luc-c2-v25-35's. Blocks L 1-6 / R 7-11, no runover seen at reading scale. Gutter 1297 for
              # the region of para 57's tail (rows 0.07-0.20, band 1267-1328, island 1296-1300); rows 0.30-0.60
              # read 1311 (band 1284-1338) -- the region below is the next chunk's to profile.
+             # bon-luc-c2-v25-35 (re-read whole, 2026-11-14): CONFIRMED 0 / 11. Anchors L 1-6 (para 58
+             # *plurium*, *ibi*; the un-numbered *Circa Simeonis* *ibi*; *Quantum ad primum* *ibi*; para 59
+             # *dicitur*, *quinto*) / R 7-11 (para 60 *voluntatis*, *primo*, *nono*; para 61 *quinto*; para 62
+             # *trigesimo*); blocks L 1-6 / R 7-11, no runover. n.10 prints *I. Ioan. 4, 16* (the hand-off's
+             # "18" was a reading-scale slip). Below para 57's tail the leaf is SKEWED: the gutter walks 23 px
+             # (rows 0.25-0.60 band 1284-1336 -> 1310; rows 0.60-0.85 band 1295-1351 -> 1323); one split, 1313.
+    59: 13,  # bon-luc-c2-v25-35. Anchors L 1-5 (para 62 *nono*; para 63 *octavo*; para 64 *tertio*; para 65
+             # *primo*, *quarto*) / R 6-13 (para 66 *dicitur*, *ibi*; para 67 *diceret*; para 68 *ibi*, *quarto*,
+             # *quinto*, *sexto*, *tertio*); blocks L 1-7 / R 8-13 (nn.6-7 print LEFT, anchor RIGHT; n.9 *Vers.
+             # 30.* is set at the end of n.8's last line), no runover. Gutter 1150 (rows 0.20-0.50 band
+             # 1123-1184 -> 1153; rows 0.50-0.80 band 1118-1179 -> 1148).
+    60: 9,   # bon-luc-c2-v25-35. Anchors L 1-4 (the un-numbered para in 69 *tertio*; para 70 *secundo*; para
+             # 71 *nono*; para 72 *quarto*) / R 5-9 (para 73 *magnificatio*, *praecedens*; para 74 *quinto*,
+             # *Psalmo*, *Psalmus*); blocks L 1-6 head / R 6 tail + 7-9: n.6 (B. Albert.) RUNS OVER the gutter
+             # (*...quod quia in sexta aetate factum est,* | *ideo in sexta hora decantatur*); nn.5-6 print
+             # LEFT, anchor RIGHT (n.5 *Vat. magnificentia.* set at the end of n.4's last line). Skew 15 px;
+             # gutter 1311 (rows 0.20-0.50 band 1279-1337 -> 1308; rows 0.50-0.80 band 1284-1344 -> 1314).
+    61: 10,  # bon-luc-c2-v25-35. Anchors L 1-3 (para 75 *Psalmus*; para 76 *Davidicum*; the un-numbered
+             # para in 76 *secundo*) / R 4-10 (para 77 *nono*, *secundo*, *tertio*, *primo*; para 78 *Psalmi*,
+             # *Bernardus*, *Hieronymus*); blocks L 1-9 head / R 9 tail + 10: n.9 (Bernard) RUNS OVER the
+             # gutter (*...sed tuam utique* | *animam pertransivit.*); nn.4-9 print LEFT, anchor RIGHT. Gutter
+             # 1161 (rows 0.20-0.50 band 1130-1189 -> 1159; rows 0.50-0.80 band 1133-1194 -> 1163).
+    62: 11,  # FULL leaf count (vv. 25-35 / vv. 36-39). bon-luc-c2-v25-35 owns nn.1-6, all anchored 62L
+             # (para 78's tail *septimo*; para 79 *sexto*, *quarto*; para 80 *trigesimo primo*, *quinto*; the
+             # un-numbered tail of para 80 *vigesimo secundo*); para 80 closes at 62L's foot. nn.7-11 are
+             # bon-luc-c2-v36-39's, all anchored 62R (para 81 *secundo*, *supra*, *nono*, *ibi*; para 82
+             # *gratia*). Blocks L 1-5 / R 6-11 (n.6 prints RIGHT, anchors LEFT), no runover. Gutter 1296
+             # (rows 0.20-0.50 band 1262-1320 -> 1291; rows 0.50-0.80 band 1274-1329 -> 1301); colcrop 1300.
 }
 
 KNOWN_TOTALS_BY_VOL = {
