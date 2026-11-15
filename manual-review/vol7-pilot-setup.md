@@ -576,3 +576,35 @@ evidence, censuses and alternatives are in the sheet, by § number, and are not 
   heading is never itself a `title_la`.**
 
 **The p. 188 gate** (ruling 14: close of c. 7) is the next gate; its interval is the 19 stage-2 rows.
+
+### MANIFEST STAGE 3 — DRAWN 2026-11-15 (Cap. VIII–XI v. 13, pp. 188–288; 22 rows appended to `lucam-chunk-manifest.tsv`; notes in `lucam-chunk-manifest-notes.md` § Stage 3)
+
+Rows per capitulum: **VIII 7 · IX 8 · X 5 · XI 2**. Every boundary and every heading candidate was read on a 300 dpi
+crop. The candidates came from a divisio sweep (the region above every lemma paragraph), a vertical-gap screen over
+the plates of pp. 188–288, and the text layer. The p. 288 gate interval is these 22 chunks, `bon-luc-c8-v1-10` through
+`bon-luc-c11-v5-13`.
+
+**Corrections made by stage 3 (all MEASURED):**
+
+- **Cap. VIII's last ¶ is 99, not 98** (216R). **Cap. X's last ¶ is 80, not ~79** (277R). **Cap. IX's is 111** (251R).
+  Each capitulum's first and last pages are as predicted (188–216, 216–252, 252–277), and **none overran.**
+- **The p. 288 gate falls at ¶ 35 / ¶ 36 on 288L (~0.41).** ¶ 35 closes v. 13; ¶ 36 opens with the v. 14 lemma.
+  The italic t2 *Secundo confutatur falsitas Iudaeorum adversantium quadrupliciter.* and the 288R t3 / t4 cascade stand
+  INSIDE ¶ 36, below its opening lines, so the next interval's first chunk opens at ¶ 36 (ruling 1d).
+- The 216L delegatio heading is a **t3** (larger roman). Headings stand ~8.5–18 pp apart in cc. 8–11, so most rows
+  are cut at Bonaventure's divisio paragraphs (ruling 1b). Each cut is named in a higher paragraph's own division.
+
+**Corrigenda:**
+
+- p. 252 (the second rubric, *sic reformanda est*) → `c10-v1-3`, whose `title_la` takes the reformed wording (ruling 4).
+
+**`low` rows (8, four decisions).** The alternatives for each are in the notes.
+
+- `c8-v26-33` / `c8-v34-39`: the ¶ 60 cut of a ~7.0 pp member. Alternatives: no cut, or ¶ 55 / ¶ 65.
+- `c8-v40-48` / `c8-v49-56`: the ¶ 87 cut of a ~7.7 pp member. Alternative: no cut.
+- `c9-v46-56` / `c9-v57-62`: a cut is required (~8.9 pp); ¶ 102 chosen, 5.6 + 3.3. Alternative: ¶ 94, 3.1 + 5.8.
+- `c10-v1-3` / `c10-v4-16`: both named joints taken, leaving a ~2.7 pp first row. Alternatives: ¶ 14 instead of ¶ 7,
+  or no cut at ¶ 7 (~9.1 pp).
+
+**One cut sits near the threshold:** `c9-v1-9` / `c9-v10-17` (¶ 15) is licensed because 216 to 225L measures ~8.5 pp,
+just over ruling 1b's ~8. Both rows are `high` on that reading.

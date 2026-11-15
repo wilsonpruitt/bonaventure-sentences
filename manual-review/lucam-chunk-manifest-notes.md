@@ -281,3 +281,169 @@ capitulum itself as the stack, the title would be `Capitulum VI.` One word decid
 
 - **Paragraph numbers inside rows** come from the text layer. Each is anchored by plate-read numbers at both ends.
 - **Verse ends** are taken from the `(Vers. N.)` tags and the lemma of the next row's first paragraph.
+
+---
+
+# Stage 3 notes (Cap. VIII–XI v. 13, pp. 188–288; 2026-11-15, Opus)
+
+22 rows appended to `lucam-chunk-manifest.tsv` (VIII 7 · IX 8 · X 5 · XI 2), drawn after the p. 188 interval was
+built and before any Cap. VIII chunk (ruling 2). Labels as in stages 1–2: **MEASURED** (read on a 300 dpi plate crop
+this session) or **PREDICTION** (text layer only). No chunk was built.
+
+## Plates read (MEASURED)
+
+Plates pp. 189–290 extracted at 300 dpi (`raw/vision/vol7/p-189 … p-290.png`; p. 188 was already on disk). Three
+screens found the headings, and every hit was read on a crop:
+
+- a **divisio sweep**: the region above every lemma paragraph (*Lemma etc. Post… / Hic…*) in pp. 188–288, ~60
+  paragraphs, read on the plate. This is where every heading in stages 1–2 stood;
+- a **vertical-gap screen**: each column's inner 76 % profiled for blank bands ≥ 38 px in the body zone. A heading
+  leaves a gap above and below itself; the footnote rule leaves a synchronised pair in both columns and was set aside.
+  The 19 single, column-specific gaps it raised were read (pp. 192L, 194L, 202L, 219L, 220L, 224R, 230L, 232L, 235L ×2,
+  250L, 255L, 257L, 258L, 269L, 275L, 287L, 204R): every one is a short closing line, none a heading;
+- the **text layer's** small-type lines in the body zone (as in stage 2). It missed 216R, 272L and one of the two
+  266L headings, so it was used as a cross-check only.
+
+Full-page or full-width crops: pp. **188**, **216**, **252**, **277**, **288**. Boundary and heading crops: **190R**,
+**192L**, **193R**, **195R**, **196R**, **197L**, **197R**, **198R**, **199L**, **200L**, **201R**, **204L**, **205R**,
+**207L**, **208R** (×2), **210L**, **211R**, **213L**, **214L**, **215R**, **216L**, **219R**, **220R**, **221L**,
+**222L**, **223L**, **225L**, **227R**, **230L**, **233L**, **234R**, **237L**, **238L**, **239L**, **241L**, **242L**,
+**243L**, **245L**, **246L**, **248R**, **250L**, **251L**, **251R**, **254R**, **257L**, **258L**, **259R**, **261L**
+(×2), **263L**, **266L**, **269L**, **269R**, **270L**, **272L**, **274L**, **278L**, **282R** (×2), **284R**, **286L**,
+**287R**. Every row's opening, ending and `title_la` was read on one of these.
+
+## Headings found in pp. 188–288 (MEASURED; wording from the plate)
+
+| Page | Tier (typography) | Wording | Row |
+|---|---|---|---|
+| 188 | capitulum | CAPITULUM VIII. | c8-v1-10 |
+| 188L | t4 (small bold) | In secunda parte Apostoli instruuntur specialiter in doctrina mystica Scripturarum. | c8-v1-10 |
+| 188R | t4 | Primo ponitur instructio parabolica in occultis mysteriis per tria. | c8-v1-10 |
+| 193R | t4 | Secundo ponitur informatio apostolica in apertis eloquiis per duo. | c8-v11-21 |
+| 198R | t4 | Tertio ponitur confirmatio authentica in manifestis miraculis. | c8-v22-25 |
+| 216 | capitulum | CAPITULUM IX. | c9-v1-9 |
+| 216L | t3 (larger roman, hanging indent) | Quarto determinatur instructorum discipulorum delegatio, primo quoad Apostolos, deinde quoad septuaginta. | c9-v1-9 |
+| 216R | t4 | Primo agitur de missione Apostolorum quoad tria. | c9-v1-9 |
+| 216R | t4 | Forma praedicandi dupliciter explicatur. | c9-v1-9 |
+| 225L | t4 | Via proficiendi dupliciter explicatur. | c9-v18-27 |
+| 243L | t4 | Norma praesidendi tripliciter explicatur. | c9-v46-56 |
+| 252 | capitulum | CAPITULUM X. | c10-v1-3 |
+| 252L | t4 | Secundo agitur de missione septuaginta duorum discipulorum quoad tria. | c10-v1-3 |
+| 252L | t4 | Prima pars agit de missione discipulorum comitantium tripliciter. (as printed; see Corrigenda) | c10-v1-3 |
+| 266L | t4 | Secunda pars agit de data discipulis forma vivendi dupliciter. | c10-v25-37 |
+| 266L | t4 | Ad informationem praemittitur divinum praeceptum dupliciter propositum. | c10-v25-37 |
+| 272L | t4 | Ad informationem discipulorum subiungitur humanum exemplum dupliciter propositum. | c10-v38-42 |
+| 277 | capitulum | CAPITULUM XI. | c11-v1-4 |
+| 277L | t4 | Tertia pars agit de forma orandi tripliciter. | c11-v1-4 |
+| 288L | t2 (italic) | *Secundo confutatur falsitas Iudaeorum adversantium quadrupliciter.* | (next interval) |
+| 288R | t3 (larger roman) | Dolositas Iudaeorum calumniantium miracula confutatur dupliciter. | (next interval) |
+| 288R | t4 | Primo confutantur Iudaei calumniantes miracula ex parte causae efficientis, deinde discipuli informantur. | (next interval) |
+| 288R | t4 | Primo, de Iudaeorum dolositate et triplici fallacia. | (next interval) |
+| 288R | t4 | Confutatur fallacia blasphemantium per tria. | (next interval) |
+
+Tier labels are by typography, as in stages 1–2. The 216L delegatio member is set like 112L and 140R (larger roman), so
+it is labelled **t3**; it is the fourth of the Tabula's four members of *Primo explicatur veritas doctrinae
+quadrupliciter* (88R). The headings stand far apart:
+
+- **c. 8:** 198R to `CAPITULUM IX.` is ~17.8 pp; the editors put the three miracles in the margin.
+- **c. 9:** 225L to 243L is ~18.2 pp; 216 to 225L ~8.5 pp; 243L to `CAPITULUM X.` ~8.9 pp.
+- **c. 10:** 252 to 266L is ~13.9 pp.
+- **c. 11:** 277 to the 288 stack is ~11.0 pp.
+
+Rows in those stretches are cut at Bonaventure's divisio paragraphs (ruling 1b). Every cut is named in a higher
+paragraph's own *ibi:* list, or (¶ 87) names the joint itself in its opening sentence.
+
+## Last paragraph per capitulum (MEASURED)
+
+**VIII = 99** (216R; ⚠ the setup table says **98**: wrong). **IX = 111** (251R; its text runs unnumbered across the top
+of p. 252; the setup table's ~110–111 resolves to 111). **X = 80** (277R; ⚠ the setup table says **~79**). Each
+capitulum's first and last pages are as the setup table predicts (188–216, 216–252, 252–277). **None overran.**
+
+## The p. 288 gate (MEASURED)
+
+Ruling 14 places the gate at **c. 11 v. 13**, p. 288. On the plate: ¶ 34 is Vers. 13 (287R); ¶ 35 (*Et ideo concludit:
+Quanto magis Pater de caelo dabit spiritum bonum petentibus se?*) closes v. 13 on 288L; **¶ 36 (*Et erat Iesus eiiciens
+daemonium etc.*, the v. 14 lemma) opens at ~0.41 of 288L**. The last row, `bon-luc-c11-v5-13`, ends there. ⚠ The
+heading stack that opens Pars II's second member does NOT stand above ¶ 36: ¶ 36's first eleven lines (*Sicut habitum fuit
+in principio libri…*) come first, then the italic t2 *Secundo confutatur falsitas Iudaeorum adversantium
+quadrupliciter.* (288L ~0.6), the un-numbered *Prima parte terminata…*, and on 288R the t3 and three t4s, then ¶ 37
+(Vers. 14). Under ruling 1d the next interval's first chunk opens at **¶ 36**, and its opening stack is the t2 / t3 / t4
+cascade inside ¶ 36 (the c4-v1-13 shape). The gate placement is right; only its exact line differs from "above the
+heading".
+
+## Corrections to the setup table (MEASURED)
+
+- **Cap. VIII last ¶ = 99, not 98.** ¶ 99 is the un-versed *Secundo vero quantum ad humilem occultationem*.
+- **Cap. X last ¶ = 80, not ~79.** ¶ 80 is *Et sic patet, quomodo istud Evangelium…*, on 277R above `CAPITULUM XI.`
+- **The 216L delegatio heading is a t3 (larger roman)**, not a small-bold t4.
+
+## `low` rows (8, four decisions), with the alternatives
+
+1. **`bon-luc-c8-v26-33` and `bon-luc-c8-v34-39` (¶¶ 46–59 / 60–71).**
+   - **The problem:** the second miracle (the legion) is ~7.0 pp: under cap 8, over the 3–6 target. The heading gap
+     (~17.8 pp) licenses a cut. ¶ 46 divides it four ways, each named.
+   - **Chosen:** ¶ 60 (*Quod ut viderunt factum*, 205R), the middle joint, giving 3.9 + 3.1 pp.
+   - **Alternatives:** (a) no cut, one row ~7.0 pp (`c8-v26-39`); (b) ¶ 55 (2.5 + 4.5) or ¶ 65 (5.6 + 1.4).
+2. **`bon-luc-c8-v40-48` and `bon-luc-c8-v49-56` (¶¶ 72–86 / 87–99).**
+   - **The problem:** the third miracle (the woman and Jairus's daughter) is ~7.7 pp, under cap 8.
+   - **Chosen:** ¶ 87 (*Adhuc illo loquente*, 213L), the joint of ¶ 72's two-part division (the body / the soul), giving
+     4.5 + 3.2 pp.
+   - **Alternative:** no cut, one row ~7.7 pp (`c8-v40-56`).
+3. **`bon-luc-c9-v46-56` and `bon-luc-c9-v57-62` (¶¶ 85–101 / 102–111).**
+   - **The problem:** 243L to `CAPITULUM X.` is ~8.9 pp, so a cut is required; ¶ 85 offers two named joints, and taking
+     both would leave a 2.5 pp middle.
+   - **Chosen:** ¶ 102 (*Factum est autem, ambulantibus*, 248R), giving 5.6 + 3.3 pp.
+   - **Alternative:** ¶ 94 (*Factum est autem, dum complerentur*, 246L), giving 3.1 + 5.8 pp (`c9-v46-50` + `c9-v51-62`).
+4. **`bon-luc-c10-v1-3` and `bon-luc-c10-v4-16` (¶¶ 1–6 / 7–27).**
+   - **The problem:** the forma praedicandi (252 to 266L, ~13.9 pp) has three named members of ~2.7, 6.4 and 4.8 pp.
+     The first two together are ~9.1 pp.
+   - **Chosen:** both named joints, ¶ 7 (*Nolite portare*, 254R) and ¶ 28 (*Reversi sunt*, 261L). `c10-v1-3` is the
+     stage's shortest row (~2.7 pp, 3 printed pp, the edge of the ≥ 2.7 test) and `c10-v4-16` its longest in printed
+     pages (8).
+   - **Alternatives:** (a) cut at ¶ 14 (*Et in quamcumque civitatem*, 257L, the informatio specialis, named in ¶ 7's own
+     division) instead of ¶ 7, giving ¶¶ 1–13 ~4.8 + ¶¶ 14–27 ~4.3; (b) no cut at ¶ 7, ¶¶ 1–27 ~9.1 pp (one-pass to 10).
+
+## Rule applications that needed a choice (not `low`)
+
+- **Required cuts at a single named joint** (heading gap over ~8 pp, and the member over cap 8):
+  - **c. 9 ¶ 15** (216 to 225L ~8.5 pp; *divino praecepto / divino exemplo*, named in the 216R divisio), 4.5 + 4.0 pp.
+    ⚠ ~8.5 pp sits close to ruling 1b's ~8; if Wilson reads it as under, the row would be one ~8.5 pp chunk over cap.
+  - **c. 9 ¶¶ 43, 56, 70** (225L to 243L ~18.2 pp): ¶ 29's two-part division, then ¶ 43's three named parts.
+  - **c. 11 ¶ 18** (277 to ¶ 36 ~11.0 pp): ¶ 1's third member; its second joint (¶ 4) would leave 1.1 pp.
+  - **c. 8 ¶¶ 46, 72** (198R to `CAPITULUM IX.` ~17.8 pp): ¶ 34's three named miracles.
+- **Kept whole, no licensed cut** (heading gap under ~8 pp): `c8-v1-10` (~5.0), `c8-v11-21` (~4.9), `c10-v25-37` (~6.3),
+  `c10-v38-42` (~5.0).
+- **Kept whole, licensed but the sub-joint leaves a fragment:** `c9-v18-27` (¶ 37 would leave 2.1 pp), `c10-v17-24`
+  (¶ 34, 2.1 + 2.7).
+
+## Titles (ruling 22 / 33 / 40)
+
+- Where an opening stack holds several headings, `title_la` is the lowest, whole: `c8-v1-10` (188R t4, not the 188L
+  t4), `c9-v1-9` (*Forma praedicandi dupliciter explicatur.*, not the 216L t3 or the first 216R t4), `c10-v1-3` (the
+  second 252L t4), `c10-v25-37` (the second 266L t4).
+- **`c10-v1-3` takes the Corrigenda's reformed rubric** (ruling 4: "the governing rubric as amended by the
+  Corrigenda"). p. 858: *Prima pars* etc., "sic reformanda est": *Prima pars, quae agit de forma praedicandi, tractat de
+  missione comitantium discipulorum, de informatione euntium, de consolatione redeuntium.* The printed rubric (*Prima
+  pars agit de missione discipulorum comitantium tripliciter.*) is the one the builder transcribes in place, with ruling
+  8's note. ⚠ The reformed rubric names all three members, so its scope runs past this ~2.7 pp row to ¶ 42; ruling 22
+  takes it whole all the same.
+- Twelve rows open on a divisio paragraph with no heading and take a sentence title (lemma + the dividing words,
+  through the sentence that names the member), read on the plate, footnote anchors dropped, as stage 2.
+- **No row opens on a bare `CAPITULUM`** (ruling 40 is not engaged): a heading stands under each of VIII–XI.
+
+## Corrigenda (assigned by page and column; positions as the Corrigenda gives them)
+
+- **p. 252 col. 1, the second rubric** → `bon-luc-c10-v1-3` (the rubric stands in its opening stack). No other
+  Corrigenda entry falls in pp. 188–288.
+
+## Size distribution (22 rows)
+
+- **Printed pages touched:** min 3 / mean 5.5 / max 8.
+- **Estimated text extent** (column fractions from text-layer paragraph positions against plate-measured body ends;
+  capitulum breaks placed from the plates; PREDICTION): min 2.7 / mean 4.5 / max 6.4 pp.
+
+## Not verified
+
+- **Paragraph numbers inside rows** come from the text layer. Each is anchored by plate-read numbers at both ends.
+- **Verse ends** are taken from the `(Vers. N.)` tags and the lemma of the next row's first paragraph. ¶ 26 of c. 10
+  (v. 16) is not legible in the text layer; `c10-v4-16`'s end verse rests on ¶ 25 (Vers. 15) and ¶ 28's lemma (v. 17).
