@@ -37264,6 +37264,52 @@ bon-luc-c3-v1-9	7	apparatus:p75-1	p75-1	scripture	apparatus-explicit	Luc. 13, 7	
 bon-luc-c3-v1-9	7	apparatus:p75-1	p75-1	scripture	apparatus-explicit	Dan. 4, 11	Dan 4:11	A	verse			
 bon-luc-c3-v1-9	7	apparatus:p75-2	p75-2	scripture	apparatus-explicit	Matth. 25, 41	Matth 25:41	A	verse			
 bon-luc-c3-v1-9	7	apparatus:p75-2	p75-2	scripture	apparatus-explicit	Isai. 66, 24	Isai 66:24	A	verse			
+bon-luc-c3-v10-14	7	latin_body	p75-5	scripture	body-ordinal	Ioannis septimo	Ioan 7:48	B	verse			
+bon-luc-c3-v10-14	7	latin_body	p75-6	scripture	body-ordinal	Matthaei undecimo	Matth 11:25	B	verse			
+bon-luc-c3-v10-14	7	latin_body		scripture	body-ordinal	Proverbiorum tertio	Prov 3	C	chapter			
+bon-luc-c3-v10-14	7	latin_body		scripture	body-ordinal	Deuteronomii trigesimo secundo	Deut 32	C	chapter			
+bon-luc-c3-v10-14	7	latin_body		scripture	body-ordinal	Isaiae quinquagesimo octavo	Isai 58	C	chapter			
+bon-luc-c3-v10-14	7	latin_body	p76-2	scripture	body-ordinal	Proverbiorum tertio	Prov 3:9	B	verse			
+bon-luc-c3-v10-14	7	latin_body		scripture	body-ordinal	Marci duodecimo	Marc 12	C	chapter			
+bon-luc-c3-v10-14	7	latin_body	p76-4	scripture	body-ordinal	Tobiae quarto	Tob 4:9	B	verse			
+bon-luc-c3-v10-14	7	latin_body		scripture	body-ordinal	Matthaei decimo	Matth 10	C	chapter			
+bon-luc-c3-v10-14	7	latin_body	p76-7	scripture	body-ordinal	Ioannis tertio	1Ioan 3:17	B	verse			
+bon-luc-c3-v10-14	7	latin_body		scripture	body-ordinal	Matthaei vigesimo primo	Matth 21	C	chapter			
+bon-luc-c3-v10-14	7	latin_body	p76-9	scripture	body-ordinal	Isaiae primo	Isai 1:16	B	verse			
+bon-luc-c3-v10-14	7	latin_body		scripture	body-ordinal	Ieremiae sexto	Ierem 6	C	chapter			
+bon-luc-c3-v10-14	7	latin_body		scripture	body-ordinal	Deuteronomii quarto	Deut 4	C	chapter			
+bon-luc-c3-v10-14	7	latin_body	p76-11	scripture	body-ordinal	Matthaei decimo nono	Matth 19:17	B	verse			
+bon-luc-c3-v10-14	7	latin_body	p76-12	scripture	body-ordinal	ad Romanos decimo quarto	Rom 14:1	B	verse			
+bon-luc-c3-v10-14	7	latin_body		scripture	body-ordinal	ad Corinthios nono	1Cor 9	C	chapter			
+bon-luc-c3-v10-14	7	latin_body	p77-3	scripture	body-ordinal	Tobiae quarto	Tob 4:19	B	verse			
+bon-luc-c3-v10-14	7	latin_body		scripture	body-ordinal	Ioannis primo	Ioan 1	C	chapter			
+bon-luc-c3-v10-14	7	latin_body	p77-6	scripture	body-ordinal	Levitici decimo nono	Lev 19:13	B	verse			
+bon-luc-c3-v10-14	7	latin_body		scripture	body-ordinal	Isaiae tertio	Isai 3	C	chapter			
+bon-luc-c3-v10-14	7	latin_body	p77-7	scripture	body-ordinal	Ezechielis decimo octavo	Ezech 18:5	B	verse			
+bon-luc-c3-v10-14	7	latin_body	p77-8	scripture	body-ordinal	Isaiae tertio	Isai 3:12	B	verse			
+bon-luc-c3-v10-14	7	latin_body	p77-9	scripture	body-ordinal	Matthaei quinto	Matth 5:39	B	verse			
+bon-luc-c3-v10-14	7	apparatus:p75-6	p75-6	scripture	apparatus-explicit	Prov. 3, 32	Prov 3:32	A	verse			
+bon-luc-c3-v10-14	7	apparatus:p75-6	p75-6	scripture	apparatus-explicit	Deut. 32, 7	Deut 32:7	A	verse			
+bon-luc-c3-v10-14	7	apparatus:p75-7	p75-7	scripture	apparatus-explicit	Luc. 11, 41	Luc 11:41	A	verse			
+bon-luc-c3-v10-14	7	apparatus:p75-7	p75-7	scripture	apparatus-explicit	Iob 31, 19	Iob 31:19	A	verse			
+bon-luc-c3-v10-14	7	apparatus:p75-9	p75-9	scripture	apparatus-explicit	Tob. 4, 17	Tob 4:17	A	verse			
+bon-luc-c3-v10-14	7	apparatus:p75-9	p75-9	scripture	apparatus-explicit	Isai. 58, 7	Isai 58:7	A	verse			
+bon-luc-c3-v10-14	7	apparatus:p76-2	p76-2	crossref	logical	IV. Sent. d. 15. p. II. a. 2. q. 1.	bon-sent-IV-d15-p2-a2-q1		chunk			
+bon-luc-c3-v10-14	7	apparatus:p76-3	p76-3	scripture	apparatus-explicit	Luc. 3, 11	Luc 3:11	A	verse			
+bon-luc-c3-v10-14	7	apparatus:p76-3	p76-3	scripture	apparatus-explicit	Marc. 12, 43	Marc 12:43	A	verse			
+bon-luc-c3-v10-14	7	apparatus:p76-4	p76-4	scripture	apparatus-explicit	Matth. 10, 8	Matth 10:8	A	verse			
+bon-luc-c3-v10-14	7	apparatus:p76-8	p76-8	scripture	apparatus-explicit	Matth. 21, 31	Matth 21:31	A	verse			
+bon-luc-c3-v10-14	7	apparatus:p76-9	p76-9	scripture	apparatus-explicit	Ier. 6, 16	Ierem 6:16	A	verse			
+bon-luc-c3-v10-14	7	apparatus:p76-10	p76-10	scripture	apparatus-explicit	Deut. 4, 2	Deut 4:2	A	verse			
+bon-luc-c3-v10-14	7	apparatus:p76-11	p76-11	scripture	apparatus-explicit	Ps. 18, 12	Ps 18:12	A	verse			
+bon-luc-c3-v10-14	7	apparatus:p76-11	p76-11	scripture	apparatus-explicit	Eccle. 8, 5	Eccle 8:5	A	verse			
+bon-luc-c3-v10-14	7	apparatus:p76-12	p76-12	scripture	apparatus-explicit	I. Cor. 9, 22	1Cor 9:22	A	verse			
+bon-luc-c3-v10-14	7	apparatus:p77-4	p77-4	scripture	apparatus-explicit	Matth. 19, 16	Matth 19:16	A	verse			
+bon-luc-c3-v10-14	7	apparatus:p77-4	p77-4	scripture	apparatus-explicit	Ioan. 1, 19	Ioan 1:19	A	verse			
+bon-luc-c3-v10-14	7	apparatus:p77-5	p77-5	scripture	apparatus-explicit	Eccli. 4, 28	Eccli 4:28	A	verse			
+bon-luc-c3-v10-14	7	apparatus:p77-6	p77-6	scripture	apparatus-explicit	Isai. 3, 15	Isai 3:15	A	verse			
+bon-luc-c3-v10-14	7	apparatus:p77-10	p77-10	scripture	anaphor->apparatus-explicit	loc. cit.	Isai 3:15	A	verse	yes	Isai. 3, 15	
+bon-luc-c3-v10-14	7	apparatus:p78-2	p78-2	scripture	apparatus-explicit	Rom. 12, 21	Rom 12:21	A	verse			
 bon-luc-prol	7	latin_body	p8-1	scripture	body-ordinal	ad Timotheum ultimo	2Tim 4:11	B	verse			
 bon-luc-prol	7	latin_body	p8-2	scripture	body-ordinal	Genesis quadragesimo primo	Gen 41:38	B	verse			
 bon-luc-prol	7	latin_body	p8-4	scripture	body-ordinal	Ioannis decimo nono	Ioan 19:19	B	verse			

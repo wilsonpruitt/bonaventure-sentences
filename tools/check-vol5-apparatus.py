@@ -5179,6 +5179,27 @@ KNOWN_TOTALS_VOL7 = {
              # *quinto*), both 75L above the t3 *Secundo, de baptismo et praedicatione Ioannis in speciali
              # quoad tria.*; nn.3-9 anchor in para 22 and after and are bon-luc-c3-v10-14's. Blocks L 1-7 head
              # / R 7 tail + 8-9. Gutter 1161 (colcrop default, 59 px run).
+             # RE-READ WHOLE by bon-luc-c3-v10-14: 9 confirmed, 2 / 7 by anchor. Its nn.3-9: L 3-4 (para 22
+             # *populi*, *ibi*) / R 5-9 (para 23 *septimo*, *undecimo*; para 24 lemma *Qui*, *Beda*; para 25
+             # *primo*). n.7 (Vulgate / Job 31:19) RUNS OVER THE GUTTER (*Eadem* | *Vulgata subinde*) and
+             # prints LEFT while it anchors RIGHT; nn.5-6 likewise print LEFT, anchor RIGHT. n.4 prints with
+             # NO closing period (*v. 18*), as printed. Profiled rows 0.40-0.80: band 1131-1191, 1161.
+    76: 13,  # bon-luc-c3-v10-14. Anchors L 1-7 (para 25's tail *Hedibiam*; para 26 *tertio*, *Beda*,
+             # *quarto*, *quarto*; para 27 *praeceptum*, *tertio*) / R 8-13 (para 28 *publicarum*, *primo*;
+             # para 29 lemma *illos*, *nono*, *quarto*; para 30 *quinto*). Blocks L 1-7 head / R 7 tail +
+             # 8-13: n.7 (B. Albert on Luke 11:41) RUNS OVER THE GUTTER (*superfluum* | *personae*).
+             # Gutter 1295 (colcrop default 1297 on a 54 px run; rows 0.10-0.80 spread 1293-1297, band
+             # 1269-1319, island 1285-1302).
+    77: 10,  # bon-luc-c3-v10-14. Anchors L 1-6 (para 30's tail *causa*, *constitutum*; para 31 *quarto*,
+             # *octavo*; para 32 *retinendum*, *nono*) / R 7-10 (para 33 *octavo*, *tertio*; para 34
+             # *quinto*, *illicitum*). Blocks L 1-5 / R 6-10, no runover; n.6 prints RIGHT while it anchors
+             # LEFT. Gutter 1165 (60 px run; profile band 1135-1196, island 1163-1168).
+    78: 11,  # FULL leaf count (Cap. III vv. 10-14 / vv. 15-20). bon-luc-c3-v10-14 owns nn.1-2 (para 34's
+             # tail *monte*, *malum*), both 78L above the t4 *Praedicatio Ioannis commendatur secundo quoad
+             # excellentiam Christi tripliciter.*; nn.3-11 anchor in para 35 (*supra*) and after and are
+             # bon-luc-c3-v15-20's. Blocks L 1-6 head / R 6 tail + 7-11: n.6 (the Gloss / Ambrose) RUNS
+             # OVER THE GUTTER (*Glossa interlinearis:* | *Tingo corpora*), the next chunk's to ledger.
+             # Gutter 1287 (colcrop default, 62 px run).
 }
 
 KNOWN_TOTALS_BY_VOL = {
