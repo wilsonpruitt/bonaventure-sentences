@@ -5633,6 +5633,25 @@ KNOWN_TOTALS_VOL7 = {
              # *ibi*, nn.11-13 below). Anchors L 1-7 / R 8-13. Blocks L 1-6 head / R 6 tail + 7-13: n.6
              # (Chrysostom, Hom. 45 in Matth.) RUNS OVER THE GUTTER (*dicebant [Matth.* | *9, 34.]*); n.7 anchors
              # LEFT, prints RIGHT. Gutter 1144 (rows 0.15-0.60, band 1113-1176, rule 1143-1145).
+             # Hand-off re-derived true by bon-luc-c8-v11-21 (n.10 at para 17's first *ibi*, n.11 at its second,
+             # n.12 *Ioannis decimo sexto*, n.13 *Iacobi primo*; all four 193R below the t4, all four print RIGHT).
+             # Gutter below the t4 1144 (rows 0.30-0.62, band 1113-1175, rule 1143-1146).
+    194: 11, # bon-luc-c8-v11-21. Anchors L 1-6 / R 7-11. Blocks L 1-5 / R 6-11 (n.6 anchors LEFT, prints
+             # RIGHT). No runover. Gutter 1291 (band 1261-1321, rule 1287-1293).
+    195: 12, # bon-luc-c8-v11-21. Anchors L 1-5 / R 6-12. Blocks L 1-7 / R 8-12 (nn.6-7 anchor RIGHT, print
+             # LEFT). No runover. Gutter 1170 (band 1142-1198, 57 px, heavy rule 1165-1175).
+    196: 12, # bon-luc-c8-v11-21. Anchors L 1-7 / R 8-12. Blocks L 1-5 / R 6-12 (nn.6-7 anchor LEFT, print
+             # RIGHT). No runover. Gutter 1304 (band 1273-1335, rule 1303-1306).
+    197: 11, # bon-luc-c8-v11-21. Anchors L 1-6 / R 7-11. Blocks L 1-5 head / R 5 tail + 6-11: n.5 (Vulgata
+             # *illo*; A C D; Matth. 13, 12) RUNS OVER THE GUTTER (*...auferetur ab eo.* | *— Sequuntur Luc. 19,
+             # 24*). n.6 anchors LEFT, prints RIGHT. Gutter 1154 (band 1124-1185, rule 1152-1158).
+    198: 11, # SHARED. nn.1-6 bon-luc-c8-v11-21 (para 33 closes ~0.07 of 198R on *...non potest meus esse
+             # discipulus ».* above the t4 *Tertio ponitur confirmatio authentica in manifestis miraculis.* at
+             # ~0.12; all six anchor 198L); nn.7-11 bon-luc-c8-v22-25 (para 34 under the t4: n.7 *Factum est*,
+             # n.8 *omne verbum*, n.9 first *ibi*, n.10 *ibi: Navigantibus*, n.11 *ascensus naviculae*; all 198R).
+             # Blocks L 1-4 head / R 4 tail + 5-11: n.4 (Ioan. 1, 12; August.; D G H) RUNS OVER THE GUTTER
+             # (*D G H et ideo haec* | *praetermittenda*); nn.5-6 anchor LEFT, print RIGHT. Gutter below the
+             # heading 1316 (rows 0.15-0.70, band 1287-1345, rule 1312-1320).
 }
 
 KNOWN_TOTALS_BY_VOL = {
