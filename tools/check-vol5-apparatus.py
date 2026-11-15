@@ -5460,6 +5460,29 @@ KNOWN_TOTALS_VOL7 = {
              # *Tertio determinatur vocatorum instructio per duo.*; nn.9-12 in the divisio after it). Anchors
              # L 1-7 / R 8-12. Blocks L 1-7 head / R 7 tail + 8-12: n.7 (Oswald and Aidan, Bede) RUNS OVER THE
              # GUTTER (*...mentio fit,* | *fuit Aedanus*). Gutter 1276.
+             # Re-read by bon-luc-c6-v12-19: nn.8-12 confirmed (n.9 / n.10 *Vers. 1.* side by side on one line).
+    141: 13, # bon-luc-c6-v12-19. Anchors L 1-6 / R 7-13. Blocks L 1-10 head / R 10 tail + 11-13: n.10 (Matth. 5, 20
+             # + August., IV. de Gen. ad lit. c. 2) RUNS OVER THE GUTTER (*...duodenario nu-* | *merum faciunt*).
+             # Gutter 1173 (band 1144-1202, centre-rule island 1168-1178).
+    142: 11, # bon-luc-c6-v12-19. Anchors L 1-5 / R 6-11. Blocks L 1-7 / R 8-11 (nn.6-7 anchor RIGHT, print
+             # LEFT). No runover. Gutter 1288.
+    143: 10, # bon-luc-c6-v12-19. Anchors L 1-5 / R 6-10. Blocks L 1-4 head / R 4 tail + 5-10: n.4 (Beda on
+             # *Petrus*) RUNS OVER THE GUTTER (*...testetur...* | *Simon autem obediens*); n.10 (Ezech. 1 +
+             # Gregory) RUNS OVER THE PAGE onto p.144 (*...ex quibus reliquae* | *virtutes oriuntur*). Gutter 1151.
+    144: 9,  # bon-luc-c6-v12-19. Anchors L 1-4 / R 5-9. Blocks L (p.143 n.10 tail) 1-5 / R 6-9 (n.5 anchor
+             # RIGHT, print LEFT). No gutter runover. Gutter 1311.
+    145: 12, # bon-luc-c6-v12-19. Anchors L 1-8 / R 9-12. Blocks L 1-5 head / R 5 tail + 6-12: n.5 (Titus 1, 16
+             # + variants, Du Cange) RUNS OVER THE GUTTER (*...et traduntur oc-* | *casione*); nn.6-8 anchor
+             # LEFT, print RIGHT. Foot signature *S. Bonav. - Tom. VII.* / *19* (not text). Gutter 1151.
+    146: 11, # bon-luc-c6-v12-19. Anchors L 1-5 / R 6-11. Blocks L 1-3 head / R 3 tail + 4-11: n.3 (Glossa
+             # ordinaria in Luc. 6, 17) RUNS OVER THE GUTTER (*...intimetur,* | *quae etiam exteras*); nn.4-5
+             # anchor LEFT, print RIGHT. Gutter 1300 (band 1271-1330 midpoint; the default 1309 on a 43 px run
+             # rejected).
+    147: 11, # FULL leaf count; SHARED. nn.1-9 bon-luc-c6-v12-19's (n.9 at para 48 *infra decimo quinto*, 147R,
+             # its last anchor); nn.10-11 belong to bon-luc-c6-v20-26 (para 49 *Et ipse, elevatis oculis*, 147R
+             # ~0.27, no heading). Anchors L 1-7 / R 8-11. Blocks L 1-6 head / R 6 tail + 7-11: n.6 (Jerome on
+             # *Tyrus*) RUNS OVER THE GUTTER (*...de libro Iesu* | *(Iosue)*); n.7 anchor LEFT, print RIGHT.
+             # Gutter 1159.
 }
 
 KNOWN_TOTALS_BY_VOL = {
