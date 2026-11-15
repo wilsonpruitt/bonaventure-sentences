@@ -5305,6 +5305,23 @@ KNOWN_TOTALS_VOL7 = {
              # detrahentium.*). nn.3-10 belong to the next chunk (para 47 *ibi*3 on). LEFT footer opens on p.99
              # n.12's tail (not counted here); blocks L 1-8 head / R 8 tail + 9-10 (n.8 runs over the gutter: the
              # next chunk's to ledger). Gutter 1278 (default, 58 px).
+             # bon-luc-c4-v22-30 (2026-11-14): re-read whole; nn.3-10 its own, anchors L 3-4 (para 47 *ibi*3, *ibi*4)
+             # / R 5-10 (para 48-49). n.8 (Chrysostom) runs over the gutter, ledgered there. Profiled: band
+             # 1249-1308 (60 px), centre rule 1274-1280 -> 1278 confirmed.
+    101: 12, # bon-luc-c4-v22-30. Anchors L 1-7 / R 8-12. Blocks L 1-6 head / R 6 tail + 7-12 head: n.6 (Gloss
+             # interlinear, *Non credi-|mus*) RUNS OVER THE GUTTER; n.12 (Ioan. 17, 17; Iob 6, 25) RUNS OVER THE
+             # PAGE onto the head of p.102's LEFT footer (*incredulitatem etc. [Vulgata: ...]*), counted here.
+             # Gutter 1147 (band 1117-1178, 62 px; default 1146 on 59 px).
+    102: 9,  # bon-luc-c4-v22-30. Anchors L 1-5 / R 6-9. Blocks L (p.101 n.12 tail) 1-3 / R 4-9 (nn.4-5 anchor
+             # LEFT, print RIGHT). No runover. Gutter 1306 (band 1276-1335, 60 px; default 1306 on 58 px).
+    103: 12, # bon-luc-c4-v22-30. Anchors L 1-5 / R 6-12. Blocks L 1-8 / R 9-12 (nn.6-8 anchor RIGHT, print
+             # LEFT). n.12 (Gloss/Ambrose, IV in Luc. n. 56) RUNS OVER THE PAGE onto the head of p.104's LEFT
+             # footer (*esse quod operatus est...*), counted here. Gutter 1140 (band 1109-1171; default 1141, 61 px).
+    104: 13, # FULL leaf count; SHARED. nn.1-9 bon-luc-c4-v22-30's (paras 60-63; n.9 *Ieremiae vigesimo secundo*
+             # 104R, the last anchor above the t4 *Authenticatur doctrina Christi ex miraculo potentiae.*); nn.10-13
+             # belong to bon-luc-c4-v31-37 (para 64 *testimonium*10 on). Anchors L 1-8 / R 9-13. Blocks L (p.103
+             # n.12 tail) 1-5 head / R 5 tail + 6-13: n.5 (Gloss/Cornelius a Lapide) RUNS OVER THE GUTTER. Gutter
+             # 1308 (band 1279-1338, centre rule 1304-1314; default 1311 on 55 px).
 }
 
 KNOWN_TOTALS_BY_VOL = {
