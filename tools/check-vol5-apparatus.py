@@ -5787,6 +5787,23 @@ KNOWN_TOTALS_VOL7 = {
              # bon-luc-c9-v32-36 (para 56 *Petrus vero, et qui cum illo erant*, n.12 at *ibi*, *Vers. 33: Et factum est
              # etc.*). L register opens with p.233 n.13's tail. Anchors L 1-6 / R 7-12. Blocks L 1-6 / R 7-12. Gutter
              # 1286 (rows 0.20-0.50, band 1256-1316, rule 1284-1289).
+             # Re-derived by bon-luc-c9-v32-36: n.12 true in digit and anchor (*v. 35* as printed; see its Notes).
+    235: 11, # bon-luc-c9-v32-36. Anchors L 1-5 / R 6-11. Blocks L 1-5 / R 6-11. No runover. Gutter 1166 (rows
+             # 0.20-0.50, band 1137-1196, rule 1163-1170).
+    236: 13, # bon-luc-c9-v32-36. Anchors L 1-7 / R 8-13. Blocks L 1-9 / R (n.9 tail) + 10-13. n.9 RUNS OVER THE GUTTER
+             # (*...deinde Vat. cum Glossa omittit sibi; porro* | *pro officio [Vat. obsequio] sistere...*); nn.8-9 anchor
+             # RIGHT, print LEFT. Gutter 1317 (rows 0.20-0.50, band 1286-1349, rule 1317-1319).
+    237: 12, # bon-luc-c9-v32-36. Anchors L 1-5 / R 6-12. Blocks L 1-7 / R (n.7 tail) + 8-12. n.7 RUNS OVER THE GUTTER
+             # (*...corpus sanctae Virginis Mariae... vel certe* | *corpus suum...*); nn.6-7 anchor RIGHT, print LEFT.
+             # Gutter 1153 (rows 0.20-0.50, band 1121-1185, rule 1153-1156).
+    238: 13, # bon-luc-c9-v32-36. Anchors L 1-7 / R 8-13. Blocks L 1-8 / R (n.8 tail) + 9-13. n.8 RUNS OVER THE GUTTER
+             # (*...ne, si Moyses et Elias perseveras-* | *-sent cum Domino...*); n.8 anchors RIGHT, prints LEFT. Gutter
+             # 1315 (rows 0.20-0.50, band 1287-1343, rule 1310-1321).
+    239: 12, # SHARED. nn.1-4 bon-luc-c9-v32-36 (para 69 closes ~0.44 of 239L on *...praedica post consummationem.*);
+             # nn.5-12 bon-luc-c9-v37-45 (para 70 *Factum est autem in sequenti die*, n.5 at *lunatici*, *Cfr. supra
+             # n. 43.*; read at 1.0x for the hand-off only). Anchors L 1-6 / R 7-12 (n.6 at para 70's *ibi*, 239L foot).
+             # Blocks L 1-4 / R (n.4 tail) + 5-12. n.4 RUNS OVER THE GUTTER (*...praemittitur huic homi-* | *-liae,
+             # dicitur...*). Gutter 1156 (rows 0.20-0.50, band 1125-1187, rule 1154-1159).
 }
 
 KNOWN_TOTALS_BY_VOL = {
