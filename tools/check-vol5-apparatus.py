@@ -5199,7 +5199,26 @@ KNOWN_TOTALS_VOL7 = {
              # excellentiam Christi tripliciter.*; nn.3-11 anchor in para 35 (*supra*) and after and are
              # bon-luc-c3-v15-20's. Blocks L 1-6 head / R 6 tail + 7-11: n.6 (the Gloss / Ambrose) RUNS
              # OVER THE GUTTER (*Glossa interlinearis:* | *Tingo corpora*), the next chunk's to ledger.
-             # Gutter 1287 (colcrop default, 62 px run).
+             # Gutter 1287 (colcrop default, 62 px run). RE-READ WHOLE by bon-luc-c3-v15-20: 2 / 9
+             # confirmed, every digit right; anchors 3-5 L (para 35 *supra*, *primo*, *Beda*), 6-11 R
+             # (para 36 *Ambrosius*, *primo*; para 37 *nono*, *primo*, *quarto*; para 38 lemma *Venit*).
+             # Profile band 1256-1316, midpoint 1286.
+    79: 10,  # bon-luc-c3-v15-20. Anchors L 1-5 (para 38 lemma *me*, *tertio*, *Psalmi*, *Beda*,
+             # *tertio*) / R 6-10 (para 38's tail *tertio*; para 39 *primo*, *secundo*, *tertio*; para 40
+             # *quinto*). Blocks L 1-4 head / R 4 tail + 5-10: n.4 (Bede / Ambrose / the Gloss on the
+             # *calceamentum*) RUNS OVER THE GUTTER (*mysterium incarna-* | *tionis*). Gutter 1168
+             # (default 1170 on 55 px, escalated; band 1140-1197, island 1162-1174).
+    80: 10,  # bon-luc-c3-v15-20. Anchors L 1-4 (para 40's tail *quinto*, lemma *purgabit*, *sexto*;
+             # para 41 *sexto*) / R 5-10 (para 42 *tertio*, *ultimo*; para 43 *primo*, *quarto*, *quarto*,
+             # *quarto*). Blocks L 1-3 / R 4-10, no runover; n.4 prints RIGHT while it anchors LEFT.
+             # Gutter 1274 (default 1281 on 52 px, escalated; band 1244-1304, island 1271-1278 off centre).
+    81: 11,  # FULL leaf count (Cap. III vv. 15-20 / vv. 21-22). bon-luc-c3-v15-20 owns nn.1-8 (para 44
+             # *nono*, *sexto*, *secundo*; para 45 *eodem*, *decimo*, *quinto*; para 46 lemma *carcere*,
+             # *quinto*), all above the 81R t3 *Tertio, de baptismo et praedicatione Ioannis in singulari
+             # quoad duo.*; nn.9-11 anchor in para 47 (*primo*, *ibi*) and the paragraph under the t4
+             # *Primo, de regeneratione Christi sacramentali duo.* (*ibi*) and are bon-luc-c3-v21-22's.
+             # Blocks L 1-4 / R 5-11, no runover; n.5 prints RIGHT while it anchors LEFT. Gutter 1161
+             # (colcrop default, 62 px; band 1130-1192).
 }
 
 KNOWN_TOTALS_BY_VOL = {
