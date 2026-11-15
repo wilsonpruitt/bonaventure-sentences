@@ -1160,6 +1160,14 @@ const WORKS = {
       // tria.` and the t4 `Forma praedicandi dupliciter explicatur.` (title_la,
       // ruling 22), both inside para 1 (ruling 1d).
       9: "Capitulum IX",
+      // `CAPITULUM X.` read in place on p. 252 at bon-luc-c10-v1-3: full-measure
+      // centred small capitals at ~0.25, directly below Cap. IX's last para 111
+      // (…a Domino in deserto interfecti fuerunt.), no subtitle, unanchored. Below
+      // it in 252L the t4 `Secundo agitur de missione septuaginta duorum
+      // discipulorum quoad tria.` over para 1, then the second t4, printed `Prima
+      // pars agit de missione discipulorum comitantium tripliciter.` and carried
+      // in the Corrigenda's reformed wording (p. 858; title_la, rulings 4/8/22).
+      10: "Capitulum X",
     },
   },
 };

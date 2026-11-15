@@ -5855,6 +5855,15 @@ KNOWN_TOTALS_VOL7 = {
              # bon-luc-c10-v1-3 (below the full-measure CAPITULUM X. at ~0.25; n.4 at para 1 *Post haec*, n.5 at
              # *infra eodem*; read at 1.0x for the hand-off only). Blocks L 1-5 / R 6-10. Gutter 1300 above CAPITULUM X.
              # (rows 0.04-0.22, windows 1300-1303) and below it (rows 0.28-0.60, band 1270-1331, rule 1298-1302).
+             # Re-derived by bon-luc-c10-v1-3: nn.4-10 true in digit and anchor (anchors L 4-6 / R 7-10; n.6 anchors
+             # LEFT, prints RIGHT). Gutter 1300 below CAPITULUM X. re-derived.
+    253: 12, # bon-luc-c10-v1-3. Anchors L 1-6 / R 7-12. Blocks L 1-3 (n.3 head) / R (n.3 tail) + 4-12. n.3 RUNS OVER
+             # THE GUTTER (*...mundo an-* | *nuntiaturum...*); nn.4-6 anchor LEFT, print RIGHT. Gutter 1156 (rows
+             # 0.20-0.50, band 1125-1187, rule 1155-1158), as measured ahead.
+    254: 11, # SHARED. nn.1-10 bon-luc-c10-v1-3 (paras 4 tail-6, closing ~0.51 of 254R); n.11 bon-luc-c10-v4-16 (para
+             # 7's *ibi* before *Et in quamcumque civitatem*, ~0.56 of 254R; read for the hand-off only). Anchors
+             # L 1-5 / R 6-11. Blocks L 1-7 / R 8-11; nn.6-7 anchor RIGHT, print LEFT. No runover. Gutter 1307 (rows
+             # 0.20-0.50, band 1276-1338, rule 1305-1309).
 }
 
 KNOWN_TOTALS_BY_VOL = {

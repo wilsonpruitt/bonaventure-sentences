@@ -36566,6 +36566,50 @@ bon-luc-c1-v67-80	7	apparatus:p43-5	p43-5	scripture	apparatus-explicit	Ps. 54, 8
 bon-luc-c1-v67-80	7	apparatus:p43-5	p43-5	scripture	apparatus-explicit	I. Mach. 2, 29	1Mach 2:29	A	verse			
 bon-luc-c1-v67-80	7	apparatus:p43-6	p43-6	scripture	apparatus-explicit	Iac. 3, 13	Iac 3:13	A	verse			
 bon-luc-c1-v67-80	7	apparatus:p43-7	p43-7	scripture	apparatus-explicit	III. Reg. 19, 4	3Reg 19:4	A	verse			
+bon-luc-c10-v1-3	7	latin_body	p252-7	scripture	body-ordinal	Ioannis decimo quinto	Ioan 15:16	B	verse			
+bon-luc-c10-v1-3	7	latin_body	p252-8	scripture	body-ordinal	ad Hebraeos quinto	Hebr 5:4	B	verse			
+bon-luc-c10-v1-3	7	latin_body	p252-9	scripture	body-ordinal	ad Ephesios quarto	Eph 4:30	B	verse			
+bon-luc-c10-v1-3	7	latin_body	p252-10	scripture	body-ordinal	Exodi decimo quinto	Exod 15:27	B	verse			
+bon-luc-c10-v1-3	7	latin_body		scripture	body-ordinal	Numerorum undecimo	Num 11	C	chapter			
+bon-luc-c10-v1-3	7	latin_body	p253-4	scripture	body-ordinal	Ioannis vigesimo	Ioan 20:21	B	verse			
+bon-luc-c10-v1-3	7	latin_body		scripture	body-ordinal	Ecclesiastae quarto	Eccle 4	C	chapter			
+bon-luc-c10-v1-3	7	latin_body		scripture	body-ordinal	Canticorum quarto	Cant 4	C	chapter			
+bon-luc-c10-v1-3	7	latin_body		scripture	body-ordinal	Genesis sexto	Gen 6	C	chapter			
+bon-luc-c10-v1-3	7	latin_body	p253-7	scripture	body-ordinal	Isaiae quadragesimo	Isai 40:3	B	verse			
+bon-luc-c10-v1-3	7	latin_body	p253-8	scripture	body-ordinal	Ioannis quarto	Ioan 4:35	B	verse			
+bon-luc-c10-v1-3	7	latin_body		scripture	body-ordinal	Ioannis quarto	Ioan 4	C	chapter			
+bon-luc-c10-v1-3	7	latin_body	p253-9	scripture	body-ordinal	Apocalypsis decimo quarto	Apoc 14:15	B	verse			
+bon-luc-c10-v1-3	7	latin_body	p253-11	scripture	body-ordinal	Matthaei vigesimo	Matth 20:8	B	verse			
+bon-luc-c10-v1-3	7	latin_body	p253-12	scripture	body-ordinal	ad Corinthios undecimo	2Cor 11:13	B	verse			
+bon-luc-c10-v1-3	7	latin_body		scripture	body-ordinal	Matthaei vigesimo	Matth 20	C	chapter			
+bon-luc-c10-v1-3	7	latin_body		scripture	body-ordinal	Matthaei vigesimo tertio	Matth 23	C	chapter			
+bon-luc-c10-v1-3	7	latin_body		scripture	body-ordinal	Nehemiae quarto	2Esdr 4	C	chapter			
+bon-luc-c10-v1-3	7	latin_body	p254-2	scripture	body-ordinal	Genesis secundo	Gen 2:15	B	verse			
+bon-luc-c10-v1-3	7	latin_body		scripture	body-ordinal	Ezechielis primo	Ezech 1	C	chapter			
+bon-luc-c10-v1-3	7	latin_body		scripture	body-ordinal	Proverbiorum sexto	Prov 6	C	chapter			
+bon-luc-c10-v1-3	7	latin_body	p254-4	scripture	body-ordinal	Ioannis decimo	Ioan 10:11	B	verse			
+bon-luc-c10-v1-3	7	latin_body	p254-6	scripture	body-ordinal	Iosue primo	Ios 1:14	B	verse			
+bon-luc-c10-v1-3	7	latin_body	p254-7	scripture	body-ordinal	Isaiae quinquagesimo tertio	Isai 53:7	B	verse			
+bon-luc-c10-v1-3	7	latin_body	p254-8	scripture	body-ordinal	Isaiae undecimo	Isai 11:6	B	verse			
+bon-luc-c10-v1-3	7	latin_body		scripture	body-ordinal	Genesis penultimo	Gen 49	C	chapter			
+bon-luc-c10-v1-3	7	latin_body	p254-9	scripture	body-ordinal	Petri quinto	1Petr 5:1	B	verse			
+bon-luc-c10-v1-3	7	apparatus:p252-4	p252-4	crossref	relative-bare	ibid.			unresolvable			
+bon-luc-c10-v1-3	7	apparatus:p252-10	p252-10	scripture	apparatus-explicit	Num. 11, 25	Num 11:25	A	verse			
+bon-luc-c10-v1-3	7	apparatus:p253-2	p253-2	scripture	apparatus-explicit	Ier. 25, 11	Ierem 25:11	A	verse			
+bon-luc-c10-v1-3	7	apparatus:p253-3	p253-3	scripture	apparatus-explicit	Ioan. 11, 9	Ioan 11:9	A	verse			
+bon-luc-c10-v1-3	7	apparatus:p253-4	p253-4	scripture	apparatus-explicit	Eccle. 4, 9	Eccle 4:9	A	verse			
+bon-luc-c10-v1-3	7	apparatus:p253-5	p253-5	scripture	apparatus-explicit	Cant. 4, 2	Cant 4:2	A	verse			
+bon-luc-c10-v1-3	7	apparatus:p253-6	p253-6	scripture	apparatus-explicit	Gen. 6, 19	Gen 6:19	A	verse			
+bon-luc-c10-v1-3	7	apparatus:p253-12	p253-12	scripture	apparatus-explicit	Matth. 20, 6	Matth 20:6	A	verse			
+bon-luc-c10-v1-3	7	apparatus:p254-1	p254-1	scripture	apparatus-explicit	Psalm. 149, 6	Ps 149:6	A	verse			
+bon-luc-c10-v1-3	7	apparatus:p254-1	p254-1	scripture	apparatus-explicit	Ps. 149, 6	Ps 149:6	A	verse			
+bon-luc-c10-v1-3	7	apparatus:p254-2	p254-2	scripture	apparatus-explicit	Matth. 20, 1	Matth 20:1	A	verse			
+bon-luc-c10-v1-3	7	apparatus:p254-3	p254-3	scripture	apparatus-explicit	Ezech. 1, 14	Ezech 1:14	A	verse			
+bon-luc-c10-v1-3	7	apparatus:p254-3	p254-3	scripture	apparatus-explicit	Prov. 6, 3	Prov 6:3	A	verse			
+bon-luc-c10-v1-3	7	apparatus:p254-5	p254-5	scripture	apparatus-explicit	Psalm. 125, 6	Ps 125:6	A	verse			
+bon-luc-c10-v1-3	7	apparatus:p254-7	p254-7	scripture	apparatus-explicit	Act. 8, 32	Act 8:32	A	verse			
+bon-luc-c10-v1-3	7	apparatus:p254-8	p254-8	scripture	apparatus-explicit	Isai. 65, 25	Isai 65:25	A	verse			
+bon-luc-c10-v1-3	7	apparatus:p254-8	p254-8	scripture	apparatus-explicit	Gen. 49, 27	Gen 49:27	A	verse			
 bon-luc-c2-v1-7	7	latin_body	p44-5	scripture	body-ordinal	Ieremiae vigesimo tertio	Ierem 23:5	B	verse			
 bon-luc-c2-v1-7	7	latin_body	p44-7	scripture	body-ordinal	Danielis secundo	Dan 2:40	B	verse			
 bon-luc-c2-v1-7	7	latin_body		scripture	body-ordinal	Ieremiae vigesimo septimo	Ierem 27	C	chapter			
