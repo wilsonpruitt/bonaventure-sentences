@@ -5946,6 +5946,28 @@ KNOWN_TOTALS_VOL7 = {
              # vobis etc.; idem recurrit infra n. 29, ubi H exhibet autem, quod hic omittit.*; n.14 at *ibi*14,
              # *Vers. 9.*; all three anchor and print RIGHT; read at 1.25x for the hand-off only). Gutter 1297
              # (rows 0.08-0.60, band 1269-1326, rule 1292-1302).
+             # Re-derived by bon-luc-c11-v5-13 at 1.0-2.2x: nn.12-14 true in digit and anchor (n.13 *Vers. 11.*,
+             # flagged 1s, Luke 11:11; *infra n. 29*; sigla A C D F G). Gutter 1299 below para 17 (rows 0.40-0.66,
+             # band 1269-1330, rule 1298-1302).
+    283: 14, # bon-luc-c11-v5-13. Anchors L 1-7 / R 8-14. Blocks L 1-7 / R 8-14. n.7 RUNS OVER THE GUTTER
+             # (B. Albert / Isidore -> head of R). Gutter 1151 (band 1120-1182, rule 1150-1153).
+    284: 12, # bon-luc-c11-v5-13. Anchors L 1-7 / R 8-12. Blocks L 1-7 / R 8-12. No runover. Gutter 1320
+             # (band 1291-1348, rule 1315-1323).
+    285: 13, # bon-luc-c11-v5-13. Anchors L 1-6 / R 7-13. Blocks L 1-6 / R 7-13. n.6 RUNS OVER THE GUTTER
+             # (Hilary); n.13 (Chrysostom, Homil. 43 in Ioan.) RUNS OVER THE PAGE into the head of p.286's LEFT
+             # block. Gutter 1143 (band 1115-1171, rule 1138-1148).
+    286: 13, # bon-luc-c11-v5-13. LEFT block opens unnumbered with p.285 n.13's tail. Anchors L 1-5 / R 6-13.
+             # Blocks L 1-4 / R 5-13. n.4 RUNS OVER THE GUTTER; n.5 anchors LEFT, prints RIGHT. Gutter 1301
+             # (band 1275-1327, rule 1294-1307).
+    287: 13, # bon-luc-c11-v5-13. Anchors L 1-7 / R 8-13. Blocks L 1-6 / R 7-13. n.6 RUNS OVER THE GUTTER;
+             # n.7 anchors LEFT, prints RIGHT. Gutter 1145 (band 1117-1174, rule 1141-1151).
+    288: 11, # SHARED, THE p.288 GATE. nn.1-3 bon-luc-c11-v5-13 (paras 34 tail-35; anchors L 1-3: *Iacobi
+             # primo*1, *Sapientiae septimo*2, *Psalmi*3; para 35 closes ~0.37 of 288L on *Spiritus est qui postulat
+             # etc.*). nn.4-11 PENDING for the next interval's first chunk (para 36 *Et erat Iesus*4 *eiiciens
+             # daemonium* etc., ~0.385 of 288L; the italic t2, the 288R t3 and three t4s stand INSIDE para 36):
+             # n.4 at *Iesus*4 (Vulgata omittit Iesus...), n.5 *quarto capitulo*5, n.6 *quinto*6 (prints LEFT, RUNS
+             # OVER THE GUTTER into the head of the RIGHT block), nn.7-11 anchor 288R; blocks L 1-6 / R 7-11; read
+             # at 0.3x for the hand-off only. Gutter 1289 (rows 0.08-0.36, band 1258-1321, rule 1289-1292).
 }
 
 KNOWN_TOTALS_BY_VOL = {
