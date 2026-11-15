@@ -5243,12 +5243,30 @@ KNOWN_TOTALS_VOL7 = {
              # 84R; nothing of the chunk's body stands on p.85. SKEWED ~10 px: rows 0.15-0.45 band
              # 1269-1323 (midpoint 1296), rows 0.45-0.75 band 1278-1334 (midpoint 1306); one split at
              # 1300 clears both (colcrop default 1308 on 52 px).
-    85: 9,   # FULL leaf count. The leaf opens at the head of 85L on the t4 *Secundo, de genealogia
-             # temporali tria.* (bon-luc-c3-v23-38's); ALL NINE notes anchor below it (para 57 *ultra*,
-             # *vigesimo*, *primo*, ...) and are bon-luc-c3-v23-38's. The footer opens LEFT with p.84
-             # n.14's tail (bon-luc-c3-v21-22's page runover), then nn.1-2 L / nn.3-9 R. Read for the
-             # count by bon-luc-c3-v21-22; the next chunk re-reads every digit. colcrop default 1142
-             # (61 px), not profiled.
+    85: 9,   # bon-luc-c3-v23-38 (all nine). The leaf opens at the head of 85L on the t4 *Secundo, de genealogia
+             # temporali tria.*; para 56 (bon-luc-c3-v21-22's) closed on p.84, so nothing above it. Anchors L 1-3
+             # (para 57 *ultra*, *vigesimo*, *primo*) / R 4-9 (*consequentiam*; para 58 *quarto*, *Beda*,
+             # *secundo*, *occasionatus*, *undecimo*). Footer opens LEFT with p.84 n.14's tail (bon-luc-c3-v21-22's
+             # page runover, NOT counted here); blocks L 1-2 / R 3-9: n.3 prints RIGHT while it anchors LEFT. No
+             # runover of its own. Gutter 1143 (rows 0.10-0.50 band 1113-1174, island 1141-1146; default 1142).
+    86: 9,   # bon-luc-c3-v23-38. Anchors L 1-5 (para 58 *competit*, *viro*, *primo*, *gesserunt*; para 59
+             # *primo*) / R 6-9 (*Mariae*; para 60 *Abrahae*, *Evangelistarum*, *tertio*). Blocks L 1-8 + n.9
+             # head / R n.9 tail: n.9 (Origen/Jerome/Augustine on the 42 generations) RUNS OVER THE GUTTER
+             # (*has 42 gene-* | *rationes correspondere*); nn.6-8 print LEFT while they anchor RIGHT.
+             # Gutter 1311 (band 1280-1340, island 1307-1314; rows 0.45-0.75 give 1312).
+    87: 9,   # bon-luc-c3-v23-38. Anchors L 1-5 (para 60 *libri*, *Augustinus*, *finem*, *articulari*; para 61
+             # *causa*) / R 6-9 (para 61 *nem* of *denominationem*, *quadraginta*; para 62 *dumtaxat*; para 63
+             # *primo*). Blocks L 1-5 + n.6 head / R n.6 tail + 7-9: n.6 RUNS OVER THE GUTTER (*post ab exordio
+             # in D* | *secunda manus addidit*). Gutter 1158 (rows 0.10-0.50 band 1126-1188 -> 1157; rows
+             # 0.45-0.75 band 1130-1190 -> 1160; one split holds).
+    88: 12,  # FULL leaf count; SHARED. nn.1-9 bon-luc-c3-v23-38's: para 63's continuation fills the top of both
+             # columns and closes Cap. III on 88R (*in saecula saeculorum. Amen ».*), anchors L 1-5 (*primo*,
+             # *undecimo*, *quarto*, *quarto*, *quinto*) / R 6-9 (*sexto*, *primo*, *septimo*, *undecimo*).
+             # nn.10-12 belong to CAPITULUM IV (full measure below Cap. III), whose t1 *Pars II. De praedicationis
+             # magisterio agitur dupliciter.* (88L) and para 1 carry *Supra*10, *manifestare*11 and, on 88R
+             # under the italic t2 *Primo explicatur veritas doctrinae quadrupliciter.*, *quinto*12. Blocks
+             # L 1-7 / R 8-12 (nn.6-7 print LEFT, anchor RIGHT); n.12 RUNS OVER THE PAGE onto p.89 (Cap. IV's).
+             # Gutter 1292 (rows 0.10-0.55 band 1273-1310, 38 px, heavy 13 px island 1288-1300).
 }
 
 KNOWN_TOTALS_BY_VOL = {
