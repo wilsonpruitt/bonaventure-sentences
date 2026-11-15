@@ -5616,6 +5616,23 @@ KNOWN_TOTALS_VOL7 = {
              # the 188L t4 *In secunda parte Apostoli instruuntur specialiter in doctrina mystica Scripturarum.*:
              # n.6 at *Supra*, n.7 at *ibi* 188L; n.8 at *ibi* 188R under the 188R t4). Blocks L 1-4 / R 5-8
              # (nn.3-4 anchor RIGHT, print LEFT). Gutter 1280 (rows 0.10-0.45, band 1253-1308, rule 1275-1286).
+             # Hand-off re-derived true by bon-luc-c8-v1-10 (nn.6-7 anchor 188L, n.8 188R; all three print in the
+             # RIGHT block). Gutter below the heading 1289 (rows 0.55-0.80, band 1259-1319, rule 1286-1293).
+    189: 11, # bon-luc-c8-v1-10. Anchors L 1-4 / R 5-11. Blocks L 1-7 / R 8-11 (nn.5-7 anchor RIGHT, print
+             # LEFT). No runover. Gutter 1159 (band 1131-1187, rule 1155-1165).
+    190: 10, # bon-luc-c8-v1-10. Anchors L 1-6 / R 7-10. Blocks L 1-5 head / R 5 tail + 6-10: n.5 (Chrysostom,
+             # Exp. in Ps. 48 + Hom. 44 in Matth.) RUNS OVER THE GUTTER (*excitat... Nec* | *ideo solum*). n.6
+             # anchors LEFT, prints RIGHT. Gutter 1283 (band 1252-1314, rule 1281-1285).
+    191: 11, # bon-luc-c8-v1-10. Anchors L 1-7 / R 8-11. Blocks L 1-6 / R 7-11 (n.7 anchors LEFT, prints
+             # RIGHT). No runover. Gutter 1163 (band 1133-1194, rule 1161-1166).
+    192: 10, # bon-luc-c8-v1-10. Anchors L 1-6 / R 7-10. Blocks L 1-4 / R 5-10 (nn.5-6 anchor LEFT, print
+             # RIGHT). No runover. Gutter 1304 (band 1274-1335, rule 1301-1308).
+    193: 13, # SHARED. nn.1-9 bon-luc-c8-v1-10 (para 16 closes ~0.26 of 193R on *...revelasti ea parvulis ».*
+             # above the t4 *Secundo ponitur informatio apostolica in apertis eloquiis per duo.* at ~0.28; n.9 at
+             # *Matthaei undecimo* 193R); nn.10-13 bon-luc-c8-v11-21 (para 17 under the t4: n.10 at the first
+             # *ibi*, nn.11-13 below). Anchors L 1-7 / R 8-13. Blocks L 1-6 head / R 6 tail + 7-13: n.6
+             # (Chrysostom, Hom. 45 in Matth.) RUNS OVER THE GUTTER (*dicebant [Matth.* | *9, 34.]*); n.7 anchors
+             # LEFT, prints RIGHT. Gutter 1144 (rows 0.15-0.60, band 1113-1176, rule 1143-1145).
 }
 
 KNOWN_TOTALS_BY_VOL = {

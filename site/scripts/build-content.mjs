@@ -1144,6 +1144,13 @@ const WORKS = {
       // excellentiam potestatis probatam per duo miracula.` (unanchored)
       // standing at the head of 165R inside para 1, which titles the chunk.
       7: "Capitulum VII",
+      // `CAPITULUM VIII.` read in place on p. 188 at bon-luc-c8-v1-10: full-measure
+      // centred small capitals at ~0.47, directly below Cap. VII's last para 84
+      // (…et multos avertit ab iniquitate ».), no subtitle, unanchored. Below it
+      // the 188L t4 `In secunda parte Apostoli instruuntur specialiter in doctrina
+      // mystica Scripturarum.` over para 1 and the 188R t4 `Primo ponitur
+      // instructio parabolica in occultis mysteriis per tria.` (title_la, ruling 22).
+      8: "Capitulum VIII",
     },
   },
 };
