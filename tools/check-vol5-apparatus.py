@@ -5396,6 +5396,26 @@ KNOWN_TOTALS_VOL7 = {
              # 123R, *Vers. 20; tertium habetur v. 26.*). Blocks L (p.122 n.11 tail) 1-6 head / R 6 tail + 7-10:
              # n.6 RUNS OVER THE GUTTER (mine). Para 39 closes at ~0.19 of 123R directly above para 40.
              # Gutter 1162 (band 1132-1192, rule 1161-1165).
+             # Re-read whole by bon-luc-c5-v17-26 at 0.75x and 1.7x: count 10 and the split right; nn.7-10 print
+             # in the RIGHT block below n.6's tail, anchors all 123R (n.7 *ibi*, n.8 *Iesus*, n.9 *vigesimo
+             # tertio*, n.10 *secundo*).
+    124: 12, # bon-luc-c5-v17-26. Anchors L 1-6 / R 7-12. Blocks L 1-7 / R 8-12, none over the gutter (n.7,
+             # Gal. 6, 2, anchors R and prints last in the L block). Gutter 1292 (default 1296 on 57 px; profile
+             # band 1264-1319, rule 1286-1298 heavy, midpoint 1291-1292).
+    125: 14, # bon-luc-c5-v17-26. Anchors L 1-6 / R 7-14. Blocks L 1-10 / R 11-14, none over the gutter.
+             # n.13's numeral prints like *18* (worn 3; sequence 12-13-14). Gutter 1176 (band 1146-1207).
+    126: 11, # bon-luc-c5-v17-26. Anchors L 1-5 / R 6-11. Blocks L 1-7 head / R 7 tail + 8-11: n.7 (Glossa,
+             # Jerome on Matth. 9, 5) RUNS OVER THE GUTTER (*Glossa ordinaria: « Ecce,* | *per remissionem
+             # poenae...*); n.11 (Martial, Sipontinus, Card. Hugo) RUNS OVER THE PAGE: its tail (*Sipontinus:
+             # Grabatum proprie...* to *...quod scilicet est caput.*) opens p.127's LEFT footer block unnumbered.
+             # Gutter 1283 (band 1252-1313).
+    127: 11, # bon-luc-c5-v17-26. Anchors L 1-6 / R 7-11. Blocks L (p.126 n.11 tail) 1-3 / R 4-11, none over
+             # the gutter. Gutter 1163 (band 1134-1194).
+    128: 12, # FULL leaf count; SHARED. nn.1-9 bon-luc-c5-v17-26's (n.9 at para 62 *secundo*, Eccli. 32, 15,
+             # the chunk's last anchor, 128R); nn.10-12 belong to bon-luc-c5-v27-39 (n.10 para 63 *Supra*, below
+             # the 128R t4 *Secundo, quomodo vocentur discipuli de statu culpae.*: *Cfr. n. 1.*; n.11 *Cap. 6, 1.*;
+             # n.12 *Vers. 30; tertium habetur v. 33.*). Anchors L 1-6 / R 7-12. Blocks L 1-5 / R 6-12, none over
+             # the gutter or the page. Gutter 1279 (band 1249-1308).
 }
 
 KNOWN_TOTALS_BY_VOL = {
