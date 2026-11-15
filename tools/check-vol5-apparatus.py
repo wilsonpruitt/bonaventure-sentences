@@ -5290,6 +5290,21 @@ KNOWN_TOTALS_VOL7 = {
              # testimonio Scripturae.*). nn.11-12 belong to the next chunk (para 26 *supra*11, *ibi*12). Blocks
              # L 1-6 / R 7-12; no runover. Corrigenda p.95 col.1 penult. *prosequitur* -> *persequitur* (para 24)
              # applied with tr-corrigenda. Gutter 1155 (rows 0.45-0.75 band 1126-1184; default 1155).
+             # nn.11-12 bon-luc-c4-v14-22's (para 26 *supra*11, *ibi*12, 95R), re-read on the plate: right.
+    96: 10,  # bon-luc-c4-v14-22. Anchors L 1-6 / R 7-10. Blocks L 1-7 / R 8-10 (n.7 *quinto* anchors RIGHT, prints
+             # LEFT). No runover. Gutter 1305 (rows 0.45-0.75 band 1275-1336, island 1302-1309; default 1307, 56 px).
+    97: 10,  # bon-luc-c4-v14-22. Anchors L 1-5 / R 6-10. Blocks L 1-6 / R 7-10 (n.6 anchors RIGHT, prints LEFT).
+             # No runover. Signature 13 at the foot. Gutter 1166 (default, 62 px).
+    98: 13,  # bon-luc-c4-v14-22. Anchors L 1-6 / R 7-13. Blocks L 1-6 / R 7-13. No runover. Gutter 1257 (band
+             # 1228-1286, island 1253-1262; default 1258, 54 px).
+    99: 12,  # bon-luc-c4-v14-22. Anchors L 1-6 / R 7-12. Blocks L 1-6 head / R 6 tail + 7-12 head: n.6 (Bede
+             # after the ordinary Gloss) RUNS OVER THE GUTTER; n.12 (Augustine, in Ioan. tr. 9) RUNS OVER THE PAGE
+             # onto the head of p.100's LEFT footer, counted here. Gutter 1182 (band 1153-1212; default 1181, 53 px).
+    100: 10, # FULL leaf count; SHARED. nn.1-2 bon-luc-c4-v14-22's (para 46 *nono*1, *eius*2, 100L, which closes
+             # the chunk at ~0.35 of 100L above the t4 *Secundo affertur testimonium Scripturae ad confutationem
+             # detrahentium.*). nn.3-10 belong to the next chunk (para 47 *ibi*3 on). LEFT footer opens on p.99
+             # n.12's tail (not counted here); blocks L 1-8 head / R 8 tail + 9-10 (n.8 runs over the gutter: the
+             # next chunk's to ledger). Gutter 1278 (default, 58 px).
 }
 
 KNOWN_TOTALS_BY_VOL = {
