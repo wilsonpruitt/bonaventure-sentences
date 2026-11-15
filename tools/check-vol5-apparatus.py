@@ -5483,6 +5483,22 @@ KNOWN_TOTALS_VOL7 = {
              # ~0.27, no heading). Anchors L 1-7 / R 8-11. Blocks L 1-6 head / R 6 tail + 7-11: n.6 (Jerome on
              # *Tyrus*) RUNS OVER THE GUTTER (*...de libro Iesu* | *(Iosue)*); n.7 anchor LEFT, print RIGHT.
              # Gutter 1159.
+             # bon-luc-c6-v20-26 re-read the leaf: nn.10-11 confirmed in 147R (n.10 para 49 *ibi*, n.11 Eph. 3
+             # *tertio*), both printed in the RIGHT block; count 11 confirmed.
+    148: 10, # bon-luc-c6-v20-26. Anchors L 1-5 / R 6-10; blocks L 1-5 / R 6-10. No runover. Gutter 1321
+             # (band 1291-1351; default 1324 on 58 px).
+    149: 12, # bon-luc-c6-v20-26. Anchors L 1-6 / R 7-12. Blocks L 1-11 head / R 11 tail + 12: n.11 (I Pet.
+             # 3:14 + Augustine Enarr. in Ps. 34) RUNS OVER THE GUTTER (*Qui factus est* | *nobis sapientia*);
+             # nn.7-10 anchor RIGHT, print LEFT. Gutter 1144 (band 1113-1175).
+    150: 11, # bon-luc-c6-v20-26. Anchors L 1-5 / R 6-11. Blocks L 1-7 head / R 7 tail + 8-11: n.7 (Tob. 5:4
+             # + fraudatur) RUNS OVER THE GUTTER (*et Esther* | *16, 22. seq.*); n.6 anchors RIGHT, prints LEFT.
+             # Gutter 1297 (band 1267-1327).
+    151: 12, # bon-luc-c6-v20-26. Anchors L 1-6 / R 7-12. Blocks L 1-4 / R 5-12 (nn.5-6 anchor LEFT, print
+             # RIGHT). n.12 (Vulgate omits *omnes*) RUNS OVER THE PAGE onto p.152's left block head (*Duo seqq.
+             # loci* | *sunt Prov. 27, 14.*). Gutter 1171 (band 1142-1200).
+    152: 14, # bon-luc-c6-v20-26, the WHOLE register (para 63 closes at 152R foot; para 64 opens 153L top, no
+             # heading). Anchors L 1-7 / R 8-14. Blocks L (p.151 n.12 tail) 1-8 head / R 8 tail + 9-14: n.8
+             # (I John 4:18) RUNS OVER THE GUTTER (*foras mittit timo-* | *rem...*). Gutter 1312 (band 1283-1341).
 }
 
 KNOWN_TOTALS_BY_VOL = {
