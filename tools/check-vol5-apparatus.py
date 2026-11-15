@@ -5693,6 +5693,23 @@ KNOWN_TOTALS_VOL7 = {
              # Iesus* below, no heading: n.10 *Supra*, n.11 *ibi: Adhuc illo loquente*; both 208R). Blocks
              # L 1-4 / R 5-11 (n.5 anchors LEFT, prints RIGHT). No runover. Gutter 1305 (rows 0.20-0.50,
              # band 1276-1335, rule 1301-1309).
+             # Hand-off re-derived true by bon-luc-c8-v40-48 (n.10 *Supra*, n.11 *ibi: Adhuc illo loquente*; both
+             # 208R below para 71, both print RIGHT). Gutter re-measured below the joint: 1313 (rows 0.50-0.70,
+             # band 1284-1342, rule 1308-1316).
+    209: 13, # bon-luc-c8-v40-48. Anchors L 1-5 / R 6-13. Blocks L 1-6 / R 7-13 (n.6 anchors RIGHT, prints LEFT).
+             # No runover. Gutter 1155 (rows 0.20-0.50, band 1124-1186, rule 1154-1157).
+    210: 12, # bon-luc-c8-v40-48. Anchors L 1-6 / R 7-12. Blocks L 1-5 / R 6-12 (n.6 anchors LEFT, prints RIGHT).
+             # No runover. Gutter 1289 (rows 0.20-0.50, band 1260-1319, rule 1287-1292).
+    211: 11, # bon-luc-c8-v40-48. Anchors L 1-6 / R 7-11. Blocks L 1-5 / R (n.5 tail) + 6-11. n.5 RUNS OVER THE
+             # GUTTER (*...Superius post par-* | *ticulae H addit ...*). Gutter 1156 (rows 0.20-0.50, band 1127-1185).
+    212: 12, # bon-luc-c8-v40-48. Anchors L 1-6 / R 7-12. Blocks L 1-6 / R 7-12. No runover. Gutter 1279 (rows
+             # 0.20-0.50, band 1249-1310, rule 1277-1280).
+    213: 11, # SHARED. nn.1-3 bon-luc-c8-v40-48 (para 86 closes ~0.46 of 213L on *...cogitatione armamini.*; all
+             # three anchor 213L); nn.4-11 bon-luc-c8-v49-56 (para 87 *Adhuc illo loquente* below, no heading: n.4
+             # *puellae*, n.5 *ibi: Et cum pervenisset*, n.6 *Danielis decimo*, n.7 *secundi Regum duodecimo*, n.8
+             # *Magistrum*, n.9 *Ioannis quinto*, n.10 *Proverbiorum vigesimo sexto*, n.11 *Dixit*; nn.4-5 L,
+             # 6-11 R). Blocks L 1-8 / R (n.8 tail) + 9-11 (n.8 RUNS OVER THE GUTTER). Gutter 1158 (rows
+             # 0.10-0.45, band 1128-1188, rule 1154-1161).
 }
 
 KNOWN_TOTALS_BY_VOL = {
