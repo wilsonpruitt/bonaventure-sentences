@@ -5927,6 +5927,25 @@ KNOWN_TOTALS_VOL7 = {
              # Cap. XI para 1's *formam orandi*7, 277L below the t4, prints seventh in the LEFT block and RUNS OVER
              # THE GUTTER into the RIGHT; read at 1.25x for the hand-off only). Gutter 1159 above the heading
              # (rows 0.06-0.20), 1157 below it (band 1126-1188, rule 1155-1160).
+             # Re-derived by bon-luc-c11-v1-4 at 2.0-2.2x: nn.7-13 true in digit and anchor. Anchors (mine) L 7-10 /
+             # R 11-13. Blocks L 1-7 / R 8-13; n.7 RUNS OVER THE GUTTER (L -> head of R); nn.8-10 anchor LEFT,
+             # print RIGHT. n.7 and n.12 both print *in Luc. 10, 1* (flagged 1s, no crossbar) for Luke 11:1.
+    278: 14, # bon-luc-c11-v1-4. Anchors L 1-6 / R 7-14. Blocks L 1-8 / R 9-14. n.8 RUNS OVER THE GUTTER;
+             # nn.7-8 anchor RIGHT, print LEFT. Gutter 1312 (band 1282-1341, rule 1309-1314).
+    279: 12, # bon-luc-c11-v1-4. Anchors L 1-7 / R 8-12. Blocks L 1-7 / R 8-12. No runover. Gutter 1170
+             # (band 1139-1201, rule 1167-1174).
+    280: 12, # bon-luc-c11-v1-4. Anchors L 1-6 / R 7-12. Blocks L 1-6 / R 7-12. n.6 RUNS OVER THE GUTTER.
+             # Gutter 1278 (band 1247-1309, rule 1276-1281).
+    281: 12, # bon-luc-c11-v1-4. Anchors L 1-6 / R 7-12. Blocks L 1-2 / R 3-12. n.2 RUNS OVER THE GUTTER;
+             # nn.3-6 anchor LEFT, print RIGHT. Gutter 1143 (a 9 px skew: rows 0.10-0.40 band 1112-1167 -> 1139,
+             # rows 0.40-0.70 band 1120-1177 -> 1148; one split suffices, max L edge 1142 < min R edge 1147).
+    282: 14, # SHARED. nn.1-11 bon-luc-c11-v1-4 (paras 15 tail-17, para 17 closing ~0.39 of 282R on *sed haec
+             # sufficiat ad praesens.*; anchors L 1-7 / R 8-11; blocks L 1-7 / R 8-14; no runover); nn.12-14
+             # bon-luc-c11-v5-13 (para 18 *Et ait ad illos: Quis vestrum* etc., 282R below para 17: n.12 at
+             # *orandi incitamentum*12, *Cfr. supra n. 1.*; n.13 at *ibi*13, *Vers. 11. Codd. ACDFG Quis ergo ex
+             # vobis etc.; idem recurrit infra n. 29, ubi H exhibet autem, quod hic omittit.*; n.14 at *ibi*14,
+             # *Vers. 9.*; all three anchor and print RIGHT; read at 1.25x for the hand-off only). Gutter 1297
+             # (rows 0.08-0.60, band 1269-1326, rule 1292-1302).
 }
 
 KNOWN_TOTALS_BY_VOL = {

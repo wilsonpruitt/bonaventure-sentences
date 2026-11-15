@@ -1168,6 +1168,13 @@ const WORKS = {
       // pars agit de missione discipulorum comitantium tripliciter.` and carried
       // in the Corrigenda's reformed wording (p. 858; title_la, rulings 4/8/22).
       10: "Capitulum X",
+      // `CAPITULUM XI.` read in place on p. 277 at bon-luc-c11-v1-4: full-measure
+      // centred small capitals at ~0.31, directly below Cap. X's last para 80
+      // (…« nec primam similem visa est nec habere sequentem ».), no subtitle,
+      // unanchored. Below it in 277L the t4 `Tertia pars agit de forma orandi
+      // tripliciter.` over para 1 (title_la, ruling 22). The running head of p. 277
+      // already reads C. XI. above Cap. X's paras 79-80.
+      11: "Capitulum XI",
     },
   },
 };
