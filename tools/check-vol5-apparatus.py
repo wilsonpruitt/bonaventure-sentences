@@ -5322,6 +5322,19 @@ KNOWN_TOTALS_VOL7 = {
              # belong to bon-luc-c4-v31-37 (para 64 *testimonium*10 on). Anchors L 1-8 / R 9-13. Blocks L (p.103
              # n.12 tail) 1-5 head / R 5 tail + 6-13: n.5 (Gloss/Cornelius a Lapide) RUNS OVER THE GUTTER. Gutter
              # 1308 (band 1279-1338, centre rule 1304-1314; default 1311 on 55 px).
+             # Re-read at bon-luc-c4-v31-37: AGREE (13; nn.10-13 anchor 104R, paras 64-65, printed RIGHT, none runs over).
+    105: 13, # bon-luc-c4-v31-37. Anchors L 1-5 / R 6-13. Blocks L 1-3 / R 4-13 (nn.4-5 anchor LEFT, print
+             # RIGHT). n.13 (Vat. *Praemittitur autem primo...*) RUNS OVER THE PAGE onto the head of p.106's LEFT
+             # footer (*quoad primam partem conveniunt cum Vat....*), counted here. Gutter 1154 (band 1123-1186,
+             # 64 px, rule 1153-1158; default 1153 on 61 px).
+    106: 11, # bon-luc-c4-v31-37. Anchors L 1-5 / R 6-11. Blocks L (p.105 n.13 tail) 1-5 head / R 5 tail + 6-11:
+             # n.5 (II. Cor. 6, 14. seq.: *Quae enim | participatio...*) RUNS OVER THE GUTTER. Gutter 1294 (band
+             # 1264-1324, 61 px, rule 1292-1296; default 1294 on 62 px).
+    107: 12, # FULL leaf count; SHARED. nn.1-11 bon-luc-c4-v31-37's (paras 75-78; n.11 para 78 *Romanorum*, 107R,
+             # the last anchor above para 79); n.12 (*Ita D; A H (bene) confirmandum...*) anchors para 79
+             # *ostendendum*12 and is bon-luc-c4-v38-44's. Anchors L 1-7 / R 8-12. Blocks L 1-8 head / R 8 tail +
+             # 9-12: n.8 (IV. Reg. 2, 15 [sic]; Rabanus; Sacra Biblia) RUNS OVER THE GUTTER. Gutter 1172 (band
+             # 1144-1200, 57 px, rule 1167-1177; default 1168 on 57 px, escalated; crops at 1168 read whole).
 }
 
 KNOWN_TOTALS_BY_VOL = {
