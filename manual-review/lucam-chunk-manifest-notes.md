@@ -137,3 +137,147 @@ Both belong to Cap. IV. The running head of p. 88 already reads `C. IV.`
 - **Verse ends** with no `(Vers. N.)` tag (c. 1 v. 38, c. 3 v. 9, v. 22, v. 38) are taken from the lemma
   sequence.
 - **The ~N pp extents** are estimates.
+
+---
+
+# Stage 2 notes (Cap. IV–VII, pp. 88–188; 2026-11-14, Opus)
+
+19 rows appended to `lucam-chunk-manifest.tsv` (IV 5 · V 4 · VI 6 · VII 4). Labels as in stage 1: **MEASURED**
+(read on a 300 dpi plate crop this session) or **PREDICTION** (text layer only). No chunk was built.
+
+## Plates read (MEASURED)
+
+Plates pp. 89–188 extracted at 300 dpi (`raw/vision/vol7/p-089 … p-188.png`). Two screens found the headings,
+because the text layer misses the larger-roman tier (t3) and garbles the small-bold one:
+
+- a **plate screen** over every page 88–188: each column's text lines segmented from the image, and every line
+  indented equally on both sides (a centred line) flagged. Checked first against stage 1's known headings on pp.
+  54, 56, 65, 75, 78, 81 (all caught; p. 62, which has none, gave none);
+- the **text layer's** small-type lines in the body zone.
+
+Every flagged line, and every row boundary, was then read on a crop: pp. **88** (full), **89L**, **89R**, **91R**,
+**95L**, **95R**, **98L**, **98R**, **100L**, **104L**, **104R**, **107R**, **112** (full), **114L**, **119L**, **123R**,
+**128R**, **134** (full), **140R** (top to ¶ 25), **147R**, **153L**, **156L**, **159R**, **160R**, **162L**, **165**
+(full), **168R**, **170L**, **173L**, **177L**, **182L**, **188** (full), **188R**. The flagged lines that were not
+headings were footnote lines (89R, 91R, 98L), paragraph indents (98R, 168R), a full-measure line (159R) and a
+centred verse (162L, *Turpe est doctori, dum culpa redarguit ipsum*).
+
+## Headings found in pp. 88–188 (MEASURED; wording from the plate)
+
+| Page | Tier (typography) | Wording | Row |
+|---|---|---|---|
+| 88 | capitulum | CAPITULUM IV. | c4-v1-13 |
+| 88L | t1 (large roman) | Pars II. De praedicationis magisterio agitur dupliciter. | c4-v1-13 |
+| 88R | t2 (italic) | *Primo explicatur veritas doctrinae quadrupliciter.* | c4-v1-13 |
+| 89L | t4 (small bold) | Authenticatur doctrina Christi ex merito vitae. | c4-v1-13 |
+| 95R | t4 | Authenticatur doctrina Christi ex testimonio Scripturae. | c4-v14-22 |
+| 95R | t4 | Primo testimonium Scripturae affertur ad eruditionem credentium. | c4-v14-22 |
+| 100L | t4 | Secundo affertur testimonium Scripturae ad confutationem detrahentium. | c4-v22-30 |
+| 104R | t4 | Authenticatur doctrina Christi ex miraculo potentiae. | c4-v31-37 |
+| 112 | capitulum | CAPITULUM V. | c5-v1-11 |
+| 112L | t3 (larger roman) | Secundo determinatur discipulorum vocatio per duo. | c5-v1-11 |
+| 112R | t4 | Primo, quomodo vocentur discipuli de statu iustitiae. | c5-v1-11 |
+| 128R | t4 | Secundo, quomodo vocentur discipuli de statu culpae. | c5-v27-39 |
+| 134 | capitulum | CAPITULUM VI. (nothing below it: ¶ 1 follows directly) | c6-v1-11 |
+| 140R | t3 (larger roman) | Tertio determinatur vocatorum instructio per duo. | c6-v12-19 |
+| 140R | t4 | In prima parte Apostoli instruuntur in veritate explicata et praeceptis apertis. | c6-v12-19 |
+| 140R | t4 | Primo exprimitur veritas doctrinae tripliciter. | c6-v12-19 |
+| 165 | capitulum | CAPITULUM VII. | c7-v1-16 |
+| 165L | t4 | Secundo declaratur sublimitas in Doctore tripliciter. | c7-v1-16 |
+| 165R | t4 | Primo propter excellentiam potestatis probatam per duo miracula. | c7-v1-16 |
+| 173L | t4 | Secundo, declaratur sublimitas Doctoris propter evidentiam veritatis per testimonium Praecursoris. | c7-v17-23 |
+| 182L | t4 | Tertio declaratur sublimitas Doctoris propter affluentiam pietatis tripliciter. | c7-v36-50 |
+| 188 | capitulum + t4 + t4 | CAPITULUM VIII. / In secunda parte Apostoli instruuntur specialiter in doctrina mystica Scripturarum. / Primo ponitur instructio parabolica in occultis mysteriis per tria. | (c. 8) |
+
+Tier labels are by typography, as in stage 1. Several Tabula members are set in small bold (89L, 95R, 104R), so
+they are labelled **t4**. Two members are in the larger roman (112L, 140R), so they are labelled **t3**. The
+headings stand far apart:
+
+- **c. 5:** 112R to 128R is ~16 pp.
+- **c. 6:** 140R to 165 is ~25 pp, and the editors put the members in the margin (as at c. 2 vv. 25–39).
+
+Rows in those stretches are cut at Bonaventure's divisio paragraphs (ruling 1b). Every one of them is named in a
+higher paragraph's own *ibi:* list.
+
+## Last paragraph per capitulum (MEASURED)
+
+**IV = 98** (112R). **V = 85** (134L). **VI = 111** (165R; ⚠ the setup table says **109**: wrong). **VII = 84**
+(188R, Vers. 50). Each capitulum's first and last pages are as the setup table predicts (88–112, 112–134, 134–165,
+165–188). **No capitulum overran.**
+
+## Corrections to the scouting sheet and setup table (MEASURED)
+
+- **Cap. VI last ¶ = 111, not 109.** ¶ 111 is *Subiungit postremo negligentis praecipitium*, ending in the
+  marginal *Epilogus*.
+- **Cap. V is 4 chunks, not the scouting sheet's 5.** Its demonstration split *de statu culpae* at ¶ 75 (vv.
+  27–29 / 30–39). That cut is unlicensed: the 128R heading and `CAPITULUM VI.` stand ~5.9 pp apart, under 8. So
+  ¶¶ 63–85 is one row.
+- The other scouting cuts in c. 5 hold, at the plate: ¶ 24 (119L) and ¶ 40 (123R), divisio paragraphs with no
+  heading, marginalia only.
+- **CAPITULUM VI. has no heading under it.** The opening stack is the capitulum alone, so `bon-luc-c6-v1-11`
+  takes a sentence title (see "Needs a look").
+- **The 140R t3 *Tertio determinatur vocatorum instructio per duo.* stands ABOVE ¶ 24.** The text layer misses
+  it. So `bon-luc-c6-v12-19` opens on a heading, not on a bare divisio.
+- **c. 7 verse joint:** ¶ 33's lemma *Et exiit hic sermo* is **v. 17**. So the c. 7 rows are vv. 1–16 / 17–23,
+  not 1–17.
+- **c. 4 v. 22 is shared** by `c4-v14-22` and `c4-v22-30`: ¶ 46 and ¶ 48 are both tagged (Vers. 22.).
+
+## `low` rows (5), with the alternatives
+
+1. **`bon-luc-c4-v31-37` and `bon-luc-c4-v38-44` (¶¶ 64–78 / 79–98).**
+   - **The problem:** the *ex miraculo potentiae* member runs from 104R to `CAPITULUM V.`, ~8.1 pp. That is over
+     cap 8, and the heading gap is over ~8, so a divisio cut is licensed. ¶ 64's own three-part division leaves
+     fragments at both of its joints (¶ 69 after 1.2 pp; ¶ 92 with 1.8 pp left).
+   - **Chosen:** ¶ 79 (*Post miraculosam curationem sexus virilis … sexus muliebris*; cf. ruling 26's Anna
+     cut), giving 3.3 + 4.8 pp.
+   - **Alternatives:** (a) ¶ 87 (*Cum autem sol occidisset*, the universal cure, 109R), giving 5.0 + 3.1 pp;
+     (b) no cut, one pass at ~8.1 pp.
+2. **`bon-luc-c5-v1-11` (¶¶ 1–23, ~6.4 pp).**
+   - **Kept whole.** ¶ 1's three-part division offers ¶ 9 (*Ut cessavit autem loqui*, 115L), which gives ~2.7 +
+     3.7 pp. That sits on the edge of stage 1's ≥ 2.7 test. The other joint, ¶ 18, would leave 1.6 pp.
+   - **Alternative:** cut at ¶ 9.
+3. **`bon-luc-c6-v27-31` and `bon-luc-c6-v32-38` (¶¶ 64–76 / 77–91).**
+   - **The problem:** the *leges praeceptorum* member is ~7.5 pp.
+   - **Chosen:** ¶ 77 (*hic secundo probat ex conditione deficiente*, 156L), giving 3.3 + 4.2 pp.
+   - **Alternatives:** (a) no cut, ~7.5 pp; (b) ¶ 82 or ¶ 86, less even.
+4. **`bon-luc-c7-v1-16` (¶¶ 1–32, ~7.6 pp over 9 printed pp).**
+   - **Kept whole.** The two miracles split cleanly at ¶ 20 (170L foot, marginale *Secundo, de suscitatione
+     mortui tria*), giving ~4.8 + 2.7 pp. But the 165 and 173L headings stand only ~7.6 pp apart, under ruling
+     1b's ~8, so no divisio cut is licensed.
+   - **Alternative:** cut at ¶ 20 (`c7-v1-10` + `c7-v11-16`).
+   - ⚠ This is the one row touching 9 printed pages. Wilson may prefer the cut.
+
+## Rule applications that needed a choice (not `low`)
+
+- **`c4-v1-13` (~7.1 pp) and `c6-v12-19` (~7.1 pp) are kept whole.**
+  - In c. 4, no divisio cut is licensed (the 89L to 95R headings stand ~6.5 pp apart), and ¶ 8 would leave 2.0 pp.
+  - In c. 6, the attractio auditorum joint (¶ 41) leaves 2.1 pp.
+- **`c5-v27-39` (~5.9), `c6-v1-11` (~5.9) and `c7-v36-50` (~6.3) have no licensed internal cut.** Each heading
+  gap is under 8 pp.
+- **`c7-v17-23` / `c7-v24-35`:** the 173L member is ~9.1 pp, so it must be cut. ¶ 47 is the top-order joint of
+  ¶ 33's own division.
+
+## Needs a look (title rule)
+
+**`bon-luc-c6-v1-11`'s `title_la`.** Ruling 22 says "lowest heading of the opening stack", but under `CAPITULUM
+VI.` no heading stands. The row takes ¶ 1's lemma plus its dividing words, as at `c2-v25-35`. If Wilson reads the
+capitulum itself as the stack, the title would be `Capitulum VI.` One word decides it.
+
+## Corrigenda (assigned by page and column; line positions NOT read on the plate)
+
+- **p. 95 col. 1 penult.** → `bon-luc-c4-v1-13`. p. 95 is a boundary page, but col. 1 lies wholly before the
+  95R opening of `c4-v14-22`.
+- **p. 114 col. 2 notes l. 2** → `bon-luc-c5-v1-11`.
+- **p. 168 col. 1 l. 4 from foot** → `bon-luc-c7-v1-16`. It stays in the same row if Wilson takes the ¶ 20 cut:
+  ¶ 20 opens at 170L.
+
+## Size distribution (19 rows)
+
+- **Printed pages touched:** min 4 / mean 6.2 / max 9.
+- **Estimated text extent** (column fractions from text-layer positions; capitulum breaks placed from the
+  plates; PREDICTION): min 3.3 / mean 5.3 / max 7.6 pp.
+
+## Not verified
+
+- **Paragraph numbers inside rows** come from the text layer. Each is anchored by plate-read numbers at both ends.
+- **Verse ends** are taken from the `(Vers. N.)` tags and the lemma of the next row's first paragraph.

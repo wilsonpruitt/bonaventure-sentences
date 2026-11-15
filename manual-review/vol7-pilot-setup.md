@@ -415,3 +415,39 @@ are not repeated. Gate record: `manual-review/vol7-lucam-shakedown-gate.md`. Mec
 
 **Cadence note under ruling 15 (Wilson, this session, 2026-11-14):** the build continues **one Opus agent per chunk,
 SEQUENTIALLY**. A parallel pilot was proposed and **declined**; do not re-propose it as a default.
+
+### MANIFEST STAGE 2 — DRAWN 2026-11-14 (Cap. IV–VII, pp. 88–188; 19 rows appended to `lucam-chunk-manifest.tsv`; notes in `lucam-chunk-manifest-notes.md` § Stage 2)
+
+Rows per capitulum: **IV 5 · V 4 · VI 6 · VII 4**. Every boundary and every heading candidate was read on a 300 dpi
+crop. The candidates came from a centred-line screen over the plates of pp. 88–188, checked against stage 1's
+known headings. The p. 188 gate interval is these 19 chunks, `bon-luc-c4-v1-13` through `bon-luc-c7-v36-50`.
+
+**Corrections made by stage 2 (all MEASURED):**
+
+- **Cap. VI's last ¶ is 111, not 109** (165R). Last ¶ of the other three as predicted: **IV = 98, V = 85, VII =
+  84**. Each capitulum's first and last pages are as predicted, and **none overran.**
+- **Cap. V is 4 chunks, not the scouting sheet's 5.** Its ¶ 75 cut is unlicensed (the 128R heading and
+  `CAPITULUM VI.` stand ~5.9 pp apart), so ¶¶ 63–85 is one row. The ¶ 24 and ¶ 40 cuts hold (no heading; marginalia).
+- **No heading stands under `CAPITULUM VI.`** The 140R t3 *Tertio determinatur vocatorum instructio per duo.*
+  stands ABOVE ¶ 24 and is missed by the text layer.
+- **The c. 7 verse joint is v. 16 / 17:** ¶ 33's lemma *Et exiit hic sermo* is v. 17. **c. 4 v. 22 is shared**
+  by two rows (¶¶ 46 and 48 are both tagged Vers. 22).
+- The headings in cc. 5–6 stand 16 pp and 25 pp apart, so those rows are cut at Bonaventure's divisio paragraphs
+  (ruling 1b). Each cut is named in a higher paragraph's own division.
+
+**Corrigenda:**
+
+- p. 95 → `c4-v1-13`.
+- p. 114 → `c5-v1-11`.
+- p. 168 → `c7-v1-16`.
+
+**`low` rows (5).** The alternatives for each are in the notes.
+
+- `c4-v31-37` / `c4-v38-44`: the ¶ 79 cut of an ~8.1 pp member. Alternatives: ¶ 87, or no cut.
+- `c5-v1-11`: kept whole at ~6.4 pp. Alternative: ¶ 9, giving 2.7 + 3.7.
+- `c6-v27-31` / `c6-v32-38`: the ¶ 77 cut of a ~7.5 pp member.
+- `c7-v1-16`: kept whole at ~7.6 pp over 9 printed pp. The ¶ 20 cut, between the two miracles, is unlicensed
+  because the headings stand ~7.6 pp apart, under 8.
+
+**One title needs a word from Wilson.** Under ruling 22, `c6-v1-11` takes a sentence title, because no heading
+stands under the capitulum.
