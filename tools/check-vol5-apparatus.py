@@ -5738,6 +5738,22 @@ KNOWN_TOTALS_VOL7 = {
              # bon-luc-c9-v10-17 (para 15 *Et reversi Apostoli nuntiaverunt*11, on 220R's last two lines: *Vide
              # supra pag. 216, notam 11.*). Anchors L 1-5 / R 6-11. Blocks L 1-5 / R 6-11. No runover. Gutter 1292
              # (rows 0.20-0.50, band 1261-1324, rule 1291-1294).
+             # Hand-off re-derived true by bon-luc-c9-v10-17 (n.11 at para 15's *nuntiaverunt*, 220R's second-last
+             # line; *Vide supra pag. 216, notam 11.*, printed last in the RIGHT block).
+    221: 14, # bon-luc-c9-v10-17. Anchors L 1-6 / R 7-14. Blocks L 1-8 / R (n.8 tail) + 9-14. n.8 RUNS OVER THE
+             # GUTTER (*...[Hieron., de Situ et nominibus locorum Hebraic.] invenimus.* | *Cfr. Glossa ordinaria (ex
+             # Beda) in Matth. 14, 22. ...*); nn.7-8 anchor RIGHT, print LEFT. Gutter 1173 (rows 0.20-0.50, band
+             # 1143-1204, rule 1170-1177).
+    222: 12, # bon-luc-c9-v10-17. Anchors L 1-7 / R 8-12. Blocks L 1-8 / R (n.8 tail) + 9-12. n.8 RUNS OVER THE
+             # GUTTER (*...Sequitur* | *Ps. 77, 19. ...*); n.8 anchors RIGHT, prints LEFT. Gutter 1314 (rows
+             # 0.20-0.50, band 1286-1343, rule 1310-1318).
+    223: 11, # bon-luc-c9-v10-17. Anchors L 1-4 / R 5-11. Blocks L 1-5 / R (n.5 tail) + 6-11. n.5 RUNS OVER THE
+             # GUTTER (*...A C (D primi-* | *tus) Quinquagenos ...*); n.5 anchors RIGHT, prints LEFT. Gutter 1151
+             # (rows 0.20-0.50, band 1120-1182, rule 1148-1152).
+    224: 11, # bon-luc-c9-v10-17. Anchors L 1-4 / R 5-11. Blocks L 1-5 / R (n.5 tail) + 6-11. n.5 RUNS OVER THE
+             # GUTTER (*...sed si ad eius medullam per-* | *veniatur, pascit et satiat. ...*); n.5 anchors RIGHT,
+             # prints LEFT. Para 28 closes ~0.60 of 224R; the 225L t4 heads the next leaf. Gutter 1303 (rows
+             # 0.20-0.50, band 1272-1335, rule 1302-1305).
 }
 
 KNOWN_TOTALS_BY_VOL = {
