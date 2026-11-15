@@ -1097,6 +1097,12 @@ const WORKS = {
       // the in-column `PROLOGUS EVANGELISTAE.` (tier 0, unanchored) stands at
       // the head of 11L below it and titles that chunk.
       1: "Capitulum I",
+      // `CAPITULUM II.` read in place on p. 43 at bon-luc-c2-v1-7: full-measure
+      // centred small capitals, WITH its period, UNANCHORED (p. 43's n. 8
+      // anchors in para 1's body), with NO subtitle; it stands at ~0.61 of the
+      // leaf below Cap. I's close, and the italic t2 `Secundo, de nativitate ex
+      // utero dupliciter.` (unanchored) opens 43L beneath it.
+      2: "Capitulum II",
     },
   },
 };

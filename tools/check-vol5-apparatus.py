@@ -5008,6 +5008,22 @@ KNOWN_TOTALS_VOL7 = {
              # supra c. 1. n. 7.*) anchors in Cap. II's opening and is bon-luc-c2-v1-7's. Blocks L 1-4 head /
              # R 4 tail + 5-8 (n.4 RUNS OVER the gutter: c1-v67-80's to ledger). Gutter 1140 for the region
              # above CAPITULUM II. (rows 0.06-0.56, windows 1139-1142); the region below is the next chunk's.
+             # Re-read at bon-luc-c2-v1-7: the two readings AGREE (8; nn.1-7 theirs, n.8 mine at para 1's
+             # *capitulo*, 43R, entry last in the RIGHT block). Gutter 1135 for the region below the heading
+             # (rows 0.66-0.72, step 3 alone: band 1104-1167, island 1135-1137).
+    44: 9,   # bon-luc-c2-v1-7. Anchors L 1-5 / R 6-9; blocks L 1-7 head / R 7 tail + 8-9 (n.7 RUNS OVER the
+             # gutter). Gutter 1285 (default 1285 on 61 px; band 1254-1317, island 1283-1287).
+    45: 9,   # bon-luc-c2-v1-7. Anchors L 1-5 / R 6-9; blocks L 1-6 / R 7-9 (n.6 prints LEFT, anchors RIGHT),
+             # no runover. Gutter 1167 (default 1160 on 49 px; rows 0.20-0.45 band 1137-1199, island 1165-1170).
+    46: 9,   # bon-luc-c2-v1-7. Anchors L 1-4 / R 5-9; blocks L 1-7 head / R 7 tail + 8-9 (nn.5-7 print LEFT,
+             # anchor RIGHT; n.7 RUNS OVER the gutter). Gutter 1263 (default 1269 on 57 px; band 1236-1289).
+    47: 9,   # bon-luc-c2-v1-7. Anchors L 1-5 / R 6-9; blocks L 1-6 head / R 6 tail + 7-9 (n.6 prints LEFT,
+             # anchors RIGHT, RUNS OVER the gutter). Gutter 1166 (default 1174 on 50 px; band 1135-1196).
+    48: 10,  # FULL leaf count (vv. 1-7 / vv. 8-14). bon-luc-c2-v1-7 owns nn.1-3 (48L, paras 15-16, ABOVE the t4
+             # *Qualiter Christi nativitas sit ab Angelis denuntiata per tria.* at ~0.47); nn.4-10 anchor below it
+             # (n.4 para 17 *ibi*) and are bon-luc-c2-v8-14's. Blocks L 1-6 head / R 6 tail + 7-10 (n.6 RUNS OVER
+             # the gutter: c2-v8-14's to ledger). Gutter 1270 for 48L above the t4 (rows 0.20-0.45, band
+             # 1241-1298); the region below is the next chunk's to profile.
 }
 
 KNOWN_TOTALS_BY_VOL = {
