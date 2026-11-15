@@ -5024,6 +5024,21 @@ KNOWN_TOTALS_VOL7 = {
              # (n.4 para 17 *ibi*) and are bon-luc-c2-v8-14's. Blocks L 1-6 head / R 6 tail + 7-10 (n.6 RUNS OVER
              # the gutter: c2-v8-14's to ledger). Gutter 1270 for 48L above the t4 (rows 0.20-0.45, band
              # 1241-1298); the region below is the next chunk's to profile.
+             # Re-read at bon-luc-c2-v8-14: the two readings AGREE (10; nn.1-3 theirs, nn.4-10 mine: L 4-5 in
+             # paras 17-18, R 6-10 in paras 19-20). n.6 RUNS OVER the gutter (ledgered there). Gutter 1280 for
+             # the region BELOW the t4 (rows 0.50-0.75, windows 1279-1282, band 1251-1310, island 1277-1284).
+    49: 13,  # bon-luc-c2-v8-14. Anchors L 1-7 (paras 21-23) / R 8-13 (paras 23-24); blocks L 1-6 head / R 6
+             # tail + 7-13 (n.6 RUNS OVER the gutter; n.7 prints RIGHT, anchors LEFT). Gutter 1178 (default 1178
+             # on 62 px; rows 0.20-0.50 band 1146-1207 -> 1176, rows 0.50-0.80 band 1148-1210 -> 1179).
+    50: 12,  # bon-luc-c2-v8-14. Anchors L 1-6 (paras 24-26) / R 7-12 (paras 26-28); blocks L 1-7 / R 8-12
+             # (n.7 prints LEFT, anchors RIGHT), no runover. Gutter 1269 (default 1269 on 59 px; two regions
+             # 1268 / 1269, band 1237-1300).
+    51: 13,  # FULL leaf count (vv. 8-14 / vv. 15-20). bon-luc-c2-v8-14 owns nn.1-12 (anchors L 1-8 in paras
+             # 29-30, R 9-12 in paras 30-31, all ABOVE the t4 *Qualiter Christi nativitas sit per pastores
+             # divulgata.* at ~0.55 of 51R); n.13 (para 32 *ibi*, below the t4) is bon-luc-c2-v15-20's.
+             # Blocks L 1-6 / R 7-13, no runover (L closes on n.6's four-line hymn stanza).
+             # Gutter 1173 for the region ABOVE the t4 (rows 0.10-0.50, band 1143-1204, island 1170-1177;
+             # default 1169 on 61 px); the region below is the next chunk's to profile.
 }
 
 KNOWN_TOTALS_BY_VOL = {
