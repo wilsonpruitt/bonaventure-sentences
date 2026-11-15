@@ -5353,6 +5353,31 @@ KNOWN_TOTALS_VOL7 = {
              # Blocks L 1-7 head / R 7 tail + 8-11: n.7 (Zachar. 6; Hieron. *Legi in cuiusdam volumine...*) RUNS
              # OVER THE GUTTER. Gutter 1252 for the Cap. IV body region (rows 0.06-0.42: windows 1252-1253 on
              # 60-63 px; default 1249 on 45 px, the CAPITULUM V. stack) and 1248 for the footer (band 1217-1280).
+             # Re-read at bon-luc-c5-v1-11: AGREE (11; nn.10-11 anchor Cap. V para 1 *Supra* 112L / *culpae* 112R,
+             # both printed RIGHT, neither runs over). Cap. V region below the stack (rows 0.62-0.73): band
+             # 1217-1281, rule 1248-1251 -> 1249.
+    113: 10, # bon-luc-c5-v1-11. Anchors L 1-5 / R 6-10. Blocks L 1-8 head / R 8 tail + 9-10: n.8 (Beda on
+             # Genesareth; Hieron. mare salinarum: *...qua | crispantibus aquis*) RUNS OVER THE GUTTER. Gutter 1188
+             # (band 1158-1218, 61 px, rule 1185-1191).
+    114: 12, # bon-luc-c5-v1-11. Anchors L 1-7 / R 8-12. Blocks L 1-5 head / R 5 tail + 6-12: n.5 (Seneca, de
+             # Clementia; the Corrigenda *sesvet* -> *servet* is col. 2 notes l. 2) RUNS OVER THE GUTTER. Gutter 1268
+             # (skew screen: one split, left edges 1234-1240 / right 1297-1301).
+    115: 12, # bon-luc-c5-v1-11. Anchors L 1-6 / R 7-12. Blocks L 1-7 / R 8-12 (n.7 anchors R, prints L).
+             # n.12 (Beda, Homil. on Peter) RUNS OVER THE PAGE: its tail opens p.116's LEFT block unnumbered.
+             # Gutter 1177 (band 1146-1208, 63 px, rule 1175-1180).
+    116: 12, # bon-luc-c5-v1-11. Anchors L 1-5 / R 6-12. Blocks L (p.115 n.12 tail) 1-3 head / R 3 tail + 4-12:
+             # n.3 (*Post pauca pro merguntur | Vat. cum paucis codd. falso iunguntur*) RUNS OVER THE GUTTER.
+             # Gutter 1278 (skew screen, 11 px drift, one split; window consensus 16 px rejected).
+    117: 11, # bon-luc-c5-v1-11. Anchors L 1-5 / R 6-11. Blocks L 1-10 head / R 10 tail + 11: n.10 (Card. Hug.'s
+             # Augustine; Radulph. Ardens: *...dominic. | p. II. homil. 13*) RUNS OVER THE GUTTER. Gutter 1174
+             # (band 1145-1203, 59 px, rule 1168-1178).
+    118: 11, # bon-luc-c5-v1-11. Anchors L 1-5 / R 6-11. Blocks L 1-6 / R 7-11 (n.6 anchors R, prints L), none
+             # runs over. Gutter 1297 (skew screen discounting the 0.54 slice: 1265-1329).
+    119: 12, # FULL leaf count; SHARED. n.1 bon-luc-c5-v1-11's (para 23 *Glossa*, 119L, the chunk's last anchor at
+             # ~0.12 of the leaf); nn.2-12 belong to bon-luc-c5-v12-16 (n.2 para 24 *ibi*, 119L, *Vers. 17.*).
+             # Blocks L 1-6 / R 7 tail + 8-12: n.7 RUNS OVER THE GUTTER (the next chunk's). Gutter 1176 for the
+             # body (rows 0.06-0.40: 18 windows 1174-1177, band 1146-1206, rule 1173-1179; default 1182 on 57 px)
+             # and 1185 for the footer (rows 0.72-0.92, band 1153-1217).
 }
 
 KNOWN_TOTALS_BY_VOL = {

@@ -1119,6 +1119,14 @@ const WORKS = {
       // dupliciter.` (unanchored; Tabula Pars II, no `pars:` field, rulings
       // 4/6) opens 88L beneath it.
       4: "Capitulum IV",
+      // `CAPITULUM V.` read in place on p. 112 at bon-luc-c5-v1-11: full-measure
+      // small capitals, WITH its period, UNANCHORED (p. 112's nn. 10-11 anchor
+      // in para 1's body), with NO subtitle; it stands at ~0.58 of the leaf
+      // below Cap. IV's close (para 98), and the centred larger-roman t3
+      // `Secundo determinatur discipulorum vocatio per duo.` (unanchored) opens
+      // 112L beneath it, the small-bold t4 `Primo, quomodo vocentur discipuli
+      // de statu iustitiae.` (unanchored) standing in 112R after para 1.
+      5: "Capitulum V",
     },
   },
 };
