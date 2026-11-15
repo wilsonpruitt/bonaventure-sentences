@@ -5598,7 +5598,24 @@ KNOWN_TOTALS_VOL7 = {
              # n.2 *Ecclesiastici quarto*, n.3 *Ecclesiastici tertio*); nn.4-12 bon-luc-c7-v36-50 (para 62
              # *Rogabat autem illum quidam Pharisaeus* under the 182L t4 *Tertio declaratur sublimitas Doctoris
              # propter affluentiam pietatis tripliciter.*; n.4 at *Pharisaeus*). Blocks L 1-5 / R 6-12.
-             # Gutter 1312 (rows 0.15-0.60, band 1284-1341, rule 1309-1317).
+             # Gutter 1312 (rows 0.15-0.60, band 1284-1341, rule 1309-1317). Hand-off re-derived true by
+             # bon-luc-c7-v36-50 (nn.4-5 anchor 182L, nn.6-12 182R).
+    183: 10, # bon-luc-c7-v36-50. Anchors L 1-5 / R 6-10. Blocks L 1-6 head / R 6 tail + 7-10: n.6 (Luke 18:13
+             # + Bernard + tom. VI / tom. IV refs) RUNS OVER THE GUTTER. Gutter 1170 (band 1140-1201, rule 1167-1172).
+    184: 10, # bon-luc-c7-v36-50. Anchors L 1-5 / R 6-10. Blocks L 1-4 / R 5-10 (n.5 anchors LEFT, prints
+             # RIGHT). No runover. Gutter 1304 (band 1276-1333, rule 1299-1310).
+    185: 11, # bon-luc-c7-v36-50. Anchors L 1-7 / R 8-11. Blocks L 1-5 / R 6-11 (nn.6-7 anchor LEFT, print
+             # RIGHT). No runover. Gutter 1166 (band 1135-1197, rule 1164-1168).
+    186: 14, # bon-luc-c7-v36-50. Anchors L 1-7 / R 8-14. Blocks L 1-5 / R 6-14 (nn.6-7 anchor LEFT, print
+             # RIGHT). No runover. Gutter 1302 (rows 0.30-0.55, band 1273-1331, rule 1298-1306).
+    187: 13, # bon-luc-c7-v36-50. Anchors L 1-8 / R 9-13. Blocks L 1-10 head / R 10 tail + 11-13: n.10 RUNS
+             # OVER THE GUTTER. Gutter 1162 (band 1131-1193, rule 1160-1164).
+    188: 8,  # SHARED. nn.1-5 bon-luc-c7-v36-50 (Cap. VII's last para 84 closes ~0.44 of 188R above the
+             # full-measure CAPITULUM VIII. at ~0.47; n.1 *Manasses*, n.2 *Isaiae quadragesimo tertio* 188L;
+             # n.3 *Beda*, n.4 *Matthaei primo*, n.5 *ad Romanos quinto* 188R); nn.6-8 Cap. VIII (para 1 under
+             # the 188L t4 *In secunda parte Apostoli instruuntur specialiter in doctrina mystica Scripturarum.*:
+             # n.6 at *Supra*, n.7 at *ibi* 188L; n.8 at *ibi* 188R under the 188R t4). Blocks L 1-4 / R 5-8
+             # (nn.3-4 anchor RIGHT, print LEFT). Gutter 1280 (rows 0.10-0.45, band 1253-1308, rule 1275-1286).
 }
 
 KNOWN_TOTALS_BY_VOL = {
