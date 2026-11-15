@@ -5039,6 +5039,20 @@ KNOWN_TOTALS_VOL7 = {
              # Blocks L 1-6 / R 7-13, no runover (L closes on n.6's four-line hymn stanza).
              # Gutter 1173 for the region ABOVE the t4 (rows 0.10-0.50, band 1143-1204, island 1170-1177;
              # default 1169 on 61 px); the region below is the next chunk's to profile.
+             # Re-read at bon-luc-c2-v15-20: the two readings AGREE (13; nn.1-12 theirs, n.13 mine at para 32
+             # *ibi*, 51R below the t4, entry last in the RIGHT block). Gutter 1169 for the region BELOW the t4
+             # (rows 0.58-0.74, band 1138-1201, island 1167-1171).
+    52: 10,  # bon-luc-c2-v15-20. Anchors L 1-5 (paras 33-36) / R 6-10 (paras 36-37); blocks L 1-3 head / R 3
+             # tail + 4-10 (n.3 RUNS OVER the gutter; nn.4-5 print RIGHT, anchor LEFT). Gutter 1288 (default
+             # 1289 on 62 px; rows 0.20-0.50 band 1255-1318 -> 1286, rows 0.50-0.80 band 1259-1321 -> 1290).
+    53: 10,  # bon-luc-c2-v15-20. Anchors L 1-6 (paras 38-39) / R 7-10 (paras 40-41); blocks L 1-2 / R 3-10
+             # (nn.3-6 print RIGHT, anchor LEFT), no runover. Gutter 1178 (default 1178 on 62 px; band 1146-1209).
+    54: 11,  # FULL leaf count (vv. 15-20 / vv. 21-24). bon-luc-c2-v15-20 owns nn.1-4 (anchors 54L, paras 42-43,
+             # all ABOVE the t3 *Secundo, de Christi nascentis humilitate, quatenus factus est sub triplici
+             # lege.* at ~0.62 of 54L); nn.5-11 (n.5 para 44 *humilitas*, 54R) are bon-luc-c2-v21-24's.
+             # Blocks L 1-9 head / R 9 tail + 10-11 (n.9 RUNS OVER the gutter: c2-v21-24's to ledger).
+             # Gutter 1284 for the region ABOVE the t3 (rows 0.10-0.45, band 1255-1314, island 1282-1288;
+             # default 1280 on 60 px); the region below is the next chunk's to profile.
 }
 
 KNOWN_TOTALS_BY_VOL = {
