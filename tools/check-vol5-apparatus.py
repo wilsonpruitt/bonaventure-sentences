@@ -5378,6 +5378,24 @@ KNOWN_TOTALS_VOL7 = {
              # Blocks L 1-6 / R 7 tail + 8-12: n.7 RUNS OVER THE GUTTER (the next chunk's). Gutter 1176 for the
              # body (rows 0.06-0.40: 18 windows 1174-1177, band 1146-1206, rule 1173-1179; default 1182 on 57 px)
              # and 1185 for the footer (rows 0.72-0.92, band 1153-1217).
+             # ⚠ CORRECTED by bon-luc-c5-v12-16 (re-read whole at 0.95x and 1.6-1.7x): blocks are L 1-6 / R 7-12 and
+             # NOTHING runs over the gutter -- n.6 closes in the left block (*...et Iob 2, 7.*), n.7 opens the right
+             # block numbered and closes there (*...Ioan. 9, 35. seq. et 38.*). Anchors L 1-6 / R 7-12.
+    120: 8,  # bon-luc-c5-v12-16. Anchors L 1-3 / R 4-8. Blocks L 1-6 head / R 6 tail + 7-8: n.6 (Chrysostom,
+             # Op. imperf. hom. 21 + the genuine hom. 25) RUNS OVER THE GUTTER (*...Non dixit: Vade,* | *ostende te
+             # sacerdotibus...*). Gutter 1285 (24 windows 1285-1286, band 1255-1315, rule 1282-1289).
+    121: 9,  # bon-luc-c5-v12-16. Anchors L 1-5 / R 6-9. Blocks L 1-2 head / R 2 tail + 3-9: n.2 (Jerome, Ambrose)
+             # RUNS OVER THE GUTTER (*...Legem videretur infringere ». Ambros.,* | *V. in Luc. n. 8...*).
+             # Signature line *S. Bonav. -- Tom. VII.* and signature *16* at the foot. Gutter 1162 (band 1132-1193).
+    122: 11, # bon-luc-c5-v12-16. Anchors L 1-5 / R 6-11. Blocks L 1-5 / R 6-11, none over the gutter; n.11 (Ps.
+             # 71, 9; Prov. 29, 25 with its variant) RUNS OVER THE PAGE: its tail (*Vulgata sublevabitur, D
+             # sanabitur; ...et roget.*) opens p.123's LEFT footer block unnumbered. Right register poorly inked.
+             # Gutter 1283-1285 (skew screen 11 px drift, one split suffices -> 1283; band 1258-1311).
+    123: 10, # FULL leaf count; SHARED. nn.1-6 bon-luc-c5-v12-16's (n.6 at para 39 *libro*, Augustine de Consensu
+             # II 21 n. 51, the chunk's last anchor); nn.7-10 belong to bon-luc-c5-v17-26 (n.7 para 40 *ibi*,
+             # 123R, *Vers. 20; tertium habetur v. 26.*). Blocks L (p.122 n.11 tail) 1-6 head / R 6 tail + 7-10:
+             # n.6 RUNS OVER THE GUTTER (mine). Para 39 closes at ~0.19 of 123R directly above para 40.
+             # Gutter 1162 (band 1132-1192, rule 1161-1165).
 }
 
 KNOWN_TOTALS_BY_VOL = {
