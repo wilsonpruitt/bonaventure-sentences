@@ -301,7 +301,9 @@ Binding summary. Evidence, alternatives and their costs: `manual-review/lucam-pi
   *praedicare* preach / *praedicatio* preaching / *praedicator* preacher, never "proclaim"; ~~*evangelizare* → the
   Douay's "preach the gospel".~~ **[AMENDED by ruling 18, p. 27 gate, 2026-11-14: *evangelizare* → "preach the
   gospel", never bare "preach"; the Douay's "bring good tidings" stands where the Douay has it (1:19, 2:10), with
-  `tr-evangelizare`. The struck sentence is kept visible.]** *magisterium* → "teaching office". *Praeceptor* → "Master" + `tr-praeceptor` at
+  `tr-evangelizare`. The struck sentence is kept visible.]** **[p. 88 gate: the "where the Douay has it" clause is AMENDED by ruling 29 (OT verses
+  included); ruling 30 adds: *praeconium* → "proclamation", the only home of "proclaim / proclamation";
+  *praeco* → "herald". Ruling 31 reads the *pietas divina* sentence work-wide.]** *magisterium* → "teaching office". *Praeceptor* → "Master" + `tr-praeceptor` at
   5:5. *paupertas* poverty · *mendicus* beggar · *mendicitas* beggary · *eleemosyna* alms · *avaritia* avarice ·
   *liberalitas* liberality. *remedium* remedy / *medicamentum* medicine · *tropaeum* trophy · *mysterium* mystery
   / *sacramentum* sacrament. *informatio*, *informare* → "formation", "to form". Sense labels: Morally,
@@ -371,8 +373,11 @@ are not repeated. Gate record: `manual-review/vol7-lucam-shakedown-gate.md`. Mec
   93 because ¶ 31 leans on *bona nuntiatio*).
 - **18. *evangelizare* (amends ruling 12's sentence; sheet § 2).** Ruling 12 now reads: ***evangelizare* → "preach
   the gospel", never bare "preach"** (the Douay's bare "preach" at 3:18, 4:43, 16:16 is adjusted, so the word stays
-  off *praedicare*); **where the Douay itself says "bring good tidings" (1:19, 2:10: an angel bringing a message,
-  with an object), the Douay stands, with `tr-evangelizare` at each chunk's first site.** 8:1 *praedicans et
+  off *praedicare*); ~~**where the Douay itself says "bring good tidings" (1:19, 2:10: an angel bringing a message,
+  with an object), the Douay stands, with `tr-evangelizare` at each chunk's first site.**~~ **[AMENDED by ruling 29,
+  p. 88 gate, 2026-11-14: "where the Douay itself says 'bring / preach good tidings' (Luke 1:19, 2:10; Ps. 67:12,
+  Isa. 40:9, Nah. 1:15), the Douay stands, with `tr-evangelizare` at each chunk's first site; an echo of such a verse
+  follows it." The struck clause is kept visible.]** 8:1 *praedicans et
   evangelizans* keeps the Douay's "preaching and evangelizing". Both *bona nuntiatio* renderings stand ("good
   announcement" where the gloss hangs on *annuntiare*, prooem ¶ 14; "good tidings" where it hangs on
   *evangelizare*, `c1-v18-25` ¶ 31). `c1-v18-25` ratified as built, 0 lines; the prooem Notes' claim that 4:43
@@ -451,3 +456,123 @@ known headings. The p. 188 gate interval is these 19 chunks, `bon-luc-c4-v1-13` 
 
 **One title needs a word from Wilson.** Under ruling 22, `c6-v1-11` takes a sentence title, because no heading
 stands under the capitulum.
+
+# *LUCAM* p. 88 GATE — RULINGS 27–40 (Wilson, 2026-11-14; "approve all")
+
+Binding summary. Docket items 1–12 of `manual-review/vol7-lucam-p88-gate-evidence-sheet.md` (each ⭐ recommendation
+taken) became rulings 27–38; items 13–14 were the coordinator's (manifest stage 2) and became rulings 39–40. The
+evidence, censuses and alternatives are in the sheet, by § number, and are not repeated. Gate record:
+`manual-review/vol7-lucam-p88-gate.md`. Mechanical passes: `manual-review/vol7-lucam-p88-gate-passes-draft.md`.
+**Two English lines changed (`c3-v23-38` ¶ 63, `c1-v18-25` ¶ 38) + one manifest cell; no Latin line changed.**
+
+- **27. The conspicuous ruling-20 Douay departures are RATIFIED as built** (sheet § 1): Luke 2:32 "A lumen to the
+  revelation of the Gentiles" + `tr-lumen` (`c2-v25-35` ¶ 71); Luke 2:25 *timoratus* "God-fearing"; Isa. 52:7
+  *annuntiantis* "him that announceth … that announceth good things" (`c3-v15-20` ¶ 44); the *complacere* triad kept
+  apart (Matt. 3:17 "well pleased to myself" / Mark 1:11 / Luke 3:22 "it hath well pleased me"; Col. 1:19 without "the
+  Father"; `c3-v21-22` ¶¶ 55–56); Prov. 31:28 "preached her most blessed" (`c1-v46-56` ¶ 91). **A builder applies
+  ruling 20 to famous and liturgical verses exactly as to any other:** if the exposition leans on Bonaventure's word,
+  the Douay is adjusted; there is **no canticle exception** (the *Magnificat*, *Benedictus* and *Nunc dimittis* are
+  expounded verse by verse). The Vol V *lumen* test (verse quoted AS A verse and no body prose leaning) decides the
+  *lumen* exemption.
+- **28. One verse or proposition may take two renderings at two sites; the splits are KEPT** (sheet § 2): Luke 2:19
+  "pondering" (`c2-v15-20` ¶ 40) / 2:51 "Conferring" (`c2-v40-52` ¶ 109, the Gal. 2:2 *contuli* chain); v. 54 *puerum*
+  "child" (`c1-v46-56` ¶ 99) / v. 69 *pueri* "servant" (`c1-v67-80` ¶ 124); Col. 1:13 "dilection" (`c3-v21-22` ¶ 55) /
+  "love" (`c3-v23-38` ¶ 63). Ruling 20 produces these by design; each split is disclosed in its chunk's Notes.
+  **Separately, the Douay base follows Quaracchi's actual wording where the two differ, even where nothing leans:**
+  applied at `c3-v23-38` ¶ 63, Col. 1:13 *filii dilectionis* (no *suae*) "the Son of his love" → **"the Son of love"**
+  (1 line).
+- **29. *evangelizare* in the Old Testament (AMENDS ruling 18's clause; sheet § 3).** Ruling 18's clause now reads:
+  **where the Douay itself says "bring / preach good tidings" (Luke 1:19, 2:10; Ps. 67:12, Isa. 40:9, Nah. 1:15), the
+  Douay stands, with `tr-evangelizare` at each chunk's first site; an echo of such a verse (Bede, p. 50 n. 12) follows
+  it.** The rest of ruling 18 stands: *evangelizare* → "preach the gospel", never bare "preach". Isa. 40:9 (`c1-v39-45`
+  ¶ 77) ratified as built. The *annuntiare* verses take ruling 12's "announce", inside quotations too: Isa. 52:7
+  "him that announceth", Isa. 61:1 *ad annuntiandum* "to announce" (`c3-v1-9` ¶ 7). ⚠ Forward: Luke 4:18 quotes
+  Isa. 61:1 as *evangelizare pauperibus* → "to preach the gospel to the poor", beside "announce" at Isa. 61:1; that
+  is correct as ruled.
+- **30. *praeconium* → "proclamation" (WRITTEN INTO ruling 12; sheet § 4).** "Proclaim / proclamation" belongs to
+  ***praeconium*** alone in this translation; ***praeco*** → "herald"; ***praedicare*** is never "proclaim" (ruling 12,
+  unchanged). 15 sites ratified as built (all "proclamation"; zero "proclaim" in the 22 chunks).
+- **31. `tr-pietas` goes at the first site of ANY chunk where the *pietas* is God's, work-wide** (sheet § 5; ruling
+  12's cc. 15–16 sentence is read work-wide). `c1-v46-56` ¶ 93 and `c2-v25-35` ¶ 69 ratified. Human *pietas* takes
+  "piety" with no note. **The p. 381 gate still reviews the rule itself** with the cc. 15–16 sites in view.
+- **32. The new house renderings are RATIFIED as a batch** (sheet § 6). Builders apply this table; the Douay's own
+  wording stands inside a quotation wherever ruling 20 does not adjust it:
+
+  | Latin | English |
+  |---|---|
+  | *poenitentia*, *poenitere* | "penance", "do penance" |
+  | *vacare* (with dative) | "free for" + `tr-vacare` at each chunk's first site; never "rest"; *vacare a* "free from" |
+  | *quies* (noun), *requies* | "rest"; *requiescere* "rest"; *quietus* "quiet" |
+  | *lumen* in Bonaventure's prose (the angelic *lumen*) | "lumen" + `tr-lumen` (Vol V *lux* / *lumen* rule); *lux* "light" |
+  | *claritas* | the Douay's word at the verse ("brightness" at Luke 2:9; "glory" in Wis., II Cor. 3:18) |
+  | *clarificatio* | "glorification" (shares its root with *glorificare* "glorify"; recorded, not a defect) |
+  | *timoratus* | "God-fearing" |
+  | *corripere* / *correptio* · *arguere* | "correct" / "correction" · "reprove" |
+  | *erudire* (body prose) · *eruditor* · *eruditio* | "school" ("we are schooled") · "schoolmaster" · "erudition" (ruling 17) |
+  | *instruere* · *instructio* · *docere* | "instruct" · "instruction(s)" · "teach" |
+  | *documentum* · *documenta* | "instruction" · "lessons" (ruling 17) |
+  | *largitas* · *liberalitas* | "largess" · "liberality" |
+  | *benedictus* · *beatus* · *beatitudo* | "blessed" · "blessed" · "beatitude" |
+  | *admirabilis* · *mirabilis* · *mirari* | "wonderful" · "marvellous" · "wonder" (into quotations too) |
+  | *cohortatio* / *exhortatio* · *comminatio* / *increpatio* / *admonitio* | split by prefix · "threatening" / "rebuke" / "admonition" |
+  | *praeceptum* · *consilium* · *mandatum* | "precept" · "counsel" · "commandment" (*decem praeceptis* ruling) |
+  | *purgatio* · *purificatio* | "purgation" · "purification" |
+  | *ortus* · *partus* · *nativitas* | "birth" · "bringing forth" (or "offspring" where it is the child) · "nativity" |
+  | *cultus* | "worship" |
+  | *exsultare* | "exult" (Douay "rejoice" adjusted) |
+  | *divulgare* · *profiteri* · *egenus* · *dominatrix* · *comprehendere* · *eventus* | "spread abroad" · "profess" · "needy" · "mistress" · "lay hold of" · "proceeds" |
+  | *baptismus fluminis, flaminis, sanguinis* | Vol IV house rendering |
+  | *femina est vir occasionatus* | "woman is a misbegotten man" (reported formula; not softened) |
+  | *status* · *situs* (¶ 61's seven differences) | "stopping-place" · "position" |
+  | *intellectus* · *intelligentia*; *in intellectu … in affectu* | "understanding" · "intelligence"; "in the intellect … in the affection" (ruling 17; Vol VI ruling 101) |
+
+  Applied: `c1-v18-25` ¶ 38 *erudimur* "we are taught" → **"we are schooled"** (1 line).
+- **33. `title_la`: every title RATIFIED as built** (sheet § 7). **The sentence title (lemma + dividing words,
+  `c2-v25-35`, `c2-v36-39`) is the precedent for every later heading-less span** (see ruling 40). Ruling 22 is
+  applied as written: the opening stack is one stack and the lowest heading is taken (`c2-v1-7`, `c3-v1-9`,
+  `c3-v10-14`, `c3-v21-22`). Applied (doc): the `bon-luc-c2-v21-24` manifest `title_la` / `title_la_source` cells
+  corrected from the 54L t3 to the 54R t4 *Qualiter factus sit sub lege sacramentali.* (`rubric-t4 p.54R`), as built.
+- **34. The two builder edits of the manifest's `confidence` cell (`c2-v25-35`, `c2-v36-39`, `low` → `high`) are
+  RATIFIED as ruling 26 carried out** (sheet § 8). **Standing rule: a builder may change only its own row's
+  `confidence` cell, and only when a ruling names that edit; every other manifest change goes through a gate** (or
+  its own commit after a STOP, ruling 2).
+- **35. The work's NAMES POLICY** (sheet § 9): biblical proper names in the English take **the Douay's spelling at
+  the verse**; the Latin keeps **Quaracchi's form**; a name cited AS A WORD (etymology, variant, *nomen*) stays
+  **Latin and italic in both**. Luke's named persons keep the *Ioannem*'s spellings (ruling 11). Applies to Cap. IV
+  (the temptation) and Cap. VI (the Twelve) next.
+- **36. The records, misprints and banked evidence (G38–G39, G41–G49) are RATIFIED as recorded** (sheet § 10). No
+  text edit. Quaracchi slips transcribed as printed; `[so printed]` only for misprints we caught; the collection-change
+  bank (G45–G46) asks no ruling and none is made.
+- **37. ONE bounded tool job, after the gate, QUEUED, NOT RUN** (sheet § 11). Scope: **T1** (the "Esth. 98" guard)
+  · **T3, T8** (file as Quaracchi printed slips, r.57 class) · **T4** (unresolvable-with-reason, not a wrong `chunk`)
+  · **T6** (ruling 24's break-a-shared-page-by-its-note fix for every `pag. N, nota M`; 11 sites) · **T7** (let
+  `S. Bonav.` through the author guard for the work's own author) · **T9** (parenthetical page after a named Vol V
+  work resolves in Vol V) · **T10** (stop the anaphor pass at a note boundary) · **T11** (*Ecclesiastae N* and comma
+  body ordinals) · **T13** (roman `d.`) · **T12 + `bon-sent-IV-d21-p1-a1-q2` n. 8**, the two own-commentary
+  *Exposit. in Luc.* inbounds, through an **explicit two-row site table, NOT a wider `LUC_RE`** (the row for
+  `bon-ioan-c3-v13-16` p. 283 n. 2 says it lands on an apparatus variant, p. 83 n. 3; the reciprocal p. 83 n. 3 →
+  p. 283 n. 2 resolves under T6). **T5 stays deferred** (ruling 24 / *Ioannem* 82(a)); the job only counts it.
+  **T2 closes** (never recurred). Report → fix → report, a before/after table per site; `tools/build-citations.py`
+  (+ the site table) only, then `build-citations.py` → `build-index-json.py`. No chunk file, no
+  `tools/authorities.json`.
+- **38. The p. 88 deploy: preconditions RECORDED, no recommendation either way** (sheet § 12; ruling 14). Before any
+  deploy: (D1) `build-citations.py` → **`build-authorities.py`** → `build-index-json.py` → `build-content.mjs` (the
+  authorities ledger holds zero vol7 records today); (D5, D7) a local `npm run build` and preview, opening `/tome/7`,
+  `/lucam`, one pericope page and `/lucam/c1-v5-17` p. 16 n. 8 "tr." (vol7 has never been through a site build;
+  ruling 23's look is owed); (D9) the push and the deploy each take Wilson's own OK and carry every unpushed commit
+  (the Vol VI corrigenda and the lucam citation class included); one deploy per OK. The gate's edits and, if it is
+  to be live, the tool job (ruling 37) land first. **The deploy question is asked by the coordinator separately.**
+- **39. The `low` rows of manifest stage 2 (`caae173`) are ACCEPTED as drawn** (coordinator's item 13; the docket said "five": the TSV holds **six** `low` rows, four decisions).
+  Alternatives recorded, not taken: `c4-v31-37` / `c4-v38-44` cut at ¶ 79 (alt. ¶ 87, giving 5.0 + 3.1 pp; or no
+  cut, ~8.1 pp) · `c5-v1-11` kept whole at ~6.4 pp (alt. a cut at ¶ 9, 2.7 + 3.7 pp) · `c6-v27-31` / `c6-v32-38`
+  cut at ¶ 77 (alt. no cut, ~7.5 pp; or ¶ 82 / ¶ 86) · `c7-v1-16` kept whole at ~7.6 pp over 9 printed pp (alt. a
+  cut at ¶ 20, `c7-v1-10` + `c7-v11-16`). **Each row's builder reads its boundary plates; if they agree, it promotes
+  its own row's `confidence` cell to `high` (the edit ruling 34 permits, named here); if not, it STOPS and reports
+  (ruling 2).**
+- **40. `bon-luc-c6-v1-11` takes a SENTENCE TITLE, not "Capitulum VI."** (coordinator's item 14). Under `CAPITULUM
+  VI.` no heading stands, so the opening stack holds no heading in ruling 22's sense and the `c2-v25-35` precedent
+  (ruling 33) applies: lemma + dividing words, as the manifest cell already has it (*Factum est autem in Sabbato.
+  Supra egit Evangelista de discipulorum vocatione; in parte ista agit de ipsorum defensione.*). **A `CAPITULUM N.`
+  heading is never itself a `title_la`.**
+
+**The p. 188 gate** (ruling 14: close of c. 7) is the next gate; its interval is the 19 stage-2 rows.

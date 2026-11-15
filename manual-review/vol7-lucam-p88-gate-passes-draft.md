@@ -1,0 +1,60 @@
+# Vol VII *Lucam* p. 88 gate: passes 1-3 DRAFT (read-only agent, 2026-11-14)
+
+Uncommitted. No chunk, tool or plate was edited, committed or deleted. Register questions are not on this sheet. Model: `vol7-lucam-shakedown-gate-passes-draft.md`.
+
+**Scope:** 22 chunks, pp. 3-88, **868 numbered apparatus entries** + **17** `tr-` notes. Per chunk: prooem 35 (+1 tr) · prol 34 (+1) · c1-v1-4 11 · c1-v5-17 50 (+2) · c1-v18-25 21 (+1) · c1-v26-38 69 (+2) · c1-v39-45 34 (+1) · c1-v46-56 40 (+1) · c1-v57-66 34 · c1-v67-80 58 (+1) · c2-v1-7 40 · c2-v8-14 44 (+2) · c2-v15-20 25 · c2-v21-24 44 (+1) · c2-v25-35 49 (+2) · c2-v36-39 26 (+1) · c2-v40-52 51 (+1) · c3-v1-9 59 · c3-v10-14 32 · c3-v15-20 37 · c3-v21-22 39 · c3-v23-38 36. p. 88 nn. 10-12 belong to Cap. IV, which is not built (checker: `PENDING n.10,11,12`).
+
+## PASS 1: live flags. CLEAN
+`check-live-flags.py vol7` -> scanned 22 chunks in vol7; LIVE [?] FLAGS: none. Corpus baseline (per volume, scanned chunks, occurrences): vol1 150 (421) · vol2 9 (468) · vol3 2 (415) · vol4 66 (649) · vol5 12 (167) · vol6 none (199; 2 PRINTED_QUERIES, ruling 131, not ours) · vol7 none (22). Baseline unchanged from the p. 27 gate; none in vol7.
+
+## PASS 2: mechanical suite. CLEAN (one unrecorded ledger item, below)
+| tool | result |
+|---|---|
+| `check-vol5-apparatus.py --volume=vol7` | 22 chunks, 86 known page totals (pp. 3-88); 868 entries, La = En in every chunk; every page 1..N; p. 88 `PENDING n.10,11,12`; All checks passed |
+| `check-vol5-census.py` | vol7 22/22 chunks on disk and in ledger; 56 runovers (49 gutter / 7 page: p. 9 n. 7, p. 13 n. 10, p. 21 n. 10, p. 38 n. 12, p. 72 n. 12, p. 83 n. 10, p. 84 n. 14); 22 chunks positive, 0 negative; rosters agree |
+| `polish-style-scan.py` | 11 issues / 6 chunks / 2,340 scanned, scope vol1-7; all in Vol III-V (`bon-hex-c23`, `III-d31-a3-q3`, `III-d32-a1-q2`, `III-d5-a2-q4`, `IV-d14-p2-a2-q1`, `IV-d16-p2-a2-q2`); none in vol7 |
+| `build-citations.py` | 37,675 ledger records, **QA 213** (211 at the p. 27 gate; +2 are vol7's, below); anaphora unresolved 338; `git status` shows only the pre-existing untracked `.claude/settings.local.json`, `git diff --stat` empty: `index/citations.tsv` and `manual-review/citation-qa-report.md` are byte-identical to HEAD, no restore needed |
+
+**vol7-attributable QA: 2 of 213** (the dangling table; 338 anaphora and 104 coordinate-ibid lines are a separate table). (a) `bon-luc-c2-v21-24` p. 54 n. 10 `d. 8. p. II. dub. 2.` (dangling; recorded in the chunk's Notes as QA +1, plate-verified, transcribed as printed; **re-read on the p. 54 plate band in Pass 3: prints so**). (b) `bon-luc-c1-v46-56` `latin_body` `Esther.` + `98` (chapter 98 exceeds Esth's 16). **Parser artefact, not a text defect:** body ¶ 97 ends `...exemplum in Saul et David, Vasthi et Esther.` and ¶ 98 `(Vers. 53.)` follows after the blank line; the ledger read `Esther. 98` as a locus. **Not recorded in that chunk's Notes** (its Notes carry no build-report line; the QA 211 -> 212 step happened in this chunk or the chunk-sequence 39-45 .. 67-80, none of which claim it). Ledger-vs-Notes discrepancy only; no text change implied. Separately, `bon-luc-c2-v1-7` p. 44 n. 7 `ibid. v. 45` sits in the anaphora/coordinate-ibid tables (not the QA count) and is recorded in that chunk's Notes.
+
+**Ledger events vs. each chunk's Notes.** (1) Record counts: the citation ledger holds 2,053 `bon-luc` records over 22 chunks; the Notes' build reports chain exactly: 36,833 -> +81 (c2-v21-24) 36,914 -> +122 37,036 -> +58 37,094 -> +113 37,207 -> +153 37,360 -> +46 37,406 -> +122 37,528 -> +83 37,611 -> +64 **37,675**; the 1,211 records before 36,833 equal the sum of the first 12 chunks (474 + 82 + 111 + 76 + 200 + 86 + 113 + 69 = 1,211). Every per-chunk figure in the Notes (v1-7 86, v8-14 113, v15-20 69, v21-24 81, v25-35 122, v36-39 58, v40-52 113, c3-v1-9 153, v10-14 46, v15-20 122, v21-22 83, v23-38 64) equals the ledger. (2) QA: Notes say 212 -> 213 at c2-v21-24 (that chunk's n. 10, matches) and `213 -> 213 (zero ours)` afterwards, anaphora 338 flat: all consistent with the final report. (3) Runover ledgers: every chunk's `Runover ledger` line is the set the census tool reports (56 across 22).
+
+**Page markers:** identical La/En in all 22 chunks (3-7; 7-11; 11-12; 12-17; 17-20; 20-27; 27-30; 30-34; 34-38; 38-43; 43-48; 48-51; 51-54; 54-58; 58-62; 62-65; 65-69; 69-75; 75-78; 78-81; 81-84; 85-88; c3-v21-22 ends p. 84 and c3-v23-38 opens p. 85, with p. 84 n. 14 running onto p. 85). **Anchors:** numeric anchor sequences identical La/En in all 22, unique, ascending, and the anchor set equals the def set in every chunk (868 = 868). The `tr-` anchors exist only in English (as designed); `tr-corrigenda` in v5-17 is anchored inside n. 3's English entry, not in the body.
+
+**`tr-` notes: 17** (7 at the p. 27 gate + 10 new): v39-45 `tr-evangelizare`; v46-56 `tr-pietas`; v67-80 `tr-vacare`; c2-v8-14 `tr-lumen`, `tr-evangelizare`; c2-v21-24 `tr-lumen`; c2-v25-35 `tr-pietas`, `tr-lumen`; c2-v36-39 `tr-vacare`; c2-v40-52 `tr-vacare`. None in v1-4, v57-66, c2-v1-7, c2-v15-20, c3 (all four chunks).
+
+**`[so printed]` marks in the rendered text (9; the Notes-only mentions excluded):** p. 5 n. 4 and n. 6 (prooem), p. 7 n. 3 (prol), as at the p. 27 gate; new: En body, v26-38 ¶ 44 (`exluditur` for `excluditur`, near p. 21; the p. 27 draft called this Notes-only, but the bracket is in the En body); v57-66 En body p. 36 (`Memomoriam` for `Memoriam`) and p. 37 (`Christi` for `Christus`); v67-80 En body ¶ 123 (`plebiss uae` for `plebis suae`, p. 39); c2-v36-39 p. 63 n. 8 (`ὑπαπανδάω` for `ὑπαπαντάω`); c3-v15-20 p. 79 n. 5 (`voluisset`, with an editorial gloss that the custom of Deut. 25:7-9 requires `noluisset`).
+
+**La/En digit multiset per entry (all 868):** 7 mismatches, **all false positives, none a defect.** The two p. 5 ones are as at the p. 27 gate. New five: (1) v67-80 p. 41 n. 2: En glosses `Et Sap. 1, 1. seq.` as `Wis. 1:1 f.` (extra 1,1). (2) c2-v8-14 p. 48 n. 6: La `Sect. I.` (Roman), En `sect. 1` (extra 1). (3) c2-v8-14 p. 50 n. 2: La `1. Metaph.`, En `I *Metaphysics*` (La one extra 1, Arabic to Roman). (4) c3-v1-9 p. 69 n. 9: La `Epiphania 5.`, En `the fifth on holy Epiphany` (ordinal spelled; La extra 5). (5) c3-v15-20 p. 79 n. 5: En editorial `[so printed ... Deut. 25:7-9 ...]` gloss adds 2,5,7,9. Plate digits for (1)-(5) agree with the La side where read (p. 69 n. 9 and p. 78-79 bands read; p. 48 and p. 50 La entries read by file against the plate bands of the seam pages).
+
+## PASS 3: boundary sweep. CLEAN
+Every page 3-88 owned exactly once with a contiguous 1..N register: checker (86 known totals) plus an independent per-page min/max/count over the `[^pN-n]` defs (86 pages, none bad); `KNOWN_TOTALS_VOL7` matches. Plates 300 dpi (2476x3921), `raw/vision/vol7/p-NNN.png` (printed page; pdf = printed + 26), gutter measured by the `colcrop` auto routine (a wrapper writing to the scratchpad, to avoid `/tmp/colcrop` collisions with the other running agent); whole-page views at 0.45x for structure only, footer/body bands at 1.45x. Seams already swept at pp. 7-27 are not repeated.
+
+| seam | split (A / B on the page) | verdict |
+|---|---|---|
+| **27** v26-38 / v39-45 | 6 / 5 (nn. 7-11 anchored in ¶ 71-72); plate p. 27 footer counted 11 | CLEAN (as at the p. 27 gate) |
+| **30** v39-45 / v46-56 | 7 / 3; A ends Gen. 30 `...mulieres »`, B opens `Secundo subditur canticum laetitiae.` ¶ 86; footer nn. 1-10 | CLEAN |
+| **34** v46-56 / v57-66 | 8 / 1; A ends the Ambrose quotation (n. 8 anchored), B opens `De gratiarum actione pro ortu praecursoris...` ¶ 104; right footer n. 9 | CLEAN |
+| **38** v57-66 / v67-80 | 1 / 11 (nn. 2-12; n. 12 page-crossing runover, census); A ends Isa. 49 `...protexit me »`, B opens `De laude et gratiarum actione ponuntur duo.` ¶ 119 | CLEAN |
+| **43** v67-80 / c2-v1-7 | 7 / 1; A ends Elias `...Dei`; B opens `Capitulum II` heading + ¶ 1, n. 8 on `capitulo` | CLEAN; n. 4 (hymn) full text read on the band |
+| **48** c2-v1-7 / c2-v8-14 | 3 / 7; A ends `...a iuventute mea »`, B opens `Qualiter Christi nativitas sit ab Angelis denuntiata per tria.` ¶ 17 | CLEAN |
+| **51** c2-v8-14 / c2-v15-20 | 12 / 1; A ends `...Pax huic domui »`, B opens ¶ 32 `Qualiter ... divulgata` | CLEAN |
+| **54** c2-v15-20 / c2-v21-24 | 4 / 7; A ends Iob ultimo `...videt te »`, B opens ¶ 44 `Secundo, de Christi nascentis humilitate`; n. 10 `d. 8. p. II. dub. 2.` read on the plate band: prints exactly so (the QA item) | CLEAN |
+| **58** c2-v21-24 / c2-v25-35 | 0 / 11: A's last paragraph closes on p. 58 above ¶ 58 with no anchor; the whole p. 58 footer (nn. 1-11) is B's, assigned by anchor (n. 1 on `plurium`) | CLEAN |
+| **62** c2-v25-35 / c2-v36-39 | 6 / 5; A ends `...vitam spiritualem.`, B opens ¶ 81 `Et erat Anna prophetissa` | CLEAN |
+| **65** c2-v36-39 / c2-v40-52 | 2 / 10; A ends `...rediens de Aegypto.`, B opens heading `Qualiter Christus factus sit sub lege morali.` ¶ 91; n. 6 runs across the gutter and is carried whole (the p. 65 n. 12 `Ver. 14.` read as printed) | CLEAN |
+| **69** c2-v40-52 / c3-v1-9 | 7 / 4; A ends `...apud Deum et homines.`, B opens `Capitulum III` + ¶ 1; n. 9 (Serm. 12/17, Epiphania 5, 135, 36) read on the band | CLEAN |
+| **75** c3-v1-9 / c3-v10-14 | 2 / 7 (n. 7 gutter-continued); A ends Isa. ultimo `...non exstinguetur »`, B opens `Secundo, de baptismo ... in speciali quoad tria.` ¶ 22 | CLEAN |
+| **78** c3-v10-14 / c3-v15-20 | 2 / 9; A ends `...sed lex.`, B opens ¶ 35 `Praedicatio Ioannis commendatur secundo...`; n. 1 reads `[praebe illi et sinistram]` as printed | CLEAN |
+| **81** c3-v15-20 / c3-v21-22 | 8 / 3; A ends Hebr. `...secti sunt » etc.`, B opens `Tertio, de baptismo...` ¶ 47; nn. 9-11 are the printed two-column row (`9 Vers. 31.  10 Vers. 23.  11 Vers. 21.`) | CLEAN |
+| **85** c3-v21-22 / c3-v23-38 | 0 / 9: A's tail `...quidquid placet^14` (n. 14 anchor on p. 84) is the end of the p. 84 right-column body; p. 84 n. 14 runs over the page onto the top of p. 85's left footer (census page-crossing), carried whole in A; B opens heading `Secundo, de genealogia temporali tria.` ¶ 57 and owns p. 85 nn. 1-9 | CLEAN |
+| **88** c3-v23-38 / Cap. IV (unbuilt) | 9 / 3 pending; A ends `...in saecula saeculorum. Amen ».` (complete; ends the Pars); Cap. IV opens below (`Pars II ... ¶ 1`); nn. 10-12 anchored in the Cap. IV text (`Supra^10`, `mentiri...^11`, `quinto^12`), right footer read | CLEAN (hand-off as recorded; n. 12's gutter text runs to `firmare;` and is Cap. IV's) |
+
+No seam shows a splice, drop or duplication. Every outgoing tail is a complete sentence (or a printed hyphen join). Notes are assigned by anchor throughout.
+
+**Full-page apparatus spot-checks against 1.45x footer bands** (digits, loci, sigla), one or more full pages for each of the 16 new chunks: v39-45 p. 30 (nn. 1-10 by band, partly at the page seam); v46-56 p. 34 (nn. 1-8); v57-66 p. 38 (nn. 1-12, bands); v67-80 p. 43 (nn. 1-8, n. 4 full text); c2-v1-7 p. 48 (nn. 1-10); c2-v8-14 p. 51 (nn. 1-13); c2-v15-20 p. 54 (nn. 1-11); c2-v21-24 p. 54 n. 10 (full) and p. 58 boundary; c2-v25-35 p. 58 (nn. 1-11, all) and p. 62 (nn. 1-6); c2-v36-39 p. 62 (nn. 7-11, all) and p. 65 (nn. 1-2); c2-v40-52 p. 65 (nn. 3-12, all) and p. 69 (nn. 1-7, all); c3-v1-9 p. 69 (nn. 8-11, all) and p. 75 (nn. 1-2); c3-v10-14 p. 75 (nn. 3-9) and p. 78 (nn. 1-2); c3-v15-20 p. 78 (nn. 3-11, all) and p. 81 (nn. 1-8, all); c3-v21-22 p. 81 (nn. 9-11) and p. 84 (nn. 1-14, all); c3-v23-38 p. 85 (nn. 1-9 read in the band, 1-9 against file) and p. 88 (nn. 1-9, all). **No difference found** from the file in any digit, locus or siglum.
+
+*Depth note for the reader:* 17 seam pages and 16 chunk spot pages are overlapping sets, so the apparatus bands read are the same pages as the seam reads; no page outside the seam list was read.
+
+## Summary
+Pass 1 CLEAN · Pass 2 CLEAN (7 digit-multiset false positives; vol7 QA 2 of 213, one of them an unrecorded parser artefact in `bon-luc-c1-v46-56`, no text defect; citations files byte-identical to HEAD) · Pass 3 CLEAN. No defects found.
