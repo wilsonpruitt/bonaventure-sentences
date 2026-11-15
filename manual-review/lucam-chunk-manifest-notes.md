@@ -77,6 +77,8 @@ Both belong to Cap. IV. The running head of p. 88 already reads `C. IV.`
 
 **[2026-11-14, `bon-luc-c2-v25-35`'s builder: pp. 58–62 read on the plates; ¶ 80 closes at 62L's foot, ¶ 81 opens at the head of 62R with no heading (ruling 26's cut confirmed). `bon-luc-c2-v25-35` promoted to `high`; `bon-luc-c2-v36-39` stays `low` until its builder reads pp. 62–65.]**
 
+**[2026-11-14, `bon-luc-c2-v36-39`'s builder: pp. 62–65 read on the plates; ¶ 81 opens at the head of 62R with no heading, ¶ 90 closes at ~0.42 of 65L directly above the t4 *Qualiter Christus factus sit sub lege morali.* (¶ 91 below it). Both ends as drawn; `bon-luc-c2-v36-39` promoted to `high` (confidence cell only; no span change).]**
+
 **Why a divisio cut is needed here:**
 
 - The editors print no in-column heading between 56L (*sub lege caeremoniali*) and 65L (*sub lege morali*). That

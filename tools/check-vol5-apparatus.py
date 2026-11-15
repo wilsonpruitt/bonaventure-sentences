@@ -5103,6 +5103,23 @@ KNOWN_TOTALS_VOL7 = {
              # bon-luc-c2-v36-39's, all anchored 62R (para 81 *secundo*, *supra*, *nono*, *ibi*; para 82
              # *gratia*). Blocks L 1-5 / R 6-11 (n.6 prints RIGHT, anchors LEFT), no runover. Gutter 1296
              # (rows 0.20-0.50 band 1262-1320 -> 1291; rows 0.50-0.80 band 1274-1329 -> 1301); colcrop 1300.
+             # bon-luc-c2-v36-39 (2026-11-14): CONFIRMED 6 / 5, every digit of nn.7-11 re-read; anchors R 7-11
+             # (para 81 *secundo*, *supra*, *nono*; the un-numbered para *ibi*; para 82 *gratia*).
+    63: 8,   # bon-luc-c2-v36-39. Anchors L 1-4 (para 83 *nono*, *Dei*, *sexto*; para 85 *quinto*) / R 5-8
+             # (para 86 *Glossa*, *octavo*, *quinto*; para 87 *obviantium*); blocks L 1-6 head / R 6 tail + 7-8:
+             # n.6 RUNS OVER the gutter (*...et Tob. 12, 8.* | *-- Superius pro Vacabat etiam officiose*); nn.5-6
+             # print LEFT, anchor RIGHT. Gutter 1169 (rows 0.10-0.45 band 1137-1199 -> 1168; rows 0.45-0.80
+             # band 1140-1201 -> 1170).
+    64: 11,  # bon-luc-c2-v36-39. Anchors L 1-5 (para 87's tail *secundo* x2; para 88 *quinto*; para 89 *primo*,
+             # *ultimo*) / R 6-11 (para 89 *nono*, *sexto*, *quinto*, *interpretatur*, *primo*; para 90
+             # *quinto*); blocks L 1-8 head / R 8 tail + 9-11: n.8 (Jerome/Isidore on Debbora and Olda) RUNS OVER
+             # the gutter (*...cecinit can-* | *ticum, inde loquax*); nn.6-8 print LEFT, anchor RIGHT. Gutter
+             # 1297 (rows 0.10-0.45 band 1265-1326 -> 1295; rows 0.45-0.80 band 1270-1328 -> 1299).
+    65: 12,  # FULL leaf count (vv. 36-39 / vv. 40-52). bon-luc-c2-v36-39 owns nn.1-2, both anchored 65L above
+             # the t4 *Qualiter Christus factus sit sub lege morali.* (para 90 *Matthaei secundo*, *Evangelistarum*);
+             # nn.3-12 anchor at or below para 91 (n.3 at *Supra*) and are bon-luc-c2-v40-52's. Blocks L 1-6 head
+             # / R 6 tail + 7-12: n.6 (Bede/Glossa, bon-luc-c2-v40-52's) RUNS OVER the gutter. Gutter 1164
+             # (rows 0.10-0.45 band 1132-1196; rows 0.45-0.80 band 1133-1196; island 1162-1167).
 }
 
 KNOWN_TOTALS_BY_VOL = {
