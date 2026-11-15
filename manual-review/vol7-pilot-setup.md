@@ -525,6 +525,12 @@ evidence, censuses and alternatives are in the sheet, by § number, and are not 
   | *femina est vir occasionatus* | "woman is a misbegotten man" (reported formula; not softened) |
   | *status* · *situs* (¶ 61's seven differences) | "stopping-place" · "position" |
   | *intellectus* · *intelligentia*; *in intellectu … in affectu* | "understanding" · "intelligence"; "in the intellect … in the affection" (ruling 17; Vol VI ruling 101) |
+  | *benignitas* · *benignus* | "kindness" · "kind", into quotations too (**added by ruling 45**, p. 188 gate) |
+  | *caritas* | "charity", into quotations too (**added by ruling 52**) |
+  | *curare* / *curatio* · *sanare* / *sanatio* | "cure" · "heal" / "healing" in Bonaventure's prose; the Douay's "heal" in a verse where nothing leans; an echo of the lemma follows it (**added by ruling 53**) |
+  | *credulitas* · *incredulitas* | "belief" · "unbelief" (**added by ruling 55**) |
+  | *redarguere* | "convict" (beside *arguere* "reprove") (**added by ruling 56**) |
+  | *otium* | "leisure" (kept off *vacatio*) (**added by ruling 57**) |
 
   Applied: `c1-v18-25` ¶ 38 *erudimur* "we are taught" → **"we are schooled"** (1 line).
 - **33. `title_la`: every title RATIFIED as built** (sheet § 7). **The sentence title (lemma + dividing words,
@@ -539,7 +545,7 @@ evidence, censuses and alternatives are in the sheet, by § number, and are not 
 - **35. The work's NAMES POLICY** (sheet § 9): biblical proper names in the English take **the Douay's spelling at
   the verse**; the Latin keeps **Quaracchi's form**; a name cited AS A WORD (etymology, variant, *nomen*) stays
   **Latin and italic in both**. Luke's named persons keep the *Ioannem*'s spellings (ruling 11). Applies to Cap. IV
-  (the temptation) and Cap. VI (the Twelve) next.
+  (the temptation) and Cap. VI (the Twelve) next. **(Clarified by ruling 54: the Douay governs the spelling of the name Quaracchi prints; where Quaracchi prints a different name form, e.g. *Abraham* for *Abram*, ruling 28 keeps Quaracchi's.)**
 - **36. The records, misprints and banked evidence (G38–G39, G41–G49) are RATIFIED as recorded** (sheet § 10). No
   text edit. Quaracchi slips transcribed as printed; `[so printed]` only for misprints we caught; the collection-change
   bank (G45–G46) asks no ruling and none is made.
@@ -608,3 +614,97 @@ the plates of pp. 188–288, and the text layer. The p. 288 gate interval is the
 
 **One cut sits near the threshold:** `c9-v1-9` / `c9-v10-17` (¶ 15) is licensed because 216 to 225L measures ~8.5 pp,
 just over ruling 1b's ~8. Both rows are `high` on that reading.
+
+# *LUCAM* p. 188 GATE — RULINGS 41–62 (Wilson, 2026-11-15; "aprove all")
+
+Binding summary. Every ⭐ recommendation of `manual-review/vol7-lucam-p188-gate-evidence-sheet.md` was taken, the
+sheet's recommendations against the builders (items 25, 32, 33, 42) and its "Found by the sheet" fixes F1–F9 included.
+The evidence, censuses and alternatives are in the sheet, by § and item number, and are not repeated. Gate record:
+`manual-review/vol7-lucam-p188-gate.md`. Mechanical passes: `manual-review/vol7-lucam-p188-gate-passes-draft.md`.
+**18 English lines changed across 9 chunks (F1–F9) + Notes in 10; 1 manifest cell; no line in any `## Latin` body or
+`**La.**` half changed.** Ruling 32's table gains six rows (below, marked); ruling 35 gains a clarifying sentence.
+
+- **41. Batch A (items 1–5) RATIFIED** (sheet § A): the six stage-2 `low` → `high` promotions as ruling 39 carried out;
+  last ¶ per capitulum IV 98 · V 85 · VI 111 · VII 84; every title as built (rulings 22, 33, 40); the p. 119 hand-off
+  correction. Applied (doc): the `bon-luc-c4-v1-13` manifest `headings` cell corrected to
+  `capitulum@88;t1@88L;t2@88R (italic);t3@89L;t4@89L` (the 89L t3 was missing; span, end, `title_la` unaffected).
+- **42. Batch B (items 6–8), the three Corrigenda of pp. 88–188, RATIFIED as applied** (`c4-v1-13` p. 95; `c5-v1-11`
+  p. 114 inside apparatus n. 5; `c7-v1-16` p. 168 *indignitatem*).
+- **43. Batch C (items 9–24), the ruling-20 lemma and adduced-verse adjustments, RATIFIED as built.**
+- **44. *suasio* "persuading" / *persuasio* "persuasion" and *authenticatio* "authentication" / *auctorizatio*
+  "authorization" are the WORK'S PAIRS** (item 25). Applied (F1): `c4-v1-13` ¶ 15 "In which persuading", ¶ 16 "the
+  diabolical persuading" (2 lines), so p. 92 n. 9 and p. 93 n. 7 can be read off the English.
+- **45. Prov. 1:20 "crieth aloud" and Ps. 64:12 "the year of thy kindness" RATIFIED** (item 26). **Written into ruling
+  32's table: *benignitas* "kindness", *benignus* "kind", into quotations too.**
+- **46. Amos 5:10 "him that rebuketh", Prov. 9:8 "Rebuke", John 8:46 "convince" RATIFIED** under ruling 32's preface
+  (item 27). Recorded (F10): Amos 5:10 is "him that correcteth" at `c3-v15-20` ¶ 46 (the exposition leans) and "him
+  that rebuketh" at `c4-v22-30` ¶ 57 (nothing leans), ruling 28's split; now disclosed in `c4-v22-30`'s Notes.
+- **47. *potentia* / *virtus* / *potestas* all "power"; *auctoritas* "authority" — CONFIRMED** (item 28). **Tie-breaks:
+  where two stand together in a verse, the Douay's own pair at that verse decides (Luke 4:36 *in potestate et virtute*
+  "with authority and power", and the gloss that follows it); *potentia* in the faculty sense, beside *virtus*, is
+  "potency"** (`c7-v1-16` ¶ 27). *virtus* the moral virtue stays "virtue".
+- **48. *solitudo* "solitude" / "wilderness" — the split RATIFIED as ruling 28's** (item 29): "solitude" where the
+  prose names *solitudo* against *desertum* (`c4-v1-13` ¶¶ 1, 3), the Douay's "wilderness" where nothing leans.
+  Recorded: **Osee 2:14** is a second split ("solitude" `c4-v1-13` / "wilderness" `c3-v1-9` ¶ 7), with Ps. 54:8.
+- **49. `tr-praeceptor` RATIFIED as the work's note; *magister* "Master" beside *Praeceptor* "Master" and Wis. 8:16
+  "repose" / "rest" RATIFIED** (items 30, 38). **Forward:** the first chunk where *Praeceptor* and *magister* stand in
+  one paragraph (Luke 9:33 / 9:38 is the likely place) adds to its `tr-praeceptor`: "*magister* is also 'Master' (the
+  Douay's word); the two Latin words share it."
+- **50. `tr-lumen`'s reach RATIFIED as built, all four parts** (item 31). **Scope sentence: in the Vol V test, "the
+  surrounding body prose" is the expository unit the verse is adduced in (here `c5-v17-26` ¶¶ 60–62, one argument);
+  the *lux* / *lumen* rule reaches the editors' quotations in the apparatus** (the Vol VI practice; `c4-v38-44` p. 110
+  n. 8, `c6-v32-38` p. 159 n. 7). Rom. 2:19 "a light" with no note stands (the test as written). Recorded (F11): Isa.
+  60:1 "thy lumen is come" (`c5-v17-26` ¶ 62, leans) / "thy light is come" (`c6-v12-19` ¶ 47, does not), ruling 28's
+  split; `c7-v1-16` ¶ 17 carries a fifth `tr-lumen` the docket omitted.
+- **51. Human *pietas* inside quotations CONFORMED to "piety"** (item 32; the *septem donis* ruling carried by ruling
+  11, and ruling 31). Applied: F4 `c6-v12-19` ¶ 40 II Tim. 3:5 "an appearance indeed of piety"; F5 `c5-v17-26` ¶ 44
+  Ecclus. 44:10 "whose pieties have not failed"; F6 `c4-v38-44` p. 110 n. 8 **En.** Augustine's *pios* "the pious"
+  (3 lines). **Recorded, not ruled (the passes draft's observation):** *impius* in Bonaventure's prose follows the
+  nearest Douay word ("ungodly" `c6-v27-31` ¶ 73 after Ecclus. 12:4; "wicked" `c6-v39-49` ¶ 96 after Prov. 17:15);
+  *impietas* "impiety". The *pietas* rule binds the positive word only; no edit.
+- **52. Douay kept against a house word: four sites RATIFIED, two CONFORMED** (item 33 + F2). Ratified: Prov. 15:17
+  "with charity" (`c5-v27-39` ¶ 73); Eph. 5:2 "Walk in love" (`c5-v17-26` ¶ 62); "what thanks are to you?"
+  (`c6-v32-38` ¶¶ 78–80); Rom. 2:20 "an instructor of the foolish" (`c6-v39-49` ¶ 93). Conformed where the paragraph
+  leans on *dilectio* (the ruling-28 Col. 1:13 precedent; ruling 27: no famous-verse exception): F3 `c6-v27-31` ¶ 65
+  "Walk in dilection" / "dilection without dissimulation"; F2 `c7-v36-50` ¶ 76 Cant. 8:6 "Dilection is strong as death"
+  (2 lines). **Written into ruling 32's table: *caritas* "charity", into quotations too.**
+- **53. *curare* / *sanare* is a WORK-LEVEL split** (item 34 + F7). **Ruling sentence: *curare* / *curatio* "cure",
+  *sanare* / *sanatio* "heal" / "healing" in Bonaventure's prose; the Douay's "heal" stands in a verse where nothing
+  leans (the lemma is adjusted only where the exposition leans, ruling 20, as `c6-v1-11` Luke 6:7 / Matt. 12:10), and
+  an echo of the lemma follows it** (so `c4-v22-30` ¶¶ 49–50 "Physician, heal thyself" stands). Applied (F7):
+  `c7-v1-16` ¶¶ 1, 9, 16, 17, 18, 20 — nine sites, 6 lines (the sheet said ten; the file holds 8 *curatio* + 1
+  *curatus*). Written into ruling 32's table.
+- **54. *puer* "boy" (prose) / "servant" (the Douay's verses) and Gen. 15:6 *Credidit Abraham* "Abraham" RATIFIED**
+  (item 39). **Clarifies ruling 35: the Douay's spelling at the verse governs the orthography of the name Quaracchi
+  prints; where Quaracchi prints a different name form (*Abraham* for *Abram*), ruling 28 keeps Quaracchi's.**
+- **55. *credulitas* → "belief", WORK-WIDE** (item 42 + F9); *incredulitas* "unbelief"; *fides* "faith". Applied:
+  `c1-v26-38` ¶ 67 ×2, ¶ 69 → "belief" (3 sites, 3 lines; the sheet said 2 lines — ¶ 67 stands on two). Written into
+  ruling 32's table.
+- **56. *redarguere* → "convict", beside *arguere* "reprove"** (sheet § X, F8). Applied: `c7-v24-35` ¶ 47 "is
+  convicted", ¶ 57 "he convicts … he convicts in four ways" (2 lines). Written into ruling 32's table.
+- **57. RATIFIED as built:** *Iudam Iacobi* "Jude of James" (item 35; ruling 28, the body leans); `tr-vacare` "free
+  for" at a vice and *exsultatio* "exultation" (item 36; the site is ¶ 60, F12b); the lending vocabulary, *foenerator*
+  "lender upon usury" at Luke 7:41 included (item 37); passive *evangelizantur* (item 40); *delectabilia* /
+  *deliciosus* "delightful" and Luke 7:32 "We have piped" (item 41). **Written into ruling 32's table: *otium*
+  "leisure"** (keeps "leisure" off *vacatio*).
+- **58. Batch E (items 43–51), the Quaracchi citation slips, RATIFIED as transcribed** (r.57 class; ruling 36); the
+  `c5-v12-16` p. 122 n. 5 *(n. 36-40.)* recorded, undecidable from Quaracchi alone.
+- **59. Batch F: items 52–55 (`[so printed]`) RATIFIED; item 56, the live `[?]` at `c5-v12-16` p. 122 n. 11, STAYS
+  OPEN** — not a deploy blocker; settled only by a second copy of Tom. VII (F or H), never by a guess.
+- **60. Batch G (items 57–61, readings as printed) RATIFIED as recorded; Batch H (items 62–64, collection change)
+  BANKED, no ruling.**
+- **61. Records (F10–F12):** F10, F11 under rulings 46, 50. F12, docket errors, no text effect: (a) item 4's
+  sentence-title list omitted three (`c4-v38-44` ¶ 79, `c5-v12-16` ¶ 24, `c5-v17-26` ¶ 40) — nine in all; (b) item
+  36's *exsultatio* is ¶ 60, not ¶ 61; (c) the resume's "tool item T-11" for the wrong *ibid.* is **T-4**; (d)
+  `c7-v24-35`'s Notes licence for Ecclus. 3:1 "love" is ruling 32's preface, not ruling 12's quotation clause
+  (corrected in that chunk's Notes). Also corrected in the resume: the ruling-37 tool job **has run** (`187bc15`), and
+  manifest stage 3 **is drawn** (`f03a544`).
+- **62. T-1..T-9: ONE bounded tool job, after the gate, QUEUED, NOT RUN** (sheet § T). Order: T-4 (the wrong *ibid.*
+  resolution; anaphora unresolved should rise by one) → T-1 (accusative *notam M*, 5 sites) → T-2 (measure Vol II / IV
+  per-note anchors first) → T-6 → T-9 (*Incendium amoris* as other-author) → T-7 → T-8 (count) → T-3 (a Vol I data
+  question; report only) → T-5 (stays deferred; count). Report → fix → report, before/after table per site;
+  `tools/build-citations.py` only, then `build-citations.py` → `build-index-json.py`. No chunk file.
+
+**Manifest stage 3 (`f03a544`, 22 rows, pp. 188–288) stands as drawn; its 8 `low` rows (four decisions) are settled at
+build time by ruling 39's procedure** (each builder reads its boundary plates, promotes its own row's `confidence` cell
+or STOPS). **The p. 288 gate** (c. 11 v. 13, ¶ 35 / ¶ 36 on 288L) is the next gate; its interval is the 22 stage-3 rows.
