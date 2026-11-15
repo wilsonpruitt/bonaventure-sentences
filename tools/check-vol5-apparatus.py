@@ -5664,6 +5664,22 @@ KNOWN_TOTALS_VOL7 = {
              # n.11 *regionem*, n.12 *ibi: Et rogabant illum*; both 201R). Blocks L 1-6 head / R 6 tail + 7-12:
              # n.6 (Ezech. 1, 4; Iob 1, 19; tom. III. pag. 555-556) RUNS OVER THE GUTTER (*(gaudium* | *et dolor*).
              # Gutter 1167 (rows 0.20-0.50, band 1136-1198, rule 1166-1168).
+             # Hand-off re-derived true by bon-luc-c8-v26-33 (n.11 at para 46's *regionem*, n.12 at the *ibi* of
+             # *Et rogabant illum*; both 201R below para 45's close, both print RIGHT). Gutter re-measured below the
+             # joint: 1167 (rows 0.45-0.75, band 1136-1198).
+    202: 10, # bon-luc-c8-v26-33. Anchors L 1-5 / R 6-10. Blocks L 1-5 head / R 5 tail + 6-10: n.5 (Chrysost.,
+             # Homil. 28 in Matth.; August., II. de Consensu) RUNS OVER THE GUTTER (*a Matthaeo* | *differre*).
+             # Gutter 1300 (rows 0.20-0.50, band 1272-1329, rule island 1295-1306).
+    203: 12, # bon-luc-c8-v26-33. Anchors L 1-6 / R 7-12. Blocks L 1-8 head / R 8 tail + 9-12: n.8 (I. Reg. 18,
+             # 10; ibid. 16, 23) RUNS OVER THE GUTTER (*quandocum-* | *que*); n.7 anchors RIGHT, prints LEFT.
+             # Gutter 1154 (rows 0.20-0.50, band 1123-1185, rule 1152-1156).
+    204: 12, # bon-luc-c8-v26-33. Anchors L 1-5 / R 6-12. Blocks L 1-6 / R 7-12 (n.6 anchors RIGHT, prints LEFT).
+             # No runover. Gutter 1296 (rows 0.20-0.50, band 1265-1327, rule 1295-1299).
+    205: 11, # SHARED. nn.1-6 bon-luc-c8-v26-33 (para 59 closes ~0.28 of 205R on *...infinitis animalibus
+             # brutis.*; anchors L 1-5 / R 6); nn.7-11 bon-luc-c8-v34-39 (para 60 *Quod ut viderunt factum* below,
+             # no heading: n.7 *tertio*, n.8 *Ioannis decimo*, n.9 *Iob decimo nono*, n.10 *Iob primo*, n.11
+             # *quarti Regum septimo*; all 205R). Blocks L 1-3 / R 4-11 (nn.4-5 anchor LEFT, print RIGHT). No
+             # runover. Gutter 1139 (rows 0.20-0.50, band 1109-1170, rule 1136-1143).
 }
 
 KNOWN_TOTALS_BY_VOL = {
