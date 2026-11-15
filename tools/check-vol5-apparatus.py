@@ -5416,6 +5416,30 @@ KNOWN_TOTALS_VOL7 = {
              # the 128R t4 *Secundo, quomodo vocentur discipuli de statu culpae.*: *Cfr. n. 1.*; n.11 *Cap. 6, 1.*;
              # n.12 *Vers. 30; tertium habetur v. 33.*). Anchors L 1-6 / R 7-12. Blocks L 1-5 / R 6-12, none over
              # the gutter or the page. Gutter 1279 (band 1249-1308).
+    129: 12, # bon-luc-c5-v27-39. Anchors L 1-6 / R 7-12. Blocks L 1-4 head / R 4 tail + 5-12: n.4 (Bl. Albert
+             # on *publicanus*) RUNS OVER THE GUTTER (*...cum extorsione accipiebantur, et* | *ideo tale officium
+             # infame est.*). Gutter 1190 (rows 0.10-0.45; 1191 at 0.45-0.80, 62 px).
+    130: 14, # bon-luc-c5-v27-39. Anchors L 1-7 / R 8-14. Blocks L 1-9 head / R 9 tail + 10-14: n.9 (Glossa
+             # ordinaria on Matth. 9, 9 + Jerome) RUNS OVER THE GUTTER (*...divina potentia in-* | *tus operante
+             # tractus*); nn.8-9 print LEFT, anchor RIGHT. n.7's Lucan verse set as a centred line. Gutter 1266.
+    131: 12, # bon-luc-c5-v27-39. Anchors L 1-7 / R 8-12. Blocks L 1-4 head (nn.1-2 share a line) / R 4 tail
+             # + 5-12: n.4 (Jerome on Matth. 9, 13 + variants) RUNS OVER THE GUTTER (*...pro poterant praesentia
+             # [H* | *in praesentia] Christi conteri*); nn.5-7 anchor LEFT, print RIGHT. Gutter 1179 (profile
+             # band 1152-1206, rule 1174-1185).
+    132: 10, # bon-luc-c5-v27-39. Anchors L 1-5 / R 6-10. Blocks L 1-7 head / R 7 tail + 8-10: n.7 (Augustine,
+             # de Consensu Evang. II c. 27 n. 62) RUNS OVER THE GUTTER (*...Cur discipuli Ioannis et Pharisaeorum
+             # ieiunant,* | *tui autem discipuli non ieiunant?*); nn.6-7 print LEFT, anchor RIGHT. Gutter 1275
+             # (profile median; band 1250-1295, rule 1262-1284).
+    133: 10, # bon-luc-c5-v27-39. Anchors L 1-5 / R 6-10. Blocks L 1-5 head / R 5 tail + 6-10: n.5 RUNS OVER THE
+             # GUTTER (*Superius pro ad* | *tempus illud H...*); n.10 (codd. *pereunt*, Matth. 9, 17) RUNS OVER THE
+             # PAGE: its tail (*...puntur utres, et vinum effunditur ». Superius pro rumpet...conservantur.*)
+             # opens p.134's LEFT footer block unnumbered. Gutter 1157.
+    134: 12, # FULL leaf count; SHARED. nn.1-7 bon-luc-c5-v27-39's (n.7 at para 85 *quinto*, II. Cor. 5, 17,
+             # 134R, Cap. V's last anchor); nn.8-12 belong to bon-luc-c6-v1-11 (n.8 at Cap. VI para 1 *Supra*:
+             # printed *Cap 5 27. n. 63. seqq.*; n.9 *defendere*; n.10 *ibi*; n.11 *oppositio*; n.12 para 2
+             # *quarto*). Anchors L 1-4 / R 5-7 above `CAPITULUM VI.` (full measure, ~0.5 of the leaf); Cap. VI
+             # L 8-10 / R 11-12 below it. Blocks L (p.133 n.10 tail) 1-8 / R 9-12, none over the gutter.
+             # Gutter 1286 (1289 rows 0.10-0.45, 1283 rows 0.45-0.80).
 }
 
 KNOWN_TOTALS_BY_VOL = {
