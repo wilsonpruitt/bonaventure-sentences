@@ -5680,6 +5680,19 @@ KNOWN_TOTALS_VOL7 = {
              # no heading: n.7 *tertio*, n.8 *Ioannis decimo*, n.9 *Iob decimo nono*, n.10 *Iob primo*, n.11
              # *quarti Regum septimo*; all 205R). Blocks L 1-3 / R 4-11 (nn.4-5 anchor LEFT, print RIGHT). No
              # runover. Gutter 1139 (rows 0.20-0.50, band 1109-1170, rule 1136-1143).
+             # Hand-off re-derived true by bon-luc-c8-v34-39 (nn.7-11 all 205R below para 59's close, all print
+             # RIGHT). Gutter re-measured below the joint: 1137 (rows 0.30-0.75, band 1108-1167).
+    206: 13, # bon-luc-c8-v34-39. Anchors L 1-5 / R 6-13. Blocks L 1-7 / R 8-13 (nn.6-7 anchor RIGHT, print
+             # LEFT). n.13 (Iob 21, 14; Hieron. in Matth. 8, 34) RUNS OVER THE PAGE: its tail (*praesentia Domini
+             # indignos ... Exi a me etc.*) heads p.207's LEFT footer block, unnumbered, above p.207 n.1.
+             # Gutter 1295 (rows 0.20-0.50, band 1267-1324, rule 1292-1299).
+    207: 12, # bon-luc-c8-v34-39. Anchors L 1-6 / R 7-12. Blocks L (p.206 n.13 tail) + 1-8 / R 9-12 (nn.7-8
+             # anchor RIGHT, print LEFT). No gutter runover. Gutter 1152 (rows 0.20-0.50, band 1121-1184).
+    208: 11, # SHARED. nn.1-9 bon-luc-c8-v34-39 (para 71 closes ~0.49 of 208R on *...omnibus nuntiavit.*;
+             # anchors L 1-5 / R 6-9); nn.10-11 bon-luc-c8-v40-48 (para 72 *Factum est autem, cum rediisset
+             # Iesus* below, no heading: n.10 *Supra*, n.11 *ibi: Adhuc illo loquente*; both 208R). Blocks
+             # L 1-4 / R 5-11 (n.5 anchors LEFT, prints RIGHT). No runover. Gutter 1305 (rows 0.20-0.50,
+             # band 1276-1335, rule 1301-1309).
 }
 
 KNOWN_TOTALS_BY_VOL = {
