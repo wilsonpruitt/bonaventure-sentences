@@ -5804,6 +5804,20 @@ KNOWN_TOTALS_VOL7 = {
              # n. 43.*; read at 1.0x for the hand-off only). Anchors L 1-6 / R 7-12 (n.6 at para 70's *ibi*, 239L foot).
              # Blocks L 1-4 / R (n.4 tail) + 5-12. n.4 RUNS OVER THE GUTTER (*...praemittitur huic homi-* | *-liae,
              # dicitur...*). Gutter 1156 (rows 0.20-0.50, band 1125-1187, rule 1154-1159).
+             # Re-derived by bon-luc-c9-v37-45: nn.5-12 true in digit and anchor (nn.5-6 anchor LEFT, print RIGHT).
+    240: 12, # bon-luc-c9-v37-45. Anchors L 1-6 / R 7-12. Blocks L 1-7 / R (n.7 tail) + 8-12. n.7 RUNS OVER THE GUTTER
+             # (*...Inferius pro in-* | *-firmitas arreptitiorum...*); n.7 anchors RIGHT, prints LEFT. Gutter 1315 (rows
+             # 0.20-0.50, band 1287-1344, rule 1311-1321).
+    241: 15, # bon-luc-c9-v37-45. Anchors L 1-8 / R 9-15. Blocks L 1-7 / R 8-15. No runover; n.8 anchors LEFT, prints
+             # RIGHT. Gutter 1143 (rows 0.20-0.50, band 1111-1175, rule 1142-1145).
+    242: 10, # bon-luc-c9-v37-45. Anchors L 1-4 / R 5-10. Blocks L 1-4 / R 5-10. No runover. Gutter 1308 (rows
+             # 0.20-0.50, band 1278-1339, rule 1306-1311).
+    243: 13, # SHARED. nn.1-4 bon-luc-c9-v37-45 (para 84 closes ~0.33 of 243L on *...in aeternum non peccabis.*);
+             # nn.5-13 bon-luc-c9-v46-56 (t4 *Norma praesidendi tripliciter explicatur.*, then para 85 *Intravit autem
+             # cogitatio*, n.5 at *partis*, *Cfr. supra n. 1.*; read at 0.3-1.6x for the hand-off only). Anchors L 1-7 /
+             # R 8-13. Blocks L 1-9 / R (n.9 tail) + 10-13; n.9 RUNS OVER THE GUTTER (*...illos utrumque fecisse, et primum* |
+             # *quidem alio tempore...*), to be re-derived by its owner. Gutter 1152 (rows 0.20-0.50, band 1121-1183,
+             # rule 1150-1154).
 }
 
 KNOWN_TOTALS_BY_VOL = {
