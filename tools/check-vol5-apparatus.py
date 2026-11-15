@@ -4991,6 +4991,23 @@ KNOWN_TOTALS_VOL7 = {
              # 119 *ibi*) and are bon-luc-c1-v67-80's. Blocks L 1-7 / R 8-12; n.12 does not finish on the leaf
              # (*...Cuius nominis impositio [Israel pro*): a page-crossing runover onto p.39, c1-v67-80's to
              # ledger. Gutter 1294 (default 62 px; profile band 1264-1325, island 1293-1297).
+             # Re-read at bon-luc-c1-v67-80: the two readings AGREE (12; n.1 theirs, nn.2-12 mine; anchors
+             # L 2-6 / R 7-12, n.7 prints LEFT; n.12's tail opens p.39's left block unnumbered).
+    39: 9,   # bon-luc-c1-v67-80. Anchors L 1-5 / R 6-9; blocks L (p.38 n.12 tail) + 1-4 head / R 4 tail +
+             # 5-9 (n.4 RUNS OVER the gutter). Gutter 1141 (default 1138 on 58 px; profile rows 0.10-0.70
+             # band 1114-1171, island 1138-1147, windows 1140-1143).
+    40: 9,   # bon-luc-c1-v67-80. Anchors L 1-5 / R 6-9; blocks L 1-6 head / R 6 tail + 7-9 (n.6 RUNS OVER
+             # the gutter, prints LEFT, anchors RIGHT). Gutter 1292 (default 1297 on 59 px; band 1264-1318,
+             # island 1284-1298, windows 1290-1293).
+    41: 10,  # bon-luc-c1-v67-80. Anchors L 1-5 / R 6-10; blocks L 1-6 / R 7-10 (n.6 prints LEFT, anchors
+             # RIGHT), no runover. Gutter 1153 (default 1156 on 48 px; band 1123-1183, island 1150-1156).
+    42: 12,  # bon-luc-c1-v67-80. Anchors L 1-5 / R 6-12; blocks L 1-6 / R 7-12 (n.6 prints LEFT, anchors
+             # RIGHT), no runover. Gutter 1309 (default 1308 on 54 px; band 1279-1340, island 1308-1312).
+    43: 8,   # FULL leaf count (Cap. I / Cap. II). bon-luc-c1-v67-80 owns nn.1-7 (anchors L 1-3 in paras
+             # 141-143, R 4-7 in para 144, all ABOVE the full-measure CAPITULUM II. at ~0.59); n.8 (*Cfr.
+             # supra c. 1. n. 7.*) anchors in Cap. II's opening and is bon-luc-c2-v1-7's. Blocks L 1-4 head /
+             # R 4 tail + 5-8 (n.4 RUNS OVER the gutter: c1-v67-80's to ledger). Gutter 1140 for the region
+             # above CAPITULUM II. (rows 0.06-0.56, windows 1139-1142); the region below is the next chunk's.
 }
 
 KNOWN_TOTALS_BY_VOL = {
