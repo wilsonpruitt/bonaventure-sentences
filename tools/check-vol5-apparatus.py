@@ -5528,6 +5528,24 @@ KNOWN_TOTALS_VOL7 = {
              # Anchors L 1-6 / R 7-10. Blocks L 1-4 head / R 4 tail + 5-10: n.4 (Augustine, City of God XXI +
              # Ep. 102) RUNS OVER THE GUTTER (*Illud enim fit longa* | *mora*). Gutter 1289 (band 1261-1317,
              # rule 1283-1294; rows 0.10-0.80).
+             # Re-read by bon-luc-c6-v39-49: nn.7-10 all anchor 160R (n.7 para 92 *ibi*, n.8 *tertio*, n.9
+             # *quinquagesimo*, n.10 *Gregorius*), all print in the RIGHT block; hand-off true in every digit.
+    161: 10, # bon-luc-c6-v39-49. Anchors L 1-6 / R 7-10. Blocks L 1-5 / R 6-10 (n.6, John 13:12 ff., anchors
+             # LEFT, prints RIGHT). No runover. n.4 *pag. 145 ... n. 52* and p.160 n.10's *pag. 146 ...
+             # n. 53* are two consecutive Gregory sections (bon-sap-c6), both right. Gutter 1174 (band 1144-1204, rule 1173-1179).
+    162: 9,  # bon-luc-c6-v39-49. Anchors L 1-6 / R 7-9. Blocks L 1-5 head / R 5 tail + 6-9: n.5 (Jas 4:8 +
+             # the *trabes / trabs* variant) RUNS OVER THE GUTTER (*I. Tim. 4, 16. —* | *Superius pro ut trabes*).
+             # n.1's Cato distich set as two centred verse lines. Gutter 1304 (band 1275-1334, rule 1300-1310).
+    163: 14, # bon-luc-c6-v39-49. Anchors L 1-7 / R 8-14. Blocks L 1-7 / R 8-14. No runover. Gutter 1161
+             # (band 1134-1189, rule 1156-1167).
+    164: 14, # bon-luc-c6-v39-49. Anchors L 1-7 / R 8-14. Blocks L 1-7 / R 8-14. No runover. Gutter 1288
+             # (band 1261-1316, rule 1282-1295).
+    165: 12, # SHARED. nn.1-9 bon-luc-c6-v39-49 (paras 108-111; para 111 closes ~0.47 of 165R on *documenta
+             # divina habent terminum.* directly above the full-measure CAPITULUM VII.); nn.10-12
+             # bon-luc-c7-v1-16 (n.10 at c.7 para 1 *veritatem*, n.11 at its first *ibi*, n.12 at the 165R
+             # divisio's *ibi*). Mine: anchors L 1-4 / R 5-9; blocks L 1-6 / R 7-9 (nn.5-6 anchor RIGHT, print
+             # LEFT). No runover. Gutter for the Cap. VI region 1165 (rows 0.06-0.50, band 1133-1197, rule
+             # 1162-1167); measure the Cap. VII region separately.
 }
 
 KNOWN_TOTALS_BY_VOL = {
