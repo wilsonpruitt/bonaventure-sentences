@@ -1103,6 +1103,14 @@ const WORKS = {
       // leaf below Cap. I's close, and the italic t2 `Secundo, de nativitate ex
       // utero dupliciter.` (unanchored) opens 43L beneath it.
       2: "Capitulum II",
+      // `CAPITULUM III.` read in place on p. 69 at bon-luc-c3-v1-9: full-measure
+      // centred small capitals, WITH its period, UNANCHORED (p. 69's nn. 8-11
+      // anchor in para 1's body and after), with NO subtitle; it stands at
+      // ~0.47 of the leaf (row profile: the only ink crossing the gutter
+      // between 0.40 and 0.62) below Cap. II's close, and the italic t2
+      // `Tertio, de nativitate extra uterum tripliciter.` (unanchored) opens
+      // 69L beneath it.
+      3: "Capitulum III",
     },
   },
 };

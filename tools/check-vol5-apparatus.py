@@ -5145,7 +5145,40 @@ KNOWN_TOTALS_VOL7 = {
              # in Cap. III para 1 and after (n.8 at *Anno*) and are the next chunk's. Blocks L 1-5 / R 6-11;
              # n.5 prints LEFT, anchors RIGHT; no runover in nn.1-7. Gutter 1156 above the heading (rows
              # 0.05-0.50 band 1146-1166, island 1151-1161, a heavily inked rule) / 1158 below (rows 0.62-0.76
-             # band 1128-1189).
+             # band 1128-1189). [bon-luc-c3-v1-9, re-read whole: count 11 and the 7 / 4 split CONFIRMED;
+             # nn.8-11 (para 1 *Anno*, *Ambrosii*, *ibi*; the t3 paragraph *ibi*) all anchor below the heading,
+             # n.8-10 in 69L, n.11 in 69R, and all four print in 69R's block. `CAPITULUM III.` stands at ~0.47 of
+             # the leaf by row profile (the only gutter-crossing ink 0.40-0.62), not ~0.57.]
+    70: 10,  # bon-luc-c3-v1-9. Anchors L 1-3 (un-numbered para *congregabat*; para 2 *secundo*; para 3 *tertio*)
+             # / R 4-10 (para 3 *primo*, *principatus*, *Beda*, *Iosephus*; para 4 *Beda*, *penultimo*,
+             # *Melchisedech*). Blocks L 1-7 head / R 7 tail + 8-10: n.7 (Josephus / Lysanias) RUNS OVER THE
+             # GUTTER (*...ubi Zenodorus, conductor* | *domus Lysaniae...*); nn.4-6 print LEFT, anchor RIGHT.
+             # t4 at 70L. Gutter 1305 (rows 0.10-0.45 band 1274-1337; 0.45-0.80 band 1273-1335 -> 1304).
+    71: 10,  # bon-luc-c3-v1-9. Anchors L 1-4 (para 4's tail *Melchisedech*; para 5 *octavo*, *Gregorius*,
+             # *incredulitatis*) / R 5-10 (para 6 *ibi*; para 7 *primo*, *septimo*, *septimo*, *secundo*; para 8
+             # *Chrysostomus*). Blocks L 1-5 / R 6-10: no runover; n.5 prints LEFT, anchors RIGHT. t4 heads 71R.
+             # Gutter 1158 (rows 0.10-0.45 band 1128-1189; rows 0.45-0.80 windows fork on the t4, median 1161).
+    72: 12,  # bon-luc-c3-v1-9. Anchors L 1-5 (para 8's tail *primo*; para 9 *nono*, *secundo*; para 10
+             # *quadragesimo*, *octavo*) / R 6-12 (para 10 *ostendit*; para 11 *Psalmus*, *quarto*, *primo*,
+             # *octavo*, *quarto*, *Tullium*). Blocks L 1-6 head / R 6 tail + 7-12: n.6 (the Gloss on Matt. 4:17)
+             # RUNS OVER THE GUTTER (*ut ostenda-* | *tur non alius*); n.12 (Cicero / the Digest) RUNS OVER THE
+             # PAGE to the head of p. 73's left block (*Cfr. Iustinian., I. Digest.* | *tit. 1. de Iure...*).
+             # Gutter 1297 (rows 0.10-0.45 band 1267-1328; 0.45-0.80 band 1262-1325 -> 1293).
+    73: 9,   # bon-luc-c3-v1-9. Anchors L 1-5 (para 12 *Psalmus*, *quinto*, *Beda*, *undecimo*; para 13
+             # *Psalmi*) / R 6-9 (para 13 *humanitatem*; para 14 *ibi*; para 15 *baptismum*, *tertio*). Blocks:
+             # L = p.72 n.12's tail + nn.1-6 head / R 6 tail + 7-9: n.6 (Gregory, Hom. in Ezech.) RUNS OVER THE
+             # GUTTER (*Quod enim salutare* | *dicimus Latine*); n.6 prints LEFT, anchors RIGHT. t4 at 73R.
+             # Gutter 1164 (rows 0.45-0.80 band 1134-1195; the upper window forks on the t4).
+    74: 12,  # bon-luc-c3-v1-9. Anchors L 1-5 (para 15's tail *repletae*; para 16 *Gregorius*, *nono*; para 17
+             # *sexto*, *Gregorius*) / R 6-12 (para 18 *octavo*; para 19 *duodecimo*, *Gregorius*, *tertio*,
+             # *primo*; para 20 *Glossa*, *primo*). Blocks L 1-7 head / R 7 tail + 8-12: n.7 (Ambrose) RUNS
+             # OVER THE GUTTER (*Nam licet Deus* | *possit diversas*); nn.6-7 print LEFT, anchor RIGHT. SKEWED
+             # leaf: band 1264-1325 at 0.08 -> 1298-1361 at 0.75 (~35 px walk); one split at 1312 with the
+             # crop's 60 px overlap holds both columns.
+    75: 9,   # FULL leaf count (Cap. III vv. 1-9 / vv. 10-14). bon-luc-c3-v1-9 owns nn.1-2 (para 21 *sexto*,
+             # *quinto*), both 75L above the t3 *Secundo, de baptismo et praedicatione Ioannis in speciali
+             # quoad tria.*; nn.3-9 anchor in para 22 and after and are bon-luc-c3-v10-14's. Blocks L 1-7 head
+             # / R 7 tail + 8-9. Gutter 1161 (colcrop default, 59 px run).
 }
 
 KNOWN_TOTALS_BY_VOL = {
