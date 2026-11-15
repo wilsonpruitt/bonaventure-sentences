@@ -280,6 +280,20 @@ def clause_before(text, pos, window=300, splitter=CLAUSE_SPLIT_RE):
     return parts[-1] if parts else seg
 
 
+OWN_AUTHOR_VOLUMES = {7}
+ROMAN_DIST_VOLUMES = {7}
+
+
+def OWN_AUTHOR_FREE(cfg):
+    """The author sigla, minus Bonaventure's own (`Bonav.`) when the CITING chunk is in a
+    volume listed in OWN_AUTHOR_VOLUMES (T7, ruling 37: Vol VII only). Vols I-VI keep the
+    old behaviour: ~100 `Bonav.`-governed Sentences loci in the scholia/apparatus there
+    read `authority` today, and re-filing them is a corpus-wide ruling, not this job's."""
+    if cfg.get("_citing_volume") in OWN_AUTHOR_VOLUMES:
+        return [a for a in cfg["_author_sigla"] if a != "Bonav."]
+    return cfg["_author_sigla"]
+
+
 def governed_by_author(text, pos, sigla, chain=False):
     cl = clause_before(text, pos, window=500 if chain else 300,
                        splitter=CHAIN_SPLIT_RE if chain else CLAUSE_SPLIT_RE)
@@ -344,6 +358,10 @@ def scan_scripture_apparatus(text, cfg):
     for m in pat.finditer(text):
         key = abbrev_map.get(normalize_abbrev(m.group(1)))
         if not key:
+            continue
+        # T1 (ruling 37): a book name at the end of one paragraph + the next paragraph's
+        # number (`Vasthi et Esther.` / `98. (Vers. 53.)`) is not a citation.
+        if re.search(r"\n[ \t]*\n", m.group(0)):
             continue
         # `in Ioan.` = Augustine's tractates on John, not the gospel (INDEX-PLAN #4).
         pre = text[max(0, m.start() - 6): m.start()].lower()
@@ -464,7 +482,7 @@ def scan_scripture_body(text, cfg):
     #      name capitalised. Matching case-insensitively turns every such noun into a
     #      scripture citation.
     pat = re.compile(
-        rf"(?<![A-Za-zÀ-ÿ])(?:ad\s+)?({'|'.join(map(re.escape, forms))})\s+"
+        rf"(?<![A-Za-zÀ-ÿ])(?:ad\s+)?({'|'.join(map(re.escape, forms))}),?\s+"
         rf"((?:{ow})(?:\s+(?:{ow}))?|{LAST_CHAPTER_RE})(?![A-Za-zÀ-ÿ])",
         re.IGNORECASE,
     )
@@ -521,16 +539,25 @@ LOCUS_TAIL = (
 def scan_sentences(text, cfg):
     """`II. Sent. d. 38. a. 1. q. 2` — logical cross-book locus (or an authority's)."""
     pat = re.compile(
-        rf"(?:(?P<bk>{ROMAN_RE})\.?\s*)?Sent\.\s*d\.\s*(?P<dist>\d+)\.?{LOCUS_TAIL}"
+        # T13 (ruling 37): the distinction may be ROMAN (`III. Sent. d. XIII`).
+        rf"(?:(?P<bk>{ROMAN_RE})\.?\s*)?Sent\.\s*(?:lit\.\s*Magistri,?\s*)?d\.\s*(?P<dist>\d+|[IVXL]{{1,5}}(?![A-Za-z]))\.?{LOCUS_TAIL}"
     )
     for m in pat.finditer(text):
-        author = governed_by_author(text, m.start(), cfg["_author_sigla"])
+        # T7 (ruling 37): `S. Bonav.` is the work's OWN author, not a foreign authority — the
+        # guard runs without the `Bonav.` siglum (as scan_lucam does), so `S. Bonav., IV. Sent.
+        # d. 4. …` is Bonaventure's own Sentences, not an excluded authority.
+        author = governed_by_author(text, m.start(), OWN_AUTHOR_FREE(cfg))
         d = m.groupdict()
+        # T13 scope: a ROMAN distinction (and the `lit. Magistri,` form) is accepted in Vol VII only. In Vols I-VI it would
+        # add ~70 records (and 1 new QA flag) and re-bind some `ibid.` chains — deferred.
+        if ((not d["dist"].isdigit() or "lit. Magistri" in m.group(0))
+                and cfg.get("_citing_volume") not in ROMAN_DIST_VOLUMES):
+            continue
         yield {
             "cls": "authority" if author else "crossref",
             "sub": "logical" if not author else f"authority:{author}",
             "book": ROMAN.get(d["bk"]) if d["bk"] else None,
-            "dist": int(d["dist"]),
+            "dist": (int(d["dist"]) if d["dist"].isdigit() else roman_value(d["dist"])),
             "pars": roman_or_int(d["pars"]),
             "sectio": roman_or_int(d["sectio"]),
             "art": as_int(d["art"]),
@@ -771,7 +798,7 @@ def scan_page(text, cfg):
         # resolved into the CITING volume (mysterio Trinitatis work-close gate).
         rf"(?:\btom\.?\s+(?P<tom>{ROMAN_RE})\.?\s*)?"
         rf"(?:(?P<rel>supra|infra)\s+)?(?P<ibid>[Ii]bid\.?\s+)?pag\.\s*(?P<page>\d{{1,4}})"
-        r"(?:\s*,\s*nota\s*(?P<nota>\d+))?"
+        r"(?:\s*,\s*(?:in\s+)?nota\s*(?P<nota>\d+))?"
     )
     # `(?![IVX])`: without it ROMAN_RE's first alternative takes the `I` of `IV`/`IX`
     # and stops, so `tom. IV. … pag. 103` inherited tome I (work-close gate, 2026-09-15).
@@ -808,6 +835,13 @@ def scan_page(text, cfg):
                                                     splitter=CHAIN_SPLIT_RE))
             if lb:
                 tom = ROMAN.get(lb[-1])
+        if tom is None and not d["rel"] and not d["ibid"]:
+            # T9 (ruling 37): `Cfr. Breviloq. Prolog. § 2, ubi (pag. 203, in nota 8.) …` —
+            # a bare page in a parenthesis right after a named Vol V work is that work's
+            # page in Vol V, not the citing volume's.
+            if re.search(r"(?:Breviloq|Itiner|Hexa[eë]m)\w*\.[^()]{0,60}\(\s*$",
+                         text[max(0, m.start() - 90): m.start()]):
+                tom = 5
         yield {
             "cls": "crossref", "sub": "page",
             "tom": tom, "explicit_tom": bool(d["tom"]),
@@ -907,11 +941,22 @@ def resolve_locus(rec, citing, by_locus, by_dist):
     return "", "dangling"
 
 
-def resolve_page(rec, citing, by_page):
+def resolve_page(rec, citing, by_page, by_id=None):
     vol = rec.get("tom") or citing.volume
     ids = by_page.get((vol, rec["page"]), [])
     if len(ids) == 1:
         return ids[0], "chunk"
+    if len(ids) > 1 and rec.get("nota") and by_id:
+        # T6 (ruling 24 / 37): a page shared by several chunks is broken by its NOTE —
+        # keep only the chunks that really carry apparatus note `p<page>-<nota>` (or,
+        # for a chunk confined to that one page, note `<nota>`); one survivor is the target.
+        pg, nt = rec["page"], str(rec["nota"])
+        own = [i for i in ids if i in by_id and (
+            f"p{pg}-{nt}" in by_id[i].apparatus
+            or (nt in by_id[i].apparatus and by_id[i].pages
+                and set(by_id[i].pages) == {pg}))]
+        if len(own) == 1:
+            return own[0], "chunk"
     if len(ids) > 1:
         return "+".join(ids), "page-multi"
     if not VOLUME_COMPLETE.get(vol, False):
@@ -1035,7 +1080,8 @@ IOAN_WORK = "ioannem"
 # nor another author's (`Origenes, Comment. in Ioan. tom. 32. n. 19`), which
 # cites by tome and is excluded by the required `c. N. n. M` shape.
 IOAN_PARA_RE = re.compile(
-    r"Comment\.?\*?\s+in\s+Ioan\.?\*?\s+c\.\s*(?P<c>\d+)\.?,?\s*n\.\s*(?P<n>\d+)\.?"
+    # T7: also `Comment. in Ioan. 1, 44. n. 91` (no `c.`, a verse between chapter and n.).
+    r"Comment\.?\*?\s+in\s+Ioan\.?\*?\s+(?:c\.\s*)?(?P<c>\d+)\.?,?\s*(?:\d+\.?\s*,?\s*)?n\.\s*(?P<n>\d+)\.?"
 )
 
 
@@ -1043,7 +1089,8 @@ def scan_ioan_paragraph(text, cfg):
     for m in IOAN_PARA_RE.finditer(text):
         if re.search(r"Bonelli|Suppl", text[m.end():m.end() + 60]):
             continue
-        if governed_by_author(text, m.start(), cfg["_author_sigla"]):
+        # T7: Bonaventure's own John commentary named by `S. Bonav.` is still his own.
+        if governed_by_author(text, m.start(), OWN_AUTHOR_FREE(cfg)):
             continue
         yield {"cls": "crossref", "sub": "ioan-paragraph",
                "chap": int(m.group("c")), "n": int(m.group("n")),
@@ -1112,6 +1159,21 @@ def scan_lucam(text, cfg):
                "raw": m.group(0).strip(), "pos": m.start()}
 
 
+# T12 + IV-d21 (ruling 37): Bonaventure's OWN Luke commentary cited from Vols I-VI in a form
+# `LUC_RE` does not (and must not) match. An explicit two-row table, NOT a wider `LUC_RE`: a
+# wider lead (`Expos(it). in Luc.`) would expose ~15 Ambrose / Bede `Exposit. in Luc.` sites to
+# the author guard (one of them, bon-sent-IV-d18-p1-littera n. 7, names no author in the note).
+#   chunk, section, raw text as printed, Luke chapter, verse, why
+LUCAM_SITES = [
+    ("bon-sent-IV-d21-p1-a1-q2", "apparatus:8", "Exposit. in Luc. 18, 13", 18, 13,
+     "`S. Bonav. Exposit. in Luc. 18, 13` — Bonaventure's own Luke commentary (no Luke 18 chunk yet: forward)"),
+    ("bon-ioan-c3-v13-16", "apparatus:p283-2", "Exposit. in cap. 3, 21. S. Lucae", 3, 21,
+     "Bonelli's `interpres noster Exposit. in cap. 3, 21. S. Lucae` — Quaracchi treats it as this "
+     "commentary (bon-luc-c3-v21-22 p. 83 n. 3: `Haec verba iuxta Bonelli allegavimus tom. VI. pag. 283, "
+     "nota 2`); it lands on the Vat. addition moved into the apparatus, not on the printed body"),
+]
+
+
 def build_luc_index(by_id):
     """(chapter, verse) -> chunk ids, and (chapter, paragraph) -> chunk ids."""
     verse_idx, para_idx = defaultdict(list), defaultdict(list)
@@ -1139,10 +1201,49 @@ def resolve_lucam(rec, luc_index):
     return f"lucam:{rec['chap']}:{'n' if rec['kind'] == 'n' else ''}{rec['n']}", "forward"
 
 
+# ------------- Comment. in Eccle. C, V (Vol VII ruling 37 / T7, 2026-11-14)
+
+ECCLE_WORK = "ecclesiasten"
+# Bonaventure's own Ecclesiastes commentary (Vol VI) cited by chapter + verse:
+# `Comment. in Eccle. 1, 8.` Same discipline as the Luke class: the lead is `Comment.`
+# (so `Hieron. in Comment. in Eccle. ad 7, 8` is dropped by the author guard) and
+# `Bonav.` is the work's own author.
+ECCLE_RE = re.compile(
+    r"Comment\.?\*?\s+in\s+Eccle(?:s|siast\w*)?\.?\*?,?\s*(?:ad\s+)?(?:c\.\s*)?"
+    r"(?P<c>\d{1,2})\s*[.,]\s*(?:v\.\s*)?(?P<v>\d{1,3})\b\.?"
+)
+
+
+def scan_eccle(text, cfg):
+    for m in ECCLE_RE.finditer(text):
+        if governed_by_author(text, m.start(), [a for a in cfg["_author_sigla"] if a != "Bonav."]):
+            continue
+        yield {"cls": "crossref", "sub": "eccle", "chap": int(m.group("c")),
+               "n": int(m.group("v")), "raw": m.group(0).strip(), "pos": m.start()}
+
+
+def build_eccle_index(by_id):
+    idx = defaultdict(list)
+    for cid, c in by_id.items():
+        if c.work == ECCLE_WORK and c.division and c.verses:
+            for v in range(c.verses[0], c.verses[1] + 1):
+                idx[(c.division, v)].append(cid)
+    return idx
+
+
+def resolve_eccle(rec, eccle_index):
+    ids = eccle_index.get((rec["chap"], rec["n"]), [])
+    if len(ids) == 1:
+        return ids[0], "chunk"
+    if len(ids) > 1:
+        return "+".join(sorted(ids)), "ambiguous"
+    return "", "dangling"
+
+
 # ------------------------------------------- anchors inside the target (Phase 3)
 
 ANCHOR_DUB_RE = re.compile(r"\bdub\.\s*(\d+)")
-ANCHOR_NOTA_RE = re.compile(r"pag\.\s*(\d{1,4})\s*,\s*nota\s*(\d+)")
+ANCHOR_NOTA_RE = re.compile(r"pag\.\s*(\d{1,4})\s*,\s*(?:in\s+)?nota\s*(\d+)")
 
 
 def to_roman(n):
@@ -1209,7 +1310,7 @@ def nearest_anchor(text, pos, window=60):
     return m.group(1) if m else ""
 
 
-VERS_RE = re.compile(r"\bVers\.\s*(\d{1,3})")
+VERS_RE = re.compile(r"\bVers?\.\s*(\d{1,3})")  # T11: `Ver. 14.` (a printed abbreviation)
 
 
 # NOTE: Migne's anaphor set includes `Id.`/`Idem`; DO NOT port those two here. In
@@ -1435,6 +1536,43 @@ def apply_printed_slips(rows):
     return notes
 
 
+# T3 / T8 / T4 (ruling 37): CROSS-REFERENCES that Quaracchi printed wrongly (or that resolve to
+# a target which does not carry the cited note). Same class as PRINTED_SLIPS: the record is KEPT,
+# `raw_text` as printed, and listed in the QA report's slips table — never retargeted, never
+# emended. What changes is the verdict: `resolution` becomes `unresolvable` and the target is
+# blanked, so a standing `forward` / `dangling` / wrong `chunk` edge is retired by a recorded reason.
+# Keyed narrowly: (chunk, section, raw_text) must match EXACTLY ONE record, else it is reported stale.
+CROSSREF_SLIPS = [
+    ("bon-luc-c1-v67-80", "apparatus:p38-7", "supra pag. 1, nota 5",
+     "T3 — `supra pag. 1, nota 5`: Vol VII's first printed page is p. 3, so there is no p. 1 note to "
+     "point at; a Quaracchi slip (vol7 p. 88 gate sheet § 11), not a forward reference"),
+    ("bon-luc-c2-v21-24", "apparatus:p54-10", "d. 8. p. II. dub. 2.",
+     "T8 — `d. 8. p. II. dub. 2.` is a Quaracchi slip (plate-verified at the vol7 gate, sheet § 11); "
+     "filed as printed, not retargeted"),
+    ("bon-luc-c2-v1-7", "apparatus:p44-7", "tom. VI. pag. 91, nota 3",
+     "T4 — `tom. VI. pag. 91, nota 3` was filed to `bon-eccl-c11-v1-10`, whose note does not match "
+     "the citation (same note: `ibid. v. 45` is itself unresolved); unresolvable rather than a wrong `chunk`"),
+]
+
+
+def apply_crossref_slips(rows, qa):
+    """Retire the standing verdict of each CROSSREF_SLIPS record. Returns QA-note tuples."""
+    notes = []
+    for cid, sec, raw, why in CROSSREF_SLIPS:
+        hits = [r for r in rows if r["chunk_id"] == cid and r["section"] == sec
+                and r["class"] == "crossref" and r["raw_text"] == raw]
+        if len(hits) != 1:
+            notes.append((cid, sec, raw, f"⚠ CROSSREF_SLIPS entry matched {len(hits)} records "
+                                         "(expected 1) — the table is stale; fix the entry, not the chunk"))
+            continue
+        r = hits[0]
+        was = f"{r['resolution']} `{r['normalized_target']}`"
+        r["normalized_target"], r["confidence"], r["resolution"] = "", "", "unresolvable"
+        qa[:] = [q for q in qa if not (q[0] == cid and q[1] == sec and q[2] == raw)]
+        notes.append((cid, sec, raw, f"printed slip, kept as printed; was {was}, now `unresolvable` ({why})"))
+    return notes
+
+
 W51_ON = os.environ.get("CITATIONS_W51") == "1"
 W51_VERS_ONLY_RE = re.compile(r"\s*(?:\*[^*]*\*\s*)?Vers\.\s*\d+")
 W51_STRIP_RE = re.compile(r"Vers\.\s*\d+(?:\.\s*et\s*\d+)?|\*[^*]*\*")
@@ -1628,6 +1766,9 @@ def apply_coord_ibid(r, ant, how, cfg, qa, cross_chunk_prefix=""):
     return True
 
 
+ANAPHOR_NOTE_BOUNDARY_VOLUMES = {7}
+
+
 def resolve_anaphora(chunk_rows, sections=None, cfg=None, qa=None):
     """Resolve bare `ibid.` / `loc. cit.` / `Id.` against the printed sequence.
 
@@ -1671,6 +1812,13 @@ def resolve_anaphora(chunk_rows, sections=None, cfg=None, qa=None):
             # (note-anchor join, ruling 57 b) is a different path and does use them.
             if p.get("_d5"):
                 continue
+            # T10 (ruling 37): in Vol VII an apparatus `ibid.` / `loc. cit.` never reaches
+            # back into ANOTHER note — the note boundary ends the walk. (Vols I-VI keep the
+            # across-note walk this docstring describes: it is the rule they were built on.)
+            if (cfg and cfg.get("_citing_volume") in ANAPHOR_NOTE_BOUNDARY_VOLUMES
+                    and r["section"].startswith("apparatus:")
+                    and p["section"] != r["section"]):
+                break
             if p["subclass"] != "relative-bare" and not p["ibid_resolved"]:
                 ant = p
                 break
@@ -1729,11 +1877,25 @@ def resolve_anaphora_across_chunks(chunks, per_chunk, cfg=None, qa=None):
                 break
         if tail is None:
             continue
+        first_note = next((f"apparatus:{lab}" for lab in c.apparatus
+                           if not lab.startswith("tr-")), None)
         for r in per_chunk.get(c.cid, []):
             if r["subclass"] != "relative-bare" or r["ibid_resolved"]:
                 continue
             if not r["section"].startswith("apparatus:"):
                 continue
+            # T10: with the note boundary in force (Vol VII) only the chunk's FIRST note can
+            # be continued from the previous chunk's footer; a later note that found no
+            # antecedent in its own note stays unresolvable.
+            if c.volume in ANAPHOR_NOTE_BOUNDARY_VOLUMES:
+                if r["section"] != first_note:
+                    continue
+                # ... and only if the note actually OPENS with the anaphor (an `ibid.` in
+                # the middle of a note, after a work this ledger does not record, is not
+                # a continuation of the previous chunk's footer).
+                if not re.match(r"\s*(?:Vers\.\s*\d+\.?\s*[—-]?\s*)?(?:[Ii]bid|[Ll]oc\. cit)",
+                                c.apparatus.get(r["section"].split(":", 1)[1], "")):
+                    continue
             if r.get("_coords"):
                 # Ruling 57: a coordinate `ibid.` crosses a chunk boundary only on the
                 # same terms as a note boundary — it opened its note and found no
@@ -1763,12 +1925,15 @@ def extract(chunks, cfg, by_locus, by_dist, by_page, by_id):
     unit_index = build_unit_index(by_id)
     para_index = build_paragraph_index(by_id)
     luc_index = build_luc_index(by_id)
+    eccle_index = build_eccle_index(by_id)
     scanners = (scan_scripture_apparatus, scan_scripture_book_unnamed,
                 scan_scripture_body, scan_scripture_evangelist,
                 scan_sentences, scan_chain_continuation, scan_relative,
-                scan_page, scan_work, scan_ioan_paragraph, scan_lucam)
+                scan_page, scan_work, scan_ioan_paragraph, scan_lucam,
+                scan_eccle)
 
     for c in chunks:
+        cfg["_citing_volume"] = c.volume
         # DOCUMENT ORDER is the resolution key for anaphora, so records are collected
         # per chunk and sorted before the `ibid.` pass runs. Apparatus entries arrive
         # from split_sections in file order, which is Quaracchi's printed order.
@@ -1831,7 +1996,7 @@ def extract(chunks, cfg, by_locus, by_dist, by_page, by_id):
                     elif rec["sub"] == "relative-bare":
                         tgt, res, conf = "", "unresolvable", ""
                     elif rec["sub"] == "page":
-                        tgt, res = resolve_page(rec, c, by_page)
+                        tgt, res = resolve_page(rec, c, by_page, by_id)
                         conf = ""
                         if res == "dangling":
                             qa.append((c.cid, section, rec["raw"],
@@ -1852,6 +2017,12 @@ def extract(chunks, cfg, by_locus, by_dist, by_page, by_id):
                     elif rec["sub"] == "lucam":
                         tgt, res = resolve_lucam(rec, luc_index)
                         conf = ""
+                    elif rec["sub"] == "eccle":
+                        tgt, res = resolve_eccle(rec, eccle_index)
+                        conf = ""
+                        if res == "dangling":
+                            qa.append((c.cid, section, rec["raw"],
+                                       f"no Ecclesiastes chunk holds c. {rec['chap']} v. {rec['n']}"))
                     else:
                         continue
 
@@ -1868,6 +2039,26 @@ def extract(chunks, cfg, by_locus, by_dist, by_page, by_id):
                         "_coords": rec.get("ibid_coords"),
                         "_d5": rec.get("_d5", False),
                     })
+
+        for cid_, sec_, raw_, lchap, lverse, _why in LUCAM_SITES:
+            if cid_ != c.cid:
+                continue
+            stext = dict(sections).get(sec_, "")
+            at = stext.find(raw_)
+            if at < 0:
+                qa.append((c.cid, sec_, raw_, "⚠ LUCAM_SITES entry not found in its note — "
+                                              "the table is stale; fix the entry, not the chunk"))
+                continue
+            tgt_, res_ = resolve_lucam({"chap": lchap, "n": lverse, "kind": "v"}, luc_index)
+            chunk_rows.append({
+                "chunk_id": c.cid, "volume": c.volume, "section": sec_,
+                "anchor_label": sec_.split(":", 1)[1] if sec_.startswith("apparatus:") else "",
+                "class": "crossref", "subclass": "lucam", "raw_text": raw_,
+                "normalized_target": tgt_, "confidence": "", "resolution": res_,
+                "ibid_resolved": "", "antecedent": "",
+                "_order": ([n for n, _ in sections].index(sec_), at),
+                "_end": at + len(raw_), "_coords": None, "_d5": False,
+            })
 
         chunk_rows.sort(key=lambda r: r["_order"])
         resolve_anaphora(chunk_rows, dict(sections), cfg, qa)
@@ -1942,7 +2133,7 @@ def main():
     chunks = [c for c in corpus if in_scope(c)]
     rows, qa, unresolved_anaphora = extract(chunks, cfg, by_locus, by_dist, by_page, by_id)
     rows = dedupe(rows)
-    slip_notes = apply_printed_slips(rows)
+    slip_notes = apply_printed_slips(rows) + apply_crossref_slips(rows, qa)
     assign_anchors(rows, by_id)
 
     os.makedirs(os.path.dirname(args.out), exist_ok=True)

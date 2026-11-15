@@ -63,7 +63,7 @@
     {"key": "Prov", "order": 22, "testament": "OT", "name_la": "Proverbia", "name_en": "Proverbs", "chapters": 31,
      "abbrev": ["Prov.", "Proverb."], "body_forms": ["Proverbiorum"]},
     {"key": "Eccle", "order": 23, "testament": "OT", "name_la": "Ecclesiastes", "name_en": "Ecclesiastes", "chapters": 12,
-     "abbrev": ["Eccle.", "Eccles.", "Eccle"], "body_forms": ["Ecclesiastes", "Ecclesiaste"]},
+     "abbrev": ["Eccle.", "Eccles.", "Eccle"], "body_forms": ["Ecclesiastes", "Ecclesiaste", "Ecclesiastae"]},
     {"key": "Cant", "order": 24, "testament": "OT", "name_la": "Canticum Canticorum", "name_en": "Song of Songs", "chapters": 8,
      "abbrev": ["Cant.", "Cantic."], "body_forms": ["Canticorum", "Canticis"]},
     {"key": "Sap", "order": 25, "testament": "OT", "name_la": "Sapientia", "name_en": "Wisdom", "chapters": 19,
