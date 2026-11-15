@@ -5570,8 +5570,21 @@ KNOWN_TOTALS_VOL7 = {
     173: 11, # SHARED. nn.1-2 bon-luc-c7-v1-16 (para 32's close, 173L top: n.1 *Iob decimo*, n.2 *quarti
              # Regum quarto*; both print at the head of the LEFT block); nn.3-11 bon-luc-c7-v17-23 (para 33
              # *Et exiit hic sermo* under the 173L t4 *Secundo, declaratur sublimitas Doctoris propter
-             # evidentiam veritatis per testimonium Praecursoris.*; n.3 at its *ibi*). Gutter for the
-             # region above the heading 1172 (rows 0.06-0.40, band 1142-1203, rule 1170-1175).
+             # evidentiam veritatis per testimonium Praecursoris.*; n.3 at its *ibi*). Anchors (c7-v17-23)
+             # L 3-4 / R 5-11; blocks L 1-7 head / R 7 tail + 8-11: n.7 (Bede) RUNS OVER THE GUTTER.
+             # Gutter above the heading 1172 (rows 0.06-0.40, band 1142-1203, rule 1170-1175); below it
+             # 1171 (rows 0.45-0.75, band 1140-1202, rule 1169-1173).
+    174: 13, # bon-luc-c7-v17-23. Anchors L 1-7 / R 8-13. Blocks L 1-6 head / R 6 tail + 7-13: n.6 (John 6:5
+             # + Jerome) RUNS OVER THE GUTTER; n.7 anchors LEFT, prints RIGHT. Gutter 1317 (rows 0.15-0.60,
+             # band 1290-1344, 55 px, heavy 13 px rule 1311-1323).
+    175: 13, # bon-luc-c7-v17-23. Anchors L 1-6 / R 7-13. Blocks L 1-6 / R 7-13. No runover. Gutter 1165
+             # (band 1136-1195, rule 1161-1169).
+    176: 14, # bon-luc-c7-v17-23. Anchors L 1-8 / R 9-14. Blocks L 1-7 / R 8-14 (n.8 anchors LEFT, prints
+             # RIGHT). No runover. Gutter 1291 (band 1260-1322, rule 1289-1293).
+    177: 14, # SHARED. nn.1-7 bon-luc-c7-v17-23 (para 45's close and para 46, all anchored 177L); nn.8-14
+             # bon-luc-c7-v24-35 (para 47 *Et cum discessissent etc. Supra*, opening ~0.57 of 177L with NO
+             # heading; n.8 *Cfr. supra n. 33.* at its *Supra*). Blocks L 1-6 / R 7-14 (n.7 anchors LEFT,
+             # prints RIGHT). Gutter 1182 (rows 0.10-0.50, band 1151-1214, rule 1181-1184).
 }
 
 KNOWN_TOTALS_BY_VOL = {
