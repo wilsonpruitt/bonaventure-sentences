@@ -5652,6 +5652,18 @@ KNOWN_TOTALS_VOL7 = {
              # Blocks L 1-4 head / R 4 tail + 5-11: n.4 (Ioan. 1, 12; August.; D G H) RUNS OVER THE GUTTER
              # (*D G H et ideo haec* | *praetermittenda*); nn.5-6 anchor LEFT, print RIGHT. Gutter below the
              # heading 1316 (rows 0.15-0.70, band 1287-1345, rule 1312-1320).
+             # Hand-off re-derived true by bon-luc-c8-v22-25 (nn.7-11 at *Factum est*, *omne verbum*, first
+             # *ibi*, *ibi: Navigantibus*, *ascensus naviculae*; all five 198R below the t4, all five print RIGHT).
+    199: 14, # bon-luc-c8-v22-25. Anchors L 1-8 / R 9-14. Blocks L 1-9 head / R 9 tail + 10-14: n.9 (Marc. 4,
+             # 37; Ionae 1, 4; Vat. *venit et*, *dispositione*) RUNS OVER THE GUTTER (*pro dispen-* | *satione*).
+             # Gutter 1130 (band 1099-1161, rule 1129-1131). n.7 *notam 9* points to p.198 n.10 (slip, as printed).
+    200: 12, # bon-luc-c8-v22-25. Anchors L 1-6 / R 7-12. Blocks L 1-9 / R 10-12 (nn.7-9 anchor RIGHT, print
+             # LEFT). No runover. Gutter 1281 (rows 0.20-0.50, band 1253-1310, rule 1278-1286; 1288 at 0.50-0.78).
+    201: 12, # SHARED. nn.1-10 bon-luc-c8-v22-25 (para 45 closes ~0.43 of 201R on *...transitus animae
+             # poenitentis.*; anchors L 1-6 / R 7-10); nn.11-12 bon-luc-c8-v26-33 (para 46 below, no heading:
+             # n.11 *regionem*, n.12 *ibi: Et rogabant illum*; both 201R). Blocks L 1-6 head / R 6 tail + 7-12:
+             # n.6 (Ezech. 1, 4; Iob 1, 19; tom. III. pag. 555-556) RUNS OVER THE GUTTER (*(gaudium* | *et dolor*).
+             # Gutter 1167 (rows 0.20-0.50, band 1136-1198, rule 1166-1168).
 }
 
 KNOWN_TOTALS_BY_VOL = {
