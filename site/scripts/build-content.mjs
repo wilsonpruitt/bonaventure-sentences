@@ -1135,6 +1135,15 @@ const WORKS = {
       // 134L directly (marginale `Pars II. habet duo membra.`), so the chunk
       // takes a sentence title (rulings 33, 40).
       6: "Capitulum VI",
+      // `CAPITULUM VII.` read in place on p. 165 at bon-luc-c7-v1-16: full-measure
+      // centred small capitals, WITH its period, UNANCHORED (p. 165's nn. 10-12
+      // anchor in para 1's body and after), with NO subtitle; it stands at
+      // ~0.55 of the leaf below Cap. VI's close (para 111 + epilogue), and the
+      // small-bold t4 `Secundo declaratur sublimitas in Doctore tripliciter.`
+      // (unanchored) opens 165L beneath it, the two-line t4 `Primo propter
+      // excellentiam potestatis probatam per duo miracula.` (unanchored)
+      // standing at the head of 165R inside para 1, which titles the chunk.
+      7: "Capitulum VII",
     },
   },
 };

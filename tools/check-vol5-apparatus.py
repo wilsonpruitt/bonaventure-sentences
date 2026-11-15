@@ -5546,6 +5546,32 @@ KNOWN_TOTALS_VOL7 = {
              # divisio's *ibi*). Mine: anchors L 1-4 / R 5-9; blocks L 1-6 / R 7-9 (nn.5-6 anchor RIGHT, print
              # LEFT). No runover. Gutter for the Cap. VI region 1165 (rows 0.06-0.50, band 1133-1197, rule
              # 1162-1167); measure the Cap. VII region separately.
+             # Re-read by bon-luc-c7-v1-16: nn.10-11 anchor 165L (c.7 para 1 *veritatem*, first *ibi*), n.12
+             # anchors 165R (the un-numbered continuation of para 1 under the 165R t4, *quae ibi*); all
+             # three print in the RIGHT block below n.9; hand-off true in every digit. Cap. VII region
+             # gutter 1169 (rows 0.58-0.80, band 1139-1200, rule 1166-1172).
+    166: 10, # bon-luc-c7-v1-16. Anchors L 1-5 / R 6-10. Blocks L 1-5 / R 6-10. No runover. Gutter 1268
+             # (band 1241-1296, rule 1264-1275).
+    167: 14, # bon-luc-c7-v1-16. Anchors L 1-9 / R 10-14. Blocks L 1-7 / R 8-14 (nn.8-9 anchor LEFT, print
+             # RIGHT). No runover. Gutter 1174 (band 1144-1204, rule 1172-1177).
+    168: 12, # bon-luc-c7-v1-16. Anchors L 1-6 / R 7-12. Blocks L 1-6 / R 7-12. No runover. Corrigenda
+             # (t. VII p. 858) at 168L l. 4 from foot, para 12 *dignitatem* -> *indignitatem*. Gutter 1291
+             # (band 1264-1318, rule 1286-1298).
+    169: 12, # bon-luc-c7-v1-16. Anchors L 1-7 / R 8-12. Blocks L 1-6 head / R 6 tail + 7-12: n.6 (Ps 147:15
+             # + Rom 10:10 + I Sent. d.27) RUNS OVER THE GUTTER (*Sequitur Rom. 10, 10. —* | *Pro propositione
+             # non refert*). Gutter 1171 (band 1141-1202, rule 1169-1175).
+    170: 12, # bon-luc-c7-v1-16. Anchors L 1-6 / R 7-12. Blocks L 1-5 / R 6-12 (n.6 anchors LEFT, prints
+             # RIGHT). No runover. Gutter 1279 (band 1250-1309, rule 1276-1282).
+    171: 12, # bon-luc-c7-v1-16. Anchors L 1-6 / R 7-12. Blocks L 1-7 / R 8-12 (n.7 anchors RIGHT, prints
+             # LEFT). No runover. Gutter 1173 (rows 0.30-0.60, band 1143-1203, rule 1169-1176; the 0.10-0.80
+             # window returned a 17 px island).
+    172: 13, # bon-luc-c7-v1-16. Anchors L 1-5 / R 6-13. Blocks L 1-8 / R 9-13 (nn.6-8 anchor RIGHT, print
+             # LEFT). No runover. Gutter 1289 (rows 0.20-0.50, band 1258-1319, rule 1286-1291).
+    173: 11, # SHARED. nn.1-2 bon-luc-c7-v1-16 (para 32's close, 173L top: n.1 *Iob decimo*, n.2 *quarti
+             # Regum quarto*; both print at the head of the LEFT block); nn.3-11 bon-luc-c7-v17-23 (para 33
+             # *Et exiit hic sermo* under the 173L t4 *Secundo, declaratur sublimitas Doctoris propter
+             # evidentiam veritatis per testimonium Praecursoris.*; n.3 at its *ibi*). Gutter for the
+             # region above the heading 1172 (rows 0.06-0.40, band 1142-1203, rule 1170-1175).
 }
 
 KNOWN_TOTALS_BY_VOL = {
