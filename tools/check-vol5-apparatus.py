@@ -5053,6 +5053,28 @@ KNOWN_TOTALS_VOL7 = {
              # Blocks L 1-9 head / R 9 tail + 10-11 (n.9 RUNS OVER the gutter: c2-v21-24's to ledger).
              # Gutter 1284 for the region ABOVE the t3 (rows 0.10-0.45, band 1255-1314, island 1282-1288;
              # default 1280 on 60 px); the region below is the next chunk's to profile.
+             # Re-read at bon-luc-c2-v21-24: the two readings AGREE (11; nn.1-4 theirs, nn.5-11 mine: n.5 para 44
+             # *humilitas* 54R, n.6 para 44 *ibi*, nn.7-11 para 45 *exaltabitur*, *decimo septimo*, *Bernardus*,
+             # *quinto*, *Bernardus*, all 54R). Gutter 1280 for the region BELOW the t3 (rows 0.66-0.80, band
+             # 1249-1311, island 1278-1281). n.9 RUNS OVER the gutter (ledgered at c2-v21-24).
+    55: 15,  # bon-luc-c2-v21-24. Anchors L 1-6 (paras 45-47) / R 7-15 (paras 47-49); blocks L 1-8 head / R 8
+             # tail + 9-15 (n.8 RUNS OVER the gutter: Breviloq./Hexaem. ... *sex habet* | *aetates et septimam*;
+             # nn.7-8 print LEFT, anchor RIGHT). Gutter 1172 (rows 0.20-0.50 band 1143-1204 -> 1173; rows
+             # 0.50-0.80 band 1140-1203 -> 1171).
+    56: 11,  # bon-luc-c2-v21-24. Anchors L 1-5 (paras 49-51; n.3 para 50 *ibi* below the 56L t4 *Qualiter
+             # Christus factus sit sub lege caeremoniali.*) / R 6-11 (paras 51-54); blocks L 1-2 head / R 2 tail
+             # + 3-11 (n.2 RUNS OVER the gutter: Gregory on Ps. 6 ... *Enarrat. in Ps. 6.* | *n. 1. seq.*;
+             # nn.3-5 print RIGHT, anchor LEFT). Gutter 1285 (rows 0.20-0.50 band 1254-1314 -> 1284; rows
+             # 0.50-0.80 band 1255-1317 -> 1286).
+    57: 11,  # bon-luc-c2-v21-24. Anchors L 1-5 (paras 54-56) / R 6-11 (paras 56-57); blocks L 1-2 / R 3-11
+             # (nn.3-5 print RIGHT, anchor LEFT), no runover. Gutter 1150 (rows 0.20-0.50 band 1117-1177 ->
+             # 1147; rows 0.50-0.80 band 1123-1182 -> 1152).
+    58: 11,  # FULL leaf count (vv. 21-24 / vv. 25-35). bon-luc-c2-v21-24 owns NONE: its share of the leaf is
+             # the un-numbered tail of para 57 (*In hac purgatione ergo...*, ~0.07-0.17 of 58L, unanchored);
+             # nn.1-11 all anchor at or below para 58 (*Et ecce, homo erat*, n.1 at *plurium*) and are
+             # bon-luc-c2-v25-35's. Blocks L 1-6 / R 7-11, no runover seen at reading scale. Gutter 1297 for
+             # the region of para 57's tail (rows 0.07-0.20, band 1267-1328, island 1296-1300); rows 0.30-0.60
+             # read 1311 (band 1284-1338) -- the region below is the next chunk's to profile.
 }
 
 KNOWN_TOTALS_BY_VOL = {
