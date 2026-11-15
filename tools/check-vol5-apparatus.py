@@ -5585,6 +5585,20 @@ KNOWN_TOTALS_VOL7 = {
              # bon-luc-c7-v24-35 (para 47 *Et cum discessissent etc. Supra*, opening ~0.57 of 177L with NO
              # heading; n.8 *Cfr. supra n. 33.* at its *Supra*). Blocks L 1-6 / R 7-14 (n.7 anchors LEFT,
              # prints RIGHT). Gutter 1182 (rows 0.10-0.50, band 1151-1214, rule 1181-1184).
+             # Re-derived by bon-luc-c7-v24-35: anchors (its) L 8-9 / R 10-14, all printed in the RIGHT block.
+    178: 13, # bon-luc-c7-v24-35. Anchors L 1-6 / R 7-13. Blocks L 1-4 / R 5-13 (nn.5-6 anchor LEFT, print
+             # RIGHT). No runover. Gutter 1280 (rows 0.15-0.60, band 1250-1310, rule 1277-1283).
+    179: 12, # bon-luc-c7-v24-35. Anchors L 1-5 / R 6-12. Blocks L 1-7 head / R 7 tail + 8-12: n.7 (Luke 7:28
+             # Vulgate + Gregory) RUNS OVER THE GUTTER. Gutter 1181 (band 1151-1211, rule 1178-1183).
+    180: 11, # bon-luc-c7-v24-35. Anchors L 1-6 / R 7-11. Blocks L 1-4 / R 5-11 (nn.5-6 anchor LEFT, print
+             # RIGHT). No runover. Gutter 1286 (band 1255-1317, rule 1285-1287).
+    181: 12, # bon-luc-c7-v24-35. Anchors L 1-6 / R 7-12 (n.7 at *mandu-|cans* at the head of 181R). Blocks
+             # L 1-7 head / R 7 tail + 8-12: n.7 RUNS OVER THE GUTTER. Gutter 1154 (band 1123-1185, rule 1152-1156).
+    182: 12, # SHARED. nn.1-3 bon-luc-c7-v24-35 (para 61's close, 182L top: n.1 *primae ad Corinthios primo*,
+             # n.2 *Ecclesiastici quarto*, n.3 *Ecclesiastici tertio*); nn.4-12 bon-luc-c7-v36-50 (para 62
+             # *Rogabat autem illum quidam Pharisaeus* under the 182L t4 *Tertio declaratur sublimitas Doctoris
+             # propter affluentiam pietatis tripliciter.*; n.4 at *Pharisaeus*). Blocks L 1-5 / R 6-12.
+             # Gutter 1312 (rows 0.15-0.60, band 1284-1341, rule 1309-1317).
 }
 
 KNOWN_TOTALS_BY_VOL = {
