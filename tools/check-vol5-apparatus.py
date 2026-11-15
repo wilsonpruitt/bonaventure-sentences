@@ -5335,6 +5335,24 @@ KNOWN_TOTALS_VOL7 = {
              # *ostendendum*12 and is bon-luc-c4-v38-44's. Anchors L 1-7 / R 8-12. Blocks L 1-8 head / R 8 tail +
              # 9-12: n.8 (IV. Reg. 2, 15 [sic]; Rabanus; Sacra Biblia) RUNS OVER THE GUTTER. Gutter 1172 (band
              # 1144-1200, 57 px, rule 1167-1177; default 1168 on 57 px, escalated; crops at 1168 read whole).
+             # Re-read at bon-luc-c4-v38-44: AGREE (12; n.12 anchors 107R para 79, printed RIGHT, last, no runover).
+    108: 11, # bon-luc-c4-v38-44. Anchors L 1-5 / R 6-11; blocks agree L 1-5 / R 6-11, none runs over.
+             # Gutter 1300 (band 1270-1330, 61 px, rule 1298-1303; default 1301 on 60 px).
+    109: 12, # bon-luc-c4-v38-44. Anchors L 1-6 / R 7-12; blocks agree L 1-6 / R 7-12, none runs over.
+             # Gutter 1197 (band 1168-1226, 59 px, rule 1192-1201; default 1201 on 59 px, 4 px off, re-cropped).
+    110: 11, # bon-luc-c4-v38-44. Anchors L 1-5 / R 6-11. Blocks L 1-6 head / R 6 tail + 7-11: n.6 (Ps. 6, 6;
+             # Hieron. in Matth. 8, 30: *...quam praemium sequitur confitentis, | sed necessitatis extorsio...*)
+             # RUNS OVER THE GUTTER. Gutter 1281 (band 1251-1312, 62 px, rule 1278-1285; default 1284 on 59 px).
+    111: 10, # bon-luc-c4-v38-44. Anchors L 1-4 / R 5-10. Blocks L 1-6 head / R 6 tail + 7-10 (nn.5-6 anchor
+             # RIGHT, print LEFT): n.6 (*de Vera Re- | lig. c. 16. n. 31*) RUNS OVER THE GUTTER. Gutter 1201
+             # (band 1172-1230, 59 px, rule 1198-1205; default 1203 on 62 px).
+    112: 11, # FULL leaf count; SHARED. nn.1-9 bon-luc-c4-v38-44's (paras 95-98; n.9 para 98 *secundo*, 112R,
+             # the last anchor above the full-measure CAPITULUM V.); nn.10-11 belong to the first Cap. V chunk
+             # (bon-luc-c5-v1-11: n.10 Cap. V para 1 *Supra*, 112L below the t3 *Secundo determinatur discipulorum
+             # vocatio per duo.*; n.11 *culpae*, 112R). Anchors L 1-5 / R 6-9 (Cap. IV); L 10 / R 11 (Cap. V).
+             # Blocks L 1-7 head / R 7 tail + 8-11: n.7 (Zachar. 6; Hieron. *Legi in cuiusdam volumine...*) RUNS
+             # OVER THE GUTTER. Gutter 1252 for the Cap. IV body region (rows 0.06-0.42: windows 1252-1253 on
+             # 60-63 px; default 1249 on 45 px, the CAPITULUM V. stack) and 1248 for the footer (band 1217-1280).
 }
 
 KNOWN_TOTALS_BY_VOL = {
