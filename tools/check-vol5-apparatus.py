@@ -5724,6 +5724,20 @@ KNOWN_TOTALS_VOL7 = {
              # orans*, n.11 *ibi: Et reversi Apostoli* (both 216R)). Blocks L 1-3 / R 4-11 (n.4 anchors LEFT,
              # prints RIGHT). No runover. Gutter 1300 above the heading (rows 0.10-0.40, band 1270-1330, rule
              # 1299-1303); 1304 below it (rows 0.44-0.66, band 1273-1336, rule 1303-1306).
+             # Hand-off re-derived true by bon-luc-c9-v1-9 (nn.8-11, every digit and anchor; all four print RIGHT).
+             # Gutter re-measured below the heading: 1304 (rows 0.44-0.66, band 1273-1336, rule 1303-1306).
+    217: 13, # bon-luc-c9-v1-9. Anchors L 1-5 / R 6-13. Blocks L 1-7 / R (n.7 tail) + 8-13. n.7 RUNS OVER THE
+             # GUTTER (*...Beda, II. in Luc. 6, 13: Apostoli Graece,* | *Latine missi dicuntur. ...*); n.6 anchors
+             # RIGHT, prints LEFT. Gutter 1155 (rows 0.20-0.50, band 1126-1185, rule 1152-1160).
+    218: 12, # bon-luc-c9-v1-9. Anchors L 1-6 / R 7-12. Blocks L 1-4 / R 5-12 (nn.5-6 anchor LEFT, print RIGHT).
+             # n.12 RUNS OVER THE PAGE: its tail (*...rigentibus una quis tunica ... in imitatione.*) heads p.219's
+             # LEFT footer block. Gutter 1306 (rows 0.20-0.50, band 1276-1337, rule 1304-1308).
+    219: 10, # bon-luc-c9-v1-9. Anchors L 1-5 / R 6-10. Blocks L (p.218 n.12 tail) + 1-5 / R 6-10. No runover of
+             # its own. Gutter 1160 (rows 0.20-0.50, band 1129-1191, rule 1158-1162).
+    220: 11, # SHARED. nn.1-10 bon-luc-c9-v1-9 (para 14 closes ~0.68 of 220R on *...videri et inveniri.*); n.11
+             # bon-luc-c9-v10-17 (para 15 *Et reversi Apostoli nuntiaverunt*11, on 220R's last two lines: *Vide
+             # supra pag. 216, notam 11.*). Anchors L 1-5 / R 6-11. Blocks L 1-5 / R 6-11. No runover. Gutter 1292
+             # (rows 0.20-0.50, band 1261-1324, rule 1291-1294).
 }
 
 KNOWN_TOTALS_BY_VOL = {

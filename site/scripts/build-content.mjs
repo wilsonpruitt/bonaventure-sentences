@@ -1151,6 +1151,15 @@ const WORKS = {
       // mystica Scripturarum.` over para 1 and the 188R t4 `Primo ponitur
       // instructio parabolica in occultis mysteriis per tria.` (title_la, ruling 22).
       8: "Capitulum VIII",
+      // `CAPITULUM IX.` read in place on p. 216 at bon-luc-c9-v1-9: full-measure
+      // centred small capitals at ~0.39, directly below Cap. VIII's last para 99
+      // (…Et sic intelligitur illud praeceptum.), no subtitle, unanchored. Below it
+      // the 216L t3 (larger roman, hanging indent) `Quarto determinatur instructorum
+      // discipulorum delegatio, primo quoad Apostolos, deinde quoad septuaginta.`
+      // over para 1, and in 216R the t4 `Primo agitur de missione Apostolorum quoad
+      // tria.` and the t4 `Forma praedicandi dupliciter explicatur.` (title_la,
+      // ruling 22), both inside para 1 (ruling 1d).
+      9: "Capitulum IX",
     },
   },
 };
