@@ -5896,6 +5896,22 @@ KNOWN_TOTALS_VOL7 = {
              # 266L); nn.3-13 bon-luc-c10-v25-37 (n.3 at para 43's *formam vivendi*3, ~0.25 of 266L, prints third in
              # the LEFT block, *Vide supra n. 1.*; read for the hand-off only). Gutter 1266 (band 1239-1294, rule
              # 1261-1272).
+             # Re-derived by bon-luc-c10-v25-37: nn.3-13 true in digit and anchor. Anchors (mine) L 3-6 / R 7-13.
+             # Blocks L 1-6 / R 7-13. No runover.
+    267: 10, # bon-luc-c10-v25-37. Anchors L 1-4 / R 5-10. Blocks L 1-6 + n.7 head / R n.7 tail + 8-10. n.7 RUNS OVER
+             # THE GUTTER; nn.5-6 anchor RIGHT, print LEFT. Gutter 1167 (band 1136-1199, rule 1165-1170).
+    268: 13, # bon-luc-c10-v25-37. Anchors L 1-5 / R 6-13. Blocks L 1-5 / R 6-13. No runover. Gutter 1303 (band
+             # 1275-1331, rule 1298-1309).
+    269: 13, # bon-luc-c10-v25-37. Anchors L 1-7 / R 8-13. Blocks L 1-4 / R 5-13. nn.5-7 anchor LEFT, print RIGHT.
+             # No runover. Gutter 1191 (band 1161-1222, rule 1189-1194).
+    270: 11, # bon-luc-c10-v25-37. Anchors L 1-6 / R 7-11. Blocks L 1-6 / R 7-11. No runover. Gutter 1283 (band
+             # 1254-1312, rule 1278-1287).
+    271: 9,  # bon-luc-c10-v25-37. Anchors L 1-4 / R 5-9. Blocks L 1-5 + n.6 head / R n.6 tail + 7-9. n.6 RUNS OVER
+             # THE GUTTER; nn.5-6 anchor RIGHT, print LEFT. Gutter 1164 (band 1134-1195, rule 1162-1167).
+    272: 10, # SHARED. nn.1-3 bon-luc-c10-v25-37 (para 64, all anchored and printed LEFT, above the t4 at ~0.50 of
+             # 272L); nn.4-10 bon-luc-c10-v38-42 (n.4 at para 65's *Glossa Bedae*4, 272L below the t4, prints
+             # fourth in the LEFT block, *Scilicet ordinaria in Luc. 10, 38.*; read for the hand-off only).
+             # Gutter 1285 (band 1255-1316, rule 1283-1288).
 }
 
 KNOWN_TOTALS_BY_VOL = {
