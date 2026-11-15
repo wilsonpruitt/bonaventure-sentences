@@ -5218,7 +5218,37 @@ KNOWN_TOTALS_VOL7 = {
              # quoad duo.*; nn.9-11 anchor in para 47 (*primo*, *ibi*) and the paragraph under the t4
              # *Primo, de regeneratione Christi sacramentali duo.* (*ibi*) and are bon-luc-c3-v21-22's.
              # Blocks L 1-4 / R 5-11, no runover; n.5 prints RIGHT while it anchors LEFT. Gutter 1161
-             # (colcrop default, 62 px; band 1130-1192).
+             # (colcrop default, 62 px; band 1130-1192). RE-READ by bon-luc-c3-v21-22: 8 / 3 confirmed,
+             # every hand-off digit right (n.9 *Vers. 31.*, n.10 *Vers. 23.*, n.11 *Vers. 21.*); profile
+             # of the region below the t3 (rows 0.40-0.75) band 1130-1192, midpoint 1161.
+    82: 12,  # bon-luc-c3-v21-22. Anchors L 1-6 (para 48 *Psalmum*, *septimo*; para 49 *tertio*,
+             # *Chrysostomus*, *primo*, *vigesimo primo*) / R 7-12 (para 50 *Psalmi*, *decimo octavo*;
+             # para 51 *quinto*, *undecimo*, *vigesimo secundo*; para 52 *maiorum*). Blocks L 1-5 /
+             # R 6-12, no runover; n.6 prints RIGHT while it anchors LEFT (the column's last line).
+             # Gutter 1276 (colcrop default 1258 on a 20 px run, escalated; band 1248-1305, island
+             # 1270-1280).
+    83: 10,  # bon-luc-c3-v21-22. Anchors L 1-4 (para 52's un-numbered paragraph *octavo*, *Psalmi*,
+             # *tertio*, *tertio*) / R 5-10 (para 53 lemma *Descendit*, *Chrysostomus*, *tertio*,
+             # *Gregorius*, *octavo*; para 54 *nono*). Blocks L 1-8 head / R 8 tail + 9-10: n.8 (Gregory,
+             # homil. 30) RUNS OVER THE GUTTER (*In columba* | *ergo super eum*); n.10 (Bede on Luke 9:35)
+             # RUNS OVER THE PAGE onto the head of p.84's LEFT footer (*visionis quod* | *crediderat
+             # contemplabitur*). nn.5-8 print LEFT while they anchor RIGHT. Gutter 1167 (default 1164 on
+             # 59 px; band 1139-1195, island 1161-1172).
+    84: 14,  # bon-luc-c3-v21-22. Anchors L 1-7 (para 54 *nono*, *Psalmus*, *duodecimo:*; para 55
+             # lemma *Vox*, *Psalmus*, *primo*, *primo*) / R 8-14 (para 55 lemma *complacuit*; para 56
+             # *quia*, *tertio*, *Evangelistarum*, *placitissimum*, *dicit*, *placet*). Footer opens LEFT
+             # with p.83 n.10's tail; blocks L 1-9 / R 10-14: n.14 (Augustine, de Consensu) RUNS OVER
+             # THE PAGE onto the head of p.85's LEFT footer (*Si rursus ex hoc* | *uno intelligat
+             # quisque*). nn.8-9 print LEFT while they anchor RIGHT. Para 56 closes the body at ~0.75 of
+             # 84R; nothing of the chunk's body stands on p.85. SKEWED ~10 px: rows 0.15-0.45 band
+             # 1269-1323 (midpoint 1296), rows 0.45-0.75 band 1278-1334 (midpoint 1306); one split at
+             # 1300 clears both (colcrop default 1308 on 52 px).
+    85: 9,   # FULL leaf count. The leaf opens at the head of 85L on the t4 *Secundo, de genealogia
+             # temporali tria.* (bon-luc-c3-v23-38's); ALL NINE notes anchor below it (para 57 *ultra*,
+             # *vigesimo*, *primo*, ...) and are bon-luc-c3-v23-38's. The footer opens LEFT with p.84
+             # n.14's tail (bon-luc-c3-v21-22's page runover), then nn.1-2 L / nn.3-9 R. Read for the
+             # count by bon-luc-c3-v21-22; the next chunk re-reads every digit. colcrop default 1142
+             # (61 px), not profiled.
 }
 
 KNOWN_TOTALS_BY_VOL = {
