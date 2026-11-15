@@ -5864,6 +5864,24 @@ KNOWN_TOTALS_VOL7 = {
              # 7's *ibi* before *Et in quamcumque civitatem*, ~0.56 of 254R; read for the hand-off only). Anchors
              # L 1-5 / R 6-11. Blocks L 1-7 / R 8-11; nn.6-7 anchor RIGHT, print LEFT. No runover. Gutter 1307 (rows
              # 0.20-0.50, band 1276-1338, rule 1305-1309).
+             # Re-derived by bon-luc-c10-v4-16: n.11 true in digit and anchor (*ibi*11, 254R; prints last in the
+             # RIGHT block, *Vers. 8.*).
+    255: 11, # bon-luc-c10-v4-16. Anchors L 1-5 / R 6-11. Blocks L 1-3 + n.4 head / R n.4 tail + 5-11. n.4 RUNS OVER
+             # THE GUTTER; n.5 anchors LEFT, prints RIGHT. Gutter 1150 (band 1119-1181, rule 1148-1152).
+    256: 10, # bon-luc-c10-v4-16. Anchors L 1-4 / R 5-10. Blocks L 1-3 + n.4 head / R n.4 tail + 5-10. n.4 RUNS OVER
+             # THE GUTTER; n.10 RUNS OVER THE PAGE (tail at the head of p.257's LEFT block). Gutter 1297 (band
+             # 1266-1328, rule 1295-1298).
+    257: 10, # bon-luc-c10-v4-16. Anchors L 1-4 / R 5-10. Blocks L (p.256 n.10 tail) + 1-5 / R 6-10; n.5 anchors
+             # RIGHT, prints LEFT. Gutter 1162 (band 1132-1193, rule 1159-1165).
+    258: 14, # bon-luc-c10-v4-16. Anchors L 1-7 / R 8-14. Blocks L 1-5 + n.6 head / R n.6 tail + 7-14. n.6 RUNS OVER
+             # THE GUTTER; n.7 anchors LEFT, prints RIGHT. Gutter 1292 (band 1262-1323, rule 1290-1296).
+    259: 12, # bon-luc-c10-v4-16. Anchors L 1-7 / R 8-12. Blocks L 1-7 + n.8 head / R n.8 tail + 9-12. n.8 RUNS OVER
+             # THE GUTTER (anchors RIGHT, opens LEFT). Gutter 1161 (band 1130-1192, rule 1159-1162).
+    260: 10, # bon-luc-c10-v4-16. Anchors L 1-4 / R 5-10. Blocks L 1-3 + n.4 head / R n.4 tail + 5-10. n.4 RUNS OVER
+             # THE GUTTER. Gutter 1289 (band 1260-1319, rule 1286-1293).
+    261: 12, # SHARED. nn.1-3 bon-luc-c10-v4-16 (para 27, all anchored and printed LEFT); nn.4-12 bon-luc-c10-v17-24
+             # (n.4 at para 28's *redeuntium*, ~0.47 of 261L, prints fourth in the LEFT block, *Cfr. supra n. 1.*;
+             # read for the hand-off only). Gutter 1165 (band 1135-1196, rule 1162-1168).
 }
 
 KNOWN_TOTALS_BY_VOL = {
