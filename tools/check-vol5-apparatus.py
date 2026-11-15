@@ -5840,6 +5840,21 @@ KNOWN_TOTALS_VOL7 = {
              # (*...allegatus (pro Generosus* | *A C D H etiam hic Gloriosus)...*); nn.7-10 anchor RIGHT, print LEFT.
              # Gutter 1309 (rows 0.20-0.50, band 1280-1338, rule 1305-1313); 249 = 1142 (measured ahead: band
              # 1112-1172, rule 1139-1145).
+             # Re-derived by bon-luc-c9-v57-62: nn.11-12 true in digit and anchor (both anchor R at ~0.50-0.53 of
+             # 248R, both print last in the RIGHT block). Gutter 1309 re-derived.
+    249: 13, # bon-luc-c9-v57-62. Anchors L 1-7 / R 8-13. Blocks L 1-7 (n.7 head) / R (n.7 tail) + 8-13. n.7 RUNS OVER
+             # THE GUTTER (*...Homil. 27. (alias* | *28.) in Matth. n. 2. circa finem...*). Gutter 1142 (rows 0.20-0.50,
+             # band 1112-1172, rule 1139-1145), as measured ahead.
+    250: 10, # bon-luc-c9-v57-62. Anchors L 1-4 / R 5-10. Blocks L 1-5 (n.5 head) / R (n.5 tail) + 6-10. n.5 RUNS OVER
+             # THE GUTTER (*...sepulturae respondit:* | *Sine, mortui sepeliant etc....*); n.5 anchors RIGHT, prints
+             # LEFT. Gutter 1295 (rows 0.20-0.50, band 1267-1324, rule 1290-1300).
+    251: 11, # bon-luc-c9-v57-62. Anchors L 1-4 / R 5-11. Blocks L 1-4 / R 5-11. No runover. Gutter 1165 (rows
+             # 0.20-0.50, band 1135-1195, rule 1163-1170).
+    252: 10, # SHARED. nn.1-3 bon-luc-c9-v57-62 (para 111's unnumbered tail across the top of p.252, closing ~0.21 on
+             # *...in deserto interfecti fuerunt.*; anchors L 1 / R 2-3; all three print LEFT); nn.4-10
+             # bon-luc-c10-v1-3 (below the full-measure CAPITULUM X. at ~0.25; n.4 at para 1 *Post haec*, n.5 at
+             # *infra eodem*; read at 1.0x for the hand-off only). Blocks L 1-5 / R 6-10. Gutter 1300 above CAPITULUM X.
+             # (rows 0.04-0.22, windows 1300-1303) and below it (rows 0.28-0.60, band 1270-1331, rule 1298-1302).
 }
 
 KNOWN_TOTALS_BY_VOL = {
