@@ -5499,6 +5499,19 @@ KNOWN_TOTALS_VOL7 = {
     152: 14, # bon-luc-c6-v20-26, the WHOLE register (para 63 closes at 152R foot; para 64 opens 153L top, no
              # heading). Anchors L 1-7 / R 8-14. Blocks L (p.151 n.12 tail) 1-8 head / R 8 tail + 9-14: n.8
              # (I John 4:18) RUNS OVER THE GUTTER (*foras mittit timo-* | *rem...*). Gutter 1312 (band 1283-1341).
+    153: 13, # bon-luc-c6-v27-31, the WHOLE register (para 64 opens 153L top, no heading). Anchors L 1-4 / R 5-13.
+             # Blocks L 1-8 / R 9-13 (nn.5-8 anchor RIGHT, print LEFT). n.13 (III Sent. d.30 + Apolog. pauperum
+             # + codd.) RUNS OVER THE PAGE onto p.154's left block head (*sed si astringit* | *perfectos [!
+             # imperfectos]*). Gutter 1169 (band 1139-1200, rule 1167-1173; the default 1174 was 5 px off).
+    154: 11, # bon-luc-c6-v27-31. Anchors L 1-5 / R 6-11. Blocks L (p.153 n.13 tail) 1-5 head / R 5 tail + 6-11:
+             # n.5 (Acts 23:10) RUNS OVER THE GUTTER (*ne discerperetur Paulus ab* | *ipsis*). Gutter 1299
+             # (band 1271-1328, rule 1296-1304).
+    155: 13, # bon-luc-c6-v27-31. Anchors L 1-7 / R 8-13. Blocks L 1-6 / R 7-13 (n.7 anchors LEFT, prints
+             # RIGHT). No runover. Gutter 1158 (band 1127-1189, rule 1157-1159).
+    156: 9,  # SHARED. nn.1-2 bon-luc-c6-v27-31 (para 76, 156L; both print first in the LEFT block); nn.3-9
+             # bon-luc-c6-v32-38 (para 77 opens ~0.50 of 156L, no heading; n.3 *Vulgata eos.* at its *illos*).
+             # Blocks L 1-4 / R 5-9 (read at overview scale for the hand-off). Gutter 1311 (rows 0.20-0.50,
+             # band 1281-1342, rule 1309-1314).
 }
 
 KNOWN_TOTALS_BY_VOL = {
