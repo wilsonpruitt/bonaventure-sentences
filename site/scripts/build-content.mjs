@@ -1111,6 +1111,14 @@ const WORKS = {
       // `Tertio, de nativitate extra uterum tripliciter.` (unanchored) opens
       // 69L beneath it.
       3: "Capitulum III",
+      // `CAPITULUM IV.` read in place on p. 88 at bon-luc-c4-v1-13: full-measure
+      // letter-spaced small capitals, WITH its period, UNANCHORED (p. 88's
+      // nn. 10-12 anchor in para 1's body and the divisio after it), with NO
+      // subtitle; it stands at ~0.52 of the leaf below Cap. III's close, and
+      // the larger-roman t1 `Pars II. De praedicationis magisterio agitur
+      // dupliciter.` (unanchored; Tabula Pars II, no `pars:` field, rulings
+      // 4/6) opens 88L beneath it.
+      4: "Capitulum IV",
     },
   },
 };

@@ -5267,6 +5267,29 @@ KNOWN_TOTALS_VOL7 = {
              # under the italic t2 *Primo explicatur veritas doctrinae quadrupliciter.*, *quinto*12. Blocks
              # L 1-7 / R 8-12 (nn.6-7 print LEFT, anchor RIGHT); n.12 RUNS OVER THE PAGE onto p.89 (Cap. IV's).
              # Gutter 1292 (rows 0.10-0.55 band 1273-1310, 38 px, heavy 13 px island 1288-1300).
+             # [bon-luc-c4-v1-13 confirms: nn.10-12 its own; the region below CAPITULUM IV. profiles to
+             # 1302 (rows 0.55-0.80 band 1272-1332, 61 px).]
+    89: 9,   # bon-luc-c4-v1-13. Footer opens LEFT on p.88 n.12's page runover (not counted here). Anchors
+             # L 1-3 (the 89L divisio *ibi*, *quia*, *ibi*) / R 4-9. Blocks L 1-5 head / R 5 tail + 6-9: n.5
+             # (Comestor, Jerome, Bede) RUNS OVER THE GUTTER (*Hieron., I. Com-* | *ment. in Matth.*). Gutter
+             # 1185 (rows 0.10-0.50 -> 1190, rows 0.45-0.75 -> 1180; default 1179, one split holds).
+    90: 11,  # bon-luc-c4-v1-13. Blocks L 1-6 head / R 6 tail + 7-11: n.6 (Ambrose IV in Luc. n.16) RUNS OVER
+             # THE GUTTER (*fames* | *Domini pia fraus est*). Gutter 1270 (1266 / 1274 by region).
+    91: 12,  # bon-luc-c4-v1-13. Anchors L 1-6 / R 7-12. Blocks L 1-5 head / R 5 tail + 6-12 head: n.5
+             # (Chrysostom) RUNS OVER THE GUTTER (*quod* | *ille adulando*); n.6 prints RIGHT, anchors LEFT;
+             # n.12 (the ordinary Gloss on Matt. 4:8) RUNS OVER THE PAGE onto p.92's LEFT footer. Gutter 1178.
+    92: 11,  # bon-luc-c4-v1-13. Footer opens LEFT on p.91 n.12's tail (not counted here). Anchors L 1-6 /
+             # R 7-11; blocks the same. No runover of its own. Gutter 1275.
+    93: 11,  # bon-luc-c4-v1-13. Anchors L 1-5 / R 6-11. Blocks L 1-8 head / R 8 tail-11: nn.6-8 print LEFT,
+             # anchor RIGHT; n.8 (Ps.-Chrysostom, Gloss, Smaragdus, Paschasius) RUNS OVER THE GUTTER
+             # (*impugnat* | *Paschasius Radbertus*). Gutter 1176 (1171 / 1176; default 1177).
+    94: 9,   # bon-luc-c4-v1-13. Anchors L 1-5 / R 6-9. Blocks L 1-4 / R 5-9 (n.5 prints RIGHT, anchors LEFT).
+             # No runover. Gutter 1295 (64 px; default 1296).
+    95: 12,  # FULL leaf count; SHARED. nn.1-10 bon-luc-c4-v1-13's: anchors L 1-6 (para 22-24) / R 7-10 (para
+             # 25, which closes the chunk at ~0.38 of 95R above the t4 *Authenticatur doctrina Christi ex
+             # testimonio Scripturae.*). nn.11-12 belong to the next chunk (para 26 *supra*11, *ibi*12). Blocks
+             # L 1-6 / R 7-12; no runover. Corrigenda p.95 col.1 penult. *prosequitur* -> *persequitur* (para 24)
+             # applied with tr-corrigenda. Gutter 1155 (rows 0.45-0.75 band 1126-1184; default 1155).
 }
 
 KNOWN_TOTALS_BY_VOL = {
