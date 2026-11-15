@@ -5710,6 +5710,20 @@ KNOWN_TOTALS_VOL7 = {
              # *Magistrum*, n.9 *Ioannis quinto*, n.10 *Proverbiorum vigesimo sexto*, n.11 *Dixit*; nn.4-5 L,
              # 6-11 R). Blocks L 1-8 / R (n.8 tail) + 9-11 (n.8 RUNS OVER THE GUTTER). Gutter 1158 (rows
              # 0.10-0.45, band 1128-1188, rule 1154-1161).
+             # Hand-off re-derived true by bon-luc-c8-v49-56 (nn.4-11, every digit and anchor). Gutter re-measured
+             # below the joint: 1153 (rows 0.50-0.75, band 1124-1183, rule 1151-1155).
+    214: 13, # bon-luc-c8-v49-56. Anchors L 1-7 / R 8-13. Blocks L 1-7 / R (n.7 tail) + 8-13. n.7 RUNS OVER THE
+             # GUTTER (*...Subinde allegantur Luc.* | *9, 28; Matth. 17, 1. ...*). Gutter 1297 (rows 0.20-0.50,
+             # band 1267-1328, rule 1296-1300).
+    215: 11, # bon-luc-c8-v49-56. Anchors L 1-7 / R 8-11. Blocks L 1-6 / R (n.6 tail) + 7-11 (n.6 RUNS OVER THE
+             # GUTTER, *...Sequitur* | *Prov. 15, 5.*; n.7 anchors LEFT, prints RIGHT). Gutter 1144 (rows 0.20-0.50,
+             # band 1113-1175, rule 1142-1146).
+    216: 11, # SHARED. nn.1-7 bon-luc-c8-v49-56 (para 99 closes ~0.37 on *Et sic intelligitur illud praeceptum.*
+             # above the full-measure CAPITULUM IX.; nn.1-4 anchor 216L, 5-7 216R); nn.8-11 bon-luc-c9-v1-9 (n.8
+             # para 1 *Iesus*, n.9 *ibi: Designavit autem* (both 216L), n.10 *ibi: Et factum est, cum solus esset
+             # orans*, n.11 *ibi: Et reversi Apostoli* (both 216R)). Blocks L 1-3 / R 4-11 (n.4 anchors LEFT,
+             # prints RIGHT). No runover. Gutter 1300 above the heading (rows 0.10-0.40, band 1270-1330, rule
+             # 1299-1303); 1304 below it (rows 0.44-0.66, band 1273-1336, rule 1303-1306).
 }
 
 KNOWN_TOTALS_BY_VOL = {
