@@ -5772,6 +5772,21 @@ KNOWN_TOTALS_VOL7 = {
              # 13, 13); nn.2-13 bon-luc-c9-v28-31 (para 43 *Factum est autem post haec verba*, n.2 at *gloriae*, *Cfr.
              # supra n. 29.*; read at 0.3x for the hand-off only). Gutter 1320 (rows 0.20-0.50, band 1290-1351, rule
              # 1319-1323).
+             # Re-derived by bon-luc-c9-v28-31: nn.2-13 true in digit and anchor. Anchors L 2-7 / R 8-13. Blocks L 1-10 /
+             # R (n.10 tail) + 11-13. n.10 RUNS OVER THE GUTTER (*...Respicitur* | *Deut. 19, 15...*); nn.8-10 anchor
+             # RIGHT, print LEFT.
+    231: 11, # bon-luc-c9-v28-31. Anchors L 1-5 / R 6-11. Blocks L 1-7 / R (n.7 tail) + 8-11. n.7 RUNS OVER THE GUTTER
+             # (*...Breviloq. p. V. c. 6. circa finem;* | *Itiner. mentis in Deum...*); nn.6-7 anchor RIGHT, print LEFT.
+             # Gutter 1167 (rows 0.20-0.50, band 1137-1198, rule 1165-1170).
+    232: 12, # bon-luc-c9-v28-31. Anchors L 1-6 / R 7-12. Blocks L 1-4 / R 5-12. nn.5-6 anchor LEFT, print RIGHT. No
+             # runover. Gutter 1305 (rows 0.20-0.50, band 1276-1334, rule 1301-1309).
+    233: 13, # bon-luc-c9-v28-31. Anchors L 1-5 / R 6-13. Blocks L 1-7 / R 8-13. nn.6-7 anchor RIGHT, print LEFT. n.13
+             # RUNS OVER THE PAGE (*...eum et vitae et mortis potestatem* | p.234 L register head *habere ac caelestibus
+             # ...quod habent C D G H.*). Gutter 1173 (rows 0.20-0.50, band 1143-1203, rule 1171-1176).
+    234: 12, # SHARED. nn.1-11 bon-luc-c9-v28-31 (para 55 closes ~0.56 of 234R on *...confirmari testamentum.*); n.12
+             # bon-luc-c9-v32-36 (para 56 *Petrus vero, et qui cum illo erant*, n.12 at *ibi*, *Vers. 33: Et factum est
+             # etc.*). L register opens with p.233 n.13's tail. Anchors L 1-6 / R 7-12. Blocks L 1-6 / R 7-12. Gutter
+             # 1286 (rows 0.20-0.50, band 1256-1316, rule 1284-1289).
 }
 
 KNOWN_TOTALS_BY_VOL = {

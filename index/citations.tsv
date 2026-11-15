@@ -539,7 +539,7 @@ bon-sent-I-d2-dubia	1	apparatus:1	1	crossref	anaphor->work	ibid.	work:itinerariu
 bon-sent-I-d2-dubia	1	apparatus:1	1	crossref	work	Breviloq. p. V. c. 6	bon-brev-p5-c6		chunk			
 bon-sent-I-d2-dubia	1	apparatus:1	1	crossref	logical	II. Sent. d. 23. a. 2. q. 3.	bon-sent-II-d23-a2-q3		chunk			
 bon-sent-I-d2-dubia	1	apparatus:1	1	crossref	work	Hexaem.	work:hexaemeron		work			
-bon-sent-I-d2-dubia	1	apparatus:1	1	crossref	lucam	Comment. in Luc. IX, 28.	lucam:9:28		forward			
+bon-sent-I-d2-dubia	1	apparatus:1	1	crossref	lucam	Comment. in Luc. IX, 28.	bon-luc-c9-v28-31		chunk			
 bon-sent-I-d2-dubia	1	apparatus:9	9	crossref	relative	infra d. 22. q. 3.	bon-sent-I-d22-a1-q3		chunk			
 bon-sent-I-d2-dubia	1	apparatus:11	11	crossref	relative	infra d. 31. p. II. a. 1. q. 1.	bon-sent-I-d31-p2-a1-q1		chunk			
 bon-sent-I-d2-dubia	1	apparatus:17	17	crossref	relative	infra d. 24. a. 2. q. 1.	bon-sent-I-d24-a2-q1		chunk			
@@ -23746,7 +23746,7 @@ bon-serm-s3	5	apparatus:p556-5	p556-5	scripture	apparatus-explicit	III. Reg. 19,
 bon-serm-s3	5	apparatus:p556-8	p556-8	scripture	apparatus-explicit	III. Reg. 19, 3	3Reg 19:3	A	verse			
 bon-serm-s3	5	apparatus:p557-4	p557-4	scripture	apparatus-explicit	I. Cor. 14, 20	1Cor 14:20	A	verse			
 bon-serm-s3	5	apparatus:p557-10	p557-10	scripture	apparatus-explicit	III. Reg. 19, 5	3Reg 19:5	A	verse			
-bon-serm-s3	5	apparatus:p558-3	p558-3	crossref	lucam	Comment. in Lucam, c. 9. ad v. 28.	lucam:9:28		forward			
+bon-serm-s3	5	apparatus:p558-3	p558-3	crossref	lucam	Comment. in Lucam, c. 9. ad v. 28.	bon-luc-c9-v28-31		chunk			
 bon-serm-s3	5	apparatus:p558-5	p558-5	scripture	apparatus-explicit	III. Reg. 19, 11	3Reg 19:11	A	verse			
 bon-serm-s3	5	apparatus:p558-6	p558-6	scripture	apparatus-explicit	Psalm. 75, 3	Ps 75:3	A	verse			
 bon-serm-s3	5	apparatus:p559-2	p559-2	scripture	anaphor->body-ordinal	ibid. v. 13	1Reg 14:13	B	verse	yes	body: Regum decimo quarto	
@@ -41328,6 +41328,113 @@ bon-luc-c9-v18-27	7	apparatus:p229-10	p229-10	crossref	logical	IV. Sent. d. 47. 
 bon-luc-c9-v18-27	7	apparatus:p229-10	p229-10	crossref	chain-continuation	d. 48. a. 1. q. 1.	bon-sent-IV-d48-a1-q1		chunk			
 bon-luc-c9-v18-27	7	apparatus:p229-11	p229-11	scripture	apparatus-explicit	Psalm. 74, 11	Ps 74:11	A	verse			
 bon-luc-c9-v18-27	7	apparatus:p229-12	p229-12	scripture	apparatus-explicit	Psalm. 121, 2	Ps 121:2	A	verse			
+bon-luc-c9-v28-31	7	latin_body	p230-5	scripture	body-ordinal	Petri tertio	2Petr 3:9	B	verse			
+bon-luc-c9-v28-31	7	latin_body	p230-7	scripture	body-ordinal	Matthaei decimo septimo	Matth 17:1	B	verse			
+bon-luc-c9-v28-31	7	latin_body		scripture	body-ordinal	Marci nono	Marc 9	C	chapter			
+bon-luc-c9-v28-31	7	latin_body	p230-11	scripture	body-ordinal	Matthaeus decimo sexto	Matth 16:18	B	verse			
+bon-luc-c9-v28-31	7	latin_body		scripture	body-ordinal	Actuum duodecimo	Act 12	C	chapter			
+bon-luc-c9-v28-31	7	latin_body		scripture	body-ordinal	Ioannis decimo nono	Ioan 19	C	chapter			
+bon-luc-c9-v28-31	7	latin_body	p231-2	scripture	body-ordinal	Exodi tertio	Exod 3:1	B	verse			
+bon-luc-c9-v28-31	7	latin_body		scripture	body-ordinal	Exodi vigesimo quarto	Exod 24	C	chapter			
+bon-luc-c9-v28-31	7	latin_body		scripture	body-ordinal	Deuteronomii ultimo	Deut 34	C	chapter			
+bon-luc-c9-v28-31	7	latin_body		scripture	body-ordinal	Deuteronomii trigesimo tertio	Deut 33	C	chapter			
+bon-luc-c9-v28-31	7	latin_body	p231-7	scripture	body-ordinal	Regum decimo	3Reg 10:18	B	verse			
+bon-luc-c9-v28-31	7	latin_body	p232-5	scripture	body-ordinal	Matthaei quinto	Matth 5:1	B	verse			
+bon-luc-c9-v28-31	7	latin_body	p232-6	scripture	body-ordinal	Genesis vigesimo secundo	Gen 22:2	B	verse			
+bon-luc-c9-v28-31	7	latin_body		scripture	body-ordinal	Exodi tertio	Exod 3	C	chapter			
+bon-luc-c9-v28-31	7	latin_body		scripture	body-ordinal	Canticorum quarto	Cant 4	C	chapter			
+bon-luc-c9-v28-31	7	latin_body	p232-7	scripture	body-ordinal	Ecclesiastici quadragesimo tertio	Eccli 43:4	B	verse			
+bon-luc-c9-v28-31	7	latin_body		scripture	body-ordinal	Machabaeorum sexto	1Mach 6	C	chapter			
+bon-luc-c9-v28-31	7	latin_body		scripture	body-ordinal	Exodi decimo nono	Exod 19	C	chapter			
+bon-luc-c9-v28-31	7	latin_body	p232-8	scripture	body-ordinal	Genesis decimo nono	Gen 19:17	B	verse			
+bon-luc-c9-v28-31	7	latin_body		scripture	body-ordinal	Matthaei vigesimo quarto	Matth 24	C	chapter			
+bon-luc-c9-v28-31	7	latin_body	p232-9	scripture	body-ordinal	Regum decimo nono	3Reg 19:8	B	verse			
+bon-luc-c9-v28-31	7	latin_body		scripture	body-ordinal	Matthaei decimo quarto	Matth 14	C	chapter			
+bon-luc-c9-v28-31	7	latin_body	p232-10	scripture	body-ordinal	Iob trigesimo nono	Iob 39:8	B	verse			
+bon-luc-c9-v28-31	7	latin_body		scripture	body-ordinal	Ezechielis trigesimo quarto	Ezech 34	C	chapter			
+bon-luc-c9-v28-31	7	latin_body	p232-11	scripture	body-ordinal	Isaiae secundo	Isai 2:2	B	verse			
+bon-luc-c9-v28-31	7	latin_body		scripture	body-ordinal	Regum decimo octavo	3Reg 18	C	chapter			
+bon-luc-c9-v28-31	7	latin_body		scripture	body-ordinal	Tobiae undecimo	Tob 11	C	chapter			
+bon-luc-c9-v28-31	7	latin_body		scripture	body-ordinal	ad Philippenses tertio	Phil 3	C	chapter			
+bon-luc-c9-v28-31	7	latin_body	p233-2	scripture	body-ordinal	Matthaei decimo septimo	Matth 17:2	B	verse			
+bon-luc-c9-v28-31	7	latin_body		scripture	body-ordinal	Matthaei decimo tertio	Matth 13	C	chapter			
+bon-luc-c9-v28-31	7	latin_body	p233-3	scripture	body-ordinal	ad Corinthios decimo quinto	1Cor 15:40	B	verse			
+bon-luc-c9-v28-31	7	latin_body	p233-6	scripture	body-ordinal	Ecclesiastae undecimo	Eccle 11:7	B	verse			
+bon-luc-c9-v28-31	7	latin_body	p233-7	scripture	body-ordinal	Marci nono	Marc 9:2	B	verse			
+bon-luc-c9-v28-31	7	latin_body	p233-8	scripture	body-ordinal	Apocalypsis tertio	Apoc 3:5	B	verse			
+bon-luc-c9-v28-31	7	latin_body	p233-10	scripture	body-ordinal	Numerorum duodecimo	Num 12:7	B	verse			
+bon-luc-c9-v28-31	7	latin_body		scripture	body-ordinal	Regum decimo nono	3Reg 19	C	chapter			
+bon-luc-c9-v28-31	7	latin_body		scripture	body-ordinal	Matthaei vigesimo primo	Matth 21	C	chapter			
+bon-luc-c9-v28-31	7	latin_body	p234-3	scripture	body-ordinal	ad Philippenses secundo	Phil 2:7	B	verse			
+bon-luc-c9-v28-31	7	latin_body	p234-4	scripture	body-ordinal	Threnorum tertio	Thren 3:19	B	verse			
+bon-luc-c9-v28-31	7	latin_body		scripture	body-ordinal	Threnorum primo	Thren 1	C	chapter			
+bon-luc-c9-v28-31	7	latin_body	p234-5	scripture	body-ordinal	ad Ephesios secundo	Eph 2:4	B	verse			
+bon-luc-c9-v28-31	7	latin_body		scripture	body-ordinal	ad Romanos octavo	Rom 8	C	chapter			
+bon-luc-c9-v28-31	7	latin_body	p234-6	scripture	body-ordinal	ad Hebraeos secundo	Hebr 2:10	B	verse			
+bon-luc-c9-v28-31	7	latin_body		scripture	body-ordinal	Lucae decimo octavo	Luc 18	C	chapter			
+bon-luc-c9-v28-31	7	latin_body	p234-7	scripture	body-ordinal	Exodi trigesimo quarto	Exod 34:29	B	verse			
+bon-luc-c9-v28-31	7	latin_body		scripture	body-ordinal	ad Corinthios tertio	2Cor 3	C	chapter			
+bon-luc-c9-v28-31	7	latin_body	p234-8	scripture	body-ordinal	ad Philippenses secundo	Phil 2:15	B	verse			
+bon-luc-c9-v28-31	7	latin_body	p234-9	scripture	body-ordinal	ad Romanos decimo tertio	Rom 13:12	B	verse			
+bon-luc-c9-v28-31	7	latin_body	p234-10	scripture	body-ordinal	Danielis secundo	Dan 2:17	B	verse			
+bon-luc-c9-v28-31	7	latin_body		scripture	body-ordinal	Sapientiae septimo	Sap 7	C	chapter			
+bon-luc-c9-v28-31	7	apparatus:p230-6	p230-6	scripture	apparatus-explicit	Gen. 29, 27	Gen 29:27	A	verse			
+bon-luc-c9-v28-31	7	apparatus:p230-7	p230-7	scripture	apparatus-explicit	Marc. 9, 1	Marc 9:1	A	verse			
+bon-luc-c9-v28-31	7	apparatus:p230-8	p230-8	scripture	apparatus-explicit	Gen. 2, 2	Gen 2:2	A	verse			
+bon-luc-c9-v28-31	7	apparatus:p230-8	p230-8	scripture	apparatus-explicit	Exod. 20, 10	Exod 20:10	A	verse			
+bon-luc-c9-v28-31	7	apparatus:p230-8	p230-8	scripture	apparatus-explicit	Deut. 5, 13	Deut 5:13	A	verse			
+bon-luc-c9-v28-31	7	apparatus:p230-8	p230-8	scripture	apparatus-explicit	Hebr. 4, 4	Hebr 4:4	A	verse			
+bon-luc-c9-v28-31	7	apparatus:p230-9	p230-9	scripture	apparatus-explicit	Marc. 9, 1	Marc 9:1	A	verse			
+bon-luc-c9-v28-31	7	apparatus:p230-10	p230-10	scripture	apparatus-explicit	Deut. 19, 15	Deut 19:15	A	verse			
+bon-luc-c9-v28-31	7	apparatus:p230-11	p230-11	scripture	apparatus-explicit	Act. 12, 2	Act 12:2	A	verse			
+bon-luc-c9-v28-31	7	apparatus:p230-11	p230-11	scripture	apparatus-explicit	Ioan. 19, 26	Ioan 19:26	A	verse			
+bon-luc-c9-v28-31	7	apparatus:p230-12	p230-12	crossref	page	supra pag. 172	bon-luc-c7-v1-16		chunk			
+bon-luc-c9-v28-31	7	apparatus:p230-13	p230-13	crossref	page	supra pag. 192, nota 2	bon-luc-c8-v1-10		chunk			fn-p192-2
+bon-luc-c9-v28-31	7	apparatus:p230-13	p230-13	crossref	page	supra pag. 143, nota 9	bon-luc-c6-v12-19		chunk			fn-p143-9
+bon-luc-c9-v28-31	7	apparatus:p230-13	p230-13	scripture	apparatus-explicit	Matth. 17, 1	Matth 17:1	A	verse			
+bon-luc-c9-v28-31	7	apparatus:p231-1	p231-1	crossref	page	supra pag. 225, nota 5	bon-luc-c9-v18-27		chunk			fn-p225-5
+bon-luc-c9-v28-31	7	apparatus:p231-1	p231-1	crossref	anaphor->page	loc. cit.	bon-luc-c9-v18-27		chunk	yes	supra pag. 225, nota 5	
+bon-luc-c9-v28-31	7	apparatus:p231-2	p231-2	scripture	apparatus-explicit	Exod. 24, 12	Exod 24:12	A	verse			
+bon-luc-c9-v28-31	7	apparatus:p231-2	p231-2	scripture	apparatus-explicit	Deut. 34, 1	Deut 34:1	A	verse			
+bon-luc-c9-v28-31	7	apparatus:p231-3	p231-3	scripture	apparatus-explicit	Deut. 33, 2	Deut 33:2	A	verse			
+bon-luc-c9-v28-31	7	apparatus:p231-5	p231-5	scripture	apparatus-explicit	Ps. 67, 28	Ps 67:28	A	verse			
+bon-luc-c9-v28-31	7	apparatus:p231-6	p231-6	crossref	relative-bare	loc. cit.			unresolvable			
+bon-luc-c9-v28-31	7	apparatus:p231-7	p231-7	crossref	work	Breviloq. p. V. c. 6.	bon-brev-p5-c6		chunk			
+bon-luc-c9-v28-31	7	apparatus:p231-7	p231-7	crossref	work	Itiner.	work:itinerarium		work			
+bon-luc-c9-v28-31	7	apparatus:p231-7	p231-7	crossref	page	tom. V. pag. 351, nota 7	bon-hex-c4		chunk			fn-p351-7
+bon-luc-c9-v28-31	7	apparatus:p232-2	p232-2	crossref	work	Itinerar.	work:itinerarium		work			
+bon-luc-c9-v28-31	7	apparatus:p232-2	p232-2	crossref	work	Hexaëm. collat. 2.	bon-hex-c2		chunk			
+bon-luc-c9-v28-31	7	apparatus:p232-4	p232-4	crossref	work	de Scientia Christi	work:scientia-christi		work			
+bon-luc-c9-v28-31	7	apparatus:p232-4	p232-4	crossref	work	Breviloq. p. V. c. 6.	bon-brev-p5-c6		chunk			
+bon-luc-c9-v28-31	7	apparatus:p232-4	p232-4	crossref	work	Itinerar.	work:itinerarium		work			
+bon-luc-c9-v28-31	7	apparatus:p232-5	p232-5	scripture	apparatus-explicit	Isai. 2, 3	Isai 2:3	A	verse			
+bon-luc-c9-v28-31	7	apparatus:p232-5	p232-5	scripture	apparatus-explicit	Exod. 24, 18	Exod 24:18	A	verse			
+bon-luc-c9-v28-31	7	apparatus:p232-6	p232-6	scripture	apparatus-explicit	Exod. 3, 12	Exod 3:12	A	verse			
+bon-luc-c9-v28-31	7	apparatus:p232-6	p232-6	scripture	apparatus-explicit	Cant. 4, 6	Cant 4:6	A	verse			
+bon-luc-c9-v28-31	7	apparatus:p232-7	p232-7	scripture	apparatus-explicit	I. Mach. 6, 39	1Mach 6:39	A	verse			
+bon-luc-c9-v28-31	7	apparatus:p232-7	p232-7	scripture	apparatus-explicit	Exod. 19, 18	Exod 19:18	A	verse			
+bon-luc-c9-v28-31	7	apparatus:p232-8	p232-8	scripture	apparatus-explicit	Matth. 24, 16	Matth 24:16	A	verse			
+bon-luc-c9-v28-31	7	apparatus:p232-8	p232-8	scripture	apparatus-explicit	Ps. 120, 1	Ps 120:1	A	verse			
+bon-luc-c9-v28-31	7	apparatus:p232-9	p232-9	scripture	apparatus-explicit	Matth. 14, 23	Matth 14:23	A	verse			
+bon-luc-c9-v28-31	7	apparatus:p232-9	p232-9	scripture	apparatus-explicit	Ps. 71, 3	Ps 71:3	A	verse			
+bon-luc-c9-v28-31	7	apparatus:p232-10	p232-10	scripture	apparatus-explicit	Ezech. 34, 14	Ezech 34:14	A	verse			
+bon-luc-c9-v28-31	7	apparatus:p232-10	p232-10	scripture	apparatus-explicit	Ioel 3, 18	Ioel 3:18	A	verse			
+bon-luc-c9-v28-31	7	apparatus:p232-11	p232-11	scripture	apparatus-explicit	III. Reg. 18, 42	3Reg 18:42	A	verse			
+bon-luc-c9-v28-31	7	apparatus:p232-12	p232-12	scripture	apparatus-explicit	Tob. 11, 5	Tob 11:5	A	verse			
+bon-luc-c9-v28-31	7	apparatus:p232-12	p232-12	scripture	apparatus-explicit	Phil. 3, 20	Phil 3:20	A	verse			
+bon-luc-c9-v28-31	7	apparatus:p233-4	p233-4	scripture	apparatus-explicit	Matth. 26, 26	Matth 26:26	A	verse			
+bon-luc-c9-v28-31	7	apparatus:p233-4	p233-4	scripture	anaphor->apparatus-explicit	ibid. 14, 25	Matth 14:25	A	verse	yes	Matth. 26, 26	
+bon-luc-c9-v28-31	7	apparatus:p233-4	p233-4	crossref	page	tom. VI. pag. 324	bon-ioan-c6-v14-21+bon-ioan-c6-v22-33		page-multi			
+bon-luc-c9-v28-31	7	apparatus:p233-5	p233-5	crossref	page	tom. IV. pag. 136, nota 3	bon-sent-IV-d6-p1-a1-q1+bon-sent-IV-d6-p1-divisio		page-multi			
+bon-luc-c9-v28-31	7	apparatus:p233-8	p233-8	scripture	apparatus-explicit	Gal. 3, 27	Gal 3:27	A	verse			
+bon-luc-c9-v28-31	7	apparatus:p233-12	p233-12	scripture	apparatus-explicit	III. Reg. 19, 8	3Reg 19:8	A	verse			
+bon-luc-c9-v28-31	7	apparatus:p233-13	p233-13	crossref	relative-bare	ibid.			unresolvable			
+bon-luc-c9-v28-31	7	apparatus:p234-2	p234-2	scripture	apparatus-explicit	Matth. 21, 9	Matth 21:9	A	verse			
+bon-luc-c9-v28-31	7	apparatus:p234-5	p234-5	scripture	apparatus-explicit	Rom. 8, 32	Rom 8:32	A	verse			
+bon-luc-c9-v28-31	7	apparatus:p234-6	p234-6	scripture	apparatus-explicit	Luc. 18, 31	Luc 18:31	A	verse			
+bon-luc-c9-v28-31	7	apparatus:p234-7	p234-7	scripture	apparatus-explicit	II. Cor. 3, 18	2Cor 3:18	A	verse			
+bon-luc-c9-v28-31	7	apparatus:p234-10	p234-10	scripture	apparatus-explicit	Sap. 7, 7	Sap 7:7	A	verse			
+bon-luc-c9-v28-31	7	apparatus:p234-11	p234-11	crossref	page	supra pag. 231, nota 5	bon-luc-c9-v28-31		chunk			fn-p231-5
 bon-luc-prol	7	latin_body	p8-1	scripture	body-ordinal	ad Timotheum ultimo	2Tim 4:11	B	verse			
 bon-luc-prol	7	latin_body	p8-2	scripture	body-ordinal	Genesis quadragesimo primo	Gen 41:38	B	verse			
 bon-luc-prol	7	latin_body	p8-4	scripture	body-ordinal	Ioannis decimo nono	Ioan 19:19	B	verse			
