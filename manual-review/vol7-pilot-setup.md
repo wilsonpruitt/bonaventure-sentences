@@ -501,7 +501,7 @@ evidence, censuses and alternatives are in the sheet, by § number, and are not 
   | Latin | English |
   |---|---|
   | *poenitentia*, *poenitere* | "penance", "do penance" |
-  | *vacare* (with dative) | "free for" + `tr-vacare` at each chunk's first site; never "rest"; *vacare a* "free from" |
+  | *vacare* (with dative) | "free for" + `tr-vacare` at each chunk's first site; never "rest"; *vacare a* "free from"; absolute *vacare* "to be free" (`c10-v38-42` ¶ 67); `tr-vacare` reaches an apparatus verse where the note's own sentence leans (Ps. 45:11 "Be free, and see", as Vol VI) (**clauses added by ruling 68**, p. 288 gate) |
   | *quies* (noun), *requies* | "rest"; *requiescere* "rest"; *quietus* "quiet" |
   | *lumen* in Bonaventure's prose (the angelic *lumen*) | "lumen" + `tr-lumen` (Vol V *lux* / *lumen* rule); *lux* "light" |
   | *claritas* | the Douay's word at the verse ("brightness" at Luke 2:9; "glory" in Wis., II Cor. 3:18) |
@@ -531,6 +531,7 @@ evidence, censuses and alternatives are in the sheet, by § number, and are not 
   | *credulitas* · *incredulitas* | "belief" · "unbelief" (**added by ruling 55**) |
   | *redarguere* | "convict" (beside *arguere* "reprove") (**added by ruling 56**) |
   | *otium* | "leisure" (kept off *vacatio*) (**added by ruling 57**) |
+  | *excessus* | mental / contemplative sense (*mentis, contemplationis, admirationis excessus*, *in excessum*) "transport", the Itinerarium register; measure exceeded "excess" (Vol VI practice; Luke 9:31 at `c9-v28-31` ¶ 54, where Bonaventure reads the word so, `tr-excessus` at the chunk's first site); a death named *excessus vitae* "departure from life" (**added by ruling 67**, p. 288 gate) |
 
   Applied: `c1-v18-25` ¶ 38 *erudimur* "we are taught" → **"we are schooled"** (1 line).
 - **33. `title_la`: every title RATIFIED as built** (sheet § 7). **The sentence title (lemma + dividing words,
@@ -737,3 +738,81 @@ layer. The p. 381 gate interval is these 19 chunks, `bon-luc-c11-v14-26` through
 - `c12-v13-34` kept whole at ~7.8 pp (headings ~7.8 apart, just under ruling 1b's ~8). Alternative: cut at ¶ 32.
 
 **The p. 381 gate** (ruling 14: close of c. 14; the *pietas* review) closes this interval.
+
+# *LUCAM* p. 288 GATE — RULINGS 63–76 (Wilson, 2026-11-15; "Approve all")
+
+Binding summary. Every ⭐ recommendation of `manual-review/vol7-lucam-p288-gate-evidence-sheet.md` was taken, its
+"Found by the sheet" fix F1 and its records F2–F12 included, and the one defect found by Passes 1–3
+(`manual-review/vol7-lucam-p288-gate-passes-draft.md`). The evidence, censuses and alternatives are in those two
+documents, by § and item number, and are not repeated. Gate record: `manual-review/vol7-lucam-p288-gate.md`. **14
+English lines changed across 6 chunks + Notes records in 9; no line in any `## Latin` body or `**La.**` half changed; no
+manifest cell changed.** Ruling 32's table gains one row (*excessus*) and two clauses on its *vacare* row; the repo
+CLAUDE.md's Itinerarium *excessus* line gains a one-clause scope note (Wilson's approval; no other CLAUDE.md change).
+
+- **63. D-1 and D-2 APPLIED** (sheet § "The three defects"). D-1: `c8-v49-56` English verse tags `(V. N.).` →
+  `(Vers. N.).` at ¶¶ 88, 89, 90, 92, 93, 94, 95, 98 (8 lines); its Notes' "`(Vers.` 8 = 8 in each language", false
+  as built (F2), amended in place, struck wording kept. D-2: `c9-v1-9` "appointed" → "designated" at **both** sites
+  (F3: ¶ 1's forward reference and p. 216 n. 9 **En.**; 2 lines), conformed to `c10-v1-3`'s Luke 10:1. The apparatus
+  **En.** form `V. N` is the house form and is untouched.
+- **64. *dilectio* → "dilection" outside a Douay verse, WORK-WIDE** (F1; ruling 11's register, ruling 52). Applied:
+  `c9-v10-17` ¶ 19 *perfectio dilectionis* "the perfection of dilection"; `c10-v1-3` p. 253 n. 2 **En.** "the two
+  commandments of dilection" ×2 (2 lines). These were the only two non-verse sites in pp. 3–288.
+- **65. Batches A (items 1–5), B (item 6) and C (items 7–14) RATIFIED, item 25 with B.** All 22 stage-3 rows as
+  drawn; ruling 39's eight `low` → `high` promotions; last ¶ VIII 99 · IX 111 · X 80, XI v. 13 at ¶ 35; titles as built.
+  The p. 252 Corrigenda rubric and `tr-corrigenda` on the `####` heading: ruling 8's "at the word" reads "at the rubric"
+  when the Corrigenda reform a whole rubric; the preview look `/lucam/c10-v1-3` (the "tr." on the second heading) is
+  added to ruling 23's owed look. The ruling-20 adjustments as built, **Luke 11:2 "Sanctified be thy name" included**
+  (item 7(a)); Matt. 6:9 "Hallowed be thy name" (`c1-v46-56` ¶ 93) recorded as a ruling-28 split (`c11-v1-4` Notes).
+- **66. `c9-v32-36` ¶ 69 Ambrose *praedica post consummationem* "proclaim" → "preach" APPLIED** (ruling 30:
+  "proclaim" is *praeconium*'s alone; 1 line). Found by Passes 1–3; the builder's item (90) had recorded the rendering
+  without naming it a departure (amended in place, struck wording kept).
+- **67. *excessus* KEPT AS BUILT** (item 15(a); D-3 no edit): Luke 9:31 and `c9-v28-31` ¶ 54 "excess", ¶ 47 / `c9-v32-36`
+  ¶ 62 / `c8-v49-56` ¶¶ 97–98 "transport"; `tr-excessus` kept. **Written into ruling 32's table** (the sense split).
+  The split is inside `c9-v28-31`, by sense (F4). **CLAUDE.md scope note** beside the Itinerarium "NEVER 'excess'" line:
+  that rule is the mental / contemplative *excessus*. Recorded, outside the gate's reach: Vol V's three "excess" sites
+  against its own Itinerarium rule (`bon-brev-p5-c6` + p. 260 n. 3; `bon-praec-c4` p. 521 n. 4) belong to a later
+  Vol V errata list; not edited.
+- **68. *vacare*: absolute "to be free" and Ps. 45:11 "Be free, and see" RATIFIED** (item 17(a)); **written into ruling
+  32's *vacare* row.** Recorded (F6): Ps. 45:11 is "Be still and see" at `c4-v14-22` p. 96 n. 10 (Bede; nothing leans),
+  a ruling-28 split; the licence at `c11-v1-4` is the Vol VI `bon-cioan-c21` precedent + ruling 20.
+- **69. Ruling 49's forward clause DISCHARGED at `c8-v40-48`** (¶ 82); **its sentence is now the standing text of
+  `tr-praeceptor` wherever *magister* stands in the same paragraph** (item 16(a); one *Praeceptor* left in the work,
+  Luke 17:13). `c8-v40-48` ¶ 82 *magister et praeceptor* "master and preceptor" RATIFIED. An OT *praeceptor* takes the
+  Douay unless the exposition leans (ruling 20): Isa. 30:20 "thy master" `c5-v1-11` ¶ 10 / "teacher" `c9-v57-62`
+  ¶ 103, p. 249 n. 2 — a ruling-28 split (F7; recorded in `c9-v57-62`'s Notes).
+- **70. Items 18–23 RATIFIED as built:** *intellectus / intelligentia / notitia / cognitio* (ruling 17 holds; F10
+  recorded, no conformation — *cognitio* "knowledge" at 5 of 16 interval sites, no *notitia* / *scientia* beside them);
+  `tr-lumen` (F8: Matt. 10:27 "in the lumen" `c8-v11-21` ¶ 24 / "in the light" `c10-v4-16` ¶ 18, rulings 27 / 50 as
+  written); *claritas* "brightness" (ruling 32's row); human *pietas* with no note, **carried to the p. 381 review** with
+  the sheet's § 21 list, `tr-pietas` at `c9-v37-45` ¶ 77 ratified; *virtus / potestas / potentia* (ruling 47; F12a);
+  the cross-chunk ruling-28 splits (D-4 no edit; F9's wider census recorded in the gate record).
+- **71. Item 24, the interval's new house words, RATIFIED as a batch, with F1 applied** (ruling 64). **Item [99]:
+  *infidelitas* "faithlessness", kept off *incredulitas* "unbelief" (ruling 55).** Applied (the passes draft's
+  observation, folded in): `c10-v4-16` ¶ 19 *excusationem de infidelitate* "no excuse for unbelief" → "for
+  faithlessness" (1 line), the one split site. *infidelis* "unbeliever" at a Douay verse stands.
+- **72. Batch E (item 26), the Quaracchi citation slips, RATIFIED as transcribed** (r.57 class; ruling 36). They feed
+  J-3 / J-7 as printed slips, not resolver faults.
+- **73. Batch F: the five `[so printed]` and p. 195 n. 10's *Locus videtur esse corruptus* RATIFIED; the live `[?]`
+  (`c5-v12-16` p. 122 n. 11) STAYS OPEN** (ruling 59). Zero `[?]` in the 22 interval chunks.
+- **74. Batch G (items 30–32) RATIFIED as recorded (ruling 36); Batch H (items 33–34, collection change) BANKED, no
+  ruling** (rulings 36, 60).
+- **75. Records (F2–F12) and docket errors, no text effect:** F4 (the *excessus* split is inside one chunk); F5 (Luke
+  8:1 "evangelizing" was already ruled by ruling 18; `c10-v38-42` ¶ 66 follows it as an echo, ruling 29); F9 (the
+  ruling-28 splits are wider than the docket listed; gate record); F11 (p. 201 n. 6 joins J-5); F12 (a) Luke 9:1
+  "power and authority" is the Douay's own pair, not an adjustment; (b) the docket's tool numbers collided with ruling
+  62's (resolved by ruling 76). Also: the passes draft's "undisclosed" for the ¶ 69 *praedica* is half right (the
+  builder's item (90) names the rendering but not as a departure).
+- **76. ONE tool job J-1..J-11, QUEUED, NOT RUN** (sheet § T; supersedes ruling 62's T-numbering, which is kept only as
+  a crosswalk). One bounded job after the gate, report → fix → report, before / after table per site; order wrong edges
+  → coverage → counts; `tools/build-citations.py` only, then `build-citations.py` → `build-index-json.py`; no chunk file,
+  no `tools/authorities.json`. **Crosswalk:** J-1 = r.62 T-4 + docket T-4 (wrong *ibid. / loc. cit.*: p. 183 n. 6,
+  p. 263 n. 11) · J-2 = docket "Misreads" (p. 237 n. 8) · J-3 = r.62 T-6 + docket T-7 (author guard both ways) · J-4 =
+  r.62 T-1 + docket T-1 (accusative *notam M*, 11 sites) · J-5 = r.62 T-2 + docket T-6 (+ F11; `page-multi` by note;
+  measure Vols II / IV per-note anchors first) · J-6 = r.62 T-9 + docket "No record" (report each first) · J-7 =
+  docket "No record" (commentator guard, p. 277 nn. 7, 12; expect none) · J-8 = r.62 T-7 · J-9 = r.62 T-8 + docket
+  T-4 / T-10 (count, classify) · J-10 = r.62 T-3 (Vol I p. 104; report only) · J-11 = r.62 T-5 + docket T-5 (stays
+  deferred; count). Baseline: QA 213, anaphora unresolved 379.
+
+**Manifest stage 4 (`c478c25`, 19 rows, pp. 288–381) stands as drawn; its 7 `low` rows (three decisions) are settled at
+build time by ruling 39's procedure.** The front is `bon-luc-c11-v14-26` (stage-4 row 1, `low`), opening at ¶ 36 on
+288L; p. 288 nn. 4–11 are its. **The p. 381 gate** (close of c. 14; the *pietas* review) closes the interval.

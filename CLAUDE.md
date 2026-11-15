@@ -356,7 +356,9 @@ p. 295). English title: **"The Journey of the Mind into God."**
 - **Register (exercised in the pilot, locked):** *speculatio* → "speculation" ·
   *speculum* → "mirror" (one image in this work; the pun documented once, in the
   pilot's Notes) · *contemplatio* → "contemplation" · *excessus* → "transport"
-  (NEVER "excess"; "ecstasy" is blocked by § 3's *ecstaticos excessus*) ·
+  (NEVER "excess"; "ecstasy" is blocked by § 3's *ecstaticos excessus*; ⚠ scope, Vol VII
+  ruling 67: this is the MENTAL / contemplative *excessus* — the word's measure-exceeded sense takes
+  "excess", as in Vol VI and *Lucam* `c9-v28-31` ¶ 54) ·
   *raptus* → "rapt/rapture" · *suspensio* → "uplifting" · *vestigium* → "vestige" ·
   *gradus* → "steps" · *illuminationes scalares* → "ladder-like illuminations" ·
   *mens* → "mind". Scripture on the Douay-Rheims base adjusted to Quaracchi's
