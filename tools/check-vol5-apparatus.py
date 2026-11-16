@@ -6183,8 +6183,17 @@ KNOWN_TOTALS_VOL7 = {
              # signature *S. Bonav. -- Tom. VII.*) / R 6-12: n.6 RUNS OVER THE GUTTER (L -> R: *repromissio
              # de | Filii Dei incarnatione*). Gutter 1153 (band 1124-1183, rule 1150-1158).
     354: 15, # SHARED. nn.1-6 bon-luc-c13-v22-30 (para 62 tail-63, closing at ~0.58 of 354L on Eccles.
-             # 9:10 *... quo tu properas ».*). nn.7-15 bon-luc-c13-v31-35 (para 64 from *in redimendo*7) --
-             # PENDING. Blocks L 1-8 / R 9-15. Gutter 1312 (band 1284-1340, rule 1307-1317).
+             # 9:10 *... quo tu properas ».*). nn.7-15 bon-luc-c13-v31-35 (paras 64-66, from *in redimendo*7):
+             # anchors L 7-8 / R 9-15. Blocks L 1-8 / R 9-15. Gutter 1312 (band 1284-1340, rule 1307-1317).
+    355: 12, # bon-luc-c13-v31-35 (paras 66 tail-70). Anchors L 1-5 / R 6-12. Blocks L 1-6 / R 7-12 (n.6
+             # anchors R, prints L). No runover. Gutter 1151 (band 1121-1181, rule 1148-1155). Body to ~0.66.
+    356: 14, # bon-luc-c13-v31-35 (paras 70 tail-73). Anchors L 1-9 / R 10-14. Blocks L 1-8 / R 9-14 (n.9
+             # anchors L, prints R). No runover. Gutter 1286 (band 1256-1317, rule 1285-1288). Body to ~0.555.
+    357: 13, # bon-luc-c13-v31-35 (paras 73 tail-75). Anchors L 1-7 / R 8-13. Blocks L 1-6 / R 7-13: n.6
+             # RUNS OVER THE GUTTER (L -> R: *non aliquid | affirmantes temere*). Gutter 1154 (band 1123-1185).
+    358: 14, # SHARED. nn.1-5 bon-luc-c13-v31-35 (para 76, Cap. XIII's last, across the top of both columns
+             # above the full-measure CAPITULUM XIV. at ~0.29): anchors L 1-3 / R 4-5. nn.6-14 bon-luc-c14-v1-6
+             # (PENDING). Blocks L 1-6 / R 7-14. Gutter ~1300 above the CAPITULUM (region too thin).
 }
 
 KNOWN_TOTALS_BY_VOL = {
