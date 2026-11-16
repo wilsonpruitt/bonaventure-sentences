@@ -6159,6 +6159,18 @@ KNOWN_TOTALS_VOL7 = {
     345: 15, # bon-luc-c13-v10-17 (paras 32 tail-35). Anchors L 1-8 / R 9-15. Blocks L 1-10 (then the
              # signature *S. Bonav. -- Tom. VII.*) / R 11-15. No runover. Gutter 1160 (band 1131-1191,
              # rule 1157-1164). p.346 (para 35's close, ~0.19 of 346L) carries no anchor of ours.
+    346: 11, # bon-luc-c13-v18-21 (paras 36-39; all of p.346's notes, from para 36's *ibi*1). Anchors L 1-5 /
+             # R 6-11. Blocks L 1-6 / R 6-11: n.6 RUNS OVER THE GUTTER (L -> R: *at ubi | teri coepit*).
+             # Gutter 1322 (band 1291-1353, rule 1320-1324). Corrigenda col.1 l.16 *Manducit* -> *Manuducit*.
+    347: 17, # bon-luc-c13-v18-21 (paras 39 tail-43). Anchors L 1-8 / R 9-17. Blocks L 1-8 / R 9-17.
+             # No runover. Gutter 1157 (band 1127-1188, rule 1156-1162).
+    348: 11, # bon-luc-c13-v18-21 (paras 43 tail-45). Anchors L 1-5 / R 6-11. Blocks L 1-6 / R 6-11: n.6
+             # RUNS OVER THE GUTTER (L -> R: *scientem in- | firmitatem*); n.11 RUNS OVER THE PAGE (its tail
+             # *-- Sequitur I. Cor. 13, 7. ...* heads p.349's left block, unnumbered). Gutter 1305 (band
+             # 1274-1337, rule 1304-1307).
+    349: 14, # bon-luc-c13-v18-21 (paras 45 tail-47). Anchors L 1-6 / R 7-14. Blocks L (p.348 n.11's tail)
+             # 1-5 / R 6-14. Gutter 1146 (band 1116-1177, rule 1143-1149). p.350 (para 47's close, ~0.10 of
+             # 350L on Ps. 72:26, covered by n.14) carries no anchor of ours.
 }
 
 KNOWN_TOTALS_BY_VOL = {

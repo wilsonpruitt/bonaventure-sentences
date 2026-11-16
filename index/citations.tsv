@@ -23667,7 +23667,7 @@ bon-serm-s2	5	apparatus:p550-4	p550-4	scripture	apparatus-explicit	Matth. 20, 16
 bon-serm-s2	5	apparatus:p550-4	p550-4	scripture	apparatus-explicit	Matth. 13, 48	Matth 13:48	A	verse			
 bon-serm-s2	5	apparatus:p550-6	p550-6	scripture	apparatus-explicit	Rom. 8, 28	Rom 8:28	A	verse			
 bon-serm-s2	5	apparatus:p550-8	p550-8	scripture	apparatus-explicit	Luc. 13, 21	Luc 13:21	A	verse			
-bon-serm-s2	5	apparatus:p550-9	p550-9	crossref	lucam	Comment. in Luc. 13, 21.	lucam:13:21		forward			
+bon-serm-s2	5	apparatus:p550-9	p550-9	crossref	lucam	Comment. in Luc. 13, 21.	bon-luc-c13-v18-21		chunk			
 bon-serm-s2	5	apparatus:p551-2	p551-2	scripture	apparatus-explicit	Phil. 3, 8	Phil 3:8	A	verse			
 bon-serm-s2	5	apparatus:p551-6	p551-6	scripture	apparatus-explicit	Luc. 13, 19	Luc 13:19	A	verse			
 bon-serm-s2	5	apparatus:p551-6	p551-6	scripture	apparatus-explicit	Marc. 4, 31	Marc 4:31	A	verse			
@@ -38638,6 +38638,89 @@ bon-luc-c13-v10-17	7	apparatus:p345-8	p345-8	scripture	apparatus-explicit	Eccli.
 bon-luc-c13-v10-17	7	apparatus:p345-10	p345-10	scripture	apparatus-explicit	Psalm. 65, 1	Ps 65:1	A	verse			
 bon-luc-c13-v10-17	7	apparatus:p345-12	p345-12	scripture	apparatus-explicit	Ezech. 2, 2	Ezech 2:2	A	verse			
 bon-luc-c13-v10-17	7	apparatus:p345-15	p345-15	scripture	apparatus-explicit	Act. 13, 46	Act 13:46	A	verse			
+bon-luc-c13-v18-21	7	latin_body		scripture	body-ordinal	Matthaei vigesimo primo	Matth 21	C	chapter			
+bon-luc-c13-v18-21	7	latin_body	p346-5	scripture	body-ordinal	Ioannis decimo septimo	Ioan 17:3	B	verse			
+bon-luc-c13-v18-21	7	latin_body	p346-6	scripture	body-ordinal	ad Romanos undecimo	Rom 11:20	B	verse			
+bon-luc-c13-v18-21	7	latin_body		scripture	body-ordinal	Proverbiorum undecimo	Prov 11	C	chapter			
+bon-luc-c13-v18-21	7	latin_body	p346-8	scripture	body-ordinal	Canticorum quarto	Cant 4:12	B	verse			
+bon-luc-c13-v18-21	7	latin_body		scripture	body-ordinal	Genesis secundo	Gen 2	C	chapter			
+bon-luc-c13-v18-21	7	latin_body	p346-10	scripture	body-ordinal	ad Corinthios tertio	1Cor 3:6	B	verse			
+bon-luc-c13-v18-21	7	latin_body	p347-1	scripture	body-ordinal	ad Philippenses secundo	Phil 2:7	B	verse			
+bon-luc-c13-v18-21	7	latin_body	p347-2	scripture	body-ordinal	Matthaei decimo tertio	Matth 13:24	B	verse			
+bon-luc-c13-v18-21	7	latin_body	p347-4	scripture	body-ordinal	ad Colossenses primo	Col 1:5	B	verse			
+bon-luc-c13-v18-21	7	latin_body	p347-5	scripture	body-ordinal	Isaiae trigesimo septimo	Isai 37:31	B	verse			
+bon-luc-c13-v18-21	7	latin_body		scripture	body-ordinal	Isaiae sexagesimo	Isai 60	C	chapter			
+bon-luc-c13-v18-21	7	latin_body		scripture	body-ordinal	Proverbiorum primo	Prov 1	C	chapter			
+bon-luc-c13-v18-21	7	latin_body	p347-7	scripture	body-ordinal	Ecclesiastici vigesimo quarto	Eccli 24:22	B	verse			
+bon-luc-c13-v18-21	7	latin_body	p347-9	scripture	body-ordinal	Danielis quarto	Dan 4:7	B	verse			
+bon-luc-c13-v18-21	7	latin_body	p347-13	scripture	body-ordinal	ad Colossenses primo	Col 1:13	B	verse			
+bon-luc-c13-v18-21	7	latin_body		scripture	body-ordinal	ad Romanos decimo quarto	Rom 14	C	chapter			
+bon-luc-c13-v18-21	7	latin_body	p347-16	scripture	body-ordinal	ad Corinthios quinto	1Cor 5:7	B	verse			
+bon-luc-c13-v18-21	7	latin_body		scripture	body-ordinal	Apocalypsis quinto	Apoc 5	C	chapter			
+bon-luc-c13-v18-21	7	latin_body		scripture	body-ordinal	Petri quinto	1Petr 5	C	chapter			
+bon-luc-c13-v18-21	7	latin_body		scripture	body-ordinal	Proverbiorum ultimo	Prov 31	C	chapter			
+bon-luc-c13-v18-21	7	latin_body	p348-5	scripture	body-ordinal	Deuteronomii vigesimo quarto	Deut 24:6	B	verse			
+bon-luc-c13-v18-21	7	latin_body		scripture	body-ordinal	ad Corinthios decimo	1Cor 10	C	chapter			
+bon-luc-c13-v18-21	7	latin_body		scripture	body-ordinal	Ezechielis decimo quarto	Ezech 14	C	chapter			
+bon-luc-c13-v18-21	7	latin_body		scripture	body-ordinal	Deuteronomii sexto	Deut 6	C	chapter			
+bon-luc-c13-v18-21	7	latin_body		scripture	body-ordinal	Matthaei vigesimo secundo	Matth 22	C	chapter			
+bon-luc-c13-v18-21	7	latin_body		scripture	body-ordinal	ad Thessalonicenses quinto	1Thess 5	C	chapter			
+bon-luc-c13-v18-21	7	latin_body		scripture	body-ordinal	Michaeae sexto	Mich 6	C	chapter			
+bon-luc-c13-v18-21	7	latin_body		scripture	body-ordinal	ad Corinthios decimo tertio	1Cor 13	C	chapter			
+bon-luc-c13-v18-21	7	latin_body		scripture	body-ordinal	Matthaei decimo tertio	Matth 13	C	chapter			
+bon-luc-c13-v18-21	7	latin_body	p349-2	scripture	body-ordinal	Genesis decimo	Gen 10:1	B	verse			
+bon-luc-c13-v18-21	7	latin_body		scripture	body-ordinal	Genesis decimo octavo	Gen 18	C	chapter			
+bon-luc-c13-v18-21	7	latin_body		scripture	body-ordinal	Exodi decimo nono	Exod 19	C	chapter			
+bon-luc-c13-v18-21	7	latin_body	p349-13	scripture	body-ordinal	Isaiae trigesimo primo	Isai 31:9	B	verse			
+bon-luc-c13-v18-21	7	apparatus:p346-4	p346-4	scripture	apparatus-explicit	Matth. 21, 43	Matth 21:43	A	verse			
+bon-luc-c13-v18-21	7	apparatus:p346-6	p346-6	scripture	apparatus-explicit	Prov. 11, 2	Prov 11:2	A	verse			
+bon-luc-c13-v18-21	7	apparatus:p346-6	p346-6	crossref	page	supra pag. 318, nota 2	bon-luc-c12-v13-34		chunk			fn-p318-2
+bon-luc-c13-v18-21	7	apparatus:p346-7	p346-7	scripture	apparatus-explicit	Luc. 17, 6	Luc 17:6	A	verse			
+bon-luc-c13-v18-21	7	apparatus:p346-9	p346-9	scripture	apparatus-explicit	Gen. 2, 15	Gen 2:15	A	verse			
+bon-luc-c13-v18-21	7	apparatus:p346-11	p346-11	scripture	apparatus-explicit	Psalm. 86, 5	Ps 86:5	A	verse			
+bon-luc-c13-v18-21	7	apparatus:p347-6	p347-6	scripture	apparatus-explicit	Isai. 60, 8	Isai 60:8	A	verse			
+bon-luc-c13-v18-21	7	apparatus:p347-6	p347-6	scripture	apparatus-explicit	Prov. 1, 17	Prov 1:17	A	verse			
+bon-luc-c13-v18-21	7	apparatus:p347-12	p347-12	crossref	page	supra pag. 346, nota 4	bon-luc-c13-v18-21		chunk			fn-p346-4
+bon-luc-c13-v18-21	7	apparatus:p347-13	p347-13	scripture	apparatus-explicit	Rom. 14, 17	Rom 14:17	A	verse			
+bon-luc-c13-v18-21	7	apparatus:p348-1	p348-1	scripture	apparatus-explicit	Matth. 16, 6	Matth 16:6	A	verse			
+bon-luc-c13-v18-21	7	apparatus:p348-1	p348-1	scripture	apparatus-explicit	Luc. 13, 21	Luc 13:21	A	verse			
+bon-luc-c13-v18-21	7	apparatus:p348-1	p348-1	scripture	apparatus-explicit	Matth. 13, 33	Matth 13:33	A	verse			
+bon-luc-c13-v18-21	7	apparatus:p348-2	p348-2	scripture	apparatus-explicit	Apoc. 5, 5	Apoc 5:5	A	verse			
+bon-luc-c13-v18-21	7	apparatus:p348-2	p348-2	scripture	apparatus-explicit	I. Petr. 5, 8	1Petr 5:8	A	verse			
+bon-luc-c13-v18-21	7	apparatus:p348-2	p348-2	scripture	anaphor->apparatus-explicit	ibid.	1Petr 5:8	A	verse	yes	I. Petr. 5, 8	
+bon-luc-c13-v18-21	7	apparatus:p348-4	p348-4	crossref	page	supra pag. 347, nota 17	bon-luc-c13-v18-21		chunk			fn-p347-17
+bon-luc-c13-v18-21	7	apparatus:p348-4	p348-4	scripture	apparatus-explicit	Prov. 31, 10	Prov 31:10	A	verse			
+bon-luc-c13-v18-21	7	apparatus:p348-5	p348-5	crossref	page	tom. IV. pag. 385, nota 1	bon-sent-IV-d16-p1-a1-q1+bon-sent-IV-d16-p1-a1-q2		page-multi			
+bon-luc-c13-v18-21	7	apparatus:p348-5	p348-5	scripture	apparatus-explicit	I. Cor. 10, 17	1Cor 10:17	A	verse			
+bon-luc-c13-v18-21	7	apparatus:p348-5	p348-5	scripture	anaphor->apparatus-explicit	loc. cit.	1Cor 10:17	A	verse	yes	I. Cor. 10, 17	
+bon-luc-c13-v18-21	7	apparatus:p348-6	p348-6	scripture	apparatus-explicit	Isai. 53, 3	Isai 53:3	A	verse			
+bon-luc-c13-v18-21	7	apparatus:p348-6	p348-6	scripture	apparatus-explicit	Ezech. 14, 14	Ezech 14:14	A	verse			
+bon-luc-c13-v18-21	7	apparatus:p348-7	p348-7	scripture	apparatus-explicit	Eph. 3, 10	Eph 3:10	A	verse			
+bon-luc-c13-v18-21	7	apparatus:p348-7	p348-7	scripture	apparatus-explicit	I. Cor. 2, 7	1Cor 2:7	A	verse			
+bon-luc-c13-v18-21	7	apparatus:p348-8	p348-8	scripture	apparatus-explicit	Deut. 6, 5	Deut 6:5	A	verse			
+bon-luc-c13-v18-21	7	apparatus:p348-8	p348-8	scripture	apparatus-explicit	Matth. 22, 37	Matth 22:37	A	verse			
+bon-luc-c13-v18-21	7	apparatus:p348-9	p348-9	scripture	apparatus-explicit	I. Thess. 5, 23	1Thess 5:23	A	verse			
+bon-luc-c13-v18-21	7	apparatus:p348-10	p348-10	scripture	apparatus-explicit	Mich. 6, 8	Mich 6:8	A	verse			
+bon-luc-c13-v18-21	7	apparatus:p348-11	p348-11	crossref	relative-bare	loc. cit.			unresolvable			
+bon-luc-c13-v18-21	7	apparatus:p348-11	p348-11	scripture	apparatus-explicit	I. Cor. 13, 7	1Cor 13:7	A	verse			
+bon-luc-c13-v18-21	7	apparatus:p348-11	p348-11	crossref	logical	III. Sent. d. 23. dub. 3.	bon-sent-III-d23-dubia		chunk			dub-3
+bon-luc-c13-v18-21	7	apparatus:p349-1	p349-1	scripture	apparatus-explicit	Matth. 13, 23	Matth 13:23	A	verse			
+bon-luc-c13-v18-21	7	apparatus:p349-1	p349-1	crossref	page	supra pag. 192, nota 2	bon-luc-c8-v1-10		chunk			fn-p192-2
+bon-luc-c13-v18-21	7	apparatus:p349-3	p349-3	scripture	apparatus-explicit	Matth. 22, 40	Matth 22:40	A	verse			
+bon-luc-c13-v18-21	7	apparatus:p349-6	p349-6	crossref	page	tom. V. pag. 485, nota 2	bon-don-c6		chunk			fn-p485-2
+bon-luc-c13-v18-21	7	apparatus:p349-6	p349-6	scripture	apparatus-explicit	Gen. 18, 6	Gen 18:6	A	verse			
+bon-luc-c13-v18-21	7	apparatus:p349-7	p349-7	scripture	apparatus-explicit	Luc. 1, 38	Luc 1:38	A	verse			
+bon-luc-c13-v18-21	7	apparatus:p349-8	p349-8	scripture	apparatus-explicit	Eph. 3, 10	Eph 3:10	A	verse			
+bon-luc-c13-v18-21	7	apparatus:p349-8	p349-8	crossref	page	supra pag. 348, nota 7	bon-luc-c13-v18-21		chunk			fn-p348-7
+bon-luc-c13-v18-21	7	apparatus:p349-9	p349-9	crossref	work	Hexaëm. collat. 2.	bon-hex-c2		chunk			
+bon-luc-c13-v18-21	7	apparatus:p349-9	p349-9	scripture	apparatus-explicit	I. Cor. 2, 7	1Cor 2:7	A	verse			
+bon-luc-c13-v18-21	7	apparatus:p349-11	p349-11	crossref	page	tom. III. pag. 661, nota 6	bon-sent-III-d30-a1-q2+bon-sent-III-d30-a1-q3		page-multi			
+bon-luc-c13-v18-21	7	apparatus:p349-11	p349-11	crossref	page	tom. IV. pag. 292, nota 11	bon-sent-IV-d12-p2-a1-q2+bon-sent-IV-d12-p2-a1-q3		page-multi			
+bon-luc-c13-v18-21	7	apparatus:p349-12	p349-12	scripture	apparatus-explicit	I. Cor. 13, 8	1Cor 13:8	A	verse			
+bon-luc-c13-v18-21	7	apparatus:p349-12	p349-12	scripture	apparatus-explicit	Exod. 19, 18	Exod 19:18	A	verse			
+bon-luc-c13-v18-21	7	apparatus:p349-14	p349-14	scripture	apparatus-explicit	Matth. 6, 22	Matth 6:22	A	verse			
+bon-luc-c13-v18-21	7	apparatus:p349-14	p349-14	scripture	apparatus-explicit	Ps. 72, 26	Ps 72:26	A	verse			
+bon-luc-c13-v18-21	7	apparatus:p349-14	p349-14	crossref	page	supra pag. 300, nota 7	bon-luc-c11-v33-41		chunk			fn-p300-7
 bon-luc-c2-v1-7	7	latin_body	p44-5	scripture	body-ordinal	Ieremiae vigesimo tertio	Ierem 23:5	B	verse			
 bon-luc-c2-v1-7	7	latin_body	p44-7	scripture	body-ordinal	Danielis secundo	Dan 2:40	B	verse			
 bon-luc-c2-v1-7	7	latin_body		scripture	body-ordinal	Ieremiae vigesimo septimo	Ierem 27	C	chapter			
