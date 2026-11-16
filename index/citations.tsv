@@ -38901,6 +38901,71 @@ bon-luc-c13-v31-35	7	apparatus:p358-1	p358-1	scripture	apparatus-explicit	Luc. 1
 bon-luc-c13-v31-35	7	apparatus:p358-1	p358-1	scripture	apparatus-explicit	Matth. 21, 9	Matth 21:9	A	verse			
 bon-luc-c13-v31-35	7	apparatus:p358-2	p358-2	scripture	apparatus-explicit	Isai. 33, 17	Isai 33:17	A	verse			
 bon-luc-c13-v31-35	7	apparatus:p358-3	p358-3	crossref	logical	IV. Sent. d. 48. a. 1. q. 1.	bon-sent-IV-d48-a1-q1		chunk			
+bon-luc-c14-v1-6	7	latin_body	p358-12	scripture	body-ordinal	Baruch tertio	Baruch 3:36	B	verse			
+bon-luc-c14-v1-6	7	latin_body	p358-13	scripture	body-ordinal	Ezechielis secundo	Ezech 2:6	B	verse			
+bon-luc-c14-v1-6	7	latin_body		scripture	body-ordinal	Apocalypsis tertio	Apoc 3	C	chapter			
+bon-luc-c14-v1-6	7	latin_body	p358-14	scripture	body-ordinal	ad Corinthios octavo	2Cor 8:9	B	verse			
+bon-luc-c14-v1-6	7	latin_body		scripture	body-ordinal	Ioannis decimo quinto	Ioan 15	C	chapter			
+bon-luc-c14-v1-6	7	latin_body	p359-2	scripture	body-ordinal	Marci tertio	Marc 3:2	B	verse			
+bon-luc-c14-v1-6	7	latin_body		scripture	body-ordinal	Proverbiorum vigesimo quarto	Prov 24	C	chapter			
+bon-luc-c14-v1-6	7	latin_body	p359-3	scripture	body-ordinal	Proverbiorum vigesimo tertio	Prov 23:6	B	verse			
+bon-luc-c14-v1-6	7	latin_body	p359-6	scripture	body-ordinal	Ecclesiastici trigesimo nono	Eccli 39:24	B	verse			
+bon-luc-c14-v1-6	7	latin_body	p359-8	scripture	body-ordinal	Ecclesiastici decimo octavo	Eccli 18:12	B	verse			
+bon-luc-c14-v1-6	7	latin_body		scripture	body-ordinal	Ecclesiastici undecimo	Eccli 11	C	chapter			
+bon-luc-c14-v1-6	7	latin_body	p359-10	scripture	body-ordinal	Matthaei nono	Matth 9:4	B	verse			
+bon-luc-c14-v1-6	7	latin_body		scripture	body-ordinal	Sapientiae primo	Sap 1	C	chapter			
+bon-luc-c14-v1-6	7	latin_body	p359-11	scripture	body-ordinal	Matthaei duodecimo	Matth 12:10	B	verse			
+bon-luc-c14-v1-6	7	latin_body		scripture	body-ordinal	Malachiae secundo	Malach 2	C	chapter			
+bon-luc-c14-v1-6	7	latin_body		scripture	anaphor->body-ordinal	ibid	Malach 2	C	chapter	yes	Malachiae secundo	
+bon-luc-c14-v1-6	7	latin_body	p360-2	scripture	body-ordinal	Matthaei vigesimo primo	Matth 21:25	B	verse			
+bon-luc-c14-v1-6	7	latin_body		scripture	body-ordinal	Ecclesiastici trigesimo septimo	Eccli 37	C	chapter			
+bon-luc-c14-v1-6	7	latin_body	p360-3	scripture	body-ordinal	Ecclesiastici vigesimo	Eccli 20:6	B	verse			
+bon-luc-c14-v1-6	7	latin_body	p360-5	scripture	body-ordinal	ad Hebraeos secundo	Hebr 2:16	B	verse			
+bon-luc-c14-v1-6	7	latin_body	p360-7	scripture	body-ordinal	Iob primo	Iob 1:14	B	verse			
+bon-luc-c14-v1-6	7	latin_body		scripture	body-ordinal	Exodi nono	Exod 9	C	chapter			
+bon-luc-c14-v1-6	7	latin_body	p360-11	scripture	body-ordinal	Levitici vigesimo tertio	Lev 23:7	B	verse			
+bon-luc-c14-v1-6	7	latin_body		scripture	body-ordinal	Actuum sexto	Act 6	C	chapter			
+bon-luc-c14-v1-6	7	latin_body		scripture	body-ordinal	Proverbiorum trigesimo	Prov 30	C	chapter			
+bon-luc-c14-v1-6	7	latin_body	p361-3	scripture	body-ordinal	Deuteronomii decimo septimo	Deut 17:13	B	verse			
+bon-luc-c14-v1-6	7	latin_body	p361-4	scripture	body-ordinal	Proverbiorum decimo quarto	Prov 14:30	B	verse			
+bon-luc-c14-v1-6	7	latin_body	p361-6	scripture	body-ordinal	ad Titum primo	Tit 1:12	B	verse			
+bon-luc-c14-v1-6	7	latin_body		scripture	body-ordinal	Sapientiae decimo quinto	Sap 15	C	chapter			
+bon-luc-c14-v1-6	7	latin_body	p361-7	scripture	body-ordinal	Proverbiorum trigesimo	Prov 30:16	B	verse			
+bon-luc-c14-v1-6	7	latin_body		scripture	body-ordinal	Ecclesiastae quinto	Eccle 5	C	chapter			
+bon-luc-c14-v1-6	7	latin_body	p361-9	scripture	body-ordinal	ad Philippenses tertio	Phil 3:19	B	verse			
+bon-luc-c14-v1-6	7	latin_body	p361-10	scripture	body-ordinal	Isaiae quadragesimo secundo	Isai 42:6	B	verse			
+bon-luc-c14-v1-6	7	latin_body		scripture	body-ordinal	Matthaei primo	Matth 1	C	chapter			
+bon-luc-c14-v1-6	7	latin_body	p361-12	scripture	body-ordinal	Matthaei decimo octavo	Matth 18:27	B	verse			
+bon-luc-c14-v1-6	7	latin_body	p361-13	scripture	body-ordinal	Isaiae primo	Isai 1:3	B	verse			
+bon-luc-c14-v1-6	7	latin_body	p361-14	scripture	body-ordinal	Deuteronomii vigesimo secundo	Deut 22:10	B	verse			
+bon-luc-c14-v1-6	7	latin_body	p361-16	scripture	body-ordinal	Zachariae nono	Zach 9:11	B	verse			
+bon-luc-c14-v1-6	7	apparatus:p358-13	p358-13	scripture	apparatus-explicit	Apoc. 3, 20	Apoc 3:20	A	verse			
+bon-luc-c14-v1-6	7	apparatus:p359-1	p359-1	scripture	apparatus-explicit	Ioan. 15, 20	Ioan 15:20	A	verse			
+bon-luc-c14-v1-6	7	apparatus:p359-2	p359-2	scripture	apparatus-explicit	Prov. 24, 15	Prov 24:15	A	verse			
+bon-luc-c14-v1-6	7	apparatus:p359-6	p359-6	scripture	apparatus-explicit	Prov. 24, 16	Prov 24:16	A	verse			
+bon-luc-c14-v1-6	7	apparatus:p359-8	p359-8	scripture	apparatus-explicit	Eccli. 11, 12	Eccli 11:12	A	verse			
+bon-luc-c14-v1-6	7	apparatus:p359-9	p359-9	scripture	apparatus-explicit	Psalm. 101, 20	Ps 101:20	A	verse			
+bon-luc-c14-v1-6	7	apparatus:p359-12	p359-12	scripture	apparatus-explicit	Malach. 2, 7	Malach 2:7	A	verse			
+bon-luc-c14-v1-6	7	apparatus:p360-2	p360-2	scripture	apparatus-explicit	Eccli. 37, 3	Eccli 37:3	A	verse			
+bon-luc-c14-v1-6	7	apparatus:p360-5	p360-5	scripture	apparatus-explicit	Luc. 6, 19	Luc 6:19	A	verse			
+bon-luc-c14-v1-6	7	apparatus:p360-6	p360-6	crossref	page	supra pag. 67, nota 9	bon-luc-c2-v40-52		chunk			fn-p67-9
+bon-luc-c14-v1-6	7	apparatus:p360-6	p360-6	scripture	apparatus-explicit	Luc. 8, 39	Luc 8:39	A	verse			
+bon-luc-c14-v1-6	7	apparatus:p360-7	p360-7	scripture	apparatus-explicit	Exod. 9, 3	Exod 9:3	A	verse			
+bon-luc-c14-v1-6	7	apparatus:p360-11	p360-11	scripture	apparatus-explicit	Exod. 20	Exod 20	C	chapter			
+bon-luc-c14-v1-6	7	apparatus:p360-13	p360-13	scripture	apparatus-explicit	Act. 6, 9	Act 6:9	A	verse			
+bon-luc-c14-v1-6	7	apparatus:p361-1	p361-1	crossref	page	tom. VI. pag. 626, nota 4	bon-cioan-c21		chunk			fn-p626-4
+bon-luc-c14-v1-6	7	apparatus:p361-1	p361-1	scripture	apparatus-explicit	Prov. 30, 16	Prov 30:16	A	verse			
+bon-luc-c14-v1-6	7	apparatus:p361-5	p361-5	scripture	apparatus-explicit	Psalm. 13, 3	Ps 13:3	A	verse			
+bon-luc-c14-v1-6	7	apparatus:p361-6	p361-6	scripture	apparatus-explicit	Sap. 15, 15	Sap 15:15	A	verse			
+bon-luc-c14-v1-6	7	apparatus:p361-7	p361-7	scripture	apparatus-explicit	Eccle. 5, 9	Eccle 5:9	A	verse			
+bon-luc-c14-v1-6	7	apparatus:p361-8	p361-8	scripture	apparatus-explicit	Psalm. 37, 8	Ps 37:8	A	verse			
+bon-luc-c14-v1-6	7	apparatus:p361-10	p361-10	scripture	apparatus-explicit	Ps. 143, 7	Ps 143:7	A	verse			
+bon-luc-c14-v1-6	7	apparatus:p361-11	p361-11	scripture	apparatus-explicit	Psalm. 102, 3	Ps 102:3	A	verse			
+bon-luc-c14-v1-6	7	apparatus:p361-11	p361-11	scripture	apparatus-explicit	Matth. 1, 21	Matth 1:21	A	verse			
+bon-luc-c14-v1-6	7	apparatus:p361-12	p361-12	scripture	apparatus-explicit	Matth. 6, 12	Matth 6:12	A	verse			
+bon-luc-c14-v1-6	7	apparatus:p361-13	p361-13	crossref	page	supra pag. 345, nota 13	bon-luc-c13-v10-17		chunk			fn-p345-13
+bon-luc-c14-v1-6	7	apparatus:p361-15	p361-15	scripture	apparatus-explicit	Psalm. 68, 16	Ps 68:16	A	verse			
+bon-luc-c14-v1-6	7	apparatus:p361-16	p361-16	crossref	page	supra pag. 356, nota 3	bon-luc-c13-v31-35		chunk			fn-p356-3
 bon-luc-c2-v1-7	7	latin_body	p44-5	scripture	body-ordinal	Ieremiae vigesimo tertio	Ierem 23:5	B	verse			
 bon-luc-c2-v1-7	7	latin_body	p44-7	scripture	body-ordinal	Danielis secundo	Dan 2:40	B	verse			
 bon-luc-c2-v1-7	7	latin_body		scripture	body-ordinal	Ieremiae vigesimo septimo	Ierem 27	C	chapter			

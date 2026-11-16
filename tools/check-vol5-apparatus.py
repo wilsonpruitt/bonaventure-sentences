@@ -6193,7 +6193,15 @@ KNOWN_TOTALS_VOL7 = {
              # RUNS OVER THE GUTTER (L -> R: *non aliquid | affirmantes temere*). Gutter 1154 (band 1123-1185).
     358: 14, # SHARED. nn.1-5 bon-luc-c13-v31-35 (para 76, Cap. XIII's last, across the top of both columns
              # above the full-measure CAPITULUM XIV. at ~0.29): anchors L 1-3 / R 4-5. nn.6-14 bon-luc-c14-v1-6
-             # (PENDING). Blocks L 1-6 / R 7-14. Gutter ~1300 above the CAPITULUM (region too thin).
+             # (paras 1-2, from *intraret*6): anchors L 6-10 / R 11-14. Blocks L 1-6 / R 7-14. Gutter ~1300
+             # above the CAPITULUM (region too thin); 1294 below it (band 1264-1325, rule 1292-1298).
+    359: 12, # bon-luc-c14-v1-6 (paras 2 tail-6). Anchors L 1-6 / R 7-12. Blocks L 1-7 / R 8-12 (n.7
+             # anchors R, prints L). No runover. Gutter 1154 (band 1124-1185, rule 1152-1158).
+    360: 13, # bon-luc-c14-v1-6 (paras 6 tail-10). Anchors L 1-6 / R 7-13. Blocks L 1-6 / R 7-13: n.6
+             # RUNS OVER THE GUTTER (L -> R: *nota 9. verba | Gregorii.*). Gutter 1310 (band 1281-1339).
+    361: 16, # bon-luc-c14-v1-6 (paras 10 tail-13, closing at the foot of 361R on Zach. 9:11). Anchors
+             # L 1-9 / R 10-16. Blocks L 1-8 / R 9-16. No runover. Gutter 1150 (band 1121-1180).
+             # Corrigenda: n.13 *nota 3* -> *nota 13* (col. 2), applied with tr-corrigenda.
 }
 
 KNOWN_TOTALS_BY_VOL = {

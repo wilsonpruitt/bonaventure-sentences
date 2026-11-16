@@ -1190,6 +1190,15 @@ const WORKS = {
       // under it, so title_la is the sentence title (rulings 33, 40). The running head of
       // p. 336 already reads C. XIII. above Cap. XII's para 88.
       13: "Capitulum XIII",
+      // `CAPITULUM XIV.` read in place on p. 358 at bon-luc-c14-v1-6: full-measure
+      // centred small capitals at ~0.29-0.32 of the leaf, below Cap. XIII's last para 76
+      // (…« investigabiles viae eius »!), no subtitle, unanchored (p. 358's n. 6 anchors
+      // in para 1's *intraret*). Below it in 358L the t4 `Confutatio calumniantium
+      // miracula, quae fit in convivio, de qua tria.` over para 1, which runs on across
+      // the second 358L t4 `Primo confutantur Pharisaei observantes, de quo tria.`, the
+      // title_la (ruling 22; the c12-v1-7 shape). The running head of p. 358 already
+      // reads C. XIV. above Cap. XIII's para 76.
+      14: "Capitulum XIV",
     },
   },
 };
