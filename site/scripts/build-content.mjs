@@ -1175,6 +1175,14 @@ const WORKS = {
       // tripliciter.` over para 1 (title_la, ruling 22). The running head of p. 277
       // already reads C. XI. above Cap. X's paras 79-80.
       11: "Capitulum XI",
+      // `CAPITULUM XII.` read in place on p. 309 at bon-luc-c12-v1-7: full-measure
+      // centred small capitals at ~0.59, directly below Cap. XI's last para 102
+      // (…« ut Iesum caperent in sermone ».), no subtitle, unanchored. Below it in
+      // 309L the t4 `Secundo informat ad fallaciam confutatam vitandam duplici
+      // modo.` over para 1, which runs on across the two 310L t4s; the second,
+      // `Informatio duplex ad cavendam dolositatem.`, is the title_la (ruling 22).
+      // The running head of p. 309 already reads C. XII. above Cap. XI's paras.
+      12: "Capitulum XII",
     },
   },
 };

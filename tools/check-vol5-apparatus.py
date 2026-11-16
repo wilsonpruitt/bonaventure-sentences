@@ -6050,6 +6050,22 @@ KNOWN_TOTALS_VOL7 = {
              # 13.), cfr. II. Sent, lit. Magistri, d. XLII. c. 4.* Anchors L 1-5 / R 6-11; blocks L 1-5 / R (5 tail)
              # 6-11. n.5 RUNS OVER THE GUTTER (*Superius pro ideo* | *non per sola verba intrabant*). Gutter 1151
              # (band 1121-1182, rows 0.15-0.45; the 0.05-0.55 window catches the CAPITULUM line, 18 px).
+             # Re-derived by bon-luc-c12-v1-7 at 1.2-2.2x: n.11 its own, true in anchor (R, Cap. XII para 1
+             # *simulationis redargutae*11), wording and digit (*c. 11. n. 36*, *Ps. 79. n. 13*, *d. XLII. c. 4*).
+             # Capitulum-region gutter 1149 (rows 0.62-0.69, band 1118-1181).
+    310: 11, # bon-luc-c12-v1-7 (para 1 tail-4). Anchors L 1-5 / R 6-11. Blocks L 1-6 / R (6 tail) 7-11 (n.6
+             # *curantur*6 anchors RIGHT, prints LEFT). n.6 RUNS OVER THE GUTTER (*late-* | *bram fraudis*).
+             # Gutter 1301 (rows 0.20-0.50, band 1273-1329, rule 1295-1306).
+    311: 11, # bon-luc-c12-v1-7 (paras 4 tail-8). Anchors L 1-5 / R 6-11. Blocks L 1-5 / R 6-11. No runover.
+             # Gutter 1153 (band 1122-1184, rule 1150-1154).
+    312: 11, # bon-luc-c12-v1-7 (paras 8 tail-10). Anchors L 1-6 / R 7-11. Blocks L 1-8 / R (8 tail) 9-11 (nn.7-8
+             # anchor RIGHT, print LEFT). n.8 RUNS OVER THE GUTTER (*Beda in eundem* | *loc. ait*). Gutter 1318
+             # (band 1288-1349, rule 1315-1321).
+    313: 12, # SHARED. nn.1-6 bon-luc-c12-v1-7 (paras 10 tail-11, closing at the foot of 313L on *quamdiu
+             # adhaeseris mihi.*). nn.7-12 PENDING for bon-luc-c12-v8-12 (313R t4 *Informatio duplex ad
+             # servandam veracitatem.* over para 12; anchors R 7-12). Blocks L 1-4 / R (4 tail) 5-12 (nn.5-6
+             # anchor LEFT, print RIGHT). n.4 RUNS OVER THE GUTTER (*et si cura* | *est Vat. prosequitur*).
+             # Gutter 1147 (band 1117-1178, rule 1145-1151).
 }
 
 KNOWN_TOTALS_BY_VOL = {
