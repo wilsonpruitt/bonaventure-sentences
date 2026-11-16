@@ -6032,6 +6032,24 @@ KNOWN_TOTALS_VOL7 = {
              # seqq.; cfr. supra pag. 295, nota 10.*; n.14 at *ibi*14: *Vers. 45.* Anchors L 1-8 / R 9-14 (nn.7-8
              # anchor LEFT, print RIGHT); blocks L 1-6 / R 7-14. No runover. Read at 1.15-1.5x for the hand-off
              # only. Gutter 1261 (band 1233-1289, rule 1257-1266).
+             # Re-derived by bon-luc-c11-v42-54 at 0.85-1.15x: nn.13-14 its own, true in anchor (R, para 85
+             # *Matthaei vigesimo tertio*13, *ibi*14), wording and digit (*Vers. 13. seqq.; cfr. supra pag. 295,
+             # nota 10.*; *Vers. 45.*). Opening joint TRUE: para 84 closes ~0.41 of 304R, para 85 below, no heading.
+    305: 12, # bon-luc-c11-v42-54 (paras 86 tail-88). Anchors L 1-6 / R 7-12. Blocks L 1-6 / R 7-12. No runover.
+             # Gutter 1174 (band 1143-1205, rule 1172-1176).
+    306: 12, # bon-luc-c11-v42-54 (paras 88 tail-92). Anchors L 1-6 / R 7-12. Blocks L 1-5 / R 6-12 (n.6
+             # *quidam*6 anchors LEFT, prints RIGHT). No runover. Gutter 1276 (band 1249-1304, rule 1270-1283).
+    307: 11, # bon-luc-c11-v42-54 (paras 92 tail-96). Anchors L 1-4 / R 5-11 (n.5 *Hieronymus*5 anchors RIGHT,
+             # prints LEFT). Blocks L 1-5 / R 6-11. No runover. Gutter 1165 (band 1136-1195, rule 1163-1170).
+    308: 10, # bon-luc-c11-v42-54 (paras 96 tail-99). Anchors L 1-5 / R 6-10. Blocks L 1-5 / R 6-10. No runover.
+             # Gutter 1284 (band 1255-1313, rule 1280-1289).
+    309: 11, # SHARED. nn.1-10 bon-luc-c11-v42-54 (paras 99 tail-102, closing ~0.57 of 309R on *ut Iesum
+             # caperent in sermone.*; CAPITULUM XII. full measure below, ~0.58-0.60). n.11 PENDING for
+             # bon-luc-c12-v1-7 (Cap. XII para 1, 309R, at *simulationis redargutae*11): *Cfr. supra c. 11. n. 36.
+             # — De duobus motivis duplicitatis, scil. timore et amore (secundum August., Enarrat. in Ps. 79. n.
+             # 13.), cfr. II. Sent, lit. Magistri, d. XLII. c. 4.* Anchors L 1-5 / R 6-11; blocks L 1-5 / R (5 tail)
+             # 6-11. n.5 RUNS OVER THE GUTTER (*Superius pro ideo* | *non per sola verba intrabant*). Gutter 1151
+             # (band 1121-1182, rows 0.15-0.45; the 0.05-0.55 window catches the CAPITULUM line, 18 px).
 }
 
 KNOWN_TOTALS_BY_VOL = {
