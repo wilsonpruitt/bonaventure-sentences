@@ -5968,6 +5968,30 @@ KNOWN_TOTALS_VOL7 = {
              # n.4 at *Iesus*4 (Vulgata omittit Iesus...), n.5 *quarto capitulo*5, n.6 *quinto*6 (prints LEFT, RUNS
              # OVER THE GUTTER into the head of the RIGHT block), nn.7-11 anchor 288R; blocks L 1-6 / R 7-11; read
              # at 0.3x for the hand-off only. Gutter 1289 (rows 0.08-0.36, band 1258-1321, rule 1289-1292).
+             # Re-derived by bon-luc-c11-v14-26 at 0.85-1.8x: nn.4-11 its own, true in anchor (L 4-6 / R 7-11) and in
+             # every digit; n.6 RUNS OVER THE GUTTER (*ita etiam codd. | inferius legunt*), as handed off. ONE hand-off
+             # wording corrected on the plate: n.7 reads *pro in synagogis substituunt in synagoga* (the hand-off had
+             # the two forms reversed); the body prints *in synagogis*. Gutter 1289 below the 288L t2 (rows 0.40-0.76,
+             # band 1257-1320, rule 1287-1290).
+    289: 11, # bon-luc-c11-v14-26 (paras 37 tail-40). Anchors L 1-5 / R 6-11. Blocks L 1-7 / R 8-11 (nn.6-7 anchor
+             # RIGHT, print LEFT). No runover. Gutter 1171 (band 1141-1199, rule 1163-1174; a ~10 px walk, one split).
+    290: 12, # bon-luc-c11-v14-26 (paras 40 tail-44). Anchors L 1-7 / R 8-12. Blocks L 1-5 / R 6-12 (nn.6-7 anchor
+             # LEFT, print RIGHT). No runover. Gutter 1277 (band 1252-1307, rule 1273-1285; ~10 px walk, one split).
+    291: 13, # bon-luc-c11-v14-26 (paras 44 tail-45). Anchors L 1-7 / R 8-13. Blocks L 1-7 / R 8-13. No runover.
+             # Gutter 1162 (band 1133-1192, rule 1160-1166).
+    292: 15, # bon-luc-c11-v14-26 (paras 45 tail-48). Anchors L 1-6 / R 7-15. Blocks L 1-7 / R 8-15 (n.7 anchors
+             # RIGHT, prints LEFT). No runover. Gutter 1279 (band 1249-1309, rule 1276-1282).
+    293: 15, # bon-luc-c11-v14-26 (paras 48 tail-51). Anchors L 1-7 / R 8-15. Blocks L 1-8 / R 9-15 (n.8 anchors
+             # RIGHT, prints LEFT). No runover. Gutter 1143 (band 1113-1174, rule 1141-1147).
+    294: 13, # bon-luc-c11-v14-26 (paras 51 tail-54). Anchors L 1-6 / R 7-13. Blocks L 1-8 / R (8 tail) 9-13 (nn.7-8
+             # anchor RIGHT, print LEFT). n.8 RUNS OVER THE GUTTER (*ad 3, ubi | expositio huius loci*). n.13 carries the
+             # Corrigenda (t. VII p. 858: *ubi cum Vulgata* -> delete *cum Vulgata*), applied. Gutter 1297 (band
+             # 1270-1324, rule 1292-1303).
+    295: 16, # SHARED. nn.1-15 bon-luc-c11-v14-26 (paras 54 tail-57; anchors L 1-8 / R 9-15; para 57 closes ~0.51 of
+             # 295R on *Exiit a Iudaeis etc.*). n.16 PENDING for bon-luc-c11-v27-32 (para 58 *Factum est autem etc.*,
+             # no heading, at *commendationem veritatis apertae*16; *Vide supra n. 36. — Inferius post commendationis
+             # Vat. addit laudativae.*; anchors and prints RIGHT). Blocks L 1-8 / R 9-16. No runover. Gutter 1140
+             # (band 1112-1169, rule 1136-1148).
 }
 
 KNOWN_TOTALS_BY_VOL = {
