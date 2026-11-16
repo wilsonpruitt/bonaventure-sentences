@@ -6273,6 +6273,20 @@ KNOWN_TOTALS_VOL7 = {
              # ~0.31 at *subcaelestis*9). nn.10-12 PENDING for bon-luc-c15-v11-20 (389R t4 *Parabola de filio
              # prodigo.*, para 21: n.10 *Cfr. supra n. 6. ...* at *tertio*10). Blocks L 1-8 / R 9-12 (n.8
              # anchors right, prints left). Gutter 1136 (0.10-0.50) / 1139 (0.50-0.95).
+             # COMPLETE at bon-luc-c15-v11-20 (para 21): nn.10-12 anchor and print in 389R. No runover.
+    390: 14, # bon-luc-c15-v11-20 (paras 22 tail-24). Anchors L 1-8 / R 9-14. Blocks L 1-9 / R 10-14 (n.9
+             # anchors right, prints left). No runover. Gutter 1318 (0.10-0.50) / 1321 (0.50-0.95).
+    391: 16, # bon-luc-c15-v11-20 (paras 24 tail-26). Anchors L 1-8 / R 9-16. Blocks L 1-9 / R 10-16 (n.9
+             # anchors right, prints left). No runover. Gutter 1141 / 1150 (a 9 px walk; one split suffices).
+    392: 12, # bon-luc-c15-v11-20 (paras 26 tail-28). Anchors L 1-6 / R 7-12. Blocks L 1-7 / R 7-12: n.7 RUNS
+             # OVER THE GUTTER (L -> R: *In fine Glossae allegatur | Phil. 3, 19.*). Gutter 1299 / 1292.
+    393: 13, # bon-luc-c15-v11-20 (paras 28 tail-30). Anchors L 1-6 / R 7-13. Blocks L 1-8 / R 9-13 (nn.7-8
+             # anchor right, print left). No runover. Gutter 1166 / 1165.
+    394: 14, # SHARED. nn.1-11 bon-luc-c15-v11-20 (paras 30 tail-32; anchors L 1-5 / R 6-11; 394R para 32 closes
+             # ~0.53 at *non eiiciam foras*). nn.12-14 PENDING for bon-luc-c15-v20-24 (para 33 *Cum autem
+             # adhuc longe esset*, 394R ~0.54: n.12 *Cfr. supra n. 21.* at *misericordia*12, n.13 *Vers. 25.*
+             # at *ibi*13, n.14 *Vers. 22; tertium habetur v. 23.* at *ibi*14). Blocks L 1-4 / R 5-14 (n.5
+             # anchors left, prints right). Gutter 1300 (0.10-0.50) / 1307 (0.50-0.95).
 }
 
 KNOWN_TOTALS_BY_VOL = {
