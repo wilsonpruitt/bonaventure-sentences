@@ -6371,7 +6371,27 @@ KNOWN_TOTALS_VOL7 = {
              # nn.1-6 bon-luc-c16-v19-22 (paras 44 tail-45; all anchor 419L). nn.7-13 PENDING for
              # bon-luc-c16-v22-31 (n.7 *Cfr. supra n. 45.* at para 46's *poenam* in 419L; nn.8-13 419R).
              # Blocks L 1-5 head / R 5 tail 6-13: n.5 RUNS OVER THE GUTTER (*... et definitio usque |
-             # ad labium ...*). Gutter 1176 (0.10-0.70) / 1177 (0.30-0.95).
+             # ad labium ...*). Gutter 1176 (0.10-0.70) / 1177 (0.30-0.95). COMPLETE: nn.7-13 are
+             # bon-luc-c16-v22-31's (para 46 *poenam*, *ibi*; para 47), read on the plate 2026-11-16.
+    420: 15, # bon-luc-c16-v22-31 (paras 48-49). Anchors L 1-7 / R 8-15; blocks L 1-8 head / R 8 tail
+             # 9-15: n.8 RUNS OVER THE GUTTER (*... licet meo vitio te | patrem perdiderim ...*).
+             # Gutter 1302.
+    421: 13, # bon-luc-c16-v22-31 (paras 49 tail-52). Anchors L 1-6 / R 7-13; blocks L 1-5 / R 6-13
+             # (n.6 anchors left, prints right). No runover. Gutter 1171.
+    422: 15, # bon-luc-c16-v22-31 (paras 52 tail-55). Anchors L 1-9 / R 10-15; blocks L 1-9 head / R 9
+             # tail 10-15: n.9 RUNS OVER THE GUTTER (*... Gregor., II. Ho- | mil. in Evang. ...*).
+             # Gutter 1313.
+    423: 12, # bon-luc-c16-v22-31 (paras 55 tail-58). Anchors L 1-8 / R 9-12; blocks L 1-8 head / R 8
+             # tail 9-12: n.8 RUNS OVER THE GUTTER (*... mortuorum illo- | rum (F G multorum)*).
+             # Codex H printed `II` at nn.3, 9 (read H). Gutter 1151.
+    424: 13, # bon-luc-c16-v22-31 (paras 58 tail-60). Anchors L 1-6 / R 7-13; blocks L 1-8 / R 9-13
+             # (nn.7-8 anchor right, print left). No runover. Gutter 1310.
+    425: 12, # SHARED (full-measure CAPITULUM XVII. at ~0.53, below para 61 closing 425R ~0.50).
+             # nn.1-10 bon-luc-c16-v22-31 (paras 60 tail-61; anchors L 1-5 / R 6-10). nn.11-12 PENDING
+             # for bon-luc-c17-v1-4 (Cap. XVII para 1: n.11 *Cfr. supra c. 16. n. 1.* at *spiritualem*,
+             # n.12 *Vers. 5; tertia incipit v. 11 ...* at *ibi*; both 425R). Blocks L 1-7 head / R 7
+             # tail 8-12: n.7 RUNS OVER THE GUTTER (*... in Apostolos impe- | tum faciebant ...*).
+             # Gutter 1145 (0.08-0.30) / 1143 (0.25-0.47) / 1145 (Cap. XVII region 0.56-0.95).
 }
 
 KNOWN_TOTALS_BY_VOL = {
