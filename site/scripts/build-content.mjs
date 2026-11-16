@@ -1199,6 +1199,14 @@ const WORKS = {
       // title_la (ruling 22; the c12-v1-7 shape). The running head of p. 358 already
       // reads C. XIV. above Cap. XIII's para 76.
       14: "Capitulum XIV",
+      // `CAPITULUM XV.` read in place on p. 381 at bon-luc-c15-v1-7: full-measure
+      // centred small capitals at ~0.555 of the leaf, below Cap. XIV's last para 69
+      // (…« Qui elucidant me vitam aeternam habebunt ».), no subtitle, unanchored. Below
+      // it in 381L the t4 `Impietas Iudaeorum confutatur tripliciter.` over para 1, which
+      // runs on to the t4 at the head of 382L, `Expressio Iudaicae impietatis describitur
+      // tripliciter.`, the title_la (ruling 22). The running head of p. 381 already reads
+      // C. XV. above Cap. XIV's close.
+      15: "Capitulum XV",
     },
   },
 };

@@ -6248,10 +6248,23 @@ KNOWN_TOTALS_VOL7 = {
     380: 15, # bon-luc-c14-v25-35 (paras 64 tail-67). Anchors L 1-7 / R 8-15. Blocks L 1-8 / R 9-15. No runover.
              # Gutter 1317 (band 1289-1346).
     381: 13, # SHARED -- THE p.381 GATE. nn.1-11 bon-luc-c14-v25-35 (paras 67 tail-69, Cap. XIV closes ~0.52 of
-             # 381R): anchors L 1-6 / R 7-11. nn.12-13 belong to Cap. XV para 1 (the next interval's first
-             # chunk; PENDING): n.12 *Cfr. supra c. 11. n. 36.* at *pietatis*12 (L), n.13 *Vers. 3; tertia pars
-             # incipit c. 16, 1.* at *ibi*13 (R). Blocks L 1-6 / R 7-13. No runover. Gutter 1162 (upper body;
-             # band 1143-1179, narrowed by the full-measure CAPITULUM XV. in the window -- re-profile below it).
+             # 381R): anchors L 1-6 / R 7-11. nn.12-13 bon-luc-c15-v1-7 (Cap. XV para 1, below the full-measure
+             # CAPITULUM XV. at ~0.555): n.12 *Cfr. supra c. 11. n. 36.* at *pietatis*12 (L), n.13 *Vers. 3;
+             # tertia pars incipit c. 16, 1.* at *ibi*13 (R). Blocks L 1-6 / R 7-13. No runover. Gutter 1162
+             # (upper body; band 1143-1179); 1168 for the Cap. XV region (rows 0.58-0.95, band 1140-1197).
+    382: 12, # bon-luc-c15-v1-7 (382L t4 + paras 1 tail-4). Anchors L 1-6 / R 7-12. Blocks L 1-8 / R 8-12: n.8 RUNS
+             # OVER THE GUTTER (L -> R: *post quos I. | Cor. 10, 10*). Gutter 1281 (band 1252-1311).
+    383: 13, # bon-luc-c15-v1-7 (paras 4 tail-6; 383R t4s Manifestatio pietatis divinae... and Parabola de ove
+             # perdita.). Anchors L 1-7 / R 8-13. Blocks L 1-5 / R 6-13. No runover. Gutter 1171 (band 1141-1201).
+    384: 14, # bon-luc-c15-v1-7 (paras 6 tail-10). Anchors L 1-7 / R 8-14. Blocks L 1-7 / R 8-14. No runover.
+             # Gutter 1290 (band 1261-1319).
+    385: 15, # bon-luc-c15-v1-7 (paras 10 tail-13). Anchors L 1-8 / R 9-15. Blocks L 1-9 / R 10-15. No runover.
+             # Gutter 1160 (SKEW walk 1167/1157/1151 by region, one split suffices).
+    386: 12, # bon-luc-c15-v1-7 (paras 13 tail-14). Anchors L 1-8 / R 9-12. Blocks L 1-8 / R 8-12: n.8 RUNS OVER
+             # THE GUTTER (L -> R: *Glossa | interlinearis*). Gutter 1317 (SKEW walk 1309/1320/1328).
+    387: 13, # SHARED. n.1 bon-luc-c15-v1-7 (para 14 tail, 387L to ~0.11): *Vers. 3.* at *nono*1. nn.2-13 belong
+             # to bon-luc-c15-v8-10 (PENDING; 387L t4 *Parabola de drachma perdita.*, para 15): n.2 *Cfr. supra
+             # n. 6. ...* at *drachmis*2. Blocks L 1-8 / R 9-13 (count only). Gutter 1162 (rows 0.10-0.45).
 }
 
 KNOWN_TOTALS_BY_VOL = {
