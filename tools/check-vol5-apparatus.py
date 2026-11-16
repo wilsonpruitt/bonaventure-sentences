@@ -6080,6 +6080,26 @@ KNOWN_TOTALS_VOL7 = {
              # ...* / *A sollicitudine avaritiae revocatur quadrupliciter.*; para 21 on). Anchors L 1-8 / R 9-16.
              # Blocks L 1-5 / R (5 tail) 6-16. n.5 RUNS OVER THE GUTTER (*omittit ei;* | *idem recurrit*).
              # Gutter 1308 (rows 0.20-0.60, band 1277-1339, rule 1306-1309).
+             # Re-derived by bon-luc-c12-v13-34 at 1.6x: nn.5-16 its own, true in anchor (L 5-8 in para 21 and
+             # the divisio under the second t4; R 9-16, paras 22-23), wording and digit (*Matth. 19, 16. et 21*,
+             # *Luc. 18, 18*, *c. 15. n. 19*, *n. 122*, *Esther 13, 9*, *I. Cor. 2, 14*). n.5 gutter runover in
+             # the ledger under bon-luc-c12-v13-34.
+    317: 12, # bon-luc-c12-v13-34 (paras 23 tail-28). Anchors L 1-7 / R 8-12. Blocks L 1-4 / R 5-12. No runover.
+             # Gutter 1153 (band 1123-1183, rule 1151-1158).
+    318: 12, # bon-luc-c12-v13-34 (paras 28 tail-31). Anchors L 1-6 / R 7-12. Blocks L 1-6 / R 7-12. No runover.
+             # Gutter 1303 (band 1273-1334, rule 1300-1306).
+    319: 12, # bon-luc-c12-v13-34 (paras 31 tail-34). Anchors L 1-6 / R 7-12. Blocks L 1-7 / R (7 tail) 8-12.
+             # n.7 RUNS OVER THE GUTTER (*VII. in Luc. 12. n. 130,* | *ubi pro regno*). Gutter 1154 (band 1123-1185).
+    320: 10, # bon-luc-c12-v13-34 (paras 35-38). Anchors L 1-5 / R 6-10. Blocks L 1-3 / R (3 tail) 4-10. n.3 RUNS
+             # OVER THE GUTTER (*Storia naturale, ed.* | *Livorno 1832*). Corrigenda *insiderat* -> *insederat*
+             # stands at col.1 l.18 (entry says col.2). Gutter 1309 (band 1280-1339, rule 1306-1314).
+    321: 13, # bon-luc-c12-v13-34 (paras 38 tail-41). Anchors L 1-6 / R 7-13. Blocks L 1-7 / R (7 tail) 8-13.
+             # n.7 RUNS OVER THE GUTTER (*A Vat. allegatur* | *Beda.*). Gutter 1164 (band 1134-1195).
+    322: 15, # bon-luc-c12-v13-34 (paras 41 tail-45). Anchors L 1-7 / R 8-15. Blocks L 1-6 / R (6 tail) 7-15.
+             # n.6 RUNS OVER THE GUTTER (*iustitia au-* | *tem est via pietatis*). Gutter 1278 (band 1249-1307).
+    323: 15, # bon-luc-c12-v13-34 (paras 45 tail-48). Anchors L 1-8 / R 9-15. Blocks L 1-9 / R (9 tail) 10-15.
+             # n.9 RUNS OVER THE GUTTER (*ubi loce-* | *tur [codd. locatur]*). Gutter 1165 (rows 0.20-0.60, 56 px;
+             # 0.30-0.60 -> 1164 on 59 px). p.324: no note of this chunk (para 48 closes in 324L's first 3 lines).
 }
 
 KNOWN_TOTALS_BY_VOL = {
