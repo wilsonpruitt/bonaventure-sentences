@@ -6287,6 +6287,19 @@ KNOWN_TOTALS_VOL7 = {
              # adhuc longe esset*, 394R ~0.54: n.12 *Cfr. supra n. 21.* at *misericordia*12, n.13 *Vers. 25.*
              # at *ibi*13, n.14 *Vers. 22; tertium habetur v. 23.* at *ibi*14). Blocks L 1-4 / R 5-14 (n.5
              # anchors left, prints right). Gutter 1300 (0.10-0.50) / 1307 (0.50-0.95).
+             # COMPLETE at bon-luc-c15-v20-24 (para 33): nn.12-14 anchor and print in 394R. No runover.
+    395: 14, # bon-luc-c15-v20-24 (paras 33 tail-35). Anchors L 1-7 / R 8-14 = blocks. No runover.
+             # Gutter 1149 (0.10-0.50) / 1140 (0.50-0.95): a 9 px walk, one split.
+    396: 13, # bon-luc-c15-v20-24 (paras 35 tail-38). Anchors L 1-6 / R 7-13. Blocks L 1-9 / R 10-13
+             # (nn.7-9 anchor right, print left). No runover. Gutter 1306 / 1314 (8 px walk).
+    397: 14, # bon-luc-c15-v20-24 (paras 38 tail-40). Anchors L 1-7 / R 8-14. Blocks L 1-9 / R 10-14:
+             # n.9 RUNS OVER THE GUTTER (L -> R: *Vat. non verba | Glossae, sed ipsius Bedae affert.*). Gutter 1151 / 1150.
+    398: 14, # SHARED. nn.1-11 bon-luc-c15-v20-24 (paras 40 tail-41; anchors L 1-6 / R 7-11; para 41 closes
+             # ~0.37 of 398R on Deut. 16:14 *qui intra portas tuas sunt » etc.*). n.6 RUNS OVER THE GUTTER
+             # (L -> R: *et Hieron., | Epist. 21. (alias 146.) n. 26*). nn.12-14 PENDING for bon-luc-c15-v25-32
+             # (para 42 *Erat autem filius eius etc.*, 398R ~0.38: n.12 *Cfr. supra n. 33.* at *obedientis*12,
+             # n.13 *Vers. 28.* at *ibi*13, n.14 *Vers. 8. et 9. -- Hieron., Epist. 21 ... n. 28* at
+             # *Sapientiae quarto*14). Blocks L 1-6 / R 6-14. Gutter 1308 / 1308.
 }
 
 KNOWN_TOTALS_BY_VOL = {
