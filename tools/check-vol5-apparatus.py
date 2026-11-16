@@ -6222,6 +6222,20 @@ KNOWN_TOTALS_VOL7 = {
              # OVER THE GUTTER (L -> R: *divinorum myste-|riorum*). Gutter 1297 (band 1269-1326).
     369: 15, # bon-luc-c14-v12-15 (paras 32 tail-35). Anchors L 1-7 / R 8-15. Blocks L 1-5 / R 6-15. No runover.
              # Gutter 1150 (band 1121-1179). p.370 opens with para 35's last two lines (no note), then para 36.
+    370: 13, # bon-luc-c14-v16-24 (paras 36-38). Anchors L 1-7 / R 8-13. Blocks L 1-8 / R 9-13: n.13 RUNS
+             # OVER THE PAGE (its Gloss tail *ut, repulso fastidio* opens p. 371's left block unnumbered).
+             # Gutter 1290 (band 1260-1320).
+    371: 13, # bon-luc-c14-v16-24 (paras 38 tail-41). Anchors L 1-7 / R 8-13. Blocks L [p.370 n.13 tail] 1-8 /
+             # R 9-13. No runover of its own. Gutter 1153 (band 1124-1182).
+    372: 12, # bon-luc-c14-v16-24 (paras 41 tail-43). Anchors L 1-6 / R 7-12. Blocks L 1-5 / R 5-12: n.5 RUNS
+             # OVER THE GUTTER (L -> R: *ho-|mil. 36. n. 4*). Gutter 1286 (band 1256-1317).
+    373: 12, # bon-luc-c14-v16-24 (paras 43 tail-46). Anchors L 1-7 / R 8-12. Blocks L 1-9 / R 9-12: n.9 RUNS
+             # OVER THE GUTTER (L -> R: *Gregor., II. | Homil.*). Gutter 1164 (band 1134-1194).
+    374: 11, # bon-luc-c14-v16-24 (paras 46 tail-50). Anchors L 1-4 / R 5-11. Blocks L 1-6 / R 7-11. No runover.
+             # Gutter 1290 (band 1259-1321).
+    375: 14, # SHARED. nn.1-2 bon-luc-c14-v16-24 (para 50 tail, 375L to ~0.24): anchors L 1-2. nn.3-14
+             # bon-luc-c14-v25-35 (from para 51, *comitantes*3) (PENDING). Blocks L 1-7 / R 8-14.
+             # Gutter 1167 (band 1139-1197).
 }
 
 KNOWN_TOTALS_BY_VOL = {
