@@ -6300,6 +6300,24 @@ KNOWN_TOTALS_VOL7 = {
              # (para 42 *Erat autem filius eius etc.*, 398R ~0.38: n.12 *Cfr. supra n. 33.* at *obedientis*12,
              # n.13 *Vers. 28.* at *ibi*13, n.14 *Vers. 8. et 9. -- Hieron., Epist. 21 ... n. 28* at
              # *Sapientiae quarto*14). Blocks L 1-6 / R 6-14. Gutter 1308 / 1308.
+             # COMPLETE at bon-luc-c15-v25-32 (para 42-43): nn.12-14 anchor and print in 398R. Gutter
+             # below para 41 re-profiled (0.38-0.95): 1307.
+    399: 15, # bon-luc-c15-v25-32 (paras 43 tail-46). Anchors L 1-6 / R 7-15 = blocks. No runover.
+             # Gutter 1161 (0.10-0.50) / 1159 (0.50-0.95).
+    400: 12, # bon-luc-c15-v25-32 (paras 46 tail-49). Anchors L 1-5 / R 6-12. Blocks L 1-6 / R 7-12
+             # (n.6 anchors right, prints left). n.12 RUNS OVER THE PAGE: *... Vat. omittit et, quod
+             # explicatur, quia | infra sequuntur aliae duae rationes ...* completes at the head of
+             # 401's LEFT footer block, above 401 n.1. Gutter 1288 / 1291.
+    401: 14, # bon-luc-c15-v25-32 (paras 49 tail-51). Anchors L 1-7 / R 8-14. Blocks L (p.400 n.12's
+             # tail) 1-6 / R 6-14: n.6 RUNS OVER THE GUTTER (L -> R: *... in cuius | fine pro provocavi*).
+             # Gutter 1141 / 1145.
+    402: 10, # SHARED (CAPITULUM XVI. full measure at ~0.46). nn.1-7 bon-luc-c15-v25-32 (paras 51 tail-52;
+             # anchors L 1-2 / R 3-7; para 52 closes ~0.43 across the top of 402R on *et patri de filio
+             # reinvento.*). nn.8-10 PENDING for bon-luc-c16-v1-8 (Cap. XVI para 1: n.8 *Cfr. supra c. 15.
+             # n. 1.* at *pietatis humanae*8 402L, n.9 *Vers. 1.* at *infra decimo septimo*9 402L, n.10
+             # *Vers. 9; tertia pars incipit v. 19. -- Superius C D II omittunt parabolicum (F parabolice).*
+             # at *ibi*10 402R). Blocks L 1-4 / R 5-10 (nn.3-4 anchor right, print left). No runover.
+             # Gutter 1346 (upper body 0.08-0.44) / 1360 (Cap. XVI region + register 0.66-0.95).
 }
 
 KNOWN_TOTALS_BY_VOL = {
