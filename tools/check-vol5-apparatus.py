@@ -6234,8 +6234,24 @@ KNOWN_TOTALS_VOL7 = {
     374: 11, # bon-luc-c14-v16-24 (paras 46 tail-50). Anchors L 1-4 / R 5-11. Blocks L 1-6 / R 7-11. No runover.
              # Gutter 1290 (band 1259-1321).
     375: 14, # SHARED. nn.1-2 bon-luc-c14-v16-24 (para 50 tail, 375L to ~0.24): anchors L 1-2. nn.3-14
-             # bon-luc-c14-v25-35 (from para 51, *comitantes*3) (PENDING). Blocks L 1-7 / R 8-14.
-             # Gutter 1167 (band 1139-1197).
+             # bon-luc-c14-v25-35 (paras 51-53, from *comitantes*3): anchors L 3-8 / R 9-14. Blocks L 1-7 /
+             # R 8-14. No runover. Gutter 1167 (band 1139-1197).
+    376: 16, # bon-luc-c14-v25-35 (paras 53 tail-56). Anchors L 1-9 / R 10-16. Blocks L 1-5 / R 6-16. No runover.
+             # Gutter 1283 (band 1253-1313).
+    377: 14, # bon-luc-c14-v25-35 (paras 56 tail-58). Anchors L 1-7 / R 8-14. Blocks L 1-7 / R 7-14: n.7 RUNS
+             # OVER THE GUTTER (L -> R: *excidit septem | columnas*). Gutter 1147 (band 1118-1177).
+    378: 15, # bon-luc-c14-v25-35 (paras 59-61). Anchors L 1-7 / R 8-15. Blocks L 1-6 / R 7-15. n.15's footer
+             # numeral is a single faint tick (not legible as 15 at 4x); n.15 by sequence and content
+             # (*Vers. 12.* = Eph. 6:12). No runover. Gutter 1277 (band 1247-1308).
+    379: 11, # bon-luc-c14-v25-35 (paras 61 tail-64). Anchors L 1-6 / R 7-11. Blocks L 1-7 / R 7-11: n.7 RUNS
+             # OVER THE GUTTER (L -> R: *Gregor., II. Ho-|mil.*). Gutter 1137 (band 1108-1166).
+    380: 15, # bon-luc-c14-v25-35 (paras 64 tail-67). Anchors L 1-7 / R 8-15. Blocks L 1-8 / R 9-15. No runover.
+             # Gutter 1317 (band 1289-1346).
+    381: 13, # SHARED -- THE p.381 GATE. nn.1-11 bon-luc-c14-v25-35 (paras 67 tail-69, Cap. XIV closes ~0.52 of
+             # 381R): anchors L 1-6 / R 7-11. nn.12-13 belong to Cap. XV para 1 (the next interval's first
+             # chunk; PENDING): n.12 *Cfr. supra c. 11. n. 36.* at *pietatis*12 (L), n.13 *Vers. 3; tertia pars
+             # incipit c. 16, 1.* at *ibi*13 (R). Blocks L 1-6 / R 7-13. No runover. Gutter 1162 (upper body;
+             # band 1143-1179, narrowed by the full-measure CAPITULUM XV. in the window -- re-profile below it).
 }
 
 KNOWN_TOTALS_BY_VOL = {
