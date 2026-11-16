@@ -6013,6 +6013,25 @@ KNOWN_TOTALS_VOL7 = {
              # blasphemorum.*). Anchors L 1-5 / R 6-13; blocks L 1-8 / R (8 tail) 9-13 (n.8 runs over the gutter;
              # the p. 300 Corrigenda *suam* -> *suum* stands in its tail); read at 0.3-1.3x for the hand-off only.
              # Gutter 1312 (band 1285-1340, rule 1307-1317).
+             # Re-derived by bon-luc-c11-v33-41 at 0.85-1.15x: nn.2-13 its own, true in anchor (L 2-5 at
+             # *simulatorum*2, *ibi*3, *modio*4, *vigesimo*5; R 6-13), wording and digit (n.2 *n. 36*, n.3 *Vers.
+             # 37 ... n. 77. et 78.*). Blocks L 1-8 / R (8 tail) 9-13 confirmed; n.8 RUNS OVER THE GUTTER
+             # (*... gressus hominis ad am- | bulandum.* across the blocks: the tail opens the R block at *praefixit
+             # unde*). Corrigenda p.858 *suam* -> *suum* applied in n.8 (col. 2 notes l.5). Gutter 1312 re-profiled.
+    301: 10, # bon-luc-c11-v33-41 (paras 72 tail-76). Anchors L 1-6 / R 7-10 (n.6 *decimo quarto*6 anchors LEFT,
+             # prints RIGHT). Blocks L 1-5 / R 6-10. No runover. Gutter 1171 (band 1142-1200, rule 1167-1176).
+    302: 12, # bon-luc-c11-v33-41 (paras 76 tail-79). Anchors L 1-7 / R 8-12. Blocks L 1-8 / R (8 tail) 9-12 (n.6
+             # *Vers. 42.* set at the right of n.5's line). n.8 RUNS OVER THE GUTTER (*An ut te... | et omnes in te
+             # humanae naturae*). Gutter 1268 (band 1240-1296, rule 1263-1272).
+    303: 12, # bon-luc-c11-v33-41 (paras 79 tail-82). Anchors L 1-6 / R 7-12. Blocks L 1-6 / R (6 tail) 7-12. n.6
+             # RUNS OVER THE GUTTER (*Qui, inquit, utramque hominis | naturam fecit*). Gutter 1187 (band 1159-1215,
+             # rows 0.2-0.6; the 0.1-0.75 window catches text).
+    304: 14, # SHARED. nn.1-12 bon-luc-c11-v33-41 (paras 82 tail-84, closing ~0.41 of 304R on *ac per hoc est Deo
+             # accepta et placens.*). nn.13-14 PENDING for bon-luc-c11-v42-54 (para 85 *Sed vae vobis Pharisaeis
+             # etc.*, no heading, opens below para 84 on 304R): n.13 at *Matthaei vigesimo tertio*13: *Vers. 13.
+             # seqq.; cfr. supra pag. 295, nota 10.*; n.14 at *ibi*14: *Vers. 45.* Anchors L 1-8 / R 9-14 (nn.7-8
+             # anchor LEFT, print RIGHT); blocks L 1-6 / R 7-14. No runover. Read at 1.15-1.5x for the hand-off
+             # only. Gutter 1261 (band 1233-1289, rule 1257-1266).
 }
 
 KNOWN_TOTALS_BY_VOL = {
