@@ -6146,9 +6146,19 @@ KNOWN_TOTALS_VOL7 = {
              # n.8 RUNS OVER THE GUTTER (L -> R: *c. 1. n. 1: Arbor ficulnea*). Gutter 1292 (band 1262-1322,
              # rule 1290-1294).
     341: 14, # SHARED. nn.1-12 bon-luc-c13-v1-9 (paras 18 tail-20, closing at ~0.38 of 341R on Apoc. 22:2
-             # *... ad sanitatem gentium ».*). nn.13-14 PENDING for bon-luc-c13-v10-17 (the 341R t4 stack and
-             # para 21; n.13 *Supra c. 11. n. 36*). Anchors L 1-9 / R 10-12 (ours). Blocks L 1-7 / R 8-14.
-             # Gutter 1151 (band 1121-1182, rule 1148-1154).
+             # *... ad sanitatem gentium ».*). nn.13-14 bon-luc-c13-v10-17 (the 341R t4 stack and para 21;
+             # n.13 anchors *circumstantiae temporis*, n.14 *decimo quarto capitulo*). Anchors L 1-9 / R 10-14.
+             # Blocks L 1-7 / R 8-14. No runover. Gutter 1151 (band 1121-1182, rule 1148-1154).
+    342: 12, # bon-luc-c13-v10-17 (para 21's subdivisio tail-24). Anchors L 1-6 / R 7-12. Blocks L 1-8 /
+             # R 9-12. No runover. Gutter 1315 (band 1285-1345, rule 1312-1319).
+    343: 15, # bon-luc-c13-v10-17 (paras 25-29). Anchors L 1-8 / R 9-15. Blocks L 1-8 / R 9-15. No runover.
+             # Gutter 1164 (rows 0.30-0.55: band 1135-1193, rule 1159-1169; 0.20-0.60 read WIDE).
+             # Corrigenda col.2 l.7 *similiter* -> *simul* (tr-corrigenda).
+    344: 16, # bon-luc-c13-v10-17 (paras 29 tail-32). Anchors L 1-8 / R 9-16. Blocks L 1-7 / R 8-16.
+             # No runover. Gutter 1299 (band 1269-1330, rule 1297-1303).
+    345: 15, # bon-luc-c13-v10-17 (paras 32 tail-35). Anchors L 1-8 / R 9-15. Blocks L 1-10 (then the
+             # signature *S. Bonav. -- Tom. VII.*) / R 11-15. No runover. Gutter 1160 (band 1131-1191,
+             # rule 1157-1164). p.346 (para 35's close, ~0.19 of 346L) carries no anchor of ours.
 }
 
 KNOWN_TOTALS_BY_VOL = {
