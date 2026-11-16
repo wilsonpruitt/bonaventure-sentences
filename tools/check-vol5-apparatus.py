@@ -6318,6 +6318,24 @@ KNOWN_TOTALS_VOL7 = {
              # *Vers. 9; tertia pars incipit v. 19. -- Superius C D II omittunt parabolicum (F parabolice).*
              # at *ibi*10 402R). Blocks L 1-4 / R 5-10 (nn.3-4 anchor right, print left). No runover.
              # Gutter 1346 (upper body 0.08-0.44) / 1360 (Cap. XVI region + register 0.66-0.95).
+             # COMPLETE at bon-luc-c16-v1-8: nn.8-10 re-derived on the plate (n.10's codex H printed `II`).
+             # Cap. XVI region gutter re-profiled 1357 (0.50-0.62) / 1360 (0.66-0.95).
+    403: 13, # bon-luc-c16-v1-8 (para 1 tail-3). Anchors L 1-8 / R 9-13 = blocks. No runover.
+             # Gutter 1159 (0.10-0.50) / 1161 (0.50-0.95).
+    404: 12, # bon-luc-c16-v1-8 (paras 3 tail-4). Anchors L 1-5 / R 6-12; blocks L 1-7 / R 8-12
+             # (nn.6-7 anchor right, print left). No runover. Codex H printed `II` at nn.1, 12.
+             # Gutter 1311 / 1315.
+    405: 13, # bon-luc-c16-v1-8 (paras 4 tail-7). Anchors L 1-7 / R 8-13; blocks L 1-6 / R 7-13
+             # (n.7 anchors left, prints right). No runover. n.10 *supra pag. 403, nota 20* (p.403 has
+             # 13 notes; the locus is p.403 n.10) printed slip. Gutter 1170 / 1165.
+    406: 12, # bon-luc-c16-v1-8 (paras 7 tail-10). Anchors L 1-7 / R 8-12; blocks L 1-7 head / R 7
+             # tail 8-12: n.7 RUNS OVER THE GUTTER (*... Sequitur Gal. | 6, 2. -- Glossa interlinearis*).
+             # Gutter 1298 / 1296.
+    407: 12, # SHARED (t4 *Documentum pietatis perfectae quoad duo.* at ~0.33 of 407R over para 13).
+             # nn.1-9 bon-luc-c16-v1-8 (paras 10 tail-12; anchors L 1-6 / R 7-9). nn.10-12 PENDING for
+             # bon-luc-c16-v9-18 (para 13: n.10 *Cfr. supra n. 1.*, n.11 *Vers. 14.*, n.12 *Vers. 10;
+             # tertium habetur v. 13 ...*, all anchor 407R). Blocks L 1-7 head / R 7 tail 8-12: n.7 RUNS
+             # OVER THE GUTTER (*... Unde quia nullum vitium tan- | tum est, ut deleat*). Gutter 1155 / 1154.
 }
 
 KNOWN_TOTALS_BY_VOL = {

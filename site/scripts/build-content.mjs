@@ -1207,6 +1207,16 @@ const WORKS = {
       // tripliciter.`, the title_la (ruling 22). The running head of p. 381 already reads
       // C. XV. above Cap. XIV's close.
       15: "Capitulum XV",
+      // `CAPITULUM XVI.` read in place on p. 402 at bon-luc-c16-v1-8: full-measure
+      // centred small capitals at ~0.46 of the leaf, below Cap. XV's last para 52
+      // (…et patri de filio reinvento.), no subtitle, unanchored. Below it in 402L the
+      // t4 `Commendatio et persuasio pietatis humanae describitur per documenta et
+      // exempla parabolica quoad duo.` over para 1, which runs on across two 402R t4s
+      // (`Primo, de pietate humana quoad opera corporalia tripliciter.` and, below the
+      // un-numbered subdivisio, `Exemplum parabolicum pietatis providae.`, the title_la:
+      // ruling 22, the c12-v1-7 shape). The running head of p. 402 already reads
+      // C. XVI. above Cap. XV's close.
+      16: "Capitulum XVI",
     },
   },
 };
