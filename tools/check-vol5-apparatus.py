@@ -6115,9 +6115,24 @@ KNOWN_TOTALS_VOL7 = {
     329: 15, # bon-luc-c12-v35-48 (paras 65 tail-68). Anchors L 1-7 / R 8-15. Blocks L 1-10 (n.9 run in on
              # n.8's line) / R 11-15. No runover. Gutter 1146 (band 1115-1177). Signature under the L block.
     330: 13, # SHARED. nn.1-8 bon-luc-c12-v35-48 (paras 68 tail-69, closing at ~0.22 of 330R on Ezech. 34:10).
-             # nn.9-13 PENDING for bon-luc-c12-v49-59 (330R t4 *Secundo invitatur ad vigilantiam consideratione
-             # primi adventus.*; para 70 on; n.9 *Vers. 54.* anchors para 70's *ibi*). Anchors L 1-7 / R 8 | R 9-13.
+             # nn.9-13 bon-luc-c12-v49-59 (330R t4 *Secundo invitatur ad vigilantiam consideratione primi
+             # adventus.*; para 70 on; n.9 *Vers. 54.* anchors para 70's *ibi*). Anchors L 1-7 / R 8 | R 9-13.
              # Blocks L 1-5 / R 6-13. No runover. Gutter 1294 (band 1264-1325, rule 1292-1297).
+    331: 18, # bon-luc-c12-v49-59 (paras 70 tail-72). Anchors L 1-8 / R 9-18. Blocks L 1-11 (n.10 run in on
+             # n.9's line) / R 12-18. No runover. Gutter 1180 (band 1151-1210, rule 1178-1185).
+    332: 16, # bon-luc-c12-v49-59 (paras 72 tail-77). Anchors L 1-10 / R 11-16. Blocks L 1-7 / R 8-16.
+             # No runover. Gutter 1294 (band 1266-1322, rule 1289-1301).
+    333: 12, # bon-luc-c12-v49-59 (paras 77 tail-81). Anchors L 1-6 / R 7-12. Blocks L 1-4 / R 5-12. No runover.
+             # Gutter 1146 (rows 0.30-0.55: band 1116-1177, rule 1143-1150; 0.20-0.60 read WIDE).
+             # Corrigenda col.2 ll.15 and 17 *exterioris iudicii* -> *indicii* (tr-corrigenda).
+    334: 14, # bon-luc-c12-v49-59 (paras 81 tail-84). Anchors L 1-7 / R 8-14. Blocks L 1-5 / R 6-14. No runover.
+             # Gutter 1328 (band 1299-1357, rule 1324-1332).
+    335: 15, # bon-luc-c12-v49-59 (paras 84 tail-88). Anchors L 1-6 / R 7-15. Blocks L 1-8 (n.5 run in on
+             # n.4's last line) / R 9-15. No runover. Gutter 1137 (band 1108-1167, rule 1134-1140).
+    336:  9, # SHARED. n.1 bon-luc-c12-v49-59 (para 88's unnumbered close across the top of the page, above
+             # CAPITULUM XIII.; anchor 336L *ad Hebraeos secundo*). nn.2-9 PENDING for bon-luc-c13-v1-9
+             # (para 1 under CAPITULUM XIII. on; n.2 anchors *quidam in*). n.5 RUNS OVER THE GUTTER (L -> R:
+             # *quos in fuga ceperant*). Gutter 1293 (band 1263-1324, rule 1290-1295).
 }
 
 KNOWN_TOTALS_BY_VOL = {
