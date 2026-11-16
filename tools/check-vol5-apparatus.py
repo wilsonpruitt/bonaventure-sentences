@@ -6356,11 +6356,22 @@ KNOWN_TOTALS_VOL7 = {
              # tail 9-16: n.8 RUNS OVER THE GUTTER (*... (ita etiam August., Serm. | 279. alias 24.*);
              # nn.9-10 anchor left, print right. Gutter 1290.
     415: 8,  # SHARED (t4 *Exemplum impietatis punitae, de quo tria.* at ~0.23 of 415R over para 35).
-             # nn.1-6 bon-luc-c16-v9-18 (paras 33 tail-34; anchors L 1-5 / R 6). nn.7-8 PENDING for
-             # bon-luc-c16-v19-22 (para 35: n.7 *Num. 1. -- Glossa seq. est ordinaria in Luc. 16, 19 ...*
-             # at *sicut supra*, n.8 *Vers 20 et tertium v. 22.* at *de qua ibi*; both anchor 415R).
-             # Blocks L 1-6 head / R 6 tail 7-8: n.6 RUNS OVER THE GUTTER (*... qui etiam voci | Ait
-             # praefigunt et.*). Gutter 1171 (0.10-0.70) / 1168 (0.30-0.95).
+             # nn.1-6 bon-luc-c16-v9-18 (paras 33 tail-34; anchors L 1-5 / R 6); nn.7-8 bon-luc-c16-v19-22
+             # (para 35: n.7 *Num. 1. -- Glossa seq. est ordinaria in Luc. 16, 19 ...* at *supra*, n.8
+             # *Vers 20 et tertium v. 22.* at *ibi*; both anchor 415R). Blocks L 1-6 head / R 6 tail 7-8:
+             # n.6 RUNS OVER THE GUTTER. Gutter 1171 (0.10-0.70) / 1169 below the t4 (0.25-0.95). COMPLETE.
+    416: 15, # bon-luc-c16-v19-22 (paras 35 tail-39). Anchors L 1-6 / R 7-15; blocks L 1-7 / R 8-15 (n.7
+             # anchors right, prints left). No runover. Gutter 1296 (56 px band, 13 px centre-rule island).
+    417: 13, # bon-luc-c16-v19-22 (paras 39 tail-42; Lucan couplet 417L). Anchors L 1-6 / R 7-13; blocks
+             # L 1-9 / R 10-13 (nn.7-9 anchor right, print left). No runover. Gutter 1157.
+    418: 14, # bon-luc-c16-v19-22 (paras 42 tail-44). Anchors L 1-6 / R 7-14; blocks L 1-9 head / R 9
+             # tail 10-14: n.9 RUNS OVER THE GUTTER (*... sententiam af- | fert; loc. cit. n. 2.*).
+             # Gutter 1310.
+    419: 13, # SHARED (para 46 *Mortuus est autem et dives etc.* opens ~0.60 of 419L, no heading).
+             # nn.1-6 bon-luc-c16-v19-22 (paras 44 tail-45; all anchor 419L). nn.7-13 PENDING for
+             # bon-luc-c16-v22-31 (n.7 *Cfr. supra n. 45.* at para 46's *poenam* in 419L; nn.8-13 419R).
+             # Blocks L 1-5 head / R 5 tail 6-13: n.5 RUNS OVER THE GUTTER (*... et definitio usque |
+             # ad labium ...*). Gutter 1176 (0.10-0.70) / 1177 (0.30-0.95).
 }
 
 KNOWN_TOTALS_BY_VOL = {
