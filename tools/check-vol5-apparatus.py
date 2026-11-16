@@ -6171,6 +6171,20 @@ KNOWN_TOTALS_VOL7 = {
     349: 14, # bon-luc-c13-v18-21 (paras 45 tail-47). Anchors L 1-6 / R 7-14. Blocks L (p.348 n.11's tail)
              # 1-5 / R 6-14. Gutter 1146 (band 1116-1177, rule 1143-1149). p.350 (para 47's close, ~0.10 of
              # 350L on Ps. 72:26, covered by n.14) carries no anchor of ours.
+    350: 14, # bon-luc-c13-v22-30 (paras 48-53; all of p.350's notes, from para 48's *Supra*1; para 47's
+             # close at the head of 350L carries none). Anchors L 1-7 / R 8-14. Blocks L 1-8 / R 9-14.
+             # No runover. Gutter 1289 (band 1259-1320, rule 1287-1293).
+    351: 12, # bon-luc-c13-v22-30 (paras 53 tail-56). Anchors L 1-6 / R 7-12. Blocks L 1-7 / R 7-12: n.7
+             # RUNS OVER THE GUTTER (L -> R: *et supra n. 48. | (ubi principalis divisio ...*). n.12 ends
+             # without a point (*Hebr. 12, 17*), as printed. Gutter 1147 (band 1117-1177, rule 1145-1150).
+    352: 13, # bon-luc-c13-v22-30 (paras 56 tail-59). Anchors L 1-7 / R 8-13. Blocks L 1-7 / R 8-13.
+             # No runover. Gutter 1297 (band 1266-1328, rule 1295-1299).
+    353: 12, # bon-luc-c13-v22-30 (paras 59 tail-62). Anchors L 1-6 / R 7-12. Blocks L 1-6 (then the
+             # signature *S. Bonav. -- Tom. VII.*) / R 6-12: n.6 RUNS OVER THE GUTTER (L -> R: *repromissio
+             # de | Filii Dei incarnatione*). Gutter 1153 (band 1124-1183, rule 1150-1158).
+    354: 15, # SHARED. nn.1-6 bon-luc-c13-v22-30 (para 62 tail-63, closing at ~0.58 of 354L on Eccles.
+             # 9:10 *... quo tu properas ».*). nn.7-15 bon-luc-c13-v31-35 (para 64 from *in redimendo*7) --
+             # PENDING. Blocks L 1-8 / R 9-15. Gutter 1312 (band 1284-1340, rule 1307-1317).
 }
 
 KNOWN_TOTALS_BY_VOL = {

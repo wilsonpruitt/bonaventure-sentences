@@ -38721,6 +38721,103 @@ bon-luc-c13-v18-21	7	apparatus:p349-12	p349-12	scripture	apparatus-explicit	Exod
 bon-luc-c13-v18-21	7	apparatus:p349-14	p349-14	scripture	apparatus-explicit	Matth. 6, 22	Matth 6:22	A	verse			
 bon-luc-c13-v18-21	7	apparatus:p349-14	p349-14	scripture	apparatus-explicit	Ps. 72, 26	Ps 72:26	A	verse			
 bon-luc-c13-v18-21	7	apparatus:p349-14	p349-14	crossref	page	supra pag. 300, nota 7	bon-luc-c11-v33-41		chunk			fn-p300-7
+bon-luc-c13-v22-30	7	latin_body		scripture	body-ordinal	Proverbiorum sexto	Prov 6	C	chapter			
+bon-luc-c13-v22-30	7	latin_body	p350-5	scripture	body-ordinal	Matthaei vigesimo	Matth 20:18	B	verse			
+bon-luc-c13-v22-30	7	latin_body		scripture	body-ordinal	Petri secundo	1Petr 2	C	chapter			
+bon-luc-c13-v22-30	7	latin_body	p350-6	scripture	body-ordinal	Iacobi quinto	Iac 5:10	B	verse			
+bon-luc-c13-v22-30	7	latin_body		scripture	body-ordinal	Actuum decimo quarto	Act 14	C	chapter			
+bon-luc-c13-v22-30	7	latin_body	p350-10	scripture	body-ordinal	Matthaei vigesimo	Matth 20:16	B	verse			
+bon-luc-c13-v22-30	7	latin_body		scripture	body-ordinal	Michaeae septimo	Mich 7	C	chapter			
+bon-luc-c13-v22-30	7	latin_body		scripture	body-ordinal	Matthaei septimo	Matth 7	C	chapter			
+bon-luc-c13-v22-30	7	latin_body	p350-12	scripture	body-ordinal	Ioannis decimo	Ioan 10:9	B	verse			
+bon-luc-c13-v22-30	7	latin_body		scripture	body-ordinal	Ioannis decimo quarto	Ioan 14	C	chapter			
+bon-luc-c13-v22-30	7	latin_body		scripture	body-ordinal	Matthaei decimo nono	Matth 19	C	chapter			
+bon-luc-c13-v22-30	7	latin_body	p351-1	scripture	body-ordinal	Proverbiorum decimo tertio	Prov 13:4	B	verse			
+bon-luc-c13-v22-30	7	latin_body	p351-2	scripture	body-ordinal	Osee quinto	Osee 5:6	B	verse			
+bon-luc-c13-v22-30	7	latin_body		scripture	body-ordinal	Matthaei sexto	Matth 6	C	chapter			
+bon-luc-c13-v22-30	7	latin_body		scripture	body-ordinal	Regum decimo octavo	3Reg 18	C	chapter			
+bon-luc-c13-v22-30	7	latin_body	p351-3	scripture	body-ordinal	Matthaei undecimo	Matth 11:12	B	verse			
+bon-luc-c13-v22-30	7	latin_body	p351-4	scripture	anaphor->body-ordinal	ibid	Matth 11:12	B	verse	yes	Matthaei undecimo	
+bon-luc-c13-v22-30	7	latin_body	p351-6	scripture	body-ordinal	Proverbiorum quarto	Prov 4:18	B	verse			
+bon-luc-c13-v22-30	7	latin_body	p351-8	scripture	body-ordinal	Matthaei vigesimo quinto	Matth 25:10	B	verse			
+bon-luc-c13-v22-30	7	latin_body	p351-9	scripture	body-ordinal	Matthaei vigesimo	Matth 20:1	B	verse			
+bon-luc-c13-v22-30	7	latin_body		scripture	body-ordinal	Iob primo	Iob 1	C	chapter			
+bon-luc-c13-v22-30	7	latin_body	p351-10	scripture	body-ordinal	Deuteronomii undecimo	Deut 11:16	B	verse			
+bon-luc-c13-v22-30	7	latin_body	p351-11	scripture	body-ordinal	Ezechielis quadragesimo sexto	Ezech 46:2	B	verse			
+bon-luc-c13-v22-30	7	latin_body		scripture	body-ordinal	Sapientiae quinto	Sap 5	C	chapter			
+bon-luc-c13-v22-30	7	latin_body		scripture	body-ordinal	ad Hebraeos duodecimo	Hebr 12	C	chapter			
+bon-luc-c13-v22-30	7	latin_body	p352-1	scripture	body-ordinal	Matthaei vigesimo quinto	Matth 25:11	B	verse			
+bon-luc-c13-v22-30	7	latin_body	p352-2	scripture	body-ordinal	Proverbiorum primo	Prov 1:28	B	verse			
+bon-luc-c13-v22-30	7	latin_body	p352-3	scripture	body-ordinal	Iob duodecimo	Iob 12:16	B	verse			
+bon-luc-c13-v22-30	7	latin_body	p352-4	scripture	body-ordinal	ad Timotheum secundo	2Tim 2:19	B	verse			
+bon-luc-c13-v22-30	7	latin_body		scripture	body-ordinal	Iob octavo	Iob 8	C	chapter			
+bon-luc-c13-v22-30	7	latin_body	p352-5	scripture	body-ordinal	Ioannis sexto	Ioan 6:11	B	verse			
+bon-luc-c13-v22-30	7	latin_body		scripture	body-ordinal	Ioannis secundo	Ioan 2	C	chapter			
+bon-luc-c13-v22-30	7	latin_body		scripture	body-ordinal	Matthaei undecimo	Matth 11	C	chapter			
+bon-luc-c13-v22-30	7	latin_body	p352-6	scripture	body-ordinal	ad Titum primo	Tit 1:16	B	verse			
+bon-luc-c13-v22-30	7	latin_body	p352-9	scripture	body-ordinal	Habacuc primo	Habac 1:13	B	verse			
+bon-luc-c13-v22-30	7	latin_body		scripture	body-ordinal	ad Corinthios sexto	2Cor 6	C	chapter			
+bon-luc-c13-v22-30	7	latin_body	p352-12	scripture	body-ordinal	ad Romanos secundo	Rom 2:13	B	verse			
+bon-luc-c13-v22-30	7	latin_body	p353-1	scripture	body-ordinal	Iob vigesimo quarto	Iob 24:19	B	verse			
+bon-luc-c13-v22-30	7	latin_body	p353-2	scripture	body-ordinal	Sapientiae undecimo	Sap 11:17	B	verse			
+bon-luc-c13-v22-30	7	latin_body	p353-5	scripture	body-ordinal	Ioannis octavo	Ioan 8:39	B	verse			
+bon-luc-c13-v22-30	7	latin_body		scripture	body-ordinal	Petri primo	2Petr 1	C	chapter			
+bon-luc-c13-v22-30	7	latin_body	p353-7	scripture	body-ordinal	Apocalypsis ultimo	Apoc 22:15	B	verse			
+bon-luc-c13-v22-30	7	latin_body		scripture	body-ordinal	Genesis vigesimo primo	Gen 21	C	chapter			
+bon-luc-c13-v22-30	7	latin_body		scripture	body-ordinal	Ioannis octavo	Ioan 8	C	chapter			
+bon-luc-c13-v22-30	7	latin_body	p353-9	scripture	body-ordinal	Ioannis decimo	Ioan 10:16	B	verse			
+bon-luc-c13-v22-30	7	latin_body		scripture	body-ordinal	Isaiae quadragesimo tertio	Isai 43	C	chapter			
+bon-luc-c13-v22-30	7	latin_body	p353-10	scripture	body-ordinal	Isaiae vigesimo quinto	Isai 25:6	B	verse			
+bon-luc-c13-v22-30	7	latin_body	p354-1	scripture	body-ordinal	ad Romanos undecimo	Rom 11:25	B	verse			
+bon-luc-c13-v22-30	7	latin_body		scripture	body-ordinal	ad Corinthios decimo	1Cor 10	C	chapter			
+bon-luc-c13-v22-30	7	latin_body		scripture	body-ordinal	Petri quarto	1Petr 4	C	chapter			
+bon-luc-c13-v22-30	7	latin_body	p354-4	scripture	body-ordinal	Proverbiorum vigesimo octavo	Prov 28:9	B	verse			
+bon-luc-c13-v22-30	7	latin_body		scripture	body-ordinal	Iob quadragesimo primo	Iob 41	C	chapter			
+bon-luc-c13-v22-30	7	latin_body	p354-5	scripture	body-ordinal	Apocalypsis vigesimo	Apoc 20:15	B	verse			
+bon-luc-c13-v22-30	7	latin_body		scripture	body-ordinal	Matthaei vigesimo secundo	Matth 22	C	chapter			
+bon-luc-c13-v22-30	7	latin_body	p354-6	scripture	body-ordinal	Ecclesiastae nono	Eccle 9:10	B	verse			
+bon-luc-c13-v22-30	7	apparatus:p350-4	p350-4	scripture	apparatus-explicit	Psalm. 87, 16	Ps 87:16	A	verse			
+bon-luc-c13-v22-30	7	apparatus:p350-4	p350-4	scripture	apparatus-explicit	Prov. 6, 3	Prov 6:3	A	verse			
+bon-luc-c13-v22-30	7	apparatus:p350-7	p350-7	scripture	apparatus-explicit	Act. 14, 21	Act 14:21	A	verse			
+bon-luc-c13-v22-30	7	apparatus:p350-8	p350-8	scripture	apparatus-explicit	Psalm. 121, 3	Ps 121:3	A	verse			
+bon-luc-c13-v22-30	7	apparatus:p350-8	p350-8	crossref	page	supra pag. 42, nota 6	bon-luc-c1-v67-80		chunk			fn-p42-6
+bon-luc-c13-v22-30	7	apparatus:p350-9	p350-9	scripture	apparatus-explicit	Psalm. 118, 66	Ps 118:66	A	verse			
+bon-luc-c13-v22-30	7	apparatus:p350-10	p350-10	scripture	apparatus-explicit	Mich. 7, 1	Mich 7:1	A	verse			
+bon-luc-c13-v22-30	7	apparatus:p350-11	p350-11	scripture	apparatus-explicit	Matth. 7, 14	Matth 7:14	A	verse			
+bon-luc-c13-v22-30	7	apparatus:p350-13	p350-13	scripture	apparatus-explicit	Matth. 19, 24	Matth 19:24	A	verse			
+bon-luc-c13-v22-30	7	apparatus:p351-2	p351-2	scripture	apparatus-explicit	Matth. 6, 24	Matth 6:24	A	verse			
+bon-luc-c13-v22-30	7	apparatus:p351-2	p351-2	scripture	apparatus-explicit	III. Reg. 18, 21	3Reg 18:21	A	verse			
+bon-luc-c13-v22-30	7	apparatus:p351-5	p351-5	scripture	apparatus-explicit	Psalm. 16, 4	Ps 16:4	A	verse			
+bon-luc-c13-v22-30	7	apparatus:p351-5	p351-5	scripture	apparatus-explicit	Ps. 118, 32	Ps 118:32	A	verse			
+bon-luc-c13-v22-30	7	apparatus:p351-9	p351-9	scripture	apparatus-explicit	Iob 1, 3	Iob 1:3	A	verse			
+bon-luc-c13-v22-30	7	apparatus:p351-12	p351-12	scripture	apparatus-explicit	Sap. 5, 2	Sap 5:2	A	verse			
+bon-luc-c13-v22-30	7	apparatus:p351-12	p351-12	scripture	apparatus-explicit	Hebr. 12, 17	Hebr 12:17	A	verse			
+bon-luc-c13-v22-30	7	apparatus:p352-2	p352-2	scripture	apparatus-explicit	Prov. 6, 34	Prov 6:34	A	verse			
+bon-luc-c13-v22-30	7	apparatus:p352-3	p352-3	scripture	apparatus-explicit	Ps. 138, 16	Ps 138:16	A	verse			
+bon-luc-c13-v22-30	7	apparatus:p352-4	p352-4	scripture	apparatus-explicit	Iob 8, 18	Iob 8:18	A	verse			
+bon-luc-c13-v22-30	7	apparatus:p352-4	p352-4	scripture	apparatus-explicit	Luc. 13, 27	Luc 13:27	A	verse			
+bon-luc-c13-v22-30	7	apparatus:p352-4	p352-4	scripture	apparatus-explicit	Cor. 8	1Cor 8	C	chapter			
+bon-luc-c13-v22-30	7	apparatus:p352-5	p352-5	scripture	apparatus-explicit	Matth. 11, 21	Matth 11:21	A	verse			
+bon-luc-c13-v22-30	7	apparatus:p352-8	p352-8	scripture	apparatus-explicit	Psalm. 38, 7	Ps 38:7	A	verse			
+bon-luc-c13-v22-30	7	apparatus:p352-10	p352-10	scripture	apparatus-explicit	Psalm. 6, 9	Ps 6:9	A	verse			
+bon-luc-c13-v22-30	7	apparatus:p352-10	p352-10	scripture	apparatus-explicit	II. Cor. 6, 14	2Cor 6:14	A	verse			
+bon-luc-c13-v22-30	7	apparatus:p352-11	p352-11	scripture	apparatus-explicit	Matth. 25	Matth 25	C	chapter			
+bon-luc-c13-v22-30	7	apparatus:p352-12	p352-12	scripture	apparatus-explicit	Ps. 61, 12	Ps 61:12	A	verse			
+bon-luc-c13-v22-30	7	apparatus:p353-2	p353-2	scripture	apparatus-explicit	I. Ioan. 2, 16	1Ioan 2:16	A	verse			
+bon-luc-c13-v22-30	7	apparatus:p353-5	p353-5	scripture	apparatus-explicit	II. Petr. 1, 19	2Petr 1:19	A	verse			
+bon-luc-c13-v22-30	7	apparatus:p353-6	p353-6	scripture	apparatus-explicit	Gen. 12, 3	Gen 12:3	A	verse			
+bon-luc-c13-v22-30	7	apparatus:p353-6	p353-6	scripture	anaphor->apparatus-explicit	ibid. 26, 4	Gen 26:4	A	verse	yes	Gen. 12, 3	
+bon-luc-c13-v22-30	7	apparatus:p353-6	p353-6	scripture	anaphor->apparatus-explicit	ibid. 28, 14	Gen 28:14	A	verse	yes	ibid. 26, 4	
+bon-luc-c13-v22-30	7	apparatus:p353-7	p353-7	scripture	apparatus-explicit	Gen. 21, 10	Gen 21:10	A	verse			
+bon-luc-c13-v22-30	7	apparatus:p353-7	p353-7	scripture	apparatus-explicit	Ioan. 8, 35	Ioan 8:35	A	verse			
+bon-luc-c13-v22-30	7	apparatus:p353-9	p353-9	scripture	apparatus-explicit	Ps. 85, 9	Ps 85:9	A	verse			
+bon-luc-c13-v22-30	7	apparatus:p353-9	p353-9	scripture	apparatus-explicit	Isai. 43, 5	Isai 43:5	A	verse			
+bon-luc-c13-v22-30	7	apparatus:p353-12	p353-12	scripture	apparatus-explicit	Ps. 137, 6	Ps 137:6	A	verse			
+bon-luc-c13-v22-30	7	apparatus:p354-2	p354-2	scripture	apparatus-explicit	I. Cor. 10, 12	1Cor 10:12	A	verse			
+bon-luc-c13-v22-30	7	apparatus:p354-3	p354-3	scripture	apparatus-explicit	Psalm. 142, 2	Ps 142:2	A	verse			
+bon-luc-c13-v22-30	7	apparatus:p354-3	p354-3	scripture	apparatus-explicit	I. Petr. 4, 18	1Petr 4:18	A	verse			
+bon-luc-c13-v22-30	7	apparatus:p354-4	p354-4	scripture	apparatus-explicit	Iob 41, 3	Iob 41:3	A	verse			
+bon-luc-c13-v22-30	7	apparatus:p354-5	p354-5	scripture	apparatus-explicit	Matth. 22, 13	Matth 22:13	A	verse			
 bon-luc-c2-v1-7	7	latin_body	p44-5	scripture	body-ordinal	Ieremiae vigesimo tertio	Ierem 23:5	B	verse			
 bon-luc-c2-v1-7	7	latin_body	p44-7	scripture	body-ordinal	Danielis secundo	Dan 2:40	B	verse			
 bon-luc-c2-v1-7	7	latin_body		scripture	body-ordinal	Ieremiae vigesimo septimo	Ierem 27	C	chapter			
