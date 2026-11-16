@@ -55,7 +55,7 @@ opening page (plate p. 43: c. 1 ¶ 144 stands above `CAPITULUM II.`). First page
 | Cap. | Pages | Last ¶ (text layer) | | Cap. | Pages | Last ¶ |
 |---|---|---|---|---|---|---|
 | I | 11–43 | 144 (v. 80) | | XIII | 336–358 | ~73–74 |
-| II | 43–69 | **111** (corrected at manifest stage 1: ¶ 111 is an un-versed epilogue, 69R) | | XIV | 358–381 | 68 |
+| II | 43–69 | **111** (corrected at manifest stage 1: ¶ 111 is an un-versed epilogue, 69R) | | XIV | 358–381 | **69** (corrected at manifest stage 4: ¶ 68 is Vers. 35, ¶ 69 closes on 381R; amended in this table at the p. 381 gate, ruling 89) |
 | III | 69–88 | 63 (plate, 87R) | | XV | 381–402 | ~50+ |
 | IV | 88–112 | 98 (v. 44 at ¶ 97) | | XVI | 402–425 | 61 |
 | V | 112–134 | 85 (v. 39) | | XVII | 425–448 | 62 |
@@ -531,7 +531,7 @@ evidence, censuses and alternatives are in the sheet, by § number, and are not 
   | *credulitas* · *incredulitas* | "belief" · "unbelief" (**added by ruling 55**) |
   | *redarguere* | "convict" (beside *arguere* "reprove") (**added by ruling 56**) |
   | *otium* | "leisure" (kept off *vacatio*) (**added by ruling 57**) |
-  | *excessus* | mental / contemplative sense (*mentis, contemplationis, admirationis excessus*, *in excessum*) "transport", the Itinerarium register; measure exceeded "excess" (Vol VI practice; Luke 9:31 at `c9-v28-31` ¶ 54, where Bonaventure reads the word so, `tr-excessus` at the chunk's first site); a death named *excessus vitae* "departure from life" (**added by ruling 67**, p. 288 gate) |
+  | *excessus* | mental / contemplative sense (*mentis, contemplationis, admirationis excessus*, *in excessum*) "transport", the Itinerarium register; measure exceeded "excess" (Vol VI practice; Luke 9:31 at `c9-v28-31` ¶ 54, where Bonaventure reads the word so, `tr-excessus` at the chunk's first site); a death named *excessus vitae* "departure from life" (**added by ruling 67**, p. 288 gate); the adjective *excessivus* follows the noun's sense: mental / contemplative (mystical theology, *excessiva contemplatio*) "transporting" (`c13-v18-21` ¶ 46; Vol V *Sermones*); measure "excessive", including a desire Bonaventure glosses by *nimietas* (`c9-v32-36` ¶ 61) (**added by ruling 81**, p. 381 gate) |
 
   Applied: `c1-v18-25` ¶ 38 *erudimur* "we are taught" → **"we are schooled"** (1 line).
 - **33. `title_la`: every title RATIFIED as built** (sheet § 7). **The sentence title (lemma + dividing words,
@@ -816,3 +816,126 @@ CLAUDE.md's Itinerarium *excessus* line gains a one-clause scope note (Wilson's 
 **Manifest stage 4 (`c478c25`, 19 rows, pp. 288–381) stands as drawn; its 7 `low` rows (three decisions) are settled at
 build time by ruling 39's procedure.** The front is `bon-luc-c11-v14-26` (stage-4 row 1, `low`), opening at ¶ 36 on
 288L; p. 288 nn. 4–11 are its. **The p. 381 gate** (close of c. 14; the *pietas* review) closes the interval.
+
+# *LUCAM* p. 381 GATE — RULINGS 77–92 (Wilson, 2026-11-16; "Approve all")
+
+Binding summary. Every ⭐ recommendation of `manual-review/vol7-lucam-p381-gate-evidence-sheet.md` was taken: D-1..D-7
+as specified (D-2 no edit; D-5 kept as built with the adjective clause; D-6 a tool item), the "Found by the sheet" fixes
+F1–F7 and F13 (the five pre-interval lines included), the records F8–F12, the *pietas* review closed, every batch
+ratified. The passes draft (`manual-review/vol7-lucam-p381-gate-passes-draft.md`) found no defect beyond the sheet's (its
+N-1..N-4 are F3, F4, F5, F10). The evidence, censuses and alternatives are in those two documents, by § and item number,
+and are not repeated. Gate record: `manual-review/vol7-lucam-p381-gate.md`. **42 English lines changed (37 in 13
+interval chunks, 5 in 4 pre-interval chunks; three of the 42 are new `tr-lumen` definitions and one is a `title_en`) +
+Notes records in 19 chunks; no line in any `## Latin` body or `**La.**` half changed; no manifest cell changed.** Ruling
+32's *excessus* row gains the adjective clause (ruling 81). The setup table's Cap. XIV cell is corrected 68 → 69 (ruling
+89). No CLAUDE.md change.
+
+- **77. D-1 and D-4 APPLIED** (sheet § D-1, § D-4). D-1: `c13-v1-9` ¶ 6 *defectus credulitatis* "lack of *credulity*" →
+  **"lack of *belief*"** (ruling 55, work-wide; the one "credulity" in the rendered region of all 82 chunks; 1 line);
+  the Notes' "New here" entry amended in place, struck wording kept; item (85) answered. D-4: `c11-v14-26` ¶ 36's
+  forward reference *Nemo lucernam accendit* "a candle" → **"a lamp"** (a forward reference follows its lemma,
+  `c11-v33-41` ¶¶ 70–71; the ruling-63 precedent; 1 line); its "Kept on the Douay" line amended in place.
+- **78. D-2: NO EDIT** (F8). `c12-v49-59` ¶ 84 Ps. 4:7 *lumen vultus tui* keeps "light": the verse is quoted as a verse
+  and nothing leans (the *mysterio Trinitatis* shakedown test, ruling 27, its unit fixed by ruling 50). The CLAUDE.md
+  line keeping "lumen" at Ps. 4:7 is that test applied to the two Vol V attestations, where the body leans; it decides
+  those two sites and does not exempt the verse elsewhere. Fixing the verse at "lumen" corpus-wide would be a new
+  ruling (and would reopen the four Vol V "light" sites); not made. Item (71) answered in `c12-v49-59`'s Notes.
+- **79. D-3 APPLIED at the two Fathers' sites** (F9). `c12-v8-12` p. 316 n. 2 **En.** Augustine's *veritas lumenque
+  animae rationalis* "the truth and the **lumen**"; `c14-v16-24` p. 373 n. 12 **En.** Gregory's *nullum ingenii lumen*
+  "no **lumen** of wit"; each chunk gains one `tr-lumen` in the `c4-v38-44` form (4 lines). **`c13-v1-9` p. 339 n. 5,
+  Isa. 9:2 *lumen ortum est eis* inside the Gloss, is EXEMPT** (a verse quoted as a verse; the Gloss leans on *umbra
+  mortis*, not on *lumen*; the Rom. 2:19 shape of ruling 50): "light" stands; item (87) answered.
+- **80. F4 APPLIED** (= passes N-2; rulings 32 / 50). `c12-v1-7` ¶ 2 *tenebra per lumen expellitur* "driven out by
+  **lumen**"; ¶ 6 *Lumen enim solis* "the **lumen** of the sun", and the lemma it glosses, Luke 12:3 *in lumine
+  dicentur*, follows: "shall be spoken in the **lumen**" (the Matt. 10:27 shape, `c8-v11-21` ¶ 24); one `tr-lumen` at ¶ 2
+  naming ¶ 6 (3 lines). These were the only *lumen* of Bonaventure's prose rendered "light" in the work. Item 7's Luke
+  12:3 verb ("spoken" for the Douay's "published") is untouched. **With rulings 79–80, item 12 ([18], [57], [99]) is
+  ratified as built**: no *lumen* of Bonaventure's or a Father's prose in the interval stands outside `tr-lumen`'s reach.
+- **81. D-5: *excessivus* KEPT AS BUILT at all four sites** (F10 = passes N-4). `c13-v18-21` ¶ 46 *dilectio excessiva*
+  "transporting dilection" (Dionysian mystical theology: the mental / contemplative sense); `c12-v49-59` ¶ 72
+  *adhaerentiam excessivam* "an excessive adherence" and `c9-v32-36` ¶ 61 + p. 236 n. 7 *excessivum desiderium* "excessive"
+  (the measure sense; ¶ 61 glossed by Bonaventure *prae nimietate desiderii*). **Written into ruling 32's *excessus* row:
+  the adjective *excessivus* follows the noun's sense — mental / contemplative "transporting", measure "excessive".**
+  Recorded: ¶ 72 is the one site where the reading could go either way (the sheet's alternative (b), not taken).
+- **82. D-7 and F2 APPLIED: *eruditio* "erudition", *erudire* "school"** (ruling 17; ruling 32's row). D-7: `c14-v12-15`
+  ¶ 26 *spiritualem eruditionem* "spiritual **erudition**" (1 line; the one exception in 36 *eruditio* sites). F2: the
+  participle is the verb, so the docket's rider ("*erudiens* 'teaching' stands") is not taken: `c14-v12-15` ¶¶ 26, 27 "the
+  exhortation **schooling**"; `c14-v25-35` `title_en`, the 375L `####` "Third the multitudes following are **schooled**",
+  ¶ 51 "**schooled** the guests … he **schools** … Now **schooling**" (5 interval lines); **and the two pre-interval
+  lines**, `c9-v10-17` ¶ 16 *ut Dominum erudirent* "that they might **school** the Lord" and `c9-v32-36` ¶ 64 *erudiuntur
+  contemplativi* "contemplatives are **schooled**" (the sense exception offered for ¶ 16 not taken). `c14-v12-15` and
+  `c14-v25-35`'s Notes amended in place, struck wording kept. ¶ 51 *informat* "forms" (ruling 12) untouched.
+- **83. F1 APPLIED: "Holy Ghost" → "Holy Spirit"** (ruling 17, Douay quotations included). 16 occurrences on 12 interval
+  lines (`c12-v8-12` ×7 lines, `c12-v13-34` ×2, `c13-v18-21` ×2, `c13-v31-35` ×1) and 4 occurrences on 2 pre-interval
+  lines (`c10-v17-24` ¶¶ 36, 39; Luke 10:21, Rom. 14:17). After it the rendered region of all 82 chunks holds no "Holy
+  Ghost"; the phrase survives only inside five older chunks' `## Notes` (`prooem`, `c1-v18-25`, `c1-v26-38`, `c1-v39-45`,
+  `c3-v1-9`), outside the rule's reach, not edited. `c12-v8-12`'s Notes headline amended in place.
+- **84. F3, F5, F6, F7 APPLIED** (one word each). F3 (= N-1; ruling 45): *benignitas* "kindness" at `c13-v1-9` ¶ 12 (Rom.
+  2:4, the Douay's "benignity" adjusted, as at Ps. 64:12), `c14-v16-24` ¶ 37, `c14-v25-35` ¶ 52 (3 lines; "benignity" now
+  0 in the work). F5 (= N-3; ruling 56): `c11-v42-54` ¶ 87 and p. 305 n. 6 **En.** *Arrogantiam redarguit* "He
+  **convicts** arrogance" (2 lines; *redarguere* "convict" at all 20 regions). F6: `c14-v12-15` ¶ 28 Prov. 23:21 *dantes
+  symbola* "and that **club together**", the Douay, as at `c12-v13-34` ¶ 29 (nothing leans; 1 line). F7: `c14-v7-11`
+  p. 365 n. 15 **En.** *operationes mirabiles* "**marvellous** operations" (ruling 32's row; 1 line). Recorded, not
+  re-read: `c2-v40-52` p. 67 n. 11 is the other apparatus *mirabilis* "wonderful" (pre-interval).
+- **85. F13 APPLIED: *accidia* → "acedia" WORK-WIDE; *desidia* "sloth"; *pigritia* "sluggishness"** (the capital vice;
+  the work's `c8-v11-21` ¶ 23 and `c8-v26-33` p. 203 n. 11 already so). `c11-v14-26` ¶ 56, `c14-v1-6` ¶ 11, `c12-v13-34`
+  p. 318 n. 4 **En.** (3 interval lines) and `c6-v1-11` ¶ 21 (pre-interval; 1 line). Item (140) answered: *desidia* and
+  *accidia* no longer meet in "sloth". **This overturns the p. 288 sheet's item 24 claim ("acedia at every Bonaventure /
+  Du Cange site")**, which `c6-v1-11` belied. Recorded: *pigritia* "sloth" at `c9-v10-17` ¶ 22 (record only, no edit).
+- **86. THE *pietas* REVIEW CLOSES: ruling 12 / 31 HOLDS for cc. 15–16** (item 11(a); ruling 70's carried review).
+  *pietas* "piety", *pius / pie* "pious / piously", human and divine; `tr-pietas` at the first divine site of each chunk;
+  *impietas / impius* "impiety / impious" in prose, the nearest Douay word in verses (ruling 51). **In the Cap. XV chunks
+  `tr-pietas` names Cap. XV ¶ 1's divisio at its first site:** *impietas* / *pietas divina* / *pietas humana*, one English
+  root ("impiety … divine piety … human piety"). Interval census 22 / 22; the three divine `tr-pietas` (`c12-v35-48` ¶ 57,
+  `c13-v10-17` ¶ 25, `c13-v31-35` ¶ 74) ratified. Recorded: Titus 2:12 is "godly" in Vol V `bon-don-c1` and Vol VI
+  `bon-cioan-c8`, "piously" in `bon-don-c3` and Lucam ×2 — a cross-volume split; ruling 51 governs Lucam.
+- **87. Item 10 RATIFIED: *anima* "soul" where the exposition leans, the Douay's "life" where nothing leans; the other
+  ruling-20 / ruling-28 splits as a batch** (*ubera*, *sacculus*, *monumentum / sepulcrum*, *nuptiae*, *convivium*,
+  *supplicium*, *remittetur*, *dispensator*, Mark 3:2 / Luke 14:3, Matt. 4:4, Ecclus. 1:39, Rom. 1:21). Recorded: F12(b)
+  Luke 14:26 "his own **life**" `c12-v49-59` ¶ 75 (adduced) / "his own **soul**" `c14-v25-35` ¶ 52 (the lemma; ¶ 53
+  leans), a cross-chunk ruling-28 split (both chunks' Notes); F12(c) John 12:25 "soul" at all three Lucam sites, each on
+  a leaning paragraph. F6 (ruling 84) was the one unlicensed split.
+- **88. Items 12–18 RATIFIED** (after rulings 77–85): *lumen* rest (item 12; ruling 80); *lucerna* — Matt. 5:15 "lamp"
+  `c14-v25-35` ¶ 59 [174] (item 13); *excessus* — p. 379 n. 4 Aristotle's *per excessum et defectum* "excess" [179], the
+  measure sense (item 14); *intellectus / intelligentia / notitia / cognitio / scientia* (item 15; ruling 17 holds;
+  recorded `c13-v22-30` ¶ 58 *cognitionis* ×2 + *negatio notitiae* all "knowledge", no conformation, ruling 70); *vacare /
+  quies* (item 16: [5] `tr-vacare`, [133] *quies* "rest", [109] *quietari* "be set at quiet"); the house words as a batch
+  (item 17), **recording [121]**: `c13-v22-30` ¶ 56 *serotinam poenitudinem* "late repentance" beside the Douay's Wis. 5:3
+  "repenting" and Heb. 12:17 "repentance" (nothing leans on *poenitentia*) — "repentance" names two Latin words in one
+  paragraph, which ruling 20 permits; ruling 32's *poenitentia* "penance" row stands; the new house words (item 18) with
+  rulings 82 and 84 applied.
+- **89. Batches A, B, C RATIFIED** (items 1–9). All 19 stage-4 rows as built; last ¶ XI 102 · XII 88 · XIII 76 · XIV 69
+  (ruling 36). **The setup table's Cap. XIV cell (§ "The Luke commentary by capitulum") is corrected 68 → 69**, where the
+  stage-4 record (§ MANIFEST STAGE 4) had corrected it without amending the cell. The seven Corrigenda pp. 294–361 as
+  applied (`c11-v14-26`'s `tr-corrigenda`, ruling 23's shape). The ruling-20 adjustments and Douay base as built, with
+  F12(a) recorded: Luke 12:20 "this night do they require thy soul" is the Douay's own wording, not an adjustment; and
+  Luke 12:3's lemma "lumen" applied (ruling 80).
+- **90. Batches E, F, G RATIFIED; H BANKED.** E (item 19): the Quaracchi citation slips as transcribed (r.57 class;
+  ruling 36); p. 366 n. 4 *caritatem divinam* from H is the editors' text (record); p. 295 n. 15's ledger side is J-12
+  (ruling 92). F (items 20–22): `[so printed]` *eautelam*, *rimediando* ratified; **¶ 10 *quinque ova*: no mark**
+  (Bonaventure's market analogy, not a misprint; `[so printed]` is for misprints only, ruling 36); zero new `[?]`; **the
+  live `[?]` (`c5-v12-16` p. 122 n. 11) STAYS OPEN** (rulings 59, 73). G (items 23–26): guillemets and points as
+  recorded, supply nothing; codex H read for `II` ratified (rulings 36, 60, 74). H (item 27): collection change banked,
+  no ruling.
+- **91. Records F8–F12 and docket errors, no text effect.** F8 (D-2's framing: the docket's "defect" is not one under
+  the test); F9 (D-3 is two defects, not three); F10 (*excessivus* at four sites); F11 (D-6's cause located in
+  `scan_page()`; four direction slips in the whole ledger); F12 (a)–(d) (Luke 12:20; Luke 14:26; John 12:25; T-e's
+  *notam 11* not captured). **Not on the docket, not ruled (passes draft observations O-1..O-3; carried open, no edit):**
+  O-1 `c13-v1-9` ¶ 17 *arguitur* "convicted" (*arguere*, ruling 32 "reprove") filed under ruling 56; O-2 `c13-v1-9` ¶ 12
+  Augustine's *quare vacatis?* "why are you idle?" against ruling 32's *vacare* row; O-3 `c14-v25-35` ¶ 66 and p. 379
+  n. 9 **En.** Ps. 18:6 *Exsultavit* "rejoiced" against *exsultare* "exult". O-4 is F6 (ruling 84); O-5 is item 15.
+- **92. J-12 ADDED to ruling 76's ONE tool job, QUEUED, NOT RUN** (sheet § T; D-6 / T-g). J-12: a `CROSSREF_SLIPS` row
+  `("bon-luc-c11-v14-26", "apparatus:p295-15", "supra pag. 297, nota 7", "printed slip — *supra* from p. 295; the locus
+  is p. 294 n. 7 (Jerome on Matt. 12:43); filed as printed, not retargeted")` (the ruling-37 T3 / T4 shape: verdict →
+  `unresolvable`, listed in the QA slips table; never retargeted, rulings 37 / 57) **+ a report-only direction screen**
+  (`supra pag. N` with N > citing page, `infra` with N < citing page, same volume) printed in the QA report; it finds 4
+  today (F11), the three outside Vol VII (`bon-ioan-c13-v21-30` p. 432 n. 9; `bon-sent-III-d27-dubia` p. 615 n. 15, p. 619
+  n. 1) reported, not fixed. **The interval's tool sites fold into the existing J-items, no new job:** J-1 + T-b (p. 342
+  nn. 11, 12; p. 348 nn. 2, 5; p. 370 n. 13; p. 378 n. 6); J-2 + T-c (p. 320 n. 3); J-4 / J-5 + T-e (p. 373 n. 5); J-6 +
+  T-d (p. 360 n. 3); J-9 + T-a (12 sites; anaphora unresolved 391 today); J-11 + T-f (count only). Same discipline as
+  ruling 76: report → fix → report; `tools/build-citations.py` only, then `build-citations.py` → `build-index-json.py`;
+  no chunk file. Baseline: QA 213, anaphora unresolved 391.
+
+**The front is `bon-luc-c15-v1-7`** (manifest stage 5, `21637e0`, pp. 381–472): it opens at Cap. XV ¶ 1 on p. 381, and
+p. 381 nn. 12–13 and the t4 *Impietas Iudaeorum…* are its. Under ruling 86 its first divine `tr-pietas` names the
+*impietas / pietas divina / pietas humana* divisio.
