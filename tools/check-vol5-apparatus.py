@@ -6130,9 +6130,25 @@ KNOWN_TOTALS_VOL7 = {
     335: 15, # bon-luc-c12-v49-59 (paras 84 tail-88). Anchors L 1-6 / R 7-15. Blocks L 1-8 (n.5 run in on
              # n.4's last line) / R 9-15. No runover. Gutter 1137 (band 1108-1167, rule 1134-1140).
     336:  9, # SHARED. n.1 bon-luc-c12-v49-59 (para 88's unnumbered close across the top of the page, above
-             # CAPITULUM XIII.; anchor 336L *ad Hebraeos secundo*). nn.2-9 PENDING for bon-luc-c13-v1-9
-             # (para 1 under CAPITULUM XIII. on; n.2 anchors *quidam in*). n.5 RUNS OVER THE GUTTER (L -> R:
-             # *quos in fuga ceperant*). Gutter 1293 (band 1263-1324, rule 1290-1295).
+             # CAPITULUM XIII.; anchor 336L *ad Hebraeos secundo*). nn.2-9 bon-luc-c13-v1-9 (paras 1-3, under
+             # CAPITULUM XIII.; n.2 anchors *quidam in*). Anchors L 2-6 / R 7-9; blocks L 1-5 / R (5 tail) 6-9.
+             # n.5 RUNS OVER THE GUTTER (L -> R: *quos in fuga ceperant*). Gutter 1293 (band 1263-1324, rule
+             # 1290-1295).
+    337: 16, # bon-luc-c13-v1-9 (paras 3 tail-7). Anchors L 1-8 / R 9-16. Blocks L 1-8 / R 9-16. n.9's
+             # footer numeral is NOT PRINTED (the R block opens *Vers. 28. et subinde Prov. 24, 14.* at the
+             # paragraph indent, no ink in the numeral slot; body anchor *Baruch tertio*9 present). No runover.
+             # Gutter 1131 (band 1100-1162, rule 1129-1134).
+    338: 16, # bon-luc-c13-v1-9 (paras 7 tail-10). Anchors L 1-7 / R 8-16. Blocks L 1-6 / R 7-16. No runover.
+             # Gutter 1319 (band 1290-1348, rule 1314-1323).
+    339: 14, # bon-luc-c13-v1-9 (paras 10 tail-13). Anchors L 1-6 / R 7-14. Blocks L 1-7 / R 8-14. No runover.
+             # Gutter 1121 (band 1091-1151, rule 1119-1124).
+    340: 12, # bon-luc-c13-v1-9 (paras 13 tail-18). Anchors L 1-6 / R 7-12. Blocks L 1-8 / R (8 tail) 9-12.
+             # n.8 RUNS OVER THE GUTTER (L -> R: *c. 1. n. 1: Arbor ficulnea*). Gutter 1292 (band 1262-1322,
+             # rule 1290-1294).
+    341: 14, # SHARED. nn.1-12 bon-luc-c13-v1-9 (paras 18 tail-20, closing at ~0.38 of 341R on Apoc. 22:2
+             # *... ad sanitatem gentium ».*). nn.13-14 PENDING for bon-luc-c13-v10-17 (the 341R t4 stack and
+             # para 21; n.13 *Supra c. 11. n. 36*). Anchors L 1-9 / R 10-12 (ours). Blocks L 1-7 / R 8-14.
+             # Gutter 1151 (band 1121-1182, rule 1148-1154).
 }
 
 KNOWN_TOTALS_BY_VOL = {

@@ -1183,6 +1183,13 @@ const WORKS = {
       // `Informatio duplex ad cavendam dolositatem.`, is the title_la (ruling 22).
       // The running head of p. 309 already reads C. XII. above Cap. XI's paras.
       12: "Capitulum XII",
+      // `CAPITULUM XIII.` read in place on p. 336 at bon-luc-c13-v1-9: full-measure
+      // centred small capitals at ~0.17 of the leaf, directly below Cap. XII's last para 88
+      // (…« si tantam neglexerimus salutem »?), no subtitle, unanchored, and NO heading
+      // beneath it: para 1 *Aderant autem quidam in ipso tempore.* opens 336L directly
+      // under it, so title_la is the sentence title (rulings 33, 40). The running head of
+      // p. 336 already reads C. XIII. above Cap. XII's para 88.
+      13: "Capitulum XIII",
     },
   },
 };
