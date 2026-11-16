@@ -626,3 +626,196 @@ Seven entries, all of the Corrigenda's Luke entries between pp. 288 and 381.
   lists that are not boundaries (e.g. c. 12 ¶¶ 26, 41; c. 14 ¶¶ 40, 44) were matched to their ¶ numbers on the text
   layer only.
 - **Footer registers** were not counted (the builders count them; ruling 15).
+
+# Stage 5 notes (Cap. XV – Cap. XVIII, pp. 381–472; 2026-11-16, Opus)
+
+19 rows appended to `lucam-chunk-manifest.tsv` (XV 5 · XVI 4 · XVII 5 · XVIII 5), drawn at the p. 381 gate and before
+any chunk of the next interval (ruling 2). Labels as in stages 1–4: **MEASURED** (read on a 300 dpi plate crop this
+session) or **PREDICTION** (text layer only). No chunk was built.
+
+## Plates read (MEASURED)
+
+Plates pp. 383–473 extracted at 300 dpi (`raw/vision/vol7/p-383 … p-473.png`; pp. 381–382 were on disk). Three screens
+found the headings, and every hit was read on a crop:
+
+- a **vertical-gap screen**: each column's inner 76 % profiled for blank bands ≥ 38 px, the synchronised header and
+  footer-rule pairs set aside. Column-specific body gaps stood at 381, 382L, 383R, 387L, 389R, 402, 407R, 415R, 417L,
+  425, 426L, 429R, 433R, 437L, 437R, 439L, 448, 460R ×2, 472: **every one a heading or a capitulum except 417L**,
+  which is Lucan's centred couplet *O quaesitorum terra pelagoque ciborum / Ambitiosa fames…* (456L's gap is the
+  *Confiteor, tundo…* couplet on the text layer, the same class). The remaining single gaps (437R ~0.58, 451R, 454L, 460R ~0.54, 461L,
+  463L, 467R and the 0.6–0.8 band on many leaves) are short closing lines or the footer zone of leaves whose body
+  ends high. A separate check of **synchronised** body gaps (a full-measure heading would leave one) found only the
+  four `CAPITULUM` stacks (381, 402, 425, 448, 472) and footer rules. **No t2 stands in pp. 381–472.**
+- a **divisio sweep**: the paragraphs that open on a lemma + *Post… / Postquam…* (~20 in pp. 381–472), read on the
+  plate wherever one is a boundary or a named joint;
+- the **text layer's** small-type lines (`pdftotext -bbox-layout`, pdf pp. 407–499). It found every t4 and missed the
+  437L t3, and was a cross-check only. ⚠ On pp. **421** and **444** the text layer reports every body line ~10 pt high
+  (body ≈ 11 elsewhere); the plates show ordinary body type. A height filter that drops "small" lines drops those two
+  leaves' paragraphs (c16 ¶¶ 50–52, c17 ¶¶ 53–56).
+
+Full-width crops: pp. **402**, **425**, **448**, **472**. Boundary and heading crops: **382L**, **383R**, **387L**,
+**389R**, **394R**, **398R**, **407R**, **415R**, **417L**, **419L**, **426L**, **429R**, **433R**, **437L**, **437R** (×2),
+**439L**, **441R**, **444L**, **452R** (×3), **457R** (×2), **460R**, **465R**. Every row's opening, ending and
+`title_la` was read on one of these.
+
+## Headings found in pp. 381–472 (MEASURED; wording from the plate)
+
+| Page | Tier (typography) | Wording | Row |
+|---|---|---|---|
+| 381 | capitulum | CAPITULUM XV. | c15-v1-7 |
+| 381L | t4 (small bold) | Impietas Iudaeorum confutatur tripliciter. | c15-v1-7 |
+| 382L | t4 | Expressio Iudaicae impietatis describitur tripliciter. | c15-v1-7 |
+| 383R | t4 | Manifestatio pietatis divinae describitur triplici parabola. | c15-v1-7 (interior) |
+| 387L | t4 | Parabola de drachma perdita. | c15-v8-10 |
+| 389R | t4 | Parabola de filio prodigo. | c15-v11-20 |
+| 402 | capitulum | CAPITULUM XVI. | c16-v1-8 |
+| 402L | t4 | Commendatio et persuasio pietatis humanae describitur per documenta et exempla parabolica quoad duo. | c16-v1-8 |
+| 402R | t4 | Primo, de pietate humana quoad opera corporalia tripliciter. | c16-v1-8 |
+| 407R | t4 | Documentum pietatis perfectae quoad duo. | c16-v9-18 |
+| 415R | t4 | Exemplum impietatis punitae, de quo tria. | c16-v19-22 |
+| 425 | capitulum | CAPITULUM XVII. | c17-v1-4 |
+| 425L | t4 | De pietate humana quoad opera spiritualia tripliciter. | c17-v1-4 |
+| 426L | t4 | Informatio per documentum rationabile. | c17-v1-4 |
+| 429R | t4 | Manuductio per duplex exemplum sensibile. | c17-v5-10 |
+| 433R | t4 | Confirmatio per factum mirabile. | c17-v11-19 |
+| 437L | t3 (larger roman) | Curiositas Iudaeorum confutatur dupliciter. | c17-v20-30 |
+| 437R | t4 | De reprehensione Iudaicae curiositatis tria. | c17-v20-30 |
+| 439L | t4 | De ratione huius reprehensionis tria. | c17-v20-30 (interior) |
+| 448 | capitulum | CAPITULUM XVIII. | c18-v1-8 |
+| 448L | t4 | De persuasione studiositatis exhibentur duo. | c18-v1-8 |
+| 460R | t4 | Secundo curiositas in possidendo confutatur dupliciter. | c18-v18-27 |
+| 460R | t4 | Primo, commendando paupertatem quadrupliciter. | c18-v18-27 |
+| 472 | capitulum | CAPITULUM XIX. + t4 *Secundo confutat curiositatem in possidendo approbando liberalitatem duplicem.* | (next interval) |
+
+The headings stand far apart in four stretches, and those rows are cut at Bonaventure's divisio paragraphs (ruling 1b):
+
+- **c. 15:** the 389R t4 to `CAPITULUM XVI.` is ~12.9 pp (the prodigal son).
+- **c. 16:** the 415R t4 to `CAPITULUM XVII.` is ~10.1 pp.
+- **c. 17:** the 439L t4 to `CAPITULUM XVIII.` is ~8.9 pp.
+- **c. 18:** `CAPITULUM XVIII.` to the 460R t4 is ~12.4 pp; the 460R t4 to `CAPITULUM XIX.` ~11.9 pp.
+
+Every cut is named in a higher paragraph's own *ibi:* list.
+
+⚠ **The 460R t4 *Secundo curiositas in possidendo…* is set as a t4 but is the second member of the 437L t3's
+division** (¶ 35: *in perscrutando / in possidendo, infra decimo octavo*). Typography and logical rank part company
+here; the manifest records the typography. Its partner on the far side of the gate is the 472L t4 under
+`CAPITULUM XIX.` (*Secundo confutat curiositatem in possidendo approbando liberalitatem…*), the second member of ¶ 34.
+
+## Last paragraph per capitulum (MEASURED)
+
+**XV = 52** (402L, Vers. 32, running across the top of 402R; the setup table's **~50+** resolves to 52).
+**XVI = 61** (425L, Vers. 31; the marginale *Epilogus* on 425R stands inside ¶ 61; the setup table's 61 is right).
+**XVII = 62** (447R, Vers. 37, whose text runs across the top of both columns of p. 448; the table's 62 is right).
+**XVIII = 66** (472L–R, Vers. 43; the table's 66 is right). Each capitulum's first and last pages are as the setup
+table predicts (381–402, 402–425, 425–448, 448–472). **None overran.**
+
+## The p. 472 gate (MEASURED)
+
+Ruling 14 places the gate at the **close of c. 18**, p. 472. On the plate: ¶ 65 is Vers. 42 (472L, *Quarto quantum ad
+integritatem sanitatis*); ¶ 66 (Vers. 43, *Et confestim vidit, per circumspectionem prudentiae…*) runs from 472L into
+472R and ends at ~0.40 of the leaf (*…maior enim est omni laude ».*); `CAPITULUM XIX.` stands full measure at ~0.44,
+with the 472L t4 *Secundo confutat curiositatem in possidendo approbando liberalitatem duplicem.* and ¶ 1 *Et ingressus
+perambulabat Iericho etc.* below it (the next interval's). **The last row, `bon-luc-c18-v28-43`, ends exactly there.**
+p. 472's running head already reads *C. XIX.* (the p. 381 habit). Nothing else is odd at the boundary; the one thing
+to carry is the cross-gate pairing of the two *Secundo … in possidendo* headings above.
+
+## The p. 381 opening (MEASURED; as the stage-4 notes and the resume describe)
+
+¶ 69 closes c. 14 at ~0.52 of 381R; `CAPITULUM XV.` full measure at ~0.55; the 381L t4 *Impietas Iudaeorum confutatur
+tripliciter.*; ¶ 1 *Erant autem appropinquantes etc.* (381L–R, the three-part divisio) ends at the foot of 381R; the
+382L t4 *Expressio Iudaicae impietatis describitur tripliciter.* heads the next leaf over an un-numbered sentence and
+¶ 2 (Vers. 1). `c15-v1-7` opens at the capitulum, and its `title_la` is the 382L t4 (ruling 22, the `c12-v1-7` shape).
+p. 381 nn. 12–13 (pending from `c14-v25-35`) are this row's.
+
+## Corrections to the setup table and the record (MEASURED)
+
+- **Cap. XV last ¶ = 52**, not ~50+. The other three capitula match the table.
+- **`CAPITULUM XV.` and `CAPITULUM XVII.` each have a t4 directly under them**, and each opening runs ¶ 1 to its end
+  before a second t4 at the head of the next column/leaf (382L, 426L); `CAPITULUM XVI.` carries two t4s side by side
+  (402L, 402R); `CAPITULUM XVIII.` one (448L). None is a bare capitulum, so ruling 40 does not arise.
+- **¶ 13 of c. 18 prints *iuducere*** (452R, third line; turned *n*, read at full scale) in the title sentence of
+  `c18-v9-14`. Recorded as printed; the builder handles it on the `[so printed]` convention (ruling 59 class).
+
+## `low` rows (5, three decisions), with the alternatives
+
+Joint positions are page-equivalents (column fractions from text-layer paragraph positions against plate-measured
+column extents; PREDICTION within ±0.1 pp).
+
+1. **Cap. XV: `bon-luc-c15-v1-7`, `-v8-10` (¶¶ 1–14 / 15–20).**
+   - **The problem:** four sibling sections of ~1.7 (expressio, 382L t4), ~3.5 (the sheep, under the 383R t4), ~2.67
+     (the drachma, 387L t4) and ~12.9 pp (the prodigal son, 389R t4). The expressio cannot stand alone; the drachma
+     sits just under the ~2.7 test. Joint positions: CAP 381.78 · 383R t4 383.55 · 387L t4 387.04 · 389R t4 389.70 ·
+     ¶ 26 391.63 · ¶ 29 393.30 · ¶ 33 394.84 · ¶ 42 398.76 · end 402.58.
+   - **Chosen:** ¶ 1–14 (~5.25, across the 383R t4) | ¶ 15–20 (~2.67, the whole drachma section) | the prodigal son
+     cut at ¶ 33 and ¶ 42.
+   - **Alternatives:** (a) ¶ 1–20 kept as one row (~7.9, across two t4s; under cap 8); (b) ¶ 1–14 | ¶ 15–28 (~6.3, the
+     drachma joined to the prodigal son's insolentia and miseria across the 389R t4, the `c11-v27-32` shape) | ¶ 29–41
+     (~5.5) | ¶ 42–52 (~3.8).
+2. **Cap. XVI: `bon-luc-c16-v9-18` (¶¶ 13–34) kept whole at ~7.9 pp over 9 printed pages** (the `c12-v13-34` shape): the
+   407R and 415R headings stand ~7.9 apart, just under ruling 1b's ~8, so no divisio cut is licensed. **Alternative:**
+   if ~7.9 is read as ~8, cut at ¶ 25 (*Audiebant autem omnia haec*, 411R, the second member of ¶ 13), 4.2 + 3.7 pp.
+3. **Cap. XVIII: `bon-luc-c18-v9-14`, `-v15-17` (¶¶ 13–26 / 27–33).**
+   - **The problem:** the reverentia member (¶ 13 to the 460R t4) is ~8.1 pp, over cap 8, so it is cut. Joint
+     positions: ¶ 13 452.50 · ¶ 16 453.90 · ¶ 24 456.89 · ¶ 27 457.87 · 460R t4 460.59.
+   - **Chosen:** ¶ 27, ¶ 13's own joint (*exemplum parabolicum / exemplum expressum*): 5.4 + 2.72 pp, the second at the
+     edge of the ≥ 2.7 test.
+   - **Alternative:** ¶ 24 (the parable's third *conditio*, *exauditio*, named in ¶ 13's sub-list): ¶ 13–23 (~4.4) |
+     ¶ 24–33 (~3.7), joining the parable's tail to the infants across ¶ 13's principal joint.
+
+Each row's builder applies ruling 39's procedure (reads its boundary plates, promotes its own row or STOPS).
+
+## Rule applications that needed a choice (not `low`)
+
+- **Required cuts at named joints** (heading gap over ~8 pp):
+  - **c. 15 ¶¶ 33, 42** (389R to `CAPITULUM XVI.` ~12.9 pp): ¶ 21 names four members (¶¶ 21, 26, 29, 33) of ~1.9 /
+    ~1.7 / ~1.5 / ~7.75 pp; the first three cannot stand alone and stay together (~5.1). The fourth, ¶¶ 33–52, is under
+    cap 8 but over the 3–6 band and is cut at its own joint ¶ 42: 3.9 + 3.8. **Alternative:** ¶ 33–52 kept whole
+    (~7.75).
+  - **c. 16 ¶ 46** (415R to `CAPITULUM XVII.` ~10.1 pp): the third of ¶ 35's three members (causa / culpa ¶ 40 / poena
+    ¶ 46). 3.8 + 6.3. **Alternatives:** ¶ 53 alone (6.55 + 3.6); ¶ 46 + ¶ 53 (3.8 + 2.75 + 3.6).
+  - **c. 17 ¶ 53** (439L to `CAPITULUM XVIII.` ~8.9 pp): the third of ¶ 41's members. The reprehensio section (437R
+    t4, ~2.0 pp) is joined to the ratio section across the 439L t4 (ruling 1c): 6.75 + 4.1. **Alternative:** cuts at
+    ¶ 45 (*Et sicut factum est in diebus Noe*, 440L) and ¶ 53: 3.1 + 3.7 + 4.1.
+  - **c. 18 ¶ 13** (`CAPITULUM XVIII.` to 460R ~12.4 pp): ¶ 1's two members, 4.3 + 8.1; the second is cut again (low
+    decision 3).
+  - **c. 18 ¶ 47** (460R t4 to `CAPITULUM XIX.` ~11.9 pp): the third of the subdivisio's four members (¶¶ 35, 42, 47,
+    52). 5.0 + 6.9. **Alternatives:** ¶ 52 alone (7.1 + 4.85); ¶ 42 alone leaves 8.9 (no).
+- **Kept whole, no licensed cut:** the three c. 17 sibling t4 sections (~3.6 / ~3.9 / ~3.7, each a row).
+
+## Titles (ruling 22 / 33 / 40)
+
+- **Lowest heading of the opening stack, whole:** `c15-v1-7` (the 382L t4, below CAPITULUM XV., the 381L t4 and ¶ 1),
+  `c15-v8-10` (387L), `c15-v11-20` (389R), `c16-v1-8` (the 402R t4), `c16-v9-18` (407R), `c16-v19-22` (415R), `c17-v1-4`
+  (the 426L t4), `c17-v5-10` (429R), `c17-v11-19` (433R), `c17-v20-30` (the 437R t4, below the 437L t3 and ¶ 35),
+  `c18-v1-8` (448L), `c18-v18-27` (the second 460R t4) — twelve.
+- **Sentence titles** (lemma + dividing words through the sentence naming the member; footnote anchors dropped):
+  `c15-v20-24` (¶ 33), `c15-v25-32` (¶ 42), `c16-v22-31` (¶ 46, whose sentence runs on through its *ibi* clause),
+  `c17-v31-37` (¶ 53), `c18-v9-14` (¶ 13, *iuducere* as printed), `c18-v15-17` (¶ 27), `c18-v28-43` (¶ 47) — seven.
+- No Corrigenda entry touches a title (ruling 4).
+
+## Corrigenda
+
+**None.** The Corrigenda's Luke entries jump from p. 361 to p. 533; no entry falls in pp. 381–472. Every `corrigenda`
+cell in this stage is empty.
+
+## Split verses
+
+Two rows share a verse with their neighbour (the `c4-v14-22` / `c4-v22-30` precedent): **Luke 15:20** (`c15-v11-20`
+¶ 32 *Et surgens venit*; `c15-v20-24` ¶ 33 *Cum autem adhuc longe esset*) and **Luke 16:22** (`c16-v19-22` ¶ 44
+*Factum est autem ut moreretur mendicus*; `c16-v22-31` ¶ 46 *Mortuus est autem et dives*).
+
+## Size distribution (19 rows)
+
+- **Printed pages touched:** min 3 / mean 5.8 / max 9.
+- **Estimated text extent** (PREDICTION, method as stage 4): min 2.67 / mean 4.8 / max 7.9 pp; the 19 rows sum to
+  ~90.7 pp (381.78 → 472.51).
+
+## Not verified
+
+- **Paragraph numbers inside rows** come from the text layer, anchored by plate-read numbers at both ends of every row.
+  The text layer misreads several (¶ 15 as `13`, ¶ 25 of c. 15 as `23`, ¶ 35 of c. 15 as `33`, ¶ 51 of c. 17 as `31`,
+  a 444R paragraph of c. 17 (¶ 54 or 55) as `53`, ¶ 65 of c. 18 as `63`); every boundary number was read on the plate.
+- **Verse ends** are taken from the `(Vers. N.)` tags and the next row's lemma. The lemmas named in divisio *ibi:*
+  lists that are not boundaries (e.g. c. 15 ¶¶ 26, 29, 48; c. 16 ¶¶ 25, 40, 53; c. 17 ¶¶ 30, 45, 58, 61; c. 18 ¶¶ 9,
+  16, 24, 42, 52, 58) were matched to their ¶ numbers on the text layer only.
+- **Footer registers** were not counted (the builders count them; ruling 15).
