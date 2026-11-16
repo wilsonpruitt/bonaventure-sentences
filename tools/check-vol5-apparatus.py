@@ -6263,8 +6263,16 @@ KNOWN_TOTALS_VOL7 = {
     386: 12, # bon-luc-c15-v1-7 (paras 13 tail-14). Anchors L 1-8 / R 9-12. Blocks L 1-8 / R 8-12: n.8 RUNS OVER
              # THE GUTTER (L -> R: *Glossa | interlinearis*). Gutter 1317 (SKEW walk 1309/1320/1328).
     387: 13, # SHARED. n.1 bon-luc-c15-v1-7 (para 14 tail, 387L to ~0.11): *Vers. 3.* at *nono*1. nn.2-13 belong
-             # to bon-luc-c15-v8-10 (PENDING; 387L t4 *Parabola de drachma perdita.*, para 15): n.2 *Cfr. supra
+             # to bon-luc-c15-v8-10 (387L t4 *Parabola de drachma perdita.*, para 15): n.2 *Cfr. supra
              # n. 6. ...* at *drachmis*2. Blocks L 1-8 / R 9-13 (count only). Gutter 1162 (rows 0.10-0.45).
+             # COMPLETE at bon-luc-c15-v8-10 (paras 15-16): anchors L 2-6 / R 7-13; blocks L 1-8 / R 9-13
+             # (nn.7-8 anchor right, print left). No runover. Gutter by region 1162/1155/1152 (10 px walk).
+    388: 14, # bon-luc-c15-v8-10 (paras 16 tail-19). Anchors L 1-8 / R 9-14. Blocks L 1-6 / R 7-14. No runover.
+             # Gutter 1298 (rows 0.10-0.50) / 1307 (0.50-0.95), a 9 px walk; one split suffices.
+    389: 12, # SHARED. nn.1-9 bon-luc-c15-v8-10 (paras 19 tail-20; anchors L 1-7 / R 8-9; 389R para 20 closes
+             # ~0.31 at *subcaelestis*9). nn.10-12 PENDING for bon-luc-c15-v11-20 (389R t4 *Parabola de filio
+             # prodigo.*, para 21: n.10 *Cfr. supra n. 6. ...* at *tertio*10). Blocks L 1-8 / R 9-12 (n.8
+             # anchors right, prints left). Gutter 1136 (0.10-0.50) / 1139 (0.50-0.95).
 }
 
 KNOWN_TOTALS_BY_VOL = {
