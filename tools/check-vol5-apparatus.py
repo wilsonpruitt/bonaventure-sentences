@@ -6100,6 +6100,24 @@ KNOWN_TOTALS_VOL7 = {
     323: 15, # bon-luc-c12-v13-34 (paras 45 tail-48). Anchors L 1-8 / R 9-15. Blocks L 1-9 / R (9 tail) 10-15.
              # n.9 RUNS OVER THE GUTTER (*ubi loce-* | *tur [codd. locatur]*). Gutter 1165 (rows 0.20-0.60, 56 px;
              # 0.30-0.60 -> 1164 on 59 px). p.324: no note of this chunk (para 48 closes in 324L's first 3 lines).
+    324: 12, # bon-luc-c12-v35-48 (para 48's three closing lines carry no anchor; the whole page is this chunk's:
+             # t4 stack 324L, paras 49-51). Anchors L 1-5 / R 6-12. Blocks L 1-8 / R (8 tail) 9-12. n.8 RUNS
+             # OVER THE GUTTER (*ad remunerationis trans-* | *itoria bona festinat*). Gutter 1300 (band 1269-1331,
+             # rule 1298-1303).
+    325: 15, # bon-luc-c12-v35-48 (paras 51 tail-56). Anchors L 1-8 / R 9-15. Blocks L 1-9 / R 10-15. No runover.
+             # Gutter 1153 (band 1124-1182, rule 1148-1158).
+    326: 15, # bon-luc-c12-v35-48 (paras 56 tail-59). Anchors L 1-7 / R 8-15. Blocks L 1-6 / R 7-15 (n.10 run in
+             # on n.9's last line). No runover. Gutter 1278 (band 1250-1307, rule 1274-1284).
+    327: 14, # bon-luc-c12-v35-48 (paras 59 tail-62). Anchors L 1-9 / R 10-14. Blocks L 1-8 / R (8 tail) 9-14.
+             # n.8 RUNS OVER THE GUTTER (*hanc allegationem* | *omittunt*). Gutter 1188 (band 1158-1219).
+    328: 14, # bon-luc-c12-v35-48 (paras 62 tail-65). Anchors L 1-7 / R 8-14. Blocks L 1-8 / R 9-14. No runover.
+             # Gutter 1284 (band 1252-1316, rule 1283-1285).
+    329: 15, # bon-luc-c12-v35-48 (paras 65 tail-68). Anchors L 1-7 / R 8-15. Blocks L 1-10 (n.9 run in on
+             # n.8's line) / R 11-15. No runover. Gutter 1146 (band 1115-1177). Signature under the L block.
+    330: 13, # SHARED. nn.1-8 bon-luc-c12-v35-48 (paras 68 tail-69, closing at ~0.22 of 330R on Ezech. 34:10).
+             # nn.9-13 PENDING for bon-luc-c12-v49-59 (330R t4 *Secundo invitatur ad vigilantiam consideratione
+             # primi adventus.*; para 70 on; n.9 *Vers. 54.* anchors para 70's *ibi*). Anchors L 1-7 / R 8 | R 9-13.
+             # Blocks L 1-5 / R 6-13. No runover. Gutter 1294 (band 1264-1325, rule 1292-1297).
 }
 
 KNOWN_TOTALS_BY_VOL = {
