@@ -6336,6 +6336,31 @@ KNOWN_TOTALS_VOL7 = {
              # bon-luc-c16-v9-18 (para 13: n.10 *Cfr. supra n. 1.*, n.11 *Vers. 14.*, n.12 *Vers. 10;
              # tertium habetur v. 13 ...*, all anchor 407R). Blocks L 1-7 head / R 7 tail 8-12: n.7 RUNS
              # OVER THE GUTTER (*... Unde quia nullum vitium tan- | tum est, ut deleat*). Gutter 1155 / 1154.
+             # COMPLETE at bon-luc-c16-v9-18: nn.10-12 re-derived on the plate (all anchor 407R).
+             # Gutter below para 12 re-profiled 1154 (0.30-0.95).
+    408: 14, # bon-luc-c16-v9-18 (paras 14 tail-17). Anchors L 1-7 / R 8-14; blocks L 1-5 head / R 5
+             # tail 6-14: n.5 RUNS OVER THE GUTTER (*... non servat. Divi- | tiae prioris*); nn.6-7
+             # anchor left, print right. Gutter 1296.
+    409: 12, # bon-luc-c16-v9-18 (paras 17 tail-19). Anchors L 1-6 / R 7-12 = blocks. No runover.
+             # Codex H printed `II` at n.5. Gutter 1155.
+    410: 15, # bon-luc-c16-v9-18 (paras 20-22). Anchors L 1-8 / R 9-15 = blocks. No runover.
+             # Codex H printed `II` at nn.10, 14. Gutter 1299.
+    411: 13, # bon-luc-c16-v9-18 (paras 22 tail-25). Anchors L 1-6 / R 7-13 = blocks. No runover.
+             # Codex H printed `II` at n.7. Gutter 1156 (skew walk 23 px, one split).
+    412: 11, # bon-luc-c16-v9-18 (paras 25 tail-28). Anchors L 1-5 / R 6-11; blocks L 1-7 head / R 7
+             # tail 8-11: n.7 RUNS OVER THE GUTTER (*... et Ier. 17, 9, | ubi pro cor hominum*); nn.6-7
+             # anchor right, print left. Codex H printed `II` at n.2. Gutter 1292.
+    413: 13, # bon-luc-c16-v9-18 (paras 28 tail-31). Anchors L 1-7 / R 8-13; blocks L 1-9 / R 10-13
+             # (nn.8-9 anchor right, print left). No runover. Gutter 1181.
+    414: 16, # bon-luc-c16-v9-18 (paras 31 tail-33). Anchors L 1-10 / R 11-16; blocks L 1-8 head / R 8
+             # tail 9-16: n.8 RUNS OVER THE GUTTER (*... (ita etiam August., Serm. | 279. alias 24.*);
+             # nn.9-10 anchor left, print right. Gutter 1290.
+    415: 8,  # SHARED (t4 *Exemplum impietatis punitae, de quo tria.* at ~0.23 of 415R over para 35).
+             # nn.1-6 bon-luc-c16-v9-18 (paras 33 tail-34; anchors L 1-5 / R 6). nn.7-8 PENDING for
+             # bon-luc-c16-v19-22 (para 35: n.7 *Num. 1. -- Glossa seq. est ordinaria in Luc. 16, 19 ...*
+             # at *sicut supra*, n.8 *Vers 20 et tertium v. 22.* at *de qua ibi*; both anchor 415R).
+             # Blocks L 1-6 head / R 6 tail 7-8: n.6 RUNS OVER THE GUTTER (*... qui etiam voci | Ait
+             # praefigunt et.*). Gutter 1171 (0.10-0.70) / 1168 (0.30-0.95).
 }
 
 KNOWN_TOTALS_BY_VOL = {
