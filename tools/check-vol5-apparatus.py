@@ -6202,6 +6202,19 @@ KNOWN_TOTALS_VOL7 = {
     361: 16, # bon-luc-c14-v1-6 (paras 10 tail-13, closing at the foot of 361R on Zach. 9:11). Anchors
              # L 1-9 / R 10-16. Blocks L 1-8 / R 9-16. No runover. Gutter 1150 (band 1121-1180).
              # Corrigenda: n.13 *nota 3* -> *nota 13* (col. 2), applied with tr-corrigenda.
+    362: 15, # bon-luc-c14-v7-11 (paras 14-16, from the 362L t4). Anchors L 1-7 / R 8-15. Blocks L 1-8 / R 8-15:
+             # n.8 RUNS OVER THE GUTTER (L -> R: *(cfr. | supra pag. 317*); n.15 RUNS OVER THE PAGE (its Chrysostom
+             # tail opens p. 363's left block unnumbered). Gutter 1307 (band 1278-1337).
+    363: 12, # bon-luc-c14-v7-11 (paras 16 tail-19). Anchors L 1-6 / R 7-12. Blocks L [p.362 n.15 tail] 1-3 /
+             # R 3-12: n.3 RUNS OVER THE GUTTER (L -> R: *et te et illum | ostendens*). Gutter 1143 (band 1116-1170).
+    364: 13, # bon-luc-c14-v7-11 (paras 19 tail-21). Anchors L 1-7 / R 8-13. Blocks L 1-7 / R 8-13. No runover.
+             # Codex H prints as II at n.4 (and faintly at n.8), read H. Gutter 1314 (band 1285-1344).
+    365: 15, # bon-luc-c14-v7-11 (paras 21 tail-25). Anchors L 1-8 / R 9-15. Blocks L 1-10 / R 10-15: n.10 RUNS
+             # OVER THE GUTTER (L -> R: *cuius | finem*); n.15 RUNS OVER THE PAGE (its Liber de causis tail opens
+             # p. 366's left block unnumbered). Gutter 1161 (band 1131-1191).
+    366: 13, # SHARED. nn.1-2 bon-luc-c14-v7-11 (para 25 tail, 366L to ~0.31): anchors L 1-2. The left block
+             # opens unnumbered with p. 365 n.15's tail. nn.3-13 bon-luc-c14-v12-15 (from para 26, *familiare*3)
+             # (PENDING). Right block ends at n.13. Gutter 1304 (band 1274-1334).
 }
 
 KNOWN_TOTALS_BY_VOL = {
