@@ -1,0 +1,345 @@
+---
+id: "bon-luc-c14-v12-15"
+volume: 7
+work: "lucam"
+division: 14
+section: 3
+verses: "12-15"
+type: pericope
+paragraphs: "26-35"
+title_la: "Dicebat autem etc. Postquam informavit invitatos ad convivium nuptiale, hic secundo informat invitantes ad convivium familiare"
+title_en: "And he said etc. After he formed those invited to the marriage banquet, here secondly he forms those who invite to the familiar banquet"
+printed_pages: [366, 367, 368, 369, 370]
+pdf_pages: [392, 393, 394, 395, 396]
+source: "S. Bonaventurae, Opera Omnia, Tomus VII (Quaracchi, 1895), pp. 366–370"
+has_scholion: false
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Capitulum XIV, Vers. 12-15, the second member of para 14's division: the formation of those who invite to the familiar banquet — drawn back from worldly courtesy (the occasion inducing, Dicebat autem et ei qui se invitaverat, the host repaid with spiritual teaching, the reading at table; the exhortation teaching, Cum facis prandium aut coenam, friends, kinsmen, neighbours, brethren, the rich; the indifferent, evil and good banquets; the reason persuading, Ne forte et ipsi te reinvitent, the eternal reward exchanged for a temporal) and enticed to divine charity (the commendation of fraternal piety, Sed cum facis convivium, voca pauperes, Chrysostom on the least of the brethren; the assignment of the inducing reason, Et beatus eris, the resurrection of the just; the approbation of the reason induced, Beatus, qui manducabit panem in regno Dei, the uncreated and incarnate Word as bread, the senary of loaves and the seventh). Paras 26-35, pp. 366-370: opens at ~0.31 of 366L with para 26 (a divisio paragraph, no heading; sentence title, rulings 33, 40), closes at ~0.09 of 370L above para 36 (a divisio cut, ruling 1b), both boundaries read on the plate (the end first). Latin set from the 300 dpi plates; 52 apparatus entries (p. 366 = 11, nn. 3-13 of 13; 367 = 14; 368 = 12; 369 = 15; 370 none); zero [?], no [so printed], no translator's note (2026-11-15)"
+format_version: 1
+---
+
+# Commentarius in Evangelium S. Lucae — Cap. XIV, Vers. 12-15
+## *Dicebat autem etc. Postquam informavit invitatos ad convivium nuptiale, hic secundo informat invitantes ad convivium familiare*
+
+---
+
+## Latin
+<!-- page 366 -->
+26. (Vers. 12.). *Dicebat autem* etc. Postquam informavit invitatos ad convivium nuptiale, hic secundo informat *invitantes ad convivium familiare*[^p366-3]; in qua informatione primo *retrahit invitantes a curialitate mundana;* secundo *allicit ad caritatem divinam,* ibi[^p366-4]: *Sed cum facis convivium.*
+
+*Retrahens* igitur *a mundana curialitate,* tria introducit ad huiusmodi retractionem[^p366-5], scilicet *occasionem inducentem, exhortationem erudientem* et *rationem persuadentem.*
+
+Primo ergo quantum ad *occasionem inducentem* dicit: *Dicebat autem et ei qui se invitaverat.* Hoc ideo illi dicebat, quia invitatio illius dedit occasionem loquendi de modo invitandi, secundum illud Ecclesiastici vigesimo septimo[^p366-6]: « In medio insensatorum serva verbum tempori ». Vel ideo illi dicebat, ut ministranti corporalem sustentationem rependeret spiritualem eruditionem, ut sic vicissim ostendat, dona divina esse communicanda, secundum illud primae Petri quarto[^p366-7]: « Unusquisque sicut accepit gratiam, in alterutrum illam administrantes ». — Unde forma datur viro spirituali suscipienti cibum corporalem, ut hospiti suo dispenset spiritualem, sicut insinuatur supra decimo[^p366-8], quod « Martha suscepit Christum in domum suam, et soror eius Maria, sedens secus pedes Domini, audiebat verbum illius ». In cuius designatione dicit Sapiens de Sapientia Christo Sapientiae octavo: « Proposui hanc adducere mihi ad convivandum, sciens, quoniam communicabit mecum de bonis, et erit allocutio cogitationis et taedii mei ». In hoc etiam datur forma, quod in conviviis virorum spiritualium spiritualia verba miscenda sunt; ideo consuetudo est, quod in corporali refectione misceatur lectio spiritualis, propter illud verbum Domini Deuteronomii octavo[^p366-9] et Matthaei quarto: « Non in solo pane vivit homo, sed in omni verbo, quod egreditur de ore Domini ».
+
+27. Secundo quantum ad *exhortationem erudientem* subdit: *Cum facis prandium aut coenam: prandium* in mane et *coenam* in vespere. — *Noli vocare amicos tuos,* ratione *sodalitatis;* Matthaei quinto[^p366-10]: « Si diligitis eos qui vos diligunt, quam mercedem habebitis? Nonne et ethnici hoc faciunt »? quia dicitur Ecclesiastici trigesimo septimo: « Sodalis amico condolet causa ventris et contra hostem accipiet scutum ». *Neque cognatos,* ratione *affinitatis;* Ecclesiastici decimo octavo[^p366-11]: « Miseratio hominis circa proximum suum; misericordia autem Dei super omnem carnem ». *Neque vicinos,* ratione *familiaritatis;* quocontra tertia Canonica Ioannis: « Carissime, fideliter facis, quidquid operaris in fratres, et hoc in peregrinos, qui testimonium reddiderunt caritati tuae ». *Neque fratres,* ratione *consanguinitatis,* quia dicitur[^p366-12]: « Obliviscere populum tuum et domum patris tui »; et Deuteronomii trigesimo tertio: « Qui dixerunt fratribus: Ignoro illos, hi custodiunt legem tuam » etc. *Neque divites,* ratione *pompositatis;* quia dicitur infra decimo sexto[^p366-13]: « Erat quidam dives, qui induebatur purpura et bysso et epulabatur quotidie splendide »; et post subditur, quod « sepultus est in inferno ». — Hoc autem non
+<!-- page 367 -->
+dicit, quia contra praeceptum sit invitare notos, cum scribatur primae ad Timotheum quinto[^p367-1]: « Si quis suorum et maxime domesticorum curam non habet, fidem negavit et est infideli deterior »; et de Ioseph Genesis quadragesimo tertio scribitur, quod fecit convivium fratribus suis; sed hoc dicit, quia homo in huiusmodi invitationibus, si vult vitam aeternam mereri, non debet habere intentionem carnalem, sed spiritualem, non terrenam, sed caelestem, non mercenariam, sed piam.
+
+28. Propter quod nota, quod est *convivium indifferens,* quod quidem est familiaritatis humanae, de quo Iob primo[^p367-2]: « Ibant filii eius et faciebant convivia per domos, unusquisque in die suo ». — Et est *convivium malum,* et hoc triplex, scilicet *malum, peius, pessimum.* Primum est *gastrimargiae,* de quo ad Romanos decimo tertio[^p367-3]: « Non in comessationibus et ebrietatibus » etc.; et Proverbiorum vigesimo tertio: « Noli esse in conviviis potatorum neque in comessationibus eorum qui carnes dant ad vescendum, quia vacantes potibus et dantes symbola consumentur »; et Iacobi quinto: « Epulati estis super terram et in luxuriis nutristis corda vestra ». — Secundum est *iactantiae,* de quo Danielis quinto[^p367-4]: « Balthasar rex fecit grande convivium omnibus optimatibus suis » etc.; et Marci sexto: « Herodes in natali suo convivium fecit principibus et tribunis et primis Galilaeae ». Et in primo convivio dehonestata fuerunt vasa Domini, in secundo interfectus est praecursor Christi. — Tertium est *malitiae,* de quo secundi Regum decimo tertio[^p367-5] dicitur, quod Absalom vocavit Ammon fratrem suum ad convivium, ubi sequitur, quod in convivio interfecit eum; et primi Machabaeorum ultimo dicitur, quod « filius Abobi fecit convivium magnum Simoni, et cum inebriatus esset, occidit eum et duos filios eius ». — Est etiam *convivium bonum* triplex, scilicet *bonum, melius* et *optimum.* Primum est *pietatis,* de quo infra eodem[^p367-6]: « Cum facis convivium, voca pauperes et debiles ». — Secundum est *caritatis,* de quo Canticorum quinto: « Comedite, amici, et bibite
+et inebriamini, carissimi » etc. — Tertium est *felicitatis;* Isaiae vigesimo quinto: « Faciet Dominus in monte hoc convivium omnibus populis, convivium pinguium, medullatorum, vindemiae defaecatae ». — Primum convivium[^p367-7] permittitur, secundum prohibetur, et tertium suadetur.
+
+29. Tertio quantum ad *rationem persuadentem* subdit: *Ne forte et ipsi te reinvitent, et fiat tibi retributio;* quia qui opera facit pro terrena mercede non habet nisi terrenam retributionem et temporalem. Nam merces aeterna commutatur in temporalem pro amore *gloriae;* Matthaei sexto[^p367-8]: « Attendite, ne iustitiam vestram faciatis coram hominibus, ut videamini ab eis; alioquin mercedem non habebitis apud Patrem vestrum, qui in caelis est »; unde de hypocritis dicitur Matthaei eodem: « Amen dico vobis, receperunt mercedem suam ». Pro amore *terrenitatis,* unde super illud Exodi primo[^p367-9]: « Timuerunt obstetrices Deum, et aedificavit illis domos », dicit Glossa, quod « merces aeterna eis in temporalem commutata est ». Pro amore *carnalitatis;* Matthaei decimo[^p367-10]: « Qui amat patrem aut matrem plus quam me non est me dignus ». Et hoc est, quia, sicut dicitur Matthaei sexto, « nemo potest duobus dominis servire »; et « intentio operi tuo », ut dicit Ambrosius[^p367-11], « nomen imponit ». Ideo qui facit rem pro mercede temporali fraudatur mercede aeterna, quia nulli operi debetur caelum, quod fit propter mundum. — Sed econtra ea quae propter Deum fiunt, utraque mercede digna sunt; unde primae ad Timotheum quarto[^p367-12]: « Pietas ad omnia valet, habens promissionem vitae, quae nunc est, et futurae »; et ideo dicebat Dominus Matthaei sexto: « Quaerite primum regnum Dei et iustitiam eius, et haec omnia adiicientur vobis ». Homini vero mundano dicitur infra decimo sexto[^p367-13]: « Fili, recordare, quia recepisti bona in vita tua, et Lazarus similiter mala; nunc autem hic consolatur, tu vero cruciaris ».
+
+30. (Vers. 13.). *Sed cum facis convivium.* Postquam retraxit a curialitate mundana, hic secundo *invitat ad caritatem divinam*[^p367-14]. Quod quidem facit
+<!-- page 368 -->
+tripliciter, scilicet per *commendationem pietatis fraternae,* per *assignationem rationis inductivae* et per *approbationem rationis inductae.*
+
+Primo igitur quantum ad *commendationem pietatis fraternae* dicit: *Sed cum facis convivium, voca pauperes,* propter defectum rerum exteriorum; Isaiae quinquagesimo octavo[^p368-1]: « Frange esurienti panem tuum et egenos vagosque induc in domum tuam » etc. Et hoc praecipiebatur in Lege; Deuteronomii decimo quinto: « Non deerunt pauperes in terra habitationis tuae; idcirco et ego praecipio tibi, ut aperias manum tuam fratri tuo egeno et pauperi, qui tecum versatur in terra ». Huic pauperi debes aperire manum et maxime iusto; unde Ecclesiastici nono[^p368-2] dicitur: « Viri iusti sint tibi convivae, et in timore Domini sit tibi gloriatio »; et Tobiae secundo dicitur: « Cum esset dies festus, et factum esset prandium bonum in domo Tobiae, dixit filio suo: Vade, et adduc aliquos de tribu nostra timentes Deum, ut epulentur nobiscum ». Unde Ecclesiastici duodecimo[^p368-3]: « Da bono, et ne receperis peccatorem; benefac humili, et ne dederis impio ». — Verumtamen non excluditur hic, quin etiam aliis pauperibus debeat fieri eleemosyna, et quin ipsi debeant vocari, sicut satis innuit Chrysostomus super Matthaeum, homilia septuagesima nona[^p368-4] dicens: « *In quantum non fecistis uni minimorum horum, neque mihi fecistis,* dicit Dominus, non de discipulis dicens hoc solum, neque de his qui elegerunt monachorum vitam, sed de omni homine fideli. Qui enim talis est, etsi servus fuerit, etsi eorum qui in foro mendicant, credit autem in Deum, iustum est, omnium eum frui devotione. Et si despexerimus talem hominem nudum vel esurientem, haec audiemus verba » etc. — *Debiles,* propter defectum virium; Ecclesiastici septimo[^p368-5]: « Non te pigeat visitare infirmum; ex his enim in dilectione firmaberis »; et Matthaei vigesimo quinto: « Infirmus eram, et visitastis me », dicet Dominus, quia qui infirmitati alienae condescendit, quod illi facit Christo impendit. — *Claudos et caecos,* propter defectum membrorum; infra eodem[^p368-6]: « Exi in vicos et plateas civitatis et pauperes ac debiles, caecos et claudos introduc huc ». Et hoc quidem recte, quia miseris impendenda est misericordia et subventio his qui habent penuriam; unde Marci octavo: « Misereor super turbam, quia ecce, iam triduo sustinent me nec habent quod manducent ».
+
+31. (Vers. 14.). Secundo quantum ad *assignationem rationis inductivae* subdit: *Et beatus eris, quia non habent retribuere*[^p368-7] *tibi;* ideo oportet, quod alius retribuat pro eis; Proverbiorum decimo nono: « Foeneratur Domino qui miseretur pauperis »; quod dicitur propter immensitatem mercedis, de qua subdit: *Retribuetur enim*[^p368-8] *tibi in resurrectione iustorum,* id est in gloria aeterna; de qua resurrectione Apocalypsis vigesimo: « Beatus et sanctus, qui habet partem in resurrectione prima »; et infra vigesimo: « Illi qui digni habebuntur saeculo illo et resurrectione aequales erunt Angelis et filii sunt Dei, cum sint filii resurrectionis ». In hac resurrectione resurgent mali ad mortem, sed iusti ad vitam; Ioannis quinto[^p368-9]: « Procedent qui bona fecerunt in resurrectionem vitae, qui vero mala egerunt in resurrectionem iudicii ». In hac retributio fiet misericordibus; unde Ecclesiastici duodecimo[^p368-10]: « Benefac iusto, et invenies retributionem magnam, et si non ab illo, certe a Deo »; et maxime de eleemosyna; unde Matthaei vigesimo quinto: « Venite, benedicti Patris mei, percipite regnum » etc.; et post: « Esurivi, et dedistis mihi manducare » etc. Et ideo Matthaei quinto[^p368-11]: « Beati misericordes, quoniam ipsi misericordiam consequentur ». Unde operibus pietatis maxime fit retributio felicitatis; propter quod Ecclesiastici decimo septimo: « Eleemosyna viri quasi sacculus cum ipso et gratiam hominis quasi pupillam conservabit; et postea resurget, et retribuet illi retributionem, unicuique in caput suum ». — Ratio autem huius est, quia nullus est dignus misericordia, nisi qui facit misericordiam; quia, Iacobi secundo[^p368-12], « iudicium sine misericordia illi qui non facit misericordiam ». Et nullus ad aeternam beatitudinem venit nisi per misericordiam; Psalmus: « Homines et iumenta salvabis, Domine; quemadmodum multiplicasti misericordiam tuam, Deus »; et rursus ad Titum: « Non ex operibus iustitiae, quae fecimus nos, sed secundum suam misericordiam salvos nos fecit ».
+
+32. (Vers. 15.). Tertio quantum ad *approbationem rationis inductae* subdit: *Haec cum audisset*
+<!-- page 369 -->
+*quidam de simul discumbentibus; audisset,* inquam, non tantum aure corporis, verum etiam aure cordis, secundum illud Apocalypsis secundo[^p369-1]: « Qui habet aurem audiat, quid Spiritus dicat Ecclesiis ». Et quoniam qui sic audit credit, secundum illud ad Romanos decimo[^p369-2]: « Fides ex auditu, auditus autem per verbum Christi », id est, qui credit audiendo testimonium reddit loquendo et confitendo; Iob vigesimo nono: « Auris audiens beatificabat me, et oculus videns testimonium reddebat mihi »; ideo subdit: *Beatus, qui manducabit panem*[^p369-3] *in regno Dei,* quasi dicat: melior est retributio, quae erit in resurrectione mortuorum, quam ista quae est in praesenti, quia ista est misera, illa vero beata; Psalmus[^p369-4]: « Quia melior est dies una in atriis tuis super millia ». Unde Apocalypsis decimo nono: « Beati, qui ad coenam nuptiarum Agni vocati sunt ».
+
+33. Et nota, quod cibus ille, qui erit in regno Dei, non erit cibus carnalis, sed spiritualis. Et iste panis est Verbum increatum et Verbum incarnatum; quem quidem panem manducamus in via *sacramentaliter,* secundum illud primae ad Corinthios undecimo[^p369-5]: « Probet autem se ipsum homo, et sic de pane illo edat et de calice bibat »; in patria vero manducabimus *spiritualiter,* videndo facie ad faciem; Ioannis sexto: « Si quis manducaverit ex hoc pane, vivet in aeternum »; quia, decimo septimo, « haec est vita aeterna, ut cognoscant te solum Deum verum, et quem misisti Iesum Christum ». Hic panis promittitur nobis edendus post egressum de hac vita; « cum dederit dilectis suis somnum, ecce, hereditas Domini, filii; merces, fructus ventris[^p369-6] ». Sicut enim nemo venit ad somnum quietis nisi per *senarium laboris,* sic istius panis manducationem praecedit *senarius panum,* qui sunt praeparatorii ad illum cibum aeternum, quem manducabimus in patria,
+
+34. Primus panis est *doloris poenitentiae;* Psalmus[^p369-7]: « Fuerunt mihi lacrymae meae panes die ac nocte »; et iterum Psalmus: « Surgite, postquam sederitis, qui manducatis panem doloris ». De hoc pane
+dicitur in figura Genesis vigesimo primo: Dedit Abraham Agar « panem et utrem aquae », et illa abiit in desertum. — Secundus est panis *laboris iustitiae;* Genesis tertio[^p369-8]: « In sudore vultus tui vesceris pane tuo »; Psalmus: « Labores manuum tuarum quia manducabis; beatus es, et bene tibi erit ». — Tertius est panis *instructionis doctrinae;* Matthaei quarto[^p369-9]: « Non in solo pane vivit homo, sed in omni verbo, quod procedit de ore Dei ». De hoc dicitur Threnorum quarto: « Parvuli petierunt panem, et non erat qui frangeret eis ». — Quartus est panis *Sacramenti eucharistiae,* de quo Ioannis sexto[^p369-10]: « Panis, quem ego dabo, caro mea est » etc.; et Matthaei vigesimo sexto: « Coenantibus autem eis, accepit Iesus panem ». — Quintus est panis *consolationis internae;* primi Regum trigesimo[^p369-11]: « Dederunt puero Aegyptio panem »; « quem cum comedisset, reversus est spiritus eius, et refocillatus est »; et Sapientiae decimo sexto: « Panem de caelo praestitisti eis habentem » etc. — Sextus est panis *contemplationis supernae,* de quo Genesis quadragesimo nono[^p369-12]: « Aser, pinguis panis eius, et praebebit delicias regibus »; Proverbiorum nono: « Venite et comedite panem meum et bibite vinum, quod miscui vobis »; Ecclesiastici decimo quinto: « Cibabit illum pane vitae et intellectus, et aqua sapientiae salutaris potabit illum ».
+
+35. Per hos sex panes venitur ad septimum, de quo hic: *Beatus, qui manducabit panem in regno Dei.* Sed multi ita sunt miseri, quod non possunt venire de pane ad panem[^p369-13]; unde ad panem illius caelestis convivii non veniunt, quia panes alios praeambulos manducare nolunt. — In figura horum septem panum Matthaei decimo quinto[^p369-14]: « Accipiens Iesus septem panes benedixit ». Incipiendo namque a pane *doloris poenitentiae,* pervenitur ad panem *refectionis aeternae,* quem qui manducaverit non habebit ulterius defectum; Ioannis sexto[^p369-15]: « Ego sum panis vitae; si quis venit ad me, non esuriet »; quia nec habebit fastidium, secundum illud Ecclesiastici vigesimo quarto: « Qui edunt me adhuc esurient, et qui bibunt me adhuc sitient; qui audit me non
+<!-- page 370 -->
+confundetur », usque ibi: « Qui elucidant me vitam aeternam habebunt ».
+
+## English
+<!-- page 366 -->
+26. (Vers. 12.). *And he said* etc. After he formed those invited to the marriage banquet, here secondly he forms *those who invite to the familiar banquet*[^p366-3]; in which formation first he *draws back those who invite from worldly courtesy;* second he *entices to divine charity,* there[^p366-4]: *But when thou makest a feast.*
+
+*Drawing back,* then, *from worldly courtesy,* he brings in three things for this kind of drawing back[^p366-5], namely *the occasion inducing, the exhortation teaching* and *the reason persuading.*
+
+First, then, as to *the occasion inducing* he says: *And he said to him also that had invited him.* He said this to him for this reason, that his invitation gave occasion of speaking about the manner of inviting, according to that of Ecclesiasticus, the twenty-seventh chapter[^p366-6]: « In the midst of the unwise keep in the word till its time ». Or he said it to him for this reason, that to the one ministering bodily sustenance he might repay spiritual teaching, that so he might show in turn that the divine gifts are to be communicated, according to that of the first of Peter, the fourth chapter[^p366-7]: « As every man hath received grace, ministering the same one to another ». — Hence a form is given to the spiritual man receiving bodily food, that he dispense spiritual food to his host, as is intimated above, the tenth chapter[^p366-8], that « Martha received Christ into her house, and her sister Mary, sitting at the Lord's feet, heard his word ». In designation of which the Wise man says of Wisdom, Christ, in Wisdom, the eighth chapter: « I purposed to take her to me to banquet with me, knowing that she will communicate to me of her good things, and will be a comfort in my cares and grief ». In this also a form is given, that in the banquets of spiritual men spiritual words are to be mingled; therefore it is the custom that with bodily refection a spiritual reading be mingled, on account of that word of the Lord in Deuteronomy, the eighth chapter[^p366-9], and Matthew, the fourth chapter: « Not in bread alone doth man live, but in every word that proceedeth from the mouth of the Lord ».
+
+27. Second, as to *the exhortation teaching* he subjoins: *When thou makest a dinner or a supper: a dinner* in the morning and *a supper* in the evening. — *Call not thy friends,* by reason of *fellowship;* Matthew, the fifth chapter[^p366-10]: « If you love them that love you, what reward shall you have? do not even the heathens this »? because it is said in Ecclesiasticus, the thirty-seventh chapter: « A companion condoleth with his friend for his belly's sake, and he will take up a shield against the enemy ». *Nor thy kinsmen,* by reason of *affinity;* Ecclesiasticus, the eighteenth chapter[^p366-11]: « The compassion of man is toward his neighbour: but the mercy of God is upon all flesh ». *Nor thy neighbours,* by reason of *familiarity;* over against which the third Canonical Epistle of John: « Dearly beloved, thou dost faithfully whatever thou dost for the brethren, and that for strangers, who have given testimony to thy charity ». *Nor thy brethren,* by reason of *consanguinity,* because it is said[^p366-12]: « Forget thy people and thy father's house »; and Deuteronomy, the thirty-third chapter: « They who said to their brethren: I know them not, these keep thy law » etc. *Nor the rich,* by reason of *pompousness;* because it is said below, the sixteenth chapter[^p366-13]: « There was a certain rich man, who was clothed in purple and fine linen; and feasted sumptuously every day »; and afterward it is subjoined that « he was buried in hell ». — Now he does not
+<!-- page 367 -->
+say this because it is against a precept to invite acquaintances, since it is written in the first to Timothy, the fifth chapter[^p367-1]: « If any man have not care of his own, and especially of those of his house, he hath denied the faith, and is worse than an infidel »; and of Joseph it is written in Genesis, the forty-third chapter, that he made a banquet for his brethren; but he says this because a man in invitations of this kind, if he wills to merit eternal life, ought not to have a carnal intention, but a spiritual one, not an earthly, but a heavenly, not a mercenary, but a pious one.
+
+28. On account of which note that there is *an indifferent banquet,* which indeed is of human familiarity, of which Job, the first chapter[^p367-2]: « His sons went, and made a feast by houses, every one in his day ». — And there is *an evil banquet,* and this threefold, namely *evil, worse, worst.* The first is *of gluttony,* of which to the Romans, the thirteenth chapter[^p367-3]: « Not in rioting and drunkenness » etc.; and Proverbs, the twenty-third chapter: « Be not in the feasts of great drinkers, nor in their revellings who contribute flesh to eat: because they that give themselves to drinking, and that give clubs shall be consumed »; and James, the fifth chapter: « You have feasted upon earth: and in riotousness you have nourished your hearts ». — The second is *of boasting,* of which Daniel, the fifth chapter[^p367-4]: « Baltasar the king made a great feast for all his nobles » etc.; and Mark, the sixth chapter: « Herod made a supper for his birthday, for the princes, and tribunes, and chief men of Galilee ». And in the first banquet the vessels of the Lord were dishonoured, in the second the forerunner of Christ was slain. — The third is *of malice,* of which it is said in the second of Kings, the thirteenth chapter[^p367-5], that Absalom called Amnon his brother to a banquet, where it follows that in the banquet he slew him; and in the first of Machabees, the last chapter, it is said that « the son of Abobus made a great feast for Simon, and when he was drunk, slew him and his two sons ». — There is also *a good banquet,* threefold, namely *good, better* and *best.* The first is *of piety,* of which below, in the same chapter[^p367-6]: « When thou makest a feast, call the poor and the feeble ». — The second is *of charity,* of which Canticles, the fifth chapter: « Eat, O friends, and drink, and be inebriated, my dearly beloved » etc. — The third is *of felicity;* Isaias, the twenty-fifth chapter: « The Lord shall make in this mountain a feast for all people, a feast of fat things, full of marrow, of wine purified from the lees ». — The first banquet[^p367-7] is permitted, the second is forbidden, and the third is urged.
+
+29. Third, as to *the reason persuading* he subjoins: *Lest perhaps they also invite thee again, and a recompense be made to thee;* because he who does works for an earthly reward has only an earthly and temporal retribution. For the eternal reward is exchanged for a temporal one for love *of glory;* Matthew, the sixth chapter[^p367-8]: « Take heed that you do not your justice before men, to be seen by them: otherwise you shall not have a reward of your Father who is in heaven »; whence of the hypocrites it is said in Matthew, in the same chapter: « Amen I say to you, they have received their reward ». For love *of earthliness,* whence on that of Exodus, the first chapter[^p367-9]: « The midwives feared God, and he built them houses », the Gloss says that « the eternal reward was exchanged for them into a temporal one ». For love *of carnality;* Matthew, the tenth chapter[^p367-10]: « He that loveth father or mother more than me, is not worthy of me ». And this is because, as is said in Matthew, the sixth chapter, « no man can serve two masters »; and « thy intention », as Ambrose says[^p367-11], « imposes a name on thy work ». Therefore he who does a thing for a temporal reward is defrauded of the eternal reward, because heaven is owed to no work that is done for the sake of the world. — But on the contrary the things that are done for God's sake are worthy of both rewards; whence the first to Timothy, the fourth chapter[^p367-12]: « Piety is profitable to all things, having promise of the life that now is, and of that which is to come »; and therefore the Lord said in Matthew, the sixth chapter: « Seek ye first the kingdom of God and his justice, and all these things shall be added unto you ». But to the worldly man it is said below, the sixteenth chapter[^p367-13]: « Son, remember that thou didst receive good things in thy lifetime, and likewise Lazarus evil things, but now he is comforted; and thou art tormented ».
+
+30. (Vers. 13.). *But when thou makest a feast.* After he drew back from worldly courtesy, here secondly he *invites to divine charity*[^p367-14]. Which indeed he does
+<!-- page 368 -->
+in three ways, namely by *the commendation of fraternal piety,* by *the assignment of the inducing reason* and by *the approbation of the reason induced.*
+
+First, then, as to *the commendation of fraternal piety* he says: *But when thou makest a feast, call the poor,* on account of the defect of exterior things; Isaias, the fifty-eighth chapter[^p368-1]: « Deal thy bread to the hungry, and bring the needy and the harbourless into thy house » etc. And this was commanded in the Law; Deuteronomy, the fifteenth chapter: « There will not be wanting poor in the land of thy habitation: therefore I command thee to open thy hand to thy needy and poor brother, that liveth in the land ». To this poor man thou oughtest to open thy hand, and most of all to the just; whence it is said in Ecclesiasticus, the ninth chapter[^p368-2]: « Let just men be thy guests, and let thy glory be in the fear of the Lord »; and in Tobias, the second chapter, it is said: « When there was a festival, and a good dinner was prepared in Tobias's house, he said to his son: Go, and bring some of our tribe that fear God, to feast with us ». Whence Ecclesiasticus, the twelfth chapter[^p368-3]: « Give to the good, and receive not a sinner. Do good to the humble, and give not to the ungodly ». — Nevertheless it is not excluded here that alms ought to be made to other poor also, and that they ought to be called, as Chrysostom sufficiently intimates on Matthew, in the seventy-ninth homily[^p368-4], saying: « *As long as you did it not to one of these least, neither did you do it to me,* says the Lord, saying this not of the disciples only, nor of those who have chosen the life of monks, but of every faithful man. For whoever is such, even if he be a slave, even if he be of those who beg in the market place, but believes in God, it is just that he enjoy the devotion of all. And if we despise such a man naked or hungry, we shall hear these words » etc. — *The feeble,* on account of the defect of strength; Ecclesiasticus, the seventh chapter[^p368-5]: « Be not slow to visit the sick: for by these things thou shalt be confirmed in love »; and Matthew, the twenty-fifth chapter: « I was sick, and you visited me », the Lord will say, because he who condescends to another's infirmity bestows on Christ what he does for him. — *The lame and the blind,* on account of the defect of members; below, in the same chapter[^p368-6]: « Go out into the streets and lanes of the city, and bring in hither the poor and the feeble, the blind and the lame ». And this indeed rightly, because mercy is to be bestowed on the wretched, and succour on those who suffer penury; whence Mark, the eighth chapter: « I have compassion on the multitude, for behold they have now been with me three days, and have nothing to eat ».
+
+31. (Vers. 14.). Second, as to *the assignment of the inducing reason* he subjoins: *And thou shalt be blessed, because they have not wherewith to make thee recompense*[^p368-7]; therefore it is fitting that another make recompense for them; Proverbs, the nineteenth chapter: « He that hath mercy on the poor, lendeth to the Lord »; which is said on account of the immensity of the reward, of which he subjoins: *For recompense shall be made*[^p368-8] *thee at the resurrection of the just,* that is, in eternal glory; of which resurrection Apocalypse, the twentieth chapter: « Blessed and holy is he that hath part in the first resurrection »; and below, the twentieth chapter: « They that shall be accounted worthy of that world, and of the resurrection, shall be equal to the Angels, and are the children of God, being the children of the resurrection ». In this resurrection the wicked shall rise to death, but the just to life; John, the fifth chapter[^p368-9]: « They that have done good things, shall come forth unto the resurrection of life; but they that have done evil, unto the resurrection of judgment ». In this retribution will be made to the merciful; whence Ecclesiasticus, the twelfth chapter[^p368-10]: « Do good to the just, and thou shalt find great recompense: and if not of him, assuredly of God »; and most of all concerning alms; whence Matthew, the twenty-fifth chapter: « Come, ye blessed of my Father, possess you the kingdom » etc.; and afterward: « I was hungry, and you gave me to eat » etc. And therefore Matthew, the fifth chapter[^p368-11]: « Blessed are the merciful: for they shall obtain mercy ». Hence to the works of piety the retribution of felicity is made most of all; on account of which Ecclesiasticus, the seventeenth chapter: « The alms of a man is as a purse with him, and shall preserve the grace of a man as the apple of the eye: and afterward he shall rise up, and shall render him retribution, to every one upon his own head ». — But the reason of this is that no one is worthy of mercy except him who does mercy; because, James, the second chapter[^p368-12], « judgment without mercy to him that doth not mercy ». And no one comes to eternal beatitude except through mercy; the Psalm: « Men and beasts thou wilt preserve, O Lord: how hast thou multiplied thy mercy, O God »; and again to Titus: « Not by the works of justice, which we have done, but according to his mercy, he saved us ».
+
+32. (Vers. 15.). Third, as to *the approbation of the reason induced* he subjoins: *When one of them*
+<!-- page 369 -->
+*that sat at table with him had heard these things; had heard,* I say, not only with the ear of the body, but also with the ear of the heart, according to that of the Apocalypse, the second chapter[^p369-1]: « He that hath an ear, let him hear what the Spirit saith to the churches ». And since he who so hears believes, according to that to the Romans, the tenth chapter[^p369-2]: « Faith cometh by hearing; and hearing by the word of Christ », that is, he who believes by hearing renders testimony by speaking and confessing; Job, the twenty-ninth chapter: « The ear that heard me blessed me, and the eye that saw me gave testimony to me »; therefore he subjoins: *Blessed is he that shall eat bread*[^p369-3] *in the kingdom of God,* as if he said: better is the retribution which will be in the resurrection of the dead than this which is in the present, because this is wretched, but that blessed; the Psalm[^p369-4]: « For better is one day in thy courts above thousands ». Hence Apocalypse, the nineteenth chapter: « Blessed are they that are called to the marriage supper of the Lamb ».
+
+33. And note that that food which will be in the kingdom of God will not be carnal food, but spiritual. And this bread is the uncreated Word and the incarnate Word; which bread indeed we eat on the way *sacramentally,* according to that of the first to the Corinthians, the eleventh chapter[^p369-5]: « But let a man prove himself: and so let him eat of that bread, and drink of the chalice »; but in the fatherland we shall eat it *spiritually,* seeing face to face; John, the sixth chapter: « If any man eat of this bread, he shall live for ever »; because, the seventeenth chapter, « this is eternal life: that they may know thee, the only true God, and Jesus Christ, whom thou hast sent ». This bread is promised to us to be eaten after the going out from this life; « when he shall give sleep to his beloved, behold the inheritance of the Lord are children: the reward, the fruit of the womb[^p369-6] ». For as no one comes to the sleep of rest except through *the senary of labour,* so the eating of this bread is preceded by *a senary of loaves,* which are preparatory to that eternal food which we shall eat in the fatherland.
+
+34. The first bread is *of the sorrow of penance;* the Psalm[^p369-7]: « My tears have been my bread day and night »; and again the Psalm: « Rise ye after you have sitten, you that eat the bread of sorrow ». Of this bread it is said in figure in Genesis, the twenty-first chapter: Abraham gave Agar « bread and a bottle of water », and she departed into the desert. — The second is the bread *of the labour of justice;* Genesis, the third chapter[^p369-8]: « In the sweat of thy face shalt thou eat thy bread »; the Psalm: « For thou shalt eat the labours of thy hands: blessed art thou, and it shall be well with thee ». — The third is the bread *of the instruction of doctrine;* Matthew, the fourth chapter[^p369-9]: « Not in bread alone doth man live, but in every word that proceedeth from the mouth of God ». Of this it is said in Lamentations, the fourth chapter: « The little ones have asked for bread, and there was none to break it unto them ». — The fourth is the bread *of the Sacrament of the eucharist,* of which John, the sixth chapter[^p369-10]: « The bread that I will give, is my flesh » etc.; and Matthew, the twenty-sixth chapter: « And whilst they were at supper, Jesus took bread ». — The fifth is the bread *of internal consolation;* the first of Kings, the thirtieth chapter[^p369-11]: « They gave the Egyptian lad bread »; « and when he had eaten it, his spirit returned, and he was refreshed »; and Wisdom, the sixteenth chapter: « Thou gavest them bread from heaven, having » etc. — The sixth is the bread *of supernal contemplation,* of which Genesis, the forty-ninth chapter[^p369-12]: « Aser, his bread shall be fat, and he shall yield dainties to kings »; Proverbs, the ninth chapter: « Come, eat my bread, and drink the wine which I have mingled for you »; Ecclesiasticus, the fifteenth chapter: « With the bread of life and understanding she shall feed him, and give him the water of wholesome wisdom to drink ».
+
+35. Through these six loaves one comes to the seventh, of which here: *Blessed is he that shall eat bread in the kingdom of God.* But many are so wretched that they cannot come from bread to bread[^p369-13]; hence they do not come to the bread of that heavenly banquet, because they will not eat the other loaves that go before. — In figure of these seven loaves, Matthew, the fifteenth chapter[^p369-14]: « Jesus, taking the seven loaves, blessed ». For beginning from the bread *of the sorrow of penance,* one arrives at the bread *of eternal refection,* which whoever shall eat will not have any further defect; John, the sixth chapter[^p369-15]: « I am the bread of life: he that cometh to me shall not hunger »; because neither will he have loathing, according to that of Ecclesiasticus, the twenty-fourth chapter: « They that eat me, shall yet hunger: and they that drink me, shall yet thirst. He that hearkeneth to me, shall not be
+<!-- page 370 -->
+confounded », up to there: « They that explain me shall have life everlasting ».
+
+## Apparatus
+
+[^p366-3]: **La.** Cfr. supra n. 14.
+
+     **En.** Cf. above, n. 14.
+
+[^p366-4]: **La.** Pro *curialitatem divinam* (ita Vat. et alii codd.) substituimus ex H *caritatem divinam,* quod infra n. 30. etiam C D G habent, in quo H pro *curialitate mundana* habet *curiositate mundana.*
+
+     **En.** For *curialitatem divinam* ("divine courtesy"; so Vat. and other codd.) we have substituted from H *caritatem divinam* ("divine charity"), which below, n. 30, C D G also have, in which place H has *curiositate mundana* ("worldly curiosity") for *curialitate mundana* ("worldly courtesy").
+
+[^p366-5]: **La.** Vat. *resectionem.*
+
+     **En.** Vat. has *resectionem* ("cutting off").
+
+[^p366-6]: **La.** Vers. 13, ubi pro *insensatorum* A C D G *sensatorum.*
+
+     **En.** V. 13, where for *insensatorum* ("of the unwise") A C D G have *sensatorum* ("of the wise").
+
+[^p366-7]: **La.** Vers. 10. — Theophylact., in Luc. 14, 12. seqq.: Ex duobus generibus constabat convivium: ex vocatis, et his qui vocabant. Vocatorum genus salubri admonitione ad humilitatem induxerat... Nunc et in eum qui vocaverat, vicissim liberalitatem suam exercet... abducens eum, ne convivia constituat humani favoris... gratia.
+
+     **En.** V. 10. — Theophylact, on Luke 14:12 ff.: The banquet consisted of two kinds: of those called, and of those who called. The kind of those called he had led to humility by a wholesome admonition... Now upon him also who had called he exercises his liberality in turn... leading him away, lest he set up banquets for the sake... of human favour.
+
+[^p366-8]: **La.** Vers. 38. et 39. — Subinde allegatur Sap. 8, 9, ubi post *de bonis* C D addunt *suis,* de quo cfr. Comment. S. Bonav. in hunc loc.
+
+     **En.** Vv. 38 and 39. — Next is cited Wis. 8:9, where after *de bonis* ("of good things") C D add *suis* ("her"), on which cf. St. Bonaventure's Commentary on this place.
+
+[^p366-9]: **La.** Vers. 3, post quem Matth. 4, 4; cfr. supra 4, 4. — Superius pro *lectio spiritualis* A C D G *locutio,* cui secunda manus in D addit *sacrae Scripturae;* H ponit *lectio,* omisso *spiritualis.*
+
+     **En.** V. 3, after which Matt. 4:4; cf. above, 4:4. — Above, for *lectio spiritualis* ("a spiritual reading") A C D G have *locutio* ("speech"), to which a second hand in D adds *sacrae Scripturae* ("of sacred Scripture"); H puts *lectio* ("reading"), *spiritualis* ("spiritual") being omitted.
+
+[^p366-10]: **La.** Vers. 46, post quem Eccli. 37, 5. — Glossa *interlinearis: Cum facis prandium,* quacumque hora diei, *aut coenam,* vespere, *noli vocare amicos tuos,* carnali affectu vel cognatione coniunctos.
+
+     **En.** V. 46, after which Ecclus. 37:5. — The *interlinear* Gloss: *When thou makest a dinner,* at whatever hour of the day, *or a supper,* in the evening, *call not thy friends,* joined by carnal affection or by kinship.
+
+[^p366-11]: **La.** Vers. 12. — Subinde allegatur III. Ioan. v. 5. seq.
+
+     **En.** V. 12. — Next is cited III John, v. 5 f.
+
+[^p366-12]: **La.** Psalm. 44, 11. Codd. hanc allegationem omittunt; lectio autem fere omnium codd. videtur mutila, cum ante *Deuteronomii* habeant *et* (H *quia*). — Sequitur Deut. 33, 9. seq.; cfr. supra c. 12. n. 76. in principio, ubi a codd. completius allegatur.
+
+     **En.** Ps. 44:11. The codd. omit this citation; but the reading of almost all the codd. seems mutilated, since before *Deuteronomii* ("of Deuteronomy") they have *et* ("and"; H *quia,* "because"). — There follows Deut. 33:9 f.; cf. above, c. 12, n. 76, at the beginning, where it is cited more completely by the codd.
+
+[^p366-13]: **La.** Vers. 19. et 22. — Pro *pompositatis* Vat. *pompae.*
+
+     **En.** Vv. 19 and 22. — For *pompositatis* ("of pompousness") Vat. has *pompae* ("of pomp").
+
+[^p367-1]: **La.** Vers. 8, post quem Gen. 43, 16. et 31. seqq. — Glossa *ordinaria* (ex Beda) in Luc. 14, 12: Fratres, amicos et divites alterutrum convivia celebrare non quasi scelus interdicit, sed ostendit, non valere ad praemia vitae etc.
+
+     **En.** V. 8, after which Gen. 43:16 and 31 ff. — The *ordinary* Gloss (from Bede) on Luke 14:12: He does not forbid brethren, friends and the rich to celebrate banquets with one another as though it were a crime, but shows that it avails nothing toward the rewards of life etc.
+
+[^p367-2]: **La.** Vers. 4. Cfr. Gregor., I. Moral. c. 8. n. 10. seq. et II. c. 16. n. 27.
+
+     **En.** V. 4. Cf. Gregory, *Morals* I, c. 8, n. 10 f., and II, c. 16, n. 27.
+
+[^p367-3]: **La.** Vers. 13. — Duo seqq. loci sunt Prov. 23, 20. seq. et Iac. 5, 5.
+
+     **En.** V. 13. — The two following places are Prov. 23:20 f. and James 5:5.
+
+[^p367-4]: **La.** Vers. 1, cui subnectitur Marc. 6, 21.
+
+     **En.** V. 1, to which is attached Mark 6:21.
+
+[^p367-5]: **La.** Vers. 27-29. et deinde I. Mach. 16, 15. seq.
+
+     **En.** Vv. 27–29, and then I Mac. 16:15 f.
+
+[^p367-6]: **La.** Vers. 13. — Duo seqq. loci sunt Cant. 5, 1. et Isai. 25, 6.
+
+     **En.** V. 13. — The two following places are Cant. 5:1 and Isa. 25:6.
+
+[^p367-7]: **La.** Vat. addit *id est indifferens,* et post *secundum* supplet *id est illud malum.*
+
+     **En.** Vat. adds *id est indifferens* ("that is, the indifferent"), and after *secundum* ("the second") supplies *id est illud malum* ("that is, that evil one").
+
+[^p367-8]: **La.** Vers. 1. et subinde v. 2. — Glossa *interlinearis* (ex Beda): *Et fiat tibi retributio,* non ait: Et fiat tibi peccatum, sed fiat tibi retributio. Cfr. supra c. 6. n. 78. seqq. — Superius Vat. *per amorem* loco *pro amore.*
+
+     **En.** V. 1, and next v. 2. — The *interlinear* Gloss (from Bede): *And a recompense be made to thee:* he does not say, And it be made a sin to thee, but a recompense be made to thee. Cf. above, c. 6, n. 78 ff. — Above, Vat. has *per amorem* ("through love") in place of *pro amore* ("for love").
+
+[^p367-9]: **La.** Vers. 21. — Glossa *ordinaria* in Exod. 1, 20, quae est ex Gregor., XVIII. Moral. c. 3. n. 6, ubi ait: In qua magis recompensatione [*Aedificavit illis Dominus domos*] cognoscitur, quid mendacii culpa mereatur. Nam benignitas earum merces, quae eis in aeterna potuit vita retribui, pro admixta culpa mendacii in terrenam est recompensationem declinata, ut in vita sua, quam mentiendo tueri voluerunt, ea quae fecerunt bona reciperent et ulterius quod exspectarent mercedis suae praemium non haberent etc. — Pro *dicit Glossa* H *dicit Gregorius.*
+
+     **En.** V. 21. — The *ordinary* Gloss on Exod. 1:20, which is from Gregory, *Morals* XVIII, c. 3, n. 6, where he says: In which recompense rather [*The Lord built them houses*] it is known what the fault of lying merits. For the reward of their kindness, which could have been repaid them in eternal life, was turned aside, because of the admixed fault of lying, into an earthly recompense, so that in their life, which they wished to protect by lying, they should receive the good things they had done, and should not further have the prize of their reward to look for etc. — For *dicit Glossa* ("the Gloss says") H has *dicit Gregorius* ("Gregory says").
+
+[^p367-10]: **La.** Vers. 37, post quem Matth. 6, 24.
+
+     **En.** V. 37, after which Matt. 6:24.
+
+[^p367-11]: **La.** Libr. I. de Officiis, c. 30. n. 147: Affectus tuus nomen imponit operi tuo. Cfr. supra pag. 301, nota 2. Post *intentio* in D secunda manus addidit *tua.*
+
+     **En.** *On Duties,* Book I, c. 30, n. 147: Thy affection imposes a name on thy work. Cf. above, p. 301, note 2. After *intentio* ("intention") a second hand in D has added *tua* ("thy").
+
+[^p367-12]: **La.** Vers. 8. et deinde Matth. 6, 33, de quo vide supra c. 12. n. 43. Cfr. supra pag. 256, nota 7. in fine.
+
+     **En.** V. 8, and then Matt. 6:33, on which see above, c. 12, n. 43. Cf. above, p. 256, note 7, at the end.
+
+[^p367-13]: **La.** Vers. 25.
+
+     **En.** V. 25.
+
+[^p367-14]: **La.** Cfr. supra n. 26. — Pro *ad caritatem* Vat. *curialitatem;* cfr. supra pag. 366, nota 4.
+
+     **En.** Cf. above, n. 26. — For *ad caritatem* ("to charity") Vat. has *curialitatem* ("courtesy"); cf. above, p. 366, note 4.
+
+[^p368-1]: **La.** Vers. 7, cui subiungitur Deut. 15, 11. — Glossa *interlinearis: Voca pauperes,* a quibus nihil in praesenti potes exspectare.
+
+     **En.** V. 7, to which is subjoined Deut. 15:11. — The *interlinear* Gloss: *Call the poor,* from whom thou canst expect nothing in the present.
+
+[^p368-2]: **La.** Vers. 22, post quem Tob. 2, 1. seq.
+
+     **En.** V. 22, after which Tob. 2:1 f.
+
+[^p368-3]: **La.** Vers. 5. et 6.
+
+     **En.** Vv. 5 and 6.
+
+[^p368-4]: **La.** Alias 80. (codd. *60.*) n. 1. in fine: Hic ait [Matth. 25, 45.]: *In quantum non fecistis uni minimorum fratrum meorum, nec mihi fecistis.* Quid ais? fratres tui sunt; quomodo *minimos* appellas? Ideo certe fratres, quia humiles, pauperes, abiecti. Hos enim maxime ad fraternitatem vocat, ignotos, contemptos; nec monachos dicit tantum illosque qui in montibus habitant, sed fideles singulos, etiam si saeculares sint, si sint esurientes, famelici, nudi, hospites, nulla non ipsos cura vult excipi. Fratrem enim et baptismus efficit et divinorum mysteriorum consortium. — Pro *omnium eum frui* in D secunda manus substituit *omnino eum frui.*
+
+     **En.** Otherwise 80 (codd. *60*), n. 1, at the end: Here he says [Matt. 25:45]: *As long as you did it not to one of these least of my brethren, neither did you do it to me.* What sayest thou? they are thy brethren; how dost thou call them *least*? Brethren certainly for this reason, because they are humble, poor, cast off. For these most of all he calls to brotherhood, the unknown, the despised; nor does he mean monks only and those who dwell in the mountains, but each of the faithful, even if they be seculars, if they be hungry, famished, naked, strangers, he wills them to be received with every care. For both baptism and the fellowship of the divine mysteries make a brother. — For *omnium eum frui* ("that he enjoy the devotion of all") a second hand in D has substituted *omnino eum frui* ("that he altogether enjoy").
+
+[^p368-5]: **La.** Vers. 39, ubi pro *firmaberis* A C D G *firmaris.* — Sequitur Matth. 25, 36.
+
+     **En.** V. 39, where for *firmaberis* ("thou shalt be confirmed") A C D G have *firmaris* ("thou art confirmed"). — There follows Matt. 25:36.
+
+[^p368-6]: **La.** Vers. 21. — Subinde allegatur Marc. 8, 2.
+
+     **En.** V. 21. — Next is cited Mark 8:2.
+
+[^p368-7]: **La.** Codd. C D G *unde retribuere,* H *unde retribuent,* quae lectio apud Card. Hug. in margine allegatur. — Sequitur Prov. 19, 17.
+
+     **En.** Codd. C D G have *unde retribuere* ("wherewith to recompense"), H *unde retribuent* ("wherewith they will recompense"), which reading is cited in the margin in Cardinal Hugh. — There follows Prov. 19:17.
+
+[^p368-8]: **La.** Plures codd., ut A C D H, *autem.* — Duo seqq. loci sunt Apoc. 20, 6. et Luc. 20, 35. seq.
+
+     **En.** Several codd., as A C D H, have *autem* ("but"). — The two following places are Apoc. 20:6 and Luke 20:35 f.
+
+[^p368-9]: **La.** Vers. 29.
+
+     **En.** V. 29.
+
+[^p368-10]: **La.** Vers. 2, post quem Matth. 25, 34. et 35.
+
+     **En.** V. 2, after which Matt. 25:34 and 35.
+
+[^p368-11]: **La.** Vers. 7. — Subinde allegantur Eccli. 17, 18. et 19. Cfr. supra pag. 140, nota 6.
+
+     **En.** V. 7. — Next are cited Ecclus. 17:18 and 19. Cf. above, p. 140, note 6.
+
+[^p368-12]: **La.** Vers. 13. — Sequuntur Ps. 35, 7. seq. et Tit. 3, 5.
+
+     **En.** V. 13. — There follow Ps. 35:7 f. and Titus 3:5.
+
+[^p369-1]: **La.** Vers. 7. Codd. A C D: *Qui habet aures audiendi* etc. — Glossa *interlinearis: Haec cum audisset,* quod in resurrectione essent beatificandi pauperum susceptores. — Superius vocibus *aure cordis* Vat. interserit *mentis vel.*
+
+     **En.** V. 7. Codd. A C D: *Qui habet aures audiendi* ("He that hath ears to hear") etc. — The *interlinear* Gloss: *When he had heard these things,* that in the resurrection the receivers of the poor were to be beatified. — Above, between the words *aure cordis* ("with the ear of the heart") Vat. inserts *mentis vel* ("of the mind or").
+
+[^p369-2]: **La.** Vers. 17. et subinde Iob 29, 11. — Inferius pro *testimonium reddit* D G *testimonium reddat.*
+
+     **En.** V. 17, and next Job 29:11. — Below, for *testimonium reddit* ("renders testimony") D G have *testimonium reddat* ("may render testimony").
+
+[^p369-3]: **La.** Nonnulli codd. omittunt *panem,* sed vide infra n. 33. seqq.
+
+     **En.** Some codd. omit *panem* ("bread"), but see below, n. 33 ff.
+
+[^p369-4]: **La.** Psalm. 83, 11, cui subiungitur Apoc. 19, 9. — August., Serm. 112. (alias 33. de Verbis Domini) c. 5. n. 5: Dixerat unus de discumbentibus... *Beati, qui manducant panem in regno Dei;* quasi in longinqua iste suspirabat, et ipse panis ante illum discumbebat. Quis est panis de regno Dei, nisi qui dicit [Ioan. 6, 41.]: *Ego sum panis vivus, qui de caelo descendi?*
+
+     **En.** Ps. 83:11, to which is subjoined Apoc. 19:9. — Augustine, Sermon 112 (otherwise 33 *On the Words of the Lord*), c. 5, n. 5: One of those sitting at table had said... *Blessed are they that eat bread in the kingdom of God;* this man was sighing as for things far off, and the Bread himself was sitting at table before him. What is the bread of the kingdom of God, if not he who says [John 6:41]: *I am the living bread, which came down from heaven?*
+
+[^p369-5]: **La.** Vers. 28. — Duo seqq. loci sunt Ioan. 6, 52. et Ioan. 17, 3. — Beda, IV. in Luc. 14, 15: Panis, qui manducatur in regno Dei, non iuxta Cerinthum corporis intelligendus est cibus, sed ille utique, qui ait [Ioan. 6, 51. seq.]: *Ego sum panis vivus* etc. — Superius ex B supplevimus *in via.*
+
+     **En.** V. 28. — The two following places are John 6:52 and John 17:3. — Bede, IV, on Luke 14:15: The bread that is eaten in the kingdom of God is not to be understood, after Cerinthus, as food of the body, but surely as he who says [John 6:51 f.]: *I am the living bread* etc. — Above, we have supplied *in via* ("on the way") from B.
+
+[^p369-6]: **La.** Psalm. 126, 2. et 3.
+
+     **En.** Ps. 126:2 and 3.
+
+[^p369-7]: **La.** Psalm. 41, 4, post quem Ps. 126, 2. et Gen. 21, 14.
+
+     **En.** Ps. 41:4, after which Ps. 126:2 and Gen. 21:14.
+
+[^p369-8]: **La.** Vers. 19. et deinde Ps. 127, 2. — Vat. vocibus *laboris iustitiae* interserit *et;* idem recurrit in seq. membro.
+
+     **En.** V. 19, and then Ps. 127:2. — Vat. inserts *et* ("and") between the words *laboris iustitiae* ("of the labour of justice"); the same recurs in the following member.
+
+[^p369-9]: **La.** Vers. 4, cui subiungitur Thren. 4, 4.
+
+     **En.** V. 4, to which is subjoined Lam. 4:4.
+
+[^p369-10]: **La.** Vers. 52, post quem Matth. 26, 26.
+
+     **En.** V. 52, after which Matt. 26:26.
+
+[^p369-11]: **La.** Vers. 11. et 12, quos sequitur Sap. 16, 20.
+
+     **En.** Vv. 11 and 12, which Wis. 16:20 follows.
+
+[^p369-12]: **La.** Vers. 20. — Duo seqq. loci sunt Prov. 9, 5. et Eccli. 15, 3. — Superius codd. non bene substituunt *contemplationis aeternae* pro *contemplationis supernae.*
+
+     **En.** V. 20. — The two following places are Prov. 9:5 and Ecclus. 15:3. — Above, the codd. not well substitute *contemplationis aeternae* ("of eternal contemplation") for *contemplationis supernae* ("of supernal contemplation").
+
+[^p369-13]: **La.** Ita etiam Card. Hugo. Cfr. Bernard., Serm. 1. pro Dominica 6. post Pentec. n. 4. et Serm. 3. in Dedicat. ecclesiae, n. 2, ubi diversae panis afferuntur significationes.
+
+     **En.** So also Cardinal Hugh. Cf. Bernard, Sermon 1 for the Sixth Sunday after Pentecost, n. 4, and Sermon 3 on the Dedication of a Church, n. 2, where diverse significations of bread are brought forward.
+
+[^p369-14]: **La.** Vers. 36: *Et accipiens septem panes... et gratias agens fregit* etc. Cfr. 26, 26: Accepit Iesus panem *et benedixit* ac fregit etc.
+
+     **En.** V. 36: *Et accipiens septem panes... et gratias agens fregit* ("And taking the seven loaves... and giving thanks, he brake") etc. Cf. 26:26: Jesus took bread *and blessed* and broke etc.
+
+[^p369-15]: **La.** Vers. 35. et deinde Eccli. 24, 29-31. — Superius pro *ulterius defectum* Vat. *ulterius ullam penuriam.*
+
+     **En.** V. 35, and then Ecclus. 24:29–31. — Above, for *ulterius defectum* ("any further defect") Vat. has *ulterius ullam penuriam* ("any further penury").
+
+## Notes
+
+**THE EIGHTIETH CHUNK OF THE *COMMENTARIUS IN EVANGELIUM S. LUCAE*, THE THIRD OF CAPITULUM XIV AND THE SEVENTEENTH OF THE INTERVAL pp. 288–381: THE FORMATION OF THOSE WHO INVITE TO THE FAMILIAR BANQUET** — the second member of ¶ 14's division and its subdivision (drawn back from worldly courtesy / enticed to divine charity, ibi *Sed cum facis convivium*, ¶ 26); worldly courtesy drawn back from (the occasion inducing, the host repaid with spiritual teaching, Martha and Mary, the reading at table, ¶ 26; the exhortation teaching, friends, kinsmen, neighbours, brethren, the rich, ¶ 27; the indifferent, evil and good banquets, ¶ 28; the reason persuading, the eternal reward exchanged for a temporal for love of glory, earthliness and carnality, ¶ 29); divine charity commended (the division, ¶ 30; the commendation of fraternal piety, the poor, Chrysostom on the least of the brethren, the feeble, the lame and the blind, ¶ 30; the assignment of the inducing reason, the resurrection of the just, the works of piety, ¶ 31; the approbation of the reason induced, *Beatus, qui manducabit panem in regno Dei*, ¶ 32; the uncreated and incarnate Word as bread, the senary of labour and the senary of loaves, ¶ 33; the six loaves, ¶ 34; the seventh, the bread of eternal refection, ¶ 35).
+
+**Provenance.** Latin set from the 300 dpi plates of pp. 366–370 (2476×3921, plate files named by PRINTED page, pdf = printed + 26), read as column bands at 0.9× at the profiled gutters, every footer block at 1.05×, doubtful digits and the codex sigla at 2–3×. No text layer and no raw were used for any word or digit. **Zero `[?]`. No `[so printed]`. No translator's note** (no *lumen*, no divine *pietas*, no *vacare*, no *excessus*, no *credulitas*; no Corrigenda entry falls on pp. 366–370).
+
+**Boundaries (both read on the plate, the END first).**
+- **End, p. 370 (370L 0.04–0.30 at 0.9×).** ¶ 35's Ecclus. 24:29–31 runs over from the foot of 369R (*qui audit me non*) and closes in the first two lines of 370L on *confundetur », usque ibi: « Qui elucidant me vitam aeternam habebunt ».* (~0.09; no anchor); below it, with no heading, ¶ 36 *(Vers. 16.). At ipse dixit ei: Homo quidam etc. Postquam informavit invitatos ad convivium nuptiale et invitantes ad convivium familiare; hic informat invitandos ad convivium aeternale per introductionem parabolae*¹ (marginale *Quoad invitandos ad convivium aeternale tanguntur tria.*). The manifest's joint, TRUE: a divisio cut (ruling 1b), the third member of ¶ 14's division. p. 370 carries no note of ours.
+- **Start, p. 366 (366L 0.26–0.63 at 0.9×).** ¶ 25 closes at ~0.31 on *… tanto magis exaltatur divino iudicio.*; below it, no heading, ¶ 26 *(Vers. 12.). Dicebat autem etc. Postquam informavit invitatos ad convivium nuptiale, hic secundo informat invitantes ad convivium familiare*³ (marginale *Quoad invitantes ad convivium familiare tanguntur duo.*), as `c14-v7-11` handed off. Re-read and TRUE.
+- **The span.** No heading from 366L to 370L (every column read whole). The row was drawn `high`; no ruling-39 promotion owed and **no manifest cell touched.**
+
+**Title (rulings 33, 40).** `title_la` = ¶ 26's sentence title, the manifest's cell without its trailing period (the `c13-v31-35` / `c13-v18-21` precedent: no period; the plate's sentence runs on with a superscript and a semicolon). No `####`. Four paragraphs carry `(Vers. N.)` tags (¶¶ 26 *(Vers. 12.)*, 30 *(Vers. 13.)*, 31 *(Vers. 14.)*, 32 *(Vers. 15.)*); ¶¶ 27–29 and 33–35 carry none, as printed. The un-numbered paragraphs (¶ 26's *Retrahens igitur* and *Primo ergo*; ¶ 30's *Primo igitur*) belong to the paragraph they continue (ruling 5).
+
+**FIFTY-TWO APPARATUS ENTRIES, per-page map: p. 366 = 11 (nn. 3–13 of 13) · 367 = 14 · 368 = 12 · 369 = 15 · 370 = none.**
+- **p. 366 (shared):** ours nn. 3–13; anchors L 3–7 (*familiare*³, *ibi*⁴, *retractionem*⁵, *septimo*⁶, *quarto*⁷) / R 8–13. Blocks L [p. 365 n. 15 tail] 1–7 / R 7–13: **n. 7 runs over the gutter** (L → R, Theophylact, *ad humilitatem | induxerat*). Gutter **1304** (as handed off). Body to ~0.61.
+- **p. 367:** anchors L 1–6 / R 7–14; blocks L 1–9 / R 9–14: **n. 9 runs over the gutter** (L → R, *quae est | ex Gregor.*). Gutter **1156** (band 1127–1186, rule 1153–1161). Body to ~0.62.
+- **p. 368:** anchors L 1–6 / R 7–12; blocks L 1–4 / R 4–12: **n. 4 runs over the gutter** (L → R, Chrysostom, *divinorum myste-|riorum consortium*). Gutter **1297** (band 1269–1326, rule 1292–1302). Body to ~0.645.
+- **p. 369:** anchors L 1–7 / R 8–15; blocks L 1–5 / R 6–15. No runover; n. 15 closes on the page, so p. 370's register opens clean. Gutter **1150** (band 1121–1179, rule 1147–1155). Body to ~0.64.
+- **p. 370:** ¶ 35's last two lines only, no anchor; the leaf's notes (n. 1 at ¶ 36's *parabolae*¹ on) are `c14-v16-24`'s. Gutter **1290** (band 1260–1320, rule 1286–1293), measured ahead.
+- **Runover ledger:** `p.366 n.7:gutter,p.367 n.9:gutter,p.368 n.4:gutter`.
+- **Digits read on the plate, the 1-vs-4 trap held at 2–3×, every scripture locus checked against its verse:** p. 366 n. 3 *supra n. 14*, n. 4 *infra n. 30*, n. 6 *Vers. 13* (Ecclus. 27:13), n. 7 *Vers. 10 … in Luc. 14, 12.*, n. 8 *Vers. 38. et 39. … Sap. 8, 9*, n. 9 *Vers. 3 … Matth. 4, 4 … supra 4, 4*, n. 10 *Vers. 46 … Eccli. 37, 5*, n. 11 *Vers. 12 … III. Ioan. v. 5*, n. 12 *Psalm. 44, 11 … Deut. 33, 9 … c. 12. n. 76* (checked: ¶ 76 of `c12-v49-59` cites Deut. 33:9 in full), n. 13 *Vers. 19. et 22.*; p. 367 n. 1 *Vers. 8 … Gen. 43, 16. et 31. … Luc. 14, 12*, n. 2 *Vers. 4 … I. Moral. c. 8. n. 10 … II. c. 16. n. 27*, n. 3 *Vers. 13 … Prov. 23, 20 … Iac. 5, 5*, n. 4 *Vers. 1 … Marc. 6, 21*, n. 5 *Vers. 27-29 … I. Mach. 16, 15* (3×), n. 6 *Vers. 13 … Cant. 5, 1 … Isai. 25, 6*, n. 8 *Vers. 1 … v. 2 … c. 6. n. 78*, n. 9 *Vers. 21 … Exod. 1, 20 … XVIII. Moral. c. 3. n. 6* (2×), n. 10 *Vers. 37 … Matth. 6, 24*, n. 11 *c. 30. n. 147 … pag. 301, nota 2* (checked), n. 12 *Vers. 8 … Matth. 6, 33 … c. 12. n. 43 … pag. 256, nota 7* (both checked), n. 13 *Vers. 25*, n. 14 *supra n. 26 … pag. 366, nota 4*; p. 368 n. 1 *Vers. 7 … Deut. 15, 11*, n. 2 *Vers. 22 … Tob. 2, 1*, n. 3 *Vers. 5. et 6.*, n. 4 *Alias 80. (codd. 60.) n. 1 … Matth. 25, 45* (3×), n. 5 *Vers. 39 … Matth. 25, 36* (2.2×), n. 6 *Vers. 21 … Marc. 8, 2*, n. 7 *Prov. 19, 17*, n. 8 *Apoc. 20, 6 … Luc. 20, 35*, n. 9 *Vers. 29*, n. 10 *Vers. 2 … Matth. 25, 34. et 35.*, n. 11 *Vers. 7 … Eccli. 17, 18. et 19 … pag. 140, nota 6* (checked), n. 12 *Vers. 13 … Ps. 35, 7 … Tit. 3, 5*; p. 369 n. 1 *Vers. 7*, n. 2 *Vers. 17 … Iob 29, 11*, n. 3 *infra n. 33*, n. 4 *Psalm. 83, 11 … Apoc. 19, 9 … Serm. 112. (alias 33 …) c. 5. n. 5 … Ioan. 6, 41* (2×), n. 5 *Vers. 28 … Ioan. 6, 52 … 17, 3 … in Luc. 14, 15 … Ioan. 6, 51*, n. 6 *Psalm. 126, 2. et 3.*, n. 7 *Psalm. 41, 4 … Ps. 126, 2 … Gen. 21, 14*, n. 8 *Vers. 19 … Ps. 127, 2*, n. 9 *Vers. 4 … Thren. 4, 4*, n. 10 *Vers. 52 … Matth. 26, 26*, n. 11 *Vers. 11. et 12 … Sap. 16, 20*, n. 12 *Vers. 20 … Prov. 9, 5 … Eccli. 15, 3*, n. 13 *Serm. 1. … Dominica 6. … n. 4 … Serm. 3. … n. 2* (2×), n. 14 *Vers. 36 … 26, 26* (2×), n. 15 *Vers. 35 … Eccli. 24, 29-31*.
+- **Codex sigla:** H read with its crossbar at every site (p. 366 nn. 4 ×2, 9, 12; p. 367 n. 9; p. 368 nn. 7, 8) — no `II` in this chunk.
+
+**Registry.** `WORKS.lucam.divisions`: nothing to add. `KNOWN_TOTALS_VOL7`: **366 = 13 (SHARED, now complete: nn. 1–2 `c14-v7-11`, nn. 3–13 ours) · 367 = 14 · 368 = 12 · 369 = 15**; 370 not entered (no note of ours; `c14-v16-24` enters it). Runover ledger: the line above. Manifest: nothing touched.
+
+**Register (rulings 1–76 applied).** *informare / informatio* "form / formation" (ruling 12); *convivium* "banquet" in the prose (*familiare · indifferens · malum · bonum · caelestis*), the Douay's "feast" kept at the Luke 14:13 lemma and its quotations; *prandium* "dinner", *coena* "supper"; ***curialitas mundana* "worldly courtesy"** (p. 366 n. 4's *curialitatem divinam* "divine courtesy"); *caritas divina* "divine charity"; *retractio* "drawing back" (Vat. *resectio* "cutting off"); *eruditio / erudiens* "teaching" (kept off ruling 32's *documentum* "instruction"); *instructio doctrinae* "the instruction of doctrine"; *merces* "reward", *retributio* "retribution" in the prose, the lemma's Douay "recompense"; ***pietas* (human) "piety"** (ruling 51): ¶ 28 *convivium pietatis*, ¶ 29 I Tim. 4:8 "Piety", ¶ 30 *pietas fraterna* "fraternal piety", ¶ 31 *operibus pietatis*, and ¶ 27 *piam* "a pious one"; *poenitentia* "penance" (ruling 32); *dilectio* "love" inside Ecclus. 7:39's Douay (ruling 64 reaches prose only); *Sacramentum eucharistiae* "the Sacrament of the eucharist"; *in via / in patria* "on the way / in the fatherland" (house precedent); *senarius* "senary" (house precedent); *sacculus* "purse" at Ecclus. 17:18 (the `c6-v1-11` precedent); Douay spellings for names (ruling 35: Isaias, Baltasar, Amnon for the printed *Ammon*, Absalom, Abobus, Agar, Aser, Tobias).
+
+**Ruling-20 adjustments (the exposition leans; silent in the English, disclosed here).** Wis. 8:9 *ad convivandum* "to banquet with me" (Douay "to live with me"; the Vulgate's *convivendum*, the banquet the point); Deut. 8:3 / Matt. 4:4 *de ore Domini* "of the Lord" in ¶ 26 (Douay "of God"; ¶ 34's Matt. 4:4 *de ore Dei* keeps "of God"); Matt. 5:46 *ethnici* "the heathens" (Douay "publicans"); Luke 14:13 *debiles* "the feeble" (Douay "the maimed"; ¶ 30 expounds *propter defectum virium*, and the Douay's own Luke 14:21 has "feeble"); Deut. 33:9 *Ignoro illos, hi custodiunt legem tuam* "I know them not, these keep thy law"; Job 29:11 *testimonium reddebat* "gave testimony to me" (¶ 32 turns on *testimonium reddit*); Rom. 10:17 without "then"; Ecclus. 9:22 *in timore Domini* "of the Lord"; Ecclus. 12:2 *a Deo* "of God"; Dan. 5:1 *omnibus optimatibus suis* "for all his nobles"; Luke 20:36 *aequales erunt* "shall be equal"; Ecclus. 17:19 *retribuet illi retributionem* "shall render him retribution"; Gen. 3:19 *pane tuo* "thy bread".
+
+**Douay base following Quaracchi.** Luke 10:38–39 as Bonaventure paraphrases it; III John 5–6 to *caritati tuae*; Ecclus. 37:5 without "sometimes"; Prov. 23:20–21 in Quaracchi's order; Isa. 25:6 abridged; I Mac. 16:15–16 as paraphrased; Tob. 2:1–2 without "of the Lord"; Ps. 35:7–8 *quemadmodum* "how"; Ps. 126:2–3 *cum dederit* "when he shall give"; Gen. 21:14 *panem et utrem aquae*; I Kings 30:11–12 as given; Wis. 16:20 cut at *habentem*; Matt. 15:36 *Accipiens Iesus septem panes benedixit* as Bonaventure gives it (p. 369 n. 14 records the Vulgate).
+
+**⚖ FOR THE p. 381 GATE (recorded, not decided; numbered on from `c14-v7-11`'s (145)–(153)):** (154) ruling-20 adjustments Wis. 8:9 "to banquet with me", Deut. 8:3 / Matt. 4:4 "of the Lord" (¶ 26) beside ¶ 34's "of God", Matt. 5:46 "the heathens", Luke 14:13 *debiles* "the feeble", Deut. 33:9, Job 29:11 "gave testimony", Rom. 10:17, Ecclus. 9:22, Ecclus. 12:2, Dan. 5:1, Luke 20:36, Ecclus. 17:19, Gen. 3:19; (155) Douay base following Quaracchi (the list above); (156) new house words (*curialitas mundana* "worldly courtesy", *retractio* "drawing back", *occasio inducens · exhortatio erudiens · ratio persuadens* "the occasion inducing · the exhortation teaching · the reason persuading", *eruditio* "teaching", *sodalitas · affinitas · familiaritas · consanguinitas · pompositas* "fellowship · affinity · familiarity · consanguinity · pompousness", *convivium indifferens · malum · bonum*, *gastrimargia* "gluttony", *iactantia* "boasting", *convivium pietatis · caritatis · felicitatis*, *terrenitas* "earthliness", *carnalitas* "carnality", *commendatio pietatis fraternae · assignatio rationis inductivae · approbatio rationis inductae*, *senarius laboris / panum* "the senary of labour / of loaves", *panes praeambuli* "the loaves that go before", the seven breads *doloris poenitentiae · laboris iustitiae · instructionis doctrinae · Sacramenti eucharistiae · consolationis internae · contemplationis supernae · refectionis aeternae*); (157) *convivium* "banquet" in the prose against the Douay's "feast" kept at the Luke 14:13 lemma — ratify the split (ruling 28, with (149)) or conform; (158) human *pietas* for the *pietas* review's list: ¶ 27 *piam*, ¶ 28 *convivium pietatis*, ¶ 29 I Tim. 4:8 "Piety" (with (21)), ¶ 30 *pietas fraterna*, ¶ 31 *operibus pietatis*; (159) as printed: ¶ 33 closes on a comma *in patria,* (the English closes on a full stop), ¶ 27 *quocontra* one word, ¶ 28 *Ammon* (English "Amnon", ruling 35); (160) p. 366 n. 4 is Quaracchi's own substitution *caritatem divinam* from H against Vat. and other codd. *curialitatem divinam* (recurring at ¶ 30, p. 367 n. 14) — the edition's text followed, recorded; (161) p. 366 SHARED now complete in `KNOWN_TOTALS_VOL7` (13: nn. 1–2 `c14-v7-11`, nn. 3–13 ours); p. 370 carries no note of ours.
+
+**HAND-OFF to the next chunk (`bon-luc-c14-v16-24`, Cap. XIV ¶ 36 on).** ¶ 35 closes in the first two lines of 370L (~0.09) on *… « Qui elucidant me vitam aeternam habebunt ».* with no anchor; **p. 370's register is wholly yours** — n. 1 anchors ¶ 36's *parabolae*¹, n. 2 its *ibi*² (*Et coeperunt simul omnes excusare*). p. 369's n. 15 closes on its own page, so **p. 370's left footer block should open clean with n. 1** — read its head yourself. ¶ 36 opens below ¶ 35 with no heading: *36. (Vers. 16.). At ipse dixit ei: Homo quidam etc. Postquam informavit invitatos ad convivium nuptiale et invitantes ad convivium familiare; hic informat invitandos ad convivium aeternale per introductionem parabolae*¹ — the manifest's sentence title, TRUE to the plate at 0.9× (semicolon after *familiare*); marginale *Quoad invitandos ad convivium aeternale tanguntur tria.*, then *De primo tria.* Gutter 370 **1290** (rows 0.10–0.50: band 1260–1320, rule 1286–1293), measured ahead; re-profile pp. 371–375 yourself.
+
+**Verification at this chunk:** apparatus `--volume=vol7` **80 chunks / 4,272 entries, all passed** (pp. 366–369 complete) · census **vol7 80/80**, 216 runovers (188 gutter / 28 page; 77 positive, 3 negative) · style scan `--volume 7` **CLEAN (80 files)** · live flags unchanged (the one `[?]`, `c5-v12-16`) · `validate-chunk.py` OK · `(Vers.` 4 = 4, anchors 52 = 52 in order, ¶¶ 26–35 in both languages, `####` 0 = 0, guillemets 85 « / 85 » in each, page markers 5 = 5 · citations **44,538 records (+109 ours)**, **QA 213 (unchanged)** · anaphora unresolved **388 (unchanged; no *ibid.* / *loc. cit.*)**; p. 367 nn. 11, 12, 14 and p. 368 n. 11 page references resolve to `c11-v33-41`, `c10-v4-16`, this chunk and `c6-v1-11` · crossref index 1,877 cited / 11,318 backlinks · build **2,397/2,397 translated** (+1).

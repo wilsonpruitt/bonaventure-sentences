@@ -6213,8 +6213,15 @@ KNOWN_TOTALS_VOL7 = {
              # OVER THE GUTTER (L -> R: *cuius | finem*); n.15 RUNS OVER THE PAGE (its Liber de causis tail opens
              # p. 366's left block unnumbered). Gutter 1161 (band 1131-1191).
     366: 13, # SHARED. nn.1-2 bon-luc-c14-v7-11 (para 25 tail, 366L to ~0.31): anchors L 1-2. The left block
-             # opens unnumbered with p. 365 n.15's tail. nn.3-13 bon-luc-c14-v12-15 (from para 26, *familiare*3)
-             # (PENDING). Right block ends at n.13. Gutter 1304 (band 1274-1334).
+             # opens unnumbered with p. 365 n.15's tail. nn.3-13 bon-luc-c14-v12-15 (from para 26, *familiare*3):
+             # anchors L 3-7 / R 8-13. Blocks L [p.365 n.15 tail] 1-7 / R 7-13: n.7 RUNS OVER THE GUTTER
+             # (L -> R: *ad humilitatem | induxerat*). Gutter 1304 (band 1274-1334).
+    367: 14, # bon-luc-c14-v12-15 (paras 27 tail-30). Anchors L 1-6 / R 7-14. Blocks L 1-9 / R 9-14: n.9 RUNS
+             # OVER THE GUTTER (L -> R: *quae est | ex Gregor.*). Gutter 1156 (band 1127-1186).
+    368: 12, # bon-luc-c14-v12-15 (paras 30 tail-32). Anchors L 1-6 / R 7-12. Blocks L 1-4 / R 4-12: n.4 RUNS
+             # OVER THE GUTTER (L -> R: *divinorum myste-|riorum*). Gutter 1297 (band 1269-1326).
+    369: 15, # bon-luc-c14-v12-15 (paras 32 tail-35). Anchors L 1-7 / R 8-15. Blocks L 1-5 / R 6-15. No runover.
+             # Gutter 1150 (band 1121-1179). p.370 opens with para 35's last two lines (no note), then para 36.
 }
 
 KNOWN_TOTALS_BY_VOL = {
