@@ -5992,6 +5992,27 @@ KNOWN_TOTALS_VOL7 = {
              # no heading, at *commendationem veritatis apertae*16; *Vide supra n. 36. — Inferius post commendationis
              # Vat. addit laudativae.*; anchors and prints RIGHT). Blocks L 1-8 / R 9-16. No runover. Gutter 1140
              # (band 1112-1169, rule 1136-1148).
+             # Re-derived by bon-luc-c11-v27-32 at 1.4x: n.16 its own, true in anchor (para 58 *commendationem
+             # veritatis apertae*16, 295R) and in wording and digit (*n. 36*). Gutter 1144 for the region below
+             # para 57 (rows 0.52-0.75, band 1116-1173, rule 1141-1149).
+    296: 11, # bon-luc-c11-v27-32 (paras 58 tail-61). Anchors L 1-6 / R 7-11. Blocks L 1-7 / R 8-11 (n.7 anchors
+             # RIGHT, prints LEFT). No runover. Gutter 1303 (band 1273-1334, rule 1300-1306).
+    297: 12, # bon-luc-c11-v27-32 (paras 61 tail-63). Anchors L 1-5 / R 6-12. Blocks L 1-4 / R (4 tail) 5-12 (n.5
+             # anchors LEFT, prints RIGHT). n.4 RUNS OVER THE GUTTER (*religiosiores copulae | mentium docentur*).
+             # Gutter 1139 (band 1109-1169, rule 1135-1143).
+    298: 11, # bon-luc-c11-v27-32 (t4 + paras 64-66). Anchors L 1-4 / R 5-11. Blocks L 1-5 / R (5 tail) 6-11 (n.5
+             # anchors RIGHT, prints LEFT). n.5 RUNS OVER THE GUTTER (*pro quo codd. Matth. 27, | ubi tamen v. 45.*).
+             # Gutter 1309 (band 1281-1338, rule 1305-1313).
+    299: 11, # bon-luc-c11-v27-32 (paras 66 tail-69). Anchors L 1-6 / R 7-11. Blocks L 1-7 / R (7 tail) 8-11 (n.7
+             # anchors RIGHT, prints LEFT). n.7 RUNS OVER THE GUTTER (*Card. Hugo (in Matth. 12, 42. et in | Luc. 11,
+             # 31.)*). Gutter 1152 (band 1122-1181, rule 1149-1155).
+    300: 13, # SHARED. n.1 bon-luc-c11-v27-32 (para 69 tail, closing ~0.24 of 300L on *ne a Domino condemnemur.*,
+             # at *ad Galatas tertio*1; *Vers. 1, in cuius fine Vulgata praescriptus est, in vobis crucifixus.*).
+             # nn.2-13 PENDING for bon-luc-c11-v33-41 (the 300L t4 *Confutatur fallacia simulantium per duo.* over
+             # para 70; n.2 at *simulatorum*2: *Cfr. supra n. 36. — Superius pro blasphematorum nonnulli codd.
+             # blasphemorum.*). Anchors L 1-5 / R 6-13; blocks L 1-8 / R (8 tail) 9-13 (n.8 runs over the gutter;
+             # the p. 300 Corrigenda *suam* -> *suum* stands in its tail); read at 0.3-1.3x for the hand-off only.
+             # Gutter 1312 (band 1285-1340, rule 1307-1317).
 }
 
 KNOWN_TOTALS_BY_VOL = {
