@@ -6066,6 +6066,20 @@ KNOWN_TOTALS_VOL7 = {
              # servandam veracitatem.* over para 12; anchors R 7-12). Blocks L 1-4 / R (4 tail) 5-12 (nn.5-6
              # anchor LEFT, print RIGHT). n.4 RUNS OVER THE GUTTER (*et si cura* | *est Vat. prosequitur*).
              # Gutter 1147 (band 1117-1178, rule 1145-1151).
+             # Re-derived by bon-luc-c12-v8-12 at 1.4-2.4x: nn.7-12 its own, true in anchor (R, paras 12-13),
+             # wording and digit (*Rom. 10, 10*, *Prov. 11, 25*, *c. 12. n. 3*, *Matth. 25, 12* against the
+             # crossbarred 4 of *Vers. 34*). Gutter re-profiled 1148 (rows 0.20-0.60, band 1117-1179).
+    314: 11, # bon-luc-c12-v8-12 (paras 13 tail-16). Anchors L 1-7 / R 8-11. Blocks L 1-5 / R 6-11 (nn.6-7
+             # anchor LEFT, print RIGHT). No runover. Gutter 1299 (rows 0.20-0.50, band 1269-1329, rule 1296-1304).
+    315: 12, # bon-luc-c12-v8-12 (paras 16 tail-20; interior t4 over para 17). Anchors L 1-5 / R 6-12. Blocks
+             # L 1-6 / R (6 tail) 7-12 (n.6 *volentibus addiscere*6 anchors RIGHT, prints LEFT). n.6 RUNS OVER
+             # THE GUTTER (*Nolite solliciti esse, qualiter,* | *de modo proferendi*). Gutter 1163 (band
+             # 1133-1194, rule 1161-1167).
+    316: 16, # SHARED. nn.1-4 bon-luc-c12-v8-12 (para 20 tail, closing at ~0.29 of 316L on *« Fui in spiritu »
+             # etc.*). nn.5-16 PENDING for bon-luc-c12-v13-34 (316L t4 stack *Secundo ad cavendam cupiditatem
+             # ...* / *A sollicitudine avaritiae revocatur quadrupliciter.*; para 21 on). Anchors L 1-8 / R 9-16.
+             # Blocks L 1-5 / R (5 tail) 6-16. n.5 RUNS OVER THE GUTTER (*omittit ei;* | *idem recurrit*).
+             # Gutter 1308 (rows 0.20-0.60, band 1277-1339, rule 1306-1309).
 }
 
 KNOWN_TOTALS_BY_VOL = {

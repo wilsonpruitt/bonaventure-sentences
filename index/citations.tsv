@@ -37846,6 +37846,70 @@ bon-luc-c12-v1-7	7	apparatus:p312-11	p312-11	scripture	apparatus-explicit	Ps. 14
 bon-luc-c12-v1-7	7	apparatus:p312-11	p312-11	crossref	logical	I. Sent. lit. Magistri, d. XXXIX.	I:d39		distinctio			
 bon-luc-c12-v1-7	7	apparatus:p312-11	p312-11	crossref	anaphor->logical	ibid.	I:d39		distinctio	yes	I. Sent. lit. Magistri, d. XXXIX.	
 bon-luc-c12-v1-7	7	apparatus:p313-3	p313-3	scripture	apparatus-explicit	I. Petr. 5, 7	1Petr 5:7	A	verse			
+bon-luc-c12-v8-12	7	latin_body	p313-9	scripture	body-ordinal	ad Corinthios duodecimo	1Cor 12:3	B	verse			
+bon-luc-c12-v8-12	7	latin_body		scripture	body-ordinal	ad Romanos decimo	Rom 10	C	chapter			
+bon-luc-c12-v8-12	7	latin_body	p313-10	scripture	body-ordinal	ad Titum primo	Tit 1:16	B	verse			
+bon-luc-c12-v8-12	7	latin_body		scripture	body-ordinal	Matthaei septimo	Matth 7	C	chapter			
+bon-luc-c12-v8-12	7	latin_body		scripture	body-ordinal	Ioannis tertio	1Ioan 3	C	chapter			
+bon-luc-c12-v8-12	7	latin_body	p313-11	scripture	body-ordinal	Matthaei vigesimo quinto	Matth 25:34	B	verse			
+bon-luc-c12-v8-12	7	latin_body		scripture	body-ordinal	Proverbiorum undecimo	Prov 11	C	chapter			
+bon-luc-c12-v8-12	7	latin_body		scripture	body-ordinal	Matthaei vigesimo quinto	Matth 25	C	chapter			
+bon-luc-c12-v8-12	7	latin_body	p314-1	scripture	body-ordinal	Regum secundo	1Reg 2:30	B	verse			
+bon-luc-c12-v8-12	7	latin_body	p314-5	scripture	body-ordinal	ad Timotheum secundo	2Tim 2:12	B	verse			
+bon-luc-c12-v8-12	7	latin_body	p314-7	scripture	body-ordinal	ad Timotheum primo	1Tim 1:13	B	verse			
+bon-luc-c12-v8-12	7	latin_body	p314-10	scripture	body-ordinal	Matthaei duodecimo	Matth 12:32	B	verse			
+bon-luc-c12-v8-12	7	latin_body	p314-11	scripture	body-ordinal	Iob decimo quinto	Iob 15:26	B	verse			
+bon-luc-c12-v8-12	7	latin_body	p315-3	scripture	body-ordinal	Matthaei decimo	Matth 10:17	B	verse			
+bon-luc-c12-v8-12	7	latin_body	p315-4	scripture	body-ordinal	Iob trigesimo primo	Iob 31:34	B	verse			
+bon-luc-c12-v8-12	7	latin_body		scripture	body-ordinal	Actuum quinto	Act 5	C	chapter			
+bon-luc-c12-v8-12	7	latin_body		scripture	body-ordinal	ad Romanos decimo tertio	Rom 13	C	chapter			
+bon-luc-c12-v8-12	7	latin_body	p315-5	scripture	body-ordinal	Regum sexto	4Reg 6:16	B	verse			
+bon-luc-c12-v8-12	7	latin_body		scripture	body-ordinal	Actuum sexto	Act 6	C	chapter			
+bon-luc-c12-v8-12	7	latin_body		scripture	body-ordinal	Ioannis quarto	1Ioan 4	C	chapter			
+bon-luc-c12-v8-12	7	latin_body		scripture	body-ordinal	ad Philippenses quarto	Phil 4	C	chapter			
+bon-luc-c12-v8-12	7	latin_body		scripture	body-ordinal	Iacobi primo	Iac 1	C	chapter			
+bon-luc-c12-v8-12	7	latin_body	p315-7	scripture	body-ordinal	ad Corinthios secundo	1Cor 2:4	B	verse			
+bon-luc-c12-v8-12	7	latin_body		scripture	body-ordinal	Ioannis quinto	Ioan 5	C	chapter			
+bon-luc-c12-v8-12	7	latin_body	p315-8	scripture	body-ordinal	Proverbiorum tertio	Prov 3:5	B	verse			
+bon-luc-c12-v8-12	7	latin_body	p315-10	scripture	body-ordinal	Iob trigesimo secundo	Iob 32:8	B	verse			
+bon-luc-c12-v8-12	7	latin_body		scripture	body-ordinal	Ioannis decimo sexto	Ioan 16	C	chapter			
+bon-luc-c12-v8-12	7	latin_body		scripture	body-ordinal	ad Corinthios secundo	1Cor 2	C	chapter			
+bon-luc-c12-v8-12	7	latin_body	p315-11	scripture	body-ordinal	Sapientiae decimo	Sap 10:21	B	verse			
+bon-luc-c12-v8-12	7	latin_body		scripture	body-ordinal	Matthaei decimo	Matth 10	C	chapter			
+bon-luc-c12-v8-12	7	latin_body		scripture	body-ordinal	ad Corinthios decimo tertio	2Cor 13	C	chapter			
+bon-luc-c12-v8-12	7	latin_body		scripture	body-ordinal	Ioannis secundo	1Ioan 2	C	chapter			
+bon-luc-c12-v8-12	7	latin_body	p316-2	scripture	body-ordinal	Matthaei vigesimo secundo	Matth 22:40	B	verse			
+bon-luc-c12-v8-12	7	latin_body	p316-3	scripture	body-ordinal	Ioannis decimo quinto	Ioan 15:15	B	verse			
+bon-luc-c12-v8-12	7	latin_body	p316-4	scripture	body-ordinal	ad Corinthios duodecimo	2Cor 12:4	B	verse			
+bon-luc-c12-v8-12	7	latin_body		scripture	body-ordinal	Apocalypsis primo	Apoc 1	C	chapter			
+bon-luc-c12-v8-12	7	apparatus:p313-8	p313-8	scripture	apparatus-explicit	Matth. 10, 32	Matth 10:32	A	verse			
+bon-luc-c12-v8-12	7	apparatus:p313-9	p313-9	scripture	apparatus-explicit	Rom. 10, 10	Rom 10:10	A	verse			
+bon-luc-c12-v8-12	7	apparatus:p313-10	p313-10	scripture	apparatus-explicit	Matth. 7, 21	Matth 7:21	A	verse			
+bon-luc-c12-v8-12	7	apparatus:p313-10	p313-10	scripture	apparatus-explicit	I. Ioan. 3, 18	1Ioan 3:18	A	verse			
+bon-luc-c12-v8-12	7	apparatus:p313-11	p313-11	scripture	apparatus-explicit	Prov. 11, 25	Prov 11:25	A	verse			
+bon-luc-c12-v8-12	7	apparatus:p313-12	p313-12	scripture	apparatus-explicit	Matth. 25, 12	Matth 25:12	A	verse			
+bon-luc-c12-v8-12	7	apparatus:p313-12	p313-12	scripture	apparatus-explicit	Luc. 9, 26	Luc 9:26	A	verse			
+bon-luc-c12-v8-12	7	apparatus:p314-4	p314-4	scripture	apparatus-explicit	Matth. 25, 34	Matth 25:34	A	verse			
+bon-luc-c12-v8-12	7	apparatus:p314-7	p314-7	crossref	logical	II. Sent. d. 22. a. 2. q. 3.	bon-sent-II-d22-a2-q3		chunk			
+bon-luc-c12-v8-12	7	apparatus:p314-8	p314-8	crossref	logical	II. Sent. d. 43. dub. 2.	bon-sent-II-d43-dubia		chunk			dub-2
+bon-luc-c12-v8-12	7	apparatus:p314-10	p314-10	scripture	apparatus-explicit	Marc. 3	Marc 3	C	chapter			
+bon-luc-c12-v8-12	7	apparatus:p315-1	p315-1	crossref	logical	II. Sent. d. 43. a. 2. q. 1.	bon-sent-II-d43-a2-q1		chunk			
+bon-luc-c12-v8-12	7	apparatus:p315-3	p315-3	scripture	apparatus-explicit	Ps. 2, 2	Ps 2:2	A	verse			
+bon-luc-c12-v8-12	7	apparatus:p315-3	p315-3	scripture	apparatus-explicit	Act. 4, 26	Act 4:26	A	verse			
+bon-luc-c12-v8-12	7	apparatus:p315-4	p315-4	scripture	apparatus-explicit	Act. 5, 26	Act 5:26	A	verse			
+bon-luc-c12-v8-12	7	apparatus:p315-4	p315-4	scripture	apparatus-explicit	Rom. 13, 3	Rom 13:3	A	verse			
+bon-luc-c12-v8-12	7	apparatus:p315-5	p315-5	scripture	apparatus-explicit	Act. 6, 10	Act 6:10	A	verse			
+bon-luc-c12-v8-12	7	apparatus:p315-5	p315-5	scripture	apparatus-explicit	I. Ioan. 4, 4	1Ioan 4:4	A	verse			
+bon-luc-c12-v8-12	7	apparatus:p315-6	p315-6	scripture	apparatus-explicit	Phil. 4, 6	Phil 4:6	A	verse			
+bon-luc-c12-v8-12	7	apparatus:p315-6	p315-6	scripture	apparatus-explicit	Iac. 1, 5	Iac 1:5	A	verse			
+bon-luc-c12-v8-12	7	apparatus:p315-7	p315-7	scripture	apparatus-explicit	Ioan. 5, 39	Ioan 5:39	A	verse			
+bon-luc-c12-v8-12	7	apparatus:p315-10	p315-10	scripture	apparatus-explicit	Ioan. 16, 13	Ioan 16:13	A	verse			
+bon-luc-c12-v8-12	7	apparatus:p315-10	p315-10	scripture	apparatus-explicit	I. Cor. 2, 10	1Cor 2:10	A	verse			
+bon-luc-c12-v8-12	7	apparatus:p315-11	p315-11	scripture	apparatus-explicit	Matth. 10, 20	Matth 10:20	A	verse			
+bon-luc-c12-v8-12	7	apparatus:p315-11	p315-11	scripture	apparatus-explicit	II. Cor. 13, 3	2Cor 13:3	A	verse			
+bon-luc-c12-v8-12	7	apparatus:p316-1	p316-1	crossref	page	supra pag. 228, nota 8	bon-luc-c9-v18-27		chunk			fn-p228-8
+bon-luc-c12-v8-12	7	apparatus:p316-4	p316-4	scripture	apparatus-explicit	Ezech. 3, 12	Ezech 3:12	A	verse			
+bon-luc-c12-v8-12	7	apparatus:p316-4	p316-4	scripture	apparatus-explicit	Apoc. 1, 10	Apoc 1:10	A	verse			
 bon-luc-c2-v1-7	7	latin_body	p44-5	scripture	body-ordinal	Ieremiae vigesimo tertio	Ierem 23:5	B	verse			
 bon-luc-c2-v1-7	7	latin_body	p44-7	scripture	body-ordinal	Danielis secundo	Dan 2:40	B	verse			
 bon-luc-c2-v1-7	7	latin_body		scripture	body-ordinal	Ieremiae vigesimo septimo	Ierem 27	C	chapter			
