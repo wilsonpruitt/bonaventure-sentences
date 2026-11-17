@@ -6427,6 +6427,21 @@ KNOWN_TOTALS_VOL7 = {
              # 22's *Iesus*, n.10 *Vide supra n. 1 ...* at *mirabili*, n.11 *Vers. 15.* at *ibi*,
              # n.12 *Psalm. 147, 12. et 14 ...*, n.13 *Vers. 17 ...*, n.14 *Psalm. 38, 2.*; all
              # 433R). Blocks L 1-7 / R 8-14; no runover. Gutter 1190 (skew 18 px; one split).
+             # COMPLETE: nn.9-14 are bon-luc-c17-v11-19's (para 22 *Iesus*, *mirabili*, *ibi*;
+             # para 23 *Psalmus*, *quarto*, *Psalmus*; all 433R), read on the plate 2026-11-16.
+             # Gutter 1194 for the region 433R 0.20-0.75.
+    434: 16, # bon-luc-c17-v11-19 (paras 23 tail-27). Anchors L 1-8 / R 9-16; blocks L 1-8 / R 9-16.
+             # No runover. Gutter 1295.
+    435: 15, # bon-luc-c17-v11-19 (paras 27 tail-31). Anchors L 1-7 / R 8-15; blocks L 1-7 head / R 7
+             # tail 8-15: n.7 RUNS OVER THE GUTTER (*... quae occurrentes curat, qui | occursus est
+             # per poenitentiam ...*). Gutter 1176.
+    436: 15, # bon-luc-c17-v11-19 (paras 31 tail-34). Anchors L 1-8 / R 9-15; blocks L 1-8 / R 9-15.
+             # No runover. Gutter 1290.
+    437: 10, # SHARED (t3 *Curiositas Iudaeorum confutatur dupliciter.* at 437L ~0.38, below para 34
+             # closing 437L ~0.37). nn.1-4 bon-luc-c17-v11-19 (para 34 tail; all 437L). nn.5-10
+             # PENDING for bon-luc-c17-v20-30 (n.5 *Vide supra c. 11. n. 36.* at para 35's
+             # *curiositas*; nn.6-10 below it, 437L/R). Blocks L 1-6 head / R 6 tail 7-10: n.6
+             # RUNS OVER THE GUTTER (read at 0.3x; the next builder re-derives it). Gutter 1162.
 }
 
 KNOWN_TOTALS_BY_VOL = {
