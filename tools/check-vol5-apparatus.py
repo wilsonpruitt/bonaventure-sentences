@@ -6409,6 +6409,24 @@ KNOWN_TOTALS_VOL7 = {
              # *duodecimo*; all 429R). Blocks L 1-7 head / R 7 tail 8-12: n.7 RUNS OVER THE GUTTER
              # (*... Non nu- | merum statuit hic ...*); n.12 RUNS OVER THE PAGE onto p.430's left block.
              # Gutter 1169 (0.08-0.26) / 1177 (0.32-0.75).
+             # COMPLETE: nn.10-12 are bon-luc-c17-v5-10's (para 12 *quinto*, *ibi*; para 13
+             # *duodecimo*; 429R), read on the plate 2026-11-16; n.12's tail at the head of p.430's
+             # left block.
+    430: 13, # bon-luc-c17-v5-10 (paras 13 tail-16). Anchors L 1-6 / R 7-13; blocks L (p.429 n.12
+             # tail) 1-5 / R 6-13 (n.6 anchors left, prints right). No runover of its own.
+             # Gutter 1302 (skew 1305 -> 1294 down the leaf; one split).
+    431: 13, # bon-luc-c17-v5-10 (paras 16 tail-19). Anchors L 1-7 / R 8-13; blocks L 1-8 / R 9-13
+             # (n.8 anchors right, prints left). No runover. n.6 prints the editors' own
+             # *[? indulcata]*. Gutter 1152 (inked rule).
+    432: 11, # bon-luc-c17-v5-10 (paras 19 tail-21). Anchors L 1-6 / R 7-11; blocks L 1-4 / R 5-11
+             # (nn.5-6 anchor left, print right). No runover. Codex H printed `II` at n.7 (read H).
+             # Gutter 1302.
+    433: 14, # SHARED (t4 *Confirmatio per factum mirabile.* at 433R ~0.17, below para 21
+             # closing 433R ~0.155). nn.1-8 bon-luc-c17-v5-10 (para 21 tail; anchors L 1-7 / R 8).
+             # nn.9-14 PENDING for bon-luc-c17-v11-19 (n.9 *Cfr. supra pag. 425, nota 12.* at para
+             # 22's *Iesus*, n.10 *Vide supra n. 1 ...* at *mirabili*, n.11 *Vers. 15.* at *ibi*,
+             # n.12 *Psalm. 147, 12. et 14 ...*, n.13 *Vers. 17 ...*, n.14 *Psalm. 38, 2.*; all
+             # 433R). Blocks L 1-7 / R 8-14; no runover. Gutter 1190 (skew 18 px; one split).
 }
 
 KNOWN_TOTALS_BY_VOL = {
