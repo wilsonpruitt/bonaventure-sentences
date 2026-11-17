@@ -6392,6 +6392,23 @@ KNOWN_TOTALS_VOL7 = {
              # n.12 *Vers. 5; tertia incipit v. 11 ...* at *ibi*; both 425R). Blocks L 1-7 head / R 7
              # tail 8-12: n.7 RUNS OVER THE GUTTER (*... in Apostolos impe- | tum faciebant ...*).
              # Gutter 1145 (0.08-0.30) / 1143 (0.25-0.47) / 1145 (Cap. XVII region 0.56-0.95).
+             # COMPLETE: nn.11-12 are bon-luc-c17-v1-4's (para 1 *spiritualem*, *ibi*; 425R), read on
+             # the plate 2026-11-16.
+    426: 12, # bon-luc-c17-v1-4 (para 1 tail, the 426L t4, paras 2-4). Anchors L 1-5 / R 6-12;
+             # blocks L 1-4 / R 5-12 (n.5 anchors left, prints right). No runover. Codex H with a
+             # faint crossbar at n.3 (read H). Gutter 1309.
+    427: 13, # bon-luc-c17-v1-4 (paras 4 tail-7). Anchors L 1-7 / R 8-13; blocks L 1-6 / R 7-13
+             # (n.7 anchors left, prints right). No runover. n.4 *eundum* [so printed]. Gutter 1171.
+    428: 12, # bon-luc-c17-v1-4 (paras 7 tail-10). Anchors L 1-6 / R 7-12; blocks L 1-5 head / R 5
+             # tail 6-12: n.5 RUNS OVER THE GUTTER (*... Vel potest esse accu- | sativi casus ...*).
+             # Gutter 1312.
+    429: 12, # SHARED (t4 *Manuductio per duplex exemplum sensibile.* at 429R ~0.27, below para 11
+             # closing 429R ~0.24). nn.1-9 bon-luc-c17-v1-4 (paras 10 tail-11; anchors L 1-7 / R 8-9).
+             # nn.10-12 PENDING for bon-luc-c17-v5-10 (n.10 *Vers. 16. — Cfr. supra n. 1.* at para 12's
+             # *quinto*, n.11 *Vers. 7.* at *ibi*, n.12 *Vers. 8. et 9. Cfr. Cyrill. ...* at para 13's
+             # *duodecimo*; all 429R). Blocks L 1-7 head / R 7 tail 8-12: n.7 RUNS OVER THE GUTTER
+             # (*... Non nu- | merum statuit hic ...*); n.12 RUNS OVER THE PAGE onto p.430's left block.
+             # Gutter 1169 (0.08-0.26) / 1177 (0.32-0.75).
 }
 
 KNOWN_TOTALS_BY_VOL = {

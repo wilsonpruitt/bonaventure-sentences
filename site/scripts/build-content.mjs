@@ -1217,6 +1217,14 @@ const WORKS = {
       // ruling 22, the c12-v1-7 shape). The running head of p. 402 already reads
       // C. XVI. above Cap. XV's close.
       16: "Capitulum XVI",
+      // `CAPITULUM XVII.` read in place on p. 425 at bon-luc-c17-v1-4: full-measure
+      // centred small capitals at ~0.53 of the leaf, below Cap. XVI's last para 61
+      // (…qui praeparatus est diabolo et angelis eius ».), no subtitle, unanchored. Below
+      // it in 425L the t4 `De pietate humana quoad opera spiritualia tripliciter.` over
+      // para 1, which runs on to the t4 at the head of 426L, `Informatio per documentum
+      // rationabile.`, the title_la (ruling 22; the c15-v1-7 shape). The running head of
+      // p. 425 already reads C. XVII. above Cap. XVI's close.
+      17: "Capitulum XVII",
     },
   },
 };
