@@ -6533,6 +6533,24 @@ KNOWN_TOTALS_VOL7 = {
              # bon-luc-c18-v15-17's (anchors L 1-8 / R 9, n.9 at *Iudith nono*). nn.10-13 PENDING
              # for bon-luc-c18-v18-27 (n.10 *Cfr. supra c. 17. n. 35.* at para 34's *partis*).
              # Blocks L 1-6 / R 7-13. Gutter: 16 px skew, one split 1288.
+             # COMPLETE: nn.10-13 are bon-luc-c18-v18-27's (all anchored 460R: n.10 *partis*, n.11
+             # *decimo nono*, n.12 *ibi* in the subdivisio, n.13 *Glossa* in para 35; printed R),
+             # read on the plate 2026-11-16. n.13 closes at the right block's foot; p.461's left
+             # block opens on its own n.1 - no runover. Gutter below the stack: 1287.
+    461: 13, # bon-luc-c18-v18-27 (paras 35 tail-37). Anchors L 1-5 / R 6-13; blocks L 1-3 /
+             # R 4-13 (nn.4-5 anchor left, print right). No runover. Gutter 1157.
+    462: 13, # bon-luc-c18-v18-27 (paras 37 tail-41 head). Anchors L 1-7 / R 8-13 (n.8 at
+             # *Eccle-|siastici tertio* on 462R's first line); blocks L 1-7 / R 8-13. No runover.
+             # Gutter 1318.
+    463: 14, # bon-luc-c18-v18-27 (paras 41 tail-42). Anchors L 1-8 / R 9-14; blocks L 1-6 /
+             # R 7-14 (nn.7-8 anchor left, print right). No runover. Gutter 1151.
+    464: 15, # bon-luc-c18-v18-27 (paras 42 tail-44). Anchors L 1-9 / R 10-15; blocks L 1-9 /
+             # R 10-15. No runover. Gutter 1308 (30 px band, inked rule 1297-1310).
+    465: 15, # SHARED. para 46 of bon-luc-c18-v18-27 closes 465R ~0.17 (... impossibile apud
+             # Deum omne verbum ».); para 47 *(Vers. 28.) Ait autem Petrus* opens directly below,
+             # no heading. nn.1-9 bon-luc-c18-v18-27's (anchors L 1-8 / R 9, n.9 at 465R's
+             # *secundae ad Corinthios nono*). nn.10-15 PENDING for bon-luc-c18-v28-43 (n.10
+             # *Cfr. supra n. 34.* at para 47's *tertio*). Blocks L 1-7 / R 8-15. Gutter 1166.
 }
 
 KNOWN_TOTALS_BY_VOL = {
