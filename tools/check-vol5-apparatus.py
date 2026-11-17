@@ -6482,6 +6482,21 @@ KNOWN_TOTALS_VOL7 = {
              # bon-luc-c17-v31-37's (*Ambrosius*1, *Psalmi*2, both 448L top band). nn.3-11 PENDING
              # for bon-luc-c18-v1-8 (n.3 *Cfr. supra c. 17. n. 35.* at para 1's *suffragia*). Blocks
              # L 1-6 / R 7-11. Gutter 1301 (0.25-0.45) / 1304 (0.45-0.65).
+             # COMPLETE: nn.3-11 are bon-luc-c18-v1-8's (para 1 *suffragia*3, *ibi*4, *ibi*5;
+             # para 2 *rogandus est*6, *Glossa*7 in 448L; 448R *Psalmo*8, *quinto*9, *Glossa*10,
+             # *Hieronymus*11), read on the plate 2026-11-16. No runover. Gutter 1300 / 1304.
+    449: 14, # bon-luc-c18-v1-8 (paras 2 tail-4). Anchors L 1-7 / R 8-14; blocks L 1-7 head /
+             # R 7 tail 8-14: n.7 RUNS OVER THE GUTTER (*... post* | *quem Act. 1, 14 ...*).
+             # Gutter 1161.
+    450: 11, # bon-luc-c18-v1-8 (paras 4 tail-8). Anchors L 1-7 / R 8-11; blocks L 1-6 / R 7-11.
+             # No runover. Gutter 1268 (0.10-0.35) / 1278 (0.40-0.65), skew 10 px.
+    451: 10, # bon-luc-c18-v1-8 (paras 8 tail-11). Anchors L 1-5 / R 6-10; blocks L 1-4 / R 5-10.
+             # No runover. Gutter 1175 (0.10-0.35) / 1168 (0.40-0.65), skew 7 px.
+    452: 13, # SHARED. para 12 of bon-luc-c18-v1-8 (closing v. 8) ends at the foot of 452L
+             # (... in manu iniquitatis nostrae ».); para 13 *Dixit autem*7 *ad quosdam* opens at
+             # the head of 452R, no heading. nn.1-6 bon-luc-c18-v1-8's (all anchored 452L).
+             # nn.7-13 PENDING for bon-luc-c18-v9-14 (n.7 *Cfr. supra pag. 448, nota 4.* at para
+             # 13's *autem*). Blocks L 1-6 / R 7-13. Gutter 1263.
 }
 
 KNOWN_TOTALS_BY_VOL = {

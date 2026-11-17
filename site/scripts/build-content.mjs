@@ -1225,6 +1225,14 @@ const WORKS = {
       // rationabile.`, the title_la (ruling 22; the c15-v1-7 shape). The running head of
       // p. 425 already reads C. XVII. above Cap. XVI's close.
       17: "Capitulum XVII",
+      // `CAPITULUM XVIII.` read in place on p. 448 at bon-luc-c18-v1-8: full-measure
+      // letter-spaced small capitals, WITH its period, at ~0.19 of the leaf, below Cap.
+      // XVII's last para 62 (...et sic semper cum Domino erimus ».), which runs across the
+      // top band of both columns; no subtitle, unanchored (p. 448's nn. 3-11 anchor in
+      // para 1's body and after). Below it in 448L the t4 `De persuasione studiositatis
+      // exhibentur duo.` (unanchored), the only heading of the stack and the title_la
+      // (ruling 22), over para 1 `Dicebat autem et parabolam ad illos etc.`
+      18: "Capitulum XVIII",
     },
   },
 };
