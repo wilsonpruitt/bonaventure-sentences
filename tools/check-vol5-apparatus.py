@@ -6551,6 +6551,31 @@ KNOWN_TOTALS_VOL7 = {
              # no heading. nn.1-9 bon-luc-c18-v18-27's (anchors L 1-8 / R 9, n.9 at 465R's
              # *secundae ad Corinthios nono*). nn.10-15 PENDING for bon-luc-c18-v28-43 (n.10
              # *Cfr. supra n. 34.* at para 47's *tertio*). Blocks L 1-7 / R 8-15. Gutter 1166.
+             # Now COMPLETE: nn.10-15 bon-luc-c18-v28-43's (all anchored 465R; n.15 closes at
+             # the right block's foot, p. 466's left block opens on its own n. 1, no runover).
+    466: 13, # bon-luc-c18-v28-43 (paras 48-50 head). Anchors L 1-8 / R 9-13; blocks L 1-8 /
+             # R 9-13. n.8 (Gregory, VII Moral.) runs over the GUTTER from the left block into
+             # the head of the right. Gutter 1274.
+    467: 16, # bon-luc-c18-v28-43 (paras 50 tail-53). Anchors L 1-9 / R 10-16; blocks L 1-7 /
+             # R 8-16 (nn.8-9 anchor left, print right). n.14 prints *Vers. 35* without a
+             # point, as printed. Gutter 1171.
+    468: 14, # bon-luc-c18-v28-43 (paras 53 tail-55). Anchors L 1-5 / R 6-14; blocks L 1-5 /
+             # R 6-14. No runover. Gutter 1280 (8 px drift, one split).
+    469: 12, # bon-luc-c18-v28-43 (paras 55 tail-57). Anchors L 1-6 / R 7-12; blocks L 1-5 /
+             # R 6-12 (n.6 anchors left, prints right). No runover. Gutter 1169.
+    470: 11, # bon-luc-c18-v28-43 (paras 57 tail-60). Anchors L 1-5 / R 6-11; blocks L 1-5 /
+             # R 6-11. No runover. Gutter 1282.
+    471: 13, # bon-luc-c18-v28-43 (paras 60 tail-64). Anchors L 1-6 / R 7-13; blocks L 1-7 /
+             # R 8-13 (n.7 anchors right, prints left). n.6 prints *Psalm. 77, 2* for Ps.
+             # 87:2 (Quaracchi slip, transcribed as printed). Gutter 1163.
+    472: 12, # SHARED - THE p. 472 GATE. para 66 (Cap. XVIII's LAST) runs 472L -> 472R and
+             # closes 472R ~0.40 (... maior enim est omni laude ».); CAPITULUM XIX. full
+             # measure ~0.43; the 472L t4 *Secundo confutat curiositatem in possidendo
+             # approbando liberalitatem duplicem.* and Cap. XIX para 1 below. nn.1-7
+             # bon-luc-c18-v28-43's (anchors L 1-4 / R 5-7; blocks L 1-6 / R 7-12, nn.5-6
+             # anchor right, print left). nn.8-12 PENDING for the next interval's first
+             # chunk (n.8 *Cfr. supra c. 18. n. 34.* at Cap. XIX para 1's *secundo*).
+             # Gutter 1269 above CAPITULUM XIX., 1276 below.
 }
 
 KNOWN_TOTALS_BY_VOL = {
