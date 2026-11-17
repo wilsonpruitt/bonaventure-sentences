@@ -6465,6 +6465,23 @@ KNOWN_TOTALS_VOL7 = {
              # ».) with NO anchor in its three lines; para 53 *In illa die*1 opens below. nn.1-15
              # ALL PENDING for bon-luc-c17-v31-37 (n.1 at para 53's *die*, n.2 *Vide supra n. 41.* at
              # *modum evadendi*). Read at 0.55x for count and ownership only. Gutter 1318 (rule wide).
+             # COMPLETE: nn.1-15 are bon-luc-c17-v31-37's (para 53 *die*1, *evadendi*2, *ibi*3; para 54
+             # on 444L 4-9; 444R 10-15), read on the plate 2026-11-16. Anchors L 1-9 / R 10-15; blocks
+             # L 1-9 head / R 9 tail 10-15: n.9 RUNS OVER THE GUTTER (*... In fine Glossae textus ori- |
+             # ginalis addit ...*). Gutter 1314 (rows 0.12-0.35) / 1322 (0.40-0.65), skew 8 px.
+    445: 12, # bon-luc-c17-v31-37 (paras 55 tail-58 head). Anchors L 1-7 / R 8-12; blocks L 1-4 /
+             # R 5-12. No runover. Gutter 1157.
+    446: 13, # bon-luc-c17-v31-37 (paras 58-59). Anchors L 1-7 / R 8-13; blocks L 1-8 / R 9-13.
+             # No runover. Gutter 1304 (0.10-0.35) / 1294 (0.40-0.65), skew 10 px.
+    447: 14, # bon-luc-c17-v31-37 (paras 60-62 head). Anchors L 1-7 / R 8-14; blocks L 1-9 /
+             # R 10-14. No runover. Gutter 1151.
+    448: 11, # SHARED. para 62 of bon-luc-c17-v31-37 (Cap. XVII's LAST para) closes across the top
+             # band of BOTH columns (~0.03-0.11; 448R *... et sic semper cum Domino erimus ».*);
+             # full-measure CAPITULUM XVIII. at ~0.19; the 448L t4 *De persuasione studiositatis
+             # exhibentur duo.* below it, then para 1 *Dicebat autem et parabolam*. nn.1-2
+             # bon-luc-c17-v31-37's (*Ambrosius*1, *Psalmi*2, both 448L top band). nn.3-11 PENDING
+             # for bon-luc-c18-v1-8 (n.3 *Cfr. supra c. 17. n. 35.* at para 1's *suffragia*). Blocks
+             # L 1-6 / R 7-11. Gutter 1301 (0.25-0.45) / 1304 (0.45-0.65).
 }
 
 KNOWN_TOTALS_BY_VOL = {
