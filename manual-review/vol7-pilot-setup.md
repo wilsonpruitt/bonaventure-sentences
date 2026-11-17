@@ -381,7 +381,8 @@ are not repeated. Gate record: `manual-review/vol7-lucam-shakedown-gate.md`. Mec
   evangelizans* keeps the Douay's "preaching and evangelizing". Both *bona nuntiatio* renderings stand ("good
   announcement" where the gloss hangs on *annuntiare*, prooem ¶ 14; "good tidings" where it hangs on
   *evangelizare*, `c1-v18-25` ¶ 31). `c1-v18-25` ratified as built, 0 lines; the prooem Notes' claim that 4:43
-  "preach the gospel" is the Douay's wording is corrected.
+  "preach the gospel" is the Douay's wording is corrected. **(Passive form added by ruling 101, p. 472 gate: *regnum
+  Dei evangelizatur* (Luke 16:16) "is preached as gospel".)**
 - **19. *verecundia* (sheet § 3).** ***verecundia* → "shamefastness", *verecundus* → "shamefast", for the whole
   work** (the Hexaemeron's *modestia, verecundia* precedent; `c1-v26-38` ¶¶ 50–51 as built). ***pudicitia* →
   "purity"** (the QPE rendering). So *modestia* alone takes "modest(y)", and *pudor* "shame". Applied:
@@ -524,7 +525,7 @@ evidence, censuses and alternatives are in the sheet, by § number, and are not 
   | *baptismus fluminis, flaminis, sanguinis* | Vol IV house rendering |
   | *femina est vir occasionatus* | "woman is a misbegotten man" (reported formula; not softened) |
   | *status* · *situs* (¶ 61's seven differences) | "stopping-place" · "position" |
-  | *intellectus* · *intelligentia*; *in intellectu … in affectu* | "understanding" · "intelligence"; "in the intellect … in the affection" (ruling 17; Vol VI ruling 101) |
+  | *intellectus* · *intelligentia*; *in intellectu … in affectu* | "understanding" · "intelligence"; "in the intellect … in the affection" (ruling 17; Vol VI ruling 101); scope: the locative formula *in intellectu … in affectu* (and the faculty named so) "intellect"; elsewhere *intellectus* "understanding" even beside *affectus*, an echo of a Douay verse following the verse (**added by ruling 97**, p. 472 gate) |
   | *benignitas* · *benignus* | "kindness" · "kind", into quotations too (**added by ruling 45**, p. 188 gate) |
   | *caritas* | "charity", into quotations too (**added by ruling 52**) |
   | *curare* / *curatio* · *sanare* / *sanatio* | "cure" · "heal" / "healing" in Bonaventure's prose; the Douay's "heal" in a verse where nothing leans; an echo of the lemma follows it (**added by ruling 53**) |
@@ -678,6 +679,9 @@ The evidence, censuses and alternatives are in the sheet, by § and item number,
 - **54. *puer* "boy" (prose) / "servant" (the Douay's verses) and Gen. 15:6 *Credidit Abraham* "Abraham" RATIFIED**
   (item 39). **Clarifies ruling 35: the Douay's spelling at the verse governs the orthography of the name Quaracchi
   prints; where Quaracchi prints a different name form (*Abraham* for *Abram*), ruling 28 keeps Quaracchi's.**
+  **(Clarified by ruling 93, p. 472 gate: *puer* the servant "boy" in prose / "servant" in the Douay's verses
+  (`c7-v1-16`, Luke 12:45); *puer* the child "child(ren)", the work's ~60 sites from Cap. I on (`c18-v15-17` conformed
+  at the p. 472 gate).)**
 - **55. *credulitas* → "belief", WORK-WIDE** (item 42 + F9); *incredulitas* "unbelief"; *fides* "faith". Applied:
   `c1-v26-38` ¶ 67 ×2, ¶ 69 → "belief" (3 sites, 3 lines; the sheet said 2 lines — ¶ 67 stands on two). Written into
   ruling 32's table.
@@ -891,7 +895,8 @@ Notes records in 19 chunks; no line in any `## Latin` body or `**La.**` half cha
   `bon-cioan-c8`, "piously" in `bon-don-c3` and Lucam ×2 — a cross-volume split; ruling 51 governs Lucam.
 - **87. Item 10 RATIFIED: *anima* "soul" where the exposition leans, the Douay's "life" where nothing leans; the other
   ruling-20 / ruling-28 splits as a batch** (*ubera*, *sacculus*, *monumentum / sepulcrum*, *nuptiae*, *convivium*,
-  *supplicium*, *remittetur*, *dispensator*, Mark 3:2 / Luke 14:3, Matt. 4:4, Ecclus. 1:39, Rom. 1:21). Recorded: F12(b)
+  ~~*supplicium*~~ **[the *supplicium* clause REPLACED by ruling 94, p. 472 gate: *supplicium* → "penalty", the house
+  rule `CLAUDE.md:3502`; the struck word is kept visible]**, *remittetur*, *dispensator*, Mark 3:2 / Luke 14:3, Matt. 4:4, Ecclus. 1:39, Rom. 1:21). Recorded: F12(b)
   Luke 14:26 "his own **life**" `c12-v49-59` ¶ 75 (adduced) / "his own **soul**" `c14-v25-35` ¶ 52 (the lemma; ¶ 53
   leans), a cross-chunk ruling-28 split (both chunks' Notes); F12(c) John 12:25 "soul" at all three Lucam sites, each on
   a leaning paragraph. F6 (ruling 84) was the one unlicensed split.
@@ -939,3 +944,140 @@ Notes records in 19 chunks; no line in any `## Latin` body or `**La.**` half cha
 **The front is `bon-luc-c15-v1-7`** (manifest stage 5, `21637e0`, pp. 381–472): it opens at Cap. XV ¶ 1 on p. 381, and
 p. 381 nn. 12–13 and the t4 *Impietas Iudaeorum…* are its. Under ruling 86 its first divine `tr-pietas` names the
 *impietas / pietas divina / pietas humana* divisio.
+
+# *LUCAM* p. 472 GATE — RULINGS 93–104 (Wilson, 2026-11-17; "Approve all")
+
+Binding summary. Every ⭐ recommendation of `manual-review/vol7-lucam-p472-gate-evidence-sheet.md` was taken as
+written, including the four the sheet marked as needing Wilson's own judgment: § 1 *puer* "child(ren)"; § 3
+*supplicium* → "penalty", which re-opens one clause of ruling 87; the ~25 pre-interval lines go in now; D-3's scope
+clause in ruling 32's row. The passes draft (`manual-review/vol7-lucam-p472-gate-passes-draft.md`) found no defect beyond
+the sheet's (its N-1..N-3 are F2, F3, F4; R-1 is F10; O-1 is in § 1). The evidence, censuses and alternatives are in
+those two documents, by § and item number, and are not repeated. Gate record: `manual-review/vol7-lucam-p472-gate.md`.
+**60 English lines changed: 35 in 13 interval chunks + 25 in 14 pre-interval chunks (one of the 60 is a `tr-`
+definition) + Notes records in 28 chunks; no line in any `## Latin` body or `**La.**` half changed.** Four manifest
+cells corrected in three rows (ruling 100). Ruling 32's *intellectus* row gains a scope clause (ruling 97); ruling 54 a
+clarifying sentence (ruling 93); ruling 18 the passive form (ruling 101); ruling 87's *supplicium* clause is replaced
+(ruling 94). No CLAUDE.md change: **`CLAUDE.md:3502` stands.**
+
+- **93. § 1: *puer* the child → "child(ren)"; ruling 54 CLARIFIED** (item 12 [239]; F5; passes O-1). Ruling 54 was
+  ratified on the centurion's *puer* (`c7-v1-16`, a servant) and its reason was to keep *puer* off *servus*; it was
+  never put to a *puer* who is a child, whom the work had already rendered "child" ~60 times. `c18-v15-17` conformed
+  through the pericope, ¶¶ 29–33 (**12 lines**: 6 body, 6 apparatus **En.**): the lemma Luke 18:16–17, the prose, the
+  Gloss, and the adduced verses, which return to the Douay's "child(ren)" or are adjusted to it (ruling 20; ¶¶ 29–31
+  lean); ¶ 29 *infantium puerorum* "infant children"; p. 460 n. 2 *puer* ("child"), matching p. 283 n. 7. **The three
+  "servant" verses keep the Douay** (Job 29:5, Ps. 104:42, Matt. 12:18: the *puer*-as-servant of ruling 54's own verse
+  half); Luke 1:54 "his child" stays with `c1-v46-56` ¶ 99 (ruling 28); *infantes* "infants", *parvuli* "little ones"
+  unchanged. This closes the four cross-chunk splits the build made (Luke 11:7 at `c11-v5-13` and `c18-v1-8` ¶ 8; Osee
+  11:1; I Cor. 14:20; Luke 1:76). **Ruling 54 now reads, with its clarification: *puer* the servant "boy" in prose /
+  "servant" in the Douay's verses (`c7-v1-16`, Luke 12:45); *puer* the child "child(ren)".**
+- **94. § 3: *supplicium* → "penalty", THE HOUSE RULE RESTORED; `e810ccc` (D-4) RATIFIED** (item 14 [166, 190, 225, 272];
+  F1). **The binding rule is `CLAUDE.md:3502`: *poena* → "punishment"; *supplicium* → "penalty"** (Vol VI rulings 20,
+  59, 101, 109; carried into Luke by ruling 11). **It stands.** Vol VI ruling 59 made it so because one English word for
+  both produced "the punishment of punishment", and refused "torment" as *tormentum* / *cruciatus*'s word. **The
+  "*supplicium* 'punishment' / 'torment' by sense; never 'penalty'" line that every builder of the interval carried did
+  not come from any ruling.** It came from the orchestrator's briefs for chunks 14–19 of stage 5 and from the
+  `e810ccc` correction's framing. Ruling 87 ratified "*supplicium*" as one item of a batch of ruling-20 / 28 splits and
+  said nothing about "never 'penalty'"; the p. 381 docket did not put `CLAUDE.md:3502` or Vol VI ruling 59 before
+  Wilson. **Ruling 87's *supplicium* clause is therefore replaced by this ruling** (struck in place, kept visible).
+  `e810ccc` (the `c17-v20-30` *poena* "punishment" conformation, 2026-11-16) applied `CLAUDE.md:3502` correctly and is
+  ratified after the fact. Applied: **16 interval lines** (`c16-v22-31` ×5, `c17-v1-4` ×2, `c17-v20-30` ×3,
+  `c17-v31-37` ×2, `c18-v1-8` ×1 (p. 452 n. 1 **En.**), `c18-v9-14` ×1, `c18-v28-43` ×2; 19 Latin sites) **+ 11
+  pre-interval lines** (`c9-v37-45` ¶ 83, `c10-v4-16` p. 260 n. 6 **En.**, `c12-v1-7` ¶ 8 ×2 lines, `c12-v49-59` ¶ 87,
+  `c13-v1-9` ¶¶ 1–2 ×2 lines, `c13-v22-30` ¶¶ 48, 59, 63, `c14-v16-24` ¶ 49; 16 Latin sites, plus `c12-v1-7`'s elided
+  *spirituale* [sc. *supplicium*], whose English supplies the noun). The ten Cap. I–VII "penalty" sites needed no edit.
+  Item 14's collision is gone: `c17-v20-30` ¶ 45 "the *punishment*" / ¶ 49 "the *penalty*"; Gregory's ¶ 58 "tormented
+  the more in penalties … the punishment of those"; ¶ 52 / ¶ 55 "the bitterness of the penalty". *tormentum* /
+  *cruciatus* keep "torment". Builders' register lines saying otherwise are superseded and left as written (each
+  chunk's gate paragraph says so). After it the work has one English word for each Latin word, as Vol VI.
+- **95. F2 APPLIED: *poena* "penalty" → "punishment"; F3 RECORDED as a sense exception** (passes N-1, N-2). F2, 6
+  regions on **1 interval + 5 pre-interval lines**: `c16-v1-8` p. 405 n. 3 **En.** "that I may avoid the
+  punishments"; `c12-v49-59` ¶ 86 "exact the punishment for the fault … that punishment is irremediable", ¶ 87 Bede
+  "He pays the punishments for his sins", Augustine "not a term of the punishment" (the same line as ruling 94's ¶ 87
+  edit), p. 335 n. 9 **En.** "exacts the punishment", n. 13 **En.** "the everlasting punishments"; `c1-v18-25` p. 18
+  n. 6 **En.** "paid the punishment" (stiff, as the rule is). **F3: `c16-v19-22` p. 417 n. 12 Chrysostom's
+  *magnitudo poenarum* "the greatness of the pains" KEPT, a recorded sense exception to the *poena* row**: Lazarus's
+  bodily sores, no penal sense; the precedent is `c13-v22-30` ¶¶ 59–60 *poena sensus / poena damni* "the pain of sense
+  / the pain of loss". *poena* → "pain(s)" stands in those three regions only.
+- **96. F4, F6, F7, F9 APPLIED** (one word each). F4 (= passes N-3; ruling 86): `c18-v18-27` ¶ 44 Bernard's *Non sic,
+  impie* "Not so, **impious one**" (1 line). F6 (ruling 88's house word *simulatio* "dissembling"): `c15-v1-7` ¶ 1, ¶ 5
+  "*the dissembling of the equity of justice*", ¶ 5 "by dissembling equity" (2 interval lines) + **8 pre-interval
+  lines** (`c6-v1-11` ¶ 6 "the dissembling of hypocrisy" ×2, `c6-v39-49` ¶¶ 99, 105 "a / the deceptive dissembling",
+  `c9-v1-9` ¶ 7 "the doubleness of dissembling", `c9-v57-62` ¶¶ 102–105 ×4 lines); Rom. 12:9 "without dissimulation"
+  (a Douay verse) and `c15-v1-7` ¶ 2's adverb *simulate* "in pretence" stand. F7 (ruling 71): `c16-v9-18` ¶ 17
+  "faithlessness … faithlessness", ¶ 19 "the peril of faithlessness" (2 lines). F9: `c17-v11-19` `tr-praeceptor`
+  no longer says the Douay prints "Jesus, master" (`DRC.json`: "Jesus, Master"); it reads "Quaracchi sets the word in
+  lower case here; the capital follows the Douay and the earlier sites." (1 line, the one `tr-` definition changed).
+- **97. D-3 RATIFIED with a scope clause in ruling 32's row; F8 APPLIED** (item 16 [138, 229, 275]). `c17-v1-4` ¶ 11
+  and `c17-v5-10` ¶ 14 keep "the understanding … the affection" (faculty pairs, not the formula; ¶ 14 echoes II Cor.
+  10:5 "every understanding"); `c18-v9-14` ¶ 26 (the formula, "intellect") and [275] ratified as built. **Ruling 32's
+  *intellectus* row gains: "scope: the locative formula *in intellectu … in affectu* (and the faculty named so)
+  'intellect'; elsewhere *intellectus* 'understanding' even beside *affectus*, an echo of a Douay verse following the
+  verse"** — the narrow reading of the row, chosen over Vol VI ruling 101's wider one. F8, **2 pre-interval lines**, the
+  two locative-formula sites the p. 88 interval left "understanding": `c1-v39-45` ¶ 71 "*the certification of truth* in
+  the intellect and *the showing of charity* in the affection and effect"; `c1-v46-56` ¶ 96 "proud in the intellect
+  through *presumption* and in the affection".
+- **98. § 2: Ps. 35:10 and John 8:12 RATIFIED as built** (item 13 / D-2 [99, 184, 271]; F14). Under the test
+  (ruling 27; its unit, ruling 50) `c16-v19-22` ¶ 39 "in thy lumen we shall see lumen" (the prose leans:
+  *ex fonte luminis sempiterni*) and `c17-v31-37` ¶ 62 "in thy light we shall see light" (exempt: nothing leans) are
+  both right, a ruling-28 split by design; John 8:12 at `c18-v28-43` ¶ 66 "the light of life" is exempt, **the unit
+  being the member, ¶¶ 65–66** (*integritas sanitatis*). Recorded in the three chunks' Notes. F14: the docket's Ps.
+  35:10 "inconsistency" is the test working (ruling 78's framing). 0 lines.
+- **99. § 4: the *pietas* inventory RATIFIED; ¶ 21 kept literal; `tr-pietas` on the adjective RATIFIED; F10 AMENDED**
+  (item 15 / D-5 [88, 201, 7, 81, 150, 220, 260]). Nine interval `tr-pietas`, each at its chunk's first divine site;
+  the ten human-only chunks without one, as ruling 31 requires. **Ruling 31's "the *pietas* is God's" reads "the word,
+  noun or adjective, is God's"** (`c18-v1-8` ¶ 9 *Deum pium*; already so at `c12-v35-48` ¶ 57, ruling 86, and
+  `c15-v20-24`, `c15-v25-32`). `c16-v9-18` *invitando ad pietatem divinam* KEPT "inviting to divine piety", no note:
+  the ambiguity is the Latin's. **F10 (= passes R-1): the site is ¶ 21, not ¶ 22** — the file and the Vol VII text
+  layer agree; item (88) (and the two other "¶ 22" in that chunk's Notes) amended in place, struck wording kept. 0
+  English lines.
+- **100. § 5: the four manifest cells APPLIED** (item 4 / D-1 [1, 69, 72, 161]; ruling 34: the gate's edit). In
+  `manual-review/lucam-chunk-manifest.tsv`: `bon-luc-c15-v1-7` `headings` + `;t4@383R` (*Parabola de ove perdita.*);
+  `bon-luc-c16-v1-8` `headings` + `;t4@402R` (*Exemplum parabolicum pietatis providae.*) and `title_la` →
+  *Exemplum parabolicum pietatis providae.*; `bon-luc-c17-v20-30` `headings` + `;t4@437R` (*Primo curiositas in
+  perscrutando confutatur per tria.*). `bon-luc-c16-v1-8`'s `title_la_source` stays `rubric-t4 p.402R`, now naming the
+  lower of the two 402R t4s (the `c18-v18-27` cell's convention). Span, END and confidence unaffected; no other cell
+  touched. Batch A (items 1–3, 5–6) RATIFIED: all 19 stage-5 rows as built; ruling 39's five promotions; last ¶ XV 52 ·
+  XVI 61 · XVII 62 · XVIII 66; the other 15 titles as built (ruling 36).
+- **101. D-7, D-6 and the item 16–19 / 21 batches RATIFIED** (0 lines). D-7: Luke 17:19 "made thee safe" (`c17-v11-19`
+  ¶ 34, leaning on *salus*) / Luke 18:42 "made thee whole" (`c18-v28-43` ¶ 65, leaning on *integritas sanitatis*), a
+  ruling-28 split recorded in both Notes. D-6: `c17-v31-37` p. 444 n. 8 **La.** *Du-|cange* kept as printed (ruling 9);
+  the **En.** half already "Du Cange". Item 17 *pudicitia / puritas* "purity"; item 19 II Pet. 2:5 *praeconem* "the
+  preacher of justice" (ruling 32's preface; ruling 30 does not reach quotations); II Pet. 1:19 "a lamp that shineth"
+  (ruling 88's lamp class); Prov. 9:8 "Rebuke not a scorner" (ruling 46); Jer. 18:8 "do penance" (the divine subject
+  seen); the *Praeceptor* capital (F9 applied, ruling 96); the *dissipare* chain and Ps. 34:16 "were not pricked";
+  item 18 *evangelizare* forms, **ruling 18 gaining the passive "is preached as gospel"** (Luke 16:16); Batch C (items
+  8–11, the ruling-20 adjustments and ruling-28 splits) with its three records (Luke 11:7 at two chunks, closed by
+  ruling 93; *mercenarius / alienigena* and *vindicta* by design; Luke 18:13 "be merciful"); the item-19 and item-21
+  house words as batches, with F4, F6, F7 applied. Records: [276] *excedentia desiderii* "exceedingness", *supra nos
+  excedimus* "are transported" and passes O-2 (p. 471 n. 1 Vat. *excessum* "excess") under ruling 81's sense clause.
+  **Not applied: *segnitia* "slackness"** (`c16-v9-18` ¶ 31, [93]): the sheet left it to Wilson's word ("or record"),
+  so it stands "sloth", recorded and carried.
+- **102. Batches B, E, F, G RATIFIED; H BANKED** (items 7, 22–31). B: no Corrigenda in pp. 381–472. E: the Quaracchi
+  slips as transcribed (r.57 class; ruling 36), incl. p. 471 n. 6 *Psalm. 77, 2* for 87:2 (filed as printed, a J-3
+  row) and **Deut. 27:26 without *nec*** transcribed as printed, English "and fulfilleth them in work" (ruling 28),
+  recorded, no `[so printed]`. F: the three `[so printed]` (*pedem*, *eundum*, *iuducere*) ratified; `c18-v9-14`
+  `title_la` keeps *iuducere*, `title_en` translates "lead" unbracketed; item 24 no mark; zero new `[?]`; **the live
+  `[?]` (`c5-v12-16` p. 122 n. 11) STAYS OPEN** (rulings 59, 73, 90). G: guillemets, points, marginalia, codex H,
+  set-off verses as recorded; supply nothing. H (item 31): banked, no ruling.
+- **103. Records, no text effect.** F13 (*mirus* "wonderful" ~17 / "marvellous" ~14 work-wide; ruling 32's row covers
+  *admirabilis · mirabilis · mirari* only; no row made). F14 (ruling 98). Passes O-1 (closed by ruling 93), O-2
+  (ruling 101), O-3 (`c16-v19-22` p. 417 n. 6's unglossed Latin variant; record). **Found while applying, not on the
+  docket, not edited:** *infidelitas* "infidelity" also stands at `c7-v24-35` ¶ 57 ×2 (*de infidelitate*, *notam
+  infidelitatis in cogitatione*) and `c8-v34-39` p. 207 n. 11 **En.** (a variant gloss), and "unbelief" at `c7-v17-23`
+  ¶ 37 (Ambrose, *non ex infidelitate*) and `c1-v18-25` p. 18 n. 6 (*infidelitatis … poena*) — the sheet's F7 census ("faithlessness at every site but these three") missed them; for a later docket
+  under ruling 71. The status strings (`transcription_status`) of `c15-v1-7`, `c18-v15-17`, `c18-v28-43` keep the
+  build's "simulation" / "boys" / "torment" (frontmatter, not rendered).
+- **104. F11, F12 and the interval's tool items FOLDED into ruling 76 / 92's ONE tool job, QUEUED, NOT RUN** (sheet
+  § T). **J-1** + T-b's twelve + **F11** (`c15-v1-7` p. 386 n. 8 *ex Gregor., loc. cit. n. 15* → `Isai 49:13`, a
+  thirteenth wrong anaphor edge): **13 wrong edges**. **J-3** + p. 471 n. 6 *Psalm. 77, 2*. **J-4** (accusative
+  *notam M*) **10 interval sites** (F12): p. 382 n. 2 ×2, p. 418 n. 14, p. 434 n. 3, p. 440 n. 10, p. 448 n. 9, p. 463
+  n. 1 ×2, p. 466 n. 2 ×2. **J-5** + p. 399 n. 1 *nota. 4.*, p. 433 n. 13, p. 409 n. 8, p. 461 n. 10. **J-6** + p. 423
+  n. 1, p. 462 n. 10, p. 470 n. 8 (+3 records). **J-9** + T-a and p. 463 nn. 4, 7. **J-11** + T-f (count only).
+  **J-12** + the `CROSSREF_SLIPS` row `("bon-luc-c16-v1-8", "apparatus:p405-10", "supra pag. 403, nota 20", "printed
+  slip — p. 403 has 13 notes; the locus is n. 10; filed as printed, not retargeted")`; the direction screen over the
+  interval's 159 crossref records finds 0 new slips. T-e by hand at the gate as the docket says. Same discipline as
+  ruling 76: report → fix → report; `tools/build-citations.py` only, then `build-citations.py` →
+  `build-index-json.py`; no chunk file. Baseline: QA 213, anaphora unresolved 427.
+
+**Manifest stage 6 is NOT drawn.** Stage 5 (`21637e0`) ends at `bon-luc-c18-v28-43`; the manifest has no row past it.
+The next step is drawing stage 6 (Cap. XIX ¶ 1 on p. 472 through the p. 540 gate, ruling 2), which needs Wilson's go.
