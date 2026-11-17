@@ -6519,6 +6519,20 @@ KNOWN_TOTALS_VOL7 = {
              # bon-luc-c18-v9-14's (anchors L 1-6 / R 7-10). nn.11-12 PENDING for
              # bon-luc-c18-v15-17 (n.11 *Cfr. supra pag. 452, nota 9.* at para 27's *infantes*;
              # n.12 *Vide supra n. 13.* at *conversatione*). Blocks L 1-8 / R 9-12. Gutter 1158.
+             # COMPLETE: nn.11-12 are bon-luc-c18-v15-17's (both anchored 457R in para 27, at
+             # *infantes*11 and *conversatione*12; printed R), read on the plate 2026-11-16. No
+             # runover. Gutter below para 26: 1159.
+    458: 15, # bon-luc-c18-v15-17 (para 27 tail-29). Anchors L 1-8 / R 9-15; blocks L 1-9 /
+             # R 10-15 (n.9 anchors right, prints left). No runover. Gutter 1282.
+    459: 15, # bon-luc-c18-v15-17 (paras 29 tail-31). Anchors L 1-7 / R 8-15; blocks L 1-10 /
+             # R 11-15 (nn.8-10 anchor right, print left). No runover. Gutter 1151.
+    460: 13, # SHARED. para 33 of bon-luc-c18-v15-17 closes 460R ~0.16 (... ignis et vermis ».);
+             # then the t4 *Secundo curiositas in possidendo confutatur dupliciter.*, para 34 *Et
+             # interrogavit eum quidam etc.*, the t4 *Primo, commendando paupertatem
+             # quadrupliciter.*, the un-numbered subdivisio, para 35 (Vers. 18.). nn.1-9
+             # bon-luc-c18-v15-17's (anchors L 1-8 / R 9, n.9 at *Iudith nono*). nn.10-13 PENDING
+             # for bon-luc-c18-v18-27 (n.10 *Cfr. supra c. 17. n. 35.* at para 34's *partis*).
+             # Blocks L 1-6 / R 7-13. Gutter: 16 px skew, one split 1288.
 }
 
 KNOWN_TOTALS_BY_VOL = {
