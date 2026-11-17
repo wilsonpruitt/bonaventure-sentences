@@ -6442,6 +6442,29 @@ KNOWN_TOTALS_VOL7 = {
              # PENDING for bon-luc-c17-v20-30 (n.5 *Vide supra c. 11. n. 36.* at para 35's
              # *curiositas*; nn.6-10 below it, 437L/R). Blocks L 1-6 head / R 6 tail 7-10: n.6
              # RUNS OVER THE GUTTER (read at 0.3x; the next builder re-derives it). Gutter 1162.
+             # COMPLETE: nn.5-10 are bon-luc-c17-v20-30's (para 35 *curiositas*5, *Augustinum*6,
+             # *decimo octavo*7 on 437L; 437R *ibi*8, para 36 *primo*9, para 37 *dixit*10), read on
+             # the plate 2026-11-16. n.6 RUNS OVER THE GUTTER (left block foot -> head of the right
+             # block, *... Cfr. supra c. 14. n. 40. seqq.*), confirmed at 1.6x. Gutter 1162.
+    438: 13, # bon-luc-c17-v20-30 (paras 37 tail-40 head). Anchors L 1-7 / R 8-13; blocks L 1-4 / R
+             # 5-13 (the left block, n.3 Jerome on Joel, underruns the column split). No runover. Gutter 1294 (band 1268-1321,
+             # island 1288-1301).
+    439: 15, # bon-luc-c17-v20-30 (paras 40 tail-44 head; t4 *De ratione huius reprehensionis tria.*
+             # above para 41, 439L). Anchors L 1-9 / R 10-15; blocks L 1-9 / R 10-15. No runover.
+             # Gutter 1178.
+    440: 12, # bon-luc-c17-v20-30 (paras 44 tail-46). Anchors L 1-5 / R 6-12; blocks L 1-9 head / R 9
+             # tail 10-12: n.9 RUNS OVER THE GUTTER (*... Superius respicitur Gen. 6, 14: Fac tibi |
+             # arcam de lignis levigatis ...*). Gutter 1298.
+    441: 13, # bon-luc-c17-v20-30 (paras 47-49 head). Anchors L 1-6 / R 7-13; blocks L 1-8 / R 9-13.
+             # No runover. Gutter 1159.
+    442: 12, # bon-luc-c17-v20-30 (paras 49 tail-50). Anchors L 1-7 / R 8-12; blocks L 1-8 / R 9-12.
+             # No runover. Gutter 1318.
+    443: 12, # bon-luc-c17-v20-30 (paras 50 tail-52). Anchors L 1-6 / R 7-12; blocks L 1-2 / R 3-12.
+             # No runover. Gutter 1163.
+    444: 15, # SHARED. para 52 of bon-luc-c17-v20-30 closes at 444L ~0.10 (... in saecula saeculorum
+             # ».) with NO anchor in its three lines; para 53 *In illa die*1 opens below. nn.1-15
+             # ALL PENDING for bon-luc-c17-v31-37 (n.1 at para 53's *die*, n.2 *Vide supra n. 41.* at
+             # *modum evadendi*). Read at 0.55x for count and ownership only. Gutter 1318 (rule wide).
 }
 
 KNOWN_TOTALS_BY_VOL = {
