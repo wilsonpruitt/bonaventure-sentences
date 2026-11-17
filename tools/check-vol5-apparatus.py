@@ -6497,6 +6497,28 @@ KNOWN_TOTALS_VOL7 = {
              # the head of 452R, no heading. nn.1-6 bon-luc-c18-v1-8's (all anchored 452L).
              # nn.7-13 PENDING for bon-luc-c18-v9-14 (n.7 *Cfr. supra pag. 448, nota 4.* at para
              # 13's *autem*). Blocks L 1-6 / R 7-13. Gutter 1263.
+             # COMPLETE: nn.7-13 are bon-luc-c18-v9-14's (all anchored 452R: para 13 *autem*7,
+             # *reverentiam*8, *ibi*9, *ibi*10, *personarum*11; para 14 *decimo*12, *undecimo*13),
+             # read on the plate 2026-11-16. No runover. Gutter 1263.
+    453: 15, # bon-luc-c18-v9-14 (paras 14 tail-16). Anchors L 1-6 / R 7-15; blocks L 1-7 head /
+             # R 7 tail 8-15: n.7 RUNS OVER THE GUTTER (*... non aeris spatio,* | *non ipsa
+             # retardetur ...*). Gutter 1169.
+    454: 14, # bon-luc-c18-v9-14 (paras 16 tail-18). Anchors L 1-7 / R 8-14; blocks L 1-4 /
+             # R 5-14. n.14 RUNS OVER THE PAGE (*... ubi docet, ad adipi-* | p.455 L head
+             # *scendam et conservandam humilitatem ...*). Gutter 1299.
+    455: 12, # bon-luc-c18-v9-14 (paras 19-22 head). Left block opens on p.454 n.14's runover tail.
+             # Anchors L 1-8 / R 9-12; blocks L 1-5 / R 6-12. No runover. Gutter 1152.
+    456: 16, # bon-luc-c18-v9-14 (paras 22 tail-24 head). Anchors L 1-8 / R 9-16; blocks L 1-5
+             # head / R 5 tail 6-16: n.5 RUNS OVER THE GUTTER (*... Unctio, poena levis ...* |
+             # *De modo, quo per haec remittuntur venialia ...*); n.16 RUNS OVER THE PAGE (*...
+             # vel ab illo, subaudiendum* | p.457 L head *Pharisaeo, id est plus quam ille ».*).
+             # Gutter 1299.
+    457: 12, # SHARED. para 26 of bon-luc-c18-v9-14 closes 457R ~0.47 (... non irrationabiliter
+             # iteratur.); para 27 *(Vers. 15.) Afferebant autem ad illum infantes*11 opens below,
+             # no heading. Left block opens on p.456 n.16's runover tail. nn.1-10
+             # bon-luc-c18-v9-14's (anchors L 1-6 / R 7-10). nn.11-12 PENDING for
+             # bon-luc-c18-v15-17 (n.11 *Cfr. supra pag. 452, nota 9.* at para 27's *infantes*;
+             # n.12 *Vide supra n. 13.* at *conversatione*). Blocks L 1-8 / R 9-12. Gutter 1158.
 }
 
 KNOWN_TOTALS_BY_VOL = {
