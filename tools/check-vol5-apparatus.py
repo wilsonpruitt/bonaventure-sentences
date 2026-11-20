@@ -6765,9 +6765,24 @@ KNOWN_TOTALS_VOL7 = {
              # n.2 *octavo* (Isa. 28), n.3 *secundo* (Matth. 22), n.4 *tertio* (Act. 23), n.5
              # *confuderat*, n.6 *Glossa*, n.7 *nono* (Iob 9), n.8 *Psalmi*); para 46 closes
              # at the FOOT of 516L, the t4 *Secundo confutatur error circa mysterium
-             # incarnationis, de quo tria.* heads 516R. nn.9-12 PENDING for bon-luc-c20-v41-47
-             # (all 516R: n.9 *incarnationis* (Cfr. supra n. 34.), n.10 *Psalmo*, n.11 *primo*,
-             # n.12 *secundo*). Blocks L 1-6 / R 7-12 (nn.7-8 anchor L, print R). Gutter 1292.
+             # incarnationis, de quo tria.* heads 516R. nn.9-12 bon-luc-c20-v41-47 (all
+             # 516R, para 47: n.9 *incarnationis* (Cfr. supra n. 34.), n.10 *Psalmo*, n.11
+             # *primo*, n.12 *secundo*; re-derived, no correction). Blocks L 1-6 / R 7-12
+             # (nn.7-8 anchor L, print R). Gutter 1292.
+    517: 12, # bon-luc-c20-v41-47 (paras 48 tail-51). Anchors L 1-6 / R 7-12; blocks L 1-6 /
+             # R 7-12. No runover. Gutter 1149 (band 1125-1174, 50 px, island flagged WIDE;
+             # rows 0.10-0.40 give band 1125-1184, 60 px, 1154).
+    518: 15, # bon-luc-c20-v41-47 (paras 51 tail-53; the 518L t4 *Informatio discipulorum
+             # ad prudentiam* above para 52, the 518R t4 *Informatio ad cautelam quatuor
+             # malorum* at the column's third line). Anchors L 1-9 / R 10-15; blocks L 1-6 /
+             # R 7-15 (nn.7-9 anchor L, print R). No runover. Gutter 1308.
+    519: 15, # bon-luc-c20-v41-47 (paras 53 tail-56). Anchors L 1-8 / R 9-15; blocks L 1-7 /
+             # R 8-15 (n.8 anchors L, prints R). No runover. Gutter 1150.
+    520: 11, # SHARED: nn.1-2 bon-luc-c20-v41-47 (para 56 tail, the top band of BOTH
+             # columns above the full-measure CAPITULUM XXI. at ~0.24: n.1 *sexto* (Iob 36)
+             # 520L, n.2 *tertio* (Matth. 23) 520R; both print in the LEFT block). nn.3-11
+             # PENDING for bon-luc-c21-v1-4 (n.3 at Cap. XXI para 1's *secundo*, *Cfr. supra
+             # c. 20. n. 52.*). Blocks L 1-4 / R 5-11. Gutter 1286 (lower) / ~1285 (top band).
 }
 
 KNOWN_TOTALS_BY_VOL = {
