@@ -6668,6 +6668,23 @@ KNOWN_TOTALS_VOL7 = {
              # bon-luc-c19-v36-40 (n.13 at para 53's *illo*, n.14 *tertio*, n.15 *ibi*, all
              # 491R). Blocks L 1-9 head / R 9 tail-15 (n.9 runs over the gutter). Gutter 1147
              # (rows 0.10-0.40: 1141; rows 0.40-0.75: 1153).
+             # Now COMPLETE: nn.13-15 bon-luc-c19-v36-40's (n.13 *illo*, n.14 *tertio*, n.15
+             # first *ibi*, all 491R; all three print in the right block after n.12; no
+             # runover among them). Re-derived on the plate.
+    492: 15, # bon-luc-c19-v36-40 (paras 54-56). Anchors L 1-8 / R 9-15; blocks L 1-7 /
+             # R 8-15 (n.8 anchors left, prints right). No runover. Gutter 1299.
+    493: 14, # bon-luc-c19-v36-40 (paras 56 tail-59). Anchors L 1-6 / R 7-14; blocks
+             # L 1-6 head / R 6 tail-14. n.6 (Apoc. 1, 7 ... Malach. 3, 1. seq. et) runs over
+             # the GUTTER: its tail (Luc. 12, 43 ... per nimiam.) heads the right block above
+             # n.7. Gutter 1170.
+    494: 11, # bon-luc-c19-v36-40 (paras 59 tail-62). Anchors L 1-6 / R 7-11; blocks L 1-2 /
+             # R 3-11 (nn.3-6 anchor left, print right). No runover. Gutter 1291.
+    495: 12, # SHARED. para 62 (un-versed) ends 495L ~0.62 (... deplorans excidium
+             # Ierusalem, civitatis regalis.); the t4 *Pietatem pontificalem promissam se
+             # habere, ostendit per quatuor.* stands below (~0.64), then para 63 (Vers. 41.).
+             # nn.1-5 bon-luc-c19-v36-40's (all anchored 495L above the t4). nn.6-12 PENDING
+             # for bon-luc-c19-v41-48 (n.6 at para 63's *secundo*, 495R). Blocks L 1-7 head /
+             # R 7 tail-12 (n.7 runs over the gutter). Gutter 1152.
 }
 
 KNOWN_TOTALS_BY_VOL = {
