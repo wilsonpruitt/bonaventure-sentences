@@ -6804,10 +6804,21 @@ KNOWN_TOTALS_VOL7 = {
     526: 13, # bon-luc-c21-v5-11 (paras 15 tail-17). Anchors L 1-6 / R 7-13; blocks L 1-6 /
              # R 7-13 (exact). No runover. Gutter 1302 (band 1271-1333, 63 px).
     527: 12, # SHARED: n.1 bon-luc-c21-v5-11 (para 17 tail, 527L top, *Gregorius*, above
-             # para 18 *Sed ante haec omnia* at ~0.16, the divisio cut). nn.2-12 PENDING for
-             # bon-luc-c21-v12-19 (n.2 at para 18's *perfectorum*, *Cfr. supra n. 13.*).
-             # Blocks L 1-8 head / R 8 tail-12 (n.8 runs over the gutter, read at overview
-             # only -- the next builder re-derives). Gutter 1172 (band 1142-1203).
+             # para 18 *Sed ante haec omnia* at ~0.16, the divisio cut). nn.2-12
+             # bon-luc-c21-v12-19's: anchors L 2-6 (n.2 *perfectorum*, n.3 *ibi*, n.4 Act. 5,
+             # n.5 Act. 6, n.6 *ad*) / R 7-12. Blocks L 1-8 head / R 8 tail-12 (nn.7-8 anchor R,
+             # print L; n.8 Augustine Serm. 220 / Gregory runs over the gutter). Gutter 1172.
+    528: 16, # bon-luc-c21-v12-19 (paras 20 tail-24). Anchors L 1-7 / R 8-16; blocks L 1-5 /
+             # R 6-16 (nn.6-7 anchor L, print R). No runover. Gutter 1279 (rows 0.10-0.40:
+             # band 1249-1309, 61 px, island 1277-1283).
+    529: 12, # bon-luc-c21-v12-19 (paras 24 tail-26). Anchors L 1-6 / R 7-12; blocks L 1-6
+             # head / R 6 tail-12 (n.6 Chrysostom on Joseph runs over the gutter, *lacessunt* |
+             # *plura addit*). Gutter 1152 (band 1123-1182, 60 px, island 1148-1157).
+    530: 12, # SHARED: nn.1-6 bon-luc-c21-v12-19 (para 26 tail-27, 530L above para 28 *Cum
+             # autem videritis circumdari ab exercitu* at ~0.59, the divisio cut; n.6
+             # *Hieronymus*). nn.7-12 PENDING for bon-luc-c21-v20-24 (n.7 at para 28's *hic*,
+             # *Cfr. supra n. 9.*). Blocks L 1-6 head / R 6 tail-12 (n.6 Card. Hugo / Gregory
+             # runs over the gutter, ours). Gutter 1308 (band 1279-1340, 62 px).
 }
 
 KNOWN_TOTALS_BY_VOL = {

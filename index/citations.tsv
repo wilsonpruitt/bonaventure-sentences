@@ -43121,6 +43121,78 @@ bon-luc-c21-v1-4	7	apparatus:p522-6	p522-6	scripture	apparatus-explicit	I. Tim. 
 bon-luc-c21-v1-4	7	apparatus:p522-10	p522-10	scripture	apparatus-explicit	Rom. 10, 3	Rom 10:3	A	verse			
 bon-luc-c21-v1-4	7	apparatus:p522-13	p522-13	scripture	apparatus-explicit	Luc. 18, 11	Luc 18:11	A	verse			
 bon-luc-c21-v1-4	7	apparatus:p523-1	p523-1	scripture	apparatus-explicit	Luc. 18, 13	Luc 18:13	A	verse			
+bon-luc-c21-v12-19	7	latin_body	p527-4	scripture	body-ordinal	Actuum quinto	Act 5:17	B	verse			
+bon-luc-c21-v12-19	7	latin_body	p527-5	scripture	body-ordinal	Actuum sexto	Act 6:12	B	verse			
+bon-luc-c21-v12-19	7	latin_body		scripture	body-ordinal	Actuum quinto	Act 5	C	chapter			
+bon-luc-c21-v12-19	7	latin_body		scripture	body-ordinal	Actuum decimo septimo	Act 17	C	chapter			
+bon-luc-c21-v12-19	7	latin_body	p527-7	scripture	body-ordinal	ad Timotheum tertio	2Tim 3:10	B	verse			
+bon-luc-c21-v12-19	7	latin_body	p527-9	scripture	body-ordinal	ad Hebraeos duodecimo	Hebr 12:6	B	verse			
+bon-luc-c21-v12-19	7	latin_body		scripture	body-ordinal	Iudith octavo	Iudith 8	C	chapter			
+bon-luc-c21-v12-19	7	latin_body	p527-10	scripture	body-ordinal	Genesis vigesimo septimo	Gen 27:21	B	verse			
+bon-luc-c21-v12-19	7	latin_body		scripture	body-ordinal	Iob secundo	Iob 2	C	chapter			
+bon-luc-c21-v12-19	7	latin_body		scripture	body-ordinal	ad Romanos quinto	Rom 5	C	chapter			
+bon-luc-c21-v12-19	7	latin_body	p527-12	scripture	body-ordinal	Sapientiae quarto	Sap 4:16	B	verse			
+bon-luc-c21-v12-19	7	latin_body		scripture	body-ordinal	Petri quarto	1Petr 4	C	chapter			
+bon-luc-c21-v12-19	7	latin_body	p528-1	scripture	body-ordinal	Apocalypsis sexto	Apoc 6:9	B	verse			
+bon-luc-c21-v12-19	7	latin_body		scripture	body-ordinal	Actuum decimo	Act 10	C	chapter			
+bon-luc-c21-v12-19	7	latin_body	p528-3	scripture	body-ordinal	ad Corinthios tertio	2Cor 3:5	B	verse			
+bon-luc-c21-v12-19	7	latin_body	p528-4	scripture	body-ordinal	Matthaei decimo	Matth 10:20	B	verse			
+bon-luc-c21-v12-19	7	latin_body	p528-5	scripture	body-ordinal	Ioannis decimo sexto	Ioan 16:13	B	verse			
+bon-luc-c21-v12-19	7	latin_body		scripture	body-ordinal	Iob trigesimo secundo	Iob 32	C	chapter			
+bon-luc-c21-v12-19	7	latin_body	p528-6	scripture	body-ordinal	ad Corinthios secundo	1Cor 2:10	B	verse			
+bon-luc-c21-v12-19	7	latin_body		scripture	body-ordinal	Sapientiae nono	Sap 9	C	chapter			
+bon-luc-c21-v12-19	7	latin_body	p528-7	scripture	body-ordinal	Sapientiae decimo	Sap 10:21	B	verse			
+bon-luc-c21-v12-19	7	latin_body		scripture	body-ordinal	Exodi quarto	Exod 4	C	chapter			
+bon-luc-c21-v12-19	7	latin_body		scripture	body-ordinal	Isaiae sexagesimo tertio	Isai 63	C	chapter			
+bon-luc-c21-v12-19	7	latin_body	p528-9	scripture	body-ordinal	Exodi decimo quarto	Exod 14:14	B	verse			
+bon-luc-c21-v12-19	7	latin_body		scripture	body-ordinal	Iob nono	Iob 9	C	chapter			
+bon-luc-c21-v12-19	7	latin_body	p528-10	scripture	body-ordinal	Esdrae quarto	Esdr* 4:38	B	verse			
+bon-luc-c21-v12-19	7	latin_body		scripture	body-ordinal	Apocalypsis duodecimo	Apoc 12	C	chapter			
+bon-luc-c21-v12-19	7	latin_body	p528-11	scripture	body-ordinal	Apocalypsis undecimo	Apoc 11:3	B	verse			
+bon-luc-c21-v12-19	7	latin_body	p528-12	scripture	anaphor->body-ordinal	ibid	Apoc 11:3	B	verse	yes	Apocalypsis undecimo	
+bon-luc-c21-v12-19	7	latin_body	p528-15	scripture	body-ordinal	Michaeae septimo	Mich 7:2	B	verse			
+bon-luc-c21-v12-19	7	latin_body	p528-16	scripture	body-ordinal	Zachariae decimo tertio	Zach 13:3	B	verse			
+bon-luc-c21-v12-19	7	latin_body	p529-2	scripture	body-ordinal	Ieremiae nono	Ierem 9:4	B	verse			
+bon-luc-c21-v12-19	7	latin_body		scripture	body-ordinal	Ieremiae decimo quinto	Ierem 15	C	chapter			
+bon-luc-c21-v12-19	7	latin_body	p529-4	scripture	body-ordinal	Ioannis decimo quinto	Ioan 15:19	B	verse			
+bon-luc-c21-v12-19	7	latin_body		scripture	body-ordinal	Iacobi quarto	Iac 4	C	chapter			
+bon-luc-c21-v12-19	7	latin_body	p529-5	scripture	body-ordinal	Ioannis decimo sexto	Ioan 16:2	B	verse			
+bon-luc-c21-v12-19	7	latin_body	p529-11	scripture	body-ordinal	Danielis tertio	Dan 3:93	B	verse			
+bon-luc-c21-v12-19	7	latin_body		scripture	body-ordinal	Petri tertio	1Petr 3	C	chapter			
+bon-luc-c21-v12-19	7	latin_body	p530-1	scripture	body-ordinal	Proverbiorum decimo quinto	Prov 15:32	B	verse			
+bon-luc-c21-v12-19	7	latin_body	p530-2	scripture	body-ordinal	Proverbiorum decimo sexto	Prov 16:32	B	verse			
+bon-luc-c21-v12-19	7	latin_body	p530-3	scripture	body-ordinal	Proverbiorum decimo quarto	Prov 14:29	B	verse			
+bon-luc-c21-v12-19	7	latin_body		scripture	body-ordinal	Proverbiorum decimo nono	Prov 19	C	chapter			
+bon-luc-c21-v12-19	7	latin_body	p530-5	scripture	body-ordinal	Iacobi primo	Iac 1:4	B	verse			
+bon-luc-c21-v12-19	7	latin_body		scripture	body-ordinal	ad Hebraeos decimo	Hebr 10	C	chapter			
+bon-luc-c21-v12-19	7	apparatus:p527-6	p527-6	scripture	apparatus-explicit	Act. 5, 27	Act 5:27	A	verse			
+bon-luc-c21-v12-19	7	apparatus:p527-8	p527-8	crossref	page	tom. VI. pag. 132	bon-sap-c4		chunk			
+bon-luc-c21-v12-19	7	apparatus:p527-9	p527-9	scripture	apparatus-explicit	Iudith 8, 22	Iudith 8:22	A	verse			
+bon-luc-c21-v12-19	7	apparatus:p527-10	p527-10	scripture	apparatus-explicit	Iob 2, 5-7	Iob 2:5-7	A	verse			
+bon-luc-c21-v12-19	7	apparatus:p527-10	p527-10	scripture	apparatus-explicit	Rom. 5, 3	Rom 5:3	A	verse			
+bon-luc-c21-v12-19	7	apparatus:p527-12	p527-12	scripture	apparatus-explicit	I. Petr. 4, 17	1Petr 4:17	A	verse			
+bon-luc-c21-v12-19	7	apparatus:p528-2	p528-2	scripture	apparatus-explicit	Psalm. 92, 5	Ps 92:5	A	verse			
+bon-luc-c21-v12-19	7	apparatus:p528-2	p528-2	scripture	apparatus-explicit	Act. 10, 42	Act 10:42	A	verse			
+bon-luc-c21-v12-19	7	apparatus:p528-3	p528-3	scripture	apparatus-explicit	Ps. 93, 11	Ps 93:11	A	verse			
+bon-luc-c21-v12-19	7	apparatus:p528-5	p528-5	scripture	apparatus-explicit	Iob 32, 8	Iob 32:8	A	verse			
+bon-luc-c21-v12-19	7	apparatus:p528-6	p528-6	scripture	apparatus-explicit	Sap. 9, 17	Sap 9:17	A	verse			
+bon-luc-c21-v12-19	7	apparatus:p528-7	p528-7	scripture	apparatus-explicit	Exod. 4, 11	Exod 4:11	A	verse			
+bon-luc-c21-v12-19	7	apparatus:p528-7	p528-7	scripture	apparatus-explicit	Isai. 63, 1	Isai 63:1	A	verse			
+bon-luc-c21-v12-19	7	apparatus:p528-8	p528-8	scripture	apparatus-explicit	Sap. 7, 30	Sap 7:30	A	verse			
+bon-luc-c21-v12-19	7	apparatus:p528-9	p528-9	scripture	apparatus-explicit	Ps. 75, 8	Ps 75:8	A	verse			
+bon-luc-c21-v12-19	7	apparatus:p528-9	p528-9	scripture	apparatus-explicit	Iob 9, 4	Iob 9:4	A	verse			
+bon-luc-c21-v12-19	7	apparatus:p528-10	p528-10	scripture	apparatus-explicit	Apoc. 12, 11	Apoc 12:11	A	verse			
+bon-luc-c21-v12-19	7	apparatus:p528-14	p528-14	scripture	apparatus-explicit	Psalm. 54, 13-15	Ps 54:13-15	A	verse			
+bon-luc-c21-v12-19	7	apparatus:p529-3	p529-3	scripture	apparatus-explicit	Ier. 15, 10	Ierem 15:10	A	verse			
+bon-luc-c21-v12-19	7	apparatus:p529-4	p529-4	scripture	apparatus-explicit	Iac. 4, 4	Iac 4:4	A	verse			
+bon-luc-c21-v12-19	7	apparatus:p529-6	p529-6	scripture	apparatus-explicit	Gen. 37, 4	Gen 37:4	A	verse			
+bon-luc-c21-v12-19	7	apparatus:p529-7	p529-7	scripture	apparatus-explicit	Gen. 4, 10	Gen 4:10	A	verse			
+bon-luc-c21-v12-19	7	apparatus:p529-10	p529-10	crossref	logical	IV. Sent. d. 44. p. I.	IV:d44		distinctio			
+bon-luc-c21-v12-19	7	apparatus:p529-10	p529-10	crossref	work	Breviloq. p. VII. c. 5.	bon-brev-p7-c5		chunk			
+bon-luc-c21-v12-19	7	apparatus:p529-11	p529-11	scripture	apparatus-explicit	I. Petr. 3, 13	1Petr 3:13	A	verse			
+bon-luc-c21-v12-19	7	apparatus:p530-3	p530-3	scripture	apparatus-explicit	Prov. 19, 11	Prov 19:11	A	verse			
+bon-luc-c21-v12-19	7	apparatus:p530-5	p530-5	scripture	apparatus-explicit	Hebr. 10, 36	Hebr 10:36	A	verse			
+bon-luc-c21-v12-19	7	apparatus:p530-6	p530-6	crossref	relative-bare	ibid.			unresolvable			
 bon-luc-c21-v5-11	7	latin_body	p523-7	scripture	body-ordinal	ad Hebraeos decimo tertio	Hebr 13:14	B	verse			
 bon-luc-c21-v5-11	7	latin_body		scripture	body-ordinal	ad Corinthios quarto	2Cor 4	C	chapter			
 bon-luc-c21-v5-11	7	latin_body	p523-8	scripture	body-ordinal	Marci decimo tertio	Marc 13:1	B	verse			
