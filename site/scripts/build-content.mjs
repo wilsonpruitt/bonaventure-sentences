@@ -1242,6 +1242,16 @@ const WORKS = {
       // heading of the stack and the title_la (ruling 22), over para 1 `Et ingressus
       // perambulabat Iericho etc.` The running head of p. 472 already reads C. XIX.
       19: "Capitulum XIX",
+      // `CAPITULUM XX.` read in place on p. 501 at bon-luc-c20-v1-9: full-measure
+      // letter-spaced small capitals, WITH its period, at ~0.16 of the leaf, below Cap.
+      // XIX's last para 75 (...vitam aeternam habebunt ».), which runs across the top
+      // band of both columns; no subtitle, unanchored (p. 501's eleven notes all anchor in
+      // para 1's body and after). Below it in 501L TWO t4s stacked around para 1 (small
+      // bold, unanchored): `Secundo confutat Iudaeorum incredulitatem per verba et
+      // documenta et hoc in tribus partibus.` over para 1 `Et factum est in una dierum
+      // etc.`, then `Confutatio Pharisaeorum errantium ex malitia per tria.`, the lowest
+      // of the stack and the title_la (ruling 22). Running head of p. 501: C. XX.
+      20: "Capitulum XX",
     },
   },
 };

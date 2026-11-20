@@ -6706,6 +6706,18 @@ KNOWN_TOTALS_VOL7 = {
              # habebunt ».) above the full-measure CAPITULUM XX.; the top band carries NO
              # anchor, so ALL of p.501's notes are bon-luc-c20-v1-9's (n.1 at para 1's
              # *documenta*). bon-luc-c19-v41-48 owns none of p.501.
+    501: 11, # bon-luc-c20-v1-9 owns ALL (paras 1-3 under CAPITULUM XX. ~0.16; verified by
+             # anchor, the top band (c.19 para 75) carries none). Anchors L 1-5 / R 6-11;
+             # blocks L 1-8 head / R 8 tail-11; n.8 a GUTTER runover (Chrysostom, Op. imperf.).
+             # Gutter 1184.
+    502: 11, # bon-luc-c20-v1-9 (paras 3 tail-7). Anchors L 1-6 / R 7-11; blocks L 1-4 /
+             # R 5-11 (nn.5-6 anchor left, print right). No runover. Gutter 1289.
+    503: 14, # bon-luc-c20-v1-9 (paras 8-11). Anchors L 1-6 / R 7-14; blocks L 1-7 / R 8-14
+             # (n.7 anchors right, prints left). No runover. Gutter 1162.
+    504: 14, # SHARED: nn.1-9 bon-luc-c20-v1-9 (paras 11 tail-13), nn.10-14 PENDING for
+             # bon-luc-c20-v10-18 (para 14 opens 504R ~0.31: n.10 *vindemiae*, n.11
+             # *Iudaicae*, n.12 *ibi*, n.13 *prophetalis*, n.14 *Glossa*). Anchors L 1-7 /
+             # R 8-14; blocks L 1-7 head / R 7 tail-14; n.7 a GUTTER runover. Gutter 1278.
 }
 
 KNOWN_TOTALS_BY_VOL = {
