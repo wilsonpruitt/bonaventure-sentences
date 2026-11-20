@@ -6829,10 +6829,22 @@ KNOWN_TOTALS_VOL7 = {
              # Comestor,* | *Histor. scholast.*; n.7 anchors R, prints L). Gutter 1303 (band
              # 1275-1331, 57 px, island 1298-1308, 15 windows within 5 px).
     533: 12, # SHARED: nn.1-4 bon-luc-c21-v20-24 (para 39 tail-40, 533L above para 41 *Et
-             # erunt signa in sole* at ~0.43, the divisio cut; n.4 Matth. 24). nn.5-12 PENDING
-             # for bon-luc-c21-v25-27 (n.5 at para 41's *quarto*, *Cfr. supra n. 9.*). Blocks
-             # L 1-10 head / R 10 tail-12 (n.10 Aristotle / Albert runs over the gutter,
-             # c21-v25-27's). Gutter 1163 (band 1134-1192, 59 px, island 1159-1168).
+             # erunt signa in sole* at ~0.43, the divisio cut; n.4 Matth. 24). nn.5-12
+             # bon-luc-c21-v25-27's (paras 41-42): anchors L 5-7 (n.5 *quarto*, n.6 *ibi*, n.7
+             # Gen. 1) / R 8-12 (n.8 *Psalmi*, n.9 Gen. 1, n.10 *Philosophus*, n.11 Ios. 10,
+             # n.12 Isai. 38). Blocks L 1-10 head / R 10 tail-12 (n.10 Aristotle / Albert runs
+             # over the gutter, *super flammam* | *alterius*; nn.8-10 anchor R, print L).
+             # Gutter upper 1163 (band 1134-1192); lower region (rows 0.45-0.75) 1161 (band
+             # 1130-1192, 63 px, island 1159-1164).
+    534: 13, # bon-luc-c21-v25-27 (paras 42 tail-45). Anchors L 1-6 / R 7-13; blocks L 1-6 /
+             # R 7-13. No runover. Gutter 1269 (band 1240-1299, 60 px, island 1266-1273).
+    535: 13, # bon-luc-c21-v25-27 (paras 45 tail-47). Anchors L 1-6 / R 7-13; blocks L 1-4 /
+             # R 5-13 (nn.5-6 anchor L, print R). No runover. Gutter 1165 (rows 0.30-0.60:
+             # band 1137-1194, 58 px, island 1160-1171).
+    536: 15, # SHARED: nn.1-4 bon-luc-c21-v25-27 (para 47 tail, 536L above para 48 *His autem
+             # fieri incipientibus* at ~0.37, the divisio cut; n.4 Apoc. 21). nn.5-15 PENDING
+             # for bon-luc-c21-v28-38 (n.5 at para 48's *secundo*, *Cfr. supra n. 41.*). Gutter
+             # 1301 (rows 0.12-0.30: band 1270-1332, 63 px, island 1299-1303).
 }
 
 KNOWN_TOTALS_BY_VOL = {
