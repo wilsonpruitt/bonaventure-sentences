@@ -6595,6 +6595,21 @@ KNOWN_TOTALS_VOL7 = {
              # directly below, no heading. nn.1-5 bon-luc-c19-v1-10's (all anchored 477L,
              # para 13 tail-14). nn.6-13 PENDING for bon-luc-c19-v11-14 (n.6 at para 15's
              # *negligentiam*). Blocks L 1-7 / R 8-13. Gutter 1166.
+             # Now COMPLETE: nn.6-13 bon-luc-c19-v11-14's (anchors L 6 / R 7-13: n.6 para 15
+             # *negligentiam*, n.7 *ibi* at 477R's head, prints left). No runover.
+    478: 14, # bon-luc-c19-v11-14 (paras 17 tail-19). Anchors L 1-6 / R 7-14; blocks L 1-8 /
+             # R 9-14 (nn.7-8 anchor right, print left). n.14 (Augustine, City of God XIX
+             # c. 15) runs over the PAGE: its tail (Etymolog. c. 27 ... conditio serviendi.)
+             # heads p. 479's LEFT block above p. 479 n.1. Gutter 1293.
+    479: 13, # bon-luc-c19-v11-14 (paras 19 tail-21). Anchors L 1-6 / R 7-13; blocks L 1-5 /
+             # R 6-13 (n.6 anchors left, prints right). n.5 (Acts 1:15, Serm. 267) runs over
+             # the GUTTER: its tail (Restrictio ergo verborum ... Eph. 4, 10-12.) heads the
+             # right block above n.6. Gutter 1164.
+    480: 13, # SHARED. para 21 (Vers. 14.) ends 480L ~0.635 (... ipsi autem spreverunt me ».);
+             # para 22 *(Vers. 15.) Et factum est, ut rediret etc.* opens directly below, no
+             # heading. nn.1-5 bon-luc-c19-v11-14's (all anchored 480L, para 21). nn.6-13
+             # PENDING for bon-luc-c19-v15-19 (n.6 at para 22's *iudicii*; n.7 at *ibi*,
+             # 480R head, prints left). Blocks L 1-7 / R 8-13. Gutter 1290.
 }
 
 KNOWN_TOTALS_BY_VOL = {
