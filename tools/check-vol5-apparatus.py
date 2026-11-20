@@ -6842,9 +6842,25 @@ KNOWN_TOTALS_VOL7 = {
              # R 5-13 (nn.5-6 anchor L, print R). No runover. Gutter 1165 (rows 0.30-0.60:
              # band 1137-1194, 58 px, island 1160-1171).
     536: 15, # SHARED: nn.1-4 bon-luc-c21-v25-27 (para 47 tail, 536L above para 48 *His autem
-             # fieri incipientibus* at ~0.37, the divisio cut; n.4 Apoc. 21). nn.5-15 PENDING
-             # for bon-luc-c21-v28-38 (n.5 at para 48's *secundo*, *Cfr. supra n. 41.*). Gutter
-             # 1301 (rows 0.12-0.30: band 1270-1332, 63 px, island 1299-1303).
+             # fieri incipientibus* at ~0.37, the divisio cut; n.4 Apoc. 21). nn.5-15
+             # bon-luc-c21-v28-38's (paras 48-50): anchors L 5-8 (n.5 *secundo*, n.6 *Gregorius*,
+             # n.7 *octavo* (Luc. 18), n.8 *octavo* (Rom. 8)) / R 9-15 (n.9 *duodecimo* (Rom.
+             # 12) ... n.15 *tertio* (Matth. 3)). Blocks L 1-7 / R 8-15 (n.8 anchors L, prints
+             # R). No runover. Gutter 1301 (rows 0.12-0.30 and 0.38-0.75 agree: band 1270-1332).
+    537: 13, # bon-luc-c21-v28-38 (paras 50 tail-54). Anchors L 1-7 / R 8-13; blocks L 1-8 /
+             # R 9-13 (n.8 anchors R, prints L). No runover. Gutter 1165 (rows 0.30-0.60: band
+             # 1136-1195, 60 px, island 1161-1170; the 0.10-0.75 window's 15 px island WIDE).
+    538: 16, # bon-luc-c21-v28-38 (paras 54 tail-57). Anchors L 1-11 / R 12-16; blocks L 1-10
+             # head / R 10 tail-16 (n.10 Exod. 12 runs over the gutter, *id est* | *transitus
+             # Domini*; n.11 anchors L, prints R). Gutter 1301 (band 1270-1332, 63 px).
+    539: 15, # bon-luc-c21-v28-38 (paras 57 tail-60). Anchors L 1-8 / R 9-15; blocks L 1-10
+             # head / R 10 tail-15 (n.10 Theophylact runs over the gutter, *Opor-* | *tet*;
+             # nn.9-10 anchor R, print L). Gutter 1150 (rows 0.30-0.60: band 1119-1181, 63 px).
+    540: 10, # THE p.540 GATE (Pars II closes). n.1 bon-luc-c21-v28-38's (para 60 tail,
+             # *accelerare*, 540L top band, para 60 ends ~0.13). nn.2-10 PENDING for Cap. XXII
+             # (Pars III; anchors read at overview: n.2 *hostia*, n.3 *capitulo*, n.4 *ibi*,
+             # n.5 *improbitatem*, n.6 *est*, n.7 *sexto*, n.8 *duodecimo*, n.9 *septimo*,
+             # n.10 *octavo*; n.6 runs over the gutter). Top-band gutter 1275 (rows 0.075-0.135).
 }
 
 KNOWN_TOTALS_BY_VOL = {
