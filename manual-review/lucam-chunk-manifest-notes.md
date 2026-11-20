@@ -819,3 +819,242 @@ Two rows share a verse with their neighbour (the `c4-v14-22` / `c4-v22-30` prece
   lists that are not boundaries (e.g. c. 15 ¶¶ 26, 29, 48; c. 16 ¶¶ 25, 40, 53; c. 17 ¶¶ 30, 45, 58, 61; c. 18 ¶¶ 9,
   16, 24, 42, 52, 58) were matched to their ¶ numbers on the text layer only.
 - **Footer registers** were not counted (the builders count them; ruling 15).
+
+# Stage 6 notes (Cap. XIX – Cap. XXI, pp. 472–540; 2026-11-20, Opus)
+
+18 rows appended to `lucam-chunk-manifest.tsv` (XIX 7 · XX 5 · XXI 6), drawn after the p. 472 gate and before any
+chunk of the next interval (ruling 2), on Wilson's go of 2026-11-20. Labels as in stages 1–5: **MEASURED** (read on a
+300 dpi plate crop this session) or **PREDICTION** (text layer only). No chunk was built; no existing row was touched.
+
+## Plates read (MEASURED)
+
+Plates pp. 474–541 extracted at 300 dpi (`raw/vision/vol7/p-474 … p-541.png`, 2476 × 3921, pHYs 300 dpi; pp. 472–473
+were on disk and checked at 300 dpi). Three screens found the headings, and every hit was read on a crop:
+
+- a **vertical-gap screen**: each column's inner 76 % profiled for blank bands ≥ 38 px (re-run at ≥ 28 px: nothing
+  new), the running-head gap and the footer-rule pair (two gaps ≤ 14 px apart) set aside, plus a check for a second
+  gap under the running head (a heading at a column head). Body gaps stood at 472, 487L, 487R ×2, 495L, 498L, 499R,
+  501, 506L, 507R, 512L ×2, 516R, 518L, 518R ×2, 520, 523L, 540: **every one a heading or a capitulum except 495R**
+  (the centred verse *Vagit infans, inter arcta conditus praesepia.*), **506L** (the footer zone; that leaf's rule pair
+  was not resolved by the screen) and **507R** (a short closing line before ¶ 22). A check of **synchronised** gaps
+  found only the four `CAPITULUM` stacks (472, 501, 520, 540). **No t1 or t2 stands in pp. 472–539.**
+- a **divisio sweep**: the paragraphs that open on a lemma + *Post… / Postquam…* (~22 in pp. 472–540), read on the
+  plate wherever one is a boundary or a named joint;
+- the **text layer's** small-type lines (`pdftotext -bbox-layout`, pdf pp. 498–567). It found every t4 except the
+  516R one, missed the 487L t3 (larger type), and was a cross-check only. It found no `CAPITULUM` by that spelling
+  (`Capitclom XX.`, `Capitulu»! XXII.`). ⚠ **The pp. 421 / 444 height trap recurs on p. 490**: every body line there
+  reports h ≈ 10 (body ≈ 11 elsewhere); the plate shows ordinary body type (c. 19 ¶¶ 49–50).
+
+Full-width crops: pp. **472**, **501**, **520**, **540**. Boundary and heading crops: **472L**, **472R**, **477L**,
+**477R**, **478L**, **480L**, **480R**, **481L**, **483R**, **487L**, **487R**, **491R**, **495L**, **495R**, **498L**,
+**499R**, **500R**, **501L**, **503R**, **504R**, **506L**, **507R**, **509L**, **512L**, **516R**, **518L**, **518R**,
+**519R**, **523L**, **524R**, **527L**, **530L**, **530R**, **533L**, **533R**, **536L**, **539R**, **540L**. Every row's
+opening, ending and `title_la` was read on one of these.
+
+## Headings found in pp. 472–540 (MEASURED; wording from the plate)
+
+| Page | Tier (typography) | Wording | Row |
+|---|---|---|---|
+| 472 | capitulum | CAPITULUM XIX. | c19-v1-10 |
+| 472L | t4 (small bold) | Secundo confutat curiositatem in possidendo approbando liberalitatem duplicem. | c19-v1-10 |
+| 487L | t3 (larger roman) | Incredulitas Iudaeorum confutatur tum per facta tum per verba et documenta. | c19-v29-35 |
+| 487R | t4 | Primo per facta confutat horum incredulitatem ostendendo, se habere quatuor dona in Lege promissa. | c19-v29-35 |
+| 487R | t4 | Potestatem regalem promissam se habere, ostendit per tria. | c19-v29-35 |
+| 495L | t4 | Pietatem pontificalem promissam se habere, ostendit per quatuor. | c19-v41-48 |
+| 498L | t4 | Aequitatem iudicialem promissam se habere, ostendit per tria. | c19-v41-48 (interior) |
+| 499R | t4 | Auctoritatem magistralem promissam se habere, ostendit per tria. | c19-v41-48 (interior) |
+| 501 | capitulum | CAPITULUM XX. | c20-v1-9 |
+| 501L | t4 | Secundo confutat Iudaeorum incredulitatem per verba et documenta et hoc in tribus partibus. | c20-v1-9 |
+| 501L | t4 | Confutatio Pharisaeorum errantium ex malitia per tria. | c20-v1-9 |
+| 512L | t4 | Confutatio Sadducaeorum errantium ex ignorantia quoad duo. | c20-v27-40 |
+| 512L | t4 | Primo confutatur error circa resurrectionem per duo. | c20-v27-40 |
+| 516R | t4 (column head) | Secundo confutatur error circa mysterium incarnationis, de quo tria. | c20-v41-47 |
+| 518L | t4 | Informatio discipulorum ad prudentiam, de qua tria. | c20-v41-47 (interior) |
+| 518R | t4 (column head) | Informatio ad cautelam quatuor malorum. | c20-v41-47 (interior) |
+| 520 | capitulum | CAPITULUM XXI. | c21-v1-4 |
+| 520L | t4 | Informatio ad eligentiam meliorum per exemplum viduae. | c21-v1-4 |
+| 523L | t4 | Informatio ad providentiam respectu futurorum. | c21-v5-11 |
+| 540 | capitulum; 540L t1 (large roman), t2 (italic), t3 (roman semi-bold) | CAPITULUM XXII. / Pars III. De passionis medicamento agitur dupliciter. / *Primo, de passione quoad quatuor antecedentia.* / Primo, de machinatione proditoris dicuntur quatuor. | (next interval) |
+
+Every heading in a row's span is in that row's `headings` cell, interior ones and stacked pairs included (ruling 100's
+lesson). The headings stand far apart in four stretches, and those rows are cut at Bonaventure's divisio paragraphs
+(ruling 1b):
+
+- **c. 19:** `CAPITULUM XIX.` to the 487L t3 is ~14.8 pp (Zacchaeus and the parable of the pounds); the 487L t3 to
+  the 495L t4 ~8.1 pp (`low`, below).
+- **c. 20:** `CAPITULUM XX.` to the 512L t4 is ~11.2 pp (the Pharisees).
+- **c. 21:** the 523L t4 to `CAPITULUM XXII.` is ~16.8 pp (the eschatological discourse).
+
+Every cut is named in a higher paragraph's own *ibi:* list.
+
+⚠ **Typography and logical rank part company twice, as at 460R.** The 501L t4 *Secundo confutat Iudaeorum
+incredulitatem per verba et documenta…* is set as a t4 but is the second member of the 487L t3's division (¶ 43:
+*per facta / per verba et documenta, infra vigesimo*); its partner is the 487R t4 *Primo per facta…*. And the 518L t4
+*Informatio discipulorum ad prudentiam* governs across `CAPITULUM XXI.`: its members two and three are c. 21 ¶ 1 (the
+520L t4) and c. 21 ¶ 9 (the 523L t4). The manifest records the typography, and ruling 1a keeps the capitulum a hard
+boundary.
+
+## Last paragraph per capitulum (MEASURED)
+
+**XIX = 75** (500R, Vers. 48, running across the top of both columns of p. 501 to *…et hauriet salutem a Domino ».*;
+the setup table's 75 is right). **XX = 56** (519R, printed *56..*, un-versed, v. 47 continued; it runs across the top
+of both columns of p. 520 to *…carnibus eorum ».*; the setup table's **~53** resolves to 56; ¶ 55 is Vers. 47).
+**XXI = 60** (539R, Vers. 38, running across the top of both columns of p. 540; the setup table's **~54+** resolves to
+60; ¶ 55 is *Attendite autem vobis* (Vers. 34); ¶ 56 is un-versed, ¶¶ 57–59 are Vers. 35–37). Each capitulum's first and last pages are as the
+setup table predicts (472–501, 501–520, 520–540). **None overran.** XIX and XXI both close on the same Proverbs 8:34–35
+quotation (*Beatus homo, qui audit me…*).
+
+## The p. 540 gate (MEASURED)
+
+Ruling 14 places the gate where **Pars II closes**, p. 540. On the plate: ¶ 60 (Vers. 38) runs from 539R across the top
+of both columns of p. 540 and ends at ~0.13 of the leaf; `CAPITULUM XXII.` stands full measure at ~0.155; below it on
+540L stand the t1 **`Pars III. De passionis medicamento agitur dupliciter.`** (large roman, centred; the third
+*Pars* heading of the work, after 13L and 88L), ¶ 1 *Appropinquabat autem dies festus azymorum etc.* (divisio:
+*antecedentia / concomitantia, ibi Adhuc eo loquente, ecce turba, infra eodem capitulo*), the italic t2 *Primo, de
+passione quoad quatuor antecedentia.*, an un-numbered divisio naming the Tabula's four *antecedentia* (machinatio
+proditoris / institutio Sacramenti altaris, ibi *Venit autem dies azymorum* / eruditio discipulorum, ibi *Facta est
+autem et contentio inter eos* / supplicatio, ibi *Et egressus, ibat secundum consuetudinem in montem Olivarum*), and the
+t3 *Primo, de machinatione proditoris dicuntur quatuor.* **The Pars III heading stands at p. 540, as ruling 14 assumed:
+it fixes the gate.** **The last row, `bon-luc-c21-v28-38`, ends exactly at `CAPITULUM XXII.`** p. 540's running head
+reads *C. XXII.* Anchors read (the register was not counted): p. 540 n. 1 (*accelerare*¹, 540L top band) is c. 21's;
+n. 2 on is c. 22's. **Stage 7 opens on a five-element stack (capitulum, t1, ¶ 1, t2, un-numbered text, t3)**; under
+ruling 22 its first row's title would be the t3 *Primo, de machinatione proditoris dicuntur quatuor.* (a prediction
+for the stage-7 drafter, not a ruling).
+
+## The p. 472 opening (MEASURED; as the stage-5 notes and the resume describe)
+
+¶ 66 closes c. 18 at ~0.40 of 472R; `CAPITULUM XIX.` full measure at ~0.44; the 472L t4 *Secundo confutat curiositatem
+in possidendo approbando liberalitatem duplicem.*; ¶ 1 *Et ingressus perambulabat Iericho etc.* (472L, no Vers. tag,
+marginale *Divisio.*), continued on 472R through the un-numbered *Studiositas autem Zachaei commendatur ex tribus*
+(marginale *Subdivisio.*) to ¶ 2 (Vers. 1). `c19-v1-10` opens at the capitulum and its `title_la` is the 472L t4
+(ruling 22). **p. 472 nn. 8–12 are this row's** (anchors *secundo*⁸, *ibi*⁹, *caelum*¹⁰, *ibi*¹¹, *inardescit*¹²).
+
+## Shared capitulum leaves (anchors read; registers not counted)
+
+- **p. 501:** c. 19 ¶ 75's tail in the top band carries no anchor; n. 1 (*documenta*¹) is c. 20 ¶ 1's. Prediction: the
+  whole p. 501 register is `c20-v1-9`'s.
+- **p. 520:** the top band (c. 20 ¶ 56) carries nn. 1–2 (*sexto*¹ 520L, *tertio*² 520R); n. 3 (*secundo*³) is c. 21
+  ¶ 1's. `c20-v41-47` owns p. 520 nn. 1–2, `c21-v1-4` from n. 3.
+- **p. 540:** n. 1 `c21-v28-38`'s; n. 2 on, the next interval's.
+
+## Corrections to the setup table and the record (MEASURED)
+
+- **Cap. XX last ¶ = 56**, not ~53. **Cap. XXI last ¶ = 60**, not ~54+. Cap. XIX's 75 is right; all three page spans
+  are right, and XXII opens on p. 540 with the Pars III heading.
+- **No capitulum in this stage is bare** (ruling 40 does not arise): `CAPITULUM XIX.` and `CAPITULUM XXI.` each have one
+  t4 under them; `CAPITULUM XX.` two, stacked in 501L around ¶ 1.
+- **Two lemmas print against the Vulgate**, both with an anchor on the word (transcribe as printed; the builders read
+  the notes): c. 19 ¶ 32 *Et tertius*¹¹ *venit dicens* (Vulgate v. 20 *Et alter venit*), in `c19-v20-28`'s title;
+  c. 19 ¶ 53 *Exeunte*¹³ *autem illo* (Vulgate v. 36 *Euntе autem illo*), in `c19-v36-40`'s title.
+- The Tabula's references for this stretch check out on the body: *approbatur liberalitas dupliciter (c. 19, 11)* = ¶ 15;
+  *incredulitas (c. 19, 29)* = ¶ 43; *per verba et documenta (c. 20, 1)* = c. 20 ¶ 1; *Pharisaei, Saducaei, informantur
+  discipuli ad tria* = c. 20 ¶¶ 1, 34, 52.
+
+## `low` rows (9, four decisions), with the alternatives
+
+Joint positions are page-equivalents (column fractions from text-layer paragraph positions against plate-measured
+column extents and footer rules; PREDICTION within ±0.1 pp).
+
+1. **Cap. XIX: `bon-luc-c19-v29-35`, `-v36-40` (¶¶ 43–52 / 53–62).**
+   - **The problem:** the 487L t3 and the 495L t4 stand ~8.1 pp apart (487.33 → 495.45), over cap 8 by less than the
+     estimate's own error (the `c16-v9-18` ~7.9 case, from the other side). Joints: ¶ 48 489.82 · ¶ 53 491.87.
+   - **Chosen:** cut at ¶ 53 (*Exeunte autem illo*, the third member of the 487R subdivisio): 4.5 + 3.6.
+   - **Alternatives:** (a) ¶ 43–62 kept whole (~8.1, one-pass build to 10, ruling 1c); (b) ¶ 48 instead: 2.5 + 5.6,
+     the first under the 2.7 test (no).
+2. **Cap. XX: `bon-luc-c20-v1-9`, `-v10-18` (¶¶ 1–13 / 14–24).**
+   - **The problem:** the Pharisee member (CAPITULUM XX. 501.09 → 512L t4 512.28, ~11.2 pp) must be cut. Its three
+     members are calumnia ¶ 1–9 (~2.4), perfidia ¶ 10–24 (~5.8), versutia ¶ 25–33 (~3.0). Calumnia is under the 2.7
+     test, and calumnia + perfidia (¶ 1–24, ~8.2) is over cap 8. Joints: ¶ 10 503.50 · ¶ 14 504.70 · ¶ 21 507.48 ·
+     ¶ 25 509.32.
+   - **Chosen:** ¶ 1–13 | ¶ 14–24 | ¶ 25–33 (3.6 / 4.6 / 3.0): calumnia joined to the head of the perfidia member
+     (the benignitas parable, ¶¶ 10–13) across ¶ 10, cut at ¶ 14, ¶ 10's own joint (the `c11-v27-32` shape). Every
+     piece ≥ 2.7, none over 6.
+   - **Alternatives:** (b) ¶ 1–9 | ¶ 10–24 | ¶ 25–33 (2.4 / 5.8 / 3.0): Bonaventure's three members exactly, which are
+     also the three Gospel pericopes (Luke 20:1–8, 9–18, 19–26), but the first is under the 2.7 test; (c) ¶ 1–20 |
+     ¶ 21–33 (6.4 / 4.8; ¶ 21 is the third member of ¶ 10, *Quid ergo faciet illis dominus vineae*), two rows, the
+     second joined across ¶ 25.
+3. **Cap. XX: `bon-luc-c20-v27-40`, `-v41-47` (¶¶ 34–46 / 47–56).**
+   - **The problem:** three sections between the 512L stack and `CAPITULUM XXI.`: resurrectio (512L t4, ~4.2),
+     incarnatio (516R t4, ~1.8), the discipuli member's first section (518L + 518R t4s, ~1.9). The last two cannot stand
+     alone, and the capitulum stops the third from joining its own siblings in c. 21. Positions: 512L 512.28 · 516R
+     516.52 · 518L 518.36 · CAPITULUM XXI. 520.26.
+   - **Chosen:** ¶ 34–46 | ¶ 47–56 (4.2 + 3.7), the second joined across the 518L t4 (a higher joint, ¶ 1's third
+     member) to the incarnatio section.
+   - **Alternatives:** (a) ¶ 34–51 | ¶ 52–56 (6.1 + 1.9; the second a capitulum-bounded fragment); (b) ¶ 34–56 kept
+     whole (~8.0, at cap 8).
+4. **Cap. XXI: `bon-luc-c21-v1-4`, `-v5-11`, `-v12-19` (¶¶ 1–8 / 9–17 / 18–27).**
+   - **The problem:** the widow (520L t4, ~3.0) is bounded by two headings; then no heading for ~16.8 pp. ¶ 9's four
+     members are generaliter ¶ 9–12 (~1.5), persecutio ¶ 13–27 (~5.6), Ierusalem ¶ 28–40 (~2.9), iudicium ¶ 41–60
+     (~6.8). Generaliter cannot stand alone. Positions: 523L t4 523.28 · ¶ 13 524.80 · ¶ 18 527.06 · ¶ 28 530.44.
+   - **Chosen:** ¶ 1–8 | ¶ 9–17 | ¶ 18–27 (3.0 / 3.8 / 3.4): generaliter joined to persecutio (¶ 9–27, ~7.2, over 6),
+     which the size rule then splits at ¶ 18, ¶ 13's own joint.
+   - **Alternatives:** (b) ¶ 1–12 | ¶ 13–27 (4.5 + 5.6): generaliter joined back to the widow across the 523L t4, and
+     the persecution member (Luke 21:8–19) kept whole; (c) ¶ 1–8 | ¶ 9–27 kept whole (~7.2).
+
+Each row's builder applies ruling 39's procedure (reads its boundary plates, promotes its own row or STOPS). In
+decision 4, `c21-v1-4`'s own span is fixed by two headings under (a) and (c); it is `low` because (b) moves its end.
+
+## Rule applications that needed a choice (not `low`)
+
+- **Required cuts at named joints** (heading gap over ~8 pp):
+  - **c. 19 ¶ 15** (`CAPITULUM XIX.` to the 487L t3 ~14.8 pp): ¶ 1's two members, Zacchaeus ¶ 1–14 (~4.9) / the
+    parable ¶ 15–42 (~9.9). The parable is cut again.
+  - **c. 19 ¶¶ 22, 32** (the parable, ~9.9 pp): ¶ 15's first member (occasio, ¶ 15–17, ~0.8) and ¶ 18's first
+    (status meriti, ¶ 18–21, ~2.2) cannot stand alone and stay together (~3.0); ¶ 18's second, status iudicii ¶ 22–42
+    (~6.9), is over 6 and is cut at ¶ 32 (*Et tertius venit dicens*, the third of ¶ 22's four members), 3.3 + 3.6
+    (the `c15-v20-24` / `c15-v25-32` application of the size rule). Positions: ¶ 15 477.45 · ¶ 22 480.46 · ¶ 25 481.26 ·
+    ¶ 32 483.72 · ¶ 40 486.30 · t3 487.33. **Alternative:** one cut at ¶ 25 (*Venit autem primus*): ¶ 15–24 (~3.8) |
+    ¶ 25–42 (~6.1, which no joint splits into two pieces ≥ 2.7, so it would stand whole).
+  - **c. 20 ¶ 25** (the Pharisee member, ~11.2 pp): the third member of the 501L subdivisio; the other cuts are
+    decision 2.
+  - **c. 21 ¶¶ 28, 41, 48** (the 523L t4 to `CAPITULUM XXII.` ~16.8 pp): ¶ 28 and ¶ 41 are ¶ 9's third and fourth
+    members; the fourth (¶ 41–60, ~6.8) is over 6 and is cut at ¶ 48, ¶ 41's own second member, 2.9 + 3.9 (¶ 55 would
+    leave ~1.6). Positions: ¶ 41 533.31 · ¶ 48 536.23 · ¶ 55 538.46 · CAPITULUM XXII. 540.11. **Alternative:** ¶ 41–60
+    kept whole (~6.8, the `c18-v28-43` size).
+- **Kept together, sibling sections (ruling 1c):** `c19-v41-48`, the 495L / 498L / 499R t4 sections (~2.8 / ~1.1 /
+  ~1.7; together ~5.6). **Alternative:** ¶ 63–69 | ¶ 70–75 (2.8 + 2.9).
+
+## Titles (ruling 22 / 33 / 40)
+
+- **Lowest heading of the opening stack, whole:** `c19-v1-10` (the 472L t4), `c19-v29-35` (the second 487R t4, below
+  the 487L t3, ¶ 43 and the first 487R t4), `c19-v41-48` (495L), `c20-v1-9` (the lower 501L t4, below CAPITULUM XX.,
+  the upper 501L t4 and ¶ 1), `c20-v27-40` (the lower 512L t4, below the upper one and ¶ 34), `c20-v41-47` (516R),
+  `c21-v1-4` (520L), `c21-v5-11` (523L) — eight. Where two t4s stand at one column, `title_la_source` names the column
+  and the title is the lower (the `c18-v18-27` / `c16-v1-8` convention).
+- **Sentence titles** (lemma + dividing words through the end of the sentence naming the member; verse tags and
+  footnote anchors dropped): `c19-v11-14` (¶ 15), `c19-v15-19` (¶ 22, whose sentence runs on through its four *ibi*
+  clauses onto 480R, the `c16-v22-31` precedent), `c19-v20-28` (¶ 32, *tertius* as printed), `c19-v36-40` (¶ 53,
+  *Exeunte* as printed), `c20-v10-18` (¶ 14), `c20-v19-26` (¶ 25), `c21-v12-19` (¶ 18), `c21-v20-24` (¶ 28, the sentence
+  crossing to 530R), `c21-v25-27` (¶ 41), `c21-v28-38` (¶ 48) — ten.
+- No Corrigenda entry touches a title (ruling 4).
+
+## Corrigenda
+
+**One:** p. 533, col. 2, l. 11, *poterunt* → *poterant*. Read on the plate: 533R l. 11 *siderum limpidissimae flammae
+illuminare poterunt*, inside the Wisdom 17:5 quotation in c. 21 ¶ 41 → `bon-luc-c21-v25-27`'s `corrigenda` cell. It
+touches no title. No other Luke entry falls in pp. 472–540 (the list jumps from p. 361 to p. 533); every other
+`corrigenda` cell in this stage is empty.
+
+## Split verses
+
+**None.** Every row ends on a verse's last paragraph and the next opens on the next verse's lemma.
+
+## Size distribution (18 rows)
+
+- **Printed pages touched:** min 4 / mean 4.8 / max 7.
+- **Estimated text extent** (PREDICTION, method as stages 4–5): min 2.87 (`c21-v20-24`) / mean 3.76 / max 5.64
+  (`c19-v41-48`); the 18 rows sum to ~67.6 pp (472.51 → 540.11). The mean is the lowest of any stage: the heading
+  gaps here are long, and the size rule cuts every piece over 6 that splits into two pieces ≥ 2.7.
+
+## Not verified
+
+- **Paragraph numbers inside rows** come from the text layer, anchored by plate-read numbers at both ends of every row.
+  The text layer misreads several (c. 19 ¶ 25 as `23`, ¶ 38 [Vers. 25] as `Vers. 23`, ¶ 45 as `43`, ¶ 53 as `83`,
+  ¶ 65 as `63`; c. 20 ¶ 5 as `0`, ¶ 25 as `2o`; c. 21 ¶ 35 as `33`, ¶ 51 as `Sl`, ¶¶ 55–60 as `5b`, `b6`, `b7`, `•58`,
+  `b9`, `GO`); every boundary number was read on the plate.
+- **Verse ends** are taken from the `(Vers. N.)` tags and the next row's lemma. The lemmas named in divisio *ibi:*
+  lists that are not boundaries and were not cropped (c. 19 ¶¶ 8, 12, 40, 48, 56, 60; c. 20 ¶ 21; c. 21 ¶¶ 24, 55)
+  were matched to their ¶ numbers on the text layer only.
+- **Footer registers** were not counted (the builders count them; ruling 15). The shared-leaf anchor splits above are
+  anchors read on crops, not register counts.
+- **Gutters** were taken from a minimum-ink screen for cropping only; no gutter here is a measurement for a builder.

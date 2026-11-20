@@ -1081,3 +1081,48 @@ clarifying sentence (ruling 93); ruling 18 the passive form (ruling 101); ruling
 
 **Manifest stage 6 is NOT drawn.** Stage 5 (`21637e0`) ends at `bon-luc-c18-v28-43`; the manifest has no row past it.
 The next step is drawing stage 6 (Cap. XIX ¶ 1 on p. 472 through the p. 540 gate, ruling 2), which needs Wilson's go.
+
+### MANIFEST STAGE 6 — DRAWN 2026-11-20 (Cap. XIX – Cap. XXI, pp. 472–540; 18 rows appended to `lucam-chunk-manifest.tsv`; notes in `lucam-chunk-manifest-notes.md` § Stage 6)
+
+Rows per capitulum: **XIX 7 · XX 5 · XXI 6**. Drawn on Opus on Wilson's go (2026-11-20). Every boundary and every heading
+candidate was read on a 300 dpi crop (plates pp. 474–541 extracted this session). The candidates came from a
+vertical-gap screen over the plates of pp. 472–541, a divisio sweep and the text layer. The p. 540 gate interval is
+these 18 chunks, `bon-luc-c19-v1-10` through `bon-luc-c21-v28-38`. No chunk built; no existing row touched.
+
+**Corrections made by stage 6 (all MEASURED):**
+
+- **Cap. XX's last ¶ is 56, not ~53** (519R, printed *56..*, running across the top of p. 520). **Cap. XXI's last ¶ is
+  60, not ~54+** (539R, Vers. 38, running across the top of p. 540). Cap. XIX's is 75 (500R → 501 top), as the table
+  has it. Each capitulum's first and last pages are as predicted (472–501, 501–520, 520–540); **none overran.**
+- **The p. 540 gate falls at ¶ 60 / `CAPITULUM XXII.` on p. 540 (~0.13 / ~0.155 of the leaf), with `Pars III. De
+  passionis medicamento agitur dupliciter.` standing below it on 540L** (then ¶ 1, the italic t2 *Primo, de passione
+  quoad quatuor antecedentia.*, un-numbered text, the t3 *Primo, de machinatione proditoris dicuntur quatuor.*). The
+  last row ends there. p. 540 n. 1 is `c21-v28-38`'s; n. 2 on, the next interval's.
+- No capitulum in the stage is bare (ruling 40 does not arise). Two lemmas print against the Vulgate with an anchor on
+  the word, both inside sentence titles, transcribed as printed: c. 19 ¶ 32 *Et tertius venit* (`c19-v20-28`), ¶ 53
+  *Exeunte autem illo* (`c19-v36-40`).
+- Headings: one t3 (487L, the fourth member of the 288L t3, *Incredulitas Iudaeorum confutatur…*), fifteen t4, no t1
+  or t2 before p. 540. The 501L t4 *Secundo confutat Iudaeorum incredulitatem per verba et documenta…* is set as a t4
+  but ranks as the 487L t3's second member (the 460R / 472L pattern). Every heading, interior and stacked, is in its
+  row's `headings` cell (ruling 100's lesson).
+
+**Corrigenda:** one entry falls in pp. 472–540: **p. 533 col. 2 l. 11 *poterunt* → *poterant***, read on the plate
+(Wisdom 17:5 inside c. 21 ¶ 41) → `bon-luc-c21-v25-27`'s `corrigenda` cell. It touches no title (ruling 4).
+
+**`low` rows (9, four decisions).** The alternatives for each are in the notes.
+
+- `c19-v29-35` / `c19-v36-40`: the 487L t3 and 495L t4 stand ~8.1 pp apart, over cap 8 within the estimate's error. Cut
+  at ¶ 53, 4.5 + 3.6. Alternative: kept whole (~8.1, one-pass build to 10).
+- `c20-v1-9` / `c20-v10-18`: calumnia (¶ 1–9, ~2.4) is under the 2.7 test and ¶ 1–24 (~8.2) over cap 8. Cut at ¶ 14,
+  ¶ 1–13 | ¶ 14–24 (3.6 + 4.6), calumnia joined across ¶ 10 (the `c11-v27-32` shape). Alternatives: ¶ 1–9 | ¶ 10–24
+  (2.4 + 5.8, Bonaventure's members and the Gospel pericopes exactly); or ¶ 1–20 | ¶ 21–33 (6.4 + 4.8).
+- `c20-v27-40` / `c20-v41-47`: ¶ 34–46 | ¶ 47–56 (4.2 + 3.7), the second joined across the 518L t4. Alternatives:
+  ¶ 34–51 | ¶ 52–56 (6.1 + 1.9); or ¶ 34–56 whole (~8.0).
+- `c21-v1-4` / `c21-v5-11` / `c21-v12-19`: ¶ 1–8 | ¶ 9–17 | ¶ 18–27 (3.0 / 3.8 / 3.4), generaliter joined to
+  persecutio and split at ¶ 18. Alternatives: ¶ 1–12 | ¶ 13–27 (4.5 + 5.6, across the 523L t4); or ¶ 9–27 whole (~7.2).
+
+Rule applications with an alternative but not `low`: the parable cut at ¶¶ 22 and 32 (alt. ¶ 25 alone, 3.8 + 6.1);
+c. 21 ¶ 41–60 cut at ¶ 48 (alt. whole, ~6.8); the 495L / 498L / 499R sibling t4s kept together in `c19-v41-48`
+(alt. ¶ 63–69 | ¶ 70–75).
+
+**The p. 540 gate** (ruling 14: Pars II closes) closes this interval.
