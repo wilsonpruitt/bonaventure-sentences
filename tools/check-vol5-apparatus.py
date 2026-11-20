@@ -6748,9 +6748,26 @@ KNOWN_TOTALS_VOL7 = {
              # Gutter 1164.
     512: 15, # SHARED: nn.1-5 bon-luc-c20-v19-26 (para 33 tail, closing 512L ~0.41 above the
              # t4 *Confutatio Sadducaeorum errantium ex ignorantia quoad duo.*), nn.6-15
-             # PENDING for bon-luc-c20-v27-40 (n.6 *secundo* in para 34 (Cfr. supra n. 1.),
-             # n.7 *ibi* (Dixit autem ad illos), n.8 *ibi* (Et ait illis Iesus) 512L; nn.9-15
-             # 512R). Blocks L 1-8 / R 9-15. Gutter 1302.
+             # bon-luc-c20-v27-40 (n.6 *secundo* in para 34 (Cfr. supra n. 1.), n.7 *ibi*
+             # (Dixit autem ad illos), n.8 *ibi* (Et ait illis Iesus) 512L below the t4s;
+             # nn.9-15 512R, paras 35-36 head; re-derived, no correction). Blocks L 1-8 /
+             # R 9-15. No runover. Gutter 1302.
+    513: 14, # bon-luc-c20-v27-40 (paras 36 tail-38). Anchors L 1-7 / R 8-14; blocks L 1-6
+             # head / R 6 tail-14; n.6 (Vers. 51. 52. -- the corrupt-locus note ... Et post
+             # congre-|garet in unum prosequitur) a GUTTER runover; n.14 (Glossa ordinaria
+             # apud Lyranum ... Ibid. (etiam apud Strab.)|secundum Bedam ...) a PAGE runover,
+             # completing at the HEAD of p.514's LEFT block. Gutter 1168 (band 1143-1194).
+    514: 12, # bon-luc-c20-v27-40 (paras 38 tail-42 head). Anchors L 1-6 / R 7-12; blocks
+             # L (513 n.14 tail) 1-4 / R 5-12. No runover of its own. Gutter 1294.
+    515: 13, # bon-luc-c20-v27-40 (paras 42 tail-44). Anchors L 1-6 / R 7-13; blocks L 1-7 /
+             # R 8-13. No runover. Gutter 1169 (band 1143-1195).
+    516: 12, # SHARED: nn.1-8 bon-luc-c20-v27-40 (para 44 tail-46, ALL 516L: n.1 *ardenti*,
+             # n.2 *octavo* (Isa. 28), n.3 *secundo* (Matth. 22), n.4 *tertio* (Act. 23), n.5
+             # *confuderat*, n.6 *Glossa*, n.7 *nono* (Iob 9), n.8 *Psalmi*); para 46 closes
+             # at the FOOT of 516L, the t4 *Secundo confutatur error circa mysterium
+             # incarnationis, de quo tria.* heads 516R. nn.9-12 PENDING for bon-luc-c20-v41-47
+             # (all 516R: n.9 *incarnationis* (Cfr. supra n. 34.), n.10 *Psalmo*, n.11 *primo*,
+             # n.12 *secundo*). Blocks L 1-6 / R 7-12 (nn.7-8 anchor L, print R). Gutter 1292.
 }
 
 KNOWN_TOTALS_BY_VOL = {
