@@ -6610,6 +6610,21 @@ KNOWN_TOTALS_VOL7 = {
              # heading. nn.1-5 bon-luc-c19-v11-14's (all anchored 480L, para 21). nn.6-13
              # PENDING for bon-luc-c19-v15-19 (n.6 at para 22's *iudicii*; n.7 at *ibi*,
              # 480R head, prints left). Blocks L 1-7 / R 8-13. Gutter 1290.
+             # Now COMPLETE: nn.6-13 bon-luc-c19-v15-19's (anchors L 6 / R 7-13: n.6 para 22
+             # *iudicii*, n.7 *ibi* at 480R's head, prints left; n.13 *Psalmus*, 480R foot).
+             # No runover. Gutter re-derived 1289 (band 1262-1317, island 1283-1296).
+    481: 11, # bon-luc-c19-v15-19 (paras 23 tail-27). Anchors L 1-6 / R 7-11; blocks L 1-8 /
+             # R 8 tail-11 (nn.7-8 anchor right, print left). n.8 (Gloss, *iussus est
+             # praedicare*) runs over the GUTTER: its tail (dicare (ita etiam Beda) ... Eph. 4,
+             # 3-5.) heads the right block above n.9. Gutter 1154.
+    482: 14, # bon-luc-c19-v15-19 (paras 27 tail-29). Anchors L 1-6 / R 7-14; blocks L 1-6 /
+             # R 7-14. No runover. Gutter 1296.
+    483: 15, # SHARED. para 31 (un-versed, *Et notandum*) ends 483R ~0.33 (... hoc est
+             # rebellium Iudaeorum.); para 32 *(Vers. 20.) Et tertius venit dicens etc.* opens
+             # directly below, no heading. nn.1-10 bon-luc-c19-v15-19's (anchors L 1-6 /
+             # R 7-10; nn.7-8 anchor right, print left). nn.11-15 PENDING for
+             # bon-luc-c19-v20-28 (n.11 at para 32's *tertius*). Blocks L 1-8 / R 9-15.
+             # Gutter 1154.
 }
 
 KNOWN_TOTALS_BY_VOL = {
