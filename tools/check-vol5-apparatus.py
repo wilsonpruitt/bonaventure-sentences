@@ -6793,8 +6793,21 @@ KNOWN_TOTALS_VOL7 = {
              # into the right block). Gutter 1288 (rows 0.10-0.40: band 1259-1318, 60 px).
     523: 12, # SHARED: nn.1-4 bon-luc-c21-v1-4 (para 8 tail, 523L above the t4 *Informatio ad
              # providentiam respectu futurorum.* at ~0.43; n.4 *Iacobi quarto*). nn.5-12
-             # PENDING for bon-luc-c21-v5-11 (n.5 at para 9's *tertio*, *Cfr. supra c. 20.
-             # n. 52.*, 523L below the t4). Blocks L 1-6 / R 7-12. Gutter 1170.
+             # bon-luc-c21-v5-11's (para 9-11 head, below the t4: anchors L 5-6 (n.5 *tertio*,
+             # n.6 *ibi*) / R 7-12). Blocks L 1-6 / R 7-12. No runover. Gutter 1170.
+    524: 14, # bon-luc-c21-v5-11 (paras 11 tail-13). Anchors L 1-8 / R 9-14; blocks L 1-4 /
+             # R 5-14 (nn.5-8 anchor L, print R). No runover. Gutter 1281 (rows 0.10-0.40:
+             # band 1252-1310, 59 px, island 1277-1287).
+    525: 13, # bon-luc-c21-v5-11 (paras 13 tail-15). Anchors L 1-7 / R 8-13; blocks L 1-4
+             # head / R 4 tail-13 (n.4 Card. Hugo / Josephus runs over the gutter, *in Act.* |
+             # *Apost. c. 29.*; nn.5-7 anchor L, print R). Gutter 1167 (band 1138-1196).
+    526: 13, # bon-luc-c21-v5-11 (paras 15 tail-17). Anchors L 1-6 / R 7-13; blocks L 1-6 /
+             # R 7-13 (exact). No runover. Gutter 1302 (band 1271-1333, 63 px).
+    527: 12, # SHARED: n.1 bon-luc-c21-v5-11 (para 17 tail, 527L top, *Gregorius*, above
+             # para 18 *Sed ante haec omnia* at ~0.16, the divisio cut). nn.2-12 PENDING for
+             # bon-luc-c21-v12-19 (n.2 at para 18's *perfectorum*, *Cfr. supra n. 13.*).
+             # Blocks L 1-8 head / R 8 tail-12 (n.8 runs over the gutter, read at overview
+             # only -- the next builder re-derives). Gutter 1172 (band 1142-1203).
 }
 
 KNOWN_TOTALS_BY_VOL = {
