@@ -6625,6 +6625,27 @@ KNOWN_TOTALS_VOL7 = {
              # R 7-10; nn.7-8 anchor right, print left). nn.11-15 PENDING for
              # bon-luc-c19-v20-28 (n.11 at para 32's *tertius*). Blocks L 1-8 / R 9-15.
              # Gutter 1154.
+             # Now COMPLETE: nn.11-15 bon-luc-c19-v20-28's (all anchored 483R: n.11 para 32
+             # *tertius*, n.12 *designantur*, n.13 *Glossa*, n.14 *Beda*, n.15 *Proverbiorum
+             # undecimo*, 483R foot; all print right). No runover.
+    484: 13, # bon-luc-c19-v20-28 (paras 32 tail-35). Anchors L 1-6 / R 7-13; blocks L 1-8 /
+             # R 8 tail-13 (n.7 anchors right, prints left). n.8 (Matt. 11:29, the interlinear
+             # Gloss *Quia homo austerus es*) runs over the GUTTER: its tail (Quia homo
+             # austerus es, ... in Matth. 25, 24.) heads the right block above n.9. Gutter
+             # 1292 (skewed: 1286 rows 0.10-0.40, 1299 rows 0.40-0.70).
+    485: 15, # bon-luc-c19-v20-28 (paras 35 tail-39). Anchors L 1-7 / R 8-15; blocks L 1-6 /
+             # R 7-15 (n.7 anchors left, prints right). n.15 (Augustine, II Qq. Evang. q. 46)
+             # runs over the PAGE: its tail (ei datur, qui decem habebat ... bene utitur.)
+             # heads p. 486's LEFT block above p. 486 n.1. Gutter 1159.
+    486: 14, # bon-luc-c19-v20-28 (paras 39 tail-42). Anchors L 1-8 / R 9-14; blocks
+             # L (p.485 n.15 tail) 1-7 / R 8-14 (n.8 anchors left, prints right). No runover.
+             # Gutter 1271.
+    487: 13, # SHARED. para 42 (Vers. 28.) ends 487L ~0.44 (... parabolam fuisse praemissam
+             # ».); the t3 *Incredulitas Iudaeorum confutatur tum per facta tum per verba et
+             # documenta.* stands below, then para 43. nn.1-4 bon-luc-c19-v20-28's (all
+             # anchored 487L, para 42; n.4 at *Ratio supra*). nn.5-13 PENDING for
+             # bon-luc-c19-v29-35 (n.5 at para 43's *Iesus*). Blocks L 1-9 head / R 9 tail-13
+             # (n.9 runs over the gutter). Gutter 1139.
 }
 
 KNOWN_TOTALS_BY_VOL = {
