@@ -6733,10 +6733,24 @@ KNOWN_TOTALS_VOL7 = {
              # anchor left, print right). No runover of its own. Gutter 1298 (skewed: 1292
              # upper / 1304 lower).
     509: 12, # SHARED: nn.1-4 bon-luc-c20-v10-18 (para 24 tail, closing 509L ~0.44), nn.5-12
-             # PENDING for bon-luc-c20-v19-26 (para 25 *Et quaerebant principes sacerdotum*
-             # opens 509L ~0.45: n.5 *pars*, n.6 *ibi* (Considerans), n.7 *hora*, n.8 Prov. *nono*,
-             # n.9 *istam*, n.10 Actuum *tertio*, n.11 *quarto*, n.12 *et* (traderent)).
-             # Anchors L 1-7 / R 8-12; blocks L 1-9 / R 10-12. Gutter 1164.
+             # bon-luc-c20-v19-26 (para 25 *Et quaerebant principes sacerdotum* opens 509L
+             # ~0.45: n.5 *pars*, n.6 *ibi* (Considerans), n.7 *illa* (hora), n.8 Prov. *nono*,
+             # n.9 *istam*, n.10 Actuum *tertio*, n.11 *quarto*, n.12 *et* (traderent); re-derived,
+             # no correction). Anchors L 1-7 / R 8-12; blocks L 1-9 / R 10-12. No runover.
+             # Gutter 1164 (upper) / 1161 (rows 0.45-0.75).
+    510: 12, # bon-luc-c20-v19-26 (paras 26 tail-30 head). Anchors L 1-7 / R 8-12; blocks
+             # L 1-7 head / R 7 tail-12; n.7 (Vers. 6. -- De triplici veritate ... doctri-|nae)
+             # a GUTTER runover. n.4 prints *Matth. 32, 16* (Quaracchi slip for 22, 16).
+             # Gutter 1298.
+    511: 14, # bon-luc-c20-v19-26 (paras 30 tail-33 head). Anchors L 1-6 / R 7-14; blocks
+             # L 1-5 head / R 5 tail-14; n.5 (Ambrose IX in Luc. ... in Iacobo vel |Ioanne) a
+             # GUTTER runover. n.1 prints *cfr. Matth. 20, 20* (Quaracchi slip for 22, 20).
+             # Gutter 1164.
+    512: 15, # SHARED: nn.1-5 bon-luc-c20-v19-26 (para 33 tail, closing 512L ~0.41 above the
+             # t4 *Confutatio Sadducaeorum errantium ex ignorantia quoad duo.*), nn.6-15
+             # PENDING for bon-luc-c20-v27-40 (n.6 *secundo* in para 34 (Cfr. supra n. 1.),
+             # n.7 *ibi* (Dixit autem ad illos), n.8 *ibi* (Et ait illis Iesus) 512L; nn.9-15
+             # 512R). Blocks L 1-8 / R 9-15. Gutter 1302.
 }
 
 KNOWN_TOTALS_BY_VOL = {
