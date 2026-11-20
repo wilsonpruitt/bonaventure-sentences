@@ -6714,10 +6714,29 @@ KNOWN_TOTALS_VOL7 = {
              # R 5-11 (nn.5-6 anchor left, print right). No runover. Gutter 1289.
     503: 14, # bon-luc-c20-v1-9 (paras 8-11). Anchors L 1-6 / R 7-14; blocks L 1-7 / R 8-14
              # (n.7 anchors right, prints left). No runover. Gutter 1162.
-    504: 14, # SHARED: nn.1-9 bon-luc-c20-v1-9 (paras 11 tail-13), nn.10-14 PENDING for
-             # bon-luc-c20-v10-18 (para 14 opens 504R ~0.31: n.10 *vindemiae*, n.11
-             # *Iudaicae*, n.12 *ibi*, n.13 *prophetalis*, n.14 *Glossa*). Anchors L 1-7 /
-             # R 8-14; blocks L 1-7 head / R 7 tail-14; n.7 a GUTTER runover. Gutter 1278.
+    504: 14, # SHARED: nn.1-9 bon-luc-c20-v1-9 (paras 11 tail-13), nn.10-14 bon-luc-c20-v10-18
+             # (para 14 opens 504R ~0.31: n.10 *vindemiae*, n.11 *Iudaicae*, n.12 *ibi*,
+             # n.13 *prophetalis*, n.14 *Glossa* (para 15); re-derived on the plate, no
+             # correction). Anchors L 1-7 / R 8-14; blocks L 1-7 head / R 7 tail-14; n.7 a
+             # GUTTER runover. Gutter 1278.
+    505: 14, # bon-luc-c20-v10-18 (paras 15 tail-17). Anchors L 1-8 / R 9-14; blocks L 1-7 /
+             # R 8-14 (n.8 anchors left, prints right). No runover. Gutter 1146.
+    506: 14, # bon-luc-c20-v10-18 (paras 17 tail-19). Anchors L 1-7 / R 8-14; blocks L 1-8 head /
+             # R 8 tail-14; n.8 (interlinear Gloss, Bede ... Sed sem-) a GUTTER runover.
+             # Gutter 1288 (skewed: 1283 upper / 1293 lower).
+    507: 15, # bon-luc-c20-v10-18 (paras 19 tail-22). Anchors L 1-7 / R 8-15; blocks L 1-7 head /
+             # R 7 tail-15; n.7 a GUTTER runover (Codd. A C D G omittunt ...); n.15 (Augustine,
+             # de Cons. Evang. II c.70) a PAGE runover: its tail (commemorat dicens ... hoc est
+             # Absit.) heads p.508's LEFT block. Gutter 1154.
+    508: 14, # bon-luc-c20-v10-18 (paras 22 tail-24). Register opens mid-sentence (p.507 n.15's
+             # tail), then nn.1-4 left. Anchors L 1-7 / R 8-14; blocks L 1-4 / R 5-14 (nn.5-7
+             # anchor left, print right). No runover of its own. Gutter 1298 (skewed: 1292
+             # upper / 1304 lower).
+    509: 12, # SHARED: nn.1-4 bon-luc-c20-v10-18 (para 24 tail, closing 509L ~0.44), nn.5-12
+             # PENDING for bon-luc-c20-v19-26 (para 25 *Et quaerebant principes sacerdotum*
+             # opens 509L ~0.45: n.5 *pars*, n.6 *ibi* (Considerans), n.7 *hora*, n.8 Prov. *nono*,
+             # n.9 *istam*, n.10 Actuum *tertio*, n.11 *quarto*, n.12 *et* (traderent)).
+             # Anchors L 1-7 / R 8-12; blocks L 1-9 / R 10-12. Gutter 1164.
 }
 
 KNOWN_TOTALS_BY_VOL = {
