@@ -6685,6 +6685,27 @@ KNOWN_TOTALS_VOL7 = {
              # nn.1-5 bon-luc-c19-v36-40's (all anchored 495L above the t4). nn.6-12 PENDING
              # for bon-luc-c19-v41-48 (n.6 at para 63's *secundo*, 495R). Blocks L 1-7 head /
              # R 7 tail-12 (n.7 runs over the gutter). Gutter 1152.
+             # Now COMPLETE: nn.6-12 bon-luc-c19-v41-48's (n.6 *secundo*, n.7 *plorans*,
+             # n.8 *Iacobi quarto*, n.9 *Psalmus*, n.10 *Ioannis undecimo*, n.11 *cantat*,
+             # n.12 *Psalmus*, all 495R). Re-derived on the plate, no correction.
+    496: 15, # bon-luc-c19-v41-48 (paras 64 tail-66). Anchors L 1-8 / R 9-15; blocks
+             # L 1-6 head / R 6 tail-15. n.6 (interlinear Gloss, ... quae im-) runs over the
+             # GUTTER: its tail (minet, et tu ... pag. 340, nota 2.) heads the right block.
+             # Gutter 1295.
+    497: 13, # bon-luc-c19-v41-48 (paras 66 tail-69). Anchors L 1-6 / R 7-13; blocks L 1-9 /
+             # R 10-13 (nn.7-9 anchor right, print left). No runover. Gutter 1170.
+    498: 12, # bon-luc-c19-v41-48 (paras 69 tail-71; the t4 *Aequitatem iudicialem ...*
+             # 498L ~0.20). Anchors L 1-5 / R 6-12; blocks L 1-6 / R 7-12 (n.6 anchors right,
+             # prints left). No runover. Gutter 1289 (rows 0.25-0.70).
+    499: 12, # bon-luc-c19-v41-48 (paras 71 tail-73; the t4 *Auctoritatem magistralem ...*
+             # 499R ~0.31). Anchors L 1-7 / R 8-12; blocks L 1-5 / R 6-12 (nn.6-7 anchor
+             # left, print right). No runover. Gutter 1168.
+    500: 16, # bon-luc-c19-v41-48 (paras 73 tail-75). Anchors L 1-8 / R 9-16; blocks
+             # L 1-11 / R 12-16 (nn.9-11 anchor right, print left). No runover. Gutter 1287.
+             # p.501: para 75 closes across the top band of BOTH columns (... vitam aeternam
+             # habebunt ».) above the full-measure CAPITULUM XX.; the top band carries NO
+             # anchor, so ALL of p.501's notes are bon-luc-c20-v1-9's (n.1 at para 1's
+             # *documenta*). bon-luc-c19-v41-48 owns none of p.501.
 }
 
 KNOWN_TOTALS_BY_VOL = {
