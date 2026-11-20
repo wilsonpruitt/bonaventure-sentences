@@ -6781,8 +6781,20 @@ KNOWN_TOTALS_VOL7 = {
     520: 11, # SHARED: nn.1-2 bon-luc-c20-v41-47 (para 56 tail, the top band of BOTH
              # columns above the full-measure CAPITULUM XXI. at ~0.24: n.1 *sexto* (Iob 36)
              # 520L, n.2 *tertio* (Matth. 23) 520R; both print in the LEFT block). nn.3-11
-             # PENDING for bon-luc-c21-v1-4 (n.3 at Cap. XXI para 1's *secundo*, *Cfr. supra
-             # c. 20. n. 52.*). Blocks L 1-4 / R 5-11. Gutter 1286 (lower) / ~1285 (top band).
+             # bon-luc-c21-v1-4's (Cap. XXI paras 1-2, below the capitulum: anchors L 3-7
+             # (n.3 *secundo*, n.4 *pecuniae*, n.5 Nehemiae, n.6 Ezechielis, n.7 Ioannis) /
+             # R 8-11; nn.5-7 anchor L and print R). Blocks L 1-4 / R 5-11. No runover.
+             # Gutter 1286 (lower) / ~1285 (top band).
+    521: 15, # bon-luc-c21-v1-4 (paras 2 tail-6 head). Anchors L 1-7 / R 8-15; blocks L 1-6 /
+             # R 7-15 (n.7 *Gregorius* anchors L, prints R). No runover. Gutter 1171
+             # (rows 0.10-0.40: band 1142-1201, 60 px, island 1168-1176).
+    522: 13, # bon-luc-c21-v1-4 (paras 6 tail-8). Anchors L 1-5 / R 6-13; blocks L 1-9 head /
+             # R 9 tail-13 (nn.6-9 anchor R, print L; n.9 Theophylact runs over the gutter
+             # into the right block). Gutter 1288 (rows 0.10-0.40: band 1259-1318, 60 px).
+    523: 12, # SHARED: nn.1-4 bon-luc-c21-v1-4 (para 8 tail, 523L above the t4 *Informatio ad
+             # providentiam respectu futurorum.* at ~0.43; n.4 *Iacobi quarto*). nn.5-12
+             # PENDING for bon-luc-c21-v5-11 (n.5 at para 9's *tertio*, *Cfr. supra c. 20.
+             # n. 52.*, 523L below the t4). Blocks L 1-6 / R 7-12. Gutter 1170.
 }
 
 KNOWN_TOTALS_BY_VOL = {

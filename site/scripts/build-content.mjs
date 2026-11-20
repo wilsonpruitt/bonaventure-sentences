@@ -1252,6 +1252,14 @@ const WORKS = {
       // etc.`, then `Confutatio Pharisaeorum errantium ex malitia per tria.`, the lowest
       // of the stack and the title_la (ruling 22). Running head of p. 501: C. XX.
       20: "Capitulum XX",
+      // `CAPITULUM XXI.` read in place on p. 520 at bon-luc-c21-v1-4: full-measure
+      // letter-spaced small capitals, WITH its period, at ~0.24 of the leaf, below Cap.
+      // XX's last para 56 (...saturatae sunt carnibus eorum ».), which runs across the top
+      // band of both columns; no subtitle, unanchored (p. 520's nn. 3-11 anchor in para 1's
+      // body and after). Below it in 520L ONE t4 (small bold, unanchored): `Informatio ad
+      // eligentiam meliorum per exemplum viduae.`, the title_la (ruling 22), over para 1
+      // `Respiciens autem vidit etc.` Running head of p. 520: C. XXI.
+      21: "Capitulum XXI",
     },
   },
 };
