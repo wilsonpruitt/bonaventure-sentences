@@ -6646,6 +6646,28 @@ KNOWN_TOTALS_VOL7 = {
              # anchored 487L, para 42; n.4 at *Ratio supra*). nn.5-13 PENDING for
              # bon-luc-c19-v29-35 (n.5 at para 43's *Iesus*). Blocks L 1-9 head / R 9 tail-13
              # (n.9 runs over the gutter). Gutter 1139.
+             # Now COMPLETE: nn.5-13 bon-luc-c19-v29-35's (anchors L 5-7 / R 8-13: n.5 para
+             # 43 *Iesus*, n.6 *incredulitatem*, n.7 *vigesimo*, 487L; n.8 first *ibi*, n.9
+             # second *ibi*, n.10 *gratiae*, n.11 *ad*, n.12 *Ambrosius*, n.13 *Hieronymus*,
+             # 487R). n.9 runs over the GUTTER (tail *quo pro Exeunte ... infra n. 53. et 54.*
+             # heads the right block). Gutter re-derived 1147 (rows 0.45-0.80: band 1119-1176).
+    488: 11, # bon-luc-c19-v29-35 (paras 44 tail-46). Anchors L 1-5 / R 6-11; blocks L 1-4 /
+             # R 5-11 (n.5 anchors left, prints right). n.11 (Jerome, III in Matth. 21) runs
+             # over the PAGE: its tail (gis traxerat, synagoga intelligatur ... gentium
+             # populus.) heads p. 489's LEFT block above p. 489 n.1. Gutter 1302.
+    489: 12, # bon-luc-c19-v29-35 (paras 46 tail-48). Anchors L 1-5 / R 6-12; blocks
+             # L (p.488 n.11 tail) 1-4 / R 5-12 (n.5 anchors left, prints right). No runover
+             # of its own. Gutter 1153.
+    490: 13, # bon-luc-c19-v29-35 (paras 48 tail-50). Anchors L 1-7 / R 8-13; blocks L 1-7 /
+             # R 7 tail-13. n.7 (Petr. Comestor, Hist. schol.) runs over the GUTTER: its tail
+             # (mune obsequium ... Etymolog. c. 1. n. 38.) heads the right block above n.8.
+             # Gutter 1308.
+    491: 15, # SHARED. para 52 (un-versed) ends 491R ~0.46 (... nec in tibiis » etc.); para 53
+             # *Exeunte autem illo etc.* opens directly below, no heading. nn.1-12
+             # bon-luc-c19-v29-35's (anchors L 1-7 / R 8-12). nn.13-15 PENDING for
+             # bon-luc-c19-v36-40 (n.13 at para 53's *illo*, n.14 *tertio*, n.15 *ibi*, all
+             # 491R). Blocks L 1-9 head / R 9 tail-15 (n.9 runs over the gutter). Gutter 1147
+             # (rows 0.10-0.40: 1141; rows 0.40-0.75: 1153).
 }
 
 KNOWN_TOTALS_BY_VOL = {
