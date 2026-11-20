@@ -6576,6 +6576,25 @@ KNOWN_TOTALS_VOL7 = {
              # anchor right, print left). nn.8-12 PENDING for the next interval's first
              # chunk (n.8 *Cfr. supra c. 18. n. 34.* at Cap. XIX para 1's *secundo*).
              # Gutter 1269 above CAPITULUM XIX., 1276 below.
+             # Now COMPLETE: nn.8-12 bon-luc-c19-v1-10's (anchors L 8-10 / R 11-12: n.8
+             # para 1 *secundo*, n.9 *ibi*, n.10 *caelum*, n.11 *ibi* (472R), n.12 *inardescit*);
+             # all print in the right block. No runover onto p. 473.
+    473: 14, # bon-luc-c19-v1-10 (paras 2 tail-7). Anchors L 1-6 / R 7-14; blocks L 1-7 /
+             # R 8-14 (n.7 anchors right, prints left). n.2 sets Seneca's verse centred on
+             # its own line. No runover. Gutter 1150.
+    474: 11, # bon-luc-c19-v1-10 (paras 7 tail-8). Anchors L 1-4 / R 5-11; blocks L 1-3 /
+             # R 4-11 (n.4 anchors left, prints right). n.3 (Augustine, Serm. 174) runs over the GUTTER: its tail (Gregor.,
+             # XXVII. Moral. ... In cuius.) heads the right block above n.4. Gutter 1315.
+    475: 12, # bon-luc-c19-v1-10 (paras 8 tail-10). Anchors L 1-6 / R 7-12; blocks L 1-5 /
+             # R 6-12 (n.6 anchors left, prints right). No runover. Gutter 1139.
+    476: 18, # bon-luc-c19-v1-10 (paras 10 tail-13). Anchors L 1-9 / R 10-18; blocks L 1-11 /
+             # R 12-18 (nn.10-11 anchor right, print left). n.11 runs over the GUTTER: its
+             # tail (legit virilitate ... Luc. 19, 8.) heads the right block. Gutter 1307.
+    477: 13, # SHARED. para 14 (Vers. 10.; Cap. XIX's Zacchaeus member closes) ends 477L
+             # ~0.54 (... salvus erit ».); para 15 *Haec illis audientibus etc.* opens
+             # directly below, no heading. nn.1-5 bon-luc-c19-v1-10's (all anchored 477L,
+             # para 13 tail-14). nn.6-13 PENDING for bon-luc-c19-v11-14 (n.6 at para 15's
+             # *negligentiam*). Blocks L 1-7 / R 8-13. Gutter 1166.
 }
 
 KNOWN_TOTALS_BY_VOL = {

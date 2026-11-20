@@ -1233,6 +1233,15 @@ const WORKS = {
       // exhibentur duo.` (unanchored), the only heading of the stack and the title_la
       // (ruling 22), over para 1 `Dicebat autem et parabolam ad illos etc.`
       18: "Capitulum XVIII",
+      // `CAPITULUM XIX.` read in place on p. 472 at bon-luc-c19-v1-10 (THE p. 472 GATE):
+      // full-measure letter-spaced small capitals, WITH its period, at ~0.43 of the leaf,
+      // below Cap. XVIII's last para 66 (...maior enim est omni laude ».), which closes
+      // 472R ~0.40; no subtitle, unanchored (p. 472's nn. 8-12 anchor in para 1's body and
+      // after). Below it in 472L the t4 `Secundo confutat curiositatem in possidendo
+      // approbando liberalitatem duplicem.` (small bold, two lines, unanchored), the only
+      // heading of the stack and the title_la (ruling 22), over para 1 `Et ingressus
+      // perambulabat Iericho etc.` The running head of p. 472 already reads C. XIX.
+      19: "Capitulum XIX",
     },
   },
 };
