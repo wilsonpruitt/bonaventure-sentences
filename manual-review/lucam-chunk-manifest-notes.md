@@ -977,7 +977,7 @@ column extents and footer rules; PREDICTION within ±0.1 pp).
    - **The problem:** three sections between the 512L stack and `CAPITULUM XXI.`: resurrectio (512L t4, ~4.2),
      incarnatio (516R t4, ~1.8), the discipuli member's first section (518L + 518R t4s, ~1.9). The last two cannot stand
      alone, and the capitulum stops the third from joining its own siblings in c. 21. Positions: 512L 512.28 · 516R
-     516.52 · 518L 518.36 · CAPITULUM XXI. 520.26.
+     516.52 · 518L ~~518.36~~ 518.53 (plate, p. 540 gate, ruling 122; the incarnatio section is then ~2.0 pp, not ~1.8, and the 518L / 518R section ~1.7, not ~1.9; their sum, the built `c20-v41-47`, unchanged) · CAPITULUM XXI. 520.26.
    - **Chosen:** ¶ 34–46 | ¶ 47–56 (4.2 + 3.7), the second joined across the 518L t4 (a higher joint, ¶ 1's third
      member) to the incarnatio section.
    - **Alternatives:** (a) ¶ 34–51 | ¶ 52–56 (6.1 + 1.9; the second a capitulum-bounded fragment); (b) ¶ 34–56 kept

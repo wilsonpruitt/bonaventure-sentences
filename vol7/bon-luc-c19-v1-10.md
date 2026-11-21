@@ -447,3 +447,5 @@ through the bestowal of divine grace, which was given at the presence of Christ,
 ### Italic — non-expositio sites
 
 None (the span is all *expositio*).
+
+**⭐ p. 540 GATE — RULED (Wilson, 2026-11-20, "Approve all"; rulings 117, 121, 123, 125 in `manual-review/vol7-pilot-setup.md`, evidence in `manual-review/vol7-lucam-p540-gate-evidence-sheet.md` items 117, 121, 123, 125; gate record `manual-review/vol7-lucam-p540-gate.md`).** **No line changed.** The four stray hard line breaks in the English (inside ¶ 5, ll. 102 / 103; ¶ 7, ll. 109 / 110; ¶ 9, ll. 118 / 119) are RECORDED, not joined (ruling 121: a single newline renders as a space; the work's tolerated residue). Both boundaries (477L END) ratified as built (ruling 123); `tr-pietas` (¶ 2) and `tr-lumen` (¶ 11) ratified as placed (ruling 117); *turba* "crowd" on the Luke 19:3 lemma (item (295)) ratified as a ruling-28 split (ruling 125). J-1's doubtful row ¶ 14 *secundi Paralipomenon ultimo* [302] is in the queued tool job (ruling 129), not run.

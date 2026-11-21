@@ -319,3 +319,5 @@ pleasures. On account of which also the Jews are said to be called from *nigh,* 
 ### Italic — non-expositio sites
 
 None (the span is all *expositio*).
+
+**⭐ p. 540 GATE — RULED (Wilson, 2026-11-20, "Approve all"; rulings 116, 123, 126 in `manual-review/vol7-pilot-setup.md`, evidence in `manual-review/vol7-lucam-p540-gate-evidence-sheet.md` items 116, 123, 126; gate record `manual-review/vol7-lucam-p540-gate.md`).** **No line changed.** *claritas* and *splendor* both "brightness" at ¶ 22 (item (329)) RATIFIED as built (ruling 116): Amos 5:20 keeps the Douay's word. Boundaries ratified (ruling 123).

@@ -508,7 +508,7 @@ evidence, censuses and alternatives are in the sheet, by § number, and are not 
   | *claritas* | the Douay's word at the verse ("brightness" at Luke 2:9; "glory" in Wis., II Cor. 3:18) |
   | *clarificatio* | "glorification" (shares its root with *glorificare* "glorify"; recorded, not a defect) |
   | *timoratus* | "God-fearing" |
-  | *corripere* / *correptio* · *arguere* | "correct" / "correction" · "reprove" |
+  | *corripere* / *correptio* · *arguere* | "correct" / "correction" · "reprove"; scope: *arguere* the logical act (*potest ex hoc argui*) "argue" (`c7-v1-16` ¶ 13, `c12-v13-34` ¶ 36, `c20-v27-40` ¶ 42) (**added by ruling 113**, p. 540 gate) |
   | *erudire* (body prose) · *eruditor* · *eruditio* | "school" ("we are schooled") · "schoolmaster" · "erudition" (ruling 17) |
   | *instruere* · *instructio* · *docere* | "instruct" · "instruction(s)" · "teach" |
   | *documentum* · *documenta* | "instruction" · "lessons" (ruling 17) |
@@ -518,8 +518,8 @@ evidence, censuses and alternatives are in the sheet, by § number, and are not 
   | *cohortatio* / *exhortatio* · *comminatio* / *increpatio* / *admonitio* | split by prefix · "threatening" / "rebuke" / "admonition" |
   | *praeceptum* · *consilium* · *mandatum* | "precept" · "counsel" · "commandment" (*decem praeceptis* ruling) |
   | *purgatio* · *purificatio* | "purgation" · "purification" |
-  | *ortus* · *partus* · *nativitas* | "birth" · "bringing forth" (or "offspring" where it is the child) · "nativity" |
-  | *cultus* | "worship" |
+  | *ortus* · *partus* · *nativitas* | "birth" · "bringing forth" (or "offspring" where it is the child) · "nativity"; scope: *ortus* "birth" also of faith (`c17-v5-10`) and of man under the figure of a tree (`c21-v28-38` ¶ 50); the sun's *ortus* and *ortum habere* "rising / take its rise" (**added by ruling 115**, p. 540 gate) |
+  | *cultus* | "worship"; scope: *cultus* (of God) "worship"; *cultus vestium / corporis* "adornment" (`c2-v1-7`); of the soil "tillage"; *cultor* "worshipper" or the Douay's word at a verse ("husbandman" Luke 20:10, "dresser" Luke 13:7), and *cultura* "worship" / "cultivation", by sense (**added by ruling 112**, p. 540 gate) |
   | *exsultare* | "exult" (Douay "rejoice" adjusted) |
   | *divulgare* · *profiteri* · *egenus* · *dominatrix* · *comprehendere* · *eventus* | "spread abroad" · "profess" · "needy" · "mistress" · "lay hold of" · "proceeds" |
   | *baptismus fluminis, flaminis, sanguinis* | Vol IV house rendering |
@@ -780,8 +780,9 @@ CLAUDE.md's Itinerarium *excessus* line gains a one-clause scope note (Wilson's 
   32's *vacare* row.** Recorded (F6): Ps. 45:11 is "Be still and see" at `c4-v14-22` p. 96 n. 10 (Bede; nothing leans),
   a ruling-28 split; the licence at `c11-v1-4` is the Vol VI `bon-cioan-c21` precedent + ruling 20.
 - **69. Ruling 49's forward clause DISCHARGED at `c8-v40-48`** (¶ 82); **its sentence is now the standing text of
-  `tr-praeceptor` wherever *magister* stands in the same paragraph** (item 16(a); one *Praeceptor* left in the work,
-  Luke 17:13). `c8-v40-48` ¶ 82 *magister et praeceptor* "master and preceptor" RATIFIED. An OT *praeceptor* takes the
+  `tr-praeceptor` wherever *magister* stands in the same paragraph** (item 16(a); ~~one *Praeceptor* left in the work,
+  Luke 17:13~~ **[corrected by ruling 110, p. 540 gate: two, Luke 17:13 and 21:7 (`c21-v5-11` ¶ 12); the struck text is kept
+  visible]**). `c8-v40-48` ¶ 82 *magister et praeceptor* "master and preceptor" RATIFIED. An OT *praeceptor* takes the
   Douay unless the exposition leans (ruling 20): Isa. 30:20 "thy master" `c5-v1-11` ¶ 10 / "teacher" `c9-v57-62`
   ¶ 103, p. 249 n. 2 — a ruling-28 split (F7; recorded in `c9-v57-62`'s Notes).
 - **70. Items 18–23 RATIFIED as built:** *intellectus / intelligentia / notitia / cognitio* (ruling 17 holds; F10
@@ -1126,3 +1127,125 @@ c. 21 ¶ 41–60 cut at ¶ 48 (alt. whole, ~6.8); the 495L / 498L / 499R sibling
 (alt. ¶ 63–69 | ¶ 70–75).
 
 **The p. 540 gate** (ruling 14: Pars II closes) closes this interval.
+
+# *LUCAM* p. 540 GATE — RULINGS 105–130 (Wilson, 2026-11-20; "Approve all")
+
+Binding summary. Every ⭐ recommendation of `manual-review/vol7-lucam-p540-gate-evidence-sheet.md` was taken as
+written, including the six the sheet marked as needing Wilson's own judgment (items 105–110). The passes draft
+(`manual-review/vol7-lucam-p540-gate-passes-draft.md`) is folded into the sheet: its N-1..N-4 are items 119, 120, 121,
+110; its R-1 is item 122. The evidence, censuses and alternatives are in those two documents, by item number, and are
+not repeated. Gate record: `manual-review/vol7-lucam-p540-gate.md`. **18 lines changed in 8 chunks (7 interval chunks +
+`c17-v11-19`): 17 English / definition lines + 1 blank line in a Latin body; no Latin word, no `**La.**` half, no
+frontmatter field and no manifest row changed.** Ruling 32's table gains three scope clauses (*cultus*, *arguere*,
+*ortus*: rulings 112, 113, 115); ruling 69's parenthesis is corrected in place (ruling 110). Notes records in 20 chunks
+(the 18 of the interval + `c16-v1-8`, `c17-v11-19`). No CLAUDE.md change.
+
+- **105. *virtus* in `c19-v29-35` → "power" at the eight sites; ruling 47 APPLIED** (D-1 [365]). Ruling 47 stands as
+  written: *virtus* "power"; the moral virtue "virtue". **5 lines in `c19-v29-35`** (ll. 91, 99, 111, 113, 298: ¶ 44
+  "in sublime power"; ¶ 46 "not by human power, but divine"; ¶ 50 "*the power of the divine precept*", "The power of
+  Christ", "*the power of obedience*" (kept with its pair, not (b)), "his power laid open", "the power of the true
+  possessor"; p. 490 n. 12 **En.** "the power may stand out") **+ 2 in `c21-v25-27`** (¶ 44 l. 70, p. 534 n. 11 **En.**
+  l. 160: *resistendi virtus* "neither power of resisting", found by the census). ¶ 52's *doctrina virtutum* stays "the
+  doctrine of the virtues". Both chunks' Notes answered; `c19-v29-35`'s register line amended in place.
+- **106. Luke 16:8 "sons" (`c20-v27-40`) / "children" (`c16-v1-8`) KEPT BOTH** (item 12 / D-3 [416]). A ruling-28 split:
+  `c20-v27-40` ¶ 40 leans on *filius* (five *filii* phrases read each against the next), `c16-v1-8` ¶¶ 11–12 do not.
+  No work rule for *filius*; ruling 93's "child(ren)" is *puer*. Recorded in both chunks' Notes. 0 lines.
+- **107. *excidium*: the split KEPT, SCOPED** (item 13 / D-4 [459]). **Scope sentence: "*excidium* 'destruction';
+  'overthrow' only where *destructio* stands under it as its member (`c21-v20-24` ¶¶ 28, 35); *eversio* 'overturning'
+  in that chunk is the split's cost."** "Destruction" is the work's word at the six other sites (`c19-v36-40` ¶ 62,
+  `c19-v41-48` ¶¶ 63, 66, 70, `c21-v5-11` ¶ 14, `c21-v20-24` ¶ 31); "overthrow" stays *subversio* / *eversio*'s word
+  elsewhere. (b) "downfall" not taken. 0 lines; Notes of `c21-v20-24` and `c19-v41-48` record it.
+- **108. *simulatio* "feigning" in `c20-v41-47` → "dissembling" in the prose; the lemma keeps the Douay** (item 18
+  [426]; rulings 88, 96). 4 lines (ll. 96, 98, 106, 108): ¶ 52 "*the dissembling of virtues*"; ¶ 53 "deceived by their
+  dissembling"; ¶ 56 "*the dissembling of virtues*" … "on account of the dissembling, because, since dissembling and
+  fraud" … "fraudulently and dissemblingly"; ¶ 56 cont. "the sevenfold dissembling". Luke 20:47 "*Feigning long
+  prayer*" (l. 106, p. 520 n. 1 l. 300) unchanged: the `c20-v19-26` shape. ¶ 56 has one root for *simulatio* and
+  *simulatores*. The `transcription_status` keeps "the feigning of virtues" (frontmatter; ruling 103's practice).
+- **109. Ruling 39's nine promotions RATIFIED; Cap. XXI alternative 4(c) NOT TAKEN** (items 2, A-1 [351, 361, 383, 394,
+  414, 424, 433, 441, 450]). All four stage-6 decisions stand as built (`c19-v29-35` / `-v36-40`; `c20-v1-9` /
+  `-v10-18`; `c20-v27-40` / `-v41-47`; `c21-v1-4` / `-v5-11` / `-v12-19`). 0 lines.
+- **110. `tr-praeceptor`: the false clause STRUCK; ruling 69 CORRECTED; the note ADDED at `c21-v5-11` ¶ 12** (D-2
+  [443]; passes N-4). (i) `c17-v11-19` l. 347: "; it is the last *praeceptor* of the Gospel and of this commentary"
+  struck; the sentence ends "… where it is the Douay's word." (ii) **Ruling 69's parenthesis annotated in place:**
+  "one *Praeceptor* left in the work, Luke 17:13" struck → "two, Luke 17:13 and 21:7 (`c21-v5-11` ¶ 12)". (iii)
+  `c21-v5-11`: `[^tr-praeceptor]` anchored after "Master" in ¶ 12 (l. 80) and defined ("*Praeceptor* (Luke 21:7, the
+  lemma of ¶ 12, *Praeceptor, quando haec erunt*) is rendered "Master", the Douay's word at this verse, as at Luke 5:5,
+  8:24, 8:45, 9:33, 9:49 and 17:13. The Latin word is built on *praecipere*, "to enjoin, command". No *magister* stands
+  in the paragraph."). **Ruling 49's `tr-praeceptor` is owed at every *Praeceptor* lemma site; ruling 69 fixes one
+  sentence of it where *magister* stands, and does not limit the note to those sites** (item (443)'s reading
+  corrected). The new note makes no claim to be the last (Cap. XXII–XXIV unbuilt). 3 lines; Vol VII `tr-` notes
+  92 → 93, `tr-praeceptor` 6 → 7.
+- **111. *cautela* "caution"; the one "wariness" CONFORMED** (item 14 / D-5 [428]). `c20-v19-26` ¶ 30 (l. 82) "the
+  caution of the temptation is overcome"; 19 / 19 sites. 1 line.
+- **112. *cultus* RATIFIED as built; ruling 32's row gains a scope clause** (item 15 [397, 425, 435]). The row now
+  reads: "*cultus* (of God) 'worship'; *cultus vestium / corporis* 'adornment' (`c2-v1-7`); of the soil 'tillage';
+  *cultor* 'worshipper' or the Douay's word at a verse ('husbandman' Luke 20:10, 'dresser' Luke 13:7), and *cultura*
+  'worship' / 'cultivation', by sense." 0 lines.
+- **113. *arguere* the logical act "argue" RATIFIED; ruling 32's row gains the clause** (item 17 [391, 419]): "*arguere*
+  the logical act (*potest ex hoc argui*) 'argue'" (`c7-v1-16` ¶ 13, `c12-v13-34` ¶ 36, `c20-v27-40` ¶ 42). 0 lines.
+- **114. *denarius* "penny" KEPT; the *denarius / decimus* loss RECORDED** (item 16 [407]). `c20-v19-26` ¶ 30; the
+  coin is "penny" at every site, the `c15-v8-10` ¶ 16 precedent. 0 lines.
+- **115. *ortus* of trees "birth" RATIFIED** (item 20 [476]). `c21-v28-38` ¶ 50 "birth … going down … fruit". The
+  clause the sheet offered is written into ruling 32's row: "*ortus* 'birth' (also of faith, `c17-v5-10`; of man under
+  the figure of a tree, `c21-v28-38`); the sun's *ortus* and *ortum habere* 'rising / take its rise'." 0 lines.
+- **116. *claritas* and *splendor* both "brightness" RATIFIED** (item 19 [329, 476]); Amos 5:20 keeps the Douay. 0 lines.
+- **117. The interval's thirteen `tr-` notes RATIFIED as placed; `tr-lumen` at `c21-v25-27` ¶ 41 as built** (item 21).
+  The *lux* / *lumen* rule is not narrowed for the plural *lumina* (alternative (b) not taken); Ps. 4:7 "The lumen of
+  thy countenance" at `c20-v19-26` ¶ 30 a ruling-28 split against `c12-v49-59` ¶ 84. 0 lines.
+- **118. *intellectus / intelligentia* RATIFIED as built** (item 22); zero bare "intellect" in the interval. 0 lines.
+- **119. *poena* "penalty" ×2 in `c20-v27-40` → "punishment"** (passes N-1; `CLAUDE.md:3502`, ruling 94). ¶ 37 (l. 94)
+  "the punishment of *unshoeing*"; p. 513 n. 8 **En.** (l. 196) "On the punishment of *discalceatio*". 2 lines.
+- **120. Job 36:13 at `c20-v41-47` → "prove", the Douay** (passes N-2). ¶ 56 (l. 108) "dissemblers and crafty men prove
+  the wrath of God", as at `c20-v19-26` ¶ 26. The line is one of ruling 108's four; no line added.
+- **121. Paragraph shape: the one blank line INSERTED; the four stray English breaks RECORDED** (passes N-3).
+  `c20-v10-18`: a blank line before the Latin ¶ 16 (l. 36), so the site no longer renders it inside ¶ 15; no word
+  changed (1 line). `c19-v1-10` ¶¶ 5, 7, 9 and `c21-v12-19` ¶ 25 keep their single-newline breaks (render as a space;
+  the work's tolerated residue, 102 places in 26 old-ground chunks). (c), a `validate-chunk.py` check for a numbered
+  paragraph with no blank line above it, is QUEUED with the tool job (ruling 129).
+- **122. The 518L t4 stands at ~0.53 — the two records CORRECTED** (item 4 / D-6 [414, 424]; passes R-1).
+  `lucam-chunk-manifest-notes.md` § Stage 6 l. 980 "518L 518.36" → "518.53" (struck figure kept; stage 6's section
+  lengths shift to ~2.0 and ~1.7, their sum unchanged); `c20-v27-40`'s item (414) "~0.36" → "~0.53 (plate, p. 540
+  gate)" (and the same figure in its Provenance, the same record). The joint, the rows and the chunks are unaffected.
+  No English line.
+- **123. Batch A RATIFIED** (items 1, 3, 5, 6): all 18 stage-6 rows built as drawn; last ¶ XIX 75 · XX 56 · XXI 60; the
+  titles (eight heading, ten sentence), the two lemmas printed against the Vulgate (¶ 32 *Et tertius venit*, ¶ 53
+  *Exeunte autem illo*); 32 runovers ledgered (27 gutter, 5 page).
+- **124. Batch B RATIFIED** (items 7, 26, 27): the one Corrigenda entry (p. 533 col. 2 l. 11 *poterunt* → *poterant*,
+  `tr-corrigenda`); the three `[so printed]` (*novissorum*, *commitiendo*, *itam*); zero new `[?]`. **The live `[?]`
+  (`c5-v12-16` p. 122 n. 11) STAYS OPEN** (rulings 59, 73, 90, 102).
+- **125. Batch C RATIFIED, ruling 43's shape** (items 8–11): the interval's ruling-20 Douay adjustments, the verses kept
+  on the Douay where nothing leans, and the ruling-28 splits (Luke 16:8, James 1:11 / Isa. 40:7, Ps. 4:7, Wis. 2:12,
+  *turba* "crowd" on Luke 19:3), as tabled in the sheet.
+- **126. Batch D RATIFIED, ruling 71's shape** (items 23–24): the interval's house words as listed in the sheet.
+  Recorded: *mirus* stays unruled (ruling 103); *segnitia* "sloth" still carried (ruling 101).
+- **127. Batches E–G RATIFIED as transcribed (rulings 36, 57); H BANKED, no ruling** (items 25–29).
+- **128. Records, no text effect.** The interval's page-crossing runovers are **five**, not the resume's three: p. 478
+  n. 14, p. 485 n. 15, **p. 488 n. 11** (`c19-v29-35`), p. 507 n. 15, **p. 513 n. 14** (`c20-v27-40`); interval
+  runovers 32 = 27 gutter + 5 page (253 → 285). D-1 is eight sites on five lines (ruling 105); D-4 is six against two
+  (ruling 107). Ruling 69's count was wrong (ruling 110). `c20-v27-40` (414) repeated stage 6's figure (ruling 122).
+  **The resume's T-e list enumerates 10 of the interval's 15 newly unresolved anaphors** (the total 427 → 442 is
+  right; all 15 are in the sheet's J-9 row). `c20-v41-47`'s "Kept as the Douay" Job 36:13 entry was untrue until
+  ruling 120 (now amended in place). `c21-v5-11`'s (443) misread ruling 69 (ruling 110). The `c20-v41-47`
+  `transcription_status` keeps "the feigning of virtues" (frontmatter). **Carried again, not on this docket, not
+  edited:** *infidelitas* "infidelity" at `c7-v24-35` ¶ 57 ×2 and `c8-v34-39` p. 207 n. 11 **En.**, "unbelief" at
+  `c7-v17-23` ¶ 37 and `c1-v18-25` p. 18 n. 6 (ruling 103's five old-ground lines; ruling 71). p. 538 n. 10's *infra c.
+  22. n. 2. et 10* is to be checked when Cap. XXII is built.
+- **129. The interval's tool items FOLDED into ruling 76 / 92 / 104's ONE job J-1..J-12, QUEUED, NOT RUN.** **J-1** +
+  eight wrong edges (p. 479 n. 5 `Act 1:15`; `c19-v20-28` ¶ 37 `1Reg 16:43`, ¶ 34 `Rom 2:12`; p. 488 n. 5 → `bon-luc-c10-v1-3`;
+  p. 503 n. 13 `Ps 90:11`; `c21-v1-4` ¶ 2 `Num 30:50`; `c21-v12-19` ¶ 23 `Apoc 11:3`; `c21-v28-38` ¶ 59 `2Tim 4:2`) +
+  one doubtful (`c19-v1-10` ¶ 14 `2Par 36`, confidence C); **J-1 / D4** the three page-split body ordinals of
+  `c21-v28-38` ¶¶ 50, 54, 57 that emit no record; **J-3** p. 511 n. 1 *Matth. 20, 20* (filed confidence A; wants a
+  `CROSSREF_SLIPS`-style annotation), p. 510 n. 4, p. 524 n. 3 (no record); **J-4** the accusative *notam N* at **13**
+  interval sites (four `page-multi`); **J-9** the 15 unresolvable *loc. cit. / ibid.* (427 → 442); **J-6 / D5, J-11**
+  as tabled; **new:** the `validate-chunk.py` blank-line check (ruling 121). Same discipline as ruling 76: report → fix
+  → report; `tools/build-citations.py` (and the one validator check) only, then `build-citations.py` →
+  `build-index-json.py`; run after the gate on Wilson's word. Baseline: QA 213, anaphora unresolved 442.
+- **130. Plates: pp. 472–539 DELETABLE after the close; pp. 540–541 KEPT** (they serve manifest stage 7), and the eight
+  pilot / Corrigenda leaves kept. **The deletion is OWED and needs Wilson's own OK** (a hard stop): `rm
+  raw/vision/vol7/p-{472..539}.png` (68 files, ~269 MB; regenerable with `python3.11 tools/extract-pages.py --volume
+  vol7 --pages N --dpi 300`). Nothing deleted at this close. The pp. 88–471 plates (384 files, 1,517 MB) are likewise
+  left to Wilson.
+
+**Manifest stage 7 is NOT drawn.** Stage 6 ends at `bon-luc-c21-v28-38`; p. 540 nn. 2–10 are PENDING for Cap. XXII. The
+next step is drawing stage 7 (Cap. XXII ¶ 1 on p. 540 → the work close at p. 604, ruling 2), which needs Wilson's go;
+then the build to the work close, then the Appendix (ruling 7).

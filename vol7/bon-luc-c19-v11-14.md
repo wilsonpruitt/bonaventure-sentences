@@ -290,3 +290,5 @@ the giving of the law and the service and the promises, whose are the fathers, a
 ### Italic — non-expositio sites
 
 None (the span is all *expositio*).
+
+**⭐ p. 540 GATE — RULED (Wilson, 2026-11-20, "Approve all"; rulings 123, 125, 126, 129 in `manual-review/vol7-pilot-setup.md`, evidence in `manual-review/vol7-lucam-p540-gate-evidence-sheet.md` items 123, 125, 126, 129; gate record `manual-review/vol7-lucam-p540-gate.md`).** **No line changed.** Boundaries ratified as built (ruling 123); the ruling-20 adjustments (Luke 19:12 "A certain noble man", [309]) and *negotiari / negotiatio* "trade" / "traffic" [310] ratified (rulings 125, 126). p. 479 n. 5 *Lucas ibid. c. 2, 1* (`Act 1:15` for Acts 2:1, [316]) is a J-1 wrong edge in the queued tool job (ruling 129), not run.
